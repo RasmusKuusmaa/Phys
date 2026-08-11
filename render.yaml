@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: phys-project-display
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    plan: free
+    envVars:
+      - key: NODE_ENV
+        value: production
