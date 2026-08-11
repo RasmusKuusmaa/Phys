@@ -1,7 +1,7 @@
 import json
 import sys
 
-import numpy as np
+from pi_estimate import estimate_pi
 
 MIN_POINTS = 100
 MAX_POINTS = 20000
@@ -16,24 +16,19 @@ def main():
             pass
     n = max(MIN_POINTS, min(n, MAX_POINTS))
 
-    x = np.random.uniform(0, 1, n)
-    y = np.random.uniform(0, 1, n)
-    inside = x**2 + y**2 <= 1
+    result = estimate_pi(n)
 
-    inside_count = int(np.sum(inside))
-    pi_estimate = 4 * inside_count / n
-
-    result = {
+    output = {
         "n": n,
-        "insideCount": inside_count,
-        "piEstimate": pi_estimate,
+        "insideCount": result.inside_count,
+        "piEstimate": result.pi_estimate,
         "points": [
             {"x": round(float(px), 4), "y": round(float(py), 4), "inside": bool(pin)}
-            for px, py, pin in zip(x, y, inside)
+            for px, py, pin in zip(result.x, result.y, result.inside)
         ],
     }
 
-    print(json.dumps(result))
+    print(json.dumps(output))
 
 
 if __name__ == "__main__":

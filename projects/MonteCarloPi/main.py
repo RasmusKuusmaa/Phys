@@ -1,5 +1,7 @@
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
+
+from pi_estimate import estimate_pi
 
 fig, ax = plt.subplots()
 
@@ -25,15 +27,10 @@ ax.plot(x_circle, y_circle)
 #plot points
 n = 100000
 
-x_random = np.random.uniform(0,1,n)
-y_random = np.random.uniform(0,1,n)
+result = estimate_pi(n)
 
-ax.scatter(x_random, y_random, s=2)
+ax.scatter(result.x, result.y, s=2)
 
-inside = x_random ** 2 + y_random ** 2 <= 1
-
-inside_count = np.sum(inside)
-pi_estimate = 4 * inside_count / n
-print("PI = ", pi_estimate)
+print("PI = ", result.pi_estimate)
 
 plt.show()
