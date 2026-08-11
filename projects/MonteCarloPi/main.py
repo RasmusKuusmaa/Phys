@@ -22,5 +22,11 @@ y_circle = np.sin(theta)
 
 ax.plot(x_circle, y_circle)
 
+#plot points
+n = 1000
 
+x_random = np.random.uniform(0,1,n)
+y_random = np.random.uniform(0,1,n)
+
+ax.scatter(x_random, y_random, s=2)
 plt.show()
