@@ -1,0 +1,21 @@
+{
+  "site": {
+    "name": "FKM Kompass"
+  },
+  "nav": {
+    "roadmap": "Roadmap",
+    "formulas": "Formulas",
+    "glossary": "Glossary",
+    "practice": "Practice"
+  },
+  "localeSwitcher": {
+    "label": "Language"
+  },
+  "home": {
+    "heading": "Find your way through physics, mathematics, chemistry and materials science.",
+    "subheading": "A bilingual reference and practice site, built subject by subject."
+  },
+  "footer": {
+    "builtWith": "Built with Next.js, Tailwind and KaTeX."
+  }
+}

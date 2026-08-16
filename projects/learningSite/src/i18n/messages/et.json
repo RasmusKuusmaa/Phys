@@ -1,0 +1,21 @@
+{
+  "site": {
+    "name": "FKM Kompass"
+  },
+  "nav": {
+    "roadmap": "Õpitee",
+    "formulas": "Valemid",
+    "glossary": "Sõnastik",
+    "practice": "Harjutused"
+  },
+  "localeSwitcher": {
+    "label": "Keel"
+  },
+  "home": {
+    "heading": "Leia oma tee läbi füüsika, matemaatika, keemia ja materjaliteaduse.",
+    "subheading": "Kakskeelne teatme- ja harjutusleht, mis ehitatakse üles aine haaval."
+  },
+  "footer": {
+    "builtWith": "Ehitatud Next.js, Tailwindi ja KaTeXiga."
+  }
+}

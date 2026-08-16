@@ -3,6 +3,8 @@ import { Geist, Geist_Mono } from "next/font/google";
 import { lang } from "next/root-params";
 import { notFound } from "next/navigation";
 import { isLocale, locales } from "@/i18n/locales";
+import { getDictionary } from "@/i18n/dictionaries";
+import { LocaleSwitcher } from "@/components/LocaleSwitcher";
 import "../globals.css";
 
 const geistSans = Geist({
@@ -20,8 +22,10 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata(): Promise<Metadata> {
+  const dict = await getDictionary();
   return {
-    title: "FKM Kompass",
+    title: dict.site.name,
+    description: dict.home.subheading,
     // Route-level pages (Phase 8 concept pages) must override this with
     // their own path, since alternates here only cover "/[lang]" itself.
     alternates: {
@@ -35,6 +39,7 @@ export default async function RootLayout({
 }: LayoutProps<"/[lang]">) {
   const locale = await lang();
   if (!locale || !isLocale(locale)) notFound();
+  const dict = await getDictionary();
 
   return (
     <html
@@ -42,7 +47,18 @@ export default async function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
+        <header className="border-b border-border">
+          <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-4">
+            <span className="text-lg font-semibold">{dict.site.name}</span>
+            <LocaleSwitcher currentLocale={locale} />
+          </div>
+        </header>
         <main className="flex-1">{children}</main>
+        <footer className="border-t border-border">
+          <div className="mx-auto max-w-5xl px-4 py-4 text-sm text-muted">
+            {dict.footer.builtWith}
+          </div>
+        </footer>
       </body>
     </html>
   );
