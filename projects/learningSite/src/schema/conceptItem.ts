@@ -17,3 +17,13 @@ export const ConceptItemBaseSchema = z.object({
 
 export type ConceptItemOption = z.infer<typeof ConceptItemOptionSchema>;
 export type ConceptItemBase = z.infer<typeof ConceptItemBaseSchema>;
+
+export const MultipleChoiceItemSchema = ConceptItemBaseSchema.extend({
+  type: z.literal("multiple-choice"),
+  options: z.array(ConceptItemOptionSchema).min(2),
+}).refine((item) => item.options.filter((o) => o.correct).length === 1, {
+  message: "exactly one option must be marked correct",
+  path: ["options"],
+});
+
+export type MultipleChoiceItem = z.infer<typeof MultipleChoiceItemSchema>;
