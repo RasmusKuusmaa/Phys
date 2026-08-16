@@ -9,3 +9,4 @@ export * from "./locale";
 export * from "./resource";
 export * from "./problemTemplate";
 export * from "./errorModel";
+export * from "./conceptItem";
