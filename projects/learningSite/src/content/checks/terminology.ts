@@ -1,4 +1,4 @@
-import type { BannedVariant } from "@/schema";
+import type { BannedVariant, GlossaryEntry } from "@/schema";
 
 function isLocalisedTextShape(value: unknown): value is { en: string; et: string } {
   return (
@@ -31,13 +31,9 @@ function collectEstonianStrings(node: unknown, pathPrefix = ""): { path: string;
   return found;
 }
 
-export type TerminologyIssue = {
-  type: "banned-variant";
-  path: string;
-  wrong: string;
-  correct: string;
-  note: string;
-};
+export type TerminologyIssue =
+  | { type: "banned-variant"; path: string; wrong: string; correct: string; note: string }
+  | { type: "untranslated-term"; path: string; term: string };
 
 /** Flags Estonian content text that contains a banned wrong rendering of a locked term (whole-word match, case-insensitive). */
 export function lintBannedVariants(
@@ -64,6 +60,55 @@ export function lintBannedVariants(
             note: variant.note,
           });
         }
+      }
+    }
+  }
+  return issues;
+}
+
+/**
+ * Duck-typed rather than importing the (Phase 2) `Formula` schema: any
+ * `symbols` array with `name.en` string entries counts, regardless of
+ * which content schema it came from.
+ */
+function collectSymbolNames(node: unknown, pathPrefix = ""): { path: string; en: string }[] {
+  const found: { path: string; en: string }[] = [];
+  if (Array.isArray(node)) {
+    node.forEach((item, i) => found.push(...collectSymbolNames(item, `${pathPrefix}[${i}]`)));
+    return found;
+  }
+  if (node && typeof node === "object") {
+    for (const [key, value] of Object.entries(node)) {
+      if (key === "symbols" && Array.isArray(value)) {
+        value.forEach((symbol, i) => {
+          const en = (symbol as { name?: { en?: unknown } })?.name?.en;
+          if (typeof en === "string") {
+            found.push({ path: `${pathPrefix}${pathPrefix ? "." : ""}symbols[${i}].name.en`, en });
+          }
+        });
+      } else {
+        found.push(...collectSymbolNames(value, pathPrefix ? `${pathPrefix}.${key}` : key));
+      }
+    }
+  }
+  return found;
+}
+
+/** Flags formula symbol names that have no matching glossary entry — terminology must be locked before content uses it. */
+export function lintUntranslatedTerms(
+  files: { filePath: string; data: unknown }[],
+  glossary: GlossaryEntry[],
+): TerminologyIssue[] {
+  const glossaryTerms = new Set(glossary.map((g) => g.en.toLowerCase()));
+  const issues: TerminologyIssue[] = [];
+  for (const file of files) {
+    for (const { path: fieldPath, en } of collectSymbolNames(file.data)) {
+      if (!glossaryTerms.has(en.toLowerCase())) {
+        issues.push({
+          type: "untranslated-term",
+          path: `${file.filePath}#${fieldPath}`,
+          term: en,
+        });
       }
     }
   }
