@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "lint:terminology": "tsx scripts/lint-terminology.ts"
+    "lint:terminology": "tsx scripts/lint-terminology.ts",
+    "validate:content": "tsx scripts/validate-content.ts"
   },
   "dependencies": {
     "katex": "^0.18.4",
