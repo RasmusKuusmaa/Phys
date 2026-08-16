@@ -1,0 +1,39 @@
+name: FKM Kompass CI
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - "projects/learningSite/**"
+      - ".github/workflows/learningsite-ci.yml"
+  pull_request:
+    paths:
+      - "projects/learningSite/**"
+      - ".github/workflows/learningsite-ci.yml"
+
+defaults:
+  run:
+    working-directory: projects/learningSite
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: projects/learningSite/package-lock.json
+
+      - run: npm ci
+
+      - name: Typecheck
+        run: npx tsc --noEmit
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Build
+        run: npm run build
