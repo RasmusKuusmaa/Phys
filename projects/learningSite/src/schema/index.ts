@@ -7,3 +7,4 @@ export * from "./formula";
 export * from "./misconception";
 export * from "./locale";
 export * from "./resource";
+export * from "./problemTemplate";
