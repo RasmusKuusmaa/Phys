@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { isLocale, locales } from "@/i18n/locales";
 import { getDictionary } from "@/i18n/dictionaries";
 import { LocaleSwitcher } from "@/components/LocaleSwitcher";
+import Link from "next/link";
 import "../globals.css";
 
 const geistSans = Geist({
@@ -50,7 +51,12 @@ export default async function RootLayout({
         <header className="border-b border-border">
           <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-4">
             <span className="text-lg font-semibold">{dict.site.name}</span>
-            <LocaleSwitcher currentLocale={locale} />
+            <nav className="flex items-center gap-4 text-sm">
+              <Link href={`/${locale}/glossary`} className="text-muted hover:text-foreground">
+                {dict.nav.glossary}
+              </Link>
+              <LocaleSwitcher currentLocale={locale} />
+            </nav>
           </div>
         </header>
         <main className="flex-1">{children}</main>
