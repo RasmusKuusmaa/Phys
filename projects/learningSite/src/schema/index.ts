@@ -5,3 +5,5 @@ export * from "./localisedString";
 export * from "./concept";
 export * from "./formula";
 export * from "./misconception";
+export * from "./locale";
+export * from "./resource";
