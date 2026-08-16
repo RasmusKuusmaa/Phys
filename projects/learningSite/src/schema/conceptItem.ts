@@ -27,3 +27,23 @@ export const MultipleChoiceItemSchema = ConceptItemBaseSchema.extend({
 });
 
 export type MultipleChoiceItem = z.infer<typeof MultipleChoiceItemSchema>;
+
+/**
+ * Tests whether a learner can reason about how one quantity responds when
+ * another changes by `changeFactor`, given the declared proportionality
+ * `relationship` (e.g. doubling `a` at constant `m` doubles `F` — direct).
+ * Options are still author-written full strings per the locked
+ * `changeFactor` (never interpolated), matching the noun-interpolation
+ * policy in DECISIONS.md.
+ */
+export const ProportionalityItemSchema = ConceptItemBaseSchema.extend({
+  type: z.literal("proportionality"),
+  relationship: z.enum(["direct", "inverse", "direct-square", "inverse-square"]),
+  changeFactor: z.number().positive(),
+  options: z.array(ConceptItemOptionSchema).min(2),
+}).refine((item) => item.options.filter((o) => o.correct).length === 1, {
+  message: "exactly one option must be marked correct",
+  path: ["options"],
+});
+
+export type ProportionalityItem = z.infer<typeof ProportionalityItemSchema>;
