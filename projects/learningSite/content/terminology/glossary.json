@@ -1,1 +1,27 @@
-[]
+[
+  { "id": "quantity", "en": "quantity", "et": "suurus", "domain": "measurement", "source": "https://sonaveeb.ee/search/unif/est/eki/suurus/1/est" },
+  { "id": "unit", "en": "unit", "et": "ühik", "domain": "measurement", "source": "https://sonaveeb.ee/search/unif/est/eki/ühik/1/est" },
+  { "id": "measurement", "en": "measurement", "et": "mõõtmine", "domain": "measurement", "source": "https://sonaveeb.ee/search/unif/est/eki/mõõtmine/1/est" },
+  { "id": "uncertainty", "en": "uncertainty", "et": "mõõtemääramatus", "domain": "measurement", "source": "https://sonaveeb.ee/search/unif/est/eki/mõõtemääramatus/1/est" },
+  { "id": "error", "en": "error", "et": "viga", "domain": "measurement", "source": "https://sonaveeb.ee/search/unif/est/eki/viga/1/est" },
+  { "id": "precision", "en": "precision", "et": "täpsus", "domain": "measurement", "source": "https://sonaveeb.ee/search/unif/est/eki/täpsus/1/est" },
+  { "id": "accuracy", "en": "accuracy", "et": "õigsus", "domain": "measurement", "source": "https://sonaveeb.ee/search/unif/est/eki/õigsus/1/est" },
+  { "id": "significant-figures", "en": "significant figures", "et": "tüvinumbrid", "domain": "measurement", "source": "https://sonaveeb.ee/search/unif/est/eki/tüvinumber/1/est" },
+  { "id": "scalar", "en": "scalar", "et": "skalaar", "domain": "measurement", "source": "https://sonaveeb.ee/search/unif/est/eki/skalaar/1/est" },
+  { "id": "vector", "en": "vector", "et": "vektor", "domain": "measurement", "source": "https://sonaveeb.ee/search/unif/est/eki/vektor/1/est" },
+
+  { "id": "force", "en": "force", "et": "jõud", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/jõud/1/est" },
+  { "id": "mass", "en": "mass", "et": "mass", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/mass/1/est" },
+  { "id": "velocity", "en": "velocity", "et": "kiirus", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/kiirus/1/est" },
+  { "id": "acceleration", "en": "acceleration", "et": "kiirendus", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/kiirendus/1/est" },
+  { "id": "displacement", "en": "displacement", "et": "nihe", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/nihe/1/est" },
+  { "id": "momentum", "en": "momentum", "et": "impulss", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/impulss/1/est" },
+  { "id": "energy", "en": "energy", "et": "energia", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/energia/1/est" },
+  { "id": "work", "en": "work", "et": "töö", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/töö/1/est" },
+  { "id": "power", "en": "power", "et": "võimsus", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/võimsus/1/est" },
+  { "id": "friction", "en": "friction", "et": "hõõrdumine", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/hõõrdumine/1/est" },
+  { "id": "gravity", "en": "gravity", "et": "raskusjõud", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/raskusjõud/1/est" },
+  { "id": "weight", "en": "weight", "et": "kaal", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/kaal/1/est" },
+  { "id": "pressure", "en": "pressure", "et": "rõhk", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/rõhk/1/est" },
+  { "id": "equilibrium", "en": "equilibrium", "et": "tasakaal", "domain": "mechanics", "source": "https://sonaveeb.ee/search/unif/est/eki/tasakaal/1/est" }
+]
