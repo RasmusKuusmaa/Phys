@@ -66,3 +66,41 @@ export const FormulaSelectionItemSchema = ConceptItemBaseSchema.extend({
 
 export type FormulaSelectionOption = z.infer<typeof FormulaSelectionOptionSchema>;
 export type FormulaSelectionItem = z.infer<typeof FormulaSelectionItemSchema>;
+
+/** Asks the learner to place entries in the correct order (or match them to a sequence) — `correctPosition` values must form a 0-based permutation, not just be distinct. */
+export const OrderingEntrySchema = z.object({
+  id: z.string().min(1),
+  label: LocalisedStringSchema,
+  correctPosition: z.number().int().nonnegative(),
+});
+
+export const OrderingItemSchema = ConceptItemBaseSchema.extend({
+  type: z.literal("ordering"),
+  entries: z.array(OrderingEntrySchema).min(2),
+}).superRefine((item, ctx) => {
+  const positions = [...item.entries.map((e) => e.correctPosition)].sort((a, b) => a - b);
+  const expected = item.entries.map((_, i) => i);
+  const isPermutation = positions.every((p, i) => p === expected[i]);
+  if (!isPermutation) {
+    ctx.addIssue({
+      code: "custom",
+      path: ["entries"],
+      message: "correctPosition values must be a 0-based permutation of the entries",
+    });
+  }
+});
+
+export type OrderingEntry = z.infer<typeof OrderingEntrySchema>;
+export type OrderingItem = z.infer<typeof OrderingItemSchema>;
+
+// Each variant above is `.refine`/`.superRefine`-wrapped (ZodEffects), which
+// `z.discriminatedUnion` can't introspect for its discriminant — a plain
+// `z.union` still validates correctly, just by trying each variant in turn.
+export const ConceptItemSchema = z.union([
+  MultipleChoiceItemSchema,
+  ProportionalityItemSchema,
+  FormulaSelectionItemSchema,
+  OrderingItemSchema,
+]);
+
+export type ConceptItem = z.infer<typeof ConceptItemSchema>;
