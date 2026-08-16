@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "lint:terminology": "tsx scripts/lint-terminology.ts",
-    "validate:content": "tsx scripts/validate-content.ts"
+    "validate:content": "tsx scripts/validate-content.ts",
+    "content:stale-report": "tsx scripts/stale-report.ts"
   },
   "dependencies": {
     "katex": "^0.18.4",
