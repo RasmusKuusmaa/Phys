@@ -1,3 +1,5 @@
+import { areUnitsEquivalent, unitRegistry } from "@/lib/units/registry";
+
 /**
  * Accepts both `9,81` and `9.81` regardless of locale (display formatting
  * is a separate, locale-aware concern — see `src/i18n/numberFormat.ts`),
@@ -14,4 +16,28 @@ export function parseNumericInput(input: string): number | null {
   if (!/^[+-]?\d+(\.\d+)?([eE][+-]?\d+)?$/.test(normalized)) return null;
 
   return parseFloat(normalized);
+}
+
+export type ParsedAnswer = {
+  value: number;
+  unit: string | null;
+};
+
+/** Splits a numeric value from a trailing unit token, e.g. "9,81 m/s^2" -> { value: 9.81, unit: "m/s^2" }. */
+export function parseAnswerWithUnit(input: string): ParsedAnswer | null {
+  const trimmed = input.trim();
+  const match = trimmed.match(/^([^\s]+)\s*(.*)$/);
+  if (!match) return null;
+
+  const [, numericPart, unitPart] = match;
+  const value = parseNumericInput(numericPart);
+  if (value === null) return null;
+
+  return { value, unit: unitPart ? unitPart.trim() : null };
+}
+
+/** Whether the given unit is dimensionally the same as the expected unit (e.g. "km/h" vs "m/s" — different symbol, same dimension family only if declared equivalent in the registry). */
+export function answerUnitMatches(givenUnit: string, expectedUnit: string): boolean {
+  if (!(givenUnit in unitRegistry) || !(expectedUnit in unitRegistry)) return false;
+  return areUnitsEquivalent(givenUnit, expectedUnit);
 }
