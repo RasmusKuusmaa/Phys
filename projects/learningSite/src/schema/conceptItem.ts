@@ -47,3 +47,22 @@ export const ProportionalityItemSchema = ConceptItemBaseSchema.extend({
 });
 
 export type ProportionalityItem = z.infer<typeof ProportionalityItemSchema>;
+
+/** Presents a scenario stem and asks which formula applies — options reference `Formula.id` directly (drawn from the formula index, Phase 9) rather than repeating the formula's LaTeX as item content. */
+export const FormulaSelectionOptionSchema = z.object({
+  id: z.string().min(1),
+  formulaId: z.string().min(1),
+  correct: z.boolean(),
+  misconceptionId: z.string().min(1).optional(),
+});
+
+export const FormulaSelectionItemSchema = ConceptItemBaseSchema.extend({
+  type: z.literal("formula-selection"),
+  options: z.array(FormulaSelectionOptionSchema).min(2),
+}).refine((item) => item.options.filter((o) => o.correct).length === 1, {
+  message: "exactly one option must be marked correct",
+  path: ["options"],
+});
+
+export type FormulaSelectionOption = z.infer<typeof FormulaSelectionOptionSchema>;
+export type FormulaSelectionItem = z.infer<typeof FormulaSelectionItemSchema>;
