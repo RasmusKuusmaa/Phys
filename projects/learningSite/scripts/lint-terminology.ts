@@ -1,37 +1,13 @@
-import { readdirSync, readFileSync } from "node:fs";
+import { readdirSync } from "node:fs";
 import path from "node:path";
+import { CONTENT_ROOT, loadJsonFilesRaw } from "@/content/loader";
 import { loadGlossary, loadBannedVariants } from "@/content/glossary";
 import { lintBannedVariants, lintUntranslatedTerms } from "@/content/checks/terminology";
-
-const CONTENT_ROOT = path.join(process.cwd(), "content");
 
 function subjectDirs(): string[] {
   return readdirSync(CONTENT_ROOT, { withFileTypes: true })
     .filter((e) => e.isDirectory() && e.name !== "terminology")
     .map((e) => e.name);
-}
-
-function findJsonFiles(dir: string): string[] {
-  let entries: ReturnType<typeof readdirSync>;
-  try {
-    entries = readdirSync(dir, { withFileTypes: true });
-  } catch {
-    return [];
-  }
-  const files: string[] = [];
-  for (const entry of entries) {
-    const full = path.join(dir, entry.name);
-    if (entry.isDirectory()) files.push(...findJsonFiles(full));
-    else if (entry.isFile() && entry.name.endsWith(".json")) files.push(full);
-  }
-  return files;
-}
-
-function loadJsonFilesRaw(dir: string) {
-  return findJsonFiles(dir).map((filePath) => ({
-    filePath,
-    data: JSON.parse(readFileSync(filePath, "utf8")),
-  }));
 }
 
 function main() {
