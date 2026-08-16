@@ -17,5 +17,9 @@
   },
   "footer": {
     "builtWith": "Ehitatud Next.js, Tailwindi ja KaTeXiga."
+  },
+  "workedSolution": {
+    "substituting": "Väärtuste asendamine:",
+    "result": "Tulemus:"
   }
 }

@@ -17,5 +17,9 @@
   },
   "footer": {
     "builtWith": "Built with Next.js, Tailwind and KaTeX."
+  },
+  "workedSolution": {
+    "substituting": "Substituting the values:",
+    "result": "Result:"
   }
 }

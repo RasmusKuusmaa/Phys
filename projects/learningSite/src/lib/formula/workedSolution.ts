@@ -1,4 +1,5 @@
 import type { Formula } from "@/schema";
+import type { Messages } from "@/i18n/dictionaries";
 import { evaluate, expressionIdentifiers } from "./expression";
 
 export type WorkedSolution = {
@@ -26,4 +27,16 @@ export function generateWorkedSolution(
   }
 
   return { expression, substituted, result: evaluate(expression, values) };
+}
+
+/** Renders a `WorkedSolution` as localised lines using the connective phrases from the message catalogue — the symbolic expression itself needs no translation, only the surrounding prose. */
+export function formatWorkedSolution(
+  solution: WorkedSolution,
+  dict: Pick<Messages, "workedSolution">,
+): string[] {
+  return [
+    solution.expression,
+    `${dict.workedSolution.substituting} ${solution.substituted}`,
+    `${dict.workedSolution.result} ${solution.result}`,
+  ];
 }
