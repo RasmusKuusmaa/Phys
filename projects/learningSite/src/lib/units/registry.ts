@@ -22,28 +22,49 @@ function dim(partial: Partial<Dimension>): Dimension {
   return { ...ZERO_DIMENSION, ...partial };
 }
 
+/** Symbols stay canonical (SI notation) across locales — only the display name is localised. */
 export type UnitDefinition = {
   symbol: string;
+  name: { en: string; et: string };
   dimension: Dimension;
   /** Multiply a value in this unit by `toBase` to get the coherent SI value for its dimension. */
   toBase: number;
 };
 
 export const unitRegistry: Record<string, UnitDefinition> = {
-  kg: { symbol: "kg", dimension: dim({ mass: 1 }), toBase: 1 },
-  g: { symbol: "g", dimension: dim({ mass: 1 }), toBase: 0.001 },
-  m: { symbol: "m", dimension: dim({ length: 1 }), toBase: 1 },
-  km: { symbol: "km", dimension: dim({ length: 1 }), toBase: 1000 },
-  s: { symbol: "s", dimension: dim({ time: 1 }), toBase: 1 },
-  "m/s": { symbol: "m/s", dimension: dim({ length: 1, time: -1 }), toBase: 1 },
-  "m/s^2": { symbol: "m/s^2", dimension: dim({ length: 1, time: -2 }), toBase: 1 },
-  N: { symbol: "N", dimension: dim({ mass: 1, length: 1, time: -2 }), toBase: 1 },
+  kg: { symbol: "kg", name: { en: "kilogram", et: "kilogramm" }, dimension: dim({ mass: 1 }), toBase: 1 },
+  g: { symbol: "g", name: { en: "gram", et: "gramm" }, dimension: dim({ mass: 1 }), toBase: 0.001 },
+  m: { symbol: "m", name: { en: "metre", et: "meeter" }, dimension: dim({ length: 1 }), toBase: 1 },
+  km: { symbol: "km", name: { en: "kilometre", et: "kilomeeter" }, dimension: dim({ length: 1 }), toBase: 1000 },
+  s: { symbol: "s", name: { en: "second", et: "sekund" }, dimension: dim({ time: 1 }), toBase: 1 },
+  "m/s": {
+    symbol: "m/s",
+    name: { en: "metre per second", et: "meeter sekundis" },
+    dimension: dim({ length: 1, time: -1 }),
+    toBase: 1,
+  },
+  "m/s^2": {
+    symbol: "m/s^2",
+    name: { en: "metre per second squared", et: "meeter sekundi kohta ruudus" },
+    dimension: dim({ length: 1, time: -2 }),
+    toBase: 1,
+  },
+  N: {
+    symbol: "N",
+    name: { en: "newton", et: "njuuton" },
+    dimension: dim({ mass: 1, length: 1, time: -2 }),
+    toBase: 1,
+  },
 };
 
 export function getUnit(symbol: string): UnitDefinition {
   const unit = unitRegistry[symbol];
   if (!unit) throw new Error(`Unknown unit symbol: ${symbol}`);
   return unit;
+}
+
+export function formatUnitName(symbol: string, locale: "en" | "et"): string {
+  return getUnit(symbol).name[locale];
 }
 
 export function dimensionsEqual(a: Dimension, b: Dimension): boolean {
