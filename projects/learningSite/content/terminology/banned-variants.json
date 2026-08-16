@@ -1,0 +1,32 @@
+[
+  {
+    "wrong": "vägi",
+    "correct": "force",
+    "note": "Archaic/folk word for a force-like effect. The locked SI-physics term is 'jõud', as in 'jõud on massi ja kiirenduse korrutis' (F = ma)."
+  },
+  {
+    "wrong": "resistants",
+    "correct": "resistance",
+    "note": "English calque. The established Estonian electrical-resistance term is 'takistus', not a loaned 'resistants'/'resistentsus'."
+  },
+  {
+    "wrong": "soojuskraad",
+    "correct": "temperature",
+    "note": "Colloquial ('degree of heat'), not the physics quantity. Use 'temperatuur'."
+  },
+  {
+    "wrong": "rutt",
+    "correct": "velocity",
+    "note": "Archaic/dialectal word for speed. The standard term is 'kiirus'."
+  },
+  {
+    "wrong": "valgusosake",
+    "correct": "photon",
+    "note": "Descriptive phrase ('light particle'), not the term. Use 'footon'."
+  },
+  {
+    "wrong": "kaal",
+    "correct": "mass",
+    "note": "'Kaal' is weight (a force), a distinct quantity from mass ('mass'). A common mass/weight conflation carried over from everyday English usage — flag it wherever 'kaal' is used to mean the physics quantity mass."
+  }
+]
