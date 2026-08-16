@@ -10,6 +10,7 @@
     "test": "vitest",
     "lint:terminology": "tsx scripts/lint-terminology.ts",
     "validate:content": "tsx scripts/validate-content.ts",
+    "content:hash": "tsx scripts/compute-hashes.ts",
     "content:stale-report": "tsx scripts/stale-report.ts"
   },
   "dependencies": {

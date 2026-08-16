@@ -1,0 +1,19 @@
+{
+  "id": "newtons-second-law",
+  "subject": "physics",
+  "level": "L1",
+  "module": "mechanics",
+  "title": {
+    "en": "Newton's second law",
+    "et": "Newtoni teine seadus",
+    "sourceHash": "d59d58d80eade4ea",
+    "stale": false
+  },
+  "summary": {
+    "en": "Force equals mass times acceleration.",
+    "et": "Jõud võrdub massi ja kiirenduse korrutisega.",
+    "sourceHash": "3e8777a8db05ae96",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "newtons-second-law-solve-f",
+  "formulaId": "newtons-second-law",
+  "variables": [
+    {
+      "symbol": "m",
+      "min": 1,
+      "max": 10,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "a",
+      "min": 1,
+      "max": 10,
+      "unit": "m/s^2",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "m",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "a",
+      "right": 0
+    }
+  ],
+  "solveFor": "F"
+}

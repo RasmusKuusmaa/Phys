@@ -1,0 +1,47 @@
+{
+  "id": "newtons-second-law",
+  "conceptId": "newtons-second-law",
+  "latex": "F = ma",
+  "symbols": [
+    {
+      "symbol": "F",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    },
+    {
+      "symbol": "m",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    },
+    {
+      "symbol": "a",
+      "name": {
+        "en": "acceleration",
+        "et": "kiirendus",
+        "sourceHash": "8da078cc2a03f56a",
+        "stale": false
+      },
+      "unit": "m/s^2"
+    }
+  ],
+  "solveFor": [
+    "F",
+    "a",
+    "m"
+  ],
+  "expressions": {
+    "F": "m * a",
+    "a": "F / m",
+    "m": "F / a"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "newtons-second-law-solve-f",
+  "formulaId": "newtons-second-law",
+  "solveFor": "F",
+  "mistakes": [
+    {
+      "id": "forgot-mass",
+      "description": {
+        "en": "Forgot to multiply by mass and reported acceleration alone.",
+        "et": "Unustas massiga korrutada ja esitas ainult kiirenduse.",
+        "sourceHash": "88e5d8b02723cb3d",
+        "stale": false
+      },
+      "expression": "a"
+    },
+    {
+      "id": "added-instead-of-multiplied",
+      "description": {
+        "en": "Added mass and acceleration instead of multiplying them.",
+        "et": "Liitis massi ja kiirenduse, selle asemel et korrutada.",
+        "sourceHash": "24f3e2071ac14e92",
+        "stale": false
+      },
+      "expression": "m + a"
+    },
+    {
+      "id": "used-mass-only",
+      "description": {
+        "en": "Reported the mass as the force.",
+        "et": "Esitas jõuna massi väärtuse.",
+        "sourceHash": "f3e7169492b3c7eb",
+        "stale": false
+      },
+      "expression": "m"
+    }
+  ]
+}

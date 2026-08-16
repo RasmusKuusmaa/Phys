@@ -5,6 +5,8 @@ import { loadConcepts } from "@/content/concepts";
 import { loadFormulas } from "@/content/formulas";
 import { loadMisconceptions } from "@/content/misconceptions";
 import { loadResources } from "@/content/resources";
+import { loadProblemTemplates } from "@/content/problemTemplates";
+import { loadErrorModels } from "@/content/errorModels";
 import { checkPrerequisites } from "@/content/checks/prerequisites";
 import { checkConceptLocales, checkResourceLocales } from "@/content/checks/locales";
 import { findStaleLocalisedStrings } from "@/content/staleness";
@@ -36,6 +38,8 @@ function main() {
       // checks specific to formulas/misconceptions yet.
       loadFormulas(subject);
       loadMisconceptions(subject);
+      loadProblemTemplates(subject);
+      loadErrorModels(subject);
       const resources = loadResources(subject);
       conceptCount += concepts.length;
 
