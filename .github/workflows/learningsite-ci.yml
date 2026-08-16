@@ -35,5 +35,8 @@ jobs:
       - name: Lint
         run: npm run lint
 
+      - name: Terminology lint
+        run: npm run lint:terminology
+
       - name: Build
         run: npm run build
