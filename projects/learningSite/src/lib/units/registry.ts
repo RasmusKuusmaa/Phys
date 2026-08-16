@@ -1,0 +1,64 @@
+export type Dimension = {
+  mass: number;
+  length: number;
+  time: number;
+  current: number;
+  temperature: number;
+  amount: number;
+  luminousIntensity: number;
+};
+
+const ZERO_DIMENSION: Dimension = {
+  mass: 0,
+  length: 0,
+  time: 0,
+  current: 0,
+  temperature: 0,
+  amount: 0,
+  luminousIntensity: 0,
+};
+
+function dim(partial: Partial<Dimension>): Dimension {
+  return { ...ZERO_DIMENSION, ...partial };
+}
+
+export type UnitDefinition = {
+  symbol: string;
+  dimension: Dimension;
+  /** Multiply a value in this unit by `toBase` to get the coherent SI value for its dimension. */
+  toBase: number;
+};
+
+export const unitRegistry: Record<string, UnitDefinition> = {
+  kg: { symbol: "kg", dimension: dim({ mass: 1 }), toBase: 1 },
+  g: { symbol: "g", dimension: dim({ mass: 1 }), toBase: 0.001 },
+  m: { symbol: "m", dimension: dim({ length: 1 }), toBase: 1 },
+  km: { symbol: "km", dimension: dim({ length: 1 }), toBase: 1000 },
+  s: { symbol: "s", dimension: dim({ time: 1 }), toBase: 1 },
+  "m/s": { symbol: "m/s", dimension: dim({ length: 1, time: -1 }), toBase: 1 },
+  "m/s^2": { symbol: "m/s^2", dimension: dim({ length: 1, time: -2 }), toBase: 1 },
+  N: { symbol: "N", dimension: dim({ mass: 1, length: 1, time: -2 }), toBase: 1 },
+};
+
+export function getUnit(symbol: string): UnitDefinition {
+  const unit = unitRegistry[symbol];
+  if (!unit) throw new Error(`Unknown unit symbol: ${symbol}`);
+  return unit;
+}
+
+export function dimensionsEqual(a: Dimension, b: Dimension): boolean {
+  return (Object.keys(a) as (keyof Dimension)[]).every((key) => a[key] === b[key]);
+}
+
+export function areUnitsEquivalent(a: string, b: string): boolean {
+  return dimensionsEqual(getUnit(a).dimension, getUnit(b).dimension);
+}
+
+export function convert(value: number, from: string, to: string): number {
+  const fromUnit = getUnit(from);
+  const toUnit = getUnit(to);
+  if (!dimensionsEqual(fromUnit.dimension, toUnit.dimension)) {
+    throw new Error(`Cannot convert ${from} to ${to}: dimension mismatch`);
+  }
+  return (value * fromUnit.toBase) / toUnit.toBase;
+}
