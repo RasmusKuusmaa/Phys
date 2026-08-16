@@ -1,5 +1,6 @@
 import type { ProblemTemplate } from "@/schema";
 import { createRng, hashSeed, randomInRange } from "./rng";
+import { roundToSignificantFigures } from "./significantFigures";
 
 export type InstantiatedProblem = {
   templateId: string;
@@ -21,7 +22,8 @@ export function instantiateProblem(
   for (let attempt = 0; attempt < MAX_ATTEMPTS; attempt++) {
     const values: Record<string, number> = {};
     for (const variable of template.variables) {
-      values[variable.symbol] = randomInRange(rng, variable.min, variable.max);
+      const raw = randomInRange(rng, variable.min, variable.max);
+      values[variable.symbol] = roundToSignificantFigures(raw, variable.sigFigs);
     }
     if (satisfiesConstraints(template.constraints, values)) {
       return {
