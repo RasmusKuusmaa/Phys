@@ -7,6 +7,7 @@ import { loadFormulas } from "@/content/formulas";
 import { loadProblemTemplates } from "@/content/problemTemplates";
 import { loadErrorModels } from "@/content/errorModels";
 import { loadConceptItems } from "@/content/conceptItems";
+import { loadMisconceptions } from "@/content/misconceptions";
 import type { TestConfig } from "@/schema";
 import { TestRunner } from "./TestRunner";
 
@@ -48,6 +49,7 @@ export default async function PracticeRunPage({
       templates={loadProblemTemplates(subject)}
       errorModels={loadErrorModels(subject)}
       conceptItems={loadConceptItems(subject)}
+      misconceptions={loadMisconceptions(subject)}
     />
   );
 }

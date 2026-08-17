@@ -29,3 +29,21 @@ export function computeConceptResults(answers: AnswerRecord[]): ConceptResult[] 
 export function isWeakConcept(result: ConceptResult): boolean {
   return result.accuracy < WEAK_THRESHOLD;
 }
+
+export type MisconceptionCount = {
+  misconceptionId: string;
+  count: number;
+};
+
+/** Sorted most-repeated first, so the results screen can surface the error patterns a learner keeps hitting. */
+export function computeMisconceptionCounts(answers: AnswerRecord[]): MisconceptionCount[] {
+  const counts = new Map<string, number>();
+  for (const answer of answers) {
+    if (!answer.correct && answer.misconceptionId) {
+      counts.set(answer.misconceptionId, (counts.get(answer.misconceptionId) ?? 0) + 1);
+    }
+  }
+  return [...counts.entries()]
+    .map(([misconceptionId, count]) => ({ misconceptionId, count }))
+    .sort((a, b) => b.count - a.count);
+}

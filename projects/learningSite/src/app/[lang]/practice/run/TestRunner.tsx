@@ -2,13 +2,13 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
-import type { Concept, ConceptItem, ErrorModel, Formula, ProblemTemplate, TestConfig } from "@/schema";
+import type { Concept, ConceptItem, ErrorModel, Formula, Misconception, ProblemTemplate, TestConfig } from "@/schema";
 import type { Locale } from "@/i18n/locales";
 import type { Messages } from "@/i18n/dictionaries";
 import { buildRunnerItems } from "@/lib/test/buildRunnerItems";
 import { gradeRunnerItem } from "@/lib/test/gradeRunnerItem";
 import type { AnswerRecord, RunnerItem } from "@/lib/test/runnerItem";
-import { computeConceptResults, isWeakConcept } from "@/lib/test/computeResults";
+import { computeConceptResults, computeMisconceptionCounts, isWeakConcept } from "@/lib/test/computeResults";
 import { formatWorkedSolution } from "@/lib/formula/workedSolution";
 import { getUnit } from "@/lib/units/registry";
 
@@ -21,6 +21,7 @@ export function TestRunner({
   templates,
   errorModels,
   conceptItems,
+  misconceptions,
 }: {
   locale: Locale;
   dict: Pick<Messages, "workedSolution">;
@@ -30,6 +31,7 @@ export function TestRunner({
   templates: ProblemTemplate[];
   errorModels: ErrorModel[];
   conceptItems: ConceptItem[];
+  misconceptions: Misconception[];
 }) {
   const items = useMemo(
     () => buildRunnerItems(config, { formulas, templates, errorModels, conceptItems }),
@@ -48,7 +50,15 @@ export function TestRunner({
   }
 
   if (index >= items.length) {
-    return <ResultsScreen answers={answers} total={items.length} concepts={concepts} locale={locale} />;
+    return (
+      <ResultsScreen
+        answers={answers}
+        total={items.length}
+        concepts={concepts}
+        misconceptions={misconceptions}
+        locale={locale}
+      />
+    );
   }
 
   const current = items[index];
@@ -99,16 +109,20 @@ function ResultsScreen({
   answers,
   total,
   concepts,
+  misconceptions,
   locale,
 }: {
   answers: AnswerRecord[];
   total: number;
   concepts: Concept[];
+  misconceptions: Misconception[];
   locale: Locale;
 }) {
   const correctCount = answers.filter((a) => a.correct).length;
   const results = computeConceptResults(answers);
   const conceptById = new Map(concepts.map((c) => [c.id, c]));
+  const misconceptionCounts = computeMisconceptionCounts(answers);
+  const misconceptionById = new Map(misconceptions.map((m) => [m.id, m]));
 
   return (
     <div style={{ padding: "2rem" }}>
@@ -135,6 +149,20 @@ function ResultsScreen({
           );
         })}
       </ul>
+
+      {misconceptionCounts.length > 0 && (
+        <>
+          <h2>Repeated error patterns</h2>
+          <ul>
+            {misconceptionCounts.map(({ misconceptionId, count }) => (
+              <li key={misconceptionId}>
+                {(misconceptionById.get(misconceptionId)?.text[locale] ?? misconceptionId)} — {count} time
+                {count === 1 ? "" : "s"}
+              </li>
+            ))}
+          </ul>
+        </>
+      )}
     </div>
   );
 }
