@@ -1,12 +1,14 @@
 "use client";
 
 import { useMemo, useState } from "react";
+import Link from "next/link";
 import type { Concept, ConceptItem, ErrorModel, Formula, ProblemTemplate, TestConfig } from "@/schema";
 import type { Locale } from "@/i18n/locales";
 import type { Messages } from "@/i18n/dictionaries";
 import { buildRunnerItems } from "@/lib/test/buildRunnerItems";
 import { gradeRunnerItem } from "@/lib/test/gradeRunnerItem";
 import type { AnswerRecord, RunnerItem } from "@/lib/test/runnerItem";
+import { computeConceptResults, isWeakConcept } from "@/lib/test/computeResults";
 import { formatWorkedSolution } from "@/lib/formula/workedSolution";
 import { getUnit } from "@/lib/units/registry";
 
@@ -46,15 +48,7 @@ export function TestRunner({
   }
 
   if (index >= items.length) {
-    const correctCount = answers.filter((a) => a.correct).length;
-    return (
-      <div style={{ padding: "2rem" }}>
-        <h1>Test complete</h1>
-        <p>
-          {correctCount} / {items.length} correct.
-        </p>
-      </div>
-    );
+    return <ResultsScreen answers={answers} total={items.length} concepts={concepts} locale={locale} />;
   }
 
   const current = items[index];
@@ -97,6 +91,50 @@ export function TestRunner({
           )}
         </>
       )}
+    </div>
+  );
+}
+
+function ResultsScreen({
+  answers,
+  total,
+  concepts,
+  locale,
+}: {
+  answers: AnswerRecord[];
+  total: number;
+  concepts: Concept[];
+  locale: Locale;
+}) {
+  const correctCount = answers.filter((a) => a.correct).length;
+  const results = computeConceptResults(answers);
+  const conceptById = new Map(concepts.map((c) => [c.id, c]));
+
+  return (
+    <div style={{ padding: "2rem" }}>
+      <h1>Test complete</h1>
+      <p>
+        {correctCount} / {total} correct.
+      </p>
+
+      <h2>By concept</h2>
+      <ul>
+        {results.map((result) => {
+          const concept = conceptById.get(result.conceptId);
+          const weak = isWeakConcept(result);
+          return (
+            <li key={result.conceptId}>
+              {concept?.title[locale] ?? result.conceptId}: {result.correct} / {result.total}
+              {weak && (
+                <>
+                  {" — needs review. "}
+                  <Link href={`/${locale}/practice?concepts=${result.conceptId}`}>Practise again</Link>
+                </>
+              )}
+            </li>
+          );
+        })}
+      </ul>
     </div>
   );
 }

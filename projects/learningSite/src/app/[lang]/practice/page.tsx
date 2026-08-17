@@ -5,17 +5,28 @@ import { getDictionary } from "@/i18n/dictionaries";
 import { loadConcepts } from "@/content/concepts";
 import { TestBuilderForm } from "./TestBuilderForm";
 
-export default async function PracticePage() {
+export default async function PracticePage({
+  searchParams,
+}: {
+  searchParams: Promise<{ concepts?: string }>;
+}) {
   const locale = await lang();
   if (!locale || !isLocale(locale)) notFound();
   const dict = await getDictionary();
   // Only "physics" exists as a subject so far — Phase 14 adds more.
   const concepts = loadConcepts("physics");
+  const { concepts: conceptsParam } = await searchParams;
+  const initialConceptIds = conceptsParam ? conceptsParam.split(",").filter(Boolean) : undefined;
 
   return (
     <div style={{ padding: "2rem" }}>
       <h1>{dict.nav.practice}</h1>
-      <TestBuilderForm subject="physics" concepts={concepts} locale={locale} />
+      <TestBuilderForm
+        subject="physics"
+        concepts={concepts}
+        locale={locale}
+        initialConceptIds={initialConceptIds}
+      />
     </div>
   );
 }

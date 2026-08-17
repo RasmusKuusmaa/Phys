@@ -14,14 +14,19 @@ export function TestBuilderForm({
   subject,
   concepts,
   locale,
+  initialConceptIds,
 }: {
   subject: string;
   concepts: Concept[];
   locale: Locale;
+  /** Pre-selects concepts, e.g. from the results screen's "practise again" link for a weak concept. */
+  initialConceptIds?: string[];
 }) {
   const router = useRouter();
   const [levels, setLevels] = useState<Level[]>([...levelOrder]);
-  const [conceptIds, setConceptIds] = useState<string[]>(concepts.map((c) => c.id));
+  const [conceptIds, setConceptIds] = useState<string[]>(
+    initialConceptIds ?? concepts.map((c) => c.id),
+  );
   const [itemCount, setItemCount] = useState(5);
   const [mode, setMode] = useState<TestMode>("mixed");
   const [answerFormat, setAnswerFormat] = useState<AnswerFormat>("multiple-choice");
