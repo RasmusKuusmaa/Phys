@@ -11,6 +11,7 @@ export const TestConfigSchema = z.object({
   itemCount: z.number().int().positive(),
   mode: TestModeSchema,
   answerFormat: AnswerFormatSchema,
+  seed: z.string().min(1),
 });
 
 export type TestMode = z.infer<typeof TestModeSchema>;
