@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import type { AnswerFormat, Concept, Level, TestMode } from "@/schema";
 import { levelOrder } from "@/schema";
 import type { Locale } from "@/i18n/locales";
+import { encodeTestConfig } from "@/lib/test/testConfigUrl";
 
 function toggle<T>(list: T[], value: T): T[] {
   return list.includes(value) ? list.filter((v) => v !== value) : [...list, value];
@@ -33,16 +34,17 @@ export function TestBuilderForm({
 
   function handleSubmit(event: React.FormEvent) {
     event.preventDefault();
-    // Ad-hoc for now — item 8 (encode test config and seed in url) replaces
-    // this with a shared codec used by both the builder and the runner.
-    const params = new URLSearchParams();
-    params.set("subject", subject);
-    params.set("levels", levels.join(","));
-    params.set("concepts", conceptIds.join(","));
-    params.set("count", String(itemCount));
-    params.set("mode", mode);
-    params.set("format", answerFormat);
-    params.set("seed", String(Date.now()));
+    const params = encodeTestConfig({
+      subject,
+      levels,
+      conceptIds,
+      itemCount,
+      mode,
+      answerFormat,
+      // Random per submission — the resulting URL is what makes the exact
+      // same test shareable and retakeable afterwards.
+      seed: String(Date.now()),
+    });
     router.push(`/${locale}/practice/run?${params.toString()}`);
   }
 
