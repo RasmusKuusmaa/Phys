@@ -1,6 +1,7 @@
 import { lang } from "next/root-params";
 import { notFound } from "next/navigation";
 import { isLocale } from "@/i18n/locales";
+import { getDictionary } from "@/i18n/dictionaries";
 import { loadConcepts } from "@/content/concepts";
 import { loadFormulas } from "@/content/formulas";
 import { loadProblemTemplates } from "@/content/problemTemplates";
@@ -16,6 +17,7 @@ export default async function PracticeRunPage({
 }) {
   const locale = await lang();
   if (!locale || !isLocale(locale)) notFound();
+  const dict = await getDictionary();
 
   const params = await searchParams;
   const subject = params.subject ?? "physics";
@@ -39,6 +41,7 @@ export default async function PracticeRunPage({
   return (
     <TestRunner
       locale={locale}
+      dict={dict}
       config={config}
       concepts={loadConcepts(subject)}
       formulas={loadFormulas(subject)}

@@ -3,13 +3,16 @@
 import { useMemo, useState } from "react";
 import type { Concept, ConceptItem, ErrorModel, Formula, ProblemTemplate, TestConfig } from "@/schema";
 import type { Locale } from "@/i18n/locales";
+import type { Messages } from "@/i18n/dictionaries";
 import { buildRunnerItems } from "@/lib/test/buildRunnerItems";
 import { gradeRunnerItem } from "@/lib/test/gradeRunnerItem";
 import type { AnswerRecord, RunnerItem } from "@/lib/test/runnerItem";
+import { formatWorkedSolution } from "@/lib/formula/workedSolution";
 import { getUnit } from "@/lib/units/registry";
 
 export function TestRunner({
   locale,
+  dict,
   config,
   concepts,
   formulas,
@@ -18,6 +21,7 @@ export function TestRunner({
   conceptItems,
 }: {
   locale: Locale;
+  dict: Pick<Messages, "workedSolution">;
   config: TestConfig;
   concepts: Concept[];
   formulas: Formula[];
@@ -33,6 +37,7 @@ export function TestRunner({
   const [index, setIndex] = useState(0);
   const [answers, setAnswers] = useState<AnswerRecord[]>([]);
   const [numericInput, setNumericInput] = useState("");
+  const [feedback, setFeedback] = useState<AnswerRecord | null>(null);
 
   const conceptById = new Map(concepts.map((c) => [c.id, c]));
 
@@ -58,6 +63,11 @@ export function TestRunner({
   function submit(answer: Parameters<typeof gradeRunnerItem>[1]) {
     const record = gradeRunnerItem(current, answer);
     setAnswers((prev) => [...prev, record]);
+    setFeedback(record);
+  }
+
+  function next() {
+    setFeedback(null);
     setNumericInput("");
     setIndex((prev) => prev + 1);
   }
@@ -69,14 +79,73 @@ export function TestRunner({
       </p>
       {concept && <h2>{concept.title[locale]}</h2>}
 
-      {current.kind === "formula" && (
-        <FormulaItemView item={current} locale={locale} numericInput={numericInput} setNumericInput={setNumericInput} onSubmit={submit} />
-      )}
-      {current.kind === "concept" && (
-        <ConceptItemView item={current.item} locale={locale} onSubmit={submit} />
+      {feedback ? (
+        <FeedbackPanel item={current} feedback={feedback} locale={locale} dict={dict} onNext={next} />
+      ) : (
+        <>
+          {current.kind === "formula" && (
+            <FormulaItemView
+              item={current}
+              locale={locale}
+              numericInput={numericInput}
+              setNumericInput={setNumericInput}
+              onSubmit={submit}
+            />
+          )}
+          {current.kind === "concept" && (
+            <ConceptItemView item={current.item} locale={locale} onSubmit={submit} />
+          )}
+        </>
       )}
     </div>
   );
+}
+
+function FeedbackPanel({
+  item,
+  feedback,
+  locale,
+  dict,
+  onNext,
+}: {
+  item: RunnerItem;
+  feedback: AnswerRecord;
+  locale: Locale;
+  dict: Pick<Messages, "workedSolution">;
+  onNext: () => void;
+}) {
+  return (
+    <div>
+      <p>{feedback.correct ? "Correct" : "Incorrect"}</p>
+
+      {item.kind === "formula" && (
+        <pre>{formatWorkedSolution(item.workedSolution, dict).join("\n")}</pre>
+      )}
+
+      {item.kind === "concept" && !feedback.correct && (
+        <CorrectAnswerHint item={item.item} locale={locale} />
+      )}
+
+      <button type="button" onClick={onNext}>
+        Next
+      </button>
+    </div>
+  );
+}
+
+function CorrectAnswerHint({ item, locale }: { item: ConceptItem; locale: Locale }) {
+  if (item.type === "ordering") {
+    const correctOrder = [...item.entries]
+      .sort((a, b) => a.correctPosition - b.correctPosition)
+      .map((e) => e.label[locale]);
+    return <p>Correct order: {correctOrder.join(", ")}</p>;
+  }
+  if (item.type === "formula-selection") {
+    const correctOption = item.options.find((o) => o.correct);
+    return <p>Correct answer: {correctOption?.formulaId}</p>;
+  }
+  const correctOption = item.options.find((o) => o.correct);
+  return <p>Correct answer: {correctOption?.label[locale]}</p>;
 }
 
 function FormulaItemView({
