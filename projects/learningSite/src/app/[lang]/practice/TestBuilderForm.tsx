@@ -1,0 +1,85 @@
+"use client";
+
+import { useState } from "react";
+import { useRouter } from "next/navigation";
+import type { Concept, Level } from "@/schema";
+import { levelOrder } from "@/schema";
+import type { Locale } from "@/i18n/locales";
+
+function toggle<T>(list: T[], value: T): T[] {
+  return list.includes(value) ? list.filter((v) => v !== value) : [...list, value];
+}
+
+export function TestBuilderForm({
+  subject,
+  concepts,
+  locale,
+}: {
+  subject: string;
+  concepts: Concept[];
+  locale: Locale;
+}) {
+  const router = useRouter();
+  const [levels, setLevels] = useState<Level[]>([...levelOrder]);
+  const [conceptIds, setConceptIds] = useState<string[]>(concepts.map((c) => c.id));
+  const [itemCount, setItemCount] = useState(5);
+
+  function handleSubmit(event: React.FormEvent) {
+    event.preventDefault();
+    // Ad-hoc for now — item 8 (encode test config and seed in url) replaces
+    // this with a shared codec used by both the builder and the runner.
+    const params = new URLSearchParams();
+    params.set("subject", subject);
+    params.set("levels", levels.join(","));
+    params.set("concepts", conceptIds.join(","));
+    params.set("count", String(itemCount));
+    params.set("seed", String(Date.now()));
+    router.push(`/${locale}/practice/run?${params.toString()}`);
+  }
+
+  return (
+    <form onSubmit={handleSubmit}>
+      <fieldset>
+        <legend>Levels</legend>
+        {levelOrder.map((level) => (
+          <label key={level} style={{ display: "block" }}>
+            <input
+              type="checkbox"
+              checked={levels.includes(level)}
+              onChange={() => setLevels((prev) => toggle(prev, level))}
+            />
+            {level}
+          </label>
+        ))}
+      </fieldset>
+
+      <fieldset>
+        <legend>Concepts</legend>
+        {concepts.map((concept) => (
+          <label key={concept.id} style={{ display: "block" }}>
+            <input
+              type="checkbox"
+              checked={conceptIds.includes(concept.id)}
+              onChange={() => setConceptIds((prev) => toggle(prev, concept.id))}
+            />
+            {concept.title[locale]}
+          </label>
+        ))}
+      </fieldset>
+
+      <label style={{ display: "block" }}>
+        Item count
+        <input
+          type="number"
+          min={1}
+          value={itemCount}
+          onChange={(event) => setItemCount(Math.max(1, Number(event.target.value)))}
+        />
+      </label>
+
+      <button type="submit" disabled={conceptIds.length === 0 || levels.length === 0}>
+        Start
+      </button>
+    </form>
+  );
+}
