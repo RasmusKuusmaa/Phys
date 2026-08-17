@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import type { Concept, Level, TestMode } from "@/schema";
+import type { AnswerFormat, Concept, Level, TestMode } from "@/schema";
 import { levelOrder } from "@/schema";
 import type { Locale } from "@/i18n/locales";
 
@@ -24,6 +24,7 @@ export function TestBuilderForm({
   const [conceptIds, setConceptIds] = useState<string[]>(concepts.map((c) => c.id));
   const [itemCount, setItemCount] = useState(5);
   const [mode, setMode] = useState<TestMode>("mixed");
+  const [answerFormat, setAnswerFormat] = useState<AnswerFormat>("multiple-choice");
 
   function handleSubmit(event: React.FormEvent) {
     event.preventDefault();
@@ -35,6 +36,7 @@ export function TestBuilderForm({
     params.set("concepts", conceptIds.join(","));
     params.set("count", String(itemCount));
     params.set("mode", mode);
+    params.set("format", answerFormat);
     params.set("seed", String(Date.now()));
     router.push(`/${locale}/practice/run?${params.toString()}`);
   }
@@ -78,6 +80,21 @@ export function TestBuilderForm({
               name="mode"
               checked={mode === option}
               onChange={() => setMode(option)}
+            />
+            {option}
+          </label>
+        ))}
+      </fieldset>
+
+      <fieldset>
+        <legend>Answer format</legend>
+        {(["multiple-choice", "free-entry"] as const).map((option) => (
+          <label key={option} style={{ display: "block" }}>
+            <input
+              type="radio"
+              name="answerFormat"
+              checked={answerFormat === option}
+              onChange={() => setAnswerFormat(option)}
             />
             {option}
           </label>

@@ -2,6 +2,7 @@ import { z } from "zod";
 import { LevelSchema } from "./level";
 
 export const TestModeSchema = z.enum(["concept", "formula", "mixed"]);
+export const AnswerFormatSchema = z.enum(["multiple-choice", "free-entry"]);
 
 export const TestConfigSchema = z.object({
   subject: z.string().min(1),
@@ -9,7 +10,9 @@ export const TestConfigSchema = z.object({
   conceptIds: z.array(z.string().min(1)).min(1),
   itemCount: z.number().int().positive(),
   mode: TestModeSchema,
+  answerFormat: AnswerFormatSchema,
 });
 
 export type TestMode = z.infer<typeof TestModeSchema>;
+export type AnswerFormat = z.infer<typeof AnswerFormatSchema>;
 export type TestConfig = z.infer<typeof TestConfigSchema>;
