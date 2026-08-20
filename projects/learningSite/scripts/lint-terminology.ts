@@ -1,19 +1,12 @@
-import { readdirSync } from "node:fs";
 import path from "node:path";
-import { CONTENT_ROOT, loadJsonFilesRaw } from "@/content/loader";
+import { CONTENT_ROOT, listSubjects, loadJsonFilesRaw } from "@/content/loader";
 import { loadGlossary, loadBannedVariants } from "@/content/glossary";
 import { lintBannedVariants, lintUntranslatedTerms } from "@/content/checks/terminology";
-
-function subjectDirs(): string[] {
-  return readdirSync(CONTENT_ROOT, { withFileTypes: true })
-    .filter((e) => e.isDirectory() && e.name !== "terminology")
-    .map((e) => e.name);
-}
 
 function main() {
   const glossary = loadGlossary();
   const bannedVariants = loadBannedVariants();
-  const subjects = subjectDirs();
+  const subjects = listSubjects();
 
   const allFiles = subjects.flatMap((subject) =>
     loadJsonFilesRaw(path.join(CONTENT_ROOT, subject)),

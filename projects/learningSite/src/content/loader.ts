@@ -77,6 +77,14 @@ export function loadJsonFilesRaw(dir: string): { filePath: string; data: unknown
   }));
 }
 
+/** Every top-level content directory except `terminology`, which holds the glossary rather than a subject. */
+export function listSubjects(): string[] {
+  return readdirSync(CONTENT_ROOT, { withFileTypes: true })
+    .filter((e) => e.isDirectory() && e.name !== "terminology")
+    .map((e) => e.name)
+    .sort();
+}
+
 /** A single JSON file, validated as a whole (e.g. the glossary — pass a `z.array(...)` schema). */
 export function loadJsonArrayFile<T>(filePath: string, schema: z.ZodType<T>): T {
   const raw = readFileSync(filePath, "utf8");

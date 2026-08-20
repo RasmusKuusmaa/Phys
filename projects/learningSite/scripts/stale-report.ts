@@ -1,16 +1,9 @@
-import { readdirSync } from "node:fs";
-import { CONTENT_ROOT, loadJsonFilesRaw } from "@/content/loader";
+import { CONTENT_ROOT, listSubjects, loadJsonFilesRaw } from "@/content/loader";
 import { findStaleLocalisedStrings } from "@/content/staleness";
-
-function subjectDirs(): string[] {
-  return readdirSync(CONTENT_ROOT, { withFileTypes: true })
-    .filter((e) => e.isDirectory() && e.name !== "terminology")
-    .map((e) => e.name);
-}
 
 /** Non-failing report of every translation currently flagged stale, for human review — `validate-content` is what fails the build. */
 function main() {
-  const subjects = subjectDirs();
+  const subjects = listSubjects();
   let total = 0;
 
   for (const subject of subjects) {

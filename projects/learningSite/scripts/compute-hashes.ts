@@ -1,12 +1,6 @@
 import { readdirSync, readFileSync, writeFileSync, type Dirent } from "node:fs";
-import { CONTENT_ROOT } from "@/content/loader";
+import { CONTENT_ROOT, listSubjects } from "@/content/loader";
 import { walkAndRecomputeStaleness } from "@/content/staleness";
-
-function subjectDirs(): string[] {
-  return readdirSync(CONTENT_ROOT, { withFileTypes: true })
-    .filter((e) => e.isDirectory() && e.name !== "terminology")
-    .map((e) => e.name);
-}
 
 function findJsonFiles(dir: string): string[] {
   let entries: Dirent<string>[];
@@ -25,7 +19,7 @@ function findJsonFiles(dir: string): string[] {
 }
 
 function main() {
-  const files = subjectDirs().flatMap((subject) =>
+  const files = listSubjects().flatMap((subject) =>
     findJsonFiles(`${CONTENT_ROOT}/${subject}`),
   );
 

@@ -1,5 +1,4 @@
-import { readdirSync } from "node:fs";
-import { CONTENT_ROOT, ContentValidationError, loadJsonFilesRaw } from "@/content/loader";
+import { CONTENT_ROOT, ContentValidationError, listSubjects, loadJsonFilesRaw } from "@/content/loader";
 import { loadGlossary, loadBannedVariants } from "@/content/glossary";
 import { loadConcepts } from "@/content/concepts";
 import { loadFormulas } from "@/content/formulas";
@@ -10,12 +9,6 @@ import { loadErrorModels } from "@/content/errorModels";
 import { checkPrerequisites } from "@/content/checks/prerequisites";
 import { checkConceptLocales, checkResourceLocales } from "@/content/checks/locales";
 import { findStaleLocalisedStrings } from "@/content/staleness";
-
-function subjectDirs(): string[] {
-  return readdirSync(CONTENT_ROOT, { withFileTypes: true })
-    .filter((e) => e.isDirectory() && e.name !== "terminology")
-    .map((e) => e.name);
-}
 
 function main() {
   const errors: string[] = [];
@@ -28,7 +21,7 @@ function main() {
     else throw err;
   }
 
-  const subjects = subjectDirs();
+  const subjects = listSubjects();
   let conceptCount = 0;
 
   for (const subject of subjects) {

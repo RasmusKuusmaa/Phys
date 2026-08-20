@@ -5,6 +5,8 @@ import { notFound } from "next/navigation";
 import { isLocale, locales } from "@/i18n/locales";
 import { getDictionary } from "@/i18n/dictionaries";
 import { LocaleSwitcher } from "@/components/LocaleSwitcher";
+import { SubjectSwitcher } from "@/components/SubjectSwitcher";
+import { listSubjects } from "@/content/loader";
 import Link from "next/link";
 import "../globals.css";
 
@@ -41,6 +43,7 @@ export default async function RootLayout({
   const locale = await lang();
   if (!locale || !isLocale(locale)) notFound();
   const dict = await getDictionary();
+  const subjects = listSubjects();
 
   return (
     <html
@@ -52,6 +55,7 @@ export default async function RootLayout({
           <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-4">
             <span className="text-lg font-semibold">{dict.site.name}</span>
             <nav className="flex items-center gap-4 text-sm">
+              {subjects.length > 0 && <SubjectSwitcher subjects={subjects} locale={locale} />}
               <Link href={`/${locale}/glossary`} className="text-muted hover:text-foreground">
                 {dict.nav.glossary}
               </Link>
