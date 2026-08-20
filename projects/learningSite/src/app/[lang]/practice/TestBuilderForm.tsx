@@ -6,6 +6,7 @@ import type { AnswerFormat, Concept, Level, TestMode } from "@/schema";
 import { levelOrder } from "@/schema";
 import type { Locale } from "@/i18n/locales";
 import { encodeTestConfig } from "@/lib/test/testConfigUrl";
+import { LevelBadge } from "@/components/LevelBadge";
 
 function toggle<T>(list: T[], value: T): T[] {
   return list.includes(value) ? list.filter((v) => v !== value) : [...list, value];
@@ -73,7 +74,7 @@ export function TestBuilderForm({
               checked={conceptIds.includes(concept.id)}
               onChange={() => setConceptIds((prev) => toggle(prev, concept.id))}
             />
-            {concept.title[locale]}
+            <LevelBadge level={concept.level} /> {concept.title[locale]}
           </label>
         ))}
       </fieldset>
