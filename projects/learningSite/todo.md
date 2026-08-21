@@ -273,7 +273,7 @@ Complete before any content is authored.
   `feat: show downstream concepts unlocked`
 - [ ] Add a "start here" entry point at the first unmet concept
   `feat: add start here entry point`
-- [ ] Make the roadmap responsive down to mobile
+- [x] Make the roadmap responsive down to mobile
   `fix: make roadmap responsive on mobile`
 
 ### Phase 8 — Concept pages

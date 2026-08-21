@@ -74,9 +74,9 @@ export default async function RootLayout({
           {dict.a11y.skipToContent}
         </a>
         <header className="border-b border-border">
-          <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-4">
+          <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-y-2 px-4 py-4">
             <span className="text-lg font-semibold">{dict.site.name}</span>
-            <nav className="flex items-center gap-4 text-sm">
+            <nav className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
               {subjects.length > 0 && <SubjectSwitcher subjects={subjects} locale={locale} />}
               <Link href={`/${locale}/roadmap`} className="text-muted hover:text-foreground">
                 {dict.nav.roadmap}

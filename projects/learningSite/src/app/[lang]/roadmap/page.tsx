@@ -46,7 +46,7 @@ export default async function RoadmapPage({
     .filter((group) => group.modules.length > 0);
 
   return (
-    <div className="mx-auto max-w-5xl px-4 py-16">
+    <div className="mx-auto max-w-5xl px-4 py-8 sm:py-16">
       <h1 className="text-3xl font-semibold">{dict.nav.roadmap}</h1>
       <RoadmapSections groups={groups} concepts={concepts} locale={locale} />
     </div>
