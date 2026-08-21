@@ -88,190 +88,190 @@ problems with computed distractors in an unstyled page before building any UI po
 
 ### Phase 0 — Foundation
 
-- [ ] Init Next.js App Router project with TypeScript, ESLint, Prettier
+- [x] Init Next.js App Router project with TypeScript, ESLint, Prettier
   `chore: scaffold next.js app router project`
-- [ ] Add Tailwind and configure base type scale and colour tokens
+- [x] Add Tailwind and configure base type scale and colour tokens
   `chore: configure tailwind with design tokens`
-- [ ] Set up folder structure and path aliases
+- [x] Set up folder structure and path aliases
   `chore: set up project structure and path aliases`
-- [ ] Configure `/en` and `/et` routes with per-locale slugs and hreflang
+- [x] Configure `/en` and `/et` routes with per-locale slugs and hreflang
   `feat: add per locale routing and hreflang`
-- [ ] Add the i18n message catalogue and locale switcher
+- [x] Add the i18n message catalogue and locale switcher
   `feat: add i18n catalogue and locale switcher`
-- [ ] Add locale-aware number formatting for decimal comma and thousands separator
+- [x] Add locale-aware number formatting for decimal comma and thousands separator
   `feat: add locale aware number formatting`
-- [ ] Write UI strings with no interpolated content nouns to respect Estonian case
+- [x] Write UI strings with no interpolated content nouns to respect Estonian case
   `chore: keep ui strings free of interpolated nouns`
-- [ ] Configure KaTeX with server-side math rendering
+- [x] Configure KaTeX with server-side math rendering
   `feat: add katex with ssr math rendering`
-- [ ] Add Zod and create the schema directory
+- [x] Add Zod and create the schema directory
   `chore: add zod for content validation`
-- [ ] Add CI running typecheck, lint and build
+- [x] Add CI running typecheck, lint and build
   `ci: add typecheck lint and build workflow`
-- [ ] Record scope, level taxonomy and bilingual policy in `DECISIONS.md`
+- [x] Record scope, level taxonomy and bilingual policy in `DECISIONS.md`
   `docs: record project scope decisions`
 
 ### Phase 1 — Terminology base
 
 Complete before any content is authored.
 
-- [ ] Create `glossary.json` with EN↔ET term pairs and a source citation per entry
+- [x] Create `glossary.json` with EN↔ET term pairs and a source citation per entry
   `feat: add bilingual terminology glossary`
-- [ ] Populate mechanics and measurement terminology
+- [x] Populate mechanics and measurement terminology
   `content: add mechanics terminology to glossary`
-- [ ] Populate thermodynamics, waves, electromagnetism, optics and modern physics terminology
+- [x] Populate thermodynamics, waves, electromagnetism, optics and modern physics terminology
   `content: complete physics terminology glossary`
-- [ ] Add a banned-variant list of common wrong Estonian renderings
+- [x] Add a banned-variant list of common wrong Estonian renderings
   `feat: add banned term variants to glossary`
-- [ ] Write a linter flagging Estonian content that uses a banned variant
+- [x] Write a linter flagging Estonian content that uses a banned variant
   `test: lint estonian content against glossary`
-- [ ] Write a linter flagging English terms with no glossary entry
+- [x] Write a linter flagging English terms with no glossary entry
   `test: flag untranslated terms in glossary`
-- [ ] Wire both linters into CI
+- [x] Wire both linters into CI
   `ci: enforce terminology linting`
-- [ ] Build a glossary page exposing the term base to users
+- [x] Build a glossary page exposing the term base to users
   `feat: add public glossary page`
 
 ### Phase 2 — Content schema
 
-- [ ] Define the `Level` enum L0–L3
+- [x] Define the `Level` enum L0–L3
   `feat: define level taxonomy`
-- [ ] Define `LocalisedString` requiring both locales, with `sourceHash` and `stale` flag
+- [x] Define `LocalisedString` requiring both locales, with `sourceHash` and `stale` flag
   `feat: add localised string type with staleness tracking`
-- [ ] Define the `Concept` schema with localised text and language-neutral edges
+- [x] Define the `Concept` schema with localised text and language-neutral edges
   `feat: add concept schema`
-- [ ] Define the `Formula` schema: LaTeX, symbols, units, solve-for targets
+- [x] Define the `Formula` schema: LaTeX, symbols, units, solve-for targets
   `feat: add formula schema`
-- [ ] Define the `Misconception` schema attached to concepts
+- [x] Define the `Misconception` schema attached to concepts
   `feat: add misconception schema`
-- [ ] Define the `Resource` schema with a language field per link
+- [x] Define the `Resource` schema with a language field per link
   `feat: add resource schema`
-- [ ] Write the content loader that validates all files at build time
+- [x] Write the content loader that validates all files at build time
   `feat: add validating content loader`
-- [ ] Add a script computing source hashes and marking translations stale on drift
+- [x] Add a script computing source hashes and marking translations stale on drift
   `feat: add translation staleness detection`
-- [ ] Add a check that every prerequisite id resolves
+- [x] Add a check that every prerequisite id resolves
   `test: validate prerequisite references resolve`
-- [ ] Add cycle detection on the prerequisite graph
+- [x] Add cycle detection on the prerequisite graph
   `test: detect cycles in prerequisite graph`
-- [ ] Add a check that both locales are present on every concept
+- [x] Add a check that both locales are present on every concept
   `test: require both locales on every concept`
-- [ ] Add a check that every concept has at least one resource per locale
+- [x] Add a check that every concept has at least one resource per locale
   `test: require resources in both locales`
-- [ ] Add a check failing the build when any translation is stale
+- [x] Add a check failing the build when any translation is stale
   `ci: fail build on stale translations`
-- [ ] Add a report listing stale translations for review
+- [x] Add a report listing stale translations for review
   `feat: add stale translation report`
-- [ ] Wire all content checks into CI
+- [x] Wire all content checks into CI
   `ci: fail build on invalid content`
 
 ### Phase 3 — Formula practice engine
 
-- [ ] Add a units library and define the unit registry
+- [x] Add a units library and define the unit registry
   `feat: add units library and registry`
-- [ ] Localise unit display names while keeping symbols canonical
+- [x] Localise unit display names while keeping symbols canonical
   `feat: localise unit names with canonical symbols`
-- [ ] Define the `ProblemTemplate` schema with variable ranges and constraints
+- [x] Define the `ProblemTemplate` schema with variable ranges and constraints
   `feat: add problem template schema`
-- [ ] Write the seeded RNG so a seed reproduces an identical problem
+- [x] Write the seeded RNG so a seed reproduces an identical problem
   `feat: add seeded random number generator`
-- [ ] Write the instantiator that samples values and rejects unphysical combinations
+- [x] Write the instantiator that samples values and rejects unphysical combinations
   `feat: add template instantiator with constraint rejection`
-- [ ] Round sampled values to sensible significant figures
+- [x] Round sampled values to sensible significant figures
   `feat: round generated values to sane precision`
-- [ ] Write the solver computing the answer for any solve-for target
+- [x] Write the solver computing the answer for any solve-for target
   `feat: add deterministic formula solver`
-- [ ] Write the answer parser accepting decimal comma, decimal point and scientific notation
+- [x] Write the answer parser accepting decimal comma, decimal point and scientific notation
   `feat: add answer parser with locale support`
-- [ ] Add unit parsing and equivalence checking to the parser
+- [x] Add unit parsing and equivalence checking to the parser
   `feat: add unit parsing and equivalence`
-- [ ] Write the grader with configurable tolerance
+- [x] Write the grader with configurable tolerance
   `feat: add numeric grader with tolerance`
-- [ ] Define the `ErrorModel` schema describing common mistakes per formula
+- [x] Define the `ErrorModel` schema describing common mistakes per formula
   `feat: add error model schema`
-- [ ] Compute distractors from the error model for multiple-choice mode
+- [x] Compute distractors from the error model for multiple-choice mode
   `feat: generate distractors from error model`
-- [ ] Deduplicate and shuffle options, guarding against collisions
+- [x] Deduplicate and shuffle options, guarding against collisions
   `feat: deduplicate and shuffle answer options`
-- [ ] Generate the worked solution from the solver's rearrangement path
+- [x] Generate the worked solution from the solver's rearrangement path
   `feat: generate worked solutions from solve path`
-- [ ] Localise worked solution generation with per-locale connective phrases
+- [x] Localise worked solution generation with per-locale connective phrases
   `feat: localise generated worked solutions`
-- [ ] Add difficulty tiers by rearrangement depth and unit conversion count
+- [x] Add difficulty tiers by rearrangement depth and unit conversion count
   `feat: add difficulty tiers to drills`
-- [ ] Write unit tests asserting solver correctness across every template
+- [x] Write unit tests asserting solver correctness across every template
   `test: add solver correctness tests`
-- [ ] Write tests asserting distractors never equal the correct answer
+- [x] Write tests asserting distractors never equal the correct answer
   `test: assert distractors differ from correct answer`
-- [ ] Test the parser against Estonian and English formatted inputs
+- [x] Test the parser against Estonian and English formatted inputs
   `test: verify parser across both locales`
 
 ### Phase 4 — Concept test engine
 
-- [ ] Define the `ConceptItem` schema with localised stem and misconception-linked options
+- [x] Define the `ConceptItem` schema with localised stem and misconception-linked options
   `feat: add concept item schema`
-- [ ] Implement the static multiple-choice item type
+- [x] Implement the static multiple-choice item type
   `feat: add multiple choice item type`
-- [ ] Implement the parametrised proportionality item type
+- [x] Implement the parametrised proportionality item type
   `feat: add proportionality item type`
-- [ ] Implement the "which formula applies" item type drawing from the formula index
+- [x] Implement the "which formula applies" item type drawing from the formula index
   `feat: add formula selection item type`
-- [ ] Implement the ordering and matching item type
+- [x] Implement the ordering and matching item type
   `feat: add ordering item type`
-- [ ] Write the item selector that samples across chosen concepts without repeats
+- [x] Write the item selector that samples across chosen concepts without repeats
   `feat: add item selector`
-- [ ] Tag every wrong option with the misconception it represents
+- [x] Tag every wrong option with the misconception it represents
   `feat: tag distractors with misconceptions`
 
 ### Phase 5 — Test builder and runner
 
-- [ ] Build the test builder: pick subject, levels, concepts, item count, mode
+- [x] Build the test builder: pick subject, levels, concepts, item count, mode
   `feat: add test builder interface`
-- [ ] Add mode selection for concept only, formula only or mixed
+- [x] Add mode selection for concept only, formula only or mixed
   `feat: add test mode selection`
-- [ ] Add answer format selection for multiple choice or free entry
+- [x] Add answer format selection for multiple choice or free entry
   `feat: add answer format selection`
-- [ ] Build the test runner with progress indicator
+- [x] Build the test runner with progress indicator
   `feat: add test runner`
-- [ ] Add immediate per-item feedback with the worked solution
+- [x] Add immediate per-item feedback with the worked solution
   `feat: add per item feedback`
-- [ ] Build the results screen listing weak concepts with links back
+- [x] Build the results screen listing weak concepts with links back
   `feat: add test results screen`
-- [ ] Add misconception summary showing repeated error patterns
+- [x] Add misconception summary showing repeated error patterns
   `feat: add misconception summary to results`
-- [ ] Encode test configuration and seed in the URL for sharing and retaking
+- [x] Encode test configuration and seed in the URL for sharing and retaking
   `feat: encode test config and seed in url`
 
 ### Phase 6 — Design system and shell
 
-- [ ] Build the root layout with header, subject switcher, locale switcher and footer
+- [x] Build the root layout with header, subject switcher, locale switcher and footer
   `feat: add root layout and navigation shell`
-- [ ] Pick and load display, body and mono typefaces
+- [x] Pick and load display, body and mono typefaces
   `feat: add typography stack`
-- [ ] Build `LevelBadge` with a distinct colour per level
+- [x] Build `LevelBadge` with a distinct colour per level
   `feat: add level badge component`
-- [ ] Build `Formula` rendering LaTeX with a localised symbol table
+- [x] Build `Formula` rendering LaTeX with a localised symbol table
   `feat: add formula display component`
-- [ ] Build `ConceptCard` for roadmap and search results
+- [x] Build `ConceptCard` for roadmap and search results
   `feat: add concept card component`
-- [ ] Add dark mode persisted to localStorage
+- [x] Add dark mode persisted to localStorage
   `feat: add dark mode toggle`
-- [ ] Verify keyboard focus and reduced-motion handling across components
+- [x] Verify keyboard focus and reduced-motion handling across components
   `fix: ensure accessible focus and reduced motion`
 
 ### Phase 7 — Roadmap
 
-- [ ] Write the topological sort deriving study order from the prerequisite graph
+- [x] Write the topological sort deriving study order from the prerequisite graph
   `feat: derive study order from prerequisite graph`
-- [ ] Build the roadmap page grouped by level then module
+- [x] Build the roadmap page grouped by level then module
   `feat: add roadmap page grouped by level`
-- [ ] Show prerequisite relationships between concept cards
+- [x] Show prerequisite relationships between concept cards
   `feat: show prerequisite links on roadmap`
-- [ ] Add a level filter
+- [x] Add a level filter
   `feat: add level filter to roadmap`
-- [ ] Add reverse prerequisite lookup showing what each concept unlocks
+- [x] Add reverse prerequisite lookup showing what each concept unlocks
   `feat: show downstream concepts unlocked`
-- [ ] Add a "start here" entry point at the first unmet concept
+- [x] Add a "start here" entry point at the first unmet concept
   `feat: add start here entry point`
 - [x] Make the roadmap responsive down to mobile
   `fix: make roadmap responsive on mobile`
