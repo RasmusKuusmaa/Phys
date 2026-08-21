@@ -1,7 +1,8 @@
+import type { Metadata } from "next";
 import { lang } from "next/root-params";
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { isLocale } from "@/i18n/locales";
+import { isLocale, locales } from "@/i18n/locales";
 import type { Concept } from "@/schema";
 import { loadAllConcepts, loadConcepts } from "@/content/concepts";
 import { loadExplanation } from "@/content/explanations";
@@ -17,6 +18,27 @@ import { ConceptLinkList } from "@/components/ConceptCard";
 
 export async function generateStaticParams() {
   return loadAllConcepts().map((concept) => ({ id: concept.id }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}): Promise<Metadata> {
+  const locale = await lang();
+  if (!locale || !isLocale(locale)) return {};
+
+  const { id } = await params;
+  const concept = loadAllConcepts().find((c) => c.id === id);
+  if (!concept) return {};
+
+  return {
+    title: concept.title[locale],
+    description: concept.summary[locale],
+    alternates: {
+      languages: Object.fromEntries(locales.map((l) => [l, `/${l}/concepts/${id}`])),
+    },
+  };
 }
 
 export default async function ConceptPage({
