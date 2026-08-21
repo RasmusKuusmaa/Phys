@@ -2,7 +2,8 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import type { Concept, Formula } from "@/schema";
+import type { Concept, Formula, Level } from "@/schema";
+import { levelOrder } from "@/schema";
 import type { Locale } from "@/i18n/locales";
 import { LevelBadge } from "@/components/LevelBadge";
 import { Math } from "@/components/Math";
@@ -17,7 +18,17 @@ export type FormulaRow = {
 
 export function FormulaSearchList({ rows, locale }: { rows: FormulaRow[]; locale: Locale }) {
   const [query, setQuery] = useState("");
-  const filtered = rows.filter((row) => fuzzyMatch(query, row.searchText));
+  const [selectedLevels, setSelectedLevels] = useState<Level[]>([...levelOrder]);
+
+  function toggleLevel(level: Level) {
+    setSelectedLevels((prev) =>
+      prev.includes(level) ? prev.filter((l) => l !== level) : [...prev, level],
+    );
+  }
+
+  const filtered = rows.filter(
+    (row) => selectedLevels.includes(row.concept.level) && fuzzyMatch(query, row.searchText),
+  );
 
   return (
     <div>
@@ -29,6 +40,20 @@ export function FormulaSearchList({ rows, locale }: { rows: FormulaRow[]; locale
         aria-label="Search formulas"
         className="mt-6 w-full rounded-lg border border-border px-3 py-2 text-sm"
       />
+
+      <fieldset className="mt-4">
+        <legend>Levels</legend>
+        {levelOrder.map((level) => (
+          <label key={level} style={{ display: "inline-block", marginRight: "1rem" }}>
+            <input
+              type="checkbox"
+              checked={selectedLevels.includes(level)}
+              onChange={() => toggleLevel(level)}
+            />
+            {level}
+          </label>
+        ))}
+      </fieldset>
 
       {filtered.length === 0 ? (
         <p className="mt-6 text-sm text-muted">No formulas match &ldquo;{query}&rdquo;.</p>

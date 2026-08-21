@@ -301,7 +301,7 @@ Complete before any content is authored.
   `feat: add formula index page`
 - [x] Add client-side fuzzy search across names, symbols and concepts
   `feat: add formula search`
-- [ ] Add subject and level filters
+- [x] Add subject and level filters
   `feat: add filters to formula index`
 - [ ] Add a copy-LaTeX button
   `feat: add copy latex button`

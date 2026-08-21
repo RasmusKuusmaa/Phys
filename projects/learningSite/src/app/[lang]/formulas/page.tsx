@@ -1,5 +1,6 @@
 import { lang } from "next/root-params";
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import { isLocale } from "@/i18n/locales";
 import { getDictionary } from "@/i18n/dictionaries";
 import { listSubjects } from "@/content/loader";
@@ -45,6 +46,26 @@ export default async function FormulaIndexPage({
   return (
     <div className="mx-auto max-w-3xl px-4 py-16">
       <h1 className="text-3xl font-semibold">{dict.nav.formulas}</h1>
+
+      {subjects.length > 1 && (
+        <nav aria-label="Subject" className="mt-4 flex gap-2 text-sm">
+          {subjects.map((s) => (
+            <Link
+              key={s}
+              href={`/${locale}/formulas?subject=${s}`}
+              aria-current={s === subject ? "true" : undefined}
+              className={
+                s === subject
+                  ? "font-semibold underline capitalize"
+                  : "text-muted hover:text-foreground capitalize"
+              }
+            >
+              {s}
+            </Link>
+          ))}
+        </nav>
+      )}
+
       <FormulaSearchList rows={rows} locale={locale} />
     </div>
   );
