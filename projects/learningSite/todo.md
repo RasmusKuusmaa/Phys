@@ -284,7 +284,7 @@ Complete before any content is authored.
   `feat: add concept page layout`
 - [x] Render quick explanations from MDX
   `feat: render concept explanations from mdx`
-- [ ] Add prerequisite and next-step navigation
+- [x] Add prerequisite and next-step navigation
   `feat: add prerequisite navigation on concept pages`
 - [ ] Add a "practise this concept" launcher into the test builder
   `feat: add practise launcher on concept pages`

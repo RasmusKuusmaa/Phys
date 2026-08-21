@@ -1,13 +1,15 @@
 import { lang } from "next/root-params";
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import { isLocale } from "@/i18n/locales";
 import type { Concept } from "@/schema";
-import { loadAllConcepts } from "@/content/concepts";
+import { loadAllConcepts, loadConcepts } from "@/content/concepts";
 import { loadExplanation } from "@/content/explanations";
 import { loadFormulas } from "@/content/formulas";
 import { loadMisconceptions } from "@/content/misconceptions";
 import { loadResources } from "@/content/resources";
 import { computeUnlocks } from "@/lib/roadmap/reversePrerequisites";
+import { topologicalSort } from "@/lib/roadmap/topologicalSort";
 import { LevelBadge } from "@/components/LevelBadge";
 import { FormulaDisplay } from "@/components/FormulaDisplay";
 import { ConceptLinkList } from "@/components/ConceptCard";
@@ -43,6 +45,12 @@ export default async function ConceptPage({
     (r) => r.conceptId === concept.id && r.locale === locale,
   );
   const Explanation = await loadExplanation(concept.subject, concept.id, locale);
+
+  const studyOrder = topologicalSort(loadConcepts(concept.subject));
+  const studyIndex = studyOrder.findIndex((c) => c.id === concept.id);
+  const previousInStudyOrder = studyIndex > 0 ? studyOrder[studyIndex - 1] : undefined;
+  const nextInStudyOrder =
+    studyIndex >= 0 && studyIndex < studyOrder.length - 1 ? studyOrder[studyIndex + 1] : undefined;
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-16">
@@ -107,6 +115,28 @@ export default async function ConceptPage({
             ))}
           </ul>
         </section>
+      )}
+
+      {(previousInStudyOrder || nextInStudyOrder) && (
+        <nav
+          aria-label="Study order"
+          className="mt-12 flex items-center justify-between gap-4 border-t border-border pt-6 text-sm"
+        >
+          {previousInStudyOrder ? (
+            <Link href={`/${locale}/concepts/${previousInStudyOrder.id}`} className="underline">
+              ← {previousInStudyOrder.title[locale]}
+            </Link>
+          ) : (
+            <span />
+          )}
+          {nextInStudyOrder ? (
+            <Link href={`/${locale}/concepts/${nextInStudyOrder.id}`} className="underline">
+              {nextInStudyOrder.title[locale]} →
+            </Link>
+          ) : (
+            <span />
+          )}
+        </nav>
       )}
     </div>
   );
