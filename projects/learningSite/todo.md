@@ -310,7 +310,7 @@ Complete before any content is authored.
 
 ### Phase 10 — Progress without accounts
 
-- [ ] Define versioned localStorage progress schema
+- [x] Define versioned localStorage progress schema
   `feat: add versioned progress storage schema`
 - [ ] Track per-concept status: unseen, learning, confident
   `feat: track per concept status`
