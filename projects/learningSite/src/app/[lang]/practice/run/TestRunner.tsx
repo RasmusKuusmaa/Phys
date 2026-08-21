@@ -11,6 +11,7 @@ import type { AnswerRecord, RunnerItem } from "@/lib/test/runnerItem";
 import { computeConceptResults, computeMisconceptionCounts, isWeakConcept } from "@/lib/test/computeResults";
 import { formatWorkedSolution } from "@/lib/formula/workedSolution";
 import { getUnit } from "@/lib/units/registry";
+import { FormulaDisplay } from "@/components/FormulaDisplay";
 
 export function TestRunner({
   locale,
@@ -232,6 +233,7 @@ function FormulaItemView({
 
   return (
     <div>
+      <FormulaDisplay formula={item.formula} locale={locale} />
       <ul>
         {item.formula.symbols
           .filter((s) => s.symbol !== item.problem.solveFor)
