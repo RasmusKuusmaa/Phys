@@ -74,8 +74,24 @@ export default async function ConceptPage({
   const nextInStudyOrder =
     studyIndex >= 0 && studyIndex < studyOrder.length - 1 ? studyOrder[studyIndex + 1] : undefined;
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "LearningResource",
+    name: concept.title[locale],
+    description: concept.summary[locale],
+    inLanguage: locale,
+    educationalLevel: concept.level,
+    url: `/${locale}/concepts/${concept.id}`,
+  };
+
   return (
     <div className="mx-auto max-w-3xl px-4 py-16">
+      <script
+        type="application/ld+json"
+        // JSON-LD from authored content (title/summary), not user input — still
+        // scrub `<` per Next's guidance so a stray "<script>" in copy can't break out.
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd).replace(/</g, "\\u003c") }}
+      />
       <div className="flex items-center gap-2">
         <LevelBadge level={concept.level} />
         <h1 className="text-3xl font-semibold">{concept.title[locale]}</h1>

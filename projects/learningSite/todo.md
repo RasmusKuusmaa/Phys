@@ -292,7 +292,7 @@ Complete before any content is authored.
   `feat: add curated resources section`
 - [x] Add hreflang tags and per-locale metadata
   `feat: add hreflang and localised metadata`
-- [ ] Add JSON-LD structured data for educational content
+- [x] Add JSON-LD structured data for educational content
   `feat: add structured data for concept pages`
 
 ### Phase 9 — Formula index
