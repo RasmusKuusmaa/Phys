@@ -89,6 +89,12 @@ export function FormulaSearchList({ rows, locale }: { rows: FormulaRow[]; locale
                 >
                   {copiedId === formula.id ? "Copied" : "Copy LaTeX"}
                 </button>
+                <Link
+                  href={`/${locale}/practice?concepts=${concept.id}`}
+                  className="text-xs text-muted hover:text-foreground"
+                >
+                  Practise
+                </Link>
               </div>
             </li>
           ))}

@@ -305,7 +305,7 @@ Complete before any content is authored.
   `feat: add filters to formula index`
 - [x] Add a copy-LaTeX button
   `feat: add copy latex button`
-- [ ] Add a drill launcher on each formula row
+- [x] Add a drill launcher on each formula row
   `feat: add drill launcher from formula index`
 
 ### Phase 10 — Progress without accounts
