@@ -280,7 +280,7 @@ Complete before any content is authored.
 
 - [x] Generate static routes for every concept in both locales
   `feat: statically generate concept pages`
-- [ ] Build the page layout: summary, key ideas, formulas, misconceptions, resources
+- [x] Build the page layout: summary, key ideas, formulas, misconceptions, resources
   `feat: add concept page layout`
 - [ ] Render quick explanations from MDX
   `feat: render concept explanations from mdx`

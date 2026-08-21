@@ -7,22 +7,22 @@ export function FormulaDisplay({ formula, locale }: { formula: Formula; locale: 
   return (
     <div>
       <Math tex={formula.latex} display />
-      <table>
+      <table className="mt-4 w-full border-collapse text-left text-sm">
         <thead>
-          <tr>
-            <th>Symbol</th>
-            <th>Name</th>
-            <th>Unit</th>
+          <tr className="border-b border-border text-muted">
+            <th className="py-2 pr-4 font-medium">Symbol</th>
+            <th className="py-2 pr-4 font-medium">Name</th>
+            <th className="py-2 pr-4 font-medium">Unit</th>
           </tr>
         </thead>
         <tbody>
           {formula.symbols.map((symbol) => (
-            <tr key={symbol.symbol}>
-              <td>
+            <tr key={symbol.symbol} className="border-b border-border">
+              <td className="py-2 pr-4">
                 <Math tex={symbol.symbol} />
               </td>
-              <td>{symbol.name[locale]}</td>
-              <td>
+              <td className="py-2 pr-4">{symbol.name[locale]}</td>
+              <td className="py-2 pr-4">
                 {symbol.unit} ({formatUnitName(symbol.unit, locale)})
               </td>
             </tr>

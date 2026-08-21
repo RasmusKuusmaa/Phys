@@ -3,7 +3,8 @@ import type { Concept } from "@/schema";
 import type { Locale } from "@/i18n/locales";
 import { LevelBadge } from "./LevelBadge";
 
-function ConceptLinkList({
+/** Shared with the concept detail page (Phase 8), which reuses it for the same prerequisite/unlocks lists outside a card. */
+export function ConceptLinkList({
   label,
   concepts,
   locale,

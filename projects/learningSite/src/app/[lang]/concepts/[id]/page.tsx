@@ -1,8 +1,15 @@
 import { lang } from "next/root-params";
 import { notFound } from "next/navigation";
 import { isLocale } from "@/i18n/locales";
+import type { Concept } from "@/schema";
 import { loadAllConcepts } from "@/content/concepts";
+import { loadFormulas } from "@/content/formulas";
+import { loadMisconceptions } from "@/content/misconceptions";
+import { loadResources } from "@/content/resources";
+import { computeUnlocks } from "@/lib/roadmap/reversePrerequisites";
 import { LevelBadge } from "@/components/LevelBadge";
+import { FormulaDisplay } from "@/components/FormulaDisplay";
+import { ConceptLinkList } from "@/components/ConceptCard";
 
 export async function generateStaticParams() {
   return loadAllConcepts().map((concept) => ({ id: concept.id }));
@@ -17,8 +24,23 @@ export default async function ConceptPage({
   if (!locale || !isLocale(locale)) notFound();
 
   const { id } = await params;
-  const concept = loadAllConcepts().find((c) => c.id === id);
+  const concepts = loadAllConcepts();
+  const concept = concepts.find((c) => c.id === id);
   if (!concept) notFound();
+
+  const conceptById = new Map(concepts.map((c) => [c.id, c]));
+  const prerequisites = concept.prerequisites
+    .map((prereqId) => conceptById.get(prereqId))
+    .filter((c): c is Concept => c !== undefined);
+  const unlocks = computeUnlocks(concepts).get(concept.id) ?? [];
+
+  const formulas = loadFormulas(concept.subject).filter((f) => f.conceptId === concept.id);
+  const misconceptions = loadMisconceptions(concept.subject).filter(
+    (m) => m.conceptId === concept.id,
+  );
+  const resources = loadResources(concept.subject).filter(
+    (r) => r.conceptId === concept.id && r.locale === locale,
+  );
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-16">
@@ -27,6 +49,57 @@ export default async function ConceptPage({
         <h1 className="text-3xl font-semibold">{concept.title[locale]}</h1>
       </div>
       <p className="mt-4 text-muted">{concept.summary[locale]}</p>
+
+      {(prerequisites.length > 0 || unlocks.length > 0) && (
+        <section className="mt-10">
+          <h2 className="text-xl font-semibold">Key ideas</h2>
+          <ConceptLinkList label="Requires" concepts={prerequisites} locale={locale} />
+          <ConceptLinkList label="Unlocks" concepts={unlocks} locale={locale} />
+        </section>
+      )}
+
+      {formulas.length > 0 && (
+        <section className="mt-10">
+          <h2 className="text-xl font-semibold">Formulas</h2>
+          <div className="mt-3 space-y-8">
+            {formulas.map((formula) => (
+              <FormulaDisplay key={formula.id} formula={formula} locale={locale} />
+            ))}
+          </div>
+        </section>
+      )}
+
+      {misconceptions.length > 0 && (
+        <section className="mt-10">
+          <h2 className="text-xl font-semibold">Common misconceptions</h2>
+          <ul className="mt-3 list-disc space-y-2 pl-5 text-sm text-muted">
+            {misconceptions.map((misconception) => (
+              <li key={misconception.id}>{misconception.text[locale]}</li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {resources.length > 0 && (
+        <section className="mt-10">
+          <h2 className="text-xl font-semibold">Resources</h2>
+          <ul className="mt-3 space-y-2 text-sm">
+            {resources.map((resource) => (
+              <li key={resource.id}>
+                <a
+                  href={resource.url}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="underline decoration-dotted hover:decoration-solid"
+                >
+                  {resource.title}
+                </a>
+                <span className="ml-2 text-xs text-muted capitalize">{resource.type}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
     </div>
   );
 }
