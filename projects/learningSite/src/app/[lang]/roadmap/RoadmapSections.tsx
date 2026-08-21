@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
 import type { Concept, Level } from "@/schema";
 import { levelOrder } from "@/schema";
 import type { Locale } from "@/i18n/locales";
@@ -31,8 +32,23 @@ export function RoadmapSections({
     );
   }
 
+  // `concepts` arrives in topological (study) order. Phase 10 will make this
+  // progress-aware (skip anything already marked "confident" in
+  // localStorage) — until then, every concept is unmet, so the first one
+  // in study order is exactly "the first unmet concept".
+  const startHere = concepts[0];
+
   return (
     <div>
+      {startHere && (
+        <p className="mt-4">
+          Start here:{" "}
+          <Link href={`/${locale}/practice?concepts=${startHere.id}`} className="underline">
+            {startHere.title[locale]}
+          </Link>
+        </p>
+      )}
+
       <fieldset className="mt-6">
         <legend>Levels</legend>
         {levelOrder.map((level) => (
