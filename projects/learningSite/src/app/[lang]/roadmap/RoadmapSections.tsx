@@ -5,6 +5,7 @@ import type { Concept, Level } from "@/schema";
 import { levelOrder } from "@/schema";
 import type { Locale } from "@/i18n/locales";
 import { ConceptCard } from "@/components/ConceptCard";
+import { computeUnlocks } from "@/lib/roadmap/reversePrerequisites";
 
 export type LevelGroup = {
   level: Level;
@@ -22,6 +23,7 @@ export function RoadmapSections({
 }) {
   const [selectedLevels, setSelectedLevels] = useState<Level[]>([...levelOrder]);
   const conceptById = new Map(concepts.map((c) => [c.id, c]));
+  const unlocksById = computeUnlocks(concepts);
 
   function toggle(level: Level) {
     setSelectedLevels((prev) =>
@@ -62,6 +64,7 @@ export function RoadmapSections({
                       prerequisites={concept.prerequisites
                         .map((id) => conceptById.get(id))
                         .filter((c): c is Concept => c !== undefined)}
+                      unlocks={unlocksById.get(concept.id) ?? []}
                     />
                   ))}
                 </div>
