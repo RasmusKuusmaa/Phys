@@ -8,22 +8,37 @@ export function ConceptCard({
   concept,
   locale,
   href,
+  prerequisites,
 }: {
   concept: Concept;
   locale: Locale;
   /** Phase 8 adds concept detail pages; until then this defaults to a practice session scoped to the concept. */
   href?: string;
+  /** Resolved prerequisite concepts (the roadmap passes these; other callers can omit them). Rendered outside the main link since an anchor can't nest inside another. */
+  prerequisites?: Concept[];
 }) {
   return (
-    <Link
-      href={href ?? `/${locale}/practice?concepts=${concept.id}`}
-      className="block rounded-lg border border-border p-4 hover:border-accent"
-    >
-      <div className="flex items-center gap-2">
-        <LevelBadge level={concept.level} />
-        <h3 className="font-semibold">{concept.title[locale]}</h3>
-      </div>
-      <p className="mt-2 text-sm text-muted">{concept.summary[locale]}</p>
-    </Link>
+    <div className="rounded-lg border border-border p-4 hover:border-accent">
+      <Link href={href ?? `/${locale}/practice?concepts=${concept.id}`} className="block">
+        <div className="flex items-center gap-2">
+          <LevelBadge level={concept.level} />
+          <h3 className="font-semibold">{concept.title[locale]}</h3>
+        </div>
+        <p className="mt-2 text-sm text-muted">{concept.summary[locale]}</p>
+      </Link>
+      {prerequisites && prerequisites.length > 0 && (
+        <p className="mt-2 text-xs text-muted">
+          Requires:{" "}
+          {prerequisites.map((prereq, i) => (
+            <span key={prereq.id}>
+              {i > 0 && ", "}
+              <Link href={`/${locale}/practice?concepts=${prereq.id}`} className="underline">
+                {prereq.title[locale]}
+              </Link>
+            </span>
+          ))}
+        </p>
+      )}
+    </div>
   );
 }

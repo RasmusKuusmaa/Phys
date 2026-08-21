@@ -26,6 +26,7 @@ export default async function RoadmapPage({
   }
 
   const concepts = topologicalSort(loadConcepts(subject));
+  const conceptById = new Map(concepts.map((c) => [c.id, c]));
 
   const byLevel = new Map<string, Map<string, Concept[]>>();
   for (const level of levelOrder) byLevel.set(level, new Map());
@@ -50,7 +51,14 @@ export default async function RoadmapPage({
                 <h3 className="text-lg font-semibold capitalize">{moduleName}</h3>
                 <div className="mt-3 grid grid-cols-1 gap-4 sm:grid-cols-2">
                   {moduleConcepts.map((concept) => (
-                    <ConceptCard key={concept.id} concept={concept} locale={locale} />
+                    <ConceptCard
+                      key={concept.id}
+                      concept={concept}
+                      locale={locale}
+                      prerequisites={concept.prerequisites
+                        .map((id) => conceptById.get(id))
+                        .filter((c): c is Concept => c !== undefined)}
+                    />
                   ))}
                 </div>
               </div>
