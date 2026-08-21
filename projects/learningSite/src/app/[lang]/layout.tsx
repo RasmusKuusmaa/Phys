@@ -70,6 +70,9 @@ export default async function RootLayout({
             __html: `try{var t=localStorage.getItem("theme");if(t==="dark"||t==="light"){document.documentElement.setAttribute("data-theme",t);}}catch(e){}`,
           }}
         />
+        <a href="#main-content" className="skip-link">
+          {dict.a11y.skipToContent}
+        </a>
         <header className="border-b border-border">
           <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-4">
             <span className="text-lg font-semibold">{dict.site.name}</span>
@@ -86,7 +89,9 @@ export default async function RootLayout({
             </nav>
           </div>
         </header>
-        <main className="flex-1">{children}</main>
+        <main id="main-content" className="flex-1">
+          {children}
+        </main>
         <footer className="border-t border-border">
           <div className="mx-auto max-w-5xl px-4 py-4 text-sm text-muted">
             {dict.footer.builtWith}

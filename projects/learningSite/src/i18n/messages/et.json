@@ -2,6 +2,9 @@
   "site": {
     "name": "FKM Kompass"
   },
+  "a11y": {
+    "skipToContent": "Mine põhisisu juurde"
+  },
   "nav": {
     "roadmap": "Õpitee",
     "formulas": "Valemid",

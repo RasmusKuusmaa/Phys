@@ -2,6 +2,9 @@
   "site": {
     "name": "FKM Kompass"
   },
+  "a11y": {
+    "skipToContent": "Skip to content"
+  },
   "nav": {
     "roadmap": "Roadmap",
     "formulas": "Formulas",
