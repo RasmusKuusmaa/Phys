@@ -312,7 +312,7 @@ Complete before any content is authored.
 
 - [x] Define versioned localStorage progress schema
   `feat: add versioned progress storage schema`
-- [ ] Track per-concept status: unseen, learning, confident
+- [x] Track per-concept status: unseen, learning, confident
   `feat: track per concept status`
 - [ ] Allow manual status setting on concept pages
   `feat: add manual status control`
