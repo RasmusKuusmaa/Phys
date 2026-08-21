@@ -10,6 +10,7 @@ import { loadMisconceptions } from "@/content/misconceptions";
 import { loadResources } from "@/content/resources";
 import { computeUnlocks } from "@/lib/roadmap/reversePrerequisites";
 import { topologicalSort } from "@/lib/roadmap/topologicalSort";
+import { groupResourcesByType, RESOURCE_TYPE_LABELS } from "@/lib/resources/groupResources";
 import { LevelBadge } from "@/components/LevelBadge";
 import { FormulaDisplay } from "@/components/FormulaDisplay";
 import { ConceptLinkList } from "@/components/ConceptCard";
@@ -41,9 +42,8 @@ export default async function ConceptPage({
   const misconceptions = loadMisconceptions(concept.subject).filter(
     (m) => m.conceptId === concept.id,
   );
-  const resources = loadResources(concept.subject).filter(
-    (r) => r.conceptId === concept.id && r.locale === locale,
-  );
+  const resources = loadResources(concept.subject).filter((r) => r.conceptId === concept.id);
+  const resourceGroups = groupResourcesByType(resources, locale);
   const Explanation = await loadExplanation(concept.subject, concept.id, locale);
 
   const studyOrder = topologicalSort(loadConcepts(concept.subject));
@@ -103,24 +103,33 @@ export default async function ConceptPage({
         </section>
       )}
 
-      {resources.length > 0 && (
+      {resourceGroups.length > 0 && (
         <section className="mt-10">
           <h2 className="text-xl font-semibold">Resources</h2>
-          <ul className="mt-3 space-y-2 text-sm">
-            {resources.map((resource) => (
-              <li key={resource.id}>
-                <a
-                  href={resource.url}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="underline decoration-dotted hover:decoration-solid"
-                >
-                  {resource.title}
-                </a>
-                <span className="ml-2 text-xs text-muted capitalize">{resource.type}</span>
-              </li>
+          <div className="mt-3 space-y-6">
+            {resourceGroups.map((group) => (
+              <div key={group.type}>
+                <h3 className="text-sm font-semibold text-muted">
+                  {RESOURCE_TYPE_LABELS[group.type]}
+                </h3>
+                <ul className="mt-2 space-y-2 text-sm">
+                  {group.resources.map((resource) => (
+                    <li key={resource.id}>
+                      <a
+                        href={resource.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="underline decoration-dotted hover:decoration-solid"
+                      >
+                        {resource.title}
+                      </a>
+                      <span className="ml-2 text-xs text-muted uppercase">{resource.locale}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
             ))}
-          </ul>
+          </div>
         </section>
       )}
 
