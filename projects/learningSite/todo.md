@@ -314,7 +314,7 @@ Complete before any content is authored.
   `feat: add versioned progress storage schema`
 - [x] Track per-concept status: unseen, learning, confident
   `feat: track per concept status`
-- [ ] Allow manual status setting on concept pages
+- [x] Allow manual status setting on concept pages
   `feat: add manual status control`
 - [ ] Update status automatically from test results
   `feat: derive status from practice results`

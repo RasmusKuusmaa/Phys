@@ -15,6 +15,7 @@ import { groupResourcesByType, RESOURCE_TYPE_LABELS } from "@/lib/resources/grou
 import { LevelBadge } from "@/components/LevelBadge";
 import { FormulaDisplay } from "@/components/FormulaDisplay";
 import { ConceptLinkList } from "@/components/ConceptCard";
+import { ConceptStatusControl } from "@/components/ConceptStatusControl";
 
 export async function generateStaticParams() {
   return loadAllConcepts().map((concept) => ({ id: concept.id }));
@@ -104,6 +105,8 @@ export default async function ConceptPage({
       >
         Practise this concept
       </Link>
+
+      <ConceptStatusControl conceptId={concept.id} />
 
       {Explanation && (
         <section className="mt-10 space-y-4 text-sm leading-relaxed">

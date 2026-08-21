@@ -1,6 +1,6 @@
 import { ProgressSchema, createEmptyProgress, type ConceptStatus, type Progress } from "./schema";
 
-const STORAGE_KEY = "progress";
+export const STORAGE_KEY = "progress";
 
 export function readProgress(): Progress {
   try {
