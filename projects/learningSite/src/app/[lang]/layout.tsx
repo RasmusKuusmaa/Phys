@@ -6,6 +6,7 @@ import { isLocale, locales } from "@/i18n/locales";
 import { getDictionary } from "@/i18n/dictionaries";
 import { LocaleSwitcher } from "@/components/LocaleSwitcher";
 import { SubjectSwitcher } from "@/components/SubjectSwitcher";
+import { ThemeToggle } from "@/components/ThemeToggle";
 import { listSubjects } from "@/content/loader";
 import Link from "next/link";
 import "../globals.css";
@@ -62,6 +63,13 @@ export default async function RootLayout({
       className={`${geistSans.variable} ${geistMono.variable} ${fraunces.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
+        {/* Runs before hydration so a stored dark/light choice applies
+            before first paint, avoiding a flash of the wrong theme. */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try{var t=localStorage.getItem("theme");if(t==="dark"||t==="light"){document.documentElement.setAttribute("data-theme",t);}}catch(e){}`,
+          }}
+        />
         <header className="border-b border-border">
           <div className="mx-auto flex max-w-5xl items-center justify-between px-4 py-4">
             <span className="text-lg font-semibold">{dict.site.name}</span>
@@ -74,6 +82,7 @@ export default async function RootLayout({
                 {dict.nav.practice}
               </Link>
               <LocaleSwitcher currentLocale={locale} />
+              <ThemeToggle />
             </nav>
           </div>
         </header>

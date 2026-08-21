@@ -40,13 +40,22 @@
   --font-display: var(--font-fraunces);
 }
 
+/* System preference applies unless a manual choice (data-theme, see
+   ThemeToggle) overrides it either way. */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --background: #0a0a0a;
     --foreground: #ededed;
     --muted: #9ca3af;
     --border: #27272a;
   }
+}
+
+:root[data-theme="dark"] {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+  --muted: #9ca3af;
+  --border: #27272a;
 }
 
 body {
