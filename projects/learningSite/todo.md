@@ -303,7 +303,7 @@ Complete before any content is authored.
   `feat: add formula search`
 - [x] Add subject and level filters
   `feat: add filters to formula index`
-- [ ] Add a copy-LaTeX button
+- [x] Add a copy-LaTeX button
   `feat: add copy latex button`
 - [ ] Add a drill launcher on each formula row
   `feat: add drill launcher from formula index`

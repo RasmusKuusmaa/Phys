@@ -19,11 +19,24 @@ export type FormulaRow = {
 export function FormulaSearchList({ rows, locale }: { rows: FormulaRow[]; locale: Locale }) {
   const [query, setQuery] = useState("");
   const [selectedLevels, setSelectedLevels] = useState<Level[]>([...levelOrder]);
+  const [copiedId, setCopiedId] = useState<string | null>(null);
 
   function toggleLevel(level: Level) {
     setSelectedLevels((prev) =>
       prev.includes(level) ? prev.filter((l) => l !== level) : [...prev, level],
     );
+  }
+
+  async function copyLatex(formula: Formula) {
+    try {
+      await navigator.clipboard.writeText(formula.latex);
+    } catch {
+      // Permission denied or unavailable (e.g. insecure context) — the
+      // button just stays as-is rather than claiming a copy that didn't happen.
+      return;
+    }
+    setCopiedId(formula.id);
+    setTimeout(() => setCopiedId((current) => (current === formula.id ? null : current)), 1500);
   }
 
   const filtered = rows.filter(
@@ -67,7 +80,16 @@ export function FormulaSearchList({ rows, locale }: { rows: FormulaRow[]; locale
                   {concept.title[locale]}
                 </Link>
               </div>
-              <Math tex={formula.latex} />
+              <div className="flex items-center gap-3">
+                <Math tex={formula.latex} />
+                <button
+                  type="button"
+                  onClick={() => copyLatex(formula)}
+                  className="text-xs text-muted hover:text-foreground"
+                >
+                  {copiedId === formula.id ? "Copied" : "Copy LaTeX"}
+                </button>
+              </div>
             </li>
           ))}
         </ul>
