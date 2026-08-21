@@ -282,7 +282,7 @@ Complete before any content is authored.
   `feat: statically generate concept pages`
 - [x] Build the page layout: summary, key ideas, formulas, misconceptions, resources
   `feat: add concept page layout`
-- [ ] Render quick explanations from MDX
+- [x] Render quick explanations from MDX
   `feat: render concept explanations from mdx`
 - [ ] Add prerequisite and next-step navigation
   `feat: add prerequisite navigation on concept pages`

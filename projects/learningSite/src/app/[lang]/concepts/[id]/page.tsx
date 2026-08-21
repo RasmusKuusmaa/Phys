@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { isLocale } from "@/i18n/locales";
 import type { Concept } from "@/schema";
 import { loadAllConcepts } from "@/content/concepts";
+import { loadExplanation } from "@/content/explanations";
 import { loadFormulas } from "@/content/formulas";
 import { loadMisconceptions } from "@/content/misconceptions";
 import { loadResources } from "@/content/resources";
@@ -41,6 +42,7 @@ export default async function ConceptPage({
   const resources = loadResources(concept.subject).filter(
     (r) => r.conceptId === concept.id && r.locale === locale,
   );
+  const Explanation = await loadExplanation(concept.subject, concept.id, locale);
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-16">
@@ -49,6 +51,12 @@ export default async function ConceptPage({
         <h1 className="text-3xl font-semibold">{concept.title[locale]}</h1>
       </div>
       <p className="mt-4 text-muted">{concept.summary[locale]}</p>
+
+      {Explanation && (
+        <section className="mt-10 space-y-4 text-sm leading-relaxed">
+          <Explanation />
+        </section>
+      )}
 
       {(prerequisites.length > 0 || unlocks.length > 0) && (
         <section className="mt-10">
