@@ -60,6 +60,13 @@ export default async function ConceptPage({
       </div>
       <p className="mt-4 text-muted">{concept.summary[locale]}</p>
 
+      <Link
+        href={`/${locale}/practice?concepts=${concept.id}`}
+        className="mt-6 inline-block rounded-lg border border-border px-4 py-2 text-sm font-medium hover:border-accent"
+      >
+        Practise this concept
+      </Link>
+
       {Explanation && (
         <section className="mt-10 space-y-4 text-sm leading-relaxed">
           <Explanation />

@@ -286,7 +286,7 @@ Complete before any content is authored.
   `feat: render concept explanations from mdx`
 - [x] Add prerequisite and next-step navigation
   `feat: add prerequisite navigation on concept pages`
-- [ ] Add a "practise this concept" launcher into the test builder
+- [x] Add a "practise this concept" launcher into the test builder
   `feat: add practise launcher on concept pages`
 - [ ] Add the curated resources section grouped by type and language
   `feat: add curated resources section`
