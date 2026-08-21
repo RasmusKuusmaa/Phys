@@ -299,7 +299,7 @@ Complete before any content is authored.
 
 - [x] Build the formula index listing every formula with concept and level
   `feat: add formula index page`
-- [ ] Add client-side fuzzy search across names, symbols and concepts
+- [x] Add client-side fuzzy search across names, symbols and concepts
   `feat: add formula search`
 - [ ] Add subject and level filters
   `feat: add filters to formula index`
