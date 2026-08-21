@@ -43,7 +43,7 @@ export function RoadmapSections({
       {startHere && (
         <p className="mt-4">
           Start here:{" "}
-          <Link href={`/${locale}/practice?concepts=${startHere.id}`} className="underline">
+          <Link href={`/${locale}/concepts/${startHere.id}`} className="underline">
             {startHere.title[locale]}
           </Link>
         </p>

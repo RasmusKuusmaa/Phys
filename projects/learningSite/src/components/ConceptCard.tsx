@@ -19,7 +19,7 @@ function ConceptLinkList({
       {concepts.map((concept, i) => (
         <span key={concept.id}>
           {i > 0 && ", "}
-          <Link href={`/${locale}/practice?concepts=${concept.id}`} className="underline">
+          <Link href={`/${locale}/concepts/${concept.id}`} className="underline">
             {concept.title[locale]}
           </Link>
         </span>
@@ -38,7 +38,7 @@ export function ConceptCard({
 }: {
   concept: Concept;
   locale: Locale;
-  /** Phase 8 adds concept detail pages; until then this defaults to a practice session scoped to the concept. */
+  /** Defaults to the concept's detail page; callers that want a different destination (e.g. straight into practice) can override. */
   href?: string;
   /** Resolved prerequisite concepts (the roadmap passes these; other callers can omit them). Rendered outside the main link since an anchor can't nest inside another. */
   prerequisites?: Concept[];
@@ -47,7 +47,7 @@ export function ConceptCard({
 }) {
   return (
     <div className="rounded-lg border border-border p-4 hover:border-accent">
-      <Link href={href ?? `/${locale}/practice?concepts=${concept.id}`} className="block">
+      <Link href={href ?? `/${locale}/concepts/${concept.id}`} className="block">
         <div className="flex items-center gap-2">
           <LevelBadge level={concept.level} />
           <h3 className="font-semibold">{concept.title[locale]}</h3>

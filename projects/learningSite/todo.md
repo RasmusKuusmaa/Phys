@@ -278,7 +278,7 @@ Complete before any content is authored.
 
 ### Phase 8 — Concept pages
 
-- [ ] Generate static routes for every concept in both locales
+- [x] Generate static routes for every concept in both locales
   `feat: statically generate concept pages`
 - [ ] Build the page layout: summary, key ideas, formulas, misconceptions, resources
   `feat: add concept page layout`
