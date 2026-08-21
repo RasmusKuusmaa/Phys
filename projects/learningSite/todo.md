@@ -297,7 +297,7 @@ Complete before any content is authored.
 
 ### Phase 9 — Formula index
 
-- [ ] Build the formula index listing every formula with concept and level
+- [x] Build the formula index listing every formula with concept and level
   `feat: add formula index page`
 - [ ] Add client-side fuzzy search across names, symbols and concepts
   `feat: add formula search`

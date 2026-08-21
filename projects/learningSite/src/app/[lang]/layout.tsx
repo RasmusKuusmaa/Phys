@@ -81,6 +81,9 @@ export default async function RootLayout({
               <Link href={`/${locale}/roadmap`} className="text-muted hover:text-foreground">
                 {dict.nav.roadmap}
               </Link>
+              <Link href={`/${locale}/formulas`} className="text-muted hover:text-foreground">
+                {dict.nav.formulas}
+              </Link>
               <Link href={`/${locale}/glossary`} className="text-muted hover:text-foreground">
                 {dict.nav.glossary}
               </Link>
