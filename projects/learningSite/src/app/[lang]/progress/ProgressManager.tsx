@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { useProgress } from "@/lib/progress/useProgress";
 import { writeProgress } from "@/lib/progress/store";
+import { createEmptyProgress } from "@/lib/progress/schema";
 import { encodeProgressCode, decodeProgressCode } from "@/lib/progress/code";
 
 export function ProgressManager() {
@@ -10,6 +11,7 @@ export function ProgressManager() {
   const [copied, setCopied] = useState(false);
   const [importValue, setImportValue] = useState("");
   const [importState, setImportState] = useState<"idle" | "error" | "success">("idle");
+  const [confirmingClear, setConfirmingClear] = useState(false);
 
   if (progress === null) return null;
 
@@ -29,6 +31,11 @@ export function ProgressManager() {
     writeProgress(decoded);
     setImportState("success");
     setImportValue("");
+  }
+
+  function handleClear() {
+    writeProgress(createEmptyProgress());
+    setConfirmingClear(false);
   }
 
   async function copyCode() {
@@ -91,6 +98,36 @@ export function ProgressManager() {
         </p>
       )}
       {importState === "success" && <p className="mt-2 text-sm text-emerald-600">Progress imported.</p>}
+
+      <h2 className="mt-10 text-xl font-semibold">Clear</h2>
+      <p className="mt-2 text-sm text-muted">Permanently erase all progress stored in this browser.</p>
+      {confirmingClear ? (
+        <div className="mt-3 flex flex-wrap items-center gap-3 text-sm">
+          <span>Clear all progress? This can&rsquo;t be undone.</span>
+          <button
+            type="button"
+            onClick={handleClear}
+            className="rounded-lg border border-red-600 px-3 py-1.5 text-red-600 hover:bg-red-600 hover:text-white"
+          >
+            Yes, clear it
+          </button>
+          <button
+            type="button"
+            onClick={() => setConfirmingClear(false)}
+            className="rounded-lg border border-border px-3 py-1.5 hover:border-accent"
+          >
+            Cancel
+          </button>
+        </div>
+      ) : (
+        <button
+          type="button"
+          onClick={() => setConfirmingClear(true)}
+          className="mt-2 rounded-lg border border-border px-4 py-2 text-sm font-medium hover:border-accent"
+        >
+          Clear progress
+        </button>
+      )}
     </section>
   );
 }

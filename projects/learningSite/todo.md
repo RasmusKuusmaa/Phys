@@ -326,7 +326,7 @@ Complete before any content is authored.
   `feat: add progress export`
 - [x] Add import progress with validation
   `feat: add progress import`
-- [ ] Add clear progress with confirmation
+- [x] Add clear progress with confirmation
   `feat: add clear progress action`
 - [ ] Add a storage version migration path
   `feat: add progress storage migration`
