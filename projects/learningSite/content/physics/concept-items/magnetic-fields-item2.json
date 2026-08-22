@@ -1,0 +1,54 @@
+{
+  "id": "magnetic-fields-item2",
+  "conceptId": "magnetic-fields",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Unlike electric field lines, which start and end on charges, magnetic field lines around a bar magnet...",
+    "et": "Erinevalt elektrivälja joontest, mis algavad ja lõppevad laengutel, vardamagneti magnetvälja jooned...",
+    "sourceHash": "2c5216233f9de72a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "also start and end on the poles",
+        "et": "algavad ja lõppevad samuti poolustel",
+        "sourceHash": "633870509ff3070e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "magnetic-fields-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "form closed loops with no start or end",
+        "et": "moodustavad suletud ahelaid ilma alguse ja lõputa",
+        "sourceHash": "beb9390eab09f41f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "do not exist outside the magnet",
+        "et": "ei eksisteeri väljaspool magnetit",
+        "sourceHash": "ba83b2e061cc4c3a",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "only exist near the north pole",
+        "et": "eksisteerivad ainult põhjapooluse lähedal",
+        "sourceHash": "6756e0a9a725eb77",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

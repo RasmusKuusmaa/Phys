@@ -1,0 +1,54 @@
+{
+  "id": "voltage-and-resistance-item2",
+  "conceptId": "voltage-and-resistance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which statement about voltage is correct?",
+    "et": "Milline väide pinge kohta on õige?",
+    "sourceHash": "72dfa23a91ccdc1c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Voltage flows through a wire like current does",
+        "et": "Pinge voolab läbi traadi samamoodi nagu vool",
+        "sourceHash": "c53040f2532ff622",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "voltage-and-resistance-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Voltage is the energy transferred per unit charge between two points",
+        "et": "Pinge on kahe punkti vahel laenguühiku kohta ülekantav energia",
+        "sourceHash": "bcde0108084dfbdb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Voltage is measured in amperes",
+        "et": "Pinget mõõdetakse amprites",
+        "sourceHash": "d7299c463e020e80",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Voltage only exists in AC circuits",
+        "et": "Pinge eksisteerib ainult vahelduvvooluahelates",
+        "sourceHash": "aefc759d5f3f0011",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

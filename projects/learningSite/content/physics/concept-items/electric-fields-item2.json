@@ -1,0 +1,54 @@
+{
+  "id": "electric-fields-item2",
+  "conceptId": "electric-fields",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How does the electric field strength around a point charge change as you move further away from it?",
+    "et": "Kuidas muutub punktlaengu ümbruses elektrivälja tugevus, kui liikuda sellest kaugemale?",
+    "sourceHash": "8d732af37f7625cb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It stays the same at all distances",
+        "et": "See jääb kõikidel kaugustel samaks",
+        "sourceHash": "1b9f8ea06e648a6d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-fields-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It decreases with distance",
+        "et": "See väheneb kaugusega",
+        "sourceHash": "d93f8ec54ae5f8f3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It increases with distance",
+        "et": "See suureneb kaugusega",
+        "sourceHash": "85ab6e8d79686c3c",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It becomes zero immediately outside the charge",
+        "et": "See muutub kohe väljaspool laengut nulliks",
+        "sourceHash": "b924ab043fc36d03",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

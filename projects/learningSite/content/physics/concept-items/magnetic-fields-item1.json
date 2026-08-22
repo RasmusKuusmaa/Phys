@@ -1,0 +1,53 @@
+{
+  "id": "magnetic-fields-item1",
+  "conceptId": "magnetic-fields",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of these is required for a magnetic field to exert a force on a charged particle?",
+    "et": "Mis on vajalik selleks, et magnetväli mõjutaks laetud osakest jõuga?",
+    "sourceHash": "3ffcb4835a08c7cd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The charge must be stationary",
+        "et": "Laeng peab olema paigal",
+        "sourceHash": "373ce17549a6aab6",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The charge must be moving",
+        "et": "Laeng peab liikuma",
+        "sourceHash": "cbe2199362fcdb35",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The charge must be negative",
+        "et": "Laeng peab olema negatiivne",
+        "sourceHash": "0150a89af8e207cb",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The magnetic field must be very strong",
+        "et": "Magnetväli peab olema väga tugev",
+        "sourceHash": "c8c18cd888cb587d",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

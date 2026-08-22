@@ -1,0 +1,10 @@
+{
+  "id": "voltage-and-resistance-m3",
+  "conceptId": "voltage-and-resistance",
+  "text": {
+    "en": "All materials obey Ohm's law exactly, with a constant resistance regardless of conditions.",
+    "et": "Kõik materjalid alluvad Ohmi seadusele täpselt, konstantse takistusega olenemata tingimustest.",
+    "sourceHash": "bdc5fedd8286b795",
+    "stale": false
+  }
+}

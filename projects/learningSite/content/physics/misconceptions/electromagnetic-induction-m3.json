@@ -1,0 +1,10 @@
+{
+  "id": "electromagnetic-induction-m3",
+  "conceptId": "electromagnetic-induction",
+  "text": {
+    "en": "The induced EMF depends only on the strength of the magnetic field, not on how quickly it changes.",
+    "et": "Indutseeritud elektromotoorjõud sõltub ainult magnetvälja tugevusest, mitte sellest, kui kiiresti see muutub.",
+    "sourceHash": "d79bfa9a80a0bb48",
+    "stale": false
+  }
+}

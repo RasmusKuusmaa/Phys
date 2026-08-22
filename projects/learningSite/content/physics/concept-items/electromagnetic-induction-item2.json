@@ -1,0 +1,54 @@
+{
+  "id": "electromagnetic-induction-item2",
+  "conceptId": "electromagnetic-induction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which factor most directly determines the size of an induced EMF, according to Faraday's law?",
+    "et": "Milline tegur määrab Faraday seaduse kohaselt kõige otsesemalt indutseeritud elektromotoorjõu suuruse?",
+    "sourceHash": "d9b933d6c2d447d7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The strength of the magnetic field alone",
+        "et": "Ainult magnetvälja tugevus",
+        "sourceHash": "c758a04789bdac05",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electromagnetic-induction-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The rate of change of magnetic flux through the loop",
+        "et": "Silmust läbiva magnetvoo muutumise kiirus",
+        "sourceHash": "8b4babca1a17f67a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The color of the wire",
+        "et": "Traadi värv",
+        "sourceHash": "7e6d7270d5a6654a",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The total charge in the loop",
+        "et": "Silmuse kogulaeng",
+        "sourceHash": "d4f01d3d5ec2ef45",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

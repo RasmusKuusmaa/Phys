@@ -1,0 +1,54 @@
+{
+  "id": "capacitance-item2",
+  "conceptId": "capacitance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does a capacitor's capacitance depend on?",
+    "et": "Millest sõltub kondensaatori mahtuvus?",
+    "sourceHash": "6a1cc2f318c67acf",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The voltage currently applied across it",
+        "et": "Sellele hetkel rakendatud pingest",
+        "sourceHash": "3c818fa81492f44c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "capacitance-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Its physical construction, such as plate area and separation",
+        "et": "Selle füüsilisest ehitusest, näiteks plaatide pindalast ja nendevahelisest kaugusest",
+        "sourceHash": "f95f13f88db89577",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The current flowing through it",
+        "et": "Sellest läbi voolavast voolust",
+        "sourceHash": "199b9629a26de111",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "How long it has been charging",
+        "et": "Sellest, kui kaua see on laadinud",
+        "sourceHash": "23929d8b6cd5120a",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

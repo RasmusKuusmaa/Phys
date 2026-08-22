@@ -1,0 +1,54 @@
+{
+  "id": "electromagnetic-induction-item1",
+  "conceptId": "electromagnetic-induction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A bar magnet is pushed into a coil of wire and then held stationary inside it. When is a current induced in the coil?",
+    "et": "Vardamagnet lükatakse traatpooli sisse ja hoitakse seejärel selle sees paigal. Millal indutseeritakse poolis vool?",
+    "sourceHash": "3ca487690ce85e63",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Only while the magnet is moving",
+        "et": "Ainult siis, kui magnet liigub",
+        "sourceHash": "ce9c54d1932eb8da",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The whole time the magnet is inside the coil, moving or not",
+        "et": "Kogu aeg, kui magnet on pooli sees, liikuv või mitte",
+        "sourceHash": "9d350c5ab1e6e85f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electromagnetic-induction-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only after the magnet has stopped moving",
+        "et": "Alles pärast seda, kui magnet on liikumise lõpetanud",
+        "sourceHash": "dd775d22a7a5f856",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Never, since the magnet is not touching the coil",
+        "et": "Mitte kunagi, sest magnet ei puutu pooli vastu",
+        "sourceHash": "3f5072d381229c8e",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

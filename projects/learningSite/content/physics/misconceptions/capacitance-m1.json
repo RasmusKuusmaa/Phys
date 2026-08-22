@@ -1,0 +1,10 @@
+{
+  "id": "capacitance-m1",
+  "conceptId": "capacitance",
+  "text": {
+    "en": "A fully charged capacitor allows current to flow through it continuously, like a resistor.",
+    "et": "Täielikult laetud kondensaator laseb voolul läbi enda pidevalt voolata, samamoodi nagu takisti.",
+    "sourceHash": "d5d0ab39df40a7ee",
+    "stale": false
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "electromagnetic-waves-item1",
+  "conceptId": "electromagnetic-waves",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How do electromagnetic waves travel through the vacuum of space?",
+    "et": "Kuidas levivad elektromagnetlained kosmose vaakumis?",
+    "sourceHash": "91a48dfd5146ee31",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They cannot; a medium is always required",
+        "et": "Nad ei saa; keskkond on alati vajalik",
+        "sourceHash": "525a7e5d5921c5b0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electromagnetic-waves-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "By a changing electric field generating a changing magnetic field, and vice versa",
+        "et": "Muutuv elektriväli tekitab muutuva magnetvälja ja vastupidi",
+        "sourceHash": "d9684f0c3f598f77",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "By being carried along by other particles",
+        "et": "Neid kannavad edasi teised osakesed",
+        "sourceHash": "db3fc1024be389d5",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They do not travel, only their energy does",
+        "et": "Nad ei levi, ainult nende energia levib",
+        "sourceHash": "78418c511ef15f85",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

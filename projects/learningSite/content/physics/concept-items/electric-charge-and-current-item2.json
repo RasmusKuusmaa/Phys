@@ -1,0 +1,54 @@
+{
+  "id": "electric-charge-and-current-item2",
+  "conceptId": "electric-charge-and-current",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An object becomes positively charged. What has happened to it?",
+    "et": "Keha muutub positiivselt laetuks. Mis on temaga juhtunud?",
+    "sourceHash": "736a8f426a01fa40",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It has gained protons",
+        "et": "See on saanud prootoneid juurde",
+        "sourceHash": "e84c9470cff07892",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It has lost electrons",
+        "et": "See on kaotanud elektrone",
+        "sourceHash": "08a007ded9979696",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It has gained electrons",
+        "et": "See on saanud elektrone juurde",
+        "sourceHash": "a7bbecb5d88c27dd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-charge-and-current-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It has lost protons",
+        "et": "See on kaotanud prootoneid",
+        "sourceHash": "adcc467c9e25538b",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

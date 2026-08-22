@@ -1,0 +1,10 @@
+{
+  "id": "capacitance-m2",
+  "conceptId": "capacitance",
+  "text": {
+    "en": "Increasing the voltage across a capacitor increases its capacitance.",
+    "et": "Kondensaatori otstel oleva pinge suurendamine suurendab selle mahtuvust.",
+    "sourceHash": "e831edbd4b459a47",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "voltage-and-resistance-m2",
+  "conceptId": "voltage-and-resistance",
+  "text": {
+    "en": "Increasing the resistance in a circuit increases the current, for a fixed voltage.",
+    "et": "Takistuse suurendamine ahelas suurendab voolu, kui pinge on fikseeritud.",
+    "sourceHash": "5f28d4711caabf07",
+    "stale": false
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "electric-charge-and-current-item1",
+  "conceptId": "electric-charge-and-current",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In a simple series circuit with a single resistor, how does the current measured before the resistor compare to the current measured after it?",
+    "et": "Lihtsas jadaahelas ühe takistiga, kuidas võrreldub takistist enne mõõdetud vool takistist pärast mõõdetud vooluga?",
+    "sourceHash": "3cb2b6f164426bff",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is larger before the resistor",
+        "et": "See on enne takistit suurem",
+        "sourceHash": "0cd717864548917b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-charge-and-current-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is the same in both places",
+        "et": "See on mõlemas kohas sama",
+        "sourceHash": "565f859ca1779862",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is smaller before the resistor",
+        "et": "See on enne takistit väiksem",
+        "sourceHash": "78505a2be3d9c336",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be compared",
+        "et": "Seda ei saa võrrelda",
+        "sourceHash": "a197f3dceb1929fb",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

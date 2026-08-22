@@ -1,0 +1,10 @@
+{
+  "id": "capacitance-m3",
+  "conceptId": "capacitance",
+  "text": {
+    "en": "A capacitor stores current, not charge.",
+    "et": "Kondensaator salvestab voolu, mitte laengut.",
+    "sourceHash": "4bd2f9589bd8858f",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "electromagnetic-induction-m1",
+  "conceptId": "electromagnetic-induction",
+  "text": {
+    "en": "A magnetic field must be changing in strength to induce an EMF; simply moving through a uniform field never does.",
+    "et": "Elektromotoorjõu indutseerimiseks peab magnetväli olema muutuva tugevusega; lihtsalt ühtlase välja läbimine ei tee seda kunagi.",
+    "sourceHash": "d0ab7d9a29f2af50",
+    "stale": false
+  }
+}

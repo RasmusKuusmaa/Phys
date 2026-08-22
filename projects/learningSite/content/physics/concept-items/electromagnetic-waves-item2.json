@@ -1,0 +1,54 @@
+{
+  "id": "electromagnetic-waves-item2",
+  "conceptId": "electromagnetic-waves",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How does the speed of radio waves in a vacuum compare to the speed of visible light in a vacuum?",
+    "et": "Kuidas võrdleb raadiolainete kiirus vaakumis nähtava valguse kiirusega vaakumis?",
+    "sourceHash": "30c6ac59aa131c5a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Radio waves travel much slower",
+        "et": "Raadiolained levivad palju aeglasemalt",
+        "sourceHash": "42c4f6fba047b97e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electromagnetic-waves-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They travel at exactly the same speed",
+        "et": "Nad levivad täpselt sama kiirusega",
+        "sourceHash": "7729243b7a3484c7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Radio waves travel much faster",
+        "et": "Raadiolained levivad palju kiiremini",
+        "sourceHash": "9324c1abce6ac4ca",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on the radio station's power",
+        "et": "See sõltub raadiojaama võimsusest",
+        "sourceHash": "531c254eea006a87",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

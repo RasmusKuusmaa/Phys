@@ -1,0 +1,54 @@
+{
+  "id": "electric-fields-item1",
+  "conceptId": "electric-fields",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A positive test charge is placed at various points near a fixed point charge, each time with a different magnitude of test charge. Does the electric field at a given point depend on the size of the test charge used to measure it?",
+    "et": "Positiivne katselaeng asetatakse erinevatesse punktidesse fikseeritud punktlaengu lähedale, iga kord erineva katselaengu suurusega. Kas elektriväli antud punktis sõltub selle mõõtmiseks kasutatud katselaengu suurusest?",
+    "sourceHash": "3890f1d9c47677f9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Yes, a larger test charge always measures a larger field",
+        "et": "Jah, suurem katselaeng mõõdab alati suuremat välja",
+        "sourceHash": "381defa80bb417d7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-fields-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No, the field at that point is a property of the source charge alone",
+        "et": "Ei, väli selles punktis on ainult allikalaengu omadus",
+        "sourceHash": "bdff733e063ad380",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Yes, but only for negative test charges",
+        "et": "Jah, kuid ainult negatiivsete katselaengute puhul",
+        "sourceHash": "3a42af6dc229ac5e",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on the material between them",
+        "et": "See sõltub nendevahelisest materjalist",
+        "sourceHash": "1a4c664a3a6ddf3f",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

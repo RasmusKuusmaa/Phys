@@ -1,0 +1,54 @@
+{
+  "id": "capacitance-item1",
+  "conceptId": "capacitance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What happens to a capacitor once it has become fully charged in a DC circuit?",
+    "et": "Mis juhtub kondensaatoriga pärast seda, kui see on alalisvooluahelas täielikult laetud?",
+    "sourceHash": "44214c902bd4bf56",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Current continues to flow through it steadily",
+        "et": "Vool jätkab läbi selle ühtlaselt voolamist",
+        "sourceHash": "3d55bbb6bd56ffa7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "capacitance-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Current stops flowing in that branch of the circuit",
+        "et": "Vool lakkab selles ahelaharus voolamast",
+        "sourceHash": "d50d0c21606d3c95",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It starts discharging immediately on its own",
+        "et": "See hakkab kohe iseenesest tühjenema",
+        "sourceHash": "aabdbcccc90d2296",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Its capacitance increases",
+        "et": "Selle mahtuvus suureneb",
+        "sourceHash": "56964a98f6806dd6",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}
