@@ -1,0 +1,21 @@
+{
+  "id": "significant-figures",
+  "subject": "physics",
+  "level": "L1",
+  "module": "measurement",
+  "title": {
+    "en": "Significant figures",
+    "et": "Tüvinumbrid",
+    "sourceHash": "2b0e274aae114ccd",
+    "stale": false
+  },
+  "summary": {
+    "en": "Significant figures record how precisely a measured or calculated value is known, and a result can never be more precise than its least precise input.",
+    "et": "Tüvinumbrid näitavad, kui täpselt on mõõdetud või arvutatud väärtus teada, ning tulemus ei saa olla täpsem kui selle kõige ebatäpsem sisend.",
+    "sourceHash": "0c4f5855e9b40a68",
+    "stale": false
+  },
+  "prerequisites": [
+    "measurement-and-precision"
+  ]
+}

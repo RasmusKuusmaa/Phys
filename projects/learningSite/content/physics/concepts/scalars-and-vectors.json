@@ -1,0 +1,21 @@
+{
+  "id": "scalars-and-vectors",
+  "subject": "physics",
+  "level": "L1",
+  "module": "measurement",
+  "title": {
+    "en": "Scalars and vectors",
+    "et": "Skalaarid ja vektorid",
+    "sourceHash": "89952e42d9cb9911",
+    "stale": false
+  },
+  "summary": {
+    "en": "A scalar has only magnitude; a vector has both magnitude and direction, and the two must never be added together.",
+    "et": "Skalaaril on ainult suurus; vektoril on nii suurus kui ka suund ning neid kahte ei tohi kunagi kokku liita.",
+    "sourceHash": "b766b36503152d69",
+    "stale": false
+  },
+  "prerequisites": [
+    "physical-quantities-and-units"
+  ]
+}

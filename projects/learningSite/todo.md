@@ -335,7 +335,7 @@ Complete before any content is authored.
 
 Author both locales in the same pass, never translating in a batch at the end.
 
-- [ ] Author measurement and uncertainty across all levels
+- [x] Author measurement and uncertainty across all levels
   `content: add measurement and uncertainty track`
 - [ ] Author mechanics concepts L0 through L3
   `content: add mechanics concepts`

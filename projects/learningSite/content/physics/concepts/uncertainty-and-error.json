@@ -1,0 +1,22 @@
+{
+  "id": "uncertainty-and-error",
+  "subject": "physics",
+  "level": "L1",
+  "module": "measurement",
+  "title": {
+    "en": "Uncertainty and error",
+    "et": "Mõõtemääramatus ja viga",
+    "sourceHash": "617c8939c35da708",
+    "stale": false
+  },
+  "summary": {
+    "en": "Uncertainty is the range within which the true value is expected to lie; error is the difference between a measured value and the true value, which is usually unknown.",
+    "et": "Mõõtemääramatus on vahemik, kuhu tõeline väärtus tõenäoliselt jääb; viga on mõõdetud väärtuse ja tõelise väärtuse vahe, mis on tavaliselt teadmata.",
+    "sourceHash": "a9452e22085e1048",
+    "stale": false
+  },
+  "prerequisites": [
+    "measurement-and-precision",
+    "significant-figures"
+  ]
+}

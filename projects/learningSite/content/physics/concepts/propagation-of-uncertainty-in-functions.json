@@ -1,0 +1,21 @@
+{
+  "id": "propagation-of-uncertainty-in-functions",
+  "subject": "physics",
+  "level": "L3",
+  "module": "measurement",
+  "title": {
+    "en": "Propagation of uncertainty through functions",
+    "et": "Mõõtemääramatuse levimine funktsioonide kaudu",
+    "sourceHash": "47393093a8b54c74",
+    "stale": false
+  },
+  "summary": {
+    "en": "For a general function of measured quantities, the uncertainty in the result is found from the function's partial derivatives with respect to each input.",
+    "et": "Mõõdetud suurustest sõltuva üldise funktsiooni jaoks leitakse tulemuse mõõtemääramatus funktsiooni osatuletiste kaudu iga sisendi järgi.",
+    "sourceHash": "fabb0238035d22f6",
+    "stale": false
+  },
+  "prerequisites": [
+    "combining-uncertainties"
+  ]
+}

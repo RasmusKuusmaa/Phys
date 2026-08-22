@@ -1,0 +1,19 @@
+{
+  "id": "physical-quantities-and-units",
+  "subject": "physics",
+  "level": "L0",
+  "module": "measurement",
+  "title": {
+    "en": "Physical quantities and units",
+    "et": "Füüsikalised suurused ja ühikud",
+    "sourceHash": "c356921c52cd8aa2",
+    "stale": false
+  },
+  "summary": {
+    "en": "A physical quantity is a number together with a unit; SI fixes seven base units that every other unit is built from.",
+    "et": "Füüsikaline suurus on arv koos ühikuga; SI süsteem määrab seitse baasühikut, millest tuletatakse kõik teised.",
+    "sourceHash": "793205201d7ea51b",
+    "stale": false
+  },
+  "prerequisites": []
+}

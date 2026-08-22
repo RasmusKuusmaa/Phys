@@ -1,0 +1,21 @@
+{
+  "id": "measurement-and-precision",
+  "subject": "physics",
+  "level": "L0",
+  "module": "measurement",
+  "title": {
+    "en": "Measurement, precision and accuracy",
+    "et": "Mõõtmine, täpsus ja õigsus",
+    "sourceHash": "cca201726a40736b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Precision describes how repeatable a measurement is; accuracy describes how close it is to the true value — a measurement can have one without the other.",
+    "et": "Täpsus näitab, kui korratav on mõõtmine; õigsus näitab, kui lähedal see on tõelisele väärtusele — mõõtmine võib olla üks neist ilma teiseta.",
+    "sourceHash": "708213248b40ce58",
+    "stale": false
+  },
+  "prerequisites": [
+    "physical-quantities-and-units"
+  ]
+}
