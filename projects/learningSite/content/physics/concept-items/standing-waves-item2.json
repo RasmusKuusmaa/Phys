@@ -1,0 +1,54 @@
+{
+  "id": "standing-waves-item2",
+  "conceptId": "standing-waves",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Compared to a travelling wave, a standing wave...",
+    "et": "Võrreldes jooksva lainega, seisulaine...",
+    "sourceHash": "62f1d07a8a421f1b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "transports energy along its length in the same way",
+        "et": "kannab energiat mööda oma pikkust samamoodi",
+        "sourceHash": "719789bf7ff7052c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "standing-waves-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "does not transport energy along its length",
+        "et": "ei kanna energiat mööda oma pikkust",
+        "sourceHash": "09d265135e1b745f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "travels faster",
+        "et": "levib kiiremini",
+        "sourceHash": "d97ceec9e1d982b4",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "has no wavelength",
+        "et": "ei oma lainepikkust",
+        "sourceHash": "8d24d51aec7f4eb7",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

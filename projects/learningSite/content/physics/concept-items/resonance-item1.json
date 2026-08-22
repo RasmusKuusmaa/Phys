@@ -1,0 +1,53 @@
+{
+  "id": "resonance-item1",
+  "conceptId": "resonance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A swing is pushed at regular intervals matching its natural frequency, and its amplitude grows very large. What is this an example of?",
+    "et": "Kiike lükatakse regulaarsete vahemike järel, mis vastavad selle omavõnkesagedusele, ja selle amplituud kasvab väga suureks. Mille näide see on?",
+    "sourceHash": "ea5994d4d35cb092",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Damping",
+        "et": "Sumbumine",
+        "sourceHash": "c27230cf0f21945d",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Resonance",
+        "et": "Resonants",
+        "sourceHash": "1a5d3460cc2051d3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Interference",
+        "et": "Interferents",
+        "sourceHash": "5029a61c4641c6c4",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Diffraction",
+        "et": "Difraktsioon",
+        "sourceHash": "78dfbc990740b017",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

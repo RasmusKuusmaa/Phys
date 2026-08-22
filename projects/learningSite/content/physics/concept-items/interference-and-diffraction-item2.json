@@ -1,0 +1,54 @@
+{
+  "id": "interference-and-diffraction-item2",
+  "conceptId": "interference-and-diffraction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "When two waves overlap and cancel completely at a point (destructive interference), what happens to the energy they were carrying?",
+    "et": "Kui kaks lainet kattuvad ja tühistavad üksteist punktis täielikult (destruktiivne interferents), mis juhtub nende kantud energiaga?",
+    "sourceHash": "7a39a6c714afe4e9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is destroyed",
+        "et": "See hävib",
+        "sourceHash": "8e8351084a58701d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "interference-and-diffraction-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is redistributed to other points where the waves add constructively",
+        "et": "See jaotub ümber teistesse punktidesse, kus lained liituvad konstruktiivselt",
+        "sourceHash": "56c121dd9f3bdcfa",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It converts into mass",
+        "et": "See muundub massiks",
+        "sourceHash": "b43ee575d2f7b392",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It disappears until the waves separate again",
+        "et": "See kaob, kuni lained taas lahknevad",
+        "sourceHash": "98109b52fb4086a0",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

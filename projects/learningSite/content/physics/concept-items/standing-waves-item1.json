@@ -1,0 +1,54 @@
+{
+  "id": "standing-waves-item1",
+  "conceptId": "standing-waves",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In a standing wave on a string, points called nodes remain completely still while points called antinodes oscillate with maximum amplitude. What does this tell you about the amplitude along the wave?",
+    "et": "Keele seisulaines jäävad sõlmedeks nimetatud punktid täiesti liikumatuks, samas kui kõhtudeks nimetatud punktid võnguvad maksimaalse amplituudiga. Mida see ütleb amplituudi kohta piki lainet?",
+    "sourceHash": "1c07c92cc295a5b6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is the same everywhere along the wave",
+        "et": "See on kogu laine ulatuses ühesugune",
+        "sourceHash": "63fc2585b9539e42",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "standing-waves-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It varies from zero at nodes to a maximum at antinodes",
+        "et": "See varieerub nullist sõlmedes maksimumini kõhtudes",
+        "sourceHash": "58112bba0673f208",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It increases steadily from one end to the other",
+        "et": "See kasvab ühtlaselt ühest otsast teiseni",
+        "sourceHash": "11d4e1e48bde9e46",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be determined",
+        "et": "Seda ei saa määrata",
+        "sourceHash": "5c3e67c684b399d4",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

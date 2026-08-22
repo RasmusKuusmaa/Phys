@@ -1,0 +1,54 @@
+{
+  "id": "resonance-item2",
+  "conceptId": "resonance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "At which driving frequency is the amplitude of a system's forced oscillation the greatest?",
+    "et": "Millise sundvõnkumise sageduse juures on süsteemi sundvõnkumise amplituud kõige suurem?",
+    "sourceHash": "f1a7b50444b19bf1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "At any driving frequency, since amplitude depends only on force size",
+        "et": "Mis tahes sundvõnkumise sagedusel, kuna amplituud sõltub ainult jõu suurusest",
+        "sourceHash": "ab344daad6d73a11",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "resonance-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "At the system's natural frequency",
+        "et": "Süsteemi omavõnkesagedusel",
+        "sourceHash": "dfacfc689c25a14f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "At the highest possible driving frequency",
+        "et": "Kõrgeimal võimalikul sundvõnkumise sagedusel",
+        "sourceHash": "9cad096652ed8136",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "At zero frequency",
+        "et": "Nullsagedusel",
+        "sourceHash": "2c5524fd9f4eb4c4",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

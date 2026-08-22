@@ -1,0 +1,54 @@
+{
+  "id": "waves-and-oscillations-basics-item1",
+  "conceptId": "waves-and-oscillations-basics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "As a water wave passes a floating cork, the cork bobs up and down but does not travel with the wave. What does this show?",
+    "et": "Kui veelaine läbib ujuvat korki, liigub kork üles-alla, kuid ei liigu koos lainega. Mida see näitab?",
+    "sourceHash": "09505ec392f76628",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The wave carries the water along with it",
+        "et": "Laine kannab vett endaga kaasa",
+        "sourceHash": "cb938e82a492121b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "waves-and-oscillations-basics-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The wave transfers energy without carrying the medium along with it",
+        "et": "Laine kannab energiat ilma keskkonda endaga kaasa kandmata",
+        "sourceHash": "ca52d7378f92c7fe",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The cork is too light to be moved by the wave",
+        "et": "Kork on lainest liigutamiseks liiga kerge",
+        "sourceHash": "f14a9dacdb0bbd8f",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The wave has stopped moving",
+        "et": "Laine on liikumise lõpetanud",
+        "sourceHash": "e13280d8c3730f4c",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

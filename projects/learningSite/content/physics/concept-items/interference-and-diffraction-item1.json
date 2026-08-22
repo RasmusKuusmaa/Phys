@@ -1,0 +1,53 @@
+{
+  "id": "interference-and-diffraction-item1",
+  "conceptId": "interference-and-diffraction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two waves arrive at a point exactly in phase, crest meeting crest. What type of interference occurs?",
+    "et": "Kaks lainet jõuavad punkti täpselt samas faasis, hari kohtub hariga. Millist tüüpi interferents toimub?",
+    "sourceHash": "b9195d240afa6195",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Destructive interference",
+        "et": "Destruktiivne interferents",
+        "sourceHash": "9ec14491ddf84a8a",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Constructive interference",
+        "et": "Konstruktiivne interferents",
+        "sourceHash": "dabf07d87c20dc9e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "No interference, since the waves are identical",
+        "et": "Interferentsi ei toimu, sest lained on identsed",
+        "sourceHash": "1fc14fcede88e399",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Diffraction",
+        "et": "Difraktsioon",
+        "sourceHash": "78dfbc990740b017",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

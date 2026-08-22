@@ -1,0 +1,54 @@
+{
+  "id": "waves-and-oscillations-basics-item2",
+  "conceptId": "waves-and-oscillations-basics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of these can travel through the vacuum of space, where there is no medium?",
+    "et": "Milline neist saab levida kosmose vaakumis, kus keskkonda ei ole?",
+    "sourceHash": "40f2f17001d7150e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Sound waves",
+        "et": "Helilained",
+        "sourceHash": "ee06ea46e78bf92d",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Electromagnetic waves such as light",
+        "et": "Elektromagnetlained, näiteks valgus",
+        "sourceHash": "e831d8363dfcf50a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Water waves",
+        "et": "Veelained",
+        "sourceHash": "667ba1f3ebc3379c",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "No wave can travel without a medium",
+        "et": "Ükski laine ei saa levida ilma keskkonnata",
+        "sourceHash": "5a16e9957d972238",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "waves-and-oscillations-basics-m3"
+    }
+  ]
+}

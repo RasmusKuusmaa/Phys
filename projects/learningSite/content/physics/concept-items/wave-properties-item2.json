@@ -1,0 +1,55 @@
+{
+  "id": "wave-properties-item2",
+  "conceptId": "wave-properties",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which two quantities, when multiplied together, give a wave's speed?",
+    "et": "Millise kahe suuruse korrutis annab laine kiiruse?",
+    "sourceHash": "8bfdf40ba21a70e8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Amplitude and period",
+        "et": "Amplituud ja periood",
+        "sourceHash": "1f0f963e7fd34b64",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Frequency and wavelength",
+        "et": "Sagedus ja lainepikkus",
+        "sourceHash": "6d03f3667fd7c64d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Amplitude and frequency",
+        "et": "Amplituud ja sagedus",
+        "sourceHash": "74edb9ef27b7575d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-properties-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Wavelength and period",
+        "et": "Lainepikkus ja periood",
+        "sourceHash": "bf0db4f30f1b81bb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-properties-m3"
+    }
+  ]
+}

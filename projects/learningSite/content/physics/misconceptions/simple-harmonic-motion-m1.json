@@ -1,0 +1,10 @@
+{
+  "id": "simple-harmonic-motion-m1",
+  "conceptId": "simple-harmonic-motion",
+  "text": {
+    "en": "The restoring force in simple harmonic motion is constant, not proportional to displacement.",
+    "et": "Harmoonilise võnkumise taastav jõud on konstantne, mitte võrdeline nihkega.",
+    "sourceHash": "5fa6cfc15dad84b4",
+    "stale": false
+  }
+}

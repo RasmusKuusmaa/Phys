@@ -1,0 +1,54 @@
+{
+  "id": "simple-harmonic-motion-item2",
+  "conceptId": "simple-harmonic-motion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A mass on a spring is set oscillating with a small amplitude, then later with a much larger amplitude (still within the spring's elastic limit). How does the period of oscillation compare?",
+    "et": "Vedrul olev mass pannakse võnkuma väikese amplituudiga ja hiljem palju suurema amplituudiga (endiselt vedru elastsuse piires). Kuidas võrdlevad võnkeperioodid?",
+    "sourceHash": "df98b0c7761af013",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The period is much longer with the larger amplitude",
+        "et": "Periood on suurema amplituudi korral palju pikem",
+        "sourceHash": "39d3e25914db9278",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "simple-harmonic-motion-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The period is the same in both cases",
+        "et": "Periood on mõlemal juhul sama",
+        "sourceHash": "bf2b3c4a367f80da",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The period is much shorter with the larger amplitude",
+        "et": "Periood on suurema amplituudi korral palju lühem",
+        "sourceHash": "5a6c5d2ca822d13e",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The period cannot be predicted",
+        "et": "Perioodi ei saa ennustada",
+        "sourceHash": "29477640553667a2",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "simple-harmonic-motion-item1",
+  "conceptId": "simple-harmonic-motion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In simple harmonic motion, how does the restoring force change as the displacement from equilibrium increases?",
+    "et": "Kuidas muutub harmoonilises võnkumises taastav jõud, kui nihe tasakaaluasendist suureneb?",
+    "sourceHash": "5b5e55aaea1752dc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It stays constant",
+        "et": "See jääb konstantseks",
+        "sourceHash": "86aeb4bbd324e2e2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "simple-harmonic-motion-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It increases in proportion to the displacement",
+        "et": "See suureneb võrdeliselt nihkega",
+        "sourceHash": "6760a3476012550c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It decreases",
+        "et": "See väheneb",
+        "sourceHash": "757701e49f051c90",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It becomes zero",
+        "et": "See muutub nulliks",
+        "sourceHash": "f78209b4b955f27b",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

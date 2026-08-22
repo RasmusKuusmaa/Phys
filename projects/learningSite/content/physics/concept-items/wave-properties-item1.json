@@ -1,0 +1,54 @@
+{
+  "id": "wave-properties-item1",
+  "conceptId": "wave-properties",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A wave travelling in a fixed medium has its frequency doubled. What happens to its wavelength, assuming the wave's speed in that medium stays the same?",
+    "et": "Kindlas keskkonnas leviva laine sagedus kahekordistatakse. Mis juhtub selle lainepikkusega, eeldusel et laine kiirus selles keskkonnas jääb samaks?",
+    "sourceHash": "120014d7418b54d8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It doubles",
+        "et": "See kahekordistub",
+        "sourceHash": "67b0cb205fc3e3f1",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It halves",
+        "et": "See poolitub",
+        "sourceHash": "f72b059a1fbc566d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stays the same",
+        "et": "See jääb samaks",
+        "sourceHash": "7bea86b7edf41d87",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-properties-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It quadruples",
+        "et": "See neljakordistub",
+        "sourceHash": "1f029b40fb57e0f6",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}
