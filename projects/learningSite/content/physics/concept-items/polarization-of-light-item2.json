@@ -1,0 +1,54 @@
+{
+  "id": "polarization-of-light-item2",
+  "conceptId": "polarization-of-light",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What do polarizing sunglasses actually block?",
+    "et": "Mida polariseerivad päikeseprillid tegelikult blokeerivad?",
+    "sourceHash": "c68baa350787ab22",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "All light except one specific wavelength",
+        "et": "Kogu valguse peale ühe kindla lainepikkuse",
+        "sourceHash": "977a4a1e81540127",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polarization-of-light-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Light oscillating in directions other than the filter's transmission axis",
+        "et": "Valguse, mis võngub muudes suundades kui filtri läbilasketelg",
+        "sourceHash": "2e97b7e4a18f8c8e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only ultraviolet light",
+        "et": "Ainult ultraviolettvalguse",
+        "sourceHash": "39048ea9863ca1ba",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only reflected light, regardless of its polarization",
+        "et": "Ainult peegeldunud valguse, olenemata selle polarisatsioonist",
+        "sourceHash": "05e0fb3d08380445",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

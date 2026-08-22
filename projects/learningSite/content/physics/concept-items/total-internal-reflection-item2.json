@@ -1,0 +1,54 @@
+{
+  "id": "total-internal-reflection-item2",
+  "conceptId": "total-internal-reflection",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "At an angle of incidence greater than the critical angle, how much of the light refracts through into the second material?",
+    "et": "Kriitilisest nurgast suurema langemisnurga korral, kui suur osa valgusest murdub läbi teise materjali?",
+    "sourceHash": "7999a15c08d14a1b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A small fraction",
+        "et": "Väike osa",
+        "sourceHash": "9a9cbaf1a6c17aaa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "total-internal-reflection-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "None — all of it is reflected",
+        "et": "Mitte ükski — kogu valgus peegeldub",
+        "sourceHash": "d5aef35aea3014e1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Half of it",
+        "et": "Pool sellest",
+        "sourceHash": "ac62843e7e5db403",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "All of it",
+        "et": "Kogu valgus",
+        "sourceHash": "f5062de204b97fb3",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "polarization-of-light-item1",
+  "conceptId": "polarization-of-light",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of the following can be polarized?",
+    "et": "Milline järgnevatest saab olla polariseeritud?",
+    "sourceHash": "af584f73a8d2ae26",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Only visible light",
+        "et": "Ainult nähtav valgus",
+        "sourceHash": "7e2f0163ba3d12e6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polarization-of-light-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Any transverse wave",
+        "et": "Iga ristlaine",
+        "sourceHash": "5d637e1fb2d0beee",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only longitudinal waves",
+        "et": "Ainult pikilained",
+        "sourceHash": "2742bfd511c013f8",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only sound waves",
+        "et": "Ainult helilained",
+        "sourceHash": "01e7c5e594f547a7",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "snells-law-m3",
+  "conceptId": "snells-law",
+  "text": {
+    "en": "Snell's law only applies to light, not to other types of waves.",
+    "et": "Snelli seadus kehtib ainult valguse, mitte teiste lainetüüpide kohta.",
+    "sourceHash": "93d12b6676340c40",
+    "stale": false
+  }
+}

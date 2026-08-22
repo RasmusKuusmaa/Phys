@@ -1,0 +1,54 @@
+{
+  "id": "snells-law-item1",
+  "conceptId": "snells-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A ray of light hits a glass surface exactly along the normal (0° angle of incidence). What is the angle of refraction?",
+    "et": "Valguskiir langeb klaaspinnale täpselt piki normaali (0° langemisnurk). Milline on murdumisnurk?",
+    "sourceHash": "a5f086167c32b6eb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is the largest possible angle",
+        "et": "See on suurim võimalik nurk",
+        "sourceHash": "b7dbc2c42e0dca77",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "snells-law-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "0°, it continues straight through",
+        "et": "0°, see jätkub otse läbi",
+        "sourceHash": "c365193071dfb667",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "90°",
+        "et": "90°",
+        "sourceHash": "882f8deed62ee76d",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be determined",
+        "et": "Seda ei saa määrata",
+        "sourceHash": "5c3e67c684b399d4",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

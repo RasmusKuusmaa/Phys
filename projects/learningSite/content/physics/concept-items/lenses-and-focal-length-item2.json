@@ -1,0 +1,54 @@
+{
+  "id": "lenses-and-focal-length-item2",
+  "conceptId": "lenses-and-focal-length",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Only parallel rays of light passing through a converging lens meet exactly at its focal point. What determines whether rays converge exactly there?",
+    "et": "Ainult koonduvat läätse läbivad paralleelsed valguskiired koonduvad täpselt selle fookuspunktis. Mis määrab, kas kiired koonduvad täpselt seal?",
+    "sourceHash": "505b2783be365615",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Whether the incoming rays were parallel to the lens's axis",
+        "et": "Kas sissetulevad kiired olid läätse teljega paralleelsed",
+        "sourceHash": "be5c01537724fd40",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The lens's color",
+        "et": "Läätse värvus",
+        "sourceHash": "953a780afaf3c69f",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing — all light converges there regardless of its original direction",
+        "et": "Miski — kogu valgus koondub sinna olenemata selle algsuunast",
+        "sourceHash": "e412db2fc4849626",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lenses-and-focal-length-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The distance from the lens to the light source",
+        "et": "Kaugus läätsest valgusallikani",
+        "sourceHash": "35a99f3036e1840a",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

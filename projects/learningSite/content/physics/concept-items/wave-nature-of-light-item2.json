@@ -1,0 +1,54 @@
+{
+  "id": "wave-nature-of-light-item2",
+  "conceptId": "wave-nature-of-light",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the double-slit experiment demonstrate about the nature of light?",
+    "et": "Mida näitab kaheavakatse valguse olemuse kohta?",
+    "sourceHash": "5e51c6338b317626",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That light is only a particle",
+        "et": "Et valgus on ainult osake",
+        "sourceHash": "998fb940f4b71927",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-nature-of-light-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That light exhibits wave-like behavior",
+        "et": "Et valgus käitub lainena",
+        "sourceHash": "36ba37306cd6acbf",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That light cannot travel through narrow gaps",
+        "et": "Et valgus ei saa läbida kitsaid avasid",
+        "sourceHash": "49d3876692b23f09",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That light has no measurable speed",
+        "et": "Et valgusel ei ole mõõdetavat kiirust",
+        "sourceHash": "5c98adef46adc95c",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

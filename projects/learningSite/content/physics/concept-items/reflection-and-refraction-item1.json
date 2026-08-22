@@ -1,0 +1,54 @@
+{
+  "id": "reflection-and-refraction-item1",
+  "conceptId": "reflection-and-refraction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A ray of light hits a mirror at 30° to the normal. At what angle does it reflect?",
+    "et": "Valguskiir langeb peeglile 30° nurga all normaali suhtes. Millise nurga all see peegeldub?",
+    "sourceHash": "d92e9b8f2b69b49b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "30° to the surface",
+        "et": "30° pinna suhtes",
+        "sourceHash": "95baf1186457778c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reflection-and-refraction-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "30° to the normal",
+        "et": "30° normaali suhtes",
+        "sourceHash": "17f58782f4e0cf6a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "60° to the normal",
+        "et": "60° normaali suhtes",
+        "sourceHash": "91a30a4deb1ea335",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "0°, straight back the way it came",
+        "et": "0°, otse tagasi samas suunas",
+        "sourceHash": "0895bdad5a78c40d",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

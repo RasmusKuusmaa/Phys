@@ -1,0 +1,54 @@
+{
+  "id": "snells-law-item2",
+  "conceptId": "snells-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Does the refractive index of a piece of glass change depending on the angle at which light hits it?",
+    "et": "Kas klaasitüki murdumisnäitaja muutub sõltuvalt nurgast, mille all valgus sellele langeb?",
+    "sourceHash": "7f0e1c9aaf19e0b5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Yes, it increases with a larger angle of incidence",
+        "et": "Jah, see suureneb suurema langemisnurga korral",
+        "sourceHash": "0f6c920f2e8f58f2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "snells-law-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No, it is a fixed property of the material for a given light color",
+        "et": "Ei, see on antud valguse värvi jaoks materjali fikseeritud omadus",
+        "sourceHash": "b042b857b825b89a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Yes, but only for angles above 45°",
+        "et": "Jah, kuid ainult nurkade puhul üle 45°",
+        "sourceHash": "8712ea192c5a22ac",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on the light's polarization only",
+        "et": "See sõltub ainult valguse polarisatsioonist",
+        "sourceHash": "57d1bde75a95b4b2",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

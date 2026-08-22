@@ -1,0 +1,54 @@
+{
+  "id": "reflection-and-refraction-item2",
+  "conceptId": "reflection-and-refraction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Light travels from glass into air (a less dense material). What happens to the ray as it crosses the boundary?",
+    "et": "Valgus liigub klaasist õhku (hõredamasse materjali). Mis juhtub kiirega piiri ületamisel?",
+    "sourceHash": "c51b51e4291ab294",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It cannot refract, since refraction only happens entering denser materials",
+        "et": "See ei saa murduda, sest murdumine toimub ainult tihedamasse materjali sisenedes",
+        "sourceHash": "b23fd180cd5336c8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reflection-and-refraction-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It bends away from the normal",
+        "et": "See murdub normaalist eemale",
+        "sourceHash": "81454629bd0720a5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It bends toward the normal",
+        "et": "See murdub normaali suunas",
+        "sourceHash": "7b9febd0a9dd2e97",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It stops completely",
+        "et": "See peatub täielikult",
+        "sourceHash": "ad76a9d59e2e3f48",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

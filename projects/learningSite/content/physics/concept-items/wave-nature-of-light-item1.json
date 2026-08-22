@@ -1,0 +1,54 @@
+{
+  "id": "wave-nature-of-light-item1",
+  "conceptId": "wave-nature-of-light",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In Young's double-slit experiment, what causes the pattern of bright and dark fringes on the screen?",
+    "et": "Mis põhjustab Youngi kaheavakatses ekraanil heledate ja tumedate triipude mustri?",
+    "sourceHash": "b14b61015ab55f72",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Random particle collisions",
+        "et": "Juhuslikud osakeste põrked",
+        "sourceHash": "5375a3b2efe9c90f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-nature-of-light-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Constructive and destructive interference between light waves from the two slits",
+        "et": "Konstruktiivne ja destruktiivne interferents kahest pilust tulevate valguslainete vahel",
+        "sourceHash": "7fc947229b02a897",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Light bouncing off the edges of the slits only",
+        "et": "Valgus, mis põrkub ainult pilude servadelt",
+        "sourceHash": "4b2b678a89f03e4b",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The two slits emitting different colors",
+        "et": "Kaks pilu, mis kiirgavad erinevaid värve",
+        "sourceHash": "66152c0f445bf993",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

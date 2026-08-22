@@ -1,0 +1,55 @@
+{
+  "id": "total-internal-reflection-item1",
+  "conceptId": "total-internal-reflection",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Total internal reflection can only occur when light travels...",
+    "et": "Täielik sisepeegeldus saab toimuda ainult siis, kui valgus liigub...",
+    "sourceHash": "6e7ff556ada871ef",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "from a less dense into a more dense material",
+        "et": "hõredamast tihedamasse materjali",
+        "sourceHash": "78956c9a9c842957",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "total-internal-reflection-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "from a more dense into a less dense material, beyond the critical angle",
+        "et": "tihedamast hõredamasse materjali, kriitilisest nurgast suuremal nurgal",
+        "sourceHash": "e615d082107eb912",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "through a vacuum",
+        "et": "läbi vaakumi",
+        "sourceHash": "49e3e9cfabc8fef6",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "at any angle, in any pair of materials",
+        "et": "mis tahes nurga all, mis tahes materjalipaari korral",
+        "sourceHash": "47fa3f608c0def31",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "total-internal-reflection-m3"
+    }
+  ]
+}

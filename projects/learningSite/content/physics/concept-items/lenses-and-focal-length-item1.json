@@ -1,0 +1,54 @@
+{
+  "id": "lenses-and-focal-length-item1",
+  "conceptId": "lenses-and-focal-length",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which converging lens bends parallel light rays more sharply: one with a short focal length, or one with a long focal length?",
+    "et": "Milline koonduv lääts murrab paralleelseid valguskiiri teravamalt: lühikese või pika fookuskaugusega lääts?",
+    "sourceHash": "c76cde0942f203c0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The one with the long focal length",
+        "et": "Pika fookuskaugusega lääts",
+        "sourceHash": "14274d5eed9d9c28",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lenses-and-focal-length-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The one with the short focal length",
+        "et": "Lühikese fookuskaugusega lääts",
+        "sourceHash": "5d7dda11ac4641d4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both bend light equally",
+        "et": "Mõlemad murravad valgust võrdselt",
+        "sourceHash": "b124b7384d0d0a45",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends only on the lens diameter",
+        "et": "See sõltub ainult läätse läbimõõdust",
+        "sourceHash": "0bea18602bf673ac",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}
