@@ -1,0 +1,21 @@
+{
+  "id": "magnetic-fields",
+  "subject": "physics",
+  "level": "L1",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Magnetic fields",
+    "et": "Magnetväli",
+    "sourceHash": "3a75210eb5fcfd11",
+    "stale": false
+  },
+  "summary": {
+    "en": "Moving charges and electric currents create magnetic fields, and a magnetic field in turn exerts a force on any moving charge that crosses it.",
+    "et": "Liikuvad laengud ja elektrivoolud tekitavad magnetvälja ning magnetväli omakorda mõjutab jõuga iga seda läbivat liikuvat laengut.",
+    "sourceHash": "1f35c48f2286aed5",
+    "stale": false
+  },
+  "prerequisites": [
+    "electric-fields"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "electric-fields",
+  "subject": "physics",
+  "level": "L1",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Electric fields",
+    "et": "Elektriväli",
+    "sourceHash": "20c003257cb87821",
+    "stale": false
+  },
+  "summary": {
+    "en": "An electric charge creates an electric field around it, and any other charge placed in that field feels a force proportional to the field strength there.",
+    "et": "Elektrilaeng tekitab enda ümber elektrivälja ning igale teisele sellesse välja asetatud laengule mõjub jõud, mis on võrdeline välja tugevusega selles punktis.",
+    "sourceHash": "64179de6a2333d9a",
+    "stale": false
+  },
+  "prerequisites": [
+    "electric-charge-and-current",
+    "scalars-and-vectors"
+  ]
+}

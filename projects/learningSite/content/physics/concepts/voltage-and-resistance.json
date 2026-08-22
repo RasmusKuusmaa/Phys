@@ -1,0 +1,21 @@
+{
+  "id": "voltage-and-resistance",
+  "subject": "physics",
+  "level": "L1",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Voltage and resistance",
+    "et": "Pinge ja takistus",
+    "sourceHash": "c0a31cf6d661ae08",
+    "stale": false
+  },
+  "summary": {
+    "en": "Voltage drives current through a circuit, and resistance opposes it — for many materials the three are linked by Ohm's law: voltage equals current times resistance.",
+    "et": "Pinge paneb voolu ahelas liikuma ning takistus seda takistab — paljude materjalide puhul on need kolm seotud Ohmi seadusega: pinge võrdub voolutugevuse ja takistuse korrutisega.",
+    "sourceHash": "b58ade62ebda4eff",
+    "stale": false
+  },
+  "prerequisites": [
+    "electric-charge-and-current"
+  ]
+}

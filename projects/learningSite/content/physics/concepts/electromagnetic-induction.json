@@ -1,0 +1,21 @@
+{
+  "id": "electromagnetic-induction",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Electromagnetic induction",
+    "et": "Elektromagnetiline induktsioon",
+    "sourceHash": "2be538430045af83",
+    "stale": false
+  },
+  "summary": {
+    "en": "A changing magnetic field through a loop of wire induces an electromotive force in it — the faster the field changes, the larger the induced voltage.",
+    "et": "Muutuv magnetväli traatsilmuse sees indutseerib selles elektromotoorjõu — mida kiiremini väli muutub, seda suurem on indutseeritud pinge.",
+    "sourceHash": "a265a91969cd8b4c",
+    "stale": false
+  },
+  "prerequisites": [
+    "magnetic-fields"
+  ]
+}

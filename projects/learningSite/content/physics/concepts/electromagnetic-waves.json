@@ -1,0 +1,22 @@
+{
+  "id": "electromagnetic-waves",
+  "subject": "physics",
+  "level": "L3",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Electromagnetic waves",
+    "et": "Elektromagnetlained",
+    "sourceHash": "c8984f0aab358c41",
+    "stale": false
+  },
+  "summary": {
+    "en": "A changing electric field creates a changing magnetic field and vice versa, and this self-sustaining pair propagates through space as an electromagnetic wave, including visible light.",
+    "et": "Muutuv elektriväli tekitab muutuva magnetvälja ja vastupidi, ning see üksteist ülal hoidev paar levib ruumis elektromagnetlainena, mille hulka kuulub ka nähtav valgus.",
+    "sourceHash": "57e95a81b9522fd4",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-induction",
+    "wave-properties"
+  ]
+}

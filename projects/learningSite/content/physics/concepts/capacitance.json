@@ -1,0 +1,21 @@
+{
+  "id": "capacitance",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Capacitance",
+    "et": "Mahtuvus",
+    "sourceHash": "c71f35c1d8d3cec3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Capacitance measures how much charge a component can store per volt across it, and a charged capacitor holds energy in the electric field between its plates.",
+    "et": "Mahtuvus näitab, kui palju laengut suudab komponent salvestada iga selle otstel oleva voldi kohta, ning laetud kondensaator hoiab energiat oma plaatide vahelises elektriväljas.",
+    "sourceHash": "1ed27cc7c07a8042",
+    "stale": false
+  },
+  "prerequisites": [
+    "voltage-and-resistance"
+  ]
+}
