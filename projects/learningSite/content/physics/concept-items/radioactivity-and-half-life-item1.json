@@ -1,0 +1,54 @@
+{
+  "id": "radioactivity-and-half-life-item1",
+  "conceptId": "radioactivity-and-half-life",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A radioactive isotope has a half-life of 10 years. After 20 years, what fraction of the original sample remains undecayed?",
+    "et": "Radioaktiivse isotoobi poolestusaeg on 10 aastat. Milline osa algsest proovist on 20 aasta pärast veel lagunemata?",
+    "sourceHash": "57b9b06cd42cd7ba",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "None, it has all decayed",
+        "et": "Mitte ükski, kõik on lagunenud",
+        "sourceHash": "c9cb0559f78485c7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radioactivity-and-half-life-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "One quarter",
+        "et": "Veerand",
+        "sourceHash": "49805d1a9012eed0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "One half",
+        "et": "Pool",
+        "sourceHash": "9a32c4dc660f0650",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Three quarters",
+        "et": "Kolmveerand",
+        "sourceHash": "5d207d1ca29e7321",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

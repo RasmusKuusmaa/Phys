@@ -1,0 +1,54 @@
+{
+  "id": "quantum-energy-levels-item1",
+  "conceptId": "quantum-energy-levels",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of these best describes the possible energy values of an electron bound in an atom?",
+    "et": "Milline neist kirjeldab kõige paremini aatomis seotud elektroni võimalikke energiaväärtusi?",
+    "sourceHash": "2e957b05ef5e905c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Any value at all, on a continuous scale",
+        "et": "Mis tahes väärtus pidevas skaalas",
+        "sourceHash": "4f6fb02b93815195",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-energy-levels-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Only certain discrete, quantised values",
+        "et": "Ainult teatud diskreetsed, kvantitud väärtused",
+        "sourceHash": "b6f872bdb7f48714",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A single fixed value that never changes",
+        "et": "Üks kindel väärtus, mis kunagi ei muutu",
+        "sourceHash": "88569817a5cfe4eb",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A value that depends only on temperature",
+        "et": "Väärtus, mis sõltub ainult temperatuurist",
+        "sourceHash": "e735a785fed5e4a9",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

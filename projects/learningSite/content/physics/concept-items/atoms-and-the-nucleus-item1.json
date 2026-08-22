@@ -1,0 +1,54 @@
+{
+  "id": "atoms-and-the-nucleus-item1",
+  "conceptId": "atoms-and-the-nucleus",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which particles contribute almost all of an atom's mass?",
+    "et": "Millised osakesed moodustavad peaaegu kogu aatomi massi?",
+    "sourceHash": "16ba06488f4d2449",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Electrons, since there are usually many of them",
+        "et": "Elektronid, sest neid on tavaliselt palju",
+        "sourceHash": "0f4bbab5ab74da46",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "atoms-and-the-nucleus-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Protons and neutrons in the nucleus",
+        "et": "Tuumas olevad prootonid ja neutronid",
+        "sourceHash": "87c4df5733240806",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only the electrons in the outer shell",
+        "et": "Ainult väliskihi elektronid",
+        "sourceHash": "7f1c25613aebb587",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Neutrons only",
+        "et": "Ainult neutronid",
+        "sourceHash": "9d7cdb60b329047b",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

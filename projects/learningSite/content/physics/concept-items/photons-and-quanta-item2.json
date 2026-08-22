@@ -1,0 +1,54 @@
+{
+  "id": "photons-and-quanta-item2",
+  "conceptId": "photons-and-quanta",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "If the frequency of light is doubled, what happens to the energy of each individual photon?",
+    "et": "Kui valguse sagedus kahekordistub, mis juhtub iga üksiku footoni energiaga?",
+    "sourceHash": "d7dcfab46c63371b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It stays the same, only the number of photons changes",
+        "et": "See jääb samaks, muutub ainult footonite arv",
+        "sourceHash": "b66f61ecd62f212a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "photons-and-quanta-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doubles",
+        "et": "See kahekordistub",
+        "sourceHash": "67b0cb205fc3e3f1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It halves",
+        "et": "See poolitub",
+        "sourceHash": "f72b059a1fbc566d",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It becomes zero",
+        "et": "See muutub nulliks",
+        "sourceHash": "f78209b4b955f27b",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

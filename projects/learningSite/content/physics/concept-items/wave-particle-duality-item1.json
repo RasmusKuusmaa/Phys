@@ -1,0 +1,54 @@
+{
+  "id": "wave-particle-duality-item1",
+  "conceptId": "wave-particle-duality",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of the following also shows wave-like behavior, according to wave-particle duality?",
+    "et": "Milline järgnevatest näitab laine-osakese duaalsuse kohaselt samuti lainelist käitumist?",
+    "sourceHash": "57744b23648b648e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Only photons, not matter particles",
+        "et": "Ainult footonid, mitte aineosakesed",
+        "sourceHash": "fa0085b992831179",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-particle-duality-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Electrons and other matter particles",
+        "et": "Elektronid ja teised aineosakesed",
+        "sourceHash": "4b397765656b6bf9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only sound waves",
+        "et": "Ainult helilained",
+        "sourceHash": "01e7c5e594f547a7",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing besides light",
+        "et": "Miski peale valguse",
+        "sourceHash": "fa502f1d88201412",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

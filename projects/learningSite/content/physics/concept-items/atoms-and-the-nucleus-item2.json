@@ -1,0 +1,54 @@
+{
+  "id": "atoms-and-the-nucleus-item2",
+  "conceptId": "atoms-and-the-nucleus",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two isotopes of the same element, carbon-12 and carbon-14, differ in...",
+    "et": "Kaks sama elemendi isotoopi, süsinik-12 ja süsinik-14, erinevad...",
+    "sourceHash": "eb3a4e4f009fa96d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "the number of protons they contain",
+        "et": "nende sisaldatavate prootonite arvu poolest",
+        "sourceHash": "ca355f30de5c8871",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "atoms-and-the-nucleus-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "the number of neutrons they contain",
+        "et": "nende sisaldatavate neutronite arvu poolest",
+        "sourceHash": "d1ca1ec3f8bd5e4c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "the number of electrons in a neutral atom",
+        "et": "neutraalse aatomi elektronide arvu poolest",
+        "sourceHash": "71cbf07e04bac134",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "their electric charge",
+        "et": "nende elektrilaengu poolest",
+        "sourceHash": "0af51c44367c3cb4",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

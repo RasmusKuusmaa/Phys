@@ -1,0 +1,54 @@
+{
+  "id": "radioactivity-and-half-life-item2",
+  "conceptId": "radioactivity-and-half-life",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "If you have a large sample of a radioactive isotope versus a small sample of the same isotope, how do their half-lives compare?",
+    "et": "Kui teil on suur proov radioaktiivsest isotoobist versus väike proov samast isotoobist, kuidas nende poolestusajad võrdlevad?",
+    "sourceHash": "fef00ecba05de8ee",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The large sample has a longer half-life",
+        "et": "Suuremal proovil on pikem poolestusaeg",
+        "sourceHash": "f482c7e86127a7fe",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radioactivity-and-half-life-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The half-life is the same for both",
+        "et": "Poolestusaeg on mõlemal sama",
+        "sourceHash": "efc091a92c39f6dc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The small sample has a longer half-life",
+        "et": "Väiksemal proovil on pikem poolestusaeg",
+        "sourceHash": "6d5e511606d4a2d9",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Half-life cannot be defined for small samples",
+        "et": "Poolestusaega ei saa väikeste proovide jaoks määratleda",
+        "sourceHash": "7a60c970cf156b4f",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

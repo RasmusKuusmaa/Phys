@@ -1,0 +1,54 @@
+{
+  "id": "quantum-energy-levels-item2",
+  "conceptId": "quantum-energy-levels",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An electron drops from a higher energy level to a lower one within an atom. What happens?",
+    "et": "Elektron langeb aatomi sees kõrgemalt energianivoolt madalamale. Mis juhtub?",
+    "sourceHash": "8e35ad3ee51c204a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The electron absorbs a photon",
+        "et": "Elektron neelab footoni",
+        "sourceHash": "a4267ed9a46ecee4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-energy-levels-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The electron emits a photon with energy equal to the difference between the two levels",
+        "et": "Elektron kiirgab footoni, mille energia võrdub kahe nivoo vahega",
+        "sourceHash": "edf975790ce77f61",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The atom's nucleus changes",
+        "et": "Aatomi tuum muutub",
+        "sourceHash": "e800c0d6f5ac8aad",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing observable happens",
+        "et": "Midagi jälgitavat ei juhtu",
+        "sourceHash": "bfa9899cd29124ce",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

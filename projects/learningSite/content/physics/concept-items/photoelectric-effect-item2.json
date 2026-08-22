@@ -1,0 +1,54 @@
+{
+  "id": "photoelectric-effect-item2",
+  "conceptId": "photoelectric-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What determines the maximum kinetic energy of electrons emitted in the photoelectric effect?",
+    "et": "Mis määrab fotoefektis eralduvate elektronide maksimaalse kineetilise energia?",
+    "sourceHash": "d7e6ca92f55d0e55",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The intensity of the incident light",
+        "et": "Langeva valguse intensiivsus",
+        "sourceHash": "f25a43bb685bf166",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "photoelectric-effect-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The frequency of the incident light (above the threshold) and the metal's work function",
+        "et": "Langeva valguse sagedus (üle läve) ja metalli väljumistöö",
+        "sourceHash": "e574c6cd697261ec",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The color of the metal",
+        "et": "Metalli värv",
+        "sourceHash": "1fc4463f27f14acd",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The distance from the light source",
+        "et": "Kaugus valgusallikast",
+        "sourceHash": "3c3019315d4b1768",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

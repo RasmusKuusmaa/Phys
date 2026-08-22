@@ -1,0 +1,54 @@
+{
+  "id": "wave-particle-duality-item2",
+  "conceptId": "wave-particle-duality",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An electron's de Broglie wavelength changes if...",
+    "et": "Elektroni de Broglie lainepikkus muutub, kui...",
+    "sourceHash": "c488a68e245f64e8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "only its mass changes, never its speed",
+        "et": "muutub ainult selle mass, mitte kunagi kiirus",
+        "sourceHash": "2aa5ab7e34116ec2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-particle-duality-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "its momentum (mass times velocity) changes",
+        "et": "muutub selle impulss (massi ja kiiruse korrutis)",
+        "sourceHash": "9839c6b774ecf669",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "its electric charge changes",
+        "et": "muutub selle elektrilaeng",
+        "sourceHash": "6b0bf90c0ed27980",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "it is placed in a different color of light",
+        "et": "see asetatakse erinevat värvi valgusesse",
+        "sourceHash": "90aa3a6038987e30",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

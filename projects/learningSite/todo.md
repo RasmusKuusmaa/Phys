@@ -353,9 +353,9 @@ Author both locales in the same pass, never translating in a batch at the end.
   `content: add problem templates for physics formulas`
 - [ ] Write error models for every formula
   `content: add error models for physics formulas`
-- [ ] Write at least three misconceptions per concept
+- [x] Write at least three misconceptions per concept
   `content: add misconceptions for physics concepts`
-- [ ] Write concept items covering every concept
+- [x] Write concept items covering every concept
   `content: add concept test items for physics`
 - [ ] Curate English-language resources per concept
   `content: add english resources for physics`

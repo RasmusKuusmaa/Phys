@@ -1,0 +1,10 @@
+{
+  "id": "quantum-energy-levels-m3",
+  "conceptId": "quantum-energy-levels",
+  "text": {
+    "en": "The energy of an emitted photon depends only on the electron's starting energy level, not the level it jumps to.",
+    "et": "Kiirgunud footoni energia sõltub ainult elektroni algsest energianivoost, mitte nivoost, kuhu ta hüppab.",
+    "sourceHash": "86a5ea2416a57141",
+    "stale": false
+  }
+}

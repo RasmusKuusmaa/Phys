@@ -1,0 +1,54 @@
+{
+  "id": "photoelectric-effect-item1",
+  "conceptId": "photoelectric-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Light below a metal's threshold frequency is shone on it, and its intensity is increased greatly. What happens?",
+    "et": "Metallile suunatakse valgust, mille sagedus on alla selle lävisageduse, ja selle intensiivsust suurendatakse tugevasti. Mis juhtub?",
+    "sourceHash": "2d097a26a9cae634",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Electrons are eventually emitted once the light is bright enough",
+        "et": "Elektronid eralduvad lõpuks, kui valgus on piisavalt hele",
+        "sourceHash": "b3acf6447a832958",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "photoelectric-effect-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No electrons are emitted, no matter how bright the light is",
+        "et": "Ühtegi elektroni ei eraldu, olenemata sellest, kui hele valgus on",
+        "sourceHash": "ce42d0abfb630444",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Electrons are emitted immediately",
+        "et": "Elektronid eralduvad koheselt",
+        "sourceHash": "33b6d5f6d89c90e0",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The metal begins to glow",
+        "et": "Metall hakkab hõõguma",
+        "sourceHash": "21ec2877e45c60cb",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

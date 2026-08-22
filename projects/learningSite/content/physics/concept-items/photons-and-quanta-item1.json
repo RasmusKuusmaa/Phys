@@ -1,0 +1,54 @@
+{
+  "id": "photons-and-quanta-item1",
+  "conceptId": "photons-and-quanta",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "According to the photon model, what determines the energy of a single photon of light?",
+    "et": "Footonimudeli kohaselt, mis määrab üksiku valgusfootoni energia?",
+    "sourceHash": "c7572b9f1715f0de",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The brightness of the light source",
+        "et": "Valgusallika heledus",
+        "sourceHash": "48f4066012835761",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "photons-and-quanta-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The frequency of the light",
+        "et": "Valguse sagedus",
+        "sourceHash": "a6b621d25ffded36",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The distance the light has travelled",
+        "et": "Valguse läbitud vahemaa",
+        "sourceHash": "ec35855f4f69e108",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The color of the detector",
+        "et": "Detektori värv",
+        "sourceHash": "cf0a79df5af9e93a",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}
