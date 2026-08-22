@@ -90,6 +90,9 @@ export default async function RootLayout({
               <Link href={`/${locale}/practice`} className="text-muted hover:text-foreground">
                 {dict.nav.practice}
               </Link>
+              <Link href={`/${locale}/progress`} className="text-muted hover:text-foreground">
+                {dict.nav.progress}
+              </Link>
               <LocaleSwitcher currentLocale={locale} />
               <ThemeToggle />
             </nav>

@@ -322,7 +322,7 @@ Complete before any content is authored.
   `feat: track misconception frequency`
 - [x] Overlay progress on the roadmap
   `feat: show progress on roadmap`
-- [ ] Add export progress to a copyable code
+- [x] Add export progress to a copyable code
   `feat: add progress export`
 - [ ] Add import progress with validation
   `feat: add progress import`
