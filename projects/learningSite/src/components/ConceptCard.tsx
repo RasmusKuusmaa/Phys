@@ -1,7 +1,22 @@
+"use client";
+
 import Link from "next/link";
 import type { Concept } from "@/schema";
 import type { Locale } from "@/i18n/locales";
 import { LevelBadge } from "./LevelBadge";
+import { useProgress } from "@/lib/progress/useProgress";
+import { getConceptStatus } from "@/lib/progress/store";
+import type { ConceptStatus } from "@/lib/progress/schema";
+
+const STATUS_LABELS: Record<Exclude<ConceptStatus, "unseen">, string> = {
+  learning: "Learning",
+  confident: "Confident",
+};
+
+const STATUS_CLASSES: Record<Exclude<ConceptStatus, "unseen">, string> = {
+  learning: "bg-amber-500",
+  confident: "bg-emerald-600",
+};
 
 /** Shared with the concept detail page (Phase 8), which reuses it for the same prerequisite/unlocks lists outside a card. */
 export function ConceptLinkList({
@@ -29,7 +44,7 @@ export function ConceptLinkList({
   );
 }
 
-/** Used on the roadmap (Phase 7) and in search results (Phase 9's formula index reuses the same card shape for consistency). */
+/** Used on the roadmap (Phase 7). */
 export function ConceptCard({
   concept,
   locale,
@@ -46,12 +61,22 @@ export function ConceptCard({
   /** The reverse edge — concepts that list this one as a prerequisite. */
   unlocks?: Concept[];
 }) {
+  const progress = useProgress();
+  const status = progress ? getConceptStatus(progress, concept.id) : "unseen";
+
   return (
     <div className="rounded-lg border border-border p-4 hover:border-accent">
       <Link href={href ?? `/${locale}/concepts/${concept.id}`} className="block">
         <div className="flex items-center gap-2">
           <LevelBadge level={concept.level} />
           <h3 className="font-semibold">{concept.title[locale]}</h3>
+          {status !== "unseen" && (
+            <span
+              className={`ml-auto inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium text-white ${STATUS_CLASSES[status]}`}
+            >
+              {STATUS_LABELS[status]}
+            </span>
+          )}
         </div>
         <p className="mt-2 text-sm text-muted">{concept.summary[locale]}</p>
       </Link>

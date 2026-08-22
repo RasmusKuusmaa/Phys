@@ -320,7 +320,7 @@ Complete before any content is authored.
   `feat: derive status from practice results`
 - [x] Store per-misconception hit counts for targeted review
   `feat: track misconception frequency`
-- [ ] Overlay progress on the roadmap
+- [x] Overlay progress on the roadmap
   `feat: show progress on roadmap`
 - [ ] Add export progress to a copyable code
   `feat: add progress export`
