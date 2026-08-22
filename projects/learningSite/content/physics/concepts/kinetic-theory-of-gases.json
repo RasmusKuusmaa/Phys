@@ -1,0 +1,22 @@
+{
+  "id": "kinetic-theory-of-gases",
+  "subject": "physics",
+  "level": "L2",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Kinetic theory of gases",
+    "et": "Gaaside kineetiline teooria",
+    "sourceHash": "e38001938c00333e",
+    "stale": false
+  },
+  "summary": {
+    "en": "A gas's temperature is a measure of the average kinetic energy of its particles, which move randomly and collide elastically with each other and the container walls.",
+    "et": "Gaasi temperatuur näitab selle osakeste keskmist kineetilist energiat; osakesed liiguvad juhuslikult ning põrkuvad elastselt üksteise ja anuma seintega.",
+    "sourceHash": "fdea7013a1ececfd",
+    "stale": false
+  },
+  "prerequisites": [
+    "temperature-and-heat",
+    "conservation-of-energy"
+  ]
+}

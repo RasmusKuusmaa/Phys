@@ -1,0 +1,21 @@
+{
+  "id": "ideal-gas-law",
+  "subject": "physics",
+  "level": "L2",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Ideal gas law",
+    "et": "Ideaalgaasi olekuvõrrand",
+    "sourceHash": "eb73ab76629afd75",
+    "stale": false
+  },
+  "summary": {
+    "en": "For an ideal gas, pressure, volume, temperature and the amount of substance are linked by a single equation: pV equals nRT.",
+    "et": "Ideaalse gaasi puhul on rõhk, ruumala, temperatuur ja aine hulk seotud ühe võrrandiga: pV võrdub nRT-ga.",
+    "sourceHash": "7381a67a23494cfb",
+    "stale": false
+  },
+  "prerequisites": [
+    "kinetic-theory-of-gases"
+  ]
+}

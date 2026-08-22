@@ -1,0 +1,22 @@
+{
+  "id": "laws-of-thermodynamics",
+  "subject": "physics",
+  "level": "L3",
+  "module": "thermodynamics",
+  "title": {
+    "en": "The laws of thermodynamics",
+    "et": "Termodünaamika seadused",
+    "sourceHash": "25699cc8ebb53a20",
+    "stale": false
+  },
+  "summary": {
+    "en": "The first law of thermodynamics says energy is conserved: the change in a system's internal energy equals the heat added minus the work done by it.",
+    "et": "Termodünaamika esimene seadus ütleb, et energia jääb alles: süsteemi siseenergia muutus võrdub lisatud soojuse ja süsteemi tehtud töö vahega.",
+    "sourceHash": "8f4cbb7c7de7ffae",
+    "stale": false
+  },
+  "prerequisites": [
+    "ideal-gas-law",
+    "conservation-of-energy"
+  ]
+}

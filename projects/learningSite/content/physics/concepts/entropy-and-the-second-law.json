@@ -1,0 +1,21 @@
+{
+  "id": "entropy-and-the-second-law",
+  "subject": "physics",
+  "level": "L3",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Entropy and the second law",
+    "et": "Entroopia ja teine seadus",
+    "sourceHash": "a8ab8a44d652c65e",
+    "stale": false
+  },
+  "summary": {
+    "en": "The second law of thermodynamics says the entropy of an isolated system never decreases, which is why heat flows from hot to cold and not the other way round.",
+    "et": "Termodünaamika teine seadus ütleb, et isoleeritud süsteemi entroopia ei vähene kunagi, mistõttu voolab soojus soojemalt kehalt külmemale, mitte vastupidi.",
+    "sourceHash": "3d59b04d568cc94d",
+    "stale": false
+  },
+  "prerequisites": [
+    "laws-of-thermodynamics"
+  ]
+}

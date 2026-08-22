@@ -1,0 +1,22 @@
+{
+  "id": "specific-heat-capacity",
+  "subject": "physics",
+  "level": "L1",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Specific heat capacity",
+    "et": "Erisoojus",
+    "sourceHash": "672caffb5c26ff39",
+    "stale": false
+  },
+  "summary": {
+    "en": "Specific heat capacity is the energy needed to raise the temperature of one kilogram of a substance by one degree, and it differs widely between materials.",
+    "et": "Erisoojus on energia, mis on vaja ühe kilogrammi aine temperatuuri tõstmiseks ühe kraadi võrra, ning see erineb materjaliti suuresti.",
+    "sourceHash": "c3bfc8fe3adf84a8",
+    "stale": false
+  },
+  "prerequisites": [
+    "temperature-and-heat",
+    "work-and-energy"
+  ]
+}

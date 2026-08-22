@@ -1,0 +1,21 @@
+{
+  "id": "temperature-and-heat",
+  "subject": "physics",
+  "level": "L0",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Temperature and heat",
+    "et": "Temperatuur ja soojus",
+    "sourceHash": "162729cbdad4a6e8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Temperature measures how hot or cold something is; heat is energy that flows between objects because they are at different temperatures.",
+    "et": "Temperatuur näitab, kui soe või külm miski on; soojus on energia, mis liigub kehade vahel, sest need on erineva temperatuuriga.",
+    "sourceHash": "33a44bd3c0be6b5b",
+    "stale": false
+  },
+  "prerequisites": [
+    "physical-quantities-and-units"
+  ]
+}

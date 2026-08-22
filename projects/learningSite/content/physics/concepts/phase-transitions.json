@@ -1,0 +1,21 @@
+{
+  "id": "phase-transitions",
+  "subject": "physics",
+  "level": "L1",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Phase transitions",
+    "et": "Faasisiirded",
+    "sourceHash": "cf7a2ed0600c1001",
+    "stale": false
+  },
+  "summary": {
+    "en": "During a phase transition such as melting or boiling, the energy added goes into breaking bonds between particles rather than raising the temperature, which stays constant until the transition is complete.",
+    "et": "Faasisiirde ajal, näiteks sulamisel või keemisel, kulub lisatav energia osakestevaheliste sidemete lõhkumisele, mitte temperatuuri tõstmisele, mis jääb muutumatuks kuni siirde lõppemiseni.",
+    "sourceHash": "f529e6e390d67bad",
+    "stale": false
+  },
+  "prerequisites": [
+    "specific-heat-capacity"
+  ]
+}
