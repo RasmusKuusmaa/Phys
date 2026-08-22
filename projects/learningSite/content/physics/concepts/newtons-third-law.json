@@ -1,0 +1,21 @@
+{
+  "id": "newtons-third-law",
+  "subject": "physics",
+  "level": "L1",
+  "module": "mechanics",
+  "title": {
+    "en": "Newton's third law",
+    "et": "Newtoni kolmas seadus",
+    "sourceHash": "98626287a2fd8704",
+    "stale": false
+  },
+  "summary": {
+    "en": "Whenever one object exerts a force on a second object, the second exerts an equal and opposite force back on the first.",
+    "et": "Kui üks keha mõjutab jõuga teist keha, mõjutab teine keha esimest võrdse ja vastassuunalise jõuga.",
+    "sourceHash": "aa403a2d1d08bb0d",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtons-first-law"
+  ]
+}

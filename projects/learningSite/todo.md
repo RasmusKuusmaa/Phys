@@ -337,7 +337,7 @@ Author both locales in the same pass, never translating in a batch at the end.
 
 - [x] Author measurement and uncertainty across all levels
   `content: add measurement and uncertainty track`
-- [ ] Author mechanics concepts L0 through L3
+- [x] Author mechanics concepts L0 through L3
   `content: add mechanics concepts`
 - [ ] Author thermodynamics and kinetic theory concepts
   `content: add thermodynamics concepts`

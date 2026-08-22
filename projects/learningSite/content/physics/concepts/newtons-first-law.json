@@ -1,0 +1,21 @@
+{
+  "id": "newtons-first-law",
+  "subject": "physics",
+  "level": "L1",
+  "module": "mechanics",
+  "title": {
+    "en": "Newton's first law",
+    "et": "Newtoni esimene seadus",
+    "sourceHash": "6afe40699f0f15a6",
+    "stale": false
+  },
+  "summary": {
+    "en": "An object stays at rest or keeps moving at constant velocity unless a net force acts on it — this resistance to a change in motion is inertia.",
+    "et": "Keha püsib paigal või liigub ühtlaselt sirgjooneliselt, kuni sellele ei mõju resultantjõud — seda liikumise muutumise vastupanu nimetatakse inertsiks.",
+    "sourceHash": "5747e4a5f4c0bfab",
+    "stale": false
+  },
+  "prerequisites": [
+    "displacement-velocity-acceleration"
+  ]
+}

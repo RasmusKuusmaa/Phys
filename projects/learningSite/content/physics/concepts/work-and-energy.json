@@ -1,0 +1,21 @@
+{
+  "id": "work-and-energy",
+  "subject": "physics",
+  "level": "L1",
+  "module": "mechanics",
+  "title": {
+    "en": "Work and energy",
+    "et": "Töö ja energia",
+    "sourceHash": "ce9440b17d6e73fc",
+    "stale": false
+  },
+  "summary": {
+    "en": "Work is done when a force moves an object through a distance, and it transfers energy from one form or object to another.",
+    "et": "Tööd tehakse, kui jõud liigutab keha mööda teatud vahemaad, ning see kannab energiat ühest vormist või kehast teise.",
+    "sourceHash": "4b17439c26ec4ae1",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtons-second-law"
+  ]
+}

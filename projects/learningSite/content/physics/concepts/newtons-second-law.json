@@ -15,5 +15,8 @@
     "sourceHash": "3e8777a8db05ae96",
     "stale": false
   },
-  "prerequisites": []
+  "prerequisites": [
+    "newtons-first-law",
+    "displacement-velocity-acceleration"
+  ]
 }

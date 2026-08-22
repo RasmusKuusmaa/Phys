@@ -1,0 +1,22 @@
+{
+  "id": "newtonian-gravitation",
+  "subject": "physics",
+  "level": "L3",
+  "module": "mechanics",
+  "title": {
+    "en": "Newtonian gravitation",
+    "et": "Newtoni gravitatsiooniseadus",
+    "sourceHash": "157550fdba26cd93",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every pair of masses attracts each other with a force proportional to the product of their masses and inversely proportional to the square of the distance between them.",
+    "et": "Iga kahe massi vahel mõjub tõmbejõud, mis on võrdeline nende masside korrutisega ja pöördvõrdeline nendevahelise kauguse ruuduga.",
+    "sourceHash": "bb4ac4127e4076f6",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtons-second-law",
+    "conservation-of-energy"
+  ]
+}

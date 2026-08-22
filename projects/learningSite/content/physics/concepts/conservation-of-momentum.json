@@ -1,0 +1,22 @@
+{
+  "id": "conservation-of-momentum",
+  "subject": "physics",
+  "level": "L2",
+  "module": "mechanics",
+  "title": {
+    "en": "Conservation of momentum",
+    "et": "Impulsi jäävus",
+    "sourceHash": "1c7a10a79517c9c9",
+    "stale": false
+  },
+  "summary": {
+    "en": "In a system with no external forces, the total momentum before an interaction equals the total momentum after it.",
+    "et": "Süsteemis, millele ei mõju välised jõud, on koguimpulss enne vastastikmõju võrdne koguimpulsiga pärast seda.",
+    "sourceHash": "582da68541be58b0",
+    "stale": false
+  },
+  "prerequisites": [
+    "momentum-and-impulse",
+    "newtons-third-law"
+  ]
+}

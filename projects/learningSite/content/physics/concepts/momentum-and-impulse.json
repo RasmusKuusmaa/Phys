@@ -1,0 +1,21 @@
+{
+  "id": "momentum-and-impulse",
+  "subject": "physics",
+  "level": "L1",
+  "module": "mechanics",
+  "title": {
+    "en": "Momentum and impulse",
+    "et": "Impulss ja jõu impulss",
+    "sourceHash": "a12ff229cf70701f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Impulse is the product of a force and the time it acts for, and it equals the change in an object's momentum.",
+    "et": "Jõu impulss on jõu ja selle toimeaja korrutis ning see võrdub keha impulsi muutusega.",
+    "sourceHash": "68c9c1880224e765",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtons-second-law"
+  ]
+}

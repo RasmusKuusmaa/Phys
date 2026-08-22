@@ -1,0 +1,22 @@
+{
+  "id": "displacement-velocity-acceleration",
+  "subject": "physics",
+  "level": "L1",
+  "module": "mechanics",
+  "title": {
+    "en": "Displacement, velocity and acceleration",
+    "et": "Nihe, kiirus ja kiirendus",
+    "sourceHash": "19c3df111cdea1ec",
+    "stale": false
+  },
+  "summary": {
+    "en": "Displacement, velocity and acceleration are vectors: each has a direction as well as a size, unlike the distance and speed used at a lower level.",
+    "et": "Nihe, kiirus ja kiirendus on vektorid: igaühel on lisaks suurusele ka suund, erinevalt madalamal tasemel kasutatud teekonnast ja kiirusest.",
+    "sourceHash": "7eabd435916013f6",
+    "stale": false
+  },
+  "prerequisites": [
+    "speed-and-motion",
+    "scalars-and-vectors"
+  ]
+}

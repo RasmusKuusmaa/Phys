@@ -1,0 +1,21 @@
+{
+  "id": "speed-and-motion",
+  "subject": "physics",
+  "level": "L0",
+  "module": "mechanics",
+  "title": {
+    "en": "Speed and motion",
+    "et": "Kiirus ja liikumine",
+    "sourceHash": "86c55c87ecf1fac3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Speed is the distance an object covers divided by the time it takes, and it tells you nothing about the direction the object is moving.",
+    "et": "Kiirus on läbitud vahemaa jagatud selleks kulunud ajaga ning see ei ütle midagi keha liikumise suuna kohta.",
+    "sourceHash": "280956000f07c7ee",
+    "stale": false
+  },
+  "prerequisites": [
+    "physical-quantities-and-units"
+  ]
+}
