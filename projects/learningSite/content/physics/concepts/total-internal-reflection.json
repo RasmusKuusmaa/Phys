@@ -1,0 +1,21 @@
+{
+  "id": "total-internal-reflection",
+  "subject": "physics",
+  "level": "L2",
+  "module": "optics",
+  "title": {
+    "en": "Total internal reflection",
+    "et": "Täielik sisepeegeldus",
+    "sourceHash": "076d3c0395c066f4",
+    "stale": false
+  },
+  "summary": {
+    "en": "Beyond a critical angle, light travelling into a less dense material reflects entirely back rather than refracting through, which is how optical fibres trap light inside them.",
+    "et": "Kriitilisest nurgast suuremal nurgal peegeldub hõredamasse materjali suunduv valgus täielikult tagasi, selle asemel et läbi murduda, ning just see hoiab valgust optiliste kiudude sees.",
+    "sourceHash": "a3c8e58c8ae20a1c",
+    "stale": false
+  },
+  "prerequisites": [
+    "snells-law"
+  ]
+}

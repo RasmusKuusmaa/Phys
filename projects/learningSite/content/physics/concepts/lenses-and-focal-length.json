@@ -1,0 +1,21 @@
+{
+  "id": "lenses-and-focal-length",
+  "subject": "physics",
+  "level": "L1",
+  "module": "optics",
+  "title": {
+    "en": "Lenses and focal length",
+    "et": "Läätsed ja fookuskaugus",
+    "sourceHash": "279b36ae255208c1",
+    "stale": false
+  },
+  "summary": {
+    "en": "A converging lens bends parallel rays of light so that they meet at its focal point, and the focal length measures how far away that point is.",
+    "et": "Koonduv lääts murdab paralleelseid valguskiiri nii, et need koonduvad selle fookuses, ning fookuskaugus näitab, kui kaugel see punkt asub.",
+    "sourceHash": "32cd5b5f2ef0de61",
+    "stale": false
+  },
+  "prerequisites": [
+    "snells-law"
+  ]
+}

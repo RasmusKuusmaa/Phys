@@ -1,0 +1,21 @@
+{
+  "id": "snells-law",
+  "subject": "physics",
+  "level": "L1",
+  "module": "optics",
+  "title": {
+    "en": "Snell's law",
+    "et": "Snelli seadus",
+    "sourceHash": "ec34a7107ce34c92",
+    "stale": false
+  },
+  "summary": {
+    "en": "Snell's law relates the angles of incidence and refraction to the refractive indices of the two materials: a ray bends more the greater the difference between them.",
+    "et": "Snelli seadus seob langemis- ja murdumisnurga kahe materjali murdumisnäitajatega: kiir murdub seda rohkem, mida suurem on nendevaheline erinevus.",
+    "sourceHash": "18f89d78e5f473f0",
+    "stale": false
+  },
+  "prerequisites": [
+    "reflection-and-refraction"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "reflection-and-refraction",
+  "subject": "physics",
+  "level": "L0",
+  "module": "optics",
+  "title": {
+    "en": "Reflection and refraction",
+    "et": "Peegeldumine ja murdumine",
+    "sourceHash": "eee17f1da47d27fd",
+    "stale": false
+  },
+  "summary": {
+    "en": "Light reflects off a surface at the same angle it arrives, and refracts — changes direction — when it passes from one transparent material into another.",
+    "et": "Valgus peegeldub pinnalt sama nurga all, mille all see saabus, ning murdub ehk muudab suunda, kui liigub ühest läbipaistvast materjalist teise.",
+    "sourceHash": "98401633475124e3",
+    "stale": false
+  },
+  "prerequisites": [
+    "physical-quantities-and-units"
+  ]
+}

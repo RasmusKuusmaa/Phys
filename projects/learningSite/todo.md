@@ -345,7 +345,7 @@ Author both locales in the same pass, never translating in a batch at the end.
   `content: add waves and oscillations concepts`
 - [x] Author electromagnetism concepts
   `content: add electromagnetism concepts`
-- [ ] Author optics concepts
+- [x] Author optics concepts
   `content: add optics concepts`
 - [ ] Author modern physics concepts
   `content: add modern physics concepts`

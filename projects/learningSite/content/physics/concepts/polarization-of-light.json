@@ -1,0 +1,21 @@
+{
+  "id": "polarization-of-light",
+  "subject": "physics",
+  "level": "L2",
+  "module": "optics",
+  "title": {
+    "en": "Polarization of light",
+    "et": "Valguse polarisatsioon",
+    "sourceHash": "596fd2c1010a9307",
+    "stale": false
+  },
+  "summary": {
+    "en": "Light is a transverse wave whose electric field can oscillate in any direction perpendicular to its motion; polarizing it restricts that oscillation to a single direction.",
+    "et": "Valgus on ristlaine, mille elektriväli võib võnkuda mis tahes suunas risti liikumissuunaga; polariseerimine piirab selle võnkumise ühele suunale.",
+    "sourceHash": "25bb44482a0934b2",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-waves"
+  ]
+}

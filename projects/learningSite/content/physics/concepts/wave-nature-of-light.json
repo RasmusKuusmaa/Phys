@@ -1,0 +1,22 @@
+{
+  "id": "wave-nature-of-light",
+  "subject": "physics",
+  "level": "L3",
+  "module": "optics",
+  "title": {
+    "en": "The wave nature of light",
+    "et": "Valguse laineloomus",
+    "sourceHash": "7b062694644f8342",
+    "stale": false
+  },
+  "summary": {
+    "en": "Passing light through two closely spaced slits produces an interference pattern of bright and dark fringes, direct evidence that light behaves as a wave.",
+    "et": "Valguse läbimine kahest lähestikku asuvast pilust tekitab interferentsimustri heledatest ja tumedatest triipudest, mis on otsene tõend, et valgus käitub lainena.",
+    "sourceHash": "3b40720ac2bee302",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-waves",
+    "interference-and-diffraction"
+  ]
+}
