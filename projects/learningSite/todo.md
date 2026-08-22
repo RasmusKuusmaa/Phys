@@ -324,7 +324,7 @@ Complete before any content is authored.
   `feat: show progress on roadmap`
 - [x] Add export progress to a copyable code
   `feat: add progress export`
-- [ ] Add import progress with validation
+- [x] Add import progress with validation
   `feat: add progress import`
 - [ ] Add clear progress with confirmation
   `feat: add clear progress action`

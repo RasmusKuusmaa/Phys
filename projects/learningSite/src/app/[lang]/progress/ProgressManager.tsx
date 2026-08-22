@@ -2,15 +2,34 @@
 
 import { useState } from "react";
 import { useProgress } from "@/lib/progress/useProgress";
-import { encodeProgressCode } from "@/lib/progress/code";
+import { writeProgress } from "@/lib/progress/store";
+import { encodeProgressCode, decodeProgressCode } from "@/lib/progress/code";
 
 export function ProgressManager() {
   const progress = useProgress();
   const [copied, setCopied] = useState(false);
+  const [importValue, setImportValue] = useState("");
+  const [importState, setImportState] = useState<"idle" | "error" | "success">("idle");
 
   if (progress === null) return null;
 
   const code = encodeProgressCode(progress);
+
+  function handleImportChange(value: string) {
+    setImportValue(value);
+    setImportState("idle");
+  }
+
+  function handleImport() {
+    const decoded = decodeProgressCode(importValue);
+    if (!decoded) {
+      setImportState("error");
+      return;
+    }
+    writeProgress(decoded);
+    setImportState("success");
+    setImportValue("");
+  }
 
   async function copyCode() {
     try {
@@ -45,6 +64,33 @@ export function ProgressManager() {
       >
         {copied ? "Copied" : "Copy code"}
       </button>
+
+      <h2 className="mt-10 text-xl font-semibold">Import</h2>
+      <p className="mt-2 text-sm text-muted">
+        Paste a code exported from another browser to replace your progress here with it.
+      </p>
+      <textarea
+        value={importValue}
+        onChange={(e) => handleImportChange(e.target.value)}
+        rows={3}
+        placeholder="Paste code here"
+        aria-label="Progress import code"
+        className="mt-3 w-full rounded-lg border border-border p-2 font-mono text-xs"
+      />
+      <button
+        type="button"
+        onClick={handleImport}
+        disabled={importValue.trim().length === 0}
+        className="mt-2 rounded-lg border border-border px-4 py-2 text-sm font-medium hover:border-accent disabled:cursor-not-allowed disabled:opacity-50"
+      >
+        Import
+      </button>
+      {importState === "error" && (
+        <p className="mt-2 text-sm text-red-600">
+          That code isn&rsquo;t valid — check you copied it in full.
+        </p>
+      )}
+      {importState === "success" && <p className="mt-2 text-sm text-emerald-600">Progress imported.</p>}
     </section>
   );
 }
