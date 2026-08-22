@@ -1,0 +1,54 @@
+{
+  "id": "significant-figures-item2",
+  "conceptId": "significant-figures",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A calculation multiplies a measurement with 2 significant figures by one with 4 significant figures. How many significant figures should the final answer have?",
+    "et": "Arvutuses korrutatakse omavahel mõõtmine, millel on 2 tüvinumbrit, ja mõõtmine, millel on 4 tüvinumbrit. Mitu tüvinumbrit peaks olema lõppvastuses?",
+    "sourceHash": "16e556d6f7a6490a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "4",
+        "et": "4",
+        "sourceHash": "4b227777d4dd1fc6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "significant-figures-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "2",
+        "et": "2",
+        "sourceHash": "d4735e3a265e16ee",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "6",
+        "et": "6",
+        "sourceHash": "e7f6c011776e8db7",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "3",
+        "et": "3",
+        "sourceHash": "4e07408562bedb8b",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

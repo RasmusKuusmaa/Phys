@@ -1,0 +1,10 @@
+{
+  "id": "combining-uncertainties-m2",
+  "conceptId": "combining-uncertainties",
+  "text": {
+    "en": "Uncertainties always cancel out when quantities are subtracted.",
+    "et": "Mõõtemääramatused tühistavad alati üksteist, kui suurusi lahutatakse.",
+    "sourceHash": "fe025a7e26955695",
+    "stale": false
+  }
+}

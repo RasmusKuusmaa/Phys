@@ -1,0 +1,10 @@
+{
+  "id": "scalars-and-vectors-m2",
+  "conceptId": "scalars-and-vectors",
+  "text": {
+    "en": "A speed value fully describes an object's motion, so direction never needs to be specified separately.",
+    "et": "Kiiruse arvväärtus kirjeldab keha liikumist täielikult, mistõttu suunda ei ole kunagi vaja eraldi määrata.",
+    "sourceHash": "24c7b90e8844a83d",
+    "stale": false
+  }
+}

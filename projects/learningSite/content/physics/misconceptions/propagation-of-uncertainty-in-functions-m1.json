@@ -1,0 +1,10 @@
+{
+  "id": "propagation-of-uncertainty-in-functions-m1",
+  "conceptId": "propagation-of-uncertainty-in-functions",
+  "text": {
+    "en": "For z = x^n, the absolute uncertainty in z equals n times the absolute uncertainty in x.",
+    "et": "Kui z = x^n, siis z absoluutne mõõtemääramatus võrdub n-kordse x absoluutse mõõtemääramatusega.",
+    "sourceHash": "5f27f6e43dbfd720",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "combining-uncertainties-m1",
+  "conceptId": "combining-uncertainties",
+  "text": {
+    "en": "When two measured quantities are multiplied, their absolute uncertainties are added directly.",
+    "et": "Kui kaks mõõdetud suurust korrutatakse, liidetakse nende absoluutsed mõõtemääramatused otse kokku.",
+    "sourceHash": "6b97e0b781c99322",
+    "stale": false
+  }
+}

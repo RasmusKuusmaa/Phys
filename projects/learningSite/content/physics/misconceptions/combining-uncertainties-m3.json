@@ -1,0 +1,10 @@
+{
+  "id": "combining-uncertainties-m3",
+  "conceptId": "combining-uncertainties",
+  "text": {
+    "en": "A quantity with a smaller absolute uncertainty always has a smaller relative uncertainty.",
+    "et": "Väiksema absoluutse mõõtemääramatusega suurusel on alati ka väiksem suhteline mõõtemääramatus.",
+    "sourceHash": "3b7d6240b2300f3c",
+    "stale": false
+  }
+}

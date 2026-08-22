@@ -1,0 +1,54 @@
+{
+  "id": "uncertainty-and-error-item1",
+  "conceptId": "uncertainty-and-error",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which type of error is reduced by repeating a measurement several times and averaging?",
+    "et": "Millist tüüpi viga vähendab mõõtmise korduv tegemine ja tulemuste keskmistamine?",
+    "sourceHash": "607b5d5cffb2331c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Systematic error",
+        "et": "Süstemaatiline viga",
+        "sourceHash": "ca4e1e854620bd4d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uncertainty-and-error-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Random error",
+        "et": "Juhuslik viga",
+        "sourceHash": "9dc3b76c096bd8da",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both equally",
+        "et": "Mõlemat võrdselt",
+        "sourceHash": "c0596afb98a86fa4",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Neither",
+        "et": "Kumbagi mitte",
+        "sourceHash": "9957d09c21ebc6ca",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

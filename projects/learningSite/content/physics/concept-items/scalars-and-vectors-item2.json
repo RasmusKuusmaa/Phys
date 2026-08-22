@@ -1,0 +1,54 @@
+{
+  "id": "scalars-and-vectors-item2",
+  "conceptId": "scalars-and-vectors",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two forces of 3 N and 4 N act on an object at right angles to each other. What is the magnitude of the resultant force?",
+    "et": "Kehale mõjuvad kaks jõudu, 3 N ja 4 N, mis on üksteise suhtes täisnurga all. Kui suur on resultantjõu suurus?",
+    "sourceHash": "4aabf2aa5e775edb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "7 N",
+        "et": "7 N",
+        "sourceHash": "cc2f1cbf9029bb99",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "scalars-and-vectors-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "5 N",
+        "et": "5 N",
+        "sourceHash": "df368f7593ed6775",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "1 N",
+        "et": "1 N",
+        "sourceHash": "77781843674c084c",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "12 N",
+        "et": "12 N",
+        "sourceHash": "cba7c2860fc1939d",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

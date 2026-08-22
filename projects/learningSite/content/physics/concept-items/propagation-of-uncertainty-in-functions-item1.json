@@ -1,0 +1,53 @@
+{
+  "id": "propagation-of-uncertainty-in-functions-item1",
+  "conceptId": "propagation-of-uncertainty-in-functions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "For z = x², if x has a relative uncertainty of 2%, what is the approximate relative uncertainty in z?",
+    "et": "Kui z = x² ja x suhteline mõõtemääramatus on 2%, milline on ligikaudu z suhteline mõõtemääramatus?",
+    "sourceHash": "c558182cdbb74c0e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "1%",
+        "et": "1%",
+        "sourceHash": "0b41028676848984",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "2%",
+        "et": "2%",
+        "sourceHash": "3342b7db5f17734b",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "4%",
+        "et": "4%",
+        "sourceHash": "461a6b36b3afb28b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "8%",
+        "et": "8%",
+        "sourceHash": "23ec5e7f20a2bcc3",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

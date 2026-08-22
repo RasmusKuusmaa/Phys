@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import type { Concept, ConceptItem, ErrorModel, Formula, Misconception, ProblemTemplate, TestConfig } from "@/schema";
 import type { Locale } from "@/i18n/locales";
@@ -130,7 +130,15 @@ function ResultsScreen({
   // that) — a concept holding accuracy above the weak threshold graduates
   // to "confident", otherwise "learning", overriding whatever manual
   // status (Phase 10's ConceptStatusControl) was set before this attempt.
+  // Guarded against the same `answers` reference re-running the body:
+  // recordMisconceptionHits accumulates rather than replacing, so without
+  // this guard React's dev-mode double-invoke of effects (StrictMode)
+  // double-counts every hit.
+  const recordedAnswersRef = useRef<AnswerRecord[] | null>(null);
   useEffect(() => {
+    if (recordedAnswersRef.current === answers) return;
+    recordedAnswersRef.current = answers;
+
     for (const result of computeConceptResults(answers)) {
       setConceptStatus(result.conceptId, isWeakConcept(result) ? "learning" : "confident");
     }

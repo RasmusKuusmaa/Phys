@@ -1,0 +1,54 @@
+{
+  "id": "uncertainty-and-error-item2",
+  "conceptId": "uncertainty-and-error",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A digital scale is not zeroed properly and reads 0.5 g with nothing on it. Every measurement made with it will be too high by about 0.5 g. This is an example of...",
+    "et": "Digitaalkaal ei ole korralikult nullitud ja näitab ilma koormata 0,5 g. Iga sellega tehtud mõõtmine on umbes 0,5 g võrra liiga suur. See on näide...",
+    "sourceHash": "54bef94f4289c67f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "random error",
+        "et": "juhuslikust veast",
+        "sourceHash": "7139a254c8cd981b",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "systematic error",
+        "et": "süstemaatilisest veast",
+        "sourceHash": "242385034db10490",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "uncertainty",
+        "et": "mõõtemääramatusest",
+        "sourceHash": "9019f8058b99ac31",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uncertainty-and-error-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "loss of precision",
+        "et": "täpsuse kadumisest",
+        "sourceHash": "9b35b255f88173b3",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

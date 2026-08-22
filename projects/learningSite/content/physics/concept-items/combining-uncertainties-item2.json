@@ -1,0 +1,54 @@
+{
+  "id": "combining-uncertainties-item2",
+  "conceptId": "combining-uncertainties",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A quantity is calculated by dividing one measurement by another. How should the uncertainties of the two measurements be combined to find the uncertainty in the result?",
+    "et": "Suurus arvutatakse ühe mõõtmise jagamisel teisega. Kuidas tuleks kahe mõõtmise mõõtemääramatused tulemuse mõõtemääramatuse leidmiseks kokku liita?",
+    "sourceHash": "259414291302261f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Add their absolute uncertainties",
+        "et": "Liita nende absoluutsed mõõtemääramatused",
+        "sourceHash": "ee026f93d8ed6988",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "combining-uncertainties-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Add their relative uncertainties",
+        "et": "Liita nende suhtelised mõõtemääramatused",
+        "sourceHash": "02b956fef102b785",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Subtract their absolute uncertainties",
+        "et": "Lahutada nende absoluutsed mõõtemääramatused",
+        "sourceHash": "812a4536a0b674e9",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Multiply their absolute uncertainties",
+        "et": "Korrutada nende absoluutsed mõõtemääramatused",
+        "sourceHash": "77c4045180219463",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

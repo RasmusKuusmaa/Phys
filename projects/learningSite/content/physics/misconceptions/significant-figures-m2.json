@@ -1,0 +1,10 @@
+{
+  "id": "significant-figures-m2",
+  "conceptId": "significant-figures",
+  "text": {
+    "en": "The number of significant figures in a result can exceed that of the least precise measurement used to calculate it.",
+    "et": "Tulemuse tüvinumbrite arv võib olla suurem kui selle arvutamiseks kasutatud kõige ebatäpsema mõõtmise tüvinumbrite arv.",
+    "sourceHash": "2bafd148818ecee3",
+    "stale": false
+  }
+}

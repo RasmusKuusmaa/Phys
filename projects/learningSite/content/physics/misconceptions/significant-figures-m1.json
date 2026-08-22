@@ -1,0 +1,10 @@
+{
+  "id": "significant-figures-m1",
+  "conceptId": "significant-figures",
+  "text": {
+    "en": "Trailing zeros after a decimal point are never significant.",
+    "et": "Komakohajärgsed lõpunullid ei ole kunagi tüvinumbrid.",
+    "sourceHash": "61a259123e3dd752",
+    "stale": false
+  }
+}

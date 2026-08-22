@@ -1,0 +1,54 @@
+{
+  "id": "measurement-and-precision-item2",
+  "conceptId": "measurement-and-precision",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which action improves the accuracy, not just the precision, of a measurement?",
+    "et": "Milline tegevus parandab mõõtmise õigsust, mitte ainult täpsust?",
+    "sourceHash": "79a35ba7aa173031",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Repeating the measurement many times and averaging",
+        "et": "Mõõtmise mitmekordne kordamine ja tulemuste keskmistamine",
+        "sourceHash": "d0b7b54aa1db92a2",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Correcting for a known instrument zero error",
+        "et": "Teadaoleva mõõteriista nullvea korrigeerimine",
+        "sourceHash": "74760faca0d6c9f3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Recording more decimal places",
+        "et": "Rohkemate komakohtade kirjapanek",
+        "sourceHash": "560271ad0b111634",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "measurement-and-precision-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Using the same faulty instrument again",
+        "et": "Sama vigase mõõteriista uuesti kasutamine",
+        "sourceHash": "91afbea42e2a0ae2",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

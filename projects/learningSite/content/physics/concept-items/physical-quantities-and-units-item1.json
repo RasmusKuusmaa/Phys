@@ -1,0 +1,54 @@
+{
+  "id": "physical-quantities-and-units-item1",
+  "conceptId": "physical-quantities-and-units",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of these is a complete statement of a physical quantity?",
+    "et": "Milline neist on füüsikalise suuruse täielik esitus?",
+    "sourceHash": "5cfe091217377d76",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "5",
+        "et": "5",
+        "sourceHash": "ef2d127de37b942b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "physical-quantities-and-units-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "5 metres",
+        "et": "5 meetrit",
+        "sourceHash": "dd8d4e51984685c1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "metres",
+        "et": "meetrit",
+        "sourceHash": "8c20618624aa37d7",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "five",
+        "et": "viis",
+        "sourceHash": "222b0bd51fcef7e6",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "measurement-and-precision-m2",
+  "conceptId": "measurement-and-precision",
+  "text": {
+    "en": "Recording more decimal places always makes a measurement more accurate.",
+    "et": "Rohkemate komakohtade kirjapanek muudab mõõtmise alati õigemaks.",
+    "sourceHash": "f2dc8367bc160760",
+    "stale": false
+  }
+}

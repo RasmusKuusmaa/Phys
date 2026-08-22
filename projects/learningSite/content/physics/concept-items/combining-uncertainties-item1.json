@@ -1,0 +1,54 @@
+{
+  "id": "combining-uncertainties-item1",
+  "conceptId": "combining-uncertainties",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two lengths, 10.0 cm ± 0.1 cm and 5.0 cm ± 0.1 cm, are added together. What is the combined absolute uncertainty?",
+    "et": "Kaks pikkust, 10,0 cm ± 0,1 cm ja 5,0 cm ± 0,1 cm, liidetakse kokku. Kui suur on liitmisel saadud absoluutne mõõtemääramatus?",
+    "sourceHash": "caf6a1d2ac3e9742",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "0.05 cm",
+        "et": "0,05 cm",
+        "sourceHash": "6b04738f4b7e0ead",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "combining-uncertainties-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "0.1 cm",
+        "et": "0,1 cm",
+        "sourceHash": "6185dc004bf998e5",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "0.2 cm",
+        "et": "0,2 cm",
+        "sourceHash": "769b2523d76b456f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "0 cm",
+        "et": "0 cm",
+        "sourceHash": "727ee57bd417d90c",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

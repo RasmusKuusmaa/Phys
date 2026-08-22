@@ -1,0 +1,10 @@
+{
+  "id": "significant-figures-m3",
+  "conceptId": "significant-figures",
+  "text": {
+    "en": "Rounding should be done after every intermediate step in a calculation.",
+    "et": "Ümardama peaks pärast iga arvutuse vaheetappi.",
+    "sourceHash": "b8d3e3ff028a8998",
+    "stale": false
+  }
+}

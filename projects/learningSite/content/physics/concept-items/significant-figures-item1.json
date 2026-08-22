@@ -1,0 +1,54 @@
+{
+  "id": "significant-figures-item1",
+  "conceptId": "significant-figures",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How many significant figures does 0.00420 have?",
+    "et": "Mitu tüvinumbrit on arvul 0,00420?",
+    "sourceHash": "68bb22c0aba0ee3e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "2",
+        "et": "2",
+        "sourceHash": "d4735e3a265e16ee",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "3",
+        "et": "3",
+        "sourceHash": "4e07408562bedb8b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "5",
+        "et": "5",
+        "sourceHash": "ef2d127de37b942b",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "6",
+        "et": "6",
+        "sourceHash": "e7f6c011776e8db7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "significant-figures-m1"
+    }
+  ]
+}

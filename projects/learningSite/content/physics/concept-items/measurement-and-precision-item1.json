@@ -1,0 +1,54 @@
+{
+  "id": "measurement-and-precision-item1",
+  "conceptId": "measurement-and-precision",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A set of repeated measurements cluster tightly together but are far from the accepted true value. This measurement is...",
+    "et": "Korduvmõõtmiste tulemused on üksteisele väga lähedal, kuid kaugel tunnustatud tõelisest väärtusest. See mõõtmine on...",
+    "sourceHash": "07c7c782118a48b0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "precise but not accurate",
+        "et": "täpne, kuid mitte õige",
+        "sourceHash": "f1a116965ca63487",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "accurate but not precise",
+        "et": "õige, kuid mitte täpne",
+        "sourceHash": "a68bf4eec6697eb2",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "both accurate and precise",
+        "et": "nii õige kui ka täpne",
+        "sourceHash": "28ca91c35e9d7b6f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "measurement-and-precision-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "neither accurate nor precise",
+        "et": "ei ole õige ega täpne",
+        "sourceHash": "e3876d013953c072",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

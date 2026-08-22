@@ -1,0 +1,53 @@
+{
+  "id": "scalars-and-vectors-item1",
+  "conceptId": "scalars-and-vectors",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of the following is a vector quantity?",
+    "et": "Milline järgnevatest on vektorsuurus?",
+    "sourceHash": "b3661723b0ab950d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Mass",
+        "et": "Mass",
+        "sourceHash": "10a0c5f853c3da31",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Displacement",
+        "et": "Nihe",
+        "sourceHash": "f348fb4839ffa800",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Temperature",
+        "et": "Temperatuur",
+        "sourceHash": "b958ce8b871ab36b",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Energy",
+        "et": "Energia",
+        "sourceHash": "f2fcd3f7dccadd19",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

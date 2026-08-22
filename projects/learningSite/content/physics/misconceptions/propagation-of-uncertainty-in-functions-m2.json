@@ -1,0 +1,10 @@
+{
+  "id": "propagation-of-uncertainty-in-functions-m2",
+  "conceptId": "propagation-of-uncertainty-in-functions",
+  "text": {
+    "en": "The general uncertainty propagation formula only applies to linear functions.",
+    "et": "Üldine mõõtemääramatuse levimise valem kehtib ainult lineaarsete funktsioonide korral.",
+    "sourceHash": "a2ed9c1e7e1f8729",
+    "stale": false
+  }
+}

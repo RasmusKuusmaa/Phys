@@ -1,0 +1,10 @@
+{
+  "id": "propagation-of-uncertainty-in-functions-m3",
+  "conceptId": "propagation-of-uncertainty-in-functions",
+  "text": {
+    "en": "Rounding intermediate uncertainty values does not affect the final reported uncertainty.",
+    "et": "Vaheväärtuste mõõtemääramatuste ümardamine ei mõjuta lõplikult esitatud mõõtemääramatust.",
+    "sourceHash": "35308a8aede72192",
+    "stale": false
+  }
+}
