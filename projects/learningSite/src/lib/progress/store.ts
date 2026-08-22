@@ -32,3 +32,14 @@ export function setConceptStatus(conceptId: string, status: ConceptStatus): void
     conceptStatus: { ...progress.conceptStatus, [conceptId]: status },
   });
 }
+
+/** Adds to the running total per misconception (not a replace) — this is cumulative history across every practice session, not just the latest one. */
+export function recordMisconceptionHits(counts: { misconceptionId: string; count: number }[]): void {
+  if (counts.length === 0) return;
+  const progress = readProgress();
+  const misconceptionHits = { ...progress.misconceptionHits };
+  for (const { misconceptionId, count } of counts) {
+    misconceptionHits[misconceptionId] = (misconceptionHits[misconceptionId] ?? 0) + count;
+  }
+  writeProgress({ ...progress, misconceptionHits });
+}

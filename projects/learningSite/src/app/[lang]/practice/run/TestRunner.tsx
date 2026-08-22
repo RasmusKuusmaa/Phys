@@ -12,7 +12,7 @@ import { computeConceptResults, computeMisconceptionCounts, isWeakConcept } from
 import { formatWorkedSolution } from "@/lib/formula/workedSolution";
 import { getUnit } from "@/lib/units/registry";
 import { FormulaDisplay } from "@/components/FormulaDisplay";
-import { setConceptStatus } from "@/lib/progress/store";
+import { setConceptStatus, recordMisconceptionHits } from "@/lib/progress/store";
 
 export function TestRunner({
   locale,
@@ -134,6 +134,7 @@ function ResultsScreen({
     for (const result of computeConceptResults(answers)) {
       setConceptStatus(result.conceptId, isWeakConcept(result) ? "learning" : "confident");
     }
+    recordMisconceptionHits(computeMisconceptionCounts(answers));
   }, [answers]);
 
   return (

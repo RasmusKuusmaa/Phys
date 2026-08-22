@@ -318,7 +318,7 @@ Complete before any content is authored.
   `feat: add manual status control`
 - [x] Update status automatically from test results
   `feat: derive status from practice results`
-- [ ] Store per-misconception hit counts for targeted review
+- [x] Store per-misconception hit counts for targeted review
   `feat: track misconception frequency`
 - [ ] Overlay progress on the roadmap
   `feat: show progress on roadmap`
