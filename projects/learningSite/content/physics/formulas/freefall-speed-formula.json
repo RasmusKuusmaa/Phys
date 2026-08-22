@@ -1,0 +1,35 @@
+{
+  "id": "freefall-speed-formula",
+  "conceptId": "conservation-of-energy",
+  "latex": "v = \\sqrt{2gh}",
+  "symbols": [
+    {
+      "symbol": "v",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "h",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "v",
+    "h"
+  ],
+  "expressions": {
+    "v": "sqrt(2*9.8*h)",
+    "h": "(v^2)/(2*9.8)"
+  }
+}

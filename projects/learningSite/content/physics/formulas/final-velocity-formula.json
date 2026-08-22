@@ -1,0 +1,59 @@
+{
+  "id": "final-velocity-formula",
+  "conceptId": "displacement-velocity-acceleration",
+  "latex": "v = u + at",
+  "symbols": [
+    {
+      "symbol": "v",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "u",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "a",
+      "name": {
+        "en": "acceleration",
+        "et": "kiirendus",
+        "sourceHash": "8da078cc2a03f56a",
+        "stale": false
+      },
+      "unit": "m/s^2"
+    },
+    {
+      "symbol": "t",
+      "name": {
+        "en": "time",
+        "et": "aeg",
+        "sourceHash": "336074805fc85398",
+        "stale": false
+      },
+      "unit": "s"
+    }
+  ],
+  "solveFor": [
+    "v",
+    "u",
+    "a",
+    "t"
+  ],
+  "expressions": {
+    "v": "u + a*t",
+    "u": "v - a*t",
+    "a": "(v-u)/t",
+    "t": "(v-u)/a"
+  }
+}

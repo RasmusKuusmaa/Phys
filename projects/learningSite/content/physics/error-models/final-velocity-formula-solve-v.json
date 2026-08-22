@@ -1,0 +1,37 @@
+{
+  "id": "final-velocity-formula-solve-v",
+  "formulaId": "final-velocity-formula",
+  "solveFor": "v",
+  "mistakes": [
+    {
+      "id": "forgot-initial-velocity",
+      "description": {
+        "en": "Forgot to add the initial velocity.",
+        "et": "Unustas algkiiruse liita.",
+        "sourceHash": "4e7c3d848ae75278",
+        "stale": false
+      },
+      "expression": "a*t"
+    },
+    {
+      "id": "subtracted-instead-of-added",
+      "description": {
+        "en": "Subtracted the change in velocity instead of adding it.",
+        "et": "Lahutas kiiruse muutuse, selle asemel et liita.",
+        "sourceHash": "922be34261b78f82",
+        "stale": false
+      },
+      "expression": "u - a*t"
+    },
+    {
+      "id": "multiplied-all-three",
+      "description": {
+        "en": "Multiplied all three quantities together.",
+        "et": "Korrutas kõik kolm suurust omavahel.",
+        "sourceHash": "f25b7a4d4494edba",
+        "stale": false
+      },
+      "expression": "u*a*t"
+    }
+  ]
+}

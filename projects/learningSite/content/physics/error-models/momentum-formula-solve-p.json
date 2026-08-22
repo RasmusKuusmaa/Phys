@@ -1,0 +1,37 @@
+{
+  "id": "momentum-formula-solve-p",
+  "formulaId": "momentum-formula",
+  "solveFor": "p",
+  "mistakes": [
+    {
+      "id": "added-instead-of-multiplied",
+      "description": {
+        "en": "Added mass and velocity instead of multiplying them.",
+        "et": "Liitis massi ja kiiruse, selle asemel et korrutada.",
+        "sourceHash": "c75a16d4a1259f3b",
+        "stale": false
+      },
+      "expression": "m + v"
+    },
+    {
+      "id": "used-mass-only",
+      "description": {
+        "en": "Reported the mass as the momentum.",
+        "et": "Esitas impulsina massi väärtuse.",
+        "sourceHash": "c52c22940d20eb43",
+        "stale": false
+      },
+      "expression": "m"
+    },
+    {
+      "id": "used-velocity-only",
+      "description": {
+        "en": "Reported the velocity as the momentum.",
+        "et": "Esitas impulsina kiiruse väärtuse.",
+        "sourceHash": "52d81e20ad0658a3",
+        "stale": false
+      },
+      "expression": "v"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "speed-formula-solve-v",
+  "formulaId": "speed-formula",
+  "variables": [
+    {
+      "symbol": "d",
+      "min": 10,
+      "max": 500,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "t",
+      "min": 1,
+      "max": 60,
+      "unit": "s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "d",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "t",
+      "right": 0
+    }
+  ],
+  "solveFor": "v"
+}

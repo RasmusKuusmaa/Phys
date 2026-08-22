@@ -1,0 +1,47 @@
+{
+  "id": "momentum-formula",
+  "conceptId": "momentum-and-impulse",
+  "latex": "p = mv",
+  "symbols": [
+    {
+      "symbol": "p",
+      "name": {
+        "en": "momentum",
+        "et": "impulss",
+        "sourceHash": "446be308664e1964",
+        "stale": false
+      },
+      "unit": "kg*m/s"
+    },
+    {
+      "symbol": "m",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    },
+    {
+      "symbol": "v",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    }
+  ],
+  "solveFor": [
+    "p",
+    "m",
+    "v"
+  ],
+  "expressions": {
+    "p": "m*v",
+    "m": "p/v",
+    "v": "p/m"
+  }
+}

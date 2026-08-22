@@ -1,0 +1,37 @@
+{
+  "id": "speed-formula-solve-v",
+  "formulaId": "speed-formula",
+  "solveFor": "v",
+  "mistakes": [
+    {
+      "id": "flipped-division",
+      "description": {
+        "en": "Divided time by distance instead of distance by time.",
+        "et": "Jagas aja vahemaaga, selle asemel et jagada vahemaa ajaga.",
+        "sourceHash": "f2c58df666cad1a2",
+        "stale": false
+      },
+      "expression": "t/d"
+    },
+    {
+      "id": "added-instead-of-divided",
+      "description": {
+        "en": "Added distance and time instead of dividing.",
+        "et": "Liitis vahemaa ja aja, selle asemel et jagada.",
+        "sourceHash": "2a3febcce8f93749",
+        "stale": false
+      },
+      "expression": "d + t"
+    },
+    {
+      "id": "used-distance-only",
+      "description": {
+        "en": "Reported the distance as the speed.",
+        "et": "Esitas kiirusena vahemaa väärtuse.",
+        "sourceHash": "f178dd4ed7dd03dc",
+        "stale": false
+      },
+      "expression": "d"
+    }
+  ]
+}

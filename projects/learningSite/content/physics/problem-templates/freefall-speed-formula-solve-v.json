@@ -1,0 +1,21 @@
+{
+  "id": "freefall-speed-formula-solve-v",
+  "formulaId": "freefall-speed-formula",
+  "variables": [
+    {
+      "symbol": "h",
+      "min": 1,
+      "max": 50,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "h",
+      "right": 0
+    }
+  ],
+  "solveFor": "v"
+}

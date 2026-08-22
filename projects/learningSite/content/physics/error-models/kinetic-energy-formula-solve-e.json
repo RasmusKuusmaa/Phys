@@ -1,0 +1,37 @@
+{
+  "id": "kinetic-energy-formula-solve-e",
+  "formulaId": "kinetic-energy-formula",
+  "solveFor": "E",
+  "mistakes": [
+    {
+      "id": "forgot-half",
+      "description": {
+        "en": "Forgot the factor of one half.",
+        "et": "Unustas teguri üks kaks (poole).",
+        "sourceHash": "5fc70aa8f9e4b960",
+        "stale": false
+      },
+      "expression": "m*v^2"
+    },
+    {
+      "id": "forgot-square",
+      "description": {
+        "en": "Forgot to square the velocity.",
+        "et": "Unustas kiiruse ruutu tõsta.",
+        "sourceHash": "9b7334bde745ea3c",
+        "stale": false
+      },
+      "expression": "0.5*m*v"
+    },
+    {
+      "id": "used-mass-only",
+      "description": {
+        "en": "Reported the mass as the kinetic energy.",
+        "et": "Esitas kineetilise energiana massi väärtuse.",
+        "sourceHash": "5b261216676ed7e1",
+        "stale": false
+      },
+      "expression": "m"
+    }
+  ]
+}

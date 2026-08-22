@@ -1,0 +1,47 @@
+{
+  "id": "work-formula",
+  "conceptId": "work-and-energy",
+  "latex": "W = Fd",
+  "symbols": [
+    {
+      "symbol": "W",
+      "name": {
+        "en": "work",
+        "et": "töö",
+        "sourceHash": "00e13ed7af55b276",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "F",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    },
+    {
+      "symbol": "d",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "W",
+    "F",
+    "d"
+  ],
+  "expressions": {
+    "W": "F*d",
+    "F": "W/d",
+    "d": "W/F"
+  }
+}

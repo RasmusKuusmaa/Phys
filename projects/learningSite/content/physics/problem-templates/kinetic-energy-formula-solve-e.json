@@ -1,0 +1,33 @@
+{
+  "id": "kinetic-energy-formula-solve-e",
+  "formulaId": "kinetic-energy-formula",
+  "variables": [
+    {
+      "symbol": "m",
+      "min": 1,
+      "max": 20,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "v",
+      "min": 1,
+      "max": 20,
+      "unit": "m/s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "m",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "v",
+      "right": 0
+    }
+  ],
+  "solveFor": "E"
+}

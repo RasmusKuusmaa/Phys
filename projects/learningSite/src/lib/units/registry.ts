@@ -55,6 +55,18 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ mass: 1, length: 1, time: -2 }),
     toBase: 1,
   },
+  J: {
+    symbol: "J",
+    name: { en: "joule", et: "džaul" },
+    dimension: dim({ mass: 1, length: 2, time: -2 }),
+    toBase: 1,
+  },
+  "kg*m/s": {
+    symbol: "kg*m/s",
+    name: { en: "kilogram metre per second", et: "kilogramm meeter sekundis" },
+    dimension: dim({ mass: 1, length: 1, time: -1 }),
+    toBase: 1,
+  },
 };
 
 export function getUnit(symbol: string): UnitDefinition {

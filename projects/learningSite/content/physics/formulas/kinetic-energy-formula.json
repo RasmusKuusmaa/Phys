@@ -1,0 +1,47 @@
+{
+  "id": "kinetic-energy-formula",
+  "conceptId": "work-and-energy",
+  "latex": "E_k = \\frac{1}{2}mv^2",
+  "symbols": [
+    {
+      "symbol": "E",
+      "name": {
+        "en": "kinetic energy",
+        "et": "kineetiline energia",
+        "sourceHash": "a055e89869bd4246",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "m",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    },
+    {
+      "symbol": "v",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    }
+  ],
+  "solveFor": [
+    "E",
+    "m",
+    "v"
+  ],
+  "expressions": {
+    "E": "0.5*m*v^2",
+    "m": "2*E/(v^2)",
+    "v": "sqrt(2*E/m)"
+  }
+}

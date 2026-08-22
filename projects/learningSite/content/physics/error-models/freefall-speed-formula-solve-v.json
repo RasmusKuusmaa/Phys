@@ -1,0 +1,37 @@
+{
+  "id": "freefall-speed-formula-solve-v",
+  "formulaId": "freefall-speed-formula",
+  "solveFor": "v",
+  "mistakes": [
+    {
+      "id": "forgot-sqrt",
+      "description": {
+        "en": "Forgot to take the square root.",
+        "et": "Unustas ruutjuure võtmise.",
+        "sourceHash": "a78bc5b138f60614",
+        "stale": false
+      },
+      "expression": "2*9.8*h"
+    },
+    {
+      "id": "forgot-factor-of-two",
+      "description": {
+        "en": "Forgot the factor of two under the square root.",
+        "et": "Unustas ruutjuure all oleva teguri kaks.",
+        "sourceHash": "4779f40045e4e66d",
+        "stale": false
+      },
+      "expression": "sqrt(9.8*h)"
+    },
+    {
+      "id": "used-height-only",
+      "description": {
+        "en": "Reported the height as the speed.",
+        "et": "Esitas kiirusena kõrguse väärtuse.",
+        "sourceHash": "3383eacb8de9bc95",
+        "stale": false
+      },
+      "expression": "h"
+    }
+  ]
+}

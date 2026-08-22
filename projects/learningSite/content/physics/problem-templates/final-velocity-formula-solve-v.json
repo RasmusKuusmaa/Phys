@@ -1,0 +1,45 @@
+{
+  "id": "final-velocity-formula-solve-v",
+  "formulaId": "final-velocity-formula",
+  "variables": [
+    {
+      "symbol": "u",
+      "min": 0,
+      "max": 20,
+      "unit": "m/s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "a",
+      "min": 1,
+      "max": 5,
+      "unit": "m/s^2",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "t",
+      "min": 1,
+      "max": 10,
+      "unit": "s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gte",
+      "left": "u",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "a",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "t",
+      "right": 0
+    }
+  ],
+  "solveFor": "v"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "speed-formula",
+  "conceptId": "speed-and-motion",
+  "latex": "v = \\frac{d}{t}",
+  "symbols": [
+    {
+      "symbol": "v",
+      "name": {
+        "en": "speed",
+        "et": "kiirus",
+        "sourceHash": "bbccb9c002d5ed59",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "d",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "t",
+      "name": {
+        "en": "time",
+        "et": "aeg",
+        "sourceHash": "336074805fc85398",
+        "stale": false
+      },
+      "unit": "s"
+    }
+  ],
+  "solveFor": [
+    "v",
+    "d",
+    "t"
+  ],
+  "expressions": {
+    "v": "d/t",
+    "d": "v*t",
+    "t": "d/v"
+  }
+}

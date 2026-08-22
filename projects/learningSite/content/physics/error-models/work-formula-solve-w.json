@@ -1,0 +1,37 @@
+{
+  "id": "work-formula-solve-w",
+  "formulaId": "work-formula",
+  "solveFor": "W",
+  "mistakes": [
+    {
+      "id": "added-instead-of-multiplied",
+      "description": {
+        "en": "Added force and distance instead of multiplying them.",
+        "et": "Liitis jõu ja vahemaa, selle asemel et korrutada.",
+        "sourceHash": "df0f35648d5e0f53",
+        "stale": false
+      },
+      "expression": "F + d"
+    },
+    {
+      "id": "used-force-only",
+      "description": {
+        "en": "Reported the force as the work done.",
+        "et": "Esitas tööna jõu väärtuse.",
+        "sourceHash": "a6a5380a8c92e9e2",
+        "stale": false
+      },
+      "expression": "F"
+    },
+    {
+      "id": "used-distance-only",
+      "description": {
+        "en": "Reported the distance as the work done.",
+        "et": "Esitas tööna vahemaa väärtuse.",
+        "sourceHash": "25a2915cfe229159",
+        "stale": false
+      },
+      "expression": "d"
+    }
+  ]
+}

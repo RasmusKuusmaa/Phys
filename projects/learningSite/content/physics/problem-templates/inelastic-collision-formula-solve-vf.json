@@ -1,0 +1,57 @@
+{
+  "id": "inelastic-collision-formula-solve-vf",
+  "formulaId": "inelastic-collision-formula",
+  "variables": [
+    {
+      "symbol": "m1",
+      "min": 1,
+      "max": 10,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "v1",
+      "min": 1,
+      "max": 20,
+      "unit": "m/s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "m2",
+      "min": 1,
+      "max": 10,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "v2",
+      "min": 1,
+      "max": 20,
+      "unit": "m/s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "m1",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "v1",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "m2",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "v2",
+      "right": 0
+    }
+  ],
+  "solveFor": "vf"
+}

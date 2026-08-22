@@ -1,0 +1,37 @@
+{
+  "id": "inelastic-collision-formula-solve-vf",
+  "formulaId": "inelastic-collision-formula",
+  "solveFor": "vf",
+  "mistakes": [
+    {
+      "id": "forgot-total-mass-denominator",
+      "description": {
+        "en": "Forgot to divide by the total mass.",
+        "et": "Unustas kogumassiga jagamise.",
+        "sourceHash": "19578d60fe096ca9",
+        "stale": false
+      },
+      "expression": "m1*v1 + m2*v2"
+    },
+    {
+      "id": "used-only-first-body",
+      "description": {
+        "en": "Reported the first object's velocity as the final velocity.",
+        "et": "Esitas lõppkiirusena esimese keha kiiruse.",
+        "sourceHash": "48a67dfbf4ea502f",
+        "stale": false
+      },
+      "expression": "v1"
+    },
+    {
+      "id": "averaged-velocities-only",
+      "description": {
+        "en": "Averaged the two velocities without weighting by mass.",
+        "et": "Keskmistas kaks kiirust ilma massiga kaalumata.",
+        "sourceHash": "c07e576bec6caf60",
+        "stale": false
+      },
+      "expression": "(v1+v2)/2"
+    }
+  ]
+}
