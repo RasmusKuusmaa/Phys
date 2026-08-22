@@ -1,0 +1,10 @@
+{
+  "id": "ideal-gas-law-m3",
+  "conceptId": "ideal-gas-law",
+  "text": {
+    "en": "Heating a gas at constant volume decreases its pressure.",
+    "et": "Gaasi kuumutamine konstantsel ruumalal vähendab selle rõhku.",
+    "sourceHash": "5d0ec488be67a6cb",
+    "stale": false
+  }
+}

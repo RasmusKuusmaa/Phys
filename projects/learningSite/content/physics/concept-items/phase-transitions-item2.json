@@ -1,0 +1,54 @@
+{
+  "id": "phase-transitions-item2",
+  "conceptId": "phase-transitions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "During melting, the energy added to a substance goes into...",
+    "et": "Sulamise ajal ainele lisatav energia kulub...",
+    "sourceHash": "6f6e6e00ccfd645b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "increasing the average kinetic energy of the particles",
+        "et": "osakeste keskmise kineetilise energia suurendamiseks",
+        "sourceHash": "eab0d05c44e00620",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phase-transitions-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "breaking the bonds holding the particles in a fixed structure",
+        "et": "osakesi kindlas struktuuris hoidvate sidemete lõhkumiseks",
+        "sourceHash": "69fe75b9960a4a9a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "increasing the substance's mass",
+        "et": "aine massi suurendamiseks",
+        "sourceHash": "8594367476a0f0d6",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "decreasing the substance's temperature",
+        "et": "aine temperatuuri vähendamiseks",
+        "sourceHash": "c2389efd3595e436",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

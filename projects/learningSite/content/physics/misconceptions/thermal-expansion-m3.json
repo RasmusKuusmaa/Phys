@@ -1,0 +1,10 @@
+{
+  "id": "thermal-expansion-m3",
+  "conceptId": "thermal-expansion",
+  "text": {
+    "en": "Thermal expansion means a material's mass increases when it is heated.",
+    "et": "Soojuspaisumine tähendab, et materjali mass suureneb kuumutamisel.",
+    "sourceHash": "5e70a8219e463ac0",
+    "stale": false
+  }
+}

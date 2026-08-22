@@ -1,0 +1,54 @@
+{
+  "id": "thermal-expansion-item2",
+  "conceptId": "thermal-expansion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "When a solid is heated and expands, what happens to its mass?",
+    "et": "Kui tahke aine kuumeneb ja paisub, mis juhtub selle massiga?",
+    "sourceHash": "7ffd4378e39c5d65",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It increases slightly",
+        "et": "See suureneb pisut",
+        "sourceHash": "ff60441ad82bb5a1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermal-expansion-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It stays the same",
+        "et": "See jääb samaks",
+        "sourceHash": "7bea86b7edf41d87",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It decreases slightly",
+        "et": "See väheneb pisut",
+        "sourceHash": "12270f28689c3d23",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on the material",
+        "et": "See sõltub materjalist",
+        "sourceHash": "bbfd3627789e2273",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

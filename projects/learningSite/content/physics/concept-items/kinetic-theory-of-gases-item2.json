@@ -1,0 +1,54 @@
+{
+  "id": "kinetic-theory-of-gases-item2",
+  "conceptId": "kinetic-theory-of-gases",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What causes the pressure a gas exerts on the walls of its container?",
+    "et": "Mis põhjustab gaasi rõhku, mida see avaldab oma anuma seintele?",
+    "sourceHash": "fe1749466d7caa24",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Particles pushing against each other",
+        "et": "Osakesed, mis suruvad üksteise vastu",
+        "sourceHash": "12ea10bc13cde6a9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "kinetic-theory-of-gases-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Collisions of particles with the container walls",
+        "et": "Osakeste põrked anuma seintega",
+        "sourceHash": "d76d7c9003a8ada2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The weight of the gas particles",
+        "et": "Osakestele mõjuv raskusjõud",
+        "sourceHash": "2716f3139af65032",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Chemical reactions between particles",
+        "et": "Osakestevahelised keemilised reaktsioonid",
+        "sourceHash": "e4bd562cf0f77d0d",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

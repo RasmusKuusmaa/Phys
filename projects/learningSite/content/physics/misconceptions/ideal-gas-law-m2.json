@@ -1,0 +1,10 @@
+{
+  "id": "ideal-gas-law-m2",
+  "conceptId": "ideal-gas-law",
+  "text": {
+    "en": "The ideal gas law only applies to gases at very low temperatures.",
+    "et": "Ideaalse gaasi olekuvõrrand kehtib ainult väga madalatel temperatuuridel.",
+    "sourceHash": "4df25131f8ee08c5",
+    "stale": false
+  }
+}

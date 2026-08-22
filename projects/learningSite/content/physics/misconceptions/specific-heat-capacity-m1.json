@@ -1,0 +1,10 @@
+{
+  "id": "specific-heat-capacity-m1",
+  "conceptId": "specific-heat-capacity",
+  "text": {
+    "en": "All materials need the same amount of energy to raise their temperature by the same amount.",
+    "et": "Kõik materjalid vajavad sama temperatuuritõusu saavutamiseks ühepalju energiat.",
+    "sourceHash": "97a998fd616b75aa",
+    "stale": false
+  }
+}

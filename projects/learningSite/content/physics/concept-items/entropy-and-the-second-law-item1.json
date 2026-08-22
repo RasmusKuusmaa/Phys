@@ -1,0 +1,53 @@
+{
+  "id": "entropy-and-the-second-law-item1",
+  "conceptId": "entropy-and-the-second-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Water freezes into a highly ordered ice crystal, decreasing the water's own entropy. Why does this not violate the second law of thermodynamics?",
+    "et": "Vesi külmub kõrgelt korrastatud jääkristalliks, mis vähendab vee enda entroopiat. Miks ei riku see termodünaamika teist seadust?",
+    "sourceHash": "52b82812e5a7d4a6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It does violate the second law, but only briefly",
+        "et": "See rikub teist seadust, kuid ainult lühiajaliselt",
+        "sourceHash": "67751f41607a410d",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The entropy of the surroundings increases by at least as much, so the total entropy does not decrease",
+        "et": "Ümbritseva keskkonna entroopia suureneb vähemalt sama palju, mistõttu koguentroopia ei vähene",
+        "sourceHash": "82893ac381186412",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The second law only applies to gases, not liquids",
+        "et": "Teine seadus kehtib ainult gaaside, mitte vedelike kohta",
+        "sourceHash": "07da77498e6b3200",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Freezing is not a real physical process",
+        "et": "Külmumine ei ole tegelik füüsikaline protsess",
+        "sourceHash": "e2b5390bd5fb8042",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

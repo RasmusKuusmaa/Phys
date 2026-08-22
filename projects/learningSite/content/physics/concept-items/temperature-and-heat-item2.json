@@ -1,0 +1,54 @@
+{
+  "id": "temperature-and-heat-item2",
+  "conceptId": "temperature-and-heat",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In which direction does heat naturally flow between two objects in contact?",
+    "et": "Millises suunas liigub soojus loomulikult kahe kokkupuutuva keha vahel?",
+    "sourceHash": "e6ccb3da25c919f7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "From the larger object to the smaller one",
+        "et": "Suuremalt kehalt väiksemale",
+        "sourceHash": "487457d0c3faf2a9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "temperature-and-heat-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "From the hotter object to the colder one",
+        "et": "Soojemalt kehalt külmemale",
+        "sourceHash": "125d5bf7a5e52c60",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "From the colder object to the hotter one",
+        "et": "Külmemalt kehalt soojemale",
+        "sourceHash": "dfabf51adea0cb98",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Heat does not flow between objects in contact",
+        "et": "Kokkupuutuvate kehade vahel soojus ei liigu",
+        "sourceHash": "6944c631e069c554",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

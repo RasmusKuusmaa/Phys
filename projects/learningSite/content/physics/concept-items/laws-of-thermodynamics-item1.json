@@ -1,0 +1,55 @@
+{
+  "id": "laws-of-thermodynamics-item1",
+  "conceptId": "laws-of-thermodynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "According to the first law of thermodynamics, the change in a system's internal energy equals...",
+    "et": "Termodünaamika esimese seaduse kohaselt võrdub süsteemi siseenergia muutus...",
+    "sourceHash": "93b2cd063499662c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "the heat added only",
+        "et": "ainult lisatud soojusega",
+        "sourceHash": "37e63055e63061e8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "laws-of-thermodynamics-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "the heat added minus the work done by the system",
+        "et": "lisatud soojuse ja süsteemi tehtud töö vahega",
+        "sourceHash": "8abd8540826fc141",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "the work done by the system only",
+        "et": "ainult süsteemi tehtud tööga",
+        "sourceHash": "756679c675536aad",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "laws-of-thermodynamics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "zero, since energy cannot change",
+        "et": "nulliga, sest energia ei saa muutuda",
+        "sourceHash": "96a3635e395d2d5d",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

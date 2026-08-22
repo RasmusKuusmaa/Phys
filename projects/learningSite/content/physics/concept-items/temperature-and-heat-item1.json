@@ -1,0 +1,54 @@
+{
+  "id": "temperature-and-heat-item1",
+  "conceptId": "temperature-and-heat",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A metal spoon and a wooden spoon have been sitting in the same room for hours, so they are at the same temperature. Why does the metal spoon feel colder to touch?",
+    "et": "Metallist lusikas ja puust lusikas on olnud samas toas tunde, seega on nende temperatuur sama. Miks tundub metallist lusikas puudutades külmem?",
+    "sourceHash": "157fc90703b25bf2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because it has a lower temperature than the wooden spoon",
+        "et": "Sest selle temperatuur on madalam kui puust lusikal",
+        "sourceHash": "9ffbfec489c44648",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "temperature-and-heat-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because it conducts heat away from your hand faster",
+        "et": "Sest see juhib soojust käest kiiremini ära",
+        "sourceHash": "2ac05c11f4b42222",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because metal is naturally colder than wood",
+        "et": "Sest metall on loomuomaselt puidust külmem",
+        "sourceHash": "b24de7ce2316f99c",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because wood generates its own heat",
+        "et": "Sest puit tekitab ise soojust",
+        "sourceHash": "b92f21b2178b2a97",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

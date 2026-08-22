@@ -1,0 +1,10 @@
+{
+  "id": "ideal-gas-law-m1",
+  "conceptId": "ideal-gas-law",
+  "text": {
+    "en": "If the pressure of a gas increases at constant temperature, its volume must also increase.",
+    "et": "Kui gaasi rõhk konstantsel temperatuuril suureneb, peab ka selle ruumala suurenema.",
+    "sourceHash": "b541b579940bb590",
+    "stale": false
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "ideal-gas-law-item1",
+  "conceptId": "ideal-gas-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A fixed amount of gas is kept at constant temperature. If its pressure doubles, what happens to its volume?",
+    "et": "Kindel gaasikogus hoitakse konstantsel temperatuuril. Kui selle rõhk kahekordistub, mis juhtub selle ruumalaga?",
+    "sourceHash": "bbd15b24f4d78111",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It doubles",
+        "et": "See kahekordistub",
+        "sourceHash": "67b0cb205fc3e3f1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ideal-gas-law-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It halves",
+        "et": "See poolitub",
+        "sourceHash": "f72b059a1fbc566d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stays the same",
+        "et": "See jääb samaks",
+        "sourceHash": "7bea86b7edf41d87",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It quadruples",
+        "et": "See neljakordistub",
+        "sourceHash": "1f029b40fb57e0f6",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "entropy-and-the-second-law-item2",
+  "conceptId": "entropy-and-the-second-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of the following best states the second law of thermodynamics?",
+    "et": "Milline järgnevatest väidetest esitab kõige paremini termodünaamika teise seaduse?",
+    "sourceHash": "0609f300e9d8366e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The entropy of any small part of a system can never decrease",
+        "et": "Süsteemi mis tahes väikese osa entroopia ei saa kunagi väheneda",
+        "sourceHash": "a54e3b51974213cd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "entropy-and-the-second-law-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The total entropy of an isolated system never decreases",
+        "et": "Isoleeritud süsteemi koguentroopia ei vähene kunagi",
+        "sourceHash": "da11a07763cbeb8c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Entropy and temperature always increase together",
+        "et": "Entroopia ja temperatuur kasvavad alati koos",
+        "sourceHash": "ee69f1e28a8be6b9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "entropy-and-the-second-law-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Entropy can be created or destroyed freely",
+        "et": "Entroopiat saab vabalt luua või hävitada",
+        "sourceHash": "20eebade62552f0a",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

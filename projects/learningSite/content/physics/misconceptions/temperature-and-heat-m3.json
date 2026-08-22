@@ -1,0 +1,10 @@
+{
+  "id": "temperature-and-heat-m3",
+  "conceptId": "temperature-and-heat",
+  "text": {
+    "en": "Heat always flows from a larger object to a smaller one, regardless of their temperatures.",
+    "et": "Soojus liigub alati suuremalt kehalt väiksemale, sõltumata nende temperatuurist.",
+    "sourceHash": "46ce04caffd3db5e",
+    "stale": false
+  }
+}

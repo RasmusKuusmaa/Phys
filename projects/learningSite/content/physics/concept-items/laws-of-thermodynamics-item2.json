@@ -1,0 +1,54 @@
+{
+  "id": "laws-of-thermodynamics-item2",
+  "conceptId": "laws-of-thermodynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Gas in a cylinder is compressed by a piston doing work on it, with no heat exchanged. What happens to the internal energy of the gas?",
+    "et": "Silindris olevat gaasi surutakse kokku kolvi tehtava tööga, ilma et soojust vahetataks. Mis juhtub gaasi siseenergiaga?",
+    "sourceHash": "fb87e4eb710866af",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It stays the same",
+        "et": "See jääb samaks",
+        "sourceHash": "7bea86b7edf41d87",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It increases",
+        "et": "See suureneb",
+        "sourceHash": "5a13c50eeab29a58",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It decreases",
+        "et": "See väheneb",
+        "sourceHash": "757701e49f051c90",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It becomes zero",
+        "et": "See muutub nulliks",
+        "sourceHash": "f78209b4b955f27b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "laws-of-thermodynamics-m3"
+    }
+  ]
+}

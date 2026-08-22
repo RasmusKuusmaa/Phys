@@ -1,0 +1,54 @@
+{
+  "id": "ideal-gas-law-item2",
+  "conceptId": "ideal-gas-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A gas is heated in a sealed, rigid container so its volume cannot change. What happens to its pressure?",
+    "et": "Gaasi kuumutatakse suletud jäigas anumas, mistõttu selle ruumala ei saa muutuda. Mis juhtub selle rõhuga?",
+    "sourceHash": "a3e27cbb0e9f043a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It decreases",
+        "et": "See väheneb",
+        "sourceHash": "757701e49f051c90",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ideal-gas-law-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It increases",
+        "et": "See suureneb",
+        "sourceHash": "5a13c50eeab29a58",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stays the same",
+        "et": "See jääb samaks",
+        "sourceHash": "7bea86b7edf41d87",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It becomes zero",
+        "et": "See muutub nulliks",
+        "sourceHash": "f78209b4b955f27b",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

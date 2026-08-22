@@ -1,0 +1,10 @@
+{
+  "id": "laws-of-thermodynamics-m1",
+  "conceptId": "laws-of-thermodynamics",
+  "text": {
+    "en": "Work done on a system always increases its internal energy, but heat added never does.",
+    "et": "Süsteemile tehtud töö suurendab alati selle siseenergiat, kuid lisatud soojus mitte kunagi.",
+    "sourceHash": "cc69e61781ab3c7d",
+    "stale": false
+  }
+}

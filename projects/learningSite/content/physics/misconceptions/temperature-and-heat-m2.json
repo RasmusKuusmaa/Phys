@@ -1,0 +1,10 @@
+{
+  "id": "temperature-and-heat-m2",
+  "conceptId": "temperature-and-heat",
+  "text": {
+    "en": "Two objects at the same temperature always feel equally warm or cold to the touch.",
+    "et": "Sama temperatuuriga kehad tunduvad puudutades alati võrdselt soojad või külmad.",
+    "sourceHash": "52ec960531acc292",
+    "stale": false
+  }
+}

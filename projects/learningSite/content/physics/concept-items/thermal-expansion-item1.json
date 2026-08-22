@@ -1,0 +1,54 @@
+{
+  "id": "thermal-expansion-item1",
+  "conceptId": "thermal-expansion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do engineers leave small gaps between sections of a metal bridge or railway track?",
+    "et": "Miks jätavad insenerid metallsilla või raudteerööpa lõikude vahele väikesed vahed?",
+    "sourceHash": "936a35dee25249b6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "To save on material costs",
+        "et": "Materjali kokkuhoiuks",
+        "sourceHash": "1d578bee869dfffe",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "To allow the metal to expand without buckling on hot days",
+        "et": "Et metall saaks kuumade ilmadega paisuda ilma vääramata",
+        "sourceHash": "e3e791ab750be644",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "To make the structure lighter",
+        "et": "Konstruktsiooni kergemaks muutmiseks",
+        "sourceHash": "ba423f65021c8977",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Metal does not need gaps, only wood does",
+        "et": "Metall ei vaja vahesid, ainult puit vajab",
+        "sourceHash": "71d77f3db36a2619",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermal-expansion-m2"
+    }
+  ]
+}

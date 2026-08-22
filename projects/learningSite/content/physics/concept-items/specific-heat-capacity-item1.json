@@ -1,0 +1,53 @@
+{
+  "id": "specific-heat-capacity-item1",
+  "conceptId": "specific-heat-capacity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Water has a much higher specific heat capacity than sand. On a hot sunny day, why does sand get much hotter than sea water?",
+    "et": "Vee erisoojus on palju suurem kui liiva oma. Miks muutub liiv kuumal päikesepaistelisel päeval palju kuumemaks kui meri?",
+    "sourceHash": "1129010e69c5f200",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Sand has a higher mass than water",
+        "et": "Liival on suurem mass kui veel",
+        "sourceHash": "fc486018a520ae97",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Sand needs much less energy to raise its temperature by the same amount",
+        "et": "Liiv vajab sama temperatuuritõusu saavutamiseks palju vähem energiat",
+        "sourceHash": "50b671155f47a9bc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Sand reflects all the sunlight",
+        "et": "Liiv peegeldab kogu päikesevalguse",
+        "sourceHash": "2d4abbb8c8c2551d",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Water absorbs no energy at all",
+        "et": "Vesi ei neela üldse energiat",
+        "sourceHash": "7ecbb1a344c0f40d",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

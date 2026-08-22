@@ -1,0 +1,10 @@
+{
+  "id": "thermal-expansion-m2",
+  "conceptId": "thermal-expansion",
+  "text": {
+    "en": "Thermal expansion only happens in solids, not in liquids or gases.",
+    "et": "Soojuspaisumine toimub ainult tahketes ainetes, mitte vedelikes ega gaasides.",
+    "sourceHash": "b2057ca58120c47f",
+    "stale": false
+  }
+}

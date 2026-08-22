@@ -1,0 +1,10 @@
+{
+  "id": "temperature-and-heat-m1",
+  "conceptId": "temperature-and-heat",
+  "text": {
+    "en": "Temperature and heat are the same physical quantity.",
+    "et": "Temperatuur ja soojus on sama füüsikaline suurus.",
+    "sourceHash": "0d68e36225848658",
+    "stale": false
+  }
+}

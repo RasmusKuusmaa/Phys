@@ -1,0 +1,56 @@
+{
+  "id": "specific-heat-capacity-item2",
+  "conceptId": "specific-heat-capacity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which statement about specific heat capacity is correct?",
+    "et": "Milline väide erisoojuse kohta on õige?",
+    "sourceHash": "bf05c9c171e9da55",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is the same for all materials",
+        "et": "See on kõikide materjalide jaoks sama",
+        "sourceHash": "84967843e3a21d3e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "specific-heat-capacity-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is the energy needed to raise the temperature of 1 kg of a material by 1 degree",
+        "et": "See on energia, mis on vajalik 1 kg materjali temperatuuri tõstmiseks 1 kraadi võrra",
+        "sourceHash": "ba9ed72f210e6f77",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It depends on the total mass of the sample",
+        "et": "See sõltub proovi kogumassist",
+        "sourceHash": "ce3bf000212a24bc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "specific-heat-capacity-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A high specific heat capacity means a material heats up quickly",
+        "et": "Suur erisoojus tähendab, et materjal soojeneb kiiresti",
+        "sourceHash": "3cc1e27c4792e0cb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "specific-heat-capacity-m2"
+    }
+  ]
+}

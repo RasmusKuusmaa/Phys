@@ -1,0 +1,54 @@
+{
+  "id": "kinetic-theory-of-gases-item1",
+  "conceptId": "kinetic-theory-of-gases",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "According to kinetic theory, what is assumed about the forces between particles in an ideal gas, other than during collisions?",
+    "et": "Mida eeldab kineetiline teooria ideaalgaasi osakeste vaheliste jõudude kohta, välja arvatud põrgete ajal?",
+    "sourceHash": "53cf6742d0d057b7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They are strongly attractive",
+        "et": "Need on tugevalt tõmbavad",
+        "sourceHash": "949f47fdcd45f28f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "kinetic-theory-of-gases-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are negligible",
+        "et": "Need on tühiselt väikesed",
+        "sourceHash": "25e00b2122e57668",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They are strongly repulsive",
+        "et": "Need on tugevalt tõukavad",
+        "sourceHash": "2bb0754502dbca93",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They depend on the gas's temperature",
+        "et": "Need sõltuvad gaasi temperatuurist",
+        "sourceHash": "ea8f94b6eb6a0bc5",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "thermal-expansion-m1",
+  "conceptId": "thermal-expansion",
+  "text": {
+    "en": "All materials expand by the same amount for the same temperature increase.",
+    "et": "Kõik materjalid paisuvad sama temperatuuritõusu korral ühepalju.",
+    "sourceHash": "3f941665e33f481b",
+    "stale": false
+  }
+}

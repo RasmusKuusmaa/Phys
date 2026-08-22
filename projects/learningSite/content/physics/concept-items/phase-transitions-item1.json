@@ -1,0 +1,54 @@
+{
+  "id": "phase-transitions-item1",
+  "conceptId": "phase-transitions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Ice is heated steadily at 0°C until it has fully melted into water. What happens to the temperature of the ice-water mixture during this process?",
+    "et": "Jääd kuumutatakse ühtlaselt 0°C juures, kuni see on täielikult veeks sulanud. Mis juhtub jää-vee segu temperatuuriga selle protsessi ajal?",
+    "sourceHash": "806296e641b72ead",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It rises steadily",
+        "et": "See tõuseb ühtlaselt",
+        "sourceHash": "9302ac45c8eb593a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phase-transitions-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It stays constant at 0°C",
+        "et": "See jääb konstantseks 0°C juures",
+        "sourceHash": "4d5208b8c72642c8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It falls slightly",
+        "et": "See langeb pisut",
+        "sourceHash": "ac0f1773fd11a58c",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It rises then falls",
+        "et": "See tõuseb ja seejärel langeb",
+        "sourceHash": "e9f4f9eb247d93d3",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}
