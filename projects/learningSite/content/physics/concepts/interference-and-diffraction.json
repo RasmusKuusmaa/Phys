@@ -1,0 +1,21 @@
+{
+  "id": "interference-and-diffraction",
+  "subject": "physics",
+  "level": "L2",
+  "module": "waves",
+  "title": {
+    "en": "Interference and diffraction",
+    "et": "Interferents ja difraktsioon",
+    "sourceHash": "c7efd17195117359",
+    "stale": false
+  },
+  "summary": {
+    "en": "When two waves overlap they add together point by point — interference — and a wave passing through a narrow opening spreads out into the region behind it — diffraction.",
+    "et": "Kui kaks lainet kattuvad, liidetakse need punkt-punktilt kokku — interferents — ning kitsast avast läbiv laine levib laiali selle taga olevasse alasse — difraktsioon.",
+    "sourceHash": "4be6b2d7ea56a658",
+    "stale": false
+  },
+  "prerequisites": [
+    "wave-properties"
+  ]
+}

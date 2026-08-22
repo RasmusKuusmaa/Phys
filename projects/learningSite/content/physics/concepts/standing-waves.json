@@ -1,0 +1,22 @@
+{
+  "id": "standing-waves",
+  "subject": "physics",
+  "level": "L3",
+  "module": "waves",
+  "title": {
+    "en": "Standing waves",
+    "et": "Seisulained",
+    "sourceHash": "2d2ae4bb4a2ff385",
+    "stale": false
+  },
+  "summary": {
+    "en": "A standing wave forms when two identical waves travel in opposite directions and interfere, producing fixed points of no displacement, called nodes, that never move.",
+    "et": "Seisulaine tekib, kui kaks identset lainet levivad vastassuundades ja interfereeruvad, tekitades liikumatuid nullnihkega punkte, mida nimetatakse sõlmedeks.",
+    "sourceHash": "54e043d0b78d1677",
+    "stale": false
+  },
+  "prerequisites": [
+    "interference-and-diffraction",
+    "simple-harmonic-motion"
+  ]
+}

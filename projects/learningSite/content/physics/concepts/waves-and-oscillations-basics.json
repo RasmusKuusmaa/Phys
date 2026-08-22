@@ -1,0 +1,21 @@
+{
+  "id": "waves-and-oscillations-basics",
+  "subject": "physics",
+  "level": "L0",
+  "module": "waves",
+  "title": {
+    "en": "Waves and oscillations",
+    "et": "Lained ja võnkumised",
+    "sourceHash": "dba904d7049d41b4",
+    "stale": false
+  },
+  "summary": {
+    "en": "A wave carries energy from place to place through repeating oscillations, without the medium itself travelling along with it.",
+    "et": "Laine kannab energiat ühest kohast teise korduvate võnkumiste kaudu, ilma et keskkond ise laine suunas kaasa liiguks.",
+    "sourceHash": "11c243871f3715f1",
+    "stale": false
+  },
+  "prerequisites": [
+    "physical-quantities-and-units"
+  ]
+}

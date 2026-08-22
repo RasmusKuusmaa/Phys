@@ -1,0 +1,21 @@
+{
+  "id": "resonance",
+  "subject": "physics",
+  "level": "L2",
+  "module": "waves",
+  "title": {
+    "en": "Resonance",
+    "et": "Resonants",
+    "sourceHash": "1a5d3460cc2051d3",
+    "stale": false
+  },
+  "summary": {
+    "en": "When a system is driven at its natural oscillation frequency, the amplitude of its response grows much larger than it would at any other driving frequency.",
+    "et": "Kui süsteemi sunnitakse võnkuma selle omavõnkesagedusel, kasvab vastuse amplituud palju suuremaks kui mis tahes muul sundvõnkumise sagedusel.",
+    "sourceHash": "c2b8835c54091554",
+    "stale": false
+  },
+  "prerequisites": [
+    "simple-harmonic-motion"
+  ]
+}

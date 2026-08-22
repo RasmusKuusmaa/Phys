@@ -1,0 +1,21 @@
+{
+  "id": "simple-harmonic-motion",
+  "subject": "physics",
+  "level": "L1",
+  "module": "waves",
+  "title": {
+    "en": "Simple harmonic motion",
+    "et": "Harmooniline võnkumine",
+    "sourceHash": "1b960cd3b8b22645",
+    "stale": false
+  },
+  "summary": {
+    "en": "In simple harmonic motion the restoring force is proportional to the displacement from equilibrium and always points back towards it, producing a smooth, repeating oscillation.",
+    "et": "Harmoonilise võnkumise korral on taastav jõud võrdeline nihkega tasakaaluasendist ja suunatud alati selle poole, mis tekitab sujuva korduva võnkumise.",
+    "sourceHash": "2f2284ea63d877ff",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtons-second-law"
+  ]
+}

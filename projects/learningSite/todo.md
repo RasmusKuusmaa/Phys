@@ -341,7 +341,7 @@ Author both locales in the same pass, never translating in a batch at the end.
   `content: add mechanics concepts`
 - [x] Author thermodynamics and kinetic theory concepts
   `content: add thermodynamics concepts`
-- [ ] Author waves and oscillations concepts
+- [x] Author waves and oscillations concepts
   `content: add waves and oscillations concepts`
 - [ ] Author electromagnetism concepts
   `content: add electromagnetism concepts`

@@ -1,0 +1,21 @@
+{
+  "id": "wave-properties",
+  "subject": "physics",
+  "level": "L1",
+  "module": "waves",
+  "title": {
+    "en": "Wave properties: amplitude, wavelength and frequency",
+    "et": "Laine omadused: amplituud, lainepikkus ja sagedus",
+    "sourceHash": "b7d962a43b03f507",
+    "stale": false
+  },
+  "summary": {
+    "en": "A wave's speed equals its frequency times its wavelength, so for a wave travelling at a fixed speed, a higher frequency always means a shorter wavelength.",
+    "et": "Laine kiirus võrdub selle sageduse ja lainepikkuse korrutisega, seega kindla kiirusega laine puhul tähendab suurem sagedus alati lühemat lainepikkust.",
+    "sourceHash": "2da715553f408c6f",
+    "stale": false
+  },
+  "prerequisites": [
+    "waves-and-oscillations-basics"
+  ]
+}
