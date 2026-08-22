@@ -1,0 +1,54 @@
+{
+  "id": "conservation-of-momentum-item2",
+  "conceptId": "conservation-of-momentum",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Momentum is conserved in a collision provided that...",
+    "et": "Impulss säilib põrkes tingimusel, et...",
+    "sourceHash": "b5065de581c21a5f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "the collision is elastic, with objects bouncing apart",
+        "et": "põrge on elastne ja kehad põrkuvad üksteisest eemale",
+        "sourceHash": "0ebc5b85557cd9be",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-of-momentum-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "no external force acts on the system",
+        "et": "süsteemile ei mõju ükski väline jõud",
+        "sourceHash": "5bf2e5d1f0aaea81",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "the objects have equal mass",
+        "et": "kehadel on võrdne mass",
+        "sourceHash": "ffe52d3662ab6cc1",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "the objects stick together",
+        "et": "kehad jäävad kokku",
+        "sourceHash": "51977a48fa20af81",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

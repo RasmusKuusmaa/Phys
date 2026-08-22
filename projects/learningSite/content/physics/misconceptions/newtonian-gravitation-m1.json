@@ -1,0 +1,10 @@
+{
+  "id": "newtonian-gravitation-m1",
+  "conceptId": "newtonian-gravitation",
+  "text": {
+    "en": "Doubling the distance between two masses halves the gravitational force between them.",
+    "et": "Kahe massi vahelise kauguse kahekordistamine poolitab nendevahelise gravitatsioonijõu.",
+    "sourceHash": "f35cbbbc5fcc4870",
+    "stale": false
+  }
+}

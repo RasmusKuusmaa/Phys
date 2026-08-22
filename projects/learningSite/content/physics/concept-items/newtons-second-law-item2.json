@@ -1,0 +1,54 @@
+{
+  "id": "newtons-second-law-item2",
+  "conceptId": "newtons-second-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The same force is applied to two objects, one twice as massive as the other. Compared to the lighter object, the heavier object's acceleration is...",
+    "et": "Sama jõudu rakendatakse kahele kehale, millest üks on kaks korda massiivsem kui teine. Võrreldes kergema kehaga, on raskema keha kiirendus...",
+    "sourceHash": "79463926fcd87bfd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "twice as large",
+        "et": "kaks korda suurem",
+        "sourceHash": "4dd8e1be8cea37c3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "newtons-second-law-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "half as large",
+        "et": "poole väiksem",
+        "sourceHash": "4785af897f69d195",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "the same",
+        "et": "sama",
+        "sourceHash": "fa0487f2dc91544a",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "four times as large",
+        "et": "neli korda suurem",
+        "sourceHash": "adc324b6f9c56e0a",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

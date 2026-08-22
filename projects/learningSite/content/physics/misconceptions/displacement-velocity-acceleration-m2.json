@@ -1,0 +1,10 @@
+{
+  "id": "displacement-velocity-acceleration-m2",
+  "conceptId": "displacement-velocity-acceleration",
+  "text": {
+    "en": "An object with zero velocity cannot be accelerating.",
+    "et": "Keha, mille kiirus on null, ei saa omada kiirendust.",
+    "sourceHash": "6d6aac316d7a968a",
+    "stale": false
+  }
+}

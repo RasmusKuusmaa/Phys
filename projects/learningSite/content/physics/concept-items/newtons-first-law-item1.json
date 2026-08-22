@@ -1,0 +1,54 @@
+{
+  "id": "newtons-first-law-item1",
+  "conceptId": "newtons-first-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A hockey puck slides across frictionless ice at constant velocity. What net force acts on it?",
+    "et": "Jäähoki litter libiseb üle hõõrdumiseta jää konstantse kiirusega. Milline resultantjõud sellele mõjub?",
+    "sourceHash": "74181925b1662b6c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A force equal to its weight",
+        "et": "Tema kaaluga võrdne jõud",
+        "sourceHash": "4a2e89110b21586d",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Zero net force",
+        "et": "Resultantjõud on null",
+        "sourceHash": "f69a430c50df6d03",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A constant forward force",
+        "et": "Konstantne edasisuunaline jõud",
+        "sourceHash": "26c161cc6818bd08",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "newtons-first-law-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A force that decreases over time",
+        "et": "Ajas väheneb jõud",
+        "sourceHash": "0c0c021dcf5e39ac",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

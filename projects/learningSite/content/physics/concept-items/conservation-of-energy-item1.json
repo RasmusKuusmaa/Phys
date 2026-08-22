@@ -1,0 +1,54 @@
+{
+  "id": "conservation-of-energy-item1",
+  "conceptId": "conservation-of-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A ball rolling across a rough floor gradually slows down and stops. Where did its kinetic energy go?",
+    "et": "Kareda põranda peal veerev pall aeglustub järk-järgult ja peatub. Kuhu selle kineetiline energia kadus?",
+    "sourceHash": "c9e5b8b3e6e9cfcd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It disappeared completely",
+        "et": "See kadus täielikult",
+        "sourceHash": "7cb0443bc5960b56",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-of-energy-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It was transferred to heat (thermal energy) via friction",
+        "et": "See kandus hõõrdumise kaudu soojuseks (soojusenergiaks)",
+        "sourceHash": "f57ca670120314a6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It turned into more mass",
+        "et": "See muutus lisamassiks",
+        "sourceHash": "f1c7bc9e9632515c",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It was never conserved because the ball stopped",
+        "et": "Seda ei säilinud kunagi, sest pall peatus",
+        "sourceHash": "9b7550f6e6029bbc",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "momentum-and-impulse-item2",
+  "conceptId": "momentum-and-impulse",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A rocket engine exerts a force on a rocket for 10 seconds. Which quantity does this combination of force and time directly determine?",
+    "et": "Raketimootor mõjutab raketti jõuga 10 sekundi jooksul. Millist suurust see jõu ja aja kombinatsioon otseselt määrab?",
+    "sourceHash": "6e6644eca2b4aab9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The rocket's final speed alone",
+        "et": "Ainult raketi lõppkiirust",
+        "sourceHash": "361bcc4ed5fcabb7",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The change in the rocket's momentum",
+        "et": "Raketi impulsi muutust",
+        "sourceHash": "aa89a0f1c2580038",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The rocket's mass",
+        "et": "Raketi massi",
+        "sourceHash": "0066db6629f27b71",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "momentum-and-impulse-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The rocket's acceleration alone",
+        "et": "Ainult raketi kiirendust",
+        "sourceHash": "304c5a1a14a76052",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

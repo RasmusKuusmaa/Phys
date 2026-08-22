@@ -1,0 +1,54 @@
+{
+  "id": "speed-and-motion-item1",
+  "conceptId": "speed-and-motion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A car travels 150 km in 3 hours. What is its average speed?",
+    "et": "Auto läbib 150 km 3 tunniga. Milline on selle keskmine kiirus?",
+    "sourceHash": "92bcee02376d2fc9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "450 km/h",
+        "et": "450 km/h",
+        "sourceHash": "2cc9b76c9fc0bbab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "speed-and-motion-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "50 km/h",
+        "et": "50 km/h",
+        "sourceHash": "3a546fc1821e608d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "3 km/h",
+        "et": "3 km/h",
+        "sourceHash": "dd07407a2ca11492",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "147 km/h",
+        "et": "147 km/h",
+        "sourceHash": "0231423ae19923b3",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

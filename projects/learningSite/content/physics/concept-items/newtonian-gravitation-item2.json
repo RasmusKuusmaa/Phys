@@ -1,0 +1,54 @@
+{
+  "id": "newtonian-gravitation-item2",
+  "conceptId": "newtonian-gravitation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Newton's law of universal gravitation states that the gravitational force between two masses depends on...",
+    "et": "Newtoni üldise gravitatsiooniseaduse kohaselt sõltub kahe massi vaheline gravitatsioonijõud...",
+    "sourceHash": "6d7c5a6693928671",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "their weights and the distance between them",
+        "et": "nende kaaludest ja nendevahelisest kaugusest",
+        "sourceHash": "3bc3dc88452d492f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "newtonian-gravitation-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "the product of their masses and the square of the distance between them",
+        "et": "nende masside korrutisest ja nendevahelise kauguse ruudust",
+        "sourceHash": "760fdca47b69f924",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "their masses only, not distance",
+        "et": "ainult nende massidest, mitte kaugusest",
+        "sourceHash": "229d0b4bad6beac0",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "their volumes and distance",
+        "et": "nende ruumalast ja kaugusest",
+        "sourceHash": "a6078e6124e01eb8",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

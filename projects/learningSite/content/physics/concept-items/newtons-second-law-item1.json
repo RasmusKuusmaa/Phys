@@ -1,0 +1,54 @@
+{
+  "id": "newtons-second-law-item1",
+  "conceptId": "newtons-second-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A constant net force is applied to an object. What does this force produce?",
+    "et": "Kehale rakendatakse konstantset resultantjõudu. Mida see jõud tekitab?",
+    "sourceHash": "811b342bd4cd40a8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A constant velocity",
+        "et": "Konstantse kiiruse",
+        "sourceHash": "c42bda3e7adcdc09",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "newtons-second-law-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A constant acceleration",
+        "et": "Konstantse kiirenduse",
+        "sourceHash": "8b9e2799cbd84e97",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A constantly increasing force",
+        "et": "Pidevalt kasvava jõu",
+        "sourceHash": "69cdb91644090568",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "No motion",
+        "et": "Liikumist ei teki",
+        "sourceHash": "b7b75dbd21dee631",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

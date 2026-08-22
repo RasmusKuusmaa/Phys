@@ -1,0 +1,54 @@
+{
+  "id": "conservation-of-momentum-item1",
+  "conceptId": "conservation-of-momentum",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two identical trolleys collide and stick together, moving off as one combined mass. Compared to before the collision, the total momentum of the system immediately after is...",
+    "et": "Kaks identset käru põrkuvad kokku ja jäävad kokku, liikudes edasi ühe ühise massina. Võrreldes ajaga enne põrget, on süsteemi koguimpulss kohe pärast põrget...",
+    "sourceHash": "d0366b05e8dac3a0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "smaller",
+        "et": "väiksem",
+        "sourceHash": "e823da61abfbd317",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "the same",
+        "et": "sama",
+        "sourceHash": "fa0487f2dc91544a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "larger",
+        "et": "suurem",
+        "sourceHash": "4f627c9e32f4ff3e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-of-momentum-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "zero",
+        "et": "null",
+        "sourceHash": "f9194e73f9e9459e",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "speed-and-motion-item2",
+  "conceptId": "speed-and-motion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "On a distance-time graph, what does a steeper line indicate?",
+    "et": "Mida näitab teekonna-aja graafikul järsem joon?",
+    "sourceHash": "be4ce51e5e4b3ff1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A greater distance travelled",
+        "et": "Suuremat läbitud vahemaad",
+        "sourceHash": "ff893386f5d7f5e4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "speed-and-motion-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A greater speed",
+        "et": "Suuremat kiirust",
+        "sourceHash": "2de7cb899edd23bb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A longer time taken",
+        "et": "Pikemat kulunud aega",
+        "sourceHash": "7898e91a5892b802",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The object is stationary",
+        "et": "Et keha on paigal",
+        "sourceHash": "832ec5882fba2cb3",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

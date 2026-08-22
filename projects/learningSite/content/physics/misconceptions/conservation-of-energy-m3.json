@@ -1,0 +1,10 @@
+{
+  "id": "conservation-of-energy-m3",
+  "conceptId": "conservation-of-energy",
+  "text": {
+    "en": "The total energy of a system decreases whenever energy changes from one form to another.",
+    "et": "Süsteemi koguenergia väheneb alati, kui energia muundub ühest vormist teise.",
+    "sourceHash": "7ad6e8587a6c9402",
+    "stale": false
+  }
+}

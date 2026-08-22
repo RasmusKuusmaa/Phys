@@ -1,0 +1,53 @@
+{
+  "id": "momentum-and-impulse-item1",
+  "conceptId": "momentum-and-impulse",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A small force is applied to an object for a very long time, while a large force is applied to an identical object for a very short time. If the products of force and time are equal, the two objects experience...",
+    "et": "Väikest jõudu rakendatakse kehale väga pika aja jooksul, samas kui suurt jõudu rakendatakse identsele kehale väga lühikest aega. Kui jõu ja aja korrutised on võrdsed, siis kogevad kaks keha...",
+    "sourceHash": "53fa8409f6c25baa",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "different impulses",
+        "et": "erinevat jõu impulssi",
+        "sourceHash": "a204fb36a2914e73",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "the same impulse",
+        "et": "sama jõu impulssi",
+        "sourceHash": "72e224aefaa33080",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "no impulse in either case",
+        "et": "kummalgi ei ole jõu impulssi",
+        "sourceHash": "b67c40b56026f1a4",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "impulse cannot be compared this way",
+        "et": "jõu impulssi ei saa nii võrrelda",
+        "sourceHash": "fbf2a5a87cb48e86",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

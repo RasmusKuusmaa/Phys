@@ -1,0 +1,10 @@
+{
+  "id": "newtonian-gravitation-m3",
+  "conceptId": "newtonian-gravitation",
+  "text": {
+    "en": "Gravitational force depends on an object's weight, not its mass.",
+    "et": "Gravitatsioonijõud sõltub keha kaalust, mitte selle massist.",
+    "sourceHash": "7e0660fde697912d",
+    "stale": false
+  }
+}

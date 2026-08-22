@@ -1,0 +1,54 @@
+{
+  "id": "newtonian-gravitation-item1",
+  "conceptId": "newtonian-gravitation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "If the distance between two masses is doubled, by what factor does the gravitational force between them change?",
+    "et": "Kui kahe massi vaheline kaugus kahekordistub, mitu korda muutub nendevaheline gravitatsioonijõud?",
+    "sourceHash": "7a652febf3f9dfa9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It halves",
+        "et": "See poolitub",
+        "sourceHash": "f72b059a1fbc566d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "newtonian-gravitation-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It becomes one quarter",
+        "et": "See muutub veerandiks",
+        "sourceHash": "405cbd87b828413c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stays the same",
+        "et": "See jääb samaks",
+        "sourceHash": "7bea86b7edf41d87",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doubles",
+        "et": "See kahekordistub",
+        "sourceHash": "67b0cb205fc3e3f1",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "conservation-of-momentum-m1",
+  "conceptId": "conservation-of-momentum",
+  "text": {
+    "en": "Momentum is only conserved in collisions where objects bounce apart, not when they stick together.",
+    "et": "Impulss jääb alles ainult põrgetes, kus kehad põrkuvad üksteisest eemale, mitte siis, kui need kokku jäävad.",
+    "sourceHash": "efc2589ec02683c0",
+    "stale": false
+  }
+}

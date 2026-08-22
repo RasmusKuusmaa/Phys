@@ -1,0 +1,10 @@
+{
+  "id": "speed-and-motion-m1",
+  "conceptId": "speed-and-motion",
+  "text": {
+    "en": "Speed is calculated by dividing time by distance, not distance by time.",
+    "et": "Kiirus arvutatakse aja jagamisel vahemaaga, mitte vahemaa jagamisel ajaga.",
+    "sourceHash": "90f3462e219a8950",
+    "stale": false
+  }
+}

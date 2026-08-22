@@ -1,0 +1,54 @@
+{
+  "id": "newtons-third-law-item2",
+  "conceptId": "newtons-third-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A truck collides head-on with a small car. Compared to the force the truck exerts on the car, the force the car exerts on the truck is...",
+    "et": "Veoauto põrkab otsapidi kokku väikese autoga. Võrreldes jõuga, mida veoauto avaldab autole, on jõud, mida auto avaldab veoautole...",
+    "sourceHash": "1d905889f20b004d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "much smaller",
+        "et": "palju väiksem",
+        "sourceHash": "86a634f06bb99f37",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "newtons-third-law-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "exactly equal in size",
+        "et": "täpselt sama suur",
+        "sourceHash": "07ce9ea3712023d1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "much larger",
+        "et": "palju suurem",
+        "sourceHash": "44934275b4bab1b3",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "zero",
+        "et": "null",
+        "sourceHash": "f9194e73f9e9459e",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

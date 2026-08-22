@@ -1,0 +1,54 @@
+{
+  "id": "conservation-of-energy-item2",
+  "conceptId": "conservation-of-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In an inelastic collision where two objects stick together, which of the following is true?",
+    "et": "Ebaelastses põrkes, kus kaks keha jäävad kokku, milline järgnevatest väidetest on tõene?",
+    "sourceHash": "584d1d144249f55c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Kinetic energy is conserved, just like momentum",
+        "et": "Kineetiline energia säilib, samamoodi nagu impulss",
+        "sourceHash": "74a087e300bf67ad",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-of-energy-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Momentum is conserved, but kinetic energy generally is not",
+        "et": "Impulss säilib, kuid kineetiline energia üldiselt mitte",
+        "sourceHash": "a0415164dd6303ff",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Neither momentum nor energy is conserved",
+        "et": "Ei säili ei impulss ega energia",
+        "sourceHash": "d00935b1f83f2aa9",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both mass and kinetic energy increase",
+        "et": "Nii mass kui kineetiline energia kasvavad",
+        "sourceHash": "fc2753714903a13f",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

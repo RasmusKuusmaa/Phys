@@ -1,0 +1,54 @@
+{
+  "id": "work-and-energy-item2",
+  "conceptId": "work-and-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "If an object's speed is doubled, by what factor does its kinetic energy increase?",
+    "et": "Kui keha kiirus kahekordistub, mitu korda suureneb selle kineetiline energia?",
+    "sourceHash": "e352b2fb2b2c6bb4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "2",
+        "et": "2",
+        "sourceHash": "d4735e3a265e16ee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "work-and-energy-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "4",
+        "et": "4",
+        "sourceHash": "4b227777d4dd1fc6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "8",
+        "et": "8",
+        "sourceHash": "2c624232cdd22177",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It stays the same",
+        "et": "See jääb samaks",
+        "sourceHash": "7bea86b7edf41d87",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

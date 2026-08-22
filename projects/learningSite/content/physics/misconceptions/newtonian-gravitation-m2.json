@@ -1,0 +1,10 @@
+{
+  "id": "newtonian-gravitation-m2",
+  "conceptId": "newtonian-gravitation",
+  "text": {
+    "en": "A more massive planet always exerts a stronger surface gravity than a less massive one, regardless of the planet's size.",
+    "et": "Massiivsem planeet tekitab alati tugevama pinnagravitatsiooni kui vähem massiivne planeet, olenemata planeedi suurusest.",
+    "sourceHash": "70c33ec0ac3903f7",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "newtons-second-law-m3",
+  "conceptId": "newtons-second-law",
+  "text": {
+    "en": "If the net force on an object is zero, the object must be at rest.",
+    "et": "Kui kehale mõjuv resultantjõud on null, peab keha olema paigal.",
+    "sourceHash": "d44e542b8aed1c6f",
+    "stale": false
+  }
+}

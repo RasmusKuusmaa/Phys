@@ -1,0 +1,54 @@
+{
+  "id": "work-and-energy-item1",
+  "conceptId": "work-and-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A person pushes hard against a wall but the wall does not move. How much work is done on the wall?",
+    "et": "Inimene lükkab tugevasti vastu seina, kuid sein ei liigu. Kui palju tööd tehakse seinale?",
+    "sourceHash": "8b7b91a4c14125db",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A large amount, because a large force is used",
+        "et": "Palju, sest kasutatakse suurt jõudu",
+        "sourceHash": "67f5a769bd7f4db3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "work-and-energy-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Zero",
+        "et": "Null",
+        "sourceHash": "973d0c649aa97a06",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A small amount",
+        "et": "Väike kogus",
+        "sourceHash": "823e57d7533f722e",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on how long they push",
+        "et": "See sõltub sellest, kui kaua nad lükkavad",
+        "sourceHash": "86443cfc5ee60d2f",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

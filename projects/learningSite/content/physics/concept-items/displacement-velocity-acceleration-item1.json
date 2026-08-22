@@ -1,0 +1,54 @@
+{
+  "id": "displacement-velocity-acceleration-item1",
+  "conceptId": "displacement-velocity-acceleration",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A runner jogs 400 m around a circular track and returns to the exact point where they started. What is their displacement?",
+    "et": "Jooksja jookseb 400 m ringrajal ja jõuab tagasi täpselt samasse punkti, kust ta alustas. Milline on tema nihe?",
+    "sourceHash": "ce01af336227be7f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "400 m",
+        "et": "400 m",
+        "sourceHash": "2674d5538450a65d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "displacement-velocity-acceleration-m1"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "0 m",
+        "et": "0 m",
+        "sourceHash": "5c98d804a72501cb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "200 m",
+        "et": "200 m",
+        "sourceHash": "00766a5d8d65de6d",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Cannot be determined",
+        "et": "Ei ole võimalik määrata",
+        "sourceHash": "59f0a86db00f9d17",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

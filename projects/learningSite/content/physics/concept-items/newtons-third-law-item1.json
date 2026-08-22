@@ -1,0 +1,54 @@
+{
+  "id": "newtons-third-law-item1",
+  "conceptId": "newtons-third-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A book rests on a table. The table pushes up on the book with a normal force. According to Newton's third law, what is the reaction to this force?",
+    "et": "Raamat lebab laual. Laud lükkab raamatut normaaljõuga üles. Mis on Newtoni kolmanda seaduse kohaselt selle jõu vastutoime?",
+    "sourceHash": "f104f2ea30c64f86",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The book's weight pulling it down",
+        "et": "Raamatule mõjuv raskusjõud, mis tõmbab seda allapoole",
+        "sourceHash": "682e9547a8eecd28",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The book pushing down on the table",
+        "et": "Raamat lükkab lauda allapoole",
+        "sourceHash": "620320d61741168e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The floor pushing up on the table",
+        "et": "Põrand lükkab lauda üles",
+        "sourceHash": "b033dc8a91823aed",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "There is no reaction force",
+        "et": "Vastutoimejõudu ei ole",
+        "sourceHash": "5760e86b15c55789",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "newtons-third-law-m1"
+    }
+  ]
+}

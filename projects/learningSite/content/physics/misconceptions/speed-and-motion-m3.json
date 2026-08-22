@@ -1,0 +1,10 @@
+{
+  "id": "speed-and-motion-m3",
+  "conceptId": "speed-and-motion",
+  "text": {
+    "en": "Average speed can be found by simply averaging the starting and ending speeds, regardless of how long each part of the journey took.",
+    "et": "Keskmise kiiruse saab leida alg- ja lõppkiiruse lihtsalt keskmistades, sõltumata sellest, kui kaua kumbki teekonna osa kestis.",
+    "sourceHash": "7ec2281eacc6c8a2",
+    "stale": false
+  }
+}

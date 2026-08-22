@@ -1,0 +1,54 @@
+{
+  "id": "displacement-velocity-acceleration-item2",
+  "conceptId": "displacement-velocity-acceleration",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A ball thrown straight up momentarily has zero velocity at the top of its path. What is its acceleration at that instant?",
+    "et": "Otse üles visatud pallil on tema tee tipus hetkeks kiirus null. Milline on tema kiirendus sel hetkel?",
+    "sourceHash": "7b5341d0aef50911",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Zero, since velocity is zero",
+        "et": "Null, kuna kiirus on null",
+        "sourceHash": "671b731fcf81fc04",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "displacement-velocity-acceleration-m2"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "g, directed downwards, unchanged",
+        "et": "g, suunatud allapoole, muutumatuna",
+        "sourceHash": "ad27b4ffd53d8e02",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Infinite",
+        "et": "Lõpmatu",
+        "sourceHash": "c1c929ebfbb2e174",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Directed upwards",
+        "et": "Suunatud üles",
+        "sourceHash": "fd3652ae5b4cdfe8",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

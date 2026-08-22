@@ -1,0 +1,54 @@
+{
+  "id": "newtons-first-law-item2",
+  "conceptId": "newtons-first-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which statement best describes inertia?",
+    "et": "Milline väide kirjeldab inertsi kõige paremini?",
+    "sourceHash": "c5d720e15814a2af",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A force that pushes moving objects forward",
+        "et": "Jõud, mis lükkab liikuvat keha edasi",
+        "sourceHash": "1fe6415b343f2cf6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "newtons-first-law-m3"
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The tendency of an object to resist a change in its motion",
+        "et": "Keha kalduvus seista vastu oma liikumise muutumisele",
+        "sourceHash": "84df5cdcc8d6197a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The force of gravity acting on an object",
+        "et": "Kehale mõjuv raskusjõud",
+        "sourceHash": "b62a816b408e0821",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The friction opposing an object's motion",
+        "et": "Keha liikumisele vastu töötav hõõrdejõud",
+        "sourceHash": "f57da6c348b25a04",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

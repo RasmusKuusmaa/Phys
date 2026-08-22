@@ -1,0 +1,10 @@
+{
+  "id": "displacement-velocity-acceleration-m3",
+  "conceptId": "displacement-velocity-acceleration",
+  "text": {
+    "en": "If velocity is constant, the object must have some acceleration keeping it that way.",
+    "et": "Kui kiirus on konstantne, peab kehal olema mingi kiirendus, mis seda konstantsena hoiab.",
+    "sourceHash": "1919acc3a3719021",
+    "stale": false
+  }
+}
