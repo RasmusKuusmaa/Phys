@@ -70,7 +70,9 @@ export function RoadmapSections({
             <h2 className="text-2xl font-semibold">{group.level}</h2>
             {group.modules.map((module) => (
               <div key={module.name} className="mt-6">
-                <h3 className="text-lg font-semibold capitalize">{module.name}</h3>
+                <h3 className="text-lg font-semibold capitalize">
+                  {module.name.replace(/-/g, " ")}
+                </h3>
                 <div className="mt-3 grid grid-cols-1 gap-4 sm:grid-cols-2">
                   {module.concepts.map((concept) => (
                     <ConceptCard

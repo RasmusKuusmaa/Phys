@@ -1,0 +1,22 @@
+{
+  "id": "quantum-energy-levels",
+  "subject": "physics",
+  "level": "L3",
+  "module": "modern-physics",
+  "title": {
+    "en": "Quantised energy levels in atoms",
+    "et": "Aatomi kvantitud energianivood",
+    "sourceHash": "d2be1bbfb92a3994",
+    "stale": false
+  },
+  "summary": {
+    "en": "An electron bound in an atom can only occupy certain discrete energy levels, and it absorbs or emits a photon of exactly the right energy when it jumps between them.",
+    "et": "Aatomis seotud elektron võib olla ainult teatud diskreetsetel energianivoodel ning ta neelab või kiirgab footoni täpselt õige energiaga, kui hüppab ühelt nivoolt teisele.",
+    "sourceHash": "656b1035429282df",
+    "stale": false
+  },
+  "prerequisites": [
+    "photoelectric-effect",
+    "atoms-and-the-nucleus"
+  ]
+}

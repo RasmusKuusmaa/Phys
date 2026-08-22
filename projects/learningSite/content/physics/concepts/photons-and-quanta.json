@@ -1,0 +1,21 @@
+{
+  "id": "photons-and-quanta",
+  "subject": "physics",
+  "level": "L1",
+  "module": "modern-physics",
+  "title": {
+    "en": "Photons and quanta",
+    "et": "Footonid ja kvandid",
+    "sourceHash": "508b195e89059e11",
+    "stale": false
+  },
+  "summary": {
+    "en": "Light delivers its energy in discrete packets called photons, each carrying an energy proportional to the light's frequency.",
+    "et": "Valgus annab oma energia edasi diskreetsete pakettidena, mida nimetatakse footoniteks, ning igaüks neist kannab energiat, mis on võrdeline valguse sagedusega.",
+    "sourceHash": "599fc0d0d79e1d00",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-waves"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "radioactivity-and-half-life",
+  "subject": "physics",
+  "level": "L1",
+  "module": "modern-physics",
+  "title": {
+    "en": "Radioactivity and half-life",
+    "et": "Radioaktiivsus ja poolestusaeg",
+    "sourceHash": "21d380f36c23cbb9",
+    "stale": false
+  },
+  "summary": {
+    "en": "An unstable nucleus can spontaneously decay, emitting radiation; its half-life is the time it takes for half of a sample of that isotope to decay.",
+    "et": "Ebastabiilne tuum võib iseeneslikult laguneda, kiirgades kiirgust; selle poolestusaeg on aeg, mille jooksul laguneb pool antud isotoobi kogusest.",
+    "sourceHash": "40c8e077c4c200f1",
+    "stale": false
+  },
+  "prerequisites": [
+    "atoms-and-the-nucleus"
+  ]
+}

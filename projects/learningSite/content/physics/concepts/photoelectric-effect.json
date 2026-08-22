@@ -1,0 +1,21 @@
+{
+  "id": "photoelectric-effect",
+  "subject": "physics",
+  "level": "L2",
+  "module": "modern-physics",
+  "title": {
+    "en": "The photoelectric effect",
+    "et": "Fotoefekt",
+    "sourceHash": "fc5f1e801323d4de",
+    "stale": false
+  },
+  "summary": {
+    "en": "Light striking a metal surface ejects electrons only if a single photon carries enough energy to free one, no matter how bright the light is — evidence that light behaves as particles, not just waves.",
+    "et": "Metallipinnale langev valgus vabastab elektrone ainult siis, kui üksik footon kannab piisavalt energiat, sõltumata valguse heledusest — see tõendab, et valgus käitub ka osakestena, mitte ainult lainena.",
+    "sourceHash": "761b354ddf5fc5a4",
+    "stale": false
+  },
+  "prerequisites": [
+    "photons-and-quanta"
+  ]
+}

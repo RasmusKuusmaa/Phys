@@ -1,0 +1,22 @@
+{
+  "id": "wave-particle-duality",
+  "subject": "physics",
+  "level": "L2",
+  "module": "modern-physics",
+  "title": {
+    "en": "Wave-particle duality",
+    "et": "Laine-osakese duaalsus",
+    "sourceHash": "31727f8a30eacb39",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every particle, including electrons, has an associated wavelength, and every wave, including light, can transfer energy and momentum in discrete particle-like packets.",
+    "et": "Igal osakesel, sealhulgas elektronil, on oma lainepikkus, ning iga laine, sealhulgas valgus, võib kanda energiat ja impulssi diskreetsete osakestesarnaste pakettidena.",
+    "sourceHash": "503dc8bbc2b7f9da",
+    "stale": false
+  },
+  "prerequisites": [
+    "photons-and-quanta",
+    "wave-nature-of-light"
+  ]
+}
