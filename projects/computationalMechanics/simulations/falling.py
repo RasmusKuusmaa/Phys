@@ -61,17 +61,23 @@ positions = np.array(positions)
 velocities = np.array(velocities)
 accelerations = np.array(accelerations)
 
-#plot position
+plt.figure(figsize=(12, 5))
 
-plt.figure()
-
+# plot pos
+plt.subplot(1, 2, 1)
 plt.plot(times, positions)
-
 plt.xlabel("Time (s)")
 plt.ylabel("Position (m)")
-plt.title("falling object: position vs time")
-
-
+plt.title("Falling Object: Position vs Time")
 plt.grid()
 
+# plot vel
+plt.subplot(1, 2, 2)
+plt.plot(times, velocities)
+plt.xlabel("Time (s)")
+plt.ylabel("Velocity (m/s)")
+plt.title("Falling Object: Velocity vs Time")
+plt.grid()
+
+plt.tight_layout()
 plt.show()
