@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import type { Concept, ConceptItem, ErrorModel, Formula, Misconception, ProblemTemplate, TestConfig } from "@/schema";
 import type { Locale } from "@/i18n/locales";
@@ -12,6 +12,7 @@ import { computeConceptResults, computeMisconceptionCounts, isWeakConcept } from
 import { formatWorkedSolution } from "@/lib/formula/workedSolution";
 import { getUnit } from "@/lib/units/registry";
 import { FormulaDisplay } from "@/components/FormulaDisplay";
+import { setConceptStatus } from "@/lib/progress/store";
 
 export function TestRunner({
   locale,
@@ -124,6 +125,16 @@ function ResultsScreen({
   const conceptById = new Map(concepts.map((c) => [c.id, c]));
   const misconceptionCounts = computeMisconceptionCounts(answers);
   const misconceptionById = new Map(misconceptions.map((m) => [m.id, m]));
+
+  // Runs once when the results screen mounts (answers don't change after
+  // that) — a concept holding accuracy above the weak threshold graduates
+  // to "confident", otherwise "learning", overriding whatever manual
+  // status (Phase 10's ConceptStatusControl) was set before this attempt.
+  useEffect(() => {
+    for (const result of computeConceptResults(answers)) {
+      setConceptStatus(result.conceptId, isWeakConcept(result) ? "learning" : "confident");
+    }
+  }, [answers]);
 
   return (
     <div style={{ padding: "2rem" }}>

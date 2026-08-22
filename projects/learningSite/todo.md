@@ -316,7 +316,7 @@ Complete before any content is authored.
   `feat: track per concept status`
 - [x] Allow manual status setting on concept pages
   `feat: add manual status control`
-- [ ] Update status automatically from test results
+- [x] Update status automatically from test results
   `feat: derive status from practice results`
 - [ ] Store per-misconception hit counts for targeted review
   `feat: track misconception frequency`
