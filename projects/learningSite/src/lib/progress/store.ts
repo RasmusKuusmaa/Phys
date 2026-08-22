@@ -1,4 +1,5 @@
-import { ProgressSchema, createEmptyProgress, type ConceptStatus, type Progress } from "./schema";
+import { createEmptyProgress, type ConceptStatus, type Progress } from "./schema";
+import { migrateProgress } from "./migrations";
 
 export const STORAGE_KEY = "progress";
 
@@ -6,8 +7,7 @@ export function readProgress(): Progress {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return createEmptyProgress();
-    const parsed = ProgressSchema.safeParse(JSON.parse(raw));
-    return parsed.success ? parsed.data : createEmptyProgress();
+    return migrateProgress(JSON.parse(raw));
   } catch {
     return createEmptyProgress();
   }

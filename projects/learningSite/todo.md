@@ -328,7 +328,7 @@ Complete before any content is authored.
   `feat: add progress import`
 - [x] Add clear progress with confirmation
   `feat: add clear progress action`
-- [ ] Add a storage version migration path
+- [x] Add a storage version migration path
   `feat: add progress storage migration`
 
 ### Phase 11 — Physics content
