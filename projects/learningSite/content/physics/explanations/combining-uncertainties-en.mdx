@@ -1,0 +1,16 @@
+When quantities with their own uncertainties get combined, the rule for
+combining the uncertainties depends on what you did with the quantities.
+Adding or subtracting two measured lengths adds their absolute
+uncertainties directly: (10.0 ± 0.1) cm + (5.0 ± 0.1) cm gives 15.0 ± 0.2 cm.
+
+Multiplying or dividing works differently — there, it's the relative (or
+percentage) uncertainties that add. A length known to ±2% multiplied by a
+length known to ±3% gives an area known to about ±5%, not ±2% or ±3%
+individually.
+
+The two rules are easy to mix up, and mixing them up is one of the most
+common mistakes in this area — subtracting instead of adding uncertainties,
+for example, would suggest a calculation somehow got more certain by
+combining two measurements, which is never how it works. Uncertainties only
+ever grow (or, at best, stay comparable) when quantities are combined;
+they never shrink.
