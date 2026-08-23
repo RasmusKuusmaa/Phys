@@ -1,0 +1,37 @@
+{
+  "id": "capacitance-formula-solve-q",
+  "formulaId": "capacitance-formula",
+  "solveFor": "Q",
+  "mistakes": [
+    {
+      "id": "forgot-capacitance",
+      "description": {
+        "en": "Forgot to multiply by the capacitance.",
+        "et": "Unustas mahtuvusega korrutamise.",
+        "sourceHash": "d0eff3710e059fdb",
+        "stale": false
+      },
+      "expression": "V"
+    },
+    {
+      "id": "forgot-voltage",
+      "description": {
+        "en": "Forgot to multiply by the voltage.",
+        "et": "Unustas pingega korrutamise.",
+        "sourceHash": "615dc70f7b053b55",
+        "stale": false
+      },
+      "expression": "C"
+    },
+    {
+      "id": "divided-instead-of-multiplied",
+      "description": {
+        "en": "Divided the capacitance by the voltage instead of multiplying.",
+        "et": "Jagas mahtuvuse pingega, selle asemel et korrutada.",
+        "sourceHash": "1977457db666b84a",
+        "stale": false
+      },
+      "expression": "C/V"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "capacitance-formula",
+  "conceptId": "capacitance",
+  "latex": "Q = CV",
+  "symbols": [
+    {
+      "symbol": "Q",
+      "name": {
+        "en": "electric charge",
+        "et": "elektrilaeng",
+        "sourceHash": "a6d8fc33990e659b",
+        "stale": false
+      },
+      "unit": "C"
+    },
+    {
+      "symbol": "C",
+      "name": {
+        "en": "capacitance",
+        "et": "mahtuvus",
+        "sourceHash": "74badef58b2f2c06",
+        "stale": false
+      },
+      "unit": "F"
+    },
+    {
+      "symbol": "V",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    }
+  ],
+  "solveFor": [
+    "Q",
+    "C",
+    "V"
+  ],
+  "expressions": {
+    "Q": "C*V",
+    "C": "Q/V",
+    "V": "Q/C"
+  }
+}

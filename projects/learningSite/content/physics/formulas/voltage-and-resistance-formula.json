@@ -1,0 +1,47 @@
+{
+  "id": "voltage-and-resistance-formula",
+  "conceptId": "voltage-and-resistance",
+  "latex": "V = IR",
+  "symbols": [
+    {
+      "symbol": "V",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    },
+    {
+      "symbol": "I",
+      "name": {
+        "en": "electric current",
+        "et": "elektrivool",
+        "sourceHash": "e1a0b925fa3b95ce",
+        "stale": false
+      },
+      "unit": "A"
+    },
+    {
+      "symbol": "R",
+      "name": {
+        "en": "resistance",
+        "et": "takistus",
+        "sourceHash": "be970d090a9b0a23",
+        "stale": false
+      },
+      "unit": "ohm"
+    }
+  ],
+  "solveFor": [
+    "V",
+    "I",
+    "R"
+  ],
+  "expressions": {
+    "V": "I*R",
+    "I": "V/R",
+    "R": "V/I"
+  }
+}

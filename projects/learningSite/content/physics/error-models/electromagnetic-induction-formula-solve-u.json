@@ -1,0 +1,37 @@
+{
+  "id": "electromagnetic-induction-formula-solve-u",
+  "formulaId": "electromagnetic-induction-formula",
+  "solveFor": "U",
+  "mistakes": [
+    {
+      "id": "forgot-speed",
+      "description": {
+        "en": "Forgot to multiply by the speed.",
+        "et": "Unustas kiirusega korrutamise.",
+        "sourceHash": "2fa4be6b46153837",
+        "stale": false
+      },
+      "expression": "B*L"
+    },
+    {
+      "id": "forgot-length",
+      "description": {
+        "en": "Forgot to multiply by the length.",
+        "et": "Unustas pikkusega korrutamise.",
+        "sourceHash": "81ccc9647db458a6",
+        "stale": false
+      },
+      "expression": "B*v"
+    },
+    {
+      "id": "forgot-field",
+      "description": {
+        "en": "Forgot to multiply by the magnetic field.",
+        "et": "Unustas magnetväljaga korrutamise.",
+        "sourceHash": "cfe131e64ab23a1d",
+        "stale": false
+      },
+      "expression": "L*v"
+    }
+  ]
+}

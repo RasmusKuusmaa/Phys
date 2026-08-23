@@ -133,6 +133,48 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ mass: 1, time: -2 }),
     toBase: 1,
   },
+  A: {
+    symbol: "A",
+    name: { en: "ampere", et: "amper" },
+    dimension: dim({ current: 1 }),
+    toBase: 1,
+  },
+  V: {
+    symbol: "V",
+    name: { en: "volt", et: "volt" },
+    dimension: dim({ mass: 1, length: 2, time: -3, current: -1 }),
+    toBase: 1,
+  },
+  ohm: {
+    symbol: "ohm",
+    name: { en: "ohm", et: "oom" },
+    dimension: dim({ mass: 1, length: 2, time: -3, current: -2 }),
+    toBase: 1,
+  },
+  C: {
+    symbol: "C",
+    name: { en: "coulomb", et: "kulon" },
+    dimension: dim({ current: 1, time: 1 }),
+    toBase: 1,
+  },
+  T: {
+    symbol: "T",
+    name: { en: "tesla", et: "tesla" },
+    dimension: dim({ mass: 1, time: -2, current: -1 }),
+    toBase: 1,
+  },
+  F: {
+    symbol: "F",
+    name: { en: "farad", et: "farad" },
+    dimension: dim({ mass: -1, length: -2, time: 4, current: 2 }),
+    toBase: 1,
+  },
+  "N/C": {
+    symbol: "N/C",
+    name: { en: "newton per coulomb", et: "njuuton kuloni kohta" },
+    dimension: dim({ mass: 1, length: 1, time: -3, current: -1 }),
+    toBase: 1,
+  },
 };
 
 export function getUnit(symbol: string): UnitDefinition {

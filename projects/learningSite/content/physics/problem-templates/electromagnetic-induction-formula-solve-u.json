@@ -1,0 +1,45 @@
+{
+  "id": "electromagnetic-induction-formula-solve-u",
+  "formulaId": "electromagnetic-induction-formula",
+  "variables": [
+    {
+      "symbol": "B",
+      "min": 0.01,
+      "max": 2,
+      "unit": "T",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "L",
+      "min": 0.01,
+      "max": 2,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "v",
+      "min": 0.1,
+      "max": 20,
+      "unit": "m/s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "B",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "L",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "v",
+      "right": 0
+    }
+  ],
+  "solveFor": "U"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "electric-fields-formula-solve-e",
+  "formulaId": "electric-fields-formula",
+  "solveFor": "E",
+  "mistakes": [
+    {
+      "id": "forgot-square",
+      "description": {
+        "en": "Forgot to square the distance.",
+        "et": "Unustas kauguse ruutu tõstmise.",
+        "sourceHash": "323b6ba11fa34494",
+        "stale": false
+      },
+      "expression": "8990000000*q/r"
+    },
+    {
+      "id": "forgot-coulomb-constant",
+      "description": {
+        "en": "Forgot to multiply by Coulomb's constant.",
+        "et": "Unustas Coulombi konstandiga korrutamise.",
+        "sourceHash": "a583132602a8968f",
+        "stale": false
+      },
+      "expression": "q/(r^2)"
+    },
+    {
+      "id": "used-charge-only",
+      "description": {
+        "en": "Reported the charge as the electric field.",
+        "et": "Esitas elektriväljana laengu väärtuse.",
+        "sourceHash": "d7c00fcd41254176",
+        "stale": false
+      },
+      "expression": "q"
+    }
+  ]
+}

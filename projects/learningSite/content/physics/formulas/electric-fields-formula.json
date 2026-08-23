@@ -1,0 +1,47 @@
+{
+  "id": "electric-fields-formula",
+  "conceptId": "electric-fields",
+  "latex": "E = \\frac{kq}{r^2}",
+  "symbols": [
+    {
+      "symbol": "E",
+      "name": {
+        "en": "electric field",
+        "et": "elektriväli",
+        "sourceHash": "1d19f4967106e5c2",
+        "stale": false
+      },
+      "unit": "N/C"
+    },
+    {
+      "symbol": "q",
+      "name": {
+        "en": "electric charge",
+        "et": "elektrilaeng",
+        "sourceHash": "a6d8fc33990e659b",
+        "stale": false
+      },
+      "unit": "C"
+    },
+    {
+      "symbol": "r",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "E",
+    "q",
+    "r"
+  ],
+  "expressions": {
+    "E": "8990000000*q/(r^2)",
+    "q": "E*(r^2)/8990000000",
+    "r": "sqrt(8990000000*q/E)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "voltage-and-resistance-formula-solve-v",
+  "formulaId": "voltage-and-resistance-formula",
+  "variables": [
+    {
+      "symbol": "I",
+      "min": 0.1,
+      "max": 10,
+      "unit": "A",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "R",
+      "min": 1,
+      "max": 1000,
+      "unit": "ohm",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "I",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "R",
+      "right": 0
+    }
+  ],
+  "solveFor": "V"
+}

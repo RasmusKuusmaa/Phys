@@ -1,0 +1,33 @@
+{
+  "id": "electric-fields-formula-solve-e",
+  "formulaId": "electric-fields-formula",
+  "variables": [
+    {
+      "symbol": "q",
+      "min": 0.000001,
+      "max": 0.001,
+      "unit": "C",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "r",
+      "min": 0.01,
+      "max": 2,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "q",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "r",
+      "right": 0
+    }
+  ],
+  "solveFor": "E"
+}

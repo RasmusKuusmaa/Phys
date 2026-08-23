@@ -1,0 +1,59 @@
+{
+  "id": "magnetic-fields-formula",
+  "conceptId": "magnetic-fields",
+  "latex": "F = BIL",
+  "symbols": [
+    {
+      "symbol": "F",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    },
+    {
+      "symbol": "B",
+      "name": {
+        "en": "magnetic field",
+        "et": "magnetväli",
+        "sourceHash": "8e923bfc2b2346c6",
+        "stale": false
+      },
+      "unit": "T"
+    },
+    {
+      "symbol": "I",
+      "name": {
+        "en": "electric current",
+        "et": "elektrivool",
+        "sourceHash": "e1a0b925fa3b95ce",
+        "stale": false
+      },
+      "unit": "A"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "F",
+    "B",
+    "I",
+    "L"
+  ],
+  "expressions": {
+    "F": "B*I*L",
+    "B": "F/(I*L)",
+    "I": "F/(B*L)",
+    "L": "F/(B*I)"
+  }
+}

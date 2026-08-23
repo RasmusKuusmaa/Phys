@@ -1,0 +1,37 @@
+{
+  "id": "voltage-and-resistance-formula-solve-v",
+  "formulaId": "voltage-and-resistance-formula",
+  "solveFor": "V",
+  "mistakes": [
+    {
+      "id": "forgot-resistance",
+      "description": {
+        "en": "Forgot to multiply by the resistance.",
+        "et": "Unustas takistusega korrutamise.",
+        "sourceHash": "193f9b3e8a4b0e81",
+        "stale": false
+      },
+      "expression": "I"
+    },
+    {
+      "id": "forgot-current",
+      "description": {
+        "en": "Forgot to multiply by the current.",
+        "et": "Unustas vooluga korrutamise.",
+        "sourceHash": "8e2b063846e6bd60",
+        "stale": false
+      },
+      "expression": "R"
+    },
+    {
+      "id": "divided-instead-of-multiplied",
+      "description": {
+        "en": "Divided the current by the resistance instead of multiplying.",
+        "et": "Jagas voolu takistusega, selle asemel et korrutada.",
+        "sourceHash": "4104591c0058ff7e",
+        "stale": false
+      },
+      "expression": "I/R"
+    }
+  ]
+}

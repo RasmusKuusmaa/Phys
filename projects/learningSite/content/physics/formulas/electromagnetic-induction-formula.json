@@ -1,0 +1,59 @@
+{
+  "id": "electromagnetic-induction-formula",
+  "conceptId": "electromagnetic-induction",
+  "latex": "U = BLv",
+  "symbols": [
+    {
+      "symbol": "U",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    },
+    {
+      "symbol": "B",
+      "name": {
+        "en": "magnetic field",
+        "et": "magnetväli",
+        "sourceHash": "8e923bfc2b2346c6",
+        "stale": false
+      },
+      "unit": "T"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "v",
+      "name": {
+        "en": "speed",
+        "et": "kiirus",
+        "sourceHash": "bbccb9c002d5ed59",
+        "stale": false
+      },
+      "unit": "m/s"
+    }
+  ],
+  "solveFor": [
+    "U",
+    "B",
+    "L",
+    "v"
+  ],
+  "expressions": {
+    "U": "B*L*v",
+    "B": "U/(L*v)",
+    "L": "U/(B*v)",
+    "v": "U/(B*L)"
+  }
+}
