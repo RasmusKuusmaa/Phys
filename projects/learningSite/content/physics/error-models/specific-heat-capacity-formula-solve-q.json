@@ -1,0 +1,37 @@
+{
+  "id": "specific-heat-capacity-formula-solve-q",
+  "formulaId": "specific-heat-capacity-formula",
+  "solveFor": "Q",
+  "mistakes": [
+    {
+      "id": "forgot-mass",
+      "description": {
+        "en": "Forgot to multiply by the mass.",
+        "et": "Unustas massiga korrutamise.",
+        "sourceHash": "a760e9f7159298a8",
+        "stale": false
+      },
+      "expression": "c*dT"
+    },
+    {
+      "id": "forgot-specific-heat",
+      "description": {
+        "en": "Forgot to multiply by the specific heat capacity.",
+        "et": "Unustas erisoojusega korrutamise.",
+        "sourceHash": "7855bd765b845db3",
+        "stale": false
+      },
+      "expression": "m*dT"
+    },
+    {
+      "id": "forgot-temperature-change",
+      "description": {
+        "en": "Forgot to multiply by the temperature change.",
+        "et": "Unustas temperatuuri muutusega korrutamise.",
+        "sourceHash": "ff64a10b0e55a817",
+        "stale": false
+      },
+      "expression": "m*c"
+    }
+  ]
+}

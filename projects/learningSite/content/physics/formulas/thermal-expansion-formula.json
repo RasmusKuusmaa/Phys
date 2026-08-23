@@ -1,0 +1,59 @@
+{
+  "id": "thermal-expansion-formula",
+  "conceptId": "thermal-expansion",
+  "latex": "\\Delta L = \\alpha L_0 \\Delta T",
+  "symbols": [
+    {
+      "symbol": "dL",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "alpha",
+      "name": {
+        "en": "expansion coefficient",
+        "et": "paisumistegur",
+        "sourceHash": "66dbd3facabac467",
+        "stale": false
+      },
+      "unit": "1/K"
+    },
+    {
+      "symbol": "L0",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "dT",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    }
+  ],
+  "solveFor": [
+    "dL",
+    "alpha",
+    "L0",
+    "dT"
+  ],
+  "expressions": {
+    "dL": "alpha*L0*dT",
+    "alpha": "dL/(L0*dT)",
+    "L0": "dL/(alpha*dT)",
+    "dT": "dL/(alpha*L0)"
+  }
+}

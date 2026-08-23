@@ -1,0 +1,33 @@
+{
+  "id": "kinetic-theory-of-gases-formula-solve-v",
+  "formulaId": "kinetic-theory-of-gases-formula",
+  "variables": [
+    {
+      "symbol": "T",
+      "min": 100,
+      "max": 1000,
+      "unit": "K",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "M",
+      "min": 0.002,
+      "max": 0.2,
+      "unit": "kg/mol",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "T",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "M",
+      "right": 0
+    }
+  ],
+  "solveFor": "v"
+}

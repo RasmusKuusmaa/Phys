@@ -1,0 +1,59 @@
+{
+  "id": "specific-heat-capacity-formula",
+  "conceptId": "specific-heat-capacity",
+  "latex": "Q = mc\\Delta T",
+  "symbols": [
+    {
+      "symbol": "Q",
+      "name": {
+        "en": "heat",
+        "et": "soojus",
+        "sourceHash": "5a2a0ed9aa3ab7d8",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "m",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    },
+    {
+      "symbol": "c",
+      "name": {
+        "en": "specific heat capacity",
+        "et": "erisoojus",
+        "sourceHash": "8fe830ab81bcb53b",
+        "stale": false
+      },
+      "unit": "J/(kg*K)"
+    },
+    {
+      "symbol": "dT",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    }
+  ],
+  "solveFor": [
+    "Q",
+    "m",
+    "c",
+    "dT"
+  ],
+  "expressions": {
+    "Q": "m*c*dT",
+    "m": "Q/(c*dT)",
+    "c": "Q/(m*dT)",
+    "dT": "Q/(m*c)"
+  }
+}

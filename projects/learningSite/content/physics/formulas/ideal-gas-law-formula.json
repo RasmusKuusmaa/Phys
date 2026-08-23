@@ -1,0 +1,59 @@
+{
+  "id": "ideal-gas-law-formula",
+  "conceptId": "ideal-gas-law",
+  "latex": "pV = nRT",
+  "symbols": [
+    {
+      "symbol": "p",
+      "name": {
+        "en": "pressure",
+        "et": "rõhk",
+        "sourceHash": "b667446e6eb2552f",
+        "stale": false
+      },
+      "unit": "Pa"
+    },
+    {
+      "symbol": "V",
+      "name": {
+        "en": "volume",
+        "et": "ruumala",
+        "sourceHash": "62d7a6b1211d6276",
+        "stale": false
+      },
+      "unit": "m^3"
+    },
+    {
+      "symbol": "n",
+      "name": {
+        "en": "amount of substance",
+        "et": "aine hulk",
+        "sourceHash": "ac906352a5e10525",
+        "stale": false
+      },
+      "unit": "mol"
+    },
+    {
+      "symbol": "T",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    }
+  ],
+  "solveFor": [
+    "p",
+    "V",
+    "n",
+    "T"
+  ],
+  "expressions": {
+    "p": "n*8.314*T/V",
+    "V": "n*8.314*T/p",
+    "n": "p*V/(8.314*T)",
+    "T": "p*V/(n*8.314)"
+  }
+}

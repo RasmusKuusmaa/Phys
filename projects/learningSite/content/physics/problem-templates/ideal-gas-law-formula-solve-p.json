@@ -1,0 +1,45 @@
+{
+  "id": "ideal-gas-law-formula-solve-p",
+  "formulaId": "ideal-gas-law-formula",
+  "variables": [
+    {
+      "symbol": "V",
+      "min": 0.001,
+      "max": 0.1,
+      "unit": "m^3",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "n",
+      "min": 0.1,
+      "max": 10,
+      "unit": "mol",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "T",
+      "min": 200,
+      "max": 400,
+      "unit": "K",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "V",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "n",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "T",
+      "right": 0
+    }
+  ],
+  "solveFor": "p"
+}

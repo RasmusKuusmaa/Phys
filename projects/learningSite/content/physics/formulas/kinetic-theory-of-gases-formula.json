@@ -1,0 +1,47 @@
+{
+  "id": "kinetic-theory-of-gases-formula",
+  "conceptId": "kinetic-theory-of-gases",
+  "latex": "v = \\sqrt{\\frac{3RT}{M}}",
+  "symbols": [
+    {
+      "symbol": "v",
+      "name": {
+        "en": "speed",
+        "et": "kiirus",
+        "sourceHash": "bbccb9c002d5ed59",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "T",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    },
+    {
+      "symbol": "M",
+      "name": {
+        "en": "molar mass",
+        "et": "molaarmass",
+        "sourceHash": "d73dbc53357aac76",
+        "stale": false
+      },
+      "unit": "kg/mol"
+    }
+  ],
+  "solveFor": [
+    "v",
+    "T",
+    "M"
+  ],
+  "expressions": {
+    "v": "sqrt(3*8.314*T/M)",
+    "T": "(v^2*M)/(3*8.314)",
+    "M": "(3*8.314*T)/(v^2)"
+  }
+}

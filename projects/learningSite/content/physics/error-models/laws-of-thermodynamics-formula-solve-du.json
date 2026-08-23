@@ -1,0 +1,37 @@
+{
+  "id": "laws-of-thermodynamics-formula-solve-du",
+  "formulaId": "laws-of-thermodynamics-formula",
+  "solveFor": "dU",
+  "mistakes": [
+    {
+      "id": "added-instead-of-subtracted",
+      "description": {
+        "en": "Added the work done instead of subtracting it.",
+        "et": "Liitis tehtud töö väärtuse, selle asemel et lahutada.",
+        "sourceHash": "2cf8ca7b6a4fcc2d",
+        "stale": false
+      },
+      "expression": "Q+W"
+    },
+    {
+      "id": "used-heat-only",
+      "description": {
+        "en": "Reported the heat transferred as the change in internal energy.",
+        "et": "Esitas siseenergia muutusena soojushulga väärtuse.",
+        "sourceHash": "34f7826d3b6a294e",
+        "stale": false
+      },
+      "expression": "Q"
+    },
+    {
+      "id": "reversed-subtraction",
+      "description": {
+        "en": "Subtracted the heat from the work instead of the reverse.",
+        "et": "Lahutas soojushulga tööst, vastupidise asemel.",
+        "sourceHash": "c1230a328bfb3738",
+        "stale": false
+      },
+      "expression": "W-Q"
+    }
+  ]
+}

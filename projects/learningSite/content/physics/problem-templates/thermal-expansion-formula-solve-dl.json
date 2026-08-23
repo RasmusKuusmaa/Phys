@@ -1,0 +1,45 @@
+{
+  "id": "thermal-expansion-formula-solve-dl",
+  "formulaId": "thermal-expansion-formula",
+  "variables": [
+    {
+      "symbol": "alpha",
+      "min": 0.000001,
+      "max": 0.00003,
+      "unit": "1/K",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "L0",
+      "min": 0.1,
+      "max": 10,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "dT",
+      "min": 1,
+      "max": 100,
+      "unit": "K",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "alpha",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "L0",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "dT",
+      "right": 0
+    }
+  ],
+  "solveFor": "dL"
+}

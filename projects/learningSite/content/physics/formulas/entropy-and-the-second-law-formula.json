@@ -1,0 +1,47 @@
+{
+  "id": "entropy-and-the-second-law-formula",
+  "conceptId": "entropy-and-the-second-law",
+  "latex": "\\Delta S = \\frac{Q}{T}",
+  "symbols": [
+    {
+      "symbol": "dS",
+      "name": {
+        "en": "entropy",
+        "et": "entroopia",
+        "sourceHash": "67671a2f53dd910a",
+        "stale": false
+      },
+      "unit": "J/K"
+    },
+    {
+      "symbol": "Q",
+      "name": {
+        "en": "heat",
+        "et": "soojus",
+        "sourceHash": "5a2a0ed9aa3ab7d8",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "T",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    }
+  ],
+  "solveFor": [
+    "dS",
+    "Q",
+    "T"
+  ],
+  "expressions": {
+    "dS": "Q/T",
+    "Q": "dS*T",
+    "T": "Q/dS"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "phase-transitions-formula",
+  "conceptId": "phase-transitions",
+  "latex": "Q = mL",
+  "symbols": [
+    {
+      "symbol": "Q",
+      "name": {
+        "en": "heat",
+        "et": "soojus",
+        "sourceHash": "5a2a0ed9aa3ab7d8",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "m",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "heat of fusion",
+        "et": "sulamissoojus",
+        "sourceHash": "b9b0b6df29ac6ed0",
+        "stale": false
+      },
+      "unit": "J/kg"
+    }
+  ],
+  "solveFor": [
+    "Q",
+    "m",
+    "L"
+  ],
+  "expressions": {
+    "Q": "m*L",
+    "m": "Q/L",
+    "L": "Q/m"
+  }
+}

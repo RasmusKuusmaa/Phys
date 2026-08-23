@@ -1,0 +1,37 @@
+{
+  "id": "entropy-and-the-second-law-formula-solve-ds",
+  "formulaId": "entropy-and-the-second-law-formula",
+  "solveFor": "dS",
+  "mistakes": [
+    {
+      "id": "multiplied-instead-of-divided",
+      "description": {
+        "en": "Multiplied by the temperature instead of dividing.",
+        "et": "Korrutas temperatuuriga, selle asemel et jagada.",
+        "sourceHash": "25511659768c9ee4",
+        "stale": false
+      },
+      "expression": "Q*T"
+    },
+    {
+      "id": "used-heat-only",
+      "description": {
+        "en": "Reported the heat transferred as the entropy change.",
+        "et": "Esitas entroopia muutusena soojushulga väärtuse.",
+        "sourceHash": "4fad6117170c7ab4",
+        "stale": false
+      },
+      "expression": "Q"
+    },
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided the temperature by the heat instead of the reverse.",
+        "et": "Jagas temperatuuri soojushulgaga, vastupidise asemel.",
+        "sourceHash": "442aa5ff86a5fb05",
+        "stale": false
+      },
+      "expression": "T/Q"
+    }
+  ]
+}

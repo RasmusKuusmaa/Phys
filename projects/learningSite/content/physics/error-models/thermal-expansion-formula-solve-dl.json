@@ -1,0 +1,37 @@
+{
+  "id": "thermal-expansion-formula-solve-dl",
+  "formulaId": "thermal-expansion-formula",
+  "solveFor": "dL",
+  "mistakes": [
+    {
+      "id": "forgot-original-length",
+      "description": {
+        "en": "Forgot to multiply by the original length.",
+        "et": "Unustas algpikkusega korrutamise.",
+        "sourceHash": "4ec52e0e794c3562",
+        "stale": false
+      },
+      "expression": "alpha*dT"
+    },
+    {
+      "id": "forgot-expansion-coefficient",
+      "description": {
+        "en": "Forgot to multiply by the expansion coefficient.",
+        "et": "Unustas paisumisteguriga korrutamise.",
+        "sourceHash": "d64f3748b66f66b4",
+        "stale": false
+      },
+      "expression": "L0*dT"
+    },
+    {
+      "id": "forgot-temperature-change",
+      "description": {
+        "en": "Forgot to multiply by the temperature change.",
+        "et": "Unustas temperatuuri muutusega korrutamise.",
+        "sourceHash": "ff64a10b0e55a817",
+        "stale": false
+      },
+      "expression": "alpha*L0"
+    }
+  ]
+}

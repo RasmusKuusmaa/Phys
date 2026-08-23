@@ -1,0 +1,37 @@
+{
+  "id": "phase-transitions-formula-solve-q",
+  "formulaId": "phase-transitions-formula",
+  "solveFor": "Q",
+  "mistakes": [
+    {
+      "id": "divided-instead-of-multiplied",
+      "description": {
+        "en": "Divided by the latent heat instead of multiplying.",
+        "et": "Jagas sulamissoojusega, selle asemel et korrutada.",
+        "sourceHash": "a726be4ce7023604",
+        "stale": false
+      },
+      "expression": "m/L"
+    },
+    {
+      "id": "used-mass-only",
+      "description": {
+        "en": "Reported the mass as the heat transferred.",
+        "et": "Esitas soojushulgana massi väärtuse.",
+        "sourceHash": "afb74b0cd36e19ef",
+        "stale": false
+      },
+      "expression": "m"
+    },
+    {
+      "id": "used-latent-heat-only",
+      "description": {
+        "en": "Reported the latent heat as the heat transferred.",
+        "et": "Esitas soojushulgana sulamissoojuse väärtuse.",
+        "sourceHash": "17bc7ae7df13031f",
+        "stale": false
+      },
+      "expression": "L"
+    }
+  ]
+}

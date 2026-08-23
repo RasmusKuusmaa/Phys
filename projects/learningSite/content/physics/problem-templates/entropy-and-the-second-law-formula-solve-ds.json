@@ -1,0 +1,33 @@
+{
+  "id": "entropy-and-the-second-law-formula-solve-ds",
+  "formulaId": "entropy-and-the-second-law-formula",
+  "variables": [
+    {
+      "symbol": "Q",
+      "min": 100,
+      "max": 10000,
+      "unit": "J",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "T",
+      "min": 200,
+      "max": 400,
+      "unit": "K",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "Q",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "T",
+      "right": 0
+    }
+  ],
+  "solveFor": "dS"
+}

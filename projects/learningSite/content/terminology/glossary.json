@@ -37,6 +37,11 @@
   { "id": "ideal-gas", "en": "ideal gas", "et": "ideaalgaas", "domain": "thermodynamics", "source": "https://sonaveeb.ee/search/unif/est/eki/ideaalgaas/1/est" },
   { "id": "thermal-expansion", "en": "thermal expansion", "et": "soojuspaisumine", "domain": "thermodynamics", "source": "https://sonaveeb.ee/search/unif/est/eki/soojuspaisumine/1/est" },
   { "id": "phase-transition", "en": "phase transition", "et": "faasisiire", "domain": "thermodynamics", "source": "https://sonaveeb.ee/search/unif/est/eki/faasisiire/1/est" },
+  { "id": "heat-of-fusion", "en": "heat of fusion", "et": "sulamissoojus", "domain": "thermodynamics", "source": "https://sonaveeb.ee/search/unif/est/eki/sulamissoojus/1/est" },
+  { "id": "expansion-coefficient", "en": "expansion coefficient", "et": "paisumistegur", "domain": "thermodynamics", "source": "https://sonaveeb.ee/search/unif/est/eki/paisumistegur/1/est" },
+  { "id": "volume", "en": "volume", "et": "ruumala", "domain": "thermodynamics", "source": "https://sonaveeb.ee/search/unif/est/eki/ruumala/1/est" },
+  { "id": "amount-of-substance", "en": "amount of substance", "et": "aine hulk", "domain": "thermodynamics", "source": "https://sonaveeb.ee/search/unif/est/eki/mool/1/est" },
+  { "id": "molar-mass", "en": "molar mass", "et": "molaarmass", "domain": "thermodynamics", "source": "https://sonaveeb.ee/search/unif/est/eki/molaarmass/1/est" },
 
   { "id": "wave", "en": "wave", "et": "laine", "domain": "waves", "source": "https://sonaveeb.ee/search/unif/est/eki/laine/1/est" },
   { "id": "frequency", "en": "frequency", "et": "sagedus", "domain": "waves", "source": "https://sonaveeb.ee/search/unif/est/eki/sagedus/1/est" },

@@ -1,0 +1,47 @@
+{
+  "id": "laws-of-thermodynamics-formula",
+  "conceptId": "laws-of-thermodynamics",
+  "latex": "\\Delta U = Q - W",
+  "symbols": [
+    {
+      "symbol": "dU",
+      "name": {
+        "en": "internal energy",
+        "et": "siseenergia",
+        "sourceHash": "2626eb083a0ed4ac",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "Q",
+      "name": {
+        "en": "heat",
+        "et": "soojus",
+        "sourceHash": "5a2a0ed9aa3ab7d8",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "W",
+      "name": {
+        "en": "work",
+        "et": "töö",
+        "sourceHash": "00e13ed7af55b276",
+        "stale": false
+      },
+      "unit": "J"
+    }
+  ],
+  "solveFor": [
+    "dU",
+    "Q",
+    "W"
+  ],
+  "expressions": {
+    "dU": "Q-W",
+    "Q": "dU+W",
+    "W": "Q-dU"
+  }
+}

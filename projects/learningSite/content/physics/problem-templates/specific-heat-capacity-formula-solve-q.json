@@ -1,0 +1,45 @@
+{
+  "id": "specific-heat-capacity-formula-solve-q",
+  "formulaId": "specific-heat-capacity-formula",
+  "variables": [
+    {
+      "symbol": "m",
+      "min": 0.1,
+      "max": 5,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "c",
+      "min": 400,
+      "max": 4200,
+      "unit": "J/(kg*K)",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "dT",
+      "min": 1,
+      "max": 80,
+      "unit": "K",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "m",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "c",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "dT",
+      "right": 0
+    }
+  ],
+  "solveFor": "Q"
+}

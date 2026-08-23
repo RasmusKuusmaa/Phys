@@ -1,0 +1,33 @@
+{
+  "id": "laws-of-thermodynamics-formula-solve-du",
+  "formulaId": "laws-of-thermodynamics-formula",
+  "variables": [
+    {
+      "symbol": "Q",
+      "min": 100,
+      "max": 5000,
+      "unit": "J",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "W",
+      "min": 50,
+      "max": 3000,
+      "unit": "J",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "Q",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "W",
+      "right": 0
+    }
+  ],
+  "solveFor": "dU"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "phase-transitions-formula-solve-q",
+  "formulaId": "phase-transitions-formula",
+  "variables": [
+    {
+      "symbol": "m",
+      "min": 0.2,
+      "max": 5,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "L",
+      "min": 50000,
+      "max": 400000,
+      "unit": "J/kg",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "m",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "L",
+      "right": 0
+    }
+  ],
+  "solveFor": "Q"
+}

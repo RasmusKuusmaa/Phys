@@ -1,0 +1,37 @@
+{
+  "id": "ideal-gas-law-formula-solve-p",
+  "formulaId": "ideal-gas-law-formula",
+  "solveFor": "p",
+  "mistakes": [
+    {
+      "id": "forgot-gas-constant",
+      "description": {
+        "en": "Forgot to multiply by the gas constant.",
+        "et": "Unustas gaasikonstandiga korrutamise.",
+        "sourceHash": "c85eb8cdacb51a05",
+        "stale": false
+      },
+      "expression": "n*T/V"
+    },
+    {
+      "id": "forgot-volume-division",
+      "description": {
+        "en": "Forgot to divide by the volume.",
+        "et": "Unustas ruumalaga jagamise.",
+        "sourceHash": "c79297bd64ef3b42",
+        "stale": false
+      },
+      "expression": "n*8.314*T"
+    },
+    {
+      "id": "used-temperature-only",
+      "description": {
+        "en": "Reported the temperature as the pressure.",
+        "et": "Esitas rõhuna temperatuuri väärtuse.",
+        "sourceHash": "7643be0371e89479",
+        "stale": false
+      },
+      "expression": "T"
+    }
+  ]
+}

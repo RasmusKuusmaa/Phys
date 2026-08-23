@@ -67,6 +67,60 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ mass: 1, length: 1, time: -1 }),
     toBase: 1,
   },
+  K: {
+    symbol: "K",
+    name: { en: "kelvin", et: "kelvin" },
+    dimension: dim({ temperature: 1 }),
+    toBase: 1,
+  },
+  mol: {
+    symbol: "mol",
+    name: { en: "mole", et: "mool" },
+    dimension: dim({ amount: 1 }),
+    toBase: 1,
+  },
+  Pa: {
+    symbol: "Pa",
+    name: { en: "pascal", et: "paskal" },
+    dimension: dim({ mass: 1, length: -1, time: -2 }),
+    toBase: 1,
+  },
+  "m^3": {
+    symbol: "m^3",
+    name: { en: "cubic metre", et: "kuupmeeter" },
+    dimension: dim({ length: 3 }),
+    toBase: 1,
+  },
+  "J/kg": {
+    symbol: "J/kg",
+    name: { en: "joule per kilogram", et: "džaul kilogrammi kohta" },
+    dimension: dim({ length: 2, time: -2 }),
+    toBase: 1,
+  },
+  "J/(kg*K)": {
+    symbol: "J/(kg*K)",
+    name: { en: "joule per kilogram-kelvin", et: "džaul kilogrammi ja kelvini kohta" },
+    dimension: dim({ length: 2, time: -2, temperature: -1 }),
+    toBase: 1,
+  },
+  "1/K": {
+    symbol: "1/K",
+    name: { en: "per kelvin", et: "kelvini kohta" },
+    dimension: dim({ temperature: -1 }),
+    toBase: 1,
+  },
+  "kg/mol": {
+    symbol: "kg/mol",
+    name: { en: "kilogram per mole", et: "kilogramm mooli kohta" },
+    dimension: dim({ mass: 1, amount: -1 }),
+    toBase: 1,
+  },
+  "J/K": {
+    symbol: "J/K",
+    name: { en: "joule per kelvin", et: "džaul kelvini kohta" },
+    dimension: dim({ mass: 1, length: 2, time: -2, temperature: -1 }),
+    toBase: 1,
+  },
 };
 
 export function getUnit(symbol: string): UnitDefinition {
