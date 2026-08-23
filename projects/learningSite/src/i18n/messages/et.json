@@ -18,7 +18,26 @@
   },
   "home": {
     "heading": "Leia oma tee läbi füüsika, matemaatika, keemia ja materjaliteaduse.",
-    "subheading": "Kakskeelne teatme- ja harjutusleht, mis ehitatakse üles aine haaval."
+    "subheading": "Kakskeelne teatme- ja harjutusleht, mis ehitatakse üles aine haaval.",
+    "ctaRoadmap": "Alusta õpiteest",
+    "ctaFormulas": "Sirvi valemite loendit",
+    "featuresHeading": "Kuidas see töötab",
+    "features": [
+      {
+        "title": "Iga valem, värskelt genereeritud",
+        "body": "Harjutusülesanded genereeritakse parametriseeritud mallidest iga kord uue algarvuga ning hinnatakse koheselt sinu brauseris — kaks katset ei näe kunagi ühesugused välja ja sa ei pea ootama serveri vastust."
+      },
+      {
+        "title": "Õpi enda tasemel",
+        "body": "Iga mõiste on märgistatud põhikoolist bakalaureuseni, nii et saad õpitee filtreerida täpselt sulle sobivale sügavusele ja näha, mida iga mõiste järgmisena avab."
+      },
+      {
+        "title": "Kaks keelt, üks sõnastik",
+        "body": "Inglise ja eesti keel ilmuvad iga mõiste juures kõrvuti, eestikeelne füüsikaterminoloogia on lukustatud viidatud sõnastiku vastu — mitte masintõlgitud ega kunagi puuduva keeleversiooniga."
+      }
+    ],
+    "startHereHeading": "Alusta siit",
+    "startHereCta": "Vaata kogu õpiteed"
   },
   "footer": {
     "builtWith": "Ehitatud Next.js, Tailwindi ja KaTeXiga."

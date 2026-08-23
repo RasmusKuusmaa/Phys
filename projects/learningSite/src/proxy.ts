@@ -20,5 +20,7 @@ export function proxy(request: NextRequest) {
 }
 
 export const config = {
-  matcher: ["/((?!_next|favicon.ico).*)"],
+  // sitemap.xml and robots.txt (Phase 13) are metadata routes crawlers expect
+  // at their exact, unprefixed path — never locale-redirect them.
+  matcher: ["/((?!_next|favicon.ico|sitemap.xml|robots.txt).*)"],
 };

@@ -18,7 +18,26 @@
   },
   "home": {
     "heading": "Find your way through physics, mathematics, chemistry and materials science.",
-    "subheading": "A bilingual reference and practice site, built subject by subject."
+    "subheading": "A bilingual reference and practice site, built subject by subject.",
+    "ctaRoadmap": "Start with the roadmap",
+    "ctaFormulas": "Browse the formula index",
+    "featuresHeading": "How it works",
+    "features": [
+      {
+        "title": "Every formula, generated fresh",
+        "body": "Practice problems are generated from parametrised templates with a new seed each time, graded instantly in your browser — no two attempts look the same, and there's no server round-trip waiting on you."
+      },
+      {
+        "title": "Learn at your level",
+        "body": "Every concept is tagged from lower secondary through bachelor core, so you can filter the roadmap to exactly the depth you need and see what each concept unlocks next."
+      },
+      {
+        "title": "Two languages, one glossary",
+        "body": "English and Estonian ship side by side for every concept, with Estonian physics terminology locked against a cited glossary — not machine-translated, and never missing a locale."
+      }
+    ],
+    "startHereHeading": "Start here",
+    "startHereCta": "See the full roadmap"
   },
   "footer": {
     "builtWith": "Built with Next.js, Tailwind and KaTeX."
