@@ -357,9 +357,9 @@ Author both locales in the same pass, never translating in a batch at the end.
   `content: add misconceptions for physics concepts`
 - [x] Write concept items covering every concept
   `content: add concept test items for physics`
-- [ ] Curate English-language resources per concept
+- [x] Curate English-language resources per concept
   `content: add english resources for physics`
-- [ ] Curate Estonian-language resources separately from the English set
+- [x] Curate Estonian-language resources separately from the English set
   `content: curate estonian language resources`
 - [x] Audit the full physics prerequisite graph for gaps
   `content: audit physics prerequisite graph`
