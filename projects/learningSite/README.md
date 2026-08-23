@@ -43,6 +43,7 @@ to `/en`; swap the locale segment for `/et` to browse the Estonian site.
 | `npm run lint:terminology` | Lint Estonian content against the glossary's banned-variant list, and flag formula symbol names with no glossary entry |
 | `npm run content:hash` | Recompute `sourceHash` on every `LocalisedString` and flag any English text that changed since its Estonian translation was last synced |
 | `npm run content:stale-report` | List every currently-stale translation without changing anything |
+| `npm run check:links` | HEAD/GET every curated external resource URL and report any that no longer resolve |
 
 CI (`.github/workflows/learningsite-ci.yml`, repo root) runs typecheck, lint,
 terminology lint, content validation, unit tests and a full build on every

@@ -1,0 +1,31 @@
+name: FKM Kompass Link Check
+
+# Runs separately from the main CI workflow (not on every push) because it
+# depends on ~200 external hosts staying up — folding it into the blocking
+# push/PR pipeline would make unrelated PRs fail on link rot outside this
+# repo's control. Weekly plus on-demand is enough to catch rot without that.
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+defaults:
+  run:
+    working-directory: projects/learningSite
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: projects/learningSite/package-lock.json
+
+      - run: npm ci
+
+      - name: Check external resource links
+        run: npm run check:links
