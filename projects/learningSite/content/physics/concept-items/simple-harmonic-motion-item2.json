@@ -4,7 +4,7 @@
   "type": "multiple-choice",
   "stem": {
     "en": "A mass on a spring is set oscillating with a small amplitude, then later with a much larger amplitude (still within the spring's elastic limit). How does the period of oscillation compare?",
-    "et": "Vedrul olev mass pannakse võnkuma väikese amplituudiga ja hiljem palju suurema amplituudiga (endiselt vedru elastsuse piires). Kuidas võrdlevad võnkeperioodid?",
+    "et": "Vedrul olev mass pannakse esmalt võnkuma väikese amplituudiga ja seejärel palju suurema amplituudiga (endiselt vedru elastsuse piires). Võrreldes väikese amplituudiga juhtu, milline on periood suure amplituudi korral?",
     "sourceHash": "df98b0c7761af013",
     "stale": false
   },
