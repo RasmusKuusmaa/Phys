@@ -69,6 +69,9 @@
   { "id": "lens", "en": "lens", "et": "lääts", "domain": "optics", "source": "https://sonaveeb.ee/search/unif/est/eki/lääts/1/est" },
   { "id": "focal-length", "en": "focal length", "et": "fookuskaugus", "domain": "optics", "source": "https://sonaveeb.ee/search/unif/est/eki/fookuskaugus/1/est" },
   { "id": "polarization", "en": "polarization", "et": "polarisatsioon", "domain": "optics", "source": "https://sonaveeb.ee/search/unif/est/eki/polarisatsioon/1/est" },
+  { "id": "refractive-index", "en": "refractive index", "et": "murdumisnäitaja", "domain": "optics", "source": "https://sonaveeb.ee/search/unif/est/eki/murdumisnäitaja/1/est" },
+  { "id": "angle", "en": "angle", "et": "nurk", "domain": "optics", "source": "https://sonaveeb.ee/search/unif/est/eki/nurk/1/est" },
+  { "id": "intensity", "en": "intensity", "et": "intensiivsus", "domain": "optics", "source": "https://sonaveeb.ee/search/unif/est/eki/intensiivsus/1/est" },
 
   { "id": "photon", "en": "photon", "et": "footon", "domain": "modern-physics", "source": "https://sonaveeb.ee/search/unif/est/eki/footon/1/est" },
   { "id": "quantum", "en": "quantum", "et": "kvant", "domain": "modern-physics", "source": "https://sonaveeb.ee/search/unif/est/eki/kvant/1/est" },

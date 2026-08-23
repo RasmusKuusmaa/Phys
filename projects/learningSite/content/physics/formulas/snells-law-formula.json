@@ -1,0 +1,55 @@
+{
+  "id": "snells-law-formula",
+  "conceptId": "snells-law",
+  "latex": "n_1 \\sin\\theta_1 = n_2 \\sin\\theta_2",
+  "symbols": [
+    {
+      "symbol": "n2",
+      "name": {
+        "en": "refractive index",
+        "et": "murdumisnäitaja",
+        "sourceHash": "cb91e1819d186d24",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "n1",
+      "name": {
+        "en": "refractive index",
+        "et": "murdumisnäitaja",
+        "sourceHash": "cb91e1819d186d24",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "theta1",
+      "name": {
+        "en": "angle",
+        "et": "nurk",
+        "sourceHash": "49387897bee2bee3",
+        "stale": false
+      },
+      "unit": "deg"
+    },
+    {
+      "symbol": "theta2",
+      "name": {
+        "en": "angle",
+        "et": "nurk",
+        "sourceHash": "49387897bee2bee3",
+        "stale": false
+      },
+      "unit": "deg"
+    }
+  ],
+  "solveFor": [
+    "n2",
+    "n1"
+  ],
+  "expressions": {
+    "n2": "n1*sin(theta1*3.14159265358979/180)/sin(theta2*3.14159265358979/180)",
+    "n1": "n2*sin(theta2*3.14159265358979/180)/sin(theta1*3.14159265358979/180)"
+  }
+}

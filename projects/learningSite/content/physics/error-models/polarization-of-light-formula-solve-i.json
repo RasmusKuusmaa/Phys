@@ -1,0 +1,37 @@
+{
+  "id": "polarization-of-light-formula-solve-i",
+  "formulaId": "polarization-of-light-formula",
+  "solveFor": "I",
+  "mistakes": [
+    {
+      "id": "forgot-square",
+      "description": {
+        "en": "Forgot to square the cosine.",
+        "et": "Unustas koosinuse ruutu tõstmise.",
+        "sourceHash": "209737ac96c4cbeb",
+        "stale": false
+      },
+      "expression": "I0*cos(theta*3.14159265358979/180)"
+    },
+    {
+      "id": "forgot-cosine",
+      "description": {
+        "en": "Forgot to take the cosine of the angle.",
+        "et": "Unustas nurga koosinuse võtmise.",
+        "sourceHash": "82184b1662c74e67",
+        "stale": false
+      },
+      "expression": "I0*(theta)^2"
+    },
+    {
+      "id": "used-incident-intensity-only",
+      "description": {
+        "en": "Reported the incident intensity as the transmitted intensity.",
+        "et": "Esitas läbilaskeintensiivsusena langeva valguse intensiivsuse.",
+        "sourceHash": "253dc97b79fa3056",
+        "stale": false
+      },
+      "expression": "I0"
+    }
+  ]
+}

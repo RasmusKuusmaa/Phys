@@ -1,0 +1,37 @@
+{
+  "id": "total-internal-reflection-formula-solve-n2",
+  "formulaId": "total-internal-reflection-formula",
+  "solveFor": "n2",
+  "mistakes": [
+    {
+      "id": "forgot-sine",
+      "description": {
+        "en": "Forgot to take the sine of the critical angle.",
+        "et": "Unustas piirnurga siinuse võtmise.",
+        "sourceHash": "8b8b0c1d6690c82a",
+        "stale": false
+      },
+      "expression": "n1*thetaC"
+    },
+    {
+      "id": "used-first-index-only",
+      "description": {
+        "en": "Reported the first refractive index as the second.",
+        "et": "Esitas teise murdumisnäitajana esimese väärtuse.",
+        "sourceHash": "9bf221d51a424db6",
+        "stale": false
+      },
+      "expression": "n1"
+    },
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided instead of multiplying by the sine of the critical angle.",
+        "et": "Jagas piirnurga siinusega, selle asemel et korrutada.",
+        "sourceHash": "775c6deaf3838078",
+        "stale": false
+      },
+      "expression": "n1/sin(thetaC*3.14159265358979/180)"
+    }
+  ]
+}

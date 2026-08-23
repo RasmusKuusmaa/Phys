@@ -1,0 +1,37 @@
+{
+  "id": "snells-law-formula-solve-n2",
+  "formulaId": "snells-law-formula",
+  "solveFor": "n2",
+  "mistakes": [
+    {
+      "id": "swapped-angles",
+      "description": {
+        "en": "Divided by the wrong angle's sine.",
+        "et": "Jagas vale nurga siinusega.",
+        "sourceHash": "99c4258de4473efd",
+        "stale": false
+      },
+      "expression": "n1*sin(theta2*3.14159265358979/180)/sin(theta1*3.14159265358979/180)"
+    },
+    {
+      "id": "forgot-sine",
+      "description": {
+        "en": "Forgot to take the sine of the angles.",
+        "et": "Unustas nurkade siinuse võtmise.",
+        "sourceHash": "e9114ff0d224d2a4",
+        "stale": false
+      },
+      "expression": "n1*theta1/theta2"
+    },
+    {
+      "id": "used-first-index-only",
+      "description": {
+        "en": "Reported the first refractive index as the second.",
+        "et": "Esitas teise murdumisnäitajana esimese väärtuse.",
+        "sourceHash": "9bf221d51a424db6",
+        "stale": false
+      },
+      "expression": "n1"
+    }
+  ]
+}

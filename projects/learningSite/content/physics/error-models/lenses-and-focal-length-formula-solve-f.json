@@ -1,0 +1,37 @@
+{
+  "id": "lenses-and-focal-length-formula-solve-f",
+  "formulaId": "lenses-and-focal-length-formula",
+  "solveFor": "f",
+  "mistakes": [
+    {
+      "id": "added-instead-of-reciprocal",
+      "description": {
+        "en": "Added the distances instead of their reciprocals.",
+        "et": "Liitis kaugused, selle asemel et liita nende pöördväärtused.",
+        "sourceHash": "89ff94bfade82124",
+        "stale": false
+      },
+      "expression": "1/(do + di)"
+    },
+    {
+      "id": "used-object-distance-only",
+      "description": {
+        "en": "Reported the object distance as the focal length.",
+        "et": "Esitas fookuskaugusena eseme kauguse väärtuse.",
+        "sourceHash": "ed4458587379932b",
+        "stale": false
+      },
+      "expression": "do"
+    },
+    {
+      "id": "forgot-reciprocal-of-sum",
+      "description": {
+        "en": "Forgot to take the reciprocal of the sum.",
+        "et": "Unustas summa pöördväärtuse võtmise.",
+        "sourceHash": "7470d4b1f370c847",
+        "stale": false
+      },
+      "expression": "1/do + 1/di"
+    }
+  ]
+}

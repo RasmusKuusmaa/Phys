@@ -1,0 +1,43 @@
+{
+  "id": "polarization-of-light-formula",
+  "conceptId": "polarization-of-light",
+  "latex": "I = I_0 \\cos^2\\theta",
+  "symbols": [
+    {
+      "symbol": "I",
+      "name": {
+        "en": "intensity",
+        "et": "intensiivsus",
+        "sourceHash": "d0854ad1c7e25944",
+        "stale": false
+      },
+      "unit": "W/m^2"
+    },
+    {
+      "symbol": "I0",
+      "name": {
+        "en": "intensity",
+        "et": "intensiivsus",
+        "sourceHash": "d0854ad1c7e25944",
+        "stale": false
+      },
+      "unit": "W/m^2"
+    },
+    {
+      "symbol": "theta",
+      "name": {
+        "en": "angle",
+        "et": "nurk",
+        "sourceHash": "49387897bee2bee3",
+        "stale": false
+      },
+      "unit": "deg"
+    }
+  ],
+  "solveFor": [
+    "I"
+  ],
+  "expressions": {
+    "I": "I0*(cos(theta*3.14159265358979/180))^2"
+  }
+}

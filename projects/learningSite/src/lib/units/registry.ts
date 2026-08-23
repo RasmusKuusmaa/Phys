@@ -175,6 +175,24 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ mass: 1, length: 1, time: -3, current: -1 }),
     toBase: 1,
   },
+  "1": {
+    symbol: "1",
+    name: { en: "dimensionless", et: "mõõtühikuta" },
+    dimension: dim({}),
+    toBase: 1,
+  },
+  deg: {
+    symbol: "deg",
+    name: { en: "degree", et: "kraad" },
+    dimension: dim({}),
+    toBase: 1,
+  },
+  "W/m^2": {
+    symbol: "W/m^2",
+    name: { en: "watt per square metre", et: "vatt ruutmeetri kohta" },
+    dimension: dim({ mass: 1, time: -3 }),
+    toBase: 1,
+  },
 };
 
 export function getUnit(symbol: string): UnitDefinition {

@@ -1,0 +1,33 @@
+{
+  "id": "polarization-of-light-formula-solve-i",
+  "formulaId": "polarization-of-light-formula",
+  "variables": [
+    {
+      "symbol": "I0",
+      "min": 1,
+      "max": 1000,
+      "unit": "W/m^2",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "theta",
+      "min": 0,
+      "max": 90,
+      "unit": "deg",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "I0",
+      "right": 0
+    },
+    {
+      "op": "gte",
+      "left": "theta",
+      "right": 0
+    }
+  ],
+  "solveFor": "I"
+}

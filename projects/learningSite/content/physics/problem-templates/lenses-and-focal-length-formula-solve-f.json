@@ -1,0 +1,33 @@
+{
+  "id": "lenses-and-focal-length-formula-solve-f",
+  "formulaId": "lenses-and-focal-length-formula",
+  "variables": [
+    {
+      "symbol": "do",
+      "min": 0.05,
+      "max": 5,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "di",
+      "min": 0.05,
+      "max": 5,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "do",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "di",
+      "right": 0
+    }
+  ],
+  "solveFor": "f"
+}

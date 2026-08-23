@@ -1,0 +1,45 @@
+{
+  "id": "total-internal-reflection-formula",
+  "conceptId": "total-internal-reflection",
+  "latex": "n_2 = n_1 \\sin\\theta_c",
+  "symbols": [
+    {
+      "symbol": "n2",
+      "name": {
+        "en": "refractive index",
+        "et": "murdumisnäitaja",
+        "sourceHash": "cb91e1819d186d24",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "n1",
+      "name": {
+        "en": "refractive index",
+        "et": "murdumisnäitaja",
+        "sourceHash": "cb91e1819d186d24",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "thetaC",
+      "name": {
+        "en": "angle",
+        "et": "nurk",
+        "sourceHash": "49387897bee2bee3",
+        "stale": false
+      },
+      "unit": "deg"
+    }
+  ],
+  "solveFor": [
+    "n2",
+    "n1"
+  ],
+  "expressions": {
+    "n2": "n1*sin(thetaC*3.14159265358979/180)",
+    "n1": "n2/sin(thetaC*3.14159265358979/180)"
+  }
+}

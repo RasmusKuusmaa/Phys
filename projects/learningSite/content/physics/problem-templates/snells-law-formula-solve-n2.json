@@ -1,0 +1,45 @@
+{
+  "id": "snells-law-formula-solve-n2",
+  "formulaId": "snells-law-formula",
+  "variables": [
+    {
+      "symbol": "n1",
+      "min": 1,
+      "max": 2.5,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "theta1",
+      "min": 5,
+      "max": 80,
+      "unit": "deg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "theta2",
+      "min": 5,
+      "max": 80,
+      "unit": "deg",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "n1",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "theta1",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "theta2",
+      "right": 0
+    }
+  ],
+  "solveFor": "n2"
+}
