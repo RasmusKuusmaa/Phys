@@ -29,6 +29,14 @@ jobs:
 
       - run: npm ci
 
+      - name: Generate route types
+        # `LayoutProps<"/[lang]">`/`PageProps` are ambient types Next.js
+        # writes to .next/types on build — a bare `tsc --noEmit` on a fresh
+        # checkout (no .next/ yet) fails with "Cannot find name
+        # 'LayoutProps'" without this, since Typecheck otherwise runs before
+        # the Build step below ever creates it.
+        run: npx next typegen
+
       - name: Typecheck
         run: npx tsc --noEmit
 
