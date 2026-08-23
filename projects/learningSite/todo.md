@@ -361,7 +361,7 @@ Author both locales in the same pass, never translating in a batch at the end.
   `content: add english resources for physics`
 - [ ] Curate Estonian-language resources separately from the English set
   `content: curate estonian language resources`
-- [ ] Audit the full physics prerequisite graph for gaps
+- [x] Audit the full physics prerequisite graph for gaps
   `content: audit physics prerequisite graph`
 
 ### Phase 12 — Bilingual QA
