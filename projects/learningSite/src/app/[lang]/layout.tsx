@@ -9,6 +9,7 @@ import { LocaleSwitcher } from "@/components/LocaleSwitcher";
 import { SubjectSwitcher } from "@/components/SubjectSwitcher";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { listSubjects } from "@/content/loader";
+import { getSiteUrl } from "@/lib/siteUrl";
 import Link from "next/link";
 import "../globals.css";
 
@@ -40,6 +41,11 @@ export async function generateStaticParams() {
 export async function generateMetadata(): Promise<Metadata> {
   const dict = await getDictionary();
   return {
+    // Lets every relative URL in `alternates`/`openGraph` etc. — here and in
+    // every route below this layout — resolve to a fully-qualified one.
+    // Lighthouse's hreflang audit requires absolute hrefs; a bare "/en"
+    // fails it even though browsers and crawlers both resolve it correctly.
+    metadataBase: new URL(getSiteUrl()),
     title: dict.site.name,
     description: dict.home.subheading,
     // Route-level pages (Phase 8 concept pages) must override this with

@@ -8,8 +8,12 @@
   --border: #e5e7eb;
   --accent: #2563eb;
 
-  /* Level taxonomy accents (L0-L3), used by the level badge and roadmap. */
-  --level-l0: #16a34a;
+  /* Level taxonomy accents (L0-L3), used by the level badge and roadmap.
+     L0 is green-700, not the more obvious green-600 — green-600 only hits a
+     3.3:1 contrast ratio against the badge's white text (Lighthouse
+     color-contrast audit), short of the 4.5:1 WCAG AA minimum for
+     normal-size text; green-700 clears it at 5:1. */
+  --level-l0: #15803d;
   --level-l1: #2563eb;
   --level-l2: #9333ea;
   --level-l3: #dc2626;
