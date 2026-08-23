@@ -193,6 +193,12 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ mass: 1, time: -3 }),
     toBase: 1,
   },
+  eV: {
+    symbol: "eV",
+    name: { en: "electronvolt", et: "elektronvolt" },
+    dimension: dim({ mass: 1, length: 2, time: -2 }),
+    toBase: 1.602176634e-19,
+  },
 };
 
 export function getUnit(symbol: string): UnitDefinition {

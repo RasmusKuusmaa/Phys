@@ -1,0 +1,37 @@
+{
+  "id": "quantum-energy-levels-formula-solve-e",
+  "formulaId": "quantum-energy-levels-formula",
+  "solveFor": "E",
+  "mistakes": [
+    {
+      "id": "forgot-square",
+      "description": {
+        "en": "Forgot to square the quantum number.",
+        "et": "Unustas kvantarvu ruutu tõstmise.",
+        "sourceHash": "c188c5ea92e42521",
+        "stale": false
+      },
+      "expression": "-13.6/n"
+    },
+    {
+      "id": "forgot-negative-sign",
+      "description": {
+        "en": "Forgot the negative sign.",
+        "et": "Unustas miinusmärgi.",
+        "sourceHash": "f6c21694f9f56a71",
+        "stale": false
+      },
+      "expression": "13.6/(n^2)"
+    },
+    {
+      "id": "used-thirteen-point-six-only",
+      "description": {
+        "en": "Reported the ionization energy as the level energy.",
+        "et": "Esitas nivoo energiana ionisatsioonienergia väärtuse.",
+        "sourceHash": "63897fbe7aab635e",
+        "stale": false
+      },
+      "expression": "-13.6"
+    }
+  ]
+}

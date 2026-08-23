@@ -1,0 +1,37 @@
+{
+  "id": "radioactivity-and-half-life-formula-solve-m",
+  "formulaId": "radioactivity-and-half-life-formula",
+  "solveFor": "m",
+  "mistakes": [
+    {
+      "id": "linear-decay",
+      "description": {
+        "en": "Used linear decay instead of exponential decay.",
+        "et": "Kasutas lineaarset kahanemist eksponentsiaalse asemel.",
+        "sourceHash": "2d83032181d2e82d",
+        "stale": false
+      },
+      "expression": "m0*(1 - 0.5*t/T)"
+    },
+    {
+      "id": "forgot-half-life-division",
+      "description": {
+        "en": "Forgot to divide the time by the half-life.",
+        "et": "Unustas aja poolestusajaga jagamise.",
+        "sourceHash": "9cbf05d0c59f38d3",
+        "stale": false
+      },
+      "expression": "m0*pow(0.5, t)"
+    },
+    {
+      "id": "used-initial-mass-only",
+      "description": {
+        "en": "Reported the initial mass as the remaining mass.",
+        "et": "Esitas allesjäänud massina algmassi väärtuse.",
+        "sourceHash": "aa488c06571bfb21",
+        "stale": false
+      },
+      "expression": "m0"
+    }
+  ]
+}

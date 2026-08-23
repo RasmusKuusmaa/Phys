@@ -1,0 +1,45 @@
+{
+  "id": "radioactivity-and-half-life-formula-solve-m",
+  "formulaId": "radioactivity-and-half-life-formula",
+  "variables": [
+    {
+      "symbol": "m0",
+      "min": 0.001,
+      "max": 10,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "t",
+      "min": 1,
+      "max": 100,
+      "unit": "s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "T",
+      "min": 1,
+      "max": 50,
+      "unit": "s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "m0",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "t",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "T",
+      "right": 0
+    }
+  ],
+  "solveFor": "m"
+}

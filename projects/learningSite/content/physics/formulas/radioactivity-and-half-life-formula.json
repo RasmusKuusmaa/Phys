@@ -1,0 +1,57 @@
+{
+  "id": "radioactivity-and-half-life-formula",
+  "conceptId": "radioactivity-and-half-life",
+  "latex": "m = m_0 \\left(\\frac{1}{2}\\right)^{t/T}",
+  "symbols": [
+    {
+      "symbol": "m",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    },
+    {
+      "symbol": "m0",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    },
+    {
+      "symbol": "t",
+      "name": {
+        "en": "time",
+        "et": "aeg",
+        "sourceHash": "336074805fc85398",
+        "stale": false
+      },
+      "unit": "s"
+    },
+    {
+      "symbol": "T",
+      "name": {
+        "en": "half-life",
+        "et": "poolestusaeg",
+        "sourceHash": "02c545db43902bab",
+        "stale": false
+      },
+      "unit": "s"
+    }
+  ],
+  "solveFor": [
+    "m",
+    "t",
+    "T"
+  ],
+  "expressions": {
+    "m": "m0*pow(0.5, t/T)",
+    "t": "T*ln(m/m0)/ln(0.5)",
+    "T": "t*ln(0.5)/ln(m/m0)"
+  }
+}

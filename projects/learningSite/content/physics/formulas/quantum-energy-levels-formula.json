@@ -1,0 +1,35 @@
+{
+  "id": "quantum-energy-levels-formula",
+  "conceptId": "quantum-energy-levels",
+  "latex": "E_n = -\\frac{13.6\\ \\text{eV}}{n^2}",
+  "symbols": [
+    {
+      "symbol": "E",
+      "name": {
+        "en": "energy",
+        "et": "energia",
+        "sourceHash": "381cfb6e1e428419",
+        "stale": false
+      },
+      "unit": "eV"
+    },
+    {
+      "symbol": "n",
+      "name": {
+        "en": "quantum",
+        "et": "kvant",
+        "sourceHash": "8fb7cf7a46995c95",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "E",
+    "n"
+  ],
+  "expressions": {
+    "E": "-13.6/(n^2)",
+    "n": "sqrt(-13.6/E)"
+  }
+}

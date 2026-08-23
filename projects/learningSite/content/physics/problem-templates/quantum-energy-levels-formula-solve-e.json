@@ -1,0 +1,21 @@
+{
+  "id": "quantum-energy-levels-formula-solve-e",
+  "formulaId": "quantum-energy-levels-formula",
+  "variables": [
+    {
+      "symbol": "n",
+      "min": 1,
+      "max": 6,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "n",
+      "right": 0
+    }
+  ],
+  "solveFor": "E"
+}
