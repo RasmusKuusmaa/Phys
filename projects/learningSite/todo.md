@@ -381,23 +381,23 @@ Author both locales in the same pass, never translating in a batch at the end.
 
 ### Phase 13 — Ship
 
-- [ ] Build the landing page with copy written natively in both locales
+- [x] Build the landing page with copy written natively in both locales
   `feat: add landing page copy in both locales`
-- [ ] Add global search indexing both locales independently
+- [x] Add global search indexing both locales independently
   `feat: index both locales in global search`
-- [ ] Add a 404 page suggesting related concepts
+- [x] Add a 404 page suggesting related concepts
   `feat: add helpful 404 page`
-- [ ] Add a link checker for external resources in CI
+- [x] Add a link checker for external resources in CI
   `ci: add external link checker`
-- [ ] Run a Lighthouse pass and fix findings
+- [x] Run a Lighthouse pass and fix findings
   `perf: address lighthouse findings`
-- [ ] Emit localised sitemaps with hreflang alternates
+- [x] Emit localised sitemaps with hreflang alternates
   `feat: add localised sitemaps with hreflang`
-- [ ] Add cookieless analytics
+- [x] Add cookieless analytics
   `feat: add cookieless analytics`
 - [x] Deploy to Vercel and configure the domain
   `chore: deploy to vercel`
-- [ ] Write README and content contribution guide
+- [x] Write README and content contribution guide
   `docs: add readme and contribution guide`
 
 ### Phase 14 — Remaining subjects
