@@ -79,6 +79,9 @@ export default async function RootLayout({
             <span className="text-lg font-semibold">{dict.site.name}</span>
             <nav className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
               {subjects.length > 0 && <SubjectSwitcher subjects={subjects} locale={locale} />}
+              <Link href={`/${locale}/search`} className="text-muted hover:text-foreground">
+                {dict.nav.search}
+              </Link>
               <Link href={`/${locale}/roadmap`} className="text-muted hover:text-foreground">
                 {dict.nav.roadmap}
               </Link>

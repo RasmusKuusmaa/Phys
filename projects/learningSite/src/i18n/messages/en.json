@@ -10,7 +10,8 @@
     "formulas": "Formulas",
     "glossary": "Glossary",
     "practice": "Practice",
-    "progress": "Progress"
+    "progress": "Progress",
+    "search": "Search"
   },
   "localeSwitcher": {
     "label": "Language"
@@ -21,6 +22,14 @@
   },
   "footer": {
     "builtWith": "Built with Next.js, Tailwind and KaTeX."
+  },
+  "search": {
+    "heading": "Search",
+    "placeholder": "Search concepts, formulas and terms",
+    "noResults": "Nothing matches",
+    "typeConcept": "Concept",
+    "typeFormula": "Formula",
+    "typeGlossary": "Glossary term"
   },
   "notFound": {
     "heading": "Page not found",

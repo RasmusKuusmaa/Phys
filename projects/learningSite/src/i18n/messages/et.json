@@ -10,7 +10,8 @@
     "formulas": "Valemid",
     "glossary": "Sõnastik",
     "practice": "Harjutused",
-    "progress": "Edenemine"
+    "progress": "Edenemine",
+    "search": "Otsing"
   },
   "localeSwitcher": {
     "label": "Keel"
@@ -21,6 +22,14 @@
   },
   "footer": {
     "builtWith": "Ehitatud Next.js, Tailwindi ja KaTeXiga."
+  },
+  "search": {
+    "heading": "Otsing",
+    "placeholder": "Otsi mõisteid, valemeid ja termineid",
+    "noResults": "Midagi ei leitud",
+    "typeConcept": "Mõiste",
+    "typeFormula": "Valem",
+    "typeGlossary": "Sõnastiku termin"
   },
   "notFound": {
     "heading": "Lehte ei leitud",
