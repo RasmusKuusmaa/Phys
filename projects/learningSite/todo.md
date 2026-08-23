@@ -395,7 +395,7 @@ Author both locales in the same pass, never translating in a batch at the end.
   `feat: add localised sitemaps with hreflang`
 - [ ] Add cookieless analytics
   `feat: add cookieless analytics`
-- [ ] Deploy to Vercel and configure the domain
+- [x] Deploy to Vercel and configure the domain
   `chore: deploy to vercel`
 - [ ] Write README and content contribution guide
   `docs: add readme and contribution guide`

@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FKM Kompass
 
-## Getting Started
+A bilingual (English / Estonian) reference and practice site for physics,
+mathematics, chemistry and materials science — built subject by subject,
+physics first. Static, no accounts, no backend, no AI at runtime: problem
+generation, grading and unit checking all run in the learner's browser
+against content that's fully validated at build time.
 
-First, run the development server:
+See [`todo.md`](./todo.md) for the full build specification and phase-by-phase
+status, and [`DECISIONS.md`](./DECISIONS.md) for scope, taxonomy and policy
+decisions recorded as they were made.
+
+## Stack
+
+- Next.js App Router, TypeScript, Tailwind v4
+- Content as MDX + JSON in `content/`, validated with [Zod](https://zod.dev)
+  schemas in `src/schema/` at build time
+- [KaTeX](https://katex.org) for math, rendered server-side — no math library
+  ships to the client
+- [Vitest](https://vitest.dev) for unit tests (formula engine, parser,
+  distractors)
+- Deployed on [Vercel](https://vercel.com)
+
+## Getting started
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000). The root path redirects
+to `/en`; swap the locale segment for `/et` to browse the Estonian site.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Script | What it does |
+| --- | --- |
+| `npm run dev` | Start the Next.js dev server |
+| `npm run build` | Production build (also runs content validation as part of the build) |
+| `npm test` | Run the Vitest unit test suite |
+| `npm run lint` | ESLint |
+| `npm run validate:content` | Validate every content JSON file against its Zod schema; checks prerequisite references, cycles, bilingual completeness, resource coverage and staleness |
+| `npm run lint:terminology` | Lint Estonian content against the glossary's banned-variant list, and flag formula symbol names with no glossary entry |
+| `npm run content:hash` | Recompute `sourceHash` on every `LocalisedString` and flag any English text that changed since its Estonian translation was last synced |
+| `npm run content:stale-report` | List every currently-stale translation without changing anything |
 
-## Learn More
+CI (`.github/workflows/learningsite-ci.yml`, repo root) runs typecheck, lint,
+terminology lint, content validation, unit tests and a full build on every
+push and pull request that touches this project.
 
-To learn more about Next.js, take a look at the following resources:
+## Contributing content
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for how to add or edit concepts,
+formulas, misconceptions, test items and resources — including the bilingual
+policy that both locales must ship together, and the terminology rules that
+keep Estonian physics vocabulary consistent across the site.

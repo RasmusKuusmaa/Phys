@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Fraunces, Geist, Geist_Mono } from "next/font/google";
 import { lang } from "next/root-params";
 import { notFound } from "next/navigation";
+import { Analytics } from "@vercel/analytics/next";
 import { isLocale, locales } from "@/i18n/locales";
 import { getDictionary } from "@/i18n/dictionaries";
 import { LocaleSwitcher } from "@/components/LocaleSwitcher";
@@ -106,6 +107,7 @@ export default async function RootLayout({
             {dict.footer.builtWith}
           </div>
         </footer>
+        <Analytics />
       </body>
     </html>
   );

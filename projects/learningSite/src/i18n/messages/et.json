@@ -22,6 +22,11 @@
   "footer": {
     "builtWith": "Ehitatud Next.js, Tailwindi ja KaTeXiga."
   },
+  "notFound": {
+    "heading": "Lehte ei leitud",
+    "message": "Seda lehte ei ole olemas või on see teisaldatud. Siin on mõned mõisted, millest alustada:",
+    "roadmapCta": "Sirvi kogu õpiteed"
+  },
   "workedSolution": {
     "substituting": "Väärtuste asendamine:",
     "result": "Tulemus:"

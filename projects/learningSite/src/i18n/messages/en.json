@@ -22,6 +22,11 @@
   "footer": {
     "builtWith": "Built with Next.js, Tailwind and KaTeX."
   },
+  "notFound": {
+    "heading": "Page not found",
+    "message": "That page doesn't exist, or has moved. Here are a few concepts to get you started instead:",
+    "roadmapCta": "Browse the full roadmap"
+  },
   "workedSolution": {
     "substituting": "Substituting the values:",
     "result": "Result:"
