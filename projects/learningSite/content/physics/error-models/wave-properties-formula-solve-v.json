@@ -1,0 +1,37 @@
+{
+  "id": "wave-properties-formula-solve-v",
+  "formulaId": "wave-properties-formula",
+  "solveFor": "v",
+  "mistakes": [
+    {
+      "id": "forgot-frequency",
+      "description": {
+        "en": "Forgot to multiply by the frequency.",
+        "et": "Unustas sagedusega korrutamise.",
+        "sourceHash": "e5898694c17bffe5",
+        "stale": false
+      },
+      "expression": "lambda"
+    },
+    {
+      "id": "forgot-wavelength",
+      "description": {
+        "en": "Forgot to multiply by the wavelength.",
+        "et": "Unustas lainepikkusega korrutamise.",
+        "sourceHash": "c38def879573f6d4",
+        "stale": false
+      },
+      "expression": "f"
+    },
+    {
+      "id": "divided-instead-of-multiplied",
+      "description": {
+        "en": "Divided the frequency by the wavelength instead of multiplying.",
+        "et": "Jagas sageduse lainepikkusega, selle asemel et korrutada.",
+        "sourceHash": "62e268d0ea758903",
+        "stale": false
+      },
+      "expression": "f/lambda"
+    }
+  ]
+}

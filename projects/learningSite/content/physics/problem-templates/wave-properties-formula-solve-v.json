@@ -1,0 +1,33 @@
+{
+  "id": "wave-properties-formula-solve-v",
+  "formulaId": "wave-properties-formula",
+  "variables": [
+    {
+      "symbol": "f",
+      "min": 1,
+      "max": 1000,
+      "unit": "Hz",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "lambda",
+      "min": 0.01,
+      "max": 10,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "f",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "lambda",
+      "right": 0
+    }
+  ],
+  "solveFor": "v"
+}

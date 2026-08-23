@@ -1,0 +1,47 @@
+{
+  "id": "wave-properties-formula",
+  "conceptId": "wave-properties",
+  "latex": "v = f\\lambda",
+  "symbols": [
+    {
+      "symbol": "v",
+      "name": {
+        "en": "speed",
+        "et": "kiirus",
+        "sourceHash": "bbccb9c002d5ed59",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "f",
+      "name": {
+        "en": "frequency",
+        "et": "sagedus",
+        "sourceHash": "2e9089fefc7aaa5c",
+        "stale": false
+      },
+      "unit": "Hz"
+    },
+    {
+      "symbol": "lambda",
+      "name": {
+        "en": "wavelength",
+        "et": "lainepikkus",
+        "sourceHash": "cbf73350941bee0f",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "v",
+    "f",
+    "lambda"
+  ],
+  "expressions": {
+    "v": "f*lambda",
+    "f": "v/lambda",
+    "lambda": "v/f"
+  }
+}

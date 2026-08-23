@@ -121,6 +121,18 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ mass: 1, length: 2, time: -2, temperature: -1 }),
     toBase: 1,
   },
+  Hz: {
+    symbol: "Hz",
+    name: { en: "hertz", et: "herts" },
+    dimension: dim({ time: -1 }),
+    toBase: 1,
+  },
+  "N/m": {
+    symbol: "N/m",
+    name: { en: "newton per metre", et: "njuuton meetri kohta" },
+    dimension: dim({ mass: 1, time: -2 }),
+    toBase: 1,
+  },
 };
 
 export function getUnit(symbol: string): UnitDefinition {

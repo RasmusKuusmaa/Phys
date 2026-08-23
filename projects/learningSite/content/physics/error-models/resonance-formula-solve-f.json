@@ -1,0 +1,37 @@
+{
+  "id": "resonance-formula-solve-f",
+  "formulaId": "resonance-formula",
+  "solveFor": "f",
+  "mistakes": [
+    {
+      "id": "forgot-two-pi",
+      "description": {
+        "en": "Forgot to divide by two pi.",
+        "et": "Unustas kahekordse piiga jagamise.",
+        "sourceHash": "28b6bb67df2ee3df",
+        "stale": false
+      },
+      "expression": "sqrt(k/m)"
+    },
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Multiplied by the mass instead of dividing.",
+        "et": "Korrutas massiga, selle asemel et jagada.",
+        "sourceHash": "3f65aba0ed4beab1",
+        "stale": false
+      },
+      "expression": "(1/(2*3.14159265358979))*sqrt(k*m)"
+    },
+    {
+      "id": "forgot-sqrt",
+      "description": {
+        "en": "Forgot to take the square root.",
+        "et": "Unustas ruutjuure võtmise.",
+        "sourceHash": "a78bc5b138f60614",
+        "stale": false
+      },
+      "expression": "(1/(2*3.14159265358979))*(k/m)"
+    }
+  ]
+}

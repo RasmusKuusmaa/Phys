@@ -1,0 +1,37 @@
+{
+  "id": "standing-waves-formula-solve-f",
+  "formulaId": "standing-waves-formula",
+  "solveFor": "f",
+  "mistakes": [
+    {
+      "id": "forgot-factor-of-two",
+      "description": {
+        "en": "Forgot the factor of two in the denominator.",
+        "et": "Unustas nimetajas oleva teguri kaks.",
+        "sourceHash": "18c005681594bd6d",
+        "stale": false
+      },
+      "expression": "v/L"
+    },
+    {
+      "id": "used-length-only",
+      "description": {
+        "en": "Reported the string length as the frequency.",
+        "et": "Esitas sagedusena keele pikkuse väärtuse.",
+        "sourceHash": "f7045cf2c99fc0fd",
+        "stale": false
+      },
+      "expression": "L"
+    },
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided the length by the speed instead of the reverse.",
+        "et": "Jagas pikkuse kiirusega, vastupidise asemel.",
+        "sourceHash": "15b110ddad02b04e",
+        "stale": false
+      },
+      "expression": "(2*L)/v"
+    }
+  ]
+}

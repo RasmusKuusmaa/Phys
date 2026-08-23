@@ -1,0 +1,59 @@
+{
+  "id": "interference-and-diffraction-formula",
+  "conceptId": "interference-and-diffraction",
+  "latex": "\\Delta y = \\frac{\\lambda L}{d}",
+  "symbols": [
+    {
+      "symbol": "dy",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "lambda",
+      "name": {
+        "en": "wavelength",
+        "et": "lainepikkus",
+        "sourceHash": "cbf73350941bee0f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "d",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "dy",
+    "lambda",
+    "L",
+    "d"
+  ],
+  "expressions": {
+    "dy": "lambda*L/d",
+    "lambda": "dy*d/L",
+    "L": "dy*d/lambda",
+    "d": "lambda*L/dy"
+  }
+}

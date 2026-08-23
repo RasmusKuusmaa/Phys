@@ -1,0 +1,45 @@
+{
+  "id": "interference-and-diffraction-formula-solve-dy",
+  "formulaId": "interference-and-diffraction-formula",
+  "variables": [
+    {
+      "symbol": "lambda",
+      "min": 0.0000004,
+      "max": 0.0000007,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "L",
+      "min": 0.5,
+      "max": 3,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "d",
+      "min": 0.0001,
+      "max": 0.001,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "lambda",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "L",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "d",
+      "right": 0
+    }
+  ],
+  "solveFor": "dy"
+}

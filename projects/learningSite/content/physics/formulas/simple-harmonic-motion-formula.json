@@ -1,0 +1,35 @@
+{
+  "id": "simple-harmonic-motion-formula",
+  "conceptId": "simple-harmonic-motion",
+  "latex": "T = 2\\pi\\sqrt{\\frac{L}{g}}",
+  "symbols": [
+    {
+      "symbol": "T",
+      "name": {
+        "en": "period",
+        "et": "periood",
+        "sourceHash": "514cb13f603464f9",
+        "stale": false
+      },
+      "unit": "s"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "T",
+    "L"
+  ],
+  "expressions": {
+    "T": "2*3.14159265358979*sqrt(L/9.8)",
+    "L": "9.8*(T/(2*3.14159265358979))^2"
+  }
+}

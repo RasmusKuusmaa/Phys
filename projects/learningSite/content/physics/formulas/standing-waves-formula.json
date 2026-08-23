@@ -1,0 +1,47 @@
+{
+  "id": "standing-waves-formula",
+  "conceptId": "standing-waves",
+  "latex": "f = \\frac{v}{2L}",
+  "symbols": [
+    {
+      "symbol": "f",
+      "name": {
+        "en": "frequency",
+        "et": "sagedus",
+        "sourceHash": "2e9089fefc7aaa5c",
+        "stale": false
+      },
+      "unit": "Hz"
+    },
+    {
+      "symbol": "v",
+      "name": {
+        "en": "speed",
+        "et": "kiirus",
+        "sourceHash": "bbccb9c002d5ed59",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "f",
+    "v",
+    "L"
+  ],
+  "expressions": {
+    "f": "v/(2*L)",
+    "v": "f*2*L",
+    "L": "v/(2*f)"
+  }
+}

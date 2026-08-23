@@ -52,6 +52,7 @@
   { "id": "resonance", "en": "resonance", "et": "resonants", "domain": "waves", "source": "https://sonaveeb.ee/search/unif/est/eki/resonants/1/est" },
   { "id": "interference", "en": "interference", "et": "interferents", "domain": "waves", "source": "https://sonaveeb.ee/search/unif/est/eki/interferents/1/est" },
   { "id": "diffraction", "en": "diffraction", "et": "difraktsioon", "domain": "waves", "source": "https://sonaveeb.ee/search/unif/est/eki/difraktsioon/1/est" },
+  { "id": "stiffness", "en": "stiffness", "et": "jäikus", "domain": "waves", "source": "https://sonaveeb.ee/search/unif/est/eki/jäikus/1/est" },
 
   { "id": "electric-charge", "en": "electric charge", "et": "elektrilaeng", "domain": "electromagnetism", "source": "https://sonaveeb.ee/search/unif/est/eki/elektrilaeng/1/est" },
   { "id": "electric-current", "en": "electric current", "et": "elektrivool", "domain": "electromagnetism", "source": "https://sonaveeb.ee/search/unif/est/eki/elektrivool/1/est" },

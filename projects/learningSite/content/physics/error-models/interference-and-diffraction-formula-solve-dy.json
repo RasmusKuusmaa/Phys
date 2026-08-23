@@ -1,0 +1,37 @@
+{
+  "id": "interference-and-diffraction-formula-solve-dy",
+  "formulaId": "interference-and-diffraction-formula",
+  "solveFor": "dy",
+  "mistakes": [
+    {
+      "id": "forgot-distance-to-screen",
+      "description": {
+        "en": "Forgot to multiply by the distance to the screen.",
+        "et": "Unustas ekraanikauguse korrutamise.",
+        "sourceHash": "9a1d30366fcd7689",
+        "stale": false
+      },
+      "expression": "lambda/d"
+    },
+    {
+      "id": "forgot-slit-separation-division",
+      "description": {
+        "en": "Forgot to divide by the slit separation.",
+        "et": "Unustas pilude vahekaugusega jagamise.",
+        "sourceHash": "697e0020a132c58a",
+        "stale": false
+      },
+      "expression": "lambda*L"
+    },
+    {
+      "id": "used-wavelength-only",
+      "description": {
+        "en": "Reported the wavelength as the fringe spacing.",
+        "et": "Esitas triibulaiuseks lainepikkuse väärtuse.",
+        "sourceHash": "63b044118924df51",
+        "stale": false
+      },
+      "expression": "lambda"
+    }
+  ]
+}

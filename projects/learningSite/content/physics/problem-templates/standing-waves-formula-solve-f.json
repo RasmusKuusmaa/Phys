@@ -1,0 +1,33 @@
+{
+  "id": "standing-waves-formula-solve-f",
+  "formulaId": "standing-waves-formula",
+  "variables": [
+    {
+      "symbol": "v",
+      "min": 100,
+      "max": 400,
+      "unit": "m/s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "L",
+      "min": 0.2,
+      "max": 2,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "v",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "L",
+      "right": 0
+    }
+  ],
+  "solveFor": "f"
+}

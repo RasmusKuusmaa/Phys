@@ -1,0 +1,33 @@
+{
+  "id": "resonance-formula-solve-f",
+  "formulaId": "resonance-formula",
+  "variables": [
+    {
+      "symbol": "k",
+      "min": 10,
+      "max": 500,
+      "unit": "N/m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "m",
+      "min": 0.1,
+      "max": 5,
+      "unit": "kg",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "k",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "m",
+      "right": 0
+    }
+  ],
+  "solveFor": "f"
+}
