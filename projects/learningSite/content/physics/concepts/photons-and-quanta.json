@@ -16,6 +16,6 @@
     "stale": false
   },
   "prerequisites": [
-    "electromagnetic-waves"
+    "wave-properties"
   ]
 }
