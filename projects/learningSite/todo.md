@@ -366,17 +366,17 @@ Author both locales in the same pass, never translating in a batch at the end.
 
 ### Phase 12 — Bilingual QA
 
-- [ ] Review all Estonian concept text against the glossary
+- [x] Review all Estonian concept text against the glossary
   `content: review estonian terminology across concepts`
-- [ ] Revise Estonian misconception text that reads as calqued
+- [x] Revise Estonian misconception text that reads as calqued
   `content: revise calqued estonian misconception text`
-- [ ] Fix Estonian test item stems that are grammatical only in English word order
+- [x] Fix Estonian test item stems that are grammatical only in English word order
   `content: fix estonian test item grammar`
-- [ ] Cross-check level names against the Estonian education system
+- [x] Cross-check level names against the Estonian education system
   `content: align level names with estonian system`
-- [ ] Read every concept page in Estonian end to end
+- [x] Read every concept page in Estonian end to end
   `content: final estonian proofread pass`
-- [ ] Read every concept page in English end to end
+- [x] Read every concept page in English end to end
   `content: final english proofread pass`
 
 ### Phase 13 — Ship
