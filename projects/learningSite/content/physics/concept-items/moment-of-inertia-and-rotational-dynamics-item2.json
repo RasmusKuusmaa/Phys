@@ -1,0 +1,56 @@
+{
+  "id": "moment-of-inertia-and-rotational-dynamics-item2",
+  "conceptId": "moment-of-inertia-and-rotational-dynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The same rod is spun first about its centre, then about one end. What happens to its moment of inertia?",
+    "et": "Sama varrast pööratakse kõigepealt ümber keskme, siis ümber ühe otsa. Mis juhtub selle inertsimomendiga?",
+    "sourceHash": "714e034d94f801da",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is larger about the end, since more of the mass is then far from the axis",
+        "et": "Ümber otsa on see suurem, sest siis on suurem osa massist teljest kaugel",
+        "sourceHash": "10d74a273f238ba5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is unchanged — moment of inertia is a property of the rod alone",
+        "et": "See ei muutu — inertsimoment on ainult varda enda omadus",
+        "sourceHash": "e53e32c7ee274f33",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "moment-of-inertia-and-rotational-dynamics-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is larger about the centre, since the axis passes through the most mass there",
+        "et": "Ümber keskme on see suurem, sest telg läbib seal kõige rohkem massi",
+        "sourceHash": "78fd88e7d04d902a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "moment-of-inertia-and-rotational-dynamics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends only on the rod's mass, which has not changed",
+        "et": "See sõltub ainult varda massist, mis ei ole muutunud",
+        "sourceHash": "5fef23f11ef79c63",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "moment-of-inertia-and-rotational-dynamics-m1"
+    }
+  ]
+}

@@ -29,7 +29,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "kirchhoffs-laws-and-circuit-analysis",
     "lagrangian-mechanics",
     "maxwells-equations",
-    "moment-of-inertia-and-rotational-dynamics",
     "particle-in-a-box",
     "pascals-principle-and-hydraulics",
     "pressure-in-fluids",

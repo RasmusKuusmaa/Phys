@@ -1,0 +1,56 @@
+{
+  "id": "moment-of-inertia-and-rotational-dynamics-item1",
+  "conceptId": "moment-of-inertia-and-rotational-dynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A solid disc and a hoop have the same mass and radius and turn about their centres. Which needs more torque to reach a given angular acceleration?",
+    "et": "Massiivsel kettal ja rõngal on sama mass ja raadius ning need pöörlevad ümber oma keskme. Kumb vajab etteantud nurkkiirenduse saavutamiseks suuremat jõumomenti?",
+    "sourceHash": "c46cd3c69dd06274",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The hoop, because its mass sits further from the axis, giving it a larger moment of inertia",
+        "et": "Rõngas, sest selle mass paikneb teljest kaugemal, andes suurema inertsimomendi",
+        "sourceHash": "4ba32be3b8701759",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Neither — equal masses need equal torques for equal angular accelerations",
+        "et": "Kumbki mitte — võrdsed massid vajavad võrdsete nurkkiirenduste jaoks võrdseid jõumomente",
+        "sourceHash": "d47ce0ffedc24652",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "moment-of-inertia-and-rotational-dynamics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The disc, because a solid body always resists turning more than a hollow one",
+        "et": "Ketas, sest massiivne keha takistab pöörlemist alati rohkem kui õõnes keha",
+        "sourceHash": "a4402a6aa74cc0e2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "moment-of-inertia-and-rotational-dynamics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends only on the radius, which is the same, so the two behave identically",
+        "et": "See sõltub ainult raadiusest, mis on sama, seega käituvad mõlemad ühtmoodi",
+        "sourceHash": "a78c110fdd0307bd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "moment-of-inertia-and-rotational-dynamics-m2"
+    }
+  ]
+}
