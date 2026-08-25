@@ -1,0 +1,56 @@
+{
+  "id": "keplers-laws-item2",
+  "conceptId": "keplers-laws",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Newton later showed that Kepler's laws could be derived from a single physical principle. What was it?",
+    "et": "Newton näitas hiljem, et Kepleri seadused saab tuletada ühestainsast füüsikalisest põhimõttest. Mis see oli?",
+    "sourceHash": "9664369a1dcf7d1a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An inverse-square gravitational force between the Sun and each planet",
+        "et": "Pöördruutseadusega gravitatsioonijõud Päikese ja iga planeedi vahel",
+        "sourceHash": "115df57224616565",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Kepler's laws remain entirely independent of Newton's law of gravitation",
+        "et": "Kepleri seadused jäävad Newtoni gravitatsiooniseadusest täiesti sõltumatuks",
+        "sourceHash": "8b050fcf2c209631",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "keplers-laws-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A force directly proportional to distance, rather than inversely related to it",
+        "et": "Jõud, mis on otseselt võrdeline kaugusega, mitte sellega pöördvõrdeline",
+        "sourceHash": "2238d1d83a8cdaab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "keplers-laws-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The constant orbital speed of every planet regardless of position",
+        "et": "Iga planeedi konstantne tiirlemiskiirus, sõltumata asukohast",
+        "sourceHash": "31ad689d1ee12597",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "keplers-laws-m3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "keplers-laws",
+  "subject": "physics",
+  "level": "L2",
+  "module": "mechanics",
+  "title": {
+    "en": "Kepler's laws of planetary motion",
+    "et": "Kepleri seadused",
+    "sourceHash": "0b777a4f22d6505b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Kepler's three laws describe planetary orbits as ellipses that sweep out equal areas in equal times, with a fixed relationship between a planet's orbital period and the size of its orbit — laws found from observation alone, later shown by Newton to follow directly from an inverse-square gravitational force.",
+    "et": "Kepleri kolm seadust kirjeldavad planeetide orbiite ellipsitena, mis pühivad võrdsetes ajavahemikes läbi võrdseid pindalasid, ja kindla seosega planeedi tiirlemisperioodi ja orbiidi suuruse vahel — seadused, mis leiti puhtalt vaatlustest ja mida Newton hiljem näitas tulenevat otse pöördruutseadusega gravitatsioonijõust.",
+    "sourceHash": "078f42c2c1df0166",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtonian-gravitation"
+  ]
+}

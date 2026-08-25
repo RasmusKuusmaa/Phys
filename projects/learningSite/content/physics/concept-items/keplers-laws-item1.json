@@ -1,0 +1,56 @@
+{
+  "id": "keplers-laws-item1",
+  "conceptId": "keplers-laws",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A planet in an elliptical orbit is closer to the Sun at one point and farther at another. According to Kepler's second law, where does it move fastest?",
+    "et": "Elliptilisel orbiidil olev planeet on ühes punktis Päikesele lähemal ja teises kaugemal. Kepleri teise seaduse järgi, kus see kõige kiiremini liigub?",
+    "sourceHash": "e0434917a207e6d9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Closest to the Sun, since equal areas swept in equal times require higher speed there",
+        "et": "Päikesele kõige lähemal, sest võrdsetes ajavahemikes läbitud võrdsed pindalad nõuavad seal suuremat kiirust",
+        "sourceHash": "64b280710b29d4ba",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Farthest from the Sun, since more distance must be covered there",
+        "et": "Päikesest kõige kaugemal, sest seal tuleb läbida rohkem vahemaad",
+        "sourceHash": "8a58975900c7a3b4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "keplers-laws-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "At exactly the same speed everywhere, since orbits are periodic",
+        "et": "Igal pool täpselt sama kiirusega, sest orbiidid on perioodilised",
+        "sourceHash": "c2bbdf26e88abf9a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "keplers-laws-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Speed cannot be determined from the shape of the orbit alone",
+        "et": "Kiirust ei saa määrata ainuüksi orbiidi kuju järgi",
+        "sourceHash": "ffa90860e63ab099",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "keplers-laws-m1"
+    }
+  ]
+}
