@@ -60,12 +60,20 @@ function countBy<T>(records: T[], key: (record: T) => string): Map<string, numbe
 }
 
 /**
- * Explanations are optional by design (a concept page degrades gracefully
- * without one), so `missing-explanation` is reported for the coverage
- * report but is not one of the blocking issue types — see `isBlocking`.
+ * Every coverage issue currently blocks the build.
+ *
+ * `missing-explanation` was advisory while the Phase 11b backlog was being
+ * cleared, since a concept page degrades gracefully without an explanation
+ * (`loadExplanation` returns null and the section is skipped). That runtime
+ * tolerance stays; the *content* requirement is now enforced, because all 79
+ * concepts have both locales and the cheapest moment to lock an invariant in
+ * is while it already holds.
+ *
+ * The function is kept as the seam for re-introducing a non-blocking class
+ * of issue rather than inlined at its one call site.
  */
-export function isBlocking(issue: CoverageIssue): boolean {
-  return issue.type !== "missing-explanation";
+export function isBlocking(_issue: CoverageIssue): boolean {
+  return true;
 }
 
 export function checkConceptCoverage(input: CoverageInput): CoverageIssue[] {

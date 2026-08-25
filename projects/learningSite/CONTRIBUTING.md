@@ -36,7 +36,7 @@ content/physics/
   misconceptions/      Misconception.ts — three-per-concept, hand-authored
   concept-items/       ConceptItem.ts   — multiple-choice / proportionality / formula-selection / ordering
   resources/           Resource.ts      — one EN + one ET curated link per concept, minimum
-  explanations/        {conceptId}-{locale}.mdx — quick-explanation prose, optional
+  explanations/        {conceptId}-{locale}.mdx — quick-explanation prose, one per locale
 content/terminology/
   glossary.json         locked EN↔ET term pairs with a source citation each
   banned-variants.json  known-wrong Estonian renderings, flagged by the linter
@@ -79,10 +79,10 @@ Then fill in, in this order:
    they point at `https://example.invalid/…` precisely so a forgotten one
    fails `npm run check:links` (see [Resources](#resources)).
 6. `explanations/{id}-en.mdx` and `explanations/{id}-et.mdx` — 2–3 short
-   paragraphs building intuition beyond the one-line summary. A missing
-   explanation degrades gracefully (the page skips that section) and is
-   reported as a warning rather than an error, but a concept page reads much
-   better with one.
+   paragraphs building intuition beyond the one-line summary. Required in
+   both locales: the *page* still degrades gracefully if one is absent
+   (`loadExplanation` returns null and the section is skipped), but
+   validation fails, so a concept can't ship without one.
 7. Run `npm run validate:content && npm run lint:terminology && npm test`.
 
 Not every concept needs a formula — purely qualitative concepts (Newton's
@@ -91,19 +91,19 @@ first law, wave-particle duality) ship without one.
 ### What "complete" means, and how it's enforced
 
 `npm run validate:content` fails on a concept that has fewer than three
-misconceptions, no concept item, no resource in either locale, a formula
-with no problem template or error model, an item option pointing at a
-misconception that doesn't exist, or any record pointing at a concept id
-that doesn't exist.
+misconceptions, no concept item, no resource in either locale, no
+explanation in either locale, a formula with no problem template or error
+model, an item option pointing at a misconception that doesn't exist, or any
+record pointing at a concept id that doesn't exist.
 
 `npm run content:coverage` prints the same requirements as a per-concept
 table (`-- --incomplete` to show only the gaps), which is the fastest way to
 see what's left to author.
 
-A concept that is knowingly mid-authoring can be listed in
-`COVERAGE_WAIVERS` (`src/content/coverageWaivers.ts`), which downgrades its
-coverage failures to warnings. Two things make that safe rather than a
-rug to sweep work under:
+The waiver list in `src/content/coverageWaivers.ts` is currently **empty**,
+so enforcement is unconditional. A concept that is knowingly mid-authoring
+can be listed there to downgrade its coverage failures to warnings. Two
+things make that safe rather than a rug to sweep work under:
 
 - A concept **not** on the list must be complete, so a newly added concept
   fails immediately unless someone deliberately waives it.

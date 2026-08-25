@@ -15,11 +15,9 @@
  *   the list can't rot silently — `validate:content` fails on stale waivers.
  */
 export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
-  physics: [
-    // Phase 11b — bachelor-core depth. Concepts, formulas, problem templates,
-    // error models and resources are in; misconceptions, concept items and
-    // explanations are still being authored module by module. See todo.md.
-  ],
+  // Empty, and worth keeping that way: physics cleared its Phase 11b backlog,
+  // so every concept in the repo is currently complete and enforcement is
+  // unconditional. Add a subject key only while actively authoring one.
 };
 
 export function waivedConcepts(subject: string): Set<string> {
