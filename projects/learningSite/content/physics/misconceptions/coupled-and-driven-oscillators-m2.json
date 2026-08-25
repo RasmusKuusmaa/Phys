@@ -1,0 +1,10 @@
+{
+  "id": "coupled-and-driven-oscillators-m2",
+  "conceptId": "coupled-and-driven-oscillators",
+  "text": {
+    "en": "Two coupled oscillators simply keep their own separate frequencies and do not affect each other.",
+    "et": "Kaks seotud võnkurit lihtsalt säilitavad omaenda sagedused ega mõjuta teineteist.",
+    "sourceHash": "2da56be4e4103db7",
+    "stale": false
+  }
+}

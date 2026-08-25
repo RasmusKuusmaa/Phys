@@ -22,7 +22,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "ac-circuits-and-impedance",
     "bernoullis-equation",
     "buoyancy-and-archimedes-principle",
-    "coupled-and-driven-oscillators",
     "fluid-continuity-and-flow-rate",
     "free-energy-and-spontaneity",
     "heisenberg-uncertainty-principle",

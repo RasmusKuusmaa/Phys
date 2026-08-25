@@ -1,0 +1,56 @@
+{
+  "id": "coupled-and-driven-oscillators-item2",
+  "conceptId": "coupled-and-driven-oscillators",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two identical pendulums hang from a shared flexible bar. One is set swinging and the other is at rest. What is observed?",
+    "et": "Kaks identset pendlit ripuvad ühisel painduval latil. Üks pannakse kiikuma ja teine on paigal. Mida täheldatakse?",
+    "sourceHash": "79c6af8f06d84c86",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Energy passes back and forth between them, because the coupling creates shared normal modes",
+        "et": "Energia kandub nende vahel edasi-tagasi, sest sidestus loob ühised normaalmoodid",
+        "sourceHash": "d0216d3d09a86cb2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The first keeps swinging alone; coupled oscillators keep entirely separate motions",
+        "et": "Esimene kiigub üksi edasi; seotud võnkuritel on täiesti eraldi liikumine",
+        "sourceHash": "3aba61966b656b1d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coupled-and-driven-oscillators-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing happens unless the bar is driven with a very large force",
+        "et": "Midagi ei juhtu, kui latti ei sunnita väga suure jõuga",
+        "sourceHash": "469675a9978e3bca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coupled-and-driven-oscillators-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both immediately swing exactly in step with each other and stay that way",
+        "et": "Mõlemad hakkavad kohe täpselt ühes taktis kiikuma ja jäävad nii",
+        "sourceHash": "d84423b45e390a46",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coupled-and-driven-oscillators-m3"
+    }
+  ]
+}

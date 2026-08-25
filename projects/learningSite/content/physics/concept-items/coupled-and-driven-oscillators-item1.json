@@ -1,0 +1,56 @@
+{
+  "id": "coupled-and-driven-oscillators-item1",
+  "conceptId": "coupled-and-driven-oscillators",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A lightly damped oscillator is driven at exactly its natural frequency by a small periodic force. What happens to its amplitude?",
+    "et": "Nõrgalt sumbuvat võnkurit sunnib väike perioodiline jõud täpselt selle omasagedusel. Mis juhtub selle amplituudiga?",
+    "sourceHash": "322f28979ca009b4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It grows to a large value, limited only by the damping, because each push adds energy in phase",
+        "et": "See kasvab suureks, olles piiratud ainult sumbuvusega, sest iga tõuge lisab energiat samas faasis",
+        "sourceHash": "bc989b69aeaefdd0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It stays small, since a small force can only ever produce a small amplitude",
+        "et": "See jääb väikeseks, sest väike jõud saab tekitada ainult väikese amplituudi",
+        "sourceHash": "6126aa5141be7c30",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coupled-and-driven-oscillators-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stays exactly in step with the driver, so no energy builds up",
+        "et": "See jääb sundijaga täpselt ühte takti, seega energiat ei kogune",
+        "sourceHash": "fd3ccf6c573d4c0a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coupled-and-driven-oscillators-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It splits into two independent frequencies that ignore each other",
+        "et": "See jaguneb kaheks sõltumatuks sageduseks, mis teineteist ei mõjuta",
+        "sourceHash": "390ae56dd3bb6261",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coupled-and-driven-oscillators-m2"
+    }
+  ]
+}
