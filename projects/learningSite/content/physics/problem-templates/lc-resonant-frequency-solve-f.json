@@ -1,0 +1,33 @@
+{
+  "id": "lc-resonant-frequency-solve-f",
+  "formulaId": "lc-resonant-frequency-formula",
+  "variables": [
+    {
+      "symbol": "L",
+      "min": 0.001,
+      "max": 1,
+      "unit": "H",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "C",
+      "min": 1e-9,
+      "max": 0.0001,
+      "unit": "F",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "L",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "C",
+      "right": 0
+    }
+  ],
+  "solveFor": "f"
+}

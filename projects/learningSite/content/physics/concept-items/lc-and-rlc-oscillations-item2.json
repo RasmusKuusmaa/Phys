@@ -1,0 +1,56 @@
+{
+  "id": "lc-and-rlc-oscillations-item2",
+  "conceptId": "lc-and-rlc-oscillations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The inductance in an LC circuit is increased while the capacitance stays fixed. What happens to the resonant frequency?",
+    "et": "LC-ahela induktiivsust suurendatakse, mahtuvust muutmata. Mis juhtub resonantssagedusega?",
+    "sourceHash": "3fd1307e9dbf7a0a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It falls — resonant frequency is inversely related to the square root of inductance",
+        "et": "See langeb — resonantssagedus on pöördvõrdeline induktiivsuse ruutjuurega",
+        "sourceHash": "385adf4448991c42",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It rises, since a larger inductance was expected to speed up the oscillation",
+        "et": "See tõuseb, sest suurem induktiivsus pidi ootuspäraselt võnkumist kiirendama",
+        "sourceHash": "b7761528487fb483",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lc-and-rlc-oscillations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, since frequency depends only on capacitance",
+        "et": "See ei muutu, sest sagedus sõltub ainult mahtuvusest",
+        "sourceHash": "031fe68b3b727933",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lc-and-rlc-oscillations-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The circuit stops oscillating altogether once inductance changes",
+        "et": "Ahel lakkab täielikult võnkumast, kui induktiivsus muutub",
+        "sourceHash": "2d16a6d453b068d7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lc-and-rlc-oscillations-m3"
+    }
+  ]
+}

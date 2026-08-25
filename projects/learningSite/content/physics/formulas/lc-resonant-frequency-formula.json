@@ -1,0 +1,47 @@
+{
+  "id": "lc-resonant-frequency-formula",
+  "conceptId": "lc-and-rlc-oscillations",
+  "latex": "f = \\frac{1}{2\\pi\\sqrt{LC}}",
+  "symbols": [
+    {
+      "symbol": "f",
+      "name": {
+        "en": "frequency",
+        "et": "sagedus",
+        "sourceHash": "2e9089fefc7aaa5c",
+        "stale": false
+      },
+      "unit": "Hz"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "inductance",
+        "et": "induktiivsus",
+        "sourceHash": "d0e0b70173324474",
+        "stale": false
+      },
+      "unit": "H"
+    },
+    {
+      "symbol": "C",
+      "name": {
+        "en": "capacitance",
+        "et": "mahtuvus",
+        "sourceHash": "74badef58b2f2c06",
+        "stale": false
+      },
+      "unit": "F"
+    }
+  ],
+  "solveFor": [
+    "f",
+    "L",
+    "C"
+  ],
+  "expressions": {
+    "f": "1/(6.283185307*sqrt(L*C))",
+    "L": "1/(C*(2*3.14159265358979*f)^2)",
+    "C": "1/(L*(2*3.14159265358979*f)^2)"
+  }
+}

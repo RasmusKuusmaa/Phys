@@ -1,0 +1,56 @@
+{
+  "id": "lc-and-rlc-oscillations-item1",
+  "conceptId": "lc-and-rlc-oscillations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A charged capacitor is connected directly to an inductor, with no battery in the circuit. What happens?",
+    "et": "Laetud kondensaator ühendatakse otse induktiivpooliga, ahelas akut kasutamata. Mis juhtub?",
+    "sourceHash": "0cce4f8c7f84283a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The charge and current oscillate back and forth at a fixed frequency set by L and C",
+        "et": "Laeng ja vool võnguvad edasi-tagasi kindlal sagedusel, mille määravad L ja C",
+        "sourceHash": "dfd66cbf1cf85dd2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing — oscillation requires an external driving voltage to sustain it",
+        "et": "Mitte midagi — võnkumine vajab jätkumiseks välist sundivat pinget",
+        "sourceHash": "8d512f79170ebb24",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lc-and-rlc-oscillations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The capacitor discharges once through the inductor and the circuit goes still",
+        "et": "Kondensaator tühjeneb üks kord läbi induktiivpooli ja ahel jääb vaikseks",
+        "sourceHash": "13f19c4c403bdd12",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lc-and-rlc-oscillations-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The current rises to a steady value and stays there, as in a resistor circuit",
+        "et": "Vool tõuseb püsivale väärtusele ja jääb sinna, nagu takistiahelas",
+        "sourceHash": "eb39a471051a4b05",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lc-and-rlc-oscillations-m1"
+    }
+  ]
+}

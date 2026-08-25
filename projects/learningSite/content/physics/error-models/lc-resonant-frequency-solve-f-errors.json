@@ -1,0 +1,38 @@
+{
+  "id": "lc-resonant-frequency-solve-f-errors",
+  "formulaId": "lc-resonant-frequency-formula",
+  "solveFor": "f",
+  "mistakes": [
+    {
+      "id": "forgot-sqrt",
+      "description": {
+        "en": "Omitted the square root over LC.",
+        "et": "Jättis LC pealt ruutjuure võtmata.",
+        "sourceHash": "e17d88b593de331f",
+        "stale": false
+      },
+      "expression": "1/(6.283185307*L*C)",
+      "misconceptionId": "lc-and-rlc-oscillations-m2"
+    },
+    {
+      "id": "forgot-2pi",
+      "description": {
+        "en": "Omitted the factor of 2π entirely.",
+        "et": "Jättis teguri 2π täielikult välja.",
+        "sourceHash": "59942d3968255a87",
+        "stale": false
+      },
+      "expression": "1/sqrt(L*C)"
+    },
+    {
+      "id": "inverted-lc",
+      "description": {
+        "en": "Multiplied by the square root of LC instead of dividing.",
+        "et": "Korrutas LC ruutjuurega, selle asemel et jagada.",
+        "sourceHash": "45faf3062b8f445b",
+        "stale": false
+      },
+      "expression": "6.283185307*sqrt(L*C)"
+    }
+  ]
+}

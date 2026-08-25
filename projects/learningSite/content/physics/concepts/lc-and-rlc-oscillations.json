@@ -1,0 +1,22 @@
+{
+  "id": "lc-and-rlc-oscillations",
+  "subject": "physics",
+  "level": "L3",
+  "module": "electromagnetism",
+  "title": {
+    "en": "LC and RLC oscillations",
+    "et": "LC- ja RLC-võnkumised",
+    "sourceHash": "15a210d7786b0f93",
+    "stale": false
+  },
+  "summary": {
+    "en": "A capacitor and inductor connected together exchange energy back and forth at a fixed resonant frequency, exactly as a mass and spring exchange kinetic and potential energy, and adding resistance drains that energy away just as friction damps a mechanical oscillator.",
+    "et": "Kokku ühendatud kondensaator ja induktiivpool vahetavad energiat edasi-tagasi kindlal resonantssagedusel, täpselt nagu mass ja vedru vahetavad kineetilist ja potentsiaalset energiat, ning takistuse lisamine kurnab seda energiat välja samamoodi nagu hõõrdumine summutab mehaanilist võnkurit.",
+    "sourceHash": "e6ebcd7830210ed7",
+    "stale": false
+  },
+  "prerequisites": [
+    "inductance-and-rl-circuits",
+    "simple-harmonic-motion"
+  ]
+}

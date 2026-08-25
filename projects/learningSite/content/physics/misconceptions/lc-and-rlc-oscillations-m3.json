@@ -1,0 +1,10 @@
+{
+  "id": "lc-and-rlc-oscillations-m3",
+  "conceptId": "lc-and-rlc-oscillations",
+  "text": {
+    "en": "Adding resistance to an LC circuit has no effect on its oscillation, since resistance only matters in DC circuits.",
+    "et": "Takistuse lisamine LC-ahelasse ei mõjuta selle võnkumist, sest takistus loeb ainult alalisvooluahelates.",
+    "sourceHash": "b78082319e7c5435",
+    "stale": false
+  }
+}

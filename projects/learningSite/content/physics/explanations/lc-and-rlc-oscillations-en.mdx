@@ -1,0 +1,29 @@
+Connect a charged capacitor directly to an inductor and something happens with
+no battery anywhere in the circuit: the capacitor discharges through the
+inductor, building up a magnetic field as it does, and once the capacitor is
+empty that field's collapse drives current onward, recharging the capacitor
+with the opposite polarity. The process then reverses and repeats. This is
+oscillation with no external driver needed, and it is the electrical exact
+match of a mass on a spring: the capacitor's electric field storing energy the
+way a stretched spring does, the inductor's magnetic field storing energy the
+way a moving mass does, and the two trading that energy back and forth every
+cycle. Nothing forces this rhythm; it is the natural, resonant behaviour of
+the L and C connected together.
+
+The resonant frequency follows from the same mathematics as the mechanical
+oscillator, f = 1/(2π√(LC)). Both L and C sit under the square root in the
+denominator, so increasing *either* one — not just one of them — slows the
+oscillation and lowers the frequency, which surprises anyone expecting more
+inductance to mean more "drive". A larger inductor opposes changes in current
+more strongly, and a larger capacitor holds more charge at a given voltage;
+both effects make each half-cycle take longer.
+
+A real circuit always has some resistance, and resistance changes everything
+about the story even though it appears in neither the formula for frequency
+above nor in the LC circuit's own energy storage. Resistance dissipates energy
+as heat every cycle, exactly as friction drains energy from a swinging
+pendulum, so a real RLC circuit's oscillation amplitude decays over time —
+damped oscillation, the electrical counterpart of a shock absorber. Push it
+periodically at its own resonant frequency, as a radio receiver does when
+tuning to a station, and the response grows sharply, the same resonance
+behaviour met in mechanical driven oscillators.
