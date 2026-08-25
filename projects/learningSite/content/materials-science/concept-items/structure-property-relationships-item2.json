@@ -1,0 +1,56 @@
+{
+  "id": "structure-property-relationships-item2",
+  "conceptId": "structure-property-relationships",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Steel is strengthened by deliberately introducing dislocation tangles and alloying atoms. What does this show?",
+    "et": "Terast tugevdatakse tahtlikult dislokatsioonipuntraid ja legeerivaid aatomeid lisades. Mida see näitab?",
+    "sourceHash": "78e2dfce5cb4aefa",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Defects can be engineered to improve properties, not only to spoil them",
+        "et": "Defekte saab omaduste parandamiseks sihipäraselt kasutada, mitte ainult rikkuda",
+        "sourceHash": "dc30d5c116ff02e2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Defects always weaken materials, so the steel must be weaker",
+        "et": "Defektid nõrgestavad materjale alati, seega peab teras olema nõrgem",
+        "sourceHash": "f5e2bf81448432da",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structure-property-relationships-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only the change in composition matters, not the dislocations",
+        "et": "Loeb ainult koostise muutus, mitte dislokatsioonid",
+        "sourceHash": "a552e273a97ab038",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structure-property-relationships-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Processing has changed the shape of the steel and nothing more",
+        "et": "Töötlemine on muutnud terase kuju ja ei midagi enamat",
+        "sourceHash": "15c8ec0083e3a650",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structure-property-relationships-m3"
+    }
+  ]
+}

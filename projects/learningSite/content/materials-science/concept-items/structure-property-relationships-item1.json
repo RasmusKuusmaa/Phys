@@ -1,0 +1,56 @@
+{
+  "id": "structure-property-relationships-item1",
+  "conceptId": "structure-property-relationships",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Graphite and diamond are both pure carbon, yet one is soft and one is the hardest natural material. What explains this?",
+    "et": "Grafiit ja teemant on mõlemad puhas süsinik, ometi on üks pehme ja teine kõvim looduslik materjal. Mis seda seletab?",
+    "sourceHash": "49564435fd00c2da",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Their atoms are bonded and arranged differently — structure, not composition, sets the properties",
+        "et": "Nende aatomid on seotud ja paigutatud erinevalt — omadused määrab struktuur, mitte koostis",
+        "sourceHash": "899342aa2fa39340",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They must differ in composition, since composition determines properties",
+        "et": "Need peavad koostiselt erinema, sest koostis määrab omadused",
+        "sourceHash": "2013570185d407ec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structure-property-relationships-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Diamond simply has fewer defects, and defects always weaken a material",
+        "et": "Teemandil on lihtsalt vähem defekte ja defektid nõrgestavad materjali alati",
+        "sourceHash": "2ff2c54a82dd4fb3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structure-property-relationships-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Processing changed their shape but not what they are like",
+        "et": "Töötlemine muutis nende kuju, kuid mitte seda, millised nad on",
+        "sourceHash": "e971de53ae4fe28c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structure-property-relationships-m3"
+    }
+  ]
+}

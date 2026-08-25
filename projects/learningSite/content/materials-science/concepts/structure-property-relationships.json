@@ -1,0 +1,19 @@
+{
+  "id": "structure-property-relationships",
+  "subject": "materials-science",
+  "level": "L1",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Structure and properties",
+    "et": "Struktuur ja omadused",
+    "sourceHash": "d1fa4952f51a9456",
+    "stale": false
+  },
+  "summary": {
+    "en": "A material's useful properties follow from its structure at several scales at once — atomic bonding, crystal arrangement, defects and microstructure — which is why the same element can be soft graphite or hard diamond.",
+    "et": "Materjali kasulikud omadused tulenevad selle struktuurist korraga mitmel tasandil — aatomite seotus, kristalliline korrastus, defektid ja mikrostruktuur — ja just seepärast võib sama element olla pehme grafiit või kõva teemant.",
+    "sourceHash": "6c0cb475c1e17f77",
+    "stale": false
+  },
+  "prerequisites": []
+}
