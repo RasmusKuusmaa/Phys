@@ -65,7 +65,12 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "the-halogens",
+    "transition-metals-and-coordination-compounds",
+    "acids-bases-and-ph",
+    "redox-reactions"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/chemistry1.md",
     "SuunaMoodulid/MaterialScience2.md"

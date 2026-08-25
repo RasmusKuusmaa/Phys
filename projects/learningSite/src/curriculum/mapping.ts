@@ -276,6 +276,40 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "polar-form-of-complex-numbers",
     "functions-of-a-complex-variable",
   ],
+  // LOKT.01.007 Anorgaaniline keemia — periodicity, redox, halogens, transition metals.
+  "LOKT.01.007": [
+    "the-periodic-table",
+    "redox-reactions",
+    "the-halogens",
+    "transition-metals-and-coordination-compounds",
+    "acids-bases-and-ph",
+  ],
+  // LOKT.01.010 Anorgaanilise keemia praktikum I — theory behind the bench work.
+  "LOKT.01.010": [
+    "the-halogens",
+    "transition-metals-and-coordination-compounds",
+    "acids-bases-and-ph",
+    "redox-reactions",
+  ],
+  // LOKT.09.004 Orgaaniline keemia I — functional groups, mechanisms, aromaticity.
+  "LOKT.09.004": [
+    "functional-groups",
+    "nucleophilic-substitution",
+    "aromaticity",
+  ],
+  // LOKT.06.012 Analüütilise keemia praktikum I — theory the titrations rest on.
+  "LOKT.06.012": [
+    "stoichiometry",
+    "acids-bases-and-ph",
+    "chemical-equilibrium",
+  ],
+  // LTKT.06.019 Analüütilise keemia põhikursus.
+  "LTKT.06.019": [
+    "stoichiometry",
+    "acids-bases-and-ph",
+    "chemical-equilibrium",
+    "redox-reactions",
+  ],
   "LTFY.01.004": [
     "combining-uncertainties",
     "displacement-velocity-acceleration",

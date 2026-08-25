@@ -37,7 +37,11 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "stoichiometry",
+    "acids-bases-and-ph",
+    "chemical-equilibrium"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience2.md",
     "SuunaMoodulid/chemistry1.md"

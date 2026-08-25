@@ -25,7 +25,12 @@
   ],
   "summary": "Algteadmised analüütilisest keemiast: proovi võtmine ja eeltöötlus, gravimeetria, titrimeetria, potentsiomeetria, kromatograafia, aatom- ja molekulspektroskoopia, andmetöötlus analüütilises keemias.",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "stoichiometry",
+    "acids-bases-and-ph",
+    "chemical-equilibrium",
+    "redox-reactions"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience2.md",
     "SuunaMoodulid/chemistry1.md"

@@ -155,7 +155,13 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "the-periodic-table",
+    "redox-reactions",
+    "the-halogens",
+    "transition-metals-and-coordination-compounds",
+    "acids-bases-and-ph"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience1.md",
     "SuunaMoodulid/chemistry1.md"

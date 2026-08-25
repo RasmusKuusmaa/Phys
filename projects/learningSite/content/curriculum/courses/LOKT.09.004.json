@@ -97,7 +97,11 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "functional-groups",
+    "nucleophilic-substitution",
+    "aromaticity"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience1.md",
     "SuunaMoodulid/chemistry1.md",
