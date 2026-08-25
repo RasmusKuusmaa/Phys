@@ -14,7 +14,6 @@ import {
   checkConceptCoverage,
   coverageIssueConceptId,
   describeCoverageIssue,
-  isBlocking,
 } from "@/content/checks/coverage";
 import { waivedConcepts } from "@/content/coverageWaivers";
 import { findStaleLocalisedStrings } from "@/content/staleness";
@@ -102,13 +101,14 @@ function main() {
         }
       }
 
+      // Every coverage issue blocks unless its concept is explicitly waived.
+      // `missing-explanation` was advisory while the Phase 11b backlog was
+      // being cleared; a concept page still degrades gracefully without an
+      // explanation, but the content requirement is now enforced.
       for (const issue of coverageIssues) {
         const message = describeCoverageIssue(subject, issue);
-        if (!isBlocking(issue) || waived.has(coverageIssueConceptId(issue))) {
-          warnings.push(message);
-        } else {
-          errors.push(message);
-        }
+        if (waived.has(coverageIssueConceptId(issue))) warnings.push(message);
+        else errors.push(message);
       }
 
       for (const file of loadJsonFilesRaw(`${CONTENT_ROOT}/${subject}`)) {

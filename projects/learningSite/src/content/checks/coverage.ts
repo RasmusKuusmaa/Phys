@@ -59,23 +59,6 @@ function countBy<T>(records: T[], key: (record: T) => string): Map<string, numbe
   return counts;
 }
 
-/**
- * Every coverage issue currently blocks the build.
- *
- * `missing-explanation` was advisory while the Phase 11b backlog was being
- * cleared, since a concept page degrades gracefully without an explanation
- * (`loadExplanation` returns null and the section is skipped). That runtime
- * tolerance stays; the *content* requirement is now enforced, because all 79
- * concepts have both locales and the cheapest moment to lock an invariant in
- * is while it already holds.
- *
- * The function is kept as the seam for re-introducing a non-blocking class
- * of issue rather than inlined at its one call site.
- */
-export function isBlocking(_issue: CoverageIssue): boolean {
-  return true;
-}
-
 export function checkConceptCoverage(input: CoverageInput): CoverageIssue[] {
   const issues: CoverageIssue[] = [];
   const conceptIds = new Set(input.concepts.map((c) => c.id));
