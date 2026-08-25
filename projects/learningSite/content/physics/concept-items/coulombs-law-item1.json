@@ -1,0 +1,56 @@
+{
+  "id": "coulombs-law-item1",
+  "conceptId": "coulombs-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The distance between two point charges is tripled, with the charges unchanged. What happens to the force between them?",
+    "et": "Kahe punktlaengu vaheline kaugus kolmekordistatakse, laenguid muutmata. Mis juhtub nendevahelise jõuga?",
+    "sourceHash": "c97e699b230b5f03",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It falls to one ninth, since the force depends on the inverse square of distance",
+        "et": "See langeb üheksandikuni, sest jõud sõltub kauguse pöördruudust",
+        "sourceHash": "ac1a4005281f5bd8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It falls to one third, in direct proportion to distance",
+        "et": "See langeb kolmandikuni, otseses võrdelises seoses kaugusega",
+        "sourceHash": "7d54a2bac810d1e0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coulombs-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, since Coulomb's law depends only on the charges",
+        "et": "See ei muutu, sest Coulombi seadus sõltub ainult laengutest",
+        "sourceHash": "f44d8416e817bc06",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coulombs-law-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It triples, since moving the charges apart increases the force",
+        "et": "See kolmekordistub, sest laengute lahku viimine suurendab jõudu",
+        "sourceHash": "36e516486d1eee0d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coulombs-law-m2"
+    }
+  ]
+}

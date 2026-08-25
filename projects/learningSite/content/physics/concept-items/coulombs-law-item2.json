@@ -1,0 +1,56 @@
+{
+  "id": "coulombs-law-item2",
+  "conceptId": "coulombs-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Charge A exerts a force of 4 N on charge B. What force does B exert on A?",
+    "et": "Laeng A avaldab laengule B jõudu 4 N. Millist jõudu avaldab B laengule A?",
+    "sourceHash": "7d34ae82f97ed1fa",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "4 N, in the opposite direction — Newton's third law applies to the Coulomb force",
+        "et": "4 N, vastassuunas — Newtoni kolmas seadus kehtib ka Coulombi jõu kohta",
+        "sourceHash": "4aed10ff3d128f17",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "4 N, in the same direction as the force on B",
+        "et": "4 N, samas suunas nagu jõud B-le",
+        "sourceHash": "3c87fe302406cb0d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coulombs-law-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A different value, since the two forces need not be equal",
+        "et": "Erineva väärtusega, sest need kaks jõudu ei pea olema võrdsed",
+        "sourceHash": "6cbc73b66eb3612d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coulombs-law-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Zero, since only one charge can be the source of the force",
+        "et": "Null, sest ainult üks laeng saab olla jõu allikas",
+        "sourceHash": "ce400f1774ea3ede",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "coulombs-law-m1"
+    }
+  ]
+}

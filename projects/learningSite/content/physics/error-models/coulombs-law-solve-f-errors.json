@@ -1,0 +1,39 @@
+{
+  "id": "coulombs-law-solve-f-errors",
+  "formulaId": "coulombs-law-formula",
+  "solveFor": "F",
+  "mistakes": [
+    {
+      "id": "forgot-square",
+      "description": {
+        "en": "Divided by r instead of r squared.",
+        "et": "Jagas r-iga, mitte r ruuduga.",
+        "sourceHash": "db7b85e97c77e0f0",
+        "stale": false
+      },
+      "expression": "8990000000*q1*q2/r",
+      "misconceptionId": "coulombs-law-m1"
+    },
+    {
+      "id": "used-sum-not-product",
+      "description": {
+        "en": "Added the two charges instead of multiplying them.",
+        "et": "Liitis kaks laengut, selle asemel et neid korrutada.",
+        "sourceHash": "aec282d459830b5f",
+        "stale": false
+      },
+      "expression": "8990000000*(q1+q2)/(r^2)",
+      "misconceptionId": "coulombs-law-m1"
+    },
+    {
+      "id": "omitted-k",
+      "description": {
+        "en": "Left out the Coulomb constant entirely.",
+        "et": "Jättis Coulombi konstandi täielikult välja.",
+        "sourceHash": "2b39b163032dd114",
+        "stale": false
+      },
+      "expression": "q1*q2/(r^2)"
+    }
+  ]
+}

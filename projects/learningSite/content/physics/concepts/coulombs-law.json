@@ -1,0 +1,21 @@
+{
+  "id": "coulombs-law",
+  "subject": "physics",
+  "level": "L1",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Coulomb's law",
+    "et": "Coulombi seadus",
+    "sourceHash": "72ad2853bd1cdc3f",
+    "stale": false
+  },
+  "summary": {
+    "en": "The electric force between two point charges is proportional to the product of the charges and inversely proportional to the square of the distance between them, acting along the line joining them.",
+    "et": "Elektriline jõud kahe punktlaengu vahel on võrdeline laengute korrutisega ja pöördvõrdeline nendevahelise kauguse ruuduga, mõjudes mööda neid ühendavat sirget.",
+    "sourceHash": "ea4325182b5d7817",
+    "stale": false
+  },
+  "prerequisites": [
+    "electric-charge-and-current"
+  ]
+}
