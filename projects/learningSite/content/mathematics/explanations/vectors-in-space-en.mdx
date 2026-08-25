@@ -1,0 +1,19 @@
+A vector is the mathematical object for anything that has a size *and* a
+direction: a displacement, a velocity, a force. What makes it different from a
+plain number is that adding two of them depends on how they are oriented.
+Walk 3 km east then 4 km north and you end up 5 km from where you started, not
+7 km — the arithmetic of vectors has to encode that.
+
+The crucial and often-missed point is that a vector has no position. Two arrows
+of the same length pointing the same way are the *same vector*, whether drawn
+at the origin or halfway across the page. This is exactly why a force can be
+"applied" anywhere and still be the same force, and why you are free to slide
+vectors around to place them tip-to-tail when adding them.
+
+In coordinates a vector in space is written as an ordered triple, its
+components along the x, y and z axes. Those components are signed: a negative
+component means the vector points backwards along that axis, not that it has
+negative length. Addition and scalar multiplication then happen component by
+component, which is what turns three-dimensional geometry into arithmetic you
+can actually compute with. The length comes back out via Pythagoras in three
+dimensions, √(x² + y² + z²).

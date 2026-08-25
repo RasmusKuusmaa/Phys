@@ -1,0 +1,10 @@
+{
+  "id": "vectors-in-space-m3",
+  "conceptId": "vectors-in-space",
+  "text": {
+    "en": "A vector's components are its length measured along each axis, so they are never negative.",
+    "et": "Vektori komponendid on selle pikkus iga telje suunas, seega ei ole need kunagi negatiivsed.",
+    "sourceHash": "f01f99c98475b898",
+    "stale": false
+  }
+}

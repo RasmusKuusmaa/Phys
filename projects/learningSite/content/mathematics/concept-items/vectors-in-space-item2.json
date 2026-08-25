@@ -1,0 +1,56 @@
+{
+  "id": "vectors-in-space-item2",
+  "conceptId": "vectors-in-space",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A vector is translated to a different starting point without changing its length or direction. What has changed?",
+    "et": "Vektor nihutatakse teise alguspunkti, muutmata selle pikkust ega suunda. Mis on muutunud?",
+    "sourceHash": "54ff154b769abb37",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Nothing — it is the same vector, since a vector is defined by magnitude and direction alone",
+        "et": "Mitte midagi — see on sama vektor, sest vektori määravad ainult pikkus ja suund",
+        "sourceHash": "95384380589df373",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is now a different vector, because its position in space is different",
+        "et": "See on nüüd teine vektor, sest selle asukoht ruumis on erinev",
+        "sourceHash": "0161022e03ac3821",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vectors-in-space-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Its components become negative, since it points away from the origin",
+        "et": "Selle komponendid muutuvad negatiivseks, sest see osutab alguspunktist eemale",
+        "sourceHash": "d57596417e783f75",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vectors-in-space-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Its magnitude changes in proportion to how far it was moved",
+        "et": "Selle pikkus muutub võrdeliselt nihutamise kaugusega",
+        "sourceHash": "b6fcff567c9661f0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vectors-in-space-m2"
+    }
+  ]
+}

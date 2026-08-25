@@ -1,0 +1,56 @@
+{
+  "id": "vectors-in-space-item1",
+  "conceptId": "vectors-in-space",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two vectors of length 3 and 4 are added. What can be said about the length of the result?",
+    "et": "Liidetakse kaks vektorit pikkustega 3 ja 4. Mida saab öelda tulemuse pikkuse kohta?",
+    "sourceHash": "a7de7429cef6b93f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It lies between 1 and 7, depending on the angle between them",
+        "et": "See jääb vahemikku 1 kuni 7, sõltuvalt nendevahelisest nurgast",
+        "sourceHash": "21a29c56789ae8d0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is exactly 7, since lengths add",
+        "et": "See on täpselt 7, sest pikkused liituvad",
+        "sourceHash": "212e1d1f325d9ae9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vectors-in-space-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is exactly 5, since vectors always combine at right angles",
+        "et": "See on täpselt 5, sest vektorid liituvad alati täisnurga all",
+        "sourceHash": "bd547eae119c5492",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vectors-in-space-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be found without knowing where each vector is drawn",
+        "et": "Seda ei saa leida, teadmata, kuhu kumbki vektor on joonistatud",
+        "sourceHash": "359094c790a3e044",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vectors-in-space-m1"
+    }
+  ]
+}

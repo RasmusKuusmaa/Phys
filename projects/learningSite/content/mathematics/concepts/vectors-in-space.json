@@ -1,0 +1,19 @@
+{
+  "id": "vectors-in-space",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "vector-algebra",
+  "title": {
+    "en": "Vectors in space",
+    "et": "Vektorid ruumis",
+    "sourceHash": "119c0c03b81fb676",
+    "stale": false
+  },
+  "summary": {
+    "en": "A vector in space carries both a magnitude and a direction, is written in coordinates as an ordered triple, and adds component by component — so geometry in three dimensions becomes arithmetic.",
+    "et": "Vektoril ruumis on nii pikkus kui ka suund, koordinaatides kirjutatakse see järjestatud kolmikuna ja liitmine käib komponentide kaupa — nii muutub kolmemõõtmeline geomeetria arvutamiseks.",
+    "sourceHash": "bf1d84b3a0b7b459",
+    "stale": false
+  },
+  "prerequisites": []
+}
