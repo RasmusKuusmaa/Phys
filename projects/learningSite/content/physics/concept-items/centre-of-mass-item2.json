@@ -1,0 +1,56 @@
+{
+  "id": "centre-of-mass-item2",
+  "conceptId": "centre-of-mass",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An isolated firework, moving through the air with no other forces acting, explodes into many fragments. What happens to the centre of mass of all the fragments together?",
+    "et": "Isoleeritud ilutulestikuraketti, mis liigub õhus ilma teiste jõududeta, plahvatab paljudeks kildudeks. Mis juhtub kõigi kildude ühise masskeskmega?",
+    "sourceHash": "90c12fa572c41d73",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It continues along the same trajectory the unexploded firework would have followed",
+        "et": "See jätkab samal trajektooril, mida oleks järginud plahvatamata rakett",
+        "sourceHash": "78b9fc193fd9f4e4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It jumps to wherever the largest fragment ends up",
+        "et": "See hüppab sinna, kuhu jõuab suurim kild",
+        "sourceHash": "67c77c4c890b5521",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centre-of-mass-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stops abruptly, since the explosion is an internal event",
+        "et": "See peatub järsult, sest plahvatus on sisemine sündmus",
+        "sourceHash": "aaf29c0d97e15cd5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centre-of-mass-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It scatters in many directions along with the fragments themselves",
+        "et": "See hajub paljudesse suundadesse koos kildude endiga",
+        "sourceHash": "3e185adcfbee9e76",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centre-of-mass-m1"
+    }
+  ]
+}

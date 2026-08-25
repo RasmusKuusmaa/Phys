@@ -1,0 +1,38 @@
+{
+  "id": "centre-of-mass-solve-xcm-errors",
+  "formulaId": "centre-of-mass-formula",
+  "solveFor": "xcm",
+  "mistakes": [
+    {
+      "id": "unweighted-average",
+      "description": {
+        "en": "Averaged the positions without weighting by mass.",
+        "et": "Leidis asukohtade keskmise ilma massiga kaalumata.",
+        "sourceHash": "27720164934ec883",
+        "stale": false
+      },
+      "expression": "(x1+x2)/2",
+      "misconceptionId": "centre-of-mass-m3"
+    },
+    {
+      "id": "swapped-weights",
+      "description": {
+        "en": "Weighted each position by the other object's mass instead of its own.",
+        "et": "Kaalus mõlemat asukohta teise keha massiga, mitte omaenda massiga.",
+        "sourceHash": "fc08cd89b86bb95d",
+        "stale": false
+      },
+      "expression": "(m2*x1+m1*x2)/(m1+m2)"
+    },
+    {
+      "id": "forgot-total-mass",
+      "description": {
+        "en": "Omitted dividing by the total mass.",
+        "et": "Jättis kogumassiga jagamata.",
+        "sourceHash": "3b15e0a31450fcf7",
+        "stale": false
+      },
+      "expression": "m1*x1+m2*x2"
+    }
+  ]
+}

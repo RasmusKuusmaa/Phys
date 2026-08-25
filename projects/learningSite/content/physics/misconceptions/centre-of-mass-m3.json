@@ -1,0 +1,10 @@
+{
+  "id": "centre-of-mass-m3",
+  "conceptId": "centre-of-mass",
+  "text": {
+    "en": "The centre of mass is always located exactly halfway between two objects, regardless of their masses.",
+    "et": "Masskese asub alati täpselt kahe keha vahepunktis, sõltumata nende massidest.",
+    "sourceHash": "88c4a8245f916d15",
+    "stale": false
+  }
+}

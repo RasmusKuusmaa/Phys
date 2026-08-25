@@ -1,0 +1,57 @@
+{
+  "id": "centre-of-mass-solve-xcm",
+  "formulaId": "centre-of-mass-formula",
+  "variables": [
+    {
+      "symbol": "m1",
+      "min": 0.1,
+      "max": 100,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "x1",
+      "min": 0,
+      "max": 10,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "m2",
+      "min": 0.1,
+      "max": 100,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "x2",
+      "min": 0,
+      "max": 10,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "m1",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "m2",
+      "right": 0
+    },
+    {
+      "op": "gte",
+      "left": "x1",
+      "right": 0
+    },
+    {
+      "op": "gte",
+      "left": "x2",
+      "right": 0
+    }
+  ],
+  "solveFor": "xcm"
+}

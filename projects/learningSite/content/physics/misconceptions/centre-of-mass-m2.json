@@ -1,0 +1,10 @@
+{
+  "id": "centre-of-mass-m2",
+  "conceptId": "centre-of-mass",
+  "text": {
+    "en": "Internal explosions or collisions within an isolated system can shift its overall centre of mass.",
+    "et": "Isoleeritud süsteemi sisemised plahvatused või põrked võivad selle üldist masskeset nihutada.",
+    "sourceHash": "40fe6409a40b395c",
+    "stale": false
+  }
+}

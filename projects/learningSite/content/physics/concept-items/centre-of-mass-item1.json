@@ -1,0 +1,56 @@
+{
+  "id": "centre-of-mass-item1",
+  "conceptId": "centre-of-mass",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A ring-shaped object has uniform mass all the way around its circumference. Where is its centre of mass?",
+    "et": "Rõngakujulisel kehal on ühtlane mass kogu selle ümbermõõdu ulatuses. Kus asub selle masskese?",
+    "sourceHash": "771a5356171421ed",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "At the centre of the ring, in the empty space where there is no material at all",
+        "et": "Rõnga keskel, tühjas ruumis, kus ei ole üldse materjali",
+        "sourceHash": "bf6a0ced6dfeea69",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Somewhere on the ring material itself, since mass must be present there",
+        "et": "Kusagil rõnga materjalis endas, sest seal peab mass olemas olema",
+        "sourceHash": "8e02bf0fa2a224c9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centre-of-mass-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It has no well-defined centre of mass, since a ring has a hole in it",
+        "et": "Sellel ei ole hästi määratud masskeset, sest rõngal on auk sees",
+        "sourceHash": "495be274738de3c1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centre-of-mass-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "At whichever point on the ring happens to be heaviest",
+        "et": "Rõnga sellel punktil, mis juhtub olema kõige raskem",
+        "sourceHash": "d2030aac6a958c89",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centre-of-mass-m1"
+    }
+  ]
+}

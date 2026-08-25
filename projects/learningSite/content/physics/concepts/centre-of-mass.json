@@ -1,0 +1,21 @@
+{
+  "id": "centre-of-mass",
+  "subject": "physics",
+  "level": "L2",
+  "module": "mechanics",
+  "title": {
+    "en": "Centre of mass",
+    "et": "Masskese",
+    "sourceHash": "13fe3086e29c408f",
+    "stale": false
+  },
+  "summary": {
+    "en": "The centre of mass of a system is the mass-weighted average position of all its parts, and it moves exactly as if the system's entire mass were concentrated there and only external forces acted on it — internal forces never shift it.",
+    "et": "Süsteemi masskese on kõigi selle osade massiga kaalutud keskmine asukoht ja see liigub täpselt nii, nagu oleks süsteemi kogu mass koondunud sinna ja sellele mõjuksid ainult välised jõud — sisemised jõud ei nihuta seda kunagi.",
+    "sourceHash": "d9d66f343595b7ad",
+    "stale": false
+  },
+  "prerequisites": [
+    "conservation-of-momentum"
+  ]
+}
