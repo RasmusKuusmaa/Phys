@@ -1,0 +1,21 @@
+{
+  "id": "non-inertial-frames-and-fictitious-forces",
+  "subject": "physics",
+  "level": "L3",
+  "module": "mechanics",
+  "title": {
+    "en": "Non-inertial frames and fictitious forces",
+    "et": "Mitteinertsiaalsed taustsüsteemid ja näilised jõud",
+    "sourceHash": "e36fe7d39db13035",
+    "stale": false
+  },
+  "summary": {
+    "en": "Newton's laws hold exactly only in inertial frames; an accelerating or rotating observer can still use them by adding a fictitious force that exists purely because of that frame's own acceleration and disappears entirely when viewed from an inertial frame.",
+    "et": "Newtoni seadused kehtivad täpselt ainult inertsiaalsetes taustsüsteemides; kiirenev või pöörlev vaatleja saab neid siiski kasutada, lisades näilise jõu, mis eksisteerib puhtalt selle taustsüsteemi enda kiirenduse tõttu ja kaob täielikult, kui vaadata seda inertsiaalsest taustsüsteemist.",
+    "sourceHash": "7241556c34bd6085",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtons-second-law"
+  ]
+}

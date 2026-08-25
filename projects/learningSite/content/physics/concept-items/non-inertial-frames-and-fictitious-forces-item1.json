@@ -1,0 +1,56 @@
+{
+  "id": "non-inertial-frames-and-fictitious-forces-item1",
+  "conceptId": "non-inertial-frames-and-fictitious-forces",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A bus accelerates forward and a standing passenger feels pushed backward against their seat. From the ground's inertial frame, what is actually happening?",
+    "et": "Buss kiireneb edasi ja seisev reisija tunneb, kuidas teda lükatakse istme vastu tahapoole. Mis tegelikult juhtub maapinna inertsiaalses taustsüsteemis?",
+    "sourceHash": "8c666f1721c9e2af",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No backward force acts on the passenger — their body's inertia keeps it in place while the bus and seat accelerate forward underneath them",
+        "et": "Reisijale ei mõju mingit tahapoole suunatud jõudu — tema keha inerts hoiab teda paigal, samal ajal kui buss ja iste kiirenevad tema all edasi",
+        "sourceHash": "4428b48112fa9a4f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A genuine backward force pushes the passenger into the seat, present in any frame",
+        "et": "Tõeline tahapoole suunatud jõud lükkab reisija istme vastu, olemas igas taustsüsteemis",
+        "sourceHash": "a0c0e1ba6faf9922",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "non-inertial-frames-and-fictitious-forces-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The bus's forward acceleration has no effect on the passenger at all",
+        "et": "Bussi edasisuunaline kiirendus ei mõjuta reisijat üldse",
+        "sourceHash": "d5e171b63cf8877a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "non-inertial-frames-and-fictitious-forces-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The passenger accelerates backward relative to the ground",
+        "et": "Reisija kiireneb maapinna suhtes tahapoole",
+        "sourceHash": "52a01bdbd650f241",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "non-inertial-frames-and-fictitious-forces-m1"
+    }
+  ]
+}

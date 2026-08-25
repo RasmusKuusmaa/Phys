@@ -1,0 +1,56 @@
+{
+  "id": "non-inertial-frames-and-fictitious-forces-item2",
+  "conceptId": "non-inertial-frames-and-fictitious-forces",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Someone standing on a spinning merry-go-round feels flung outward and calls this the centrifugal force. Does this force appear in the analysis of someone watching from the stationary ground?",
+    "et": "Pöörleval karussellil seisja tunneb end väljapoole paisatuna ja nimetab seda tsentrifugaaljõuks. Kas see jõud esineb maapinnalt paigalt vaatleva inimese analüüsis?",
+    "sourceHash": "b510844d0693ca58",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No — the ground observer sees only real forces, such as friction, providing the centripetal force that keeps the person moving in a circle",
+        "et": "Ei — maapinna vaatleja näeb ainult tõelisi jõude, näiteks hõõrdumist, mis annab tsentripetaaljõu, mis hoiab inimest ringjooneliselt liikumas",
+        "sourceHash": "d9135309335a7b27",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes, since the centrifugal force is present in every reference frame equally",
+        "et": "Jah, sest tsentrifugaaljõud on olemas võrdselt igas taustsüsteemis",
+        "sourceHash": "47e0f8f420bc4568",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "non-inertial-frames-and-fictitious-forces-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Yes, but only because the ground observer is also secretly rotating",
+        "et": "Jah, kuid ainult sellepärast, et ka maapinna vaatleja pöörleb salaja",
+        "sourceHash": "715960ef1a695e28",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "non-inertial-frames-and-fictitious-forces-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The question is meaningless, since forces cannot depend on the observer",
+        "et": "Küsimus on mõttetu, sest jõud ei saa sõltuda vaatlejast",
+        "sourceHash": "36cca51ed3da9647",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "non-inertial-frames-and-fictitious-forces-m1"
+    }
+  ]
+}
