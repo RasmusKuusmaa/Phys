@@ -1,0 +1,56 @@
+{
+  "id": "first-order-differential-equations-item2",
+  "conceptId": "first-order-differential-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the role of an initial condition such as y(0) = 5?",
+    "et": "Milline on algtingimuse, näiteks y(0) = 5, roll?",
+    "sourceHash": "68060289eda34d1e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It picks out one member of the solution family by fixing the constant",
+        "et": "See valib lahendite perest välja ühe liikme, määrates konstandi",
+        "sourceHash": "e572beab71d40037",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is extra information that can be ignored if a formula is already found",
+        "et": "See on lisainfo, mille võib eirata, kui valem on juba leitud",
+        "sourceHash": "7a0e278b0e36c69d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "first-order-differential-equations-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It converts the answer from a function into a number",
+        "et": "See muudab vastuse funktsioonist arvuks",
+        "sourceHash": "71ed60d924d75ffa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "first-order-differential-equations-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It guarantees that a closed-form solution exists",
+        "et": "See tagab, et kinnisel kujul lahend on olemas",
+        "sourceHash": "68ae6f085db70fea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "first-order-differential-equations-m2"
+    }
+  ]
+}

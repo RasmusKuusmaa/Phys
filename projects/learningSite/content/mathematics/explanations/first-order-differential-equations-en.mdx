@@ -1,0 +1,23 @@
+An algebraic equation asks which *number* satisfies a relation. A differential
+equation asks which *function* satisfies a relation involving its own rate of
+change. That shift is the whole difficulty and the whole power: nature is full
+of statements of the form "the rate at which this changes depends on how much of
+it there is", and those are differential equations rather than algebraic ones.
+
+The simplest useful type is separable: get all the y's on one side with dy and
+all the x's on the other with dx, then integrate both sides. dy/dx = 2y becomes
+dy/y = 2 dx, integrates to ln|y| = 2x + C, and rearranges to y = Ce^(2x). Notice
+what came out — not a number, but a family of functions, one for each C.
+Exponential growth and decay, Newton's law of cooling and radioactive decay all
+arrive this way. The linear first-order equation dy/dx + P(x)y = Q(x) is the
+other standard type, solved by multiplying through by an integrating factor
+chosen to make the left side a single derivative.
+
+The constant is where the physics enters. A rate of change cannot know where
+the process started, so the equation alone gives the whole family; an initial
+condition such as y(0) = 5 picks out one member. Without it the answer is
+genuinely incomplete rather than merely untidy. And a warning worth carrying
+forward: separable and linear equations are the well-behaved minority. Most
+differential equations have no solution expressible in elementary functions at
+all, which is why numerical methods and qualitative analysis matter as much as
+solving techniques.

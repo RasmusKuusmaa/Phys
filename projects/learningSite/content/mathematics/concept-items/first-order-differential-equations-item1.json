@@ -1,0 +1,56 @@
+{
+  "id": "first-order-differential-equations-item1",
+  "conceptId": "first-order-differential-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does solving the differential equation dy/dx = 2y produce?",
+    "et": "Mida annab diferentsiaalvõrrandi dy/dx = 2y lahendamine?",
+    "sourceHash": "51f4c0b645b6f456",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A family of functions y = Ce^(2x), one for each value of C",
+        "et": "Funktsioonide pere y = Ce^(2x), üks iga C väärtuse kohta",
+        "sourceHash": "55b49bc9548cea87",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A single number, the value of y",
+        "et": "Üheainsa arvu, y väärtuse",
+        "sourceHash": "a62cf81ec0ce9f01",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "first-order-differential-equations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing, since most differential equations have no formula solution",
+        "et": "Mitte midagi, sest enamikul diferentsiaalvõrranditest ei ole valemilahendit",
+        "sourceHash": "9b718c46f41a4f1d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "first-order-differential-equations-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Exactly one function, since the equation fully determines y",
+        "et": "Täpselt ühe funktsiooni, sest võrrand määrab y täielikult",
+        "sourceHash": "2b1df1396e8126fb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "first-order-differential-equations-m3"
+    }
+  ]
+}
