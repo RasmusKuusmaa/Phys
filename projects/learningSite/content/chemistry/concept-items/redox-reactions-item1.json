@@ -1,0 +1,56 @@
+{
+  "id": "redox-reactions-item1",
+  "conceptId": "redox-reactions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Sodium reacts with chlorine to form NaCl, with no oxygen present. Is this a redox reaction?",
+    "et": "Naatrium reageerib klooriga, moodustades NaCl, ilma hapniku juuresolekuta. Kas see on redoksreaktsioon?",
+    "sourceHash": "4f7e4207dd2e9932",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Yes — sodium loses an electron and chlorine gains it; oxygen is not required",
+        "et": "Jah — naatrium loovutab elektroni ja kloor võtab selle vastu; hapnikku ei ole vaja",
+        "sourceHash": "177a96e9b69a86c4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No — oxidation by definition involves oxygen",
+        "et": "Ei — oksüdeerumine hõlmab definitsiooni järgi hapnikku",
+        "sourceHash": "846ce31b1e31c1c1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "redox-reactions-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only sodium is oxidised, so it is a half-reaction rather than a redox reaction",
+        "et": "Oksüdeerub ainult naatrium, seega on tegu poolreaktsiooni, mitte redoksreaktsiooniga",
+        "sourceHash": "145f751f4d204327",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "redox-reactions-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Yes, and sodium is the oxidising agent because it is oxidised",
+        "et": "Jah, ja naatrium on oksüdeerija, sest ta oksüdeerub",
+        "sourceHash": "3e8ce3669a1c056c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "redox-reactions-m3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "redox-reactions-item2",
+  "conceptId": "redox-reactions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In a redox reaction, what does the oxidising agent do?",
+    "et": "Mida teeb redoksreaktsioonis oksüdeerija?",
+    "sourceHash": "9f8a56517bd7cefa",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It accepts electrons and is itself reduced",
+        "et": "See võtab elektrone vastu ja redutseerub ise",
+        "sourceHash": "b7f3f8d4eb65a8f3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It loses electrons and is itself oxidised",
+        "et": "See loovutab elektrone ja oksüdeerub ise",
+        "sourceHash": "11e1878a5a15b416",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "redox-reactions-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It supplies oxygen atoms to the other reactant",
+        "et": "See annab teisele lähteainele hapnikuaatomeid",
+        "sourceHash": "a4f97ae1df42903f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "redox-reactions-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It acts alone, without any species being reduced",
+        "et": "See toimib üksinda, ilma et miski redutseeruks",
+        "sourceHash": "1aef2327cdbb9ac9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "redox-reactions-m2"
+    }
+  ]
+}

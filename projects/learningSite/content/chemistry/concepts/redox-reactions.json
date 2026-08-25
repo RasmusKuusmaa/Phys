@@ -1,0 +1,21 @@
+{
+  "id": "redox-reactions",
+  "subject": "chemistry",
+  "level": "L1",
+  "module": "general-chemistry",
+  "title": {
+    "en": "Redox reactions",
+    "et": "Redoksreaktsioonid",
+    "sourceHash": "0db14318f6422a63",
+    "stale": false
+  },
+  "summary": {
+    "en": "In a redox reaction electrons transfer from one species to another: the donor is oxidised and the acceptor reduced, and because electrons cannot be created the two always happen together in matched amounts.",
+    "et": "Redoksreaktsioonis kanduvad elektronid ühelt osakeselt teisele: loovutaja oksüdeerub ja vastuvõtja redutseerub ning kuna elektrone ei saa juurde tekitada, toimuvad need kaks alati koos ja võrdses koguses.",
+    "sourceHash": "5086bf9df53066d0",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-bonding"
+  ]
+}
