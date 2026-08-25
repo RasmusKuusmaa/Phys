@@ -1,0 +1,56 @@
+{
+  "id": "spectroscopy-item2",
+  "conceptId": "spectroscopy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does each element produce its own characteristic set of spectral lines?",
+    "et": "Miks tekitab iga element omaenda iseloomuliku spektrijoonte komplekti?",
+    "sourceHash": "9ba94c44ac8c1687",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its energy levels are unique, so the photon energies it can emit or absorb are unique",
+        "et": "Selle energiatasemed on ainulaadsed, seega on ainulaadsed ka footonienergiad, mida see kiirata või neelata saab",
+        "sourceHash": "5b76892d4365c310",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Brighter elements produce more lines than dim ones",
+        "et": "Heledamad elemendid tekitavad rohkem jooni kui tuhmid",
+        "sourceHash": "0f8fde062e2cd877",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spectroscopy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because emission and absorption happen at unrelated wavelengths",
+        "et": "Sest kiirgumine ja neeldumine toimuvad omavahel seosetutel lainepikkustel",
+        "sourceHash": "f5052549a0f5112f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spectroscopy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because wavelength and photon energy can be chosen independently for each element",
+        "et": "Sest lainepikkuse ja footoni energia saab iga elemendi jaoks sõltumatult valida",
+        "sourceHash": "f1ee5d963380a418",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spectroscopy-m3"
+    }
+  ]
+}

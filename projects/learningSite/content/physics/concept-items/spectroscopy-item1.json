@@ -1,0 +1,56 @@
+{
+  "id": "spectroscopy-item1",
+  "conceptId": "spectroscopy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A hot gas emits bright lines at certain wavelengths. The same cool gas in front of a white source absorbs at which wavelengths?",
+    "et": "Kuum gaas kiirgab teatud lainepikkustel heledaid jooni. Millistel lainepikkustel neelab seesama jahe gaas valge allika ees?",
+    "sourceHash": "dc05006580000949",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Exactly the same ones — the transitions are the same whichever direction they run",
+        "et": "Täpselt samadel — siirded on samad, kummas suunas need ka ei kulgeks",
+        "sourceHash": "300cd534f90635c7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "At different wavelengths, since absorption and emission are unrelated processes",
+        "et": "Erinevatel lainepikkustel, sest neeldumine ja kiirgumine on omavahel seosetud protsessid",
+        "sourceHash": "863ad827a7e723be",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spectroscopy-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "At wavelengths set by the brightness of the source rather than by the gas",
+        "et": "Lainepikkustel, mille määrab allika heledus, mitte gaas",
+        "sourceHash": "c18d45a981dc0cab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spectroscopy-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "At frequencies unrelated to those wavelengths, since the two vary independently",
+        "et": "Sagedustel, mis ei ole nende lainepikkustega seotud, sest need kaks muutuvad sõltumatult",
+        "sourceHash": "6d6e282508e69df4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spectroscopy-m3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "spectroscopy",
+  "subject": "physics",
+  "level": "L3",
+  "module": "optics",
+  "title": {
+    "en": "Spectroscopy",
+    "et": "Spektroskoopia",
+    "sourceHash": "8107f687506dcbd2",
+    "stale": false
+  },
+  "summary": {
+    "en": "Spectroscopy reads the light a substance emits or absorbs as a record of its energy levels, so a spectrum identifies what a sample is made of and how its atoms and molecules are bound.",
+    "et": "Spektroskoopia loeb aine kiiratud või neelatud valgust kui ülestähendust selle energiatasemetest, nii et spekter näitab, millest proov koosneb ja kuidas selle aatomid ja molekulid on seotud.",
+    "sourceHash": "8184874ab9b6a0cb",
+    "stale": false
+  },
+  "prerequisites": [
+    "quantum-energy-levels",
+    "wave-nature-of-light"
+  ]
+}
