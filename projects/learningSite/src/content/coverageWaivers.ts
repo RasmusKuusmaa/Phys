@@ -38,7 +38,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "the-hydrogen-atom-and-atomic-structure",
     "the-maxwell-boltzmann-distribution",
     "viscosity-and-poiseuille-flow",
-    "wavefunctions-and-probability",
   ],
 };
 

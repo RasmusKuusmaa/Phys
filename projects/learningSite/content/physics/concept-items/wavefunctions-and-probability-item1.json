@@ -1,0 +1,56 @@
+{
+  "id": "wavefunctions-and-probability-item1",
+  "conceptId": "wavefunctions-and-probability",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the squared magnitude of a wavefunction give at a particular point?",
+    "et": "Mida annab lainefunktsiooni absoluutväärtuse ruut kindlas punktis?",
+    "sourceHash": "c421323c36b88497",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The probability density of finding the particle there when a position measurement is made",
+        "et": "Tõenäosustiheduse osakese leidmiseks sealt, kui tehakse asukoha mõõtmine",
+        "sourceHash": "5f51df1d1237b313",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The fraction of the particle's mass located at that point",
+        "et": "Osakese massi osa, mis selles punktis paikneb",
+        "sourceHash": "5a43a6d35f25da56",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wavefunctions-and-probability-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The probability itself, which can be read off directly without squaring anything",
+        "et": "Tõenäosuse enda, mille saab otse välja lugeda ilma midagi ruutu tõstmata",
+        "sourceHash": "211d1c22021d8c12",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wavefunctions-and-probability-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "How confident we are about a position the particle already definitely has",
+        "et": "Kui kindlad me oleme asukohas, mis osakesel juba niikuinii on",
+        "sourceHash": "0af6adc88dd40d35",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wavefunctions-and-probability-m2"
+    }
+  ]
+}

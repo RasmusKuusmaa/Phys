@@ -1,0 +1,56 @@
+{
+  "id": "wavefunctions-and-probability-item2",
+  "conceptId": "wavefunctions-and-probability",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An electron's wavefunction is spread over a region before measurement. What does a position measurement reveal?",
+    "et": "Elektroni lainefunktsioon on enne mõõtmist laiali mingis piirkonnas. Mida asukoha mõõtmine näitab?",
+    "sourceHash": "dfdd52368bf17167",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A single definite position, drawn at random from the distribution the wavefunction specifies",
+        "et": "Ühe kindla asukoha, mis on juhuslikult valitud jaotusest, mille määrab lainefunktsioon",
+        "sourceHash": "e3d4fb6d38da5128",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A portion of the electron at each place where the wavefunction is nonzero",
+        "et": "Osa elektronist igas kohas, kus lainefunktsioon ei ole null",
+        "sourceHash": "e7e3f54f5e7cea68",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wavefunctions-and-probability-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The position the electron had all along, which the spread merely hid from us",
+        "et": "Asukoha, mis elektronil oli kogu aeg ja mille laialivalgumine meie eest lihtsalt varjas",
+        "sourceHash": "c4bca634847ed8d1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wavefunctions-and-probability-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A probability value between 0 and 1, read directly off the wavefunction",
+        "et": "Tõenäosuse väärtuse vahemikus 0 kuni 1, mis loetakse otse lainefunktsioonilt",
+        "sourceHash": "9cd3452c22f2cf49",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wavefunctions-and-probability-m3"
+    }
+  ]
+}
