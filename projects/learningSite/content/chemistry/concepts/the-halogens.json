@@ -1,0 +1,22 @@
+{
+  "id": "the-halogens",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "inorganic-chemistry",
+  "title": {
+    "en": "The halogens",
+    "et": "Halogeenid",
+    "sourceHash": "7f166645b118c08e",
+    "stale": false
+  },
+  "summary": {
+    "en": "The halogens are the most reactive non-metal group because each atom needs only one more electron for a full outer shell, and their oxidising power falls steadily going down the group as that electron gets harder to attract.",
+    "et": "Halogeenid on kõige reaktsioonivõimelisem mittemetallide rühm, sest igal aatomil on täidetud väliskihini vaja ainult ühte lisaelektroni, ning nende oksüdeeriv võime langeb rühmas allapoole liikudes ühtlaselt, kuna seda elektroni on üha raskem ligi tõmmata.",
+    "sourceHash": "9167636df7e4813e",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-periodic-table",
+    "redox-reactions"
+  ]
+}

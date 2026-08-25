@@ -1,0 +1,56 @@
+{
+  "id": "the-halogens-item2",
+  "conceptId": "the-halogens",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does oxidising strength fall going down the halogen group from fluorine to iodine?",
+    "et": "Miks langeb oksüdeeriv tugevus halogeenide rühmas alla liikudes fluorilt joodile?",
+    "sourceHash": "39316343e9b42e02",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The outer shell is further from the nucleus, so the incoming electron is less strongly attracted",
+        "et": "Väliskiht on tuumast kaugemal, seega tõmmatakse sisenevat elektroni nõrgemalt ligi",
+        "sourceHash": "6d709fd9f9a6eddc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Heavier halogens have fewer outer electrons available to gain",
+        "et": "Raskematel halogeenidel on omandamiseks vähem väliselektrone saadaval",
+        "sourceHash": "e8e1f551aa3e4326",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-halogens-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All halogens have identical oxidising strength, since they are in one group",
+        "et": "Kõigil halogeenidel on identne oksüdeeriv tugevus, sest need on ühes rühmas",
+        "sourceHash": "39f143dbe491d96b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-halogens-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Oxidising strength depends only on physical state, not on atomic structure",
+        "et": "Oksüdeeriv tugevus sõltub ainult agregaatolekust, mitte aatomiehitusest",
+        "sourceHash": "d63bff5d8a31441b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-halogens-m3"
+    }
+  ]
+}

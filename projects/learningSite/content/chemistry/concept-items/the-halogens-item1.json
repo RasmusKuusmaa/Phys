@@ -1,0 +1,56 @@
+{
+  "id": "the-halogens-item1",
+  "conceptId": "the-halogens",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Chlorine gas is bubbled through a solution of potassium bromide. What happens?",
+    "et": "Kloorigaasi juhitakse läbi kaaliumbromiidi lahuse. Mis juhtub?",
+    "sourceHash": "5783aca5aa04dde5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Chlorine displaces bromine — a more reactive halogen displaces a less reactive one from its salt",
+        "et": "Kloor tõrjub broomi välja — reaktsioonivõimelisem halogeen tõrjub oma soolast välja vähem reaktsioonivõimelise",
+        "sourceHash": "2136ef16abb685be",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing, since all halogens react with equal vigour",
+        "et": "Mitte midagi, sest kõik halogeenid reageerivad võrdselt ägedalt",
+        "sourceHash": "5dad336b93961ea5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-halogens-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Bromine displaces chlorine instead, since displacement can run either way",
+        "et": "Broom tõrjub hoopis kloori välja, sest väljatõrjumine võib kulgeda kummaski suunas",
+        "sourceHash": "0b22d2a6312b11c2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-halogens-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Chlorine reacts with itself, since it exists as single free atoms",
+        "et": "Kloor reageerib iseendaga, sest see esineb üksikute vabade aatomitena",
+        "sourceHash": "62d1a0fa40db1844",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-halogens-m3"
+    }
+  ]
+}
