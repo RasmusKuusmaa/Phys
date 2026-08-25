@@ -1,0 +1,56 @@
+{
+  "id": "particle-in-a-box-item2",
+  "conceptId": "particle-in-a-box",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What happens to the ground-state energy of a particle in a box as the box is made narrower?",
+    "et": "Mis juhtub karbis oleva osakese põhioleku energiaga, kui karpi kitsamaks muuta?",
+    "sourceHash": "6af9602c97784862",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It rises, because a shorter box forces a shorter wavelength and therefore a larger momentum",
+        "et": "See tõuseb, sest lühem karp sunnib lühema lainepikkuse ja seega suurema impulsi",
+        "sourceHash": "8daae5da16c62b0a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It falls towards zero, since the particle has less room in which to move",
+        "et": "See langeb nulli poole, sest osakesel on vähem ruumi, kus liikuda",
+        "sourceHash": "83adaf77d0d0ffc8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "particle-in-a-box-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It reaches exactly zero once the box is small enough, leaving the particle at rest",
+        "et": "See jõuab piisavalt väikese karbi korral täpselt nulli ja osake jääb paigale",
+        "sourceHash": "b72d5d3a9f2c0b59",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "particle-in-a-box-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is unaffected, since energy levels are a property of the particle rather than the box",
+        "et": "See ei muutu, sest energiatasemed on osakese, mitte karbi omadus",
+        "sourceHash": "e79d95dce855f150",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "particle-in-a-box-m1"
+    }
+  ]
+}

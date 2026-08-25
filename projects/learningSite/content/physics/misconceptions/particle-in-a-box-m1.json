@@ -1,0 +1,10 @@
+{
+  "id": "particle-in-a-box-m1",
+  "conceptId": "particle-in-a-box",
+  "text": {
+    "en": "A confined particle can have any energy, just as a classical ball in a box can move at any speed.",
+    "et": "Suletud osakesel võib olla mistahes energia, nagu klassikaline pall karbis võib liikuda mistahes kiirusega.",
+    "sourceHash": "c0332ef86c3b5633",
+    "stale": false
+  }
+}

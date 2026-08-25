@@ -26,7 +26,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "free-energy-and-spontaneity",
     "kirchhoffs-laws-and-circuit-analysis",
     "maxwells-equations",
-    "particle-in-a-box",
     "pascals-principle-and-hydraulics",
     "pressure-in-fluids",
     "quantum-tunneling",

@@ -1,0 +1,10 @@
+{
+  "id": "particle-in-a-box-m3",
+  "conceptId": "particle-in-a-box",
+  "text": {
+    "en": "Making the box smaller lowers the particle's energy, since there is less room to move.",
+    "et": "Karbi väiksemaks muutmine alandab osakese energiat, sest liikumisruumi on vähem.",
+    "sourceHash": "a72858c2a1726658",
+    "stale": false
+  }
+}

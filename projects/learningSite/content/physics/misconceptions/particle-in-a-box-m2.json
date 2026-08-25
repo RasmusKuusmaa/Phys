@@ -1,0 +1,10 @@
+{
+  "id": "particle-in-a-box-m2",
+  "conceptId": "particle-in-a-box",
+  "text": {
+    "en": "The lowest allowed energy is zero, so a trapped particle can be completely at rest.",
+    "et": "Madalaim lubatud energia on null, seega võib lõksus osake olla täiesti paigal.",
+    "sourceHash": "bbf0ca9ecc989fd5",
+    "stale": false
+  }
+}

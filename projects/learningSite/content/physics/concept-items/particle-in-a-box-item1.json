@@ -1,0 +1,56 @@
+{
+  "id": "particle-in-a-box-item1",
+  "conceptId": "particle-in-a-box",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why are the energies of a particle confined between rigid walls restricted to discrete values?",
+    "et": "Miks on jäikade seinte vahele suletud osakese energiad piiratud diskreetsete väärtustega?",
+    "sourceHash": "ac28b5771b19f556",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Only wavefunctions fitting a whole number of half-wavelengths between the walls satisfy the boundary conditions",
+        "et": "Ainult need lainefunktsioonid, mis mahutavad seinte vahele täisarvu poollaineid, rahuldavad rajatingimusi",
+        "sourceHash": "3ee4bb8110ad9cf8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The walls absorb energy in fixed packets each time the particle strikes them",
+        "et": "Seinad neelavad energiat kindlate pakettidena iga kord, kui osake vastu neid põrkab",
+        "sourceHash": "161c30e4204916aa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "particle-in-a-box-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Confinement removes energy, so only the lowest few values remain available",
+        "et": "Sulgemine eemaldab energiat, seega jäävad alles ainult mõned madalaimad väärtused",
+        "sourceHash": "9d4fbafc57fb6d26",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "particle-in-a-box-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The particle can take any energy, but only some values are convenient to measure",
+        "et": "Osakesel võib olla mistahes energia, kuid ainult mõnda väärtust on mugav mõõta",
+        "sourceHash": "9ea533d0f6db206a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "particle-in-a-box-m1"
+    }
+  ]
+}
