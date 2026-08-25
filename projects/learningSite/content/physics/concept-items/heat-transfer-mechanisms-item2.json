@@ -1,0 +1,56 @@
+{
+  "id": "heat-transfer-mechanisms-item2",
+  "conceptId": "heat-transfer-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A metal spoon and a wooden spoon sit on the same table at the same room temperature. Why does the metal spoon feel colder to the touch?",
+    "et": "Metallist ja puidust lusikas seisavad samal laual samal toatemperatuuril. Miks tundub metalllusikas katsudes külmem?",
+    "sourceHash": "3ab78dad55622320",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Metal conducts heat away from your hand much faster than wood does, even though both are at the same actual temperature",
+        "et": "Metall juhib soojuse su käest ära palju kiiremini kui puit, kuigi mõlemad on samal tegelikul temperatuuril",
+        "sourceHash": "b5660f5df4e458ad",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The metal spoon is genuinely at a lower temperature than the wooden one",
+        "et": "Metalllusikas on tegelikult madalamal temperatuuril kui puitlusikas",
+        "sourceHash": "ea32100ce947bb64",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heat-transfer-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Metal radiates cold, unlike wood",
+        "et": "Metall kiirgab külma, erinevalt puidust",
+        "sourceHash": "30de2ab14545cbfa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heat-transfer-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Convection currents in the metal actively cool your hand",
+        "et": "Metallis olevad konvektsioonivoolud jahutavad aktiivselt su kätt",
+        "sourceHash": "3ce18bb1d0b93a05",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heat-transfer-mechanisms-m1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "heat-transfer-mechanisms-item1",
+  "conceptId": "heat-transfer-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Sunlight warms your skin even though the space between the Sun and Earth is a vacuum. Which heat transfer mechanism is responsible?",
+    "et": "Päikesevalgus soojendab su nahka, kuigi Päikese ja Maa vaheline ruum on vaakum. Milline soojusülekande mehhanism on selle eest vastutav?",
+    "sourceHash": "3363a6e895d0c688",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Radiation — electromagnetic waves that require no medium to travel through",
+        "et": "Kiirgus — elektromagnetlained, mis ei vaja levimiseks keskkonda",
+        "sourceHash": "814c8394d9465a2b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Conduction, since heat always needs direct contact between materials",
+        "et": "Juhtivus, sest soojus vajab alati materjalide vahelist otsest kontakti",
+        "sourceHash": "5b443556f35b0d41",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heat-transfer-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Convection, carried by the solar wind between the Sun and Earth",
+        "et": "Konvektsioon, mida kannab Päikese ja Maa vaheline päikesetuul",
+        "sourceHash": "9b55c959f743666a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heat-transfer-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "None of the three mechanisms can explain this, since space is a vacuum",
+        "et": "Ükski kolmest mehhanismist ei suuda seda seletada, sest kosmos on vaakum",
+        "sourceHash": "32fb7d6d60ffcc4c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heat-transfer-mechanisms-m1"
+    }
+  ]
+}

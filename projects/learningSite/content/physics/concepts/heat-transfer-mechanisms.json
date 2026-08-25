@@ -1,0 +1,21 @@
+{
+  "id": "heat-transfer-mechanisms",
+  "subject": "physics",
+  "level": "L1",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Heat transfer mechanisms",
+    "et": "Soojusülekande mehhanismid",
+    "sourceHash": "01cc9b44823b52e9",
+    "stale": false
+  },
+  "summary": {
+    "en": "Heat moves by three distinct mechanisms — conduction through direct contact, convection by moving fluid, and radiation by electromagnetic waves that need no medium at all — and identifying which one dominates in a given situation is what makes a heat-transfer problem solvable.",
+    "et": "Soojus liigub kolme erineva mehhanismi kaudu — juhtivus otsese kontakti kaudu, konvektsioon liikuva vedeliku kaudu ja kiirgus elektromagnetlainete kaudu, mis ei vaja üldse keskkonda — ning selle tuvastamine, milline neist antud olukorras domineerib, teebki soojusülekande ülesande lahendatavaks.",
+    "sourceHash": "f649f57ea00c4979",
+    "stale": false
+  },
+  "prerequisites": [
+    "temperature-and-heat"
+  ]
+}
