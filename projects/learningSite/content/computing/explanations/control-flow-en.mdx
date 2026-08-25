@@ -1,0 +1,20 @@
+A list of instructions executed top to bottom does the same thing every time,
+which is not yet useful. Control flow is what makes a program respond to its
+input. There are only two mechanisms: choosing between alternatives, and
+repeating.
+
+Choice is the conditional. An if–else evaluates a test and runs *exactly one*
+branch — the matching one — then continues after the whole statement. Both
+branches are written down; only one happens on any given pass. Chaining several
+tests together is how a program handles more than two cases, and the order
+matters, since the first matching branch wins.
+
+Repetition is the loop, and it is where beginners meet their first genuinely
+dangerous bug. A `while` loop keeps going as long as its condition holds, so
+something inside the body must eventually make that condition false. If nothing
+does, the loop never ends — the program hangs and no error is reported. A `for`
+loop over a known collection is safer, since the collection supplies the ending.
+This is also why the number of iterations often cannot be read off the code:
+when a loop runs until a condition is met, only the data decides how long it
+takes, and reasoning about that — rather than counting lines — is the skill
+being trained.

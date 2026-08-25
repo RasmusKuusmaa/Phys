@@ -1,0 +1,56 @@
+{
+  "id": "control-flow-item1",
+  "conceptId": "control-flow",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A while loop's condition is never made false inside its body. What happens?",
+    "et": "While-tsükli tingimust ei muudeta selle kehas kunagi vääraks. Mis juhtub?",
+    "sourceHash": "e6c6a13b68fedb4c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It loops forever — nothing stops it unless the body changes the condition",
+        "et": "See kordub lõputult — miski ei peata seda, kui keha tingimust ei muuda",
+        "sourceHash": "551525620562a285",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It stops on its own once enough iterations have run",
+        "et": "See peatub iseenesest, kui piisavalt kordusi on tehtud",
+        "sourceHash": "4d4863465d58ae85",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-flow-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It runs exactly the number of times written in the code",
+        "et": "See töötab täpselt nii mitu korda, kui koodis kirjas",
+        "sourceHash": "e10616331941dff7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-flow-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It runs both branches of the condition in turn",
+        "et": "See täidab tingimuse mõlemad harud järjest",
+        "sourceHash": "c084d1b7050c35ac",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-flow-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "control-flow-m1",
+  "conceptId": "control-flow",
+  "text": {
+    "en": "A loop with a condition that never becomes false will eventually stop on its own.",
+    "et": "Tsükkel, mille tingimus ei muutu kunagi vääraks, peatub lõpuks iseenesest.",
+    "sourceHash": "9dda47ca469740fb",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "control-flow-item2",
+  "conceptId": "control-flow",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In an if–else statement, how many branches execute on a single pass?",
+    "et": "Mitu haru täidetakse if–else lauses ühe läbimisega?",
+    "sourceHash": "8f42de6ec815f08a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Exactly one — whichever matches the condition",
+        "et": "Täpselt üks — see, mis tingimusega sobib",
+        "sourceHash": "273e617c65fdb938",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both, one after the other",
+        "et": "Mõlemad, üksteise järel",
+        "sourceHash": "86b634fa532bf176",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-flow-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "As many as the loop counter allows",
+        "et": "Nii palju, kui tsükli loendur lubab",
+        "sourceHash": "678986d4102cf867",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-flow-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "None, unless the condition never becomes false",
+        "et": "Mitte ühtegi, kui tingimus ei jää kunagi vääraks",
+        "sourceHash": "fbdf9dac55d90bdd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-flow-m1"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "control-flow",
+  "subject": "computing",
+  "level": "L1",
+  "module": "programming-fundamentals",
+  "title": {
+    "en": "Control flow",
+    "et": "Juhtimisvoog",
+    "sourceHash": "96b91a496ba7b682",
+    "stale": false
+  },
+  "summary": {
+    "en": "Conditionals let a program choose between paths and loops let it repeat work, and between them they turn a fixed list of instructions into something whose behaviour depends on its data.",
+    "et": "Tingimuslaused lasevad programmil teede vahel valida ja tsüklid lasevad tööd korrata ning koos muudavad need kindla käskude loendi millekski, mille käitumine sõltub andmetest.",
+    "sourceHash": "2daf1517bef99fef",
+    "stale": false
+  },
+  "prerequisites": [
+    "algorithms-and-program-structure"
+  ]
+}

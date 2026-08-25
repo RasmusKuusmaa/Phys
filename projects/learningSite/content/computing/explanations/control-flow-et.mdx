@@ -1,0 +1,18 @@
+Ülevalt alla täidetav käskude loend teeb iga kord sedasama, mis ei ole veel
+kasulik. Juhtimisvoog on see, mis paneb programmi oma sisendile reageerima.
+Mehhanisme on ainult kaks: alternatiivide vahel valimine ja kordamine.
+
+Valik on tingimuslause. If–else hindab kontrolli ja täidab *täpselt ühe* haru —
+sobiva — ning jätkab seejärel pärast kogu lauset. Mõlemad harud on kirja pandud;
+ühe läbimise korral toimub ainult üks. Mitme kontrolli ahelasse sidumine on
+viis, kuidas programm rohkem kui kaht juhtu käsitleb, ja järjekord loeb, sest
+esimene sobiv haru võidab.
+
+Kordamine on tsükkel ja just seal kohtavad algajad oma esimest tõeliselt ohtlikku
+viga. `while`-tsükkel jätkab seni, kuni selle tingimus kehtib, seega peab miski
+keha sees selle tingimuse lõpuks vääraks muutma. Kui miski seda ei tee, ei lõpe
+tsükkel kunagi — programm hangub ja ühtegi viga ei teatata. Teadaoleva kogumi
+läbiv `for`-tsükkel on ohutum, sest kogum annab lõpu ette. Just seepärast ei saa
+kordade arvu sageli koodilt maha lugeda: kui tsükkel töötab kuni tingimuse
+täitumiseni, otsustavad ainult andmed, kui kaua see aega võtab, ja just selle üle
+arutlemine — mitte ridade lugemine — on oskus, mida treenitakse.

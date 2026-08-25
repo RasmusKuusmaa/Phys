@@ -1,0 +1,10 @@
+{
+  "id": "control-flow-m3",
+  "conceptId": "control-flow",
+  "text": {
+    "en": "An if–else pair executes both branches, one after the other.",
+    "et": "Lause if–else täidab mõlemad harud, üksteise järel.",
+    "sourceHash": "74d217f4ead3ac7b",
+    "stale": false
+  }
+}

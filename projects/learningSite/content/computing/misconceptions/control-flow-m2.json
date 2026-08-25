@@ -1,0 +1,10 @@
+{
+  "id": "control-flow-m2",
+  "conceptId": "control-flow",
+  "text": {
+    "en": "The number of times a loop runs can always be read directly off the code.",
+    "et": "Tsükli kordade arvu saab alati koodilt otse maha lugeda.",
+    "sourceHash": "dc979d7efa09b22b",
+    "stale": false
+  }
+}
