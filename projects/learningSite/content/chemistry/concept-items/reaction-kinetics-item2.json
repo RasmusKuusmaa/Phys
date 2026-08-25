@@ -1,0 +1,56 @@
+{
+  "id": "reaction-kinetics-item2",
+  "conceptId": "reaction-kinetics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What happens to a catalyst over the course of the reaction it accelerates?",
+    "et": "Mis juhtub katalüsaatoriga reaktsiooni jooksul, mida see kiirendab?",
+    "sourceHash": "d256ad3a3e355de1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is regenerated — it takes part but is not consumed overall",
+        "et": "See taastub — katalüsaator osaleb, kuid kokkuvõttes seda ei tarbita",
+        "sourceHash": "915ed3989d1d8161",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is used up in proportion to the amount of product formed",
+        "et": "See tarbitakse ära võrdeliselt tekkiva saaduse hulgaga",
+        "sourceHash": "7268b3b13bd4e808",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-kinetics-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It changes the balanced equation's coefficients",
+        "et": "See muudab tasakaalustatud võrrandi kordajaid",
+        "sourceHash": "3b4c93c5f69d5d91",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-kinetics-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It makes the reaction favourable when it otherwise would not be",
+        "et": "See muudab reaktsiooni soodsaks, kui see muidu ei oleks",
+        "sourceHash": "7ba68fae35d28fd3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-kinetics-m1"
+    }
+  ]
+}

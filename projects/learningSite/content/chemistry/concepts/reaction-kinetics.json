@@ -1,0 +1,21 @@
+{
+  "id": "reaction-kinetics",
+  "subject": "chemistry",
+  "level": "L1",
+  "module": "general-chemistry",
+  "title": {
+    "en": "Reaction kinetics",
+    "et": "Keemiline kineetika",
+    "sourceHash": "7bee38852c9db7ae",
+    "stale": false
+  },
+  "summary": {
+    "en": "Reaction rate depends on how often reactant particles collide with enough energy and the right orientation, so concentration, temperature, surface area and catalysts all change it — while the equilibrium position stays untouched.",
+    "et": "Reaktsioonikiirus sõltub sellest, kui sageli lähteainete osakesed põrkuvad piisava energia ja õige orientatsiooniga, mistõttu kontsentratsioon, temperatuur, pindala ja katalüsaatorid muudavad seda — tasakaaluasendit puudutamata.",
+    "sourceHash": "c5ddb88484597407",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-equilibrium"
+  ]
+}

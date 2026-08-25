@@ -1,0 +1,56 @@
+{
+  "id": "reaction-kinetics-item1",
+  "conceptId": "reaction-kinetics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Diamond converting to graphite releases energy, yet diamonds do not visibly change. Why?",
+    "et": "Teemandi muutumine grafiidiks vabastab energiat, ometi teemandid nähtavalt ei muutu. Miks?",
+    "sourceHash": "0c5ef6fde989438e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The activation barrier is enormous, so the rate is effectively zero",
+        "et": "Aktivatsioonibarjäär on tohutu, seega on kiirus praktiliselt null",
+        "sourceHash": "508b61dd23f167e6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Favourable reactions are always fast, so the premise must be wrong",
+        "et": "Soodsad reaktsioonid on alati kiired, seega peab eeldus olema vale",
+        "sourceHash": "c8bbd19cd9b5c961",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-kinetics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A catalyst was consumed earlier and none remains",
+        "et": "Katalüsaator tarbiti varem ära ja seda ei ole enam alles",
+        "sourceHash": "38004af90efe2612",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-kinetics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The equation's coefficients show the rate is zero",
+        "et": "Võrrandi kordajad näitavad, et kiirus on null",
+        "sourceHash": "81653c44968f8cc3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-kinetics-m3"
+    }
+  ]
+}
