@@ -53,6 +53,9 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "work-and-energy",
   ],
   "LTFY.01.006": [
+    "heat-transfer-mechanisms",
+    "internal-energy-and-the-first-law",
+    "thermodynamic-processes",
     "beats-and-superposition",
     "sound-waves-and-intensity",
     "the-doppler-effect",
@@ -152,6 +155,10 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "time-dilation",
   ],
   "LOFY.04.004": [
+    "blackbody-radiation-and-plancks-law",
+    "microstates-and-multiplicity",
+    "the-equipartition-theorem",
+    "the-partition-function",
     "entropy-and-the-second-law",
     "free-energy-and-spontaneity",
     "laws-of-thermodynamics",
@@ -344,6 +351,10 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
   // concepts as well as chemistry, since the syllabus is classical thermo applied
   // to chemical systems.
   "LOKT.02.037": [
+    "heat-transfer-mechanisms",
+    "internal-energy-and-the-first-law",
+    "thermodynamic-processes",
+    "real-gases-and-the-van-der-waals-equation",
     "laws-of-thermodynamics",
     "entropy-and-the-second-law",
     "statistical-definition-of-entropy",
