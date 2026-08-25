@@ -102,10 +102,16 @@
   ],
   "conceptIds": [
     "capacitance",
+    "coulombs-law",
+    "dielectrics-and-capacitor-energy",
     "electric-fields",
+    "electric-power-and-joule-heating",
     "electromagnetic-induction",
+    "inductance-and-rl-circuits",
     "kirchhoffs-laws-and-circuit-analysis",
+    "lorentz-force",
     "magnetic-fields",
+    "resistivity-and-conductivity",
     "voltage-and-resistance"
   ],
   "sourceFiles": [
