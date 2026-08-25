@@ -1,0 +1,56 @@
+{
+  "id": "probability-item2",
+  "conceptId": "probability",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two events cannot both occur. What does that say about whether they are independent?",
+    "et": "Kaks sündmust ei saa mõlemad toimuda. Mida see ütleb nende sõltumatuse kohta?",
+    "sourceHash": "cc34a22838fb98a8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They are dependent — knowing one happened tells you the other did not",
+        "et": "Need on sõltuvad — teadmine, et üks toimus, ütleb, et teine ei toimunud",
+        "sourceHash": "102a496d44fc42b8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are independent, since mutually exclusive means the same as independent",
+        "et": "Need on sõltumatud, sest teineteist välistav tähendab sama mis sõltumatu",
+        "sourceHash": "e5258261becd4478",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "probability-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing — exclusivity and independence are unrelated in every case",
+        "et": "Mitte midagi — välistavus ja sõltumatus ei ole kunagi omavahel seotud",
+        "sourceHash": "34e48ee2ced23015",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "probability-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They must become more likely over repeated trials",
+        "et": "Need peavad korduvatel katsetel tõenäolisemaks muutuma",
+        "sourceHash": "937ced3c492c8607",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "probability-m1"
+    }
+  ]
+}

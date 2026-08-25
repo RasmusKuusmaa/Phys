@@ -1,0 +1,10 @@
+{
+  "id": "probability-m3",
+  "conceptId": "probability",
+  "text": {
+    "en": "The probability of two events both happening is always the sum of their probabilities.",
+    "et": "Kahe sündmuse üheaegse toimumise tõenäosus on alati nende tõenäosuste summa.",
+    "sourceHash": "4bd69deba7fd5076",
+    "stale": false
+  }
+}

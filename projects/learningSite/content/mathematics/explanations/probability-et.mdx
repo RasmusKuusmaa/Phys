@@ -1,0 +1,21 @@
+Tõenäosus omistab igale sündmusele arvu 0-st (võimatu) 1-ni (kindel), kusjuures
+kõigi võimalike tulemite tõenäosuste summa on 1. Võrdselt tõenäoliste tulemite
+korral on tegu loendamisülesandega: soodsad juhud jagatud kõigi juhtudega.
+Raskus ei ole kunagi definitsioonis — see on sündmuste ühendamises, kus kaks eri
+küsimust aetakse segamini.
+
+Esimene on see, kas sündmused on *teineteist välistavad*: kas need mõlemad
+saavad toimuda? Kui ei, siis P(A või B) = P(A) + P(B). Teine on see, kas need on
+*sõltumatud*: kas ühe toimumine muudab teise võimalust? Kui ei, siis
+P(A ja B) = P(A)·P(B). Need on eraldi omadused ja tasub tähele panna, et
+teineteist välistavad sündmused on tugevalt *sõltuvad* — teadmine, et A toimus,
+ütleb, et B ei toimunud, mis on vastand infopuudusele. Nende kahe sõna
+sünonüümidena käsitamine on selle teema kõige tavalisem struktuurne viga.
+
+Teine visa viga on hasartmängija eksitus. Aus münt, mis on maandunud viis korda
+järjest kullile, on järgmisel viskel ikka 50/50, sest münt ei säilita mingit
+mälestust sellest, mida ta tegi. Miski ei "tasandu" korvamise teel. Tõsi on
+suurte arvude seadus: paljude visete jooksul läheneb kullide *osakaal* poolele
+ja teeb seda varajase tasakaalutuse uue andmehulgaga uputades, mitte seda
+parandades. Kullide ja kirjade absoluutne vahe võib kasvada ja tavaliselt
+kasvabki edasi, samal ajal kui osakaal settib.

@@ -1,0 +1,21 @@
+Probability assigns each event a number from 0 (impossible) to 1 (certain), with
+the probabilities of all possible outcomes summing to 1. For equally likely
+outcomes it is a counting exercise: favourable cases over total cases. The
+difficulty is never the definition — it is combining events, where two distinct
+questions get confused with each other.
+
+The first is whether events are *mutually exclusive*: can they both happen? If
+not, P(A or B) = P(A) + P(B). The second is whether they are *independent*: does
+one happening change the chance of the other? If not, P(A and B) = P(A)·P(B).
+These are separate properties, and it is worth noticing that mutually exclusive
+events are strongly *dependent* — learning that A occurred tells you B did not,
+which is the opposite of no information. Treating the two words as synonyms is
+the most common structural error in the subject.
+
+The other persistent error is the gambler's fallacy. A fair coin that has landed
+heads five times running is still 50/50 on the next toss, because the coin
+retains no record of what it did. Nothing "evens out" by compensation. What is
+true is the law of large numbers: over many tosses the *proportion* of heads
+approaches 1/2, and it does so by swamping the early imbalance with new data
+rather than by correcting it. The absolute difference between heads and tails
+can and typically does keep growing even as the proportion settles.

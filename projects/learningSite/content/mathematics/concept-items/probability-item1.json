@@ -1,0 +1,56 @@
+{
+  "id": "probability-item1",
+  "conceptId": "probability",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A fair coin has landed heads five times in a row. What is the probability the next toss is heads?",
+    "et": "Aus münt on maandunud viis korda järjest kullile. Kui suur on tõenäosus, et järgmine vise on kull?",
+    "sourceHash": "9578047a2ce57782",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "1/2 — the coin has no memory, so previous tosses do not affect the next",
+        "et": "1/2 — mündil ei ole mälu, seega eelmised visked järgmist ei mõjuta",
+        "sourceHash": "ade4ba96bea7253f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Less than 1/2, since tails is now overdue",
+        "et": "Alla 1/2, sest kiri on nüüd võlgu",
+        "sourceHash": "0d4a4fc09c2a8203",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "probability-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It cannot be found without knowing whether the tosses are mutually exclusive",
+        "et": "Seda ei saa leida, teadmata, kas visked on teineteist välistavad",
+        "sourceHash": "06ec37047228ad97",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "probability-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The sum of the previous probabilities, since events combine by addition",
+        "et": "Eelmiste tõenäosuste summa, sest sündmused liituvad",
+        "sourceHash": "1e384d3e6498a76e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "probability-m3"
+    }
+  ]
+}

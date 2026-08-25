@@ -1,0 +1,19 @@
+{
+  "id": "probability",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "probability-and-statistics",
+  "title": {
+    "en": "Probability",
+    "et": "Tõenäosus",
+    "sourceHash": "9c9be01ba2123edf",
+    "stale": false
+  },
+  "summary": {
+    "en": "Probability assigns each outcome a number between 0 and 1; the rules for combining events depend on whether they are mutually exclusive and whether they are independent, which are different questions with different tests.",
+    "et": "Tõenäosus omistab igale tulemile arvu vahemikus 0 kuni 1; sündmuste ühendamise reeglid sõltuvad sellest, kas need on teineteist välistavad ja kas need on sõltumatud — need on eri küsimused eri kontrollidega.",
+    "sourceHash": "184318094a30c190",
+    "stale": false
+  },
+  "prerequisites": []
+}
