@@ -1,0 +1,56 @@
+# Normalize all text files to LF in the repository.
+# Working trees check out LF on every platform (Windows editors handle LF fine),
+# so cloning from Git for Windows and from WSL/Linux yields identical files.
+* text=auto eol=lf
+
+# Explicit text types (belt and braces for tools that skip auto-detection)
+*.ts       text eol=lf
+*.tsx      text eol=lf
+*.js       text eol=lf
+*.jsx      text eol=lf
+*.mjs      text eol=lf
+*.cjs      text eol=lf
+*.mts      text eol=lf
+*.json     text eol=lf
+*.jsonc    text eol=lf
+*.md       text eol=lf
+*.mdx      text eol=lf
+*.css      text eol=lf
+*.scss     text eol=lf
+*.html     text eol=lf
+*.svg      text eol=lf
+*.py       text eol=lf
+*.yml      text eol=lf
+*.yaml     text eol=lf
+*.toml     text eol=lf
+*.txt      text eol=lf
+*.sh       text eol=lf
+Dockerfile text eol=lf
+.gitignore text eol=lf
+.dockerignore text eol=lf
+
+# Scripts that must stay executable on Linux/CI
+*.sh text eol=lf
+
+# Binary files: never touch line endings, never try to diff as text
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.webp binary
+*.avif binary
+*.pdf  binary
+*.woff binary
+*.woff2 binary
+*.ttf  binary
+*.otf  binary
+*.eot  binary
+*.zip  binary
+*.gz   binary
+*.pyc  binary
+*.so   binary
+*.dll  binary
+
+# Generated / vendored files: collapse in diffs and exclude from language stats
+package-lock.json -diff linguist-generated=true
