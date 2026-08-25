@@ -1,0 +1,56 @@
+{
+  "id": "the-hydrogen-atom-and-atomic-structure-item1",
+  "conceptId": "the-hydrogen-atom-and-atomic-structure",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does an atomic orbital describe?",
+    "et": "Mida aatomiorbitaal kirjeldab?",
+    "sourceHash": "acec823e286f6880",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A wavefunction whose squared magnitude gives the probability distribution of the electron's position",
+        "et": "Lainefunktsiooni, mille absoluutväärtuse ruut annab elektroni asukoha tõenäosusjaotuse",
+        "sourceHash": "7317c53297718793",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The fixed circular path the electron follows around the nucleus",
+        "et": "Kindlat ringikujulist rada, mida mööda elektron tuuma ümber liigub",
+        "sourceHash": "748a6611f8cf10be",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hydrogen-atom-and-atomic-structure-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The route the electron travels between one energy level and the next",
+        "et": "Teed, mida mööda elektron liigub ühelt energiatasemelt teisele",
+        "sourceHash": "51b2d716e8156843",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hydrogen-atom-and-atomic-structure-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A shell in which all electrons have exactly the same energy in every atom",
+        "et": "Kihti, milles kõigil elektronidel on igas aatomis täpselt sama energia",
+        "sourceHash": "d66fab52e9ac6e01",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hydrogen-atom-and-atomic-structure-m3"
+    }
+  ]
+}

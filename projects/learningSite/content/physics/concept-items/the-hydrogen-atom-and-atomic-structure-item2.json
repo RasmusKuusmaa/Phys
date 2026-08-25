@@ -1,0 +1,56 @@
+{
+  "id": "the-hydrogen-atom-and-atomic-structure-item2",
+  "conceptId": "the-hydrogen-atom-and-atomic-structure",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Hydrogen's energy levels are given by −13.6 eV/n². What does this imply about the spacing between successive levels as n increases?",
+    "et": "Vesiniku energiatasemed on antud avaldisega −13,6 eV/n². Mida see tähendab järjestikuste tasemete vahekauguse kohta, kui n kasvab?",
+    "sourceHash": "568df1f7104896ac",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The levels crowd closer together, converging on the ionisation limit",
+        "et": "Tasemed tihenevad üksteise lähedale, koondudes ionisatsioonipiirile",
+        "sourceHash": "8d39410048ef540e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They stay evenly spaced, so every jump costs the same energy",
+        "et": "Need jäävad ühtlaste vahedega, seega maksab iga hüpe sama energia",
+        "sourceHash": "19816b8757d24c50",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hydrogen-atom-and-atomic-structure-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They spread further apart without limit as the electron moves outward",
+        "et": "Need lähevad elektroni väljapoole liikudes piiramatult kaugemale üksteisest",
+        "sourceHash": "7587e3c997d24eec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hydrogen-atom-and-atomic-structure-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The spacing depends on which orbital path the electron happens to be following",
+        "et": "Vahekaugus sõltub sellest, millist rada mööda elektron parasjagu liigub",
+        "sourceHash": "0a89b0043db916b6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hydrogen-atom-and-atomic-structure-m1"
+    }
+  ]
+}
