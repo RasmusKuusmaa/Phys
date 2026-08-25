@@ -1,0 +1,56 @@
+{
+  "id": "the-indefinite-integral-item1",
+  "conceptId": "the-indefinite-integral",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does an indefinite integral include an arbitrary constant?",
+    "et": "Miks sisaldab määramata integraal suvalist konstanti?",
+    "sourceHash": "898632bbd95242c3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because differentiating destroys constants, so infinitely many functions share the same derivative",
+        "et": "Sest tuletise võtmine hävitab konstandid, seega on lõpmata paljudel funktsioonidel sama tuletis",
+        "sourceHash": "6012c601c38e711d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is a bookkeeping convention with no mathematical content",
+        "et": "See on arvepidamise kokkulepe ilma matemaatilise sisuta",
+        "sourceHash": "099f7a1021504d3f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-indefinite-integral-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the integral of a product needs a correction term",
+        "et": "Sest korrutise integraal vajab parandusliiget",
+        "sourceHash": "aeca665d12426137",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-indefinite-integral-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because some functions have no elementary antiderivative",
+        "et": "Sest mõnel funktsioonil ei ole elementaarset algfunktsiooni",
+        "sourceHash": "6b902d764aaf61c5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-indefinite-integral-m3"
+    }
+  ]
+}

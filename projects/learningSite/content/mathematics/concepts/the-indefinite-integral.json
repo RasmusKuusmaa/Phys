@@ -1,0 +1,21 @@
+{
+  "id": "the-indefinite-integral",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "calculus",
+  "title": {
+    "en": "The indefinite integral",
+    "et": "Määramata integraal",
+    "sourceHash": "757d3edac10bb20b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Antidifferentiation reverses the derivative, recovering a family of functions that differ only by a constant — which is why every indefinite integral carries a +C.",
+    "et": "Integreerimine pöörab tuletise võtmise ümber, taastades funktsioonide pere, mis erinevad ainult konstandi poolest — just seepärast kannab iga määramata integraal liiget +C.",
+    "sourceHash": "6d712415d43702c2",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-derivative"
+  ]
+}

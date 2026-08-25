@@ -1,0 +1,56 @@
+{
+  "id": "the-indefinite-integral-item2",
+  "conceptId": "the-indefinite-integral",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How is ∫ x·cos(x) dx handled?",
+    "et": "Kuidas leitakse ∫ x·cos(x) dx?",
+    "sourceHash": "41430f94817ba8c8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "By integration by parts — there is no product rule for integrals",
+        "et": "Ositi integreerimisega — integraalide jaoks korrutise reeglit ei ole",
+        "sourceHash": "51c4bdf8c38966e7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "By integrating each factor and multiplying the results",
+        "et": "Integreerides kumbagi tegurit ja korrutades tulemused",
+        "sourceHash": "798936f244128275",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-indefinite-integral-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It cannot be done, since not every function has an antiderivative",
+        "et": "Seda ei saa teha, sest mitte igal funktsioonil ei ole algfunktsiooni",
+        "sourceHash": "d6c7f7a95408afae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-indefinite-integral-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "By differentiating instead, then dropping the constant",
+        "et": "Võttes hoopis tuletise ja jättes konstandi ära",
+        "sourceHash": "1f01c082a1f28245",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-indefinite-integral-m1"
+    }
+  ]
+}

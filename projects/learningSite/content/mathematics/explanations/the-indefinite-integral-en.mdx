@@ -1,0 +1,20 @@
+Differentiation has a natural question attached to it: given a rate of change,
+what was the original function? That reversal is antidifferentiation, and its
+answer is never a single function. Because the derivative of any constant is
+zero, x² and x² + 7 and x² − 100 all have derivative 2x. Recovering "the"
+antiderivative of 2x therefore recovers a whole family, written x² + C.
+
+The +C is not decoration. It is the degree of freedom that a rate of change
+cannot determine, and pinning it down needs one extra piece of information — an
+initial position, a starting temperature, a boundary condition. Drop it and you
+have silently assumed one particular member of the family, which is how a
+correct integration turns into a wrong physical answer.
+
+Integration is also much harder than differentiation, in a specific way. There
+are product and quotient *rules* for derivatives, but no corresponding formulas
+for integrals — ∫fg is not ∫f·∫g, and problems like ∫x·cos x dx need integration
+by parts or a substitution, chosen by judgement rather than applied mechanically.
+Worse, some perfectly ordinary functions, e^(−x²) among them, have no
+antiderivative expressible in elementary terms at all. That is not a gap in
+anyone's technique; it is a proven limitation, and it is why numerical
+integration exists.
