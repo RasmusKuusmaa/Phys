@@ -48,7 +48,11 @@
       "keywords": "Töö nr. 8. Nõrga elektrolüüdi tasakaalukonstandi määramine. 4. Keemiliste reaktsioonide kineetika Töö nr. 9. O2 kontsentratsiooni muutumise kineetika amperomeetriline uurimine"
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "laws-of-thermodynamics",
+    "chemical-equilibrium",
+    "reaction-kinetics"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/chemistry1.md"
   ],

@@ -310,6 +310,43 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "chemical-equilibrium",
     "redox-reactions",
   ],
+  // LOKT.02.037 Füüsikaline keemia 1. osa — thermodynamics (laws, entropy, Gibbs
+  // energy), chemical equilibrium and kinetics. Draws on physics thermodynamics
+  // concepts as well as chemistry, since the syllabus is classical thermo applied
+  // to chemical systems.
+  "LOKT.02.037": [
+    "laws-of-thermodynamics",
+    "entropy-and-the-second-law",
+    "statistical-definition-of-entropy",
+    "free-energy-and-spontaneity",
+    "the-carnot-cycle-and-heat-engines",
+    "ideal-gas-law",
+    "chemical-equilibrium",
+    "reaction-kinetics",
+  ],
+  // LOKT.09.014 / LOKT.10.018 organic and bioorganic practicals — same functional
+  // group and mechanism theory as the lecture course.
+  "LOKT.09.014": [
+    "functional-groups",
+    "nucleophilic-substitution",
+    "aromaticity",
+  ],
+  "LOKT.10.018": [
+    "functional-groups",
+    "aromaticity",
+  ],
+  // LTKT.02.002 Füüsikalise keemia praktikum I — same thermodynamics theory.
+  "LTKT.02.002": [
+    "laws-of-thermodynamics",
+    "chemical-equilibrium",
+    "reaction-kinetics",
+  ],
+  // LTKT.06.004 Keemilise analüüsi praktikum — theory the analysis rests on.
+  "LTKT.06.004": [
+    "stoichiometry",
+    "acids-bases-and-ph",
+    "redox-reactions",
+  ],
   "LTFY.01.004": [
     "combining-uncertainties",
     "displacement-velocity-acceleration",

@@ -43,7 +43,10 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "functional-groups",
+    "aromaticity"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/chemistry1.md"
   ],

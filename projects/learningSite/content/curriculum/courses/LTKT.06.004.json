@@ -41,7 +41,11 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "stoichiometry",
+    "acids-bases-and-ph",
+    "redox-reactions"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/chemistry1.md"
   ],

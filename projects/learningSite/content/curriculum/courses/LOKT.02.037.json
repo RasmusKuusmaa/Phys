@@ -184,7 +184,16 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "laws-of-thermodynamics",
+    "entropy-and-the-second-law",
+    "statistical-definition-of-entropy",
+    "free-energy-and-spontaneity",
+    "the-carnot-cycle-and-heat-engines",
+    "ideal-gas-law",
+    "chemical-equilibrium",
+    "reaction-kinetics"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience1.md",
     "SuunaMoodulid/chemistry1.md"
