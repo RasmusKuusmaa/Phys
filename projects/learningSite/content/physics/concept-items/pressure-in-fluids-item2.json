@@ -1,0 +1,56 @@
+{
+  "id": "pressure-in-fluids-item2",
+  "conceptId": "pressure-in-fluids",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A diver at depth feels pressure on every part of their body, not only on the top of their head. Why?",
+    "et": "Sukelduja tunneb sügavuses rõhku kehe igal osal, mitte ainult pealael. Miks?",
+    "sourceHash": "8c7af5004b7c86d8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Pressure in a fluid at rest acts equally in all directions at a given point",
+        "et": "Rõhk paigalseisvas vedelikus mõjub antud punktis kõigis suundades võrdselt",
+        "sourceHash": "e217f943a485436c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because water above pushes down and the sensation simply spreads through the body",
+        "et": "Sest ülalpool olev vesi surub alla ja tunne lihtsalt levib mööda keha laiali",
+        "sourceHash": "a4f23e137bb7f079",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pressure-in-fluids-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the total volume of the sea acts on the diver from every side",
+        "et": "Sest kogu mere ruumala mõjub sukeldujale igast küljest",
+        "sourceHash": "2f77b323863364af",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pressure-in-fluids-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the shape of the diver's body determines the pressure they experience",
+        "et": "Sest sukelduja keha kuju määrab rõhu, mida ta tunneb",
+        "sourceHash": "39e95794f9ef46cc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pressure-in-fluids-m3"
+    }
+  ]
+}

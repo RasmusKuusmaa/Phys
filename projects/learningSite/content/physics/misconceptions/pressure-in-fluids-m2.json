@@ -1,0 +1,10 @@
+{
+  "id": "pressure-in-fluids-m2",
+  "conceptId": "pressure-in-fluids",
+  "text": {
+    "en": "Pressure in a liquid pushes only downwards, since it comes from weight.",
+    "et": "Rõhk vedelikus surub ainult allapoole, sest see tuleneb raskusest.",
+    "sourceHash": "e63462a1ad36b284",
+    "stale": false
+  }
+}

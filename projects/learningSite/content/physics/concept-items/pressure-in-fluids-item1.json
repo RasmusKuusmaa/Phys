@@ -1,0 +1,56 @@
+{
+  "id": "pressure-in-fluids-item1",
+  "conceptId": "pressure-in-fluids",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two open vessels of very different width are filled with water to the same depth. How do the pressures at their bases compare?",
+    "et": "Kaks väga erineva laiusega lahtist anumat on täidetud veega sama sügavuseni. Kuidas on rõhud nende põhjas võrreldes?",
+    "sourceHash": "2c352656d272e5a2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They are equal, because pressure depends on depth and density, not on how much liquid there is",
+        "et": "Need on võrdsed, sest rõhk sõltub sügavusest ja tihedusest, mitte vedeliku kogusest",
+        "sourceHash": "1e6846b74fe3f65e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The wider vessel has the higher pressure, since it holds more water",
+        "et": "Laiemas anumas on suurem rõhk, sest seal on rohkem vett",
+        "sourceHash": "0bb061de354cf75d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pressure-in-fluids-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The narrow vessel has the lower pressure, because its shape confines the liquid",
+        "et": "Kitsas anumas on väiksem rõhk, sest selle kuju piirab vedelikku",
+        "sourceHash": "a95041fa665a2336",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pressure-in-fluids-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Neither has pressure at the base, because pressure acts only sideways on the walls",
+        "et": "Kummagi põhjas ei ole rõhku, sest rõhk mõjub ainult külgsuunas seintele",
+        "sourceHash": "50764ddb9a968aa9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pressure-in-fluids-m2"
+    }
+  ]
+}

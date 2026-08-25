@@ -1,0 +1,10 @@
+{
+  "id": "pressure-in-fluids-m1",
+  "conceptId": "pressure-in-fluids",
+  "text": {
+    "en": "Pressure at a given depth depends on the total amount of liquid in the container, so a wider vessel has higher pressure at its base.",
+    "et": "Rõhk antud sügavusel sõltub anumas oleva vedeliku üldkogusest, seega on laiema anuma põhjas suurem rõhk.",
+    "sourceHash": "a37d8d9cecb46bd4",
+    "stale": false
+  }
+}

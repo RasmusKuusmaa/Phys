@@ -1,0 +1,10 @@
+{
+  "id": "pressure-in-fluids-m3",
+  "conceptId": "pressure-in-fluids",
+  "text": {
+    "en": "The shape of the container changes the pressure at the bottom, so a narrow tube holds less pressure than a wide one at the same depth.",
+    "et": "Anuma kuju muudab rõhku põhjas, nii et kitsas torus on samal sügavusel väiksem rõhk kui laias.",
+    "sourceHash": "f683687cb9856e5b",
+    "stale": false
+  }
+}
