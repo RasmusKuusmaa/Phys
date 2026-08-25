@@ -1,0 +1,56 @@
+{
+  "id": "blackbody-radiation-and-plancks-law-item2",
+  "conceptId": "blackbody-radiation-and-plancks-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What determines the shape and peak wavelength of a blackbody's emission spectrum?",
+    "et": "Mis määrab absoluutselt musta keha kiirgusspektri kuju ja tipplainepikkuse?",
+    "sourceHash": "88dbd572aa6b50a4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its temperature alone, regardless of what material it is made of",
+        "et": "Ainuüksi selle temperatuur, sõltumata sellest, millisest materjalist see on tehtud",
+        "sourceHash": "b393b1c53fbe4ea7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The specific material the object is made of, not its temperature",
+        "et": "Konkreetne materjal, millest objekt on tehtud, mitte selle temperatuur",
+        "sourceHash": "3b02ace909c3eff1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "blackbody-radiation-and-plancks-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Its colour as perceived by a human observer at room temperature",
+        "et": "Selle värvus, nagu inimvaatleja seda toatemperatuuril tajub",
+        "sourceHash": "dd8fc75b5dcfb4e3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "blackbody-radiation-and-plancks-law-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The object's size and mass, independent of temperature",
+        "et": "Objekti suurus ja mass, sõltumata temperatuurist",
+        "sourceHash": "a5c8a4de76cce5ae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "blackbody-radiation-and-plancks-law-m1"
+    }
+  ]
+}

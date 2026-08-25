@@ -1,0 +1,56 @@
+{
+  "id": "blackbody-radiation-and-plancks-law-item1",
+  "conceptId": "blackbody-radiation-and-plancks-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Classical physics, treating radiation as a continuous wave, predicted that a hot object should radiate infinite energy at short wavelengths. What resolved this failure, called the ultraviolet catastrophe?",
+    "et": "Klassikaline füüsika, käsitledes kiirgust pideva lainena, ennustas, et kuum keha peaks kiirgama lõpmatut energiat lühikestel lainepikkustel. Mis lahendas selle nurjumise, mida nimetatakse ultraviolettkatastroofiks?",
+    "sourceHash": "ddcb3b5ea94aee3a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Planck's assumption that energy is emitted in discrete quanta, which suppresses short-wavelength emission and matches the observed spectrum",
+        "et": "Plancki eeldus, et energia kiiratakse diskreetsete kvantidena, mis pärsib lühikese lainepikkuse kiirgust ja sobib vaadeldud spektriga",
+        "sourceHash": "951c7ec6760d081f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Improved experimental technique that showed the infinite energy really was there all along",
+        "et": "Täiustatud katsetehnika, mis näitas, et lõpmatu energia oli kogu aeg tegelikult olemas",
+        "sourceHash": "061034d3c6735a57",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "blackbody-radiation-and-plancks-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The discovery that hot objects do not actually emit any radiation at short wavelengths",
+        "et": "Avastus, et kuumad kehad tegelikult ei kiirga üldse lühikestel lainepikkustel",
+        "sourceHash": "c22f9f67b35040b3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "blackbody-radiation-and-plancks-law-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A correction to the classical wave theory that kept energy continuous but added a cutoff by hand",
+        "et": "Klassikalise laineteooria parandus, mis hoidis energia pidevana, kuid lisas käsitsi piirväärtuse",
+        "sourceHash": "f6aefb27061b0ce4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "blackbody-radiation-and-plancks-law-m1"
+    }
+  ]
+}

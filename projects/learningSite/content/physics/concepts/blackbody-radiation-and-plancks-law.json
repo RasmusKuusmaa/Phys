@@ -1,0 +1,21 @@
+{
+  "id": "blackbody-radiation-and-plancks-law",
+  "subject": "physics",
+  "level": "L3",
+  "module": "modern-physics",
+  "title": {
+    "en": "Blackbody radiation and Planck's law",
+    "et": "Absoluutselt musta keha kiirgus ja Plancki seadus",
+    "sourceHash": "18360d2246c15961",
+    "stale": false
+  },
+  "summary": {
+    "en": "A perfect absorber and emitter of radiation produces a spectrum that depends only on its temperature, and classical physics could not explain its shape at all until Planck showed that treating the emitted energy as coming in discrete packets fixed the prediction — the discovery that began quantum mechanics.",
+    "et": "Kiirguse täiuslik neelaja ja kiirgaja tekitab spektri, mis sõltub ainult temperatuurist, ja klassikaline füüsika ei suutnud selle kuju üldse seletada, kuni Planck näitas, et kiiratava energia käsitlemine diskreetsete pakettidena parandas ennustuse ära — avastus, millest sai alguse kvantmehaanika.",
+    "sourceHash": "1764caded0141e83",
+    "stale": false
+  },
+  "prerequisites": [
+    "photons-and-quanta"
+  ]
+}
