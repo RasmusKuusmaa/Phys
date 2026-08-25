@@ -1,0 +1,56 @@
+{
+  "id": "hamiltonian-mechanics-item2",
+  "conceptId": "hamiltonian-mechanics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What replaces velocity as a fundamental variable when moving from Lagrangian to Hamiltonian mechanics?",
+    "et": "Mis asendab kiiruse põhimuutujana, kui liikuda Lagrange'i mehaanikalt Hamiltoni mehaanikale?",
+    "sourceHash": "542d7e3ccb86fa8e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Momentum, defined from the Lagrangian and not always equal to simply mass times velocity",
+        "et": "Impulss, defineeritud Lagrange'i funktsioonist ja mitte alati võrdne lihtsalt massi ja kiiruse korrutisega",
+        "sourceHash": "20c390f9886126a7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing changes — Hamiltonian mechanics uses exactly the same variables as Lagrangian mechanics",
+        "et": "Miski ei muutu — Hamiltoni mehaanika kasutab täpselt samu muutujaid mis Lagrange'i mehaanika",
+        "sourceHash": "06c963e58b6deeb4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hamiltonian-mechanics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Force replaces velocity as the fundamental variable",
+        "et": "Kiiruse asendab põhimuutujana jõud",
+        "sourceHash": "e527c020b20b56b4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hamiltonian-mechanics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Acceleration replaces velocity as the fundamental variable",
+        "et": "Kiiruse asendab põhimuutujana kiirendus",
+        "sourceHash": "e8f1bf33a8c96a1a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hamiltonian-mechanics-m1"
+    }
+  ]
+}

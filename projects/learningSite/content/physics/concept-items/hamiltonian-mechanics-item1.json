@@ -1,0 +1,56 @@
+{
+  "id": "hamiltonian-mechanics-item1",
+  "conceptId": "hamiltonian-mechanics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A system is solved once using Lagrangian mechanics and once using Hamiltonian mechanics. How do the predicted trajectories compare?",
+    "et": "Süsteem lahendatakse korra Lagrange'i mehaanikaga ja korra Hamiltoni mehaanikaga. Kuidas võrduvad ennustatud trajektoorid?",
+    "sourceHash": "7c788106f8a08e96",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They are identical — the two formulations describe the same physics in different variables",
+        "et": "Need on identsed — mõlemad sõnastused kirjeldavad sama füüsikat erinevates muutujates",
+        "sourceHash": "bc94fe9f09141450",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They generally differ, since Hamiltonian mechanics is a distinct physical theory",
+        "et": "Need erinevad üldjuhul, sest Hamiltoni mehaanika on eraldiseisev füüsikateooria",
+        "sourceHash": "61218189e839e5e9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hamiltonian-mechanics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Hamiltonian mechanics is only an approximation to the exact Lagrangian result",
+        "et": "Hamiltoni mehaanika on ainult ligikaudne Lagrange'i täpsele tulemusele",
+        "sourceHash": "cc77cdc871b66cdf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hamiltonian-mechanics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The comparison is meaningless, since the two use unrelated equations",
+        "et": "Võrdlus on mõttetu, sest need kaks kasutavad omavahel seosetuid võrrandeid",
+        "sourceHash": "c618c5a9aa186efa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hamiltonian-mechanics-m1"
+    }
+  ]
+}

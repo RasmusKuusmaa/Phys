@@ -1,0 +1,21 @@
+{
+  "id": "hamiltonian-mechanics",
+  "subject": "physics",
+  "level": "L3",
+  "module": "mechanics",
+  "title": {
+    "en": "Hamiltonian mechanics",
+    "et": "Hamiltoni mehaanika",
+    "sourceHash": "2a168ca46f155962",
+    "stale": false
+  },
+  "summary": {
+    "en": "Hamiltonian mechanics rewrites Lagrangian mechanics in terms of position and momentum instead of position and velocity, turning each second-order equation of motion into two coupled first-order ones and revealing energy as the quantity generating time evolution — the formulation that carries most directly into quantum mechanics.",
+    "et": "Hamiltoni mehaanika kirjutab Lagrange'i mehaanika ümber asukoha ja impulsi kaudu asukoha ja kiiruse asemel, muutes iga teist järku liikumisvõrrandi kaheks seotud esimest järku võrrandiks ja paljastades energia kui suuruse, mis genereerib ajalist arengut — sõnastus, mis kandub kõige otsesemalt üle kvantmehaanikasse.",
+    "sourceHash": "0ac854587e61fcfb",
+    "stale": false
+  },
+  "prerequisites": [
+    "lagrangian-mechanics"
+  ]
+}
