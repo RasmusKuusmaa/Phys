@@ -1,0 +1,56 @@
+{
+  "id": "characterisation-methods-item2",
+  "conceptId": "characterisation-methods",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An X-ray diffraction pattern is a set of spots, not a picture of atoms. What does it directly measure?",
+    "et": "Röntgendifraktsiooni muster on täppide kogum, mitte aatomite pilt. Mida see otseselt mõõdab?",
+    "sourceHash": "2cfee81185599a3c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The regular spacing and symmetry of the crystal lattice, from which atomic positions are inferred by calculation",
+        "et": "Kristallvõre korrapärast kaugust ja sümmeetriat, millest aatomite asukohad arvutuse teel tuletatakse",
+        "sourceHash": "351daa2d53491c51",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A direct photograph-like image of individual atoms",
+        "et": "Otsese fotosarnase pildi üksikutest aatomitest",
+        "sourceHash": "54924d445a4f8c42",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "characterisation-methods-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Exactly the same information a scanning electron microscope gives",
+        "et": "Täpselt sama informatsiooni, mida annab skaneeriv elektronmikroskoop",
+        "sourceHash": "eb86fe4f0b6295ae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "characterisation-methods-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The chemical bonding present, with no reference to atomic positions",
+        "et": "Olemasolevat keemilist sidet, ilma viiteta aatomite asukohtadele",
+        "sourceHash": "33442646e4ad0bf2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "characterisation-methods-m2"
+    }
+  ]
+}

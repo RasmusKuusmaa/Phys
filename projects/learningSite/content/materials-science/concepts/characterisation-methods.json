@@ -1,0 +1,21 @@
+{
+  "id": "characterisation-methods",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Characterisation methods",
+    "et": "Uurimismeetodid",
+    "sourceHash": "1ae52e46dc5e57d8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Diffraction, microscopy and spectroscopy each reveal a different scale of a material's structure — crystal geometry, real-space topology, or chemical bonding — and choosing the right method means matching the technique's probe to the length scale of the question.",
+    "et": "Difraktsioon, mikroskoopia ja spektroskoopia paljastavad kõik erineva mõõtkavaga materjali struktuuri — kristalli geomeetria, reaalruumi topoloogia või keemilise sideme — ning õige meetodi valimine tähendab meetodi sondi sobitamist küsimuse pikkusmõõtkavaga.",
+    "sourceHash": "49a9d5ecd64dbfc0",
+    "stale": false
+  },
+  "prerequisites": [
+    "structure-property-relationships"
+  ]
+}
