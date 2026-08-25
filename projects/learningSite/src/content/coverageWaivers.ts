@@ -33,7 +33,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "moment-of-inertia-and-rotational-dynamics",
     "particle-in-a-box",
     "pascals-principle-and-hydraulics",
-    "postulates-of-special-relativity",
     "pressure-in-fluids",
     "quantum-tunneling",
     "rc-circuit-transients",

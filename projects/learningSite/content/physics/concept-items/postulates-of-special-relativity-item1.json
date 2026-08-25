@@ -1,0 +1,56 @@
+{
+  "id": "postulates-of-special-relativity-item1",
+  "conceptId": "postulates-of-special-relativity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A spacecraft passing a station at 0.8c switches on its headlight. What speed does an observer on the station measure for that light in vacuum?",
+    "et": "Jaamast 0,8c kiirusega mööduv kosmoselaev lülitab sisse esilaterna. Millise kiiruse mõõdab jaamas olev vaatleja sellele valgusele vaakumis?",
+    "sourceHash": "d7ced2ab3d0c773d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Exactly c — the same value the spacecraft crew measures",
+        "et": "Täpselt c — sama väärtus, mille mõõdab kosmoselaeva meeskond",
+        "sourceHash": "38de268f56d161ce",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "1.8c, because the spacecraft's speed adds to the speed of the light",
+        "et": "1,8c, sest kosmoselaeva kiirus liitub valguse kiirusega",
+        "sourceHash": "8a2baa38fda1c8fc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "postulates-of-special-relativity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Slightly more than c, but the excess is too small to detect",
+        "et": "Veidi rohkem kui c, kuid ülejääk on liiga väike, et seda tuvastada",
+        "sourceHash": "f465e183a4b856ea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "postulates-of-special-relativity-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Less than c, since the station is not the frame in which the source is at rest",
+        "et": "Vähem kui c, sest jaam ei ole taustsüsteem, milles allikas seisab",
+        "sourceHash": "a873b9ded7ec342a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "postulates-of-special-relativity-m3"
+    }
+  ]
+}

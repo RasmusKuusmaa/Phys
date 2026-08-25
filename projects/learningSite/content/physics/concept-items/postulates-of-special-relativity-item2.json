@@ -1,0 +1,56 @@
+{
+  "id": "postulates-of-special-relativity-item2",
+  "conceptId": "postulates-of-special-relativity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two laboratories drift past each other at constant velocity and run the same experiment. What does the first postulate of special relativity say about their results?",
+    "et": "Kaks laborit mööduvad teineteisest ühtlase kiirusega ja teevad sama katse. Mida ütleb erirelatiivsusteooria esimene postulaat nende tulemuste kohta?",
+    "sourceHash": "e16980323b05035f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The same physical laws hold in both, so no experiment can single one out as the one at rest",
+        "et": "Mõlemas kehtivad samad füüsikaseadused, seega ei suuda ükski katse ühte neist paigalseisvaks tunnistada",
+        "sourceHash": "fdf450eef06cb048",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The results differ slightly, and comparing them shows which laboratory is really moving",
+        "et": "Tulemused erinevad veidi ja nende võrdlemine näitab, kumb labor tegelikult liigub",
+        "sourceHash": "af675f64f110e9d8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "postulates-of-special-relativity-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The laws agree only approximately, with small deviations that better instruments would find",
+        "et": "Seadused kattuvad ainult ligikaudu ning täpsemad mõõteriistad leiaksid väikesed kõrvalekalded",
+        "sourceHash": "1a5756a465000086",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "postulates-of-special-relativity-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The results differ, because speeds measured in one laboratory must be added to the other's speed",
+        "et": "Tulemused erinevad, sest ühes laboris mõõdetud kiirustele tuleb liita teise labori kiirus",
+        "sourceHash": "a51510255230635c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "postulates-of-special-relativity-m1"
+    }
+  ]
+}
