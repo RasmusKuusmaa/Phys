@@ -1,0 +1,56 @@
+{
+  "id": "algorithms-and-program-structure-item1",
+  "conceptId": "algorithms-and-program-structure",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In most programming languages, what does the statement x = x + 1 mean?",
+    "et": "Mida tähendab enamikus programmeerimiskeeltes lause x = x + 1?",
+    "sourceHash": "255b3b2157607edf",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Compute x + 1 and store the result back in x — assignment, not an equation",
+        "et": "Arvuta x + 1 ja salvesta tulemus tagasi x-i — see on omistamine, mitte võrrand",
+        "sourceHash": "95725dd46b90a52a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "An equation with no solution, so it is an error",
+        "et": "Võrrand, millel ei ole lahendit, seega on tegu veaga",
+        "sourceHash": "ac7e5e80a1d1a9cb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "algorithms-and-program-structure-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The same thing in every language, since algorithms and programs are identical",
+        "et": "Igas keeles sama, sest algoritmid ja programmid on identsed",
+        "sourceHash": "8834cf0807a01282",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "algorithms-and-program-structure-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing, unless the program produces an error message",
+        "et": "Mitte midagi, kui programm ei anna veateadet",
+        "sourceHash": "aa1e9480003664f5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "algorithms-and-program-structure-m3"
+    }
+  ]
+}

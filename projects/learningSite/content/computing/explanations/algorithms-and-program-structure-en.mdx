@@ -1,0 +1,23 @@
+An algorithm is a recipe: a finite sequence of unambiguous steps that turns
+input into output and is guaranteed to stop. A program is one *expression* of an
+algorithm, written in a particular language for a particular machine. The
+distinction matters because the hard thinking happens at the algorithm level —
+deciding what steps solve the problem — while the program is the translation.
+The same sorting algorithm exists in Python, C and pseudocode, and learning the
+algorithm transfers while learning one language's syntax largely does not.
+
+Programs are built from a small number of constructs, and the count is genuinely
+small: a value, a variable to hold it, a way to choose between paths, a way to
+repeat, and a way to name a block of steps so it can be reused. Everything else
+is convenience. This is why the syllabus of a first programming course reads
+expressions, conditionals, functions, loops — that really is the whole
+vocabulary.
+
+The construct that reliably confuses is the variable. In mathematics, x = x + 1
+is a contradiction. In a program it is an instruction: evaluate the right-hand
+side, then store the result in the box named on the left. A variable is a named
+storage location whose contents change over time, not an unknown to be solved
+for. The second thing worth internalising early is that running is not the same
+as working. A program with a logic error executes happily and produces confident
+nonsense, so testing against known answers — not the absence of an error
+message — is what establishes correctness.

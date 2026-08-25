@@ -1,0 +1,19 @@
+{
+  "id": "algorithms-and-program-structure",
+  "subject": "computing",
+  "level": "L1",
+  "module": "programming-fundamentals",
+  "title": {
+    "en": "Algorithms and program structure",
+    "et": "Algoritmid ja programmi struktuur",
+    "sourceHash": "a3b19c4a486d6389",
+    "stale": false
+  },
+  "summary": {
+    "en": "An algorithm is a finite, unambiguous sequence of steps that solves a class of problems; a program is one expression of an algorithm in a language, and the same algorithm can be written in many languages.",
+    "et": "Algoritm on lõplik ühemõtteline sammude jada, mis lahendab teatud ülesandeklassi; programm on algoritmi üks väljendus mingis keeles ja sama algoritmi saab kirjutada paljudes keeltes.",
+    "sourceHash": "2d21e5b17a5f19d5",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "algorithms-and-program-structure-item2",
+  "conceptId": "algorithms-and-program-structure",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A program runs to completion with no error message but prints the wrong total. What kind of fault is this?",
+    "et": "Programm töötab lõpuni ilma veateateta, kuid trükib vale summa. Mis liiki viga see on?",
+    "sourceHash": "4dadec0e7fc07e22",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A logic error — the code is valid but does not do what was intended",
+        "et": "Loogikaviga — kood on korrektne, kuid ei tee seda, mida sooviti",
+        "sourceHash": "3614adce0bac55dc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Not a fault at all, since it ran without errors",
+        "et": "Üldse mitte viga, sest programm töötas veateateta",
+        "sourceHash": "497c635c43ffd477",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "algorithms-and-program-structure-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A language error, since algorithms and programs are the same",
+        "et": "Keeleviga, sest algoritmid ja programmid on üks ja seesama",
+        "sourceHash": "57b78c36ac46a19a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "algorithms-and-program-structure-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A mathematical error in solving the equation x = x + 1",
+        "et": "Matemaatiline viga võrrandi x = x + 1 lahendamisel",
+        "sourceHash": "0a5a2639c8b928b1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "algorithms-and-program-structure-m2"
+    }
+  ]
+}
