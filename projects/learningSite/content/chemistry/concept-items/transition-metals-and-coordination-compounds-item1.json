@@ -1,0 +1,56 @@
+{
+  "id": "transition-metals-and-coordination-compounds-item1",
+  "conceptId": "transition-metals-and-coordination-compounds",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Iron forms both Fe²⁺ and Fe³⁺ compounds. Why can transition metals commonly do this while sodium cannot form anything but Na⁺?",
+    "et": "Raud moodustab nii Fe²⁺ kui ka Fe³⁺ ühendeid. Miks suudavad siirdemetallid seda tavaliselt teha, samas kui naatrium ei suuda moodustada muud kui Na⁺?",
+    "sourceHash": "9b1cf9a678a4ae3e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The energies of the outer s and inner d electrons are close, so different numbers can be lost with only a modest energy cost",
+        "et": "Välise s- ja sisemise d-elektroni energiad on lähedased, seega saab erineval hulgal elektrone loovutada üsna väikese energiakuluga",
+        "sourceHash": "518a0e3bb98c4b1d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Iron is simply a more reactive element than sodium",
+        "et": "Raud on lihtsalt reaktsioonivõimelisem element kui naatrium",
+        "sourceHash": "c01e9d3796232721",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transition-metals-and-coordination-compounds-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All metals can form multiple oxidation states equally well",
+        "et": "Kõik metallid suudavad võrdselt hästi moodustada mitmeid oksüdatsiooniastmeid",
+        "sourceHash": "9d02ba6ed85e2b5b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transition-metals-and-coordination-compounds-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Fe³⁺ is not a real oxidation state, only Fe²⁺ occurs naturally",
+        "et": "Fe³⁺ ei ole tegelik oksüdatsiooniaste, looduses esineb ainult Fe²⁺",
+        "sourceHash": "bbd665f8f5498d8f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transition-metals-and-coordination-compounds-m1"
+    }
+  ]
+}

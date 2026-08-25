@@ -1,0 +1,22 @@
+{
+  "id": "transition-metals-and-coordination-compounds",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "inorganic-chemistry",
+  "title": {
+    "en": "Transition metals and coordination compounds",
+    "et": "Siirdemetallid ja kompleksühendid",
+    "sourceHash": "d8f132ff15d52092",
+    "stale": false
+  },
+  "summary": {
+    "en": "Transition metals fill an inner d-subshell rather than the outermost one, which lets them adopt several oxidation states, form coloured compounds, and bind surrounding molecules as coordination complexes held together by donated electron pairs.",
+    "et": "Siirdemetallid täidavad sisemist d-alakihti, mitte kõige välimist, mistõttu suudavad need omandada mitmeid oksüdatsiooniastmeid, moodustada värvilisi ühendeid ning siduda ümbritsevaid molekule loovutatud elektronpaaridega hoitavateks kompleksühenditeks.",
+    "sourceHash": "04fa7d28897d94dd",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-periodic-table",
+    "chemical-bonding"
+  ]
+}

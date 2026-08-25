@@ -1,0 +1,56 @@
+{
+  "id": "transition-metals-and-coordination-compounds-item2",
+  "conceptId": "transition-metals-and-coordination-compounds",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The same metal ion gives solutions of different colours depending on which molecules surround it. What does this show?",
+    "et": "Sama metalliioon annab eri värvi lahuseid, sõltuvalt sellest, millised molekulid seda ümbritsevad. Mida see näitab?",
+    "sourceHash": "bdc47abc186235b3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Colour arises from the d-electron energy gaps, which the surrounding ligands shift",
+        "et": "Värvus tuleneb d-elektronide energialõhedest, mida ümbritsevad ligandid nihutavad",
+        "sourceHash": "3826a93c89809cf5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The colour comes from the metal alone and should not change",
+        "et": "Värvus tuleb ainult metallist ja ei peaks muutuma",
+        "sourceHash": "40e10ae4125d4fe7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transition-metals-and-coordination-compounds-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The metal ion itself must have changed identity",
+        "et": "Metalliioon ise peab olema identiteeti muutnud",
+        "sourceHash": "7029b7a4f5419bf9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transition-metals-and-coordination-compounds-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Coordination bonds are fundamentally unlike covalent bonds, which explains the colour shift",
+        "et": "Koordinatiivsed sidemed erinevad põhimõtteliselt kovalentsetest, mis seletab värvimuutuse",
+        "sourceHash": "27bec76bfee3d5a5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transition-metals-and-coordination-compounds-m3"
+    }
+  ]
+}
