@@ -1,0 +1,22 @@
+The determinant compresses a whole square matrix into one number, and the
+formulas for computing it — the 2×2 cross pattern, cofactor expansion — give no
+hint why anyone would want it. The geometric meaning does: the determinant is
+the factor by which the transformation scales volume. A determinant of 3 means
+every region comes out three times larger; a determinant of 1 means volume is
+preserved, as a rotation does.
+
+Read that way, a zero determinant is immediately meaningful. Scaling volume by
+zero means the transformation has flattened space — squashed a cube onto a
+plane, or a plane onto a line. Information is destroyed, distinct inputs now
+share an output, and no inverse can exist. This is why "determinant zero" and
+"not invertible" are the same statement, and why the determinant is the standard
+test for whether a system of linear equations has a unique solution.
+
+Two clarifications. A zero determinant says nothing about the entries being
+zero: the matrix with rows (1, 2) and (2, 4) has determinant zero purely because
+its rows are proportional and its transformation collapses the plane onto a
+line. And a negative determinant is not an error — the sign records orientation.
+A reflection scales volume by 1 in size but flips handedness, giving −1. Only
+the magnitude is a volume factor; the sign says whether the transformation turns
+a right-handed frame into a left-handed one. Determinants exist only for square
+matrices, since only those map a space back to one of the same dimension.

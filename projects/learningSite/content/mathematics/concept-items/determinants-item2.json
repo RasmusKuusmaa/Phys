@@ -1,0 +1,56 @@
+{
+  "id": "determinants-item2",
+  "conceptId": "determinants",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does a negative determinant indicate?",
+    "et": "Mida näitab negatiivne determinant?",
+    "sourceHash": "d8b987e36b000340",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The transformation reverses orientation, as a reflection does",
+        "et": "Teisendus pöörab orientatsiooni ümber, nagu peegeldus",
+        "sourceHash": "f6c52d8270f5a599",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "An arithmetic error, since volume cannot be negative",
+        "et": "Arvutusviga, sest ruumala ei saa olla negatiivne",
+        "sourceHash": "c13367ee9a4716db",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "determinants-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That the matrix is entirely made of negative entries",
+        "et": "Et maatriks koosneb tervenisti negatiivsetest elementidest",
+        "sourceHash": "6803b00229cb4cab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "determinants-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That the matrix is rectangular rather than square",
+        "et": "Et maatriks on ristkülikukujuline, mitte ruudukujuline",
+        "sourceHash": "c0f8abbb60982808",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "determinants-m2"
+    }
+  ]
+}

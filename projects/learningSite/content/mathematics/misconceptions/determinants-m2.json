@@ -1,0 +1,10 @@
+{
+  "id": "determinants-m2",
+  "conceptId": "determinants",
+  "text": {
+    "en": "Determinants are defined for any matrix, not only square ones.",
+    "et": "Determinandid on defineeritud mistahes maatriksi, mitte ainult ruutmaatriksi jaoks.",
+    "sourceHash": "d868e2db5b265bc2",
+    "stale": false
+  }
+}

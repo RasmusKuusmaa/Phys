@@ -1,0 +1,10 @@
+{
+  "id": "determinants-m3",
+  "conceptId": "determinants",
+  "text": {
+    "en": "A negative determinant means an error has been made, since it measures volume.",
+    "et": "Negatiivne determinant tähendab, et on tehtud viga, sest determinant mõõdab ruumala.",
+    "sourceHash": "731036a8e894ea66",
+    "stale": false
+  }
+}

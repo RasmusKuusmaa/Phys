@@ -1,0 +1,10 @@
+{
+  "id": "determinants-m1",
+  "conceptId": "determinants",
+  "text": {
+    "en": "A determinant of zero means the matrix is entirely made of zeros.",
+    "et": "Nulliga võrduv determinant tähendab, et maatriks koosneb tervenisti nullidest.",
+    "sourceHash": "8ea4eaf14ec2b095",
+    "stale": false
+  }
+}

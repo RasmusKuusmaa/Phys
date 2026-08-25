@@ -1,0 +1,56 @@
+{
+  "id": "determinants-item1",
+  "conceptId": "determinants",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A square matrix has determinant zero. What does this say about the transformation it represents?",
+    "et": "Ruutmaatriksi determinant on null. Mida see ütleb teisenduse kohta, mida maatriks esitab?",
+    "sourceHash": "28b1afd48c791b9d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It collapses space to a lower dimension, so it has no inverse",
+        "et": "See surub ruumi madalamasse mõõtmesse, seega pöördmaatriksit ei ole",
+        "sourceHash": "2e29407a2c75e22b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Every entry of the matrix must be zero",
+        "et": "Maatriksi iga element peab olema null",
+        "sourceHash": "71b8dfab5414c230",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "determinants-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The matrix is not square, since only square matrices have determinants",
+        "et": "Maatriks ei ole ruutmaatriks, sest determinant on ainult ruutmaatriksitel",
+        "sourceHash": "5dd0f2c55de9c316",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "determinants-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A mistake was made, because a determinant cannot be zero",
+        "et": "On tehtud viga, sest determinant ei saa olla null",
+        "sourceHash": "b37692cc806585de",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "determinants-m3"
+    }
+  ]
+}

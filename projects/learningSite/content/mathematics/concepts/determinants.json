@@ -1,0 +1,21 @@
+{
+  "id": "determinants",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "linear-algebra",
+  "title": {
+    "en": "Determinants",
+    "et": "Determinandid",
+    "sourceHash": "e8f87a994994d952",
+    "stale": false
+  },
+  "summary": {
+    "en": "The determinant of a square matrix is a single number giving the factor by which the transformation scales volume — zero exactly when the transformation collapses space and cannot be inverted.",
+    "et": "Ruutmaatriksi determinant on üksainus arv, mis annab teguri, mille võrra teisendus ruumala muudab — see on null täpselt siis, kui teisendus surub ruumi kokku ja seda ei saa pöörata.",
+    "sourceHash": "ee6f876115e70109",
+    "stale": false
+  },
+  "prerequisites": [
+    "matrices"
+  ]
+}
