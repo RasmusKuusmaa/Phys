@@ -1,0 +1,10 @@
+{
+  "id": "the-poynting-vector-m3",
+  "conceptId": "the-poynting-vector",
+  "text": {
+    "en": "The Poynting vector only applies to light and other electromagnetic waves, not to steady circuits.",
+    "et": "Poyntingi vektor kehtib ainult valguse ja teiste elektromagnetlainete, mitte püsivate ahelate kohta.",
+    "sourceHash": "a5e46c478da1a344",
+    "stale": false
+  }
+}

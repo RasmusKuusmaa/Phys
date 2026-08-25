@@ -1,0 +1,56 @@
+{
+  "id": "the-poynting-vector-item1",
+  "conceptId": "the-poynting-vector",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In an electromagnetic wave, the electric field points vertically and the magnetic field points horizontally, both perpendicular to the direction of travel. Along which direction does the Poynting vector point?",
+    "et": "Elektromagnetlaines osutab elektriväli vertikaalselt ja magnetväli horisontaalselt, mõlemad on risti levimissuunaga. Millises suunas osutab Poyntingi vektor?",
+    "sourceHash": "c03453b085e58fc8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Along the direction the wave travels, perpendicular to both E and B",
+        "et": "Piki laine levimissuunda, risti nii E-ga kui ka B-ga",
+        "sourceHash": "da0222d55539cd39",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Along the electric field direction, since that carries the wave's energy",
+        "et": "Piki elektrivälja suunda, sest see kannab laine energiat",
+        "sourceHash": "b1dbdd42795390e5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-poynting-vector-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Along the magnetic field direction",
+        "et": "Piki magnetvälja suunda",
+        "sourceHash": "076dba86233d4cfa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-poynting-vector-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It has no defined direction, only a magnitude",
+        "et": "Sellel ei ole määratud suunda, ainult suurus",
+        "sourceHash": "68f4ff7431b8e8e3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-poynting-vector-m2"
+    }
+  ]
+}

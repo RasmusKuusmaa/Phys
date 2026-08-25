@@ -1,0 +1,26 @@
+Maxwell's equations describe fields, not energy transport directly, so a
+separate quantity is needed to say where electromagnetic energy is going and
+how fast: the Poynting vector, S = E × B/μ₀. Being a cross product, it is
+automatically perpendicular to both the electric and magnetic fields — and
+for a wave, where E and B are themselves perpendicular to the direction of
+travel, that makes S point exactly along the direction the wave propagates.
+Energy in an electromagnetic wave flows along neither field individually; it
+flows along the direction both fields agree is "forward".
+
+This is the rigorous answer to "how does light carry energy from the Sun to a
+leaf, or a radio wave from a transmitter to an antenna": the fields themselves
+are the energy-carrying medium, and the Poynting vector's magnitude gives the
+power crossing a unit area per second, which is why it appears directly in
+calculations of a laser's intensity or a star's luminosity.
+
+The genuinely surprising application is to something not usually thought of as
+"radiating" at all: a plain wire carrying steady current, heating up under
+Joule heating. Ohm's intuition says the energy travels down the metal itself,
+carried by the moving charges. The Poynting vector says otherwise. Outside the
+wire, the electric field points along it (driving the current) and the
+magnetic field circles around it (from the current, via Ampère's law); their
+cross product points radially *inward*, converging on the wire's surface from
+the surrounding space. The energy dissipated as heat is delivered from the
+field in the space around the wire, not carried through the metal along it —
+a case where the Poynting vector's answer runs directly against the
+common-sense picture, and is correct anyway.

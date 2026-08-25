@@ -1,0 +1,56 @@
+{
+  "id": "the-poynting-vector-item2",
+  "conceptId": "the-poynting-vector",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A battery drives current through a resistive wire. Where, according to the Poynting vector, does the energy that heats the wire actually flow in from?",
+    "et": "Aku ajab voolu läbi takistava juhtme. Kust Poyntingi vektori järgi tegelikult voolab sisse energia, mis juhet kuumutab?",
+    "sourceHash": "3a2443fe6a7858d9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Through the space surrounding the wire, from the fields, converging inward into the wire's surface",
+        "et": "Läbi juhet ümbritseva ruumi, väljadest, koondudes sissepoole juhtme pinnale",
+        "sourceHash": "da5319d00973b26d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Along the inside of the metal wire itself, carried by the moving electrons",
+        "et": "Mööda metalljuhtme sisemust ennast, liikuvate elektronide kantuna",
+        "sourceHash": "e6a8004e8584abe4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-poynting-vector-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The Poynting vector does not apply to circuits carrying steady current",
+        "et": "Poyntingi vektor ei kehti püsivat voolu kandvate ahelate kohta",
+        "sourceHash": "172e75746a62e30b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-poynting-vector-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It has no defined source, since energy in a circuit has no location",
+        "et": "Sellel ei ole määratud allikat, sest ahela energial ei ole asukohta",
+        "sourceHash": "d9c19f3dfdd92a7e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-poynting-vector-m3"
+    }
+  ]
+}

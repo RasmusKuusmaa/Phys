@@ -1,0 +1,22 @@
+{
+  "id": "the-poynting-vector",
+  "subject": "physics",
+  "level": "L3",
+  "module": "electromagnetism",
+  "title": {
+    "en": "The Poynting vector",
+    "et": "Poyntingi vektor",
+    "sourceHash": "848f71dd7a0c902c",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Poynting vector describes the direction and rate of electromagnetic energy flow at each point in space, built from the cross product of the electric and magnetic fields, and it accounts for how a light wave, a radio signal, or a power line actually delivers energy from source to destination.",
+    "et": "Poyntingi vektor kirjeldab elektromagnetilise energia voolamise suunda ja kiirust igas ruumipunktis, olles ehitatud elektri- ja magnetvälja vektorkorrutisest, ning see selgitab, kuidas valguslaine, raadiosignaal või elektriliin tegelikult energiat allikast sihtkohta toimetab.",
+    "sourceHash": "aa9a0e60d37bc163",
+    "stale": false
+  },
+  "prerequisites": [
+    "maxwells-equations",
+    "electromagnetic-waves"
+  ]
+}
