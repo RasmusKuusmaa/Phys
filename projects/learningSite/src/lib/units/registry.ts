@@ -241,6 +241,36 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ time: -2 }),
     toBase: 1,
   },
+  W: {
+    symbol: "W",
+    name: { en: "watt", et: "vatt" },
+    dimension: dim({ mass: 1, length: 2, time: -3 }),
+    toBase: 1,
+  },
+  H: {
+    symbol: "H",
+    name: { en: "henry", et: "henri" },
+    dimension: dim({ mass: 1, length: 2, time: -2, current: -2 }),
+    toBase: 1,
+  },
+  "N*m^2/C^2": {
+    symbol: "N*m^2/C^2",
+    name: { en: "newton-square-metre per square coulomb", et: "njuutonruutmeeter ruutkuloni kohta" },
+    dimension: dim({ mass: 1, length: 3, time: -4, current: -2 }),
+    toBase: 1,
+  },
+  "ohm*m": {
+    symbol: "ohm*m",
+    name: { en: "ohm-metre", et: "oommeeter" },
+    dimension: dim({ mass: 1, length: 3, time: -3, current: -2 }),
+    toBase: 1,
+  },
+  "T*m/A": {
+    symbol: "T*m/A",
+    name: { en: "tesla-metre per ampere", et: "tesla-meeter ampri kohta" },
+    dimension: dim({ mass: 1, length: 1, time: -2, current: -2 }),
+    toBase: 1,
+  },
 };
 
 export function getUnit(symbol: string): UnitDefinition {
