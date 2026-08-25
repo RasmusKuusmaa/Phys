@@ -1,0 +1,56 @@
+{
+  "id": "real-gases-and-the-van-der-waals-equation-item2",
+  "conceptId": "real-gases-and-the-van-der-waals-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The van der Waals equation adds two correction terms to the ideal gas law. What physical effects do they represent?",
+    "et": "Van der Waalsi võrrand lisab ideaalse gaasi seadusele kaks parandusliiget. Milliseid füüsikalisi mõjusid need esindavad?",
+    "sourceHash": "79ec7f73de05044a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The finite volume actually occupied by molecules, and the weak attraction between them",
+        "et": "Molekulide poolt tegelikult hõivatud lõplikku ruumala ja nendevahelist nõrka tõmbumist",
+        "sourceHash": "3e266a01ff9eb3c8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Chemical reactions occurring between the gas molecules",
+        "et": "Gaasimolekulide vahel toimuvaid keemilisi reaktsioone",
+        "sourceHash": "878e02ff9b6ab5b3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "real-gases-and-the-van-der-waals-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The gas's temperature and its molar mass",
+        "et": "Gaasi temperatuuri ja selle moolimassi",
+        "sourceHash": "c555567327584982",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "real-gases-and-the-van-der-waals-equation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Random measurement error in pressure and volume readings",
+        "et": "Juhuslikku mõõtmisviga rõhu ja ruumala näitudes",
+        "sourceHash": "f169ee17297a1d67",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "real-gases-and-the-van-der-waals-equation-m1"
+    }
+  ]
+}

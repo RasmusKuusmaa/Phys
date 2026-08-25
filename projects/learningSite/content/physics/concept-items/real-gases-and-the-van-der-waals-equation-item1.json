@@ -1,0 +1,56 @@
+{
+  "id": "real-gases-and-the-van-der-waals-equation-item1",
+  "conceptId": "real-gases-and-the-van-der-waals-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Under which conditions does a real gas deviate most strongly from ideal gas behaviour?",
+    "et": "Millistes tingimustes kaldub reaalgaas ideaalse gaasi käitumisest kõige tugevamalt kõrvale?",
+    "sourceHash": "f8bfa7eb37fdd28e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "High pressure and low temperature, where molecules are packed close and moving slowly",
+        "et": "Kõrge rõhu ja madala temperatuuri juures, kus molekulid on tihedalt koos ja liiguvad aeglaselt",
+        "sourceHash": "1f6dc7c080d8a46c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Low pressure and high temperature, where molecules are spread far apart and moving fast",
+        "et": "Madala rõhu ja kõrge temperatuuri juures, kus molekulid on üksteisest kaugel ja liiguvad kiiresti",
+        "sourceHash": "dbeb659f1cb871cb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "real-gases-and-the-van-der-waals-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The deviation is the same at every pressure and temperature",
+        "et": "Kõrvalekalle on ühesugune igal rõhul ja temperatuuril",
+        "sourceHash": "cc6987237ee68e0a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "real-gases-and-the-van-der-waals-equation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only at extremely high temperatures, regardless of pressure",
+        "et": "Ainult äärmiselt kõrgetel temperatuuridel, sõltumata rõhust",
+        "sourceHash": "1eb285b36737eed9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "real-gases-and-the-van-der-waals-equation-m1"
+    }
+  ]
+}

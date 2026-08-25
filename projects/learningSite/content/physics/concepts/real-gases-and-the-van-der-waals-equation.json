@@ -1,0 +1,21 @@
+{
+  "id": "real-gases-and-the-van-der-waals-equation",
+  "subject": "physics",
+  "level": "L3",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Real gases and the van der Waals equation",
+    "et": "Reaalgaasid ja van der Waalsi võrrand",
+    "sourceHash": "a378260b1c324e1e",
+    "stale": false
+  },
+  "summary": {
+    "en": "The ideal gas law assumes molecules are points that never interact, and real gases depart from it because molecules have actual volume and attract each other weakly — the van der Waals equation corrects for both, and the departure grows largest at high pressure and low temperature, exactly where a gas approaches condensing into a liquid.",
+    "et": "Ideaalse gaasi seadus eeldab, et molekulid on punktid, mis kunagi ei vastastikmõju, ja reaalgaasid kalduvad sellest kõrvale, sest molekulidel on tegelik ruumala ja need tõmbuvad nõrgalt üksteise poole — van der Waalsi võrrand korrigeerib mõlemat ja kõrvalekalle kasvab suurimaks kõrgel rõhul ja madalal temperatuuril, täpselt seal, kus gaas läheneb vedelikuks kondenseerumisele.",
+    "sourceHash": "077e75e070152715",
+    "stale": false
+  },
+  "prerequisites": [
+    "ideal-gas-law"
+  ]
+}
