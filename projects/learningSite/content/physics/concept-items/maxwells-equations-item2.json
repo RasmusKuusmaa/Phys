@@ -1,0 +1,56 @@
+{
+  "id": "maxwells-equations-item2",
+  "conceptId": "maxwells-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A capacitor is charging, so no charge crosses the gap between its plates. Why is there still a magnetic field around that gap?",
+    "et": "Kondensaator laeb, nii et plaatide vahelist vahemikku laeng ei ületa. Miks on selle vahemiku ümber ikkagi magnetväli?",
+    "sourceHash": "a31f4b0c89b1e45e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The changing electric field between the plates acts as a source of magnetic field, just as a current does",
+        "et": "Plaatidevaheline muutuv elektriväli on magnetvälja allikas samamoodi nagu vool",
+        "sourceHash": "aeb8489a4c1ba4dc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There is no field there, because only moving charge can produce magnetism",
+        "et": "Seal ei ole välja, sest magnetismi saab tekitada ainult liikuv laeng",
+        "sourceHash": "73b60b36fa7b20ff",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwells-equations-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The field is carried across the gap by the medium filling the space between the plates",
+        "et": "Välja kannab üle vahemiku keskkond, mis plaatide vahelist ruumi täidab",
+        "sourceHash": "ad35b0516faf36bf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwells-equations-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Magnetism and electricity are independent, so the electric field is irrelevant to it",
+        "et": "Magnetism ja elekter on sõltumatud, seega elektriväli ei puutu siin asjasse",
+        "sourceHash": "d32344a766ecdd94",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwells-equations-m1"
+    }
+  ]
+}

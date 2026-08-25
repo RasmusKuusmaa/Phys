@@ -1,0 +1,56 @@
+{
+  "id": "maxwells-equations-item1",
+  "conceptId": "maxwells-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What did Maxwell's equations predict that unified optics with electromagnetism?",
+    "et": "Mida ennustasid Maxwelli võrrandid, mis ühendas optika elektromagnetismiga?",
+    "sourceHash": "b0eeea9627f3a002",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That changing electric and magnetic fields sustain each other and propagate at the measured speed of light",
+        "et": "Et muutuvad elektri- ja magnetväljad hoiavad teineteist üleval ja levivad mõõdetud valguse kiirusega",
+        "sourceHash": "7607ac6f58ca67ac",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That light needs a luminiferous medium filling all of space in order to travel",
+        "et": "Et valgus vajab levimiseks kogu ruumi täitvat valgusekandjat",
+        "sourceHash": "911829db05632dd3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwells-equations-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That electric and magnetic effects are unrelated and obey four separate laws",
+        "et": "Et elektrilised ja magnetilised nähtused on omavahel seotuseta ja alluvad neljale eraldi seadusele",
+        "sourceHash": "c2043a78dac5c449",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwells-equations-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That only steady currents, never changing fields, can be sources of magnetism",
+        "et": "Et magnetismi allikaks saavad olla ainult püsivad voolud, mitte kunagi muutuvad väljad",
+        "sourceHash": "b51497b0d40b6f10",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwells-equations-m3"
+    }
+  ]
+}

@@ -24,7 +24,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "buoyancy-and-archimedes-principle",
     "fluid-continuity-and-flow-rate",
     "kirchhoffs-laws-and-circuit-analysis",
-    "maxwells-equations",
     "pascals-principle-and-hydraulics",
     "pressure-in-fluids",
     "rc-circuit-transients",

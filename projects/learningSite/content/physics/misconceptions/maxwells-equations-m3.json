@@ -1,0 +1,10 @@
+{
+  "id": "maxwells-equations-m3",
+  "conceptId": "maxwells-equations",
+  "text": {
+    "en": "A steady current produces a magnetic field, but a changing electric field cannot.",
+    "et": "Püsiv vool tekitab magnetvälja, kuid muutuv elektriväli seda teha ei suuda.",
+    "sourceHash": "9e2f2e63d02fc311",
+    "stale": false
+  }
+}
