@@ -1,0 +1,56 @@
+{
+  "id": "beats-and-superposition-item2",
+  "conceptId": "beats-and-superposition",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two waves pass through the same region of a medium at the same time. What does superposition say happens?",
+    "et": "Kaks lainet läbivad üheaegselt sama keskkonna piirkonda. Mida superpositsioon ütleb, et juhtub?",
+    "sourceHash": "166691949f2607e9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The displacements simply add at every point, and each wave continues afterward unaffected",
+        "et": "Nihked lihtsalt liituvad igas punktis ja kumbki laine jätkab pärast mõjutamatuna",
+        "sourceHash": "de6d1a6cc4b9eb6c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The two waves merge permanently into one new wave that replaces both",
+        "et": "Kaks lainet sulanduvad jäädavalt üheks uueks laineks, mis asendab mõlemat",
+        "sourceHash": "a143f77cb7ff8481",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "beats-and-superposition-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Whichever wave has the larger amplitude destroys the smaller one",
+        "et": "Suurema amplituudiga laine hävitab väiksema",
+        "sourceHash": "b1843889f28a9840",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "beats-and-superposition-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The two waves bounce off each other like colliding particles",
+        "et": "Kaks lainet põrkuvad üksteisest eemale nagu kokkupõrkuvad osakesed",
+        "sourceHash": "2100938e809bc6b4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "beats-and-superposition-m1"
+    }
+  ]
+}

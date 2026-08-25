@@ -1,0 +1,56 @@
+{
+  "id": "beats-and-superposition-item1",
+  "conceptId": "beats-and-superposition",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two tuning forks, one at 440 Hz and one at 444 Hz, are struck together. What does a listener hear?",
+    "et": "Kaks häälestushargi, üks sagedusel 440 Hz ja teine 444 Hz, lüüakse koos kõlama. Mida kuulja kuuleb?",
+    "sourceHash": "c5aee382b8e7b632",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A tone that throbs in loudness 4 times per second — the beat frequency equals the difference of the two frequencies",
+        "et": "Tooni, mis pulseerib valjuselt 4 korda sekundis — taktisagedus võrdub kahe sageduse vahega",
+        "sourceHash": "89d2ca625e846f73",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing unusual, since beats only occur when frequencies are identical",
+        "et": "Midagi erilist, sest taktid tekivad ainult identsete sageduste korral",
+        "sourceHash": "97d7dd8027c676dd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "beats-and-superposition-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A steady tone at 442 Hz, the average of the two frequencies",
+        "et": "Ühtlast tooni sagedusel 442 Hz, kahe sageduse keskmisel",
+        "sourceHash": "c4e87e344208b7ac",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "beats-and-superposition-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Two completely separate tones with no interaction between them",
+        "et": "Kahte täiesti eraldiseisvat tooni, mille vahel ei ole vastastikmõju",
+        "sourceHash": "ccc2b1884260f2fd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "beats-and-superposition-m1"
+    }
+  ]
+}

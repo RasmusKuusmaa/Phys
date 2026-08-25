@@ -1,0 +1,21 @@
+{
+  "id": "beats-and-superposition",
+  "subject": "physics",
+  "level": "L2",
+  "module": "waves",
+  "title": {
+    "en": "Beats and superposition",
+    "et": "Taktid ja superpositsioon",
+    "sourceHash": "fa85f0a40e533f34",
+    "stale": false
+  },
+  "summary": {
+    "en": "When two waves of slightly different frequency overlap, they alternately reinforce and cancel, producing a slow throbbing in loudness called beats, whose rate equals the plain difference between the two frequencies.",
+    "et": "Kui kaks veidi erineva sagedusega lainet kattuvad, võimendavad ja tühistavad need vaheldumisi teineteist, tekitades valjuse aeglase pulseerimise, mida nimetatakse taktideks ja mille sagedus võrdub lihtsalt kahe sageduse vahega.",
+    "sourceHash": "440a040cc8231bee",
+    "stale": false
+  },
+  "prerequisites": [
+    "wave-properties"
+  ]
+}
