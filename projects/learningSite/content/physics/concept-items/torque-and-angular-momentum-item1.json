@@ -1,0 +1,56 @@
+{
+  "id": "torque-and-angular-momentum-item1",
+  "conceptId": "torque-and-angular-momentum",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "You push a door with a fixed force. Which push produces the largest torque about the hinges?",
+    "et": "Lükkad ust kindla jõuga. Milline lükkamine tekitab hingede suhtes suurima jõumomendi?",
+    "sourceHash": "809f7a75460918a8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Perpendicular to the door, at the edge furthest from the hinges",
+        "et": "Uksega risti, hingedest kõige kaugemas servas",
+        "sourceHash": "801cb7353eabaa38",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Anywhere on the door, since the torque depends only on how hard you push",
+        "et": "Ükskõik kus uksel, sest jõumoment sõltub ainult sellest, kui tugevasti lükkad",
+        "sourceHash": "8eb491aed2661f4f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "torque-and-angular-momentum-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Straight towards the hinges along the door's surface, at the far edge",
+        "et": "Otse hingede poole piki ukse pinda, kaugemas servas",
+        "sourceHash": "a043fe4f72296818",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "torque-and-angular-momentum-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Perpendicular to the door, as close to the hinges as possible",
+        "et": "Uksega risti, hingedele nii lähedal kui võimalik",
+        "sourceHash": "500363cc49aa745b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "torque-and-angular-momentum-m1"
+    }
+  ]
+}

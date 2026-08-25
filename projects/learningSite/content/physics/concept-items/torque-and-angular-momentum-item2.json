@@ -1,0 +1,56 @@
+{
+  "id": "torque-and-angular-momentum-item2",
+  "conceptId": "torque-and-angular-momentum",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A skater spinning with arms outstretched pulls them in and spins faster, with no external torque acting. What has happened?",
+    "et": "Väljasirutatud kätega pöörlev uisutaja tõmbab käed ligi ja hakkab kiiremini pöörlema, ilma et mõjuks väline jõumoment. Mis on juhtunud?",
+    "sourceHash": "424f574e22959ffc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Her moment of inertia dropped, so her angular velocity rose to keep angular momentum constant",
+        "et": "Tema inertsimoment vähenes, seega kasvas nurkkiirus, et impulsimoment jääks samaks",
+        "sourceHash": "de4ba691b1f74684",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Angular momentum was created by the muscular effort of pulling the arms in",
+        "et": "Impulsimoment tekkis lihasjõust, mida kulus käte ligitõmbamiseks",
+        "sourceHash": "0023cbd4ff59448e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "torque-and-angular-momentum-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Her linear momentum was converted into spin, since the two are the same quantity",
+        "et": "Tema kulgev impulss muundus pöörlemiseks, sest need on üks ja sama suurus",
+        "sourceHash": "9fc3007036f0af3c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "torque-and-angular-momentum-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The torque she applied to her own arms sped up the rotation from outside the system",
+        "et": "Jõumoment, mille ta rakendas omaenda kätele, kiirendas pöörlemist väljastpoolt süsteemi",
+        "sourceHash": "869190073f26f69c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "torque-and-angular-momentum-m3"
+    }
+  ]
+}
