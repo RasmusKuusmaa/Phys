@@ -52,6 +52,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "waves-and-oscillations-basics",
     "work-and-energy",
   ],
+  "LTFY.01.006": [
     "beats-and-superposition",
     "sound-waves-and-intensity",
     "the-doppler-effect",
