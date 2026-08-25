@@ -77,10 +77,23 @@ export function loadJsonFilesRaw(dir: string): { filePath: string; data: unknown
   }));
 }
 
-/** Every top-level content directory except `terminology`, which holds the glossary rather than a subject. */
+/**
+ * Directories under `content/` that hold something other than a subject's
+ * concepts. A subject directory is validated, rendered and counted as part of
+ * the site; these are not, so they must be named explicitly rather than
+ * inferred — anything else added under `content/` is treated as a new subject
+ * and will fail validation until it has concepts, which is the safer default.
+ */
+const NON_SUBJECT_DIRS = new Set([
+  "terminology", // EN↔ET glossary and banned-variant list
+  "curriculum", // parsed UT degree structure — courses, modules, concept mapping
+  "actual_ut_course", // raw scraped course text, kept verbatim as the source of truth
+]);
+
+/** Every top-level content directory that holds a subject's concepts. */
 export function listSubjects(): string[] {
   return readdirSync(CONTENT_ROOT, { withFileTypes: true })
-    .filter((e) => e.isDirectory() && e.name !== "terminology")
+    .filter((e) => e.isDirectory() && !NON_SUBJECT_DIRS.has(e.name))
     .map((e) => e.name)
     .sort();
 }
