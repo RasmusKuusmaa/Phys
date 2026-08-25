@@ -1,0 +1,21 @@
+{
+  "id": "electric-power-and-joule-heating",
+  "subject": "physics",
+  "level": "L1",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Electric power and Joule heating",
+    "et": "Elektrivõimsus ja Joule'i soojus",
+    "sourceHash": "eb7037da12ee5ddf",
+    "stale": false
+  },
+  "summary": {
+    "en": "Electric power dissipated in a resistor equals current times voltage, and since the two are linked by Ohm's law it can equally be written as I²R or V²/R — three faces of one quantity that give the same answer whichever is easiest to use.",
+    "et": "Takistis hajuv elektrivõimsus võrdub voolutugevuse ja pinge korrutisega ning kuna need kaks on Ohmi seadusega seotud, saab seda kirjutada ka kujul I²R või V²/R — sama suuruse kolm palet, mis annavad sama vastuse, olenemata sellest, mis kuju on lihtsam kasutada.",
+    "sourceHash": "8903a252814a0898",
+    "stale": false
+  },
+  "prerequisites": [
+    "voltage-and-resistance"
+  ]
+}

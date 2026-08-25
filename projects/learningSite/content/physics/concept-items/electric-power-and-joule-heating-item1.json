@@ -1,0 +1,56 @@
+{
+  "id": "electric-power-and-joule-heating-item1",
+  "conceptId": "electric-power-and-joule-heating",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The current through a fixed resistor is doubled. What happens to the power it dissipates?",
+    "et": "Voolutugevus kindlas takistis kahekordistatakse. Mis juhtub sellest hajuva võimsusega?",
+    "sourceHash": "baf919ac1837c42d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It quadruples, since power depends on the square of the current",
+        "et": "See neljakordistub, sest võimsus sõltub voolutugevuse ruudust",
+        "sourceHash": "efd867a7d9e001b4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doubles, tracking the current directly",
+        "et": "See kahekordistub, järgides otse voolutugevust",
+        "sourceHash": "6aa4cc411a37e4aa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-power-and-joule-heating-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, since resistance alone determines power",
+        "et": "See ei muutu, sest võimsuse määrab ainult takistus",
+        "sourceHash": "3857f3bb42ddebf9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-power-and-joule-heating-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It halves, since more current means less resistance",
+        "et": "See poolitub, sest suurem voolutugevus tähendab väiksemat takistust",
+        "sourceHash": "e4fba5081f38681e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-power-and-joule-heating-m1"
+    }
+  ]
+}

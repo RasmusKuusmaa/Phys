@@ -1,0 +1,22 @@
+Pushing current through a resistor takes work, and that work becomes heat —
+Joule heating, the same effect that makes a toaster's element glow and a
+phone charger warm up. The rate at which that work is done is power,
+P = IV: current times voltage, exactly as mechanical power is force times
+velocity.
+
+Because a resistor obeys Ohm's law, V = IR, current and voltage are not free
+to vary independently in a resistor — fix one and the material fixes the
+other. That lets P = IV be rewritten by substitution: replacing V with IR
+gives P = I²R; replacing I with V/R gives P = V²/R. These are not three
+different quantities that happen to coincide. They are one quantity, algebra
+allowing you to compute it from whichever pair of values you happen to know.
+
+The exponents matter in practice. Because power depends on the *square* of
+current, doubling the current through a fixed resistor quadruples the heat
+generated, not doubles it — which is why a wire carrying too much current
+overheats catastrophically rather than gradually, and why fuse ratings are
+taken seriously. And because power also depends on the square of voltage,
+raising a heater's voltage has an outsized effect on how hot it gets, while
+raising its resistance at fixed voltage actually *reduces* power (P = V²/R),
+the opposite of what "more resistance, more heating" suggests — the correct
+intuition depends on which of current or voltage is being held fixed.

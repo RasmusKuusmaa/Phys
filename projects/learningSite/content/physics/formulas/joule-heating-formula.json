@@ -1,0 +1,47 @@
+{
+  "id": "joule-heating-formula",
+  "conceptId": "electric-power-and-joule-heating",
+  "latex": "P = I^2 R",
+  "symbols": [
+    {
+      "symbol": "P",
+      "name": {
+        "en": "electric power",
+        "et": "elektrivõimsus",
+        "sourceHash": "bd20d7f1ba7ad8e0",
+        "stale": false
+      },
+      "unit": "W"
+    },
+    {
+      "symbol": "I",
+      "name": {
+        "en": "electric current",
+        "et": "elektrivool",
+        "sourceHash": "e1a0b925fa3b95ce",
+        "stale": false
+      },
+      "unit": "A"
+    },
+    {
+      "symbol": "R",
+      "name": {
+        "en": "resistance",
+        "et": "takistus",
+        "sourceHash": "be970d090a9b0a23",
+        "stale": false
+      },
+      "unit": "ohm"
+    }
+  ],
+  "solveFor": [
+    "P",
+    "I",
+    "R"
+  ],
+  "expressions": {
+    "P": "I^2*R",
+    "I": "sqrt(P/R)",
+    "R": "P/(I^2)"
+  }
+}

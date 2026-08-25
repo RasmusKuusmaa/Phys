@@ -1,0 +1,33 @@
+{
+  "id": "joule-heating-solve-p",
+  "formulaId": "joule-heating-formula",
+  "variables": [
+    {
+      "symbol": "I",
+      "min": 0.1,
+      "max": 15,
+      "unit": "A",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "R",
+      "min": 1,
+      "max": 500,
+      "unit": "ohm",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "I",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "R",
+      "right": 0
+    }
+  ],
+  "solveFor": "P"
+}

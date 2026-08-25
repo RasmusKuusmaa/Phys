@@ -1,0 +1,38 @@
+{
+  "id": "joule-heating-solve-p-errors",
+  "formulaId": "joule-heating-formula",
+  "solveFor": "P",
+  "mistakes": [
+    {
+      "id": "forgot-square",
+      "description": {
+        "en": "Used current directly instead of squaring it.",
+        "et": "Kasutas voolutugevust otse, selle asemel et seda ruutu tõsta.",
+        "sourceHash": "694fc89f6c2a0dc0",
+        "stale": false
+      },
+      "expression": "I*R",
+      "misconceptionId": "electric-power-and-joule-heating-m1"
+    },
+    {
+      "id": "squared-resistance-instead",
+      "description": {
+        "en": "Squared the resistance instead of the current.",
+        "et": "Tõstis ruutu takistuse, mitte voolutugevuse.",
+        "sourceHash": "fb73630c6f4f3156",
+        "stale": false
+      },
+      "expression": "I*(R^2)"
+    },
+    {
+      "id": "divided-instead-of-multiplied",
+      "description": {
+        "en": "Divided current squared by resistance instead of multiplying.",
+        "et": "Jagas voolutugevuse ruudu takistusega, selle asemel et korrutada.",
+        "sourceHash": "4ffd26f29db62ef8",
+        "stale": false
+      },
+      "expression": "(I^2)/R"
+    }
+  ]
+}

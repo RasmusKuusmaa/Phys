@@ -1,0 +1,56 @@
+{
+  "id": "electric-power-and-joule-heating-item2",
+  "conceptId": "electric-power-and-joule-heating",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A resistor carries a fixed current and, separately, is connected across a fixed voltage in two different scenarios. Why do both P = I²R and P = V²/R give the correct power?",
+    "et": "Takisti läbib kindel vool ja eraldi ühendatakse see kindla pinge külge kahes eri stsenaariumis. Miks annavad nii P = I²R kui ka P = V²/R õige võimsuse?",
+    "sourceHash": "e294876c7022342b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because V = IR links current and voltage, so both expressions describe the same underlying power",
+        "et": "Sest V = IR seob voolutugevuse ja pinge, seega kirjeldavad mõlemad avaldised sama alusvõimsust",
+        "sourceHash": "6dd7a4be754474c9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They do not — only one of the two formulas can be correct at a time",
+        "et": "Ei anna — korraga saab õige olla ainult üks kahest valemist",
+        "sourceHash": "6665a17f3436298a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-power-and-joule-heating-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because power is unrelated to both current and voltage",
+        "et": "Sest võimsus ei ole seotud ei voolutugevuse ega pingega",
+        "sourceHash": "779af63d59bdb6f2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-power-and-joule-heating-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because resistance always cancels out of both expressions",
+        "et": "Sest takistus taandub alati mõlemast avaldisest",
+        "sourceHash": "55dacb5c7b16a991",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-power-and-joule-heating-m3"
+    }
+  ]
+}
