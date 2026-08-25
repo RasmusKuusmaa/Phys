@@ -1,0 +1,56 @@
+{
+  "id": "matrices-item1",
+  "conceptId": "matrices",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "For two square matrices A and B of the same size, how do AB and BA compare in general?",
+    "et": "Kuidas on kaks sama suurusega ruutmaatriksit A ja B korrutistes AB ja BA üldjuhul seotud?",
+    "sourceHash": "341a3b032b358d8e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They are usually different — matrix multiplication is not commutative",
+        "et": "Need on tavaliselt erinevad — maatriksite korrutamine ei ole kommutatiivne",
+        "sourceHash": "23d3afeb5ea4bd83",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are always equal, as with ordinary numbers",
+        "et": "Need on alati võrdsed, nagu tavaliste arvude puhul",
+        "sourceHash": "180cac608c60fbb3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "matrices-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They are equal because each entry is multiplied with its counterpart",
+        "et": "Need on võrdsed, sest iga element korrutatakse oma vastega",
+        "sourceHash": "c0fcb162cbd43a82",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "matrices-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Neither exists unless both matrices are invertible",
+        "et": "Kumbagi ei ole olemas, kui mõlemad maatriksid ei ole pööratavad",
+        "sourceHash": "c879228176ffd862",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "matrices-m3"
+    }
+  ]
+}

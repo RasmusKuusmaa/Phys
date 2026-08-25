@@ -1,0 +1,21 @@
+{
+  "id": "matrices",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "linear-algebra",
+  "title": {
+    "en": "Matrices",
+    "et": "Maatriksid",
+    "sourceHash": "6009efe95f18eabb",
+    "stale": false
+  },
+  "summary": {
+    "en": "A matrix is a rectangular array of numbers that encodes a linear transformation; matrix multiplication composes those transformations, which is why it is not commutative.",
+    "et": "Maatriks on ristkülikukujuline arvutabel, mis kodeerib lineaarteisenduse; maatriksite korrutamine liidab need teisendused järjestikku, mistõttu see ei ole kommutatiivne.",
+    "sourceHash": "089706411540913b",
+    "stale": false
+  },
+  "prerequisites": [
+    "vectors-in-space"
+  ]
+}

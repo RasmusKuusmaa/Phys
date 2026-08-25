@@ -1,0 +1,20 @@
+On the surface a matrix is just numbers in a grid. What makes it worth studying
+is what it *does*: an m×n matrix encodes a linear transformation taking
+n-dimensional vectors to m-dimensional ones. Multiplying a matrix by a vector
+applies the transformation; the grid is the bookkeeping.
+
+That view explains the multiplication rule, which otherwise looks arbitrary.
+The entry in row i, column j of AB is the dot product of A's row i with B's
+column j — not the product of corresponding entries, which is what addition
+does and what most people expect. The rule is what it is because AB has to mean
+"do B, then do A", and composition of transformations forces exactly this
+arithmetic. It also explains the shape requirement: A's columns must match B's
+rows, or the composition is meaningless.
+
+Order therefore matters. Rotating then reflecting is not the same as reflecting
+then rotating, so AB ≠ BA in general — an inequality that has no analogue in
+ordinary arithmetic and that catches almost everyone at least once. Division has
+no analogue either. Instead there is the inverse matrix A⁻¹ undoing A, and it
+exists only when the transformation is reversible. A matrix that flattens space
+onto a line has destroyed information no inverse can recover, and its
+determinant is zero — which is exactly what the determinant is for.

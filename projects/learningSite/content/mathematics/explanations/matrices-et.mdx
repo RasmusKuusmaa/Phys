@@ -1,0 +1,20 @@
+Pealtnäha on maatriks lihtsalt arvud tabelis. Uurimist väärivaks teeb selle see,
+mida ta *teeb*: m×n maatriks kodeerib lineaarteisenduse, mis viib
+n-mõõtmelised vektorid m-mõõtmelisteks. Maatriksi korrutamine vektoriga rakendab
+teisendust; tabel on arvepidamine.
+
+See vaade seletab korrutamisreeglit, mis muidu näib meelevaldne. Korrutise AB
+element real i ja veerus j on A rea i ja B veeru j skalaarkorrutis — mitte
+vastavate elementide korrutis, mida teeb liitmine ja mida enamik inimesi ootab.
+Reegel on selline, sest AB peab tähendama "tee B, siis tee A", ja teisenduste
+järjestikku rakendamine sunnib peale täpselt selle aritmeetika. See seletab ka
+mõõtmenõuet: A veergude arv peab vastama B ridade arvule, muidu on liitmine
+mõttetu.
+
+Järjekord seega loeb. Pööramine ja siis peegeldamine ei ole sama mis peegeldamine
+ja siis pööramine, seega AB ≠ BA üldjuhul — ebavõrdus, millel tavalises
+aritmeetikas vastet ei ole ja mis paneb peaaegu igaühe vähemalt korra komistama.
+Ka jagamisel ei ole vastet. Selle asemel on pöördmaatriks A⁻¹, mis tühistab A, ja
+see on olemas ainult siis, kui teisendus on pööratav. Maatriks, mis surub ruumi
+sirgele lamedaks, on hävitanud info, mida ükski pöördmaatriks ei taasta, ja selle
+determinant on null — just selleks determinant ongi.

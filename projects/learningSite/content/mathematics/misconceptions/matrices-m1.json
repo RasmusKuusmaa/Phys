@@ -1,0 +1,10 @@
+{
+  "id": "matrices-m1",
+  "conceptId": "matrices",
+  "text": {
+    "en": "Matrix multiplication is commutative, so AB equals BA.",
+    "et": "Maatriksite korrutamine on kommutatiivne, seega AB võrdub BA-ga.",
+    "sourceHash": "a870b11ecf352cce",
+    "stale": false
+  }
+}

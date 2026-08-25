@@ -1,0 +1,56 @@
+{
+  "id": "matrices-item2",
+  "conceptId": "matrices",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How is the entry in row i, column j of a matrix product AB obtained?",
+    "et": "Kuidas saadakse maatriksite korrutise AB element real i ja veerus j?",
+    "sourceHash": "ae60561a747a0431",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "As the dot product of row i of A with column j of B",
+        "et": "A maatriksi rea i ja B maatriksi veeru j skalaarkorrutisena",
+        "sourceHash": "440d25dc97ca7ed3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "By multiplying the corresponding entries of A and B",
+        "et": "Korrutades A ja B vastavad elemendid",
+        "sourceHash": "a885771a240dc361",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "matrices-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "By multiplying every entry of A by every entry of B and summing",
+        "et": "Korrutades iga A elemendi iga B elemendiga ja liites",
+        "sourceHash": "8440ace45154f549",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "matrices-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It exists only if both matrices are invertible",
+        "et": "See on olemas ainult siis, kui mõlemad maatriksid on pööratavad",
+        "sourceHash": "7adb034ea8eae8bb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "matrices-m3"
+    }
+  ]
+}
