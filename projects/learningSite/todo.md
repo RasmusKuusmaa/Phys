@@ -110,9 +110,13 @@ npm run content:coverage -- --incomplete   # exactly what is left to author
 npm run validate:content                   # errors block; waived gaps print as warnings
 ```
 
-`npm run content:coverage -- --incomplete` is the source of truth for what remains —
-it lists every concept missing misconceptions, items, resources or explanations. This
-file is the plan; that command is the state.
+Two commands are the source of truth for what remains, and this file is only the plan:
+
+- `npm run content:coverage -- --incomplete` — every concept missing misconceptions,
+  items, resources or explanations. Currently empty: all 79 physics concepts are complete.
+- `npm run curriculum:coverage -- --gaps` — every *course* in the UT degree that no
+  content covers yet. This is the bigger number and the one that matters for
+  "could someone get the degree's knowledge here".
 
 **Every new concept starts with the scaffold**, which writes all seven file types at once
 so none can be forgotten:
