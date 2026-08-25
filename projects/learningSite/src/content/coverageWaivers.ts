@@ -31,7 +31,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "rc-circuit-transients",
     "statistical-definition-of-entropy",
     "the-carnot-cycle-and-heat-engines",
-    "the-maxwell-boltzmann-distribution",
     "viscosity-and-poiseuille-flow",
   ],
 };

@@ -1,0 +1,56 @@
+{
+  "id": "the-maxwell-boltzmann-distribution-item1",
+  "conceptId": "the-maxwell-boltzmann-distribution",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two gases, helium and nitrogen, are held at the same temperature. How do their molecular speed distributions compare?",
+    "et": "Kaht gaasi, heeliumi ja lämmastikku, hoitakse samal temperatuuril. Kuidas nende molekulide kiiruste jaotused võrreldes on?",
+    "sourceHash": "33c50bcd2f5aa491",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Helium's distribution is shifted to higher speeds, since equal average kinetic energy means lighter molecules move faster",
+        "et": "Heeliumi jaotus on nihkunud suuremate kiiruste poole, sest võrdne keskmine kineetiline energia tähendab, et kergemad molekulid liiguvad kiiremini",
+        "sourceHash": "bf49c01639c2bcf3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are identical, because temperature alone fixes the speed distribution",
+        "et": "Need on identsed, sest kiiruste jaotuse määrab ainult temperatuur",
+        "sourceHash": "5676403efde9a895",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-maxwell-boltzmann-distribution-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both gases have all their molecules at one speed, differing only in what that speed is",
+        "et": "Mõlemas gaasis on kõik molekulid ühel kiirusel, erinedes ainult selle kiiruse poolest",
+        "sourceHash": "dc61af401d856f72",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-maxwell-boltzmann-distribution-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nitrogen's distribution is shifted higher, because heavier molecules carry more momentum",
+        "et": "Lämmastiku jaotus on nihkunud kõrgemale, sest raskematel molekulidel on suurem impulss",
+        "sourceHash": "24b121c99dd95aae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-maxwell-boltzmann-distribution-m3"
+    }
+  ]
+}

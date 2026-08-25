@@ -1,0 +1,56 @@
+{
+  "id": "the-maxwell-boltzmann-distribution-item2",
+  "conceptId": "the-maxwell-boltzmann-distribution",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A sample of gas is heated. What happens to the shape of its Maxwell–Boltzmann speed distribution?",
+    "et": "Gaasiproovi kuumutatakse. Mis juhtub selle Maxwelli-Boltzmanni kiiruste jaotuse kujuga?",
+    "sourceHash": "5892b7f985e048e9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The peak moves to a higher speed and flattens, with the distribution spreading into a longer high-speed tail",
+        "et": "Tipp nihkub suurema kiiruse poole ja madaldub ning jaotus venib pikemaks suurte kiiruste sabaks",
+        "sourceHash": "ad5219b63c8e9749",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The whole curve slides sideways unchanged in shape, since every molecule speeds up equally",
+        "et": "Kogu kõver libiseb muutumatu kujuga küljele, sest iga molekul kiireneb võrdselt",
+        "sourceHash": "a25ef8271cd8fa1e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-maxwell-boltzmann-distribution-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It narrows to a single spike, because all molecules end up at the new temperature's speed",
+        "et": "See aheneb üheks piigiks, sest kõik molekulid jõuavad uue temperatuuri kiirusele",
+        "sourceHash": "8eb1875889d964bc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-maxwell-boltzmann-distribution-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing changes unless the molecular mass changes as well",
+        "et": "Midagi ei muutu, kui ka molekulmass ei muutu",
+        "sourceHash": "21c6f3e375466b4a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-maxwell-boltzmann-distribution-m3"
+    }
+  ]
+}
