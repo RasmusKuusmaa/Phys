@@ -1,0 +1,21 @@
+{
+  "id": "limits-of-functions",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "calculus",
+  "title": {
+    "en": "Limits of functions",
+    "et": "Funktsiooni piirväärtus",
+    "sourceHash": "47b3c84a26668cd0",
+    "stale": false
+  },
+  "summary": {
+    "en": "The limit of a function at a point is the value its outputs approach as the input closes in, whether or not the function is even defined there — which is what makes it the right tool for describing instantaneous rates.",
+    "et": "Funktsiooni piirväärtus punktis on väärtus, millele selle väljundid lähenevad, kui sisend punktile läheneb, sõltumata sellest, kas funktsioon on seal üldse määratud — just see teeb piirväärtusest õige vahendi hetkeliste muutumiskiiruste kirjeldamiseks.",
+    "sourceHash": "283f72920f6713c5",
+    "stale": false
+  },
+  "prerequisites": [
+    "functions-and-inverses"
+  ]
+}

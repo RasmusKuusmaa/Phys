@@ -1,0 +1,19 @@
+A limit asks a careful question: as the input gets arbitrarily close to some
+point a, what value do the outputs settle towards? Crucially, it never asks
+what happens *at* a. The function may be undefined there, or defined with some
+unrelated value, and the limit is unaffected either way.
+
+That deliberate blindness is the whole point. Consider (x² − 1)/(x − 1) at
+x = 1: substituting gives 0/0, which says nothing. But for every x other than 1
+the expression cancels to x + 1, so as x closes in the outputs close in on 2.
+The limit is 2 even though the function has a hole there. This is exactly the
+situation a derivative lives in — a difference quotient is 0/0 at the point of
+interest — which is why limits had to be made precise before calculus could be.
+
+Two over-corrections are worth avoiding. First, for well-behaved functions the
+limit *does* equal the value: for f(x) = 5 the limit at any point is 5, and
+"limits are never reached" is simply false. Functions where limit and value
+agree everywhere are precisely the continuous ones, which is how continuity
+gets defined. Second, a limit failing to exist is a real possibility — the
+outputs may head to different values from the left and the right, or grow
+without bound — and that is informative rather than a failure of technique.

@@ -1,0 +1,56 @@
+{
+  "id": "limits-of-functions-item2",
+  "conceptId": "limits-of-functions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "For the constant function f(x) = 5, what is the limit as x approaches 3?",
+    "et": "Konstantse funktsiooni f(x) = 5 korral, mis on piirväärtus, kui x läheneb kolmele?",
+    "sourceHash": "e28861546f8d127b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "5 — a function may perfectly well equal its limit",
+        "et": "5 — funktsioon võib täiesti hästi olla oma piirväärtusega võrdne",
+        "sourceHash": "c96b34e2e0212726",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Undefined, since the function never approaches anything",
+        "et": "Määramata, sest funktsioon ei lähene millelegi",
+        "sourceHash": "827b7288943a9a5c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "limits-of-functions-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Something near but not equal to 5, since limits are never attained",
+        "et": "Midagi 5 lähedast, kuid mitte võrdset, sest piirväärtusi ei saavutata kunagi",
+        "sourceHash": "b6bdea2f1be4c674",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "limits-of-functions-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "3, the value x is approaching",
+        "et": "3, väärtus, millele x läheneb",
+        "sourceHash": "627bb3efc0096b43",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "limits-of-functions-m1"
+    }
+  ]
+}

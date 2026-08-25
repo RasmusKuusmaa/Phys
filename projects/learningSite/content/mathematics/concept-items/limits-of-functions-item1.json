@@ -1,0 +1,56 @@
+{
+  "id": "limits-of-functions-item1",
+  "conceptId": "limits-of-functions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The function f(x) = (x² − 1)/(x − 1) is undefined at x = 1. What is its limit as x approaches 1?",
+    "et": "Funktsioon f(x) = (x² − 1)/(x − 1) ei ole määratud kohal x = 1. Mis on selle piirväärtus, kui x läheneb ühele?",
+    "sourceHash": "3071471cd733cf3e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "2, since the expression simplifies to x + 1 everywhere except x = 1 itself",
+        "et": "2, sest avaldis taandub kujule x + 1 kõikjal peale punkti x = 1 enda",
+        "sourceHash": "bd75204e9c468102",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It has no limit, because the function is undefined there",
+        "et": "Piirväärtust ei ole, sest funktsioon ei ole seal määratud",
+        "sourceHash": "f7392a8657ff348d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "limits-of-functions-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It equals f(1), which must first be computed",
+        "et": "See võrdub väärtusega f(1), mis tuleb kõigepealt välja arvutada",
+        "sourceHash": "0979b666c0125024",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "limits-of-functions-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A value the function approaches but can never equal anywhere",
+        "et": "Väärtus, millele funktsioon läheneb, kuid millega ta kusagil võrduda ei saa",
+        "sourceHash": "0d1dc13a4a89f63b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "limits-of-functions-m3"
+    }
+  ]
+}

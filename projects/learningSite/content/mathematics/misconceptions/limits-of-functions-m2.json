@@ -1,0 +1,10 @@
+{
+  "id": "limits-of-functions-m2",
+  "conceptId": "limits-of-functions",
+  "text": {
+    "en": "If a function is undefined at a point, it cannot have a limit there.",
+    "et": "Kui funktsioon ei ole punktis määratud, ei saa sellel seal piirväärtust olla.",
+    "sourceHash": "813ea638a739d81b",
+    "stale": false
+  }
+}
