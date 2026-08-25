@@ -1,0 +1,56 @@
+{
+  "id": "chemical-equilibrium-item1",
+  "conceptId": "chemical-equilibrium",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A reversible reaction has reached equilibrium. What is happening at the molecular level?",
+    "et": "Pöörduv reaktsioon on jõudnud tasakaalu. Mis toimub molekulaarsel tasandil?",
+    "sourceHash": "b897b1139717d8dc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both directions continue at equal rates, so concentrations stay constant",
+        "et": "Mõlemad suunad jätkuvad võrdsete kiirustega, seega kontsentratsioonid püsivad",
+        "sourceHash": "d1e04dba29099b41",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "All reaction has ceased and the molecules are static",
+        "et": "Igasugune reageerimine on lakanud ja molekulid on liikumatud",
+        "sourceHash": "19560c9490695e55",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chemical-equilibrium-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Reactants and products are present in equal concentrations",
+        "et": "Lähteaineid ja saadusi on võrdsetes kontsentratsioonides",
+        "sourceHash": "e7ae3068f4871ba6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chemical-equilibrium-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The forward reaction dominates until a catalyst is added",
+        "et": "Pärisuunaline reaktsioon domineerib, kuni lisatakse katalüsaator",
+        "sourceHash": "58aeaca74db5cd34",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chemical-equilibrium-m3"
+    }
+  ]
+}

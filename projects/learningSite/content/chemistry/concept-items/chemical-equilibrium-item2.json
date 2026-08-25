@@ -1,0 +1,56 @@
+{
+  "id": "chemical-equilibrium-item2",
+  "conceptId": "chemical-equilibrium",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What effect does adding a catalyst have on a system at equilibrium?",
+    "et": "Milline mõju on katalüsaatori lisamisel tasakaalus olevale süsteemile?",
+    "sourceHash": "af59f6433eaedb40",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It speeds both directions equally, so equilibrium arrives sooner but is unchanged",
+        "et": "See kiirendab mõlemat suunda võrdselt, seega tasakaal saabub varem, kuid ei muutu",
+        "sourceHash": "f2614177a3356c0a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shifts the equilibrium towards the products",
+        "et": "See nihutab tasakaalu saaduste poole",
+        "sourceHash": "bfc73dd0d552422e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chemical-equilibrium-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It restarts a reaction that had stopped",
+        "et": "See käivitab uuesti reaktsiooni, mis oli peatunud",
+        "sourceHash": "54bb86567eeaa01b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chemical-equilibrium-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It equalises the concentrations of reactants and products",
+        "et": "See ühtlustab lähteainete ja saaduste kontsentratsioonid",
+        "sourceHash": "55c8cee3c76e571b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chemical-equilibrium-m2"
+    }
+  ]
+}
