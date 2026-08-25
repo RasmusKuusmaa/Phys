@@ -868,14 +868,19 @@ npm run curriculum:coverage -- --gaps  # only what is still missing
 
 | Track | Required courses covered | Required ECTS |
 | --- | --- | --- |
-| Physics | 13 / 20 | 70 / 102 |
-| Chemistry | 6 / 21 | 30 / 102 |
-| Materials science | 7 / 18 | 36 / 102 |
+| Physics | **20 / 20** | **102 / 102** |
+| Chemistry | 11 / 21 | 54 / 102 |
+| Materials science | 12 / 18 | 60 / 102 |
 
-All four subjects now exist — `physics`, `mathematics`, `chemistry` and
-`materials-science` — and the shared foundation (Phase 26) is most of the way
-in. What remains of the spine is the three programming courses, Higher
-mathematics II and probability/statistics.
+Five subjects now exist — `physics`, `mathematics`, `chemistry`,
+`materials-science` and `computing`. **Phase 26 is complete**: every course in
+both foundation modules has content, which is why all three tracks moved
+together. **Physics has every required course covered.**
+
+What remains is chemistry and materials science depth — 16 required courses
+across those two tracks, listed in Phases 28 and 29. Note that course-level
+coverage is not the same as depth: a course counts as covered once concepts map
+to it, and several would benefit from more concepts than they currently have.
 
 Two structural facts shape everything below:
 
@@ -919,15 +924,15 @@ and each one blocks all three degrees at once:
   `content: cover the chemistry laboratory practical`
 - [x] `MTMM.00.340` Higher mathematics I (6 EAP) — 32 syllabus topics parsed
   `content: cover higher mathematics i`
-- [ ] `MTMM.00.341` Higher mathematics II (6 EAP)
+- [x] `MTMM.00.341` Higher mathematics II (6 EAP)
   `content: cover higher mathematics ii`
-- [ ] `MTMS.02.059` Probability theory and mathematical statistics (6 EAP)
+- [x] `MTMS.02.059` Probability theory and mathematical statistics (6 EAP)
   `content: cover probability and statistics`
-- [ ] `MTAT.03.236` Foundations of programming (3 EAP)
+- [x] `MTAT.03.236` Foundations of programming (3 EAP)
   `content: cover foundations of programming`
-- [ ] `MTAT.03.256` Foundations of programming II (3 EAP)
+- [x] `MTAT.03.256` Foundations of programming II (3 EAP)
   `content: cover foundations of programming ii`
-- [ ] `LTAT.03.001` Programming (6 EAP)
+- [x] `LTAT.03.001` Programming (6 EAP)
   `content: cover programming`
 
 ### Phase 27 — Mathematics as a subject
@@ -939,19 +944,19 @@ the physics content already leans on implicitly.
   `content: scaffold the mathematics subject with vectors in space`
 - [x] Author single-variable calculus — limits, derivatives, integrals
   `content: add single variable calculus concepts`
-- [ ] Author sequences, series and convergence
+- [x] Author sequences, series and convergence
   `content: add sequences and series concepts`
 - [~] Author linear algebra — matrices, determinants and linear systems done;
       eigenvalues still to come
   `content: add linear algebra concepts`
-- [ ] Author multivariable calculus — partial derivatives, multiple integrals
+- [x] Author multivariable calculus — partial derivatives, multiple integrals
   `content: add multivariable calculus concepts`
 - [ ] Author vector calculus — gradient, divergence, curl, the integral theorems
   `content: add vector calculus concepts`
 - [~] Author ordinary differential equations — first-order separable and linear
       done; second-order still to come
   `content: add differential equations concepts`
-- [ ] Author probability and statistics for `MTMS.02.059`
+- [x] Author probability and statistics for `MTMS.02.059`
   `content: add probability and statistics concepts`
 - [~] Author complex numbers and functions of a complex variable — algebraic and
       polar form done; complex functions still to come
@@ -1010,9 +1015,9 @@ cannot run a compiler, so scope this honestly: concepts, worked examples and
 hand-traced execution, with an explicit note that writing real programs needs a
 real machine.
 
-- [ ] Scaffold the subject directory
+- [x] Scaffold the subject directory
   `content: scaffold the computing subject`
-- [ ] Author programming fundamentals — values, control flow, functions
+- [x] Author programming fundamentals — values, control flow, functions
   `content: add programming fundamentals concepts`
 - [ ] Author data structures and algorithms at first-course level
   `content: add data structures concepts`
@@ -1021,9 +1026,9 @@ real machine.
 
 ### Phase 31 — Physics courses still uncovered
 
-- [ ] `LTFY.01.014` Spectroscopy (5 EAP, required for physics)
+- [x] `LTFY.01.014` Spectroscopy (5 EAP, required for physics)
   `content: cover spectroscopy`
-- [ ] `LOFY.01.018` Foundations of signal processing I (3 EAP, required)
+- [x] `LOFY.01.018` Foundations of signal processing I (3 EAP, required)
   `content: cover signal processing`
 - [ ] `LTFY.04.013` Mathematical physics (36 topics) — needs Phase 27
   `content: cover mathematical physics`
