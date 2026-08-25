@@ -1,0 +1,10 @@
+{
+  "id": "friction-m2",
+  "conceptId": "friction",
+  "text": {
+    "en": "Kinetic friction is always larger than the maximum static friction between the same two surfaces.",
+    "et": "Kineetiline hõõrdumine on samade pindade vahel alati suurem kui maksimaalne staatiline hõõrdumine.",
+    "sourceHash": "8a179f416d820caa",
+    "stale": false
+  }
+}

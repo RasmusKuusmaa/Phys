@@ -1,0 +1,10 @@
+{
+  "id": "friction-m3",
+  "conceptId": "friction",
+  "text": {
+    "en": "A larger contact area between two surfaces always produces more friction.",
+    "et": "Suurem kontaktpindala kahe pinna vahel tekitab alati rohkem hõõrdumist.",
+    "sourceHash": "01525f536c12b4ce",
+    "stale": false
+  }
+}

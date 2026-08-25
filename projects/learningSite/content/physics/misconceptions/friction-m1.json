@@ -1,0 +1,10 @@
+{
+  "id": "friction-m1",
+  "conceptId": "friction",
+  "text": {
+    "en": "Friction force is fixed by the surfaces alone and does not depend on how hard they press together.",
+    "et": "Hõõrdejõu määravad ainuüksi pinnad ja see ei sõltu sellest, kui tugevasti need kokku suruvad.",
+    "sourceHash": "8f9c02879011256e",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "friction-item1",
+  "conceptId": "friction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A heavy crate resting on a floor is pressed down harder by stacking more weight on top. What happens to the maximum friction force available before it starts sliding?",
+    "et": "Põrandal seisvale raskele kastile lisatakse peale rohkem raskust, surudes seda tugevamini alla. Mis juhtub maksimaalse hõõrdejõuga, mis on saadaval enne libisema hakkamist?",
+    "sourceHash": "9e8492228f3e1912",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It increases, since friction is proportional to the normal force pressing the surfaces together",
+        "et": "See suureneb, sest hõõrdumine on võrdeline normaaljõuga, mis pindu kokku surub",
+        "sourceHash": "b9e593f054b5eb97",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It stays the same, since friction depends only on the two surfaces in contact",
+        "et": "See jääb samaks, sest hõõrdumine sõltub ainult kahest kokkupuutuvast pinnast",
+        "sourceHash": "0d03467aadf45bd7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "friction-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It decreases, since the extra weight makes the crate harder to move",
+        "et": "See väheneb, sest lisaraskus muudab kasti liigutamise raskemaks",
+        "sourceHash": "f62ad0e4ca67e2d6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "friction-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends only on the contact area, which has not changed",
+        "et": "See sõltub ainult kontaktpindalast, mis ei ole muutunud",
+        "sourceHash": "0499744b6b868eb1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "friction-m1"
+    }
+  ]
+}

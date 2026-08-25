@@ -1,0 +1,21 @@
+{
+  "id": "friction",
+  "subject": "physics",
+  "level": "L1",
+  "module": "mechanics",
+  "title": {
+    "en": "Friction",
+    "et": "Hõõrdumine",
+    "sourceHash": "17e83883ff9cc3d1",
+    "stale": false
+  },
+  "summary": {
+    "en": "Friction opposes relative sliding between two surfaces in contact, with a maximum static value that must be overcome before motion starts and a slightly smaller kinetic value once sliding is underway.",
+    "et": "Hõõrdumine seab vastu kahe kokkupuutuva pinna suhtelisele libisemisele, omades maksimaalset staatilist väärtust, mis tuleb liikumise alustamiseks ületada, ja veidi väiksemat kineetilist väärtust, kui libisemine on juba käimas.",
+    "sourceHash": "b1a733671264ba7c",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtons-second-law"
+  ]
+}

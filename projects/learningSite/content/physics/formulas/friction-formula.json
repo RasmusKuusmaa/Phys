@@ -1,0 +1,47 @@
+{
+  "id": "friction-formula",
+  "conceptId": "friction",
+  "latex": "f = \\mu N",
+  "symbols": [
+    {
+      "symbol": "f",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    },
+    {
+      "symbol": "mu",
+      "name": {
+        "en": "coefficient of friction",
+        "et": "hõõrdetegur",
+        "sourceHash": "94ddf120a107c0c3",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "N",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    }
+  ],
+  "solveFor": [
+    "f",
+    "mu",
+    "N"
+  ],
+  "expressions": {
+    "f": "mu*N",
+    "mu": "f/N",
+    "N": "f/mu"
+  }
+}

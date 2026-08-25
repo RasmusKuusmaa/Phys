@@ -1,0 +1,38 @@
+{
+  "id": "friction-solve-f-errors",
+  "formulaId": "friction-formula",
+  "solveFor": "f",
+  "mistakes": [
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided normal force by the coefficient instead of multiplying.",
+        "et": "Jagas normaaljõu teguriga, selle asemel et korrutada.",
+        "sourceHash": "07345dc79a81133d",
+        "stale": false
+      },
+      "expression": "N/mu"
+    },
+    {
+      "id": "ignored-coefficient",
+      "description": {
+        "en": "Reported the normal force itself as the friction force.",
+        "et": "Esitas hõõrdejõuna normaaljõu enda.",
+        "sourceHash": "82ab9d22388b3130",
+        "stale": false
+      },
+      "expression": "N",
+      "misconceptionId": "friction-m1"
+    },
+    {
+      "id": "squared-coefficient",
+      "description": {
+        "en": "Squared the coefficient of friction instead of using it directly.",
+        "et": "Tõstis hõõrdeteguri ruutu, selle asemel et kasutada seda otse.",
+        "sourceHash": "ea38ac0cc2ab1681",
+        "stale": false
+      },
+      "expression": "(mu^2)*N"
+    }
+  ]
+}

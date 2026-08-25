@@ -1,0 +1,56 @@
+{
+  "id": "friction-item2",
+  "conceptId": "friction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A box is on the verge of sliding but has not yet started to move. Once it does start sliding, how does the friction force typically change?",
+    "et": "Kast on libisemise äärel, kuid ei ole veel liikuma hakanud. Kui see hakkab libisema, kuidas hõõrdejõud tavaliselt muutub?",
+    "sourceHash": "503f2a3c0d5f14c9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It drops slightly — kinetic friction is typically a little less than the maximum static friction",
+        "et": "See langeb veidi — kineetiline hõõrdumine on tavaliselt veidi väiksem kui maksimaalne staatiline hõõrdumine",
+        "sourceHash": "c997d31cc20f1c39",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It rises, since a moving object experiences more resistance than a stationary one",
+        "et": "See tõuseb, sest liikuv keha kogeb rohkem vastupanu kui paigalseisev",
+        "sourceHash": "ccfbc3fb1524f248",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "friction-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stays exactly the same throughout",
+        "et": "See jääb kogu aeg täpselt samaks",
+        "sourceHash": "7ce20e023eacc007",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "friction-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It drops to zero once sliding begins",
+        "et": "See langeb libisemise alguses nulli",
+        "sourceHash": "21b5f5eae17ea4c0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "friction-m1"
+    }
+  ]
+}
