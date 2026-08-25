@@ -1,0 +1,10 @@
+{
+  "id": "infinite-series-m1",
+  "conceptId": "infinite-series",
+  "text": {
+    "en": "If the terms of a series shrink to zero, the series must converge.",
+    "et": "Kui rea liikmed kahanevad nullini, peab rida koonduma.",
+    "sourceHash": "72c539ec2b2dde79",
+    "stale": false
+  }
+}

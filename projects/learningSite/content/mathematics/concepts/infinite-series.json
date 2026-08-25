@@ -1,0 +1,21 @@
+{
+  "id": "infinite-series",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "series",
+  "title": {
+    "en": "Infinite series",
+    "et": "Lõpmatud read",
+    "sourceHash": "98195d7bfd256ec9",
+    "stale": false
+  },
+  "summary": {
+    "en": "An infinite series is the limit of its partial sums; it converges only when those sums settle on a value, and terms shrinking to zero is necessary for that but nowhere near sufficient.",
+    "et": "Lõpmatu rida on selle osasummade piirväärtus; rida koondub ainult siis, kui need summad settivad mingile väärtusele, ning liikmete kahanemine nullini on selleks vajalik, kuid kaugeltki mitte piisav.",
+    "sourceHash": "c990424a8784b24c",
+    "stale": false
+  },
+  "prerequisites": [
+    "limits-of-functions"
+  ]
+}

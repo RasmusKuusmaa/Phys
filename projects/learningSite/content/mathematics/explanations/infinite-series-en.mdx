@@ -1,0 +1,21 @@
+"Adding infinitely many numbers" is not an operation anyone can perform, so the
+definition sidesteps it. Add the first n terms — a partial sum, perfectly
+ordinary — and then ask what those partial sums approach as n grows. If they
+approach a limit, the series converges and that limit is called its sum. If they
+do not, the series diverges. Everything about series is really about that
+sequence of partial sums.
+
+Framed this way, the first surprise dissolves. 1/2 + 1/4 + 1/8 + … has partial
+sums 1/2, 3/4, 7/8, … creeping towards 1 without ever passing it. Infinitely
+many positive terms, finite total. The reason is that the terms shrink fast
+enough that what remains to add always fits in the gap left.
+
+The second surprise is sharper. Terms *must* shrink to zero for convergence —
+but that is not enough. The harmonic series 1 + 1/2 + 1/3 + … has terms going
+to zero and diverges anyway: group them as 1/3 + 1/4 > 1/2, then
+1/5 + … + 1/8 > 1/2, and so on forever, so the sum grows without bound however
+slowly. Deciding convergence therefore needs real tests — comparison, ratio,
+integral — rather than a glance at the terms. And convergent series are not all
+alike: conditionally convergent ones like 1 − 1/2 + 1/3 − … can be rearranged to
+sum to *any* value you choose, so even the commutativity of addition stops being
+safe once infinitely many terms are involved.

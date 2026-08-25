@@ -1,0 +1,56 @@
+{
+  "id": "infinite-series-item1",
+  "conceptId": "infinite-series",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The harmonic series 1 + 1/2 + 1/3 + 1/4 + … has terms shrinking to zero. Does it converge?",
+    "et": "Harmoonilise rea 1 + 1/2 + 1/3 + 1/4 + … liikmed kahanevad nullini. Kas rida koondub?",
+    "sourceHash": "9ef02bb8e368e39b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No — it diverges to infinity, so shrinking terms are necessary but not sufficient",
+        "et": "Ei — see hajub lõpmatusse, seega on kahanevad liikmed vajalikud, kuid mitte piisavad",
+        "sourceHash": "d37ec5ef42a1dbce",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes — terms shrinking to zero guarantees convergence",
+        "et": "Jah — nullini kahanevad liikmed tagavad koonduvuse",
+        "sourceHash": "f8b70fd5ebdd6f63",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "infinite-series-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "No, because adding infinitely many positive numbers is always infinite",
+        "et": "Ei, sest lõpmatu arvu positiivsete arvude liitmine on alati lõpmatu",
+        "sourceHash": "23ea86089b5f853c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "infinite-series-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on the order in which the terms are added",
+        "et": "See sõltub liikmete liitmise järjekorrast",
+        "sourceHash": "678bdf241faee173",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "infinite-series-m3"
+    }
+  ]
+}

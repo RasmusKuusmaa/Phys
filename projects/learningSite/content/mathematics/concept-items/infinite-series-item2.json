@@ -1,0 +1,56 @@
+{
+  "id": "infinite-series-item2",
+  "conceptId": "infinite-series",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the sum of the geometric series 1/2 + 1/4 + 1/8 + …?",
+    "et": "Mis on geomeetrilise rea 1/2 + 1/4 + 1/8 + … summa?",
+    "sourceHash": "84cad3a6ee01e3c7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "1 — infinitely many positive terms can still have a finite total",
+        "et": "1 — lõpmatu arvu positiivsete liikmete summa võib siiski olla lõplik",
+        "sourceHash": "a9e9740c1c8c8d0c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Infinity, since infinitely many positive numbers are being added",
+        "et": "Lõpmatus, sest liidetakse lõpmatu arv positiivseid arve",
+        "sourceHash": "ebc584a6fe66da63",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "infinite-series-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Undefined, because the sum depends on the order of the terms",
+        "et": "Määramata, sest summa sõltub liikmete järjekorrast",
+        "sourceHash": "13e2bfddc316c1b2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "infinite-series-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It diverges, like every series whose terms shrink to zero",
+        "et": "See hajub, nagu iga rida, mille liikmed kahanevad nullini",
+        "sourceHash": "4ede5cae1cad6842",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "infinite-series-m1"
+    }
+  ]
+}
