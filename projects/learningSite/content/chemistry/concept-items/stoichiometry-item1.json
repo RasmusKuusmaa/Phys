@@ -1,0 +1,56 @@
+{
+  "id": "stoichiometry-item1",
+  "conceptId": "stoichiometry",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In 2H₂ + O₂ → 2H₂O, what does the coefficient 2 in front of H₂ tell you?",
+    "et": "Võrrandis 2H₂ + O₂ → 2H₂O — mida ütleb kordaja 2 vesiniku ees?",
+    "sourceHash": "929901053274a853",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Two moles of H₂ react per mole of O₂ — a ratio of particles, not of masses",
+        "et": "Kaks mooli H₂ reageerib ühe mooli O₂ kohta — see on osakeste, mitte masside suhe",
+        "sourceHash": "5008b9f26e1d4d89",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Two grams of hydrogen react per gram of oxygen",
+        "et": "Kaks grammi vesinikku reageerib grammi hapniku kohta",
+        "sourceHash": "a0239be43cc4e98b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stoichiometry-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Hydrogen is always consumed completely, whatever the amounts",
+        "et": "Vesinik tarbitakse alati täielikult ära, olenemata kogustest",
+        "sourceHash": "f8a77e043bdf7394",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stoichiometry-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Doubling the hydrogen will double the water produced",
+        "et": "Vesiniku kahekordistamine kahekordistab tekkiva vee hulga",
+        "sourceHash": "4f8178b7168578d9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stoichiometry-m2"
+    }
+  ]
+}

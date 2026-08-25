@@ -1,0 +1,56 @@
+{
+  "id": "stoichiometry-item2",
+  "conceptId": "stoichiometry",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Excess hydrogen is burned with a fixed amount of oxygen. What limits how much water forms?",
+    "et": "Liias olevat vesinikku põletatakse kindla koguse hapnikuga. Mis piirab tekkiva vee hulka?",
+    "sourceHash": "8e7360c66bfa8ac6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The oxygen — the reactant that runs out first is the limiting reagent",
+        "et": "Hapnik — esimesena otsa saav lähteaine on piirav lähteaine",
+        "sourceHash": "69e840eed8197adc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing — adding more hydrogen always makes proportionally more water",
+        "et": "Mitte miski — rohkem vesinikku annab alati võrdeliselt rohkem vett",
+        "sourceHash": "e5ce00830db7938f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stoichiometry-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Neither, since a reaction consumes all of every reactant",
+        "et": "Kumbki mitte, sest reaktsioon tarbib ära kõik lähteained",
+        "sourceHash": "c3f180e6c14ffdb9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stoichiometry-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The masses must be equal, since coefficients are mass ratios",
+        "et": "Massid peavad olema võrdsed, sest kordajad on masside suhted",
+        "sourceHash": "1c033faa4045dc66",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stoichiometry-m1"
+    }
+  ]
+}

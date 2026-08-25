@@ -1,0 +1,21 @@
+{
+  "id": "stoichiometry",
+  "subject": "chemistry",
+  "level": "L1",
+  "module": "general-chemistry",
+  "title": {
+    "en": "Stoichiometry",
+    "et": "Stöhhiomeetria",
+    "sourceHash": "ab23160f340bd282",
+    "stale": false
+  },
+  "summary": {
+    "en": "A balanced equation gives the fixed ratio in which substances react, in moles rather than in grams — so predicting how much product forms means converting to moles, applying the ratio, and converting back.",
+    "et": "Tasakaalustatud võrrand annab kindla suhte, milles ained reageerivad, moolides, mitte grammides — seega tähendab saaduse koguse ennustamine moolideks teisendamist, suhte rakendamist ja tagasi teisendamist.",
+    "sourceHash": "a8e851f8c0194cbc",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-mole-and-amount-of-substance"
+  ]
+}
