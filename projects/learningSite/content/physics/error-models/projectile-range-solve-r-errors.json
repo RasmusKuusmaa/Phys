@@ -1,0 +1,37 @@
+{
+  "id": "projectile-range-solve-r-errors",
+  "formulaId": "projectile-range-formula",
+  "solveFor": "R",
+  "mistakes": [
+    {
+      "id": "used-theta-not-2theta",
+      "description": {
+        "en": "Used sin(theta) instead of sin(2*theta).",
+        "et": "Kasutas sin(theta), selle asemel et kasutada sin(2*theta).",
+        "sourceHash": "593f244ab2271a3c",
+        "stale": false
+      },
+      "expression": "(v^2)*sin(theta*3.14159265358979/180)/9.81"
+    },
+    {
+      "id": "forgot-square",
+      "description": {
+        "en": "Used speed directly instead of squaring it.",
+        "et": "Kasutas kiirust otse, selle asemel et seda ruutu tõsta.",
+        "sourceHash": "bb1f5bea9fb4b415",
+        "stale": false
+      },
+      "expression": "v*sin(2*theta*3.14159265358979/180)/9.81"
+    },
+    {
+      "id": "multiplied-by-g",
+      "description": {
+        "en": "Multiplied by g instead of dividing by it.",
+        "et": "Korrutas g-ga, selle asemel et sellega jagada.",
+        "sourceHash": "78e4e0c097e71247",
+        "stale": false
+      },
+      "expression": "(v^2)*sin(2*theta*3.14159265358979/180)*9.81"
+    }
+  ]
+}

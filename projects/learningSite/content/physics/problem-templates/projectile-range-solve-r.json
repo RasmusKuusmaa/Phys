@@ -1,0 +1,38 @@
+{
+  "id": "projectile-range-solve-r",
+  "formulaId": "projectile-range-formula",
+  "variables": [
+    {
+      "symbol": "v",
+      "min": 5,
+      "max": 50,
+      "unit": "m/s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "theta",
+      "min": 10,
+      "max": 80,
+      "unit": "deg",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "v",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "theta",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "theta",
+      "right": 90
+    }
+  ],
+  "solveFor": "R"
+}

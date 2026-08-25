@@ -1,0 +1,56 @@
+{
+  "id": "projectile-motion-item1",
+  "conceptId": "projectile-motion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A ball is thrown horizontally off a cliff at the same instant a second ball is simply dropped from the same height. Which hits the ground first?",
+    "et": "Pall visatakse kaljult horisontaalselt samal hetkel, mil teine pall lastakse samalt kõrguselt lihtsalt lahti. Kumb jõuab enne maapinnale?",
+    "sourceHash": "277ece98e1399b0a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Neither — both hit at the same time, since their vertical motions are identical",
+        "et": "Kumbki mitte — mõlemad jõuavad samal ajal, sest nende vertikaalliikumine on identne",
+        "sourceHash": "8fbf7a82aeb873a6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The dropped ball, since the thrown one has extra distance to cover",
+        "et": "Lahti lastud pall, sest visatud pallil on rohkem läbimist vaja",
+        "sourceHash": "fee514a847d69439",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "projectile-motion-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The thrown ball, since it has extra speed to help it down",
+        "et": "Visatud pall, sest sellel on lisakiirus, mis aitab tal alla jõuda",
+        "sourceHash": "5a1cf67b53d9719b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "projectile-motion-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on how hard the first ball was thrown",
+        "et": "See sõltub sellest, kui kõvasti esimest palli visati",
+        "sourceHash": "e349ee4bea1dc9c6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "projectile-motion-m1"
+    }
+  ]
+}

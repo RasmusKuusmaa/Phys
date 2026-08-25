@@ -1,0 +1,56 @@
+{
+  "id": "projectile-motion-item2",
+  "conceptId": "projectile-motion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A projectile is launched at an angle and follows a curved path. What happens to its horizontal velocity component as it rises and falls?",
+    "et": "Kaldvisatud keha lendab nurga all mööda kõverjoonelist trajektoori. Mis juhtub selle horisontaalkiiruse komponendiga tõustes ja langedes?",
+    "sourceHash": "a5584c958327f8ef",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It stays constant throughout the flight, since no horizontal force acts on the projectile",
+        "et": "See jääb kogu lennu vältel muutumatuks, sest visatud kehale ei mõju horisontaalset jõudu",
+        "sourceHash": "a16fe6bef6d84113",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It decreases while rising and increases while falling",
+        "et": "See väheneb tõustes ja suureneb langedes",
+        "sourceHash": "b4a5c05246df8202",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "projectile-motion-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is zero at the highest point of the trajectory",
+        "et": "See on trajektoori kõrgeimas punktis null",
+        "sourceHash": "9958b4f117c3ec9a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "projectile-motion-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It changes in step with the vertical velocity component",
+        "et": "See muutub koos vertikaalkiiruse komponendiga",
+        "sourceHash": "17c11a28ff36f80c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "projectile-motion-m1"
+    }
+  ]
+}

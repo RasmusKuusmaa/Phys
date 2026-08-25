@@ -1,0 +1,45 @@
+{
+  "id": "projectile-range-formula",
+  "conceptId": "projectile-motion",
+  "latex": "R = \\frac{v^2 \\sin(2\\theta)}{g}",
+  "symbols": [
+    {
+      "symbol": "R",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "v",
+      "name": {
+        "en": "speed",
+        "et": "kiirus",
+        "sourceHash": "bbccb9c002d5ed59",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "theta",
+      "name": {
+        "en": "angle",
+        "et": "nurk",
+        "sourceHash": "49387897bee2bee3",
+        "stale": false
+      },
+      "unit": "deg"
+    }
+  ],
+  "solveFor": [
+    "R",
+    "v"
+  ],
+  "expressions": {
+    "R": "(v^2)*sin(2*theta*3.14159265358979/180)/9.81",
+    "v": "sqrt(R*9.81/sin(2*theta*3.14159265358979/180))"
+  }
+}

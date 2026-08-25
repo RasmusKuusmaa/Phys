@@ -1,0 +1,21 @@
+{
+  "id": "projectile-motion",
+  "subject": "physics",
+  "level": "L1",
+  "module": "mechanics",
+  "title": {
+    "en": "Projectile motion",
+    "et": "Kaldvise",
+    "sourceHash": "6e435b5f2403e698",
+    "stale": false
+  },
+  "summary": {
+    "en": "A projectile's horizontal and vertical motions are independent of each other, so a ball thrown sideways and one simply dropped from the same height hit the ground at the same time, even though only one of them is also travelling forward.",
+    "et": "Kaldvisatud keha horisontaal- ja vertikaalliikumine on teineteisest sõltumatud, mistõttu külgsuunas visatud pall ja samalt kõrguselt lihtsalt vabalt langev pall jõuavad maapinnale samal ajal, kuigi ainult üks neist liigub ka edasisuunas.",
+    "sourceHash": "8d8a52eeee7c14d8",
+    "stale": false
+  },
+  "prerequisites": [
+    "displacement-velocity-acceleration"
+  ]
+}
