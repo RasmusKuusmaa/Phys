@@ -28,7 +28,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "maxwells-equations",
     "pascals-principle-and-hydraulics",
     "pressure-in-fluids",
-    "quantum-tunneling",
     "rc-circuit-transients",
     "spin-and-angular-momentum-in-quantum-mechanics",
     "statistical-definition-of-entropy",

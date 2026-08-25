@@ -1,0 +1,56 @@
+{
+  "id": "quantum-tunneling-item2",
+  "conceptId": "quantum-tunneling",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A barrier is made twice as wide, with its height unchanged. What happens to the tunnelling probability?",
+    "et": "Barjäär tehakse kaks korda laiemaks, kõrgust muutmata. Mis juhtub tunneleerumise tõenäosusega?",
+    "sourceHash": "091df1df47c4fd2a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It drops sharply, because the wavefunction decays exponentially with barrier width",
+        "et": "See langeb järsult, sest lainefunktsioon kahaneb barjääri laiusega eksponentsiaalselt",
+        "sourceHash": "99c7ab114b81e773",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is unchanged, since tunnelling either happens or it does not",
+        "et": "See ei muutu, sest tunneleerumine kas toimub või ei toimu",
+        "sourceHash": "556ad9e7b2fb7aba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-tunneling-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It halves, in direct proportion to the extra width",
+        "et": "See väheneb poole võrra, otseses võrdelises seoses lisalaiusega",
+        "sourceHash": "4d3c48102bdd7cfb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-tunneling-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It rises, because the particle spends longer inside and can borrow more energy",
+        "et": "See kasvab, sest osake viibib sees kauem ja saab rohkem energiat laenata",
+        "sourceHash": "ceb984988a21935b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-tunneling-m1"
+    }
+  ]
+}

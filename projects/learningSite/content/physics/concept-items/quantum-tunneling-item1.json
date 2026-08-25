@@ -1,0 +1,56 @@
+{
+  "id": "quantum-tunneling-item1",
+  "conceptId": "quantum-tunneling",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An electron meets a barrier higher than its energy and is sometimes found on the far side. What accounts for this?",
+    "et": "Elektron kohtab barjääri, mis on kõrgem kui tema energia, ja mõnikord leitakse ta teiselt poolt. Millega see on seletatav?",
+    "sourceHash": "bacedcf634b9c7b0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its wavefunction decays inside the barrier but does not reach zero, leaving a finite amplitude beyond it",
+        "et": "Tema lainefunktsioon kahaneb barjääri sees, kuid ei jõua nulli, jättes barjääri taha nullist erineva amplituudi",
+        "sourceHash": "c082394483ab47d9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It briefly borrows the missing energy, crosses over the top, and returns the loan",
+        "et": "Ta laenab hetkeks puuduva energia, läheb ülevalt üle ja maksab laenu tagasi",
+        "sourceHash": "e4318ac755dd2eeb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-tunneling-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stops midway inside the barrier and is detected sitting there",
+        "et": "Ta jääb barjääri sees poolele teele seisma ja tuvastatakse sealt",
+        "sourceHash": "3f3a2d9c328caa49",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-tunneling-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Given long enough, any particle crosses any barrier, so the height is irrelevant",
+        "et": "Piisavalt pika aja jooksul ületab iga osake iga barjääri, seega kõrgus ei loe",
+        "sourceHash": "08388e4fe5cd707c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-tunneling-m2"
+    }
+  ]
+}
