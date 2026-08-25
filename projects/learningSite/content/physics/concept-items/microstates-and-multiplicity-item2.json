@@ -1,0 +1,56 @@
+{
+  "id": "microstates-and-multiplicity-item2",
+  "conceptId": "microstates-and-multiplicity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a gas spontaneously spread to fill its container rather than staying compressed in one corner?",
+    "et": "Miks levib gaas iseeneslikult, et täita kogu anum, selle asemel et jääda kokkusurutuna ühte nurka?",
+    "sourceHash": "28002a8e492b3448",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The spread-out macrostate has vastly more microstates consistent with it, so the system drifts there simply because it is overwhelmingly more likely",
+        "et": "Laiali levinud makrolekul on sellega kooskõlas tohutult rohkem mikroolekuid, seega triivib süsteem sinna lihtsalt sellepärast, et see on ülekaalukalt tõenäolisem",
+        "sourceHash": "8d0af8c21a134cd8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The corner macrostate is physically forbidden and cannot occur even briefly",
+        "et": "Nurga makrolek on füüsiliselt keelatud ega saa esineda isegi hetkeks",
+        "sourceHash": "3fc076696e9a67f4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "microstates-and-multiplicity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Gas molecules actively repel each other, forcing them apart",
+        "et": "Gaasimolekulid tõukuvad aktiivselt üksteisest, sundides end lahku",
+        "sourceHash": "1a95b97bf1eff3b1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "microstates-and-multiplicity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Every macrostate has the same multiplicity, so the spreading is pure random chance with no underlying reason",
+        "et": "Igal makrolekul on sama multipliktsus, seega on levimine puhas juhus ilma aluseva põhjuseta",
+        "sourceHash": "7adcc96feb10d3ae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "microstates-and-multiplicity-m1"
+    }
+  ]
+}

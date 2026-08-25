@@ -1,0 +1,56 @@
+{
+  "id": "microstates-and-multiplicity-item1",
+  "conceptId": "microstates-and-multiplicity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Four coins are flipped. 'Exactly two heads' is one macrostate. How many distinct microstates — specific sequences of heads and tails — produce that macrostate?",
+    "et": "Visatakse neli münti. 'Täpselt kaks kulli' on üks makrolek. Mitu erinevat mikroolekut — konkreetset kulli-kirja järjestust — annab selle makroleku?",
+    "sourceHash": "41b25142e11e1ec4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "6 — HHTT, HTHT, HTTH, THHT, THTH, TTHH, each a distinct arrangement giving two heads",
+        "et": "6 — HHTT, HTHT, HTTH, THHT, THTH, TTHH, kumbki erinev paigutus, mis annab kaks kulli",
+        "sourceHash": "5f3c4a00501e020f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "1, since 'exactly two heads' describes only one outcome",
+        "et": "1, sest 'täpselt kaks kulli' kirjeldab ainult üht tulemust",
+        "sourceHash": "3a03341a9a7fd3b9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "microstates-and-multiplicity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "16, the total number of possible sequences for four coins",
+        "et": "16, nelja mündi kõigi võimalike järjestuste koguarv",
+        "sourceHash": "118a00a4a433ae77",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "microstates-and-multiplicity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "2, matching the number of heads specified",
+        "et": "2, vastavalt määratud kullide arvule",
+        "sourceHash": "21920455391b5f15",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "microstates-and-multiplicity-m1"
+    }
+  ]
+}

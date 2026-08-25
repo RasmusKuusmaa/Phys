@@ -1,0 +1,21 @@
+{
+  "id": "microstates-and-multiplicity",
+  "subject": "physics",
+  "level": "L3",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "Microstates and multiplicity",
+    "et": "Mikroolekud ja multipliktsus",
+    "sourceHash": "1bff831a49803eff",
+    "stale": false
+  },
+  "summary": {
+    "en": "A macrostate is what can be observed about a system from outside; a microstate is one exact configuration of every particle consistent with it, and the multiplicity — the number of microstates sharing a macrostate — is what statistical entropy directly counts.",
+    "et": "Makrolek on see, mida süsteemi kohta väljastpoolt vaadeldes näha on; mikroolek on üks täpne konfiguratsioon iga osakese jaoks, mis on selle makrolekuga kooskõlas, ning multipliktsus — mikroolekute arv, mis jagavad üht makrolekut — ongi see, mida statistiline entroopia otse loendab.",
+    "sourceHash": "ba19e14b524bc42f",
+    "stale": false
+  },
+  "prerequisites": [
+    "statistical-definition-of-entropy"
+  ]
+}
