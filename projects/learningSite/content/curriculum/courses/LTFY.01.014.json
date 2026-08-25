@@ -61,7 +61,13 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "spectroscopy",
+    "quantum-energy-levels",
+    "photons-and-quanta",
+    "the-hydrogen-atom-and-atomic-structure",
+    "wave-nature-of-light"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"
   ],

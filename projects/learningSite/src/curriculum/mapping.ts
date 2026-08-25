@@ -234,6 +234,22 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "algorithms-and-program-structure",
     "control-flow",
   ],
+  // LTFY.01.014 Spektroskoopia — spectral variables, emission/absorption,
+  // and the atomic energy levels the lines come from.
+  "LTFY.01.014": [
+    "spectroscopy",
+    "quantum-energy-levels",
+    "photons-and-quanta",
+    "the-hydrogen-atom-and-atomic-structure",
+    "wave-nature-of-light",
+  ],
+  // LOFY.01.018 Signaalitöötluse alused I — signals, spectra, Fourier, sampling.
+  "LOFY.01.018": [
+    "signals-and-fourier-analysis",
+    "wave-properties",
+    "interference-and-diffraction",
+    "resonance",
+  ],
   "LTFY.01.004": [
     "combining-uncertainties",
     "displacement-velocity-acceleration",

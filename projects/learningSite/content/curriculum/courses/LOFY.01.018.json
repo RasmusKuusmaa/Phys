@@ -31,7 +31,12 @@
   ],
   "summary": "Tutvustatakse signaalide ja süsteemide kirjeldamise põhimõisteid nagu spekter, sageduskoste, impulsskoste, moduleerimine, tagasiside, filtreerimine jt. Registreerumise info Registreerumise algus 15.05.2025 Registreerumise lõpp 15.09.2025 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 15.09.2025 Registreerumise lõpp külalistele 15.09.2025 Registreeringu tühistamise lõpp 22.09.2025 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Ei Registreerunute arv 3 Osalejate piirarv 40 Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 3 EAP | 78 t Iseseisev töö 78 t Õpikeskkond Õppevorm Veebiõpe Seos Moodle'iga Ei Õpikeskkond http://moodle.ut.ee Kohustuslikud õppematerjalid Töölehed ja testid Moodles SIGNAALITÖÖTLUSE ALUSED I (LOFY.01.018) https://moodle.ut.ee/course/view.php?id=1133 Kursuse põhiõpik: H.P. Hsu, \"Schaum´s outline of theory and problems of Signals and Systems\", McGraw-Hill, New York [etc.], 1995 (olemas hulgi TÜ/FI raamatukogus ja leitav pdf-failina Internetis, k. a. teine trükk /2nd edition, 2011/). Soovituslikud õppematerjalid A.V. Oppenheim, A.S. Willsky, and I.T.Young, \"Signals and Systems \", Prentice-Hall, USA, Englewood Cliffs, 1997  (olemas TÜ/FI raamatukogus) . N.K.Sinha, \"Linear Systems,\" Wiley, New York, etc., 1991 (olemas TÜ/FI raamatukogus). J.J. Francis, \"A student's guide to Fourier transforms: with applications in physics and engineering,\" Cambridge University Press, 2004 (olemas TÜ/FI raamatukogus). R.J. Beerends, H.G. ter Morsche, J.C. van den Berg, E.M. van de Vrie, \"Fourier and Laplace transforms,\" Cambridge University Press, 2003 (olemas TÜ/FI raamatukogus). http://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/ http://en.wikibooks.org/wiki/Signals_and_Systems http://www.jhu.edu/signals/",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "signals-and-fourier-analysis",
+    "wave-properties",
+    "interference-and-diffraction",
+    "resonance"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"
   ],
