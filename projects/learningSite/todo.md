@@ -575,35 +575,35 @@ authoring content that uses it — `npm run lint:terminology` fails otherwise.
 Module `electromagnetism`. The largest single gap: the current set jumps from
 fields to Maxwell's equations with no potential, no Gauss, no Ampère.
 
-- [ ] Add terminology for electrostatics and magnetostatics
+- [x] Add terminology for electrostatics and magnetostatics
   `content: add electromagnetism terminology`
-- [ ] `coulombs-law` (L1) — prereq `electric-charge-and-current`
+- [x] `coulombs-law` (L1) — prereq `electric-charge-and-current`
   `content: add coulombs law concept`
-- [ ] `resistivity-and-conductivity` (L1) — prereq `voltage-and-resistance`
+- [x] `resistivity-and-conductivity` (L1) — prereq `voltage-and-resistance`
   `content: add resistivity and conductivity concept`
-- [ ] `electric-power-and-joule-heating` (L1) — prereq `voltage-and-resistance`
+- [x] `electric-power-and-joule-heating` (L1) — prereq `voltage-and-resistance`
   `content: add electric power and joule heating concept`
-- [ ] `electric-potential-and-potential-energy` (L2) — prereq `electric-fields`,
+- [x] `electric-potential-and-potential-energy` (L2) — prereq `electric-fields`,
       `work-and-energy`
   `content: add electric potential concept`
-- [ ] `dielectrics-and-capacitor-energy` (L2) — prereq `capacitance`
+- [x] `dielectrics-and-capacitor-energy` (L2) — prereq `capacitance`
   `content: add dielectrics and capacitor energy concept`
-- [ ] `lorentz-force` (L2) — prereq `magnetic-fields`
+- [x] `lorentz-force` (L2) — prereq `magnetic-fields`
   `content: add lorentz force concept`
-- [ ] `gausss-law` (L3) — prereq `electric-fields`, `electric-potential-and-potential-energy`
+- [x] `gausss-law` (L3) — prereq `electric-fields`, `electric-potential-and-potential-energy`
   `content: add gausss law concept`
-- [ ] `amperes-law` (L3) — prereq `magnetic-fields`
+- [x] `amperes-law` (L3) — prereq `magnetic-fields`
   `content: add amperes law concept`
-- [ ] `biot-savart-law` (L3) — prereq `magnetic-fields`
+- [x] `biot-savart-law` (L3) — prereq `magnetic-fields`
   `content: add biot savart law concept`
-- [ ] `inductance-and-rl-circuits` (L3) — prereq `electromagnetic-induction`
+- [x] `inductance-and-rl-circuits` (L3) — prereq `electromagnetic-induction`
   `content: add inductance and rl circuits concept`
-- [ ] `lc-and-rlc-oscillations` (L3) — prereq `inductance-and-rl-circuits`,
+- [x] `lc-and-rlc-oscillations` (L3) — prereq `inductance-and-rl-circuits`,
       `rc-circuit-transients`
   `content: add lc and rlc oscillations concept`
-- [ ] `the-poynting-vector` (L3) — prereq `maxwells-equations`, `electromagnetic-waves`
+- [x] `the-poynting-vector` (L3) — prereq `maxwells-equations`, `electromagnetic-waves`
   `content: add poynting vector concept`
-- [ ] `electromagnetic-waves-in-media` (L3) — prereq `electromagnetic-waves`
+- [x] `electromagnetic-waves-in-media` (L3) — prereq `electromagnetic-waves`
   `content: add electromagnetic waves in media concept`
 
 ### Phase 16 — Mechanics to bachelor core
