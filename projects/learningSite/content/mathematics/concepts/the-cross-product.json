@@ -1,0 +1,21 @@
+{
+  "id": "the-cross-product",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "vector-algebra",
+  "title": {
+    "en": "The cross product",
+    "et": "Vektorkorrutis",
+    "sourceHash": "2e09f9cf4407912e",
+    "stale": false
+  },
+  "summary": {
+    "en": "The cross product of two vectors in space is a third vector perpendicular to both, whose length equals the area of the parallelogram they span and whose direction is fixed by the right-hand rule.",
+    "et": "Kahe ruumivektori vektorkorrutis on kolmas vektor, mis on mõlemaga risti, mille pikkus võrdub nende poolt moodustatud rööpküliku pindalaga ja mille suuna määrab parema käe reegel.",
+    "sourceHash": "caa1a08e51ec4845",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-dot-product"
+  ]
+}

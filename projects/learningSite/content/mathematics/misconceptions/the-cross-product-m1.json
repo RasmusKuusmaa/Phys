@@ -1,0 +1,10 @@
+{
+  "id": "the-cross-product-m1",
+  "conceptId": "the-cross-product",
+  "text": {
+    "en": "The cross product is commutative, so a × b equals b × a.",
+    "et": "Vektorkorrutis on kommutatiivne, seega a × b võrdub b × a-ga.",
+    "sourceHash": "6a59f83f777653eb",
+    "stale": false
+  }
+}

@@ -1,0 +1,19 @@
+Where the dot product collapses two vectors into a number, the cross product
+builds a new vector out of them. It exists only in three dimensions, and it is
+defined so that a × b is perpendicular to both a and b, with length
+|a||b| sin θ — the area of the parallelogram the two vectors span.
+
+That sin θ is the mirror image of the dot product's cos θ, and it flips the
+behaviour completely. The cross product is *largest* when the vectors are
+perpendicular and *zero* when they are parallel, because parallel vectors span
+a degenerate parallelogram with no area at all. So a zero dot product means
+perpendicular, and a zero cross product means parallel — two complementary
+tests worth keeping straight.
+
+The one property that trips people is that order matters: a × b = −(b × a).
+Swapping the operands does not change the length but reverses the direction,
+which the right-hand rule makes concrete — curl your fingers from the first
+vector to the second and your thumb gives the result. This handedness is not a
+quirk of notation. It is why torque, angular momentum and the magnetic force on
+a moving charge all have a direction that has to be stated with a rule about
+hands rather than derived from magnitudes alone.

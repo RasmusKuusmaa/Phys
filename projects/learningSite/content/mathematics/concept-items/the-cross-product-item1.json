@@ -1,0 +1,56 @@
+{
+  "id": "the-cross-product-item1",
+  "conceptId": "the-cross-product",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How do a × b and b × a compare?",
+    "et": "Kuidas on a × b ja b × a omavahel seotud?",
+    "sourceHash": "fe46c07bce029f14",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They have the same magnitude but point in opposite directions",
+        "et": "Nende pikkused on võrdsed, kuid need osutavad vastassuundades",
+        "sourceHash": "b5a72cc0d012af1f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are equal, since multiplication does not depend on order",
+        "et": "Need on võrdsed, sest korrutamine ei sõltu järjekorrast",
+        "sourceHash": "7cf9822c8380ebe0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cross-product-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They are the same number, since the result is a scalar",
+        "et": "Need on sama arv, sest tulemus on skalaar",
+        "sourceHash": "51d4808668a0083c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cross-product-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They differ in magnitude, with the larger vector's order giving more",
+        "et": "Nende pikkused erinevad, suurema vektori järjekord annab rohkem",
+        "sourceHash": "a62c784316f02b1f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cross-product-m3"
+    }
+  ]
+}

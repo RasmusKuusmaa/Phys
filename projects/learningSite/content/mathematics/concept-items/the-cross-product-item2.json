@@ -1,0 +1,56 @@
+{
+  "id": "the-cross-product-item2",
+  "conceptId": "the-cross-product",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two non-zero vectors are parallel. What is their cross product?",
+    "et": "Kaks nullist erinevat vektorit on paralleelsed. Mis on nende vektorkorrutis?",
+    "sourceHash": "ffb4ed62add5f270",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The zero vector, because the parallelogram they span has no area",
+        "et": "Nullvektor, sest nende moodustatud rööpkülikul ei ole pindala",
+        "sourceHash": "b02e95713d1d9c47",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Its largest possible value, since their directions agree",
+        "et": "Suurim võimalik väärtus, sest nende suunad langevad kokku",
+        "sourceHash": "ca1147e8d20ad801",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cross-product-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A number equal to the product of their lengths",
+        "et": "Arv, mis võrdub nende pikkuste korrutisega",
+        "sourceHash": "9fa5e02a2252051c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cross-product-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Undefined, because the order of the two vectors is ambiguous",
+        "et": "Määramata, sest kahe vektori järjekord on mitmetähenduslik",
+        "sourceHash": "915395e6b27e6263",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cross-product-m1"
+    }
+  ]
+}
