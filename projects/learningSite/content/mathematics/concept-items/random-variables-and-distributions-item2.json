@@ -1,0 +1,56 @@
+{
+  "id": "random-variables-and-distributions-item2",
+  "conceptId": "random-variables-and-distributions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "For a continuous distribution, what is the probability that the variable takes one exact value?",
+    "et": "Milline on pideva jaotuse korral tõenäosus, et suurus omandab ühe täpse väärtuse?",
+    "sourceHash": "e8b795f99682942d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Exactly zero — only intervals have non-zero probability",
+        "et": "Täpselt null — nullist erinev tõenäosus on ainult vahemikel",
+        "sourceHash": "2d8babc05fe7a3da",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Small but non-zero, since the value can occur",
+        "et": "Väike, kuid nullist erinev, sest väärtus võib esineda",
+        "sourceHash": "1369f764b9e59333",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "random-variables-and-distributions-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Equal to the expected value of the distribution",
+        "et": "Võrdne jaotuse keskväärtusega",
+        "sourceHash": "deeb2ef2dca4a888",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "random-variables-and-distributions-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Always given by the normal distribution",
+        "et": "Alati antud normaaljaotusega",
+        "sourceHash": "c59e427fd5b93af8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "random-variables-and-distributions-m3"
+    }
+  ]
+}

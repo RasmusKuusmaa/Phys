@@ -1,0 +1,22 @@
+A random variable turns outcomes into numbers — the score on a die, the height
+of a person, the time until a component fails — so that arithmetic becomes
+possible. Its distribution records how the probability is spread across those
+numbers, and two summaries do most of the work: the expected value, which is the
+probability-weighted average, and the variance, which measures spread.
+
+"Expected" is a badly chosen word. The expected value of a fair die is 3.5, and
+no roll ever produces 3.5. It is not the most likely outcome and need not be a
+possible outcome at all; it is the long-run average, the number the running mean
+approaches over many trials. Reading it as a prediction of any single trial is
+the standard misuse.
+
+Continuous variables need one more adjustment. For something like height,
+measured exactly, the probability of any single value — precisely 180.000… cm —
+is zero, because there are uncountably many candidate values. Probability lives
+in intervals, and the density function gives probability per unit only after
+integration over a range. Among distributions the normal one has a special
+status, because the central limit theorem shows that sums of many independent
+small effects tend to it regardless of what the individual effects look like.
+That is why measurement error is usually normal. It is not, however, a universal
+law: incomes, city sizes and waiting times are famously not normal, and assuming
+normality because a sample is large is an error that better data never fixes.

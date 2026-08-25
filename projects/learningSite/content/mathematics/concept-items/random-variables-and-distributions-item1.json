@@ -1,0 +1,56 @@
+{
+  "id": "random-variables-and-distributions-item1",
+  "conceptId": "random-variables-and-distributions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A fair six-sided die has expected value 3.5. What does that mean?",
+    "et": "Ausa kuuetahulise täringu keskväärtus on 3,5. Mida see tähendab?",
+    "sourceHash": "6f7a2945f80a2562",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The long-run average of many rolls approaches 3.5, though no roll ever gives it",
+        "et": "Paljude visete pikaajaline keskmine läheneb 3,5-le, kuigi ükski vise seda kunagi ei anna",
+        "sourceHash": "bc07cc7802ba1e06",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "3.5 is the most frequently occurring result",
+        "et": "3,5 on kõige sagedamini esinev tulemus",
+        "sourceHash": "f4e84233f66fd25a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "random-variables-and-distributions-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Every large sample of rolls will be normally distributed around 3.5",
+        "et": "Iga suur viskevalim on normaaljaotusega 3,5 ümber",
+        "sourceHash": "245b8e990e573fa6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "random-variables-and-distributions-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The probability of rolling exactly 3.5 is small but non-zero",
+        "et": "Tõenäosus visata täpselt 3,5 on väike, kuid nullist erinev",
+        "sourceHash": "a4317d2d1b1857db",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "random-variables-and-distributions-m2"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "random-variables-and-distributions",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "probability-and-statistics",
+  "title": {
+    "en": "Random variables and distributions",
+    "et": "Juhuslikud suurused ja jaotused",
+    "sourceHash": "e0da312cbb50cb7b",
+    "stale": false
+  },
+  "summary": {
+    "en": "A random variable attaches a number to each outcome, and its distribution says how that number is spread; expectation and variance summarise the distribution, and the normal distribution arises whenever many small effects add together.",
+    "et": "Juhuslik suurus seab igale tulemile vastavusse arvu ja selle jaotus näitab, kuidas see arv on jaotunud; keskväärtus ja dispersioon võtavad jaotuse kokku ning normaaljaotus tekib alati, kui paljud väikesed mõjud liituvad.",
+    "sourceHash": "0990be45cff9379a",
+    "stale": false
+  },
+  "prerequisites": [
+    "probability"
+  ]
+}
