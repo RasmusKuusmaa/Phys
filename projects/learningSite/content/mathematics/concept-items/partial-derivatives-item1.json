@@ -1,0 +1,56 @@
+{
+  "id": "partial-derivatives-item1",
+  "conceptId": "partial-derivatives",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "For f(x, y) = x²y, what is the partial derivative with respect to x?",
+    "et": "Mis on funktsiooni f(x, y) = x²y osatuletis x-i järgi?",
+    "sourceHash": "7696525d22ecdfe0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "2xy — y is held constant, so it stays in the answer as a coefficient",
+        "et": "2xy — y hoitakse konstantsena, seega jääb see vastusesse kordajana",
+        "sourceHash": "57494c5e7235215c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "2x — differentiating with respect to x removes y altogether",
+        "et": "2x — x-i järgi diferentseerimine eemaldab y täielikult",
+        "sourceHash": "8d533d77c7ed2ce9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "partial-derivatives-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "x², since only the y factor is differentiated",
+        "et": "x², sest diferentseeritakse ainult y-tegurit",
+        "sourceHash": "52af5e66b41b3bc5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "partial-derivatives-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is undefined until the point is known to be an extremum",
+        "et": "See on määramata, kuni ei ole teada, et punkt on ekstreemum",
+        "sourceHash": "ba4debe5d190b949",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "partial-derivatives-m2"
+    }
+  ]
+}

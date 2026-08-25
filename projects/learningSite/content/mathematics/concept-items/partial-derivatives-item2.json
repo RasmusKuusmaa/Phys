@@ -1,0 +1,56 @@
+{
+  "id": "partial-derivatives-item2",
+  "conceptId": "partial-derivatives",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Both partial derivatives of a surface vanish at a point. What kind of point can it be?",
+    "et": "Pinna mõlemad osatuletised on punktis nullid. Mis liiki punkt see olla võib?",
+    "sourceHash": "f65f711f36bf70b0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A maximum, a minimum, or a saddle point — the vanishing derivatives alone do not decide",
+        "et": "Maksimum, miinimum või sadulpunkt — nullid tuletised üksi ei otsusta",
+        "sourceHash": "9a9846b5f7d5666d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A maximum or a minimum only",
+        "et": "Ainult maksimum või miinimum",
+        "sourceHash": "d3c337fced68c1c9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "partial-derivatives-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A point where the function no longer depends on either variable",
+        "et": "Punkt, kus funktsioon ei sõltu enam kummastki muutujast",
+        "sourceHash": "9465d53a8fb2d8d2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "partial-derivatives-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing can be said, since a surface has only one derivative",
+        "et": "Midagi ei saa öelda, sest pinnal on ainult üks tuletis",
+        "sourceHash": "658ffdbbc7f329fc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "partial-derivatives-m1"
+    }
+  ]
+}

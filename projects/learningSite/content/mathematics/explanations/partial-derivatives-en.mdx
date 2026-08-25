@@ -1,0 +1,22 @@
+For a function of one variable, "the slope" is unambiguous — there is only one
+direction to move. On a surface z = f(x, y) that stops being true. Standing on
+a hillside you can walk east and climb, walk north and descend, or walk along
+the contour and stay level. A single number cannot capture that, so the
+derivative splits into several.
+
+A partial derivative fixes all variables but one and differentiates as usual.
+∂f/∂x asks how f changes as x moves with y frozen; ∂f/∂y asks the reverse.
+Computationally this is easy — treat the other variable as a constant — but the
+word "constant" is doing work that gets misread. Constants do not vanish, they
+stay as coefficients. For f = x²y, differentiating with respect to x gives 2xy,
+not 2x: y is held fixed, not deleted.
+
+The two partials together give the gradient, which points in the direction of
+steepest ascent and whose length is that steepest slope. From it you can get the
+rate of change in *any* direction, so two numbers do describe the whole local
+picture. Finding where both partials vanish locates the flat points, but this
+generalises the one-variable story in an important way: as well as maxima and
+minima, a surface can have a saddle point, rising in one direction and falling
+in the perpendicular one. A mountain pass is exactly that, and no amount of
+staring at first derivatives distinguishes it — the second derivatives have to
+be examined.

@@ -1,0 +1,10 @@
+{
+  "id": "partial-derivatives-m2",
+  "conceptId": "partial-derivatives",
+  "text": {
+    "en": "If both partial derivatives are zero, the point must be a maximum or a minimum.",
+    "et": "Kui mõlemad osatuletised on nullid, peab punkt olema maksimum või miinimum.",
+    "sourceHash": "3b1112ffa5a9c691",
+    "stale": false
+  }
+}

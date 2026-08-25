@@ -1,0 +1,10 @@
+{
+  "id": "partial-derivatives-m3",
+  "conceptId": "partial-derivatives",
+  "text": {
+    "en": "Taking a partial derivative with respect to x means ignoring y entirely, so y disappears from the answer.",
+    "et": "Osatuletise võtmine x-i järgi tähendab y täielikku eiramist, seega kaob y vastusest.",
+    "sourceHash": "17bc0370ab33acc5",
+    "stale": false
+  }
+}
