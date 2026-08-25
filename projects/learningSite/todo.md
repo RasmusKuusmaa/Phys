@@ -422,13 +422,11 @@ templates and error models where the concept is quantitative, three
 misconceptions per concept, concept items, curated EN/ET resources.
 Terminology for these modules is already locked in `glossary.json`.
 
-**Status:** the 29 concepts below exist with their formulas, problem templates,
-error models and curated EN/ET resources. What is still missing on all 29 is
-misconceptions, concept items and explanations — they are listed in
-`COVERAGE_WAIVERS` (`src/content/coverageWaivers.ts`) so validation reports
-them as warnings instead of failing the build. **Deleting a concept from that
-list is the last step of finishing it**, and a waiver left behind on a
-complete concept is itself a build error.
+**Status: all 29 concepts are complete.** `COVERAGE_WAIVERS` is now empty and
+coverage enforcement is unconditional — every concept in the repo has three
+misconceptions, two concept items, EN/ET resources and both explanations.
+What remains in this phase is formulas for the still-qualitative concepts and
+richer Estonian resources; neither blocks the build.
 
 Per concept, "done" means: 3 misconceptions, ≥1 concept item whose wrong
 options each name a misconception, `explanations/{id}-en.mdx` and
@@ -461,32 +459,32 @@ options each name a misconception, `explanations/{id}-en.mdx` and
 
 Remaining, one commit per module:
 
-- [ ] Misconceptions, items and explanations — special relativity
+- [x] Misconceptions, items and explanations — special relativity
       (postulates-of-special-relativity, time-dilation, length-contraction,
       relativistic-momentum-and-energy)
   `content: complete special relativity concepts`
-- [ ] Misconceptions, items and explanations — rotational mechanics
+- [x] Misconceptions, items and explanations — rotational mechanics
       (torque-and-angular-momentum,
       moment-of-inertia-and-rotational-dynamics, rotational-kinetic-energy)
   `content: complete rotational mechanics concepts`
-- [ ] Misconceptions, items and explanations — analytical mechanics
+- [x] Misconceptions, items and explanations — analytical mechanics
       (lagrangian-mechanics, coupled-and-driven-oscillators)
   `content: complete analytical mechanics concepts`
-- [ ] Misconceptions, items and explanations — quantum mechanics
+- [x] Misconceptions, items and explanations — quantum mechanics
       (wavefunctions-and-probability, heisenberg-uncertainty-principle,
       particle-in-a-box, quantum-tunneling,
       the-hydrogen-atom-and-atomic-structure,
       spin-and-angular-momentum-in-quantum-mechanics)
   `content: complete quantum mechanics concepts`
-- [ ] Misconceptions, items and explanations — statistical mechanics
+- [x] Misconceptions, items and explanations — statistical mechanics
       (the-maxwell-boltzmann-distribution, statistical-definition-of-entropy,
       free-energy-and-spontaneity, the-carnot-cycle-and-heat-engines)
   `content: complete statistical mechanics concepts`
-- [ ] Misconceptions, items and explanations — upper electromagnetism
+- [x] Misconceptions, items and explanations — upper electromagnetism
       (maxwells-equations, kirchhoffs-laws-and-circuit-analysis,
       rc-circuit-transients, ac-circuits-and-impedance)
   `content: complete upper electromagnetism concepts`
-- [ ] Misconceptions, items and explanations — fluid mechanics
+- [x] Misconceptions, items and explanations — fluid mechanics
       (pressure-in-fluids, buoyancy-and-archimedes-principle,
       pascals-principle-and-hydraulics, fluid-continuity-and-flow-rate,
       bernoullis-equation, viscosity-and-poiseuille-flow)
@@ -806,9 +804,9 @@ concepts being finished first.
 Only once every concept above is authored. This is the phase that closes the
 door on the failure mode that started all of this.
 
-- [ ] Empty `COVERAGE_WAIVERS` — every concept complete, no waivers left
+- [x] Empty `COVERAGE_WAIVERS` — every concept complete, no waivers left
   `content: clear all content coverage waivers`
-- [ ] Promote missing explanations from warning to error now that all exist
+- [x] Promote missing explanations from warning to error now that all exist
   `feat: require explanations in both locales`
 - [ ] Add `npm run content:coverage -- --incomplete` to CI as a blocking step
   `ci: gate on content coverage`
