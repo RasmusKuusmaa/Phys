@@ -646,17 +646,17 @@ analytical mechanics that follows Lagrangian.
 
 Module `waves`.
 
-- [ ] Add terminology for acoustics
+- [x] Add terminology for acoustics
   `content: add wave and acoustics terminology`
-- [ ] `sound-waves-and-intensity` (L1) — prereq `wave-properties`
+- [x] `sound-waves-and-intensity` (L1) — prereq `wave-properties`
   `content: add sound waves and intensity concept`
-- [ ] `wave-energy-and-power` (L2) — prereq `wave-properties`
+- [x] `wave-energy-and-power` (L2) — prereq `wave-properties`
   `content: add wave energy and power concept`
-- [ ] `beats-and-superposition` (L2) — prereq `wave-properties`
+- [x] `beats-and-superposition` (L2) — prereq `wave-properties`
   `content: add beats and superposition concept`
-- [ ] `the-doppler-effect` (L2) — prereq `sound-waves-and-intensity`
+- [x] `the-doppler-effect` (L2) — prereq `sound-waves-and-intensity`
   `content: add doppler effect concept`
-- [ ] `the-wave-equation` (L3) — prereq `wave-properties`, `simple-harmonic-motion`
+- [x] `the-wave-equation` (L3) — prereq `wave-properties`, `simple-harmonic-motion`
   `content: add wave equation concept`
 
 ### Phase 18 — Thermodynamics and statistical mechanics
