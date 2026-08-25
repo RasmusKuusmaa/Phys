@@ -322,6 +322,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/hõõrdumine/1/est"
   },
   {
+    "id": "friction-coefficient",
+    "en": "coefficient of friction",
+    "et": "hõõrdetegur",
+    "domain": "mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/h%C3%B5%C3%B5rdetegur/1/est"
+  },
+  {
     "id": "generalized-coordinates",
     "en": "generalized coordinates",
     "et": "üldistatud koordinaadid",
