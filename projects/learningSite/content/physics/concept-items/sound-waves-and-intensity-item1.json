@@ -1,0 +1,56 @@
+{
+  "id": "sound-waves-and-intensity-item1",
+  "conceptId": "sound-waves-and-intensity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An astronaut in open space bangs two metal tools together right next to their helmet. Can another astronaut floating nearby, outside any spacecraft, hear it?",
+    "et": "Kosmonaut avakosmoses lööb kaks metalltööriista kokku otse oma kiivri kõrval. Kas teine lähedal hõljuv kosmonaut, väljaspool ühtki kosmoselaeva, kuuleb seda?",
+    "sourceHash": "61e3495c4898e699",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No — sound needs a material medium to travel through, and there is none in a vacuum",
+        "et": "Ei — heli vajab levimiseks ainelist keskkonda ja vaakumis seda ei ole",
+        "sourceHash": "4679fc0b39d8d999",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes, but much more quietly than on Earth",
+        "et": "Jah, kuid palju vaiksemalt kui Maal",
+        "sourceHash": "257f1b765d94a20f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sound-waves-and-intensity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Yes, at exactly the same volume, since sound does not need a medium",
+        "et": "Jah, täpselt samal valjusel, sest heli ei vaja keskkonda",
+        "sourceHash": "d96c63faf9fc50e6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sound-waves-and-intensity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only if the two astronauts are touching each other",
+        "et": "Ainult siis, kui kaks kosmonauti teineteist puudutavad",
+        "sourceHash": "df7da6f78b13d040",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sound-waves-and-intensity-m1"
+    }
+  ]
+}

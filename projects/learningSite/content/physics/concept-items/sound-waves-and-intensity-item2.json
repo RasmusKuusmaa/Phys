@@ -1,0 +1,56 @@
+{
+  "id": "sound-waves-and-intensity-item2",
+  "conceptId": "sound-waves-and-intensity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "You move from 2 metres to 6 metres away from a small point speaker. What happens to the sound intensity you experience?",
+    "et": "Sa liigud väikesest punktkõlarist 2 meetri kauguselt 6 meetri kaugusele. Mis juhtub heliintensiivsusega, mida sa koged?",
+    "sourceHash": "5a6f8c4fdd373e5d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It falls to one ninth, since intensity follows an inverse-square law with distance",
+        "et": "See langeb üheksandikuni, sest intensiivsus järgib kaugusega pöördruutseadust",
+        "sourceHash": "d49f94f73ce9de88",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It falls to one third, in direct proportion to the distance",
+        "et": "See langeb kolmandikuni, otseses võrdelises seoses kaugusega",
+        "sourceHash": "0178c31839957682",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sound-waves-and-intensity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stays the same, since intensity does not depend on distance",
+        "et": "See jääb samaks, sest intensiivsus ei sõltu kaugusest",
+        "sourceHash": "35ed949883d2b06a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sound-waves-and-intensity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It falls to one sixth",
+        "et": "See langeb kuuendikuni",
+        "sourceHash": "4b3ce59602017550",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sound-waves-and-intensity-m1"
+    }
+  ]
+}
