@@ -20,7 +20,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     // error models and resources are in; misconceptions, concept items and
     // explanations are still being authored module by module. See todo.md.
     "bernoullis-equation",
-    "fluid-continuity-and-flow-rate",
     "viscosity-and-poiseuille-flow",
   ],
 };

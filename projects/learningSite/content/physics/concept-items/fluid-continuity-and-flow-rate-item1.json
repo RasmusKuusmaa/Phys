@@ -1,0 +1,56 @@
+{
+  "id": "fluid-continuity-and-flow-rate-item1",
+  "conceptId": "fluid-continuity-and-flow-rate",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Water flows steadily through a pipe that narrows to half its cross-sectional area. What happens to the water's speed in the narrow section?",
+    "et": "Vesi voolab ühtlaselt läbi toru, mille ristlõikepindala kahaneb poole võrra. Mis juhtub vee kiirusega kitsas osas?",
+    "sourceHash": "473d2fefe8d27548",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It doubles, because the same volume must pass every second through half the area",
+        "et": "See kahekordistub, sest sama ruumala peab igas sekundis läbima poole väiksema pindala",
+        "sourceHash": "c9c9ab5346cc6e30",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It halves, because the narrower pipe restricts the water's movement",
+        "et": "See väheneb poole võrra, sest kitsam toru piirab vee liikumist",
+        "sourceHash": "71ccf9c51bc259bd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fluid-continuity-and-flow-rate-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, since flow rate and speed are the same quantity",
+        "et": "See ei muutu, sest vooluhulk ja kiirus on sama suurus",
+        "sourceHash": "eb60a04a64bc2e16",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fluid-continuity-and-flow-rate-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The flow stops, because continuity requires a uniform cross-section",
+        "et": "Voolamine lakkab, sest pidevus nõuab ühtlast ristlõiget",
+        "sourceHash": "2ca5f358a62b1689",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fluid-continuity-and-flow-rate-m3"
+    }
+  ]
+}

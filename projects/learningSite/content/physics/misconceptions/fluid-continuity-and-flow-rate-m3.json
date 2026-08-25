@@ -1,0 +1,10 @@
+{
+  "id": "fluid-continuity-and-flow-rate-m3",
+  "conceptId": "fluid-continuity-and-flow-rate",
+  "text": {
+    "en": "Continuity requires the pipe to have the same cross-section everywhere for the fluid to keep flowing.",
+    "et": "Pidevus nõuab, et toru ristlõige oleks kõikjal ühesugune, et vedelik saaks edasi voolata.",
+    "sourceHash": "b2881e791dfe3568",
+    "stale": false
+  }
+}

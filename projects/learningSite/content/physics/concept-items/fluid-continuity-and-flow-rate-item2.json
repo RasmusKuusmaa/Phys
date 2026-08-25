@@ -1,0 +1,56 @@
+{
+  "id": "fluid-continuity-and-flow-rate-item2",
+  "conceptId": "fluid-continuity-and-flow-rate",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What quantity stays constant along a pipe carrying a steady, incompressible flow?",
+    "et": "Milline suurus jääb ühtlast kokkusurumatut voolu kandvas torus konstantseks?",
+    "sourceHash": "aec3cd4614caeafa",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The volume flow rate, the product of cross-sectional area and flow speed",
+        "et": "Ruumiline vooluhulk, ristlõikepindala ja voolukiiruse korrutis",
+        "sourceHash": "6b42d455023ba891",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The flow speed, which cannot change once the fluid is moving",
+        "et": "Voolukiirus, mis ei saa muutuda, kui vedelik on kord juba liikuma hakanud",
+        "sourceHash": "65ca061cc9415cf4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fluid-continuity-and-flow-rate-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The cross-sectional area, which continuity forces to stay uniform",
+        "et": "Ristlõikepindala, mille pidevus sunnib ühtlaseks jääma",
+        "sourceHash": "b92c80482b523125",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fluid-continuity-and-flow-rate-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The width of the pipe, since a narrowing would slow the fluid to a halt",
+        "et": "Toru laius, sest ahenemine aeglustaks vedeliku seisma",
+        "sourceHash": "97c6d1f3c22702be",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fluid-continuity-and-flow-rate-m1"
+    }
+  ]
+}
