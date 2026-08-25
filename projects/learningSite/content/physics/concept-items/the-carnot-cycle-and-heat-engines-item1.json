@@ -1,0 +1,56 @@
+{
+  "id": "the-carnot-cycle-and-heat-engines-item1",
+  "conceptId": "the-carnot-cycle-and-heat-engines",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A heat engine runs between reservoirs at 600 K and 300 K. What is the highest efficiency it could possibly reach?",
+    "et": "Soojusmasin töötab soojusallikate vahel temperatuuridel 600 K ja 300 K. Milline on suurim kasutegur, mida see üldse saavutada saaks?",
+    "sourceHash": "6e0c0432afe1de20",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "50%, set by 1 − T_cold/T_hot, no matter how the engine is built",
+        "et": "50%, mille määrab 1 − T_külm/T_kuum, ükskõik kuidas masin on ehitatud",
+        "sourceHash": "36319c36ff8e7463",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "100%, if friction and heat leaks were eliminated entirely",
+        "et": "100%, kui hõõrdumine ja soojuslekked täielikult kõrvaldada",
+        "sourceHash": "1d8b6336c86cb703",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-carnot-cycle-and-heat-engines-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It depends only on the 600 K reservoir, not on the cold side",
+        "et": "See sõltub ainult 600 K allikast, mitte külmast poolest",
+        "sourceHash": "3bc47980a6fb433a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-carnot-cycle-and-heat-engines-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nearly 100%, since Carnot's limit describes only present-day engineering",
+        "et": "Peaaegu 100%, sest Carnot' piirang kirjeldab ainult tänapäeva tehnikat",
+        "sourceHash": "7323b68b440c467e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-carnot-cycle-and-heat-engines-m2"
+    }
+  ]
+}

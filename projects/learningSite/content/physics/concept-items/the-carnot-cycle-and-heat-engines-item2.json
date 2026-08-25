@@ -1,0 +1,56 @@
+{
+  "id": "the-carnot-cycle-and-heat-engines-item2",
+  "conceptId": "the-carnot-cycle-and-heat-engines",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can no heat engine exceed the Carnot efficiency, even in principle?",
+    "et": "Miks ei saa ükski soojusmasin isegi põhimõtteliselt Carnot' kasutegurit ületada?",
+    "sourceHash": "f661804152c56226",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Exhausting heat to the cold reservoir is what pays the entropy bill; an engine that skipped it would lower total entropy",
+        "et": "Soojuse väljutamine külma allikasse ongi see, mis tasub entroopiaarve; masin, mis selle vahele jätaks, vähendaks kogu entroopiat",
+        "sourceHash": "c309322f3112a736",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because real materials always leak heat and rub, and no design escapes that",
+        "et": "Sest tegelikud materjalid lekitavad alati soojust ja hõõrduvad ning ükski konstruktsioon sellest ei pääse",
+        "sourceHash": "f36f4131853d4cfb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-carnot-cycle-and-heat-engines-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because all the input heat could be converted only if the engine ran slowly enough",
+        "et": "Sest kogu sisendsoojuse saaks muundada ainult siis, kui masin töötaks piisavalt aeglaselt",
+        "sourceHash": "9a125364890b798c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-carnot-cycle-and-heat-engines-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the cold reservoir's temperature has no bearing on what is achievable",
+        "et": "Sest külma allika temperatuur ei mõjuta seda, mis on saavutatav",
+        "sourceHash": "4da1820d73d0fe57",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-carnot-cycle-and-heat-engines-m3"
+    }
+  ]
+}

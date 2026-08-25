@@ -28,7 +28,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "pascals-principle-and-hydraulics",
     "pressure-in-fluids",
     "rc-circuit-transients",
-    "the-carnot-cycle-and-heat-engines",
     "viscosity-and-poiseuille-flow",
   ],
 };
