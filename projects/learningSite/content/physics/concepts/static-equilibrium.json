@@ -1,0 +1,22 @@
+{
+  "id": "static-equilibrium",
+  "subject": "physics",
+  "level": "L1",
+  "module": "mechanics",
+  "title": {
+    "en": "Static equilibrium",
+    "et": "Staatiline tasakaal",
+    "sourceHash": "a62575bd34c4d9f1",
+    "stale": false
+  },
+  "summary": {
+    "en": "An object at rest and staying at rest needs both its net force and its net torque to be zero — force balance alone can leave it free to spin, so both conditions must be checked independently.",
+    "et": "Paigal seisev ja paigal püsiv keha vajab, et nii resultantjõud kui ka resultantjõumoment oleksid null — ainuüksi jõudude tasakaal võib jätta keha vabaks pöörlema, seega tuleb kontrollida mõlemat tingimust eraldi.",
+    "sourceHash": "632e187b8942cadf",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtons-first-law",
+    "torque-and-angular-momentum"
+  ]
+}

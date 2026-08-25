@@ -1,0 +1,10 @@
+{
+  "id": "static-equilibrium-m1",
+  "conceptId": "static-equilibrium",
+  "text": {
+    "en": "If the net force on an object is zero, the object cannot be rotating or starting to rotate.",
+    "et": "Kui kehale mõjuv resultantjõud on null, ei saa keha pöörlema hakata ega pöörelda.",
+    "sourceHash": "00a75993da0ec9d4",
+    "stale": false
+  }
+}

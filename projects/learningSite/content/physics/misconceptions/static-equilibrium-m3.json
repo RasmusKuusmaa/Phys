@@ -1,0 +1,10 @@
+{
+  "id": "static-equilibrium-m3",
+  "conceptId": "static-equilibrium",
+  "text": {
+    "en": "Where a force is applied to a rigid object does not matter for equilibrium, only its size and direction.",
+    "et": "Tasakaalu jaoks ei loe, kus jõud jäigale kehale rakendub, ainult selle suurus ja suund.",
+    "sourceHash": "37245b400fe84475",
+    "stale": false
+  }
+}

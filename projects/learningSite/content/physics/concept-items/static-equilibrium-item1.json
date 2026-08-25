@@ -1,0 +1,56 @@
+{
+  "id": "static-equilibrium-item1",
+  "conceptId": "static-equilibrium",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two equal and opposite forces are applied to opposite ends of a rod, both perpendicular to it, so the net force is zero. Can the rod still begin to rotate?",
+    "et": "Kaks võrdset ja vastupidist jõudu rakendatakse varda vastaskülgedele, mõlemad sellega risti, nii et resultantjõud on null. Kas varras võib ikkagi hakata pöörlema?",
+    "sourceHash": "9b4a17d8099b35f2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Yes — the two forces form a couple that produces a net torque even though the net force is zero",
+        "et": "Jah — need kaks jõudu moodustavad paari, mis tekitab resultantjõumomendi, kuigi resultantjõud on null",
+        "sourceHash": "7dde50da8c2fbb6a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No — zero net force guarantees the rod cannot rotate",
+        "et": "Ei — null resultantjõud tagab, et varras ei saa pöörelda",
+        "sourceHash": "80e4ffe6cf8d14a3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "static-equilibrium-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "No, since equal and opposite forces always cancel completely",
+        "et": "Ei, sest võrdsed ja vastupidised jõud tühistavad alati täielikult üksteist",
+        "sourceHash": "92d4dfdd8d3ac988",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "static-equilibrium-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only if the forces are not perpendicular to the rod",
+        "et": "Ainult siis, kui jõud ei ole varda suhtes risti",
+        "sourceHash": "d22e020ba29d3287",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "static-equilibrium-m1"
+    }
+  ]
+}

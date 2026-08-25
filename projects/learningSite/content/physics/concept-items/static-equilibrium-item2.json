@@ -1,0 +1,56 @@
+{
+  "id": "static-equilibrium-item2",
+  "conceptId": "static-equilibrium",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A ladder leans against a wall and is in static equilibrium. What must be true?",
+    "et": "Redel toetub vastu seina ja on staatilises tasakaalus. Mis peab kehtima?",
+    "sourceHash": "5497b2e0f537c3b5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both the net force and the net torque on the ladder are zero",
+        "et": "Redelile mõjuv nii resultantjõud kui ka resultantjõumoment on null",
+        "sourceHash": "676ca39c906a10d1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No forces are acting on the ladder at all",
+        "et": "Redelile ei mõju üldse jõude",
+        "sourceHash": "755b0e51a6bfbc85",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "static-equilibrium-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only the net force needs to be zero; torque is irrelevant for a rigid object",
+        "et": "Nulliga peab võrduma ainult resultantjõud; jõumoment ei ole jäiga keha jaoks oluline",
+        "sourceHash": "dd7a9051bd8bfd75",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "static-equilibrium-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only the net torque needs to be zero; force balance is automatic",
+        "et": "Nulliga peab võrduma ainult resultantjõumoment; jõudude tasakaal on automaatne",
+        "sourceHash": "f62bcf18c5e6c41c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "static-equilibrium-m3"
+    }
+  ]
+}
