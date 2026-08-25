@@ -1,0 +1,22 @@
+{
+  "id": "the-wave-equation",
+  "subject": "physics",
+  "level": "L3",
+  "module": "waves",
+  "title": {
+    "en": "The wave equation",
+    "et": "Lainevõrrand",
+    "sourceHash": "fa737e935e654c01",
+    "stale": false
+  },
+  "summary": {
+    "en": "The wave equation is a single differential equation satisfied by any disturbance travelling through a medium at fixed speed, and its solutions — the family of possible waveforms — are fixed entirely by how the medium's tension, stiffness or elasticity relates to its inertia.",
+    "et": "Lainevõrrand on üksainus diferentsiaalvõrrand, mida rahuldab iga häiritus, mis levib keskkonnas jääval kiirusel, ja selle lahendid — võimalike lainekujude pere — on täielikult määratud sellega, kuidas keskkonna pinge, jäikus või elastsus seostub selle inertsiga.",
+    "sourceHash": "b906abece5a7d493",
+    "stale": false
+  },
+  "prerequisites": [
+    "wave-properties",
+    "simple-harmonic-motion"
+  ]
+}

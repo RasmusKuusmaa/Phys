@@ -1,0 +1,56 @@
+{
+  "id": "the-wave-equation-item1",
+  "conceptId": "the-wave-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The same mathematical wave equation describes waves on a string, sound in air and electromagnetic waves in vacuum. What does this tell you?",
+    "et": "Sama matemaatiline lainevõrrand kirjeldab laineid keelel, heli õhus ja elektromagnetlaineid vaakumis. Mida see näitab?",
+    "sourceHash": "0855472fee4fea33",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The equation is a general mathematical structure that applies to any medium supporting a restoring influence and inertia, not one specific to any single kind of wave",
+        "et": "Võrrand on üldine matemaatiline struktuur, mis kehtib mistahes keskkonna kohta, millel on taastav mõju ja inerts, mitte ühele kindlale lainetüübile eriomane",
+        "sourceHash": "52eb590c54d25856",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is a coincidence with no deeper mathematical reason",
+        "et": "See on juhus, millel puudub sügavam matemaatiline põhjus",
+        "sourceHash": "5999feffe99039b2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-wave-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Sound, string waves and light are secretly the same physical phenomenon",
+        "et": "Heli, keelelained ja valgus on salaja sama füüsikaline nähtus",
+        "sourceHash": "5242282e236726ff",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-wave-equation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The equation only genuinely applies to sound; the others are rough approximations",
+        "et": "Võrrand kehtib tegelikult ainult heli kohta; teised on lihtsalt ligikaudsed lähendused",
+        "sourceHash": "92ef4807ca96cf84",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-wave-equation-m1"
+    }
+  ]
+}

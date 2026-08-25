@@ -1,0 +1,56 @@
+{
+  "id": "the-wave-equation-item2",
+  "conceptId": "the-wave-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What determines the wave speed that appears in the wave equation for waves on a stretched string?",
+    "et": "Mis määrab pingul keele lainevõrrandis esineva laine kiiruse?",
+    "sourceHash": "9550c9ff31afb57f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The string's tension and its mass per unit length — properties of the medium, not of any particular wave on it",
+        "et": "Keele pinge ja selle mass pikkusühiku kohta — keskkonna omadused, mitte ükski konkreetne sellel olev laine",
+        "sourceHash": "c08a09136354d0b0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The amplitude of the particular wave travelling on the string",
+        "et": "Konkreetse keelel leviva laine amplituud",
+        "sourceHash": "33dc1f2479f6b5ea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-wave-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The frequency of the particular wave travelling on the string",
+        "et": "Konkreetse keelel leviva laine sagedus",
+        "sourceHash": "1560cec7abcb6160",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-wave-equation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The shape of the waveform itself, which sets its own speed",
+        "et": "Lainekuju enda kuju, mis määrab oma kiiruse",
+        "sourceHash": "3ac988d4fde75b82",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-wave-equation-m1"
+    }
+  ]
+}
