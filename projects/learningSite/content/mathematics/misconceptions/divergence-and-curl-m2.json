@@ -1,0 +1,10 @@
+{
+  "id": "divergence-and-curl-m2",
+  "conceptId": "divergence-and-curl",
+  "text": {
+    "en": "A vector field with zero curl has no motion at all.",
+    "et": "Nulliga võrduva rootoriga vektorväljal ei ole üldse liikumist.",
+    "sourceHash": "ddfcbfd64535c6fb",
+    "stale": false
+  }
+}

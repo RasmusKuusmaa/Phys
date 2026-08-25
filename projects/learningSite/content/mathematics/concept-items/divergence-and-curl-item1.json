@@ -1,0 +1,56 @@
+{
+  "id": "divergence-and-curl-item1",
+  "conceptId": "divergence-and-curl",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Water flows in a straight line at uniform speed with no swirling. What can be said about the curl of its velocity field?",
+    "et": "Vesi voolab sirgjooneliselt ühtlase kiirusega ilma keerlemiseta. Mida saab öelda selle kiirusvälja rootori kohta?",
+    "sourceHash": "48c6b1a701febdfe",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is zero — curl measures local rotation, and there is none here",
+        "et": "See on null — rootor mõõdab kohalikku pöörlemist ja seda siin ei ole",
+        "sourceHash": "495f369c19d1b6dd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It must be large, since the water is clearly moving",
+        "et": "See peab olema suur, sest vesi liigub selgelt",
+        "sourceHash": "fb7bc99cb57d89e2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "divergence-and-curl-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is the same as the divergence, since they measure the same thing",
+        "et": "See on sama mis divergents, sest need mõõdavad sama asja",
+        "sourceHash": "6fc493a4e0885aaf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "divergence-and-curl-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be evaluated for a field with no swirling",
+        "et": "Seda ei saa hinnata väljal, kus keerlemist pole",
+        "sourceHash": "c7b29e4b05f52796",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "divergence-and-curl-m1"
+    }
+  ]
+}

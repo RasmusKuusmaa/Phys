@@ -1,0 +1,26 @@
+Divergence and curl both take a vector field and produce something else, but
+they answer completely different questions and are easy to conflate only by
+their similar-looking definitions. Divergence, ∇·F, is a scalar at each point,
+measuring the net rate at which the field flows outward from that point per
+unit volume. Picture a tiny sphere: if more field lines leave it than enter,
+divergence is positive there — the point behaves like a source. If more enter
+than leave, divergence is negative — a sink. Water flowing at constant velocity
+through empty pipe has zero divergence everywhere: whatever flows in one side
+flows out the other, with nothing created or destroyed.
+
+Curl, ∇×F, is a vector at each point, measuring local rotation. Its direction is
+the axis a tiny paddle wheel placed there would spin about, by the right-hand
+rule, and its magnitude is how fast the wheel would turn. Crucially, curl
+measures *local* spin, not global motion: water flowing dead straight at uniform
+speed has zero curl everywhere, even though the water is clearly moving fast —
+a paddle wheel dropped into it would translate downstream without turning.
+Curl only picks up where nearby streamlines move at different rates or bend,
+producing the twist that would set the wheel spinning.
+
+Both quantities feed the two integral theorems that generalise the fundamental
+theorem of calculus to vector fields: the divergence theorem relates a volume
+integral of ∇·F to a flux through the enclosing surface, and Stokes' theorem
+relates a surface integral of ∇×F to a circulation around the boundary curve.
+These are not curiosities — they are how Maxwell's equations are written in
+their differential form, translating "no magnetic monopoles" into ∇·B = 0 and
+Faraday's law into a statement about ∇×E.

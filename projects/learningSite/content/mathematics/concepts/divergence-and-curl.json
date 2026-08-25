@@ -1,0 +1,22 @@
+{
+  "id": "divergence-and-curl",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "vector-calculus",
+  "title": {
+    "en": "Divergence and curl",
+    "et": "Divergents ja rootor",
+    "sourceHash": "f3f79a82c2cfd6cc",
+    "stale": false
+  },
+  "summary": {
+    "en": "Divergence measures how much a vector field spreads outward from a point, and curl measures how much it circulates around one — a fluid's velocity field has positive divergence at a source and non-zero curl wherever there is local rotation.",
+    "et": "Divergents mõõdab, kui palju vektorväli punktist väljapoole hajub, ja rootor mõõdab, kui palju see punkti ümber tsirkuleerib — vedeliku kiirusväljal on allika juures positiivne divergents ja nullist erinev rootor kõikjal, kus toimub kohalik pöörlemine.",
+    "sourceHash": "13f4901b73e8279b",
+    "stale": false
+  },
+  "prerequisites": [
+    "vector-fields-and-the-gradient",
+    "the-cross-product"
+  ]
+}

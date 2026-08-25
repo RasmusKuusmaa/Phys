@@ -1,0 +1,56 @@
+{
+  "id": "divergence-and-curl-item2",
+  "conceptId": "divergence-and-curl",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What kind of quantity does the divergence of a vector field produce at each point?",
+    "et": "Mis laadi suuruse annab vektorvälja divergents igas punktis?",
+    "sourceHash": "b6aaf373c4cbe8fd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A scalar, describing net outward flow per unit volume",
+        "et": "Skalaari, mis kirjeldab netovoolu väljapoole ruumalaühiku kohta",
+        "sourceHash": "f988e6e76fa39a28",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A vector perpendicular to the field",
+        "et": "Vektorit, mis on väljaga risti",
+        "sourceHash": "430bcec0cd08d02d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "divergence-and-curl-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The same vector quantity that the curl produces",
+        "et": "Sama vektoriaalse suuruse, mille annab rootor",
+        "sourceHash": "0e02ddc6de81c7b8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "divergence-and-curl-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A vector pointing in the direction of steepest increase",
+        "et": "Vektorit, mis osutab kõige järsema kasvu suunas",
+        "sourceHash": "a559593f789fa944",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "divergence-and-curl-m1"
+    }
+  ]
+}
