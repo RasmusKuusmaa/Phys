@@ -1,0 +1,29 @@
+A gas has several variables — pressure, volume, temperature — and a
+thermodynamic process is what happens when it moves between states. Naming a
+process by which variable it holds fixed is not a formality: that single
+constraint, combined with the first law, completely determines how heat, work
+and internal energy trade off for that process.
+
+An isothermal process holds temperature fixed. Since an ideal gas's internal
+energy depends on temperature alone, ΔU = 0 throughout, so by the first law
+every joule of heat added must leave again as work done, and vice versa — heat
+and work are in lockstep. An isochoric (constant-volume) process holds volume
+fixed, and since work in this context is force through a *changing* volume, a
+process with no volume change does zero work regardless of how much the
+pressure or temperature shifts; every joule of heat added goes directly into
+internal energy. An isobaric process holds pressure fixed, letting volume and
+temperature move together, with heat splitting between raising the internal
+energy and doing work.
+
+An adiabatic process holds *no* thermodynamic variable fixed — what it fixes
+is the exchange of heat, Q = 0, not temperature. This is the misconception to
+watch for: "adiabatic" and "isothermal" are opposite constraints, not
+synonyms. With Q = 0, the first law reads ΔU = −W directly: if the gas does
+work by expanding, that work can only be paid for out of its own internal
+energy, and since internal energy is tied to temperature, an adiabatically
+expanding gas necessarily cools — no heat leaves, but the gas still gets
+colder, because energy has to leave through work even when it cannot leave as
+heat. This is exactly why a bicycle pump body warms during rapid compression
+(adiabatic, work done *on* the gas raises its internal energy) and why gas
+released rapidly from a canister feels cold (adiabatic expansion, the gas
+does work at its own internal energy's expense).

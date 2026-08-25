@@ -1,0 +1,56 @@
+{
+  "id": "thermodynamic-processes-item1",
+  "conceptId": "thermodynamic-processes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A gas expands adiabatically, doing work on its surroundings with no heat exchanged. What happens to its temperature?",
+    "et": "Gaas paisub adiabaatiliselt, tehes tööd oma ümbrusele, ilma soojust vahetamata. Mis juhtub selle temperatuuriga?",
+    "sourceHash": "7d94b2f9a2993bb7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It falls — with Q = 0, the work done must come entirely from internal energy, which is tied to temperature",
+        "et": "See langeb — kui Q = 0, peab tehtud töö tulema täielikult siseenergiast, mis on seotud temperatuuriga",
+        "sourceHash": "2e55d5a95cab17c9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It stays exactly constant, since adiabatic means constant temperature",
+        "et": "See jääb täpselt konstantseks, sest adiabaatiline tähendab konstantset temperatuuri",
+        "sourceHash": "c09bd4780d30f282",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermodynamic-processes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It rises, since expansion always increases a gas's temperature",
+        "et": "See tõuseb, sest paisumine suurendab alati gaasi temperatuuri",
+        "sourceHash": "e19174865c3f02f9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermodynamic-processes-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot change at all, since no heat was exchanged",
+        "et": "See ei saa üldse muutuda, sest soojust ei vahetatud",
+        "sourceHash": "40c6fedc723e86d5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermodynamic-processes-m1"
+    }
+  ]
+}

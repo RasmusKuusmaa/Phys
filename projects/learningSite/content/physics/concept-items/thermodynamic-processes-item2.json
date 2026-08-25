@@ -1,0 +1,56 @@
+{
+  "id": "thermodynamic-processes-item2",
+  "conceptId": "thermodynamic-processes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A gas is heated in a sealed, rigid container, so its volume cannot change (an isochoric process). What can be said about the work done?",
+    "et": "Gaasi kuumutatakse suletud jäigas anumas, nii et selle ruumala ei saa muutuda (isohoorne protsess). Mida saab öelda tehtud töö kohta?",
+    "sourceHash": "9a79a42d2a0b79ab",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No work is done, since work in this context requires a volume change, and here there is none",
+        "et": "Tööd ei tehta, sest selles kontekstis nõuab töö ruumala muutust ja siin seda ei ole",
+        "sourceHash": "6617234177c676a6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Work is done proportional to the temperature increase",
+        "et": "Tehakse tööd, mis on võrdeline temperatuuri tõusuga",
+        "sourceHash": "a1bf13873f43530e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermodynamic-processes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Work is done proportional to the pressure increase",
+        "et": "Tehakse tööd, mis on võrdeline rõhu tõusuga",
+        "sourceHash": "a515acd87ddc0bc3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermodynamic-processes-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "No heat is exchanged either, since the container is sealed",
+        "et": "Soojust ka ei vahetata, sest anum on suletud",
+        "sourceHash": "ab5a213e8832e819",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermodynamic-processes-m1"
+    }
+  ]
+}

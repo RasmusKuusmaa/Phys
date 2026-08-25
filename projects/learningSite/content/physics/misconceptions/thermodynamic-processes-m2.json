@@ -1,0 +1,10 @@
+{
+  "id": "thermodynamic-processes-m2",
+  "conceptId": "thermodynamic-processes",
+  "text": {
+    "en": "In an adiabatic expansion, since no heat is exchanged, the internal energy must stay constant too.",
+    "et": "Adiabaatilises paisumises, kuna soojust ei vahetata, peab ka siseenergia jääma konstantseks.",
+    "sourceHash": "296b264715a95e16",
+    "stale": false
+  }
+}

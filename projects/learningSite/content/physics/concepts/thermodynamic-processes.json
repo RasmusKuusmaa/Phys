@@ -1,0 +1,22 @@
+{
+  "id": "thermodynamic-processes",
+  "subject": "physics",
+  "level": "L2",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Thermodynamic processes",
+    "et": "Termodünaamilised protsessid",
+    "sourceHash": "ef571b8fbf51d1e8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Isothermal, adiabatic, isobaric and isochoric processes each hold one variable fixed while a gas changes state, and that constraint alone determines how heat, work and internal energy divide between each other for that particular process.",
+    "et": "Isotermiline, adiabaatiline, isobaarne ja isohoorne protsess hoiavad igaüks üht muutujat kinni, samal ajal kui gaas oma olekut muudab, ja just see piirang üksi määrab, kuidas soojus, töö ja siseenergia selle konkreetse protsessi jaoks omavahel jagunevad.",
+    "sourceHash": "613c3b3b93c0a4cf",
+    "stale": false
+  },
+  "prerequisites": [
+    "ideal-gas-law",
+    "internal-energy-and-the-first-law"
+  ]
+}
