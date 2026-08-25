@@ -1,0 +1,56 @@
+{
+  "id": "rotational-kinetic-energy-item1",
+  "conceptId": "rotational-kinetic-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A flywheel spins rapidly about a fixed axle while its centre stays put. What is its kinetic energy?",
+    "et": "Hooratas pöörleb kiiresti ümber kinnitatud telje, samal ajal kui selle kese püsib paigal. Kui suur on selle kineetiline energia?",
+    "sourceHash": "637cefc601814a2b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "½Iω², stored entirely in the rotation",
+        "et": "½Iω², mis on tervikuna talletatud pöörlemises",
+        "sourceHash": "4fc5a22ec0a90b3e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Zero, since the wheel as a whole is not travelling anywhere",
+        "et": "Null, sest ratas tervikuna kuhugi ei liigu",
+        "sourceHash": "7845dc1b1af1b9c9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rotational-kinetic-energy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "½mv² using the speed of the axle, which is zero",
+        "et": "½mv², kasutades telje kiirust, mis on null",
+        "sourceHash": "729c165eef9213ab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rotational-kinetic-energy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Proportional to ω rather than ω², since energy grows in step with spin rate",
+        "et": "Võrdeline ω-ga, mitte ω²-ga, sest energia kasvab koos pöörlemiskiirusega",
+        "sourceHash": "f19c9c1996e56e9a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rotational-kinetic-energy-m3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rotational-kinetic-energy-item2",
+  "conceptId": "rotational-kinetic-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A wheel rolling without slipping doubles its angular velocity. What happens to its rotational kinetic energy?",
+    "et": "Libisemata veerev ratas kahekordistab oma nurkkiiruse. Mis juhtub selle pöörlemise kineetilise energiaga?",
+    "sourceHash": "402ff3aa5f0d4dd2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It becomes four times larger, since the energy goes as ω²",
+        "et": "See suureneb neli korda, sest energia sõltub ω²-st",
+        "sourceHash": "c36d9ca65cb4b7ef",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doubles, in step with the angular velocity",
+        "et": "See kahekordistub koos nurkkiirusega",
+        "sourceHash": "136faa1eee852a48",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rotational-kinetic-energy-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, because rolling energy is fixed by the wheel's mass",
+        "et": "See ei muutu, sest veeremisenergia on määratud ratta massiga",
+        "sourceHash": "e5ae8c10fa60d6ee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rotational-kinetic-energy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It stays zero as long as the wheel's centre keeps moving steadily",
+        "et": "See jääb nulliks, kuni ratta kese liigub ühtlaselt",
+        "sourceHash": "44370ff90a366222",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rotational-kinetic-energy-m1"
+    }
+  ]
+}

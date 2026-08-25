@@ -1,0 +1,10 @@
+{
+  "id": "rotational-kinetic-energy-m1",
+  "conceptId": "rotational-kinetic-energy",
+  "text": {
+    "en": "An object spinning in place has no kinetic energy, because its centre of mass is not going anywhere.",
+    "et": "Paigal pöörleval kehal ei ole kineetilist energiat, sest selle massikese ei liigu kuhugi.",
+    "sourceHash": "f03ffdb10cf6a9f5",
+    "stale": false
+  }
+}
