@@ -1,0 +1,56 @@
+{
+  "id": "the-periodic-table-item1",
+  "conceptId": "the-periodic-table",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What determines an element's position in the periodic table?",
+    "et": "Mis määrab elemendi asukoha perioodilisussüsteemis?",
+    "sourceHash": "b0866c612c7a02bf",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its atomic number — the number of protons in the nucleus",
+        "et": "Selle aatomnumber — prootonite arv tuumas",
+        "sourceHash": "95e31bf5519bd2af",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Its atomic mass, increasing left to right",
+        "et": "Selle aatommass, mis kasvab vasakult paremale",
+        "sourceHash": "810a2fc3d218a13d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-periodic-table-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Its period, since elements in a row share their chemistry",
+        "et": "Selle periood, sest ühe rea elementidel on ühesugune keemia",
+        "sourceHash": "ef0c3a642f3266ab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-periodic-table-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Its atomic radius, which increases steadily across a period",
+        "et": "Selle aatomiraadius, mis perioodis pidevalt kasvab",
+        "sourceHash": "8db764facc8fbd70",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-periodic-table-m2"
+    }
+  ]
+}

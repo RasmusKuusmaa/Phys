@@ -1,0 +1,56 @@
+{
+  "id": "the-periodic-table-item2",
+  "conceptId": "the-periodic-table",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How does atomic radius change from left to right across a period?",
+    "et": "Kuidas muutub aatomiraadius perioodis vasakult paremale?",
+    "sourceHash": "136f81a972bab830",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It decreases — the growing nuclear charge pulls the same shell inward",
+        "et": "See väheneb — kasvav tuumalaeng tõmbab sedasama kihti sissepoole",
+        "sourceHash": "49150856e948791a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It increases, because more electrons are being added",
+        "et": "See kasvab, sest elektrone lisandub",
+        "sourceHash": "6dd450493b76a8d4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-periodic-table-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stays constant, since the period number does not change",
+        "et": "See jääb samaks, sest perioodi number ei muutu",
+        "sourceHash": "1cbece7f0e3255b4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-periodic-table-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It follows atomic mass, so it rises in steps",
+        "et": "See järgib aatommassi, seega kasvab astmeliselt",
+        "sourceHash": "2c342802aa0b0bc6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-periodic-table-m1"
+    }
+  ]
+}

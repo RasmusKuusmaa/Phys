@@ -1,0 +1,21 @@
+{
+  "id": "the-periodic-table",
+  "subject": "chemistry",
+  "level": "L1",
+  "module": "general-chemistry",
+  "title": {
+    "en": "The periodic table",
+    "et": "Perioodilisussüsteem",
+    "sourceHash": "01badac940215a28",
+    "stale": false
+  },
+  "summary": {
+    "en": "Ordering the elements by atomic number arranges them into groups whose members share an outer-electron configuration, so properties such as atomic radius, ionisation energy and reactivity vary in predictable trends across a period and down a group.",
+    "et": "Elementide järjestamine aatomnumbri järgi paigutab need rühmadesse, mille liikmetel on ühesugune väliselektronide konfiguratsioon, mistõttu omadused nagu aatomiraadius, ionisatsioonienergia ja reaktsioonivõime muutuvad perioodis ja rühmas ennustatavate seaduspärade järgi.",
+    "sourceHash": "46307776af2e8584",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-bonding"
+  ]
+}
