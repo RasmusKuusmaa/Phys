@@ -1,0 +1,56 @@
+{
+  "id": "dielectrics-and-capacitor-energy-item2",
+  "conceptId": "dielectrics-and-capacitor-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A capacitor's voltage is doubled while its capacitance stays the same. What happens to the energy it stores?",
+    "et": "Kondensaatori pinge kahekordistatakse, mahtuvust muutmata. Mis juhtub selle talletatud energiaga?",
+    "sourceHash": "b22bca4f0b55b3a8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It quadruples, since stored energy depends on the square of the voltage",
+        "et": "See neljakordistub, sest talletatud energia sõltub pinge ruudust",
+        "sourceHash": "2099007e09c6f286",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doubles, tracking voltage directly",
+        "et": "See kahekordistub, järgides otse pinget",
+        "sourceHash": "6df881adbd221186",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dielectrics-and-capacitor-energy-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, since energy depends only on capacitance",
+        "et": "See ei muutu, sest energia sõltub ainult mahtuvusest",
+        "sourceHash": "bf79cc99f93fa43e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dielectrics-and-capacitor-energy-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It halves, since higher voltage means the capacitor holds less charge",
+        "et": "See poolitub, sest kõrgem pinge tähendab, et kondensaator hoiab vähem laengut",
+        "sourceHash": "50652330926db81a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dielectrics-and-capacitor-energy-m1"
+    }
+  ]
+}

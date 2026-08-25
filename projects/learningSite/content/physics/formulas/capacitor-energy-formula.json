@@ -1,0 +1,47 @@
+{
+  "id": "capacitor-energy-formula",
+  "conceptId": "dielectrics-and-capacitor-energy",
+  "latex": "U = \\frac{1}{2} C V^2",
+  "symbols": [
+    {
+      "symbol": "U",
+      "name": {
+        "en": "potential energy",
+        "et": "potentsiaalne energia",
+        "sourceHash": "d8725eaff83fd8c9",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "C",
+      "name": {
+        "en": "capacitance",
+        "et": "mahtuvus",
+        "sourceHash": "74badef58b2f2c06",
+        "stale": false
+      },
+      "unit": "F"
+    },
+    {
+      "symbol": "V",
+      "name": {
+        "en": "electric potential",
+        "et": "potentsiaal",
+        "sourceHash": "918cd29e81ccd2fc",
+        "stale": false
+      },
+      "unit": "V"
+    }
+  ],
+  "solveFor": [
+    "U",
+    "C",
+    "V"
+  ],
+  "expressions": {
+    "U": "0.5*C*(V^2)",
+    "C": "2*U/(V^2)",
+    "V": "sqrt(2*U/C)"
+  }
+}

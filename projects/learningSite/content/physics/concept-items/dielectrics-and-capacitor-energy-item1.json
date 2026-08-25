@@ -1,0 +1,56 @@
+{
+  "id": "dielectrics-and-capacitor-energy-item1",
+  "conceptId": "dielectrics-and-capacitor-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A capacitor's air gap is filled with a dielectric material while the charge on its plates stays fixed. What happens to its capacitance?",
+    "et": "Kondensaatori õhupilu täidetakse dielektrilise materjaliga, plaatide laengut muutmata. Mis juhtub selle mahtuvusega?",
+    "sourceHash": "605d9103a12de165",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It increases — the dielectric weakens the field between the plates, lowering the voltage for the same charge",
+        "et": "See suureneb — dielektrik nõrgendab plaatidevahelist välja, alandades sama laengu juures pinget",
+        "sourceHash": "454b42527d5510de",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It decreases, since the dielectric physically blocks part of the gap",
+        "et": "See väheneb, sest dielektrik blokeerib füüsiliselt osa pilust",
+        "sourceHash": "12d1ce2ce56e7cd2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dielectrics-and-capacitor-energy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, since capacitance depends only on the plates' geometry",
+        "et": "See ei muutu, sest mahtuvus sõltub ainult plaatide geomeetriast",
+        "sourceHash": "f75c5a39d145bdcb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dielectrics-and-capacitor-energy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It becomes undefined, since a dielectric conducts and would short the plates",
+        "et": "See muutub määramatuks, sest dielektrik juhib voolu ja lühistaks plaadid",
+        "sourceHash": "2b6074eb4106743f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dielectrics-and-capacitor-energy-m3"
+    }
+  ]
+}

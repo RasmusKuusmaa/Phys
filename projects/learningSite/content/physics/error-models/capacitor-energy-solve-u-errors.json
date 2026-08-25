@@ -1,0 +1,38 @@
+{
+  "id": "capacitor-energy-solve-u-errors",
+  "formulaId": "capacitor-energy-formula",
+  "solveFor": "U",
+  "mistakes": [
+    {
+      "id": "forgot-half",
+      "description": {
+        "en": "Left out the factor of one half.",
+        "et": "Jättis välja teguri pool.",
+        "sourceHash": "b70115d646a9f87a",
+        "stale": false
+      },
+      "expression": "C*(V^2)"
+    },
+    {
+      "id": "forgot-square",
+      "description": {
+        "en": "Used voltage directly instead of squaring it.",
+        "et": "Kasutas pinget otse, selle asemel et seda ruutu tõsta.",
+        "sourceHash": "e05b9e632477f627",
+        "stale": false
+      },
+      "expression": "0.5*C*V",
+      "misconceptionId": "dielectrics-and-capacitor-energy-m2"
+    },
+    {
+      "id": "squared-capacitance-instead",
+      "description": {
+        "en": "Squared the capacitance instead of the voltage.",
+        "et": "Tõstis ruutu mahtuvuse, mitte pinge.",
+        "sourceHash": "6fbe62bd02333083",
+        "stale": false
+      },
+      "expression": "0.5*(C^2)*V"
+    }
+  ]
+}

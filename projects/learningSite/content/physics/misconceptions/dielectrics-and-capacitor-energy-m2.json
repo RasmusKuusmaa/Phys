@@ -1,0 +1,10 @@
+{
+  "id": "dielectrics-and-capacitor-energy-m2",
+  "conceptId": "dielectrics-and-capacitor-energy",
+  "text": {
+    "en": "The energy stored in a capacitor is proportional to voltage, not voltage squared.",
+    "et": "Kondensaatorisse talletatud energia on võrdeline pingega, mitte pinge ruuduga.",
+    "sourceHash": "0ce4feddb18b45b1",
+    "stale": false
+  }
+}

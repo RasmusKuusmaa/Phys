@@ -1,0 +1,21 @@
+{
+  "id": "dielectrics-and-capacitor-energy",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Dielectrics and capacitor energy",
+    "et": "Dielektrikud ja kondensaatori energia",
+    "sourceHash": "0c58aed4a25d2c1c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Inserting a dielectric between a capacitor's plates increases its capacitance by weakening the field between them, and the energy a charged capacitor stores is one half its capacitance times the square of its voltage.",
+    "et": "Dielektriku sisestamine kondensaatori plaatide vahele suurendab selle mahtuvust, nõrgendades plaatidevahelist välja, ning laetud kondensaatorisse talletatud energia on pool selle mahtuvuse ja pinge ruudu korrutisest.",
+    "sourceHash": "8d8967cd8dfba601",
+    "stale": false
+  },
+  "prerequisites": [
+    "capacitance"
+  ]
+}

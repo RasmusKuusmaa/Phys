@@ -1,0 +1,10 @@
+{
+  "id": "dielectrics-and-capacitor-energy-m1",
+  "conceptId": "dielectrics-and-capacitor-energy",
+  "text": {
+    "en": "Inserting a dielectric between a capacitor's plates decreases its capacitance, since the dielectric gets in the way.",
+    "et": "Dielektriku sisestamine kondensaatori plaatide vahele vähendab selle mahtuvust, sest dielektrik jääb ette.",
+    "sourceHash": "b0ae48957cbfb46f",
+    "stale": false
+  }
+}
