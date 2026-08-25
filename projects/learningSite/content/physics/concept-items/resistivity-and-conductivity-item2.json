@@ -1,0 +1,56 @@
+{
+  "id": "resistivity-and-conductivity-item2",
+  "conceptId": "resistivity-and-conductivity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A copper wire is stretched to twice its original length, keeping the same volume (so its area halves). What happens to its resistance?",
+    "et": "Vasktraati venitatakse kaks korda pikemaks, hoides sama ruumala (seega selle pindala poolitub). Mis juhtub selle takistusega?",
+    "sourceHash": "18573ce36fd65ab4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It quadruples — resistance grows with length and also with the drop in area",
+        "et": "See neljakordistub — takistus kasvab pikkusega ja ka pindala vähenemisega",
+        "sourceHash": "b591e68aa4578258",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doubles, tracking the length alone",
+        "et": "See kahekordistub, järgides ainult pikkust",
+        "sourceHash": "c9190d38d29cff6d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "resistivity-and-conductivity-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, since the resistivity of copper has not changed",
+        "et": "See ei muutu, sest vase eritakistus ei ole muutunud",
+        "sourceHash": "20518b59ba958f7d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "resistivity-and-conductivity-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It halves, since stretching thins the wire",
+        "et": "See poolitub, sest venitamine muudab traadi õhemaks",
+        "sourceHash": "5af32b685ff3290d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "resistivity-and-conductivity-m1"
+    }
+  ]
+}

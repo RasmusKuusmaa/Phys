@@ -1,0 +1,56 @@
+{
+  "id": "resistivity-and-conductivity-item1",
+  "conceptId": "resistivity-and-conductivity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two copper wires have the same length but one has twice the cross-sectional area of the other. How do their resistances compare?",
+    "et": "Kahel vasktraadil on sama pikkus, kuid ühel on kaks korda suurem ristlõikepindala kui teisel. Kuidas on nende takistused omavahel seotud?",
+    "sourceHash": "6d4a0c7cc0729b30",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The thicker wire has half the resistance, since resistance is inversely proportional to area",
+        "et": "Paksemal traadil on pool takistust, sest takistus on pöördvõrdeline pindalaga",
+        "sourceHash": "13f34fb17800617e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The thicker wire has twice the resistance, since it contains more metal",
+        "et": "Paksemal traadil on kaks korda suurem takistus, sest selles on rohkem metalli",
+        "sourceHash": "7fe88131d7474887",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "resistivity-and-conductivity-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both have identical resistance, since they are made of the same material",
+        "et": "Mõlemal on identne takistus, sest need on samast materjalist",
+        "sourceHash": "4f9f4c1fbf5c4690",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "resistivity-and-conductivity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Resistance cannot be compared without knowing the resistivity value",
+        "et": "Takistusi ei saa võrrelda, teadmata eritakistuse väärtust",
+        "sourceHash": "e744ab5c76650510",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "resistivity-and-conductivity-m2"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "resistivity-solve-r",
+  "formulaId": "resistivity-formula",
+  "variables": [
+    {
+      "symbol": "rho",
+      "min": 1e-8,
+      "max": 0.000001,
+      "unit": "ohm*m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "L",
+      "min": 0.1,
+      "max": 100,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "A",
+      "min": 1e-7,
+      "max": 0.0001,
+      "unit": "m^2",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "rho",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "L",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "A",
+      "right": 0
+    }
+  ],
+  "solveFor": "R"
+}

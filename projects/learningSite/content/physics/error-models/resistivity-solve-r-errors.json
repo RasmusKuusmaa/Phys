@@ -1,0 +1,38 @@
+{
+  "id": "resistivity-solve-r-errors",
+  "formulaId": "resistivity-formula",
+  "solveFor": "R",
+  "mistakes": [
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided length by area the wrong way round, treating a longer wire as lower resistance.",
+        "et": "Jagas pikkuse ja pindala vales suunas, käsitledes pikemat juhet väiksema takistusena.",
+        "sourceHash": "c7a2fc290bb907c3",
+        "stale": false
+      },
+      "expression": "rho*A/L",
+      "misconceptionId": "resistivity-and-conductivity-m2"
+    },
+    {
+      "id": "forgot-resistivity",
+      "description": {
+        "en": "Omitted resistivity, treating resistance as purely geometric.",
+        "et": "Jättis eritakistuse välja, käsitledes takistust puhtalt geomeetrilisena.",
+        "sourceHash": "6844f2d9a4b0324b",
+        "stale": false
+      },
+      "expression": "L/A"
+    },
+    {
+      "id": "used-area-not-length-in-numerator",
+      "description": {
+        "en": "Multiplied by area instead of length in the numerator.",
+        "et": "Korrutas lugejas pindalaga, mitte pikkusega.",
+        "sourceHash": "57631b3b0848fd46",
+        "stale": false
+      },
+      "expression": "rho*A/L"
+    }
+  ]
+}

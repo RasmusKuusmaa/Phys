@@ -1,0 +1,10 @@
+{
+  "id": "resistivity-and-conductivity-m3",
+  "conceptId": "resistivity-and-conductivity",
+  "text": {
+    "en": "Doubling a wire's cross-sectional area doubles its resistance.",
+    "et": "Juhtme ristlõikepindala kahekordistamine kahekordistab selle takistuse.",
+    "sourceHash": "60aabf9bb8675512",
+    "stale": false
+  }
+}

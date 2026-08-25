@@ -1,0 +1,21 @@
+{
+  "id": "resistivity-and-conductivity",
+  "subject": "physics",
+  "level": "L1",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Resistivity and conductivity",
+    "et": "Eritakistus ja erijuhtivus",
+    "sourceHash": "1d80938c434b8473",
+    "stale": false
+  },
+  "summary": {
+    "en": "Resistivity is a material property describing how strongly a substance opposes current, independent of the size of a particular sample, so a wire's actual resistance grows with its length and shrinks with its cross-sectional area.",
+    "et": "Eritakistus on materjali omadus, mis kirjeldab, kui tugevasti aine voolule vastu seisab, sõltumata konkreetse proovi mõõtmetest, mistõttu juhtme tegelik takistus kasvab selle pikkusega ja kahaneb ristlõikepindalaga.",
+    "sourceHash": "c7995a04f3545765",
+    "stale": false
+  },
+  "prerequisites": [
+    "voltage-and-resistance"
+  ]
+}

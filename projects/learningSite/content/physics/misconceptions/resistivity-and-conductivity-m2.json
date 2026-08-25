@@ -1,0 +1,10 @@
+{
+  "id": "resistivity-and-conductivity-m2",
+  "conceptId": "resistivity-and-conductivity",
+  "text": {
+    "en": "A longer wire of the same material has lower resistance, since there is more metal to carry the current.",
+    "et": "Sama materjali pikem juhe omab väiksemat takistust, sest voolu kandmiseks on rohkem metalli.",
+    "sourceHash": "ad0562796a6d47d4",
+    "stale": false
+  }
+}
