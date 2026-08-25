@@ -1,0 +1,56 @@
+{
+  "id": "acids-bases-and-ph-item1",
+  "conceptId": "acids-bases-and-ph",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How much more acidic is a solution of pH 3 than one of pH 6?",
+    "et": "Kui palju happelisem on pH 3 lahus kui pH 6 lahus?",
+    "sourceHash": "2dd2e745a65c5ab0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "1000 times — each pH unit is a factor of ten in hydrogen-ion concentration",
+        "et": "1000 korda — iga pH-ühik on vesinikioonide kontsentratsioonis kümnekordne tegur",
+        "sourceHash": "20bc19e075466474",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Twice as acidic, since 6 is twice 3",
+        "et": "Kaks korda happelisem, sest 6 on kaks korda 3",
+        "sourceHash": "d266b8e1c1343b07",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acids-bases-and-ph-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Three times, one for each pH unit",
+        "et": "Kolm korda, üks iga pH-ühiku kohta",
+        "sourceHash": "2ddd26faef8c3b05",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acids-bases-and-ph-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be said without knowing whether the acid is concentrated",
+        "et": "Seda ei saa öelda, teadmata, kas hape on kange",
+        "sourceHash": "cb85d6366c61ac2d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acids-bases-and-ph-m2"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "acids-bases-and-ph",
+  "subject": "chemistry",
+  "level": "L1",
+  "module": "general-chemistry",
+  "title": {
+    "en": "Acids, bases and pH",
+    "et": "Happed, alused ja pH",
+    "sourceHash": "91c1aa113a39a089",
+    "stale": false
+  },
+  "summary": {
+    "en": "An acid donates protons and a base accepts them; pH is the negative logarithm of the hydrogen-ion concentration, so each unit of pH is a tenfold change in acidity.",
+    "et": "Hape loovutab prootoneid ja alus võtab neid vastu; pH on vesinikioonide kontsentratsiooni negatiivne logaritm, seega tähendab iga pH-ühik kümnekordset happesuse muutust.",
+    "sourceHash": "4593726aa41ef79f",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-bonding"
+  ]
+}

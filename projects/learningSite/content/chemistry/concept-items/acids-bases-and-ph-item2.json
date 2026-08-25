@@ -1,0 +1,56 @@
+{
+  "id": "acids-bases-and-ph-item2",
+  "conceptId": "acids-bases-and-ph",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What distinguishes a strong acid from a concentrated one?",
+    "et": "Mis eristab tugevat hapet kangest happest?",
+    "sourceHash": "453721349f7b116c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Strength is how fully it dissociates; concentration is how much is dissolved",
+        "et": "Tugevus näitab, kui täielikult hape dissotsieerub; kangus näitab, kui palju seda on lahustunud",
+        "sourceHash": "207b83904bef5d7d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are two names for the same property",
+        "et": "Need on sama omaduse kaks nime",
+        "sourceHash": "72ab2c75c6f8b9db",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acids-bases-and-ph-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A strong acid always has a pH below 0",
+        "et": "Tugeva happe pH on alati alla 0",
+        "sourceHash": "6a13bdebe2cc1cae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acids-bases-and-ph-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Strength measures how many pH units below 7 the solution sits",
+        "et": "Tugevus mõõdab, mitu pH-ühikut allpool 7 lahus asub",
+        "sourceHash": "0d1522232fb9db8e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acids-bases-and-ph-m1"
+    }
+  ]
+}
