@@ -1,0 +1,56 @@
+{
+  "id": "electromagnetic-waves-in-media-item1",
+  "conceptId": "electromagnetic-waves-in-media",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A light wave passes from air into glass, slowing down as it does. What happens to its frequency and its wavelength?",
+    "et": "Valguslaine liigub õhust klaasi, aeglustudes seejuures. Mis juhtub selle sageduse ja lainepikkusega?",
+    "sourceHash": "c3b4f7da753bfe64",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The frequency stays the same, set by the source; the wavelength shortens to match the lower speed",
+        "et": "Sagedus jääb samaks, määratuna allikast; lainepikkus lüheneb, et sobida väiksema kiirusega",
+        "sourceHash": "4ad12d5bd2520bbc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both the frequency and the wavelength decrease together",
+        "et": "Nii sagedus kui ka lainepikkus vähenevad koos",
+        "sourceHash": "b73ff3910d6a73c8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electromagnetic-waves-in-media-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The frequency decreases while the wavelength stays the same",
+        "et": "Sagedus väheneb, samal ajal kui lainepikkus jääb samaks",
+        "sourceHash": "4d7c1dc159662cff",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electromagnetic-waves-in-media-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Neither changes, since the wave still travels at the speed of light",
+        "et": "Kumbki ei muutu, sest laine liigub ikka valguse kiirusel",
+        "sourceHash": "31cd7256b6262ec0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electromagnetic-waves-in-media-m3"
+    }
+  ]
+}

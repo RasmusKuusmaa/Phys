@@ -1,0 +1,21 @@
+{
+  "id": "electromagnetic-waves-in-media",
+  "subject": "physics",
+  "level": "L3",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Electromagnetic waves in media",
+    "et": "Elektromagnetlained aines",
+    "sourceHash": "2799b2dc26b2ab6e",
+    "stale": false
+  },
+  "summary": {
+    "en": "Inside a material, an electromagnetic wave slows down and its wavelength shortens because the material's electrons respond to the oscillating field and re-radiate with a delay, an effect summarised in the refractive index — while the wave's frequency, set by the source, never changes.",
+    "et": "Aine sees aeglustub elektromagnetlaine ja selle lainepikkus lüheneb, sest aine elektronid reageerivad võnkuvale väljale ja kiirgavad viivitusega tagasi — efekt, mille võtab kokku murdumisnäitaja —, samal ajal kui laine sagedus, mille määrab allikas, kunagi ei muutu.",
+    "sourceHash": "be5eaa99131b6c6f",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-waves"
+  ]
+}

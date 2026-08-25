@@ -1,0 +1,56 @@
+{
+  "id": "electromagnetic-waves-in-media-item2",
+  "conceptId": "electromagnetic-waves-in-media",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Material A has a higher refractive index than material B. What does this say about light travelling through each?",
+    "et": "Materjalil A on suurem murdumisnäitaja kui materjalil B. Mida see ütleb valguse kohta, mis kummastki läbi liigub?",
+    "sourceHash": "eee17fb742ee1b40",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Light travels more slowly through material A than through material B",
+        "et": "Valgus liigub materjalis A aeglasemalt kui materjalis B",
+        "sourceHash": "62c3d14b288b4b15",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Material A absorbs more light than material B",
+        "et": "Materjal A neelab rohkem valgust kui materjal B",
+        "sourceHash": "edba3a0b3cffef94",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electromagnetic-waves-in-media-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Light has a lower frequency inside material A than inside material B",
+        "et": "Valgusel on materjalis A madalam sagedus kui materjalis B",
+        "sourceHash": "9f818a32c3d424bf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electromagnetic-waves-in-media-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The two materials cannot be compared without knowing their colours",
+        "et": "Neid kahte materjali ei saa võrrelda, teadmata nende värvust",
+        "sourceHash": "0d388759bb6464f4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electromagnetic-waves-in-media-m3"
+    }
+  ]
+}
