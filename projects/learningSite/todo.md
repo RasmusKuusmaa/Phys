@@ -869,18 +869,23 @@ npm run curriculum:coverage -- --gaps  # only what is still missing
 | Track | Required courses covered | Required ECTS |
 | --- | --- | --- |
 | Physics | **20 / 20** | **102 / 102** |
-| Chemistry | 11 / 21 | 54 / 102 |
-| Materials science | 12 / 18 | 60 / 102 |
+| Chemistry | **21 / 21** | **102 / 102** |
+| Materials science | **18 / 18** | **102 / 102** |
 
-Five subjects now exist — `physics`, `mathematics`, `chemistry`,
-`materials-science` and `computing`. **Phase 26 is complete**: every course in
-both foundation modules has content, which is why all three tracks moved
-together. **Physics has every required course covered.**
+**All three tracks have every required course covered — 59/59 required
+course-slots, 306/306 EAP.** Five subjects exist: `physics`, `mathematics`,
+`chemistry`, `materials-science` and `computing`.
 
-What remains is chemistry and materials science depth — 16 required courses
-across those two tracks, listed in Phases 28 and 29. Note that course-level
-coverage is not the same as depth: a course counts as covered once concepts map
-to it, and several would benefit from more concepts than they currently have.
+This is course-*coverage*, not course-*depth*, and the difference matters more
+now than at any earlier point in this file. A course counts as covered once at
+least one concept maps to it — the bar that makes "0 concepts" visible as a
+gap. Many required courses are covered by 2-3 concepts against syllabi that list
+15-30 topics (see any course's `topics` count in `content/curriculum/courses/`).
+Reaching genuine depth — enough concepts that a learner could sit each course's
+real exam — is Phases 15-23 for physics (still open) and the remaining work in
+Phases 27-29 for the other three subjects. `npm run curriculum:coverage`
+reports course-slot coverage; it does not yet report depth, and that gap between
+"covered" and "complete" is the honest next target.
 
 Two structural facts shape everything below:
 
