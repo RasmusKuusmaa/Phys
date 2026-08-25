@@ -1,0 +1,21 @@
+{
+  "id": "vector-spaces",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "linear-algebra",
+  "title": {
+    "en": "Vector spaces and linear independence",
+    "et": "Vektorruumid ja lineaarne sõltumatus",
+    "sourceHash": "05a944e55bb757b6",
+    "stale": false
+  },
+  "summary": {
+    "en": "A vector space is any set whose elements can be added and scaled under the usual rules; a set of vectors is linearly independent when none is a combination of the others, and an independent spanning set is a basis whose size is the dimension.",
+    "et": "Vektorruum on mistahes hulk, mille elemente saab tavareeglite järgi liita ja skalaariga korrutada; vektorite hulk on lineaarselt sõltumatu, kui ükski neist ei ole teiste kombinatsioon, ning sõltumatu moodustajate hulk on baas, mille suurus ongi mõõde.",
+    "sourceHash": "21a00f665481a487",
+    "stale": false
+  },
+  "prerequisites": [
+    "systems-of-linear-equations"
+  ]
+}

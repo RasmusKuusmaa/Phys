@@ -1,0 +1,56 @@
+{
+  "id": "vector-spaces-item2",
+  "conceptId": "vector-spaces",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of these is a vector space?",
+    "et": "Milline neist on vektorruum?",
+    "sourceHash": "46da03d10fdd0484",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The set of all polynomials of degree at most 3 — they add and scale under the usual rules",
+        "et": "Kõigi ülimalt kolmanda astme polünoomide hulk — neid saab tavareeglite järgi liita ja skaleerida",
+        "sourceHash": "7561f004e534b8ca",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Only sets of arrows in two or three dimensions",
+        "et": "Ainult noolte hulgad kahes või kolmes mõõtmes",
+        "sourceHash": "4a5694f06c510829",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-spaces-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Any set of three objects, since three is the dimension of space",
+        "et": "Mistahes kolmest objektist koosnev hulk, sest kolm on ruumi mõõde",
+        "sourceHash": "2c50484f42ed2f6e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-spaces-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only a set that comes with one predetermined basis",
+        "et": "Ainult hulk, millel on kaasas üks etteantud baas",
+        "sourceHash": "937a09daed3826a0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-spaces-m3"
+    }
+  ]
+}

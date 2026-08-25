@@ -1,0 +1,56 @@
+{
+  "id": "vector-spaces-item1",
+  "conceptId": "vector-spaces",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Three vectors in three-dimensional space all lie in the same plane. Do they form a basis?",
+    "et": "Kolm vektorit kolmemõõtmelises ruumis asuvad kõik samas tasandis. Kas need moodustavad baasi?",
+    "sourceHash": "1cd85e585361653f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No — they are linearly dependent and span only the plane, not all of space",
+        "et": "Ei — need on lineaarselt sõltuvad ja moodustavad ainult tasandi, mitte kogu ruumi",
+        "sourceHash": "8e2990bc20695453",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes — any three vectors in three dimensions form a basis",
+        "et": "Jah — mistahes kolm vektorit kolmes mõõtmes moodustavad baasi",
+        "sourceHash": "38ad94a77890062a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-spaces-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Yes, since a space has exactly one basis and this must be it",
+        "et": "Jah, sest ruumil on täpselt üks baas ja see peab olema see",
+        "sourceHash": "2aec902e90b5df8d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-spaces-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The question is meaningless, since vectors must be arrows",
+        "et": "Küsimus on mõttetu, sest vektorid peavad olema nooled",
+        "sourceHash": "54c3aae459dab2c2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-spaces-m1"
+    }
+  ]
+}

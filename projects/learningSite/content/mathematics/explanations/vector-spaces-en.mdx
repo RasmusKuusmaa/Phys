@@ -1,0 +1,23 @@
+Linear algebra starts with arrows in space, then throws the arrows away. What
+actually matters is that you can add two objects and multiply one by a number,
+and that these operations obey the familiar rules. Any set with that structure
+is a vector space, and the theory applies to it unchanged.
+
+That abstraction is not decoration — it is the whole payoff. Polynomials of
+degree at most 3 form a vector space: add two and you get another, scale one and
+you get another. So do continuous functions on an interval, solutions of a
+linear differential equation, and signals in a Fourier analysis. Every theorem
+proved about arrows transfers to all of them, which is why "the space of
+solutions is two-dimensional" is a meaningful and useful statement about a
+differential equation.
+
+Independence is the organising idea. A set of vectors is linearly dependent if
+one of them can be built from the others, in which case it carries no
+information the rest do not already provide. An independent set that also spans
+the space — every element is some combination of them — is a basis, and every
+basis of a given space has the same number of elements: the dimension. Two
+warnings follow. Having the right *number* of vectors is not enough: three
+vectors in space that happen to lie in a common plane are dependent and span
+only that plane. And a basis is never unique — there are infinitely many, and
+choosing a convenient one is a large part of what makes linear algebra useful,
+since the right basis can turn a hard problem into an obvious one.
