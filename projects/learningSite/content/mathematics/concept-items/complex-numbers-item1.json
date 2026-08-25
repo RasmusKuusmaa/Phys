@@ -1,0 +1,56 @@
+{
+  "id": "complex-numbers-item1",
+  "conceptId": "complex-numbers",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the modulus of the complex number 3 + 4i?",
+    "et": "Kui suur on kompleksarvu 3 + 4i moodul?",
+    "sourceHash": "525eb3a5ed35fb8c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "5, from √(3² + 4²)",
+        "et": "5, avaldisest √(3² + 4²)",
+        "sourceHash": "2dd00e51777537a8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "7, from adding the real and imaginary parts",
+        "et": "7, liites reaal- ja imaginaarosa",
+        "sourceHash": "16a079bb7c233d3d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "complex-numbers-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It has none, since complex numbers cannot be compared by size",
+        "et": "Sellel ei ole moodulit, sest kompleksarve ei saa suuruse järgi võrrelda",
+        "sourceHash": "f99afcf753db2f58",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "complex-numbers-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is undefined, because an imaginary quantity has no measurable value",
+        "et": "See on määramata, sest imaginaarsel suurusel ei ole mõõdetavat väärtust",
+        "sourceHash": "debf5bf5669b735b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "complex-numbers-m1"
+    }
+  ]
+}

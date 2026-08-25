@@ -1,0 +1,56 @@
+{
+  "id": "complex-numbers-item2",
+  "conceptId": "complex-numbers",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which statement about ordering complex numbers is correct?",
+    "et": "Milline väide kompleksarvude järjestamise kohta on õige?",
+    "sourceHash": "f6bbd4f08d017270",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "There is no ordering compatible with arithmetic, though moduli can still be compared",
+        "et": "Aritmeetikaga kooskõlas olevat järjestust ei ole, kuigi mooduleid saab siiski võrrelda",
+        "sourceHash": "01682f679c6a66a0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They order exactly as real numbers do, by size",
+        "et": "Need järjestuvad täpselt nagu reaalarvud, suuruse järgi",
+        "sourceHash": "68b3fb151a935a47",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "complex-numbers-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They order by the sum of the real and imaginary parts",
+        "et": "Need järjestuvad reaal- ja imaginaarosa summa järgi",
+        "sourceHash": "ab31e107f42151a1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "complex-numbers-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The question is meaningless because complex numbers do not exist",
+        "et": "Küsimus on mõttetu, sest kompleksarve ei ole olemas",
+        "sourceHash": "a746e6d8ff8c5777",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "complex-numbers-m1"
+    }
+  ]
+}

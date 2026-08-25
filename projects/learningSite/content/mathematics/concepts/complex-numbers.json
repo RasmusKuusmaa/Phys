@@ -1,0 +1,19 @@
+{
+  "id": "complex-numbers",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "complex-numbers",
+  "title": {
+    "en": "Complex numbers",
+    "et": "Kompleksarvud",
+    "sourceHash": "a425679f23624c52",
+    "stale": false
+  },
+  "summary": {
+    "en": "Adjoining a number i whose square is −1 extends the real numbers to the complex numbers a + bi, in which every polynomial equation has a solution and arithmetic still works exactly as before.",
+    "et": "Arvu i lisamine, mille ruut on −1, laiendab reaalarvud kompleksarvudeks kujul a + bi, milles igal polünoomvõrrandil on lahend ja aritmeetika toimib täpselt nagu varem.",
+    "sourceHash": "47061fdaebf8732d",
+    "stale": false
+  },
+  "prerequisites": []
+}
