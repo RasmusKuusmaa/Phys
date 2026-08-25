@@ -90,11 +90,16 @@ Phase numbers are stable identifiers, not a reading order. Physics is finished b
 other subject starts, so the actual order of remaining work is:
 
 ```
-Phase 11b  →  Phases 15–23  →  Phase 24  →  Phase 14
-(finish the    (physics to      (enforce &    (mathematics,
- 29 partial     bachelor         final QA)     chemistry,
- concepts)      completeness)                  materials science)
+Phase 11b  →  Phases 15–23  →  Phase 24  →  Phases 25–34
+(finish the    (physics to      (enforce &    (cover the whole UT degree:
+ 29 partial     bachelor         final QA)     maths, chemistry, materials
+ concepts)      completeness)                  science, computing)
 ```
+
+Phase 11b is done. Phases 25–34 are scoped against the real University of Tartu
+curriculum, parsed into `content/curriculum/` — `npm run curriculum:coverage`
+is the live answer to "how much of each degree can be learned here". Phase 14
+is superseded by Phases 27–29 and kept only for the record.
 
 ## How to resume this on another machine
 
@@ -825,13 +830,240 @@ door on the failure mode that started all of this.
 - [ ] Lighthouse pass on the grown site (roadmap and search now much larger)
   `perf: address lighthouse findings after content growth`
 
-### Phase 14 — Remaining subjects
+### Phase 14 — Remaining subjects — SUPERSEDED
 
-Only after physics is shipped.
+Kept for the record. This phase said "add mathematics, chemistry and materials
+science" with no further detail. Phases 25–34 replace it with the actual
+requirement, taken from the University of Tartu curriculum rather than
+invented: see `content/curriculum/README.md`.
 
-- [ ] Add mathematics using the existing schema
-  `content: add mathematics subject`
-- [ ] Add chemistry
-  `content: add chemistry subject`
-- [ ] Add materials science
-  `content: add materials science subject`
+- [~] Add mathematics using the existing schema → Phase 27
+- [~] Add chemistry → Phase 28
+- [~] Add materials science → Phase 29
+
+---
+
+## Covering the whole degree (Phases 25–34)
+
+Phases 0–24 are about physics as a subject. These are about the **degree**: the
+University of Tartu BSc *Füüsika, keemia ja materjaliteadus*, whose three tracks
+a learner should be able to complete here without attending.
+
+The requirement is not guesswork — it is parsed from the university's own course
+text into `content/curriculum/`. Read
+[`content/curriculum/README.md`](./content/curriculum/README.md) first; it
+explains the module structure, what `mandatory-all` vs `mandatory` vs `elective`
+mean, and how a course maps to concepts.
+
+**The state of play is a command, not a paragraph:**
+
+```bash
+npm run curriculum:coverage            # all three tracks, module by module
+npm run curriculum:coverage -- --gaps  # only what is still missing
+```
+
+| Track | Required courses covered | Required ECTS |
+| --- | --- | --- |
+| Physics | 9 / 20 | 49 / 102 |
+| Chemistry | 2 / 21 | 9 / 102 |
+| Materials science | 3 / 18 | 15 / 102 |
+
+24 required courses have no content at all. Nine of those are required of
+**all three tracks** — that shared spine is Phase 26 and is the highest-value
+work in this file.
+
+Two structural facts shape everything below:
+
+- **Chemistry and materials science have no subject directory yet.** The schema
+  is subject-agnostic, but each new subject needs `content/<subject>/`, its own
+  terminology glossary with cited Estonian renderings, and any new units in the
+  registry, *before* its first concept can be authored.
+- **Practical courses cannot be fully delivered by a static site.** A
+  `praktikum` teaches bench technique. Cover the theory the experiments rest on,
+  map the concepts, and state plainly in the course page what still requires a
+  lab. Do not claim coverage that isn't there.
+
+### Phase 25 — Curriculum workspace
+
+- [x] Parse the raw course text into a structured dataset
+  `feat: parse the ut curriculum into a structured course dataset`
+- [x] Map platform concepts to courses and report per-track coverage
+  `feat: map platform concepts to ut courses and report degree coverage`
+- [x] Document the workspace, the module structure and the mapping rules
+  `docs: explain the curriculum workspace and how to read coverage`
+- [ ] Capture the missing syllabus for `LOKT.07.010` Foundations of chemistry —
+      the only *required* course with no course page in the raw scrape
+  `content: add missing syllabus for foundations of chemistry`
+- [ ] Surface the curriculum in the app: a per-track page showing modules,
+      courses, and which are covered, linking each course to its concepts
+  `feat: add curriculum pages per track`
+- [ ] Show on every concept page which courses it belongs to
+  `feat: show course membership on concept pages`
+
+### Phase 26 — The shared spine (required of all three tracks)
+
+The 11 `mandatory-all` courses. Two are already covered (`LOFY.01.002` The
+physical world view, `LTFY.01.011` physics lab practical). These nine are not,
+and each one blocks all three degrees at once:
+
+- [ ] `LOKT.07.010` Foundations of chemistry (6 EAP) — needs Phase 28 first
+  `content: cover foundations of chemistry`
+- [ ] `LTFY.02.003` Survey course in materials science (6 EAP) — needs Phase 29
+  `content: cover the materials science survey course`
+- [ ] `LTKT.01.002` Laboratory practical, chemistry (3 EAP) — theory side
+  `content: cover the chemistry laboratory practical`
+- [ ] `MTMM.00.340` Higher mathematics I (6 EAP) — 32 syllabus topics parsed
+  `content: cover higher mathematics i`
+- [ ] `MTMM.00.341` Higher mathematics II (6 EAP)
+  `content: cover higher mathematics ii`
+- [ ] `MTMS.02.059` Probability theory and mathematical statistics (6 EAP)
+  `content: cover probability and statistics`
+- [ ] `MTAT.03.236` Foundations of programming (3 EAP)
+  `content: cover foundations of programming`
+- [ ] `MTAT.03.256` Foundations of programming II (3 EAP)
+  `content: cover foundations of programming ii`
+- [ ] `LTAT.03.001` Programming (6 EAP)
+  `content: cover programming`
+
+### Phase 27 — Mathematics as a subject
+
+`content/mathematics/`. Driven by `MTMM.00.340`'s 32 parsed topics, plus what
+the physics content already leans on implicitly.
+
+- [ ] Scaffold the subject directory and its terminology glossary
+  `content: scaffold the mathematics subject`
+- [ ] Author single-variable calculus — limits, derivatives, integrals
+  `content: add single variable calculus concepts`
+- [ ] Author sequences, series and convergence
+  `content: add sequences and series concepts`
+- [ ] Author linear algebra — vectors, matrices, eigenvalues
+  `content: add linear algebra concepts`
+- [ ] Author multivariable calculus — partial derivatives, multiple integrals
+  `content: add multivariable calculus concepts`
+- [ ] Author vector calculus — gradient, divergence, curl, the integral theorems
+  `content: add vector calculus concepts`
+- [ ] Author ordinary differential equations
+  `content: add differential equations concepts`
+- [ ] Author probability and statistics for `MTMS.02.059`
+  `content: add probability and statistics concepts`
+- [ ] Author complex numbers and functions of a complex variable
+  `content: add complex analysis concepts`
+
+### Phase 28 — Chemistry as a subject
+
+`content/chemistry/`. The largest single gap: 19 of chemistry's 21 required
+courses have nothing.
+
+- [ ] Scaffold the subject directory and its terminology glossary
+  `content: scaffold the chemistry subject`
+- [ ] Author general chemistry for `LOKT.07.010` — atoms, bonding, stoichiometry,
+      solutions, equilibrium, acids and bases
+  `content: add general chemistry concepts`
+- [ ] Author inorganic chemistry for `LOKT.01.007` (25 syllabus topics)
+  `content: add inorganic chemistry concepts`
+- [ ] Author organic chemistry I for `LOKT.09.004` (14 topics)
+  `content: add organic chemistry concepts`
+- [ ] Author physical chemistry part 1 for `LOKT.02.037` (30 topics)
+  `content: add physical chemistry part one concepts`
+- [ ] Author physical chemistry part 2 for `LTKT.02.001` (30 topics)
+  `content: add physical chemistry part two concepts`
+- [ ] Author analytical chemistry for `LTKT.06.019` and `LTKT.06.024` (15 topics)
+  `content: add analytical chemistry concepts`
+- [ ] Author theoretical chemistry for `LOKT.08.001`
+  `content: add theoretical chemistry concepts`
+- [ ] Author the theory behind the chemistry practicals — `LOKT.01.010`,
+      `LOKT.06.012`, `LOKT.09.014`, `LOKT.10.018`, `LTKT.02.002`, `LTKT.06.004`
+  `content: add chemistry practical theory concepts`
+
+### Phase 29 — Materials science as a subject
+
+`content/materials-science/`. Sits on top of physics and chemistry, so it
+follows both.
+
+- [ ] Scaffold the subject directory and its terminology glossary
+  `content: scaffold the materials science subject`
+- [ ] Author the survey course for `LTFY.02.003` and `LOFY.02.008`
+  `content: add materials science survey concepts`
+- [ ] Author structure and properties of matter for `LTFY.02.001`
+  `content: add structure and properties of matter concepts`
+- [ ] Author classes of materials and their technologies for `LTFY.02.002`
+      (12 EAP — the single largest course in the degree)
+  `content: add materials classes concepts`
+- [ ] Author research methods for `LTFY.02.016` — diffraction, microscopy,
+      spectroscopy, thermal analysis
+  `content: add materials research methods concepts`
+- [ ] Author the theory behind the materials physics practicals
+  `content: add materials practical theory concepts`
+
+### Phase 30 — Computing as a subject
+
+Three programming courses, 12 EAP, required of all three tracks. A static site
+cannot run a compiler, so scope this honestly: concepts, worked examples and
+hand-traced execution, with an explicit note that writing real programs needs a
+real machine.
+
+- [ ] Scaffold the subject directory
+  `content: scaffold the computing subject`
+- [ ] Author programming fundamentals — values, control flow, functions
+  `content: add programming fundamentals concepts`
+- [ ] Author data structures and algorithms at first-course level
+  `content: add data structures concepts`
+- [ ] Author numerical methods as used in physics and chemistry
+  `content: add numerical methods concepts`
+
+### Phase 31 — Physics courses still uncovered
+
+- [ ] `LTFY.01.014` Spectroscopy (5 EAP, required for physics)
+  `content: cover spectroscopy`
+- [ ] `LOFY.01.018` Foundations of signal processing I (3 EAP, required)
+  `content: cover signal processing`
+- [ ] `LTFY.04.013` Mathematical physics (36 topics) — needs Phase 27
+  `content: cover mathematical physics`
+- [ ] `LOFY.04.035` Equations of mathematical physics (15 topics)
+  `content: cover equations of mathematical physics`
+- [ ] `LTFY.04.015` Functions of a complex variable in physics (15 topics)
+  `content: cover complex variable physics`
+- [ ] `LOFY.01.015` Experimental methods of nuclear physics (14 topics)
+  `content: cover nuclear experimental methods`
+- [ ] `LTFY.01.005` / `LTTO.00.025` Global physics
+  `content: cover global physics`
+
+### Phase 32 — Practical and laboratory courses
+
+Every `praktikum` in all three tracks. The deliverable is the theory, the
+measurement analysis and the write-up skills — not the bench work.
+
+- [ ] Decide and document what "covered" means for a practical course, and show
+      it honestly on the course page rather than as a full tick
+  `docs: define coverage for practical courses`
+- [ ] Cover measurement, uncertainty and data analysis as the shared basis
+  `content: cover practical measurement and analysis`
+- [ ] Map each practical to the concepts its experiments rest on
+  `content: map practicals to underlying concepts`
+
+### Phase 33 — Electives and enrichment
+
+Not required for any degree, so this comes last — but the elective modules are
+12 EAP a student must take from *somewhere*, and the enrichment list is where
+content beyond the degree lives.
+
+- [ ] Cover the most commonly taken electives per track
+  `content: cover common elective courses`
+- [ ] Keep `npm run curriculum:coverage -- --extra` meaningful: enrichment stays
+      labelled as enrichment and never counts toward degree coverage
+  `content: review enrichment classification`
+
+### Phase 34 — Degree-completeness gate
+
+The equivalent of Phase 24, for the degree rather than for physics.
+
+- [ ] Add `npm run curriculum:coverage` to CI, failing if a required course
+      that had content loses it
+  `ci: gate on degree coverage regressions`
+- [ ] Fail the build on a mapping entry naming a concept that does not exist
+  `feat: validate the curriculum concept mapping`
+- [ ] Full bilingual QA pass over every new subject, both locales
+  `content: bilingual qa for new subjects`
+- [ ] Re-audit the prerequisite graph across all four subjects
+  `content: audit the cross subject prerequisite graph`
+
