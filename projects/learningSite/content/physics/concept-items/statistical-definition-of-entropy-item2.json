@@ -1,0 +1,56 @@
+{
+  "id": "statistical-definition-of-entropy-item2",
+  "conceptId": "statistical-definition-of-entropy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A refrigerator lowers the entropy of the food inside it. Does this violate the second law?",
+    "et": "Külmkapp vähendab selle sees oleva toidu entroopiat. Kas see rikub teist seadust?",
+    "sourceHash": "566451a31fb780e8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No — it dumps more entropy into the room than it removes from the food, so the total still rises",
+        "et": "Ei — see paiskab tuppa rohkem entroopiat, kui toidult ära võtab, seega kogusumma ikkagi kasvab",
+        "sourceHash": "f172965d31952211",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes, and the second law is only an approximation that fails for refrigerators",
+        "et": "Jah, ja teine seadus on ainult ligikaudne ning külmkappide puhul ei kehti",
+        "sourceHash": "2f610ee2e10ac18d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-definition-of-entropy-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "No, because entropy can never decrease anywhere under any circumstances",
+        "et": "Ei, sest entroopia ei saa kunagi kusagil mingil tingimusel väheneda",
+        "sourceHash": "bae6ca69124d29b0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-definition-of-entropy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "No, because cooling makes the food tidier rather than changing its entropy",
+        "et": "Ei, sest jahutamine muudab toidu korrastatumaks, muutmata selle entroopiat",
+        "sourceHash": "fe074ada68767bf3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-definition-of-entropy-m1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "statistical-definition-of-entropy-item1",
+  "conceptId": "statistical-definition-of-entropy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In statistical mechanics, what does the entropy of a macroscopic state count?",
+    "et": "Mida entroopia statistilises mehaanikas makroskoopilise oleku kohta loeb?",
+    "sourceHash": "b1937986af129d8b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The number of microscopic arrangements of the particles consistent with that macroscopic state",
+        "et": "Osakeste mikroskoopiliste paigutuste arvu, mis on selle makroskoopilise olekuga kooskõlas",
+        "sourceHash": "580cf7b29a70654a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "How untidy the system looks to an observer",
+        "et": "Seda, kui korratu süsteem vaatleja silmis välja näeb",
+        "sourceHash": "9029375b79360f89",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-definition-of-entropy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The strength of the repulsion pushing the particles apart",
+        "et": "Tõukejõu tugevust, mis osakesi laiali surub",
+        "sourceHash": "604391d82a8c5cbb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-definition-of-entropy-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The total energy the system holds at that moment",
+        "et": "Koguenergiat, mida süsteem sel hetkel sisaldab",
+        "sourceHash": "d9e83697b6a118ba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-definition-of-entropy-m1"
+    }
+  ]
+}
