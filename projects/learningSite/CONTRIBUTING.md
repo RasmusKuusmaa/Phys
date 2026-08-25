@@ -47,25 +47,68 @@ required fields — read the schema before authoring a new file of that type.
 
 ## Adding a concept
 
-1. Add `content/physics/concepts/{id}.json` with `title`, `summary`
+**Start with the scaffold, not with an empty file:**
+
+```bash
+npm run content:new-concept -- --id quantum-tunneling --module quantum-mechanics \
+  --level L3 --prerequisites wavefunctions-and-probability
+```
+
+That writes every file a concept needs at once — the concept, three
+misconceptions, one concept item, a resource slot per locale, and an
+explanation stub per locale — each pre-filled with obvious `TODO(en)` /
+`TODO(et)` placeholders in both locales. Your job is then to *replace* text,
+not to remember which seven file types exist. This exists because the
+"author the concept now, add the rest later" path is what shipped 29
+half-finished concepts in Phase 11b, and nothing caught it until deploy.
+
+Then fill in, in this order:
+
+1. `content/physics/concepts/{id}.json` — `title`, `summary`
    (both locales), `level` (`L0`–`L3`), `module`, and `prerequisites` (an
    array of existing concept IDs — this feeds the roadmap's topological
    sort, so don't hand-order it, and don't introduce a cycle).
 2. If the concept has a canonical formula, add it under `formulas/` with a
-   matching `problem-templates/` and `error-models/` entry (see below).
-3. Add at least three `misconceptions/` entries.
-4. Add at least one `concept-items/` entry per locale requirement (the item
-   type doesn't matter — pick whichever fits the concept).
-5. Add at least one `resources/` entry per locale (see
-   [Resources](#resources)).
-6. Optionally add `explanations/{id}-en.mdx` and `explanations/{id}-et.mdx`
-   — 2–3 short paragraphs building intuition beyond the one-line summary.
-   A missing explanation degrades gracefully (the page just skips that
-   section), but a concept page reads much better with one.
+   matching `problem-templates/` and `error-models/` entry (see below). The
+   scaffold does *not* create these — not every concept is quantitative —
+   but a formula without both of them fails validation.
+3. `misconceptions/{id}-m1..m3.json` — at least three, hand-authored.
+4. `concept-items/{id}-item1.json` — at least one (the item type doesn't
+   matter; pick whichever fits the concept).
+5. `resources/` — at least one per locale, and **delete the `-todo` slots**;
+   they point at `https://example.invalid/…` precisely so a forgotten one
+   fails `npm run check:links` (see [Resources](#resources)).
+6. `explanations/{id}-en.mdx` and `explanations/{id}-et.mdx` — 2–3 short
+   paragraphs building intuition beyond the one-line summary. A missing
+   explanation degrades gracefully (the page skips that section) and is
+   reported as a warning rather than an error, but a concept page reads much
+   better with one.
 7. Run `npm run validate:content && npm run lint:terminology && npm test`.
 
 Not every concept needs a formula — purely qualitative concepts (Newton's
 first law, wave-particle duality) ship without one.
+
+### What "complete" means, and how it's enforced
+
+`npm run validate:content` fails on a concept that has fewer than three
+misconceptions, no concept item, no resource in either locale, a formula
+with no problem template or error model, an item option pointing at a
+misconception that doesn't exist, or any record pointing at a concept id
+that doesn't exist.
+
+`npm run content:coverage` prints the same requirements as a per-concept
+table (`-- --incomplete` to show only the gaps), which is the fastest way to
+see what's left to author.
+
+A concept that is knowingly mid-authoring can be listed in
+`COVERAGE_WAIVERS` (`src/content/coverageWaivers.ts`), which downgrades its
+coverage failures to warnings. Two things make that safe rather than a
+rug to sweep work under:
+
+- A concept **not** on the list must be complete, so a newly added concept
+  fails immediately unless someone deliberately waives it.
+- A waiver for a concept that is *already* complete is itself a build
+  error, so the list can't rot — clearing the backlog forces it to empty.
 
 ## Formulas, problem templates and error models
 

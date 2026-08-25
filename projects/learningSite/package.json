@@ -12,7 +12,10 @@
     "validate:content": "tsx scripts/validate-content.ts",
     "content:hash": "tsx scripts/compute-hashes.ts",
     "content:stale-report": "tsx scripts/stale-report.ts",
-    "check:links": "tsx scripts/check-links.ts"
+    "check:links": "tsx scripts/check-links.ts",
+    "content:coverage": "tsx scripts/content-coverage.ts",
+    "content:new-concept": "tsx scripts/new-concept.ts",
+    "typecheck": "next typegen && tsc --noEmit"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.1",

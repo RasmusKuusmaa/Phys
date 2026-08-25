@@ -39,7 +39,9 @@ to `/en`; swap the locale segment for `/et` to browse the Estonian site.
 | `npm run build` | Production build (also runs content validation as part of the build) |
 | `npm test` | Run the Vitest unit test suite |
 | `npm run lint` | ESLint |
-| `npm run validate:content` | Validate every content JSON file against its Zod schema; checks prerequisite references, cycles, bilingual completeness, resource coverage and staleness |
+| `npm run validate:content` | Validate every content JSON file against its Zod schema; checks prerequisite references, cycles, bilingual completeness, per-concept coverage (misconceptions, items, resources, formula backing) and staleness |
+| `npm run content:coverage` | Per-concept completeness table — what's authored and what's still missing (`-- --incomplete` for gaps only) |
+| `npm run content:new-concept` | Scaffold every file a new concept needs, both locales, in one go |
 | `npm run lint:terminology` | Lint Estonian content against the glossary's banned-variant list, and flag formula symbol names with no glossary entry |
 | `npm run content:hash` | Recompute `sourceHash` on every `LocalisedString` and flag any English text that changed since its Estonian translation was last synced |
 | `npm run content:stale-report` | List every currently-stale translation without changing anything |
