@@ -663,27 +663,28 @@ Module `waves`.
 
 Modules `thermodynamics` and `statistical-mechanics`.
 
-- [ ] Add terminology for statistical mechanics
+- [x] Add terminology for statistical mechanics
   `content: add statistical mechanics terminology`
-- [ ] `heat-transfer-mechanisms` (L1) — prereq `temperature-and-heat`
+- [x] `heat-transfer-mechanisms` (L1) — prereq `temperature-and-heat`
   `content: add heat transfer concept`
-- [ ] `internal-energy-and-the-first-law` (L2) — prereq `laws-of-thermodynamics`
+- [x] `internal-energy-and-the-first-law` (L2) — prereq `laws-of-thermodynamics`
   `content: add internal energy concept`
-- [ ] `thermodynamic-processes` (L2) — prereq `ideal-gas-law`,
+- [x] `thermodynamic-processes` (L2) — prereq `ideal-gas-law`,
       `internal-energy-and-the-first-law`
   `content: add thermodynamic processes concept`
-- [ ] `real-gases-and-the-van-der-waals-equation` (L3) — prereq `ideal-gas-law`
+- [x] `real-gases-and-the-van-der-waals-equation` (L3) — prereq `ideal-gas-law`
   `content: add real gases concept`
-- [ ] `the-equipartition-theorem` (L3) — prereq `kinetic-theory-of-gases`
+- [x] `the-equipartition-theorem` (L3) — prereq `kinetic-theory-of-gases`
   `content: add equipartition theorem concept`
-- [ ] `microstates-and-multiplicity` (L3) — prereq `statistical-definition-of-entropy`
+- [x] `microstates-and-multiplicity` (L3) — prereq `statistical-definition-of-entropy`
   `content: add microstates and multiplicity concept`
-- [ ] `the-partition-function` (L3) — prereq `microstates-and-multiplicity`
+- [x] `the-partition-function` (L3) — prereq `microstates-and-multiplicity`
   `content: add partition function concept`
-- [ ] `blackbody-radiation-and-plancks-law` (L3) — prereq `photons-and-quanta`
+- [x] `blackbody-radiation-and-plancks-law` (L3) — prereq `photons-and-quanta`
   `content: add blackbody radiation concept`
 - [ ] `quantum-statistics-fermi-dirac-and-bose-einstein` (L3) — prereq
-      `the-partition-function`, `the-pauli-exclusion-principle`
+      `the-partition-function`, `the-pauli-exclusion-principle` — blocked on
+      Phase 20's Pauli exclusion principle concept, author after that lands
   `content: add quantum statistics concept`
 
 ### Phase 19 — Optics
