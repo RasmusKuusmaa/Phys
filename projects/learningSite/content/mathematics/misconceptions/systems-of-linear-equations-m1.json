@@ -1,0 +1,10 @@
+{
+  "id": "systems-of-linear-equations-m1",
+  "conceptId": "systems-of-linear-equations",
+  "text": {
+    "en": "A system with more equations than unknowns always has no solution.",
+    "et": "Süsteemil, kus on rohkem võrrandeid kui tundmatuid, ei ole kunagi lahendit.",
+    "sourceHash": "73b6080ce28167d0",
+    "stale": false
+  }
+}

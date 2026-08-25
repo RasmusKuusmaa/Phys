@@ -1,0 +1,56 @@
+{
+  "id": "systems-of-linear-equations-item2",
+  "conceptId": "systems-of-linear-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How many solutions can a system of linear equations have?",
+    "et": "Mitu lahendit võib lineaarvõrrandisüsteemil olla?",
+    "sourceHash": "be5cc74b2c0e9aa3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Zero, one, or infinitely many — no other count is possible",
+        "et": "Null, üks või lõpmata palju — ükski muu arv ei ole võimalik",
+        "sourceHash": "144430feb5af10c5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Any number, depending on how many equations there are",
+        "et": "Suvaline arv, sõltuvalt sellest, kui palju võrrandeid on",
+        "sourceHash": "3cea4673e89e298c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "systems-of-linear-equations-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Exactly one whenever the number of equations matches the number of unknowns",
+        "et": "Täpselt üks alati, kui võrrandite arv vastab tundmatute arvule",
+        "sourceHash": "68fe86e6e0157a31",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "systems-of-linear-equations-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "None whenever there are more equations than unknowns",
+        "et": "Mitte ühtegi alati, kui võrrandeid on rohkem kui tundmatuid",
+        "sourceHash": "b2b76f7f907d9f88",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "systems-of-linear-equations-m1"
+    }
+  ]
+}

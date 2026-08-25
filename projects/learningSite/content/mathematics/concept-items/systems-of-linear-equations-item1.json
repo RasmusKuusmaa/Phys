@@ -1,0 +1,56 @@
+{
+  "id": "systems-of-linear-equations-item1",
+  "conceptId": "systems-of-linear-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A system of three equations in three unknowns has a coefficient matrix with determinant zero. What follows?",
+    "et": "Kolme tundmatuga kolme võrrandi süsteemi kordajate maatriksi determinant on null. Mis sellest järeldub?",
+    "sourceHash": "f099fac4039a096d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It has either no solution or infinitely many — never exactly one",
+        "et": "Sellel ei ole kas ühtegi lahendit või on neid lõpmata palju — mitte kunagi täpselt üks",
+        "sourceHash": "7ed3b3e4d0d13035",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It still has exactly one solution, since there are as many equations as unknowns",
+        "et": "Sellel on ikkagi täpselt üks lahend, sest võrrandeid on sama palju kui tundmatuid",
+        "sourceHash": "f230c89fef435bc6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "systems-of-linear-equations-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It has no solution, since a zero determinant rules solutions out",
+        "et": "Sellel ei ole lahendit, sest nulliga võrduv determinant välistab lahendid",
+        "sourceHash": "961fd6b7386a03ce",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "systems-of-linear-equations-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It has exactly three solutions, one per equation",
+        "et": "Sellel on täpselt kolm lahendit, üks iga võrrandi kohta",
+        "sourceHash": "9cc03430364e1e38",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "systems-of-linear-equations-m3"
+    }
+  ]
+}

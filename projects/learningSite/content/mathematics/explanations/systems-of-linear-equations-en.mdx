@@ -1,0 +1,22 @@
+Each linear equation in three unknowns describes a plane. Solving a system
+means finding the points common to all of them, and that geometric picture
+explains the whole answer. Three planes can meet at a single point, or in a
+common line, or share a whole plane, or have no common point at all — and there
+is no arrangement giving exactly two intersection points. That is why the count
+of solutions is always zero, one, or infinity, never anything else.
+
+Counting equations does not settle which case you are in. Three equations in
+three unknowns look decisive, but if one equation is just the sum of the other
+two it adds no information and the solution set is a line. Conversely, a system
+with more equations than unknowns is usually inconsistent but need not be — the
+extra equations may simply repeat what is already known. The reliable test is
+the determinant of the coefficient matrix: non-zero means exactly one solution,
+zero means the transformation collapses space and the answer is either none or
+infinitely many.
+
+Gaussian elimination is the method that settles it in practice. Add multiples of
+rows to other rows to introduce zeros below the diagonal, then read the answer
+back by substitution. Its virtue is that it does not need to know in advance
+which case applies: a row of zeros equalling zero reveals a redundant equation
+and infinitely many solutions, while a row of zeros equalling a non-zero number
+is the contradiction 0 = 1 and proves there is no solution.

@@ -1,0 +1,22 @@
+Iga kolme tundmatuga lineaarvõrrand kirjeldab tasandit. Süsteemi lahendamine
+tähendab kõigile ühiste punktide leidmist ja just see geomeetriline pilt seletab
+kogu vastuse. Kolm tasandit võivad kohtuda ühes punktis, ühisel sirgel, jagada
+tervet tasandit või mitte omada ühtegi ühist punkti — ja ei ole olemas
+paigutust, mis annaks täpselt kaks lõikepunkti. Just seepärast on lahendite arv
+alati null, üks või lõpmatus, mitte kunagi midagi muud.
+
+Võrrandite loendamine ei ütle, millise juhuga on tegu. Kolm võrrandit kolme
+tundmatuga näivad otsustavad, kuid kui üks võrrand on lihtsalt kahe ülejäänu
+summa, ei lisa see infot ja lahendihulk on sirge. Vastupidi, süsteem, kus on
+rohkem võrrandeid kui tundmatuid, on tavaliselt vastuoluline, kuid ei pea seda
+olema — lisavõrrandid võivad lihtsalt korrata juba teadaolevat. Usaldusväärne
+kontroll on kordajate maatriksi determinant: nullist erinev tähendab täpselt üht
+lahendit, null tähendab, et teisendus surub ruumi kokku ja vastus on kas
+lahendite puudumine või lõpmata palju lahendeid.
+
+Gaussi meetod on see, mis asja praktikas otsustab. Liida ridade kordseid teistele
+ridadele, et tekitada diagonaali alla nullid, ja loe seejärel vastus
+asendamisega tagasi. Selle voorus on, et see ei pea ette teadma, milline juht
+kehtib: nullidest koosnev rida, mis võrdub nulliga, paljastab üleliigse võrrandi
+ja lõpmata palju lahendeid, samas kui nullidest koosnev rida, mis võrdub nullist
+erineva arvuga, on vastuolu 0 = 1 ja tõestab, et lahendit ei ole.

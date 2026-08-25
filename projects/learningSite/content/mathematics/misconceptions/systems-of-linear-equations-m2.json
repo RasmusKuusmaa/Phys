@@ -1,0 +1,10 @@
+{
+  "id": "systems-of-linear-equations-m2",
+  "conceptId": "systems-of-linear-equations",
+  "text": {
+    "en": "A system with as many equations as unknowns always has exactly one solution.",
+    "et": "Süsteemil, kus võrrandeid on sama palju kui tundmatuid, on alati täpselt üks lahend.",
+    "sourceHash": "87b2d56c97cd936b",
+    "stale": false
+  }
+}

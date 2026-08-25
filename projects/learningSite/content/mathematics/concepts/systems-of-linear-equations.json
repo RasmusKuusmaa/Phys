@@ -1,0 +1,21 @@
+{
+  "id": "systems-of-linear-equations",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "linear-algebra",
+  "title": {
+    "en": "Systems of linear equations",
+    "et": "Lineaarvõrrandisüsteemid",
+    "sourceHash": "bacec2d182868334",
+    "stale": false
+  },
+  "summary": {
+    "en": "A system of linear equations has exactly one solution, none, or infinitely many — never any other count — and Gaussian elimination decides which case holds while producing the solution.",
+    "et": "Lineaarvõrrandisüsteemil on kas täpselt üks lahend, mitte ühtegi või lõpmata palju — ja mitte kunagi muud arvu — ning Gaussi meetod otsustab, milline juht kehtib, andes ühtlasi lahendi.",
+    "sourceHash": "ce050cefe065ee5c",
+    "stale": false
+  },
+  "prerequisites": [
+    "determinants"
+  ]
+}
