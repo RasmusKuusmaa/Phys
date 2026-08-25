@@ -1,0 +1,22 @@
+A scalar field assigns one number to each point of space — temperature,
+pressure, altitude. A vector field assigns a vector — wind velocity, the
+gravitational pull, the electric field. They are different kinds of object and
+the distinction matters immediately: you cannot add a temperature to a wind
+velocity, and the two are drawn differently, one as a shaded map of values, the
+other as arrows.
+
+The gradient is the bridge between them: it takes a scalar field and produces a
+vector field. At each point, ∇f is built from the partial derivatives
+(∂f/∂x, ∂f/∂y, ∂f/∂z), and it points in the direction that f increases fastest,
+with magnitude equal to that steepest rate of increase. Walking in the gradient
+direction climbs a hill as quickly as possible; walking opposite to it descends
+fastest — that is the basis of gradient-descent methods used throughout applied
+mathematics.
+
+The gradient's direction is always perpendicular to the level surfaces of f
+— the contours along which f is constant, like the isotherms on a weather map.
+This is not a coincidence to memorise but a direct consequence of the
+definition: moving *along* a level surface produces no change in f, so the
+direction of fastest change must be orthogonal to every direction that produces
+no change. Contour maps make this visible directly — the steepest path uphill
+always crosses the contour lines at right angles, never running along one.

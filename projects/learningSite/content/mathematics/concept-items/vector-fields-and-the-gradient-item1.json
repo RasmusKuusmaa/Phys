@@ -1,0 +1,56 @@
+{
+  "id": "vector-fields-and-the-gradient-item1",
+  "conceptId": "vector-fields-and-the-gradient",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Temperature in a room is a single number at each point. Is temperature a scalar field or a vector field?",
+    "et": "Toa temperatuur on igas punktis üksainus arv. Kas temperatuur on skalaarväli või vektorväli?",
+    "sourceHash": "72adaececf61f967",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A scalar field — it assigns one number, not a vector, to each point",
+        "et": "Skalaarväli — see seab igale punktile vastavusse ühe arvu, mitte vektori",
+        "sourceHash": "ef8033d2cfeca63a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A vector field, since every field is fundamentally a vector field",
+        "et": "Vektorväli, sest iga väli on põhiolemuselt vektorväli",
+        "sourceHash": "a7815f7ccdf674ec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-fields-and-the-gradient-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Neither, since fields only apply to forces",
+        "et": "Kumbki mitte, sest väljad kehtivad ainult jõudude kohta",
+        "sourceHash": "b912dc65bb875281",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-fields-and-the-gradient-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on which level surface is chosen",
+        "et": "See sõltub sellest, milline nivoopind on valitud",
+        "sourceHash": "8d5e877a1022c7cb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-fields-and-the-gradient-m3"
+    }
+  ]
+}

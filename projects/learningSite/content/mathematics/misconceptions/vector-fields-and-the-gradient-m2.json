@@ -1,0 +1,10 @@
+{
+  "id": "vector-fields-and-the-gradient-m2",
+  "conceptId": "vector-fields-and-the-gradient",
+  "text": {
+    "en": "The gradient of a function points in the direction the function is decreasing fastest.",
+    "et": "Funktsiooni gradient osutab suunas, kus funktsioon kõige kiiremini kahaneb.",
+    "sourceHash": "4fed104f4bae738f",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+Skalaarväli seab igale ruumipunktile vastavusse ühe arvu — temperatuur, rõhk,
+kõrgus. Vektorväli seab vastavusse vektori — tuule kiirus, gravitatsioonitõmme,
+elektriväli. Need on eri laadi objektid ja vahe loeb kohe: temperatuuri ei saa
+liita tuule kiirusega ja neid kaht joonistatakse erinevalt, üht väärtuste
+varjutatud kaardina, teist nooltena.
+
+Gradient on nendevaheline sild: see võtab skalaarvälja ja tekitab vektorvälja.
+Igas punktis on ∇f üles ehitatud osatuletistest (∂f/∂x, ∂f/∂y, ∂f/∂z) ning see
+osutab suunas, kus f kõige kiiremini kasvab, pikkusega, mis võrdub selle
+järseima kasvukiirusega. Gradiendi suunas kõndimine tõuseb mäest üles nii
+kiiresti kui võimalik; sellele vastupidises suunas kõndimine laskub kõige
+kiiremini — sellel põhinevadki gradientlaskumise meetodid, mida kasutatakse
+kogu rakendusmatemaatikas.
+
+Gradiendi suund on alati risti f nivoopindadega — joontega, mille ulatuses f on
+konstantne, nagu ilmakaardi isotermid. See ei ole meeldejätmist vajav
+juhus, vaid otsene tagajärg definitsioonist: liikumine *mööda* nivoopinda ei
+muuda f-i üldse, seega peab kiireima muutuse suund olema risti iga suunaga, mis
+muutust ei tekita. Kõrgusjoonte kaardid teevad selle otse nähtavaks — järseim tee
+mäest üles ristub alati kõrgusjoontega täisnurga all, ei jookse kunagi mööda
+ühte neist.

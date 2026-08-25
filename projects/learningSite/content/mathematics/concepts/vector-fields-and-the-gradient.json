@@ -1,0 +1,22 @@
+{
+  "id": "vector-fields-and-the-gradient",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "vector-calculus",
+  "title": {
+    "en": "Vector fields and the gradient",
+    "et": "Vektorväljad ja gradient",
+    "sourceHash": "8f0278dbfe9c6837",
+    "stale": false
+  },
+  "summary": {
+    "en": "A vector field assigns a vector to every point in space; the gradient of a scalar field is the vector field pointing in the direction of steepest increase, and it is always perpendicular to the field's level surfaces.",
+    "et": "Vektorväli seab igale ruumipunktile vastavusse vektori; skalaarvälja gradient on vektorväli, mis osutab kõige järsema kasvu suunas, ja see on alati risti välja nivoopindadega.",
+    "sourceHash": "9b86e578ede1a7a1",
+    "stale": false
+  },
+  "prerequisites": [
+    "partial-derivatives",
+    "vectors-in-space"
+  ]
+}

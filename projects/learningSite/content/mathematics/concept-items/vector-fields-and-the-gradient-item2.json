@@ -1,0 +1,56 @@
+{
+  "id": "vector-fields-and-the-gradient-item2",
+  "conceptId": "vector-fields-and-the-gradient",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How is the gradient of a scalar field oriented relative to that field's level surfaces?",
+    "et": "Kuidas on skalaarvälja gradient orienteeritud selle välja nivoopindade suhtes?",
+    "sourceHash": "3b4d7eb6bc8c11ec",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Always perpendicular to the level surface passing through that point",
+        "et": "Alati risti selles punktis läbiva nivoopinnaga",
+        "sourceHash": "02e93d7f246c4491",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Always tangent to the level surface, lying within it",
+        "et": "Alati puutuja nivoopinnaga, asudes selle sees",
+        "sourceHash": "baf94f731c79599d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-fields-and-the-gradient-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Pointing in the direction of steepest decrease",
+        "et": "Osutades kõige järsema kahanemise suunas",
+        "sourceHash": "5be0afb2e37cf81f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-fields-and-the-gradient-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "In an arbitrary direction, unrelated to the level surfaces",
+        "et": "Suvalises suunas, nivoopindadega seosetu",
+        "sourceHash": "dbd46b3080e2bca7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-fields-and-the-gradient-m2"
+    }
+  ]
+}
