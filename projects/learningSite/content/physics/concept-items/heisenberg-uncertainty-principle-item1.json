@@ -1,0 +1,56 @@
+{
+  "id": "heisenberg-uncertainty-principle-item1",
+  "conceptId": "heisenberg-uncertainty-principle",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An electron is confined to an increasingly narrow region. What happens to the spread of its momentum?",
+    "et": "Elektron surutakse üha kitsamasse piirkonda. Mis juhtub selle impulsi hajuvusega?",
+    "sourceHash": "a4be344ab8699654",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It necessarily grows, because narrowing the position spread widens the momentum spread",
+        "et": "See kasvab paratamatult, sest asukoha hajuvuse ahendamine laiendab impulsi hajuvust",
+        "sourceHash": "f811eae75053b82c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It stays the same, and only the accuracy of our instruments limits what we can measure",
+        "et": "See jääb samaks ja meie mõõtmisvõimalusi piirab ainult mõõteriistade täpsus",
+        "sourceHash": "defd9ae2d98045d0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heisenberg-uncertainty-principle-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It also narrows, since a well-localised electron is better defined in every respect",
+        "et": "See ahendub samuti, sest hästi lokaliseeritud elektron on igas mõttes paremini määratud",
+        "sourceHash": "f6306248e563b436",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heisenberg-uncertainty-principle-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing can be said, because the principle makes every measurement equally imprecise",
+        "et": "Midagi ei saa öelda, sest printsiip muudab iga mõõtmise võrdselt ebatäpseks",
+        "sourceHash": "040e5672b3a0f77c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heisenberg-uncertainty-principle-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "heisenberg-uncertainty-principle-m1",
+  "conceptId": "heisenberg-uncertainty-principle",
+  "text": {
+    "en": "The uncertainty exists because measuring a particle disturbs it, so better instruments would remove the limit.",
+    "et": "Määramatus tuleneb sellest, et mõõtmine häirib osakest, seega paremad mõõteriistad kaotaksid selle piirangu.",
+    "sourceHash": "ca02d6a7ad319328",
+    "stale": false
+  }
+}

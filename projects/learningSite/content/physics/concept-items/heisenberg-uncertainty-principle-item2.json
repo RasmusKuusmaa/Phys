@@ -1,0 +1,56 @@
+{
+  "id": "heisenberg-uncertainty-principle-item2",
+  "conceptId": "heisenberg-uncertainty-principle",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is the uncertainty principle not a statement about clumsy measurement?",
+    "et": "Miks ei ole määramatuse printsiip väide kohmaka mõõtmise kohta?",
+    "sourceHash": "df278d9a44ae8b05",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The spread follows from matter's wave nature — a wave with a definite wavelength cannot also be localised at a point",
+        "et": "Hajuvus tuleneb aine lainelisest loomusest — kindla lainepikkusega laine ei saa korraga olla ühte punkti koondatud",
+        "sourceHash": "d46d138f3d312c02",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because gentler probes are available that avoid disturbing the particle at all",
+        "et": "Sest on olemas õrnemad sondid, mis osakest üldse ei häiri",
+        "sourceHash": "e1ea17e70f1f1970",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heisenberg-uncertainty-principle-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the particle's exact position and momentum are recorded, just not readable by us",
+        "et": "Sest osakese täpne asukoht ja impulss on salvestatud, lihtsalt meile loetamatud",
+        "sourceHash": "6f4073ff5ec70bba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heisenberg-uncertainty-principle-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because it forbids precise measurement of any single quantity on its own",
+        "et": "Sest see keelab mistahes üksiku suuruse täpse mõõtmise",
+        "sourceHash": "d7aae67d7450143a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heisenberg-uncertainty-principle-m3"
+    }
+  ]
+}
