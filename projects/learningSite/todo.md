@@ -868,13 +868,14 @@ npm run curriculum:coverage -- --gaps  # only what is still missing
 
 | Track | Required courses covered | Required ECTS |
 | --- | --- | --- |
-| Physics | 9 / 20 | 49 / 102 |
-| Chemistry | 2 / 21 | 9 / 102 |
-| Materials science | 3 / 18 | 15 / 102 |
+| Physics | 13 / 20 | 70 / 102 |
+| Chemistry | 6 / 21 | 30 / 102 |
+| Materials science | 7 / 18 | 36 / 102 |
 
-24 required courses have no content at all. Nine of those are required of
-**all three tracks** — that shared spine is Phase 26 and is the highest-value
-work in this file.
+All four subjects now exist — `physics`, `mathematics`, `chemistry` and
+`materials-science` — and the shared foundation (Phase 26) is most of the way
+in. What remains of the spine is the three programming courses, Higher
+mathematics II and probability/statistics.
 
 Two structural facts shape everything below:
 
@@ -910,13 +911,13 @@ The 11 `mandatory-all` courses. Two are already covered (`LOFY.01.002` The
 physical world view, `LTFY.01.011` physics lab practical). These nine are not,
 and each one blocks all three degrees at once:
 
-- [ ] `LOKT.07.010` Foundations of chemistry (6 EAP) — needs Phase 28 first
+- [x] `LOKT.07.010` Foundations of chemistry (6 EAP)
   `content: cover foundations of chemistry`
-- [ ] `LTFY.02.003` Survey course in materials science (6 EAP) — needs Phase 29
+- [x] `LTFY.02.003` Survey course in materials science (6 EAP)
   `content: cover the materials science survey course`
-- [ ] `LTKT.01.002` Laboratory practical, chemistry (3 EAP) — theory side
+- [x] `LTKT.01.002` Laboratory practical, chemistry (3 EAP) — theory side
   `content: cover the chemistry laboratory practical`
-- [ ] `MTMM.00.340` Higher mathematics I (6 EAP) — 32 syllabus topics parsed
+- [x] `MTMM.00.340` Higher mathematics I (6 EAP) — 32 syllabus topics parsed
   `content: cover higher mathematics i`
 - [ ] `MTMM.00.341` Higher mathematics II (6 EAP)
   `content: cover higher mathematics ii`
@@ -934,23 +935,26 @@ and each one blocks all three degrees at once:
 `content/mathematics/`. Driven by `MTMM.00.340`'s 32 parsed topics, plus what
 the physics content already leans on implicitly.
 
-- [ ] Scaffold the subject directory and its terminology glossary
-  `content: scaffold the mathematics subject`
-- [ ] Author single-variable calculus — limits, derivatives, integrals
+- [x] Scaffold the subject directory and its terminology glossary
+  `content: scaffold the mathematics subject with vectors in space`
+- [x] Author single-variable calculus — limits, derivatives, integrals
   `content: add single variable calculus concepts`
 - [ ] Author sequences, series and convergence
   `content: add sequences and series concepts`
-- [ ] Author linear algebra — vectors, matrices, eigenvalues
+- [~] Author linear algebra — matrices, determinants and linear systems done;
+      eigenvalues still to come
   `content: add linear algebra concepts`
 - [ ] Author multivariable calculus — partial derivatives, multiple integrals
   `content: add multivariable calculus concepts`
 - [ ] Author vector calculus — gradient, divergence, curl, the integral theorems
   `content: add vector calculus concepts`
-- [ ] Author ordinary differential equations
+- [~] Author ordinary differential equations — first-order separable and linear
+      done; second-order still to come
   `content: add differential equations concepts`
 - [ ] Author probability and statistics for `MTMS.02.059`
   `content: add probability and statistics concepts`
-- [ ] Author complex numbers and functions of a complex variable
+- [~] Author complex numbers and functions of a complex variable — algebraic and
+      polar form done; complex functions still to come
   `content: add complex analysis concepts`
 
 ### Phase 28 — Chemistry as a subject
@@ -958,10 +962,10 @@ the physics content already leans on implicitly.
 `content/chemistry/`. The largest single gap: 19 of chemistry's 21 required
 courses have nothing.
 
-- [ ] Scaffold the subject directory and its terminology glossary
-  `content: scaffold the chemistry subject`
-- [ ] Author general chemistry for `LOKT.07.010` — atoms, bonding, stoichiometry,
-      solutions, equilibrium, acids and bases
+- [x] Scaffold the subject directory and its terminology glossary
+  `content: scaffold the chemistry subject with the mole`
+- [x] Author general chemistry for `LOKT.07.010` — the mole, bonding, stoichiometry,
+      the periodic table, acids/bases/pH, redox, equilibrium, kinetics (8 concepts)
   `content: add general chemistry concepts`
 - [ ] Author inorganic chemistry for `LOKT.01.007` (25 syllabus topics)
   `content: add inorganic chemistry concepts`
@@ -984,9 +988,9 @@ courses have nothing.
 `content/materials-science/`. Sits on top of physics and chemistry, so it
 follows both.
 
-- [ ] Scaffold the subject directory and its terminology glossary
+- [x] Scaffold the subject directory and its terminology glossary
   `content: scaffold the materials science subject`
-- [ ] Author the survey course for `LTFY.02.003` and `LOFY.02.008`
+- [x] Author the survey course for `LTFY.02.003` and `LOFY.02.008`
   `content: add materials science survey concepts`
 - [ ] Author structure and properties of matter for `LTFY.02.001`
   `content: add structure and properties of matter concepts`
