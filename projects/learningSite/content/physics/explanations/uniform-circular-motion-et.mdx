@@ -1,0 +1,22 @@
+Kiirusel on nii suurus kui ka suund ning kiirendus on defineeritud kummagi
+muutumiskiirusena. Täiesti ühtlase kiirusega ringjoonel liikuval kehal on
+muutumatu kiiruse suurus, kuid suund, mis kunagi ei lakka pöördumast, ja
+juba sellest üksi piisab, et selle kiirendus oleks nullist erinev. "Ühtlase
+kiiruse" käsitamine "kiirenduse puudumisena" ajab segamini kiiruse suuruse
+kiirusega endaga.
+
+Igal hetkel on kiirus suunatud ringjoone puutujaks — piki praegust
+liikumissuunda, risti keskpunktist tuleva joonega. See ei osuta kunagi
+keskpunkti poole ega sealt eemale; see tähendaks otse sissepoole või
+väljapoole liikumist, mida ringliikumine täpselt ei tee. Kiirendus, seevastu,
+on igal hetkel suunatud keskpunkti poole — see peabki nii olema, sest selle
+ainus ülesanne on painutada kiirusvektorit tagasi ümber kõvera, selle asemel
+et lasta sel sirgjooneliselt lennata. See ongi tsentripetaalkiirendus, ja
+selle risti olemine kiirusega on põhjus, miks see muudab suunda, muutmata
+kunagi kiirust — sama loogika, mis juhib magnetjõudu liikuvale laengule.
+
+Kiirus, raadius ja periood on seotud ringi ümbermõõduga: üks täisring läbib
+kaugust 2πr ajas T, seega v = 2πr/T. Suurem v fikseeritud raadiusel tähendab,
+et iga ring läbitakse kiiremini, seega on periood *lühem*, mitte pikem —
+kiirus ja periood liiguvad fikseeritud raadiuse korral vastassuundades, ja
+seda tasub intuitsiooniga võrreldes kontrollida enne arvutuse usaldamist.

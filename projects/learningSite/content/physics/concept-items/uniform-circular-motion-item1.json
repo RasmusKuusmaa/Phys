@@ -1,0 +1,56 @@
+{
+  "id": "uniform-circular-motion-item1",
+  "conceptId": "uniform-circular-motion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A car drives around a circular track at a perfectly constant speed. Is it accelerating?",
+    "et": "Auto sõidab ringikujulisel rajal täiesti ühtlase kiirusega. Kas see kiireneb?",
+    "sourceHash": "cf0161c5393347e4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Yes — its velocity's direction is constantly changing, and acceleration follows from any change in velocity",
+        "et": "Jah — selle kiiruse suund muutub pidevalt ja kiirendus tuleneb mistahes kiiruse muutusest",
+        "sourceHash": "5770b68ec6294fd1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No, since acceleration only occurs when speed changes",
+        "et": "Ei, sest kiirendus tekib ainult siis, kui kiirus muutub",
+        "sourceHash": "a6026c195aee6005",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uniform-circular-motion-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "No, since the car returns to the same point every lap",
+        "et": "Ei, sest auto naaseb iga ringiga samasse punkti",
+        "sourceHash": "f61cd9aca22f36d3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uniform-circular-motion-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only if the track's radius is changing over time",
+        "et": "Ainult siis, kui raja raadius aja jooksul muutub",
+        "sourceHash": "f82fae4a6e84ce4e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uniform-circular-motion-m1"
+    }
+  ]
+}

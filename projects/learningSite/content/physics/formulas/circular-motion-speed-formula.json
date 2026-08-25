@@ -1,0 +1,47 @@
+{
+  "id": "circular-motion-speed-formula",
+  "conceptId": "uniform-circular-motion",
+  "latex": "v = \\frac{2\\pi r}{T}",
+  "symbols": [
+    {
+      "symbol": "v",
+      "name": {
+        "en": "speed",
+        "et": "kiirus",
+        "sourceHash": "bbccb9c002d5ed59",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "r",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "T",
+      "name": {
+        "en": "period",
+        "et": "periood",
+        "sourceHash": "514cb13f603464f9",
+        "stale": false
+      },
+      "unit": "s"
+    }
+  ],
+  "solveFor": [
+    "v",
+    "r",
+    "T"
+  ],
+  "expressions": {
+    "v": "6.283185307*r/T",
+    "r": "v*T/6.283185307",
+    "T": "6.283185307*r/v"
+  }
+}

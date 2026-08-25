@@ -1,0 +1,33 @@
+{
+  "id": "circular-motion-speed-solve-v",
+  "formulaId": "circular-motion-speed-formula",
+  "variables": [
+    {
+      "symbol": "r",
+      "min": 0.1,
+      "max": 100,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "T",
+      "min": 0.1,
+      "max": 60,
+      "unit": "s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "r",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "T",
+      "right": 0
+    }
+  ],
+  "solveFor": "v"
+}

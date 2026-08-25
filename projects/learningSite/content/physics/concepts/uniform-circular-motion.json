@@ -1,0 +1,21 @@
+{
+  "id": "uniform-circular-motion",
+  "subject": "physics",
+  "level": "L1",
+  "module": "mechanics",
+  "title": {
+    "en": "Uniform circular motion",
+    "et": "Ühtlane ringliikumine",
+    "sourceHash": "5e85bb926f4a819a",
+    "stale": false
+  },
+  "summary": {
+    "en": "An object moving at constant speed around a circle is still accelerating, because its velocity's direction keeps changing even though its magnitude does not — that acceleration always points toward the centre of the circle.",
+    "et": "Ringjoonel jääva kiirusega liikuv keha kiireneb ikkagi, sest selle kiiruse suund muutub pidevalt, kuigi suurus ei muutu — see kiirendus on alati suunatud ringi keskpunkti poole.",
+    "sourceHash": "263330229cb39ccf",
+    "stale": false
+  },
+  "prerequisites": [
+    "displacement-velocity-acceleration"
+  ]
+}

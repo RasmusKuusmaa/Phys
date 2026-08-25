@@ -1,0 +1,38 @@
+{
+  "id": "circular-motion-speed-solve-v-errors",
+  "formulaId": "circular-motion-speed-formula",
+  "solveFor": "v",
+  "mistakes": [
+    {
+      "id": "forgot-2pi",
+      "description": {
+        "en": "Used r/T instead of 2*pi*r/T, omitting the circumference factor.",
+        "et": "Kasutas r/T, selle asemel et kasutada 2*pi*r/T, jättes ümbermõõdu teguri välja.",
+        "sourceHash": "6bb7af7d94535668",
+        "stale": false
+      },
+      "expression": "r/T"
+    },
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided period by radius instead of radius by period.",
+        "et": "Jagas perioodi raadiusega, selle asemel et jagada raadius perioodiga.",
+        "sourceHash": "425cdceb5d57448f",
+        "stale": false
+      },
+      "expression": "6.283185307*T/r",
+      "misconceptionId": "uniform-circular-motion-m3"
+    },
+    {
+      "id": "forgot-pi",
+      "description": {
+        "en": "Used 2r/T, forgetting the factor of pi.",
+        "et": "Kasutas 2r/T, unustades teguri pi.",
+        "sourceHash": "a08653b0cb9556d5",
+        "stale": false
+      },
+      "expression": "2*r/T"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "uniform-circular-motion-item2",
+  "conceptId": "uniform-circular-motion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "At a given instant, in which direction does the velocity of an object in uniform circular motion point?",
+    "et": "Millises suunas osutab ühtlases ringliikumises oleva keha kiirus antud hetkel?",
+    "sourceHash": "bd12a655a47b98ca",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Tangent to the circle at that point, perpendicular to the radius",
+        "et": "Ringjoone puutujaks selles punktis, risti raadiusega",
+        "sourceHash": "f73aa5e561e19d52",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Directly toward the centre of the circle",
+        "et": "Otse ringi keskpunkti poole",
+        "sourceHash": "959ab2ef14f07661",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uniform-circular-motion-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Directly away from the centre of the circle",
+        "et": "Otse ringi keskpunktist eemale",
+        "sourceHash": "79c13d757284cbf0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uniform-circular-motion-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It has no fixed direction, since the motion is circular",
+        "et": "Sellel ei ole kindlat suunda, sest liikumine on ringikujuline",
+        "sourceHash": "acaf01093645292e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uniform-circular-motion-m1"
+    }
+  ]
+}
