@@ -1,0 +1,10 @@
+{
+  "id": "viscosity-and-poiseuille-flow-m3",
+  "conceptId": "viscosity-and-poiseuille-flow",
+  "text": {
+    "en": "Halving a pipe's radius halves the flow rate at a given pressure difference.",
+    "et": "Toru raadiuse poolitamine poolitab antud rõhuvahe juures vooluhulga.",
+    "sourceHash": "7024ebcc1730891d",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "viscosity-and-poiseuille-flow-item1",
+  "conceptId": "viscosity-and-poiseuille-flow",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A pipe's radius is halved while the pressure difference across it is kept the same. What happens to the volume flow rate of a viscous fluid?",
+    "et": "Toru raadius poolitatakse, hoides selle otste rõhuvahe samana. Mis juhtub viskoosse vedeliku ruumilise vooluhulgaga?",
+    "sourceHash": "ebfd8eeca3770652",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It falls to one sixteenth, because Poiseuille flow depends on the fourth power of the radius",
+        "et": "See langeb kuueteistkümnendikuni, sest Poiseuille'i voolamine sõltub raadiuse neljandast astmest",
+        "sourceHash": "751c61cbcbd5ed66",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It halves, in direct proportion to the radius",
+        "et": "See poolistub, otseses võrdelises seoses raadiusega",
+        "sourceHash": "dd980c55db89e1ca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viscosity-and-poiseuille-flow-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, since the fluid simply moves faster to compensate",
+        "et": "See ei muutu, sest vedelik lihtsalt liigub kompenseerimiseks kiiremini",
+        "sourceHash": "885e91ef51ee7e8f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viscosity-and-poiseuille-flow-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It falls only if the fluid is also made denser, since density is what resists flow",
+        "et": "See langeb ainult siis, kui vedelik muudetakse ka tihedamaks, sest voolamisele paneb vastu tihedus",
+        "sourceHash": "756898ca78b5bc3f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viscosity-and-poiseuille-flow-m1"
+    }
+  ]
+}

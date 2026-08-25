@@ -1,0 +1,56 @@
+{
+  "id": "viscosity-and-poiseuille-flow-item2",
+  "conceptId": "viscosity-and-poiseuille-flow",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How does the speed of a viscous fluid vary across the cross-section of a pipe in smooth laminar flow?",
+    "et": "Kuidas muutub viskoosse vedeliku kiirus toru ristlõike ulatuses ühtlase laminaarse voolamise korral?",
+    "sourceHash": "6adae78db4e3ab89",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Fastest at the centre and falling to zero at the wall, in a parabolic profile",
+        "et": "Kõige kiirem keskel ja langeb seina juures nullini, moodustades paraboolse profiili",
+        "sourceHash": "451dd49a0f782082",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Uniform across the whole cross-section, since the fluid moves as one body",
+        "et": "Ühtlane kogu ristlõike ulatuses, sest vedelik liigub ühtse kehana",
+        "sourceHash": "e6e7d6d28434eef4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viscosity-and-poiseuille-flow-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Fastest at the wall, where the pipe pushes the fluid along",
+        "et": "Kõige kiirem seina juures, kus toru vedelikku edasi lükkab",
+        "sourceHash": "1661870ee97cdb3b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viscosity-and-poiseuille-flow-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Determined by the fluid's density rather than by any internal friction",
+        "et": "Määratud vedeliku tihedusega, mitte mingi sisemise hõõrdumisega",
+        "sourceHash": "6467e1a43a3ad505",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viscosity-and-poiseuille-flow-m1"
+    }
+  ]
+}
