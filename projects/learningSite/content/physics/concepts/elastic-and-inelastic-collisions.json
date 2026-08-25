@@ -1,0 +1,22 @@
+{
+  "id": "elastic-and-inelastic-collisions",
+  "subject": "physics",
+  "level": "L2",
+  "module": "mechanics",
+  "title": {
+    "en": "Elastic and inelastic collisions",
+    "et": "Elastsed ja mitteelastsed põrked",
+    "sourceHash": "6cf32a63c09aac98",
+    "stale": false
+  },
+  "summary": {
+    "en": "Momentum is conserved in every collision, but kinetic energy is conserved only in an elastic collision — in an inelastic one, some kinetic energy converts into heat, sound or deformation, with a perfectly inelastic collision losing the most because the objects stick together.",
+    "et": "Impulss säilib igas põrkes, kuid kineetiline energia säilib ainult elastses põrkes — mitteelastses põrkes muundub osa kineetilisest energiast soojuseks, heliks või deformatsiooniks, ning täiesti mitteelastne põrge kaotab kõige rohkem, sest kehad jäävad kokku.",
+    "sourceHash": "0cfc781067de76d2",
+    "stale": false
+  },
+  "prerequisites": [
+    "conservation-of-momentum",
+    "conservation-of-energy"
+  ]
+}

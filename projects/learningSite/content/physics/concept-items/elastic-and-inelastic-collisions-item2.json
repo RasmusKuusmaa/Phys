@@ -1,0 +1,56 @@
+{
+  "id": "elastic-and-inelastic-collisions-item2",
+  "conceptId": "elastic-and-inelastic-collisions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two billiard balls collide and bounce apart with their total kinetic energy unchanged. What kind of collision is this?",
+    "et": "Kaks piljardikuuli põrkuvad kokku ja põrkavad lahku, nende kogu kineetiline energia jäädes muutumatuks. Mis liiki põrge see on?",
+    "sourceHash": "f1ff2cf464f67add",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An elastic collision, in which kinetic energy as well as momentum is conserved",
+        "et": "Elastne põrge, milles säilib nii kineetiline energia kui ka impulss",
+        "sourceHash": "7840e60b52ee29a8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "An inelastic collision, since the balls separate afterward",
+        "et": "Mitteelastne põrge, sest kuulid eralduvad pärast üksteisest",
+        "sourceHash": "86b6e05bdf268c9f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "elastic-and-inelastic-collisions-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A perfectly inelastic collision, since energy was conserved",
+        "et": "Täiesti mitteelastne põrge, sest energia säilis",
+        "sourceHash": "f0854eebc80fde3b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "elastic-and-inelastic-collisions-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "An impossible collision, since some kinetic energy must always be lost",
+        "et": "Võimatu põrge, sest osa kineetilisest energiast peab alati kaduma",
+        "sourceHash": "cebddd7b7639aca4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "elastic-and-inelastic-collisions-m1"
+    }
+  ]
+}

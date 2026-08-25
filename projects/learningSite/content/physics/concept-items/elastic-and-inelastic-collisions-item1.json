@@ -1,0 +1,56 @@
+{
+  "id": "elastic-and-inelastic-collisions-item1",
+  "conceptId": "elastic-and-inelastic-collisions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two lumps of clay collide head-on and stick together, moving off slower than either did before. Is momentum conserved in this collision?",
+    "et": "Kaks savitükki põrkuvad otse kokku ja jäävad kokku, liikudes edasi aeglasemalt kui kumbki enne. Kas impulss selles põrkes säilib?",
+    "sourceHash": "258ad83a18ef72de",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Yes — momentum is conserved in every collision, elastic or not",
+        "et": "Jah — impulss säilib igas põrkes, olgu see elastne või mitte",
+        "sourceHash": "0a74f83b7acda2b7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No, since kinetic energy was clearly lost in the collision",
+        "et": "Ei, sest kineetiline energia läks põrkes selgelt kaduma",
+        "sourceHash": "cafad7ef178fbac9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "elastic-and-inelastic-collisions-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "No, since the objects stuck together rather than bouncing apart",
+        "et": "Ei, sest kehad jäid kokku, selle asemel et lahku põrkuda",
+        "sourceHash": "f157238013eacfe7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "elastic-and-inelastic-collisions-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only if the two lumps had equal mass before colliding",
+        "et": "Ainult siis, kui kahel tükil oli enne põrget võrdne mass",
+        "sourceHash": "63ca48711f810218",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "elastic-and-inelastic-collisions-m1"
+    }
+  ]
+}
