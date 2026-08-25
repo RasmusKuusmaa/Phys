@@ -1,0 +1,56 @@
+{
+  "id": "lorentz-force-item1",
+  "conceptId": "lorentz-force",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A charged particle moves in a circle inside a uniform magnetic field, with no electric field present. What happens to its speed?",
+    "et": "Laetud osake liigub ringjoonel ühtlases magnetväljas, ilma elektrivälja juuresolekuta. Mis juhtub selle kiirusega?",
+    "sourceHash": "79707749a7addd2a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It stays constant — the magnetic force is always perpendicular to velocity and does no work",
+        "et": "See jääb muutumatuks — magnetjõud on alati kiirusega risti ega tee tööd",
+        "sourceHash": "d90af63b5f844ab0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It steadily increases, since the magnetic force accelerates the particle along the circle",
+        "et": "See kasvab pidevalt, sest magnetjõud kiirendab osakest mööda ringjoont",
+        "sourceHash": "8f56fea9d648535d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-force-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It steadily decreases as the magnetic force does negative work",
+        "et": "See väheneb pidevalt, kuna magnetjõud teeb negatiivset tööd",
+        "sourceHash": "26a015ce005439d9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-force-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be determined without knowing the particle's charge",
+        "et": "Seda ei saa kindlaks teha, teadmata osakese laengut",
+        "sourceHash": "83eb5711625532d0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-force-m2"
+    }
+  ]
+}

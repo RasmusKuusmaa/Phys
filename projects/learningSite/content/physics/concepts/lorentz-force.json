@@ -1,0 +1,21 @@
+{
+  "id": "lorentz-force",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "The Lorentz force",
+    "et": "Lorentzi jõud",
+    "sourceHash": "10eeca885b44b41a",
+    "stale": false
+  },
+  "summary": {
+    "en": "A charged particle moving through a magnetic field feels a force perpendicular to both its velocity and the field, so the force never speeds the particle up or slows it down — it only bends its path into a circle or a helix.",
+    "et": "Magnetväljas liikuvale laetud osakesele mõjub jõud, mis on risti nii selle kiiruse kui ka väljaga, mistõttu see jõud ei kiirenda ega aeglusta osakest kunagi — see ainult kõverdab tema teekonna ringjooneks või kruvijooneks.",
+    "sourceHash": "c9711e53517bae82",
+    "stale": false
+  },
+  "prerequisites": [
+    "magnetic-fields"
+  ]
+}

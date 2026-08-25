@@ -1,0 +1,57 @@
+{
+  "id": "lorentz-force-solve-f",
+  "formulaId": "lorentz-force-formula",
+  "variables": [
+    {
+      "symbol": "q",
+      "min": 0.000001,
+      "max": 0.005,
+      "unit": "C",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "v",
+      "min": 100,
+      "max": 1000000,
+      "unit": "m/s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "B",
+      "min": 0.01,
+      "max": 5,
+      "unit": "T",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "theta",
+      "min": 10,
+      "max": 90,
+      "unit": "deg",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "q",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "v",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "B",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "theta",
+      "right": 0
+    }
+  ],
+  "solveFor": "F"
+}

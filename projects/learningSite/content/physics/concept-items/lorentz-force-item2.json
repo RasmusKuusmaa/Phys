@@ -1,0 +1,56 @@
+{
+  "id": "lorentz-force-item2",
+  "conceptId": "lorentz-force",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A charged particle sits at rest inside a strong uniform magnetic field. What force does the field exert on it?",
+    "et": "Laetud osake seisab paigal tugevas ühtlases magnetväljas. Millist jõudu väli sellele avaldab?",
+    "sourceHash": "6200f124dbb3c544",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "None — the magnetic force depends on velocity, and a stationary charge has none",
+        "et": "Mitte mingit — magnetjõud sõltub kiirusest ja paigalseisval laengul seda ei ole",
+        "sourceHash": "36738ef223017bc9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A force pulling it along the field lines",
+        "et": "Jõudu, mis tõmbab seda mööda väljajooni",
+        "sourceHash": "98ed9594d67418f3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-force-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A force proportional to the field strength alone, regardless of motion",
+        "et": "Jõudu, mis on võrdeline ainult välja tugevusega, olenemata liikumisest",
+        "sourceHash": "4d140b7c627edf2b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-force-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A force pushing it directly away from the field's source",
+        "et": "Jõudu, mis lükkab seda otse välja allikast eemale",
+        "sourceHash": "93e47ca8cb5fea1f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-force-m3"
+    }
+  ]
+}

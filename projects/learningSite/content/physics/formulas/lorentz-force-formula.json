@@ -1,0 +1,67 @@
+{
+  "id": "lorentz-force-formula",
+  "conceptId": "lorentz-force",
+  "latex": "F = qvB\\sin\\theta",
+  "symbols": [
+    {
+      "symbol": "F",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    },
+    {
+      "symbol": "q",
+      "name": {
+        "en": "electric charge",
+        "et": "elektrilaeng",
+        "sourceHash": "a6d8fc33990e659b",
+        "stale": false
+      },
+      "unit": "C"
+    },
+    {
+      "symbol": "v",
+      "name": {
+        "en": "speed",
+        "et": "kiirus",
+        "sourceHash": "bbccb9c002d5ed59",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "B",
+      "name": {
+        "en": "magnetic field",
+        "et": "magnetväli",
+        "sourceHash": "8e923bfc2b2346c6",
+        "stale": false
+      },
+      "unit": "T"
+    },
+    {
+      "symbol": "theta",
+      "name": {
+        "en": "angle",
+        "et": "nurk",
+        "sourceHash": "49387897bee2bee3",
+        "stale": false
+      },
+      "unit": "deg"
+    }
+  ],
+  "solveFor": [
+    "F",
+    "v",
+    "B"
+  ],
+  "expressions": {
+    "F": "q*v*B*sin(theta*3.14159265358979/180)",
+    "v": "F/(q*B*sin(theta*3.14159265358979/180))",
+    "B": "F/(q*v*sin(theta*3.14159265358979/180))"
+  }
+}

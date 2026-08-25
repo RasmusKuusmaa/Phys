@@ -1,0 +1,38 @@
+{
+  "id": "lorentz-force-solve-f-errors",
+  "formulaId": "lorentz-force-formula",
+  "solveFor": "F",
+  "mistakes": [
+    {
+      "id": "forgot-sin",
+      "description": {
+        "en": "Omitted the sine of the angle entirely.",
+        "et": "Jättis nurga siinuse täielikult välja.",
+        "sourceHash": "adb69274f04a1e8e",
+        "stale": false
+      },
+      "expression": "q*v*B"
+    },
+    {
+      "id": "used-cos-instead",
+      "description": {
+        "en": "Used cosine of the angle instead of sine, treating the parallel component as what matters.",
+        "et": "Kasutas nurga koosinust siinuse asemel, käsitledes paralleelset komponenti olulisena.",
+        "sourceHash": "e82e0263bb8233f5",
+        "stale": false
+      },
+      "expression": "q*v*B*cos(theta*3.14159265358979/180)",
+      "misconceptionId": "lorentz-force-m3"
+    },
+    {
+      "id": "omitted-charge",
+      "description": {
+        "en": "Left out the charge, treating force as depending only on speed and field.",
+        "et": "Jättis laengu välja, käsitledes jõudu sõltuvana ainult kiirusest ja väljast.",
+        "sourceHash": "9ce41d264fa70872",
+        "stale": false
+      },
+      "expression": "v*B*sin(theta*3.14159265358979/180)"
+    }
+  ]
+}
