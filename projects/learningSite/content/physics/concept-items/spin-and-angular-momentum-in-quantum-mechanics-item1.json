@@ -1,0 +1,56 @@
+{
+  "id": "spin-and-angular-momentum-in-quantum-mechanics-item1",
+  "conceptId": "spin-and-angular-momentum-in-quantum-mechanics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is measured when the spin of an electron is measured along any chosen axis?",
+    "et": "Mida mõõdetakse, kui mõõta elektroni spinni mistahes valitud telje suhtes?",
+    "sourceHash": "4d29b5d6a70d59d7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "One of exactly two outcomes, +ħ/2 or −ħ/2, whichever axis is chosen",
+        "et": "Üht kahest võimalikust tulemusest, +ħ/2 või −ħ/2, ükskõik millise telje puhul",
+        "sourceHash": "3ab18d2e3d39c3cb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A continuous value depending on how fast the electron happens to be rotating",
+        "et": "Pidevat väärtust, mis sõltub sellest, kui kiiresti elektron parasjagu pöörleb",
+        "sourceHash": "c35199abc554d8c3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spin-and-angular-momentum-in-quantum-mechanics-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The rate at which the electron's surface turns about its own axis",
+        "et": "Kiirust, millega elektroni pind ümber omaenda telje pöörleb",
+        "sourceHash": "f3981bd7a29400d0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spin-and-angular-momentum-in-quantum-mechanics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Zero, unless two electrons occupy the same orbital",
+        "et": "Nulli, kui just kaks elektroni ei asu samal orbitaalil",
+        "sourceHash": "94ed9b278cce707b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spin-and-angular-momentum-in-quantum-mechanics-m3"
+    }
+  ]
+}

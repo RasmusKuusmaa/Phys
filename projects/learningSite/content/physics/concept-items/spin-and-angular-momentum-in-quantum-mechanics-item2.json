@@ -1,0 +1,56 @@
+{
+  "id": "spin-and-angular-momentum-in-quantum-mechanics-item2",
+  "conceptId": "spin-and-angular-momentum-in-quantum-mechanics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How many electrons can occupy a single atomic orbital, and why?",
+    "et": "Mitu elektroni mahub ühele aatomiorbitaalile ja miks?",
+    "sourceHash": "dc6aeda55f5382c1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Two, because they can differ in spin and so occupy different overall quantum states",
+        "et": "Kaks, sest nad võivad erineda spinni poolest ja asuda seega eri kvantolekutes",
+        "sourceHash": "01819c9fa902810d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "One, because the exclusion principle forbids sharing an orbital at all",
+        "et": "Üks, sest keeluprintsiip keelab orbitaali jagamise täielikult",
+        "sourceHash": "785cdbfb00f0b1b7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spin-and-angular-momentum-in-quantum-mechanics-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Any number, since spin can take a continuous range of values to distinguish them",
+        "et": "Suvaline arv, sest spinn võib nende eristamiseks omandada pidevalt muutuvaid väärtusi",
+        "sourceHash": "5fab08073c85259d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spin-and-angular-momentum-in-quantum-mechanics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Two, because each electron physically rotates in the opposite direction to the other",
+        "et": "Kaks, sest kumbki elektron pöörleb füüsiliselt teisele vastupidises suunas",
+        "sourceHash": "176c5a5d3270b154",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spin-and-angular-momentum-in-quantum-mechanics-m1"
+    }
+  ]
+}
