@@ -24,7 +24,10 @@
   ],
   "summary": "Programmi ja algoritmi mõiste. Algoritmi esitusviisid, plokkskeemid. Hargnev algoritm. Tsükkel. Alamalgoritm. Tekstina püstitatud ülesande algoritmi koostamine. Tüübid. Programmi struktuur. Nimed. Muutujad. Tehted. Avaldised. Teksti väljastamine. Loogilised avaldised, võrdlemised. Funktsioonid, kirjeldamine, väärtuse tagastamine, rakendamine. Tingimusdirektiiv. Tsüklidirektiiv. Üld-, eelkontrolliga ja järelkontrolliga tsüklid. Järjendid. Järjendi läbivaatamine. Järjendit tagastavad meetodid. Kahekordne tsükkel. Sõnetöötlus. Sõnastikud. Ennikud. Hulgad. Programmi sisend ja väljund. Andmevahetus failidega. Rekursioon. Objektorienteeritud programmeerimine.",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "algorithms-and-program-structure",
+    "control-flow"
+  ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"
   ],

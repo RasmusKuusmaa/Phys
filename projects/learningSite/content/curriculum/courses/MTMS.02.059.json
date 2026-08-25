@@ -27,7 +27,10 @@
   ],
   "summary": "Tõenäosusteooria osas vaadeldakse juhusliku sündmuse klassikalist tõenäosust; tõenäosuse omadusi ja olulisemaid tõenäosustega seotud arvutusreegleid; juhuslikke suurusi ja nende jaotusi. Statistika tutvutakse statistilise hindamise ja testimise alustega. Käsitletakse üldkogumi karakteristikute tõenäosuslikke hinnanguid valimi põhjal (punktihinnang ja vahemikhinnang). Esitatakse hüpoteeside kontrolli teooria alused ja põhilised meetodid hüpoteeside kontrolliks.",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "probability",
+    "random-variables-and-distributions"
+  ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"
   ],

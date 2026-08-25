@@ -68,7 +68,10 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "algorithms-and-program-structure",
+    "control-flow"
+  ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"
   ],

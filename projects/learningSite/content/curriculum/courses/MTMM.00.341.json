@@ -28,7 +28,12 @@
   ],
   "summary": "Vektorruumid, vektorite lineaarne sõltumatus. Arvread, astmeread ja Fourier' read. Mitme muutuja funktsioonide diferentsiaal- ja integraalarvutus. Kordsed integraalid. Mitme muutuja funktsioonide ekstreemumite leidmine, optimiseerimine. Harilikud diferentsiaalvõrrandid, osatuletistega diferentsiaalvõrrandid.",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "infinite-series",
+    "multiple-integrals",
+    "partial-derivatives",
+    "vector-spaces"
+  ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"
   ],

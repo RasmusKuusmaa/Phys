@@ -206,6 +206,34 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "classes-of-materials",
     "structure-property-relationships",
   ],
+  // Kõrgem matemaatika II — vector spaces, series, multivariable calculus.
+  "MTMM.00.341": [
+    "infinite-series",
+    "multiple-integrals",
+    "partial-derivatives",
+    "vector-spaces",
+  ],
+  // Tõenäosusteooria ja matemaatiline statistika.
+  "MTMS.02.059": [
+    "probability",
+    "random-variables-and-distributions",
+  ],
+  // Programmeerimise alused — algorithms, expressions, conditionals, loops.
+  // Writing and running real programs needs a real machine; see todo.md Phase 30.
+  "MTAT.03.236": [
+    "algorithms-and-program-structure",
+    "control-flow",
+  ],
+  // Programmeerimise alused II — same fundamentals, second half.
+  "MTAT.03.256": [
+    "algorithms-and-program-structure",
+    "control-flow",
+  ],
+  // Programmeerimine — the 6 EAP variant of the same material.
+  "LTAT.03.001": [
+    "algorithms-and-program-structure",
+    "control-flow",
+  ],
   "LTFY.01.004": [
     "combining-uncertainties",
     "displacement-velocity-acceleration",
