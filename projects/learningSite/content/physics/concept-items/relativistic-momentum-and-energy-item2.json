@@ -1,0 +1,56 @@
+{
+  "id": "relativistic-momentum-and-energy-item2",
+  "conceptId": "relativistic-momentum-and-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An object of mass m sits at rest in a laboratory. What does special relativity say about its energy?",
+    "et": "Massiga m keha seisab laboris paigal. Mida ütleb erirelatiivsusteooria selle energia kohta?",
+    "sourceHash": "1756ff5473cd3abc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It has a rest energy mc², whether or not it ever moves or takes part in a reaction",
+        "et": "Sellel on seisuenergia mc², olenemata sellest, kas see kunagi liigub või mõnes reaktsioonis osaleb",
+        "sourceHash": "d2650151a47efe6d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It has none, because rest energy is released only in nuclear reactions",
+        "et": "Sellel ei ole energiat, sest seisuenergia vabaneb ainult tuumareaktsioonides",
+        "sourceHash": "f088ceffa46d3c94",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-momentum-and-energy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It has only kinetic energy ½mv², which is zero while it is at rest",
+        "et": "Sellel on ainult kineetiline energia ½mv², mis on paigalseisu ajal null",
+        "sourceHash": "016bbd11fbcaf860",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-momentum-and-energy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It has unlimited energy, since a fast enough frame would give it any speed above c",
+        "et": "Sellel on piiramatu energia, sest piisavalt kiires taustsüsteemis saaks sellele anda mistahes kiiruse üle c",
+        "sourceHash": "e3d71d7ee6ab3cf2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-momentum-and-energy-m3"
+    }
+  ]
+}

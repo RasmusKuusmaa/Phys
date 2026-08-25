@@ -1,0 +1,56 @@
+{
+  "id": "relativistic-momentum-and-energy-item1",
+  "conceptId": "relativistic-momentum-and-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A charged particle in an accelerator keeps absorbing energy but never reaches the speed of light. Why?",
+    "et": "Kiirendis olev laetud osake neelab üha juurde energiat, kuid ei saavuta kunagi valguse kiirust. Miks?",
+    "sourceHash": "31615b6303ff88c3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its momentum and energy grow without limit as its speed approaches c, which it can approach but never reach",
+        "et": "Selle impulss ja energia kasvavad piiramatult, kui kiirus läheneb c-le, millele osake saab läheneda, kuid mida ei saavuta kunagi",
+        "sourceHash": "453d3997d5680c92",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It does pass c once enough energy is supplied; accelerators are simply not yet powerful enough",
+        "et": "Piisava energia juures see siiski ületab c; kiirendid lihtsalt ei ole veel piisavalt võimsad",
+        "sourceHash": "b223f58e3f278ee6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-momentum-and-energy-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Its momentum stays mv, so any energy beyond that turns into heat instead",
+        "et": "Selle impulss jääb mv-ks, seega muutub kogu ülejäänud energia hoopis soojuseks",
+        "sourceHash": "b7849f5a5e363f20",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-momentum-and-energy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Mass–energy equivalence applies only to nuclear processes, so accelerator energies do not count",
+        "et": "Massi ja energia ekvivalentsus kehtib ainult tuumaprotsesside kohta, seega kiirendi energiad ei loe",
+        "sourceHash": "bdc0704a6e4ed57f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-momentum-and-energy-m1"
+    }
+  ]
+}

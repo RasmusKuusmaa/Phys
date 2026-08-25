@@ -35,7 +35,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "pressure-in-fluids",
     "quantum-tunneling",
     "rc-circuit-transients",
-    "relativistic-momentum-and-energy",
     "rotational-kinetic-energy",
     "spin-and-angular-momentum-in-quantum-mechanics",
     "statistical-definition-of-entropy",
