@@ -1,0 +1,56 @@
+{
+  "id": "the-derivative-item1",
+  "conceptId": "the-derivative",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The function f(x) = |x| is continuous at x = 0. Is it differentiable there?",
+    "et": "Funktsioon f(x) = |x| on kohal x = 0 pidev. Kas see on seal diferentseeruv?",
+    "sourceHash": "aa1fc3adc1ed9e2e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No — the slope approaches −1 from the left and +1 from the right, so no single limit exists",
+        "et": "Ei — tõus läheneb vasakult −1-le ja paremalt +1-le, seega ühtset piirväärtust ei ole",
+        "sourceHash": "f2f5b24e003c3010",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes — continuity at a point guarantees differentiability there",
+        "et": "Jah — pidevus punktis tagab seal diferentseeruvuse",
+        "sourceHash": "6e8d40d784f531b4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-derivative-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Yes, and the derivative is 0 because the function has a minimum there",
+        "et": "Jah, ja tuletis on 0, sest funktsioonil on seal miinimum",
+        "sourceHash": "e6536b0bd2396d34",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-derivative-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Yes — take two nearby points and compute the slope between them",
+        "et": "Jah — võta kaks lähedast punkti ja arvuta nendevaheline tõus",
+        "sourceHash": "75a2fe33e10f1e3b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-derivative-m1"
+    }
+  ]
+}

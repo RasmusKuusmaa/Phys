@@ -1,0 +1,10 @@
+{
+  "id": "the-derivative-m2",
+  "conceptId": "the-derivative",
+  "text": {
+    "en": "A function that is continuous everywhere must be differentiable everywhere.",
+    "et": "Kõikjal pidev funktsioon peab olema kõikjal diferentseeruv.",
+    "sourceHash": "aba336aa58fe016e",
+    "stale": false
+  }
+}

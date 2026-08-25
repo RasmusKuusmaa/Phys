@@ -1,0 +1,20 @@
+Average rate of change is easy: pick two points, divide the change in output by
+the change in input. Instantaneous rate of change is the hard case, because at
+a single instant both changes are zero and 0/0 says nothing. The derivative
+solves this by taking the average rate over an interval and then letting the
+interval shrink to nothing — a limit, not a very small subtraction.
+
+Geometrically that limit is the slope of the tangent line. A secant through two
+nearby points has a definite slope; as the second point slides towards the
+first, those slopes settle on a value, and that value is f′(a). This is why the
+derivative answers "how fast, right now" for velocity, for reaction rate, for
+marginal cost — anything where the average over an interval is not the answer
+wanted.
+
+Two boundaries are worth knowing. Differentiability is strictly stronger than
+continuity: |x| is continuous at 0 but has no derivative there, because the
+slope approaches −1 from one side and +1 from the other and no single limit
+exists. A corner is enough to break it. And a zero derivative means only that
+the tangent is horizontal — a maximum, a minimum *or* an inflection like x³ at
+the origin. Finding f′(x) = 0 locates the candidates; deciding which kind they
+are takes further work.

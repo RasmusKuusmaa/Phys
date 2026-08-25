@@ -1,0 +1,10 @@
+{
+  "id": "the-derivative-m1",
+  "conceptId": "the-derivative",
+  "text": {
+    "en": "The derivative is the slope of a line drawn between two nearby points, not a limit.",
+    "et": "Tuletis on kahe lähedase punkti vahele tõmmatud sirge tõus, mitte piirväärtus.",
+    "sourceHash": "7c788345e05f3102",
+    "stale": false
+  }
+}

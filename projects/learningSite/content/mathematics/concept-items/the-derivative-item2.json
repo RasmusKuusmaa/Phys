@@ -1,0 +1,56 @@
+{
+  "id": "the-derivative-item2",
+  "conceptId": "the-derivative",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "For f(x) = x³, the derivative at x = 0 is zero. What does that tell you about the point?",
+    "et": "Funktsiooni f(x) = x³ tuletis kohal x = 0 on null. Mida see punkti kohta ütleb?",
+    "sourceHash": "afe630596d17b775",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Only that the tangent is horizontal — here it is an inflection point, not an extremum",
+        "et": "Ainult seda, et puutuja on horisontaalne — siin on tegu käänupunktiga, mitte ekstreemumiga",
+        "sourceHash": "80dea55861b91318",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That the function has a minimum there",
+        "et": "Et funktsioonil on seal miinimum",
+        "sourceHash": "fccc150f04f6c337",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-derivative-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That the function is not differentiable there",
+        "et": "Et funktsioon ei ole seal diferentseeruv",
+        "sourceHash": "d01449f8c518e27a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-derivative-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That the slope between two nearby points is zero, so the function is constant",
+        "et": "Et kahe lähedase punkti vaheline tõus on null, seega on funktsioon konstantne",
+        "sourceHash": "c403928a3050a903",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-derivative-m1"
+    }
+  ]
+}

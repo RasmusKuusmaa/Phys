@@ -1,0 +1,21 @@
+{
+  "id": "the-derivative",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "calculus",
+  "title": {
+    "en": "The derivative",
+    "et": "Tuletis",
+    "sourceHash": "3b0d2728c425d2ce",
+    "stale": false
+  },
+  "summary": {
+    "en": "The derivative of a function at a point is the limit of its difference quotient — the instantaneous rate of change, equal to the slope of the tangent line there.",
+    "et": "Funktsiooni tuletis punktis on selle diferentssuhte piirväärtus — hetkeline muutumiskiirus, mis võrdub sealse puutuja tõusuga.",
+    "sourceHash": "bcfa8598d0a49f96",
+    "stale": false
+  },
+  "prerequisites": [
+    "limits-of-functions"
+  ]
+}
