@@ -1,0 +1,56 @@
+{
+  "id": "length-contraction-item2",
+  "conceptId": "length-contraction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A cube travels through a laboratory at a large fraction of the speed of light. Which of its edges are measured as contracted in the laboratory frame?",
+    "et": "Kuup liigub läbi labori kiirusega, mis moodustab suure osa valguse kiirusest. Millised selle servad on labori taustsüsteemis mõõdetuna kahanenud?",
+    "sourceHash": "0e334d277979c5be",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Only the edges lying along the direction of motion",
+        "et": "Ainult need servad, mis on piki liikumissuunda",
+        "sourceHash": "aba7fbf701b257c6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "All three edges equally, so the cube stays a cube",
+        "et": "Kõik kolm serva võrdselt, nii et kuup jääb kuubiks",
+        "sourceHash": "60166a02f9302699",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "length-contraction-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All three edges, and the crew travelling with the cube measure the same shrunken cube",
+        "et": "Kõik kolm serva ning kuubiga kaasas olev meeskond mõõdab sama kahanenud kuubi",
+        "sourceHash": "0f166679a85b03e1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "length-contraction-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The leading edge only, because air resistance compresses the front face",
+        "et": "Ainult esiserv, sest õhutakistus surub esikülge kokku",
+        "sourceHash": "da21c2af56da4efb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "length-contraction-m1"
+    }
+  ]
+}

@@ -28,7 +28,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "heisenberg-uncertainty-principle",
     "kirchhoffs-laws-and-circuit-analysis",
     "lagrangian-mechanics",
-    "length-contraction",
     "maxwells-equations",
     "moment-of-inertia-and-rotational-dynamics",
     "particle-in-a-box",

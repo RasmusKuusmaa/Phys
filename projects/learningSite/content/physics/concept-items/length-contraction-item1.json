@@ -1,0 +1,56 @@
+{
+  "id": "length-contraction-item1",
+  "conceptId": "length-contraction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A rod 100 m long in its own rest frame flies past a laboratory at 0.6c, pointing along its direction of motion. What lengths do the laboratory and a rider on the rod measure?",
+    "et": "Omaenda taustsüsteemis 100 m pikkune varras möödub laborist kiirusega 0,6c, olles suunatud piki liikumissuunda. Millised pikkused mõõdavad labor ja vardal kaasas olev vaatleja?",
+    "sourceHash": "4cf91bd416e093be",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The laboratory measures less than 100 m; the rider still measures 100 m",
+        "et": "Labor mõõdab alla 100 m; kaasas olev vaatleja mõõdab endiselt 100 m",
+        "sourceHash": "f3e5f339a51c2a7c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both measure the same contracted value, less than 100 m",
+        "et": "Mõlemad mõõdavad sama kahanenud väärtust, alla 100 m",
+        "sourceHash": "c714b334ac1b8536",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "length-contraction-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The laboratory measures less than 100 m because the forces that accelerated the rod compressed it",
+        "et": "Labor mõõdab alla 100 m, sest varrast kiirendanud jõud surusid selle kokku",
+        "sourceHash": "c22fe28e69f27066",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "length-contraction-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The laboratory measures the rod both shorter and correspondingly thinner across its width",
+        "et": "Labor mõõdab varda nii lühemaks kui ka vastavalt peenemaks",
+        "sourceHash": "9a9cb638dd8138b9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "length-contraction-m2"
+    }
+  ]
+}
