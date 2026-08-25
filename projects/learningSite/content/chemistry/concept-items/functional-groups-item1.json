@@ -1,0 +1,56 @@
+{
+  "id": "functional-groups-item1",
+  "conceptId": "functional-groups",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Ethanol (a 2-carbon alcohol) and a 20-carbon alcohol both react with sodium to release hydrogen gas. Why?",
+    "et": "Etanool (2-süsinikuline alkohol) ja 20-süsinikuline alkohol reageerivad mõlemad naatriumiga, vabastades vesinikgaasi. Miks?",
+    "sourceHash": "a6e18e3c3b23f20f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both share the same –OH functional group, which is what reacts with sodium",
+        "et": "Mõlemal on sama –OH funktsionaalrühm, mis naatriumiga reageeribki",
+        "sourceHash": "c9c8ca409bd72a2a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Chain length has no effect on any organic reaction whatsoever",
+        "et": "Ahela pikkusel ei ole üldse mingit mõju ühelegi orgaanilisele reaktsioonile",
+        "sourceHash": "3d663c105b3e17b5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functional-groups-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because both molecules have identical overall size",
+        "et": "Sest mõlemal molekulil on identne üldsuurus",
+        "sourceHash": "dfe59ec4ba299e64",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functional-groups-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the carbon skeleton, not any specific group, drives the reaction",
+        "et": "Sest reaktsiooni juhib süsinikskelett, mitte mingi kindel rühm",
+        "sourceHash": "3c61fb51ef992e32",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functional-groups-m3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "functional-groups",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "organic-chemistry",
+  "title": {
+    "en": "Functional groups",
+    "et": "Funktsionaalrühmad",
+    "sourceHash": "cc28b98bf64b8940",
+    "stale": false
+  },
+  "summary": {
+    "en": "A functional group is the specific arrangement of atoms in a molecule that reacts, so molecules with the same functional group undergo the same characteristic reactions regardless of how large or different the rest of the molecule is.",
+    "et": "Funktsionaalrühm on molekulis reageeriv konkreetne aatomite paigutus, seega alluvad sama funktsionaalrühmaga molekulid samadele iseloomulikele reaktsioonidele, olenemata sellest, kui suur või erinev on ülejäänud molekul.",
+    "sourceHash": "2d02104c8adc9fbf",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-bonding"
+  ]
+}

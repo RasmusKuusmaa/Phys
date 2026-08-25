@@ -1,0 +1,56 @@
+{
+  "id": "functional-groups-item2",
+  "conceptId": "functional-groups",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What determines whether an organic molecule undergoes a particular characteristic reaction?",
+    "et": "Mis määrab, kas orgaaniline molekul läbib teatud iseloomuliku reaktsiooni?",
+    "sourceHash": "2df92388f410dea6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The presence of the functional group that reaction requires, regardless of the rest of the molecule",
+        "et": "Selle reaktsiooni jaoks vajaliku funktsionaalrühma olemasolu, sõltumata ülejäänud molekulist",
+        "sourceHash": "2df00571df9a4557",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The total number of carbon atoms in the molecule",
+        "et": "Molekulis olevate süsinikuaatomite koguarv",
+        "sourceHash": "9810d6210b40012f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functional-groups-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Whether the molecule is large or small overall",
+        "et": "Kas molekul on üldiselt suur või väike",
+        "sourceHash": "de86fc2558fc1463",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functional-groups-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The shape of the carbon skeleton alone",
+        "et": "Ainult süsinikskeleti kuju",
+        "sourceHash": "8ab4b6f550b15ddc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functional-groups-m1"
+    }
+  ]
+}
