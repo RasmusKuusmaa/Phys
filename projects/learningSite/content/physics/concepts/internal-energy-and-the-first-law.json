@@ -1,0 +1,21 @@
+{
+  "id": "internal-energy-and-the-first-law",
+  "subject": "physics",
+  "level": "L2",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Internal energy and the first law",
+    "et": "Siseenergia ja termodünaamika esimene seadus",
+    "sourceHash": "a1326a19e3d65627",
+    "stale": false
+  },
+  "summary": {
+    "en": "The first law of thermodynamics is energy conservation applied to a system's internal energy: it changes only by heat added and work done, ΔU = Q − W, and internal energy itself depends only on the system's current state, not on how it got there.",
+    "et": "Termodünaamika esimene seadus on energia jäävus rakendatuna süsteemi siseenergiale: see muutub ainult juurdeantud soojuse ja tehtud töö võrra, ΔU = Q − W, ning siseenergia ise sõltub ainult süsteemi hetkeolekust, mitte sellest, kuidas see sinna jõudis.",
+    "sourceHash": "81ea6b1beb98180e",
+    "stale": false
+  },
+  "prerequisites": [
+    "laws-of-thermodynamics"
+  ]
+}

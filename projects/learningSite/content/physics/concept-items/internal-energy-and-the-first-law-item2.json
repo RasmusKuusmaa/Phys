@@ -1,0 +1,56 @@
+{
+  "id": "internal-energy-and-the-first-law-item2",
+  "conceptId": "internal-energy-and-the-first-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A gas goes from state A to state B by two completely different processes, one direct and one via several intermediate steps. How does the change in internal energy compare between the two paths?",
+    "et": "Gaas liigub olekust A olekusse B kahe täiesti erineva protsessi kaudu, üks otse, teine mitme vahepealse sammu kaudu. Kuidas võrdub siseenergia muutus nende kahe tee vahel?",
+    "sourceHash": "2f4a239673c11442",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is exactly the same for both paths, since internal energy depends only on the states, not the path",
+        "et": "See on mõlema tee jaoks täpselt sama, sest siseenergia sõltub ainult olekutest, mitte teest",
+        "sourceHash": "7930382345d7cfda",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It differs, since the two processes involve different amounts of heat and work",
+        "et": "See erineb, sest kaks protsessi hõlmavad erinevaid soojuse ja töö koguseid",
+        "sourceHash": "773a56ec6a89c157",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "internal-energy-and-the-first-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is larger for the path with more intermediate steps",
+        "et": "See on suurem rohkemate vaheastmetega tee puhul",
+        "sourceHash": "d94e6019ba8da370",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "internal-energy-and-the-first-law-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be compared without knowing the gas's exact composition",
+        "et": "Seda ei saa võrrelda, teadmata gaasi täpset koostist",
+        "sourceHash": "d3634491780b58bd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "internal-energy-and-the-first-law-m1"
+    }
+  ]
+}

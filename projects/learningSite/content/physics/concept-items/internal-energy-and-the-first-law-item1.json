@@ -1,0 +1,56 @@
+{
+  "id": "internal-energy-and-the-first-law-item1",
+  "conceptId": "internal-energy-and-the-first-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A gas is compressed while heat is simultaneously removed from it, such that the heat removed exceeds the work done on it. What happens to its internal energy?",
+    "et": "Gaasi surutakse kokku, samal ajal kui sellest eemaldatakse soojust, nii et eemaldatud soojus ületab sellele tehtud töö. Mis juhtub selle siseenergiaga?",
+    "sourceHash": "8cd9889ad35f6f92",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It decreases, since ΔU = Q − W and Q is more negative than W is positive here",
+        "et": "See väheneb, sest ΔU = Q − W ja Q on siin negatiivsem, kui W on positiivne",
+        "sourceHash": "13f85c0f15ae7898",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It always increases, since compressing a gas always adds energy to it",
+        "et": "See kasvab alati, sest gaasi kokku surumine lisab sellele alati energiat",
+        "sourceHash": "628903bf7ab403fd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "internal-energy-and-the-first-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stays exactly constant, since work and heat cancel by definition",
+        "et": "See jääb täpselt konstantseks, sest töö ja soojus tühistavad üksteist definitsiooni järgi",
+        "sourceHash": "6dd76732c2e3521b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "internal-energy-and-the-first-law-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be determined without knowing the exact process path taken",
+        "et": "Seda ei saa kindlaks teha, teadmata täpset läbitud protsessi teed",
+        "sourceHash": "a2521818cc2d0546",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "internal-energy-and-the-first-law-m3"
+    }
+  ]
+}
