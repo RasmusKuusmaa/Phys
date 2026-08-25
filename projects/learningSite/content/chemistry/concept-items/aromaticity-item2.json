@@ -1,0 +1,56 @@
+{
+  "id": "aromaticity-item2",
+  "conceptId": "aromaticity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does benzene typically undergo substitution reactions rather than the addition reactions typical of alkenes?",
+    "et": "Miks läbib benseen tüüpiliselt asendusreaktsioone, mitte alkeenidele tüüpilisi liitumisreaktsioone?",
+    "sourceHash": "f5fc66c258570edb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Addition would destroy the delocalised ring system, which costs far more stability than substitution",
+        "et": "Liitumine hävitaks delokaliseeritud ringisüsteemi, mis maksab palju rohkem stabiilsust kui asendus",
+        "sourceHash": "062ab896a2511dfe",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Benzene contains no double bonds at all, so addition is chemically impossible",
+        "et": "Benseen ei sisalda üldse kaksiksidemeid, seega on liitumine keemiliselt võimatu",
+        "sourceHash": "35e3d2458327cfd4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aromaticity-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Substitution only happens in compounds that smell aromatic",
+        "et": "Asendus toimub ainult ühendites, mis lõhnavad aromaatselt",
+        "sourceHash": "bb2202dbd98a34df",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aromaticity-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Alkenes and aromatic rings always react by exactly the same mechanism",
+        "et": "Alkeenid ja aromaatsed ringid reageerivad alati täpselt sama mehhanismi järgi",
+        "sourceHash": "4994e76f56162acd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aromaticity-m1"
+    }
+  ]
+}

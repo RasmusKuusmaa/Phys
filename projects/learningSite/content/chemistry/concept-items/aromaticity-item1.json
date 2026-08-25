@@ -1,0 +1,56 @@
+{
+  "id": "aromaticity-item1",
+  "conceptId": "aromaticity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Benzene's structure is drawn with alternating single and double bonds, yet all six carbon–carbon bonds are measured to be identical in length. Why?",
+    "et": "Benseeni struktuuri joonistatakse vahelduvate üksik- ja kaksiksidemetega, ometi on mõõtmisel kõik kuus süsinik-süsinik sidet ühesuguse pikkusega. Miks?",
+    "sourceHash": "6e9a62a0dc1b62c4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The electrons are delocalised evenly around the whole ring, not fixed as alternating bonds",
+        "et": "Elektronid on ühtlaselt delokaliseeritud üle kogu ringi, mitte kinnistunud vahelduvate sidemetena",
+        "sourceHash": "1d926091bde94aa9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The measurement must be in error, since the drawing shows alternating bonds",
+        "et": "Mõõtmine peab olema vale, sest joonis näitab vahelduvaid sidemeid",
+        "sourceHash": "50416262b1bdfc6f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aromaticity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Benzene actually has three separate single-bonded rings",
+        "et": "Benseenil on tegelikult kolm eraldi üksiksidemega ringi",
+        "sourceHash": "9642cec9d0483045",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aromaticity-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Bond length depends only on the compound's smell, not its structure",
+        "et": "Sideme pikkus sõltub ainult ühendi lõhnast, mitte selle struktuurist",
+        "sourceHash": "7366754198be0470",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aromaticity-m3"
+    }
+  ]
+}

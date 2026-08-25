@@ -1,0 +1,21 @@
+{
+  "id": "aromaticity",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "organic-chemistry",
+  "title": {
+    "en": "Aromaticity",
+    "et": "Aromaatsus",
+    "sourceHash": "e5375bcb858ba165",
+    "stale": false
+  },
+  "summary": {
+    "en": "An aromatic ring like benzene has its electrons delocalised evenly around the whole ring rather than fixed in alternating single and double bonds, which makes it far more stable than a normal alkene and changes how it reacts.",
+    "et": "Aromaatne ring, näiteks benseen, omab elektrone, mis on ühtlaselt delokaliseeritud üle kogu ringi, mitte kinnistunud vahelduvatesse üksik- ja kaksiksidemetesse, mistõttu on see tavalisest alkeenist palju stabiilsem ja reageerib teisiti.",
+    "sourceHash": "956525bebad0411e",
+    "stale": false
+  },
+  "prerequisites": [
+    "functional-groups"
+  ]
+}
