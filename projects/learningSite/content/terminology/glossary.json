@@ -14,6 +14,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/õigsus/1/est"
   },
   {
+    "id": "adiabatic",
+    "en": "adiabatic",
+    "et": "adiabaatiline",
+    "domain": "thermodynamics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/adiabaatiline/1/est"
+  },
+  {
     "id": "alternating-current",
     "en": "alternating current",
     "et": "vahelduvvool",
@@ -117,6 +124,13 @@
     "et": "pidevusvõrrand",
     "domain": "fluid-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/pidevusvõrrand/1/est"
+  },
+  {
+    "id": "convection",
+    "en": "convection",
+    "et": "konvektsioon",
+    "domain": "thermodynamics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/konvektsioon/1/est"
   },
   {
     "id": "coulomb-constant",
@@ -432,6 +446,13 @@
     "et": "siseenergia",
     "domain": "thermodynamics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/siseenergia/1/est"
+  },
+  {
+    "id": "isothermal",
+    "en": "isothermal",
+    "et": "isotermiline",
+    "domain": "thermodynamics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/isotermiline/1/est"
   },
   {
     "id": "isotope",
@@ -833,6 +854,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/temperatuur/1/est"
   },
   {
+    "id": "thermal-conduction",
+    "en": "conduction",
+    "et": "soojusjuhtivus",
+    "domain": "thermodynamics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/soojusjuhtivus/1/est"
+  },
+  {
     "id": "thermal-efficiency",
     "en": "thermal efficiency",
     "et": "kasutegur",
@@ -845,6 +873,13 @@
     "et": "soojuspaisumine",
     "domain": "thermodynamics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/soojuspaisumine/1/est"
+  },
+  {
+    "id": "thermal-radiation",
+    "en": "radiation",
+    "et": "soojuskiirgus",
+    "domain": "thermodynamics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/soojuskiirgus/1/est"
   },
   {
     "id": "time",
