@@ -1,0 +1,56 @@
+{
+  "id": "the-definite-integral-item2",
+  "conceptId": "the-definite-integral",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can any antiderivative be used when evaluating a definite integral by the fundamental theorem?",
+    "et": "Miks võib Newton-Leibnizi valemiga määratud integraali arvutades kasutada mistahes algfunktsiooni?",
+    "sourceHash": "8b9aa58cd514a01e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the constant cancels when the difference F(b) − F(a) is taken",
+        "et": "Sest vahe F(b) − F(a) võtmisel konstant taandub",
+        "sourceHash": "b652a1b4c79ded8d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because definite integrals are also families of functions",
+        "et": "Sest ka määratud integraalid on funktsioonide pered",
+        "sourceHash": "bc5c3fc6d039a6d9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-definite-integral-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the constant must be chosen to make the result positive",
+        "et": "Sest konstant tuleb valida nii, et tulemus oleks positiivne",
+        "sourceHash": "eac369273af9b397",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-definite-integral-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the constant has to be added back at the end",
+        "et": "Sest konstant tuleb lõpuks tagasi liita",
+        "sourceHash": "d76ee67bac8bfb5e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-definite-integral-m3"
+    }
+  ]
+}

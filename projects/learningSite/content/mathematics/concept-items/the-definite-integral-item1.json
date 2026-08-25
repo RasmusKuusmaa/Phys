@@ -1,0 +1,56 @@
+{
+  "id": "the-definite-integral-item1",
+  "conceptId": "the-definite-integral",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A function is negative across the whole interval [a, b]. What is the sign of its definite integral there?",
+    "et": "Funktsioon on kogu lõigul [a, b] negatiivne. Milline on selle määratud integraali märk sellel lõigul?",
+    "sourceHash": "41eeea23349e746d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Negative — the integral is a signed total, and area below the axis counts as negative",
+        "et": "Negatiivne — integraal on märgiga kogusumma ja telje all olev pindala loeb negatiivsena",
+        "sourceHash": "65a6390d66d36ba7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Positive, since area is always a positive quantity",
+        "et": "Positiivne, sest pindala on alati positiivne suurus",
+        "sourceHash": "bc21a3638925050c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-definite-integral-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Undetermined until the constant of integration is chosen",
+        "et": "Määramata, kuni integreerimiskonstant on valitud",
+        "sourceHash": "f94eba7868e8212c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-definite-integral-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is a family of values, one for each antiderivative",
+        "et": "See on väärtuste pere, üks iga algfunktsiooni kohta",
+        "sourceHash": "00adb98433ec4e02",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-definite-integral-m2"
+    }
+  ]
+}

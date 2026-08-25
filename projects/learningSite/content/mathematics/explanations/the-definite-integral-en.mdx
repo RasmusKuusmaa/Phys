@@ -1,0 +1,20 @@
+The definite integral starts from a completely different idea than the
+indefinite one. Slice the region under a curve between a and b into thin
+rectangles, add their areas, then let the slices get thinner without bound. If
+those sums converge, the limit is the Riemann integral — a single number, not
+a function, standing for an accumulated total.
+
+That framing is what makes it useful far beyond area. Slice a journey into short
+intervals where the velocity is nearly constant and the sum of v·Δt approaches
+the distance travelled. Slice a push into intervals where the force is nearly
+constant and the sum of F·Δx approaches the work done. Whenever a quantity is
+built by accumulating a rate over an interval, it is a definite integral.
+
+The fundamental theorem of calculus is the surprise: this limit of sums can be
+computed by antidifferentiation. Find any F with F′ = f and the integral is
+F(b) − F(a). Two consequences follow directly. The +C is irrelevant here,
+because it cancels in the subtraction — which is why "any antiderivative" is
+enough. And the result is *signed*: stretches where the function is negative
+contribute negatively, so an integral can come out negative or zero even though
+the region plainly has area. If unsigned area is what you want, integrate the
+absolute value, or split the interval at the crossings and add the pieces.
