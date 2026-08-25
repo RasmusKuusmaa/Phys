@@ -1,0 +1,22 @@
+{
+  "id": "nucleophilic-substitution",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "organic-chemistry",
+  "title": {
+    "en": "Nucleophilic substitution",
+    "et": "Nukleofiilne asendusreaktsioon",
+    "sourceHash": "c3563b5998c4166b",
+    "stale": false
+  },
+  "summary": {
+    "en": "A nucleophile is an electron-rich species that attacks an electron-poor carbon, displacing a leaving group; the reaction can happen in one concerted step or in two steps through a stable intermediate, and which pathway operates changes what predicts the outcome.",
+    "et": "Nukleofiil on elektronirikas osake, mis ründab elektronivaest süsinikku, tõrjudes välja lahkuva rühma; reaktsioon võib toimuda ühes samaaegses etapis või kahes etapis läbi stabiilse vaheühendi, ja see, milline tee toimib, muudab seda, mis tulemust ennustab.",
+    "sourceHash": "6bb08ae34cb90f57",
+    "stale": false
+  },
+  "prerequisites": [
+    "functional-groups",
+    "reaction-kinetics"
+  ]
+}

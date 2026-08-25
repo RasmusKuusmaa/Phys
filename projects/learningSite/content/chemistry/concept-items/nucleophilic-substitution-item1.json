@@ -1,0 +1,56 @@
+{
+  "id": "nucleophilic-substitution-item1",
+  "conceptId": "nucleophilic-substitution",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In a nucleophilic substitution reaction, what role does the nucleophile play?",
+    "et": "Millist rolli mängib nukleofiilses asendusreaktsioonis nukleofiil?",
+    "sourceHash": "dc48d290c101a631",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is electron-rich and attacks an electron-poor carbon, displacing the leaving group",
+        "et": "See on elektronirikas ja ründab elektronivaest süsinikku, tõrjudes lahkuva rühma välja",
+        "sourceHash": "b054c81a06320fe1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is always identical to a base, playing exactly the same chemical role",
+        "et": "See on alati identne alusega, mängides täpselt sama keemilist rolli",
+        "sourceHash": "705f69354104b037",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nucleophilic-substitution-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It only reacts once the leaving group has fully departed on its own",
+        "et": "See reageerib alles siis, kui lahkuv rühm on täielikult iseenesest lahkunud",
+        "sourceHash": "3b40aabd862e4640",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nucleophilic-substitution-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is electron-poor and seeks out an electron-rich carbon",
+        "et": "See on elektronivaene ja otsib elektronirikast süsinikku",
+        "sourceHash": "cdaa1ec582dfc48a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nucleophilic-substitution-m1"
+    }
+  ]
+}

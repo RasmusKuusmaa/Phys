@@ -1,0 +1,56 @@
+{
+  "id": "nucleophilic-substitution-item2",
+  "conceptId": "nucleophilic-substitution",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two different nucleophilic substitution reactions turn out to follow different mechanisms — one step versus two. What does this affect?",
+    "et": "Kaks eri nukleofiilset asendusreaktsiooni kulgevad erinevate mehhanismide järgi — üks etapp versus kaks. Mida see mõjutab?",
+    "sourceHash": "b25243a3ee7ae0b6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "What predicts the rate and outcome — a stable intermediate changes which factors matter",
+        "et": "Seda, mis ennustab kiirust ja tulemust — stabiilne vaheühend muudab seda, millised tegurid loevad",
+        "sourceHash": "98739c6201c1a791",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing, since all nucleophilic substitutions proceed identically",
+        "et": "Mitte midagi, sest kõik nukleofiilsed asendusreaktsioonid kulgevad identselt",
+        "sourceHash": "7d2eb6d04b51bfc4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nucleophilic-substitution-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only the colour of the product, not its identity",
+        "et": "Ainult saaduse värvust, mitte selle identiteeti",
+        "sourceHash": "54e65e3ca558a4f1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nucleophilic-substitution-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Whether a nucleophile is involved at all",
+        "et": "Seda, kas nukleofiil üldse osaleb",
+        "sourceHash": "23dd73be3c8abb1d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nucleophilic-substitution-m3"
+    }
+  ]
+}
