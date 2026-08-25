@@ -1,0 +1,56 @@
+{
+  "id": "buoyancy-and-archimedes-principle-item1",
+  "conceptId": "buoyancy-and-archimedes-principle",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A steel ship floats while a steel bolt of the same material sinks. What explains the difference?",
+    "et": "Terasest laev püsib vee peal, samal ajal kui sama materjali terasepolt vajub põhja. Mis seda erinevust selgitab?",
+    "sourceHash": "bdc5f21e985b95c9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The ship's hull displaces enough water to weigh as much as the ship, while the bolt cannot",
+        "et": "Laeva kere tõrjub välja piisavalt vett, et see kaaluks sama palju kui laev, polt aga ei suuda seda",
+        "sourceHash": "050a34c7ada55adf",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The ship is lighter than the bolt, and light objects always float",
+        "et": "Laev on poldist kergem ja kerged kehad jäävad alati pinnale",
+        "sourceHash": "555e43f84b660e46",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "buoyancy-and-archimedes-principle-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Gravity stops acting on the ship once it is afloat",
+        "et": "Raskusjõud lakkab laevale mõjumast, kui see kord juba ujub",
+        "sourceHash": "f69c0cf86ce3eb8b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "buoyancy-and-archimedes-principle-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The bolt sinks deeper, and the buoyant force grows with depth until it stabilises",
+        "et": "Polt vajub sügavamale ja ülestõukejõud kasvab sügavusega, kuni stabiliseerub",
+        "sourceHash": "264f74769a278478",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "buoyancy-and-archimedes-principle-m3"
+    }
+  ]
+}

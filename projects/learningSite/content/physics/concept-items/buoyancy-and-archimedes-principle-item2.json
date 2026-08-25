@@ -1,0 +1,56 @@
+{
+  "id": "buoyancy-and-archimedes-principle-item2",
+  "conceptId": "buoyancy-and-archimedes-principle",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A fully submerged block is lowered from just under the surface to twice that depth. What happens to the buoyant force on it?",
+    "et": "Täielikult vee all olev klots lastakse pinna alt kaks korda sügavamale. Mis juhtub sellele mõjuva ülestõukejõuga?",
+    "sourceHash": "c4c4397fb1dab408",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It stays the same, since the volume of fluid displaced has not changed",
+        "et": "See jääb samaks, sest väljatõrjutud vedeliku ruumala ei ole muutunud",
+        "sourceHash": "cbfa5dd861b774ec",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doubles, because the pressure at that depth has roughly doubled",
+        "et": "See kahekordistub, sest rõhk sel sügavusel on ligikaudu kahekordistunud",
+        "sourceHash": "d5cd74f5f233346a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "buoyancy-and-archimedes-principle-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It falls to zero, because gravity takes over completely below the surface",
+        "et": "See langeb nulli, sest pinna all võtab raskusjõud täielikult võimust",
+        "sourceHash": "a1a3c12418784be8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "buoyancy-and-archimedes-principle-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on the block's weight rather than on the fluid it displaces",
+        "et": "See sõltub klotsi raskusest, mitte väljatõrjutud vedelikust",
+        "sourceHash": "f68c0bcb8eaf66a1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "buoyancy-and-archimedes-principle-m1"
+    }
+  ]
+}
