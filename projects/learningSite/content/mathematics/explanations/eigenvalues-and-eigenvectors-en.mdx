@@ -1,0 +1,24 @@
+Most vectors, hit by a matrix, come out pointing somewhere new: rotated,
+sheared, tangled up with the other dimensions. An eigenvector is the exception —
+a direction the matrix leaves alone, merely stretching or shrinking it, possibly
+flipping it end to end. In symbols, Av = λv: applying the matrix to v gives back
+the same vector times a single number, the eigenvalue λ. Along that one
+direction, a matrix multiplication has collapsed to ordinary multiplication.
+
+Eigenvectors are found by solving det(A − λI) = 0 for λ, then solving
+(A − λI)v = 0 for v at each root — which is exactly where the determinant's
+meaning from earlier pays off: A − λI is singular precisely when it collapses
+some direction to zero, and that collapsed direction is the eigenvector. A zero
+eigenvalue is not a failure of the method; it says the matrix itself is not
+invertible, since some vector is being squashed to nothing.
+
+The payoff is a change of perspective. Described in the standard axes, a
+transformation can look hopelessly tangled. Described along its eigenvectors —
+when there are enough independent ones to serve as a basis — the same
+transformation is just a set of independent stretches, one number per axis, with
+no coupling between them at all. This is why eigenvectors are the natural
+description of a system's own modes: a vibrating structure's normal modes, a
+quantum system's stationary states, and the stable directions of any linear
+process are found by exactly this calculation. Eigenvectors belonging to
+different eigenvalues also point in genuinely different directions — never the
+same one — which is what makes them useful as an alternative set of axes at all.

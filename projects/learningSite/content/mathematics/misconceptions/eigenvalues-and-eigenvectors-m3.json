@@ -1,0 +1,10 @@
+{
+  "id": "eigenvalues-and-eigenvectors-m3",
+  "conceptId": "eigenvalues-and-eigenvectors",
+  "text": {
+    "en": "Eigenvectors for different eigenvalues of the same matrix generally point in the same direction.",
+    "et": "Sama maatriksi eri omaväärtustele vastavad omavektorid osutavad üldiselt samas suunas.",
+    "sourceHash": "9c131329b0b7a1c5",
+    "stale": false
+  }
+}

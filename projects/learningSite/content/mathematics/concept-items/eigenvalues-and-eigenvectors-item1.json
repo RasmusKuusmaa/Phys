@@ -1,0 +1,56 @@
+{
+  "id": "eigenvalues-and-eigenvectors-item1",
+  "conceptId": "eigenvalues-and-eigenvectors",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A matrix transforms most vectors by both rotating and scaling them. What is special about an eigenvector?",
+    "et": "Maatriks teisendab enamikku vektoreid nii pöörates kui ka skaleerides. Mis on omavektori juures erilist?",
+    "sourceHash": "71f85494d98de988",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The matrix only scales it — its direction is unchanged, possibly reversed",
+        "et": "Maatriks ainult skaleerib seda — selle suund ei muutu, võimalik, et pöördub vastupidiseks",
+        "sourceHash": "7d11054ce8449d97",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing — every vector the matrix acts on is an eigenvector",
+        "et": "Mitte midagi — iga vektor, millele maatriks mõjub, on omavektor",
+        "sourceHash": "3d7c38cfe28107c5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "eigenvalues-and-eigenvectors-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is rotated by exactly 90 degrees",
+        "et": "See pöördub täpselt 90 kraadi võrra",
+        "sourceHash": "28a0b34db3af5773",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "eigenvalues-and-eigenvectors-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Its length is always preserved exactly",
+        "et": "Selle pikkus säilib alati täpselt",
+        "sourceHash": "0c979fe79b94b5f6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "eigenvalues-and-eigenvectors-m1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "eigenvalues-and-eigenvectors",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "linear-algebra",
+  "title": {
+    "en": "Eigenvalues and eigenvectors",
+    "et": "Omaväärtused ja omavektorid",
+    "sourceHash": "a5b6a9a39b29a7ab",
+    "stale": false
+  },
+  "summary": {
+    "en": "An eigenvector of a matrix is a direction the transformation only stretches, never rotates, and the stretch factor is its eigenvalue — finding them reveals the axes along which a complicated transformation acts as simply as multiplication.",
+    "et": "Maatriksi omavektor on suund, mida teisendus ainult venitab, kunagi ei pööra, ja venitusteguriks on selle omaväärtus — nende leidmine paljastab teljed, mille suunas keeruline teisendus toimib sama lihtsalt kui korrutamine.",
+    "sourceHash": "a361eb98618124e5",
+    "stale": false
+  },
+  "prerequisites": [
+    "determinants",
+    "vector-spaces"
+  ]
+}

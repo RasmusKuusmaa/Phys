@@ -1,0 +1,56 @@
+{
+  "id": "eigenvalues-and-eigenvectors-item2",
+  "conceptId": "eigenvalues-and-eigenvectors",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A matrix has an eigenvalue of 0. What does this say about the matrix?",
+    "et": "Maatriksi üks omaväärtus on 0. Mida see maatriksi kohta ütleb?",
+    "sourceHash": "531034ac5619c772",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is not invertible — the corresponding eigenvector is squashed to the zero vector",
+        "et": "See ei ole pööratav — vastav omavektor surutakse nullvektoriks",
+        "sourceHash": "4e2ddcadfd16208c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That eigenvector does not exist, since a zero eigenvalue is not allowed",
+        "et": "See omavektor ei eksisteeri, sest nulleigenväärtus ei ole lubatud",
+        "sourceHash": "eaf3d9993813a20b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "eigenvalues-and-eigenvectors-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The matrix scales every vector by zero",
+        "et": "Maatriks skaleerib iga vektorit nulliga",
+        "sourceHash": "d58abd85af7a64ef",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "eigenvalues-and-eigenvectors-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The matrix has no other eigenvalues besides zero",
+        "et": "Maatriksil ei ole peale nulli teisi omaväärtusi",
+        "sourceHash": "34a42cf4a391d908",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "eigenvalues-and-eigenvectors-m1"
+    }
+  ]
+}

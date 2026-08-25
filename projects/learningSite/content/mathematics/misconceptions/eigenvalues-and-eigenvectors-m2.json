@@ -1,0 +1,10 @@
+{
+  "id": "eigenvalues-and-eigenvectors-m2",
+  "conceptId": "eigenvalues-and-eigenvectors",
+  "text": {
+    "en": "An eigenvalue of zero means the corresponding eigenvector does not exist.",
+    "et": "Nulliga võrduv omaväärtus tähendab, et vastav omavektor ei eksisteeri.",
+    "sourceHash": "42acae2d3d11e4a1",
+    "stale": false
+  }
+}

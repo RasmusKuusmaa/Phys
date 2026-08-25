@@ -1,0 +1,10 @@
+{
+  "id": "eigenvalues-and-eigenvectors-m1",
+  "conceptId": "eigenvalues-and-eigenvectors",
+  "text": {
+    "en": "Every vector a matrix acts on is an eigenvector, just with different eigenvalues.",
+    "et": "Iga vektor, millele maatriks mõjub, on omavektor, ainult erineva omaväärtusega.",
+    "sourceHash": "dfb86b143b7d035b",
+    "stale": false
+  }
+}
