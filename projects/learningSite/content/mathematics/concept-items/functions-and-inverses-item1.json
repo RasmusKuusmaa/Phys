@@ -1,0 +1,56 @@
+{
+  "id": "functions-and-inverses-item1",
+  "conceptId": "functions-and-inverses",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does f(x) = x² have no inverse on all of the real numbers?",
+    "et": "Miks ei ole funktsioonil f(x) = x² kogu reaalarvude hulgal pöördfunktsiooni?",
+    "sourceHash": "e585158cf4c7be0a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is not one-to-one — 2 and −2 both map to 4, so the inverse could not choose",
+        "et": "See ei ole üksühene — nii 2 kui ka −2 kujutuvad arvuks 4, seega ei saaks pöördfunktsioon valida",
+        "sourceHash": "f89d49a6d5edad8a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because 1/x² is undefined at zero",
+        "et": "Sest 1/x² ei ole nullis määratud",
+        "sourceHash": "60e95c0f8479d9c6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-and-inverses-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because every function has an inverse, so the premise is wrong",
+        "et": "Sest igal funktsioonil on pöördfunktsioon, seega on eeldus vale",
+        "sourceHash": "d447f11d62374d75",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-and-inverses-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because squaring assigns two outputs to each input",
+        "et": "Sest ruutu tõstmine seab igale sisendile vastavusse kaks väljundit",
+        "sourceHash": "49eb192884ce179b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-and-inverses-m3"
+    }
+  ]
+}

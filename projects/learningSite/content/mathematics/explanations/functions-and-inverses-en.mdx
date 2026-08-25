@@ -1,0 +1,18 @@
+A function is a rule that assigns to each input exactly one output. The words
+"exactly one" carry the whole definition: a rule that could return either 2 or
+−2 for the same input is a relation but not a function, which is why √x is
+defined as the *non-negative* root rather than both.
+
+An inverse function runs the rule backwards, so f⁻¹(f(x)) = x. This only works
+if no two inputs share an output — if the function is one-to-one — because
+otherwise the inverse would face a choice it cannot make. Squaring fails this
+on the real line, since 2 and −2 both give 4. The standard repair is to
+restrict the domain: on x ≥ 0 squaring *is* one-to-one, and √x becomes its
+inverse. The same restriction is why arcsin returns values only in [−π/2, π/2].
+
+Notation causes real trouble here. f⁻¹(x) means the inverse function, not
+1/f(x) — the superscript −1 is doing a different job than in x⁻¹, and the two
+are usually completely different functions. For f(x) = 2x the inverse is x/2,
+while the reciprocal is 1/(2x). Reading the −1 as "reciprocal" is the single
+most common error with inverses, and it survives long past the point where
+students can otherwise handle the topic.

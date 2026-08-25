@@ -1,0 +1,56 @@
+{
+  "id": "functions-and-inverses-item2",
+  "conceptId": "functions-and-inverses",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "For f(x) = 2x, what is f⁻¹(x)?",
+    "et": "Mis on funktsiooni f(x) = 2x pöördfunktsioon f⁻¹(x)?",
+    "sourceHash": "fd9b23dd512bd1bc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "x/2, the operation that undoes doubling",
+        "et": "x/2, tehe, mis tühistab kahekordistamise",
+        "sourceHash": "5ecacdd389fcd6e4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "1/(2x), the reciprocal of the function",
+        "et": "1/(2x), funktsiooni pöördväärtus",
+        "sourceHash": "edd11c50e6848649",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-and-inverses-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "2x again, since doubling is its own inverse",
+        "et": "jälle 2x, sest kahekordistamine on iseenda pöördfunktsioon",
+        "sourceHash": "cba22ac8c09b8f77",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-and-inverses-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both x/2 and −x/2, since inverses come in pairs",
+        "et": "Nii x/2 kui ka −x/2, sest pöördfunktsioonid esinevad paarikaupa",
+        "sourceHash": "bfedc7335d0fda90",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-and-inverses-m3"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "functions-and-inverses",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "functions",
+  "title": {
+    "en": "Functions and inverses",
+    "et": "Funktsioonid ja pöördfunktsioonid",
+    "sourceHash": "0d8e3582ce9593fb",
+    "stale": false
+  },
+  "summary": {
+    "en": "A function assigns exactly one output to each input; it can be undone by an inverse function only when it is one-to-one, which is why domains often have to be restricted before an inverse exists.",
+    "et": "Funktsioon seab igale sisendile vastavusse täpselt ühe väljundi; seda saab pöördfunktsiooniga tagasi pöörata ainult siis, kui funktsioon on üksühene — just seepärast tuleb määramispiirkonda enne pöördfunktsiooni olemasolu sageli kitsendada.",
+    "sourceHash": "e8d40b7ab49cb4a5",
+    "stale": false
+  },
+  "prerequisites": []
+}
