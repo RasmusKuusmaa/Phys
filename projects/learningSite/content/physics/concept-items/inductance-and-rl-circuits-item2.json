@@ -1,0 +1,56 @@
+{
+  "id": "inductance-and-rl-circuits-item2",
+  "conceptId": "inductance-and-rl-circuits",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What sets the time constant of an RL circuit, and what does a larger inductance do to it?",
+    "et": "Mis määrab RL-ahela ajakonstandi ja mida teeb sellega suurem induktiivsus?",
+    "sourceHash": "e89f3985f38ef6bc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The time constant is L/R, so a larger inductance makes the current rise more slowly",
+        "et": "Ajakonstant on L/R, seega muudab suurem induktiivsus voolu tõusu aeglasemaks",
+        "sourceHash": "6401d78e3600cfda",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The time constant is R/L, so a larger inductance makes the current rise faster",
+        "et": "Ajakonstant on R/L, seega muudab suurem induktiivsus voolu tõusu kiiremaks",
+        "sourceHash": "987b35bd931b44ee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "inductance-and-rl-circuits-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The time constant depends only on the resistance, not the inductance",
+        "et": "Ajakonstant sõltub ainult takistusest, mitte induktiivsusest",
+        "sourceHash": "1d68d666849f2a3f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "inductance-and-rl-circuits-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Inductors have no time constant, since current changes instantaneously",
+        "et": "Induktiivpoolidel ei ole ajakonstanti, sest vool muutub hetkeliselt",
+        "sourceHash": "97fcb4c78e340e60",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "inductance-and-rl-circuits-m3"
+    }
+  ]
+}

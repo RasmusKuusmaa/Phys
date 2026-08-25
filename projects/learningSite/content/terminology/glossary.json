@@ -847,6 +847,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/aeg/1/est"
   },
   {
+    "id": "time-constant",
+    "en": "time constant",
+    "et": "ajakonstant",
+    "domain": "electromagnetism",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/ajakonstant/1/est"
+  },
+  {
     "id": "time-dilation",
     "en": "time dilation",
     "et": "aja dilatatsioon",

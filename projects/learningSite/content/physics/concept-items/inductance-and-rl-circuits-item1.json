@@ -1,0 +1,56 @@
+{
+  "id": "inductance-and-rl-circuits-item1",
+  "conceptId": "inductance-and-rl-circuits",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A switch closes on a battery, resistor and inductor in series. What happens to the current the instant the switch closes?",
+    "et": "Lüliti sulgub jadamisi ühendatud akust, takistist ja induktiivpoolist koosnevas ahelas. Mis juhtub vooluga hetkel, mil lüliti sulgub?",
+    "sourceHash": "5ad97caec06c4779",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It starts at zero and rises gradually — the inductor opposes the sudden change",
+        "et": "See algab nullist ja tõuseb järk-järgult — induktiivpool seab vastu järsule muutusele",
+        "sourceHash": "2c3b24bf7f5586a1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It jumps instantly to its final steady value",
+        "et": "See hüppab kohe oma lõplikule püsiväärtusele",
+        "sourceHash": "ed702a95d8b35616",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "inductance-and-rl-circuits-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It behaves exactly as a resistor alone would, unaffected by the inductor",
+        "et": "See käitub täpselt nagu ainult takisti, induktiivpoolist mõjutamata",
+        "sourceHash": "f65a058f2fec7773",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "inductance-and-rl-circuits-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It oscillates immediately between its maximum and zero",
+        "et": "See võngub kohe maksimumi ja nulli vahel",
+        "sourceHash": "aa06221c2d64ba0a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "inductance-and-rl-circuits-m2"
+    }
+  ]
+}

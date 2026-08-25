@@ -1,0 +1,25 @@
+An inductor is the electrical mirror image of a capacitor: where a capacitor
+opposes changes in *voltage* across it, an inductor opposes changes in
+*current* through it, via the electromagnetic induction of the changing
+magnetic field its own current creates. Try to change the current suddenly and
+the inductor generates a back-voltage fighting the change — not opposing
+current itself, since a steady current produces no changing flux and so no
+opposition at all.
+
+Close a switch on a battery, resistor and inductor in series and this
+opposition governs the whole approach to steady state. The current cannot
+jump to its final value instantly, because that would require an infinite
+rate of change and therefore an infinite back-voltage. Instead it climbs
+exponentially, exactly the shape RC charging takes, with a time constant
+τ = L/R rather than RC. A larger inductance means a stronger opposition to
+change and so a slower climb; a larger resistance limits the final current but
+also, less obviously, makes the *approach* faster, since R appears in the
+denominator.
+
+This is the precise inverse of the RC story: there, resistance delayed
+voltage; here, resistance (together with inductance) delays *current*. The
+inductor's stored energy sits in its magnetic field rather than an electric
+one, released as current decays when the source is removed rather than as
+voltage decays. Real inductors — solenoid windings, transformer coils, motor
+windings — all inherit this current-smoothing behaviour, which is exactly why
+inductors are used to suppress sudden current spikes in power supplies.

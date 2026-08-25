@@ -1,0 +1,38 @@
+{
+  "id": "rl-time-constant-solve-tau-errors",
+  "formulaId": "rl-time-constant-formula",
+  "solveFor": "tau",
+  "mistakes": [
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided resistance by inductance instead of inductance by resistance.",
+        "et": "Jagas takistuse induktiivsusega, selle asemel et jagada induktiivsus takistusega.",
+        "sourceHash": "90711bf5e1ef9e43",
+        "stale": false
+      },
+      "expression": "R/L",
+      "misconceptionId": "inductance-and-rl-circuits-m3"
+    },
+    {
+      "id": "used-product",
+      "description": {
+        "en": "Multiplied inductance and resistance instead of dividing.",
+        "et": "Korrutas induktiivsuse ja takistuse, selle asemel et jagada.",
+        "sourceHash": "dd8eab0a4ce5ce6d",
+        "stale": false
+      },
+      "expression": "L*R"
+    },
+    {
+      "id": "forgot-inductance",
+      "description": {
+        "en": "Ignored inductance, treating the time constant as resistance alone.",
+        "et": "Eiras induktiivsust, käsitledes ajakonstanti ainult takistusena.",
+        "sourceHash": "4c970b534e7ac427",
+        "stale": false
+      },
+      "expression": "R"
+    }
+  ]
+}

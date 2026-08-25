@@ -1,0 +1,33 @@
+{
+  "id": "rl-time-constant-solve-tau",
+  "formulaId": "rl-time-constant-formula",
+  "variables": [
+    {
+      "symbol": "L",
+      "min": 0.001,
+      "max": 5,
+      "unit": "H",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "R",
+      "min": 1,
+      "max": 1000,
+      "unit": "ohm",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "L",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "R",
+      "right": 0
+    }
+  ],
+  "solveFor": "tau"
+}

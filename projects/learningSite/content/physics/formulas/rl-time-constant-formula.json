@@ -1,0 +1,47 @@
+{
+  "id": "rl-time-constant-formula",
+  "conceptId": "inductance-and-rl-circuits",
+  "latex": "\\tau = \\frac{L}{R}",
+  "symbols": [
+    {
+      "symbol": "tau",
+      "name": {
+        "en": "time constant",
+        "et": "ajakonstant",
+        "sourceHash": "c686ad030e20b695",
+        "stale": false
+      },
+      "unit": "s"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "inductance",
+        "et": "induktiivsus",
+        "sourceHash": "d0e0b70173324474",
+        "stale": false
+      },
+      "unit": "H"
+    },
+    {
+      "symbol": "R",
+      "name": {
+        "en": "resistance",
+        "et": "takistus",
+        "sourceHash": "be970d090a9b0a23",
+        "stale": false
+      },
+      "unit": "ohm"
+    }
+  ],
+  "solveFor": [
+    "tau",
+    "L",
+    "R"
+  ],
+  "expressions": {
+    "tau": "L/R",
+    "L": "tau*R",
+    "R": "L/tau"
+  }
+}

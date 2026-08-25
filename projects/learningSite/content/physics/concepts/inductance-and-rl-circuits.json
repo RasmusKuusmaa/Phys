@@ -1,0 +1,22 @@
+{
+  "id": "inductance-and-rl-circuits",
+  "subject": "physics",
+  "level": "L3",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Inductance and RL circuits",
+    "et": "Induktiivsus ja RL-ahelad",
+    "sourceHash": "2ed012d753ffd6c0",
+    "stale": false
+  },
+  "summary": {
+    "en": "An inductor opposes changes in the current through it, not the current itself, so in an RL circuit the current approaches its final value exponentially — the same shape as RC charging, but delaying current instead of voltage.",
+    "et": "Induktiivpool seab vastu voolu muutumisele, mitte voolule endale, mistõttu RL-ahelas läheneb vool oma lõppväärtusele eksponentsiaalselt — sama kuju mis RC laadimisel, kuid see viivitab voolu, mitte pinget.",
+    "sourceHash": "72cd8db12ca64257",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-induction",
+    "rc-circuit-transients"
+  ]
+}
