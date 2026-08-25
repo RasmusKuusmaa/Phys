@@ -1,4 +1,4 @@
-import { readdirSync } from "node:fs";
+import { readdirSync, readFileSync } from "node:fs";
 import { CONTENT_ROOT, ContentValidationError, listSubjects, loadJsonFilesRaw } from "@/content/loader";
 import { loadGlossary, loadBannedVariants } from "@/content/glossary";
 import { loadConcepts } from "@/content/concepts";
@@ -15,9 +15,31 @@ import {
   coverageIssueConceptId,
   describeCoverageIssue,
 } from "@/content/checks/coverage";
+import { findHomoglyphs } from "@/content/checks/homoglyphs";
 import { waivedConcepts } from "@/content/coverageWaivers";
 import { findStaleLocalisedStrings } from "@/content/staleness";
 import { locales } from "@/i18n/locales";
+
+/** Every authored content file in a subject — JSON records and explanation prose. */
+function contentFiles(subject: string): string[] {
+  const root = `${CONTENT_ROOT}/${subject}`;
+  const out: string[] = [];
+  const walk = (dir: string) => {
+    let entries;
+    try {
+      entries = readdirSync(dir, { withFileTypes: true });
+    } catch {
+      return;
+    }
+    for (const entry of entries) {
+      const full = `${dir}/${entry.name}`;
+      if (entry.isDirectory()) walk(full);
+      else if (entry.name.endsWith(".json") || entry.name.endsWith(".mdx")) out.push(full);
+    }
+  };
+  walk(root);
+  return out.sort();
+}
 
 function listExplanationFiles(subject: string): string[] {
   try {
@@ -114,6 +136,17 @@ function main() {
       for (const file of loadJsonFilesRaw(`${CONTENT_ROOT}/${subject}`)) {
         for (const stalePath of findStaleLocalisedStrings(file.data)) {
           errors.push(`[${subject}] stale translation at ${file.filePath}#${stalePath}`);
+        }
+      }
+
+      // Cyrillic look-alikes are invisible in review but break search and
+      // screen readers, so they are caught mechanically rather than by eye.
+      for (const filePath of contentFiles(subject)) {
+        for (const issue of findHomoglyphs(filePath, readFileSync(filePath, "utf8"))) {
+          errors.push(
+            `[${subject}] non-Latin "${issue.character}" (${issue.codePoint}) at ` +
+              `${issue.filePath}:${issue.line} — ...${issue.context}...`,
+          );
         }
       }
     } catch (err) {
