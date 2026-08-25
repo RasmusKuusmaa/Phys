@@ -1,0 +1,56 @@
+{
+  "id": "rolling-motion-item1",
+  "conceptId": "rolling-motion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A solid ball and a hollow spherical shell, both the same mass and radius, are released from rest at the top of the same slope and roll down without slipping. Which reaches the bottom first?",
+    "et": "Massiivne kuul ja õõnes sfääriline kest, mõlemad sama massi ja raadiusega, lastakse paigalt lahti sama kaldpinna tipust ja veerevad alla libisemata. Kumb jõuab põhja enne?",
+    "sourceHash": "12351642f86ac5f7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The solid ball — its mass is concentrated closer to the axis, so less of its energy goes into spinning",
+        "et": "Massiivne kuul — selle mass on teljele lähemal koondunud, seega läheb vähem selle energiast pöörlemisse",
+        "sourceHash": "27bd2c2235a0edb4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The hollow shell, since it has a larger moment of inertia and therefore more energy overall",
+        "et": "Õõnes kest, sest sellel on suurem inertsimoment ja seega rohkem energiat tervikuna",
+        "sourceHash": "bfdf8d9059f11fb1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rolling-motion-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both arrive at exactly the same time, since they have equal mass and radius",
+        "et": "Mõlemad jõuavad täpselt samal ajal, sest neil on võrdne mass ja raadius",
+        "sourceHash": "4ad4da942eaf7d8c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rolling-motion-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be determined without knowing the slope's exact angle",
+        "et": "Seda ei saa kindlaks teha, teadmata kaldpinna täpset nurka",
+        "sourceHash": "b5601e7aa7974c69",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rolling-motion-m1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "rolling-motion-item2",
+  "conceptId": "rolling-motion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A ball rolls without slipping down a slope. Compared to a frictionless block sliding down the same slope from the same height, how does the ball's speed at the bottom compare?",
+    "et": "Pall veereb libisemata alla kaldpinnast. Võrreldes hõõrdevaba klotsiga, mis libiseb samalt kõrguselt alla sama kaldpinda mööda, kuidas võrdub palli kiirus põhjas?",
+    "sourceHash": "1dc24ef8c5259f9c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The ball is slower, since some of its gravitational energy went into rotational kinetic energy rather than translational speed",
+        "et": "Pall on aeglasem, sest osa selle gravitatsioonienergiast läks pöörlemise kineetilisse energiasse, mitte translatsioonikiirusesse",
+        "sourceHash": "e334f496db538a3e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The ball is faster, since rolling adds extra energy beyond falling alone",
+        "et": "Pall on kiirem, sest veeremine lisab langemisele lisaenergiat",
+        "sourceHash": "1bee2cbf60146dd1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rolling-motion-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They arrive at exactly the same speed, since both started from the same height",
+        "et": "Nad jõuavad täpselt sama kiirusega, sest mõlemad alustasid samalt kõrguselt",
+        "sourceHash": "9434edf9e18770ad",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rolling-motion-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The ball experiences no friction, so the comparison has no meaningful difference",
+        "et": "Pallile ei mõju hõõrdumist, seega ei ole võrdlusel sisulist erinevust",
+        "sourceHash": "5d3c9b8e27e603cc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rolling-motion-m1"
+    }
+  ]
+}

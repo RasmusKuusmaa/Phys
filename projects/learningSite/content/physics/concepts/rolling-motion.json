@@ -1,0 +1,21 @@
+{
+  "id": "rolling-motion",
+  "subject": "physics",
+  "level": "L2",
+  "module": "mechanics",
+  "title": {
+    "en": "Rolling motion",
+    "et": "Veeremine",
+    "sourceHash": "173c94eb8ceb4206",
+    "stale": false
+  },
+  "summary": {
+    "en": "An object rolling without slipping has its centre-of-mass speed and its angular speed locked together by the radius, so it carries both translational and rotational kinetic energy at once, which is why a rolling ball starting from rest on a slope always arrives slower than a frictionless block sliding the same distance.",
+    "et": "Libisemata veerev keha masskeskme kiirus ja nurkkiirus on raadiuse kaudu omavahel lukustatud, mistõttu see kannab korraga nii translatsioonilist kui ka pöörlemise kineetilist energiat, ja just seepärast jõuab kaldpinnalt paigalt lastud veerev pall alati aeglasemalt kohale kui sama vahemaa läbiv hõõrdevaba klots.",
+    "sourceHash": "e4bf33a681754ddf",
+    "stale": false
+  },
+  "prerequisites": [
+    "rotational-kinetic-energy"
+  ]
+}
