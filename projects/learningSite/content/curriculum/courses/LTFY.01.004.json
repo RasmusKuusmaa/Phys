@@ -87,6 +87,10 @@
     }
   ],
   "conceptIds": [
+    "centre-of-mass",
+    "elastic-and-inelastic-collisions",
+    "friction",
+    "projectile-motion",
     "combining-uncertainties",
     "displacement-velocity-acceleration",
     "momentum-and-impulse",
