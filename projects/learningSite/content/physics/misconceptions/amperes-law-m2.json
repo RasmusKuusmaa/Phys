@@ -1,0 +1,10 @@
+{
+  "id": "amperes-law-m2",
+  "conceptId": "amperes-law",
+  "text": {
+    "en": "The circulation of the magnetic field around a loop depends on the loop's exact shape.",
+    "et": "Magnetvälja tsirkulatsioon ümber kontuuri sõltub kontuuri täpsest kujust.",
+    "sourceHash": "e553f3ff01e5a5d0",
+    "stale": false
+  }
+}

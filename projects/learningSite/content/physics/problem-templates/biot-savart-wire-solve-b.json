@@ -1,0 +1,33 @@
+{
+  "id": "biot-savart-wire-solve-b",
+  "formulaId": "biot-savart-wire-formula",
+  "variables": [
+    {
+      "symbol": "I",
+      "min": 0.1,
+      "max": 50,
+      "unit": "A",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "r",
+      "min": 0.001,
+      "max": 1,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "I",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "r",
+      "right": 0
+    }
+  ],
+  "solveFor": "B"
+}

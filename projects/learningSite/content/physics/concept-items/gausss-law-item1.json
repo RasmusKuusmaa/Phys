@@ -1,0 +1,56 @@
+{
+  "id": "gausss-law-item1",
+  "conceptId": "gausss-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A point charge sits off-centre inside an irregularly shaped closed surface. How does moving it to a different position inside the same surface change the total flux through it?",
+    "et": "Punktlaeng asub ebakorrapärase kujuga kinnise pinna sees, keskmest kõrvale. Kuidas muudab selle liigutamine sama pinna sees teise asukohta koguvoogu läbi pinna?",
+    "sourceHash": "782c2a042ff661b3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Not at all — total flux depends only on the enclosed charge, not on where it sits inside",
+        "et": "Üldse mitte — koguvoog sõltub ainult ümbritsetud laengust, mitte sellest, kus see sees asub",
+        "sourceHash": "ae1c1d7368b3a3db",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It changes, growing larger as the charge moves closer to the surface",
+        "et": "See muutub, kasvades suuremaks, kui laeng liigub pinnale lähemale",
+        "sourceHash": "a6d22ea67c240e75",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gausss-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It changes only if the surface happens to be spherical",
+        "et": "See muutub ainult siis, kui pind juhtub olema sfääriline",
+        "sourceHash": "b9b7704e4800e2e1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gausss-law-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It drops to zero, since Gauss's law requires the charge to be centred",
+        "et": "See langeb nulli, sest Gaussi teoreem nõuab, et laeng oleks tsentreeritud",
+        "sourceHash": "9744c8f2badae6b2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gausss-law-m3"
+    }
+  ]
+}

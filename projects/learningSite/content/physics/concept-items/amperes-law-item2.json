@@ -1,0 +1,56 @@
+{
+  "id": "amperes-law-item2",
+  "conceptId": "amperes-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A charging capacitor has no actual current flowing between its plates, yet a magnetic field circulates around that gap. What resolved this puzzle?",
+    "et": "Laadival kondensaatoril ei voola plaatide vahel tegelikku voolu, ometi tsirkuleerib selle pilu ümber magnetväli. Mis selle mõistatuse lahendas?",
+    "sourceHash": "cd62a92b0dd72766",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Maxwell showed a changing electric field acts as a source of magnetic field too, alongside current",
+        "et": "Maxwell näitas, et ka muutuv elektriväli on koos vooluga magnetvälja allikas",
+        "sourceHash": "eb0887f4fb55f971",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The original Ampère's law already accounted for this without modification",
+        "et": "Algne Ampère'i seadus arvestas seda juba ilma muudatusteta",
+        "sourceHash": "35ccc293df51d5a0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amperes-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The magnetic field between the plates is actually an illusion caused by measurement error",
+        "et": "Plaatide vaheline magnetväli on tegelikult mõõtevea tekitatud illusioon",
+        "sourceHash": "69d25da9f66a863b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amperes-law-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Current must secretly be flowing through the insulating gap after all",
+        "et": "Vool peab isoleeriva pilu vahel siiski salaja voolama",
+        "sourceHash": "8cac15ae8b869775",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amperes-law-m3"
+    }
+  ]
+}

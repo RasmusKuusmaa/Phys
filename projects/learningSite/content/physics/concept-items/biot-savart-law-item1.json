@@ -1,0 +1,56 @@
+{
+  "id": "biot-savart-law-item1",
+  "conceptId": "biot-savart-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A short current element points directly toward an observation point. What magnetic field does that element produce there?",
+    "et": "Lühike vooluelement osutab otse vaatluspunkti poole. Millist magnetvälja see element seal tekitab?",
+    "sourceHash": "5e0b068fc01b70c0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "None — the field vanishes when the current direction and the direction to the point are parallel",
+        "et": "Mitte mingit — väli kaob, kui voolusuund ja punkti suund on paralleelsed",
+        "sourceHash": "01372ceab98f5365",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Its maximum value, since the element points directly at the point",
+        "et": "Selle maksimaalse väärtuse, sest element osutab otse punkti poole",
+        "sourceHash": "991a1a8dabde9863",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biot-savart-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A field pointing directly away from the wire, toward the observation point",
+        "et": "Vooluelemendist otse eemale, vaatluspunkti poole osutava välja",
+        "sourceHash": "decebd688c129b32",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biot-savart-law-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A field that depends only on distance, regardless of the element's orientation",
+        "et": "Ainult kauguse sõltuva välja, olenemata elemendi suunast",
+        "sourceHash": "de55fa6461953c31",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biot-savart-law-m3"
+    }
+  ]
+}

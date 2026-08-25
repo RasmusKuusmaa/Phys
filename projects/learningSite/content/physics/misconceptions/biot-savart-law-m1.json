@@ -1,0 +1,10 @@
+{
+  "id": "biot-savart-law-m1",
+  "conceptId": "biot-savart-law",
+  "text": {
+    "en": "The magnetic field from a current element points directly away from the wire, like an electric field from a charge.",
+    "et": "Vooluelemendi magnetväli osutab otse juhtmest eemale, nagu laengu elektriväli.",
+    "sourceHash": "1b991c6f48e1ad3e",
+    "stale": false
+  }
+}

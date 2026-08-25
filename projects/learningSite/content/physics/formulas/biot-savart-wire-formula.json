@@ -1,0 +1,47 @@
+{
+  "id": "biot-savart-wire-formula",
+  "conceptId": "biot-savart-law",
+  "latex": "B = \\frac{\\mu_0 I}{2\\pi r}",
+  "symbols": [
+    {
+      "symbol": "B",
+      "name": {
+        "en": "magnetic field",
+        "et": "magnetväli",
+        "sourceHash": "8e923bfc2b2346c6",
+        "stale": false
+      },
+      "unit": "T"
+    },
+    {
+      "symbol": "I",
+      "name": {
+        "en": "electric current",
+        "et": "elektrivool",
+        "sourceHash": "e1a0b925fa3b95ce",
+        "stale": false
+      },
+      "unit": "A"
+    },
+    {
+      "symbol": "r",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "B",
+    "I",
+    "r"
+  ],
+  "expressions": {
+    "B": "0.0000002*I/r",
+    "I": "B*r/0.0000002",
+    "r": "0.0000002*I/B"
+  }
+}

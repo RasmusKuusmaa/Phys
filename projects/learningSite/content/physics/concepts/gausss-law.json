@@ -1,0 +1,22 @@
+{
+  "id": "gausss-law",
+  "subject": "physics",
+  "level": "L3",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Gauss's law",
+    "et": "Gaussi teoreem",
+    "sourceHash": "dfe72de1e1bd1007",
+    "stale": false
+  },
+  "summary": {
+    "en": "Gauss's law says the total electric flux out through any closed surface is proportional to the charge enclosed, which turns hard direct calculations of the field into easy ones whenever the charge distribution has enough symmetry to choose a convenient surface.",
+    "et": "Gaussi teoreem ütleb, et elektrivälja koguvoog läbi mistahes kinnise pinna on võrdeline ümbritsetud laenguga, mis muudab välja raskeks otseseks arvutamiseks lihtsaks alati, kui laengujaotusel on piisavalt sümmeetriat, et valida mugav pind.",
+    "sourceHash": "27e0fe5331ab8369",
+    "stale": false
+  },
+  "prerequisites": [
+    "electric-fields",
+    "electric-potential-and-potential-energy"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "gausss-law-item2",
+  "conceptId": "gausss-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A closed surface encloses equal amounts of positive and negative charge, for zero net enclosed charge. What does Gauss's law say about the field on the surface?",
+    "et": "Kinnine pind ümbritseb võrdsel hulgal positiivset ja negatiivset laengut, andes nulli netolaengu sees. Mida ütleb Gaussi teoreem välja kohta pinnal?",
+    "sourceHash": "6f83cf6d14e0e8b9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Only that the total flux through the surface is zero — the field itself can be non-zero at individual points",
+        "et": "Ainult seda, et koguvoog läbi pinna on null — väli ise võib üksikutes punktides olla nullist erinev",
+        "sourceHash": "aea631e99d8795f7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That the electric field is exactly zero at every point on the surface",
+        "et": "Et elektriväli on täpselt null pinna igas punktis",
+        "sourceHash": "3682753008dab15a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gausss-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That Gauss's law cannot be applied when net charge is zero",
+        "et": "Et Gaussi teoreemi ei saa rakendada, kui netolaeng on null",
+        "sourceHash": "e3fdd0426da36752",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gausss-law-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That there must be no charge at all anywhere inside the surface",
+        "et": "Et pinna sees ei tohi üldse kusagil laengut olla",
+        "sourceHash": "9ae8ae74e028bc4f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gausss-law-m3"
+    }
+  ]
+}

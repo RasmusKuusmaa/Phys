@@ -1,0 +1,10 @@
+{
+  "id": "amperes-law-m1",
+  "conceptId": "amperes-law",
+  "text": {
+    "en": "Ampère's law only works for a single straight current-carrying wire.",
+    "et": "Ampère'i seadus töötab ainult ühe sirge vooluga juhtme jaoks.",
+    "sourceHash": "cc5ba0e2993c012e",
+    "stale": false
+  }
+}

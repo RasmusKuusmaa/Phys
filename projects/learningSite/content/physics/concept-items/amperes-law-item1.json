@@ -1,0 +1,56 @@
+{
+  "id": "amperes-law-item1",
+  "conceptId": "amperes-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A wire carrying current 5 A passes through a circular loop and, separately, through a square loop of a different size, both enclosing that same wire once. How does the magnetic circulation compare between the two loops?",
+    "et": "Voolu 5 A kandev juhe läbib ringikujulist kontuuri ja eraldi ka teistsuguse suurusega ruudukujulist kontuuri, mõlemad ümbritsevad seda sama juhet üks kord. Kuidas võrdub magnetiline tsirkulatsioon nende kahe kontuuri vahel?",
+    "sourceHash": "1a1f506431426ad1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The circulation is identical for both — it depends only on the enclosed current, not the loop's shape",
+        "et": "Tsirkulatsioon on mõlemal identne — see sõltub ainult ümbritsetud voolust, mitte kontuuri kujust",
+        "sourceHash": "f4d18f455d2d6bbf",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The circular loop has larger circulation, since circles are the natural shape for magnetic fields",
+        "et": "Ringikujulisel kontuuril on suurem tsirkulatsioon, sest ringid on magnetväljadele loomulik kuju",
+        "sourceHash": "43ed530791d2c2ff",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amperes-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The square loop has larger circulation, since it encloses more area",
+        "et": "Ruudukujulisel kontuuril on suurem tsirkulatsioon, sest see ümbritseb suuremat pindala",
+        "sourceHash": "59d6fcc19e9b2656",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amperes-law-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Ampère's law cannot be applied to a square loop at all",
+        "et": "Ampère'i seadust ei saa ruudukujulise kontuuri jaoks üldse rakendada",
+        "sourceHash": "9bd2fd683ca7c4e0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amperes-law-m3"
+    }
+  ]
+}

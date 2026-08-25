@@ -1,0 +1,21 @@
+{
+  "id": "biot-savart-law",
+  "subject": "physics",
+  "level": "L3",
+  "module": "electromagnetism",
+  "title": {
+    "en": "The Biot–Savart law",
+    "et": "Biot'-Savarti seadus",
+    "sourceHash": "928d9f42c71fa2df",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Biot–Savart law gives the magnetic field produced by a small segment of current-carrying wire, falling off with the square of distance like Coulomb's law but pointing perpendicular to both the current and the direction to the point, not along it.",
+    "et": "Biot'-Savarti seadus annab väikese vooluga juhtmelõigu tekitatud magnetvälja, kahanedes kaugusega ruutseaduse järgi nagu Coulombi seadus, kuid osutades risti nii vooluga kui ka punkti suunaga, mitte piki seda.",
+    "sourceHash": "c28ff9fc5b1ac567",
+    "stale": false
+  },
+  "prerequisites": [
+    "magnetic-fields"
+  ]
+}

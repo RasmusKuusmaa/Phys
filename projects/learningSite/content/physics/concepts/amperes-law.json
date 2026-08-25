@@ -1,0 +1,21 @@
+{
+  "id": "amperes-law",
+  "subject": "physics",
+  "level": "L3",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Ampère's law",
+    "et": "Ampère'i seadus",
+    "sourceHash": "2724063a8f2fba77",
+    "stale": false
+  },
+  "summary": {
+    "en": "Ampère's law says the circulation of the magnetic field around any closed loop is proportional to the electric current passing through it, giving the magnetic-field analogue of Gauss's law and, once corrected by Maxwell, half of the electromagnetic wave equation.",
+    "et": "Ampère'i seadus ütleb, et magnetvälja tsirkulatsioon ümber mistahes kinnise kontuuri on võrdeline sellest läbiva elektrivooluga, andes Gaussi teoreemi magnetvälja vaste ning pärast Maxwelli parandust poole elektromagnetlaine võrrandist.",
+    "sourceHash": "392653abd7fff636",
+    "stale": false
+  },
+  "prerequisites": [
+    "magnetic-fields"
+  ]
+}

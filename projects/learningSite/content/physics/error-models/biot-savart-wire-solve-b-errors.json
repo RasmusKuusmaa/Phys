@@ -1,0 +1,37 @@
+{
+  "id": "biot-savart-wire-solve-b-errors",
+  "formulaId": "biot-savart-wire-formula",
+  "solveFor": "B",
+  "mistakes": [
+    {
+      "id": "forgot-2pi",
+      "description": {
+        "en": "Omitted the factor of 2π in the denominator.",
+        "et": "Jättis nimetajast välja teguri 2π.",
+        "sourceHash": "512165f6d332762a",
+        "stale": false
+      },
+      "expression": "0.0000002*I/r*6.283185307"
+    },
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided distance by current instead of current by distance.",
+        "et": "Jagas kauguse vooluga, selle asemel et jagada voolu kaugusega.",
+        "sourceHash": "ae161dc648b50e3c",
+        "stale": false
+      },
+      "expression": "0.0000002*r/I"
+    },
+    {
+      "id": "squared-distance",
+      "description": {
+        "en": "Squared the distance, treating the field as an inverse-square law like Coulomb's.",
+        "et": "Tõstis kauguse ruutu, käsitledes välja pöördruutseadusena nagu Coulombi seadust.",
+        "sourceHash": "580a2ba3b4515292",
+        "stale": false
+      },
+      "expression": "0.0000002*I/(r^2)"
+    }
+  ]
+}

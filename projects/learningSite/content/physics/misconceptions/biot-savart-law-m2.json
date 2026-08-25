@@ -1,0 +1,10 @@
+{
+  "id": "biot-savart-law-m2",
+  "conceptId": "biot-savart-law",
+  "text": {
+    "en": "A current element aligned with the direction to a point still produces a magnetic field there.",
+    "et": "Punkti suunaga joondatud vooluelement tekitab seal ikkagi magnetvälja.",
+    "sourceHash": "f09c72bf5ee440d5",
+    "stale": false
+  }
+}

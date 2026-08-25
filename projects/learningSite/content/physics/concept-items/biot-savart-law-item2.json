@@ -1,0 +1,56 @@
+{
+  "id": "biot-savart-law-item2",
+  "conceptId": "biot-savart-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What determines the direction of the magnetic field produced by a current element at a nearby point?",
+    "et": "Mis määrab lähedases punktis vooluelemendi tekitatud magnetvälja suuna?",
+    "sourceHash": "3efb81dbb9077ce5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is perpendicular to both the current direction and the direction to that point, given by a cross product",
+        "et": "See on risti nii voolusuuna kui ka selle punkti suunaga, antuna vektorkorrutisega",
+        "sourceHash": "e89b065f00b2da62",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It points directly away from the current element toward the point",
+        "et": "See osutab vooluelemendist otse punkti poole",
+        "sourceHash": "1745dee42c2b72e6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biot-savart-law-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It points along the same direction as the current itself",
+        "et": "See osutab samas suunas nagu vool ise",
+        "sourceHash": "34358b5689ef486c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biot-savart-law-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It only has a defined direction for infinitely long straight wires",
+        "et": "Sellel on määratud suund ainult lõpmata pikkade sirgete juhtmete jaoks",
+        "sourceHash": "cfaf76db0aeb316e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biot-savart-law-m3"
+    }
+  ]
+}

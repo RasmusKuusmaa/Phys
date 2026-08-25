@@ -1,0 +1,10 @@
+{
+  "id": "amperes-law-m3",
+  "conceptId": "amperes-law",
+  "text": {
+    "en": "A changing electric field cannot act as a source of magnetic field.",
+    "et": "Muutuv elektriväli ei saa olla magnetvälja allikaks.",
+    "sourceHash": "12837047dd3f4031",
+    "stale": false
+  }
+}
