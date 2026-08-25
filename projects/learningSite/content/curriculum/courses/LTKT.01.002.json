@@ -98,7 +98,16 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "acids-bases-and-ph",
+    "chemical-bonding",
+    "chemical-equilibrium",
+    "reaction-kinetics",
+    "redox-reactions",
+    "stoichiometry",
+    "the-mole-and-amount-of-substance",
+    "the-periodic-table"
+  ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid1.md"
   ],

@@ -173,6 +173,39 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-indefinite-integral",
     "vectors-in-space",
   ],
+  // Keemia alused — general chemistry, required of all three tracks.
+  "LOKT.07.010": [
+    "acids-bases-and-ph",
+    "chemical-bonding",
+    "chemical-equilibrium",
+    "reaction-kinetics",
+    "redox-reactions",
+    "stoichiometry",
+    "the-mole-and-amount-of-substance",
+    "the-periodic-table",
+  ],
+  // Laboritöö praktikum (chemistry) — the theory the bench work rests on.
+  // Bench technique itself cannot be delivered by a static site; see todo.md Phase 32.
+  "LTKT.01.002": [
+    "acids-bases-and-ph",
+    "chemical-bonding",
+    "chemical-equilibrium",
+    "reaction-kinetics",
+    "redox-reactions",
+    "stoichiometry",
+    "the-mole-and-amount-of-substance",
+    "the-periodic-table",
+  ],
+  // Materjaliteaduse ülevaatekursus — required of all three tracks.
+  "LTFY.02.003": [
+    "classes-of-materials",
+    "structure-property-relationships",
+  ],
+  // Sissejuhatus materjaliteadusse — the shorter introduction, same ground.
+  "LOFY.02.008": [
+    "classes-of-materials",
+    "structure-property-relationships",
+  ],
   "LTFY.01.004": [
     "combining-uncertainties",
     "displacement-velocity-acceleration",

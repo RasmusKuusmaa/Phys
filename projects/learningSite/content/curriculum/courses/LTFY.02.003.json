@@ -40,7 +40,10 @@
       "keywords": "3. kontrolltöö tulemused ja arutelu. Marco Kirm ja Vambola Kisand. Toimub jaanuaris 2026 ."
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "classes-of-materials",
+    "structure-property-relationships"
+  ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid1.md"
   ],
