@@ -1,0 +1,21 @@
+{
+  "id": "the-partition-function",
+  "subject": "physics",
+  "level": "L3",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "The partition function",
+    "et": "Jaotusfunktsioon",
+    "sourceHash": "39dce212f0766a31",
+    "stale": false
+  },
+  "summary": {
+    "en": "The partition function sums the Boltzmann factor over every microstate a system can occupy, and once known it generates every thermodynamic quantity — energy, entropy, free energy — by differentiation, condensing all of a system's statistical mechanics into one function of temperature.",
+    "et": "Jaotusfunktsioon summeerib Boltzmanni teguri üle iga mikroleku, mida süsteem võib hõivata, ja kui see on teada, genereerib see diferentseerimise teel iga termodünaamilise suuruse — energia, entroopia, vabaenergia —, koondades kogu süsteemi statistilise mehaanika ühte temperatuurifunktsiooni.",
+    "sourceHash": "bbb3d473ad5db8bb",
+    "stale": false
+  },
+  "prerequisites": [
+    "microstates-and-multiplicity"
+  ]
+}

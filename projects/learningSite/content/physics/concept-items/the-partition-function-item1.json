@@ -1,0 +1,56 @@
+{
+  "id": "the-partition-function-item1",
+  "conceptId": "the-partition-function",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the partition function weight each microstate by e^(−E/kT) rather than counting every microstate equally?",
+    "et": "Miks kaalub jaotusfunktsioon iga mikroolekut teguriga e^(−E/kT), selle asemel et loendada iga mikroolekut võrdselt?",
+    "sourceHash": "1c87f172f17b76ef",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Higher-energy microstates are genuinely less probable at a given temperature, and this factor captures that",
+        "et": "Kõrgema energiaga mikroolekud on antud temperatuuril tõeliselt vähem tõenäolised ja see tegur tabab just seda",
+        "sourceHash": "7bbf4250d7fe3236",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "All microstates are equally likely, so the weighting is just a mathematical convenience with no physical meaning",
+        "et": "Kõik mikroolekud on võrdselt tõenäolised, seega on kaalumine lihtsalt matemaatiline mugavus ilma füüsikalise tähenduseta",
+        "sourceHash": "0394f9f89f7e82f0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-partition-function-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The weighting corrects for measurement error in the system's energy",
+        "et": "Kaalumine korrigeerib süsteemi energia mõõtmisviga",
+        "sourceHash": "7ea8516985ae2176",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-partition-function-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It ensures every microstate contributes the same amount regardless of energy",
+        "et": "See tagab, et iga mikroolek panustab sama palju, sõltumata energiast",
+        "sourceHash": "3397c0f56bc75cf6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-partition-function-m1"
+    }
+  ]
+}

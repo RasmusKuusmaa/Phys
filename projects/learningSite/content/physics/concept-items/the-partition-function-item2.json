@@ -1,0 +1,56 @@
+{
+  "id": "the-partition-function-item2",
+  "conceptId": "the-partition-function",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Once a system's partition function is known as a function of temperature, what can be obtained from it?",
+    "et": "Kui süsteemi jaotusfunktsioon on temperatuuri funktsioonina teada, mida sellest saab tuletada?",
+    "sourceHash": "1153ffe56c02ca2a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Essentially every thermodynamic quantity of interest — energy, entropy, free energy — by differentiating it appropriately",
+        "et": "Sisuliselt iga huvipakkuv termodünaamiline suurus — energia, entroopia, vabaenergia — seda sobivalt diferentseerides",
+        "sourceHash": "380b4f79050b596b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Only the total number of microstates, and nothing else",
+        "et": "Ainult mikroolekute koguarvu ja mitte midagi enamat",
+        "sourceHash": "4700caa17baeae7a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-partition-function-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only the system's temperature itself",
+        "et": "Ainult süsteemi enda temperatuuri",
+        "sourceHash": "6d81ba86cf5c43c3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-partition-function-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing further; it is purely a bookkeeping intermediate with no further use",
+        "et": "Mitte midagi enamat; see on puhtalt vahepealne arvepidamine ilma edasise kasutuseta",
+        "sourceHash": "4aa525e6983f6fa9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-partition-function-m1"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+Not every microstate a system could occupy is equally likely at a given
+temperature — a microstate with very high energy is exponentially less
+probable than a low-energy one, governed by the Boltzmann factor e^(−E/kT).
+The partition function, Z, is simply the sum of this factor over every
+accessible microstate: Z = Σ e^(−Eᵢ/kT). It is a single number (for a fixed
+temperature) that packages, in one place, how the system's energy levels are
+populated at that temperature — hence "partition": it describes how
+probability is partitioned among the available states.
+
+Z on its own is not directly a physical quantity you would measure, and it
+does not hand you the energy or the entropy without further work. Its real
+power is as a generating function: taking the appropriate derivative of ln Z
+with respect to temperature yields the average energy; further
+manipulation yields entropy, free energy, heat capacity, essentially every
+thermodynamic quantity of interest, all derived from this one function rather
+than computed separately from first principles each time. Once Z(T) is known
+for a system, the rest of its thermodynamics follows by calculus rather than
+by re-deriving each quantity from scratch.
+
+This is what makes the partition function the central object of statistical
+mechanics rather than a mere bookkeeping tool: it is the bridge between the
+microscopic description (the energy levels a system's particles can occupy)
+and the macroscopic, measurable thermodynamic quantities the older,
+purely classical theory of heat could only describe empirically. Different
+physical systems — an ideal gas, a solid's vibrating atoms, a magnet's spins
+— have different partition functions, but the same machinery for extracting
+thermodynamics from Z applies uniformly to all of them.

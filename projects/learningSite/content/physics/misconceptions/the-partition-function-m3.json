@@ -1,0 +1,10 @@
+{
+  "id": "the-partition-function-m3",
+  "conceptId": "the-partition-function",
+  "text": {
+    "en": "The partition function is only useful for counting microstates, not for finding other physical quantities.",
+    "et": "Jaotusfunktsioon on kasulik ainult mikroolekute loendamiseks, mitte teiste füüsikaliste suuruste leidmiseks.",
+    "sourceHash": "997f1e98d315b80a",
+    "stale": false
+  }
+}
