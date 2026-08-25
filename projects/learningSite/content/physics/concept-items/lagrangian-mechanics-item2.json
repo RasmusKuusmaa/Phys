@@ -1,0 +1,56 @@
+{
+  "id": "lagrangian-mechanics-item2",
+  "conceptId": "lagrangian-mechanics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A bead slides on a rotating circular wire. Why is the Lagrangian approach usually easier here than applying Newton's laws directly?",
+    "et": "Helmes libiseb pöörleval ringikujulisel traadil. Miks on Lagrange'i lähenemine siin tavaliselt lihtsam kui Newtoni seaduste otsene rakendamine?",
+    "sourceHash": "dad2610808bc3832",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "One angle describes the bead's position, and the constraint forces from the wire never have to be worked out",
+        "et": "Helme asukohta kirjeldab üks nurk ja traadi seosejõude ei ole vaja üldse välja arvutada",
+        "sourceHash": "8a1602457d1558c9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It gives a different, simpler trajectory than Newtonian mechanics would",
+        "et": "See annab teistsuguse ja lihtsama trajektoori kui Newtoni mehaanika",
+        "sourceHash": "2437007c0038c2a6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lagrangian-mechanics-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It requires writing the problem in x, y and z, which is always simpler than using an angle",
+        "et": "See nõuab ülesande kirjapanekut x-, y- ja z-koordinaatides, mis on alati lihtsam kui nurga kasutamine",
+        "sourceHash": "08f257ffec78b3d1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lagrangian-mechanics-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It works because the total energy T + V of the bead is constant on a rotating wire",
+        "et": "See toimib, sest helme koguenergia T + V on pöörleval traadil jääv",
+        "sourceHash": "0c014a3582f4252e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lagrangian-mechanics-m1"
+    }
+  ]
+}

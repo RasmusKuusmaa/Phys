@@ -1,0 +1,56 @@
+{
+  "id": "lagrangian-mechanics-item1",
+  "conceptId": "lagrangian-mechanics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How is the Lagrangian of a mechanical system defined?",
+    "et": "Kuidas on mehaanilise süsteemi Lagrange'i funktsioon defineeritud?",
+    "sourceHash": "fec1d69b4861651e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "As the kinetic energy minus the potential energy, L = T − V",
+        "et": "Kineetilise energia miinus potentsiaalne energia, L = T − V",
+        "sourceHash": "22cd8d9f293fe2a4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "As the total energy of the system, L = T + V",
+        "et": "Süsteemi koguenergiana, L = T + V",
+        "sourceHash": "64502a05aa7f3924",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lagrangian-mechanics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "As the sum of all the forces acting, expressed in Cartesian coordinates",
+        "et": "Kõigi mõjuvate jõudude summana, väljendatuna ristkoordinaatides",
+        "sourceHash": "4c4af7c870c1dce4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lagrangian-mechanics-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "As a quantity that replaces Newton's laws and predicts different trajectories",
+        "et": "Suurusena, mis asendab Newtoni seadused ja ennustab teistsuguseid trajektoore",
+        "sourceHash": "edd3038c6210e071",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lagrangian-mechanics-m2"
+    }
+  ]
+}

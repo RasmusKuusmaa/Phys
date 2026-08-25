@@ -1,0 +1,10 @@
+{
+  "id": "lagrangian-mechanics-m1",
+  "conceptId": "lagrangian-mechanics",
+  "text": {
+    "en": "The Lagrangian is the total energy of the system, so L = T + V.",
+    "et": "Lagrange'i funktsioon on süsteemi koguenergia, seega L = T + V.",
+    "sourceHash": "ab0671f1a4f0545a",
+    "stale": false
+  }
+}
