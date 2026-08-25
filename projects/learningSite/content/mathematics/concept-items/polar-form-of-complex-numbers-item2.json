@@ -1,0 +1,56 @@
+{
+  "id": "polar-form-of-complex-numbers-item2",
+  "conceptId": "polar-form-of-complex-numbers",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How many distinct values does the argument of a non-zero complex number have?",
+    "et": "Mitu erinevat väärtust on nullist erineva kompleksarvu argumendil?",
+    "sourceHash": "d3b83d6680e90c2a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Infinitely many, all differing by whole multiples of 2π",
+        "et": "Lõpmatult palju, kõik erinevad 2π täisarvkordsete võrra",
+        "sourceHash": "757e5375b3994059",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Exactly one, fixed by the number itself",
+        "et": "Täpselt üks, mille määrab arv ise",
+        "sourceHash": "e54bfce722988f05",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polar-form-of-complex-numbers-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Exactly n, where n is the power it is raised to",
+        "et": "Täpselt n, kus n on aste, millesse see tõstetakse",
+        "sourceHash": "c0726d78d4e2c7e9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polar-form-of-complex-numbers-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Two, one positive and one negative",
+        "et": "Kaks, üks positiivne ja üks negatiivne",
+        "sourceHash": "49c25666b8111669",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polar-form-of-complex-numbers-m2"
+    }
+  ]
+}

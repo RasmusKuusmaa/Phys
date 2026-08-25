@@ -1,0 +1,21 @@
+{
+  "id": "polar-form-of-complex-numbers",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "complex-numbers",
+  "title": {
+    "en": "Polar and exponential form",
+    "et": "Polaar- ja eksponentkuju",
+    "sourceHash": "002aa9b37c1506d8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Writing a complex number by its modulus and argument instead of its real and imaginary parts turns multiplication into multiplying lengths and adding angles, and Euler's formula compresses the whole idea into re^(iθ).",
+    "et": "Kompleksarvu kirjutamine mooduli ja argumendi kaudu reaal- ja imaginaarosa asemel muudab korrutamise pikkuste korrutamiseks ja nurkade liitmiseks ning Euleri valem surub kogu mõtte kujusse re^(iθ).",
+    "sourceHash": "2ef579580fa8a721",
+    "stale": false
+  },
+  "prerequisites": [
+    "complex-numbers"
+  ]
+}

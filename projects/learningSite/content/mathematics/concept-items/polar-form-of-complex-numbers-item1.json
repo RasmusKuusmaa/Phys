@@ -1,0 +1,56 @@
+{
+  "id": "polar-form-of-complex-numbers-item1",
+  "conceptId": "polar-form-of-complex-numbers",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two complex numbers with moduli 2 and 3 and arguments 30° and 40° are multiplied. What is the result?",
+    "et": "Korrutatakse kaks kompleksarvu moodulitega 2 ja 3 ning argumentidega 30° ja 40°. Milline on tulemus?",
+    "sourceHash": "ac714938f246e45a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Modulus 6, argument 70° — moduli multiply, arguments add",
+        "et": "Moodul 6, argument 70° — moodulid korrutuvad, argumendid liituvad",
+        "sourceHash": "02f65dad4786e43f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Modulus 6, argument 1200° — both multiply",
+        "et": "Moodul 6, argument 1200° — mõlemad korrutuvad",
+        "sourceHash": "206521e6ca40b3ac",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polar-form-of-complex-numbers-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Modulus 5, argument 70° — both add",
+        "et": "Moodul 5, argument 70° — mõlemad liituvad",
+        "sourceHash": "98eb69b46f35e32a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polar-form-of-complex-numbers-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Modulus 6, argument 35° — the arguments average",
+        "et": "Moodul 6, argument 35° — argumentide keskmine",
+        "sourceHash": "203f4a6e184c44fc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polar-form-of-complex-numbers-m2"
+    }
+  ]
+}
