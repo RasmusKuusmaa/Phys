@@ -1,0 +1,10 @@
+{
+  "id": "rc-circuit-transients-m1",
+  "conceptId": "rc-circuit-transients",
+  "text": {
+    "en": "A capacitor charges instantly once the switch closes, since electricity moves at nearly light speed.",
+    "et": "Kondensaator laeb hetkega, kui lüliti sulgub, sest elekter liigub peaaegu valguse kiirusel.",
+    "sourceHash": "8e2d7da13da2c677",
+    "stale": false
+  }
+}

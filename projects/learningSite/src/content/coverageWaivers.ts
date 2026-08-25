@@ -25,7 +25,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "fluid-continuity-and-flow-rate",
     "pascals-principle-and-hydraulics",
     "pressure-in-fluids",
-    "rc-circuit-transients",
     "viscosity-and-poiseuille-flow",
   ],
 };

@@ -1,0 +1,10 @@
+{
+  "id": "rc-circuit-transients-m3",
+  "conceptId": "rc-circuit-transients",
+  "text": {
+    "en": "The time constant depends on the supply voltage, so a bigger battery charges the capacitor faster.",
+    "et": "Ajakonstant sõltub toitepingest, seega laeb suurem aku kondensaatorit kiiremini.",
+    "sourceHash": "43eb50cacef56036",
+    "stale": false
+  }
+}

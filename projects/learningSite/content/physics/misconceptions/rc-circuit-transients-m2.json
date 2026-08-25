@@ -1,0 +1,10 @@
+{
+  "id": "rc-circuit-transients-m2",
+  "conceptId": "rc-circuit-transients",
+  "text": {
+    "en": "After one time constant the capacitor is fully charged.",
+    "et": "Ühe ajakonstandi järel on kondensaator täis laetud.",
+    "sourceHash": "43356e87bb01d3c1",
+    "stale": false
+  }
+}

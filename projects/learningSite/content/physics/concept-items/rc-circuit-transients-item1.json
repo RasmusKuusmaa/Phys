@@ -1,0 +1,56 @@
+{
+  "id": "rc-circuit-transients-item1",
+  "conceptId": "rc-circuit-transients",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A capacitor charges through a resistor from a battery. How much of its final voltage has it reached after one time constant RC?",
+    "et": "Kondensaator laeb akust läbi takisti. Kui suure osa oma lõppingest on see saavutanud ühe ajakonstandi RC järel?",
+    "sourceHash": "1b7569214efcd219",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "About 63%, approaching the final value exponentially rather than reaching it",
+        "et": "Umbes 63%, lähenedes lõppväärtusele eksponentsiaalselt, mitte seda saavutades",
+        "sourceHash": "bde3a107a2a837cc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "100% — one time constant is by definition the time to charge fully",
+        "et": "100% — üks ajakonstant ongi määratluse järgi täislaadimise aeg",
+        "sourceHash": "48223cea48c19b61",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rc-circuit-transients-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Effectively 100% immediately, since charge moves at nearly the speed of light",
+        "et": "Praktiliselt 100% kohe, sest laeng liigub peaaegu valguse kiirusel",
+        "sourceHash": "4de2d5867be7a738",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rc-circuit-transients-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "An amount set by the battery voltage, since that determines the charging rate",
+        "et": "Aku pingega määratud osa, sest see määrab laadimiskiiruse",
+        "sourceHash": "0defd39b996ef30b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rc-circuit-transients-m3"
+    }
+  ]
+}

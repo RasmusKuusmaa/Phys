@@ -1,0 +1,21 @@
+Close a switch on a battery, resistor and uncharged capacitor and the
+capacitor does not jump to the battery voltage. Charge has to flow onto the
+plates through the resistor, and as the plates fill, the voltage they push
+back with grows, which shrinks the current, which slows the filling further.
+The result is an exponential approach: fast at first, then ever slower, never
+quite arriving.
+
+The pace is set by the product RC, the time constant, and only by it — the
+supply voltage scales how much charge ends up on the plates but not how long
+it takes to get there. After one time constant the capacitor has reached
+about 63% of its final voltage, after two about 86%, after five about 99%.
+"One time constant" is not "fully charged", and the exponential in principle
+never finishes; five RC is the usual engineering convention for close enough.
+
+The same shape governs discharge, running the other way, and an inductor with
+a resistor behaves analogously with L/R in place of RC, delaying the current
+rather than the voltage. This deliberate sluggishness is useful rather than a
+nuisance: it sets the flash interval on a camera, debounces a mechanical
+switch, smooths the ripple in a power supply, and defines the cutoff of a
+simple filter. It is also the limit on how fast a digital circuit can switch,
+since every wire and gate carries some unavoidable resistance and capacitance.

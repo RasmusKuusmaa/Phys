@@ -1,0 +1,56 @@
+{
+  "id": "rc-circuit-transients-item2",
+  "conceptId": "rc-circuit-transients",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Doubling the resistance in an RC charging circuit while keeping the same battery has what effect?",
+    "et": "Mis mõju on RC-laadimisahelas takistuse kahekordistamisel, kui aku jääb samaks?",
+    "sourceHash": "07cb82fae64fb45f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Charging takes twice as long, but the final capacitor voltage is unchanged",
+        "et": "Laadimine võtab kaks korda kauem aega, kuid kondensaatori lõpppinge ei muutu",
+        "sourceHash": "99e6cd3683e40f7f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Charging still finishes instantly; only the current changes",
+        "et": "Laadimine lõpeb ikkagi hetkega; muutub ainult vool",
+        "sourceHash": "6abcc2437ff19d73",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rc-circuit-transients-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The final voltage doubles, since the time constant scales with voltage",
+        "et": "Lõpppinge kahekordistub, sest ajakonstant sõltub pingest",
+        "sourceHash": "2db2c76f5b655955",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rc-circuit-transients-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The capacitor reaches full charge in exactly one time constant either way",
+        "et": "Kondensaator saab mõlemal juhul täis laetud täpselt ühe ajakonstandi jooksul",
+        "sourceHash": "4ce9f3c4e231b000",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rc-circuit-transients-m2"
+    }
+  ]
+}
