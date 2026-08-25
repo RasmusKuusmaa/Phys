@@ -1,0 +1,56 @@
+{
+  "id": "signals-and-fourier-analysis-item2",
+  "conceptId": "signals-and-fourier-analysis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What happens to a pulse's frequency spectrum as the pulse is made shorter in time?",
+    "et": "Mis juhtub impulsi sagedusspektriga, kui impulssi ajas lühemaks teha?",
+    "sourceHash": "3362b7c1b83435f8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It becomes broader — short in time means wide in frequency",
+        "et": "See muutub laiemaks — ajas lühike tähendab sageduses laia",
+        "sourceHash": "0bf3e5eb3cbc27ab",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It becomes narrower, in step with the pulse",
+        "et": "See muutub kitsamaks koos impulsiga",
+        "sourceHash": "dfa23cbaafd125bb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "signals-and-fourier-analysis-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, since the spectrum carries less detail than the waveform",
+        "et": "See ei muutu, sest spekter kannab vähem detaili kui lainekuju",
+        "sourceHash": "8a3eee8ec6ff5202",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "signals-and-fourier-analysis-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It shifts upward until it exceeds the sampling rate",
+        "et": "See nihkub ülespoole, kuni ületab diskreetimissageduse",
+        "sourceHash": "a98ec85dded242bc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "signals-and-fourier-analysis-m2"
+    }
+  ]
+}

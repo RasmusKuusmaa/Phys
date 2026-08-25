@@ -1,0 +1,22 @@
+{
+  "id": "signals-and-fourier-analysis",
+  "subject": "physics",
+  "level": "L3",
+  "module": "measurement",
+  "title": {
+    "en": "Signals and Fourier analysis",
+    "et": "Signaalid ja Fourier' analüüs",
+    "sourceHash": "d3aeb4791e215a20",
+    "stale": false
+  },
+  "summary": {
+    "en": "Any signal can be decomposed into sinusoidal components, and its frequency spectrum is as complete a description as its time trace — a duality that underlies filtering, modulation and the limits on how a signal may be sampled.",
+    "et": "Iga signaali saab lahutada siinuselisteks komponentideks ja selle sagedusspekter on sama täielik kirjeldus kui ajaline kulg — see duaalsus on filtreerimise, moduleerimise ja signaali diskreetimise piirangute aluseks.",
+    "sourceHash": "232b29db41c835bd",
+    "stale": false
+  },
+  "prerequisites": [
+    "wave-properties",
+    "propagation-of-uncertainty-in-functions"
+  ]
+}

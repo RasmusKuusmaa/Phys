@@ -1,0 +1,10 @@
+{
+  "id": "signals-and-fourier-analysis-m1",
+  "conceptId": "signals-and-fourier-analysis",
+  "text": {
+    "en": "A signal's frequency spectrum contains less information than its time trace.",
+    "et": "Signaali sagedusspekter sisaldab vähem infot kui selle ajaline kulg.",
+    "sourceHash": "3fb360680a7b399c",
+    "stale": false
+  }
+}

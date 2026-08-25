@@ -1,0 +1,23 @@
+Fourier' tulemus ütleb, et iga mõistliku signaali saab kirjutada eri sageduste,
+amplituudide ja faasidega siinuste summana. Nende komponentide loend on signaali
+spekter ja oluline on see, et tegu ei ole kokkuvõttega: teisendus on pööratav,
+seega sisaldavad spekter ja ajaline kulg täpselt sama infot kahes eri esituses.
+Valik, kummas töötada, on mugavuse küsimus, ja ülesanded, mis on ajas tülikad —
+mürina väljafiltreerimine, perioodilisuse tuvastamine — on sageduses sageli
+triviaalsed.
+
+Kaht piirkonda seob pöördvõrdeline seos, mis juhib suurt osa praktikast. Lühikese
+ajaga piiratud signaal peab olema kokku pandud laiast sagedusvahemikust ja
+teravalt määratud sagedusega signaal peab kestma kaua. Just seepärast on lühike
+laserimpulss spektraalselt lai, seepärast tuleb muusikanooti hoida, et sel oleks
+kindel kõrgus, ja — samas matemaatikas — seepärast alluvad asukoht ja impulss
+määramatuse seosele.
+
+Diskreetimine on koht, kus sellest saab insenerlik piirang. Pideva signaali
+salvestamine üksikute mõõtmistena võib olla kadudeta, kuid ainult siis, kui
+diskreetimissagedus ületab kõrgeima esineva sageduse *kahekordselt*: Nyquisti
+kriteerium. Diskreedi aeglasemalt ja kõrged sagedused esinevad madalatena —
+aliasing — mis on pärast toimumist pöördumatu, sest miski salvestatud andmetes ei
+erista petist tõelisest. Just seepärast diskreeditakse heli 44,1 kHz sagedusel
+20 kHz kuulmisvahemiku jaoks ja just seepärast peab aliasingu vastane filter
+liiga kõrged sagedused eemaldama *enne* diskreetijat, mitte pärast.

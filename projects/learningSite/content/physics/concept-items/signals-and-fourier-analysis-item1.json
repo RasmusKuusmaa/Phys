@@ -1,0 +1,56 @@
+{
+  "id": "signals-and-fourier-analysis-item1",
+  "conceptId": "signals-and-fourier-analysis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A signal contains frequencies up to 10 kHz. What is the minimum sampling rate that allows exact reconstruction?",
+    "et": "Signaal sisaldab sagedusi kuni 10 kHz. Milline on väikseim diskreetimissagedus, mis lubab täpset taastamist?",
+    "sourceHash": "63b2f262b7d5ced0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Just over 20 kHz — more than twice the highest frequency present",
+        "et": "Veidi üle 20 kHz — rohkem kui kaks korda kõrgeim esinev sagedus",
+        "sourceHash": "77953e636b68bdee",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Just over 10 kHz — matching the highest frequency is enough",
+        "et": "Veidi üle 10 kHz — kõrgeima sagedusega võrdsustamisest piisab",
+        "sourceHash": "d647270cdde96d0a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "signals-and-fourier-analysis-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Any rate at all, since the spectrum holds less information than the waveform",
+        "et": "Ükskõik milline, sest spekter sisaldab vähem infot kui lainekuju",
+        "sourceHash": "3044efed2a4a9a35",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "signals-and-fourier-analysis-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends only on how short the pulse is in time",
+        "et": "See sõltub ainult sellest, kui lühike impulss ajas on",
+        "sourceHash": "c4c6b4a17ca95e64",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "signals-and-fourier-analysis-m3"
+    }
+  ]
+}

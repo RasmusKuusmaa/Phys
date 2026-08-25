@@ -1,0 +1,10 @@
+{
+  "id": "signals-and-fourier-analysis-m2",
+  "conceptId": "signals-and-fourier-analysis",
+  "text": {
+    "en": "Sampling a signal faster than its highest frequency is enough to reconstruct it.",
+    "et": "Signaali diskreetimine selle kõrgeimast sagedusest kiiremini piisab selle taastamiseks.",
+    "sourceHash": "6f7fd0b89fbaaf9e",
+    "stale": false
+  }
+}

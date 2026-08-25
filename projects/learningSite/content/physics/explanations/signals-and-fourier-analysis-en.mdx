@@ -1,0 +1,23 @@
+Fourier's result is that any reasonable signal can be written as a sum of
+sinusoids of different frequencies, amplitudes and phases. The list of those
+components is the signal's spectrum, and the key point is that it is not a
+summary: the transform is invertible, so the spectrum and the time trace contain
+exactly the same information in two different presentations. Choosing which one
+to work in is a matter of convenience, and problems that are awkward in time —
+filtering out a hum, identifying a periodicity — are often trivial in frequency.
+
+The two domains are linked by a reciprocal relationship that governs much of
+practice. A signal confined to a short time must be built from a wide range of
+frequencies, and a signal with a sharply defined frequency must last a long
+time. This is why a brief laser pulse is spectrally broad, why a musical note
+must be held to have a definite pitch, and — in the same mathematics — why
+position and momentum obey an uncertainty relation.
+
+Sampling is where this becomes an engineering constraint. Recording a continuous
+signal as discrete measurements can be lossless, but only if the sampling rate
+exceeds *twice* the highest frequency present: the Nyquist criterion. Sample any
+slower and high frequencies masquerade as low ones — aliasing — which is
+irreversible once it has happened, since nothing in the recorded data
+distinguishes the impostor from the real thing. This is why audio is sampled at
+44.1 kHz for a 20 kHz hearing range, and why an anti-aliasing filter must remove
+the too-high frequencies *before* the sampler, not after.
