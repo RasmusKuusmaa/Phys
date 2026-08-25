@@ -21,7 +21,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     // explanations are still being authored module by module. See todo.md.
     "bernoullis-equation",
     "fluid-continuity-and-flow-rate",
-    "pascals-principle-and-hydraulics",
     "viscosity-and-poiseuille-flow",
   ],
 };

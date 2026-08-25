@@ -1,0 +1,56 @@
+{
+  "id": "pascals-principle-and-hydraulics-item2",
+  "conceptId": "pascals-principle-and-hydraulics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Air trapped in a car's brake line makes the brakes feel spongy and weak. Why?",
+    "et": "Auto pidurivoolikusse jäänud õhk muudab pidurid pehmeks ja nõrgaks. Miks?",
+    "sourceHash": "ed549d542a77afe8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The gas compresses, absorbing the pedal's travel instead of transmitting the pressure onward",
+        "et": "Gaas surutakse kokku ja neelab pedaali käigu, selle asemel et rõhku edasi anda",
+        "sourceHash": "78d6e4adabd053f0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Air transmits pressure just as well as brake fluid, so the fault must be elsewhere",
+        "et": "Õhk annab rõhku edasi sama hästi kui pidurivedelik, seega peab rike olema mujal",
+        "sourceHash": "cc31d258cd020ce8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pascals-principle-and-hydraulics-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The air changes the effective diameter of the line and so weakens the force",
+        "et": "Õhk muudab vooliku efektiivset läbimõõtu ja nõrgestab seega jõudu",
+        "sourceHash": "e1ec6ee8a84dcceb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pascals-principle-and-hydraulics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The air steals energy that the hydraulic system would otherwise have created",
+        "et": "Õhk varastab energiat, mille hüdrosüsteem oleks muidu tekitanud",
+        "sourceHash": "0ef959451e57c84a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pascals-principle-and-hydraulics-m1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pascals-principle-and-hydraulics-item1",
+  "conceptId": "pascals-principle-and-hydraulics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In a hydraulic lift, the output piston has ten times the area of the input piston. What is gained and what is paid?",
+    "et": "Hüdraulilises tõstukis on väljundkolvi pindala kümme korda suurem kui sisendkolvil. Mis võidetakse ja mille eest makstakse?",
+    "sourceHash": "0917f945e859b04d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The output force is ten times larger, but it moves one tenth as far, so the work is unchanged",
+        "et": "Väljundjõud on kümme korda suurem, kuid liigub kümme korda lühema teepikkuse, nii et töö ei muutu",
+        "sourceHash": "d6c935669c539d54",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both the force and the total work are multiplied by ten",
+        "et": "Nii jõud kui ka kogutöö korrutatakse kümnega",
+        "sourceHash": "c7293a72e0d0378d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pascals-principle-and-hydraulics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The force is ten times larger because the diameter is ten times larger",
+        "et": "Jõud on kümme korda suurem, sest läbimõõt on kümme korda suurem",
+        "sourceHash": "00164bddd4db2f97",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pascals-principle-and-hydraulics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing is gained unless the fluid is replaced by a compressible gas",
+        "et": "Midagi ei võideta, kui vedelikku ei asendata kokkusurutava gaasiga",
+        "sourceHash": "05e86ac187b7f816",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pascals-principle-and-hydraulics-m3"
+    }
+  ]
+}

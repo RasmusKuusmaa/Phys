@@ -1,0 +1,10 @@
+{
+  "id": "pascals-principle-and-hydraulics-m2",
+  "conceptId": "pascals-principle-and-hydraulics",
+  "text": {
+    "en": "The force multiplication depends on the pistons' diameters, so doubling the diameter doubles the force.",
+    "et": "Jõu võimendus sõltub kolvide läbimõõdust, seega läbimõõdu kahekordistamine kahekordistab jõu.",
+    "sourceHash": "75978f2ef44f2ea7",
+    "stale": false
+  }
+}
