@@ -1,0 +1,27 @@
+The fundamental theorem of calculus says that integrating a derivative over an
+interval reduces to evaluating the original function at the two endpoints — the
+interior detail cancels and only the boundary survives. The divergence theorem
+and Stokes' theorem are the same idea, one dimension up, and recognising that
+kinship is the fastest way to remember what each one does.
+
+The divergence theorem says that integrating ∇·F over a solid volume equals the
+total flux of F out through the surface enclosing it. Intuitively: add up every
+infinitesimal source and sink inside the volume, and what is left over after
+internal flows cancel is exactly what crosses the boundary. A volume integral
+— a three-dimensional, "interior" calculation — collapses to a surface integral
+— a two-dimensional, "boundary" calculation. That is the boundary pattern
+repeating.
+
+Stokes' theorem does the same thing one dimension down: integrating ∇×F over a
+surface equals the circulation of F around the curve bounding that surface. Add
+up every infinitesimal swirl across the surface, and the internal rotations
+cancel pairwise except along the edge, leaving a single loop integral. Same
+pattern again — a surface integral reducing to a boundary (line) integral.
+
+These are not formal curiosities. Gauss's law for electric fields *is* the
+divergence theorem applied to Coulomb's field, turning a hard volume calculation
+into an easy surface one whenever symmetry allows a convenient surface to be
+chosen. Faraday's law connects a changing magnetic flux through a surface to an
+induced electric field circulating around its boundary — precisely Stokes'
+theorem. Learning the vector identity and learning the physical law are, in
+these cases, the same act.

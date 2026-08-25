@@ -1,0 +1,22 @@
+{
+  "id": "the-divergence-and-stokes-theorems",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "vector-calculus",
+  "title": {
+    "en": "The divergence and Stokes' theorems",
+    "et": "Gaussi ja Stokesi teoreemid",
+    "sourceHash": "778374c407ec157c",
+    "stale": false
+  },
+  "summary": {
+    "en": "The divergence theorem converts a volume integral of a field's divergence into a flux through the enclosing surface, and Stokes' theorem converts a surface integral of a field's curl into a circulation around the boundary curve — both are the fundamental theorem of calculus generalised to fields.",
+    "et": "Gaussi teoreem teisendab välja divergentsi ruumalaintegraali vooguks läbi ümbritseva pinna ja Stokesi teoreem teisendab välja rootori pindalaintegraali tsirkulatsiooniks ümber piirava kõvera — mõlemad on matemaatilise analüüsi põhiteoreemi üldistused väljadele.",
+    "sourceHash": "5237e2d57c947064",
+    "stale": false
+  },
+  "prerequisites": [
+    "divergence-and-curl",
+    "multiple-integrals"
+  ]
+}

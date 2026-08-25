@@ -1,0 +1,56 @@
+{
+  "id": "the-divergence-and-stokes-theorems-item2",
+  "conceptId": "the-divergence-and-stokes-theorems",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What common structure do the divergence theorem and Stokes' theorem share with the fundamental theorem of calculus?",
+    "et": "Millist ühist struktuuri jagavad Gaussi teoreem, Stokesi teoreem ja matemaatilise analüüsi põhiteoreem?",
+    "sourceHash": "e6cf115f749eb001",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "All three convert an integral of a derivative-like quantity over a region into information on the region's boundary",
+        "et": "Kõik kolm teisendavad tuletisesarnase suuruse integraali üle piirkonna infoks piirkonna raja kohta",
+        "sourceHash": "ec923c763baa1931",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are unrelated theorems that happen to be taught together",
+        "et": "Need on seosetud teoreemid, mida juhtumisi koos õpetatakse",
+        "sourceHash": "92d40912786da401",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-divergence-and-stokes-theorems-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All three relate a surface integral to another surface integral",
+        "et": "Kõik kolm seovad pindalaintegraali teise pindalaintegraaliga",
+        "sourceHash": "44432c981d954ee4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-divergence-and-stokes-theorems-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "None of them have any connection to derivatives",
+        "et": "Ükski neist ei ole seotud tuletistega",
+        "sourceHash": "80f05be40fe640f1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-divergence-and-stokes-theorems-m3"
+    }
+  ]
+}

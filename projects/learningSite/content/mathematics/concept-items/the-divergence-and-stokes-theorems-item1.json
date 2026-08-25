@@ -1,0 +1,56 @@
+{
+  "id": "the-divergence-and-stokes-theorems-item1",
+  "conceptId": "the-divergence-and-stokes-theorems",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the divergence theorem relate a volume integral of ∇·F to?",
+    "et": "Millega seob Gaussi teoreem ∇·F ruumalaintegraali?",
+    "sourceHash": "f022830658ada63b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The flux of F through the surface enclosing that volume",
+        "et": "F vooguga läbi seda ruumala ümbritseva pinna",
+        "sourceHash": "aac5cfdcc9c973a0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A line integral of F around the volume's boundary curve",
+        "et": "F joonintegraaliga ümber ruumala rajakõvera",
+        "sourceHash": "24303d1232f4ad75",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-divergence-and-stokes-theorems-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The curl of F evaluated at the volume's centre",
+        "et": "F rootoriga, hinnatuna ruumala keskpunktis",
+        "sourceHash": "b45a945e50655550",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-divergence-and-stokes-theorems-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing physical — it is a purely formal identity",
+        "et": "Millegi füüsikalisega mitte millegagi — see on puhtalt formaalne samasus",
+        "sourceHash": "5e4051a76028c850",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-divergence-and-stokes-theorems-m3"
+    }
+  ]
+}
