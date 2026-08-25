@@ -1,0 +1,21 @@
+{
+  "id": "the-doppler-effect",
+  "subject": "physics",
+  "level": "L2",
+  "module": "waves",
+  "title": {
+    "en": "The Doppler effect",
+    "et": "Doppleri efekt",
+    "sourceHash": "1fca5c7477e75cb3",
+    "stale": false
+  },
+  "summary": {
+    "en": "When a wave source and observer are moving toward or away from each other, the observed frequency shifts up or down from the emitted frequency, because relative motion changes how often successive wave crests arrive — not because the wave itself has actually changed.",
+    "et": "Kui laineallikas ja vaatleja liiguvad üksteise poole või üksteisest eemale, nihkub vaadeldud sagedus kiiratud sagedusest üles- või allapoole, sest suhteline liikumine muudab seda, kui sageli järjestikused lainetipud saabuvad — mitte seepärast, et laine ise oleks tegelikult muutunud.",
+    "sourceHash": "27b3506e81f009c3",
+    "stale": false
+  },
+  "prerequisites": [
+    "sound-waves-and-intensity"
+  ]
+}

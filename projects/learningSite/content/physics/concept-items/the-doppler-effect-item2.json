@@ -1,0 +1,56 @@
+{
+  "id": "the-doppler-effect-item2",
+  "conceptId": "the-doppler-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is actually changing when a listener hears a Doppler-shifted pitch from an approaching source?",
+    "et": "Mis tegelikult muutub, kui kuulja kuuleb lähenevalt allikalt Doppleri nihkega tooni?",
+    "sourceHash": "092f88e085bf7738",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The rate at which wave crests reach the listener, due to the relative motion — the source's own emitted frequency is unchanged",
+        "et": "Kiirus, millega lainetipud kuuljani jõuavad, tänu suhtelisele liikumisele — allika enda kiiratav sagedus on muutumatu",
+        "sourceHash": "87af35c59d778c36",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The frequency the source itself is emitting, which genuinely shifts as it moves",
+        "et": "Sagedus, mida allikas ise kiirgab, mis liikudes tõeliselt nihkub",
+        "sourceHash": "0aed2ed7e0d9f250",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-doppler-effect-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The speed of sound itself, which changes because the source is moving",
+        "et": "Heli kiirus ise, mis muutub, sest allikas liigub",
+        "sourceHash": "ddb9359b64280699",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-doppler-effect-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing physical changes; the pitch shift is purely a listener's misperception",
+        "et": "Miski füüsiline ei muutu; helikõrguse nihe on puhtalt kuulja väärtaju",
+        "sourceHash": "51414854cc2f0306",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-doppler-effect-m1"
+    }
+  ]
+}

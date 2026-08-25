@@ -1,0 +1,56 @@
+{
+  "id": "the-doppler-effect-item1",
+  "conceptId": "the-doppler-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An ambulance approaches with its siren sounding, then passes and moves away. What does a stationary listener on the roadside hear?",
+    "et": "Kiirabiauto läheneb sireeniga, seejärel möödub ja eemaldub. Mida kuuleb teeäärne paigalseisev kuulja?",
+    "sourceHash": "8ec8941a9f8446c3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A higher pitch while approaching, dropping to a lower pitch once it has passed",
+        "et": "Kõrgemat tooni lähenemise ajal, mis langeb madalamale, kui see on möödunud",
+        "sourceHash": "67650fb2363a34b1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The same pitch throughout, since the siren's actual frequency never changes",
+        "et": "Sama tooni kogu aeg, sest sireeni tegelik sagedus kunagi ei muutu",
+        "sourceHash": "8337a50232673201",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-doppler-effect-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A lower pitch while approaching, rising once it has passed",
+        "et": "Madalamat tooni lähenemise ajal, mis tõuseb pärast möödumist",
+        "sourceHash": "7cdd62ed926ca0e5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-doppler-effect-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A pitch shift only at the exact instant it passes, constant before and after",
+        "et": "Helikõrguse nihet ainult täpselt möödumise hetkel, konstantne enne ja pärast",
+        "sourceHash": "a8325004194901a5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-doppler-effect-m1"
+    }
+  ]
+}
