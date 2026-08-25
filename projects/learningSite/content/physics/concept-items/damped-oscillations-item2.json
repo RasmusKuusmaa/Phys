@@ -1,0 +1,56 @@
+{
+  "id": "damped-oscillations-item2",
+  "conceptId": "damped-oscillations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A door closer is designed to shut a door smoothly, with no bouncing or oscillation. What kind of damping does it need?",
+    "et": "Ukse sulgur on kavandatud ust sujuvalt sulgema, ilma põrkumise või võnkumiseta. Mis liiki sumbuvust see vajab?",
+    "sourceHash": "66e777d4d61f35f4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Overdamping or critical damping — strong enough that the door returns without oscillating at all",
+        "et": "Ülesumbuvus või kriitiline sumbuvus — piisavalt tugev, et uks naaseb üldse võnkumata",
+        "sourceHash": "d77699b0c5e00d76",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Light damping, since lighter damping always returns to equilibrium fastest",
+        "et": "Nõrk sumbuvus, sest nõrgem sumbuvus naaseb tasakaalu alati kiiremini",
+        "sourceHash": "bc3429a63a0c046a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "damped-oscillations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "No damping at all, since damping only ever slows down the return",
+        "et": "Mitte mingit sumbuvust, sest sumbuvus ainult aeglustab naasmist",
+        "sourceHash": "44c142076c0ca9d2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "damped-oscillations-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The frequency alone determines whether it oscillates, not the damping",
+        "et": "Ainult sagedus otsustab, kas see võngub, mitte sumbuvus",
+        "sourceHash": "eb4ff3073c9ee018",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "damped-oscillations-m1"
+    }
+  ]
+}

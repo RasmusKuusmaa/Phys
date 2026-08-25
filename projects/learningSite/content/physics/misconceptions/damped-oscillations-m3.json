@@ -1,0 +1,10 @@
+{
+  "id": "damped-oscillations-m3",
+  "conceptId": "damped-oscillations",
+  "text": {
+    "en": "A damped oscillator's amplitude decreases by the same fixed amount every cycle.",
+    "et": "Sumbuva võnkuri amplituud väheneb iga tsükli jooksul sama kindla suuruse võrra.",
+    "sourceHash": "229fcf9b7d7e111a",
+    "stale": false
+  }
+}

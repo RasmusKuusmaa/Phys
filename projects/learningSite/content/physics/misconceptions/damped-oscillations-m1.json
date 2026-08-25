@@ -1,0 +1,10 @@
+{
+  "id": "damped-oscillations-m1",
+  "conceptId": "damped-oscillations",
+  "text": {
+    "en": "A damped oscillator's frequency stays exactly the same as an undamped one with the same mass and spring.",
+    "et": "Sumbuva võnkuri sagedus jääb täpselt samaks kui sumbumatul võnkuril sama massi ja vedruga.",
+    "sourceHash": "185f799d81ee0b04",
+    "stale": false
+  }
+}

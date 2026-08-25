@@ -1,0 +1,56 @@
+{
+  "id": "damped-oscillations-item1",
+  "conceptId": "damped-oscillations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A mass on a spring oscillates in air, then the same system is submerged in a viscous fluid. How does the amplitude behave over time in the fluid, compared with in air?",
+    "et": "Vedrul olev mass võngub õhus, seejärel sukeldatakse sama süsteem viskoossesse vedelikku. Kuidas käitub amplituud vedelikus aja jooksul võrreldes õhuga?",
+    "sourceHash": "2e8172e39ac3d6e8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It decays over time in the fluid, while staying essentially constant in air over the same span",
+        "et": "See kahaneb vedelikus aja jooksul, jäädes samal ajavahemikul õhus sisuliselt muutumatuks",
+        "sourceHash": "b8618648228de563",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It stays exactly constant in both cases, since damping only affects frequency",
+        "et": "See jääb mõlemal juhul täpselt muutumatuks, sest sumbuvus mõjutab ainult sagedust",
+        "sourceHash": "676083cd179bc6e0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "damped-oscillations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It decreases by the same fixed amount each cycle in the fluid",
+        "et": "See väheneb vedelikus igal tsüklil sama kindla suuruse võrra",
+        "sourceHash": "52d4752c25c3c01e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "damped-oscillations-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It increases in the fluid, since resistance adds energy to the system",
+        "et": "See suureneb vedelikus, sest takistus lisab süsteemile energiat",
+        "sourceHash": "9c01792a36beacec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "damped-oscillations-m1"
+    }
+  ]
+}

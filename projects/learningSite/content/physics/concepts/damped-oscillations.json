@@ -1,0 +1,21 @@
+{
+  "id": "damped-oscillations",
+  "subject": "physics",
+  "level": "L2",
+  "module": "mechanics",
+  "title": {
+    "en": "Damped oscillations",
+    "et": "Sumbuvad võnkumised",
+    "sourceHash": "d34f973f3b31d7d1",
+    "stale": false
+  },
+  "summary": {
+    "en": "Real oscillators lose energy to friction or resistance, so their amplitude decays over time while the oscillation itself continues — and depending on how strong that damping is, the system can still ring through many cycles, creep back slowly with no ringing at all, or sit at the boundary between the two.",
+    "et": "Tegelikud võnkurid kaotavad energiat hõõrdumisele või takistusele, mistõttu nende amplituud aja jooksul kahaneb, samal ajal kui võnkumine ise jätkub — ja sõltuvalt sumbuvuse tugevusest võib süsteem ikka läbida palju tsükleid, hiilida aeglaselt tagasi ilma igasuguse võnkumiseta või asuda nende kahe piiril.",
+    "sourceHash": "79cbda21da0cf870",
+    "stale": false
+  },
+  "prerequisites": [
+    "simple-harmonic-motion"
+  ]
+}
