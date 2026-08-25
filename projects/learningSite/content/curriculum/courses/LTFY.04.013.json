@@ -210,7 +210,17 @@
       "keywords": "A. Analüütilised lahendid. B. Vool ja püsipunktid. C. Püsipunktide tüübid. D. Lineaarne lähendus püsipunkti ümbruses. E. Püsipunktid kui \"potentsiaalli\" miinimumid. F. Võnkumiste võimatus ühemõõtmelises dünaamilises süsteemis. 37: Bifurkatsioonid:"
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "vectors-in-space",
+    "the-dot-product",
+    "the-cross-product",
+    "lines-and-planes-in-space",
+    "vector-fields-and-the-gradient",
+    "divergence-and-curl",
+    "the-divergence-and-stokes-theorems",
+    "partial-derivatives",
+    "multiple-integrals"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"
   ],

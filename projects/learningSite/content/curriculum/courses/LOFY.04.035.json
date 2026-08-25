@@ -105,7 +105,11 @@
       "keywords": "15. Ülesannete lahendamine loengus käsitletud ja/ või iseseisvalt omandatud materjali kohta. Võimalus esitada küsimusi seni õpitu kohta. kontrolltöö 1. Kodune töö"
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "first-order-differential-equations",
+    "infinite-series",
+    "the-divergence-and-stokes-theorems"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"
   ],

@@ -108,7 +108,11 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "complex-numbers",
+    "polar-form-of-complex-numbers",
+    "functions-of-a-complex-variable"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"
   ],

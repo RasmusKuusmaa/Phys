@@ -250,6 +250,32 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "interference-and-diffraction",
     "resonance",
   ],
+  // LTFY.04.013 Matemaatiline füüsika — vector/tensor algebra and calculus
+  // applied to physics; elective, not yet fully covered (tensor calculus missing).
+  "LTFY.04.013": [
+    "vectors-in-space",
+    "the-dot-product",
+    "the-cross-product",
+    "lines-and-planes-in-space",
+    "vector-fields-and-the-gradient",
+    "divergence-and-curl",
+    "the-divergence-and-stokes-theorems",
+    "partial-derivatives",
+    "multiple-integrals",
+  ],
+  // LOFY.04.035 Matemaatilise füüsika võrrandid — ODEs, Fourier method,
+  // boundary value problems; elective, partially covered.
+  "LOFY.04.035": [
+    "first-order-differential-equations",
+    "infinite-series",
+    "the-divergence-and-stokes-theorems",
+  ],
+  // LTFY.04.015 Kompleksmuutuja funktsioonid füüsikas.
+  "LTFY.04.015": [
+    "complex-numbers",
+    "polar-form-of-complex-numbers",
+    "functions-of-a-complex-variable",
+  ],
   "LTFY.01.004": [
     "combining-uncertainties",
     "displacement-velocity-acceleration",
