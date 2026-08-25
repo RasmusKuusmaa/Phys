@@ -1,0 +1,56 @@
+{
+  "id": "classes-of-materials-item1",
+  "conceptId": "classes-of-materials",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why are ceramics excellent under compression but unreliable under tension?",
+    "et": "Miks on keraamika suurepärane survele, kuid ebausaldusväärne tõmbele?",
+    "sourceHash": "981f4f483500e71e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Their rigid bonds resist compression but cannot deform to blunt a crack, so flaws propagate",
+        "et": "Nende jäigad sidemed peavad survele vastu, kuid ei suuda deformeerudes pragu nürida, mistõttu defektid levivad",
+        "sourceHash": "fdd476c82b7ea908",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are simply weak materials and cannot bear large loads at all",
+        "et": "Need on lihtsalt nõrgad materjalid ega talu üldse suuri koormusi",
+        "sourceHash": "a98f41a21bf43be4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classes-of-materials-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Their properties are the average of their constituent phases",
+        "et": "Nende omadused on koostisfaaside keskmine",
+        "sourceHash": "3793d97aea575fd8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classes-of-materials-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They behave like polymers, which are soft by nature",
+        "et": "Need käituvad nagu polümeerid, mis on oma olemuselt pehmed",
+        "sourceHash": "a1c62e13dd9c7e95",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classes-of-materials-m3"
+    }
+  ]
+}

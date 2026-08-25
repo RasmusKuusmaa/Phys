@@ -1,0 +1,21 @@
+{
+  "id": "classes-of-materials",
+  "subject": "materials-science",
+  "level": "L1",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Classes of materials",
+    "et": "Materjaliklassid",
+    "sourceHash": "149b263d2081040b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Metals, ceramics, polymers and composites differ first in how their atoms bond, and that difference propagates into every property that decides where each one is used.",
+    "et": "Metallid, keraamika, polümeerid ja komposiidid erinevad kõigepealt selle poolest, kuidas nende aatomid seonduvad, ja see erinevus kandub edasi igasse omadusse, mis otsustab, kus kumbagi kasutatakse.",
+    "sourceHash": "74ec44124cf34eb3",
+    "stale": false
+  },
+  "prerequisites": [
+    "structure-property-relationships"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "classes-of-materials-item2",
+  "conceptId": "classes-of-materials",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Carbon-fibre composite is stiffer and stronger per unit weight than either its fibres or its resin used alone. Why?",
+    "et": "Süsinikkiudkomposiit on ühikmassi kohta jäigem ja tugevam kui selle kiud või vaik eraldi. Miks?",
+    "sourceHash": "7d3722eccf13398d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The phases divide the work — fibres carry load, matrix transfers it and stops cracks spreading",
+        "et": "Faasid jagavad töö — kiud kannavad koormust, maatriks kannab selle edasi ja peatab pragude leviku",
+        "sourceHash": "1dbb7877af783a28",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Its properties are the average of the fibre and the resin",
+        "et": "Selle omadused on kiu ja vaigu keskmine",
+        "sourceHash": "5363576c5731718f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classes-of-materials-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The resin is a polymer, and polymers are always soft",
+        "et": "Vaik on polümeer ja polümeerid on alati pehmed",
+        "sourceHash": "65a293af53e6700e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classes-of-materials-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because ceramics cannot bear load, the fibres must do everything",
+        "et": "Kuna keraamika ei talu koormust, peavad kiud tegema kõik",
+        "sourceHash": "dd8ba92a9e8f6339",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classes-of-materials-m1"
+    }
+  ]
+}
