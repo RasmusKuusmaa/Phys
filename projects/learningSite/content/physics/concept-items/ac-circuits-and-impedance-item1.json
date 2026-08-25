@@ -1,0 +1,56 @@
+{
+  "id": "ac-circuits-and-impedance-item1",
+  "conceptId": "ac-circuits-and-impedance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How does a capacitor's opposition to current change as the frequency of the applied AC rises?",
+    "et": "Kuidas muutub kondensaatori vastupanu voolule, kui rakendatud vahelduvpinge sagedus kasvab?",
+    "sourceHash": "2b2593a0e3f4c485",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It falls, because the plates reverse charge more often and more charge moves per second",
+        "et": "See väheneb, sest plaadid vahetavad laengut sagedamini ja sekundis liigub rohkem laengut",
+        "sourceHash": "ae4a7741c2fe10a8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is unchanged, since a capacitor blocks alternating current at any frequency",
+        "et": "See ei muutu, sest kondensaator tõkestab vahelduvvoolu igal sagedusel",
+        "sourceHash": "c226db28b8eeead7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ac-circuits-and-impedance-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It rises in proportion to frequency, exactly as an ordinary resistor's would",
+        "et": "See kasvab võrdeliselt sagedusega, täpselt nagu tavalise takisti oma",
+        "sourceHash": "032ce83fadea686a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ac-circuits-and-impedance-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be defined, because current and voltage always peak together",
+        "et": "Seda ei saa määratleda, sest vool ja pinge saavutavad tipu alati koos",
+        "sourceHash": "9d348ae7219a5d1a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ac-circuits-and-impedance-m3"
+    }
+  ]
+}

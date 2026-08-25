@@ -19,7 +19,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     // Phase 11b — bachelor-core depth. Concepts, formulas, problem templates,
     // error models and resources are in; misconceptions, concept items and
     // explanations are still being authored module by module. See todo.md.
-    "ac-circuits-and-impedance",
     "bernoullis-equation",
     "buoyancy-and-archimedes-principle",
     "fluid-continuity-and-flow-rate",

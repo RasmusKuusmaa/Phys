@@ -1,0 +1,56 @@
+{
+  "id": "ac-circuits-and-impedance-item2",
+  "conceptId": "ac-circuits-and-impedance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A circuit contains a resistor and an inductor in series on AC. How is the total impedance obtained?",
+    "et": "Vahelduvvooluahelas on jadamisi takisti ja induktiivpool. Kuidas saadakse koguimpedants?",
+    "sourceHash": "b64d3eb1e068d141",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "By combining resistance and reactance at right angles, since they act a quarter cycle apart",
+        "et": "Liites takistuse ja reaktantsi täisnurga all, sest need mõjuvad veerand tsükli nihkega",
+        "sourceHash": "6815a335be7abdc2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "By adding the resistance and the reactance arithmetically, as both oppose current",
+        "et": "Liites takistuse ja reaktantsi aritmeetiliselt, sest mõlemad takistavad voolu",
+        "sourceHash": "eeb600171f2f1053",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ac-circuits-and-impedance-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "By using the resistance alone, because inductors pass AC unhindered",
+        "et": "Kasutades ainult takistust, sest induktiivpoolid lasevad vahelduvvoolu takistamatult läbi",
+        "sourceHash": "6e2f1c1a3e570678",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ac-circuits-and-impedance-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "By averaging the two, since current and voltage peak simultaneously",
+        "et": "Võttes nende keskmise, sest vool ja pinge saavutavad tipu üheaegselt",
+        "sourceHash": "f68652b9bd85305a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ac-circuits-and-impedance-m3"
+    }
+  ]
+}

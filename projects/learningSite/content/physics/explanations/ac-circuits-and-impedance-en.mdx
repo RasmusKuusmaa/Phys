@@ -1,0 +1,24 @@
+On direct current a capacitor is a dead end: charge builds on the plates and
+flow stops. On alternating current nothing gets to settle. The supply
+reverses, the plates discharge and recharge the other way, and charge keeps
+sloshing back and forth through the wires — a real, measurable current, even
+though no charge crosses the gap. Raise the frequency and the reversals come
+faster, so more charge moves per second and the capacitor opposes the current
+*less*. An inductor does the opposite, opposing changes in current and so
+obstructing high frequencies most.
+
+This frequency-dependent opposition is called reactance, and it differs from
+resistance in a way that matters. A resistor's voltage peaks exactly when its
+current peaks. A capacitor's voltage lags a quarter of a cycle behind its
+current, an inductor's leads by a quarter cycle. So when a resistor and a
+reactive component share a circuit, their peak oppositions occur at different
+moments and cannot simply be added up.
+
+Impedance is the quantity that handles this properly, combining resistance
+and reactance at right angles — for a series RL circuit, Z = √(R² + X_L²),
+not R + X_L. The right-angle combination also produces a phase difference
+between the circuit's overall current and voltage, which is why AC power
+depends on a power factor rather than just volts times amps. And because
+capacitive and inductive reactances move oppositely with frequency, they
+cancel at one particular frequency: that is resonance, and it is what lets a
+radio pick one station out of the whole band.
