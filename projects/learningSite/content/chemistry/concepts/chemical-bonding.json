@@ -1,0 +1,21 @@
+{
+  "id": "chemical-bonding",
+  "subject": "chemistry",
+  "level": "L1",
+  "module": "general-chemistry",
+  "title": {
+    "en": "Chemical bonding",
+    "et": "Keemiline side",
+    "sourceHash": "9d22026b7361cd5d",
+    "stale": false
+  },
+  "summary": {
+    "en": "Atoms bond by transferring or sharing electrons, and where a bond sits on the ionic-to-covalent scale is set by the difference in electronegativity — which in turn predicts a substance's melting point, solubility and conductivity.",
+    "et": "Aatomid seonduvad elektrone loovutades või jagades ning see, kus side ioonilise ja kovalentse vahelisel skaalal asub, sõltub elektronegatiivsuste erinevusest — mis omakorda ennustab aine sulamistemperatuuri, lahustuvust ja juhtivust.",
+    "sourceHash": "7c75771281b0bc5f",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-mole-and-amount-of-substance"
+  ]
+}

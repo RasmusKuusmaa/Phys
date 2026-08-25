@@ -1,0 +1,56 @@
+{
+  "id": "chemical-bonding-item1",
+  "conceptId": "chemical-bonding",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Does breaking the bond in an H₂ molecule release or require energy?",
+    "et": "Kas H₂ molekuli sideme lõhkumine vabastab või nõuab energiat?",
+    "sourceHash": "e511fb8c7f8613b6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It requires energy — bonded atoms are at lower energy than separated ones",
+        "et": "See nõuab energiat — seotud aatomid on madalamal energial kui lahutatud aatomid",
+        "sourceHash": "be65a2f028667695",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It releases energy, which is why reactions that break bonds give off heat",
+        "et": "See vabastab energiat, mistõttu sidemeid lõhkuvad reaktsioonid eraldavad soojust",
+        "sourceHash": "e4871709b236b517",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chemical-bonding-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Neither, since bond energy depends only on the octet rule",
+        "et": "Kumbagi, sest sideme energia sõltub ainult oktetireeglist",
+        "sourceHash": "9a7602c263a5e71f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chemical-bonding-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on whether the bond is ionic or covalent, with no middle case",
+        "et": "See sõltub sellest, kas side on iooniline või kovalentne, ilma vahepealse juhuta",
+        "sourceHash": "3097e082ba093269",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chemical-bonding-m1"
+    }
+  ]
+}
