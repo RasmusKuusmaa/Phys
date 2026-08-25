@@ -171,7 +171,15 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "heisenberg-uncertainty-principle",
+    "photoelectric-effect",
+    "photons-and-quanta",
+    "quantum-energy-levels",
+    "radioactivity-and-half-life",
+    "wave-particle-duality",
+    "wavefunctions-and-probability"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/physics1.md"
   ],

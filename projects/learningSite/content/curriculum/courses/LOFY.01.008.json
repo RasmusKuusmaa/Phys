@@ -212,7 +212,18 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "interference-and-diffraction",
+    "lenses-and-focal-length",
+    "polarization-of-light",
+    "resonance",
+    "simple-harmonic-motion",
+    "snells-law",
+    "standing-waves",
+    "total-internal-reflection",
+    "wave-nature-of-light",
+    "wave-properties"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",
     "SuunaMoodulid/physics1.md"

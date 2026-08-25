@@ -23,7 +23,17 @@
   ],
   "summary": "Praktikumis määratakse materjalide elastsusmoodulit, nihkemoodulit, Brinelli kõvadust, soojuspaisumistegurit, erisoojust ja soojusjuhtivust ning vedeliku viskoossust.",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "displacement-velocity-acceleration",
+    "momentum-and-impulse",
+    "newtons-first-law",
+    "newtons-second-law",
+    "newtons-third-law",
+    "phase-transitions",
+    "specific-heat-capacity",
+    "thermal-expansion",
+    "work-and-energy"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience2.md"
   ],

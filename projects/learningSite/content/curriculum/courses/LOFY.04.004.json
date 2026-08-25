@@ -110,7 +110,14 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "entropy-and-the-second-law",
+    "free-energy-and-spontaneity",
+    "laws-of-thermodynamics",
+    "statistical-definition-of-entropy",
+    "the-carnot-cycle-and-heat-engines",
+    "the-maxwell-boltzmann-distribution"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"
   ],

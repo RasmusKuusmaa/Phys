@@ -230,7 +230,13 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "coupled-and-driven-oscillators",
+    "lagrangian-mechanics",
+    "moment-of-inertia-and-rotational-dynamics",
+    "rotational-kinetic-energy",
+    "torque-and-angular-momentum"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md",
     "SuunaMoodulid/physics2.md"

@@ -1,5 +1,6 @@
 import { mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { CONTENT_ROOT } from "@/content/loader";
+import { COURSE_CONCEPTS } from "@/curriculum/mapping";
 import { COURSE_NAMES_EN, MODULE_NAMES_EN, UNCODED_COURSE_HEADERS } from "@/curriculum/translations";
 import type { Course, Module, Track } from "@/curriculum/types";
 
@@ -290,8 +291,9 @@ function main() {
       outcomes: p?.outcomes ?? [],
       summary: p?.summary ?? "",
       topics: p?.topics ?? [],
-      // Filled in by the mapping pass, not by the parser — see curriculum/mapping.
-      conceptIds: [],
+      // Authored in `src/curriculum/mapping.ts`, copied in here so a course
+      // record is self-contained; a rebuild always re-reads the mapping.
+      conceptIds: [...(COURSE_CONCEPTS[code] ?? [])],
       sourceFiles: p?.sourceFiles ?? [],
       hasSyllabus: Boolean(p),
     });

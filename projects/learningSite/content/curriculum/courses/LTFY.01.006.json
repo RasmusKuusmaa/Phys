@@ -176,7 +176,37 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "bernoullis-equation",
+    "buoyancy-and-archimedes-principle",
+    "conservation-of-energy",
+    "conservation-of-momentum",
+    "coupled-and-driven-oscillators",
+    "displacement-velocity-acceleration",
+    "fluid-continuity-and-flow-rate",
+    "ideal-gas-law",
+    "interference-and-diffraction",
+    "kinetic-theory-of-gases",
+    "lagrangian-mechanics",
+    "moment-of-inertia-and-rotational-dynamics",
+    "momentum-and-impulse",
+    "newtonian-gravitation",
+    "newtons-first-law",
+    "newtons-second-law",
+    "newtons-third-law",
+    "pascals-principle-and-hydraulics",
+    "phase-transitions",
+    "pressure-in-fluids",
+    "resonance",
+    "rotational-kinetic-energy",
+    "simple-harmonic-motion",
+    "specific-heat-capacity",
+    "thermal-expansion",
+    "torque-and-angular-momentum",
+    "viscosity-and-poiseuille-flow",
+    "wave-properties",
+    "work-and-energy"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience1.md",
     "SuunaMoodulid/physics1.md"

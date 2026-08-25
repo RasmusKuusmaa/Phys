@@ -53,7 +53,12 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "length-contraction",
+    "postulates-of-special-relativity",
+    "relativistic-momentum-and-energy",
+    "time-dilation"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"
   ],

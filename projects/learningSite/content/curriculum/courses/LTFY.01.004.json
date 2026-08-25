@@ -86,7 +86,21 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "combining-uncertainties",
+    "displacement-velocity-acceleration",
+    "momentum-and-impulse",
+    "newtons-first-law",
+    "newtons-second-law",
+    "newtons-third-law",
+    "phase-transitions",
+    "scalars-and-vectors",
+    "significant-figures",
+    "specific-heat-capacity",
+    "thermal-expansion",
+    "uncertainty-and-error",
+    "work-and-energy"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"
   ],

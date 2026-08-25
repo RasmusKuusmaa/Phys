@@ -98,7 +98,15 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "combining-uncertainties",
+    "measurement-and-precision",
+    "physical-quantities-and-units",
+    "propagation-of-uncertainty-in-functions",
+    "scalars-and-vectors",
+    "significant-figures",
+    "uncertainty-and-error"
+  ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid1.md"
   ],

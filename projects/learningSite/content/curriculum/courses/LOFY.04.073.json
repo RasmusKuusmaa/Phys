@@ -141,7 +141,14 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "heisenberg-uncertainty-principle",
+    "particle-in-a-box",
+    "quantum-tunneling",
+    "spin-and-angular-momentum-in-quantum-mechanics",
+    "the-hydrogen-atom-and-atomic-structure",
+    "wavefunctions-and-probability"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"
   ],

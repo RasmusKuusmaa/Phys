@@ -92,7 +92,18 @@
       "keywords": "Elektrimootorid ja generaatorid. Elektrienergia jaotusvõrk. Väljumistöö ja kontaktpotentsiaalide vahe. Termoelektrilised nähtused. Termopaar. Tahkiste tsooniteooria alused. Pooljuhi elektron- ja aukjuhtivus. pn-siire, selle tsooniskeem ja voltampertunnusjoon. Päri- ja vastupinge. Alaldi, fotodiood, solaarrakk, valgusdiood ja pooljuhtlaser. Bipolaartransistor, väljatransistor ja MOP-transistor. Elektrivool gaasides. Huum-, kaar-, säde- ja koroonalahendus, nende rakendused. Elektrivool vedelikes. Elektrolüüs ja selle rakendused. Lisaseminarid (8 h): Mittekohustuslikes lisaseminarides 09.12, 10.12, 16.12 ja 17.12 esitletakse rühmatöid, mis on pühendatud eksami väljundiliste ülesannete lahendamise oskuse omandamisele ning annavad osalejatele lisapunkte."
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "ac-circuits-and-impedance",
+    "capacitance",
+    "electric-fields",
+    "electromagnetic-induction",
+    "electromagnetic-waves",
+    "kirchhoffs-laws-and-circuit-analysis",
+    "magnetic-fields",
+    "maxwells-equations",
+    "rc-circuit-transients",
+    "voltage-and-resistance"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",
     "SuunaMoodulid/physics1.md"

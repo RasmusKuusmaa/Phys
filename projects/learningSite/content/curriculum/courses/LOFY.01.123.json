@@ -100,7 +100,14 @@
       "keywords": "14.1. Vahelduvvoolu iseloomustavate suuruste mõõtmine. 14.2. Pinge- ja vooluresonants ([1] lk. 246-254) 14.2.1. Pinge- ja vooluresonants helisagedusel ([1] lk. 257-264)."
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "capacitance",
+    "electric-fields",
+    "electromagnetic-induction",
+    "kirchhoffs-laws-and-circuit-analysis",
+    "magnetic-fields",
+    "voltage-and-resistance"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"
   ],

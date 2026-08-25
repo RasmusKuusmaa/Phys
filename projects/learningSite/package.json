@@ -16,7 +16,8 @@
     "content:coverage": "tsx scripts/content-coverage.ts",
     "content:new-concept": "tsx scripts/new-concept.ts",
     "typecheck": "next typegen && tsc --noEmit",
-    "curriculum:build": "tsx scripts/build-curriculum.ts"
+    "curriculum:build": "tsx scripts/build-curriculum.ts",
+    "curriculum:coverage": "tsx scripts/curriculum-coverage.ts"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.1",
