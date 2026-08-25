@@ -1,0 +1,56 @@
+{
+  "id": "the-equipartition-theorem-item1",
+  "conceptId": "the-equipartition-theorem",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A monatomic gas (like helium) and a diatomic gas (like nitrogen) are at the same temperature. Which has more internal energy per molecule, and why?",
+    "et": "Ühe aatomiga gaas (nagu heelium) ja kaheaatomiline gaas (nagu lämmastik) on samal temperatuuril. Kummal on molekuli kohta rohkem siseenergiat ja miks?",
+    "sourceHash": "a738729d68a0c96e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The diatomic gas — it has rotational degrees of freedom in addition to translation, each carrying its own share of thermal energy",
+        "et": "Kaheaatomilisel gaasil — sellel on lisaks translatsioonile ka pöörlemise vabadusastmed, millest kumbki kannab oma osa soojusenergiast",
+        "sourceHash": "6ea61abcdef5575d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both have exactly the same internal energy, since they are at the same temperature",
+        "et": "Mõlemal on täpselt sama siseenergia, sest need on samal temperatuuril",
+        "sourceHash": "2e3ef24d917e6a6c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-equipartition-theorem-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The monatomic gas, since it is structurally simpler and therefore stores energy more efficiently",
+        "et": "Ühe aatomiga gaasil, sest see on struktuurilt lihtsam ja seega talletab energiat tõhusamalt",
+        "sourceHash": "9383f2b091782fd6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-equipartition-theorem-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends only on molar mass, not on molecular structure",
+        "et": "See sõltub ainult moolmassist, mitte molekuli struktuurist",
+        "sourceHash": "4967ae580bf08bc6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-equipartition-theorem-m1"
+    }
+  ]
+}

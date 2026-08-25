@@ -1,0 +1,56 @@
+{
+  "id": "the-equipartition-theorem-item2",
+  "conceptId": "the-equipartition-theorem",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the equipartition theorem say about how thermal energy is distributed among a molecule's independent degrees of freedom?",
+    "et": "Mida ütleb ekvipartitsiooniteoreem selle kohta, kuidas soojusenergia jaotub molekuli sõltumatute vabadusastmete vahel?",
+    "sourceHash": "170f83360a3b21bf",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Each quadratic degree of freedom carries the same average energy, ½kT",
+        "et": "Iga ruutsõltuvusega vabadusaste kannab sama keskmist energiat, ½kT",
+        "sourceHash": "423923e80849e4a1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Only translational motion carries thermal energy; other degrees of freedom carry none",
+        "et": "Ainult translatsiooniline liikumine kannab soojusenergiat; teised vabadusastmed ei kanna seda üldse",
+        "sourceHash": "e6ae5355e352ae90",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-equipartition-theorem-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Energy concentrates entirely in whichever degree of freedom is easiest to excite",
+        "et": "Energia koondub täielikult sellesse vabadusastmesse, mida on kõige lihtsam ergastada",
+        "sourceHash": "6a9588d1d8004222",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-equipartition-theorem-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The distribution depends on the gas's pressure, not on temperature",
+        "et": "Jaotus sõltub gaasi rõhust, mitte temperatuurist",
+        "sourceHash": "70c088144c27ba11",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-equipartition-theorem-m1"
+    }
+  ]
+}
