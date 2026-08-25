@@ -946,20 +946,20 @@ the physics content already leans on implicitly.
   `content: add single variable calculus concepts`
 - [x] Author sequences, series and convergence
   `content: add sequences and series concepts`
-- [~] Author linear algebra — matrices, determinants and linear systems done;
-      eigenvalues still to come
+- [x] Author linear algebra — vectors, matrices, determinants, systems,
+      vector spaces, eigenvalues (8 concepts)
   `content: add linear algebra concepts`
 - [x] Author multivariable calculus — partial derivatives, multiple integrals
   `content: add multivariable calculus concepts`
-- [ ] Author vector calculus — gradient, divergence, curl, the integral theorems
+- [x] Author vector calculus — gradient, divergence, curl, the integral theorems
   `content: add vector calculus concepts`
 - [~] Author ordinary differential equations — first-order separable and linear
       done; second-order still to come
   `content: add differential equations concepts`
 - [x] Author probability and statistics for `MTMS.02.059`
   `content: add probability and statistics concepts`
-- [~] Author complex numbers and functions of a complex variable — algebraic and
-      polar form done; complex functions still to come
+- [x] Author complex numbers and functions of a complex variable — algebraic,
+      polar/exponential form, holomorphic functions and Cauchy-Riemann (4 concepts)
   `content: add complex analysis concepts`
 
 ### Phase 28 — Chemistry as a subject
