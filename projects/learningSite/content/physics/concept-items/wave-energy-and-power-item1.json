@@ -1,0 +1,56 @@
+{
+  "id": "wave-energy-and-power-item1",
+  "conceptId": "wave-energy-and-power",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A wave's amplitude is tripled while its frequency stays fixed. What happens to the energy it carries?",
+    "et": "Laine amplituud kolmekordistatakse, sagedust muutmata. Mis juhtub selle kantava energiaga?",
+    "sourceHash": "c867a216fbb6055b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It increases ninefold, since energy is proportional to the square of amplitude",
+        "et": "See kasvab üheksa korda, sest energia on võrdeline amplituudi ruuduga",
+        "sourceHash": "59cf8ff6911f78a6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It triples, tracking amplitude directly",
+        "et": "See kolmekordistub, järgides otse amplituudi",
+        "sourceHash": "613c5210ee007113",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-energy-and-power-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, since energy depends only on frequency",
+        "et": "See ei muutu, sest energia sõltub ainult sagedusest",
+        "sourceHash": "9ea58bee0f6f3231",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-energy-and-power-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be determined without knowing the wave's frequency as well",
+        "et": "Seda ei saa kindlaks teha, teadmata ka laine sagedust",
+        "sourceHash": "734dbecd27a98e9d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-energy-and-power-m1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "wave-energy-and-power-item2",
+  "conceptId": "wave-energy-and-power",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two waves on the same string have the same frequency, but one has twice the amplitude of the other. What is true of a larger-amplitude wave in general?",
+    "et": "Kahel samal keelel oleval lainel on sama sagedus, kuid ühel on kaks korda suurem amplituud kui teisel. Mis kehtib üldiselt suurema amplituudiga laine kohta?",
+    "sourceHash": "f9738d94415f86aa",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It carries more energy, but nothing requires its frequency to be different",
+        "et": "See kannab rohkem energiat, kuid miski ei nõua, et selle sagedus oleks erinev",
+        "sourceHash": "1ae53a9d00b8d492",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It must also have a higher frequency, since amplitude and frequency are linked",
+        "et": "Sellel peab olema ka kõrgem sagedus, sest amplituud ja sagedus on seotud",
+        "sourceHash": "255d1085f2d44440",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-energy-and-power-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It carries the same energy, since energy depends only on frequency",
+        "et": "See kannab sama energiat, sest energia sõltub ainult sagedusest",
+        "sourceHash": "05d9b1c56034cc6b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-energy-and-power-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Amplitude and power are the same quantity, so nothing further can be said",
+        "et": "Amplituud ja võimsus on sama suurus, seega ei saa midagi enamat öelda",
+        "sourceHash": "0fe03544df907571",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wave-energy-and-power-m1"
+    }
+  ]
+}

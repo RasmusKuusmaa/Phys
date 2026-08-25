@@ -1,0 +1,21 @@
+{
+  "id": "wave-energy-and-power",
+  "subject": "physics",
+  "level": "L2",
+  "module": "waves",
+  "title": {
+    "en": "Wave energy and power",
+    "et": "Laine energia ja võimsus",
+    "sourceHash": "81e1b592a4db082d",
+    "stale": false
+  },
+  "summary": {
+    "en": "The energy carried by a mechanical wave is proportional to the square of its amplitude, so a wave twice as tall carries four times the energy — a rule that makes intensity fall off far more steeply than amplitude does.",
+    "et": "Mehaanilise laine kantav energia on võrdeline selle amplituudi ruuduga, seega kannab kaks korda kõrgem laine neli korda rohkem energiat — reegel, mis paneb intensiivsuse langema palju järsemalt kui amplituud.",
+    "sourceHash": "40210f387d7ff3b1",
+    "stale": false
+  },
+  "prerequisites": [
+    "wave-properties"
+  ]
+}
