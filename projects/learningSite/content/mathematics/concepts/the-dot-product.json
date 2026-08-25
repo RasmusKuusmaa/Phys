@@ -1,0 +1,21 @@
+{
+  "id": "the-dot-product",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "vector-algebra",
+  "title": {
+    "en": "The dot product",
+    "et": "Skalaarkorrutis",
+    "sourceHash": "064345bcc2ea0a51",
+    "stale": false
+  },
+  "summary": {
+    "en": "The dot product multiplies two vectors into a single number that measures how much they point the same way — it vanishes exactly when they are perpendicular, which makes it the standard test for a right angle.",
+    "et": "Skalaarkorrutis korrutab kaks vektorit üheks arvuks, mis näitab, kui palju need osutavad ühes suunas — see on null täpselt siis, kui vektorid on risti, mistõttu on see standardne täisnurga kontroll.",
+    "sourceHash": "fed94857b6bb76d1",
+    "stale": false
+  },
+  "prerequisites": [
+    "vectors-in-space"
+  ]
+}

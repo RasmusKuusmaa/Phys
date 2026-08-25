@@ -1,0 +1,56 @@
+{
+  "id": "the-dot-product-item1",
+  "conceptId": "the-dot-product",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two non-zero vectors have a dot product of zero. What does this tell you?",
+    "et": "Kahe nullist erineva vektori skalaarkorrutis on null. Mida see näitab?",
+    "sourceHash": "7ab241b338181118",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They are perpendicular to each other",
+        "et": "Need on teineteisega risti",
+        "sourceHash": "da2706f33c5fda0d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "At least one of them must actually be the zero vector",
+        "et": "Vähemalt üks neist peab tegelikult olema nullvektor",
+        "sourceHash": "c30b06f7580a85cc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-dot-product-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They point in exactly opposite directions",
+        "et": "Need osutavad täpselt vastassuundades",
+        "sourceHash": "c267b6534ff78b72",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-dot-product-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Their dot product is a vector of zero length",
+        "et": "Nende skalaarkorrutis on nullpikkusega vektor",
+        "sourceHash": "93a569917f8d0325",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-dot-product-m1"
+    }
+  ]
+}

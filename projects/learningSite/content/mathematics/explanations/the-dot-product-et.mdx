@@ -1,0 +1,19 @@
+Skalaarkorrutis võtab kaks vektorit ja annab tavalise arvu — mitte vektori.
+See on esimene asi, mis peas paika panna, sest nimi "korrutis" vihjab muule ja
+peagi kohatav vektorkorrutis annabki tõesti vektori. Koordinaatides on see
+lihtsalt aₓbₓ + a_yb_y + a_zb_z; geomeetriliselt on see |a||b|cos θ, kus θ on
+nendevaheline nurk.
+
+Just need kaks kuju koos teevad selle kasulikuks. Geomeetriline kuju ütleb, et
+skalaarkorrutis mõõdab suundade kokkulangevust: suurim, kui vektorid osutavad
+samas suunas, null, kui need on risti, ja *negatiivne*, kui nurk on nüri.
+Koordinaatkuju laseb selle välja arvutada ilma nurka üldse leidmata. Võrdsusta
+need ja saad θ avaldada — see ongi tavapärane viis leida kahe ruumivektori
+vaheline nurk.
+
+Ristseisu kontroll on koht, kus skalaarkorrutis end ära tasub. Kaks nullist
+erinevat vektorit on täisnurga all täpselt siis, kui nende skalaarkorrutis on
+null, ja selle kontrollimiseks kulub kolm korrutamist ja kaks liitmist, ilma
+igasuguse trigonomeetriata. Just seepärast on ka töö füüsikas skalaarkorrutis:
+liikumisega risti lükkamine ei tee tööd ja tegur cos θ ongi see, mis seda
+väljendab.

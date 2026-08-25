@@ -1,0 +1,56 @@
+{
+  "id": "the-dot-product-item2",
+  "conceptId": "the-dot-product",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What kind of object is the dot product of two vectors, and what sign can it take?",
+    "et": "Mis laadi objekt on kahe vektori skalaarkorrutis ja millise märgi see võib omandada?",
+    "sourceHash": "b8327e0fc127eb05",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A single number, which is negative when the angle between the vectors exceeds 90°",
+        "et": "Üksainus arv, mis on negatiivne, kui vektoritevaheline nurk ületab 90°",
+        "sourceHash": "3e6c2eabfeeed861",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A vector perpendicular to both of them",
+        "et": "Vektor, mis on mõlemaga risti",
+        "sourceHash": "0e62c5eab3f4a0d5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-dot-product-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A single number that can never be negative",
+        "et": "Üksainus arv, mis ei saa kunagi olla negatiivne",
+        "sourceHash": "eb1cc5711ee14169",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-dot-product-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A number that is zero unless one vector is the zero vector",
+        "et": "Arv, mis on null, kui üks vektoritest ei ole nullvektor",
+        "sourceHash": "b56e259f3ab2bf27",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-dot-product-m2"
+    }
+  ]
+}

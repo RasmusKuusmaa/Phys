@@ -1,0 +1,18 @@
+The dot product takes two vectors and returns a plain number — not a vector.
+That is the first thing to fix in your head, because the name "product"
+suggests otherwise and the cross product, met soon after, really does return a
+vector. Written in coordinates it is just aₓbₓ + a_yb_y + a_zb_z; written
+geometrically it is |a||b|cos θ, where θ is the angle between them.
+
+Those two forms together are what make it useful. The geometric form says the
+dot product measures alignment: largest when the vectors point the same way,
+zero when they are perpendicular, and *negative* when the angle is obtuse. The
+coordinate form lets you compute it without ever finding the angle. Set them
+equal and you can solve for θ — which is the standard way to find the angle
+between two vectors in space.
+
+The perpendicularity test is where it earns its keep. Two non-zero vectors are
+at right angles precisely when their dot product is zero, and checking that is
+three multiplications and two additions with no trigonometry in sight. It is
+also the reason work in physics is a dot product: pushing at right angles to
+the motion does no work, and the cos θ factor is exactly what encodes that.

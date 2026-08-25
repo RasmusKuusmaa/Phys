@@ -1,0 +1,10 @@
+{
+  "id": "the-dot-product-m2",
+  "conceptId": "the-dot-product",
+  "text": {
+    "en": "A dot product of zero means at least one of the vectors is the zero vector.",
+    "et": "Nullist erinev skalaarkorrutis tähendab, et vähemalt üks vektoritest on nullvektor.",
+    "sourceHash": "5ea3ced931169d3c",
+    "stale": false
+  }
+}
