@@ -84,6 +84,55 @@ problems with computed distractors in an unstyled page before building any UI po
 
 ---
 
+## Execution order
+
+Phase numbers are stable identifiers, not a reading order. Physics is finished before any
+other subject starts, so the actual order of remaining work is:
+
+```
+Phase 11b  →  Phases 15–23  →  Phase 24  →  Phase 14
+(finish the    (physics to      (enforce &    (mathematics,
+ 29 partial     bachelor         final QA)     chemistry,
+ concepts)      completeness)                  materials science)
+```
+
+## How to resume this on another machine
+
+```bash
+git clone <repo> && cd projects/learningSite
+npm install
+npm run content:coverage -- --incomplete   # exactly what is left to author
+npm run validate:content                   # errors block; waived gaps print as warnings
+```
+
+`npm run content:coverage -- --incomplete` is the source of truth for what remains —
+it lists every concept missing misconceptions, items, resources or explanations. This
+file is the plan; that command is the state.
+
+**Every new concept starts with the scaffold**, which writes all seven file types at once
+so none can be forgotten:
+
+```bash
+npm run content:new-concept -- --id <concept-id> --module <module> --level L0|L1|L2|L3 \
+  --prerequisites <comma,separated,ids>
+```
+
+Then replace every `TODO(en)` / `TODO(et)` placeholder, delete the `-todo` resource stubs
+after curating real verified URLs, and add a formula + problem template + error model if
+the concept is quantitative. See `CONTRIBUTING.md` for the full rules.
+
+**Commit conventions:** one line, no body, no trailer or signature of any kind. Commit after
+each concept or each small group of concepts — not in one large batch at the end.
+
+**Gate before every push:**
+
+```bash
+npm run typecheck && npm run lint && npm run lint:terminology \
+  && npm run validate:content && npm test -- --run && npm run build
+```
+
+---
+
 ## Todo list
 
 ### Phase 0 — Foundation
@@ -373,26 +422,88 @@ templates and error models where the concept is quantitative, three
 misconceptions per concept, concept items, curated EN/ET resources.
 Terminology for these modules is already locked in `glossary.json`.
 
-- [ ] Author special relativity (postulates, time dilation, length
+**Status:** the 29 concepts below exist with their formulas, problem templates,
+error models and curated EN/ET resources. What is still missing on all 29 is
+misconceptions, concept items and explanations — they are listed in
+`COVERAGE_WAIVERS` (`src/content/coverageWaivers.ts`) so validation reports
+them as warnings instead of failing the build. **Deleting a concept from that
+list is the last step of finishing it**, and a waiver left behind on a
+complete concept is itself a build error.
+
+Per concept, "done" means: 3 misconceptions, ≥1 concept item whose wrong
+options each name a misconception, `explanations/{id}-en.mdx` and
+`explanations/{id}-et.mdx`, and its entry removed from `COVERAGE_WAIVERS`.
+
+- [x] Author special relativity (postulates, time dilation, length
       contraction, relativistic momentum and energy)
   `content: add special relativity concepts`
-- [ ] Author analytical and rotational mechanics (torque and angular
+- [x] Author analytical and rotational mechanics (torque and angular
       momentum, moment of inertia and rotational dynamics, rotational
       kinetic energy, Lagrangian mechanics, coupled/driven oscillators)
   `content: add analytical and rotational mechanics concepts`
-- [ ] Author quantum mechanics (wavefunctions and probability, uncertainty
+- [x] Author quantum mechanics (wavefunctions and probability, uncertainty
       principle, particle in a box, quantum tunneling, the hydrogen atom,
       spin and angular momentum)
   `content: add quantum mechanics concepts`
-- [ ] Author statistical mechanics (Maxwell-Boltzmann distribution,
+- [x] Author statistical mechanics (Maxwell-Boltzmann distribution,
       statistical entropy, free energy, the Carnot cycle and heat engines)
   `content: add statistical mechanics concepts`
-- [ ] Author upper electromagnetism (Maxwell's equations, the Poynting
-      vector, Kirchhoff's laws, RC/RL transients, AC circuits and impedance)
+- [x] Author upper electromagnetism (Maxwell's equations, Kirchhoff's laws,
+      RC transients, AC circuits and impedance)
   `content: add upper electromagnetism concepts`
-- [ ] Author fluid mechanics (hydrostatic pressure, buoyancy, Pascal's
+- [x] Author fluid mechanics (hydrostatic pressure, buoyancy, Pascal's
       principle, continuity, Bernoulli's equation, viscosity)
   `content: add fluid mechanics concepts`
+- [x] Curate EN and ET resources for all 29 concepts
+  `content: add en and et resources for bachelor-core physics concepts`
+- [x] Make a half-authored concept fail validation instead of deploy
+  `feat: enforce per concept content coverage`
+
+Remaining, one commit per module:
+
+- [ ] Misconceptions, items and explanations — special relativity
+      (postulates-of-special-relativity, time-dilation, length-contraction,
+      relativistic-momentum-and-energy)
+  `content: complete special relativity concepts`
+- [ ] Misconceptions, items and explanations — rotational mechanics
+      (torque-and-angular-momentum,
+      moment-of-inertia-and-rotational-dynamics, rotational-kinetic-energy)
+  `content: complete rotational mechanics concepts`
+- [ ] Misconceptions, items and explanations — analytical mechanics
+      (lagrangian-mechanics, coupled-and-driven-oscillators)
+  `content: complete analytical mechanics concepts`
+- [ ] Misconceptions, items and explanations — quantum mechanics
+      (wavefunctions-and-probability, heisenberg-uncertainty-principle,
+      particle-in-a-box, quantum-tunneling,
+      the-hydrogen-atom-and-atomic-structure,
+      spin-and-angular-momentum-in-quantum-mechanics)
+  `content: complete quantum mechanics concepts`
+- [ ] Misconceptions, items and explanations — statistical mechanics
+      (the-maxwell-boltzmann-distribution, statistical-definition-of-entropy,
+      free-energy-and-spontaneity, the-carnot-cycle-and-heat-engines)
+  `content: complete statistical mechanics concepts`
+- [ ] Misconceptions, items and explanations — upper electromagnetism
+      (maxwells-equations, kirchhoffs-laws-and-circuit-analysis,
+      rc-circuit-transients, ac-circuits-and-impedance)
+  `content: complete upper electromagnetism concepts`
+- [ ] Misconceptions, items and explanations — fluid mechanics
+      (pressure-in-fluids, buoyancy-and-archimedes-principle,
+      pascals-principle-and-hydraulics, fluid-continuity-and-flow-rate,
+      bernoullis-equation, viscosity-and-poiseuille-flow)
+  `content: complete fluid mechanics concepts`
+- [ ] Add formulas, problem templates and error models to the quantitative
+      concepts that still have none (heisenberg-uncertainty-principle,
+      wavefunctions-and-probability, quantum-tunneling,
+      the-hydrogen-atom-and-atomic-structure,
+      spin-and-angular-momentum-in-quantum-mechanics,
+      the-maxwell-boltzmann-distribution, statistical-definition-of-entropy,
+      maxwells-equations, kirchhoffs-laws-and-circuit-analysis,
+      coupled-and-driven-oscillators, lagrangian-mechanics,
+      viscosity-and-poiseuille-flow)
+  `content: add formulas for bachelor-core physics concepts`
+- [ ] Enrich ET resource sets beyond Vikipeedia where a real Estonian source
+      exists (opik.fyysika.ee sections, TaskuTark, university course pages)
+  `content: enrich estonian resources for bachelor-core concepts`
 - [ ] Re-audit the physics prerequisite graph and glossary coverage for
       the new modules
   `content: audit bachelor-core physics additions`
@@ -432,6 +543,289 @@ Terminology for these modules is already locked in `glossary.json`.
   `chore: deploy to vercel`
 - [x] Write README and content contribution guide
   `docs: add readme and contribution guide`
+
+---
+
+## Physics to bachelor completeness (Phases 15–24)
+
+Phases 0–13 shipped a working site; Phase 11b brought L3 from a veneer to real
+depth. What follows is the rest of what a BSc physics core actually contains —
+roughly 75 further concepts, each authored to the same bar: both locales in the
+same pass, three misconceptions, at least one concept item, curated EN and ET
+resources, an explanation per locale, and a formula with problem template and
+error model wherever the concept is quantitative.
+
+Scaffold every one of them with `npm run content:new-concept` (see
+[How to resume](#how-to-resume-this-on-another-machine)). Commit per concept or
+per small group, never in one batch.
+
+Terminology first: for each phase, add any new physics term to
+`content/terminology/glossary.json` with a cited Estonian rendering **before**
+authoring content that uses it — `npm run lint:terminology` fails otherwise.
+
+### Phase 15 — Electromagnetism to bachelor core
+
+Module `electromagnetism`. The largest single gap: the current set jumps from
+fields to Maxwell's equations with no potential, no Gauss, no Ampère.
+
+- [ ] Add terminology for electrostatics and magnetostatics
+  `content: add electromagnetism terminology`
+- [ ] `coulombs-law` (L1) — prereq `electric-charge-and-current`
+  `content: add coulombs law concept`
+- [ ] `resistivity-and-conductivity` (L1) — prereq `voltage-and-resistance`
+  `content: add resistivity and conductivity concept`
+- [ ] `electric-power-and-joule-heating` (L1) — prereq `voltage-and-resistance`
+  `content: add electric power and joule heating concept`
+- [ ] `electric-potential-and-potential-energy` (L2) — prereq `electric-fields`,
+      `work-and-energy`
+  `content: add electric potential concept`
+- [ ] `dielectrics-and-capacitor-energy` (L2) — prereq `capacitance`
+  `content: add dielectrics and capacitor energy concept`
+- [ ] `lorentz-force` (L2) — prereq `magnetic-fields`
+  `content: add lorentz force concept`
+- [ ] `gausss-law` (L3) — prereq `electric-fields`, `electric-potential-and-potential-energy`
+  `content: add gausss law concept`
+- [ ] `amperes-law` (L3) — prereq `magnetic-fields`
+  `content: add amperes law concept`
+- [ ] `biot-savart-law` (L3) — prereq `magnetic-fields`
+  `content: add biot savart law concept`
+- [ ] `inductance-and-rl-circuits` (L3) — prereq `electromagnetic-induction`
+  `content: add inductance and rl circuits concept`
+- [ ] `lc-and-rlc-oscillations` (L3) — prereq `inductance-and-rl-circuits`,
+      `rc-circuit-transients`
+  `content: add lc and rlc oscillations concept`
+- [ ] `the-poynting-vector` (L3) — prereq `maxwells-equations`, `electromagnetic-waves`
+  `content: add poynting vector concept`
+- [ ] `electromagnetic-waves-in-media` (L3) — prereq `electromagnetic-waves`
+  `content: add electromagnetic waves in media concept`
+
+### Phase 16 — Mechanics to bachelor core
+
+Module `mechanics`. Fills the L1 gaps a first-year course assumes, then the
+analytical mechanics that follows Lagrangian.
+
+- [ ] Add terminology for rotational and analytical mechanics
+  `content: add mechanics terminology`
+- [ ] `projectile-motion` (L1) — prereq `displacement-velocity-acceleration`
+  `content: add projectile motion concept`
+- [ ] `uniform-circular-motion` (L1) — prereq `displacement-velocity-acceleration`
+  `content: add uniform circular motion concept`
+- [ ] `centripetal-force` (L1) — prereq `uniform-circular-motion`, `newtons-second-law`
+  `content: add centripetal force concept`
+- [ ] `friction` (L1) — prereq `newtons-second-law`
+  `content: add friction concept`
+- [ ] `static-equilibrium` (L1) — prereq `newtons-first-law`, `torque-and-angular-momentum`
+  `content: add static equilibrium concept`
+- [ ] `centre-of-mass` (L2) — prereq `conservation-of-momentum`
+  `content: add centre of mass concept`
+- [ ] `elastic-and-inelastic-collisions` (L2) — prereq `conservation-of-momentum`,
+      `conservation-of-energy`
+  `content: add collisions concept`
+- [ ] `rolling-motion` (L2) — prereq `rotational-kinetic-energy`
+  `content: add rolling motion concept`
+- [ ] `damped-oscillations` (L2) — prereq `simple-harmonic-motion`
+  `content: add damped oscillations concept`
+- [ ] `keplers-laws` (L2) — prereq `newtonian-gravitation`
+  `content: add keplers laws concept`
+- [ ] `non-inertial-frames-and-fictitious-forces` (L3) — prereq `newtons-second-law`
+  `content: add non inertial frames concept`
+- [ ] `central-force-motion-and-orbits` (L3) — prereq `newtonian-gravitation`,
+      `torque-and-angular-momentum`
+  `content: add central force motion concept`
+- [ ] `hamiltonian-mechanics` (L3) — prereq `lagrangian-mechanics`
+  `content: add hamiltonian mechanics concept`
+
+### Phase 17 — Waves and sound
+
+Module `waves`.
+
+- [ ] Add terminology for acoustics
+  `content: add wave and acoustics terminology`
+- [ ] `sound-waves-and-intensity` (L1) — prereq `wave-properties`
+  `content: add sound waves and intensity concept`
+- [ ] `wave-energy-and-power` (L2) — prereq `wave-properties`
+  `content: add wave energy and power concept`
+- [ ] `beats-and-superposition` (L2) — prereq `wave-properties`
+  `content: add beats and superposition concept`
+- [ ] `the-doppler-effect` (L2) — prereq `sound-waves-and-intensity`
+  `content: add doppler effect concept`
+- [ ] `the-wave-equation` (L3) — prereq `wave-properties`, `simple-harmonic-motion`
+  `content: add wave equation concept`
+
+### Phase 18 — Thermodynamics and statistical mechanics
+
+Modules `thermodynamics` and `statistical-mechanics`.
+
+- [ ] Add terminology for statistical mechanics
+  `content: add statistical mechanics terminology`
+- [ ] `heat-transfer-mechanisms` (L1) — prereq `temperature-and-heat`
+  `content: add heat transfer concept`
+- [ ] `internal-energy-and-the-first-law` (L2) — prereq `laws-of-thermodynamics`
+  `content: add internal energy concept`
+- [ ] `thermodynamic-processes` (L2) — prereq `ideal-gas-law`,
+      `internal-energy-and-the-first-law`
+  `content: add thermodynamic processes concept`
+- [ ] `real-gases-and-the-van-der-waals-equation` (L3) — prereq `ideal-gas-law`
+  `content: add real gases concept`
+- [ ] `the-equipartition-theorem` (L3) — prereq `kinetic-theory-of-gases`
+  `content: add equipartition theorem concept`
+- [ ] `microstates-and-multiplicity` (L3) — prereq `statistical-definition-of-entropy`
+  `content: add microstates and multiplicity concept`
+- [ ] `the-partition-function` (L3) — prereq `microstates-and-multiplicity`
+  `content: add partition function concept`
+- [ ] `blackbody-radiation-and-plancks-law` (L3) — prereq `photons-and-quanta`
+  `content: add blackbody radiation concept`
+- [ ] `quantum-statistics-fermi-dirac-and-bose-einstein` (L3) — prereq
+      `the-partition-function`, `the-pauli-exclusion-principle`
+  `content: add quantum statistics concept`
+
+### Phase 19 — Optics
+
+Module `optics`.
+
+- [ ] Add terminology for physical optics
+  `content: add optics terminology`
+- [ ] `dispersion-and-chromatic-effects` (L2) — prereq `snells-law`
+  `content: add dispersion concept`
+- [ ] `optical-instruments-and-magnification` (L2) — prereq `lenses-and-focal-length`
+  `content: add optical instruments concept`
+- [ ] `thin-film-interference` (L2) — prereq `interference-and-diffraction`
+  `content: add thin film interference concept`
+- [ ] `diffraction-gratings` (L2) — prereq `interference-and-diffraction`
+  `content: add diffraction gratings concept`
+- [ ] `optical-resolution-and-the-rayleigh-criterion` (L3) — prereq `diffraction-gratings`
+  `content: add optical resolution concept`
+- [ ] `the-michelson-interferometer` (L3) — prereq `interference-and-diffraction`
+  `content: add michelson interferometer concept`
+
+### Phase 20 — Quantum mechanics
+
+Module `quantum-mechanics`. Depends on Phase 11b's quantum concepts being
+finished first.
+
+- [ ] Add terminology for quantum formalism
+  `content: add quantum mechanics terminology`
+- [ ] `de-broglie-wavelength` (L2) — prereq `wave-particle-duality`
+  `content: add de broglie wavelength concept`
+- [ ] `the-schrodinger-equation` (L3) — prereq `wavefunctions-and-probability`
+  `content: add schrodinger equation concept`
+- [ ] `operators-and-observables` (L3) — prereq `the-schrodinger-equation`
+  `content: add operators and observables concept`
+- [ ] `expectation-values-and-measurement` (L3) — prereq `operators-and-observables`
+  `content: add expectation values concept`
+- [ ] `potential-steps-and-finite-wells` (L3) — prereq `particle-in-a-box`
+  `content: add potential steps and finite wells concept`
+- [ ] `the-quantum-harmonic-oscillator` (L3) — prereq `the-schrodinger-equation`,
+      `simple-harmonic-motion`
+  `content: add quantum harmonic oscillator concept`
+- [ ] `quantum-numbers-and-atomic-orbitals` (L3) — prereq
+      `the-hydrogen-atom-and-atomic-structure`
+  `content: add quantum numbers and orbitals concept`
+- [ ] `the-pauli-exclusion-principle` (L3) — prereq
+      `spin-and-angular-momentum-in-quantum-mechanics`,
+      `quantum-numbers-and-atomic-orbitals`
+  `content: add pauli exclusion principle concept`
+
+### Phase 21 — Relativity
+
+Module `special-relativity`. Depends on Phase 11b's relativity concepts.
+
+- [ ] Add terminology for relativistic kinematics
+  `content: add relativity terminology`
+- [ ] `relativity-of-simultaneity` (L3) — prereq `postulates-of-special-relativity`
+  `content: add relativity of simultaneity concept`
+- [ ] `lorentz-transformations` (L3) — prereq `time-dilation`, `length-contraction`
+  `content: add lorentz transformations concept`
+- [ ] `relativistic-velocity-addition` (L3) — prereq `lorentz-transformations`
+  `content: add relativistic velocity addition concept`
+- [ ] `spacetime-and-four-vectors` (L3) — prereq `lorentz-transformations`
+  `content: add spacetime and four vectors concept`
+- [ ] `the-relativistic-doppler-effect` (L3) — prereq `the-doppler-effect`,
+      `lorentz-transformations`
+  `content: add relativistic doppler effect concept`
+
+### Phase 22 — Nuclear, particle and solid-state physics
+
+New modules `nuclear-physics`, `particle-physics` and `solid-state-physics`
+alongside the existing `modern-physics`.
+
+- [ ] Add terminology for nuclear, particle and solid-state physics
+  `content: add nuclear and solid state terminology`
+- [ ] `compton-scattering` (L2, modern-physics) — prereq `photons-and-quanta`
+  `content: add compton scattering concept`
+- [ ] `x-rays-and-their-production` (L2, modern-physics) — prereq `quantum-energy-levels`
+  `content: add x rays concept`
+- [ ] `nuclear-binding-energy` (L2, nuclear-physics) — prereq `atoms-and-the-nucleus`,
+      `relativistic-momentum-and-energy`
+  `content: add nuclear binding energy concept`
+- [ ] `nuclear-fission-and-fusion` (L2, nuclear-physics) — prereq `nuclear-binding-energy`
+  `content: add fission and fusion concept`
+- [ ] `radioactive-decay-modes` (L2, nuclear-physics) — prereq `radioactivity-and-half-life`
+  `content: add radioactive decay modes concept`
+- [ ] `lasers-and-stimulated-emission` (L3, modern-physics) — prereq `quantum-energy-levels`
+  `content: add lasers concept`
+- [ ] `crystal-structure-and-lattices` (L3, solid-state-physics) — prereq `phase-transitions`
+  `content: add crystal structure concept`
+- [ ] `band-theory-of-solids` (L3, solid-state-physics) — prereq
+      `crystal-structure-and-lattices`, `quantum-energy-levels`
+  `content: add band theory concept`
+- [ ] `semiconductors-and-doping` (L3, solid-state-physics) — prereq `band-theory-of-solids`
+  `content: add semiconductors concept`
+- [ ] `superconductivity` (L3, solid-state-physics) — prereq `band-theory-of-solids`
+  `content: add superconductivity concept`
+- [ ] `the-standard-model-of-particle-physics` (L3, particle-physics) — prereq
+      `nuclear-binding-energy`, `spin-and-angular-momentum-in-quantum-mechanics`
+  `content: add standard model concept`
+- [ ] `conservation-laws-in-particle-interactions` (L3, particle-physics) — prereq
+      `the-standard-model-of-particle-physics`
+  `content: add particle conservation laws concept`
+
+### Phase 23 — Fluids and experimental method
+
+Modules `fluid-mechanics` and `measurement`. Depends on Phase 11b's fluids
+concepts being finished first.
+
+- [ ] `surface-tension-and-capillarity` (L2) — prereq `pressure-in-fluids`
+  `content: add surface tension concept`
+- [ ] `drag-and-terminal-velocity` (L2) — prereq `newtons-second-law`,
+      `viscosity-and-poiseuille-flow`
+  `content: add drag and terminal velocity concept`
+- [ ] `reynolds-number-and-turbulence` (L3) — prereq `viscosity-and-poiseuille-flow`
+  `content: add reynolds number concept`
+- [ ] `graphing-and-linearisation-of-data` (L2, measurement) — prereq `uncertainty-and-error`
+  `content: add data linearisation concept`
+- [ ] `least-squares-fitting-and-linear-regression` (L3, measurement) — prereq
+      `graphing-and-linearisation-of-data`
+  `content: add least squares fitting concept`
+- [ ] `statistical-distributions-in-measurement` (L3, measurement) — prereq
+      `combining-uncertainties`
+  `content: add statistical distributions concept`
+
+### Phase 24 — Enforcement and final bilingual QA
+
+Only once every concept above is authored. This is the phase that closes the
+door on the failure mode that started all of this.
+
+- [ ] Empty `COVERAGE_WAIVERS` — every concept complete, no waivers left
+  `content: clear all content coverage waivers`
+- [ ] Promote missing explanations from warning to error now that all exist
+  `feat: require explanations in both locales`
+- [ ] Add `npm run content:coverage -- --incomplete` to CI as a blocking step
+  `ci: gate on content coverage`
+- [ ] Re-run `npm run content:hash` and clear every stale translation flag
+  `content: resync translation hashes`
+- [ ] Full glossary audit — every formula symbol name has a cited entry
+  `content: audit glossary coverage`
+- [ ] Re-audit the prerequisite DAG across all modules for orphans and depth
+  `content: audit full physics prerequisite graph`
+- [ ] Read every new concept page end to end in Estonian
+  `content: estonian proofread of bachelor completion`
+- [ ] Read every new concept page end to end in English
+  `content: english proofread of bachelor completion`
+- [ ] Run `npm run check:links` and replace anything that no longer resolves
+  `content: refresh dead resource links`
+- [ ] Lighthouse pass on the grown site (roadmap and search now much larger)
+  `perf: address lighthouse findings after content growth`
 
 ### Phase 14 — Remaining subjects
 
