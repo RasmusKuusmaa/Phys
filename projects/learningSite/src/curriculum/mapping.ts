@@ -154,6 +154,25 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "significant-figures",
     "uncertainty-and-error",
   ],
+  // MTMM.00.340 Kõrgem matemaatika I — vectors, complex numbers, single-variable
+  // calculus, linear algebra and first-order ODEs, per its 32-topic syllabus.
+  "MTMM.00.340": [
+    "complex-numbers",
+    "determinants",
+    "first-order-differential-equations",
+    "functions-and-inverses",
+    "limits-of-functions",
+    "lines-and-planes-in-space",
+    "matrices",
+    "polar-form-of-complex-numbers",
+    "systems-of-linear-equations",
+    "the-cross-product",
+    "the-definite-integral",
+    "the-derivative",
+    "the-dot-product",
+    "the-indefinite-integral",
+    "vectors-in-space",
+  ],
   "LTFY.01.004": [
     "combining-uncertainties",
     "displacement-velocity-acceleration",

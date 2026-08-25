@@ -199,7 +199,23 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "complex-numbers",
+    "determinants",
+    "first-order-differential-equations",
+    "functions-and-inverses",
+    "limits-of-functions",
+    "lines-and-planes-in-space",
+    "matrices",
+    "polar-form-of-complex-numbers",
+    "systems-of-linear-equations",
+    "the-cross-product",
+    "the-definite-integral",
+    "the-derivative",
+    "the-dot-product",
+    "the-indefinite-integral",
+    "vectors-in-space"
+  ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"
   ],
