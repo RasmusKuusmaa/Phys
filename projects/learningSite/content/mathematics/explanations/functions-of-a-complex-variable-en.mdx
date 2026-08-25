@@ -1,0 +1,28 @@
+A real function is differentiable at a point if the difference quotient
+approaches the same limit from the left and from the right. A complex function
+has a whole plane of directions to approach from, not just two, and
+differentiability demands the limit agree along *every* one of them — straight
+in, straight out, spiralling in, any path at all. That single strengthened
+requirement is the entire difference between real and complex calculus, and it
+turns out to be enormously restrictive.
+
+Write f(z) = u(x, y) + iv(x, y), splitting the function into its real and
+imaginary parts as functions of the real and imaginary parts of z. Demanding
+that the derivative limit agree from the x-direction and from the
+y-direction — just two of the infinitely many directions — already forces
+∂u/∂x = ∂v/∂y and ∂u/∂y = −∂v/∂x, the Cauchy–Riemann equations. A function
+satisfying them (with continuous partials) turns out to be differentiable from
+every direction at once: two conditions buy infinitely many for free. This is
+why u and v cannot be chosen independently — pick u and the equations determine
+v up to a constant, coupling the two completely.
+
+A function differentiable everywhere on an open set is called holomorphic, and
+the payoff for this rigidity is extraordinary: a holomorphic function is
+automatically infinitely differentiable, equals its own Taylor series wherever
+that series converges, and is fully determined by its values on any small arc,
+however short. None of this holds for real functions, where differentiable does
+not imply twice differentiable, let alone analytic. This is also the direct
+reason complex methods solve physical problems — Laplace's equation in two
+dimensions, describing electrostatic potentials and steady fluid flow alike, is
+exactly the condition that u and v (or v and u) satisfy, so every holomorphic
+function hands you a ready-made solution.

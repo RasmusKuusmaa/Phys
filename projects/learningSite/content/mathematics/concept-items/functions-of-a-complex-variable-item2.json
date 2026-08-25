@@ -1,0 +1,56 @@
+{
+  "id": "functions-of-a-complex-variable-item2",
+  "conceptId": "functions-of-a-complex-variable",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What must be true of a complex function's real and imaginary parts for it to be holomorphic?",
+    "et": "Mis peab kehtima kompleksfunktsiooni reaal- ja imaginaarosa kohta, et see oleks holomorfne?",
+    "sourceHash": "4a42a9417896f309",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They must satisfy the Cauchy–Riemann equations, so they cannot be chosen independently",
+        "et": "Need peavad rahuldama Cauchy-Riemanni võrrandeid, seega ei saa neid sõltumatult valida",
+        "sourceHash": "3cf135bb02236354",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing in particular — any pair of real functions defines a holomorphic function",
+        "et": "Mitte midagi erilist — mistahes reaalfunktsioonide paar defineerib holomorfse funktsiooni",
+        "sourceHash": "7003cdb136620b92",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-of-a-complex-variable-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only the real part matters; the imaginary part is unconstrained",
+        "et": "Loeb ainult reaalosa; imaginaarosa on piiramatu",
+        "sourceHash": "c5aeac9c12ecc536",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-of-a-complex-variable-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They must be equal to each other everywhere",
+        "et": "Need peavad kõikjal olema teineteisega võrdsed",
+        "sourceHash": "8fe0b9e60b41f012",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-of-a-complex-variable-m3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "functions-of-a-complex-variable",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "complex-numbers",
+  "title": {
+    "en": "Functions of a complex variable",
+    "et": "Kompleksmuutuja funktsioonid",
+    "sourceHash": "e0900bd65498c4aa",
+    "stale": false
+  },
+  "summary": {
+    "en": "A function of a complex variable is differentiable in an unusually strong sense — holomorphic — exactly when its real and imaginary parts satisfy the Cauchy–Riemann equations, and that rigidity is what makes complex analysis far more powerful than its real counterpart.",
+    "et": "Kompleksmuutuja funktsioon on erakordselt tugevas mõttes diferentseeruv — holomorfne — täpselt siis, kui selle reaal- ja imaginaarosa rahuldavad Cauchy-Riemanni võrrandeid, ja just see jäikus teeb kompleksanalüüsi palju võimsamaks kui selle reaalne vaste.",
+    "sourceHash": "ef3bb35d9d70fb5a",
+    "stale": false
+  },
+  "prerequisites": [
+    "polar-form-of-complex-numbers",
+    "partial-derivatives"
+  ]
+}

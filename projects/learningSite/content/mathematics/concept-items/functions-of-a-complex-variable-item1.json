@@ -1,0 +1,56 @@
+{
+  "id": "functions-of-a-complex-variable-item1",
+  "conceptId": "functions-of-a-complex-variable",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is complex differentiability a much stronger condition than real differentiability?",
+    "et": "Miks on kompleksdiferentseeruvus palju tugevam tingimus kui reaaldiferentseeruvus?",
+    "sourceHash": "0a048edbd3d1622d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The limit defining the derivative must agree approaching from every direction in the plane, not just from two sides",
+        "et": "Tuletist defineeriv piirväärtus peab ühtima lähenedes tasandi igast suunast, mitte ainult kahelt poolelt",
+        "sourceHash": "c9b169faf5310d3c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is not stronger — the two notions of differentiability are identical",
+        "et": "See ei ole tugevam — need kaks diferentseeruvuse mõistet on identsed",
+        "sourceHash": "ec7ebc93d89c8f4e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-of-a-complex-variable-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because complex numbers cannot be added or multiplied",
+        "et": "Sest kompleksarve ei saa liita ega korrutada",
+        "sourceHash": "0a790a7530faa13b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-of-a-complex-variable-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the Cauchy–Riemann equations are just a computational shortcut",
+        "et": "Sest Cauchy-Riemanni võrrandid on lihtsalt arvutuslik lühivõte",
+        "sourceHash": "f62517ba0033fa6a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "functions-of-a-complex-variable-m3"
+    }
+  ]
+}
