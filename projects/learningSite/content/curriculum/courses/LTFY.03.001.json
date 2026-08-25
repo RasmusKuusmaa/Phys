@@ -1,0 +1,25 @@
+{
+  "code": "LTFY.03.001",
+  "name": {
+    "et": "Fotoonika projekt",
+    "en": "Photonics project"
+  },
+  "eap": 6,
+  "modules": [
+    "4.1",
+    "4.3"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

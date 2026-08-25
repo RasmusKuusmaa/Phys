@@ -1,0 +1,56 @@
+{
+  "code": "LTKT.02.002",
+  "name": {
+    "et": "Füüsikalise keemia praktikum I",
+    "en": "Physical chemistry practical I (6 ECTS)"
+  },
+  "eap": 6,
+  "modules": [
+    "3.3"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "mandatory",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOKT.02.037"
+  ],
+  "aims": "Praktikumi eesmärgiks on kinnistada keemia teoreetiliste aluste ja füüsikalise keemia 1. osa loengus omandatud teadmisi ning anda praktilisi kogemusi mõningate füüsiko-keemiliste meetodite rakendamiseks ning lihtsama aparatuuri käsitsemiseks.",
+  "outcomes": [
+    "*Oskab seada eesmärke ette antud praktiliste tööde lahendamiseks, planeerida ja viia läbi eksperimente.",
+    "*Oskab loengute kavas toodud märksõnade raames arutleda kasutades korrektseid termineid.",
+    "*Valdab protsesside kirjeldamiseks vajalikke matemaatilisi võtteid ja oskab neid kasutada erinevate probleemide lahendamiseks.",
+    "*Teab erinevate mehhanismide ja katseseadmete tööprintsiipe, oskab hinnata nende rakendust ning neid efektiivselt kasutada.",
+    "*Oskab nii kirjalikult kui ka suuliselt esitada eksperimenditulemusi, neid tõlgendada ja teha vastavaid järeldusi.",
+    "*Oskab töötada säästlikult ja vastavalt ohutusnõuetele."
+  ],
+  "summary": "Praktikumis tuleb teostada 10 praktilist tööd valikloetelust, kinnistamaks loengus saadud teadmisi ning saamaks praktilisi kogemusi tööks aparatuuri ning reaktiividega. Registreerumise info Registreerumise algus 15.12.2025 Registreerumise lõpp 08.02.2026 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 08.02.2026 Registreerumise lõpp külalistele 23.02.2026 Registreeringu tühistamise lõpp 23.02.2026 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Jah Registreerunute arv 23 Osalejate piirarv 24 Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 6 EAP | 156 t Praktikumid 64 t Iseseisev töö 92 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Jah Õpikeskkond LTKT.02.002 http://moodle.ut.ee Kohustuslikud õppematerjalid 1. P.W. Atkins, Physical Chemistry, Oxford University Press, Oxford, 1994. 2. U. Palm, V. Past, Füüsikaline keemia, Valgus,. Tallinn, 1974. 3. V. Past, J. Raudsepp, A. Koorits, Elektrolüütide lahuste omadusi, Tartu, 1980. 4. V. Past, J. Raudsepp, Keemiline termodünaamika ja kineetika, Tartu, 1977. 5. V. Past, J. Raudsepp, Faaside tasakaal ja lahuste omadused, Tartu, 1979. Soovituslikud õppematerjalid 6. P.Atkins, J. de Paula Atkins, Physical Chemistry (7th Ed), Oxford Univ. Press, Trento, Italy, 2002. 7. K.J.Laidler, J.H.Neiser, Physical Chemistry, Houghton Mifflin Company, Boston, New York, 1999. 8. B.E.Conway, Electrochemical Supercapacitors: Scientific Fundamentals and Technological Applications, Kluwer Academic/Plenum Publishers, New York, 1999. 9. W.A.van Schekwijk, B.Scrosatti (Eds), Advances in Lithium-Ion Batteries, Kluwer Academic/Plenum, New York, 2001 10. V.Barsukov, F.Beck, New Promising Electrochemical Systems for Rechargeable Batteries, Kluwer Academic Publishers, Nordrecht, bastin, London, 1995. 11.J.Larminie, A. Dicks, Fuel Cell Systems Explained, Wiley, 2003.",
+  "topics": [
+    {
+      "title": "Termokeemia:",
+      "hours": null,
+      "keywords": "Töö nr. 1. Kalorimeetrilised mõõtmised. Lahustumissoojuse leidmine. 1. Termokeemia: Töö nr. 2. Kalorimeetrilised mõõtmised. Pommkalorimeetria."
+    },
+    {
+      "title": "Keemiline tasakaal:",
+      "hours": null,
+      "keywords": "Töö nr. 3. Vesigaasi tekkereaktsiooni tasakaalukonstandi määramine. 2. Keemiline tasakaal: Töö nr. 4. Heterogeense keemilise reaktsiooni tasakaalukonstandi määramine."
+    },
+    {
+      "title": "Faaside tasakaal:",
+      "hours": null,
+      "keywords": "Töö nr. 6. Kahekomponendilise süsteemi (fenool-vesi) olekudiagrammi koostamine. 3. Faaside tasakaal: Töö nr. 7. Vedeliku ja auru tasakaal binaarses lahuses. Atsetoon- tolueen olekudiagrammi mõõtmine."
+    },
+    {
+      "title": "Elektrolüüdid ja tasakaal:",
+      "hours": null,
+      "keywords": "Töö nr. 8. Nõrga elektrolüüdi tasakaalukonstandi määramine. 4. Keemiliste reaktsioonide kineetika Töö nr. 9. O2 kontsentratsiooni muutumise kineetika amperomeetriline uurimine"
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/chemistry1.md"
+  ],
+  "hasSyllabus": true
+}

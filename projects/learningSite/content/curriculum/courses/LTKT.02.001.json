@@ -1,0 +1,187 @@
+{
+  "code": "LTKT.02.001",
+  "name": {
+    "et": "Füüsikaline keemia 2. osa",
+    "en": "Physical chemistry, part 2"
+  },
+  "eap": 6,
+  "modules": [
+    "2.4",
+    "3.10"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOKT.02.037"
+  ],
+  "aims": "Loeng annab teoreetilise baasi elektrolüütide lahuste, elektrokeemilise tasakaalu, adsorptsiooni ja kapillaarnähtuste ning katalüüsi alal",
+  "outcomes": [
+    "(1) tunneb elektrlüütide lahuste teooriaid ning oskab kirjeldada elektrolüütide käitumist ning omadusi",
+    "(2) tunneb elektrokeemilise tasakaalu ning kineetika põhilisi seaduspärasusi",
+    "(3) tunneb adsorptsiooni ning pindnähtuste teoreetilist tagapõhja",
+    "(4) oskab kirjeldada erinevaid katalüüsiprotsesse",
+    "(5) oskab tuua seoseid füüsikalise keemia kursuste erinevate valdkondande",
+    "vahel"
+  ],
+  "summary": "Loengukursustes käsitletakse elektrolüütide lahuste ja elektrokeemiliste süsteemide omadusi ning rakendusi. Analüüsitakse heterogeensete reaktsioonide ja elektrokeemiliste protsesside iseärasusi. Käsitletakse homogeenset, heterogeenset ja biokatalüüsi. Antakse ülevaade pindnähtuste ja adsorptsiooni üldistest seaduspärasustest. Registreerumise info Registreerumise tähtajad on sisestamata. Õppetöö vormid ja mahud tundides Maht 6 EAP | 156 t Loengud 16 t Seminarid 16 t Iseseisev töö 124 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Ei Õpikeskkond http://moodle.ut.ee Kohustuslikud õppematerjalid Õppematerjalid on Moodle'isse üles pandud loenguvideod, slaidiprogrammid, konspektid ja ülesannete kogud. Soovituslikud õppematerjalid 1. P. Atkins, Physical Chemistry, Oxford, Oxford University Press, 1994 (põhiõpik) 2. R. Chang, Physical Chemistry with Applications to Biological Systems, Collier Macmillan Publ., London, 1977. 3. U. Palm, V. Past, Füüsikaline keemia, Tln, 1974. (keemia teoreetiliste aluste eestikeelse sõnavara ja terminoloogia toetuseks)",
+  "topics": [
+    {
+      "title": "Elektrolüütide üldiseloomustus. Tugevad ja nõrgad elektrolüüdid. Ettekujutus ioon-ioonsest ja ioon-dipoolsest toimest lahustes.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Debye-Hyckeli teooria alused, lahuse ioontugevus, elektrolüüdilahuse aktiivsus, atiivsuskoefitsient.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Aktiivsus. Aktiivsuskoefitsient. Ioontugevus. Dissotsiatsioon. Lahustuvus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Lahuste elektrijuhtivus. Ioonide liikuvused ja ülekandearvud.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Erijuhtivus, molaarjuhtivus. Konduktomeetria, selle rakendusi.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Elektrolüütide elektrijuhtivus. Ioonide ülekandearvud",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Elektroodiprotsesside tasakaalu ja kineetika üldiseloomustus. Potentsiaalihüpe metall-lahus piirpinnal. Galvaani-potentsiaal, elektrokeemiline ahel. Poolreaktsioon ja rakureaktsioon. Nernsti võrrand, elektroodipotentsiaal, nullvoolupotentsiaal ja selle mõõtmine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Poolelementide ja elektrokeemiliste rakkude potentsiaalide arvutamine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Elektroodide liigitus. Kontsentratsioonielemendid. Difusioonipotentsiaal, selle vähendamise võimalused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Galvaanielemendi termodünaamika.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Potentsiomeetria. Termodünaamiliste suuruste ja määramine. Hendersoni-Hasselbalchi võrrand. Dissotsiatsioonikonstantide, lahustuvuskorrutiste ja aktiivsuskoefitsientide määramine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Potentsiomeetriliste mõõtmiste rakendusi.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Pourbaix diagrammid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Pourbaix diagrammide analüüs",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Heterogeensed reaktsioonid ja nende eripära. Difusiooni termodünaamiline põhjendus. Ficki I seadus. Ficki II seadus (difusioonivõrrand).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Elektrokeemiline kineetika. Ülepinge ja kontsentratsioonipolarisatsioon, polarisatsioonikõverad.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Elektrokeemiline korrosioon. Elektrolüüs, polarograafia elektrosadestamine. Elektrokeemilised vooluallikad",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Elektrokeemiline kineetika: Elektrolüüs ja polarisatsioon",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Piirpindade omadused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Pindaktiivsed ained, Füüsikaline adsorptsioon ja kemosorptsioon.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Gibbsi pindliig ja Gibbsi adsorptsiooni-isoterm. Pinna täitumisaste ning adsorptsiooni suurus. Reaktsioonikiiruse sõltuvus adsorbsete kilede ehitusest.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Adsorptsiooniisotermid. Henry ja Langmuiri isotermid. Brunauer-Emmet-Telleri (BET), Freundlichi ja Frumkini isotermid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tahkiste pinnaenergia ja struktuur. Uue pinna moodustumise pöörduv töö. Defektide (astmed terrassid, kingud, dislokatsioonid) mõju pinnaenergiale. Pinnastruktuuri mõju protsesside kineetikale. Nanostruktuursete ja nanopoorsete materjalide füüsiko-keemilised omadused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Pindnähtused, adsorptsioon ja adsorptsiooniisotermid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Elektrilise kaksikkihi ehitus. Elektrienergia salvestus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Adsorptsioon ja elektriline kaksikkiht kolloidsüsteemides. Mitselli ehitus. Elektrokineetiline potentsiaal. Sultze-Hardy reegel. Isoelektriline punkt.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Mitselli ehitus ja laeng, elektrokineetiline potentsiaal.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Homogeenne katalüüs. Fermentatiivne katalüüs.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Hape/alus-katalüüs.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Heterogeenne katalüüs. Tahkiste katalüütiline aktiivsus (adsorptsioon ja katalüüs). Langmuir-Hinshelwoodi mehhanism. Eley-Rideal' mehhanism.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/chemistry2.md"
+  ],
+  "hasSyllabus": true
+}

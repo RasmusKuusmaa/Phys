@@ -1,0 +1,179 @@
+{
+  "code": "LOFY.01.009",
+  "name": {
+    "et": "Mikromaailma füüsika",
+    "en": "Physics of the microworld"
+  },
+  "eap": 6,
+  "modules": [
+    "2.1",
+    "3.10",
+    "3.7"
+  ],
+  "status": {
+    "physics": "mandatory",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Tutvustada mikroskoopiliste süsteemide füüsika tähtsamaid erisusi (Plancki konstant, kvantarvud, valikureeglid, osakese spinn jne), võrdluses seni õpitud makrofüüsikaga. Anda ülevaade aatomite, aatomituumade ja elementaarosakeste füüsikaliste omaduste kirjeldamise viisidest ning peamistest eksperimentaalmeetoditest info saamiseks nende objektide kohta.",
+  "outcomes": [
+    "1. suudab kvantitatiivselt kirjeldada kaasaegset kvantmehaanilist aatomimudelit, tuuma tilgamudelit ja kihtmudelit, tuumareaktsioone ning elementaarosakeste muundumisi;",
+    "2. oskab kvantarvude ja valikureeglite abil iseloomustada aatomite, tuumade ja elementaarosakeste olekuid ning ühest olekust teise viivaid protsesse;",
+    "3. tunneb mikromaailma füüsikas kasutatavaid põhilisi eksperimentaalseid meetodeid;",
+    "4. oskab lahendada mikromaailma füüsika ülesandeid aines tehtavate kodutööde ülesannete tasemel."
+  ],
+  "summary": "Kursuses tutvutakse aatomite, aatomituumade ja elementaarosakeste maailmas toimuvate põhiliste füüsikaliste protsessidega ja nende kirjelduse iseärasustega. Üliõpilane omandab aatomi- ja tuumafüüsika lihtsamate ülesannete lahendamise oskuse.",
+  "topics": [
+    {
+      "title": "AATOMIFÜÜSIKA (28 h)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Vesiniku kiirgusspekter ja Bohri aatomimudel. Elektroni energia, kiiruse, impulsimomendi ning kujuteldava tiirlemise raadiuse ja sageduse sõltuvused kvantarvust. Bohri magneton. Bohri teooria puudused. Comptoni efekt.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülesannete lahendamine mustkiirguri spektri, fotoefekti ja Bohri aatomimudeli teemadel.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "De Broglie lainete olemasolu eksperimentaalne tõestus (Davisson-Germeri katse, Thomson-Reidi katse). Schrödingeri võrrand, statsionaarsed seisundid, kvantmehhaanika postulaadid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Määramatuse printsiip, tunnelefekt, tunnelmikroskoopia.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Potentsiaalikaevus viibiva elektroni käitumise kvantmehaaniline käsitlus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Vesinikusarnane aatom: kvantarvud, lainefunktsioonid, tõenäosustihedused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Impulsimoment ja magnetmoment: spinn, Zeemani efekt, Einstein-de Haasi katse, Stern-Gerlachi katse, momentide liitmine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Keeruline aatom I: Schrödingeri võrrand keerulise aatomi jaoks; Osakeste samasuse printsiip ja Pauli keeluprintsiip; Elektronkonfiguratsioon ja perioodilisuse süsteem.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Keeruline aatom II: Aatomi energiatasemete peenstruktuur; Vesinik ja vesinikusarnane aatom; Mitmeelektroniline aatom; Multipletse termi mõiste.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Keeruline aatom, aatomspektrid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Röntgenüleminekud ja röntgenkiirguse spektroskoopia.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Vahekokkuvõte, ülesanded.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Elektronspektroskoopia.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "TUUMAFÜÜSIKA (22 h)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tuumajõud, nukleonile mõjuva potentsiaali kuju kui kollektiivse efekti tulemus. Paarsus, selle mõju stabiilsusele. Paaris ja paaritud N ja/või Z -tuumad.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülesannete lahendamine tuumafüüsika kahe esimese loengu materjalist.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tuumaosakeste spinnid ja tuumaspinn. Energiatasemed tuumas. Kihtmudel ja selle rakendatavus. Ergastatud seisundid ja gammaüleminekud.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Alfa-lagunemine, selle poolestusaegade hindamine, lähtuvalt tilgamudelist ja tunnelefektist.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülesannete lahendamine kahe eelneva loengu materjali ulatuses.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Beeta-lagunemine, radioaktiivsed read.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tuumasisesed võnkumised, kvadrupoolsiirded ja aatomispektrite ülipeenstruktuur.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tuumareaktsioonid, lävienergiad ja kulgemine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülesannete lahendamine eelneva kolme loengu materjali ulatuses.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tuumafüüsikast lähtuvad eksperimendimeetodid (materjaliteaduses jm).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "OSAKESTE FÜÜSIKA (8 h)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tugev vastastikmõju. Märklaua eksperimendid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülesandelehe lahendamine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Hadronid ja kvarkmudel.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/physics1.md"
+  ],
+  "hasSyllabus": true
+}

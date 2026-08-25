@@ -1,0 +1,80 @@
+{
+  "code": "LOFY.02.007",
+  "name": {
+    "et": "Materjalifüüsika praktikum III. Optika",
+    "en": "Materials physics practical III — optics"
+  },
+  "eap": 3,
+  "modules": [
+    "3.6"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "not-in-track",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [
+    "LOFY.01.002",
+    "LTFY.01.011",
+    "LOFY.01.008"
+  ],
+  "aims": "Anda vajalikud teadmised ja oskused laboratoorseteks töödeks optika alal.",
+  "outcomes": [
+    "Kursus koosneb 8 praktikumitööst, mille käigus omandatakse:",
+    "1) Arusaam valguse interferentsist järgnevate eksperimentide baasil:Newtoni rõngad, interferents tasaparalleelselt plaadilt ja Mchelsoni interferomeeter. Oskus analüüsida ja interpreteerida interferentsipilte kasutades selleks pilditöötlusprogrammi ImpactGo! ja MathCadi. Oskus lahendada interferentsi teemalisi ülesandeid.",
+    "2) Arusaam polarsieeritud valguse saamisest ja analüüisist. Oskus tekitada ja analüüsida polariseeritud valgust (lineaarselt, ring- ja elliptiliselt polariseeritud). Pool- ja veerandlaineplaadi idee ja kasutamine. Oskus lahendada ülesandeid valguse polarisatsiooni kohta.",
+    "3) Polariseeriutud valguse interferents. Oskus lahendada polarisatsiooni teemalisi ülesandeid.",
+    "4) Spektroskoobi gradueerimine - Oskus kasutada spektraalriista ning selgitada selle töö põhimõtet. Oskus analüüsida ja interpreteerida neelduvusspektrit. Oskus selgitada spektraalriista ja kiirgusega seonduvaid põhimõisteid (optiline kiirgus, dispersioon, spekter, lahutusvõime jne)",
+    "5) Fotoelemendi kasutamine luksmeetrina-Omandatakse teadmised fotomeetrilistest suurustest ja nende ühikutest (nt. valgus- ja kiirgusvoog, kandela ja luumen). Oskus kasutada fotoelementi, teada selle ehitusest ning mõista fotoefekti selles. Oskus lahendada fotomeetria teemalisi ülesandeid.",
+    "6) Tutvumine mikroskoobiga - Teadmine kujutise tekkimisest mikroskoobis ja selle töö põhimõttest. Oskus selgitada järgnevaid põhimõisteid (lahutusvõime, aperatuurarv, suurendusvõime jne). Oskus lahenda läätsede ja nende süsteemidega seonduvaid ülesandeid.",
+    "7) Optilise süsteemi prilliklaas uurimine - Teadmine erinevatest läätsedest ja silmast kui optilisest süsteemist, need töö põhimõttest ja kiirte käigust nendes. Oskus selgitada põhimõisteid (fookus, sõlmpunkt, optiline tugevus). Oskus lahenda läätsede ja nende süsteemidega seonduvaid ülesandeid."
+  ],
+  "summary": "Tööde nimekiri: 1. Newtoni rõngad (Hödemann) Ülesanded teemal: interferents. 2.Interferents tasaparalleelselt plaadilt (Hödemann) Ülesanded teemal: interferents. 3.Michelsoni interferomeeter (Hödemann) Ülesanded teemal: interferents. 4. Islandi paost prisma: kaksikmurdumine (polariseeritud valguse interferents) (Hödemann) Ülesanded teemal: polarisatsioon 5.Polariseeritud valguse uurimine (Hödemann) Ülesanded teemal: polarisatsioon. 6.Spektroskoobi gradueerimine (Tõldsepp) Ülesanded teemal: peegeldumine, murdumine ja absorbtsioon. 7. Fotoelemendi kasutamine luksmeetrina (Tõldsepp) Ülesanded teemal: fotomeetria. 8.Tutvumine mikroskoobiga (Tõldsepp) Ülesanded teemal: läätsed ja nende süsteemid. 9. Optilise süsteemi prilliklaas uurimine (Tõldsepp) Ülesanded teemal: läätsed ja nende süsteemid. Töökorraldus praktikumis: Üliõpilast ei lubata praktilist tööd tegema, kui - tema teoreetiline ettevalmistus on ebarahuldav; - tal on kaitsmata või esitamata kaks sooritatud tööd. Üliõpilane arvatakse praktikumi rühmast välja, kui tal on jäänud tegemata kaks praktilist tööd.",
+  "topics": [
+    {
+      "title": "Newtoni rõngad ja interferents tasaparalleelselt plaadilt",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Michelsoni interferomeeter",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Polariseeritud valguse uurimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Difraktsioon",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Spektroskoobi gradueerimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Fotoelemendi kasutamine luksmeetrina",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tutvumine mikroskoobiga",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Optilise süsteemi prilliklaas uurimine",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/MaterialScience2.md"
+  ],
+  "hasSyllabus": true
+}

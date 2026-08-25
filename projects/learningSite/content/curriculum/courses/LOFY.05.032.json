@@ -1,0 +1,24 @@
+{
+  "code": "LOFY.05.032",
+  "name": {
+    "et": "Õhu saasteseire korraldamine",
+    "en": "Organisation of air pollution monitoring"
+  },
+  "eap": 3,
+  "modules": [
+    "4.1"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

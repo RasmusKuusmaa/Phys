@@ -1,0 +1,110 @@
+{
+  "code": "LTKT.06.024",
+  "name": {
+    "et": "Analüütiline keemia II",
+    "en": "Analytical chemistry II"
+  },
+  "eap": 6,
+  "modules": [
+    "2.4",
+    "3.10"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Loengus antakse ülevaade enamlevinud instrumentaalsetest keemilise analüüsi meetoditest.nstrumentaalsete Seminaris analüüsimeetodite alaste teadmiste kinnistamine ja näitlikustamine.",
+  "outcomes": [
+    "Tudengil teab edasijõudnu tasemel instrumentaalanalüüsi meetodite füüsikalisi aluseid ja rakendamise võimalusi: aatom- ja molekulspektroskoopia, massispektromeetria, NMR ja röntgenmeetodid.",
+    "Kursuse läbinu",
+    "-- mõistab instrumentaalsete meetodite füüsikalisi aluseid,",
+    "-- oskab meetodeid omavahel võrrelda,",
+    "-- tunneb meetodite rakendusi,",
+    "-- oskab etteantud analüüsiülesande jaoks meetodit valida."
+  ],
+  "summary": "Süvendatud loengukursus analüütilisest keemiast, eeskätt instrumentaalmeetoditest: mitmesugused aatom- ja molekulspektroskoopia, mass-spektromeetria, NMR ja röntgenmeetodid Diskussioonid ja arutelud mitmesugustel analüütilise keemia teemadel (mass-spektromeetrilised, aatom- ja molekulspektroskoopilised, NMR, röntgen jt meetodid) ning praktilises analüüsis ette tulevate ülesannete lahendamine.",
+  "topics": [
+    {
+      "title": "Sissejuhatus. Instrumentaalsed meetodid. Signaalid ja müra. Elektromagnetkiirgus. Kiirguse omadused ja dualism.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Optiliste spektraalriistade klassifikatsioon",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Optilised süsteemid, lainepikkuse valik, dispergeerivad elemendid, pilulaius, valgusjuhid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "AES, AAS, AFS. AES ja AAS analüüsi võrdlus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Röntgenmeetodid. Röntgenkiirgus, selle saamine. Röntgendifraktsioon, röntgenfluorestsents.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Laserid, laserite tüübid",
+      "hours": "pooljuhtlaser, kemolaser, värvuslaser",
+      "keywords": ""
+    },
+    {
+      "title": "UV-Vis spektroskoopia. UV-Vis kiirguse ja molekulide vaheline vastasmõju, kiirguse neeldumine, üleminekute tüübid. UV-Vis spektrid analüüsis. Fotomeetriline tiitrimine. Beeri reegel. Kõrvalekaldumised Beer'i reeglist",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "UV-Vis spektroskoopia aparatuur. Valgusallikad, lainepikkuse selektorid, detektorid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "IR spektroskoopia. IR kiirgussallikad, detektorid. IR spektromeetrid. FT-IR spektromeetria. Molekulide IR spektrid. Peeglusspektromeetria.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Fluorestsentsispektrid. Fluorestsentsi kustumine. Fluorimeetria.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Nefelomeetria ja turbidimeetria",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Raman efekt, spektrid, spektromeetria. FT- ja dispersiivne Raman-spektromeetria.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Radioaktiivne lagunemine, lagunemise tüübid. Radioaktiivse kiirguse allikad. Kiirguse ioniseeriv toime. Ioniseeriva kiirguse detektorid. Radiokeemilised meetodid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Raadiospektroskoopia meetodid. Ainesisesed magnetväljad. NMR ja EPR spektroskoopia.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Massispektromeetria. Aparatuur, sisestusmeetodid, analüütiline informatsioon.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/chemistry2.md"
+  ],
+  "hasSyllabus": true
+}

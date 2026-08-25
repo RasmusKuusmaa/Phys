@@ -1,0 +1,24 @@
+{
+  "code": "LOFY.04.052",
+  "name": {
+    "et": "Stohhastika füüsikutele",
+    "en": "Stochastics for physicists"
+  },
+  "eap": 3,
+  "modules": [
+    "4.1"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

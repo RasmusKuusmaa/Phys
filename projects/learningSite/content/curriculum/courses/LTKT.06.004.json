@@ -1,0 +1,49 @@
+{
+  "code": "LTKT.06.004",
+  "name": {
+    "et": "Keemilise analüüsi praktikum",
+    "en": "Chemical analysis practical"
+  },
+  "eap": 6,
+  "modules": [
+    "3.3"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "mandatory",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOKT.07.010",
+    "LTKT.06.019",
+    "LOKT.06.010",
+    "LTKT.01.002",
+    "LOKT.06.012",
+    "LTKT.06.002",
+    "MTMS.02.059"
+  ],
+  "aims": "Anda tudengile praktilised teadmised levinumate keemiliste analüüside kohta. Toetada õppijate suulise eneväljendusoskuse arengut. Õppija arendab keemiliste analüüside läbiviimisega vajalikke õpioskusi (vajalikud töövõtted ja andmetöötlusoskused).",
+  "outcomes": [
+    "Pärast praktikumi kursuse läbimist tudeng",
+    "- teab ja oskab suuliselt selgitada põhimõtteid ja rakendusi järgmiste analüüsimeetodite kohta: tiitrimeetria (ka mittevesilahustes), potentsiomeetria, kromatograafia (GC, LC), kromatomassispektromeetria (GSMS, LCMS), aatomemissioon- ja aatomabsorbtsioonspektroskoopia, molekulspektroskoopia;",
+    "- teab keerulisemaid proovide ettevalmistamise põhitõdesid keemilises analüüsis;",
+    "- rakendab selektiivsuse saavutamise põhimõtteid proovi ettevalmistuse korral;",
+    "- teab põhilisi keemilise analüüsi määramatuse allikaid ja oskab hinnata konkreetse analüüsi juures nende kaalu, pakub võimalusi mõõtemääramatuse vähendamiseks;",
+    "- oskab teostada proovi eeltöötluse ja viia iseseisvalt läbi keemilist analüüsi;",
+    "- teab põhilisi keemilise analüüsi määramatuse allikaid ja oskab konkreetse analüüsi juures hinnata, millised neist on olulise kaaluga;",
+    "- arvutab keemilise analüüsi tulemuse, hinnates kriitiliselt kogutud andmeid ning saadud tulemust, sealjuures kasutades sihtotstarbeliselt tabelarvutusprogrammi (nt MS Excel)."
+  ],
+  "summary": "Praktilised tööd analüütilisest keemiast: kaalumine, lahuste valmistamine, levinumate analüüsil kasutatavate laborivahendite käsitsemine, proovi eeltöötlus, tiitrimeetria (ka mittevesilahustes), potentsiomeetria, kromatograafia, kromato-massispektromeetria, aatom- ja molekulspektroskoopia. Andmetöötlus (k.a. mõõtemääramatuse hindamine reaalselt kogutud andmetega) analüütilises keemias. Iga töö sisaldab erinevaid etappe: etteantud andmete kohta arvutusfaili koostamine; suuline arutelu töö teooria ja rakenduste kohta; praktiline töö; arvutused reaalselt saadud andmetega tabelarvutusprogrammis ning andmete ja saadud tulemuste kriitiline hindamine.",
+  "topics": [
+    {
+      "title": "25 Sissejuhatus. Praktikumi korra ja tööde tutvustamine. Ohutustehnika.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/chemistry1.md"
+  ],
+  "hasSyllabus": true
+}

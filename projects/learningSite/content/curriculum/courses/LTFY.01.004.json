@@ -1,0 +1,94 @@
+{
+  "code": "LTFY.01.004",
+  "name": {
+    "et": "Füüsika praktikum I - mehaanika ja soojusõpetus",
+    "en": "Physics practical I — mechanics and heat"
+  },
+  "eap": 6,
+  "modules": [
+    "3.1"
+  ],
+  "status": {
+    "physics": "mandatory",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOFY.01.121",
+    "LOFY.01.002",
+    "LTFY.01.011"
+  ],
+  "aims": "Praktikumi eesmärgiks on aines Mehaanika ja soojusõpetus teadmiste süvendamine ja katseline kinnistamine ning eksperimentide teostamise, füüsikaliste suuruste mõõtmise ja mõõtmistulemuste usaldatavuse hindamise oskuste kujundamine.",
+  "outcomes": [
+    "* tunneb uurimistöö planeerimise ja andmetöötluse põhielemente;",
+    "* tunneb enamlevinud mehhaaniliste ja soojusfüüsikaliste suuruste mõõtmisel kasutatavaid mõõteviise, mõõtevahendeid ja seadmeid ning oskab neid kasutada;",
+    "* tunneb elementaarseid elektriohutuse ja teisi ohutustehnika nõudeid;",
+    "* oskab hinnata mõõtmistulemuste usaldatavust (mõõtemääramatust);",
+    "* oskab vormistada praktilise töö (mõõtmiste) aruannet;",
+    "* suudab selgitada tehtud mõõtmiste põhiolemust ja põhjendada saadud tulemusi;",
+    "* oskab iseseisvalt planeerida ja läbi viia lihtsamaid mehhaanika ja soojusfüüsika eksperimente ja katseid."
+  ],
+  "summary": "Praktikum füüsika suuna bakalaureuseõppe 1. aasta üliõpilastele. Praktikumi jooksul tuleb individuaalselt või rühmatööna sooritada 10 praktilist tööd. Praktilisi töid sooritatakse juhendava õppejõu poolt koostataud ajakava järgi. Ühe praktikumitöö mõõtmiste tegemiseks ja juhendava õppejõu küsimustele vastamiseks on ette nähtud 4 auditoorse töö tundi. Iseseisva töö käigus tehakse lõpptulemuste saamiseks vajalikud arvutused, antakse mõõtemääramatuse hinnangud ja vormistatakse töö aruanne. Aruanne valmib reeglina ühe nädala jooksul; see esitatakse juhendavale õppejõule esimesel võimalusel. Protokollide kontrollimine ja õppejõu küsimustele vastamine toimub jooksva töö käigus.",
+  "topics": [
+    {
+      "title": "Tutvustatakse praktikumis esitatavaid üldisi nõudeid, töökorraldust ja ohutustehnikat. Antakse ülevaade digimõõtevahenditega mõõtmistest, juhised mõõtemääramatuste hindamiseks praktilistes töödes ning protokollide arvutipõhiseks vormistamiseks.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Füüsikaliste konstantide praktiline määramine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Füüsikaliste konstantide praktiline määramine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kummipaela elastsuse potentsiaalse energia määramine ja selle energia kasutamine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Pöörlemise kineetiline energia ja inertsimoment",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Põrked, impulsi jäävuse seadus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Heli kiirus gaasides",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Õhutakistuse uurimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kalorimeetrilised mõõtmised",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Gaasi paisumisel tehtav töö",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Adiabaatiliste protsesside uurimine",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/physics1.md"
+  ],
+  "hasSyllabus": true
+}

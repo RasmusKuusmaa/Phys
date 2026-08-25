@@ -1,0 +1,218 @@
+{
+  "code": "LTFY.04.013",
+  "name": {
+    "et": "Matemaatiline füüsika",
+    "en": "Mathematical physics"
+  },
+  "eap": 6,
+  "modules": [
+    "2.2",
+    "3.10"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "MTMM.00.340",
+    "MTMM.00.341"
+  ],
+  "aims": "Anda matemaatiline aluspõhi edaspidiste teoreetilise füüsika kursuste mõistmiseks.",
+  "outcomes": [
+    "+ mõistab vajadust skalaarsete funktsioonide klassi laiendamiseks, tunneb vektor- ja tensorvälja mõistet ning nende teisenemist koordinaatteisendustel,",
+    "+ oskab kasutada vektor- ja tensoralgebra ning analüüsi 3-mõõtmelises eukleidilises ruumis, sealhulgas tunneb ja oskab arvutada skalaar-, vektor- ja tensorvälja gradienti ja divergentsi ning vektorvälja rootorit,",
+    "+ mõistab gradiendi, divergentsi ja rootori füüsikalist tähendust,",
+    "+ oskab arvutada joon-, pind- ja ruumintegraale ning kasutada neid omavahel siduvaid integraalteoreeme,",
+    "+ oskab leida maatriksi omaväärtuseid ja omavektoreid, viia maatriksi Jordani normaalkujule ning rakendada seda oskust dünaamilise süsteemi püsipunktide uurimisel ligikaudsete lahendite kirjapanekul,",
+    "+ tunneb dünaamiliste süsteemide põhimõisteid nagu faasitrajektoor ja faasiportree, püsipunkt ja selle tüübid, bifurkatsioon, determineeritud kaos."
+  ],
+  "summary": "Loengukursuses esitatakse matemaatilised seaduspärasused seostatult füüsikaliste rakendustega. Käsitletakse järgmisi matemaatilisi teemasid ja nende füüsikalisi rakendusi: vektor- ja tensoralgebra 3-mõõtmelises eukleidilises ruumis, vektor- ja tensoranalüüsi põhioperatsioonid, diferentsiaalgeomeetria alused, joon- ning pindintegraalid ja nende arvutamine, vektoranalüüsi põhiteoreemid.",
+  "topics": [
+    {
+      "title": "Vektori mõiste. Algebra. Vektorruum",
+      "hours": null,
+      "keywords": "(Kordamine. Geomeetriline vektor ja sellega seotud mõisted. Geomeetrilise vektori üldistus. Näited vektorruumidest.)"
+    },
+    {
+      "title": "Vektorite lineaarne sõltuvus ja sõltumatus",
+      "hours": null,
+      "keywords": "(Definitsioonid. Näited ruumides E2 ja E3)"
+    },
+    {
+      "title": "Vektorruumi baas ja mõõde. Vektori koordinaadid",
+      "hours": null,
+      "keywords": "(Vektori esitamine baasivektorite lineaarkombinatsioonina. Erinevad baasid. Koordinaatide ühesus baasis. Seotud mõisted: moodul, ühikvektor, suunakoosinused. Näide vektori nn aktiivsest teisendusest - vektori pööre. Indekstähistus ja maatriksesitus - nende võrdlus. Summeerimiskokkulepe.)"
+    },
+    {
+      "title": "Vektorite skalaarkorrutis. Ortonormeeritud ja mitteortonormeeritud baas",
+      "hours": null,
+      "keywords": "(Geomeetriliste vektorite skalaarkorutis ja selle omadused. Vektori projektsioon vektorile. Seotud mõisted: ortogonaalsus, normeeritus, ortonormeeritus, mitteortonormeeritus. Kroneckeri delta. Skalaarkorrutis koordinaatides - ortonormeeritud baasis ja mitteortonormeeritud baasis. Meetrilise tensori kovariantsed komponendid ja nende tähtsus. Summeerimiskokkulepe ja indekstähistus. Schwarzi võrratus. Minkowski võrratus.)"
+    },
+    {
+      "title": "Vektorite vektorkorrutis. Levi-Civita sümbol",
+      "hours": null,
+      "keywords": "(Mõisted: orienteeritus ja selle omadused) 5. Vektorite vektorkorrutis (Pärisortogonaalteisendused, pseudoskaalar, pseudovektor, vektorite vektorkorrutis, selle omadused ja geomeetriline tähendus. Levi-Civita sümbol, seos Kroneckeri sümboli ja Levi-Civita sümboli vahel.)"
+    },
+    {
+      "title": "Liitkorrutised",
+      "hours": null,
+      "keywords": "(Segakorrutis ja selle omadused. Lineaarne sõltuvus ja sõltumatus segakorrutise kaudu. Levi-Civita sümboli kasutamine vektoralgebra seoste tõestamisel.)"
+    },
+    {
+      "title": "Tensorite tensorkorrutis",
+      "hours": "otsekorrutis",
+      "keywords": "(Bilineaarne funktsioon, tensorkorrutise omadused, tarvlik tingimus, et maatriks oleks vektorite tensorkorrutis, tensor mõiste tensorkorrutisest, näited.)"
+    },
+    {
+      "title": "Kordamine. Koordinaatjooned ja pinnad. Põhibaasi ja kaasbaasi mõisted",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kõverjooneliste koordinaatide põhibaas ja kaasbaas",
+      "hours": null,
+      "keywords": "(koordinatteisendused, Jacobi maatriks, jakobiaan, baasi teisendused, seos põhi- ja kaasbaasi vahel, terminoloogia.)"
+    },
+    {
+      "title": "Nihkevektor ja meetrika",
+      "hours": null,
+      "keywords": "(Meetriline tensor - teist järku tensorväli, eukleidiline ja pseudoeukleidiline meetrika, intervall, näited - meetrika üleminekul Cartesiuse ristkoordinaatidest sfäärilistesse koordinaatidesse.)"
+    },
+    {
+      "title": "Vektorite ja tensorite kontravariantsed ja kovariantsed komponendid",
+      "hours": null,
+      "keywords": "(Vektorite ja tensorite invariantsus, komponentide teisenemiseeskirjad ja klassifikatsioon vastavalt sellele.)"
+    },
+    {
+      "title": "Vektorite ja tensorite indeksite tõstmine ja langetamine",
+      "hours": null,
+      "keywords": "(Meetrika roll indeksite tõstmisel ja langetamisel.)"
+    },
+    {
+      "title": "Võimalikud üldistused",
+      "hours": null,
+      "keywords": "(Eukleidiline ruum, pseudoeukleidiline ruum, Riemanni ruum, ruumi dimensionaalsus.)"
+    },
+    {
+      "title": "Tensoralgebra. Sümmeetria ja antisümmeetria. Näited",
+      "hours": null,
+      "keywords": "(Tensoralgebra põhitehted ja nende omadused: tensorite liitmine, korrutamine ja ahendamine, tensori jälg, sümmeetria ja antisümmeetria ja nende invariantsus, kõrgemat järku tensorid, deformatsioonitensor, inertsitensor.)"
+    },
+    {
+      "title": "Pseudotensorid. Näited",
+      "hours": null,
+      "keywords": "(Vektorkolmiku parem- ja vasakorientatsioon, pseudoskalaarid ja skalaarid, kolme vektori segakorrutis kui pseudoskalaar, aksiaalsed- ehk pseudovektorid ja polaarsed vektorid, vektorkorrutis kui pseudovektor ja selle komponentide teisenemine koordiaantteisendustel, kõrgemat järku pseudotensorid, Levi-Civita pseudotensor ja tema (ahendatud) korrutised, Levi-Civita tensori kasutamine arvutustel. Kõrgemat järku pseudotensorid. Levi-Civita pseudotensor ja tema (ahendatud) korrutised. Levi-Civita tensori kasutamine arvutustel.) Test I osa kohta II. VEKTORANALÜÜS [Margus Saal]"
+    },
+    {
+      "title": "Skalaar-, vektor- ja tensorvälja mõisted. Skalaarvälja gradient",
+      "hours": null,
+      "keywords": "(Skalaarvälja nivoopinnad, skalaarvälja muutus nihkel ja tuletis antud suunas, skalaarvälja gradiendi definitsioon, skalaarvälja gradient kui vektor, tema geomeetrilised omadused ja füüsikaline tähendus, liitfunktsioonide gradiendi arvutamine.)"
+    },
+    {
+      "title": "Vektorvälja gradient",
+      "hours": null,
+      "keywords": "(Vektorvälja komponentide nivoopinnad, vektorvälja komponendi juurdekasv nihkel ja tuletis antud suunas, vektorvälja gradiendi definitsioon, vektorvälja gradient kui teist järku tensor, tensorvälja gradient.)"
+    },
+    {
+      "title": "Vektorfunktsiooni diferentseerimine ja integreerimine skalaari järgi",
+      "hours": null,
+      "keywords": "(Vektorfunktsiooni pidevus ja tuletis, arvutusureeglid ja järeldused nendest, mitmemuutuja vektorfunktsioon, näited, vektorfunktsiooni integreerimine skalaari järgi.)"
+    },
+    {
+      "title": "Kõverad ja pinnad",
+      "hours": null,
+      "keywords": "(kõvera parameetrilised võrrandid ja vektorvõrrand, kõvera puutujavektor, kaare pikkus, Ferneti-Serrati valemid. Näited.) 19. Kõverad ja pinnad (pinna parameetrilised võrrandid ja vektorvõrrand, Pinna normaalivektor ja ühiknormaal, diferentsiaalne pinnaelement.)"
+    },
+    {
+      "title": "Kordamine. Üldised kõverjoonelised koordinaadid",
+      "hours": null,
+      "keywords": "(Koordinaatjooned ja koordinaatpinnad; baasivektorid, põhibaas ja kaasbaas; kauguse ja ruumala avaldised üldistes kõverjoonelistes koordinaatides, üldised koordinaatteisendused - Jacobi maatriks, vektori esitamine põhibaasi ja kaasbaasi kaudu.)"
+    },
+    {
+      "title": "Kordamine. Silindrilised ja sfäärilised koordinaadid",
+      "hours": null,
+      "keywords": "Üleminekuvalemid Cartesiuse koordinaatsüsteemist. Ruumalaelement vastavates koordinaatides. Jakobiaani mõiste ja jakobiaanid vastavates koordinaatides."
+    },
+    {
+      "title": "Joonintegraal",
+      "hours": null,
+      "keywords": "(Esimest liiki joonintegraali (joonintegraal kaare pikkuse järgi) mõiste, olemasolu ja arvutamine, teist liiki joonintegraali mõiste (joonintegraal koordinaatide järgi), olemasolu ja arvutamine, orienteeritud joon ning seos esimest ja teist liiki joonintegraalide vahel, Greeni valem, joonintegraal funktsiooni täisdiferentsiaalist, ruumiline joonintegraal, joonintegraal kinnisel kõveral (tsirkulatsioon). Näited arvutamisest.)"
+    },
+    {
+      "title": "Pindintegraal",
+      "hours": null,
+      "keywords": "(Esimest liiki pindintegraali mõiste, olemasolu ja arvutamine, orienteeritud pind, teist liiki pindintegraali mõiste, olemasolu ja arvutamine, seos esimest ja teist liiki pindintegraalide vahel.) (Arvutuslikud näited.)"
+    },
+    {
+      "title": "Vektorvälja divergents",
+      "hours": null,
+      "keywords": "(Vektorvälja divergentsi definitsioon ja lineaarsusega seotud omadused. Laplace'i operaator. Harmooniline skalaarväli. Allikavaba ehk solenoidaalse vektorvälja mõiste. Vektorvälja trajektoorid. Vektorvälja voog läbi (infinitesimaalse) pinnaelemendi. (Vajadus pindintegraali mõiste järele!). Vektorvälja voo omadused. Divergentsi hüdrodünaamiline tähendus, vektorvälja allika- ja neelupunktid. Näited.)"
+    },
+    {
+      "title": "Vektorvälja rootor",
+      "hours": null,
+      "keywords": "(Vektorvälja rootori definitsioon ja esitamine Levi-Civita pseudotensori abil. Vektorvälja rootor kui pseudovektor. Rootori lineaarsed omadused. Rootori seos tsirkulatsiooniga ja füüsikaline tähendus. Pöörisevaba ehk potentsiaalse vektorvälja mõiste ja omadused. Vektorpotentsiaali mõiste. Näited.)"
+    },
+    {
+      "title": "Gaussi divergentsiteoreem",
+      "hours": null,
+      "keywords": "(Gaussi teoreemi eeldused, Gaussi teoreem, tõestus, järeldused Gaussi teoreemist. Gaussi teoreemi üldistamine tensor ja skalaarväljade jaoks. Näited.)"
+    },
+    {
+      "title": "Stokes'i teoreem",
+      "hours": null,
+      "keywords": "(Stokes'i teoreemi eeldused, Stokes'i teoreem, heuristiline tõestus (seletus) ja järeldused Stokes'i teoreemist. Näited.)"
+    },
+    {
+      "title": "Vektorvälja divergentsi ja rootori invariantsed definitsioonid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Gradiendi, divergentsi, rootori ja Laplace'i operaatori avaldised kõverjoonelistes (silindrilistes ja sfäärilistes) koordinaatides",
+      "hours": null,
+      "keywords": "(Vastavad arvutusvalemid ja kahe valemi tuletamine.)"
+    },
+    {
+      "title": "Näited kasutades Jupiteri töölehti (kogu kursuse jooksul). Kokkuvõte",
+      "hours": null,
+      "keywords": "III. MAATRIKSITE OMAVÄÄRTUSED JA OMAVEKTORID [Laur Järv]"
+    },
+    {
+      "title": "Baasiteisendused:",
+      "hours": null,
+      "keywords": "A. Vektori komponentide teisenemine. B. Lineaarteisendused ja maatriksid. C. Maatriksi komponentide teisenemine. D. Maatriksite ekvivalentsiklassid. E. Maatriksi normaalkuju. F. Mõned näited rakendustest."
+    },
+    {
+      "title": "Omaväärtused ja omavektorid:",
+      "hours": null,
+      "keywords": "A. Omaväärtused ja omavektorid. B. Omaväärtuste omadusi. C. Omavektorite geomeetriline tähendus. D. Omaväärtuste algebraline ja geomeetriline kordsus. E. Üldistatud omavektorid. F. Sümmeetrilise maatriksi omaväärtused ja omavektorid, mitmekordsele omaväärtusele vastavad omavektorid. G. Omavektorid moodustavad baasi. (Lisa: Grami-Schmidti ortogonaliseerimisprotseduur.)"
+    },
+    {
+      "title": "Maatriksi diagonaliseerimine:",
+      "hours": null,
+      "keywords": "A. Millal saab maatriksi diagonaliseerida. B. Kui kõik omaväärtused on reaalsed. C. Tõestus, miks diagonaliseerimine töötab. D. Kui kõik omaväärtused on komplekssed. E. Komplekssed omaväärtused diagonaalile. F. Reaalsed ja komplekssed omaväärtused."
+    },
+    {
+      "title": "Maatriksi Jordani normaalkuju",
+      "hours": null,
+      "keywords": "A. Millal maatriksit ei ole võimalik diagonaliseerida. B. Reaalsete omaväärtuste juhul. C. Reaalsete ja komplekssete omaväärtuste (üldisel juhul). Jordani normaalkuju leidmise keerulisem näide. D. Kokkuvõte. IV. DÜNAAMILISED SÜSTEEMID [Laur Järv]"
+    },
+    {
+      "title": "Dünaamilised süsteemid:",
+      "hours": null,
+      "keywords": "A. Dünaamiline süsteem. B. Hariliku diferentsiaalvõrrandi saab esitada dünaamilise süsteemina. C. Kui harilik diferentsiaalvõrrand sisaldab ilmutatud kujul aega. D. Harilike diferentsiaalvõrrandite süsteem. E. Dünaamilise süsteemi mõõde."
+    },
+    {
+      "title": "Ühemõõtmelised dünaamilised süsteemid:",
+      "hours": null,
+      "keywords": "A. Analüütilised lahendid. B. Vool ja püsipunktid. C. Püsipunktide tüübid. D. Lineaarne lähendus püsipunkti ümbruses. E. Püsipunktid kui \"potentsiaalli\" miinimumid. F. Võnkumiste võimatus ühemõõtmelises dünaamilises süsteemis. 37: Bifurkatsioonid:"
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/physics2.md"
+  ],
+  "hasSyllabus": true
+}

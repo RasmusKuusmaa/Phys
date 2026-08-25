@@ -1,0 +1,24 @@
+{
+  "code": "LOKT.06.010",
+  "name": {
+    "et": "Analüütiline keemia I",
+    "en": "Analytical chemistry I"
+  },
+  "eap": 6,
+  "modules": [
+    "3.8"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "minor-only",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

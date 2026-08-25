@@ -1,0 +1,24 @@
+{
+  "code": "LOKT.04.016",
+  "name": {
+    "et": "Ökotoksikoloogia",
+    "en": "Ecotoxicology"
+  },
+  "eap": 3,
+  "modules": [
+    "4.2"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

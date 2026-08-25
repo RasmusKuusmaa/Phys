@@ -1,0 +1,24 @@
+{
+  "code": "LOKT.00.022",
+  "name": {
+    "et": "Sissejuhatus keemia erialasse",
+    "en": "Introduction to the chemistry specialisation"
+  },
+  "eap": 1,
+  "modules": [
+    "4.2"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

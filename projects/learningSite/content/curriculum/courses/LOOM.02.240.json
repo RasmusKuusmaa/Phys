@@ -1,0 +1,24 @@
+{
+  "code": "LOOM.02.240",
+  "name": {
+    "et": "Meteoroloogia ja klimatoloogia alused",
+    "en": "Foundations of meteorology and climatology"
+  },
+  "eap": 3,
+  "modules": [
+    "4.1"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

@@ -1,0 +1,35 @@
+{
+  "code": "MTMS.02.059",
+  "name": {
+    "et": "Tõenäosusteooria ja matemaatiline statistika",
+    "en": "Probability theory and mathematical statistics"
+  },
+  "eap": 6,
+  "modules": [
+    "1.2"
+  ],
+  "status": {
+    "physics": "mandatory-all",
+    "chemistry": "mandatory-all",
+    "materials-science": "mandatory-all"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Õppeaine üldeesmärgiks on * anda teadmised kursuse raames vaadeldud tõenäosusteooria ja matemaatilise statistika meetodite olemuse mõistmiseks * oskused ja nende meetodite kasutamiseks erialaprobleemide lahendamisel.",
+  "outcomes": [
+    "Õppeaine edukal läbimisel üliõpilane:",
+    "* omandab oskused juhusliku sündmuse toimumise tõenäosuse hindamiseks;",
+    "* omandab põhimõisted juhusliku suuruse käitumise tõenäosuslikuks iseloomustamiseks;",
+    "* tunneb enam kasutust leidnud jaotusi (binoomjaotus, Poissoni jaotus, normaaljaotus, Studenti jaotus) ning oskab neid kasutada praktiliste probleemide lahendamisel;",
+    "* omandab põhitõed üldkogumi karakteristikute statistiliste hinnangute leidmiseks valimi põhjal;",
+    "* oskab leida üldkogumi põhiliste karakteristikute vahemikhinnanguid;",
+    "* oskab püstitada hüpoteese üldkogumi mitmesuguste karakteristikute kohta ning kontrollida püstitatud hüpoteese;",
+    "* mõistab kursuses läbitud meetodite olemust ning oskab neid kohandada erialaprobleemide lahendamiseks."
+  ],
+  "summary": "Tõenäosusteooria osas vaadeldakse juhusliku sündmuse klassikalist tõenäosust; tõenäosuse omadusi ja olulisemaid tõenäosustega seotud arvutusreegleid; juhuslikke suurusi ja nende jaotusi. Statistika tutvutakse statistilise hindamise ja testimise alustega. Käsitletakse üldkogumi karakteristikute tõenäosuslikke hinnanguid valimi põhjal (punktihinnang ja vahemikhinnang). Esitatakse hüpoteeside kontrolli teooria alused ja põhilised meetodid hüpoteeside kontrolliks.",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [
+    "AlusMoodulid/AlusMoodulid2.md"
+  ],
+  "hasSyllabus": true
+}

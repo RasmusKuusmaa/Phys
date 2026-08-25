@@ -1,0 +1,25 @@
+{
+  "code": "HVLC.01.010",
+  "name": {
+    "et": "Erialane inglise keel füüsika, keemia ja materjaliteaduse üliõpilastele (100% e-õpe), tase B2 > C1",
+    "en": "Professional English for physics, chemistry and materials science students (B2→C1)"
+  },
+  "eap": 3,
+  "modules": [
+    "4.2",
+    "4.3"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

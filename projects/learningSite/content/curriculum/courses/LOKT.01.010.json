@@ -1,0 +1,74 @@
+{
+  "code": "LOKT.01.010",
+  "name": {
+    "et": "Anorgaanilise keemia praktikum I",
+    "en": "Inorganic chemistry practical I"
+  },
+  "eap": 3,
+  "modules": [
+    "2.6",
+    "3.3"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "mandatory",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Anda üliõpilastele teadmisi keemilistest elementidest ja nende tähtsamatest ühenditest, arendada vastavaid laboratoorse töö oskusi",
+  "outcomes": [
+    "Praktikumi läbinud üliõpilased",
+    "-tunnevad enamlevinud anorgaaniliste ühendite nomenklatuuri, ühendite omadusi ja saamisviise,",
+    "-suudavad korrektselt läbi viia katseid anorgaaniliste ühendite saamise ja omaduste kohta",
+    "-oskavad teha katsete põhjal järeldusi ja sooritada praktiliste töödega seotud arvutusi"
+  ],
+  "summary": "Üliõpilased teevad praktikumis väga erinevaid kvalitatiivseid katseid, mis aitavad tundma õppida tähtsamate liht- ja liitainete füüsikalisi ja keemilisi omadusi. Praktikumid: 1.Vesinik, hapnik 2.Vesinik, hapnik jätkub, lämmastik 3.Lämmastik, väävel jätkub, süsinikdioksiid 4.Halogeenid 5.Kroom, Mangaan 6.Raud, koobalt, nikkel, vask 7.Tsink, alumiinium, plii 8.Kirjalik arvestustöö",
+  "topics": [
+    {
+      "title": "Ohutusnõuded. Vesinik. Hapnik",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Vesinikperoksiid. Halogeenid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Väävel.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Lämmastik. Süsinik",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kroom. Mangaan",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Raud. Koobalt. Nikkel. Vask.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Alumiinium. Tsink. Plii",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kontrolltöö. Praktikumi lõpetamine",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/chemistry1.md",
+    "SuunaMoodulid/MaterialScience2.md"
+  ],
+  "hasSyllabus": true
+}

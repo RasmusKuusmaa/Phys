@@ -1,0 +1,67 @@
+{
+  "code": "LOFY.02.006",
+  "name": {
+    "et": "Materjalifüüsika praktikum II. Elekter ja magnetism",
+    "en": "Materials physics practical II — electricity and magnetism"
+  },
+  "eap": 3,
+  "modules": [
+    "3.6"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "not-in-track",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [
+    "LOFY.01.002",
+    "LTFY.01.011"
+  ],
+  "aims": "Anda vajalikud teadmised ja oskused laboratoorseteks töödeks elektri ja magnetismi alal.",
+  "outcomes": [
+    "Praktikumis arvestuse saanud üliõpilane:",
+    "* teab ja oskab selgitada elektromagnetismi seadusi ja põhitõdesid;",
+    "* oskab kasutada enamlevinud elektrimõõteriistu;",
+    "* oskab kavandatud mõõtmiste tegemiseks kokku panna elektriskeemi;",
+    "* on omandanud põhiteadmised elektriohutuse valdkonnas;",
+    "* oskab ette antud elementidega (takistid, kondensaatorid, induktiipoolid) vahelduvvoolu skeemi järgi arvutatada oodatavad voltmeetrite ja ampermeetrite näidud"
+  ],
+  "summary": "Kursus on mõeldud materjaliteaduse üliõpilastele. Kursus sisaldab 8 praktilist tööd elektri ja magnetismi vallast.",
+  "topics": [
+    {
+      "title": "Halli efekt",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Vahelduvvoolu iseloomustavate suuruste mõõtmine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Millikani meetodil elektroni laengu määramine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Maa magnetvälja horisontaalkomponendi määramine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Trafo uurimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kondensaatori uurimine",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/MaterialScience2.md"
+  ],
+  "hasSyllabus": true
+}

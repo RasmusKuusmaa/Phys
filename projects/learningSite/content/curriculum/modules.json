@@ -1,0 +1,558 @@
+[
+  {
+    "number": "1.1",
+    "group": "Alusmoodulid",
+    "name": {
+      "et": "Alusmoodul I",
+      "en": "Foundation module I"
+    },
+    "requirementEt": "kohustuslik",
+    "requirement": "mandatory",
+    "track": "all",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LOFY.01.002",
+      "LOKT.07.010",
+      "LTKT.01.002",
+      "LTFY.01.011",
+      "LTFY.02.003"
+    ]
+  },
+  {
+    "number": "1.2",
+    "group": "Alusmoodulid",
+    "name": {
+      "et": "Alusmoodul II",
+      "en": "Foundation module II"
+    },
+    "requirementEt": "kohustuslik",
+    "requirement": "mandatory",
+    "track": "all",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "MTMM.00.340",
+      "MTMM.00.341",
+      "MTAT.03.236",
+      "LTAT.03.001",
+      "MTAT.03.256",
+      "MTMS.02.059"
+    ]
+  },
+  {
+    "number": "3.1",
+    "group": "Erialamoodulid",
+    "name": {
+      "et": "Füüsika esimene erialamoodul",
+      "en": "Physics — first specialisation module"
+    },
+    "requirementEt": "kohustuslik/valikuline",
+    "requirement": "mandatory",
+    "track": "physics",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LTFY.01.004",
+      "LOFY.01.123",
+      "LOFY.01.124",
+      "LOFY.01.018",
+      "LTFY.01.014"
+    ]
+  },
+  {
+    "number": "3.2",
+    "group": "Erialamoodulid",
+    "name": {
+      "et": "Füüsika teine erialamoodul",
+      "en": "Physics — second specialisation module"
+    },
+    "requirementEt": "vabalt valitav",
+    "requirement": "elective",
+    "track": "physics",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LTFY.01.005",
+      "LTTO.00.025",
+      "LOFY.01.021",
+      "LTFY.04.015",
+      "LTFY.01.012",
+      "LOFY.04.035",
+      "LOFY.01.015"
+    ]
+  },
+  {
+    "number": "3.3",
+    "group": "Erialamoodulid",
+    "name": {
+      "et": "Keemia esimene erialamoodul",
+      "en": "Chemistry — first specialisation module"
+    },
+    "requirementEt": "kohustuslik/valikuline",
+    "requirement": "mandatory",
+    "track": "chemistry",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LOKT.01.010",
+      "LOKT.10.018",
+      "LTKT.02.002",
+      "LTKT.06.004",
+      "LOKT.09.014"
+    ]
+  },
+  {
+    "number": "3.4",
+    "group": "Erialamoodulid",
+    "name": {
+      "et": "Keemia teine erialamoodul",
+      "en": "Chemistry — second specialisation module"
+    },
+    "requirementEt": "vabalt valitav",
+    "requirement": "elective",
+    "track": "chemistry",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LOKT.10.012",
+      "LOKT.04.004",
+      "LOKT.04.003",
+      "LTKT.00.001",
+      "LOKT.08.001"
+    ]
+  },
+  {
+    "number": "3.5",
+    "group": "Erialamoodulid",
+    "name": {
+      "et": "Materjaliteaduse esimene erialamoodul",
+      "en": "Materials science — first specialisation module"
+    },
+    "requirementEt": "kohustuslik/valikuline",
+    "requirement": "mandatory",
+    "track": "materials-science",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LTFY.02.001",
+      "LTFY.02.002",
+      "LTFY.02.016"
+    ]
+  },
+  {
+    "number": "3.6",
+    "group": "Erialamoodulid",
+    "name": {
+      "et": "Materjaliteaduse teine erialamoodul",
+      "en": "Materials science — second specialisation module"
+    },
+    "requirementEt": "vabalt valitav",
+    "requirement": "elective",
+    "track": "materials-science",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LOFY.01.007",
+      "LTFY.01.012",
+      "LOFY.02.006",
+      "LOFY.02.007",
+      "LOFY.01.008"
+    ]
+  },
+  {
+    "number": "3.7",
+    "group": "Erialamoodulid",
+    "name": {
+      "et": "Füüsika kõrvalerialana: erialamoodul",
+      "en": "Physics as a minor — specialisation module"
+    },
+    "requirementEt": null,
+    "requirement": "minor-only",
+    "track": "physics",
+    "minorOnly": true,
+    "eap": 24,
+    "courseCodes": [
+      "LOFY.01.007",
+      "LTFY.01.006",
+      "LOFY.01.009",
+      "LOFY.01.008"
+    ]
+  },
+  {
+    "number": "3.8",
+    "group": "Erialamoodulid",
+    "name": {
+      "et": "Keemia kõrvalerialana: erialamoodul",
+      "en": "Chemistry as a minor — specialisation module"
+    },
+    "requirementEt": null,
+    "requirement": "minor-only",
+    "track": "chemistry",
+    "minorOnly": true,
+    "eap": 24,
+    "courseCodes": [
+      "LOKT.06.010",
+      "LOKT.01.007",
+      "LOKT.02.037",
+      "LOKT.09.004"
+    ]
+  },
+  {
+    "number": "3.9",
+    "group": "Erialamoodulid",
+    "name": {
+      "et": "Materjaliteadus kõrvalerialana: erialamoodul",
+      "en": "Materials science as a minor — specialisation module"
+    },
+    "requirementEt": null,
+    "requirement": "minor-only",
+    "track": "materials-science",
+    "minorOnly": true,
+    "eap": 24,
+    "courseCodes": [
+      "LTFY.02.001",
+      "LTFY.02.002",
+      "LTFY.02.016"
+    ]
+  },
+  {
+    "number": "3.10",
+    "group": "Erialamoodulid",
+    "name": {
+      "et": "Võimendusmoodulid",
+      "en": "Enhancement modules"
+    },
+    "requirementEt": "vabalt valitav",
+    "requirement": "elective",
+    "track": null,
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LOFY.01.010",
+      "LTFY.04.002",
+      "LTFY.04.013",
+      "LOFY.01.009",
+      "LOFY.01.018",
+      "LOFY.01.015",
+      "LTKT.06.024",
+      "LTKT.02.001",
+      "LOKT.04.003",
+      "LOKT.09.016",
+      "LOKT.09.018",
+      "LOKT.08.001",
+      "MTMM.00.038",
+      "MTMM.00.342",
+      "MTMM.00.005",
+      "MTMM.00.060",
+      "LTMS.00.022"
+    ]
+  },
+  {
+    "number": "2.1",
+    "group": "Suunamoodulid",
+    "name": {
+      "et": "Füüsika esimene suunamoodul",
+      "en": "Physics — first specialisation-direction module"
+    },
+    "requirementEt": "kohustuslik/valikuline",
+    "requirement": "mandatory",
+    "track": "physics",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LOFY.01.007",
+      "LTFY.01.006",
+      "LOFY.01.009",
+      "LOFY.01.008"
+    ]
+  },
+  {
+    "number": "2.2",
+    "group": "Suunamoodulid",
+    "name": {
+      "et": "Füüsika teine suunamoodul",
+      "en": "Physics — second specialisation-direction module"
+    },
+    "requirementEt": "vabalt valitav",
+    "requirement": "elective",
+    "track": "physics",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LTFY.04.016",
+      "LOFY.04.003",
+      "LOFY.04.073",
+      "LTFY.04.013",
+      "LOFY.04.004"
+    ]
+  },
+  {
+    "number": "2.3",
+    "group": "Suunamoodulid",
+    "name": {
+      "et": "Keemia esimene suunamoodul",
+      "en": "Chemistry — first specialisation-direction module"
+    },
+    "requirementEt": "kohustuslik/valikuline",
+    "requirement": "mandatory",
+    "track": "chemistry",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LOKT.06.012",
+      "LTKT.06.019",
+      "LOKT.01.007",
+      "LOKT.02.037",
+      "LOKT.09.004"
+    ]
+  },
+  {
+    "number": "2.4",
+    "group": "Suunamoodulid",
+    "name": {
+      "et": "Keemia teine suunamoodul",
+      "en": "Chemistry — second specialisation-direction module"
+    },
+    "requirementEt": "vabalt valitav",
+    "requirement": "elective",
+    "track": "chemistry",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LTKT.06.024",
+      "LTKT.02.001",
+      "LTKT.02.003",
+      "LTKT.06.002",
+      "LOKT.09.005"
+    ]
+  },
+  {
+    "number": "2.5",
+    "group": "Suunamoodulid",
+    "name": {
+      "et": "Materjaliteaduse esimene suunamoodul",
+      "en": "Materials science — first specialisation-direction module"
+    },
+    "requirementEt": "kohustuslik/valikuline",
+    "requirement": "mandatory",
+    "track": "materials-science",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LOKT.01.007",
+      "LOKT.02.037",
+      "LTFY.01.006",
+      "LOKT.09.004"
+    ]
+  },
+  {
+    "number": "2.6",
+    "group": "Suunamoodulid",
+    "name": {
+      "et": "Materjaliteaduse teine suunamoodul",
+      "en": "Materials science — second specialisation-direction module"
+    },
+    "requirementEt": "vabalt valitav",
+    "requirement": "elective",
+    "track": "materials-science",
+    "minorOnly": false,
+    "eap": 24,
+    "courseCodes": [
+      "LOKT.06.012",
+      "LTKT.06.019",
+      "LOKT.01.010",
+      "LOKT.02.041",
+      "LTKT.06.002",
+      "LOFY.02.055",
+      "LOKT.09.015",
+      "LOFY.02.008"
+    ]
+  },
+  {
+    "number": "2.7",
+    "group": "Suunamoodulid",
+    "name": {
+      "et": "Füüsika kõrvalerialana: suunamoodul",
+      "en": "Physics as a minor — direction module"
+    },
+    "requirementEt": null,
+    "requirement": "minor-only",
+    "track": "physics",
+    "minorOnly": true,
+    "eap": 24,
+    "courseCodes": [
+      "LOFY.01.002",
+      "MTMM.00.340",
+      "MTMM.00.341",
+      "LTKT.01.002",
+      "LTFY.01.011"
+    ]
+  },
+  {
+    "number": "2.8",
+    "group": "Suunamoodulid",
+    "name": {
+      "et": "Keemia kõrvalerialana: suunamoodul",
+      "en": "Chemistry as a minor — direction module"
+    },
+    "requirementEt": null,
+    "requirement": "minor-only",
+    "track": "chemistry",
+    "minorOnly": true,
+    "eap": 24,
+    "courseCodes": [
+      "LOFY.01.002",
+      "LOKT.07.010",
+      "MTMM.00.340",
+      "LTKT.01.002",
+      "LTFY.01.011"
+    ]
+  },
+  {
+    "number": "2.9",
+    "group": "Suunamoodulid",
+    "name": {
+      "et": "Materjaliteadus kõrvalerialana: suunamoodul",
+      "en": "Materials science as a minor — direction module"
+    },
+    "requirementEt": null,
+    "requirement": "minor-only",
+    "track": "materials-science",
+    "minorOnly": true,
+    "eap": 24,
+    "courseCodes": [
+      "LOFY.01.002",
+      "LOKT.07.010",
+      "LTFY.01.011",
+      "LTKT.01.002",
+      "LTFY.02.003"
+    ]
+  },
+  {
+    "number": "4.1",
+    "group": "Valikmoodulid",
+    "name": {
+      "et": "Erialased valikained (füüsika eriala)",
+      "en": "Elective subjects (physics track)"
+    },
+    "requirementEt": null,
+    "requirement": "elective",
+    "track": "physics",
+    "minorOnly": false,
+    "eap": 12,
+    "courseCodes": [
+      "LTTO.00.026",
+      "LTFY.00.001",
+      "LTFY.03.001",
+      "LOFY.01.037",
+      "LOFY.02.013",
+      "LOTI.05.030",
+      "LTFY.04.012",
+      "LOOM.02.240",
+      "LOFY.04.040",
+      "LOFY.04.070",
+      "LOFY.02.045",
+      "LOFY.03.030",
+      "LOFY.02.020",
+      "LOFY.04.052",
+      "LOFY.01.031",
+      "LOFY.04.045",
+      "LOFY.01.026",
+      "LOFY.05.032",
+      "LTTO.00.013"
+    ]
+  },
+  {
+    "number": "4.2",
+    "group": "Valikmoodulid",
+    "name": {
+      "et": "Erialased valikained (keemia eriala)",
+      "en": "Elective subjects (chemistry track)"
+    },
+    "requirementEt": null,
+    "requirement": "elective",
+    "track": "chemistry",
+    "minorOnly": false,
+    "eap": 12,
+    "courseCodes": [
+      "LOKT.01.036",
+      "LTKT.08.003",
+      "LOKT.09.018",
+      "HVLC.01.010",
+      "LTKT.00.003",
+      "LOKT.01.006",
+      "LTFY.05.008",
+      "LOKT.09.016",
+      "LOKT.10.026",
+      "LOKT.00.022",
+      "LOKT.02.020",
+      "LOKT.04.016"
+    ]
+  },
+  {
+    "number": "4.3",
+    "group": "Valikmoodulid",
+    "name": {
+      "et": "Erialased valikained (materjaliteaduse eriala)",
+      "en": "Elective subjects (materials science track)"
+    },
+    "requirementEt": null,
+    "requirement": "elective",
+    "track": "materials-science",
+    "minorOnly": false,
+    "eap": 12,
+    "courseCodes": [
+      "LOKT.01.036",
+      "LOKT.09.018",
+      "HVLC.01.010",
+      "LTFY.00.001",
+      "LTFY.03.001",
+      "LOFY.01.037",
+      "LOFY.02.013",
+      "LTFY.05.008",
+      "LOTI.05.030",
+      "LTFY.04.012",
+      "LOKT.09.016",
+      "LOFY.02.045",
+      "LOFY.03.030",
+      "LOFY.02.020",
+      "LOFY.01.031",
+      "LOFY.01.026",
+      "LOKT.02.020"
+    ]
+  },
+  {
+    "number": "4.4",
+    "group": "Valikmoodulid",
+    "name": {
+      "et": "Ettevõtluse valikmoodul",
+      "en": "Entrepreneurship elective module"
+    },
+    "requirementEt": null,
+    "requirement": "elective",
+    "track": null,
+    "minorOnly": false,
+    "eap": 12,
+    "courseCodes": [
+      "MJCV.00.014",
+      "SVMJ.05.001",
+      "MJCV.00.001",
+      "MJCV.00.027"
+    ]
+  },
+  {
+    "number": "4.5",
+    "group": "Valikmoodulid",
+    "name": {
+      "et": "Välisõpingud",
+      "en": "Studies abroad"
+    },
+    "requirementEt": null,
+    "requirement": "elective",
+    "track": null,
+    "minorOnly": false,
+    "eap": 15,
+    "courseCodes": []
+  }
+]

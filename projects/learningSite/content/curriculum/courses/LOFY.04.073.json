@@ -1,0 +1,149 @@
+{
+  "code": "LOFY.04.073",
+  "name": {
+    "et": "Kvantmehaanika",
+    "en": "Quantum mechanics"
+  },
+  "eap": 6,
+  "modules": [
+    "2.2"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOFY.01.002",
+    "LOFY.04.035",
+    "LOFY.01.007",
+    "LTFY.04.013"
+  ],
+  "aims": "Mõista kvantmaailma seaduspärasuste põhimõttelisi erinevusi klassikalises füüsikas tuntutest, harjuda nende paradoksaalsusega. Omandada kvantmehaanika mõistelise ja matemaatilise aparatuuri alused tasemel, mis annab kvantmehaanikale tuginevate õppeainete ja teaduse- või tehnoloogiavaldkondadega tegelemiseks vajaliku kirjaoskuse.",
+  "outcomes": [
+    "Kursuse positiivsele hindele läbinud üliõpilane:",
+    "1) mõistab dualismi 'laine-osake' ning kvantmehaanika põhipostulaate;",
+    "2) teab ja oskab selgitada loengute kavas toodud märksõnade-terminite ulatuses kvantmehaanika ja selle matemaatilise aparaadi mõisteid, võrrandeid ja seoseid (sh määramatusseoseid), efekte ja paradokse;",
+    "3) oskab lahendada Schrödingeri võrrandit loengus käsitletud ja kavas toodud lihtsamail mudeljuhtudel ning valdab häiritusarvutuse ideid ning metoodikat;",
+    "4) valdab ja oskab rakendada kvantmehaanika matemaatilist aparaati aine programmi, töölehtede ja neis toodud ülesannetega määratud tasemel, sh oskab läbi teha kvantmehaanika valemite tuletusi, k.a. neid tuletuste etappe, mis on töölehtedes formuleeritud koduülesandeina;",
+    "5) omab ettekujutust kvantmehaanika kontseptuaalsetest ja filosoofilistest probleemidest ja oskab neil teemadel arutleda ning kummutada \"terve mõistuse\" sünnitatud väärarusaamu."
+  ],
+  "summary": "Kvantmehaanika kursuses esitatakse mikromaailma protsesside süvakäsitluse teoreetilised alused. Üliõpilane omandab kvantmehaanika matemaatilise aparatuuri ja ülesannete lahendamise oskuse mitterelativistlikul juhul. Relativistliku juhu detailsem käsitlus järgneb teoreetilise füüsika valikkursuses.",
+  "topics": [
+    {
+      "title": "-",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "-",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "1.2. Polarisatsiooniseisundis mõõdetavad suurused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "1.3. Määramatusseosed ehk -relatsioonid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "1.4. Schrödingeri võrrand.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "1.5. Siirded perioodilise mõju toimel; magnetresonants.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "1.6. Füüsikalise suuruse muutumiskiirus, Ehrenfesti teoreem ja Heisenbergi pilt.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "-",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "2.4. Impulssmomendi operaator koordinaatesituses.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "2.6. Osake ühedimensionaalses potentsiaaliaugus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "2.7.Harmooniline ostsillaator koordinaatesituses ja täitearvude esitus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "2.8. Energiatsoonid perioodilises potentsiaaliväljas.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "2.9. Orbitaalimpulssmomendi omaväärtusprobleem.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "2.10. Vesinikusarnase aatomi energia omaväärtusprobleem.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "2.11. Tunnelefekt ja selle rakendusi.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "-",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "3.3. Ajalise sõltuvusega häiritusarvutus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "-",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "4.3. Eristamatute osakeste süsteemid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "4.4. Keerulised aatomid ja keemiliste elementide perioodilisussüsteem.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "4.6 Molekulide kvantmehaanika alged.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "-",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/physics2.md"
+  ],
+  "hasSyllabus": true
+}

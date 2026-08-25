@@ -1,0 +1,24 @@
+{
+  "code": "LOFY.04.070",
+  "name": {
+    "et": "Mittelineaarne dünaamika",
+    "en": "Nonlinear dynamics"
+  },
+  "eap": 3,
+  "modules": [
+    "4.1"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

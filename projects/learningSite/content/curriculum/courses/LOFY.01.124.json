@@ -1,0 +1,31 @@
+{
+  "code": "LOFY.01.124",
+  "name": {
+    "et": "Füüsika praktikum III - optika",
+    "en": "Physics practical III — optics"
+  },
+  "eap": 5,
+  "modules": [
+    "3.1"
+  ],
+  "status": {
+    "physics": "mandatory",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOFY.01.123",
+    "LTFY.01.011"
+  ],
+  "aims": ".Anda teadmisi ja praktilisi kogemusi tüüpiliste optiliste mõõtemeetodite osas. Tutvustada optilisi seadmeid ja mõõtmismeetodeid ning optilise eksperimenditehnika aluseid.",
+  "outcomes": [
+    "Optika loengukursuse, seminaride ja praktikumi läbinu teab ja tunneb optika seadusi ja põhitõdesid ning nende peamisi rakendusi. Praktikum annab optilisteks eksperimentide läbiviimiseks vajalikud alused, mis hõlmavad optikaseadmete ehitust, nende justeerimist, õiget ja ohutut kasutamisest. Kursuse läbinud on võimelised rakendama optikaalaseid teadmisi eksperimenditingimustes, lahendama praktilisi probleeme, võrdlema katsetulemusi teooriaga, analüüsima ja hindama mõõtemääramatust ning võimalikke vigade allikaid."
+  ],
+  "summary": "Praktikum aitab süvendada optika loengukursuse kuulamisel saadud teadmisi ning võimaldab saada praktilisi kogemusi töös optiliste seadmetega. Praktikum eeldab tulemuste arvutil töötlemise oskust. Optika kursuse olulisi temaatikaid käsitlev laboratoorsete tööde praktikum, mis on oluliseks täienduseks optika loengukursusele. Praktikumis tutvutakse optiliste mõõteseadmete ja mõõtmiste põhialustega ja saadakse esialgsed optiliste mõõtmiste kogemused. Praktikumis on üles seatud 21 praktikumitööd, mis jagunevad 8 optika eri teemat/ainevaldkonna vahel. Praktikumi sooritamiseks tuleb semestri juures sooritada edukalt 10 laboratoorset tööd. Üksikasjad Õppeaine struktuuriüksused Füüsikahariduse osakond (LTFY01)  Koordineerija  5.00 EAP Õppeaine liik Tavaline aine Kestus semestrites 1 Õppeaine toimumise sagedus - Lõpphindamise skaala Eristamata (arv, m.arv, mi) Kas on VÕTA korras arvestatav? Jah Võimalik läbida täiendusõppijana Ei",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/physics1.md"
+  ],
+  "hasSyllabus": true
+}

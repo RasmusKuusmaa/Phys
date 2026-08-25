@@ -1,0 +1,61 @@
+{
+  "code": "LTKT.02.003",
+  "name": {
+    "et": "Füüsikalise keemia praktikum II",
+    "en": "Physical chemistry practical II"
+  },
+  "eap": 3,
+  "modules": [
+    "2.4"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOKT.02.037"
+  ],
+  "aims": "Praktikumi eesmärgiks on kinnistada teoreetiliste aluste loengus omandatud teadmisi ning anda praktilisi kogemusi füüsiko-keemiliste meetodite rakendamiseks, treenida analüüsioskust füüsiko-keemilise eksperimendi ettevalmistamiseks ning tulemuste interpreteerimiseks.",
+  "outcomes": [
+    "*Oskab seada eesmärke ette antud praktiliste tööde lahendamiseks, planeerida ja viia läbi eksperimente.",
+    "*Oskab loengute kavas toodud märksõnade raames arutleda, eristades olulist ebaolulisest ja kasutades korrektseid termineid.",
+    "*Valdab protsesside kirjeldamiseks vajalikke matemaatilisi võtteid ja oskab neid kasutada erinevate probleemide lahendamiseks.",
+    "*Teab erinevate mehhanismide ja katseseadmete tööprintsiipe, oskab hinnata nende rakendust ning neid efektiivselt kasutada.",
+    "*Oskab nii kirjalikult kui ka suuliselt esitada eksperimenditulemusi, neid tõlgendada ja teha vastavaid järeldusi.",
+    "*Oskab töötada säästlikult ja vastavalt ohutusnõuetele."
+  ],
+  "summary": "Praktikumis tuleb teostada 10 praktilist tööd valikloetelust, kinnistamaks loengus saadud teadmisi ning saamaks praktilisi kogemusi tööks aparatuuri ning reaktiividega.",
+  "topics": [
+    {
+      "title": "Elektrolüütide lahuste omadused",
+      "hours": null,
+      "keywords": "(a) Ioonide ülekandearvu määramine elektrolüüdilahuses; (b) Kulonomeetriline tiitrimine"
+    },
+    {
+      "title": "Potentsiomeetria",
+      "hours": null,
+      "keywords": "(a) Fosforhappe potentsiomeetriline tiitrimine; (b) Redokstiitrimine"
+    },
+    {
+      "title": "Elektroodiprotsessid ja elektromotoorjõud",
+      "hours": null,
+      "keywords": "(a) Rasklahustuva soola lahustuvuskorrutise määramine EMJ mõõtmise teel (b) Aktiivsuskoefitsientide määramine EMJ mõõtmise teel"
+    },
+    {
+      "title": "Heterogeensete reaktsioonide kineetika",
+      "hours": null,
+      "keywords": "(a) Elektrokeemilise redutseerumise/oksüdeerumise uurimine pöörleva ketaselektroodi meetodil; Elektroanalüüs (b) Pb elektrokeemiline määramine plaadile prinditud elektroodiga"
+    },
+    {
+      "title": "Pindnähtused ja adsorptsioon",
+      "hours": null,
+      "keywords": "(a) Poorse materjali eripinna määramine (BET) Energia muundurid (b) PEM (polümeer elektrolüüt membraan) kütuselemendi uurimine"
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/chemistry2.md"
+  ],
+  "hasSyllabus": true
+}

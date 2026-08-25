@@ -1,0 +1,63 @@
+{
+  "code": "LOKT.02.041",
+  "name": {
+    "et": "Füüsikalise keemia praktikum I",
+    "en": "Physical chemistry practical I"
+  },
+  "eap": 3,
+  "modules": [
+    "2.6"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "not-in-track",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [
+    "LOKT.02.004",
+    "LOKT.02.037",
+    "LOKT.02.036"
+  ],
+  "aims": "Praktikumi eesmärgiks on kinnistada keemia teoreetiliste aluste ja füüsikalise keemia 1. osa loengus omandatud teadmisi ning anda praktilisi kogemusi mõningate füüsiko-keemiliste meetodite rakendamiseks ning lihtsama aparatuuri käsitsemiseks.",
+  "outcomes": [
+    "*Oskab seada eesmärke ette antud praktiliste tööde lahendamiseks, planeerida ja viia läbi eksperimente.",
+    "*Oskab loengute kavas toodud märksõnade raames arutleda kasutades korrektseid termineid.",
+    "*Valdab protsesside kirjeldamiseks vajalikke matemaatilisi võtteid ja oskab neid kasutada erinevate probleemide lahendamiseks.",
+    "*Teab erinevate mehhanismide ja katseseadmete tööprintsiipe, oskab hinnata nende rakendust ning neid efektiivselt kasutada.",
+    "*Oskab nii kirjalikult kui ka suuliselt esitada eksperimenditulemusi, neid tõlgendada ja teha vastavaid järeldusi.",
+    "*Oskab töötada säästlikult ja vastavalt ohutusnõuetele."
+  ],
+  "summary": "Praktikumis tuleb teostada 5 praktilist tööd valikloetelust, kinnistamaks loengus saadud teadmisi ning saamaks praktilisi kogemusi tööks aparatuuri ning reaktiividega.",
+  "topics": [
+    {
+      "title": "Gümnaasiumi loodusteaduste õpetaja",
+      "hours": "104224",
+      "keywords": "a. Kalorimeetrilised mõõtmised. b. Lahustunud aine molekulmassi määramine krüoskoopilisel meetodil. Geenitehnoloogia"
+    },
+    {
+      "title": "Elektrolüütide omadused",
+      "hours": null,
+      "keywords": "(a) Nõrga elektrolüüdi dissotsiatsioonikonstandi määramine (b) Ioonide ülekandearvu määramine elektrolüüdilahuses 2. Gümnaasiumi loodusteaduste õpetaja (104224)"
+    },
+    {
+      "title": "Elektroodiprotsessid ja elektromotoorjõud",
+      "hours": null,
+      "keywords": "(a) Potentsiomeetriline tiitrimine (b) Redokssüsteemide potentsiomeetriline uurimine 3.Gümnaasiumi loodusteaduste õpetaja (104224)"
+    },
+    {
+      "title": "Keemiliste reaktsioonide kineetika",
+      "hours": null,
+      "keywords": "(a) O2 kontsentratsiooni muutumise kineetika amperomeetriline uurimine (b) Estri seebistamisreaktsiooni kiiruskonstandi määramine elektrijuhtivuse mõõtmise teel 4.Gümnaasiumi loodusteaduste õpetaja (104224) (grupitöö)"
+    },
+    {
+      "title": "Elektrokeemilised mõõtmised",
+      "hours": null,
+      "keywords": "(a) Redokstiitrimine. (b) Aktiivsukoefitsiendi määramine (c) Nõrga elektrolüüdi dissotsiatsioonikonstandi määramine"
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/MaterialScience2.md"
+  ],
+  "hasSyllabus": true
+}

@@ -1,0 +1,106 @@
+{
+  "code": "LTFY.01.011",
+  "name": {
+    "et": "Laboritöö praktikum",
+    "en": "Laboratory practical (physics)"
+  },
+  "eap": 3,
+  "modules": [
+    "1.1",
+    "2.7",
+    "2.8",
+    "2.9"
+  ],
+  "status": {
+    "physics": "mandatory-all",
+    "chemistry": "mandatory-all",
+    "materials-science": "mandatory-all"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Kursuse eesmärgiks on anda üliõpilasele esmane laboritöö kogemus, anda teadmisi ja praktilisi kogemusi tüüpiliste elektriliste, optiliste ja molekulaarfüüsika mõõtemeetodite osas. Tutvustada seadmeid ja mõõtmismeetodeid ning eksperimenditehnika aluseid. Õpetada katsetulemuste töötlemist ja mõõtmistulemuse usaldatavuse hindamist.",
+  "outcomes": [
+    "*omab füüsikaliste eksperimentide läbiviimiseks vajaliku alust, tunneb seoseid füüsikaliste suuruste ja nende ühikute vahel;",
+    "* tunneb enamlevinud mehhaaniliste, soojusfüüsikaliste, elektriliste ja optiliste suuruste mõõtmisel kasutatavaid mõõteviise, mõõtevahendeid ja seadmeid ning oskab neid õigesti ja ohutult kasutada;",
+    "* tunneb elementaarseid elektriohutuse ja teisi ohutustehnika nõudeid;",
+    "* oskab võrrelda arvutus- ja katsetulemusi teooriaga, sh, analüüsida saadud numbriliste väärtuste reaalsust, mõõtemääramatust ning võimalikke vigade allikaid;",
+    "* suudab selgitada tehtud mõõtmiste põhiolemust ja põhjendada saadud tulemusi."
+  ],
+  "summary": "Aine on mõeldud füüsika-keemia-materjaliteaduse eriala 1. aasta üliõpilastele ja on täienduseks füüsikalise maailmapildi kursusele teadmiste süvendamiseks ja katseliseks kinnitamiseks, katse planeerimise ja andmetöötluse elementide ning eksperimenditehnika omandamiseks.",
+  "topics": [
+    {
+      "title": "1. Päikesepatarei omaduste uurimine ja kasuteguri määramine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "2.. Õhu- ja aururõhu sõltuvused temperatuurist. Õhuniiskus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "3. Temperatuuri mõõtmise meetodid ja vahendid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "4. Inimkeha takistus alalis- ja vahelduvvoolule",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "5. Valgus. Kunstlike valgusallikate võimsus ja kiirgusspekter. Polariseeritud valgus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "6. Valguse neeldumine keskkonnas. Fotoluminestsents.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "7.1. Savist, betoonist ja looduslikust kiust komposiitide valmistamine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "8. Erinevate elektrijuhtivustega komposiitide valmistamine ja uurimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "9. Vesilahuse elektrijuhtivus. Ioonide liikumise kiiruse määramine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "10. Elektriliste suuruste mõõtmine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "11. Vooluallika uurimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "12. Juhusliku suuruse jaotusseaduse uurimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "13. Järeltööde tegemise võimalus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kokkuvõtte praktikumist (tööde aruannete põhjal) - Taivo Jõgiaas, Irina Bichele",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "AlusMoodulid/AlusMoodulid1.md"
+  ],
+  "hasSyllabus": true
+}

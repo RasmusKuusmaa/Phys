@@ -1,0 +1,25 @@
+{
+  "code": "LOFY.01.037",
+  "name": {
+    "et": "Kaasaegse metroloogia alused",
+    "en": "Foundations of modern metrology"
+  },
+  "eap": 3,
+  "modules": [
+    "4.1",
+    "4.3"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

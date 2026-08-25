@@ -1,0 +1,114 @@
+{
+  "code": "LOFY.01.021",
+  "name": {
+    "et": "Insenerigraafika",
+    "en": "Engineering graphics"
+  },
+  "eap": 3,
+  "modules": [
+    "3.2"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Kursuse eesmärgiks on anda üliõpilastele teadmised masinaehitusjooniste vormistamise standarditest ja praktilised oskused lihtsamate jooniste koostamiseks tarkvara SolidWorks abil, samuti arendada üliõpilaste ruumilist ettekujutlusvõimet ja loovust.",
+  "outcomes": [
+    "Peale kursuse läbimist üliõpilane:",
+    "1. Teab masinaehitusjooniste vormistamise ISO ja ANSI standardeid;",
+    "2. Oskab 15 - 25 mõõdet sisaldavast detailist koostada tema valmistamiseks vajaliku joonise, mis sisaldab vajaliku arvu vaateid ja lõikeid ning kõik vajalikud mõõtmed;",
+    "3. Teab inseneritarkvara SolidWorks esmaseid töövõtteid ja oskab selle tarkvaraga vormistada lihtsamaid 3D mudeleid ja jooniseid;",
+    "4. Suudab loovalt lahendada modelleerimise ülesandeid, mille sõnastusse on sisse jäetud vabadusastmed iseseisvate valikute tegemiseks;",
+    "5. Suudab ruumilise kujundi jagada mõtteliselt lihtsamateks elementideks ja sellest lähtuvalt valida skeemi SolidWorks tarkvaraga 3D mudeli koostamiseks."
+  ],
+  "summary": "Kursus tutvustab klassikalist kujutavat geomeetriat, tehniliste jooniste vormistamist, kujutamise põhimõtteid ja valitud masinaehituselementide ISO ja ANSI standardeid. Loengutes tutvustatakse projekteerimistarkvara SolidWorks, mida üliõpilased peavad kasutama iseseisvate tööde tegemisel. Tarkvara töötab ainult PC tüüpi arvutitel ja on installeeritud W.Ostwaldi 1 arvutiklassis, samuti saavad üliõpilased kasutada seda enda arvutites. Ülesannete, õppematerjalide ja muu info jagamine, samuti ülesannete vastuvõtmine toimub Moodle keskkonna vahendusel. Registreerumise info Registreerumise algus 15.05.2026 Registreerumise lõpp 13.09.2026 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 13.09.2026 Registreerumise lõpp külalistele 13.09.2026 Registreeringu tühistamise lõpp 27.09.2026 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Jah Registreerunute arv 49 Osalejate piirarv 54 Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 3 EAP | 78 t Loengud 32 t Praktikumid 4 t Iseseisev töö 42 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Jah Õpikeskkond LOFY.01.021 https://moodle.ut.ee/course/view.php?id=137 Kohustuslikud õppematerjalid 1. J.Riives, A.Teaste, R.Mägi. Tehniline joonis, õppeotstarbeline käsiraamat, Tallinn 1996. või U.Asi, Tehniline joonestamine. Õpik. Tallinn 2009 2. Õppematerjalid Moodles Soovituslikud õppematerjalid SolidWorks-iga kaasasolevad õppematerjalid, mis on installeeritud arvutitesse koos tarkvaraga.",
+  "topics": [
+    {
+      "title": "Sissejuhatus. (Insenerigraafika: kellele ja milleks).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Inseneritarkvara SolidWorks (SW) demonstratsioon: mudeli loomine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Jooniste vormistamine. Projektsioonid. (Formaadid, mõõtkava, joonte liigid, kirjanurk. Rist- kald-, isomeetriline ja perspektiivprojektsioon). SW - joonised paberile.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Lõiked, nende liigid, kasutamine ja tähistamine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Jooniste mõõtmestamine. (Mõõtmete liigitus, mõõtmestamise põhimõtted, lihtsustused ja piirangud).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Pindade siledused ja asendihälbed. (Pinnasiledused ja tolerantsid nende standardid, kasutamine, teostamine ja hind).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "SW - lehtmetall",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "SW - korduvad elemendid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "SW - mudeli analüüs.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Detailide ühendamine. (Liimimine, keevitamine ja keermestatud liited). SW - keermed.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ehitusjoonised",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Laagrid. (Liug- ja kuullaagrid, nende kasutamine ja koormustaluvus).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Istud",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "SW - koostu demonstratsioon.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Rühmad: kolmap, kolmap2, neljap",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "SolidWorki õppimine arvutiklassis vastaval aine toimumise ajaplaanile",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/physics2.md"
+  ],
+  "hasSyllabus": true
+}

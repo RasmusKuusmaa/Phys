@@ -1,0 +1,69 @@
+{
+  "code": "LTFY.01.014",
+  "name": {
+    "et": "Spektroskoopia",
+    "en": "Spectroscopy"
+  },
+  "eap": 5,
+  "modules": [
+    "3.1"
+  ],
+  "status": {
+    "physics": "mandatory",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOFY.01.008"
+  ],
+  "aims": "Kursuse eesmärgiks on anda ülevaade spektroskoopia põhialustest, sh spektroskoopilisest meetodist ja selle rakendustest, peamistest spektroskoopilistest nähtustest ja spektraalaparatuuri tööprintsiipidest.",
+  "outcomes": [
+    "Aine läbinud üliõpilane teab (ja oskab lihtsamates olukordades rakendada):",
+    "1. Spektroskoopia ja optika vahekorda.",
+    "2. Põhiliste spektraalmuutujate (lainepikkus, sagedus, lainearv, energia) tähendust, vastavalt teisendada spektrijoone asukohta.",
+    "3. Läbilaskvus-, peegeldus- ja neeldumisteguri mõisteid ning vastavad spektraalkarakteristikaid, Bougueri-Lamberti-Beeri seadust.",
+    "4. Rayleigh hajumise vaatlemise tingimusi ja spektraalomadusi.",
+    "5. Soojuskiirguse ja luminestsentsi erinevusi, absoluutselt musta keha kiirguse omadusi.",
+    "6. Fluorestsentsi kvantsaagise, ergastusspektri ja kustumisaja mõisteid.",
+    "7. Bohri aatomimudelit, kiirguse (footonite) ja aine (aatomite) vahelisi elementaarakte, nende kvalitatiivseid sarnasusi ja erinevusi.",
+    "8. Lihtsaima aatomi energiatasemete skeemi (v.a. peenstruktuur) ja selle seost kvantarvudega.",
+    "9. Molekulide kõige lihtsamaid mudeleid ja molekuli hajumisspektris leiduvate Raman-piikide päritolu (sh seost Ramani nihke ja molekuli võnkesageduse vahel).",
+    "10. Kristallide energiatsoonide ja põhiliste optiliste omaduste vahelisi seoseid.",
+    "11. Levinumate spektroskoopiliste kiirgusallikate (halogeen-, ksenoon- ja deuteeriumlamp, spektraallambid ja laserid) spektrite põhilisi iseärasusi ja sellest tulenevaid rakendusvõimalusi.",
+    "12. Üldotstarbeliste spektraalseadmete (monokromaator, spektrofotomeeter, spektrofluorimeeter) otstarvet ja tööpõhimõtet, spektraalseadme dispersiooni, lahutusvõime ja spektraalpilu tähendust ning seoseid nende vahel.",
+    "13. Kiirgusvastuvõtja koste ja spektraalkoste tähendusi, kõige levinumate kiirgusvastuvõtjate (fotoelektronkordisti, fotodiood, CCD) tööpõhimõtteid."
+  ],
+  "summary": "Kursus annab avara ülevaate spektroskoopia (sh eelkõige optilise spektroskoopia) olemusest ja rakendustest. Kirjeldatakse põhilised spektroskoopilised nähtused ja analüüsitakse nende spektraalkarakteristika seost aine ehitusega. Käsitletakse laialt levinud spektraalaparatuuri tööprintsiipe. Teoreetilist osa toetavad praktilised tööd ja demokatsed.",
+  "topics": [
+    {
+      "title": "Spektromeetri koostamine, kiirgus- ja neeldumisspektrite mõõtmine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Materjali faasikoostise määramine kombinatsioonhajumise spektrist",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "RGB CCD maatriksdetektori uurimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "IR Fourier-spektromeetriga tutvumine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Laseri moodide uurimine interferomeetriga",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/physics1.md"
+  ],
+  "hasSyllabus": true
+}

@@ -1,0 +1,61 @@
+{
+  "code": "LOFY.04.003",
+  "name": {
+    "et": "Erirelatiivsusteooria",
+    "en": "Special relativity"
+  },
+  "eap": 3,
+  "modules": [
+    "2.2"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LTFY.04.013"
+  ],
+  "aims": "Kursuse eesmärgiks on tutvustada loodusteadusliku maailmapildi raames nähtuseid, probleeme ja nende lahendusi, mis ilmnevad erinevate inertsiaalsete vaatlejate olemasolul. Kursuse käigus esitatud käsitluse tulemusena peab kuulajates kujunema arusaam Galilei-Newtoni paradigma piiratusest ja üldistamise vajadusesest ning üldistatud paradigma põhitulemustest.",
+  "outcomes": [
+    "Kursuse positiivsele hindele läbinud üliõpilane:",
+    "------------------------------------------------------------------",
+    "* saab aru vajadusest käsitleda erinevaid taustsüsteeme ja mõistab neid printsiipe, mis võimaldavad seda käsitlust läbi viia,",
+    "* tunneb ainekavas esitatud mõisteid tasemel, et suudab nende sisu lahti seletada,",
+    "* teab olulisemaid valemeid; mõistab (osaliselt ) nähtusi, mille kirjeldamiseks need valemid on sobivad ja oskab neid kasutada lihtsamate ülesannete lahendamisel,",
+    "* omab nägemust, kuidas/kuhu kursuses esitatud materjal paigutub laiemas loodusteaduslikus maailmapildis."
+  ],
+  "summary": "Teoreetilise füüsika põhikursuste hulka kuuluvas loengukursuses esitatakse erirelatiivsusteooria alused (relativistlik kinemaatika, neljamõõtmeline formalism pseudoeukleidilises aegruumis, relativistlik mehaanika).",
+  "topics": [
+    {
+      "title": "GALILEI RELATIIVSUSPRINTSIIP JA ERIRELATIIVSUTEOORIA POSTULAADID (2 h)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "RELATIVISTLIK KINEMAATIKA (8 h)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "ERIRELATIIVSUSTEOORIA NELJAMÕÕTMELINE FORMALISM (6 h)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "RELATIVISTLIK MEHAANIKA (8 h)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Näited ja näidisülesannete lahendamine (8 h).",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/physics2.md"
+  ],
+  "hasSyllabus": true
+}

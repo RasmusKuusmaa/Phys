@@ -1,0 +1,162 @@
+{
+  "code": "LOKT.10.012",
+  "name": {
+    "et": "Bioorgaaniline keemia",
+    "en": "Bioorganic chemistry"
+  },
+  "eap": 6,
+  "modules": [
+    "3.4"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOKT.09.040",
+    "LOKT.09.004"
+  ],
+  "aims": "Biomolekulide keemia baasteadmiste kujundamine ning ülevaate andmine mõningatest nende metabolismi reaktsioonidest.. Lähtudes orgaanilise keemia baasteadmistest jõutakse mitmete looduses toimuvate protsesside keemilise mõistmiseni. Omandatud teadmised võimaldavad keemia teadmiste rakendamist erinevate bioloogilisi materjale ja biokeemilisi reaktsioone hõlmavate protsesside arusaamiseks, mõjutamiseks ning juhtimiseks.. Toetatakse suulise erialase eneseväljenduse arengut tutvustades omandatud materjali kaasüliõpilatele",
+  "outcomes": [
+    "Kursuse läbinu:",
+    "* Teab põhilisi biomolekulide struktuure ja oskab hinnata nende keemilisi omadusi.",
+    "* Teab biomolekulide keemia eripärasid ning orienteerub klassikalistes biopolümeride analüüsimeetodites.",
+    "* Oskab rakendada orgaanilise keemia baaskursuse teadmisi biomolekulide metabolismiradades toimuvate reaktsioonide kirjeldamisel.",
+    "* On omandanud biomolekulide metabolismi põhimõisted ning omab ülevaadet tähtsamatest ainevahetusradadest.",
+    "* Oskab rakendada füüsiko-keemilist lähenemist biokeemiliste protsesside kirjeldamisel ja juhtimisel ning oskab seda selgitada mitteeriala kuulajatele"
+  ],
+  "summary": "Üldhariv kursus, mis käsitleb bioprotsessides toimuvaid keemilisi reaktsioone, hõlmates staatilist biokeemiat (raku molekulaarsed komponendid), ensümoloogiat (biokeemiline katalüüs) ning peatükke dünaamilisest biokeemiast (tähtsamad ainevahetusrajad) .",
+  "topics": [
+    {
+      "title": "Sissejuhatus. Keemia ja bioorgaaniline keemia. Mis on LOKT 10.012 ja LTKT.10.002?",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Bioelemendid. Biomolekulid. Kiraalsus. Konfiguratsioon ja konformatsioon.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Vesi kui lahusti. Puhvrid, puhvermahtuvus, pK. (2. ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Puhverlahused. Aminohapped, nende keemilised omadused. (3.ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Peptiidid ja valgud.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Valkude primaarne, sekundaarne, tertsiaalne ja kvaternaarne struktuur. (4.ptk). Töö valkudega. Valkude eraldamine ja primaarjärjestuse määramine. (40. ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Valkude primaarne, sekundaarne, tertsiaalne ja kvaternaarne struktuur. (4.ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Peptiidide süntees. Valgu struktuur",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Nukleotiidid ja nukleiinhapped (32 ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Geenitehnoloogilised meetodid (41 ptk) (M.J.Tahk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Suhkrud ja nende keemilised omadused. Monosahhariidid, disahhariidid. Polüsahhariidid. (9.ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Rasvhapped, rasvad, lipiidid. (10.ptk).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ensüümid, nende klassifikatsioon. Ensüümkatalüüs. (5 ptk).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ensüümkineetika. Inhibiitorid (6 ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ensüümide toimemehhanisme. Ensüümkineetika ülesandeid (7.ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Membraanid, nende struktuur ja omadused. Membraantransport (11.ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Biosignaali ülekanne (12. ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Metabolismi üldmõisted. (13-14 ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Anaeroobne glükolüüs, selle 2 faasi ja 10 etappi. Nende reaktsioonide mehhansmid ja regulatsioon. (15 ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Käärimine.Teiste suhkrute katabolism. (16 ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tsitraadi tsükkel. Selle regulatsioon (17.-18 ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Oksüdatiivne fosforüleerimine.(19-20. ptk)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Glükoneogenees",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Valkude katabolism Näiteid metabolismist",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kokkuvõte kursusest. Seminari algus kell 10:15",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/chemistry2.md"
+  ],
+  "hasSyllabus": true
+}

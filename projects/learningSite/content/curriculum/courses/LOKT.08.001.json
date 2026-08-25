@@ -1,0 +1,53 @@
+{
+  "code": "LOKT.08.001",
+  "name": {
+    "et": "Teoreetiline keemia",
+    "en": "Theoretical chemistry"
+  },
+  "eap": 6,
+  "modules": [
+    "3.10",
+    "3.4"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOKT.07.010"
+  ],
+  "aims": "Õppeaine eesmärgiks on teoreetilise keemia põhialuste edastamine ja praktilise kogemuse kaudu kasutajakogemuse andmine ja kinnistamine arvutilaboris.",
+  "outcomes": [
+    "Käeoleva õppeaine läbimisel üliõpilane:",
+    "- tunneb teoreetilise keemia valdkondi",
+    "- tunneb nende põhialuseid",
+    "- oskab kirjeldada aatomeid ja molekule",
+    "- oskab esitada molekuli struktuuri digitaalselt",
+    "- oskab kirjeldada keemiliste ühendite omadusi teoreetilise keemia meetoditega",
+    "- omab kogemust praktiliseks tööks teoreetilise keemia meetoditega seminaritööde tasemel.",
+    "Ülekantavate pädevuste raames oskab üliõpilane:",
+    "- töötada Windowsi ja/või UNIX-i (Linux-i) operatsioonisüsteemidega,",
+    "- oskab vormistada arvutustööde protokolle,",
+    "- tunneb süvendatult eestikeelset erialast terminoloogiat,",
+    "Jne."
+  ],
+  "summary": "Teoreetiline keemia on teadusharu, mis käsitleb keemiliste ühendite omaduste teoreetilist ja arvutuslikku kirjeldamist nii aatomi, kui molekuli tasemel ning kasutab selleks nii füüsika mudeleid, kui ka andmepõhist lähenemist. Valdkond hõlmab endas (i) kvantmehaanika aluseid, (ii) aatomite kvantmehaanikat, (iii) molekulide kvantmehaanikat, (iv) molkulaarmehhanikat, (v) molekulaardünaamikat, (vi) keemia informaatikat, (vii) keemiliste ühendite omaduste teoreetilist kirjeldamist, jne. Registreerumise info Registreerumise algus 15.05.2026 Registreerumise lõpp 30.08.2026 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 14.09.2026 Registreerumise lõpp külalistele 14.09.2026 Registreeringu tühistamise lõpp 28.09.2026 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Jah Registreerunute arv 21 Osalejate piirarv 21 Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 6 EAP | 156 t Loengud 32 t Seminarid 28 t Iseseisev töö 96 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Ei Õpikeskkond http://moodle.ut.ee Kohustuslikud õppematerjalid vt õppematerjalid",
+  "topics": [
+    {
+      "title": "teemad vt õppematerjalid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "teemad vt õppematerjalid",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/chemistry2.md"
+  ],
+  "hasSyllabus": true
+}

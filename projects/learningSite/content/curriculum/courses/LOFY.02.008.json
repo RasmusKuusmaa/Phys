@@ -1,0 +1,41 @@
+{
+  "code": "LOFY.02.008",
+  "name": {
+    "et": "Sissejuhatus materjaliteadusse",
+    "en": "Introduction to materials science"
+  },
+  "eap": 3,
+  "modules": [
+    "2.6"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "not-in-track",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Kursuse eesmärkideks on: 1. Materjaliteaduse ja -tehnoloogia tutvustamine ajaloolises ja rakenduslikus lõikes. 2. Tulevaste erikursuste ja õppejõudude tutvustamine. 3. Eestis teostatavate materjaliuuringute tutvustamine. 4. Materjaliteaduse ja -tehnoloogiaga seotud uurimislaborite ja ettevõtete kui kursuse- ja lõputööde teostamise baasi ja potentsiaalsete tulevaste töökohtade tutvustamine.",
+  "outcomes": [
+    "1. Omab üldist ettekujutust materjaliteaduse- ja tehnoloogia saavutustest, probleemidest ja arengusuundadest.",
+    "2. Omab ülevaadet materjaliteaduse alastest uuringutest Eestis ja mõnedest materjalitehnoloogilise profiiliga Tartu ettevõtetest, oskab saadud informatsiooni kasutada erialaste õpingute planeerimisel ja töökoha valikul.",
+    "3. On võimeline tegema kirjalikku lühikokkuvõtet kohtvisiitidest eriala profiilile vastavatesse teaduslaboritesse / tootmisettevõtetesse."
+  ],
+  "summary": "Kursus annab ülevaate erinevatest materjalidest ja nende olulisusest kaasaegse tehnoloogilise ühiskonna funktsioneerimisel rakenduslikus lõikes (konstruktsioonimaterjalid, infotehnoloogilised materjalid, energeetikamaterjalid, materjalitehnoloogiad jt.), tutvustab materjaliteaduse õppekavas sisalduvaid erikursusi ja õppejõude. Kavas olevate ekskursioonide käigus tutvutakse materjaliuuringute laborite ja materjalitehnoloogilise profiiliga ettevõtetega. Kuulajad koostavad ja esitlevad referaadi kursusega seotud teemal. Registreerumise info Registreerumise algus 15.05.2026 Registreerumise lõpp 13.09.2026 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 13.09.2026 Registreerumise lõpp külalistele 13.09.2026 Registreeringu tühistamise lõpp 27.09.2026 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Ei Registreerunute arv 14 Osalejate piirarv 40 Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 3 EAP | 78 t Loengud 16 t Praktikumid 16 t Iseseisev töö 46 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Ei Õpikeskkond http://moodle.ut.ee Kohustuslikud õppematerjalid Kohustuslikud õppematerjalid on ÕIS-i õppematerjalides Soovituslikud õppematerjalid Aine loengute ja ekskursioonide ajakava leiate õppematerjalidest.",
+  "topics": [
+    {
+      "title": "Loengud",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ekskursioonid",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/MaterialScience2.md"
+  ],
+  "hasSyllabus": true
+}

@@ -1,0 +1,31 @@
+{
+  "code": "MTAT.03.256",
+  "name": {
+    "et": "Programmeerimise alused II",
+    "en": "Foundations of programming II"
+  },
+  "eap": 3,
+  "modules": [
+    "1.2"
+  ],
+  "status": {
+    "physics": "mandatory-all",
+    "chemistry": "mandatory-all",
+    "materials-science": "mandatory-all"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Üliõpilane süvendab algteadmisi programmide koostamisest, testimisest ja silumisest. Üliõpilane täiendab esmast programmeerimisoskust.",
+  "outcomes": [
+    "- oskab kasutada põhilisi programmeerimiskonstruktsioone: muutuja, avaldis, omistuslause, tingimuslause, tsükkel, alamprogramm, rekursioon, regulaaravaldis, andmevahetus kasutaja ja failidega;",
+    "- tunneb põhilisi andmetüüpe ja -struktuure (täis- ja ujukomarvud, tõeväärtused, sõned, järjendid) ning oskab kasutada vastavaid standardoperatsioone;",
+    "- oskab analüüsida ja üksikasjalikult selgitada programmi töö käiku ning programmi modifitseerida ja laiendada;",
+    "- oskab luua lihtsamale ülesandele vastava algoritmi, koostada ja korrektselt vormistada lahendusprogrammi ning seda siluda ja testida."
+  ],
+  "summary": "Programmi ja algoritmi mõiste. Algoritmi esitusviisid, plokkskeemid. Hargnev algoritm. Tsükkel. Alamalgoritm. Tekstina püstitatud ülesande algoritmi koostamine. Positsioonilised arvusüsteemid. Bitt, bait. Tüübid. Programmi struktuur. Nimed. Muutujad. Tehted. Avaldised. Teksti väljastamine. Loogilised avaldised, võrdlemised. Meetodid, kirjeldamine, väärtuse tagastamine, rakendamine. Tingimusdirektiiv. Tsüklidirektiiv. Üld-, eelkontrolliga ja järelkontrolliga tsüklid. Järjendid (arvumassiivid). Järjendi läbivaatamine. Järjendit tagastavad meetodid. Kahekordne tsükkel. Sõnetöötlus. Programmi sisend ja väljund. Andmevahetus failidega. Ekraanigraafika. Ülevaade erinevatest programmeerimiskeeltest. Tarkvara arendamise etapid.",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [
+    "AlusMoodulid/AlusMoodulid2.md"
+  ],
+  "hasSyllabus": true
+}

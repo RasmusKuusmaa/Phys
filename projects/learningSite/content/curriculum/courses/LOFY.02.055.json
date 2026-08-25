@@ -1,0 +1,31 @@
+{
+  "code": "LOFY.02.055",
+  "name": {
+    "et": "Materjalifüüsika praktikum I. Mehaanika ja soojus",
+    "en": "Materials physics practical I — mechanics and heat"
+  },
+  "eap": 3,
+  "modules": [
+    "2.6"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "not-in-track",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Eesmärgiks on tutvustada materjalide ja objektide mehhaaniliste ja soojuslike omaduste mõõtmise meetodeid ning anda laboritöö kogemusi nende omaduste määramisel.",
+  "outcomes": [
+    "Kursuse läbimise järel üliõpilane:",
+    "1) teab materjalide mehhaanilisi ja soojuslikke omadusi ja nende määramise standardseid meetodeid;",
+    "2) omab materjalide mehhaaniliste ja soojuslike omaduste praktilise määramise kogemust ja tunneb vastavaid teooriaid;",
+    "3) oskab katset protokollida, käsitletud teemade raames katseandmeid töödelda ja tulemusi esitada."
+  ],
+  "summary": "Praktikumis määratakse materjalide elastsusmoodulit, nihkemoodulit, Brinelli kõvadust, soojuspaisumistegurit, erisoojust ja soojusjuhtivust ning vedeliku viskoossust.",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/MaterialScience2.md"
+  ],
+  "hasSyllabus": true
+}

@@ -1,0 +1,164 @@
+{
+  "code": "LOKT.01.007",
+  "name": {
+    "et": "Anorgaaniline keemia",
+    "en": "Inorganic chemistry"
+  },
+  "eap": 6,
+  "modules": [
+    "2.3",
+    "2.5",
+    "3.8"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "mandatory",
+    "materials-science": "mandatory"
+  },
+  "prerequisiteCodes": [
+    "LOKT.01.058",
+    "LOKT.07.010"
+  ],
+  "aims": "Anda ülevaade anorgaanilise keemia teoreetilistest alustest ja ainete omadustest.",
+  "outcomes": [
+    "1.Kursuse läbinud üliõpilane tunneb ja eristab anorgaaniliste ainete põhiklasse, teab anorgaaniliste ainete nomenklatuuri.",
+    "2.Oskab rakendada aine ehituse põhiseisukohti anorgaaniliste ainete omaduste iseloomustamisel, seostada ainete omadusi keemilise sideme tüübi, aine struktuuri ja perioodilisussüsteemiga.",
+    "3.Orienteerub happe-aluse tasakaalude ja redoksprotsesside põhimõistete valdkonnas, oskab neid teadmisi kasutada anorgaaniliste ainetega kulgevate keemiliste reaktsioonide kirjeldamisel.",
+    "4.Teab ja oskab kirjutada anorgaaniliste aineklassidele iseloomulike tüüpreaktsioonide võrrandeid.",
+    "5.Tunneb anorgaaniliste ainete tähtsamaid praktilise rakenduse valdkondi, oskab rakendusvaldkondi seostada vastavate ainete omadustega."
+  ],
+  "summary": "Loengukursuses antakse ülevaade anorgaaniliste ainete omadustest. Suurt tähelepanu pööratakse ainete omaduste seostamisele keemilise sideme iseloomu ja ainete struktuuriga. Loengumaterjali selgitatakse ja kinnistatakse vastavate probleem- ja arvutusülesannete lahendamisega seminarides.",
+  "topics": [
+    {
+      "title": "Sissejuhatus. Aineklassidevahelised seosed.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tüüpreaktsioonid, aineklassidevahelised seosed.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Muundumisread ja eritüüpi arvutusülesanded (saagis, kadu, ülehulk , arvutused reaktsioonivõrrandi põhjal).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Perioodilisussüsteem, perioodilised ja aperioodilised seaduspärad ühendite võrdlemisel. Binaarsete ühendite ja soolade happelis-aluselised ja redoksomadused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Vesinik ja vesinikku sisaldavad ühendid. Elektrolüüs ja kütuseelement.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Elektrolüüsi ülesanded. pH arvutused hüdrolüüsuva soola lahuses. pH arvutused hapete ja aluste lahuses.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Hapnik ja tema ühendid. Hapnikhapped. Nende püsivus ning happelised ja redoksomadused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Halogeenid ja nende ühendid. Halogeenide redoksreaktsioonid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Redokspotentsiaaliga ülesanded. Redoksreaktsiooni toimumise hindamine sõltuvalt tingimustest. Arvutusülesanded halogeene sisaldavate ühenditega.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Lämmastiku alarühma üldiseloomustus. Lämmastik ja lämmastiku ühendid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Väävli (-II), (IV) ja (VI)-ühendite saamine ja omadused. Väävelhape.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Arvutusülesanded lämmastikku ja fosforit sisaldavate ühenditega.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Süsiniku alarühma üldiseloomustus. Süsiniku ja tema ühendite keemilised omadused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Räni ja teiste süsiniku alarühma elementide ja nende ühendite keemilised omadused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Arvutusülesanded väävlit ja süsinikku sisaldavate ühenditega.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Boor ja boorialarühm.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Metallide üldiseloomustus ja metallide korrosioon.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Arvutusülesanded räni ja boori sisaldavate ühenditega.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "d-elemendid.Üldiseloomustus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Arvutusülesanded metallidega",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "d-elementide erinevad alarühmad. Tähtsamad reaktsioonid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Arvutusülesanded d-metallide ja nende ühenditega.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kroom ja mangaan ning tema ühendid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Arvutusülesanded d-metallide ja nende ühenditega.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Koobalt, nikkel ja vask.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/MaterialScience1.md",
+    "SuunaMoodulid/chemistry1.md"
+  ],
+  "hasSyllabus": true
+}

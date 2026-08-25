@@ -1,0 +1,83 @@
+{
+  "code": "LTFY.01.005",
+  "name": {
+    "et": "Globaalfüüsika",
+    "en": "Global physics (LTFY)"
+  },
+  "eap": 3,
+  "modules": [
+    "3.2"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOFY.01.121",
+    "LOFY.01.002",
+    "LOFY.01.091"
+  ],
+  "aims": "Tutvustada suuremastaabilisi (laboratoorsetes tingimustes mitte uuritavaid) füüsikalisi süsteeme ning nende kvalitatiivset ja kvanti-tatiivset kirjeldamist. Aidata üliõpilastel füüsika bakalaureuseõppe käigus omandatavaid teadmisi mõtestada globaalses kontekstis",
+  "outcomes": [
+    "1. Tunneb olulisemaid geofüüsikalisi ja kosmilisi uurimisobjekte, nende paigutust, mõõtmeid ning struktuuri;",
+    "2. Teab suurusjärguliselt nende objektide peamiste füüsikaliste parameetrite (tihedus, rõhk, temperatuur) tüüpilisi väärtusi;",
+    "3. Oskab kirjeldada mehaanilisi, soojuslikke, elektromagnetilisi ja keemilisi protsesse, milles need objektid osalevad;",
+    "4. Tunneb füüsikalisi meetodeid, mille vahendusel me saame infot nimetet objektide ja protsesside kohta ning modelleerime neid, oskab anda hinnanguid meetodite usaldatavusele;",
+    "5. Oskab kirjeldada globaalfüüsikaliste uurimisobjektide ajalist evolutsiooni ja teab nende olulisemaid arengufaase;",
+    "6. Suudab lahendada globaalfüüsikalisi objekte käsitlevaid arvutusülesandeid aine näidisülesannetega määratletud tasemel."
+  ],
+  "summary": "Antakse ülevaade olulisematest geofüüsikalistest ja kosmilistest objektidest, nende uurimise füüsikalistest meetoditest, nende tekke ja arengu füüsikast. Detailsemalt käsitletakse Maa sisemuse, atmosfääri ja Maailmamere füüsikalisi omadusi ja keemilist koostist. Kosmilistest objektidest vaadeldakse lähemalt Päikest ja Päikesesüsteemi komponente, käsitletakse tähtede parameetreid ja arengufaase, meie Galaktika, teiste galaktikate ning Universumi struktuuri ja arengut. Tutvustatakse kosmoloogia aluseid, tuuakse välja globaalfüüsika seosed teiste füüsikakursustega.",
+  "topics": [
+    {
+      "title": "Sissejuhatus ainesse. Planeedi Maa üldkirjeldus. Globaalfüüsika koht füüsikahariduses. Aine õpiväljundid ja nende kontrollimine. Planeedi Maa vertikaalne kihistus. Rõhk, tihedus ja temperatuur kihtides. Puuraugud, seismiline sondeerimine ja laamtektoonika.",
+      "hours": null,
+      "keywords": "-----------------------------------------------------------------------------------------------------------------------------------------"
+    },
+    {
+      "title": "Päikese kiirgus Maal. Kasvuhooneefekt. Maa energiabilanss. Solaarkonstant, päikesekiirguse spekter, Päikese valguskonstant. Maa albeedo, kasvuhooneefekti modelleerimine.",
+      "hours": null,
+      "keywords": "- - -"
+    },
+    {
+      "title": "Atmosfääri üldkirjeldus. Meteoroloogilised elemendid, gaasi rõhu valemid, atmosfääri vertikaalne ulatus ja kihistus, atmosfääri mudelid, standardatmosfäärid.",
+      "hours": null,
+      "keywords": "- - -"
+    },
+    {
+      "title": "UV-kiirgus ja osoon atmosfääris. UV-kiirguse ja osooni vastastikmõju, Dobsoni ühik, osoon Eesti kohal. Biodoos, nahatüübid, tõeline päikeseaeg, ajavõrrand, biodoosi kogunemise kiirus, UV-indeks.",
+      "hours": null,
+      "keywords": "- - -"
+    },
+    {
+      "title": "Kuiv ja niiske õhk. Vesi kui erandlik aine. Vee mikrostruktuur, soolsus ja osmoos. Ideaalse gaasi ja kuiva õhu olekuvõrrand, veeauru olekuvõrrand, virtuaalne temperatuur. Õhuniiskuse karakteristikud.",
+      "hours": null,
+      "keywords": "- - -"
+    },
+    {
+      "title": "Temperatuuri vähenemine kõrgusega. Temperatuur homogeenses atmosfääris. Kuiv- ja märgadiabaatiline gradient. Mäestikutuuled.",
+      "hours": null,
+      "keywords": "- - -"
+    },
+    {
+      "title": "Maa tiirlemine ja pöörlemine. Maa orbiit, aastaajad, kalender, kliimavööndid. Troopiline aasta ja täheaasta. Lõuna- ja põhjapoolkera erinev kiirgusrežiim. Päikese- ja täheööpäev.",
+      "hours": null,
+      "keywords": "- - -"
+    },
+    {
+      "title": "Maa mitteinertsiaalse taustsüsteemina. Coriolise kiirendus. Püsivad planetaarsed tuulesüsteemid ja hoovused. Tsüklonite, antitsüklonite ja Ekmani liikumise kujunemine. Jugavoolud.",
+      "hours": null,
+      "keywords": "- - -"
+    },
+    {
+      "title": "Maailmamere soolsus ja temperatuur. Maailmamere soolsusliku koostise püsivuse reegel. Soolsuse profiil, seos sademete ja aurumisega. Temperatuuriprofiili sesoonsus. Läänemere soolsus ja temperatuur.",
+      "hours": null,
+      "keywords": "--------------------------------------------------------------------------------------------------------------------------------- 10. Astrofüüsika uurimismeetodid. Lähimad kosmilised objektid. Näiv taevas ja taevakoordinaadid. Süsteem Maa-Kuu-Päike. Varjutused. Planeetide näiv ja tegelik liikumine. Kepleri seadused. Spektroskoopilised meetodid."
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/physics2.md"
+  ],
+  "hasSyllabus": true
+}

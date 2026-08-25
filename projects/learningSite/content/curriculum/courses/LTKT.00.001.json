@@ -1,0 +1,89 @@
+{
+  "code": "LTKT.00.001",
+  "name": {
+    "et": "Loodusteadusliku meetodi seminar",
+    "en": "Seminar on the scientific method (chemistry)"
+  },
+  "eap": 3,
+  "modules": [
+    "3.4"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Kursuse esimese osa eesmärgiks on anda üliõpilastele ülevaade loodusteadusliku meetodi olemusest, teadlase karjäärist akadeemias ja tööstuses, teaduslike publikatsioonide kvaliteedinäitajatest ja teaduse heast tavast üldiselt ning arendada üliõpilaste kriitilise mõtlemise ja lugemise oskused. Valmib analüüs varasematel aastatel TÜ KI kaitstud bakalaureusetööst või ETIS 1.1-tüüpi teadusartiklist, mille alusel tehakse suuline ettekanne. Kursuse teise osa eesmärgiks on anda üliõpilastele ülevaade teadusteksti kirjutamise baasoskustest, eksperimentaalse töö planeerimisest ning tutvustada erialaste andmebaaside kasutamist teadusinformatsiooni otsimiseks. Kursuse teises pooles osalevad üliõpilased erinevate teadusgruppide juures ühe teadusprobleemi lahendamisel ning esitavad töö tulemuste põhjal kirjaliku aruande, mille kaitsmine toimub suulise ettekandena. Kursus valmistab üliõpilasi ette bakalaureusetöö tegemiseks.",
+  "outcomes": [
+    "Aine 1. OSA",
+    "1. Üliõpilane oskab eristada kvaliteetse teaduse, teadusliku väärkäitumise ja pseudoteaduse tunnuseid (kontrollivorm: kodutöö).",
+    "2. Üliõpilane oskab sõnastada arvamust fundamentaal- ja rakendusteaduse olulisusest (koos relevantsete näidetega mõlema teema kohta) ning omab ettekujutust teadlase karjääri eri staadiumitest ja teaduskollektiivide toimimisest (kontrollivorm: kodutöö).",
+    "3. Üliõpilane on tutvunud teadusliku avastusprotsessi loogikaga (ajalooliste näidete varal) ning on teadlik teadustöödele esitatavatest kaasaegsetest nõuetest, sh ohutusnõuetest (kontrollivorm: kodutööd).",
+    "4. Üliõpilane on teadlik kaasaegsetest mehhanismidest, mis tagavad teadustööde kvaliteeti, ning nende võimalikest piirangutest (kontrollivorm: kodutöö).",
+    "5. Üliõpilane oskab lugeda, analüüsida, tutvustada, diskuteerida ja tagasisidestada teise autori poolt teostatud teadustööd viisil, mis vastab loodusteadusliku meetodi heale tavale (kontrollivorm: kodutöö, ettekanne, osalemine akadeemilises diskussioonis).",
+    "Aine 2. OSA",
+    "1. Üliõpilane tunneb peamisi keemiaalase teaduskirjanduse ning patendiinformatsiooni sisaldavaid andmebaase ning oskab neid kasutada vajaliku teadusliku info kogumiseks (kontrollivorm: kodutööd).",
+    "2. Üliõpilane oskab planeerida ning teostada eksperimentaalset tööd püstitatud hüpoteesi kontrollimiseks (kontrollivorm: osavõtt eksperimentaalprojektist valitud laboris mentori juhendamisel).",
+    "3. Üliõpilane oskab tehtud töö tulemusi analüüsida ning neid korrektselt esitada nii kirjalikus kui ka suulises vormis (kontrollivorm: kodutöö ja kirjalik aruanne).",
+    "4. Üliõpilane oskab tutvustada ja diskuteerida enda poolt teostatud teadustööd viisil, mis vastab loodusteadusliku meetodi heale tavale, ning tagasisidestada teiste esinejate töid (kontrollivorm: ettekanne, osalemine akadeemilises diskussioonis)."
+  ],
+  "summary": "Üliõpilased omandavad näidete varal loodusteadusliku meetodi, andmete analüüsi ja esitamise põhitõdesid, õpivad eristama teadust pseudoteadusest ning tutvuvad teaduse kvaliteeti tagavate mehhanismide ja teadusinfo-alaste andmebaasidega. Teaduse hea tava nõuete kontekstis analüüsitakse varasematel aastatel kaitstud bakalaureusetöid või teadusartikleid. Seejärel teostatakse lühiprojekt TÜ Keemia instituudi laboris, mille käigus omandatakse praktiline kogemus hüpoteesidele vastavate katsete planeerimiseks, läbiviimiseks, analüüsimiseks ja tutvustamiseks erialasele publikule. Õppeaine arendab muuhulgas järgnevaid ülekantavaid oskusi: a) ajaplaneerimine (tähtajaliste iseseistvate tööde õigeaegse esitamise kaudu), b) rühmatöös osalemise kogemus (kodutööd rühmatöö vormis ning suhtlemine mentoriga, sisse elamine funktsioneeriva teadusrühma töörütmi praktilise töö käigus), c) tagasiside andmine (anonüümne retsensioon teiste üliõpilaste ettekannetele), d) esinemise kogemus (2 suulist ettekannet).",
+  "topics": [
+    {
+      "title": "Sissejuhatus. Aine läbimise nõuded.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Andmebaasid. Kodutöö andmebaasi SciFinder kohta.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Andmebaasid. Kodutöö patentide andmebaaside (Google Patents, Espacenet) kohta.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kirjaliku aruande koostamise põhimõtted. Viitamine, viidetehaldurid. Kodutöö MS Word ja Zotero kohta (algab).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Teaduseetika. Plagiaat. Jooniste koostamine ja Creative Commons litsents. Kodutöö MS Word ja Zotero kohta (lõpeb).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Laboriprojektide analüüs.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Laboriprojektide analüüs.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Laboriprojektide analüüs.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Laboriprojektide analüüs.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Laboriprojektide analüüs ja/või järelvastamised eelneval kokkuleppel õppejõuga.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/chemistry2.md"
+  ],
+  "hasSyllabus": true
+}

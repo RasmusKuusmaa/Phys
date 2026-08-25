@@ -1,0 +1,24 @@
+{
+  "code": "LTFY.04.002",
+  "name": {
+    "et": "Matemaatiline füüsika",
+    "en": "Mathematical physics (LTFY.04.002)"
+  },
+  "eap": 8,
+  "modules": [
+    "3.10"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

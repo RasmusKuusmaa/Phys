@@ -1,0 +1,107 @@
+{
+  "code": "LOFY.01.015",
+  "name": {
+    "et": "Tuumafüüsika eksperimentaalmeetodid",
+    "en": "Experimental methods of nuclear physics"
+  },
+  "eap": 3,
+  "modules": [
+    "3.10",
+    "3.2"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Kursuse eesmärgiks on õpetada tuumafüüsika põhialuseid, õppida tundma olulisemaid ioniseeriva kiirguse detekteerimismeetodeid ja detektori tüüpe, õppida tundma ioniseeriva kiirguse ja aine vastastikmõju protsesse, õpetada üliõpilast kasutama tuumafüüsikas kasutatavat eksperimenditehnikat eri tüüpi ioniseeriva kiirguse registreerimiseks.",
+  "outcomes": [
+    "Kursuse positiivsele hindele läbinud üliõpilane:",
+    "* Tunneb tuumafüüsika põhialuseid",
+    "* Tunneb olulisemaid ioniseeriva kiirguse tekitajaid ja nende omadusi",
+    "* Tunneb peamisi ioniseeriva kiirguse detektoritüüpe ning olulisemaid kiirguse ja detektori aine vastastikmõju protsesse",
+    "* Oskab rakendada eri tüüpi detektoreid ioniseeriva kiirguse mõõtmisteks",
+    "* Oskab kasutada tuumafüüsika eksperimenditehnikat",
+    "* Oskab analüüsida saadud mõõtetulemusi",
+    "* Suudab selgitada tehtud mõõtmiste ja saadud tulemuste põhiolemust"
+  ],
+  "summary": "Praktikumidele eelnevates loengutes tutvutakse tuumafüüsika põhialustega s.o. tuumade perioodilisuse süsteemi, tuumamudelite, tuumalagunemiste, tuumareaktsioonide ning ioniseeriva kiirguse ja aine interaktsiooniprotsessidega. Õpitakse tundma kiirgusühikuid. Praktikumides omandatakse praktilisi kogemusi ioniseeriva kiirguse mõõtevahendite kasutamiseks, kinnistatakse ja süvendatakse teoreetilisi teadmisi ioniseeriva kiirguse omaduste kohta. Eri tüüpi ioniseeriva kiirguse (alfa-, beeta- ja gammakiirguse) registreerimiseks kasutatakse Geiger-Mülleri toru, stsintsillatisoon- ja pooljuhtdetektoreid. Uuritakse eri tüüpi kiirguse ionisatsiooni- ja läbitungimisvõimet, termoluminestsentsi nähtust, Poissoni jaotust ning kiirguse ja aine vastastikmõju protsesse.",
+  "topics": [
+    {
+      "title": "Ioniseeriva kiirguse liigid ja radioaktiivne lagunemine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Radioaktiivne lagunemise viisid,",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ioniseeriva kiirguse vastastikmõju ainega",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ioniseeriva kiirguse vastastikmõju ainega,",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ioniseeriva kiirguse detekteerimise viisid,",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kiirgusdoos ja dosimeetria,",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Alfaspektromeetria",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ioniseeriva kiirguse mudeldamine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Vedelikstsintillatsioonmeetod (LSC)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Geigeri loendur ja saastunud ala seire",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Mudeldamine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Dosimeetrite kalibreerimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Alfaspektromeetria",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Gammaspektromeetria",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/physics2.md"
+  ],
+  "hasSyllabus": true
+}

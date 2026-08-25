@@ -1,0 +1,41 @@
+{
+  "code": "LTKT.06.002",
+  "name": {
+    "et": "Keemiliste andmete analüüs",
+    "en": "Analysis of chemical data"
+  },
+  "eap": 3,
+  "modules": [
+    "2.4",
+    "2.6"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Kinnistada loengus õpitut ülesannete lahendamise ja rakendusnäidete üle arutlemise teel.",
+  "outcomes": [
+    "Aine läbinud tudeng on võimeline:",
+    "(1) valima analüüsiks sobivaid töövahendeid;",
+    "(2) valima ja valmistama analüüsiks sobivaid lahuseid;",
+    "(3) teostama lihtsamat andmetöötlust keemilisel analüüsil saadavatele andmetele;",
+    "(4) arvutama analüüsi tulemust etteantud andmete põhjal;",
+    "(5) hindama konkreetse analüüsimetoodika sobivust etteantud analüüsiülesande lahendamiseks."
+  ],
+  "summary": "Arvutused ja andmetöötlus analüütilises keemias. Ettevalmistus praktikumitööde tulemuste arvutamiseks.",
+  "topics": [
+    {
+      "title": "2. Sissejuhatus. Lihtsad arvutused (lahused, lahjendused).",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/MaterialScience2.md",
+    "SuunaMoodulid/chemistry2.md"
+  ],
+  "hasSyllabus": true
+}

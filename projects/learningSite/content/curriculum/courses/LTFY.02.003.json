@@ -1,0 +1,48 @@
+{
+  "code": "LTFY.02.003",
+  "name": {
+    "et": "Materjaliteaduse ülevaatekursus",
+    "en": "Survey course in materials science"
+  },
+  "eap": 6,
+  "modules": [
+    "1.1",
+    "2.9"
+  ],
+  "status": {
+    "physics": "mandatory-all",
+    "chemistry": "mandatory-all",
+    "materials-science": "mandatory-all"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Materjaliteaduse mõiste avamine ning materjaliteaduse rolli rõhutamine seoses vajadusega tagada ühiskonna tehnoloogiline võimekus. Esmase ülevaate andmine peamistest rakenduslikult tähtsatest materjalidest, nende omadustest ja omaduste süvapõhjustest.",
+  "outcomes": [
+    "1. suudab koostada kirjaliku ülevaate materjaliteaduse objektist, meetoditest, saavutustest, probleemidest ja arengusuundadest;",
+    "2. tunneb kursuse mahu piires materjalide struktuurseid, mehaanilisi, soojuslikke, elektrilisi, magnetilisi ja optilisi omadusi;",
+    "3. oskab määratleda järgnevate materjalide erisusi ja rakendusi: metallid, sulamid, keraamikad, klaasid, plastid, komposiidid, dielektrikud, pooljuhid, ülijuhid, ioonjuhid, magnetmaterjalid, luminofoorid, optilised metamaterjalid, kiirguskaitsematerjalid, dosimeetrilised materjalid, katalüsaatorid, biomaterjalid, tajur- ja täiturmaterjalid, vedelkristallid, kujumäluga materjalid, nanomaterjalid;",
+    "4. suudab aines käsitletud näidisülesannete tasemel lahendada materjaliteaduse-alaseid probleeme."
+  ],
+  "summary": "Kursus annab ülevaate materjaliteaduse olemusest ja vajalikkusest kaasaegsele tehnoloogilisele ühiskonnale, aga ka erinevatest materjalidest ja nende rollist kõrgtehnoloogia funktsioneerimisel. Käsitletakse materjalide struktuurseid, mehaanilisi, soojuslikke, elektrilisi, magnetilisi ja optilisi omadusi, aga ka järgnevate materjalide erisusi ja rakendusi: metallid, sulamid, keraamikad, klaasid, plastid, komposiidid, dielektrikud, pooljuhid, ülijuhid, ioonjuhid, magnetmaterjalid, luminofoorid, optilised metamaterjalid, kiirguskaitsematerjalid, dosimeetrilised materjalid, katalüsaatorid, biomaterjalid, tajur- ja täiturmaterjalid, vedelkristallid, kujumäluga materjalid ja nanomaterjalid. Antakse ka ülevaade olulisematest materjalitehnoloogiatest ning materjalide rollist tootearenduses. Ajakava Õppe toimumisnädalad 5-16.n. 4L, 2S n-s, 3 knt -> E Kuupäev\tNädal\tLiik\tAlapealkiri ja kirjeldus 30.09.2025\t\tloeng Sissejuhatus Materjalid ja ühiskond. Materjalide ajaloost. Materjalide liigitus. Materjalid ja tehnoloogiline võimekus. Milleks on vaja materjaliteadust? Marco Kirm 01.10.2025\t\tloeng Aatomi ehitus. Aatomite vaheline side Marco Kirm 02.10.2025\t\tseminar Sissejuhatav seminar - tutvumine kõigi osavõtjatega, töökorraldus hindamine. Marco Kirm ja Vambola Kisand 07.10.2025\t\tloeng Ainete struktuur. Kristallograafia põhimõisted - sümmeetriad, kristallvõre, suunad ja tasandid. Kristallstruktuurid. Ideaalsed kristallid. Marco Kirm 08.10.2025\t\tloeng Defektid kristallides. Võõrlisandid. Struktuursed defektid. Punktdefektid: vakantsid ja interstitsiaalid. Tahked lahused. Joondefektid: dislokatsioonid. Pinnad ja pinnadefektid. Polükristalsed materjalid. Marco Kirm 09.10.2025\t\tseminar Aine ehitus (I), kristallvõre, suunad ja tasandid. Vambola Kisand and Marco Kirm 14.10.2025\t\tloeng Faasid. Faasisiirded. Faasidiagrammid. Nukleatsioon. Marco Kirm 15.10.2025\t\tloeng Marco Kirm Protsessid tahkistes. Soojuslikult indutseeritud protsessid. Difusioon, punktdefektid ja nende roll difusioonis, tasakaaluline (statsionaarne) ja mittestatsionaarne difusioon, Fick'i seadused, difusiooni koefitsiendi temperatuurne sõltuvus, kristallide kasv Marco Kirm 16.10.2025\t\tseminar S3 Faasid ja faasidiagrammid M. Kirm ja V. Kisand 21.10.2025\t\tloeng Materjalide mehaanilised omadused 1. Mehhaaniline pinge. Hooke'i seadus. Poissoni tegur. Tõmbekatse. Tõmbediagramm kui pinge ja suhtelise pikenemise graafik. Elastsuspiirkond ja voolavuspiirkond. Tõmbekatsest määratavad tugevus- ja plastsusnäitajad. Elastsus, plastsus, haprus ja sitkus. Lubatud pinged. Survekatse. Vambola Kisand 22.10.2025\t\tkontrolltöö 1. kontrolltöö V. Kisand 23.10.2025\t\tloeng Materjalide mehaanilised omadused 2. Tõmbekatse. Survekatse. Metallide, keraamika ja klaaside, polümeeride tugevus. Normaal- ja tangentsiaalpinged. Nihkedeformatsioon ja nihkepinge. Pinge kui tensor. Hooke'i seadus tensorkujul. Lubatud pinged. Kõvadus. Erinevad kõvaduse skaalad. Dünaamilised mehhaanilised omadused. Tsükliline koormamine. Vambola Kisand 28.10.2025\t\tloeng Materjalide elektrilised ja magnetomadused. Elektrotehnilised ning elektroonikamaterjalid 1. Eritakistus, juhtivus, juhid, isolaatorid, pooljuhid Marco Kirm 29.10.2025\t\tloeng Materjalide elektrilised ja magnetomadused. Elektrotehnilised ning elektroonikamaterjalid 2. Aine magnetiline läbitavus, dia-ja paramagneetikud, ferromagneetikud, domeenid ja hüsterees. Kalgid ja pehmed magnetid. Magnetiline infosalvestus. Marco Kirm 30.10.2025\t\tseminar Materjalide mehaanilised omadused 1. kontrolltöö tulemused ja arutelu. 04.11.2025\t\tloeng Optilised omadused ja optilised materjalid 1. Valguse murdumine, peegeldumine, hajumine, neeldumine Marco Kirm 05.11.2025\t\tloeng Materjalide optilised omadused ja rakendused 2. Polarisatsioon, mittelineaarsed optilised materjalid, luminestsentsi alaliigid, LED/OLED valgusallikad, koherentsus, laser, laserite kasutamine, fotojuhtivus, päikesepaneelid, luminestsentsspektroskoopia rakendamine fosfooride arendus. Marco Kirm 06.11.2025\t\tseminar Materjalide elektrilised ja magnetomadused. Marco Kirm ja Vambola Kisand Vambola Kisand ja Marco Kirm 11.11.2025\t\tseminar Optilised omadused ja optilised materjalid. Marco Kirm ja Vambola Kisand 12.11.2025\t\tloeng Materjalide kiiritusomadused. Radiatsioon. Ioniseeriva kiirguse mõju elusorganismidele, Kiirguse mõju materjalidele. Kiirguskindlad materjalid ja radiatsiooni kahjuliku mõju vältimine. Dosimeetrilised materjalid. Rakendused. Marco Kirm 13.11.2025\t\tloeng Materjalide omadused ja temperatuur. Soojuslikud omadused Materjalide omaduste temperatuurisõltuvus. Soojuspaisumine. Soojusmahtuvus. Soojusjuhtivus. Marco Kirm 18.11.2025\t\tkontrolltöö 2. kontrolltöö Marco Kirm ja Vambola Kisand 19.11.2025\t\tloeng Materjaliklassid - Polümeerid ja plastid. Marco Kirm 20.11.2025\t\tseminar Materjalide omadused ja temperatuur. Soojuslikud omadused Materjalide omaduste temperatuurisõltuvus. Soojuspaisumine. Soojusmahtuvus. Soojusjuhtivus. Marco Kirm ja Vambola Kisand 25.11.2025\t\tloeng Metamaterjalid ja footonkristallid. Nende omadused, valmistamine ja rakendused. Footonkristallid looduses. Marco Kirm 26.11.2025\t\tloeng Materjaliklassid - Metallid, keraamilised materjalid ja klaasid – liigitus ja omadused. Vambola Kisand 27.11.2025\t\tseminar Polümeerid. keraamika ja metallid. 2. kontrolltöö tulemused ja arutelu. Marco Kirm ja Vambola Kisand 02.12.2024\t\tloeng Arvutite kasutamine materjalide uurimisel (ajalugu). Materjalide modelleerimine aatomite tasandil. Mõõtmiste interpreteerimine arvutusliku sisendi alusel. Materjali omaduste modelleerimise näiteid: kristallstruktuuri stabiilsus, defektide difusioon ning stabiilsus, elastsus omaduste hindamine, magnetilised omadused ning kiirguskahjustus. Artur Tamm e-õpe Materjalitehnoloogiad I. Lähteained. Materjalide puhtus ja puhastamine. Termiline töötlus. Valutehnoloogiad ja survetöötlus, pinnatöötlus. Sool-geel tehnoloogiad. Kristallikasvatus 03.12.2025\t\tloeng Komposiitmaterjalid, nende klassifikatsioon ja omadused. Fiibrilise armeeringuga komposiitide omadused. Vambola Kisand 04.12.2025\t\tseminar Komposiidid, metamaterjalid ja footonkristallid. Marco Kirm ja Vambola Kisand 09.12.2025\t\tloeng Nanomaterjalid. Marco Kirm 10.12.2025\t\tloeng Materjalide uurimismeetodid I. Optiline mikroskoopia, elektronmikroskoopia, teravikmikroskoopia, röntgendifraktsioon, röntgenfluorestsents, lennuaja mass-spektromeetria. Marco Kirm 11.12.2025\t\tloeng Sünkrotron- ja neutronkiirgus materjalide uurimises - materjalide uurimismeetodid II. Marco Kirm 16.12.2025\t\tloeng Materjalide arendus ja rakendused. Tootearendus. Tootearendus. Materjalide valik ja Ashby kaardid. Toodete disain ja ohutus. Materjal toote \"elutsüklis\". Hinnad ja ökonoomika. Materjalid ja keskkond. Biomaterjalid. Materjalide arendamise võimalused. Vambola Kisand 17.12.2025\t\tseminar Konsultatsioon MÜK kursuse kohta. Marco Kirm ja Vambola Kisand 18.12.2025\t\tkontrolltöö 3. kontrolltöö seminar 3. kontrolltöö tulemused ja arutelu. Marco Kirm ja Vambola Kisand. Toimub jaanuaris 2026 .",
+  "topics": [
+    {
+      "title": "kontrolltöö",
+      "hours": null,
+      "keywords": "V. Kisand Materjalide mehaanilised omadused 2. Tõmbekatse. Survekatse. Metallide, keraamika ja klaaside, polümeeride tugevus. Normaal- ja tangentsiaalpinged. Nihkedeformatsioon ja nihkepinge. Pinge kui tensor. Hooke'i seadus tensorkujul. Lubatud pinged. Kõvadus. Erinevad kõvaduse skaalad. Dünaamilised mehhaanilised omadused. Tsükliline koormamine."
+    },
+    {
+      "title": "kontrolltöö Marco Kirm ja Vambola Kisand",
+      "hours": null,
+      "keywords": "Materjaliklassid - Polümeerid ja plastid. Marco Kirm Materjalide omadused ja temperatuur. Soojuslikud omadused"
+    },
+    {
+      "title": "kontrolltöö",
+      "hours": null,
+      "keywords": "3. kontrolltöö tulemused ja arutelu. Marco Kirm ja Vambola Kisand. Toimub jaanuaris 2026 ."
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "AlusMoodulid/AlusMoodulid1.md"
+  ],
+  "hasSyllabus": true
+}

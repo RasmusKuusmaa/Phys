@@ -1,0 +1,34 @@
+{
+  "code": "LTKT.06.019",
+  "name": {
+    "et": "Analüütilise keemia põhikursus",
+    "en": "Core course in analytical chemistry"
+  },
+  "eap": 3,
+  "modules": [
+    "2.3",
+    "2.6"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "mandatory",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Eesmärk on, et aine läbinud tudeng suudaks: (1) selgitada algtasemel keemilise analüüsi põhimõisteid (analüüt, proov, proovi eeltöötlus, analüüsimetoodika jne). (2) selgitada algtasemel keemilise analüüsi üldpõhimõtteid: keemilise analüüsi käik ja etapid, analüüsimetoodika, selle omadused, analüüsitulemus, selle usaldusväärsus jne. (3) selgitada algtasemel levinumate keemilise analüüsi ja proovide ettevalmistusmeetodite (gravimeetria, tiitrimeetria, potentsiomeetria, kromatograafia, massispektromeetria, spektroskoopilised meetodid, ekstraheerimine, mineraliseerimine jne) ja nende aluseks olevate protsesside (tasakaalu-, jaotumis-, adsorptsiooni- ning elektrokeemilised protsessid, molekulide ioniseerumine, üleminekus aatomite ja molekulide energianivoode vahel jne) toimimist. (4) võrrelda algtasemel levinumate keemilise analüüsi ja proovide ettevalmistusmeetodite meetodite sobivust erinevate analüüsiülesannete lahendamisel.",
+  "outcomes": [
+    "Aine läbinud tudeng suudab:",
+    "(1) selgitada algtasemel keemilise analüüsi põhimõisteid (analüüt, proov, proovi eeltöötlus, analüüsimetoodika jne).",
+    "(2) selgitada algtasemel keemilise analüüsi üldpõhimõtteid: keemilise analüüsi käik ja etapid, analüüsimetoodika, selle omadused, analüüsitulemus, selle usaldusväärsus jne.",
+    "(3) selgitada algtasemel levinumate keemilise analüüsi ja proovide ettevalmistusmeetodite (gravimeetria, tiitrimeetria, potentsiomeetria, kromatograafia, massispektromeetria, spektroskoopilised meetodid, ekstraheerimine, mineraliseerimine jne) ja nende aluseks olevate protsesside (tasakaalu-, jaotumis-, adsorptsiooni- ning elektrokeemilised protsessid, molekulide ioniseerumine, üleminekus aatomite ja molekulide energianivoode vahel jne) toimimist.",
+    "(4) võrrelda algtasemel levinumate keemilise analüüsi ja proovide ettevalmistusmeetodite meetodite sobivust erinevate analüüsiülesannete lahendamisel."
+  ],
+  "summary": "Algteadmised analüütilisest keemiast: proovi võtmine ja eeltöötlus, gravimeetria, titrimeetria, potentsiomeetria, kromatograafia, aatom- ja molekulspektroskoopia, andmetöötlus analüütilises keemias.",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/MaterialScience2.md",
+    "SuunaMoodulid/chemistry1.md"
+  ],
+  "hasSyllabus": true
+}

@@ -1,0 +1,25 @@
+{
+  "code": "LTFY.05.008",
+  "name": {
+    "et": "Kliimateaduse ja -poliitika teejuht",
+    "en": "A guide to climate science and policy"
+  },
+  "eap": 3,
+  "modules": [
+    "4.2",
+    "4.3"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

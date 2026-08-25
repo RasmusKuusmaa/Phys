@@ -1,0 +1,25 @@
+{
+  "code": "LOKT.02.020",
+  "name": {
+    "et": "Valitud peatükke elektrokeemiast",
+    "en": "Selected chapters in electrochemistry"
+  },
+  "eap": 6,
+  "modules": [
+    "4.2",
+    "4.3"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

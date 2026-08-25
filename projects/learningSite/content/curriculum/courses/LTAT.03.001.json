@@ -1,0 +1,32 @@
+{
+  "code": "LTAT.03.001",
+  "name": {
+    "et": "Programmeerimine",
+    "en": "Programming"
+  },
+  "eap": 6,
+  "modules": [
+    "1.2"
+  ],
+  "status": {
+    "physics": "mandatory-all",
+    "chemistry": "mandatory-all",
+    "materials-science": "mandatory-all"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Kursuse eesmärgiks on anda alusteadmised programmeerimise põhikonstruktsioonidest ning esmased oskused algoritmide ja programmide koostamiseks.",
+  "outcomes": [
+    "- tunneb ja oskab kasutada põhilisi programmeerimiskonstruktsioone: muutuja, avaldis, omistuslause, tingimuslause, tsükkel, alamprogramm, rekursioon, andmevahetus kasutaja ja failidega;",
+    "- tunneb põhilisi andmetüüpe ja -struktuure (täis- ja ujukomarvud, tõeväärtused, sõned, järjendid jne) ning oskab kasutada vastavaid standardoperatsioone;",
+    "- oskab analüüsida ja üksikasjalikult selgitada programmi töö käiku ning programmi muuta, täiendada ja edasi arendada;",
+    "- oskab luua lihtsamale ülesandele vastava algoritmi, koostada ja korrektselt vormistada lahendusprogrammi ning seda siluda ja testida;",
+    "- oskab realiseerida ja esitada programmeerimisalaseid projekte rühmakaaslastega koostöös."
+  ],
+  "summary": "Programmi ja algoritmi mõiste. Algoritmi esitusviisid, plokkskeemid. Hargnev algoritm. Tsükkel. Alamalgoritm. Tekstina püstitatud ülesande algoritmi koostamine. Tüübid. Programmi struktuur. Nimed. Muutujad. Tehted. Avaldised. Teksti väljastamine. Loogilised avaldised, võrdlemised. Funktsioonid, kirjeldamine, väärtuse tagastamine, rakendamine. Tingimusdirektiiv. Tsüklidirektiiv. Üld-, eelkontrolliga ja järelkontrolliga tsüklid. Järjendid. Järjendi läbivaatamine. Järjendit tagastavad meetodid. Kahekordne tsükkel. Sõnetöötlus. Sõnastikud. Ennikud. Hulgad. Programmi sisend ja väljund. Andmevahetus failidega. Rekursioon. Objektorienteeritud programmeerimine.",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [
+    "AlusMoodulid/AlusMoodulid2.md"
+  ],
+  "hasSyllabus": true
+}

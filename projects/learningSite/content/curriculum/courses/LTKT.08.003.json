@@ -1,0 +1,24 @@
+{
+  "code": "LTKT.08.003",
+  "name": {
+    "et": "Arvutuskeemia",
+    "en": "Computational chemistry"
+  },
+  "eap": 3,
+  "modules": [
+    "4.2"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

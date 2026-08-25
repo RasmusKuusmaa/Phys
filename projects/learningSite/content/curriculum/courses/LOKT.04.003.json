@@ -1,0 +1,87 @@
+{
+  "code": "LOKT.04.003",
+  "name": {
+    "et": "Kolloid- ja pindnähtuste keemia I",
+    "en": "Colloid and surface chemistry I"
+  },
+  "eap": 3,
+  "modules": [
+    "3.10",
+    "3.4"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Kursuse eesmärk on anda süsteemsed teadmised kolloidkeemia ja pindnähtuste füüsikalis-keemilistest alustest, selgitada pihussüsteemide tekkimist, stabiilsust ja omadusi ning tutvustada nende uurimismeetodeid ja rakendusi looduses ning tehnoloogias.",
+  "outcomes": [
+    "1. Defineerib ja kasutab korrektselt kolloid- ja pindnähtuste keemia põhimõisteid.",
+    "2. Tunneb ära ja oskab klassifitseerida igapäevaelus esinevaid kolloidsüsteeme.",
+    "3. Kirjeldab peamisi meetodeid kolloidsüsteemide valmistamiseks ja puhastamiseks.",
+    "4. Selgitab pindnähtusi, lähtudes molekulidevahelistest vastastoimetest.",
+    "5. Seostab assotsiatiivsete kolloidide ehitust ja omadusi nende koostisega, kirjeldab neid mõjutavaid tegureid.",
+    "6. Hindab erinevate elektrolüütide mõju pindade ja kolloidosakeste laengule ning mõistab elektrokineetiliste nähtuste olemust.",
+    "7. Seostab kolloidsüsteemide stabiilsust kolloidosakeste omaduste ja lahuses olevate lisandite mõjuga.",
+    "8. Mõistab peamiste kolloidkeemias kasutatavate uurimismeetodite põhiprintsiipe ja oskab valida sobivat uurimismeetodit."
+  ],
+  "summary": "Kolloidkeemia käsitleb heterogeenseid süsteeme, kus esineb suur faasidevaheline piirpind. Kolloidsüsteeme leidub kõikjal looduses ja neid rakendatakse laialdaselt tööstuses. Kursuse käigus kirjeldatakse ja selgitatakse piirpindadel toimuvaid protsesse ja pihussüsteemide omadusi nagu pindpinevus, adhesioon, adsorptsioon, assotsieerumine, difusioon, elektroforees ja kolloidsüsteemide stabiilsus. Tutvustatakse peamisi meetodeid kolloidsüsteemide valmistamiseks ja uurimiseks. Registreerumise info Registreerumise algus 15.05.2026 Registreerumise lõpp 30.08.2026 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 14.09.2026 Registreerumise lõpp külalistele 14.09.2026 Registreeringu tühistamise lõpp 16.09.2026 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Ei Registreerunute arv 30 Osalejate piirarv - Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 3 EAP | 78 t Loengud 32 t Iseseisev töö 46 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Ei Õpikeskkond https://moodle.ut.ee",
+  "topics": [
+    {
+      "title": "Kolloidkeemia aine, kõrgdispersse (kolloid) süsteemi mõiste, disperssete süsteemide klassifikatsioon. Faasidevaheline piirpind. Kolloidsüsteemide valmistamine ja puhastamine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Pindpinevus ja selle määramine. Pindnähtuste termodünaamika. Adhesioon ja kohesioon. Märgumine ja kapillaarnähtused. Laplace'i võrrand. Kelvini võrrand. Reaktsioonivõime sõltuvus dispersiooniastmest. Dispersiooniastme mõju faasilise ülemineku temperatuurile.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Sorptsiooni üldiseloomustus. Pindaktiivsed ained (PAA) ja pindaktiivsus. Gibbsi adsorptsioonivõrrand. Füüsikaline adsorptsioon ja kemosorptsioon. Adsorptsiooniisotermid. Henry ja Langmuiri isotermid. Freundlichi adsorptsioonivõrrand. Brunauer-Emmett-Telleri (BET) isoterm.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Pindrõhk, pindkihi olekuvõrrand, adsorptsioon lahustest, elektrolüütide adsorptsioon. Vahetusadsorptsioon (ioonvahetus), muld kui vahetusadsorbent. Flotatsioon.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Mitsellide moodustumine PAA lahustes. Vesiikulid, lipiidsed kaksikkihid. Solubilisatsioon. Seebid ja pesemisvahendid, nende toimemehhanism.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Disperssete süsteemide elektrilised omadused, elektrilise kaksikkihi teke ja ehitus, elektrokineetiline potentsiaal ja seda mõjutavad tegurid. Kolloidosakese ehitus, isoelektriline olek, elektrokineetilised nähtused, elektroforees, elektroosmoos. Donnani membraantasakaal.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Disperssete süsteemide agregatiivne ja sedimentatsiooniline püsivus, koagulatsioon, koagulatsiooni erijuhte. Koagulatsiooni kineetika. Steeriline stabiliseerimine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Disperssete süsteemide molekulaar-kineetilised omadused, difusioon kolloidlahustes. Browni liikumine, osmootne rõhk kolloidsüsteemides. Sedimentatsioon disperssetes süsteemides. Sedimentatsioonilis-difusiooniline tasakaal. Sedimentatsioon kesktõukejõu väljas, ultratsentrifuugimine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Polümeeride lahustumine ja nende lahuste omadused. Polümeersed elektrolüüdid. Polümeeride pundumine, pundumisaste, kaitsekolloidid. Disperssete süsteemide viskoossus. Geelid, nende tekkimine ja sünerees. Tiksotroopia.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Emulsioonid, emulgaatorid, emulsioonide stabiliseerimine. Hüdrofiilne-lipofiilne tasakaal. Disperssete süsteemide eriliigid: suspensioonid, vahud, aerosoolid, pulbrid",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/chemistry2.md"
+  ],
+  "hasSyllabus": true
+}

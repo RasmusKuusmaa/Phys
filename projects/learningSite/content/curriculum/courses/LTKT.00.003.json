@@ -1,0 +1,24 @@
+{
+  "code": "LTKT.00.003",
+  "name": {
+    "et": "Erialane praktika keemias",
+    "en": "Professional placement in chemistry"
+  },
+  "eap": 6,
+  "modules": [
+    "4.2"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

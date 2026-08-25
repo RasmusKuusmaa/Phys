@@ -1,0 +1,26 @@
+{
+  "code": "LOKT.07.010",
+  "name": {
+    "et": "Keemia alused",
+    "en": "Foundations of chemistry"
+  },
+  "eap": 6,
+  "modules": [
+    "1.1",
+    "2.8",
+    "2.9"
+  ],
+  "status": {
+    "physics": "mandatory-all",
+    "chemistry": "mandatory-all",
+    "materials-science": "mandatory-all"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

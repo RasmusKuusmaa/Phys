@@ -1,0 +1,57 @@
+{
+  "code": "LTFY.02.001",
+  "name": {
+    "et": "Aine struktuur ja omadused",
+    "en": "Structure and properties of matter"
+  },
+  "eap": 6,
+  "modules": [
+    "3.5",
+    "3.9"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "not-in-track",
+    "materials-science": "mandatory"
+  },
+  "prerequisiteCodes": [
+    "LTFY.02.003",
+    "LTFY.02.002"
+  ],
+  "aims": "Kursuse eesmärk on süvendada üliõpilaste ettekujutust aine ehitusest ja struktuurist, tutvustades tahkisefüüsika põhimõisteid ja kontseptsioone ning selgitada materjalide omaduste tulenemist materjalide koostisest ja ehitusest.",
+  "outcomes": [
+    "1. Tunneb kvantmehhaanika ja kristallograafia põhiseisukohti ja -mudeleid, mis on vajalikud aines atomaarsel tasandil toimuvate protsesside mõistmiseks.",
+    "2. Omab ettekujutust erineva korrastusastmega tahkiste struktuurist ja omadustest.",
+    "3. Omab ettekujutust kristallide dünaamikast, neis toimuvatest protsessidest ja seostest materjalide omadustega.",
+    "4. Teab, kuidas materjali faasiline koostis ja ruumiline struktureeritus mõjutab selle omadusi.",
+    "5. Oskab lahendada ülesandeid kursuses käsitletud teemade kohta."
+  ],
+  "summary": "Kursuses käsitletakse aine ehitust selle erinevatel struktuuritasanditel ning materjalide rakenduskohtade seost nende omaduste ja ehitusega. Seminarides lahendatakse kursuse sisuga seonduvaid ülesandeid.",
+  "topics": [
+    {
+      "title": "kontrolltöö L2-L7 teemade kohta",
+      "hours": null,
+      "keywords": "L8. Molekulide ja kristallide võnkumised L9. Kristallide energianivood. Elektrongaas L10. Elektrivool tahkistes"
+    },
+    {
+      "title": "kontrolltöö L8-L12 teemade kohta",
+      "hours": null,
+      "keywords": "L13. Tahkiste deformatsioon: elastsus L14. Tahkiste deformatsioon: plastsus, purunemine L15. Graanulmaterjalid. Komposiitmaterjalid"
+    },
+    {
+      "title": "kontrolltöö L13-L18 teemade kohta",
+      "hours": null,
+      "keywords": "L19. Vedelkristallid L20. Klaasid ja kvaasikristallid L21. Biostruktuurid"
+    },
+    {
+      "title": "kontrolltöö L19-L24 teemade kohta",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/MaterialScience1.md"
+  ],
+  "hasSyllabus": true
+}

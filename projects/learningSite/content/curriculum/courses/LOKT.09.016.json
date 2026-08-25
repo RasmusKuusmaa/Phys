@@ -1,0 +1,26 @@
+{
+  "code": "LOKT.09.016",
+  "name": {
+    "et": "Materjalide keemia ja puidukeemia valitud peatükke",
+    "en": "Selected chapters in materials and wood chemistry"
+  },
+  "eap": 3,
+  "modules": [
+    "3.10",
+    "4.2",
+    "4.3"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

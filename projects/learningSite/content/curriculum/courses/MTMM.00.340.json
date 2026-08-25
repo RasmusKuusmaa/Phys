@@ -1,0 +1,207 @@
+{
+  "code": "MTMM.00.340",
+  "name": {
+    "et": "Kõrgem matemaatika I",
+    "en": "Higher mathematics I"
+  },
+  "eap": 6,
+  "modules": [
+    "1.2",
+    "2.7",
+    "2.8"
+  ],
+  "status": {
+    "physics": "mandatory-all",
+    "chemistry": "mandatory-all",
+    "materials-science": "mandatory-all"
+  },
+  "prerequisiteCodes": [],
+  "aims": "See kursus annab algteadmised kõrgemas matemaatikas. Kursusel on rakenduslik tähtsus loodusteadustes. Õppija arendab funktsioonidega seotud õpioskusi õpitavate teemade ja ülesandetüüpide lõikes.",
+  "outcomes": [
+    "Selle kursuse läbinud üliõpilane:",
+    "1. Teab maatriksi ja pöördmaatriksi mõistet ning oskab teostada tehteid maatriksitega, leida pöördmaatriksit. Oskab arvutada kolmandat ja kõrgemat järku determinanti, teab determinantide põhiomadusi.",
+    "2. Oskab lahendada lineaarseid võrrandisüsteeme, rakendades Gaussi meetodit.",
+    "3. Teab funktsiooni mõistet, funktsioonide liigitust, oskab ära tunda ja skitseerida põhiliste elementaarfunktsioonide graafikuid.",
+    "4. Oskab arvutada piirväärtust, teab piirväärtuse põhiomadusi. Teab pideva funktsiooni mõistet.",
+    "5. Teab tuletise ja diferentsiaali mõisteid; teab tuletise põhilisi omadusi ja oskab neid leida; teab tuletise ja diferentsiaali tähtsamaid rakendus.",
+    "6. Teab L'Hospitali reeglit ja oskab seda rakendada.",
+    "7. Oskab uurida funktsiooni ja teab, mis on kasvavad/kahanevad, kumerad/nõgusad funktsioonid.",
+    "8. Teab algfunktsiooni mõistet ja oskab leida määramata integraali lihtsamal juhul.",
+    "9. Oskab lahendada I järku lineaarseid diferentsiaalvõrrandeid.",
+    "10. Teab, mis on Riemanni summa ja määratud integraal ning oskab neid arvutada.",
+    "11. Tunneb määratud integraali rakendusi.",
+    "12. Teab päratu integraali mõistet ja oskab neid leida.",
+    "13. Oskab leida ruumivektorite skalaarkorrutist, vektorkorrutist, segakorrutist ning teab nende rakendusi.",
+    "14. Oskab koostada sirgete ja tasandite võrrandeid ruumis ning leida nende vastastikust asendit.",
+    "15. Teab, mis on kompleksarv, selle algebraline, geomeetriline, trigonomeetriline kuju, oskab teostada tehteid kompleksarvudega, teab Euleri valemit.",
+    "16. Valib ülesannete lahendamiseks sobivad matemaatilised kontseptsioonid (valemid) ning rakendab neid ülesannete lahendamisel."
+  ],
+  "summary": "Kõrgema matemaatika kursusel käsitletavad teemad: maatriksid, determinandid, lineaarvõrrandisüsteemid, funktsioonid, funktsiooni piirväärtus ja pidevus, jadad, funktsiooni tuletis ja diferentsiaal, määramata integraal, määratud integraal, päratud integraalid, lineaarsed I järku diferentsiaalvõrrandid, vektorid ruumis, skalaarkorrutis, vektorkorrutis, sirged ja tasandid ruumis, kompleksarvud.",
+  "topics": [
+    {
+      "title": "- 16. n. 2 L, 4 P n-s",
+      "hours": null,
+      "keywords": "- Vektorid ruumis. - Vektorite skalaarkorrutis, vektorite vaheline nurk. - Vektorite vektorkorrutis ja segakorrutis."
+    },
+    {
+      "title": "praktikum. Vektorite vektorkorrutis, segakorrutis.",
+      "hours": null,
+      "keywords": "----------------------------------------------------------"
+    },
+    {
+      "title": "praktikum. Sirge ja tasandi võrrandid. Sirge ja tasandi vastastikused asendid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Kompleksarvu algebraline kuju. Tehted kompleksarvudega.",
+      "hours": null,
+      "keywords": "----------------------------------------------------------"
+    },
+    {
+      "title": "praktikum. Kompleksarvu trigonomeetriline kuju ja eksponentkuju. Tehted kompleksarvudega.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Kompleksarvu astendamine ja juurimine. Algebraliste võrrandite lahendamine.",
+      "hours": null,
+      "keywords": "----------------------------------------------------------"
+    },
+    {
+      "title": "praktikum. Funktsioonid, elementaarfunktsioonid ja nende graafikud.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Pöördfunktsioon, üksühene funktsioon. Eksponent- ja logaritmfunktsioon.",
+      "hours": null,
+      "keywords": "----------------------------------------------------------"
+    },
+    {
+      "title": "praktikum. Funktsiooni piirväärtus. Mõned erilised piirväärtused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Funktsiooni pidevus. Funktsiooni tuletis.",
+      "hours": null,
+      "keywords": "----------------------------------------------------------"
+    },
+    {
+      "title": "praktikum. Liitfunktsiooni tuletis. Joone puutuja ja normaal.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Diferentsiaal.",
+      "hours": null,
+      "keywords": "----------------------------------------------------------"
+    },
+    {
+      "title": "praktikum. Funktsiooni uurimine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Määramata integraal. Muutujavahetus.",
+      "hours": null,
+      "keywords": "----------------------------------------------------------"
+    },
+    {
+      "title": "praktikum. Ositi integreerimine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Eraldatud muutujatega diferentsiaalvõrrandid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Eralduvate muutujatega diferentsiaalvõrrandid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Lineaarsed diferentsiaalvõrrandid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Riemanni integraal. Kõvertrapetsi pindala.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Newton-Leibizi valem. Muutujavahetus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Määratud integraal. Omadused, muutujavahetus. Ositi integreerimine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Pindala arvutamine.",
+      "hours": null,
+      "keywords": "----------------------------------------------------------"
+    },
+    {
+      "title": "praktikum. Määratud integraali rakendused: joone kaare pikkus, ruumala.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Määratud integraali füüsikalised rakendused.",
+      "hours": null,
+      "keywords": "----------------------------------------------------------"
+    },
+    {
+      "title": "praktikum. Trigonomeetriliste funktsioonide integreerimine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Päratud integraalid. Lõpmatute rajadega integraalid.",
+      "hours": null,
+      "keywords": "----------------------------------------------------------"
+    },
+    {
+      "title": "praktikum. Päratud integraalid. Integraalid tõkestamata funktsioonist.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Maatriksid.",
+      "hours": null,
+      "keywords": "----------------------------------------------------------"
+    },
+    {
+      "title": "praktikum. Determinandid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Pöördmaatriksi leidmine, maatriksvõrrandite lahendamine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Maatriksi astak. Lineaarvõrrandisüsteemid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "praktikum. Gaussi meetod. Homogeensed lineaarvõrrandisüsteemid.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "AlusMoodulid/AlusMoodulid2.md"
+  ],
+  "hasSyllabus": true
+}

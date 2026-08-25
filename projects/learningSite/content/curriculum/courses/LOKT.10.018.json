@@ -1,0 +1,51 @@
+{
+  "code": "LOKT.10.018",
+  "name": {
+    "et": "Bioorgaanilise keemia praktikum",
+    "en": "Bioorganic chemistry practical"
+  },
+  "eap": 3,
+  "modules": [
+    "3.3"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "mandatory",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOKT.10.012",
+    "LTKT.10.002",
+    "LTKT.10.001",
+    "LOKT.09.014"
+  ],
+  "aims": "Anda algteadmised biokeemiliste eksperimentide läbiviimisel ning tutvustada nende eksperimentide eripära. Anda esmane kogemus tööks biokeemia laboris ning toetatakse koostöö oskuste arengut.",
+  "outcomes": [
+    "Praktikumi edukalt läbinud üliõpilane:",
+    "omab algteadmised tööks biokeemia laboratooriumis nii individuaalselt kui ka meeskonnas ning on omandanud biokeemiaga seotud baasoskusi;",
+    "o oskab valmistada seerialahjendusi ja puhvreid",
+    "o oskab määrata ensüümkineetikas olulisi parameetreid ja neid mõjutavaid tegureid",
+    "o teab elusate rakkudega teostavate eksperimentide põhilisi eripärasid",
+    "o oskab töötada fluorestsentsmärgisega ühenditega ning teab nende ainetega töötamise probleeme ja eeliseid",
+    "o on omandanud geel-elektroforeesi tehnika",
+    "o oskab kasutada restriktsiooniensüüme suunatud DNA lõikamiseks"
+  ],
+  "summary": "Praktikum, mille käigus tutvutakse biokeemiliste eksperimentide läbiviimise eripäraga. Õpitakse valmistama puhverlahuseid, mõõtma ensüümkatalüütiliste reaktsioonide kineetikat ja analüüsima saadud eksperimentaalseid andmeid. Registreerumise info Registreerumise tähtajad on sisestamata. Õppetöö vormid ja mahud tundides Maht 3 EAP | 78 t Praktikumid 32 t Iseseisev töö 46 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Ei Õpikeskkond http://moodle.ut.ee Kohustuslikud õppematerjalid Vt õppematerjalid Moodle-st Soovituslikud õppematerjalid John L. Tymoczko, Jeremy M. Berg, Lubert Stryer \"Biokeemia. Lühikursus\" Õpik kõrgkoolidele. TTÜ Kirjastus, 2016. Bioorgaaniline keemia I loengumaterjalid koos loengutes tehtud konspektiga",
+  "topics": [
+    {
+      "title": "Praktikumi korra ja teostatavate tööde tutvustamine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "individuaaltund",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/chemistry1.md"
+  ],
+  "hasSyllabus": true
+}

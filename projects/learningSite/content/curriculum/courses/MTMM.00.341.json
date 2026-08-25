@@ -1,0 +1,36 @@
+{
+  "code": "MTMM.00.341",
+  "name": {
+    "et": "Kõrgem matemaatika II",
+    "en": "Higher mathematics II"
+  },
+  "eap": 6,
+  "modules": [
+    "1.2",
+    "2.7"
+  ],
+  "status": {
+    "physics": "mandatory-all",
+    "chemistry": "mandatory-all",
+    "materials-science": "mandatory-all"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Vektorruumi, alamruumi ja vektorite lineaarse sõltuvuse mõistete omandamine. Mitme muutuja funktsioonide diferentsiaal- ja integraalarvutuse aluste omandamine. Diferentsiaalvõrrandite lahendusoskuse omandamine. Üliõpilaste matemaatilise mõtlemisoskuse arendamine.",
+  "outcomes": [
+    "Selle kursuse läbinud üliõpilane:",
+    "1. Oskab defineerida vektorruumi, vektorruumi alamruumi ja vektorite lineaarset sõltuvust ning lahendada vastavaid ülesandeid.",
+    "2. Oskab defineerida arvrida ja astmerida ning lahendada ülesandeid arvridade koondumise kohta.",
+    "3. Oskab defineerida ja leida osatuletisi ja täisdiferentsiaali mitme muutuja funktsioonile.",
+    "4. Oskab defineerida ja leida kahe- ja kolmekordseid integraale, teab põhilisi kordsete integraalide rakendusi.",
+    "5. Oskab defineerida ja leida kahe muutuja funktsiooni ekstreemumeid, tunneb Lagrange'i meetodit.",
+    "6. Teab hariliku diferentsiaalvõrrandi mõistet, oskab defineerida ja lahendada eralduvate muutujatega võrrandit, homogeenset ja eksaktset võrrandit, lineaarset esimest ja teist järku diferentsiaalvõrrandit.",
+    "7. Teab osatuletistega diferentsiaalvõrrandi mõistet, oskab lahendada lihtsamaid osatuletistega diferentsiaalvõrrandeid."
+  ],
+  "summary": "Vektorruumid, vektorite lineaarne sõltumatus. Arvread, astmeread ja Fourier' read. Mitme muutuja funktsioonide diferentsiaal- ja integraalarvutus. Kordsed integraalid. Mitme muutuja funktsioonide ekstreemumite leidmine, optimiseerimine. Harilikud diferentsiaalvõrrandid, osatuletistega diferentsiaalvõrrandid.",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [
+    "AlusMoodulid/AlusMoodulid2.md"
+  ],
+  "hasSyllabus": true
+}

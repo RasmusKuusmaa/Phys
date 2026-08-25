@@ -1,0 +1,106 @@
+{
+  "code": "LTKT.01.002",
+  "name": {
+    "et": "Laboritöö praktikum",
+    "en": "Laboratory practical (chemistry)"
+  },
+  "eap": 3,
+  "modules": [
+    "1.1",
+    "2.7",
+    "2.8",
+    "2.9"
+  ],
+  "status": {
+    "physics": "mandatory-all",
+    "chemistry": "mandatory-all",
+    "materials-science": "mandatory-all"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Praktikumi eesmärgiks on keemialaboris kasutatavate esmaste töövõtete omandamine üldkeemia põhiteemasid käsitlevate praktiliste tööde ja nendega seotud arvutuste kaudu.",
+  "outcomes": [
+    "1)Oskab ohutult ja korrektselt keemialaboris tegutseda.",
+    "2)On omandanud esmased praktilised oskused keemialaboris töötamiseks (kaalumine, ruumalade mõõtmine, kuumutamine, filtrimine, ümberkristallimine, lahuste valmistamine, tiitrimine jne).",
+    "3)Oskab vastavalt juhendile korrektselt läbi viia üldise keemia põhiteemadega seotud kvalitatiivseid ja kvantitatiivseid eksperimentaalseid töid. Mõistab praktiliste tööde teoreetilist tagapõhja.",
+    "4)Oskab vormistada praktiliste tööde protokolle, koostada graafikuid, teha vajalikke arvutusi ning järeldusi.",
+    "5)Oskab lahendada praktikumi töödega seotud lihtsamaid arvutusülesandeid."
+  ],
+  "summary": "Keemia aluste praktikumis teevad üliõpilased praktilisi töid, mis on seotud üldkeemia põhiprobleemidega: ainete puhastamine, lahuste valmistamine ja kontsentratsiooni määramine, keemiline kineetika ja tasakaal. Üliõpilased omandavad esmased töövõtted ja laboritöö oskused ning teostavad praktiliste töödega seotud arvutused.",
+  "topics": [
+    {
+      "title": "Sissejuhatus, keemialabori tutvustus, ohutusnõuded, laboritehnika. Kaalumine, vedelike ruumalade mõõtmine, lahuste valmistamine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Reaktsiooni suhtelise kiiruse sõltuvus reagendi kontsentratsioonist ja temperatuurist.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Vaskhüdroksiidkarbonaadi süntees ja lagundamine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Redoksreaktsioonid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Leeliselahuse (\"Torusiili\") kontsentratsiooni määramine tiitrimismeetodil, happe-aluse tiitrimine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Metallide aktiivsus ja korrosioon, keemilised vooluallikad.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tasakaal elektrolüütide lahustes, pH, hüdrolüüs.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Keemilised vooluallikad.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "10. nädal. Konsultatsioon arvestustööks, praktikumi lõpetamine,järeltööd, protokollide parandamised.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "11. nädal. Konsultatsioon arvestustööks, praktikumi lõpetamine,järeltööd, protokollide parandamised.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "12. nädal. Arvestutöö kirjutamise põhiaeg kõigile. Arvestustööd saab teha ainult praktikumi ajal. Arvestutööle pääsemise tingimuseks on, et kõik 7 protokolli on esitatud ja arvestatud.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Arvestutööd ei toimu.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Arvestustöö järeltöö.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Arvestustöö järeltöö.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "AlusMoodulid/AlusMoodulid1.md"
+  ],
+  "hasSyllabus": true
+}

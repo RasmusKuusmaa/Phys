@@ -1,0 +1,104 @@
+{
+  "code": "LOKT.09.014",
+  "name": {
+    "et": "Orgaanilise keemia praktikum",
+    "en": "Organic chemistry practical (6 ECTS)"
+  },
+  "eap": 6,
+  "modules": [
+    "3.3"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "mandatory",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOKT.09.004"
+  ],
+  "aims": "Praktikumi eesmärk on anda laboratoorse töö oskusi orgaaniliste ainete ja/või materjalide sünteesiks ning nende iseloomustamiseks.",
+  "outcomes": [
+    "-oskab juhendamisel ohutult teostada lihtsamaid sünteese laboris",
+    "-kirjeldab suuliselt/kirjalikult tehtavat praktilist tööd ja sellest tulenevaid riske, millest lähtub eksperimendi läbiviimise ajaplaneerimine",
+    "-koostab ja kasutab laboriaparatuuri erinevate praktiliste tööde teostamiseks",
+    "-otsib erialastest andmebaasidest orgaaniliste ainete keemilisi ja füüsikalisi omadusi",
+    "-teab peamisi orgaaniliste ühendite eraldamise ja puhastamise viise",
+    "-oskab sünteesida juhendi järgi lihtsamaid orgaanilisi ühendeid",
+    "-oskab kasutada lihtsamaid analüüsimeetodeid orgaaniliste ühendite iseloomustamiseks (ainete sulamis- ja keemistemperatuur, planaarkromatograafia)",
+    "-oskab nii kirjalikult kui suuliselt kirjeldada läbiviidud eksperimenti ja anda hinnangut saadud tulemustele",
+    "-oskab täita laboripäevikut ning koostada kirjalikult orgaanilise sünteesi aruandeid (sh struktuuri joonistamise tarkvara kasutamine)."
+  ],
+  "summary": "Praktikumi raames teostatakse rida orgaaniliste ühendite sünteese, õpitakse ainete eraldamise, puhastamise ja analüüsimeetodeid ning aparatuuri. Õppija arendab laboratoorse töö oskusi ja oskab planeerida, kirjeldada, dokumenteerida ja kasutada kaasaegseid infotehnoloogilisi lahendusi parima tulemuse saamiseks. Registreerumise info Registreerumise algus 15.05.2026 Registreerumise lõpp 30.08.2026 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 14.09.2026 Registreerumise lõpp külalistele 14.09.2026 Registreeringu tühistamise lõpp 16.09.2026 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Jah Registreerunute arv 20 Osalejate piirarv 20 Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 6 EAP | 156 t Praktikumid 80 t Iseseisev töö 76 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Ei Õpikeskkond http://moodle.ut.ee Kohustuslikud õppematerjalid 1. Laboratooriumitehnika orgaanilises keemias. Koostanud H. Timotheus Tartu 1991 2. Orgaanilise keemia sünteesipraktikum. Koostanud S.Viirlaid, D.Panov, Tartu 2014 Soovituslikud õppematerjalid 3. Kenneth L. Williamson. Macroscale and Microscale Organic Experiments. 1994. 4. R. M. Roberts. Modern Experimental Organic Chemistry.",
+  "topics": [
+    {
+      "title": "1. nädal: Sissejuhatus, ohutustehnika, laboris töötamise kord, sünteesiaparatuuri koostamine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "2. nädal: Ekstraktsioonid: hape-alus lahutamine, vedelik-vedelik ekstraktsioon, tahkefaasiline ekstraktsioon. Rotatsioonaurusti.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "3-5. nädal: Orgaaniliste ainete puhastamise meetodid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Destillatsioonid (normaal- ja alandatud rõhul, veeauruga dest). Aseotroopsed segud. Sublimatsioon.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "5. nädal: Ümberkristallimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "6-13. nädal: Sünteesid:",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "elektrofiilne asendusreaktsioon aromaatses tuumas",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "nukleofiilne atsüülasendus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "redutseerimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "oksüdeerimine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "aldoolkondensatsioon",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "metallorgaaniliste ühendite reaktsioonid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "metallorgaaniliste ühendite reaktsioonid",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/chemistry1.md"
+  ],
+  "hasSyllabus": true
+}

@@ -1,0 +1,24 @@
+{
+  "code": "MJCV.00.001",
+  "name": {
+    "et": "Projekti kirjutamise seminar",
+    "en": "Project-writing seminar"
+  },
+  "eap": 3,
+  "modules": [
+    "4.4"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

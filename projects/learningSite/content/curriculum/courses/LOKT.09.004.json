@@ -1,0 +1,107 @@
+{
+  "code": "LOKT.09.004",
+  "name": {
+    "et": "Orgaaniline keemia I",
+    "en": "Organic chemistry I"
+  },
+  "eap": 6,
+  "modules": [
+    "2.3",
+    "2.5",
+    "3.8"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "mandatory",
+    "materials-science": "mandatory"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Kursuse eesmärk on anda alusteadmised orgaaniliste ühendite peamistest aineklassidest, nende nimetamisest ning füüsikalistest ja keemilisest ja omadustest.",
+  "outcomes": [
+    "* tunneb ja eristab orgaaniliste ühendite põhilisi aineklasse,",
+    "* teab orgaaniliste ühendite nimetamise põhimõtteid ja oskab neid rakendada,",
+    "* teab orgaanilistele ühenditele erinevate aineklassidele iseloomulikke ja olulisi reaktsioone ja oskab nende toimumist selgitada,",
+    "* oskab prognoosida orgaanilise ühendi keemilisi ja füüsikalisi omadusi lähtudes molekuli struktuurist,",
+    "* tunneb ära oluliste looduslike ühendite liike: sahhariidid, peptiidid, nukleiinhapped ja lipiidid"
+  ],
+  "summary": "Loengukursus orgaanilise keemia alustest, kus käsitletakse orgaaniliste ühendite struktuuri, nimetamist ja nendega toimuvaid reaktsioone. Kursusega kaasnevad seminarid.",
+  "topics": [
+    {
+      "title": "1. Orgaaniliste ühendite molekulid. Orgaanilise keemia nimetuse päritolust, ajaloost ja olulisematest arengu etappidest. Orgaanilised ühend koosnevad peamiselt neljast elemendist: C, H, N ja O. Süsiniku aatomi unikaalsus: ahelate moodustumine. Orgaaniliste ühendite molekulide graafiline kujutamine, struktuurivalemite liigid. Molekulide mudelid. Organiliste ühendite klassifikatsioon: põhiklassid ja neid määravad funktsionaalrühmad. Peahel ja kõrvalahelad. Orgaaniliste ühendite nimetamise (nomenklatuuri) alused + näited.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Orgaaniliste molekulide struktuur",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Orgaaniliste ühendite tähtsaimad füüsikalised omadused (tihedus, keemis- ja sulamistemperatuur jne) ning nende sõluvus aine struktuurist ja koostisest. Tähtsaimad vastastikmõjud molekulide vahel. Ioonilised, van der Waalsi vastastikmõjud ning H-side. Orgaaniliste ainete lahustuvus vees. Näited erinevate aineklasside kohta.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Keemilise sideme katkemise homolüütiline ja heterolüütiline mehhanism: radikaalide või ioonide teke vaheühendis. Radikaalse või ioonse reaktsioonimehhanismi olenevus sideme polaarsusest ja reaktsiooni keskkonnast. Reagentide klassifikatsioon: radikaalid, nukleofiilid ja elektrofiilid. Reaktsiooni tasakaalu ja kiiruse sõltuvus reagendi struktuurist. Ühendites esinevad elekronefektid: resonants- ja induktsioonefekt. Valentselektronide delokalisatsiooni võimalused molekulis ja selle mõju molekuli energiale. Resonants ja selle nähtuse graafiline kujutamine. Radikaali ja iooni stabilisatsioon resonantsi poolt. Hüperkonjugatsiooni nähtus ja selle arvestamine. Ainete stabiilsuse hindamine reaktsiooni soojusefekti kaudu: alkeenide hüdrogeenimise soojuse võrdlus. Aromaatsus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Happe tugevuse iseloomustamine reaktsiooni tasakaalu abil ja pKa tabelites toodud andmete interpretatsioon. Happe tugevuse sõltuvus happe struktuurist: H-X sideme omadused, lähteaine ja konjugeeritud aluse stabilisatsioon. C-H happed ja nende omapära. Karbonüülrühmaga ühendite C-H happelisus. Lewisi hape kui elektronpaari aktseptor (vaba orbitaaliga osakene). Katalüsaatorite AlCl3 ja FeCl3 toime näited.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Radikaalmehhanismiga reaktsioonide toimumine (initsieerimine, ahelreaktsioon ja terminatsioon). Sideme homolüüsi soodustavad tegurid. Reaktsiooni initsieerimise võimalused (UV, temperatuur). Näited: metaani ning lihtsamate alkaanide reaktsioonid halogeenidega ja põlemine hapnikus. Reaktsiooniprodukti struktuuri määrab vaheoleku stabilisatsioon.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Elimineerimisreaktsioon kui nukleofiilse asendusreaktsiooni alternatiiv. Nukleofiili ja aluse sarnasus aga erinev käitumine reaktsioonis. Mõned reeglid E1 ja SN1 ning E2 ja SN2 reaktsioonimehhanismide eristamiseks. Reaktsioonide paralleelse kulgemise võimalus ja selle mõju reaktsiooni saadustele.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Sigma- ja pi-sidemete energiate võrdlus kaksiksidemes ja järeldused reaktsioonide kulgemise kohta. Mittepolaarsed pi-sidemed alkeenides (>C=C<) ja nendega toimuvad liitumisreaktsioonid. Radikaalse mehhanismiga reaktsioonid ja nende toimumise eeldused. Reaktsiooni mehhanism ja selle poolt määratud reaktsiooni saaduste struktuur. Radikaalne polümerisatsioon ja selle kasutusalad. Elektrofiili liitumine pi-sidemele ja sigma-kompleksi teke. Reaktsiooni saaduse struktuuri sõltuvus vaheühendi stabiilsusest. Elektrofiili liitumine dieenile. Iooniline polümerisatsioon. pi-sidemete reaktsioonid alküünides.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Aromaatsus, valentselektronide delokalisatsioon ja ühendite energia. Elektrofiilne asendusreaktsioon benseenis. Whealandi vahekompleksi teke. Vahekompleksi suunav mõju reaktsiooni toimumisele, kui molekulis on juba üks asendusrühm. Nulkeofiilne asenduse võimalikkus aromaatses tuumas Sanger'i reaktsiooni ja diasooniumsoolade rakenduste näitel.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Reaktsioonitsentrid polaarsete pi-sidemetega ühendites >C=O ja >C=NH näitel. Keto-enoolne tautomeeria ja erinevad enolisatsiooni mehhanismid. Enoolvormide ja enolaatide reaktsioonid. Nukleofiili (sh Mg-orgaaniliste ühendite ja komplekshüdriidide) liitumine polaarsele pi -sidemele ja tetraeedrilise vahekompleksi teke. Reaktsiooni tulemuse sõltuvus lähteühendi struktuurist ja lahkva rühma omadustest: liitumine või asendus. Nukleofiili liitumine ketoonile või aldehüüdile. Sisemolekulaarse poolatsetaali või poolketaali teke.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Nulkeofiilne asendusreaktsioon karboksüülhapete ja nende derivaatide korral. Karboksüülhapete derivaatide reaktsioonivõimelisuse rida, mille määrab lähteühendi stabilisatsioon. Karbonüülrühma mõju a-CH sideme happelisusele ja karbonüülühendite kondensatsioon. Ristkondensatsiooni reaktsioon. Mõned näited nitriilide reaktsioonidest ja spetsiifilistest aldoolkondensatsiooni variantidest.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Lihtsate heterotsükliliste ühendite näited, tsüklite stabiilsus ja tähtsus looduses.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Nukleiinhapped kui fosforhappe ja pentoosi või desoksüpentoosi estri jääkidest koosnevad polümeerid, kus suhkru jääkidega on seotud lämmastikku sisaldavad heterotsüklid (lämmastikalused). Nende heterotsüklite järjestus nukleiinhappe ahelas kodeerib elusraku jaoks olulist informatsiooni. Nukleosiidid ja nukleotiidid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Vaadeldud reaktsioonid võimaldavad üleminekuid orgaaniliuste ühendite aineklasside vahel. See on sünteetilise orgaanilise keemia metodoloogiliseks aluseks.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/MaterialScience1.md",
+    "SuunaMoodulid/chemistry1.md",
+    "SuunaMoodulid/chemistry2.md"
+  ],
+  "hasSyllabus": true
+}

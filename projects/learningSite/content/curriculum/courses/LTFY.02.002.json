@@ -1,0 +1,44 @@
+{
+  "code": "LTFY.02.002",
+  "name": {
+    "et": "Materjaliklassid ja nende tehnoloogiad",
+    "en": "Classes of materials and their technologies"
+  },
+  "eap": 12,
+  "modules": [
+    "3.5",
+    "3.9"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "not-in-track",
+    "materials-science": "mandatory"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Aine eesmärgiks on anda ülevaade erinevate materjalide koostisest ja struktuurist, valmistamise ja töötlemise põhitehnoloogiatest, omadustest ja rakendusaladest.",
+  "outcomes": [
+    "1. Oskab liigitada tehnomaterjale, teab nende ehitust, põhiomadusi ja rakendusvaldkondi.",
+    "2. Teab struktuursete materjalide põhilisi valmistamise ja töötlemise tehnoloogiaid.",
+    "3. Oskab seostada materjalide rakendusi ja omadusi nende valmistamiseks kasutatavate tehnoloogiate eripäraga (ehk põhjendada, miks antud liiki materjalide valmistamiseks kasutatakse just seda ja mitte mõnda teist tehnoloogiat).",
+    "4. Oskab lahendada ülesandeid kursuses käsitletud teemadel.",
+    "5. Omab polümeeride, metallide, keraamika või klaaside ja komposiitmaterjalide valmistamise ja/või nende omaduste määramise praktilise töö kogemust."
+  ],
+  "summary": "Kursus annab ülevaate materjalide koostisest ja ehitusest, valmistamise ja töötlemise tehnoloogiatest, omadustest ja rakendusaladest, koosnedes neljast osast, mis vastavad erinevatele materjaliklassidele: polümeeridele, metallidele, keraamikale ja klaasidele ning komposiitmaterjalidele. Iga osa sisaldab loenguid, seminaride ja praktikume. 1.osa. Polümeerid (õppejõud: Tarmo Tamm, toimub sügisel) 2.osa. Metallid (õppejõud: Hele Siimon, toimub sügisel) 3.osa. Keraamika ja klaasid (õppejõud: Gunnar Nurk ja Siim Hödemann, toimub kevadel) 4.osa. Komposiidid (õppejõud: Margus Kodu, toimub kevadel) Registreerumise info Registreerumise algus 15.05.2026 Registreerumise lõpp 13.09.2026 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 13.09.2026 Registreerumise lõpp külalistele 13.09.2026 Registreeringu tühistamise lõpp 27.09.2026 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Ei Registreerunute arv 14 Osalejate piirarv - Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 3 EAP | 78 t Loengud 28 t Praktikumid 8 t Seminarid 4 t Iseseisev töö 38 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Ei Õpikeskkond http://moodle.ut.ee Kohustuslikud õppematerjalid Priit Kulu. Metalliõpetus. TTÜ kirjastus. Elektroonsed materjalid ÕIS-s, Soovituslikud õppematerjalid Loengus soovitatud materjalid",
+  "topics": [
+    {
+      "title": "26.10.2023\t\tkontrolltöö",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "21.12.2023\t\tkontrolltöö",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/MaterialScience1.md"
+  ],
+  "hasSyllabus": true
+}

@@ -1,0 +1,239 @@
+{
+  "code": "LTFY.04.016",
+  "name": {
+    "et": "Analüütiline mehaanika",
+    "en": "Analytical mechanics"
+  },
+  "eap": 6,
+  "modules": [
+    "2.2"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Õppeaine eesmärk on anda ülevaade Lagrange'i ja Hamiltoni formalismist, nende teoreetilistest ja praktilistest rakendustest klassikalises mehaanikas.",
+  "outcomes": [
+    "*Kursuse läbinud tudeng tunneb Newtoni mehaanikat ning Lagrange'i ja Hamiltoni formalismi klassikalises mehaanikas, sh nende kirjeldusviisidega seotud terminoloogiat, põhivõrrandeid ja olulisemaid teoreeme.",
+    "*Ta suudab näidata erinevate lähenemiste samaväärsust, kusjuures teab, kuidas tuletada Lagrange'i võrrandeid d'Alambert'i ja vähima mõju printsiibist, ja seost Hamiltoni ja Lagrange'i võrrandite vahel.",
+    "*Kursuse läbimisel oskab tudeng kirjeldada jäävusseadusi kõigis ülalmainitud formalismides, sh oskab sõnastada Noetheri teoreemi klassikalises mehaanikas.",
+    "*Ta on tuttav olulisemate sümmeetriatega ja neist tulenevate järeldustega.",
+    "*Kursuse läbija peab oskama sõnastada ja analüüsida lihtsamaid mehaanikaülesandeid Lagrange'i ja Hamiltoni formalismi abil, sh suutma valida ülesande jaoks sobivat kirjeldusviisi."
+  ],
+  "summary": "Kursus eeldab teadmisi üldfüüsikas ja -matemaatikas. Käsitletakse dünaamika põhiseadusi nii Newtoni kui Lagrange ja Hamiltoni formalismis. Matemaatilise meetodina kasutatakse variatsioonarvutust ja vähima mõju printsiipi. Sümmeetriad ja jäävusseadused esitatakse kaasaegse füüsika seisukohalt. Registreerumise info Registreerumise algus 15.05.2026 Registreerumise lõpp 13.09.2026 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 13.09.2026 Registreerumise lõpp külalistele 13.09.2026 Registreeringu tühistamise lõpp 27.09.2026 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Ei Registreerunute arv 39 Osalejate piirarv - Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 6 EAP | 156 t Loengud 64 t Seminarid 24 t Iseseisev töö 68 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Ei Õpikeskkond https://moodle.ut.ee/course/view.php?id=971 Kohustuslikud õppematerjalid Loengukonspekt (H.Veermäe), loengute failid. Soovituslikud õppematerjalid 1. H. Goldstein, C. Poole, J. Safko \"Classical mechanics\" (Addison Wesley, 2001) 2. R. D. Gregory \"Classical Mechanics: An Undergraduate Text\" (Cambridge University Press, 2006) 3. W. Greiner \"Classical Mechanics\" (Springer-Verlag, 2003) 4. A. J. Brizard \"Introduction to Lagrangian mechanics\" (World Scientific Publishing, 2008) 5. L. N. Hand, J. D. Finch \"Analytical mechanics\" (Cambridge University Press, 1998) 6. D. A. Wells \"Schaum's outline of Lagrangian dynamics: With a treatment of Euler's equations of motion, Hamilton's equations and Hamilton's principle\" (Schaum Outline Series, 1967)",
+  "topics": [
+    {
+      "title": "Fragmente Isaac Newtoni loomingust: esimene",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Fragmente Isaac Newtoni loomingust: teine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Fragmente Isaac Newtoni loomingust: kolmas",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kodutöö nr 1: konsultatsioon. Binoomteoreemi range algebraline tõestus: mõttevahetus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kaks Galilei probleemi ja brahhistokrooni probleem - tähtsad sammud teel Euleri-Lagrange'i võrranditeni (esimene)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kodutöö nr 1 - tulemused, kodutöö nr 2 - tutvustus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kaks Galilei probleemi ja brahhistokrooni probleem - tähtsad sammud teel Euleri-Lagrange'i võrranditeni (teine)",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ühemõõtmelise Euler-Lagrange'i võrrandi tuletamine (Lagrange, 1755).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kodutöö nr 2 - konsultatsioon; Teise Galilei probleemi algebraline lahendus ja numbrilised demonstratsioonid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Punktmassi kinemaatika: trajektoori puutujavektor ja peanormaalinektor, rakendusi diferentsiaalgeomeetrias",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kiirus, kiirendus ja trajektoori kõverus. Newtoni II seadus ja mehaanilise energia jäävus - kumb on üldisem?",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kolm samaväärset konservatiivsuse tunnust: range tõestus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Orbitaalliikumise dünaamika; radiaalvõrrand; Kepleri ülesanne",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Pöördliikumise geomeetria ja dünaamika. Inertsimoment; massikeskme koordinaadistik; Steineri teoreem.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kodutööd 3 (konsultatsioon) ja 4 (tutvustus). Liikumine Maa raskusväljas: Coriolis'i efekt",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Newtoni mehaanika uuel tasemel - Lagrange'i formalism.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Konservatiivse süsteemi Lagrange'i võrrandid. Üldistatud energia ja üldistatud impulss",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kodutöö nr 4 - mõttevahetus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Lagrange'i võrrandid mittekonservatiisete jõudude korral - laetud osakese liikumine staatilises magnetväljas.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Põhimõistete test nr 1. Lagranžiaani invariantsus - Noetheri teoreem",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Esimese põhimõistete testi tulemused - kommentaar.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "d'Alembert'i printsiibi ja Lagrange'i formalismi rakendusi: näidisülesandeid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Normaalkoordinaadid ja normaalvõnkumised: näidisülesandeid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kodutöö nr 5 - vihjeid ja selgitusi",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Lagrange'i võrrandid mitteholonoomsete seoste korral - Lagrange'i kordajate meetod.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Mehaanika põhikontseptsioonide võrdlev analüüs.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kodutöö nr 5 - konsultatsioon. Rühmatöö teemade tutvustus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kanoonilised teisendused. Hamilton-Jacobi võrrandid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Faasiruumi trajektooride kvantiseerimine - Niels Bohri radikaalne idee.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Rühmatöö teemade arutelu: mõned metoodilised ja vormistuslikud soovitused",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kvaasiklassikaline lähendus. Lisatingimused, mis tagavad teisenduse kanoonilisuse.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Poissoni sulud - analüütilises mehaanikas ja kvantmehaanikas",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Integreeruv Hamiltoni süsteem (Liouville'i teoreem).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kodutöö nr 5 - tulemused, kodutöö nr 6 - konsultatsioon",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Tagasivaade teemadele 7-12: valmistumine põhimõistete testiks nr 2",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Põhimõistete test nr 2. Rühmatöö abimaterjali tutvustus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Rühmatöö konsultatsioon",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Rühmatööde arutelu",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Rühmatööde kaitsmine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kodutöö nr 7 tutvustus. Rühmatöö tulemuste analüüs",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kodutöö nr 8 tutvustus. Rühmatöö tulemuste analüüs",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/physics2.md",
+    "SuunaMoodulid/physics2.md"
+  ],
+  "hasSyllabus": true
+}

@@ -1,0 +1,24 @@
+{
+  "code": "LOKT.10.026",
+  "name": {
+    "et": "Peatükke meditsiinilisest keemiast",
+    "en": "Chapters in medicinal chemistry"
+  },
+  "eap": 3,
+  "modules": [
+    "4.2"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

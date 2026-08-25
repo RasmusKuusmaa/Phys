@@ -15,7 +15,8 @@
     "check:links": "tsx scripts/check-links.ts",
     "content:coverage": "tsx scripts/content-coverage.ts",
     "content:new-concept": "tsx scripts/new-concept.ts",
-    "typecheck": "next typegen && tsc --noEmit"
+    "typecheck": "next typegen && tsc --noEmit",
+    "curriculum:build": "tsx scripts/build-curriculum.ts"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.1",

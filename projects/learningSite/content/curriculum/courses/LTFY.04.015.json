@@ -1,0 +1,116 @@
+{
+  "code": "LTFY.04.015",
+  "name": {
+    "et": "Kompleksmuutuja funktsioonid füüsikas",
+    "en": "Functions of a complex variable in physics"
+  },
+  "eap": 3,
+  "modules": [
+    "3.2"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "MTMM.00.340",
+    "MTMM.00.341"
+  ],
+  "aims": "Anda füüsikule vajalikud baasteadmised kompleksmuutuja funktsioonide teooriast.",
+  "outcomes": [
+    "Selle kursuse läbinud üliõpilane:",
+    "1. Tunneb teooria põhimõisteid: sise-, välis- ja rajapunkt; punkti ümbrus ja läbitorgatud ümbrus; sidus hulk; kinnine ja lahtine hulk; hulga sulund; tõkestatud ja tõkestamata hulk; kuhjumispunkt; lõpmatuspunkt.",
+    "2. Oskab arvutada kompleksmuutuja funktsiooni piirväärtust ja tuletist.",
+    "3. Teab, mis on kompleksmuutuja elementaarfunktsioonid ja tunneb nende põhiomadusi.",
+    "4. Omab ettekujutust analüütilisuse kontseptsioonist ja analüütiliste funktsioonide omadustest.",
+    "5. Teab mis on Riemanni sfäär ja Riemanni pind.",
+    "6. Tunneb konformse teisenduse põhiomadusi.",
+    "7. Tunneb komplekstasandi integraalarvutuse üldpõhimõtteid ja tähtsaid teoreeme (Cauchy-Goursat' teoreem, Taylori teoreem, Laurent'i teoreem, Cauchy integraalvalem, Cauchy resiidide teoreem, Jordani lemma).",
+    "8. Oskab klassifitseerida analüütiliste funktsioonide isoleeritud iseärasusi.",
+    "9. Tunneb resiidide teoreemi rakendusi: päratute integraalide arvutamine, Fourier' integraalid, põigetega kontuurid."
+  ],
+  "summary": "See on traditsiooniline ülikoolikursus, mõninga rõhuasetusega füüsikaliste rakenduste suunas. Selgitatakse komplekstasandil defineeritud funktsioonide eripära: piirväärtuse, pidevuse ja tuletise mõisteid ning nende omavahelist seost. Sõnastatakse ning tõestatakse tarvilikud ja piisavad tingimused tuletise olemasoluks. Selgitatakse integraalarvutuse põhiteoreemi üldistamist komplekstasandile ning tõestatakse sellega seonduvad tähtsad teoreemid: Cauchy-Goursat' teoreem üheli- ja mitmelisidusas piirkonnas; Cauchy integraalvalem ja selle laiendused; Cauchy resiidide teoreem; Taylori teoreem; Laurent'i teoreem; Jordani lemma. Antakse ülevaade resiidide teooria rakendustest.",
+  "topics": [
+    {
+      "title": "KOMPLEKSMUUTUJA FUNKTSIOONIDE TEOORIA - sissejuhatus ja põhimõistete kordamine:",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Korrutamine, astendamine ja juurimine eksponentsiaalkujul; de Moivre'i valemi rakendusi.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kompleksmuutuja funktsioonid - reaal- ja imaginaarosa, graafiline kujutamine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kompleksmuutuja funktsioonide piirväärtused ja pidevuse tingimused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kompleksmuutuja funktsioonide diferentseerimine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kompleksmuutuja elementaarfunktsioonid:",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Integreerimine: tuletised ja antituletised;",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kontuurintegraalide mooduli ülemine piir.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Cauchy-Goursat' teoreem mitmelisidusas piirkonnas.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Liouville'i teoreem ja algebra põhiteoreem.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kompleksarvude jadad ja read: põhimõisted ja definitsioonid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Analüütilise funktsiooni isoleeritud iseärasused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Resiidid poolustes - kuidas arvutada;",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Funktsiooni käitumine singulaarsuste ümbruses:",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Cauchy peaväärtus; Fourier integraalid resiidide abil.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/physics2.md"
+  ],
+  "hasSyllabus": true
+}

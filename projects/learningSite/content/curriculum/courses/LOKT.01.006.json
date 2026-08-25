@@ -1,0 +1,24 @@
+{
+  "code": "LOKT.01.006",
+  "name": {
+    "et": "Keemiaülesannete lahendamine",
+    "en": "Solving chemistry problems"
+  },
+  "eap": 3,
+  "modules": [
+    "4.2"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

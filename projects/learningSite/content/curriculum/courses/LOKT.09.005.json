@@ -1,0 +1,24 @@
+{
+  "code": "LOKT.09.005",
+  "name": {
+    "et": "Orgaaniline keemia II",
+    "en": "Organic chemistry II"
+  },
+  "eap": 6,
+  "modules": [
+    "2.4"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "",
+  "outcomes": [],
+  "summary": "",
+  "topics": [],
+  "conceptIds": [],
+  "sourceFiles": [],
+  "hasSyllabus": false
+}

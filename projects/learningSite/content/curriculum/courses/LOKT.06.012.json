@@ -1,0 +1,46 @@
+{
+  "code": "LOKT.06.012",
+  "name": {
+    "et": "Analüütilise keemia praktikum I",
+    "en": "Analytical chemistry practical I"
+  },
+  "eap": 3,
+  "modules": [
+    "2.3",
+    "2.6"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "mandatory",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [
+    "LOKT.07.010",
+    "LTKT.01.002"
+  ],
+  "aims": "Anda tudengile praktilised teadmised tavalisemate keemiliste analüüside kohta. Toetada õppijate suulise eneväljendusoskuse arengut. Õppija arendab keemiliste analüüside läbiviimisega vajalikke õpioskusi (vajalikud töövõtted ja andmetöötlusoskused).",
+  "outcomes": [
+    "Pärast praktikumi kursuse läbimist tudeng",
+    "- teab ja tunneb põhimõtteid ja rakendusi järgmiste analüüsimeetodite kohta: tiitrimeetria, potentsiomeetria, fotomeetria, kromatograafia, aatomemissioon-spektromeetria;",
+    "- oskab valida ja korrektselt kasutada levinumaid keemilisel analüüsil kasutatavaid laborivahendeid;",
+    "- oskab korrektselt valmistada lahuseid ja kasutada analüütilist kaalu;",
+    "- teab proovide ettevalmistamise põhitõdesid keemilises analüüsis;",
+    "- tunneb selektiivsuse mõistet ja teab selektiivsuse saavutamise põhilisi mooduseid (eraldamine, maskeerimine);",
+    "- viib iseseisvalt läbi lihtsamat keemilist analüüsi (sh proovi eeltöötlus)",
+    "- arvutab keemilise analüüsi tulemuse, hinnates kriitiliselt kogutud andmeid sealjuures kasutades sihtotstarbeliselt tabelarvutusprogrammi (nt MS Excel)."
+  ],
+  "summary": "Praktilised tööd analüütilisest keemiast: kaalumine, lahuste valmistamine, levinumate analüüsil kasutatavate laborivahendite käsitsemine, proovi eeltöötlus, titrimeetria, potentsiomeetria, kromatograafia, aatom- ja molekulspektroskoopia. Iga töö sisaldab erinevaid etappe: etteantud andmete kohta arvutusfaili koostamine; suuline arutelu töö teooria ja rakenduste kohta; praktiline töö; arvutused reaalselt saadud andmetega tabelarvutusprogrammis ning tulemuste kriitiline hindamine. 4 praktilist tööd toimub grupitööna ja seega saadakse praktikumi käigus ka meeskonnatöö kogemus laboratooriumis. Protokollide koostamise käigus õpitakse kasutama tabelarvutusprogrammi MS Excel keemilise analüüsi andmetöötluseks (tabelarvutusprogrammi toimimispõhimõtted, lineaarne regressioon, vajalikud funktsioonid). Registreerumise info Registreerumise algus 15.05.2026 Registreerumise lõpp 30.08.2026 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 14.09.2026 Registreerumise lõpp külalistele 14.09.2026 Registreeringu tühistamise lõpp 06.10.2026 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Jah Registreerunute arv 37 Osalejate piirarv 40 Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 3 EAP | 78 t Praktikumid 40 t Iseseisev töö 38 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Ei Õpikeskkond https://moodle.ut.ee/course/view.php?id=2235 Kohustuslikud õppematerjalid D.A. Skoog, D.M. West, F.J. Holler. Fundamentals of Analytical Chemistry. Sixth edition, Saunders College Publishing, 1992. (või uuem) Analüütiline keemia I (LOKT.06.010) loengumaterjalid. Soovituslikud õppematerjalid D.C.Harris. Quantitative Chemical Analysis. 7th edition, W.H. Freeman, 2007. D.A. Skoog, J.J. Leary Principles of Instrumental Analysis. Fourth edition, Saunders College 1992.",
+  "topics": [
+    {
+      "title": "Nädal Teema nimetus",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/MaterialScience2.md",
+    "SuunaMoodulid/chemistry1.md"
+  ],
+  "hasSyllabus": true
+}

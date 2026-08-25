@@ -1,0 +1,76 @@
+{
+  "code": "MTAT.03.236",
+  "name": {
+    "et": "Programmeerimise alused",
+    "en": "Foundations of programming"
+  },
+  "eap": 3,
+  "modules": [
+    "1.2"
+  ],
+  "status": {
+    "physics": "mandatory-all",
+    "chemistry": "mandatory-all",
+    "materials-science": "mandatory-all"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Üliõpilane omandab algoritmilise mõtlemisviisi alused ja tutvub mõningate programmeerimisvõtetega.",
+  "outcomes": [
+    "- on motiveeritud kasutama arvutit ja koostama vajalikke programme oma edasise stuudiumi vältel;",
+    "- oskab programmeerimise baaskonstruktsioone (hargnemine, tsükkel, alamprogramm) esitada programmilõikudena;",
+    "- oskab tekstina püstitatud lihtsa ülesande realiseerida arvutiprogrammina."
+  ],
+  "summary": "Programmi ja algoritmi mõiste. Algoritmi esitusviisid, plokkskeemid. Hargnev algoritm. Tsükkel. Alamalgoritm. Tekstina püstitatud ülesande algoritmi koostamine. Programmi struktuur. Nimed. Muutujad. Tehted. Avaldised. Loogilised avaldised, võrdlemised. Tingimuslause. Tsükkel. Järjend. Järjendi läbivaatamine. Alamprogrammid. Andmevahetus kasutaja ja failidega. Lihtne kasutajaliides.",
+  "topics": [
+    {
+      "title": "Introduction, Expressions",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Conditional Execution",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Functions",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Iterations",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Strings",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Files",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Lists",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Graphics",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "For more information see course web page https://courses.cs.ut.ee/",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "AlusMoodulid/AlusMoodulid2.md"
+  ],
+  "hasSyllabus": true
+}

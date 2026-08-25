@@ -1,0 +1,185 @@
+{
+  "code": "LTFY.01.006",
+  "name": {
+    "et": "Mehaanika ja soojusõpetus",
+    "en": "Mechanics and heat"
+  },
+  "eap": 6,
+  "modules": [
+    "2.1",
+    "2.5",
+    "3.7"
+  ],
+  "status": {
+    "physics": "mandatory",
+    "chemistry": "not-in-track",
+    "materials-science": "mandatory"
+  },
+  "prerequisiteCodes": [
+    "LOFY.01.121",
+    "LOFY.01.002",
+    "LTFY.01.007",
+    "MTMM.00.340"
+  ],
+  "aims": "Kursuse eesmärgiks on anda teadmisi mehaanikast ja soojusõpetusest, käsitledes eriprobleeme ja rakendusi ning süvendades praktiliste ülesannete lahendamise oskust.",
+  "outcomes": [
+    "1. teab peamisi klassikalise mehaanika seadusi;",
+    "2. oskab füüsikalisi protsesse seostada asjakohaste mehaanika seaduspärasustega;",
+    "3. tunneb molekulaarkineetilise teooria ja termodünaamika põhimõisteid, seadusi ja valemeid;",
+    "4. oskab kasutada omandatud teadmisi ülesannete lahendamisel ja loodusnähtuste ning katsetulemuste lahtimõtestamisel."
+  ],
+  "summary": "Punktmassi kinemaatika ja dünaamika üldistatud käsitlus kõverjoonelise trajektoori korral. Võnkliikumise dünaamika. Lained elastses keskkonnas. Molekulaarkineetilise teooria põhialused, ülekandenähtused ja reaalsete gaaside omadused. Klassikalise termodünaamika põhiseadused, entroopia mõiste, termodünaamika seosed molekulaarkineetilise teooriaga, soojusmasinate omadused.",
+  "topics": [
+    {
+      "title": "Sissejuhatus.Liikumisvõrrandid. Kulgliikumise ja pöördliikumise kinemaatika. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Dünaamika. Newtoni seadused. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Impulsi ehk liikumishulga jäävus. Massikese. Jõu töö ja võimsus. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kineetiline energia. Potentsiaalne energia. Energia jäävus. Põrked. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülesanded",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Täiendust potentsiaalse energia teemale. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Pöördliikumise dünaamika. Jõumoment, impulssmoment. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Inertsimomendi arvutamise meetodid. Vaba pöörlemine. Inertsitensor. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Impulssmomendi jäävus. Liikumine mitteinertsiaalsete taustsüsteemide suhtes. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülesanded",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Rõhk gaasides ja vedelikes. Pinged tahketes materjalides. Hüdrostaatika. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Hüdrodünaamika. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "31.03.2026\t1\tkontrolltöö 1",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Võnkumised. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Võnkumised. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Lained. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Lained. Marko Vana",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülesanded",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Soojusõpetus ja mehhaanika. Molekulaarkineetiline teooria ja termodünaamika. Temperatuuriskaalad. Temperatuuri mõõtmine. Soojuspaisumine. Soojus ja siseenergia. Arvo Kikas",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Soojusülekanne. Termodünaamika I printsiip. Sissejuhatus gaaside kineetilisse teooriasse. Arvo Kikas",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Energia ja vabadusastmed. Ideaalse gaasi siseenergia ja soojusmahtuvus. Adiabaatiline protsess. Ideaalse gaasi töö. Arvo Kikas",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Osakeste jaotus kiiruste järgi. Jaotusfunktsioon. Jaotus energiate järgi. Baromeetriline valem. Boltzmanni jaotus. Maxwelli-Boltzmanni seadus. Arvo Kikas",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülesannnete lahendamine",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülekandenähtused. Soojusjuhtivuse võrrand. Soojusjuhtivus metallides. Arvo Kikas",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Reaalsed gaasid ja van der Waalsi võrrand. Faasidiagrammid. Arvo Kikas",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Termodünaamika. Pööratavad ja mittepööratavad protsessid. Ringprotsess. Carnot' protsess. Arvo Kikas",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Soojusmasinad. Entroopia. Arvo Kikas",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülesanded",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Kokkuvõte kursusest",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/MaterialScience1.md",
+    "SuunaMoodulid/physics1.md"
+  ],
+  "hasSyllabus": true
+}

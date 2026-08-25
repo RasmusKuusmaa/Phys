@@ -1,0 +1,108 @@
+{
+  "code": "LOFY.01.123",
+  "name": {
+    "et": "Füüsika praktikum II - elekter ja magnetism",
+    "en": "Physics practical II — electricity and magnetism"
+  },
+  "eap": 5,
+  "modules": [
+    "3.1"
+  ],
+  "status": {
+    "physics": "mandatory",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LTFY.01.011"
+  ],
+  "aims": "Anda füüsikaüliõpilastele teadmised ja oskused enamlevinud elektrimõõteriistade kasutamiseks ning elektri- ja magnetismialaste eksperimentide teostamiseks.",
+  "outcomes": [
+    "Praktikumi läbinud üliõpilane on võimeline:",
+    "1. välja tooma elektrialase ohutustehnika põhiteadmiseid;",
+    "2. selgitama elektromagnetismi seadusi ja põhitõdesid;",
+    "3. selgitama põhiliste elektrimõõduriistade ehitust ja tööpõhimõtet;",
+    "4. kasutama teadustöös, elektrotehnikaga tegelevates ettevõtetes jne enim tarvitatavaid elektrimõõduriistu (ampermeetrid, voltmeetrid, multimeetrid, ostsilloskoobid jne);",
+    "5. koostama elektriliste mõõtmiste läbiviimiseks vajalikke elektriskeeme;",
+    "6. vormistama oma tulemused korrektsesse protokolli, mis sisaldab muuhulgas metroloogilises mõttes usaldusväärseid tulemusi (st tulemused on antud määramatustega) ja tulemuste analüüsi- juhul kui katsetulemused ei lange määramatuse piires teoreetilistest arvutustest leitutega kokku;",
+    "7. esitlema ja kaitsma individuaalselt sooritatud praktikumitööd kaasõppija ja õppejõudude ees."
+  ],
+  "summary": "Elektrimõõteriistade kasutamist ning tuntumaid elektri- ja magnetismialaseid eksperimentaalmeetodeid käsitlev laboratoorne praktikum. On täienduseks elektri ja magnetismi kursusele. Praktikum hõlmab 14 teemat kokku 33 tööga. Semestri jooksul tuleb sooritada 10 laboratoorset tööd. Registreerumise info Registreerimisele on seatud erireeglid Registreerumise algus 15.05.2026 Registreerumise lõpp 13.09.2026 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 13.09.2026 Registreerumise lõpp külalistele 13.09.2026 Registreeringu tühistamise lõpp 27.09.2026 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Jah On lubatud õppekavale Füüsika, keemia ja materjaliteadus ∙ 144301 Registreerunute arv 37 Osalejate piirarv 42 Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 5 EAP | 130 t Praktikumid 48 t Iseseisev töö 82 t Õpikeskkond Õppevorm Lähiõpe Seos Moodle'iga Ei Kohustuslikud õppematerjalid 1. Elektripraktikumi tööjuhendid. Koost. K. Kudu, IV trükk - Tartu: TRÜ, 1982. 2. Plank T. Elektrimõõtmised. 3. Voolaid H. Mõõtevigade hindamine füüsika praktikumis. II trükk. - Tartu: TRÜ, 1986. 4. Laaneots R. Metroloogia. - Tallinn: TTÜ, 1994. 5. Tammet H. Füüsika praktikum. Metroloogia. - Tallinn: Valgus, 1971. 6. Saveljev I. Füüsika üldkursus. 2. kd. Elekter. - Tallinn: Valgus, 1978. 7. Halliday D., Resnic R., Walker J. Füüsika põhikursus. 2. kd. - Tartu: EFS, 2012. 8. Alonso M. and Finn E. J. Fundamental University Physics. Vol. 2. Fields and Waves. 2nd ed. - Reading etc.: Addison-Wesley, 1983. Soovituslikud õppematerjalid Loengumaterjalid aines \"Elekter ja magnetism\"",
+  "topics": [
+    {
+      "title": "Elektrostaatika.",
+      "hours": null,
+      "keywords": "1.1. Elektrostaatilise välja uurimine."
+    },
+    {
+      "title": "Laengu diskreetsus ja energia diskreetsus aatomis.",
+      "hours": null,
+      "keywords": "2.1. Elementaarlaengu määramine Millikani meetodil ([1] lk. 28-36). 2.2. Aatomi ergastuspotentsiaali määramine ([1] lk. 37-41) . 2.2.1. Elavhõbeda aatomi ergastuspotentsiaali määramine"
+    },
+    {
+      "title": "Elektroni erilaeng.",
+      "hours": null,
+      "keywords": "3.1. Elektroni erilaengu määramine tema trajektoori parameetrite järgi ([1] lk. 50-56) 3.2. Elektroni erilaengu määramine magnetronimeetodil ([1] lk. 50, 57-62)."
+    },
+    {
+      "title": "Termoemissioon.",
+      "hours": null,
+      "keywords": "4.1. Termoelektronide jaotus kiiruste järgi ([1] lk. 63-72, 73-76). 4.2. Kolme kahendiku seaduse uurimine ([1] lk. 63-72, 76-78) 4.3. Elektroni väljumistöö määramine volframist ([1] lk. 63-72, 79-82)."
+    },
+    {
+      "title": "Termoemissiooni ja pn-siirde rakendusi.",
+      "hours": null,
+      "keywords": "5.1. Vaakum- ja pooljuhtsuunajate uurimine ([1] lk. 85-89) 5.2. Lamptrioodi uurimine ning võimendi põhimõttega tutvumine ([1] lk. 90-104)."
+    },
+    {
+      "title": "Vooluallikas. Elektrivool gaasides ja vedelikes.",
+      "hours": null,
+      "keywords": "6.1. Vooluallika uurimine 6.2. Elektrolüüsi uurimine. 6.3. Õhu elektrijuhtivus ([1] lk. 114-122) ."
+    },
+    {
+      "title": "Magnetelektrilise süsteemi mõõduriist.",
+      "hours": null,
+      "keywords": "7.1. Galvanomeetri uurimine ([1] lk. 123-139."
+    },
+    {
+      "title": "Magnetilise induktsiooni mõõtmine.",
+      "hours": null,
+      "keywords": "8.1. Magnetilise induktsiooni mõõtmine ballistilisel meetodil ([1] lk. 140-146) 8.2. Magnetilise induktsiooni mõõtmine veebermeetriga ([1] lk. 147-152) 8.3. Maa magnetvälja horisontaalkomponendi määramine."
+    },
+    {
+      "title": "Magnetväli keskkonnas.",
+      "hours": null,
+      "keywords": "9.1. Ferromagneetikute uurimine ballistilisel meetodil ([1] lk. 159-169) 9.2. Ferromagneetikute hüstereesi uurimine."
+    },
+    {
+      "title": "Pooljuhtide elektrijuhtivus.",
+      "hours": null,
+      "keywords": "10.1. Pooljuhi keelutsooni laiuse määramine ([1] lk. 175-182, 183-186) 10.2. Pooljuhtide uurimine Halli efekti vahendusel ([1] lk. 175-182, 186-189)."
+    },
+    {
+      "title": "Magnetresonantsid.",
+      "hours": null,
+      "keywords": "11.1. Kompassinõela magnetresonants ([1] lk. 190-195) 11.2. Elektroni paramagnetresonants ja tuuma magnetresonants ([1] lk. 190, 195-199) 11.2.1. Elektroni paramagnetresonants ([1] lk. 190, 199-203)"
+    },
+    {
+      "title": "RC-vooluring.",
+      "hours": null,
+      "keywords": "12.1. Kondensaatori aperioodiline laadumine ja tühjenemine ([1] lk. 207-211) 12.2. Kondensaatorite laadumis- ja tühjenemisprotsesside ostsillografeerimine ([1] lk. 207-208, 211-215). 12.3. Relaksatsioonvõnkumiste uurimine ([1] lk. 207-208, 215-224)."
+    },
+    {
+      "title": "Elektromagnetilised vabavõnkumised.",
+      "hours": null,
+      "keywords": "13.1. Elektromagnetiliste vabavõnkumiste ostsillografeerimine."
+    },
+    {
+      "title": "Elektromagnetilised sundvõnkumised.",
+      "hours": null,
+      "keywords": "14.1. Vahelduvvoolu iseloomustavate suuruste mõõtmine. 14.2. Pinge- ja vooluresonants ([1] lk. 246-254) 14.2.1. Pinge- ja vooluresonants helisagedusel ([1] lk. 257-264)."
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/physics1.md"
+  ],
+  "hasSyllabus": true
+}

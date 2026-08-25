@@ -1,0 +1,118 @@
+{
+  "code": "LOFY.04.004",
+  "name": {
+    "et": "Termodünaamika ja statistiline füüsika",
+    "en": "Thermodynamics and statistical physics"
+  },
+  "eap": 3,
+  "modules": [
+    "2.2"
+  ],
+  "status": {
+    "physics": "elective",
+    "chemistry": "not-in-track",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [
+    "LOFY.04.020",
+    "LTFY.04.013",
+    "LTFY.04.002",
+    "MTMS.02.059",
+    "MTMS.02.049"
+  ],
+  "aims": "Anda ülevaade termodünaamika ja statistilise füüsika alustest.",
+  "outcomes": [
+    "1. Oskab formuleerida ja interpreteerida tasakaalulise termodünaamika põhiprintsiipe.",
+    "2. Valdab tasakaaluliste protsesside kirjeldamise olulisemaid matemaatilisi meetodeid.",
+    "3. Tunneb statistilise füüsika aluseid nii klassikalise kui kvantmehaanilise ansambli korral.",
+    "4. Oskab siduda statistilise füüsika üldisi printsiipe lihtsamate rakendustega (ideaalsed süsteemid)."
+  ],
+  "summary": "Esitatakse termodünaamika põhialused (I ja II seadus, soojusmahtuvus, termodünaamiliste potentsiaalide meetod). Termodünaamiliste süsteemide tasakaalu ja stabiilsuse tingimused. Faasiruumi mõiste. Boltzmann-Maxwelli, Fermi-Dirac'i, Bose-Einsteini jaotusseadused.",
+  "topics": [
+    {
+      "title": "Termodünaamika põhimõisted. Makroskoopiline süsteem. Termodünaamiline süsteem.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Adiabaadid ja adiabaatiline protsess.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Termilised ja kalorilised olekuvõrrandid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ideaalne gaas. Ideaalse gaasi termilised ja kalorilised olekuvõrrandid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Maxwelli seosed.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Termodünaamilise tasakaalu ja selle stabiilsuse tingimused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Faasisiirded. Teist liiki faasisiirded.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Eelmise õppeaasta koduse kontrolltöö ülesannete lahendamine.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Füüsikateooriate makro- ja mikroskoopiline tasand.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Liouville'i teoreem ja ergoodsuse hüpotees.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Mikrokanoonilise jaotuse ja temodünaamika vaheline seos.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Gibbsi kanooniline jaotus ja selle seos termodünaamikaga (jätk).",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Maxwell-Boltzmann jaotus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Statistika tuletamine lähtudes osakeste omadustest: Maxwell-Boltzmann, Bose-Einstein ja Fermi-Dirac jaotused",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Bose-Einstein ja Fermi-Dirac jaotuste omadused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ülesannete lahendamine.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/physics2.md"
+  ],
+  "hasSyllabus": true
+}

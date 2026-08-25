@@ -1,0 +1,39 @@
+{
+  "code": "LOKT.04.004",
+  "name": {
+    "et": "Keskkonnakeemia I",
+    "en": "Environmental chemistry I"
+  },
+  "eap": 3,
+  "modules": [
+    "3.4"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "elective",
+    "materials-science": "not-in-track"
+  },
+  "prerequisiteCodes": [],
+  "aims": "Kursusel antakse ülevaade keskkonnas toimuvatest keemilistest protsessidest ja tutvustatakse saasteainete leviku probleeme vees, õhus ja pinnases. Kursusel tutvustatakse üldiseid ja tuntud saasteaineid keskkonnas, arvutatakse ainete sisaldusi tasakaalulistes protsessides ning arutatakse tulemuste mõju keskkonnaseisundile. Lisaks tutvustatakse globaalseid keskkonnaprobleeme, moodsaid saasteaineid ning veepuhastusmeeetodeid.",
+  "outcomes": [
+    "* argumenteerib saasteainete mõju, eemaldamismeetodite ning kasutuse miniseerimise teemadel;",
+    "* analüüsib valitud saasteaine levikut keskkonnas ning väljendab seda loova kirjaliku tööga;",
+    "* rakendab keemia baasoskusi arvutusülesannetes (kontsentratsioonid, tasakaal, Henry seadus, redoks);",
+    "* analüüsib biolagunemise kompleksparameetrite keemilist sisu;",
+    "* tunneb reoveepuhastuse etappe ja arvutab peamisi reovee koormusnäitajate väärtuseid;",
+    "* annab hinnangu põlevkivi töötlemisega seonduva jäätmekäitluse keskkonnaprobleemidele."
+  ],
+  "summary": "Keskkonnakeemia kursuses käsitletakse ümbritsevas keskkonnas toimuvaid keemilisi ja füüsikalisi protsesse ning vastastoimeid keskkonnas. Samuti käsitletakse õhus, vees ja pinnases toimuvate biokeemiliste protsesside iseloomu, saasteainete levikut ja sellest tulenevaid keskkonnaprobleeme. Keskkonnas toimuvate keemiliste protsesside käsitlemisel pööratakse erilist tähelepanu mikroorganismide vahendusel kulgevatele redoksprotsessidele, saasteainete biolagundatavuse kriteeriumide määramisele ning keskkonna tingimuste hindamisele, et mõista keskkonnas toimuvate integratiivsete protsesside olemust. Juba ammutuntud ja läbiuuritud saasteainete käsitlemisel arvutatakse tasakaalulisi kontsentratsioone, õkotoksikoloogilisi näitajaid ning töötlemisparameetreid (3 kohustuslikku kodutööd) ning arutatakse arvutustulemuse mõju keskkonnale. Lisaks viimastele diskuteeritakse globaalsete keskkonnaprobleemide ning moodsate saasteainete leviku ja mõju üle, et arendada erialalist teemapõhist arutelu- ja analüüsioskust. Viimast hinnatakse ka eksamil. Kursuse käigus koostab üliõpilane mõistekaardi, mille koostamiseks järjestatatakse loovalt, loogiliselt ja jälgitavalt läbianalüüsitud info. Mõistekaardi koostamisel hinnatakse ka selle tehnilist lahendust. Registreerumise info Registreerumise tähtajad on sisestamata. Õppetöö vormid ja mahud tundides Maht 3 EAP | 78 t Seminarid 32 t Iseseisev töö 46 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Ei Õpikeskkond https://moodle.ut.ee/course/view.php?id=1441 Kohustuslikud õppematerjalid 1. Manahan S.E., Environmental Chemistry, Lewis Publ., 1994 Soovituslikud õppematerjalid Info on leitav kursuse Moodle lehelt",
+  "topics": [
+    {
+      "title": "Info kursuse Moodle lehel.",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/chemistry2.md"
+  ],
+  "hasSyllabus": true
+}

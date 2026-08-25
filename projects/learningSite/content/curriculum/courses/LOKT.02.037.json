@@ -1,0 +1,193 @@
+{
+  "code": "LOKT.02.037",
+  "name": {
+    "et": "Füüsikaline keemia 1. osa",
+    "en": "Physical chemistry, part 1"
+  },
+  "eap": 6,
+  "modules": [
+    "2.3",
+    "2.5",
+    "3.8"
+  ],
+  "status": {
+    "physics": "not-in-track",
+    "chemistry": "mandatory",
+    "materials-science": "mandatory"
+  },
+  "prerequisiteCodes": [
+    "LOFY.01.002",
+    "LOFY.01.091"
+  ],
+  "aims": "Loeng annab teoreetilise baasi keemiliste protsesside termodünaamiliste seaduspärasuste mõistmiseks.",
+  "outcomes": [
+    "* Tunneb ideaalsete ja reaalsete gaaside omadusi ja oskab reaalsete gaaside ning vedelike käitumist seletada van der Waalsi olekuvõrrandi alusel.",
+    "* Tunneb termodünaamika seadusi ja olekufunktsioone ning oskab kasutada termodünaamilisi suurusi erinevate süsteemide kirjeldamiseks.",
+    "* Tunneb keemilise tasakaalu ja faasilise tasakaalu termodünaamilist tagapõhja.",
+    "* Tunneb lihtsate keemiliste reaktsioonide diferentsiaalseid ja integraalseid kiirusevõrrandeid ja oskab matemaatiliselt kirjeldada mõningate keerukamate reaktsioonide seaduspärasusi (jadareaktsioon, pöörduv reaktsioon, paralleelne reaktsioon, statsionaarse kontsentratsiooni meetod).",
+    "* Tunneb reaktsiooni järgu ja kiiruse määramise meetodeid (sh algkiiruste meetod ja järgu vähendamise meetod) ning oskab eksperimentaalse kineetilise võrrandi alusel ennustada reaktsiooni mehhanismi.",
+    "* Tunneb aktiivse vaheoleku teooria põhialuseid.",
+    "* Oskab kirjeldada faaside tasakaalu ja analüüsida ühe-, kahe- ja kolmekomponentsete süsteemide olekudiagramme.",
+    "* Oskab kirjeldada ideaalsete ja mitteideaalsete molekulaarsete lahuste omadusi.",
+    "* Oskab ülesannete lahendamisel kasutada tabelarvutusprogramme nii arvutusteks kui ka graafikute koostamiseks."
+  ],
+  "summary": "Loengukursustes käsitletakse keemiliste ja füüsikaliste protsesside kõige üldisemaid seaduspärasusi: soojusefekte ja tööd, protsessi isevoolu kulgemise ja tasakaaluoleku termodünaamilisi tingimusi, faaside tasakaalu ja faasiliste üleminekute seaduspärasusi. Vaadeldakse molekulaarsete lahuste moodustumise tingimusi ja omadusi. Registreerumise info Registreerumise algus 15.05.2026 Registreerumise lõpp 30.08.2026 Esimese semestri üliõpilaste õppeainetele registreerumise tähtaeg 14.09.2026 Registreerumise lõpp külalistele 14.09.2026 Registreeringu tühistamise lõpp 14.09.2026 Kas registreerimise järjekord lubatud? Ei Kas rühma valimine on avatud? Ei Registreerunute arv 37 Osalejate piirarv - Osalejate miinimumarv 5 Õppetöö vormid ja mahud tundides Maht 6 EAP | 156 t Loengud 40 t Seminarid 24 t Iseseisev töö 92 t Õpikeskkond Õppevorm Põimõpe Seos Moodle'iga Ei Õpikeskkond http://moodle.ut.ee Kohustuslikud õppematerjalid 1. P. Atkins, Physical Chemistry, Oxford, Oxford University Press, 1994 (põhiõpik) ja uuemad väljaanded. Soovituslikud õppematerjalid 2. R. Chang, Physical Chemistry with Applications to Biological Systems, Collier Macmillan Publ., London, 1977. 3. U. Palm, V. Past, Füüsikaline keemia, Tln, 1974. (eestikeelse sõnavara ja terminoloogia toetuseks) 4. K.J.Laidler, J.H. Meiser, B. C. Sanctuary, Physical Chemistry, Houghton Mifflin Company, Boston, 2003 (See on raksem õpik, kuid annab füüsikalise keemia alustaladest põhjalikumad teadmised. Kõlbab ka varasem väljaanne:Laidler, Meiser, Physical Chemistry)",
+  "topics": [
+    {
+      "title": "Sissejuhatus",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Gaaside kriitilised parameetrid, aine superkriitiline olek, taandatud parameetrid ja vastavate olekute printsiip",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Termodünaamilised süsteemid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Gaaside molekulaarkineetiline teooria. Siseenergia ja entalpia molekulaarkineetiline tagapõhi. Isobaarilised, isokoorilised, isotermilised ja adiabaatilised protsessid",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Termodünaamika II seadus. Ringprotsessid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Termodünaamika I seadus, siseenergia, töö, soojusefekt, entalpia",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ringprotsessid. Entroopia",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Termodünaamika III seadus. Termodünaamilised potentsiaalid kui protsessi suuna kriteeriumid, Gibbsi ja Helmholzi energia. \"Vaba\" ja \"seotud\" energia.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Gibbsi energia sõltuvus rõhust. Gibbsi energia sõltuvus temperatuurist. Gaaside ja vedelike siserõhk.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ringprotsessid ja entroopia. Termodünaamilised potentsiaalid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Keemilise tasakaalu üldised alused. Keemilise tasakaalu termodünaamilised tingimused. Tõeline termodünaamiline tasakaalukoefitsient ja tema teised väljendusviisid.Tasakaalukoefitsient.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Reaktsiooni tasakaalu mõjutavad parameetrid. Partsiaalsed molaarsed suurused.Reaktsiooni isotermi võrrand.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Keemiline tasakaal, tasakaalukoefitsient ja vabaenergia.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Reaktsiooni entalpia, entroopia ja Gibbsi energia sõltuvus temperatuurist",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Reaktsiooni kiirus, järk ja molekulaarsus. Lihtreaktsioonide kineetilised võrrandid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Pöörduvad, paralleelsed ja jadareaktsioonid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Statsionaarse kontsentratsiooni meetod. Reaktsiooni järk ja mehhanism",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Reaktsiooni kiirus ja kiiruskonstant",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Reaktsiooni järgu määramine. Algkiiruste meetod. Reaktsiooni mehhanism.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Reaktsiooni kiiruse temperatuurisõltuvus, aktiveerimisenergia.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Aktiivsete põrgete teooria ja absoluutsete kiiruste teooria.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Reaktsiooni kiiruse sõltuvus temperatuurist. Aktivatsioonienergia",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Faasilise tasakaalu tingimus. Clapeyroni võrrand ja Clapeyroni-Clausiuse võrrand. Individuaalsete ainete olekudiagrammid. Enantiotroopsed ja monotroopsed faasisiirded.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Molekulaarsed lahused. Lahuste moodustumise termodünaamika. Binaarsete süsteemide olekudiagrammid. Konovalovi seadused. Destillatsioon.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Gibbsi-Duhemi võrrand. Ideaalsed lahused. Daltoni seadus. Raoulti seadus. Reaalsed lahused, kõrvalekalded Raoulti seadusest, molekulaarsete lahuste aktiivsus. Lõpmata lahjad lahused, Henry seadus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ühekomponentsed süsteemid: Clausius-Clapeyroni võrrand. Lahuste koostis ja partsiaalne moolruumala",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Lahuste kolligatiivsed omadused: suhteline aururõhu langus, ebulliomeetria, krüomeetria, osmootne rõhk, Donnani membraantasakaal. Isotooniline koefitsient. Jaotusseadus.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Ideaalsed ja reaalsed lahused. Lahuste kolligatiivsed omadused.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Gibbsi faaside reegel. Kangi reegel. Ühe-, kahe-ja kolmekomponentsete süsteemide olekudiagrammid.",
+      "hours": null,
+      "keywords": ""
+    },
+    {
+      "title": "Faaside tasakaaludiagrammide analüüs",
+      "hours": null,
+      "keywords": ""
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "SuunaMoodulid/MaterialScience1.md",
+    "SuunaMoodulid/chemistry1.md"
+  ],
+  "hasSyllabus": true
+}

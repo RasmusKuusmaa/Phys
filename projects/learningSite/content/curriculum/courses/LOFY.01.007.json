@@ -1,0 +1,101 @@
+{
+  "code": "LOFY.01.007",
+  "name": {
+    "et": "Elekter ja magnetism",
+    "en": "Electricity and magnetism"
+  },
+  "eap": 6,
+  "modules": [
+    "2.1",
+    "3.6",
+    "3.7"
+  ],
+  "status": {
+    "physics": "mandatory",
+    "chemistry": "not-in-track",
+    "materials-science": "elective"
+  },
+  "prerequisiteCodes": [
+    "LOFY.01.121",
+    "LOFY.01.002",
+    "LOFY.01.091"
+  ],
+  "aims": "Anda matemaatilise füüsika meetoditele tuginev süstemaatiline ülevaade elektromagnetnähtuste kirjeldamisest nelja väljavektori (E, D, B, H) abil, käsitledes elektromagnetvälja staatilisi ja dünaamilisi avaldumisvorme ning vastastikmõju ainega. Tutvustada elektromagnetismi olulisemaid füüsikalis-tehnilisi rakendusi.",
+  "outcomes": [
+    "1. Valdab elektromagnetvälja karakteriseerimiseks vaakumis ja aines vajalike mõistete aparaati (vektorid E, D, P, B, H ja M, nende otstarve ning omavahelised seosed, elektri- ja magnetvälja potentsiaalid, aine läbitavused ning vastuvõtlikkused);",
+    "2. Oskab kuni kolmemõõtmeliste ja erineva geomeetriaga väljatekitajate (punkt, sirglõik, ring, tasand, sfäär) korral kirjeldada tekkivat elektri- või magnetvälja jõujoonte abil; oskab iseloomustada väljavektori (E või B) sõltuvust süsteemi parameetritest;",
+    "3. Suudab formuleerida Maxwelli võrrandeid integraal- ja diferentsiaalkujul, oskab selgitada seejuures kasutatavaid matemaatilisi võtteid (suuruste joon-, pind- ja ruumtihedused, joon- ja pindintegraalid, gradient, voog, divergents, tsirkulatsioon, rootor) ning seostada Maxwelli võrrandeid konkreetsete elektromagnetnähtustega;",
+    "4. Oskab arvutada voolutugevusi hargnevate alalis- ja vahelduvvooluahelate eri osades, arvutada pingeid nende ahelate konkreetsetel komponentidel ja neis komponentides eralduvaid võimsusi; oskab joonistada etteantud parameetritega vahelduvvooluahela faasordiagrammi;",
+    "5. Suudab selgitada rakenduslikult oluliste elektromagnetiliste materjalide (elektrotehnilised metallid, dielektrikud, piesoelektrikud, ferromagneetikud, elektrolüüdid, pooljuhid, ülijuhid, gaaslahendusplasma) ning seadmete (kondensaator, induktiivpool, elektromagnet, võnkering, trafo, elektrimootor, generaator, termopaar, piesoandurid ja -täiturid, Halli andur, massispektromeeter, elektronlääts, pooljuhtlülitused, mäluseadmed) funktsioneerimist;",
+    "6. Suudab lahendada elektromagnetismi-alaseid ülesandeid aine seminariõppuste kavaga määratud tasemel."
+  ],
+  "summary": "Aine algab ülevaatega elektromagnetismi põhimõistetest. Seejärel käsitletakse alalis- ja vahelduvvoolu, elektro- ja magnetostaatikat ning muutuvat elektromagnetvälja. Vaadeldakse aine polariseerumist ja magneetumist ning kõige lõpuks eriotstarbelisi elektromagnetilisi materjale ja -seadmeid.",
+  "topics": [
+    {
+      "title": "Ülevaade töökorraldusest",
+      "hours": "4 h",
+      "keywords": "Aines esitatavad nõudmised. Eksamitöö struktuur. Kolmest tarvitist koosneva, nii jada- kui rööpühendust sisaldava vooluahela ülesanne põhikooli tasemel (eeldades takistuste konstantsust), gümnaasiumi tasemel (arvestades takistuse sõltuvust temperatuurist) ja ülikooli tasemel (arvestades võimalikke faasinihkeid)."
+    },
+    {
+      "title": "Elektromagnetismi põhimõisted",
+      "hours": "iseseisev töö e-õppes",
+      "keywords": "Laengu mõiste. Kahte liiki elektrilaengud. Elementaarlaeng. Laengu jäävus. Indutseeritud laengud. Elektrivool, voolutugevus, ühikud amper ja kulon. Voolu suuna sõltumatus laengukandjate märgist. Coulomb'i seadus. Punktlaeng. Elektrostaatiline väli. Püsimagnetite ja voolude vastastikmõjud. Ampere'i seadus. Elektrivälja tugevus E ja magnetinduktsioon B. Punktlaengu väljatugevus ja sirgjuhtme magnetinduktsioon. Välja jõujooned. Töö elektriväljas, pinge ja potentsiaal. Jõu, vooluelemendi ning E- ja B-vektorite suunad. Elektrostaatilise välja konservatiivsus ja potentsiaalsus ning magnetvälja solenoidaalsus, selle põhjused. Võrdetegurid Coulomb'i ja Ampere'i seadustes. Elektrikonstant ja magnetkonstant. Elektrinihe D ja magnetvälja tugevus H. Lorentzi jõud. Pinge magnetväljas liikuva juhtmelõigu otstel. Pööriselektriväli. Mõisted: elektromotoorjõud, elektrimahtuvus, magnetvoog ja induktiivsus. Esimene võimalus läbida vastavate teadmiste kontroll avaneb kolmapäeval, 23.09.2026 (FMP taseme kontrolltöö)"
+    },
+    {
+      "title": "Alalisvool ja elektriahelad",
+      "hours": "4 h",
+      "keywords": "Juhid, pooljuhid ja mittejuhid. Laengukandjate triivi kiirus ja liikuvus. Elektrivool juhtides. Ohmi seadus. Takistuse sõltuvus juhi mõõtmetest ja temperatuurist. Aine eritakistus ja erijuhtivus. Juhtide jada- ning rööpühendus. Elektrivoolu töö ja võimsus. Vooluallika elektromotoorjõud ja sisetakistus. Vooluallika tühiseis ja lühis. Pingegeneraator ja voolugeneraator. Thevenin'i ja Norton'i generaatorid. Kirchhoffi reeglid ja superpositsiooniteoreem."
+    },
+    {
+      "title": "Vahelduvvool elektriahelates",
+      "hours": "4 h",
+      "keywords": "Amplituud- hetk- ja efektiivväärtused. Aktiiv-, induktiiv- ja mahtuvustakistus. Faasinihked pinge ja voolutugevuse vahel. Faasordiagrammi meetod ja kompleksmeetod. RLC-ahela kogutakistus. Vahelduvvoolu võimsus ja võimsustegur. Pingeresonants ja vooluresonants. Magnetahelad. Trafo."
+    },
+    {
+      "title": "Elektrostaatika",
+      "hours": "8 h",
+      "keywords": "Mõõtühikute süsteem CGSE. Coulomb'i seadus vektorkujul. Elektrivälja tugevuste vektoriaalne superpositsioon. Laengu joon-, pind- ja ruumtihedused. Ühtlaselt laetud ketta ja lõpmatu tasandi elektriväli. Väli kahe laetud tasandi vahel. Radiaalne elektriväli silindrilises süsteemis. Elektrostaatiline induktsioon. Varjestus. Potentsiaali skalaarne superpositsioon. Nabla-vektor. Potentsiaali gradient. Gaussi teoreem E- ja D-vektorite kohta, selle rakendused. Pind- ja ruumlaenguga kera väli, elektriväli teravike ümber. Van de Graaffi generaator. Peegelkujutiste meetod. Kondensaatori mahtuvus. Kondensaatorite jada- ning rööpühendus. Elektrofoor. Irdjuhi potentsiaal ja mahtuvus. Elektrivälja energia ja selle ruumtihedus."
+    },
+    {
+      "title": "Magnetostaatika",
+      "hours": "8 h",
+      "keywords": "Vooluelemendi magnetväli üldjuhul. Biot'-Savart'i seadus. Vektorite B ja H vektoriaalne superpositsioon. Ringjuhtme, sirgjuhtme ja solenoidi magnetväljad. Vektorite B ja H tsirkulatsioon. Tsirkulatsiooniteoreem. Homogeenne magnetväli pikas solenoidis ja toroidis. Divergents ja rootor. Voolutugevus kui voolutiheduse vektori voog. Pidevuse võrrand. Magnetvälja vektorpotentsiaal."
+    },
+    {
+      "title": "Elektromagnetväli",
+      "hours": "8 h",
+      "keywords": "Lorentzi jõud ja pööriselektrivälja tugevus. Magnetvoog ja induktsiooni elektromotoorjõud. Faraday-Henry induktsiooniseadus. Lenzi reegel. Pöörisvoolud. Endainduktsioon ja induktiivsus. Pinge ja voolutugevuse ajalised sõltuvused RC- ja RL-ahelates. Vastastikune induktiivsus. Magnetvälja energia ja selle ruumtihedus. Nihkevoolu läbiminek kondensaatorist. Maxwelli võrrandid lõplikul integraal- ja. diferentsiaalkujul. Maxwelli võrrandite seostamine konkreetsete elektromagnetnähtustega. Võnkering. Hertzi dipool. Elektromagnetlainete tekkimine. Lainevõrrand ja selle tasalaine-lahend. Väljavektorite paigutus elektromagnetlaines. Elektromagnetvälja energiavoog ja Poynting'i vektor. EM välja mass, impulss ja kiirgusrõhk."
+    },
+    {
+      "title": "Dielektrilised materjalid",
+      "hours": "4 h",
+      "keywords": "Dielektrik elektriväljas. Dipoolide elektriväljad, neist moodustuv aine väli. Dipoolmoment. Dipooli pöörav jõumoment. Dipooli energia elektriväljas. Polaarsed ja mittepolaarsed molekulid. Polarisatsioonivektor. Molekuli polariseeritavus. Aine dielektriline vastuvõtlikkus. Piesoelektrikud ja ferroelektrikud."
+    },
+    {
+      "title": "Üksikute laengukandjate liikumine elektromagnetväljas",
+      "hours": "2 h",
+      "keywords": "Elektrivälja ning magnetvälja mõju laengukandja liikumisele. Laengukandjate võimalikud trajektoorid. Magnetilised läätsed. Mass-spektromeetria. Magnetron-generaator. Halli efekt. Maa magnetväli."
+    },
+    {
+      "title": "Magnetmaterjalid",
+      "hours": "4 h",
+      "keywords": "Aine magneetumine magnetväljas. Demagneetimistegur. Aine magnetiliste omaduste voolupõhine (SI) ja poolusepõhine (CGSM) käsitlus. Voolukontuuri magnetmoment. Aineosakese magnetmoment ja seda pöörav jõumoment. Osakese energia magnetväljas. Magneetumusvektor, magnetiline vastuvõtlikkus. Bohri magneton. Güromagnetiline kordaja. Tsüklotron-liikumine. Dia-, para- ja ferromagneetikud. Ferromagneetiku hüstereesisilmus. Küllastus, jääkinduktsioon ja koertsitiivsus. Magnetmälu omavad ja mitteomavad materjalid. Jõujoonte murdumine dielektriku või magneetiku ja väliskeskkonna lahutuspinnal."
+    },
+    {
+      "title": "Elektrivool ja elektromagnetlained aines",
+      "hours": "4 h",
+      "keywords": "Laengukandjate Fermi lainevektor, kiirus ja energia. Ülijuhtivus. Ülijuht magnetväljas, ülijuhtide liigid. Aine vahelduvvoolu-aseskeem. Juhtivusvool ja nihkevool aines. Aine dielektrilise läbitavuse sõltuvus sagedusest. Elektromagnetlainete dispersioon ja neeldumine. Kõrgsageduslik vahelduvvool ja skin-efekt. Kaabli pikkusühiku lainetakistus. Lainejuhid ja nende omamoodid."
+    },
+    {
+      "title": "Eriotstarbelised elektrimaterjalid ja -seadmed",
+      "hours": "iseseisev töö",
+      "keywords": "Elektrimootorid ja generaatorid. Elektrienergia jaotusvõrk. Väljumistöö ja kontaktpotentsiaalide vahe. Termoelektrilised nähtused. Termopaar. Tahkiste tsooniteooria alused. Pooljuhi elektron- ja aukjuhtivus. pn-siire, selle tsooniskeem ja voltampertunnusjoon. Päri- ja vastupinge. Alaldi, fotodiood, solaarrakk, valgusdiood ja pooljuhtlaser. Bipolaartransistor, väljatransistor ja MOP-transistor. Elektrivool gaasides. Huum-, kaar-, säde- ja koroonalahendus, nende rakendused. Elektrivool vedelikes. Elektrolüüs ja selle rakendused. Lisaseminarid (8 h): Mittekohustuslikes lisaseminarides 09.12, 10.12, 16.12 ja 17.12 esitletakse rühmatöid, mis on pühendatud eksami väljundiliste ülesannete lahendamise oskuse omandamisele ning annavad osalejatele lisapunkte."
+    }
+  ],
+  "conceptIds": [],
+  "sourceFiles": [
+    "ErialaMoodulid/MaterialScience2.md",
+    "SuunaMoodulid/physics1.md"
+  ],
+  "hasSyllabus": true
+}
