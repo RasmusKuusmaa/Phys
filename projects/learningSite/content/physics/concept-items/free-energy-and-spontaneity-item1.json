@@ -1,0 +1,56 @@
+{
+  "id": "free-energy-and-spontaneity-item1",
+  "conceptId": "free-energy-and-spontaneity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Ice melting at room temperature absorbs heat from its surroundings, yet happens on its own. How is this consistent with spontaneity?",
+    "et": "Jää sulamine toatemperatuuril neelab ümbrusest soojust, ometi toimub see iseenesest. Kuidas see iseeneslikkusega kokku sobib?",
+    "sourceHash": "55e4daccaaa2503c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The entropy increase outweighs the enthalpy cost at that temperature, making the free energy change negative",
+        "et": "Entroopia kasv kaalub sel temperatuuril üles entalpiakulu, muutes vabaenergia muudu negatiivseks",
+        "sourceHash": "860f90a8eae14fdf",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It cannot be spontaneous, since spontaneous processes must release heat",
+        "et": "See ei saa olla iseeneslik, sest iseeneslikud protsessid peavad soojust vabastama",
+        "sourceHash": "fdf2e611c52e1164",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "free-energy-and-spontaneity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Melting is spontaneous at every temperature, since spontaneity is a property of water alone",
+        "et": "Sulamine on iseeneslik igal temperatuuril, sest iseeneslikkus on ainult vee omadus",
+        "sourceHash": "005ef28fc7490b10",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "free-energy-and-spontaneity-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is spontaneous only because it happens quickly enough to observe",
+        "et": "See on iseeneslik ainult seetõttu, et toimub piisavalt kiiresti, et seda näha",
+        "sourceHash": "3e45ed1a8e66e975",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "free-energy-and-spontaneity-m2"
+    }
+  ]
+}

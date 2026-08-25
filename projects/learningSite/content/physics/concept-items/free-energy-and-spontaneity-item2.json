@@ -1,0 +1,56 @@
+{
+  "id": "free-energy-and-spontaneity-item2",
+  "conceptId": "free-energy-and-spontaneity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A reaction has a large negative Gibbs free energy change but does not appear to proceed at all at room temperature. What does this tell you?",
+    "et": "Reaktsiooni Gibbsi vabaenergia muut on suur negatiivne, kuid toatemperatuuril ei näi see üldse kulgevat. Mida see näitab?",
+    "sourceHash": "8eaa7eb588ddfeff",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is thermodynamically favourable but kinetically blocked — free energy says nothing about rate",
+        "et": "See on termodünaamiliselt soodne, kuid kineetiliselt takistatud — vabaenergia ei ütle kiiruse kohta midagi",
+        "sourceHash": "8874b894ced92965",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The sign must be wrong, since a negative free energy change guarantees a fast reaction",
+        "et": "Märk peab olema vale, sest negatiivne vabaenergia muut tagab kiire reaktsiooni",
+        "sourceHash": "7a144f10f8579756",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "free-energy-and-spontaneity-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The reaction must actually be endothermic and so cannot occur",
+        "et": "Reaktsioon peab tegelikult olema endotermiline ja seetõttu ei saa toimuda",
+        "sourceHash": "9a955086dbced939",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "free-energy-and-spontaneity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Spontaneity cannot depend on temperature, so the measurement must be faulty",
+        "et": "Iseeneslikkus ei saa temperatuurist sõltuda, seega peab mõõtmine olema vigane",
+        "sourceHash": "8b3da746a298465d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "free-energy-and-spontaneity-m3"
+    }
+  ]
+}
