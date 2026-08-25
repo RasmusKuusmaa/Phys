@@ -611,35 +611,35 @@ fields to Maxwell's equations with no potential, no Gauss, no Ampère.
 Module `mechanics`. Fills the L1 gaps a first-year course assumes, then the
 analytical mechanics that follows Lagrangian.
 
-- [ ] Add terminology for rotational and analytical mechanics
+- [x] Add terminology for rotational and analytical mechanics
   `content: add mechanics terminology`
-- [ ] `projectile-motion` (L1) — prereq `displacement-velocity-acceleration`
+- [x] `projectile-motion` (L1) — prereq `displacement-velocity-acceleration`
   `content: add projectile motion concept`
-- [ ] `uniform-circular-motion` (L1) — prereq `displacement-velocity-acceleration`
+- [x] `uniform-circular-motion` (L1) — prereq `displacement-velocity-acceleration`
   `content: add uniform circular motion concept`
-- [ ] `centripetal-force` (L1) — prereq `uniform-circular-motion`, `newtons-second-law`
+- [x] `centripetal-force` (L1) — prereq `uniform-circular-motion`, `newtons-second-law`
   `content: add centripetal force concept`
-- [ ] `friction` (L1) — prereq `newtons-second-law`
+- [x] `friction` (L1) — prereq `newtons-second-law`
   `content: add friction concept`
-- [ ] `static-equilibrium` (L1) — prereq `newtons-first-law`, `torque-and-angular-momentum`
+- [x] `static-equilibrium` (L1) — prereq `newtons-first-law`, `torque-and-angular-momentum`
   `content: add static equilibrium concept`
-- [ ] `centre-of-mass` (L2) — prereq `conservation-of-momentum`
+- [x] `centre-of-mass` (L2) — prereq `conservation-of-momentum`
   `content: add centre of mass concept`
-- [ ] `elastic-and-inelastic-collisions` (L2) — prereq `conservation-of-momentum`,
+- [x] `elastic-and-inelastic-collisions` (L2) — prereq `conservation-of-momentum`,
       `conservation-of-energy`
   `content: add collisions concept`
-- [ ] `rolling-motion` (L2) — prereq `rotational-kinetic-energy`
+- [x] `rolling-motion` (L2) — prereq `rotational-kinetic-energy`
   `content: add rolling motion concept`
-- [ ] `damped-oscillations` (L2) — prereq `simple-harmonic-motion`
+- [x] `damped-oscillations` (L2) — prereq `simple-harmonic-motion`
   `content: add damped oscillations concept`
-- [ ] `keplers-laws` (L2) — prereq `newtonian-gravitation`
+- [x] `keplers-laws` (L2) — prereq `newtonian-gravitation`
   `content: add keplers laws concept`
-- [ ] `non-inertial-frames-and-fictitious-forces` (L3) — prereq `newtons-second-law`
+- [x] `non-inertial-frames-and-fictitious-forces` (L3) — prereq `newtons-second-law`
   `content: add non inertial frames concept`
-- [ ] `central-force-motion-and-orbits` (L3) — prereq `newtonian-gravitation`,
+- [x] `central-force-motion-and-orbits` (L3) — prereq `newtonian-gravitation`,
       `torque-and-angular-momentum`
   `content: add central force motion concept`
-- [ ] `hamiltonian-mechanics` (L3) — prereq `lagrangian-mechanics`
+- [x] `hamiltonian-mechanics` (L3) — prereq `lagrangian-mechanics`
   `content: add hamiltonian mechanics concept`
 
 ### Phase 17 — Waves and sound
