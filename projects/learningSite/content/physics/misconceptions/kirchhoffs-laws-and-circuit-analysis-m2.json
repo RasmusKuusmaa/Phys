@@ -1,0 +1,10 @@
+{
+  "id": "kirchhoffs-laws-and-circuit-analysis-m2",
+  "conceptId": "kirchhoffs-laws-and-circuit-analysis",
+  "text": {
+    "en": "Current takes only the path of least resistance and ignores the other branches entirely.",
+    "et": "Vool valib ainult väikseima takistusega tee ja ignoreerib teisi harusid täielikult.",
+    "sourceHash": "78cc7c3a338e7631",
+    "stale": false
+  }
+}

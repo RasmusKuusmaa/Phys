@@ -1,0 +1,10 @@
+{
+  "id": "kirchhoffs-laws-and-circuit-analysis-m3",
+  "conceptId": "kirchhoffs-laws-and-circuit-analysis",
+  "text": {
+    "en": "The voltage law only works for simple single-loop circuits, not for networks with many branches.",
+    "et": "Pingeseadus kehtib ainult lihtsate ühe kontuuriga ahelate, mitte paljude harudega võrkude kohta.",
+    "sourceHash": "1c5a35ab031cd237",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "kirchhoffs-laws-and-circuit-analysis-item1",
+  "conceptId": "kirchhoffs-laws-and-circuit-analysis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Three wires meet at a junction. Currents of 2 A and 3 A flow in. What flows out along the third wire?",
+    "et": "Kolm juhet kohtuvad sõlmpunktis. Sisse voolavad voolud 2 A ja 3 A. Mis voolab välja kolmandat juhet mööda?",
+    "sourceHash": "14d710ea4d8fb3bc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "5 A, because charge is conserved and cannot accumulate at the junction",
+        "et": "5 A, sest laeng säilib ega saa sõlmpunkti koguneda",
+        "sourceHash": "0cc78e8c9075d772",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Less than 5 A, because some current is consumed at the junction",
+        "et": "Alla 5 A, sest osa voolust tarbitakse sõlmpunktis ära",
+        "sourceHash": "0571c15681199ccf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "kirchhoffs-laws-and-circuit-analysis-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "3 A, because current follows only the path of least resistance",
+        "et": "3 A, sest vool järgib ainult väikseima takistusega teed",
+        "sourceHash": "4a57f906f193c704",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "kirchhoffs-laws-and-circuit-analysis-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be determined, since the junction rule applies only to single loops",
+        "et": "Seda ei saa määrata, sest sõlmpunkti reegel kehtib ainult ühe kontuuri kohta",
+        "sourceHash": "0de51c1f834d5e80",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "kirchhoffs-laws-and-circuit-analysis-m3"
+    }
+  ]
+}

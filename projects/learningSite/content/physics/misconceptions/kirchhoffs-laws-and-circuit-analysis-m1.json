@@ -1,0 +1,10 @@
+{
+  "id": "kirchhoffs-laws-and-circuit-analysis-m1",
+  "conceptId": "kirchhoffs-laws-and-circuit-analysis",
+  "text": {
+    "en": "Current is used up as it flows through components, so less comes out of a resistor than goes in.",
+    "et": "Vool kulub komponentide läbimisel ära, seega tuleb takistist välja vähem kui sisse läks.",
+    "sourceHash": "39de7827afc62482",
+    "stale": false
+  }
+}

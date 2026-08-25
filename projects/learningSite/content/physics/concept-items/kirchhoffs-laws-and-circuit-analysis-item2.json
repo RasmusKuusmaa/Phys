@@ -1,0 +1,56 @@
+{
+  "id": "kirchhoffs-laws-and-circuit-analysis-item2",
+  "conceptId": "kirchhoffs-laws-and-circuit-analysis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two resistors of different value are connected in parallel across a battery. How does the current divide?",
+    "et": "Kaks erineva väärtusega takistit on ühendatud rööbiti aku klemmidele. Kuidas vool jaguneb?",
+    "sourceHash": "6dd698ae1d29bea3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both branches carry current, with more through the lower resistance and less through the higher",
+        "et": "Vool läbib mõlemat haru, väiksema takistuse kaudu rohkem ja suurema kaudu vähem",
+        "sourceHash": "8b11bd669a8e0711",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "All of it goes through the lower resistance and none through the higher",
+        "et": "Kogu vool läbib väiksemat takistust ja suuremat ei läbi üldse",
+        "sourceHash": "914aa92411c39909",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "kirchhoffs-laws-and-circuit-analysis-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It splits equally, then part of it is consumed inside each resistor",
+        "et": "See jaguneb võrdselt ja seejärel tarbitakse osa sellest kummagi takisti sees ära",
+        "sourceHash": "42368d4fe2b7b84f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "kirchhoffs-laws-and-circuit-analysis-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Kirchhoff's laws cannot describe parallel branches, so the split is unpredictable",
+        "et": "Kirchhoffi seadused ei kirjelda rööbiti harusid, seega on jagunemine ennustamatu",
+        "sourceHash": "5c6ef38bfbcf4e8c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "kirchhoffs-laws-and-circuit-analysis-m3"
+    }
+  ]
+}
