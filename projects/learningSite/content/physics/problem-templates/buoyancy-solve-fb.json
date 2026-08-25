@@ -2,12 +2,32 @@
   "id": "buoyancy-solve-fb",
   "formulaId": "buoyancy-formula",
   "variables": [
-    { "symbol": "rho", "min": 800, "max": 1200, "unit": "kg/m^3", "sigFigs": 3 },
-    { "symbol": "V", "min": 0.001, "max": 2, "unit": "m^3", "sigFigs": 3 }
+    {
+      "symbol": "rho",
+      "min": 800,
+      "max": 1200,
+      "unit": "kg/m^3",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "V",
+      "min": 0.001,
+      "max": 2,
+      "unit": "m^3",
+      "sigFigs": 3
+    }
   ],
   "constraints": [
-    { "op": "gt", "left": "rho", "right": 0 },
-    { "op": "gt", "left": "V", "right": 0 }
+    {
+      "op": "gt",
+      "left": "rho",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "V",
+      "right": 0
+    }
   ],
   "solveFor": "Fb"
 }

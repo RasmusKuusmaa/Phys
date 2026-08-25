@@ -2,12 +2,32 @@
   "id": "rotational-dynamics-solve-tau",
   "formulaId": "rotational-dynamics-formula",
   "variables": [
-    { "symbol": "I", "min": 0.01, "max": 10, "unit": "kg*m^2", "sigFigs": 3 },
-    { "symbol": "alpha", "min": 0.5, "max": 20, "unit": "rad/s^2", "sigFigs": 3 }
+    {
+      "symbol": "I",
+      "min": 0.01,
+      "max": 10,
+      "unit": "kg*m^2",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "alpha",
+      "min": 0.5,
+      "max": 20,
+      "unit": "rad/s^2",
+      "sigFigs": 3
+    }
   ],
   "constraints": [
-    { "op": "gt", "left": "I", "right": 0 },
-    { "op": "gt", "left": "alpha", "right": 0 }
+    {
+      "op": "gt",
+      "left": "I",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "alpha",
+      "right": 0
+    }
   ],
   "solveFor": "tau"
 }

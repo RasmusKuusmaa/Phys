@@ -2,12 +2,32 @@
   "id": "rotational-kinetic-energy-solve-ke",
   "formulaId": "rotational-kinetic-energy-formula",
   "variables": [
-    { "symbol": "I", "min": 0.01, "max": 10, "unit": "kg*m^2", "sigFigs": 3 },
-    { "symbol": "omega", "min": 1, "max": 50, "unit": "rad/s", "sigFigs": 3 }
+    {
+      "symbol": "I",
+      "min": 0.01,
+      "max": 10,
+      "unit": "kg*m^2",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "omega",
+      "min": 1,
+      "max": 50,
+      "unit": "rad/s",
+      "sigFigs": 3
+    }
   ],
   "constraints": [
-    { "op": "gt", "left": "I", "right": 0 },
-    { "op": "gt", "left": "omega", "right": 0 }
+    {
+      "op": "gt",
+      "left": "I",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "omega",
+      "right": 0
+    }
   ],
   "solveFor": "KE"
 }

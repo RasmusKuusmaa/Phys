@@ -2,13 +2,37 @@
   "id": "carnot-efficiency-solve-eta",
   "formulaId": "carnot-efficiency-formula",
   "variables": [
-    { "symbol": "Tc", "min": 250, "max": 350, "unit": "K", "sigFigs": 3 },
-    { "symbol": "Th", "min": 400, "max": 900, "unit": "K", "sigFigs": 3 }
+    {
+      "symbol": "Tc",
+      "min": 250,
+      "max": 350,
+      "unit": "K",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "Th",
+      "min": 400,
+      "max": 900,
+      "unit": "K",
+      "sigFigs": 3
+    }
   ],
   "constraints": [
-    { "op": "gt", "left": "Tc", "right": 0 },
-    { "op": "gt", "left": "Th", "right": 0 },
-    { "op": "lt", "left": "Tc", "right": "Th" }
+    {
+      "op": "gt",
+      "left": "Tc",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "Th",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "Tc",
+      "right": "Th"
+    }
   ],
   "solveFor": "eta"
 }
