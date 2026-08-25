@@ -19,7 +19,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     // Phase 11b — bachelor-core depth. Concepts, formulas, problem templates,
     // error models and resources are in; misconceptions, concept items and
     // explanations are still being authored module by module. See todo.md.
-    "bernoullis-equation",
     "viscosity-and-poiseuille-flow",
   ],
 };

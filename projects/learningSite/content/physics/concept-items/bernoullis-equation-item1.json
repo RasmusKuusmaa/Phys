@@ -1,0 +1,56 @@
+{
+  "id": "bernoullis-equation-item1",
+  "conceptId": "bernoullis-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Air flows faster over the curved upper surface of a wing than under it. What does Bernoulli's equation say about the pressure there?",
+    "et": "Õhk voolab tiiva kumera ülapinna kohal kiiremini kui selle all. Mida ütleb Bernoulli võrrand seal valitseva rõhu kohta?",
+    "sourceHash": "774266160a595c36",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The pressure above is lower, because a rise in speed must be paid for by a drop in pressure",
+        "et": "Rõhk ülalpool on madalam, sest kiiruse kasvu eest tuleb maksta rõhu langusega",
+        "sourceHash": "f41c8bdf5444de6e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The pressure above is higher, since faster fluid pushes harder",
+        "et": "Rõhk ülalpool on kõrgem, sest kiirem vedelik surub tugevamini",
+        "sourceHash": "43844bc4df068641",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bernoullis-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The pressure is the same, because pressure alone is what stays constant",
+        "et": "Rõhk on sama, sest just rõhk on see, mis jääb muutumatuks",
+        "sourceHash": "236fb7028cc30b65",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bernoullis-equation-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing can be said, because Bernoulli applies to every flow equally",
+        "et": "Midagi ei saa öelda, sest Bernoulli kehtib iga voolu kohta võrdselt",
+        "sourceHash": "779b2134e3438786",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bernoullis-equation-m2"
+    }
+  ]
+}

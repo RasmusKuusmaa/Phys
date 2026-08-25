@@ -1,0 +1,56 @@
+{
+  "id": "bernoullis-equation-item2",
+  "conceptId": "bernoullis-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Under which conditions does Bernoulli's equation hold along a streamline?",
+    "et": "Millistel tingimustel kehtib Bernoulli võrrand voolujoone ulatuses?",
+    "sourceHash": "9ed67f575a0d2417",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Steady, incompressible flow with negligible viscosity",
+        "et": "Ühtlane kokkusurumatu voolamine, mille viskoossus on tühine",
+        "sourceHash": "4e176a27c5b2f545",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Any flow at all, since it expresses conservation of energy",
+        "et": "Mistahes voolamise korral, sest see väljendab energia jäävust",
+        "sourceHash": "7b82c2f252a995c9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bernoullis-equation-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only where the pressure is the same everywhere along the streamline",
+        "et": "Ainult seal, kus rõhk on kogu voolujoone ulatuses ühesugune",
+        "sourceHash": "25cb26dc0ade886c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bernoullis-equation-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only in flows fast enough for pressure to rise with speed",
+        "et": "Ainult voolamistes, mis on piisavalt kiired, et rõhk kiirusega kasvaks",
+        "sourceHash": "ed93a29607d84abe",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bernoullis-equation-m1"
+    }
+  ]
+}

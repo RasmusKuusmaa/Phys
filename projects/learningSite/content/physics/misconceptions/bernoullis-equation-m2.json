@@ -1,0 +1,10 @@
+{
+  "id": "bernoullis-equation-m2",
+  "conceptId": "bernoullis-equation",
+  "text": {
+    "en": "Bernoulli's equation applies to any fluid in any situation, including viscous and turbulent flow.",
+    "et": "Bernoulli võrrand kehtib mistahes vedeliku kohta mistahes olukorras, sealhulgas viskoosse ja turbulentse voolamise korral.",
+    "sourceHash": "9f0fde8ece1736b4",
+    "stale": false
+  }
+}
