@@ -1,0 +1,22 @@
+{
+  "id": "central-force-motion-and-orbits",
+  "subject": "physics",
+  "level": "L3",
+  "module": "mechanics",
+  "title": {
+    "en": "Central force motion and orbits",
+    "et": "Tsentraaljõu liikumine ja orbiidid",
+    "sourceHash": "533519536ae28040",
+    "stale": false
+  },
+  "summary": {
+    "en": "A force that always points toward or away from a fixed centre conserves angular momentum about that centre regardless of its strength, which is why every orbit — circular, elliptical or otherwise — sweeps out area at a constant rate, and why orbital motion can be reduced to a one-dimensional problem in the distance from the centre alone.",
+    "et": "Jõud, mis alati osutab kindla keskpunkti poole või sealt eemale, säilitab selle keskpunkti suhtes impulsimomendi, sõltumata oma tugevusest, mistõttu iga orbiit — ringikujuline, elliptiline või muu — pühib pindala läbi jääval kiirusel, ja mistõttu orbiidiliikumise saab taandada ühemõõtmeliseks ülesandeks, kus muutujaks on ainult kaugus keskpunktist.",
+    "sourceHash": "b8d5285138d67f36",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtonian-gravitation",
+    "torque-and-angular-momentum"
+  ]
+}

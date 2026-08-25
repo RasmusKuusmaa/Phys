@@ -1,0 +1,56 @@
+{
+  "id": "central-force-motion-and-orbits-item1",
+  "conceptId": "central-force-motion-and-orbits",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A satellite orbits Earth on an elliptical path under gravity alone. As it moves from far away to close approach, what happens to its angular momentum about Earth's centre?",
+    "et": "Satelliit tiirleb Maa ümber elliptilisel orbiidil ainult gravitatsiooni mõjul. Kui see liigub kaugelt lähedale, mis juhtub selle impulsimomendiga Maa keskpunkti suhtes?",
+    "sourceHash": "cb31492aff281ded",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It stays exactly constant throughout the orbit, since gravity is a central force",
+        "et": "See jääb kogu orbiidi ulatuses täpselt konstantseks, sest gravitatsioon on tsentraaljõud",
+        "sourceHash": "f7c24651a9301cb1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It increases as the satellite gets closer, since it speeds up",
+        "et": "See kasvab, kui satelliit läheneb, sest see kiireneb",
+        "sourceHash": "ae79eb206c2e449b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "central-force-motion-and-orbits-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It decreases as the satellite gets closer, since its distance from the centre shrinks",
+        "et": "See väheneb, kui satelliit läheneb, sest selle kaugus keskpunktist kahaneb",
+        "sourceHash": "e1de2cb85982c9c9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "central-force-motion-and-orbits-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is conserved only at the two extreme points of the ellipse, not in between",
+        "et": "See säilib ainult ellipsi kahes äärmuslikus punktis, mitte nende vahel",
+        "sourceHash": "03fa8c4de2a9d038",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "central-force-motion-and-orbits-m1"
+    }
+  ]
+}

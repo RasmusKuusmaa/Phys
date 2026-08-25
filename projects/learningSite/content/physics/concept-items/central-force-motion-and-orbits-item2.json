@@ -1,0 +1,56 @@
+{
+  "id": "central-force-motion-and-orbits-item2",
+  "conceptId": "central-force-motion-and-orbits",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does angular momentum conservation apply to any central force, not just gravity's inverse-square law?",
+    "et": "Miks kehtib impulsimomendi jäävus mistahes tsentraaljõu, mitte ainult gravitatsiooni pöördruutseaduse kohta?",
+    "sourceHash": "4a55f575a659d4ba",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because a central force always points along the line to the centre, so it produces zero torque about that centre",
+        "et": "Sest tsentraaljõud osutab alati mööda keskpunktini viivat joont, seega tekitab see selle keskpunkti suhtes nulljõumomendi",
+        "sourceHash": "75c1f0dddb41c44a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because every central force happens to follow the same inverse-square distance dependence",
+        "et": "Sest iga tsentraaljõud järgib juhtumisi sama pöördruutseaduse kaugussõltuvust",
+        "sourceHash": "0d07842b846c7137",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "central-force-motion-and-orbits-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Angular momentum conservation actually only holds for gravity specifically",
+        "et": "Impulsimomendi jäävus kehtib tegelikult ainult spetsiifiliselt gravitatsiooni kohta",
+        "sourceHash": "32b73fefc54e2d4e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "central-force-motion-and-orbits-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on the force being attractive rather than repulsive",
+        "et": "See sõltub sellest, et jõud on tõmbav, mitte tõukav",
+        "sourceHash": "e70a1acafe2adcd2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "central-force-motion-and-orbits-m1"
+    }
+  ]
+}
