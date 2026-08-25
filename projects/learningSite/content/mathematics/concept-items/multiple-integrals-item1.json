@@ -1,0 +1,56 @@
+{
+  "id": "multiple-integrals-item1",
+  "conceptId": "multiple-integrals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A double integral is taken over a triangular region. What form do the limits take?",
+    "et": "Kaksikintegraal võetakse üle kolmnurkse piirkonna. Millise kuju rajad võtavad?",
+    "sourceHash": "b27b3c22a3cb4b46",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The inner limits depend on the outer variable, since the region's width changes",
+        "et": "Sisemised rajad sõltuvad välimisest muutujast, sest piirkonna laius muutub",
+        "sourceHash": "05f95ef6a6c40972",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both pairs of limits are constants, as for a rectangle",
+        "et": "Mõlemad rajapaarid on konstandid, nagu ristküliku puhul",
+        "sourceHash": "b73e253e2870c03b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multiple-integrals-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The limits may be swapped as they stand, since order never matters",
+        "et": "Rajad võib sellisena vahetada, sest järjekord ei loe kunagi",
+        "sourceHash": "960a18ab87ce05f6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multiple-integrals-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "No limits are needed, because the result is always a volume",
+        "et": "Rajad ei ole vajalikud, sest tulemus on alati ruumala",
+        "sourceHash": "0155517a2f441bdf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multiple-integrals-m3"
+    }
+  ]
+}

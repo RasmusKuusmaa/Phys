@@ -1,0 +1,10 @@
+{
+  "id": "multiple-integrals-m2",
+  "conceptId": "multiple-integrals",
+  "text": {
+    "en": "The order of integration never matters, so limits can be swapped as they stand.",
+    "et": "Integreerimise järjekord ei loe kunagi, seega saab rajad sellisena vahetada.",
+    "sourceHash": "678f33d29e088491",
+    "stale": false
+  }
+}

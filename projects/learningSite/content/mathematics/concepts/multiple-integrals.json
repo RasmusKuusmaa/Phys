@@ -1,0 +1,22 @@
+{
+  "id": "multiple-integrals",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "multivariable-calculus",
+  "title": {
+    "en": "Multiple integrals",
+    "et": "Kordsed integraalid",
+    "sourceHash": "fa4eb03f1307a243",
+    "stale": false
+  },
+  "summary": {
+    "en": "A double or triple integral accumulates a quantity over a region of the plane or of space by integrating one variable at a time, with the limits of the inner integral describing the shape of the region.",
+    "et": "Kaksik- või kolmikintegraal kogub suuruse üle tasandi- või ruumipiirkonna, integreerides üht muutujat korraga, kusjuures sisemise integraali rajad kirjeldavad piirkonna kuju.",
+    "sourceHash": "38d21c65e466b623",
+    "stale": false
+  },
+  "prerequisites": [
+    "partial-derivatives",
+    "the-definite-integral"
+  ]
+}

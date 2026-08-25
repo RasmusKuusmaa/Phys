@@ -1,0 +1,23 @@
+A single integral slices an interval and adds up contributions along a line. A
+double integral does the same over a region of the plane: cut it into small
+patches, multiply each patch's area by the value of the function there, and add.
+The evaluation trick is that this reduces to two ordinary integrals done in
+succession — integrate with respect to one variable while treating the other as
+constant, then integrate the result.
+
+The limits carry the geometry, and this is where the real work is. Over a
+rectangle all four limits are constants. Over a triangle or a disc the inner
+limits must depend on the outer variable, because the region's extent in one
+direction changes as you move along the other. Writing those limits correctly is
+usually harder than the integration itself, and sketching the region first is
+not optional.
+
+Two cautions. Swapping the order of integration is often the difference between
+an easy problem and an impossible one, but the limits must be *rewritten* for
+the new order, not simply exchanged where they stand — Fubini's theorem promises
+the same answer, not that the same symbols still apply. And a double integral is
+not "the thing that gives volume". Integrate the constant 1 and you get area;
+integrate a height and you get volume; integrate a density and you get mass;
+integrate a probability density and you get probability. The integrand decides
+what is being accumulated, which is exactly why multiple integrals appear
+wherever a quantity is spread over a region rather than concentrated at a point.

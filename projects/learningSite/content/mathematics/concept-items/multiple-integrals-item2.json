@@ -1,0 +1,56 @@
+{
+  "id": "multiple-integrals-item2",
+  "conceptId": "multiple-integrals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does a double integral of a density function over a plate compute?",
+    "et": "Mida arvutab tiheduse funktsiooni kaksikintegraal üle plaadi?",
+    "sourceHash": "a7c93bf8cba67a62",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The total mass — a double integral accumulates whatever quantity the integrand describes",
+        "et": "Kogumassi — kaksikintegraal koondab selle suuruse, mida integreeritav funktsioon kirjeldab",
+        "sourceHash": "1c02190b4987b7f7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A volume, since double integrals always give volumes",
+        "et": "Ruumala, sest kaksikintegraalid annavad alati ruumala",
+        "sourceHash": "dc9b5123fe08c66b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multiple-integrals-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing, unless both sets of limits are constant",
+        "et": "Mitte midagi, kui mõlemad rajad ei ole konstandid",
+        "sourceHash": "8c899909dbfabcdf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multiple-integrals-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The same value whichever order is used, with the limits unchanged",
+        "et": "Sama väärtuse mistahes järjekorra korral, muutmata radu",
+        "sourceHash": "405199e574253442",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multiple-integrals-m2"
+    }
+  ]
+}
