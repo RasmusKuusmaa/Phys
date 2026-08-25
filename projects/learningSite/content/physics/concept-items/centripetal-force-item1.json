@@ -1,0 +1,56 @@
+{
+  "id": "centripetal-force-item1",
+  "conceptId": "centripetal-force",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A ball on a string is swung in a horizontal circle. What provides the centripetal force?",
+    "et": "Nöörile kinnitatud palli keerutatakse horisontaalses ringis. Mis annab tsentripetaaljõu?",
+    "sourceHash": "f1f5748f2afd5c06",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The tension in the string, pulling the ball toward the centre",
+        "et": "Nööri pinge, mis tõmbab palli keskpunkti poole",
+        "sourceHash": "e920af2a46fb504b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A separate centrifugal force pushing the ball outward, balanced by the string",
+        "et": "Eraldiseisev tsentrifugaaljõud, mis lükkab palli väljapoole ja mida nöör tasakaalustab",
+        "sourceHash": "03423f16bfc39050",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centripetal-force-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The ball's own inertia, acting toward the centre",
+        "et": "Palli enda inerts, mis mõjub keskpunkti poole",
+        "sourceHash": "5df9f660c92f7f4c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centripetal-force-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "No force is needed, since the ball moves at constant speed",
+        "et": "Jõudu ei ole vaja, sest pall liigub ühtlase kiirusega",
+        "sourceHash": "11f86ac3973b99b5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centripetal-force-m3"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "centripetal-force-solve-f-errors",
+  "formulaId": "centripetal-force-formula",
+  "solveFor": "F",
+  "mistakes": [
+    {
+      "id": "forgot-square",
+      "description": {
+        "en": "Used speed directly instead of squaring it.",
+        "et": "Kasutas kiirust otse, selle asemel et seda ruutu tõsta.",
+        "sourceHash": "bb1f5bea9fb4b415",
+        "stale": false
+      },
+      "expression": "m*v/r",
+      "misconceptionId": "centripetal-force-m3"
+    },
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided radius by mass and speed squared instead of the reverse.",
+        "et": "Jagas raadiuse massi ja kiiruse ruuduga, selle asemel et teha vastupidi.",
+        "sourceHash": "c9a1c8f5410ac3b4",
+        "stale": false
+      },
+      "expression": "r/(m*(v^2))"
+    },
+    {
+      "id": "forgot-mass",
+      "description": {
+        "en": "Omitted mass entirely.",
+        "et": "Jättis massi täielikult välja.",
+        "sourceHash": "2eaa74a46151887b",
+        "stale": false
+      },
+      "expression": "(v^2)/r"
+    }
+  ]
+}

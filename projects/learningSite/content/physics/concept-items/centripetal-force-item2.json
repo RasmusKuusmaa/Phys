@@ -1,0 +1,56 @@
+{
+  "id": "centripetal-force-item2",
+  "conceptId": "centripetal-force",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An object moves in a circle of fixed radius. Its speed is doubled. What happens to the centripetal force required?",
+    "et": "Keha liigub fikseeritud raadiusega ringil. Selle kiirus kahekordistatakse. Mis juhtub vajaliku tsentripetaaljõuga?",
+    "sourceHash": "eb88b76c0c05aba2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It quadruples, since centripetal force depends on the square of speed",
+        "et": "See neljakordistub, sest tsentripetaaljõud sõltub kiiruse ruudust",
+        "sourceHash": "76643fd05e6a536e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doubles, tracking speed directly",
+        "et": "See kahekordistub, järgides otse kiirust",
+        "sourceHash": "aa44db4426b23885",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centripetal-force-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unchanged, since the radius has not changed",
+        "et": "See ei muutu, sest raadius ei ole muutunud",
+        "sourceHash": "419ee807897ca603",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centripetal-force-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It halves, since a faster object needs less force to keep turning",
+        "et": "See poolitub, sest kiiremini liikuv keha vajab pöördumiseks vähem jõudu",
+        "sourceHash": "a7a164d71fc0620c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "centripetal-force-m1"
+    }
+  ]
+}

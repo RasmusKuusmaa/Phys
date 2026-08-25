@@ -1,0 +1,22 @@
+{
+  "id": "centripetal-force",
+  "subject": "physics",
+  "level": "L1",
+  "module": "mechanics",
+  "title": {
+    "en": "Centripetal force",
+    "et": "Tsentripetaaljõud",
+    "sourceHash": "7da3438c6d363277",
+    "stale": false
+  },
+  "summary": {
+    "en": "Centripetal force is not a new kind of force but a name for whatever net force actually points toward the centre of a circular path — tension, gravity, friction, or a combination — and it equals mass times the speed squared divided by the radius.",
+    "et": "Tsentripetaaljõud ei ole uut liiki jõud, vaid nimetus mistahes resultantjõule, mis tegelikult osutab ringjoonelise tee keskpunkti poole — pinge, raskusjõud, hõõrdumine või nende kombinatsioon — ja see võrdub massi ning kiiruse ruudu jagatisega raadiusega, korrutatuna massiga.",
+    "sourceHash": "fcff08dca474794f",
+    "stale": false
+  },
+  "prerequisites": [
+    "uniform-circular-motion",
+    "newtons-second-law"
+  ]
+}

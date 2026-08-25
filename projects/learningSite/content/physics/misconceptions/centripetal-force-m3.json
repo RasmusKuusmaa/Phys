@@ -1,0 +1,10 @@
+{
+  "id": "centripetal-force-m3",
+  "conceptId": "centripetal-force",
+  "text": {
+    "en": "Doubling an object's speed around a fixed-radius circle doubles the centripetal force needed.",
+    "et": "Keha kiiruse kahekordistamine fikseeritud raadiusega ringil kahekordistab vajaliku tsentripetaaljõu.",
+    "sourceHash": "11107c0367f3df49",
+    "stale": false
+  }
+}
