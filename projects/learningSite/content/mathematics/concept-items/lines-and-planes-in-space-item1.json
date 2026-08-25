@@ -1,0 +1,56 @@
+{
+  "id": "lines-and-planes-in-space-item1",
+  "conceptId": "lines-and-planes-in-space",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two lines in three-dimensional space are not parallel and do not intersect. Is this possible?",
+    "et": "Kaks sirget kolmemõõtmelises ruumis ei ole paralleelsed ega lõiku. Kas see on võimalik?",
+    "sourceHash": "e55aee524edb03f2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Yes — they are skew lines, which exist only in three dimensions or more",
+        "et": "Jah — need on kiivsirged, mis eksisteerivad ainult kolmes või enamas mõõtmes",
+        "sourceHash": "b606d6dbd6a57904",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No — any two non-parallel lines must cross somewhere",
+        "et": "Ei — kaks mitteparalleelset sirget peavad kusagil ristuma",
+        "sourceHash": "8ea5ea1fb8ef8033",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lines-and-planes-in-space-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "No, unless one of them lies inside a plane's normal direction",
+        "et": "Ei, kui just üks neist ei asu tasandi normaalsuunas",
+        "sourceHash": "43f2df7941bef14b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lines-and-planes-in-space-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only if the two lines are described by different-looking equations",
+        "et": "Ainult siis, kui kaks sirget on kirjeldatud erineva välimusega võrranditega",
+        "sourceHash": "55a841ac12ff5a9b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lines-and-planes-in-space-m3"
+    }
+  ]
+}

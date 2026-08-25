@@ -1,0 +1,21 @@
+To describe a line in space you need a point it passes through and a direction
+to travel in — that is exactly a position vector plus a multiple of a direction
+vector, r = r₀ + tv. To describe a plane you need a point and, more usefully, a
+vector *perpendicular* to it: the normal. Everything else follows from those
+two descriptions.
+
+The normal is the idea worth dwelling on, because it sticks out of the plane
+rather than lying in it. Its power is that a point lies in the plane exactly
+when the vector from the reference point to it is perpendicular to the normal —
+that is, when a dot product is zero. Expand that condition in coordinates and
+you get the familiar ax + by + cz = d, where (a, b, c) *is* the normal vector,
+readable straight off the equation.
+
+Two warnings. A plane has infinitely many valid equations: scale the whole
+thing by 2 and it describes the same plane, since the normal's length was never
+the point, only its direction. And in three dimensions, two lines that are not
+parallel need not meet — they can pass each other at different heights, which is
+impossible on a flat page. These are *skew* lines, and forgetting they exist is
+the most common error carried over from two-dimensional intuition. Whether two
+lines are parallel, intersecting or skew is settled by a cross product and a
+dot product, not by drawing.

@@ -1,0 +1,10 @@
+{
+  "id": "lines-and-planes-in-space-m1",
+  "conceptId": "lines-and-planes-in-space",
+  "text": {
+    "en": "Two lines in space that are not parallel must intersect, as they would in a plane.",
+    "et": "Kaks mittelõikuvat sirget ruumis peavad lõikuma, nagu nad teeksid tasandil.",
+    "sourceHash": "c912cf615e2bdac7",
+    "stale": false
+  }
+}

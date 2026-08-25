@@ -1,0 +1,21 @@
+{
+  "id": "lines-and-planes-in-space",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "vector-algebra",
+  "title": {
+    "en": "Lines and planes in space",
+    "et": "Sirged ja tasandid ruumis",
+    "sourceHash": "6e51d24fb4b16c8b",
+    "stale": false
+  },
+  "summary": {
+    "en": "A line in space is fixed by a point and a direction vector, a plane by a point and a normal vector — and once both are written that way, questions about intersection, distance and angle become dot and cross products.",
+    "et": "Sirge ruumis on määratud punkti ja sihivektoriga, tasand punkti ja normaalvektoriga — ning kui mõlemad on nii kirja pandud, taanduvad lõikumise, kauguse ja nurga küsimused skalaar- ja vektorkorrutisteks.",
+    "sourceHash": "90072248f6a34624",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-cross-product"
+  ]
+}
