@@ -1,0 +1,56 @@
+{
+  "id": "time-dilation-item2",
+  "conceptId": "time-dilation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two identical clocks drift past each other at a high constant speed. What does each observer measure about the other's clock?",
+    "et": "Kaks identset kella mööduvad teineteisest suure ühtlase kiirusega. Mida mõõdab kumbki vaatleja teise kella kohta?",
+    "sourceHash": "0cc68e2f76268ae8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Each measures the other's clock as running slow — between inertial frames the effect is symmetric",
+        "et": "Kumbki mõõdab, et teise kell käib aeglaselt — inertsiaalsete taustsüsteemide vahel on efekt sümmeetriline",
+        "sourceHash": "4c4720515d7dfe9d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Only the clock that is really moving runs slow; the other one keeps correct time",
+        "et": "Aeglaselt käib ainult see kell, mis tegelikult liigub; teine näitab õiget aega",
+        "sourceHash": "c241735d2776fdb6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "time-dilation-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both clocks agree, and the apparent difference is entirely signal delay",
+        "et": "Mõlemad kellad näitavad sama ja näiline erinevus tuleneb täielikult signaali viivitusest",
+        "sourceHash": "b81269c563d4a031",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "time-dilation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The motion slows the faster clock's mechanism, so it stays behind even after it stops",
+        "et": "Liikumine aeglustab kiirema kella mehhanismi, nii et see jääb maha ka pärast peatumist",
+        "sourceHash": "03b87b452639995b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "time-dilation-m1"
+    }
+  ]
+}

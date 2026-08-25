@@ -1,0 +1,10 @@
+{
+  "id": "time-dilation-m3",
+  "conceptId": "time-dilation",
+  "text": {
+    "en": "Only one of two observers in relative motion sees the other's clock run slow; the situation is not symmetric.",
+    "et": "Ainult üks kahest teineteise suhtes liikuvast vaatlejast näeb teise kella aeglaselt käivat; olukord ei ole sümmeetriline.",
+    "sourceHash": "c1efd5576e5ef3b4",
+    "stale": false
+  }
+}

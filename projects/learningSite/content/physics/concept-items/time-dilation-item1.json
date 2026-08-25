@@ -1,0 +1,56 @@
+{
+  "id": "time-dilation-item1",
+  "conceptId": "time-dilation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A muon created high in the atmosphere reaches the ground, even though its average lifetime at rest is far too short for that journey. Measured from the ground, why does it survive?",
+    "et": "Atmosfääri ülakihtides tekkinud müüon jõuab maapinnale, kuigi selle keskmine eluiga seisuolekus on selle teekonna jaoks palju liiga lühike. Miks see maapinnalt mõõdetuna säilib?",
+    "sourceHash": "cb19751173108262",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its lifetime, measured in the ground frame, is stretched because it moves at nearly the speed of light",
+        "et": "Selle eluiga on maapinna taustsüsteemis mõõdetuna venitatud, sest müüon liigub peaaegu valguse kiirusega",
+        "sourceHash": "76fb8b4497189442",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Collisions with air molecules interfere with the muon's decay mechanism and hold it together",
+        "et": "Kokkupõrked õhumolekulidega häirivad müüoni lagunemismehhanismi ja hoiavad seda koos",
+        "sourceHash": "456ebd4ef68f35fc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "time-dilation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It only appears to last longer, because the light announcing its decay needs time to reach us",
+        "et": "See näib kestvat kauem ainult seetõttu, et lagunemisest teatav valgus vajab meieni jõudmiseks aega",
+        "sourceHash": "5a908fa2aa4a281e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "time-dilation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only the muon's clock is affected; from the muon's own frame the ground clocks tick normally",
+        "et": "Mõjutatud on ainult müüoni kell; müüoni enda taustsüsteemis käivad maapinna kellad tavapäraselt",
+        "sourceHash": "8be369c15c5bdab2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "time-dilation-m3"
+    }
+  ]
+}

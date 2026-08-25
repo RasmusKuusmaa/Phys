@@ -43,7 +43,6 @@ export const COVERAGE_WAIVERS: Record<string, readonly string[]> = {
     "the-carnot-cycle-and-heat-engines",
     "the-hydrogen-atom-and-atomic-structure",
     "the-maxwell-boltzmann-distribution",
-    "time-dilation",
     "torque-and-angular-momentum",
     "viscosity-and-poiseuille-flow",
     "wavefunctions-and-probability",
