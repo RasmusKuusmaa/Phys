@@ -1,0 +1,56 @@
+{
+  "id": "electric-potential-and-potential-energy-item2",
+  "conceptId": "electric-potential-and-potential-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A charge of 2 C sits at a point where the potential is 5 V. What is its potential energy there?",
+    "et": "Laeng 2 C asub punktis, kus potentsiaal on 5 V. Milline on selle potentsiaalne energia seal?",
+    "sourceHash": "de7469cd1bf2acb4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "10 J — potential energy is charge times potential",
+        "et": "10 J — potentsiaalne energia on laeng korda potentsiaal",
+        "sourceHash": "15841b846e7a92a4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "5 J, since potential energy equals the potential regardless of charge",
+        "et": "5 J, sest potentsiaalne energia võrdub potentsiaaliga, sõltumata laengust",
+        "sourceHash": "75ca1da8164ee23a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-potential-and-potential-energy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "2.5 J, from dividing potential by charge",
+        "et": "2,5 J, jagades potentsiaali laenguga",
+        "sourceHash": "d43401cd98ffb245",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-potential-and-potential-energy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Undefined, since potential and potential energy cannot be combined",
+        "et": "Määramata, sest potentsiaali ja potentsiaalset energiat ei saa kombineerida",
+        "sourceHash": "6ac4bfde190fdb51",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-potential-and-potential-energy-m3"
+    }
+  ]
+}

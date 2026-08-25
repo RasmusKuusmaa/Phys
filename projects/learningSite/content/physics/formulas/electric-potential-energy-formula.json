@@ -1,0 +1,47 @@
+{
+  "id": "electric-potential-energy-formula",
+  "conceptId": "electric-potential-and-potential-energy",
+  "latex": "U = qV",
+  "symbols": [
+    {
+      "symbol": "U",
+      "name": {
+        "en": "potential energy",
+        "et": "potentsiaalne energia",
+        "sourceHash": "d8725eaff83fd8c9",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "q",
+      "name": {
+        "en": "electric charge",
+        "et": "elektrilaeng",
+        "sourceHash": "a6d8fc33990e659b",
+        "stale": false
+      },
+      "unit": "C"
+    },
+    {
+      "symbol": "V",
+      "name": {
+        "en": "electric potential",
+        "et": "potentsiaal",
+        "sourceHash": "918cd29e81ccd2fc",
+        "stale": false
+      },
+      "unit": "V"
+    }
+  ],
+  "solveFor": [
+    "U",
+    "q",
+    "V"
+  ],
+  "expressions": {
+    "U": "q*V",
+    "q": "U/V",
+    "V": "U/q"
+  }
+}

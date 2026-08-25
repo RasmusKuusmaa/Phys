@@ -1,0 +1,33 @@
+{
+  "id": "electric-potential-energy-solve-u",
+  "formulaId": "electric-potential-energy-formula",
+  "variables": [
+    {
+      "symbol": "q",
+      "min": 0.1,
+      "max": 20,
+      "unit": "C",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "V",
+      "min": 1,
+      "max": 1000,
+      "unit": "V",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "q",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "V",
+      "right": 0
+    }
+  ],
+  "solveFor": "U"
+}

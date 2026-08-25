@@ -1,0 +1,56 @@
+{
+  "id": "electric-potential-and-potential-energy-item1",
+  "conceptId": "electric-potential-and-potential-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A point in space near a fixed charge has an electric potential of 10 V, whether or not anything is placed there. What does this tell you?",
+    "et": "Kindla laengu läheduses olev ruumipunkt omab elektripotentsiaali 10 V, sõltumata sellest, kas sinna midagi on asetatud. Mida see näitab?",
+    "sourceHash": "621f63e8b17ff502",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Potential is a property of the location itself, set by the source charge alone",
+        "et": "Potentsiaal on asukoha enda omadus, mille määrab ainuüksi allika laeng",
+        "sourceHash": "18bfd49dd2b2d072",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The point cannot really have a potential until a test charge is placed there",
+        "et": "Punktil ei saa tegelikult potentsiaali olla, kuni sinna on katselaeng asetatud",
+        "sourceHash": "e8ffb672a80575b3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-potential-and-potential-energy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Potential and potential energy must be the same 10 J at that point",
+        "et": "Potentsiaal ja potentsiaalne energia peavad selles punktis olema sama 10 J",
+        "sourceHash": "203b030b5e5d2355",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-potential-and-potential-energy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The value would change if a larger test charge were placed there instead",
+        "et": "Väärtus muutuks, kui sinna asetataks hoopis suurem katselaeng",
+        "sourceHash": "4c7303d0ab7b39fc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-potential-and-potential-energy-m3"
+    }
+  ]
+}

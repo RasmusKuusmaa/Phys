@@ -1,0 +1,38 @@
+{
+  "id": "electric-potential-energy-solve-u-errors",
+  "formulaId": "electric-potential-energy-formula",
+  "solveFor": "U",
+  "mistakes": [
+    {
+      "id": "reported-potential-as-energy",
+      "description": {
+        "en": "Reported the potential itself as the potential energy, ignoring the charge.",
+        "et": "Esitas potentsiaalse energiana potentsiaali enda, jättes laengu arvestamata.",
+        "sourceHash": "43fdd0505680d84a",
+        "stale": false
+      },
+      "expression": "V",
+      "misconceptionId": "electric-potential-and-potential-energy-m1"
+    },
+    {
+      "id": "divided-instead-of-multiplied",
+      "description": {
+        "en": "Divided potential by charge instead of multiplying.",
+        "et": "Jagas potentsiaali laenguga, selle asemel et korrutada.",
+        "sourceHash": "76851d95df668f1d",
+        "stale": false
+      },
+      "expression": "V/q"
+    },
+    {
+      "id": "squared-charge",
+      "description": {
+        "en": "Squared the charge instead of using it directly.",
+        "et": "Tõstis laengu ruutu, selle asemel et kasutada seda otse.",
+        "sourceHash": "cb64cc833ad43581",
+        "stale": false
+      },
+      "expression": "(q^2)*V"
+    }
+  ]
+}

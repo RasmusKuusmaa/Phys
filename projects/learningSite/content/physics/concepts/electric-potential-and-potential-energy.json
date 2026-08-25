@@ -1,0 +1,22 @@
+{
+  "id": "electric-potential-and-potential-energy",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Electric potential and potential energy",
+    "et": "Elektripotentsiaal ja potentsiaalne energia",
+    "sourceHash": "6fafba455156a0c7",
+    "stale": false
+  },
+  "summary": {
+    "en": "Electric potential is potential energy per unit charge — a property of a location in a field, independent of any particular test charge placed there — so the potential energy of a specific charge is its own charge times the potential at its position.",
+    "et": "Elektripotentsiaal on potentsiaalne energia laenguühiku kohta — koha omadus väljas, sõltumata sinna asetatud konkreetsest katselaengust — seega konkreetse laengu potentsiaalne energia on tema enda laeng korda potentsiaal tema asukohas.",
+    "sourceHash": "cff2395dd4d15ab0",
+    "stale": false
+  },
+  "prerequisites": [
+    "electric-fields",
+    "work-and-energy"
+  ]
+}
