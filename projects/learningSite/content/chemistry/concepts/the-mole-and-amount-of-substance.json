@@ -1,0 +1,19 @@
+{
+  "id": "the-mole-and-amount-of-substance",
+  "subject": "chemistry",
+  "level": "L1",
+  "module": "general-chemistry",
+  "title": {
+    "en": "The mole and amount of substance",
+    "et": "Mool ja aine hulk",
+    "sourceHash": "2f9a53652acb79f8",
+    "stale": false
+  },
+  "summary": {
+    "en": "The mole is the SI unit for counting particles, defined so that one mole of any substance contains the same number of entities — which lets a mass measured on a balance be converted into a count of atoms or molecules.",
+    "et": "Mool on SI-ühik osakeste loendamiseks, defineeritud nii, et üks mool mistahes ainet sisaldab sama arvu osakesi — see lubab kaalul mõõdetud massi teisendada aatomite või molekulide arvuks.",
+    "sourceHash": "99f5f81fabedb754",
+    "stale": false
+  },
+  "prerequisites": []
+}

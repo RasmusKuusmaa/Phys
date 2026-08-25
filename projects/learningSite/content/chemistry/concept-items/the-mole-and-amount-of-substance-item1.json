@@ -1,0 +1,56 @@
+{
+  "id": "the-mole-and-amount-of-substance-item1",
+  "conceptId": "the-mole-and-amount-of-substance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How do the numbers of particles in one mole of helium and one mole of iron compare?",
+    "et": "Kuidas on omavahel seotud osakeste arv ühes moolis heeliumis ja ühes moolis rauas?",
+    "sourceHash": "f1975836613bbf02",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They are equal — one mole always contains the same number of entities",
+        "et": "Need on võrdsed — üks mool sisaldab alati sama arvu osakesi",
+        "sourceHash": "69255b56e391693f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Iron has more, since a mole is a fixed mass and iron atoms are heavier",
+        "et": "Rauas on rohkem, sest mool on kindel mass ja rauaaatomid on raskemad",
+        "sourceHash": "aa4c227395df3f36",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-mole-and-amount-of-substance-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Helium has more, because gases contain more particles than solids",
+        "et": "Heeliumis on rohkem, sest gaasid sisaldavad rohkem osakesi kui tahked ained",
+        "sourceHash": "413194e36ac5e931",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-mole-and-amount-of-substance-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They cannot be compared, since molar mass has different units for each",
+        "et": "Neid ei saa võrrelda, sest moolimassil on kummagi jaoks eri ühikud",
+        "sourceHash": "1adb7df02d2b941e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-mole-and-amount-of-substance-m2"
+    }
+  ]
+}

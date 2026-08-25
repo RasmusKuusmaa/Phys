@@ -1,0 +1,56 @@
+{
+  "id": "the-mole-and-amount-of-substance-item2",
+  "conceptId": "the-mole-and-amount-of-substance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Water has a molar mass of 18 g/mol. What does that statement mean?",
+    "et": "Vee moolimass on 18 g/mol. Mida see väide tähendab?",
+    "sourceHash": "89f9824a63517579",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "One mole of water molecules has a mass of 18 grams",
+        "et": "Ühe mooli veemolekulide mass on 18 grammi",
+        "sourceHash": "e768cf110ea11e4b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Every water molecule has a mass of 18 grams",
+        "et": "Iga veemolekuli mass on 18 grammi",
+        "sourceHash": "00a76d6566628632",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-mole-and-amount-of-substance-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "One mole of any substance has a mass of 18 grams",
+        "et": "Ühe mooli mistahes aine mass on 18 grammi",
+        "sourceHash": "7c2775f62ba3f1bf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-mole-and-amount-of-substance-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Water contains 18 particles per mole",
+        "et": "Vesi sisaldab 18 osakest mooli kohta",
+        "sourceHash": "e8a3983a825ca2fb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-mole-and-amount-of-substance-m3"
+    }
+  ]
+}
