@@ -347,6 +347,25 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "acids-bases-and-ph",
     "redox-reactions",
   ],
+  // LTFY.02.001 Aine struktuur ja omadused — the structure-property chain,
+  // and physics/chemistry bonding concepts that structure draws on.
+  "LTFY.02.001": [
+    "structure-property-relationships",
+    "chemical-bonding",
+    "classes-of-materials",
+  ],
+  // LTFY.02.002 Materjaliklassid ja nende tehnoloogiad — the largest single course
+  // in the degree (12 EAP); its lecture syllabus was not captured in the scrape,
+  // so this maps the concept that directly matches its title.
+  "LTFY.02.002": [
+    "classes-of-materials",
+    "structure-property-relationships",
+  ],
+  // LTFY.02.016 Uurimismeetodid materjaliteaduses — diffraction, microscopy, spectroscopy.
+  "LTFY.02.016": [
+    "characterisation-methods",
+    "spectroscopy",
+  ],
   "LTFY.01.004": [
     "combining-uncertainties",
     "displacement-velocity-acceleration",

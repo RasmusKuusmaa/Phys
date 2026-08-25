@@ -49,7 +49,11 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "structure-property-relationships",
+    "chemical-bonding",
+    "classes-of-materials"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience1.md"
   ],

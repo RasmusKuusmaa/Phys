@@ -36,7 +36,10 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "classes-of-materials",
+    "structure-property-relationships"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience1.md"
   ],

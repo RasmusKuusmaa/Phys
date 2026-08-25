@@ -52,7 +52,10 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "characterisation-methods",
+    "spectroscopy"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience1.md"
   ],
