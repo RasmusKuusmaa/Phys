@@ -1,0 +1,37 @@
+{
+  "id": "rotational-kinetic-energy-solve-ke",
+  "formulaId": "rotational-kinetic-energy-formula",
+  "solveFor": "KE",
+  "mistakes": [
+    {
+      "id": "forgot-one-half-factor",
+      "description": {
+        "en": "Left out the one-half factor, doubling the correct energy.",
+        "et": "Jättis välja teguri pool, mistõttu tulemus on kaks korda õigest suurem.",
+        "sourceHash": "18ddabdde7bb85fd",
+        "stale": false
+      },
+      "expression": "I*omega^2"
+    },
+    {
+      "id": "forgot-to-square-omega",
+      "description": {
+        "en": "Used angular velocity itself instead of its square.",
+        "et": "Kasutas nurkkiirust ennast, mitte selle ruutu.",
+        "sourceHash": "3bc060449fd2e0ad",
+        "stale": false
+      },
+      "expression": "0.5*I*omega"
+    },
+    {
+      "id": "used-half-inertia-only",
+      "description": {
+        "en": "Reported half the moment of inertia as the energy, forgetting the angular velocity entirely.",
+        "et": "Esitas energiana poole inertsimomendist, unustades nurkkiiruse täielikult.",
+        "sourceHash": "eb7a646aded7dda6",
+        "stale": false
+      },
+      "expression": "0.5*I"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "length-contraction",
+  "subject": "physics",
+  "level": "L3",
+  "module": "special-relativity",
+  "title": {
+    "en": "Length contraction",
+    "et": "Pikkuse kontraktsioon",
+    "sourceHash": "c82e2306fd772e1f",
+    "stale": false
+  },
+  "summary": {
+    "en": "An object measured while moving past an observer is shorter along its direction of motion than when it is measured at rest — length in the direction of travel contracts by the same factor that stretches time.",
+    "et": "Vaatlejast mööduvana mõõdetud objekt on oma liikumissuunas lühem kui seisuolekus mõõdetuna — pikkus liikumissuunas kahaneb sama teguri võrra, mille võrra aeg venib.",
+    "sourceHash": "74881cb00bf30cea",
+    "stale": false
+  },
+  "prerequisites": [
+    "time-dilation"
+  ]
+}

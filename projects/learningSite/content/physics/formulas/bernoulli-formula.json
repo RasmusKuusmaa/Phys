@@ -1,0 +1,85 @@
+{
+  "id": "bernoulli-formula",
+  "conceptId": "bernoullis-equation",
+  "latex": "P_1 + \\tfrac{1}{2}\\rho v_1^2 + \\rho g h_1 = P_2 + \\tfrac{1}{2}\\rho v_2^2 + \\rho g h_2",
+  "symbols": [
+    {
+      "symbol": "P1",
+      "name": {
+        "en": "pressure",
+        "et": "rõhk",
+        "sourceHash": "b667446e6eb2552f",
+        "stale": false
+      },
+      "unit": "Pa"
+    },
+    {
+      "symbol": "P2",
+      "name": {
+        "en": "pressure",
+        "et": "rõhk",
+        "sourceHash": "b667446e6eb2552f",
+        "stale": false
+      },
+      "unit": "Pa"
+    },
+    {
+      "symbol": "rho",
+      "name": {
+        "en": "density",
+        "et": "tihedus",
+        "sourceHash": "06f8382071a4109d",
+        "stale": false
+      },
+      "unit": "kg/m^3"
+    },
+    {
+      "symbol": "v1",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "v2",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "h1",
+      "name": {
+        "en": "height",
+        "et": "kõrgus",
+        "sourceHash": "39e0f5efdc39ec10",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "h2",
+      "name": {
+        "en": "height",
+        "et": "kõrgus",
+        "sourceHash": "39e0f5efdc39ec10",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "P2",
+    "v2"
+  ],
+  "expressions": {
+    "P2": "P1+0.5*rho*v1^2+rho*9.81*h1-0.5*rho*v2^2-rho*9.81*h2",
+    "v2": "sqrt(v1^2+2*(P1-P2)/rho+2*9.81*(h1-h2))"
+  }
+}

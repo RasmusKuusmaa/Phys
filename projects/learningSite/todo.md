@@ -364,6 +364,39 @@ Author both locales in the same pass, never translating in a batch at the end.
 - [x] Audit the full physics prerequisite graph for gaps
   `content: audit physics prerequisite graph`
 
+### Phase 11b — Bachelor-core physics depth
+
+Phase 11 shipped L0–L2 solidly but only a thin L3 veneer — not genuine
+bachelor-core coverage. This phase adds the missing subject areas at L2/L3,
+same rigor as Phase 11: both locales authored together, formulas with
+templates and error models where the concept is quantitative, three
+misconceptions per concept, concept items, curated EN/ET resources.
+Terminology for these modules is already locked in `glossary.json`.
+
+- [ ] Author special relativity (postulates, time dilation, length
+      contraction, relativistic momentum and energy)
+  `content: add special relativity concepts`
+- [ ] Author analytical and rotational mechanics (torque and angular
+      momentum, moment of inertia and rotational dynamics, rotational
+      kinetic energy, Lagrangian mechanics, coupled/driven oscillators)
+  `content: add analytical and rotational mechanics concepts`
+- [ ] Author quantum mechanics (wavefunctions and probability, uncertainty
+      principle, particle in a box, quantum tunneling, the hydrogen atom,
+      spin and angular momentum)
+  `content: add quantum mechanics concepts`
+- [ ] Author statistical mechanics (Maxwell-Boltzmann distribution,
+      statistical entropy, free energy, the Carnot cycle and heat engines)
+  `content: add statistical mechanics concepts`
+- [ ] Author upper electromagnetism (Maxwell's equations, the Poynting
+      vector, Kirchhoff's laws, RC/RL transients, AC circuits and impedance)
+  `content: add upper electromagnetism concepts`
+- [ ] Author fluid mechanics (hydrostatic pressure, buoyancy, Pascal's
+      principle, continuity, Bernoulli's equation, viscosity)
+  `content: add fluid mechanics concepts`
+- [ ] Re-audit the physics prerequisite graph and glossary coverage for
+      the new modules
+  `content: audit bachelor-core physics additions`
+
 ### Phase 12 — Bilingual QA
 
 - [x] Review all Estonian concept text against the glossary

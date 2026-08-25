@@ -1,0 +1,22 @@
+{
+  "id": "free-energy-and-spontaneity",
+  "subject": "physics",
+  "level": "L3",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "Free energy and spontaneity",
+    "et": "Vaba energia ja spontaansus",
+    "sourceHash": "510f7dc7335165f3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Gibbs free energy combines a system's enthalpy and entropy into a single quantity whose decrease predicts whether a process will occur spontaneously at constant temperature and pressure.",
+    "et": "Gibbsi vaba energia ühendab süsteemi entalpia ja entroopia üheks suuruseks, mille vähenemine ennustab, kas protsess kulgeb konstantsel temperatuuril ja rõhul iseeneslikult.",
+    "sourceHash": "35e3fe7f907d26b1",
+    "stale": false
+  },
+  "prerequisites": [
+    "statistical-definition-of-entropy",
+    "laws-of-thermodynamics"
+  ]
+}

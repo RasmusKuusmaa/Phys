@@ -1,0 +1,11 @@
+{
+  "id": "mass-energy-equivalence-solve-e",
+  "formulaId": "mass-energy-equivalence-formula",
+  "variables": [
+    { "symbol": "m", "min": 0.001, "max": 5, "unit": "kg", "sigFigs": 3 }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "m", "right": 0 }
+  ],
+  "solveFor": "E"
+}

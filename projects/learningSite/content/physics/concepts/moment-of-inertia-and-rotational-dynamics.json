@@ -1,0 +1,21 @@
+{
+  "id": "moment-of-inertia-and-rotational-dynamics",
+  "subject": "physics",
+  "level": "L2",
+  "module": "mechanics",
+  "title": {
+    "en": "Moment of inertia and rotational dynamics",
+    "et": "Inertsimoment ja pöörlemisdünaamika",
+    "sourceHash": "2690a6ecf618361d",
+    "stale": false
+  },
+  "summary": {
+    "en": "Moment of inertia measures an object's resistance to changes in rotational speed, playing the same role for rotation that mass plays for straight-line motion, so that torque equals moment of inertia times angular acceleration.",
+    "et": "Inertsimoment näitab objekti vastupanu pöörlemiskiiruse muutumisele, täites pöörlemisel sama rolli, mida mass täidab sirgjoonelisel liikumisel, nii et jõumoment võrdub inertsimomendi ja nurkkiirenduse korrutisega.",
+    "sourceHash": "4c93e0af3e4a7d82",
+    "stale": false
+  },
+  "prerequisites": [
+    "torque-and-angular-momentum"
+  ]
+}

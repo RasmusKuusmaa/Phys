@@ -1,0 +1,22 @@
+{
+  "id": "lagrangian-mechanics",
+  "subject": "physics",
+  "level": "L3",
+  "module": "mechanics",
+  "title": {
+    "en": "Lagrangian mechanics",
+    "et": "Lagrange'i mehaanika",
+    "sourceHash": "1625228dffe23bec",
+    "stale": false
+  },
+  "summary": {
+    "en": "Instead of tracking forces directly, Lagrangian mechanics derives the equations of motion from the difference between kinetic and potential energy, expressed in whichever coordinates most naturally describe the system's constraints.",
+    "et": "Selle asemel, et jälgida jõude otse, tuletab Lagrange'i mehaanika liikumisvõrrandid kineetilise ja potentsiaalse energia vahest, väljendatuna koordinaatides, mis kirjeldavad süsteemi seoseid kõige loomulikumalt.",
+    "sourceHash": "d34f7486ec1a2af2",
+    "stale": false
+  },
+  "prerequisites": [
+    "rotational-kinetic-energy",
+    "work-and-energy"
+  ]
+}

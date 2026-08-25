@@ -1,0 +1,37 @@
+{
+  "id": "hydrostatic-pressure-solve-p",
+  "formulaId": "hydrostatic-pressure-formula",
+  "solveFor": "P",
+  "mistakes": [
+    {
+      "id": "forgot-surface-pressure",
+      "description": {
+        "en": "Reported only the pressure contribution from depth, forgetting to add the surface pressure.",
+        "et": "Esitas ainult sügavusest tuleneva rõhu, unustades lisada pinnarõhu.",
+        "sourceHash": "b3d139665112fe83",
+        "stale": false
+      },
+      "expression": "rho*9.81*h"
+    },
+    {
+      "id": "forgot-gravity",
+      "description": {
+        "en": "Multiplied density directly by depth, forgetting to include gravitational acceleration.",
+        "et": "Korrutas tiheduse otse sügavusega, unustades raskuskiirenduse arvesse võtmise.",
+        "sourceHash": "f2e6cb17ab12f080",
+        "stale": false
+      },
+      "expression": "P0+rho*h"
+    },
+    {
+      "id": "forgot-density",
+      "description": {
+        "en": "Used gravitational acceleration times depth alone, forgetting to include the fluid's density.",
+        "et": "Kasutas ainult raskuskiirenduse ja sügavuse korrutist, unustades vedeliku tiheduse arvesse võtmise.",
+        "sourceHash": "93271f641a853e99",
+        "stale": false
+      },
+      "expression": "P0+9.81*h"
+    }
+  ]
+}

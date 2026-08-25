@@ -1,0 +1,47 @@
+{
+  "id": "particle-in-a-box-formula",
+  "conceptId": "particle-in-a-box",
+  "latex": "E_n = \\frac{0.376\\ \\text{eV}\\cdot\\text{nm}^2 \\cdot n^2}{L^2}",
+  "symbols": [
+    {
+      "symbol": "E",
+      "name": {
+        "en": "energy",
+        "et": "energia",
+        "sourceHash": "381cfb6e1e428419",
+        "stale": false
+      },
+      "unit": "eV"
+    },
+    {
+      "symbol": "n",
+      "name": {
+        "en": "quantum number",
+        "et": "kvantarv",
+        "sourceHash": "b9a6e147443e83a4",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "length",
+        "et": "pikkus",
+        "sourceHash": "0f82aca66af91493",
+        "stale": false
+      },
+      "unit": "nm"
+    }
+  ],
+  "solveFor": [
+    "E",
+    "n",
+    "L"
+  ],
+  "expressions": {
+    "E": "0.376*n^2/(L^2)",
+    "n": "sqrt(E*L^2/0.376)",
+    "L": "sqrt(0.376*n^2/E)"
+  }
+}

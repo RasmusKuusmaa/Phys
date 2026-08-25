@@ -1,0 +1,21 @@
+{
+  "id": "spin-and-angular-momentum-in-quantum-mechanics",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Spin and angular momentum in quantum mechanics",
+    "et": "Spinn ja impulsimoment kvantmehaanikas",
+    "sourceHash": "1a45f36ed9c5f827",
+    "stale": false
+  },
+  "summary": {
+    "en": "Electrons carry an intrinsic angular momentum called spin that has no classical analogue, comes only in discrete half-integer amounts, and — together with the Pauli exclusion principle — determines how electrons fill atomic orbitals.",
+    "et": "Elektronidel on sisemine impulsimoment, mida nimetatakse spinniks, millel puudub klassikaline analoog, mis esineb ainult diskreetsete pooltäisarvuliste väärtustena ning mis koos Pauli keeluprintsiibiga määrab, kuidas elektronid täidavad aatomiorbitaale.",
+    "sourceHash": "1c63b54be27dadd1",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-hydrogen-atom-and-atomic-structure"
+  ]
+}

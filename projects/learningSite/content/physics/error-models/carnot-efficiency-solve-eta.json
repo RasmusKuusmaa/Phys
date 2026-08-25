@@ -1,0 +1,37 @@
+{
+  "id": "carnot-efficiency-solve-eta",
+  "formulaId": "carnot-efficiency-formula",
+  "solveFor": "eta",
+  "mistakes": [
+    {
+      "id": "used-ratio-directly",
+      "description": {
+        "en": "Reported the ratio of cold to hot temperature itself as the efficiency, forgetting to subtract it from one.",
+        "et": "Esitas kasuteguriks külma ja kuuma temperatuuri suhte enda, unustades selle ühest lahutada.",
+        "sourceHash": "c9f450741dfe0511",
+        "stale": false
+      },
+      "expression": "Tc/Th"
+    },
+    {
+      "id": "swapped-temperatures",
+      "description": {
+        "en": "Swapped the hot and cold reservoir temperatures in the ratio.",
+        "et": "Vahetas suhtes kuuma ja külma reservuaari temperatuurid.",
+        "sourceHash": "f4b8cb259eeee71a",
+        "stale": false
+      },
+      "expression": "1-Th/Tc"
+    },
+    {
+      "id": "used-difference-instead-of-ratio",
+      "description": {
+        "en": "Subtracted the two temperatures directly instead of dividing the cold by the hot temperature first.",
+        "et": "Lahutas kaks temperatuuri otse teineteisest, selle asemel et esmalt jagada külm kuumaga.",
+        "sourceHash": "ee09799e64cd8b94",
+        "stale": false
+      },
+      "expression": "1-(Th-Tc)"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-hydrogen-atom-and-atomic-structure",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "The hydrogen atom and atomic structure",
+    "et": "Vesinikuaatom ja aatomi struktuur",
+    "sourceHash": "fb18ffe2f234114e",
+    "stale": false
+  },
+  "summary": {
+    "en": "Solving the quantum mechanics of an electron bound to a single proton reproduces the discrete energy levels of hydrogen and introduces the quantum numbers that organise every atom's electron structure.",
+    "et": "Ühe prootoni külge seotud elektroni kvantmehaanika lahendamine annab vesiniku diskreetsed energiatasemed ja kvantarvud, mis korrastavad iga aatomi elektronstruktuuri.",
+    "sourceHash": "ad7fe1702aeaba38",
+    "stale": false
+  },
+  "prerequisites": [
+    "quantum-energy-levels",
+    "particle-in-a-box"
+  ]
+}

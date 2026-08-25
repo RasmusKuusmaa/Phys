@@ -1,0 +1,37 @@
+{
+  "id": "free-energy-solve-g",
+  "formulaId": "free-energy-formula",
+  "solveFor": "G",
+  "mistakes": [
+    {
+      "id": "forgot-to-multiply-by-temperature",
+      "description": {
+        "en": "Subtracted the entropy value directly from enthalpy instead of multiplying it by temperature first.",
+        "et": "Lahutas entroopia väärtuse entalpiast otse, korrutamata seda enne temperatuuriga.",
+        "sourceHash": "8f8b5a590eee44b2",
+        "stale": false
+      },
+      "expression": "H-S"
+    },
+    {
+      "id": "added-instead-of-subtracted",
+      "description": {
+        "en": "Added the T·S term to enthalpy instead of subtracting it.",
+        "et": "Liitis liikme T·S entalpiale, selle asemel et see lahutada.",
+        "sourceHash": "55752f5cebe53157",
+        "stale": false
+      },
+      "expression": "H+T*S"
+    },
+    {
+      "id": "ignored-enthalpy",
+      "description": {
+        "en": "Reported only the temperature-entropy term, ignoring the enthalpy contribution entirely.",
+        "et": "Esitas ainult temperatuuri ja entroopia liikme, eirates entalpia panust täielikult.",
+        "sourceHash": "7e5f7edfaa042557",
+        "stale": false
+      },
+      "expression": "0-T*S"
+    }
+  ]
+}

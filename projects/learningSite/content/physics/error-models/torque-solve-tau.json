@@ -1,0 +1,37 @@
+{
+  "id": "torque-solve-tau",
+  "formulaId": "torque-formula",
+  "solveFor": "tau",
+  "mistakes": [
+    {
+      "id": "forgot-sine-factor",
+      "description": {
+        "en": "Multiplied force by distance directly, ignoring the angle between them.",
+        "et": "Korrutas jõu vahemaaga otse, eirates nendevahelist nurka.",
+        "sourceHash": "767af9d22872c7b8",
+        "stale": false
+      },
+      "expression": "r*F"
+    },
+    {
+      "id": "used-cosine-instead-of-sine",
+      "description": {
+        "en": "Used the cosine of the angle instead of its sine.",
+        "et": "Kasutas nurga siinuse asemel selle koosinust.",
+        "sourceHash": "cde109bac19c2dc4",
+        "stale": false
+      },
+      "expression": "r*F*cos(theta*3.14159265358979/180)"
+    },
+    {
+      "id": "added-instead-of-multiplied",
+      "description": {
+        "en": "Added the distance and the force instead of multiplying them.",
+        "et": "Liitis vahemaa ja jõu, selle asemel et neid korrutada.",
+        "sourceHash": "d35ee42a0623f76d",
+        "stale": false
+      },
+      "expression": "r+F"
+    }
+  ]
+}

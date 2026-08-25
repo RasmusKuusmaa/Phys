@@ -1,0 +1,23 @@
+{
+  "id": "maxwells-equations",
+  "subject": "physics",
+  "level": "L3",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Maxwell's equations",
+    "et": "Maxwelli võrrandid",
+    "sourceHash": "201b0d44eb0646a8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Four equations tie electric and magnetic fields to their sources and to each other, unifying electricity, magnetism and optics into one theory and predicting that changing fields propagate as electromagnetic waves at the speed of light.",
+    "et": "Neli võrrandit seovad elektri- ja magnetvälju nende allikate ja teineteisega, ühendades elektri, magnetismi ja optika üheks teooriaks ning ennustades, et muutuvad väljad levivad elektromagnetlainetena valguse kiirusel.",
+    "sourceHash": "20e0bcd57fc05ff0",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-induction",
+    "electric-fields",
+    "magnetic-fields"
+  ]
+}

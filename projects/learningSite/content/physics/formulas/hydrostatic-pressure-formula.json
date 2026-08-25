@@ -1,0 +1,59 @@
+{
+  "id": "hydrostatic-pressure-formula",
+  "conceptId": "pressure-in-fluids",
+  "latex": "P = P_0 + \\rho g h",
+  "symbols": [
+    {
+      "symbol": "P",
+      "name": {
+        "en": "pressure",
+        "et": "rõhk",
+        "sourceHash": "b667446e6eb2552f",
+        "stale": false
+      },
+      "unit": "Pa"
+    },
+    {
+      "symbol": "P0",
+      "name": {
+        "en": "pressure",
+        "et": "rõhk",
+        "sourceHash": "b667446e6eb2552f",
+        "stale": false
+      },
+      "unit": "Pa"
+    },
+    {
+      "symbol": "rho",
+      "name": {
+        "en": "density",
+        "et": "tihedus",
+        "sourceHash": "06f8382071a4109d",
+        "stale": false
+      },
+      "unit": "kg/m^3"
+    },
+    {
+      "symbol": "h",
+      "name": {
+        "en": "height",
+        "et": "kõrgus",
+        "sourceHash": "39e0f5efdc39ec10",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "P",
+    "P0",
+    "rho",
+    "h"
+  ],
+  "expressions": {
+    "P": "P0+rho*9.81*h",
+    "P0": "P-rho*9.81*h",
+    "rho": "(P-P0)/(9.81*h)",
+    "h": "(P-P0)/(rho*9.81)"
+  }
+}

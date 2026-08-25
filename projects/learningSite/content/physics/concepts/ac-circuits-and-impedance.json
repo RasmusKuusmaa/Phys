@@ -1,0 +1,21 @@
+{
+  "id": "ac-circuits-and-impedance",
+  "subject": "physics",
+  "level": "L3",
+  "module": "electromagnetism",
+  "title": {
+    "en": "AC circuits and impedance",
+    "et": "Vahelduvvooluahelad ja impedants",
+    "sourceHash": "09eb13054b5c4964",
+    "stale": false
+  },
+  "summary": {
+    "en": "In an alternating-current circuit, resistors, capacitors and inductors oppose current with an impedance that combines resistance with frequency-dependent reactance, so current and voltage can drift out of phase with each other.",
+    "et": "Vahelduvvooluahelas takistavad takistid, kondensaatorid ja induktiivpoolid voolu impedantsiga, mis ühendab takistuse sagedusest sõltuva reaktantsiga, mistõttu vool ja pinge võivad teineteise suhtes faasist väljas olla.",
+    "sourceHash": "e441c66950e92740",
+    "stale": false
+  },
+  "prerequisites": [
+    "rc-circuit-transients"
+  ]
+}

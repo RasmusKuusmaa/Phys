@@ -1,0 +1,37 @@
+{
+  "id": "time-dilation-solve-t",
+  "formulaId": "time-dilation-formula",
+  "solveFor": "t",
+  "mistakes": [
+    {
+      "id": "ignored-relativistic-factor",
+      "description": {
+        "en": "Reported the proper time unchanged, ignoring the relativistic factor entirely.",
+        "et": "Esitas omaaja muutumatuna, eirates täielikult relativistlikku tegurit.",
+        "sourceHash": "b714b61bfddd1aea",
+        "stale": false
+      },
+      "expression": "t0"
+    },
+    {
+      "id": "used-v-over-c-directly",
+      "description": {
+        "en": "Multiplied the proper time by v/c instead of applying the full Lorentz factor.",
+        "et": "Korrutas omaaja suhtega v/c, selle asemel et rakendada täielikku Lorentzi tegurit.",
+        "sourceHash": "a18b3fdabe7f0fca",
+        "stale": false
+      },
+      "expression": "t0*(v/299792458)"
+    },
+    {
+      "id": "inverted-the-factor",
+      "description": {
+        "en": "Multiplied by the relativistic factor instead of dividing by it, making the dilated time shorter than the proper time.",
+        "et": "Korrutas relativistliku teguriga selle asemel, et sellega jagada, mistõttu dilateeritud aeg tuli omaajast lühem.",
+        "sourceHash": "7bc042e3af7d2bb2",
+        "stale": false
+      },
+      "expression": "t0*sqrt(1-(v^2)/(299792458^2))"
+    }
+  ]
+}

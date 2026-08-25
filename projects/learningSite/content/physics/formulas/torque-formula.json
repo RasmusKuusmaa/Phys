@@ -1,0 +1,57 @@
+{
+  "id": "torque-formula",
+  "conceptId": "torque-and-angular-momentum",
+  "latex": "\\tau = rF\\sin\\theta",
+  "symbols": [
+    {
+      "symbol": "tau",
+      "name": {
+        "en": "torque",
+        "et": "jõumoment",
+        "sourceHash": "77c1f0ad5be9d138",
+        "stale": false
+      },
+      "unit": "N*m"
+    },
+    {
+      "symbol": "r",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "F",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    },
+    {
+      "symbol": "theta",
+      "name": {
+        "en": "angle",
+        "et": "nurk",
+        "sourceHash": "49387897bee2bee3",
+        "stale": false
+      },
+      "unit": "deg"
+    }
+  ],
+  "solveFor": [
+    "tau",
+    "F",
+    "r"
+  ],
+  "expressions": {
+    "tau": "r*F*sin(theta*3.14159265358979/180)",
+    "F": "tau/(r*sin(theta*3.14159265358979/180))",
+    "r": "tau/(F*sin(theta*3.14159265358979/180))"
+  }
+}

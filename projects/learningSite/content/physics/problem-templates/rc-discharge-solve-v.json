@@ -1,0 +1,17 @@
+{
+  "id": "rc-discharge-solve-v",
+  "formulaId": "rc-discharge-formula",
+  "variables": [
+    { "symbol": "V0", "min": 1, "max": 20, "unit": "V", "sigFigs": 3 },
+    { "symbol": "t", "min": 0.001, "max": 5, "unit": "s", "sigFigs": 3 },
+    { "symbol": "R", "min": 100, "max": 10000, "unit": "ohm", "sigFigs": 3 },
+    { "symbol": "C", "min": 0.000001, "max": 0.001, "unit": "F", "sigFigs": 3 }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "V0", "right": 0 },
+    { "op": "gt", "left": "t", "right": 0 },
+    { "op": "gt", "left": "R", "right": 0 },
+    { "op": "gt", "left": "C", "right": 0 }
+  ],
+  "solveFor": "V"
+}

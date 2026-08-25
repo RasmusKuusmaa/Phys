@@ -1,0 +1,23 @@
+{
+  "id": "relativistic-momentum-and-energy",
+  "subject": "physics",
+  "level": "L3",
+  "module": "special-relativity",
+  "title": {
+    "en": "Relativistic momentum and energy",
+    "et": "Relativistlik impulss ja energia",
+    "sourceHash": "1d907d268e3657c6",
+    "stale": false
+  },
+  "summary": {
+    "en": "As speed approaches the speed of light, momentum grows faster than the classical mv predicts, and even a mass at rest carries an intrinsic energy given by E = mc², the basis of nuclear energy release.",
+    "et": "Kiiruse lähenedes valguse kiirusele kasvab impulss kiiremini, kui klassikaline mv ennustab, ning ka seisuolekus massile vastab sisemine energia, mille annab E = mc² — see on tuumaenergia vabanemise alus.",
+    "sourceHash": "6457859f12c1ce77",
+    "stale": false
+  },
+  "prerequisites": [
+    "length-contraction",
+    "conservation-of-momentum",
+    "conservation-of-energy"
+  ]
+}

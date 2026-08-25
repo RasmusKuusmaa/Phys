@@ -1,0 +1,15 @@
+{
+  "id": "continuity-solve-v2",
+  "formulaId": "continuity-formula",
+  "variables": [
+    { "symbol": "A1", "min": 0.001, "max": 0.5, "unit": "m^2", "sigFigs": 3 },
+    { "symbol": "A2", "min": 0.001, "max": 0.5, "unit": "m^2", "sigFigs": 3 },
+    { "symbol": "v1", "min": 0.1, "max": 10, "unit": "m/s", "sigFigs": 3 }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "A1", "right": 0 },
+    { "op": "gt", "left": "A2", "right": 0 },
+    { "op": "gt", "left": "v1", "right": 0 }
+  ],
+  "solveFor": "v2"
+}

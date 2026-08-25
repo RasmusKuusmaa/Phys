@@ -1,0 +1,47 @@
+{
+  "id": "carnot-efficiency-formula",
+  "conceptId": "the-carnot-cycle-and-heat-engines",
+  "latex": "\\eta = 1 - \\frac{T_c}{T_h}",
+  "symbols": [
+    {
+      "symbol": "eta",
+      "name": {
+        "en": "thermal efficiency",
+        "et": "kasutegur",
+        "sourceHash": "30afa276de4e0ddf",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "Tc",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    },
+    {
+      "symbol": "Th",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    }
+  ],
+  "solveFor": [
+    "eta",
+    "Tc",
+    "Th"
+  ],
+  "expressions": {
+    "eta": "1-Tc/Th",
+    "Tc": "Th*(1-eta)",
+    "Th": "Tc/(1-eta)"
+  }
+}

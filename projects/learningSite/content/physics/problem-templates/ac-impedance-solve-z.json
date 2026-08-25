@@ -1,0 +1,15 @@
+{
+  "id": "ac-impedance-solve-z",
+  "formulaId": "ac-impedance-formula",
+  "variables": [
+    { "symbol": "R", "min": 10, "max": 500, "unit": "ohm", "sigFigs": 3 },
+    { "symbol": "XL", "min": 0, "max": 300, "unit": "ohm", "sigFigs": 3 },
+    { "symbol": "XC", "min": 0, "max": 300, "unit": "ohm", "sigFigs": 3 }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "R", "right": 0 },
+    { "op": "gte", "left": "XL", "right": 0 },
+    { "op": "gte", "left": "XC", "right": 0 }
+  ],
+  "solveFor": "Z"
+}

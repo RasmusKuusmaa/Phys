@@ -1,0 +1,37 @@
+{
+  "id": "continuity-solve-v2",
+  "formulaId": "continuity-formula",
+  "solveFor": "v2",
+  "mistakes": [
+    {
+      "id": "inverted-the-area-ratio",
+      "description": {
+        "en": "Multiplied by A2/A1 instead of A1/A2, reversing which section speeds up.",
+        "et": "Korrutas A2/A1, mitte A1/A2, mistõttu tuli valesti välja, kumb lõik kiireneb.",
+        "sourceHash": "5bd7a57e6b1a21ed",
+        "stale": false
+      },
+      "expression": "v1*A2/A1"
+    },
+    {
+      "id": "assumed-equal-speeds",
+      "description": {
+        "en": "Reported the first speed unchanged, assuming flow speed cannot change along the pipe.",
+        "et": "Esitas esimese kiiruse muutumatuna, eeldades, et vooluskiirus ei saa toru pikkuses muutuda.",
+        "sourceHash": "2a6e5b26bb4796c1",
+        "stale": false
+      },
+      "expression": "v1"
+    },
+    {
+      "id": "added-instead-of-scaled",
+      "description": {
+        "en": "Added the two areas to the first speed instead of scaling it by their ratio.",
+        "et": "Liitis kaks pindala esimesele kiirusele, selle asemel et kiirust nende suhtega skaleerida.",
+        "sourceHash": "950ce01421c875cd",
+        "stale": false
+      },
+      "expression": "v1+A1-A2"
+    }
+  ]
+}

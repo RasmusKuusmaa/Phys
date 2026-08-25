@@ -1,0 +1,21 @@
+{
+  "id": "the-maxwell-boltzmann-distribution",
+  "subject": "physics",
+  "level": "L2",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "The Maxwell-Boltzmann distribution",
+    "et": "Maxwelli-Boltzmanni jaotus",
+    "sourceHash": "496219ae7ccdb460",
+    "stale": false
+  },
+  "summary": {
+    "en": "In a gas at thermal equilibrium, molecular speeds spread out over a characteristic distribution set by temperature and mass — most molecules cluster near a typical speed, with a tail of much faster and much slower ones.",
+    "et": "Termilises tasakaalus oleva gaasi molekulide kiirused jaotuvad temperatuurist ja massist sõltuva iseloomuliku jaotuse järgi — enamik molekule koondub tüüpilise kiiruse ümber, ent esineb ka palju kiiremaid ja aeglasemaid.",
+    "sourceHash": "dbfb736cb99b6b46",
+    "stale": false
+  },
+  "prerequisites": [
+    "kinetic-theory-of-gases"
+  ]
+}

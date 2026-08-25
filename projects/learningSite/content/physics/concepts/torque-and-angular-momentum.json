@@ -1,0 +1,22 @@
+{
+  "id": "torque-and-angular-momentum",
+  "subject": "physics",
+  "level": "L2",
+  "module": "mechanics",
+  "title": {
+    "en": "Torque and angular momentum",
+    "et": "Jõumoment ja impulsimoment",
+    "sourceHash": "bd5ffd0dbd5a9e2b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Torque measures how effectively a force twists an object about a pivot, equal to the force times the perpendicular lever arm; angular momentum is its rotational analogue of momentum, conserved when no net torque acts.",
+    "et": "Jõumoment näitab, kui tõhusalt jõud keerab objekti ümber pöördepunkti, võrdudes jõu ja risti asetseva õlavarre korrutisega; impulsimoment on impulsi pöörlemisanaloog, mis jääb muutumatuks, kui resultantjõumoment puudub.",
+    "sourceHash": "9dc2751f7ec1132b",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtons-second-law",
+    "momentum-and-impulse"
+  ]
+}

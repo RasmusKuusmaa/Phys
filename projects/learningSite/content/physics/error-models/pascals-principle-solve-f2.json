@@ -1,0 +1,37 @@
+{
+  "id": "pascals-principle-solve-f2",
+  "formulaId": "pascals-principle-formula",
+  "solveFor": "F2",
+  "mistakes": [
+    {
+      "id": "inverted-the-area-ratio",
+      "description": {
+        "en": "Multiplied by the ratio of the narrow area to the wide area instead of the wide area to the narrow area.",
+        "et": "Korrutas kitsa pindala ja laia pindala suhtega, selle asemel et kasutada laia ja kitsa pindala suhet.",
+        "sourceHash": "4e2d3c9a178ab0f4",
+        "stale": false
+      },
+      "expression": "F1*A1/A2"
+    },
+    {
+      "id": "assumed-equal-forces",
+      "description": {
+        "en": "Reported the input force unchanged, assuming the output force must equal it regardless of piston area.",
+        "et": "Esitas sisendjõu muutumatuna, eeldades, et väljundjõud peab sellega võrduma sõltumata kolvi pindalast.",
+        "sourceHash": "bc48d91790eaa0f7",
+        "stale": false
+      },
+      "expression": "F1"
+    },
+    {
+      "id": "added-instead-of-scaled",
+      "description": {
+        "en": "Added the two piston areas to the input force instead of scaling it by their ratio.",
+        "et": "Liitis kaks kolvi pindala sisendjõule, selle asemel et jõudu nende suhtega skaleerida.",
+        "sourceHash": "13ac0e9acfa4626a",
+        "stale": false
+      },
+      "expression": "F1+A2-A1"
+    }
+  ]
+}

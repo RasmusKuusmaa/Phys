@@ -1,0 +1,22 @@
+{
+  "id": "rotational-kinetic-energy",
+  "subject": "physics",
+  "level": "L2",
+  "module": "mechanics",
+  "title": {
+    "en": "Rotational kinetic energy",
+    "et": "Pöörlemise kineetiline energia",
+    "sourceHash": "098dab4dd06fd28a",
+    "stale": false
+  },
+  "summary": {
+    "en": "A rotating object stores kinetic energy in its spin, given by one half its moment of inertia times its angular velocity squared — the rotational counterpart of one half mv².",
+    "et": "Pöörlev objekt talletab kineetilist energiat oma pöörlemises, mille annab pool inertsimomendi ja nurkkiiruse ruudu korrutisest — see on pöörlemisanaloog avaldisele pool mv².",
+    "sourceHash": "9fc6ac0be0a2a674",
+    "stale": false
+  },
+  "prerequisites": [
+    "moment-of-inertia-and-rotational-dynamics",
+    "work-and-energy"
+  ]
+}

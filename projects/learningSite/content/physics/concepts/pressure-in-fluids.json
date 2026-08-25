@@ -1,0 +1,21 @@
+{
+  "id": "pressure-in-fluids",
+  "subject": "physics",
+  "level": "L1",
+  "module": "fluid-mechanics",
+  "title": {
+    "en": "Pressure in fluids",
+    "et": "Rõhk vedelikes",
+    "sourceHash": "abbd639bb8e127f8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Pressure in a fluid increases with depth because each layer must support the weight of everything above it, so the pressure at a depth h below the surface equals the surface pressure plus the fluid's density times gravitational acceleration times depth.",
+    "et": "Rõhk vedelikus kasvab sügavusega, sest iga kiht peab kandma kõike tema kohal olevat, mistõttu rõhk sügavusel h pinna all võrdub pinnarõhu ning vedeliku tiheduse, raskuskiirenduse ja sügavuse korrutise summaga.",
+    "sourceHash": "99098a2ceda2137e",
+    "stale": false
+  },
+  "prerequisites": [
+    "physical-quantities-and-units"
+  ]
+}

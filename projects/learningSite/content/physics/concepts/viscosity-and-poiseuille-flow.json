@@ -1,0 +1,21 @@
+{
+  "id": "viscosity-and-poiseuille-flow",
+  "subject": "physics",
+  "level": "L3",
+  "module": "fluid-mechanics",
+  "title": {
+    "en": "Viscosity and Poiseuille flow",
+    "et": "Viskoossus ja Poiseuille' vool",
+    "sourceHash": "8df2c9c5f300ff36",
+    "stale": false
+  },
+  "summary": {
+    "en": "Real fluids resist internal sliding between layers, an effect called viscosity; in a narrow pipe this drag makes flow either smooth and layered at low speed or chaotic and turbulent once a critical speed is crossed.",
+    "et": "Reaalsed vedelikud takistavad kihtide omavahelist libisemist — seda nimetatakse viskoossuseks; kitsas torus muudab see takistus voolu kas sujuvaks ja kihiliseks madalal kiirusel või kaootiliseks ja turbulentseks, kui kriitiline kiirus ületatakse.",
+    "sourceHash": "324a0181d124e2df",
+    "stale": false
+  },
+  "prerequisites": [
+    "bernoullis-equation"
+  ]
+}

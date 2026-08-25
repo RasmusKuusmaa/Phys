@@ -1,0 +1,53 @@
+{
+  "id": "ac-impedance-formula",
+  "conceptId": "ac-circuits-and-impedance",
+  "latex": "Z = \\sqrt{R^2 + (X_L - X_C)^2}",
+  "symbols": [
+    {
+      "symbol": "Z",
+      "name": {
+        "en": "impedance",
+        "et": "impedants",
+        "sourceHash": "fd237f3d12747c61",
+        "stale": false
+      },
+      "unit": "ohm"
+    },
+    {
+      "symbol": "R",
+      "name": {
+        "en": "resistance",
+        "et": "takistus",
+        "sourceHash": "be970d090a9b0a23",
+        "stale": false
+      },
+      "unit": "ohm"
+    },
+    {
+      "symbol": "XL",
+      "name": {
+        "en": "reactance",
+        "et": "reaktants",
+        "sourceHash": "fb93d88a9bd400b7",
+        "stale": false
+      },
+      "unit": "ohm"
+    },
+    {
+      "symbol": "XC",
+      "name": {
+        "en": "reactance",
+        "et": "reaktants",
+        "sourceHash": "fb93d88a9bd400b7",
+        "stale": false
+      },
+      "unit": "ohm"
+    }
+  ],
+  "solveFor": [
+    "Z"
+  ],
+  "expressions": {
+    "Z": "sqrt(R^2+(XL-XC)^2)"
+  }
+}

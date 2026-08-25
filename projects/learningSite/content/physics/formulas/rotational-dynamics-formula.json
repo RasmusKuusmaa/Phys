@@ -1,0 +1,47 @@
+{
+  "id": "rotational-dynamics-formula",
+  "conceptId": "moment-of-inertia-and-rotational-dynamics",
+  "latex": "\\tau = I\\alpha",
+  "symbols": [
+    {
+      "symbol": "tau",
+      "name": {
+        "en": "torque",
+        "et": "jõumoment",
+        "sourceHash": "77c1f0ad5be9d138",
+        "stale": false
+      },
+      "unit": "N*m"
+    },
+    {
+      "symbol": "I",
+      "name": {
+        "en": "moment of inertia",
+        "et": "inertsimoment",
+        "sourceHash": "f4c49e45fb66177d",
+        "stale": false
+      },
+      "unit": "kg*m^2"
+    },
+    {
+      "symbol": "alpha",
+      "name": {
+        "en": "angular acceleration",
+        "et": "nurkkiirendus",
+        "sourceHash": "a6b6071a1175f9b4",
+        "stale": false
+      },
+      "unit": "rad/s^2"
+    }
+  ],
+  "solveFor": [
+    "tau",
+    "I",
+    "alpha"
+  ],
+  "expressions": {
+    "tau": "I*alpha",
+    "I": "tau/alpha",
+    "alpha": "tau/I"
+  }
+}

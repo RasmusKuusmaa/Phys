@@ -1,0 +1,59 @@
+{
+  "id": "continuity-formula",
+  "conceptId": "fluid-continuity-and-flow-rate",
+  "latex": "A_1 v_1 = A_2 v_2",
+  "symbols": [
+    {
+      "symbol": "A1",
+      "name": {
+        "en": "area",
+        "et": "pindala",
+        "sourceHash": "4a91ee5f0106c2b3",
+        "stale": false
+      },
+      "unit": "m^2"
+    },
+    {
+      "symbol": "A2",
+      "name": {
+        "en": "area",
+        "et": "pindala",
+        "sourceHash": "4a91ee5f0106c2b3",
+        "stale": false
+      },
+      "unit": "m^2"
+    },
+    {
+      "symbol": "v1",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "v2",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    }
+  ],
+  "solveFor": [
+    "v2",
+    "v1",
+    "A1",
+    "A2"
+  ],
+  "expressions": {
+    "v2": "A1*v1/A2",
+    "v1": "A2*v2/A1",
+    "A1": "A2*v2/v1",
+    "A2": "A1*v1/v2"
+  }
+}

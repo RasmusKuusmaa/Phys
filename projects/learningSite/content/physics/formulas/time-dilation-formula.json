@@ -1,0 +1,47 @@
+{
+  "id": "time-dilation-formula",
+  "conceptId": "time-dilation",
+  "latex": "\\Delta t = \\frac{\\Delta t_0}{\\sqrt{1 - v^2/c^2}}",
+  "symbols": [
+    {
+      "symbol": "t",
+      "name": {
+        "en": "time",
+        "et": "aeg",
+        "sourceHash": "336074805fc85398",
+        "stale": false
+      },
+      "unit": "s"
+    },
+    {
+      "symbol": "t0",
+      "name": {
+        "en": "time",
+        "et": "aeg",
+        "sourceHash": "336074805fc85398",
+        "stale": false
+      },
+      "unit": "s"
+    },
+    {
+      "symbol": "v",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    }
+  ],
+  "solveFor": [
+    "t",
+    "t0",
+    "v"
+  ],
+  "expressions": {
+    "t": "t0/sqrt(1-(v^2)/(299792458^2))",
+    "t0": "t*sqrt(1-(v^2)/(299792458^2))",
+    "v": "299792458*sqrt(1-(t0/t)^2)"
+  }
+}

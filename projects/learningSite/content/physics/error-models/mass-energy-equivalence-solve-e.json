@@ -1,0 +1,37 @@
+{
+  "id": "mass-energy-equivalence-solve-e",
+  "formulaId": "mass-energy-equivalence-formula",
+  "solveFor": "E",
+  "mistakes": [
+    {
+      "id": "forgot-to-square-c",
+      "description": {
+        "en": "Multiplied mass by c instead of c squared.",
+        "et": "Korrutas massi valguse kiirusega, mitte selle ruuduga.",
+        "sourceHash": "39395eed0ca2b883",
+        "stale": false
+      },
+      "expression": "m*299792458"
+    },
+    {
+      "id": "used-classical-kinetic-energy-form",
+      "description": {
+        "en": "Applied the classical kinetic energy formula with c substituted for speed, halving the result.",
+        "et": "Rakendas klassikalist kineetilise energia valemit, asendades kiiruse valguse kiirusega, mis poolitas tulemuse.",
+        "sourceHash": "1a26a817ea166ff5",
+        "stale": false
+      },
+      "expression": "0.5*m*299792458^2"
+    },
+    {
+      "id": "reported-mass-as-energy",
+      "description": {
+        "en": "Reported the mass value itself as the energy, without multiplying by c squared at all.",
+        "et": "Esitas energiana otse massi väärtuse, korrutamata seda üldse valguse kiiruse ruuduga.",
+        "sourceHash": "16884ad366bd4260",
+        "stale": false
+      },
+      "expression": "m"
+    }
+  ]
+}

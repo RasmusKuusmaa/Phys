@@ -1,0 +1,21 @@
+{
+  "id": "postulates-of-special-relativity",
+  "subject": "physics",
+  "level": "L3",
+  "module": "special-relativity",
+  "title": {
+    "en": "Postulates of special relativity",
+    "et": "Erirelatiivsusteooria postulaadid",
+    "sourceHash": "8360c4acc6b79fb4",
+    "stale": false
+  },
+  "summary": {
+    "en": "The laws of physics are identical in every inertial frame of reference, and the speed of light in vacuum is the same for every observer, regardless of the motion of the light source or the observer.",
+    "et": "Füüsikaseadused on ühesugused kõigis inertsiaalsetes taustsüsteemides ning valguse kiirus vaakumis on sama kõigi vaatlejate jaoks, sõltumata valgusallika või vaatleja liikumisest.",
+    "sourceHash": "9f52ac44f827cda8",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-waves"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "free-energy-solve-g",
+  "formulaId": "free-energy-formula",
+  "variables": [
+    { "symbol": "H", "min": -2000, "max": 2000, "unit": "J", "sigFigs": 3 },
+    { "symbol": "T", "min": 200, "max": 500, "unit": "K", "sigFigs": 3 },
+    { "symbol": "S", "min": -50, "max": 50, "unit": "J/K", "sigFigs": 3 }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "T", "right": 0 }
+  ],
+  "solveFor": "G"
+}

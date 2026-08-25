@@ -1,0 +1,47 @@
+{
+  "id": "buoyancy-formula",
+  "conceptId": "buoyancy-and-archimedes-principle",
+  "latex": "F_b = \\rho V g",
+  "symbols": [
+    {
+      "symbol": "Fb",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    },
+    {
+      "symbol": "rho",
+      "name": {
+        "en": "density",
+        "et": "tihedus",
+        "sourceHash": "06f8382071a4109d",
+        "stale": false
+      },
+      "unit": "kg/m^3"
+    },
+    {
+      "symbol": "V",
+      "name": {
+        "en": "volume",
+        "et": "ruumala",
+        "sourceHash": "62d7a6b1211d6276",
+        "stale": false
+      },
+      "unit": "m^3"
+    }
+  ],
+  "solveFor": [
+    "Fb",
+    "rho",
+    "V"
+  ],
+  "expressions": {
+    "Fb": "rho*V*9.81",
+    "rho": "Fb/(V*9.81)",
+    "V": "Fb/(rho*9.81)"
+  }
+}

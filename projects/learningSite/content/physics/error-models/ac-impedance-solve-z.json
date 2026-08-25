@@ -1,0 +1,37 @@
+{
+  "id": "ac-impedance-solve-z",
+  "formulaId": "ac-impedance-formula",
+  "solveFor": "Z",
+  "mistakes": [
+    {
+      "id": "added-resistance-and-reactance-directly",
+      "description": {
+        "en": "Added the resistance and net reactance directly instead of combining them as the two legs of a right triangle.",
+        "et": "Liitis takistuse ja netoreaktantsi otse, selle asemel et neid ühendada täisnurkse kolmnurga kahe kaatetina.",
+        "sourceHash": "cb328c004524202e",
+        "stale": false
+      },
+      "expression": "R+(XL-XC)"
+    },
+    {
+      "id": "forgot-to-take-square-root",
+      "description": {
+        "en": "Reported the sum of the squares as the impedance, forgetting to take the square root.",
+        "et": "Esitas impedantsina ruutude summa, unustades ruutjuure võtmise.",
+        "sourceHash": "22fba6f96b5119e7",
+        "stale": false
+      },
+      "expression": "R^2+(XL-XC)^2"
+    },
+    {
+      "id": "added-reactances-instead-of-subtracting",
+      "description": {
+        "en": "Added the inductive and capacitive reactance instead of taking their difference.",
+        "et": "Liitis induktiivse ja mahtuvusliku reaktantsi, selle asemel et võtta nende vahe.",
+        "sourceHash": "b2bafaa5b1e8d464",
+        "stale": false
+      },
+      "expression": "sqrt(R^2+(XL+XC)^2)"
+    }
+  ]
+}

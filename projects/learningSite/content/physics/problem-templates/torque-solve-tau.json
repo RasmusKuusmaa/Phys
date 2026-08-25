@@ -1,0 +1,15 @@
+{
+  "id": "torque-solve-tau",
+  "formulaId": "torque-formula",
+  "variables": [
+    { "symbol": "r", "min": 0.1, "max": 2, "unit": "m", "sigFigs": 3 },
+    { "symbol": "F", "min": 1, "max": 200, "unit": "N", "sigFigs": 3 },
+    { "symbol": "theta", "min": 10, "max": 90, "unit": "deg", "sigFigs": 3 }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "r", "right": 0 },
+    { "op": "gt", "left": "F", "right": 0 },
+    { "op": "gt", "left": "theta", "right": 0 }
+  ],
+  "solveFor": "tau"
+}

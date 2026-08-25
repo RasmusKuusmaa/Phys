@@ -1,0 +1,21 @@
+{
+  "id": "time-dilation",
+  "subject": "physics",
+  "level": "L3",
+  "module": "special-relativity",
+  "title": {
+    "en": "Time dilation",
+    "et": "Aja dilatatsioon",
+    "sourceHash": "a727be25c3720031",
+    "stale": false
+  },
+  "summary": {
+    "en": "A clock moving relative to an observer ticks more slowly than an identical clock at rest in the observer's own frame — the closer the relative speed is to the speed of light, the larger the effect.",
+    "et": "Vaatleja suhtes liikuv kell käib aeglasemalt kui identne kell, mis seisab vaatleja enda taustsüsteemis — mida lähemal on suhteline kiirus valguse kiirusele, seda suurem on efekt.",
+    "sourceHash": "94f5e918ef33736e",
+    "stale": false
+  },
+  "prerequisites": [
+    "postulates-of-special-relativity"
+  ]
+}

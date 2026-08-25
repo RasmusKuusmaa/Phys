@@ -1,0 +1,22 @@
+{
+  "id": "rc-circuit-transients",
+  "subject": "physics",
+  "level": "L3",
+  "module": "electromagnetism",
+  "title": {
+    "en": "RC and RL circuit transients",
+    "et": "RC- ja RL-ahelate siirdeprotsessid",
+    "sourceHash": "f0ed9c099d64024f",
+    "stale": false
+  },
+  "summary": {
+    "en": "When a capacitor charges or discharges through a resistor, its voltage approaches its final value exponentially rather than instantly, with a time constant set by the product of resistance and capacitance; an inductor produces the analogous exponential delay in current.",
+    "et": "Kui kondensaator laadib või tühjeneb läbi takisti, läheneb tema pinge lõppväärtusele eksponentsiaalselt, mitte hetkeliselt, ajakonstandiga, mille annab takistuse ja mahtuvuse korrutis; induktiivpool tekitab analoogse eksponentsiaalse viivituse voolus.",
+    "sourceHash": "32db2fcd1f81f465",
+    "stale": false
+  },
+  "prerequisites": [
+    "kirchhoffs-laws-and-circuit-analysis",
+    "capacitance"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "length-contraction-formula",
+  "conceptId": "length-contraction",
+  "latex": "L = L_0 \\sqrt{1 - v^2/c^2}",
+  "symbols": [
+    {
+      "symbol": "L",
+      "name": {
+        "en": "length",
+        "et": "pikkus",
+        "sourceHash": "0f82aca66af91493",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "L0",
+      "name": {
+        "en": "length",
+        "et": "pikkus",
+        "sourceHash": "0f82aca66af91493",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "v",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    }
+  ],
+  "solveFor": [
+    "L",
+    "L0",
+    "v"
+  ],
+  "expressions": {
+    "L": "L0*sqrt(1-(v^2)/(299792458^2))",
+    "L0": "L/sqrt(1-(v^2)/(299792458^2))",
+    "v": "299792458*sqrt(1-(L/L0)^2)"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fluid-continuity-and-flow-rate",
+  "subject": "physics",
+  "level": "L2",
+  "module": "fluid-mechanics",
+  "title": {
+    "en": "Fluid continuity and flow rate",
+    "et": "Vedeliku pidevus ja vooluhulk",
+    "sourceHash": "4a4fa11203481b3b",
+    "stale": false
+  },
+  "summary": {
+    "en": "For an incompressible fluid flowing through a pipe, the same volume must pass every cross-section each second, so the fluid speeds up wherever the pipe narrows and slows down wherever it widens.",
+    "et": "Kokkusurumatu vedeliku voolamisel torus peab iga sekund läbima sama ruumala igast ristlõikest, mistõttu vedelik kiireneb toru kitsenedes ja aeglustub toru laienedes.",
+    "sourceHash": "6c5fbdb74ecf27ec",
+    "stale": false
+  },
+  "prerequisites": [
+    "pressure-in-fluids"
+  ]
+}

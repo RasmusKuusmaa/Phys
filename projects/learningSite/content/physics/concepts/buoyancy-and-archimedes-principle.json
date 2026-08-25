@@ -1,0 +1,21 @@
+{
+  "id": "buoyancy-and-archimedes-principle",
+  "subject": "physics",
+  "level": "L1",
+  "module": "fluid-mechanics",
+  "title": {
+    "en": "Buoyancy and Archimedes' principle",
+    "et": "Üleslükkejõud ja Archimedese seadus",
+    "sourceHash": "daec5c003361147e",
+    "stale": false
+  },
+  "summary": {
+    "en": "An object submerged in a fluid experiences an upward buoyant force equal to the weight of the fluid it displaces — whether the object floats or sinks depends on how that buoyant force compares to its own weight.",
+    "et": "Vedelikku sukeldatud objektile mõjub ülespoole suunatud üleslükkejõud, mis võrdub tema poolt väljatõrjutud vedeliku kaaluga — kas objekt ujub või vajub, sõltub sellest, kuidas see jõud võrdub tema enda kaaluga.",
+    "sourceHash": "b937ab336d509709",
+    "stale": false
+  },
+  "prerequisites": [
+    "pressure-in-fluids"
+  ]
+}

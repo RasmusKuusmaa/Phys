@@ -1,0 +1,22 @@
+{
+  "id": "the-carnot-cycle-and-heat-engines",
+  "subject": "physics",
+  "level": "L3",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "The Carnot cycle and heat engines",
+    "et": "Carnot' tsükkel ja soojusmasinad",
+    "sourceHash": "cb1536902f497b92",
+    "stale": false
+  },
+  "summary": {
+    "en": "No heat engine operating between two temperatures can be more efficient than the idealised Carnot cycle, whose efficiency depends only on the ratio of the cold and hot reservoir temperatures.",
+    "et": "Ükski kahe temperatuuri vahel töötav soojusmasin ei saa olla tõhusam kui idealiseeritud Carnot' tsükkel, mille kasutegur sõltub ainult külma ja kuuma reservuaari temperatuuride suhtest.",
+    "sourceHash": "ae3a095fefa44718",
+    "stale": false
+  },
+  "prerequisites": [
+    "laws-of-thermodynamics",
+    "entropy-and-the-second-law"
+  ]
+}

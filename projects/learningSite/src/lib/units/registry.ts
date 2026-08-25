@@ -199,6 +199,48 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ mass: 1, length: 2, time: -2 }),
     toBase: 1.602176634e-19,
   },
+  "m^2": {
+    symbol: "m^2",
+    name: { en: "square metre", et: "ruutmeeter" },
+    dimension: dim({ length: 2 }),
+    toBase: 1,
+  },
+  "kg/m^3": {
+    symbol: "kg/m^3",
+    name: { en: "kilogram per cubic metre", et: "kilogramm kuupmeetri kohta" },
+    dimension: dim({ mass: 1, length: -3 }),
+    toBase: 1,
+  },
+  nm: {
+    symbol: "nm",
+    name: { en: "nanometre", et: "nanomeeter" },
+    dimension: dim({ length: 1 }),
+    toBase: 1e-9,
+  },
+  "N*m": {
+    symbol: "N*m",
+    name: { en: "newton-metre", et: "njuutonmeeter" },
+    dimension: dim({ mass: 1, length: 2, time: -2 }),
+    toBase: 1,
+  },
+  "kg*m^2": {
+    symbol: "kg*m^2",
+    name: { en: "kilogram square metre", et: "kilogramm-ruutmeeter" },
+    dimension: dim({ mass: 1, length: 2 }),
+    toBase: 1,
+  },
+  "rad/s": {
+    symbol: "rad/s",
+    name: { en: "radian per second", et: "radiaan sekundis" },
+    dimension: dim({ time: -1 }),
+    toBase: 1,
+  },
+  "rad/s^2": {
+    symbol: "rad/s^2",
+    name: { en: "radian per second squared", et: "radiaan sekundi kohta ruudus" },
+    dimension: dim({ time: -2 }),
+    toBase: 1,
+  },
 };
 
 export function getUnit(symbol: string): UnitDefinition {

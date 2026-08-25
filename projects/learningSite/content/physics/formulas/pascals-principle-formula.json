@@ -1,0 +1,59 @@
+{
+  "id": "pascals-principle-formula",
+  "conceptId": "pascals-principle-and-hydraulics",
+  "latex": "\\frac{F_1}{A_1} = \\frac{F_2}{A_2}",
+  "symbols": [
+    {
+      "symbol": "F1",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    },
+    {
+      "symbol": "F2",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    },
+    {
+      "symbol": "A1",
+      "name": {
+        "en": "area",
+        "et": "pindala",
+        "sourceHash": "4a91ee5f0106c2b3",
+        "stale": false
+      },
+      "unit": "m^2"
+    },
+    {
+      "symbol": "A2",
+      "name": {
+        "en": "area",
+        "et": "pindala",
+        "sourceHash": "4a91ee5f0106c2b3",
+        "stale": false
+      },
+      "unit": "m^2"
+    }
+  ],
+  "solveFor": [
+    "F2",
+    "F1",
+    "A1",
+    "A2"
+  ],
+  "expressions": {
+    "F2": "F1*A2/A1",
+    "F1": "F2*A1/A2",
+    "A1": "F1*A2/F2",
+    "A2": "F2*A1/F1"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "free-energy-formula",
+  "conceptId": "free-energy-and-spontaneity",
+  "latex": "\\Delta G = \\Delta H - T\\Delta S",
+  "symbols": [
+    {
+      "symbol": "G",
+      "name": {
+        "en": "free energy",
+        "et": "vaba energia",
+        "sourceHash": "6203a6c17a08e92c",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "H",
+      "name": {
+        "en": "enthalpy",
+        "et": "entalpia",
+        "sourceHash": "6711aa6a819433ba",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "T",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    },
+    {
+      "symbol": "S",
+      "name": {
+        "en": "entropy",
+        "et": "entroopia",
+        "sourceHash": "67671a2f53dd910a",
+        "stale": false
+      },
+      "unit": "J/K"
+    }
+  ],
+  "solveFor": [
+    "G",
+    "H",
+    "S",
+    "T"
+  ],
+  "expressions": {
+    "G": "H-T*S",
+    "H": "G+T*S",
+    "S": "(H-G)/T",
+    "T": "(H-G)/S"
+  }
+}

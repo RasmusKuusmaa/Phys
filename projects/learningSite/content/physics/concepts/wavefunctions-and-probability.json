@@ -1,0 +1,21 @@
+{
+  "id": "wavefunctions-and-probability",
+  "subject": "physics",
+  "level": "L2",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Wavefunctions and probability",
+    "et": "Lainefunktsioonid ja tõenäosus",
+    "sourceHash": "9cc3bcdd76e3d2da",
+    "stale": false
+  },
+  "summary": {
+    "en": "A quantum particle is described by a wavefunction whose squared magnitude gives the probability density of finding the particle at a given position — the particle has no definite location until it is measured.",
+    "et": "Kvantosakest kirjeldab lainefunktsioon, mille absoluutväärtuse ruut annab tõenäosustiheduse osakese leidmiseks antud asukohas — osakesel pole kindlat asukohta enne mõõtmist.",
+    "sourceHash": "c891ed56bf5283fd",
+    "stale": false
+  },
+  "prerequisites": [
+    "wave-particle-duality"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "particle-in-a-box",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Particle in a box",
+    "et": "Osake kastis",
+    "sourceHash": "937a0aa683d91ede",
+    "stale": false
+  },
+  "summary": {
+    "en": "Confining a quantum particle between rigid walls forces its wavefunction to fit a whole number of half-wavelengths, restricting its energy to a discrete ladder of allowed values rather than a continuous range.",
+    "et": "Kvantosakese piiramine jäikade seinte vahele sunnib tema lainefunktsiooni mahutama täisarvu poollaineid, mistõttu on tema energia piiratud diskreetse lubatud väärtuste redeliga, mitte pideva vahemikuga.",
+    "sourceHash": "8dbb7620bf405b75",
+    "stale": false
+  },
+  "prerequisites": [
+    "wavefunctions-and-probability",
+    "quantum-energy-levels"
+  ]
+}

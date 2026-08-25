@@ -1,0 +1,37 @@
+{
+  "id": "bernoulli-solve-p2",
+  "formulaId": "bernoulli-formula",
+  "solveFor": "P2",
+  "mistakes": [
+    {
+      "id": "ignored-height-change",
+      "description": {
+        "en": "Left out the elevation terms, treating the pipe as if it were perfectly horizontal.",
+        "et": "Jättis kõrgusliikmed välja, käsitledes toru nagu see oleks täiesti horisontaalne.",
+        "sourceHash": "8179144eccf8ee4a",
+        "stale": false
+      },
+      "expression": "P1+0.5*rho*v1^2-0.5*rho*v2^2"
+    },
+    {
+      "id": "forgot-one-half-factor-on-kinetic-terms",
+      "description": {
+        "en": "Left out the one-half factor on both kinetic energy terms.",
+        "et": "Jättis mõlemal kineetilise energia liikmel teguri pool välja.",
+        "sourceHash": "fd7f8647ce9a2b63",
+        "stale": false
+      },
+      "expression": "P1+rho*v1^2+rho*9.81*h1-rho*v2^2-rho*9.81*h2"
+    },
+    {
+      "id": "added-instead-of-subtracted-kinetic-change",
+      "description": {
+        "en": "Added the change in kinetic energy per volume instead of subtracting it, so pressure incorrectly rises where the fluid speeds up.",
+        "et": "Liitis kineetilise energia muutuse ruumalaühiku kohta, selle asemel et see lahutada, mistõttu rõhk kasvab ekslikult seal, kus vedelik kiireneb.",
+        "sourceHash": "fa23a08ee6b8a325",
+        "stale": false
+      },
+      "expression": "P1+0.5*rho*v1^2+rho*9.81*h1+0.5*rho*v2^2-rho*9.81*h2"
+    }
+  ]
+}

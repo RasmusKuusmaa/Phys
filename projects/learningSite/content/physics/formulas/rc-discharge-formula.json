@@ -1,0 +1,65 @@
+{
+  "id": "rc-discharge-formula",
+  "conceptId": "rc-circuit-transients",
+  "latex": "V = V_0 e^{-t/RC}",
+  "symbols": [
+    {
+      "symbol": "V",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    },
+    {
+      "symbol": "V0",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    },
+    {
+      "symbol": "t",
+      "name": {
+        "en": "time",
+        "et": "aeg",
+        "sourceHash": "336074805fc85398",
+        "stale": false
+      },
+      "unit": "s"
+    },
+    {
+      "symbol": "R",
+      "name": {
+        "en": "resistance",
+        "et": "takistus",
+        "sourceHash": "be970d090a9b0a23",
+        "stale": false
+      },
+      "unit": "ohm"
+    },
+    {
+      "symbol": "C",
+      "name": {
+        "en": "capacitance",
+        "et": "mahtuvus",
+        "sourceHash": "74badef58b2f2c06",
+        "stale": false
+      },
+      "unit": "F"
+    }
+  ],
+  "solveFor": [
+    "V",
+    "t"
+  ],
+  "expressions": {
+    "V": "V0*exp(-t/(R*C))",
+    "t": "-(R*C)*ln(V/V0)"
+  }
+}

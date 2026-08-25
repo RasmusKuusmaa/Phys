@@ -1,0 +1,47 @@
+{
+  "id": "rotational-kinetic-energy-formula",
+  "conceptId": "rotational-kinetic-energy",
+  "latex": "KE_{rot} = \\frac{1}{2}I\\omega^2",
+  "symbols": [
+    {
+      "symbol": "KE",
+      "name": {
+        "en": "energy",
+        "et": "energia",
+        "sourceHash": "381cfb6e1e428419",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "I",
+      "name": {
+        "en": "moment of inertia",
+        "et": "inertsimoment",
+        "sourceHash": "f4c49e45fb66177d",
+        "stale": false
+      },
+      "unit": "kg*m^2"
+    },
+    {
+      "symbol": "omega",
+      "name": {
+        "en": "angular velocity",
+        "et": "nurkkiirus",
+        "sourceHash": "62c4cf3f39b48983",
+        "stale": false
+      },
+      "unit": "rad/s"
+    }
+  ],
+  "solveFor": [
+    "KE",
+    "I",
+    "omega"
+  ],
+  "expressions": {
+    "KE": "0.5*I*omega^2",
+    "I": "2*KE/(omega^2)",
+    "omega": "sqrt(2*KE/I)"
+  }
+}

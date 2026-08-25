@@ -1,0 +1,21 @@
+{
+  "id": "quantum-tunneling",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Quantum tunneling",
+    "et": "Kvanttunneleerumine",
+    "sourceHash": "51180fbcbc1904a3",
+    "stale": false
+  },
+  "summary": {
+    "en": "A quantum particle has a nonzero probability of appearing on the far side of an energy barrier it classically could not cross, because its wavefunction decays but does not vanish inside the barrier.",
+    "et": "Kvantosakesel on nullist erinev tõenäosus ilmuda energiabarjääri teisele poole, mida ta klassikaliselt ületada ei suudaks, sest tema lainefunktsioon barjääri sees kahaneb, kuid ei kao täielikult.",
+    "sourceHash": "759291037961b191",
+    "stale": false
+  },
+  "prerequisites": [
+    "particle-in-a-box"
+  ]
+}

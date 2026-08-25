@@ -1,0 +1,13 @@
+{
+  "id": "particle-in-a-box-solve-e",
+  "formulaId": "particle-in-a-box-formula",
+  "variables": [
+    { "symbol": "n", "min": 1, "max": 5, "unit": "1", "sigFigs": 1 },
+    { "symbol": "L", "min": 0.1, "max": 2, "unit": "nm", "sigFigs": 3 }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "n", "right": 0 },
+    { "op": "gt", "left": "L", "right": 0 }
+  ],
+  "solveFor": "E"
+}

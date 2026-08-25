@@ -1,0 +1,15 @@
+{
+  "id": "hydrostatic-pressure-solve-p",
+  "formulaId": "hydrostatic-pressure-formula",
+  "variables": [
+    { "symbol": "P0", "min": 90000, "max": 101325, "unit": "Pa", "sigFigs": 3 },
+    { "symbol": "rho", "min": 800, "max": 1200, "unit": "kg/m^3", "sigFigs": 3 },
+    { "symbol": "h", "min": 0.1, "max": 20, "unit": "m", "sigFigs": 3 }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "P0", "right": 0 },
+    { "op": "gt", "left": "rho", "right": 0 },
+    { "op": "gt", "left": "h", "right": 0 }
+  ],
+  "solveFor": "P"
+}

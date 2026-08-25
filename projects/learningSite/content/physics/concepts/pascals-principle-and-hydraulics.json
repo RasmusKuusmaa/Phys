@@ -1,0 +1,21 @@
+{
+  "id": "pascals-principle-and-hydraulics",
+  "subject": "physics",
+  "level": "L2",
+  "module": "fluid-mechanics",
+  "title": {
+    "en": "Pascal's principle and hydraulics",
+    "et": "Pascali seadus ja hüdraulika",
+    "sourceHash": "26992d3a8eaed3e6",
+    "stale": false
+  },
+  "summary": {
+    "en": "Pressure applied anywhere to an enclosed, incompressible fluid is transmitted equally throughout it, so a small force on a narrow piston can produce a much larger force on a wide one — the basis of hydraulic lifts and brakes.",
+    "et": "Suletud kokkusurumatule vedelikule mistahes kohas rakendatud rõhk kandub sellele võrdselt edasi, mistõttu väike jõud kitsal kolvil võib tekitada palju suurema jõu laial kolvil — see on hüdrauliliste tõstukite ja pidurite aluseks.",
+    "sourceHash": "774736a0c040787c",
+    "stale": false
+  },
+  "prerequisites": [
+    "pressure-in-fluids"
+  ]
+}

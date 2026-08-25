@@ -1,0 +1,37 @@
+{
+  "id": "particle-in-a-box-solve-e",
+  "formulaId": "particle-in-a-box-formula",
+  "solveFor": "E",
+  "mistakes": [
+    {
+      "id": "forgot-to-square-n",
+      "description": {
+        "en": "Used the quantum number itself instead of its square.",
+        "et": "Kasutas kvantarvu ennast, mitte selle ruutu.",
+        "sourceHash": "2771a6f55d46a8fc",
+        "stale": false
+      },
+      "expression": "0.376*n/(L^2)"
+    },
+    {
+      "id": "forgot-to-square-l",
+      "description": {
+        "en": "Divided by the box length itself instead of its square.",
+        "et": "Jagas kasti pikkusega endaga, mitte selle ruuduga.",
+        "sourceHash": "ddf27e96a90e0ebc",
+        "stale": false
+      },
+      "expression": "0.376*n^2/L"
+    },
+    {
+      "id": "inverted-the-length-dependence",
+      "description": {
+        "en": "Multiplied by the box length squared instead of dividing by it, so energy incorrectly grows with a larger box.",
+        "et": "Korrutas kasti pikkuse ruuduga, selle asemel et sellega jagada, mistõttu energia kasvab ekslikult suurema kasti korral.",
+        "sourceHash": "862fc75b7462b290",
+        "stale": false
+      },
+      "expression": "0.376*n^2*(L^2)"
+    }
+  ]
+}

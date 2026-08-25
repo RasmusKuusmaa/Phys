@@ -1,0 +1,37 @@
+{
+  "id": "rc-discharge-solve-v",
+  "formulaId": "rc-discharge-formula",
+  "solveFor": "V",
+  "mistakes": [
+    {
+      "id": "forgot-the-exponential-decay",
+      "description": {
+        "en": "Reported the initial voltage unchanged, forgetting that it decays exponentially over time.",
+        "et": "Esitas algpinge muutumatuna, unustades, et see kahaneb aja jooksul eksponentsiaalselt.",
+        "sourceHash": "0ac28347245d41a7",
+        "stale": false
+      },
+      "expression": "V0"
+    },
+    {
+      "id": "treated-decay-as-linear",
+      "description": {
+        "en": "Subtracted t/(RC) from one instead of using it as the exponent of e.",
+        "et": "Lahutas t/(RC) ühest, selle asemel et kasutada seda arvu e astendajana.",
+        "sourceHash": "283a1921825b2e96",
+        "stale": false
+      },
+      "expression": "V0*(1-t/(R*C))"
+    },
+    {
+      "id": "inverted-the-time-constant",
+      "description": {
+        "en": "Used RC as the exponent directly instead of t/RC, ignoring the elapsed time.",
+        "et": "Kasutas astendajana otse RC, mitte t/RC, eirates möödunud aega.",
+        "sourceHash": "a6efa81fd5ab961a",
+        "stale": false
+      },
+      "expression": "V0*exp(-(R*C))"
+    }
+  ]
+}

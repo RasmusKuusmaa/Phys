@@ -1,0 +1,22 @@
+{
+  "id": "statistical-definition-of-entropy",
+  "subject": "physics",
+  "level": "L3",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "The statistical definition of entropy",
+    "et": "Entroopia statistiline definitsioon",
+    "sourceHash": "97c7b80607a76eb6",
+    "stale": false
+  },
+  "summary": {
+    "en": "Entropy measures the number of microscopic arrangements consistent with a system's observed macroscopic state — the second law's tendency toward higher entropy is simply the statistical tendency toward the overwhelmingly more probable arrangement.",
+    "et": "Entroopia mõõdab mikroskoopiliste paigutuste arvu, mis vastavad süsteemi vaadeldud makroskoopilisele olekule — teise seaduse kalduvus suurema entroopia poole on lihtsalt statistiline kalduvus ülekaalukalt tõenäolisema paigutuse poole.",
+    "sourceHash": "7a77b22a98f456bd",
+    "stale": false
+  },
+  "prerequisites": [
+    "entropy-and-the-second-law",
+    "the-maxwell-boltzmann-distribution"
+  ]
+}

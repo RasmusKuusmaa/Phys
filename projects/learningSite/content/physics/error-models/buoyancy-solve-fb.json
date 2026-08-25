@@ -1,0 +1,37 @@
+{
+  "id": "buoyancy-solve-fb",
+  "formulaId": "buoyancy-formula",
+  "solveFor": "Fb",
+  "mistakes": [
+    {
+      "id": "forgot-gravity",
+      "description": {
+        "en": "Multiplied density by displaced volume but forgot to include gravitational acceleration.",
+        "et": "Korrutas tiheduse väljatõrjutud ruumalaga, kuid unustas raskuskiirenduse arvesse võtmise.",
+        "sourceHash": "81b659f7cc332323",
+        "stale": false
+      },
+      "expression": "rho*V"
+    },
+    {
+      "id": "used-mass-instead-of-density",
+      "description": {
+        "en": "Treated the density value as if it were the object's own mass, ignoring the displaced volume.",
+        "et": "Käsitles tiheduse väärtust nagu see oleks objekti oma mass, eirates väljatõrjutud ruumala.",
+        "sourceHash": "0e6d2465668e6163",
+        "stale": false
+      },
+      "expression": "rho*9.81"
+    },
+    {
+      "id": "added-instead-of-multiplied",
+      "description": {
+        "en": "Added density and volume instead of multiplying them.",
+        "et": "Liitis tiheduse ja ruumala, selle asemel et neid korrutada.",
+        "sourceHash": "3c3c9c075e173eec",
+        "stale": false
+      },
+      "expression": "(rho+V)*9.81"
+    }
+  ]
+}

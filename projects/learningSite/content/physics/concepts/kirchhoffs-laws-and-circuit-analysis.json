@@ -1,0 +1,21 @@
+{
+  "id": "kirchhoffs-laws-and-circuit-analysis",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Kirchhoff's laws and circuit analysis",
+    "et": "Kirchhoffi seadused ja vooluringi analüüs",
+    "sourceHash": "43e35692388c2730",
+    "stale": false
+  },
+  "summary": {
+    "en": "Kirchhoff's current law says the currents into a junction must equal the currents out; his voltage law says the voltage changes around any closed loop must sum to zero — together they solve any network of resistors and sources.",
+    "et": "Kirchhoffi vooluseadus ütleb, et sõlme sisenevad voolud peavad võrduma sellest väljuvate vooludega; tema pingeseadus ütleb, et pingemuutuste summa mööda mistahes suletud ahelat on null — koos lahendavad need mistahes takistite ja allikate võrgu.",
+    "sourceHash": "b1a6ed2d7c8b1bbd",
+    "stale": false
+  },
+  "prerequisites": [
+    "voltage-and-resistance"
+  ]
+}

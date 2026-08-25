@@ -1,0 +1,22 @@
+{
+  "id": "coupled-and-driven-oscillators",
+  "subject": "physics",
+  "level": "L3",
+  "module": "mechanics",
+  "title": {
+    "en": "Coupled and driven oscillators",
+    "et": "Seotud ja sundvõnkumised",
+    "sourceHash": "9386d9f0a34d6a7e",
+    "stale": false
+  },
+  "summary": {
+    "en": "When oscillators are linked or pushed by an external periodic force, their combined motion develops normal modes and, near resonance, an amplitude and phase lag that depend sharply on how close the driving frequency is to the natural frequency.",
+    "et": "Kui võnkurid on omavahel seotud või neid mõjutab väline perioodiline jõud, tekivad nende ühisliikumises normaalmoodid ning resonantsi lähedal amplituud ja faasinihe, mis sõltuvad järsult sellest, kui lähedal on sundiv sagedus omasagedusele.",
+    "sourceHash": "cf698e7b7d2b3bed",
+    "stale": false
+  },
+  "prerequisites": [
+    "simple-harmonic-motion",
+    "resonance"
+  ]
+}

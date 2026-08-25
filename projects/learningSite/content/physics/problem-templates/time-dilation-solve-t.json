@@ -1,0 +1,14 @@
+{
+  "id": "time-dilation-solve-t",
+  "formulaId": "time-dilation-formula",
+  "variables": [
+    { "symbol": "t0", "min": 1, "max": 100, "unit": "s", "sigFigs": 3 },
+    { "symbol": "v", "min": 10000000, "max": 290000000, "unit": "m/s", "sigFigs": 3 }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "t0", "right": 0 },
+    { "op": "gt", "left": "v", "right": 0 },
+    { "op": "lt", "left": "v", "right": 299792458 }
+  ],
+  "solveFor": "t"
+}

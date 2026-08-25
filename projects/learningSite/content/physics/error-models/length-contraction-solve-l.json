@@ -1,0 +1,37 @@
+{
+  "id": "length-contraction-solve-l",
+  "formulaId": "length-contraction-formula",
+  "solveFor": "L",
+  "mistakes": [
+    {
+      "id": "forgot-to-contract",
+      "description": {
+        "en": "Reported the proper length unchanged, forgetting that motion contracts it.",
+        "et": "Esitas omapikkuse muutumatuna, unustades, et liikumine seda kahandab.",
+        "sourceHash": "c260ec6cb9c9689d",
+        "stale": false
+      },
+      "expression": "L0"
+    },
+    {
+      "id": "used-v-over-c-directly",
+      "description": {
+        "en": "Multiplied the proper length by v/c instead of applying the full contraction factor.",
+        "et": "Korrutas omapikkuse suhtega v/c, selle asemel et rakendada täielikku kontraktsioonitegurit.",
+        "sourceHash": "fc806e77a5716985",
+        "stale": false
+      },
+      "expression": "L0*(v/299792458)"
+    },
+    {
+      "id": "inverted-the-factor",
+      "description": {
+        "en": "Divided by the contraction factor instead of multiplying by it, making the contracted length longer than the proper length.",
+        "et": "Jagas kontraktsiooniteguriga selle asemel, et sellega korrutada, mistõttu kontraheeritud pikkus tuli omapikkusest pikem.",
+        "sourceHash": "5f6ea55238a76061",
+        "stale": false
+      },
+      "expression": "L0/sqrt(1-(v^2)/(299792458^2))"
+    }
+  ]
+}

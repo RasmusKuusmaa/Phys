@@ -1,0 +1,35 @@
+{
+  "id": "mass-energy-equivalence-formula",
+  "conceptId": "relativistic-momentum-and-energy",
+  "latex": "E = mc^2",
+  "symbols": [
+    {
+      "symbol": "E",
+      "name": {
+        "en": "energy",
+        "et": "energia",
+        "sourceHash": "381cfb6e1e428419",
+        "stale": false
+      },
+      "unit": "J"
+    },
+    {
+      "symbol": "m",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    }
+  ],
+  "solveFor": [
+    "E",
+    "m"
+  ],
+  "expressions": {
+    "E": "m*299792458^2",
+    "m": "E/(299792458^2)"
+  }
+}

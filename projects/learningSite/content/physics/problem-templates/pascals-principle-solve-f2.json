@@ -1,0 +1,15 @@
+{
+  "id": "pascals-principle-solve-f2",
+  "formulaId": "pascals-principle-formula",
+  "variables": [
+    { "symbol": "F1", "min": 1, "max": 500, "unit": "N", "sigFigs": 3 },
+    { "symbol": "A1", "min": 0.001, "max": 0.1, "unit": "m^2", "sigFigs": 3 },
+    { "symbol": "A2", "min": 0.1, "max": 5, "unit": "m^2", "sigFigs": 3 }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "F1", "right": 0 },
+    { "op": "gt", "left": "A1", "right": 0 },
+    { "op": "gt", "left": "A2", "right": 0 }
+  ],
+  "solveFor": "F2"
+}

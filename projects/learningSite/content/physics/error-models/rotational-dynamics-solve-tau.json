@@ -1,0 +1,37 @@
+{
+  "id": "rotational-dynamics-solve-tau",
+  "formulaId": "rotational-dynamics-formula",
+  "solveFor": "tau",
+  "mistakes": [
+    {
+      "id": "reported-inertia-only",
+      "description": {
+        "en": "Reported the moment of inertia itself as the torque, forgetting to multiply by angular acceleration.",
+        "et": "Esitas jõumomendina inertsimomendi enda, unustades korrutada nurkkiirendusega.",
+        "sourceHash": "842c442da2d7177b",
+        "stale": false
+      },
+      "expression": "I"
+    },
+    {
+      "id": "added-instead-of-multiplied",
+      "description": {
+        "en": "Added the moment of inertia and angular acceleration instead of multiplying them.",
+        "et": "Liitis inertsimomendi ja nurkkiirenduse, selle asemel et neid korrutada.",
+        "sourceHash": "63a1638af1f00edf",
+        "stale": false
+      },
+      "expression": "I+alpha"
+    },
+    {
+      "id": "forgot-inertia",
+      "description": {
+        "en": "Reported the angular acceleration alone as the torque, forgetting the moment of inertia.",
+        "et": "Esitas jõumomendina ainult nurkkiirenduse, unustades inertsimomendi.",
+        "sourceHash": "ec489eba60a16bb7",
+        "stale": false
+      },
+      "expression": "alpha"
+    }
+  ]
+}

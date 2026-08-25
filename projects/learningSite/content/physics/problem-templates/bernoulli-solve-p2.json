@@ -1,0 +1,21 @@
+{
+  "id": "bernoulli-solve-p2",
+  "formulaId": "bernoulli-formula",
+  "variables": [
+    { "symbol": "P1", "min": 90000, "max": 200000, "unit": "Pa", "sigFigs": 3 },
+    { "symbol": "rho", "min": 800, "max": 1200, "unit": "kg/m^3", "sigFigs": 3 },
+    { "symbol": "v1", "min": 0.1, "max": 10, "unit": "m/s", "sigFigs": 3 },
+    { "symbol": "v2", "min": 0.1, "max": 10, "unit": "m/s", "sigFigs": 3 },
+    { "symbol": "h1", "min": 0, "max": 10, "unit": "m", "sigFigs": 3 },
+    { "symbol": "h2", "min": 0, "max": 10, "unit": "m", "sigFigs": 3 }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "P1", "right": 0 },
+    { "op": "gt", "left": "rho", "right": 0 },
+    { "op": "gt", "left": "v1", "right": 0 },
+    { "op": "gt", "left": "v2", "right": 0 },
+    { "op": "gte", "left": "h1", "right": 0 },
+    { "op": "gte", "left": "h2", "right": 0 }
+  ],
+  "solveFor": "P2"
+}
