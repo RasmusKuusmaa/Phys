@@ -1,0 +1,22 @@
+{
+  "id": "the-relativistic-doppler-effect",
+  "subject": "physics",
+  "level": "L3",
+  "module": "special-relativity",
+  "title": {
+    "en": "The relativistic Doppler effect",
+    "et": "Relativistlik Doppleri efekt",
+    "sourceHash": "9d6c4f2d7f156899",
+    "stale": false
+  },
+  "summary": {
+    "en": "The relativistic Doppler effect combines the classical frequency shift from relative motion with an additional shift from time dilation itself, producing a nonzero frequency change even for pure transverse motion — light from a source moving directly across the line of sight is still redshifted, a purely relativistic effect with no classical acoustic analogue.",
+    "et": "Relativistlik Doppleri efekt ühendab suhtelisest liikumisest tuleneva klassikalise sageduse muutuse täiendava, aja dilatatsioonist endast tuleneva muutusega, tekitades nullist erineva sageduse muutuse isegi puhtalt ristsuunalise liikumise korral — vaatejoonega otse risti liikuva allika valgus on ikkagi punanihkes, puhtalt relativistlik efekt, millel puudub klassikaline akustiline vaste.",
+    "sourceHash": "4ce5d40f37f6d80e",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-doppler-effect",
+    "lorentz-transformations"
+  ]
+}

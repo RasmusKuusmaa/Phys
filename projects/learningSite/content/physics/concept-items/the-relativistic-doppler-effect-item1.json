@@ -1,0 +1,56 @@
+{
+  "id": "the-relativistic-doppler-effect-item1",
+  "conceptId": "the-relativistic-doppler-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A light source moves at constant speed exactly perpendicular to the line connecting it to an observer (pure transverse motion) at the moment of closest approach. What does the relativistic Doppler effect predict?",
+    "et": "Valgusallikas liigub konstantse kiirusega täpselt risti joonega, mis ühendab teda vaatlejaga (puhas ristsuunaline liikumine), lähima lähenemise hetkel. Mida ennustab relativistlik Doppleri efekt?",
+    "sourceHash": "f22e5f912a4cf52b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A nonzero redshift, arising purely from time dilation of the source's clock, with no classical analogue",
+        "et": "Nullist erineva punanihke, mis tuleneb puhtalt allika kella aja dilatatsioonist, ilma klassikalise analoogita",
+        "sourceHash": "75153d024e255254",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No shift at all, exactly matching the prediction for sound waves from a transversely moving source",
+        "et": "Üldse mitte mingit nihet, täpselt vastavuses heli lainete ennustusega ristsuunaliselt liikuvalt allikalt",
+        "sourceHash": "53cec30220ca4d33",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-relativistic-doppler-effect-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A blueshift, since transverse motion always brings the source effectively closer",
+        "et": "Sinihoonihke, kuna ristsuunaline liikumine toob allika alati efektiivselt lähemale",
+        "sourceHash": "e4ef7c2f0027870e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-relativistic-doppler-effect-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The shift depends entirely on the medium the light is travelling through",
+        "et": "Nihe sõltub täielikult keskkonnast, mille kaudu valgus levib",
+        "sourceHash": "41cb4f1e6bbf9517",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-relativistic-doppler-effect-m1"
+    }
+  ]
+}

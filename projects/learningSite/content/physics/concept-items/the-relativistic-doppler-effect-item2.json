@@ -1,0 +1,56 @@
+{
+  "id": "the-relativistic-doppler-effect-item2",
+  "conceptId": "the-relativistic-doppler-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the essential difference between the classical (sound) Doppler effect and the relativistic Doppler effect for light?",
+    "et": "Mis on põhiline erinevus klassikalise (heli) Doppleri efekti ja valguse relativistliku Doppleri efekti vahel?",
+    "sourceHash": "f38f61ff32bf2761",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The relativistic effect includes an additional frequency shift from time dilation that has no counterpart in the classical, medium-based sound case",
+        "et": "Relativistlik efekt sisaldab täiendavat sageduse nihet aja dilatatsioonist, millel puudub vaste klassikalises, keskkonnapõhises heli juhtumis",
+        "sourceHash": "305a81d438a0c614",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The two effects are mathematically identical in every respect, just applied to different kinds of waves",
+        "et": "Mõlemad efektid on igas mõttes matemaatiliselt identsed, rakendatud lihtsalt erinevat tüüpi lainetele",
+        "sourceHash": "40e94a3fab74cf1b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-relativistic-doppler-effect-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The classical Doppler effect includes a time-dilation contribution that the relativistic one lacks",
+        "et": "Klassikaline Doppleri efekt sisaldab aja dilatatsiooni panust, mis relativistlikul puudub",
+        "sourceHash": "5b0a9d99df1f7f66",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-relativistic-doppler-effect-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Sound waves and light waves both require a medium, so the two effects must be identical",
+        "et": "Nii helilained kui valguslained vajavad mõlemad keskkonda, seega peavad need kaks efekti olema identsed",
+        "sourceHash": "ae3c82388ad0ffa7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-relativistic-doppler-effect-m1"
+    }
+  ]
+}
