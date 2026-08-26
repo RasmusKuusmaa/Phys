@@ -1,0 +1,56 @@
+{
+  "id": "the-greenhouse-effect-and-planetary-energy-balance-item1",
+  "conceptId": "the-greenhouse-effect-and-planetary-energy-balance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A planet with no atmosphere reaches an equilibrium temperature by balancing absorbed sunlight against radiated infrared energy. Adding a greenhouse gas to its atmosphere, one that is transparent to visible light but absorbs infrared, changes this balance. What happens to the planet's surface temperature?",
+    "et": "Atmosfäärita planeet saavutab tasakaalutemperatuuri, tasakaalustades neelatud päikesevalgust kiiratava infrapunaenergiaga. Kasvuhoonegaasi lisamine tema atmosfääri, mis on nähtava valguse suhtes läbipaistev, kuid neelab infrapuna, muudab seda tasakaalu. Mis juhtub planeedi pinnatemperatuuriga?",
+    "sourceHash": "ac79ea6454114f19",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It rises above the bare-planet equilibrium value, since the atmosphere absorbs and re-radiates some outgoing infrared back toward the surface before the planet as a whole reaches balance again",
+        "et": "See tõuseb üle paljaspaneedi tasakaaluväärtuse, kuna atmosfäär neelab ja kiirgab osa väljuvast infrapunast tagasi pinna poole, enne kui planeet tervikuna uuesti tasakaalu saavutab",
+        "sourceHash": "35f0d0e1d65f62cf",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It stays exactly the same, since the atmosphere has no effect on the planet's overall energy balance",
+        "et": "See jääb täpselt samaks, kuna atmosfääril pole mõju planeedi üldisele energiabilansile",
+        "sourceHash": "d27d36bfce1e1cd7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-greenhouse-effect-and-planetary-energy-balance-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It falls below the bare-planet equilibrium value, since the atmosphere blocks incoming sunlight",
+        "et": "See langeb alla paljaspaneedi tasakaaluväärtuse, kuna atmosfäär blokeerib sissetuleva päikesevalguse",
+        "sourceHash": "c94de7a15cdf2b84",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-greenhouse-effect-and-planetary-energy-balance-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Surface temperature becomes entirely undefined once an atmosphere is present",
+        "et": "Pinnatemperatuur muutub täiesti määramatuks, kui atmosfäär on olemas",
+        "sourceHash": "d16f1f10c89a0a52",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-greenhouse-effect-and-planetary-energy-balance-m1"
+    }
+  ]
+}

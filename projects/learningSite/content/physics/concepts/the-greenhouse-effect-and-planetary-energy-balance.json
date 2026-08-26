@@ -1,0 +1,21 @@
+{
+  "id": "the-greenhouse-effect-and-planetary-energy-balance",
+  "subject": "physics",
+  "level": "L2",
+  "module": "planetary-physics",
+  "title": {
+    "en": "The greenhouse effect and planetary energy balance",
+    "et": "Kasvuhooneefekt ja planeedi energiabilanss",
+    "sourceHash": "b5f43a00a3eece27",
+    "stale": false
+  },
+  "summary": {
+    "en": "A planet in energy balance radiates away, as long-wavelength infrared, exactly as much power as it absorbs from its star, and gases in its atmosphere that are transparent to incoming visible sunlight but absorb and re-emit outgoing infrared raise the planet's surface temperature above what a bare-rock energy balance alone would predict — the greenhouse effect.",
+    "et": "Energiabilansis olev planeet kiirgab minema, pika lainepikkusega infrapunakiirgusena, täpselt sama palju võimsust, kui ta oma tähelt neelab, ja gaasid selle atmosfääris, mis on läbipaistvad sissetuleva nähtava päikesevalguse suhtes, kuid neelavad ja kiirgavad uuesti väljuvat infrapunakiirgust, tõstavad planeedi pinnatemperatuuri kõrgemale sellest, mida ennustaks üksnes paljaskivi energiabilanss — kasvuhooneefekt.",
+    "sourceHash": "22715229001b0b04",
+    "stale": false
+  },
+  "prerequisites": [
+    "blackbody-radiation-and-plancks-law"
+  ]
+}

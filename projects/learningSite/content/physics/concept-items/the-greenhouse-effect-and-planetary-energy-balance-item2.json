@@ -1,0 +1,56 @@
+{
+  "id": "the-greenhouse-effect-and-planetary-energy-balance-item2",
+  "conceptId": "the-greenhouse-effect-and-planetary-energy-balance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do greenhouse gases warm a planet's surface even though they do not absorb incoming visible sunlight?",
+    "et": "Miks soojendavad kasvuhoonegaasid planeedi pinda, kuigi need ei neela sissetulevat nähtavat päikesevalgust?",
+    "sourceHash": "7fea3b32874d4c16",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They absorb the longer-wavelength infrared radiation the warmed surface emits, and re-radiate part of it back toward the surface, reducing the net rate at which the planet can shed energy to space",
+        "et": "Nad neelavad soojenenud pinna kiiratavat pikema lainepikkusega infrapunakiirgust ja kiirgavad osa sellest tagasi pinna poole, vähendades netokiirust, millega planeet suudab energiat kosmosesse loovutada",
+        "sourceHash": "f0d28eef9f050562",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Greenhouse gases physically block sunlight from reaching the surface at all, like an opaque barrier",
+        "et": "Kasvuhoonegaasid blokeerivad füüsiliselt päikesevalguse pinnani jõudmise täielikult, nagu läbipaistmatu barjäär",
+        "sourceHash": "685e489203af3dba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-greenhouse-effect-and-planetary-energy-balance-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Greenhouse gases generate heat directly through their own internal chemical reactions",
+        "et": "Kasvuhoonegaasid tekitavad soojust otse oma sisemiste keemiliste reaktsioonide kaudu",
+        "sourceHash": "5a73e821ff43556c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-greenhouse-effect-and-planetary-energy-balance-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Greenhouse gases have no actual effect on temperature and the warming is caused by other, unrelated factors",
+        "et": "Kasvuhoonegaasidel pole temperatuurile tegelikku mõju ja soojenemise põhjustavad muud, mitteseotud tegurid",
+        "sourceHash": "9f9fe5f2aac262e0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-greenhouse-effect-and-planetary-energy-balance-m1"
+    }
+  ]
+}
