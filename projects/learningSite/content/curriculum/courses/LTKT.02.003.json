@@ -53,7 +53,12 @@
       "keywords": "(a) Poorse materjali eripinna määramine (BET) Energia muundurid (b) PEM (polümeer elektrolüüt membraan) kütuselemendi uurimine"
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "electrolyte-solutions-and-conductivity",
+    "the-nernst-equation-and-electrode-potentials",
+    "adsorption-isotherms",
+    "catalysis-homogeneous-and-heterogeneous"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/chemistry2.md"
   ],

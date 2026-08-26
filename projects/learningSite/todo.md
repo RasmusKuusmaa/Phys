@@ -1103,12 +1103,20 @@ real machine.
 Every `praktikum` in all three tracks. The deliverable is the theory, the
 measurement analysis and the write-up skills — not the bench work.
 
-- [ ] Decide and document what "covered" means for a practical course, and show
-      it honestly on the course page rather than as a full tick
+- [~] Decide and document what "covered" means for a practical course, and show
+      it honestly on the course page rather than as a full tick — the
+      definition is written in `content/curriculum/README.md` (theory +
+      shared measurement/uncertainty skills, explicitly not bench technique);
+      "show it on the course page" is blocked on Phase 25's unbuilt curriculum
+      UI, so it currently lives only in the README and the CLI report
   `docs: define coverage for practical courses`
-- [ ] Cover measurement, uncertainty and data analysis as the shared basis
+- [x] Cover measurement, uncertainty and data analysis as the shared basis —
+      11 concepts in the `measurement` module already do this
   `content: cover practical measurement and analysis`
-- [ ] Map each practical to the concepts its experiments rest on
+- [x] Map each practical to the concepts its experiments rest on — audited
+      all 17 `praktikum`/laboratory courses across the three tracks; 5 gaps
+      found and closed (`LOFY.02.006`, `LOFY.02.007`, `LOKT.02.041`,
+      `LOKT.09.015`, `LTKT.02.003`), all now mapped
   `content: map practicals to underlying concepts`
 
 ### Phase 33 — Electives and enrichment

@@ -134,3 +134,24 @@ before a single concept can be authored.
 - Practical/laboratory courses (`praktikum`) teach bench skills that a static
   site cannot deliver. They are mapped to the concepts underlying the
   experiments, which covers the theory but honestly not the pipetting.
+
+  **What "covered" means for a `praktikum`, precisely:** a mapped practical
+  course means the platform teaches the theory its experiments are built on
+  and the shared measurement/uncertainty/data-analysis skills every practical
+  write-up needs (see the `measurement` module — `measurement-and-precision`,
+  `uncertainty-and-error`, `combining-uncertainties`,
+  `propagation-of-uncertainty-in-functions`,
+  `graphing-and-linearisation-of-data`,
+  `least-squares-fitting-and-linear-regression`,
+  `statistical-distributions-in-measurement`). It does **not** mean the site
+  teaches instrument operation, bench technique, or lab safety — that
+  physically requires a lab. `npm run curriculum:coverage` counts a
+  `praktikum` as covered on exactly this basis, and that basis should be
+  stated next to the course, not left implicit, wherever a `praktikum`'s
+  coverage is displayed. The per-track curriculum browsing pages that would
+  show this to a learner directly (`todo.md` Phase 25: "Surface the
+  curriculum in the app") are not built yet — until they are, this file and
+  the CLI report are the only place this distinction is visible, so treat
+  this paragraph as the canonical definition to carry into that UI when it
+  is built, rather than silently rendering a `praktikum` with a plain
+  checkmark equivalent to a lecture course's.

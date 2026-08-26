@@ -59,7 +59,17 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "capacitance",
+    "coulombs-law",
+    "electric-fields",
+    "electric-power-and-joule-heating",
+    "electromagnetic-induction",
+    "kirchhoffs-laws-and-circuit-analysis",
+    "magnetic-fields",
+    "resistivity-and-conductivity",
+    "voltage-and-resistance"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md"
   ],

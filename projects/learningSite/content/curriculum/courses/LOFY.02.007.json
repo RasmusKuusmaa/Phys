@@ -72,7 +72,12 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "lenses-and-focal-length",
+    "polarization-of-light",
+    "snells-law",
+    "total-internal-reflection"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md"
   ],

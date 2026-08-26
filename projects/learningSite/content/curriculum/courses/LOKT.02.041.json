@@ -55,7 +55,12 @@
       "keywords": "(a) Redokstiitrimine. (b) Aktiivsukoefitsiendi määramine (c) Nõrga elektrolüüdi dissotsiatsioonikonstandi määramine"
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "laws-of-thermodynamics",
+    "chemical-equilibrium",
+    "reaction-kinetics",
+    "reaction-rate-laws-and-order"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience2.md"
   ],

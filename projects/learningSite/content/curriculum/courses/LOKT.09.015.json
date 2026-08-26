@@ -47,7 +47,11 @@
       "keywords": "III Sünteesid (5.-7. nädal) 1. Elektrofiilne asendusreaktsioon aromaatses tuumas (nitreerimine) 2. Nukleofiilne atsüülasendusreaktsioon (estri süntees)"
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "functional-groups",
+    "nucleophilic-substitution",
+    "aromaticity"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience2.md"
   ],

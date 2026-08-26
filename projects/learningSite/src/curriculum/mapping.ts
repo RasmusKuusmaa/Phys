@@ -487,6 +487,13 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "aromaticity",
     "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution",
   ],
+  // LOKT.09.015 Orgaanilise keemia praktikum (3 EAP variant) — same theory
+  // as LOKT.09.014, smaller credit load.
+  "LOKT.09.015": [
+    "functional-groups",
+    "nucleophilic-substitution",
+    "aromaticity",
+  ],
   // LTKT.02.002 Füüsikalise keemia praktikum I — same thermodynamics theory.
   "LTKT.02.002": [
     "laws-of-thermodynamics",
@@ -495,6 +502,22 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "reaction-rate-laws-and-order",
     "phase-equilibria-and-the-clausius-clapeyron-equation",
     "electrolyte-solutions-and-conductivity",
+  ],
+  // LOKT.02.041 Füüsikalise keemia praktikum I (elective variant, materials
+  // science track) — same theory as LTKT.02.002.
+  "LOKT.02.041": [
+    "laws-of-thermodynamics",
+    "chemical-equilibrium",
+    "reaction-kinetics",
+    "reaction-rate-laws-and-order",
+  ],
+  // LTKT.02.003 Füüsikalise keemia praktikum II — same theory as LTKT.02.001
+  // (physical chemistry part 2: electrochemistry, adsorption, catalysis).
+  "LTKT.02.003": [
+    "electrolyte-solutions-and-conductivity",
+    "the-nernst-equation-and-electrode-potentials",
+    "adsorption-isotherms",
+    "catalysis-homogeneous-and-heterogeneous",
   ],
   // LTKT.06.004 Keemilise analüüsi praktikum — theory the analysis rests on.
   "LTKT.06.004": [
@@ -569,6 +592,27 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "voltage-and-resistance",
   ],
   "LOFY.01.124": [
+    "lenses-and-focal-length",
+    "polarization-of-light",
+    "snells-law",
+    "total-internal-reflection",
+  ],
+  // LOFY.02.006 Materjalifüüsika praktikum II — same electricity/magnetism
+  // theory as LOFY.01.123, materials-science track variant.
+  "LOFY.02.006": [
+    "capacitance",
+    "coulombs-law",
+    "electric-fields",
+    "electric-power-and-joule-heating",
+    "electromagnetic-induction",
+    "kirchhoffs-laws-and-circuit-analysis",
+    "magnetic-fields",
+    "resistivity-and-conductivity",
+    "voltage-and-resistance",
+  ],
+  // LOFY.02.007 Materjalifüüsika praktikum III — same optics theory as
+  // LOFY.01.124, materials-science track variant.
+  "LOFY.02.007": [
     "lenses-and-focal-length",
     "polarization-of-light",
     "snells-law",
