@@ -1,0 +1,28 @@
+{
+  "id": "quantum-tunneling-solve-t-errors",
+  "formulaId": "quantum-tunneling-formula",
+  "solveFor": "T",
+  "mistakes": [
+    {
+      "id": "missing-factor-2",
+      "description": {
+        "en": "Omits the factor of 2 in the exponent",
+        "et": "Jätab eksponendis 2-kordse teguri ära",
+        "sourceHash": "71dfabf696a08f89",
+        "stale": false
+      },
+      "expression": "exp(-kappa*L)",
+      "misconceptionId": "quantum-tunneling-m1"
+    },
+    {
+      "id": "linear-not-exponential",
+      "description": {
+        "en": "Treats transmission as decaying linearly rather than exponentially with barrier width",
+        "et": "Käsitleb läbilaskvust barjääri laiusega lineaarselt, mitte eksponentsiaalselt kahanevana",
+        "sourceHash": "236c8c4302b93709",
+        "stale": false
+      },
+      "expression": "1-2*kappa*L"
+    }
+  ]
+}

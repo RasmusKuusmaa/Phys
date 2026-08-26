@@ -1,0 +1,43 @@
+{
+  "id": "quantum-tunneling-formula",
+  "conceptId": "quantum-tunneling",
+  "latex": "T = e^{-2\\kappa L}",
+  "symbols": [
+    {
+      "symbol": "T",
+      "name": {
+        "en": "transmission coefficient",
+        "et": "läbilaskvustegur",
+        "sourceHash": "4dc1d97a283b3c9c",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "kappa",
+      "name": {
+        "en": "decay constant",
+        "et": "kahanemiskonstant",
+        "sourceHash": "0a671efe1613668e",
+        "stale": false
+      },
+      "unit": "1/m"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "barrier width",
+        "et": "barjääri laius",
+        "sourceHash": "f7889e6b8b98174d",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "T"
+  ],
+  "expressions": {
+    "T": "exp(-2*kappa*L)"
+  }
+}

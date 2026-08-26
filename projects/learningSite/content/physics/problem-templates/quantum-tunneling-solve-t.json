@@ -1,0 +1,33 @@
+{
+  "id": "quantum-tunneling-solve-t",
+  "formulaId": "quantum-tunneling-formula",
+  "variables": [
+    {
+      "symbol": "kappa",
+      "min": 500000000,
+      "max": 3000000000,
+      "unit": "1/m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "L",
+      "min": 1e-10,
+      "max": 1e-9,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "kappa",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "L",
+      "right": 0
+    }
+  ],
+  "solveFor": "T"
+}
