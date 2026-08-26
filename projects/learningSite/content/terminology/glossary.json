@@ -105,6 +105,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/orbitaal/1/est"
   },
   {
+    "id": "band-gap",
+    "en": "band gap",
+    "et": "keelutsoon",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/keelutsoon/1/est"
+  },
+  {
     "id": "beta-decay",
     "en": "beta decay",
     "et": "beetalagunemine",
@@ -175,6 +182,13 @@
     "source": "https://opik.fyysika.ee/index.php/book/section/8623"
   },
   {
+    "id": "crystal-lattice",
+    "en": "crystal lattice",
+    "et": "kristallvõre",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kristallvõre/1/est"
+  },
+  {
     "id": "density",
     "en": "density",
     "et": "tihedus",
@@ -215,6 +229,13 @@
     "et": "vahemaa",
     "domain": "mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/vahemaa/1/est"
+  },
+  {
+    "id": "doping",
+    "en": "doping",
+    "et": "dopeerimine",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/dopeerimine/1/est"
   },
   {
     "id": "eigenstate",
@@ -285,6 +306,13 @@
     "et": "energia",
     "domain": "mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/energia/1/est"
+  },
+  {
+    "id": "energy-band",
+    "en": "energy band",
+    "et": "energiavöö",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/energiavöö/1/est"
   },
   {
     "id": "energy-level",
@@ -882,6 +910,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/skalaar/1/est"
   },
   {
+    "id": "semiconductor",
+    "en": "semiconductor",
+    "et": "pooljuht",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/pooljuht/1/est"
+  },
+  {
     "id": "significant-figures",
     "en": "significant figures",
     "et": "tüvinumbrid",
@@ -943,6 +978,13 @@
     "et": "stimuleeritud kiirgus",
     "domain": "modern-physics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/stimuleeritud%20kiirgus/1/est"
+  },
+  {
+    "id": "superconductivity",
+    "en": "superconductivity",
+    "et": "ülijuhtivus",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/ülijuhtivus/1/est"
   },
   {
     "id": "temperature",
