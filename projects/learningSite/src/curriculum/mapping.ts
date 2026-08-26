@@ -169,6 +169,34 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "radioactive-decay-modes",
     "radioactivity-and-half-life",
   ],
+  // Phase 33 electives — no scraped syllabus for any of these four, so
+  // mapped to the platform concepts a learner would need as background,
+  // not a topic-by-topic match. "Most commonly taken" has no real
+  // enrollment data behind it; these are picked as natural continuations
+  // of already-deep subject content, not a verified popularity ranking.
+  // LOTI.05.030 Kompuuterfüüsika I (Computational physics I).
+  "LOTI.05.030": [
+    "numerical-methods-in-computing",
+    "data-structures-and-algorithms",
+    "algorithms-and-program-structure",
+  ],
+  // LTFY.04.012 Kvantarvutuse alused (Foundations of quantum computing).
+  "LTFY.04.012": [
+    "wavefunctions-and-probability",
+    "operators-and-observables",
+    "expectation-values-and-measurement",
+    "spin-and-angular-momentum-in-quantum-mechanics",
+  ],
+  // LTFY.05.008 Kliimateaduse ja -poliitika teejuht (climate science and policy).
+  "LTFY.05.008": [
+    "the-greenhouse-effect-and-planetary-energy-balance",
+  ],
+  // LOKT.09.018 Bioaktiivsete ühendite keemia (chemistry of bioactive compounds).
+  "LOKT.09.018": [
+    "functional-groups",
+    "aromaticity",
+    "carbonyl-chemistry-and-nucleophilic-addition",
+  ],
   // LOFY.01.031 Tahkiseelektroonika — crystal structure, bands, semiconductors.
   "LOFY.01.031": [
     "crystal-structure-and-lattices",

@@ -1125,10 +1125,19 @@ Not required for any degree, so this comes last — but the elective modules are
 12 EAP a student must take from *somewhere*, and the enrichment list is where
 content beyond the degree lives.
 
-- [ ] Cover the most commonly taken electives per track
+- [~] Cover the most commonly taken electives per track — no real enrollment
+      data exists to rank electives by popularity, so this was interpreted as
+      "electives that are natural continuations of already-deep content":
+      mapped `LOTI.05.030` (Computational physics I), `LTFY.04.012`
+      (quantum computing foundations), `LTFY.05.008` (climate science/
+      policy) and `LOKT.09.018` (bioactive compound chemistry) to existing
+      concepts. Dozens of remaining electives (see `--gaps`) are untouched;
+      this phase is explicitly lowest-priority by design
   `content: cover common elective courses`
-- [ ] Keep `npm run curriculum:coverage -- --extra` meaningful: enrichment stays
-      labelled as enrichment and never counts toward degree coverage
+- [x] Keep `npm run curriculum:coverage -- --extra` meaningful: enrichment stays
+      labelled as enrichment and never counts toward degree coverage —
+      verified: 4 concepts currently listed as enrichment, required-slot
+      count (59/59) is unaffected by them
   `content: review enrichment classification`
 
 ### Phase 34 — Degree-completeness gate

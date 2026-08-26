@@ -20,7 +20,11 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "functional-groups",
+    "aromaticity",
+    "carbonyl-chemistry-and-nucleophilic-addition"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

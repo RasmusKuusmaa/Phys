@@ -19,7 +19,12 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "wavefunctions-and-probability",
+    "operators-and-observables",
+    "expectation-values-and-measurement",
+    "spin-and-angular-momentum-in-quantum-mechanics"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

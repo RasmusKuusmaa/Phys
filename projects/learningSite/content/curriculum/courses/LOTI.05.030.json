@@ -19,7 +19,11 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "numerical-methods-in-computing",
+    "data-structures-and-algorithms",
+    "algorithms-and-program-structure"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }
