@@ -1033,7 +1033,10 @@ follows both.
   `content: scaffold the materials science subject`
 - [x] Author the survey course for `LTFY.02.003` and `LOFY.02.008`
   `content: add materials science survey concepts`
-- [ ] Author structure and properties of matter for `LTFY.02.001`
+- [x] Author structure and properties of matter for `LTFY.02.001` — 3 new
+      concepts: deformation/elasticity/plasticity, composites/microstructure,
+      amorphous solids/liquid crystals, plus existing bonding, structure-
+      property and crystal/band-theory concepts
   `content: add structure and properties of matter concepts`
 - [ ] Author classes of materials and their technologies for `LTFY.02.002`
       (12 EAP — the single largest course in the degree)

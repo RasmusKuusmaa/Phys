@@ -492,6 +492,10 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "chemical-bonding",
     "classes-of-materials",
     "crystal-structure-and-lattices",
+    "band-theory-of-solids",
+    "mechanical-deformation-elasticity-and-plasticity",
+    "composite-materials-and-microstructure",
+    "amorphous-solids-and-liquid-crystals",
   ],
   // LTFY.02.002 Materjaliklassid ja nende tehnoloogiad — the largest single course
   // in the degree (12 EAP); its lecture syllabus was not captured in the scrape,
