@@ -1,0 +1,56 @@
+{
+  "id": "expectation-values-and-measurement-item2",
+  "conceptId": "expectation-values-and-measurement",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does an 'expectation value' in quantum mechanics actually predict?",
+    "et": "Mida kvantmehaanikas 'keskväärtus' tegelikult ennustab?",
+    "sourceHash": "54c0618aafc31130",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The probability-weighted average result you would obtain by repeating the measurement on many identically prepared systems",
+        "et": "Tõenäosustega kaalutud keskmise tulemuse, mille saaksid mõõtmist paljudel identselt ette valmistatud süsteemidel korrates",
+        "sourceHash": "101c61d7c4482675",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The exact result that any single measurement is guaranteed to give",
+        "et": "Täpse tulemuse, mille iga üksik mõõtmine garanteeritult annab",
+        "sourceHash": "af5bd05f45ba2c85",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "expectation-values-and-measurement-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The most common single result, ignoring all others entirely",
+        "et": "Kõige sagedasema üksiku tulemuse, eirates täielikult kõiki teisi",
+        "sourceHash": "ecee53bb2e894efb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "expectation-values-and-measurement-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A value that has no connection to what a real measurement could return",
+        "et": "Väärtuse, millel puudub seos sellega, mida tegelik mõõtmine võiks tagastada",
+        "sourceHash": "ee9bb4ceb42ac439",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "expectation-values-and-measurement-m1"
+    }
+  ]
+}

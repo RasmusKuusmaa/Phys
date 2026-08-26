@@ -1,0 +1,21 @@
+{
+  "id": "expectation-values-and-measurement",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Expectation values and measurement",
+    "et": "Keskväärtused ja mõõtmine",
+    "sourceHash": "b93bcf069faa55ab",
+    "stale": false
+  },
+  "summary": {
+    "en": "For a system not in an eigenstate of the quantity being measured, quantum mechanics predicts only an expectation value — the probability-weighted average result over many identical measurements — while any single measurement returns one of the operator's eigenvalues chosen at random, with the wavefunction collapsing onto that outcome.",
+    "et": "Süsteemi jaoks, mis ei ole mõõdetava suuruse omaolekus, ennustab kvantmehaanika ainult keskväärtust — tõenäosustega kaalutud keskmist tulemust paljude identsete mõõtmiste üle —, samal ajal kui iga üksik mõõtmine tagastab juhuslikult valitud ühe operaatori omaväärtustest, lainefunktsioon selle tulemuse peale kokku langedes.",
+    "sourceHash": "ce452278d97e9ad2",
+    "stale": false
+  },
+  "prerequisites": [
+    "operators-and-observables"
+  ]
+}

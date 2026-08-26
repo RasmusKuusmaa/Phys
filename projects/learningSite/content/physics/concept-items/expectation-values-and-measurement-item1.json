@@ -1,0 +1,56 @@
+{
+  "id": "expectation-values-and-measurement-item1",
+  "conceptId": "expectation-values-and-measurement",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A quantum system is prepared identically many times, and the same quantity is measured each time. Why do individual measurements often give different results?",
+    "et": "Kvantsüsteem valmistatakse identselt ette palju kordi ja iga kord mõõdetakse sama suurust. Miks annavad üksikud mõõtmised sageli erinevaid tulemusi?",
+    "sourceHash": "750c0765e3222c69",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The system is not in an eigenstate of the measured quantity, so each measurement returns one eigenvalue at random, weighted by probability",
+        "et": "Süsteem ei ole mõõdetava suuruse omaolekus, seega tagastab iga mõõtmine juhuslikult ühe omaväärtuse, kaalutuna tõenäosusega",
+        "sourceHash": "4e82b725f39f8691",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The measuring apparatus is faulty and needs recalibration between each measurement",
+        "et": "Mõõteseade on vigane ja vajab iga mõõtmise vahel ümberkalibreerimist",
+        "sourceHash": "75b0333a2eb6f30b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "expectation-values-and-measurement-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Identical preparation is actually impossible, so the systems were never really the same",
+        "et": "Identne ettevalmistus on tegelikult võimatu, seega ei olnud süsteemid kunagi tegelikult samad",
+        "sourceHash": "34a6451a023040a3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "expectation-values-and-measurement-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Quantum mechanics predicts the same fixed answer every time, so this should never happen",
+        "et": "Kvantmehaanika ennustab iga kord sama fikseeritud vastust, seega ei tohiks see kunagi juhtuda",
+        "sourceHash": "8e842eb48cf8860b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "expectation-values-and-measurement-m1"
+    }
+  ]
+}
