@@ -1,0 +1,56 @@
+{
+  "id": "the-michelson-interferometer-item1",
+  "conceptId": "the-michelson-interferometer",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In a Michelson interferometer, one mirror is moved back by a tiny fraction of the light's wavelength. What happens?",
+    "et": "Michelsoni interferomeetris nihutatakse üht peeglit tagasi valguse lainepikkuse tillukese murdosa võrra. Mis juhtub?",
+    "sourceHash": "06fd08c75c6621fd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The interference pattern visibly shifts, since the path-length difference between the two arms has changed",
+        "et": "Interferentsimuster nihkub nähtavalt, sest kahe õla vahelise teepikkuse erinevus on muutunud",
+        "sourceHash": "a563d3e819031667",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing observable happens, since the shift is too small to affect anything",
+        "et": "Miski märgatav ei juhtu, sest nihe on liiga väike, et midagi mõjutada",
+        "sourceHash": "1181a0c2b8086f14",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-michelson-interferometer-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The light stops interfering entirely",
+        "et": "Valgus lakkab täielikult interfereerumast",
+        "sourceHash": "ffb89e2caf9d8bf6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-michelson-interferometer-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The speed of light itself changes in that arm",
+        "et": "Selles õlas muutub valguse kiirus ise",
+        "sourceHash": "3586ea8432ec0ef1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-michelson-interferometer-m1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "the-michelson-interferometer-item2",
+  "conceptId": "the-michelson-interferometer",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Michelson and Morley's famous experiment found no difference in light's speed along paths parallel and perpendicular to Earth's motion. What did this null result actually establish?",
+    "et": "Michelsoni ja Morley kuulus katse ei leidnud erinevust valguse kiiruses Maa liikumisega paralleelsete ja risti olevate teede vahel. Mida see nulltulemus tegelikult tõestas?",
+    "sourceHash": "1a38c338b463dfa3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A genuine, important physical finding — no ether wind was detected, which later underpinned special relativity",
+        "et": "Tõelise, olulise füüsikalise avastuse — eetrituult ei tuvastatud, mis hiljem toetas erirelatiivsusteooriat",
+        "sourceHash": "7ee637e84890b13c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That the experiment had failed and produced no usable information",
+        "et": "Et katse ebaõnnestus ega andnud kasutatavat teavet",
+        "sourceHash": "0d6a0b68b3b9d308",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-michelson-interferometer-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That the interferometer itself was too imprecise to detect anything",
+        "et": "Et interferomeeter ise oli liiga ebatäpne, et midagi tuvastada",
+        "sourceHash": "0c03325e9b253d6b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-michelson-interferometer-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That light does not actually interfere with itself",
+        "et": "Et valgus tegelikult ei interfereeru iseendaga",
+        "sourceHash": "be01defa6b2723b4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-michelson-interferometer-m1"
+    }
+  ]
+}

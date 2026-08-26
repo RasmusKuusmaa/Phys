@@ -1,0 +1,21 @@
+{
+  "id": "the-michelson-interferometer",
+  "subject": "physics",
+  "level": "L3",
+  "module": "optics",
+  "title": {
+    "en": "The Michelson interferometer",
+    "et": "Michelsoni interferomeeter",
+    "sourceHash": "25f5fe423f14643d",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Michelson interferometer splits a beam of light in two, sends each half down a different path to a mirror and back, then recombines them — any change in one path's length by even a fraction of a wavelength shifts the interference pattern, making it one of the most precise length-measuring instruments ever built and the device that first showed light's speed does not depend on Earth's motion through space.",
+    "et": "Michelsoni interferomeeter jagab valguskimbu kaheks, saadab kummagi poole erineval teel peeglini ja tagasi ning ühendab need seejärel uuesti — mistahes muutus ühe tee pikkuses isegi murdosa lainepikkuse võrra nihutab interferentsimustrit, mis teeb sellest ühe täpsema pikkuse mõõtmise seadme, mis kunagi ehitatud, ja seadme, mis esimesena näitas, et valguse kiirus ei sõltu Maa liikumisest ruumis.",
+    "sourceHash": "c4aaeb6f4ecfbddb",
+    "stale": false
+  },
+  "prerequisites": [
+    "interference-and-diffraction"
+  ]
+}
