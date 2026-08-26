@@ -501,15 +501,24 @@ Remaining, one commit per module:
       pascals-principle-and-hydraulics, fluid-continuity-and-flow-rate,
       bernoullis-equation, viscosity-and-poiseuille-flow)
   `content: complete fluid mechanics concepts`
-- [ ] Add formulas, problem templates and error models to the quantitative
-      concepts that still have none (heisenberg-uncertainty-principle,
-      wavefunctions-and-probability, quantum-tunneling,
-      the-hydrogen-atom-and-atomic-structure,
-      spin-and-angular-momentum-in-quantum-mechanics,
-      the-maxwell-boltzmann-distribution, statistical-definition-of-entropy,
-      maxwells-equations, kirchhoffs-laws-and-circuit-analysis,
-      coupled-and-driven-oscillators, lagrangian-mechanics,
-      viscosity-and-poiseuille-flow)
+- [x] Add formulas, problem templates and error models to the quantitative
+      concepts that still have none. Added 5, each verified against the
+      actual expression engine (`npx tsx` against `evaluate()`, not just
+      hand arithmetic) before committing:
+      heisenberg-uncertainty-principle (Δx·Δp = ħ/2), quantum-tunneling
+      (T = e^(−2κL)), the-maxwell-boltzmann-distribution (most probable
+      speed), statistical-definition-of-entropy (S = k ln W),
+      viscosity-and-poiseuille-flow (Poiseuille's law — added `Pa*s`,
+      `m^3/s`, `1/m` units it needed). The remaining 6 are left deliberately
+      formula-less, not overlooked: `the-hydrogen-atom-and-atomic-structure`
+      already has this exact formula (Eₙ = −13.6 eV/n²) under the sibling
+      `quantum-energy-levels` concept — not duplicated;
+      `wavefunctions-and-probability`, `spin-and-angular-momentum-in-
+      quantum-mechanics`, `maxwells-equations`, `kirchhoffs-laws-and-
+      circuit-analysis`, `coupled-and-driven-oscillators` and
+      `lagrangian-mechanics` are genuinely qualitative/procedural — forcing
+      a single-variable solvable formula onto them would be artificial, and
+      the schema treats formulas as optional for exactly this reason
   `content: add formulas for bachelor-core physics concepts`
 - [ ] Enrich ET resource sets beyond Vikipeedia where a real Estonian source
       exists (opik.fyysika.ee sections, TaskuTark, university course pages)
