@@ -737,17 +737,17 @@ finished first.
 
 Module `special-relativity`. Depends on Phase 11b's relativity concepts.
 
-- [ ] Add terminology for relativistic kinematics
+- [x] Add terminology for relativistic kinematics
   `content: add relativity terminology`
-- [ ] `relativity-of-simultaneity` (L3) — prereq `postulates-of-special-relativity`
+- [x] `relativity-of-simultaneity` (L3) — prereq `postulates-of-special-relativity`
   `content: add relativity of simultaneity concept`
-- [ ] `lorentz-transformations` (L3) — prereq `time-dilation`, `length-contraction`
+- [x] `lorentz-transformations` (L3) — prereq `time-dilation`, `length-contraction`
   `content: add lorentz transformations concept`
-- [ ] `relativistic-velocity-addition` (L3) — prereq `lorentz-transformations`
+- [x] `relativistic-velocity-addition` (L3) — prereq `lorentz-transformations`
   `content: add relativistic velocity addition concept`
-- [ ] `spacetime-and-four-vectors` (L3) — prereq `lorentz-transformations`
+- [x] `spacetime-and-four-vectors` (L3) — prereq `lorentz-transformations`
   `content: add spacetime and four vectors concept`
-- [ ] `the-relativistic-doppler-effect` (L3) — prereq `the-doppler-effect`,
+- [x] `the-relativistic-doppler-effect` (L3) — prereq `the-doppler-effect`,
       `lorentz-transformations`
   `content: add relativistic doppler effect concept`
 
