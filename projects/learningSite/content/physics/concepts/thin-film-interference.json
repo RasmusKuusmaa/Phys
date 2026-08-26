@@ -1,0 +1,21 @@
+{
+  "id": "thin-film-interference",
+  "subject": "physics",
+  "level": "L2",
+  "module": "optics",
+  "title": {
+    "en": "Thin-film interference",
+    "et": "Õhukese kile interferents",
+    "sourceHash": "5b7827671b75fc76",
+    "stale": false
+  },
+  "summary": {
+    "en": "Light reflecting off the top and bottom surfaces of a thin film — a soap bubble, an oil slick, an anti-reflective coating — travels slightly different distances and can interfere constructively or destructively depending on the film's thickness and the light's wavelength, which is why such films show shifting rainbow colours rather than a single reflected colour.",
+    "et": "Valgus, mis peegeldub õhukese kile — seebimulli, õlilaigu, peegeldumisvastase katte — ülemiselt ja alumiselt pinnalt, läbib veidi erineva teepikkuse ja võib olenevalt kile paksusest ja valguse lainepikkusest interfereeruda kas võimendavalt või nõrgendavalt, mistõttu näitavad sellised kiled muutuvaid vikerkaarevärve, mitte üht peegeldunud värvi.",
+    "sourceHash": "fde6030224ca8033",
+    "stale": false
+  },
+  "prerequisites": [
+    "interference-and-diffraction"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "thin-film-interference-item2",
+  "conceptId": "thin-film-interference",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do the colours on a soap film shift and swirl as you watch it, rather than staying fixed?",
+    "et": "Miks seebikile värvid nihkuvad ja keerlevad, kui neid vaadata, selle asemel et jääda kindlaks?",
+    "sourceHash": "9b137021acf89989",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The film's thickness varies across its surface and changes over time as it drains, shifting which wavelengths interfere constructively at each point",
+        "et": "Kile paksus varieerub üle selle pinna ja muutub aja jooksul, kui kile nõrgub, nihutades seda, millised lainepikkused igas punktis võimendavalt interfereeruvad",
+        "sourceHash": "aabacc7481172fef",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The soap molecules themselves are constantly changing colour",
+        "et": "Seebimolekulid ise muudavad pidevalt värvi",
+        "sourceHash": "2a9e0c697615812e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thin-film-interference-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The colours are a visual illusion with no physical basis",
+        "et": "Värvid on visuaalne illusioon ilma füüsikalise aluseta",
+        "sourceHash": "7a8fe4c46574b73e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thin-film-interference-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The bubble's temperature alone determines a single fixed colour",
+        "et": "Ainuüksi mulli temperatuur määrab ühe kindla värvi",
+        "sourceHash": "9dffa50fc4054237",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thin-film-interference-m1"
+    }
+  ]
+}
