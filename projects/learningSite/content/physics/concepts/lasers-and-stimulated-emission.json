@@ -1,0 +1,21 @@
+{
+  "id": "lasers-and-stimulated-emission",
+  "subject": "physics",
+  "level": "L3",
+  "module": "modern-physics",
+  "title": {
+    "en": "Lasers and stimulated emission",
+    "et": "Laserid ja stimuleeritud kiirgus",
+    "sourceHash": "7e23b509c48d86c9",
+    "stale": false
+  },
+  "summary": {
+    "en": "A laser produces intense, coherent light by exploiting stimulated emission — a passing photon of exactly the right energy can trigger an already-excited atom to emit an identical, in-phase photon — which requires a population inversion (more atoms in the excited state than the ground state) to dominate over ordinary absorption and spontaneous emission.",
+    "et": "Laser toodab intensiivset, koherentset valgust, kasutades ära stimuleeritud kiirgust — mööduv footon, mille energia on täpselt õige, võib panna juba ergastatud aatomi kiirgama identse, samas faasis footoni —, mis nõuab populatsiooniinversiooni (rohkem aatomeid ergastatud olekus kui põhiolekus), et see domineeriks tavalise neeldumise ja spontaanse kiirguse üle.",
+    "sourceHash": "6fc9d7e80f008215",
+    "stale": false
+  },
+  "prerequisites": [
+    "quantum-energy-levels"
+  ]
+}

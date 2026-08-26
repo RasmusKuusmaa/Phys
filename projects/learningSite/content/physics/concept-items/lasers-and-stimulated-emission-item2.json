@@ -1,0 +1,56 @@
+{
+  "id": "lasers-and-stimulated-emission-item2",
+  "conceptId": "lasers-and-stimulated-emission",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is a population inversion — more atoms in an excited state than in the ground state — necessary for a laser to operate?",
+    "et": "Miks on populatsiooniinversioon — rohkem aatomeid ergastatud olekus kui põhiolekus — laseri toimimiseks vajalik?",
+    "sourceHash": "5d1d873d5987e197",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Without it, ordinary absorption by ground-state atoms would dominate over stimulated emission, preventing net light amplification",
+        "et": "Ilma selleta domineeriks põhiolekus olevate aatomite tavaline neeldumine stimuleeritud kiirguse üle, takistades valguse netovõimendust",
+        "sourceHash": "f29f7914848d0311",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Population inversion is actually irrelevant to laser action and only affects the light's color",
+        "et": "Populatsiooniinversioon on tegelikult laseri toimimise seisukohast ebaoluline ja mõjutab ainult valguse värvi",
+        "sourceHash": "138c2611b05b6113",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lasers-and-stimulated-emission-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is needed only to make the laser beam visible to the human eye",
+        "et": "Seda on vaja ainult selleks, et laserikiir oleks inimsilmale nähtav",
+        "sourceHash": "b4d7c5f6f5cd2c3d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lasers-and-stimulated-emission-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It prevents spontaneous emission from occurring at all, which would otherwise destroy the atoms",
+        "et": "See takistab spontaanset kiirgust üldse toimumast, mis muidu hävitaks aatomid",
+        "sourceHash": "288ef31fe455ae7a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lasers-and-stimulated-emission-m1"
+    }
+  ]
+}

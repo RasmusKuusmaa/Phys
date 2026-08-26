@@ -1,0 +1,56 @@
+{
+  "id": "lasers-and-stimulated-emission-item1",
+  "conceptId": "lasers-and-stimulated-emission",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What happens when a photon with exactly the right energy passes near an atom that is already in an excited state?",
+    "et": "Mis juhtub, kui täpselt õige energiaga footon möödub aatomist, mis on juba ergastatud olekus?",
+    "sourceHash": "3f5778f5b24b4cda",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It can trigger stimulated emission: the atom drops to a lower state, emitting a second photon identical in energy, phase, and direction to the first",
+        "et": "See võib käivitada stimuleeritud kiirguse: aatom langeb madalamale olekule, kiirates teise footoni, mis on energialt, faasilt ja suunalt esimesega identne",
+        "sourceHash": "0a9d0ae95268b638",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing can happen, since an already-excited atom cannot interact with any further photon",
+        "et": "Midagi ei saa juhtuda, kuna juba ergastatud aatom ei saa suhelda ühegi täiendava footoniga",
+        "sourceHash": "d00c4c2a0fea1815",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lasers-and-stimulated-emission-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The atom absorbs the photon and becomes doubly excited to an even higher energy state",
+        "et": "Aatom neelab footoni ja ergastub topelt veelgi kõrgemale energiaolekule",
+        "sourceHash": "c076d770b7922d8a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lasers-and-stimulated-emission-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The photon is always simply reflected without any interaction with the atom",
+        "et": "Footon lihtsalt peegeldub alati ilma igasuguse vastastikmõjuta aatomiga",
+        "sourceHash": "a33976b5f4c640fb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lasers-and-stimulated-emission-m1"
+    }
+  ]
+}
