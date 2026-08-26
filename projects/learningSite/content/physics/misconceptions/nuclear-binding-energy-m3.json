@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-binding-energy-m3",
+  "conceptId": "nuclear-binding-energy",
+  "text": {
+    "en": "Because both fusion and fission release energy, they must involve nuclei becoming more massive, not less.",
+    "et": "Kuna nii süntees kui lõhustumine vabastavad energiat, peavad need mõlemad hõlmama tuumade massi suurenemist, mitte vähenemist.",
+    "sourceHash": "eefbd7527189f3b1",
+    "stale": false
+  }
+}

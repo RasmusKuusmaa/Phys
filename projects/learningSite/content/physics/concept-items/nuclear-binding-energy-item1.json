@@ -1,0 +1,56 @@
+{
+  "id": "nuclear-binding-energy-item1",
+  "conceptId": "nuclear-binding-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How does the mass of a stable nucleus compare to the total mass of its separate, unbound protons and neutrons?",
+    "et": "Kuidas võrdub stabiilse tuuma mass tema eraldi, sidumata prootonite ja neutronite kogumassiga?",
+    "sourceHash": "154cfb5065182849",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The nucleus's mass is slightly less; the missing mass, the mass defect, has been converted to the binding energy holding it together",
+        "et": "Tuuma mass on veidi väiksem; puuduv mass, massidefekt, on teisendatud selle koos hoidvaks seoseenergiaks",
+        "sourceHash": "f04a897ff9e2393d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The nucleus's mass is exactly equal to the sum of the separate nucleon masses",
+        "et": "Tuuma mass on täpselt võrdne eraldi nukleonide masside summaga",
+        "sourceHash": "d05363d1a62c14c9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-binding-energy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The nucleus's mass is always greater, since binding adds extra mass to the system",
+        "et": "Tuuma mass on alati suurem, kuna sidumine lisab süsteemile lisamassi",
+        "sourceHash": "84342e155ca9379d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-binding-energy-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The comparison is meaningless, since protons and neutrons have no mass outside a nucleus",
+        "et": "Võrdlus on mõttetu, kuna prootonitel ja neutronitel pole väljaspool tuuma massi",
+        "sourceHash": "71d96a2aeee30c6a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-binding-energy-m1"
+    }
+  ]
+}

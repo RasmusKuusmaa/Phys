@@ -1,0 +1,22 @@
+{
+  "id": "nuclear-binding-energy",
+  "subject": "physics",
+  "level": "L2",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Nuclear binding energy",
+    "et": "Tuuma seoseenergia",
+    "sourceHash": "26cbf3992a4523c7",
+    "stale": false
+  },
+  "summary": {
+    "en": "A nucleus's mass is always slightly less than the total mass of its separate protons and neutrons, and this mass defect, converted via E = mc², equals the binding energy that would be needed to pull the nucleus completely apart — the binding energy per nucleon peaks around iron, which is why fusion releases energy for light nuclei and fission releases energy for heavy ones.",
+    "et": "Tuuma mass on alati veidi väiksem kui tema eraldi prootonite ja neutronite koguldess mass, ning see massidefekt, teisendatuna E = mc² kaudu, võrdub seoseenergiaga, mida oleks vaja tuuma täielikult lahku rebimiseks — seoseenergia nukleoni kohta saavutab maksimumi raua juures, mis on põhjus, miks süntees vabastab energiat kergete tuumade jaoks ja lõhustumine vabastab energiat raskete tuumade jaoks.",
+    "sourceHash": "c370b408c662ad33",
+    "stale": false
+  },
+  "prerequisites": [
+    "atoms-and-the-nucleus",
+    "relativistic-momentum-and-energy"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "nuclear-binding-energy-item2",
+  "conceptId": "nuclear-binding-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Binding energy per nucleon peaks around iron and is lower for both very light and very heavy nuclei. What does this explain?",
+    "et": "Seoseenergia nukleoni kohta saavutab maksimumi raua juures ning on madalam nii väga kergete kui väga raskete tuumade jaoks. Mida see selgitab?",
+    "sourceHash": "26d5f1eb9405b780",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Why fusing light nuclei together and splitting heavy nuclei apart can both release energy, moving nuclei toward iron in binding energy per nucleon",
+        "et": "Miks nii kergete tuumade sünteesimine kui raskete tuumade lõhustamine võivad mõlemad energiat vabastada, liikudes tuumasid raua suunas seoseenergia nukleoni kohta osas",
+        "sourceHash": "09777d53b0c880e9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Why only fission, and never fusion, can release nuclear energy",
+        "et": "Miks ainult lõhustumine, mitte kunagi süntees, saab tuumaenergiat vabastada",
+        "sourceHash": "6321d593754deb4b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-binding-energy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Why only fusion, and never fission, can release nuclear energy",
+        "et": "Miks ainult süntees, mitte kunagi lõhustumine, saab tuumaenergiat vabastada",
+        "sourceHash": "094863166c184ce3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-binding-energy-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Why iron nuclei are the most radioactive and unstable of all nuclei",
+        "et": "Miks rauatuumad on kõigist tuumadest kõige radioaktiivsemad ja ebastabiilsemad",
+        "sourceHash": "b14bea2c9a7f9a89",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-binding-energy-m1"
+    }
+  ]
+}
