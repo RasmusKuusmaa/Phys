@@ -1,0 +1,56 @@
+{
+  "id": "catalysis-homogeneous-and-heterogeneous-item2",
+  "conceptId": "catalysis-homogeneous-and-heterogeneous",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An enzyme dissolved in the same aqueous solution as its substrate is an example of what kind of catalysis, and why?",
+    "et": "Ensüüm, mis on lahustatud samas vesilahuses kui tema substraat, on millise katalüüsi liigi näide ja miks?",
+    "sourceHash": "b0416830a820d9de",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Homogeneous catalysis, because the catalyst (enzyme) and the reactants share the same phase",
+        "et": "Homogeenne katalüüs, kuna katalüsaator (ensüüm) ja lähteained jagavad sama faasi",
+        "sourceHash": "45499e48d826b49c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Heterogeneous catalysis, because enzymes are always solid particles suspended in the solution",
+        "et": "Heterogeenne katalüüs, kuna ensüümid on alati tahked osakesed lahuses hõljuvana",
+        "sourceHash": "78a98fd7faf2644f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "catalysis-homogeneous-and-heterogeneous-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Neither type applies, since enzymes are not considered catalysts at all",
+        "et": "Kumbki liik ei kehti, kuna ensüüme ei peeta üldse katalüsaatoriteks",
+        "sourceHash": "12dbf1ddc95ffcbd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "catalysis-homogeneous-and-heterogeneous-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This scenario cannot be classified without knowing the reaction's temperature",
+        "et": "Seda stsenaariumi ei saa liigitada, teadmata reaktsiooni temperatuuri",
+        "sourceHash": "95a2c1ac1619db84",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "catalysis-homogeneous-and-heterogeneous-m1"
+    }
+  ]
+}

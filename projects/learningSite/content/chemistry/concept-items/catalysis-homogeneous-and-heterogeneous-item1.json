@@ -1,0 +1,56 @@
+{
+  "id": "catalysis-homogeneous-and-heterogeneous-item1",
+  "conceptId": "catalysis-homogeneous-and-heterogeneous",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A catalyst speeds up a reaction dramatically. What happens to the catalyst itself and to the reaction's equilibrium position as a result?",
+    "et": "Katalüsaator kiirendab reaktsiooni dramaatiliselt. Mis juhtub selle tagajärjel katalüsaatori endaga ja reaktsiooni tasakaalupositsiooniga?",
+    "sourceHash": "f249734021ad68a5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The catalyst is not consumed overall, and the equilibrium position is unchanged — the catalyst speeds up how quickly equilibrium is reached, not where it lies",
+        "et": "Katalüsaator ei kulu üldiselt ja tasakaalupositsioon ei muutu — katalüsaator kiirendab, kui kiiresti tasakaal saavutatakse, mitte seda, kus see asub",
+        "sourceHash": "e51062173fac8803",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The catalyst is fully consumed, exactly like a limiting reactant",
+        "et": "Katalüsaator kulub täielikult, täpselt nagu piirav lähteaine",
+        "sourceHash": "7be33d0e6e377b0a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "catalysis-homogeneous-and-heterogeneous-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The equilibrium shifts to favour much more product than would otherwise form",
+        "et": "Tasakaal nihkub, soodustades palju rohkema saaduse teket, kui muidu tekiks",
+        "sourceHash": "da8a752e6df99132",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "catalysis-homogeneous-and-heterogeneous-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both the catalyst and the equilibrium position are permanently altered by the reaction",
+        "et": "Nii katalüsaator kui tasakaalupositsioon muutuvad reaktsiooni tagajärjel püsivalt",
+        "sourceHash": "fd1432d1b8f2feab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "catalysis-homogeneous-and-heterogeneous-m1"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "catalysis-homogeneous-and-heterogeneous",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "physical-chemistry",
+  "title": {
+    "en": "Catalysis: homogeneous and heterogeneous",
+    "et": "Katalüüs: homogeenne ja heterogeenne",
+    "sourceHash": "25773ed5e7e4aeb0",
+    "stale": false
+  },
+  "summary": {
+    "en": "A catalyst speeds up a reaction by opening an alternative reaction pathway with a lower activation energy, without being consumed itself and without changing the reaction's overall equilibrium position, and is classified as homogeneous when it shares the same phase as the reactants (as with enzymes in solution) or heterogeneous when it exists in a separate phase, most often as a solid surface that reactant molecules adsorb onto.",
+    "et": "Katalüsaator kiirendab reaktsiooni, avades alternatiivse reaktsioonitee madalama aktivatsioonienergiaga, ilma et see ise kuluks ja ilma reaktsiooni üldist tasakaalupositsiooni muutmata, ja see liigitatakse homogeenseks, kui see jagab lähteainetega sama faasi (nagu ensüümid lahuses), või heterogeenseks, kui see eksisteerib eraldi faasis, kõige sagedamini tahke pinnana, millele lähteainete molekulid adsorbeeruvad.",
+    "sourceHash": "6e56c925877c1e58",
+    "stale": false
+  },
+  "prerequisites": [
+    "arrhenius-equation-and-activation-energy"
+  ]
+}
