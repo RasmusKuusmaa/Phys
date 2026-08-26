@@ -1,0 +1,10 @@
+{
+  "id": "drag-and-terminal-velocity-m3",
+  "conceptId": "drag-and-terminal-velocity",
+  "text": {
+    "en": "Drag force stays exactly constant regardless of how fast an object is moving through a fluid.",
+    "et": "Takistusjõud jääb täpselt konstantseks, sõltumata sellest, kui kiiresti objekt vedelikus liigub.",
+    "sourceHash": "953d5e233516442d",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "drag-and-terminal-velocity-item1",
+  "conceptId": "drag-and-terminal-velocity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A skydiver jumps from a plane and begins falling. Why does their speed eventually stop increasing, reaching a constant terminal velocity?",
+    "et": "Langevarjur hüppab lennukist ja hakkab langema. Miks lõpetab tema kiirus lõpuks suurenemise, jõudes konstantse lõppkiiruseni?",
+    "sourceHash": "fc77c2af22ca1fbd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "As speed increases, the upward drag force grows until it exactly balances the downward weight, making the net force and acceleration zero",
+        "et": "Kiiruse suurenedes kasvab ülespoole suunatud takistusjõud, kuni see täpselt tasakaalustab allapoole suunatud raskuse, muutes netojõu ja kiirenduse nulliks",
+        "sourceHash": "e3093551ccdfa7fd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Gravity itself weakens as the skydiver falls, eventually reaching zero",
+        "et": "Gravitatsioon ise nõrgeneb langevarjuri langedes, jõudes lõpuks nulli",
+        "sourceHash": "1b30bf3735cff46e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drag-and-terminal-velocity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The skydiver's mass decreases as they fall, reducing the force of gravity on them",
+        "et": "Langevarjuri mass väheneb langedes, vähendades tema peale mõjuvat gravitatsioonijõudu",
+        "sourceHash": "f79a0a71946a0704",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drag-and-terminal-velocity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Air resistance stays constant throughout the fall and has no effect on the final speed reached",
+        "et": "Õhutakistus jääb kogu langemise vältel konstantseks ja ei mõjuta saavutatud lõppkiirust",
+        "sourceHash": "03412b70f6090aa7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drag-and-terminal-velocity-m1"
+    }
+  ]
+}

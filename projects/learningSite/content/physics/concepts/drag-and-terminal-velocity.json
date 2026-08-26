@@ -1,0 +1,22 @@
+{
+  "id": "drag-and-terminal-velocity",
+  "subject": "physics",
+  "level": "L2",
+  "module": "fluid-mechanics",
+  "title": {
+    "en": "Drag and terminal velocity",
+    "et": "Takistusjõud ja lõppkiirus",
+    "sourceHash": "25ce9aafd10ab4ba",
+    "stale": false
+  },
+  "summary": {
+    "en": "An object falling through a fluid experiences a drag force that grows with its speed, and as it accelerates the drag force eventually grows to equal the net downward force, at which point the acceleration reaches zero and the object continues falling at a constant terminal velocity rather than speeding up indefinitely.",
+    "et": "Vedelikus langev objekt kogeb takistusjõudu, mis kasvab tema kiirusega, ja kiirenedes kasvab takistusjõud lõpuks võrdseks netoallapoole suunatud jõuga, mille hetkel kiirendus jõuab nullini ja objekt langeb edasi konstantse lõppkiirusega, selle asemel et lõputult kiireneda.",
+    "sourceHash": "41fca238b72ebd9d",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtons-second-law",
+    "viscosity-and-poiseuille-flow"
+  ]
+}

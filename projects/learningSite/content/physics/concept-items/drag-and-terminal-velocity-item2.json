@@ -1,0 +1,56 @@
+{
+  "id": "drag-and-terminal-velocity-item2",
+  "conceptId": "drag-and-terminal-velocity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "At terminal velocity, what is true about the net force acting on a falling object?",
+    "et": "Mis kehtib langeva objekti peale mõjuva netojõu kohta lõppkiirusel?",
+    "sourceHash": "4922f9ff26f6400f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The net force is exactly zero, since the upward drag force now exactly balances the downward weight",
+        "et": "Netojõud on täpselt null, kuna ülespoole suunatud takistusjõud tasakaalustab nüüd täpselt allapoole suunatud raskuse",
+        "sourceHash": "da67be14b28546c3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The net force is still directed downward and equal to the object's full weight",
+        "et": "Netojõud on ikka allapoole suunatud ja võrdne objekti täieliku raskusega",
+        "sourceHash": "38a47a6c8c8e377c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drag-and-terminal-velocity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All forces on the object, including gravity and drag, have completely vanished",
+        "et": "Kõik objekti mõjuvad jõud, sealhulgas gravitatsioon ja takistus, on täielikult kadunud",
+        "sourceHash": "86128f17c23b33ed",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drag-and-terminal-velocity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The net force is directed upward, causing the object to decelerate further",
+        "et": "Netojõud on suunatud ülespoole, põhjustades objekti edasist aeglustumist",
+        "sourceHash": "ca20b6edd3f41f6e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drag-and-terminal-velocity-m1"
+    }
+  ]
+}
