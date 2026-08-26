@@ -177,6 +177,22 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "superconductivity",
     "lasers-and-stimulated-emission",
   ],
+  // LTFY.01.005 / LTTO.00.025 Globaalfüüsika — Earth/atmospheric physics and
+  // astrophysics/cosmology survey; both course listings share one syllabus.
+  // Elective, eclectic (plate tectonics to cosmology) — mapped to the most
+  // physics-canonical topics rather than attempting full topic coverage.
+  "LTFY.01.005": [
+    "the-greenhouse-effect-and-planetary-energy-balance",
+    "stellar-classification-and-the-hertzsprung-russell-diagram",
+    "hubbles-law-and-the-expanding-universe",
+    "keplers-laws",
+  ],
+  "LTTO.00.025": [
+    "the-greenhouse-effect-and-planetary-energy-balance",
+    "stellar-classification-and-the-hertzsprung-russell-diagram",
+    "hubbles-law-and-the-expanding-universe",
+    "keplers-laws",
+  ],
   "LOFY.04.003": [
     "length-contraction",
     "postulates-of-special-relativity",

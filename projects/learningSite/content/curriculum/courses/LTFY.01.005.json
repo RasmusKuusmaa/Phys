@@ -75,7 +75,12 @@
       "keywords": "--------------------------------------------------------------------------------------------------------------------------------- 10. Astrofüüsika uurimismeetodid. Lähimad kosmilised objektid. Näiv taevas ja taevakoordinaadid. Süsteem Maa-Kuu-Päike. Varjutused. Planeetide näiv ja tegelik liikumine. Kepleri seadused. Spektroskoopilised meetodid."
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "the-greenhouse-effect-and-planetary-energy-balance",
+    "stellar-classification-and-the-hertzsprung-russell-diagram",
+    "hubbles-law-and-the-expanding-universe",
+    "keplers-laws"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"
   ],

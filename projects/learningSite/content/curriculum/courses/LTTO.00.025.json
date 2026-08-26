@@ -115,7 +115,12 @@
       "keywords": "- - -"
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "the-greenhouse-effect-and-planetary-energy-balance",
+    "stellar-classification-and-the-hertzsprung-russell-diagram",
+    "hubbles-law-and-the-expanding-universe",
+    "keplers-laws"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"
   ],

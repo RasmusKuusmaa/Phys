@@ -1075,15 +1075,27 @@ real machine.
   `content: cover spectroscopy`
 - [x] `LOFY.01.018` Foundations of signal processing I (3 EAP, required)
   `content: cover signal processing`
-- [ ] `LTFY.04.013` Mathematical physics (36 topics) — needs Phase 27
+- [x] `LTFY.04.013` Mathematical physics (36 topics) — needs Phase 27 — already
+      mapped with 9 vector-calculus/multivariable-calculus concepts (Phase 27
+      now done); tensor calculus itself remains unauthored (see Phase 33)
   `content: cover mathematical physics`
-- [ ] `LOFY.04.035` Equations of mathematical physics (15 topics)
+- [x] `LOFY.04.035` Equations of mathematical physics (15 topics) — mapped
+      with both ODE concepts, infinite series and the divergence/Stokes
+      theorems concept
   `content: cover equations of mathematical physics`
-- [ ] `LTFY.04.015` Functions of a complex variable in physics (15 topics)
+- [x] `LTFY.04.015` Functions of a complex variable in physics (15 topics) —
+      mapped with complex numbers, polar form and functions of a complex
+      variable
   `content: cover complex variable physics`
-- [ ] `LOFY.01.015` Experimental methods of nuclear physics (14 topics)
+- [x] `LOFY.01.015` Experimental methods of nuclear physics (14 topics) —
+      mapped with radioactive decay modes and radioactivity/half-life
   `content: cover nuclear experimental methods`
-- [ ] `LTFY.01.005` / `LTTO.00.025` Global physics
+- [x] `LTFY.01.005` / `LTTO.00.025` Global physics — 3 new concepts
+      (greenhouse effect/planetary energy balance, stellar classification/
+      H-R diagram, Hubble's law/expanding universe) plus existing Kepler's
+      laws; the course is an eclectic Earth-science-to-cosmology survey, so
+      mapped to its most physics-canonical topics rather than every subtopic
+      (plate tectonics, oceanography, etc. remain uncovered)
   `content: cover global physics`
 
 ### Phase 32 — Practical and laboratory courses
