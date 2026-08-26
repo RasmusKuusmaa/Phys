@@ -1,0 +1,56 @@
+{
+  "id": "band-theory-of-solids-item1",
+  "conceptId": "band-theory-of-solids",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do the sharp, discrete energy levels of an isolated atom broaden into continuous bands when many atoms bond together into a crystal?",
+    "et": "Miks laienevad isoleeritud aatomi teravad, diskreetsed energianivood pidevateks vöödeks, kui paljud aatomid seonduvad kristalliks?",
+    "sourceHash": "ae13d2352343b932",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Interactions between the closely spaced atoms split each shared atomic level into many closely spaced sub-levels that merge into a near-continuous band",
+        "et": "Vastastikmõjud lähestikku paiknevate aatomite vahel jagavad iga jagatud aatomi nivoo paljudeks lähestikku paiknevateks alanivoodeks, mis sulanduvad peaaegu pidevaks vööks",
+        "sourceHash": "cc2b15e5fccbb738",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The atoms lose their individual energy levels entirely once bonded, leaving no structure at all",
+        "et": "Aatomid kaotavad seondudes oma üksikud energianivood täielikult, jätmata üldse mingit struktuuri",
+        "sourceHash": "1141188383dde1d6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "band-theory-of-solids-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Bands form only in metals and never in any other type of crystalline solid",
+        "et": "Vööd tekivad ainult metallides ega kunagi üheski teises kristallilise tahke aine liigis",
+        "sourceHash": "ac4fe46eb20fc4ad",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "band-theory-of-solids-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Each atom in the crystal keeps its exact isolated-atom energy levels, completely unaffected by its neighbours",
+        "et": "Iga aatom kristallis säilitab täpselt oma isoleeritud aatomi energianivood, olles oma naabritest täiesti mõjutamata",
+        "sourceHash": "4d70e5148198ca77",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "band-theory-of-solids-m1"
+    }
+  ]
+}

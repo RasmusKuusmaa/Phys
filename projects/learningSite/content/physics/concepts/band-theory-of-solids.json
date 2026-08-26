@@ -1,0 +1,22 @@
+{
+  "id": "band-theory-of-solids",
+  "subject": "physics",
+  "level": "L3",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "Band theory of solids",
+    "et": "Tahkiste vöö teooria",
+    "sourceHash": "73abbef29e13770a",
+    "stale": false
+  },
+  "summary": {
+    "en": "When atoms bond into a crystal, their discrete atomic energy levels broaden into continuous allowed energy bands separated by forbidden gaps, and whether a material conducts, semiconducts, or insulates is determined entirely by how these bands are filled with electrons and how large the gap is between the highest filled band and the next empty one.",
+    "et": "Kui aatomid seonduvad kristalliks, laienevad nende diskreetsed aatomi energianivood pidevateks lubatud energiavöödeks, mida eraldavad keelatud vahed, ja see, kas materjal juhib, poolestjuhib või isoleerib, on täielikult määratud sellega, kuidas need vööd on elektronidega täidetud ja kui suur on vahe kõrgeima täidetud vöö ja järgmise tühja vöö vahel.",
+    "sourceHash": "85512bd4b0656b66",
+    "stale": false
+  },
+  "prerequisites": [
+    "crystal-structure-and-lattices",
+    "quantum-energy-levels"
+  ]
+}

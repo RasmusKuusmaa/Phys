@@ -1,0 +1,56 @@
+{
+  "id": "band-theory-of-solids-item2",
+  "conceptId": "band-theory-of-solids",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What band-structure feature primarily distinguishes an insulator from a semiconductor?",
+    "et": "Milline vöö struktuuri tunnus eristab peamiselt isolaatorit pooljuhist?",
+    "sourceHash": "28e29a939d73bf3d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An insulator has a large band gap between the filled valence band and the empty conduction band, while a semiconductor has a much smaller gap that thermal energy can bridge",
+        "et": "Isolaatoril on suur keelutsoon täidetud valentsvöö ja tühja juhtivusvöö vahel, samal ajal kui pooljuhil on palju väiksem vahe, mida soojusenergia suudab ületada",
+        "sourceHash": "f68c6df3b24cd917",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "An insulator has no band gap at all, while a semiconductor has an enormous one",
+        "et": "Isolaatoril puudub keelutsoon üldse, samal ajal kui pooljuhil on tohutu keelutsoon",
+        "sourceHash": "c6f9bde84d0ef862",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "band-theory-of-solids-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Insulators and semiconductors have identical band structures with no distinguishing feature",
+        "et": "Isolaatoritel ja pooljuhtidel on identne vöö struktuur ilma eristava tunnuseta",
+        "sourceHash": "babbdca9bf96bd0f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "band-theory-of-solids-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The distinction depends only on the material's color, not on its electronic band structure",
+        "et": "Erinevus sõltub ainult materjali värvist, mitte selle elektroonilisest vöö struktuurist",
+        "sourceHash": "de5a5d71de865d42",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "band-theory-of-solids-m1"
+    }
+  ]
+}
