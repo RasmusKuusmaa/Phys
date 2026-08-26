@@ -196,7 +196,11 @@
     "the-carnot-cycle-and-heat-engines",
     "ideal-gas-law",
     "chemical-equilibrium",
-    "reaction-kinetics"
+    "reaction-kinetics",
+    "reaction-rate-laws-and-order",
+    "arrhenius-equation-and-activation-energy",
+    "phase-equilibria-and-the-clausius-clapeyron-equation",
+    "raoults-law-and-colligative-properties"
   ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience1.md",

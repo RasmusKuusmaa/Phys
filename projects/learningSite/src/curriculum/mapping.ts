@@ -421,6 +421,10 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "ideal-gas-law",
     "chemical-equilibrium",
     "reaction-kinetics",
+    "reaction-rate-laws-and-order",
+    "arrhenius-equation-and-activation-energy",
+    "phase-equilibria-and-the-clausius-clapeyron-equation",
+    "raoults-law-and-colligative-properties",
   ],
   // LOKT.09.014 / LOKT.10.018 organic and bioorganic practicals — same functional
   // group and mechanism theory as the lecture course.

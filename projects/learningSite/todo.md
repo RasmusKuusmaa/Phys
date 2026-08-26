@@ -999,7 +999,10 @@ courses have nothing.
       and bond cleavage, alkene/alkyne addition, electrophilic aromatic
       substitution, carbonyl chemistry, carboxylic acid derivatives
   `content: add organic chemistry concepts`
-- [ ] Author physical chemistry part 1 for `LOKT.02.037` (30 topics)
+- [x] Author physical chemistry part 1 for `LOKT.02.037` (30 topics) — thermo
+      side already covered by physics concepts; added 4 chemistry-specific:
+      rate laws/order, Arrhenius/activation energy, Clausius-Clapeyron,
+      Raoult's law/colligative properties
   `content: add physical chemistry part one concepts`
 - [ ] Author physical chemistry part 2 for `LTKT.02.001` (30 topics)
   `content: add physical chemistry part two concepts`
