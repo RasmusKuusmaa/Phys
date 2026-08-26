@@ -1,0 +1,56 @@
+{
+  "id": "diffraction-gratings-item2",
+  "conceptId": "diffraction-gratings",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "White light is shone through a diffraction grating. What happens to the different colours it contains?",
+    "et": "Läbi difraktsioonivõre lastakse valget valgust. Mis juhtub selles sisalduvate erinevate värvidega?",
+    "sourceHash": "4d373f35b08c0899",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Each wavelength diffracts to a slightly different angle, spreading the colours apart into a spectrum",
+        "et": "Iga lainepikkus difrageerub veidi erineva nurga all, laotades värvid laiali spektriks",
+        "sourceHash": "78258eff7df9904c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "All wavelengths diffract to exactly the same angle, so white light stays white",
+        "et": "Kõik lainepikkused difrageeruvad täpselt samale nurgale, seega jääb valge valgus valgeks",
+        "sourceHash": "13db258c39b51b81",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diffraction-gratings-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only one wavelength passes through the grating at all",
+        "et": "Läbi võre pääseb ainult üks lainepikkus",
+        "sourceHash": "5fac0e99e5899139",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diffraction-gratings-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The grating absorbs all wavelengths except one",
+        "et": "Võre neelab kõik lainepikkused peale ühe",
+        "sourceHash": "14c82a9e88103401",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diffraction-gratings-m1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "diffraction-grating-solve-lambda",
+  "formulaId": "diffraction-grating-formula",
+  "variables": [
+    {
+      "symbol": "theta",
+      "min": 5,
+      "max": 60,
+      "unit": "deg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "d",
+      "min": 0.000001,
+      "max": 0.0001,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "theta",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "theta",
+      "right": 90
+    },
+    {
+      "op": "gt",
+      "left": "d",
+      "right": 0
+    }
+  ],
+  "solveFor": "lambda"
+}

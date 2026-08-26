@@ -1,0 +1,37 @@
+{
+  "id": "diffraction-grating-solve-lambda-errors",
+  "formulaId": "diffraction-grating-formula",
+  "solveFor": "lambda",
+  "mistakes": [
+    {
+      "id": "used-cos-instead",
+      "description": {
+        "en": "Used cosine of the angle instead of sine.",
+        "et": "Kasutas nurga koosinust siinuse asemel, mitte siinust.",
+        "sourceHash": "50fb3f078fd685f7",
+        "stale": false
+      },
+      "expression": "d*cos(theta*3.14159265358979/180)"
+    },
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided spacing by sine instead of multiplying.",
+        "et": "Jagas vahekauguse siinusega, selle asemel et korrutada.",
+        "sourceHash": "bfd265bc8954794a",
+        "stale": false
+      },
+      "expression": "d/sin(theta*3.14159265358979/180)"
+    },
+    {
+      "id": "forgot-sin",
+      "description": {
+        "en": "Omitted the sine of the angle entirely.",
+        "et": "Jättis nurga siinuse täielikult välja.",
+        "sourceHash": "adb69274f04a1e8e",
+        "stale": false
+      },
+      "expression": "d*theta"
+    }
+  ]
+}

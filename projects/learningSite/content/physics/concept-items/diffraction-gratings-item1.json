@@ -1,0 +1,56 @@
+{
+  "id": "diffraction-gratings-item1",
+  "conceptId": "diffraction-gratings",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A double slit and a diffraction grating with thousands of slits, both with the same slit spacing, are illuminated with the same laser. How do their bright fringe patterns compare?",
+    "et": "Kaksikpilu ja tuhandete pilude arvuga difraktsioonivõre, mõlemal sama pilude vahekaugus, valgustatakse sama laseriga. Kuidas võrduvad nende heledate triipude mustrid?",
+    "sourceHash": "eef91708ba364e1a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The bright fringes appear at the same angles for both, but the grating's fringes are far sharper and narrower",
+        "et": "Heledad triibud ilmuvad mõlemal samadel nurkadel, kuid võre triibud on palju teravamad ja kitsamad",
+        "sourceHash": "eb362a54ad6be200",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The two patterns are identical in every respect, since the slit spacing is the same",
+        "et": "Kaks mustrit on igas mõttes identsed, sest pilude vahekaugus on sama",
+        "sourceHash": "cd2a359886e50554",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diffraction-gratings-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The grating produces fringes at completely different angles from the double slit",
+        "et": "Võre tekitab triibud kaksikpilust täiesti erinevatel nurkadel",
+        "sourceHash": "033ce60470ed4b30",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diffraction-gratings-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "More slits only makes the pattern brighter, with no change to its sharpness",
+        "et": "Rohkem pilusid teeb mustri ainult heledamaks, muutmata selle teravust",
+        "sourceHash": "fd5cc076bde04e1a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diffraction-gratings-m1"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "diffraction-gratings",
+  "subject": "physics",
+  "level": "L2",
+  "module": "optics",
+  "title": {
+    "en": "Diffraction gratings",
+    "et": "Difraktsioonivõred",
+    "sourceHash": "7cf5e0185e039eba",
+    "stale": false
+  },
+  "summary": {
+    "en": "A diffraction grating is a surface ruled with thousands of closely spaced slits, and its many-slit interference pattern produces bright fringes far sharper and better separated than a simple double slit gives, which is what makes it the standard tool for measuring wavelengths precisely.",
+    "et": "Difraktsioonivõre on pind, millele on tihedalt kraapitud tuhandeid pilusid, ja selle mitme pilu interferentsimuster tekitab palju teravamaid ja paremini eraldunud heledaid triipe kui lihtne kaksikpilu, mistõttu on see standardne tööriist lainepikkuste täpseks mõõtmiseks.",
+    "sourceHash": "66402dd5c30bc674",
+    "stale": false
+  },
+  "prerequisites": [
+    "interference-and-diffraction"
+  ]
+}

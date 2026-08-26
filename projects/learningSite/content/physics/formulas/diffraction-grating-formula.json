@@ -1,0 +1,45 @@
+{
+  "id": "diffraction-grating-formula",
+  "conceptId": "diffraction-gratings",
+  "latex": "\\sin\\theta = \\frac{\\lambda}{d}",
+  "symbols": [
+    {
+      "symbol": "theta",
+      "name": {
+        "en": "angle",
+        "et": "nurk",
+        "sourceHash": "49387897bee2bee3",
+        "stale": false
+      },
+      "unit": "deg"
+    },
+    {
+      "symbol": "lambda",
+      "name": {
+        "en": "wavelength",
+        "et": "lainepikkus",
+        "sourceHash": "cbf73350941bee0f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "d",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "lambda",
+    "d"
+  ],
+  "expressions": {
+    "lambda": "d*sin(theta*3.14159265358979/180)",
+    "d": "lambda/sin(theta*3.14159265358979/180)"
+  }
+}
