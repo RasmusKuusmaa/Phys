@@ -1,0 +1,21 @@
+{
+  "id": "superconductivity",
+  "subject": "physics",
+  "level": "L3",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "Superconductivity",
+    "et": "Ülijuhtivus",
+    "sourceHash": "ac27f0d2234bb33b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Below a critical temperature, certain materials lose all electrical resistance entirely and also expel magnetic fields from their interior (the Meissner effect), a genuinely quantum phenomenon explained in conventional superconductors by electrons pairing into Cooper pairs that move through the lattice without scattering, rather than merely being an extreme case of ordinary good conductivity.",
+    "et": "Allpool kriitilist temperatuuri kaotavad teatud materjalid täielikult igasuguse elektritakistuse ja tõrjuvad ka magnetväljad oma seest välja (Meissneri efekt), tõeliselt kvantnähtus, mida tavapärastes ülijuhtides selgitatakse elektronide paardumisega Cooperi paarideks, mis liiguvad läbi võre ilma hajumata, mitte lihtsalt tavalise hea juhtivuse äärmusliku juhtumina.",
+    "sourceHash": "0eb59a2d1ead66ab",
+    "stale": false
+  },
+  "prerequisites": [
+    "band-theory-of-solids"
+  ]
+}

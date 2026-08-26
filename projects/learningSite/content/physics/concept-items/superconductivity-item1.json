@@ -1,0 +1,56 @@
+{
+  "id": "superconductivity-item1",
+  "conceptId": "superconductivity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What happens to a superconductor's electrical resistance when it is cooled below its critical temperature?",
+    "et": "Mis juhtub ülijuhi elektritakistusega, kui seda jahutatakse allapoole tema kriitilist temperatuuri?",
+    "sourceHash": "3c47d225a7b1de00",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It drops abruptly to exactly zero, not merely to a very small value",
+        "et": "See langeb järsult täpselt nullini, mitte ainult väga väikesele väärtusele",
+        "sourceHash": "c438ba3124f02566",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It decreases gradually and continuously, approaching zero only in the limit of absolute zero",
+        "et": "See väheneb järk-järgult ja pidevalt, lähenedes nullile ainult absoluutse nullpunkti piirjuhul",
+        "sourceHash": "4860e197c54628af",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "superconductivity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stays exactly the same as at room temperature, unaffected by cooling",
+        "et": "See jääb täpselt samaks nagu toatemperatuuril, jahutamisest mõjutamata",
+        "sourceHash": "4aa2aa4125bb9258",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "superconductivity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It increases sharply, since cooling always raises electrical resistance in every material",
+        "et": "See kasvab järsult, kuna jahutamine tõstab alati elektritakistust igas materjalis",
+        "sourceHash": "4b0bf151aca4b720",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "superconductivity-m1"
+    }
+  ]
+}

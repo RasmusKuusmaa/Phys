@@ -1,0 +1,56 @@
+{
+  "id": "superconductivity-item2",
+  "conceptId": "superconductivity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Besides zero electrical resistance, what other defining property does a superconductor exhibit below its critical temperature?",
+    "et": "Millist muud iseloomulikku omadust näitab ülijuht allpool oma kriitilist temperatuuri lisaks nulltakistusele?",
+    "sourceHash": "073e7c84c5de7189",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It actively expels magnetic field lines from its interior — the Meissner effect — rather than merely allowing zero resistance to currents",
+        "et": "See tõrjub aktiivselt magnetvälja jooned oma seest välja — Meissneri efekt —, mitte ei luba lihtsalt voolude nulltakistust",
+        "sourceHash": "0ec6530db31e0bb3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It becomes strongly attracted to magnetic fields, pulling them more deeply into its interior than an ordinary conductor would",
+        "et": "See tõmbub tugevalt magnetväljade poole, tõmmates neid sügavamale oma sisemusse kui tavaline juht seda teeks",
+        "sourceHash": "867ad0bf9e2aa99e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "superconductivity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stops conducting electricity entirely, behaving instead as a perfect insulator",
+        "et": "See lõpetab elektri juhtimise täielikult, käitudes selle asemel täiusliku isolaatorina",
+        "sourceHash": "5ad85fcc6abc6ade",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "superconductivity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Its band gap becomes larger than that of any ordinary insulator",
+        "et": "Selle keelutsoon muutub suuremaks kui igal tavalisel isolaatoril",
+        "sourceHash": "166e4f1f4075a668",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "superconductivity-m1"
+    }
+  ]
+}
