@@ -1,0 +1,56 @@
+{
+  "id": "optical-resolution-and-the-rayleigh-criterion-item1",
+  "conceptId": "optical-resolution-and-the-rayleigh-criterion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A perfectly manufactured telescope, with no lens defects at all, is pointed at a single star. Why does the star's image still appear as a small blurred disc rather than a perfect point?",
+    "et": "Täiuslikult valmistatud teleskoop, milles ei ole üldse läätsevigu, on suunatud ühele tähele. Miks paistab tähe kujutis ikkagi väikese hägusa kettana, mitte täiusliku punktina?",
+    "sourceHash": "475e6934972dca73",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Diffraction at the telescope's finite aperture spreads even a perfect point source into a small disc — a fundamental limit, not a manufacturing flaw",
+        "et": "Difraktsioon teleskoobi lõplikul aval laotab isegi täiusliku punktallika väikeseks kettaks — põhimõtteline piirang, mitte valmistusviga",
+        "sourceHash": "d6454953df03775a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The star itself has a physically large, blurred surface that produces the disc",
+        "et": "Täht ise omab füüsiliselt suurt, hägust pinda, mis tekitab ketta",
+        "sourceHash": "321cc662612605c2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-resolution-and-the-rayleigh-criterion-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The disc only appears because of remaining lens defects the manufacturer failed to correct",
+        "et": "Ketas ilmub ainult järelejäänud läätsevigade tõttu, mida tootja ei suutnud parandada",
+        "sourceHash": "278264f8e0aae852",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-resolution-and-the-rayleigh-criterion-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Point sources always form point images regardless of aperture, so no disc should appear at all",
+        "et": "Punktallikad moodustavad alati punktkujutised, sõltumata avast, seega ketast üldse ei tohiks tekkida",
+        "sourceHash": "69f786bac2603499",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-resolution-and-the-rayleigh-criterion-m1"
+    }
+  ]
+}

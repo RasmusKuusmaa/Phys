@@ -1,0 +1,21 @@
+{
+  "id": "optical-resolution-and-the-rayleigh-criterion",
+  "subject": "physics",
+  "level": "L3",
+  "module": "optics",
+  "title": {
+    "en": "Optical resolution and the Rayleigh criterion",
+    "et": "Optiline lahutusvõime ja Rayleigh' kriteerium",
+    "sourceHash": "62b36844da851013",
+    "stale": false
+  },
+  "summary": {
+    "en": "Any optical instrument's aperture diffracts the light passing through it, spreading a point source into a small blurred disc rather than a true point, and the Rayleigh criterion sets the standard for how close two such discs can sit before they can no longer be told apart — a limit set by diffraction, not by imperfect engineering.",
+    "et": "Iga optilise seadme ava difrageerib sellest läbivat valgust, laotades punktallika väikeseks häguseks kettaks tõelise punkti asemel, ning Rayleigh' kriteerium seab standardi selle kohta, kui lähedal võivad kaks sellist ketast asuda, enne kui neid enam eristada ei saa — piirang, mille seab difraktsioon, mitte puudulik insenertöö.",
+    "sourceHash": "cfeed2e0ad637d30",
+    "stale": false
+  },
+  "prerequisites": [
+    "diffraction-gratings"
+  ]
+}

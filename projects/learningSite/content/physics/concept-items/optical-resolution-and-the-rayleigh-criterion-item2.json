@@ -1,0 +1,56 @@
+{
+  "id": "optical-resolution-and-the-rayleigh-criterion-item2",
+  "conceptId": "optical-resolution-and-the-rayleigh-criterion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An astronomer wants to distinguish two closely spaced stars that currently appear as one blurred blob. What upgrade would help most?",
+    "et": "Astronoom soovib eristada kaht lähestikku asuvat tähte, mis praegu paistavad ühe hägusa laiguna. Milline uuendus aitaks kõige rohkem?",
+    "sourceHash": "d82dff9e0dc10ffb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A telescope with a larger aperture, since a larger aperture produces smaller diffraction discs and finer resolution",
+        "et": "Suurema avaga teleskoop, sest suurem ava tekitab väiksemaid difraktsiooniketasid ja peenemat lahutusvõimet",
+        "sourceHash": "bd7b8984d90e493a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Better-polished lenses alone, since resolution depends only on manufacturing quality",
+        "et": "Ainuüksi paremini poleeritud läätsed, sest lahutusvõime sõltub ainult valmistuskvaliteedist",
+        "sourceHash": "14cca54107d3b2d4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-resolution-and-the-rayleigh-criterion-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A brighter light source, since resolution depends only on how much light is collected",
+        "et": "Heledam valgusallikas, sest lahutusvõime sõltub ainult sellest, kui palju valgust kogutakse",
+        "sourceHash": "8fd500e5b217e1d9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-resolution-and-the-rayleigh-criterion-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing can help, since two close stars can never be resolved by any instrument",
+        "et": "Miski ei saa aidata, sest kaht lähedast tähte ei saa ükski seade kunagi lahutada",
+        "sourceHash": "2d205fae6de9e113",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-resolution-and-the-rayleigh-criterion-m1"
+    }
+  ]
+}
