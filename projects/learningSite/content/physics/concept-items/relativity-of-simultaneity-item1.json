@@ -1,0 +1,56 @@
+{
+  "id": "relativity-of-simultaneity-item1",
+  "conceptId": "relativity-of-simultaneity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two lightning bolts strike simultaneously according to an observer standing on a train platform. According to an observer moving on a passing train, are the two strikes simultaneous?",
+    "et": "Kaks välgulööki tabavad rongiplatvormil seisva vaatleja jaoks samaaegselt. Kas need kaks lööki on samaaegsed mööduval rongil liikuva vaatleja jaoks?",
+    "sourceHash": "7ac44d349c033649",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Not necessarily — the moving observer will generally measure the two events as happening at different times",
+        "et": "Mitte tingimata — liikuv vaatleja mõõdab üldiselt need kaks sündmust erineval ajal toimununa",
+        "sourceHash": "1ebb1fab579e9d13",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes, always — simultaneity is an absolute fact that all observers agree on regardless of motion",
+        "et": "Jah, alati — samaaegsus on absoluutne fakt, millega kõik vaatlejad nõustuvad sõltumata liikumisest",
+        "sourceHash": "f152d034c3c0e3ea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativity-of-simultaneity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only if the train observer is also standing still relative to the platform",
+        "et": "Ainult siis, kui ka rongi vaatleja seisab platvormi suhtes paigal",
+        "sourceHash": "fee6e0affc3497e2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativity-of-simultaneity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is impossible to say anything about simultaneity in special relativity",
+        "et": "Erirelatiivsusteoorias ei ole samaaegsuse kohta üldse midagi öelda võimalik",
+        "sourceHash": "792672fce123d07b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativity-of-simultaneity-m1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "relativity-of-simultaneity-item2",
+  "conceptId": "relativity-of-simultaneity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the fundamental reason that simultaneity is relative rather than absolute?",
+    "et": "Mis on samaaegsuse relatiivsuse — mitte absoluutsuse — põhjus?",
+    "sourceHash": "d4092828423533ce",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The speed of light is finite and the same for all inertial observers, so different observers moving relative to each other assign different times to spatially separated events",
+        "et": "Valguse kiirus on lõplik ja sama kõigi inertsiaalsete vaatlejate jaoks, seega omistavad üksteise suhtes liikuvad vaatlejad ruumiliselt eraldatud sündmustele erinevad ajad",
+        "sourceHash": "12bf760117a6f984",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Clocks are simply built imprecisely and cannot be synchronized well enough to agree",
+        "et": "Kellad on lihtsalt ebatäpselt ehitatud ega saa piisavalt hästi sünkroonitud olla, et kokku leppida",
+        "sourceHash": "f6dda2d7beaac412",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativity-of-simultaneity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Observers moving at different speeds perceive time psychologically differently, though physically it is the same",
+        "et": "Erineva kiirusega liikuvad vaatlejad tajuvad aega psühholoogiliselt erinevalt, kuigi füüsiliselt on see sama",
+        "sourceHash": "2bef2f606de8f4e3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativity-of-simultaneity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Simultaneity is relative only because of measurement error, and would vanish with perfect instruments",
+        "et": "Samaaegsus on relatiivne ainult mõõtevea tõttu ja kaoks täiuslike instrumentide korral",
+        "sourceHash": "0d8d02535c176d9b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativity-of-simultaneity-m1"
+    }
+  ]
+}

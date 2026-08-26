@@ -1,0 +1,22 @@
+{
+  "id": "relativity-of-simultaneity",
+  "subject": "physics",
+  "level": "L3",
+  "module": "special-relativity",
+  "title": {
+    "en": "Relativity of simultaneity",
+    "et": "Samaaegsuse relatiivsus",
+    "sourceHash": "313a949faed5a1e8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Two events that are simultaneous in one inertial reference frame are generally not simultaneous when viewed from a different frame moving relative to the first, a direct consequence of the finite, constant speed of light — simultaneity is not an absolute, frame-independent fact but depends on the observer's state of motion.",
+    "et": "Kaks sündmust, mis on samaaegsed ühes inertsiaalses taustsüsteemis, ei ole üldiselt samaaegsed, kui neid vaadata teisest, esimese suhtes liikuvast taustsüsteemist — see on otsene tagajärg valguse lõplikule ja konstantsele kiirusele —, samaaegsus ei ole absoluutne, vaatlejast sõltumatu fakt, vaid sõltub vaatleja liikumisolekust.",
+    "sourceHash": "63144a22208ad721",
+    "stale": false
+  },
+  "prerequisites": [
+    "postulates-of-special-relativity",
+    "time-dilation"
+  ]
+}
