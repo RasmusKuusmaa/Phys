@@ -864,6 +864,15 @@ door on the failure mode that started all of this.
   Wikipedia rate-limiting on retries, not final failures)
   `content: refresh dead resource links`
 - [ ] Lighthouse pass on the grown site (roadmap and search now much larger)
+      — attempted: installed `lighthouse` + a standalone Chrome binary
+      (`npx @puppeteer/browsers install chrome@stable`), but headless Chrome
+      failed to launch (`libnspr4.so` and friends missing) and this sandbox
+      has no root to `apt-get install` the dependency, so it could not
+      actually run here. To do this from a machine with a real Chrome
+      install: `npm run build && npm run start &` then
+      `npx lighthouse http://localhost:3000/en --view` (repeat for `/et`,
+      `/en/roadmap`, `/en/curriculum`, `/en/search`, a couple of
+      `/en/concepts/[id]` pages)
   `perf: address lighthouse findings after content growth`
 
 ### Phase 14 — Remaining subjects — SUPERSEDED
