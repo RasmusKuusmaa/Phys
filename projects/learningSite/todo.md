@@ -1064,9 +1064,9 @@ real machine.
   `content: scaffold the computing subject`
 - [x] Author programming fundamentals — values, control flow, functions
   `content: add programming fundamentals concepts`
-- [ ] Author data structures and algorithms at first-course level
+- [x] Author data structures and algorithms at first-course level
   `content: add data structures concepts`
-- [ ] Author numerical methods as used in physics and chemistry
+- [x] Author numerical methods as used in physics and chemistry
   `content: add numerical methods concepts`
 
 ### Phase 31 — Physics courses still uncovered

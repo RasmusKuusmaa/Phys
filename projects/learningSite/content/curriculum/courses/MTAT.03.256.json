@@ -25,7 +25,8 @@
   "topics": [],
   "conceptIds": [
     "algorithms-and-program-structure",
-    "control-flow"
+    "control-flow",
+    "data-structures-and-algorithms"
   ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"

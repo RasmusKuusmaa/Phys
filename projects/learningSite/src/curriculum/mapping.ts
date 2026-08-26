@@ -311,11 +311,14 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
   "MTAT.03.256": [
     "algorithms-and-program-structure",
     "control-flow",
+    "data-structures-and-algorithms",
   ],
   // Programmeerimine — the 6 EAP variant of the same material.
   "LTAT.03.001": [
     "algorithms-and-program-structure",
     "control-flow",
+    "data-structures-and-algorithms",
+    "numerical-methods-in-computing",
   ],
   // LTFY.01.014 Spektroskoopia — spectral variables, emission/absorption,
   // and the atomic energy levels the lines come from.
