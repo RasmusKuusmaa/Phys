@@ -1,0 +1,35 @@
+{
+  "id": "statistical-definition-of-entropy-formula",
+  "conceptId": "statistical-definition-of-entropy",
+  "latex": "S = k_B \\ln W",
+  "symbols": [
+    {
+      "symbol": "S",
+      "name": {
+        "en": "entropy",
+        "et": "entroopia",
+        "sourceHash": "67671a2f53dd910a",
+        "stale": false
+      },
+      "unit": "J/K"
+    },
+    {
+      "symbol": "W",
+      "name": {
+        "en": "multiplicity",
+        "et": "kordsus",
+        "sourceHash": "aa0a6fa59aad9034",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "S",
+    "W"
+  ],
+  "expressions": {
+    "S": "0.00000000000000000000001380649*ln(W)",
+    "W": "exp(S/0.00000000000000000000001380649)"
+  }
+}

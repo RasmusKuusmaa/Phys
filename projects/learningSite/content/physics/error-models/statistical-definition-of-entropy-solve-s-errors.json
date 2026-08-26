@@ -1,0 +1,28 @@
+{
+  "id": "statistical-definition-of-entropy-solve-s-errors",
+  "formulaId": "statistical-definition-of-entropy-formula",
+  "solveFor": "S",
+  "mistakes": [
+    {
+      "id": "log10-not-ln",
+      "description": {
+        "en": "Uses the base-10 logarithm instead of the natural logarithm",
+        "et": "Kasutab kümnendlogaritmi naturaallogaritmi asemel",
+        "sourceHash": "e440a6d02bdce21f",
+        "stale": false
+      },
+      "expression": "0.00000000000000000000001380649*log10(W)",
+      "misconceptionId": "statistical-definition-of-entropy-m1"
+    },
+    {
+      "id": "multiplies-w",
+      "description": {
+        "en": "Multiplies by the multiplicity directly instead of its logarithm",
+        "et": "Korrutab kordsusega otse, mitte selle logaritmiga",
+        "sourceHash": "5fcfe9654df63d17",
+        "stale": false
+      },
+      "expression": "0.00000000000000000000001380649*W"
+    }
+  ]
+}

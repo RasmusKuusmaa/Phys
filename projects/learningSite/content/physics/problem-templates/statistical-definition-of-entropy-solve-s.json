@@ -1,0 +1,21 @@
+{
+  "id": "statistical-definition-of-entropy-solve-s",
+  "formulaId": "statistical-definition-of-entropy-formula",
+  "variables": [
+    {
+      "symbol": "W",
+      "min": 1000000000,
+      "max": 1e+21,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "W",
+      "right": 1
+    }
+  ],
+  "solveFor": "S"
+}
