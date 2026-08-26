@@ -98,6 +98,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/orbitaal/1/est"
   },
   {
+    "id": "binding-energy",
+    "en": "binding energy",
+    "et": "seoseenergia",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/seoseenergia/1/est"
+  },
+  {
     "id": "boltzmann-distribution",
     "en": "Boltzmann distribution",
     "et": "Boltzmanni jaotus",
@@ -628,6 +635,20 @@
     "et": "impulss",
     "domain": "mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/impulss/1/est"
+  },
+  {
+    "id": "nuclear-fission",
+    "en": "nuclear fission",
+    "et": "tuumalõhustumine",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/tuumalõhustumine/1/est"
+  },
+  {
+    "id": "nuclear-fusion",
+    "en": "nuclear fusion",
+    "et": "tuumasüntees",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/tuumasüntees/1/est"
   },
   {
     "id": "oscillation",
