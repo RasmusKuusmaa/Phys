@@ -1,0 +1,56 @@
+{
+  "id": "metal-corrosion-and-the-electrochemical-series-item2",
+  "conceptId": "metal-corrosion-and-the-electrochemical-series",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Ships' steel hulls are often protected from corrosion by attaching blocks of zinc to the hull below the waterline. What is the electrochemical mechanism behind this protection?",
+    "et": "Laevade terasest korpuseid kaitstakse korrosiooni eest sageli tsingiplokkide kinnitamisega korpuse külge veepiirist allpool. Milline elektrokeemiline mehhanism on selle kaitse taga?",
+    "sourceHash": "0cc29776680066a4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Zinc, being more reactive than iron, is preferentially oxidised in place of the steel, sacrificing itself to protect the hull",
+        "et": "Tsink, olles reaktiivsem kui raud, oksüdeerub eelistatult terase asemel, ohverdades end korpuse kaitsmiseks",
+        "sourceHash": "cd0a60acd521d22b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Zinc physically coats the entire hull surface, forming a waterproof barrier with no electrochemical role",
+        "et": "Tsink katab füüsiliselt kogu korpuse pinna, moodustades veekindla barjääri ilma elektrokeemilise rollita",
+        "sourceHash": "46c8a4074d89d9ad",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "metal-corrosion-and-the-electrochemical-series-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Zinc reacts chemically with the water to remove all dissolved oxygen from the surrounding area",
+        "et": "Tsink reageerib keemiliselt veega, eemaldades kogu lahustunud hapniku ümbritsevast alast",
+        "sourceHash": "be5d61d84933f378",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "metal-corrosion-and-the-electrochemical-series-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Zinc has no actual effect on corrosion and is attached purely for its structural strength",
+        "et": "Tsingil pole korrosioonile tegelikku mõju ja see on kinnitatud puhtalt oma struktuurse tugevuse tõttu",
+        "sourceHash": "584163887796d3eb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "metal-corrosion-and-the-electrochemical-series-m1"
+    }
+  ]
+}

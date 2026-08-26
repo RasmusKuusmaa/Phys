@@ -1,0 +1,56 @@
+{
+  "id": "metal-corrosion-and-the-electrochemical-series-item1",
+  "conceptId": "metal-corrosion-and-the-electrochemical-series",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Iron and zinc are placed in electrical contact in a moist environment. According to the electrochemical series, zinc is more easily oxidised than iron. Which metal corrodes preferentially, and why?",
+    "et": "Raud ja tsink on niiskes keskkonnas elektrilises kontaktis. Elektrokeemilise pingerea järgi oksüdeerub tsink kergemini kui raud. Kumb metall korrodeerub eelistatult ja miks?",
+    "sourceHash": "38812c55a2c2b8ab",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Zinc corrodes preferentially, since it more readily loses electrons and is oxidised, protecting the iron in the process",
+        "et": "Tsink korrodeerub eelistatult, kuna see kaotab kergemini elektrone ja oksüdeerub, kaitstes selle käigus rauda",
+        "sourceHash": "50f5c4985c0c05f7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Iron corrodes preferentially, since it is the less reactive of the two metals",
+        "et": "Raud korrodeerub eelistatult, kuna see on kahest metallist vähem reaktiivne",
+        "sourceHash": "2f84acf2973984ff",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "metal-corrosion-and-the-electrochemical-series-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both metals corrode at exactly the same rate regardless of their position in the electrochemical series",
+        "et": "Mõlemad metallid korrodeeruvad täpselt sama kiirusega, sõltumata nende asukohast elektrokeemilises pingereas",
+        "sourceHash": "b6312e4df45625ad",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "metal-corrosion-and-the-electrochemical-series-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Neither metal corrodes, since electrical contact between two metals always prevents corrosion",
+        "et": "Kumbki metall ei korrodeeru, kuna kahe metalli elektriline kontakt takistab alati korrosiooni",
+        "sourceHash": "2884cab0f7210874",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "metal-corrosion-and-the-electrochemical-series-m1"
+    }
+  ]
+}
