@@ -154,6 +154,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/mahtuvus/1/est"
   },
   {
+    "id": "capillarity",
+    "en": "capillarity",
+    "et": "kapillaarsus",
+    "domain": "fluid-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kapillaarsus/1/est"
+  },
+  {
     "id": "conductivity",
     "en": "conductivity",
     "et": "erijuhtivus",
@@ -243,6 +250,13 @@
     "et": "dopeerimine",
     "domain": "modern-physics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/dopeerimine/1/est"
+  },
+  {
+    "id": "drag-force",
+    "en": "drag force",
+    "et": "takistusjõud",
+    "domain": "fluid-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/takistusjõud/1/est"
   },
   {
     "id": "eigenstate",
@@ -924,6 +938,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/seisumass/1/est"
   },
   {
+    "id": "reynolds-number",
+    "en": "Reynolds number",
+    "et": "Reynoldsi arv",
+    "domain": "fluid-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/Reynoldsi%20arv/1/est"
+  },
+  {
     "id": "rotational-kinetic-energy",
     "en": "rotational kinetic energy",
     "et": "pöörlemise kineetiline energia",
@@ -1022,11 +1043,25 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/ülijuhtivus/1/est"
   },
   {
+    "id": "surface-tension",
+    "en": "surface tension",
+    "et": "pindpinevus",
+    "domain": "fluid-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/pindpinevus/1/est"
+  },
+  {
     "id": "temperature",
     "en": "temperature",
     "et": "temperatuur",
     "domain": "thermodynamics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/temperatuur/1/est"
+  },
+  {
+    "id": "terminal-velocity",
+    "en": "terminal velocity",
+    "et": "lõppkiirus",
+    "domain": "fluid-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/lõppkiirus/1/est"
   },
   {
     "id": "thermal-conduction",
