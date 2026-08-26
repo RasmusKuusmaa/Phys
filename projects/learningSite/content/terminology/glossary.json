@@ -21,6 +21,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/adiabaatiline/1/est"
   },
   {
+    "id": "alpha-decay",
+    "en": "alpha decay",
+    "et": "alfalagunemine",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/alfalagunemine/1/est"
+  },
+  {
     "id": "alternating-current",
     "en": "alternating current",
     "et": "vahelduvvool",
@@ -96,6 +103,13 @@
     "et": "orbitaal",
     "domain": "quantum-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/orbitaal/1/est"
+  },
+  {
+    "id": "beta-decay",
+    "en": "beta decay",
+    "et": "beetalagunemine",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/beetalagunemine/1/est"
   },
   {
     "id": "binding-energy",
@@ -371,6 +385,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/h%C3%B5%C3%B5rdetegur/1/est"
   },
   {
+    "id": "gamma-decay",
+    "en": "gamma decay",
+    "et": "gammalagunemine",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/gammalagunemine/1/est"
+  },
+  {
     "id": "generalized-coordinates",
     "en": "generalized coordinates",
     "et": "üldistatud koordinaadid",
@@ -516,6 +537,13 @@
     "et": "laminaarne vool",
     "domain": "fluid-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/laminaarne/1/est"
+  },
+  {
+    "id": "laser",
+    "en": "laser",
+    "et": "laser",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/laser/1/est"
   },
   {
     "id": "length",
@@ -908,6 +936,13 @@
     "et": "jäikus",
     "domain": "waves",
     "source": "https://sonaveeb.ee/search/unif/est/eki/jäikus/1/est"
+  },
+  {
+    "id": "stimulated-emission",
+    "en": "stimulated emission",
+    "et": "stimuleeritud kiirgus",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/stimuleeritud%20kiirgus/1/est"
   },
   {
     "id": "temperature",
