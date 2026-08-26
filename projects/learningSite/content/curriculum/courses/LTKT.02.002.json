@@ -51,7 +51,10 @@
   "conceptIds": [
     "laws-of-thermodynamics",
     "chemical-equilibrium",
-    "reaction-kinetics"
+    "reaction-kinetics",
+    "reaction-rate-laws-and-order",
+    "phase-equilibria-and-the-clausius-clapeyron-equation",
+    "electrolyte-solutions-and-conductivity"
   ],
   "sourceFiles": [
     "ErialaMoodulid/chemistry1.md"

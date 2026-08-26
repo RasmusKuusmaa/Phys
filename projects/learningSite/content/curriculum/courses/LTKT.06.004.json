@@ -44,7 +44,9 @@
   "conceptIds": [
     "stoichiometry",
     "acids-bases-and-ph",
-    "redox-reactions"
+    "redox-reactions",
+    "uv-vis-spectroscopy-and-the-beer-lambert-law",
+    "the-nernst-equation-and-electrode-potentials"
   ],
   "sourceFiles": [
     "ErialaMoodulid/chemistry1.md"

@@ -1017,8 +1017,11 @@ courses have nothing.
       1 new concept (molecular orbital theory/hybridisation), mapped
       alongside existing bonding and quantum-mechanics concepts
   `content: add theoretical chemistry concepts`
-- [ ] Author the theory behind the chemistry practicals — `LOKT.01.010`,
+- [x] Author the theory behind the chemistry practicals — `LOKT.01.010`,
       `LOKT.06.012`, `LOKT.09.014`, `LOKT.10.018`, `LTKT.02.002`, `LTKT.06.004`
+      — enriched each with the newly authored directly-relevant concepts
+      rather than new authoring, since the practicals share theory with the
+      lecture courses above
   `content: add chemistry practical theory concepts`
 
 ### Phase 29 — Materials science as a subject

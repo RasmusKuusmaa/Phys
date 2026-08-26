@@ -40,7 +40,8 @@
   "conceptIds": [
     "stoichiometry",
     "acids-bases-and-ph",
-    "chemical-equilibrium"
+    "chemical-equilibrium",
+    "uv-vis-spectroscopy-and-the-beer-lambert-law"
   ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience2.md",

@@ -69,7 +69,10 @@
     "the-halogens",
     "transition-metals-and-coordination-compounds",
     "acids-bases-and-ph",
-    "redox-reactions"
+    "redox-reactions",
+    "hydrogen-and-electrolysis",
+    "oxides-and-oxoacids",
+    "metal-corrosion-and-the-electrochemical-series"
   ],
   "sourceFiles": [
     "ErialaMoodulid/chemistry1.md",

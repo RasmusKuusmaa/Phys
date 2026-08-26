@@ -379,6 +379,9 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "transition-metals-and-coordination-compounds",
     "acids-bases-and-ph",
     "redox-reactions",
+    "hydrogen-and-electrolysis",
+    "oxides-and-oxoacids",
+    "metal-corrosion-and-the-electrochemical-series",
   ],
   // LOKT.09.004 Orgaaniline keemia I — functional groups, mechanisms, aromaticity.
   "LOKT.09.004": [
@@ -396,6 +399,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "stoichiometry",
     "acids-bases-and-ph",
     "chemical-equilibrium",
+    "uv-vis-spectroscopy-and-the-beer-lambert-law",
   ],
   // LTKT.06.019 Analüütilise keemia põhikursus.
   "LTKT.06.019": [
@@ -456,22 +460,30 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "functional-groups",
     "nucleophilic-substitution",
     "aromaticity",
+    "reaction-mechanisms-and-bond-cleavage",
+    "carbonyl-chemistry-and-nucleophilic-addition",
   ],
   "LOKT.10.018": [
     "functional-groups",
     "aromaticity",
+    "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution",
   ],
   // LTKT.02.002 Füüsikalise keemia praktikum I — same thermodynamics theory.
   "LTKT.02.002": [
     "laws-of-thermodynamics",
     "chemical-equilibrium",
     "reaction-kinetics",
+    "reaction-rate-laws-and-order",
+    "phase-equilibria-and-the-clausius-clapeyron-equation",
+    "electrolyte-solutions-and-conductivity",
   ],
   // LTKT.06.004 Keemilise analüüsi praktikum — theory the analysis rests on.
   "LTKT.06.004": [
     "stoichiometry",
     "acids-bases-and-ph",
     "redox-reactions",
+    "uv-vis-spectroscopy-and-the-beer-lambert-law",
+    "the-nernst-equation-and-electrode-potentials",
   ],
   // LTFY.02.001 Aine struktuur ja omadused — the structure-property chain,
   // and physics/chemistry bonding concepts that structure draws on.

@@ -99,7 +99,9 @@
   "conceptIds": [
     "functional-groups",
     "nucleophilic-substitution",
-    "aromaticity"
+    "aromaticity",
+    "reaction-mechanisms-and-bond-cleavage",
+    "carbonyl-chemistry-and-nucleophilic-addition"
   ],
   "sourceFiles": [
     "ErialaMoodulid/chemistry1.md"
