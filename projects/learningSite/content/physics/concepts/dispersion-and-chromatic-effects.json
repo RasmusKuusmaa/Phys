@@ -1,0 +1,21 @@
+{
+  "id": "dispersion-and-chromatic-effects",
+  "subject": "physics",
+  "level": "L2",
+  "module": "optics",
+  "title": {
+    "en": "Dispersion and chromatic effects",
+    "et": "Dispersioon ja kromaatilised nähtused",
+    "sourceHash": "4ac1d6ed8ca90026",
+    "stale": false
+  },
+  "summary": {
+    "en": "A material's refractive index depends slightly on wavelength, so different colours of light bend by different amounts at an interface — the effect that spreads white light into a rainbow through a prism and is also what limits a simple lens's sharpness.",
+    "et": "Materjali murdumisnäitaja sõltub veidi lainepikkusest, mistõttu erinevad valguse värvid murduvad piiripinnal erineval määral — efekt, mis laotab valge valguse prisma kaudu vikerkaareks ja mis piirab ka lihtsa läätse teravust.",
+    "sourceHash": "5f1e64a7fb38fb85",
+    "stale": false
+  },
+  "prerequisites": [
+    "snells-law"
+  ]
+}

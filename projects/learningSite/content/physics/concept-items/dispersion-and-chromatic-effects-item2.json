@@ -1,0 +1,56 @@
+{
+  "id": "dispersion-and-chromatic-effects-item2",
+  "conceptId": "dispersion-and-chromatic-effects",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A simple glass lens is used to focus white light. Why does it produce a slightly blurred, colour-fringed image rather than a perfectly sharp one?",
+    "et": "Lihtsat klaasläätse kasutatakse valge valguse fokuseerimiseks. Miks tekitab see täiesti terava kujutise asemel veidi häguse ja värvipiiretega kujutise?",
+    "sourceHash": "203a7e06d284c0a1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Different wavelengths refract by slightly different amounts and so focus at slightly different points",
+        "et": "Erinevad lainepikkused murduvad veidi erineval määral ja fokuseeruvad seetõttu veidi eri punktides",
+        "sourceHash": "e181bc88b1d2fd78",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The lens material has an impurity that adds colour to the image",
+        "et": "Läätse materjalis on lisand, mis lisab kujutisele värvi",
+        "sourceHash": "0de1a8f6b94737a4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dispersion-and-chromatic-effects-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All wavelengths focus at exactly the same point, and the blur is unrelated to colour",
+        "et": "Kõik lainepikkused fokuseeruvad täpselt samasse punkti ja hägusus ei ole värviga seotud",
+        "sourceHash": "3463800b6c194f5d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dispersion-and-chromatic-effects-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Dispersion applies only to prisms, so lenses should be unaffected by it",
+        "et": "Dispersioon kehtib ainult prismade kohta, seega läätsed ei tohiks selle mõju all olla",
+        "sourceHash": "04fb2aa4340c62f5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dispersion-and-chromatic-effects-m1"
+    }
+  ]
+}

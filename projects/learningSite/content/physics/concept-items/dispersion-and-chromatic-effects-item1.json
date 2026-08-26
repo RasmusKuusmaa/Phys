@@ -1,0 +1,56 @@
+{
+  "id": "dispersion-and-chromatic-effects-item1",
+  "conceptId": "dispersion-and-chromatic-effects",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A prism spreads white light into a rainbow of colours. Where did the different colours come from?",
+    "et": "Prisma laotab valge valguse värvide vikerkaareks. Kust erinevad värvid pärinevad?",
+    "sourceHash": "b40aec234f25d503",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They were already present in the white light; the prism separates them because each bends by a slightly different amount",
+        "et": "Need olid valges valguses juba olemas; prisma eraldab need, sest kumbki murdub veidi erineval määral",
+        "sourceHash": "2e95a7dd291d381b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The prism generates new colours by adding energy to the light passing through it",
+        "et": "Prisma tekitab uusi värve, lisades läbivale valgusele energiat",
+        "sourceHash": "482e6cff3e95f84c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dispersion-and-chromatic-effects-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The colours appear because every wavelength bends by exactly the same amount",
+        "et": "Värvid ilmuvad, sest iga lainepikkus murdub täpselt sama palju",
+        "sourceHash": "3529d36e8ec3f54d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dispersion-and-chromatic-effects-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The prism's own material colour is transferred onto the light",
+        "et": "Prisma enda materjali värv kandub valgusele üle",
+        "sourceHash": "966438c5d59c0e2b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dispersion-and-chromatic-effects-m1"
+    }
+  ]
+}
