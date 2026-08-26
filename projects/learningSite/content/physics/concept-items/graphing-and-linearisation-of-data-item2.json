@@ -1,0 +1,56 @@
+{
+  "id": "graphing-and-linearisation-of-data-item2",
+  "conceptId": "graphing-and-linearisation-of-data",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the main practical advantage of linearising experimental data before plotting it, rather than plotting the raw curved relationship directly?",
+    "et": "Milles seisneb peamine praktiline eelis katseandmete lineariseerimisel enne joonestamist, selle asemel et joonestada toores kõverjooneline seos otse?",
+    "sourceHash": "5c188f6f943fc3cd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Deviations from the expected trend, systematic errors, and fit parameters like slope and intercept are much easier to judge by eye on a straight line than on a curve",
+        "et": "Kõrvalekaldeid oodatud trendist, süstemaatilisi vigu ja sobitusparameetreid nagu tõus ja lõikepunkt on silmaga palju kergem hinnata sirgel kui kõveral",
+        "sourceHash": "b2a951e55ea3b886",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Linearising the data changes the actual physical relationship to make it more favourable",
+        "et": "Andmete lineariseerimine muudab tegelikku füüsikalist seost soodsamaks",
+        "sourceHash": "ec2e7d298c9b0abc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "graphing-and-linearisation-of-data-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It eliminates the need to consider measurement uncertainty entirely",
+        "et": "See kõrvaldab täielikult vajaduse mõõtemääramatust arvestada",
+        "sourceHash": "338f176e25f10586",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "graphing-and-linearisation-of-data-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A linearised graph always has a smaller uncertainty than the equivalent curved graph",
+        "et": "Lineariseeritud graafikul on alati väiksem määramatus kui samaväärsel kõverjoonelisel graafikul",
+        "sourceHash": "fdd4300be177440c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "graphing-and-linearisation-of-data-m1"
+    }
+  ]
+}

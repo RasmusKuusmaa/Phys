@@ -1,0 +1,34 @@
+Raw experimental data plotted exactly as a physical law predicts often comes
+out as a curve rather than a straight line — inverse-square laws, quadratic
+relationships, and exponential decays are all common in physics and none of
+them produce straight lines when plotted directly. Curves are harder to work
+with than straight lines for a very practical reason: the human eye is
+excellent at judging whether points lie on a straight line and at spotting
+outliers or systematic curvature in the scatter, but far worse at judging
+these things against a curved reference. Fitting parameters are also easier
+to extract from a line — a slope and an intercept — than from the several
+parameters that typically define a curve.
+
+Linearisation exploits this by re-plotting a transformed combination of the
+measured variables, chosen specifically so that the underlying physical law
+predicts a straight line in the new coordinates. If theory predicts
+y = kx², plotting y against x² (rather than against x) produces a straight
+line through the origin with slope k — the transformation does not change
+the underlying physics at all, it only changes which combination of
+variables is placed on each axis. If theory predicts exponential decay,
+y = A·e^(−λx), plotting the natural logarithm of y against x produces a
+straight line with slope −λ and intercept ln(A), since taking the logarithm
+of both sides gives ln(y) = ln(A) − λx, an equation linear in x. Power-law
+relationships y = Ax^n are similarly linearised by plotting log(y) against
+log(x), which gives a line of slope n and intercept log(A).
+
+The choice of which transformation to apply is not arbitrary; it must follow
+directly from the specific functional form the underlying physics predicts.
+Applying an unjustified transformation can force almost any data into
+looking roughly linear, which defeats the entire purpose — linearisation is
+a tool for testing and extracting parameters from a specific predicted
+relationship, not for making arbitrary data look tidy. Once genuinely
+linearised, a straight-line fit (see least-squares fitting) gives both the
+best-fit values of the physical parameters and a clear visual and
+statistical check of whether the data actually supports the assumed
+relationship in the first place.

@@ -1,0 +1,34 @@
+Toored katseandmed, mis on joonestatud täpselt nii, nagu füüsikaseadus
+ennustab, tulevad sageli kõverana, mitte sirgjoonena — pöördruutseadused,
+ruutsõltuvused ja eksponentsiaalne kahanemine on kõik füüsikas tavalised
+ega tekita otse joonestatuna ükski neist sirgjoont. Kõveratega on raskem
+töötada kui sirgjoontega väga praktilisel põhjusel: inimsilm on
+suurepärane hindamaks, kas punktid asuvad sirgjoonel, ja märkamaks
+kõrvalekaldeid või süstemaatilist kõverust hajumisel, kuid palju halvem
+neid asju kõverjoonelise võrdlusaluse suhtes hindama. Sobitusparameetreid on
+samuti kergem sirgest välja võtta — tõusu ja lõikepunkti — kui mitmest
+parameetrist, mis tavaliselt kõverat defineerivad.
+
+Lineariseerimine kasutab seda ära, joonestades ümber mõõdetud muutujate
+teisendatud kombinatsiooni, valitud spetsiaalselt nii, et aluseks olev
+füüsikaseadus ennustaks uutes koordinaatides sirgjoont. Kui teooria ennustab
+y = kx², annab y joonestamine x² suhtes (mitte x suhtes) sirge, mis läbib
+alguspunkti tõusuga k — teisendus ei muuda üldse aluseks olevat füüsikat,
+see muudab ainult seda, milline muutujate kombinatsioon igale teljele
+paigutatakse. Kui teooria ennustab eksponentsiaalset kahanemist, y = A·e^(−λx),
+annab y naturaallogaritmi joonestamine x suhtes sirge tõusuga −λ ja
+lõikepunktiga ln(A), kuna mõlema poole logaritmi võtmine annab
+ln(y) = ln(A) − λx, x-i suhtes lineaarse võrrandi. Astmeseosed y = Ax^n
+lineariseeritakse sarnaselt, joonestades log(y) log(x) suhtes, mis annab
+sirge tõusuga n ja lõikepunktiga log(A).
+
+Rakendatava teisenduse valik ei ole meelevaldne; see peab tulenema otse
+konkreetsest funktsionaalsest kujust, mida aluseks olev füüsika ennustab.
+Põhjendamata teisenduse rakendamine võib sundida peaaegu iga andmestiku
+näima ligikaudu lineaarne, mis nurjab kogu eesmärgi — lineariseerimine on
+tööriist konkreetse ennustatud seose testimiseks ja sellest parameetrite
+väljavõtmiseks, mitte suvaliste andmete korrastatuna näitamiseks. Kord
+tõeliselt lineariseerituna annab sirgjoone sobitus (vaata vähimruutude
+sobitust) nii füüsikaliste parameetrite parimad sobivad väärtused kui ka
+selge visuaalse ja statistilise kontrolli selle üle, kas andmed tegelikult
+toetavad eeldatud seost üldse.

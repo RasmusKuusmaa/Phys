@@ -1,0 +1,56 @@
+{
+  "id": "graphing-and-linearisation-of-data-item1",
+  "conceptId": "graphing-and-linearisation-of-data",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A physical law predicts that a quantity y depends on x according to y = kx², where k is an unknown constant to be measured. What should be plotted against what to produce a straight-line graph?",
+    "et": "Füüsikaseadus ennustab, et suurus y sõltub x-ist vastavalt y = kx², kus k on tundmatu mõõdetav konstant. Mida tuleks mille suhtes joonestada, et saada sirgjooneline graafik?",
+    "sourceHash": "d4f89cd1056a6f3b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "y plotted against x squared, giving a straight line through the origin with slope k",
+        "et": "y joonestatuna x ruudu suhtes, andes läbi alguspunkti kulgeva sirge tõusuga k",
+        "sourceHash": "11606430e595f746",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "y plotted directly against x, which already gives a straight line for this relationship",
+        "et": "y joonestatuna otse x suhtes, mis annab selle seose jaoks juba sirge",
+        "sourceHash": "890508f29ada36f8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "graphing-and-linearisation-of-data-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The square root of y plotted against the square root of x",
+        "et": "y ruutjuur joonestatuna x ruutjuure suhtes",
+        "sourceHash": "6e3500fec832babd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "graphing-and-linearisation-of-data-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "There is no way to linearise this relationship; it must always be plotted as a curve",
+        "et": "Seda seost pole võimalik lineariseerida; seda tuleb alati joonestada kõverana",
+        "sourceHash": "00c80bf97b2034f8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "graphing-and-linearisation-of-data-m1"
+    }
+  ]
+}

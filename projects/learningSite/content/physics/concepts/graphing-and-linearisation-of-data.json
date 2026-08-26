@@ -1,0 +1,21 @@
+{
+  "id": "graphing-and-linearisation-of-data",
+  "subject": "physics",
+  "level": "L2",
+  "module": "measurement",
+  "title": {
+    "en": "Graphing and linearisation of data",
+    "et": "Andmete graafikuline esitus ja lineariseerimine",
+    "sourceHash": "a500e2329bc67517",
+    "stale": false
+  },
+  "summary": {
+    "en": "Plotting experimental data as a straight line rather than a curve makes deviations, systematic errors, and the fit parameters themselves far easier to read by eye, so a nonlinear relationship is routinely linearised — by re-plotting a transformed combination of the variables, such as log(y) against x or y against x squared — chosen so the underlying physical law predicts a straight line.",
+    "et": "Katseandmete graafikul kõvera asemel sirgjoonena kujutamine muudab kõrvalekalded, süstemaatilised vead ja sobitusparameetrid ise silmaga palju kergemini loetavaks, seega lineariseeritakse mittelineaarne seos rutiinselt — joonestades ümber muutujate teisendatud kombinatsiooni, näiteks log(y) x suhtes või y x ruudu suhtes —, valitud nii, et aluseks olev füüsikaseadus ennustaks sirgjoont.",
+    "sourceHash": "9b5130fe96765805",
+    "stale": false
+  },
+  "prerequisites": [
+    "uncertainty-and-error"
+  ]
+}
