@@ -1,0 +1,21 @@
+{
+  "id": "amorphous-solids-and-liquid-crystals",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Amorphous solids and liquid crystals",
+    "et": "Amorfsed tahked ained ja vedelkristallid",
+    "sourceHash": "42456525ab53e4a7",
+    "stale": false
+  },
+  "summary": {
+    "en": "Not every solid is crystalline: an amorphous solid such as glass is cooled fast enough that its atoms freeze into a disordered, liquid-like arrangement without ever settling into a periodic lattice, while a liquid crystal occupies the opposite middle ground, retaining a liquid's ability to flow while still holding a partial, direction-dependent molecular order that ordinary liquids lack.",
+    "et": "Mitte iga tahke aine ei ole kristalliline: amorfne tahke aine nagu klaas jahutatakse piisavalt kiiresti, et selle aatomid külmuvad korrastamata, vedelikutaolisse paigutusse, ilma et need kunagi asetuksid perioodilisse võresse, samal ajal kui vedelkristall hõivab vastupidise vahepealse ala, säilitades vedeliku voolamisvõime, hoides samas osalist, suunast sõltuvat molekulaarset korrastatust, mis tavalistel vedelikel puudub.",
+    "sourceHash": "94641d0d06173235",
+    "stale": false
+  },
+  "prerequisites": [
+    "classes-of-materials"
+  ]
+}

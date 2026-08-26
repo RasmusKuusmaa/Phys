@@ -1,0 +1,56 @@
+{
+  "id": "amorphous-solids-and-liquid-crystals-item1",
+  "conceptId": "amorphous-solids-and-liquid-crystals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Ordinary window glass is often described as a 'supercooled liquid' or amorphous solid rather than a crystal, even though it is rigid at room temperature. What structural feature justifies this description?",
+    "et": "Tavalist aknaklaasi kirjeldatakse sageli 'ülejahutatud vedelikuna' või amorfse tahke ainena, mitte kristallina, kuigi see on toatemperatuuril jäik. Milline strukturaalne tunnus õigustab seda kirjeldust?",
+    "sourceHash": "23bb91c64e237c40",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its atoms lack the long-range periodic order that defines a true crystal, retaining instead a disordered, liquid-like arrangement frozen in place",
+        "et": "Selle aatomitel puudub pika ulatusega perioodiline korrastatus, mis määratleb tõelise kristalli, säilitades selle asemel korrastamata, vedelikutaolise paigutuse, mis on paigale külmunud",
+        "sourceHash": "958b0629ed554966",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Glass is actually a true crystal, and the 'amorphous' description is simply outdated terminology",
+        "et": "Klaas on tegelikult tõeline kristall ja 'amorfne' kirjeldus on lihtsalt aegunud terminoloogia",
+        "sourceHash": "30287ead4ac767d5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amorphous-solids-and-liquid-crystals-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Glass has no atoms at all, which is why it does not fit the definition of a crystal",
+        "et": "Klaasil puuduvad üldse aatomid, mis on põhjus, miks see ei sobi kristalli definitsiooniga",
+        "sourceHash": "573c1dc798b409e6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amorphous-solids-and-liquid-crystals-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Glass flows as fast as an ordinary liquid at room temperature, which is why it is not considered solid",
+        "et": "Klaas voolab toatemperatuuril sama kiiresti kui tavaline vedelik, mis on põhjus, miks seda ei peeta tahkeks",
+        "sourceHash": "f7973aca9f778f8f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amorphous-solids-and-liquid-crystals-m1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "amorphous-solids-and-liquid-crystals-item2",
+  "conceptId": "amorphous-solids-and-liquid-crystals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A liquid crystal display relies on molecules that can flow like a liquid yet still respond collectively to an applied electric field, unlike molecules in an ordinary liquid. What structural property of liquid crystals makes this possible?",
+    "et": "Vedelkristallekraan tugineb molekulidele, mis suudavad voolata nagu vedelik, kuid reageerivad ikkagi kollektiivselt rakendatud elektriväljale, erinevalt tavalise vedeliku molekulidest. Milline vedelkristallide strukturaalne omadus teeb selle võimalikuks?",
+    "sourceHash": "af409b71a30566b6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Liquid crystal molecules retain a partial, direction-dependent orientational order even while flowing, unlike the fully random orientation of molecules in an ordinary liquid",
+        "et": "Vedelkristalli molekulid säilitavad voolates ikka osalise, suunast sõltuva orientatsioonilise korrastatuse, erinevalt tavalise vedeliku molekulide täiesti juhuslikust orientatsioonist",
+        "sourceHash": "07c895f68e4e6e24",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Liquid crystals are actually identical to ordinary liquids, and the name is purely a marketing term",
+        "et": "Vedelkristallid on tegelikult identsed tavaliste vedelikega ja nimi on puhtalt turundustermin",
+        "sourceHash": "6f4f0f6b19b3184d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amorphous-solids-and-liquid-crystals-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Liquid crystal molecules are held in a perfectly rigid, immobile crystalline lattice at all times",
+        "et": "Vedelkristalli molekulid on igal ajal hoitud täiesti jäigas, liikumatus kristallvõres",
+        "sourceHash": "686dc01b32c2f18c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amorphous-solids-and-liquid-crystals-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The electric field response has nothing to do with molecular order and depends only on temperature",
+        "et": "Elektriväljale reageerimisel pole midagi pistmist molekulaarse korrastatusega ja see sõltub ainult temperatuurist",
+        "sourceHash": "c2c37f9aac93a486",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amorphous-solids-and-liquid-crystals-m1"
+    }
+  ]
+}
