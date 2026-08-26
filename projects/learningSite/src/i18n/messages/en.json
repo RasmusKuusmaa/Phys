@@ -7,6 +7,7 @@
   },
   "nav": {
     "roadmap": "Roadmap",
+    "curriculum": "Degree",
     "formulas": "Formulas",
     "glossary": "Glossary",
     "practice": "Practice",
@@ -58,5 +59,32 @@
   "workedSolution": {
     "substituting": "Substituting the values:",
     "result": "Result:"
+  },
+  "curriculum": {
+    "heading": "The degree",
+    "intro": "The University of Tartu BSc \"Füüsika, keemia ja materjaliteadus\" (Physics, Chemistry and Materials Science), mapped course by course onto what this site actually teaches. Pick a track to see its modules and courses, and which ones this site covers.",
+    "trackLabel": "Track",
+    "track": {
+      "physics": "Physics",
+      "chemistry": "Chemistry",
+      "materials-science": "Materials science"
+    },
+    "statusLabel": {
+      "mandatory-all": "Required (all tracks)",
+      "mandatory": "Required",
+      "elective": "Elective",
+      "minor-only": "Minor only",
+      "not-in-track": "Not in this track"
+    },
+    "eapUnit": "EAP",
+    "covered": "Covered",
+    "notCovered": "Not covered yet",
+    "practicalNote": "Theory covered — bench work needs a real lab",
+    "mappedConceptsLabel": "Mapped concepts",
+    "viewConcepts": "View the concepts",
+    "noSyllabus": "No syllabus text was captured for this course in the source scrape.",
+    "summaryHeading": "Required course-slots covered",
+    "conceptMembershipHeading": "Part of these UT courses",
+    "conceptMembershipNote": "This concept is mapped as covering part of the following course(s) in the University of Tartu curriculum."
   }
 }

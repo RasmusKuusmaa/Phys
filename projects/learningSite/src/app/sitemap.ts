@@ -14,7 +14,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const siteUrl = getSiteUrl();
   const concepts = loadAllConcepts();
 
-  const staticPaths = ["", "/roadmap", "/formulas", "/glossary", "/practice", "/progress"];
+  const staticPaths = [
+    "",
+    "/roadmap",
+    "/curriculum",
+    "/formulas",
+    "/glossary",
+    "/practice",
+    "/progress",
+  ];
   const conceptPaths = concepts.map((concept) => `/concepts/${concept.id}`);
   const paths = [...staticPaths, ...conceptPaths];
 

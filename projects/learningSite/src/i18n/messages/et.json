@@ -7,6 +7,7 @@
   },
   "nav": {
     "roadmap": "Õpitee",
+    "curriculum": "Õppekava",
     "formulas": "Valemid",
     "glossary": "Sõnastik",
     "practice": "Harjutused",
@@ -58,5 +59,32 @@
   "workedSolution": {
     "substituting": "Väärtuste asendamine:",
     "result": "Tulemus:"
+  },
+  "curriculum": {
+    "heading": "Õppekava",
+    "intro": "Tartu Ülikooli bakalaureuseõppekava \"Füüsika, keemia ja materjaliteadus\", kaardistatud aine haaval selle vastu, mida see leht tegelikult õpetab. Vali suund, et näha selle mooduleid ja aineid ning millised neist on siin kaetud.",
+    "trackLabel": "Suund",
+    "track": {
+      "physics": "Füüsika",
+      "chemistry": "Keemia",
+      "materials-science": "Materjaliteadus"
+    },
+    "statusLabel": {
+      "mandatory-all": "Kohustuslik (kõik suunad)",
+      "mandatory": "Kohustuslik",
+      "elective": "Valikaine",
+      "minor-only": "Ainult kõrvalaine",
+      "not-in-track": "Ei kuulu sellesse suunda"
+    },
+    "eapUnit": "EAP",
+    "covered": "Kaetud",
+    "notCovered": "Veel katmata",
+    "practicalNote": "Teooria kaetud — praktiline töö vajab päris laborit",
+    "mappedConceptsLabel": "Kaardistatud mõisted",
+    "viewConcepts": "Vaata mõisteid",
+    "noSyllabus": "Selle aine õppekava teksti algallikast ei leitud.",
+    "summaryHeading": "Kohustuslikest ainekohtadest kaetud",
+    "conceptMembershipHeading": "Kuulub nende TÜ ainete hulka",
+    "conceptMembershipNote": "See mõiste on kaardistatud järgmis(t)e Tartu Ülikooli õppekava aine(te) osaliseks kattmiseks."
   }
 }

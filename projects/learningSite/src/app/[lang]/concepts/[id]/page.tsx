@@ -3,6 +3,7 @@ import { lang } from "next/root-params";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { isLocale, locales } from "@/i18n/locales";
+import { getDictionary } from "@/i18n/dictionaries";
 import type { Concept } from "@/schema";
 import { loadAllConcepts, loadConcepts } from "@/content/concepts";
 import { loadExplanation } from "@/content/explanations";
@@ -12,6 +13,7 @@ import { loadResources } from "@/content/resources";
 import { computeUnlocks } from "@/lib/roadmap/reversePrerequisites";
 import { topologicalSort } from "@/lib/roadmap/topologicalSort";
 import { groupResourcesByType, RESOURCE_TYPE_LABELS } from "@/lib/resources/groupResources";
+import { loadCourses, coursesForConcept } from "@/curriculum/loader";
 import { LevelBadge } from "@/components/LevelBadge";
 import { FormulaDisplay } from "@/components/FormulaDisplay";
 import { ConceptLinkList } from "@/components/ConceptCard";
@@ -49,11 +51,14 @@ export default async function ConceptPage({
 }) {
   const locale = await lang();
   if (!locale || !isLocale(locale)) notFound();
+  const dict = await getDictionary();
 
   const { id } = await params;
   const concepts = loadAllConcepts();
   const concept = concepts.find((c) => c.id === id);
   if (!concept) notFound();
+
+  const courses = coursesForConcept(concept.id, loadCourses());
 
   const conceptById = new Map(concepts.map((c) => [c.id, c]));
   const prerequisites = concept.prerequisites
@@ -171,6 +176,32 @@ export default async function ConceptPage({
               </div>
             ))}
           </div>
+        </section>
+      )}
+
+      {courses.length > 0 && (
+        <section className="mt-10">
+          <h2 className="text-xl font-semibold">{dict.curriculum.conceptMembershipHeading}</h2>
+          <p className="mt-2 text-sm text-muted">{dict.curriculum.conceptMembershipNote}</p>
+          <ul className="mt-3 space-y-1 text-sm">
+            {courses.map((course) => {
+              const track =
+                (Object.entries(course.status).find(([, s]) => s !== "not-in-track")?.[0] as
+                  | keyof typeof course.status
+                  | undefined) ?? "physics";
+              return (
+                <li key={course.code}>
+                  <Link
+                    href={`/${locale}/curriculum?track=${track}#${course.code}`}
+                    className="underline"
+                  >
+                    {course.name[locale]}
+                  </Link>
+                  <span className="ml-2 text-xs text-muted">{course.code}</span>
+                </li>
+              );
+            })}
+          </ul>
         </section>
       )}
 
