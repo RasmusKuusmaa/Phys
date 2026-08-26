@@ -96,10 +96,13 @@ Phase 11b  →  Phases 15–23  →  Phase 24  →  Phases 25–34
  concepts)      completeness)                  science, computing)
 ```
 
-Phase 11b is done. Phases 25–34 are scoped against the real University of Tartu
-curriculum, parsed into `content/curriculum/` — `npm run curriculum:coverage`
-is the live answer to "how much of each degree can be learned here". Phase 14
-is superseded by Phases 27–29 and kept only for the record.
+Phase 11b is done. Phases 15–23 are done (158 physics concepts). Phase 24's
+automated enforcement items are done; its two manual proofread items and the
+Lighthouse pass remain open. Phases 25–34 are scoped against the real
+University of Tartu curriculum, parsed into `content/curriculum/` — `npm run
+curriculum:coverage` is the live answer to "how much of each degree can be
+learned here". Phase 14 is superseded by Phases 27–29 and kept only for the
+record.
 
 ## How to resume this on another machine
 
@@ -817,19 +820,28 @@ door on the failure mode that started all of this.
   `content: clear all content coverage waivers`
 - [x] Promote missing explanations from warning to error now that all exist
   `feat: require explanations in both locales`
-- [ ] Add `npm run content:coverage -- --incomplete` to CI as a blocking step
+- [x] Add `npm run content:coverage -- --incomplete` to CI as a blocking step
   `ci: gate on content coverage`
-- [ ] Re-run `npm run content:hash` and clear every stale translation flag
+- [x] Re-run `npm run content:hash` and clear every stale translation flag
   `content: resync translation hashes`
-- [ ] Full glossary audit — every formula symbol name has a cited entry
+- [x] Full glossary audit — every formula symbol name has a cited entry
+  (0 unmatched symbol names found; already enforced by `lint:terminology`'s
+  `collectSymbolNames` check)
   `content: audit glossary coverage`
-- [ ] Re-audit the prerequisite DAG across all modules for orphans and depth
+- [x] Re-audit the prerequisite DAG across all modules for orphans and depth
+  (0 isolated concepts, 0 dangling refs across all 5 subjects; max depth
+  physics 15, mathematics 7, chemistry 5, materials-science 2, computing 2)
   `content: audit full physics prerequisite graph`
-- [ ] Read every new concept page end to end in Estonian
+- [ ] Read every new concept page end to end in Estonian — not done: full
+      manual read of 200+ concept pages is out of scope for this pass;
+      automated gates (validate:content, lint:terminology, homoglyph check)
+      cover structural/terminology correctness but not prose quality
   `content: estonian proofread of bachelor completion`
-- [ ] Read every new concept page end to end in English
+- [ ] Read every new concept page end to end in English — same caveat as above
   `content: english proofread of bachelor completion`
-- [ ] Run `npm run check:links` and replace anything that no longer resolves
+- [x] Run `npm run check:links` and replace anything that no longer resolves
+  (all 643 resource URLs resolved OK; the HTTP 429s seen mid-run were
+  Wikipedia rate-limiting on retries, not final failures)
   `content: refresh dead resource links`
 - [ ] Lighthouse pass on the grown site (roadmap and search now much larger)
   `perf: address lighthouse findings after content growth`
@@ -882,8 +894,9 @@ least one concept maps to it — the bar that makes "0 concepts" visible as a
 gap. Many required courses are covered by 2-3 concepts against syllabi that list
 15-30 topics (see any course's `topics` count in `content/curriculum/courses/`).
 Reaching genuine depth — enough concepts that a learner could sit each course's
-real exam — is Phases 15-23 for physics (still open) and the remaining work in
-Phases 27-29 for the other three subjects. `npm run curriculum:coverage`
+real exam — was Phases 15-23 for physics (now complete: 158 physics concepts)
+and is the remaining work in Phases 27-29 for the other three subjects.
+`npm run curriculum:coverage`
 reports course-slot coverage; it does not yet report depth, and that gap between
 "covered" and "complete" is the honest next target.
 
