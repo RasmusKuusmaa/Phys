@@ -1,0 +1,10 @@
+{
+  "id": "lorentz-transformations-m1",
+  "conceptId": "lorentz-transformations",
+  "text": {
+    "en": "The Lorentz transformations are only needed at speeds very close to the speed of light and give completely wrong answers at low speeds.",
+    "et": "Lorentzi teisendusi on vaja ainult valguse kiirusele väga lähedastel kiirustel ja need annavad madalatel kiirustel täiesti vale vastuse.",
+    "sourceHash": "f11206865467d5f6",
+    "stale": false
+  }
+}

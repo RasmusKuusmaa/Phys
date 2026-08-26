@@ -1,0 +1,56 @@
+{
+  "id": "lorentz-transformations-item1",
+  "conceptId": "lorentz-transformations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What do the Lorentz transformations replace, and why was that replacement necessary?",
+    "et": "Mida Lorentzi teisendused asendavad ja miks oli see asendamine vajalik?",
+    "sourceHash": "33bb734dc8e10649",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They replace the Galilean transformations, which fail to keep the speed of light constant for all inertial observers",
+        "et": "Need asendavad Galilei teisendused, mis ei suuda hoida valguse kiirust konstantsena kõigi inertsiaalsete vaatlejate jaoks",
+        "sourceHash": "dd88a7ae50a6e82f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They replace Newton's laws of motion, which are entirely invalid in any inertial reference frame",
+        "et": "Need asendavad Newtoni liikumisseadused, mis on igas inertsiaalses taustsüsteemis täielikult kehtetud",
+        "sourceHash": "89b210cf162a5c30",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-transformations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They replace the conservation of energy, which does not hold once relativistic effects are included",
+        "et": "Need asendavad energia jäävuse, mis ei kehti enam, kui arvestada relativistlikke efekte",
+        "sourceHash": "d3e44d8891722ff6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-transformations-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They replace the concept of an inertial reference frame itself, which special relativity discards entirely",
+        "et": "Need asendavad inertsiaalse taustsüsteemi mõiste ennast, mille erirelatiivsusteooria täielikult kõrvale heidab",
+        "sourceHash": "0e3f91c9f9c74dba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-transformations-m1"
+    }
+  ]
+}

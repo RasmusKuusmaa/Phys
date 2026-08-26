@@ -1,0 +1,56 @@
+{
+  "id": "lorentz-transformations-item2",
+  "conceptId": "lorentz-transformations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What happens to the Lorentz transformations when the relative speed between two frames is very small compared to the speed of light?",
+    "et": "Mis juhtub Lorentzi teisendustega, kui kahe taustsüsteemi suhteline kiirus on valguse kiirusega võrreldes väga väike?",
+    "sourceHash": "a42812512d2ce99e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They reduce to the familiar Galilean transformations of classical mechanics",
+        "et": "Need taanduvad klassikalise mehaanika tuttavateks Galilei teisendusteks",
+        "sourceHash": "6f27b022456d592b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They become undefined and cannot be applied at low relative speeds",
+        "et": "Need muutuvad määramatuks ja neid ei saa madalatel suhtelistel kiirustel rakendada",
+        "sourceHash": "7a847e3db334886e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-transformations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They predict effects that grow even larger than they are at speeds close to light speed",
+        "et": "Need ennustavad efekte, mis kasvavad valguse kiirusele lähedastest kiirustest veelgi suuremaks",
+        "sourceHash": "5f10d2ba47d35816",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-transformations-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They remain exactly as significant regardless of how small the relative speed is",
+        "et": "Need jäävad täpselt sama olulisteks, sõltumata sellest, kui väike on suhteline kiirus",
+        "sourceHash": "3a32aca168b46716",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "lorentz-transformations-m1"
+    }
+  ]
+}

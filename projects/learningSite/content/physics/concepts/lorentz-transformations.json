@@ -1,0 +1,22 @@
+{
+  "id": "lorentz-transformations",
+  "subject": "physics",
+  "level": "L3",
+  "module": "special-relativity",
+  "title": {
+    "en": "Lorentz transformations",
+    "et": "Lorentzi teisendused",
+    "sourceHash": "86766e8e76233ea5",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Lorentz transformations are the equations that convert an event's position and time coordinates between two inertial frames moving at constant relative velocity, replacing the Galilean transformations of classical mechanics and correctly encoding time dilation, length contraction, and the relativity of simultaneity all at once, while reducing to the familiar Galilean equations whenever the relative speed is much less than light speed.",
+    "et": "Lorentzi teisendused on võrrandid, mis teisendavad sündmuse asukoha- ja ajakoordinaadid kahe konstantse suhtelise kiirusega liikuva inertsiaalse taustsüsteemi vahel, asendades klassikalise mehaanika Galilei teisendused ning kodeerides õigesti korraga nii aja dilatatsiooni, pikkuse kontraktsiooni kui samaaegsuse relatiivsuse, taandudes tuttavateks Galilei võrranditeks alati, kui suhteline kiirus on palju väiksem valguse kiirusest.",
+    "sourceHash": "1e9e6dfba57f86fb",
+    "stale": false
+  },
+  "prerequisites": [
+    "time-dilation",
+    "length-contraction"
+  ]
+}

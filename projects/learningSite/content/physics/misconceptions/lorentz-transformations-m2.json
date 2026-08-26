@@ -1,0 +1,10 @@
+{
+  "id": "lorentz-transformations-m2",
+  "conceptId": "lorentz-transformations",
+  "text": {
+    "en": "The Lorentz transformations describe how objects physically deform, rather than how coordinates transform between reference frames.",
+    "et": "Lorentzi teisendused kirjeldavad, kuidas objektid füüsiliselt deformeeruvad, mitte seda, kuidas koordinaadid taustsüsteemide vahel teisenevad.",
+    "sourceHash": "693c6e474f59de99",
+    "stale": false
+  }
+}
