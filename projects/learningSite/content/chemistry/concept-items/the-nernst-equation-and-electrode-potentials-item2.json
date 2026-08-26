@@ -1,0 +1,56 @@
+{
+  "id": "the-nernst-equation-and-electrode-potentials-item2",
+  "conceptId": "the-nernst-equation-and-electrode-potentials",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "According to the Nernst equation, what does it mean when an electrochemical cell's potential has dropped to exactly zero?",
+    "et": "Mida tähendab Nernsti võrrandi järgi see, kui elektrokeemilise elemendi potentsiaal on langenud täpselt nullini?",
+    "sourceHash": "c0e048db97b620d0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The cell's overall redox reaction has reached chemical equilibrium, so there is no further net driving force for the reaction to proceed",
+        "et": "Elemendi üldine redoksreaktsioon on jõudnud keemilise tasakaaluni, seega ei ole reaktsiooni edasikulgemiseks enam netomõjuvat jõudu",
+        "sourceHash": "0739d50b8b965a3c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The cell has been physically destroyed and can no longer conduct any current",
+        "et": "Element on füüsiliselt hävinud ega suuda enam üldse voolu juhtida",
+        "sourceHash": "b147d68bc8076cd1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nernst-equation-and-electrode-potentials-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The temperature of the cell has dropped to absolute zero",
+        "et": "Elemendi temperatuur on langenud absoluutse nullpunktini",
+        "sourceHash": "8e3946afbac05af3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nernst-equation-and-electrode-potentials-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A zero potential is physically impossible and would indicate a measurement error",
+        "et": "Null potentsiaal on füüsikaliselt võimatu ja näitaks mõõteviga",
+        "sourceHash": "a3247d86deaa0882",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nernst-equation-and-electrode-potentials-m1"
+    }
+  ]
+}

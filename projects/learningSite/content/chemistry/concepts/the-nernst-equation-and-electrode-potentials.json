@@ -1,0 +1,22 @@
+{
+  "id": "the-nernst-equation-and-electrode-potentials",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "physical-chemistry",
+  "title": {
+    "en": "The Nernst equation and electrode potentials",
+    "et": "Nernsti võrrand ja elektroodipotentsiaalid",
+    "sourceHash": "0c1c7d3f5d617179",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Nernst equation relates an electrochemical cell's actual voltage to its standard potential and the concentrations (activities) of the species involved, showing that cell potential is not a fixed constant but shifts with concentration in a way that reaches zero exactly when the cell reaction reaches equilibrium.",
+    "et": "Nernsti võrrand seob elektrokeemilise elemendi tegeliku pinge tema standardpotentsiaali ja kaasatud osaliste kontsentratsioonidega (aktiivsustega), näidates, et elemendi potentsiaal ei ole fikseeritud konstant, vaid nihkub kontsentratsiooniga viisil, mis jõuab täpselt nullini siis, kui elemendi reaktsioon jõuab tasakaaluni.",
+    "sourceHash": "f05b2a715443e602",
+    "stale": false
+  },
+  "prerequisites": [
+    "redox-reactions",
+    "metal-corrosion-and-the-electrochemical-series"
+  ]
+}

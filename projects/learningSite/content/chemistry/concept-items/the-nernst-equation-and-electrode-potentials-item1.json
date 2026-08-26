@@ -1,0 +1,56 @@
+{
+  "id": "the-nernst-equation-and-electrode-potentials-item1",
+  "conceptId": "the-nernst-equation-and-electrode-potentials",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A battery's voltage is observed to drop gradually as it discharges, even though the same overall redox reaction is occurring throughout. What does the Nernst equation say is responsible for this gradual voltage drop?",
+    "et": "Aku pinge langeb vaadeldavalt järk-järgult tühjenedes, kuigi kogu aeg toimub sama üldine redoksreaktsioon. Mida Nernsti võrrand ütleb selle järkjärgulise pingelanguse põhjuse kohta?",
+    "sourceHash": "7e41120a27b729d5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "As reactants are consumed and products accumulate, the changing concentrations shift the cell's actual potential away from its standard value",
+        "et": "Kui lähteained kuluvad ja saadused kogunevad, nihutavad muutuvad kontsentratsioonid elemendi tegelikku potentsiaali tema standardväärtusest eemale",
+        "sourceHash": "7b22177ac8204f36",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The battery's standard potential itself decreases permanently as the battery ages",
+        "et": "Aku standardpotentsiaal ise väheneb püsivalt aku vananedes",
+        "sourceHash": "51923ac4395df014",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nernst-equation-and-electrode-potentials-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Voltage should remain exactly constant throughout discharge, and any observed drop indicates a manufacturing defect",
+        "et": "Pinge peaks jääma kogu tühjenemise vältel täpselt konstantseks ja iga vaadeldud langus näitab tootmisdefekti",
+        "sourceHash": "26fdeddfbc7e41b6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nernst-equation-and-electrode-potentials-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The voltage drop is caused entirely by temperature changes, unrelated to the concentrations of the reacting species",
+        "et": "Pingelangus on täielikult põhjustatud temperatuurimuutustest, mis pole seotud reageerivate osaliste kontsentratsioonidega",
+        "sourceHash": "c785bdcf14dc3bc3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nernst-equation-and-electrode-potentials-m1"
+    }
+  ]
+}
