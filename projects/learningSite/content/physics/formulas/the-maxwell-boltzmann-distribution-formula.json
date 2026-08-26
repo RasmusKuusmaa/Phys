@@ -7,7 +7,7 @@
       "symbol": "v",
       "name": {
         "en": "most probable speed",
-        "et": "kõige tõenäolisem kiirus",
+        "et": "tõenäoseim kiirus",
         "sourceHash": "e0f30077c12f3057",
         "stale": false
       },
@@ -26,9 +26,9 @@
     {
       "symbol": "m",
       "name": {
-        "en": "particle mass",
-        "et": "osakese mass",
-        "sourceHash": "e12fc1dc6b53a32e",
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
         "stale": false
       },
       "unit": "kg"

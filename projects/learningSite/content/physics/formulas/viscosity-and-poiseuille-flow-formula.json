@@ -6,9 +6,9 @@
     {
       "symbol": "Q",
       "name": {
-        "en": "volumetric flow rate",
-        "et": "ruumalakulu",
-        "sourceHash": "3041c359ea643bcb",
+        "en": "flow rate",
+        "et": "vooluhulk",
+        "sourceHash": "8c1791bf2947fbe2",
         "stale": false
       },
       "unit": "m^3/s"
@@ -16,9 +16,9 @@
     {
       "symbol": "r",
       "name": {
-        "en": "tube radius",
-        "et": "toru raadius",
-        "sourceHash": "1a9c85017c5fbe2c",
+        "en": "radius",
+        "et": "raadius",
+        "sourceHash": "981979a22bad8c7c",
         "stale": false
       },
       "unit": "m"
@@ -26,9 +26,9 @@
     {
       "symbol": "dP",
       "name": {
-        "en": "pressure difference",
-        "et": "rõhkude vahe",
-        "sourceHash": "ec221b0fb7814004",
+        "en": "pressure drop",
+        "et": "rõhulang",
+        "sourceHash": "8a988c2fddbcb916",
         "stale": false
       },
       "unit": "Pa"
@@ -36,9 +36,9 @@
     {
       "symbol": "eta",
       "name": {
-        "en": "dynamic viscosity",
-        "et": "dünaamiline viskoossus",
-        "sourceHash": "5397a1c44e024c7e",
+        "en": "viscosity",
+        "et": "viskoossus",
+        "sourceHash": "544d7eda1c3efb94",
         "stale": false
       },
       "unit": "Pa*s"
@@ -46,9 +46,9 @@
     {
       "symbol": "L",
       "name": {
-        "en": "tube length",
-        "et": "toru pikkus",
-        "sourceHash": "2a82f05697c28f10",
+        "en": "length",
+        "et": "pikkus",
+        "sourceHash": "0f82aca66af91493",
         "stale": false
       },
       "unit": "m"

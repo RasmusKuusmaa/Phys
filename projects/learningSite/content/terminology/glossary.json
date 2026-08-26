@@ -112,6 +112,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/keelutsoon/1/est"
   },
   {
+    "id": "barrier-width",
+    "en": "barrier width",
+    "et": "barjääri laius",
+    "domain": "quantum-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/barj%C3%A4%C3%A4ri%20laius/1/est"
+  },
+  {
     "id": "beta-decay",
     "en": "beta decay",
     "et": "beetalagunemine",
@@ -201,6 +208,13 @@
     "et": "kristallvõre",
     "domain": "modern-physics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/kristallvõre/1/est"
+  },
+  {
+    "id": "decay-constant",
+    "en": "decay constant",
+    "et": "kahanemiskonstant",
+    "domain": "quantum-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kahanemiskonstant/1/est"
   },
   {
     "id": "density",
@@ -749,6 +763,27 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/impulss/1/est"
   },
   {
+    "id": "momentum-uncertainty",
+    "en": "momentum uncertainty",
+    "et": "impulsi määramatus",
+    "domain": "quantum-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/impulsi%20m%C3%A4%C3%A4ramatus/1/est"
+  },
+  {
+    "id": "most-probable-speed",
+    "en": "most probable speed",
+    "et": "tõenäoseim kiirus",
+    "domain": "statistical-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/tõenäoseim%20kiirus/1/est"
+  },
+  {
+    "id": "multiplicity",
+    "en": "multiplicity",
+    "et": "kordsus",
+    "domain": "statistical-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kordsus/1/est"
+  },
+  {
     "id": "normal-distribution",
     "en": "normal distribution",
     "et": "normaaljaotus",
@@ -819,6 +854,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/polarisatsioon/1/est"
   },
   {
+    "id": "position-uncertainty",
+    "en": "position uncertainty",
+    "et": "asukoha määramatus",
+    "domain": "quantum-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/asukoha%20m%C3%A4%C3%A4ramatus/1/est"
+  },
+  {
     "id": "potential-energy",
     "en": "potential energy",
     "et": "potentsiaalne energia",
@@ -852,6 +894,13 @@
     "et": "rõhk",
     "domain": "mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/rõhk/1/est"
+  },
+  {
+    "id": "pressure-drop",
+    "en": "pressure drop",
+    "et": "rõhulang",
+    "domain": "fluid-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/rõhulang/1/est"
   },
   {
     "id": "probability-density",
@@ -908,6 +957,13 @@
     "et": "radioaktiivsus",
     "domain": "modern-physics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/radioaktiivsus/1/est"
+  },
+  {
+    "id": "radius",
+    "en": "radius",
+    "et": "raadius",
+    "domain": "fluid-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/raadius/1/est"
   },
   {
     "id": "reactance",
@@ -1153,6 +1209,13 @@
     "et": "jõumoment",
     "domain": "mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/jõumoment/1/est"
+  },
+  {
+    "id": "transmission-coefficient",
+    "en": "transmission coefficient",
+    "et": "läbilaskvustegur",
+    "domain": "quantum-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/l%C3%A4bilaskvustegur/1/est"
   },
   {
     "id": "turbulent-flow",
