@@ -385,6 +385,11 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "functional-groups",
     "nucleophilic-substitution",
     "aromaticity",
+    "reaction-mechanisms-and-bond-cleavage",
+    "addition-reactions-of-alkenes-and-alkynes",
+    "electrophilic-aromatic-substitution",
+    "carbonyl-chemistry-and-nucleophilic-addition",
+    "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution",
   ],
   // LOKT.06.012 Analüütilise keemia praktikum I — theory the titrations rest on.
   "LOKT.06.012": [

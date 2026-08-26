@@ -994,7 +994,10 @@ courses have nothing.
       concepts: halogens, transition metals, hydrogen/electrolysis,
       oxides/oxoacids, nitrogen group, carbon/silicon group, corrosion
   `content: add inorganic chemistry concepts`
-- [ ] Author organic chemistry I for `LOKT.09.004` (14 topics)
+- [x] Author organic chemistry I for `LOKT.09.004` (14 topics) — 8 concepts:
+      functional groups, nucleophilic substitution, aromaticity, mechanisms
+      and bond cleavage, alkene/alkyne addition, electrophilic aromatic
+      substitution, carbonyl chemistry, carboxylic acid derivatives
   `content: add organic chemistry concepts`
 - [ ] Author physical chemistry part 1 for `LOKT.02.037` (30 topics)
   `content: add physical chemistry part one concepts`

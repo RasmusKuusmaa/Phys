@@ -100,7 +100,12 @@
   "conceptIds": [
     "functional-groups",
     "nucleophilic-substitution",
-    "aromaticity"
+    "aromaticity",
+    "reaction-mechanisms-and-bond-cleavage",
+    "addition-reactions-of-alkenes-and-alkynes",
+    "electrophilic-aromatic-substitution",
+    "carbonyl-chemistry-and-nucleophilic-addition",
+    "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution"
   ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience1.md",
