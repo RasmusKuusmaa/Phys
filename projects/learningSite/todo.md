@@ -756,34 +756,34 @@ Module `special-relativity`. Depends on Phase 11b's relativity concepts.
 New modules `nuclear-physics`, `particle-physics` and `solid-state-physics`
 alongside the existing `modern-physics`.
 
-- [ ] Add terminology for nuclear, particle and solid-state physics
+- [x] Add terminology for nuclear, particle and solid-state physics
   `content: add nuclear and solid state terminology`
-- [ ] `compton-scattering` (L2, modern-physics) — prereq `photons-and-quanta`
+- [x] `compton-scattering` (L2, modern-physics) — prereq `photons-and-quanta`
   `content: add compton scattering concept`
-- [ ] `x-rays-and-their-production` (L2, modern-physics) — prereq `quantum-energy-levels`
+- [x] `x-rays-and-their-production` (L2, modern-physics) — prereq `quantum-energy-levels`
   `content: add x rays concept`
-- [ ] `nuclear-binding-energy` (L2, nuclear-physics) — prereq `atoms-and-the-nucleus`,
+- [x] `nuclear-binding-energy` (L2, nuclear-physics) — prereq `atoms-and-the-nucleus`,
       `relativistic-momentum-and-energy`
   `content: add nuclear binding energy concept`
-- [ ] `nuclear-fission-and-fusion` (L2, nuclear-physics) — prereq `nuclear-binding-energy`
+- [x] `nuclear-fission-and-fusion` (L2, nuclear-physics) — prereq `nuclear-binding-energy`
   `content: add fission and fusion concept`
-- [ ] `radioactive-decay-modes` (L2, nuclear-physics) — prereq `radioactivity-and-half-life`
+- [x] `radioactive-decay-modes` (L2, nuclear-physics) — prereq `radioactivity-and-half-life`
   `content: add radioactive decay modes concept`
-- [ ] `lasers-and-stimulated-emission` (L3, modern-physics) — prereq `quantum-energy-levels`
+- [x] `lasers-and-stimulated-emission` (L3, modern-physics) — prereq `quantum-energy-levels`
   `content: add lasers concept`
-- [ ] `crystal-structure-and-lattices` (L3, solid-state-physics) — prereq `phase-transitions`
+- [x] `crystal-structure-and-lattices` (L3, solid-state-physics) — prereq `phase-transitions`
   `content: add crystal structure concept`
-- [ ] `band-theory-of-solids` (L3, solid-state-physics) — prereq
+- [x] `band-theory-of-solids` (L3, solid-state-physics) — prereq
       `crystal-structure-and-lattices`, `quantum-energy-levels`
   `content: add band theory concept`
-- [ ] `semiconductors-and-doping` (L3, solid-state-physics) — prereq `band-theory-of-solids`
+- [x] `semiconductors-and-doping` (L3, solid-state-physics) — prereq `band-theory-of-solids`
   `content: add semiconductors concept`
-- [ ] `superconductivity` (L3, solid-state-physics) — prereq `band-theory-of-solids`
+- [x] `superconductivity` (L3, solid-state-physics) — prereq `band-theory-of-solids`
   `content: add superconductivity concept`
-- [ ] `the-standard-model-of-particle-physics` (L3, particle-physics) — prereq
+- [x] `the-standard-model-of-particle-physics` (L3, particle-physics) — prereq
       `nuclear-binding-energy`, `spin-and-angular-momentum-in-quantum-mechanics`
   `content: add standard model concept`
-- [ ] `conservation-laws-in-particle-interactions` (L3, particle-physics) — prereq
+- [x] `conservation-laws-in-particle-interactions` (L3, particle-physics) — prereq
       `the-standard-model-of-particle-physics`
   `content: add particle conservation laws concept`
 
