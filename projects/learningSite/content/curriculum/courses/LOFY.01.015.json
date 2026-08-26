@@ -99,7 +99,10 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "radioactive-decay-modes",
+    "radioactivity-and-half-life"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"
   ],

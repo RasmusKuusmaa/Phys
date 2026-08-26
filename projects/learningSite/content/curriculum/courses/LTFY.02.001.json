@@ -52,7 +52,8 @@
   "conceptIds": [
     "structure-property-relationships",
     "chemical-bonding",
-    "classes-of-materials"
+    "classes-of-materials",
+    "crystal-structure-and-lattices"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience1.md"

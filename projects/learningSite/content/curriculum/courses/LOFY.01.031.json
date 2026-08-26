@@ -19,7 +19,13 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "crystal-structure-and-lattices",
+    "band-theory-of-solids",
+    "semiconductors-and-doping",
+    "superconductivity",
+    "lasers-and-stimulated-emission"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

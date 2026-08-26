@@ -153,6 +153,26 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "radioactivity-and-half-life",
     "wave-particle-duality",
     "wavefunctions-and-probability",
+    "compton-scattering",
+    "x-rays-and-their-production",
+    "nuclear-binding-energy",
+    "nuclear-fission-and-fusion",
+    "radioactive-decay-modes",
+    "the-standard-model-of-particle-physics",
+    "conservation-laws-in-particle-interactions",
+  ],
+  // LOFY.01.015 Tuumafüüsika eksperimentaalmeetodid — ionizing radiation and decay.
+  "LOFY.01.015": [
+    "radioactive-decay-modes",
+    "radioactivity-and-half-life",
+  ],
+  // LOFY.01.031 Tahkiseelektroonika — crystal structure, bands, semiconductors.
+  "LOFY.01.031": [
+    "crystal-structure-and-lattices",
+    "band-theory-of-solids",
+    "semiconductors-and-doping",
+    "superconductivity",
+    "lasers-and-stimulated-emission",
   ],
   "LOFY.04.003": [
     "length-contraction",
@@ -413,6 +433,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "structure-property-relationships",
     "chemical-bonding",
     "classes-of-materials",
+    "crystal-structure-and-lattices",
   ],
   // LTFY.02.002 Materjaliklassid ja nende tehnoloogiad — the largest single course
   // in the degree (12 EAP); its lecture syllabus was not captured in the scrape,

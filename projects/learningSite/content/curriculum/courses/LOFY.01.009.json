@@ -178,7 +178,14 @@
     "quantum-energy-levels",
     "radioactivity-and-half-life",
     "wave-particle-duality",
-    "wavefunctions-and-probability"
+    "wavefunctions-and-probability",
+    "compton-scattering",
+    "x-rays-and-their-production",
+    "nuclear-binding-energy",
+    "nuclear-fission-and-fusion",
+    "radioactive-decay-modes",
+    "the-standard-model-of-particle-physics",
+    "conservation-laws-in-particle-interactions"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics1.md"
