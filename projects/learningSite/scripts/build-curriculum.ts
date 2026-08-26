@@ -1,5 +1,6 @@
 import { mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
-import { CONTENT_ROOT } from "@/content/loader";
+import { CONTENT_ROOT, listSubjects } from "@/content/loader";
+import { loadConcepts } from "@/content/concepts";
 import { COURSE_CONCEPTS } from "@/curriculum/mapping";
 import { COURSE_NAMES_EN, MODULE_NAMES_EN, UNCODED_COURSE_HEADERS } from "@/curriculum/translations";
 import type { Course, Module, Track } from "@/curriculum/types";
@@ -253,7 +254,36 @@ function statusFor(track: Track, modules: Module[]): Course["status"][Track] {
   return "minor-only";
 }
 
+/**
+ * `COURSE_CONCEPTS` is hand-authored and can drift from actual content — a
+ * concept gets renamed or deleted and a mapping entry silently starts
+ * pointing at nothing. Fail loudly instead of writing a course record with a
+ * dangling concept ID into `content/curriculum/`.
+ */
+function validateMappingConceptIds(): void {
+  const knownIds = new Set<string>();
+  for (const subject of listSubjects()) {
+    for (const concept of loadConcepts(subject)) knownIds.add(concept.id);
+  }
+
+  const missing: { code: string; conceptId: string }[] = [];
+  for (const [code, conceptIds] of Object.entries(COURSE_CONCEPTS)) {
+    for (const conceptId of conceptIds) {
+      if (!knownIds.has(conceptId)) missing.push({ code, conceptId });
+    }
+  }
+
+  if (missing.length > 0) {
+    console.error(`COURSE_CONCEPTS references ${missing.length} unknown concept ID(s):\n`);
+    for (const { code, conceptId } of missing) {
+      console.error(`  ${code}: "${conceptId}" does not exist in any subject`);
+    }
+    process.exit(1);
+  }
+}
+
 function main() {
+  validateMappingConceptIds();
   const parsed = parseCourseFiles();
   const modules = parseModules();
 

@@ -60,6 +60,25 @@ jobs:
             exit 1
           fi
 
+      - name: Curriculum mapping validation
+        # build-curriculum.ts validates every COURSE_CONCEPTS entry against
+        # real concept IDs and exits nonzero on a dangling reference.
+        run: npm run curriculum:build
+
+      - name: Degree coverage gate
+        # curriculum-coverage.ts always exits 0 by design (it's a report).
+        # This step fails CI if any required course-slot has lost its content
+        # — the degree-level equivalent of the content coverage gate above.
+        run: |
+          npm run curriculum:coverage | tee /tmp/curriculum-report.txt
+          line=$(grep "required course-slots have content" /tmp/curriculum-report.txt)
+          covered=$(echo "$line" | grep -oP '\d+(?=/)')
+          required=$(echo "$line" | grep -oP '(?<=/)\d+')
+          if [ "$covered" != "$required" ]; then
+            echo "::error::Only $covered/$required required course-slots covered — a required course lost its content."
+            exit 1
+          fi
+
       - name: Unit tests
         run: npm test -- --run
 
