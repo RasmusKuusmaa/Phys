@@ -1,0 +1,56 @@
+{
+  "id": "crystal-structure-and-lattices-item1",
+  "conceptId": "crystal-structure-and-lattices",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Not all solids share the same internal structure. What distinguishes a crystalline solid from an amorphous one such as glass?",
+    "et": "Kõigil tahketel ainetel ei ole sama sisemine struktuur. Mis eristab kristallilist tahket ainet amorfsest, näiteks klaasist?",
+    "sourceHash": "694df87041d6e0fd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A crystalline solid has atoms arranged in a repeating, long-range periodic pattern, while an amorphous solid lacks this long-range order",
+        "et": "Kristallilises tahkes aines on aatomid paigutatud korduvasse, pika ulatusega perioodilisse mustrisse, samal ajal kui amorfsel tahkel ainel puudub see pika ulatusega korrastatus",
+        "sourceHash": "e0a2101672754039",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A crystalline solid has no fixed internal structure at all, unlike an amorphous solid",
+        "et": "Kristallilisel tahkel ainel puudub üldse fikseeritud sisemine struktuur, erinevalt amorfsest tahkest ainest",
+        "sourceHash": "bd5dcb509981aa1b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "crystal-structure-and-lattices-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Amorphous solids always have a more regular atomic arrangement than crystalline solids",
+        "et": "Amorfsetel tahketel ainetel on alati korrapärasem aatomite paigutus kui kristallilistel tahketel ainetel",
+        "sourceHash": "4da0601936a6cde8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "crystal-structure-and-lattices-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "There is no real structural difference between crystalline and amorphous solids",
+        "et": "Kristalliliste ja amorfsete tahkete ainete vahel ei ole tegelikku strukturaalset erinevust",
+        "sourceHash": "712db93e87559ab8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "crystal-structure-and-lattices-m1"
+    }
+  ]
+}

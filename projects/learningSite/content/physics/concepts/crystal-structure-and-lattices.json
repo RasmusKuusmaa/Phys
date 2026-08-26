@@ -1,0 +1,21 @@
+{
+  "id": "crystal-structure-and-lattices",
+  "subject": "physics",
+  "level": "L3",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "Crystal structure and lattices",
+    "et": "Kristallstruktuur ja kristallvõred",
+    "sourceHash": "fd05182a8f1ddd97",
+    "stale": false
+  },
+  "summary": {
+    "en": "A crystalline solid's atoms are arranged in a repeating, periodic pattern described by a lattice — a mathematical scaffold of points related by translation symmetry — combined with a basis of one or more atoms attached to each lattice point, and this underlying periodicity is what makes concepts like energy bands and Bragg diffraction well defined.",
+    "et": "Kristallilise tahke aine aatomid on paigutatud korduvasse, perioodilisse mustrisse, mida kirjeldab võre — matemaatiline tugiraamistik punktidest, mis on seotud translatsioonisümmeetriaga —, koos alusega, ühe või mitme aatomiga, mis on kinnitatud iga võrepunkti külge, ja see aluseks olev perioodilisus teebki sellised mõisted nagu energiavööd ja Braggi difraktsioon hästi määratletuks.",
+    "sourceHash": "5149fee8cc1bacc5",
+    "stale": false
+  },
+  "prerequisites": [
+    "phase-transitions"
+  ]
+}

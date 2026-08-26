@@ -1,0 +1,56 @@
+{
+  "id": "crystal-structure-and-lattices-item2",
+  "conceptId": "crystal-structure-and-lattices",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the relationship between a crystal's 'lattice' and its actual physical arrangement of atoms?",
+    "et": "Milline on seos kristalli 'võre' ja tema tegeliku aatomite füüsilise paigutuse vahel?",
+    "sourceHash": "ef491b30724b68be",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The lattice is an abstract mathematical scaffold of points; the actual crystal is formed by attaching a basis of one or more atoms to each lattice point",
+        "et": "Võre on abstraktne matemaatiline punktide tugiraamistik; tegelik kristall moodustub, kinnitades iga võrepunkti külge ühe või mitme aatomiga aluse",
+        "sourceHash": "c97980c1a9172584",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The lattice and the physical arrangement of atoms are identical concepts with no distinction between them",
+        "et": "Võre ja aatomite füüsiline paigutus on identsed mõisted, mille vahel pole vahet",
+        "sourceHash": "4278bbb62fee7645",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "crystal-structure-and-lattices-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The lattice describes only the electrons in a crystal, never the positions of the atomic nuclei",
+        "et": "Võre kirjeldab ainult kristalli elektrone, mitte kunagi aatomituumade asukohti",
+        "sourceHash": "c14dff7bb544db93",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "crystal-structure-and-lattices-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Every crystal lattice can only ever have a single atom attached to each point, never more",
+        "et": "Igal kristallvõrel saab iga punkti külge olla kinnitatud ainult üks aatom, mitte kunagi rohkem",
+        "sourceHash": "33c0ca2e016b7454",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "crystal-structure-and-lattices-m1"
+    }
+  ]
+}
