@@ -1,0 +1,56 @@
+{
+  "id": "radioactive-decay-modes-item2",
+  "conceptId": "radioactive-decay-modes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How does gamma decay differ fundamentally from alpha and beta decay?",
+    "et": "Kuidas erineb gammalagunemine põhimõtteliselt alfa- ja beetalagunemisest?",
+    "sourceHash": "572510ad12540e7e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Gamma decay releases a high-energy photon from an already-formed nucleus, without changing the nucleus's mass number or atomic number at all",
+        "et": "Gammalagunemine vabastab juba tekkinud tuumast kõrge energiaga footoni, muutmata üldse tuuma massiarvu ega aatomiarvu",
+        "sourceHash": "f1d9bb2964460d1a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Gamma decay changes both the mass number and atomic number, exactly like alpha decay does",
+        "et": "Gammalagunemine muudab nii massiarvu kui aatomiarvu, täpselt nagu alfalagunemine seda teeb",
+        "sourceHash": "6b439dc62f45d517",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radioactive-decay-modes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Gamma decay converts a neutron into a proton, exactly like beta decay does",
+        "et": "Gammalagunemine muudab neutroni prootoniks, täpselt nagu beetalagunemine seda teeb",
+        "sourceHash": "07e45d55716f2e1b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radioactive-decay-modes-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Gamma decay is not actually a form of radioactive decay at all",
+        "et": "Gammalagunemine ei ole tegelikult üldse radioaktiivse lagunemise vorm",
+        "sourceHash": "f133145e53f87720",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radioactive-decay-modes-m1"
+    }
+  ]
+}

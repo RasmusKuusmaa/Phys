@@ -1,0 +1,56 @@
+{
+  "id": "radioactive-decay-modes-item1",
+  "conceptId": "radioactive-decay-modes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A nucleus undergoes alpha decay. What happens to its mass number and atomic number?",
+    "et": "Tuum läbib alfalagunemise. Mis juhtub tema massiarvu ja aatomiarvuga?",
+    "sourceHash": "4cd6bc3a20578ecc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both decrease, since an alpha particle (a helium-4 nucleus, 2 protons and 2 neutrons) is ejected",
+        "et": "Mõlemad vähenevad, kuna välja paiskub alfaosake (heelium-4 tuum, 2 prootonit ja 2 neutronit)",
+        "sourceHash": "979aa6c8fe34cc62",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Only the atomic number decreases, while the mass number stays exactly the same",
+        "et": "Ainult aatomiarv väheneb, samal ajal kui massiarv jääb täpselt samaks",
+        "sourceHash": "f0c0d990f5ad71bb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radioactive-decay-modes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Neither changes; alpha decay only releases energy without ejecting any particle",
+        "et": "Kumbki ei muutu; alfalagunemine vabastab ainult energiat ilma ühtegi osakest välja paiskamata",
+        "sourceHash": "f6a0a2ece16472df",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radioactive-decay-modes-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both increase, since the nucleus absorbs an alpha particle from its surroundings",
+        "et": "Mõlemad suurenevad, kuna tuum neelab ümbrusest alfaosakese",
+        "sourceHash": "ec14aa0e88a0cc7d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radioactive-decay-modes-m1"
+    }
+  ]
+}

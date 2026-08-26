@@ -1,0 +1,21 @@
+{
+  "id": "radioactive-decay-modes",
+  "subject": "physics",
+  "level": "L2",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Radioactive decay modes",
+    "et": "Radioaktiivse lagunemise viisid",
+    "sourceHash": "f193b925ff6ab898",
+    "stale": false
+  },
+  "summary": {
+    "en": "An unstable nucleus sheds excess energy through one of several characteristic decay modes — alpha decay ejects a helium nucleus and reduces both mass and atomic number, beta decay converts a neutron to a proton (or vice versa) via the weak force while emitting an electron or positron and a neutrino, and gamma decay releases a high-energy photon from an already-formed nucleus without changing its identity at all.",
+    "et": "Ebastabiilne tuum vabaneb liigsest energiast ühe mitmest iseloomulikust lagunemisviisist kaudu — alfalagunemine paiskab välja heeliumituuma ning vähendab nii massi kui aatomiarvu, beetalagunemine muudab neutroni prootoniks (või vastupidi) nõrga jõu kaudu, kiirates välja elektroni või positroni ja neutriino, ning gammalagunemine vabastab juba tekkinud tuumast kõrge energiaga footoni, muutmata seejuures üldse tuuma identiteeti.",
+    "sourceHash": "1e00443ab5c33557",
+    "stale": false
+  },
+  "prerequisites": [
+    "radioactivity-and-half-life"
+  ]
+}
