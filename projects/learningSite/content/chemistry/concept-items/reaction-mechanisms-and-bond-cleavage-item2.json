@@ -1,0 +1,56 @@
+{
+  "id": "reaction-mechanisms-and-bond-cleavage-item2",
+  "conceptId": "reaction-mechanisms-and-bond-cleavage",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A nucleophile is described as a species that seeks out and attacks a region of positive or partial positive charge. What structural feature does a nucleophile need to do this?",
+    "et": "Nukleofiili kirjeldatakse kui osakest, mis otsib ja ründab positiivse või osalise positiivse laengu piirkonda. Millist strukturaalset tunnust vajab nukleofiil selleks?",
+    "sourceHash": "bb71802e1a1b463c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An available lone pair of electrons (or a pi bond) that it can donate to form a new bond",
+        "et": "Saadaolevat vaba elektronpaari (või pi-sidet), mida see saab uue sideme moodustamiseks loovutada",
+        "sourceHash": "1588c491cfae1439",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "An empty orbital that can accept an incoming pair of electrons",
+        "et": "Tühja orbitaali, mis saab vastu võtta sissetuleva elektronpaari",
+        "sourceHash": "b86e3f76b3040cbc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-mechanisms-and-bond-cleavage-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A net positive electric charge that attracts negatively charged species",
+        "et": "Netopositiivset elektrilaengut, mis tõmbab ligi negatiivselt laetud osakesi",
+        "sourceHash": "af7a0819e1e7f151",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-mechanisms-and-bond-cleavage-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "An unpaired electron available to form a new radical bond",
+        "et": "Paardumata elektroni, mis on saadaval uue radikaalsideme moodustamiseks",
+        "sourceHash": "db45a2a5a4c45934",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-mechanisms-and-bond-cleavage-m1"
+    }
+  ]
+}

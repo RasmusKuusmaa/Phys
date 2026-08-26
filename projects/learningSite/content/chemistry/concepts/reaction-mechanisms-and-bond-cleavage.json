@@ -1,0 +1,21 @@
+{
+  "id": "reaction-mechanisms-and-bond-cleavage",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "organic-chemistry",
+  "title": {
+    "en": "Reaction mechanisms and bond cleavage",
+    "et": "Reaktsioonimehhanismid ja sideme katkemine",
+    "sourceHash": "819fe5e3b2e01579",
+    "stale": false
+  },
+  "summary": {
+    "en": "A covalent bond can break homolytically, with each atom keeping one electron to form two neutral radicals, or heterolytically, with both electrons going to one atom to form a cation and an anion, and which pathway a reaction follows determines whether the reactive species produced are radicals or the electrophiles and nucleophiles that dominate ionic organic chemistry.",
+    "et": "Kovalentne side võib katkeda homolüütiliselt, kusjuures kumbki aatom hoiab ühe elektroni, moodustades kaks neutraalset radikaali, või heterolüütiliselt, mille korral mõlemad elektronid lähevad ühele aatomile, moodustades katiooni ja aniooni, ning see, kumba rada reaktsioon järgib, määrab, kas tekkivad reaktiivsed osakesed on radikaalid või elektrofiilid ja nukleofiilid, mis domineerivad ioonses orgaanilises keemias.",
+    "sourceHash": "2f7ba418e33e3047",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-bonding"
+  ]
+}

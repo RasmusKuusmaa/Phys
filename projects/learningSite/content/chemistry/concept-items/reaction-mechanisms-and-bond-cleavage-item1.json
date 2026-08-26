@@ -1,0 +1,56 @@
+{
+  "id": "reaction-mechanisms-and-bond-cleavage-item1",
+  "conceptId": "reaction-mechanisms-and-bond-cleavage",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A carbon-chlorine bond breaks such that each fragment keeps one of the two bonding electrons, producing two neutral species. What is this bond-breaking process called, and what are the resulting species?",
+    "et": "Süsinik-kloori side katkeb nii, et kumbki fragment hoiab üht kahest sidumiselektronist, tekitades kaks neutraalset osakest. Kuidas nimetatakse seda sidemekatkemise protsessi ja millised on tekkivad osakesed?",
+    "sourceHash": "4f51c3d2fe779346",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Homolytic cleavage, producing two neutral radicals, each with an unpaired electron",
+        "et": "Homolüütiline katkemine, tekitades kaks neutraalset radikaali, kummalgi paardumata elektron",
+        "sourceHash": "b1c72f0116f311b1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Heterolytic cleavage, producing a cation and an anion",
+        "et": "Heterolüütiline katkemine, tekitades katiooni ja aniooni",
+        "sourceHash": "7a984586483191c6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-mechanisms-and-bond-cleavage-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Ionisation, producing two ions of opposite charge",
+        "et": "Ionisatsioon, tekitades kaks vastandlaenguga iooni",
+        "sourceHash": "cec9d865d7db6fca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-mechanisms-and-bond-cleavage-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Hydrolysis, producing an acid and a base",
+        "et": "Hüdrolüüs, tekitades happe ja aluse",
+        "sourceHash": "6ba13d9270bf93db",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-mechanisms-and-bond-cleavage-m1"
+    }
+  ]
+}
