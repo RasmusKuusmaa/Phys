@@ -1,0 +1,56 @@
+{
+  "id": "the-nitrogen-group-item1",
+  "conceptId": "the-nitrogen-group",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Nitrogen gas (N2) makes up about 78% of the atmosphere and is famously unreactive at room temperature, despite nitrogen having five valence electrons. What explains this low reactivity?",
+    "et": "Lämmastikgaas (N2) moodustab umbes 78% atmosfäärist ja on toatemperatuuril tuntavalt vähereaktiivne, hoolimata sellest, et lämmastikul on viis valentselektroni. Mis seletab seda madalat reaktiivsust?",
+    "sourceHash": "970291093977e70a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The N≡N triple bond is exceptionally strong, requiring a large amount of energy to break before nitrogen can react further",
+        "et": "N≡N kolmikside on erakordselt tugev, nõudes suurt energiahulka enne, kui lämmastik saab edasi reageerida",
+        "sourceHash": "64c86875b6a11cfb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nitrogen atoms have no valence electrons available for bonding at all",
+        "et": "Lämmastikuaatomitel pole sidumiseks üldse valentselektrone saadaval",
+        "sourceHash": "3c681108cf9eaf6c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nitrogen-group-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nitrogen gas is actually highly reactive, and the observation of low reactivity is a common misconception with no chemical basis",
+        "et": "Lämmastikgaas on tegelikult väga reaktiivne ja madala reaktiivsuse vaatlus on tavaline väärarusaam ilma keemilise aluseta",
+        "sourceHash": "1f7ed61a008f9175",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nitrogen-group-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nitrogen's low reactivity is caused entirely by its position in the atmosphere, not by its molecular bonding",
+        "et": "Lämmastiku madal reaktiivsus on täielikult põhjustatud tema asukohast atmosfääris, mitte tema molekulaarsest sidemest",
+        "sourceHash": "49762da5f8fb5c51",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nitrogen-group-m1"
+    }
+  ]
+}

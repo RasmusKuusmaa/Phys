@@ -1,0 +1,22 @@
+{
+  "id": "the-nitrogen-group",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "inorganic-chemistry",
+  "title": {
+    "en": "The nitrogen group",
+    "et": "Lämmastiku rühm",
+    "sourceHash": "f69663d9f6f98738",
+    "stale": false
+  },
+  "summary": {
+    "en": "Group 15 spans from nitrogen, a diatomic gas whose triple bond makes it exceptionally unreactive, through phosphorus and arsenic to the increasingly metallic antimony and bismuth, and nitrogen's own chemistry is dominated by an unusually wide range of oxidation states, from -3 in ammonia to +5 in nitric acid, reflecting how many different bonding arrangements its five valence electrons can support.",
+    "et": "15. rühm ulatub lämmastikust, kaheaatomilisest gaasist, mille kolmikside teeb selle erakordselt vähereaktiivseks, läbi fosfori ja arseeni üha metallilisema antimoni ja vismutini, ning lämmastiku enda keemiat domineerib ebatavaliselt lai oksüdatsiooniastmete vahemik, -3-st ammoniaagis kuni +5-ni lämmastikhappes, peegeldades, kui palju erinevaid sidemepaigutusi tema viis valentselektroni suudavad toetada.",
+    "sourceHash": "567f6c8d4a2cd418",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-periodic-table",
+    "redox-reactions"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "the-nitrogen-group-item2",
+  "conceptId": "the-nitrogen-group",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Nitrogen appears in ammonia (NH3) with oxidation state -3 and in nitric acid (HNO3) with oxidation state +5. What does this range indicate about nitrogen's chemistry?",
+    "et": "Lämmastik esineb ammoniaagis (NH3) oksüdatsiooniastmega -3 ja lämmastikhappes (HNO3) oksüdatsiooniastmega +5. Mida see vahemik lämmastiku keemia kohta näitab?",
+    "sourceHash": "253d5e9594e7d52a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Nitrogen supports an unusually wide range of oxidation states, reflecting the many different bonding arrangements its valence electrons allow",
+        "et": "Lämmastik toetab ebatavaliselt laia oksüdatsiooniastmete vahemikku, peegeldades paljusid erinevaid sidemepaigutusi, mida tema valentselektronid võimaldavad",
+        "sourceHash": "62fc6ec3bdfadb95",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nitrogen must have made an error in one of these two compounds, since an element can only have one oxidation state",
+        "et": "Lämmastik peab olema teinud vea ühes neist kahest ühendist, kuna elemendil saab olla ainult üks oksüdatsiooniaste",
+        "sourceHash": "740ba7186997a04e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nitrogen-group-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Ammonia and nitric acid do not actually contain the same element, despite both being labelled with nitrogen",
+        "et": "Ammoniaak ja lämmastikhape ei sisalda tegelikult sama elementi, hoolimata sellest, et mõlemad on märgistatud lämmastikuga",
+        "sourceHash": "5d84c331667940e0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nitrogen-group-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The oxidation state range shown here is typical of every element in the periodic table, with no exception",
+        "et": "Siin näidatud oksüdatsiooniastme vahemik on tüüpiline igale perioodilisussüsteemi elemendile, ilma eranditeta",
+        "sourceHash": "3d88556838008a1b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nitrogen-group-m1"
+    }
+  ]
+}
