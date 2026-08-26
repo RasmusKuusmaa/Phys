@@ -1,0 +1,10 @@
+{
+  "id": "x-rays-and-their-production-m2",
+  "conceptId": "x-rays-and-their-production",
+  "text": {
+    "en": "The characteristic X-ray lines produced by a target depend on the speed of the bombarding electrons rather than on the target material itself.",
+    "et": "Sihtmärgi tekitatud iseloomulikud röntgenjooned sõltuvad pommitavate elektronide kiirusest, mitte sihtmärgi materjalist endast.",
+    "sourceHash": "cc4bc48c55bf0ac4",
+    "stale": false
+  }
+}

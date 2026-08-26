@@ -1,0 +1,56 @@
+{
+  "id": "x-rays-and-their-production-item1",
+  "conceptId": "x-rays-and-their-production",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An X-ray tube produces two distinct features in its emitted spectrum: a smooth continuous background and several sharp, narrow peaks. What produces the sharp peaks?",
+    "et": "Röntgenitoru tekitab oma kiirgusspektris kaks eristuvat tunnust: sujuva pideva tausta ja mitu teravat, kitsast tippu. Mis tekitab teravad tipud?",
+    "sourceHash": "12824ffce27f91ba",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Electrons knocking out inner-shell electrons from target atoms, followed by outer electrons dropping down to fill the vacancy and emitting characteristic-energy photons",
+        "et": "Elektronid, mis löövad sihtmärgi aatomitest välja sisemise kihi elektronid, millele järgneb väliste elektronide langemine vabanenud koha täitmiseks, kiirgades iseloomuliku energiaga footoneid",
+        "sourceHash": "28693ff49953a272",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Electrons decelerating gradually and smoothly as they pass through the target material",
+        "et": "Elektronid, mis pidurduvad sihtmärgi materjalis järk-järgult ja sujuvalt",
+        "sourceHash": "1d630ff6b4d5c848",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "x-rays-and-their-production-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Random thermal vibrations of the target atoms unrelated to the incoming electron beam",
+        "et": "Sihtmärgi aatomite juhuslikud soojuslikud võnkumised, mis pole seotud sissetuleva elektronikiirega",
+        "sourceHash": "63666b90553e8a3e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "x-rays-and-their-production-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The sharp peaks are actually an instrumental artifact and carry no physical information about the target",
+        "et": "Teravad tipud on tegelikult instrumentaalne artefakt ega kanna mingit füüsikalist informatsiooni sihtmärgi kohta",
+        "sourceHash": "bb8aa4c3f37bc216",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "x-rays-and-their-production-m1"
+    }
+  ]
+}

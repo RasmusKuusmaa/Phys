@@ -1,0 +1,56 @@
+{
+  "id": "x-rays-and-their-production-item2",
+  "conceptId": "x-rays-and-their-production",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What produces the smooth, continuous part of an X-ray tube's spectrum, known as bremsstrahlung?",
+    "et": "Mis tekitab röntgenitoru spektri sujuva, pideva osa, mida nimetatakse pidurduskiirguseks?",
+    "sourceHash": "b863bc5c17f31d3a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Electrons decelerating abruptly as they pass close to target nuclei, radiating a continuous range of photon energies depending on how much they decelerate",
+        "et": "Elektronid, mis pidurduvad järsult sihtmärgi tuumade lähedalt möödudes, kiirgades pideva vahemiku footoni energiaid, sõltuvalt sellest, kui palju nad pidurduvad",
+        "sourceHash": "2ae53ae19880bee7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Only the knocking-out of inner-shell electrons from target atoms",
+        "et": "Ainult sihtmärgi aatomite sisemise kihi elektronide väljalöömine",
+        "sourceHash": "85e02f9312943358",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "x-rays-and-their-production-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Radioactive decay of the target material itself, unrelated to the electron beam",
+        "et": "Sihtmärgi materjali enda radioaktiivne lagunemine, mis pole elektronikiirega seotud",
+        "sourceHash": "2255edd19ad81700",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "x-rays-and-their-production-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Reflection of the incoming electron beam without any energy loss at all",
+        "et": "Sissetuleva elektronikiire peegeldumine ilma igasuguse energiakaota",
+        "sourceHash": "3e59d6afbebeb0d0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "x-rays-and-their-production-m1"
+    }
+  ]
+}

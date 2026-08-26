@@ -1,0 +1,21 @@
+{
+  "id": "x-rays-and-their-production",
+  "subject": "physics",
+  "level": "L2",
+  "module": "modern-physics",
+  "title": {
+    "en": "X-rays and their production",
+    "et": "Röntgenkiirgus ja selle teke",
+    "sourceHash": "853060ee75fdcc82",
+    "stale": false
+  },
+  "summary": {
+    "en": "X-rays are produced when fast electrons strike a target and either decelerate abruptly, radiating a continuous spectrum of bremsstrahlung, or knock out an inner-shell electron from a target atom, producing sharp characteristic lines whose energies are set by the target element's own atomic energy levels.",
+    "et": "Röntgenkiirgus tekib, kui kiired elektronid tabavad sihtmärki ja kas pidurduvad järsult, kiirgades pidevat pidurduskiirguse spektrit, või lööd sihtmärgi aatomist välja sisemise kihi elektroni, tekitades teravaid iseloomulikke jooni, mille energiad on määratud sihtmärgi elemendi enda aatomi energianivoodega.",
+    "sourceHash": "994c416436d15b6f",
+    "stale": false
+  },
+  "prerequisites": [
+    "quantum-energy-levels"
+  ]
+}
