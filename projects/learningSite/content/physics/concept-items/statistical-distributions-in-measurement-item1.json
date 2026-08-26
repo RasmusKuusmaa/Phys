@@ -1,0 +1,56 @@
+{
+  "id": "statistical-distributions-in-measurement-item1",
+  "conceptId": "statistical-distributions-in-measurement",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A student measures the period of a pendulum ten times and gets ten slightly different values scattered around a central value. What does the pattern of this scatter typically look like, and why?",
+    "et": "Õpilane mõõdab pendli võnkeperioodi kümme korda ja saab kümme veidi erinevat väärtust, mis hajuvad ümber keskse väärtuse. Millisena see hajumismuster tavaliselt välja näeb ja miks?",
+    "sourceHash": "50a7bbab4be10a97",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Approximately a normal (Gaussian) distribution, because the scatter arises from many small, independent random error sources adding together",
+        "et": "Ligikaudu normaal- (Gaussi) jaotusena, kuna hajumine tekib paljude väikeste, sõltumatute juhuslike veaallikate liitumisest",
+        "sourceHash": "a7d3b97d2461871f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Exactly identical values every time, since a correctly performed measurement has no scatter at all",
+        "et": "Täpselt identsed väärtused iga kord, kuna õigesti sooritatud mõõtmisel puudub igasugune hajumine",
+        "sourceHash": "2e9636b42bc9410d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-distributions-in-measurement-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A perfectly uniform spread, with every possible value between the smallest and largest equally likely",
+        "et": "Täiesti ühtlane hajumine, kus iga võimalik väärtus väikseima ja suurima vahel on võrdselt tõenäoline",
+        "sourceHash": "87590f348948c0a5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-distributions-in-measurement-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A pattern that is completely unpredictable and carries no useful statistical structure at all",
+        "et": "Täiesti ettearvamatu muster, mis ei kanna endas mingit kasulikku statistilist struktuuri",
+        "sourceHash": "1c978f8d7b6c572b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-distributions-in-measurement-m1"
+    }
+  ]
+}

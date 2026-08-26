@@ -1,0 +1,10 @@
+{
+  "id": "statistical-distributions-in-measurement-m3",
+  "conceptId": "statistical-distributions-in-measurement",
+  "text": {
+    "en": "Any set of repeated physical measurements will always be normally (Gaussian) distributed, regardless of the source of the scatter.",
+    "et": "Iga korduvate füüsikaliste mõõtmiste hulk on alati normaal- (Gaussi) jaotusega, sõltumata hajumise allikast.",
+    "sourceHash": "27bdc5ce9fc827e8",
+    "stale": false
+  }
+}

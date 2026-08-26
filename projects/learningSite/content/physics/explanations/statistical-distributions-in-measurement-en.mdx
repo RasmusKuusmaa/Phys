@@ -1,0 +1,40 @@
+Repeat a physical measurement several times under seemingly identical
+conditions and the results almost never come out exactly the same — small,
+uncontrollable random influences (tiny timing variations, minor instrument
+fluctuations, small reading inconsistencies) perturb each individual
+reading a little differently. Rather than being a nuisance to be eliminated,
+this scatter has a predictable statistical structure that measurement
+science relies on directly.
+
+When a measured value is affected by many small, independent random error
+sources acting together, the resulting scatter of results tends to follow
+the normal distribution (also called the Gaussian distribution), the
+familiar symmetric bell-shaped curve centred on the true underlying value.
+This is a consequence of the central limit theorem, which shows that adding
+together many independent random contributions — regardless of the detailed
+distribution of each individual contribution — produces a sum that is
+approximately normally distributed, provided no single contribution
+dominates the total. This is why the normal distribution shows up so
+pervasively in measurement, even though the underlying causes of
+measurement error can vary enormously from one experiment to another.
+
+The normal distribution's spread is fully characterised by its standard
+deviation, a single number describing how tightly the measurements cluster
+around their mean: about 68% of individual measurements fall within one
+standard deviation of the mean, and about 95% fall within two, for a
+genuinely normal distribution. It is worth distinguishing this from the
+uncertainty of the mean itself — the standard deviation describes the spread
+of individual measurements, but averaging many measurements together
+reduces the uncertainty in the mean value by a factor related to the square
+root of the number of measurements, since random errors partially cancel
+when averaged, while the spread of any single new measurement remains set by
+the same standard deviation regardless of how many measurements have already
+been taken.
+
+This statistical structure is what justifies reporting a measurement as a
+single mean value plus an uncertainty rather than as a raw list of scattered
+numbers, and it underlies standard tools for comparing measurements — such
+as asking whether two experimentally determined values agree with each
+other within their stated uncertainties, or whether an outlier reading is
+statistically consistent with the rest of a data set or should be
+investigated as a likely mistake.

@@ -1,0 +1,21 @@
+{
+  "id": "statistical-distributions-in-measurement",
+  "subject": "physics",
+  "level": "L3",
+  "module": "measurement",
+  "title": {
+    "en": "Statistical distributions in measurement",
+    "et": "Statistilised jaotused mõõtmises",
+    "sourceHash": "b55b352f7b328559",
+    "stale": false
+  },
+  "summary": {
+    "en": "Repeated measurements of the same quantity, subject to many small independent random error sources, tend to scatter according to the normal (Gaussian) distribution, whose spread is characterised by the standard deviation, and this predictable shape is what justifies reporting a single mean value plus an uncertainty and what underlies standard statistical tests for comparing measurements.",
+    "et": "Sama suuruse korduvad mõõtmised, mis alluvad paljudele väikestele sõltumatutele juhuslikele veaallikatele, kalduvad hajuma vastavalt normaal- (Gaussi) jaotusele, mille hajuvust iseloomustab standardhälve, ja see ennustatav kuju on see, mis õigustab ühe keskväärtuse pluss määramatuse esitamist ning on aluseks standardsetele statistilistele testidele mõõtmiste võrdlemiseks.",
+    "sourceHash": "73bdbea3f08f9463",
+    "stale": false
+  },
+  "prerequisites": [
+    "combining-uncertainties"
+  ]
+}

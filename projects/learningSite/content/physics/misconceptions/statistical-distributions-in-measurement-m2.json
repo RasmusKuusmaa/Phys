@@ -1,0 +1,10 @@
+{
+  "id": "statistical-distributions-in-measurement-m2",
+  "conceptId": "statistical-distributions-in-measurement",
+  "text": {
+    "en": "The standard deviation of a set of measurements tells you the uncertainty in the mean value in exactly the same way as it describes the spread of individual measurements.",
+    "et": "Mõõtmiste hulga standardhälve annab keskväärtuse määramatuse täpselt samamoodi, nagu see kirjeldab üksikute mõõtmiste hajuvust.",
+    "sourceHash": "ef0ea15a88e3afc6",
+    "stale": false
+  }
+}

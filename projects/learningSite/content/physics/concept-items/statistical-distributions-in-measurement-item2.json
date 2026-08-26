@@ -1,0 +1,56 @@
+{
+  "id": "statistical-distributions-in-measurement-item2",
+  "conceptId": "statistical-distributions-in-measurement",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the standard deviation of a set of repeated measurements primarily describe?",
+    "et": "Mida kirjeldab korduvate mõõtmiste hulga standardhälve peamiselt?",
+    "sourceHash": "f973e4b4fdb739c5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The typical spread of individual measurements around the mean value",
+        "et": "Üksikute mõõtmiste tüüpilist hajuvust keskväärtuse ümber",
+        "sourceHash": "17ef4cce12a297de",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The exact true value of the quantity being measured, with no remaining uncertainty",
+        "et": "Mõõdetava suuruse täpset tõelist väärtust, ilma allesjääva määramatuseta",
+        "sourceHash": "911897c7120d93cc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-distributions-in-measurement-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The total number of measurements taken in the data set",
+        "et": "Andmestikus tehtud mõõtmiste koguarvu",
+        "sourceHash": "86469df387dac94f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-distributions-in-measurement-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The systematic error present in the measuring instrument used",
+        "et": "Kasutatud mõõteriista süstemaatilist viga",
+        "sourceHash": "bc004e22a107e3df",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-distributions-in-measurement-m1"
+    }
+  ]
+}
