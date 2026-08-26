@@ -1,0 +1,56 @@
+{
+  "id": "molecular-orbital-theory-and-hybridisation-item1",
+  "conceptId": "molecular-orbital-theory-and-hybridisation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "When two atomic orbitals combine to form molecular orbitals, one bonding and one antibonding orbital typically result. How do their energies compare to the original atomic orbitals?",
+    "et": "Kui kaks aatomorbitaali kombineeruvad molekulaarorbitaalideks, tekib tavaliselt üks siduv ja üks lõdvestav orbitaal. Kuidas nende energiad võrduvad algsete aatomorbitaalidega?",
+    "sourceHash": "2d38d919af68a21d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The bonding orbital is lower in energy than the original atomic orbitals, while the antibonding orbital is higher",
+        "et": "Siduv orbitaal on madalama energiaga kui algsed aatomorbitaalid, samal ajal kui lõdvestav orbitaal on kõrgema energiaga",
+        "sourceHash": "c88cd5891498e248",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both the bonding and antibonding orbitals have exactly the same energy as the original atomic orbitals",
+        "et": "Nii siduval kui lõdvestaval orbitaalil on täpselt sama energia kui algsetel aatomorbitaalidel",
+        "sourceHash": "e85b05380cfe64dd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "molecular-orbital-theory-and-hybridisation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The bonding orbital is higher in energy than the original atomic orbitals, while the antibonding orbital is lower",
+        "et": "Siduv orbitaal on kõrgema energiaga kui algsed aatomorbitaalid, samal ajal kui lõdvestav orbitaal on madalama energiaga",
+        "sourceHash": "d047e306f3719ad4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "molecular-orbital-theory-and-hybridisation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Molecular orbital energies bear no systematic relationship to the atomic orbitals that combined to form them",
+        "et": "Molekulaarorbitaali energiad ei ole süstemaatiliselt seotud aatomorbitaalidega, mis nende moodustamiseks kombineerusid",
+        "sourceHash": "b855ec53e728720d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "molecular-orbital-theory-and-hybridisation-m1"
+    }
+  ]
+}

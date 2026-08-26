@@ -1,0 +1,21 @@
+{
+  "id": "molecular-orbital-theory-and-hybridisation",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "theoretical-chemistry",
+  "title": {
+    "en": "Molecular orbital theory and hybridisation",
+    "et": "Molekulaarorbitaali teooria ja hübridisatsioon",
+    "sourceHash": "c453adb4d570c438",
+    "stale": false
+  },
+  "summary": {
+    "en": "Molecular orbital theory builds bonding by combining atomic orbitals into new orbitals delocalised over the whole molecule, with bonding combinations lower in energy than the original atomic orbitals and antibonding combinations higher, while orbital hybridisation is a complementary bookkeeping device that mixes an atom's own orbitals into new shapes matching the geometry actually observed, such as the tetrahedral sp3 arrangement around a typical carbon atom.",
+    "et": "Molekulaarorbitaali teooria ehitab sideme, kombineerides aatomorbitaalid uuteks orbitaalideks, mis on delokaliseeritud üle kogu molekuli, kusjuures siduvad kombinatsioonid on madalama energiaga kui algsed aatomorbitaalid ja lõdvestavad kombinatsioonid kõrgema energiaga, samal ajal kui orbitaali hübridisatsioon on täiendav raamatupidamisvahend, mis segab aatomi enda orbitaalid uuteks kujudeks, mis vastavad tegelikult vaadeldud geomeetriale, näiteks tetraeedrilisele sp3 paigutusele tüüpilise süsinikuaatomi ümber.",
+    "sourceHash": "48ffeb750018991b",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-bonding"
+  ]
+}

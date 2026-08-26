@@ -1,0 +1,56 @@
+{
+  "id": "molecular-orbital-theory-and-hybridisation-item2",
+  "conceptId": "molecular-orbital-theory-and-hybridisation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A typical carbon atom in methane (CH4) forms four equivalent bonds arranged tetrahedrally, even though carbon's unhybridised atomic orbitals (2s and three 2p) are not equivalent to each other. What resolves this apparent mismatch?",
+    "et": "Tüüpiline süsinikuaatom metaanis (CH4) moodustab neli ekvivalentset sidet tetraeedrilises paigutuses, kuigi süsiniku hübridiseerimata aatomorbitaalid (2s ja kolm 2p) ei ole üksteisega ekvivalentsed. Mis lahendab selle näilise mittevastavuse?",
+    "sourceHash": "0c99407fbd795def",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Orbital hybridisation mixes the 2s and three 2p orbitals into four equivalent sp3 hybrid orbitals pointing toward the corners of a tetrahedron",
+        "et": "Orbitaali hübridisatsioon segab 2s ja kolm 2p orbitaali neljaks ekvivalentseks sp3 hübriidorbitaaliks, mis on suunatud tetraeedri tippude poole",
+        "sourceHash": "99a52f841271627e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Carbon actually uses only its 2s orbital to form all four bonds, ignoring the 2p orbitals entirely",
+        "et": "Süsinik kasutab tegelikult kõigi nelja sideme moodustamiseks ainult oma 2s orbitaali, eirates täielikult 2p orbitaale",
+        "sourceHash": "513bce2c676b1025",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "molecular-orbital-theory-and-hybridisation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The four bonds in methane are not actually equivalent, despite appearing identical experimentally",
+        "et": "Neli metaani sidet ei ole tegelikult ekvivalentsed, hoolimata eksperimentaalselt identsena näimisest",
+        "sourceHash": "137155e80b4c168a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "molecular-orbital-theory-and-hybridisation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Hybridisation is purely a historical idea with no continued relevance to modern bonding theory",
+        "et": "Hübridisatsioon on puhtalt ajalooline idee, millel puudub jätkuv tähtsus tänapäevases sidemeteoorias",
+        "sourceHash": "220fb99b9a153fb4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "molecular-orbital-theory-and-hybridisation-m1"
+    }
+  ]
+}
