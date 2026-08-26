@@ -410,6 +410,15 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "mass-spectrometry",
     "spectroscopy",
   ],
+  // LOKT.08.001 Teoreetiline keemia — no scraped syllabus (points to course
+  // materials); molecular orbital theory and hybridisation is the core
+  // conceptual content a theoretical/quantum chemistry course builds on.
+  "LOKT.08.001": [
+    "molecular-orbital-theory-and-hybridisation",
+    "chemical-bonding",
+    "the-schrodinger-equation",
+    "quantum-numbers-and-atomic-orbitals",
+  ],
   // LOKT.02.037 Füüsikaline keemia 1. osa — thermodynamics (laws, entropy, Gibbs
   // energy), chemical equilibrium and kinetics. Draws on physics thermodynamics
   // concepts as well as chemistry, since the syllabus is classical thermo applied

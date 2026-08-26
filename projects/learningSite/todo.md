@@ -1013,7 +1013,9 @@ courses have nothing.
       existing stoichiometry/acids-bases/equilibrium/redox and physics'
       general spectroscopy concept
   `content: add analytical chemistry concepts`
-- [ ] Author theoretical chemistry for `LOKT.08.001`
+- [x] Author theoretical chemistry for `LOKT.08.001` (no scraped syllabus) —
+      1 new concept (molecular orbital theory/hybridisation), mapped
+      alongside existing bonding and quantum-mechanics concepts
   `content: add theoretical chemistry concepts`
 - [ ] Author the theory behind the chemistry practicals — `LOKT.01.010`,
       `LOKT.06.012`, `LOKT.09.014`, `LOKT.10.018`, `LTKT.02.002`, `LTKT.06.004`

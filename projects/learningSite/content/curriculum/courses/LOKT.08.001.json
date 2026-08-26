@@ -45,7 +45,12 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "molecular-orbital-theory-and-hybridisation",
+    "chemical-bonding",
+    "the-schrodinger-equation",
+    "quantum-numbers-and-atomic-orbitals"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/chemistry2.md"
   ],
