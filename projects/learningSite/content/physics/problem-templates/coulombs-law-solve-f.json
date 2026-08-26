@@ -4,15 +4,15 @@
   "variables": [
     {
       "symbol": "q1",
-      "min": 1e-06,
-      "max": 5e-05,
+      "min": 0.000001,
+      "max": 0.00005,
       "unit": "C",
       "sigFigs": 3
     },
     {
       "symbol": "q2",
-      "min": 1e-06,
-      "max": 5e-05,
+      "min": 0.000001,
+      "max": 0.00005,
       "unit": "C",
       "sigFigs": 3
     },
