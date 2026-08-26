@@ -1,0 +1,21 @@
+{
+  "id": "stellar-classification-and-the-hertzsprung-russell-diagram",
+  "subject": "physics",
+  "level": "L2",
+  "module": "astrophysics",
+  "title": {
+    "en": "Stellar classification and the Hertzsprung-Russell diagram",
+    "et": "Tähtede klassifikatsioon ja Hertzsprung-Russelli diagramm",
+    "sourceHash": "64e1ae3681d95aaa",
+    "stale": false
+  },
+  "summary": {
+    "en": "Plotting stars by their surface temperature (or spectral colour) against their luminosity reveals that most stars fall along a single diagonal band, the main sequence, rather than being scattered randomly, with a star's position along that band set primarily by its mass — and stars evolving off the main sequence, into giants or down to white dwarfs, trace out the distinct evolutionary stages of stellar life.",
+    "et": "Tähtede joonestamine nende pinnatemperatuuri (või spektraalvärvuse) suhtes nende heleduse suhtes paljastab, et enamik tähti asub piki ühtainust diagonaalset riba, peajada, selle asemel et olla juhuslikult hajutatud, tähe positsiooniga selle riba peal, mille määrab peamiselt tema mass — ja peajadast eemalduvad tähed, hiidudeks või alla valgeteks kääbusteks, jäljendavad tähe elu erinevaid arengujärke.",
+    "sourceHash": "a926f79df5530831",
+    "stale": false
+  },
+  "prerequisites": [
+    "blackbody-radiation-and-plancks-law"
+  ]
+}

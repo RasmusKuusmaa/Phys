@@ -1,0 +1,56 @@
+{
+  "id": "stellar-classification-and-the-hertzsprung-russell-diagram-item1",
+  "conceptId": "stellar-classification-and-the-hertzsprung-russell-diagram",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "When astronomers plot a large sample of stars by surface temperature against luminosity, most stars fall along a single diagonal band called the main sequence rather than being scattered randomly across the diagram. What does this pattern primarily reflect?",
+    "et": "Kui astronoomid joonestavad suure tähtede valimi pinnatemperatuuri heleduse suhtes, asub enamik tähti piki ühtainust diagonaalset riba nimega peajada, selle asemel et olla diagrammil juhuslikult hajutatud. Mida see muster peamiselt peegeldab?",
+    "sourceHash": "e415a37addb7037a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A star's position along the main sequence is set primarily by its mass, since more massive stars are both hotter and more luminous",
+        "et": "Tähe positsiooni peajadal määrab peamiselt tema mass, kuna massiivsemad tähed on nii kuumemad kui heledamad",
+        "sourceHash": "f5d595039eabb6dd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The pattern is a coincidence with no underlying physical cause",
+        "et": "Muster on kokkusattumus ilma aluseks oleva füüsikalise põhjuseta",
+        "sourceHash": "e78a5728a0398e14",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-classification-and-the-hertzsprung-russell-diagram-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All stars have exactly the same mass, temperature, and luminosity",
+        "et": "Kõigil tähtedel on täpselt sama mass, temperatuur ja heledus",
+        "sourceHash": "5ff1085c50a826f1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-classification-and-the-hertzsprung-russell-diagram-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The main sequence pattern only applies to stars in our own galaxy and not to stars elsewhere",
+        "et": "Peajada muster kehtib ainult meie enda galaktika tähtede kohta, mitte mujal asuvate tähtede kohta",
+        "sourceHash": "19adde3658cc6b50",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-classification-and-the-hertzsprung-russell-diagram-m1"
+    }
+  ]
+}

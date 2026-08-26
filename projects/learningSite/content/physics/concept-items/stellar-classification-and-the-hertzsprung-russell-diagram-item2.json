@@ -1,0 +1,56 @@
+{
+  "id": "stellar-classification-and-the-hertzsprung-russell-diagram-item2",
+  "conceptId": "stellar-classification-and-the-hertzsprung-russell-diagram",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A star's colour (blue, white, yellow, orange, or red) is used as a proxy for one of its physical properties on the Hertzsprung-Russell diagram. Which property?",
+    "et": "Tähe värvust (sinine, valge, kollane, oranž või punane) kasutatakse Hertzsprung-Russelli diagrammil ühe tema füüsikalise omaduse asendajana. Millist omadust?",
+    "sourceHash": "4f236114de3ef02d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Surface temperature, following the same blackbody principle that a hotter object radiates more strongly toward shorter (bluer) wavelengths",
+        "et": "Pinnatemperatuuri, järgides sama musta keha põhimõtet, et kuumem objekt kiirgab tugevamalt lühemate (sinisemate) lainepikkuste poole",
+        "sourceHash": "472970952f828d86",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The star's total mass, with no connection to temperature at all",
+        "et": "Tähe kogumassi, ilma igasuguse seoseta temperatuuriga",
+        "sourceHash": "6db1836b09b33d68",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-classification-and-the-hertzsprung-russell-diagram-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The star's exact distance from Earth",
+        "et": "Tähe täpset kaugust Maast",
+        "sourceHash": "c055a6e58104c540",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-classification-and-the-hertzsprung-russell-diagram-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The star's age, measured directly and independently of any other property",
+        "et": "Tähe vanust, mõõdetuna otse ja sõltumatult ükskõik millisest muust omadusest",
+        "sourceHash": "30381ab297876785",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-classification-and-the-hertzsprung-russell-diagram-m1"
+    }
+  ]
+}
