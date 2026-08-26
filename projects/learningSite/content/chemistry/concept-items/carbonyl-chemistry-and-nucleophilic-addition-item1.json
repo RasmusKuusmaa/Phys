@@ -1,0 +1,56 @@
+{
+  "id": "carbonyl-chemistry-and-nucleophilic-addition-item1",
+  "conceptId": "carbonyl-chemistry-and-nucleophilic-addition",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In a ketone or aldehyde's carbon-oxygen double bond, which atom does a nucleophile attack, and why?",
+    "et": "Ketooni või aldehüüdi süsinik-hapnik kaksiksidemes, millist aatomit nukleofiil ründab ja miks?",
+    "sourceHash": "7fbc1e612afd0f14",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The carbon atom, because oxygen's higher electronegativity pulls electron density away from carbon, leaving it electron-poor and electrophilic",
+        "et": "Süsinikuaatomit, kuna hapniku suurem elektronegatiivsus tõmbab elektrontiheduse süsinikust eemale, jättes selle elektronivaeseks ja elektrofiilseks",
+        "sourceHash": "f3d55b446f8018e8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The oxygen atom, because it carries a full positive charge that attracts nucleophiles",
+        "et": "Hapnikuaatomit, kuna see kannab täielikku positiivset laengut, mis tõmbab nukleofiile ligi",
+        "sourceHash": "8024e533db8f42b7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carbonyl-chemistry-and-nucleophilic-addition-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Neither atom, since the polarised carbonyl bond is unreactive toward nucleophiles",
+        "et": "Kumbagi aatomit, kuna polariseeritud karbonüülside on nukleofiilide suhtes reaktsioonivõimetu",
+        "sourceHash": "e881ed06871749a3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carbonyl-chemistry-and-nucleophilic-addition-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both atoms simultaneously and equally, since the bond is perfectly nonpolar",
+        "et": "Mõlemat aatomit samaaegselt ja võrdselt, kuna side on täiesti mittepolaarne",
+        "sourceHash": "d9ddf0174c3292d8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carbonyl-chemistry-and-nucleophilic-addition-m1"
+    }
+  ]
+}

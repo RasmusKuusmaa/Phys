@@ -1,0 +1,56 @@
+{
+  "id": "carbonyl-chemistry-and-nucleophilic-addition-item2",
+  "conceptId": "carbonyl-chemistry-and-nucleophilic-addition",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why are the C-H bonds on the carbon directly adjacent to a carbonyl group (the alpha carbon) unusually acidic compared to typical C-H bonds?",
+    "et": "Miks on karbonüülrühmale otse kõrval oleva süsiniku (alfa-süsiniku) C-H sidemed ebatavaliselt happelised võrreldes tüüpiliste C-H sidemetega?",
+    "sourceHash": "0b9f06425b39e31f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Losing a proton from the alpha carbon produces a carbanion whose negative charge is stabilised by delocalisation into the adjacent electron-poor carbonyl group",
+        "et": "Prootoni kaotamine alfa-süsinikult tekitab karbaniooni, mille negatiivne laeng on stabiliseeritud delokalisatsiooni kaudu kõrvalolevasse elektronivaesesse karbonüülrühma",
+        "sourceHash": "74affa55fcf2cc9b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The alpha carbon's C-H bonds are actually no more acidic than any other C-H bond in the molecule",
+        "et": "Alfa-süsiniku C-H sidemed pole tegelikult happelisemad kui ükski muu C-H side molekulis",
+        "sourceHash": "99e1e50911082b6c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carbonyl-chemistry-and-nucleophilic-addition-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The carbonyl oxygen directly donates a proton to the solution, unrelated to the alpha carbon",
+        "et": "Karbonüülhapnik loovutab prootoni otse lahusesse, alfa-süsinikuga mitteseotult",
+        "sourceHash": "623347764d1c107e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carbonyl-chemistry-and-nucleophilic-addition-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Acidity at the alpha carbon depends only on the total number of carbons in the molecule",
+        "et": "Happelisus alfa-süsinikul sõltub ainult molekuli süsinike koguarvust",
+        "sourceHash": "3a3a60460e16f8d1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carbonyl-chemistry-and-nucleophilic-addition-m1"
+    }
+  ]
+}

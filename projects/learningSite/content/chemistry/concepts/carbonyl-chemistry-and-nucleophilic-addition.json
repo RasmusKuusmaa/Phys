@@ -1,0 +1,21 @@
+{
+  "id": "carbonyl-chemistry-and-nucleophilic-addition",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "organic-chemistry",
+  "title": {
+    "en": "Carbonyl chemistry and nucleophilic addition",
+    "et": "Karbonüülkeemia ja nukleofiilne liitumine",
+    "sourceHash": "840511871a76273e",
+    "stale": false
+  },
+  "summary": {
+    "en": "The carbon-oxygen double bond in a ketone or aldehyde is strongly polarised, leaving the carbon electron-poor and directly attractive to nucleophiles, which add across the pi bond to form a tetrahedral alkoxide intermediate — the same polarisation also lets the alpha carbon's C-H bonds ionise as a weak acid, opening a second, complementary reactivity mode called enolisation.",
+    "et": "Ketooni või aldehüüdi süsinik-hapnik kaksikside on tugevalt polariseeritud, jättes süsiniku elektronivaeseks ja otseselt nukleofiilidele atraktiivseks, mis liituvad üle pi-sideme, moodustades tetraeedrilise alkoksiidi vaheühendi — sama polarisatsioon lubab ka alfa-süsiniku C-H sidemetel ioniseeruda nõrga happena, avades teise, täiendava reaktsioonivõimekuse režiimi nimega enoliseerumine.",
+    "sourceHash": "9387250143eb4d84",
+    "stale": false
+  },
+  "prerequisites": [
+    "reaction-mechanisms-and-bond-cleavage"
+  ]
+}
