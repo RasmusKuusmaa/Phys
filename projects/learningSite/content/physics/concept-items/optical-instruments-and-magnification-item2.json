@@ -1,0 +1,56 @@
+{
+  "id": "optical-instruments-and-magnification-item2",
+  "conceptId": "optical-instruments-and-magnification",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A compound microscope's objective lens gives a magnification of 10, and its eyepiece gives a further magnification of 5. What is the total magnification?",
+    "et": "Liitmikroskoobi objektiivläätse suurendus on 10 ja selle okulaar annab veel 5-kordse suurenduse. Milline on kogusuurendus?",
+    "sourceHash": "a5b31aa30b71130b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "50, since the two lenses' magnifications multiply in a compound instrument",
+        "et": "50, sest kahe läätse suurendused korrutuvad liitseadmes",
+        "sourceHash": "c5466d83ed1bebb1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "15, since the two magnifications simply add together",
+        "et": "15, sest kaks suurendust lihtsalt liituvad",
+        "sourceHash": "9eab85bc0fdffcfe",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-instruments-and-magnification-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "10, since only the objective lens determines total magnification",
+        "et": "10, sest ainult objektiivlääts määrab kogusuurenduse",
+        "sourceHash": "359707e375be043c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-instruments-and-magnification-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "5, since only the eyepiece determines total magnification",
+        "et": "5, sest ainult okulaar määrab kogusuurenduse",
+        "sourceHash": "8bf90b1277d28c7d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-instruments-and-magnification-m1"
+    }
+  ]
+}

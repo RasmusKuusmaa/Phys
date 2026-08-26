@@ -1,0 +1,56 @@
+{
+  "id": "optical-instruments-and-magnification-item1",
+  "conceptId": "optical-instruments-and-magnification",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A lens produces an image with magnification −3. What does the negative sign tell you, separately from the number 3?",
+    "et": "Lääts tekitab kujutise suurendusega −3. Mida ütleb miinusmärk, eraldi arvust 3?",
+    "sourceHash": "282fbc5c6cc856c9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The image is inverted relative to the object — the sign carries orientation, the magnitude carries size",
+        "et": "Kujutis on keha suhtes ümberpööratud — märk kannab orientatsiooni, absoluutväärtus suurust",
+        "sourceHash": "88c09a11ffe4410e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The image is smaller than the object",
+        "et": "Kujutis on kehast väiksem",
+        "sourceHash": "bc87645d9bcf944c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-instruments-and-magnification-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The lens is defective and no real image can form",
+        "et": "Lääts on defektne ja reaalne kujutis ei saa tekkida",
+        "sourceHash": "5f48f0b11d2285da",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-instruments-and-magnification-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The object is on the wrong side of the lens",
+        "et": "Keha on läätse valel poolel",
+        "sourceHash": "e86e8cadb73c9fe1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-instruments-and-magnification-m1"
+    }
+  ]
+}

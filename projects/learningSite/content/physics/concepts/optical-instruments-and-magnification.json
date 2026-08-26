@@ -1,0 +1,21 @@
+{
+  "id": "optical-instruments-and-magnification",
+  "subject": "physics",
+  "level": "L2",
+  "module": "optics",
+  "title": {
+    "en": "Optical instruments and magnification",
+    "et": "Optilised seadmed ja suurendus",
+    "sourceHash": "96192d790a24a93f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Magnification compares the size of an image to the size of the object producing it, and a negative value signals an inverted image — combining lenses in instruments like microscopes and telescopes multiplies each stage's magnification to reach far higher total magnification than any single lens could give alone.",
+    "et": "Suurendus võrdleb kujutise suurust seda tekitava keha suurusega ning negatiivne väärtus näitab ümberpööratud kujutist — läätsede kombineerimine seadmetes nagu mikroskoop ja teleskoop korrutab iga astme suurenduse, saavutades palju suurema kogusuurenduse kui ükski üksik lääts eraldi suudaks anda.",
+    "sourceHash": "84d92d20895da28c",
+    "stale": false
+  },
+  "prerequisites": [
+    "lenses-and-focal-length"
+  ]
+}

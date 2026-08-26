@@ -1,0 +1,27 @@
+Magnification, m = −dᵢ/dₒ, compares an image's height to the object's height,
+and it packs two separate pieces of information into one signed number. The
+magnitude tells you the size ratio: |m| > 1 means the image is larger than the
+object, |m| < 1 means smaller. The sign tells you orientation, completely
+independently of size: negative means the image is inverted (upside down
+relative to the object), positive means upright. A magnification of −3 and a
+magnification of −0.3 are both inverted; only the first is also enlarged.
+Reading "negative" as "smaller" conflates two properties the formula
+deliberately keeps separate.
+
+Real optical instruments rarely rely on a single lens, because a single lens
+has practical limits on how much it can enlarge before aberrations degrade
+the image. Combining two or more lenses lets an instrument reach far higher
+total magnification, and the combination rule is multiplicative rather than
+additive: the image formed by the first lens becomes the object for the
+second, so the overall magnification is the product of each stage's own
+magnification, m_total = m₁ × m₂ × …, not their sum. A microscope objective
+magnifying 10× feeding into an eyepiece magnifying 5× gives 50× total, not
+15×, because each stage multiplies whatever image it receives.
+
+This staged multiplication is exactly how a compound microscope achieves
+magnifications far beyond what any single lens could manage on its own, and
+it is the same principle behind a refracting telescope's objective-and-eyepiece
+combination. What differs between the two kinds of instrument is mainly what
+they are optimised for — a microscope for viewing something small up close, a
+telescope for viewing something enormous but extremely far away — but the
+multiplicative combination of lens stages is common to both.

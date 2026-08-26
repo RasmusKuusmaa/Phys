@@ -1,0 +1,38 @@
+{
+  "id": "magnification-solve-m-errors",
+  "formulaId": "magnification-formula",
+  "solveFor": "m",
+  "mistakes": [
+    {
+      "id": "forgot-negative-sign",
+      "description": {
+        "en": "Omitted the negative sign, reporting the ratio as always positive.",
+        "et": "Jättis miinusmärgi välja, esitades suhte alati positiivsena.",
+        "sourceHash": "ff4e8d7ca964ab09",
+        "stale": false
+      },
+      "expression": "di/do",
+      "misconceptionId": "optical-instruments-and-magnification-m1"
+    },
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided object distance by image distance instead of the reverse.",
+        "et": "Jagas keha kauguse kujutise kaugusega, selle asemel et teha vastupidi.",
+        "sourceHash": "0eacbc3c67fe1aed",
+        "stale": false
+      },
+      "expression": "-do/di"
+    },
+    {
+      "id": "squared-ratio",
+      "description": {
+        "en": "Squared the distance ratio instead of using it directly.",
+        "et": "Tõstis kauguste suhte ruutu, selle asemel et kasutada seda otse.",
+        "sourceHash": "75a08e28df51f54a",
+        "stale": false
+      },
+      "expression": "-(di/do)^2"
+    }
+  ]
+}

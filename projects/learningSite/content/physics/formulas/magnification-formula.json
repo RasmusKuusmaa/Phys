@@ -1,0 +1,45 @@
+{
+  "id": "magnification-formula",
+  "conceptId": "optical-instruments-and-magnification",
+  "latex": "m = -\\frac{d_i}{d_o}",
+  "symbols": [
+    {
+      "symbol": "m",
+      "name": {
+        "en": "magnification",
+        "et": "suurendus",
+        "sourceHash": "a0696cb7b5cc05b5",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "di",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "do",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "m",
+    "di"
+  ],
+  "expressions": {
+    "m": "-di/do",
+    "di": "-m*do"
+  }
+}

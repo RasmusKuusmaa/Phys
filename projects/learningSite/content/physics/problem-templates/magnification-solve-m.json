@@ -1,0 +1,33 @@
+{
+  "id": "magnification-solve-m",
+  "formulaId": "magnification-formula",
+  "variables": [
+    {
+      "symbol": "di",
+      "min": 0.01,
+      "max": 5,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "do",
+      "min": 0.01,
+      "max": 5,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "di",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "do",
+      "right": 0
+    }
+  ],
+  "solveFor": "m"
+}
