@@ -147,7 +147,15 @@
     "quantum-tunneling",
     "spin-and-angular-momentum-in-quantum-mechanics",
     "the-hydrogen-atom-and-atomic-structure",
-    "wavefunctions-and-probability"
+    "wavefunctions-and-probability",
+    "de-broglie-wavelength",
+    "the-schrodinger-equation",
+    "operators-and-observables",
+    "expectation-values-and-measurement",
+    "potential-steps-and-finite-wells",
+    "the-quantum-harmonic-oscillator",
+    "quantum-numbers-and-atomic-orbitals",
+    "the-pauli-exclusion-principle"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"

@@ -57,7 +57,12 @@
     "length-contraction",
     "postulates-of-special-relativity",
     "relativistic-momentum-and-energy",
-    "time-dilation"
+    "time-dilation",
+    "relativity-of-simultaneity",
+    "lorentz-transformations",
+    "relativistic-velocity-addition",
+    "spacetime-and-four-vectors",
+    "the-relativistic-doppler-effect"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"

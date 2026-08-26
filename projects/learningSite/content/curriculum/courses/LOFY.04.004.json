@@ -120,7 +120,8 @@
     "laws-of-thermodynamics",
     "statistical-definition-of-entropy",
     "the-carnot-cycle-and-heat-engines",
-    "the-maxwell-boltzmann-distribution"
+    "the-maxwell-boltzmann-distribution",
+    "quantum-statistics-fermi-dirac-and-bose-einstein"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"
