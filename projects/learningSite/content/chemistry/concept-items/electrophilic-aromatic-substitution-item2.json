@@ -1,0 +1,56 @@
+{
+  "id": "electrophilic-aromatic-substitution-item2",
+  "conceptId": "electrophilic-aromatic-substitution",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the final step of the electrophilic aromatic substitution mechanism, after the electrophile has attacked the ring to form a cationic intermediate?",
+    "et": "Milline on elektrofiilse aromaatse asendusreaktsiooni mehhanismi viimane samm pärast seda, kui elektrofiil on ründanud ringi, moodustades katioonse vaheühendi?",
+    "sourceHash": "0aab8685f04eae51",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A base removes a proton from the carbon bonded to the electrophile, restoring the ring's full delocalised aromatic system",
+        "et": "Alus eemaldab prootoni elektrofiiliga seotud süsinikult, taastades ringi täieliku delokaliseeritud aromaatse süsteemi",
+        "sourceHash": "4111c8520d43587e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A second electrophile adds to the same carbon, forming a new double bond",
+        "et": "Teine elektrofiil lisandub samale süsinikule, moodustades uue kaksiksideme",
+        "sourceHash": "494faf5ebdc49053",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrophilic-aromatic-substitution-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The entire ring structure collapses and reforms as a non-aromatic chain",
+        "et": "Kogu ringistruktuur variseb kokku ja moodustub uuesti mitte-aromaatse ahelana",
+        "sourceHash": "ad660c94f90bed44",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrophilic-aromatic-substitution-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing further happens; the cationic intermediate is itself the final, stable product",
+        "et": "Midagi rohkem ei juhtu; katioonne vaheühend ongi ise lõplik, stabiilne saadus",
+        "sourceHash": "5338de6090656038",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrophilic-aromatic-substitution-m1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "electrophilic-aromatic-substitution",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "organic-chemistry",
+  "title": {
+    "en": "Electrophilic aromatic substitution",
+    "et": "Elektrofiilne aromaatne asendusreaktsioon",
+    "sourceHash": "f51cd4aa2febe17f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Benzene's delocalised ring of electrons reacts with electrophiles by substitution rather than addition, because the intermediate formed by attack keeps a partial ring and the final step re-forms the aromatic system by losing a proton rather than gaining a second group, preserving the large stabilisation energy that addition would otherwise destroy.",
+    "et": "Benseeni delokaliseeritud elektronide ring reageerib elektrofiilidega asenduse, mitte liitumise teel, kuna rünnakust tekkiv vaheühend säilitab osalise ringi ja viimane samm taastab aromaatse süsteemi prootoni kaotamise, mitte teise rühma lisamise teel, säilitades suure stabilisatsioonienergia, mille liitumine muidu hävitaks.",
+    "sourceHash": "6680fd0bb22bb92f",
+    "stale": false
+  },
+  "prerequisites": [
+    "aromaticity",
+    "addition-reactions-of-alkenes-and-alkynes"
+  ]
+}

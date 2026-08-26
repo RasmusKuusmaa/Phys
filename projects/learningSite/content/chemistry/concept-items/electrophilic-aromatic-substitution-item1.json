@@ -1,0 +1,56 @@
+{
+  "id": "electrophilic-aromatic-substitution-item1",
+  "conceptId": "electrophilic-aromatic-substitution",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Bromine (Br2) adds readily across an ordinary alkene's double bond, but reacts with benzene (in the presence of a catalyst) by substitution rather than addition. Why does benzene behave differently?",
+    "et": "Broom (Br2) liitub kergesti tavalise alkeeni kaksiksidemele, kuid reageerib benseeniga (katalüsaatori juuresolekul) asenduse, mitte liitumise teel. Miks käitub benseen erinevalt?",
+    "sourceHash": "c2b09ec3445247ef",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Addition would break benzene's delocalised aromatic ring, destroying its large stabilisation energy; substitution instead regenerates the aromatic ring by losing a proton",
+        "et": "Liitumine lõhuks benseeni delokaliseeritud aromaatse ringi, hävitades selle suure stabilisatsioonienergia; asendus taastab selle asemel aromaatse ringi, kaotades prootoni",
+        "sourceHash": "72934987e3e75a94",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Benzene actually cannot react with bromine at all, under any conditions",
+        "et": "Benseen ei saa tegelikult üldse broomiga reageerida, mitte mingite tingimuste juures",
+        "sourceHash": "82776256067d7754",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrophilic-aromatic-substitution-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Benzene's ring has no pi electrons available to attract an electrophile in the first place",
+        "et": "Benseeni ringil pole üldse pi-elektrone, mis elektrofiili ligi tõmbaksid",
+        "sourceHash": "ff9480e73b1b2ccd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrophilic-aromatic-substitution-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Substitution and addition are chemically identical processes for benzene, just given different names",
+        "et": "Asendus ja liitumine on benseeni jaoks keemiliselt identsed protsessid, millele on lihtsalt antud erinevad nimed",
+        "sourceHash": "c38f22d904ac37e0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrophilic-aromatic-substitution-m1"
+    }
+  ]
+}
