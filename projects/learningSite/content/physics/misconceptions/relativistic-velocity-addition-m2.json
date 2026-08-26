@@ -1,0 +1,10 @@
+{
+  "id": "relativistic-velocity-addition-m2",
+  "conceptId": "relativistic-velocity-addition",
+  "text": {
+    "en": "Adding two velocities that are each close to the speed of light can produce a combined velocity greater than the speed of light.",
+    "et": "Kahe valguse kiirusele lähedase kiiruse liitmine võib anda kombineeritud kiiruse, mis on suurem kui valguse kiirus.",
+    "sourceHash": "8eb1ec7a2a46935e",
+    "stale": false
+  }
+}

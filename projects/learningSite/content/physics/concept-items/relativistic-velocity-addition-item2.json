@@ -1,0 +1,56 @@
+{
+  "id": "relativistic-velocity-addition-item2",
+  "conceptId": "relativistic-velocity-addition",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the relativistic velocity-addition formula guarantee that combining two sub-light speeds never exceeds the speed of light?",
+    "et": "Miks tagab relativistlik kiiruste liitmise valem, et kahe alavalguskiiruse liitmine ei ületa kunagi valguse kiirust?",
+    "sourceHash": "1fd1504f29e052a2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The denominator 1 + uv/c² grows precisely enough as u and v approach c to suppress the result below c",
+        "et": "Nimetaja 1 + uv/c² kasvab täpselt piisavalt, kui u ja v lähenevad c-le, et suruda tulemus alla c",
+        "sourceHash": "b6330e09478858a5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The formula simply forbids any combination that would exceed c by fiat, without a mathematical mechanism",
+        "et": "Valem lihtsalt keelab iga kombinatsiooni, mis ületaks c, ilma matemaatilise mehhanismita",
+        "sourceHash": "fd9ae7a3d44d5ed4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-velocity-addition-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It does not actually guarantee this; exceeding c is mathematically possible with the right speeds",
+        "et": "See ei taga seda tegelikult; c ületamine on õigete kiiruste korral matemaatiliselt võimalik",
+        "sourceHash": "a98184a3c705be91",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-velocity-addition-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The formula only applies below 0.5c, so combinations above that speed are undefined",
+        "et": "Valem kehtib ainult allpool 0,5c, seega on kombinatsioonid sellest kiirusest kõrgemal määramata",
+        "sourceHash": "1340af71cf01b219",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-velocity-addition-m1"
+    }
+  ]
+}

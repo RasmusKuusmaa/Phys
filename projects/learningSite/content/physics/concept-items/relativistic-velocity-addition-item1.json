@@ -1,0 +1,56 @@
+{
+  "id": "relativistic-velocity-addition-item1",
+  "conceptId": "relativistic-velocity-addition",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A spaceship moving at 0.9c relative to Earth fires a probe forward at 0.9c relative to the spaceship. What does relativistic velocity addition predict for the probe's speed relative to Earth?",
+    "et": "Maa suhtes 0,9c kiirusel liikuv kosmoselaev laseb sondi Maa suunas 0,9c kiirusel laeva suhtes. Mida ennustab relativistlik kiiruste liitmine sondi kiiruse kohta Maa suhtes?",
+    "sourceHash": "5d49d3ecc7a373e2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A speed still less than c, specifically less than the naive classical sum of 1.8c",
+        "et": "Kiirus, mis on ikka väiksem kui c, täpsemalt väiksem klassikalisest naiivsest summast 1,8c",
+        "sourceHash": "4e64be1d4477ff7b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Exactly 1.8c, obtained by simply adding the two speeds as in classical mechanics",
+        "et": "Täpselt 1,8c, saadud kahe kiiruse lihtsal liitmisel nagu klassikalises mehaanikas",
+        "sourceHash": "7df7bec73acdbc5c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-velocity-addition-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Exactly c, regardless of the speeds of the ship and the probe",
+        "et": "Täpselt c, sõltumata laeva ja sondi kiirustest",
+        "sourceHash": "ce2cc128fd2e349f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-velocity-addition-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The probe would actually be observed moving backward relative to Earth",
+        "et": "Sondi täheldataks tegelikult Maa suhtes tagurpidi liikumas",
+        "sourceHash": "718937688fa98410",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "relativistic-velocity-addition-m1"
+    }
+  ]
+}

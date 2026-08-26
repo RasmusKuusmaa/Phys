@@ -1,0 +1,21 @@
+{
+  "id": "relativistic-velocity-addition",
+  "subject": "physics",
+  "level": "L3",
+  "module": "special-relativity",
+  "title": {
+    "en": "Relativistic velocity addition",
+    "et": "Relativistlik kiiruste liitmine",
+    "sourceHash": "d9295cf08c19a917",
+    "stale": false
+  },
+  "summary": {
+    "en": "Velocities in special relativity do not add the way classical intuition suggests — the relativistic velocity-addition formula u' = (u + v)/(1 + uv/c²) replaces simple addition and guarantees that combining any two speeds each less than c always yields a result still less than c, with the speed of light itself unchanged by any addition.",
+    "et": "Kiirused erirelatiivsusteoorias ei liitu nii, nagu klassikaline intuitsioon soovitab — relativistliku kiiruste liitmise valem u' = (u + v)/(1 + uv/c²) asendab lihtsa liitmise ja tagab, et mis tahes kahe c-st väiksema kiiruse liitmine annab alati tulemuse, mis on ikka c-st väiksem, samal ajal kui valguse kiirus ise jääb ühestki liitmisest muutumatuks.",
+    "sourceHash": "e6e3bba0f44858e7",
+    "stale": false
+  },
+  "prerequisites": [
+    "lorentz-transformations"
+  ]
+}
