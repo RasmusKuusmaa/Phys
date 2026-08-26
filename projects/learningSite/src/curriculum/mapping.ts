@@ -503,6 +503,10 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
   "LTFY.02.002": [
     "classes-of-materials",
     "structure-property-relationships",
+    "polymers-and-polymerisation",
+    "composite-materials-and-microstructure",
+    "semiconductors-and-doping",
+    "mechanical-deformation-elasticity-and-plasticity",
   ],
   // LTFY.02.016 Uurimismeetodid materjaliteaduses — diffraction, microscopy, spectroscopy.
   "LTFY.02.016": [

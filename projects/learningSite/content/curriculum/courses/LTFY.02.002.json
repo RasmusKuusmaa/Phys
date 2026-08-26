@@ -38,7 +38,11 @@
   ],
   "conceptIds": [
     "classes-of-materials",
-    "structure-property-relationships"
+    "structure-property-relationships",
+    "polymers-and-polymerisation",
+    "composite-materials-and-microstructure",
+    "semiconductors-and-doping",
+    "mechanical-deformation-elasticity-and-plasticity"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience1.md"

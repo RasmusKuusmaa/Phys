@@ -1038,8 +1038,10 @@ follows both.
       amorphous solids/liquid crystals, plus existing bonding, structure-
       property and crystal/band-theory concepts
   `content: add structure and properties of matter concepts`
-- [ ] Author classes of materials and their technologies for `LTFY.02.002`
-      (12 EAP — the single largest course in the degree)
+- [x] Author classes of materials and their technologies for `LTFY.02.002`
+      (12 EAP — the single largest course in the degree) — added polymers
+      and polymerisation concept, mapped alongside composites, deformation,
+      semiconductors and the existing survey concepts
   `content: add materials classes concepts`
 - [ ] Author research methods for `LTFY.02.016` — diffraction, microscopy,
       spectroscopy, thermal analysis
