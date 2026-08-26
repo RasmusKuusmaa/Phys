@@ -792,19 +792,19 @@ alongside the existing `modern-physics`.
 Modules `fluid-mechanics` and `measurement`. Depends on Phase 11b's fluids
 concepts being finished first.
 
-- [ ] `surface-tension-and-capillarity` (L2) — prereq `pressure-in-fluids`
+- [x] `surface-tension-and-capillarity` (L2) — prereq `pressure-in-fluids`
   `content: add surface tension concept`
-- [ ] `drag-and-terminal-velocity` (L2) — prereq `newtons-second-law`,
+- [x] `drag-and-terminal-velocity` (L2) — prereq `newtons-second-law`,
       `viscosity-and-poiseuille-flow`
   `content: add drag and terminal velocity concept`
-- [ ] `reynolds-number-and-turbulence` (L3) — prereq `viscosity-and-poiseuille-flow`
+- [x] `reynolds-number-and-turbulence` (L3) — prereq `viscosity-and-poiseuille-flow`
   `content: add reynolds number concept`
-- [ ] `graphing-and-linearisation-of-data` (L2, measurement) — prereq `uncertainty-and-error`
+- [x] `graphing-and-linearisation-of-data` (L2, measurement) — prereq `uncertainty-and-error`
   `content: add data linearisation concept`
-- [ ] `least-squares-fitting-and-linear-regression` (L3, measurement) — prereq
+- [x] `least-squares-fitting-and-linear-regression` (L3, measurement) — prereq
       `graphing-and-linearisation-of-data`
   `content: add least squares fitting concept`
-- [ ] `statistical-distributions-in-measurement` (L3, measurement) — prereq
+- [x] `statistical-distributions-in-measurement` (L3, measurement) — prereq
       `combining-uncertainties`
   `content: add statistical distributions concept`
 
