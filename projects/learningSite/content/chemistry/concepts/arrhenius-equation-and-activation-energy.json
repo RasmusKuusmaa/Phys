@@ -1,0 +1,21 @@
+{
+  "id": "arrhenius-equation-and-activation-energy",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "physical-chemistry",
+  "title": {
+    "en": "Arrhenius equation and activation energy",
+    "et": "Arrheniuse võrrand ja aktivatsioonienergia",
+    "sourceHash": "aa6a56264e718f37",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Arrhenius equation, k = A·e^(−Ea/RT), captures why reaction rates rise sharply with temperature: only molecules colliding with kinetic energy above the activation energy Ea can react, and the exponentially growing fraction of molecules meeting that threshold as temperature rises is what drives the rate constant's strong temperature dependence.",
+    "et": "Arrheniuse võrrand, k = A·e^(−Ea/RT), tabab, miks reaktsioonikiirused kasvavad temperatuuriga järsult: ainult molekulid, mis põrkuvad kineetilise energiaga üle aktivatsioonienergia Ea, saavad reageerida, ja eksponentsiaalselt kasvav osa molekulidest, mis seda lävendit temperatuuri tõustes täidavad, ongi see, mis juhib kiiruskonstandi tugevat temperatuurisõltuvust.",
+    "sourceHash": "bff4d4491a801d1e",
+    "stale": false
+  },
+  "prerequisites": [
+    "reaction-rate-laws-and-order"
+  ]
+}

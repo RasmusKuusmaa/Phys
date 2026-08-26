@@ -1,0 +1,56 @@
+{
+  "id": "arrhenius-equation-and-activation-energy-item1",
+  "conceptId": "arrhenius-equation-and-activation-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a reaction's rate typically increase sharply — often roughly doubling — for every 10°C rise in temperature, even though molecular collision frequency only increases modestly over that same range?",
+    "et": "Miks reaktsiooni kiirus tavaliselt kasvab järsult — sageli ligikaudu kahekordistudes — iga 10°C temperatuuritõusu kohta, kuigi molekulide põrkesagedus kasvab samas vahemikus ainult tagasihoidlikult?",
+    "sourceHash": "167c3709692be573",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The fraction of molecular collisions with enough energy to exceed the activation energy grows exponentially with temperature, far outpacing the modest increase in collision frequency",
+        "et": "Molekulide põrgete osakaal, millel on piisavalt energiat aktivatsioonienergia ületamiseks, kasvab temperatuuriga eksponentsiaalselt, ületades kaugelt tagasihoidliku põrkesageduse kasvu",
+        "sourceHash": "c7a6b141608b10cb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Temperature has no real effect on reaction rate; any apparent increase is measurement error",
+        "et": "Temperatuuril pole reaktsiooni kiirusele tegelikku mõju; iga näiline kasv on mõõtemääramatus",
+        "sourceHash": "f4b4f24d62317746",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "arrhenius-equation-and-activation-energy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Higher temperature simply increases the concentration of the reactants, which alone explains the rate increase",
+        "et": "Kõrgem temperatuur lihtsalt suurendab lähteainete kontsentratsiooni, mis üksi seletab kiiruse kasvu",
+        "sourceHash": "9bd5c17fc84ce0a4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "arrhenius-equation-and-activation-energy-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The activation energy itself decreases as temperature rises, which is why the rate increases",
+        "et": "Aktivatsioonienergia ise väheneb temperatuuri tõustes, mis on põhjus, miks kiirus kasvab",
+        "sourceHash": "1bc49a3273c8c877",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "arrhenius-equation-and-activation-energy-m1"
+    }
+  ]
+}

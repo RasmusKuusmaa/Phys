@@ -1,0 +1,56 @@
+{
+  "id": "arrhenius-equation-and-activation-energy-item2",
+  "conceptId": "arrhenius-equation-and-activation-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the activation energy, Ea, in the Arrhenius equation physically represent?",
+    "et": "Mida Arrheniuse võrrandi aktivatsioonienergia, Ea, füüsikaliselt esindab?",
+    "sourceHash": "02e026d86ba6a6e3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The minimum kinetic energy that colliding molecules must have for a reaction to occur upon collision",
+        "et": "Minimaalset kineetilist energiat, mis põrkuvatel molekulidel peab olema, et reaktsioon põrke tagajärjel toimuks",
+        "sourceHash": "d0a5f6fe2e334092",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The total energy difference between the reactants and the products",
+        "et": "Koguenergia erinevust lähteainete ja saaduste vahel",
+        "sourceHash": "a08bfdf8778865d6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "arrhenius-equation-and-activation-energy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The energy released by the reaction once it has occurred",
+        "et": "Reaktsiooni poolt vabastatud energiat pärast selle toimumist",
+        "sourceHash": "5bd071737efedb2b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "arrhenius-equation-and-activation-energy-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The energy required to separate the reactant molecules to an infinite distance",
+        "et": "Energiat, mis on vajalik lähteainete molekulide eraldamiseks lõpmatule kaugusele",
+        "sourceHash": "8243255c2ded15b8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "arrhenius-equation-and-activation-energy-m1"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Reaction rates are strikingly sensitive to temperature — a common
+rule-of-thumb estimate is that many reaction rates roughly double for every
+10°C rise, a far larger effect than can be explained by the modest increase
+in how often molecules collide as they move faster at higher temperature.
+The Arrhenius equation, k = A·e^(−Ea/RT), explains this sensitivity by
+identifying its real source: not collision frequency, but the fraction of
+those collisions energetic enough to actually react.
+
+Collision theory holds that a reaction between two molecules can occur only
+if they collide with the correct orientation and with combined kinetic
+energy exceeding a threshold called the activation energy, Ea — a minimum
+energy required to distort and partially break existing bonds on the way to
+forming new ones, corresponding to the energy needed to reach the
+transition state, the highest-energy configuration along the reaction
+pathway. Even at a fixed temperature, molecules in a gas or liquid have a
+spread of kinetic energies (described by the Maxwell-Boltzmann
+distribution), and only the high-energy tail of that distribution, the
+fraction of molecules with energy above Ea, is actually capable of
+reacting on collision.
+
+This is exactly where the exponential term in the Arrhenius equation comes
+from: the Boltzmann factor, e^(−Ea/RT), gives the fraction of molecules
+with energy at least Ea at absolute temperature T, and this fraction grows
+exponentially, not linearly, as temperature rises — a modest temperature
+increase can substantially enlarge the high-energy tail of the distribution
+even though the average molecular speed increases only modestly. The
+pre-exponential factor A accounts for how often molecules collide with the
+correct orientation, a comparatively weak, roughly temperature-independent
+contribution by comparison. Because Ea sits in the exponent, reactions with
+a large activation energy are far more temperature-sensitive than those
+with a small one — a useful practical consequence is that plotting the
+natural logarithm of measured rate constants against 1/T gives a straight
+line (ln k = ln A − Ea/RT), from which both the activation energy and the
+pre-exponential factor can be extracted experimentally, without needing any
+prior theoretical knowledge of the reaction mechanism.
