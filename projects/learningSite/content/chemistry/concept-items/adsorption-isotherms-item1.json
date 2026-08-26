@@ -1,0 +1,56 @@
+{
+  "id": "adsorption-isotherms-item1",
+  "conceptId": "adsorption-isotherms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "As gas pressure above a solid adsorbent is increased, surface coverage rises but eventually levels off at a maximum value rather than continuing to increase indefinitely. What does the Langmuir model say explains this levelling off?",
+    "et": "Kui gaasirõhku tahke adsorbendi kohal suurendatakse, tõuseb pinnakattuvus, kuid lõpuks tasandub see maksimumväärtuse juures, selle asemel et jätkuvalt piiramatult kasvada. Mida Langmuiri mudel selle tasandumise kohta ütleb?",
+    "sourceHash": "8baf1e5c6125bb2e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The surface has a finite number of identical adsorption sites, and coverage saturates once essentially all sites are occupied",
+        "et": "Pinnal on piiratud arv identseid adsorptsioonisaite ja kattuvus satureerub, kui sisuliselt kõik saidid on hõivatud",
+        "sourceHash": "b60879fc5944c143",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Gas molecules stop existing once pressure gets high enough",
+        "et": "Gaasimolekulid lakkavad eksisteerimast, kui rõhk saab piisavalt kõrgeks",
+        "sourceHash": "cb8f2e3232991c66",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adsorption-isotherms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The solid surface physically shrinks as more gas molecules approach it",
+        "et": "Tahke pind kahaneb füüsiliselt, kui rohkem gaasimolekule sellele lähenevad",
+        "sourceHash": "bee0b34a5824456e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adsorption-isotherms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Coverage should in fact increase without limit, and any observed levelling off indicates a measurement error",
+        "et": "Kattuvus peaks tegelikult piiramatult kasvama ja iga vaadeldud tasandumine näitab mõõteviga",
+        "sourceHash": "3470687280f59b3f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adsorption-isotherms-m1"
+    }
+  ]
+}

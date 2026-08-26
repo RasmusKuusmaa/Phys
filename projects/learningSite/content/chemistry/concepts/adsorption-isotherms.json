@@ -1,0 +1,21 @@
+{
+  "id": "adsorption-isotherms",
+  "subject": "chemistry",
+  "level": "L3",
+  "module": "physical-chemistry",
+  "title": {
+    "en": "Adsorption isotherms",
+    "et": "Adsorptsiooniisotermid",
+    "sourceHash": "3ee2a65eec510509",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Langmuir isotherm models adsorption of a gas onto a solid surface as a dynamic equilibrium between molecules sticking to and leaving a finite number of identical surface sites, predicting that surface coverage rises linearly with pressure at low pressure but saturates as every site fills at high pressure, unlike the unbounded, ever-increasing coverage a simple proportional model would wrongly predict.",
+    "et": "Langmuiri isoterm modelleerib gaasi adsorptsiooni tahke pinna külge dünaamilise tasakaaluna molekulide kinnitumise ja lõpliku arvu identsete pinnasaitide vahel lahkumise vahel, ennustades, et pinnakattuvus kasvab madala rõhu juures rõhuga lineaarselt, kuid saturub kõrge rõhu juures, kui iga sait on täidetud, erinevalt piiramatust, pidevalt kasvavast kattuvusest, mida lihtne proportsionaalne mudel ekslikult ennustaks.",
+    "sourceHash": "85f9cad4a5270337",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-equilibrium"
+  ]
+}

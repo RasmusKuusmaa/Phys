@@ -1,0 +1,56 @@
+{
+  "id": "adsorption-isotherms-item2",
+  "conceptId": "adsorption-isotherms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The Langmuir isotherm treats adsorption as a dynamic equilibrium rather than a one-way process. What does this mean physically?",
+    "et": "Langmuiri isoterm käsitleb adsorptsiooni dünaamilise tasakaaluna, mitte ühesuunalise protsessina. Mida see füüsikaliselt tähendab?",
+    "sourceHash": "9d402982261bb6cc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "At equilibrium, molecules are continuously both adsorbing onto and desorbing from the surface, with the two rates equal",
+        "et": "Tasakaalus adsorbeeruvad molekulid pidevalt nii pinnale kui desorbeeruvad sealt, kusjuures kaks kiirust on võrdsed",
+        "sourceHash": "a87f30273c9bcd68",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Once a molecule adsorbs onto the surface, it can never leave again under any circumstances",
+        "et": "Kui molekul on kord pinnale adsorbeerunud, ei saa see enam kunagi mitte mingil tingimusel lahkuda",
+        "sourceHash": "d1ec34d44e93ab8d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adsorption-isotherms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Adsorption and desorption are unrelated processes that never occur at the same time",
+        "et": "Adsorptsioon ja desorptsioon on mitteseotud protsessid, mis ei toimu kunagi samal ajal",
+        "sourceHash": "e5b8eecff0775599",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adsorption-isotherms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Dynamic equilibrium in this context means the surface itself is physically moving",
+        "et": "Dünaamiline tasakaal tähendab selles kontekstis, et pind ise füüsiliselt liigub",
+        "sourceHash": "51fb44f2eea102d6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adsorption-isotherms-m1"
+    }
+  ]
+}

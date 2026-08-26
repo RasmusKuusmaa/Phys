@@ -1,0 +1,10 @@
+{
+  "id": "adsorption-isotherms-m1",
+  "conceptId": "adsorption-isotherms",
+  "text": {
+    "en": "Surface coverage in adsorption keeps increasing proportionally with gas pressure without any upper limit.",
+    "et": "Pinnakattuvus adsorptsioonis jätkab kasvamist proportsionaalselt gaasirõhuga ilma igasuguse ülempiirita.",
+    "sourceHash": "318f3b8a1fd6f58b",
+    "stale": false
+  }
+}

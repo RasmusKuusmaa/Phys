@@ -1,0 +1,10 @@
+{
+  "id": "adsorption-isotherms-m3",
+  "conceptId": "adsorption-isotherms",
+  "text": {
+    "en": "Adsorption is a one-way, irreversible process, with no molecules ever leaving the surface once they attach.",
+    "et": "Adsorptsioon on ühesuunaline, pöördumatu protsess, kus ükski molekul ei lahku pinnalt kunagi pärast kinnitumist.",
+    "sourceHash": "77457efacd94eae2",
+    "stale": false
+  }
+}
