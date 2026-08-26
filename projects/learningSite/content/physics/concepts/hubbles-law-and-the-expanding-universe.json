@@ -1,0 +1,21 @@
+{
+  "id": "hubbles-law-and-the-expanding-universe",
+  "subject": "physics",
+  "level": "L2",
+  "module": "astrophysics",
+  "title": {
+    "en": "Hubble's law and the expanding universe",
+    "et": "Hubble'i seadus ja paisuv universum",
+    "sourceHash": "0fb735035d5a9505",
+    "stale": false
+  },
+  "summary": {
+    "en": "Nearly every distant galaxy shows its light redshifted, and the redshift grows in direct proportion to distance (Hubble's law), a pattern that is not galaxies flying apart through static space but space itself expanding uniformly everywhere, stretching the wavelength of light in transit and carrying distant galaxies away from every observer faster the farther away they are.",
+    "et": "Peaaegu iga kauge galaktika näitab oma valguse punanihkes, ja punanihe kasvab otseses võrdelisuses kaugusega (Hubble'i seadus), muster, mis ei ole galaktikate laialilendamine läbi staatilise ruumi, vaid ruumi enda ühtlane paisumine kõikjal, mis venitab valguse lainepikkust läbimise ajal ja kannab kaugeid galaktikaid igast vaatlejast eemale seda kiiremini, mida kaugemal need on.",
+    "sourceHash": "ce1f09fd75b9099f",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-doppler-effect"
+  ]
+}

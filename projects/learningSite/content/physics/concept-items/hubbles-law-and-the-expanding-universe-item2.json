@@ -1,0 +1,56 @@
+{
+  "id": "hubbles-law-and-the-expanding-universe-item2",
+  "conceptId": "hubbles-law-and-the-expanding-universe",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The expansion of the universe is often described as 'space itself expanding' rather than 'galaxies flying apart through fixed space.' Why does this distinction matter for understanding why every distant galaxy appears to recede from us?",
+    "et": "Universumi paisumist kirjeldatakse sageli kui 'ruumi enda paisumist', mitte kui 'galaktikate laialilendamist läbi fikseeritud ruumi.' Miks on see erisus oluline mõistmaks, miks iga kauge galaktika näib meist eemalduvat?",
+    "sourceHash": "95db5307a6040332",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "If space itself expands uniformly everywhere, every observer anywhere sees every sufficiently distant galaxy receding, with no special centre or privileged location required",
+        "et": "Kui ruum ise paisub ühtlaselt kõikjal, näeb iga vaatleja ükskõik kus iga piisavalt kauget galaktikat eemaldumas, ilma eriliste keskpunktide või eelisõigustatud asukohtadeta",
+        "sourceHash": "f9eca2a3386bccdd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The distinction is purely semantic and has no actual consequence for what observers see",
+        "et": "Erisus on puhtalt semantiline ja sellel puudub tegelik tagajärg selle kohta, mida vaatlejad näevad",
+        "sourceHash": "b8b84efd18ecd379",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hubbles-law-and-the-expanding-universe-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only observers located at the exact centre of the universe would see galaxies receding under either description",
+        "et": "Ainult universumi täpses keskpunktis asuvad vaatlejad näeksid kummagi kirjelduse all galaktikaid eemaldumas",
+        "sourceHash": "976e16909bbc7a3b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hubbles-law-and-the-expanding-universe-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Space expanding and galaxies flying apart through fixed space would produce identical redshift patterns for every observer, so the distinction is irrelevant to Hubble's law",
+        "et": "Ruumi paisumine ja galaktikate laialilendamine läbi fikseeritud ruumi tekitaksid iga vaatleja jaoks identsed punanihke mustrid, seega on erisus Hubble'i seaduse jaoks ebaoluline",
+        "sourceHash": "1c185be4092e66a2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hubbles-law-and-the-expanding-universe-m1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "hubbles-law-and-the-expanding-universe-item1",
+  "conceptId": "hubbles-law-and-the-expanding-universe",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Edwin Hubble found that a distant galaxy's redshift is directly proportional to its distance from us — a galaxy twice as far away shows roughly twice the redshift. What does this proportionality indicate?",
+    "et": "Edwin Hubble leidis, et kauge galaktika punanihe on otseses võrdelisuses tema kaugusega meist — kaks korda kaugemal olev galaktika näitab ligikaudu kaks korda suuremat punanihet. Mida see võrdelisus näitab?",
+    "sourceHash": "d6fa0adfb3017b04",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Space itself is expanding uniformly everywhere, so more distant galaxies recede faster simply because there is more expanding space between them and us",
+        "et": "Ruum ise paisub ühtlaselt kõikjal, seega kaugemad galaktikad eemalduvad kiiremini lihtsalt sellepärast, et nende ja meie vahel on rohkem paisuvat ruumi",
+        "sourceHash": "4bb516bc6a788a51",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "More distant galaxies are somehow intrinsically different objects, unrelated in kind to nearby galaxies",
+        "et": "Kaugemad galaktikad on kuidagi olemuslikult erinevad objektid, liigilt seosetud lähedaste galaktikatega",
+        "sourceHash": "0d8d3d3cdd0ef9f2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hubbles-law-and-the-expanding-universe-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The proportionality is a coincidence with no connection to the universe's overall structure or history",
+        "et": "Võrdelisus on kokkusattumus, ilma seoseta universumi üldise struktuuri või ajalooga",
+        "sourceHash": "f58b93d69d522859",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hubbles-law-and-the-expanding-universe-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Distant galaxies are moving toward us, not away, and the redshift indicates approach rather than recession",
+        "et": "Kauged galaktikad liiguvad meie poole, mitte eemale, ja punanihe näitab lähenemist, mitte eemaldumist",
+        "sourceHash": "decf33cd1034aba3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hubbles-law-and-the-expanding-universe-m1"
+    }
+  ]
+}
