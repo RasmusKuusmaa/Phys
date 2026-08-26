@@ -1,0 +1,56 @@
+{
+  "id": "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution-item2",
+  "conceptId": "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Acid chlorides react with nucleophiles far faster than amides do, even though both share the same basic carbonyl-plus-leaving-group structure. What explains this large difference in reactivity?",
+    "et": "Happekloriidid reageerivad nukleofiilidega palju kiiremini kui amiidid, kuigi mõlemal on sama põhistruktuur karbonüül-pluss-lahkuv-rühm. Mis seletab seda suurt reaktiivsuse erinevust?",
+    "sourceHash": "67a87d2ac46412e1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Chloride is a much better (more stable, more easily expelled) leaving group than the nitrogen-based leaving group in an amide",
+        "et": "Kloriid on palju parem (stabiilsem, kergemini väljutatav) lahkuv rühm kui amiidi lämmastikupõhine lahkuv rühm",
+        "sourceHash": "a71ca0b575015734",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Acid chlorides and amides are actually equally reactive, and any apparent difference is experimental error",
+        "et": "Happekloriidid ja amiidid on tegelikult võrdselt reaktiivsed ja iga näiline erinevus on eksperimentaalne viga",
+        "sourceHash": "4fe097eeae364778",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Amides have no carbonyl group at all, unlike acid chlorides",
+        "et": "Amiididel puudub üldse karbonüülrühm, erinevalt happekloriididest",
+        "sourceHash": "b0a86e37b1666c92",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Reactivity differences among carboxylic acid derivatives depend only on molecular weight, not on the leaving group",
+        "et": "Reaktiivsuse erinevused karboksüülhappe derivaatide seas sõltuvad ainult molekulmassist, mitte lahkuvast rühmast",
+        "sourceHash": "85091ac3338c9bce",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution-m1"
+    }
+  ]
+}

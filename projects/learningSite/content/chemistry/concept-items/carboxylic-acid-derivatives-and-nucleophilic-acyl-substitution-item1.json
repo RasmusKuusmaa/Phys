@@ -1,0 +1,56 @@
+{
+  "id": "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution-item1",
+  "conceptId": "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A nucleophile attacks the carbonyl carbon of an acid chloride, forming a tetrahedral intermediate. What happens next that does not happen with a simple ketone?",
+    "et": "Nukleofiil ründab happekloriidi karbonüülsüsinikku, moodustades tetraeedrilise vaheühendi. Mis juhtub edasi, mida ei juhtu lihtsa ketooniga?",
+    "sourceHash": "bc5f6f1a41033aa9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The chloride leaving group is expelled from the tetrahedral intermediate, reforming the carbonyl and completing a net substitution",
+        "et": "Kloriid-lahkuv rühm väljutatakse tetraeedrilisest vaheühendist, taastades karbonüüli ja lõpetades netoasenduse",
+        "sourceHash": "8728de6df6a11589",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing further happens; the tetrahedral intermediate is the final stable product",
+        "et": "Midagi edasi ei juhtu; tetraeedriline vaheühend on lõplik stabiilne saadus",
+        "sourceHash": "5144e3507e513fbd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A second identical nucleophile immediately attacks the same carbon again",
+        "et": "Teine identne nukleofiil ründab kohe uuesti sama süsinikku",
+        "sourceHash": "a99b7b0eaf0b3e49",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The entire molecule spontaneously decomposes into its constituent atoms",
+        "et": "Kogu molekul laguneb spontaanselt oma koostisaatomiteks",
+        "sourceHash": "895e1234ee10f3a2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution-m1"
+    }
+  ]
+}

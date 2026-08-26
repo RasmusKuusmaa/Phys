@@ -1,0 +1,21 @@
+{
+  "id": "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "organic-chemistry",
+  "title": {
+    "en": "Carboxylic acid derivatives and nucleophilic acyl substitution",
+    "et": "Karboksüülhappe derivaadid ja nukleofiilne atsüülasendus",
+    "sourceHash": "84e257c73fc950c7",
+    "stale": false
+  },
+  "summary": {
+    "en": "Carboxylic acid derivatives (acid chlorides, anhydrides, esters, and amides) share a carbonyl carbon bonded to a leaving group, and a nucleophile attacking that carbon forms the same tetrahedral intermediate seen in simple carbonyl addition, except the leaving group is then expelled to restore the carbonyl — an addition-elimination sequence whose overall rate is set by how good a leaving group each derivative carries.",
+    "et": "Karboksüülhappe derivaadid (happekloriidid, anhüdriidid, estrid ja amiidid) jagavad karbonüülsüsinikku, mis on seotud lahkuva rühmaga, ja nukleofiili rünnak sellele süsinikule moodustab sama tetraeedrilise vaheühendi, mida näeb lihtsas karbonüüli liitumises, ainult et lahkuv rühm seejärel väljutatakse, taastades karbonüüli — liitumine-elimineerimise jada, mille kogukiiruse määrab see, kui hea lahkuv rühm igal derivaadil on.",
+    "sourceHash": "0e688bd69ed924be",
+    "stale": false
+  },
+  "prerequisites": [
+    "carbonyl-chemistry-and-nucleophilic-addition"
+  ]
+}
