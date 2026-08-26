@@ -271,6 +271,24 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ mass: 1, length: 1, time: -2, current: -2 }),
     toBase: 1,
   },
+  "Pa*s": {
+    symbol: "Pa*s",
+    name: { en: "pascal-second", et: "paskalsekund" },
+    dimension: dim({ mass: 1, length: -1, time: -1 }),
+    toBase: 1,
+  },
+  "m^3/s": {
+    symbol: "m^3/s",
+    name: { en: "cubic metre per second", et: "kuupmeeter sekundis" },
+    dimension: dim({ length: 3, time: -1 }),
+    toBase: 1,
+  },
+  "1/m": {
+    symbol: "1/m",
+    name: { en: "per metre", et: "meetri kohta" },
+    dimension: dim({ length: -1 }),
+    toBase: 1,
+  },
 };
 
 export function getUnit(symbol: string): UnitDefinition {
