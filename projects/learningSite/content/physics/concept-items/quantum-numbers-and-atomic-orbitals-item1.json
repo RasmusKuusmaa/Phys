@@ -1,0 +1,56 @@
+{
+  "id": "quantum-numbers-and-atomic-orbitals-item1",
+  "conceptId": "quantum-numbers-and-atomic-orbitals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does an atomic 'orbital' actually represent, as opposed to the older Bohr picture of an electron orbit?",
+    "et": "Mida aatomi 'orbitaal' tegelikult esindab, erinevalt vanemast Bohri pildist elektroni orbiidist?",
+    "sourceHash": "ffe11170fad4f6e9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A wavefunction whose squared magnitude gives the probability density of finding the electron at each point in space",
+        "et": "Lainefunktsiooni, mille absoluutväärtuse ruut annab tõenäosustiheduse elektroni leidmiseks igas ruumipunktis",
+        "sourceHash": "35ca3882ea5121c8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A fixed circular or elliptical path that the electron physically travels along at all times",
+        "et": "Kindla ringja või elliptilise trajektoori, mida elektron pidevalt füüsiliselt läbib",
+        "sourceHash": "3ec9b241253c0769",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-numbers-and-atomic-orbitals-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A literal physical shell made of solid material surrounding the nucleus",
+        "et": "Sõna otseses mõttes füüsilise, tuuma ümbritseva tahke materjali kesta",
+        "sourceHash": "a1db820084bc51a1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-numbers-and-atomic-orbitals-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A region where the electron is completely absent at all times",
+        "et": "Piirkonda, kus elektron on igal ajahetkel täielikult puudu",
+        "sourceHash": "aab316857563e851",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-numbers-and-atomic-orbitals-m1"
+    }
+  ]
+}

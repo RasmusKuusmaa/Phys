@@ -1,0 +1,22 @@
+{
+  "id": "quantum-numbers-and-atomic-orbitals",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Quantum numbers and atomic orbitals",
+    "et": "Kvantarvud ja aatomorbitaalid",
+    "sourceHash": "7dac3f7da344bfb8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Solving the Schrödinger equation for an electron in a hydrogen-like atom produces wavefunctions — orbitals — labelled by a discrete set of quantum numbers (n, l, ml, ms) that together fix the electron's energy, its orbital angular momentum and shape, and its spin, replacing the classical picture of an electron on a definite orbit with a three-dimensional probability cloud.",
+    "et": "Schrödingeri võrrandi lahendamine elektroni jaoks vesinikusarnases aatomis annab lainefunktsioonid — orbitaalid —, mis on märgistatud diskreetse kvantarvude hulgaga (n, l, ml, ms), mis koos määravad elektroni energia, tema orbitaalse impulsimomendi ja kuju ning tema spinni, asendades klassikalise pildi elektronist kindlal orbiidil kolmemõõtmelise tõenäosuspilvega.",
+    "sourceHash": "0e0efae7a42f6611",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schrodinger-equation",
+    "operators-and-observables"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "quantum-numbers-and-atomic-orbitals-item2",
+  "conceptId": "quantum-numbers-and-atomic-orbitals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How many quantum numbers are needed to fully specify a single electron's state in an atom, including its spin?",
+    "et": "Mitu kvantarvu on vaja, et täielikult määrata ühe elektroni olek aatomis, sealhulgas tema spinn?",
+    "sourceHash": "c5f1221a20fec4ca",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Four: the principal, orbital angular momentum, magnetic, and spin quantum numbers",
+        "et": "Neli: peakvantarv, orbitaalne impulsimomendi kvantarv, magnetiline kvantarv ja spinnikvantarv",
+        "sourceHash": "05c1c6f7e42a23bf",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "One: the principal quantum number n alone fully determines the electron's state",
+        "et": "Üks: ainult peakvantarv n määrab täielikult elektroni oleku",
+        "sourceHash": "0977790a2ac36684",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-numbers-and-atomic-orbitals-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Two: only the principal quantum number and the spin quantum number are needed",
+        "et": "Kaks: vajalikud on ainult peakvantarv ja spinnikvantarv",
+        "sourceHash": "8926d0e543b5d313",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-numbers-and-atomic-orbitals-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "None: an electron's state in an atom cannot be specified by quantum numbers at all",
+        "et": "Mitte ühtegi: elektroni olekut aatomis ei saa kvantarvudega üldse määrata",
+        "sourceHash": "2b8e5f85e497380f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-numbers-and-atomic-orbitals-m1"
+    }
+  ]
+}
