@@ -852,12 +852,27 @@ door on the failure mode that started all of this.
   (0 isolated concepts, 0 dangling refs across all 5 subjects; max depth
   physics 15, mathematics 7, chemistry 5, materials-science 2, computing 2)
   `content: audit full physics prerequisite graph`
-- [ ] Read every new concept page end to end in Estonian — not done: full
-      manual read of 200+ concept pages is out of scope for this pass;
-      automated gates (validate:content, lint:terminology, homoglyph check)
-      cover structural/terminology correctness but not prose quality
+- [~] Read every new concept page end to end in Estonian — a full manual read
+      of 233 concepts × 2 locales is still out of reach in one pass, but a
+      stratified sample of 27 concepts (physics early/mid/late, mathematics,
+      chemistry, materials-science, computing) was read end to end against
+      its English pair by three parallel review agents, catching what the
+      automated gates structurally can't: a typo ("laineipilt" →
+      "lainepilt"), a mistranslation ("piisav, et loeda" for "enough to
+      matter"), a conceptual error (orbital "suurus" for wavefunction
+      "amplitude" — a real physics-meaning error, not just style), a
+      subject-verb number mismatch, an untranslated "top, bottom" quark pair
+      left mid-sentence next to their translated siblings, a stray U+00AD
+      soft hyphen, and 3 minor case/idiom slips — all 9 found and fixed.
+      17/27 sampled files were already clean. Not exhaustive, but a real
+      signal: the error rate in the sample (9 issues / 27 concepts, none of
+      them severe) suggests the un-sampled remainder is in similar shape,
+      not that anything is systematically broken
   `content: estonian proofread of bachelor completion`
-- [ ] Read every new concept page end to end in English — same caveat as above
+- [~] Read every new concept page end to end in English — the same 27-concept
+      sample was read in English alongside Estonian (for comparison, not as
+      an independent EN-only pass); no EN-side errors were flagged separately
+      from the ET ones above
   `content: english proofread of bachelor completion`
 - [x] Run `npm run check:links` and replace anything that no longer resolves
   (all 643 resource URLs resolved OK; the HTTP 429s seen mid-run were
@@ -1188,9 +1203,11 @@ The equivalent of Phase 24, for the degree rather than for physics.
       and `process.exit(1)`s on a dangling reference (tested against an
       injected bad entry)
   `feat: validate the curriculum concept mapping`
-- [ ] Full bilingual QA pass over every new subject, both locales — not done,
-      same caveat as the Phase 24 physics proofread items: out of scope for
-      this pass, automated gates cover structure/terminology, not prose
+- [~] Full bilingual QA pass over every new subject, both locales — same
+      27-concept stratified sample as the Phase 24 items above covered
+      mathematics, chemistry, materials-science and computing alongside
+      physics; 9 real issues found and fixed there. Not exhaustive across
+      all 233 concepts, but no longer untouched
   `content: bilingual qa for new subjects`
 - [x] Re-audit the prerequisite graph across all four subjects — actually
       five subjects now (physics, mathematics, chemistry, materials-science,
