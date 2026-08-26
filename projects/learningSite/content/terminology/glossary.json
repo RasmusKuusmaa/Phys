@@ -91,6 +91,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/aatomituum/1/est"
   },
   {
+    "id": "atomic-orbital",
+    "en": "atomic orbital",
+    "et": "orbitaal",
+    "domain": "quantum-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/orbitaal/1/est"
+  },
+  {
     "id": "boltzmann-distribution",
     "en": "Boltzmann distribution",
     "et": "Boltzmanni jaotus",
@@ -621,6 +628,13 @@
     "et": "olekusumma",
     "domain": "statistical-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/olekusumma/1/est"
+  },
+  {
+    "id": "pauli-exclusion-principle",
+    "en": "Pauli exclusion principle",
+    "et": "Pauli keeluprintsiip",
+    "domain": "quantum-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/keeluprintsiip/1/est"
   },
   {
     "id": "period",
