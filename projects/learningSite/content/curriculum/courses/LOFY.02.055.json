@@ -32,7 +32,8 @@
     "phase-transitions",
     "specific-heat-capacity",
     "thermal-expansion",
-    "work-and-energy"
+    "work-and-energy",
+    "mechanical-deformation-elasticity-and-plasticity"
   ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience2.md"

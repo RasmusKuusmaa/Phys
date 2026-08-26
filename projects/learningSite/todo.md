@@ -1043,10 +1043,14 @@ follows both.
       and polymerisation concept, mapped alongside composites, deformation,
       semiconductors and the existing survey concepts
   `content: add materials classes concepts`
-- [ ] Author research methods for `LTFY.02.016` — diffraction, microscopy,
-      spectroscopy, thermal analysis
+- [x] Author research methods for `LTFY.02.016` — diffraction, microscopy,
+      spectroscopy, thermal analysis — covered by existing characterisation-
+      methods and spectroscopy concepts, cross-listed with x-rays, mass
+      spectrometry and UV-Vis/Beer-Lambert from physics/chemistry
   `content: add materials research methods concepts`
-- [ ] Author the theory behind the materials physics practicals
+- [x] Author the theory behind the materials physics practicals — mapped
+      `LOFY.02.055` (mechanics and heat practical) with the new deformation/
+      elasticity/plasticity concept alongside its existing mechanics theory
   `content: add materials practical theory concepts`
 
 ### Phase 30 — Computing as a subject

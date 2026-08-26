@@ -54,7 +54,10 @@
   ],
   "conceptIds": [
     "characterisation-methods",
-    "spectroscopy"
+    "spectroscopy",
+    "x-rays-and-their-production",
+    "mass-spectrometry",
+    "uv-vis-spectroscopy-and-the-beer-lambert-law"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience1.md"

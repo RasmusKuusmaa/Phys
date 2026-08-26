@@ -512,6 +512,9 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
   "LTFY.02.016": [
     "characterisation-methods",
     "spectroscopy",
+    "x-rays-and-their-production",
+    "mass-spectrometry",
+    "uv-vis-spectroscopy-and-the-beer-lambert-law",
   ],
   "LTFY.01.004": [
     "centre-of-mass",
@@ -562,6 +565,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "specific-heat-capacity",
     "thermal-expansion",
     "work-and-energy",
+    "mechanical-deformation-elasticity-and-plasticity",
   ],};
 
 /** Every concept referenced by any course, for separating covered from enrichment. */
