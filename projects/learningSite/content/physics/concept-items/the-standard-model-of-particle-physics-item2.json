@@ -1,0 +1,56 @@
+{
+  "id": "the-standard-model-of-particle-physics-item2",
+  "conceptId": "the-standard-model-of-particle-physics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which fundamental force is notably absent from the Standard Model's description of force-carrying particles?",
+    "et": "Milline fundamentaalne jõud on silmatorkavalt puudu standardmudeli jõudu kandvate osakeste kirjeldusest?",
+    "sourceHash": "37c4eaf70d74c569",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Gravity, which has no confirmed force-carrying boson within the Standard Model",
+        "et": "Gravitatsioon, millel puudub standardmudelis kinnitatud jõudu kandev boson",
+        "sourceHash": "35213834b449fc34",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The strong nuclear force, which the Standard Model does not describe at all",
+        "et": "Tugev tuumajõud, mida standardmudel üldse ei kirjelda",
+        "sourceHash": "9b219d7e116efc2c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-standard-model-of-particle-physics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The electromagnetic force, which has no known carrier particle",
+        "et": "Elektromagnetiline jõud, millel puudub teadaolev kandeosake",
+        "sourceHash": "2c4fda5f014496a4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-standard-model-of-particle-physics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The weak nuclear force, which is identical to gravity in the Standard Model",
+        "et": "Nõrk tuumajõud, mis on standardmudelis identne gravitatsiooniga",
+        "sourceHash": "22866514022de69c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-standard-model-of-particle-physics-m1"
+    }
+  ]
+}

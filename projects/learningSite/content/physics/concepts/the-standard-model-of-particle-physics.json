@@ -1,0 +1,22 @@
+{
+  "id": "the-standard-model-of-particle-physics",
+  "subject": "physics",
+  "level": "L3",
+  "module": "particle-physics",
+  "title": {
+    "en": "The Standard Model of particle physics",
+    "et": "Osakestefüüsika standardmudel",
+    "sourceHash": "31dde2b0fb540a50",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Standard Model classifies all known elementary particles into matter particles (quarks and leptons, both fermions) and force-carrying particles (bosons, one for each of the electromagnetic, weak, and strong interactions), explaining ordinary matter as built from just a handful of truly fundamental building blocks rather than the many hundreds of composite particles once thought equally fundamental.",
+    "et": "Standardmudel klassifitseerib kõik teadaolevad elementaarosakesed ainet moodustavateks osakesteks (kvargid ja leptonid, mõlemad fermionid) ja jõudu kandvateks osakesteks (bosonid, üks igale elektromagnetilisele, nõrgale ja tugevale vastastikmõjule), selgitades tavalist ainet ehitatuna vaid käputäiest tõeliselt fundamentaalsetest ehituskividest, mitte sadadest liitosakesest, mida kunagi peeti võrdselt fundamentaalseks.",
+    "sourceHash": "80bcbd72dba1c522",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-binding-energy",
+    "spin-and-angular-momentum-in-quantum-mechanics"
+  ]
+}

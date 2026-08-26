@@ -1,0 +1,56 @@
+{
+  "id": "the-standard-model-of-particle-physics-item1",
+  "conceptId": "the-standard-model-of-particle-physics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "According to the Standard Model, what are protons and neutrons actually made of?",
+    "et": "Mida standardmudeli järgi prootonid ja neutronid tegelikult koosnevad?",
+    "sourceHash": "c5ccdf0f1961c426",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Composite particles (hadrons) built from combinations of quarks bound by the strong force",
+        "et": "Liitosakesed (hadronid), mis on ehitatud kvarkide kombinatsioonidest, mida seob tugev jõud",
+        "sourceHash": "a20b17c0d7404a74",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Fundamental, indivisible particles with no internal structure at all",
+        "et": "Fundamentaalsed, jagamatud osakesed, millel puudub üldse sisemine struktuur",
+        "sourceHash": "455e02c141fb0fe3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-standard-model-of-particle-physics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Leptons, exactly the same category of particle as the electron",
+        "et": "Leptonid, täpselt sama osakeste kategooria mis elekron",
+        "sourceHash": "1d9851375e03ee4c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-standard-model-of-particle-physics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Force-carrying boson particles, exactly like photons",
+        "et": "Jõudu kandvad boson-osakesed, täpselt nagu footonid",
+        "sourceHash": "bc681eb90c438957",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-standard-model-of-particle-physics-m1"
+    }
+  ]
+}
