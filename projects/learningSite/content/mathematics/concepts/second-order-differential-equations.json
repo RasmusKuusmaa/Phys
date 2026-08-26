@@ -1,0 +1,21 @@
+{
+  "id": "second-order-differential-equations",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "differential-equations",
+  "title": {
+    "en": "Second-order differential equations",
+    "et": "Teist järku diferentsiaalvõrrandid",
+    "sourceHash": "cc6880528c25733b",
+    "stale": false
+  },
+  "summary": {
+    "en": "A linear second-order differential equation with constant coefficients is solved by substituting a trial exponential solution, turning the differential equation into an algebraic characteristic equation whose roots determine whether the general solution is a sum of real exponentials, a single repeated exponential times a polynomial factor, or an oscillating exponential — exactly the mathematics behind damped and driven oscillators in physics.",
+    "et": "Konstantsete kordajatega lineaarne teist järku diferentsiaalvõrrand lahendatakse, asendades katselise eksponentsiaalse lahendi, muutes diferentsiaalvõrrandi algebraliseks karakteristlikuks võrrandiks, mille juured määravad, kas üldlahend on reaalsete eksponentide summa, üksik korduv eksponent korrutatuna polünoomteguriga, või võnkuv eksponent — täpselt see matemaatika, mis on füüsikas summutatud ja sundvõnkumiste taga.",
+    "sourceHash": "2fcf083da8b52542",
+    "stale": false
+  },
+  "prerequisites": [
+    "first-order-differential-equations"
+  ]
+}

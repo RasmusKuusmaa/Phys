@@ -1,0 +1,56 @@
+{
+  "id": "second-order-differential-equations-item2",
+  "conceptId": "second-order-differential-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Substituting a trial solution y = e^(rx) into a linear second-order differential equation with constant coefficients produces a characteristic equation with complex conjugate roots. What does this indicate about the general solution?",
+    "et": "Katselahendi y = e^(rx) asendamine konstantsete kordajatega lineaarsesse teist järku diferentsiaalvõrrandisse annab karakteristliku võrrandi kompleksarv-kaasjuurtega. Mida see üldlahendi kohta näitab?",
+    "sourceHash": "dfe81d256263dbbd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The general solution is a real-valued oscillating function, an exponential envelope multiplied by sine and cosine terms",
+        "et": "Üldlahend on reaalväärtuseline võnkuv funktsioon, eksponentsiaalne ümbris korrutatuna siinuse ja koosinuse liikmetega",
+        "sourceHash": "f37aea596f4465a2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The equation has no real-valued solution at all in this case",
+        "et": "Sel juhul pole võrrandil üldse reaalväärtuselist lahendit",
+        "sourceHash": "ecfc780b310fcb96",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "second-order-differential-equations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The general solution is a sum of two distinct real exponential functions",
+        "et": "Üldlahend on kahe erineva reaalse eksponentsiaalfunktsiooni summa",
+        "sourceHash": "e79935aefbaf44fd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "second-order-differential-equations-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The general solution must be a polynomial of degree two",
+        "et": "Üldlahend peab olema teist astet polünoom",
+        "sourceHash": "a192cf75d168635f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "second-order-differential-equations-m1"
+    }
+  ]
+}

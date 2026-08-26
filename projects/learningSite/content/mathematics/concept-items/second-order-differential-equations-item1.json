@@ -1,0 +1,56 @@
+{
+  "id": "second-order-differential-equations-item1",
+  "conceptId": "second-order-differential-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How many arbitrary constants does the general solution to a linear second-order differential equation require, and why?",
+    "et": "Mitu suvalist konstanti vajab lineaarse teist järku diferentsiaalvõrrandi üldlahend ja miks?",
+    "sourceHash": "936f692b7eb90afc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Two, matching the equation's order — enough to satisfy two initial or boundary conditions, such as an initial position and an initial velocity",
+        "et": "Kaks, vastavuses võrrandi järguga — piisavalt, et rahuldada kaks algtingimust või rajatingimust, näiteks algasukoht ja algkiirus",
+        "sourceHash": "1d391e61e1a666ed",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "One, exactly as for a first-order differential equation, regardless of the equation's order",
+        "et": "Üks, täpselt nagu esimest järku diferentsiaalvõrrandi puhul, sõltumata võrrandi järgust",
+        "sourceHash": "a05f7a0498e712ce",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "second-order-differential-equations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Zero, since a second-order equation always has a single unique solution with no free constants",
+        "et": "Null, kuna teist järku võrrandil on alati üksainus kordumatu lahend ilma vabade konstantideta",
+        "sourceHash": "69f5f64fe12cbd61",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "second-order-differential-equations-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "An unlimited number, since second-order equations have infinitely many independent solutions",
+        "et": "Piiramatu arv, kuna teist järku võrranditel on lõpmata palju sõltumatuid lahendeid",
+        "sourceHash": "5c9acb50baba161c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "second-order-differential-equations-m1"
+    }
+  ]
+}

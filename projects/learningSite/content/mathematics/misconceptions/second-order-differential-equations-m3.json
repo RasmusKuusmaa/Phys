@@ -1,0 +1,10 @@
+{
+  "id": "second-order-differential-equations-m3",
+  "conceptId": "second-order-differential-equations",
+  "text": {
+    "en": "Substituting a trial exponential solution into a linear differential equation is just a guess that happens to work for some equations, without a systematic reason.",
+    "et": "Katselise eksponentsiaalse lahendi asendamine lineaarsesse diferentsiaalvõrrandisse on lihtsalt oletus, mis mõne võrrandi jaoks juhtub toimima, ilma süstemaatilise põhjuseta.",
+    "sourceHash": "4df460be250beaa9",
+    "stale": false
+  }
+}

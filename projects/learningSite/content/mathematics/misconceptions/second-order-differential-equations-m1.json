@@ -1,0 +1,10 @@
+{
+  "id": "second-order-differential-equations-m1",
+  "conceptId": "second-order-differential-equations",
+  "text": {
+    "en": "The general solution to a second-order linear differential equation only ever needs one arbitrary constant, just like a first-order equation.",
+    "et": "Teist järku lineaarse diferentsiaalvõrrandi üldlahend vajab alati ainult ühte suvalist konstanti, täpselt nagu esimest järku võrrand.",
+    "sourceHash": "611787eb27eea8f4",
+    "stale": false
+  }
+}

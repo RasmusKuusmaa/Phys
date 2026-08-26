@@ -1,0 +1,33 @@
+Teist järku diferentsiaalvõrrand hõlmab funktsiooni teist tuletist ja
+kõige olulisem juhtum rakendustes on konstantsete kordajatega lineaarne
+võrrand, ay'' + by' + cy = 0, mis esineb läbivalt füüsikas võrrandina, mis
+reguleerib kõike alates vedru otsas olevast massist kuni RLC-elektriahelani.
+Selle süstemaatiline lahendamine algab katsega: oletame, et lahend on kujul
+y = e^(rx) mingi veel leidmata konstandi r jaoks. See ei ole eikusagilt
+võetud oletus — eksponendid on ainsad funktsioonid, mille tuletised on
+proportsionaalsed nende endaga, seega muudab selle katselahendi asendamine
+iga tuletise võrrandis r astmeks korrutatuna sama eksponentsiaalse teguriga,
+mille saab välja jagada, jättes puhta algebralise võrrandi r-i suhtes:
+ar² + br + c = 0, mida nimetatakse karakteristlikuks võrrandiks.
+
+Karakteristliku võrrandi juurte olemus määrab lahendi kogu kvalitatiivse
+käitumise ja on täpselt kolm juhtumit. Kui karakteristlikul võrrandil on kaks
+erinevat reaaljuurt r1 ja r2, on üldlahend kahe eksponendi summa,
+y = C1·e^(r1x) + C2·e^(r2x) — see on ülesummutatud juhtum füüsikalises
+ostsillaatoris, kus süsteem naaseb tasakaaluolekusse ilma võnkumata. Kui
+juured korduvad (üksainus reaaljuur r esineb kaks korda), on üldlahend
+y = (C1 + C2x)·e^(rx), kus lisategur x on vajalik täpselt sellepärast, et
+üksik eksponent üksi ei saa pakkuda vajalikku teist sõltumatut lahendit —
+see on kriitiliselt summutatud juhtum, kiireim võimalik tagasitulek
+tasakaaluolekusse ilma ületõmbumiseta. Kui juured on kompleksne kaasjuurte
+paar, α ± iβ, saab üldlahendi Euleri valemi abil ümber kirjutada puhtalt
+reaalsete liikmetega kujul y = e^(αx)(C1cos(βx) + C2sin(βx)) — võnkuva
+lahendina, mille amplituud kasvab või kahaneb eksponentsiaalselt sõltuvalt
+α märgist; see on alasummutatud juhtum, võnkumine eksponentsiaalselt
+kahaneva ümbrisega, ja taandub puhtaks summutamata võnkumiseks, kui α = 0.
+
+Igal juhul sisaldab üldlahend täpselt kahte suvalist konstanti, vastavuses
+võrrandi järguga — sama loenduspõhimõte nagu esimest järku võrrandi puhul,
+mis vajab ühte konstanti, nüüd kahekordistatuna, kuna kordumatu füüsikalise
+lahendi määramine (näiteks võnkuva massi liikumine) nõuab nii algasukoha kui
+algkiiruse fikseerimist, kahte sõltumatut infokildu.

@@ -1,0 +1,37 @@
+A second-order differential equation involves a function's second
+derivative, and the most important case in applications is the linear
+equation with constant coefficients, ay'' + by' + cy = 0, which shows up
+throughout physics as the equation governing everything from a mass on a
+spring to an RLC electrical circuit. Solving it systematically starts with a
+trial: suppose the solution has the form y = e^(rx) for some constant r yet
+to be found. This is not a guess pulled from nowhere — exponentials are the
+unique functions whose derivatives are proportional to themselves, so
+substituting this trial form turns every derivative in the equation into a
+power of r times the same exponential factor, which can be divided out,
+leaving a plain algebraic equation in r: ar² + br + c = 0, called the
+characteristic equation.
+
+The nature of the characteristic equation's roots determines the entire
+qualitative behaviour of the solution, and there are exactly three cases.
+If the characteristic equation has two distinct real roots r1 and r2, the
+general solution is a sum of two exponentials, y = C1·e^(r1x) + C2·e^(r2x) —
+this is the overdamped case in a physical oscillator, where the system
+returns to equilibrium without oscillating. If the roots are repeated (a
+single real root r appearing twice), the general solution is
+y = (C1 + C2x)·e^(rx), where the extra factor of x is required precisely
+because a single exponential alone cannot supply the second independent
+solution needed — this is the critically damped case, the fastest possible
+return to equilibrium without overshooting. If the roots are a complex
+conjugate pair, α ± iβ, the general solution can be rewritten, using Euler's
+formula, in purely real terms as y = e^(αx)(C1cos(βx) + C2sin(βx)) — an
+oscillating solution whose amplitude grows or decays exponentially depending
+on the sign of α; this is the underdamped case, oscillation with an
+exponentially decaying envelope, and reduces to pure undamped oscillation
+when α = 0.
+
+In every case, the general solution contains exactly two arbitrary
+constants, matching the equation's order — the same counting principle as
+for a first-order equation needing one constant, now doubled because
+specifying a unique physical solution (say, the motion of an oscillating
+mass) requires fixing both an initial position and an initial velocity, two
+independent pieces of information.

@@ -1,0 +1,10 @@
+{
+  "id": "second-order-differential-equations-m2",
+  "conceptId": "second-order-differential-equations",
+  "text": {
+    "en": "The characteristic equation's roots being complex means the differential equation has no real-valued solution at all.",
+    "et": "Karakteristliku võrrandi kompleksed juured tähendavad, et diferentsiaalvõrrandil pole üldse reaalväärtuselist lahendit.",
+    "sourceHash": "582acde74a8d5378",
+    "stale": false
+  }
+}
