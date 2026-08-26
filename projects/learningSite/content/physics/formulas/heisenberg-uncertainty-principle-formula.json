@@ -1,0 +1,35 @@
+{
+  "id": "heisenberg-uncertainty-principle-formula",
+  "conceptId": "heisenberg-uncertainty-principle",
+  "latex": "\\Delta x \\cdot \\Delta p = \\frac{\\hbar}{2}",
+  "symbols": [
+    {
+      "symbol": "dx",
+      "name": {
+        "en": "position uncertainty",
+        "et": "asukoha määramatus",
+        "sourceHash": "5bccaf98d00ede54",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "dp",
+      "name": {
+        "en": "momentum uncertainty",
+        "et": "impulsi määramatus",
+        "sourceHash": "79f9696f0d8dcf2f",
+        "stale": false
+      },
+      "unit": "kg*m/s"
+    }
+  ],
+  "solveFor": [
+    "dx",
+    "dp"
+  ],
+  "expressions": {
+    "dx": "0.00000000000000000000000000000000005272859085/dp",
+    "dp": "0.00000000000000000000000000000000005272859085/dx"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "heisenberg-uncertainty-principle-solve-dx",
+  "formulaId": "heisenberg-uncertainty-principle-formula",
+  "variables": [
+    {
+      "symbol": "dp",
+      "min": 1e-28,
+      "max": 1e-24,
+      "unit": "kg*m/s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "dp",
+      "right": 0
+    }
+  ],
+  "solveFor": "dx"
+}

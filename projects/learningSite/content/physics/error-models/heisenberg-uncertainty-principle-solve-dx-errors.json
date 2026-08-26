@@ -1,0 +1,27 @@
+{
+  "id": "heisenberg-uncertainty-principle-solve-dx-errors",
+  "formulaId": "heisenberg-uncertainty-principle-formula",
+  "solveFor": "dx",
+  "mistakes": [
+    {
+      "id": "forgot-half",
+      "description": {
+        "en": "Uses the full reduced Planck constant instead of half of it",
+        "et": "Kasutab täielikku redutseeritud Plancki konstanti selle poole asemel",
+        "sourceHash": "d1b7800509343f02",
+        "stale": false
+      },
+      "expression": "0.00000000000000000000000000000000010545718170/dp"
+    },
+    {
+      "id": "inverted",
+      "description": {
+        "en": "Multiplies instead of dividing by the momentum uncertainty",
+        "et": "Korrutab impulsi määramatusega jagamise asemel",
+        "sourceHash": "bc3b4e96299f18c8",
+        "stale": false
+      },
+      "expression": "0.00000000000000000000000000000000005272859085*dp"
+    }
+  ]
+}
