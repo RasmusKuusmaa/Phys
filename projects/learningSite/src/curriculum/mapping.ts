@@ -128,6 +128,12 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "voltage-and-resistance",
   ],
   "LOFY.01.008": [
+    "diffraction-gratings",
+    "dispersion-and-chromatic-effects",
+    "optical-instruments-and-magnification",
+    "optical-resolution-and-the-rayleigh-criterion",
+    "the-michelson-interferometer",
+    "thin-film-interference",
     "interference-and-diffraction",
     "lenses-and-focal-length",
     "polarization-of-light",
