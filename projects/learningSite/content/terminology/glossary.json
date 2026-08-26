@@ -602,6 +602,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/laser/1/est"
   },
   {
+    "id": "least-squares-method",
+    "en": "least squares method",
+    "et": "vähimruutude meetod",
+    "domain": "measurement",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/v%C3%A4himruutude%20meetod/1/est"
+  },
+  {
     "id": "length",
     "en": "length",
     "et": "pikkus",
@@ -635,6 +642,20 @@
     "et": "valgus",
     "domain": "optics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/valgus/1/est"
+  },
+  {
+    "id": "linear-regression",
+    "en": "linear regression",
+    "et": "lineaarne regressioon",
+    "domain": "measurement",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/lineaarne%20regressioon/1/est"
+  },
+  {
+    "id": "linearisation",
+    "en": "linearisation",
+    "et": "lineariseerimine",
+    "domain": "measurement",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/lineariseerimine/1/est"
   },
   {
     "id": "lorentz-transformation",
@@ -726,6 +747,13 @@
     "et": "impulss",
     "domain": "mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/impulss/1/est"
+  },
+  {
+    "id": "normal-distribution",
+    "en": "normal distribution",
+    "et": "normaaljaotus",
+    "domain": "measurement",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/normaaljaotus/1/est"
   },
   {
     "id": "nuclear-fission",
@@ -831,6 +859,13 @@
     "et": "tõenäosustihedus",
     "domain": "quantum-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/tõenäosustihedus/1/est"
+  },
+  {
+    "id": "probability-distribution",
+    "en": "probability distribution",
+    "et": "tõenäosusjaotus",
+    "domain": "measurement",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/t%C3%B5en%C3%A4osusjaotus/1/est"
   },
   {
     "id": "quantity",
