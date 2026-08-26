@@ -148,10 +148,8 @@ before a single concept can be authored.
   physically requires a lab. `npm run curriculum:coverage` counts a
   `praktikum` as covered on exactly this basis, and that basis should be
   stated next to the course, not left implicit, wherever a `praktikum`'s
-  coverage is displayed. The per-track curriculum browsing pages that would
-  show this to a learner directly (`todo.md` Phase 25: "Surface the
-  curriculum in the app") are not built yet — until they are, this file and
-  the CLI report are the only place this distinction is visible, so treat
-  this paragraph as the canonical definition to carry into that UI when it
-  is built, rather than silently rendering a `praktikum` with a plain
-  checkmark equivalent to a lecture course's.
+  coverage is displayed. `/[lang]/curriculum` (`todo.md` Phase 25) now shows
+  this live: a covered `praktikum` reads "Covered — Theory covered, bench
+  work needs a real lab" rather than a plain checkmark equivalent to a
+  lecture course's. This paragraph remains the canonical definition behind
+  that label.

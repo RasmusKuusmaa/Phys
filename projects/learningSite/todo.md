@@ -922,10 +922,16 @@ Two structural facts shape everything below:
 - [ ] Capture the missing syllabus for `LOKT.07.010` Foundations of chemistry —
       the only *required* course with no course page in the raw scrape
   `content: add missing syllabus for foundations of chemistry`
-- [ ] Surface the curriculum in the app: a per-track page showing modules,
-      courses, and which are covered, linking each course to its concepts
+- [x] Surface the curriculum in the app: a per-track page showing modules,
+      courses, and which are covered, linking each course to its concepts —
+      `/[lang]/curriculum?track=physics|chemistry|materials-science`, module
+      by module, each course showing status/EAP/coverage and its mapped
+      concept links; a `praktikum` course shows the "theory covered, not
+      bench work" caveat inline rather than a plain checkmark
   `feat: add curriculum pages per track`
-- [ ] Show on every concept page which courses it belongs to
+- [x] Show on every concept page which courses it belongs to — a "Part of
+      these UT courses" section links to `/curriculum?track=...#CODE`,
+      landing on the right track with the course scrolled into view
   `feat: show course membership on concept pages`
 
 ### Phase 26 — The shared spine (required of all three tracks)
@@ -1103,12 +1109,12 @@ real machine.
 Every `praktikum` in all three tracks. The deliverable is the theory, the
 measurement analysis and the write-up skills — not the bench work.
 
-- [~] Decide and document what "covered" means for a practical course, and show
-      it honestly on the course page rather than as a full tick — the
-      definition is written in `content/curriculum/README.md` (theory +
-      shared measurement/uncertainty skills, explicitly not bench technique);
-      "show it on the course page" is blocked on Phase 25's unbuilt curriculum
-      UI, so it currently lives only in the README and the CLI report
+- [x] Decide and document what "covered" means for a practical course, and show
+      it honestly on the course page rather than as a full tick — defined in
+      `content/curriculum/README.md` (theory + shared measurement/uncertainty
+      skills, explicitly not bench technique); now also shown live on
+      `/curriculum` — a `praktikum` row reads "Covered — Theory covered,
+      bench work needs a real lab" rather than a plain checkmark
   `docs: define coverage for practical courses`
 - [x] Cover measurement, uncertainty and data analysis as the shared basis —
       11 concepts in the `measurement` module already do this
