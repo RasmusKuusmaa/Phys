@@ -49,6 +49,17 @@ jobs:
       - name: Content validation
         run: npm run validate:content
 
+      - name: Content coverage gate
+        # content-coverage.ts always exits 0 by design (it's a report, not a
+        # gate) — validate:content is the real enforcement. This step adds a
+        # second, independent check: fail CI if any concept is INCOMPLETE.
+        run: |
+          npm run content:coverage -- --incomplete | tee /tmp/coverage-report.txt
+          if grep -q "INCOMPLETE" /tmp/coverage-report.txt; then
+            echo "::error::One or more concepts are incomplete — see report above."
+            exit 1
+          fi
+
       - name: Unit tests
         run: npm test -- --run
 
