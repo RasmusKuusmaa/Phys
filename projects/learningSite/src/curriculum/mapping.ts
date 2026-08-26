@@ -82,6 +82,9 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "interference-and-diffraction",
     "kinetic-theory-of-gases",
     "lagrangian-mechanics",
+    "surface-tension-and-capillarity",
+    "drag-and-terminal-velocity",
+    "reynolds-number-and-turbulence",
     "moment-of-inertia-and-rotational-dynamics",
     "momentum-and-impulse",
     "newtonian-gravitation",
@@ -229,6 +232,9 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "scalars-and-vectors",
     "significant-figures",
     "uncertainty-and-error",
+    "graphing-and-linearisation-of-data",
+    "least-squares-fitting-and-linear-regression",
+    "statistical-distributions-in-measurement",
   ],
   // MTMM.00.340 Kõrgem matemaatika I — vectors, complex numbers, single-variable
   // calculus, linear algebra and first-order ODEs, per its 32-topic syllabus.

@@ -105,7 +105,10 @@
     "propagation-of-uncertainty-in-functions",
     "scalars-and-vectors",
     "significant-figures",
-    "uncertainty-and-error"
+    "uncertainty-and-error",
+    "graphing-and-linearisation-of-data",
+    "least-squares-fitting-and-linear-regression",
+    "statistical-distributions-in-measurement"
   ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid1.md"
