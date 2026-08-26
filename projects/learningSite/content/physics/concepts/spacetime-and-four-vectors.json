@@ -1,0 +1,21 @@
+{
+  "id": "spacetime-and-four-vectors",
+  "subject": "physics",
+  "level": "L3",
+  "module": "special-relativity",
+  "title": {
+    "en": "Spacetime and four-vectors",
+    "et": "Aegruum ja neliktvektorid",
+    "sourceHash": "29c4225e0f06f290",
+    "stale": false
+  },
+  "summary": {
+    "en": "Special relativity is expressed most naturally by treating space and time together as a single four-dimensional spacetime and packaging an event's or a particle's properties into four-vectors, whose spacetime interval or invariant length stays the same for every inertial observer even though the individual space and time components each observer measures differ.",
+    "et": "Erirelatiivsusteooria väljendub kõige loomulikumalt, käsitledes ruumi ja aega koos ühtse neljamõõtmelise aegruumina ning pakkides sündmuse või osakese omadused neliktvektoritesse, mille aegruumi intervall ehk invariantne pikkus jääb samaks iga inertsiaalse vaatleja jaoks, kuigi iga vaatleja mõõdetud üksikud ruumi- ja ajakomponendid erinevad.",
+    "sourceHash": "c1c41cfb97ccde67",
+    "stale": false
+  },
+  "prerequisites": [
+    "lorentz-transformations"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "spacetime-and-four-vectors-m3",
+  "conceptId": "spacetime-and-four-vectors",
+  "text": {
+    "en": "A four-vector is simply an ordinary three-dimensional vector with an extra unrelated number attached for bookkeeping.",
+    "et": "Neliktvektor on lihtsalt tavaline kolmemõõtmeline vektor, millele on raamatupidamise huvides lisatud üks lisaarv, mis pole sellega seotud.",
+    "sourceHash": "5b16cef52991096a",
+    "stale": false
+  }
+}

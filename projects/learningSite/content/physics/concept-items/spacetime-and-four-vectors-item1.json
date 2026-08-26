@@ -1,0 +1,56 @@
+{
+  "id": "spacetime-and-four-vectors-item1",
+  "conceptId": "spacetime-and-four-vectors",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two different inertial observers measure the spatial and time separations between the same pair of events and get different numbers for each. What quantity do they nonetheless agree on?",
+    "et": "Kaks erinevat inertsiaalset vaatlejat mõõdavad sama sündmuste paari vahelisi ruumi- ja ajaeraldusi ning saavad kummagi kohta erinevad arvud. Millise suuruse osas on nad sellegipoolest ühel meelel?",
+    "sourceHash": "48652fc86bdd2047",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The spacetime interval between the two events, which is invariant across all inertial frames",
+        "et": "Aegruumi intervall kahe sündmuse vahel, mis on invariantne kõigis inertsiaalsetes taustsüsteemides",
+        "sourceHash": "cbfe48a8a70953ff",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Neither the space separation, the time separation, nor any combination of them agrees between observers",
+        "et": "Ei ruumi eraldus, aja eraldus ega ükski nende kombinatsioon ei lange vaatlejate vahel kokku",
+        "sourceHash": "80b1a8306544b678",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spacetime-and-four-vectors-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The individual spatial separation alone, exactly as measured by each observer",
+        "et": "Üksik ruumiline eraldus üksi, täpselt nii, nagu iga vaatleja selle mõõdab",
+        "sourceHash": "382b917a5cda02e5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spacetime-and-four-vectors-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The individual time separation alone, exactly as measured by each observer",
+        "et": "Üksik ajaline eraldus üksi, täpselt nii, nagu iga vaatleja selle mõõdab",
+        "sourceHash": "fa99736850f6ad3f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spacetime-and-four-vectors-m1"
+    }
+  ]
+}

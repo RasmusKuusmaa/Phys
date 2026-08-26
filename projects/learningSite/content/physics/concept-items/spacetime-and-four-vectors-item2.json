@@ -1,0 +1,56 @@
+{
+  "id": "spacetime-and-four-vectors-item2",
+  "conceptId": "spacetime-and-four-vectors",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the key advantage of packaging quantities like position-and-time or momentum-and-energy into a single four-vector?",
+    "et": "Milles seisneb peamine eelis, kui pakkida sellised suurused nagu asukoht-ja-aeg või impulss-ja-energia ühtsesse neliktvektorisse?",
+    "sourceHash": "462b100ebee38783",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The four-vector's invariant length is the same for every inertial observer, even though its individual components transform between frames",
+        "et": "Neliktvektori invariantne pikkus on sama iga inertsiaalse vaatleja jaoks, kuigi selle üksikud komponendid teisenevad taustsüsteemide vahel",
+        "sourceHash": "3234601b8168fd5e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It eliminates the need for the Lorentz transformations entirely",
+        "et": "See kõrvaldab täielikult vajaduse Lorentzi teisenduste järele",
+        "sourceHash": "565c4d59a39afbd6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spacetime-and-four-vectors-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It makes the individual space and time (or momentum and energy) components identical for all observers",
+        "et": "See muudab üksikud ruumi- ja ajakomponendid (või impulsi- ja energiakomponendid) kõigi vaatlejate jaoks identseks",
+        "sourceHash": "d2b29fb07edf45bd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spacetime-and-four-vectors-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It applies only to massless particles such as photons and not to massive objects",
+        "et": "See kehtib ainult massituute osakeste, näiteks footonite, mitte massiivsete objektide kohta",
+        "sourceHash": "5abfd18da09ae1be",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spacetime-and-four-vectors-m1"
+    }
+  ]
+}
