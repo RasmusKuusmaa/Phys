@@ -1,0 +1,56 @@
+{
+  "id": "the-schrodinger-equation-item2",
+  "conceptId": "the-schrodinger-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Solving the Schrödinger equation for a particle in a box gives several different allowed energy values, not one. What does this reflect?",
+    "et": "Schrödingeri võrrandi lahendamine karbis olevale osakesele annab mitu erinevat lubatud energiaväärtust, mitte ühe. Mida see kajastab?",
+    "sourceHash": "b6bbf436e6916d96",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Different solutions of the equation correspond to different quantum states the system can occupy, each with its own energy",
+        "et": "Võrrandi erinevad lahendid vastavad erinevatele kvantolekutele, mida süsteem võib hõivata, kummalgi oma energia",
+        "sourceHash": "0b2a82a7bb85551d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The equation has made an error, since a well-posed equation should give a unique answer",
+        "et": "Võrrand on teinud vea, sest hästipüstitatud võrrand peaks andma üheselt määratud vastuse",
+        "sourceHash": "06559d28ee6f961b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-schrodinger-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only one of the energies is physically real; the rest are mathematical artefacts",
+        "et": "Ainult üks energiatest on füüsikaliselt reaalne; ülejäänud on matemaatilised kõrvalsaadused",
+        "sourceHash": "d0e897e6f3873f12",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-schrodinger-equation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This behaviour is unique to the particle-in-a-box system and does not occur elsewhere",
+        "et": "See käitumine on ainuomane karbis oleva osakese süsteemile ega esine mujal",
+        "sourceHash": "31771e9da17bb311",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-schrodinger-equation-m1"
+    }
+  ]
+}

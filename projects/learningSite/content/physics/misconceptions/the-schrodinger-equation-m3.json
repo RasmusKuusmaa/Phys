@@ -1,0 +1,10 @@
+{
+  "id": "the-schrodinger-equation-m3",
+  "conceptId": "the-schrodinger-equation",
+  "text": {
+    "en": "The Schrödinger equation only applies to hydrogen-like atoms, not to other quantum systems.",
+    "et": "Schrödingeri võrrand kehtib ainult vesinikusarnaste aatomite, mitte teiste kvantsüsteemide kohta.",
+    "sourceHash": "bfb52cdb853fc022",
+    "stale": false
+  }
+}

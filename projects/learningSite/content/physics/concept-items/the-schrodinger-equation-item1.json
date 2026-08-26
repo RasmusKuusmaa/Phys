@@ -1,0 +1,56 @@
+{
+  "id": "the-schrodinger-equation-item1",
+  "conceptId": "the-schrodinger-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What role does the Schrödinger equation play in quantum mechanics, compared to Newton's second law in classical mechanics?",
+    "et": "Millist rolli mängib Schrödingeri võrrand kvantmehaanikas, võrreldes Newtoni teise seadusega klassikalises mehaanikas?",
+    "sourceHash": "6566a00b7fa52beb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It determines how the wavefunction evolves in time, given the forces acting on the system — the quantum analogue of F = ma",
+        "et": "See määrab, kuidas lainefunktsioon ajas areneb, kui on antud süsteemile mõjuvad jõud — F = ma kvantvaste",
+        "sourceHash": "a62de3519b076d5a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It directly predicts a particle's exact trajectory through space",
+        "et": "See ennustab otse osakese täpset trajektoori ruumis",
+        "sourceHash": "158add73edd11d24",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-schrodinger-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It applies only to hydrogen and no other physical system",
+        "et": "See kehtib ainult vesiniku, mitte ühegi teise füüsikalise süsteemi kohta",
+        "sourceHash": "9c43250a6cff42aa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-schrodinger-equation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It replaces the need for a wavefunction entirely",
+        "et": "See asendab täielikult lainefunktsiooni vajaduse",
+        "sourceHash": "01d3c55a0fe4d332",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-schrodinger-equation-m1"
+    }
+  ]
+}

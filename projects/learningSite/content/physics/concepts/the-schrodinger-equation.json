@@ -1,0 +1,21 @@
+{
+  "id": "the-schrodinger-equation",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "The Schrödinger equation",
+    "et": "Schrödingeri võrrand",
+    "sourceHash": "5e441e30c1d37346",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Schrödinger equation is the central equation of non-relativistic quantum mechanics, playing the same role for a wavefunction that Newton's second law plays for a classical trajectory — given the forces acting on a particle, it determines exactly how the wavefunction evolves in time.",
+    "et": "Schrödingeri võrrand on mittereativistliku kvantmehaanika keskne võrrand, mängides lainefunktsiooni jaoks sama rolli, mida Newtoni teine seadus mängib klassikalise trajektoori jaoks — osakesele mõjuvate jõudude korral määrab see täpselt, kuidas lainefunktsioon ajas areneb.",
+    "sourceHash": "a7b06ea5a6f38a06",
+    "stale": false
+  },
+  "prerequisites": [
+    "wavefunctions-and-probability"
+  ]
+}
