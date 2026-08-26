@@ -1,0 +1,56 @@
+{
+  "id": "operators-and-observables-item2",
+  "conceptId": "operators-and-observables",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A measurement of a particle's energy is performed. What values can the measurement actually return?",
+    "et": "Sooritatakse osakese energia mõõtmine. Milliseid väärtusi saab mõõtmine tegelikult tagastada?",
+    "sourceHash": "06453acd97e31eb8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Only the eigenvalues of the energy operator — a fixed, discrete or continuous set determined by the system",
+        "et": "Ainult energiaoperaatori omaväärtused — süsteemi poolt määratud kindel, diskreetne või pidev hulk",
+        "sourceHash": "003e0c9bff70988b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Any real number whatsoever, with no restriction imposed by the system",
+        "et": "Mistahes reaalarvu, ilma süsteemi poolt seatud piiranguta",
+        "sourceHash": "f54845889451c530",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "operators-and-observables-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only the value predicted by classical mechanics for the same system",
+        "et": "Ainult väärtust, mida klassikaline mehaanika sama süsteemi jaoks ennustab",
+        "sourceHash": "b3628f5e57f515f1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "operators-and-observables-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Exactly zero, regardless of the system's actual state",
+        "et": "Täpselt nulli, sõltumata süsteemi tegelikust olekust",
+        "sourceHash": "f2824834e056fe86",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "operators-and-observables-m1"
+    }
+  ]
+}

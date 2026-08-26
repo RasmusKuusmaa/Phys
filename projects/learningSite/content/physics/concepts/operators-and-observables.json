@@ -1,0 +1,21 @@
+{
+  "id": "operators-and-observables",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Operators and observables",
+    "et": "Operaatorid ja mõõdetavad suurused",
+    "sourceHash": "92e8558ae4b8cc6a",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every measurable physical quantity in quantum mechanics is represented by a mathematical operator that acts on the wavefunction, and the only values a measurement can ever return are the operator's eigenvalues — sharp, well-defined outcomes even though the wavefunction itself is generally spread out.",
+    "et": "Iga mõõdetav füüsikaline suurus kvantmehaanikas on esitatud matemaatilise operaatoriga, mis mõjub lainefunktsioonile, ja ainsad väärtused, mida mõõtmine kunagi tagastada saab, on selle operaatori omaväärtused — teravad, hästi määratud tulemused, kuigi lainefunktsioon ise on üldiselt laiali levinud.",
+    "sourceHash": "c245937983b57050",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schrodinger-equation"
+  ]
+}

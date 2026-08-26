@@ -1,0 +1,10 @@
+{
+  "id": "operators-and-observables-m2",
+  "conceptId": "operators-and-observables",
+  "text": {
+    "en": "A measurement can return any value at all, not just the operator's eigenvalues.",
+    "et": "Mõõtmine võib tagastada mistahes väärtuse, mitte ainult operaatori omaväärtused.",
+    "sourceHash": "dc585e4574e033d6",
+    "stale": false
+  }
+}

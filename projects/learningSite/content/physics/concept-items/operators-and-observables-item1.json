@@ -1,0 +1,56 @@
+{
+  "id": "operators-and-observables-item1",
+  "conceptId": "operators-and-observables",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In quantum mechanics, what kind of mathematical object represents a measurable quantity like energy or momentum?",
+    "et": "Mis laadi matemaatiline objekt esindab kvantmehaanikas mõõdetavat suurust nagu energia või impulss?",
+    "sourceHash": "dbb10899240e7f30",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An operator — a mathematical action performed on the wavefunction, not a simple number",
+        "et": "Operaator — matemaatiline tegevus, mida rakendatakse lainefunktsioonile, mitte lihtne arv",
+        "sourceHash": "c0987addd854faf9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "An ordinary real number that multiplies the wavefunction directly",
+        "et": "Tavaline reaalarv, mis korrutab lainefunktsiooni otse",
+        "sourceHash": "36eaf79e487ffa5f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "operators-and-observables-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The wavefunction itself, with no separate mathematical object needed",
+        "et": "Lainefunktsioon ise, ilma eraldi matemaatilise objektita",
+        "sourceHash": "f791ec155ef67200",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "operators-and-observables-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A single fixed value that never depends on which quantity is being measured",
+        "et": "Üksainus fikseeritud väärtus, mis ei sõltu sellest, millist suurust mõõdetakse",
+        "sourceHash": "32fe12b313aada99",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "operators-and-observables-m1"
+    }
+  ]
+}
