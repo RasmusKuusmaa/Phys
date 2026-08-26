@@ -1,0 +1,56 @@
+{
+  "id": "the-carbon-and-silicon-group-item2",
+  "conceptId": "the-carbon-and-silicon-group",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What underlies carbon's unique ability to serve as the structural basis of the enormous diversity of organic chemistry?",
+    "et": "Mis on süsiniku ainulaadse võime aluseks toimida orgaanilise keemia tohutu mitmekesisuse strukturaalse alusena?",
+    "sourceHash": "65c904595aabc186",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Carbon forms strong, stable bonds both with itself (catenation) and with a wide range of other elements, and can form single, double, or triple bonds",
+        "et": "Süsinik moodustab tugevaid, stabiilseid sidemeid nii iseendaga (katenatsioon) kui laia valiku teiste elementidega ning suudab moodustada üksik-, kaksik- või kolmiksidemeid",
+        "sourceHash": "0adc6f35d3ab2455",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Carbon is the only element in the periodic table capable of forming covalent bonds of any kind",
+        "et": "Süsinik on ainus perioodilisussüsteemi element, mis suudab üldse kovalentseid sidemeid moodustada",
+        "sourceHash": "1f50808d70cd10ae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-carbon-and-silicon-group-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Carbon has no valence electrons, making it uniquely reactive toward other elements",
+        "et": "Süsinikul pole valentselektrone, mis muudab selle teiste elementide suhtes ainulaadselt reaktiivseks",
+        "sourceHash": "d922c08c43ef36e4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-carbon-and-silicon-group-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Carbon's uniqueness has nothing to do with its bonding behaviour and is purely a historical naming convention",
+        "et": "Süsiniku ainulaadsusel pole midagi pistmist tema sidumiskäitumisega ja see on puhtalt ajalooline nimetamistava",
+        "sourceHash": "1c91b4ce55bdc922",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-carbon-and-silicon-group-m1"
+    }
+  ]
+}

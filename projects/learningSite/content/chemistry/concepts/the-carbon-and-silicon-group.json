@@ -1,0 +1,22 @@
+{
+  "id": "the-carbon-and-silicon-group",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "inorganic-chemistry",
+  "title": {
+    "en": "The carbon and silicon group",
+    "et": "Süsiniku ja räni rühm",
+    "sourceHash": "564c62385a628fbf",
+    "stale": false
+  },
+  "summary": {
+    "en": "Group 14 spans carbon, whose ability to form strong bonds with itself and a wide range of other elements underlies the whole of organic chemistry, through silicon, whose comparably strong bonds to oxygen instead make silicate minerals the dominant chemistry of the solid Earth, down to increasingly metallic germanium, tin, and lead.",
+    "et": "14. rühm ulatub süsinikust, mille võime moodustada tugevaid sidemeid iseendaga ja laia valikut teiste elementidega on kogu orgaanilise keemia aluseks, läbi räni, mille võrreldavalt tugevad sidemed hapnikuga muudavad selle asemel silikaadid tahke Maa domineerivaks keemiaks, kuni üha metallilisema germaaniumi, tina ja pliini.",
+    "sourceHash": "2ab959fc358e09dc",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-periodic-table",
+    "chemical-bonding"
+  ]
+}
