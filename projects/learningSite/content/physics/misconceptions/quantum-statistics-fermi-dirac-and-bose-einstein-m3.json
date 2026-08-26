@@ -1,0 +1,10 @@
+{
+  "id": "quantum-statistics-fermi-dirac-and-bose-einstein-m3",
+  "conceptId": "quantum-statistics-fermi-dirac-and-bose-einstein",
+  "text": {
+    "en": "Any number of bosons can never occupy the same single-particle quantum state, just like fermions.",
+    "et": "Ükski arv bosoneid ei saa kunagi hõivata sama üheosakese kvantolekut, täpselt nagu fermionid.",
+    "sourceHash": "5c9eb51f0cc6d483",
+    "stale": false
+  }
+}

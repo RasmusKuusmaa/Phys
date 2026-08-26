@@ -1,0 +1,22 @@
+{
+  "id": "quantum-statistics-fermi-dirac-and-bose-einstein",
+  "subject": "physics",
+  "level": "L3",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "Quantum statistics: Fermi-Dirac and Bose-Einstein",
+    "et": "Kvantstatistika: Fermi-Diraci ja Bose-Einsteini statistika",
+    "sourceHash": "e7734451b431d276",
+    "stale": false
+  },
+  "summary": {
+    "en": "Because the Pauli exclusion principle forbids identical fermions from sharing a quantum state while identical bosons face no such restriction, the two particle classes follow different statistical distributions — Fermi-Dirac and Bose-Einstein — which reduce to the classical Maxwell-Boltzmann distribution only when the states available vastly outnumber the particles occupying them.",
+    "et": "Kuna Pauli keeluprintsiip keelab identsetel fermionidel jagada sama kvantolekut, samal ajal kui identsetel bosonitel sellist piirangut ei ole, järgivad need kaks osakeste klassi erinevaid statistilisi jaotusi — Fermi-Diraci ja Bose-Einsteini jaotust —, mis taanduvad klassikaliseks Maxwelli-Boltzmanni jaotuseks ainult siis, kui saadaolevate olekute arv ületab tunduvalt neid hõivavate osakeste arvu.",
+    "sourceHash": "99e2500a8651b8da",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-partition-function",
+    "the-pauli-exclusion-principle"
+  ]
+}

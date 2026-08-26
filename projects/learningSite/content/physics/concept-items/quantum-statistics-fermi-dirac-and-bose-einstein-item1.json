@@ -1,0 +1,56 @@
+{
+  "id": "quantum-statistics-fermi-dirac-and-bose-einstein-item1",
+  "conceptId": "quantum-statistics-fermi-dirac-and-bose-einstein",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do fermions and bosons obey different quantum statistical distributions?",
+    "et": "Miks alluvad fermionid ja bosonid erinevatele kvantstatistilistele jaotustele?",
+    "sourceHash": "633bd19fbf4e4f75",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The Pauli exclusion principle restricts fermions to at most one particle per quantum state, while bosons face no such restriction",
+        "et": "Pauli keeluprintsiip piirab fermione ülimalt ühe osakesega kvantoleku kohta, samal ajal kui bosonitel sellist piirangut ei ole",
+        "sourceHash": "d0f5c6793a16bd38",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Fermions and bosons actually follow identical statistics, and the names merely reflect historical convention",
+        "et": "Fermionid ja bosonid järgivad tegelikult identset statistikat ning nimed peegeldavad vaid ajaloolist tava",
+        "sourceHash": "f66a3f586d8fa3b2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-statistics-fermi-dirac-and-bose-einstein-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Bosons are subject to exclusion while fermions can pile into the same state without limit",
+        "et": "Bosonid alluvad keeluprintsiibile, samal ajal kui fermionid saavad piiramatult koguneda samasse olekusse",
+        "sourceHash": "adb4a0c2e8a202e1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-statistics-fermi-dirac-and-bose-einstein-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The distinction depends only on a particle's mass, not on any exclusion rule",
+        "et": "Erinevus sõltub ainult osakese massist, mitte ühestki keelureeglist",
+        "sourceHash": "c91d361d77bad7dc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-statistics-fermi-dirac-and-bose-einstein-m1"
+    }
+  ]
+}

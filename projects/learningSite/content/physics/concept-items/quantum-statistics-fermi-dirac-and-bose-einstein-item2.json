@@ -1,0 +1,56 @@
+{
+  "id": "quantum-statistics-fermi-dirac-and-bose-einstein-item2",
+  "conceptId": "quantum-statistics-fermi-dirac-and-bose-einstein",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Under what condition does quantum statistics (Fermi-Dirac or Bose-Einstein) reduce to the classical Maxwell-Boltzmann distribution?",
+    "et": "Millisel tingimusel taandub kvantstatistika (Fermi-Diraci või Bose-Einsteini) klassikaliseks Maxwelli-Boltzmanni jaotuseks?",
+    "sourceHash": "d9b2be3957f8920d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "When the number of available quantum states vastly exceeds the number of particles, so multiple occupancy of a state becomes negligibly rare",
+        "et": "Kui saadaolevate kvantolekute arv ületab tunduvalt osakeste arvu, mistõttu oleku mitmekordne hõivamine muutub tühiselt haruldaseks",
+        "sourceHash": "d18698ce4bfdc6b5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "When the temperature approaches absolute zero and particles crowd into the lowest available states",
+        "et": "Kui temperatuur läheneb absoluutsele nullpunktile ja osakesed kogunevad madalaimatesse saadaolevatesse olekutesse",
+        "sourceHash": "1c2f2c14734e6b7f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-statistics-fermi-dirac-and-bose-einstein-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only when every particle in the system is a boson and none are fermions",
+        "et": "Ainult siis, kui iga osake süsteemis on boson ja ükski ei ole fermion",
+        "sourceHash": "a7778bbced59c071",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-statistics-fermi-dirac-and-bose-einstein-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Quantum statistics never reduces to the classical distribution under any circumstance",
+        "et": "Kvantstatistika ei taandu klassikaliseks jaotuseks mitte mingil tingimusel",
+        "sourceHash": "6831784c8d4ccea8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-statistics-fermi-dirac-and-bose-einstein-m1"
+    }
+  ]
+}
