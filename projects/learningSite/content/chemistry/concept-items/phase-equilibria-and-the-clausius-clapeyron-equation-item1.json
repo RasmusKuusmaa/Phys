@@ -1,0 +1,56 @@
+{
+  "id": "phase-equilibria-and-the-clausius-clapeyron-equation-item1",
+  "conceptId": "phase-equilibria-and-the-clausius-clapeyron-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Water boils at 100°C at standard atmospheric pressure but at a noticeably lower temperature at the reduced pressure found at high altitude. What does this reveal about a substance's boiling point?",
+    "et": "Vesi keeb standardse atmosfäärirõhu juures 100°C juures, kuid kõrgel kõrgusel esineva vähendatud rõhu juures märgatavalt madalamal temperatuuril. Mida see näitab aine keemistemperatuuri kohta?",
+    "sourceHash": "4e5f766f8b601b92",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Boiling point is not a fixed constant; it depends on pressure, tracked quantitatively by the liquid-vapour phase boundary on a phase diagram",
+        "et": "Keemistemperatuur ei ole fikseeritud konstant; see sõltub rõhust, mida jälgib kvantitatiivselt vedelik-aur faasipiir faasidiagrammil",
+        "sourceHash": "be9fd8d8bca7c224",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Water at high altitude is chemically different from water at sea level",
+        "et": "Kõrgel kõrgusel olev vesi on keemiliselt erinev merepinna tasemel olevast veest",
+        "sourceHash": "7183b879e3389915",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phase-equilibria-and-the-clausius-clapeyron-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This observation is inconsistent with physical chemistry and indicates a measurement error",
+        "et": "See vaatlus on vastuolus füüsikalise keemiaga ja näitab mõõteviga",
+        "sourceHash": "5798fbf77d0bcd22",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phase-equilibria-and-the-clausius-clapeyron-equation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Boiling point depends only on altitude directly, with no connection to pressure at all",
+        "et": "Keemistemperatuur sõltub ainult otseselt kõrgusest, ilma igasuguse seoseta rõhuga",
+        "sourceHash": "34479d2feab033aa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phase-equilibria-and-the-clausius-clapeyron-equation-m1"
+    }
+  ]
+}

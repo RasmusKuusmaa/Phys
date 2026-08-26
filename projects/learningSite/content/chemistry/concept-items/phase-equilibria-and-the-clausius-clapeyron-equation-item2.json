@@ -1,0 +1,56 @@
+{
+  "id": "phase-equilibria-and-the-clausius-clapeyron-equation-item2",
+  "conceptId": "phase-equilibria-and-the-clausius-clapeyron-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What condition defines the liquid-vapour phase boundary line on a pure substance's phase diagram?",
+    "et": "Milline tingimus määrab puhta aine faasidiagrammil vedelik-aur faasipiiri joone?",
+    "sourceHash": "bcd49b137af9b96f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Along the boundary, the liquid and vapour phases have equal Gibbs energy, so both phases can coexist in equilibrium",
+        "et": "Piki piiri on vedeliku ja auru faasidel võrdne Gibbsi energia, seega saavad mõlemad faasid koos tasakaalus eksisteerida",
+        "sourceHash": "2e6a14f1ddda394f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The boundary marks where the vapour phase's Gibbs energy is always lower than the liquid's",
+        "et": "Piir märgib, kus auru faasi Gibbsi energia on alati madalam kui vedeliku oma",
+        "sourceHash": "9f1bd4ddaf63b7fa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phase-equilibria-and-the-clausius-clapeyron-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The boundary line has no thermodynamic meaning and is simply an empirical curve fit to data",
+        "et": "Piirjoonel puudub termodünaamiline tähendus ja see on lihtsalt andmetele sobitatud empiiriline kõver",
+        "sourceHash": "5bb8c5a566f072b3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phase-equilibria-and-the-clausius-clapeyron-equation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The boundary marks where the substance's temperature becomes undefined",
+        "et": "Piir märgib, kus aine temperatuur muutub määramatuks",
+        "sourceHash": "d16878723b7f0549",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phase-equilibria-and-the-clausius-clapeyron-equation-m1"
+    }
+  ]
+}

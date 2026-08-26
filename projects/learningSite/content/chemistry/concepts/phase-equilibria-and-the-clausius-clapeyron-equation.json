@@ -1,0 +1,21 @@
+{
+  "id": "phase-equilibria-and-the-clausius-clapeyron-equation",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "physical-chemistry",
+  "title": {
+    "en": "Phase equilibria and the Clausius-Clapeyron equation",
+    "et": "Faasitasakaal ja Clausiuse-Clapeyroni võrrand",
+    "sourceHash": "3d688a060f590cda",
+    "stale": false
+  },
+  "summary": {
+    "en": "Along the boundary between two phases of a pure substance on a phase diagram, the vapour pressure and temperature are locked together by the Clausius-Clapeyron equation, which follows from requiring both phases to have equal Gibbs energy at equilibrium and explains why boiling point rises with pressure and why the boundary's steepness is set by the transition's enthalpy.",
+    "et": "Piki kahe puhta aine faasi vahelist piiri faasidiagrammil on aururõhk ja temperatuur omavahel lukustatud Clausiuse-Clapeyroni võrrandiga, mis tuleneb nõudest, et mõlemal faasil oleks tasakaalus võrdne Gibbsi energia, ja selgitab, miks keemistemperatuur rõhuga tõuseb ja miks piiri järsust määrab siirde entalpia.",
+    "sourceHash": "fe8b04713d4dc573",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-equilibrium"
+  ]
+}
