@@ -1,0 +1,22 @@
+{
+  "id": "raoults-law-and-colligative-properties",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "physical-chemistry",
+  "title": {
+    "en": "Raoult's law and colligative properties",
+    "et": "Raoulti seadus ja kolligatiivsed omadused",
+    "sourceHash": "62e3e731b88aa481",
+    "stale": false
+  },
+  "summary": {
+    "en": "Raoult's law states that an ideal solution's vapour pressure from each volatile component is that component's pure vapour pressure scaled by its mole fraction, and this simple dilution effect is the common origin of the colligative properties — boiling point elevation, freezing point depression, and osmotic pressure — which depend only on how many solute particles are dissolved, not on what they chemically are.",
+    "et": "Raoulti seadus väidab, et ideaalse lahuse aururõhk igast lenduvast komponendist on selle komponendi puhta aururõhk, skaleeritud tema moolimurruga, ja see lihtne lahjendamisefekt on kolligatiivsete omaduste — keemistemperatuuri tõusu, külmumistemperatuuri languse ja osmootse rõhu — ühine päritolu, mis sõltuvad ainult sellest, kui palju lahustunud osakesi on lahustunud, mitte sellest, mis need keemiliselt on.",
+    "sourceHash": "0ce4759b1f0f06ed",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-equilibrium",
+    "the-mole-and-amount-of-substance"
+  ]
+}

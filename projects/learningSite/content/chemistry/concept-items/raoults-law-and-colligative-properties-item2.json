@@ -1,0 +1,56 @@
+{
+  "id": "raoults-law-and-colligative-properties-item2",
+  "conceptId": "raoults-law-and-colligative-properties",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Equal molar amounts of glucose (a molecular compound that does not dissociate in water) and sodium chloride (which dissociates into two ions per formula unit) are dissolved separately in equal amounts of water. How do their effects on freezing point depression compare?",
+    "et": "Võrdsed moolikogused glükoosi (molekulaarne ühend, mis vees ei dissotsieeru) ja naatriumkloriidi (mis dissotsieerub kaheks iooniks valemiühiku kohta) lahustatakse eraldi võrdsetes kogustes vees. Kuidas võrdub nende mõju külmumistemperatuuri langusele?",
+    "sourceHash": "73b70e86eded24b7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Sodium chloride produces roughly twice the freezing point depression, since it releases roughly twice as many dissolved particles per mole",
+        "et": "Naatriumkloriid tekitab ligikaudu kaks korda suurema külmumistemperatuuri languse, kuna see vabastab mooli kohta ligikaudu kaks korda rohkem lahustunud osakesi",
+        "sourceHash": "c8cb7b20d1267bc1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both compounds produce exactly the same freezing point depression, since they were added in equal molar amounts",
+        "et": "Mõlemad ühendid tekitavad täpselt sama külmumistemperatuuri languse, kuna need lisati võrdsetes moolikogustes",
+        "sourceHash": "29aa7bd134089202",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "raoults-law-and-colligative-properties-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Glucose produces a larger effect, since molecular compounds always have a stronger colligative effect than ionic ones",
+        "et": "Glükoos tekitab suurema efekti, kuna molekulaarsetel ühenditel on alati tugevam kolligatiivne efekt kui ioonsetel",
+        "sourceHash": "17156514e1a8e04d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "raoults-law-and-colligative-properties-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Neither compound has any effect on freezing point, since colligative properties apply only to boiling point",
+        "et": "Kummalgi ühendil pole mingit mõju külmumistemperatuurile, kuna kolligatiivsed omadused kehtivad ainult keemistemperatuuri kohta",
+        "sourceHash": "09b8aac377f13fe6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "raoults-law-and-colligative-properties-m1"
+    }
+  ]
+}

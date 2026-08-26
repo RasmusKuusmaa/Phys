@@ -1,0 +1,56 @@
+{
+  "id": "raoults-law-and-colligative-properties-item1",
+  "conceptId": "raoults-law-and-colligative-properties",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Adding a non-volatile solute to a pure solvent lowers the solvent's vapour pressure, according to Raoult's law. Why does this happen?",
+    "et": "Mittelenduva lahustunud aine lisamine puhtale lahustile langetab Raoulti seaduse järgi lahusti aururõhku. Miks see nii on?",
+    "sourceHash": "e6b2e058a1a65b37",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The solute particles dilute the solvent, reducing the solvent's mole fraction and therefore its contribution to the total vapour pressure",
+        "et": "Lahustunud osakesed lahjendavad lahustit, vähendades lahusti moolimurdu ja seega selle panust kogu aururõhku",
+        "sourceHash": "a403fed023049c1e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The solute chemically reacts with the solvent, destroying some of the solvent molecules entirely",
+        "et": "Lahustunud aine reageerib keemiliselt lahustiga, hävitades osa lahusti molekulidest täielikult",
+        "sourceHash": "22db0d215bc9c9da",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "raoults-law-and-colligative-properties-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Adding any solute always increases vapour pressure, never decreases it",
+        "et": "Mistahes lahustunud aine lisamine suurendab alati aururõhku, ei vähenda kunagi",
+        "sourceHash": "cb0ed05992950a07",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "raoults-law-and-colligative-properties-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Vapour pressure is completely unaffected by dissolved solutes of any kind",
+        "et": "Aururõhku ei mõjuta üldse mistahes lahustunud ained",
+        "sourceHash": "77b79c7b95f7507b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "raoults-law-and-colligative-properties-m1"
+    }
+  ]
+}
