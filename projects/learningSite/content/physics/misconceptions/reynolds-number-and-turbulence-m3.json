@@ -1,0 +1,10 @@
+{
+  "id": "reynolds-number-and-turbulence-m3",
+  "conceptId": "reynolds-number-and-turbulence",
+  "text": {
+    "en": "A high Reynolds number means viscous forces dominate over inertial forces in the flow.",
+    "et": "Kõrge Reynoldsi arv tähendab, et viskoossed jõud domineerivad voolus inertsiaalsete jõudude üle.",
+    "sourceHash": "4ff36e51863692ce",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "reynolds-number-and-turbulence-m1",
+  "conceptId": "reynolds-number-and-turbulence",
+  "text": {
+    "en": "The Reynolds number has units and depends on which system of units (metric or otherwise) is used to calculate it.",
+    "et": "Reynoldsi arvul on mõõtühikud ja see sõltub sellest, millist mõõtühikute süsteemi (meetriline või muu) kasutatakse selle arvutamiseks.",
+    "sourceHash": "1f61ebc30527f246",
+    "stale": false
+  }
+}

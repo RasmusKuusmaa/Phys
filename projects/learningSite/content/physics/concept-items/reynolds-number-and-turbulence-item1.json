@@ -1,0 +1,56 @@
+{
+  "id": "reynolds-number-and-turbulence-item1",
+  "conceptId": "reynolds-number-and-turbulence",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the Reynolds number physically represent in a fluid flow?",
+    "et": "Mida Reynoldsi arv füüsikaliselt esindab vedeliku voolus?",
+    "sourceHash": "7c247677cb31be1c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The ratio of inertial forces to viscous forces in the flow",
+        "et": "Inertsiaalsete jõudude ja viskoossete jõudude suhet voolus",
+        "sourceHash": "78f1abfcc391f3d0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The absolute speed of the fluid, measured in a specific fixed unit",
+        "et": "Vedeliku absoluutkiirust, mõõdetuna konkreetses fikseeritud ühikus",
+        "sourceHash": "3dd78d8ce37001f2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reynolds-number-and-turbulence-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The total pressure drop across a section of pipe",
+        "et": "Kogurõhulangust üle toru lõigu",
+        "sourceHash": "e4c5bc7163f0d260",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reynolds-number-and-turbulence-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The fluid's density alone, independent of its speed or viscosity",
+        "et": "Ainult vedeliku tihedust, sõltumatult selle kiirusest või viskoossusest",
+        "sourceHash": "0ac8938c92ec7fa2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reynolds-number-and-turbulence-m1"
+    }
+  ]
+}

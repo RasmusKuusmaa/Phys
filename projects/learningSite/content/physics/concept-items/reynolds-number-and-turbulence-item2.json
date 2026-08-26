@@ -1,0 +1,56 @@
+{
+  "id": "reynolds-number-and-turbulence-item2",
+  "conceptId": "reynolds-number-and-turbulence",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is the Reynolds number, rather than fluid speed alone, used to predict whether a flow will be laminar or turbulent?",
+    "et": "Miks kasutatakse laminaarse või turbulentse voolu ennustamiseks pigem Reynoldsi arvu kui ainult vedeliku kiirust?",
+    "sourceHash": "3728b32e6b1b071a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because being dimensionless, it combines speed, length scale, density, and viscosity into a single criterion that applies consistently across very different flows",
+        "et": "Kuna mõõtühikuta olles ühendab see kiiruse, pikkuseskaala, tiheduse ja viskoossuse üheks kriteeriumiks, mis kehtib järjepidevalt väga erinevate voolude korral",
+        "sourceHash": "08100f2895a77e0c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Fluid speed alone is actually a perfectly sufficient predictor, and the Reynolds number adds nothing useful",
+        "et": "Ainult vedeliku kiirus on tegelikult täiesti piisav ennustaja ja Reynoldsi arv ei lisa midagi kasulikku",
+        "sourceHash": "b7de9ad43ab8726b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reynolds-number-and-turbulence-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The Reynolds number ignores viscosity entirely, focusing only on the geometry of the flow",
+        "et": "Reynoldsi arv eirab täielikult viskoossust, keskendudes ainult voolu geomeetriale",
+        "sourceHash": "e68f39828c589444",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reynolds-number-and-turbulence-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The Reynolds number only applies to gases and has no meaning for liquids",
+        "et": "Reynoldsi arv kehtib ainult gaaside kohta ja sellel pole tähendust vedelike jaoks",
+        "sourceHash": "cf505cb461f412ad",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reynolds-number-and-turbulence-m1"
+    }
+  ]
+}

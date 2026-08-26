@@ -1,0 +1,21 @@
+{
+  "id": "reynolds-number-and-turbulence",
+  "subject": "physics",
+  "level": "L3",
+  "module": "fluid-mechanics",
+  "title": {
+    "en": "Reynolds number and turbulence",
+    "et": "Reynoldsi arv ja turbulents",
+    "sourceHash": "8fd658017878f0fa",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Reynolds number is a dimensionless ratio of a flow's inertial forces to its viscous forces, and it predicts whether a given flow will be smooth and orderly (laminar, at low Reynolds number) or chaotic and eddying (turbulent, at high Reynolds number), letting the same criterion apply across wildly different fluids, speeds, and length scales.",
+    "et": "Reynoldsi arv on voolu inertsiaalsete jõudude ja viskoossete jõudude mõõtühikuta suhe, ja see ennustab, kas antud vool on sujuv ja korrapärane (laminaarne, madala Reynoldsi arvu korral) või kaootiline ja keeriseline (turbulentne, kõrge Reynoldsi arvu korral), lubades sama kriteeriumi rakendada väga erinevate vedelike, kiiruste ja pikkuseskaalade korral.",
+    "sourceHash": "7a895417bad78e50",
+    "stale": false
+  },
+  "prerequisites": [
+    "viscosity-and-poiseuille-flow"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "reynolds-number-and-turbulence-m2",
+  "conceptId": "reynolds-number-and-turbulence",
+  "text": {
+    "en": "Turbulent flow always occurs at high fluid speed and laminar flow always occurs at low speed, regardless of the fluid's viscosity or the geometry involved.",
+    "et": "Turbulentne vool toimub alati kõrge vedeliku kiiruse juures ja laminaarne vool toimub alati madala kiiruse juures, sõltumata vedeliku viskoossusest või kaasatud geomeetriast.",
+    "sourceHash": "d94c135405a16871",
+    "stale": false
+  }
+}
