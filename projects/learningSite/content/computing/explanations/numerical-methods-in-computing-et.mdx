@@ -1,0 +1,37 @@
+Paljudel võrranditel, mis tekivad füüsikas, keemias ja inseneriteaduses —
+enamikul reaalseid süsteeme kirjeldavatel diferentsiaalvõrranditel, näiteks
+— lihtsalt puudub suletud kujul lahend: ühtki lõplikku elementaarfunktsioonide
+(polünoomid, eksponendid, trigonomeetrilised funktsioonid ja nii edasi)
+kombinatsiooni ei saa kirja panna, mis rahuldaks võrrandit täpselt. Selle
+asemel et loobuda, lahendavad arvutuslikud meetodid selliseid ülesandeid
+ligikaudselt, jagades raske pideva ülesande suureks arvuks väikesteks,
+lihtsateks, korduvateks arvutussammudeks, mida arvuti saab väga kiiresti
+täita, kuigi ükski inimene ei suudaks sama arvutust realistlikult käsitsi
+läbi viia.
+
+Euleri meetod, üks lihtsamaid arvutuslikke tehnikaid, illustreerib üldist
+ideed selgelt. Antud diferentsiaalvõrrand, mis kirjeldab, kuidas suurus
+muutub (tema tuletis) tema hetkeväärtuse funktsioonina, ja teadaolev
+alguspunkt, lähendab Euleri meetod lahenduskõverat, tehes väikese sammu
+edasi, arvutades tuletise hetkepunktis ja kasutades seda suuruse uue
+väärtuse hindamiseks lühikest sammu hiljem — nii, nagu oleks tõeline,
+üldiselt kõverjooneline lahend selle lühikese vahemiku jooksul kohalikult
+sirge. See hinnatud uus punkt saab järgmise sammu alguspunktiks ja protsess
+kordub: arvuta kohalik tõus, astu edasi, korda, ehitades ligikaudset
+lahenduskõverat samm-sammult, täielikult korduva aritmeetika, mitte
+sümboolse manipuleerimise kaudu.
+
+Kuna iga samm lähendab tõeliselt kõverat lahendit sirgega, toob Euleri
+meetod igas sammus sisse vea ja need väikesed vead kalduvad paljude
+sammude jooksul kuhjuma. Sammu suurus kontrollib seda kompromissi otseselt:
+väiksem sammu suurus jälgib tõelist kõverat lähemalt, kuna sirge on parem
+kohalik lähendus kõverale lühema vahemiku jooksul, vähendades igas sammus
+sissetoodavat viga — kuid sama kogukauguse saavutamine mööda kõverat
+nõuab siis proportsionaalselt rohkem samme, seega võtab kogu arvutus
+kauem aega. Sobiva sammu suuruse valimine, piisavalt väikese, et hoida
+kuhjunud viga vastuvõetavalt väiksena, kuid piisavalt suure, et arvutus
+lõpetada mõistliku aja jooksul, on ise keskne praktiline oskus mistahes
+arvutusliku meetodi rakendamisel, ja see on põhjus, miks arvutuslikud
+meetodid, kuigi ainult ligikaudsed, jäävad hädavajalikuks läbivalt füüsikas
+ja keemias, kus iganes ülesande täpne lahend on tundmatu või ebapraktiline
+otse arvutada.

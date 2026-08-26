@@ -1,0 +1,10 @@
+{
+  "id": "numerical-methods-in-computing-m3",
+  "conceptId": "numerical-methods-in-computing",
+  "text": {
+    "en": "Numerical methods are only useful when an exact analytical solution is completely unknown to mathematics in principle.",
+    "et": "Arvutuslikud meetodid on kasulikud ainult siis, kui täpne analüütiline lahend on matemaatikale põhimõtteliselt täiesti tundmatu.",
+    "sourceHash": "ff54ec881c54f164",
+    "stale": false
+  }
+}

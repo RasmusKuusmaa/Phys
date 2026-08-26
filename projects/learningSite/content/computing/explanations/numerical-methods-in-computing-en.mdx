@@ -1,0 +1,37 @@
+Many equations that arise in physics, chemistry, and engineering — most
+differential equations describing real systems, for instance — simply have
+no closed-form solution: no finite combination of elementary functions
+(polynomials, exponentials, trigonometric functions, and so on) can be
+written down that satisfies the equation exactly. Rather than giving up,
+numerical methods solve such problems approximately, by breaking a
+difficult continuous problem into a large number of small, simple, repeated
+computational steps that a computer can execute very quickly, even though
+no human could realistically carry out the same calculation by hand.
+
+Euler's method, one of the simplest numerical techniques, illustrates the
+general idea clearly. Given a differential equation describing how a
+quantity changes (its derivative) as a function of its current value, and a
+known starting point, Euler's method approximates the solution curve by
+taking a small step forward, computing the derivative at the current point,
+and using it to estimate the quantity's new value a short step later — as
+if the true, generally curved solution were locally a straight line over
+that short interval. This estimated new point becomes the starting point
+for the next step, and the process repeats: compute the local slope,
+step forward, repeat, building up an approximate solution curve step by
+step, entirely through repeated arithmetic rather than symbolic
+manipulation.
+
+Because each step approximates a genuinely curved solution with a straight
+line, Euler's method introduces error at every step, and these small errors
+tend to accumulate over many steps. The step size controls this trade-off
+directly: a smaller step size tracks the true curve more closely, since a
+straight line is a better local approximation to a curve over a shorter
+interval, reducing the error introduced at each step — but reaching the
+same total distance along the curve then requires proportionally more
+steps, so the total computation takes longer. Choosing an appropriate step
+size, small enough to keep accumulated error acceptably small but large
+enough to finish the computation in reasonable time, is itself a central
+practical skill in applying any numerical method, and it is why numerical
+methods, though only approximate, remain indispensable throughout physics
+and chemistry, wherever a problem's exact solution is unknown or
+impractical to compute directly.

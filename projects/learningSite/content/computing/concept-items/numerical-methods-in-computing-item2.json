@@ -1,0 +1,56 @@
+{
+  "id": "numerical-methods-in-computing-item2",
+  "conceptId": "numerical-methods-in-computing",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why are numerical methods used at all, given that computers can also carry out exact symbolic algebra?",
+    "et": "Miks kasutatakse arvutuslikke meetodeid üldse, arvestades, et arvutid suudavad teostada ka täpset sümboolset algebrat?",
+    "sourceHash": "9fc72706acbb1c5e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Many equations that arise in real physical and chemical problems have no closed-form (exact symbolic) solution at all, so an approximate numerical answer is often the only practical option",
+        "et": "Paljudel tegelikest füüsika- ja keemiaülesannetest tulenevatel võrranditel puudub üldse suletud kujul (täpne sümboolne) lahend, seega on ligikaudne arvuline vastus sageli ainus praktiline võimalus",
+        "sourceHash": "796dfe9793940cda",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Numerical methods are used only because computers cannot perform any kind of exact algebra whatsoever",
+        "et": "Arvutuslikke meetodeid kasutatakse ainult seetõttu, et arvutid ei suuda teostada üldse mingit täpset algebrat",
+        "sourceHash": "7288ddf9d64bd403",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "numerical-methods-in-computing-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Numerical methods and exact analytical solutions are always identical in every practical case",
+        "et": "Arvutuslikud meetodid ja täpsed analüütilised lahendid on iga praktilise juhtumi puhul alati identsed",
+        "sourceHash": "78aa0b214d9ea7e2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "numerical-methods-in-computing-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Numerical methods are purely a historical relic with no remaining relevance now that computers are fast",
+        "et": "Arvutuslikud meetodid on puhtalt ajalooline jäänuk, millel pole enam tähtsust nüüd, kui arvutid on kiired",
+        "sourceHash": "d5a81f949eb709ce",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "numerical-methods-in-computing-m1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "numerical-methods-in-computing-item1",
+  "conceptId": "numerical-methods-in-computing",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Euler's method approximates the solution to a differential equation by taking many small linear steps rather than solving the equation exactly. What is the fundamental trade-off in choosing the step size?",
+    "et": "Euleri meetod lähendab diferentsiaalvõrrandi lahendit, tehes palju väikseid lineaarseid samme, selle asemel et võrrandit täpselt lahendada. Milline on põhiline kompromiss sammu suuruse valimisel?",
+    "sourceHash": "fe9d5571f98cecf6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A smaller step size generally gives a more accurate approximation but requires more computational steps (and thus more time) to cover the same interval",
+        "et": "Väiksem sammu suurus annab üldiselt täpsema lähenduse, kuid nõuab sama vahemiku katmiseks rohkem arvutussamme (ja seega rohkem aega)",
+        "sourceHash": "575d585bb0b13576",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Step size has no effect on either the accuracy or the computation time of the method",
+        "et": "Sammu suurusel pole mõju ei meetodi täpsusele ega arvutusajale",
+        "sourceHash": "96f4e7a3fc018439",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "numerical-methods-in-computing-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A larger step size always gives a more accurate result than a smaller one",
+        "et": "Suurem sammu suurus annab alati täpsema tulemuse kui väiksem",
+        "sourceHash": "21c11269c8c31a64",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "numerical-methods-in-computing-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Euler's method gives the mathematically exact solution regardless of the step size chosen",
+        "et": "Euleri meetod annab matemaatiliselt täpse lahendi sõltumata valitud sammu suurusest",
+        "sourceHash": "0ab450758a7d7f6e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "numerical-methods-in-computing-m1"
+    }
+  ]
+}

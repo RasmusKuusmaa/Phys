@@ -1,0 +1,21 @@
+{
+  "id": "numerical-methods-in-computing",
+  "subject": "computing",
+  "level": "L2",
+  "module": "numerical-methods",
+  "title": {
+    "en": "Numerical methods in computing",
+    "et": "Arvutuslikud meetodid programmeerimises",
+    "sourceHash": "0675258e0815ab63",
+    "stale": false
+  },
+  "summary": {
+    "en": "Numerical methods solve equations that have no convenient closed-form solution by breaking the problem into many small, repeated steps a computer can execute, such as Euler's method for approximating a differential equation's solution as a sequence of small linear steps, at the cost of introducing approximation error that must be understood and controlled.",
+    "et": "Arvutuslikud meetodid lahendavad võrrandeid, millel puudub mugav suletud kujul lahend, jagades ülesande paljudeks väikesteks korduvateks sammudeks, mida arvuti saab täita, näiteks Euleri meetod diferentsiaalvõrrandi lahendi ligikaudseks arvutamiseks väikeste lineaarsete sammude jadana, hinnaks lähendusvea sissetoomine, mida tuleb mõista ja kontrollida.",
+    "sourceHash": "441ea3fa271ac875",
+    "stale": false
+  },
+  "prerequisites": [
+    "algorithms-and-program-structure"
+  ]
+}

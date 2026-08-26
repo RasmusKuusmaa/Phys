@@ -1,0 +1,10 @@
+{
+  "id": "numerical-methods-in-computing-m2",
+  "conceptId": "numerical-methods-in-computing",
+  "text": {
+    "en": "Making a numerical method's step size smaller always makes the computed result take less time and be more accurate, with no downside.",
+    "et": "Arvutusliku meetodi sammu suuruse vähendamine muudab arvutatud tulemuse alati kiiremaks ja täpsemaks, ilma miinusteta.",
+    "sourceHash": "8b8a7b3c2c3c3c7a",
+    "stale": false
+  }
+}
