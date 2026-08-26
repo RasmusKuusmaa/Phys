@@ -161,6 +161,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/erijuhtivus/1/est"
   },
   {
+    "id": "conservation-law",
+    "en": "conservation law",
+    "et": "jäävusseadus",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/jäävusseadus/1/est"
+  },
+  {
     "id": "continuity-equation",
     "en": "continuity equation",
     "et": "pidevusvõrrand",
@@ -434,6 +441,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/raskusjõud/1/est"
   },
   {
+    "id": "hadron",
+    "en": "hadron",
+    "et": "hadron",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/hadron/1/est"
+  },
+  {
     "id": "half-life",
     "en": "half-life",
     "et": "poolestusaeg",
@@ -593,6 +607,13 @@
     "et": "lääts",
     "domain": "optics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/lääts/1/est"
+  },
+  {
+    "id": "lepton",
+    "en": "lepton",
+    "et": "leptoon",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/leptoon/1/est"
   },
   {
     "id": "light",
@@ -826,6 +847,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/tunneleerumine/1/est"
   },
   {
+    "id": "quark",
+    "en": "quark",
+    "et": "kvark",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kvark/1/est"
+  },
+  {
     "id": "radioactivity",
     "en": "radioactivity",
     "et": "radioaktiivsus",
@@ -964,6 +992,13 @@
     "et": "spinn",
     "domain": "quantum-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/spinn/1/est"
+  },
+  {
+    "id": "standard-model",
+    "en": "Standard Model",
+    "et": "standardmudel",
+    "domain": "modern-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/standardmudel/1/est"
   },
   {
     "id": "stiffness",
