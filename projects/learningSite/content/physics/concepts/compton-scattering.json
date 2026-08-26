@@ -1,0 +1,21 @@
+{
+  "id": "compton-scattering",
+  "subject": "physics",
+  "level": "L2",
+  "module": "modern-physics",
+  "title": {
+    "en": "Compton scattering",
+    "et": "Comptoni hajumine",
+    "sourceHash": "0d6b4008e93d1aed",
+    "stale": false
+  },
+  "summary": {
+    "en": "When a photon scatters off a loosely bound or free electron, it transfers some of its energy and momentum to the electron and emerges with a longer wavelength, an effect that only makes sense if light is treated as particle-like photons carrying momentum, and that provided decisive evidence for the particle nature of light.",
+    "et": "Kui footon hajub nõrgalt seotud või vabalt elektronilt, kannab see osa oma energiast ja impulsist elektronile üle ning väljub pikema lainepikkusega, efekt, mis on mõistetav ainult siis, kui valgust käsitleda impulssi kandvate osakestaoliste footonitena, ja mis andis otsustava tõendi valguse osakeselise olemuse kohta.",
+    "sourceHash": "0d9cd5944f711692",
+    "stale": false
+  },
+  "prerequisites": [
+    "photons-and-quanta"
+  ]
+}

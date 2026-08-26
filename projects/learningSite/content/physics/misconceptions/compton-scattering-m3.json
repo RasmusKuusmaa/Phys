@@ -1,0 +1,10 @@
+{
+  "id": "compton-scattering-m3",
+  "conceptId": "compton-scattering",
+  "text": {
+    "en": "Compton scattering only happens with X-rays and cannot occur with any other kind of electromagnetic radiation.",
+    "et": "Comptoni hajumine toimub ainult röntgenkiirtega ega saa toimuda ühegi teise elektromagnetkiirguse liigiga.",
+    "sourceHash": "63d98ad26965cdd5",
+    "stale": false
+  }
+}

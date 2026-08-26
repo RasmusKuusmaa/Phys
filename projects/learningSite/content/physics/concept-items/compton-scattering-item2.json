@@ -1,0 +1,56 @@
+{
+  "id": "compton-scattering-item2",
+  "conceptId": "compton-scattering",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why was Compton scattering historically significant for the development of quantum theory?",
+    "et": "Miks oli Comptoni hajumine kvantteooria arengu jaoks ajalooliselt oluline?",
+    "sourceHash": "5cf43b7e6d75c52e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It could only be explained by treating light as particle-like photons carrying momentum, providing strong evidence for the particle nature of light",
+        "et": "Seda sai selgitada ainult valgust impulssi kandvate osakestaoliste footonitena käsitledes, andes tugeva tõendi valguse osakeselise olemuse kohta",
+        "sourceHash": "df724aca963d5964",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It proved conclusively that light is purely a wave phenomenon with no particle-like properties at all",
+        "et": "See tõestas lõplikult, et valgus on puhtalt lainenähtus ilma igasuguste osakeselaadsete omadusteta",
+        "sourceHash": "ddeeecf5b8825e72",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compton-scattering-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It had no real theoretical significance and was merely a minor experimental curiosity",
+        "et": "Sellel polnud tegelikku teoreetilist tähtsust ja see oli vaid väike eksperimentaalne kurioosum",
+        "sourceHash": "713a9e4e55dcc68f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compton-scattering-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It showed that electrons behave as continuous classical charge clouds rather than discrete particles",
+        "et": "See näitas, et elektronid käituvad pideva klassikalise laengupilvena, mitte diskreetsete osakestena",
+        "sourceHash": "ce91f592a837be93",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compton-scattering-m1"
+    }
+  ]
+}

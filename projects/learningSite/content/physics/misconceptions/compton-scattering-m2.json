@@ -1,0 +1,10 @@
+{
+  "id": "compton-scattering-m2",
+  "conceptId": "compton-scattering",
+  "text": {
+    "en": "The scattered photon in Compton scattering always has the same wavelength as the incoming photon.",
+    "et": "Comptoni hajumises hajunud footonil on alati sama lainepikkus kui sissetuleval footonil.",
+    "sourceHash": "1926a60b0e3ca844",
+    "stale": false
+  }
+}

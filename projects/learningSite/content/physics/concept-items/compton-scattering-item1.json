@@ -1,0 +1,56 @@
+{
+  "id": "compton-scattering-item1",
+  "conceptId": "compton-scattering",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A photon scatters off a loosely bound electron. What happens to the photon's wavelength as a result?",
+    "et": "Footon hajub nõrgalt seotud elektronilt. Mis juhtub selle tagajärjel footoni lainepikkusega?",
+    "sourceHash": "54739095675e533f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It increases, since the photon transfers some of its energy and momentum to the electron",
+        "et": "See suureneb, kuna footon kannab osa oma energiast ja impulsist elektronile üle",
+        "sourceHash": "3edcae180a2bb02a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It stays exactly the same, since photons cannot exchange energy with electrons",
+        "et": "See jääb täpselt samaks, kuna footonid ei saa elektronidega energiat vahetada",
+        "sourceHash": "e5a5e1ffe8429383",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compton-scattering-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It decreases, since the electron transfers energy back into the photon",
+        "et": "See väheneb, kuna elektron kannab energiat tagasi footonisse",
+        "sourceHash": "4300daf7956bd111",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compton-scattering-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It becomes undefined, since scattering destroys the photon entirely",
+        "et": "See muutub määramatuks, kuna hajumine hävitab footoni täielikult",
+        "sourceHash": "9730eac6a8b58fc2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compton-scattering-m1"
+    }
+  ]
+}
