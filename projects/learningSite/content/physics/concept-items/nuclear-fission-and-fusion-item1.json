@@ -1,0 +1,56 @@
+{
+  "id": "nuclear-fission-and-fusion-item1",
+  "conceptId": "nuclear-fission-and-fusion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What distinguishes nuclear fusion from nuclear fission in terms of the nuclei involved?",
+    "et": "Mis eristab tuumasünteesi tuuma lõhustumisest osalevate tuumade poolest?",
+    "sourceHash": "fcb2f00816da0da9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Fusion combines light nuclei into a heavier one, while fission splits a heavy nucleus into lighter fragments",
+        "et": "Süntees ühendab kerged tuumad raskemaks, samal ajal kui lõhustumine lõhestab raske tuuma kergemateks fragmentideks",
+        "sourceHash": "c770d2ba525986ac",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Fusion splits heavy nuclei apart, while fission combines light nuclei together",
+        "et": "Süntees lõhestab raskeid tuumasid lahku, samal ajal kui lõhustumine ühendab kergeid tuumasid kokku",
+        "sourceHash": "ddd8de2b076a137d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-fission-and-fusion-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both processes only ever involve nuclei of exactly the same mass reacting with each other",
+        "et": "Mõlemad protsessid hõlmavad alati ainult täpselt sama massiga tuumasid, mis omavahel reageerivad",
+        "sourceHash": "1a85e4ffdab9fff6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-fission-and-fusion-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Fusion and fission are identical in every respect except for the amount of energy released",
+        "et": "Süntees ja lõhustumine on igas mõttes identsed, väljaarvatud vabaneva energia hulk",
+        "sourceHash": "7ab534553bf19aa8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-fission-and-fusion-m1"
+    }
+  ]
+}

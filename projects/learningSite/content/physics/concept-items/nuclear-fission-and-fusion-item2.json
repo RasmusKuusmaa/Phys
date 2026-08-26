@@ -1,0 +1,56 @@
+{
+  "id": "nuclear-fission-and-fusion-item2",
+  "conceptId": "nuclear-fission-and-fusion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a nuclear fission chain reaction require a critical mass of fissile material, while fusion instead requires extreme temperature and pressure?",
+    "et": "Miks nõuab tuuma lõhustumise ahelreaktsioon lõhustuva materjali kriitilist massi, samal ajal kui süntees nõuab hoopis äärmuslikku temperatuuri ja rõhku?",
+    "sourceHash": "ebcc7ca3c50f688c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A chain reaction needs enough material for released neutrons to reliably trigger further fissions before escaping, while fusion needs enough kinetic energy for positively charged nuclei to overcome their mutual electrostatic repulsion",
+        "et": "Ahelreaktsioon vajab piisavalt materjali, et vabanevad neutronid usaldusväärselt käivitaksid enne väljapääsemist edasisi lõhustumisi, samal ajal kui süntees vajab piisavalt kineetilist energiat, et positiivselt laetud tuumad ületaksid oma vastastikuse elektrostaatilise tõukumise",
+        "sourceHash": "090eeb1aaa2787a1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both requirements exist purely for historical, engineering reasons with no underlying physical explanation",
+        "et": "Mõlemad nõuded eksisteerivad puhtalt ajaloolistel, inseneritehnilistel põhjustel ilma aluseks oleva füüsikalise selgituseta",
+        "sourceHash": "5f565b9407c2b2c6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-fission-and-fusion-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Fission requires high temperature and pressure, while fusion requires a critical mass, exactly the reverse of the true situation",
+        "et": "Lõhustumine nõuab kõrget temperatuuri ja rõhku, samal ajal kui süntees nõuab kriitilist massi, täpselt tegeliku olukorra vastupidi",
+        "sourceHash": "2ea248b93ef8eb8b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-fission-and-fusion-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Neither process has any dependence on the amount or state of the material involved",
+        "et": "Kummalgi protsessil pole mingit sõltuvust osaleva materjali hulgast ega olekust",
+        "sourceHash": "1e83b72156e17f5d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-fission-and-fusion-m1"
+    }
+  ]
+}
