@@ -1,0 +1,56 @@
+{
+  "id": "the-pauli-exclusion-principle-item1",
+  "conceptId": "the-pauli-exclusion-principle",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why don't all the electrons in a multi-electron atom simply fall into the single lowest-energy orbital in its ground state?",
+    "et": "Miks ei lange kõik mitme elektroniga aatomi elektronid põhiolekus lihtsalt üheainsasse madalaima energiaga orbitaali?",
+    "sourceHash": "82c734ad16f45999",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The Pauli exclusion principle forbids any two electrons from sharing an identical set of quantum numbers, forcing higher orbitals to fill",
+        "et": "Pauli keeluprintsiip keelab kahel elektronil jagada identset kvantarvude kogumit, sundides kõrgemaid orbitaale täituma",
+        "sourceHash": "4e1d21b580248889",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Electrons repel each other so strongly that they can never occupy nearby orbitals at all",
+        "et": "Elektronid tõukuvad üksteist nii tugevalt, et nad ei saa kunagi hõivata lähedasi orbitaale",
+        "sourceHash": "eb4ed3fea211609a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-pauli-exclusion-principle-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only two electrons total can ever exist in any given atom, regardless of its size",
+        "et": "Igas antud aatomis saab kunagi eksisteerida kokku ainult kaks elektroni, sõltumata selle suurusest",
+        "sourceHash": "5b99c66504291c70",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-pauli-exclusion-principle-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Higher orbitals are actually lower in energy than the lowest orbital, so electrons prefer them",
+        "et": "Kõrgemad orbitaalid on tegelikult madalama energiaga kui madalaim orbitaal, seega eelistavad elektronid neid",
+        "sourceHash": "f66f3b1d30429988",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-pauli-exclusion-principle-m1"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "the-pauli-exclusion-principle",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "The Pauli exclusion principle",
+    "et": "Pauli keeluprintsiip",
+    "sourceHash": "c05175da3d2be278",
+    "stale": false
+  },
+  "summary": {
+    "en": "No two electrons — or any other fermions — in the same quantum system can occupy an identical quantum state, a rule that forces electrons in an atom to stack into successively higher orbitals rather than all collapsing into the lowest one, and that is the fundamental reason ordinary matter has structure, volume, and resists being compressed.",
+    "et": "Ükski kaks elektroni — ega ühtegi muud fermioni — samas kvantsüsteemis ei saa hõivata identset kvantolekut, reegel, mis sunnib aatomi elektrone järjest kõrgematesse orbitaalidesse ladustuma, mitte kõigil madalaimasse kokku langema, ja see on põhjus, miks tavalisel ainel on struktuur, ruumala ja see on kokkusurumisele vastupidav.",
+    "sourceHash": "860f7f32f1ec36cc",
+    "stale": false
+  },
+  "prerequisites": [
+    "quantum-numbers-and-atomic-orbitals"
+  ]
+}

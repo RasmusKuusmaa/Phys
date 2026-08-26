@@ -1,0 +1,56 @@
+{
+  "id": "the-pauli-exclusion-principle-item2",
+  "conceptId": "the-pauli-exclusion-principle",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two electrons occupy the same atomic orbital (same n, l, ml). What must be true of their spins?",
+    "et": "Kaks elektroni hõivavad sama aatomorbitaali (sama n, l, ml). Mis peab kehtima nende spinnide kohta?",
+    "sourceHash": "cb1921bf672b99f4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They must have opposite spins — one spin-up and one spin-down — since identical spins would violate the exclusion principle",
+        "et": "Neil peavad olema vastandlikud spinnid — üks spinn-üles ja teine spinn-alla —, kuna identsed spinnid rikuksid keeluprintsiipi",
+        "sourceHash": "7b168ecf90ec8ad0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They must have the same spin, since matching spins are what allows them to share the orbital",
+        "et": "Neil peab olema sama spinn, kuna kokkulangevad spinnid ongi see, mis lubab neil orbitaali jagada",
+        "sourceHash": "bd98d4a541544cbf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-pauli-exclusion-principle-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Their spins are irrelevant, since the exclusion principle only concerns the spatial quantum numbers",
+        "et": "Nende spinnid on ebaolulised, kuna keeluprintsiip puudutab ainult ruumilisi kvantarve",
+        "sourceHash": "9520a1b6f7d1890d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-pauli-exclusion-principle-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both electrons must have zero spin while sharing the orbital",
+        "et": "Mõlemal elektronil peab orbitaali jagades olema null-spinn",
+        "sourceHash": "68b59c3bdd0e4c36",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-pauli-exclusion-principle-m1"
+    }
+  ]
+}
