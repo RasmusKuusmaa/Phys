@@ -426,6 +426,15 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "phase-equilibria-and-the-clausius-clapeyron-equation",
     "raoults-law-and-colligative-properties",
   ],
+  // LTKT.02.001 Füüsikaline keemia 2. osa — electrochemistry, surface chemistry,
+  // catalysis; elective, builds on part 1.
+  "LTKT.02.001": [
+    "electrolyte-solutions-and-conductivity",
+    "the-nernst-equation-and-electrode-potentials",
+    "adsorption-isotherms",
+    "catalysis-homogeneous-and-heterogeneous",
+    "metal-corrosion-and-the-electrochemical-series",
+  ],
   // LOKT.09.014 / LOKT.10.018 organic and bioorganic practicals — same functional
   // group and mechanism theory as the lecture course.
   "LOKT.09.014": [

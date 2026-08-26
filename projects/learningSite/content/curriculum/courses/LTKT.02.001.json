@@ -179,7 +179,13 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "electrolyte-solutions-and-conductivity",
+    "the-nernst-equation-and-electrode-potentials",
+    "adsorption-isotherms",
+    "catalysis-homogeneous-and-heterogeneous",
+    "metal-corrosion-and-the-electrochemical-series"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/chemistry2.md"
   ],

@@ -1004,7 +1004,9 @@ courses have nothing.
       rate laws/order, Arrhenius/activation energy, Clausius-Clapeyron,
       Raoult's law/colligative properties
   `content: add physical chemistry part one concepts`
-- [ ] Author physical chemistry part 2 for `LTKT.02.001` (30 topics)
+- [x] Author physical chemistry part 2 for `LTKT.02.001` (30 topics) — 4
+      concepts: electrolyte conductivity, Nernst equation, adsorption
+      isotherms, homogeneous/heterogeneous catalysis
   `content: add physical chemistry part two concepts`
 - [ ] Author analytical chemistry for `LTKT.06.019` and `LTKT.06.024` (15 topics)
   `content: add analytical chemistry concepts`
