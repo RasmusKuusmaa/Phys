@@ -1,0 +1,56 @@
+{
+  "id": "the-quantum-harmonic-oscillator-item2",
+  "conceptId": "the-quantum-harmonic-oscillator",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How are the allowed energy levels of a quantum harmonic oscillator spaced?",
+    "et": "Kuidas paiknevad kvantharmoonilise ostsillaatori lubatud energianivood?",
+    "sourceHash": "b019bd98a4a160cc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Evenly spaced, each level separated from the next by the same fixed amount ħω",
+        "et": "Ühtlaste vahedega, iga nivoo on järgmisest eraldatud sama fikseeritud suurusega ħω",
+        "sourceHash": "ad7e65cff7daa812",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Unevenly spaced, converging closer together as energy increases",
+        "et": "Ebaühtlaste vahedega, koondudes energia kasvades üksteisele lähemale",
+        "sourceHash": "8501ee7fda5eb138",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-quantum-harmonic-oscillator-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Continuous, with no gaps between allowed energies at all",
+        "et": "Pidevad, ilma igasuguste lünkadeta lubatud energiate vahel",
+        "sourceHash": "4b0f4d609f9851ee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-quantum-harmonic-oscillator-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Randomly distributed, with no fixed relationship between successive levels",
+        "et": "Juhuslikult jaotunud, ilma järjestikuste nivoode vahel fikseeritud seoseta",
+        "sourceHash": "a2cd3df773d820e8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-quantum-harmonic-oscillator-m1"
+    }
+  ]
+}

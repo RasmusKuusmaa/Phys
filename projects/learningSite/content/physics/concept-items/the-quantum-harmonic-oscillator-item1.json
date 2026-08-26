@@ -1,0 +1,56 @@
+{
+  "id": "the-quantum-harmonic-oscillator-item1",
+  "conceptId": "the-quantum-harmonic-oscillator",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is special about the energy of the lowest possible state of a quantum harmonic oscillator?",
+    "et": "Mis on eriline kvantharmoonilise ostsillaatori madalaima võimaliku oleku energia juures?",
+    "sourceHash": "6665415fc80528d8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is nonzero — a zero-point energy of ħω/2 — even though this is the lowest energy the system can have",
+        "et": "See on nullist erinev — nullpunktienergia ħω/2 —, kuigi see on madalaim energia, mis süsteemil saab olla",
+        "sourceHash": "3e49f8332707c414",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is exactly zero, matching a classical oscillator sitting motionless at the bottom of the well",
+        "et": "See on täpselt null, vastates klassikalisele ostsillaatorile, mis seisab liikumatult augu põhjas",
+        "sourceHash": "f77709a525b763d2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-quantum-harmonic-oscillator-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is negative, lower than the potential energy minimum itself",
+        "et": "See on negatiivne, madalam kui potentsiaalse energia miinimum ise",
+        "sourceHash": "91bdb4ade8d90062",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-quantum-harmonic-oscillator-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on the amplitude of oscillation chosen by the experimenter",
+        "et": "See sõltub eksperimenteerija valitud võnkumise amplituudist",
+        "sourceHash": "b4c471de426cf4a4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-quantum-harmonic-oscillator-m1"
+    }
+  ]
+}

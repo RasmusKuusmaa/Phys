@@ -1,0 +1,22 @@
+{
+  "id": "the-quantum-harmonic-oscillator",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "The quantum harmonic oscillator",
+    "et": "Kvantharmooniline ostsillaator",
+    "sourceHash": "c6492abd7b47a70c",
+    "stale": false
+  },
+  "summary": {
+    "en": "The quantum version of a mass on a spring has evenly spaced discrete energy levels, En = (n + 1/2)ħω, and even in its lowest possible state it retains a nonzero zero-point energy — it can never sit motionless at the bottom of the potential well the way a classical oscillator at rest could.",
+    "et": "Vedru otsas oleva massi kvantversioonil on ühtlaste vahedega diskreetsed energianivood, En = (n + 1/2)ħω, ja isegi oma madalaimas võimalikus olekus säilitab see nullist erineva nullpunktienergia — see ei saa kunagi seista liikumatuna potentsiaaliaugu põhjas nii, nagu saaks puhkeolekus klassikaline ostsillaator.",
+    "sourceHash": "fe9dcabd2a0f43f5",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schrodinger-equation",
+    "simple-harmonic-motion"
+  ]
+}
