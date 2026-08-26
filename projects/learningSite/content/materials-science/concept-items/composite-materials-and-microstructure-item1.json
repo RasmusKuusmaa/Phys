@@ -1,0 +1,56 @@
+{
+  "id": "composite-materials-and-microstructure-item1",
+  "conceptId": "composite-materials-and-microstructure",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A carbon-fibre-reinforced polymer combines strong, stiff carbon fibres with a comparatively soft, tough polymer resin. What roles do these two constituents typically play?",
+    "et": "Süsinikkiuga tugevdatud polümeer ühendab tugevad, jäigad süsinikkiud võrdlemisi pehme, sitke polümeervaiguga. Millised rollid need kaks koostisosa tavaliselt mängivad?",
+    "sourceHash": "65149ea556c4726f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The carbon fibres act as the reinforcing phase carrying most of the mechanical load, while the polymer matrix binds the fibres together and transfers stress between them",
+        "et": "Süsinikkiud toimivad tugevdava faasina, mis kannab enamikku mehaanilisest koormusest, samal ajal kui polümeermaatriks seob kiud kokku ja kannab nende vahel pinge üle",
+        "sourceHash": "93e62c014bb039fe",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The polymer resin carries essentially all of the mechanical load, while the fibres serve only a decorative purpose",
+        "et": "Polümeervaik kannab sisuliselt kogu mehaanilise koormuse, samal ajal kui kiud täidavad ainult dekoratiivset eesmärki",
+        "sourceHash": "973357c99c33b740",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "composite-materials-and-microstructure-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both constituents contribute exactly equally to every mechanical property, with no distinct functional roles",
+        "et": "Mõlemad koostisosad panustavad täpselt võrdselt igasse mehaanilisse omadusse, ilma eristuvate funktsionaalsete rollideta",
+        "sourceHash": "d5bf097470ffee51",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "composite-materials-and-microstructure-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The two constituents chemically merge into a single new material with no remaining distinction between them",
+        "et": "Kaks koostisosa sulanduvad keemiliselt üheks uueks materjaliks, ilma allesjääva erinevuseta nende vahel",
+        "sourceHash": "3b9550e989ce6020",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "composite-materials-and-microstructure-m1"
+    }
+  ]
+}

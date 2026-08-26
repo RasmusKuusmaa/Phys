@@ -1,0 +1,21 @@
+{
+  "id": "composite-materials-and-microstructure",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Composite materials and microstructure",
+    "et": "Komposiitmaterjalid ja mikrostruktuur",
+    "sourceHash": "49e85ac9e8d50ac5",
+    "stale": false
+  },
+  "summary": {
+    "en": "A composite material combines two or more distinct constituent materials — typically a reinforcing phase carrying most of the mechanical load and a surrounding matrix that binds it together and transfers stress — to achieve a combination of properties, such as high stiffness at low weight, that neither constituent could deliver alone.",
+    "et": "Komposiitmaterjal ühendab kaks või enam eraldiseisvat koostismaterjali — tavaliselt tugevdava faasi, mis kannab enamikku mehaanilisest koormusest, ja ümbritseva maatriksi, mis seob selle kokku ja kannab pinge üle —, et saavutada omaduste kombinatsioon, näiteks kõrge jäikus madala kaalu juures, mida kumbki koostisosa üksinda ei suudaks anda.",
+    "sourceHash": "5a4ba43477cf4eae",
+    "stale": false
+  },
+  "prerequisites": [
+    "classes-of-materials"
+  ]
+}

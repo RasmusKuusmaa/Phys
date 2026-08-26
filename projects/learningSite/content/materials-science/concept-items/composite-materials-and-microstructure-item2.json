@@ -1,0 +1,56 @@
+{
+  "id": "composite-materials-and-microstructure-item2",
+  "conceptId": "composite-materials-and-microstructure",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can a fibre-reinforced composite achieve a stiffness-to-weight ratio that neither the pure fibre material nor the pure matrix material could achieve alone in a practical structural form?",
+    "et": "Miks saab kiudtugevdatud komposiit saavutada jäikuse-kaalu suhte, mida ei suuda saavutada üksi ei puhas kiumaterjal ega puhas maatriksmaterjal praktilises konstruktsioonilises vormis?",
+    "sourceHash": "2979e929b021085d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The matrix allows the strong, stiff, but brittle and hard-to-shape fibres to be held in a useful structural form, distributing load among many fibres and preventing catastrophic crack propagation from any single flaw",
+        "et": "Maatriks lubab tugevatel, jäikadel, kuid habrastel ja raskesti vormitavatel kiududel püsida kasulikus konstruktsioonilises vormis, jaotades koormuse paljude kiudude vahel ja takistades katastroofilise pragude levikut ühestki üksikust defektist",
+        "sourceHash": "7c3a628bcbc55e05",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Composite materials achieve no real advantage over their pure constituent materials in any practical sense",
+        "et": "Komposiitmaterjalid ei saavuta oma puhaste koostismaterjalide ees mingit tegelikku eelist ühelgi praktilisel viisil",
+        "sourceHash": "695410fdfbe60dd2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "composite-materials-and-microstructure-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The fibres and matrix simply add their weights together with no effect on stiffness at all",
+        "et": "Kiud ja maatriks lihtsalt liidavad oma kaalud kokku, ilma igasuguse mõjuta jäikusele",
+        "sourceHash": "a3a8199f48e569ea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "composite-materials-and-microstructure-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Stiffness-to-weight ratio depends only on the matrix material, regardless of what reinforcement is used",
+        "et": "Jäikuse-kaalu suhe sõltub ainult maatriksmaterjalist, sõltumata kasutatavast tugevdusest",
+        "sourceHash": "92e671e9313ca0a1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "composite-materials-and-microstructure-m1"
+    }
+  ]
+}
