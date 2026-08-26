@@ -682,9 +682,8 @@ Modules `thermodynamics` and `statistical-mechanics`.
   `content: add partition function concept`
 - [x] `blackbody-radiation-and-plancks-law` (L3) — prereq `photons-and-quanta`
   `content: add blackbody radiation concept`
-- [ ] `quantum-statistics-fermi-dirac-and-bose-einstein` (L3) — prereq
-      `the-partition-function`, `the-pauli-exclusion-principle` — blocked on
-      Phase 20's Pauli exclusion principle concept, author after that lands
+- [x] `quantum-statistics-fermi-dirac-and-bose-einstein` (L3) — prereq
+      `the-partition-function`, `the-pauli-exclusion-principle`
   `content: add quantum statistics concept`
 
 ### Phase 19 — Optics
@@ -711,26 +710,26 @@ Module `optics`.
 Module `quantum-mechanics`. Depends on Phase 11b's quantum concepts being
 finished first.
 
-- [ ] Add terminology for quantum formalism
+- [x] Add terminology for quantum formalism
   `content: add quantum mechanics terminology`
-- [ ] `de-broglie-wavelength` (L2) — prereq `wave-particle-duality`
+- [x] `de-broglie-wavelength` (L2) — prereq `wave-particle-duality`
   `content: add de broglie wavelength concept`
-- [ ] `the-schrodinger-equation` (L3) — prereq `wavefunctions-and-probability`
+- [x] `the-schrodinger-equation` (L3) — prereq `wavefunctions-and-probability`
   `content: add schrodinger equation concept`
-- [ ] `operators-and-observables` (L3) — prereq `the-schrodinger-equation`
+- [x] `operators-and-observables` (L3) — prereq `the-schrodinger-equation`
   `content: add operators and observables concept`
-- [ ] `expectation-values-and-measurement` (L3) — prereq `operators-and-observables`
+- [x] `expectation-values-and-measurement` (L3) — prereq `operators-and-observables`
   `content: add expectation values concept`
-- [ ] `potential-steps-and-finite-wells` (L3) — prereq `particle-in-a-box`
+- [x] `potential-steps-and-finite-wells` (L3) — prereq `the-schrodinger-equation`,
+      `quantum-tunneling`
   `content: add potential steps and finite wells concept`
-- [ ] `the-quantum-harmonic-oscillator` (L3) — prereq `the-schrodinger-equation`,
+- [x] `the-quantum-harmonic-oscillator` (L3) — prereq `the-schrodinger-equation`,
       `simple-harmonic-motion`
   `content: add quantum harmonic oscillator concept`
-- [ ] `quantum-numbers-and-atomic-orbitals` (L3) — prereq
-      `the-hydrogen-atom-and-atomic-structure`
+- [x] `quantum-numbers-and-atomic-orbitals` (L3) — prereq
+      `the-schrodinger-equation`, `operators-and-observables`
   `content: add quantum numbers and orbitals concept`
-- [ ] `the-pauli-exclusion-principle` (L3) — prereq
-      `spin-and-angular-momentum-in-quantum-mechanics`,
+- [x] `the-pauli-exclusion-principle` (L3) — prereq
       `quantum-numbers-and-atomic-orbitals`
   `content: add pauli exclusion principle concept`
 
