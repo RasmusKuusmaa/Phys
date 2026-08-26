@@ -105,6 +105,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/jaotus/1/est"
   },
   {
+    "id": "boson",
+    "en": "boson",
+    "et": "boson",
+    "domain": "quantum-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/boson/1/est"
+  },
+  {
     "id": "buoyancy",
     "en": "buoyancy",
     "et": "üleslükkejõud",
@@ -299,6 +306,13 @@
     "et": "paisumistegur",
     "domain": "thermodynamics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/paisumistegur/1/est"
+  },
+  {
+    "id": "fermion",
+    "en": "fermion",
+    "et": "fermion",
+    "domain": "quantum-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/fermion/1/est"
   },
   {
     "id": "flow-rate",
