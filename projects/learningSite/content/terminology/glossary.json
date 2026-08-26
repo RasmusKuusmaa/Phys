@@ -546,6 +546,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/magnetvoog/1/est"
   },
   {
+    "id": "magnification",
+    "en": "magnification",
+    "et": "suurendus",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/suurendus/1/est"
+  },
+  {
     "id": "mass",
     "en": "mass",
     "et": "mass",
