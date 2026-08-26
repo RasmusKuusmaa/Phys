@@ -990,7 +990,9 @@ courses have nothing.
 - [x] Author general chemistry for `LOKT.07.010` — the mole, bonding, stoichiometry,
       the periodic table, acids/bases/pH, redox, equilibrium, kinetics (8 concepts)
   `content: add general chemistry concepts`
-- [ ] Author inorganic chemistry for `LOKT.01.007` (25 syllabus topics)
+- [x] Author inorganic chemistry for `LOKT.01.007` (25 syllabus topics) — 7
+      concepts: halogens, transition metals, hydrogen/electrolysis,
+      oxides/oxoacids, nitrogen group, carbon/silicon group, corrosion
   `content: add inorganic chemistry concepts`
 - [ ] Author organic chemistry I for `LOKT.09.004` (14 topics)
   `content: add organic chemistry concepts`

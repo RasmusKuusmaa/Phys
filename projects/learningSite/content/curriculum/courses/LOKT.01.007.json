@@ -160,7 +160,12 @@
     "redox-reactions",
     "the-halogens",
     "transition-metals-and-coordination-compounds",
-    "acids-bases-and-ph"
+    "acids-bases-and-ph",
+    "hydrogen-and-electrolysis",
+    "oxides-and-oxoacids",
+    "the-nitrogen-group",
+    "the-carbon-and-silicon-group",
+    "metal-corrosion-and-the-electrochemical-series"
   ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience1.md",

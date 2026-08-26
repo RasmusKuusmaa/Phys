@@ -367,6 +367,11 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-halogens",
     "transition-metals-and-coordination-compounds",
     "acids-bases-and-ph",
+    "hydrogen-and-electrolysis",
+    "oxides-and-oxoacids",
+    "the-nitrogen-group",
+    "the-carbon-and-silicon-group",
+    "metal-corrosion-and-the-electrochemical-series",
   ],
   // LOKT.01.010 Anorgaanilise keemia praktikum I — theory behind the bench work.
   "LOKT.01.010": [
