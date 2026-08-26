@@ -1,0 +1,56 @@
+{
+  "id": "least-squares-fitting-and-linear-regression-item1",
+  "conceptId": "least-squares-fitting-and-linear-regression",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What quantity does the least-squares method minimise when fitting a straight line to a set of data points?",
+    "et": "Millist suurust minimeerib vähimruutude meetod, sobitades andmepunktide hulgale sirget?",
+    "sourceHash": "07da94e6060c8b22",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The sum of the squared vertical distances between each data point and the fitted line",
+        "et": "Iga andmepunkti ja sobitatud sirge vahelise vertikaalse kauguse ruutude summat",
+        "sourceHash": "0f487cd3ada53646",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The sum of the plain (unsquared) vertical distances between each data point and the fitted line",
+        "et": "Iga andmepunkti ja sobitatud sirge vahelise tavalise (ruutu tõstmata) vertikaalse kauguse summat",
+        "sourceHash": "c29f916fe2d1c75c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "least-squares-fitting-and-linear-regression-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The total number of data points lying exactly on the fitted line",
+        "et": "Sobitatud sirgel täpselt asuvate andmepunktide koguarvu",
+        "sourceHash": "2fe11e1dcda53156",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "least-squares-fitting-and-linear-regression-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The horizontal distance between the first and last data points",
+        "et": "Esimese ja viimase andmepunkti vahelist horisontaalset kaugust",
+        "sourceHash": "ed869942179feb21",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "least-squares-fitting-and-linear-regression-m1"
+    }
+  ]
+}

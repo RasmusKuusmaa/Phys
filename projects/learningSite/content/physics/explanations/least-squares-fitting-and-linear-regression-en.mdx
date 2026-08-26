@@ -1,0 +1,32 @@
+Given a set of measured data points that are expected, according to theory,
+to lie on a straight line, the practical problem is finding the specific
+line — the specific slope and intercept — that best represents the data.
+Drawing a line "by eye" is subjective: different people, given the same
+scatter of points, will draw slightly different lines, and there is no way
+to attach a meaningful uncertainty to a line chosen this way.
+
+The least-squares method replaces this subjective judgement with an
+objective mathematical criterion. For any candidate line, the vertical
+distance (the residual) between each data point and the line can be
+calculated; the least-squares criterion selects the specific slope and
+intercept that minimise the sum of the squares of all these residuals.
+Squaring the residuals before summing serves two purposes: it makes every
+term positive, so that positive and negative deviations do not cancel out
+and hide a poor fit, and it penalises large deviations more heavily than
+small ones, so the fit is especially sensitive to points that lie far from
+the general trend. This minimisation problem has a closed-form algebraic
+solution for a straight line, so the best-fit slope and intercept can be
+calculated directly from the data rather than found by trial and error.
+
+Because the least-squares procedure is a well-defined calculation rather
+than a subjective judgement, it produces the same result every time it is
+applied to the same data, and — importantly — it also yields formulas for
+the uncertainty in the fitted slope and intercept themselves, based on how
+scattered the data points are around the best-fit line. A tight cluster of
+points close to the fitted line gives small uncertainties in the fit
+parameters; a wide scatter gives large ones. This is what allows an
+experimenter to report not just "the slope is approximately such-and-such"
+but a quantitative, defensible value with its own uncertainty, and to assess
+quantitatively — via how well the fit actually matches the data — whether
+the assumed linear relationship (often obtained via linearisation of a
+nonlinear physical law) is actually supported by the measurements.

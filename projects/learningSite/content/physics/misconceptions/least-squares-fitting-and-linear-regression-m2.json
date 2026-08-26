@@ -1,0 +1,10 @@
+{
+  "id": "least-squares-fitting-and-linear-regression-m2",
+  "conceptId": "least-squares-fitting-and-linear-regression",
+  "text": {
+    "en": "Least-squares fitting minimises the sum of the distances between points and the line, not the sum of their squares.",
+    "et": "Vähimruutude sobitus minimeerib punktide ja sirge vaheliste kauguste summat, mitte nende ruutude summat.",
+    "sourceHash": "a35992edb1e225aa",
+    "stale": false
+  }
+}

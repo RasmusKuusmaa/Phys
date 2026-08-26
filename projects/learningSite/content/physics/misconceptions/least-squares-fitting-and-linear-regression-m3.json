@@ -1,0 +1,10 @@
+{
+  "id": "least-squares-fitting-and-linear-regression-m3",
+  "conceptId": "least-squares-fitting-and-linear-regression",
+  "text": {
+    "en": "The slope and intercept from a linear regression are exact values with no associated uncertainty of their own.",
+    "et": "Lineaarse regressiooni tõus ja lõikepunkt on täpsed väärtused ilma nendega seotud omaenda määramatuseta.",
+    "sourceHash": "7523f3d8ec5d73ad",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "least-squares-fitting-and-linear-regression",
+  "subject": "physics",
+  "level": "L3",
+  "module": "measurement",
+  "title": {
+    "en": "Least-squares fitting and linear regression",
+    "et": "Vähimruutude sobitus ja lineaarne regressioon",
+    "sourceHash": "0096a912730c3bf7",
+    "stale": false
+  },
+  "summary": {
+    "en": "Linear regression finds the straight line through a set of data points that minimises the sum of the squared vertical distances between each point and the line — the least-squares criterion — giving objective, reproducible values for the slope and intercept along with their own uncertainties, rather than relying on a subjective by-eye best-fit line.",
+    "et": "Lineaarne regressioon leiab andmepunktide hulga läbiva sirge, mis minimeerib iga punkti ja sirge vahelise vertikaalse kauguse ruutude summat — vähimruutude kriteerium —, andes objektiivsed, korratavad väärtused tõusule ja lõikepunktile koos nende endi määramatustega, selle asemel et toetuda subjektiivsele silma järgi määratud parimale sirgele.",
+    "sourceHash": "b6c46a867f8d9ea9",
+    "stale": false
+  },
+  "prerequisites": [
+    "graphing-and-linearisation-of-data"
+  ]
+}

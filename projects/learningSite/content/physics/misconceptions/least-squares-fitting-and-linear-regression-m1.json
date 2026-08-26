@@ -1,0 +1,10 @@
+{
+  "id": "least-squares-fitting-and-linear-regression-m1",
+  "conceptId": "least-squares-fitting-and-linear-regression",
+  "text": {
+    "en": "The best-fit line through a set of data points is whichever line looks closest to the points by eye, with no objective mathematical criterion involved.",
+    "et": "Andmepunktide hulga läbiv parim sirge on see, mis silma järgi tundub punktidele kõige lähemal, ilma ühegi objektiivse matemaatilise kriteeriumita.",
+    "sourceHash": "719cc4eaa8e1c62a",
+    "stale": false
+  }
+}

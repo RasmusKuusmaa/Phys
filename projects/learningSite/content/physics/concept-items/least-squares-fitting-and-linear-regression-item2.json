@@ -1,0 +1,56 @@
+{
+  "id": "least-squares-fitting-and-linear-regression-item2",
+  "conceptId": "least-squares-fitting-and-linear-regression",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is a least-squares fit generally preferred over drawing a 'best-fit' line by eye through a set of data points?",
+    "et": "Miks eelistatakse vähimruutude sobitust üldiselt silma järgi joonestatud 'parima sobivusega' sirgele andmepunktide hulga läbimiseks?",
+    "sourceHash": "ea4c78e1e5f748da",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It gives objective, reproducible slope and intercept values with their own calculable uncertainties, rather than a result that depends on who draws the line",
+        "et": "See annab objektiivsed, korratavad tõusu ja lõikepunkti väärtused koos nende endi arvutatava määramatusega, selle asemel et tulemus sõltuks sellest, kes sirge joonestab",
+        "sourceHash": "7eafe085d0b33110",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A least-squares fit always passes through every single data point exactly",
+        "et": "Vähimruutude sobitus läbib alati täpselt iga üksikut andmepunkti",
+        "sourceHash": "485ad2cb956bd2a5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "least-squares-fitting-and-linear-regression-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Drawing a line by eye is always mathematically identical to a least-squares fit for any dataset",
+        "et": "Sirge silma järgi joonestamine on iga andmestiku puhul alati matemaatiliselt identne vähimruutude sobitusega",
+        "sourceHash": "47dcb209068d237b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "least-squares-fitting-and-linear-regression-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A least-squares fit eliminates the need to report any uncertainty in the fitted parameters",
+        "et": "Vähimruutude sobitus kõrvaldab vajaduse esitada sobitatud parameetrite kohta mingit määramatust",
+        "sourceHash": "d178a82542ddee0e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "least-squares-fitting-and-linear-regression-m1"
+    }
+  ]
+}
