@@ -1,0 +1,10 @@
+{
+  "id": "data-structures-and-algorithms-m2",
+  "conceptId": "data-structures-and-algorithms",
+  "text": {
+    "en": "An array and a linked list are just two different names for the same underlying way of storing a sequence of values in memory.",
+    "et": "Massiiv ja lingitud loend on lihtsalt kaks erinevat nime samale aluseks olevale viisile, kuidas väärtuste jada mälus hoida.",
+    "sourceHash": "c684cf4fa461c300",
+    "stale": false
+  }
+}

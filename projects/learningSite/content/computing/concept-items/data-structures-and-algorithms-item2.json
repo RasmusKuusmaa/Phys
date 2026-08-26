@@ -1,0 +1,56 @@
+{
+  "id": "data-structures-and-algorithms-item2",
+  "conceptId": "data-structures-and-algorithms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A program frequently inserts new elements in the middle of a large sequence. A linked list handles this far more cheaply than an array does. What explains the difference?",
+    "et": "Programm lisab sageli uusi elemente suure jada keskele. Lingitud loend käsitleb seda palju odavamalt kui massiiv. Mis seletab seda erinevust?",
+    "sourceHash": "4e2687464624e32a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Inserting into an array requires shifting every subsequent element to make room, while a linked list only needs to update a couple of pointers at the insertion point",
+        "et": "Massiivi lisamine nõuab kõigi järgnevate elementide nihutamist ruumi tegemiseks, samal ajal kui lingitud loend vajab ainult paari viida uuendamist lisamiskohas",
+        "sourceHash": "6714ed9d630ab793",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Arrays and linked lists handle insertion in exactly the same way internally",
+        "et": "Massiivid ja lingitud loendid käsitlevad lisamist sisemiselt täpselt samal viisil",
+        "sourceHash": "e22fd9d04307553b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "data-structures-and-algorithms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Linked lists cannot actually support insertion in the middle of the sequence at all",
+        "et": "Lingitud loendid ei saa tegelikult üldse toetada keskele lisamist",
+        "sourceHash": "34a1c2692f9f45ea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "data-structures-and-algorithms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Arrays are always faster than linked lists for every possible operation",
+        "et": "Massiivid on iga võimaliku tehte jaoks alati kiiremad kui lingitud loendid",
+        "sourceHash": "bbfce1fbe1bca676",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "data-structures-and-algorithms-m1"
+    }
+  ]
+}

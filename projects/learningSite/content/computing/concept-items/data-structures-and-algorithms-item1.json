@@ -1,0 +1,56 @@
+{
+  "id": "data-structures-and-algorithms-item1",
+  "conceptId": "data-structures-and-algorithms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A program frequently needs to access the 500th element of a large collection directly, by its position, without stepping through every element before it. Which data structure supports this efficiently, and why?",
+    "et": "Programm vajab sageli otse ligipääsu suure kogumi 500. elemendile tema positsiooni järgi, ilma kõiki eelnevaid elemente läbimata. Milline andmestruktuur toetab seda tõhusalt ja miks?",
+    "sourceHash": "940495b6fa309911",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An array, because its elements are stored at contiguous, evenly spaced memory locations, so any element's address can be computed directly from its index",
+        "et": "Massiiv, kuna selle elemendid on salvestatud külgnevatesse, ühtlaste vahedega mäluaadressidesse, seega saab iga elemendi aadressi arvutada otse tema indeksist",
+        "sourceHash": "5238851c13af7c89",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A linked list, because each node stores a direct pointer to every other node in the list",
+        "et": "Lingitud loend, kuna iga sõlm salvestab otsese viida igale teisele loendi sõlmele",
+        "sourceHash": "0cb5394768474abb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "data-structures-and-algorithms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Every data structure supports this equally quickly, since it only depends on the collection's total size",
+        "et": "Iga andmestruktuur toetab seda võrdselt kiiresti, kuna see sõltub ainult kogumi kogusuurusest",
+        "sourceHash": "b1b63f7d4b58285f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "data-structures-and-algorithms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "No data structure can access an arbitrary element without stepping through every element before it",
+        "et": "Ükski andmestruktuur ei saa pääseda ligi suvalisele elemendile ilma kõiki eelnevaid elemente läbimata",
+        "sourceHash": "042ba712d0a06cb7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "data-structures-and-algorithms-m1"
+    }
+  ]
+}

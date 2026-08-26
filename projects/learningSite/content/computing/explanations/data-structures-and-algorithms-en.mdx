@@ -1,0 +1,41 @@
+A data structure is a specific way of organising data in memory, chosen to
+make certain operations efficient. The same collection of values — say, a
+list of a thousand numbers — can be stored in fundamentally different ways,
+and which way is best depends entirely on which operations the program
+actually needs to perform quickly. This is not an abstract concern: for
+data collections large enough to matter, the choice of data structure is
+often the single biggest factor in whether a program runs in a fraction of
+a second or takes minutes.
+
+An array stores its elements at contiguous, evenly spaced locations in
+memory, one after another. This layout makes direct, indexed access
+extremely fast: to find the 500th element, the computer simply computes its
+memory address directly from the starting address plus 500 times the size
+of one element, without needing to look at any other element first — this
+operation takes the same amount of time regardless of how large the array
+is or which index is requested. The cost of this layout shows up when
+inserting or removing an element in the middle of the array: because
+elements must remain contiguous, inserting a new element requires shifting
+every subsequent element one position to make room, an operation whose cost
+grows with the number of elements that must be shifted.
+
+A linked list takes the opposite approach: each element (node) is stored
+independently, wherever memory happens to be available, and each node
+carries an explicit pointer to the next node in the sequence, rather than
+relying on contiguous placement. This makes insertion and removal cheap
+anywhere in the list — inserting a new node requires only redirecting a
+couple of pointers at the insertion point, regardless of how large the list
+is — but it makes indexed access to an arbitrary element expensive, since
+there is no way to compute a node's memory location directly; the only way
+to reach the 500th node is to follow 500 pointers starting from the
+beginning.
+
+Neither structure is universally better; each is a deliberate trade-off,
+and the general lesson extends far beyond these two examples: every data
+structure makes some operations fast at the cost of making others slow, and
+choosing a data structure is really a decision about which operations a
+particular program needs to be fast, made in advance based on how the
+program will actually use its data. Algorithms and the data structures they
+operate on are therefore not independent choices — an algorithm's real-world
+performance depends on the structure feeding it just as much as on the
+logic of the algorithm itself.

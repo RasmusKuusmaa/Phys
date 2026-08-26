@@ -1,0 +1,40 @@
+Andmestruktuur on konkreetne viis andmete organiseerimiseks mälus, valitud
+selleks, et muuta teatud tehted tõhusaks. Sama väärtuste kogumit — näiteks
+tuhande arvu loend — saab salvestada põhimõtteliselt erineval viisil, ja
+milline viis on parim, sõltub täielikult sellest, milliseid tehteid
+programm tegelikult peab kiiresti sooritama. See ei ole abstraktne mure:
+piisavalt suurte andmekogude jaoks on andmestruktuuri valik sageli kõige
+suurem tegur selles, kas programm töötab sekundi murdosaga või võtab
+minuteid.
+
+Massiiv salvestab oma elemendid külgnevatesse, ühtlaste vahedega
+mäluasukohtadesse, üksteise järel. See paigutus muudab otsese,
+indekseeritud ligipääsu äärmiselt kiireks: 500. elemendi leidmiseks
+arvutab arvuti tema mäluaadressi lihtsalt otse algusaadressist pluss
+500 korda ühe elemendi suurus, ilma vajaduseta vaadata esmalt ühtki teist
+elementi — see tehe võtab sama palju aega sõltumata sellest, kui suur
+massiiv on või millist indeksit küsitakse. Selle paigutuse kulu ilmneb
+elemendi lisamisel või eemaldamisel massiivi keskelt: kuna elemendid
+peavad jääma külgnevaks, nõuab uue elemendi lisamine kõigi järgnevate
+elementide nihutamist ühe positsiooni võrra ruumi tegemiseks, tehe, mille
+kulu kasvab koos nihutatavate elementide arvuga.
+
+Lingitud loend võtab vastupidise lähenemise: iga element (sõlm) on
+salvestatud sõltumatult, kus iganes mälu juhtub olema saadaval, ja iga
+sõlm kannab selget viita järgmisele sõlmele jadas, mitte ei tugine
+külgnevale paigutusele. See muudab lisamise ja eemaldamise odavaks kus
+iganes loendis — uue sõlme lisamine nõuab ainult paari viida
+ümbersuunamist lisamiskohas, sõltumata sellest, kui suur loend on —, kuid
+muudab kalliks indekseeritud ligipääsu suvalisele elemendile, kuna puudub
+viis sõlme mäluasukohta otse arvutada; ainus viis 500. sõlmeni jõudmiseks
+on järgida 500 viita alates algusest.
+
+Kumbki struktuur ei ole universaalselt parem; kumbki on tahtlik
+kompromiss, ja üldine õppetund laieneb kaugele üle nende kahe näite: iga
+andmestruktuur muudab mõned tehted kiireks teiste aeglaseks muutmise
+hinnaga, ja andmestruktuuri valimine on tegelikult otsus selle kohta,
+millised tehted peavad konkreetse programmi jaoks kiired olema, tehtud
+ette selle põhjal, kuidas programm oma andmeid tegelikult kasutab.
+Algoritmid ja andmestruktuurid, millel need töötavad, ei ole seega
+sõltumatud valikud — algoritmi tegelik jõudlus sõltub seda toitvast
+struktuurist sama palju kui algoritmi enda loogikast.

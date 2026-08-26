@@ -1,0 +1,10 @@
+{
+  "id": "data-structures-and-algorithms-m3",
+  "conceptId": "data-structures-and-algorithms",
+  "text": {
+    "en": "An algorithm's running time is fixed and does not depend on which data structure it operates on.",
+    "et": "Algoritmi töötamisaeg on fikseeritud ega sõltu sellest, millisel andmestruktuuril see töötab.",
+    "sourceHash": "adf8bfe1deb14954",
+    "stale": false
+  }
+}

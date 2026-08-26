@@ -1,0 +1,22 @@
+{
+  "id": "data-structures-and-algorithms",
+  "subject": "computing",
+  "level": "L1",
+  "module": "programming-fundamentals",
+  "title": {
+    "en": "Data structures and algorithms",
+    "et": "Andmestruktuurid ja algoritmid",
+    "sourceHash": "c131186357151498",
+    "stale": false
+  },
+  "summary": {
+    "en": "A data structure organises values in memory so that particular operations — accessing an element, searching for one, inserting or removing one — can be performed efficiently, and choosing the right structure (an array for fast indexed access, a linked list for cheap insertion, and so on) is what actually determines whether an algorithm running on that data scales well as the amount of data grows.",
+    "et": "Andmestruktuur korraldab väärtused mälus nii, et kindlaid tehteid — elemendile ligipääs, otsimine, lisamine või eemaldamine — saab teostada tõhusalt, ja õige struktuuri valimine (massiiv kiireks indekseeritud ligipääsuks, lingitud loend odavaks lisamiseks jne) ongi see, mis tegelikult määrab, kas sellel andmel töötav algoritm skaleerub hästi andmemahu kasvades.",
+    "sourceHash": "5bcf6425246de270",
+    "stale": false
+  },
+  "prerequisites": [
+    "algorithms-and-program-structure",
+    "control-flow"
+  ]
+}

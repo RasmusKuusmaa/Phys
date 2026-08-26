@@ -1,0 +1,10 @@
+{
+  "id": "data-structures-and-algorithms-m1",
+  "conceptId": "data-structures-and-algorithms",
+  "text": {
+    "en": "All data structures perform every operation (access, search, insert, delete) equally efficiently, so the choice between them never matters.",
+    "et": "Kõik andmestruktuurid teostavad iga tehte (ligipääs, otsimine, lisamine, kustutamine) võrdselt tõhusalt, seega ei ole nendevaheline valik kunagi oluline.",
+    "sourceHash": "5485a6da3debc7ea",
+    "stale": false
+  }
+}
