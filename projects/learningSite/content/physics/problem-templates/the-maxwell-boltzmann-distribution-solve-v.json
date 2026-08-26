@@ -1,0 +1,33 @@
+{
+  "id": "the-maxwell-boltzmann-distribution-solve-v",
+  "formulaId": "the-maxwell-boltzmann-distribution-formula",
+  "variables": [
+    {
+      "symbol": "T",
+      "min": 100,
+      "max": 1000,
+      "unit": "K",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "m",
+      "min": 1e-27,
+      "max": 1e-25,
+      "unit": "kg",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "T",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "m",
+      "right": 0
+    }
+  ],
+  "solveFor": "v"
+}

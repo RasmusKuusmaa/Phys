@@ -1,0 +1,27 @@
+{
+  "id": "the-maxwell-boltzmann-distribution-solve-v-errors",
+  "formulaId": "the-maxwell-boltzmann-distribution-formula",
+  "solveFor": "v",
+  "mistakes": [
+    {
+      "id": "forgot-factor-2",
+      "description": {
+        "en": "Omits the factor of 2 under the square root",
+        "et": "Jätab ruutjuure alt 2-kordse teguri ära",
+        "sourceHash": "6d645bf6f33ab400",
+        "stale": false
+      },
+      "expression": "sqrt(0.00000000000000000000001380649*T/m)"
+    },
+    {
+      "id": "no-sqrt",
+      "description": {
+        "en": "Forgets to take the square root, treating the ratio itself as the speed",
+        "et": "Unustab ruutjuure võtmise, käsitledes suhet ennast kiirusena",
+        "sourceHash": "a03e3554429e1f0e",
+        "stale": false
+      },
+      "expression": "2*0.00000000000000000000001380649*T/m"
+    }
+  ]
+}

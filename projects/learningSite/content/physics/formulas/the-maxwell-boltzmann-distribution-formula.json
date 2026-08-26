@@ -1,0 +1,47 @@
+{
+  "id": "the-maxwell-boltzmann-distribution-formula",
+  "conceptId": "the-maxwell-boltzmann-distribution",
+  "latex": "v_p = \\sqrt{\\frac{2 k_B T}{m}}",
+  "symbols": [
+    {
+      "symbol": "v",
+      "name": {
+        "en": "most probable speed",
+        "et": "kõige tõenäolisem kiirus",
+        "sourceHash": "e0f30077c12f3057",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "T",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    },
+    {
+      "symbol": "m",
+      "name": {
+        "en": "particle mass",
+        "et": "osakese mass",
+        "sourceHash": "e12fc1dc6b53a32e",
+        "stale": false
+      },
+      "unit": "kg"
+    }
+  ],
+  "solveFor": [
+    "v",
+    "T",
+    "m"
+  ],
+  "expressions": {
+    "v": "sqrt(2*0.00000000000000000000001380649*T/m)",
+    "T": "(v^2*m)/(2*0.00000000000000000000001380649)",
+    "m": "(2*0.00000000000000000000001380649*T)/(v^2)"
+  }
+}
