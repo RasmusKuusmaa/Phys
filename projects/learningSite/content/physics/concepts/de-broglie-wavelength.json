@@ -1,0 +1,21 @@
+{
+  "id": "de-broglie-wavelength",
+  "subject": "physics",
+  "level": "L2",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "The de Broglie wavelength",
+    "et": "De Broglie lainepikkus",
+    "sourceHash": "933671556509e43c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every moving particle has an associated wavelength inversely proportional to its momentum, λ = h/p, which is negligibly small for everyday objects but large enough to produce measurable diffraction for electrons and other subatomic particles.",
+    "et": "Igal liikuval osakesel on kaasnev lainepikkus, mis on pöördvõrdeline selle impulsiga, λ = h/p, mis on igapäevaste kehade jaoks tähtsusetult väike, kuid piisavalt suur, et tekitada elektronidel ja teistel subatomaarsetel osakestel mõõdetavat difraktsiooni.",
+    "sourceHash": "5b70e7220d1644aa",
+    "stale": false
+  },
+  "prerequisites": [
+    "wave-particle-duality"
+  ]
+}

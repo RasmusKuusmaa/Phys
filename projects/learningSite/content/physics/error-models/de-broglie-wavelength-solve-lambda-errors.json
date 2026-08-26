@@ -1,0 +1,28 @@
+{
+  "id": "de-broglie-wavelength-solve-lambda-errors",
+  "formulaId": "de-broglie-wavelength-formula",
+  "solveFor": "lambda",
+  "mistakes": [
+    {
+      "id": "multiplied-instead-of-divided",
+      "description": {
+        "en": "Multiplied by momentum instead of dividing.",
+        "et": "Korrutas impulsiga, selle asemel et jagada.",
+        "sourceHash": "f92d361ab3b002b3",
+        "stale": false
+      },
+      "expression": "0.000000000000000000000000000000662607015*p",
+      "misconceptionId": "de-broglie-wavelength-m3"
+    },
+    {
+      "id": "squared-momentum",
+      "description": {
+        "en": "Squared the momentum instead of using it directly.",
+        "et": "Tõstis impulsi ruutu, selle asemel et kasutada seda otse.",
+        "sourceHash": "948bc8a996968e8a",
+        "stale": false
+      },
+      "expression": "0.000000000000000000000000000000662607015/(p^2)"
+    }
+  ]
+}

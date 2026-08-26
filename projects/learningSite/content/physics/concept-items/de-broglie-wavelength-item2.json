@@ -1,0 +1,56 @@
+{
+  "id": "de-broglie-wavelength-item2",
+  "conceptId": "de-broglie-wavelength",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An electron is accelerated to a higher momentum. What happens to its de Broglie wavelength?",
+    "et": "Elektronit kiirendatakse suurema impulsini. Mis juhtub selle de Broglie lainepikkusega?",
+    "sourceHash": "cb01db50c98d2546",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It decreases, since wavelength is inversely proportional to momentum",
+        "et": "See väheneb, sest lainepikkus on pöördvõrdeline impulsiga",
+        "sourceHash": "2f93a1a050adc9cb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It increases, since a faster particle should have a longer wavelength",
+        "et": "See kasvab, sest kiiremal osakesel peaks olema pikem lainepikkus",
+        "sourceHash": "627bacee179ede51",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "de-broglie-wavelength-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It stays the same, since wavelength depends only on the particle's mass",
+        "et": "See jääb samaks, sest lainepikkus sõltub ainult osakese massist",
+        "sourceHash": "dcdb2c67a8afde1a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "de-broglie-wavelength-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It becomes undefined, since fast particles no longer behave as waves",
+        "et": "See muutub määramatuks, sest kiired osakesed ei käitu enam lainetena",
+        "sourceHash": "51eb391d747c05bf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "de-broglie-wavelength-m1"
+    }
+  ]
+}

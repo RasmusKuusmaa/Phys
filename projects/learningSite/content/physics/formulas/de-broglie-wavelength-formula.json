@@ -1,0 +1,35 @@
+{
+  "id": "de-broglie-wavelength-formula",
+  "conceptId": "de-broglie-wavelength",
+  "latex": "\\lambda = \\frac{h}{p}",
+  "symbols": [
+    {
+      "symbol": "lambda",
+      "name": {
+        "en": "wavelength",
+        "et": "lainepikkus",
+        "sourceHash": "cbf73350941bee0f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "p",
+      "name": {
+        "en": "momentum",
+        "et": "impulss",
+        "sourceHash": "446be308664e1964",
+        "stale": false
+      },
+      "unit": "kg*m/s"
+    }
+  ],
+  "solveFor": [
+    "lambda",
+    "p"
+  ],
+  "expressions": {
+    "lambda": "0.000000000000000000000000000000662607015/p",
+    "p": "0.000000000000000000000000000000662607015/lambda"
+  }
+}

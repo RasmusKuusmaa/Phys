@@ -1,0 +1,21 @@
+{
+  "id": "de-broglie-wavelength-solve-lambda",
+  "formulaId": "de-broglie-wavelength-formula",
+  "variables": [
+    {
+      "symbol": "p",
+      "min": 1e-27,
+      "max": 1e-22,
+      "unit": "kg*m/s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "p",
+      "right": 0
+    }
+  ],
+  "solveFor": "lambda"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "de-broglie-wavelength-item1",
+  "conceptId": "de-broglie-wavelength",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A thrown baseball and an electron in a particle accelerator both have de Broglie wavelengths. Why is only the electron's wave nature ever observed experimentally?",
+    "et": "Nii visatud pesapallil kui ka osakestekiirendis oleval elektronil on mõlemal de Broglie lainepikkus. Miks täheldatakse katseliselt ainult elektroni lainelist olemust?",
+    "sourceHash": "eb1b99d8bcecf1a3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The baseball's momentum is so large that its wavelength is many orders of magnitude too small to produce any observable effect",
+        "et": "Pesapalli impulss on nii suur, et selle lainepikkus on mitu suurusjärku liiga väike, et tekitada mistahes jälgitavat efekti",
+        "sourceHash": "d22947399165622f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The baseball has no de Broglie wavelength at all, since it is not a subatomic particle",
+        "et": "Pesapallil pole üldse de Broglie lainepikkust, sest see ei ole subatomaarne osake",
+        "sourceHash": "6a92f74ec2655b79",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "de-broglie-wavelength-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only charged particles like electrons have a de Broglie wavelength",
+        "et": "De Broglie lainepikkus on ainult laetud osakestel nagu elektronid",
+        "sourceHash": "b424fe32c660b92e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "de-broglie-wavelength-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The baseball's wavelength is larger than the electron's, making it harder to detect",
+        "et": "Pesapalli lainepikkus on elektroni omast suurem, mistõttu on seda raskem tuvastada",
+        "sourceHash": "bb09e086cdd817cb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "de-broglie-wavelength-m1"
+    }
+  ]
+}
