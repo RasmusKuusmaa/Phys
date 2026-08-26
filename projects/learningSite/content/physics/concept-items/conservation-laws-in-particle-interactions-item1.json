@@ -1,0 +1,56 @@
+{
+  "id": "conservation-laws-in-particle-interactions-item1",
+  "conceptId": "conservation-laws-in-particle-interactions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A proposed particle reaction conserves energy and momentum but would change the total electric charge of the system. Can this reaction occur?",
+    "et": "Pakutud osakeste reaktsioon säilitab energia ja impulsi, kuid muudaks süsteemi kogu elektrilaengut. Kas see reaktsioon saab toimuda?",
+    "sourceHash": "14018de8375cd5dd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No — conservation of electric charge is a separate, independent requirement that must also be satisfied",
+        "et": "Ei — elektrilaengu jäävus on eraldiseisev, sõltumatu nõue, mis peab samuti olema rahuldatud",
+        "sourceHash": "3ee130191f62c7a2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes — conserving energy and momentum alone is always sufficient for any reaction to occur",
+        "et": "Jah — energia ja impulsi säilitamine üksi on alati piisav, et iga reaktsioon saaks toimuda",
+        "sourceHash": "515076245b43b5b5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-laws-in-particle-interactions-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Yes, but only if the reaction also involves a large amount of available energy",
+        "et": "Jah, kuid ainult siis, kui reaktsioon hõlmab ka suurt hulka saadaolevat energiat",
+        "sourceHash": "5eca57026071297b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-laws-in-particle-interactions-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The question is meaningless, since electric charge is never actually conserved in particle reactions",
+        "et": "Küsimus on mõttetu, kuna elektrilaeng ei säili osakeste reaktsioonides kunagi tegelikult",
+        "sourceHash": "3a850bd5df5154b0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-laws-in-particle-interactions-m1"
+    }
+  ]
+}

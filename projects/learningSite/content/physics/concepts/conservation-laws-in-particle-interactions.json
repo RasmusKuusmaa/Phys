@@ -1,0 +1,21 @@
+{
+  "id": "conservation-laws-in-particle-interactions",
+  "subject": "physics",
+  "level": "L3",
+  "module": "particle-physics",
+  "title": {
+    "en": "Conservation laws in particle interactions",
+    "et": "Jäävusseadused osakeste vastastikmõjudes",
+    "sourceHash": "7a34da8d9ae32816",
+    "stale": false
+  },
+  "summary": {
+    "en": "Particle interactions must respect a set of conservation laws — energy, momentum, electric charge, and additional quantum numbers such as baryon number and lepton number — which act as strict bookkeeping rules that any proposed reaction must satisfy, and a reaction that violates even one of these laws simply cannot occur no matter how much energy is available.",
+    "et": "Osakeste vastastikmõjud peavad austama jäävusseaduste hulka — energia, impulss, elektrilaeng ja täiendavad kvantarvud nagu barüoniarv ja leptoniarv —, mis toimivad rangete raamatupidamisreeglitena, mida iga pakutud reaktsioon peab rahuldama, ja reaktsioon, mis rikub kas või ühte neist seadustest, ei saa lihtsalt toimuda, ükskõik kui palju energiat on saadaval.",
+    "sourceHash": "8437ee4bb4162e7b",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-standard-model-of-particle-physics"
+  ]
+}

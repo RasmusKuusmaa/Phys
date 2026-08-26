@@ -1,0 +1,56 @@
+{
+  "id": "conservation-laws-in-particle-interactions-item2",
+  "conceptId": "conservation-laws-in-particle-interactions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What role does baryon number conservation play in particle physics?",
+    "et": "Millist rolli mängib barüoniarvu jäävus osakestefüüsikas?",
+    "sourceHash": "06970595c8b651f8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It forbids reactions that would change the total baryon number, which is why, for example, a lone proton is observed to be extremely stable against decay",
+        "et": "See keelab reaktsioonid, mis muudaksid koguse barüoniarvu, mis on põhjus, miks näiteks üksikut prootonit vaadeldakse äärmiselt stabiilsena lagunemise suhtes",
+        "sourceHash": "66c0172e1880fa77",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It has no observable consequences and is purely a theoretical convenience with no experimental support",
+        "et": "Sellel puuduvad vaadeldavad tagajärjed ja see on puhtalt teoreetiline mugavus ilma katselise toetuseta",
+        "sourceHash": "565deac1c8c99e6b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-laws-in-particle-interactions-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It only applies to leptons such as electrons and neutrinos, never to baryons like protons or neutrons",
+        "et": "See kehtib ainult leptonide, näiteks elektronide ja neutriinode kohta, mitte kunagi barüonide, näiteks prootonite või neutronite kohta",
+        "sourceHash": "9535e458403ee1ba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-laws-in-particle-interactions-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It requires the total baryon number to always increase in every reaction",
+        "et": "See nõuab, et koguse barüoniarv peab igas reaktsioonis alati suurenema",
+        "sourceHash": "0d4fec2fa2a7ede0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-laws-in-particle-interactions-m1"
+    }
+  ]
+}
