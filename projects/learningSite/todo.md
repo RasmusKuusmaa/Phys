@@ -971,8 +971,8 @@ the physics content already leans on implicitly.
   `content: add multivariable calculus concepts`
 - [x] Author vector calculus — gradient, divergence, curl, the integral theorems
   `content: add vector calculus concepts`
-- [~] Author ordinary differential equations — first-order separable and linear
-      done; second-order still to come
+- [x] Author ordinary differential equations — first-order separable and linear,
+      and second-order linear with constant coefficients
   `content: add differential equations concepts`
 - [x] Author probability and statistics for `MTMS.02.059`
   `content: add probability and statistics concepts`

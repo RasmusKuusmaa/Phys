@@ -242,6 +242,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "complex-numbers",
     "determinants",
     "first-order-differential-equations",
+    "second-order-differential-equations",
     "functions-and-inverses",
     "limits-of-functions",
     "lines-and-planes-in-space",
@@ -349,6 +350,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
   // boundary value problems; elective, partially covered.
   "LOFY.04.035": [
     "first-order-differential-equations",
+    "second-order-differential-equations",
     "infinite-series",
     "the-divergence-and-stokes-theorems",
   ],
