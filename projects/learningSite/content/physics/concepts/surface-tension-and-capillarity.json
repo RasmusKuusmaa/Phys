@@ -1,0 +1,21 @@
+{
+  "id": "surface-tension-and-capillarity",
+  "subject": "physics",
+  "level": "L2",
+  "module": "fluid-mechanics",
+  "title": {
+    "en": "Surface tension and capillarity",
+    "et": "Pindpinevus ja kapillaarsus",
+    "sourceHash": "d1532588619be12a",
+    "stale": false
+  },
+  "summary": {
+    "en": "Surface tension arises because molecules at a liquid's surface are pulled inward by unbalanced intermolecular attraction, making the surface behave like a stretched elastic membrane that resists an increase in area, and this same effect drives capillarity — the rise or fall of liquid in a narrow tube — depending on whether the liquid's attraction to the tube wall is stronger or weaker than its attraction to itself.",
+    "et": "Pindpinevus tekib sellest, et vedeliku pinnal olevaid molekule tõmbab sissepoole tasakaalustamata molekulidevaheline tõmme, mistõttu pind käitub nagu venitatud elastne membraan, mis seisab vastu pindala suurenemisele, ja sama efekt käivitab kapillaarsuse — vedeliku tõusu või languse kitsas torus —, sõltuvalt sellest, kas vedeliku tõmme toruseina poole on tugevam või nõrgem kui tema tõmme iseenda vastu.",
+    "sourceHash": "7e15c79761851e61",
+    "stale": false
+  },
+  "prerequisites": [
+    "pressure-in-fluids"
+  ]
+}

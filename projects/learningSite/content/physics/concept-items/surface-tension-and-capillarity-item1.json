@@ -1,0 +1,56 @@
+{
+  "id": "surface-tension-and-capillarity-item1",
+  "conceptId": "surface-tension-and-capillarity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a liquid's surface behave like a stretched elastic membrane, resisting an increase in surface area?",
+    "et": "Miks käitub vedeliku pind nagu venitatud elastne membraan, mis seisab vastu pindala suurenemisele?",
+    "sourceHash": "f947f07e031a2ea1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Molecules at the surface are pulled inward by neighbouring molecules on only one side, creating a net inward force that resists stretching the surface",
+        "et": "Pinnal olevaid molekule tõmbavad naabermolekulid ainult ühelt poolt, tekitades netosissepoole suunatud jõu, mis seisab vastu pinna venitamisele",
+        "sourceHash": "b514759bf0745284",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A thin physical membrane genuinely sits on top of the liquid, distinct from the bulk liquid beneath it",
+        "et": "Õhuke füüsiline membraan asub tõepoolest vedeliku peal, eraldiseisvana vedeliku massist selle all",
+        "sourceHash": "40d7c486d1f82b99",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "surface-tension-and-capillarity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Surface molecules are pushed outward by pressure from the bulk liquid, creating tension",
+        "et": "Pinnamolekule surub vedeliku massist tulev rõhk väljapoole, tekitades pinevuse",
+        "sourceHash": "07b214527801ff4f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "surface-tension-and-capillarity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Surface tension has nothing to do with intermolecular forces and is purely a gravitational effect",
+        "et": "Pindpinevusel pole midagi pistmist molekulidevaheliste jõududega ja see on puhtalt gravitatsiooniline efekt",
+        "sourceHash": "12b632f7c6026247",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "surface-tension-and-capillarity-m1"
+    }
+  ]
+}

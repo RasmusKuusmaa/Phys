@@ -1,0 +1,56 @@
+{
+  "id": "surface-tension-and-capillarity-item2",
+  "conceptId": "surface-tension-and-capillarity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Water rises in a narrow glass tube (capillary rise), but mercury is depressed below the surrounding level in the same kind of tube. What determines which behaviour occurs?",
+    "et": "Vesi tõuseb kitsas klaastorus (kapillaartõus), kuid elavhõbe vajub samasuguses torus ümbritsevast tasemest allapoole. Mis määrab, kumb käitumine ilmneb?",
+    "sourceHash": "f399fb9861b17e0f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Whether the liquid's attraction to the tube wall (adhesion) is stronger or weaker than its attraction to itself (cohesion)",
+        "et": "Kas vedeliku tõmme toruseina poole (adhesioon) on tugevam või nõrgem kui tema tõmme iseenda vastu (kohesioon)",
+        "sourceHash": "af8580c8ea6c2d45",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Only the density of the liquid, with no dependence on any surface interaction at all",
+        "et": "Ainult vedeliku tihedus, ilma igasuguse pinnavastastikmõju sõltuvuseta",
+        "sourceHash": "8a4bc17d9fbb7eea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "surface-tension-and-capillarity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only the diameter of the tube, regardless of which liquid or wall material is involved",
+        "et": "Ainult toru läbimõõt, sõltumata sellest, milline vedelik või seinamaterjal on kaasatud",
+        "sourceHash": "542483dc0cb4eb93",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "surface-tension-and-capillarity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Capillary behaviour is completely random and cannot be predicted from any material property",
+        "et": "Kapillaarne käitumine on täiesti juhuslik ega ole ennustatav ühestki materjaliomadusest",
+        "sourceHash": "2ffda751373cfc68",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "surface-tension-and-capillarity-m1"
+    }
+  ]
+}
