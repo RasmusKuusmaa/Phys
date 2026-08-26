@@ -520,11 +520,22 @@ Remaining, one commit per module:
       a single-variable solvable formula onto them would be artificial, and
       the schema treats formulas as optional for exactly this reason
   `content: add formulas for bachelor-core physics concepts`
-- [ ] Enrich ET resource sets beyond Vikipeedia where a real Estonian source
-      exists (opik.fyysika.ee sections, TaskuTark, university course pages)
+- [x] Enrich ET resource sets beyond Vikipeedia where a real Estonian source
+      exists (opik.fyysika.ee sections, TaskuTark, university course pages) —
+      audited all 161 physics concepts with ET resources: 30 had only a
+      single Wikipedia article, each given a second, genuinely distinct ET
+      Wikipedia resource (verified live, not assumed); a follow-up
+      `npm run check:links` run also caught and fixed 3 pre-existing dead
+      links (2 chemistry, 1 physics) unrelated to this batch. opik.fyysika.ee
+      coverage was already exhausted earlier in the session — most remaining
+      gaps are advanced bachelor topics (particle/solid-state physics,
+      relativity) it simply doesn't cover, so Wikipedia-only is the honest
+      ceiling for those, not an oversight
   `content: enrich estonian resources for bachelor-core concepts`
-- [ ] Re-audit the physics prerequisite graph and glossary coverage for
-      the new modules
+- [x] Re-audit the physics prerequisite graph and glossary coverage for
+      the new modules — superseded by the later, more thorough Phase 24/34
+      audits (0 isolated concepts, 0 dangling refs, full cross-subject
+      check); re-confirmed again here after this session's additions
   `content: audit bachelor-core physics additions`
 
 ### Phase 12 — Bilingual QA
