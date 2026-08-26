@@ -1,0 +1,22 @@
+{
+  "id": "potential-steps-and-finite-wells",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Potential steps and finite wells",
+    "et": "Potentsiaalihüpped ja lõplikud potentsiaaliaugud",
+    "sourceHash": "fe345c2c3bd98d5b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Solving the Schrödinger equation for a step or a finite-depth well shows that the wavefunction always leaks into a classically forbidden region as a decaying exponential rather than stopping dead at the boundary, and that a finite well binds only a limited number of discrete states instead of the infinite ladder an infinitely deep well would allow.",
+    "et": "Schrödingeri võrrandi lahendamine hüppe või lõpliku sügavusega potentsiaaliaugu jaoks näitab, et lainefunktsioon lekib klassikaliselt keelatud piirkonda alati kahaneva eksponendina, mitte ei peatu piiril järsult, ning et lõplik potentsiaaliauk seob ainult piiratud arvu diskreetseid olekuid, mitte lõpmatut redelit, mida lõpmatult sügav auk lubaks.",
+    "sourceHash": "e3084aef9eb6148d",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schrodinger-equation",
+    "quantum-tunneling"
+  ]
+}

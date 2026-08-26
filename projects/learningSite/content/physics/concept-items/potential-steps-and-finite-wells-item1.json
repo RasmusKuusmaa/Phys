@@ -1,0 +1,56 @@
+{
+  "id": "potential-steps-and-finite-wells-item1",
+  "conceptId": "potential-steps-and-finite-wells",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A particle encounters a potential step higher than its total energy. According to quantum mechanics, what happens to the wavefunction inside the step region?",
+    "et": "Osake satub potentsiaalihüppele, mis on kõrgem kui tema koguenergia. Mis juhtub kvantmehaanika järgi lainefunktsiooniga hüppe piirkonnas?",
+    "sourceHash": "60598a4791961fa5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It does not vanish abruptly but decays exponentially with depth into the classically forbidden region",
+        "et": "See ei kao järsult, vaid kahaneb eksponentsiaalselt sügavuti klassikaliselt keelatud piirkonnas",
+        "sourceHash": "30b4a723481a00ac",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is exactly zero everywhere inside the step, with no penetration at all",
+        "et": "See on hüppe sees kõikjal täpselt null, ilma igasuguse tungimiseta",
+        "sourceHash": "bc854b43b71438a9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "potential-steps-and-finite-wells-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It oscillates with the same wavelength as outside the step, unaffected by the barrier",
+        "et": "See võngub sama lainepikkusega nagu väljaspool hüpet, barjäärist mõjutamata",
+        "sourceHash": "d1ecbd735088e7f7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "potential-steps-and-finite-wells-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It grows without bound as depth into the step increases",
+        "et": "See kasvab piiramatult, kui sügavus hüppes suureneb",
+        "sourceHash": "baa6b32e17b5935f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "potential-steps-and-finite-wells-m1"
+    }
+  ]
+}

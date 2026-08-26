@@ -1,0 +1,10 @@
+{
+  "id": "potential-steps-and-finite-wells-m1",
+  "conceptId": "potential-steps-and-finite-wells",
+  "text": {
+    "en": "A particle with energy below the barrier height is completely reflected, with zero probability of being found inside or beyond the barrier.",
+    "et": "Osake, mille energia on barjääri kõrgusest väiksem, peegeldub täielikult, ilma igasuguse tõenäosuseta olla leitud barjääri sees või taga.",
+    "sourceHash": "617e41e7a1b98678",
+    "stale": false
+  }
+}

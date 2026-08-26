@@ -1,0 +1,56 @@
+{
+  "id": "potential-steps-and-finite-wells-item2",
+  "conceptId": "potential-steps-and-finite-wells",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How does the number of bound energy levels in a finite-depth potential well compare to an infinitely deep well of the same width?",
+    "et": "Kuidas võrdub seotud energianivoode arv lõpliku sügavusega potentsiaaliaugus lõpmatult sügava sama laiusega auguga?",
+    "sourceHash": "5ade086d8f6c235b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The finite well has only a limited number of bound states, unlike the infinite ladder of an infinite well",
+        "et": "Lõplikul augul on ainult piiratud arv seotud olekuid, erinevalt lõpmatu augu lõpmatust redelist",
+        "sourceHash": "a73ca18627b8498a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The finite well always has strictly more bound states than the infinite well",
+        "et": "Lõplikul augul on alati rangelt rohkem seotud olekuid kui lõpmatul augul",
+        "sourceHash": "c49aaf0dfe18158e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "potential-steps-and-finite-wells-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both wells always have exactly the same number of bound states",
+        "et": "Mõlemal augul on alati täpselt sama arv seotud olekuid",
+        "sourceHash": "7a3b4ee629655935",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "potential-steps-and-finite-wells-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A finite well can never bind any states at all, regardless of its depth",
+        "et": "Lõplik auk ei suuda kunagi ühtegi olekut siduda, sõltumata selle sügavusest",
+        "sourceHash": "0e20ab4c713731a7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "potential-steps-and-finite-wells-m1"
+    }
+  ]
+}
