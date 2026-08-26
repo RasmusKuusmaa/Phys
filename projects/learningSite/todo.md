@@ -691,19 +691,19 @@ Modules `thermodynamics` and `statistical-mechanics`.
 
 Module `optics`.
 
-- [ ] Add terminology for physical optics
+- [x] Add terminology for physical optics
   `content: add optics terminology`
-- [ ] `dispersion-and-chromatic-effects` (L2) — prereq `snells-law`
+- [x] `dispersion-and-chromatic-effects` (L2) — prereq `snells-law`
   `content: add dispersion concept`
-- [ ] `optical-instruments-and-magnification` (L2) — prereq `lenses-and-focal-length`
+- [x] `optical-instruments-and-magnification` (L2) — prereq `lenses-and-focal-length`
   `content: add optical instruments concept`
-- [ ] `thin-film-interference` (L2) — prereq `interference-and-diffraction`
+- [x] `thin-film-interference` (L2) — prereq `interference-and-diffraction`
   `content: add thin film interference concept`
-- [ ] `diffraction-gratings` (L2) — prereq `interference-and-diffraction`
+- [x] `diffraction-gratings` (L2) — prereq `interference-and-diffraction`
   `content: add diffraction gratings concept`
-- [ ] `optical-resolution-and-the-rayleigh-criterion` (L3) — prereq `diffraction-gratings`
+- [x] `optical-resolution-and-the-rayleigh-criterion` (L3) — prereq `diffraction-gratings`
   `content: add optical resolution concept`
-- [ ] `the-michelson-interferometer` (L3) — prereq `interference-and-diffraction`
+- [x] `the-michelson-interferometer` (L3) — prereq `interference-and-diffraction`
   `content: add michelson interferometer concept`
 
 ### Phase 20 — Quantum mechanics
