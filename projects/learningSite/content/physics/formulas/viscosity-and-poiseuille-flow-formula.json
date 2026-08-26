@@ -1,0 +1,69 @@
+{
+  "id": "viscosity-and-poiseuille-flow-formula",
+  "conceptId": "viscosity-and-poiseuille-flow",
+  "latex": "Q = \\frac{\\pi r^4 \\Delta P}{8 \\eta L}",
+  "symbols": [
+    {
+      "symbol": "Q",
+      "name": {
+        "en": "volumetric flow rate",
+        "et": "ruumalakulu",
+        "sourceHash": "3041c359ea643bcb",
+        "stale": false
+      },
+      "unit": "m^3/s"
+    },
+    {
+      "symbol": "r",
+      "name": {
+        "en": "tube radius",
+        "et": "toru raadius",
+        "sourceHash": "1a9c85017c5fbe2c",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "dP",
+      "name": {
+        "en": "pressure difference",
+        "et": "rõhkude vahe",
+        "sourceHash": "ec221b0fb7814004",
+        "stale": false
+      },
+      "unit": "Pa"
+    },
+    {
+      "symbol": "eta",
+      "name": {
+        "en": "dynamic viscosity",
+        "et": "dünaamiline viskoossus",
+        "sourceHash": "5397a1c44e024c7e",
+        "stale": false
+      },
+      "unit": "Pa*s"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "tube length",
+        "et": "toru pikkus",
+        "sourceHash": "2a82f05697c28f10",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "Q",
+    "dP",
+    "eta",
+    "L"
+  ],
+  "expressions": {
+    "Q": "3.14159265358979*r^4*dP/(8*eta*L)",
+    "dP": "8*eta*L*Q/(3.14159265358979*r^4)",
+    "eta": "3.14159265358979*r^4*dP/(8*L*Q)",
+    "L": "3.14159265358979*r^4*dP/(8*eta*Q)"
+  }
+}

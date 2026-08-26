@@ -1,0 +1,57 @@
+{
+  "id": "viscosity-and-poiseuille-flow-solve-q",
+  "formulaId": "viscosity-and-poiseuille-flow-formula",
+  "variables": [
+    {
+      "symbol": "r",
+      "min": 0.0002,
+      "max": 0.002,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "dP",
+      "min": 100,
+      "max": 5000,
+      "unit": "Pa",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "eta",
+      "min": 0.0005,
+      "max": 0.01,
+      "unit": "Pa*s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "L",
+      "min": 0.05,
+      "max": 1,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "r",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "dP",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "eta",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "L",
+      "right": 0
+    }
+  ],
+  "solveFor": "Q"
+}

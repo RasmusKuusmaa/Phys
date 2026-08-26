@@ -1,0 +1,28 @@
+{
+  "id": "viscosity-and-poiseuille-flow-solve-q-errors",
+  "formulaId": "viscosity-and-poiseuille-flow-formula",
+  "solveFor": "Q",
+  "mistakes": [
+    {
+      "id": "r-squared-not-fourth",
+      "description": {
+        "en": "Uses the radius squared instead of raised to the fourth power",
+        "et": "Kasutab raadiust ruudus, mitte neljandas astmes",
+        "sourceHash": "a46a3f2e2af26ccc",
+        "stale": false
+      },
+      "expression": "3.14159265358979*r^2*dP/(8*eta*L)",
+      "misconceptionId": "viscosity-and-poiseuille-flow-m1"
+    },
+    {
+      "id": "forgot-8",
+      "description": {
+        "en": "Omits the factor of 8 in the denominator",
+        "et": "Jätab nimetajast 8-kordse teguri ära",
+        "sourceHash": "a5c055769f24f181",
+        "stale": false
+      },
+      "expression": "3.14159265358979*r^4*dP/(eta*L)"
+    }
+  ]
+}
