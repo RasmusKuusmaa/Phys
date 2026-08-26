@@ -1,0 +1,56 @@
+{
+  "id": "reaction-rate-laws-and-order-item1",
+  "conceptId": "reaction-rate-laws-and-order",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A reaction A + B → C is found experimentally to have a rate law of rate = k[A]², with no dependence on [B] at all. What is the reaction's order in B, and what does this tell you?",
+    "et": "Reaktsiooni A + B → C jaoks leitakse eksperimentaalselt kiiruse võrrand kiirus = k[A]², ilma igasuguse sõltuvuseta [B]-st. Milline on reaktsiooni järk B suhtes ja mida see näitab?",
+    "sourceHash": "95bbe5e5403ee08a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Zero order in B — B does not appear in the rate-determining step of the mechanism, even though it appears in the overall balanced equation",
+        "et": "Nulljärku B suhtes — B ei esine mehhanismi kiirust määravas sammus, kuigi see esineb üldises tasakaalustatud võrrandis",
+        "sourceHash": "579766bf3d436311",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "First order in B, matching its coefficient of 1 in the balanced equation",
+        "et": "Esimest järku B suhtes, vastavuses tema kordajaga 1 tasakaalustatud võrrandis",
+        "sourceHash": "a6911a7676b409e8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-rate-laws-and-order-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This result is impossible, since every reactant in the balanced equation must appear in the rate law",
+        "et": "See tulemus on võimatu, kuna iga lähteaine tasakaalustatud võrrandis peab esinema kiiruse võrrandis",
+        "sourceHash": "8899a5948a981bb7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-rate-laws-and-order-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Second order in B, since the exponent on A is 2",
+        "et": "Teist järku B suhtes, kuna A astmenäitaja on 2",
+        "sourceHash": "fde54e291868b516",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-rate-laws-and-order-m1"
+    }
+  ]
+}

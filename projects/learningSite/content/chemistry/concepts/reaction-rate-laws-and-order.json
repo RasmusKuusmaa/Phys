@@ -1,0 +1,21 @@
+{
+  "id": "reaction-rate-laws-and-order",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "physical-chemistry",
+  "title": {
+    "en": "Reaction rate laws and order",
+    "et": "Reaktsioonikiiruse võrrandid ja järk",
+    "sourceHash": "448eefec19e3a87b",
+    "stale": false
+  },
+  "summary": {
+    "en": "A reaction's rate law expresses its rate as a product of a rate constant and the concentrations of reactants raised to experimentally determined powers — the reaction order in each species — which must be measured, not read off the balanced equation, since a reaction's order reflects its actual step-by-step mechanism rather than its overall stoichiometry.",
+    "et": "Reaktsiooni kiiruse võrrand väljendab selle kiirust kiiruskonstandi ja lähteainete kontsentratsioonide korrutisena, tõstetuna eksperimentaalselt määratud astmetesse — reaktsiooni järk igas osalises —, mis tuleb mõõta, mitte lugeda maha tasakaalustatud võrrandist, kuna reaktsiooni järk peegeldab tema tegelikku samm-sammulist mehhanismi, mitte tema üldist stöhhiomeetriat.",
+    "sourceHash": "4dfc7f95eeb6bca2",
+    "stale": false
+  },
+  "prerequisites": [
+    "reaction-kinetics"
+  ]
+}

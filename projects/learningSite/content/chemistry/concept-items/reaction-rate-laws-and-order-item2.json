@@ -1,0 +1,56 @@
+{
+  "id": "reaction-rate-laws-and-order-item2",
+  "conceptId": "reaction-rate-laws-and-order",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why must the rate law and reaction order of a chemical reaction be determined experimentally rather than derived from the balanced chemical equation?",
+    "et": "Miks tuleb keemilise reaktsiooni kiiruse võrrand ja reaktsiooni järk määrata eksperimentaalselt, mitte tuletada tasakaalustatud keemilisest võrrandist?",
+    "sourceHash": "dbb6bb20f6280b31",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The rate law reflects the actual step-by-step mechanism (often several elementary steps), which the overall balanced equation does not reveal",
+        "et": "Kiiruse võrrand peegeldab tegelikku samm-sammulist mehhanismi (sageli mitut elementaarsammu), mida üldine tasakaalustatud võrrand ei paljasta",
+        "sourceHash": "a6d6f8bf07e83088",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The balanced equation is always wrong and must be corrected using experimental rate data",
+        "et": "Tasakaalustatud võrrand on alati vale ja seda tuleb parandada eksperimentaalsete kiirusandmete abil",
+        "sourceHash": "cdc7d030bfe11601",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-rate-laws-and-order-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Reaction order is a purely theoretical concept with no real experimental basis at all",
+        "et": "Reaktsiooni järk on puhtalt teoreetiline mõiste, millel pole üldse tegelikku eksperimentaalset alust",
+        "sourceHash": "dbf8400e1dc83d1c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-rate-laws-and-order-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The balanced equation and the rate law are always identical for every reaction, so this distinction is unnecessary",
+        "et": "Tasakaalustatud võrrand ja kiiruse võrrand on iga reaktsiooni jaoks alati identsed, seega on see erisus tarbetu",
+        "sourceHash": "95e5264a8e037461",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reaction-rate-laws-and-order-m1"
+    }
+  ]
+}
