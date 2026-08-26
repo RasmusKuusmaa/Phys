@@ -1,0 +1,10 @@
+{
+  "id": "mass-spectrometry-m1",
+  "conceptId": "mass-spectrometry",
+  "text": {
+    "en": "A mass spectrometer separates molecules by their mass alone, without any involvement of electric charge.",
+    "et": "Massispektromeeter eraldab molekule ainult nende massi järgi, ilma igasuguse elektrilaengu kaasamiseta.",
+    "sourceHash": "2c36b7829fa7dbb8",
+    "stale": false
+  }
+}

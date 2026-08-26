@@ -1,0 +1,10 @@
+{
+  "id": "mass-spectrometry-m3",
+  "conceptId": "mass-spectrometry",
+  "text": {
+    "en": "Mass spectrometry can only determine a molecule's total mass and provides no information about its structure.",
+    "et": "Massispektromeetria suudab määrata ainult molekuli kogumassi ega anna mingit informatsiooni tema struktuuri kohta.",
+    "sourceHash": "1cd07b414c4f871b",
+    "stale": false
+  }
+}

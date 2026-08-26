@@ -1,0 +1,56 @@
+{
+  "id": "mass-spectrometry-item1",
+  "conceptId": "mass-spectrometry",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why must a sample be ionised before it can be analysed in a mass spectrometer?",
+    "et": "Miks tuleb proov massispektromeetris analüüsimiseks eelnevalt ioniseerida?",
+    "sourceHash": "fde8328d27e42fc1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The instrument separates particles using electric and/or magnetic fields, which act only on charged particles",
+        "et": "Instrument eraldab osakesi elektri- ja/või magnetväljade abil, mis mõjuvad ainult laetud osakestele",
+        "sourceHash": "76923c920c0c918c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Ionisation is not actually necessary; the instrument can separate neutral molecules directly",
+        "et": "Ioniseerimine ei ole tegelikult vajalik; instrument saab eraldada neutraalseid molekule otse",
+        "sourceHash": "a1ac78e8db2415ea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mass-spectrometry-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Ionisation is only needed to make the sample visible to the human eye",
+        "et": "Ioniseerimist on vaja ainult selleks, et proov oleks inimsilmale nähtav",
+        "sourceHash": "a0fb5b8706c1c92d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mass-spectrometry-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Ionisation permanently destroys the sample's mass, which the instrument then reconstructs",
+        "et": "Ioniseerimine hävitab jäädavalt proovi massi, mille instrument seejärel taastab",
+        "sourceHash": "93ec3ec09033e558",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mass-spectrometry-m1"
+    }
+  ]
+}

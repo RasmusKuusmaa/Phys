@@ -1,0 +1,21 @@
+{
+  "id": "mass-spectrometry",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "analytical-chemistry",
+  "title": {
+    "en": "Mass spectrometry",
+    "et": "Massispektromeetria",
+    "sourceHash": "bbb5060434584f77",
+    "stale": false
+  },
+  "summary": {
+    "en": "A mass spectrometer identifies molecules by ionising a sample, separating the resulting ions by their mass-to-charge ratio, and recording the abundance of each ratio, producing a mass spectrum whose fragmentation pattern acts as a structural fingerprint of the original molecule in addition to giving its precise molecular mass.",
+    "et": "Massispektromeeter identifitseerib molekule, ioniseerides proovi, eraldades tekkinud ioonid nende massi-laengu suhte järgi ja registreerides iga suhte esinemissageduse, tekitades massispektri, mille fragmenteerumismuster toimib algse molekuli struktuurse sõrmejäljena lisaks tema täpse molekulmassi andmisele.",
+    "sourceHash": "768ff36d92842c9e",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-mole-and-amount-of-substance"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mass-spectrometry-m2",
+  "conceptId": "mass-spectrometry",
+  "text": {
+    "en": "Every peak in a mass spectrum represents an intact, unfragmented molecule.",
+    "et": "Iga massispektri tipp esindab tervet, fragmenteerumata molekuli.",
+    "sourceHash": "3863a90053308bb6",
+    "stale": false
+  }
+}

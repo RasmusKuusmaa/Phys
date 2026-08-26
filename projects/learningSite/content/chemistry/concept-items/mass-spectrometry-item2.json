@@ -1,0 +1,56 @@
+{
+  "id": "mass-spectrometry-item2",
+  "conceptId": "mass-spectrometry",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A mass spectrum of an organic compound shows not just one peak for the intact molecule but many additional peaks at lower mass-to-charge values. What do these additional peaks represent, and why are they useful?",
+    "et": "Orgaanilise ühendi massispekter näitab mitte ainult ühte tippu terve molekuli jaoks, vaid palju täiendavaid tippe madalamatel massi-laengu väärtustel. Mida need täiendavad tipud esindavad ja miks on need kasulikud?",
+    "sourceHash": "1336e148e3883968",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Fragment ions produced when the molecular ion breaks apart during ionisation, whose pattern acts as a structural fingerprint of the original molecule",
+        "et": "Fragmentioonid, mis tekivad, kui molekulaarioon laguneb ioniseerimise käigus, mille muster toimib algse molekuli struktuurse sõrmejäljena",
+        "sourceHash": "f7c879347751c0cd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Contamination from unrelated compounds that should be ignored entirely",
+        "et": "Saastet mitteseotud ühenditest, mida tuleks täielikult eirata",
+        "sourceHash": "4ffcfd2d71c068e9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mass-spectrometry-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Random instrumental noise with no chemical meaning at all",
+        "et": "Juhuslikku instrumentaalset müra ilma igasuguse keemilise tähenduseta",
+        "sourceHash": "38e42cb65fa87544",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mass-spectrometry-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Exact duplicate copies of the molecular ion peak, providing no additional information",
+        "et": "Molekulaariooni tipu täpseid duplikaate, mis ei anna mingit lisainfot",
+        "sourceHash": "2e2e058da3bdb481",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mass-spectrometry-m1"
+    }
+  ]
+}
