@@ -1008,7 +1008,10 @@ courses have nothing.
       concepts: electrolyte conductivity, Nernst equation, adsorption
       isotherms, homogeneous/heterogeneous catalysis
   `content: add physical chemistry part two concepts`
-- [ ] Author analytical chemistry for `LTKT.06.019` and `LTKT.06.024` (15 topics)
+- [x] Author analytical chemistry for `LTKT.06.019` and `LTKT.06.024` (15
+      topics) — 2 new concepts (UV-Vis/Beer-Lambert, mass spectrometry) plus
+      existing stoichiometry/acids-bases/equilibrium/redox and physics'
+      general spectroscopy concept
   `content: add analytical chemistry concepts`
 - [ ] Author theoretical chemistry for `LOKT.08.001`
   `content: add theoretical chemistry concepts`

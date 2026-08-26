@@ -102,7 +102,11 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "uv-vis-spectroscopy-and-the-beer-lambert-law",
+    "mass-spectrometry",
+    "spectroscopy"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/chemistry2.md"
   ],

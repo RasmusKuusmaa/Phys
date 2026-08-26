@@ -404,6 +404,12 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "chemical-equilibrium",
     "redox-reactions",
   ],
+  // LTKT.06.024 Analüütiline keemia II — instrumental methods, spectroscopy.
+  "LTKT.06.024": [
+    "uv-vis-spectroscopy-and-the-beer-lambert-law",
+    "mass-spectrometry",
+    "spectroscopy",
+  ],
   // LOKT.02.037 Füüsikaline keemia 1. osa — thermodynamics (laws, entropy, Gibbs
   // energy), chemical equilibrium and kinetics. Draws on physics thermodynamics
   // concepts as well as chemistry, since the syllabus is classical thermo applied
