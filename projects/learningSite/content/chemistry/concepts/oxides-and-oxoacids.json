@@ -1,0 +1,22 @@
+{
+  "id": "oxides-and-oxoacids",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "inorganic-chemistry",
+  "title": {
+    "en": "Oxides and oxoacids",
+    "et": "Oksiidid ja hapnikhapped",
+    "sourceHash": "009afe1b9f103b85",
+    "stale": false
+  },
+  "summary": {
+    "en": "An element's oxide is basic if the element is strongly metallic, acidic if the element is strongly nonmetallic, and amphoteric for elements near the metal-nonmetal boundary, and the same trend continues into oxoacids — acids containing a central atom bonded to oxygen — whose acid strength increases with the electronegativity and oxidation state of that central atom.",
+    "et": "Elemendi oksiid on aluseline, kui element on tugevalt metalliline, happeline, kui element on tugevalt mittemetalliline, ja amfoteerne elementide jaoks, mis asuvad metalli-mittemetalli piiri lähedal, ning sama trend jätkub hapnikhapetes — hapetes, mis sisaldavad hapnikuga seotud tsentraalset aatomit —, mille happe tugevus kasvab selle tsentraalse aatomi elektronegatiivsuse ja oksüdatsiooniastmega.",
+    "sourceHash": "ee4bfc787537b669",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-bonding",
+    "acids-bases-and-ph"
+  ]
+}

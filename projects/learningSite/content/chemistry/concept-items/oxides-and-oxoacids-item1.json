@@ -1,0 +1,56 @@
+{
+  "id": "oxides-and-oxoacids-item1",
+  "conceptId": "oxides-and-oxoacids",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Aluminium oxide (Al2O3) reacts with both strong acids and strong bases. What does this indicate about aluminium's position in the periodic table?",
+    "et": "Alumiiniumoksiid (Al2O3) reageerib nii tugevate hapete kui tugevate alustega. Mida see näitab alumiiniumi asukoha kohta perioodilisussüsteemis?",
+    "sourceHash": "0c0c5dcbb140ac2a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Aluminium is near the metal-nonmetal boundary, giving its oxide amphoteric character, reacting as both an acid and a base",
+        "et": "Alumiinium asub metalli-mittemetalli piiri lähedal, andes tema oksiidile amfoteerse iseloomu, mis reageerib nii happe kui alusena",
+        "sourceHash": "9f703f2038516d71",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Aluminium must be a strongly electronegative nonmetal, since only nonmetal oxides are acidic",
+        "et": "Alumiinium peab olema tugevalt elektronegatiivne mittemetall, kuna ainult mittemetallioksiidid on happelised",
+        "sourceHash": "f39e520b8434d0ec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "oxides-and-oxoacids-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This behaviour is impossible and indicates an error in the observation",
+        "et": "See käitumine on võimatu ja näitab viga vaatluses",
+        "sourceHash": "9c5235071eb70cee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "oxides-and-oxoacids-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Aluminium oxide's behaviour has nothing to do with aluminium's position in the periodic table",
+        "et": "Alumiiniumoksiidi käitumisel pole midagi pistmist alumiiniumi asukohaga perioodilisussüsteemis",
+        "sourceHash": "94b9ff830e6a0d05",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "oxides-and-oxoacids-m1"
+    }
+  ]
+}

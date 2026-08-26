@@ -1,0 +1,56 @@
+{
+  "id": "oxides-and-oxoacids-item2",
+  "conceptId": "oxides-and-oxoacids",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Comparing the oxoacids of chlorine — hypochlorous acid (HClO) and perchloric acid (HClO4) — which is the stronger acid, and why?",
+    "et": "Võrreldes kloori hapnikhappeid — hüpokloorishapet (HClO) ja perkloorhapet (HClO4) — kumb on tugevam hape ja miks?",
+    "sourceHash": "dc947b7abf21d6a8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Perchloric acid, because chlorine is in a higher oxidation state with more oxygen atoms pulling electron density away from the O-H bond",
+        "et": "Perkloorhape, kuna kloor on kõrgemas oksüdatsiooniastmes ja rohkem hapnikuaatomeid tõmbab elektrontihedust O-H sidemest eemale",
+        "sourceHash": "7d18f1096b8a501f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Hypochlorous acid, because fewer oxygen atoms make the O-H bond stronger and easier to release as a proton",
+        "et": "Hüpokloorishape, kuna vähem hapnikuaatomeid muudab O-H sideme tugevamaks ja prootonina kergemini vabastatavaks",
+        "sourceHash": "ccc76218aaafdfdd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "oxides-and-oxoacids-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both acids are equally strong, since they contain the same central atom",
+        "et": "Mõlemad happed on võrdselt tugevad, kuna neil on sama tsentraalne aatom",
+        "sourceHash": "77805035bd152dec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "oxides-and-oxoacids-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Acid strength cannot be compared between different oxoacids of the same element",
+        "et": "Happe tugevust ei saa võrrelda sama elemendi erinevate hapnikhapete vahel",
+        "sourceHash": "73699263484f9bfb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "oxides-and-oxoacids-m1"
+    }
+  ]
+}
