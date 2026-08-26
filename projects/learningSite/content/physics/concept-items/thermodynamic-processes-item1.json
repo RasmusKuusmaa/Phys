@@ -38,8 +38,7 @@
         "sourceHash": "e19174865c3f02f9",
         "stale": false
       },
-      "correct": false,
-      "misconceptionId": "thermodynamic-processes-m1"
+      "correct": false
     },
     {
       "id": "d",
@@ -50,7 +49,7 @@
         "stale": false
       },
       "correct": false,
-      "misconceptionId": "thermodynamic-processes-m1"
+      "misconceptionId": "thermodynamic-processes-m2"
     }
   ]
 }
