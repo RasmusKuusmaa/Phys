@@ -1,0 +1,21 @@
+{
+  "id": "uv-vis-spectroscopy-and-the-beer-lambert-law",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "analytical-chemistry",
+  "title": {
+    "en": "UV-Vis spectroscopy and the Beer-Lambert law",
+    "et": "UV-Vis spektroskoopia ja Beer-Lamberti seadus",
+    "sourceHash": "c36c7fa6b2b582f8",
+    "stale": false
+  },
+  "summary": {
+    "en": "A coloured or UV-absorbing solution absorbs light most strongly at wavelengths matching electronic transitions in its molecules, and the Beer-Lambert law states that absorbance is directly proportional to both the absorbing species' concentration and the path length of light through the sample, turning a simple absorbance measurement into a direct quantitative determination of concentration.",
+    "et": "Värviline või UV-kiirgust neelav lahus neelab valgust kõige tugevamalt lainepikkustel, mis vastavad tema molekulide elektronsiiretele, ja Beer-Lamberti seadus väidab, et neeldumine on otseselt võrdeline nii neeldava osalise kontsentratsiooni kui valguse teepikkusega läbi proovi, muutes lihtsa neeldumise mõõtmise otseseks kvantitatiivseks kontsentratsiooni määramiseks.",
+    "sourceHash": "aae24ab78fecf736",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-mole-and-amount-of-substance"
+  ]
+}

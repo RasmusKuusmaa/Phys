@@ -1,0 +1,56 @@
+{
+  "id": "uv-vis-spectroscopy-and-the-beer-lambert-law-item1",
+  "conceptId": "uv-vis-spectroscopy-and-the-beer-lambert-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two cuvettes contain the same coloured solution at the same concentration, but one cuvette is twice as wide as the other, giving light twice the path length through the sample. According to the Beer-Lambert law, how do their absorbance readings compare?",
+    "et": "Kaks küvetti sisaldavad sama värvilist lahust samal kontsentratsioonil, kuid üks küvett on teisest kaks korda laiem, andes valgusele kaks korda pikema teepikkuse läbi proovi. Kuidas Beer-Lamberti seaduse järgi nende neeldumisnäidud võrduvad?",
+    "sourceHash": "0bb77ac805649b13",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The wider cuvette shows roughly twice the absorbance, since absorbance is directly proportional to path length",
+        "et": "Laiem küvett näitab ligikaudu kaks korda suuremat neeldumist, kuna neeldumine on otseselt võrdeline teepikkusega",
+        "sourceHash": "0697771b5bfa30dd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both cuvettes show exactly the same absorbance, since absorbance depends only on concentration",
+        "et": "Mõlemad küvetid näitavad täpselt sama neeldumist, kuna neeldumine sõltub ainult kontsentratsioonist",
+        "sourceHash": "023291e2b69235b6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uv-vis-spectroscopy-and-the-beer-lambert-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The wider cuvette shows half the absorbance of the narrower one",
+        "et": "Laiem küvett näitab poole väiksemat neeldumist kui kitsam",
+        "sourceHash": "583169f498b45cc1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uv-vis-spectroscopy-and-the-beer-lambert-law-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Path length has no effect on absorbance under any circumstances",
+        "et": "Teepikkusel pole mitte mingil tingimusel neeldumisele mõju",
+        "sourceHash": "b907e276ccabfa89",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uv-vis-spectroscopy-and-the-beer-lambert-law-m1"
+    }
+  ]
+}

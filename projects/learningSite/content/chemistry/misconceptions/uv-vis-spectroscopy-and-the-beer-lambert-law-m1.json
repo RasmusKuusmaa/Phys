@@ -1,0 +1,10 @@
+{
+  "id": "uv-vis-spectroscopy-and-the-beer-lambert-law-m1",
+  "conceptId": "uv-vis-spectroscopy-and-the-beer-lambert-law",
+  "text": {
+    "en": "Absorbance in UV-Vis spectroscopy depends only on the sample's concentration, not on the path length of light through it.",
+    "et": "Neeldumine UV-Vis spektroskoopias sõltub ainult proovi kontsentratsioonist, mitte valguse teepikkusest läbi selle.",
+    "sourceHash": "786e2ddb008b5d67",
+    "stale": false
+  }
+}

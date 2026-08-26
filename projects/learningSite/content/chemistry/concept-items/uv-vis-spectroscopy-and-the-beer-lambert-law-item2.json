@@ -1,0 +1,56 @@
+{
+  "id": "uv-vis-spectroscopy-and-the-beer-lambert-law-item2",
+  "conceptId": "uv-vis-spectroscopy-and-the-beer-lambert-law",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A chemist measures the absorbance of a series of standard solutions with known concentrations and plots absorbance against concentration to build a calibration curve, then uses it to determine the concentration of an unknown sample. What makes this approach valid?",
+    "et": "Keemik mõõdab teadaoleva kontsentratsiooniga standardlahuste seeria neeldumist ja joonestab neeldumise kontsentratsiooni suhtes, et koostada kalibreerimiskõver, ning kasutab seda seejärel tundmatu proovi kontsentratsiooni määramiseks. Mis muudab selle lähenemise kehtivaks?",
+    "sourceHash": "0a75646a51bebd95",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The Beer-Lambert law predicts a direct, linear proportionality between absorbance and concentration (at fixed path length), within the concentration range where the law holds",
+        "et": "Beer-Lamberti seadus ennustab otsest, lineaarset võrdelisust neeldumise ja kontsentratsiooni vahel (fikseeritud teepikkuse juures), kontsentratsioonivahemikus, kus seadus kehtib",
+        "sourceHash": "fac2fe76bfb95f83",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Absorbance and concentration are entirely unrelated, so this calibration approach should not work at all",
+        "et": "Neeldumine ja kontsentratsioon on täiesti mitteseotud, seega ei tohiks see kalibreerimislähenemine üldse toimida",
+        "sourceHash": "e348f8eaa09062e3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uv-vis-spectroscopy-and-the-beer-lambert-law-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Calibration curves only work for coloured solutions and never for solutions absorbing in the UV region",
+        "et": "Kalibreerimiskõverad toimivad ainult värviliste lahuste jaoks ega kunagi UV-piirkonnas neelavate lahuste jaoks",
+        "sourceHash": "55931fa8d566c8d9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uv-vis-spectroscopy-and-the-beer-lambert-law-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The relationship between absorbance and concentration is exponential, not linear, which is why a calibration curve is needed",
+        "et": "Seos neeldumise ja kontsentratsiooni vahel on eksponentsiaalne, mitte lineaarne, mis on põhjus, miks kalibreerimiskõverat vajatakse",
+        "sourceHash": "0f43e6be2d621cba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "uv-vis-spectroscopy-and-the-beer-lambert-law-m1"
+    }
+  ]
+}
