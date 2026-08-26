@@ -1,0 +1,21 @@
+{
+  "id": "hydrogen-and-electrolysis",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "inorganic-chemistry",
+  "title": {
+    "en": "Hydrogen and electrolysis",
+    "et": "Vesinik ja elektrolüüs",
+    "sourceHash": "76a99d4d3e0fd272",
+    "stale": false
+  },
+  "summary": {
+    "en": "Hydrogen forms compounds across almost the entire periodic table, ranging from ionic hydrides with reactive metals to covalent hydrides with nonmetals, and passing electric current through water or a molten salt (electrolysis) drives the otherwise non-spontaneous decomposition reaction by forcing electrons onto cations at the cathode and pulling them from anions at the anode.",
+    "et": "Vesinik moodustab ühendeid peaaegu kogu perioodilisussüsteemi ulatuses, ulatudes ioonsetest hüdriididest reaktiivsete metallidega kuni kovalentsete hüdriidideni mittemetallidega, ning elektrivoolu läbijuhtimine vee või sulasoola kaudu (elektrolüüs) käivitab muidu mitteiseeneslikult kulgeva lagunemisreaktsiooni, sundides elektrone katioonidele katoodil ja tõmmates neid anioonidelt anoodil.",
+    "sourceHash": "2faa1b39ae4835ea",
+    "stale": false
+  },
+  "prerequisites": [
+    "redox-reactions"
+  ]
+}

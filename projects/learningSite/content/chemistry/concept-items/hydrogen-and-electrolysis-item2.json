@@ -1,0 +1,56 @@
+{
+  "id": "hydrogen-and-electrolysis-item2",
+  "conceptId": "hydrogen-and-electrolysis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "During the electrolysis of water, what happens at the cathode?",
+    "et": "Mis toimub vee elektrolüüsi ajal katoodil?",
+    "sourceHash": "09a0a1e52eba6ecf",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Reduction occurs: hydrogen cations gain electrons from the electrode and are reduced to hydrogen gas",
+        "et": "Toimub redutseerumine: vesinikkatioonid saavad elektroodilt elektrone ja redutseeruvad vesinikgaasiks",
+        "sourceHash": "3be7d03baf5c15c0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Oxidation occurs: hydrogen atoms lose electrons to the electrode",
+        "et": "Toimub oksüdeerumine: vesinikuaatomid loovutavad elektroode elektroone",
+        "sourceHash": "7472387e7abb8886",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hydrogen-and-electrolysis-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing happens at the cathode; all reaction occurs only at the anode",
+        "et": "Katoodil ei toimu midagi; kogu reaktsioon toimub ainult anoodil",
+        "sourceHash": "46ffcc591e083218",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hydrogen-and-electrolysis-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The electrode itself dissolves into solution at the cathode",
+        "et": "Elektrood ise lahustub katoodil lahusesse",
+        "sourceHash": "277771983e0cb30b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hydrogen-and-electrolysis-m1"
+    }
+  ]
+}

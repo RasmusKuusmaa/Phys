@@ -1,0 +1,56 @@
+{
+  "id": "hydrogen-and-electrolysis-item1",
+  "conceptId": "hydrogen-and-electrolysis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Hydrogen reacts with a highly reactive alkali metal such as sodium. What kind of compound (bonding type) results, and why?",
+    "et": "Vesinik reageerib väga reaktiivse leelismetalliga nagu naatrium. Millist tüüpi ühend (sidemetüüp) tekib ja miks?",
+    "sourceHash": "e8ce060731e19de4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An ionic hydride, since the large electronegativity difference lets hydrogen accept an electron and form a hydride anion, H⁻",
+        "et": "Ioonne hüdriid, kuna suur elektronegatiivsuse erinevus lubab vesinikul vastu võtta elektroni ja moodustada hüdriidiooni, H⁻",
+        "sourceHash": "81b7819c87c8f5ed",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A covalent hydride, identical in bonding character to hydrogen's compounds with nonmetals",
+        "et": "Kovalentne hüdriid, sidemeloomult identne vesiniku ühenditega mittemetallidega",
+        "sourceHash": "b64e2d1ffe706d65",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hydrogen-and-electrolysis-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "No compound forms at all, since hydrogen cannot react with reactive metals",
+        "et": "Ühendit ei teki üldse, kuna vesinik ei saa reaktiivsete metallidega reageerida",
+        "sourceHash": "44071c77ca2813a3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hydrogen-and-electrolysis-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A metallic bond, since hydrogen behaves as a metal in this reaction",
+        "et": "Metalliline side, kuna vesinik käitub selles reaktsioonis metallina",
+        "sourceHash": "0577a266f5d38277",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hydrogen-and-electrolysis-m1"
+    }
+  ]
+}
