@@ -1144,13 +1144,23 @@ content beyond the degree lives.
 
 The equivalent of Phase 24, for the degree rather than for physics.
 
-- [ ] Add `npm run curriculum:coverage` to CI, failing if a required course
+- [x] Add `npm run curriculum:coverage` to CI, failing if a required course
       that had content loses it
   `ci: gate on degree coverage regressions`
-- [ ] Fail the build on a mapping entry naming a concept that does not exist
+- [x] Fail the build on a mapping entry naming a concept that does not exist —
+      `build-curriculum.ts` now validates every `COURSE_CONCEPTS` entry
+      against real concept IDs across all subjects before writing anything,
+      and `process.exit(1)`s on a dangling reference (tested against an
+      injected bad entry)
   `feat: validate the curriculum concept mapping`
-- [ ] Full bilingual QA pass over every new subject, both locales
+- [ ] Full bilingual QA pass over every new subject, both locales — not done,
+      same caveat as the Phase 24 physics proofread items: out of scope for
+      this pass, automated gates cover structure/terminology, not prose
   `content: bilingual qa for new subjects`
-- [ ] Re-audit the prerequisite graph across all four subjects
+- [x] Re-audit the prerequisite graph across all four subjects — actually
+      five subjects now (physics, mathematics, chemistry, materials-science,
+      computing): 0 isolated concepts, 0 dangling refs in any of them; max
+      depth physics 15, mathematics 7, chemistry 7, materials-science 3,
+      computing 3
   `content: audit the cross subject prerequisite graph`
 
