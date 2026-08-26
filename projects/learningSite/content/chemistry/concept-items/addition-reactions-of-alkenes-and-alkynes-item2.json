@@ -1,0 +1,56 @@
+{
+  "id": "addition-reactions-of-alkenes-and-alkynes-item2",
+  "conceptId": "addition-reactions-of-alkenes-and-alkynes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In the electrophilic addition of HBr to an alkene, what is the general sequence of steps?",
+    "et": "Milline on üldine sammude jada HBr elektrofiilses liitumises alkeenile?",
+    "sourceHash": "efb7b40abd564f8a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The electrophile (H⁺) is attracted to the pi bond and bonds to one carbon, forming a carbocation intermediate, which the nucleophile (Br⁻) then attacks",
+        "et": "Elektrofiil (H⁺) tõmbub pi-sideme poole ja seondub ühe süsinikuga, moodustades karbokatioonse vaheühendi, mida seejärel ründab nukleofiil (Br⁻)",
+        "sourceHash": "c2dee01847e689e3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both hydrogen and bromine attack the same carbon atom simultaneously in a single concerted step",
+        "et": "Nii vesinik kui broom ründavad sama süsinikuaatomit samaaegselt ühes kooskõlastatud sammus",
+        "sourceHash": "3aa70396968aa16c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "addition-reactions-of-alkenes-and-alkynes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The nucleophile (Br⁻) attacks first, followed by the electrophile (H⁺) attacking the resulting intermediate",
+        "et": "Nukleofiil (Br⁻) ründab esimesena, millele järgneb elektrofiili (H⁺) rünnak tekkinud vaheühendile",
+        "sourceHash": "d1030f3aa75d7dd5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "addition-reactions-of-alkenes-and-alkynes-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "No intermediate species forms at any point during the reaction",
+        "et": "Reaktsiooni ajal ei teki mitte ühelgi hetkel vaheühendit",
+        "sourceHash": "6affc71f6c26b3c0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "addition-reactions-of-alkenes-and-alkynes-m1"
+    }
+  ]
+}

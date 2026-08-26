@@ -1,0 +1,56 @@
+{
+  "id": "addition-reactions-of-alkenes-and-alkynes-item1",
+  "conceptId": "addition-reactions-of-alkenes-and-alkynes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does an alkene's carbon-carbon double bond react so much more readily than a comparable carbon-carbon single bond?",
+    "et": "Miks reageerib alkeeni süsinik-süsinik kaksikside palju kergemini kui võrreldav süsinik-süsinik üksikside?",
+    "sourceHash": "f9a9def45b5b5bfb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The pi bond component of the double bond is weaker than a sigma bond and its electron density is more exposed, making it attractive to electrophiles",
+        "et": "Kaksiksideme pi-sidekomponent on nõrgem kui sigma-side ja selle elektrontihedus on rohkem paljastatud, muutes selle elektrofiilidele atraktiivseks",
+        "sourceHash": "a78ad2e9f3cd9b02",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Double bonds are actually less reactive than single bonds, contrary to common observation",
+        "et": "Kaksiksidemed on tegelikult vähem reaktiivsed kui üksiksidemed, vastupidiselt tavapärasele vaatlusele",
+        "sourceHash": "1cfa4a0e88b784e5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "addition-reactions-of-alkenes-and-alkynes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The double bond carries a formal negative charge that repels all other reactive species",
+        "et": "Kaksiksidel on formaalne negatiivne laeng, mis tõukab eemale kõik teised reaktiivsed osakesed",
+        "sourceHash": "5fb07827356b6c92",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "addition-reactions-of-alkenes-and-alkynes-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "There is no real difference in reactivity between single and double carbon-carbon bonds",
+        "et": "Üksik- ja kaksiksüsinik-süsinik sidemete reaktiivsuses pole tegelikku erinevust",
+        "sourceHash": "5134da75047356fc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "addition-reactions-of-alkenes-and-alkynes-m1"
+    }
+  ]
+}

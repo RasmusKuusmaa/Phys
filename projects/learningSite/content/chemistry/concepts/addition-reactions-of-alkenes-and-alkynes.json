@@ -1,0 +1,21 @@
+{
+  "id": "addition-reactions-of-alkenes-and-alkynes",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "organic-chemistry",
+  "title": {
+    "en": "Addition reactions of alkenes and alkynes",
+    "et": "Alkeenide ja alküünide liitumisreaktsioonid",
+    "sourceHash": "33992c5c1c355ab4",
+    "stale": false
+  },
+  "summary": {
+    "en": "The relatively weak, exposed pi bond in an alkene or alkyne is broken open by an addition reaction, in which an electrophile is attracted to the electron-rich pi bond, forms a bond to one carbon, and generates a cationic intermediate that a nucleophile then attacks, converting the double or triple bond into new single bonds to the added atoms.",
+    "et": "Alkeeni või alküüni suhteliselt nõrga, avatud pi-sideme lõhub liitumisreaktsioon, mille käigus elektrofiili tõmbab ligi elektronirikas pi-side, see moodustab sideme ühe süsinikuga ja tekitab katioonse vaheühendi, mida seejärel ründab nukleofiil, muutes kaksik- või kolmiksideme uuteks üksiksidemeteks lisatud aatomitega.",
+    "sourceHash": "d61a509a11ace277",
+    "stale": false
+  },
+  "prerequisites": [
+    "reaction-mechanisms-and-bond-cleavage"
+  ]
+}
