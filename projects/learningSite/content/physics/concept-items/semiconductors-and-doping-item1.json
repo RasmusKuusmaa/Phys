@@ -1,0 +1,56 @@
+{
+  "id": "semiconductors-and-doping-item1",
+  "conceptId": "semiconductors-and-doping",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Silicon (4 valence electrons) is doped with a small amount of phosphorus (5 valence electrons). What kind of semiconductor does this produce?",
+    "et": "Räni (4 valentselektroni) dopeeritakse väikese koguse fosforiga (5 valentselektroni). Millist tüüpi pooljuht see tekitab?",
+    "sourceHash": "26b6f333719c67fb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An n-type semiconductor, since each phosphorus atom contributes one extra, loosely bound mobile electron",
+        "et": "N-tüüpi pooljuhi, kuna iga fosforiaatom annab ühe lisa, nõrgalt seotud liikuva elektroni",
+        "sourceHash": "d279e052bb1e5c34",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A p-type semiconductor, since phosphorus atoms create extra mobile holes",
+        "et": "P-tüüpi pooljuhi, kuna fosforiaatomid tekitavad lisa liikuvaid auke",
+        "sourceHash": "2ed47b0e2fa248a5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "semiconductors-and-doping-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "An insulator, since adding any impurity always increases the band gap",
+        "et": "Isolaatori, kuna mistahes lisandi lisamine suurendab alati keelutsooni",
+        "sourceHash": "b94c9ab50105131e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "semiconductors-and-doping-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "No change in conductivity at all, since silicon's own electrons dominate regardless of doping",
+        "et": "Juhtivuses ei toimu üldse muutust, kuna räni enda elektronid domineerivad sõltumata dopeerimisest",
+        "sourceHash": "ddf671a8ff403889",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "semiconductors-and-doping-m1"
+    }
+  ]
+}

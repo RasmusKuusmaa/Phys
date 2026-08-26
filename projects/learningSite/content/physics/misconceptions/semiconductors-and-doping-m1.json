@@ -1,0 +1,10 @@
+{
+  "id": "semiconductors-and-doping-m1",
+  "conceptId": "semiconductors-and-doping",
+  "text": {
+    "en": "Doping a semiconductor always adds mobile electrons, regardless of which impurity element is used.",
+    "et": "Pooljuhi dopeerimine lisab alati liikuvaid elektrone, sõltumata kasutatavast lisandelemendist.",
+    "sourceHash": "529d8772954cc4e4",
+    "stale": false
+  }
+}

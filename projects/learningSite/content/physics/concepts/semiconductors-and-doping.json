@@ -1,0 +1,21 @@
+{
+  "id": "semiconductors-and-doping",
+  "subject": "physics",
+  "level": "L3",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "Semiconductors and doping",
+    "et": "Pooljuhid ja dopeerimine",
+    "sourceHash": "227cb36db04cea38",
+    "stale": false
+  },
+  "summary": {
+    "en": "Doping a semiconductor with carefully chosen impurity atoms deliberately adds either extra mobile electrons (n-type, from donor atoms with a spare valence electron) or extra mobile holes (p-type, from acceptor atoms with one fewer valence electron), and controlling this doping is what makes semiconductors useful for building diodes, transistors, and every other solid-state electronic device.",
+    "et": "Pooljuhi dopeerimine hoolikalt valitud lisandaatomitega lisab tahtlikult kas lisa liikuvaid elektrone (n-tüüpi, doonoraatomitest, millel on üleliigne valentselektron) või lisa liikuvaid auke (p-tüüpi, aktseptoraatomitest, millel on üks valentselektron vähem), ja selle dopeerimise kontrollimine ongi see, mis teeb pooljuhid kasulikuks dioodide, transistoride ja iga teise pooljuht-elektroonikaseadme ehitamisel.",
+    "sourceHash": "00e748b01ab81338",
+    "stale": false
+  },
+  "prerequisites": [
+    "band-theory-of-solids"
+  ]
+}

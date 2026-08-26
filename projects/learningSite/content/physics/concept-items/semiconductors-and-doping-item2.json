@@ -1,0 +1,56 @@
+{
+  "id": "semiconductors-and-doping-item2",
+  "conceptId": "semiconductors-and-doping",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does a 'hole' represent in a p-type semiconductor?",
+    "et": "Mida esindab 'auk' p-tüüpi pooljuhis?",
+    "sourceHash": "157d4c544a48474b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A missing electron in the valence band that behaves like a mobile positive charge carrier as nearby electrons shift to fill it",
+        "et": "Puuduvat elektroni valentsvöös, mis käitub liikuva positiivse laengukandjana, kui lähedalasuvad elektronid nihkuvad seda täitma",
+        "sourceHash": "ce23e677af4ebda4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A literal empty region of space inside the crystal with no atoms present",
+        "et": "Sõna otseses mõttes tühja ruumipiirkonda kristalli sees, kus pole ühtki aatomit",
+        "sourceHash": "01529aec4d50b880",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "semiconductors-and-doping-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "An extra mobile electron contributed by an acceptor impurity atom",
+        "et": "Lisa liikuvat elektroni, mille annab aktseptor-lisandiaatom",
+        "sourceHash": "a2df146ca3f8dd99",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "semiconductors-and-doping-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A permanently fixed, immobile positive charge that cannot move through the crystal at all",
+        "et": "Püsivalt fikseeritud, liikumatut positiivset laengut, mis ei saa üldse kristallis liikuda",
+        "sourceHash": "b17a9c4f35839ae0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "semiconductors-and-doping-m1"
+    }
+  ]
+}
