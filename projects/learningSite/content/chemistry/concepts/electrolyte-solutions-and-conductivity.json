@@ -1,0 +1,21 @@
+{
+  "id": "electrolyte-solutions-and-conductivity",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "physical-chemistry",
+  "title": {
+    "en": "Electrolyte solutions and conductivity",
+    "et": "Elektrolüüdilahused ja elektrijuhtivus",
+    "sourceHash": "90addbaf1bbd1d36",
+    "stale": false
+  },
+  "summary": {
+    "en": "A strong electrolyte dissociates essentially completely into ions in solution while a weak electrolyte reaches only partial dissociation equilibrium, and this distinction shows up directly in molar conductivity, which for a strong electrolyte declines only mildly with concentration due to ion-ion interactions but for a weak electrolyte drops sharply as concentration rises because the fraction actually dissociated falls.",
+    "et": "Tugev elektrolüüt dissotsieerub lahuses sisuliselt täielikult ioonideks, samal ajal kui nõrk elektrolüüt jõuab ainult osalise dissotsiatsiooni tasakaaluni, ja see erinevus avaldub otseselt moolses elektrijuhtivuses, mis tugeva elektrolüüdi jaoks langeb kontsentratsiooniga ainult tagasihoidlikult ioon-ioon vastastikmõjude tõttu, kuid nõrga elektrolüüdi jaoks langeb järsult kontsentratsiooni kasvades, kuna tegelikult dissotsieerunud osakaal väheneb.",
+    "sourceHash": "5a3b3ec394fdbbe0",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-mole-and-amount-of-substance"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "electrolyte-solutions-and-conductivity-item2",
+  "conceptId": "electrolyte-solutions-and-conductivity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "As a strong electrolyte solution is progressively diluted, its molar conductivity increases only mildly, while a weak electrolyte's molar conductivity increases sharply upon dilution. What explains this difference?",
+    "et": "Tugeva elektrolüüdilahuse järkjärgulisel lahjendamisel kasvab selle moolne elektrijuhtivus ainult tagasihoidlikult, samal ajal kui nõrga elektrolüüdi moolne elektrijuhtivus kasvab lahjendamisel järsult. Mis seletab seda erinevust?",
+    "sourceHash": "34e9dfe10555bb46",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The strong electrolyte is already almost fully dissociated at any concentration, so dilution mainly just reduces ion-ion interactions, while dilution shifts the weak electrolyte's dissociation equilibrium sharply toward more dissociation",
+        "et": "Tugev elektrolüüt on juba peaaegu täielikult dissotsieerunud igal kontsentratsioonil, seega lahjendamine peamiselt vähendab ioon-ioon vastastikmõjusid, samal ajal kui lahjendamine nihutab nõrga elektrolüüdi dissotsiatsioonitasakaalu järsult suurema dissotsiatsiooni poole",
+        "sourceHash": "2cc3e7130defd417",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Dilution has no real effect on either type of electrolyte's conductivity",
+        "et": "Lahjendamisel pole kummagi tüüpi elektrolüüdi juhtivusele tegelikku mõju",
+        "sourceHash": "b0662690aae344b2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrolyte-solutions-and-conductivity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Strong electrolytes become less dissociated upon dilution, which is why their conductivity barely changes",
+        "et": "Tugevad elektrolüüdid muutuvad lahjendamisel vähem dissotsieerunuks, mis on põhjus, miks nende juhtivus vaevu muutub",
+        "sourceHash": "8a111ccf30df8228",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrolyte-solutions-and-conductivity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Weak electrolytes are always fully dissociated, so dilution should have no effect on them either",
+        "et": "Nõrgad elektrolüüdid on alati täielikult dissotsieerunud, seega ei tohiks lahjendamisel ka neile mingit mõju olla",
+        "sourceHash": "bea033044e5b5911",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrolyte-solutions-and-conductivity-m1"
+    }
+  ]
+}

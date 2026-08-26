@@ -1,0 +1,56 @@
+{
+  "id": "electrolyte-solutions-and-conductivity-item1",
+  "conceptId": "electrolyte-solutions-and-conductivity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Hydrochloric acid (a strong acid) and acetic acid (a weak acid) are dissolved in water at the same nominal concentration. Why does the hydrochloric acid solution conduct electricity far better?",
+    "et": "Vesinikkloriidhape (tugev hape) ja äädikhape (nõrk hape) lahustatakse vees samal nominaalsel kontsentratsioonil. Miks juhib vesinikkloriidhappe lahus elektrit palju paremini?",
+    "sourceHash": "b8dcc8bd7b08b357",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Hydrochloric acid dissociates essentially completely into ions, while acetic acid reaches only a partial dissociation equilibrium, leaving far fewer free ions in solution",
+        "et": "Vesinikkloriidhape dissotsieerub sisuliselt täielikult ioonideks, samal ajal kui äädikhape jõuab ainult osalise dissotsiatsiooni tasakaaluni, jättes lahusesse palju vähem vabu ioone",
+        "sourceHash": "9e9363871bc7c02c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Acetic acid molecules are physically larger and therefore block electrical current more effectively",
+        "et": "Äädikhappe molekulid on füüsiliselt suuremad ja blokeerivad seetõttu elektrivoolu tõhusamalt",
+        "sourceHash": "8efd7d0f71507172",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrolyte-solutions-and-conductivity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Hydrochloric acid and acetic acid dissociate to exactly the same extent, so this observation is inconsistent with theory",
+        "et": "Vesinikkloriidhape ja äädikhape dissotsieeruvad täpselt samal määral, seega on see vaatlus teooriaga vastuolus",
+        "sourceHash": "008db5a6eb83233e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrolyte-solutions-and-conductivity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Conductivity depends only on the solvent, not on which acid is dissolved in it",
+        "et": "Juhtivus sõltub ainult lahustist, mitte sellest, milline hape on selles lahustatud",
+        "sourceHash": "20c77432588696aa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electrolyte-solutions-and-conductivity-m1"
+    }
+  ]
+}

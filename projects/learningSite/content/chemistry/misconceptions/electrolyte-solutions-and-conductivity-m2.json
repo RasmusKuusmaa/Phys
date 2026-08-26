@@ -1,0 +1,10 @@
+{
+  "id": "electrolyte-solutions-and-conductivity-m2",
+  "conceptId": "electrolyte-solutions-and-conductivity",
+  "text": {
+    "en": "A solution's electrical conductivity depends only on the concentration of dissolved ions, not on which specific ions are present.",
+    "et": "Lahuse elektrijuhtivus sõltub ainult lahustunud ioonide kontsentratsioonist, mitte sellest, millised konkreetsed ioonid on kohal.",
+    "sourceHash": "58a60cede0292598",
+    "stale": false
+  }
+}
