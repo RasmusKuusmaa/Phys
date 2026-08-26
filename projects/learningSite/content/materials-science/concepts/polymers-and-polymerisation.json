@@ -1,0 +1,21 @@
+{
+  "id": "polymers-and-polymerisation",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Polymers and polymerisation",
+    "et": "Polümeerid ja polümerisatsioon",
+    "sourceHash": "695972d40d673d93",
+    "stale": false
+  },
+  "summary": {
+    "en": "A polymer is a giant molecule built from many repeating small units (monomers) joined by polymerisation, and whether it softens reversibly on heating (thermoplastic, held together by chains that can slide past each other) or is permanently rigid once formed (thermoset, locked into a single covalently cross-linked network) is set entirely by the presence or absence of cross-links between chains.",
+    "et": "Polümeer on hiiglaslik molekul, mis on ehitatud paljudest korduvatest väikestest üksustest (monomeeridest), mis on ühendatud polümerisatsiooni teel, ja see, kas see pehmeneb kuumutamisel pöörduvalt (termoplast, hoitud koos ahelatega, mis saavad üksteisest mööda libiseda) või on kord moodustununa püsivalt jäik (termoreaktiivne, lukustatud üheks kovalentselt ristsidestatud võrgustikuks), on täielikult määratud ahelatevaheliste ristsidemete olemasolu või puudumisega.",
+    "sourceHash": "e1325000f1469c28",
+    "stale": false
+  },
+  "prerequisites": [
+    "classes-of-materials"
+  ]
+}

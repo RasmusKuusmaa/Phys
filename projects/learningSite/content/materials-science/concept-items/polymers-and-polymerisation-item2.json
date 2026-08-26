@@ -1,0 +1,56 @@
+{
+  "id": "polymers-and-polymerisation-item2",
+  "conceptId": "polymers-and-polymerisation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A thermosetting polymer, once cured (cross-linked), cannot be melted and reshaped the way a thermoplastic can, even at high temperature — it will char or decompose rather than flow. Why?",
+    "et": "Termoreaktiivset polümeeri, kord kõvenenuna (ristsidestatuna), ei saa sulatada ja ümber vormida nii, nagu termoplasti saab, isegi kõrgel temperatuuril — see söestub või laguneb voolamise asemel. Miks?",
+    "sourceHash": "fe59d6246b2885b0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Curing creates permanent covalent cross-links between chains, fusing the entire material into essentially one giant molecular network that cannot flow without breaking covalent bonds",
+        "et": "Kõvenemine tekitab ahelate vahele püsivad kovalentsed ristsidemed, sulatades kogu materjali sisuliselt üheks hiiglaslikuks molekulaarseks võrgustikuks, mis ei saa voolata ilma kovalentseid sidemeid katkestamata",
+        "sourceHash": "6108faf26deecf90",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Thermosetting polymers have no chemical bonds at all, which makes them impossible to melt",
+        "et": "Termoreaktiivsetel polümeeridel puuduvad üldse keemilised sidemed, mis muudab nende sulatamise võimatuks",
+        "sourceHash": "389aa8a10520e8ef",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polymers-and-polymerisation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Curing simply increases the polymer's molecular weight without creating any cross-links between chains",
+        "et": "Kõvenemine lihtsalt suurendab polümeeri molekulmassi, tekitamata ahelate vahele mingeid ristsidemeid",
+        "sourceHash": "aca811ca47072844",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polymers-and-polymerisation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Thermosetting and thermoplastic polymers are chemically identical, and the difference is purely due to their color",
+        "et": "Termoreaktiivsed ja termoplastilised polümeerid on keemiliselt identsed ja erinevus on puhtalt nende värvi tõttu",
+        "sourceHash": "7c43188a7556faa1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polymers-and-polymerisation-m1"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "polymers-and-polymerisation-item1",
+  "conceptId": "polymers-and-polymerisation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A thermoplastic polymer, such as polyethylene used in plastic bottles, can be melted, reshaped, and cooled repeatedly without changing its fundamental chemical structure. What underlying feature of its molecular structure allows this?",
+    "et": "Termoplastilist polümeeri, näiteks plastpudelites kasutatavat polüetüleeni, saab korduvalt sulatada, ümber vormida ja jahutada, muutmata selle põhilist keemilist struktuuri. Milline tema molekulaarstruktuuri aluseks olev tunnus lubab seda?",
+    "sourceHash": "d3dfa72fbede02f4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its individual polymer chains are not covalently cross-linked to each other, so heating lets the chains slide past one another and flow, while cooling locks them back in place without breaking any covalent bonds",
+        "et": "Selle üksikud polümeeriahelad ei ole omavahel kovalentselt ristsidestatud, seega laseb kuumutamine ahelatel üksteisest mööda libiseda ja voolata, samal ajal kui jahutamine lukustab need tagasi paika, katkestamata ühtki kovalentset sidet",
+        "sourceHash": "8e0035f7f99ef09c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Its polymer chains are permanently fused into a single molecule, exactly like a thermoset",
+        "et": "Selle polümeeriahelad on püsivalt sulatatud üheks molekuliks, täpselt nagu termoreaktiivne polümeer",
+        "sourceHash": "86da3e26dc6fc125",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polymers-and-polymerisation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Melting and reshaping a thermoplastic always breaks its covalent monomer-monomer bonds and reforms new ones",
+        "et": "Termoplasti sulatamine ja ümbervormimine katkestab alati selle kovalentsed monomeer-monomeer sidemed ja moodustab uued",
+        "sourceHash": "f9b4ba119beb93b1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polymers-and-polymerisation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Thermoplastics contain no covalent bonds at all, unlike thermosets",
+        "et": "Termoplastid ei sisalda üldse kovalentseid sidemeid, erinevalt termoreaktiivsetest polümeeridest",
+        "sourceHash": "36e569547abb621a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "polymers-and-polymerisation-m1"
+    }
+  ]
+}
