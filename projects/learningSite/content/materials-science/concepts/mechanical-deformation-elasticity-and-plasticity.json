@@ -1,0 +1,21 @@
+{
+  "id": "mechanical-deformation-elasticity-and-plasticity",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Mechanical deformation: elasticity and plasticity",
+    "et": "Mehaaniline deformatsioon: elastsus ja plastsus",
+    "sourceHash": "f3edf861462dda91",
+    "stale": false
+  },
+  "summary": {
+    "en": "A stressed material first deforms elastically, recovering its original shape completely once the stress is removed, but past a material-specific yield point it deforms plastically instead, undergoing a permanent shape change driven at the microscopic level by the irreversible motion of dislocations through the crystal lattice, and continued deformation eventually leads to fracture.",
+    "et": "Pinge all olev materjal deformeerub esmalt elastselt, taastades pinge eemaldamisel täielikult oma algse kuju, kuid materjalispetsiifilisest voolavuspiirist möödudes deformeerub see selle asemel plastselt, läbides püsiva kujumuutuse, mida mikroskoopilisel tasandil juhib dislokatsioonide pöördumatu liikumine läbi kristallvõre, ja jätkuv deformatsioon viib lõpuks purunemiseni.",
+    "sourceHash": "70faac9ced27697b",
+    "stale": false
+  },
+  "prerequisites": [
+    "structure-property-relationships"
+  ]
+}

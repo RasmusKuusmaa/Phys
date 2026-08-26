@@ -1,0 +1,56 @@
+{
+  "id": "mechanical-deformation-elasticity-and-plasticity-item2",
+  "conceptId": "mechanical-deformation-elasticity-and-plasticity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "At the microscopic level, plastic deformation in a crystalline metal is understood to occur primarily through what mechanism?",
+    "et": "Mikroskoopilisel tasandil mõistetakse plastset deformatsiooni kristallilises metallis toimuvat peamiselt millise mehhanismi kaudu?",
+    "sourceHash": "1a04d46953cf9b4b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The motion of dislocations, line defects in the crystal lattice, which allows planes of atoms to slip past each other without requiring the entire crystal to shift simultaneously",
+        "et": "Dislokatsioonide, kristallvõre joondefektide, liikumine, mis lubab aatomitasanditel üksteisest mööda libiseda, ilma et kogu kristall peaks samaaegselt nihkuma",
+        "sourceHash": "2cb5d7f13ac7ab5d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The complete melting of the crystal at the point of deformation",
+        "et": "Kristalli täielik sulamine deformatsioonikohas",
+        "sourceHash": "691ff4f65c11edfd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mechanical-deformation-elasticity-and-plasticity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Simultaneous movement of every atom in the crystal past its neighbours at once",
+        "et": "Iga kristalli aatomi samaaegne liikumine mööda oma naabreid korraga",
+        "sourceHash": "78bda61f63980d9a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mechanical-deformation-elasticity-and-plasticity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Plastic deformation has no established microscopic mechanism and remains entirely unexplained",
+        "et": "Plastsel deformatsioonil puudub kindlaks tehtud mikroskoopiline mehhanism ja see jääb täielikult seletamatuks",
+        "sourceHash": "fdf0d0f0bd0cd971",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mechanical-deformation-elasticity-and-plasticity-m1"
+    }
+  ]
+}

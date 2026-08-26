@@ -1,0 +1,56 @@
+{
+  "id": "mechanical-deformation-elasticity-and-plasticity-item1",
+  "conceptId": "mechanical-deformation-elasticity-and-plasticity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A metal wire is stretched slightly and then released, returning completely to its original length. It is then stretched much further, well beyond its yield point, and released again — this time it stays permanently longer. What distinguishes these two outcomes?",
+    "et": "Metalltraat venitatakse veidi ja seejärel vabastatakse, taastades täielikult oma algse pikkuse. Seejärel venitatakse seda palju rohkem, kaugele üle voolavuspiiri, ja vabastatakse uuesti — seekord jääb see püsivalt pikemaks. Mis eristab neid kahte tulemust?",
+    "sourceHash": "1db1fa154c934135",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The first stretch was within the elastic region, fully reversible; the second exceeded the yield point, causing permanent plastic deformation",
+        "et": "Esimene venitus jäi elastsesse piirkonda, täielikult pöörduvaks; teine ületas voolavuspiiri, põhjustades püsiva plastse deformatsiooni",
+        "sourceHash": "701f00bef070410f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both stretches were identical in nature; the different outcomes are purely due to random chance",
+        "et": "Mõlemad venitused olid oma olemuselt identsed; erinevad tulemused on puhtalt juhuse tõttu",
+        "sourceHash": "32a79034d4cc6141",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mechanical-deformation-elasticity-and-plasticity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The wire's material composition changed between the two stretches",
+        "et": "Traadi materjali koostis muutus kahe venituse vahel",
+        "sourceHash": "2b6cd86c89298947",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mechanical-deformation-elasticity-and-plasticity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Elastic and plastic deformation are the same phenomenon with different names",
+        "et": "Elastne ja plastne deformatsioon on sama nähtus erinevate nimedega",
+        "sourceHash": "333fa846475478a5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mechanical-deformation-elasticity-and-plasticity-m1"
+    }
+  ]
+}
