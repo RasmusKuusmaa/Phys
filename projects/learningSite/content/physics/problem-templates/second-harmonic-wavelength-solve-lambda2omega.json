@@ -4,7 +4,7 @@
   "variables": [
     {
       "symbol": "lambdaomega",
-      "min": 0.0000008,
+      "min": 8e-7,
       "max": 0.0000015,
       "unit": "m",
       "sigFigs": 4

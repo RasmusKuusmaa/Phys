@@ -11,15 +11,15 @@
     },
     {
       "symbol": "lambda1",
-      "min": 0.0000004,
-      "max": 0.0000007,
+      "min": 4e-7,
+      "max": 7e-7,
       "unit": "m",
       "sigFigs": 3
     },
     {
       "symbol": "lambda2",
-      "min": 0.0000004,
-      "max": 0.0000007,
+      "min": 4e-7,
+      "max": 7e-7,
       "unit": "m",
       "sigFigs": 3
     }

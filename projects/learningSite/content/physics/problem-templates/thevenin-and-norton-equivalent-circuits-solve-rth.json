@@ -18,8 +18,16 @@
     }
   ],
   "constraints": [
-    { "op": "gt", "left": "V_oc", "right": 0 },
-    { "op": "gt", "left": "I_sc", "right": 0 }
+    {
+      "op": "gt",
+      "left": "V_oc",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "I_sc",
+      "right": 0
+    }
   ],
   "solveFor": "R_th"
 }

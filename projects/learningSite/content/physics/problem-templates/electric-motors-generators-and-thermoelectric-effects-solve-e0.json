@@ -32,10 +32,26 @@
     }
   ],
   "constraints": [
-    { "op": "gt", "left": "N", "right": 0 },
-    { "op": "gt", "left": "B", "right": 0 },
-    { "op": "gt", "left": "A", "right": 0 },
-    { "op": "gt", "left": "omega", "right": 0 }
+    {
+      "op": "gt",
+      "left": "N",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "B",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "A",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "omega",
+      "right": 0
+    }
   ],
   "solveFor": "e0"
 }

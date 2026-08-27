@@ -18,8 +18,16 @@
     }
   ],
   "constraints": [
-    { "op": "gt", "left": "W", "right": 0 },
-    { "op": "gt", "left": "E", "right": 0 }
+    {
+      "op": "gt",
+      "left": "W",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "E",
+      "right": 0
+    }
   ],
   "solveFor": "q"
 }

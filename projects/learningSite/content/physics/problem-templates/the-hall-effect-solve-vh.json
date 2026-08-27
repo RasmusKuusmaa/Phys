@@ -18,8 +18,8 @@
     },
     {
       "symbol": "n",
-      "min": 1e21,
-      "max": 1e23,
+      "min": 1e+21,
+      "max": 1e+23,
       "unit": "1/m^3",
       "sigFigs": 3
     },
@@ -32,10 +32,26 @@
     }
   ],
   "constraints": [
-    { "op": "gt", "left": "I", "right": 0 },
-    { "op": "gt", "left": "B", "right": 0 },
-    { "op": "gt", "left": "n", "right": 0 },
-    { "op": "gt", "left": "t", "right": 0 }
+    {
+      "op": "gt",
+      "left": "I",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "B",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "n",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "t",
+      "right": 0
+    }
   ],
   "solveFor": "V_H"
 }
