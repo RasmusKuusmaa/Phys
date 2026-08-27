@@ -266,6 +266,9 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-carnot-cycle-and-heat-engines",
     "the-maxwell-boltzmann-distribution",
     "quantum-statistics-fermi-dirac-and-bose-einstein",
+    "thermodynamic-processes",
+    "ideal-gas-law",
+    "phase-transitions",
   ],
   "LOFY.04.073": [
     "heisenberg-uncertainty-principle",
@@ -282,6 +285,8 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-quantum-harmonic-oscillator",
     "quantum-numbers-and-atomic-orbitals",
     "the-pauli-exclusion-principle",
+    "band-theory-of-solids",
+    "quantum-statistics-fermi-dirac-and-bose-einstein",
   ],
   "LTFY.04.016": [
     "coupled-and-driven-oscillators",
