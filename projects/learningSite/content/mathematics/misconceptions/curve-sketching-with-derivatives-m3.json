@@ -1,0 +1,10 @@
+{
+  "id": "curve-sketching-with-derivatives-m3",
+  "conceptId": "curve-sketching-with-derivatives",
+  "text": {
+    "en": "Assumes every point where f''(x) = 0 is an inflection point, without checking that the concavity actually changes sign there.",
+    "et": "Eeldab, et iga punkt, kus f''(x) = 0, on käänupunkt, kontrollimata, kas kumerus seal tegelikult märki muudab.",
+    "sourceHash": "12afc41d0884032d",
+    "stale": false
+  }
+}

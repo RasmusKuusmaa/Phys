@@ -1,0 +1,10 @@
+{
+  "id": "curve-sketching-with-derivatives-m2",
+  "conceptId": "curve-sketching-with-derivatives",
+  "text": {
+    "en": "Confuses the sign of f'(x) (rising or falling) with the sign of f''(x) (convex or concave) — believing a function must be concave wherever it is decreasing.",
+    "et": "Ajab segi f'(x) märgi (kasvamine või kahanemine) ja f''(x) märgi (kumerus või nõgusus) — arvates, et funktsioon on nõgus kõikjal, kus see kahaneb.",
+    "sourceHash": "e9b85a5bb5936537",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "curve-sketching-with-derivatives",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "calculus",
+  "title": {
+    "en": "Curve sketching with derivatives",
+    "et": "Funktsiooni uurimine tuletiste abil",
+    "sourceHash": "5c84e5dfae100ac3",
+    "stale": false
+  },
+  "summary": {
+    "en": "The first derivative's sign locates where a function rises or falls and where it has local extrema; the second derivative's sign locates where the graph is convex or concave and where it has inflection points — together they turn an algebraic expression into an accurate sketch without plotting points.",
+    "et": "Esimese tuletise märk näitab, kus funktsioon kasvab või kahaneb ning kus on lokaalsed ekstreemumid; teise tuletise märk näitab, kus graafik on kumer või nõgus ning kus on käänupunktid — koos muudavad need algebralise avaldise täpseks joonistuseks ilma punkte arvutamata.",
+    "sourceHash": "0559c732116dd99f",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-derivative"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "curve-sketching-with-derivatives-m1",
+  "conceptId": "curve-sketching-with-derivatives",
+  "text": {
+    "en": "Believes every point where f'(x) = 0 is a local extremum, without checking that the derivative's sign actually changes there — missing that f(x) = x³ has a stationary point at x = 0 that is neither a maximum nor a minimum.",
+    "et": "Arvab, et igas punktis, kus f'(x) = 0, on lokaalne ekstreemum, kontrollimata, kas tuletise märk seal tegelikult muutub — jättes kahe silma vahele, et f(x) = x³-l on statsionaarne punkt x = 0 juures, mis ei ole ekstreemum.",
+    "sourceHash": "447d8365db6b5a4d",
+    "stale": false
+  }
+}

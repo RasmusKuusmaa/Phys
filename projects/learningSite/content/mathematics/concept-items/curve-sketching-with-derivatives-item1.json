@@ -1,0 +1,56 @@
+{
+  "id": "curve-sketching-with-derivatives-item1",
+  "conceptId": "curve-sketching-with-derivatives",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A function has f'(x) = 3x². What can you conclude about x = 0?",
+    "et": "Funktsiooni tuletis on f'(x) = 3x². Mida saab järeldada punkti x = 0 kohta?",
+    "sourceHash": "d390677054bd33a7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "x = 0 is a stationary point, but it need not be a local extremum — the sign of f' must also be checked either side of it",
+        "et": "x = 0 on statsionaarne punkt, kuid see ei pea olema lokaalne ekstreemum — kontrollida tuleb ka f' märki punkti kahel pool",
+        "sourceHash": "1072c5317fa4d478",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "x = 0 must be a local extremum, since f'(0) = 0",
+        "et": "x = 0 peab olema lokaalne ekstreemum, kuna f'(0) = 0",
+        "sourceHash": "4172f5d63e06c679",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "curve-sketching-with-derivatives-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The function is concave at x = 0, since f'(x) is decreasing there",
+        "et": "Funktsioon on x = 0 juures nõgus, kuna f'(x) on seal kahanev",
+        "sourceHash": "2c8f682301730f8e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "curve-sketching-with-derivatives-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "x = 0 must be an inflection point of f",
+        "et": "x = 0 peab olema funktsiooni f käänupunkt",
+        "sourceHash": "a9cc57d73caddbcb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "curve-sketching-with-derivatives-m3"
+    }
+  ]
+}

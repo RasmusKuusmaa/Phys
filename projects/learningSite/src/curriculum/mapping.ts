@@ -341,6 +341,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-indefinite-integral",
     "vectors-in-space",
     "improper-integrals",
+    "curve-sketching-with-derivatives",
   ],
   // Keemia alused — general chemistry, required of all three tracks.
   "LOKT.07.010": [
