@@ -136,6 +136,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "thevenin-and-norton-equivalent-circuits",
     "transformers-and-ac-power-distribution",
     "charged-particle-motion-mass-spectrometry-and-cyclotrons",
+    "magnetic-materials-and-ferromagnetic-hysteresis",
   ],
   "LOFY.01.008": [
     "diffraction-gratings",
@@ -702,6 +703,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "ac-circuits-and-impedance",
     "the-hall-effect",
     "charged-particle-motion-mass-spectrometry-and-cyclotrons",
+    "magnetic-materials-and-ferromagnetic-hysteresis",
   ],
   "LOFY.01.124": [
     "lenses-and-focal-length",

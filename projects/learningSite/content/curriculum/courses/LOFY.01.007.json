@@ -123,7 +123,8 @@
     "the-hall-effect",
     "thevenin-and-norton-equivalent-circuits",
     "transformers-and-ac-power-distribution",
-    "charged-particle-motion-mass-spectrometry-and-cyclotrons"
+    "charged-particle-motion-mass-spectrometry-and-cyclotrons",
+    "magnetic-materials-and-ferromagnetic-hysteresis"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

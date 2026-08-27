@@ -1,0 +1,56 @@
+{
+  "id": "magnetic-materials-and-ferromagnetic-hysteresis-item1",
+  "conceptId": "magnetic-materials-and-ferromagnetic-hysteresis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A permanent iron magnet stays magnetized even after every external field is removed, but the same piece of iron heated above its Curie temperature loses its magnetism entirely. What does this reveal about ferromagnetism?",
+    "et": "Püsimagnet raualt jääb magnetiseerituks ka pärast kõikide väliste väljade eemaldamist, kuid Curie temperatuurist kõrgemale kuumutatud raud kaotab magnetismi täielikult. Mida see ferromagnetismi kohta paljastab?",
+    "sourceHash": "96f59c8ceb9d6bdc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Ferromagnetic order comes from aligned domains sustained by strong internal interactions, not from an external field — and enough thermal energy disrupts that alignment.",
+        "et": "Ferromagnetiline järjestus tuleneb tugevate sisemiste vastasmõjude toel joondunud domeenidest, mitte välisest väljast — ja piisav soojusenergia rikub selle joondumise.",
+        "sourceHash": "86bd1326a8f1c2c7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing really distinguishes iron from any other 'non-magnetic' material except being close enough to a field.",
+        "et": "Midagi ei erista rauda tegelikult muust 'mitte-magnetilisest' materjalist, välja arvatud piisavalt lähedal olemine väljale.",
+        "sourceHash": "01ec771c5f6771a8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "magnetic-materials-and-ferromagnetic-hysteresis-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The magnetization must be tracking whatever field is currently present, since materials always respond instantly with no memory.",
+        "et": "Magnetiseeritus peab järgima praegust välja, sest materjalid reageerivad alati kohe, ilma mäluta.",
+        "sourceHash": "8453e79a8a9f3213",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "magnetic-materials-and-ferromagnetic-hysteresis-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Heating should align the domains even more strongly, since heat adds energy to the system.",
+        "et": "Soojendamine peaks domeene veel tugevamini joondama, sest soojus lisab süsteemile energiat.",
+        "sourceHash": "73a665bf0dc66ac2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "magnetic-materials-and-ferromagnetic-hysteresis-m3"
+    }
+  ]
+}

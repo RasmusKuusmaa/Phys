@@ -118,7 +118,8 @@
     "lc-and-rlc-oscillations",
     "ac-circuits-and-impedance",
     "the-hall-effect",
-    "charged-particle-motion-mass-spectrometry-and-cyclotrons"
+    "charged-particle-motion-mass-spectrometry-and-cyclotrons",
+    "magnetic-materials-and-ferromagnetic-hysteresis"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"

@@ -1,0 +1,10 @@
+{
+  "id": "magnetic-materials-and-ferromagnetic-hysteresis-m2",
+  "conceptId": "magnetic-materials-and-ferromagnetic-hysteresis",
+  "text": {
+    "en": "A ferromagnet's magnetization always tracks whatever field is currently applied, with no memory of what field it saw before.",
+    "et": "Ferromagneti magnetiseeritus järgib alati praegu rakendatud välja, mällu jäämata sellest, millist välja ta varem nägi.",
+    "sourceHash": "284873f531d21e68",
+    "stale": false
+  }
+}
