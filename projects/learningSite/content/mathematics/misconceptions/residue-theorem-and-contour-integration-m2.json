@@ -1,0 +1,10 @@
+{
+  "id": "residue-theorem-and-contour-integration-m2",
+  "conceptId": "residue-theorem-and-contour-integration",
+  "text": {
+    "en": "Includes singularities that lie outside the contour, or on it, in the residue sum, rather than restricting the sum strictly to the poles the closed path actually encloses.",
+    "et": "Lisab jääkide summasse eripunktid, mis jäävad kontuurist väljapoole või selle peale, selle asemel et piirduda summas ainult poolustega, mis suletud tee tegelikult sisaldab.",
+    "sourceHash": "af06a69659dd25f4",
+    "stale": false
+  }
+}

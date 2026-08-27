@@ -1,0 +1,21 @@
+{
+  "id": "residue-theorem-and-contour-integration",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "complex-numbers",
+  "title": {
+    "en": "Residue theorem and contour integration",
+    "et": "Jäägiteoreem ja kontuurintegreerimine",
+    "sourceHash": "3614e541607d04cc",
+    "stale": false
+  },
+  "summary": {
+    "en": "The residue theorem says the integral of a function around a closed contour equals 2πi times the sum of its residues — a single number attached to each isolated singularity enclosed by the path — turning integrals that are hard or impossible by real-variable methods into an algebra problem of finding a handful of residues.",
+    "et": "Jäägiteoreem ütleb, et funktsiooni integraal suletud kontuuri ümber võrdub 2πi korda selle jääkide summa — üksainus arv, mis on seotud iga kontuuri sisse jääva isoleeritud eripunktiga —, muutes integraalid, mis on reaalmuutuja meetoditega raskesti või üldse mitte leitavad, käputäie jääkide leidmise algebraliseks ülesandeks.",
+    "sourceHash": "a39599245ebe934f",
+    "stale": false
+  },
+  "prerequisites": [
+    "functions-of-a-complex-variable"
+  ]
+}

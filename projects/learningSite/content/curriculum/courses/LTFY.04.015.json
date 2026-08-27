@@ -111,7 +111,8 @@
   "conceptIds": [
     "complex-numbers",
     "polar-form-of-complex-numbers",
-    "functions-of-a-complex-variable"
+    "functions-of-a-complex-variable",
+    "residue-theorem-and-contour-integration"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"

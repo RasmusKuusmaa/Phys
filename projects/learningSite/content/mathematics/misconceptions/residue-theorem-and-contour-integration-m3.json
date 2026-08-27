@@ -1,0 +1,10 @@
+{
+  "id": "residue-theorem-and-contour-integration-m3",
+  "conceptId": "residue-theorem-and-contour-integration",
+  "text": {
+    "en": "Forgets the factor of 2πi and treats the contour integral as simply equal to the sum of the residues, rather than 2πi times that sum.",
+    "et": "Unustab teguri 2πi ja käsitleb kontuurintegraali lihtsalt jääkide summana, mitte 2πi korda selle summana.",
+    "sourceHash": "f21d6bbe1e3f96d3",
+    "stale": false
+  }
+}

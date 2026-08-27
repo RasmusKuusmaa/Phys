@@ -1,0 +1,10 @@
+{
+  "id": "residue-theorem-and-contour-integration-m1",
+  "conceptId": "residue-theorem-and-contour-integration",
+  "text": {
+    "en": "Believes every pole enclosed by the contour contributes to the integral in the same way regardless of its order, missing that a pole of order n needs a derivative-based residue formula, not just the simple-pole limit trick.",
+    "et": "Arvab, et iga kontuuri sisse jääv poolus mõjutab integraali ühtviisi, sõltumata tema järjekorrast, jättes tähelepanuta, et n-järku pooluse jaoks on vaja tuletisel põhinevat jäägivalemit, mitte ainult lihtsa pooluse piirväärtusnippi.",
+    "sourceHash": "59a0822867f9db19",
+    "stale": false
+  }
+}

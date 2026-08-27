@@ -1,0 +1,56 @@
+{
+  "id": "residue-theorem-and-contour-integration-item1",
+  "conceptId": "residue-theorem-and-contour-integration",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "f(z) has simple poles at z = i and z = 3i, with residues 2 and 5 respectively. A closed contour encloses only z = i. What is the contour integral ∮f(z)dz?",
+    "et": "Funktsioonil f(z) on lihtsad poolused kohtades z = i ja z = 3i, jääkidega vastavalt 2 ja 5. Suletud kontuur sisaldab ainult punkti z = i. Milline on kontuurintegraal ∮f(z)dz?",
+    "sourceHash": "ba0827713ccba9a8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "4πi — only the enclosed pole's residue counts, multiplied by 2πi",
+        "et": "4πi — loeb vaid kontuuri sisse jääva pooluse jääk, korrutatuna 2πi-ga",
+        "sourceHash": "a572e8747909f239",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "14πi — both poles' residues are summed and multiplied by 2πi, regardless of which one is enclosed",
+        "et": "14πi — mõlema pooluse jäägid liidetakse ja korrutatakse 2πi-ga, sõltumata sellest, kumb on kontuuris",
+        "sourceHash": "deb43d2a707fa7c8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "residue-theorem-and-contour-integration-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "2 — the residue itself, with no factor of 2πi",
+        "et": "2 — jääk ise, teguriga 2πi arvestamata",
+        "sourceHash": "f0b990ece36de769",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "residue-theorem-and-contour-integration-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The answer cannot be found without knowing the exact order of the pole at z = i first",
+        "et": "Vastust ei saa leida, teadmata enne täpselt pooluse z = i järjekorda",
+        "sourceHash": "d1f40605aa64442e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "residue-theorem-and-contour-integration-m1"
+    }
+  ]
+}
