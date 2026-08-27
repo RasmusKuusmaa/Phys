@@ -1,0 +1,21 @@
+{
+  "id": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics",
+  "subject": "physics",
+  "level": "L3",
+  "module": "mechanics",
+  "title": {
+    "en": "Nonholonomic constraints and Lagrange multipliers",
+    "et": "Mitteholonoomsed seosed ja Lagrange'i kordajad",
+    "sourceHash": "b2ed44b21c4c5068",
+    "stale": false
+  },
+  "summary": {
+    "en": "A constraint that can be written as a relation between coordinates alone (holonomic) can simply be used to eliminate a coordinate before forming the Lagrangian, but a constraint on velocities that cannot be integrated into such a relation (nonholonomic, like rolling without slipping in general) cannot — it must instead be kept explicit and enforced with a Lagrange multiplier, which turns out to equal the constraint force itself.",
+    "et": "Seost, mida saab kirjutada üksnes koordinaatide vahelise seosena (holonoomne), saab lihtsalt kasutada koordinaadi eemaldamiseks enne Lagrange'i funktsiooni koostamist, kuid kiiruste kohta käivat seost, mida ei saa sellisesse koordinaatide vahelisse seosesse integreerida (mitteholonoomne, näiteks libisemiseta veeremine üldjuhul), ei saa — see peab jääma otsesõnu sisse ja seda tuleb jõustada Lagrange'i kordajaga, mis osutub võrduma seosjõuga ise.",
+    "sourceHash": "048e529b5f856040",
+    "stale": false
+  },
+  "prerequisites": [
+    "lagrangian-mechanics"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics-m3",
+  "conceptId": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics",
+  "text": {
+    "en": "Believing you can just plug the constraint equation into the Lagrangian before differentiating (eliminate the coordinate first, then apply the Euler–Lagrange equation as usual) the same way you would for a holonomic constraint. For a nonholonomic one this gives the wrong equations of motion — the constraint has to be added with its own multiplier term and enforced afterward, alongside the unconstrained Euler–Lagrange equations, not substituted in beforehand.",
+    "et": "Arvamus, et seosvõrrandi saab lihtsalt Lagrange'i funktsiooni sisse panna enne diferentseerimist (kõigepealt koordinaat eemaldada, siis rakendada Euler-Lagrange'i võrrandit tavapäraselt) samamoodi nagu holonoomse seose korral. Mitteholonoomse seose puhul annab see valed liikumisvõrrandid — seos tuleb lisada oma kordaja liikmega ja jõustada tagantjärele, koos seosevabade Euler-Lagrange'i võrranditega, mitte asendada eelnevalt.",
+    "sourceHash": "dbfc42be59e83ac5",
+    "stale": false
+  }
+}

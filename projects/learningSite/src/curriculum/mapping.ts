@@ -335,6 +335,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "lorentz-force",
     "liouvilles-theorem-and-phase-space",
     "noethers-theorem-and-symmetries",
+    "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics",
   ],
   "LTFY.01.011": [
     "combining-uncertainties",

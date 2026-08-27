@@ -1,0 +1,10 @@
+{
+  "id": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics-m2",
+  "conceptId": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics",
+  "text": {
+    "en": "Treating the Lagrange multiplier as a bookkeeping trick with no physical content, rather than recognising that it equals the actual constraint force (e.g. the normal force, or the friction force enforcing rolling without slipping) up to a known geometric factor — which is exactly why the method lets you solve for constraint forces that plain unconstrained Lagrangian mechanics discards.",
+    "et": "Lagrange'i kordaja käsitlemine üksnes arvestustrikina, millel puudub füüsikaline sisu, selle asemel, et tunnistada, et see võrdub tegeliku seosjõuga (näiteks normaaljõuga või hõõrdejõuga, mis jõustab libisemiseta veeremist) kuni teadaoleva geomeetrilise teguri võrra — see on täpselt see, mis lubab metoodikal lahendada seosjõude, mille tavaline seosevaba Lagrange'i mehaanika kõrvale jätab.",
+    "sourceHash": "264cae81f2665b9c",
+    "stale": false
+  }
+}

@@ -1,0 +1,32 @@
+Most constraints you meet early in Lagrangian mechanics are the easy kind:
+a bead stuck on a wire, a pendulum bob at a fixed distance from its pivot.
+These can be written as a plain relation between coordinates — the bead's
+height is a function of how far along the wire it's travelled — so you can
+just substitute that relation in and end up with one fewer coordinate to
+solve for. This kind of constraint is called holonomic, and it disappears
+cleanly.
+
+A rolling wheel is different. Rolling without slipping says the contact
+point's velocity is zero, which relates the wheel's linear velocity to its
+angular velocity. That's a relation between velocities, and in general it
+cannot be integrated back into a single relation between the position
+coordinates alone — there's no function of position whose derivative gives
+you that condition for every possible path the wheel might take. A
+constraint like this is nonholonomic, and it can't be used to quietly
+eliminate a coordinate.
+
+The fix is to keep the constraint explicit and add it to the problem with an
+extra unknown: a Lagrange multiplier, one per constraint. You end up with
+the ordinary Euler–Lagrange equations plus a multiplier term, plus the
+constraint equation itself, and you solve them all together. The reward for
+this extra bookkeeping is not just correctness — the multiplier you solve
+for turns out to equal the actual constraint force (the friction force
+enforcing the rolling condition, say) up to a geometric factor you can read
+off directly. Ordinary unconstrained Lagrangian mechanics throws constraint
+forces away as irrelevant; this method hands them back.
+
+The traps are procedural. Plugging the constraint in early, the way you
+would for a holonomic one, gives equations of motion that are simply wrong
+for a nonholonomic constraint — the order of operations (differentiate
+first, constrain after, via the multiplier) is not optional here the way it
+is for the holonomic case.

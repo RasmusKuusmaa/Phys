@@ -1,0 +1,56 @@
+{
+  "id": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics-item1",
+  "conceptId": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A wheel rolls without slipping on a plane, so its rolling-without-slipping condition relates its velocity to its angular velocity but cannot be integrated into a single relation between the wheel's position coordinates alone. What is the correct way to handle this constraint in the Lagrangian formulation?",
+    "et": "Ratas veereb tasapinnal libisemata, nii et libisemiseta veeremise tingimus seob selle kiiruse pöördekiirusega, kuid seda ei saa integreerida üheks seoseks üksnes ratta asukohakoordinaatide vahel. Mis on õige viis selle seose käsitlemiseks Lagrange'i formalismis?",
+    "sourceHash": "0f314423eb3a97a7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Add the constraint with an undetermined Lagrange multiplier alongside the Euler–Lagrange equations, and solve the resulting system together",
+        "et": "Lisada seos määramata Lagrange'i kordajaga koos Euler-Lagrange'i võrranditega ja lahendada tekkiv süsteem koos",
+        "sourceHash": "a80e17804588f3e7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Integrate the rolling condition into a relation between coordinates and use it to eliminate one coordinate before differentiating",
+        "et": "Integreerida veeremistingimus koordinaatide vaheliseks seoseks ja kasutada seda ühe koordinaadi eemaldamiseks enne diferentseerimist",
+        "sourceHash": "dec3b8837070281e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Ignore it — since it involves velocities, it isn't really a constraint on the Lagrangian at all",
+        "et": "Jätta see kõrvale — kuna see sisaldab kiirusi, ei ole see Lagrange'i funktsiooni suhtes tegelikult seos üldse",
+        "sourceHash": "2f64cbf1dcc574ab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Add a Lagrange multiplier purely as a mathematical device, with no further physical meaning once the equations are solved",
+        "et": "Lisada Lagrange'i kordaja üksnes matemaatilise abivahendina, millel puudub edasine füüsikaline tähendus, kui võrrandid on lahendatud",
+        "sourceHash": "651935318c00616b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics-m2"
+    }
+  ]
+}

@@ -243,7 +243,8 @@
     "hamiltonian-mechanics",
     "lorentz-force",
     "liouvilles-theorem-and-phase-space",
-    "noethers-theorem-and-symmetries"
+    "noethers-theorem-and-symmetries",
+    "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md",

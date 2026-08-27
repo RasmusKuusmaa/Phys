@@ -1,0 +1,10 @@
+{
+  "id": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics-m1",
+  "conceptId": "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics",
+  "text": {
+    "en": "Believing any constraint involving velocities is automatically nonholonomic. Many velocity constraints are secretly holonomic — they're the time-derivative of a coordinate relation in disguise and can still be integrated back into one, eliminating a coordinate the ordinary way. A constraint only earns the name nonholonomic when no such integration exists.",
+    "et": "Arvamus, et iga kiirusi sisaldav seos on automaatselt mitteholonoomne. Palju kiirusseoseid on varjatult holonoomsed — need on koordinaatide seose tuletis aja järgi peidetud kujul ja saab siiski integreerida tagasi koordinaatide vaheliseks seoseks, eemaldades koordinaadi tavapärasel viisil. Seos väärib nimetust mitteholonoomne ainult siis, kui sellist integreerimist ei eksisteeri.",
+    "sourceHash": "5abadfb3d7379e34",
+    "stale": false
+  }
+}
