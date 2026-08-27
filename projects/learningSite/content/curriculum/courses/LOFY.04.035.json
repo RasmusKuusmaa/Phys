@@ -110,7 +110,8 @@
     "second-order-differential-equations",
     "infinite-series",
     "the-divergence-and-stokes-theorems",
-    "the-schrodinger-equation"
+    "the-schrodinger-equation",
+    "separation-of-variables-and-sturm-liouville-problems"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"

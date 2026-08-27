@@ -1,0 +1,22 @@
+{
+  "id": "separation-of-variables-and-sturm-liouville-problems",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "differential-equations",
+  "title": {
+    "en": "Separation of variables and Sturm-Liouville problems",
+    "et": "Muutujate eraldamise meetod ja Sturm-Liouville'i ülesanded",
+    "sourceHash": "a03496346f26eac7",
+    "stale": false
+  },
+  "summary": {
+    "en": "Separation of variables guesses a solution to a partial differential equation as a product of single-variable functions, which turns the PDE into several ordinary differential equations linked by a shared constant; the resulting boundary-value ODE is a Sturm-Liouville problem, whose eigenvalues give the allowed separation constants and whose eigenfunctions form a complete, orthogonal basis for building the general solution as a series.",
+    "et": "Muutujate eraldamise meetod eeldab osatuletistega diferentsiaalvõrrandi lahendit üksikute muutujate funktsioonide korrutisena, mis muudab osatuletistega võrrandi mitmeks ühise konstandiga seotud harilikuks diferentsiaalvõrrandiks; tekkiv rajaväärtusülesandega harilik diferentsiaalvõrrand on Sturm-Liouville'i ülesanne, mille omaväärtused annavad lubatud eraldamiskonstandid ja mille omafunktsioonid moodustavad täieliku ortogonaalse baasi üldlahendi ritta koostamiseks.",
+    "sourceHash": "b341c18615bccbfb",
+    "stale": false
+  },
+  "prerequisites": [
+    "second-order-differential-equations",
+    "infinite-series"
+  ]
+}

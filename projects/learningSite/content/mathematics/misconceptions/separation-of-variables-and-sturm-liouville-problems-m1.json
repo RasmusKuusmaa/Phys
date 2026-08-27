@@ -1,0 +1,10 @@
+{
+  "id": "separation-of-variables-and-sturm-liouville-problems-m1",
+  "conceptId": "separation-of-variables-and-sturm-liouville-problems",
+  "text": {
+    "en": "Believes that assuming a product-form solution u(x,t) = X(x)T(t) restricts the method to a special class of solutions, missing that summing the resulting separated solutions over all allowed eigenvalues (a series) can represent the general solution to the original PDE with given boundary and initial conditions.",
+    "et": "Arvab, et korrutiskujulise lahendi u(x,t) = X(x)T(t) eeldamine piirab meetodi erilise lahendiklassiga, jättes tähelepanuta, et tekkinud eraldatud lahendite summeerimine kõigi lubatud omaväärtuste üle (rida) võib esindada algse osatuletistega võrrandi üldlahendit antud raja- ja algtingimustega.",
+    "sourceHash": "68ba0551de9abefc",
+    "stale": false
+  }
+}

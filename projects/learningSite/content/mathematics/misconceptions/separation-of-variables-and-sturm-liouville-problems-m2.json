@@ -1,0 +1,10 @@
+{
+  "id": "separation-of-variables-and-sturm-liouville-problems-m2",
+  "conceptId": "separation-of-variables-and-sturm-liouville-problems",
+  "text": {
+    "en": "Thinks the separation constant can be any value that makes the algebra work out, without checking which values actually satisfy the boundary conditions — only a discrete set of eigenvalues survives that check, and picking the wrong sign for the constant (positive instead of negative, or vice versa) usually makes the boundary conditions impossible to satisfy at all.",
+    "et": "Arvab, et eraldamiskonstant võib olla suvaline väärtus, mis paneb algebra sobima, kontrollimata, millised väärtused rajatingimusi tegelikult rahuldavad — sellest kontrollist jääb üle ainult diskreetne omaväärtuste hulk, ja konstandi vale märgi valimine (positiivne negatiivse asemel, või vastupidi) muudab rajatingimuste rahuldamise tavaliselt üldse võimatuks.",
+    "sourceHash": "4629b84a005622c3",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "separation-of-variables-and-sturm-liouville-problems-m3",
+  "conceptId": "separation-of-variables-and-sturm-liouville-problems",
+  "text": {
+    "en": "Believes the eigenfunctions of a Sturm-Liouville problem are orthogonal in the ordinary sense (plain integral of the product), missing that orthogonality is generally with respect to a weight function built into the problem, and dropping that weight silently corrupts the Fourier-coefficient formula used to match initial conditions.",
+    "et": "Arvab, et Sturm-Liouville'i ülesande omafunktsioonid on ortogonaalsed tavalises mõttes (korrutise lihtne integraal), jättes tähelepanuta, et ortogonaalsus kehtib üldiselt ülesandesse sisseehitatud kaalufunktsiooni suhtes, ja selle kaalu ära jätmine rikub vaikimisi Fourier' kordaja valemi, mida kasutatakse algtingimustega sobitamiseks.",
+    "sourceHash": "035745b2ba033af2",
+    "stale": false
+  }
+}

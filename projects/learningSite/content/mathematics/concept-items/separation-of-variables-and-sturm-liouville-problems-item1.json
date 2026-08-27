@@ -1,0 +1,56 @@
+{
+  "id": "separation-of-variables-and-sturm-liouville-problems-item1",
+  "conceptId": "separation-of-variables-and-sturm-liouville-problems",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Separating the 1-D heat equation with u(0,t) = u(L,t) = 0 leads to X″ + λX = 0 with X(0) = X(L) = 0. Why does this only have a solution for specific positive values of λ, rather than for any λ?",
+    "et": "1-D soojusvõrrandi eraldamine tingimustega u(0,t) = u(L,t) = 0 annab X″ + λX = 0 tingimustega X(0) = X(L) = 0. Miks on lahend olemas ainult kindlate positiivsete λ väärtuste jaoks, mitte iga λ jaoks?",
+    "sourceHash": "f23a0b015683d585",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Only certain λ (the eigenvalues) give a general solution of X″ + λX = 0 that can satisfy both X(0) = 0 and X(L) = 0 simultaneously without forcing X to be identically zero",
+        "et": "Ainult teatud λ (omaväärtused) annavad X″ + λX = 0 üldlahendi, mis suudab rahuldada nii X(0) = 0 kui X(L) = 0 samaaegselt, sundimata X-i olema samaselt null",
+        "sourceHash": "d5dca4f009a04cd4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Any λ works algebraically; the restriction to specific values is just a simplifying convention, not a requirement",
+        "et": "Iga λ toimib algebraliselt; piirdumine kindlate väärtustega on ainult lihtsustav kokkulepe, mitte nõue",
+        "sourceHash": "f3c2ff3a19cdded4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "separation-of-variables-and-sturm-liouville-problems-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because a single separated product solution X(x)T(t) can only ever represent one special case, not a general solution to the heat equation",
+        "et": "Kuna üks eraldatud korrutislahend X(x)T(t) saab esindada vaid üht erijuhtu, mitte soojusvõrrandi üldlahendit",
+        "sourceHash": "97480f6d2ea28203",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "separation-of-variables-and-sturm-liouville-problems-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the resulting eigenfunctions would otherwise fail to be orthogonal under a plain, unweighted integral",
+        "et": "Kuna tekkivad omafunktsioonid ei oleks vastasel juhul ortogonaalsed tavalise, kaalumata integraali all",
+        "sourceHash": "8e615048346cabc9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "separation-of-variables-and-sturm-liouville-problems-m3"
+    }
+  ]
+}
