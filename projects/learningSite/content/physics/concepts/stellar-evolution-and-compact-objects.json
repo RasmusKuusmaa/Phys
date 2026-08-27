@@ -1,0 +1,22 @@
+{
+  "id": "stellar-evolution-and-compact-objects",
+  "subject": "physics",
+  "level": "L2",
+  "module": "astrophysics",
+  "title": {
+    "en": "Stellar evolution and compact objects",
+    "et": "Tähtede areng ja kompaktsed objektid",
+    "sourceHash": "df3b40db8076cf5c",
+    "stale": false
+  },
+  "summary": {
+    "en": "A star's life is a running balance between gravity, which continuously pulls it inward, and the outward pressure produced by nuclear fusion in its core; as each fuel is exhausted the core contracts and heats until the next, heavier fuel ignites, driving the star along a path across the Hertzsprung-Russell diagram from the main sequence through giant phases, and when fusion can no longer supply enough pressure to hold the star up, gravity finally wins, leaving behind — depending on the star's initial mass — a white dwarf, a neutron star, or a black hole.",
+    "et": "Tähe eluiga on pidev tasakaal raskusjõu, mis teda pidevalt sissepoole tõmbab, ja tuumasünteesist tähe tuumas tekkiva väljapoole suunatud rõhu vahel; kui iga kütus ammendub, tõmbub tuum kokku ja soojeneb, kuni süttib järgmine, raskem kütus, viies tähe mööda teekonda üle Hertzsprung-Russelli diagrammi peajadast läbi hiidtähefaaside, ning kui tuumasüntees ei suuda enam piisavalt rõhku tekitada, et tähte üleval hoida, võidab lõpuks raskusjõud, jättes maha — sõltuvalt tähe algmassist — valge kääbuse, neutrontähe või musta augu.",
+    "sourceHash": "49cd425e205b9534",
+    "stale": false
+  },
+  "prerequisites": [
+    "stellar-classification-and-the-hertzsprung-russell-diagram",
+    "nuclear-fission-and-fusion"
+  ]
+}

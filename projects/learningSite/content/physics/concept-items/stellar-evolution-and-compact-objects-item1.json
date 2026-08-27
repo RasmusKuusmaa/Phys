@@ -1,0 +1,56 @@
+{
+  "id": "stellar-evolution-and-compact-objects-item1",
+  "conceptId": "stellar-evolution-and-compact-objects",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two stars form at the same time from the same cloud, one ten times more massive than the Sun and one the same mass as the Sun. Which one runs out of core hydrogen and leaves the main sequence first, and why?",
+    "et": "Kaks tähte tekivad samal ajal samast pilvest — üks kümme korda massiivsem kui Päike ja teine Päikesega samamassiivne. Kumb neist ammendab esimesena tuumas oleva vesiniku ja lahkub peajadalt, ning miks?",
+    "sourceHash": "9db01a2dd50439a9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The ten-solar-mass star, because its luminosity — and hence its fuel consumption rate — is disproportionately higher than its extra fuel supply.",
+        "et": "Kümne Päikese-massiga täht, kuna tema heledus — ja seega kütusekulu kiirus — on ebaproportsionaalselt suurem kui tema lisakütuse varu.",
+        "sourceHash": "66cf6fba33e225fd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The Sun-like star, because the massive star's much larger fuel reserve lets it burn for far longer.",
+        "et": "Päikesesarnane täht, kuna massiivse tähe palju suurem kütusevaru võimaldab tal palju kauem põleda.",
+        "sourceHash": "463c71297c86d68e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-evolution-and-compact-objects-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Neither — both stars simply keep fading gradually forever once their core hydrogen is used up, with no distinct further evolution.",
+        "et": "Mitte kumbki — mõlemad tähed lihtsalt kustuvad järk-järgult igavesti pärast tuumas oleva vesiniku ärakasutamist, ilma edasise eristuva arenguta.",
+        "sourceHash": "d11b66d3dfd518e5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-evolution-and-compact-objects-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Neither leaves the main sequence; only stars that will become black holes ever evolve further.",
+        "et": "Kumbki ei lahku peajadalt; edasi arenevad ainult tähed, kellest saavad mustad augud.",
+        "sourceHash": "0ac6b4e0dd041b5d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-evolution-and-compact-objects-m3"
+    }
+  ]
+}
