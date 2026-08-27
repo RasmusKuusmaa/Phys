@@ -200,6 +200,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-pauli-exclusion-principle",
     "atoms-and-the-nucleus",
     "nuclear-shell-model-spin-and-parity",
+    "nuclear-reactions-and-threshold-energy",
   ],
   // LOFY.01.015 Tuumafüüsika eksperimentaalmeetodid — ionizing radiation and decay.
   "LOFY.01.015": [

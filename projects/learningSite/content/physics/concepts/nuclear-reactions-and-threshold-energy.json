@@ -1,0 +1,22 @@
+{
+  "id": "nuclear-reactions-and-threshold-energy",
+  "subject": "physics",
+  "level": "L3",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Nuclear reactions and threshold energy",
+    "et": "Tuumareaktsioonid ja lävienergia",
+    "sourceHash": "7459347bdd3ad698",
+    "stale": false
+  },
+  "summary": {
+    "en": "A nuclear reaction that absorbs energy (a negative Q-value) cannot proceed at just any projectile energy — momentum conservation means some of the projectile's kinetic energy is unavoidably tied up in moving the products forward, so the projectile needs strictly more kinetic energy than |Q| to make the reaction happen at all.",
+    "et": "Energiat neelav tuumareaktsioon (negatiivse Q-väärtusega) ei saa toimuda suvalise langeva osakese energia juures — impulsi jäävus tähendab, et osa langeva osakese kineetilisest energiast kulub paratamatult toodete edasiliikumisele, mistõttu langeval osakesel peab olema rangelt rohkem kineetilist energiat kui |Q|, et reaktsioon üldse toimuks.",
+    "sourceHash": "49864209768c76e0",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-binding-energy",
+    "conservation-laws-in-particle-interactions"
+  ]
+}

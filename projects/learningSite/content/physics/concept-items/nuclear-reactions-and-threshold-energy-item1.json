@@ -1,0 +1,56 @@
+{
+  "id": "nuclear-reactions-and-threshold-energy-item1",
+  "conceptId": "nuclear-reactions-and-threshold-energy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A reaction has Q = −4 MeV. Why can't it proceed the instant the projectile's kinetic energy reaches exactly 4 MeV?",
+    "et": "Reaktsiooni Q = −4 MeV. Miks ei saa reaktsioon toimuda hetkel, kui langeva osakese kineetiline energia jõuab täpselt 4 MeV-ni?",
+    "sourceHash": "30d0aa4d90d5ca60",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Momentum conservation means some of that 4 MeV must go into moving the products forward, so the true threshold is somewhat above 4 MeV",
+        "et": "Impulsi jäävus tähendab, et osa sellest 4 MeV-st peab kuluma toodete edasiliikumisele, mistõttu tegelik lävi on veidi üle 4 MeV",
+        "sourceHash": "31a7fdb72bdf9326",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It actually can — 4 MeV of kinetic energy exactly cancels a 4 MeV energy deficit, with nothing left over to worry about",
+        "et": "Tegelikult saab — 4 MeV kineetiline energia tühistab täpselt 4 MeV energiapuudujäägi, ilma et jääks midagi muretsemiseks üle",
+        "sourceHash": "4bd83e7f7ce31d48",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-reactions-and-threshold-energy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It can't, but only because the correction factor should use the projectile's own mass in the denominator, not the target's",
+        "et": "Ei saa, kuid ainult seetõttu, et korrektsioonikordaja nimetajas peaks olema langeva osakese oma mass, mitte sihtmärgi mass",
+        "sourceHash": "c61641c01d99bccd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-reactions-and-threshold-energy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It can't, but the shortfall is negative, −4 MeV, so the threshold works out to be below zero",
+        "et": "Ei saa, kuid puudujääk on negatiivne, −4 MeV, mistõttu lävi tuleb alla nulli",
+        "sourceHash": "b28d12d0f713c1f8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-reactions-and-threshold-energy-m3"
+    }
+  ]
+}

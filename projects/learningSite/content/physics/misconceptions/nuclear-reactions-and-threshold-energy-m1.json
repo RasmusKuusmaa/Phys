@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-reactions-and-threshold-energy-m1",
+  "conceptId": "nuclear-reactions-and-threshold-energy",
+  "text": {
+    "en": "Believing the threshold kinetic energy simply equals the magnitude of the reaction's energy deficit, |Q| — ignoring that momentum conservation forces some of that kinetic energy into the products' recoil rather than into the reaction itself.",
+    "et": "Uskumine, et lävikineetiline energia on lihtsalt reaktsiooni energiapuudujäägi absoluutväärtus |Q| — unustades, et impulsi jäävus suunab osa sellest kineetilisest energiast toodete tagasilöögile, mitte reaktsioonile ise.",
+    "sourceHash": "47851382559a259c",
+    "stale": false
+  }
+}

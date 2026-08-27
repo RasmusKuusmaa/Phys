@@ -1,0 +1,53 @@
+{
+  "id": "nuclear-reactions-and-threshold-energy-formula",
+  "conceptId": "nuclear-reactions-and-threshold-energy",
+  "latex": "E_{th} = |Q| \\cdot \\frac{m_a + m_X}{m_X}",
+  "symbols": [
+    {
+      "symbol": "Q",
+      "name": {
+        "en": "reaction energy",
+        "et": "reaktsioonienergia",
+        "sourceHash": "5d7c069afbae2dd6",
+        "stale": false
+      },
+      "unit": "MeV"
+    },
+    {
+      "symbol": "m_a",
+      "name": {
+        "en": "projectile mass",
+        "et": "pommitava osakese mass",
+        "sourceHash": "8fd94022900002d1",
+        "stale": false
+      },
+      "unit": "u"
+    },
+    {
+      "symbol": "m_X",
+      "name": {
+        "en": "target mass",
+        "et": "sihtmärgi mass",
+        "sourceHash": "3b0b2ac589adee48",
+        "stale": false
+      },
+      "unit": "u"
+    },
+    {
+      "symbol": "E_th",
+      "name": {
+        "en": "threshold energy",
+        "et": "lävienergia",
+        "sourceHash": "13c67531f89b5018",
+        "stale": false
+      },
+      "unit": "MeV"
+    }
+  ],
+  "solveFor": [
+    "E_th"
+  ],
+  "expressions": {
+    "E_th": "abs(Q)*(m_a+m_X)/m_X"
+  }
+}

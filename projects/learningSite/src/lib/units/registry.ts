@@ -199,6 +199,18 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ mass: 1, length: 2, time: -2 }),
     toBase: 1.602176634e-19,
   },
+  MeV: {
+    symbol: "MeV",
+    name: { en: "megaelectronvolt", et: "megaelektronvolt" },
+    dimension: dim({ mass: 1, length: 2, time: -2 }),
+    toBase: 1.602176634e-13,
+  },
+  u: {
+    symbol: "u",
+    name: { en: "atomic mass unit", et: "aatommassiühik" },
+    dimension: dim({ mass: 1 }),
+    toBase: 1.66053906660e-27,
+  },
   "m^2": {
     symbol: "m^2",
     name: { en: "square metre", et: "ruutmeeter" },

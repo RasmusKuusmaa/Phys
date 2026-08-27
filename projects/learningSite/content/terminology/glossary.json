@@ -1510,5 +1510,33 @@
     "et": "lainearv",
     "domain": "optics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/lainearv/1/est"
+  },
+  {
+    "id": "reaction-energy",
+    "en": "reaction energy",
+    "et": "reaktsioonienergia",
+    "domain": "nuclear-physics",
+    "source": "https://et.wikipedia.org/wiki/Tuumareaktsioon"
+  },
+  {
+    "id": "threshold-energy",
+    "en": "threshold energy",
+    "et": "lävienergia",
+    "domain": "nuclear-physics",
+    "source": "https://et.wikipedia.org/wiki/Tuumareaktsioon"
+  },
+  {
+    "id": "projectile-mass",
+    "en": "projectile mass",
+    "et": "pommitava osakese mass",
+    "domain": "nuclear-physics",
+    "source": "https://et.wikipedia.org/wiki/Tuumareaktsioon"
+  },
+  {
+    "id": "target-mass",
+    "en": "target mass",
+    "et": "sihtmärgi mass",
+    "domain": "nuclear-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/sihtm%C3%A4rk/1/est"
   }
 ]

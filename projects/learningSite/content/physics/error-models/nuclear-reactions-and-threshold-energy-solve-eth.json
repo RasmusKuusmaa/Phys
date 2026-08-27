@@ -1,0 +1,37 @@
+{
+  "id": "nuclear-reactions-and-threshold-energy-solve-eth",
+  "formulaId": "nuclear-reactions-and-threshold-energy-formula",
+  "solveFor": "E_th",
+  "mistakes": [
+    {
+      "id": "forgot-the-mass-correction",
+      "description": {
+        "en": "Set the threshold energy equal to the raw reaction-energy deficit, forgetting that some of the projectile's kinetic energy must also supply the products' centre-of-mass motion.",
+        "et": "Võrdsustas lävienergia otse reaktsioonienergia puudujäägiga, unustades, et osa langeva osakese kineetilisest energiast peab ka andma toodete masskeskme liikumise.",
+        "sourceHash": "28c1531fed3eb346",
+        "stale": false
+      },
+      "expression": "abs(Q)"
+    },
+    {
+      "id": "swapped-projectile-and-target-mass",
+      "description": {
+        "en": "Divided by the projectile's mass instead of the target's, swapping which mass belongs in the denominator.",
+        "et": "Jagas langeva osakese massiga, mitte sihtmärgi massiga, vahetades ära, kumb mass kuulub nimetajasse.",
+        "sourceHash": "651de40309f30ab2",
+        "stale": false
+      },
+      "expression": "abs(Q)*(m_a+m_X)/m_a"
+    },
+    {
+      "id": "forgot-absolute-value",
+      "description": {
+        "en": "Used the reaction energy's negative sign directly instead of its magnitude, producing a negative threshold energy.",
+        "et": "Kasutas reaktsioonienergia negatiivset märki otse, mitte selle absoluutväärtust, mistõttu tulemuseks oli negatiivne lävienergia.",
+        "sourceHash": "1825da275c815176",
+        "stale": false
+      },
+      "expression": "Q*(m_a+m_X)/m_X"
+    }
+  ]
+}
