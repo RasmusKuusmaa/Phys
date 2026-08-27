@@ -215,7 +215,8 @@
     "the-derivative",
     "the-dot-product",
     "the-indefinite-integral",
-    "vectors-in-space"
+    "vectors-in-space",
+    "improper-integrals"
   ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"

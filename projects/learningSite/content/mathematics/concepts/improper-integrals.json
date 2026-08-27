@@ -1,0 +1,21 @@
+{
+  "id": "improper-integrals",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "calculus",
+  "title": {
+    "en": "Improper integrals",
+    "et": "Päratud integraalid",
+    "sourceHash": "d8bedae26a14726c",
+    "stale": false
+  },
+  "summary": {
+    "en": "An improper integral extends the definite integral to an infinite limit of integration or an integrand that is unbounded within the interval; it has a value only when the corresponding limit of ordinary integrals actually converges, not merely because the integrand shrinks.",
+    "et": "Päratu integraal laiendab kindla integraali lõpmatu integreerimispiiriga või intervalli sees tõkestamata alusfunktsiooniga juhtudele; tal on väärtus ainult siis, kui vastav harilike integraalide piirväärtus tegelikult koondub, mitte lihtsalt seetõttu, et alusfunktsioon kahaneb.",
+    "sourceHash": "dedbd56a7f1be63c",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-definite-integral"
+  ]
+}

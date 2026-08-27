@@ -340,6 +340,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-dot-product",
     "the-indefinite-integral",
     "vectors-in-space",
+    "improper-integrals",
   ],
   // Keemia alused — general chemistry, required of all three tracks.
   "LOKT.07.010": [

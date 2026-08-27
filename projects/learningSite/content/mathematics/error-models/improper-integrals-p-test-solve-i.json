@@ -1,0 +1,37 @@
+{
+  "id": "improper-integrals-p-test-solve-i",
+  "formulaId": "improper-integrals-p-test-formula",
+  "solveFor": "I",
+  "mistakes": [
+    {
+      "id": "forgot-the-minus-one",
+      "description": {
+        "en": "Forgot to subtract 1 from the exponent before taking the reciprocal.",
+        "et": "Unustas enne pöördväärtuse võtmist astendajast 1 lahutada.",
+        "sourceHash": "eec41536a6e2ab53",
+        "stale": false
+      },
+      "expression": "1/p"
+    },
+    {
+      "id": "sign-error-on-denominator",
+      "description": {
+        "en": "Swapped the order of subtraction in the denominator, producing a negative result even though p > 1.",
+        "et": "Vahetas nimetajas lahutamise järjekorra, saades negatiivse tulemuse, kuigi p > 1.",
+        "sourceHash": "6be50a8cde03134c",
+        "stale": false
+      },
+      "expression": "1/(1-p)"
+    },
+    {
+      "id": "inverted-the-relationship",
+      "description": {
+        "en": "Wrote down the denominator itself instead of taking its reciprocal.",
+        "et": "Kirjutas üles nimetaja ise, selle pöördväärtuse võtmise asemel.",
+        "sourceHash": "19d2b10e0e6bbae0",
+        "stale": false
+      },
+      "expression": "p-1"
+    }
+  ]
+}

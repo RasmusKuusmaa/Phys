@@ -1,0 +1,56 @@
+{
+  "id": "improper-integrals-item1",
+  "conceptId": "improper-integrals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "For which values of p does the improper integral ∫₁^∞ x⁻ᵖ dx converge?",
+    "et": "Millise p väärtuse korral päratu integraal ∫₁^∞ x⁻ᵖ dx koondub?",
+    "sourceHash": "fa022215d512dd68",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "p > 1",
+        "et": "p > 1",
+        "sourceHash": "c90cf248e95883c8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No such p exists — any integral with an infinite upper limit is infinite",
+        "et": "Sellist p-d ei leidu — igasugune lõpmatu ülemise piiriga integraal on lõpmatu",
+        "sourceHash": "903d02ce298eeb00",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "improper-integrals-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Any p > 0, since x⁻ᵖ → 0 as x → ∞ so the area added at each step shrinks to nothing",
+        "et": "Iga p > 0, kuna x⁻ᵖ → 0, kui x → ∞, seega igal sammul lisanduv pindala kahaneb nullini",
+        "sourceHash": "b2e076ec3deaf7ca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "improper-integrals-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "p ≥ 0, since the integrand must stay bounded on [1, ∞) for the area to be finite",
+        "et": "p ≥ 0, kuna alusfunktsioon peab jääma lõigul [1, ∞) tõkestatuks, et pindala oleks lõplik",
+        "sourceHash": "f87aa9b34542c20f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "improper-integrals-m3"
+    }
+  ]
+}

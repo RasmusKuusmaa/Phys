@@ -1,0 +1,35 @@
+{
+  "id": "improper-integrals-p-test-formula",
+  "conceptId": "improper-integrals",
+  "latex": "\\int_1^{\\infty} x^{-p}\\,dx = \\frac{1}{p-1} \\quad (p>1)",
+  "symbols": [
+    {
+      "symbol": "p",
+      "name": {
+        "en": "exponent",
+        "et": "astendaja",
+        "sourceHash": "27189634949e0591",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "I",
+      "name": {
+        "en": "improper integral",
+        "et": "päratu integraal",
+        "sourceHash": "a055251b51dba7f3",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "I",
+    "p"
+  ],
+  "expressions": {
+    "I": "1/(p-1)",
+    "p": "1/I+1"
+  }
+}

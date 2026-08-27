@@ -1,0 +1,10 @@
+{
+  "id": "improper-integrals-m1",
+  "conceptId": "improper-integrals",
+  "text": {
+    "en": "Believes an integral with an infinite limit is automatically infinite, without checking whether the limit of the partial integrals actually converges.",
+    "et": "Arvab, et lõpmatu piiriga integraal on automaatselt lõpmatu, kontrollimata, kas osaintegraalide piirväärtus tegelikult koondub.",
+    "sourceHash": "b3c7e96a6c27be6a",
+    "stale": false
+  }
+}

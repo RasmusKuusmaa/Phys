@@ -1,0 +1,10 @@
+{
+  "id": "improper-integrals-m3",
+  "conceptId": "improper-integrals",
+  "text": {
+    "en": "Treats an integral with an unbounded integrand near an endpoint (e.g. 1/√x near x = 0) exactly like an ordinary definite integral, without taking a limit as that endpoint is approached.",
+    "et": "Käsitleb tõkestamata alusfunktsiooniga integraali (nt 1/√x nulli lähedal) täpselt nagu tavalist kindlat integraali, ilma piirväärtust võtmata, kui lähenetakse sellele eripunktile.",
+    "sourceHash": "51db76c6cc09e54a",
+    "stale": false
+  }
+}

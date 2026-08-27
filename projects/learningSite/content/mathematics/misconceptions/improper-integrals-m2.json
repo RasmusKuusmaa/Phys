@@ -1,0 +1,10 @@
+{
+  "id": "improper-integrals-m2",
+  "conceptId": "improper-integrals",
+  "text": {
+    "en": "Believes that if the integrand tends to zero as x approaches infinity, the integral must converge — the mistake behind thinking ∫₁^∞ 1/x dx converges just because 1/x → 0.",
+    "et": "Arvab, et kui alusfunktsioon kaldub x lõpmatusse minnes nulli, peab integraal koonduma — samastades sellega vääralt integraali ∫₁^∞ 1/x dx koonduvaks, kuna 1/x → 0.",
+    "sourceHash": "9552c9af7f509af4",
+    "stale": false
+  }
+}

@@ -1,0 +1,5 @@
+An improper integral shows up whenever a definite integral's interval or integrand refuses to sit still: an infinite limit of integration, or an integrand that blows up somewhere inside the interval. Neither case can be handed straight to the fundamental theorem of calculus, because there is no ordinary area to compute over an infinite strip or through a vertical asymptote.
+
+The fix is to fence off the trouble spot with a variable, integrate normally up to that fence, and then take a limit as the fence moves toward infinity or toward the singular point. If that limit exists and is finite, the improper integral **converges** to it; if the limit is infinite or does not exist, the integral **diverges** — and a divergent integral has no value at all, not a very large one.
+
+The classic test case is ∫₁^∞ x⁻ᵖ dx: it converges exactly when p > 1, and diverges — including at the boundary p = 1 — otherwise. This single family is worth memorising, because comparing an unfamiliar integrand against x⁻ᵖ is usually the fastest way to decide convergence without computing anything.
