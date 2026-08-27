@@ -129,6 +129,9 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "resistivity-and-conductivity",
     "the-poynting-vector",
     "voltage-and-resistance",
+    "band-theory-of-solids",
+    "semiconductors-and-doping",
+    "superconductivity",
   ],
   "LOFY.01.008": [
     "diffraction-gratings",
