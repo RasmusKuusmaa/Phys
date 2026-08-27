@@ -1,0 +1,56 @@
+{
+  "id": "piezoelectric-and-ferroelectric-materials-item1",
+  "conceptId": "piezoelectric-and-ferroelectric-materials",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A crystal produces a measurable voltage when squeezed, and separately retains an electric polarization even after every external field is switched off. What's actually true about these two behaviours?",
+    "et": "Kristall tekitab pigistamisel mõõdetava pinge ja säilitab eraldi elektrilise polarisatsiooni ka pärast kõikide väliste väljade väljalülitamist. Mis on nende kahe käitumise kohta tegelikult tõsi?",
+    "sourceHash": "32894032fe8be48b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The voltage from squeezing (piezoelectricity) requires an asymmetric crystal structure and works both ways — stress produces voltage and applied voltage produces deformation; the retained polarization (ferroelectricity) persists with no field at all, unlike an ordinary dielectric.",
+        "et": "Pigistamisest tulenev pinge (piesoelektrilisus) eeldab asümmeetrilist kristallstruktuuri ja toimib mõlemas suunas — pinge tekitab voolu ja rakendatud pinge tekitab deformatsiooni; säilinud polarisatsioon (ferroelektrilisus) püsib ka täielikult ilma väljata, erinevalt tavalisest dielektrikust.",
+        "sourceHash": "48daa58607cdb7b4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Any material would produce a similar voltage if squeezed hard enough.",
+        "et": "Igasugune materjal tekitaks piisavalt tugeva pigistamise korral sarnase pinge.",
+        "sourceHash": "2aaaa0e6be564e10",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "piezoelectric-and-ferroelectric-materials-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The effect only runs one way: mechanical stress into voltage.",
+        "et": "Efekt toimib ainult ühes suunas: mehaaniline pinge muutub pingeks.",
+        "sourceHash": "f182428048e48a1d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "piezoelectric-and-ferroelectric-materials-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The retained polarization needs a field to still be present, just like an ordinary dielectric.",
+        "et": "Säilinud polarisatsioon vajab olemasoluks välja, samamoodi nagu tavaline dielektrik.",
+        "sourceHash": "9da52adae457b8e6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "piezoelectric-and-ferroelectric-materials-m3"
+    }
+  ]
+}

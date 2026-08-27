@@ -138,6 +138,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "charged-particle-motion-mass-spectrometry-and-cyclotrons",
     "magnetic-materials-and-ferromagnetic-hysteresis",
     "electric-motors-generators-and-thermoelectric-effects",
+    "piezoelectric-and-ferroelectric-materials",
   ],
   "LOFY.01.008": [
     "diffraction-gratings",

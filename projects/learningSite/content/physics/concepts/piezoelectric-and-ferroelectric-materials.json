@@ -1,0 +1,21 @@
+{
+  "id": "piezoelectric-and-ferroelectric-materials",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Piezoelectric and ferroelectric materials",
+    "et": "Piesoelektrilised ja ferroelektrilised materjalid",
+    "sourceHash": "b6bb0d8dac54178e",
+    "stale": false
+  },
+  "summary": {
+    "en": "Piezoelectric materials generate a voltage when mechanically stressed, and deform slightly when a voltage is applied, because squeezing their asymmetric crystal structure shifts internal charge centres apart; ferroelectric materials go further still, holding a spontaneous electric polarization even with no field applied at all — the electrical counterpart of ferromagnetism, complete with domains, a hysteresis loop and a Curie temperature above which the effect vanishes.",
+    "et": "Piesoelektrilised materjalid tekitavad mehaanilise pinge korral pinget ja deformeeruvad kergelt, kui rakendatakse pinget, sest nende asümmeetrilise kristallstruktuuri pigistamine lükkab sisemised laengukeskmed lahku; ferroelektrilised materjalid lähevad veel kaugemale, säilitades spontaanse elektrilise polarisatsiooni ka täielikult puuduva välja korral — ferromagnetismi elektriline vaste, mille juurde kuuluvad domeenid, hüsereesitsükkel ja Curie temperatuur, millest kõrgemal efekt kaob.",
+    "sourceHash": "9e80d2d731023e11",
+    "stale": false
+  },
+  "prerequisites": [
+    "dielectrics-and-capacitor-energy"
+  ]
+}

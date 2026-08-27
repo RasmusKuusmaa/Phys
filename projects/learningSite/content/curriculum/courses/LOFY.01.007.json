@@ -125,7 +125,8 @@
     "transformers-and-ac-power-distribution",
     "charged-particle-motion-mass-spectrometry-and-cyclotrons",
     "magnetic-materials-and-ferromagnetic-hysteresis",
-    "electric-motors-generators-and-thermoelectric-effects"
+    "electric-motors-generators-and-thermoelectric-effects",
+    "piezoelectric-and-ferroelectric-materials"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",
