@@ -1,0 +1,22 @@
+{
+  "id": "atmospheric-and-ocean-physics",
+  "subject": "physics",
+  "level": "L2",
+  "module": "planetary-physics",
+  "title": {
+    "en": "Atmospheric and ocean physics",
+    "et": "Atmosfääri ja ookeani füüsika",
+    "sourceHash": "60a78331469a4d5d",
+    "stale": false
+  },
+  "summary": {
+    "en": "Earth's atmosphere and its oceans are both fluids held in hydrostatic balance by gravity, so pressure and density fall off roughly exponentially with altitude in the air and rise with depth in the water; because air obeys the ideal gas law, a rising parcel expands and does work against the lower pressure around it, cooling adiabatically even with no heat exchanged — which is why the troposphere gets colder with altitude — while in the ocean, temperature and salinity together set the water's density and organise it into stable layers rather than a single well-mixed temperature.",
+    "et": "Maa atmosfäär ja ookeanid on mõlemad vedelikud, mida raskusjõud hoiab hüdrostaatilises tasakaalus, mistõttu rõhk ja tihedus kahanevad õhus kõrgusega ligikaudu eksponentsiaalselt ning kasvavad vees sügavusega; kuna õhk allub ideaalse gaasi seadusele, paisub tõusev õhupakett ja teeb tööd ümbritseva madalama rõhu vastu, jahtudes adiabaatiliselt isegi ilma soojusvahetuseta — sellepärast läheb troposfäär kõrgusega külmemaks —, samas kui ookeanis määravad temperatuur ja soolsus koos vee tiheduse ning korrastavad selle stabiilseteks kihtideks, mitte üheks ühtlaselt segunenud temperatuuriks.",
+    "sourceHash": "0cad8a9ae9194496",
+    "stale": false
+  },
+  "prerequisites": [
+    "ideal-gas-law",
+    "thermodynamic-processes"
+  ]
+}

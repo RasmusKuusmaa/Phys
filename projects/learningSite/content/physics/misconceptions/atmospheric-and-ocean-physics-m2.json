@@ -1,0 +1,10 @@
+{
+  "id": "atmospheric-and-ocean-physics-m2",
+  "conceptId": "atmospheric-and-ocean-physics",
+  "text": {
+    "en": "A rising air parcel cools because it is moving away from a heat source (the warm ground), rather than because it is expanding into lower-pressure surroundings and doing work on them, which lowers its internal energy and temperature even with no heat exchanged.",
+    "et": "Tõusev õhupakett jahtub, kuna see liigub soojusallikast (soojalt maapinnalt) eemale, selle asemel et mõista, et see paisub madalama rõhuga ümbrusesse ja teeb selle vastu tööd, mis vähendab paketi siseenergiat ja temperatuuri isegi ilma soojusvahetuseta.",
+    "sourceHash": "3fce7ce89d291c1e",
+    "stale": false
+  }
+}

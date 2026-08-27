@@ -1,0 +1,55 @@
+{
+  "id": "atmospheric-and-ocean-physics-item1",
+  "conceptId": "atmospheric-and-ocean-physics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A parcel of air rises through the atmosphere without exchanging any heat with its surroundings. What happens to its temperature, and why?",
+    "et": "Õhupakett tõuseb atmosfääris ilma ümbrusega soojust vahetamata. Mis juhtub tema temperatuuriga ja miks?",
+    "sourceHash": "f158ce703a954873",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It cools, because it expands into lower-pressure surroundings and does work on them, lowering its internal energy — an adiabatic process.",
+        "et": "See jahtub, kuna paisub madalama rõhuga ümbrusesse ja teeb selle vastu tööd, mis vähendab siseenergiat — adiabaatiline protsess.",
+        "sourceHash": "b8d08922e57760e4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It cools simply because higher altitude is inherently colder, independent of any expansion or pressure change.",
+        "et": "See jahtub lihtsalt sellepärast, et suurem kõrgus on iseenesest külmem, sõltumata paisumisest või rõhumuutusest.",
+        "sourceHash": "c55b93a9c5d05735",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "atmospheric-and-ocean-physics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It cools because it is moving farther away from the warm ground, which is the direct source of its heat.",
+        "et": "See jahtub, kuna liigub soojalt maapinnalt, mis on tema soojuse otsene allikas, üha kaugemale.",
+        "sourceHash": "09d0acc8fb051348",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "atmospheric-and-ocean-physics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Its temperature stays exactly constant, since no heat is exchanged with the surroundings.",
+        "et": "Selle temperatuur jääb täpselt muutumatuks, kuna ümbrusega ei toimu soojusvahetust.",
+        "sourceHash": "763ed4c88f9f2f86",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}
