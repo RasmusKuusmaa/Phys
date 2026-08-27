@@ -1,0 +1,10 @@
+{
+  "id": "thevenin-and-norton-equivalent-circuits-m3",
+  "conceptId": "thevenin-and-norton-equivalent-circuits",
+  "text": {
+    "en": "The Thévenin voltage equals the EMF of the source buried inside the circuit, rather than the actual open-circuit voltage measured at the terminals after any internal voltage drops.",
+    "et": "Thévenini pinge on võrdne ahela sees peituva allika elektromotoorjõuga, mitte klemmidel mõõdetava tegeliku tühijooksupingega pärast sisemisi pingelangusid.",
+    "sourceHash": "49ea5c486cccd963",
+    "stale": false
+  }
+}

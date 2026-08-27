@@ -1,0 +1,10 @@
+{
+  "id": "thevenin-and-norton-equivalent-circuits-m1",
+  "conceptId": "thevenin-and-norton-equivalent-circuits",
+  "text": {
+    "en": "The Thévenin resistance is just the sum of every resistor value in the circuit, regardless of how they're connected relative to the terminals.",
+    "et": "Thévenini takistus on lihtsalt kõigi ahela takistite väärtuste summa, sõltumata sellest, kuidas need klemmide suhtes ühendatud on.",
+    "sourceHash": "d971027df2dae487",
+    "stale": false
+  }
+}

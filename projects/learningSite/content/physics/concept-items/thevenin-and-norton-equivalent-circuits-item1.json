@@ -1,0 +1,56 @@
+{
+  "id": "thevenin-and-norton-equivalent-circuits-item1",
+  "conceptId": "thevenin-and-norton-equivalent-circuits",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "To find a linear circuit's Thévenin equivalent resistance purely from measurements at its two terminals, what do you actually need?",
+    "et": "Kuidas leida lineaarse ahela Thévenini ekvivalenttakistus ainult klemmidel tehtud mõõtmiste põhjal?",
+    "sourceHash": "aa0fab28eb7a066b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The open-circuit voltage and the short-circuit current, then divide one by the other.",
+        "et": "Tühijooksupinge ja lühisvool, mis siis omavahel jagada.",
+        "sourceHash": "af1b1115a43c7bf1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The sum of every resistor's value in the circuit.",
+        "et": "Kõigi ahela takistite väärtuste summa.",
+        "sourceHash": "95f9f221830cd2ed",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thevenin-and-norton-equivalent-circuits-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The current through whichever load resistor happens to be connected.",
+        "et": "Vool läbi suvalise ühendatud koormustakisti.",
+        "sourceHash": "5ce3e1f19f8bd09d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thevenin-and-norton-equivalent-circuits-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The EMF of the internal source, since that alone fixes the equivalent resistance.",
+        "et": "Sisemise allika elektromotoorjõud, sest see üksi määrab ekvivalenttakistuse.",
+        "sourceHash": "01d2cae08b3232ca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thevenin-and-norton-equivalent-circuits-m3"
+    }
+  ]
+}

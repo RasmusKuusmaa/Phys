@@ -1,0 +1,10 @@
+{
+  "id": "thevenin-and-norton-equivalent-circuits-m2",
+  "conceptId": "thevenin-and-norton-equivalent-circuits",
+  "text": {
+    "en": "The short-circuit current is whatever current flows through any load resistor you happen to connect, not specifically the current when the terminals are joined by a plain wire.",
+    "et": "Lühisvool on see vool, mis läbib suvalist koormustakistit, mille sa ühendad, mitte konkreetselt vool, mis tekib, kui klemmid on ühendatud lihtsa traadiga.",
+    "sourceHash": "41bc77652cb7d8af",
+    "stale": false
+  }
+}

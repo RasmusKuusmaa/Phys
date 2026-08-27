@@ -1,0 +1,25 @@
+{
+  "id": "thevenin-and-norton-equivalent-circuits-solve-rth",
+  "formulaId": "thevenin-and-norton-equivalent-circuits-resistance",
+  "variables": [
+    {
+      "symbol": "V_oc",
+      "min": 1,
+      "max": 24,
+      "unit": "V",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "I_sc",
+      "min": 0.1,
+      "max": 5,
+      "unit": "A",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "V_oc", "right": 0 },
+    { "op": "gt", "left": "I_sc", "right": 0 }
+  ],
+  "solveFor": "R_th"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "thevenin-and-norton-equivalent-circuits",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Thévenin and Norton equivalent circuits",
+    "et": "Thévenini ja Nortoni ekvivalentskeemid",
+    "sourceHash": "eac7651afce7da72",
+    "stale": false
+  },
+  "summary": {
+    "en": "Any network of resistors and sources, however complicated, looks from its two output terminals exactly like one ideal voltage source in series with one resistor (its Thévenin equivalent) or one ideal current source in parallel with one resistor (its Norton equivalent) — letting the whole network be replaced by two numbers for any further analysis.",
+    "et": "Iga takistite ja allikate võrk, kui keeruline see ka pole, näeb oma kahest väljundklemmist paistes täpselt välja nagu üks ideaalne pingeallikas järjestikku ühe takistiga (Thévenini ekvivalent) või üks ideaalne vooluallikas paralleelselt ühe takistiga (Nortoni ekvivalent) — nii saab kogu võrgu edasises analüüsis asendada kahe arvuga.",
+    "sourceHash": "e1927782c6509e15",
+    "stale": false
+  },
+  "prerequisites": [
+    "kirchhoffs-laws-and-circuit-analysis"
+  ]
+}

@@ -120,7 +120,8 @@
     "band-theory-of-solids",
     "semiconductors-and-doping",
     "superconductivity",
-    "the-hall-effect"
+    "the-hall-effect",
+    "thevenin-and-norton-equivalent-circuits"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

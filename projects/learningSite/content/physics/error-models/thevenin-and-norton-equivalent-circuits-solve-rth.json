@@ -1,0 +1,27 @@
+{
+  "id": "thevenin-and-norton-equivalent-circuits-solve-rth",
+  "formulaId": "thevenin-and-norton-equivalent-circuits-resistance",
+  "solveFor": "R_th",
+  "mistakes": [
+    {
+      "id": "inverted-the-ratio",
+      "description": {
+        "en": "Divided the short-circuit current by the open-circuit voltage instead of the other way round.",
+        "et": "Jagas lühisvoolu tühijooksupingega, selle asemel et jagada vastupidi.",
+        "sourceHash": "903413da473dd57b",
+        "stale": false
+      },
+      "expression": "I_sc/V_oc"
+    },
+    {
+      "id": "multiplied-instead-of-divided",
+      "description": {
+        "en": "Multiplied the open-circuit voltage by the short-circuit current instead of dividing.",
+        "et": "Korrutas tühijooksupinge lühisvooluga selle asemel, et jagada.",
+        "sourceHash": "92c7fdc51f2d956e",
+        "stale": false
+      },
+      "expression": "V_oc*I_sc"
+    }
+  ]
+}

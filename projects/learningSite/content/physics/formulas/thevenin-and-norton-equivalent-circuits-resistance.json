@@ -1,0 +1,43 @@
+{
+  "id": "thevenin-and-norton-equivalent-circuits-resistance",
+  "conceptId": "thevenin-and-norton-equivalent-circuits",
+  "latex": "R_{th} = \\frac{V_{oc}}{I_{sc}}",
+  "symbols": [
+    {
+      "symbol": "V_oc",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    },
+    {
+      "symbol": "I_sc",
+      "name": {
+        "en": "electric current",
+        "et": "elektrivool",
+        "sourceHash": "e1a0b925fa3b95ce",
+        "stale": false
+      },
+      "unit": "A"
+    },
+    {
+      "symbol": "R_th",
+      "name": {
+        "en": "resistance",
+        "et": "takistus",
+        "sourceHash": "be970d090a9b0a23",
+        "stale": false
+      },
+      "unit": "ohm"
+    }
+  ],
+  "solveFor": [
+    "R_th"
+  ],
+  "expressions": {
+    "R_th": "V_oc/I_sc"
+  }
+}
