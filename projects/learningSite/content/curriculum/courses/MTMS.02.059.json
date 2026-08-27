@@ -30,7 +30,8 @@
   "conceptIds": [
     "probability",
     "random-variables-and-distributions",
-    "common-probability-distributions"
+    "common-probability-distributions",
+    "point-and-interval-estimation"
   ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"

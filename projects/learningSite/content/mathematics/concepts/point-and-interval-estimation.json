@@ -1,0 +1,21 @@
+{
+  "id": "point-and-interval-estimation",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "probability-and-statistics",
+  "title": {
+    "en": "Point and interval estimation",
+    "et": "Punkt- ja vahemikhinnangud",
+    "sourceHash": "e4474326636a5ef3",
+    "stale": false
+  },
+  "summary": {
+    "en": "A point estimate is a single number computed from a sample to stand in for an unknown population parameter, but it is almost never exactly right; an interval estimate reports a range around it — built from the sample's own variability — that would contain the true parameter in a stated proportion of repeated samples, which is the honest way to communicate how much a point estimate can be trusted.",
+    "et": "Punkthinnang on üksainus arv, mis arvutatakse valimist tundmatu populatsiooniparameetri esindamiseks, kuid see on peaaegu mitte kunagi täpselt õige; vahemikhinnang esitab selle ümber vahemiku — mis on üles ehitatud valimi omast varieeruvusest —, mis sisaldaks tõelist parameetrit teatud osas korduvatest valimitest, ning see on aus viis öelda, kui palju punkthinnangut usaldada.",
+    "sourceHash": "664889cd6e9ac00b",
+    "stale": false
+  },
+  "prerequisites": [
+    "common-probability-distributions"
+  ]
+}

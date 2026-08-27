@@ -392,6 +392,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "probability",
     "random-variables-and-distributions",
     "common-probability-distributions",
+    "point-and-interval-estimation",
   ],
   // Programmeerimise alused — algorithms, expressions, conditionals, loops.
   // Writing and running real programs needs a real machine; see todo.md Phase 30.

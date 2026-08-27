@@ -1,0 +1,55 @@
+{
+  "id": "point-and-interval-estimation-margin-of-error-formula",
+  "conceptId": "point-and-interval-estimation",
+  "latex": "E = z \\cdot \\frac{s}{\\sqrt{n}}",
+  "symbols": [
+    {
+      "symbol": "z",
+      "name": {
+        "en": "quantile",
+        "et": "kvantiil",
+        "sourceHash": "de00222d4f99c0e2",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "s",
+      "name": {
+        "en": "standard deviation",
+        "et": "standardhälve",
+        "sourceHash": "366b910bc6d0ee3b",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "n",
+      "name": {
+        "en": "sample size",
+        "et": "valimi suurus",
+        "sourceHash": "c3fa44a62fc27e93",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "E",
+      "name": {
+        "en": "confidence interval half-width",
+        "et": "usaldusvahemiku poolpikkus",
+        "sourceHash": "aee0d844422c17b7",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "E",
+    "n"
+  ],
+  "expressions": {
+    "E": "z*s/sqrt(n)",
+    "n": "pow(z*s/E,2)"
+  }
+}

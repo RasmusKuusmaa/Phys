@@ -1,0 +1,45 @@
+{
+  "id": "point-and-interval-estimation-solve-e",
+  "formulaId": "point-and-interval-estimation-margin-of-error-formula",
+  "variables": [
+    {
+      "symbol": "z",
+      "min": 1.28,
+      "max": 2.58,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "s",
+      "min": 1,
+      "max": 50,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "n",
+      "min": 10,
+      "max": 400,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "z",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "s",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "n",
+      "right": 0
+    }
+  ],
+  "solveFor": "E"
+}

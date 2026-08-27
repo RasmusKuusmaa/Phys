@@ -1,0 +1,37 @@
+{
+  "id": "point-and-interval-estimation-solve-e",
+  "formulaId": "point-and-interval-estimation-margin-of-error-formula",
+  "solveFor": "E",
+  "mistakes": [
+    {
+      "id": "forgot-square-root",
+      "description": {
+        "en": "Divided by n instead of by √n, forgetting the square root.",
+        "et": "Jagas n-iga, mitte √n-iga, unustades ruutjuure.",
+        "sourceHash": "daca66b8d54e580d",
+        "stale": false
+      },
+      "expression": "z*s/n"
+    },
+    {
+      "id": "forgot-the-quantile",
+      "description": {
+        "en": "Left out the quantile z entirely, reporting the standard error itself as the half-width.",
+        "et": "Jättis kvantiili z täielikult välja, esitades poollaiusena standardvea ise.",
+        "sourceHash": "a554f1a934fd9525",
+        "stale": false
+      },
+      "expression": "s/sqrt(n)"
+    },
+    {
+      "id": "took-square-root-of-whole-expression",
+      "description": {
+        "en": "Took the square root of the entire expression z·s/n instead of only of n.",
+        "et": "Võtis ruutjuure kogu avaldisest z·s/n, mitte üksnes n-ist.",
+        "sourceHash": "00aa4fd86af99e8b",
+        "stale": false
+      },
+      "expression": "sqrt(z*s/n)"
+    }
+  ]
+}

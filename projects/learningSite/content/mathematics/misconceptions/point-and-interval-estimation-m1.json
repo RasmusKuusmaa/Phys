@@ -1,0 +1,10 @@
+{
+  "id": "point-and-interval-estimation-m1",
+  "conceptId": "point-and-interval-estimation",
+  "text": {
+    "en": "Believes a 95% confidence interval means there is a 95% probability that the true population parameter lies inside this particular computed interval, rather than that 95% of intervals built this way from repeated samples would contain it.",
+    "et": "Arvab, et 95% usaldusvahemik tähendab, et tõelisel populatsiooniparameetril on 95% tõenäosus jääda just sellesse konkreetsesse arvutatud vahemikku, mitte et 95% samal viisil korduvatest valimitest ehitatud vahemikest sisaldaks seda.",
+    "sourceHash": "d6193469610b9674",
+    "stale": false
+  }
+}

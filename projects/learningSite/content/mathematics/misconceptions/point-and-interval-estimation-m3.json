@@ -1,0 +1,10 @@
+{
+  "id": "point-and-interval-estimation-m3",
+  "conceptId": "point-and-interval-estimation",
+  "text": {
+    "en": "Believes doubling the sample size halves the width of the confidence interval, missing that the half-width scales with 1/√n, so the sample size must be quadrupled to halve it.",
+    "et": "Arvab, et valimi suuruse kahekordistamine poolitab usaldusvahemiku laiuse, jättes tähelepanuta, et poollaius skaleerub kui 1/√n, mistõttu laiuse poolitamiseks tuleb valimi suurus neljakordistada.",
+    "sourceHash": "de3eb404c8c87f1e",
+    "stale": false
+  }
+}

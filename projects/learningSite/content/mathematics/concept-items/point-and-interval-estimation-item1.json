@@ -1,0 +1,56 @@
+{
+  "id": "point-and-interval-estimation-item1",
+  "conceptId": "point-and-interval-estimation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A 95% confidence interval for a population mean is reported as [48.2, 51.8]. What does this actually mean?",
+    "et": "Populatsiooni keskväärtuse 95% usaldusvahemikuks on teatatud [48,2; 51,8]. Mida see tegelikult tähendab?",
+    "sourceHash": "2dfcc482f164da63",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "If this sampling procedure were repeated many times, about 95% of the resulting intervals would contain the true population mean",
+        "et": "Kui seda valimimenetlust korrataks palju kordi, sisaldaks tekkivatest vahemikest umbes 95% tõelist populatsiooni keskväärtust",
+        "sourceHash": "b4e85706aaf87b44",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There is a 95% probability that the true population mean lies between 48.2 and 51.8",
+        "et": "On 95% tõenäosus, et tõeline populatsiooni keskväärtus jääb 48,2 ja 51,8 vahele",
+        "sourceHash": "1b116962d4010ffa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "point-and-interval-estimation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The interval is unnecessarily wide, so it must have been computed incorrectly",
+        "et": "Vahemik on tarbetult lai, seega on see kindlasti valesti arvutatud",
+        "sourceHash": "ba99fe4498a16c3c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "point-and-interval-estimation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Doubling the sample size would exactly halve the interval's width",
+        "et": "Valimi suuruse kahekordistamine poolitaks vahemiku laiuse täpselt",
+        "sourceHash": "972d0891e971bac4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "point-and-interval-estimation-m3"
+    }
+  ]
+}

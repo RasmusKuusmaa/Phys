@@ -1,0 +1,10 @@
+{
+  "id": "point-and-interval-estimation-m2",
+  "conceptId": "point-and-interval-estimation",
+  "text": {
+    "en": "Believes a wider confidence interval is always worse than a narrower one, without recognising the trade-off against confidence level — a narrower interval at the same sample size only comes from accepting a lower confidence level.",
+    "et": "Arvab, et laiem usaldusvahemik on alati halvem kui kitsam, mõistmata kompromissi usaldusnivooga — kitsam vahemik samal valimi suurusel tuleneb ainult madalama usaldusnivoo omaks võtmisest.",
+    "sourceHash": "99810720d47bbce5",
+    "stale": false
+  }
+}
