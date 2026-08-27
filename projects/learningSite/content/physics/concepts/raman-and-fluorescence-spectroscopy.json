@@ -1,0 +1,22 @@
+{
+  "id": "raman-and-fluorescence-spectroscopy",
+  "subject": "physics",
+  "level": "L2",
+  "module": "optics",
+  "title": {
+    "en": "Raman and fluorescence spectroscopy",
+    "et": "Raman- ja fluorestsentsspektroskoopia",
+    "sourceHash": "ed53e690fda76c4f",
+    "stale": false
+  },
+  "summary": {
+    "en": "In Raman scattering, most incident photons scatter elastically (Rayleigh scattering), but a small fraction exchange a little energy with the material's vibrations, coming out shifted to a different wavelength — the size of that shift reveals which vibrational modes are present, making it a fingerprint of molecular structure. Fluorescence is a different process entirely: a photon is fully absorbed, promoting an electron to a higher energy level, which then relaxes non-radiatively partway before emitting a new, lower-energy (longer-wavelength) photon — the Stokes shift.",
+    "et": "Raman-hajumisel hajub enamik langevaid footoneid elastselt (Rayleighi hajumine), aga väike osa vahetab materjali võnkumistega väikese koguse energiat, väljudes nihkunud lainepikkusega — see nihke suurus näitab, millised võnkemoodid on olemas, muutes selle molekulaarstruktuuri sõrmejäljeks. Fluorestsents on täiesti erinev protsess: footon neeldub täielikult, viies elektroni kõrgemale energianivoole, mis siis lõõgastub osaliselt kiirgusevabalt, enne kui kiirgab uue, madalama energiaga (pikema lainepikkusega) footoni — see on Stokesi nihe.",
+    "sourceHash": "412caabe67beb605",
+    "stale": false
+  },
+  "prerequisites": [
+    "spectroscopy",
+    "quantum-energy-levels"
+  ]
+}

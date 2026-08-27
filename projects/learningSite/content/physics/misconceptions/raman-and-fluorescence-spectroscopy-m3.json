@@ -1,0 +1,10 @@
+{
+  "id": "raman-and-fluorescence-spectroscopy-m3",
+  "conceptId": "raman-and-fluorescence-spectroscopy",
+  "text": {
+    "en": "Believing fluoresced light is always shifted to a shorter wavelength (higher energy) than the absorbed light, rather than to a longer wavelength (lower energy) — some of the absorbed energy is always lost to non-radiative relaxation before the photon is re-emitted, which is exactly what the Stokes shift describes.",
+    "et": "Uskumine, et fluorestseeruv valgus on alati nihkunud lühema lainepikkuse (kõrgema energia) suunas kui neeldunud valgus, mitte pikema lainepikkuse (madalama energia) suunas — osa neeldunud energiast läheb enne footoni taaskiirgumist alati kaduma kiirgusevaba lõõgastumisena, ja täpselt see on Stokesi nihe.",
+    "sourceHash": "ef70f86befe603a5",
+    "stale": false
+  }
+}

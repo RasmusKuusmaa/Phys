@@ -1,0 +1,28 @@
+{
+  "id": "raman-shift-solve-deltanu",
+  "formulaId": "raman-shift-formula",
+  "variables": [
+    {
+      "symbol": "lambda0",
+      "min": 0.00000048,
+      "max": 0.00000064,
+      "unit": "m",
+      "sigFigs": 4
+    },
+    {
+      "symbol": "lambda1",
+      "min": 0.00000049,
+      "max": 0.00000066,
+      "unit": "m",
+      "sigFigs": 4
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "lambda1",
+      "right": "lambda0"
+    }
+  ],
+  "solveFor": "deltanu"
+}

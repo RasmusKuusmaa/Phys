@@ -70,7 +70,8 @@
     "signals-and-fourier-analysis",
     "lasers-and-stimulated-emission",
     "the-michelson-interferometer",
-    "photodetectors-pmt-and-ccd"
+    "photodetectors-pmt-and-ccd",
+    "raman-and-fluorescence-spectroscopy"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"

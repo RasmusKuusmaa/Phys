@@ -1,0 +1,56 @@
+{
+  "id": "raman-and-fluorescence-spectroscopy-item1",
+  "conceptId": "raman-and-fluorescence-spectroscopy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A sample is illuminated with a laser. Most of the scattered light comes back at the exact same wavelength, but a tiny fraction comes back at several distinct, slightly longer wavelengths. What best explains the tiny shifted fraction?",
+    "et": "Proovi valgustatakse laseriga. Enamik hajunud valgusest tuleb tagasi täpselt samal lainepikkusel, aga väike osa tuleb tagasi mitmel selgelt eristataval, veidi pikemal lainepikkusel. Mis kirjeldab kõige paremini seda väikest nihkunud osa?",
+    "sourceHash": "2f2c5b4ba35d400f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Raman scattering: a tiny fraction of photons exchange a specific amount of energy with one of the molecule's vibrational modes, shifting to a longer wavelength by an amount set by that mode's energy — different modes give different shifts, hence several distinct wavelengths.",
+        "et": "Raman-hajumine: väike osa footoneid vahetab kindla koguse energiat mõne molekuli võnkemoodiga, nihkudes pikema lainepikkuse suunas koguse võrra, mille määrab selle moodi energia — erinevad moodid annavad erineva nihke, seetõttu mitu erinevat lainepikkust.",
+        "sourceHash": "a5fdf3032881061d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It's all fluorescence — the shifted light and the unshifted light are two names for the same process.",
+        "et": "Tegu on ainult fluorestsentsiga — nihkunud ja nihketa valgus on sama protsessi kaks nimetust.",
+        "sourceHash": "73b5f16ec2aaf8dd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "raman-and-fluorescence-spectroscopy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All the scattered photons should be shifted this way — the unshifted majority must be measurement error.",
+        "et": "Kõik hajunud footonid peaksid olema nii nihkunud — nihketa enamus peab olema mõõtmisviga.",
+        "sourceHash": "64eb06d0be6b148e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "raman-and-fluorescence-spectroscopy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Fluorescence, and the shift should actually be toward shorter wavelengths since re-emitted light always has higher energy than what was absorbed.",
+        "et": "Fluorestsents, ja nihe peaks tegelikult olema lühema lainepikkuse suunas, kuna taaskiirgunud valgusel on alati kõrgem energia kui neeldunud valgusel.",
+        "sourceHash": "ed5ac8e9a0efdcbe",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "raman-and-fluorescence-spectroscopy-m3"
+    }
+  ]
+}

@@ -1503,5 +1503,12 @@
     "et": "dünoodide arv",
     "domain": "optics",
     "source": "https://et.wikipedia.org/wiki/Fotoelektronkordisti"
+  },
+  {
+    "id": "wavenumber",
+    "en": "wavenumber",
+    "et": "lainearv",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/lainearv/1/est"
   }
 ]

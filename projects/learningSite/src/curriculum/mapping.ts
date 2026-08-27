@@ -441,6 +441,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "lasers-and-stimulated-emission",
     "the-michelson-interferometer",
     "photodetectors-pmt-and-ccd",
+    "raman-and-fluorescence-spectroscopy",
   ],
   // LOFY.01.018 Signaalitöötluse alused I — signals, spectra, Fourier, sampling.
   "LOFY.01.018": [

@@ -1,0 +1,37 @@
+{
+  "id": "raman-shift-solve-deltanu",
+  "formulaId": "raman-shift-formula",
+  "solveFor": "deltanu",
+  "mistakes": [
+    {
+      "id": "inverted-subtraction-order",
+      "description": {
+        "en": "Subtracted in the wrong order, computing 1/λ₁ − 1/λ₀ instead of 1/λ₀ − 1/λ₁, flipping the sign of the shift.",
+        "et": "Lahutas vales järjekorras, arvutades 1/λ₁ − 1/λ₀, mitte 1/λ₀ − 1/λ₁, pöörates nihke märki.",
+        "sourceHash": "7cbad4dba257defa",
+        "stale": false
+      },
+      "expression": "1/lambda1-1/lambda0"
+    },
+    {
+      "id": "subtracted-wavelengths-directly",
+      "description": {
+        "en": "Subtracted the wavelengths directly instead of their reciprocals, confusing a wavelength difference with a wavenumber difference.",
+        "et": "Lahutas lainepikkused otse, mitte nende pöördväärtused, ajades segamini lainepikkuse vahe ja lainearvu vahe.",
+        "sourceHash": "d5a9480bfb5b9834",
+        "stale": false
+      },
+      "expression": "lambda1-lambda0"
+    },
+    {
+      "id": "used-only-one-wavelength",
+      "description": {
+        "en": "Computed only 1/λ₀, the incident wavenumber, forgetting to subtract the scattered wavenumber.",
+        "et": "Arvutas ainult 1/λ₀, langeva valguse lainearvu, unustades lahutada hajunud valguse lainearvu.",
+        "sourceHash": "3acf1d27d71a38da",
+        "stale": false
+      },
+      "expression": "1/lambda0"
+    }
+  ]
+}

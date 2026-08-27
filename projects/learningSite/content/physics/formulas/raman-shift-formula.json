@@ -1,0 +1,43 @@
+{
+  "id": "raman-shift-formula",
+  "conceptId": "raman-and-fluorescence-spectroscopy",
+  "latex": "\\Delta\\tilde{\\nu} = \\frac{1}{\\lambda_0} - \\frac{1}{\\lambda_1}",
+  "symbols": [
+    {
+      "symbol": "lambda0",
+      "name": {
+        "en": "wavelength",
+        "et": "lainepikkus",
+        "sourceHash": "cbf73350941bee0f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "lambda1",
+      "name": {
+        "en": "wavelength",
+        "et": "lainepikkus",
+        "sourceHash": "cbf73350941bee0f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "deltanu",
+      "name": {
+        "en": "wavenumber",
+        "et": "lainearv",
+        "sourceHash": "c9fda40c01497d56",
+        "stale": false
+      },
+      "unit": "1/m"
+    }
+  ],
+  "solveFor": [
+    "deltanu"
+  ],
+  "expressions": {
+    "deltanu": "1/lambda0-1/lambda1"
+  }
+}
