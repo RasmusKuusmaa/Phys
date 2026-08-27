@@ -1,0 +1,10 @@
+{
+  "id": "laurent-series-and-singularities-m3",
+  "conceptId": "laurent-series-and-singularities",
+  "text": {
+    "en": "Believes a Laurent series expansion is unique for a given function regardless of which annulus it's expanded on, missing that the same function can have different Laurent series valid on different annuli around the same point.",
+    "et": "Arvab, et Laurent' rea arendus on antud funktsiooni jaoks üheselt määratud, sõltumata sellest, millisel rõngal see arendatakse, jättes tähelepanuta, et samal funktsioonil võib olla erinevaid Laurent' ridu, mis kehtivad erinevatel rõngastel sama punkti ümber.",
+    "sourceHash": "4cf40b87eb3d1d00",
+    "stale": false
+  }
+}

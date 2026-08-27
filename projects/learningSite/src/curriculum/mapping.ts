@@ -466,6 +466,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "polar-form-of-complex-numbers",
     "functions-of-a-complex-variable",
     "residue-theorem-and-contour-integration",
+    "laurent-series-and-singularities",
   ],
   // LOKT.01.007 Anorgaaniline keemia — periodicity, redox, halogens, transition metals.
   "LOKT.01.007": [

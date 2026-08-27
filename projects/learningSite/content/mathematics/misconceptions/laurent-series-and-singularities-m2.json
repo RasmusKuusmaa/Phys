@@ -1,0 +1,10 @@
+{
+  "id": "laurent-series-and-singularities-m2",
+  "conceptId": "laurent-series-and-singularities",
+  "text": {
+    "en": "Thinks a removable singularity means the function is genuinely undefined and unfixable there, rather than meaning the limit exists and simply redefining f at that one point removes the singularity entirely.",
+    "et": "Arvab, et kõrvaldatav eripunkt tähendab, et funktsioon on seal tegelikult määramatu ja parandamatu, selle asemel et mõista, et piirväärtus on olemas ja f ümberdefineerimine selles ühes punktis kõrvaldab eripunkti täielikult.",
+    "sourceHash": "b27db9d5f7744d15",
+    "stale": false
+  }
+}

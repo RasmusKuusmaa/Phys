@@ -1,0 +1,10 @@
+{
+  "id": "laurent-series-and-singularities-m1",
+  "conceptId": "laurent-series-and-singularities",
+  "text": {
+    "en": "Believes any point where a formula for f(z) can't be directly evaluated is automatically an essential singularity, without checking whether the negative-power part of the Laurent series is actually finite (a pole) or even absent (a removable singularity).",
+    "et": "Arvab, et iga punkt, kus f(z) valemit ei saa otse arvutada, on automaatselt olemuslik eripunkt, kontrollimata, kas Laurent' rea negatiivsete astmete osa on tegelikult lõplik (poolus) või puudub üldse (kõrvaldatav eripunkt).",
+    "sourceHash": "6d7900042d4e5159",
+    "stale": false
+  }
+}

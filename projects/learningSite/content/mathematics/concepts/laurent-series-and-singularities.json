@@ -1,0 +1,22 @@
+{
+  "id": "laurent-series-and-singularities",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "complex-numbers",
+  "title": {
+    "en": "Laurent series and singularities",
+    "et": "Laurent' read ja eripunktid",
+    "sourceHash": "3dd97716a5b18bdc",
+    "stale": false
+  },
+  "summary": {
+    "en": "A Laurent series generalises a Taylor series by allowing negative powers of (z − z₀), which is exactly what's needed to represent a function around a point where it isn't holomorphic; the pattern of those negative-power terms classifies the singularity as removable (none), a pole of finite order (finitely many), or essential (infinitely many) — and only the essential case defeats every algebraic trick for evaluating a limit there.",
+    "et": "Laurent' rida üldistab Taylori rida, lubades (z − z₀) negatiivseid astmeid, mis on täpselt see, mida on vaja funktsiooni esitamiseks punkti ümber, kus see ei ole holomorfne; nende negatiivsete astmete liikmete muster liigitab eripunkti kõrvaldatavaks (ühtki liiget), lõpliku järjekorra pooluseks (lõplikult palju liikmeid) või olemuslikuks (lõpmatult palju liikmeid) — ja ainult olemuslik juhtum lööb läbi kõik algebralised nipid seal piirväärtuse arvutamiseks.",
+    "sourceHash": "f2aa6b180bf9a895",
+    "stale": false
+  },
+  "prerequisites": [
+    "functions-of-a-complex-variable",
+    "infinite-series"
+  ]
+}

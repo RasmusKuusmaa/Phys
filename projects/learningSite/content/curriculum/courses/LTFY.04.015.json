@@ -112,7 +112,8 @@
     "complex-numbers",
     "polar-form-of-complex-numbers",
     "functions-of-a-complex-variable",
-    "residue-theorem-and-contour-integration"
+    "residue-theorem-and-contour-integration",
+    "laurent-series-and-singularities"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"

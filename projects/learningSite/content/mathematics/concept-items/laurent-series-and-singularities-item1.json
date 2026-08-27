@@ -1,0 +1,56 @@
+{
+  "id": "laurent-series-and-singularities-item1",
+  "conceptId": "laurent-series-and-singularities",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "f(z) = sin(z)/z is written as a Laurent series around z = 0 and it turns out to have no negative-power terms at all. What does this tell you about z = 0?",
+    "et": "f(z) = sin(z)/z on kirja pandud Laurent' reana punkti z = 0 ümber ja selgub, et negatiivsete astmete liikmeid ei ole üldse. Mida see ütleb punkti z = 0 kohta?",
+    "sourceHash": "7e8aa49043269d37",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "z = 0 is a removable singularity — f can be redefined there (as 1) to become holomorphic",
+        "et": "z = 0 on kõrvaldatav eripunkt — f-i saab seal ümberdefineerida (väärtuseks 1), et see muutuks holomorfseks",
+        "sourceHash": "e777a6994a9712f8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "z = 0 must be an essential singularity, since sin(z)/z looks undefined there",
+        "et": "z = 0 peab olema olemuslik eripunkt, kuna sin(z)/z näib seal määramatu",
+        "sourceHash": "d80010d5fc7ec80d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "laurent-series-and-singularities-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "z = 0 is genuinely undefined and no redefinition can fix it",
+        "et": "z = 0 on tegelikult määramatu ja ükski ümberdefineerimine ei saa seda parandada",
+        "sourceHash": "47fbbd4cb153f3ed",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "laurent-series-and-singularities-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The classification depends on which annulus around z = 0 was chosen for the expansion, so nothing can be concluded from one series alone",
+        "et": "Liigitus sõltub sellest, milline rõngas z = 0 ümber arenduseks valiti, mistõttu ühest reast üksi ei saa midagi järeldada",
+        "sourceHash": "1731cbd70a7df6d2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "laurent-series-and-singularities-m3"
+    }
+  ]
+}
