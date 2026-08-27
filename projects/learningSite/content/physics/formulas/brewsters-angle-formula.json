@@ -1,0 +1,43 @@
+{
+  "id": "brewsters-angle-formula",
+  "conceptId": "fresnel-equations-and-brewsters-angle",
+  "latex": "n_2 = n_1 \\tan\\theta_B",
+  "symbols": [
+    {
+      "symbol": "n1",
+      "name": {
+        "en": "refractive index",
+        "et": "murdumisnäitaja",
+        "sourceHash": "cb91e1819d186d24",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "thetaB",
+      "name": {
+        "en": "angle",
+        "et": "nurk",
+        "sourceHash": "49387897bee2bee3",
+        "stale": false
+      },
+      "unit": "deg"
+    },
+    {
+      "symbol": "n2",
+      "name": {
+        "en": "refractive index",
+        "et": "murdumisnäitaja",
+        "sourceHash": "cb91e1819d186d24",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "n2"
+  ],
+  "expressions": {
+    "n2": "n1*tan(thetaB*3.14159265358979/180)"
+  }
+}

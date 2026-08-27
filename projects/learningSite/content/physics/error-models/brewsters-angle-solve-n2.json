@@ -1,0 +1,37 @@
+{
+  "id": "brewsters-angle-solve-n2",
+  "formulaId": "brewsters-angle-formula",
+  "solveFor": "n2",
+  "mistakes": [
+    {
+      "id": "used-sin-not-tan",
+      "description": {
+        "en": "Used sine instead of tangent, as if this were Snell's law rather than Brewster's angle condition.",
+        "et": "Kasutas siinust tangensi asemel, nagu kehtiks siin Snelli seadus, mitte Brewsteri nurga tingimus.",
+        "sourceHash": "9175fe2afd35719d",
+        "stale": false
+      },
+      "expression": "n1*sin(thetaB*3.14159265358979/180)"
+    },
+    {
+      "id": "divided-instead-of-multiplied",
+      "description": {
+        "en": "Divided n1 by the tangent instead of multiplying, inverting the relationship.",
+        "et": "Jagas n1 tangensiga korrutamise asemel, pöörates seose ümber.",
+        "sourceHash": "45ce0f4973c8b5a6",
+        "stale": false
+      },
+      "expression": "n1/tan(thetaB*3.14159265358979/180)"
+    },
+    {
+      "id": "forgot-degree-to-radian-conversion",
+      "description": {
+        "en": "Passed the angle in degrees straight into tangent without converting to radians first.",
+        "et": "Andis nurga kraadides otse tangensi sisse, teisendamata seda kõigepealt radiaanidesse.",
+        "sourceHash": "a9e5eeab42205bb3",
+        "stale": false
+      },
+      "expression": "n1*tan(thetaB)"
+    }
+  ]
+}

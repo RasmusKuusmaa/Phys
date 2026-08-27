@@ -1,0 +1,10 @@
+{
+  "id": "fresnel-equations-and-brewsters-angle-m3",
+  "conceptId": "fresnel-equations-and-brewsters-angle",
+  "text": {
+    "en": "Believing Brewster's angle is a fixed universal angle (like 45°), rather than depending on the ratio of the two media's refractive indices — going from air into glass gives a different Brewster's angle than going from glass into air.",
+    "et": "Uskumine, et Brewsteri nurk on kindel universaalne nurk (näiteks 45°), mitte see, et see sõltub kahe keskkonna murdumisnäitajate suhtest — õhust klaasi minnes on Brewsteri nurk erinev kui klaasist õhku minnes.",
+    "sourceHash": "c0fc8c410df862af",
+    "stale": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "fresnel-equations-and-brewsters-angle",
+  "subject": "physics",
+  "level": "L3",
+  "module": "optics",
+  "title": {
+    "en": "Fresnel equations and Brewster's angle",
+    "et": "Fresneli valemid ja Brewsteri nurk",
+    "sourceHash": "90f42667e8f83ecb",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Fresnel equations give the fraction of light reflected and transmitted at a boundary between two media, and that fraction depends on both the angle of incidence and the polarisation direction. At one specific angle — Brewster's angle — light polarised parallel to the plane of incidence is not reflected at all, so the reflected beam is purely polarised perpendicular to it.",
+    "et": "Fresneli valemid annavad kahe keskkonna vahelisel piiril peegelduva ja läbiva valguse osakaalu, ja see osakaal sõltub nii langemisnurgast kui polarisatsiooni suunast. Ühel kindlal nurgal — Brewsteri nurgal — langemistasandiga paralleelselt polariseeritud valgus ei peegeldu üldse, mistõttu peegelduv kiir on täielikult sellega risti polariseeritud.",
+    "sourceHash": "f0cbf2a7614b232b",
+    "stale": false
+  },
+  "prerequisites": [
+    "reflection-and-refraction",
+    "polarization-of-light"
+  ]
+}

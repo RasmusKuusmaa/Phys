@@ -1,0 +1,10 @@
+{
+  "id": "fresnel-equations-and-brewsters-angle-m2",
+  "conceptId": "fresnel-equations-and-brewsters-angle",
+  "text": {
+    "en": "Assuming the fraction of light reflected at a boundary is fixed, the same at every angle of incidence — rather than rising sharply as the angle approaches grazing incidence, exactly as Snell's law leaves the angle of refraction unable to keep pace.",
+    "et": "Eeldus, et piiril peegelduva valguse osakaal on kindel ja iga langemisnurga juures sama — tegelikult kasvab see järsult, kui nurk läheneb libisevale langemisele, täpselt nii, kuidas Snelli seadus jätab murdumisnurga sammuga kaasa minemata.",
+    "sourceHash": "bfdc3d816cfd25f3",
+    "stale": false
+  }
+}

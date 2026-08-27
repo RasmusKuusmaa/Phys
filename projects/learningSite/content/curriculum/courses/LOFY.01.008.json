@@ -239,7 +239,8 @@
     "photoelectric-effect",
     "photons-and-quanta",
     "lasers-and-stimulated-emission",
-    "rayleigh-and-mie-scattering"
+    "rayleigh-and-mie-scattering",
+    "fresnel-equations-and-brewsters-angle"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

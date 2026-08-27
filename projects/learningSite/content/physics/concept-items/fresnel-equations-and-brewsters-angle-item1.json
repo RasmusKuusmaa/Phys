@@ -1,0 +1,56 @@
+{
+  "id": "fresnel-equations-and-brewsters-angle-item1",
+  "conceptId": "fresnel-equations-and-brewsters-angle",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Unpolarised light hits a glass window at exactly Brewster's angle. What is true of the reflected beam?",
+    "et": "Polariseerimata valgus langeb klaasakendele täpselt Brewsteri nurga all. Mis kehtib peegelduva kiire kohta?",
+    "sourceHash": "d6ad5d860a73ff0f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is completely polarised perpendicular to the plane of incidence, because the parallel-polarised component isn't reflected at all at this angle.",
+        "et": "Ta on täielikult polariseeritud langemistasandiga risti, kuna paralleelselt polariseeritud komponent ei peegeldu sellel nurgal üldse.",
+        "sourceHash": "fe73eca2df294895",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There is no reflected beam at all — all the light is transmitted into the glass.",
+        "et": "Peegelduvat kiirt ei tekigi — kogu valgus läbib klaasi.",
+        "sourceHash": "4a3393280ebe7de4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fresnel-equations-and-brewsters-angle-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is unpolarised, the same as at any other angle of incidence — polarisation state doesn't change the amount reflected.",
+        "et": "Ta on polariseerimata, samamoodi kui igal muul langemisnurgal — polarisatsiooni olek ei mõjuta peegelduvat kogust.",
+        "sourceHash": "00f44b427b8cffc4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fresnel-equations-and-brewsters-angle-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is completely polarised perpendicular to the plane of incidence, and this happens at 45° no matter what the glass is made of.",
+        "et": "Ta on täielikult polariseeritud langemistasandiga risti, ja see juhtub 45° nurga all sõltumata sellest, millest klaas on tehtud.",
+        "sourceHash": "1f1529208ee73ae7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fresnel-equations-and-brewsters-angle-m3"
+    }
+  ]
+}

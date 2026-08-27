@@ -1,0 +1,38 @@
+{
+  "id": "brewsters-angle-solve-n2",
+  "formulaId": "brewsters-angle-formula",
+  "variables": [
+    {
+      "symbol": "n1",
+      "min": 1,
+      "max": 1.5,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "thetaB",
+      "min": 30,
+      "max": 70,
+      "unit": "deg",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "n1",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "thetaB",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "thetaB",
+      "right": 90
+    }
+  ],
+  "solveFor": "n2"
+}
