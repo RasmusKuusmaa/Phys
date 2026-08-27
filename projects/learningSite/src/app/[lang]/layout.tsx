@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import { Fraunces, Geist, Geist_Mono } from "next/font/google";
 import { lang } from "next/root-params";
 import { notFound } from "next/navigation";
 import { Analytics } from "@vercel/analytics/next";
 import { isLocale, locales } from "@/i18n/locales";
 import { getDictionary } from "@/i18n/dictionaries";
-import { LocaleSwitcher } from "@/components/LocaleSwitcher";
+import { LocaleSwitcher, LocaleSwitcherFallback } from "@/components/LocaleSwitcher";
 import { SubjectSwitcher } from "@/components/SubjectSwitcher";
 import { ThemeToggle } from "@/components/ThemeToggle";
 import { listSubjects } from "@/content/loader";
@@ -106,7 +107,9 @@ export default async function RootLayout({
               <Link href={`/${locale}/progress`} className="text-muted hover:text-foreground">
                 {dict.nav.progress}
               </Link>
-              <LocaleSwitcher currentLocale={locale} />
+              <Suspense fallback={<LocaleSwitcherFallback currentLocale={locale} />}>
+                <LocaleSwitcher currentLocale={locale} />
+              </Suspense>
               <ThemeToggle />
             </nav>
           </div>
