@@ -1,0 +1,10 @@
+{
+  "id": "transformers-and-ac-power-distribution-m2",
+  "conceptId": "transformers-and-ac-power-distribution",
+  "text": {
+    "en": "Raising the voltage on the secondary side raises the current too, since a bigger push should drive more current through the circuit.",
+    "et": "Pinge tõstmine sekundaarpoolel tõstab ka voolu, sest suurem 'tõuge' peaks ahelas rohkem voolu tekitama.",
+    "sourceHash": "98d0f4b66e8ac833",
+    "stale": false
+  }
+}

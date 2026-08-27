@@ -121,7 +121,8 @@
     "semiconductors-and-doping",
     "superconductivity",
     "the-hall-effect",
-    "thevenin-and-norton-equivalent-circuits"
+    "thevenin-and-norton-equivalent-circuits",
+    "transformers-and-ac-power-distribution"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

@@ -1,0 +1,53 @@
+{
+  "id": "transformers-and-ac-power-distribution-turns-ratio",
+  "conceptId": "transformers-and-ac-power-distribution",
+  "latex": "V_s = V_p \\frac{N_s}{N_p}",
+  "symbols": [
+    {
+      "symbol": "V_p",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    },
+    {
+      "symbol": "N_p",
+      "name": {
+        "en": "number of turns",
+        "et": "keerdude arv",
+        "sourceHash": "2b6be97973763c41",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "N_s",
+      "name": {
+        "en": "number of turns",
+        "et": "keerdude arv",
+        "sourceHash": "2b6be97973763c41",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "V_s",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    }
+  ],
+  "solveFor": [
+    "V_s"
+  ],
+  "expressions": {
+    "V_s": "V_p*N_s/N_p"
+  }
+}

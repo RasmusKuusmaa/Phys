@@ -1,0 +1,23 @@
+{
+  "id": "transformers-and-ac-power-distribution",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Transformers and AC power distribution",
+    "et": "Trafod ja vahelduvvoolu jaotus",
+    "sourceHash": "8766002105adf729",
+    "stale": false
+  },
+  "summary": {
+    "en": "A transformer uses a changing magnetic flux, shared between two coils wound on the same core, to step an AC voltage up or down by the ratio of the coils' turns — and because power in equals power out, stepping the voltage up steps the current down, which is why power grids transmit electricity at very high voltage: less current means far smaller resistive losses over long distribution lines.",
+    "et": "Trafo kasutab muutuvat magnetvoogu, mis on jagatud sama südamikule keritud kahe mähise vahel, et muuta vahelduvvoolu pinget mähiste keerdude arvu suhtega — ja kuna sisenev võimsus võrdub väljuva võimsusega, tähendab pinge tõstmine voolu langust, mistõttu elektrivõrgud edastavad elektrit väga kõrgel pingel: väiksem vool tähendab palju väiksemaid takistuskadusid pikkadel jaotusliinidel.",
+    "sourceHash": "39e6676cb80f81b3",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-induction",
+    "inductance-and-rl-circuits",
+    "ac-circuits-and-impedance"
+  ]
+}

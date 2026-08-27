@@ -1,0 +1,10 @@
+{
+  "id": "transformers-and-ac-power-distribution-m3",
+  "conceptId": "transformers-and-ac-power-distribution",
+  "text": {
+    "en": "A transformer works just as well whether the primary coil is driven by AC or by steady DC, since either way current flows through the coil and creates a magnetic field.",
+    "et": "Trafo töötab võrdselt hästi, olenemata sellest, kas primaarmähist toidetakse vahelduv- või alalisvooluga, sest mõlemal juhul tekitab mähist läbiv vool magnetvälja.",
+    "sourceHash": "319f9c3471c072cd",
+    "stale": false
+  }
+}

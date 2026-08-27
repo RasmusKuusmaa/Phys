@@ -1,0 +1,56 @@
+{
+  "id": "transformers-and-ac-power-distribution-item1",
+  "conceptId": "transformers-and-ac-power-distribution",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A step-up transformer raises the voltage from the primary coil to the secondary coil. Ignoring losses, what happens to the current, and why does the power grid use step-up transformers for long-distance transmission?",
+    "et": "Astendustrafo tõstab pinget primaarmähiselt sekundaarmähisele. Kadusid arvestamata, mis juhtub vooluga, ja miks kasutab elektrivõrk pikamaaedastuseks astendustrafosid?",
+    "sourceHash": "c7c765eefb4b90b2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The current drops in the same proportion the voltage rises, since power in equals power out — lower current means much smaller resistive losses in the transmission lines.",
+        "et": "Vool langeb samas proportsioonis, kui pinge tõuseb, sest sisenev võimsus võrdub väljuvaga — väiksem vool tähendab palju väiksemaid takistuskadusid ülekandeliinidel.",
+        "sourceHash": "e2bf86c68f197f63",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both the voltage and the current rise, so the transformer delivers more power out than went in.",
+        "et": "Nii pinge kui vool tõusevad, mistõttu trafo väljastab rohkem võimsust, kui sisse läks.",
+        "sourceHash": "8863d4d947ce7c3a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transformers-and-ac-power-distribution-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The current rises along with the voltage, since a bigger voltage should push more current through.",
+        "et": "Vool tõuseb koos pingega, sest suurem pinge peaks rohkem voolu läbi lükkama.",
+        "sourceHash": "f24224ff2189ee53",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transformers-and-ac-power-distribution-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It would work exactly the same way if the primary were driven by steady DC instead of AC.",
+        "et": "See töötaks täpselt samamoodi, kui primaarmähist toidetaks alalisvooluga vahelduvvoolu asemel.",
+        "sourceHash": "d703c1e46f703639",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transformers-and-ac-power-distribution-m3"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "transformers-and-ac-power-distribution-solve-vs",
+  "formulaId": "transformers-and-ac-power-distribution-turns-ratio",
+  "variables": [
+    {
+      "symbol": "V_p",
+      "min": 100,
+      "max": 400,
+      "unit": "V",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "N_p",
+      "min": 50,
+      "max": 500,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "N_s",
+      "min": 50,
+      "max": 500,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "V_p", "right": 0 },
+    { "op": "gt", "left": "N_p", "right": 0 },
+    { "op": "gt", "left": "N_s", "right": 0 }
+  ],
+  "solveFor": "V_s"
+}

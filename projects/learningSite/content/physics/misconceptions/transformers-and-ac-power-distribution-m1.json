@@ -1,0 +1,10 @@
+{
+  "id": "transformers-and-ac-power-distribution-m1",
+  "conceptId": "transformers-and-ac-power-distribution",
+  "text": {
+    "en": "A step-up transformer delivers more power on the secondary side than went into the primary side, since it raises the voltage.",
+    "et": "Astendustrafo väljastab sekundaarpoolel rohkem võimsust, kui primaarpoolele siseneb, sest see tõstab pinget.",
+    "sourceHash": "1e795631493e9b81",
+    "stale": false
+  }
+}

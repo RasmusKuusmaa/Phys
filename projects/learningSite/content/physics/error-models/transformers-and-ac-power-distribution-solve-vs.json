@@ -1,0 +1,27 @@
+{
+  "id": "transformers-and-ac-power-distribution-solve-vs",
+  "formulaId": "transformers-and-ac-power-distribution-turns-ratio",
+  "solveFor": "V_s",
+  "mistakes": [
+    {
+      "id": "inverted-the-turns-ratio",
+      "description": {
+        "en": "Used the primary-to-secondary turns ratio inverted, computing V_p times N_p over N_s.",
+        "et": "Kasutas primaar-sekundaar keerdude suhet pöördvõrdeliselt, arvutades V_p korda N_p jagatud N_s-ga.",
+        "sourceHash": "763a52407a77404b",
+        "stale": false
+      },
+      "expression": "V_p*N_p/N_s"
+    },
+    {
+      "id": "added-instead-of-scaled",
+      "description": {
+        "en": "Added the turns ratio to the primary voltage instead of multiplying by it.",
+        "et": "Liitis keerdude suhte primaarpingele selle asemel, et sellega korrutada.",
+        "sourceHash": "63f314a05b859952",
+        "stale": false
+      },
+      "expression": "V_p+N_s/N_p"
+    }
+  ]
+}

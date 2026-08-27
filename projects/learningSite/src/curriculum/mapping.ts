@@ -134,6 +134,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "superconductivity",
     "the-hall-effect",
     "thevenin-and-norton-equivalent-circuits",
+    "transformers-and-ac-power-distribution",
   ],
   "LOFY.01.008": [
     "diffraction-gratings",
