@@ -2,7 +2,7 @@
 
 Status: the 47 UNMAPPED fixes listed below are done (see `git log` for
 "content: map existing concepts to ..." commits and `src/curriculum/mapping.ts`).
-Of the 54 GAP concepts, three authoring-order groups are done — 27/54 total:
+Of the 54 GAP concepts, four authoring-order groups are done — 35/54 total:
 
 - Foundational math (8): `improper-integrals`, `curve-sketching-with-derivatives`,
   `fourier-series`, `multivariable-optimization-and-lagrange-multipliers`,
@@ -22,12 +22,16 @@ Of the 54 GAP concepts, three authoring-order groups are done — 27/54 total:
   `thermionic-emission-and-vacuum-tube-devices`,
   `millikan-experiment-and-elementary-charge`,
   `piezoelectric-and-ferroelectric-materials`.
+- Optics (8): `rayleigh-and-mie-scattering`, `fresnel-equations-and-brewsters-angle`,
+  `birefringence-and-wave-plates`, `radiometric-and-photometric-quantities`,
+  `photodetectors-pmt-and-ccd`, `nonlinear-optics-and-harmonic-generation`,
+  `electric-dipole-radiation`, `raman-and-fluorescence-spectroscopy`.
 
-The remaining 27 GAP concepts across five themed groups (optics — next up;
-modern/nuclear/atomic; statistical/quantum theory; analytical mechanics;
-global physics/astro) are not started — this file is their queue. Resume by
-taking the next themed group from the "Suggested authoring order" section
-below and following `CONTRIBUTING.md`'s scaffold workflow per concept.
+The remaining 19 GAP concepts across four themed groups (modern/nuclear/atomic
+— next up; statistical/quantum theory; analytical mechanics; global
+physics/astro) are not started — this file is their queue. Resume by taking
+the next themed group from the "Suggested authoring order" section below and
+following `CONTRIBUTING.md`'s scaffold workflow per concept.
 
 
 Method: for every in-scope course, `content/curriculum/courses/<CODE>.json` was read for its
