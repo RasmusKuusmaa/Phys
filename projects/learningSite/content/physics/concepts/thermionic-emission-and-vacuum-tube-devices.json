@@ -1,0 +1,22 @@
+{
+  "id": "thermionic-emission-and-vacuum-tube-devices",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Thermionic emission and vacuum tube devices",
+    "et": "Termoelektronemissioon ja vaakumtorud",
+    "sourceHash": "4af14aa7bc62295b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Heating a metal surface gives its mobile conduction electrons enough thermal energy to overcome the material's work function and escape into the surrounding vacuum — thermionic emission — the electron source at the heart of vacuum-tube devices like the diode, which lets current flow in only one direction, and the triode, whose small control-grid voltage governs a much larger current, making it an early electronic amplifier.",
+    "et": "Metallpinna kuumutamine annab selle liikuvatele juhtivuselektronidele piisavalt soojusenergiat, et ületada materjali väljumistöö ja pääseda ümbritsevasse vaakumisse — termoelektronemissioon — mis on elektronallikaks vaakumseadmetes, nagu diood, mis lubab voolu ainult ühte suunda, ja triood, mille väike juhtvõre pinge kontrollib palju suuremat voolu, muutes selle varajaseks elektroonseks võimendiks.",
+    "sourceHash": "f9fcfa4f12420745",
+    "stale": false
+  },
+  "prerequisites": [
+    "photoelectric-effect",
+    "electric-fields"
+  ]
+}

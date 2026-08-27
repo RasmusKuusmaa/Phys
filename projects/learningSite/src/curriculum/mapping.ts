@@ -705,6 +705,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-hall-effect",
     "charged-particle-motion-mass-spectrometry-and-cyclotrons",
     "magnetic-materials-and-ferromagnetic-hysteresis",
+    "thermionic-emission-and-vacuum-tube-devices",
   ],
   "LOFY.01.124": [
     "lenses-and-focal-length",

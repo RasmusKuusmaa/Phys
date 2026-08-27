@@ -119,7 +119,8 @@
     "ac-circuits-and-impedance",
     "the-hall-effect",
     "charged-particle-motion-mass-spectrometry-and-cyclotrons",
-    "magnetic-materials-and-ferromagnetic-hysteresis"
+    "magnetic-materials-and-ferromagnetic-hysteresis",
+    "thermionic-emission-and-vacuum-tube-devices"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"

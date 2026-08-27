@@ -1,0 +1,10 @@
+{
+  "id": "thermionic-emission-and-vacuum-tube-devices-m3",
+  "conceptId": "thermionic-emission-and-vacuum-tube-devices",
+  "text": {
+    "en": "A triode's small control-grid voltage simply adds to the current already flowing to the plate, rather than throttling how much of that current gets through.",
+    "et": "Triood väikese juhtvõre pinge lihtsalt lisandub plaadile juba voolavale voolule, selle asemel et reguleerida, kui palju sellest voolust läbi pääseb.",
+    "sourceHash": "8eb7645e26131bee",
+    "stale": false
+  }
+}

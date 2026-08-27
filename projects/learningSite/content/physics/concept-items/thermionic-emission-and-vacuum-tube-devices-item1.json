@@ -1,0 +1,56 @@
+{
+  "id": "thermionic-emission-and-vacuum-tube-devices-item1",
+  "conceptId": "thermionic-emission-and-vacuum-tube-devices",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why must a vacuum tube's cathode be heated to a very high temperature rather than just warmed slightly, and what actually happens to the metal itself as it emits electrons?",
+    "et": "Miks tuleb vaakumtoru katood kuumutada väga kõrgele temperatuurile, mitte lihtsalt kergelt soojendada, ja mis tegelikult juhtub metalliga endaga elektronide emiteerimisel?",
+    "sourceHash": "5124bd26ae880dae",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Emission only becomes significant once the electrons' thermal energy is comparable to the metal's work function; only the mobile conduction electrons leave — the lattice of atoms stays intact.",
+        "et": "Emissioon muutub oluliseks alles siis, kui elektronide soojusenergia on võrreldav metalli väljumistööga; lahkuvad ainult liikuvad juhtivuselektronid — aatomite võre jääb terveks.",
+        "sourceHash": "778451faae71ce53",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Any warm metal should already be emitting a useful number of electrons.",
+        "et": "Igasugune soe metall peaks juba emiteerima kasuliku hulga elektrone.",
+        "sourceHash": "fbb91442a284389f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermionic-emission-and-vacuum-tube-devices-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The heat is boiling whole atoms directly off the metal's surface.",
+        "et": "Soojus keedab terveid aatomeid otse metalli pinnalt.",
+        "sourceHash": "f742777bca742531",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermionic-emission-and-vacuum-tube-devices-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A triode's small grid voltage simply adds to the current already flowing to the plate.",
+        "et": "Triood väikese võre pinge lihtsalt lisandub plaadile juba voolavale voolule.",
+        "sourceHash": "6d98353380bc520f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermionic-emission-and-vacuum-tube-devices-m3"
+    }
+  ]
+}
