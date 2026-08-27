@@ -1,0 +1,10 @@
+{
+  "id": "intro-to-partial-differential-equations-m3",
+  "conceptId": "intro-to-partial-differential-equations",
+  "text": {
+    "en": "Believes any equation containing partial derivatives is automatically a partial differential equation to be solved for an unknown function, rather than checking whether it is instead an identity (like the equality of mixed partial derivatives) that holds automatically for any sufficiently smooth function.",
+    "et": "Arvab, et iga osatuletisi sisaldav võrrand on automaatselt lahendamist vajav osatuletistega diferentsiaalvõrrand, selle asemel et kontrollida, kas see on identiteet (nagu segaosatuletiste võrdsus), mis kehtib automaatselt iga piisavalt sujuva funktsiooni korral.",
+    "sourceHash": "eda16f591e390eae",
+    "stale": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "intro-to-partial-differential-equations",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "differential-equations",
+  "title": {
+    "en": "Introduction to partial differential equations",
+    "et": "Osatuletistega diferentsiaalvõrrandid (lihtsamad juhud)",
+    "sourceHash": "1a578f0cc799d9d0",
+    "stale": false
+  },
+  "summary": {
+    "en": "A partial differential equation relates a function of several variables to its own partial derivatives, so a solution is a function rather than a number; the heat, wave and Laplace equations are the three archetypes worth recognising on sight, because each behaves qualitatively differently and models a different kind of physical process.",
+    "et": "Osatuletistega diferentsiaalvõrrand seob mitme muutuja funktsiooni tema oma osatuletistega, seega on lahend funktsioon, mitte arv; soojusvõrrand, lainevõrrand ja Laplace'i võrrand on kolm arhetüüpi, mida on kasulik esimesest pilgust tunda, kuna igaüks käitub kvalitatiivselt erinevalt ja kirjeldab erinevat füüsikalist protsessi.",
+    "sourceHash": "2db2613f71cfc06b",
+    "stale": false
+  },
+  "prerequisites": [
+    "partial-derivatives",
+    "second-order-differential-equations"
+  ]
+}

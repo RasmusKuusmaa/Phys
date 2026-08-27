@@ -1,0 +1,56 @@
+{
+  "id": "intro-to-partial-differential-equations-item1",
+  "conceptId": "intro-to-partial-differential-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does an initial sharp temperature spike in a rod, governed by the heat equation, look progressively smoother over time, unlike a sharp pulse on a string governed by the wave equation?",
+    "et": "Miks muutub soojusvõrrandiga kirjeldatud varda alguses järsk temperatuuripiik ajas järjest siledamaks, erinevalt lainevõrrandiga kirjeldatud keelel oleva järsu impulsi käitumisest?",
+    "sourceHash": "ed1fb5135a72eb4a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The heat equation is diffusive and irreversibly smooths sharp features, while the wave equation propagates them without decay — a qualitative difference, not just a difference in speed",
+        "et": "Soojusvõrrand on difusioonivõrrand ja siluvab järsud tunnusjooned pöördumatult, samas kui lainevõrrand levitab neid kadumatult — kvalitatiivne erinevus, mitte üksnes kiiruse erinevus",
+        "sourceHash": "5353aaa7bcc41f7c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both equations behave identically over time, since both contain a second spatial derivative of the unknown function",
+        "et": "Mõlemad võrrandid käituvad ajas identselt, kuna mõlemad sisaldavad tundmatu funktsiooni teist ruumilist osatuletist",
+        "sourceHash": "c716c87a13816b39",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "intro-to-partial-differential-equations-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The heat equation's solution is fully determined by the equation alone, with no need for boundary or initial conditions",
+        "et": "Soojusvõrrandi lahend on täielikult määratud ainuüksi võrrandist, ilma raja- või algtingimusi vajamata",
+        "sourceHash": "a63d662da0a520b5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "intro-to-partial-differential-equations-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The smoothing is just an identity following automatically from the equality of mixed partial derivatives",
+        "et": "Silumine on lihtsalt identiteet, mis tuleneb automaatselt segaosatuletiste võrdsusest",
+        "sourceHash": "00c2cf80b0c5a74a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "intro-to-partial-differential-equations-m3"
+    }
+  ]
+}

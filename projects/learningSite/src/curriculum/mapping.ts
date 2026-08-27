@@ -386,6 +386,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "second-order-differential-equations",
     "fourier-series",
     "multivariable-optimization-and-lagrange-multipliers",
+    "intro-to-partial-differential-equations",
   ],
   // Tõenäosusteooria ja matemaatiline statistika.
   "MTMS.02.059": [

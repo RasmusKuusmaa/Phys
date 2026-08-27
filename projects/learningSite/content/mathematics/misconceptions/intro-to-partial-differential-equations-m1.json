@@ -1,0 +1,10 @@
+{
+  "id": "intro-to-partial-differential-equations-m1",
+  "conceptId": "intro-to-partial-differential-equations",
+  "text": {
+    "en": "Believes a partial differential equation's general solution is a single function determined uniquely by the equation alone, the way an ordinary differential equation's solution is fixed by initial conditions — without realising a PDE's general solution involves arbitrary functions, fixed only once boundary and initial conditions are supplied.",
+    "et": "Arvab, et osatuletistega diferentsiaalvõrrandi üldlahend on ainuüksi võrrandist üheselt määratud funktsioon, samamoodi kui harilikul diferentsiaalvõrrandil määravad lahendi algtingimused — mõistmata, et PDV üldlahend sisaldab suvalisi funktsioone, mis fikseeritakse alles raja- ja algtingimuste andmisel.",
+    "sourceHash": "d4bb0b77393e4351",
+    "stale": false
+  }
+}

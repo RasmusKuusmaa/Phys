@@ -1,0 +1,10 @@
+{
+  "id": "intro-to-partial-differential-equations-m2",
+  "conceptId": "intro-to-partial-differential-equations",
+  "text": {
+    "en": "Treats the heat equation and the wave equation as behaving the same way over time just because both involve a second spatial derivative — missing that the heat equation smooths out sharp features irreversibly, while the wave equation propagates them without decay.",
+    "et": "Käsitleb soojusvõrrandit ja lainevõrrandit ajas samamoodi käituvana ainuüksi seetõttu, et mõlemad sisaldavad teist ruumilist osatuletist — jättes tähelepanuta, et soojusvõrrand siluvab järsud tunnusjooned pöördumatult, samas kui lainevõrrand levitab neid kadumatult.",
+    "sourceHash": "91eb4b1879cb9e6e",
+    "stale": false
+  }
+}

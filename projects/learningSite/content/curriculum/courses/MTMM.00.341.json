@@ -36,7 +36,8 @@
     "first-order-differential-equations",
     "second-order-differential-equations",
     "fourier-series",
-    "multivariable-optimization-and-lagrange-multipliers"
+    "multivariable-optimization-and-lagrange-multipliers",
+    "intro-to-partial-differential-equations"
   ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"
