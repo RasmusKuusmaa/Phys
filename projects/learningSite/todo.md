@@ -909,7 +909,6 @@ findings and remaining work queue live in
   `content: author foundational math depth concepts`
   `content: author vector tensor and complex analysis math concepts`
   `content: add the hall effect concept` (and 8 more EM device concepts)
-  `content: author vector tensor and complex analysis math concepts`
 
 ### Phase 14 — Remaining subjects — SUPERSEDED
 
