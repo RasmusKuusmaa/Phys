@@ -639,6 +639,13 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "thermal-expansion",
     "uncertainty-and-error",
     "work-and-energy",
+    "mechanical-deformation-elasticity-and-plasticity",
+    "moment-of-inertia-and-rotational-dynamics",
+    "rotational-kinetic-energy",
+    "sound-waves-and-intensity",
+    "drag-and-terminal-velocity",
+    "ideal-gas-law",
+    "thermodynamic-processes",
   ],
   "LOFY.01.123": [
     "capacitance",
