@@ -1,0 +1,37 @@
+{
+  "id": "ionizing-radiation-detection-and-dosimetry-deadtime",
+  "formulaId": "ionizing-radiation-detection-and-dosimetry-deadtime",
+  "solveFor": "N_true",
+  "mistakes": [
+    {
+      "id": "ignored-dead-time-entirely",
+      "description": {
+        "en": "Reported the observed count rate itself as the true count rate, ignoring that some real decay events went undetected while the detector was still recovering from the previous one.",
+        "et": "Esitas mõõdetud loendussageduse tegeliku loendussagedusena, ignoreerides, et osa tegelikke lagunemissündmusi jäi tuvastamata, kuni detektor eelmisest sündmusest taastus.",
+        "sourceHash": "0e40fe486e3f1588",
+        "stale": false
+      },
+      "expression": "N_obs"
+    },
+    {
+      "id": "subtracted-instead-of-dividing",
+      "description": {
+        "en": "Subtracted the dead-time fraction from the observed rate instead of dividing by it, treating the correction as additive rather than as a fraction of missed time.",
+        "et": "Lahutas surnud aja osakaalu mõõdetud sagedusest selle asemel, et sellega jagada, käsitledes korrektsiooni liitmise/lahutamisena, mitte kadunud aja osakaaluna.",
+        "sourceHash": "3a31ecde548b5e21",
+        "stale": false
+      },
+      "expression": "N_obs-N_obs*tau"
+    },
+    {
+      "id": "used-dead-time-directly-as-correction-factor",
+      "description": {
+        "en": "Divided by the dead time itself instead of by the fraction of time the detector was actually unavailable, N_obs times tau.",
+        "et": "Jagas surnud aja enda, mitte selle ajaosaga, mille jooksul detektor tegelikult ei toiminud (N_obs korda tau), väärtusega.",
+        "sourceHash": "d85d611736033f5f",
+        "stale": false
+      },
+      "expression": "N_obs/(1-tau)"
+    }
+  ]
+}

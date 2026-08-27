@@ -1,0 +1,43 @@
+{
+  "id": "ionizing-radiation-detection-and-dosimetry-deadtime",
+  "conceptId": "ionizing-radiation-detection-and-dosimetry",
+  "latex": "N_{true} = \\frac{N_{obs}}{1 - N_{obs}\\tau}",
+  "symbols": [
+    {
+      "symbol": "N_obs",
+      "name": {
+        "en": "observed count rate",
+        "et": "mõõdetud loendussagedus",
+        "sourceHash": "30ad0e8f11df0477",
+        "stale": false
+      },
+      "unit": "cps"
+    },
+    {
+      "symbol": "tau",
+      "name": {
+        "en": "dead time",
+        "et": "surnud aeg",
+        "sourceHash": "b1688493ebdf7ba8",
+        "stale": false
+      },
+      "unit": "s"
+    },
+    {
+      "symbol": "N_true",
+      "name": {
+        "en": "true count rate",
+        "et": "tegelik loendussagedus",
+        "sourceHash": "3283782d7eca3d28",
+        "stale": false
+      },
+      "unit": "cps"
+    }
+  ],
+  "solveFor": [
+    "N_true"
+  ],
+  "expressions": {
+    "N_true": "N_obs/(1-N_obs*tau)"
+  }
+}

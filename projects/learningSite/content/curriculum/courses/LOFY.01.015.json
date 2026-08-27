@@ -105,7 +105,8 @@
     "compton-scattering",
     "photoelectric-effect",
     "x-rays-and-their-production",
-    "statistical-distributions-in-measurement"
+    "statistical-distributions-in-measurement",
+    "ionizing-radiation-detection-and-dosimetry"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"

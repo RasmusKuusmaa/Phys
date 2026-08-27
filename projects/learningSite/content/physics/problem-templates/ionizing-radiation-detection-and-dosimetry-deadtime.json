@@ -1,0 +1,33 @@
+{
+  "id": "ionizing-radiation-detection-and-dosimetry-deadtime",
+  "formulaId": "ionizing-radiation-detection-and-dosimetry-deadtime",
+  "variables": [
+    {
+      "symbol": "N_obs",
+      "min": 100,
+      "max": 1000,
+      "unit": "cps",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "tau",
+      "min": 0.00005,
+      "max": 0.0002,
+      "unit": "s",
+      "sigFigs": 2
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "N_obs",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "tau",
+      "right": 0
+    }
+  ],
+  "solveFor": "N_true"
+}

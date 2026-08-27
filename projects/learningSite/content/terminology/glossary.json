@@ -1552,5 +1552,33 @@
     "et": "energianihe",
     "domain": "quantum-mechanics",
     "source": "https://et.wikipedia.org/wiki/Zeemani_efekt"
+  },
+  {
+    "id": "dead-time",
+    "en": "dead time",
+    "et": "surnud aeg",
+    "domain": "nuclear-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/surnud%20aeg/1/est"
+  },
+  {
+    "id": "count-rate",
+    "en": "count rate",
+    "et": "loendussagedus",
+    "domain": "nuclear-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/loendussagedus/1/est"
+  },
+  {
+    "id": "true-count-rate",
+    "en": "true count rate",
+    "et": "tegelik loendussagedus",
+    "domain": "nuclear-physics",
+    "source": "https://et.wikipedia.org/wiki/Geigeri_loendur"
+  },
+  {
+    "id": "observed-count-rate",
+    "en": "observed count rate",
+    "et": "mõõdetud loendussagedus",
+    "domain": "nuclear-physics",
+    "source": "https://et.wikipedia.org/wiki/Geigeri_loendur"
   }
 ]

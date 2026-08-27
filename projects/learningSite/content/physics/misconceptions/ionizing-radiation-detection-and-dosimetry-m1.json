@@ -1,0 +1,10 @@
+{
+  "id": "ionizing-radiation-detection-and-dosimetry-m1",
+  "conceptId": "ionizing-radiation-detection-and-dosimetry",
+  "text": {
+    "en": "Believing a Geiger-Müller counter's raw count rate always equals the true rate of decay events reaching it, ignoring that the detector is briefly unable to register anything right after each count (its dead time), so at high activities it silently undercounts.",
+    "et": "Uskumine, et Geiger-Mülleri loenduri toorloendussagedus võrdub alati sellele jõudvate lagunemissündmuste tegeliku sagedusega, ignoreerides, et detektor ei suuda vahetult pärast igat loendust (oma surnud aja jooksul) mõnda aega midagi registreerida, mistõttu ta kõrge aktiivsuse juures loeb vaikimisi vähem sündmusi kui tegelikult toimub.",
+    "sourceHash": "9e1ff440da20657d",
+    "stale": false
+  }
+}

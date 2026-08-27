@@ -1,0 +1,22 @@
+{
+  "id": "ionizing-radiation-detection-and-dosimetry",
+  "subject": "physics",
+  "level": "L2",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Ionizing radiation detection and dosimetry",
+    "et": "Ioniseeriva kiirguse detekteerimine ja dosimeetria",
+    "sourceHash": "4982fae0bcb4a84e",
+    "stale": false
+  },
+  "summary": {
+    "en": "Different detectors exploit different physical effects of ionizing radiation — gas ionization in Geiger-Müller counters, light flashes in scintillators, charge collection in semiconductor detectors — and each has real limitations, such as a dead time after every count during which further events go unregistered. Dosimetry turns raw counts into a biologically meaningful quantity by tracking the energy actually absorbed per unit mass of tissue.",
+    "et": "Erinevad detektorid kasutavad ioniseeriva kiirguse erinevaid füüsikalisi mõjusid — gaasi ionisatsiooni Geiger-Mülleri loenduris, valgussähvatusi stsintillaatoris, laengu kogumist poolijuhtdetektoris — ja igaühel on tegelikud piirangud, näiteks surnud aeg pärast igat loendust, mille jooksul edasised sündmused registreerimata jäävad. Dosimeetria muudab toorloendused bioloogiliselt tähendusrikkaks suuruseks, jälgides koemassi ühiku kohta tegelikult neeldunud energiat.",
+    "sourceHash": "61daa1f31dc09771",
+    "stale": false
+  },
+  "prerequisites": [
+    "radioactivity-and-half-life",
+    "radioactive-decay-modes"
+  ]
+}

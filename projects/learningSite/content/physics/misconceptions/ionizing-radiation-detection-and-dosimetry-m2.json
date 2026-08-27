@@ -1,0 +1,10 @@
+{
+  "id": "ionizing-radiation-detection-and-dosimetry-m2",
+  "conceptId": "ionizing-radiation-detection-and-dosimetry",
+  "text": {
+    "en": "Assuming any radiation detector can distinguish alpha, beta and gamma radiation equally well, when a simple Geiger-Müller tube mostly just reports \"a count happened\" and telling particle types apart needs a detector suited to that job, such as a scintillator or semiconductor spectrometer.",
+    "et": "Eeldamine, et ükskõik milline kiirgusdetektor eristab alfa-, beeta- ja gammakiirgust ühtviisi hästi, kuigi lihtne Geiger-Mülleri toru enamasti vaid registreerib \"toimus loendus\" ning osakeste tüüpide eristamiseks on vaja selleks sobivat detektorit, näiteks stsintillaatorit või poolijuht-spektromeetrit.",
+    "sourceHash": "de5942d54a58b8f1",
+    "stale": false
+  }
+}

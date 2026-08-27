@@ -127,6 +127,12 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ time: -1 }),
     toBase: 1,
   },
+  cps: {
+    symbol: "cps",
+    name: { en: "counts per second", et: "loenduid sekundis" },
+    dimension: dim({ time: -1 }),
+    toBase: 1,
+  },
   "N/m": {
     symbol: "N/m",
     name: { en: "newton per metre", et: "njuuton meetri kohta" },

@@ -198,7 +198,8 @@
     "nuclear-shell-model-spin-and-parity",
     "nuclear-reactions-and-threshold-energy",
     "the-zeeman-effect-and-stern-gerlach",
-    "fine-structure-and-spin-orbit-coupling"
+    "fine-structure-and-spin-orbit-coupling",
+    "ionizing-radiation-detection-and-dosimetry"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics1.md"

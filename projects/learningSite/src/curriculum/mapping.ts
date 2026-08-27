@@ -203,6 +203,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "nuclear-reactions-and-threshold-energy",
     "the-zeeman-effect-and-stern-gerlach",
     "fine-structure-and-spin-orbit-coupling",
+    "ionizing-radiation-detection-and-dosimetry",
   ],
   // LOFY.01.015 Tuumafüüsika eksperimentaalmeetodid — ionizing radiation and decay.
   "LOFY.01.015": [
@@ -212,6 +213,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "photoelectric-effect",
     "x-rays-and-their-production",
     "statistical-distributions-in-measurement",
+    "ionizing-radiation-detection-and-dosimetry",
   ],
   // Phase 33 electives — no scraped syllabus for any of these four, so
   // mapped to the platform concepts a learner would need as background,

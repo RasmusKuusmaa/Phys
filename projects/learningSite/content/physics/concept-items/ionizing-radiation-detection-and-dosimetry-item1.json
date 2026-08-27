@@ -1,0 +1,56 @@
+{
+  "id": "ionizing-radiation-detection-and-dosimetry-item1",
+  "conceptId": "ionizing-radiation-detection-and-dosimetry",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A Geiger-Müller counter reads a steady count rate while measuring a highly active source. Why is the source's true activity actually somewhat higher than the reading?",
+    "et": "Geiger-Mülleri loendur näitab stabiilset loendussagedust, mõõtes väga aktiivset kiirgusallikat. Miks on allika tegelik aktiivsus tegelikult mõõdetud näidust veidi suurem?",
+    "sourceHash": "332caa12829bd5e9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The counter has a dead time after each count during which further decay events go undetected, so the observed rate underestimates the true rate",
+        "et": "Loenduril on iga loenduse järel surnud aeg, mille jooksul edasised lagunemissündmused jäävad tuvastamata, mistõttu mõõdetud sagedus alahindab tegelikku sagedust",
+        "sourceHash": "8625d0c48ac205ff",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't — the reading already is the true activity, since every count corresponds to exactly one decay",
+        "et": "See ei ole — näit ise ongi tegelik aktiivsus, kuna igale loendusele vastab täpselt üks lagunemine",
+        "sourceHash": "c1f7620f06675f3b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ionizing-radiation-detection-and-dosimetry-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The counter is misclassifying some alpha particles as gamma rays, which inflates the apparent count",
+        "et": "Loendur klassifitseerib mõned alfaosakesed valesti gammakiirgusena, mis paisutab näivat loendust",
+        "sourceHash": "71ac71bc4adba1b7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ionizing-radiation-detection-and-dosimetry-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The count rate reading is actually already a dose measurement, and doses are always slightly underestimated at high activity",
+        "et": "Loendussageduse näit on tegelikult juba doosimõõtmine, ja doose alahinnatakse kõrge aktiivsuse juures alati veidi",
+        "sourceHash": "eda32e4f714bd747",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ionizing-radiation-detection-and-dosimetry-m3"
+    }
+  ]
+}

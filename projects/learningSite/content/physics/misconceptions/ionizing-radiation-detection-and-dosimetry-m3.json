@@ -1,0 +1,10 @@
+{
+  "id": "ionizing-radiation-detection-and-dosimetry-m3",
+  "conceptId": "ionizing-radiation-detection-and-dosimetry",
+  "text": {
+    "en": "Treating a count rate in counts per second as if it were already a dose, when it takes a calibrated dosimeter to convert detected events into the energy actually absorbed per unit mass of tissue — the same count rate means very different doses for different radiation types and energies.",
+    "et": "Loendussageduse (loendeid sekundis) käsitlemine juba doosina, kuigi tuvastatud sündmuste muutmiseks koemassi ühiku kohta tegelikult neeldunud energiaks on vaja kalibreeritud dosimeetrit — samasugune loendussagedus tähendab väga erinevaid doose erinevate kiirgusliikide ja energiate puhul.",
+    "sourceHash": "85c6485b7e5a6fe8",
+    "stale": false
+  }
+}
