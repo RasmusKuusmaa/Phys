@@ -890,6 +890,24 @@ door on the failure mode that started all of this.
       `/en/concepts/[id]` pages)
   `perf: address lighthouse findings after content growth`
 
+### Phase 35 — Physics and math syllabus-topic depth
+
+Course-slot coverage (Phases 15-34) is not the same as topic depth — see the
+"coverage vs complete" note above. An audit compared every physics/math
+course's actual scraped syllabus topics against what's authored; the full
+findings and remaining work queue live in
+[`content/curriculum/DEPTH-GAPS.md`](./content/curriculum/DEPTH-GAPS.md).
+
+- [x] Fix 47 UNMAPPED topics — concepts that already exist somewhere in the
+      repo but weren't linked to the course whose syllabus they satisfy
+  `content: map existing concepts to ...` (13 commits, one per course group)
+- [~] Author the 54 GAP concepts — topics with no concept anywhere on the
+      platform yet (36 physics, 18 math). First themed batch (8 foundational
+      math concepts) authored; 46 remain. Paused here to work on UX/UI
+      instead — resume from `content/curriculum/DEPTH-GAPS.md`'s authoring
+      order when content work picks back up
+  `content: author foundational math depth concepts`
+
 ### Phase 14 — Remaining subjects — SUPERSEDED
 
 Kept for the record. This phase said "add mathematics, chemistry and materials
