@@ -1,0 +1,10 @@
+{
+  "id": "bessel-legendre-and-special-functions-m1",
+  "conceptId": "bessel-legendre-and-special-functions",
+  "text": {
+    "en": "Treating Bessel functions, Legendre polynomials and the rest as an unrelated pile of formulas to memorise — missing that they play exactly the same role as sines and cosines in an ordinary Fourier series: a complete orthogonal basis for expanding an arbitrary function, just adapted to a different geometry's boundary conditions.",
+    "et": "Besseli funktsioonide, Legendre'i polünoomide ja ülejäänute käsitlemine seosetu valemite hunnikuna, mis tuleb pähe õppida — jättes tähele panemata, et need täidavad täpselt sama rolli, mida siinused ja koosinused täidavad tavalises Fourier' reas: täielik ortogonaalne baas suvalise funktsiooni arendamiseks, kohandatud vaid teistsuguse kuju rajatingimustele.",
+    "sourceHash": "84a4db0050c291ce",
+    "stale": false
+  }
+}

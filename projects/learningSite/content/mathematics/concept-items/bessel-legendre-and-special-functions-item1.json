@@ -1,0 +1,56 @@
+{
+  "id": "bessel-legendre-and-special-functions-item1",
+  "conceptId": "bessel-legendre-and-special-functions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Separating variables in Laplace's equation on a sphere, with angular symmetry, leaves behind an ODE whose solutions are which named family?",
+    "et": "Muutujate eraldamine Laplace'i võrrandis sfääril, nurgalise sümmeetriaga, jätab järele diferentsiaalvõrrandi, mille lahendid on milline nimeline pere?",
+    "sourceHash": "658fed0937a573ba",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Legendre polynomials",
+        "et": "Legendre'i polünoomid",
+        "sourceHash": "7d06b4abea123fd2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Any of these families works the same way regardless of geometry, so Bessel functions would do just as well.",
+        "et": "Kõik need pered töötavad kujust hoolimata ühtemoodi, seega sobiksid samahästi ka Besseli funktsioonid.",
+        "sourceHash": "c06753541282d37c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bessel-legendre-and-special-functions-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't matter which named family is used, since they're all just formulas to memorise with no shared underlying role.",
+        "et": "Ei ole tähtis, millist nimelist peret kasutada, kuna need on kõik lihtsalt pähe õpitavad valemid, millel ei ole ühist rolli.",
+        "sourceHash": "6b34b25d940896e8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bessel-legendre-and-special-functions-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "None of the standard named families — spherical geometry is too exotic a case for any of them to actually apply.",
+        "et": "Mitte ükski standardsetest nimelistest peredest — sfääriline kuju on liiga eksootiline juhtum, et ükski neist tegelikult kehtiks.",
+        "sourceHash": "c14f3cb8aecc0f95",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bessel-legendre-and-special-functions-m3"
+    }
+  ]
+}

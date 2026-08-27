@@ -114,7 +114,8 @@
     "separation-of-variables-and-sturm-liouville-problems",
     "classification-of-pdes-parabolic-hyperbolic-elliptic",
     "laplace-transform-methods",
-    "greens-function-method-for-odes-and-pdes"
+    "greens-function-method-for-odes-and-pdes",
+    "bessel-legendre-and-special-functions"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"

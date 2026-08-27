@@ -1,0 +1,10 @@
+{
+  "id": "bessel-legendre-and-special-functions-m3",
+  "conceptId": "bessel-legendre-and-special-functions",
+  "text": {
+    "en": "Treating these as exotic, rarely-relevant curiosities that show up only in advanced pure-math problems — missing that they fall out directly and unavoidably from separating variables in extremely ordinary physical situations: heat conduction in a cylinder, a vibrating drumhead, and the exact shape of the hydrogen atom's electron orbitals all require one of these families, not an unusual one.",
+    "et": "Nende käsitlemine eksootiliste, harva oluliste kuriositeetidena, mis ilmuvad ainult kõrgema puhta matemaatika ülesannetes — jättes tähele panemata, et need tulevad muutujate eraldamisel otse ja vältimatult välja äärmiselt tavalistes füüsikalistes olukordades: soojusjuhtivus silindris, võnkuv trumminahk ja vesinikuaatomi elektronorbitaalide täpne kuju vajavad kõik üht neist peredest, mitte midagi erakorralist.",
+    "sourceHash": "ba7fb98d027e1d0f",
+    "stale": false
+  }
+}

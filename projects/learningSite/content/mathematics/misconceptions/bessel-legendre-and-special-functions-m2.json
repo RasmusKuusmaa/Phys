@@ -1,0 +1,10 @@
+{
+  "id": "bessel-legendre-and-special-functions-m2",
+  "conceptId": "bessel-legendre-and-special-functions",
+  "text": {
+    "en": "Believing any of these families can be used interchangeably for any problem — missing that which one applies is dictated by the geometry: Bessel functions solve the radial part of a cylindrically symmetric problem, Legendre polynomials the angular part of a spherically symmetric one, and reaching for the wrong family for the coordinate system simply doesn't satisfy the equation.",
+    "et": "Arvamine, et neid perekondi võib suvalise ülesande jaoks vahetatavalt kasutada — jättes tähele panemata, et kumb kehtib, on määratud kujuga: Besseli funktsioonid lahendavad silindrilise sümmeetriaga ülesande radiaalosa, Legendre'i polünoomid sfäärilise sümmeetriaga ülesande nurgaosa, ja koordinaadistiku jaoks vale pere valimine ei rahulda võrrandit.",
+    "sourceHash": "b504c810f6cb2b60",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bessel-legendre-and-special-functions",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "differential-equations",
+  "title": {
+    "en": "Bessel functions, Legendre polynomials and other special functions",
+    "et": "Besseli funktsioonid, Legendre'i polünoomid ja teised erifunktsioonid",
+    "sourceHash": "824f494476c07c03",
+    "stale": false
+  },
+  "summary": {
+    "en": "Separating variables in Laplace's or the wave equation on a curved domain — a cylinder, a sphere, a quantum well — leaves behind a second-order ODE that isn't solved by sines, cosines or exponentials; each named family (Bessel for cylindrical symmetry, Legendre for spherical, Hermite for the quantum harmonic oscillator, Laguerre for the hydrogen atom's radial part) is the specific solution to one such equation, and together they form a complete orthogonal basis for expanding functions on that geometry, the same role sines and cosines play in ordinary Fourier series.",
+    "et": "Muutujate eraldamine Laplace'i või lainevõrrandis kõverjoonelisel kujul — silindril, sfääril, kvantsüsteemi kaevus — jätab järele teist järku diferentsiaalvõrrandi, mida siinused, koosinused või eksponentfunktsioonid ei lahenda; iga nimeline pere (Besseli funktsioonid silindrilise sümmeetria, Legendre'i polünoomid sfäärilise, Hermite'i polünoomid kvantharmoonilise ostsillaatori, Laguerre'i polünoomid vesinikuaatomi radiaalosa jaoks) on konkreetne lahend ühele säärasele võrrandile, ja kokku moodustavad need täieliku ortogonaalse baasi funktsioonide arendamiseks sellel kujul — samas rollis, mida siinused ja koosinused täidavad tavalises Fourier' reas.",
+    "sourceHash": "da28313903cca99e",
+    "stale": false
+  },
+  "prerequisites": [
+    "second-order-differential-equations"
+  ]
+}
