@@ -169,6 +169,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "lasers-and-stimulated-emission",
     "rayleigh-and-mie-scattering",
     "fresnel-equations-and-brewsters-angle",
+    "birefringence-and-wave-plates",
   ],
   "LOFY.01.009": [
     "heisenberg-uncertainty-principle",

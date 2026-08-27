@@ -240,7 +240,8 @@
     "photons-and-quanta",
     "lasers-and-stimulated-emission",
     "rayleigh-and-mie-scattering",
-    "fresnel-equations-and-brewsters-angle"
+    "fresnel-equations-and-brewsters-angle",
+    "birefringence-and-wave-plates"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

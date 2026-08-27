@@ -1,0 +1,35 @@
+{
+  "id": "wave-plate-thickness-solve-d",
+  "formulaId": "wave-plate-thickness-formula",
+  "variables": [
+    {
+      "symbol": "m",
+      "min": 0.25,
+      "max": 0.5,
+      "unit": "1",
+      "sigFigs": 2
+    },
+    {
+      "symbol": "lambda",
+      "min": 0.0000004,
+      "max": 0.0000007,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "deltan",
+      "min": 0.004,
+      "max": 0.02,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "deltan",
+      "right": 0
+    }
+  ],
+  "solveFor": "d"
+}

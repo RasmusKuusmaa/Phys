@@ -1,0 +1,37 @@
+{
+  "id": "wave-plate-thickness-solve-d",
+  "formulaId": "wave-plate-thickness-formula",
+  "solveFor": "d",
+  "mistakes": [
+    {
+      "id": "inverted-birefringence",
+      "description": {
+        "en": "Divided by wavelength and multiplied by birefringence instead of the other way round, inverting the relationship.",
+        "et": "Jagas lainepikkusega ja korrutas kaksikmurdumisega vastupidiselt õigele seosele, pöörates seose ümber.",
+        "sourceHash": "2368c4db4ac30b90",
+        "stale": false
+      },
+      "expression": "m*deltan/lambda"
+    },
+    {
+      "id": "forgot-the-order",
+      "description": {
+        "en": "Forgot to multiply by the order m, computing the thickness for a full-wave plate instead of the requested fraction.",
+        "et": "Unustas korrutada järguga m, arvutades täislaineplaadi paksuse, mitte küsitud osamurru jaoks.",
+        "sourceHash": "dd378f8bac9d7a26",
+        "stale": false
+      },
+      "expression": "lambda/deltan"
+    },
+    {
+      "id": "used-refractive-index-not-birefringence",
+      "description": {
+        "en": "Treated Δn as if it were a single refractive index around 1.5 rather than the small difference between the two indices.",
+        "et": "Käsitles Δn-i, nagu oleks see üksik murdumisnäitaja väärtusega umbes 1,5, mitte kahe näitaja väikest vahet.",
+        "sourceHash": "39b3132d9f28ce22",
+        "stale": false
+      },
+      "expression": "m*lambda/1.5"
+    }
+  ]
+}

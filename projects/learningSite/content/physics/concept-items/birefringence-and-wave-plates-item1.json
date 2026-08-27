@@ -1,0 +1,56 @@
+{
+  "id": "birefringence-and-wave-plates-item1",
+  "conceptId": "birefringence-and-wave-plates",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Linearly polarised light passes through a quarter-wave plate, oriented at 45° to the incoming polarisation. What comes out?",
+    "et": "Lineaarselt polariseeritud valgus läbib veerandlaineplaadi, mis on suunatud 45° nurga all sissetuleva polarisatsiooni suhtes. Mis tuleb välja?",
+    "sourceHash": "88a5e0db0ab67bf8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Circularly polarised light — the plate introduces a quarter-wavelength phase difference between the two perpendicular components, which are equal in amplitude at this 45° orientation.",
+        "et": "Ringpolariseeritud valgus — plaat tekitab veerandlainepikkuse suuruse faasivahe kahe üksteisega risti oleva komponendi vahel, mis on selle 45° orientatsiooni juures võrdse amplituudiga.",
+        "sourceHash": "c2a642c555d181cb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Half the original intensity, still linearly polarised — the plate absorbs the component along its slow axis.",
+        "et": "Pool algsest intensiivsusest, ikka lineaarselt polariseeritud — plaat neelab komponendi mööda oma aeglast telge.",
+        "sourceHash": "5fa641ce4983cd1c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "birefringence-and-wave-plates-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It depends only on the plate material, not its exact thickness — any birefringent slab this size would do the same thing.",
+        "et": "See sõltub ainult plaadi materjalist, mitte selle täpsest paksusest — iga selle suurusega kaksikmurduv plaat tekitaks sama tulemuse.",
+        "sourceHash": "d1d4ad8b61873609",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "birefringence-and-wave-plates-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Circularly polarised light, and this would happen at any input orientation, not just 45°.",
+        "et": "Ringpolariseeritud valgus, ja see juhtuks igal sisendi orientatsioonil, mitte ainult 45° nurga juures.",
+        "sourceHash": "28fa711f4bd673cf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "birefringence-and-wave-plates-m3"
+    }
+  ]
+}

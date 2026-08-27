@@ -1,0 +1,53 @@
+{
+  "id": "wave-plate-thickness-formula",
+  "conceptId": "birefringence-and-wave-plates",
+  "latex": "d = \\frac{m\\lambda}{\\Delta n}",
+  "symbols": [
+    {
+      "symbol": "m",
+      "name": {
+        "en": "order",
+        "et": "järk",
+        "sourceHash": "3eeb7e96e59ce40f",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "lambda",
+      "name": {
+        "en": "wavelength",
+        "et": "lainepikkus",
+        "sourceHash": "cbf73350941bee0f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "deltan",
+      "name": {
+        "en": "birefringence",
+        "et": "kaksikmurdumine",
+        "sourceHash": "ae5450eb50702abb",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "d",
+      "name": {
+        "en": "thickness",
+        "et": "paksus",
+        "sourceHash": "260c0aac8b82cc8f",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "d"
+  ],
+  "expressions": {
+    "d": "m*lambda/deltan"
+  }
+}

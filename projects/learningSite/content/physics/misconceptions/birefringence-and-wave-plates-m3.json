@@ -1,0 +1,10 @@
+{
+  "id": "birefringence-and-wave-plates-m3",
+  "conceptId": "birefringence-and-wave-plates",
+  "text": {
+    "en": "Believing a quarter-wave plate always turns light into perfectly circularly polarised light, regardless of the input polarisation's orientation — it only does so when the incoming light is linearly polarised at 45° to the plate's fast and slow axes.",
+    "et": "Uskumine, et veerandlaineplaat muudab valguse alati täpselt ringpolariseerituks, sõltumata sisendpolarisatsiooni orientatsioonist — see juhtub ainult siis, kui sissetulev valgus on lineaarselt polariseeritud 45° nurga all plaadi kiire ja aeglase telje suhtes.",
+    "sourceHash": "25411bdb22216f6d",
+    "stale": false
+  }
+}

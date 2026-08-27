@@ -1454,5 +1454,19 @@
     "et": "keerdude arv",
     "domain": "physics",
     "source": "https://et.wikipedia.org/wiki/Trafo"
+  },
+  {
+    "id": "birefringence",
+    "en": "birefringence",
+    "et": "kaksikmurdumine",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kaksikmurdumine/1/est"
+  },
+  {
+    "id": "order",
+    "en": "order",
+    "et": "järk",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/j%C3%A4rk/1/est"
   }
 ]
