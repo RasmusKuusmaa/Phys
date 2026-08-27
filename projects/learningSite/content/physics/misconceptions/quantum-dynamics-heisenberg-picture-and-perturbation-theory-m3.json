@@ -1,0 +1,10 @@
+{
+  "id": "quantum-dynamics-heisenberg-picture-and-perturbation-theory-m3",
+  "conceptId": "quantum-dynamics-heisenberg-picture-and-perturbation-theory",
+  "text": {
+    "en": "Believing time-dependent perturbation theory means the unperturbed energy eigenstates themselves gradually change shape — the eigenstates stay fixed as a basis throughout; what evolves is the probability amplitude of finding the system in each one, driven by the perturbation's matrix elements between them.",
+    "et": "Arvamus, et ajast sõltuv häiritusarvutus tähendab, et häirimata energia omaolekud muudavad ise järk-järgult kuju — omaolekud jäävad kogu aeg fikseeritud baasiks; areneb tõenäosusamplituud leida süsteem igaühes neist, mida juhivad häirituse maatrikselemendid nende vahel.",
+    "sourceHash": "17ea200b483ed3a2",
+    "stale": false
+  }
+}

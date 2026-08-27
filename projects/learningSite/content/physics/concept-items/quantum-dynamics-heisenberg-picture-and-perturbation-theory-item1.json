@@ -1,0 +1,56 @@
+{
+  "id": "quantum-dynamics-heisenberg-picture-and-perturbation-theory-item1",
+  "conceptId": "quantum-dynamics-heisenberg-picture-and-perturbation-theory",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A physicist switches a calculation from the Schrödinger picture to the Heisenberg picture. What changes, and what stays the same?",
+    "et": "Füüsik lülitab arvutuse Schrödingeri pildilt Heisenbergi pildile. Mis muutub ja mis jääb samaks?",
+    "sourceHash": "607b1ef9bd3864a0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The state vector becomes fixed and the operators now carry the time dependence, but every predicted expectation value stays exactly the same",
+        "et": "Olekuvektor muutub fikseerituks ja operaatorid kannavad nüüd ajasõltuvust, kuid iga ennustatud keskväärtus jääb täpselt samaks",
+        "sourceHash": "dd8b28602c689260",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The predicted measurement outcomes change, since it's a genuinely different physical description",
+        "et": "Ennustatud mõõtmistulemused muutuvad, kuna see on tegelikult erinev füüsikaline kirjeldus",
+        "sourceHash": "97959a52e7b9ff63",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-dynamics-heisenberg-picture-and-perturbation-theory-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The state vector keeps evolving in time just as before, only written with different notation",
+        "et": "Olekuvektor areneb ajas endiselt täpselt nagu enne, ainult teistsuguse tähistusega kirjutatuna",
+        "sourceHash": "cf95d5b0b87a901a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-dynamics-heisenberg-picture-and-perturbation-theory-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The energy eigenstates themselves gradually change shape once perturbation theory is applied",
+        "et": "Energia omaolekud ise muudavad järk-järgult kuju, kui rakendatakse häiritusarvutust",
+        "sourceHash": "d2ca3a0007f4faa4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-dynamics-heisenberg-picture-and-perturbation-theory-m3"
+    }
+  ]
+}

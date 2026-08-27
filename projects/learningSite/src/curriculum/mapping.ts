@@ -318,6 +318,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-pauli-exclusion-principle",
     "band-theory-of-solids",
     "quantum-statistics-fermi-dirac-and-bose-einstein",
+    "quantum-dynamics-heisenberg-picture-and-perturbation-theory",
   ],
   "LTFY.04.016": [
     "coupled-and-driven-oscillators",

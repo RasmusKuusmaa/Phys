@@ -1,0 +1,10 @@
+{
+  "id": "quantum-dynamics-heisenberg-picture-and-perturbation-theory-m2",
+  "conceptId": "quantum-dynamics-heisenberg-picture-and-perturbation-theory",
+  "text": {
+    "en": "Believing the state vector still evolves in time in the Heisenberg picture, just described differently — by definition the Heisenberg-picture state vector is fixed once and for all at the reference time; it is the operators that carry all the time dependence.",
+    "et": "Arvamus, et olekuvektor areneb Heisenbergi pildis endiselt ajas, ainult teisiti kirjeldatuna — definitsiooni järgi on Heisenbergi pildi olekuvektor üks kord ja alatiseks fikseeritud võrdlushetkel; kogu ajasõltuvuse kannavad operaatorid.",
+    "sourceHash": "adca3cc9d8300f38",
+    "stale": false
+  }
+}

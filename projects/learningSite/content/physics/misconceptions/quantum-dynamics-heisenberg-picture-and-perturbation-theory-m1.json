@@ -1,0 +1,10 @@
+{
+  "id": "quantum-dynamics-heisenberg-picture-and-perturbation-theory-m1",
+  "conceptId": "quantum-dynamics-heisenberg-picture-and-perturbation-theory",
+  "text": {
+    "en": "Believing the Heisenberg picture describes different physics from the Schrödinger picture — they are mathematically equivalent bookkeeping schemes that give identical predictions for every measurable expectation value; only where the time dependence is written down differs.",
+    "et": "Arvamus, et Heisenbergi pilt kirjeldab erinevat füüsikat kui Schrödingeri pilt — need on matemaatiliselt samaväärsed raamatupidamisskeemid, mis annavad identsed ennustused igale mõõdetavale keskväärtusele; erineb ainult see, kuhu ajasõltuvus kirja pannakse.",
+    "sourceHash": "cb68acf6ecb7f6bb",
+    "stale": false
+  }
+}

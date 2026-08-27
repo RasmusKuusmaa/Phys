@@ -1,0 +1,23 @@
+{
+  "id": "quantum-dynamics-heisenberg-picture-and-perturbation-theory",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "The Heisenberg picture and time-dependent perturbation theory",
+    "et": "Heisenbergi pilt ja ajast sõltuv häiritusarvutus",
+    "sourceHash": "9112d7c7e55c4789",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Schrödinger picture puts all of a quantum system's time dependence into the evolving state, with fixed operators; the Heisenberg picture is a physically equivalent bookkeeping choice that instead evolves the operators and leaves the state fixed. Time-dependent perturbation theory uses this same machinery to answer a different question — given a small time-dependent nudge to a system already sitting in an energy eigenstate, at what rate does it transition to another eigenstate — with Fermi's golden rule giving that rate to leading order.",
+    "et": "Schrödingeri pilt paneb kvantsüsteemi kogu ajasõltuvuse arenevasse olekusse, jättes operaatorid fikseerituks; Heisenbergi pilt on füüsikaliselt samaväärne raamatupidamislik valik, mis arendab selle asemel operaatoreid ja jätab oleku fikseerituks. Ajast sõltuv häiritusarvutus kasutab sama masinavärki teistsuguse küsimuse vastamiseks — kui süsteemile, mis on juba energia omaolekus, rakendatakse väikest ajast sõltuvat häiritust, millise kiirusega toimub üleminek teise omaolekusse — ja Fermi kuldreegel annab selle kiiruse esimeses lähenduses.",
+    "sourceHash": "c1b879fe62db8257",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schrodinger-equation",
+    "operators-and-observables",
+    "expectation-values-and-measurement"
+  ]
+}

@@ -157,7 +157,8 @@
     "quantum-numbers-and-atomic-orbitals",
     "the-pauli-exclusion-principle",
     "band-theory-of-solids",
-    "quantum-statistics-fermi-dirac-and-bose-einstein"
+    "quantum-statistics-fermi-dirac-and-bose-einstein",
+    "quantum-dynamics-heisenberg-picture-and-perturbation-theory"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"
