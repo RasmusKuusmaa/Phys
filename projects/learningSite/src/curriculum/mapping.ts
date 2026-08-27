@@ -706,6 +706,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "charged-particle-motion-mass-spectrometry-and-cyclotrons",
     "magnetic-materials-and-ferromagnetic-hysteresis",
     "thermionic-emission-and-vacuum-tube-devices",
+    "millikan-experiment-and-elementary-charge",
   ],
   "LOFY.01.124": [
     "lenses-and-focal-length",

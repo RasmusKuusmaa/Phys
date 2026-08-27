@@ -1,0 +1,22 @@
+{
+  "id": "millikan-experiment-and-elementary-charge",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "The Millikan oil-drop experiment and the elementary charge",
+    "et": "Millikani õlitilga katse ja elementaarlaeng",
+    "sourceHash": "e4bf69ef4be96b52",
+    "stale": false
+  },
+  "summary": {
+    "en": "Millikan suspended charged oil droplets between two capacitor plates and adjusted the electric field until each one hung motionless — gravity exactly balanced by the electric force — letting him read off that droplet's charge; repeating this for many droplets, every measured charge turned out to be a whole-number multiple of the same smallest value, showing that electric charge itself comes in discrete lumps rather than a continuous range.",
+    "et": "Millikan riputas laetud õlitilgad kahe kondensaatoriplaadi vahele ja reguleeris elektrivälja, kuni iga tilk jäi liikumatuks — raskusjõud oli täpselt tasakaalustatud elektrijõuga — mis lubas tal välja lugeda selle tilga laengu; korrates seda paljude tilkadega, osutus iga mõõdetud laeng ühe ja sama väiksema väärtuse täisarvuliseks kordseks, näidates, et elektrilaeng ise koosneb diskreetsetest tükkidest, mitte pidevast vahemikust.",
+    "sourceHash": "8e468e2024ae3587",
+    "stale": false
+  },
+  "prerequisites": [
+    "electric-fields",
+    "quantum-energy-levels"
+  ]
+}

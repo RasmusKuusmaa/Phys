@@ -120,7 +120,8 @@
     "the-hall-effect",
     "charged-particle-motion-mass-spectrometry-and-cyclotrons",
     "magnetic-materials-and-ferromagnetic-hysteresis",
-    "thermionic-emission-and-vacuum-tube-devices"
+    "thermionic-emission-and-vacuum-tube-devices",
+    "millikan-experiment-and-elementary-charge"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"

@@ -1,0 +1,56 @@
+{
+  "id": "millikan-experiment-and-elementary-charge-item1",
+  "conceptId": "millikan-experiment-and-elementary-charge",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In Millikan's experiment, a charged oil droplet hangs motionless between two capacitor plates. What does that balance actually mean, and what did repeating the measurement on many droplets reveal about charge itself?",
+    "et": "Millikani katses ripub laetud õlitilk liikumatult kahe kondensaatoriplaadi vahel. Mida see tasakaal tegelikult tähendab, ja mida mõõtmise kordamine paljude tilkadega laengu kohta paljastas?",
+    "sourceHash": "3061f9d5d4cf7b39",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Gravity and the electric force are both acting and exactly cancel; measured across many droplets, every charge turned out to be a whole-number multiple of one smallest value — charge is quantized.",
+        "et": "Nii raskusjõud kui elektrijõud mõjuvad ja tühistavad üksteist täpselt; paljude tilkade mõõtmisel osutus iga laeng ühe väikseima väärtuse täisarvuliseks kordseks — laeng on kvanditud.",
+        "sourceHash": "33130b5d4402f535",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No forces at all are acting on the droplet at that moment.",
+        "et": "Sel hetkel ei mõju tilgale üldse mingeid jõudusid.",
+        "sourceHash": "a2017ad6181e9972",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "millikan-experiment-and-elementary-charge-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Each droplet could have carried any value of charge at all.",
+        "et": "Igal tilgal võis olla suvaline laeng.",
+        "sourceHash": "9f2b9be192f587ba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "millikan-experiment-and-elementary-charge-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A droplet carrying more charge needs a stronger field to stay balanced.",
+        "et": "Suurema laenguga tilk vajab tasakaalu jaoks tugevamat välja.",
+        "sourceHash": "426db716858d3baf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "millikan-experiment-and-elementary-charge-m3"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "millikan-experiment-and-elementary-charge-solve-q",
+  "formulaId": "millikan-experiment-and-elementary-charge-balance",
+  "solveFor": "q",
+  "mistakes": [
+    {
+      "id": "inverted-the-ratio",
+      "description": {
+        "en": "Divided the electric field by the weight instead of the other way round.",
+        "et": "Jagas elektrivälja kaaluga selle asemel, et jagada vastupidi.",
+        "sourceHash": "9e08bb75f8f3fa0b",
+        "stale": false
+      },
+      "expression": "E/W"
+    },
+    {
+      "id": "multiplied-instead-of-divided",
+      "description": {
+        "en": "Multiplied the weight by the field instead of dividing.",
+        "et": "Korrutas kaalu väljaga selle asemel, et jagada.",
+        "sourceHash": "80edc3edf6ba4691",
+        "stale": false
+      },
+      "expression": "W*E"
+    }
+  ]
+}

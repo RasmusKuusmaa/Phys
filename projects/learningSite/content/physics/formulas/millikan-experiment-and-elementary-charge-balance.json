@@ -1,0 +1,43 @@
+{
+  "id": "millikan-experiment-and-elementary-charge-balance",
+  "conceptId": "millikan-experiment-and-elementary-charge",
+  "latex": "q = \\frac{W}{E}",
+  "symbols": [
+    {
+      "symbol": "W",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    },
+    {
+      "symbol": "E",
+      "name": {
+        "en": "electric field",
+        "et": "elektriväli",
+        "sourceHash": "1d19f4967106e5c2",
+        "stale": false
+      },
+      "unit": "N/C"
+    },
+    {
+      "symbol": "q",
+      "name": {
+        "en": "charge",
+        "et": "laeng",
+        "sourceHash": "97488fbab3282166",
+        "stale": false
+      },
+      "unit": "C"
+    }
+  ],
+  "solveFor": [
+    "q"
+  ],
+  "expressions": {
+    "q": "W/E"
+  }
+}

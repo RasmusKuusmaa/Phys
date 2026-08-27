@@ -1,0 +1,25 @@
+{
+  "id": "millikan-experiment-and-elementary-charge-solve-q",
+  "formulaId": "millikan-experiment-and-elementary-charge-balance",
+  "variables": [
+    {
+      "symbol": "W",
+      "min": 1e-14,
+      "max": 1e-13,
+      "unit": "N",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "E",
+      "min": 100000,
+      "max": 1000000,
+      "unit": "N/C",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "W", "right": 0 },
+    { "op": "gt", "left": "E", "right": 0 }
+  ],
+  "solveFor": "q"
+}
