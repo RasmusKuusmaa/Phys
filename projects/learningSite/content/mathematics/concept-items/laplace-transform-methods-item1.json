@@ -1,0 +1,56 @@
+{
+  "id": "laplace-transform-methods-item1",
+  "conceptId": "laplace-transform-methods",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of these statements about solving a linear ODE with the Laplace transform is correct?",
+    "et": "Milline järgnevatest väidetest lineaarse diferentsiaalvõrrandi lahendamise kohta Laplace'i teisenduse abil on õige?",
+    "sourceHash": "0588a69e1c0971f9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "After solving the transformed algebraic equation for F(s), an inverse Laplace transform is still needed to recover the time-domain solution f(t).",
+        "et": "Pärast teisendatud algebralise võrrandi lahendamist F(s) suhtes on ajatasandi lahenduse f(t) saamiseks endiselt vaja pöörd-Laplace'i teisendust.",
+        "sourceHash": "3c251e8661643b22",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "L{f'(t)} equals s·F(s), with no separate term needed for the initial condition f(0).",
+        "et": "L{f'(t)} on võrdne s·F(s)-ga, ilma et algtingimuse f(0) jaoks oleks vaja eraldi liiget.",
+        "sourceHash": "3a1c83cb2e884c5e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "laplace-transform-methods-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Once the algebraic equation is solved for F(s), the original differential equation is already fully solved — no further transform is needed.",
+        "et": "Kui algebraline võrrand on F(s) suhtes lahendatud, on algne diferentsiaalvõrrand juba täielikult lahendatud — rohkem teisendusi ei vajata.",
+        "sourceHash": "92fb87c131670b72",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "laplace-transform-methods-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The Laplace and Fourier transforms are interchangeable, so a Fourier transform table can be used in their place.",
+        "et": "Laplace'i ja Fourier' teisendus on vahetatavad, seega võib nende asemel kasutada Fourier' teisenduse tabelit.",
+        "sourceHash": "4945f901ac7983e9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "laplace-transform-methods-m3"
+    }
+  ]
+}

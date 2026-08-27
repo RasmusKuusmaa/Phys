@@ -461,6 +461,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-schrodinger-equation",
     "separation-of-variables-and-sturm-liouville-problems",
     "classification-of-pdes-parabolic-hyperbolic-elliptic",
+    "laplace-transform-methods",
   ],
   // LTFY.04.015 Kompleksmuutuja funktsioonid füüsikas.
   "LTFY.04.015": [

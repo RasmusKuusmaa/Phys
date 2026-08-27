@@ -1,0 +1,10 @@
+{
+  "id": "laplace-transform-methods-m2",
+  "conceptId": "laplace-transform-methods",
+  "text": {
+    "en": "Believing that solving the transformed algebraic equation for F(s) already answers the original problem — forgetting that F(s) lives in the frequency domain and still has to be transformed back with an inverse Laplace transform (typically via partial fractions and a lookup table) to get the actual time-domain solution f(t).",
+    "et": "Arvamine, et teisendatud algebralise võrrandi lahendamine F(s) suhtes on juba algse ülesande vastus — unustades, et F(s) elab sagedustasandis ja tuleb veel pöördteisendusega (tavaliselt osamurdude ja tabeli abil) tagasi teisendada, et saada tegelik ajatasandi lahend f(t).",
+    "sourceHash": "d3f7bf0aebcc2df3",
+    "stale": false
+  }
+}

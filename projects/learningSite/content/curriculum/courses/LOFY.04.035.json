@@ -112,7 +112,8 @@
     "the-divergence-and-stokes-theorems",
     "the-schrodinger-equation",
     "separation-of-variables-and-sturm-liouville-problems",
-    "classification-of-pdes-parabolic-hyperbolic-elliptic"
+    "classification-of-pdes-parabolic-hyperbolic-elliptic",
+    "laplace-transform-methods"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"

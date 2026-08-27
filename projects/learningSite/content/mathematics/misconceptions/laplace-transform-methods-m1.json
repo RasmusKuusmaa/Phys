@@ -1,0 +1,10 @@
+{
+  "id": "laplace-transform-methods-m1",
+  "conceptId": "laplace-transform-methods",
+  "text": {
+    "en": "Believing the Laplace transform of a derivative, L{f'(t)}, equals s·F(s) with nothing else — forgetting the initial-condition term, so L{f'(t)} = s·F(s) − f(0) collapses to just s·F(s) and the whole point of turning an initial value problem into an algebraic one is lost.",
+    "et": "Arvamine, et tuletise Laplace'i teisendus L{f'(t)} on lihtsalt s·F(s) — unustades algtingimuse liikme, mistõttu õige valem L{f'(t)} = s·F(s) − f(0) taandub eksikombel s·F(s)-ks ja kaob just see, mis muudab algväärtusülesande algebraliseks ülesandeks.",
+    "sourceHash": "4ddb3104ff6e3ecb",
+    "stale": false
+  }
+}

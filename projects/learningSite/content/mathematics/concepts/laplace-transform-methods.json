@@ -1,0 +1,22 @@
+{
+  "id": "laplace-transform-methods",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "differential-equations",
+  "title": {
+    "en": "The Laplace transform",
+    "et": "Laplace'i teisendus",
+    "sourceHash": "3fd02277ccdf91bb",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Laplace transform rewrites a function of time as a function of a complex frequency variable s, turning derivatives into multiplication by s — so a linear differential equation with given initial conditions becomes an algebraic equation, solvable by ordinary algebra and then transformed back.",
+    "et": "Laplace'i teisendus kirjutab aja funktsiooni ümber komplekssageduse muutuja s funktsioonina, muutes tuletised korrutamiseks s-ga — nii muutub antud algtingimustega lineaarne diferentsiaalvõrrand algebraliseks võrrandiks, mille saab lahendada tavalise algebraga ja seejärel tagasi teisendada.",
+    "sourceHash": "a0ea3ef2a806465f",
+    "stale": false
+  },
+  "prerequisites": [
+    "first-order-differential-equations",
+    "second-order-differential-equations"
+  ]
+}

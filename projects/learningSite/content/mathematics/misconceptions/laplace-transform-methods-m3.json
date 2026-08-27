@@ -1,0 +1,10 @@
+{
+  "id": "laplace-transform-methods-m3",
+  "conceptId": "laplace-transform-methods",
+  "text": {
+    "en": "Treating the Laplace transform as interchangeable with the Fourier transform because both turn a time-domain function into a frequency-domain one — missing that the Laplace transform's complex variable s = σ + iω has a real part that makes it converge for growing (not just decaying) signals and naturally builds in initial conditions, which is exactly why it, not the Fourier transform, is the standard tool for initial value problems.",
+    "et": "Laplace'i teisenduse käsitlemine Fourier' teisendusega vahetatavana, kuna mõlemad viivad ajatasandi funktsiooni sagedustasandisse — jättes tähele panemata, et Laplace'i teisenduse komplekssel muutujal s = σ + iω on reaalosa, mis tagab koonduvuse ka kasvavate (mitte üksnes kahanevate) signaalide korral ja arvestab loomulikult algtingimusi, mistõttu on just see, mitte Fourier' teisendus, algväärtusülesannete standardne tööriist.",
+    "sourceHash": "6b5c1e0761b17623",
+    "stale": false
+  }
+}
