@@ -1,0 +1,10 @@
+{
+  "id": "the-hall-effect-m3",
+  "conceptId": "the-hall-effect",
+  "text": {
+    "en": "The Hall voltage keeps building up for as long as the current flows, growing without bound rather than settling to a fixed value.",
+    "et": "Halli pinge kasvab seni, kuni vool voolab, suurenedes piiramatult, mitte ei saavuta kindlat püsiväärtust.",
+    "sourceHash": "1e7cc84efe46caf6",
+    "stale": false
+  }
+}

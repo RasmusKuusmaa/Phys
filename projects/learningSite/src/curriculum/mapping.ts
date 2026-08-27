@@ -132,6 +132,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "band-theory-of-solids",
     "semiconductors-and-doping",
     "superconductivity",
+    "the-hall-effect",
   ],
   "LOFY.01.008": [
     "diffraction-gratings",
@@ -696,6 +697,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "rc-circuit-transients",
     "lc-and-rlc-oscillations",
     "ac-circuits-and-impedance",
+    "the-hall-effect",
   ],
   "LOFY.01.124": [
     "lenses-and-focal-length",

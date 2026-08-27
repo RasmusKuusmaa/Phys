@@ -1,0 +1,10 @@
+{
+  "id": "the-hall-effect-m2",
+  "conceptId": "the-hall-effect",
+  "text": {
+    "en": "The Hall voltage would have the same sign whether the moving charge carriers are electrons or holes, since it's the same current either way.",
+    "et": "Halli pinge märk oleks sama, olenemata sellest, kas liikuvad laengukandjad on elektronid või aukud, sest vool on igal juhul samasugune.",
+    "sourceHash": "1d420a307f13289f",
+    "stale": false
+  }
+}

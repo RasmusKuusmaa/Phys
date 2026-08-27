@@ -1,0 +1,37 @@
+{
+  "id": "the-hall-effect-solve-vh",
+  "formulaId": "the-hall-effect-voltage",
+  "solveFor": "V_H",
+  "mistakes": [
+    {
+      "id": "inverted-the-ratio",
+      "description": {
+        "en": "Inverted the ratio, computing net divided by IB instead of IB divided by net.",
+        "et": "Pööras suhte pahupidi, arvutades net jagatuna IB-ga selle asemel, et arvutada IB jagatuna net-iga.",
+        "sourceHash": "98ae523d68c0e747",
+        "stale": false
+      },
+      "expression": "(n*0.0000000000000000001602176634*t)/(I*B)"
+    },
+    {
+      "id": "forgot-thickness",
+      "description": {
+        "en": "Left the strip's thickness out of the denominator entirely.",
+        "et": "Jättis riba paksuse nimetajast täielikult välja.",
+        "sourceHash": "846675a3f15807b1",
+        "stale": false
+      },
+      "expression": "I*B/(n*0.0000000000000000001602176634)"
+    },
+    {
+      "id": "squared-the-density",
+      "description": {
+        "en": "Squared the number density instead of using it to the first power.",
+        "et": "Võttis kontsentratsiooni ruutu selle asemel, et kasutada seda esimeses astmes.",
+        "sourceHash": "c0003bb306ee2764",
+        "stale": false
+      },
+      "expression": "I*B/(pow(n,2)*0.0000000000000000001602176634*t)"
+    }
+  ]
+}

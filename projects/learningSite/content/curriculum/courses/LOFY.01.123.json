@@ -116,7 +116,8 @@
     "spin-and-angular-momentum-in-quantum-mechanics",
     "rc-circuit-transients",
     "lc-and-rlc-oscillations",
-    "ac-circuits-and-impedance"
+    "ac-circuits-and-impedance",
+    "the-hall-effect"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"

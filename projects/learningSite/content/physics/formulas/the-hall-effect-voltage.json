@@ -1,0 +1,63 @@
+{
+  "id": "the-hall-effect-voltage",
+  "conceptId": "the-hall-effect",
+  "latex": "V_H = \\frac{IB}{net}",
+  "symbols": [
+    {
+      "symbol": "I",
+      "name": {
+        "en": "electric current",
+        "et": "elektrivool",
+        "sourceHash": "e1a0b925fa3b95ce",
+        "stale": false
+      },
+      "unit": "A"
+    },
+    {
+      "symbol": "B",
+      "name": {
+        "en": "magnetic field",
+        "et": "magnetväli",
+        "sourceHash": "8e923bfc2b2346c6",
+        "stale": false
+      },
+      "unit": "T"
+    },
+    {
+      "symbol": "n",
+      "name": {
+        "en": "number density",
+        "et": "kontsentratsioon",
+        "sourceHash": "4fc900d1bf1626b2",
+        "stale": false
+      },
+      "unit": "1/m^3"
+    },
+    {
+      "symbol": "t",
+      "name": {
+        "en": "thickness",
+        "et": "paksus",
+        "sourceHash": "260c0aac8b82cc8f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "V_H",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    }
+  ],
+  "solveFor": [
+    "V_H"
+  ],
+  "expressions": {
+    "V_H": "I*B/(n*0.0000000000000000001602176634*t)"
+  }
+}

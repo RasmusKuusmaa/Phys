@@ -1,0 +1,41 @@
+{
+  "id": "the-hall-effect-solve-vh",
+  "formulaId": "the-hall-effect-voltage",
+  "variables": [
+    {
+      "symbol": "I",
+      "min": 0.5,
+      "max": 5,
+      "unit": "A",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "B",
+      "min": 0.2,
+      "max": 2,
+      "unit": "T",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "n",
+      "min": 1e21,
+      "max": 1e23,
+      "unit": "1/m^3",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "t",
+      "min": 0.0002,
+      "max": 0.001,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "I", "right": 0 },
+    { "op": "gt", "left": "B", "right": 0 },
+    { "op": "gt", "left": "n", "right": 0 },
+    { "op": "gt", "left": "t", "right": 0 }
+  ],
+  "solveFor": "V_H"
+}

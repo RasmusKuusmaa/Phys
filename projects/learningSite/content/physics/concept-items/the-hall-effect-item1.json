@@ -1,0 +1,56 @@
+{
+  "id": "the-hall-effect-item1",
+  "conceptId": "the-hall-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A current-carrying strip sits in a magnetic field pointing perpendicular to the strip's flat face. Why does a small transverse voltage appear across the strip's width?",
+    "et": "Vooluga metalliriba asub magnetväljas, mis on suunatud riba lamedale pinnale risti. Miks tekib riba laiuse suunas väike ristipinge?",
+    "sourceHash": "8c294d8c07ba20b5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The magnetic force pushes the moving charge carriers sideways until the resulting charge buildup creates an electric field that balances that force.",
+        "et": "Magnetjõud surub liikuvad laengukandjad kõrvale, kuni tekkiv laengukogunemine loob elektrivälja, mis magnetjõu tasakaalustab.",
+        "sourceHash": "149c708e69c462d3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The magnetic field bends the current itself into a curved path across the strip.",
+        "et": "Magnetväli kõverdab voolu ennast riba ristisuunas kõverale trajektoorile.",
+        "sourceHash": "5dcc35e3af69a1f9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hall-effect-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The voltage's sign is fixed and doesn't depend on whether the carriers are electrons or holes.",
+        "et": "Pinge märk on fikseeritud ja ei sõltu sellest, kas laengukandjad on elektronid või aukud.",
+        "sourceHash": "4460e905225a293e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hall-effect-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The voltage keeps rising for as long as the current flows.",
+        "et": "Pinge kasvab jätkuvalt, kuni vool voolab.",
+        "sourceHash": "3048e0310a6c8b8d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hall-effect-m3"
+    }
+  ]
+}

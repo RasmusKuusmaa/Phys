@@ -119,7 +119,8 @@
     "voltage-and-resistance",
     "band-theory-of-solids",
     "semiconductors-and-doping",
-    "superconductivity"
+    "superconductivity",
+    "the-hall-effect"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",
