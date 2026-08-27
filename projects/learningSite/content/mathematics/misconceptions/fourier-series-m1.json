@@ -1,0 +1,10 @@
+{
+  "id": "fourier-series-m1",
+  "conceptId": "fourier-series",
+  "text": {
+    "en": "Believes a Fourier series can represent any function at all, without the Dirichlet conditions (finitely many discontinuities and extrema per period, and absolute integrability) that guarantee convergence.",
+    "et": "Arvab, et Fourier' rida saab esitada suvalist funktsiooni, ilma Dirichlet' tingimusteta (lõplik arv katkevuspunkte ja ekstreemume perioodi kohta ning absoluutne integreeritavus), mis koonduvust tagavad.",
+    "sourceHash": "10c854f85df95cc5",
+    "stale": false
+  }
+}

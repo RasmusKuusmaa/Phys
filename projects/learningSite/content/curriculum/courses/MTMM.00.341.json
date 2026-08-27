@@ -34,7 +34,8 @@
     "partial-derivatives",
     "vector-spaces",
     "first-order-differential-equations",
-    "second-order-differential-equations"
+    "second-order-differential-equations",
+    "fourier-series"
   ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"

@@ -1,0 +1,10 @@
+{
+  "id": "fourier-series-m3",
+  "conceptId": "fourier-series",
+  "text": {
+    "en": "Assumes an odd function's Fourier series must contain cosine terms too, not recognising that the orthogonality argument forces every cosine coefficient to vanish for an odd function.",
+    "et": "Eeldab, et paaritu funktsiooni Fourier' rida peab sisaldama ka koosinusliikmeid, mõistmata, et ortogonaalsuse argument sunnib paaritu funktsiooni korral kõik koosinuskordajad nulliks.",
+    "sourceHash": "190efff6bac5f1da",
+    "stale": false
+  }
+}

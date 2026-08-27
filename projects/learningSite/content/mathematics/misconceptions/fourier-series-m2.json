@@ -1,0 +1,10 @@
+{
+  "id": "fourier-series-m2",
+  "conceptId": "fourier-series",
+  "text": {
+    "en": "Believes a Fourier series always converges exactly to the original function at every point, including at a jump discontinuity, rather than to the average of the left- and right-hand limits there.",
+    "et": "Arvab, et Fourier' rida koondub alati täpselt algfunktsiooni väärtuseks igas punktis, sealhulgas hüpplikus katkevuspunktis, mitte vasak- ja parempoolse piirväärtuse keskväärtuseks seal.",
+    "sourceHash": "d9c74acef589de65",
+    "stale": false
+  }
+}

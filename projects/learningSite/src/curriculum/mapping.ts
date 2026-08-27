@@ -384,6 +384,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "vector-spaces",
     "first-order-differential-equations",
     "second-order-differential-equations",
+    "fourier-series",
   ],
   // Tõenäosusteooria ja matemaatiline statistika.
   "MTMS.02.059": [

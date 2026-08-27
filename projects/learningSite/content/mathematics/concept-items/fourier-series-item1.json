@@ -1,0 +1,56 @@
+{
+  "id": "fourier-series-item1",
+  "conceptId": "fourier-series",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A periodic function has a jump discontinuity at x = x₀. What does its Fourier series converge to at x₀?",
+    "et": "Perioodilisel funktsioonil on hüppeline katkevus punktis x = x₀. Milleni Fourier' rida punktis x₀ koondub?",
+    "sourceHash": "df7d1bce5b8a4dc1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The average of the left-hand and right-hand limits of the function at x₀",
+        "et": "Funktsiooni vasak- ja parempoolse piirväärtuse keskväärtuseks punktis x₀",
+        "sourceHash": "042a1d6da3e41a6b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The function's actual value at x₀, since Fourier series always converge pointwise to the function",
+        "et": "Funktsiooni tegelikule väärtusele punktis x₀, kuna Fourier' rida koondub alati punktiviisiliselt funktsiooniks",
+        "sourceHash": "4617de2eea03aa6a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fourier-series-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The series diverges, since any discontinuity violates the conditions needed for a Fourier series to exist at all",
+        "et": "Rida hajub, kuna mistahes katkevus rikub tingimused, mis on vajalikud Fourier' rea olemasoluks üldse",
+        "sourceHash": "9eb90840018c22ee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fourier-series-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The right-hand limit only, since the series is built from cosine terms that dominate near a jump",
+        "et": "Ainult parempoolsele piirväärtusele, kuna rida on ehitatud koosinusliikmetest, mis domineerivad hüppe lähedal",
+        "sourceHash": "775d326bdb21508e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fourier-series-m3"
+    }
+  ]
+}
