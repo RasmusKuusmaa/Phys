@@ -1,0 +1,56 @@
+{
+  "id": "canonical-transformations-and-hamilton-jacobi-theory-item1",
+  "conceptId": "canonical-transformations-and-hamilton-jacobi-theory",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A canonical transformation is found for which the new Hamiltonian is identically zero. What does this tell you about the new position and momentum coordinates?",
+    "et": "Leitakse kanooniline teisendus, mille korral uus Hamiltoni funktsioon on identselt null. Mida see ütleb uute asukoha- ja impulsikoordinaatide kohta?",
+    "sourceHash": "84300ea34a2ca847",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They are all constant in time, so the problem's motion is solved directly",
+        "et": "Need on kõik ajas konstantsed, nii et ülesande liikumine on otse lahendatud",
+        "sourceHash": "439b12ae67cd1770",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The system has no energy left, since the Hamiltonian usually represents the energy",
+        "et": "Süsteemil ei ole energiat järel, kuna Hamiltoni funktsioon esindab tavaliselt energiat",
+        "sourceHash": "e88d9ea80148d4e2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "canonical-transformations-and-hamilton-jacobi-theory-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This must be one of the rare, invalid transformations, since a physical system's Hamiltonian can't become zero",
+        "et": "See peab olema üks harva esinevatest kehtetutest teisendustest, kuna füüsikalise süsteemi Hamiltoni funktsioon ei saa muutuda nulliks",
+        "sourceHash": "56cbcbe3c193dba6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "canonical-transformations-and-hamilton-jacobi-theory-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It means every canonical transformation of this system must also make the Hamiltonian zero from now on",
+        "et": "See tähendab, et iga selle süsteemi kanooniline teisendus peab nüüdsest ka Hamiltoni funktsiooni nulliks muutma",
+        "sourceHash": "fa5e77a4ce28e34f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "canonical-transformations-and-hamilton-jacobi-theory-m3"
+    }
+  ]
+}

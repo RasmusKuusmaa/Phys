@@ -1,0 +1,10 @@
+{
+  "id": "canonical-transformations-and-hamilton-jacobi-theory-m3",
+  "conceptId": "canonical-transformations-and-hamilton-jacobi-theory",
+  "text": {
+    "en": "Believing the goal of a canonical transformation is always to make the new Hamiltonian exactly zero. That is the specific, most powerful choice used in Hamilton–Jacobi theory, but canonical transformations are used far more broadly — sometimes just to simplify a problem's coordinates, or to move to action-angle variables, while leaving the new Hamiltonian nonzero but simpler.",
+    "et": "Arvamus, et kanoonilise teisenduse eesmärk on alati muuta uus Hamiltoni funktsioon täpselt nulliks. See on konkreetne, kõige jõulisem valik, mida kasutatakse Hamilton-Jacobi teoorias, kuid kanoonilisi teisendusi kasutatakse palju laiemalt — mõnikord vaid ülesande koordinaatide lihtsustamiseks või tegevus-nurk muutujatele üleminekuks, jättes uue Hamiltoni funktsiooni mittenulliliseks, kuid lihtsamaks.",
+    "sourceHash": "00a695c39b7996b8",
+    "stale": false
+  }
+}

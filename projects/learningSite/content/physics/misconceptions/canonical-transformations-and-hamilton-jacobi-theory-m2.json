@@ -1,0 +1,10 @@
+{
+  "id": "canonical-transformations-and-hamilton-jacobi-theory-m2",
+  "conceptId": "canonical-transformations-and-hamilton-jacobi-theory",
+  "text": {
+    "en": "Believing solving the Hamilton–Jacobi equation is just another, equally laborious way of getting the same equations of motion you'd get from the ordinary Hamiltonian formalism, rather than a fundamentally different payoff — a complete solution of the Hamilton–Jacobi equation hands you the full motion directly, with the new coordinates simply constant, rather than a set of differential equations still left to integrate.",
+    "et": "Arvamus, et Hamilton-Jacobi võrrandi lahendamine on vaid teine, võrdselt vaevaline viis saada samad liikumisvõrrandid, mis tavalisest Hamiltoni formalismist, selle asemel, et see oleks põhimõtteliselt erinev tasu — Hamilton-Jacobi võrrandi täielik lahend annab otse täieliku liikumise, kus uued koordinaadid on lihtsalt konstantsed, mitte diferentsiaalvõrrandite hulga, mis on veel integreerimata.",
+    "sourceHash": "90544c4e7b09d997",
+    "stale": false
+  }
+}

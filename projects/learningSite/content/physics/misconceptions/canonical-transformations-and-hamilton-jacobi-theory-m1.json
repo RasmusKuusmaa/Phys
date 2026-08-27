@@ -1,0 +1,10 @@
+{
+  "id": "canonical-transformations-and-hamilton-jacobi-theory-m1",
+  "conceptId": "canonical-transformations-and-hamilton-jacobi-theory",
+  "text": {
+    "en": "Believing any change of variables from old positions and momenta to new ones is automatically canonical. Most coordinate changes destroy the structure of Hamilton's equations; a transformation only earns the name canonical if it preserves that structure (equivalently, preserves the fundamental Poisson brackets) for the new coordinates too.",
+    "et": "Arvamus, et iga muutujate vahetus vanadelt asukoha- ja impulsikoordinaatidelt uutele on automaatselt kanooniline. Enamik koordinaatide vahetusi hävitab Hamiltoni võrrandite struktuuri; teisendus väärib nimetust kanooniline ainult siis, kui see säilitab selle struktuuri (samaväärselt, säilitab fundamentaalsed Poissoni sulud) ka uute koordinaatide jaoks.",
+    "sourceHash": "94d71136bb95c5f0",
+    "stale": false
+  }
+}

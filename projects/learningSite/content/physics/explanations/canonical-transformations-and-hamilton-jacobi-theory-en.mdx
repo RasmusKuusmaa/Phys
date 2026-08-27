@@ -1,0 +1,31 @@
+Hamiltonian mechanics already buys you a lot of freedom in how you describe
+a system, but not every change of position and momentum variables is
+allowed. A canonical transformation is one that keeps Hamilton's equations
+looking exactly like Hamilton's equations in the new coordinates — it
+preserves the underlying structure (the Poisson brackets), even though the
+new coordinates might look nothing like position and momentum in any
+familiar sense.
+
+That freedom turns out to be enormous. Among all the canonical
+transformations available for a given system, there is (locally) one that
+makes the new Hamiltonian identically zero everywhere. If the new
+Hamiltonian is zero, Hamilton's equations say the new coordinates don't
+change in time at all — they're constants, fixed by the system's initial
+conditions. Finding the generating function for that specific
+transformation is the content of the Hamilton–Jacobi equation, a single
+first-order partial differential equation in the old coordinates and time.
+
+This reframes the entire problem. Instead of solving a system of coupled
+ordinary differential equations for how position and momentum evolve, you
+solve one partial differential equation for a single function, and the
+motion falls out algebraically from its derivatives — no further
+integration needed. It's rarely the easiest path for a generic problem, but
+for systems with enough symmetry it separates beautifully into one ordinary
+equation per coordinate, and it's the route that carries most directly into
+the WKB approximation and, from there, into quantum mechanics.
+
+The one thing to hold onto: making the Hamiltonian zero is a specific,
+maximally ambitious goal for one particular use of canonical
+transformations. The transformations themselves are used far more broadly —
+simplifying coordinates, or moving to variables suited to periodic motion —
+without needing to drive the Hamiltonian all the way to zero every time.

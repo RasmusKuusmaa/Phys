@@ -244,7 +244,8 @@
     "lorentz-force",
     "liouvilles-theorem-and-phase-space",
     "noethers-theorem-and-symmetries",
-    "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics"
+    "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics",
+    "canonical-transformations-and-hamilton-jacobi-theory"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md",

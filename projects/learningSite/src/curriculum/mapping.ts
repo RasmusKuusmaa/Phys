@@ -336,6 +336,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "liouvilles-theorem-and-phase-space",
     "noethers-theorem-and-symmetries",
     "nonholonomic-constraints-and-lagrange-multipliers-in-mechanics",
+    "canonical-transformations-and-hamilton-jacobi-theory",
   ],
   "LTFY.01.011": [
     "combining-uncertainties",

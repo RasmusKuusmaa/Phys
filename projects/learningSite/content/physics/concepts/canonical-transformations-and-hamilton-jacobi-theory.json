@@ -1,0 +1,21 @@
+{
+  "id": "canonical-transformations-and-hamilton-jacobi-theory",
+  "subject": "physics",
+  "level": "L3",
+  "module": "mechanics",
+  "title": {
+    "en": "Canonical transformations and Hamilton–Jacobi theory",
+    "et": "Kanoonilised teisendused ja Hamilton-Jacobi teooria",
+    "sourceHash": "7e70aa0078976f1e",
+    "stale": false
+  },
+  "summary": {
+    "en": "A canonical transformation changes position and momentum coordinates while preserving Hamilton's equations' form; the most powerful choice makes the new Hamiltonian identically zero, so every new coordinate is constant in time — finding the generating function that does this is the Hamilton–Jacobi equation, and solving it is equivalent to solving the entire motion at once.",
+    "et": "Kanooniline teisendus muudab asukoha- ja impulsikoordinaate, säilitades Hamiltoni võrrandite kuju; kõige jõulisem valik muudab uue Hamiltoni funktsiooni identselt nulliks, nii et iga uus koordinaat on ajas konstantne — sellise omadusega genereeriva funktsiooni leidmine on Hamilton-Jacobi võrrand, ja selle lahendamine on samaväärne kogu liikumise ühekorraga lahendamisega.",
+    "sourceHash": "939a3369eba06cc8",
+    "stale": false
+  },
+  "prerequisites": [
+    "hamiltonian-mechanics"
+  ]
+}
