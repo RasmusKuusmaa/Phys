@@ -2,7 +2,7 @@
 
 Status: the 47 UNMAPPED fixes listed below are done (see `git log` for
 "content: map existing concepts to ..." commits and `src/curriculum/mapping.ts`).
-Of the 54 GAP concepts, two authoring-order groups are done — 18/54 total:
+Of the 54 GAP concepts, three authoring-order groups are done — 27/54 total:
 
 - Foundational math (8): `improper-integrals`, `curve-sketching-with-derivatives`,
   `fourier-series`, `multivariable-optimization-and-lagrange-multipliers`,
@@ -14,12 +14,20 @@ Of the 54 GAP concepts, two authoring-order groups are done — 18/54 total:
   `separation-of-variables-and-sturm-liouville-problems`,
   `classification-of-pdes-parabolic-hyperbolic-elliptic`, `laplace-transform-methods`,
   `greens-function-method-for-odes-and-pdes`, `bessel-legendre-and-special-functions`.
+- Electricity/magnetism device physics (9): `the-hall-effect`,
+  `thevenin-and-norton-equivalent-circuits`, `transformers-and-ac-power-distribution`,
+  `charged-particle-motion-mass-spectrometry-and-cyclotrons`,
+  `magnetic-materials-and-ferromagnetic-hysteresis`,
+  `electric-motors-generators-and-thermoelectric-effects`,
+  `thermionic-emission-and-vacuum-tube-devices`,
+  `millikan-experiment-and-elementary-charge`,
+  `piezoelectric-and-ferroelectric-materials`.
 
-The remaining 36 GAP concepts across five themed groups (EM device physics —
-next up; optics; modern/nuclear/atomic; statistical/quantum theory; analytical
-mechanics; global physics/astro) are not started — this file is their queue.
-Resume by taking the next themed group from the "Suggested authoring order"
-section below and following `CONTRIBUTING.md`'s scaffold workflow per concept.
+The remaining 27 GAP concepts across five themed groups (optics — next up;
+modern/nuclear/atomic; statistical/quantum theory; analytical mechanics;
+global physics/astro) are not started — this file is their queue. Resume by
+taking the next themed group from the "Suggested authoring order" section
+below and following `CONTRIBUTING.md`'s scaffold workflow per concept.
 
 
 Method: for every in-scope course, `content/curriculum/courses/<CODE>.json` was read for its
