@@ -126,7 +126,8 @@
     "ideal-gas-law",
     "phase-transitions",
     "maxwell-thermodynamic-relations",
-    "critical-phenomena-and-continuous-phase-transitions"
+    "critical-phenomena-and-continuous-phase-transitions",
+    "liouvilles-theorem-and-phase-space"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"

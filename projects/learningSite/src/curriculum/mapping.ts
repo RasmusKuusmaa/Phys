@@ -299,6 +299,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "phase-transitions",
     "maxwell-thermodynamic-relations",
     "critical-phenomena-and-continuous-phase-transitions",
+    "liouvilles-theorem-and-phase-space",
   ],
   "LOFY.04.073": [
     "heisenberg-uncertainty-principle",
@@ -330,6 +331,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "non-inertial-frames-and-fictitious-forces",
     "hamiltonian-mechanics",
     "lorentz-force",
+    "liouvilles-theorem-and-phase-space",
   ],
   "LTFY.01.011": [
     "combining-uncertainties",

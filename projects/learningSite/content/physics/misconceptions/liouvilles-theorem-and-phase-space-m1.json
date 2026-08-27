@@ -1,0 +1,10 @@
+{
+  "id": "liouvilles-theorem-and-phase-space-m1",
+  "conceptId": "liouvilles-theorem-and-phase-space",
+  "text": {
+    "en": "Believing Liouville's theorem means a region of phase space keeps its shape as the system evolves — the shape can stretch and fold into an arbitrarily complicated, filamented pattern (chaotic mixing does exactly this); only the enclosed volume stays fixed.",
+    "et": "Arvamus, et Liouville'i teoreem tähendab, et faasiruumi piirkond säilitab oma kuju süsteemi arenedes — kuju võib sirutuda ja voltuda suvaliselt keeruliseks, niitjaks mustriks (kaootiline segunemine teeb täpselt seda); fikseerituks jääb ainult ümbritsetud ruumala.",
+    "sourceHash": "5e022a5e03e409a8",
+    "stale": false
+  }
+}

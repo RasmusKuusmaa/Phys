@@ -1,0 +1,21 @@
+{
+  "id": "liouvilles-theorem-and-phase-space",
+  "subject": "physics",
+  "level": "L3",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "Liouville's theorem and phase space",
+    "et": "Liouville'i teoreem ja faasiruum",
+    "sourceHash": "d4b58a19fbf8df63",
+    "stale": false
+  },
+  "summary": {
+    "en": "Liouville's theorem says that as a cloud of representative points in phase space (each one a whole system's position and momentum coordinates) evolves under Hamilton's equations, the density of points around any given one stays constant — the cloud's shape can stretch and fold arbitrarily, but its phase-space volume never compresses or expands, exactly the property that lets statistical mechanics treat probability as conserved along a trajectory rather than something that has to be tracked separately.",
+    "et": "Liouville'i teoreem ütleb, et kui esinduspunktide pilv faasiruumis (igaüks neist on terve süsteemi asend- ja impulsskoordinaadid) areneb Hamiltoni võrrandite järgi, jääb punktide tihedus mistahes punkti ümbruses konstantseks — pilve kuju võib suvaliselt sirutuda ja voltuda, kuid selle faasiruumi ruumala ei kahane ega paisu kunagi; just see omadus lubab statistilisel mehaanikal käsitleda tõenäosust trajektoori pikuti säilivana, mitte eraldi jälgitava suurusena.",
+    "sourceHash": "f78e6ef834d7a53c",
+    "stale": false
+  },
+  "prerequisites": [
+    "microstates-and-multiplicity"
+  ]
+}

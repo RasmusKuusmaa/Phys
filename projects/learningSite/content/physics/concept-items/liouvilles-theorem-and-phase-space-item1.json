@@ -1,0 +1,56 @@
+{
+  "id": "liouvilles-theorem-and-phase-space-item1",
+  "conceptId": "liouvilles-theorem-and-phase-space",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A blob of representative points in phase space evolves under Hamilton's equations for a long time, stretching into a long, thin, tangled filament. According to Liouville's theorem, what is true of this filament compared to the original blob?",
+    "et": "Esinduspunktide pundar faasiruumis areneb Hamiltoni võrrandite järgi pika aja jooksul, sirutudes pikaks, õhukeseks ja põimunud niidiks. Mis on Liouville'i teoreemi kohaselt tõsi selle niidi kohta võrreldes algse pundaraga?",
+    "sourceHash": "fe7fb6536113bb20",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It has exactly the same phase-space volume as the original blob, however tangled its shape has become",
+        "et": "Sellel on täpselt samasugune faasiruumi ruumala kui algsel pundaral, ükskõik kui põimunud selle kuju on muutunud",
+        "sourceHash": "74b2d0cd8d281032",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It has the same shape as the original blob, just relocated elsewhere in phase space",
+        "et": "Sellel on sama kuju, mis algsel pundaral, ainult teise kohta faasiruumis viidud",
+        "sourceHash": "753a2dc1dfed5c05",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "liouvilles-theorem-and-phase-space-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Its volume must have grown, since entropy always increases",
+        "et": "Selle ruumala peab olema kasvanud, kuna entroopia kasvab alati",
+        "sourceHash": "df46fd5d68524fe1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "liouvilles-theorem-and-phase-space-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The theorem doesn't apply here unless the blob represents a many-particle gas",
+        "et": "Teoreem ei kehti siin, kui pundar ei kujuta paljude osakestega gaasi",
+        "sourceHash": "31f6a0eadcc7a3e7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "liouvilles-theorem-and-phase-space-m3"
+    }
+  ]
+}

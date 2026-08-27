@@ -1,0 +1,10 @@
+{
+  "id": "liouvilles-theorem-and-phase-space-m3",
+  "conceptId": "liouvilles-theorem-and-phase-space",
+  "text": {
+    "en": "Believing Liouville's theorem is a special property of gases made of many particles — it holds for any Hamiltonian system at all, including a single frictionless pendulum, purely because Hamilton's equations make the phase-space flow divergence-free; the number of particles is irrelevant.",
+    "et": "Arvamus, et Liouville'i teoreem on paljudest osakestest koosnevate gaaside erijoon — see kehtib iga Hamiltoni süsteemi jaoks, sealhulgas ühe hõõrdumatu pendli jaoks, ainuüksi seetõttu, et Hamiltoni võrrandid teevad faasiruumi voo divergentsivabaks; osakeste arv ei ole oluline.",
+    "sourceHash": "2bf38cf4e055acc4",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "liouvilles-theorem-and-phase-space-m2",
+  "conceptId": "liouvilles-theorem-and-phase-space",
+  "text": {
+    "en": "Thinking a conserved phase-space volume contradicts the second law, since entropy is supposed to increase — the exact, fine-grained volume is conserved, but coarse-grained entropy (the volume of the smallest region you can actually resolve) grows as the true region stretches into ever-finer filaments packed into the same fine-grained volume.",
+    "et": "Arvamus, et säilinud faasiruumi ruumala on vastuolus teise seadusega, kuna entroopia peaks kasvama — täpne, peentäpne ruumala säilib, kuid jämetäpne entroopia (väikseima piirkonna ruumala, mida tegelikult on võimalik eristada) kasvab, kuna tegelik piirkond sirutub üha peenemateks niitideks, mis on pakitud samasse peentäpsesse ruumalasse.",
+    "sourceHash": "f77dba0b4f9ba38e",
+    "stale": false
+  }
+}
