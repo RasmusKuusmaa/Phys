@@ -158,7 +158,8 @@
     "the-pauli-exclusion-principle",
     "band-theory-of-solids",
     "quantum-statistics-fermi-dirac-and-bose-einstein",
-    "quantum-dynamics-heisenberg-picture-and-perturbation-theory"
+    "quantum-dynamics-heisenberg-picture-and-perturbation-theory",
+    "basics-of-molecular-quantum-mechanics"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"

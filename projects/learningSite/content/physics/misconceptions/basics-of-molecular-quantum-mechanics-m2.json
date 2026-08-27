@@ -1,0 +1,10 @@
+{
+  "id": "basics-of-molecular-quantum-mechanics-m2",
+  "conceptId": "basics-of-molecular-quantum-mechanics",
+  "text": {
+    "en": "Treating a molecule's vibration and rotation as classical motion that can take any energy, like a real spring or a spinning top — both are quantized, restricted to discrete ladders of allowed energy levels, which is exactly why molecules absorb and emit light only at specific vibrational and rotational spectral lines rather than a smooth continuum.",
+    "et": "Molekuli võnkumise ja pöörlemise käsitlemine klassikalise liikumisena, mis võib omada suvalist energiat, nagu tavaline vedru või pöörlev tipp — mõlemad on kvantiseeritud, piiratud lubatud energiatasemete diskreetsete jadadega, ja just seepärast neelavad ja kiirgavad molekulid valgust ainult konkreetsetel võnke- ja pöörlemisspektri joontel, mitte sujuvas pidevas spektris.",
+    "sourceHash": "b2750ea4295d35ca",
+    "stale": false
+  }
+}

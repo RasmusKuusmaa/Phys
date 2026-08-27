@@ -319,6 +319,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "band-theory-of-solids",
     "quantum-statistics-fermi-dirac-and-bose-einstein",
     "quantum-dynamics-heisenberg-picture-and-perturbation-theory",
+    "basics-of-molecular-quantum-mechanics",
   ],
   "LTFY.04.016": [
     "coupled-and-driven-oscillators",

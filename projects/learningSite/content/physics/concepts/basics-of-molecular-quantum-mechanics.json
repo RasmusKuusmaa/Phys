@@ -1,0 +1,21 @@
+{
+  "id": "basics-of-molecular-quantum-mechanics",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Basics of molecular quantum mechanics",
+    "et": "Molekulaarse kvantmehaanika alused",
+    "sourceHash": "a71da82ce16011c3",
+    "stale": false
+  },
+  "summary": {
+    "en": "A molecule's full Schrödinger equation couples every electron's motion to every nucleus's motion, which is intractable directly — the Born-Oppenheimer approximation exploits the huge mass difference between nuclei and electrons to solve them separately: electrons adjust to the nuclei's positions essentially instantly, giving a potential energy surface on which the much heavier, slower nuclei then vibrate and rotate, each motion quantized into its own ladder of discrete energy levels.",
+    "et": "Molekuli täielik Schrödingeri võrrand seob kokku igas elektroni ja igas tuuma liikumise, mis on otse lahendamatu — Born-Oppenheimeri lähendus kasutab tuumade ja elektronide vahelist suurt massivahet, et need eraldi lahendada: elektronid kohanevad tuumade asenditega sisuliselt kohe, andes potentsiaalse energia pinna, millel palju raskemad ja aeglasemad tuumad seejärel võnguvad ja pöörlevad, kusjuures kumbki liikumine on kvantiseeritud oma diskreetsete energiatasemete jadaks.",
+    "sourceHash": "1c9ec957a14a1a21",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schrodinger-equation"
+  ]
+}

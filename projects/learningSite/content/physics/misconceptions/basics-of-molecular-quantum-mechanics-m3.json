@@ -1,0 +1,10 @@
+{
+  "id": "basics-of-molecular-quantum-mechanics-m3",
+  "conceptId": "basics-of-molecular-quantum-mechanics",
+  "text": {
+    "en": "Thinking of the potential energy surface as a single number, like a molecule's total energy — it's a whole function of every possible arrangement of the nuclei, a landscape whose valleys and hills describe how the energy changes as bond lengths and angles change, with the observed equilibrium geometry sitting at a minimum of that landscape.",
+    "et": "Potentsiaalse energia pinna kujutamine ühe arvuna, nagu molekuli koguenergia — see on terve funktsioon kõikidest tuumade võimalikest paigutustest, maastik, mille orud ja mäed kirjeldavad, kuidas energia muutub sideme pikkuste ja nurkade muutudes, kusjuures vaadeldav tasakaalugeomeetria asub selle maastiku miinimumis.",
+    "sourceHash": "81a4b6434810db08",
+    "stale": false
+  }
+}

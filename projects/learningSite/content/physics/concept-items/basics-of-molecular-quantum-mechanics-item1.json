@@ -1,0 +1,56 @@
+{
+  "id": "basics-of-molecular-quantum-mechanics-item1",
+  "conceptId": "basics-of-molecular-quantum-mechanics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the Born-Oppenheimer approximation let you solve a molecule's electronic Schrödinger equation for a fixed nuclear geometry, then treat nuclear motion separately?",
+    "et": "Miks lubab Born-Oppenheimeri lähendus lahendada molekuli elektronse Schrödingeri võrrandi fikseeritud tuumade geomeetria korral ning käsitleda seejärel tuumade liikumist eraldi?",
+    "sourceHash": "a1467f2ba5a174f8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because nuclei are thousands of times heavier than electrons, so electrons adjust to any nuclear arrangement essentially instantly",
+        "et": "Kuna tuumad on tuhandeid kordi raskemad kui elektronid, kohanevad elektronid iga tuumade paigutusega sisuliselt koheselt",
+        "sourceHash": "b300600467770887",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the nuclei stop moving entirely once the approximation is applied",
+        "et": "Kuna tuumad lakkavad täielikult liikumast, kui lähendust rakendatakse",
+        "sourceHash": "7638e364f8e1fb4b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "basics-of-molecular-quantum-mechanics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because nuclear vibration and rotation are classical motions with no quantization to worry about",
+        "et": "Kuna tuumade võnkumine ja pöörlemine on klassikalised liikumised, millega kvantiseerimist ei tule arvestada",
+        "sourceHash": "0b4e46245a923e54",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "basics-of-molecular-quantum-mechanics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the potential energy is a single fixed number that doesn't depend on the nuclear geometry",
+        "et": "Kuna potentsiaalne energia on üks fikseeritud arv, mis ei sõltu tuumade geomeetriast",
+        "sourceHash": "b155e6bd221f6c02",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "basics-of-molecular-quantum-mechanics-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "basics-of-molecular-quantum-mechanics-m1",
+  "conceptId": "basics-of-molecular-quantum-mechanics",
+  "text": {
+    "en": "Believing the Born-Oppenheimer approximation freezes the nuclei in place entirely — the nuclei still vibrate and rotate, just far more slowly than the electrons move; the approximation only assumes the electrons keep up with the nuclei's motion essentially instantly, not that the nuclei stop moving.",
+    "et": "Arvamus, et Born-Oppenheimeri lähendus fikseerib tuumad täielikult paigale — tuumad võnguvad ja pöörlevad endiselt, ainult palju aeglasemalt kui elektronid liiguvad; lähendus eeldab ainult, et elektronid järgivad tuumade liikumist sisuliselt koheselt, mitte et tuumad lakkavad liikumast.",
+    "sourceHash": "0dc1e6ad88a07676",
+    "stale": false
+  }
+}
