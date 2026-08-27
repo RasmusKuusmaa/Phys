@@ -289,6 +289,12 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ length: -1 }),
     toBase: 1,
   },
+  "1/m^3": {
+    symbol: "1/m^3",
+    name: { en: "per cubic metre", et: "kuupmeetri kohta" },
+    dimension: dim({ length: -3 }),
+    toBase: 1,
+  },
 };
 
 export function getUnit(symbol: string): UnitDefinition {

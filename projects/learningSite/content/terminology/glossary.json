@@ -1419,5 +1419,40 @@
     "et": "diskriminant",
     "domain": "mathematics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/diskriminant/1/est"
+  },
+  {
+    "id": "charge",
+    "en": "charge",
+    "et": "laeng",
+    "domain": "physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/laeng/1/est"
+  },
+  {
+    "id": "elementary-charge",
+    "en": "elementary charge",
+    "et": "elementaarlaeng",
+    "domain": "physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/elementaarlaeng/1/est"
+  },
+  {
+    "id": "thickness",
+    "en": "thickness",
+    "et": "paksus",
+    "domain": "physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/paksus/1/est"
+  },
+  {
+    "id": "number-density",
+    "en": "number density",
+    "et": "kontsentratsioon",
+    "domain": "physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kontsentratsioon/1/est"
+  },
+  {
+    "id": "number-of-turns",
+    "en": "number of turns",
+    "et": "keerdude arv",
+    "domain": "physics",
+    "source": "https://et.wikipedia.org/wiki/Trafo"
   }
 ]
