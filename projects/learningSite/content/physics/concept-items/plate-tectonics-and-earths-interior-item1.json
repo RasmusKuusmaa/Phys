@@ -1,0 +1,56 @@
+{
+  "id": "plate-tectonics-and-earths-interior-item1",
+  "conceptId": "plate-tectonics-and-earths-interior",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Tectonic plates are observed to move a few centimetres per year. What actually drives this motion?",
+    "et": "Tektoonilisi laamu on täheldatud liikumas paar sentimeetrit aastas. Mis selle liikumise tegelikult põhjustab?",
+    "sourceHash": "cbb0f0c956cfe1db",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Convective circulation in the solid but slowly flowing mantle, combined with gravity pulling dense subducting slabs downward and pushing plates apart at spreading ridges.",
+        "et": "Konvektiivne ringlus tahkes, kuid aeglaselt voolavas vahevöös koos raskusjõuga, mis tõmbab tihedad subdutseeruvad laamaosad allapoole ja lükkab laamu levikuseljandikel lahku.",
+        "sourceHash": "be91702c90a5c967",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Continents actively push their way through a static, unmoving ocean floor, the way a ship parts water.",
+        "et": "Mandrid lükkavad end aktiivselt läbi staatilise, liikumatu ookeanipõhja, nii nagu laev vett lahku ajab.",
+        "sourceHash": "4c3929b9cdda5d37",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "plate-tectonics-and-earths-interior-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The entire mantle is molten magma that continuously carries plates along on its surface like rafts.",
+        "et": "Kogu vahevöö on sulanud magma, mis kannab laamu pidevalt oma pinnal nagu parvesid.",
+        "sourceHash": "05b822a6b994f37b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "plate-tectonics-and-earths-interior-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Earthquakes themselves generate the force that pushes the plates into motion.",
+        "et": "Maavärinad ise tekitavad jõu, mis paneb laamad liikuma.",
+        "sourceHash": "6622a81275bb0667",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "plate-tectonics-and-earths-interior-m3"
+    }
+  ]
+}

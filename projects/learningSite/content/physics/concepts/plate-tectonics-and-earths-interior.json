@@ -1,0 +1,21 @@
+{
+  "id": "plate-tectonics-and-earths-interior",
+  "subject": "physics",
+  "level": "L2",
+  "module": "planetary-physics",
+  "title": {
+    "en": "Plate tectonics and Earth's interior",
+    "et": "Laamtektoonika ja Maa siseehitus",
+    "sourceHash": "fad680468750b258",
+    "stale": false
+  },
+  "summary": {
+    "en": "Earth's interior is layered by density — a solid inner core, a liquid outer core, a solid mantle that flows over geological time, and a thin rigid crust broken into tectonic plates that ride on the slowly convecting mantle beneath — driven by the same buoyancy and pressure-gradient physics that governs any fluid: hotter, less dense material rises while cooler, denser material sinks, and the resulting plate motions build mountains, open ocean basins, and drive nearly all earthquakes and volcanism.",
+    "et": "Maa sisemus on kihiline tiheduse järgi — tahke sisetuum, vedel välistuum, tahke vahevöö, mis geoloogilise aja jooksul voolab, ning õhuke jäik maakoor, mis on murenenud tektoonilisteks laamadeks, mis liiguvad allpool aeglaselt konvekteeruval vahevööl — sama üleslükke- ja rõhugradiendi füüsika toimel, mis kehtib iga vedeliku kohta: kuumem, väiksema tihedusega aine tõuseb, samas kui jahedam, suurema tihedusega aine vajub, ning tekkiv laamade liikumine ehitab mägesid, avab ookeanibasseine ning põhjustab peaaegu kõiki maavärinaid ja vulkaanipurskeid.",
+    "sourceHash": "a599f5d0ec78f052",
+    "stale": false
+  },
+  "prerequisites": [
+    "pressure-in-fluids"
+  ]
+}
