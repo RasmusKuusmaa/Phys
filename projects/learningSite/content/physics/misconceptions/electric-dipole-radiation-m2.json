@@ -1,0 +1,10 @@
+{
+  "id": "electric-dipole-radiation-m2",
+  "conceptId": "electric-dipole-radiation",
+  "text": {
+    "en": "Believing a charge only radiates while it is actually moving fastest (as it crosses the centre of its oscillation), rather than radiation being tied to acceleration — the charge radiates most strongly at the turning points, where its speed is momentarily zero but its acceleration is greatest.",
+    "et": "Uskumine, et laeng kiirgab ainult siis, kui see tegelikult kõige kiiremini liigub (võnkumise keskpunkti läbimisel), mitte see, et kiirgus on seotud kiirendusega — laeng kiirgab kõige tugevamalt pöördepunktides, kus selle kiirus on hetkeks null, aga kiirendus on suurim.",
+    "sourceHash": "21d131c778069b57",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "electric-dipole-radiation-m1",
+  "conceptId": "electric-dipole-radiation",
+  "text": {
+    "en": "Believing an oscillating dipole radiates equally in all directions, like a point source, rather than the radiation pattern depending on the angle from the dipole's oscillation axis and vanishing along that axis entirely.",
+    "et": "Uskumine, et võnkuv dipool kiirgab võrdselt igas suunas, nagu punktallikas, mitte see, et kiirgusmuster sõltub nurgast dipooli võnketeljest ja kaob täielikult mööda seda telge.",
+    "sourceHash": "31c2a7d168dc11e5",
+    "stale": false
+  }
+}

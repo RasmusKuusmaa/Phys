@@ -1,0 +1,28 @@
+{
+  "id": "dipole-radiation-intensity-solve-i",
+  "formulaId": "dipole-radiation-intensity-formula",
+  "variables": [
+    {
+      "symbol": "I0",
+      "min": 10,
+      "max": 500,
+      "unit": "W/m^2",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "theta",
+      "min": 10,
+      "max": 80,
+      "unit": "deg",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "I0",
+      "right": 0
+    }
+  ],
+  "solveFor": "I"
+}

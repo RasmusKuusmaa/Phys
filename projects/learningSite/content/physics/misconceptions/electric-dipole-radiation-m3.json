@@ -1,0 +1,10 @@
+{
+  "id": "electric-dipole-radiation-m3",
+  "conceptId": "electric-dipole-radiation",
+  "text": {
+    "en": "Believing the radiated intensity varies with angle as a simple 1/r² fall-off only, with no additional angular dependence — the 1/r² decrease with distance is separate from, and multiplied by, the sin²θ dependence on direction.",
+    "et": "Uskumine, et kiirguse intensiivsus muutub nurgaga ainult lihtsa 1/r² kahanemisena, ilma täiendava nurgast sõltuvuseta — 1/r² kahanemine kaugusega on eraldiseisev ja korrutub sin²θ suunast sõltuvusega.",
+    "sourceHash": "e5a0fe7647b3556f",
+    "stale": false
+  }
+}

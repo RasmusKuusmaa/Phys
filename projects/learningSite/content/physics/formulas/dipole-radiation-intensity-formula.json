@@ -1,0 +1,43 @@
+{
+  "id": "dipole-radiation-intensity-formula",
+  "conceptId": "electric-dipole-radiation",
+  "latex": "I(\\theta) = I_0 \\sin^2\\theta",
+  "symbols": [
+    {
+      "symbol": "I0",
+      "name": {
+        "en": "intensity",
+        "et": "intensiivsus",
+        "sourceHash": "d0854ad1c7e25944",
+        "stale": false
+      },
+      "unit": "W/m^2"
+    },
+    {
+      "symbol": "theta",
+      "name": {
+        "en": "angle",
+        "et": "nurk",
+        "sourceHash": "49387897bee2bee3",
+        "stale": false
+      },
+      "unit": "deg"
+    },
+    {
+      "symbol": "I",
+      "name": {
+        "en": "intensity",
+        "et": "intensiivsus",
+        "sourceHash": "d0854ad1c7e25944",
+        "stale": false
+      },
+      "unit": "W/m^2"
+    }
+  ],
+  "solveFor": [
+    "I"
+  ],
+  "expressions": {
+    "I": "I0*pow(sin(theta*3.14159265358979/180),2)"
+  }
+}

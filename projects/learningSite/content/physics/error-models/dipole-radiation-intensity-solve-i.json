@@ -1,0 +1,37 @@
+{
+  "id": "dipole-radiation-intensity-solve-i",
+  "formulaId": "dipole-radiation-intensity-formula",
+  "solveFor": "I",
+  "mistakes": [
+    {
+      "id": "used-cos-not-sin",
+      "description": {
+        "en": "Used cos²θ instead of sin²θ, putting the maximum along the dipole axis instead of perpendicular to it.",
+        "et": "Kasutas cos²θ, mitte sin²θ, paigutades maksimumi dipooli teljele, mitte sellega risti.",
+        "sourceHash": "73bcc9d7a434d849",
+        "stale": false
+      },
+      "expression": "I0*pow(cos(theta*3.14159265358979/180),2)"
+    },
+    {
+      "id": "forgot-to-square",
+      "description": {
+        "en": "Used sinθ instead of sin²θ, forgetting the pattern is proportional to the square of the sine.",
+        "et": "Kasutas sinθ, mitte sin²θ, unustades, et muster on võrdeline siinuse ruuduga.",
+        "sourceHash": "384893bb215ba2d2",
+        "stale": false
+      },
+      "expression": "I0*sin(theta*3.14159265358979/180)"
+    },
+    {
+      "id": "forgot-degree-to-radian-conversion",
+      "description": {
+        "en": "Passed the angle in degrees straight into sine without converting to radians first.",
+        "et": "Andis nurga kraadides otse siinusesse, teisendamata seda kõigepealt radiaanidesse.",
+        "sourceHash": "a25b30bd74c7e9d9",
+        "stale": false
+      },
+      "expression": "I0*pow(sin(theta),2)"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "electric-dipole-radiation",
+  "subject": "physics",
+  "level": "L3",
+  "module": "optics",
+  "title": {
+    "en": "Electric dipole radiation",
+    "et": "Elektrilise dipooli kiirgus",
+    "sourceHash": "3d455a4765885411",
+    "stale": false
+  },
+  "summary": {
+    "en": "An accelerating charge — in the simplest case, one oscillating back and forth like a dipole antenna — radiates electromagnetic waves whose intensity is not the same in every direction: it is zero along the dipole's own axis and greatest in the plane perpendicular to it, following a sin²θ pattern with θ measured from that axis.",
+    "et": "Kiirendusega laeng — lihtsaimal juhul selline, mis võngub edasi-tagasi nagu dipoolantenn — kiirgab elektromagnetlaineid, mille intensiivsus ei ole igas suunas sama: see on null mööda dipooli oma telge ja suurim sellega risti oleval tasandil, järgides sin²θ mustrit, kus θ mõõdetakse sellest teljest.",
+    "sourceHash": "c793657a06f25304",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-waves",
+    "the-wave-equation"
+  ]
+}

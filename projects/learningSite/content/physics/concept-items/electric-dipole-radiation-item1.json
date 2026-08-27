@@ -1,0 +1,56 @@
+{
+  "id": "electric-dipole-radiation-item1",
+  "conceptId": "electric-dipole-radiation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A radio antenna is a vertical dipole. In which direction is essentially no power radiated?",
+    "et": "Raadioantenn on vertikaalne dipool. Millises suunas ei kiirgu praktiliselt ühtegi võimsust?",
+    "sourceHash": "1935ce6134049fce",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Straight up and straight down, along the antenna's own axis — the radiated intensity follows sin²θ and vanishes exactly along the dipole axis.",
+        "et": "Otse üles ja otse alla, mööda antenni oma telge — kiiratav intensiivsus järgib sin²θ ja kaob täpselt mööda dipooli telge.",
+        "sourceHash": "701149eecf8fdabb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There is no such direction — a dipole antenna radiates equally in every direction, like a point source.",
+        "et": "Sellist suunda ei ole — dipoolantenn kiirgab võrdselt igas suunas, nagu punktallikas.",
+        "sourceHash": "f919b1bce849ac71",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-dipole-radiation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Wherever the charge in the antenna is moving fastest, since that's when it radiates.",
+        "et": "Kõikjal, kus antenni laeng liigub kõige kiiremini, kuna just siis see kiirgab.",
+        "sourceHash": "9a1646b0a05b1985",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-dipole-radiation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only far enough away that the 1/r² fall-off has reduced the intensity to zero — direction doesn't matter, only distance.",
+        "et": "Ainult piisavalt kaugel, kus 1/r² kahanemine on vähendanud intensiivsuse nulliks — suund ei loe, ainult kaugus.",
+        "sourceHash": "d0f24e6c7289ce1d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-dipole-radiation-m3"
+    }
+  ]
+}

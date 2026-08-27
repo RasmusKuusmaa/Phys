@@ -244,7 +244,8 @@
     "birefringence-and-wave-plates",
     "radiometric-and-photometric-quantities",
     "photodetectors-pmt-and-ccd",
-    "nonlinear-optics-and-harmonic-generation"
+    "nonlinear-optics-and-harmonic-generation",
+    "electric-dipole-radiation"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

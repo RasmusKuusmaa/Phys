@@ -173,6 +173,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "radiometric-and-photometric-quantities",
     "photodetectors-pmt-and-ccd",
     "nonlinear-optics-and-harmonic-generation",
+    "electric-dipole-radiation",
   ],
   "LOFY.01.009": [
     "heisenberg-uncertainty-principle",
