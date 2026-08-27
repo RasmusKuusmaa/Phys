@@ -294,6 +294,12 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "moment-of-inertia-and-rotational-dynamics",
     "rotational-kinetic-energy",
     "torque-and-angular-momentum",
+    "displacement-velocity-acceleration",
+    "conservation-of-energy",
+    "central-force-motion-and-orbits",
+    "non-inertial-frames-and-fictitious-forces",
+    "hamiltonian-mechanics",
+    "lorentz-force",
   ],
   "LTFY.01.011": [
     "combining-uncertainties",
@@ -419,6 +425,8 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-divergence-and-stokes-theorems",
     "partial-derivatives",
     "multiple-integrals",
+    "matrices",
+    "eigenvalues-and-eigenvectors",
   ],
   // LOFY.04.035 Matemaatilise füüsika võrrandid — ODEs, Fourier method,
   // boundary value problems; elective, partially covered.
