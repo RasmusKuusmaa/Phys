@@ -121,7 +121,13 @@
     "hubbles-law-and-the-expanding-universe",
     "keplers-laws",
     "non-inertial-frames-and-fictitious-forces",
-    "spectroscopy"
+    "spectroscopy",
+    "plate-tectonics-and-earths-interior",
+    "atmospheric-and-ocean-physics",
+    "solar-system-formation-and-planetary-astronomy",
+    "stellar-evolution-and-compact-objects",
+    "dark-matter-and-galactic-structure",
+    "general-relativity-and-cosmological-models"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"

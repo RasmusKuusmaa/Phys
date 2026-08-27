@@ -37,13 +37,17 @@ Of the 54 GAP concepts, seven authoring-order groups are done — 48/54 total:
 - Analytical mechanics (3): `noethers-theorem-and-symmetries`,
   `nonholonomic-constraints-and-lagrange-multipliers-in-mechanics`,
   `canonical-transformations-and-hamilton-jacobi-theory`.
+- Global physics / astro (6): `plate-tectonics-and-earths-interior`,
+  `atmospheric-and-ocean-physics`, `solar-system-formation-and-planetary-astronomy`,
+  `stellar-evolution-and-compact-objects`, `dark-matter-and-galactic-structure`,
+  `general-relativity-and-cosmological-models`.
 
-The remaining 6 GAP concepts, all in one themed group (global physics/astro
-— the last group), are not started — this file is their queue. Content
-authoring is paused here (not for a technical reason — stopped on request
-partway through this session). Resume by taking that group from the
-"Suggested authoring order" section below and following `CONTRIBUTING.md`'s
-scaffold workflow per concept.
+**All 54 GAP concepts are now authored — this phase's content authoring is
+complete.** What remains before Phase 35 itself can be checked off: mapping
+these 6 new concepts into `COURSE_CONCEPTS` in `src/curriculum/mapping.ts`
+against LTFY.01.005 / LTTO.00.025 (see those courses' GAP entries above for
+the exact topic-to-concept mapping), then `npm run curriculum:build` and
+`npm run curriculum:coverage` to confirm the courses pick them up.
 
 
 Method: for every in-scope course, `content/curriculum/courses/<CODE>.json` was read for its

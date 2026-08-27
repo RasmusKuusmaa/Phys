@@ -262,6 +262,8 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "keplers-laws",
     "non-inertial-frames-and-fictitious-forces",
     "spectroscopy",
+    "plate-tectonics-and-earths-interior",
+    "atmospheric-and-ocean-physics",
   ],
   "LTTO.00.025": [
     "the-greenhouse-effect-and-planetary-energy-balance",
@@ -270,6 +272,12 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "keplers-laws",
     "non-inertial-frames-and-fictitious-forces",
     "spectroscopy",
+    "plate-tectonics-and-earths-interior",
+    "atmospheric-and-ocean-physics",
+    "solar-system-formation-and-planetary-astronomy",
+    "stellar-evolution-and-compact-objects",
+    "dark-matter-and-galactic-structure",
+    "general-relativity-and-cosmological-models",
   ],
   "LOFY.04.003": [
     "length-contraction",
