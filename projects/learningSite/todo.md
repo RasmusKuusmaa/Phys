@@ -902,15 +902,17 @@ findings and remaining work queue live in
       repo but weren't linked to the course whose syllabus they satisfy
   `content: map existing concepts to ...` (13 commits, one per course group)
 - [~] Author the 54 GAP concepts — topics with no concept anywhere on the
-      platform yet (36 physics, 18 math). Four themed batches done (35/54):
+      platform yet (36 physics, 18 math). Five themed batches done (40/54):
       foundational math (8), vector/tensor & complex-analysis math (10),
-      EM device physics (9) and optics (8). 19 remain across four groups —
-      resume from `content/curriculum/DEPTH-GAPS.md`'s authoring order,
-      modern/nuclear/atomic physics group next
+      EM device physics (9), optics (8) and modern/nuclear/atomic physics
+      (5). 14 remain across three groups — resume from
+      `content/curriculum/DEPTH-GAPS.md`'s authoring order, statistical/
+      quantum theory group next
   `content: author foundational math depth concepts`
   `content: author vector tensor and complex analysis math concepts`
   `content: add the hall effect concept` (and 8 more EM device concepts)
   `content: add rayleigh and mie scattering concept` (and 7 more optics concepts)
+  `content: add nuclear shell model spin and parity concept` (and 4 more)
 
 ### Phase 14 — Remaining subjects — SUPERSEDED
 
