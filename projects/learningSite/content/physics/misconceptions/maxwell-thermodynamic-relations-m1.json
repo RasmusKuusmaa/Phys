@@ -1,0 +1,10 @@
+{
+  "id": "maxwell-thermodynamic-relations-m1",
+  "conceptId": "maxwell-thermodynamic-relations",
+  "text": {
+    "en": "Believing Maxwell's relations are separate physical laws that need their own experimental confirmation, rather than mathematical consequences of the thermodynamic potentials being exact differentials — once U, H, F and G are accepted as well-defined state functions, all four relations follow from calculus alone.",
+    "et": "Arvamus, et Maxwelli seosed on iseseisvad füüsikaseadused, mis vajavad omaenda katselist kinnitust, mitte matemaatiline tagajärg sellest, et termodünaamilised potentsiaalid on täisdiferentsiaalid — kui U, H, F ja G on aktsepteeritud hästimääratud olekufunktsioonidena, järelduvad kõik neli seost puhtalt matemaatilisest analüüsist.",
+    "sourceHash": "f5f8e482e2912263",
+    "stale": false
+  }
+}

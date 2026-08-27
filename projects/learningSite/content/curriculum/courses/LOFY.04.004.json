@@ -124,7 +124,8 @@
     "quantum-statistics-fermi-dirac-and-bose-einstein",
     "thermodynamic-processes",
     "ideal-gas-law",
-    "phase-transitions"
+    "phase-transitions",
+    "maxwell-thermodynamic-relations"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"

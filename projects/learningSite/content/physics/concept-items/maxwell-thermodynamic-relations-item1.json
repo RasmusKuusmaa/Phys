@@ -1,0 +1,56 @@
+{
+  "id": "maxwell-thermodynamic-relations-item1",
+  "conceptId": "maxwell-thermodynamic-relations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The Gibbs free energy differential is dG = −S dT + V dp. Which Maxwell relation follows from the equality of its mixed second partial derivatives?",
+    "et": "Gibbsi vaba energia diferentsiaal on dG = −S dT + V dp. Milline Maxwelli seos järeldub selle segatud teist järku osatuletiste võrdsusest?",
+    "sourceHash": "fbee365ef196b10c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "(∂S/∂p)_T = −(∂V/∂T)_p",
+        "et": "(∂S/∂p)_T = −(∂V/∂T)_p",
+        "sourceHash": "65752d6e5c5709f9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "(∂T/∂V)_S = −(∂p/∂S)_V — the relation from dU, not from dG",
+        "et": "(∂T/∂V)_S = −(∂p/∂S)_V — seos, mis tuleneb dU-st, mitte dG-st",
+        "sourceHash": "253e9ee6866a6604",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwell-thermodynamic-relations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "(∂S/∂p)_T = (∂V/∂T)_p — missing the minus sign",
+        "et": "(∂S/∂p)_T = (∂V/∂T)_p — miinusmärk on ära jäetud",
+        "sourceHash": "c17537b1cbcf5cc9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwell-thermodynamic-relations-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "(∂S/∂p)_T = −Nk_B/p — true only for an ideal gas, not the general relation",
+        "et": "(∂S/∂p)_T = −Nk_B/p — kehtib ainult ideaalse gaasi korral, mitte üldise seosena",
+        "sourceHash": "4ee807017d47bca8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwell-thermodynamic-relations-m3"
+    }
+  ]
+}

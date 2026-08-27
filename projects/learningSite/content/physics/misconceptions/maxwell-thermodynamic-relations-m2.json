@@ -1,0 +1,10 @@
+{
+  "id": "maxwell-thermodynamic-relations-m2",
+  "conceptId": "maxwell-thermodynamic-relations",
+  "text": {
+    "en": "Dropping or misplacing the minus sign and the held-constant subscripts, e.g. writing (∂T/∂V)_S = (∂p/∂S)_V instead of (∂T/∂V)_S = −(∂p/∂S)_V — the sign and which variable is held fixed on each side are not interchangeable, they come directly from which potential the relation was derived from.",
+    "et": "Miinusmärgi ja fikseeritud suurust näitavate indeksite ära jätmine või sassiminek, näiteks (∂T/∂V)_S = (∂p/∂S)_V kirjutamine (∂T/∂V)_S = −(∂p/∂S)_V asemel — märk ja see, mis suurus kummalgi poolel fikseerituks jääb, ei ole vahetatavad, need tulenevad otse potentsiaalist, millest seos on tuletatud.",
+    "sourceHash": "509c9eba83aac271",
+    "stale": false
+  }
+}

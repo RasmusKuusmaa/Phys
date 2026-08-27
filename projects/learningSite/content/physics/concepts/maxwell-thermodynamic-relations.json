@@ -1,0 +1,22 @@
+{
+  "id": "maxwell-thermodynamic-relations",
+  "subject": "physics",
+  "level": "L3",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Maxwell's thermodynamic relations",
+    "et": "Maxwelli termodünaamilised seosed",
+    "sourceHash": "4bfa631bcddbc4ad",
+    "stale": false
+  },
+  "summary": {
+    "en": "Maxwell's relations are four equalities between partial derivatives of pressure, volume, temperature and entropy, derived from the fact that each thermodynamic potential's mixed second partial derivatives must agree — they let a hard-to-measure quantity such as (∂S/∂V)_T be replaced by an easily measured one such as (∂p/∂T)_V.",
+    "et": "Maxwelli seosed on neli võrdust rõhu, ruumala, temperatuuri ja entroopia osatuletiste vahel; need tulenevad sellest, et igal termodünaamilisel potentsiaalil peavad segatud teist järku osatuletised ühtima — nii saab raskesti mõõdetava suuruse, näiteks (∂S/∂V)_T, asendada kergesti mõõdetavaga, näiteks (∂p/∂T)_V.",
+    "sourceHash": "7e40a54770aa7184",
+    "stale": false
+  },
+  "prerequisites": [
+    "laws-of-thermodynamics",
+    "entropy-and-the-second-law"
+  ]
+}

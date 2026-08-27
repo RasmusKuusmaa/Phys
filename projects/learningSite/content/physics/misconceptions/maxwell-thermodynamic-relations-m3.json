@@ -1,0 +1,10 @@
+{
+  "id": "maxwell-thermodynamic-relations-m3",
+  "conceptId": "maxwell-thermodynamic-relations",
+  "text": {
+    "en": "Believing Maxwell's relations only hold for an ideal gas, since that is the system most textbook examples use — the relations follow purely from calculus applied to any equilibrium system with a well-defined thermodynamic potential, with no equation of state assumed.",
+    "et": "Arvamus, et Maxwelli seosed kehtivad ainult ideaalse gaasi korral, kuna see on süsteem, mida enamik õpikunäiteid kasutab — seosed järelduvad puhtalt matemaatilisest analüüsist, mida rakendatakse igale tasakaalusüsteemile, millel on hästimääratud termodünaamiline potentsiaal, ning ei eelda mingit olekuvõrrandit.",
+    "sourceHash": "1b845d82c4341680",
+    "stale": false
+  }
+}
