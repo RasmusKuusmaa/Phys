@@ -1,0 +1,10 @@
+{
+  "id": "multivariable-optimization-and-lagrange-multipliers-m3",
+  "conceptId": "multivariable-optimization-and-lagrange-multipliers",
+  "text": {
+    "en": "Solves ∇f = λ∇g for a candidate point and stops, forgetting that the original constraint g(x, y) = c is itself a required equation in the system, not just a label on the problem.",
+    "et": "Lahendab võrduse ∇f = λ∇g kandidaatpunkti leidmiseks ja peatub, unustades, et algne tingimus g(x, y) = c on ise süsteemi vajalik võrrand, mitte ainult ülesande pealkiri.",
+    "sourceHash": "611a7c49732cef69",
+    "stale": false
+  }
+}

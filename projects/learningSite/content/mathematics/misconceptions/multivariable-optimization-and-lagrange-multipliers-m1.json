@@ -1,0 +1,10 @@
+{
+  "id": "multivariable-optimization-and-lagrange-multipliers-m1",
+  "conceptId": "multivariable-optimization-and-lagrange-multipliers",
+  "text": {
+    "en": "Believes that any point where ∇f = 0 must be a local extremum, without applying the second-derivative (Hessian) test to rule out a saddle point.",
+    "et": "Arvab, et iga punkt, kus ∇f = 0, peab olema lokaalne ekstreemum, rakendamata teise tuletise (Hesse maatriksi) testi, mis välistaks sadulpunkti.",
+    "sourceHash": "931aa69cc121abee",
+    "stale": false
+  }
+}

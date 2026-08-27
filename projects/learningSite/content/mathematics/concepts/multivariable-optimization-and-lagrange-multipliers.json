@@ -1,0 +1,21 @@
+{
+  "id": "multivariable-optimization-and-lagrange-multipliers",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "multivariable-calculus",
+  "title": {
+    "en": "Multivariable optimisation and Lagrange multipliers",
+    "et": "Mitme muutuja funktsiooni ekstreemumid ja Lagrange'i kordajate meetod",
+    "sourceHash": "90bb05a18da692b1",
+    "stale": false
+  },
+  "summary": {
+    "en": "An unconstrained local extremum of f(x, y) occurs only where every partial derivative vanishes, and the second-derivative (Hessian) test then tells a maximum from a minimum from a saddle point; when the search is restricted to a constraint g(x, y) = c, Lagrange's method replaces that condition with ∇f = λ∇g — the geometric fact that at a constrained extremum the level curve of f is tangent to the constraint curve.",
+    "et": "Funktsiooni f(x, y) tingimusteta lokaalne ekstreemum saab tekkida ainult seal, kus kõik osatuletised on null, ning teise tuletise (Hesse maatriksi) test eristab seejärel maksimumi, miinimumi ja sadulpunkti; kui otsing on piiratud tingimusega g(x, y) = c, asendab Lagrange'i meetod selle tingimuse võrdusega ∇f = λ∇g — geomeetriline fakt, et piiratud ekstreemumis on f taseme joon g kõveraga puutuja.",
+    "sourceHash": "7b7e52cbb7f72ff1",
+    "stale": false
+  },
+  "prerequisites": [
+    "partial-derivatives"
+  ]
+}

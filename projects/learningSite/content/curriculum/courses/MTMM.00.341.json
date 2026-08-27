@@ -35,7 +35,8 @@
     "vector-spaces",
     "first-order-differential-equations",
     "second-order-differential-equations",
-    "fourier-series"
+    "fourier-series",
+    "multivariable-optimization-and-lagrange-multipliers"
   ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"

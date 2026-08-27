@@ -1,0 +1,56 @@
+{
+  "id": "multivariable-optimization-and-lagrange-multipliers-item1",
+  "conceptId": "multivariable-optimization-and-lagrange-multipliers",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "To maximise f(x, y) subject to the constraint g(x, y) = c using Lagrange multipliers, which system must be solved?",
+    "et": "Funktsiooni f(x, y) maksimeerimiseks tingimusel g(x, y) = c Lagrange'i kordajate meetodil, millist süsteemi tuleb lahendada?",
+    "sourceHash": "f787dbae9c94f6bb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "∇f = λ∇g together with the constraint g(x, y) = c itself",
+        "et": "∇f = λ∇g koos tingimusega g(x, y) = c",
+        "sourceHash": "8705c3ac8d175213",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "∇f = λ∇g alone — the constraint is only needed to set up the problem, not to solve it",
+        "et": "Ainult ∇f = λ∇g — tingimust on vaja üksnes ülesande sõnastamiseks, mitte lahendamiseks",
+        "sourceHash": "83f430c3396c779f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multivariable-optimization-and-lagrange-multipliers-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "∇f = 0 alone, the same condition used without any constraint",
+        "et": "Ainult ∇f = 0, sama tingimus, mida kasutatakse ilma piiranguta",
+        "sourceHash": "6062bc803b984738",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multivariable-optimization-and-lagrange-multipliers-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "∇f = λ∇g together with g(x, y) = c, but λ can be discarded once a candidate point is found since it carries no further information",
+        "et": "∇f = λ∇g koos g(x, y) = c-ga, kuid λ võib kandidaatpunkti leidmise järel kõrvale jätta, kuna see ei kanna edasist infot",
+        "sourceHash": "8fcc3e23f62aac21",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multivariable-optimization-and-lagrange-multipliers-m2"
+    }
+  ]
+}

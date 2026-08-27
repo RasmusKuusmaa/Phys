@@ -1,0 +1,10 @@
+{
+  "id": "multivariable-optimization-and-lagrange-multipliers-m2",
+  "conceptId": "multivariable-optimization-and-lagrange-multipliers",
+  "text": {
+    "en": "Treats the Lagrange multiplier λ as a leftover algebra symbol with no meaning, rather than the rate at which the optimal value of f changes per unit change in the constraint level c.",
+    "et": "Käsitleb Lagrange'i kordajat λ tähenduseta ülejäänud algebralise sümbolina, mitte kiirusena, millega f optimaalne väärtus muutub tingimuse taseme c ühiku kohta.",
+    "sourceHash": "471d5967dd20abb4",
+    "stale": false
+  }
+}
