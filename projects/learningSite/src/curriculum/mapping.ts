@@ -176,6 +176,15 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "radioactive-decay-modes",
     "the-standard-model-of-particle-physics",
     "conservation-laws-in-particle-interactions",
+    "the-schrodinger-equation",
+    "de-broglie-wavelength",
+    "quantum-tunneling",
+    "particle-in-a-box",
+    "quantum-numbers-and-atomic-orbitals",
+    "the-hydrogen-atom-and-atomic-structure",
+    "spin-and-angular-momentum-in-quantum-mechanics",
+    "the-pauli-exclusion-principle",
+    "atoms-and-the-nucleus",
   ],
   // LOFY.01.015 Tuumafüüsika eksperimentaalmeetodid — ionizing radiation and decay.
   "LOFY.01.015": [
