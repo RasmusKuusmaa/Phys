@@ -1,0 +1,33 @@
+{
+  "id": "the-zeeman-effect-and-stern-gerlach-splitting",
+  "formulaId": "the-zeeman-effect-and-stern-gerlach-splitting",
+  "variables": [
+    {
+      "symbol": "B",
+      "min": 0.1,
+      "max": 5,
+      "unit": "T",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "m",
+      "min": -3,
+      "max": 3,
+      "unit": "1",
+      "sigFigs": 1
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "B",
+      "right": 0
+    },
+    {
+      "op": "neq",
+      "left": "m",
+      "right": 0
+    }
+  ],
+  "solveFor": "dE"
+}

@@ -1538,5 +1538,19 @@
     "et": "sihtmärgi mass",
     "domain": "nuclear-physics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/sihtm%C3%A4rk/1/est"
+  },
+  {
+    "id": "magnetic-quantum-number",
+    "en": "magnetic quantum number",
+    "et": "magnetkvantarv",
+    "domain": "quantum-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/magnetkvantarv/1/est"
+  },
+  {
+    "id": "energy-shift",
+    "en": "energy shift",
+    "et": "energianihe",
+    "domain": "quantum-mechanics",
+    "source": "https://et.wikipedia.org/wiki/Zeemani_efekt"
   }
 ]

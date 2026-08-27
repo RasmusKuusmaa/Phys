@@ -1,0 +1,56 @@
+{
+  "id": "the-zeeman-effect-and-stern-gerlach-item1",
+  "conceptId": "the-zeeman-effect-and-stern-gerlach",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Silver atoms in their ground state have zero net orbital angular momentum, yet the Stern-Gerlach experiment showed their beam splitting into exactly two spots in a magnetic field. What did this reveal?",
+    "et": "Hõbeaatomitel on põhiseisundis orbitaalne koguimpulsimoment null, ent Sterni-Gerlachi katse näitas nende kimbu lõhenemist magnetväljas täpselt kaheks laiguks. Mida see paljastas?",
+    "sourceHash": "b6720e5bc92386ad",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Electrons carry an intrinsic angular momentum, spin, that is entirely separate from orbital motion and interacts with the field on its own",
+        "et": "Elektronidel on sisemine impulsimoment, spinn, mis on täiesti eraldiseisev orbitaalliikumisest ja mõjub väljaga iseseisvalt",
+        "sourceHash": "4f870acf675ec05b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The atoms actually did have leftover orbital angular momentum that earlier measurements had missed",
+        "et": "Aatomitel oli tegelikult järelejäänud orbitaalne impulsimoment, mida varasemad mõõtmised olid tähelepanuta jätnud",
+        "sourceHash": "46fcd328f8107164",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-zeeman-effect-and-stern-gerlach-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The magnetic field was too weak to fully randomise the atoms' orientation, so only two of infinitely many orientations survived",
+        "et": "Magnetväli oli liiga nõrk, et aatomite orientatsiooni täielikult juhuslikustada, mistõttu jäi püsima ainult kaks lõpmatust arvust võimalikest orientatsioonidest",
+        "sourceHash": "02c830bc15aad69e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-zeeman-effect-and-stern-gerlach-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The silver nucleus's own magnetic moment was strong enough on its own to split the beam",
+        "et": "Hõbeda tuuma oma magnetmoment oli piisavalt tugev, et kimp iseseisvalt lõhkuda",
+        "sourceHash": "e85b9d6c30b0f1e5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-zeeman-effect-and-stern-gerlach-m3"
+    }
+  ]
+}

@@ -196,7 +196,8 @@
     "the-pauli-exclusion-principle",
     "atoms-and-the-nucleus",
     "nuclear-shell-model-spin-and-parity",
-    "nuclear-reactions-and-threshold-energy"
+    "nuclear-reactions-and-threshold-energy",
+    "the-zeeman-effect-and-stern-gerlach"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics1.md"

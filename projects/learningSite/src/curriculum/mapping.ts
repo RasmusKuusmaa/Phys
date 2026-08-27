@@ -201,6 +201,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "atoms-and-the-nucleus",
     "nuclear-shell-model-spin-and-parity",
     "nuclear-reactions-and-threshold-energy",
+    "the-zeeman-effect-and-stern-gerlach",
   ],
   // LOFY.01.015 Tuumafüüsika eksperimentaalmeetodid — ionizing radiation and decay.
   "LOFY.01.015": [

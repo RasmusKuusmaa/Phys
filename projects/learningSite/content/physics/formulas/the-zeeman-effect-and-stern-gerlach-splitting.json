@@ -1,0 +1,43 @@
+{
+  "id": "the-zeeman-effect-and-stern-gerlach-splitting",
+  "conceptId": "the-zeeman-effect-and-stern-gerlach",
+  "latex": "\\Delta E = \\mu_B B m",
+  "symbols": [
+    {
+      "symbol": "B",
+      "name": {
+        "en": "magnetic field",
+        "et": "magnetväli",
+        "sourceHash": "8e923bfc2b2346c6",
+        "stale": false
+      },
+      "unit": "T"
+    },
+    {
+      "symbol": "m",
+      "name": {
+        "en": "magnetic quantum number",
+        "et": "magnetkvantarv",
+        "sourceHash": "8536570101d95a01",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "dE",
+      "name": {
+        "en": "energy shift",
+        "et": "energianihe",
+        "sourceHash": "d873e202979749b6",
+        "stale": false
+      },
+      "unit": "eV"
+    }
+  ],
+  "solveFor": [
+    "dE"
+  ],
+  "expressions": {
+    "dE": "0.000057883818*B*m"
+  }
+}

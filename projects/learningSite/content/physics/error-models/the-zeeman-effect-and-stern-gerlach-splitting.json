@@ -1,0 +1,37 @@
+{
+  "id": "the-zeeman-effect-and-stern-gerlach-splitting",
+  "formulaId": "the-zeeman-effect-and-stern-gerlach-splitting",
+  "solveFor": "dE",
+  "mistakes": [
+    {
+      "id": "forgot-the-bohr-magneton-factor",
+      "description": {
+        "en": "Treated the magnetic quantum number itself, in units of the field, as the energy shift, forgetting the Bohr magneton that actually converts it to an energy.",
+        "et": "Käsitles magnetkvantarvu ennast, väljaühikutes, energianihkena, unustades Bohri magnetoni, mis selle tegelikult energiaks teisendab.",
+        "sourceHash": "c6cd696cbf78f589",
+        "stale": false
+      },
+      "expression": "B*m"
+    },
+    {
+      "id": "used-electron-spin-g-factor",
+      "description": {
+        "en": "Used the electron's spin g-factor of about 2 instead of the orbital g-factor of 1 that applies to the normal Zeeman effect, doubling the splitting.",
+        "et": "Kasutas elektroni spinni g-faktorit (umbes 2) selle asemel, mis kehtib orbitaal-g-faktori (1) kohta tavalise Zeemani efekti puhul, kahekordistades nihke.",
+        "sourceHash": "af1505570eb493db",
+        "stale": false
+      },
+      "expression": "2*0.000057883818*B*m"
+    },
+    {
+      "id": "used-total-angular-momentum-instead-of-projection",
+      "description": {
+        "en": "Multiplied by the number of possible m states instead of the sampled state's own m value, overcounting the splitting for a single line.",
+        "et": "Korrutas võimalike m-olekute arvuga, mitte valitud oleku enda m väärtusega, ülehinnates ühe joone nihet.",
+        "sourceHash": "287162dcc5619165",
+        "stale": false
+      },
+      "expression": "0.000057883818*B*(2*abs(m)+1)"
+    }
+  ]
+}
