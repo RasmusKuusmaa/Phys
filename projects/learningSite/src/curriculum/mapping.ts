@@ -462,6 +462,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "separation-of-variables-and-sturm-liouville-problems",
     "classification-of-pdes-parabolic-hyperbolic-elliptic",
     "laplace-transform-methods",
+    "greens-function-method-for-odes-and-pdes",
   ],
   // LTFY.04.015 Kompleksmuutuja funktsioonid füüsikas.
   "LTFY.04.015": [

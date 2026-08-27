@@ -1,0 +1,56 @@
+{
+  "id": "greens-function-method-for-odes-and-pdes-item1",
+  "conceptId": "greens-function-method-for-odes-and-pdes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A Green's function G(x, ξ) has already been found for a linear operator L with fixed boundary conditions. The source term in the equation L[y] = f(x) is then changed to a completely different function f(x). What has to be redone?",
+    "et": "Lineaarse operaatori L jaoks fikseeritud rajatingimustega on Greeni funktsioon G(x, ξ) juba leitud. Võrrandi L[y] = f(x) lähteliige muudetakse seejärel täiesti erinevaks funktsiooniks f(x). Mida tuleb uuesti teha?",
+    "sourceHash": "5a6620caf36241ad",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Nothing about G(x, ξ) itself — only the integral ∫G(x, ξ)f(ξ)dξ needs to be recomputed with the new f.",
+        "et": "G(x, ξ) enda kohta mitte midagi — ümber tuleb arvutada ainult integraal ∫G(x, ξ)f(ξ)dξ uue f-iga.",
+        "sourceHash": "f94a52c2cc0ad93a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The entire Green's function, since G(x, ξ) is defined in terms of the specific source f(x) that was used to find it.",
+        "et": "Kogu Greeni funktsioon, kuna G(x, ξ) on määratud selle konkreetse lähteliikme f(x) kaudu, mille abil see leiti.",
+        "sourceHash": "2b413030305335c8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "greens-function-method-for-odes-and-pdes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The single formula for G(x, ξ), since it must already be one smooth expression valid for both x < ξ and x > ξ.",
+        "et": "G(x, ξ) ühtne valem, kuna see peab juba olema üks sujuv avaldis, mis kehtib nii x < ξ kui ka x > ξ korral.",
+        "sourceHash": "4053535276c57ba9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "greens-function-method-for-odes-and-pdes-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The defining equation L[G] = δ(x − ξ), since δ needs to be re-evaluated pointwise as an ordinary function each time.",
+        "et": "Määrav võrdus L[G] = δ(x − ξ), kuna δ tuleb iga kord tavalise funktsioonina punktiviisi uuesti arvutada.",
+        "sourceHash": "9ee7d628986a2b47",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "greens-function-method-for-odes-and-pdes-m3"
+    }
+  ]
+}

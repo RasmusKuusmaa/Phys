@@ -1,0 +1,10 @@
+{
+  "id": "greens-function-method-for-odes-and-pdes-m2",
+  "conceptId": "greens-function-method-for-odes-and-pdes",
+  "text": {
+    "en": "Expecting G(x, ξ) to be one smooth formula valid everywhere — missing that it is genuinely piecewise, with a different expression for x < ξ than for x > ξ, matched at x = ξ by continuity in G itself but a jump in its derivative (the signature of the point impulse sitting exactly there).",
+    "et": "Ootamine, et G(x, ξ) on üks sujuv valem, mis kehtib kõikjal — jättes tähele panemata, et see on tegelikult tükiti määratud, teistsuguse avaldisega x < ξ ja x > ξ korral, mis on kohal x = ξ ühendatud G enda pidevusega, kuid tuletise hüppega (just see on punktimpulsi tunnusmärk selles kohas).",
+    "sourceHash": "4c4006c86a8c984b",
+    "stale": false
+  }
+}

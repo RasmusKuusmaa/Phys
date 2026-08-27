@@ -113,7 +113,8 @@
     "the-schrodinger-equation",
     "separation-of-variables-and-sturm-liouville-problems",
     "classification-of-pdes-parabolic-hyperbolic-elliptic",
-    "laplace-transform-methods"
+    "laplace-transform-methods",
+    "greens-function-method-for-odes-and-pdes"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"

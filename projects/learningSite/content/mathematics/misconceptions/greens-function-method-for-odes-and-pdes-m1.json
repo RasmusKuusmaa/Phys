@@ -1,0 +1,10 @@
+{
+  "id": "greens-function-method-for-odes-and-pdes-m1",
+  "conceptId": "greens-function-method-for-odes-and-pdes",
+  "text": {
+    "en": "Believing the Green's function has to be re-derived every time the source term f(x) changes — missing that G(x, ξ) depends only on the differential operator and the boundary conditions, so the same Green's function is reused for any f, just plugged into a fresh integral.",
+    "et": "Arvamine, et Greeni funktsioon tuleb tuletada uuesti igal korral, kui lähteliige f(x) muutub — jättes tähele panemata, et G(x, ξ) sõltub ainult diferentsiaaloperaatorist ja rajatingimustest, mistõttu kasutatakse sama Greeni funktsiooni suvalise f korral, pannes selle vaid uude integraali.",
+    "sourceHash": "ee44132b08e7f307",
+    "stale": false
+  }
+}

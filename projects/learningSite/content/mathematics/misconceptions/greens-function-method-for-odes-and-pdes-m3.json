@@ -1,0 +1,10 @@
+{
+  "id": "greens-function-method-for-odes-and-pdes-m3",
+  "conceptId": "greens-function-method-for-odes-and-pdes",
+  "text": {
+    "en": "Treating the delta function δ(x − ξ) in the defining equation L[G] = δ(x − ξ) as an ordinary function that is zero almost everywhere and huge at one point — rather than as a distribution defined by what it does under an integral (∫δ(x − ξ)h(x)dx = h(ξ)), which is the property actually being used when the Green's function's integral reproduces the source term.",
+    "et": "Deltafunktsiooni δ(x − ξ) käsitlemine määravas võrduses L[G] = δ(x − ξ) tavalise funktsioonina, mis on peaaegu kõikjal null ja üheski punktis tohutult suur — selle asemel, et käsitleda seda distributsioonina, mis on määratud oma käitumisega integraali all (∫δ(x − ξ)h(x)dx = h(ξ)) — just see omadus on see, mida tegelikult kasutatakse, kui Greeni funktsiooni integraal taastab lähteliikme.",
+    "sourceHash": "37e3e998c5cf3f8b",
+    "stale": false
+  }
+}
