@@ -1,0 +1,21 @@
+{
+  "id": "nonlinear-optics-and-harmonic-generation",
+  "subject": "physics",
+  "level": "L3",
+  "module": "optics",
+  "title": {
+    "en": "Nonlinear optics and harmonic generation",
+    "et": "Mittelineaarne optika ja harmooniliste genereerimine",
+    "sourceHash": "6410a75f31a04be0",
+    "stale": false
+  },
+  "summary": {
+    "en": "At the intensities ordinary light produces, a material's polarisation response is proportional to the electric field, and light passing through doesn't change colour. At the very high intensities a focused laser can reach, that proportionality breaks down: the response also contains terms in the square (and higher powers) of the field, and one consequence is second-harmonic generation, where some of the light emerges at exactly twice the input frequency — half the wavelength.",
+    "et": "Tavalise valguse intensiivsuste juures on materjali polarisatsiooni vastus võrdeline elektrivälja tugevusega, ja läbiv valgus ei muuda värvi. Fokusseeritud laseri saavutatavatel väga kõrgetel intensiivsustel see võrdelisus laguneb: vastus sisaldab ka välja tugevuse ruutu (ja kõrgemaid astmeid), ja üks tagajärg on II harmoonilise genereerimine, mille korral osa valgusest väljub täpselt kahekordse sisendsagedusega — poole lainepikkusega.",
+    "sourceHash": "4fae5406a4dcade5",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-waves-in-media"
+  ]
+}

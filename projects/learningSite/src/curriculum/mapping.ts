@@ -172,6 +172,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "birefringence-and-wave-plates",
     "radiometric-and-photometric-quantities",
     "photodetectors-pmt-and-ccd",
+    "nonlinear-optics-and-harmonic-generation",
   ],
   "LOFY.01.009": [
     "heisenberg-uncertainty-principle",

@@ -1,0 +1,37 @@
+{
+  "id": "second-harmonic-wavelength-solve-lambda2omega",
+  "formulaId": "second-harmonic-wavelength-formula",
+  "solveFor": "lambda2omega",
+  "mistakes": [
+    {
+      "id": "doubled-instead-of-halved",
+      "description": {
+        "en": "Doubled the wavelength instead of halving it — confusing which quantity doubles (frequency) with which one halves (wavelength).",
+        "et": "Kahekordistas lainepikkuse selle poolitamise asemel — segi läks, kumb suurus kahekordistub (sagedus) ja kumb poolitub (lainepikkus).",
+        "sourceHash": "7728b0f7373bfc60",
+        "stale": false
+      },
+      "expression": "lambdaomega*2"
+    },
+    {
+      "id": "left-wavelength-unchanged",
+      "description": {
+        "en": "Reported the input wavelength unchanged, as if second-harmonic generation didn't shift the wavelength at all.",
+        "et": "Andis vastuseks muutumatu sisendlainepikkuse, nagu ei muudaks II harmoonilise genereerimine lainepikkust üldse.",
+        "sourceHash": "e9ff26072c015708",
+        "stale": false
+      },
+      "expression": "lambdaomega"
+    },
+    {
+      "id": "tripled-instead-of-doubled",
+      "description": {
+        "en": "Divided by three instead of two, as if computing a third harmonic instead of the second.",
+        "et": "Jagas kolmega, mitte kahega, nagu arvutaks III harmoonilist, mitte II harmoonilist.",
+        "sourceHash": "12f8467240d1eaa8",
+        "stale": false
+      },
+      "expression": "lambdaomega/3"
+    }
+  ]
+}

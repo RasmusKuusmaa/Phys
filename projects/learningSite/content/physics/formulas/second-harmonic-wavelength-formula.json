@@ -1,0 +1,33 @@
+{
+  "id": "second-harmonic-wavelength-formula",
+  "conceptId": "nonlinear-optics-and-harmonic-generation",
+  "latex": "\\lambda_{2\\omega} = \\frac{\\lambda_\\omega}{2}",
+  "symbols": [
+    {
+      "symbol": "lambdaomega",
+      "name": {
+        "en": "wavelength",
+        "et": "lainepikkus",
+        "sourceHash": "cbf73350941bee0f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "lambda2omega",
+      "name": {
+        "en": "wavelength",
+        "et": "lainepikkus",
+        "sourceHash": "cbf73350941bee0f",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "lambda2omega"
+  ],
+  "expressions": {
+    "lambda2omega": "lambdaomega/2"
+  }
+}

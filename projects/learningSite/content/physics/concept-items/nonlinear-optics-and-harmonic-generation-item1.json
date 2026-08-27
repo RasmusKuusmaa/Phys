@@ -1,0 +1,56 @@
+{
+  "id": "nonlinear-optics-and-harmonic-generation-item1",
+  "conceptId": "nonlinear-optics-and-harmonic-generation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A 1064 nm infrared laser beam is focused into a nonlinear crystal and a green, 532 nm beam emerges alongside the original infrared beam. What is happening?",
+    "et": "1064 nm infrapunase laseri kiir fookustatakse mittelineaarsesse kristalli ja algse infrapunase kiire kõrval tekib roheline, 532 nm kiir. Mis toimub?",
+    "sourceHash": "441bab6d7ef755fd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Second-harmonic generation: pairs of 1064 nm photons are combining into single 532 nm photons of twice the frequency, while most of the beam passes through unconverted.",
+        "et": "II harmoonilise genereerimine: 1064 nm footonite paarid liituvad üksikuteks 532 nm footoniteks, mille sagedus on kahekordne, samal ajal kui enamik kiirest läbib muutumatult.",
+        "sourceHash": "4a5203e58f67cddf",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This would happen in any transparent material at high enough intensity, regardless of its crystal structure.",
+        "et": "See juhtuks igas läbipaistvas materjalis piisavalt kõrge intensiivsuse juures, sõltumata selle kristallstruktuurist.",
+        "sourceHash": "050212c80bd7edfa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nonlinear-optics-and-harmonic-generation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The entire infrared beam has been converted to green light — there's no infrared beam left after the crystal.",
+        "et": "Kogu infrapunane kiir on muudetud roheliseks valguseks — kristalli järel infrapunast kiirt enam ei ole.",
+        "sourceHash": "578a3f7a3c9b783c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nonlinear-optics-and-harmonic-generation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Individual infrared photons are splitting apart, each one losing half its energy and shifting to the green wavelength.",
+        "et": "Üksikud infrapunased footonid lõhenevad, igaüks kaotab poole oma energiast ja nihkub rohelisele lainepikkusele.",
+        "sourceHash": "96c7607a3af84843",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nonlinear-optics-and-harmonic-generation-m3"
+    }
+  ]
+}

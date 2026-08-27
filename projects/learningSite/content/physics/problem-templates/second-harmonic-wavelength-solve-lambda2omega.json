@@ -1,0 +1,21 @@
+{
+  "id": "second-harmonic-wavelength-solve-lambda2omega",
+  "formulaId": "second-harmonic-wavelength-formula",
+  "variables": [
+    {
+      "symbol": "lambdaomega",
+      "min": 0.0000008,
+      "max": 0.0000015,
+      "unit": "m",
+      "sigFigs": 4
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "lambdaomega",
+      "right": 0
+    }
+  ],
+  "solveFor": "lambda2omega"
+}

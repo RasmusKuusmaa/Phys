@@ -1,0 +1,10 @@
+{
+  "id": "nonlinear-optics-and-harmonic-generation-m1",
+  "conceptId": "nonlinear-optics-and-harmonic-generation",
+  "text": {
+    "en": "Believing any material can second-harmonic-generate if the input light is intense enough, rather than the effect also requiring a material lacking inversion symmetry — a symmetric crystal structure cancels the second-order response by symmetry regardless of intensity.",
+    "et": "Uskumine, et iga materjal võib II harmoonilist genereerida, kui sisendvalgus on piisavalt intensiivne, mitte see, et efekt eeldab ka inversioonisümmeetriata materjali — sümmeetrilise kristallstruktuuriga materjalis kaob teist järku vastus sümmeetria tõttu sõltumata intensiivsusest.",
+    "sourceHash": "ea0dd793681d1de7",
+    "stale": false
+  }
+}

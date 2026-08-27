@@ -243,7 +243,8 @@
     "fresnel-equations-and-brewsters-angle",
     "birefringence-and-wave-plates",
     "radiometric-and-photometric-quantities",
-    "photodetectors-pmt-and-ccd"
+    "photodetectors-pmt-and-ccd",
+    "nonlinear-optics-and-harmonic-generation"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",
