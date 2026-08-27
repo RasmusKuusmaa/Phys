@@ -1,0 +1,10 @@
+{
+  "id": "hypothesis-testing-m2",
+  "conceptId": "hypothesis-testing",
+  "text": {
+    "en": "Believes the p-value is the probability that the null hypothesis is true, rather than the probability of seeing a test statistic at least this extreme if the null hypothesis were true.",
+    "et": "Arvab, et olulisustõenäosus (p-väärtus) on tõenäosus, et nullhüpotees on tõene, mitte tõenäosus näha vähemalt nii äärmuslikku teststatistikut, kui nullhüpotees kehtiks.",
+    "sourceHash": "e78e51c7f99e1882",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "hypothesis-testing-item1",
+  "conceptId": "hypothesis-testing",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A hypothesis test gives p = 0.12, above the chosen significance level of 0.05. What is the correct conclusion?",
+    "et": "Hüpoteesi kontroll annab p = 0,12, mis on üle valitud olulisusnivoo 0,05. Milline on õige järeldus?",
+    "sourceHash": "3ef5870689170c34",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The data do not provide enough evidence to reject the null hypothesis",
+        "et": "Andmed ei annanud piisavalt tõendeid nullhüpoteesi tagasilükkamiseks",
+        "sourceHash": "f9b5a7d6a6286add",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The null hypothesis has been proven true",
+        "et": "Nullhüpotees on tõestatud õigeks",
+        "sourceHash": "0c03ead45f4dfc69",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypothesis-testing-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "There is a 12% probability that the null hypothesis is true",
+        "et": "On 12% tõenäosus, et nullhüpotees on tõene",
+        "sourceHash": "22c020c83f055312",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypothesis-testing-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The test should be redone at significance level 0.20 instead, since a stricter level like 0.05 only makes tests needlessly hard to pass",
+        "et": "Test tuleks selle asemel korrata olulisusnivool 0,20, kuna karmim nivoo (nagu 0,05) muudab testi läbimise ainult asjatult raskeks",
+        "sourceHash": "62a7fffc72caa68e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypothesis-testing-m3"
+    }
+  ]
+}

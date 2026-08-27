@@ -31,7 +31,8 @@
     "probability",
     "random-variables-and-distributions",
     "common-probability-distributions",
-    "point-and-interval-estimation"
+    "point-and-interval-estimation",
+    "hypothesis-testing"
   ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"

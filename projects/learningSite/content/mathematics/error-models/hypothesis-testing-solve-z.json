@@ -1,0 +1,37 @@
+{
+  "id": "hypothesis-testing-solve-z",
+  "formulaId": "hypothesis-testing-z-statistic-formula",
+  "solveFor": "z",
+  "mistakes": [
+    {
+      "id": "forgot-square-root",
+      "description": {
+        "en": "Divided by s/n instead of s/√n, forgetting the square root in the standard error.",
+        "et": "Jagas s/n-ga, mitte s/√n-ga, unustades standardvea ruutjuure.",
+        "sourceHash": "ecfe28fe0df4a5e1",
+        "stale": false
+      },
+      "expression": "(xbar-mu0)/(s/n)"
+    },
+    {
+      "id": "inverted-the-difference",
+      "description": {
+        "en": "Subtracted the sample mean from the hypothesised mean instead of the other way around, flipping the statistic's sign.",
+        "et": "Lahutas valimi keskmise nullhüpoteesi keskmisest, mitte vastupidi, pöörates statistiku märgi.",
+        "sourceHash": "6ea7ee416ba737e6",
+        "stale": false
+      },
+      "expression": "(mu0-xbar)/(s/sqrt(n))"
+    },
+    {
+      "id": "forgot-to-divide-by-s",
+      "description": {
+        "en": "Multiplied by √n instead of dividing the difference by the standard error s/√n.",
+        "et": "Korrutas √n-ga, selle asemel et jagada vahe standardveaga s/√n.",
+        "sourceHash": "b3a9946150afc297",
+        "stale": false
+      },
+      "expression": "(xbar-mu0)*sqrt(n)"
+    }
+  ]
+}

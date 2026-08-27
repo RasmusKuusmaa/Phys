@@ -1,0 +1,21 @@
+{
+  "id": "hypothesis-testing",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "probability-and-statistics",
+  "title": {
+    "en": "Hypothesis testing",
+    "et": "Hüpoteeside püstitamine ja kontrollimine",
+    "sourceHash": "a79aeff92ceded73",
+    "stale": false
+  },
+  "summary": {
+    "en": "Hypothesis testing starts by assuming the null hypothesis is true, computes a test statistic measuring how far the sample departs from that assumption, and rejects the null only when that departure would be too unlikely to be explained by chance alone — it can disprove a null hypothesis but never proves one true, only fails to reject it.",
+    "et": "Hüpoteeside kontrollimine algab eeldusest, et nullhüpotees kehtib, arvutab teststatistiku, mis mõõdab, kui kaugele valim sellest eeldusest hälbib, ning lükkab nullhüpoteesi tagasi ainult siis, kui see hälve oleks juhuslikkusega liiga ebatõenäoliselt seletatav — see saab nullhüpoteesi ümber lükata, kuid ei tõesta seda kunagi õigeks, vaid ainult ei lükka tagasi.",
+    "sourceHash": "92168b2e8f82aaab",
+    "stale": false
+  },
+  "prerequisites": [
+    "point-and-interval-estimation"
+  ]
+}

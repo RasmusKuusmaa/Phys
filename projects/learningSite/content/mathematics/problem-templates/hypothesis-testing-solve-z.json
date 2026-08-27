@@ -1,0 +1,52 @@
+{
+  "id": "hypothesis-testing-solve-z",
+  "formulaId": "hypothesis-testing-z-statistic-formula",
+  "variables": [
+    {
+      "symbol": "xbar",
+      "min": 40,
+      "max": 60,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "mu0",
+      "min": 40,
+      "max": 60,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "s",
+      "min": 1,
+      "max": 20,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "n",
+      "min": 10,
+      "max": 200,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "s",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "n",
+      "right": 0
+    },
+    {
+      "op": "neq",
+      "left": "xbar",
+      "right": "mu0"
+    }
+  ],
+  "solveFor": "z"
+}

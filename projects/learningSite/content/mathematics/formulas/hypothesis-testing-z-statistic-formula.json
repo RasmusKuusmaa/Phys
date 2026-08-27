@@ -1,0 +1,63 @@
+{
+  "id": "hypothesis-testing-z-statistic-formula",
+  "conceptId": "hypothesis-testing",
+  "latex": "z = \\frac{\\bar{x} - \\mu_0}{s / \\sqrt{n}}",
+  "symbols": [
+    {
+      "symbol": "xbar",
+      "name": {
+        "en": "sample mean",
+        "et": "valimi keskmine",
+        "sourceHash": "ccb305e9f06fc7f4",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "mu0",
+      "name": {
+        "en": "null-hypothesis mean",
+        "et": "nullhüpoteesi keskmine",
+        "sourceHash": "caed3be0a7a21781",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "s",
+      "name": {
+        "en": "standard deviation",
+        "et": "standardhälve",
+        "sourceHash": "366b910bc6d0ee3b",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "n",
+      "name": {
+        "en": "sample size",
+        "et": "valimi suurus",
+        "sourceHash": "c3fa44a62fc27e93",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "z",
+      "name": {
+        "en": "test statistic",
+        "et": "teststatistik",
+        "sourceHash": "3ddbe9797d7a6d17",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "z"
+  ],
+  "expressions": {
+    "z": "(xbar-mu0)/(s/sqrt(n))"
+  }
+}

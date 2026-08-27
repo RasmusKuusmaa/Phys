@@ -1,0 +1,10 @@
+{
+  "id": "hypothesis-testing-m1",
+  "conceptId": "hypothesis-testing",
+  "text": {
+    "en": "Believes failing to reject the null hypothesis proves the null hypothesis is true, rather than merely meaning the sample gave insufficient evidence against it.",
+    "et": "Arvab, et nullhüpoteesi tagasilükkamata jätmine tõestab nullhüpoteesi õigsust, mitte, et valim ei andnud selle vastu piisavalt tõendeid.",
+    "sourceHash": "f8e63de44176ce53",
+    "stale": false
+  }
+}

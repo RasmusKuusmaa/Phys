@@ -1,0 +1,10 @@
+{
+  "id": "hypothesis-testing-m3",
+  "conceptId": "hypothesis-testing",
+  "text": {
+    "en": "Believes a smaller significance level always makes a test 'more rigorous' with no downside, ignoring that lowering it trades a smaller chance of a false positive (Type I error) for a larger chance of missing a real effect (Type II error).",
+    "et": "Arvab, et väiksem olulisusnivoo teeb testi alati 'täpsemaks' ilma varjukülgedeta, jättes tähelepanuta, et selle vähendamine vahetab väiksema valepositiivse tulemuse (I liigi vea) tõenäosuse suurema tõenäosuse vastu jätta tõeline efekt märkamata (II liigi viga).",
+    "sourceHash": "ec0475a42754753b",
+    "stale": false
+  }
+}
