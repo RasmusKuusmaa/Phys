@@ -228,7 +228,17 @@
     "standing-waves",
     "total-internal-reflection",
     "wave-nature-of-light",
-    "wave-properties"
+    "wave-properties",
+    "reflection-and-refraction",
+    "the-wave-equation",
+    "maxwells-equations",
+    "the-poynting-vector",
+    "signals-and-fourier-analysis",
+    "blackbody-radiation-and-plancks-law",
+    "the-doppler-effect",
+    "photoelectric-effect",
+    "photons-and-quanta",
+    "lasers-and-stimulated-emission"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

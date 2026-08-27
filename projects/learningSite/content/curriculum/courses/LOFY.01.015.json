@@ -101,7 +101,11 @@
   ],
   "conceptIds": [
     "radioactive-decay-modes",
-    "radioactivity-and-half-life"
+    "radioactivity-and-half-life",
+    "compton-scattering",
+    "photoelectric-effect",
+    "x-rays-and-their-production",
+    "statistical-distributions-in-measurement"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"

@@ -116,7 +116,10 @@
     "rc-circuit-transients",
     "resistivity-and-conductivity",
     "the-poynting-vector",
-    "voltage-and-resistance"
+    "voltage-and-resistance",
+    "band-theory-of-solids",
+    "semiconductors-and-doping",
+    "superconductivity"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

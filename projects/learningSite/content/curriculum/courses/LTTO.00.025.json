@@ -119,7 +119,9 @@
     "the-greenhouse-effect-and-planetary-energy-balance",
     "stellar-classification-and-the-hertzsprung-russell-diagram",
     "hubbles-law-and-the-expanding-universe",
-    "keplers-laws"
+    "keplers-laws",
+    "non-inertial-frames-and-fictitious-forces",
+    "spectroscopy"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics2.md"

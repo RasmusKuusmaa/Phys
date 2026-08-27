@@ -66,7 +66,10 @@
     "quantum-energy-levels",
     "photons-and-quanta",
     "the-hydrogen-atom-and-atomic-structure",
-    "wave-nature-of-light"
+    "wave-nature-of-light",
+    "signals-and-fourier-analysis",
+    "lasers-and-stimulated-emission",
+    "the-michelson-interferometer"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"

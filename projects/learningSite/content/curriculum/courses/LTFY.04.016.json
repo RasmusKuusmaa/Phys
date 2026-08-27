@@ -235,7 +235,13 @@
     "lagrangian-mechanics",
     "moment-of-inertia-and-rotational-dynamics",
     "rotational-kinetic-energy",
-    "torque-and-angular-momentum"
+    "torque-and-angular-momentum",
+    "displacement-velocity-acceleration",
+    "conservation-of-energy",
+    "central-force-motion-and-orbits",
+    "non-inertial-frames-and-fictitious-forces",
+    "hamiltonian-mechanics",
+    "lorentz-force"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md",

@@ -103,7 +103,14 @@
     "specific-heat-capacity",
     "thermal-expansion",
     "uncertainty-and-error",
-    "work-and-energy"
+    "work-and-energy",
+    "mechanical-deformation-elasticity-and-plasticity",
+    "moment-of-inertia-and-rotational-dynamics",
+    "rotational-kinetic-energy",
+    "sound-waves-and-intensity",
+    "drag-and-terminal-velocity",
+    "ideal-gas-law",
+    "thermodynamic-processes"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"

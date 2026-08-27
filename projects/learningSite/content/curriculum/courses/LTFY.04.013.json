@@ -219,7 +219,9 @@
     "divergence-and-curl",
     "the-divergence-and-stokes-theorems",
     "partial-derivatives",
-    "multiple-integrals"
+    "multiple-integrals",
+    "matrices",
+    "eigenvalues-and-eigenvectors"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"

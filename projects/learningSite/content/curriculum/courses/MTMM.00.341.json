@@ -32,7 +32,9 @@
     "infinite-series",
     "multiple-integrals",
     "partial-derivatives",
-    "vector-spaces"
+    "vector-spaces",
+    "first-order-differential-equations",
+    "second-order-differential-equations"
   ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"

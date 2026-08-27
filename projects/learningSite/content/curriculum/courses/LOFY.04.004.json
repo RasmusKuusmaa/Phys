@@ -121,7 +121,10 @@
     "statistical-definition-of-entropy",
     "the-carnot-cycle-and-heat-engines",
     "the-maxwell-boltzmann-distribution",
-    "quantum-statistics-fermi-dirac-and-bose-einstein"
+    "quantum-statistics-fermi-dirac-and-bose-einstein",
+    "thermodynamic-processes",
+    "ideal-gas-law",
+    "phase-transitions"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"

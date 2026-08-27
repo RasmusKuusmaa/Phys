@@ -112,7 +112,11 @@
     "lorentz-force",
     "magnetic-fields",
     "resistivity-and-conductivity",
-    "voltage-and-resistance"
+    "voltage-and-resistance",
+    "spin-and-angular-momentum-in-quantum-mechanics",
+    "rc-circuit-transients",
+    "lc-and-rlc-oscillations",
+    "ac-circuits-and-impedance"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"
