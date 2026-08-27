@@ -1,0 +1,56 @@
+{
+  "id": "general-relativity-and-cosmological-models-item1",
+  "conceptId": "general-relativity-and-cosmological-models",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Distant galaxies in every direction are observed to be receding from us, with recession speed roughly proportional to distance. According to general relativity, what is actually happening?",
+    "et": "Kaugeid galaktikaid on igas suunas täheldatud meist eemalduvat, kusjuures eemaldumiskiirus on ligikaudu võrdeline kaugusega. Mis üldrelatiivsusteooria kohaselt tegelikult toimub?",
+    "sourceHash": "bb1ccddc371f1174",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Space itself is expanding uniformly everywhere, with no centre or edge; an observer in any galaxy would see the same pattern of galaxies receding from them.",
+        "et": "Ruum ise paisub ühtlaselt kõikjal, ilma tsentri ja ääreta; vaatleja mis tahes galaktikas näeks sama mustrit, kus galaktikad temast eemalduvad.",
+        "sourceHash": "c2b8d04062ec24ee",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Galaxies are physically flying outward through pre-existing, static space from a single explosion point, and we happen to be located near that point.",
+        "et": "Galaktikad lendavad füüsiliselt eemale läbi olemasoleva, staatilise ruumi ühest plahvatuspunktist, ja me juhtume asuma selle lähedal.",
+        "sourceHash": "641e75ebaae59556",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "general-relativity-and-cosmological-models-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A gravitational force reaching across space from whatever lies beyond the observable universe is pushing galaxies away from us.",
+        "et": "Miski väljaspool vaadeldavat universumit avaldab läbi ruumi ulatuvat gravitatsioonijõudu, mis lükkab galaktikaid meist eemale.",
+        "sourceHash": "e182d6a288f87130",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "general-relativity-and-cosmological-models-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Each distant galaxy's light is simply gravitationally time-dilated by its own mass, an effect unrelated to any large-scale expansion of space.",
+        "et": "Iga kauge galaktika valgus on lihtsalt selle enda massi poolt gravitatsiooniliselt aja dilateeritud, mis on ruumi suuremastaabilisest paisumisest seostamata efekt.",
+        "sourceHash": "94fbf466b73caed7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "general-relativity-and-cosmological-models-m3"
+    }
+  ]
+}
