@@ -1,0 +1,40 @@
+{
+  "id": "rayleigh-scattering-intensity-ratio-solve-i2",
+  "formulaId": "rayleigh-scattering-intensity-ratio-formula",
+  "variables": [
+    {
+      "symbol": "I1",
+      "min": 10,
+      "max": 500,
+      "unit": "W/m^2",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "lambda1",
+      "min": 0.0000004,
+      "max": 0.0000007,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "lambda2",
+      "min": 0.0000004,
+      "max": 0.0000007,
+      "unit": "m",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "I1",
+      "right": 0
+    },
+    {
+      "op": "neq",
+      "left": "lambda1",
+      "right": "lambda2"
+    }
+  ],
+  "solveFor": "I2"
+}

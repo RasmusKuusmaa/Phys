@@ -238,7 +238,8 @@
     "the-doppler-effect",
     "photoelectric-effect",
     "photons-and-quanta",
-    "lasers-and-stimulated-emission"
+    "lasers-and-stimulated-emission",
+    "rayleigh-and-mie-scattering"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

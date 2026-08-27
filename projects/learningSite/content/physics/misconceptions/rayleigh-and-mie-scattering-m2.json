@@ -1,0 +1,10 @@
+{
+  "id": "rayleigh-and-mie-scattering-m2",
+  "conceptId": "rayleigh-and-mie-scattering",
+  "text": {
+    "en": "Assuming Mie scattering, from particles comparable to or larger than the wavelength (dust, water droplets), depends as strongly on wavelength as Rayleigh scattering's 1/λ⁴ — rather than being nearly wavelength-independent, which is why clouds and haze look white, not blue.",
+    "et": "Eeldus, et Mie hajumine osakestel, mis on lainepikkusega võrreldavad või suuremad (tolm, veepiisad), sõltub lainepikkusest samavõrd tugevalt kui Rayleighi hajumise 1/λ⁴ — tegelikult on see peaaegu lainepikkusest sõltumatu, mistõttu pilved ja sudu näevad välja valged, mitte sinised.",
+    "sourceHash": "9f89805748639866",
+    "stale": false
+  }
+}

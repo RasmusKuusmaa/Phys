@@ -1,0 +1,37 @@
+{
+  "id": "rayleigh-scattering-intensity-ratio-solve-i2",
+  "formulaId": "rayleigh-scattering-intensity-ratio-formula",
+  "solveFor": "I2",
+  "mistakes": [
+    {
+      "id": "used-inverse-ratio",
+      "description": {
+        "en": "Inverted the wavelength ratio, computing I1·(λ2/λ1)⁴ instead of I1·(λ1/λ2)⁴.",
+        "et": "Pööras lainepikkuste suhte, arvutades I1·(λ2/λ1)⁴, mitte I1·(λ1/λ2)⁴.",
+        "sourceHash": "d686fa2fdab41fd6",
+        "stale": false
+      },
+      "expression": "I1*pow(lambda2/lambda1,4)"
+    },
+    {
+      "id": "used-square-not-fourth-power",
+      "description": {
+        "en": "Used the inverse-square law (power 2) instead of Rayleigh scattering's 1/λ⁴ dependence (power 4).",
+        "et": "Kasutas pöördruutseadust (astendaja 2), mitte Rayleighi hajumise 1/λ⁴ sõltuvust (astendaja 4).",
+        "sourceHash": "6b2ae826a3a6dd0f",
+        "stale": false
+      },
+      "expression": "I1*pow(lambda1/lambda2,2)"
+    },
+    {
+      "id": "forgot-to-multiply-by-i1",
+      "description": {
+        "en": "Computed only the ratio (λ1/λ2)⁴ and forgot to multiply by I1.",
+        "et": "Arvutas ainult suhte (λ1/λ2)⁴ ja unustas korrutada I1-ga.",
+        "sourceHash": "753c04fe01a49877",
+        "stale": false
+      },
+      "expression": "pow(lambda1/lambda2,4)"
+    }
+  ]
+}

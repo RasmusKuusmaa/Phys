@@ -1,0 +1,56 @@
+{
+  "id": "rayleigh-and-mie-scattering-item1",
+  "conceptId": "rayleigh-and-mie-scattering",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the setting Sun often look red or orange, while the rest of the sky overhead stays blue?",
+    "et": "Miks näeb loojuv Päike sageli punane või oranž välja, samal ajal kui ülejäänud taevas jääb siniseks?",
+    "sourceHash": "7632540742746f13",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Near the horizon, sunlight crosses a much longer path through the atmosphere, so Rayleigh scattering removes most of the blue light from the direct beam; that scattered blue light is what colours the rest of the sky.",
+        "et": "Silmapiiri lähedal läbib päikesevalgus atmosfääris palju pikema teekonna, mistõttu Rayleighi hajumine eemaldab otsekiirest enamiku sinist valgust; see hajunud sinine valgus värvibki ülejäänud taeva.",
+        "sourceHash": "1877b2c7c610b28a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The sky reflects the ocean's blue colour, and the sunset sky reflects the Sun's own red glow.",
+        "et": "Taevas peegeldab ookeani sinist värvi, ja loojanguaegne taevas peegeldab Päikese oma punast kuma.",
+        "sourceHash": "ada3ff33baa104e8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rayleigh-and-mie-scattering-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Dust and haze near the horizon scatter light the same wavelength-dependent way air molecules do, just with extra 1/λ⁴ reddening added on top.",
+        "et": "Tolm ja sudu silmapiiri lähedal hajutavad valgust samal lainepikkusest sõltuval viisil kui õhumolekulid, lisades sellele veel täiendavat 1/λ⁴ punetust.",
+        "sourceHash": "44c3e70f40d96f02",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rayleigh-and-mie-scattering-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The Sun's surface itself cools and reddens as it approaches the horizon.",
+        "et": "Päikese pind ise jahtub ja muutub punasemaks, kui see silmapiirile lähemale jõuab.",
+        "sourceHash": "f587869728e3f508",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rayleigh-and-mie-scattering-m3"
+    }
+  ]
+}

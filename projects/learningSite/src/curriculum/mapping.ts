@@ -167,6 +167,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "photoelectric-effect",
     "photons-and-quanta",
     "lasers-and-stimulated-emission",
+    "rayleigh-and-mie-scattering",
   ],
   "LOFY.01.009": [
     "heisenberg-uncertainty-principle",

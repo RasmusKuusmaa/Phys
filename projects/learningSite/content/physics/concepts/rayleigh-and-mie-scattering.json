@@ -1,0 +1,22 @@
+{
+  "id": "rayleigh-and-mie-scattering",
+  "subject": "physics",
+  "level": "L2",
+  "module": "optics",
+  "title": {
+    "en": "Rayleigh and Mie scattering",
+    "et": "Rayleighi ja Mie hajumine",
+    "sourceHash": "c36f8088d0308398",
+    "stale": false
+  },
+  "summary": {
+    "en": "Rayleigh scattering, off particles much smaller than the light's wavelength (air molecules), scales as 1/λ⁴ and favours blue light — why the sky is blue and sunsets are red. Mie scattering, off particles comparable to the wavelength (dust, water droplets), is nearly wavelength-independent — why clouds and haze look white.",
+    "et": "Rayleighi hajumine valguse lainepikkusest palju väiksematel osakestel (õhumolekulid) käitub kui 1/λ⁴ ja soosib sinist valgust — seetõttu on taevas sinine ja loojang punane. Mie hajumine lainepikkusega võrreldavatel osakestel (tolm, veepiisad) on peaaegu lainepikkusest sõltumatu — seetõttu näevad pilved ja sudu välja valged.",
+    "sourceHash": "c24035a4158dbb03",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-waves",
+    "wave-nature-of-light"
+  ]
+}

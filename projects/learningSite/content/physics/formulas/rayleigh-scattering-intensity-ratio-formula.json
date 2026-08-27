@@ -1,0 +1,53 @@
+{
+  "id": "rayleigh-scattering-intensity-ratio-formula",
+  "conceptId": "rayleigh-and-mie-scattering",
+  "latex": "I_2 = I_1 \\left(\\frac{\\lambda_1}{\\lambda_2}\\right)^4",
+  "symbols": [
+    {
+      "symbol": "I1",
+      "name": {
+        "en": "intensity",
+        "et": "intensiivsus",
+        "sourceHash": "d0854ad1c7e25944",
+        "stale": false
+      },
+      "unit": "W/m^2"
+    },
+    {
+      "symbol": "lambda1",
+      "name": {
+        "en": "wavelength",
+        "et": "lainepikkus",
+        "sourceHash": "cbf73350941bee0f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "lambda2",
+      "name": {
+        "en": "wavelength",
+        "et": "lainepikkus",
+        "sourceHash": "cbf73350941bee0f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "I2",
+      "name": {
+        "en": "intensity",
+        "et": "intensiivsus",
+        "sourceHash": "d0854ad1c7e25944",
+        "stale": false
+      },
+      "unit": "W/m^2"
+    }
+  ],
+  "solveFor": [
+    "I2"
+  ],
+  "expressions": {
+    "I2": "I1*pow(lambda1/lambda2,4)"
+  }
+}
