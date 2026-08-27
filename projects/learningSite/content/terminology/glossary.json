@@ -1314,5 +1314,96 @@
     "et": "töö",
     "domain": "mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/töö/1/est"
+  },
+  {
+    "id": "exponent",
+    "en": "exponent",
+    "et": "astendaja",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/astendaja/1/est"
+  },
+  {
+    "id": "improper-integral",
+    "en": "improper integral",
+    "et": "päratu integraal",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/integraal/1/est"
+  },
+  {
+    "id": "probability",
+    "en": "probability",
+    "et": "tõenäosus",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/tõenäosus/1/est"
+  },
+  {
+    "id": "number-of-trials",
+    "en": "number of trials",
+    "et": "katsete arv",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/katse/1/est"
+  },
+  {
+    "id": "mean",
+    "en": "mean",
+    "et": "keskväärtus",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/keskväärtus/1/est"
+  },
+  {
+    "id": "variance",
+    "en": "variance",
+    "et": "dispersioon",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/dispersioon/1/est"
+  },
+  {
+    "id": "standard-deviation",
+    "en": "standard deviation",
+    "et": "standardhälve",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/standardhälve/1/est"
+  },
+  {
+    "id": "sample-size",
+    "en": "sample size",
+    "et": "valimi suurus",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/valim/1/est"
+  },
+  {
+    "id": "quantile",
+    "en": "quantile",
+    "et": "kvantiil",
+    "domain": "mathematics",
+    "source": "https://kodu.ut.ee/~maitraag/epi/_book/5-3-usaldusvahemik.html"
+  },
+  {
+    "id": "confidence-interval-half-width",
+    "en": "confidence interval half-width",
+    "et": "usaldusvahemiku poolpikkus",
+    "domain": "mathematics",
+    "source": "https://kodu.ut.ee/~maitraag/epi/_book/5-3-usaldusvahemik.html"
+  },
+  {
+    "id": "sample-mean",
+    "en": "sample mean",
+    "et": "valimi keskmine",
+    "domain": "mathematics",
+    "source": "https://kodu.ut.ee/~maitraag/epi/_book/statistiline-h%C3%BCpoteeside-testimine.html"
+  },
+  {
+    "id": "null-hypothesis-mean",
+    "en": "null-hypothesis mean",
+    "et": "nullhüpoteesi keskmine",
+    "domain": "mathematics",
+    "source": "https://kodu.ut.ee/~maitraag/epi/_book/statistiline-h%C3%BCpoteeside-testimine.html"
+  },
+  {
+    "id": "test-statistic",
+    "en": "test statistic",
+    "et": "teststatistik",
+    "domain": "mathematics",
+    "source": "https://kodu.ut.ee/~maitraag/epi/_book/statistiline-h%C3%BCpoteeside-testimine.html"
   }
 ]
