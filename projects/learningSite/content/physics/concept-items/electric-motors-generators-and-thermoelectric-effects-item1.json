@@ -1,0 +1,56 @@
+{
+  "id": "electric-motors-generators-and-thermoelectric-effects-item1",
+  "conceptId": "electric-motors-generators-and-thermoelectric-effects",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is fundamentally true about how an electric generator produces its EMF, and how a motor relates to a generator?",
+    "et": "Mis on põhimõtteliselt tõsi selle kohta, kuidas elektrigeneraator oma elektromotoorjõu tekitab, ja kuidas mootor generaatoriga seotud on?",
+    "sourceHash": "10d962dbf8d232e5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The EMF is set by how fast the magnetic flux through the coil changes, which scales with turns, field, area and rotation speed; a motor is the same rotating-coil-in-a-field machine with the electrical and mechanical roles swapped.",
+        "et": "Elektromotoorjõu määrab see, kui kiiresti muutub mähist läbiv magnetvoog, mis sõltub keerdude arvust, väljast, pindalast ja pöörlemiskiirusest; mootor on sama pöörleva mähise ja välja masin, kus elektrilised ja mehaanilised rollid on vahetunud.",
+        "sourceHash": "8080d91ce21b178c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The EMF is set mainly by the coil's electrical resistance.",
+        "et": "Elektromotoorjõu määrab peamiselt mähise elektritakistus.",
+        "sourceHash": "5123efec591bff3c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-motors-generators-and-thermoelectric-effects-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Spinning the coil faster only changes how quickly the voltage oscillates, not how large the peak voltage is.",
+        "et": "Mähise kiirem pööramine muudab ainult pinge võnkumise sagedust, mitte pinge amplituudi.",
+        "sourceHash": "38c50f30715b3d55",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-motors-generators-and-thermoelectric-effects-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A motor works by an entirely different physical principle than a generator.",
+        "et": "Mootor töötab täiesti erineval füüsikalisel põhimõttel kui generaator.",
+        "sourceHash": "813c1bf355541af7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electric-motors-generators-and-thermoelectric-effects-m3"
+    }
+  ]
+}

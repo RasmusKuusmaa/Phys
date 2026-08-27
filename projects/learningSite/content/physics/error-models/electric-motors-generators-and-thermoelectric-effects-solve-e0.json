@@ -1,0 +1,37 @@
+{
+  "id": "electric-motors-generators-and-thermoelectric-effects-solve-e0",
+  "formulaId": "electric-motors-generators-and-thermoelectric-effects-peak-emf",
+  "solveFor": "e0",
+  "mistakes": [
+    {
+      "id": "forgot-the-turns",
+      "description": {
+        "en": "Left the number of turns out of the product entirely.",
+        "et": "Jättis keerdude arvu korrutisest täielikult välja.",
+        "sourceHash": "3e82d37a70ee357c",
+        "stale": false
+      },
+      "expression": "B*A*omega"
+    },
+    {
+      "id": "squared-the-angular-velocity",
+      "description": {
+        "en": "Squared the angular velocity instead of using it to the first power.",
+        "et": "Võttis nurkkiiruse ruutu selle asemel, et kasutada seda esimeses astmes.",
+        "sourceHash": "d672b705534d7563",
+        "stale": false
+      },
+      "expression": "N*B*A*pow(omega,2)"
+    },
+    {
+      "id": "divided-instead-of-multiplied",
+      "description": {
+        "en": "Divided by the angular velocity instead of multiplying by it.",
+        "et": "Jagas nurkkiirusega selle asemel, et sellega korrutada.",
+        "sourceHash": "bb7916054d8541df",
+        "stale": false
+      },
+      "expression": "N*B*A/omega"
+    }
+  ]
+}

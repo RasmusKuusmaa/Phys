@@ -137,6 +137,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "transformers-and-ac-power-distribution",
     "charged-particle-motion-mass-spectrometry-and-cyclotrons",
     "magnetic-materials-and-ferromagnetic-hysteresis",
+    "electric-motors-generators-and-thermoelectric-effects",
   ],
   "LOFY.01.008": [
     "diffraction-gratings",

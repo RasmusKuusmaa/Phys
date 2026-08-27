@@ -124,7 +124,8 @@
     "thevenin-and-norton-equivalent-circuits",
     "transformers-and-ac-power-distribution",
     "charged-particle-motion-mass-spectrometry-and-cyclotrons",
-    "magnetic-materials-and-ferromagnetic-hysteresis"
+    "magnetic-materials-and-ferromagnetic-hysteresis",
+    "electric-motors-generators-and-thermoelectric-effects"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

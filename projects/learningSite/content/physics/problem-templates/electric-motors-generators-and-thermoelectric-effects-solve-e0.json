@@ -1,0 +1,41 @@
+{
+  "id": "electric-motors-generators-and-thermoelectric-effects-solve-e0",
+  "formulaId": "electric-motors-generators-and-thermoelectric-effects-peak-emf",
+  "variables": [
+    {
+      "symbol": "N",
+      "min": 50,
+      "max": 500,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "B",
+      "min": 0.05,
+      "max": 1,
+      "unit": "T",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "A",
+      "min": 0.005,
+      "max": 0.05,
+      "unit": "m^2",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "omega",
+      "min": 5,
+      "max": 50,
+      "unit": "rad/s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "N", "right": 0 },
+    { "op": "gt", "left": "B", "right": 0 },
+    { "op": "gt", "left": "A", "right": 0 },
+    { "op": "gt", "left": "omega", "right": 0 }
+  ],
+  "solveFor": "e0"
+}

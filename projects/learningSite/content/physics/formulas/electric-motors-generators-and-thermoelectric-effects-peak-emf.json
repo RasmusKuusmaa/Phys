@@ -1,0 +1,63 @@
+{
+  "id": "electric-motors-generators-and-thermoelectric-effects-peak-emf",
+  "conceptId": "electric-motors-generators-and-thermoelectric-effects",
+  "latex": "\\varepsilon_0 = NBA\\omega",
+  "symbols": [
+    {
+      "symbol": "N",
+      "name": {
+        "en": "number of turns",
+        "et": "keerdude arv",
+        "sourceHash": "2b6be97973763c41",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "B",
+      "name": {
+        "en": "magnetic field",
+        "et": "magnetväli",
+        "sourceHash": "8e923bfc2b2346c6",
+        "stale": false
+      },
+      "unit": "T"
+    },
+    {
+      "symbol": "A",
+      "name": {
+        "en": "area",
+        "et": "pindala",
+        "sourceHash": "4a91ee5f0106c2b3",
+        "stale": false
+      },
+      "unit": "m^2"
+    },
+    {
+      "symbol": "omega",
+      "name": {
+        "en": "angular velocity",
+        "et": "nurkkiirus",
+        "sourceHash": "62c4cf3f39b48983",
+        "stale": false
+      },
+      "unit": "rad/s"
+    },
+    {
+      "symbol": "e0",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    }
+  ],
+  "solveFor": [
+    "e0"
+  ],
+  "expressions": {
+    "e0": "N*B*A*omega"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "electric-motors-generators-and-thermoelectric-effects-m2",
+  "conceptId": "electric-motors-generators-and-thermoelectric-effects",
+  "text": {
+    "en": "Spinning a generator's coil faster only changes how quickly the voltage oscillates, not how large the peak voltage actually gets.",
+    "et": "Generaatori mähise kiirem pööramine muudab ainult pinge võnkumise sagedust, mitte tegelikku pinge amplituudi.",
+    "sourceHash": "ed8054e729738030",
+    "stale": false
+  }
+}

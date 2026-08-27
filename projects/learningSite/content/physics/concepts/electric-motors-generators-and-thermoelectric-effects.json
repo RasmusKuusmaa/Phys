@@ -1,0 +1,22 @@
+{
+  "id": "electric-motors-generators-and-thermoelectric-effects",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Electric motors, generators and thermoelectric effects",
+    "et": "Elektrimootorid, generaatorid ja termoelektrilised nähtused",
+    "sourceHash": "fa1fc976b61cabd5",
+    "stale": false
+  },
+  "summary": {
+    "en": "A generator spins a coil in a magnetic field to convert mechanical motion into an alternating EMF through electromagnetic induction, a motor is the very same machine run in reverse to convert electrical energy into mechanical motion, and a thermocouple sidesteps magnetism altogether — converting a temperature difference directly into a voltage through the Seebeck effect.",
+    "et": "Generaator pöörab mähist magnetväljas, muutes elektromagnetilise induktsiooni abil mehaanilise liikumise vahelduvaks elektromotoorjõuks, mootor on täpselt sama masin vastupidises suunas, muutes elektrienergia mehaaniliseks liikumiseks, ja termopaar väldib magnetismi täielikult — muutes temperatuurierinevuse Seebecki efekti kaudu otse pingeks.",
+    "sourceHash": "7fa90fcbadb0e37b",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-induction",
+    "voltage-and-resistance"
+  ]
+}
