@@ -2,17 +2,24 @@
 
 Status: the 47 UNMAPPED fixes listed below are done (see `git log` for
 "content: map existing concepts to ..." commits and `src/curriculum/mapping.ts`).
-Of the 54 GAP concepts, the 8 in the "Foundational math" authoring-order group
-are done or in progress (`improper-integrals`, `curve-sketching-with-derivatives`,
-`fourier-series`, `multivariable-optimization-and-lagrange-multipliers`,
-`common-probability-distributions`, `point-and-interval-estimation`,
-`hypothesis-testing`, `intro-to-partial-differential-equations`). The remaining
-46 GAP concepts across the other six themed groups (vector/tensor & complex
-analysis; EM device physics; optics; modern/nuclear/atomic; statistical/quantum
-theory; analytical mechanics; global physics/astro) are not started — this file
-is their queue. Resume by taking the next themed group from the "Suggested
-authoring order" section below and following `CONTRIBUTING.md`'s scaffold
-workflow per concept.
+Of the 54 GAP concepts, two authoring-order groups are done — 18/54 total:
+
+- Foundational math (8): `improper-integrals`, `curve-sketching-with-derivatives`,
+  `fourier-series`, `multivariable-optimization-and-lagrange-multipliers`,
+  `common-probability-distributions`, `point-and-interval-estimation`,
+  `hypothesis-testing`, `intro-to-partial-differential-equations`.
+- Vector/tensor and complex-analysis math (10): `tensor-algebra-and-curvilinear-coordinates`,
+  `dynamical-systems-and-phase-portraits`, `residue-theorem-and-contour-integration`,
+  `laurent-series-and-singularities`, `conformal-mapping`,
+  `separation-of-variables-and-sturm-liouville-problems`,
+  `classification-of-pdes-parabolic-hyperbolic-elliptic`, `laplace-transform-methods`,
+  `greens-function-method-for-odes-and-pdes`, `bessel-legendre-and-special-functions`.
+
+The remaining 36 GAP concepts across five themed groups (EM device physics —
+next up; optics; modern/nuclear/atomic; statistical/quantum theory; analytical
+mechanics; global physics/astro) are not started — this file is their queue.
+Resume by taking the next themed group from the "Suggested authoring order"
+section below and following `CONTRIBUTING.md`'s scaffold workflow per concept.
 
 
 Method: for every in-scope course, `content/curriculum/courses/<CODE>.json` was read for its

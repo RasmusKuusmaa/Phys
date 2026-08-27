@@ -902,11 +902,13 @@ findings and remaining work queue live in
       repo but weren't linked to the course whose syllabus they satisfy
   `content: map existing concepts to ...` (13 commits, one per course group)
 - [~] Author the 54 GAP concepts — topics with no concept anywhere on the
-      platform yet (36 physics, 18 math). First themed batch (8 foundational
-      math concepts) authored; 46 remain. Paused here to work on UX/UI
-      instead — resume from `content/curriculum/DEPTH-GAPS.md`'s authoring
-      order when content work picks back up
+      platform yet (36 physics, 18 math). Two themed batches done (18/54):
+      foundational math (8) and vector/tensor & complex-analysis math (10).
+      36 remain across five groups — resume from
+      `content/curriculum/DEPTH-GAPS.md`'s authoring order, EM device
+      physics group next
   `content: author foundational math depth concepts`
+  `content: author vector tensor and complex analysis math concepts`
 
 ### Phase 14 — Remaining subjects — SUPERSEDED
 
