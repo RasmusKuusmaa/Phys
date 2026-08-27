@@ -1,0 +1,37 @@
+{
+  "id": "common-probability-distributions-solve-variance",
+  "formulaId": "common-probability-distributions-binomial-mean-variance",
+  "solveFor": "variance",
+  "mistakes": [
+    {
+      "id": "used-mean-formula",
+      "description": {
+        "en": "Used the mean's formula np instead of the variance's formula.",
+        "et": "Kasutas dispersiooni arvutamiseks keskväärtuse valemit np.",
+        "sourceHash": "797a219aa9f21576",
+        "stale": false
+      },
+      "expression": "n*p"
+    },
+    {
+      "id": "forgot-one-minus-p",
+      "description": {
+        "en": "Multiplied by p a second time instead of by (1 − p).",
+        "et": "Korrutas veel korra p-ga, (1 − p) asemel.",
+        "sourceHash": "3dc7a3a5dd780d5a",
+        "stale": false
+      },
+      "expression": "n*p*p"
+    },
+    {
+      "id": "took-square-root",
+      "description": {
+        "en": "Computed the standard deviation (the square root of the variance) and reported it as the variance itself.",
+        "et": "Arvutas standardhälbe (dispersiooni ruutjuure) ja esitas selle dispersioonina.",
+        "sourceHash": "cdc58396cb2da881",
+        "stale": false
+      },
+      "expression": "sqrt(n*p*(1-p))"
+    }
+  ]
+}

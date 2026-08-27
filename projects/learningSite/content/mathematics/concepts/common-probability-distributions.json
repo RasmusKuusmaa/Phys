@@ -1,0 +1,21 @@
+{
+  "id": "common-probability-distributions",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "probability-and-statistics",
+  "title": {
+    "en": "Common probability distributions",
+    "et": "Enam kasutust leidnud jaotused",
+    "sourceHash": "e653c1af9c7a852e",
+    "stale": false
+  },
+  "summary": {
+    "en": "A handful of named distributions — binomial for counting successes in a fixed number of independent trials, Poisson for counting rare events over a continuum, normal for continuous measurement error, and Student's t for small-sample estimation — cover most of the random variables statistics actually deals with, and each is fixed by only one or two parameters.",
+    "et": "Käputäis nimega jaotusi — binoomjaotus edu arvu loendamiseks fikseeritud arvu sõltumatute katsete korral, Poissoni jaotus harvade sündmuste loendamiseks pideval taustal, normaaljaotus pideva mõõtmisvea kirjeldamiseks ja Studenti t-jaotus väikese valimi hindamiseks — katavad enamiku juhuslikest suurustest, millega statistika tegelikult tegeleb, ning igaüks neist on määratud vaid ühe või kahe parameetriga.",
+    "sourceHash": "2b6f7bca08dc73dc",
+    "stale": false
+  },
+  "prerequisites": [
+    "random-variables-and-distributions"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "common-probability-distributions-item1",
+  "conceptId": "common-probability-distributions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A fair coin is tossed n = 20 times, and X counts the number of heads. What are the mean and variance of X?",
+    "et": "Ausat münti visatakse n = 20 korda ja X loendab kullide arvu. Mis on X keskväärtus ja dispersioon?",
+    "sourceHash": "62a5e0365364388f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Mean 10, variance 5",
+        "et": "Keskväärtus 10, dispersioon 5",
+        "sourceHash": "e1ffe5fa6e962967",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Mean 10, variance 10",
+        "et": "Keskväärtus 10, dispersioon 10",
+        "sourceHash": "abeb8112834943cd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "common-probability-distributions-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This cannot be a binomial distribution unless p = 0.5 is the only allowed probability",
+        "et": "See ei saa olla binoomjaotus, kuna p = 0,5 on väidetavalt ainus lubatud tõenäosus",
+        "sourceHash": "0fd9d490fb05a908",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "common-probability-distributions-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "X should be modelled as normal, so mean 10 and variance read directly off a bell curve fit to the 20 tosses",
+        "et": "X-i tuleks mudeldada normaaljaotusena, seega keskväärtus 10 ja dispersioon loetakse otse 20 viskele sobitatud kellakujuliselt kõveralt",
+        "sourceHash": "f5d550d11c2c89d0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "common-probability-distributions-m2"
+    }
+  ]
+}

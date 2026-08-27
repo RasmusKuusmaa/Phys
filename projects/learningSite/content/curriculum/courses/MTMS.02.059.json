@@ -29,7 +29,8 @@
   "topics": [],
   "conceptIds": [
     "probability",
-    "random-variables-and-distributions"
+    "random-variables-and-distributions",
+    "common-probability-distributions"
   ],
   "sourceFiles": [
     "AlusMoodulid/AlusMoodulid2.md"

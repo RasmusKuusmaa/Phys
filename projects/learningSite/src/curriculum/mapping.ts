@@ -391,6 +391,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
   "MTMS.02.059": [
     "probability",
     "random-variables-and-distributions",
+    "common-probability-distributions",
   ],
   // Programmeerimise alused — algorithms, expressions, conditionals, loops.
   // Writing and running real programs needs a real machine; see todo.md Phase 30.

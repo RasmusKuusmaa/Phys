@@ -1,0 +1,10 @@
+{
+  "id": "common-probability-distributions-m2",
+  "conceptId": "common-probability-distributions",
+  "text": {
+    "en": "Assumes the normal distribution is always the right model for any measured quantity, without checking whether the underlying process actually looks like a sum of many small independent effects.",
+    "et": "Eeldab, et normaaljaotus on alati õige mudel iga mõõdetud suuruse jaoks, kontrollimata, kas aluseks olev protsess tegelikult sarnaneb paljude väikeste sõltumatute mõjude summaga.",
+    "sourceHash": "a0736de664a852cf",
+    "stale": false
+  }
+}

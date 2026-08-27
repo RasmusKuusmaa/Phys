@@ -1,0 +1,55 @@
+{
+  "id": "common-probability-distributions-binomial-mean-variance",
+  "conceptId": "common-probability-distributions",
+  "latex": "E[X] = np, \\quad \\operatorname{Var}(X) = np(1-p)",
+  "symbols": [
+    {
+      "symbol": "n",
+      "name": {
+        "en": "number of trials",
+        "et": "katsete arv",
+        "sourceHash": "1b27ad64915dbb96",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "p",
+      "name": {
+        "en": "probability",
+        "et": "tõenäosus",
+        "sourceHash": "3955f8fd92cda2c1",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "mean",
+      "name": {
+        "en": "mean",
+        "et": "keskväärtus",
+        "sourceHash": "82523faea1b0f2da",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "variance",
+      "name": {
+        "en": "variance",
+        "et": "dispersioon",
+        "sourceHash": "7c0766a4cdd8aa64",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "mean",
+    "variance"
+  ],
+  "expressions": {
+    "mean": "n*p",
+    "variance": "n*p*(1-p)"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "common-probability-distributions-m3",
+  "conceptId": "common-probability-distributions",
+  "text": {
+    "en": "Believes a binomial random variable's variance equals n·p, the same as its mean, rather than n·p·(1−p), which is strictly smaller whenever 0 < p < 1.",
+    "et": "Arvab, et binoomse juhusliku suuruse dispersioon on n·p, samamoodi kui keskväärtus, mitte n·p·(1−p), mis on rangelt väiksem, kui 0 < p < 1.",
+    "sourceHash": "bccb3e2bc0c451d7",
+    "stale": false
+  }
+}

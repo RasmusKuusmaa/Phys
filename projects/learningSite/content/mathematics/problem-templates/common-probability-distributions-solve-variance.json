@@ -1,0 +1,38 @@
+{
+  "id": "common-probability-distributions-solve-variance",
+  "formulaId": "common-probability-distributions-binomial-mean-variance",
+  "variables": [
+    {
+      "symbol": "n",
+      "min": 10,
+      "max": 200,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "p",
+      "min": 0.05,
+      "max": 0.95,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "n",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "p",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "p",
+      "right": 1
+    }
+  ],
+  "solveFor": "variance"
+}

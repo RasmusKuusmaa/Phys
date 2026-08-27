@@ -1,0 +1,10 @@
+{
+  "id": "common-probability-distributions-m1",
+  "conceptId": "common-probability-distributions",
+  "text": {
+    "en": "Believes a binomial distribution requires the success probability to be exactly 0.5, not recognising that Bernoulli trials with any fixed probability p give a binomial count.",
+    "et": "Arvab, et binoomjaotus eeldab, et edu tõenäosus on täpselt 0,5, mõistmata, et binoomjaotuse annab suvalise fikseeritud tõenäosusega p Bernoulli katsete jada.",
+    "sourceHash": "815cd47edd9e9775",
+    "stale": false
+  }
+}
