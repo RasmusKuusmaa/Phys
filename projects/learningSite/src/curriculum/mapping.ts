@@ -199,6 +199,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "spin-and-angular-momentum-in-quantum-mechanics",
     "the-pauli-exclusion-principle",
     "atoms-and-the-nucleus",
+    "nuclear-shell-model-spin-and-parity",
   ],
   // LOFY.01.015 Tuumafüüsika eksperimentaalmeetodid — ionizing radiation and decay.
   "LOFY.01.015": [

@@ -1,0 +1,21 @@
+{
+  "id": "nuclear-shell-model-spin-and-parity",
+  "subject": "physics",
+  "level": "L3",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Nuclear shell model, spin and parity",
+    "et": "Tuuma kihtmudel, spinn ja pariteet",
+    "sourceHash": "70f692636616e2ad",
+    "stale": false
+  },
+  "summary": {
+    "en": "Protons and neutrons fill discrete energy shells inside the nucleus, much like electrons do in an atom, and nuclei with full shells at \"magic numbers\" of protons or neutrons are unusually stable. The model also predicts each nucleus's total spin and parity from which shells its outermost nucleons occupy.",
+    "et": "Prootonid ja neutronid täidavad tuumas diskreetseid energiakihte, sarnaselt elektronidega aatomis, ning tuumad, mille kihid on täidetud nn maagiliste prootonite või neutronite arvu juures, on ebatavaliselt stabiilsed. Mudel ennustab ka igale tuumale koguspinni ja pariteedi selle põhjal, milliseid kihte täidavad selle välimised nukleonid.",
+    "sourceHash": "e1814a6ec7b4562f",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-binding-energy"
+  ]
+}

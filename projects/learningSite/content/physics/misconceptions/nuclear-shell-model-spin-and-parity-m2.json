@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-shell-model-spin-and-parity-m2",
+  "conceptId": "nuclear-shell-model-spin-and-parity",
+  "text": {
+    "en": "Assuming a nucleus's total spin is simply the sum of every individual nucleon's spin, ignoring that paired nucleons in a filled sub-shell couple to zero and only unpaired outer nucleons actually set the ground-state spin.",
+    "et": "Eeldamine, et tuuma koguspinn on lihtsalt kõikide üksikute nukleonide spinnide summa, unustades, et täidetud alakihis paarunud nukleonid liituvad nulliks ja ainult paardumata välimised nukleonid määravad põhiseisundi spinni.",
+    "sourceHash": "a4462bd46cd14e33",
+    "stale": false
+  }
+}

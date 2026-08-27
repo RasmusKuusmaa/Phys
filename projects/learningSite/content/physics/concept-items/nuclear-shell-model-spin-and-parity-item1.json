@@ -1,0 +1,56 @@
+{
+  "id": "nuclear-shell-model-spin-and-parity-item1",
+  "conceptId": "nuclear-shell-model-spin-and-parity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Helium-4 (2 protons, 2 neutrons) is exceptionally stable compared with its neighbours. What does the nuclear shell model say is the reason?",
+    "et": "Heelium-4 (2 prootonit, 2 neutronit) on oma naabritega võrreldes erakordselt stabiilne. Mida ütleb tuuma kihtmudel selle põhjuse kohta?",
+    "sourceHash": "33b328bf77d81482",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both its proton shell and its neutron shell are completely filled at the magic number 2, the nuclear equivalent of a noble gas's closed electron shell",
+        "et": "Nii tema prootoni- kui neutronikiht on täielikult täidetud maagilise arvu 2 juures — tuuma analoog väärisgaasi suletud elektronkihile",
+        "sourceHash": "32a28ee2b197a773",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It simply has the fewest nucleons of any stable nucleus, and fewer nucleons always means more stability",
+        "et": "Tal on lihtsalt kõige vähem nukleone võrreldes ükskõik millise stabiilse tuumaga, ja vähem nukleone tähendab alati suuremat stabiilsust",
+        "sourceHash": "8fffeafb6d26ae78",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-shell-model-spin-and-parity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Its total nuclear spin, found by simply adding up all four nucleons' individual spins, happens to come out unusually low",
+        "et": "Tema koguspinn, mis leitakse kõigi nelja nukleoni individuaalsete spinnide lihtsa liitmisega, tuleb juhuslikult ebatavaliselt madal",
+        "sourceHash": "6fd9613d5f3d6915",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-shell-model-spin-and-parity-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Its parity is simply defined as positive by convention because it is the lightest stable nucleus",
+        "et": "Tema pariteet on kokkuleppe põhjal lihtsalt positiivseks määratud, kuna ta on kergeim stabiilne tuum",
+        "sourceHash": "dbe9c36992fb6a7e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-shell-model-spin-and-parity-m3"
+    }
+  ]
+}

@@ -194,7 +194,8 @@
     "the-hydrogen-atom-and-atomic-structure",
     "spin-and-angular-momentum-in-quantum-mechanics",
     "the-pauli-exclusion-principle",
-    "atoms-and-the-nucleus"
+    "atoms-and-the-nucleus",
+    "nuclear-shell-model-spin-and-parity"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics1.md"
