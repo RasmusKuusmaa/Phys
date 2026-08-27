@@ -17,10 +17,28 @@ export default async function PracticePage({
 
   const subjects = listSubjects();
   const { subject: subjectParam, concepts: conceptsParam } = await searchParams;
-  const subject = subjectParam && subjects.includes(subjectParam) ? subjectParam : subjects[0];
+  const requestedConceptIds = conceptsParam ? conceptsParam.split(",").filter(Boolean) : undefined;
+
+  // A "practise this concept" link only ever carries `concepts`, never
+  // `subject` — so when a subject isn't given explicitly, find the subject
+  // that actually owns the requested concept rather than silently falling
+  // back to the alphabetically-first one (`chemistry`), which left every
+  // non-chemistry launcher landing on the wrong subject's concept list.
+  const subjectOwningConcept = requestedConceptIds?.length
+    ? subjects.find((s) => {
+        const ids = loadConcepts(s).map((c) => c.id);
+        return requestedConceptIds.some((id) => ids.includes(id));
+      })
+    : undefined;
+
+  const subject =
+    (subjectParam && subjects.includes(subjectParam) ? subjectParam : undefined) ??
+    subjectOwningConcept ??
+    subjects[0];
 
   const concepts = subject ? loadConcepts(subject) : [];
-  const initialConceptIds = conceptsParam ? conceptsParam.split(",").filter(Boolean) : undefined;
+  const conceptIdSet = new Set(concepts.map((c) => c.id));
+  const initialConceptIds = requestedConceptIds?.filter((id) => conceptIdSet.has(id));
 
   if (!subject) {
     return <p style={{ padding: "2rem" }}>No subjects available yet.</p>;
