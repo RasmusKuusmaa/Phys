@@ -11,7 +11,7 @@
   },
   "summary": {
     "en": "A Green's function G(x, ξ) is the response of a linear operator to a single point impulse at ξ, built once from the boundary conditions alone — once it exists, the solution to that same operator acting on any source term f(x) is just the integral ∫G(x, ξ)f(ξ)dξ, turning every future problem with those boundary conditions into a lookup and an integral instead of a fresh derivation.",
-    "et": "Greeni funktsioon G(x, ξ) on lineaarse operaatori vastus ühele punktimpulsile kohal ξ, mis on ehitatud üks kord ainult raja­tingimuste põhjal — kui see on olemas, on sama operaatori lahendus suvalise lähteliikme f(x) korral lihtsalt integraal ∫G(x, ξ)f(ξ)dξ, mis muudab igasuguse tuleviku ülesande samade rajatingimustega otsimiseks ja integreerimiseks, mitte uueks tuletuseks.",
+    "et": "Greeni funktsioon G(x, ξ) on lineaarse operaatori vastus ühele punktimpulsile kohal ξ, mis on ehitatud üks kord ainult rajatingimuste põhjal — kui see on olemas, on sama operaatori lahendus suvalise lähteliikme f(x) korral lihtsalt integraal ∫G(x, ξ)f(ξ)dξ, mis muudab igasuguse tuleviku ülesande samade rajatingimustega otsimiseks ja integreerimiseks, mitte uueks tuletuseks.",
     "sourceHash": "1184a3cfa8f7b323",
     "stale": false
   },
