@@ -190,6 +190,10 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
   "LOFY.01.015": [
     "radioactive-decay-modes",
     "radioactivity-and-half-life",
+    "compton-scattering",
+    "photoelectric-effect",
+    "x-rays-and-their-production",
+    "statistical-distributions-in-measurement",
   ],
   // Phase 33 electives — no scraped syllabus for any of these four, so
   // mapped to the platform concepts a learner would need as background,
@@ -405,6 +409,9 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "photons-and-quanta",
     "the-hydrogen-atom-and-atomic-structure",
     "wave-nature-of-light",
+    "signals-and-fourier-analysis",
+    "lasers-and-stimulated-emission",
+    "the-michelson-interferometer",
   ],
   // LOFY.01.018 Signaalitöötluse alused I — signals, spectra, Fourier, sampling.
   "LOFY.01.018": [
