@@ -242,7 +242,8 @@
     "non-inertial-frames-and-fictitious-forces",
     "hamiltonian-mechanics",
     "lorentz-force",
-    "liouvilles-theorem-and-phase-space"
+    "liouvilles-theorem-and-phase-space",
+    "noethers-theorem-and-symmetries"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md",

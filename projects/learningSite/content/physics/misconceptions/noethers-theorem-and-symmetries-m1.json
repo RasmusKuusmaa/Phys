@@ -1,0 +1,10 @@
+{
+  "id": "noethers-theorem-and-symmetries-m1",
+  "conceptId": "noethers-theorem-and-symmetries",
+  "text": {
+    "en": "Believing conservation laws like energy and momentum conservation are separate, unrelated postulates rather than consequences of the same underlying fact — that the Lagrangian doesn't change under a corresponding continuous symmetry.",
+    "et": "Arvamus, et säilivusseadused, nagu energia ja impulsi jäävus, on eraldiseisvad, omavahel seostumata postulaadid, mitte tagajärjed samale alusfaktile — et Lagrange'i funktsioon ei muutu vastava pideva sümmeetria korral.",
+    "sourceHash": "bce18c178d4b48fd",
+    "stale": false
+  }
+}

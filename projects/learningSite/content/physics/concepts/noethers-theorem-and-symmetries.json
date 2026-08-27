@@ -1,0 +1,21 @@
+{
+  "id": "noethers-theorem-and-symmetries",
+  "subject": "physics",
+  "level": "L3",
+  "module": "mechanics",
+  "title": {
+    "en": "Noether's theorem and symmetries",
+    "et": "Noetheri teoreem ja sümmeetriad",
+    "sourceHash": "f71057299a2386cc",
+    "stale": false
+  },
+  "summary": {
+    "en": "Noether's theorem shows that every continuous symmetry of a system's Lagrangian — a change that leaves it unchanged — corresponds to a conserved quantity: time-translation symmetry gives energy conservation, spatial-translation symmetry gives momentum conservation, and rotational symmetry gives angular-momentum conservation.",
+    "et": "Noetheri teoreem näitab, et süsteemi Lagrange'i funktsiooni iga pidev sümmeetria — muutus, mis jätab selle samaks — vastab säilivale suurusele: ajanihke sümmeetria annab energia jäävuse, ruuminihke sümmeetria annab impulsi jäävuse ja pöördesümmeetria annab impulsimomendi jäävuse.",
+    "sourceHash": "bf9f0353135cdd0e",
+    "stale": false
+  },
+  "prerequisites": [
+    "lagrangian-mechanics"
+  ]
+}

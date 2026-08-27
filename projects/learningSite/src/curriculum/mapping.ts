@@ -334,6 +334,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "hamiltonian-mechanics",
     "lorentz-force",
     "liouvilles-theorem-and-phase-space",
+    "noethers-theorem-and-symmetries",
   ],
   "LTFY.01.011": [
     "combining-uncertainties",

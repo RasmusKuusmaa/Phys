@@ -1,0 +1,10 @@
+{
+  "id": "noethers-theorem-and-symmetries-m2",
+  "conceptId": "noethers-theorem-and-symmetries",
+  "text": {
+    "en": "Believing any symmetry of the physical situation — including a discrete one, like mirror reflection — produces a conserved quantity through Noether's theorem. Only continuous symmetries (ones with a parameter that can vary smoothly, like sliding time or rotating by any angle) do; discrete symmetries like parity give separate conservation-type results through different arguments.",
+    "et": "Arvamus, et iga füüsikalise olukorra sümmeetria — ka diskreetne, näiteks peegelpeegeldus — annab Noetheri teoreemi kaudu säiliva suuruse. Ainult pidevad sümmeetriad (millel on parameeter, mida saab sujuvalt muuta, näiteks aja nihutamine või pööramine suvalise nurga võrra) seda teevad; diskreetsed sümmeetriad, nagu pariteet, annavad eraldi jäävustüüpi tulemused teiste argumentide kaudu.",
+    "sourceHash": "251ede6888656dc2",
+    "stale": false
+  }
+}

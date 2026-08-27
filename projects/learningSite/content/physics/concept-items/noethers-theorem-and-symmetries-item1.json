@@ -1,0 +1,56 @@
+{
+  "id": "noethers-theorem-and-symmetries-item1",
+  "conceptId": "noethers-theorem-and-symmetries",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A system's Lagrangian does not depend explicitly on time (it looks the same whether an experiment starts now or an hour from now). By Noether's theorem, this symmetry implies conservation of which quantity?",
+    "et": "Süsteemi Lagrange'i funktsioon ei sõltu ajast otseselt (katse näeb ühesugune välja, kas see algab praegu või tund aega hiljem). Noetheri teoreemi järgi tähendab see sümmeetria millise suuruse jäävust?",
+    "sourceHash": "4847848c39dd0c3d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Energy",
+        "et": "Energia",
+        "sourceHash": "f2fcd3f7dccadd19",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Linear momentum, because time and position always conserve the same thing",
+        "et": "Impulss, sest aeg ja asukoht säilitavad alati sama suurust",
+        "sourceHash": "92ec94c6e9ff3351",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "noethers-theorem-and-symmetries-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing — time-independence is not a continuous symmetry in the sense Noether's theorem requires",
+        "et": "Mitte midagi — ajast sõltumatus ei ole pidev sümmeetria selles tähenduses, mida Noetheri teoreem eeldab",
+        "sourceHash": "34576ce6e9735abb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "noethers-theorem-and-symmetries-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The shape of the trajectory itself must stay unchanged under any time shift",
+        "et": "Trajektoori kuju ise peab jääma muutumatuks iga ajanihke korral",
+        "sourceHash": "61943fcd4f2c38a7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "noethers-theorem-and-symmetries-m3"
+    }
+  ]
+}

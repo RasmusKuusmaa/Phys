@@ -1,0 +1,10 @@
+{
+  "id": "noethers-theorem-and-symmetries-m3",
+  "conceptId": "noethers-theorem-and-symmetries",
+  "text": {
+    "en": "Believing the symmetry has to be a symmetry of the physical space or the trajectory itself, rather than specifically a symmetry of the Lagrangian (or action) as a function — a system can move through a completely asymmetric-looking path and still have a symmetric Lagrangian, and it's the latter that matters for the theorem.",
+    "et": "Arvamus, et sümmeetria peab olema füüsilise ruumi või trajektoori sümmeetria, mitte konkreetselt Lagrange'i funktsiooni (või mõjufunktsionaali) sümmeetria kui funktsiooni — süsteem võib liikuda täiesti asümmeetrilise välimusega trajektoori mööda, kuid tema Lagrange'i funktsioon võib olla sümmeetriline, ja teoreemi jaoks loeb just viimane.",
+    "sourceHash": "dad99acc7d49cd8e",
+    "stale": false
+  }
+}
