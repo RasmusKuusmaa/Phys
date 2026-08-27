@@ -1,0 +1,63 @@
+{
+  "id": "charged-particle-motion-mass-spectrometry-and-cyclotrons-radius",
+  "conceptId": "charged-particle-motion-mass-spectrometry-and-cyclotrons",
+  "latex": "r = \\frac{mv}{qB}",
+  "symbols": [
+    {
+      "symbol": "m",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    },
+    {
+      "symbol": "v",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "q",
+      "name": {
+        "en": "charge",
+        "et": "laeng",
+        "sourceHash": "97488fbab3282166",
+        "stale": false
+      },
+      "unit": "C"
+    },
+    {
+      "symbol": "B",
+      "name": {
+        "en": "magnetic field",
+        "et": "magnetväli",
+        "sourceHash": "8e923bfc2b2346c6",
+        "stale": false
+      },
+      "unit": "T"
+    },
+    {
+      "symbol": "r",
+      "name": {
+        "en": "radius",
+        "et": "raadius",
+        "sourceHash": "981979a22bad8c7c",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "r"
+  ],
+  "expressions": {
+    "r": "m*v/(q*B)"
+  }
+}

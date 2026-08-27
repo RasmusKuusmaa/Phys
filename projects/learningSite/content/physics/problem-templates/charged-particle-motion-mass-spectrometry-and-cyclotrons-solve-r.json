@@ -1,0 +1,41 @@
+{
+  "id": "charged-particle-motion-mass-spectrometry-and-cyclotrons-solve-r",
+  "formulaId": "charged-particle-motion-mass-spectrometry-and-cyclotrons-radius",
+  "variables": [
+    {
+      "symbol": "m",
+      "min": 1e-27,
+      "max": 5e-25,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "v",
+      "min": 10000,
+      "max": 1000000,
+      "unit": "m/s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "q",
+      "min": 1.6e-19,
+      "max": 4.8e-19,
+      "unit": "C",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "B",
+      "min": 0.1,
+      "max": 2,
+      "unit": "T",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "m", "right": 0 },
+    { "op": "gt", "left": "v", "right": 0 },
+    { "op": "gt", "left": "q", "right": 0 },
+    { "op": "gt", "left": "B", "right": 0 }
+  ],
+  "solveFor": "r"
+}

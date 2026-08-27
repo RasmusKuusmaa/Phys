@@ -1,0 +1,56 @@
+{
+  "id": "charged-particle-motion-mass-spectrometry-and-cyclotrons-item1",
+  "conceptId": "charged-particle-motion-mass-spectrometry-and-cyclotrons",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A charged particle enters a region of uniform magnetic field moving perpendicular to it. What determines the radius of its circular path, and what stays constant throughout?",
+    "et": "Laetud osake siseneb ühtlase magnetvälja piirkonda, liikudes väljale risti. Mis määrab tema ringjoone raadiuse ja mis jääb kogu aja jooksul konstantseks?",
+    "sourceHash": "44948ee2ee4a196e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The radius depends on the particle's momentum, charge and the field strength; its speed stays constant, since the magnetic force does no work.",
+        "et": "Raadius sõltub osakese impulsist, laengust ja väljatugevusest; osakese kiirus jääb konstantseks, sest magnetjõud ei tee tööd.",
+        "sourceHash": "f698621a994f1199",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The field speeds the particle up as it curves.",
+        "et": "Väli kiirendab osakest selle kõverdumise ajal.",
+        "sourceHash": "f61eb113db59f352",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "charged-particle-motion-mass-spectrometry-and-cyclotrons-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A heavier particle, at the same speed, charge and field, curves into a smaller radius than a lighter one.",
+        "et": "Sama kiiruse, laengu ja välja korral kõverdub raskem osake väiksemale raadiusele kui kergem osake.",
+        "sourceHash": "6d253f56d974c58c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "charged-particle-motion-mass-spectrometry-and-cyclotrons-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Doubling the particle's charge doubles the radius of its path.",
+        "et": "Osakese laengu kahekordistamine kahekordistab tema trajektoori raadiuse.",
+        "sourceHash": "c16c64eaa6854f00",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "charged-particle-motion-mass-spectrometry-and-cyclotrons-m3"
+    }
+  ]
+}

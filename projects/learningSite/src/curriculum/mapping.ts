@@ -135,6 +135,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "the-hall-effect",
     "thevenin-and-norton-equivalent-circuits",
     "transformers-and-ac-power-distribution",
+    "charged-particle-motion-mass-spectrometry-and-cyclotrons",
   ],
   "LOFY.01.008": [
     "diffraction-gratings",
@@ -700,6 +701,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "lc-and-rlc-oscillations",
     "ac-circuits-and-impedance",
     "the-hall-effect",
+    "charged-particle-motion-mass-spectrometry-and-cyclotrons",
   ],
   "LOFY.01.124": [
     "lenses-and-focal-length",

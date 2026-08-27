@@ -1,0 +1,21 @@
+{
+  "id": "charged-particle-motion-mass-spectrometry-and-cyclotrons",
+  "subject": "physics",
+  "level": "L2",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Charged particle motion: mass spectrometry and cyclotrons",
+    "et": "Laetud osakese liikumine: massispektromeetria ja tsüklotronid",
+    "sourceHash": "f855150700f9ca75",
+    "stale": false
+  },
+  "summary": {
+    "en": "A charged particle moving perpendicular to a uniform magnetic field travels in a circle whose radius grows with the particle's momentum and shrinks with its charge and the field strength — the exact principle a mass spectrometer uses to sort ions by mass and a cyclotron uses to accelerate them along an ever-widening spiral.",
+    "et": "Laetud osake, mis liigub ühtlasele magnetväljale risti, liigub ringjoonel, mille raadius kasvab osakese impulsiga ning kahaneb laengu ja väljatugevusega — täpselt see põhimõte, mille alusel massispektromeeter sorteerib ioone massi järgi ja tsüklotron kiirendab neid üha laieneval spiraalil.",
+    "sourceHash": "7d8b2f5dc99e77d5",
+    "stale": false
+  },
+  "prerequisites": [
+    "lorentz-force"
+  ]
+}

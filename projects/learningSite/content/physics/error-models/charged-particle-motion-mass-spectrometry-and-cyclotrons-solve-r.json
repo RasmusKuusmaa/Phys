@@ -1,0 +1,37 @@
+{
+  "id": "charged-particle-motion-mass-spectrometry-and-cyclotrons-solve-r",
+  "formulaId": "charged-particle-motion-mass-spectrometry-and-cyclotrons-radius",
+  "solveFor": "r",
+  "mistakes": [
+    {
+      "id": "inverted-charge-and-mass",
+      "description": {
+        "en": "Put the charge in the numerator and the mass in the denominator, inverting their roles.",
+        "et": "Pani laengu lugejasse ja massi nimetajasse, vahetades nende rollid.",
+        "sourceHash": "318a74ab291e0a5c",
+        "stale": false
+      },
+      "expression": "q*v/(m*B)"
+    },
+    {
+      "id": "forgot-the-field",
+      "description": {
+        "en": "Left the magnetic field out of the denominator entirely.",
+        "et": "Jättis magnetvälja nimetajast täielikult välja.",
+        "sourceHash": "3ee5e6c6ea47cebb",
+        "stale": false
+      },
+      "expression": "m*v/q"
+    },
+    {
+      "id": "squared-the-velocity",
+      "description": {
+        "en": "Squared the velocity instead of using it to the first power.",
+        "et": "Võttis kiiruse ruutu selle asemel, et kasutada seda esimeses astmes.",
+        "sourceHash": "e85bd01d629a4369",
+        "stale": false
+      },
+      "expression": "m*pow(v,2)/(q*B)"
+    }
+  ]
+}
