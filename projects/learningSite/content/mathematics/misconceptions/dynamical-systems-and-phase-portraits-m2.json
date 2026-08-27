@@ -1,0 +1,10 @@
+{
+  "id": "dynamical-systems-and-phase-portraits-m2",
+  "conceptId": "dynamical-systems-and-phase-portraits",
+  "text": {
+    "en": "Thinks the sign of the eigenvalues' real part is the only thing that matters for stability and ignores the imaginary part entirely, missing that a nonzero imaginary part turns straight-line approach or departure into a spiral.",
+    "et": "Arvab, et stabiilsuse jaoks loeb ainult omaväärtuste reaalosa märk, ja eirab imaginaarosa täielikult, jättes tähelepanuta, et nullist erinev imaginaarosa muudab sirgjoonelise lähenemise või eemaldumise spiraaliks.",
+    "sourceHash": "d018de33a9207d53",
+    "stale": false
+  }
+}

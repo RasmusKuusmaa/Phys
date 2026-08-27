@@ -1,0 +1,56 @@
+{
+  "id": "dynamical-systems-and-phase-portraits-item1",
+  "conceptId": "dynamical-systems-and-phase-portraits",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The Jacobian at a fixed point has eigenvalues −1 and −3, both real and negative. What does the phase portrait look like near that point?",
+    "et": "Jacobi maatriksi omaväärtused püsipunktis on −1 ja −3, mõlemad reaalsed ja negatiivsed. Milline näeb faasiportree selle punkti lähedal välja?",
+    "sourceHash": "25f37b803e30f459",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A stable node — every nearby trajectory flows straight into the fixed point as time increases",
+        "et": "Stabiilne sõlm — iga lähedane trajektoor voolab aja kasvades otse püsipunkti",
+        "sourceHash": "0fd730c2672d5d9e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "An unstable node, since fixed points are always repelling",
+        "et": "Ebastabiilne sõlm, kuna püsipunktid on alati tõukavad",
+        "sourceHash": "4e78225deab258cd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dynamical-systems-and-phase-portraits-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A stable spiral, since two distinct real eigenvalues still produce rotation around the point",
+        "et": "Stabiilne spiraal, kuna kaks erinevat reaalset omaväärtust tekitavad ikkagi pöörlemise punkti ümber",
+        "sourceHash": "2bb40ce78ae8a75f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dynamical-systems-and-phase-portraits-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The classification only tells you about a single infinitesimal point, so nothing can be said about the shape of nearby trajectories",
+        "et": "Liigitus ütleb midagi ainult ühe lõpmatult väikese punkti kohta, mistõttu lähedaste trajektooride kuju kohta ei saa midagi väita",
+        "sourceHash": "8099bce93063cfd5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dynamical-systems-and-phase-portraits-m3"
+    }
+  ]
+}

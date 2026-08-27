@@ -449,6 +449,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "matrices",
     "eigenvalues-and-eigenvectors",
     "tensor-algebra-and-curvilinear-coordinates",
+    "dynamical-systems-and-phase-portraits",
   ],
   // LOFY.04.035 Matemaatilise füüsika võrrandid — ODEs, Fourier method,
   // boundary value problems; elective, partially covered.

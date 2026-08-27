@@ -222,7 +222,8 @@
     "multiple-integrals",
     "matrices",
     "eigenvalues-and-eigenvectors",
-    "tensor-algebra-and-curvilinear-coordinates"
+    "tensor-algebra-and-curvilinear-coordinates",
+    "dynamical-systems-and-phase-portraits"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"

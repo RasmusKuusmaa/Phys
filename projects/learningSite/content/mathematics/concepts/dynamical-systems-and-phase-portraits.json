@@ -1,0 +1,22 @@
+{
+  "id": "dynamical-systems-and-phase-portraits",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "differential-equations",
+  "title": {
+    "en": "Dynamical systems and phase portraits",
+    "et": "Dünaamilised süsteemid ja faasiportreed",
+    "sourceHash": "3d41f6857707535f",
+    "stale": false
+  },
+  "summary": {
+    "en": "A system of first-order differential equations can be pictured as a flow on a plane, where every point is pushed in a direction and speed set by the equations; a fixed point is where that flow stops, and linearising the system there — via the eigenvalues of the Jacobian — classifies it as a stable node, unstable node, saddle, or spiral without ever solving the full nonlinear system.",
+    "et": "Esimest järku diferentsiaalvõrrandite süsteemi saab kujutada voona tasandil, kus igat punkti nihutatakse võrranditega määratud suunas ja kiirusega; püsipunkt on koht, kus see voog seiskub, ja süsteemi lineariseerimine seal — Jacobi maatriksi omaväärtuste kaudu — liigitab selle stabiilseks sõlmeks, ebastabiilseks sõlmeks, sadulaks või spiraaliks, ilma et tuleks kunagi lahendada täielik mittelineaarne süsteem.",
+    "sourceHash": "5e62435c6e9c2eb1",
+    "stale": false
+  },
+  "prerequisites": [
+    "eigenvalues-and-eigenvectors",
+    "second-order-differential-equations"
+  ]
+}

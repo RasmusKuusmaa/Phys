@@ -1,0 +1,10 @@
+{
+  "id": "dynamical-systems-and-phase-portraits-m1",
+  "conceptId": "dynamical-systems-and-phase-portraits",
+  "text": {
+    "en": "Believes a fixed point where the flow is zero must be a place trajectories eventually settle into, missing that an unstable node or saddle is just as much a fixed point but repels nearby trajectories instead of attracting them.",
+    "et": "Arvab, et püsipunkt, kus voog on null, peab olema koht, kuhu trajektoorid lõpuks paigale jäävad, jättes tähelepanuta, et ebastabiilne sõlm või sadul on samuti püsipunkt, kuid tõukab lähedasi trajektoore eemale, mitte tõmbab neid ligi.",
+    "sourceHash": "d0d7ec3e7ea9d8c4",
+    "stale": false
+  }
+}

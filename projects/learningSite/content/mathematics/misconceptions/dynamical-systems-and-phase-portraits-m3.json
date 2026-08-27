@@ -1,0 +1,10 @@
+{
+  "id": "dynamical-systems-and-phase-portraits-m3",
+  "conceptId": "dynamical-systems-and-phase-portraits",
+  "text": {
+    "en": "Believes that once a nonlinear system is linearised at a fixed point, the linear classification is automatically valid everywhere, rather than only in a small neighbourhood of that point — and fails entirely at a fixed point whose Jacobian has a zero or purely imaginary eigenvalue, where the nonlinear terms decide the actual behaviour.",
+    "et": "Arvab, et kui mittelineaarne süsteem on püsipunktis lineariseeritud, kehtib lineaarne liigitus automaatselt kõikjal, mitte üksnes selle punkti väikeses ümbruses — ja see läheb täielikult luhta püsipunktis, mille Jacobi maatriksil on null- või puhtimaginaarne omaväärtus, kus tegeliku käitumise määravad mittelineaarsed liikmed.",
+    "sourceHash": "f6a6338d91685863",
+    "stale": false
+  }
+}
