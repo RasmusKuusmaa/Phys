@@ -1,0 +1,56 @@
+{
+  "id": "solar-system-formation-and-planetary-astronomy-item1",
+  "conceptId": "solar-system-formation-and-planetary-astronomy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The planets of the Solar System all orbit the Sun in nearly the same plane, in the same direction. What is the main physical reason for this?",
+    "et": "Kõik Päikesesüsteemi planeedid tiirlevad Päikese ümber peaaegu samas tasandis ja samas suunas. Mis on selle peamine füüsikaline põhjus?",
+    "sourceHash": "44834410edfa004c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They condensed from the same rotating cloud of gas and dust, which conservation of angular momentum flattened into a disk as it collapsed.",
+        "et": "Nad tekkisid samast pöörlevast gaasi- ja tolmupilvest, mille impulsimomendi jäävus kokkuvarisemise käigus kettaks lamestas.",
+        "sourceHash": "889bc82a0a4a2100",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is a coincidence of how the original cloud's matter happened to be distributed.",
+        "et": "See on juhus, kuidas algse pilve aine juhtus olema jaotunud.",
+        "sourceHash": "c1a57c042346602a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "solar-system-formation-and-planetary-astronomy-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The Sun's gravity later pulled independently formed planets into a common plane over time.",
+        "et": "Päikese raskusjõud tõmbas hiljem aja jooksul iseseisvalt tekkinud planeedid ühisesse tasandisse.",
+        "sourceHash": "56f5af60bed8da9b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "solar-system-formation-and-planetary-astronomy-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Every planet formed with essentially the same composition and simply migrated to different distances from the Sun.",
+        "et": "Iga planeet tekkis sisuliselt sama koostisega ja lihtsalt rändas Päikesest erinevatele kaugustele.",
+        "sourceHash": "4084c3d60cf95bce",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "solar-system-formation-and-planetary-astronomy-m2"
+    }
+  ]
+}

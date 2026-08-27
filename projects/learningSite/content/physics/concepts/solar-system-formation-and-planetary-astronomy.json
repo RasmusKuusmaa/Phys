@@ -1,0 +1,22 @@
+{
+  "id": "solar-system-formation-and-planetary-astronomy",
+  "subject": "physics",
+  "level": "L2",
+  "module": "astrophysics",
+  "title": {
+    "en": "Solar system formation and planetary astronomy",
+    "et": "Päikesesüsteemi teke ja planeetide astronoomia",
+    "sourceHash": "d89fab96a9645521",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Solar System condensed roughly 4.6 billion years ago from a collapsing, slowly rotating cloud of gas and dust; conservation of angular momentum flattened the collapsing cloud into a spinning disk, gravity concentrated most of its mass into the young Sun at the centre, and the leftover disk material stuck together in stages, from dust grains to planetesimals to planets, with the resulting planets' nearly circular, coplanar orbits obeying Kepler's laws and Newtonian gravitation to good approximation.",
+    "et": "Päikesesüsteem tekkis umbes 4,6 miljardit aastat tagasi kokkuvarisevast ja aeglaselt pöörlevast gaasi- ja tolmupilvest; impulsimomendi jäävus lamestas kokkuvariseva pilve pöörlevaks kettaks, raskusjõud koondas suurema osa selle massist noore Päikesesse ketta keskele, ning ülejäänud ketta aine kleepus etappide kaupa kokku — tolmuosakestest planetesimaalideni ja edasi planeetideni —, kusjuures tekkinud planeetide peaaegu ringjad ja samatasandilised orbiidid alluvad heas lähenduses Kepleri seadustele ja Newtoni gravitatsiooniseadusele.",
+    "sourceHash": "6e503c46e4242173",
+    "stale": false
+  },
+  "prerequisites": [
+    "keplers-laws",
+    "newtonian-gravitation"
+  ]
+}
