@@ -1,0 +1,25 @@
+{
+  "id": "tensor-algebra-and-curvilinear-coordinates",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "vector-calculus",
+  "title": {
+    "en": "Tensor algebra and curvilinear coordinates",
+    "et": "Tensoralgebra ja kõverjoonelised koordinaadid",
+    "sourceHash": "97573a9dab683651",
+    "stale": false
+  },
+  "summary": {
+    "en": "A tensor generalises vectors and matrices to an object with any number of indices that transforms in a fixed, predictable way under a change of coordinates; curvilinear systems like polar or spherical coordinates need this machinery because their basis vectors change direction from point to point, so gradient, divergence and curl each pick up extra terms that vanish in flat Cartesian coordinates.",
+    "et": "Tensor üldistab vektoreid ja maatrikseid objektiks, millel võib olla suvaline arv indekseid ja mis teisendub koordinaatide muutumisel kindlal, ennustataval viisil; kõverjoonelised süsteemid, nagu polaar- või sfäärilised koordinaadid, vajavad seda aparaati, kuna nende alusvektorid muudavad punktist punkti suunda, mistõttu gradiendil, divergentsil ja rootoril tekivad lisaliikmed, mis Descartes'i sirgjoonelistes koordinaatides kaovad.",
+    "sourceHash": "d7ea2666fe0103a0",
+    "stale": false
+  },
+  "prerequisites": [
+    "vectors-in-space",
+    "the-dot-product",
+    "the-cross-product",
+    "vector-fields-and-the-gradient",
+    "divergence-and-curl"
+  ]
+}

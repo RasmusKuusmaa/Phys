@@ -448,6 +448,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "multiple-integrals",
     "matrices",
     "eigenvalues-and-eigenvectors",
+    "tensor-algebra-and-curvilinear-coordinates",
   ],
   // LOFY.04.035 Matemaatilise füüsika võrrandid — ODEs, Fourier method,
   // boundary value problems; elective, partially covered.

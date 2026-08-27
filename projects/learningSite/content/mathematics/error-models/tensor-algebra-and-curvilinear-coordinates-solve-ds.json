@@ -1,0 +1,37 @@
+{
+  "id": "tensor-algebra-and-curvilinear-coordinates-solve-ds",
+  "formulaId": "tensor-algebra-and-curvilinear-coordinates-polar-arc-length",
+  "solveFor": "ds",
+  "mistakes": [
+    {
+      "id": "forgot-the-r-factor",
+      "description": {
+        "en": "Treated dθ as if it already had units of length, dropping the r factor that converts an angle change into an actual arc length.",
+        "et": "Käsitles dθ nagu see oleks juba pikkusühikuga, jättes välja teguri r, mis teisendab nurga muutuse tegelikuks kaare pikkuseks.",
+        "sourceHash": "f60a2b883f9e0361",
+        "stale": false
+      },
+      "expression": "sqrt(pow(dr,2)+pow(dtheta,2))"
+    },
+    {
+      "id": "added-instead-of-pythagorean",
+      "description": {
+        "en": "Added the two displacement contributions linearly instead of combining them in quadrature (as with any Pythagorean-style distance).",
+        "et": "Liitis kaks nihke panust lineaarselt, selle asemel et kombineerida need ruutude kaudu (nagu igas Pythagorase-tüüpi kauguses).",
+        "sourceHash": "87e98e94374c4bd1",
+        "stale": false
+      },
+      "expression": "dr+r*dtheta"
+    },
+    {
+      "id": "squared-r-twice",
+      "description": {
+        "en": "Applied the r factor to dθ but then squared the whole product a second time, effectively using r⁴.",
+        "et": "Rakendas teguri r dθ suhtes, kuid võttis seejärel korrutise ruudu teist korda, kasutades tegelikult r⁴.",
+        "sourceHash": "4fcd77b1dfac54a4",
+        "stale": false
+      },
+      "expression": "sqrt(pow(dr,2)+pow(pow(r,2)*dtheta,2))"
+    }
+  ]
+}

@@ -221,7 +221,8 @@
     "partial-derivatives",
     "multiple-integrals",
     "matrices",
-    "eigenvalues-and-eigenvectors"
+    "eigenvalues-and-eigenvectors",
+    "tensor-algebra-and-curvilinear-coordinates"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"

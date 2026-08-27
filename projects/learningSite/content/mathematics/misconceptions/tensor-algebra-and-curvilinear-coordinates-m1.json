@@ -1,0 +1,10 @@
+{
+  "id": "tensor-algebra-and-curvilinear-coordinates-m1",
+  "conceptId": "tensor-algebra-and-curvilinear-coordinates",
+  "text": {
+    "en": "Believes a tensor is just a matrix with a fancier name, so any rectangular array of numbers qualifies — missing that what makes something a tensor is its transformation law under a change of coordinates, not its shape.",
+    "et": "Arvab, et tensor on lihtsalt uhkema nimega maatriks, mistõttu iga ristkülikukujuline arvutabel sobib — jättes tähelepanuta, et tensoriks teeb objekti tema teisenemisseadus koordinaatide muutumisel, mitte tema kuju.",
+    "sourceHash": "922a4acba92ded93",
+    "stale": false
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tensor-algebra-and-curvilinear-coordinates-polar-arc-length",
+  "conceptId": "tensor-algebra-and-curvilinear-coordinates",
+  "latex": "\\Delta s \\approx \\sqrt{(\\Delta r)^2 + r^2(\\Delta\\theta)^2}",
+  "symbols": [
+    {
+      "symbol": "r",
+      "name": {
+        "en": "radius",
+        "et": "raadius",
+        "sourceHash": "981979a22bad8c7c",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "dr",
+      "name": {
+        "en": "displacement",
+        "et": "nihe",
+        "sourceHash": "dcd2d24e4ae90e27",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "dtheta",
+      "name": {
+        "en": "angle",
+        "et": "nurk",
+        "sourceHash": "49387897bee2bee3",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "ds",
+      "name": {
+        "en": "length",
+        "et": "pikkus",
+        "sourceHash": "0f82aca66af91493",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "ds"
+  ],
+  "expressions": {
+    "ds": "sqrt(pow(dr,2)+pow(r,2)*pow(dtheta,2))"
+  }
+}

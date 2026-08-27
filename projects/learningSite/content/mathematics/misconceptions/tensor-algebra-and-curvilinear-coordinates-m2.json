@@ -1,0 +1,10 @@
+{
+  "id": "tensor-algebra-and-curvilinear-coordinates-m2",
+  "conceptId": "tensor-algebra-and-curvilinear-coordinates",
+  "text": {
+    "en": "Thinks the metric tensor is only needed in curved (non-Euclidean) space, missing that flat space already needs it the moment the coordinates are curvilinear — the polar metric ds² = dr² + r²dθ² carries a nontrivial metric even though the underlying plane is perfectly flat.",
+    "et": "Arvab, et meetrikatensorit vajatakse ainult kõverdunud (mitteeukleidilises) ruumis, jättes tähelepanuta, et see on vajalik juba lameda ruumi puhul, kui koordinaadid on kõverjoonelised — polaarmeetrika ds² = dr² + r²dθ² on mittetrivialine, kuigi alusolev tasand on täiesti lame.",
+    "sourceHash": "013853dd8cf331b6",
+    "stale": false
+  }
+}

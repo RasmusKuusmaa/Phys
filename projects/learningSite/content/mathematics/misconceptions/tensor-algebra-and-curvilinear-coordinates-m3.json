@@ -1,0 +1,10 @@
+{
+  "id": "tensor-algebra-and-curvilinear-coordinates-m3",
+  "conceptId": "tensor-algebra-and-curvilinear-coordinates",
+  "text": {
+    "en": "Believes raising or lowering an index is a cosmetic notational choice with no numerical consequence, rather than an operation performed by contracting with the metric tensor that genuinely changes the components' values whenever the basis isn't orthonormal.",
+    "et": "Arvab, et indeksi tõstmine või langetamine on kosmeetiline tähistuslik valik, millel puudub arvuline tagajärg, selle asemel et mõista, et see on meetrikatensoriga kokkutõmbamise teel tehtav operatsioon, mis muudab komponentide väärtusi tegelikult iga kord, kui alus ei ole ortonormaalne.",
+    "sourceHash": "7dcb43388642a294",
+    "stale": false
+  }
+}

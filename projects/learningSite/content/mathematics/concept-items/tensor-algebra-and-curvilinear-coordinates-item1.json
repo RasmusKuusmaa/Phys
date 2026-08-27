@@ -1,0 +1,56 @@
+{
+  "id": "tensor-algebra-and-curvilinear-coordinates-item1",
+  "conceptId": "tensor-algebra-and-curvilinear-coordinates",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In plane polar coordinates (r, θ), the squared arc length element is ds² = dr² + r²dθ². What does the factor of r² in front of dθ² actually reflect?",
+    "et": "Tasandi polaarkoordinaatides (r, θ) on kaare pikkuse ruudu element ds² = dr² + r²dθ². Mida peegeldab tegur r² dθ² ees tegelikult?",
+    "sourceHash": "077e376c618e0160",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The metric tensor's g_θθ component — a fixed distance dθ sweeps out more actual length the farther out from the origin you are",
+        "et": "Meetrikatensori g_θθ komponent — fikseeritud nurgamuutus dθ katab seda rohkem tegelikku pikkust, mida kaugemal alguspunktist ollakse",
+        "sourceHash": "abf2d6dacecf9fc4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A rectangular array of numbers arranged for convenience, with no deeper transformation meaning",
+        "et": "Mugavuse mõttes koostatud ristkülikukujuline arvutabel, millel ei ole sügavamat teisenemistähendust",
+        "sourceHash": "7c7b64c206d1b16e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "tensor-algebra-and-curvilinear-coordinates-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Evidence that the plane itself must be curved, since a flat space would need no such factor",
+        "et": "Tõend, et tasand ise peab olema kõverdunud, kuna lame ruum ei vajaks sellist tegurit",
+        "sourceHash": "c89634aa638a353f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "tensor-algebra-and-curvilinear-coordinates-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A notational convention that could be dropped without changing any computed distance",
+        "et": "Tähistuslik kokkulepe, mille võiks ära jätta, muutmata sellega ühtki arvutatud kaugust",
+        "sourceHash": "8eaf905277b173bf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "tensor-algebra-and-curvilinear-coordinates-m3"
+    }
+  ]
+}
