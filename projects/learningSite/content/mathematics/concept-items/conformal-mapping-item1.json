@@ -1,0 +1,56 @@
+{
+  "id": "conformal-mapping-item1",
+  "conceptId": "conformal-mapping",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A holomorphic map w = f(z) sends a small square grid near a point z₀ (where f′(z₀) ≠ 0) to a distorted grid near w₀ = f(z₀). What is preserved in that distorted grid?",
+    "et": "Holomorfne teisendus w = f(z) saadab väikese ruudustiku punkti z₀ ümbruses (kus f′(z₀) ≠ 0) moondunud ruudustikuks punkti w₀ = f(z₀) ümbruses. Mis säilib selles moondunud ruudustikus?",
+    "sourceHash": "42b24aea7263dbbe",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The angles at which the grid lines cross each other, even though their spacing and overall shape can change",
+        "et": "Nurgad, mille all ruudustiku jooned teineteist lõikavad, ehkki nende vahekaugus ja kuju üldiselt võivad muutuda",
+        "sourceHash": "cd4e603ee4da1f34",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The distances between grid points, since the map behaves like a rigid rotation locally",
+        "et": "Ruudustiku punktide vahelised kaugused, kuna teisendus käitub kohalikult nagu jäik pöörlemine",
+        "sourceHash": "c45e304f45fc442e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conformal-mapping-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing in particular — angle preservation holds at every point where f is holomorphic, distorted grid or not",
+        "et": "Mitte midagi erilist — nurga säilimine kehtib igas punktis, kus f on holomorfne, moondunud ruudustik või mitte",
+        "sourceHash": "ee1693c55cf1cee8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conformal-mapping-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing that matters for solving an actual boundary value problem on the region — it's a purely visual effect",
+        "et": "Mitte midagi, mis loeks tegeliku rajaväärtusülesande lahendamisel piirkonnal — see on puhtalt visuaalne efekt",
+        "sourceHash": "815a9ca957661ef9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conformal-mapping-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "conformal-mapping-m1",
+  "conceptId": "conformal-mapping",
+  "text": {
+    "en": "Believes a conformal map preserves distances and shapes, like a rigid rotation, rather than only local angles — a conformal map can stretch a region enormously, it just can't twist the angle at which two curves cross.",
+    "et": "Arvab, et konformne teisendus säilitab kaugusi ja kujusid, nagu jäik pöörlemine, selle asemel et säilitada ainult kohalikke nurki — konformne teisendus võib piirkonda tohutult venitada, ta ei saa vaid kahe lõikuva kõvera vahelist nurka pöörata.",
+    "sourceHash": "0e77ebbd1b27ce19",
+    "stale": false
+  }
+}

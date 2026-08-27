@@ -1,0 +1,21 @@
+{
+  "id": "conformal-mapping",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "complex-numbers",
+  "title": {
+    "en": "Conformal mapping",
+    "et": "Konformne teisendus",
+    "sourceHash": "78c59ca934e4652e",
+    "stale": false
+  },
+  "summary": {
+    "en": "A conformal map is a function of a complex variable that preserves angles between intersecting curves at every point where its derivative is nonzero — a consequence of holomorphy, not an extra assumption — which makes such maps the tool of choice for warping an awkward geometric region into a simple one (a disk, a half-plane) while keeping the local angular structure that a physical field's boundary conditions depend on.",
+    "et": "Konformne teisendus on kompleksmuutuja funktsioon, mis säilitab lõikuvate kõverate vahelised nurgad igas punktis, kus tema tuletis ei ole null — see on holomorfsuse tagajärg, mitte lisaeeldus —, mistõttu on sellised teisendused eelistatud tööriist tülika geomeetrilise piirkonna moondamiseks lihtsaks (ketaks, pooltasandiks), säilitades kohaliku nurgastruktuuri, millest sõltuvad füüsikalise välja rajatingimused.",
+    "sourceHash": "9e18c4addca6d86a",
+    "stale": false
+  },
+  "prerequisites": [
+    "functions-of-a-complex-variable"
+  ]
+}

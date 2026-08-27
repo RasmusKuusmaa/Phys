@@ -1,0 +1,10 @@
+{
+  "id": "conformal-mapping-m2",
+  "conceptId": "conformal-mapping",
+  "text": {
+    "en": "Assumes every holomorphic function is conformal at every point of its domain, missing that angle preservation fails at any point where the derivative vanishes, even though the function is still perfectly holomorphic there.",
+    "et": "Eeldab, et iga holomorfne funktsioon on konformne oma määramispiirkonna igas punktis, jättes tähelepanuta, et nurga säilimine ei kehti punktis, kus tuletis on null, kuigi funktsioon on seal endiselt täiesti holomorfne.",
+    "sourceHash": "11561cc8c883de5d",
+    "stale": false
+  }
+}

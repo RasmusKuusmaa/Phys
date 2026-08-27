@@ -1,0 +1,10 @@
+{
+  "id": "conformal-mapping-m3",
+  "conceptId": "conformal-mapping",
+  "text": {
+    "en": "Thinks mapping a complicated region to a disk or half-plane is only a geometric convenience with no bearing on solving a physical problem, missing that Laplace's equation is itself preserved under a conformal change of variables — so a solution on the simple region translates directly back into a solution on the original one.",
+    "et": "Arvab, et keerulise piirkonna kujutamine kettaks või pooltasandiks on ainult geomeetriline mugavus, millel ei ole seost füüsikalise ülesande lahendamisega, jättes tähelepanuta, et Laplace' võrrand ise säilib konformse muutujate vahetuse korral — nii et lahendus lihtsal piirkonnal teisendub otse tagasi lahenduseks algsel piirkonnal.",
+    "sourceHash": "544d4c9723e1325b",
+    "stale": false
+  }
+}
