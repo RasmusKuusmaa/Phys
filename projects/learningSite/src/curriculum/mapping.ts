@@ -240,12 +240,16 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "stellar-classification-and-the-hertzsprung-russell-diagram",
     "hubbles-law-and-the-expanding-universe",
     "keplers-laws",
+    "non-inertial-frames-and-fictitious-forces",
+    "spectroscopy",
   ],
   "LTTO.00.025": [
     "the-greenhouse-effect-and-planetary-energy-balance",
     "stellar-classification-and-the-hertzsprung-russell-diagram",
     "hubbles-law-and-the-expanding-universe",
     "keplers-laws",
+    "non-inertial-frames-and-fictitious-forces",
+    "spectroscopy",
   ],
   "LOFY.04.003": [
     "length-contraction",
@@ -376,6 +380,8 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "multiple-integrals",
     "partial-derivatives",
     "vector-spaces",
+    "first-order-differential-equations",
+    "second-order-differential-equations",
   ],
   // Tõenäosusteooria ja matemaatiline statistika.
   "MTMS.02.059": [
@@ -442,6 +448,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "second-order-differential-equations",
     "infinite-series",
     "the-divergence-and-stokes-theorems",
+    "the-schrodinger-equation",
   ],
   // LTFY.04.015 Kompleksmuutuja funktsioonid füüsikas.
   "LTFY.04.015": [
