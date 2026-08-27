@@ -2,7 +2,7 @@
 
 Status: the 47 UNMAPPED fixes listed below are done (see `git log` for
 "content: map existing concepts to ..." commits and `src/curriculum/mapping.ts`).
-Of the 54 GAP concepts, six authoring-order groups are done — 45/54 total:
+Of the 54 GAP concepts, seven authoring-order groups are done — 48/54 total:
 
 - Foundational math (8): `improper-integrals`, `curve-sketching-with-derivatives`,
   `fourier-series`, `multivariable-optimization-and-lagrange-multipliers`,
@@ -34,12 +34,16 @@ Of the 54 GAP concepts, six authoring-order groups are done — 45/54 total:
   `liouvilles-theorem-and-phase-space`,
   `quantum-dynamics-heisenberg-picture-and-perturbation-theory`,
   `basics-of-molecular-quantum-mechanics`.
+- Analytical mechanics (3): `noethers-theorem-and-symmetries`,
+  `nonholonomic-constraints-and-lagrange-multipliers-in-mechanics`,
+  `canonical-transformations-and-hamilton-jacobi-theory`.
 
-The remaining 9 GAP concepts across two themed groups (analytical mechanics
-— next up; global physics/astro) are not started — this file is their
-queue. Resume by taking the next themed group
-from the "Suggested authoring order" section below and following
-`CONTRIBUTING.md`'s scaffold workflow per concept.
+The remaining 6 GAP concepts, all in one themed group (global physics/astro
+— the last group), are not started — this file is their queue. Content
+authoring is paused here (not for a technical reason — stopped on request
+partway through this session). Resume by taking that group from the
+"Suggested authoring order" section below and following `CONTRIBUTING.md`'s
+scaffold workflow per concept.
 
 
 Method: for every in-scope course, `content/curriculum/courses/<CODE>.json` was read for its
