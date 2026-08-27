@@ -1,0 +1,22 @@
+{
+  "id": "critical-phenomena-and-continuous-phase-transitions",
+  "subject": "physics",
+  "level": "L3",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "Critical phenomena and continuous phase transitions",
+    "et": "Kriitilised nähtused ja pidevad faasisiirded",
+    "sourceHash": "b57077fcab10c9f8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Unlike a first-order transition (boiling, melting), a continuous (second-order) phase transition has no latent heat and no jump in density — instead an order parameter shrinks smoothly to zero at a critical temperature, while quantities like heat capacity and susceptibility diverge there following power laws whose exponents are shared by whole classes of otherwise unrelated systems.",
+    "et": "Erinevalt esimest liiki faasisiirdest (keemine, sulamine) ei kaasne pideva (teist liiki) faasisiirdega varjunud soojust ega tiheduse hüpet — selle asemel kahaneb korrastusparameeter kriitilisel temperatuuril sujuvalt nullini, samal ajal kui suurused nagu erisoojus ja vastuvõtlikkus lähevad seal lõpmatuseni astmeseaduste järgi, mille astendajad on ühised terve rea muidu seosetute süsteemide jaoks.",
+    "sourceHash": "4a58f0a6ef301602",
+    "stale": false
+  },
+  "prerequisites": [
+    "phase-transitions",
+    "statistical-definition-of-entropy"
+  ]
+}

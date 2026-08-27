@@ -1,0 +1,10 @@
+{
+  "id": "critical-phenomena-and-continuous-phase-transitions-m2",
+  "conceptId": "critical-phenomena-and-continuous-phase-transitions",
+  "text": {
+    "en": "Thinking a diverging heat capacity or susceptibility at the critical point means the system's energy becomes infinite — it's the derivative (how sharply a quantity responds to a small change) that diverges, not the quantity itself, which stays finite.",
+    "et": "Arvamus, et erisoojuse või vastuvõtlikkuse lõpmatuseni läinud väärtus kriitilises punktis tähendab, et süsteemi energia muutub lõpmatuks — lõpmatuseni läheb tuletis (kui järsult suurus väikesele muutusele reageerib), mitte suurus ise, mis jääb lõplikuks.",
+    "sourceHash": "b5c5c9df16ed60dc",
+    "stale": false
+  }
+}

@@ -125,7 +125,8 @@
     "thermodynamic-processes",
     "ideal-gas-law",
     "phase-transitions",
-    "maxwell-thermodynamic-relations"
+    "maxwell-thermodynamic-relations",
+    "critical-phenomena-and-continuous-phase-transitions"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics2.md"

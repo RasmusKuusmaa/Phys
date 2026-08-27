@@ -1580,5 +1580,26 @@
     "et": "mõõdetud loendussagedus",
     "domain": "nuclear-physics",
     "source": "https://et.wikipedia.org/wiki/Geigeri_loendur"
+  },
+  {
+    "id": "critical-temperature",
+    "en": "critical temperature",
+    "et": "kriitiline temperatuur",
+    "domain": "statistical-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kriitiline%20temperatuur/1/est"
+  },
+  {
+    "id": "critical-exponent",
+    "en": "critical exponent",
+    "et": "kriitiline astendaja",
+    "domain": "statistical-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kriitiline%20astendaja/1/est"
+  },
+  {
+    "id": "order-parameter",
+    "en": "order parameter",
+    "et": "korrastusparameeter",
+    "domain": "statistical-mechanics",
+    "source": "https://et.wikipedia.org/wiki/Faasisiire"
   }
 ]

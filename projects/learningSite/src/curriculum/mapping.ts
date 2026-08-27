@@ -298,6 +298,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "ideal-gas-law",
     "phase-transitions",
     "maxwell-thermodynamic-relations",
+    "critical-phenomena-and-continuous-phase-transitions",
   ],
   "LOFY.04.073": [
     "heisenberg-uncertainty-principle",

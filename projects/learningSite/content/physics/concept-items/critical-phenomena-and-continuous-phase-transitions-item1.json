@@ -1,0 +1,56 @@
+{
+  "id": "critical-phenomena-and-continuous-phase-transitions-item1",
+  "conceptId": "critical-phenomena-and-continuous-phase-transitions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A ferromagnet is cooled through its Curie point, where it undergoes a continuous phase transition. What actually happens right at that temperature?",
+    "et": "Ferromagnetit jahutatakse läbi Curie punkti, kus toimub pidev faasisiire. Mis tegelikult toimub täpselt sellel temperatuuril?",
+    "sourceHash": "8e923cdbdd78a419",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The magnetisation shrinks smoothly to zero, with no latent heat, while the heat capacity spikes sharply",
+        "et": "Magnetiseeritus kahaneb sujuvalt nullini, varjunud soojuseta, samal ajal kui erisoojus tõuseb järsult",
+        "sourceHash": "cc54a9cee67c7667",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The magnetisation drops instantly to zero and latent heat is released, just as in boiling",
+        "et": "Magnetiseeritus langeb koheselt nullini ja eraldub varjunud soojus, täpselt nagu keemisel",
+        "sourceHash": "cb2b558c266ef043",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "critical-phenomena-and-continuous-phase-transitions-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The magnet's total energy becomes infinite at that instant",
+        "et": "Magneti koguenergia muutub sel hetkel lõpmatuks",
+        "sourceHash": "eb83c2de27c0e929",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "critical-phenomena-and-continuous-phase-transitions-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing measurable happens unless the sample is chemically identical to another system with the same critical exponents",
+        "et": "Midagi mõõdetavat ei toimu, kui proov ei ole keemiliselt identne teise süsteemiga, millel on samad kriitilised astendajad",
+        "sourceHash": "118015f390e1510c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "critical-phenomena-and-continuous-phase-transitions-m3"
+    }
+  ]
+}

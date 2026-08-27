@@ -1,0 +1,10 @@
+{
+  "id": "critical-phenomena-and-continuous-phase-transitions-m1",
+  "conceptId": "critical-phenomena-and-continuous-phase-transitions",
+  "text": {
+    "en": "Believing every phase transition releases or absorbs latent heat, like boiling or melting — a continuous transition (e.g. a ferromagnet losing its magnetisation at the Curie point) has no latent heat at all; the order parameter simply shrinks to zero smoothly.",
+    "et": "Arvamus, et iga faasisiirdega kaasneb varjunud soojuse eraldumine või neeldumine, nagu keemisel või sulamisel — pideva faasisiirdega (näiteks ferromagneti magnetiseerituse kadumine Curie punktis) ei kaasne varjunud soojust üldse; korrastusparameeter kahaneb lihtsalt sujuvalt nullini.",
+    "sourceHash": "797adc7c996c7625",
+    "stale": false
+  }
+}

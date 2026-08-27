@@ -1,0 +1,45 @@
+{
+  "id": "critical-phenomena-order-parameter-scaling",
+  "formulaId": "critical-phenomena-order-parameter-scaling",
+  "variables": [
+    {
+      "symbol": "Tc",
+      "min": 200,
+      "max": 500,
+      "unit": "K",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "T",
+      "min": 100,
+      "max": 490,
+      "unit": "K",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "beta",
+      "min": 0.3,
+      "max": 0.5,
+      "unit": "1",
+      "sigFigs": 2
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "Tc",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "T",
+      "right": "Tc"
+    },
+    {
+      "op": "gt",
+      "left": "T",
+      "right": 0
+    }
+  ],
+  "solveFor": "m"
+}

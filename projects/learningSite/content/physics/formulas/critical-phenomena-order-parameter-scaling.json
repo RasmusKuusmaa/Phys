@@ -1,0 +1,53 @@
+{
+  "id": "critical-phenomena-order-parameter-scaling",
+  "conceptId": "critical-phenomena-and-continuous-phase-transitions",
+  "latex": "m = \\left(\\frac{T_c - T}{T_c}\\right)^{\\beta}",
+  "symbols": [
+    {
+      "symbol": "m",
+      "name": {
+        "en": "order parameter",
+        "et": "korrastusparameeter",
+        "sourceHash": "4a8f06c8350517d2",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "T",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    },
+    {
+      "symbol": "Tc",
+      "name": {
+        "en": "critical temperature",
+        "et": "kriitiline temperatuur",
+        "sourceHash": "c853e9c82726552e",
+        "stale": false
+      },
+      "unit": "K"
+    },
+    {
+      "symbol": "beta",
+      "name": {
+        "en": "critical exponent",
+        "et": "kriitiline astendaja",
+        "sourceHash": "85a62c648ebf835f",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "m"
+  ],
+  "expressions": {
+    "m": "pow((Tc-T)/Tc, beta)"
+  }
+}

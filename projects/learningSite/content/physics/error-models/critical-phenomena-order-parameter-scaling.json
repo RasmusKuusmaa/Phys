@@ -1,0 +1,37 @@
+{
+  "id": "critical-phenomena-order-parameter-scaling",
+  "formulaId": "critical-phenomena-order-parameter-scaling",
+  "solveFor": "m",
+  "mistakes": [
+    {
+      "id": "forgot-the-exponent",
+      "description": {
+        "en": "Forgot to raise the reduced-temperature ratio to the critical exponent, effectively treating β as 1.",
+        "et": "Jättis vähendatud temperatuurisuhte kriitilise astendajaga astendamata, käsitledes β-d sisuliselt 1-na.",
+        "sourceHash": "c138a733158cd7c0",
+        "stale": false
+      },
+      "expression": "(Tc-T)/Tc"
+    },
+    {
+      "id": "inverted-the-exponent",
+      "description": {
+        "en": "Used the reciprocal of the critical exponent instead of the exponent itself.",
+        "et": "Kasutas kriitilise astendaja pöördväärtust astendaja ise asemel.",
+        "sourceHash": "d8d1b79e5fe17e81",
+        "stale": false
+      },
+      "expression": "pow((Tc-T)/Tc, 1/beta)"
+    },
+    {
+      "id": "inverted-the-ratio",
+      "description": {
+        "en": "Inverted the reduced-temperature ratio, computing critical over remaining temperature instead of the other way round.",
+        "et": "Pööras vähendatud temperatuurisuhte ümber, arvutades kriitilise temperatuuri jäänud temperatuuri suhtes, mitte vastupidi.",
+        "sourceHash": "a39621bbad6c828b",
+        "stale": false
+      },
+      "expression": "pow(Tc/(Tc-T), beta)"
+    }
+  ]
+}
