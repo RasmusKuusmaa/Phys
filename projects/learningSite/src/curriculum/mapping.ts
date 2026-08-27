@@ -653,6 +653,10 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "magnetic-fields",
     "resistivity-and-conductivity",
     "voltage-and-resistance",
+    "spin-and-angular-momentum-in-quantum-mechanics",
+    "rc-circuit-transients",
+    "lc-and-rlc-oscillations",
+    "ac-circuits-and-impedance",
   ],
   "LOFY.01.124": [
     "lenses-and-focal-length",
