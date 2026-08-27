@@ -1,0 +1,22 @@
+{
+  "id": "classification-of-pdes-parabolic-hyperbolic-elliptic",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "differential-equations",
+  "title": {
+    "en": "Classification of PDEs: parabolic, hyperbolic, elliptic",
+    "et": "Osatuletistega võrrandite klassifikatsioon: parabooliline, hüperboolne, elliptiline",
+    "sourceHash": "63a9e9ee41deb3c5",
+    "stale": false
+  },
+  "summary": {
+    "en": "A general second-order linear PDE Au_xx + Bu_xy + Cu_yy + ⋯ = 0 is classified by the discriminant B² − 4AC in exact analogy with a conic section: negative means elliptic (like Laplace's equation, describing steady states), zero means parabolic (like the heat equation, describing diffusion), and positive means hyperbolic (like the wave equation, describing propagation) — and each class genuinely needs a different kind of boundary or initial condition to have a well-posed solution.",
+    "et": "Üldine teist järku lineaarne osatuletistega võrrand Au_xx + Bu_xy + Cu_yy + ⋯ = 0 liigitatakse diskriminandi B² − 4AC järgi täpses analoogias kooniliste lõikega: negatiivne tähendab elliptilist (nagu Laplace' võrrand, mis kirjeldab statsionaarseid olekuid), null tähendab paraboolilist (nagu soojusvõrrand, mis kirjeldab difusiooni) ja positiivne tähendab hüperboolset (nagu lainevõrrand, mis kirjeldab levikut) — ja igal klassil on tegelikult vaja erinevat tüüpi raja- või algtingimust, et lahend oleks korrektselt püstitatud.",
+    "sourceHash": "776ac548c93dd2bd",
+    "stale": false
+  },
+  "prerequisites": [
+    "second-order-differential-equations",
+    "partial-derivatives"
+  ]
+}

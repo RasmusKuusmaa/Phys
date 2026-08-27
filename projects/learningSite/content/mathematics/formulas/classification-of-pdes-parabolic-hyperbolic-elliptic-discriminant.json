@@ -1,0 +1,53 @@
+{
+  "id": "classification-of-pdes-parabolic-hyperbolic-elliptic-discriminant",
+  "conceptId": "classification-of-pdes-parabolic-hyperbolic-elliptic",
+  "latex": "\\Delta = B^2 - 4AC",
+  "symbols": [
+    {
+      "symbol": "A",
+      "name": {
+        "en": "coefficient",
+        "et": "kordaja",
+        "sourceHash": "7ef50ace94f83c5a",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "B",
+      "name": {
+        "en": "coefficient",
+        "et": "kordaja",
+        "sourceHash": "7ef50ace94f83c5a",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "C",
+      "name": {
+        "en": "coefficient",
+        "et": "kordaja",
+        "sourceHash": "7ef50ace94f83c5a",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "D",
+      "name": {
+        "en": "discriminant",
+        "et": "diskriminant",
+        "sourceHash": "85e1c71eade2bdb0",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "D"
+  ],
+  "expressions": {
+    "D": "pow(B,2)-4*A*C"
+  }
+}

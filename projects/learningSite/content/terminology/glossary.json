@@ -1405,5 +1405,19 @@
     "et": "teststatistik",
     "domain": "mathematics",
     "source": "https://kodu.ut.ee/~maitraag/epi/_book/statistiline-h%C3%BCpoteeside-testimine.html"
+  },
+  {
+    "id": "coefficient",
+    "en": "coefficient",
+    "et": "kordaja",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kordaja/1/est"
+  },
+  {
+    "id": "discriminant",
+    "en": "discriminant",
+    "et": "diskriminant",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/diskriminant/1/est"
   }
 ]

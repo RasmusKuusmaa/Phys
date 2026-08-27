@@ -1,0 +1,37 @@
+{
+  "id": "classification-of-pdes-parabolic-hyperbolic-elliptic-solve-d",
+  "formulaId": "classification-of-pdes-parabolic-hyperbolic-elliptic-discriminant",
+  "solveFor": "D",
+  "mistakes": [
+    {
+      "id": "added-instead-of-subtracted",
+      "description": {
+        "en": "Added 4AC instead of subtracting it, computing B² + 4AC.",
+        "et": "Liitis 4AC lahutamise asemel, arvutades B² + 4AC.",
+        "sourceHash": "79ba7c0ab6229d20",
+        "stale": false
+      },
+      "expression": "pow(B,2)+4*A*C"
+    },
+    {
+      "id": "forgot-the-factor-of-four",
+      "description": {
+        "en": "Dropped the factor of 4, computing B² − AC instead of B² − 4AC.",
+        "et": "Jättis teguri 4 ära, arvutades B² − AC, mitte B² − 4AC.",
+        "sourceHash": "5443b8e029273912",
+        "stale": false
+      },
+      "expression": "pow(B,2)-A*C"
+    },
+    {
+      "id": "squared-the-wrong-coefficient",
+      "description": {
+        "en": "Squared A instead of B, computing A² − 4AC.",
+        "et": "Võttis ruutu A, mitte B, arvutades A² − 4AC.",
+        "sourceHash": "9cba34a689cc7aa8",
+        "stale": false
+      },
+      "expression": "pow(A,2)-4*A*C"
+    }
+  ]
+}

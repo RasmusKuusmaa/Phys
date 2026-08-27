@@ -1,0 +1,56 @@
+{
+  "id": "classification-of-pdes-parabolic-hyperbolic-elliptic-item1",
+  "conceptId": "classification-of-pdes-parabolic-hyperbolic-elliptic",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Laplace's equation u_xx + u_yy = 0 has A = 1, B = 0, C = 1. What type is it, and what does that predict about the kind of boundary conditions it needs?",
+    "et": "Laplace' võrrandil u_xx + u_yy = 0 on A = 1, B = 0, C = 1. Milline on selle tüüp, ja mida see ennustab vajaminevate rajatingimuste kohta?",
+    "sourceHash": "0d2bc7e756397c5a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Elliptic (B² − 4AC = −4 < 0) — it needs boundary conditions specified all around the region's boundary, not initial conditions on an open edge",
+        "et": "Elliptiline (B² − 4AC = −4 < 0) — see vajab rajatingimusi määratud kogu piirkonna raja ulatuses, mitte algtingimusi lahtisel rajal",
+        "sourceHash": "f8110f641d642595",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Hyperbolic, since B² − 4AC = 0 + 4 = 4 > 0 by adding instead of subtracting 4AC",
+        "et": "Hüperboolne, kuna B² − 4AC = 0 + 4 = 4 > 0, kui 4AC liidetakse, mitte lahutatakse",
+        "sourceHash": "97db812ec6c87cbb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classification-of-pdes-parabolic-hyperbolic-elliptic-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It depends on which specific harmonic function u(x,y) you pick as the solution",
+        "et": "See sõltub sellest, millise konkreetse harmoonilise funktsiooni u(x,y) lahendiks valid",
+        "sourceHash": "5418694835218b33",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classification-of-pdes-parabolic-hyperbolic-elliptic-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Elliptic, but it can equally well be given initial data on an open edge like the wave equation, since the boundary-condition requirement doesn't actually depend on the type",
+        "et": "Elliptiline, kuid sellele võib täpselt samamoodi anda algandmed lahtisel rajal nagu lainevõrrandile, kuna rajatingimuse nõue ei sõltu tegelikult tüübist",
+        "sourceHash": "9a72fa773139bc99",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classification-of-pdes-parabolic-hyperbolic-elliptic-m2"
+    }
+  ]
+}

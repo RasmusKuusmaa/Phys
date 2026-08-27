@@ -1,0 +1,10 @@
+{
+  "id": "classification-of-pdes-parabolic-hyperbolic-elliptic-m1",
+  "conceptId": "classification-of-pdes-parabolic-hyperbolic-elliptic",
+  "text": {
+    "en": "Believes the classification depends on the specific solution u(x,y) being examined, rather than being a property of the equation's coefficients A, B, C alone — the same PDE has the same type everywhere those coefficients are evaluated, regardless of which solution you plug in.",
+    "et": "Arvab, et liigitus sõltub konkreetsest uuritavast lahendist u(x,y), selle asemel et olla ainult võrrandi kordajate A, B, C omadus — samal osatuletistega võrrandil on sama tüüp kõikjal, kus need kordajad on hinnatud, sõltumata sellest, milline lahend sisse asendatakse.",
+    "sourceHash": "ecd56fb6b93d80b9",
+    "stale": false
+  }
+}

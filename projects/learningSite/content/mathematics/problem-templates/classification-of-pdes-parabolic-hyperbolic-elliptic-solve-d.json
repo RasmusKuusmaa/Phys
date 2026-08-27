@@ -1,0 +1,40 @@
+{
+  "id": "classification-of-pdes-parabolic-hyperbolic-elliptic-solve-d",
+  "formulaId": "classification-of-pdes-parabolic-hyperbolic-elliptic-discriminant",
+  "variables": [
+    {
+      "symbol": "A",
+      "min": 1,
+      "max": 10,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "B",
+      "min": -10,
+      "max": 10,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "C",
+      "min": 1,
+      "max": 10,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "A",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "C",
+      "right": 0
+    }
+  ],
+  "solveFor": "D"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "classification-of-pdes-parabolic-hyperbolic-elliptic-m2",
+  "conceptId": "classification-of-pdes-parabolic-hyperbolic-elliptic",
+  "text": {
+    "en": "Thinks the well-posed setup (what kind of boundary or initial conditions to prescribe) is the same for every PDE type, so any equation can be handed initial conditions on an open boundary like the wave equation, or boundary conditions all around like Laplace's equation.",
+    "et": "Arvab, et korrektselt püstitatud seade (millist tüüpi raja- või algtingimusi ette anda) on igal osatuletistega võrrandi tüübil sama, mistõttu võib igale võrrandile anda algtingimused lahtisel rajal nagu lainevõrrandile, või rajatingimused igast suunast nagu Laplace' võrrandile.",
+    "sourceHash": "d2c34af88a07ec37",
+    "stale": false
+  }
+}

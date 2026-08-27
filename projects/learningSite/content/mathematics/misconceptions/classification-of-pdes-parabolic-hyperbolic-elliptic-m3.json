@@ -1,0 +1,10 @@
+{
+  "id": "classification-of-pdes-parabolic-hyperbolic-elliptic-m3",
+  "conceptId": "classification-of-pdes-parabolic-hyperbolic-elliptic",
+  "text": {
+    "en": "Miscomputes the discriminant as B² + 4AC or A² − 4BC by pattern-matching loosely to the quadratic formula instead of the actual PDE discriminant B² − 4AC, which flips the classification for equations where the sign of that swap actually matters.",
+    "et": "Arvutab diskriminandi valesti kui B² + 4AC või A² − 4BC, sobitades lohakalt ruutvõrrandi valemile, mitte tegelikule osatuletistega võrrandi diskriminandile B² − 4AC, mis pöörab liigituse võrrandite jaoks, kus selle vahetuse märk tegelikult loeb.",
+    "sourceHash": "e79a835ade8d8d55",
+    "stale": false
+  }
+}
