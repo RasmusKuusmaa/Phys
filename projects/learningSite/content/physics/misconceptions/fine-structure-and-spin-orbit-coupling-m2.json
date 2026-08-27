@@ -1,0 +1,10 @@
+{
+  "id": "fine-structure-and-spin-orbit-coupling-m2",
+  "conceptId": "fine-structure-and-spin-orbit-coupling",
+  "text": {
+    "en": "Assuming fine structure splits every hydrogen energy level, including s-states (orbital quantum number zero), when a state with zero orbital angular momentum has no orbital magnetic field for the electron's spin to couple to in the first place.",
+    "et": "Eeldamine, et peenstruktuur lõhub kõiki vesiniku energiatasemeid, kaasa arvatud s-olekuid (orbitaalkvantarv null), kuigi olekul, kus orbitaalne impulsimoment on null, ei ole algusest peale orbitaalset magnetvälja, millega elektroni spinn saaks seonduda.",
+    "sourceHash": "72b5eac23cbedb78",
+    "stale": false
+  }
+}

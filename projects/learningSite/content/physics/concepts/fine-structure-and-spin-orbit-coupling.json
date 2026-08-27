@@ -1,0 +1,22 @@
+{
+  "id": "fine-structure-and-spin-orbit-coupling",
+  "subject": "physics",
+  "level": "L3",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Fine structure and spin-orbit coupling",
+    "et": "Peenstruktuur ja spinn-orbiit seotus",
+    "sourceHash": "a7386f8aed7e8019",
+    "stale": false
+  },
+  "summary": {
+    "en": "The hydrogen energy levels predicted by treating the electron as a point charge orbiting the nucleus are only an approximation: the electron's own spin magnetic moment interacts with the magnetic field it experiences from its orbital motion around the nucleus, slightly splitting each orbital energy level according to how the electron's spin and orbital angular momentum combine.",
+    "et": "Vesiniku energiatasemed, mis ennustatakse elektroni käsitlemisel punktlaenguna, mis tiirleb tuuma ümber, on vaid ligikaudsed: elektroni oma spinni magnetmoment interakteerub magnetväljaga, mida ta tajub tänu oma orbitaalliikumisele tuuma ümber, lõhkudes veidi igat orbitaalset energiataset selle põhjal, kuidas elektroni spinn ja orbitaalne impulsimoment omavahel liituvad.",
+    "sourceHash": "71fba7d8506a95f8",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-hydrogen-atom-and-atomic-structure",
+    "spin-and-angular-momentum-in-quantum-mechanics"
+  ]
+}

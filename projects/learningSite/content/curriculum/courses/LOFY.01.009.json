@@ -197,7 +197,8 @@
     "atoms-and-the-nucleus",
     "nuclear-shell-model-spin-and-parity",
     "nuclear-reactions-and-threshold-energy",
-    "the-zeeman-effect-and-stern-gerlach"
+    "the-zeeman-effect-and-stern-gerlach",
+    "fine-structure-and-spin-orbit-coupling"
   ],
   "sourceFiles": [
     "SuunaMoodulid/physics1.md"

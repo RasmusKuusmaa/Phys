@@ -1,0 +1,56 @@
+{
+  "id": "fine-structure-and-spin-orbit-coupling-item1",
+  "conceptId": "fine-structure-and-spin-orbit-coupling",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why doesn't a hydrogen 2s state (orbital quantum number l = 0) show any spin-orbit splitting, while a 2p state (l = 1) does?",
+    "et": "Miks vesiniku 2s olek (orbitaalkvantarv l = 0) ei näita mingit spinn-orbiit lõhenemist, samas kui 2p olek (l = 1) näitab?",
+    "sourceHash": "14e59638614f2ac5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "With l = 0 the electron has no orbital angular momentum, so there is no orbital magnetic field for its spin to interact with",
+        "et": "l = 0 puhul puudub elektronil orbitaalne impulsimoment, mistõttu puudub orbitaalne magnetväli, millega tema spinn saaks interakteeruda",
+        "sourceHash": "a4bb513194e71d18",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "No external magnetic field was applied to the 2s electron in this particular experiment",
+        "et": "Sellele 2s elektronile ei rakendatud selles konkreetses katses välist magnetvälja",
+        "sourceHash": "0f444f00b6268701",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fine-structure-and-spin-orbit-coupling-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both states actually do split, just by an amount too small for typical spectroscopy to resolve at l = 0",
+        "et": "Tegelikult lõhenevad mõlemad olekud, ainult l = 0 puhul on lõhenemine liiga väike, et tavaline spektroskoopia seda eristaks",
+        "sourceHash": "547cee3ccec60f42",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fine-structure-and-spin-orbit-coupling-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The 2s electron's total angular momentum quantum number j simply happens to equal zero for that state",
+        "et": "2s elektroni koguimpulsimomendi kvantarv j on selle oleku puhul juhuslikult null",
+        "sourceHash": "cc44f7cfa39e5368",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fine-structure-and-spin-orbit-coupling-m3"
+    }
+  ]
+}
