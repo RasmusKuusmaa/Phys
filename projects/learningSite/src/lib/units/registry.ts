@@ -247,6 +247,15 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ mass: 1, length: 2, time: -3 }),
     toBase: 1,
   },
+  // Lumen is candela times steradian; the steradian is dimensionless in SI,
+  // so lumen shares candela's dimension vector — it is not a radiometric
+  // (energy-based) unit and must never be treated as convertible with watts.
+  lm: {
+    symbol: "lm",
+    name: { en: "lumen", et: "lumen" },
+    dimension: dim({ luminousIntensity: 1 }),
+    toBase: 1,
+  },
   H: {
     symbol: "H",
     name: { en: "henry", et: "henri" },

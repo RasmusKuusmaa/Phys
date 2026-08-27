@@ -1,0 +1,10 @@
+{
+  "id": "radiometric-and-photometric-quantities-m3",
+  "conceptId": "radiometric-and-photometric-quantities",
+  "text": {
+    "en": "Believing luminous efficacy peaks at 683 lumens per watt for every colour of light, rather than that number being the theoretical maximum, reached only at the single wavelength (about 555 nm, green) where the eye is most sensitive — every other colour converts less efficiently.",
+    "et": "Uskumine, et valgusviljakus on iga valguse värvi puhul 683 lumenit vati kohta, mitte see, et see arv on teoreetiline maksimum, mis saavutatakse ainult ühel lainepikkusel (umbes 555 nm, roheline), mille suhtes silm on kõige tundlikum — kõik muud värvid teisenevad väiksema tõhususega.",
+    "sourceHash": "0219aa37fd49f951",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "radiometric-and-photometric-quantities-item1",
+  "conceptId": "radiometric-and-photometric-quantities",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A 1000 W infrared heat lamp and a 1000 W green laser radiate the same power. Why does the laser produce vastly more luminous flux (lumens)?",
+    "et": "1000 W infrapunane soojuslamp ja 1000 W roheline laser kiirgavad sama võimsust. Miks tekitab laser palju suurema valgusvoo (lumenites)?",
+    "sourceHash": "d53d14ff11f77ecb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Luminous flux weights radiant power by the eye's sensitivity, which is near its peak for green light and essentially zero for infrared — the same watts convert to very different lumens.",
+        "et": "Valgusvoog kaalub kiirgusvõimsust silma tundlikkusega, mis on rohelise valguse jaoks tundlikkuse tipu lähedal ja infrapunase jaoks sisuliselt null — samad vatid teisenevad väga erinevaks lumenite arvuks.",
+        "sourceHash": "e46ba624834532ef",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Watts and lumens measure the same thing, so they should actually produce the same luminous flux — the difference must be a measurement error.",
+        "et": "Vatid ja lumenid mõõdavad sama asja, nii et need peaksid tegelikult tekitama sama valgusvoo — erinevus peab olema mõõtmisviga.",
+        "sourceHash": "6652cd7e752c7488",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radiometric-and-photometric-quantities-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The infrared lamp should produce more lumens, not fewer, because it's radiating the same power and infrared is still a form of light.",
+        "et": "Infrapunane lamp peaks tekitama rohkem lumeneid, mitte vähem, kuna see kiirgab sama võimsust ja infrapunane on ikkagi valguse vorm.",
+        "sourceHash": "be4df5f9b8ffec61",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radiometric-and-photometric-quantities-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both should convert at the maximum rate of 683 lumens per watt, so their luminous flux should also be equal.",
+        "et": "Mõlemad peaksid teisenema maksimaalse teguriga 683 lumenit vati kohta, nii et nende valgusvoog peaks samuti olema võrdne.",
+        "sourceHash": "0b576e7eb3289abb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radiometric-and-photometric-quantities-m3"
+    }
+  ]
+}

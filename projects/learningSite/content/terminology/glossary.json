@@ -1468,5 +1468,26 @@
     "et": "järk",
     "domain": "optics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/j%C3%A4rk/1/est"
+  },
+  {
+    "id": "radiant-flux",
+    "en": "radiant flux",
+    "et": "kiirgusvoog",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kiirgusvoog/1/est"
+  },
+  {
+    "id": "luminous-flux",
+    "en": "luminous flux",
+    "et": "valgusvoog",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/valgusvoog/1/est"
+  },
+  {
+    "id": "luminous-efficacy",
+    "en": "luminous efficacy",
+    "et": "valgusviljakus",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/valgusviljakus/1/est"
   }
 ]

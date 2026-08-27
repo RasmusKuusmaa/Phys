@@ -241,7 +241,8 @@
     "lasers-and-stimulated-emission",
     "rayleigh-and-mie-scattering",
     "fresnel-equations-and-brewsters-angle",
-    "birefringence-and-wave-plates"
+    "birefringence-and-wave-plates",
+    "radiometric-and-photometric-quantities"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

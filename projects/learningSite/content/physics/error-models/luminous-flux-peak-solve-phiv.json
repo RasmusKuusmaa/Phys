@@ -1,0 +1,37 @@
+{
+  "id": "luminous-flux-peak-solve-phiv",
+  "formulaId": "luminous-flux-peak-formula",
+  "solveFor": "Phiv",
+  "mistakes": [
+    {
+      "id": "treated-watts-and-lumens-as-equal",
+      "description": {
+        "en": "Assumed watts convert to lumens one-to-one, leaving the radiant flux value unchanged.",
+        "et": "Eeldas, et vatid teisenevad lumeniteks üks ühele, jättes kiirgusvoo väärtuse muutmata.",
+        "sourceHash": "b2f5d7de366d792d",
+        "stale": false
+      },
+      "expression": "Phie"
+    },
+    {
+      "id": "divided-instead-of-multiplied",
+      "description": {
+        "en": "Divided by 683 instead of multiplying by it, inverting the conversion.",
+        "et": "Jagas 683-ga korrutamise asemel, pöörates teisenduse ümber.",
+        "sourceHash": "be494275a371898f",
+        "stale": false
+      },
+      "expression": "Phie/683"
+    },
+    {
+      "id": "used-wrong-constant",
+      "description": {
+        "en": "Used 555 (the peak wavelength in nanometres) as the conversion factor instead of 683 (the peak luminous efficacy in lumens per watt).",
+        "et": "Kasutas teisendusteguriks 555 (tipplainepikkus nanomeetrites), mitte 683 (tipp-valgusviljakus lumenites vati kohta).",
+        "sourceHash": "6bd1456cc0218780",
+        "stale": false
+      },
+      "expression": "555*Phie"
+    }
+  ]
+}

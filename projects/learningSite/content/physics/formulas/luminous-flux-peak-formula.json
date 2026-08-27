@@ -1,0 +1,33 @@
+{
+  "id": "luminous-flux-peak-formula",
+  "conceptId": "radiometric-and-photometric-quantities",
+  "latex": "\\Phi_v = 683\\,\\Phi_e",
+  "symbols": [
+    {
+      "symbol": "Phie",
+      "name": {
+        "en": "radiant flux",
+        "et": "kiirgusvoog",
+        "sourceHash": "3c890bd8afd12faa",
+        "stale": false
+      },
+      "unit": "W"
+    },
+    {
+      "symbol": "Phiv",
+      "name": {
+        "en": "luminous flux",
+        "et": "valgusvoog",
+        "sourceHash": "9397a54fc71c840e",
+        "stale": false
+      },
+      "unit": "lm"
+    }
+  ],
+  "solveFor": [
+    "Phiv"
+  ],
+  "expressions": {
+    "Phiv": "683*Phie"
+  }
+}

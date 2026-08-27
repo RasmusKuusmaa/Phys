@@ -1,0 +1,10 @@
+{
+  "id": "radiometric-and-photometric-quantities-m1",
+  "conceptId": "radiometric-and-photometric-quantities",
+  "text": {
+    "en": "Treating watts and lumens as two names for the same physical quantity, convertible with a single fixed factor regardless of colour — rather than lumens depending on how strongly the human eye responds to that specific wavelength.",
+    "et": "Käsitlemine vattide ja lumenite kui ühe ja sama füüsikalise suuruse kahe nimetusena, mida saab teisendada ühe kindla teguriga sõltumata värvusest — mitte see, et lumenid sõltuvad sellest, kui tugevalt inimsilm sellele konkreetsele lainepikkusele reageerib.",
+    "sourceHash": "a2a3af95674417ed",
+    "stale": false
+  }
+}

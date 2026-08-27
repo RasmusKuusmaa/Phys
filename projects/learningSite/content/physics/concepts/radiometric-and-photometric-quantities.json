@@ -1,0 +1,21 @@
+{
+  "id": "radiometric-and-photometric-quantities",
+  "subject": "physics",
+  "level": "L2",
+  "module": "optics",
+  "title": {
+    "en": "Radiometric and photometric quantities",
+    "et": "Radiomeetrilised ja fotomeetrilised suurused",
+    "sourceHash": "2b6e7fad09f2a1de",
+    "stale": false
+  },
+  "summary": {
+    "en": "Radiometric quantities (radiant flux, in watts) measure light as pure physical energy, unweighted; photometric quantities (luminous flux, in lumens) weight that same light by how sensitive the human eye is at each wavelength. Two sources with equal radiant flux can have wildly different luminous flux if one emits mostly green light, where the eye is most sensitive, and the other mostly deep red or infrared, where it barely responds at all.",
+    "et": "Radiomeetrilised suurused (kiirgusvoog, vattides) mõõdavad valgust puhta füüsikalise energiana, kaalumata; fotomeetrilised suurused (valgusvoog, lumenites) kaaluvad sama valgust selle järgi, kui tundlik on inimsilm igal lainepikkusel. Kahel võrdse kiirgusvooga allikal võib olla väga erinev valgusvoog, kui üks kiirgab peamiselt rohelist valgust, mille suhtes silm on tundlikum, ja teine peamiselt sügavpunast või infrapunast valgust, mille suhtes silm peaaegu ei reageeri.",
+    "sourceHash": "b360baf80db33a93",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-waves"
+  ]
+}

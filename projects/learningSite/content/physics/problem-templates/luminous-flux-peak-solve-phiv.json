@@ -1,0 +1,21 @@
+{
+  "id": "luminous-flux-peak-solve-phiv",
+  "formulaId": "luminous-flux-peak-formula",
+  "variables": [
+    {
+      "symbol": "Phie",
+      "min": 0.5,
+      "max": 50,
+      "unit": "W",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "Phie",
+      "right": 0
+    }
+  ],
+  "solveFor": "Phiv"
+}
