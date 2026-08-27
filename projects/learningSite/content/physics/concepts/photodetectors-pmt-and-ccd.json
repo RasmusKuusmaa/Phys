@@ -1,0 +1,21 @@
+{
+  "id": "photodetectors-pmt-and-ccd",
+  "subject": "physics",
+  "level": "L2",
+  "module": "optics",
+  "title": {
+    "en": "Photodetectors: PMTs and CCDs",
+    "et": "Fotodetektorid: fotoelektronkordistid ja CCD-maatriksid",
+    "sourceHash": "cdbada7a0ea20dd8",
+    "stale": false
+  },
+  "summary": {
+    "en": "A photomultiplier tube (PMT) turns single photons into a large, measurable pulse of current by knocking one electron loose via the photoelectric effect, then multiplying it through a cascade of dynodes that each release several secondary electrons per electron they absorb. A CCD instead uses the photoelectric effect inside a semiconductor, at millions of independent pixels at once, storing each pixel's accumulated charge and reading it out to build up an image.",
+    "et": "Fotoelektronkordisti (PMT) muudab üksikud footonid suureks, mõõdetavaks voolupulsiks, vabastades fotoefekti kaudu ühe elektroni, ning võimendades seda dünoodide kaskaadi kaudu, kus igaüks vabastab neelatud elektroni kohta mitu sekundaarelektroni. CCD-maatriks kasutab selle asemel fotoefekti pooljuhi sees, korraga miljonites eraldiseisvates pikslites, säilitades igas pikslis kogunenud laengu ja lugedes selle välja pildi koostamiseks.",
+    "sourceHash": "e10aca8925e53083",
+    "stale": false
+  },
+  "prerequisites": [
+    "photoelectric-effect"
+  ]
+}

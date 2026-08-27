@@ -1,0 +1,43 @@
+{
+  "id": "pmt-gain-formula",
+  "conceptId": "photodetectors-pmt-and-ccd",
+  "latex": "G = \\delta^n",
+  "symbols": [
+    {
+      "symbol": "delta",
+      "name": {
+        "en": "gain",
+        "et": "võimendus",
+        "sourceHash": "66dd231befc8120d",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "n",
+      "name": {
+        "en": "number of dynodes",
+        "et": "dünoodide arv",
+        "sourceHash": "5fffd06a9b659e98",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "G",
+      "name": {
+        "en": "gain",
+        "et": "võimendus",
+        "sourceHash": "66dd231befc8120d",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "G"
+  ],
+  "expressions": {
+    "G": "pow(delta,n)"
+  }
+}

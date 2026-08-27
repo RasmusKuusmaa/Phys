@@ -171,6 +171,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "fresnel-equations-and-brewsters-angle",
     "birefringence-and-wave-plates",
     "radiometric-and-photometric-quantities",
+    "photodetectors-pmt-and-ccd",
   ],
   "LOFY.01.009": [
     "heisenberg-uncertainty-principle",
@@ -437,6 +438,7 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "signals-and-fourier-analysis",
     "lasers-and-stimulated-emission",
     "the-michelson-interferometer",
+    "photodetectors-pmt-and-ccd",
   ],
   // LOFY.01.018 Signaalitöötluse alused I — signals, spectra, Fourier, sampling.
   "LOFY.01.018": [

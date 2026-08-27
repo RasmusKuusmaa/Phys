@@ -1,0 +1,56 @@
+{
+  "id": "photodetectors-pmt-and-ccd-item1",
+  "conceptId": "photodetectors-pmt-and-ccd",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A photomultiplier tube has 10 dynode stages, each releasing 4 secondary electrons per electron it absorbs. Roughly how does the final electron count compare to the single electron the photocathode released?",
+    "et": "Fotoelektronkordistil on 10 dünoodiastet, millest igaüks vabastab 4 sekundaarelektroni iga neelatud elektroni kohta. Umbes kui palju suurem on lõplik elektronide arv võrreldes fotokatoodi vabastatud üheainsa elektroniga?",
+    "sourceHash": "b3106fa344fc6601",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "About 4¹⁰ times larger — roughly a million-fold — because each stage multiplies the electron count by 4, ten times in a row.",
+        "et": "Umbes 4¹⁰ korda suurem — kümmekonna suurusjärgu kaupa umbes miljon kord — kuna igal astmel korrutub elektronide arv 4-ga, kümme korda järjest.",
+        "sourceHash": "ba269274f04be790",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "About 40 times larger — 10 stages each adding 4 electrons.",
+        "et": "Umbes 40 korda suurem — 10 astet, millest igaüks lisab 4 elektroni.",
+        "sourceHash": "28f85a8f569027dc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "photodetectors-pmt-and-ccd-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It can't be estimated this way — a CCD-style sensor would be needed to actually count electrons, since a PMT works by a completely different mechanism.",
+        "et": "Seda ei saa niimoodi hinnata — elektronide loendamiseks oleks vaja CCD-tüüpi sensorit, kuna PMT töötab täiesti erineva mehhanismi kaudu.",
+        "sourceHash": "119999bbeaf14327",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "photodetectors-pmt-and-ccd-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends on the colour of the original photon, which the dynode cascade also has to preserve and amplify.",
+        "et": "See sõltub algse footoni värvusest, mida dünoodide kaskaad peab samuti säilitama ja võimendama.",
+        "sourceHash": "0a731ff1d3df28f2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "photodetectors-pmt-and-ccd-m3"
+    }
+  ]
+}

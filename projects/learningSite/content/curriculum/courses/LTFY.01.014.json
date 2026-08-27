@@ -69,7 +69,8 @@
     "wave-nature-of-light",
     "signals-and-fourier-analysis",
     "lasers-and-stimulated-emission",
-    "the-michelson-interferometer"
+    "the-michelson-interferometer",
+    "photodetectors-pmt-and-ccd"
   ],
   "sourceFiles": [
     "ErialaMoodulid/physics1.md"

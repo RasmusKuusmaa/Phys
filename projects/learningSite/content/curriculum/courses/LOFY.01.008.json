@@ -242,7 +242,8 @@
     "rayleigh-and-mie-scattering",
     "fresnel-equations-and-brewsters-angle",
     "birefringence-and-wave-plates",
-    "radiometric-and-photometric-quantities"
+    "radiometric-and-photometric-quantities",
+    "photodetectors-pmt-and-ccd"
   ],
   "sourceFiles": [
     "ErialaMoodulid/MaterialScience2.md",

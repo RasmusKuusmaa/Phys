@@ -1,0 +1,10 @@
+{
+  "id": "photodetectors-pmt-and-ccd-m1",
+  "conceptId": "photodetectors-pmt-and-ccd",
+  "text": {
+    "en": "Believing a photomultiplier tube's dynode cascade adds a fixed number of extra electrons at each stage, rather than multiplying the electron count by roughly the same factor at every stage — which is why the total gain grows exponentially with the number of dynodes, not linearly.",
+    "et": "Uskumine, et fotoelektronkordisti dünoodide kaskaad lisab igal astmel kindla arvu täiendavaid elektrone, mitte see, et see korrutab elektronide arvu igal astmel enam-vähem sama teguriga — seetõttu kasvab koguvõimendus dünoodide arvuga eksponentsiaalselt, mitte lineaarselt.",
+    "sourceHash": "208ff86f39297792",
+    "stale": false
+  }
+}

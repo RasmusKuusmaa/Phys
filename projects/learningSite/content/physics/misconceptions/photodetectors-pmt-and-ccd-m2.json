@@ -1,0 +1,10 @@
+{
+  "id": "photodetectors-pmt-and-ccd-m2",
+  "conceptId": "photodetectors-pmt-and-ccd",
+  "text": {
+    "en": "Believing a CCD detects light by some fundamentally different process than a photomultiplier tube, rather than both relying on the same photoelectric effect — a CCD just uses it inside a semiconductor at millions of independent locations instead of once, followed by a dynode cascade, at a single location.",
+    "et": "Uskumine, et CCD-maatriks tuvastab valgust põhimõtteliselt teistsuguse protsessi kaudu kui fotoelektronkordisti, mitte see, et mõlemad põhinevad samal fotoefektil — CCD kasutab seda vaid pooljuhi sees miljonites eraldiseisvates asukohtades korraga, dünoodide kaskaadi asemel ühes asukohas.",
+    "sourceHash": "5f1faeef8788857e",
+    "stale": false
+  }
+}

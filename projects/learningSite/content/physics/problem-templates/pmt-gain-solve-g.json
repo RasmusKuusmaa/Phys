@@ -1,0 +1,28 @@
+{
+  "id": "pmt-gain-solve-g",
+  "formulaId": "pmt-gain-formula",
+  "variables": [
+    {
+      "symbol": "delta",
+      "min": 3,
+      "max": 6,
+      "unit": "1",
+      "sigFigs": 2
+    },
+    {
+      "symbol": "n",
+      "min": 6,
+      "max": 12,
+      "unit": "1",
+      "sigFigs": 2
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "delta",
+      "right": 1
+    }
+  ],
+  "solveFor": "G"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "photodetectors-pmt-and-ccd-m3",
+  "conceptId": "photodetectors-pmt-and-ccd",
+  "text": {
+    "en": "Believing a single pixel in a CCD image directly reports which colour of light hit it, rather than only the total accumulated charge — colour information requires either separate filtered pixels or multiple exposures, because the photoelectric charge a pixel collects doesn't by itself encode the photon's wavelength.",
+    "et": "Uskumine, et CCD pildi üksik piksel annab otse teada, mis värvi valgus sellele langes, mitte see, et see annab teada ainult kogunenud koguslaengu — värviinfo vajab eraldi filtriga piksleid või mitut säritust, kuna pikslisse kogunev fotoefekti laeng ei kodeeri iseenesest footoni lainepikkust.",
+    "sourceHash": "89ef95fa8bf5020a",
+    "stale": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pmt-gain-solve-g",
+  "formulaId": "pmt-gain-formula",
+  "solveFor": "G",
+  "mistakes": [
+    {
+      "id": "multiplied-instead-of-exponentiated",
+      "description": {
+        "en": "Multiplied the per-dynode gain by the number of dynodes instead of raising it to that power, treating the cascade as additive rather than multiplicative.",
+        "et": "Korrutas dünoodikohase võimenduse dünoodide arvuga, mitte tõstis selle astmesse, käsitledes kaskaadi liitmisena, mitte korrutamisena.",
+        "sourceHash": "b813374cc1f0fa2f",
+        "stale": false
+      },
+      "expression": "delta*n"
+    },
+    {
+      "id": "off-by-one-stage-count",
+      "description": {
+        "en": "Used one fewer dynode stage than actually given, an off-by-one error in the exponent.",
+        "et": "Kasutas ühe dünoodiastme vähem, kui tegelikult antud, astendajas ühevõrra viga.",
+        "sourceHash": "a66a12dd66dfe6c0",
+        "stale": false
+      },
+      "expression": "pow(delta,n-1)"
+    },
+    {
+      "id": "raised-n-to-delta",
+      "description": {
+        "en": "Swapped the base and exponent, computing n^δ instead of δ^n.",
+        "et": "Vahetas ära aluse ja astendaja, arvutades n^δ, mitte δ^n.",
+        "sourceHash": "82b2f9ae62ed43a7",
+        "stale": false
+      },
+      "expression": "pow(n,delta)"
+    }
+  ]
+}

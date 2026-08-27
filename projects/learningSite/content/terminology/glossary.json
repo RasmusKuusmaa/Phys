@@ -1489,5 +1489,19 @@
     "et": "valgusviljakus",
     "domain": "optics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/valgusviljakus/1/est"
+  },
+  {
+    "id": "gain",
+    "en": "gain",
+    "et": "võimendus",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/v%C3%B5imendus/1/est"
+  },
+  {
+    "id": "number-of-dynodes",
+    "en": "number of dynodes",
+    "et": "dünoodide arv",
+    "domain": "optics",
+    "source": "https://et.wikipedia.org/wiki/Fotoelektronkordisti"
   }
 ]
