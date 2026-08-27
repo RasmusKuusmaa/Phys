@@ -1,0 +1,56 @@
+{
+  "id": "dark-matter-and-galactic-structure-item1",
+  "conceptId": "dark-matter-and-galactic-structure",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A star orbiting near the visible edge of a spiral galaxy is observed to move just as fast as stars much closer to the centre, rather than more slowly as Newtonian orbits around a central visible mass would predict. What does this observation, together with independent evidence from galaxy clusters and gravitational lensing, best support?",
+    "et": "Spiraalgalaktika nähtava serva lähedal tiirlev täht liigub täheldatavalt sama kiiresti kui tsentrile palju lähemal olevad tähed, mitte aeglasemalt, nagu ennustaks Newtoni orbiidid nähtava tsentraalse massi ümber. Mida see vaatlus koos galaktikaparvedest ja gravitatsioonilisest läätsestumisest saadud sõltumatute tõenditega kõige paremini toetab?",
+    "sourceHash": "131c8cc7d2df9cb9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The galaxy contains a large amount of additional, non-luminous mass — a dark matter halo — extending well beyond the visible disk, whose gravity keeps outer orbital speeds high.",
+        "et": "Galaktika sisaldab suurel hulgal täiendavat, valgust mittekiirgavat massi — tume aine halot —, mis ulatub nähtavast kettast oluliselt kaugemale ning mille gravitatsioon hoiab välimiste orbiitide kiirused kõrged.",
+        "sourceHash": "e7e587fa33498cff",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The galaxy simply contains more ordinary dim stars, dust and small dark objects than telescopes have managed to detect and count so far.",
+        "et": "Galaktikas on lihtsalt rohkem tavalisi tuhmasid tähti, tolmu ja väikeseid pimedaid objekte, kui teleskoobid on seni suutnud avastada ja kokku lugeda.",
+        "sourceHash": "901f506eeb73db37",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dark-matter-and-galactic-structure-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The visible disk rotates as one rigid body, so every star at every radius is forced to share the same angular speed.",
+        "et": "Nähtav ketas pöörleb ühe jäiga kehana, mistõttu iga täht igal raadiusel on sunnitud jagama sama nurkkiirust.",
+        "sourceHash": "8e597ba8d16aae18",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dark-matter-and-galactic-structure-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The galaxy's expansion is accelerating due to the same dark energy that drives the expansion of the whole universe.",
+        "et": "Galaktika paisumine kiireneb sama tumeenergia tõttu, mis põhjustab kogu universumi paisumist.",
+        "sourceHash": "61ad648f9b71ecaf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dark-matter-and-galactic-structure-m3"
+    }
+  ]
+}

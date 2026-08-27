@@ -1,0 +1,21 @@
+{
+  "id": "dark-matter-and-galactic-structure",
+  "subject": "physics",
+  "level": "L2",
+  "module": "astrophysics",
+  "title": {
+    "en": "Dark matter and galactic structure",
+    "et": "Tume aine ja galaktikate struktuur",
+    "sourceHash": "1153a865960ec4cd",
+    "stale": false
+  },
+  "summary": {
+    "en": "Stars near the outer edges of spiral galaxies orbit far faster than Newtonian gravity applied to the galaxy's visible, luminous matter alone can account for — their rotation curves stay roughly flat with radius instead of falling off the way planetary orbits in the Solar System do — and the same mass discrepancy shows up independently in the dynamics of galaxy clusters and in gravitational lensing of light passing near them; the leading explanation is that galaxies are embedded in far larger haloes of non-luminous dark matter, which interacts gravitationally but, as far as every experiment to date can tell, not electromagnetically, and so neither emits, absorbs, nor scatters light, while outweighing all of the universe's ordinary matter roughly five to one.",
+    "et": "Spiraalgalaktikate välisservade lähedal olevad tähed tiirlevad palju kiiremini, kui Newtoni gravitatsioon galaktika nähtava, valgust kiirgava aine põhjal ennustaks — nende pöörlemiskõverad jäävad raadiusega ligikaudu lamedaks selle asemel, et kahaneda nii nagu Päikesesüsteemi planeetide orbiidid —, ning sama massidefitsiit ilmneb sõltumatult ka galaktikaparvede dünaamikas ja nende lähedalt mööduva valguse gravitatsioonilises läätsestumises; juhtiv seletus on, et galaktikad on ümbritsetud palju suurematest valgust mittekiirgava tume aine halodest, mis mõjuvad gravitatsiooniliselt, kuid, nagu kõik seninised katsed näitavad, mitte elektromagnetiliselt, ega seega ei kiirga, neela ega hajuta valgust, ületades massilt kogu universumi tavalist ainet ligikaudu viiekordselt.",
+    "sourceHash": "c59672e09a677a6c",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtonian-gravitation"
+  ]
+}
