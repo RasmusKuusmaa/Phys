@@ -4,7 +4,7 @@
   "type": "multiple-choice",
   "stem": {
     "en": "A reaction has Q = −4 MeV. Why can't it proceed the instant the projectile's kinetic energy reaches exactly 4 MeV?",
-    "et": "Reaktsiooni Q = −4 MeV. Miks ei saa reaktsioon toimuda hetkel, kui langeva osakese kineetiline energia jõuab täpselt 4 MeV-ni?",
+    "et": "Reaktsiooni Q = −4 MeV. Miks ei saa reaktsioon toimuda hetkel, kui pommitava osakese kineetiline energia jõuab täpselt 4 MeV-ni?",
     "sourceHash": "30d0aa4d90d5ca60",
     "stale": false
   },
@@ -34,7 +34,7 @@
       "id": "c",
       "label": {
         "en": "It can't, but only because the correction factor should use the projectile's own mass in the denominator, not the target's",
-        "et": "Ei saa, kuid ainult seetõttu, et korrektsioonikordaja nimetajas peaks olema langeva osakese oma mass, mitte sihtmärgi mass",
+        "et": "Ei saa, kuid ainult seetõttu, et korrektsioonikordaja nimetajas peaks olema pommitava osakese oma mass, mitte sihtmärgi mass",
         "sourceHash": "c61641c01d99bccd",
         "stale": false
       },

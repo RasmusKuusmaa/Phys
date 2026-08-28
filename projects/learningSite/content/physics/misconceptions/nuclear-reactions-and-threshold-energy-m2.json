@@ -3,7 +3,7 @@
   "conceptId": "nuclear-reactions-and-threshold-energy",
   "text": {
     "en": "Mixing up which mass belongs in the correction factor's denominator — using the projectile's own mass instead of the (usually much heavier) stationary target's mass.",
-    "et": "Nimetajasse kuuluva massi äravahetamine — langeva osakese oma massi kasutamine sihtmärgi (tavaliselt palju raskema, paigalseisva) massi asemel.",
+    "et": "Nimetajasse kuuluva massi äravahetamine — pommitava osakese oma massi kasutamine sihtmärgi (tavaliselt palju raskema, paigalseisva) massi asemel.",
     "sourceHash": "bcd8b949cd0adae6",
     "stale": false
   }
