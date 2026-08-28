@@ -653,6 +653,34 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "adsorption-isotherms",
     "catalysis-homogeneous-and-heterogeneous",
   ],
+  // LOKT.04.003 Kolloid- ja pindnähtuste keemia — surface tension/adsorption are
+  // already covered by physics and physical-chemistry concepts; the colloid-
+  // specific electrokinetics (double layer, zeta potential, electrophoresis/
+  // electroosmosis, coagulation stability) is new and covered by the concept
+  // added for this course. Micelles/surfactants, polymer-solution rheology and
+  // emulsion/foam/aerosol classification remain uncovered.
+  "LOKT.04.003": [
+    "surface-tension-and-capillarity",
+    "adsorption-isotherms",
+    "colloidal-systems-and-electrokinetic-phenomena",
+  ],
+  // LTKT.06.002 Keemiliste andmete analüüs — concentration/dilution calculation
+  // and data-processing theory shared with the measurement module; no new
+  // chemistry-specific content beyond what analytical chemistry already covers.
+  "LTKT.06.002": [
+    "the-mole-and-amount-of-substance",
+    "uncertainty-and-error",
+    "statistical-distributions-in-measurement",
+    "least-squares-fitting-and-linear-regression",
+  ],
+  // LOKT.04.004 Keskkonnakeemia I — topics array empty in the scrape; outcomes
+  // name concentration/equilibrium/Henry's-law/redox calculations on pollutants
+  // as the concrete chemistry content, which existing concepts already cover.
+  "LOKT.04.004": [
+    "the-mole-and-amount-of-substance",
+    "chemical-equilibrium",
+    "redox-reactions",
+  ],
   // LTKT.06.004 Keemilise analüüsi praktikum — theory the analysis rests on.
   "LTKT.06.004": [
     "stoichiometry",

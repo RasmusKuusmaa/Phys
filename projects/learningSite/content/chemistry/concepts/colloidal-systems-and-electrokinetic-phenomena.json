@@ -1,0 +1,21 @@
+{
+  "id": "colloidal-systems-and-electrokinetic-phenomena",
+  "subject": "chemistry",
+  "level": "L3",
+  "module": "physical-chemistry",
+  "title": {
+    "en": "Colloidal systems and electrokinetic phenomena",
+    "et": "Kolloidsüsteemid ja elektrokineetilised nähtused",
+    "sourceHash": "201af5adcc9b3793",
+    "stale": false
+  },
+  "summary": {
+    "en": "A colloidal particle suspended in a liquid picks up a surface charge, which attracts a cloud of counter-ions into a diffuse electric double layer around it; when the particle moves relative to the liquid — under an applied field (electrophoresis) or under gravity — only part of that cloud moves with it, so the electrokinetic (zeta) potential at the slipping plane, not the bare surface charge, is what actually governs how strongly like-charged particles repel each other and therefore whether the dispersion stays stable or coagulates.",
+    "et": "Vedelikus hõljuv kolloidosake omandab pinnalaengu, mis tõmbab enda ümber difuusse vastasioonide pilve elektrilise kaksikkihina; kui osake liigub vedeliku suhtes — rakendatud välja toimel (elektroforees) või raskusjõu toimel — liigub sellega kaasa ainult osa sellest pilvest, mistõttu just libisemispinnal olev elektrokineetiline (zeta) potentsiaal, mitte paljas pinnalaeng, määrab, kui tugevasti samanimeliselt laetud osakesed teineteist tõukavad ja seega, kas dispersioon püsib stabiilsena või koaguleerub.",
+    "sourceHash": "9f529312c5aab3d7",
+    "stale": false
+  },
+  "prerequisites": [
+    "chemical-equilibrium"
+  ]
+}

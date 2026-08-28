@@ -31,7 +31,11 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "the-mole-and-amount-of-substance",
+    "chemical-equilibrium",
+    "redox-reactions"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/chemistry2.md"
   ],

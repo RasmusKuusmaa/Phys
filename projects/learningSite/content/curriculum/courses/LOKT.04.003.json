@@ -79,7 +79,11 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "surface-tension-and-capillarity",
+    "adsorption-isotherms",
+    "colloidal-systems-and-electrokinetic-phenomena"
+  ],
   "sourceFiles": [
     "ErialaMoodulid/chemistry2.md"
   ],

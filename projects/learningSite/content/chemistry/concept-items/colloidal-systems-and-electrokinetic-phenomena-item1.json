@@ -1,0 +1,56 @@
+{
+  "id": "colloidal-systems-and-electrokinetic-phenomena-item1",
+  "conceptId": "colloidal-systems-and-electrokinetic-phenomena",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A little salt is added to a stable colloidal dispersion of negatively charged particles, well below the critical coagulation concentration. What actually changes at the particle surface?",
+    "et": "Stabiilsele negatiivselt laetud osakestega kolloidsele dispersioonile lisatakse veidi soola, tunduvalt alla kriitilise koagulatsioonikontsentratsiooni. Mis osakese pinnal tegelikult muutub?",
+    "sourceHash": "621f727b0920ec87",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The diffuse counter-ion layer compresses somewhat, lowering the zeta potential a little, but the dispersion stays stable because the repulsive barrier between particles hasn't dropped enough to allow coagulation.",
+        "et": "Difuusne vastasioonide kiht surub veidi kokku, zeta-potentsiaal langeb pisut, kuid dispersioon püsib stabiilsena, sest osakestevaheline tõukebarjäär pole langenud piisavalt, et koagulatsioon toimuks.",
+        "sourceHash": "28170bddf6cd6cbf",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing meaningful — the particles' actual surface charge is what governs stability, and that hasn't changed, so the added salt is irrelevant however much is added.",
+        "et": "Miski oluline ei muutu — dispersiooni stabiilsust määrab osakeste tegelik pinnalaeng ja see pole muutunud, seega on lisatud sool ebaoluline, ükskõik kui palju seda lisatakse.",
+        "sourceHash": "540bc852f73c9d29",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "colloidal-systems-and-electrokinetic-phenomena-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The dispersion coagulates immediately, since any added electrolyte destabilises a colloidal dispersion regardless of how little is added.",
+        "et": "Dispersioon koaguleerub kohe, sest iga lisatud elektrolüüt destabiliseerib kolloidse dispersiooni, ükskõik kui vähe seda lisatakse.",
+        "sourceHash": "d4b746b650d861f5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "colloidal-systems-and-electrokinetic-phenomena-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The liquid starts flowing past the fixed particles under its own applied field, which is the electroosmotic counterpart of what would happen if the particles moved instead.",
+        "et": "Vedelik hakkab paigal püsivatest osakestest mööda voolama oma rakendatud välja toimel, mis on elektroosmootiline vaste sellele, mis juhtuks, kui osakesed selle asemel liiguksid.",
+        "sourceHash": "903840b973071a1e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "colloidal-systems-and-electrokinetic-phenomena-m3"
+    }
+  ]
+}

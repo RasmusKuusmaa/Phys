@@ -1216,6 +1216,32 @@ content beyond the degree lives.
       concepts. Dozens of remaining electives (see `--gaps`) are untouched;
       this phase is explicitly lowest-priority by design
   `content: cover common elective courses`
+- [~] A follow-up pass on the chemistry-track electives with real scraped
+      topics: `LOKT.04.003` Colloid and surface chemistry I (10t) — surface
+      tension and adsorption were already covered by existing physics/
+      physical-chemistry concepts (cheap UNMAPPED fix), and one new concept,
+      `colloidal-systems-and-electrokinetic-phenomena`, was authored for the
+      course's actual distinguishing content (electric double layer, zeta
+      potential, electrophoresis/electroosmosis, coagulation and colloid
+      stability) — nothing on the platform taught this before. Micelles/
+      surfactants, polymer-solution rheology and emulsion/foam/aerosol
+      classification (the course's other ~5 topics) remain uncovered, a
+      deliberate scope cut rather than an oversight. `LTKT.06.002` Analysis
+      of chemical data and `LOKT.04.004` Environmental chemistry I both got
+      cheap UNMAPPED fixes from existing mole/equilibrium/redox/measurement
+      concepts (both have thin or empty scraped topic data, so mapped from
+      outcomes text). Two courses were checked and deliberately excluded:
+      `LTKT.00.001` Seminar on the scientific method (chemistry) — generic
+      research-skills content, no chemistry subject matter, same reasoning
+      as the existing `LTFY.01.012` exclusion — and `LOKT.10.012`
+      Bioorganic chemistry (25t) — its syllabus is genuinely biochemistry/
+      metabolism (amino acids, enzyme kinetics, glycolysis, the citric acid
+      cycle, oxidative phosphorylation), a distinct subject area this
+      platform doesn't have a module for; force-mapping a couple of
+      loosely-related organic-chemistry concepts to it would overstate
+      coverage the course doesn't have, so it's left at 0 cpt rather than
+      papered over — adding biochemistry properly would be its own phase
+  `content: add colloidal systems and electrokinetic phenomena concept`
 - [x] Keep `npm run curriculum:coverage -- --extra` meaningful: enrichment stays
       labelled as enrichment and never counts toward degree coverage —
       verified: 4 concepts currently listed as enrichment, required-slot

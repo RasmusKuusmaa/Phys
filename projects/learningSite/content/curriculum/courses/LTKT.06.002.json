@@ -32,7 +32,12 @@
       "keywords": ""
     }
   ],
-  "conceptIds": [],
+  "conceptIds": [
+    "the-mole-and-amount-of-substance",
+    "uncertainty-and-error",
+    "statistical-distributions-in-measurement",
+    "least-squares-fitting-and-linear-regression"
+  ],
   "sourceFiles": [
     "SuunaMoodulid/MaterialScience2.md",
     "SuunaMoodulid/chemistry2.md"
