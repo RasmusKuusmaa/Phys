@@ -3,7 +3,7 @@
   "conceptId": "birefringence-and-wave-plates",
   "text": {
     "en": "Assuming any thickness of birefringent material works equally well as a wave plate, rather than the phase difference it introduces depending precisely on thickness, birefringence and wavelength — a plate cut for one wavelength is not a quarter-wave plate for another.",
-    "et": "Eeldus, et iga kaksikmurduva materjali paksus sobib vahekäigu plaadiks võrdselt hästi, mitte see, et tekitatav faasivahe sõltub täpselt paksusest, kaksikmurdumisest ja lainepikkusest — ühe lainepikkuse jaoks lõigatud plaat ei ole veerandlaineplaat teise lainepikkuse jaoks.",
+    "et": "Eeldus, et iga kaksikmurduva materjali paksus sobib laineplaadiks võrdselt hästi, mitte see, et tekitatav faasivahe sõltub täpselt paksusest, kaksikmurdumisest ja lainepikkusest — ühe lainepikkuse jaoks lõigatud plaat ei ole veerandlaineplaat teise lainepikkuse jaoks.",
     "sourceHash": "6c612c4585424821",
     "stale": false
   }

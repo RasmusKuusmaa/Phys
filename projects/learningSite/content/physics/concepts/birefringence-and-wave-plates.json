@@ -5,13 +5,13 @@
   "module": "optics",
   "title": {
     "en": "Birefringence and wave plates",
-    "et": "Kaksikmurdumine ja vahekäigu plaadid",
+    "et": "Kaksikmurdumine ja laineplaadid",
     "sourceHash": "b3d8ff3683131b4e",
     "stale": false
   },
   "summary": {
     "en": "A birefringent material has two different refractive indices depending on the light's polarisation direction, so the two polarisation components travel at different speeds and pick up a phase difference as they pass through. A wave plate is a slab of birefringent material cut to a thickness that introduces a specific phase difference — a quarter turn or a half turn — used to convert between polarisation states.",
-    "et": "Kaksikmurduval materjalil on kaks erinevat murdumisnäitajat sõltuvalt valguse polarisatsiooni suunast, mistõttu kaks polarisatsioonikomponenti liiguvad erineva kiirusega ja koguvad materjalist läbides faasivahe. Vahekäigu plaat on kaksikmurduvast materjalist kiht, mis on lõigatud paksuseks, mis tekitab kindla faasivahe — veerandi või poole lainepikkuse — ja mida kasutatakse polarisatsiooniolekute muundamiseks.",
+    "et": "Kaksikmurduval materjalil on kaks erinevat murdumisnäitajat sõltuvalt valguse polarisatsiooni suunast, mistõttu kaks polarisatsioonikomponenti liiguvad erineva kiirusega ja koguvad materjalist läbides faasivahe. Laineplaat on kaksikmurduvast materjalist kiht, mis on lõigatud paksuseks, mis tekitab kindla faasivahe — veerandi või poole lainepikkuse — ja mida kasutatakse polarisatsiooniolekute muundamiseks.",
     "sourceHash": "1d0087cc574dcc2f",
     "stale": false
   },
