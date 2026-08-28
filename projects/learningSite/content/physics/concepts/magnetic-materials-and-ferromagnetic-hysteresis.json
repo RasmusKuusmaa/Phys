@@ -11,7 +11,7 @@
   },
   "summary": {
     "en": "Materials respond to an applied magnetic field in three qualitatively different ways — diamagnetic (weakly repelled), paramagnetic (weakly aligned) and ferromagnetic (strongly aligned and self-sustaining) — and a ferromagnet's magnetization lags behind the field it has already seen, tracing out a hysteresis loop whose enclosed area is the energy lost to heat on every cycle.",
-    "et": "Materjalid reageerivad rakendatud magnetväljale kolmel kvalitatiivselt erineval viisil — diamagnetiliselt (nõrgalt tõukuvad), paramagnetiliselt (nõrgalt joonduvad) ja ferromagnetiliselt (tugevalt joonduvad ja ise säilivad) — ning ferromagneti magnetiseeritus jääb maha juba nähtud väljast, kirjeldades hüsereesitsüklit, mille sisse jääv pindala on iga tsükli jooksul soojuseks kaduv energia.",
+    "et": "Materjalid reageerivad rakendatud magnetväljale kolmel kvalitatiivselt erineval viisil — diamagnetiliselt (nõrgalt tõukuvad), paramagnetiliselt (nõrgalt joonduvad) ja ferromagnetiliselt (tugevalt joonduvad ja ise säilivad) — ning ferromagneti magnetiseeritus jääb maha juba nähtud väljast, kirjeldades hüstereesitsüklit, mille sisse jääv pindala on iga tsükli jooksul soojuseks kaduv energia.",
     "sourceHash": "240e8e1531fbda2a",
     "stale": false
   },

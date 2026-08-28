@@ -3,7 +3,7 @@
   "conceptId": "general-relativity-and-cosmological-models",
   "text": {
     "en": "General relativity still describes gravity as a force acting at a distance, just calculated differently, rather than as the geometric consequence of freely falling objects following geodesics through curved spacetime — a freely falling object has no force acting on it at all, and is weightless.",
-    "et": "Üldrelatiivsusteooria kirjeldab gravitatsiooni endiselt kui eemalt mõjuvat jõudu, ainult teisiti arvutatuna, selle asemel et mõista, et see on vabalt langevate kehade geodeetidel liikumise geomeetriline tagajärg kõverdatud ruumiajas — vabalt langeval kehal ei mõju üldse mingit jõudu ning ta on kaaluta.",
+    "et": "Üldrelatiivsusteooria kirjeldab gravitatsiooni endiselt kui eemalt mõjuvat jõudu, ainult teisiti arvutatuna, selle asemel et mõista, et see on vabalt langevate kehade geodeetidel liikumise geomeetriline tagajärg kõverdatud aegruumis — vabalt langeval kehal ei mõju üldse mingit jõudu ning ta on kaaluta.",
     "sourceHash": "0ab5ed97831a9518",
     "stale": false
   }

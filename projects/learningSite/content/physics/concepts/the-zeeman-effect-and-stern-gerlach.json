@@ -11,7 +11,7 @@
   },
   "summary": {
     "en": "An external magnetic field splits a single atomic spectral line into several closely spaced lines, because the field lifts the energy degeneracy between states that share the same orbital quantum number but differ in magnetic quantum number. The Stern-Gerlach experiment showed this splitting is real and quantized even in a beam of atoms with no orbital angular momentum at all, which is what first revealed electron spin.",
-    "et": "Väline magnetväli lõhub üksiku aatomi spektrijoone mitmeks omavahel lähedaseks jooneks, kuna väli tõstab üles energiavõrdsuse olekute vahel, mis jagavad sama orbitaalkvantarvu, kuid erinevad magnetkvantarvu poolest. Sterni-Gerlachi katse näitas, et see lõhenemine on tegelik ja kvanditud isegi aatomikimbus, millel puudub orbitaalne impulsimoment üleüldse, ja just see paljastaski esmakordselt elektroni spinni.",
+    "et": "Väline magnetväli lõhub üksiku aatomi spektrijoone mitmeks omavahel lähedaseks jooneks, kuna väli kaotab energianivoode kõdumuse olekute vahel, mis jagavad sama orbitaalkvantarvu, kuid erinevad magnetkvantarvu poolest. Sterni-Gerlachi katse näitas, et see lõhenemine on tegelik ja kvanditud isegi aatomikimbus, millel puudub orbitaalne impulsimoment üleüldse, ja just see paljastaski esmakordselt elektroni spinni.",
     "sourceHash": "91ee77a4f5c67af4",
     "stale": false
   },
