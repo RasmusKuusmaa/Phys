@@ -2,10 +2,8 @@ import Link from "next/link";
 import type { Locale } from "@/i18n/locales";
 
 /**
- * Only "physics" exists as a subject so far (Phase 14 adds mathematics,
- * chemistry, materials science) — this renders correctly with one entry
- * today and needs no changes once more subjects land, since `subjects`
- * comes from `listSubjects()` at the call site rather than being hardcoded.
+ * `subjects` comes from `listSubjects()` at the call site rather than being
+ * hardcoded, so this needs no changes as subjects are added or removed.
  */
 export function SubjectSwitcher({
   subjects,
@@ -22,7 +20,7 @@ export function SubjectSwitcher({
       {subjects.map((subject) => (
         <Link
           key={subject}
-          href={`/${locale}/practice?subject=${subject}`}
+          href={`/${locale}/roadmap?subject=${subject}`}
           aria-current={subject === currentSubject ? "true" : undefined}
           className={
             subject === currentSubject
