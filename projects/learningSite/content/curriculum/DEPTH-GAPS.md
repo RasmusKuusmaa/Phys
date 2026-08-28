@@ -42,12 +42,13 @@ Of the 54 GAP concepts, seven authoring-order groups are done — 48/54 total:
   `stellar-evolution-and-compact-objects`, `dark-matter-and-galactic-structure`,
   `general-relativity-and-cosmological-models`.
 
-**All 54 GAP concepts are now authored — this phase's content authoring is
-complete.** What remains before Phase 35 itself can be checked off: mapping
-these 6 new concepts into `COURSE_CONCEPTS` in `src/curriculum/mapping.ts`
-against LTFY.01.005 / LTTO.00.025 (see those courses' GAP entries above for
-the exact topic-to-concept mapping), then `npm run curriculum:build` and
-`npm run curriculum:coverage` to confirm the courses pick them up.
+**All 54 GAP concepts are now authored and mapped — Phase 35 is complete.**
+The final 6 (global physics/astro) are mapped into `COURSE_CONCEPTS` in
+`src/curriculum/mapping.ts` against LTFY.01.005 / LTTO.00.025.
+`npm run curriculum:build` and `npm run curriculum:coverage` both confirm the
+courses pick them up: LTFY.01.005 now shows 8 mapped concepts (up from 2) and
+LTTO.00.025 shows 12 (up from 2), with all 59/59 required course-slots across
+the three tracks still covered.
 
 
 Method: for every in-scope course, `content/curriculum/courses/<CODE>.json` was read for its
