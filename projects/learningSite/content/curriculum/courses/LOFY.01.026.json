@@ -19,7 +19,17 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "mean-free-path-and-vacuum-regimes",
+    "kinetic-theory-of-gases",
+    "ideal-gas-law",
+    "real-gases-and-the-van-der-waals-equation",
+    "phase-transitions",
+    "heat-transfer-mechanisms",
+    "thermal-expansion",
+    "superconductivity",
+    "pressure-in-fluids"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

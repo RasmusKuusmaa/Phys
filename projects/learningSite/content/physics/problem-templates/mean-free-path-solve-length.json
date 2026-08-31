@@ -1,0 +1,45 @@
+{
+  "id": "mean-free-path-solve-length",
+  "formulaId": "mean-free-path-formula",
+  "variables": [
+    {
+      "symbol": "T",
+      "min": 250,
+      "max": 350,
+      "unit": "K",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "d",
+      "min": 0.00000000025,
+      "max": 0.0000000004,
+      "unit": "m",
+      "sigFigs": 2
+    },
+    {
+      "symbol": "p",
+      "min": 0.001,
+      "max": 100,
+      "unit": "Pa",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "T",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "d",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "p",
+      "right": 0
+    }
+  ],
+  "solveFor": "L"
+}

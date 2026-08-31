@@ -1,0 +1,22 @@
+{
+  "id": "mean-free-path-and-vacuum-regimes",
+  "subject": "physics",
+  "level": "L3",
+  "module": "thermodynamics",
+  "title": {
+    "en": "Mean free path and vacuum regimes",
+    "et": "Vaba tee pikkus ja vaakumi režiimid",
+    "sourceHash": "a757ad3d1fd772e5",
+    "stale": false
+  },
+  "summary": {
+    "en": "The mean free path is the average distance a molecule travels between collisions, and since it is inversely proportional to pressure it stretches from about 70 nanometres in room air to kilometres in a good ultra-high vacuum. Comparing it with the size of the vessel is what defines the regimes: while it is much smaller than the chamber the gas behaves as a fluid and is pumped by pushing it along, and once it is much larger the molecules fly wall to wall without meeting each other, so the gas conducts heat less and less well as pressure falls and a thin-film source can reach the substrate without being scattered. That crossover is why a vacuum system needs two kinds of pump in series and why a thermos flask works at all.",
+    "et": "Vaba tee pikkus on keskmine vahemaa, mille molekul kahe põrke vahel läbib, ja kuna see on rõhuga pöördvõrdeline, ulatub see toaõhu ligikaudu 70 nanomeetrist heas ülikõrgvaakumis kilomeetriteni. Režiimid määrabki selle võrdlemine anuma mõõtmetega: kuni see on kambrist palju väiksem, käitub gaas voolisena ja seda pumbatakse edasi lükates, ning kui see muutub palju suuremaks, lendavad molekulid seinalt seinale üksteist kohtamata, mistõttu gaas juhib rõhu langedes soojust järjest halvemini ja õhukese kile allikast lähtuv aur jõuab alusele hajumata. Just see üleminek on põhjus, miks vaakumsüsteem vajab kaht järjestikust pumpa ja miks termos üldse töötab.",
+    "sourceHash": "cc4390aae6eb9fdd",
+    "stale": false
+  },
+  "prerequisites": [
+    "kinetic-theory-of-gases",
+    "ideal-gas-law"
+  ]
+}

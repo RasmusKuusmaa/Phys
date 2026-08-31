@@ -1,0 +1,37 @@
+{
+  "id": "mean-free-path-solve-length-errors",
+  "formulaId": "mean-free-path-formula",
+  "solveFor": "L",
+  "mistakes": [
+    {
+      "id": "used-radius-not-diameter",
+      "description": {
+        "en": "Squared the molecular radius instead of the diameter, overestimating the mean free path fourfold.",
+        "et": "Ruutu tõsteti molekuli raadius, mitte läbimõõt, mis andis vaba tee pikkuse neli korda liiga suure.",
+        "sourceHash": "f30f06076de0a97e",
+        "stale": false
+      },
+      "expression": "1.380649*pow(10,-23)*T/(sqrt(2)*3.14159265358979*pow(d/2,2)*p)"
+    },
+    {
+      "id": "dropped-the-root-two",
+      "description": {
+        "en": "Left out the square root of two, the factor that accounts for the target molecules moving as well rather than standing still.",
+        "et": "Jättis välja kahe ruutjuure, teguri, mis arvestab, et ka sihtmolekulid liiguvad, mitte ei seisa paigal.",
+        "sourceHash": "a65145e81dced427",
+        "stale": false
+      },
+      "expression": "1.380649*pow(10,-23)*T/(3.14159265358979*pow(d,2)*p)"
+    },
+    {
+      "id": "forgot-to-square-the-diameter",
+      "description": {
+        "en": "Used the molecular diameter rather than its square, so the collision cross-section came out as a length.",
+        "et": "Kasutas molekuli läbimõõtu, mitte selle ruutu, mistõttu põrkeristlõige tuli välja pikkusena.",
+        "sourceHash": "e06d533aa7f80c69",
+        "stale": false
+      },
+      "expression": "1.380649*pow(10,-23)*T/(sqrt(2)*3.14159265358979*d*p)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "mean-free-path-formula",
+  "conceptId": "mean-free-path-and-vacuum-regimes",
+  "latex": "\\lambda = \\frac{k_\\mathrm{B} T}{\\sqrt{2}\\, \\pi d^{2} p}",
+  "symbols": [
+    {
+      "symbol": "L",
+      "name": {
+        "en": "distance",
+        "et": "kaugus",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "T",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    },
+    {
+      "symbol": "d",
+      "name": {
+        "en": "diameter",
+        "et": "läbimõõt",
+        "sourceHash": "00a02fc515ab4e3f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "p",
+      "name": {
+        "en": "pressure",
+        "et": "rõhk",
+        "sourceHash": "b667446e6eb2552f",
+        "stale": false
+      },
+      "unit": "Pa"
+    }
+  ],
+  "solveFor": [
+    "L"
+  ],
+  "expressions": {
+    "L": "1.380649*pow(10,-23)*T/(sqrt(2)*3.14159265358979*pow(d,2)*p)"
+  }
+}

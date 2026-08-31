@@ -1615,5 +1615,12 @@
     "et": "difusioonitegur",
     "domain": "statistical-mechanics",
     "source": "https://et.wikipedia.org/wiki/Difusioon"
+  },
+  {
+    "id": "diameter",
+    "en": "diameter",
+    "et": "läbimõõt",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/l%C3%A4bim%C3%B5%C3%B5t/1/est"
   }
 ]

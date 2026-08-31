@@ -1,0 +1,56 @@
+{
+  "id": "mean-free-path-and-vacuum-regimes-item1",
+  "conceptId": "mean-free-path-and-vacuum-regimes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A 30 cm chamber is pumped down until the mean free path of the residual gas is several metres. What has changed about how the gas behaves?",
+    "et": "30 cm läbimõõduga kambrit pumbatakse, kuni jääkgaasi vaba tee pikkus on mitu meetrit. Mis on gaasi käitumises muutunud?",
+    "sourceHash": "69a8a9baf75388eb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Molecules now fly from wall to wall without colliding with each other, so the gas no longer flows as a fluid and conducts very little heat",
+        "et": "Molekulid lendavad nüüd seinalt seinale üksteisega põrkumata, nii et gaas ei voola enam voolisena ja juhib väga vähe soojust",
+        "sourceHash": "1882987421fcf826",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The remaining molecules move much more slowly, since low pressure means low molecular speed",
+        "et": "Järelejäänud molekulid liiguvad palju aeglasemalt, sest madal rõhk tähendab väikest molekulide kiirust",
+        "sourceHash": "df83baff2bbdc731",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mean-free-path-and-vacuum-regimes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing about the flow regime: a mean free path of metres is a property of the gas and says nothing about the chamber",
+        "et": "Voolurežiimis ei muutu midagi: mitme meetri pikkune vaba tee on gaasi omadus ega ütle kambri kohta midagi",
+        "sourceHash": "78cf0e3401224cba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mean-free-path-and-vacuum-regimes-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Heat conduction through the gas has been falling steadily in proportion to the pressure the whole way down from atmosphere",
+        "et": "Soojusjuhtivus läbi gaasi on kogu tee atmosfäärirõhust alates ühtlaselt rõhuga võrdeliselt kahanenud",
+        "sourceHash": "76e3830446153e0e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mean-free-path-and-vacuum-regimes-m3"
+    }
+  ]
+}

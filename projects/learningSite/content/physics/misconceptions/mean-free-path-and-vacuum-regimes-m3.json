@@ -1,0 +1,10 @@
+{
+  "id": "mean-free-path-and-vacuum-regimes-m3",
+  "conceptId": "mean-free-path-and-vacuum-regimes",
+  "text": {
+    "en": "Expecting the thermal conductivity of a gas to fall as soon as you start pumping. While the mean free path is still short compared with the gap, removing molecules leaves each one carrying heat further, and the two effects cancel almost exactly — a gas conducts about as well at a tenth of an atmosphere as at one. Conduction only collapses once the mean free path exceeds the gap, which is why a vacuum flask needs a hard vacuum rather than a partial one.",
+    "et": "Ootus, et gaasi soojusjuhtivus hakkab langema kohe pumpamise alustamisel. Seni kuni vaba tee pikkus on pilu laiusest palju väiksem, kannab iga järelejäänud molekul soojust vastavalt kaugemale ja kaks mõju kustutavad teineteise peaaegu täpselt — gaas juhib kümnendiku atmosfääri juures soojust umbes sama hästi kui ühe atmosfääri juures. Juhtivus vajub kokku alles siis, kui vaba tee pikkus ületab pilu laiuse, ja just seepärast vajab termos osalise vaakumi asemel kõva vaakumit.",
+    "sourceHash": "b8b5f54b00333140",
+    "stale": false
+  }
+}

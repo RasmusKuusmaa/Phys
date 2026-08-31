@@ -309,6 +309,23 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "critical-phenomena-and-continuous-phase-transitions",
     "liouvilles-theorem-and-phase-space",
   ],
+  // No syllabus in ÕIS. The vacuum half is now covered properly —
+  // `mean-free-path-and-vacuum-regimes` was written for it, since the
+  // viscous/free-molecular crossover that decides how a system is pumped
+  // appeared nowhere on the platform before. The cryogenic half is covered
+  // only through general thermodynamics: liquefaction cycles, Joule-Thomson
+  // inversion, cryostat design and helium handling are all still missing.
+  "LOFY.01.026": [
+    "mean-free-path-and-vacuum-regimes",
+    "kinetic-theory-of-gases",
+    "ideal-gas-law",
+    "real-gases-and-the-van-der-waals-equation",
+    "phase-transitions",
+    "heat-transfer-mechanisms",
+    "thermal-expansion",
+    "superconductivity",
+    "pressure-in-fluids",
+  ],
   // No syllabus in ÕIS. Read as the applied half of the quantum material the
   // platform already teaches — tunnelling, wells, band structure, doping,
   // lasers, superconductivity — rather than as a second theory course, since

@@ -1,0 +1,10 @@
+{
+  "id": "mean-free-path-and-vacuum-regimes-m2",
+  "conceptId": "mean-free-path-and-vacuum-regimes",
+  "text": {
+    "en": "Treating the mean free path as a property of the gas alone, so that a number quoted for it settles which regime you are in. The regime is a comparison: the same 1 cm mean free path is free-molecular inside a 1 mm capillary and viscous inside a 10 m chamber. Halving the vessel size changes the flow regime just as surely as halving the pressure does.",
+    "et": "Vaba tee pikkuse käsitlemine ainult gaasi omadusena, otsekui määraks selle arvväärtus üksi ära, millises režiimis ollakse. Režiim on võrdlus: üks ja seesama 1 cm vaba tee pikkus tähendab 1 mm kapillaaris vabamolekulaarset ja 10 m kambris viskoosset voolamist. Anuma mõõtmete poole võrra vähendamine muudab voolurežiimi sama kindlalt kui rõhu poole võrra vähendamine.",
+    "sourceHash": "2e07038dd976a3a7",
+    "stale": false
+  }
+}

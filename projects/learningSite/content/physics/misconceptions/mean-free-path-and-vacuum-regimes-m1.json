@@ -1,0 +1,10 @@
+{
+  "id": "mean-free-path-and-vacuum-regimes-m1",
+  "conceptId": "mean-free-path-and-vacuum-regimes",
+  "text": {
+    "en": "Thinking a lower pressure means slower molecules. Pumping removes molecules; it does not cool the ones left behind. At a fixed temperature the speed distribution is unchanged and the average speed is the same at a millionth of an atmosphere as at one atmosphere — what falls is how many molecules there are, and therefore how often they collide.",
+    "et": "Arvamus, et madalam rõhk tähendab aeglasemaid molekule. Pumpamine eemaldab molekule, kuid ei jahuta järelejäänuid. Kindlal temperatuuril on kiiruste jaotus muutumatu ja keskmine kiirus on miljondiku atmosfääri juures sama nagu ühe atmosfääri juures — kahaneb molekulide arv ja seega ka põrgete sagedus.",
+    "sourceHash": "007d0ab85e93da03",
+    "stale": false
+  }
+}

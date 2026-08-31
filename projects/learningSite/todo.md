@@ -1277,6 +1277,34 @@ content beyond the degree lives.
       `diffusion coefficient` locked in the glossary against the Estonian
       Wikipedia article that uses `difusioonitegur`
   `content: add stochastic processes and Bragg diffraction concepts`
+- [~] Three more physics-track electives, again title-only evidence:
+      `LTTO.00.013` General astronomy and `LOFY.03.030` Applied quantum
+      physics were pure mappings — the astrophysics, planetary and quantum
+      modules already taught that ground — and `LOFY.01.026` Vacuum and
+      cryogenic technology got one new concept,
+      `mean-free-path-and-vacuum-regimes`, because the viscous versus
+      free-molecular crossover that decides how a chamber is pumped was
+      nowhere on the platform. Each mapping records in `mapping.ts` what it
+      does *not* cover, so the number does not overstate itself: no
+      observational technique for astronomy, no device engineering for
+      applied quantum physics, and nothing on liquefaction cycles,
+      Joule-Thomson inversion or cryostat design for the cryogenic half of
+      LOFY.01.026. `diameter` added to the glossary
+  `content: cover astronomy, applied quantum physics and vacuum technology`
+- [ ] Physics-track electives still uncovered, in rough order of how much new
+      content each needs: `LOFY.01.037` metrology (SI redefinition,
+      traceability, calibration chains — needs 1-2 concepts), `LOFY.04.040`
+      microscopic electrodynamics (mostly mappable), `LOOM.02.240`
+      meteorology (mappable plus a lapse-rate/stability concept),
+      `LOFY.02.013` thin films and `LOFY.02.045` nanoelectronic materials
+      (both need deposition and quantum-confinement content), `LOFY.05.032`
+      air pollution monitoring. `LOFY.01.021` Engineering graphics has a
+      real 16-topic syllabus but is technical drawing, not physics, chemistry
+      or materials — closer to the excluded seminars than to a subject this
+      platform teaches, and it should be decided deliberately rather than
+      drifted into. The five seminar, placement and project courses stay
+      excluded for the reason already recorded above
+  `content: cover the remaining physics electives`
 - [x] Keep `npm run curriculum:coverage -- --extra` meaningful: enrichment stays
       labelled as enrichment and never counts toward degree coverage —
       verified: 4 concepts currently listed as enrichment, required-slot
