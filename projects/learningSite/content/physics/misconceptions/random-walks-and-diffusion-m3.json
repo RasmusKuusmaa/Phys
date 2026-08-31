@@ -1,0 +1,10 @@
+{
+  "id": "random-walks-and-diffusion-m3",
+  "conceptId": "random-walks-and-diffusion",
+  "text": {
+    "en": "Taking the square-root law as a prediction about one particular walker's path. It describes the width of a distribution over many walkers, or over many repeats of the same walk — a single walker can end up anywhere, including back at the start or far outside the typical spread. Nothing in the law says any individual step or trajectory is constrained; it says how the ensemble is spread out after a given time.",
+    "et": "Ruutjuureseaduse võtmine ennustusena ühe kindla eksleja teekonna kohta. See kirjeldab jaotuse laiust üle paljude ekslejate või sama ekslemise paljude korduste — üksik eksleja võib jõuda kuhu tahes, ka tagasi alguspunkti või tüüpilisest laiusest kaugele välja. Seadus ei ütle midagi ühegi üksiku sammu ega trajektoori kohta; ta ütleb, kui laiali on ansambel pärast teatud aega.",
+    "sourceHash": "4b8748a85a6ca98d",
+    "stale": false
+  }
+}

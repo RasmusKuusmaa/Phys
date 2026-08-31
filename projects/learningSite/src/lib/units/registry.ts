@@ -109,6 +109,12 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ temperature: -1 }),
     toBase: 1,
   },
+  "m^2/s": {
+    symbol: "m^2/s",
+    name: { en: "square metre per second", et: "ruutmeeter sekundis" },
+    dimension: dim({ length: 2, time: -1 }),
+    toBase: 1,
+  },
   // Distinct from Hz on purpose: a growth or decay rate is not a count of
   // cycles per second, and labelling a Lyapunov exponent in hertz would
   // invite reading it as a frequency.

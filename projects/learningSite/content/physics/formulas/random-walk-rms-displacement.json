@@ -1,0 +1,43 @@
+{
+  "id": "random-walk-rms-displacement",
+  "conceptId": "random-walks-and-diffusion",
+  "latex": "x_\\mathrm{rms} = \\sqrt{2Dt}",
+  "symbols": [
+    {
+      "symbol": "x",
+      "name": {
+        "en": "distance",
+        "et": "kaugus",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "D",
+      "name": {
+        "en": "diffusion coefficient",
+        "et": "difusioonitegur",
+        "sourceHash": "ae544b7af8b85bfe",
+        "stale": false
+      },
+      "unit": "m^2/s"
+    },
+    {
+      "symbol": "t",
+      "name": {
+        "en": "time",
+        "et": "aeg",
+        "sourceHash": "336074805fc85398",
+        "stale": false
+      },
+      "unit": "s"
+    }
+  ],
+  "solveFor": [
+    "x"
+  ],
+  "expressions": {
+    "x": "sqrt(2*D*t)"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "random-walk-rms-displacement",
+  "formulaId": "random-walk-rms-displacement",
+  "variables": [
+    {
+      "symbol": "D",
+      "min": 0.000001,
+      "max": 0.00005,
+      "unit": "m^2/s",
+      "sigFigs": 2
+    },
+    {
+      "symbol": "t",
+      "min": 10,
+      "max": 600,
+      "unit": "s",
+      "sigFigs": 2
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "D",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "t",
+      "right": 0
+    }
+  ],
+  "solveFor": "x"
+}

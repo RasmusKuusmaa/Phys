@@ -1,0 +1,10 @@
+{
+  "id": "random-walks-and-diffusion-m1",
+  "conceptId": "random-walks-and-diffusion",
+  "text": {
+    "en": "Reading the spreading of a random walk as a drift in some direction. Average the displacement over many walkers and you get exactly zero — there is no preferred direction anywhere in the process. What grows with time is the width of the distribution, and that is what the root-mean-square displacement measures: half the walkers are on each side, just further out than before.",
+    "et": "Juhusliku ekslemise laialivalgumise mõistmine triivina mingis suunas. Keskmista nihe üle paljude ekslejate ja saad täpselt nulli — protsessis ei ole kusagil eelissuunda. Ajas kasvab jaotuse laius ja just seda mõõdabki ruutkeskmine nihe: pooled ekslejad on kummalgi pool, lihtsalt kaugemal kui varem.",
+    "sourceHash": "bd41ad6981537487",
+    "stale": false
+  }
+}

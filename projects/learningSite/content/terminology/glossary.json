@@ -1608,5 +1608,12 @@
     "et": "Ljapunovi eksponent",
     "domain": "mechanics",
     "source": "https://ois2.taltech.ee/uusois/aine/OIS3_YFX1560"
+  },
+  {
+    "id": "diffusion-coefficient",
+    "en": "diffusion coefficient",
+    "et": "difusioonitegur",
+    "domain": "statistical-mechanics",
+    "source": "https://et.wikipedia.org/wiki/Difusioon"
   }
 ]

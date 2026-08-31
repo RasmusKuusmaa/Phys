@@ -1,0 +1,29 @@
+Take a step in a random direction, then another, with each direction chosen
+independently of the last. Where do you end up? On average, exactly where you
+started — for every walk that drifts left there is an equally likely mirror image
+drifting right, so the mean displacement is zero. That answer is true and
+useless, which is why the quantity worth tracking is the root-mean-square
+displacement instead: square the displacement first, so left and right no longer
+cancel, average, then take the root. Because the steps are independent, the
+squares add, and the typical distance from the start grows as the square root of
+the number of steps.
+
+Diffusion is that statement applied to molecules. A molecule in air travels a
+fraction of a micrometre between collisions, and each collision randomises its
+direction, so its progress is a random walk with an enormous number of very small
+steps. The result is that the spread of a diffusing substance grows as the square
+root of elapsed time, with a diffusion coefficient setting the scale — about
+2 × 10⁻⁹ m²/s for a small molecule in water and roughly ten thousand times larger
+in air. The square root is what makes diffusion feel so strange dimensionally:
+doubling the distance costs four times the time, and going ten times further
+costs a hundred times longer.
+
+That scaling is why diffusion is the dominant transport mechanism inside a cell
+and hopeless outside one. Over a micrometre it takes milliseconds; over a metre,
+the same process in water takes years. Biology arranges itself around this —
+cells are small, lungs subdivide into hundreds of millions of tiny sacs, and
+anything that has to move material further uses bulk flow instead. The same
+square-root signature identifies diffusive behaviour elsewhere: heat spreading
+through a solid, momentum spreading through a viscous fluid, and the growth of
+uncertainty in a stock price all follow it, which is the practical reason a
+physicist learns the random walk once and then recognises it everywhere.

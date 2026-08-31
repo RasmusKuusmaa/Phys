@@ -1,0 +1,56 @@
+{
+  "id": "random-walks-and-diffusion-item1",
+  "conceptId": "random-walks-and-diffusion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A dye is released in still water and spreads by diffusion alone. After one minute the blurred edge has moved about one millimetre from the source. Roughly how long until it has moved two millimetres?",
+    "et": "Värvainet lastakse seisvasse vette, kus see levib ainult difusiooni teel. Ühe minuti pärast on hägune serv liikunud allikast umbes ühe millimeetri kaugusele. Kui kaua kulub ligikaudu selleks, et see oleks liikunud kaks millimeetrit?",
+    "sourceHash": "b1e9117015305bd2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "About four minutes, because the distance grows as the square root of the time",
+        "et": "Umbes neli minutit, sest kaugus kasvab aja ruutjuurega",
+        "sourceHash": "fd4c808040d7b7c9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "About two minutes, since the front advances at a steady speed set by how fast the molecules move",
+        "et": "Umbes kaks minutit, sest serv liigub ühtlase kiirusega, mille määrab molekulide kiirus",
+        "sourceHash": "a228d8908bd3747b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "random-walks-and-diffusion-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It never gets there on its own: with zero average displacement the dye stays where it was put",
+        "et": "Ise ta sinna ei jõuagi: kuna keskmine nihe on null, jääb värvaine sinna, kuhu ta pandi",
+        "sourceHash": "442d69dc10280e53",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "random-walks-and-diffusion-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The question cannot be answered, because the law describes each individual molecule's path and those are random",
+        "et": "Küsimusele ei saa vastata, sest seadus kirjeldab iga üksiku molekuli teed ja need on juhuslikud",
+        "sourceHash": "6f53489e14a1cc50",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "random-walks-and-diffusion-m3"
+    }
+  ]
+}

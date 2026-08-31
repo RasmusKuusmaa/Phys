@@ -1,0 +1,22 @@
+{
+  "id": "random-walks-and-diffusion",
+  "subject": "physics",
+  "level": "L3",
+  "module": "stochastic-processes",
+  "title": {
+    "en": "Random walks and diffusion",
+    "et": "Juhuslikud ekslemised ja difusioon",
+    "sourceHash": "5b26055c5d8dabca",
+    "stale": false
+  },
+  "summary": {
+    "en": "A random walk is a sequence of steps whose directions are independent of one another, and its central result is that the walker's typical distance from the start grows as the square root of the elapsed time rather than in proportion to it: the average displacement is exactly zero, while the root-mean-square displacement is not. Molecules colliding in a fluid do exactly this, so diffusion inherits the same square-root law — which is why a cell a few micrometres across can rely on diffusion to move material about, why the same process would take hours to cross a room, and why almost all mixing you actually notice is convection instead.",
+    "et": "Juhuslik ekslemine on sammude jada, mille suunad on üksteisest sõltumatud, ja selle keskne tulemus on see, et eksleja tüüpiline kaugus alguspunktist kasvab kulunud aja ruutjuurega, mitte sellega võrdeliselt: keskmine nihe on täpselt null, ruutkeskmine nihe aga mitte. Vedelikus või gaasis põrkuvad molekulid teevad täpselt seda, nii et difusioon pärib sama ruutjuureseaduse — seetõttu saab mõne mikromeetri suurune rakk aine liigutamiseks difusioonile toetuda, seetõttu kuluks samal protsessil toa läbimiseks tunde ja seetõttu on peaaegu kogu segunemine, mida päriselt märkame, hoopis konvektsioon.",
+    "sourceHash": "1a4889d6bd2bf6a0",
+    "stale": false
+  },
+  "prerequisites": [
+    "kinetic-theory-of-gases",
+    "statistical-distributions-in-measurement"
+  ]
+}

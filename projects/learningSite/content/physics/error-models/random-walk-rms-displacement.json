@@ -1,0 +1,37 @@
+{
+  "id": "random-walk-rms-displacement",
+  "formulaId": "random-walk-rms-displacement",
+  "solveFor": "x",
+  "mistakes": [
+    {
+      "id": "dropped-the-factor-of-two",
+      "description": {
+        "en": "Left out the factor of two that belongs inside the root for a one-dimensional walk.",
+        "et": "Jättis välja teguri kaks, mis kuulub ühemõõtmelise ekslemise korral juure alla.",
+        "sourceHash": "fdad775e026a70d2",
+        "stale": false
+      },
+      "expression": "sqrt(D*t)"
+    },
+    {
+      "id": "linear-in-time",
+      "description": {
+        "en": "Forgot the square root and treated the spread as growing in proportion to the time, the way a steadily moving front would.",
+        "et": "Unustas ruutjuure ja käsitles laiali valgumist ajaga võrdeliselt kasvavana, nagu ühtlaselt liikuva serva puhul.",
+        "sourceHash": "f31332d4023cbf92",
+        "stale": false
+      },
+      "expression": "2*D*t"
+    },
+    {
+      "id": "divided-by-the-time",
+      "description": {
+        "en": "Divided by the time instead of multiplying by it, so a longer wait made the predicted spread smaller.",
+        "et": "Jagas ajaga, selle asemel et sellega korrutada, nii et pikem ootamine muutis ennustatud laiuse väiksemaks.",
+        "sourceHash": "3958151d01448a72",
+        "stale": false
+      },
+      "expression": "sqrt(2*D/t)"
+    }
+  ]
+}

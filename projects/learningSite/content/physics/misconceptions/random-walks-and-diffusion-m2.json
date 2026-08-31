@@ -1,0 +1,10 @@
+{
+  "id": "random-walks-and-diffusion-m2",
+  "conceptId": "random-walks-and-diffusion",
+  "text": {
+    "en": "Expecting diffusion to be fast because molecules are fast. An air molecule moves at hundreds of metres per second, but it changes direction after roughly a hundred nanometres, so its net progress follows the square-root law rather than its speed: diffusion alone needs hours to carry a smell across a room. When a smell arrives in seconds, air currents carried it — diffusion only ever wins over short distances.",
+    "et": "Ootus, et difusioon on kiire, sest molekulid on kiired. Õhumolekul liigub sadu meetreid sekundis, kuid muudab suunda umbes iga saja nanomeetri järel, nii et tema tegelik edasijõudmine järgib ruutjuureseadust, mitte kiirust: ainult difusioonil kuluks lõhna toatäie kandmiseks tunde. Kui lõhn jõuab kohale sekunditega, kandis seda õhuvool — difusioon võidab üksnes lühikestel vahemaadel.",
+    "sourceHash": "786d84deb5b2384a",
+    "stale": false
+  }
+}
