@@ -1,0 +1,56 @@
+{
+  "id": "bragg-diffraction-and-crystal-structure-determination-item1",
+  "conceptId": "bragg-diffraction-and-crystal-structure-determination",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A crystal's atomic planes are about 0.3 nm apart. A student proposes measuring the spacing with a green laser at 530 nm instead of an X-ray tube. What is the outcome?",
+    "et": "Kristalli aatomitasandite vahe on umbes 0,3 nm. Üliõpilane pakub, et mõõdaks vahekaugust röntgentoru asemel 530 nm rohelise laseriga. Mis on tulemus?",
+    "sourceHash": "66e851aab3599a9a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No diffraction peak exists at any angle, because the wavelength is far longer than twice the plane spacing",
+        "et": "Ühegi nurga juures ei ole difraktsioonitippu, sest lainepikkus on tasandite kahekordsest vahekaugusest palju pikem",
+        "sourceHash": "9a3e68a2d491041b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It works, but only with high-quality optics and a very sensitive detector",
+        "et": "See töötab, kuid ainult kvaliteetse optika ja väga tundliku detektoriga",
+        "sourceHash": "9c76a0c2fff0c1dc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bragg-diffraction-and-crystal-structure-determination-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It works and gives a magnified image of the lattice directly on the screen",
+        "et": "See töötab ja annab ekraanile otse võre suurendatud kujutise",
+        "sourceHash": "08d493fd7834c2ae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bragg-diffraction-and-crystal-structure-determination-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It works, provided the angle is measured from the normal to the planes rather than from the planes",
+        "et": "See töötab, kui nurka mõõta tasandite normaalist, mitte tasanditest endist",
+        "sourceHash": "974282262bfc4008",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bragg-diffraction-and-crystal-structure-determination-m1"
+    }
+  ]
+}

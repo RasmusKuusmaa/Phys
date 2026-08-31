@@ -18,7 +18,16 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "random-walks-and-diffusion",
+    "brownian-motion-and-the-stokes-einstein-relation",
+    "markov-chains-and-the-memoryless-property",
+    "statistical-distributions-in-measurement",
+    "the-maxwell-boltzmann-distribution",
+    "probability",
+    "random-variables-and-distributions",
+    "common-probability-distributions"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

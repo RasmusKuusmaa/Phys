@@ -1,0 +1,23 @@
+{
+  "id": "bragg-diffraction-and-crystal-structure-determination",
+  "subject": "physics",
+  "level": "L3",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "Bragg diffraction and crystal structure determination",
+    "et": "Braggi difraktsioon ja kristallstruktuuri määramine",
+    "sourceHash": "583b24d6df724507",
+    "stale": false
+  },
+  "summary": {
+    "en": "A crystal's planes of atoms are spaced at roughly the same scale as an X-ray wavelength, so waves reflected from successive planes interfere, and they reinforce only at angles where the extra path travelled by the deeper reflection is a whole number of wavelengths — Bragg's law. That turns a diffraction pattern into a measurement: each sharp spot or ring fixes one plane spacing, the set of spacings identifies the lattice, and their relative intensities carry where the atoms sit within the unit cell. It is how the structures of salt, metals, minerals, DNA and essentially every protein of known shape were determined.",
+    "et": "Kristalli aatomitasandite vahekaugus on ligikaudu sama suur kui röntgenkiirguse lainepikkus, nii et järjestikustelt tasanditelt peegeldunud lained interfereeruvad ja võimenduvad ainult nurkade all, kus sügavamalt peegeldumise lisatee on täisarv lainepikkusi — see ongi Braggi seadus. Nii muutub difraktsioonipilt mõõtmiseks: iga terav täpp või ring määrab ühe tasandite vahekauguse, vahekauguste kogum tuvastab võre ja nende suhtelised intensiivsused kannavad teavet selle kohta, kus aatomid elementaarrakus asuvad. Just nii on määratud soola, metallide, mineraalide, DNA ja sisuliselt iga teadaoleva kujuga valgu struktuur.",
+    "sourceHash": "9cb69aa523f4465e",
+    "stale": false
+  },
+  "prerequisites": [
+    "crystal-structure-and-lattices",
+    "interference-and-diffraction",
+    "x-rays-and-their-production"
+  ]
+}

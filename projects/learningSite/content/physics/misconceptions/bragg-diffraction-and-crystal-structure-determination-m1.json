@@ -1,0 +1,10 @@
+{
+  "id": "bragg-diffraction-and-crystal-structure-determination-m1",
+  "conceptId": "bragg-diffraction-and-crystal-structure-determination",
+  "text": {
+    "en": "Measuring the Bragg angle from the normal to the planes, the way angles are measured in ordinary reflection and refraction. Bragg's angle is taken from the planes themselves, not from the normal, which is why a peak recorded at a detector angle of two theta corresponds to a Bragg angle of theta. Using the other convention makes every spacing come out wrong by a factor that looks like a calibration error.",
+    "et": "Braggi nurga mõõtmine tasandite normaali suhtes, nagu mõõdetakse nurki tavalises peegeldumises ja murdumises. Braggi nurka mõõdetakse tasanditest endist, mitte normaalist, ja just seepärast vastab detektori nurga kaks teeta juures registreeritud tipp Braggi nurgale teeta. Teise kokkuleppe kasutamine annab iga vahekauguse vale teguri võrra, mis näeb välja nagu kalibreerimisviga.",
+    "sourceHash": "3b04d23b92ad577c",
+    "stale": false
+  }
+}

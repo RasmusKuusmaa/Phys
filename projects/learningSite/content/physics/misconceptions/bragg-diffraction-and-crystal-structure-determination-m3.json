@@ -1,0 +1,10 @@
+{
+  "id": "bragg-diffraction-and-crystal-structure-determination-m3",
+  "conceptId": "bragg-diffraction-and-crystal-structure-determination",
+  "text": {
+    "en": "Treating a diffraction pattern as a magnified image of the crystal, so that reading off the structure is a matter of looking closely enough. The pattern lives in reciprocal space: a spot's position gives a spacing and a direction, while where the atoms sit inside the unit cell is encoded in the intensities. Recovering the structure means fitting or transforming, and because a detector records intensity the phase of each reflection is lost — the phase problem, which is a real obstacle rather than a technicality.",
+    "et": "Difraktsioonipildi käsitlemine kristalli suurendatud kujutisena, otsekui piisaks struktuuri väljalugemiseks piisavalt tähelepanelikust vaatamisest. Pilt asub pöördruumis: täpi asukoht annab vahekauguse ja suuna, samal ajal kui see, kus aatomid elementaarraku sees paiknevad, on kodeeritud intensiivsustesse. Struktuuri taastamine tähendab sobitamist või teisendamist, ja kuna detektor mõõdab intensiivsust, läheb iga refleksi faas kaotsi — see faasiprobleem on päris takistus, mitte tehniline pisiasi.",
+    "sourceHash": "aa72e2fdf325852b",
+    "stale": false
+  }
+}

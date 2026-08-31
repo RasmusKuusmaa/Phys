@@ -1,0 +1,37 @@
+{
+  "id": "braggs-law-solve-d-errors",
+  "formulaId": "braggs-law",
+  "solveFor": "d",
+  "mistakes": [
+    {
+      "id": "dropped-the-factor-of-two",
+      "description": {
+        "en": "Left out the factor of two, forgetting that the extra path is travelled both on the way in and on the way out.",
+        "et": "Jättis välja teguri kaks, unustades, et lisatee läbitakse nii sisenedes kui ka väljudes.",
+        "sourceHash": "9e1cb298288b503e",
+        "stale": false
+      },
+      "expression": "n*lambda/sin(theta*3.14159265358979/180)"
+    },
+    {
+      "id": "used-cosine",
+      "description": {
+        "en": "Used the cosine of the angle, which is what measuring the Bragg angle from the normal instead of from the planes amounts to.",
+        "et": "Kasutas nurga koosinust, milleni viibki Braggi nurga mõõtmine normaalist tasandite asemel.",
+        "sourceHash": "37ada885811f5309",
+        "stale": false
+      },
+      "expression": "n*lambda/(2*cos(theta*3.14159265358979/180))"
+    },
+    {
+      "id": "ignored-the-order",
+      "description": {
+        "en": "Treated the reflection as first order regardless of the stated order, dropping n from the numerator.",
+        "et": "Käsitles refleksi esimest järku omana olenemata etteantud järgust, jättes lugejast välja järgu.",
+        "sourceHash": "6c82de0914d92bec",
+        "stale": false
+      },
+      "expression": "lambda/(2*sin(theta*3.14159265358979/180))"
+    }
+  ]
+}

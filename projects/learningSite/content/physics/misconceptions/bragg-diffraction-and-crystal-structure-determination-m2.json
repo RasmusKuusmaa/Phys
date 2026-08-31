@@ -1,0 +1,10 @@
+{
+  "id": "bragg-diffraction-and-crystal-structure-determination-m2",
+  "conceptId": "bragg-diffraction-and-crystal-structure-determination",
+  "text": {
+    "en": "Assuming visible light would do the same job if the optics were good enough. The condition contains a sine, so a wavelength longer than twice the plane spacing gives no solution at any angle — with atomic planes a few tenths of a nanometre apart, light at five hundred nanometres cannot diffract from them at all. This is a hard limit on the wavelength, not a limit on lens quality, and it is why X-rays, neutrons or electrons are used instead.",
+    "et": "Eeldus, et nähtav valgus teeks sama töö ära, kui optika oleks piisavalt hea. Tingimuses on siinus, nii et tasandite kahekordsest vahekaugusest pikem lainepikkus ei anna ühegi nurga juures lahendit — kui aatomitasandite vahe on paar kümnendikku nanomeetrit, ei saa viiesaja nanomeetri pikkune valgus neilt üldse difrageeruda. See on range piirang lainepikkusele, mitte läätsede kvaliteedile, ja just seepärast kasutatakse röntgenkiirgust, neutroneid või elektrone.",
+    "sourceHash": "fd036072d6ced470",
+    "stale": false
+  }
+}
