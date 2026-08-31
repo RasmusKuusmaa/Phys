@@ -1,0 +1,22 @@
+{
+  "id": "thin-film-deposition-and-growth",
+  "subject": "physics",
+  "level": "L3",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "Thin-film deposition and growth",
+    "et": "Õhukeste kilede sadestamine ja kasv",
+    "sourceHash": "a6ab813897d60a74",
+    "stale": false
+  },
+  "summary": {
+    "en": "A thin film is built atom by atom onto a substrate, either physically — evaporating or sputtering material that then flies through vacuum to the surface — or chemically, from a gas that reacts at the hot substrate and leaves a solid behind. Which method is available depends on the vacuum: physical deposition needs a mean free path longer than the source-to-substrate distance so the atoms arrive in a straight line. What happens after they land decides the film: arriving atoms diffuse across the surface and either wet it layer by layer, ball up into islands, or do one then the other, and that growth mode is what sets whether the result is a mirror, a rough grey coating or an epitaxial single crystal.",
+    "et": "Õhuke kile ehitatakse alusele aatomhaaval, kas füüsikaliselt — aurustades või sadestuspihustades ainet, mis lendab läbi vaakumi pinnale — või keemiliselt gaasist, mis kuumal alusel reageerib ja jätab järele tahke aine. Kumb võimalus on kasutatav, sõltub vaakumist: füüsikaline sadestamine vajab vaba tee pikkust, mis ületab kauguse allikast aluseni, et aatomid jõuaksid kohale sirgjooneliselt. Kile määrab aga see, mis juhtub pärast maandumist: saabuvad aatomid difundeeruvad mööda pinda ja kas märgavad seda kihthaaval, tõmbuvad saarteks kokku või teevad esmalt üht ja siis teist, ning just see kasvurežiim otsustab, kas tulemuseks on peegel, kare hall kate või epitaksiaalne monokristall.",
+    "sourceHash": "4f0ee9e90487f3f2",
+    "stale": false
+  },
+  "prerequisites": [
+    "mean-free-path-and-vacuum-regimes",
+    "crystal-structure-and-lattices"
+  ]
+}

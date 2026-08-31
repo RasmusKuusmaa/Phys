@@ -1,0 +1,10 @@
+{
+  "id": "aerosols-and-particulate-measurement-m1",
+  "conceptId": "aerosols-and-particulate-measurement",
+  "text": {
+    "en": "Reading PM2.5 as \"the number of particles smaller than 2.5 micrometres\". It is a mass concentration — micrograms of such particles per cubic metre of air — and mass is dominated by the largest particles in the range, since mass goes as the cube of diameter. A million ultrafine particles can weigh less than one coarse one, which is why particle counts and PM readings can move in opposite directions during the same event.",
+    "et": "PM2,5 lugemine tähenduses \"alla 2,5 mikromeetri osakeste arv\". Tegu on massikontsentratsiooniga — mikrogrammides selliseid osakesi kuupmeetri õhu kohta — ja massi määravad vahemiku suurimad osakesed, sest mass sõltub läbimõõdu kuubist. Miljon ülipeenosakest võib kaaluda vähem kui üks jäme osake, ja just seepärast võivad osakeste arv ja PM-näit ühe ja sama sündmuse ajal liikuda vastassuundades.",
+    "sourceHash": "de31a35675110b8c",
+    "stale": false
+  }
+}

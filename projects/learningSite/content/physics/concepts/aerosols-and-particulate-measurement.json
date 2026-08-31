@@ -1,0 +1,23 @@
+{
+  "id": "aerosols-and-particulate-measurement",
+  "subject": "physics",
+  "level": "L3",
+  "module": "planetary-physics",
+  "title": {
+    "en": "Aerosols and particulate measurement",
+    "et": "Aerosoolid ja tahkete osakeste mõõtmine",
+    "sourceHash": "03e7eb9757ded9ac",
+    "stale": false
+  },
+  "summary": {
+    "en": "An aerosol is solid or liquid particles suspended in air, and almost everything about one follows from its size: particles above a few micrometres settle out within minutes, those below a micrometre stay airborne for days and are carried by air currents and Brownian motion rather than gravity, and only the small ones reach deep into the lungs — which is why air quality limits are written for PM10 and PM2.5 rather than for mass alone. Measuring them means choosing which physical effect stands in for size: weighing what a filter collects, counting scattered-light pulses one particle at a time, or reading an attenuation, each of which answers a different question and can disagree with the others.",
+    "et": "Aerosool on õhus hõljuvad tahked või vedelad osakesed ja peaaegu kõik nende juures tuleneb suurusest: üle mõne mikromeetri osakesed settivad minutitega, alla mikromeetri jäävad õhku päevadeks ning neid kannavad õhuvoolud ja Browni liikumine, mitte raskusjõud, ja ainult väikesed jõuavad sügavale kopsu — just seepärast on õhukvaliteedi piirnormid kirjutatud PM10 ja PM2,5 kohta, mitte massi kohta üldiselt. Nende mõõtmine tähendab valikut, milline füüsikaline efekt suurust esindab: kas kaalutakse filtrile kogunenut, loendatakse hajunud valguse impulsse osake haaval või loetakse nõrgenemist, kusjuures igaüks vastab eri küsimusele ja need võivad omavahel lahku minna.",
+    "sourceHash": "b24d8c03c7e3c015",
+    "stale": false
+  },
+  "prerequisites": [
+    "atmospheric-and-ocean-physics",
+    "rayleigh-and-mie-scattering",
+    "measurement-and-precision"
+  ]
+}

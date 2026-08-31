@@ -1,0 +1,23 @@
+{
+  "id": "quantum-confinement-and-low-dimensional-materials",
+  "subject": "physics",
+  "level": "L3",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "Quantum confinement and low-dimensional materials",
+    "et": "Kvantpiiratus ja madalamõõtmelised materjalid",
+    "sourceHash": "3fbb791721eac81a",
+    "stale": false
+  },
+  "summary": {
+    "en": "Shrink a piece of semiconductor until it is comparable to the size an electron-hole pair naturally occupies, and the continuous bands of the bulk crystal break up into discrete levels whose spacing grows as the crystal gets smaller — so the same material emits blue at two nanometres and red at six, with no change of chemistry. Restricting motion in one, two or three directions gives quantum wells, wires and dots, and each changes not just the number of available states but the shape of the density of states, which is why a quantum-well laser reaches threshold at a far lower current than a bulk one and why these structures are engineered rather than merely observed.",
+    "et": "Vähenda pooljuhitükki, kuni see on võrreldav ruumiga, mille elektron-auk paar loomulikult hõivab, ja massiivse kristalli pidevad tsoonid lagunevad diskreetseteks nivoodeks, mille vahed kasvavad kristalli kahanedes — nii kiirgab üks ja seesama aine kahe nanomeetri juures sinist ja kuue juures punast, ilma et keemia muutuks. Liikumise piiramine ühes, kahes või kolmes suunas annab kvantkaevud, -juhtmed ja -täpid ning igaüks neist ei muuda mitte ainult saadaolevate olekute arvu, vaid olekutiheduse kuju; just seepärast jõuab kvantkaevlaser läveni tunduvalt väiksema vooluga kui massiivne laser ja just seepärast neid struktuure sihipäraselt projekteeritakse, mitte ei vaadelda kõrvalt.",
+    "sourceHash": "89a1d5c28a860998",
+    "stale": false
+  },
+  "prerequisites": [
+    "particle-in-a-box",
+    "band-theory-of-solids",
+    "semiconductors-and-doping"
+  ]
+}

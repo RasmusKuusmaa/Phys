@@ -1,0 +1,45 @@
+{
+  "id": "film-thickness-from-deposited-mass",
+  "formulaId": "film-thickness-from-deposited-mass",
+  "variables": [
+    {
+      "symbol": "m",
+      "min": 0.0000001,
+      "max": 0.00001,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "rho",
+      "min": 2000,
+      "max": 20000,
+      "unit": "kg/m^3",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "A",
+      "min": 0.0001,
+      "max": 0.02,
+      "unit": "m^2",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "m",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "rho",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "A",
+      "right": 0
+    }
+  ],
+  "solveFor": "t"
+}

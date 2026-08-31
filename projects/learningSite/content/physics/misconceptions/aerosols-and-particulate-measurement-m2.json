@@ -1,0 +1,10 @@
+{
+  "id": "aerosols-and-particulate-measurement-m2",
+  "conceptId": "aerosols-and-particulate-measurement",
+  "text": {
+    "en": "Assuming small particles settle out of the air the way large ones do, only more slowly. Settling speed falls with the square of diameter, so below about a micrometre gravity stops mattering altogether: those particles are removed by coagulation, by diffusion onto surfaces and by rain, not by falling. That is why smoke haze can persist for days and travel across a continent, while visible dust is gone from a still room within minutes.",
+    "et": "Eeldus, et väikesed osakesed settivad õhust välja samamoodi nagu suured, ainult aeglasemalt. Settimiskiirus kahaneb läbimõõdu ruuduga, nii et alla umbes mikromeetri kaotab raskusjõud üldse tähtsuse: sellised osakesed eemalduvad koaguleerudes, pindadele difundeerudes ja vihmaga, mitte alla kukkudes. Just seepärast võib suitsuudu püsida päevi ja rännata üle mandri, samal ajal kui nähtav tolm on seisvast toast minutitega kadunud.",
+    "sourceHash": "b86ad06fe079c10f",
+    "stale": false
+  }
+}

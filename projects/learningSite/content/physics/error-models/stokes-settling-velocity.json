@@ -1,0 +1,37 @@
+{
+  "id": "stokes-settling-velocity",
+  "formulaId": "stokes-settling-velocity",
+  "solveFor": "v",
+  "mistakes": [
+    {
+      "id": "linear-in-diameter",
+      "description": {
+        "en": "Used the diameter rather than its square, losing the strong size dependence that separates coarse from fine particles.",
+        "et": "Kasutas läbimõõtu, mitte selle ruutu, kaotades tugeva suurussõltuvuse, mis eristab jämedaid osakesi peentest.",
+        "sourceHash": "c5934011b1841238",
+        "stale": false
+      },
+      "expression": "rho*d*9.81/(18*eta)"
+    },
+    {
+      "id": "used-radius-not-diameter",
+      "description": {
+        "en": "Squared the radius instead of the diameter, giving a settling speed four times too small.",
+        "et": "Ruutu tõsteti raadius, mitte läbimõõt, mis annab neli korda liiga väikese settimiskiiruse.",
+        "sourceHash": "843c8e4a914ecad5",
+        "stale": false
+      },
+      "expression": "rho*pow(d/2,2)*9.81/(18*eta)"
+    },
+    {
+      "id": "multiplied-by-viscosity",
+      "description": {
+        "en": "Multiplied by the air's viscosity instead of dividing by it, so thicker air was predicted to let particles fall faster.",
+        "et": "Korrutas õhu viskoossusega, selle asemel et sellega jagada, mistõttu ennustati, nagu langeksid osakesed paksemas õhus kiiremini.",
+        "sourceHash": "96c74b5fd53a3a69",
+        "stale": false
+      },
+      "expression": "rho*pow(d,2)*9.81*eta/18"
+    }
+  ]
+}

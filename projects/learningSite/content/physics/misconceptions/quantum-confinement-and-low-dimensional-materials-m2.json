@@ -1,0 +1,10 @@
+{
+  "id": "quantum-confinement-and-low-dimensional-materials-m2",
+  "conceptId": "quantum-confinement-and-low-dimensional-materials",
+  "text": {
+    "en": "Treating \"nanoparticle\" and \"quantum-confined\" as the same statement. Confinement matters only once the particle is comparable to the length an electron-hole pair naturally occupies in that material — a few nanometres in many semiconductors — so a 50 nm crystal of the same substance behaves essentially as bulk. Colloidal gold is the classic trap: its colour is a plasmon resonance, a collective oscillation of free electrons, not a confinement level shift.",
+    "et": "Sõnade \"nanoosake\" ja \"kvantpiiratud\" samastamine. Piiratus hakkab lugema alles siis, kui osake on võrreldav pikkusega, mille elektron-auk paar selles aines loomulikult hõivab — paljudes pooljuhtides mõni nanomeeter —, nii et sama aine 50 nm kristall käitub sisuliselt massiivse ainena. Kolloidne kuld on klassikaline lõks: tema värvus tuleneb plasmonresonantsist, vabade elektronide kollektiivsest võnkumisest, mitte piiratusest tingitud nivoode nihkest.",
+    "sourceHash": "dd02262c59b9e580",
+    "stale": false
+  }
+}

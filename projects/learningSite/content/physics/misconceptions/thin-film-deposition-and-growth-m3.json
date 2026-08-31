@@ -1,0 +1,10 @@
+{
+  "id": "thin-film-deposition-and-growth-m3",
+  "conceptId": "thin-film-deposition-and-growth",
+  "text": {
+    "en": "Expecting a film grown on a crystalline substrate to inherit that crystal structure automatically. Epitaxy demands more than a crystalline surface underneath: the lattices must match closely enough, and the arriving atoms must be mobile enough — hot enough, arriving slowly enough — to find lattice sites before being buried. Miss either condition and the same materials give a polycrystalline or amorphous film, and a lattice mismatch that is small but not zero stores elastic strain that eventually relaxes into dislocations.",
+    "et": "Ootus, et kristalsele alusele kasvatatud kile pärib selle kristallstruktuuri iseenesest. Epitaksia nõuab enamat kui kristalset pinda all: võred peavad piisavalt hästi kokku sobima ja saabuvad aatomid peavad olema piisavalt liikuvad — piisavalt kuumad ja saabuma piisavalt aeglaselt —, et jõuda leida võrekohad enne mattumist. Kui kas või üks tingimus jääb täitmata, annavad samad ained polükristalse või amorfse kile, ning väike, kuid nullist erinev võrede mittevastavus salvestab elastse pinge, mis lõpuks vabaneb dislokatsioonideks.",
+    "sourceHash": "294f01dc32f9d404",
+    "stale": false
+  }
+}

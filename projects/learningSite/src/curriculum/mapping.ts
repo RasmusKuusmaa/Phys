@@ -309,6 +309,52 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "critical-phenomena-and-continuous-phase-transitions",
     "liouvilles-theorem-and-phase-space",
   ],
+  // No syllabus in ÕIS. `aerosols-and-particulate-measurement` was written
+  // for this one — size-dependent settling, what PM10 and PM2.5 actually
+  // measure, and why an optical counter and a gravimetric reference can
+  // disagree. The course's own subject is the *organisation* of monitoring:
+  // network design, siting rules, EU limit values, reporting obligations and
+  // quality assurance. None of that is physics content and none of it is
+  // here, so this course is covered on its measurement physics only.
+  "LOFY.05.032": [
+    "aerosols-and-particulate-measurement",
+    "atmospheric-and-ocean-physics",
+    "rayleigh-and-mie-scattering",
+    "measurement-and-precision",
+    "si-definitions-traceability-and-calibration",
+    "uncertainty-and-error",
+    "spectroscopy",
+    "the-greenhouse-effect-and-planetary-energy-balance",
+  ],
+  // No syllabus in ÕIS. `thin-film-deposition-and-growth` was written for
+  // this one: the platform had thin-film *interference* but nothing on how a
+  // film is actually made or why it grows the way it does. Process detail —
+  // sputtering targets and magnetrons, atomic layer deposition chemistry,
+  // photolithography and patterning — is not covered, so this is the physics
+  // of deposition rather than the technology course itself.
+  "LOFY.02.013": [
+    "thin-film-deposition-and-growth",
+    "mean-free-path-and-vacuum-regimes",
+    "crystal-structure-and-lattices",
+    "thin-film-interference",
+    "surface-tension-and-capillarity",
+    "phase-transitions",
+  ],
+  // No syllabus in ÕIS. `quantum-confinement-and-low-dimensional-materials`
+  // was written for this one, since the jump from `particle-in-a-box` to a
+  // real quantum well, wire or dot — and the change in the density of states
+  // that goes with it — existed nowhere. Device physics proper (MOSFET
+  // scaling, heterojunctions, transport in nanostructures) is still absent.
+  "LOFY.02.045": [
+    "quantum-confinement-and-low-dimensional-materials",
+    "band-theory-of-solids",
+    "semiconductors-and-doping",
+    "particle-in-a-box",
+    "quantum-statistics-fermi-dirac-and-bose-einstein",
+    "lasers-and-stimulated-emission",
+    "crystal-structure-and-lattices",
+    "the-hall-effect",
+  ],
   // No syllabus in ÕIS. Mapped as the macroscopic-field material the platform
   // already has: Maxwell's equations, waves in media, dielectrics and
   // magnetisation, radiation from a dipole. What the title's "microscopic"

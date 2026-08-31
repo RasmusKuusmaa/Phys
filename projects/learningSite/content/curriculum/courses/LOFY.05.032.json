@@ -18,7 +18,16 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "aerosols-and-particulate-measurement",
+    "atmospheric-and-ocean-physics",
+    "rayleigh-and-mie-scattering",
+    "measurement-and-precision",
+    "si-definitions-traceability-and-calibration",
+    "uncertainty-and-error",
+    "spectroscopy",
+    "the-greenhouse-effect-and-planetary-energy-balance"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

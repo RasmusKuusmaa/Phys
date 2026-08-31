@@ -1,0 +1,45 @@
+{
+  "id": "stokes-settling-velocity",
+  "formulaId": "stokes-settling-velocity",
+  "variables": [
+    {
+      "symbol": "rho",
+      "min": 1000,
+      "max": 2500,
+      "unit": "kg/m^3",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "d",
+      "min": 0.000001,
+      "max": 0.00005,
+      "unit": "m",
+      "sigFigs": 2
+    },
+    {
+      "symbol": "eta",
+      "min": 0.000015,
+      "max": 0.00002,
+      "unit": "Pa*s",
+      "sigFigs": 2
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "rho",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "d",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "eta",
+      "right": 0
+    }
+  ],
+  "solveFor": "v"
+}

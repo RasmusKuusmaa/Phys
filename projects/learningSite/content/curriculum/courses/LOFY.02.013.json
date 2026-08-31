@@ -19,7 +19,14 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "thin-film-deposition-and-growth",
+    "mean-free-path-and-vacuum-regimes",
+    "crystal-structure-and-lattices",
+    "thin-film-interference",
+    "surface-tension-and-capillarity",
+    "phase-transitions"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

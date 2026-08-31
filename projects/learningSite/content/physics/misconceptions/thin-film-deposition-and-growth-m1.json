@@ -1,0 +1,10 @@
+{
+  "id": "thin-film-deposition-and-growth-m1",
+  "conceptId": "thin-film-deposition-and-growth",
+  "text": {
+    "en": "Assuming a film covers the substrate uniformly from the first monolayer, so thickness is simply the amount deposited spread evenly. Whether that happens depends on which the arriving atoms prefer to bond to, themselves or the substrate: when they prefer each other they nucleate islands that only merge into a continuous film after tens of nanometres, which is why very thin metal layers can be electrically discontinuous while an average thickness of a few nanometres is already on the substrate.",
+    "et": "Eeldus, et kile katab aluse esimesest monokihist peale ühtlaselt, nii et paksus on lihtsalt ühtlaselt laialijaotatud sadestatud kogus. Kas nii läheb, sõltub sellest, millega saabuvad aatomid eelistavad siduda — kas iseendaga või alusega: kui nad eelistavad teineteist, tekitavad nad saarekesed, mis sulanduvad pidevaks kileks alles kümnete nanomeetrite järel, ja just seepärast võib väga õhuke metallikiht olla elektriliselt katkendlik ka siis, kui keskmine paksus on alusel juba mõni nanomeeter.",
+    "sourceHash": "4306fe04960d89c0",
+    "stale": false
+  }
+}

@@ -19,7 +19,16 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "quantum-confinement-and-low-dimensional-materials",
+    "band-theory-of-solids",
+    "semiconductors-and-doping",
+    "particle-in-a-box",
+    "quantum-statistics-fermi-dirac-and-bose-einstein",
+    "lasers-and-stimulated-emission",
+    "crystal-structure-and-lattices",
+    "the-hall-effect"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

@@ -1,0 +1,10 @@
+{
+  "id": "thin-film-deposition-and-growth-m2",
+  "conceptId": "thin-film-deposition-and-growth",
+  "text": {
+    "en": "Treating the vacuum requirement as a matter of keeping the film clean. Cleanliness matters, but the harder constraint is geometric: in physical deposition the atoms must reach the substrate without colliding, so the mean free path has to exceed the source-to-substrate distance. At too high a pressure the flux arrives from all directions instead of one, which changes step coverage and film structure — and it is exactly why chemical vapour deposition, which relies on gas-phase transport, works at pressures where evaporation would not.",
+    "et": "Vaakuminõude käsitlemine üksnes kile puhtana hoidmise küsimusena. Puhtus on oluline, kuid rangem piirang on geomeetriline: füüsikalisel sadestamisel peavad aatomid jõudma aluseni põrkumata, nii et vaba tee pikkus peab ületama kauguse allikast aluseni. Liiga kõrge rõhu korral saabub voog ühe suuna asemel igast suunast, mis muudab astmete kaetust ja kile struktuuri — ja just seepärast töötab keemiline aursadestus, mis tugineb gaasifaasilisele transpordile, rõhkudel, kus aurustamine ei töötaks.",
+    "sourceHash": "c7fd80d50a4c6687",
+    "stale": false
+  }
+}

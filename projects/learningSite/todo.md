@@ -1302,18 +1302,27 @@ content beyond the degree lives.
       covered as atmospheric physics with no cloud microphysics, fronts or
       forecasting practice
   `content: cover metrology, microscopic electrodynamics and meteorology`
-- [ ] Three physics-track electives still uncovered, all needing content that
-      does not exist yet rather than a mapping: `LOFY.02.013` thin films
-      (deposition, nucleation and growth), `LOFY.02.045` nanoelectronic
-      materials (quantum confinement, low-dimensional density of states) and
-      `LOFY.05.032` air pollution monitoring (aerosols, sampling and
-      instrumentation). `LOFY.01.021` Engineering graphics has a real
-      16-topic syllabus but is technical drawing, not physics, chemistry or
-      materials — closer to the excluded seminars than to a subject this
-      platform teaches, and worth deciding deliberately rather than drifting
-      into. The five seminar, placement and project courses stay excluded for
-      the reason already recorded above
-  `content: cover the last physics electives`
+- [~] The last three teachable physics-track electives, each needing content
+      that did not exist: `thin-film-deposition-and-growth` for
+      `LOFY.02.013` (the platform had thin-film *interference* but nothing on
+      how a film is made or why it grows as it does),
+      `quantum-confinement-and-low-dimensional-materials` for `LOFY.02.045`
+      (nothing bridged `particle-in-a-box` and a real well, wire or dot, and
+      nothing said what low dimensionality does to the density of states),
+      and `aerosols-and-particulate-measurement` for `LOFY.05.032`
+      (size-dependent settling, what PM10 and PM2.5 actually measure, why an
+      optical counter and a gravimetric reference disagree). Each mapping
+      again names its shortfall: no sputtering targets or lithography, no
+      device transport physics, and nothing on the *organisation* of
+      monitoring — network design, siting, EU limit values — which is what
+      that course is really about and is not physics content
+  `content: cover thin films, nanoelectronic materials and air quality`
+- [ ] What is left in the physics track is deliberate, not backlog: four
+      seminar, placement and project courses excluded on the standing
+      reasoning, and `LOFY.01.021` Engineering graphics, which has a real
+      16-topic syllabus but is technical drawing rather than physics,
+      chemistry or materials. Decide that one rather than drifting into it
+  `content: decide on engineering graphics`
 - [x] Keep `npm run curriculum:coverage -- --extra` meaningful: enrichment stays
       labelled as enrichment and never counts toward degree coverage —
       verified: 4 concepts currently listed as enrichment, required-slot

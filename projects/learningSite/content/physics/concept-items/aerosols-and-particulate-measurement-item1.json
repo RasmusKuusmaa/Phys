@@ -1,0 +1,56 @@
+{
+  "id": "aerosols-and-particulate-measurement-item1",
+  "conceptId": "aerosols-and-particulate-measurement",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "During a wood-smoke episode a low-cost optical sensor shows a large rise in particle counts, while a nearby reference station's PM2.5 mass concentration rises only modestly. What is the most likely explanation?",
+    "et": "Puidusuitsu episoodi ajal näitab odav optiline andur osakeste arvu suurt kasvu, samal ajal kui lähedal asuva referentsjaama PM2,5 massikontsentratsioon tõuseb vaid tagasihoidlikult. Mis on kõige tõenäolisem selgitus?",
+    "sourceHash": "654e703309f3e53e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Smoke is dominated by very small particles, which are numerous but contribute little mass, since mass scales with the cube of diameter",
+        "et": "Suitsus valitsevad väga väikesed osakesed, mida on palju, kuid mis annavad vähe massi, sest mass sõltub läbimõõdu kuubist",
+        "sourceHash": "ccaaed0ca4aa2255",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "One of the instruments must be broken, because a particle count and a PM2.5 mass are two ways of reporting the same quantity",
+        "et": "Üks seadmetest peab olema katki, sest osakeste arv ja PM2,5 mass on kaks viisi sama suuruse esitamiseks",
+        "sourceHash": "319668192cfcb83a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aerosols-and-particulate-measurement-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The smoke particles have already settled out by the time they reach the reference station, since all particles fall at a rate set by gravity",
+        "et": "Suitsuosakesed on referentsjaama jõudmise ajaks juba settinud, sest kõik osakesed langevad raskusjõu määratud kiirusega",
+        "sourceHash": "39dab23380a6e33b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aerosols-and-particulate-measurement-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Optical sensors measure diameter directly, so the difference cannot come from what the particles are made of",
+        "et": "Optilised andurid mõõdavad läbimõõtu otse, seega ei saa erinevus tulla sellest, millest osakesed koosnevad",
+        "sourceHash": "364df99b6966f4ca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aerosols-and-particulate-measurement-m3"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "stokes-settling-velocity",
+  "conceptId": "aerosols-and-particulate-measurement",
+  "latex": "v = \\frac{\\rho d^{2} g}{18 \\eta}",
+  "symbols": [
+    {
+      "symbol": "v",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "rho",
+      "name": {
+        "en": "density",
+        "et": "tihedus",
+        "sourceHash": "06f8382071a4109d",
+        "stale": false
+      },
+      "unit": "kg/m^3"
+    },
+    {
+      "symbol": "d",
+      "name": {
+        "en": "diameter",
+        "et": "läbimõõt",
+        "sourceHash": "00a02fc515ab4e3f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "eta",
+      "name": {
+        "en": "viscosity",
+        "et": "viskoossus",
+        "sourceHash": "544d7eda1c3efb94",
+        "stale": false
+      },
+      "unit": "Pa*s"
+    }
+  ],
+  "solveFor": [
+    "v"
+  ],
+  "expressions": {
+    "v": "rho*pow(d,2)*9.81/(18*eta)"
+  }
+}

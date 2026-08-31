@@ -1,0 +1,10 @@
+{
+  "id": "quantum-confinement-and-low-dimensional-materials-m1",
+  "conceptId": "quantum-confinement-and-low-dimensional-materials",
+  "text": {
+    "en": "Assuming that a nanocrystal emitting a different colour must be a different material, or chemically altered at the surface. The composition is identical: what changed is the boundary condition. Squeezing the same wavefunction into a smaller box raises its energy, so the gap between the lowest empty and highest filled state widens as the crystal shrinks, and the emitted photon moves towards the blue.",
+    "et": "Eeldus, et teist värvi kiirgav nanokristall peab olema teine aine või pinnalt keemiliselt muudetud. Koostis on identne: muutunud on ääretingimus. Sama lainefunktsiooni surumine väiksemasse kasti tõstab selle energiat, nii et vahe madalaima tühja ja kõrgeima täidetud oleku vahel kasvab kristalli kahanedes ning kiiratav footon nihkub sinise poole.",
+    "sourceHash": "4a44e9da780aaf30",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "quantum-confinement-and-low-dimensional-materials-m3",
+  "conceptId": "quantum-confinement-and-low-dimensional-materials",
+  "text": {
+    "en": "Reading lower dimensionality as simply having fewer states available. The count is not the point — the distribution is. In bulk the density of states rises smoothly from the band edge, in a quantum well it jumps to a plateau at each subband, in a wire it spikes, and in a dot it is a set of sharp lines. Piling states up right at the edge instead of spreading them out is what lets a quantum-well laser reach threshold with far less injected current.",
+    "et": "Madalama mõõtmelisuse mõistmine lihtsalt väiksema olekute arvuna. Asi ei ole arvus, vaid jaotuses. Massiivses aines kasvab olekutihedus tsooniservast sujuvalt, kvantkaevus hüppab see igal alamtsoonil uuele tasemele, juhtmes tekib terav piik ja täpis on tegu teravate joonte kogumiga. Just olekute kuhjumine otse serva juurde, mitte nende laialijaotumine, lubab kvantkaevlaseril jõuda läveni tunduvalt väiksema sisestatud vooluga.",
+    "sourceHash": "95f9540811063c14",
+    "stale": false
+  }
+}

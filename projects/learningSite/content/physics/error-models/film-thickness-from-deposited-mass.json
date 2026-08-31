@@ -1,0 +1,37 @@
+{
+  "id": "film-thickness-from-deposited-mass",
+  "formulaId": "film-thickness-from-deposited-mass",
+  "solveFor": "t",
+  "mistakes": [
+    {
+      "id": "multiplied-by-density",
+      "description": {
+        "en": "Multiplied by the density instead of dividing by it, so a denser material appeared to give a thicker film from the same mass.",
+        "et": "Korrutas tihedusega, selle asemel et sellega jagada, mistõttu tundus, nagu annaks tihedam aine samast massist paksema kile.",
+        "sourceHash": "51e311c5874daff5",
+        "stale": false
+      },
+      "expression": "m*rho/A"
+    },
+    {
+      "id": "left-out-the-area",
+      "description": {
+        "en": "Divided the mass by the density alone, giving the volume of deposited material rather than its thickness on the substrate.",
+        "et": "Jagas massi ainult tihedusega, mis annab sadestunud aine ruumala, mitte kile paksuse alusel.",
+        "sourceHash": "e7a7c8e33d314075",
+        "stale": false
+      },
+      "expression": "m/rho"
+    },
+    {
+      "id": "swapped-mass-and-area",
+      "description": {
+        "en": "Put the area in the numerator and the mass in the denominator, inverting how each affects the result.",
+        "et": "Pani pindala lugejasse ja massi nimetajasse, pöörates ümber mõlema mõju tulemusele.",
+        "sourceHash": "1ddfb58da8b23716",
+        "stale": false
+      },
+      "expression": "A/(rho*m)"
+    }
+  ]
+}

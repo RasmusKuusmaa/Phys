@@ -1,0 +1,56 @@
+{
+  "id": "quantum-confinement-and-low-dimensional-materials-item1",
+  "conceptId": "quantum-confinement-and-low-dimensional-materials",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two vials of cadmium selenide nanocrystals glow green and red under ultraviolet light. Chemical analysis shows both contain exactly the same compound. What distinguishes them?",
+    "et": "Kaks kaadmiumseleniidi nanokristallide viaali helendavad ultraviolettvalguses rohelisena ja punasena. Keemiline analüüs näitab, et mõlemas on täpselt sama ühend. Mis neid eristab?",
+    "sourceHash": "5109c5cc945fa9a8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Crystal size: the smaller crystals confine the electron-hole pair more tightly, widening the gap and shifting emission towards the blue",
+        "et": "Kristallide suurus: väiksemad kristallid piiravad elektron-auk paari tugevamini, mis laiendab keelutsooni ja nihutab kiirgust sinise poole",
+        "sourceHash": "5bbfd0b5d01df482",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The red vial must contain a chemically modified surface layer, since one compound can only emit one colour",
+        "et": "Punases viaalis peab olema keemiliselt muudetud pinnakiht, sest üks ühend saab kiirata ainult üht värvi",
+        "sourceHash": "3ef1a5f21bd87296",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-confinement-and-low-dimensional-materials-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing but particle size in general — any particle below a micrometre is quantum confined, whatever the material",
+        "et": "Ainult osakeste suurus üldiselt — iga alla mikromeetri osake on kvantpiiratud, olenemata ainest",
+        "sourceHash": "bbf560ca6b99e8b0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-confinement-and-low-dimensional-materials-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The smaller crystals simply have fewer electronic states, so less light of any colour can come out",
+        "et": "Väiksematel kristallidel on lihtsalt vähem elektronolekuid, nii et igas värvis valgust saab välja tulla vähem",
+        "sourceHash": "1a9156eab0b8e2c9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-confinement-and-low-dimensional-materials-m3"
+    }
+  ]
+}

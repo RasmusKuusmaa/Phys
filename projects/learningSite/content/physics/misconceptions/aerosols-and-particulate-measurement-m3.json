@@ -1,0 +1,10 @@
+{
+  "id": "aerosols-and-particulate-measurement-m3",
+  "conceptId": "aerosols-and-particulate-measurement",
+  "text": {
+    "en": "Treating an optical particle counter as a direct measurement of size and mass. It measures scattered light, and how much a particle scatters depends on its refractive index and shape as well as its diameter — so the instrument reports the size of an equivalent calibration sphere, not the particle in front of it. Soot and sea salt of the same true diameter read differently, which is why a low-cost sensor needs local calibration against a gravimetric reference before its numbers mean anything absolute.",
+    "et": "Optilise osakeseloenduri käsitlemine suuruse ja massi otsese mõõtmisena. See mõõdab hajunud valgust ning see, kui palju osake hajutab, sõltub lisaks läbimõõdule ka murdumisnäitajast ja kujust — nii et seade esitab samaväärse kalibreerimiskerakese suuruse, mitte enda ees oleva osakese oma. Sama tegeliku läbimõõduga tahm ja meresool annavad erineva näidu, ja just seepärast vajab odav andur kohalikku kalibreerimist gravimeetrilise etaloni vastu, enne kui tema arvud midagi absoluutset tähendavad.",
+    "sourceHash": "82c95e9df4387466",
+    "stale": false
+  }
+}

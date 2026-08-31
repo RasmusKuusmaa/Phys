@@ -1,0 +1,56 @@
+{
+  "id": "thin-film-deposition-and-growth-item1",
+  "conceptId": "thin-film-deposition-and-growth",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A gold film is evaporated onto glass. At an average thickness of 3 nm the coating already looks tinted, but it does not conduct between two contacts a millimetre apart. What is the most likely reason?",
+    "et": "Klaasile aurustatakse kuldkile. Keskmise paksuse 3 nm juures on kate juba silmaga tooniv, kuid see ei juhi voolu kahe millimeetrise vahega kontakti vahel. Mis on kõige tõenäolisem põhjus?",
+    "sourceHash": "eb60615f76be60e6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The gold has grown as separate islands that have not yet merged, so there is no continuous path across the gap",
+        "et": "Kuld on kasvanud eraldi saartena, mis ei ole veel kokku sulanud, nii et pidevat teed üle vahemiku ei ole",
+        "sourceHash": "694169f509d15d2a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A film always covers uniformly, so the layer must be thinner than stated and simply too resistive",
+        "et": "Kile katab alati ühtlaselt, nii et kiht peab olema väidetust õhem ja lihtsalt liiga suure takistusega",
+        "sourceHash": "783a15309dad217e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thin-film-deposition-and-growth-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The gold has taken on the crystal structure of the glass beneath it, which is insulating",
+        "et": "Kuld on omandanud all oleva klaasi kristallstruktuuri, mis on isoleeriv",
+        "sourceHash": "d471c6c8fc5ea3da",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thin-film-deposition-and-growth-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The vacuum was not clean enough, and cleanliness is the only thing the pressure affects during evaporation",
+        "et": "Vaakum ei olnud piisavalt puhas, ja puhtus on ainus asi, mida rõhk aurustamisel mõjutab",
+        "sourceHash": "b7eedd3b6e31d102",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thin-film-deposition-and-growth-m2"
+    }
+  ]
+}
