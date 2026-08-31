@@ -309,6 +309,25 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "critical-phenomena-and-continuous-phase-transitions",
     "liouvilles-theorem-and-phase-space",
   ],
+  // Mapped against the course's own published topic list (Physicum, spring
+  // 2026): continuous systems and fixed-point types, the matrix interlude,
+  // the logistic map and bifurcations, Lyapunov exponents and deterministic
+  // chaos. Its fractals section — Hausdorff dimension, iterated function
+  // systems, Julia and Mandelbrot sets — has no concept here yet and is
+  // deliberately not papered over with something adjacent.
+  "LOFY.04.070": [
+    "fixed-points-and-phase-plane-stability",
+    "bifurcations-and-stability-loss",
+    "deterministic-chaos-and-lyapunov-exponents",
+    "limit-cycles-and-poincare-sections",
+    "damped-oscillations",
+    "coupled-and-driven-oscillators",
+    "resonance",
+    "eigenvalues-and-eigenvectors",
+    "matrices",
+    "first-order-differential-equations",
+    "second-order-differential-equations",
+  ],
   "LOFY.04.073": [
     "heisenberg-uncertainty-principle",
     "particle-in-a-box",

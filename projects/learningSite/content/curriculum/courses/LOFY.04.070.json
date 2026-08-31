@@ -18,7 +18,19 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "fixed-points-and-phase-plane-stability",
+    "bifurcations-and-stability-loss",
+    "deterministic-chaos-and-lyapunov-exponents",
+    "limit-cycles-and-poincare-sections",
+    "damped-oscillations",
+    "coupled-and-driven-oscillators",
+    "resonance",
+    "eigenvalues-and-eigenvectors",
+    "matrices",
+    "first-order-differential-equations",
+    "second-order-differential-equations"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }
