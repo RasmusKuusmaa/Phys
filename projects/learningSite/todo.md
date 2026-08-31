@@ -1242,6 +1242,24 @@ content beyond the degree lives.
       coverage the course doesn't have, so it's left at 0 cpt rather than
       papered over — adding biochemistry properly would be its own phase
   `content: add colloidal systems and electrokinetic phenomena concept`
+- [~] A physics-track elective covered from its own published syllabus rather
+      than from its name: `LOFY.04.070` Mittelineaarne dünaamika, whose topic
+      list (Physicum, spring 2026) is continuous systems and fixed-point
+      types, a matrix interlude, the logistic map and bifurcations, Lyapunov
+      exponents and deterministic chaos, and fractals. Four new L3 concepts
+      in a new `nonlinear-dynamics` module —
+      `fixed-points-and-phase-plane-stability`,
+      `bifurcations-and-stability-loss`,
+      `deterministic-chaos-and-lyapunov-exponents`,
+      `limit-cycles-and-poincare-sections` — none of which the platform had
+      in any form; the mapping also names the existing oscillator and
+      linear-algebra concepts the syllabus leans on. Two things left
+      deliberately: the fractals section (Hausdorff dimension, iterated
+      function systems, Julia and Mandelbrot sets) has no concept and stays
+      visible as a gap rather than being mapped to something adjacent, and
+      `1/s` was added to the unit registry as distinct from `Hz`, since a
+      growth rate is not a count of cycles
+  `content: add nonlinear dynamics concepts`
 - [x] Keep `npm run curriculum:coverage -- --extra` meaningful: enrichment stays
       labelled as enrichment and never counts toward degree coverage —
       verified: 4 concepts currently listed as enrichment, required-slot
