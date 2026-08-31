@@ -1,0 +1,22 @@
+{
+  "id": "brownian-motion-and-the-stokes-einstein-relation",
+  "subject": "physics",
+  "level": "L3",
+  "module": "stochastic-processes",
+  "title": {
+    "en": "Brownian motion and the Stokes–Einstein relation",
+    "et": "Browni liikumine ja Stokesi-Einsteini seos",
+    "sourceHash": "15af356d356a9523",
+    "stale": false
+  },
+  "summary": {
+    "en": "A pollen grain in water jitters visibly under the microscope because it is struck by molecules from every side and the strikes never quite balance — Brownian motion, the visible end of a random walk driven by thermal energy. Einstein's insight in 1905 was that the same molecular collisions cause both the kicking and the drag, so the two must be linked: the Stokes–Einstein relation gives the diffusion coefficient as thermal energy divided by the drag coefficient of the particle, tying a random microscopic quantity to two things anyone can measure. It was the argument that made atoms hard to deny, and it is still how particle sizes are measured in a dynamic light scattering instrument.",
+    "et": "Õietolmutera vees väriseb mikroskoobi all nähtavalt, sest molekulid tabavad seda igast küljest ja löögid ei tasakaalusta teineteist kunagi päris täpselt — see on Browni liikumine, soojusenergiast aetud juhusliku ekslemise nähtav ots. Einsteini taip 1905. aastal oli see, et needsamad molekulaarsed põrked põhjustavad nii tõukamise kui ka takistuse, mistõttu need kaks peavad olema seotud: Stokesi-Einsteini seos annab difusiooniteguri soojusenergia ja osakese takistusteguri jagatisena, sidudes juhusliku mikroskoopilise suuruse kahe mõõdetava asjaga. Just see argument tegi aatomite eitamise raskeks ja just nii mõõdetakse osakeste suurusi dünaamilise valguse hajumise seadmes tänini.",
+    "sourceHash": "13767bea4c365826",
+    "stale": false
+  },
+  "prerequisites": [
+    "random-walks-and-diffusion",
+    "viscosity-and-poiseuille-flow"
+  ]
+}

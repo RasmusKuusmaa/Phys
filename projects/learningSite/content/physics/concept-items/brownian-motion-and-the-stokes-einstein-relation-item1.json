@@ -1,0 +1,56 @@
+{
+  "id": "brownian-motion-and-the-stokes-einstein-relation-item1",
+  "conceptId": "brownian-motion-and-the-stokes-einstein-relation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The same plastic microspheres are suspended first in water and then in a syrup ten times more viscous, both held at the same temperature. What happens to their Brownian motion?",
+    "et": "Samad plastmikrokerakesed hõljutatakse esmalt vees ja seejärel kümme korda viskoossemas siirupis, mõlemad samal temperatuuril. Mis juhtub nende Browni liikumisega?",
+    "sourceHash": "c5484972a25fca21",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The diffusion coefficient falls by about a factor of ten, because the same collisions that kick the spheres also provide the drag",
+        "et": "Difusioonitegur kahaneb umbes kümme korda, sest needsamad põrked, mis kerakesi tõukavad, tekitavad ka takistuse",
+        "sourceHash": "4b5b14b3236c1bb9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The spheres are held more firmly but diffuse just as fast, since viscosity and random kicking are independent effects",
+        "et": "Kerakesi hoitakse paigal tugevamini, kuid nad difundeeruvad sama kiiresti, sest viskoossus ja juhuslik tõukamine on teineteisest sõltumatud",
+        "sourceHash": "3ce6f0130b20be65",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "brownian-motion-and-the-stokes-einstein-relation-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The motion stops entirely in both fluids once they are left undisturbed, since nothing is stirring them",
+        "et": "Liikumine lakkab mõlemas vedelikus täielikult, kui neid rahule jätta, sest miski neid ei sega",
+        "sourceHash": "a0b2c2261467933a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "brownian-motion-and-the-stokes-einstein-relation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing changes, because Brownian motion depends only on the particle's size and every particle jitters by the same visible amount",
+        "et": "Midagi ei muutu, sest Browni liikumine sõltub ainult osakese suurusest ja iga osake väriseb sama nähtavalt",
+        "sourceHash": "69b7d23f70fd43ab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "brownian-motion-and-the-stokes-einstein-relation-m3"
+    }
+  ]
+}

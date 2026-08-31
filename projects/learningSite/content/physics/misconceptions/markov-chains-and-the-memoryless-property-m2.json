@@ -1,0 +1,10 @@
+{
+  "id": "markov-chains-and-the-memoryless-property-m2",
+  "conceptId": "markov-chains-and-the-memoryless-property",
+  "text": {
+    "en": "Believing a chain that has reached its stationary distribution has stopped changing. Individual systems keep hopping between states exactly as before; what has stopped changing is the probability of finding one in each state, because the flow into every state now matches the flow out. A gas in equilibrium is the same idea: unchanging macroscopic numbers, ceaseless microscopic traffic underneath.",
+    "et": "Arvamus, et statsionaarse jaotuseni jõudnud ahel on muutumise lõpetanud. Üksikud süsteemid hüppavad olekute vahel täpselt nagu varem; muutumise on lõpetanud tõenäosus leida süsteem igast olekust, sest sissevool igasse olekusse võrdub nüüd väljavooluga. Tasakaalus gaas on samast mõttest: muutumatud makroskoopilised arvud ja nende all lakkamatu mikroskoopiline liiklus.",
+    "sourceHash": "0c5d45c7a98a1dfb",
+    "stale": false
+  }
+}

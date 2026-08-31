@@ -1,0 +1,37 @@
+{
+  "id": "stokes-einstein-diffusion",
+  "formulaId": "stokes-einstein-diffusion",
+  "solveFor": "D",
+  "mistakes": [
+    {
+      "id": "used-diameter-not-radius",
+      "description": {
+        "en": "Put the particle's diameter where the radius belongs, halving the predicted diffusion coefficient.",
+        "et": "Pani raadiuse asemele osakese läbimõõdu, mis vähendas ennustatud difusiooniteguri poole võrra.",
+        "sourceHash": "5099d3760c26744d",
+        "stale": false
+      },
+      "expression": "1.380649*pow(10,-23)*T/(6*3.141592653589793*eta*2*r)"
+    },
+    {
+      "id": "dropped-the-six-pi",
+      "description": {
+        "en": "Left out the Stokes drag factor of six pi, keeping only the viscosity and the radius in the denominator.",
+        "et": "Jättis välja Stokesi takistusteguri kuus pii, hoides nimetajas ainult viskoossuse ja raadiuse.",
+        "sourceHash": "7163db9711a2f27c",
+        "stale": false
+      },
+      "expression": "1.380649*pow(10,-23)*T/(eta*r)"
+    },
+    {
+      "id": "inverted-the-relation",
+      "description": {
+        "en": "Turned the relation upside down, so a warmer, thinner fluid was predicted to diffuse more slowly rather than faster.",
+        "et": "Pööras seose tagurpidi, nii et soojemas ja vedelamas keskkonnas ennustati aeglasemat difusiooni kiirema asemel.",
+        "sourceHash": "67b077edbf33afb3",
+        "stale": false
+      },
+      "expression": "6*3.141592653589793*eta*r/(1.380649*pow(10,-23)*T)"
+    }
+  ]
+}

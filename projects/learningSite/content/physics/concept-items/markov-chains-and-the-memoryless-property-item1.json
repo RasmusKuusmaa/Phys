@@ -1,0 +1,56 @@
+{
+  "id": "markov-chains-and-the-memoryless-property-item1",
+  "conceptId": "markov-chains-and-the-memoryless-property",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A radioactive nucleus has a half-life of one year and has already survived ten years without decaying. What is the probability that it decays during the next year?",
+    "et": "Radioaktiivse tuuma poolestusaeg on üks aasta ja ta on juba kümme aastat lagunemata vastu pidanud. Kui suur on tõenäosus, et ta laguneb järgmise aasta jooksul?",
+    "sourceHash": "4810d40b7902fe17",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "One half, the same as for a nucleus created a moment ago — an undecayed nucleus carries no record of how long it has waited",
+        "et": "Pool, sama mis äsja tekkinud tuumal — lagunemata tuum ei kanna mingit märget selle kohta, kui kaua ta on oodanud",
+        "sourceHash": "e2ce28e2f18a5c70",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Much more than one half, because ten years of waiting have made it overdue",
+        "et": "Palju rohkem kui pool, sest kümme aastat ootamist on selle lagunemise ammu tähtajaks teinud",
+        "sourceHash": "2d8fefaece3a80e0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "markov-chains-and-the-memoryless-property-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Zero, because a sample that has reached a steady activity is no longer changing",
+        "et": "Null, sest ühtlase aktiivsuseni jõudnud proov enam ei muutu",
+        "sourceHash": "33ad03a1fa6ae115",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "markov-chains-and-the-memoryless-property-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be given, since the nucleus has a ten-year history and memory puts it outside any Markov description",
+        "et": "Seda ei saa öelda, sest tuumal on kümneaastane eellugu ja mälu viib ta igasugusest Markovi kirjeldusest välja",
+        "sourceHash": "b4950491a3872d52",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "markov-chains-and-the-memoryless-property-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "markov-chains-and-the-memoryless-property-m1",
+  "conceptId": "markov-chains-and-the-memoryless-property",
+  "text": {
+    "en": "Reading \"memoryless\" as \"the past does not matter\". The past matters enormously — it is what put the system in the state it is in. What the assumption says is that once the present state is known, nothing further about how it got there changes the odds for the next step. An undecayed nucleus that has waited a thousand years is in the same state as a fresh one, so it has the same chance of decaying in the next second.",
+    "et": "Sõna \"mäluta\" mõistmine tähenduses \"minevik ei loe\". Minevik loeb väga palju — just see viis süsteemi olekusse, milles ta on. Eeldus ütleb hoopis seda, et kui praegune olek on teada, ei muuda miski selle kohta, kuidas sinna jõuti, järgmise sammu tõenäosusi. Lagunemata tuum, mis on oodanud tuhat aastat, on samas olekus kui äsja tekkinud tuum, nii et tema tõenäosus järgmise sekundi jooksul laguneda on sama.",
+    "sourceHash": "9df0cab4fae8efaa",
+    "stale": false
+  }
+}

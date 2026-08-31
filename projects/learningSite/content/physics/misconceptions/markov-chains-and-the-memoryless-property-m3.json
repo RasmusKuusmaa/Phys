@@ -1,0 +1,10 @@
+{
+  "id": "markov-chains-and-the-memoryless-property-m3",
+  "conceptId": "markov-chains-and-the-memoryless-property",
+  "text": {
+    "en": "Assuming any process with memory falls outside the framework. Usually it only means the state was chosen too small: a walker whose next step depends on the previous one is not Markovian in position alone, but is Markovian in position together with the last step. Enlarging the state until the future depends on nothing else is the standard move, and the cost is a bigger state space rather than a different theory.",
+    "et": "Eeldus, et iga mäluga protsess jääb sellest raamistikust välja. Tavaliselt tähendab see üksnes, et olek võeti liiga kitsas: eksleja, kelle järgmine samm sõltub eelmisest, ei ole Markovi protsess ainuüksi asukoha suhtes, kuid on seda asukoha ja viimase sammu suhtes koos. Oleku laiendamine seni, kuni tulevik ei sõltu enam millestki muust, ongi tavapärane võte ning hinnaks on suurem olekuruum, mitte teistsugune teooria.",
+    "sourceHash": "898ebe9d3ea6c53e",
+    "stale": false
+  }
+}

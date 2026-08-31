@@ -1,0 +1,10 @@
+{
+  "id": "brownian-motion-and-the-stokes-einstein-relation-m2",
+  "conceptId": "brownian-motion-and-the-stokes-einstein-relation",
+  "text": {
+    "en": "Expecting a thicker, more viscous fluid to hold a particle still but leave its diffusion coefficient alone, as if drag and random kicking were separate effects. They are the same molecular collisions counted two ways, which is exactly what the Stokes–Einstein relation says: raise the viscosity and the diffusion coefficient falls in proportion, so a particle in glycerol wanders far more slowly than the same particle in water at the same temperature.",
+    "et": "Ootus, et paksem ja viskoossem vedelik hoiab osakest paigal, kuid jätab tema difusiooniteguri puutumata, otsekui oleksid takistus ja juhuslik tõukamine eraldi nähtused. Need on ühed ja samad molekulaarsed põrked kahel viisil kokku loetuna, ja just seda Stokesi-Einsteini seos ütlebki: viskoossuse kasvades kahaneb difusioonitegur võrdeliselt, nii et glütseriinis olev osake eksleb samal temperatuuril palju aeglasemalt kui seesama osake vees.",
+    "sourceHash": "3b68a74ce095663b",
+    "stale": false
+  }
+}

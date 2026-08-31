@@ -1,0 +1,10 @@
+{
+  "id": "brownian-motion-and-the-stokes-einstein-relation-m3",
+  "conceptId": "brownian-motion-and-the-stokes-einstein-relation",
+  "text": {
+    "en": "Assuming every particle in a fluid jitters visibly, so failing to see it means the fluid is too still. The kicks are the same size whatever the particle, but the response is not: a grain a micrometre across is displaced measurably, while a sand grain of the same material is millions of times heavier and better damped, so its Brownian displacement is far below anything a microscope resolves. Brownian motion does not stop at large sizes; it becomes unobservable.",
+    "et": "Eeldus, et iga osake vedelikus väriseb nähtavalt, ja et selle nägemata jäämine tähendab liiga seisvat vedelikku. Löögid on ühesuurused olenemata osakesest, kuid vastus mitte: mikromeetrise läbimõõduga tera nihkub mõõdetavalt, samast ainest liivatera on aga miljoneid kordi raskem ja paremini summutatud, nii et tema Browni nihe jääb kaugele allapoole mikroskoobi lahutusvõimet. Browni liikumine ei lakka suurte mõõtmete juures, vaid muutub jälgimatuks.",
+    "sourceHash": "f9101f27e39a9828",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "markov-chains-and-the-memoryless-property",
+  "subject": "physics",
+  "level": "L3",
+  "module": "stochastic-processes",
+  "title": {
+    "en": "Markov chains and the memoryless property",
+    "et": "Markovi ahelad ja mäluta omadus",
+    "sourceHash": "8cedde7e3c856215",
+    "stale": false
+  },
+  "summary": {
+    "en": "A process is Markovian when the probabilities of what happens next depend only on the present state and not on the route that led to it — the whole history is already carried in where the system is now. That single assumption is what makes a stochastic model tractable: the dynamics reduce to a table of transition probabilities, repeated application drives most such chains towards a stationary distribution independent of where they started, and requiring detailed balance in that distribution is exactly how a Monte Carlo simulation is made to sample the Boltzmann distribution. Radioactive decay, a random walk and a thermally activated jump between two wells are all Markovian; a process with a memory, like fatigue in a material, is not.",
+    "et": "Protsess on Markovi protsess siis, kui järgmise sammu tõenäosused sõltuvad ainult praegusest olekust, mitte teekonnast, mis sinna viis — kogu eellugu on juba selles, kus süsteem parasjagu on. Just see üksainus eeldus teeb juhusliku mudeli käsitletavaks: dünaamika taandub siirdetõenäosuste tabeliks, korduv rakendamine viib enamiku selliseid ahelaid statsionaarse jaotuseni, mis ei sõltu lähtekohast, ning detailse tasakaalu nõudmine selles jaotuses ongi see, kuidas Monte Carlo simulatsioon pannakse Boltzmanni jaotust genereerima. Radioaktiivne lagunemine, juhuslik ekslemine ja soojuslikult aktiveeritud hüpe kahe süvendi vahel on kõik Markovi protsessid; mäluga protsess, näiteks materjali väsimus, ei ole.",
+    "sourceHash": "3a241f54a7a0a1d5",
+    "stale": false
+  },
+  "prerequisites": [
+    "random-walks-and-diffusion"
+  ]
+}

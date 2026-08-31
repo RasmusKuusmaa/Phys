@@ -1,0 +1,26 @@
+Write down everything you would need to know to compute the odds for what a
+system does next. If the present state is enough — if knowing the route it took
+to get there adds nothing — the process is Markovian. That is a strong
+assumption, and it is not a claim that history is irrelevant: history is what
+determined the current state. It says only that history acts through the present
+and not around it.
+
+The payoff is that the dynamics collapse into a table of transition
+probabilities, one row per state, and everything else follows from applying that
+table repeatedly. Most chains of practical interest then drift towards a
+stationary distribution — the probabilities across states stop changing, even
+though individual systems carry on hopping. That is equilibrium in the
+probabilistic sense: the traffic into each state balances the traffic out, and
+where the chain started has been forgotten. How long that forgetting takes is a
+separate question, and for a system with a high barrier between two regions it
+can be far longer than the simulation you were planning to run.
+
+This is why Markov chains are so heavily used in physics rather than merely
+mentioned. Radioactive decay is Markovian, which is exactly why an old nucleus is
+statistically identical to a new one and why the decay law is exponential.
+Thermally activated hopping between potential wells is Markovian, so the same
+machinery handles diffusion in a crystal. And the whole Monte Carlo method runs
+backwards from the stationary distribution: choose transition probabilities that
+satisfy detailed balance with respect to the Boltzmann factor, run the chain, and
+the states it visits are a sample of the thermal ensemble — which is how a
+statistical-mechanics problem too hard to integrate becomes one you can simulate.

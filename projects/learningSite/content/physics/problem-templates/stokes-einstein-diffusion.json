@@ -1,0 +1,45 @@
+{
+  "id": "stokes-einstein-diffusion",
+  "formulaId": "stokes-einstein-diffusion",
+  "variables": [
+    {
+      "symbol": "T",
+      "min": 280,
+      "max": 320,
+      "unit": "K",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "eta",
+      "min": 0.0005,
+      "max": 0.002,
+      "unit": "Pa*s",
+      "sigFigs": 2
+    },
+    {
+      "symbol": "r",
+      "min": 0.0000001,
+      "max": 0.000002,
+      "unit": "m",
+      "sigFigs": 2
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "T",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "eta",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "r",
+      "right": 0
+    }
+  ],
+  "solveFor": "D"
+}

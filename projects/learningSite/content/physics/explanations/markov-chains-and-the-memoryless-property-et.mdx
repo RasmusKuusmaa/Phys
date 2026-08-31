@@ -1,0 +1,26 @@
+Kirjuta üles kõik, mida oleks vaja teada, et arvutada tõenäosused süsteemi
+järgmise sammu jaoks. Kui praegusest olekust piisab — kui teadmine, mis teed
+mööda sinna jõuti, ei lisa midagi — on tegu Markovi protsessiga. See on tugev
+eeldus ja see ei väida, et eellugu on tähtsusetu: just eellugu määras praeguse
+oleku. Öeldakse üksnes, et eellugu mõjub praeguse oleku kaudu, mitte sellest
+mööda.
+
+Kasu seisneb selles, et dünaamika taandub siirdetõenäosuste tabeliks, üks rida
+iga oleku kohta, ja kõik ülejäänu tuleneb selle tabeli korduvast rakendamisest.
+Enamik praktiliselt huvipakkuvaid ahelaid liigub siis statsionaarse jaotuse
+poole — olekute tõenäosused lakkavad muutumast, kuigi üksikud süsteemid hüppavad
+edasi. See ongi tasakaal tõenäosuslikus mõttes: sissevool igasse olekusse
+tasakaalustab väljavoolu ja lähtekoht on ununenud. Kui kaua see unustamine aega
+võtab, on omaette küsimus, ja kahe piirkonna vahel kõrge barjääriga süsteemi
+puhul võib see olla palju pikem kui simulatsioon, mida kavatsesid teha.
+
+Just seepärast on Markovi ahelad füüsikas tõsiselt kasutusel, mitte pelgalt
+mainitud. Radioaktiivne lagunemine on Markovi protsess ja täpselt seetõttu on
+vana tuum statistiliselt samasugune kui uus ning lagunemisseadus
+eksponentsiaalne. Soojuslikult aktiveeritud hüplemine potentsiaalisüvendite
+vahel on Markovi protsess, nii et sama masinavärk sobib ka difusiooniks
+kristallis. Ja kogu Monte Carlo meetod käib statsionaarsest jaotusest tagurpidi:
+vali siirdetõenäosused, mis rahuldavad Boltzmanni teguri suhtes detailset
+tasakaalu, lase ahelal joosta, ja külastatud olekud ongi valim termilisest
+ansamblist — nii muutub statistilise mehaanika ülesanne, mida ei anna
+integreerida, selliseks, mida saab simuleerida.

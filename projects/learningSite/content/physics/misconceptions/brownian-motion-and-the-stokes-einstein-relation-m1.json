@@ -1,0 +1,10 @@
+{
+  "id": "brownian-motion-and-the-stokes-einstein-relation-m1",
+  "conceptId": "brownian-motion-and-the-stokes-einstein-relation",
+  "text": {
+    "en": "Thinking a Brownian particle is pushed by a current, a temperature gradient or some other external influence. Nothing external is needed: a fluid in perfect equilibrium still delivers an uneven hail of molecular collisions, and the imbalance at any instant is what moves the grain. Stir the fluid and you add drift on top, but the jitter is there in still, uniform water and does not stop.",
+    "et": "Arvamus, et Browni osakest lükkab vool, temperatuurigradient või mõni muu välismõju. Midagi välist ei ole vaja: täielikus tasakaalus vedelik annab ikkagi ebaühtlase molekulaarsete põrgete rahe ja just hetkeline tasakaalustamatus liigutabki tera. Vedeliku segamine lisab peale triivi, kuid värin on olemas ka seisvas ühtlases vees ega lakka.",
+    "sourceHash": "ee7e281b547a86d1",
+    "stale": false
+  }
+}

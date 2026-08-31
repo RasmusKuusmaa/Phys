@@ -1,0 +1,53 @@
+{
+  "id": "stokes-einstein-diffusion",
+  "conceptId": "brownian-motion-and-the-stokes-einstein-relation",
+  "latex": "D = \\frac{k_\\mathrm{B} T}{6 \\pi \\eta r}",
+  "symbols": [
+    {
+      "symbol": "D",
+      "name": {
+        "en": "diffusion coefficient",
+        "et": "difusioonitegur",
+        "sourceHash": "ae544b7af8b85bfe",
+        "stale": false
+      },
+      "unit": "m^2/s"
+    },
+    {
+      "symbol": "T",
+      "name": {
+        "en": "temperature",
+        "et": "temperatuur",
+        "sourceHash": "b314ae60cb741e69",
+        "stale": false
+      },
+      "unit": "K"
+    },
+    {
+      "symbol": "eta",
+      "name": {
+        "en": "viscosity",
+        "et": "viskoossus",
+        "sourceHash": "544d7eda1c3efb94",
+        "stale": false
+      },
+      "unit": "Pa*s"
+    },
+    {
+      "symbol": "r",
+      "name": {
+        "en": "radius",
+        "et": "raadius",
+        "sourceHash": "981979a22bad8c7c",
+        "stale": false
+      },
+      "unit": "m"
+    }
+  ],
+  "solveFor": [
+    "D"
+  ],
+  "expressions": {
+    "D": "1.380649*pow(10,-23)*T/(6*3.141592653589793*eta*r)"
+  }
+}
