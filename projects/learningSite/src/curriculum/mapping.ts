@@ -309,6 +309,23 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "critical-phenomena-and-continuous-phase-transitions",
     "liouvilles-theorem-and-phase-space",
   ],
+  // Mapped from the course title and ECTS alone: ÕIS carries no syllabus,
+  // outcomes or summary for this one (`hasSyllabus: false`, zero topics), so
+  // unlike LOFY.04.070 below there is nothing to check the choice against.
+  // What is listed is the standard core of a first stochastics course for
+  // physicists — random walks, Brownian motion, Markov chains — plus the
+  // probability concepts they rest on. Revisit once the syllabus is captured
+  // (Phase 25), since the course may well weight these differently.
+  "LOFY.04.052": [
+    "random-walks-and-diffusion",
+    "brownian-motion-and-the-stokes-einstein-relation",
+    "markov-chains-and-the-memoryless-property",
+    "statistical-distributions-in-measurement",
+    "the-maxwell-boltzmann-distribution",
+    "probability",
+    "random-variables-and-distributions",
+    "common-probability-distributions",
+  ],
   // Mapped against the course's own published topic list (Physicum, spring
   // 2026): continuous systems and fixed-point types, the matrix interlude,
   // the logistic map and bifurcations, Lyapunov exponents and deterministic
