@@ -1260,6 +1260,23 @@ content beyond the degree lives.
       `1/s` was added to the unit registry as distinct from `Hz`, since a
       growth rate is not a count of cycles
   `content: add nonlinear dynamics concepts`
+- [~] Two more physics-track electives, both mapped from the course title
+      because ÕIS has no syllabus for either — weaker evidence than
+      `LOFY.04.070` above, and flagged as such in `mapping.ts` itself.
+      `LOFY.04.052` Stohhastika füüsikutele got a new `stochastic-processes`
+      module: `random-walks-and-diffusion` (the square-root law, with a
+      formula), `brownian-motion-and-the-stokes-einstein-relation` and
+      `markov-chains-and-the-memoryless-property`, alongside the existing
+      probability and measurement concepts. `LOFY.02.020` X-ray structural
+      analysis I got `bragg-diffraction-and-crystal-structure-determination`
+      — Bragg's law existed only as a passing mention inside
+      `crystal-structure-and-lattices` before this, with no formula and no
+      practice. Structure factors, the reciprocal lattice and Rietveld
+      refinement are still absent, so that course is covered as its first
+      half rather than in full. `m^2/s` added to the unit registry;
+      `diffusion coefficient` locked in the glossary against the Estonian
+      Wikipedia article that uses `difusioonitegur`
+  `content: add stochastic processes and Bragg diffraction concepts`
 - [x] Keep `npm run curriculum:coverage -- --extra` meaningful: enrichment stays
       labelled as enrichment and never counts toward degree coverage —
       verified: 4 concepts currently listed as enrichment, required-slot

@@ -309,6 +309,19 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "critical-phenomena-and-continuous-phase-transitions",
     "liouvilles-theorem-and-phase-space",
   ],
+  // Also mapped from the title alone (no syllabus in ÕIS), but the title is
+  // unusually specific about method: X-ray structural analysis is Bragg's law
+  // plus the lattice it is applied to. Structure factors, the reciprocal
+  // lattice and Rietveld refinement are not covered, so this is the first
+  // course of the pair rather than both.
+  "LOFY.02.020": [
+    "bragg-diffraction-and-crystal-structure-determination",
+    "crystal-structure-and-lattices",
+    "x-rays-and-their-production",
+    "interference-and-diffraction",
+    "wave-properties",
+    "measurement-and-precision",
+  ],
   // Mapped from the course title and ECTS alone: ÕIS carries no syllabus,
   // outcomes or summary for this one (`hasSyllabus: false`, zero topics), so
   // unlike LOFY.04.070 below there is nothing to check the choice against.

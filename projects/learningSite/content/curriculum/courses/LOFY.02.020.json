@@ -19,7 +19,14 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "bragg-diffraction-and-crystal-structure-determination",
+    "crystal-structure-and-lattices",
+    "x-rays-and-their-production",
+    "interference-and-diffraction",
+    "wave-properties",
+    "measurement-and-precision"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }
