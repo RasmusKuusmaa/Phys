@@ -1,0 +1,10 @@
+{
+  "id": "si-definitions-traceability-and-calibration-m1",
+  "conceptId": "si-definitions-traceability-and-calibration",
+  "text": {
+    "en": "Thinking the 2019 redefinition changed how big the units are, so that older measurements need correcting. Continuity was a design requirement: the new kilogram agrees with the old artefact to within the uncertainty with which that artefact was known, and nothing in a laboratory notebook became wrong. What changed is where the definition lives — in a fixed constant rather than in a lump of metal that could drift, be damaged, or be reachable only by shipping copies to Paris.",
+    "et": "Arvamus, et 2019. aasta uus määratlus muutis ühikute suurust ja et vanad mõõtmised vajavad seetõttu parandamist. Järjepidevus oli nõue juba kavandamisel: uus kilogramm ühtib vana etaloniga selle mõõtemääramatuse piires, millega etaloni tunti, ja ükski laborimärkmik ei muutunud valeks. Muutus see, kus määratlus asub — fikseeritud konstandis, mitte metallitükis, mis võib triivida, viga saada või olla ligipääsetav ainult koopiate Pariisi saatmise teel.",
+    "sourceHash": "135797e5e75a16a9",
+    "stale": false
+  }
+}

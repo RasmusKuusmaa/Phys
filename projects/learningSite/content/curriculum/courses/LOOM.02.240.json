@@ -18,7 +18,16 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "atmospheric-and-ocean-physics",
+    "the-greenhouse-effect-and-planetary-energy-balance",
+    "heat-transfer-mechanisms",
+    "ideal-gas-law",
+    "phase-transitions",
+    "non-inertial-frames-and-fictitious-forces",
+    "pressure-in-fluids",
+    "blackbody-radiation-and-plancks-law"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

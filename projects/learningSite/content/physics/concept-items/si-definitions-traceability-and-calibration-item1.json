@@ -1,0 +1,56 @@
+{
+  "id": "si-definitions-traceability-and-calibration-item1",
+  "conceptId": "si-definitions-traceability-and-calibration",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A laboratory buys a brand-new six-and-a-half-digit voltmeter and uses it straight from the box for a measurement that will be published. What does the instrument still lack?",
+    "et": "Labor ostab uue kuue ja poole kohaga voltmeetri ning kasutab seda otse karbist avaldamisele minevaks mõõtmiseks. Mis mõõteriistal endiselt puudub?",
+    "sourceHash": "0db8a524faf00b24",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A traceable calibration: a documented comparison, with its own uncertainty, linking its scale back to a realisation of the volt",
+        "et": "Jälgitav kalibreerimine: dokumenteeritud võrdlus koos oma mõõtemääramatusega, mis seob selle skaala voldi taasesitusega",
+        "sourceHash": "b1e06b1a6c0c3cf1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing — the resolution is high enough that the reading is accurate by construction",
+        "et": "Mitte midagi — lahutusvõime on nii suur, et näit on juba oma ehituse poolest täpne",
+        "sourceHash": "e709e8277d04043f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "si-definitions-traceability-and-calibration-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A correction for the 2019 SI redefinition, since the size of the volt changed and older instruments read differently",
+        "et": "Parand 2019. aasta SI uue määratluse jaoks, sest voldi suurus muutus ja vanemad mõõteriistad näitavad teisiti",
+        "sourceHash": "c699ff67dbd44ef7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "si-definitions-traceability-and-calibration-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing, provided a certificate is obtained later — a certificate certifies that the instrument reads correctly from then on",
+        "et": "Mitte midagi, kui tunnistus hiljem hankida — tunnistus kinnitab, et mõõteriist näitab sellest hetkest alates õigesti",
+        "sourceHash": "796e1a047a562fa5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "si-definitions-traceability-and-calibration-m2"
+    }
+  ]
+}

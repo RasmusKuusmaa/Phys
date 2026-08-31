@@ -1,0 +1,23 @@
+{
+  "id": "si-definitions-traceability-and-calibration",
+  "subject": "physics",
+  "level": "L2",
+  "module": "measurement",
+  "title": {
+    "en": "SI definitions, traceability and calibration",
+    "et": "SI määratlused, jälgitavus ja kalibreerimine",
+    "sourceHash": "c3968efced9816e1",
+    "stale": false
+  },
+  "summary": {
+    "en": "Since 2019 every SI base unit is defined by fixing the numerical value of a constant of nature — the second from a caesium transition, the metre from the speed of light, the kilogram from the Planck constant — so the last physical artefact, the platinum-iridium kilogram in Paris, was retired and any laboratory with the right apparatus can realise a unit from first principles. Getting from that definition to a number on a bench instrument is what traceability means: an unbroken chain of calibrations, each with its own stated uncertainty, linking the instrument back to a realisation of the definition. A reading without that chain is a number without provenance, however many digits it shows.",
+    "et": "Alates 2019. aastast on iga SI põhiühik määratud looduskonstandi arvväärtuse fikseerimise kaudu — sekund tseesiumi siirde, meeter valguse kiiruse ja kilogramm Plancki konstandi kaudu — nii et viimane füüsiline etalon, Pariisis hoitav plaatina-iriidiumkilogramm, võeti kasutuselt maha ja iga sobiva aparatuuriga labor saab ühiku algpõhimõtetest lähtudes taasesitada. Sellest määratlusest lauapealse mõõteriista näiduni jõudmine ongi jälgitavus: katkematu kalibreerimiste ahel, igaühel oma esitatud mõõtemääramatus, mis seob mõõteriista määratluse taasesitusega. Ilma selle ahelata on näit päritoluta arv, olgu tal kui palju kohti tahes.",
+    "sourceHash": "578cb649a60ccde7",
+    "stale": false
+  },
+  "prerequisites": [
+    "physical-quantities-and-units",
+    "measurement-and-precision",
+    "uncertainty-and-error"
+  ]
+}

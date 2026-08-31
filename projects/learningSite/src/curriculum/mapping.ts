@@ -309,6 +309,55 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "critical-phenomena-and-continuous-phase-transitions",
     "liouvilles-theorem-and-phase-space",
   ],
+  // No syllabus in ÕIS. Mapped as the macroscopic-field material the platform
+  // already has: Maxwell's equations, waves in media, dielectrics and
+  // magnetisation, radiation from a dipole. What the title's "microscopic"
+  // actually promises — deriving the constitutive relations by averaging over
+  // the molecular fields, dispersion models, retarded potentials — is not
+  // here, so this is covered in substance but not at the course's own level.
+  "LOFY.04.040": [
+    "maxwells-equations",
+    "electromagnetic-waves-in-media",
+    "dielectrics-and-capacitor-energy",
+    "magnetic-materials-and-ferromagnetic-hysteresis",
+    "electric-dipole-radiation",
+    "the-poynting-vector",
+    "polarization-of-light",
+    "dispersion-and-chromatic-effects",
+    "gausss-law",
+    "amperes-law",
+  ],
+  // No syllabus in ÕIS. The physics of the atmosphere — hydrostatic balance,
+  // adiabatic ascent, the radiation balance, rotation-driven circulation — is
+  // covered by existing concepts; the meteorology proper is not. Cloud
+  // microphysics, fronts and air masses, synoptic charts and forecasting
+  // practice would each need their own concept, and none exists.
+  "LOOM.02.240": [
+    "atmospheric-and-ocean-physics",
+    "the-greenhouse-effect-and-planetary-energy-balance",
+    "heat-transfer-mechanisms",
+    "ideal-gas-law",
+    "phase-transitions",
+    "non-inertial-frames-and-fictitious-forces",
+    "pressure-in-fluids",
+    "blackbody-radiation-and-plancks-law",
+  ],
+  // No syllabus in ÕIS. `si-definitions-traceability-and-calibration` was
+  // written for this course: the platform taught units and uncertainty but
+  // nothing about where a unit's value comes from or how an instrument is
+  // tied back to it, which is most of what a metrology course is. Legal
+  // metrology, conformity assessment and the GUM's formal machinery for
+  // combining uncertainty budgets are not covered.
+  "LOFY.01.037": [
+    "si-definitions-traceability-and-calibration",
+    "physical-quantities-and-units",
+    "measurement-and-precision",
+    "uncertainty-and-error",
+    "combining-uncertainties",
+    "propagation-of-uncertainty-in-functions",
+    "significant-figures",
+    "statistical-distributions-in-measurement",
+  ],
   // No syllabus in ÕIS. The vacuum half is now covered properly —
   // `mean-free-path-and-vacuum-regimes` was written for it, since the
   // viscous/free-molecular crossover that decides how a system is pumped

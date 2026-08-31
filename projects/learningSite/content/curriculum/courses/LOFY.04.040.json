@@ -18,7 +18,18 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "maxwells-equations",
+    "electromagnetic-waves-in-media",
+    "dielectrics-and-capacitor-energy",
+    "magnetic-materials-and-ferromagnetic-hysteresis",
+    "electric-dipole-radiation",
+    "the-poynting-vector",
+    "polarization-of-light",
+    "dispersion-and-chromatic-effects",
+    "gausss-law",
+    "amperes-law"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

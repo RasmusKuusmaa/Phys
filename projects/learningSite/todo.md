@@ -1291,20 +1291,29 @@ content beyond the degree lives.
       Joule-Thomson inversion or cryostat design for the cryogenic half of
       LOFY.01.026. `diameter` added to the glossary
   `content: cover astronomy, applied quantum physics and vacuum technology`
-- [ ] Physics-track electives still uncovered, in rough order of how much new
-      content each needs: `LOFY.01.037` metrology (SI redefinition,
-      traceability, calibration chains — needs 1-2 concepts), `LOFY.04.040`
-      microscopic electrodynamics (mostly mappable), `LOOM.02.240`
-      meteorology (mappable plus a lapse-rate/stability concept),
-      `LOFY.02.013` thin films and `LOFY.02.045` nanoelectronic materials
-      (both need deposition and quantum-confinement content), `LOFY.05.032`
-      air pollution monitoring. `LOFY.01.021` Engineering graphics has a
-      real 16-topic syllabus but is technical drawing, not physics, chemistry
-      or materials — closer to the excluded seminars than to a subject this
-      platform teaches, and it should be decided deliberately rather than
-      drifted into. The five seminar, placement and project courses stay
-      excluded for the reason already recorded above
-  `content: cover the remaining physics electives`
+- [~] `LOFY.01.037` metrology, `LOFY.04.040` microscopic electrodynamics and
+      `LOOM.02.240` meteorology. Metrology needed
+      `si-definitions-traceability-and-calibration` — the platform taught
+      units and uncertainty but nothing about where a unit's value comes from
+      or how an instrument is tied back to one. The other two were mappings,
+      each recording its own shortfall: microscopic electrodynamics is
+      covered in substance but at the macroscopic level, without averaging
+      over molecular fields or retarded potentials, and meteorology is
+      covered as atmospheric physics with no cloud microphysics, fronts or
+      forecasting practice
+  `content: cover metrology, microscopic electrodynamics and meteorology`
+- [ ] Three physics-track electives still uncovered, all needing content that
+      does not exist yet rather than a mapping: `LOFY.02.013` thin films
+      (deposition, nucleation and growth), `LOFY.02.045` nanoelectronic
+      materials (quantum confinement, low-dimensional density of states) and
+      `LOFY.05.032` air pollution monitoring (aerosols, sampling and
+      instrumentation). `LOFY.01.021` Engineering graphics has a real
+      16-topic syllabus but is technical drawing, not physics, chemistry or
+      materials — closer to the excluded seminars than to a subject this
+      platform teaches, and worth deciding deliberately rather than drifting
+      into. The five seminar, placement and project courses stay excluded for
+      the reason already recorded above
+  `content: cover the last physics electives`
 - [x] Keep `npm run curriculum:coverage -- --extra` meaningful: enrichment stays
       labelled as enrichment and never counts toward degree coverage —
       verified: 4 concepts currently listed as enrichment, required-slot

@@ -1,0 +1,10 @@
+{
+  "id": "si-definitions-traceability-and-calibration-m2",
+  "conceptId": "si-definitions-traceability-and-calibration",
+  "text": {
+    "en": "Reading a calibration certificate as a stamp saying the instrument is correct. It says something narrower and more useful: on this date, against this reference, the instrument read high or low by this amount, with this uncertainty. That is a correction you are expected to apply, not a guarantee — and it decays, which is why calibration intervals exist and why an instrument that has been dropped is due for recalibration whatever the date on the certificate says.",
+    "et": "Kalibreerimistunnistuse lugemine templina, mis ütleb, et mõõteriist on õige. Tegelikult ütleb see midagi kitsamat ja kasulikumat: sellel kuupäeval, selle etaloni suhtes, näitas mõõteriist niipalju üle või alla, sellise mõõtemääramatusega. See on parand, mida oodatakse rakendatavat, mitte garantii — ja see vananeb, mistõttu on olemas kalibreerimisintervallid ja mistõttu vajab maha kukkunud mõõteriist uut kalibreerimist sõltumata tunnistusel olevast kuupäevast.",
+    "sourceHash": "eae81383671a3879",
+    "stale": false
+  }
+}

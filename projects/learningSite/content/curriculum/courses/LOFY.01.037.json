@@ -19,7 +19,16 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "si-definitions-traceability-and-calibration",
+    "physical-quantities-and-units",
+    "measurement-and-precision",
+    "uncertainty-and-error",
+    "combining-uncertainties",
+    "propagation-of-uncertainty-in-functions",
+    "significant-figures",
+    "statistical-distributions-in-measurement"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

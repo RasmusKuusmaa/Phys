@@ -1,0 +1,10 @@
+{
+  "id": "si-definitions-traceability-and-calibration-m3",
+  "conceptId": "si-definitions-traceability-and-calibration",
+  "text": {
+    "en": "Taking extra digits on the display as evidence of accuracy, and so treating a high-resolution instrument as automatically traceable. Resolution is what the instrument can distinguish; traceability is whether its scale is tied to the definition through documented comparisons. A six-and-a-half-digit meter that has never been calibrated can be reliably wrong in the third digit and will keep reporting the other three with perfect confidence.",
+    "et": "Ekraanil olevate lisakohtade pidamine täpsuse tõendiks ja seeläbi suure lahutusvõimega mõõteriista automaatselt jälgitavaks pidamine. Lahutusvõime ütleb, mida mõõteriist suudab eristada; jälgitavus ütleb, kas tema skaala on dokumenteeritud võrdluste kaudu määratlusega seotud. Kunagi kalibreerimata kuue ja poole kohaga multimeeter võib olla kolmandas kohas järjekindlalt vale ja esitab ülejäänud kolm sama enesekindlalt edasi.",
+    "sourceHash": "f38f29b3e63f6830",
+    "stale": false
+  }
+}
