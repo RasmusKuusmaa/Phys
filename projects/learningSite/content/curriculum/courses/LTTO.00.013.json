@@ -18,7 +18,20 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "stellar-classification-and-the-hertzsprung-russell-diagram",
+    "stellar-evolution-and-compact-objects",
+    "solar-system-formation-and-planetary-astronomy",
+    "hubbles-law-and-the-expanding-universe",
+    "dark-matter-and-galactic-structure",
+    "general-relativity-and-cosmological-models",
+    "keplers-laws",
+    "newtonian-gravitation",
+    "blackbody-radiation-and-plancks-law",
+    "spectroscopy",
+    "the-doppler-effect",
+    "optical-instruments-and-magnification"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }

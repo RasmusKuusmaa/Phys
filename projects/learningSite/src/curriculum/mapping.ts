@@ -309,6 +309,45 @@ export const COURSE_CONCEPTS: Record<string, readonly string[]> = {
     "critical-phenomena-and-continuous-phase-transitions",
     "liouvilles-theorem-and-phase-space",
   ],
+  // No syllabus in ÕIS. Read as the applied half of the quantum material the
+  // platform already teaches — tunnelling, wells, band structure, doping,
+  // lasers, superconductivity — rather than as a second theory course, since
+  // `LOFY.04.073` above already carries the formalism. Device engineering
+  // (heterostructures, fabrication, real transistor design) is not covered.
+  "LOFY.03.030": [
+    "quantum-tunneling",
+    "potential-steps-and-finite-wells",
+    "particle-in-a-box",
+    "band-theory-of-solids",
+    "semiconductors-and-doping",
+    "lasers-and-stimulated-emission",
+    "superconductivity",
+    "quantum-statistics-fermi-dirac-and-bose-einstein",
+    "the-pauli-exclusion-principle",
+    "photoelectric-effect",
+    "de-broglie-wavelength",
+    "quantum-energy-levels",
+  ],
+  // No syllabus in ÕIS, but a general astronomy survey is one of the few
+  // courses whose scope can be inferred from its name without much risk, and
+  // the platform's astrophysics and planetary-physics modules were written to
+  // cover exactly this ground. Observational technique — telescopes,
+  // photometry, coordinate systems, practical night-sky work — is not here,
+  // so a 6 EAP course is covered on its physics content and not on its craft.
+  "LTTO.00.013": [
+    "stellar-classification-and-the-hertzsprung-russell-diagram",
+    "stellar-evolution-and-compact-objects",
+    "solar-system-formation-and-planetary-astronomy",
+    "hubbles-law-and-the-expanding-universe",
+    "dark-matter-and-galactic-structure",
+    "general-relativity-and-cosmological-models",
+    "keplers-laws",
+    "newtonian-gravitation",
+    "blackbody-radiation-and-plancks-law",
+    "spectroscopy",
+    "the-doppler-effect",
+    "optical-instruments-and-magnification",
+  ],
   // Also mapped from the title alone (no syllabus in ÕIS), but the title is
   // unusually specific about method: X-ray structural analysis is Bragg's law
   // plus the lattice it is applied to. Structure factors, the reciprocal

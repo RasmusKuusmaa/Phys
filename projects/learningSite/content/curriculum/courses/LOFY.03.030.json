@@ -19,7 +19,20 @@
   "outcomes": [],
   "summary": "",
   "topics": [],
-  "conceptIds": [],
+  "conceptIds": [
+    "quantum-tunneling",
+    "potential-steps-and-finite-wells",
+    "particle-in-a-box",
+    "band-theory-of-solids",
+    "semiconductors-and-doping",
+    "lasers-and-stimulated-emission",
+    "superconductivity",
+    "quantum-statistics-fermi-dirac-and-bose-einstein",
+    "the-pauli-exclusion-principle",
+    "photoelectric-effect",
+    "de-broglie-wavelength",
+    "quantum-energy-levels"
+  ],
   "sourceFiles": [],
   "hasSyllabus": false
 }
