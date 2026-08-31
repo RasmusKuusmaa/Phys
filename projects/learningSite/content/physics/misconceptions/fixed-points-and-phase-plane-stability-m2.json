@@ -1,0 +1,10 @@
+{
+  "id": "fixed-points-and-phase-plane-stability-m2",
+  "conceptId": "fixed-points-and-phase-plane-stability",
+  "text": {
+    "en": "Assuming a fixed point must be either attracting or repelling, so one negative eigenvalue is enough to call it stable. A saddle does both at once: it pulls trajectories in along one direction and throws them out along another, and since almost no real perturbation lands exactly on the incoming direction, almost every nearby state approaches for a while and then leaves.",
+    "et": "Eeldus, et püsipunkt peab olema kas tõmbav või tõukav, ja et üksainus negatiivne omaväärtus lubab seda juba stabiilseks nimetada. Sadulpunkt teeb mõlemat korraga: ta tõmbab trajektoore ligi mööda üht suunda ja paiskab neid välja mööda teist, ning kuna ükski päris häiritus ei satu täpselt sissetulevale suunale, läheneb peaaegu iga lähedane olek mõnda aega ja lahkub siis.",
+    "sourceHash": "5054a877c857ff32",
+    "stale": false
+  }
+}

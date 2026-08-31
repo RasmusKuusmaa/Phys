@@ -1,0 +1,56 @@
+{
+  "id": "fixed-points-and-phase-plane-stability-item1",
+  "conceptId": "fixed-points-and-phase-plane-stability",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A rigid pendulum is described in the phase plane of angle against angular velocity. Linearising about the upright position gives two real eigenvalues of opposite sign. What does that say about the motion near upright?",
+    "et": "Jäika pendlit kirjeldatakse faasitasandil, kus nurga vastas on nurkkiirus. Püstise asendi ümbruses lineariseerimine annab kaks vastasmärgilist reaalset omaväärtust. Mida see püstise asendi lähedase liikumise kohta ütleb?",
+    "sourceHash": "eef3f83596d07d5a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is a saddle: there is one special direction along which trajectories approach, but every other nearby state is eventually thrown away from upright",
+        "et": "Tegu on sadulpunktiga: on üks eriline suund, mida mööda trajektoorid lähenevad, kuid iga muu lähedane olek paisatakse lõpuks püstisest asendist eemale",
+        "sourceHash": "41d80a8b76271a39",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "One eigenvalue is negative, so the point attracts and the pendulum settles into the upright position",
+        "et": "Üks omaväärtus on negatiivne, seega punkt tõmbab ligi ja pendel jääb püstisesse asendisse",
+        "sourceHash": "bb8e6d4f88e90e36",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fixed-points-and-phase-plane-stability-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The eigenvalues describe a system at rest, so they say nothing about a pendulum that is actually swinging",
+        "et": "Omaväärtused kirjeldavad paigalseisvat süsteemi, seega ei ütle need midagi tegelikult kõikuva pendli kohta",
+        "sourceHash": "58e59dfe2ba7227a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fixed-points-and-phase-plane-stability-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing follows from the eigenvalues at all, because only the full nonlinear equation can ever decide stability",
+        "et": "Omaväärtustest ei järeldu midagi, sest stabiilsuse saab otsustada ainult täielik mittelineaarne võrrand",
+        "sourceHash": "e94f3f7abe7bbfd6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fixed-points-and-phase-plane-stability-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "fixed-points-and-phase-plane-stability-m3",
+  "conceptId": "fixed-points-and-phase-plane-stability",
+  "text": {
+    "en": "Treating the linearisation as the whole answer, in both directions: either trusting it always, or dismissing it as \"only an approximation\" that decides nothing. Eigenvalues with a non-zero real part do settle the local behaviour — that is a theorem, not a guess — but when the real parts are exactly zero, a centre in the linear picture, the discarded nonlinear terms decide whether the real trajectories creep inwards, creep outwards, or genuinely close, and there the linear analysis is silent.",
+    "et": "Linearisatsiooni pidamine kogu vastuseks, seda mõlemas suunas: kas alati usaldamine või kõrvaleheitmine kui \"pelgalt ligikaudsus\", mis midagi ei otsusta. Nullist erineva reaalosaga omaväärtused määravad kohaliku käitumise tõesti ära — see on teoreem, mitte oletus — kuid siis, kui reaalosad on täpselt nullid ehk lineaarses pildis on tegu tsentriga, otsustavad ärajäetud mittelineaarsed liikmed, kas päris trajektoorid hiilivad sissepoole, väljapoole või sulguvad tõepoolest, ja seal lineaarne analüüs vaikib.",
+    "sourceHash": "24746ef9d080864b",
+    "stale": false
+  }
+}

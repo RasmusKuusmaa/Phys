@@ -1,0 +1,21 @@
+{
+  "id": "fixed-points-and-phase-plane-stability",
+  "subject": "physics",
+  "level": "L3",
+  "module": "nonlinear-dynamics",
+  "title": {
+    "en": "Fixed points and phase-plane stability",
+    "et": "Püsipunktid ja faasitasandi stabiilsus",
+    "sourceHash": "3456572e7e36f7db",
+    "stale": false
+  },
+  "summary": {
+    "en": "A fixed point is a state at which every rate of change vanishes, so a system left exactly there stays there — and drawing the trajectories in the phase plane (position against velocity, say) turns the question of whether it stays there when nudged into geometry: linearise about the point, and the eigenvalues of the resulting 2×2 matrix decide whether nearby trajectories spiral in, are thrown out along a preferred direction, or circle indefinitely, which is why a pendulum hanging down and the same pendulum balanced upright are one equation with two completely different fixed points.",
+    "et": "Püsipunkt on olek, kus kõik muutumiskiirused on nullid, nii et täpselt sinna jäetud süsteem püsibki seal — ja trajektooride joonistamine faasitasandil (näiteks asend kiiruse vastu) muudab küsimuse, kas süsteem sinna ka tõuke järel jääb, geomeetriliseks: kui punkti ümbruses lineariseerida, otsustavad tekkiva 2×2 maatriksi omaväärtused, kas lähedased trajektoorid keerduvad sisse, paisatakse mööda eelissuunda välja või tiirlevad lõputult ringi; just seetõttu on alla rippuv pendel ja sama pendel püstises tasakaalus üks võrrand kahe täiesti erineva püsipunktiga.",
+    "sourceHash": "8906a6256084ecb6",
+    "stale": false
+  },
+  "prerequisites": [
+    "damped-oscillations"
+  ]
+}

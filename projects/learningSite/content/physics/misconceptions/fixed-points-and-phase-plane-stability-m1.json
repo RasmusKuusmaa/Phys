@@ -1,0 +1,10 @@
+{
+  "id": "fixed-points-and-phase-plane-stability-m1",
+  "conceptId": "fixed-points-and-phase-plane-stability",
+  "text": {
+    "en": "Reading \"fixed point\" as \"nothing is happening\" — what vanishes is the rate of change of the state variables, not the activity inside the system. A chemical reactor held at a steady concentration sits at a fixed point while reactions run flat out in both directions, and a steadily spinning rotor is a fixed point of the equation for its angular velocity even though it is visibly moving.",
+    "et": "Sõna \"püsipunkt\" mõistmine tähenduses \"midagi ei toimu\" — nulliks muutuvad olekumuutujate muutumiskiirused, mitte süsteemisisene tegevus. Püsival kontsentratsioonil hoitav keemiareaktor on püsipunktis ka siis, kui reaktsioonid käivad täie hooga mõlemas suunas, ja ühtlaselt pöörlev rootor on oma nurkkiiruse võrrandi püsipunkt, kuigi ta nähtavalt liigub.",
+    "sourceHash": "b9d4364fb3eb4fa6",
+    "stale": false
+  }
+}

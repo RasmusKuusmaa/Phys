@@ -1,0 +1,30 @@
+Instead of plotting position against time, plot position against velocity. Each
+state of the system is then a single point, and the equations of motion become a
+flow: through every point runs one arrow saying where the state goes next. A
+whole solution is a curve threaded along those arrows, and the picture of all of
+them together is the phase portrait. Fixed points are where the arrow has zero
+length — put the system exactly there and it never moves. A pendulum has two of
+them within one full turn: hanging straight down, and balanced straight up.
+
+Both are fixed points, but nobody would call them equally stable, and the
+difference is visible in the flow around each one. To get at it quantitatively,
+write the state as the fixed point plus a small offset and keep only the terms
+linear in that offset. What is left is a 2×2 matrix, and its eigenvalues say what
+happens to the offset: a negative real part means it decays, so trajectories come
+in; a positive real part means it grows, so they leave; an imaginary part means
+the offset rotates while it does either. That gives the standard catalogue —
+stable and unstable nodes, spirals, and the saddle, which has one eigenvalue of
+each sign and so attracts along one direction while repelling along another. The
+upright pendulum is a saddle, which is exactly why balancing it is possible in
+principle and hopeless in practice: only a perturbation aimed exactly along the
+incoming direction ever falls back.
+
+There is one case the linear analysis genuinely cannot settle. When both
+eigenvalues are purely imaginary, the linearised picture shows closed orbits — a
+centre — but the terms just discarded are the same size as the effect being
+predicted, so whether the true trajectories spiral slowly in, slowly out, or
+close exactly is decided by the nonlinear terms. An undamped pendulum really does
+have closed orbits; add the slightest damping and the centre becomes an inward
+spiral. That borderline case is not a defect of the method so much as the place
+where nonlinear dynamics starts: it is where limit cycles, bifurcations and
+eventually chaos all live.
