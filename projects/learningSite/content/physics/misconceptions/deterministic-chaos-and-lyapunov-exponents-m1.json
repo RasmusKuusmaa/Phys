@@ -1,0 +1,10 @@
+{
+  "id": "deterministic-chaos-and-lyapunov-exponents-m1",
+  "conceptId": "deterministic-chaos-and-lyapunov-exponents",
+  "text": {
+    "en": "Equating chaos with randomness. A chaotic system is deterministic: start it twice from exactly the same state and it repeats itself exactly, and there is no noise term anywhere in the equations. What is unpredictable is the consequence of the state never being known exactly — the sensitivity is to the initial condition, not to hidden dice.",
+    "et": "Kaose samastamine juhuslikkusega. Kaootiline süsteem on determineeritud: käivita see kaks korda täpselt samast olekust ja see kordab end täpselt, ning võrrandites ei ole kusagil müraliiget. Ennustamatus tuleneb sellest, et olekut ei teata kunagi täpselt — tundlikkus käib algtingimuse, mitte peidetud täringute kohta.",
+    "sourceHash": "c68b3317121c43f8",
+    "stale": false
+  }
+}

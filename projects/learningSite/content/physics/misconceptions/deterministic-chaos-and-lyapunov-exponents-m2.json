@@ -1,0 +1,10 @@
+{
+  "id": "deterministic-chaos-and-lyapunov-exponents-m2",
+  "conceptId": "deterministic-chaos-and-lyapunov-exponents",
+  "text": {
+    "en": "Taking a positive Lyapunov exponent to mean the motion itself grows without bound. What separates exponentially is the gap between two nearby trajectories, not the trajectories themselves: chaotic motion stays on a bounded attractor, and the exponential law describes the early growth of a small separation, stopping once that gap is comparable to the attractor's own size. A ball rolling off a hilltop also has a positive exponent and is not chaotic, precisely because it never comes back.",
+    "et": "Positiivse Ljapunovi eksponendi mõistmine nii, nagu kasvaks liikumine ise üle iga piiri. Eksponentsiaalselt kasvab kahe lähedase trajektoori vahe, mitte trajektoorid ise: kaootiline liikumine jääb tõkestatud atraktorile ja eksponentsiaalne seadus kirjeldab väikese hälbe kasvu algusfaasis, lakates niipea, kui hälve on atraktori enda mõõtmetega võrreldav. Ka mäetipult veerema hakkaval pallil on positiivne eksponent ja kaootiline ta ei ole — just sellepärast, et ta ei tule kunagi tagasi.",
+    "sourceHash": "a452f5e8b011a0b4",
+    "stale": false
+  }
+}

@@ -1,0 +1,31 @@
+Run a chaotic system twice from exactly the same starting state and you get
+exactly the same trajectory: nothing in the equations is random. Run it from two
+states that differ by a millionth of a millimetre and the two agree for a while,
+then drift apart until they have nothing to do with each other. That is the whole
+of chaos — deterministic rules, plus a separation between neighbours that grows
+exponentially rather than steadily.
+
+The Lyapunov exponent is the growth rate in that exponential: a small initial
+separation is multiplied by e raised to the exponent times the elapsed time, so
+the reciprocal of the exponent is roughly how long a small error takes to triple.
+The sign is what matters most. Negative means neighbouring states converge and
+the motion is predictable; zero means they drift apart only in proportion to
+time; positive means the system forgets its initial condition at a definite rate.
+Two details keep the definition honest. The exponent is an average over the
+attractor, because the stretching rate differs from point to point on it, and the
+exponential law describes only the early growth — once the separation is as large
+as the attractor itself, the two trajectories are just two unrelated points on
+the same object and the gap cannot widen further.
+
+That bound is exactly what separates chaos from ordinary instability. A ball
+balanced on a hilltop also has a positive exponent, but it rolls away and never
+returns, while a chaotic system keeps folding back on itself, stretching along
+one direction and squeezing along another — which is what builds the layered
+structure of a strange attractor. The practical consequence is the forecast
+horizon. Errors compound multiplicatively while precision is bought additively:
+measuring the initial state a hundred times better extends the useful forecast by
+the natural logarithm of a hundred divided by the exponent, a fixed number of
+days rather than a hundredfold gain. That is why a weather model whose exponent
+is about half a day inverse gains a week or so of skill from a vastly better
+observing network, and why no instrument will ever deliver a useful three-month
+forecast.

@@ -1601,5 +1601,12 @@
     "et": "korrastusparameeter",
     "domain": "statistical-mechanics",
     "source": "https://et.wikipedia.org/wiki/Faasisiire"
+  },
+  {
+    "id": "lyapunov-exponent",
+    "en": "Lyapunov exponent",
+    "et": "Ljapunovi eksponent",
+    "domain": "mechanics",
+    "source": "https://ois2.taltech.ee/uusois/aine/OIS3_YFX1560"
   }
 ]

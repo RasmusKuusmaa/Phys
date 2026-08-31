@@ -1,0 +1,45 @@
+{
+  "id": "lyapunov-separation-growth",
+  "formulaId": "lyapunov-separation-growth",
+  "variables": [
+    {
+      "symbol": "d0",
+      "min": 0.001,
+      "max": 0.05,
+      "unit": "m",
+      "sigFigs": 2
+    },
+    {
+      "symbol": "lambda",
+      "min": 0.05,
+      "max": 0.2,
+      "unit": "1/s",
+      "sigFigs": 2
+    },
+    {
+      "symbol": "t",
+      "min": 5,
+      "max": 20,
+      "unit": "s",
+      "sigFigs": 2
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "d0",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "lambda",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "t",
+      "right": 0
+    }
+  ],
+  "solveFor": "d"
+}

@@ -109,6 +109,15 @@ export const unitRegistry: Record<string, UnitDefinition> = {
     dimension: dim({ temperature: -1 }),
     toBase: 1,
   },
+  // Distinct from Hz on purpose: a growth or decay rate is not a count of
+  // cycles per second, and labelling a Lyapunov exponent in hertz would
+  // invite reading it as a frequency.
+  "1/s": {
+    symbol: "1/s",
+    name: { en: "per second", et: "sekundi kohta" },
+    dimension: dim({ time: -1 }),
+    toBase: 1,
+  },
   "kg/mol": {
     symbol: "kg/mol",
     name: { en: "kilogram per mole", et: "kilogramm mooli kohta" },

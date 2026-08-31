@@ -1,0 +1,10 @@
+{
+  "id": "deterministic-chaos-and-lyapunov-exponents-m3",
+  "conceptId": "deterministic-chaos-and-lyapunov-exponents",
+  "text": {
+    "en": "Assuming better initial data buys proportionally more prediction. Because the error grows exponentially, measuring the starting state a hundred times more precisely does not multiply the useful forecast by a hundred — it adds a fixed amount of time, the natural logarithm of a hundred divided by the Lyapunov exponent. Precision buys time additively while the error compounds multiplicatively, which is why forecast horizons creep forward by days over decades of instrument improvement.",
+    "et": "Eeldus, et täpsemad algandmed ostavad võrdeliselt rohkem ennustust. Kuna viga kasvab eksponentsiaalselt, ei korruta algoleku sada korda täpsem mõõtmine kasulikku ennustusaega sajaga — see lisab kindla ajavahemiku, saja naturaallogaritmi jagatuna Ljapunovi eksponendiga. Täpsus ostab aega liitmise teel, samal ajal kui viga kasvab korrutamise teel; just seepärast nihkub ennustushorisont mõõteriistade aastakümnete pikkuse paranemise jooksul edasi vaid päevade kaupa.",
+    "sourceHash": "802921990f447baa",
+    "stale": false
+  }
+}

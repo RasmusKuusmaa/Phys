@@ -1,0 +1,21 @@
+{
+  "id": "deterministic-chaos-and-lyapunov-exponents",
+  "subject": "physics",
+  "level": "L3",
+  "module": "nonlinear-dynamics",
+  "title": {
+    "en": "Deterministic chaos and Lyapunov exponents",
+    "et": "Determineeritud kaos ja Ljapunovi eksponendid",
+    "sourceHash": "ec6a3ceeed811040",
+    "stale": false
+  },
+  "summary": {
+    "en": "Chaos is what a fully deterministic system does when nearby states pull apart exponentially fast: no randomness anywhere in the equations, yet two starting conditions that differ in the tenth decimal place end up on entirely different trajectories. The Lyapunov exponent measures that rate — a small separation grows roughly as an exponential of the exponent times elapsed time, so its reciprocal sets the time scale on which prediction decays — and a positive exponent together with motion that stays bounded is what marks genuine chaos rather than a system simply running away, which is why weather has a forecast horizon of days no matter how good the instruments get.",
+    "et": "Kaos on see, mida teeb täielikult determineeritud süsteem, mille lähedased olekud eemalduvad teineteisest eksponentsiaalselt kiiresti: võrrandites ei ole kusagil juhuslikkust, ent kaks algtingimust, mis erinevad kümnendas kohas pärast koma, satuvad täiesti erinevatele trajektooridele. Ljapunovi eksponent mõõdab seda kiirust — väike hälve kasvab ligikaudu eksponentsiaalselt eksponendi ja kulunud aja korrutise järgi, nii et selle pöördväärtus annab ajaskaala, millel ennustatavus kaob — ning just positiivne eksponent koos tõkestatuks jääva liikumisega eristab tõelist kaost süsteemist, mis lihtsalt kaugeneb; seetõttu on ilmal päevades mõõdetav ennustushorisont, ükskõik kui heaks mõõteriistad ka ei muutu.",
+    "sourceHash": "e6c07e0fd773f7b8",
+    "stale": false
+  },
+  "prerequisites": [
+    "bifurcations-and-stability-loss"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "lyapunov-separation-growth",
+  "conceptId": "deterministic-chaos-and-lyapunov-exponents",
+  "latex": "d = d_0 e^{\\lambda t}",
+  "symbols": [
+    {
+      "symbol": "d",
+      "name": {
+        "en": "distance",
+        "et": "kaugus",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "d0",
+      "name": {
+        "en": "distance",
+        "et": "kaugus",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "lambda",
+      "name": {
+        "en": "Lyapunov exponent",
+        "et": "Ljapunovi eksponent",
+        "sourceHash": "e396a6cc3d8e5ba5",
+        "stale": false
+      },
+      "unit": "1/s"
+    },
+    {
+      "symbol": "t",
+      "name": {
+        "en": "time",
+        "et": "aeg",
+        "sourceHash": "336074805fc85398",
+        "stale": false
+      },
+      "unit": "s"
+    }
+  ],
+  "solveFor": [
+    "d"
+  ],
+  "expressions": {
+    "d": "d0*exp(lambda*t)"
+  }
+}

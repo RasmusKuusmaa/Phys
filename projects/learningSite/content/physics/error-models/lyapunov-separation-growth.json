@@ -1,0 +1,37 @@
+{
+  "id": "lyapunov-separation-growth",
+  "formulaId": "lyapunov-separation-growth",
+  "solveFor": "d",
+  "mistakes": [
+    {
+      "id": "linear-instead-of-exponential",
+      "description": {
+        "en": "Treated the separation as growing at a steady rate rather than exponentially, using one plus the exponent times the time in place of the exponential.",
+        "et": "Käsitles hälbe kasvu ühtlase kiirusega, mitte eksponentsiaalsena, kasutades eksponentfunktsiooni asemel ühte pluss eksponendi ja aja korrutist.",
+        "sourceHash": "3da8c6dc9f202da2",
+        "stale": false
+      },
+      "expression": "d0*(1+lambda*t)"
+    },
+    {
+      "id": "dropped-the-initial-separation",
+      "description": {
+        "en": "Left out the initial separation, reporting the growth factor itself as if it were a distance.",
+        "et": "Jättis algse hälbe välja ja esitas kasvuteguri enda kaugusena.",
+        "sourceHash": "0c2152d8cda8a817",
+        "stale": false
+      },
+      "expression": "exp(lambda*t)"
+    },
+    {
+      "id": "decay-sign-slip",
+      "description": {
+        "en": "Put a minus sign in the exponent, so a positive Lyapunov exponent was read as a decaying disturbance instead of a growing one.",
+        "et": "Pani eksponenti miinusmärgi, nii et positiivset Ljapunovi eksponenti loeti kahaneva häirituse, mitte kasvavana.",
+        "sourceHash": "e25590f6e9e86f32",
+        "stale": false
+      },
+      "expression": "d0*exp(-lambda*t)"
+    }
+  ]
+}

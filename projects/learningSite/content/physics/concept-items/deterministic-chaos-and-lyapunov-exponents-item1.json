@@ -1,0 +1,56 @@
+{
+  "id": "deterministic-chaos-and-lyapunov-exponents-item1",
+  "conceptId": "deterministic-chaos-and-lyapunov-exponents",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A weather model has a largest Lyapunov exponent of about 0.5 per day, and current observations give a useful forecast about five days ahead. A new observing network measures the initial state a hundred times more precisely. What happens to the useful forecast length?",
+    "et": "Ilmamudeli suurim Ljapunovi eksponent on umbes 0,5 päeva kohta ja praegused vaatlused annavad kasuliku prognoosi umbes viieks päevaks. Uus vaatlusvõrk mõõdab algolekut sada korda täpsemini. Mis juhtub kasuliku prognoosi pikkusega?",
+    "sourceHash": "b48a9045da30ec17",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It gains about nine days, since the horizon grows with the logarithm of the improvement in precision",
+        "et": "See pikeneb umbes üheksa päeva võrra, sest horisont kasvab täpsuse paranemise logaritmi järgi",
+        "sourceHash": "7fff410edbaaa279",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It becomes a hundred times longer, roughly five hundred days",
+        "et": "See muutub sada korda pikemaks, umbes viiesajaks päevaks",
+        "sourceHash": "784fb760cbddfb51",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "deterministic-chaos-and-lyapunov-exponents-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing changes, because the weather is random rather than deterministic and so cannot be forecast from equations at all",
+        "et": "Midagi ei muutu, sest ilm on juhuslik, mitte determineeritud, ja seda ei saa võrranditest üldse ennustada",
+        "sourceHash": "f50b6798368ee076",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "deterministic-chaos-and-lyapunov-exponents-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing changes, because a positive Lyapunov exponent means the model's variables grow without bound whatever the initial data",
+        "et": "Midagi ei muutu, sest positiivne Ljapunovi eksponent tähendab, et mudeli muutujad kasvavad üle iga piiri sõltumata algandmetest",
+        "sourceHash": "1a237a5c18a36f4c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "deterministic-chaos-and-lyapunov-exponents-m2"
+    }
+  ]
+}
