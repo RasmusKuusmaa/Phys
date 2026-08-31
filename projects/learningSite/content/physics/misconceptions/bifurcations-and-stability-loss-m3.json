@@ -1,0 +1,10 @@
+{
+  "id": "bifurcations-and-stability-loss-m3",
+  "conceptId": "bifurcations-and-stability-loss",
+  "text": {
+    "en": "Reading a bifurcation diagram as if its horizontal axis were time. It is the parameter: a single point on a branch is an entire steady state, and the system does not travel along a branch on its own — it moves only when the parameter is changed. A branch drawn as a dashed line is not a later part of the motion either; it is a state that exists mathematically but repels, so nothing stays on it.",
+    "et": "Bifurkatsioonidiagrammi lugemine nii, nagu oleks selle horisontaalteljel aeg. Seal on parameeter: üksainus punkt harul on terve statsionaarne olek ja süsteem ei liigu mööda haru omal jõul — ta liigub ainult siis, kui parameetrit muudetakse. Katkendjoonega joonistatud haru ei ole samuti liikumise hilisem osa; see on olek, mis matemaatiliselt eksisteerib, kuid tõukab eemale, nii et sellele ei jää miski püsima.",
+    "sourceHash": "14f3f223a7db3318",
+    "stale": false
+  }
+}

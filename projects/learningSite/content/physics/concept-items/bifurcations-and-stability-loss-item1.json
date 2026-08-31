@@ -1,0 +1,56 @@
+{
+  "id": "bifurcations-and-stability-loss-item1",
+  "conceptId": "bifurcations-and-stability-loss",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A slender vertical column is loaded from above, and the load is raised slowly. Below a critical load the column stays straight; above it the column bows to one side or the other, with a sideways deflection that grows continuously from zero as the load passes the critical value. What is happening at that critical load?",
+    "et": "Sihvakat püstist posti koormatakse ülalt ja koormust suurendatakse aeglaselt. Alla kriitilise koormuse jääb post sirgeks; sellest ülalpool paindub post ühele või teisele poole, kusjuures külgsuunaline läbipaine kasvab kriitilise koormuse ületamisel pidevalt nullist. Mis kriitilise koormuse juures toimub?",
+    "sourceHash": "708a0651aa84fe80",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A pitchfork bifurcation: the straight state loses its stability and two mirror-image bent states appear, growing continuously out of it",
+        "et": "Harkbifurkatsioon: sirge olek kaotab stabiilsuse ja tekivad kaks peegelpildis paindunud olekut, mis kasvavad sellest pidevalt välja",
+        "sourceHash": "9cc58db8be186e23",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The column must jump straight to a large deflection, because a state that loses stability always jumps",
+        "et": "Post peab hüppama kohe suure läbipaindeni, sest stabiilsuse kaotanud olek hüppab alati",
+        "sourceHash": "78ade9d0a21eb2d8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bifurcations-and-stability-loss-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The equations describing the column change discontinuously at that load — that discontinuity is the bifurcation",
+        "et": "Posti kirjeldavad võrrandid muutuvad sellel koormusel katkendlikult — see katkevus ongi bifurkatsioon",
+        "sourceHash": "c0fb3e2e0e031e3c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bifurcations-and-stability-loss-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The two branches drawn past the critical load show how the deflection develops over time once the column has buckled",
+        "et": "Kaks kriitilisest koormusest paremale joonistatud haru näitavad, kuidas läbipaine ajas areneb pärast posti nõtkumist",
+        "sourceHash": "a99f66b7c409ee54",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bifurcations-and-stability-loss-m3"
+    }
+  ]
+}

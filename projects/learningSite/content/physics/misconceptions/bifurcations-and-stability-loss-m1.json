@@ -1,0 +1,10 @@
+{
+  "id": "bifurcations-and-stability-loss-m1",
+  "conceptId": "bifurcations-and-stability-loss",
+  "text": {
+    "en": "Believing that something in the equations breaks or switches at a bifurcation. The equations depend perfectly smoothly on the parameter the whole way through — nothing about them is special at the critical value. What changes discontinuously is the answer: how many solutions the same smooth equations have, and which of those solutions are stable.",
+    "et": "Arvamus, et bifurkatsioonis läheb võrrandites midagi katki või lülitub ümber. Võrrandid sõltuvad parameetrist kogu ulatuses täiesti sujuvalt — kriitilise väärtuse juures ei ole neis midagi erilist. Katkendlikult muutub hoopis vastus: mitu lahendit samadel sujuvatel võrranditel on ja millised neist lahenditest on stabiilsed.",
+    "sourceHash": "977daf784f178f67",
+    "stale": false
+  }
+}

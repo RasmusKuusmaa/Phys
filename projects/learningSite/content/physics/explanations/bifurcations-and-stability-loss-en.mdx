@@ -1,0 +1,29 @@
+Fix a nonlinear system's equations and vary one parameter in them — the strength
+of the drive, the temperature difference across a fluid layer, the load on a
+column. For almost every value of that parameter, changing it slightly does
+nothing interesting: the fixed points slide a little and keep whatever stability
+they had. A bifurcation is one of the isolated values where that fails, and the
+qualitative structure of the solutions changes.
+
+Three of them cover most of what a first course meets. In a saddle-node
+bifurcation a stable fixed point and an unstable one approach each other, merge
+and disappear, which is how a system can run out of a steady state entirely and
+be forced somewhere else. In a pitchfork, a symmetric state stays put but loses
+its stability to two new states related by the system's own symmetry — a
+compressed column is straight until the critical load and bows left or right
+above it, and which side it picks is decided by whatever imperfection is present,
+not by the equations. In a Hopf bifurcation the departing stability goes to an
+oscillation instead: the fixed point is still there, but the system now circles
+it on a small closed loop whose amplitude grows from zero as the parameter
+increases. Heart rhythms, chemical oscillators and flutter in an aircraft wing
+all start this way.
+
+The distinction that matters in practice is supercritical versus subcritical. In
+the supercritical case the new state grows continuously out of the old one, so
+crossing the threshold is undramatic and reversible — back the parameter off and
+the system returns the way it came. In the subcritical case the branch that takes
+over is far away, so the system jumps, and on the way back it stays on the new
+branch past the point where it left the old one: hysteresis, and a threshold that
+depends on which direction you approached it from. Reading which case you are in
+off the diagram is what makes the difference between a design that degrades
+gracefully and one that fails all at once.

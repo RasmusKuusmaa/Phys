@@ -1,0 +1,10 @@
+{
+  "id": "bifurcations-and-stability-loss-m2",
+  "conceptId": "bifurcations-and-stability-loss",
+  "text": {
+    "en": "Expecting every loss of stability to be a dramatic jump. In the supercritical case the new state grows continuously out of the old one — the buckling of a column just past its critical load is microscopic, and a laser just above threshold is barely brighter than below it. The jump, and the hysteresis loop that comes with it, belong to the subcritical case, where the branch the system lands on is nowhere near the one it left.",
+    "et": "Ootus, et iga stabiilsuse kaotus on dramaatiline hüpe. Ülekriitilisel juhul kasvab uus olek vanast pidevalt välja — kriitilisest koormusest napilt üle koormatud posti nõtkumine on mikroskoopiline ja lävest napilt üle pumbatud laser on vaevu heledam kui allpool läve. Hüpe ja sellega kaasnev hüstereesisilmus kuuluvad alakriitilisele juhule, kus haru, millele süsteem satub, ei asu kuskil lahkutu läheduses.",
+    "sourceHash": "13f01486dce5d682",
+    "stale": false
+  }
+}

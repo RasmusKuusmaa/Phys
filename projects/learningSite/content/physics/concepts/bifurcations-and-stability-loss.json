@@ -1,0 +1,21 @@
+{
+  "id": "bifurcations-and-stability-loss",
+  "subject": "physics",
+  "level": "L3",
+  "module": "nonlinear-dynamics",
+  "title": {
+    "en": "Bifurcations and the loss of stability",
+    "et": "Bifurkatsioonid ja stabiilsuse kaotus",
+    "sourceHash": "b83e98d78ca7f0a3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Turn a control parameter slowly — a load, a flow rate, a temperature difference — and for almost every setting nothing qualitative happens: the fixed points shift slightly and keep the stability they had. At isolated values they do not, and those values are bifurcations: a stable state and an unstable one collide and annihilate (saddle-node), a symmetric state loses stability to two new asymmetric ones (pitchfork), or a fixed point hands its stability to a growing oscillation (Hopf). This is where behaviour changes in kind rather than degree, and it is the same event behind a loaded column buckling, convection rolls appearing in a heated fluid, and a laser crossing its threshold.",
+    "et": "Keera juhtparameetrit aeglaselt — koormust, voolukiirust, temperatuuride vahet — ja peaaegu iga väärtuse juures ei juhtu midagi kvalitatiivset: püsipunktid nihkuvad pisut ja säilitavad senise stabiilsuse. Üksikute väärtuste juures see nii ei ole ning just neid väärtusi nimetatakse bifurkatsioonideks: stabiilne ja ebastabiilne olek põrkuvad ning hävitavad teineteist (sadul-sõlm), sümmeetriline olek kaotab stabiilsuse kahe uue ebasümmeetrilise kasuks (harkbifurkatsioon) või püsipunkt annab oma stabiilsuse üle kasvavale võnkumisele (Hopfi bifurkatsioon). Siin muutub käitumine laadilt, mitte määralt, ja sama sündmus on nii koormatud posti nõtkumise, kuumutatud vedelikus tekkivate konvektsioonirullide kui ka läve ületava laseri taga.",
+    "sourceHash": "28a90ca62541c0ad",
+    "stale": false
+  },
+  "prerequisites": [
+    "fixed-points-and-phase-plane-stability"
+  ]
+}
