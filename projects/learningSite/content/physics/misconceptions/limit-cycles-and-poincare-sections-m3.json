@@ -1,0 +1,10 @@
+{
+  "id": "limit-cycles-and-poincare-sections-m3",
+  "conceptId": "limit-cycles-and-poincare-sections",
+  "text": {
+    "en": "Reading a Poincaré section as a picture of the trajectory. It is not the path: it is the list of points where the path pierces a chosen surface, one dot per pass, with everything in between deliberately thrown away. That is why a single dot means a periodic motion rather than a system standing still, and why a scattered cloud of dots can be a perfectly smooth trajectory that simply never repeats a crossing.",
+    "et": "Poincaré lõike lugemine trajektoori pildina. See ei ole tee, vaid loend punktidest, kus tee valitud pinda läbistab, üks täpp iga läbimise kohta, ning kõik vahepealne on teadlikult kõrvale jäetud. Just seepärast tähendab üksainus täpp perioodilist liikumist, mitte paigalseisvat süsteemi, ja just seepärast võib hajus täpipilv kuuluda täiesti siledale trajektoorile, mis lihtsalt ei korda ühtki läbimist.",
+    "sourceHash": "b83101b32e0995f1",
+    "stale": false
+  }
+}

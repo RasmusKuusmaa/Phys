@@ -1,0 +1,56 @@
+{
+  "id": "limit-cycles-and-poincare-sections-item1",
+  "conceptId": "limit-cycles-and-poincare-sections",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An electronic oscillator is started twice, once with a small initial disturbance and once with a large one. Both times it settles into an oscillation of exactly the same amplitude, and a Poincaré section taken through the flow shows a single point. What does this tell you?",
+    "et": "Elektrooniline ostsillaator käivitatakse kaks korda: ühel korral väikese, teisel korral suure alghäiritusega. Mõlemal korral jääb ta võnkuma täpselt sama amplituudiga ja vooluväljast võetud Poincaré lõikel on üksainus punkt. Mida see ütleb?",
+    "sourceHash": "46a0eb122e997e86",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The oscillator has an attracting limit cycle: the amplitude is set by the circuit itself, and the single point is that cycle crossing the section once per period",
+        "et": "Ostsillaatoril on tõmbav piirtsükkel: amplituudi määrab skeem ise ja üksainus punkt on selle tsükli läbimine lõikepinnast kord perioodis",
+        "sourceHash": "b088c183751005f3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The oscillator is running on one of a family of closed orbits, like an undamped pendulum, and a bigger disturbance simply picked the same one twice",
+        "et": "Ostsillaator töötab ühel kinniste orbiitide pere liikmel nagu sumbumiseta pendel ja suurem häiritus valis lihtsalt kaks korda sama orbiidi",
+        "sourceHash": "95f20ca3f16e2c71",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "limit-cycles-and-poincare-sections-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Something must be driving the circuit periodically, because a steady power supply cannot produce a rhythm on its own",
+        "et": "Miski peab skeemi perioodiliselt sundima, sest ühtlane toiteallikas ei saa ise rütmi tekitada",
+        "sourceHash": "e90b56b2b669d93f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "limit-cycles-and-poincare-sections-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The single point on the section means the circuit has stopped oscillating and is sitting at a steady state",
+        "et": "Üksainus punkt lõikel tähendab, et skeem on võnkumise lõpetanud ja püsib statsionaarses olekus",
+        "sourceHash": "b403738a0ec54125",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "limit-cycles-and-poincare-sections-m3"
+    }
+  ]
+}

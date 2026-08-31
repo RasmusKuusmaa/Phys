@@ -1,0 +1,10 @@
+{
+  "id": "limit-cycles-and-poincare-sections-m2",
+  "conceptId": "limit-cycles-and-poincare-sections",
+  "text": {
+    "en": "Thinking a self-sustained oscillation needs a periodic driving force. A limit cycle appears in systems with no time-dependent forcing at all: the energy source is steady — a steady bow speed, a constant pumping current, a continuous supply of reagent — and the nonlinearity is what converts it into a rhythm, damping the motion when the amplitude is large and feeding it when the amplitude is small. Nothing outside the system keeps the beat.",
+    "et": "Arvamus, et isevõnkumine vajab perioodilist välisjõudu. Piirtsükkel tekib süsteemides, kus ajast sõltuvat sundimist üldse ei ole: energiaallikas on ühtlane — ühtlane poogna kiirus, püsiv pumpamisvool, katkematu reagendi juurdevool — ja rütmiks muudab selle mittelineaarsus, mis suure amplituudi korral liikumist summutab ja väikese korral toidab. Takti ei hoia miski süsteemist väljaspool.",
+    "sourceHash": "404635bc864c04ae",
+    "stale": false
+  }
+}

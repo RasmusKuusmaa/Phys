@@ -1,0 +1,21 @@
+{
+  "id": "limit-cycles-and-poincare-sections",
+  "subject": "physics",
+  "level": "L3",
+  "module": "nonlinear-dynamics",
+  "title": {
+    "en": "Limit cycles and Poincaré sections",
+    "et": "Piirtsüklid ja Poincaré lõiked",
+    "sourceHash": "d163ea5c61f99230",
+    "stale": false
+  },
+  "summary": {
+    "en": "A limit cycle is an isolated closed trajectory that neighbouring trajectories wind onto: unlike the nested orbits of an undamped pendulum, its amplitude is set by the system itself rather than by how hard it was started, which is what a heartbeat, a violin string under a bow and a laser above threshold all have in common — each loses energy and takes it back in over one cycle. Because a closed loop in phase space is awkward to read directly, the standard tool is the Poincaré section: pick a surface the flow crosses, record only the crossing points, and a limit cycle collapses to a single dot, a quasi-periodic motion to a closed curve, and chaos to a scatter of points with visible structure.",
+    "et": "Piirtsükkel on isoleeritud kinnine trajektoor, millele naabertrajektoorid keerduvad: erinevalt sumbumiseta pendli üksteise sees paiknevatest orbiitidest määrab selle amplituudi süsteem ise, mitte see, kui tugevasti teda käivitati; just see on ühine südamelöögil, poogna all oleval viiulikeelel ja lävest ülalpool töötaval laseril — igaüks neist kaotab ühe tsükli jooksul energiat ja saab selle tagasi. Kuna kinnist silmust faasiruumis on otse raske lugeda, kasutatakse tavaliselt Poincaré lõiget: vali pind, mida vooluväli läbib, märgi üles ainult läbimispunktid, ja piirtsükkel taandub üheks täpiks, kvaasiperioodiline liikumine kinniseks jooneks ning kaos struktuuri kandvaks punktipilveks.",
+    "sourceHash": "bde6981e0dcbf200",
+    "stale": false
+  },
+  "prerequisites": [
+    "fixed-points-and-phase-plane-stability"
+  ]
+}

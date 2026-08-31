@@ -1,0 +1,10 @@
+{
+  "id": "limit-cycles-and-poincare-sections-m1",
+  "conceptId": "limit-cycles-and-poincare-sections",
+  "text": {
+    "en": "Calling any closed orbit a limit cycle. An undamped pendulum has a whole family of closed orbits, one through every starting point, and pushing it harder simply puts it on a different member of that family. A limit cycle is isolated: there are no closed orbits immediately beside it, so nearby trajectories spiral onto it and the amplitude that results is a property of the system, not of the kick that started it.",
+    "et": "Iga kinnise orbiidi nimetamine piirtsükliks. Sumbumiseta pendlil on terve kinniste orbiitide pere, üks läbi iga alguspunkti, ja tugevam tõuge viib ta lihtsalt selle pere teisele liikmele. Piirtsükkel on isoleeritud: selle kõrval ei ole ühtegi teist kinnist orbiiti, nii et lähedased trajektoorid keerduvad sellele peale ja tekkiv amplituud on süsteemi, mitte käivitava tõuke omadus.",
+    "sourceHash": "dc2464b2ffedcb08",
+    "stale": false
+  }
+}
