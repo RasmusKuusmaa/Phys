@@ -9,6 +9,10 @@ import { getDictionary } from "@/i18n/dictionaries";
 import { LocaleSwitcher, LocaleSwitcherFallback } from "@/components/LocaleSwitcher";
 import { SubjectSwitcher } from "@/components/SubjectSwitcher";
 import { ThemeToggle } from "@/components/ThemeToggle";
+import { HeaderSearch } from "@/components/HeaderSearch";
+import { NotesNavLink } from "@/components/notes/NotesNavLink";
+import { AuthProvider } from "@/components/auth/AuthProvider";
+import { AuthNav } from "@/components/auth/AuthNav";
 import { listSubjects } from "@/content/loader";
 import { getSiteUrl } from "@/lib/siteUrl";
 import Link from "next/link";
@@ -81,50 +85,55 @@ export default async function RootLayout({
         <a href="#main-content" className="skip-link">
           {dict.a11y.skipToContent}
         </a>
-        <header className="border-b border-border">
-          <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-y-2 px-4 py-4">
-            <span className="text-lg font-semibold">{dict.site.name}</span>
-            <nav className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
-              {subjects.length > 0 && <SubjectSwitcher subjects={subjects} locale={locale} />}
-              <Link href={`/${locale}/search`} className="text-muted hover:text-foreground">
-                {dict.nav.search}
-              </Link>
-              <Link href={`/${locale}/roadmap`} className="text-muted hover:text-foreground">
-                {dict.nav.roadmap}
-              </Link>
-              <Link href={`/${locale}/curriculum`} className="text-muted hover:text-foreground">
-                {dict.nav.curriculum}
-              </Link>
-              <Link href={`/${locale}/formulas`} className="text-muted hover:text-foreground">
-                {dict.nav.formulas}
-              </Link>
-              <Link href={`/${locale}/glossary`} className="text-muted hover:text-foreground">
-                {dict.nav.glossary}
-              </Link>
-              <Link href={`/${locale}/practice`} className="text-muted hover:text-foreground">
-                {dict.nav.practice}
-              </Link>
-              <Link href={`/${locale}/progress`} className="text-muted hover:text-foreground">
-                {dict.nav.progress}
-              </Link>
-              <Link href={`/${locale}/journal`} className="text-muted hover:text-foreground">
-                {dict.nav.journal}
-              </Link>
-              <Suspense fallback={<LocaleSwitcherFallback currentLocale={locale} />}>
-                <LocaleSwitcher currentLocale={locale} />
-              </Suspense>
-              <ThemeToggle />
-            </nav>
-          </div>
-        </header>
-        <main id="main-content" className="flex-1">
-          {children}
-        </main>
-        <footer className="border-t border-border">
-          <div className="mx-auto max-w-5xl px-4 py-4 text-sm text-muted">
-            {dict.footer.builtWith}
-          </div>
-        </footer>
+        <AuthProvider>
+          <header className="border-b border-border">
+            <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-y-2 px-4 py-4">
+              <span className="text-lg font-semibold">{dict.site.name}</span>
+              <nav className="flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
+                {subjects.length > 0 && <SubjectSwitcher subjects={subjects} locale={locale} />}
+                <HeaderSearch locale={locale} placeholder={dict.search.placeholder} />
+                <Link href={`/${locale}/roadmap`} className="text-muted hover:text-foreground">
+                  {dict.nav.roadmap}
+                </Link>
+                <Link href={`/${locale}/curriculum`} className="text-muted hover:text-foreground">
+                  {dict.nav.curriculum}
+                </Link>
+                <Link href={`/${locale}/formulas`} className="text-muted hover:text-foreground">
+                  {dict.nav.formulas}
+                </Link>
+                <Link href={`/${locale}/glossary`} className="text-muted hover:text-foreground">
+                  {dict.nav.glossary}
+                </Link>
+                <Link href={`/${locale}/periodic-table`} className="text-muted hover:text-foreground">
+                  {dict.nav.periodicTable}
+                </Link>
+                <Link href={`/${locale}/practice`} className="text-muted hover:text-foreground">
+                  {dict.nav.practice}
+                </Link>
+                <Link href={`/${locale}/progress`} className="text-muted hover:text-foreground">
+                  {dict.nav.progress}
+                </Link>
+                <Link href={`/${locale}/journal`} className="text-muted hover:text-foreground">
+                  {dict.nav.journal}
+                </Link>
+                <NotesNavLink href={`/${locale}/notes`} label={dict.nav.notes} />
+                <AuthNav locale={locale} strings={dict.auth} />
+                <Suspense fallback={<LocaleSwitcherFallback currentLocale={locale} />}>
+                  <LocaleSwitcher currentLocale={locale} />
+                </Suspense>
+                <ThemeToggle />
+              </nav>
+            </div>
+          </header>
+          <main id="main-content" className="flex-1">
+            {children}
+          </main>
+          <footer className="border-t border-border">
+            <div className="mx-auto max-w-5xl px-4 py-4 text-sm text-muted">
+              {dict.footer.builtWith}
+            </div>
+          </footer>
+        </AuthProvider>
         <Analytics />
       </body>
     </html>
