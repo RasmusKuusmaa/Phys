@@ -2,10 +2,28 @@
 
 import { readNotebook, writeNotebook } from "@/lib/notes/store";
 import { readProgress, writeProgress } from "@/lib/progress/store";
+import { readJournal, writeJournal } from "@/lib/journal/store";
+import { readTestHistory, writeTestHistory } from "@/lib/testHistory/store";
 import { NotebookSchema } from "@/lib/notes/schema";
 import { ProgressSchema } from "@/lib/progress/schema";
+import { JournalSchema } from "@/lib/journal/schema";
+import { TestHistorySchema } from "@/lib/testHistory/schema";
 
 export type SyncState = "idle" | "syncing" | "synced" | "failed";
+type Kind = "notes" | "progress" | "journal" | "testHistory";
+
+function schemaFor(kind: Kind) {
+  switch (kind) {
+    case "notes":
+      return NotebookSchema;
+    case "progress":
+      return ProgressSchema;
+    case "journal":
+      return JournalSchema;
+    case "testHistory":
+      return TestHistorySchema;
+  }
+}
 
 /**
  * Pushes this browser's copy and adopts whatever the server merges back.
@@ -16,11 +34,7 @@ export type SyncState = "idle" | "syncing" | "synced" | "failed";
  * signed out and offline — an account adds durability, it doesn't become a
  * requirement.
  */
-async function syncKind(
-  kind: "notes" | "progress",
-  local: unknown,
-  adopt: (merged: unknown) => void,
-): Promise<void> {
+async function syncKind(kind: Kind, local: unknown, adopt: (merged: unknown) => void): Promise<void> {
   const response = await fetch(`/api/sync/${kind}`, {
     method: "PUT",
     headers: { "content-type": "application/json" },
@@ -29,8 +43,7 @@ async function syncKind(
   if (!response.ok) throw new Error(`sync ${kind} failed: ${response.status}`);
 
   const { data } = (await response.json()) as { data: unknown };
-  const schema = kind === "notes" ? NotebookSchema : ProgressSchema;
-  const parsed = schema.safeParse(data);
+  const parsed = schemaFor(kind).safeParse(data);
   // Ignore anything the server hands back that this client can't validate,
   // rather than writing a malformed blob over good local data.
   if (parsed.success) adopt(parsed.data);
@@ -40,6 +53,8 @@ export async function syncAll(): Promise<void> {
   await Promise.all([
     syncKind("notes", readNotebook(), (merged) => writeNotebook(merged as never)),
     syncKind("progress", readProgress(), (merged) => writeProgress(merged as never)),
+    syncKind("journal", readJournal(), (merged) => writeJournal(merged as never)),
+    syncKind("testHistory", readTestHistory(), (merged) => writeTestHistory(merged as never)),
   ]);
 }
 
