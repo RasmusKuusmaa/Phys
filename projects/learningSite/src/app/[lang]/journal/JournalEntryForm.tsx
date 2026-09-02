@@ -7,6 +7,7 @@ import type { Messages } from "@/i18n/dictionaries";
 import type { Understanding } from "@/lib/journal/schema";
 import { logSession } from "@/lib/journal/store";
 import { todayDateString } from "@/lib/journal/date";
+import { useStudyTimer } from "@/lib/journal/useStudyTimer";
 
 const UNDERSTANDING_OPTIONS = [1, 2, 3, 4, 5] as const;
 
@@ -28,6 +29,7 @@ export function JournalEntryForm({
   const [understanding, setUnderstanding] = useState<Understanding>(3);
   const [note, setNote] = useState("");
   const [confirmation, setConfirmation] = useState(false);
+  const timer = useStudyTimer();
 
   // Same shape as the practice builder's concept filter (TestBuilderForm) —
   // a plain substring match on the localised title is enough at this list
@@ -96,17 +98,36 @@ export function JournalEntryForm({
         <label htmlFor="journal-minutes" className="block text-xs font-medium text-muted">
           {strings.minutesLabel}
         </label>
-        <input
-          id="journal-minutes"
-          type="number"
-          min={1}
-          max={600}
-          value={minutes}
-          onChange={(event) =>
-            setMinutes(Math.min(600, Math.max(1, Math.round(Number(event.target.value) || 1))))
-          }
-          className="mt-1 w-24 rounded-lg border border-border bg-transparent px-3 py-2 text-sm"
-        />
+        <div className="mt-1 flex flex-wrap items-center gap-2">
+          <input
+            id="journal-minutes"
+            type="number"
+            min={1}
+            max={600}
+            value={minutes}
+            onChange={(event) =>
+              setMinutes(Math.min(600, Math.max(1, Math.round(Number(event.target.value) || 1))))
+            }
+            className="w-24 rounded-lg border border-border bg-transparent px-3 py-2 text-sm"
+          />
+          {timer.running ? (
+            <button
+              type="button"
+              onClick={() => setMinutes(timer.stop())}
+              className="rounded-lg border border-accent px-3 py-2 text-xs font-medium text-accent hover:bg-accent/10"
+            >
+              {strings.timerStop} · {formatElapsed(timer.elapsedSeconds)}
+            </button>
+          ) : (
+            <button
+              type="button"
+              onClick={timer.start}
+              className="rounded-lg border border-border px-3 py-2 text-xs hover:border-accent"
+            >
+              {strings.timerStart}
+            </button>
+          )}
+        </div>
       </div>
 
       <div>
@@ -156,4 +177,10 @@ export function JournalEntryForm({
       </div>
     </form>
   );
+}
+
+function formatElapsed(totalSeconds: number): string {
+  const minutes = Math.floor(totalSeconds / 60);
+  const seconds = totalSeconds % 60;
+  return `${minutes}:${String(seconds).padStart(2, "0")}`;
 }

@@ -65,7 +65,9 @@
     "noteLabel": "Märkus (valikuline)",
     "logSession": "Salvesta sessioon",
     "sessionLogged": "Sessioon salvestatud.",
-    "pickTopicFirst": "Vali teema, millele aega logida."
+    "pickTopicFirst": "Vali teema, millele aega logida.",
+    "timerStart": "Käivita taimer",
+    "timerStop": "Peata"
   },
   "notFound": {
     "heading": "Lehte ei leitud",

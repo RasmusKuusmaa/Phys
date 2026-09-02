@@ -65,7 +65,9 @@
     "noteLabel": "Note (optional)",
     "logSession": "Log session",
     "sessionLogged": "Session logged.",
-    "pickTopicFirst": "Pick a topic to log time against."
+    "pickTopicFirst": "Pick a topic to log time against.",
+    "timerStart": "Start timer",
+    "timerStop": "Stop"
   },
   "notFound": {
     "heading": "Page not found",
