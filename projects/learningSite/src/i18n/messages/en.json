@@ -84,7 +84,9 @@
     "deleteSession": "Delete",
     "confirmDeleteSession": "Delete this session?",
     "cancel": "Cancel",
-    "saveEdit": "Save"
+    "saveEdit": "Save",
+    "streakLabel": "day streak",
+    "noStreak": "Log a session today to start a streak."
   },
   "notFound": {
     "heading": "Page not found",

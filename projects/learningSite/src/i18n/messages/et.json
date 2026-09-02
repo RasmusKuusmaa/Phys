@@ -84,7 +84,9 @@
     "deleteSession": "Kustuta",
     "confirmDeleteSession": "Kas kustutada see sessioon?",
     "cancel": "Loobu",
-    "saveEdit": "Salvesta"
+    "saveEdit": "Salvesta",
+    "streakLabel": "päeva järjest",
+    "noStreak": "Logi täna sessioon, et alustada seeriat."
   },
   "notFound": {
     "heading": "Lehte ei leitud",
