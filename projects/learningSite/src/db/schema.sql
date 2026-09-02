@@ -65,5 +65,13 @@ CREATE TABLE IF NOT EXISTS user_data (
   PRIMARY KEY (user_id, kind)
 );
 
+-- Widens the CHECK above for a database that already ran this file before
+-- 'journal'/'testHistory' existed. Drop-then-add rather than a bare ADD
+-- CONSTRAINT keeps this idempotent, same as every CREATE ... IF NOT EXISTS
+-- statement in this file — db:migrate stays safe to rerun.
+ALTER TABLE user_data DROP CONSTRAINT IF EXISTS user_data_kind_check;
+ALTER TABLE user_data ADD CONSTRAINT user_data_kind_check
+  CHECK (kind IN ('notes', 'progress', 'journal', 'testHistory'));
+
 CREATE INDEX IF NOT EXISTS accounts_user_id_idx ON accounts ("userId");
 CREATE INDEX IF NOT EXISTS sessions_user_id_idx ON sessions ("userId");
