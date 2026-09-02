@@ -18,6 +18,8 @@ import { LevelBadge } from "@/components/LevelBadge";
 import { FormulaDisplay } from "@/components/FormulaDisplay";
 import { ConceptLinkList } from "@/components/ConceptCard";
 import { ConceptStatusControl } from "@/components/ConceptStatusControl";
+import { HighlightableProse } from "@/components/notes/HighlightableProse";
+import { buildNoteTargets } from "@/lib/notes/targets";
 import { StudyStats } from "./StudyStats";
 
 export async function generateStaticParams() {
@@ -117,8 +119,21 @@ export default async function ConceptPage({
       <StudyStats conceptId={concept.id} locale={locale} strings={dict.journal} />
 
       {Explanation && (
-        <section className="mt-10 space-y-4 text-sm leading-relaxed">
-          <Explanation />
+        <section>
+          <HighlightableProse
+            conceptId={concept.id}
+            conceptTitle={concept.title[locale]}
+            locale={locale}
+            strings={dict.notes}
+            typeLabels={{
+              concept: dict.search.typeConcept,
+              formula: dict.search.typeFormula,
+              glossary: dict.search.typeGlossary,
+            }}
+            targets={buildNoteTargets(locale)}
+          >
+            <Explanation />
+          </HighlightableProse>
         </section>
       )}
 
