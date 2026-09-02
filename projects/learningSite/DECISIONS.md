@@ -134,8 +134,8 @@ not US-scoped.
   ... for update` then upsert), so two devices syncing at the same moment
   can't clobber each other — whichever request commits second merges
   against what the first just wrote rather than overwriting it. `kind` is
-  presently `notes` and `progress`; a new synced feature adds a `kind`
-  the same way, not a new endpoint.
+  presently `notes`, `progress`, `journal` and `testHistory`; a new synced
+  feature adds a `kind` the same way, not a new endpoint.
 - The session strategy is JWT, not database sessions, because Auth.js v5's
   Credentials provider cannot issue a database session — the adapter
   (`@auth/pg-adapter`) still does real work persisting users, linked OAuth
@@ -158,6 +158,47 @@ not US-scoped.
   double-count sessions both devices already saw (`src/lib/sync/merge.ts`).
   Any new synced kind picks the rule that matches whether its records are
   edited, cumulative, or immutable once written.
+
+## Study journal
+
+- A "topic" is a concept id. The site already has exactly one
+  fine-grained, id-stable unit that time, tests and progress all key on —
+  `Concept.id` — so the journal reuses it rather than inventing a second
+  taxonomy or supporting formula/glossary targets the way `NoteLink` does.
+- Session vs. day are two different records. A `StudySession`
+  (`src/lib/journal/schema.ts`) is one logged block of work on one topic;
+  a `JournalDay` is at most one freeform reflection per calendar date,
+  independent of how many sessions happened that day. Collapsing these
+  would force a day with three topics studied into three reflections, or
+  one awkwardly split three ways.
+- Understanding is a 1–5 self-rating, logged per session, not a second
+  status field. The existing `ConceptStatus` (`unseen`/`learning`/
+  `confident`) stays the one field the rest of the app reads; a session's
+  rating derives it (`>=4` → confident, else learning) with the same
+  "only ever moves forward on evidence" posture `mergeProgress` already
+  has. Two competing "how well do I know this" numbers would just as
+  easily disagree with each other as with reality.
+- Test attempts (`src/lib/testHistory/`) get their own persisted history,
+  separate from journal sessions, because an attempt is an immutable fact
+  about the past — recorded once when `TestRunner` finishes scoring,
+  never edited — while a session is a note that can still be corrected.
+  This is also what lets a self-rating be checked against reality:
+  `ratingMismatch` (`src/lib/testHistory/mismatch.ts`) flags rating
+  "confident" or better against a most-recent attempt under 60% as a
+  plain inline notice, never a blocking one — a self-rating and one
+  test's worth of questions measure different things, so this only
+  speaks up when they visibly disagree, and only compares the *latest*
+  attempt, never an old low score sitting behind a since-improved one.
+- The journal timeline folds test attempts in as read-only entries
+  alongside sessions, keyed by the date each was taken/logged — a day can
+  have an attempt with no session or the other way round, so the
+  timeline's dates are the union of both, never just one.
+- Sync follows the account system's own rule (see § Accounts) of picking
+  a merge strategy per record shape, not a default: sessions merge by
+  `updatedAt` with tombstones, same as notes; days merge by `updatedAt`
+  with no tombstone, since a reflection is only ever upserted, never
+  deleted; test attempts are a plain union by id, since two devices can
+  never disagree about an immutable fact.
 
 ## Stack choices
 
