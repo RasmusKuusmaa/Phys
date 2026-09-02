@@ -107,6 +107,9 @@ export default async function RootLayout({
               <Link href={`/${locale}/progress`} className="text-muted hover:text-foreground">
                 {dict.nav.progress}
               </Link>
+              <Link href={`/${locale}/journal`} className="text-muted hover:text-foreground">
+                {dict.nav.journal}
+              </Link>
               <Suspense fallback={<LocaleSwitcherFallback currentLocale={locale} />}>
                 <LocaleSwitcher currentLocale={locale} />
               </Suspense>
