@@ -76,6 +76,32 @@ not US-scoped.
   time the Estonian translation was last synced; the staleness script
   recomputes it at build time and flags drift.
 
+## Notes and highlights
+
+- Learner notes live in `localStorage` under the `notes` key: versioned
+  blob, Zod-validated on read, migrated forward by
+  `src/lib/notes/migrations.ts`. Nothing above `src/lib/notes/store.ts`
+  knows where the bytes are kept, which is what let the account system
+  (see § Accounts) add server sync later by replacing the store's
+  transport, not the feature.
+- A note can link to a concept, a formula or a glossary term — the same
+  three things global search indexes. Notes store only `{kind, id}`;
+  labels are resolved per-locale at render time (`targets.ts`), so
+  re-titling a concept re-labels every note pointing at it.
+- Highlights anchor by **quoted text plus surrounding context**
+  (a W3C-Annotation-style `TextQuoteSelector`), not by DOM path or bare
+  character offset. Offsets alone silently shift onto the wrong sentence
+  the moment a paragraph above is re-authored; matching on the quote means
+  a highlight either finds its own words or reports itself as orphaned.
+  The stored offset is kept only to break ties between identical quotes.
+- Highlights are locale-scoped. The EN and ET explanations are independent
+  prose, not translations of one string, so an anchor made in one locale is
+  never painted in the other.
+- Painting is DOM mutation over server-rendered MDX (React can't inject
+  into it), so `clearHighlights` must restore the container's `innerHTML`
+  byte-for-byte — that invariant is what keeps React the sole owner of
+  those nodes, and it's asserted in `domRange.test.ts`.
+
 ## Reference data
 
 - `content/reference/` holds lookup tables that belong to no single
