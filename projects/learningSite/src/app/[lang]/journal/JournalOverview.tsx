@@ -31,6 +31,7 @@ export function JournalOverview({
     | "noStaleTopics"
     | "moduleUnderstandingHeading"
     | "noModuleData"
+    | "testYourself"
     | "understanding1"
     | "understanding2"
     | "understanding3"
@@ -85,11 +86,16 @@ export function JournalOverview({
         ) : (
           <ul className="mt-2 space-y-1 text-sm">
             {topTopics.map(({ conceptId, minutes, concept }) => (
-              <li key={conceptId} className="flex justify-between gap-3">
+              <li key={conceptId} className="flex items-center justify-between gap-3">
                 <Link href={`/${locale}/concepts/${conceptId}`} className="truncate hover:text-accent">
                   {concept.title[locale]}
                 </Link>
-                <span className="shrink-0 text-muted">{minutes} min</span>
+                <span className="flex shrink-0 items-center gap-2 text-muted">
+                  {minutes} min
+                  <Link href={`/${locale}/practice?concepts=${conceptId}`} className="text-accent hover:text-accent-hover">
+                    {strings.testYourself}
+                  </Link>
+                </span>
               </li>
             ))}
           </ul>
@@ -103,11 +109,16 @@ export function JournalOverview({
         ) : (
           <ul className="mt-2 space-y-1 text-sm">
             {staleTopics.map(({ conceptId, last, concept }) => (
-              <li key={conceptId} className="flex justify-between gap-3">
+              <li key={conceptId} className="flex items-center justify-between gap-3">
                 <Link href={`/${locale}/concepts/${conceptId}`} className="truncate hover:text-accent">
                   {concept.title[locale]}
                 </Link>
-                <span className="shrink-0 text-muted">{daysBetween(last, today)}d</span>
+                <span className="flex shrink-0 items-center gap-2 text-muted">
+                  {daysBetween(last, today)}d
+                  <Link href={`/${locale}/practice?concepts=${conceptId}`} className="text-accent hover:text-accent-hover">
+                    {strings.testYourself}
+                  </Link>
+                </span>
               </li>
             ))}
           </ul>

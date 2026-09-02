@@ -97,7 +97,8 @@
     "staleTopicsHeading": "Could use a review",
     "noStaleTopics": "Nothing overdue.",
     "moduleUnderstandingHeading": "Understanding by module",
-    "noModuleData": "Log some sessions to see this."
+    "noModuleData": "Log some sessions to see this.",
+    "testYourself": "Test yourself"
   },
   "notFound": {
     "heading": "Page not found",

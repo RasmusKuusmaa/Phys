@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import type { Locale } from "@/i18n/locales";
 import type { Messages } from "@/i18n/dictionaries";
 import { useJournal } from "@/lib/journal/useJournal";
@@ -20,6 +21,7 @@ export function StudyStats({
     | "lastStudiedLabel"
     | "latestUnderstandingLabel"
     | "neverStudied"
+    | "testYourself"
     | "understanding1"
     | "understanding2"
     | "understanding3"
@@ -35,11 +37,21 @@ export function StudyStats({
   const trend = understandingTrend(journal, conceptId);
   const latest = trend.at(-1);
 
+  const testLink = (
+    <Link
+      href={`/${locale}/practice?concepts=${conceptId}`}
+      className="mt-3 inline-block text-sm font-medium text-accent hover:text-accent-hover"
+    >
+      {strings.testYourself}
+    </Link>
+  );
+
   if (totalMinutes === 0 || last === null) {
     return (
       <div className="mt-6 rounded-2xl border border-border p-4">
         <h2 className="text-sm font-semibold">{strings.studyHeading}</h2>
         <p className="mt-2 text-sm text-muted">{strings.neverStudied}</p>
+        {testLink}
       </div>
     );
   }
@@ -63,6 +75,7 @@ export function StudyStats({
           </div>
         )}
       </dl>
+      {testLink}
     </div>
   );
 }
