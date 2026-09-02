@@ -34,15 +34,15 @@ git log --oneline | grep '^content: add '   # concepts already landed this phase
 
 ---
 
-## Phase M1 — Mechanics (existing: Newtonian through Hamiltonian/Noether/chaos)
+## Phase M1 — Mechanics (existing: Newtonian through Hamiltonian/Noether/chaos) — done
 
-- [ ] Rigid body dynamics: the inertia tensor, principal axes
-- [ ] Euler's equations and torque-free precession
-- [ ] Small oscillations and normal modes (coupled systems via the mass/
+- [x] Rigid body dynamics: the inertia tensor, principal axes
+- [x] Euler's equations and torque-free precession
+- [x] Small oscillations and normal modes (coupled systems via the mass/
       stiffness matrix eigenproblem, distinct from the existing
       two-body `coupled-and-driven-oscillators`)
-- [ ] Action-angle variables
-- [ ] Classical scattering and the differential cross-section
+- [x] Action-angle variables
+- [x] Classical scattering and the differential cross-section
 
 ## Phase M2 — Electromagnetism (existing: Coulomb through Maxwell/Poynting)
 
