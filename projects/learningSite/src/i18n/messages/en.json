@@ -51,6 +51,22 @@
     "typeFormula": "Formula",
     "typeGlossary": "Glossary term"
   },
+  "journal": {
+    "topicLabel": "Topic",
+    "topicFilterPlaceholder": "Search topics",
+    "noTopicsMatch": "No topics match that filter.",
+    "minutesLabel": "Minutes",
+    "understandingLabel": "Understanding",
+    "understanding1": "No idea",
+    "understanding2": "Shaky",
+    "understanding3": "Getting there",
+    "understanding4": "Solid",
+    "understanding5": "Mastered",
+    "noteLabel": "Note (optional)",
+    "logSession": "Log session",
+    "sessionLogged": "Session logged.",
+    "pickTopicFirst": "Pick a topic to log time against."
+  },
   "notFound": {
     "heading": "Page not found",
     "message": "That page doesn't exist, or has moved. Here are a few concepts to get you started instead:",
