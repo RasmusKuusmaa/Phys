@@ -1,6 +1,7 @@
 import { createEmptyNotebook, type Notebook } from "@/lib/notes/schema";
 import { createEmptyProgress, type ConceptStatus, type Progress } from "@/lib/progress/schema";
 import { createEmptyJournal, type Journal } from "@/lib/journal/schema";
+import { createEmptyTestHistory, type TestHistory } from "@/lib/testHistory/schema";
 
 /**
  * Merging, not overwriting.
@@ -121,4 +122,9 @@ export function mergeJournal(local: Journal, remote: Journal): Journal {
   }
 
   return { ...createEmptyJournal(), sessions, days, deletedSessions };
+}
+
+/** Attempts are immutable once taken — a plain union by id, never a conflict to resolve. */
+export function mergeTestHistory(local: TestHistory, remote: TestHistory): TestHistory {
+  return { ...createEmptyTestHistory(), attempts: { ...remote.attempts, ...local.attempts } };
 }
