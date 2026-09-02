@@ -203,7 +203,7 @@ function SessionRow({
         </div>
         <div className="mt-2">
           <span className="text-xs text-muted">{strings.understandingLabel}</span>
-          <div className="mt-1 flex flex-wrap gap-1.5">
+          <div role="group" aria-label={strings.understandingLabel} className="mt-1 flex flex-wrap gap-1.5">
             {UNDERSTANDING_OPTIONS.map((option) => (
               <button
                 key={option}

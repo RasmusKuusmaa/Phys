@@ -116,7 +116,11 @@ export function JournalEntryForm({
               onClick={() => setMinutes(timer.stop())}
               className="rounded-lg border border-accent px-3 py-2 text-xs font-medium text-accent hover:bg-accent/10"
             >
-              {strings.timerStop} · {formatElapsed(timer.elapsedSeconds)}
+              {strings.timerStop}
+              {/* Hidden from the accessible name: it ticks every second, and a
+                  screen reader re-announcing the button on every tick would be
+                  noise, not information. */}
+              <span aria-hidden="true"> · {formatElapsed(timer.elapsedSeconds)}</span>
             </button>
           ) : (
             <button
@@ -132,7 +136,7 @@ export function JournalEntryForm({
 
       <div>
         <span className="block text-xs font-medium text-muted">{strings.understandingLabel}</span>
-        <div className="mt-1 flex flex-wrap gap-2">
+        <div role="group" aria-label={strings.understandingLabel} className="mt-1 flex flex-wrap gap-2">
           {UNDERSTANDING_OPTIONS.map((option) => (
             <button
               key={option}
