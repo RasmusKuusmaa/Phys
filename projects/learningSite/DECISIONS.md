@@ -76,6 +76,25 @@ not US-scoped.
   time the Estonian translation was last synced; the staleness script
   recomputes it at build time and flags drift.
 
+## Reference data
+
+- `content/reference/` holds lookup tables that belong to no single
+  subject — the periodic table is the first. It is registered in
+  `NON_SUBJECT_DIRS`, because anything else directly under `content/` is
+  treated as a new subject and must have concepts.
+- Element names use a plain `{en, et}` pair rather than `LocalisedString`.
+  Element nomenclature is fixed international vocabulary with no English
+  source text that can drift out from under the Estonian, which is the
+  only thing `sourceHash`/`stale` exist to track.
+- Element `category` is a pedagogical grouping, not an IUPAC one — IUPAC
+  formally defines only a few. Elements 109-118 are `unknown` rather than
+  guessed: too few atoms have been made to establish their chemistry.
+- Lanthanides and actinides carry `group: null` and are placed by
+  `src/lib/periodicTable/layout.ts` into their own two rows. That
+  placement is unit-tested to give all 118 elements distinct cells — a
+  wrong group or period would otherwise silently stack two elements in one
+  grid cell, hiding one of them with no error anywhere.
+
 ## Accounts
 
 - Accounts are additive, not required. `notes` and `progress` already lived

@@ -88,6 +88,7 @@ const NON_SUBJECT_DIRS = new Set([
   "terminology", // EN↔ET glossary and banned-variant list
   "curriculum", // parsed UT degree structure — courses, modules, concept mapping
   "actual_ut_course", // raw scraped course text, kept verbatim as the source of truth
+  "reference", // lookup tables that belong to no single subject (e.g. the periodic table)
 ]);
 
 /** Every top-level content directory that holds a subject's concepts. */

@@ -13,7 +13,8 @@
     "practice": "Practice",
     "progress": "Progress",
     "journal": "Journal",
-    "search": "Search"
+    "search": "Search",
+    "periodicTable": "Elements"
   },
   "localeSwitcher": {
     "label": "Language"
@@ -134,6 +135,33 @@
     "moduleUnderstandingHeading": "Understanding by module",
     "noModuleData": "Log some sessions to see this.",
     "testYourself": "Test yourself"
+  },
+  "periodicTable": {
+    "heading": "Periodic table",
+    "intro": "All 118 elements, coloured by category. Pick one to see its details.",
+    "searchPlaceholder": "Find an element by name, symbol or number",
+    "selectPrompt": "Pick an element to see its details.",
+    "noMatches": "No element matches",
+    "atomicNumber": "Atomic number",
+    "mass": "Atomic mass",
+    "group": "Group",
+    "period": "Period",
+    "block": "Block",
+    "categoryLabel": "Category",
+    "massNote": "Values in brackets are the mass number of the most stable known isotope.",
+    "fBlockNote": "The lanthanides and actinides are shown in their own two rows below.",
+    "category": {
+      "alkali-metal": "Alkali metal",
+      "alkaline-earth-metal": "Alkaline earth metal",
+      "transition-metal": "Transition metal",
+      "post-transition-metal": "Post-transition metal",
+      "metalloid": "Metalloid",
+      "reactive-nonmetal": "Reactive nonmetal",
+      "noble-gas": "Noble gas",
+      "lanthanide": "Lanthanide",
+      "actinide": "Actinide",
+      "unknown": "Chemistry unknown"
+    }
   },
   "notFound": {
     "heading": "Page not found",

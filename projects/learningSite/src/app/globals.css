@@ -147,3 +147,39 @@ a {
     scroll-behavior: auto !important;
   }
 }
+
+/* Periodic table category hues. Defined once, not per theme: every cell
+   mixes its hue with `transparent`, so the theme's own background shows
+   through and the same value reads correctly in light and dark. */
+:root {
+  --el-alkali-metal: #dc2626;
+  --el-alkaline-earth-metal: #ea580c;
+  --el-transition-metal: #ca8a04;
+  --el-post-transition-metal: #16a34a;
+  --el-metalloid: #0d9488;
+  --el-reactive-nonmetal: #2563eb;
+  --el-noble-gas: #7c3aed;
+  --el-lanthanide: #db2777;
+  --el-actinide: #9333ea;
+  --el-unknown: #6b7280;
+}
+
+.element-cell {
+  background: color-mix(in srgb, var(--el-hue) 14%, transparent);
+  border: 1px solid color-mix(in srgb, var(--el-hue) 35%, transparent);
+}
+
+.element-cell:hover {
+  background: color-mix(in srgb, var(--el-hue) 28%, transparent);
+}
+
+.element-cell[aria-pressed="true"] {
+  outline: 2px solid var(--el-hue);
+  outline-offset: 1px;
+}
+
+/* Dimmed rather than hidden while searching, so the table keeps its shape
+   and you can still see where a match sits among its neighbours. */
+.element-cell[data-match="false"] {
+  opacity: 0.15;
+}

@@ -11,3 +11,4 @@ export * from "./problemTemplate";
 export * from "./errorModel";
 export * from "./conceptItem";
 export * from "./testConfig";
+export * from "./element";

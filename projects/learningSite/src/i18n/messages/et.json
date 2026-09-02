@@ -13,7 +13,8 @@
     "practice": "Harjutused",
     "progress": "Edenemine",
     "journal": "Päevik",
-    "search": "Otsing"
+    "search": "Otsing",
+    "periodicTable": "Elemendid"
   },
   "localeSwitcher": {
     "label": "Keel"
@@ -134,6 +135,33 @@
     "moduleUnderstandingHeading": "Mõistmine mooduli kaupa",
     "noModuleData": "Logi sessioone, et seda näha.",
     "testYourself": "Testi ennast"
+  },
+  "periodicTable": {
+    "heading": "Perioodilisustabel",
+    "intro": "Kõik 118 elementi, värvitud rühmituse järgi. Vali element, et näha selle andmeid.",
+    "searchPlaceholder": "Otsi elementi nime, sümboli või numbri järgi",
+    "selectPrompt": "Vali element, et näha selle andmeid.",
+    "noMatches": "Ükski element ei sobi",
+    "atomicNumber": "Aatomnumber",
+    "mass": "Aatommass",
+    "group": "Rühm",
+    "period": "Periood",
+    "block": "Plokk",
+    "categoryLabel": "Rühmitus",
+    "massNote": "Sulgudes olevad väärtused on kõige stabiilsema teadaoleva isotoobi massiarv.",
+    "fBlockNote": "Lantanoidid ja aktinoidid on toodud allpool kahel eraldi real.",
+    "category": {
+      "alkali-metal": "Leelismetall",
+      "alkaline-earth-metal": "Leelismuldmetall",
+      "transition-metal": "Siirdemetall",
+      "post-transition-metal": "Siirdejärgne metall",
+      "metalloid": "Poolmetall",
+      "reactive-nonmetal": "Reaktiivne mittemetall",
+      "noble-gas": "Väärisgaas",
+      "lanthanide": "Lantanoid",
+      "actinide": "Aktinoid",
+      "unknown": "Keemia teadmata"
+    }
   },
   "notFound": {
     "heading": "Lehte ei leitud",
