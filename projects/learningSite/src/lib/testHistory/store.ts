@@ -54,3 +54,16 @@ export function attemptsForConcept(history: TestHistory, conceptId: string): Tes
     .filter((a) => a.conceptIds.includes(conceptId))
     .sort((a, b) => b.takenAt.localeCompare(a.takenAt));
 }
+
+/** Newest day first, each with its attempts newest first — mirrors `listSessionsByDate` so the journal timeline can merge both without special-casing either. */
+export function listAttemptsByDate(history: TestHistory): [string, TestAttempt[]][] {
+  const byDate = new Map<string, TestAttempt[]>();
+  for (const attempt of Object.values(history.attempts)) {
+    const date = attempt.takenAt.slice(0, 10);
+    const list = byDate.get(date) ?? [];
+    list.push(attempt);
+    byDate.set(date, list);
+  }
+  for (const list of byDate.values()) list.sort((a, b) => b.takenAt.localeCompare(a.takenAt));
+  return [...byDate.entries()].sort((a, b) => b[0].localeCompare(a[0]));
+}

@@ -7,6 +7,9 @@ import type { Messages } from "@/i18n/dictionaries";
 import { useJournal } from "@/lib/journal/useJournal";
 import { listSessionsByDate, updateSession, deleteSession } from "@/lib/journal/store";
 import type { StudySession, Understanding } from "@/lib/journal/schema";
+import { useTestHistory } from "@/lib/testHistory/useTestHistory";
+import { listAttemptsByDate } from "@/lib/testHistory/store";
+import type { TestAttempt } from "@/lib/testHistory/schema";
 
 const UNDERSTANDING_OPTIONS = [1, 2, 3, 4, 5] as const;
 
@@ -47,16 +50,25 @@ export function JournalTimeline({
     | "minutesLabel"
     | "understandingLabel"
     | "noteLabel"
+    | "testAttemptLabel"
   >;
 }) {
   const journal = useJournal();
+  const testHistory = useTestHistory();
   const [month, setMonth] = useState(() => monthOf(new Date().toISOString().slice(0, 10)));
 
   const titleById = useMemo(() => new Map(concepts.map((c) => [c.id, c.title[locale]])), [concepts, locale]);
 
-  if (journal === null) return null;
+  if (journal === null || testHistory === null) return null;
 
-  const byDate = listSessionsByDate(journal).filter(([date]) => monthOf(date) === month);
+  const sessionsByDate = new Map(listSessionsByDate(journal));
+  const attemptsByDate = new Map(listAttemptsByDate(testHistory));
+  // A day can have a test attempt with no logged session (or the other way
+  // round), so the timeline's dates are the union of both, not just one.
+  const byDate = [...new Set([...sessionsByDate.keys(), ...attemptsByDate.keys()])]
+    .filter((date) => monthOf(date) === month)
+    .sort((a, b) => b.localeCompare(a))
+    .map((date): [string, StudySession[]] => [date, sessionsByDate.get(date) ?? []]);
   const monthLabel = new Date(`${month}-01T00:00:00`).toLocaleDateString(locale, {
     year: "numeric",
     month: "long",
@@ -94,6 +106,7 @@ export function JournalTimeline({
           {byDate.map(([date, sessions]) => {
             const totalMinutes = sessions.reduce((sum, s) => sum + s.minutes, 0);
             const reflection = journal.days[date]?.reflection;
+            const attempts = attemptsByDate.get(date) ?? [];
             return (
               <div key={date}>
                 <div className="flex items-baseline justify-between text-xs text-muted">
@@ -104,7 +117,7 @@ export function JournalTimeline({
                       day: "numeric",
                     })}
                   </span>
-                  <span>{totalMinutes} min</span>
+                  {totalMinutes > 0 && <span>{totalMinutes} min</span>}
                 </div>
                 {reflection && <p className="mt-1 text-sm italic text-muted">{reflection}</p>}
                 <ul className="mt-2 space-y-2">
@@ -116,6 +129,9 @@ export function JournalTimeline({
                       strings={strings}
                     />
                   ))}
+                  {attempts.map((attempt) => (
+                    <AttemptRow key={attempt.id} attempt={attempt} label={strings.testAttemptLabel} />
+                  ))}
                 </ul>
               </div>
             );
@@ -123,6 +139,15 @@ export function JournalTimeline({
         </div>
       )}
     </section>
+  );
+}
+
+/** Read-only, unlike SessionRow — a finished test attempt is a fact about the past, not a note that gets edited or deleted. */
+function AttemptRow({ attempt, label }: { attempt: TestAttempt; label: string }) {
+  return (
+    <li className="rounded-xl border border-dashed border-border p-3 text-sm text-muted">
+      {label} · {attempt.percent}%
+    </li>
   );
 }
 
