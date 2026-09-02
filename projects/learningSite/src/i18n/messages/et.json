@@ -52,6 +52,8 @@
     "typeGlossary": "Sõnastiku termin"
   },
   "journal": {
+    "heading": "Päevik",
+    "intro": "Logi, mida täna õppisid — kui kaua, kui hästi mõistsid, ja lisa märkusi.",
     "topicLabel": "Teema",
     "topicFilterPlaceholder": "Otsi teemasid",
     "noTopicsMatch": "Ükski teema ei vasta filtrile.",
@@ -67,7 +69,9 @@
     "sessionLogged": "Sessioon salvestatud.",
     "pickTopicFirst": "Vali teema, millele aega logida.",
     "timerStart": "Käivita taimer",
-    "timerStop": "Peata"
+    "timerStop": "Peata",
+    "todaysSessions": "Tänased sessioonid",
+    "noSessionsToday": "Täna pole veel midagi logitud."
   },
   "notFound": {
     "heading": "Lehte ei leitud",
