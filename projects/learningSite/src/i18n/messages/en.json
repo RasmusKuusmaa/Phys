@@ -72,7 +72,11 @@
     "timerStart": "Start timer",
     "timerStop": "Stop",
     "todaysSessions": "Today's sessions",
-    "noSessionsToday": "Nothing logged yet today."
+    "noSessionsToday": "Nothing logged yet today.",
+    "history": "History",
+    "noEntries": "No journal entries yet.",
+    "previousMonth": "Previous month",
+    "nextMonth": "Next month"
   },
   "notFound": {
     "heading": "Page not found",

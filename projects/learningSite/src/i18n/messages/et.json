@@ -72,7 +72,11 @@
     "timerStart": "Käivita taimer",
     "timerStop": "Peata",
     "todaysSessions": "Tänased sessioonid",
-    "noSessionsToday": "Täna pole veel midagi logitud."
+    "noSessionsToday": "Täna pole veel midagi logitud.",
+    "history": "Ajalugu",
+    "noEntries": "Päevikukandeid pole veel.",
+    "previousMonth": "Eelmine kuu",
+    "nextMonth": "Järgmine kuu"
   },
   "notFound": {
     "heading": "Lehte ei leitud",
