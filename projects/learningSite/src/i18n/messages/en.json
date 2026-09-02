@@ -217,7 +217,8 @@
     "moduleUnderstandingHeading": "Understanding by module",
     "noModuleData": "Log some sessions to see this.",
     "testYourself": "Test yourself",
-    "recentAttemptsLabel": "Recent test scores"
+    "recentAttemptsLabel": "Recent test scores",
+    "ratingMismatchNotice": "Your last test scored lower than this rating suggests."
   },
   "periodicTable": {
     "heading": "Periodic table",

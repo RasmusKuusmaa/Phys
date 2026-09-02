@@ -217,7 +217,8 @@
     "moduleUnderstandingHeading": "Mõistmine mooduli kaupa",
     "noModuleData": "Logi sessioone, et seda näha.",
     "testYourself": "Testi ennast",
-    "recentAttemptsLabel": "Viimased testitulemused"
+    "recentAttemptsLabel": "Viimased testitulemused",
+    "ratingMismatchNotice": "Sinu viimane test läks halvemini, kui see hinnang eeldab."
   },
   "periodicTable": {
     "heading": "Perioodilisustabel",

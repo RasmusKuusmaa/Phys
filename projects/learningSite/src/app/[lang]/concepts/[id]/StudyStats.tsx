@@ -7,6 +7,7 @@ import { useJournal } from "@/lib/journal/useJournal";
 import { minutesForConcept, understandingTrend, lastStudied } from "@/lib/journal/stats";
 import { useTestHistory } from "@/lib/testHistory/useTestHistory";
 import { attemptsForConcept } from "@/lib/testHistory/store";
+import { ratingMismatch } from "@/lib/testHistory/mismatch";
 
 const RECENT_ATTEMPTS_LIMIT = 5;
 
@@ -27,6 +28,7 @@ export function StudyStats({
     | "neverStudied"
     | "testYourself"
     | "recentAttemptsLabel"
+    | "ratingMismatchNotice"
     | "understanding1"
     | "understanding2"
     | "understanding3"
@@ -70,12 +72,19 @@ export function StudyStats({
     </div>
   );
 
+  // A plain heads-up, not a correction — the self-rating stays whatever
+  // was logged either way.
+  const mismatchNotice = ratingMismatch(latest, attempts) && (
+    <p className="mt-3 text-sm italic text-muted">{strings.ratingMismatchNotice}</p>
+  );
+
   if (totalMinutes === 0 || last === null) {
     return (
       <div className="mt-6 rounded-2xl border border-border p-4">
         <h2 className="text-sm font-semibold">{strings.studyHeading}</h2>
         <p className="mt-2 text-sm text-muted">{strings.neverStudied}</p>
         {attemptsList}
+        {mismatchNotice}
         {testLink}
       </div>
     );
@@ -101,6 +110,7 @@ export function StudyStats({
         )}
       </dl>
       {attemptsList}
+      {mismatchNotice}
       {testLink}
     </div>
   );
