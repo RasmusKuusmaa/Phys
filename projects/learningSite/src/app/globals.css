@@ -137,17 +137,6 @@ a {
   top: 0.5rem;
 }
 
-@media (prefers-reduced-motion: reduce) {
-  *,
-  *::before,
-  *::after {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
-    scroll-behavior: auto !important;
-  }
-}
-
 /* Periodic table category hues. Defined once, not per theme: every cell
    mixes its hue with `transparent`, so the theme's own background shows
    through and the same value reads correctly in light and dark. */
@@ -182,4 +171,36 @@ a {
    and you can still see where a match sits among its neighbours. */
 .element-cell[data-match="false"] {
   opacity: 0.15;
+}
+
+/* Highlights painted over concept prose by the notes feature. The browser
+   default <mark> is a fixed yellow that turns unreadable on the dark
+   theme, so both the wash and the text colour are taken from the theme
+   tokens instead — the underline is what carries the "there's a note
+   here" signal either way. */
+.note-highlight {
+  background: color-mix(in srgb, var(--accent) 16%, transparent);
+  color: inherit;
+  border-radius: 0.125rem;
+  padding: 0.05em 0.1em;
+  text-decoration: underline;
+  text-decoration-color: var(--accent);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 2px;
+  cursor: pointer;
+}
+
+.note-highlight:hover {
+  background: color-mix(in srgb, var(--accent) 28%, transparent);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
