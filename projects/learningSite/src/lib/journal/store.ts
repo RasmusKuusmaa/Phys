@@ -1,5 +1,6 @@
 import { createEmptyJournal, type Journal, type JournalDay, type StudySession, type Understanding } from "./schema";
 import { migrateJournal } from "./migrations";
+import { setConceptStatus } from "@/lib/progress/store";
 
 export const STORAGE_KEY = "journal";
 
@@ -31,6 +32,16 @@ function newId(): string {
   return `${Date.now().toString(36)}-${idCounter}`;
 }
 
+/**
+ * A session's rating is the single input `ConceptStatus` derives from —
+ * confident on strong self-assessed understanding, learning on any
+ * engagement short of that. This keeps one field ("how well do I know
+ * this") rather than a second number drifting alongside the existing one.
+ */
+function deriveConceptStatus(understanding: Understanding): "learning" | "confident" {
+  return understanding >= 4 ? "confident" : "learning";
+}
+
 export function logSession(fields: {
   conceptId: string;
   date: string;
@@ -51,6 +62,7 @@ export function logSession(fields: {
   };
   const journal = readJournal();
   writeJournal({ ...journal, sessions: { ...journal.sessions, [session.id]: session } });
+  setConceptStatus(session.conceptId, deriveConceptStatus(session.understanding));
   return session;
 }
 
@@ -63,6 +75,9 @@ export function updateSession(
   if (!existing) return;
   const updated: StudySession = { ...existing, ...changes, updatedAt: new Date().toISOString() };
   writeJournal({ ...journal, sessions: { ...journal.sessions, [sessionId]: updated } });
+  if (changes.understanding !== undefined) {
+    setConceptStatus(updated.conceptId, deriveConceptStatus(updated.understanding));
+  }
 }
 
 /** Tombstoned, not removed outright, so a sync from another device can't resurrect it — same reasoning as `deleteNote`. */
