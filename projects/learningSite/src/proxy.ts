@@ -22,5 +22,10 @@ export function proxy(request: NextRequest) {
 export const config = {
   // sitemap.xml and robots.txt (Phase 13) are metadata routes crawlers expect
   // at their exact, unprefixed path — never locale-redirect them.
-  matcher: ["/((?!_next|favicon.ico|sitemap.xml|robots.txt).*)"],
+  //
+  // `api` must be excluded too: Auth.js serves its callbacks and provider
+  // round-trips under /api/auth/*, and redirecting those to /en/api/auth/*
+  // breaks every sign-in flow — the OAuth callback URL registered with the
+  // provider would no longer be the URL that answers.
+  matcher: ["/((?!api|_next|favicon.ico|sitemap.xml|robots.txt).*)"],
 };
