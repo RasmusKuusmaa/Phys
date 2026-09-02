@@ -1,0 +1,56 @@
+{
+  "id": "action-angle-variables-item1",
+  "conceptId": "action-angle-variables",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "For a one-dimensional periodic system, which single quantity, computed from one integral over one period, directly gives the system's oscillation frequency via omega = dH/dJ?",
+    "et": "Ühemõõtmelise perioodilise süsteemi jaoks, milline üksik suurus, arvutatud ühest integraalist üle ühe perioodi, annab otse süsteemi võnkesageduse valemi omega = dH/dJ kaudu?",
+    "sourceHash": "efbc0db22fe29a42",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The action J, the phase-space area enclosed by one period of the orbit.",
+        "et": "Tegevus J, faasiruumi pindala, mida ümbritseb orbiidi üks periood.",
+        "sourceHash": "2673e9d30efb149c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The explicit time-dependent solution x(t), obtained by solving the equations of motion in full first.",
+        "et": "Selgesõnaline ajast sõltuv lahend x(t), mis saadakse liikumisvõrrandite täieliku eelneva lahendamise teel.",
+        "sourceHash": "4935bf778b801118",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "action-angle-variables-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The instantaneous angle theta at a single moment in time, read directly off the orbit.",
+        "et": "Hetkeline nurk theta ühel kindlal ajahetkel, loetud otse orbiidilt.",
+        "sourceHash": "05ea8f29bbf09d35",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "action-angle-variables-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The integer quantum number from Bohr-Sommerfeld quantization, since it has no meaning outside old quantum theory.",
+        "et": "Täisarvuline kvantarv Bohr-Sommerfeldi kvantimisest, kuna sellel pole tähendust väljaspool vana kvantteooriat.",
+        "sourceHash": "0c091c5d66f02fc9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "action-angle-variables-m3"
+    }
+  ]
+}

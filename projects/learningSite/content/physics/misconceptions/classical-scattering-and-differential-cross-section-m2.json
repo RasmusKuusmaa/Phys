@@ -1,0 +1,10 @@
+{
+  "id": "classical-scattering-and-differential-cross-section-m2",
+  "conceptId": "classical-scattering-and-differential-cross-section",
+  "text": {
+    "en": "Believing every particle in a scattering beam deflects through the same angle, since they're identical particles with the same incoming speed — different particles pass the force centre at different impact parameters b and so deflect through different angles, which is precisely what the differential cross-section as a function of angle describes.",
+    "et": "Arvamus, et iga osake hajumiskimbus kaldub sama nurga võrra, kuna need on identsed osakesed sama sissetuleva kiirusega — erinevad osakesed mööduvad jõukeskusest erinevate sihtparameetritega b ja seetõttu kalduvad erinevate nurkade võrra, mida diferentsiaalne ristlõige nurga funktsioonina täpselt kirjeldabki.",
+    "sourceHash": "9e73354cb5a09d05",
+    "stale": false
+  }
+}

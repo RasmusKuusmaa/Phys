@@ -1,0 +1,31 @@
+A particle approaching a fixed force centre along a straight line, far from the centre, is
+characterized by its impact parameter b — the perpendicular distance between that incoming
+straight line and the centre if the force weren't there. For a given incoming speed, b
+together with the force law completely determines the scattering angle theta the particle's
+actual trajectory ends up deflected through: b = 0 is a head-on collision (theta = pi, for a
+repulsive force), while large b gives a distant, gentle deflection (theta approaches 0).
+
+A real scattering experiment sends in a broad beam covering a whole range of impact
+parameters at once, and only measures how many particles come out at each angle — not each
+particle's individual b. The differential cross-section d(sigma)/d(Omega) packages exactly
+that: the ratio of impact-parameter area db (weighted by 2*pi*b, since the beam is symmetric
+around the axis) to the corresponding solid angle d(Omega) it scatters into, given the
+beam's density of one particle per unit area. It answers "if I fire particles uniformly
+across a unit area, how many square metres worth end up scattered into this particular
+angular range?" — a property of the target and force law alone, not of how many particles
+you actually fired.
+
+Rutherford's original scattering formula is the differential cross-section for a repulsive
+inverse-square (Coulomb) force, and its distinctive 1/sin^4(theta/2) dependence — a huge
+pile-up of scattering at small angles and a small but nonzero rate even at very large
+angles — is exactly the signature that told Rutherford the atom's positive charge was
+concentrated in a tiny, hard nucleus rather than spread through the whole atom's volume,
+since a spread-out charge distribution would never produce that many large-angle
+deflections.
+
+Integrating the differential cross-section over all solid angles gives the total
+cross-section, an effective target area: for a genuinely infinite-range force like gravity
+or the unshielded Coulomb force, that integral actually diverges (there's no impact
+parameter large enough to guarantee zero deflection), which is a real and correctly
+predicted feature of long-range forces, not a flaw in the formalism — a screened or
+short-range force gives a finite total cross-section instead.

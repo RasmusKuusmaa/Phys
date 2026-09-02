@@ -1,0 +1,10 @@
+{
+  "id": "classical-scattering-and-differential-cross-section-m1",
+  "conceptId": "classical-scattering-and-differential-cross-section",
+  "text": {
+    "en": "Believing the differential cross-section directly gives the number of particles scattered at each angle in a specific experiment — it's a geometric property of the target and force law alone (an effective area per solid angle); the actual particle count also depends on the incoming beam's intensity and the experiment's duration.",
+    "et": "Arvamus, et diferentsiaalne ristlõige annab otse konkreetse katse igal nurgal hajunud osakeste arvu — see on ainult sihtmärgi ja jõuseaduse geomeetriline omadus (efektiivne pindala ruuminurga kohta); tegelik osakeste arv sõltub veel sissetuleva kimbu intensiivsusest ja katse kestusest.",
+    "sourceHash": "5306a3ddcb3257fa",
+    "stale": false
+  }
+}

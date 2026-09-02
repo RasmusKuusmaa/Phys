@@ -1,0 +1,10 @@
+{
+  "id": "action-angle-variables-m1",
+  "conceptId": "action-angle-variables",
+  "text": {
+    "en": "Believing action-angle variables require first solving the equations of motion for position and momentum as explicit functions of time — the entire point is that the action J (and the resulting frequency) can be found from a single integral over one period, without ever solving for x(t) or p(t) explicitly.",
+    "et": "Arvamus, et tegevus-nurk muutujad eeldavad kõigepealt liikumisvõrrandite lahendamist asukoha ja impulsi jaoks selgete ajafunktsioonidena — kogu mõte on selles, et tegevuse J (ja sellest tuleneva sageduse) saab leida ühest integraalist üle ühe perioodi, ilma et peaks kunagi lahendama x(t) või p(t) selgesõnaliselt.",
+    "sourceHash": "92cfd19e29111ba8",
+    "stale": false
+  }
+}

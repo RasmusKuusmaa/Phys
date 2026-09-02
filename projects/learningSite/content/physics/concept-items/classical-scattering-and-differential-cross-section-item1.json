@@ -1,0 +1,56 @@
+{
+  "id": "classical-scattering-and-differential-cross-section-item1",
+  "conceptId": "classical-scattering-and-differential-cross-section",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Rutherford's gold-foil experiment found a small but nonzero rate of alpha particles scattering at very large angles (close to 180 degrees). What did this reveal about the atom?",
+    "et": "Rutherfordi kuldlehe katses leiti väike, kuid nullist erinev alfaosakeste hajumise määr väga suurte nurkade all (ligi 180 kraadi). Mida see aatomi kohta paljastas?",
+    "sourceHash": "c534be6516787890",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The atom's positive charge is concentrated in a tiny, hard nucleus, since only a compact charge distribution reproduces the differential cross-section's large-angle tail — a spread-out charge would never deflect particles that sharply.",
+        "et": "Aatomi positiivne laeng on koondunud väiksesse, kõvasse tuuma, kuna ainult kompaktne laengujaotus taastab diferentsiaalse ristlõike suurenurgalise saba — hajutatud laeng ei kallutaks kunagi osakesi nii järsult.",
+        "sourceHash": "5b3e035475a47f44",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Every alpha particle in the beam must have struck the foil's atoms nearly head-on, since that's the only way to get a large deflection.",
+        "et": "Iga kimbu alfaosake pidi tabama lehe aatomeid peaaegu otse, kuna see on ainus viis suure kõrvalekalde saamiseks.",
+        "sourceHash": "67f55263d646dec0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classical-scattering-and-differential-cross-section-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All alpha particles should scatter through the same angle if the foil is uniform, so the spread of angles observed must mean the foil itself was not uniform.",
+        "et": "Kõik alfaosakesed peaksid ühtlase lehe korral hajuma sama nurga võrra, nii et täheldatud nurkade hajuvus peab tähendama, et leht ise ei olnud ühtlane.",
+        "sourceHash": "4cafd20b73674854",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classical-scattering-and-differential-cross-section-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It showed the scattering theory itself breaks down at large angles for a real atom, since a truly point-like Coulomb source would predict an infinite, unphysical cross-section there.",
+        "et": "See näitas, et hajumisteooria ise laguneb suurte nurkade juures reaalse aatomi korral, kuna tõeliselt punktiline Coulombi allikas ennustaks seal lõpmatu, ebafüüsikalise ristlõike.",
+        "sourceHash": "84cb9a42b330cdd0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "classical-scattering-and-differential-cross-section-m3"
+    }
+  ]
+}

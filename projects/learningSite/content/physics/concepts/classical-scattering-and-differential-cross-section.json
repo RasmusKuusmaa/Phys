@@ -1,0 +1,21 @@
+{
+  "id": "classical-scattering-and-differential-cross-section",
+  "subject": "physics",
+  "level": "L4",
+  "module": "mechanics",
+  "title": {
+    "en": "Classical scattering and the differential cross-section",
+    "et": "Klassikaline hajumine ja diferentsiaalne ristlõige",
+    "sourceHash": "337366da86b5dcbc",
+    "stale": false
+  },
+  "summary": {
+    "en": "When a beam of classical particles scatters off a central force, each particle's impact parameter — its perpendicular offset from the force centre — determines the angle it scatters through. The differential cross-section converts that impact-parameter-to-angle relationship into the quantity actually measured in a scattering experiment: how much of the incoming beam's area ends up scattered into each range of angles, independent of the beam's actual intensity.",
+    "et": "Kui klassikaliste osakeste kimp hajub tsentraaljõu toimel, määrab iga osakese sihtparameeter — ristsuunaline nihe jõukeskusest — nurga, mille võrra see hajub. Diferentsiaalne ristlõige teisendab selle sihtparameetri-nurga seose suuruseks, mida hajumiskatses tegelikult mõõdetakse: kui suur osa sissetuleva kimbu pindalast lõpetab hajumisega igasse nurgavahemikku, olenemata kimbu tegelikust intensiivsusest.",
+    "sourceHash": "c8b66d3739850cc4",
+    "stale": false
+  },
+  "prerequisites": [
+    "central-force-motion-and-orbits"
+  ]
+}

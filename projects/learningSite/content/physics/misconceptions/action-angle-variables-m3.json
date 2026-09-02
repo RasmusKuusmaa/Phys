@@ -1,0 +1,10 @@
+{
+  "id": "action-angle-variables-m3",
+  "conceptId": "action-angle-variables",
+  "text": {
+    "en": "Believing Bohr-Sommerfeld quantization (J equal to an integer times Planck's constant) is just a historical curiosity with no real connection to modern quantum mechanics — it is exactly the semiclassical limit the WKB approximation derives from the Schrödinger equation, which is why it correctly reproduces energy levels for several exactly solvable systems.",
+    "et": "Arvamus, et Bohr-Sommerfeldi kvantimine (J võrdub täisarv korda Plancki konstant) on vaid ajalooline kuriositeet ilma tegeliku seoseta tänapäevase kvantmehaanikaga — see on täpselt see poolklassikaline piirjuht, mille WKB lähendus tuletab Schrödingeri võrrandist, mistõttu see taastab õigesti energiatasemed mitme täpselt lahenduva süsteemi jaoks.",
+    "sourceHash": "07cc9a764558aee8",
+    "stale": false
+  }
+}

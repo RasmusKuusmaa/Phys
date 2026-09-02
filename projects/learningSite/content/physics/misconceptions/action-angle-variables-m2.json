@@ -1,0 +1,10 @@
+{
+  "id": "action-angle-variables-m2",
+  "conceptId": "action-angle-variables",
+  "text": {
+    "en": "Believing the angle variable theta tracks the system's actual instantaneous position in the same way an ordinary angle would — theta is defined precisely so it grows at a constant rate in time, even for a system (like a pendulum) whose actual position moves at a highly non-uniform rate through the period.",
+    "et": "Arvamus, et nurgamuutuja theta jälgib süsteemi tegelikku hetkelist asukohta samamoodi nagu tavaline nurk — theta on defineeritud täpselt nii, et see kasvab ajas konstantsel kiirusel, isegi süsteemi jaoks (nagu pendel), mille tegelik asukoht liigub perioodi jooksul väga ebaühtlasel kiirusel.",
+    "sourceHash": "df5f90f698202721",
+    "stale": false
+  }
+}

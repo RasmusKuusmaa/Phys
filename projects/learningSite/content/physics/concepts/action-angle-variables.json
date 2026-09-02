@@ -1,0 +1,22 @@
+{
+  "id": "action-angle-variables",
+  "subject": "physics",
+  "level": "L4",
+  "module": "mechanics",
+  "title": {
+    "en": "Action-angle variables",
+    "et": "Tegevus-nurk muutujad",
+    "sourceHash": "c69e12976e39459e",
+    "stale": false
+  },
+  "summary": {
+    "en": "For any system whose motion is periodic, a special canonical transformation trades position and momentum for an action variable J — essentially the phase-space area enclosed by one period of motion — and a conjugate angle variable that increases uniformly in time. The system's frequency then falls out directly as a derivative of the Hamiltonian with respect to J alone, without ever solving for the motion explicitly.",
+    "et": "Iga perioodilise liikumisega süsteemi jaoks vahetab spetsiaalne kanooniline teisendus asukoha ja impulsi tegevusmuutuja J vastu — sisuliselt faasiruumi pindala, mida ümbritseb liikumise üks periood — ja konjugeeritud nurgamuutuja vastu, mis kasvab ajas ühtlaselt. Süsteemi sagedus tuleb siis otse Hamiltoni funktsiooni tuletisena ainult J suhtes, ilma et peaks kunagi liikumist selgesõnaliselt lahendama.",
+    "sourceHash": "90f6dd831a523d56",
+    "stale": false
+  },
+  "prerequisites": [
+    "canonical-transformations-and-hamilton-jacobi-theory",
+    "small-oscillations-and-normal-modes"
+  ]
+}
