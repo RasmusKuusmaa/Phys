@@ -1,7 +1,9 @@
 import { describe, it, expect } from "vitest";
-import { mergeNotebooks, mergeProgress } from "./merge";
+import { mergeNotebooks, mergeProgress, mergeJournal, mergeTestHistory } from "./merge";
 import { createEmptyNotebook, type Note, type Notebook } from "@/lib/notes/schema";
 import { createEmptyProgress, type Progress } from "@/lib/progress/schema";
+import { createEmptyJournal, type StudySession, type Journal } from "@/lib/journal/schema";
+import { createEmptyTestHistory, type TestAttempt, type TestHistory } from "@/lib/testHistory/schema";
 
 function note(id: string, title: string, updatedAt: string): Note {
   return { id, title, body: "", links: [], createdAt: "2026-01-01T00:00:00.000Z", updatedAt };
@@ -134,5 +136,111 @@ describe("mergeProgress", () => {
     const a = progress({ conceptStatus: { x: "confident" }, misconceptionHits: { m: 2 } });
     const b = progress({ conceptStatus: { x: "learning" }, misconceptionHits: { m: 7 } });
     expect(mergeProgress(a, b)).toEqual(mergeProgress(b, a));
+  });
+});
+
+describe("mergeJournal", () => {
+  function session(id: string, updatedAt: string, minutes = 20): StudySession {
+    return {
+      id,
+      conceptId: "kinematics-in-one-dimension",
+      date: "2026-09-01",
+      minutes,
+      understanding: 3,
+      note: "",
+      createdAt: T1,
+      updatedAt,
+    };
+  }
+
+  function journal(partial: Partial<Journal>): Journal {
+    return { ...createEmptyJournal(), ...partial };
+  }
+
+  it("keeps sessions that exist on only one side", () => {
+    const merged = mergeJournal(
+      journal({ sessions: { a: session("a", T1) } }),
+      journal({ sessions: { b: session("b", T1) } }),
+    );
+    expect(Object.keys(merged.sessions).sort()).toEqual(["a", "b"]);
+  });
+
+  it("takes the more recently edited copy of a session edited on both devices", () => {
+    const merged = mergeJournal(
+      journal({ sessions: { a: session("a", T1, 10) } }),
+      journal({ sessions: { a: session("a", T2, 40) } }),
+    );
+    expect(merged.sessions.a!.minutes).toBe(40);
+  });
+
+  it("does not resurrect a session deleted on the other device", () => {
+    // Same reasoning as notes: local still has it, remote deleted it later.
+    const merged = mergeJournal(
+      journal({ sessions: { a: session("a", T1) } }),
+      journal({ deletedSessions: { a: T2 } }),
+    );
+    expect(merged.sessions.a).toBeUndefined();
+    expect(merged.deletedSessions.a).toBe(T2);
+  });
+
+  it("brings a session back when it was edited after the deletion", () => {
+    const merged = mergeJournal(
+      journal({ sessions: { a: session("a", T3) } }),
+      journal({ deletedSessions: { a: T2 } }),
+    );
+    expect(merged.sessions.a).toBeDefined();
+  });
+
+  it("merges reflections by updatedAt, one per date with no tombstone to fight", () => {
+    const merged = mergeJournal(
+      journal({ days: { "2026-09-01": { date: "2026-09-01", reflection: "Older", updatedAt: T1 } } }),
+      journal({ days: { "2026-09-01": { date: "2026-09-01", reflection: "Newer", updatedAt: T2 } } }),
+    );
+    expect(merged.days["2026-09-01"]!.reflection).toBe("Newer");
+  });
+
+  it("is symmetric", () => {
+    const left = journal({ sessions: { a: session("a", T1), c: session("c", T1) } });
+    const right = journal({ sessions: { a: session("a", T2) }, deletedSessions: { c: T3 } });
+    const ab = mergeJournal(left, right);
+    const ba = mergeJournal(right, left);
+    expect(Object.keys(ab.sessions).sort()).toEqual(Object.keys(ba.sessions).sort());
+  });
+
+  it("produces a current-version journal", () => {
+    expect(mergeJournal(createEmptyJournal(), createEmptyJournal()).version).toBe(1);
+  });
+});
+
+describe("mergeTestHistory", () => {
+  function attempt(id: string, takenAt: string, percent = 80): TestAttempt {
+    return { id, conceptIds: ["kinematics-in-one-dimension"], percent, itemCount: 5, takenAt };
+  }
+
+  function history(partial: Partial<TestHistory>): TestHistory {
+    return { ...createEmptyTestHistory(), ...partial };
+  }
+
+  it("unions attempts taken on only one device", () => {
+    const merged = mergeTestHistory(
+      history({ attempts: { a: attempt("a", T1) } }),
+      history({ attempts: { b: attempt("b", T2) } }),
+    );
+    expect(Object.keys(merged.attempts).sort()).toEqual(["a", "b"]);
+  });
+
+  it("keeps every attempt from a one-sided history untouched", () => {
+    const merged = mergeTestHistory(history({ attempts: { a: attempt("a", T1), b: attempt("b", T2) } }), history({}));
+    expect(merged.attempts).toEqual({ a: attempt("a", T1), b: attempt("b", T2) });
+  });
+
+  it("is symmetric", () => {
+    const left = history({ attempts: { a: attempt("a", T1) } });
+    const right = history({ attempts: { b: attempt("b", T2) } });
+    expect(mergeTestHistory(left, right)).toEqual(mergeTestHistory(right, left));
+  });
+
+  it("produces a current-version history", () => {
+    expect(mergeTestHistory(createEmptyTestHistory(), createEmptyTestHistory()).version).toBe(1);
   });
 });
