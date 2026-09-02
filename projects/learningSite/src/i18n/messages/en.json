@@ -79,7 +79,12 @@
     "nextMonth": "Next month",
     "reflectionLabel": "How did today go?",
     "reflectionPlaceholder": "Optional reflection for the day",
-    "saveReflection": "Save reflection"
+    "saveReflection": "Save reflection",
+    "editSession": "Edit",
+    "deleteSession": "Delete",
+    "confirmDeleteSession": "Delete this session?",
+    "cancel": "Cancel",
+    "saveEdit": "Save"
   },
   "notFound": {
     "heading": "Page not found",

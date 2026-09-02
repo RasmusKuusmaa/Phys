@@ -79,7 +79,12 @@
     "nextMonth": "Järgmine kuu",
     "reflectionLabel": "Kuidas tänane päev läks?",
     "reflectionPlaceholder": "Valikuline mõte päeva kohta",
-    "saveReflection": "Salvesta mõte"
+    "saveReflection": "Salvesta mõte",
+    "editSession": "Muuda",
+    "deleteSession": "Kustuta",
+    "confirmDeleteSession": "Kas kustutada see sessioon?",
+    "cancel": "Loobu",
+    "saveEdit": "Salvesta"
   },
   "notFound": {
     "heading": "Lehte ei leitud",
