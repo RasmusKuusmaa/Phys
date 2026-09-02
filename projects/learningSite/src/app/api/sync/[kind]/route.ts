@@ -3,12 +3,14 @@ import { auth } from "@/auth";
 import { getPool } from "@/db/pool";
 import { NotebookSchema } from "@/lib/notes/schema";
 import { ProgressSchema } from "@/lib/progress/schema";
-import { mergeNotebooks, mergeProgress } from "@/lib/sync/merge";
+import { JournalSchema } from "@/lib/journal/schema";
+import { TestHistorySchema } from "@/lib/testHistory/schema";
+import { mergeNotebooks, mergeProgress, mergeJournal, mergeTestHistory } from "@/lib/sync/merge";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
-const KINDS = ["notes", "progress"] as const;
+const KINDS = ["notes", "progress", "journal", "testHistory"] as const;
 type Kind = (typeof KINDS)[number];
 
 function isKind(value: string): value is Kind {
@@ -17,7 +19,39 @@ function isKind(value: string): value is Kind {
 
 /** Validate on the way in *and* out: the column is jsonb, so nothing but this guarantees the shape. */
 function schemaFor(kind: Kind) {
-  return kind === "notes" ? NotebookSchema : ProgressSchema;
+  switch (kind) {
+    case "notes":
+      return NotebookSchema;
+    case "progress":
+      return ProgressSchema;
+    case "journal":
+      return JournalSchema;
+    case "testHistory":
+      return TestHistorySchema;
+  }
+}
+
+/** One merge function per kind (see DECISIONS.md § Accounts on why there's no default) — `stored`/`incoming` are both already schema-validated for `kind`, so the cast per branch is just telling TypeScript what the switch already guarantees. */
+function merge(kind: Kind, incoming: unknown, stored: unknown): unknown {
+  switch (kind) {
+    case "notes":
+      return mergeNotebooks(
+        incoming as Parameters<typeof mergeNotebooks>[0],
+        stored as Parameters<typeof mergeNotebooks>[1],
+      );
+    case "progress":
+      return mergeProgress(
+        incoming as Parameters<typeof mergeProgress>[0],
+        stored as Parameters<typeof mergeProgress>[1],
+      );
+    case "journal":
+      return mergeJournal(incoming as Parameters<typeof mergeJournal>[0], stored as Parameters<typeof mergeJournal>[1]);
+    case "testHistory":
+      return mergeTestHistory(
+        incoming as Parameters<typeof mergeTestHistory>[0],
+        stored as Parameters<typeof mergeTestHistory>[1],
+      );
+  }
 }
 
 async function readStored(userId: string, kind: Kind) {
@@ -81,18 +115,7 @@ export async function PUT(request: Request, { params }: { params: Promise<{ kind
     const storedParsed = rows.length ? schemaFor(kind).safeParse(rows[0]!.data) : null;
     const stored = storedParsed?.success ? storedParsed.data : null;
 
-    const merged =
-      stored === null
-        ? incoming.data
-        : kind === "notes"
-          ? mergeNotebooks(
-              incoming.data as Parameters<typeof mergeNotebooks>[0],
-              stored as Parameters<typeof mergeNotebooks>[1],
-            )
-          : mergeProgress(
-              incoming.data as Parameters<typeof mergeProgress>[0],
-              stored as Parameters<typeof mergeProgress>[1],
-            );
+    const merged = stored === null ? incoming.data : merge(kind, incoming.data, stored);
 
     await client.query(
       `insert into user_data (user_id, kind, data, updated_at)
