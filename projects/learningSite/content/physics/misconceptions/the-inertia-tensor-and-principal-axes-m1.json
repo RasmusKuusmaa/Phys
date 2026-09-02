@@ -1,0 +1,10 @@
+{
+  "id": "the-inertia-tensor-and-principal-axes-m1",
+  "conceptId": "the-inertia-tensor-and-principal-axes",
+  "text": {
+    "en": "Believing angular momentum and angular velocity must always point in the same direction for any rigid body, the way L = Iω does with a scalar I in introductory mechanics — this only holds exactly when the rotation axis is one of the body's principal axes; off a principal axis, the inertia tensor rotates L away from ω.",
+    "et": "Arvamus, et impulsimoment ja nurkkiirus peavad jäiga keha korral alati osutama samas suunas, nii nagu L = Iω skalaarse I korral sissejuhatavas mehaanikas — see kehtib täpselt ainult siis, kui pöörlemistelg on üks keha peatelgedest; väljaspool peatelge pöörab inertsitensor L suuna ω suunast eemale.",
+    "sourceHash": "921801bb9c7da8f4",
+    "stale": false
+  }
+}

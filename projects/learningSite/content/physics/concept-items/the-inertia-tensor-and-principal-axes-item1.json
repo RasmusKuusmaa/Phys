@@ -1,0 +1,56 @@
+{
+  "id": "the-inertia-tensor-and-principal-axes-item1",
+  "conceptId": "the-inertia-tensor-and-principal-axes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A torque-free rigid body is set spinning about an axis that is not one of its principal axes. What actually happens?",
+    "et": "Jõumomendivaba jäik keha pannakse pöörlema telje ümber, mis ei ole tema peatelgedest ükski. Mis tegelikult juhtub?",
+    "sourceHash": "b68986ce8dc538df",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Angular momentum stays constant, but angular velocity changes direction over time, sweeping out a cone around it — torque-free precession, since the inertia tensor doesn't keep the two vectors parallel off a principal axis.",
+        "et": "Impulsimoment jääb konstantseks, kuid nurkkiirus muudab ajas suunda, kirjeldades selle ümber koonust — jõumomendivaba pretsessioon, kuna inertsitensor ei hoia kaht vektorit väljaspool peatelge paralleelsena.",
+        "sourceHash": "1e91152d2a3bdc49",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Angular momentum and angular velocity both stay exactly constant and parallel, since no torque acts on the body.",
+        "et": "Impulsimoment ja nurkkiirus jäävad mõlemad täpselt konstantseks ja paralleelseks, kuna kehale ei mõju jõumoment.",
+        "sourceHash": "2a08e00f9b6df8e3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-inertia-tensor-and-principal-axes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Angular momentum isn't actually conserved in this case, since a non-principal rotation axis breaks the conservation law.",
+        "et": "Sel juhul ei ole impulsimoment tegelikult jääv, kuna mitte-peatelg rikub jäävusseaduse.",
+        "sourceHash": "bec48151c972d5d5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-inertia-tensor-and-principal-axes-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This can only happen for irregularly-shaped bodies — a sphere or cube spun this way would behave exactly like it does about any other axis.",
+        "et": "See saab juhtuda ainult ebakorrapärase kujuga kehade puhul — kera või kuup käituks nii pööratuna täpselt samamoodi nagu mistahes muu telje ümber.",
+        "sourceHash": "021058e758711012",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-inertia-tensor-and-principal-axes-m3"
+    }
+  ]
+}

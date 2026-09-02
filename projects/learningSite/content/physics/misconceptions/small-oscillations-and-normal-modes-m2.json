@@ -1,0 +1,10 @@
+{
+  "id": "small-oscillations-and-normal-modes-m2",
+  "conceptId": "small-oscillations-and-normal-modes",
+  "text": {
+    "en": "Believing a normal mode means only one coordinate moves at a time while the others stay still — a normal mode is a specific pattern in which every coordinate generally moves simultaneously, each with its own fixed amplitude ratio and phase relative to the others, all at the one shared frequency.",
+    "et": "Arvamus, et normaalmood tähendab, et korraga liigub ainult üks koordinaat, teised jäävad paigale — normaalmood on konkreetne muster, kus üldiselt liiguvad kõik koordinaadid samaaegselt, igaüks oma kindla amplituudisuhte ja faasiga teiste suhtes, kõik ühel ühisel sagedusel.",
+    "sourceHash": "640463efaf190cb5",
+    "stale": false
+  }
+}

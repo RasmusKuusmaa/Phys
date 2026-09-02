@@ -1,0 +1,10 @@
+{
+  "id": "eulers-equations-and-torque-free-precession-m3",
+  "conceptId": "eulers-equations-and-torque-free-precession",
+  "text": {
+    "en": "Believing the tennis-racket instability is a real-world quirk (air resistance, an imperfect throw) rather than an exact prediction of the torque-free Euler equations — the instability shows up even in an idealised, frictionless mathematical model with a perfectly rigid body.",
+    "et": "Arvamus, et tennisereketi ebastabiilsus on reaalse maailma iseärasus (õhutakistus, ebatäpne vise), mitte jõumomendivabade Euleri võrrandite täpne ennustus — ebastabiilsus ilmneb ka idealiseeritud, hõõrdumiseta matemaatilises mudelis täiesti jäiga kehaga.",
+    "sourceHash": "dd9229dfa22be90c",
+    "stale": false
+  }
+}

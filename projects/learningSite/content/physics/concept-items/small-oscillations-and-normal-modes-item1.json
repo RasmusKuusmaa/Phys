@@ -1,0 +1,56 @@
+{
+  "id": "small-oscillations-and-normal-modes-item1",
+  "conceptId": "small-oscillations-and-normal-modes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two identical masses on a frictionless track are connected to each other and to two fixed walls by three identical springs, in a line. How many normal modes does this system have, and what does the lower-frequency one look like?",
+    "et": "Kaks identset massi hõõrdumiseta rajal on ühendatud teineteise ja kahe kinnitatud seinaga kolme identse vedruga, ühes reas. Mitu normaalmoodi sellel süsteemil on ja milline näeb välja madalama sagedusega mood?",
+    "sourceHash": "ee3d8d99d50e8975",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Two normal modes; the lower-frequency one has both masses moving in phase, the same direction and amplitude, so the middle spring never stretches.",
+        "et": "Kaks normaalmoodi; madalama sagedusega moodis liiguvad mõlemad massid samas faasis, samas suunas ja amplituudiga, nii et keskmine vedru ei venita kunagi.",
+        "sourceHash": "fe29300a72eb5106",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This system is too irregular for normal-mode analysis — that method only works for a single pendulum-like pair, not three springs in a row.",
+        "et": "See süsteem on normaalmoodi analüüsi jaoks liiga ebakorrapärane — see meetod töötab ainult ühe pendlisarnase paari jaoks, mitte kolme reas oleva vedru jaoks.",
+        "sourceHash": "3f17d6d6564885c0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "small-oscillations-and-normal-modes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Two normal modes; the lower-frequency one has only one of the two masses moving at all, while the other stays fixed.",
+        "et": "Kaks normaalmoodi; madalama sagedusega moodis liigub ainult üks kahest massist, teine jääb paigale.",
+        "sourceHash": "21d61be679b62304",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "small-oscillations-and-normal-modes-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The number of normal modes depends on the initial condition given to the system, so it can't be stated without knowing how it's released.",
+        "et": "Normaalmoodide arv sõltub süsteemile antud alustingimusest, nii et seda ei saa öelda ilma teadmata, kuidas see lahti lastakse.",
+        "sourceHash": "198e304745f3c48c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "small-oscillations-and-normal-modes-m3"
+    }
+  ]
+}

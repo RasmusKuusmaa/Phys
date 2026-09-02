@@ -1,0 +1,10 @@
+{
+  "id": "small-oscillations-and-normal-modes-m1",
+  "conceptId": "small-oscillations-and-normal-modes",
+  "text": {
+    "en": "Believing normal modes only apply to simple, obviously symmetric systems like two identical coupled pendulums — the same eigenvalue method applies to any number of coupled coordinates near any stable equilibrium, symmetric or not, which is exactly why it scales up to molecular vibrations and crystal lattices.",
+    "et": "Arvamus, et normaalmoodid kehtivad ainult lihtsate, ilmselgelt sümmeetriliste süsteemide jaoks nagu kaks identset seotud pendlit — sama omaväärtusmeetod kehtib mistahes arvu seotud koordinaatide jaoks mistahes stabiilse tasakaaluoleku lähedal, sümmeetriline või mitte, ning just seepärast laieneb see molekulide võnkumistele ja kristallvõredele.",
+    "sourceHash": "5799ef6b2e07704d",
+    "stale": false
+  }
+}

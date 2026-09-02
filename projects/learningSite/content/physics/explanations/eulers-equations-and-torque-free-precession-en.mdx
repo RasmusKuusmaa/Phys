@@ -1,0 +1,22 @@
+Newton's second law for rotation, torque = dL/dt, is simplest to write in an inertial frame,
+but for a spinning rigid body it's far easier to solve in the frame that rotates along with
+the body — the one in which the inertia tensor is diagonal and constant, since the principal
+axes are fixed in the body. Translating dL/dt into that rotating frame introduces an extra
+term for the frame's own rotation, and the result is Euler's equations: three coupled
+equations, one per principal axis, each relating the time derivative of one component of
+angular velocity to the other two components and the corresponding torque.
+
+With zero external torque, Euler's equations still couple the three components of omega to
+each other through the differences between the principal moments of inertia — a body doesn't
+just keep spinning about whatever axis it started on unless that axis is exactly one of the
+three principal axes. Linearizing the equations around steady rotation about each principal
+axis reveals which of the three is actually stable: rotation about the axis of largest or
+smallest principal moment of inertia relaxes back toward steady spin after a small
+perturbation, while rotation about the intermediate axis grows away from it.
+
+This is the intermediate-axis theorem, and it is easy to demonstrate with an ordinary object:
+a rectangular block (a tennis racket, a smartphone, a book) thrown spinning cleanly about its
+longest or shortest axis keeps spinning cleanly, but thrown spinning about its middle-length
+axis it tumbles unpredictably in flight, flipping through a half-turn before settling back —
+the same instability Euler's equations predict for any asymmetric rigid body, not a fluke of
+any particular object.

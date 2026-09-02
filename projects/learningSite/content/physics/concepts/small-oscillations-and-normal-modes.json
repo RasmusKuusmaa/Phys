@@ -1,0 +1,22 @@
+{
+  "id": "small-oscillations-and-normal-modes",
+  "subject": "physics",
+  "level": "L4",
+  "module": "mechanics",
+  "title": {
+    "en": "Small oscillations and normal modes",
+    "et": "Väikesed võnkumised ja normaalmoodid",
+    "sourceHash": "a6cbcaa3ee826b60",
+    "stale": false
+  },
+  "summary": {
+    "en": "Near a stable equilibrium, any system of coupled masses and springs — or, more generally, any Lagrangian system near a potential minimum — can be described by a set of independent normal-mode coordinates, each oscillating at its own single frequency found from a generalized eigenvalue problem built from the system's mass and stiffness matrices, the same mathematical structure whether the system is two pendulums or a crystal lattice.",
+    "et": "Stabiilse tasakaaluoleku lähedal saab iga seotud masside ja vedrude süsteemi — või üldisemalt, iga Lagrange'i süsteemi potentsiaali miinimumi lähedal — kirjeldada sõltumatute normaalmoodi koordinaatide kogumiga, millest igaüks võngub oma sagedusel, mis leitakse süsteemi massi- ja jäikusmaatriksitest moodustatud üldistatud omaväärtusülesandest — sama matemaatiline struktuur, olgu süsteemiks kaks pendlit või kristallvõre.",
+    "sourceHash": "15d58667cd7d6890",
+    "stale": false
+  },
+  "prerequisites": [
+    "simple-harmonic-motion",
+    "lagrangian-mechanics"
+  ]
+}

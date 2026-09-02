@@ -1,0 +1,22 @@
+{
+  "id": "the-inertia-tensor-and-principal-axes",
+  "subject": "physics",
+  "level": "L4",
+  "module": "mechanics",
+  "title": {
+    "en": "The inertia tensor and principal axes",
+    "et": "Inertsitensor ja peateljed",
+    "sourceHash": "b453bd38137374eb",
+    "stale": false
+  },
+  "summary": {
+    "en": "For a rigid body rotating about an arbitrary axis, angular momentum is generally not parallel to angular velocity — the two are related by the inertia tensor, a rank-2 tensor built from the body's mass distribution. Diagonalizing this tensor finds the principal axes, the special set of axes about which angular momentum and angular velocity do align, reducing the moment of inertia to three principal values.",
+    "et": "Kui jäik keha pöörleb suvalise telje ümber, ei ole impulsimoment üldiselt paralleelne nurkkiirusega — need kaks on seotud inertsitensori kaudu, mis on keha massijaotusest moodustatud teist järku tensor. Selle tensori diagonaliseerimine leiab peateljed — erilise teljestiku, mille ümber impulsimoment ja nurkkiirus siiski on paralleelsed, taandades inertsimomendi kolmeks peaväärtuseks.",
+    "sourceHash": "82db657e4a89c4ea",
+    "stale": false
+  },
+  "prerequisites": [
+    "moment-of-inertia-and-rotational-dynamics",
+    "torque-and-angular-momentum"
+  ]
+}

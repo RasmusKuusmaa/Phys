@@ -1,0 +1,10 @@
+{
+  "id": "small-oscillations-and-normal-modes-m3",
+  "conceptId": "small-oscillations-and-normal-modes",
+  "text": {
+    "en": "Believing any complicated small oscillation of a coupled system needs its own separate analysis — any small motion near equilibrium, however messy it looks, is always exactly a superposition of the system's fixed set of normal modes, found once and reused for every initial condition.",
+    "et": "Arvamus, et iga keeruline seotud süsteemi väike võnkumine vajab oma eraldi analüüsi — mistahes väike liikumine tasakaaluoleku lähedal, ükskõik kui segane see ka ei näi, on alati täpselt süsteemi fikseeritud normaalmoodide kogumi superpositsioon, mis leitakse üks kord ja kasutatakse iga alustingimuse jaoks uuesti.",
+    "sourceHash": "496e5c4a2d4cdcdc",
+    "stale": false
+  }
+}

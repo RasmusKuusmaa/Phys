@@ -1,0 +1,10 @@
+{
+  "id": "the-inertia-tensor-and-principal-axes-m2",
+  "conceptId": "the-inertia-tensor-and-principal-axes",
+  "text": {
+    "en": "Believing that if the rotation axis isn't a principal axis, angular momentum simply isn't conserved anymore — conservation of angular momentum with zero external torque is a coordinate-independent law; what changes off a principal axis is that L stops being parallel to ω, not that L stops being constant.",
+    "et": "Arvamus, et kui pöörlemistelg pole peatelg, siis impulsimoment lihtsalt ei jää enam jäävaks — impulsimomendi jäävus nullise välise jõumomendi korral on koordinaatidest sõltumatu seadus; peatelje puudumisel muutub see, et L lakkab olemast paralleelne ω-ga, mitte see, et L lakkab olemast konstantne.",
+    "sourceHash": "8e027b91c89918c7",
+    "stale": false
+  }
+}

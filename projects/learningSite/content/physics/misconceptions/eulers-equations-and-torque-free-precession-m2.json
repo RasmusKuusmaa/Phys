@@ -1,0 +1,10 @@
+{
+  "id": "eulers-equations-and-torque-free-precession-m2",
+  "conceptId": "eulers-equations-and-torque-free-precession",
+  "text": {
+    "en": "Believing all three principal axes give equally stable spin, since all three are 'special' axes where L and omega align — stability further depends on which principal moment it is: spin about the largest or smallest is stable, spin about the intermediate one is unstable.",
+    "et": "Arvamus, et kõik kolm peatelge annavad võrdselt stabiilse pöörlemise, kuna kõik kolm on 'erilised' teljed, kus L ja omega on paralleelsed — stabiilsus sõltub veel sellest, milline peainertsimoment see on: pöörlemine suurima või vähima ümber on stabiilne, keskmise ümber ebastabiilne.",
+    "sourceHash": "ef1fd553682eb323",
+    "stale": false
+  }
+}

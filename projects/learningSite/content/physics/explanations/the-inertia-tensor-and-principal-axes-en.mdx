@@ -1,0 +1,30 @@
+In introductory mechanics, moment of inertia is a single number: I = Sum(m r^2), computed
+about one fixed axis, and torque and angular momentum obey the familiar scalar relation
+L = I*omega, with L always pointing the same way as omega. That picture is only ever exactly
+true for rotation about an axis of symmetry. For a rigid body spinning about an arbitrary
+axis, the correct relationship is still L = I*omega, but now I is a 3x3 matrix — the inertia
+tensor — and matrix multiplication doesn't generally point the output in the same direction
+as the input.
+
+The inertia tensor is built directly from the body's mass distribution: its diagonal entries
+are the familiar moments of inertia about the x, y and z axes, and its off-diagonal entries
+are products of inertia, which measure how mass is distributed asymmetrically between pairs
+of axes. Because it is real and symmetric, linear algebra guarantees it can always be
+diagonalized by an orthogonal change of axes — and the axes that do this are the principal
+axes. In that rotated frame, the off-diagonal products of inertia vanish, and the three
+diagonal entries left over are the principal moments of inertia.
+
+Principal axes are why some spins are stable and others aren't. Only when a body rotates
+about a principal axis is its angular momentum guaranteed to point along the same axis as its
+angular velocity, staying fixed in the body and constant in the absence of torque. Spin it
+about any other axis and, even with zero applied torque, the angular velocity vector sweeps
+out a cone around the (still-constant) angular momentum vector — torque-free precession, the
+wobble a thrown book or an American football exhibits when it isn't spun cleanly about one of
+its own principal axes.
+
+Every rigid body has three principal axes, whether or not it looks symmetric — a lumpy rock
+has them just as much as a uniform sphere does; they're simply harder to find without doing
+the diagonalization. A sphere's or a cube's principal axes happen to give equal principal
+moments (a fully or partly degenerate inertia tensor), which is why spinning them about
+almost any axis looks stable; that's a special case of the general theory, not an exception
+to needing one.

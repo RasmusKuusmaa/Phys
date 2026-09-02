@@ -1,0 +1,21 @@
+Expand the potential energy of any system to second order around a stable equilibrium and
+the result is always a sum of quadratic terms — a set of effective springs coupling every
+generalized coordinate to every other. The kinetic energy near equilibrium is likewise a
+quadratic form in the generalized velocities, built from a mass (or "inertia") matrix.
+Together they turn the equations of motion into a single matrix equation, M q'' = -K q,
+where M and K are the constant mass and stiffness matrices evaluated at equilibrium.
+
+Solving that matrix equation by assuming every coordinate oscillates at the same frequency,
+q(t) = a cos(omega t), turns it into a generalized eigenvalue problem: K a = omega^2 M a.
+Each eigenvalue omega^2 gives one of the system's normal-mode frequencies, and its
+eigenvector a gives the corresponding normal mode — the specific pattern of relative
+amplitudes and phases with which every coordinate must move for the whole system to
+oscillate at that single frequency, all coordinates in step.
+
+The real payoff is that the normal-mode coordinates decouple completely: written in terms of
+them, the equations of motion become N independent simple-harmonic oscillators, one per
+mode, each with its own frequency and no coupling term left over. Any general small motion
+of the system, however complicated it looks in the original coordinates, is just a
+superposition of these normal modes — which is why the same machinery describes two coupled
+pendulums, the vibration spectrum of a polyatomic molecule, and the phonon modes of a
+crystal lattice with no change in the underlying method.

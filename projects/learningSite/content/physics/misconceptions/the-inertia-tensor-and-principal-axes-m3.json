@@ -1,0 +1,10 @@
+{
+  "id": "the-inertia-tensor-and-principal-axes-m3",
+  "conceptId": "the-inertia-tensor-and-principal-axes",
+  "text": {
+    "en": "Believing the inertia tensor only matters for irregularly-shaped, asymmetric bodies — every rigid body has one and has three principal axes; a sphere's or cube's principal moments just happen to come out equal, which is a special (degenerate) case of the general result, not an exemption from it.",
+    "et": "Arvamus, et inertsitensor on oluline ainult ebakorrapärase kujuga, asümmeetriliste kehade jaoks — igal jäigal kehal on inertsitensor ja kolm peatelge; kera või kuubi peainertsimomendid tulevad juhtumisi lihtsalt võrdsed, mis on üldise tulemuse erijuht (degenereerunud juhtum), mitte sellest vabastus.",
+    "sourceHash": "71c7f1805330f04d",
+    "stale": false
+  }
+}

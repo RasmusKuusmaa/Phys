@@ -1,0 +1,10 @@
+{
+  "id": "eulers-equations-and-torque-free-precession-m1",
+  "conceptId": "eulers-equations-and-torque-free-precession",
+  "text": {
+    "en": "Believing a spinning rigid body with no applied torque always keeps spinning steadily about whatever axis it was started on — steady, stable spin only happens exactly along one of the three principal axes; any other starting axis produces changing, wobbling rotation even with zero torque.",
+    "et": "Arvamus, et pöörlev jäik keha, millele ei mõju jõumoment, jätkab alati ühtlast pöörlemist telje ümber, millega ta alustas — ühtlane, stabiilne pöörlemine toimub täpselt ainult ühe kolmest peateljest ümber; iga muu alustelg toodab muutuva, kõikuva pöörlemise ka nullise jõumomendi korral.",
+    "sourceHash": "c7ab2d37a84c763a",
+    "stale": false
+  }
+}

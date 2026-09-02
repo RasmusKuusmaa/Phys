@@ -1,0 +1,56 @@
+{
+  "id": "eulers-equations-and-torque-free-precession-item1",
+  "conceptId": "eulers-equations-and-torque-free-precession",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "You throw a rectangular block spinning cleanly about each of its three principal axes in turn, with no torque after release. About which axis does it tumble unpredictably in flight?",
+    "et": "Viskad ristkülikukujulise ploki kordamööda pöörlema puhtalt igaühe oma kolme peatelje ümber, ilma jõumomendita pärast lahtilaskmist. Millise telje ümber keerleb see lennul ettearvamatult?",
+    "sourceHash": "f5095eaafad88647",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The intermediate axis — the one with the middle principal moment of inertia, neither the largest nor the smallest.",
+        "et": "Keskmise telje ümber — selle, millel on keskmine peainertsimoment, ei ole ei suurim ega vähim.",
+        "sourceHash": "233029056c425486",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Whichever axis it happened to be thrown about — any axis is equally likely to tumble without a torque to stabilise it.",
+        "et": "Mistahes telje ümber, millega juhtus visatama — iga telg keerleb võrdselt tõenäoliselt ilma stabiliseeriva jõumomendita.",
+        "sourceHash": "7f47eea1193b66ad",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "eulers-equations-and-torque-free-precession-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "None of them — all three principal axes give perfectly stable spin, since L and omega are always parallel there.",
+        "et": "Ühegi ümber — kõik kolm peatelge annavad täiesti stabiilse pöörlemise, kuna L ja omega on seal alati paralleelsed.",
+        "sourceHash": "5b44c2469def95de",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "eulers-equations-and-torque-free-precession-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "None of them in an idealised, frictionless model — the tumbling only happens because of air resistance on a real thrown object.",
+        "et": "Ühegi ümber idealiseeritud, hõõrdumiseta mudelis — keerlemine toimub ainult õhutakistuse tõttu reaalsel visatud esemel.",
+        "sourceHash": "e4343aac09d0e81f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "eulers-equations-and-torque-free-precession-m3"
+    }
+  ]
+}

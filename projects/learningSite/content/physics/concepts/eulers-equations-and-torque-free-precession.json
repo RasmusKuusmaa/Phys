@@ -1,0 +1,21 @@
+{
+  "id": "eulers-equations-and-torque-free-precession",
+  "subject": "physics",
+  "level": "L4",
+  "module": "mechanics",
+  "title": {
+    "en": "Euler's equations and torque-free precession",
+    "et": "Euleri võrrandid ja jõumomendivaba pretsessioon",
+    "sourceHash": "59c545463ab0d7d9",
+    "stale": false
+  },
+  "summary": {
+    "en": "In the frame that rotates with a rigid body, Newton's second law for rotation becomes Euler's equations — three coupled nonlinear ODEs relating the body-frame angular velocity components to the applied torque and the three principal moments of inertia. Even with zero torque, these equations show that spin about the axis of largest or smallest principal moment is stable, while spin about the intermediate axis is not — the intermediate-axis (tennis-racket) theorem.",
+    "et": "Kehaga koos pöörlevas taustsüsteemis muutub Newtoni teine seadus pöörlemise jaoks Euleri võrranditeks — kolm seotud mittelineaarset diferentsiaalvõrrandit, mis seovad kehataustsüsteemi nurkkiiruse komponendid mõjuva jõumomendi ja kolme peainertsimomendiga. Isegi nullise jõumomendi korral näitavad need võrrandid, et pöörlemine suurima või vähima peainertsimomendiga telje ümber on stabiilne, kuid keskmise telje ümber ebastabiilne — keskmise telje (tennisereketi) teoreem.",
+    "sourceHash": "34b8ecf490616ac2",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-inertia-tensor-and-principal-axes"
+  ]
+}
