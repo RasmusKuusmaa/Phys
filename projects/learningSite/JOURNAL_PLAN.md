@@ -224,55 +224,64 @@ rather than one combined blob.
 - [x] Show test score history next to the understanding rating on the
       concept page's Study section
       `feat: show recent test scores on the concept page`
-- [ ] Flag the gap when a self-rating and recent test scores disagree
+- [x] Flag the gap when a self-rating and recent test scores disagree
       (e.g. rated "confident" but last attempt <60%) — a plain inline
       notice, not a blocking one
       `feat: flag mismatch between self-rating and test performance`
-- [ ] Fold test attempts into the journal timeline as read-only entries
+- [x] Fold test attempts into the journal timeline as read-only entries
       alongside manually logged sessions
       `feat: include test attempts in journal timeline`
 
 ## Phase J5 — Account sync
 
-- [ ] Add `'journal'` and `'testHistory'` to the `user_data.kind` CHECK
+- [x] Add `'journal'` and `'testHistory'` to the `user_data.kind` CHECK
       constraint in `src/db/schema.sql` (an `ALTER TABLE ... DROP
       CONSTRAINT ... ADD CONSTRAINT` statement guarded the same
       idempotent way the rest of the file is, so `db:migrate` stays safe
       to rerun)
       `feat: add journal kinds to user_data schema`
-- [ ] Add `mergeJournal` to `src/lib/sync/merge.ts`: sessions merged
+- [x] Add `mergeJournal` to `src/lib/sync/merge.ts`: sessions merged
       by `updatedAt`-wins same as notes, `deletedSessions` merged as
       tombstones same as notes, days merged by `updatedAt`-wins
       `feat: add journal merge logic for sync`
-- [ ] Add `mergeTestHistory`: attempts are immutable once taken, so this
+- [x] Add `mergeTestHistory`: attempts are immutable once taken, so this
       is a plain union by id, no conflict possible
       `feat: add test history merge logic for sync`
-- [ ] Add `journal` and `testHistory` to `KINDS` and `schemaFor` in
+- [x] Add `journal` and `testHistory` to `KINDS` and `schemaFor` in
       `src/app/api/sync/[kind]/route.ts`
       `feat: sync journal and test history through the sync endpoint`
-- [ ] Add both kinds to `syncAll()` in `src/lib/sync/client.ts`
+- [x] Add both kinds to `syncAll()` in `src/lib/sync/client.ts`
       `feat: include journal in account sync`
-- [ ] Unit tests for both merge functions, mirroring
+- [x] Unit tests for both merge functions, mirroring
       `src/lib/sync/merge.test.ts`'s existing cases (concurrent edit,
       concurrent delete-vs-edit, one-sided history)
       `test: add journal and test history merge tests`
 
 ## Phase J6 — Polish, i18n, docs
 
-- [ ] Localise every new string into Estonian in the same pass as it's
+- [x] Localise every new string into Estonian in the same pass as it's
       written, not batched at the end — per the bilingual policy in
       `DECISIONS.md`
       `content: localise study journal strings`
-- [ ] Empty states (`no sessions logged yet`, `no attempts yet`) and
+      (done as each string was written throughout J0-J5, not as a
+      separate commit — en.json/et.json stayed in parity the whole way)
+- [x] Empty states (`no sessions logged yet`, `no attempts yet`) and
       loading states for the timer, timeline, and dashboard; ARIA labels
       on the rating control and timer buttons
-      `fix: polish journal empty states and accessibility`
-- [ ] Record the Design decisions section above into `DECISIONS.md`
+      (empty/loading states already existed for every list — timer/rating
+      ARIA was the actual gap, fixed separately)
+      `fix: add ARIA grouping to journal rating control and quiet the timer's ticking label`
+- [x] Record the Design decisions section above into `DECISIONS.md`
       `docs: record study journal decisions`
 - [ ] Manual QA pass, no commit needed unless it turns up a bug: full
       loop signed out (local-only, confirm nothing calls the sync
       endpoints), then signed in on two browser profiles confirming a
       session logged on one appears on the other after Sync now
+      (signed-out half done: journal/account/concept pages render clean
+      with no sync calls and no errors. The signed-in, two-device half
+      needs a reachable Postgres — none is reachable from this sandbox,
+      `db:migrate` itself times out connecting to `DATABASE_URL` — so
+      still needs doing against a real database.)
 
 ## How to resume this on another machine
 
