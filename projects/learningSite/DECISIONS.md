@@ -6,14 +6,16 @@ build spec these decisions implement.
 
 ## Scope
 
-- Static site (Next.js App Router SSG), no accounts, no backend, no AI or
-  network calls at runtime. Problem generation, grading and unit checking
-  run in the browser against build-time-validated content.
+- Static site (Next.js App Router SSG), no AI or network calls at runtime
+  for content itself. Problem generation, grading and unit checking run in
+  the browser against build-time-validated content. An optional account
+  system (see § Accounts) is the one deliberate exception to "no backend" —
+  every page still works fully signed out.
 - Build order: physics fully first (Phases 0-13), then mathematics,
   chemistry and materials science reuse the same schema (Phase 14).
-- Out of scope for v1: accounts, gamification, spaced repetition, free-text
-  explanation grading, master's-level content, mobile app, PWA, offline
-  caching, lab uncertainty calculator.
+- Out of scope: gamification, spaced repetition, free-text explanation
+  grading, master's-level content, mobile app, PWA, offline caching, lab
+  uncertainty calculator.
 
 ## Level taxonomy
 
@@ -73,6 +75,44 @@ not US-scoped.
 - `LocalisedString.sourceHash` records a hash of the English text at the
   time the Estonian translation was last synced; the staleness script
   recomputes it at build time and flags drift.
+
+## Accounts
+
+- Accounts are additive, not required. `notes` and `progress` already lived
+  in `localStorage` in a versioned, Zod-validated shape; an account only
+  adds a server copy of the same blob and a merge step, so every page keeps
+  working fully signed out and offline. `hasDatabase()` (`src/db/pool.ts`)
+  gates every account-touching page and API route, so a deployment with no
+  `DATABASE_URL` degrades to local-only instead of crashing.
+- Sync is client-pulled, not server-pushed. `POST /api/sync/[kind]` merges
+  the browser's copy against the stored copy inside one transaction (`select
+  ... for update` then upsert), so two devices syncing at the same moment
+  can't clobber each other — whichever request commits second merges
+  against what the first just wrote rather than overwriting it. `kind` is
+  presently `notes` and `progress`; a new synced feature adds a `kind`
+  the same way, not a new endpoint.
+- The session strategy is JWT, not database sessions, because Auth.js v5's
+  Credentials provider cannot issue a database session — the adapter
+  (`@auth/pg-adapter`) still does real work persisting users, linked OAuth
+  accounts and magic-link tokens, it just isn't what backs the session
+  cookie.
+- `AuthProvider` passes `SessionProvider` no server-fetched `session` prop
+  on purpose: calling `auth()` in the root layout would read the session on
+  the server and opt every route under it out of static rendering, turning
+  every prerendered concept page into a per-request render. Sign-in state
+  is fetched client-side after hydration instead.
+- Password sign-in always runs a bcrypt compare, even when no user row
+  matches (`DUMMY_HASH` in `src/auth.ts`) — branching out early on "no such
+  user" would make response latency itself leak which addresses are
+  registered. Registration answers with the same shape whether or not the
+  address was already taken for the same reason.
+- Merge rule depends on what a record *is*, never last-write-wins on the
+  whole blob: `notes` merges per-record by `updatedAt` with tombstones for
+  deletes; `progress` merges by "further along wins" per concept status and
+  by max for cumulative misconception counts, since summing would
+  double-count sessions both devices already saw (`src/lib/sync/merge.ts`).
+  Any new synced kind picks the rule that matches whether its records are
+  edited, cumulative, or immutable once written.
 
 ## Stack choices
 
