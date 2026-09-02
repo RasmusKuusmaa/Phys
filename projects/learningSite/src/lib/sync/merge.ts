@@ -1,5 +1,6 @@
 import { createEmptyNotebook, type Notebook } from "@/lib/notes/schema";
 import { createEmptyProgress, type ConceptStatus, type Progress } from "@/lib/progress/schema";
+import { createEmptyJournal, type Journal } from "@/lib/journal/schema";
 
 /**
  * Merging, not overwriting.
@@ -92,4 +93,32 @@ export function mergeProgress(local: Progress, remote: Progress): Progress {
   }
 
   return { ...createEmptyProgress(), conceptStatus, misconceptionHits };
+}
+
+/** Sessions merge by `updatedAt`-wins with tombstones, same shape as `mergeNotebooks`'s notes; days merge by `updatedAt`-wins with no tombstone, since a reflection is only ever upserted, never deleted. */
+export function mergeJournal(local: Journal, remote: Journal): Journal {
+  const deletedSessions = mergeTombstones(local.deletedSessions, remote.deletedSessions);
+
+  const sessions: Journal["sessions"] = {};
+  for (const id of new Set([...Object.keys(local.sessions), ...Object.keys(remote.sessions)])) {
+    const mine = local.sessions[id];
+    const theirs = remote.sessions[id];
+    const winner = !mine ? theirs : !theirs ? mine : isNewer(theirs.updatedAt, mine.updatedAt) ? theirs : mine;
+    if (!winner) continue;
+
+    // Same "a later edit outruns an earlier deletion" rule as notes.
+    const deletedAt = deletedSessions[id];
+    if (deletedAt && !isNewer(winner.updatedAt, deletedAt)) continue;
+    sessions[id] = winner;
+  }
+
+  const days: Journal["days"] = {};
+  for (const date of new Set([...Object.keys(local.days), ...Object.keys(remote.days)])) {
+    const mine = local.days[date];
+    const theirs = remote.days[date];
+    const winner = !mine ? theirs : !theirs ? mine : isNewer(theirs.updatedAt, mine.updatedAt) ? theirs : mine;
+    if (winner) days[date] = winner;
+  }
+
+  return { ...createEmptyJournal(), sessions, days, deletedSessions };
 }
