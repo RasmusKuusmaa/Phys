@@ -41,6 +41,25 @@ frontier depth or textbook-exhaustive coverage of every sub-topic; I'm
 aiming for the concepts a physics MSc graduate would be expected to know
 existed and roughly how they work. Tell me if that's the wrong bar.
 
+## Estonian terminology for new graduate vocabulary, unreviewed
+
+`DECISIONS.md`'s bilingual policy says terminology is locked in the
+glossary *before* content is written, by a human against `sonaveeb.ee`/EKI
+sources — that's how the existing 232-term glossary was built. MSc-level
+physics introduces a lot of vocabulary with no existing entry (inertsitensor,
+Clebsch-Gordani kordajad, mõõdumuutuvus, and so on for the rest of this
+plan). I'm coining Estonian terms for these myself, following the existing
+glossary's compounding patterns as closely as I can, rather than stopping
+content production to hand-verify each one against a dictionary the way the
+original glossary was built — the `lint:terminology` check only validates
+formula *symbol* names against the glossary and checks against the small
+banned-variants list, so this slips through automated validation clean
+either way. Whether this Estonian terminology is actually correct (not just
+plausible-sounding) is unverified — worth a native-speaker/domain-expert
+pass over the new content specifically, more than the existing bachelor
+content warrants (that terminology went through the proper locked-first
+process; this didn't).
+
 ## Resource curation
 
 Every new concept needs a real, verified resource link per locale
