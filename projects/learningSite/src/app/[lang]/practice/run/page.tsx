@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { lang } from "next/root-params";
 import { notFound } from "next/navigation";
 import { isLocale } from "@/i18n/locales";
@@ -24,7 +25,17 @@ export default async function PracticeRunPage({
   const config = decodeTestConfig(params);
 
   if (!config) {
-    return <p style={{ padding: "2rem" }}>Missing or invalid test configuration.</p>;
+    return (
+      <div className="mx-auto max-w-2xl px-4 py-16">
+        <p className="text-sm text-muted">{dict.practice.invalidConfig}</p>
+        <Link
+          href={`/${locale}/practice`}
+          className="mt-4 inline-block rounded-lg border border-border px-4 py-2 text-sm hover:border-accent"
+        >
+          {dict.practice.backToBuilder}
+        </Link>
+      </div>
+    );
   }
   const subject = config.subject;
 

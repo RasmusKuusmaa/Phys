@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { lang } from "next/root-params";
 import { notFound } from "next/navigation";
 import { isLocale } from "@/i18n/locales";
@@ -41,16 +42,46 @@ export default async function PracticePage({
   const initialConceptIds = requestedConceptIds?.filter((id) => conceptIdSet.has(id));
 
   if (!subject) {
-    return <p style={{ padding: "2rem" }}>No subjects available yet.</p>;
+    return (
+      <div className="mx-auto max-w-3xl px-4 py-16">
+        <p className="text-sm text-muted">{dict.practice.noSubjects}</p>
+      </div>
+    );
   }
 
   return (
-    <div style={{ padding: "2rem" }}>
-      <h1>{dict.nav.practice}</h1>
+    <div className="mx-auto max-w-3xl px-4 py-16">
+      <h1 className="text-3xl font-semibold">{dict.practice.heading}</h1>
+      <p className="mt-2 text-sm text-muted">{dict.practice.intro}</p>
+
+      {subjects.length > 1 && (
+        <nav aria-label={dict.practice.subjectLabel} className="mt-6 flex flex-wrap gap-2">
+          {subjects.map((option) => (
+            <Link
+              key={option}
+              href={`/${locale}/practice?subject=${option}`}
+              aria-current={option === subject ? "page" : undefined}
+              className={`rounded-full px-3 py-1.5 text-sm capitalize transition-colors ${
+                option === subject
+                  ? "border border-accent bg-accent/10 font-medium"
+                  : "border border-border text-muted hover:border-accent hover:text-foreground"
+              }`}
+            >
+              {option}
+            </Link>
+          ))}
+        </nav>
+      )}
+
       <TestBuilderForm
+        // Remounts on a subject switch so the concept selection resets to
+        // the new subject's concepts rather than carrying over ids that
+        // don't exist in it.
+        key={subject}
         subject={subject}
         concepts={concepts}
         locale={locale}
+        strings={dict.practice}
         initialConceptIds={initialConceptIds}
       />
     </div>
