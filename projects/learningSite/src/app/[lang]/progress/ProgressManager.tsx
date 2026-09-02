@@ -88,7 +88,7 @@ export function ProgressManager() {
         type="button"
         onClick={handleImport}
         disabled={importValue.trim().length === 0}
-        className="mt-2 rounded-lg border border-border px-4 py-2 text-sm font-medium hover:border-accent disabled:cursor-not-allowed disabled:opacity-50"
+        className="mt-2 rounded-lg border border-border px-4 py-2 text-sm font-medium enabled:hover:border-accent disabled:cursor-not-allowed disabled:opacity-50"
       >
         Import
       </button>

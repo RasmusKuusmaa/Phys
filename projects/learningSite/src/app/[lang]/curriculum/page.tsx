@@ -60,7 +60,7 @@ export default async function CurriculumPage({
             aria-current={t === track ? "true" : undefined}
             className={
               t === track
-                ? "rounded-full bg-accent px-3 py-1 font-semibold text-white"
+                ? "rounded-full bg-accent px-3 py-1 font-semibold text-white hover:bg-accent-hover"
                 : "rounded-full border border-border px-3 py-1 text-muted hover:border-accent hover:text-foreground"
             }
           >

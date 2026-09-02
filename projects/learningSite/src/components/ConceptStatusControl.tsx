@@ -28,7 +28,7 @@ export function ConceptStatusControl({ conceptId }: { conceptId: string }) {
           aria-pressed={status === option}
           className={
             status === option
-              ? "rounded-full bg-accent px-3 py-1 text-white"
+              ? "rounded-full bg-accent px-3 py-1 text-white hover:bg-accent-hover"
               : "rounded-full border border-border px-3 py-1 hover:border-accent"
           }
         >
