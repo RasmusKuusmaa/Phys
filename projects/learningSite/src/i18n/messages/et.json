@@ -86,7 +86,12 @@
     "cancel": "Loobu",
     "saveEdit": "Salvesta",
     "streakLabel": "päeva järjest",
-    "noStreak": "Logi täna sessioon, et alustada seeriat."
+    "noStreak": "Logi täna sessioon, et alustada seeriat.",
+    "studyHeading": "Õppimine",
+    "totalTimeLabel": "Kogukestus",
+    "lastStudiedLabel": "Viimati õpitud",
+    "latestUnderstandingLabel": "Viimane hinnang",
+    "neverStudied": "Veel õppimata."
   },
   "notFound": {
     "heading": "Lehte ei leitud",

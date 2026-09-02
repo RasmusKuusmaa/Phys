@@ -86,7 +86,12 @@
     "cancel": "Cancel",
     "saveEdit": "Save",
     "streakLabel": "day streak",
-    "noStreak": "Log a session today to start a streak."
+    "noStreak": "Log a session today to start a streak.",
+    "studyHeading": "Study",
+    "totalTimeLabel": "Total time",
+    "lastStudiedLabel": "Last studied",
+    "latestUnderstandingLabel": "Latest rating",
+    "neverStudied": "Not studied yet."
   },
   "notFound": {
     "heading": "Page not found",

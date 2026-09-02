@@ -18,6 +18,7 @@ import { LevelBadge } from "@/components/LevelBadge";
 import { FormulaDisplay } from "@/components/FormulaDisplay";
 import { ConceptLinkList } from "@/components/ConceptCard";
 import { ConceptStatusControl } from "@/components/ConceptStatusControl";
+import { StudyStats } from "./StudyStats";
 
 export async function generateStaticParams() {
   return loadAllConcepts().map((concept) => ({ id: concept.id }));
@@ -112,6 +113,8 @@ export default async function ConceptPage({
       </Link>
 
       <ConceptStatusControl conceptId={concept.id} />
+
+      <StudyStats conceptId={concept.id} locale={locale} strings={dict.journal} />
 
       {Explanation && (
         <section className="mt-10 space-y-4 text-sm leading-relaxed">
