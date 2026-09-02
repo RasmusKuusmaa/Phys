@@ -5,6 +5,7 @@ const LEVEL_COLOR_CLASS: Record<Level, string> = {
   L1: "bg-level-l1",
   L2: "bg-level-l2",
   L3: "bg-level-l3",
+  L4: "bg-level-l4",
 };
 
 export function LevelBadge({ level }: { level: Level }) {

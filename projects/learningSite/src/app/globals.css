@@ -11,15 +11,18 @@
      Inverted in dark mode, where "darker" would recede into the page. */
   --accent-hover: #1d4ed8;
 
-  /* Level taxonomy accents (L0-L3), used by the level badge and roadmap.
+  /* Level taxonomy accents (L0-L4), used by the level badge and roadmap.
      L0 is green-700, not the more obvious green-600 — green-600 only hits a
      3.3:1 contrast ratio against the badge's white text (Lighthouse
      color-contrast audit), short of the 4.5:1 WCAG AA minimum for
-     normal-size text; green-700 clears it at 5:1. */
+     normal-size text; green-700 clears it at 5:1. L4 is slate-800 rather
+     than another hue from the L0-L3 rainbow, deliberately: it reads as
+     "past the spectrum", not as one more color choice inside it. */
   --level-l0: #15803d;
   --level-l1: #2563eb;
   --level-l2: #9333ea;
   --level-l3: #dc2626;
+  --level-l4: #1e293b;
 
   /* Type scale: a modest step ratio, tuned for long-form explanatory text
      and dense formula listings rather than marketing copy. */
@@ -43,6 +46,7 @@
   --color-level-l1: var(--level-l1);
   --color-level-l2: var(--level-l2);
   --color-level-l3: var(--level-l3);
+  --color-level-l4: var(--level-l4);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
   --font-display: var(--font-fraunces);

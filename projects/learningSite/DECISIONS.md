@@ -14,13 +14,17 @@ build spec these decisions implement.
 - Build order: physics fully first (Phases 0-13), then mathematics,
   chemistry and materials science reuse the same schema (Phase 14).
 - Out of scope: gamification, spaced repetition, free-text explanation
-  grading, master's-level content, mobile app, PWA, offline caching, lab
-  uncertainty calculator.
+  grading, mobile app, PWA, offline caching, lab uncertainty calculator.
 
 ## Level taxonomy
 
-Hard-capped at four levels — do not add a level beyond L3 without revisiting
-this decision:
+Five levels. L0-L3 were hard-capped while the site's scope was a bachelor's
+degree; L4 was added when that scope explicitly widened to graduate-level
+physics (mechanics, electromagnetism, quantum mechanics, statistical
+mechanics, solid-state and particle physics brought to a complete Master's
+standard) and beyond (deeper, more specialised astrophysics and nuclear
+physics content past that). Don't add a level beyond L4 without the same
+kind of explicit scope decision this one and the original cap recorded:
 
 | Level | Estonian     | English                |
 | ----- | ------------ | ----------------------- |
@@ -28,9 +32,12 @@ this decision:
 | L1    | gümnaasium   | Upper secondary         |
 | L2    | alusained    | University foundations  |
 | L3    | bakalaureus  | Bachelor core           |
+| L4    | magistriõpe  | Master's core           |
 
 Never use "high school" in English copy — it's US-specific and the site is
-not US-scoped.
+not US-scoped. Never use "graduate school" either, for the same reason —
+"Master's" is the international term the Bologna-system levels above already
+use.
 
 ## Bilingual policy
 
