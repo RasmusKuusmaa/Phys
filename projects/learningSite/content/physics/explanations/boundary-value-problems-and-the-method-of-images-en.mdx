@@ -1,0 +1,25 @@
+Uniqueness theorems for Laplace's equation guarantee that if you find any potential
+satisfying the correct boundary conditions on a set of conductors — usually that each
+conductor's surface is an equipotential — that potential is the only one that can be
+correct, no matter how you found it. This licenses a shortcut: instead of solving the
+differential equation directly, guess a configuration of fictitious charges outside the real
+region of interest that happens to reproduce the right boundary condition, and the resulting
+potential inside the real region is guaranteed to be the true one.
+
+For a point charge held near an infinite grounded conducting plane, the trick is to remove
+the plane entirely and replace it with a single fictitious "image" charge of the opposite
+sign, placed at the mirror-image position behind where the plane was. The real charge plus
+this image charge reproduce exactly the zero-potential boundary condition on the plane's
+original location, so — by uniqueness — the field on the real side of the plane, in the
+region that actually exists, is identical to what these two point charges alone would
+produce, even though the image charge isn't really there.
+
+The real induced surface charge on the actual conductor is not the fictitious image charge —
+it's a genuine, physical distribution of charge on the conductor's real surface, and it can
+be recovered from the boundary-condition solution as the discontinuity in the field's normal
+component there. The method generalizes to a grounded sphere (an image charge at a specific
+position inside the sphere, of a specific magnitude, not simply the mirror position) and to
+a handful of other symmetric geometries, but it is a trick for specific shapes, not a general
+algorithm — most real conductor geometries still require solving Laplace's equation
+directly, typically by separation of variables in a coordinate system matched to the
+geometry's symmetry.

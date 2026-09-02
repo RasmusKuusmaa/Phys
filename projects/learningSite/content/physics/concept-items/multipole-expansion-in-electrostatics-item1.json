@@ -1,0 +1,56 @@
+{
+  "id": "multipole-expansion-in-electrostatics-item1",
+  "conceptId": "multipole-expansion-in-electrostatics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A charge distribution has zero total charge and zero dipole moment, but a nonzero quadrupole moment. How does its electric potential behave far away, compared to a simple point charge?",
+    "et": "Laengujaotusel on null kogulaeng ja null dipoolmoment, kuid nullist erinev kvadrupoolmoment. Kuidas käitub selle elektripotentsiaal kaugel, võrreldes lihtsa punktlaenguga?",
+    "sourceHash": "3290ebe4918f73ec",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It falls off faster than a point charge's 1/r potential — as 1/r^3, the quadrupole term's characteristic falloff, since the lower monopole and dipole terms both vanish.",
+        "et": "See kahaneb kiiremini kui punktlaengu 1/r potentsiaal — 1/r^3-na, kvadrupoolliikme iseloomuliku kahanemisena, kuna madalamad monopool- ja dipoolliikmed mõlemad kaovad.",
+        "sourceHash": "545e9033e84c52c7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It behaves identically to a point charge's potential at any distance, since the multipole expansion means shape never matters.",
+        "et": "See käitub täpselt nagu punktlaengu potentsiaal mistahes kaugusel, kuna multipoolarendus tähendab, et kuju pole kunagi oluline.",
+        "sourceHash": "aa5dead96659af00",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multipole-expansion-in-electrostatics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It falls off as 1/r^2, the dipole term's rate, since that's always the leading term for any electrically neutral object.",
+        "et": "See kahaneb 1/r^2-na, dipoolliikme kiirusega, kuna see on alati juhtiv liige iga elektriliselt neutraalse objekti jaoks.",
+        "sourceHash": "ce312c8cccabc280",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multipole-expansion-in-electrostatics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is exactly zero everywhere outside the distribution, since the object is both uncharged and non-polar.",
+        "et": "See on täpselt null kõikjal väljaspool jaotust, kuna objekt on nii laenguta kui mittepolaarne.",
+        "sourceHash": "bbc25a9cf38bcb14",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multipole-expansion-in-electrostatics-m3"
+    }
+  ]
+}

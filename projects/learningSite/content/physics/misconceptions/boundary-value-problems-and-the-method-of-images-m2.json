@@ -1,0 +1,10 @@
+{
+  "id": "boundary-value-problems-and-the-method-of-images-m2",
+  "conceptId": "boundary-value-problems-and-the-method-of-images",
+  "text": {
+    "en": "Believing the method of images is a general technique that works for solving the potential near any conductor of any shape — it only works for a small number of highly symmetric geometries (an infinite plane, a sphere) where a simple fictitious charge placement happens to reproduce the boundary condition; most shapes require solving Laplace's equation directly.",
+    "et": "Arvamus, et peegellaengute meetod on üldine tehnika, mis töötab potentsiaali lahendamiseks mistahes kujuga juhi lähedal — see töötab ainult väikese arvu väga sümmeetriliste geomeetriate jaoks (lõpmatu tasand, kera), kus lihtne fiktiivne laengupaigutus juhtumisi taastab rajatingimuse; enamik kujusid vajab Laplace'i võrrandi otsest lahendamist.",
+    "sourceHash": "fd1328730e903dda",
+    "stale": false
+  }
+}

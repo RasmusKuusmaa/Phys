@@ -1,0 +1,10 @@
+{
+  "id": "multipole-expansion-in-electrostatics-m3",
+  "conceptId": "multipole-expansion-in-electrostatics",
+  "text": {
+    "en": "Believing a neutral, non-polar object (zero charge, zero dipole moment) produces no external electric field at all — it can still have a nonzero quadrupole (or higher) moment, giving a weaker, faster-falling field rather than exactly zero field.",
+    "et": "Arvamus, et neutraalne, mittepolaarne objekt (null laeng, null dipoolmoment) ei tekita üldse välist elektrivälja — sellel võib siiski olla nullist erinev kvadrupool- (või kõrgem) moment, andes nõrgema, kiiremini kahaneva, mitte täpselt nullise välja.",
+    "sourceHash": "886743eb9b3da442",
+    "stale": false
+  }
+}

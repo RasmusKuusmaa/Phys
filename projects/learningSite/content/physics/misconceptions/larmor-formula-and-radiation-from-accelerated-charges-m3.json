@@ -1,0 +1,10 @@
+{
+  "id": "larmor-formula-and-radiation-from-accelerated-charges-m3",
+  "conceptId": "larmor-formula-and-radiation-from-accelerated-charges",
+  "text": {
+    "en": "Believing a charge moving in a circle at constant speed doesn't radiate, since its speed never changes — radiation depends on acceleration as a vector, and a charge in circular motion continuously changes velocity's direction even at constant speed, so it does radiate, which is exactly why classical physics predicted an orbiting electron would spiral into the nucleus.",
+    "et": "Arvamus, et ringjooneliselt konstantsel kiirusel liikuv laeng ei kiirga, kuna selle kiirus kunagi ei muutu — kiirgus sõltub kiirendusest kui vektorsuurusest, ning ringjooneliselt liikuv laeng muudab pidevalt kiiruse suunda ka konstantsel kiirusel, seega see kiirgab, mis on täpselt see, miks klassikaline füüsika ennustas, et tiirlev elektron langeks tuuma spiraalselt.",
+    "sourceHash": "34cdc71035d6b4f2",
+    "stale": false
+  }
+}

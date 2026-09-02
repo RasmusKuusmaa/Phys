@@ -1,0 +1,56 @@
+{
+  "id": "boundary-value-problems-and-the-method-of-images-item1",
+  "conceptId": "boundary-value-problems-and-the-method-of-images",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A point charge sits near an infinite grounded conducting plane. In the method of images, what does the fictitious image charge actually represent?",
+    "et": "Punktlaeng asub lõpmatu maandatud juhtiva tasandi lähedal. Mida peegellaengute meetodis fiktiivne peegellaeng tegelikult tähistab?",
+    "sourceHash": "7dea5da82373a445",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Nothing physically real behind the plane — it's a mathematical trick that reproduces the correct boundary condition, so that the field it predicts in the real region matches the true field there.",
+        "et": "Mitte midagi füüsiliselt reaalset tasandi taga — see on matemaatiline nipp, mis taastab õige rajatingimuse, nii et selle poolt ennustatud väli tegelikus piirkonnas ühtib seal tõelise väljaga.",
+        "sourceHash": "094d0205be2a50dd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The actual charge that physically accumulates on the far side of the conducting plane.",
+        "et": "Tegelik laeng, mis füüsiliselt koguneb juhtiva tasandi kaugemale poolele.",
+        "sourceHash": "8f9c5407369f7f89",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "boundary-value-problems-and-the-method-of-images-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A general technique's output that would work the same way for a conductor of any arbitrary, irregular shape.",
+        "et": "Üldise tehnika väljund, mis töötaks samamoodi mistahes suvalise, ebakorrapärase kujuga juhi jaoks.",
+        "sourceHash": "f2f8ea1fc593ff84",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "boundary-value-problems-and-the-method-of-images-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The true field that genuinely exists behind the conducting plane, exactly as the image-charge solution predicts there.",
+        "et": "Tõeline väli, mis tegelikult eksisteerib juhtiva tasandi taga, täpselt nii nagu peegellaengu lahend seal ennustab.",
+        "sourceHash": "1c68b7774da83b1d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "boundary-value-problems-and-the-method-of-images-m3"
+    }
+  ]
+}

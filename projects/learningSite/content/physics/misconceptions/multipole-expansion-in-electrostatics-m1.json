@@ -1,0 +1,10 @@
+{
+  "id": "multipole-expansion-in-electrostatics-m1",
+  "conceptId": "multipole-expansion-in-electrostatics",
+  "text": {
+    "en": "Believing the multipole expansion means a charge distribution's exact shape stops mattering entirely — it only stops mattering for the far field's leading behaviour; up close, higher multipole terms (and eventually the full, un-expanded distribution) still matter for the potential's exact value.",
+    "et": "Arvamus, et multipoolarendus tähendab, et laengujaotuse täpne kuju ei ole enam üldse oluline — see lakkab olemast oluline ainult kaugvälja juhtiva käitumise jaoks; lähedalt on kõrgemad multipoolliikmed (ja lõpuks kogu, arendamata jaotus) potentsiaali täpse väärtuse jaoks endiselt olulised.",
+    "sourceHash": "df7572326b9a1a5d",
+    "stale": false
+  }
+}

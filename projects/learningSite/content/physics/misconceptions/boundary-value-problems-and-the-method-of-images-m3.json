@@ -1,0 +1,10 @@
+{
+  "id": "boundary-value-problems-and-the-method-of-images-m3",
+  "conceptId": "boundary-value-problems-and-the-method-of-images",
+  "text": {
+    "en": "Believing the image-charge configuration must reproduce the true field everywhere, including behind the conductor — it only needs to reproduce the correct field in the real, physical region outside the conductor; behind the conductor's surface, the image-charge solution and the true field have nothing to do with each other.",
+    "et": "Arvamus, et peegellaengu konfiguratsioon peab taastama tõelise välja kõikjal, sealhulgas juhi taga — see peab taastama õige välja ainult tegelikus, füüsikalises piirkonnas väljaspool juhti; juhi pinna taga ei ole peegellaengu lahendil ja tõelisel väljal omavahel mingit pistmist.",
+    "sourceHash": "4aa8a077bc9fffe8",
+    "stale": false
+  }
+}

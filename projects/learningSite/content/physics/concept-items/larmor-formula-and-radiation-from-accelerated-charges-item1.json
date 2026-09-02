@@ -1,0 +1,56 @@
+{
+  "id": "larmor-formula-and-radiation-from-accelerated-charges-item1",
+  "conceptId": "larmor-formula-and-radiation-from-accelerated-charges",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of the following charges radiates electromagnetic energy, according to the Larmor formula?",
+    "et": "Milline järgnevatest laengutest kiirgab Larmori valemi kohaselt elektromagnetilist energiat?",
+    "sourceHash": "f4afa38668b9ce8b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A charge oscillating back and forth along a line, since its velocity is continuously changing (nonzero acceleration).",
+        "et": "Laeng, mis võngub edasi-tagasi mööda joont, kuna selle kiirus muutub pidevalt (nullist erinev kiirendus).",
+        "sourceHash": "febb6a061b8725ea",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A charge moving in a straight line at a very high, but constant, velocity.",
+        "et": "Laeng, mis liigub sirgjooneliselt väga suure, kuid konstantse kiirusega.",
+        "sourceHash": "1ad826439255c297",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "larmor-formula-and-radiation-from-accelerated-charges-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Any charge moving faster than some threshold speed, regardless of whether that speed is changing.",
+        "et": "Iga laeng, mis liigub kiiremini kui mingi lävikiirus, olenemata sellest, kas see kiirus muutub.",
+        "sourceHash": "7c17bf6f1ad2a496",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "larmor-formula-and-radiation-from-accelerated-charges-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "None of the above — a charge moving in a perfect circle at constant speed doesn't count as accelerating, so orbiting charges never radiate.",
+        "et": "Mitte ükski ülaltoodutest — laeng, mis liigub konstantsel kiirusel täiuslikus ringis, ei loeta kiirenevaks, nii et tiirlevad laengud ei kiirga kunagi.",
+        "sourceHash": "354151b1b12216ee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "larmor-formula-and-radiation-from-accelerated-charges-m3"
+    }
+  ]
+}

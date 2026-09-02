@@ -1,0 +1,22 @@
+{
+  "id": "multipole-expansion-in-electrostatics",
+  "subject": "physics",
+  "level": "L4",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Multipole expansion in electrostatics",
+    "et": "Multipoolarendus elektrostaatikas",
+    "sourceHash": "f5a07af3a7db24b9",
+    "stale": false
+  },
+  "summary": {
+    "en": "Far from any localized charge distribution, its electric potential can be expanded as a sum of terms falling off with increasing powers of 1/r — the monopole term (total charge), the dipole term (charge separation), the quadrupole term (charge asymmetry beyond a simple separation), and so on — so that a distribution's detailed shape only matters up close, and its distant field is dominated by whichever lowest-order moment isn't already zero.",
+    "et": "Kaugel mistahes lokaliseeritud laengujaotusest saab selle elektripotentsiaali arendada liikmete summaks, mis kahanevad üha kõrgema 1/r astmega — monopoolliige (kogulaeng), dipoolliige (laengu eraldumine), kvadrupoolliige (laengu asümmeetria kaugemal lihtsast eraldumisest) ja nii edasi —, nii et jaotuse täpne kuju on oluline ainult lähedalt, ja selle kauge väli domineerib madalaima järgu momendiga, mis pole veel null.",
+    "sourceHash": "593a2914a711ecb6",
+    "stale": false
+  },
+  "prerequisites": [
+    "electric-potential-and-potential-energy",
+    "coulombs-law"
+  ]
+}

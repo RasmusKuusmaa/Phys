@@ -1,0 +1,22 @@
+{
+  "id": "larmor-formula-and-radiation-from-accelerated-charges",
+  "subject": "physics",
+  "level": "L4",
+  "module": "electromagnetism",
+  "title": {
+    "en": "The Larmor formula and radiation from accelerated charges",
+    "et": "Larmori valem ja kiirendatud laengute kiirgus",
+    "sourceHash": "0f674066ddca578c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Any accelerating charge radiates electromagnetic energy, at a total rate given by the Larmor formula: proportional to the square of the charge's acceleration, not its velocity. The formula follows from the retarded potentials — the recognition that a charge's field at a distant point reflects where and how it was moving at an earlier, light-travel-time-delayed moment, not where it is now.",
+    "et": "Iga kiirendatav laeng kiirgab elektromagnetilist energiat, kogumääraga, mille annab Larmori valem: võrdeline laengu kiirenduse ruuduga, mitte selle kiirusega. Valem tuleneb hilistunud potentsiaalidest — tõdemusest, et laengu väli kauges punktis peegeldab, kus ja kuidas see liikus varasemal, valguse levikuaja võrra hilistunud hetkel, mitte seda, kus see praegu on.",
+    "sourceHash": "948f8db10577391c",
+    "stale": false
+  },
+  "prerequisites": [
+    "electric-dipole-radiation",
+    "maxwells-equations"
+  ]
+}

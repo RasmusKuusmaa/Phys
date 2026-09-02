@@ -1,0 +1,22 @@
+{
+  "id": "boundary-value-problems-and-the-method-of-images",
+  "subject": "physics",
+  "level": "L4",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Boundary value problems and the method of images",
+    "et": "Rajaväärtusülesanded ja peegellaengute meetod",
+    "sourceHash": "3f065f0bda01339d",
+    "stale": false
+  },
+  "summary": {
+    "en": "Finding the electric field near a conductor usually means solving Laplace's equation for the potential subject to the conductor's boundary conditions, rather than integrating Coulomb's law directly over an unknown induced charge distribution. For several simple, symmetric geometries — a point charge near a grounded plane or sphere — this can be done without solving a differential equation at all, by replacing the conductor with a fictitious 'image' charge placed to reproduce the same boundary condition.",
+    "et": "Elektrivälja leidmine juhi lähedal tähendab tavaliselt Laplace'i võrrandi lahendamist potentsiaali jaoks, arvestades juhi rajatingimusi, mitte Coulombi seaduse otsest integreerimist üle tundmatu indutseeritud laengujaotuse. Mõne lihtsa, sümmeetrilise geomeetria jaoks — punktlaeng maandatud tasandi või kera lähedal — saab seda teha ilma diferentsiaalvõrrandit üldse lahendamata, asendades juhi fiktiivse 'peegellaenguga', mis on paigutatud sama rajatingimuse taastamiseks.",
+    "sourceHash": "3565c16c9971ce1f",
+    "stale": false
+  },
+  "prerequisites": [
+    "electric-fields",
+    "electric-potential-and-potential-energy"
+  ]
+}

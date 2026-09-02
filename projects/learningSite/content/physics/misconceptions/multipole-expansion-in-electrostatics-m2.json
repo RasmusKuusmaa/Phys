@@ -1,0 +1,10 @@
+{
+  "id": "multipole-expansion-in-electrostatics-m2",
+  "conceptId": "multipole-expansion-in-electrostatics",
+  "text": {
+    "en": "Believing every charge distribution has a nonzero dipole moment as its leading far-field term — whenever the total charge (monopole moment) is nonzero, the monopole term dominates at large distances and the dipole term is only a smaller correction to it, not the leading behaviour.",
+    "et": "Arvamus, et igal laengujaotusel on nullist erinev dipoolmoment kui oma juhtiv kaugväljaliige — kui kogulaeng (monopoolmoment) on nullist erinev, domineerib suurtel kaugustel monopoolliige ja dipoolliige on sellele ainult väiksem parandus, mitte juhtiv käitumine.",
+    "sourceHash": "5d11afaa93414b25",
+    "stale": false
+  }
+}

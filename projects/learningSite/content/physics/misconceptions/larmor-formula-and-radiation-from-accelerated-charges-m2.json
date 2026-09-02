@@ -1,0 +1,10 @@
+{
+  "id": "larmor-formula-and-radiation-from-accelerated-charges-m2",
+  "conceptId": "larmor-formula-and-radiation-from-accelerated-charges",
+  "text": {
+    "en": "Believing radiated power depends on how fast a charge is moving (its speed or velocity) — the Larmor formula depends only on acceleration squared, with no velocity dependence at all; a charge can move arbitrarily fast at constant velocity and radiate nothing.",
+    "et": "Arvamus, et kiiratud võimsus sõltub sellest, kui kiiresti laeng liigub (selle kiirusest) — Larmori valem sõltub ainult kiirenduse ruudust, ilma igasuguse kiiruse sõltuvuseta; laeng võib liikuda suvaliselt kiiresti konstantsel kiirusel ja mitte midagi kiirata.",
+    "sourceHash": "1cae6a0aa8eb7207",
+    "stale": false
+  }
+}
