@@ -216,7 +216,8 @@
     "noStaleTopics": "Miski ei ole tähtaega ületanud.",
     "moduleUnderstandingHeading": "Mõistmine mooduli kaupa",
     "noModuleData": "Logi sessioone, et seda näha.",
-    "testYourself": "Testi ennast"
+    "testYourself": "Testi ennast",
+    "recentAttemptsLabel": "Viimased testitulemused"
   },
   "periodicTable": {
     "heading": "Perioodilisustabel",

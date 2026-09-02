@@ -216,7 +216,8 @@
     "noStaleTopics": "Nothing overdue.",
     "moduleUnderstandingHeading": "Understanding by module",
     "noModuleData": "Log some sessions to see this.",
-    "testYourself": "Test yourself"
+    "testYourself": "Test yourself",
+    "recentAttemptsLabel": "Recent test scores"
   },
   "periodicTable": {
     "heading": "Periodic table",
