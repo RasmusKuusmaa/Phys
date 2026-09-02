@@ -7,6 +7,7 @@ import { listSubjects } from "@/content/loader";
 import { loadConcepts } from "@/content/concepts";
 import { loadFormulas } from "@/content/formulas";
 import { loadGlossary } from "@/content/glossary";
+import { Math } from "@/components/Math";
 import { GlobalSearchList, type SearchRow } from "./GlobalSearchList";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -24,7 +25,11 @@ export async function generateMetadata(): Promise<Metadata> {
  * result found while searching `/et/search` never surfaces English-only
  * matches, matching the "index both locales independently" requirement.
  */
-export default async function SearchPage() {
+export default async function SearchPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ q?: string }>;
+}) {
   const locale = await lang();
   if (!locale || !isLocale(locale)) notFound();
   const dict = await getDictionary();
@@ -52,7 +57,7 @@ export default async function SearchPage() {
         id: `formula-${formula.id}`,
         type: "formula",
         title: concept.title[locale],
-        subtitle: formula.latex,
+        subtitle: <Math tex={formula.latex} />,
         href: `/${locale}/concepts/${concept.id}`,
         searchText: `${concept.title[locale]} ${symbolNames}`,
       };
@@ -68,12 +73,14 @@ export default async function SearchPage() {
   }));
 
   const rows = [...conceptRows, ...formulaRows, ...glossaryRows];
+  const { q } = await searchParams;
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-16">
       <h1 className="text-3xl font-semibold">{dict.search.heading}</h1>
       <GlobalSearchList
         rows={rows}
+        initialQuery={q ?? ""}
         placeholder={dict.search.placeholder}
         noResultsLabel={dict.search.noResults}
         typeLabels={{
