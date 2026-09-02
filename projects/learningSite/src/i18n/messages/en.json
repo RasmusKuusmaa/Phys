@@ -91,7 +91,13 @@
     "totalTimeLabel": "Total time",
     "lastStudiedLabel": "Last studied",
     "latestUnderstandingLabel": "Latest rating",
-    "neverStudied": "Not studied yet."
+    "neverStudied": "Not studied yet.",
+    "topTopicsHeading": "Top topics this week",
+    "noTopTopics": "Nothing logged this week yet.",
+    "staleTopicsHeading": "Could use a review",
+    "noStaleTopics": "Nothing overdue.",
+    "moduleUnderstandingHeading": "Understanding by module",
+    "noModuleData": "Log some sessions to see this."
   },
   "notFound": {
     "heading": "Page not found",

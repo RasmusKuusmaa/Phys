@@ -9,6 +9,7 @@ import { TodaySessions } from "./TodaySessions";
 import { JournalTimeline } from "./JournalTimeline";
 import { ReflectionEditor } from "./ReflectionEditor";
 import { StreakCalendar } from "./StreakCalendar";
+import { JournalOverview } from "./JournalOverview";
 
 export async function generateMetadata(): Promise<Metadata> {
   const dict = await getDictionary();
@@ -42,6 +43,7 @@ export default async function JournalPage() {
       </div>
       <TodaySessions concepts={concepts} locale={locale} strings={dict.journal} />
       <ReflectionEditor strings={dict.journal} />
+      <JournalOverview concepts={concepts} locale={locale} strings={dict.journal} />
       <JournalTimeline concepts={concepts} locale={locale} strings={dict.journal} />
     </div>
   );

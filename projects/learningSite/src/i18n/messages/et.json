@@ -91,7 +91,13 @@
     "totalTimeLabel": "Kogukestus",
     "lastStudiedLabel": "Viimati õpitud",
     "latestUnderstandingLabel": "Viimane hinnang",
-    "neverStudied": "Veel õppimata."
+    "neverStudied": "Veel õppimata.",
+    "topTopicsHeading": "Selle nädala peamised teemad",
+    "noTopTopics": "Sel nädalal pole veel midagi logitud.",
+    "staleTopicsHeading": "Vajaks kordamist",
+    "noStaleTopics": "Miski ei ole tähtaega ületanud.",
+    "moduleUnderstandingHeading": "Mõistmine mooduli kaupa",
+    "noModuleData": "Logi sessioone, et seda näha."
   },
   "notFound": {
     "heading": "Lehte ei leitud",
