@@ -76,7 +76,10 @@
     "history": "Ajalugu",
     "noEntries": "Päevikukandeid pole veel.",
     "previousMonth": "Eelmine kuu",
-    "nextMonth": "Järgmine kuu"
+    "nextMonth": "Järgmine kuu",
+    "reflectionLabel": "Kuidas tänane päev läks?",
+    "reflectionPlaceholder": "Valikuline mõte päeva kohta",
+    "saveReflection": "Salvesta mõte"
   },
   "notFound": {
     "heading": "Lehte ei leitud",

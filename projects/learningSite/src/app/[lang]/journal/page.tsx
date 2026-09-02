@@ -7,6 +7,7 @@ import { loadAllConcepts } from "@/content/concepts";
 import { JournalEntryForm } from "./JournalEntryForm";
 import { TodaySessions } from "./TodaySessions";
 import { JournalTimeline } from "./JournalTimeline";
+import { ReflectionEditor } from "./ReflectionEditor";
 
 export async function generateMetadata(): Promise<Metadata> {
   const dict = await getDictionary();
@@ -36,6 +37,7 @@ export default async function JournalPage() {
         <JournalEntryForm concepts={concepts} locale={locale} strings={dict.journal} />
       </div>
       <TodaySessions concepts={concepts} locale={locale} strings={dict.journal} />
+      <ReflectionEditor strings={dict.journal} />
       <JournalTimeline concepts={concepts} locale={locale} strings={dict.journal} />
     </div>
   );

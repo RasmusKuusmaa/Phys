@@ -76,7 +76,10 @@
     "history": "History",
     "noEntries": "No journal entries yet.",
     "previousMonth": "Previous month",
-    "nextMonth": "Next month"
+    "nextMonth": "Next month",
+    "reflectionLabel": "How did today go?",
+    "reflectionPlaceholder": "Optional reflection for the day",
+    "saveReflection": "Save reflection"
   },
   "notFound": {
     "heading": "Page not found",
