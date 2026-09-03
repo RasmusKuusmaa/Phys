@@ -1,0 +1,10 @@
+{
+  "id": "plasma-physics-and-debye-shielding-m1",
+  "conceptId": "plasma-physics-and-debye-shielding",
+  "text": {
+    "en": "Believing a plasma is just an ordinary hot gas, distinguished from a normal gas only by its higher temperature -- a plasma's defining feature is that a substantial fraction of its particles are ionized, freely mobile charged particles (electrons and ions) rather than neutral atoms or molecules, which allows it to conduct electricity, respond collectively to electric and magnetic fields, and support entirely new kinds of collective oscillations and waves that a neutral gas, however hot, simply cannot support.",
+    "et": "Arvamus, et plasma on lihtsalt tavaline kuum gaas, mis eristub tavalisest gaasist ainult kõrgema temperatuuri poolest -- plasma defineeriv tunnus on see, et märkimisväärne osa selle osakestest on ioniseeritud, vabalt liikuvad laetud osakesed (elektronid ja ioonid), mitte neutraalsed aatomid või molekulid, mis lubab sellel juhtida elektrit, reageerida kollektiivselt elektri- ja magnetväljadele ning toetada täiesti uut tüüpi kollektiivseid ostsillatsioone ja laineid, mida neutraalne gaas, ükskõik kui kuum, lihtsalt ei suuda toetada.",
+    "sourceHash": "521a281a27c61347",
+    "stale": false
+  }
+}

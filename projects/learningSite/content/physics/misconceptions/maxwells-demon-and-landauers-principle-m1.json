@@ -1,0 +1,10 @@
+{
+  "id": "maxwells-demon-and-landauers-principle-m1",
+  "conceptId": "maxwells-demon-and-landauers-principle",
+  "text": {
+    "en": "Believing Maxwell's demon thought experiment genuinely shows the second law of thermodynamics can be violated by a sufficiently clever or small enough sorting mechanism -- the second law survives fully intact once the demon's own information-processing requirements are properly accounted for; the demon must measure and, crucially, eventually erase the record of each molecule it sorts to keep operating over an extended period, and Landauer's principle shows that this erasure step alone requires a minimum amount of work and produces a minimum amount of entropy that exactly compensates for any entropy decrease the sorting achieved.",
+    "et": "Arvamus, et Maxwelli deemoni mõtteeksperiment tõesti näitab, et termodünaamika teist seadust saab rikkuda piisavalt nutika või piisavalt väikese sorteerimismehhanismiga -- teine seadus jääb täielikult puutumatuks, kui deemoni enda infotöötlusvajadused korralikult arvesse võtta; deemon peab mõõtma ja, kriitiliselt, lõpuks kustutama iga sorteeritud molekuli kirje, et jätkuvalt pikema perioodi vältel tegutseda, ning Landaueri printsiip näitab, et ainuüksi see kustutamise samm nõuab minimaalset tööhulka ja tekitab minimaalset entroopiahulka, mis täpselt kompenseerib mistahes entroopia languse, mida sorteerimine saavutas.",
+    "sourceHash": "650308a1cbe2dabc",
+    "stale": false
+  }
+}

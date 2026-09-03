@@ -1,0 +1,22 @@
+{
+  "id": "maxwells-demon-and-landauers-principle",
+  "subject": "physics",
+  "level": "L4",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "Maxwell's demon and Landauer's principle",
+    "et": "Maxwelli deemon ja Landaueri printsiip",
+    "sourceHash": "c52a507377995785",
+    "stale": false
+  },
+  "summary": {
+    "en": "James Clerk Maxwell's famous 1867 thought experiment imagined a tiny 'demon' sorting fast and slow gas molecules between two chambers without doing any work, apparently decreasing entropy and violating the second law of thermodynamics; the resolution, only fully understood a century later through Rolf Landauer's work, is that the demon must record and eventually erase information about each molecule to keep operating indefinitely, and erasing information is itself an irreversible, entropy-increasing process requiring a minimum, precisely calculable amount of work, restoring the second law and revealing a deep, quantitative link between information and thermodynamic entropy.",
+    "et": "James Clerk Maxwelli kuulus 1867. aasta mõtteeksperiment kujutas ette pisikest 'deemonit', kes sorteerib kiireid ja aeglaseid gaasimolekule kahe kambri vahel ilma mistahes tööd tegemata, näiliselt vähendades entroopiat ja rikkudes termodünaamika teist seadust; lahendus, mida mõisteti täielikult alles sajand hiljem Rolf Landaueri töö kaudu, on see, et deemon peab salvestama ja lõpuks kustutama infot iga molekuli kohta, et jätkuvalt tegutseda, ning info kustutamine on ise pöördumatu, entroopiat suurendav protsess, mis nõuab minimaalset, täpselt arvutatavat tööhulka, taastades teise seaduse ja paljastades sügava, kvantitatiivse seose info ja termodünaamilise entroopia vahel.",
+    "sourceHash": "ca343af80c445e4e",
+    "stale": false
+  },
+  "prerequisites": [
+    "statistical-definition-of-entropy",
+    "the-maxwell-boltzmann-distribution"
+  ]
+}

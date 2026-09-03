@@ -1,0 +1,10 @@
+{
+  "id": "maxwells-demon-and-landauers-principle-m3",
+  "conceptId": "maxwells-demon-and-landauers-principle",
+  "text": {
+    "en": "Believing the connection between information and thermodynamic entropy revealed by Landauer's principle is a loose philosophical analogy rather than a precise, quantitative physical relationship -- Landauer's principle gives an exact, quantitative minimum energy cost (kT times the natural logarithm of 2, per bit erased, at temperature T) for erasing one bit of information, a specific numerical prediction that has since been directly tested and confirmed in real physical experiments with actual physical bit-storage systems, making the information-entropy connection a precise, experimentally verified physical law rather than a metaphor.",
+    "et": "Arvamus, et Landaueri printsiibi paljastatud seos info ja termodünaamilise entroopia vahel on lõtv filosoofiline analoogia, mitte täpne, kvantitatiivne füüsikaline seos -- Landaueri printsiip annab täpse, kvantitatiivse minimaalse energiakulu (kT korda kahe naturaallogaritm, kustutatud biti kohta, temperatuuril T) ühe infobiti kustutamiseks, konkreetse arvulise ennustuse, mida on sellest ajast peale otse testitud ja kinnitatud reaalsetes füüsikalistes katsetes tegelike füüsikaliste bitisalvestussüsteemidega, mis teeb info-entroopia seosest täpse, eksperimentaalselt kinnitatud füüsikaseaduse, mitte metafoori.",
+    "sourceHash": "8d870f053f183488",
+    "stale": false
+  }
+}

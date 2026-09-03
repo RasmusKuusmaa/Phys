@@ -1,0 +1,56 @@
+{
+  "id": "maxwells-demon-and-landauers-principle-item1",
+  "conceptId": "maxwells-demon-and-landauers-principle",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What specifically resolves the apparent second-law violation in Maxwell's demon thought experiment?",
+    "et": "Mis täpselt lahendab näilise teise seaduse rikkumise Maxwelli deemoni mõtteeksperimendis?",
+    "sourceHash": "b274ef28d5e685cb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The demon must eventually erase its records of sorted molecules to operate continuously, and Landauer's principle shows this erasure has a minimum entropy cost that exactly compensates the sorting.",
+        "et": "Deemon peab lõpuks kustutama oma sorteeritud molekulide kirjed, et pidevalt toimida, ning Landaueri printsiip näitab, et sellel kustutamisel on minimaalne entroopiakulu, mis täpselt kompenseerib sorteerimist.",
+        "sourceHash": "646a918df7644e9a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing resolves it -- the thought experiment genuinely proves the second law of thermodynamics can be violated by a sufficiently clever mechanism.",
+        "et": "Miski ei lahenda seda -- mõtteeksperiment tõesti tõestab, et termodünaamika teist seadust saab piisavalt nutika mehhanismiga rikkuda.",
+        "sourceHash": "d96197b40fe9e58c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwells-demon-and-landauers-principle-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The act of measuring each molecule's speed itself carries the unavoidable minimum energy cost that Landauer's principle describes.",
+        "et": "Iga molekuli kiiruse mõõtmise akt ise kannab vältimatut minimaalset energiakulu, mida Landaueri printsiip kirjeldab.",
+        "sourceHash": "d58406e2d8ddc43e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwells-demon-and-landauers-principle-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The information-entropy connection is only a loose philosophical analogy, so no precise physical mechanism is actually needed to resolve the paradox.",
+        "et": "Info-entroopia seos on ainult lõtv filosoofiline analoogia, seega ei ole paradoksi lahendamiseks tegelikult vaja täpset füüsikalist mehhanismi.",
+        "sourceHash": "7e723663d749f314",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "maxwells-demon-and-landauers-principle-m3"
+    }
+  ]
+}

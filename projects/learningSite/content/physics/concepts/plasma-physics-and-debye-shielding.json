@@ -1,0 +1,22 @@
+{
+  "id": "plasma-physics-and-debye-shielding",
+  "subject": "physics",
+  "level": "L4",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Plasma physics and Debye shielding",
+    "et": "Plasmafüüsika ja Debye varjestus",
+    "sourceHash": "18e60e532d731f31",
+    "stale": false
+  },
+  "summary": {
+    "en": "A plasma -- an ionized gas of free electrons and ions, often called the fourth state of matter and making up the overwhelming majority of visible matter in the universe -- behaves collectively in ways an ordinary neutral gas cannot, since its mobile charges rearrange themselves to cancel out any electric field over a short but well-defined distance called the Debye length, effectively shielding the bulk of the plasma from any localized charge or external field and giving the plasma a characteristic quasi-neutrality that underlies essentially all of its distinctive collective behaviour, from oscillations to wave propagation.",
+    "et": "Plasma -- vabade elektronide ja ioonide ioniseeritud gaas, mida sageli nimetatakse aine neljandaks olekuks ja mis moodustab valdava enamuse universumi nähtavast ainest -- käitub kollektiivselt viisidel, mida tavaline neutraalne gaas ei suuda, kuna selle liikuvad laengud korraldavad end ümber, et tühistada mistahes elektriväli lühikese, kuid hästi määratletud kauguse jooksul, mida nimetatakse Debye pikkuseks, varjestades efektiivselt plasma põhiosa mistahes lokaalsest laengust või välisest väljast ja andes plasmale iseloomuliku kvaasi-neutraalsuse, mis on aluseks sisuliselt kogu selle iseloomulikule kollektiivsele käitumisele, alates ostsillatsioonidest kuni laineleviini.",
+    "sourceHash": "58ed2f8983d0cadd",
+    "stale": false
+  },
+  "prerequisites": [
+    "electric-fields",
+    "the-maxwell-boltzmann-distribution"
+  ]
+}

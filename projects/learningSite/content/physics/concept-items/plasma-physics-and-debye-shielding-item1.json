@@ -1,0 +1,56 @@
+{
+  "id": "plasma-physics-and-debye-shielding-item1",
+  "conceptId": "plasma-physics-and-debye-shielding",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does an isolated charge's electric field fall off much more steeply inside a plasma than it would in a vacuum?",
+    "et": "Miks langeb isoleeritud laengu elektriväli plasmas palju järsemalt kui vaakumis?",
+    "sourceHash": "7b2c622605c99485",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the plasma's mobile charges rearrange around the localized charge, effectively cancelling out its field beyond the characteristic Debye length, a genuine screening effect.",
+        "et": "Sest plasma liikuvad laengud korraldavad end ümber lokaalse laengu, tühistades efektiivselt selle välja kaugemal iseloomulikust Debye pikkusest, tõelise varjestusefekti.",
+        "sourceHash": "65558b5f75de3d59",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because plasma is just an ordinary hot gas, and hot gases uniformly weaken all electric fields passing through them.",
+        "et": "Sest plasma on lihtsalt tavaline kuum gaas, ning kuumad gaasid nõrgestavad ühtlaselt kõiki läbivaid elektrivälju.",
+        "sourceHash": "da1e79d3e9bf544d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "plasma-physics-and-debye-shielding-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't actually fall off any differently -- the field in a plasma is identical to the vacuum field at every distance.",
+        "et": "See ei langegi tegelikult erinevalt -- väli plasmas on identne vaakumi väljaga igal kaugusel.",
+        "sourceHash": "4d4e06345eda7501",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "plasma-physics-and-debye-shielding-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because plasma is a rare, exotic laboratory state with no natural mobile-charge screening mechanism at all.",
+        "et": "Sest plasma on haruldane, eksootiline laborioleku, millel puudub üldse looduslik liikuva laengu varjestusmehhanism.",
+        "sourceHash": "1c3007c8e03ad2c5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "plasma-physics-and-debye-shielding-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "maxwells-demon-and-landauers-principle-m2",
+  "conceptId": "maxwells-demon-and-landauers-principle",
+  "text": {
+    "en": "Believing that simply measuring or acquiring information about a molecule's speed is itself the step that costs the minimum unavoidable energy Landauer's principle describes -- Landauer's principle specifically identifies the irreversible erasure or resetting of a stored bit of information, not the act of measurement or acquisition itself, as the step with an unavoidable minimum energy cost; a measurement can in principle be performed reversibly with no fundamental energy cost, but the demon cannot keep an ever-growing, unerased memory forever, so it must eventually erase its records to operate in a repeating cycle, and it is specifically that erasure that restores the second law.",
+    "et": "Arvamus, et lihtsalt molekuli kiiruse kohta info mõõtmine või omandamine on ise samm, mis maksab Landaueri printsiibi kirjeldatud minimaalse vältimatu energia -- Landaueri printsiip tuvastab spetsiifiliselt salvestatud infobiti pöördumatu kustutamise või lähtestamise, mitte mõõtmise või omandamise akti ennast, sammuna, millel on vältimatu minimaalne energiakulu; mõõtmist saab põhimõtteliselt teostada pöörduvalt ilma fundamentaalse energiakuluta, kuid deemon ei saa hoida igavesti üha kasvavat, kustutamata mälu, seega peab see lõpuks oma kirjed kustutama, et toimida korduvas tsüklis, ning just see kustutamine taastab teise seaduse.",
+    "sourceHash": "5b587cae9beeae13",
+    "stale": false
+  }
+}

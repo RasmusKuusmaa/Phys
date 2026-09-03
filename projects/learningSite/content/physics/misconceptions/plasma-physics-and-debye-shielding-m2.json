@@ -1,0 +1,10 @@
+{
+  "id": "plasma-physics-and-debye-shielding-m2",
+  "conceptId": "plasma-physics-and-debye-shielding",
+  "text": {
+    "en": "Believing an isolated charge placed inside a plasma produces the same electric field at all distances as it would in a vacuum, simply weakened somewhat by the surrounding medium -- the plasma's own mobile charges rearrange themselves around any localized charge, attracting oppositely charged particles and repelling like-charged ones, effectively cancelling out the charge's electric field beyond a characteristic distance (the Debye length), so the field falls off far more steeply with distance than the ordinary vacuum field would, a genuine screening effect rather than a uniform weakening.",
+    "et": "Arvamus, et isoleeritud laeng, mis on asetatud plasma sisse, tekitab kõigil kaugustel sama elektrivälja, mis see tekitaks vaakumis, lihtsalt mõnevõrra nõrgestatuna ümbritseva keskkonna poolt -- plasma enda liikuvad laengud korraldavad end ümber mistahes lokaalse laengu ümber, tõmmates vastandlaenguga osakesi ja tõukades sama laenguga osakesi, tühistades efektiivselt laengu elektrivälja kaugemal iseloomulikust kaugusest (Debye pikkus), seega langeb väli kaugusega palju järsemalt kui tavaline vaakumi väli, tõeline varjestusefekt, mitte ühtlane nõrgenemine.",
+    "sourceHash": "f5f79ebaa20881c5",
+    "stale": false
+  }
+}
