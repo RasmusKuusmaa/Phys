@@ -281,15 +281,15 @@ the math machinery a topic needs (`mathematics/`) as its own concept when
 it doesn't already exist yet, same policy as `QUESTIONS.md` § "Required
 math in the math section".
 
-- [ ] Star formation and the Jeans instability
-- [ ] Stellar atmospheres and radiative transfer
-- [ ] The interstellar medium
-- [ ] Binary star systems and mass transfer
-- [ ] The initial mass function and stellar populations
-- [ ] Cosmic inflation (horizon and flatness problems, slow roll)
-- [ ] Baryogenesis and the matter-antimatter asymmetry
+- [x] Star formation and the Jeans instability
+- [x] Stellar atmospheres and radiative transfer
+- [x] The interstellar medium
+- [x] Binary star systems and mass transfer
+- [x] The initial mass function and stellar populations
+- [x] Cosmic inflation (horizon and flatness problems, slow roll)
+- [x] Baryogenesis and the matter-antimatter asymmetry
+- [x] The Eddington luminosity limit
 - [ ] Galaxy formation and morphology
-- [ ] The Eddington luminosity limit
 - [ ] Reionization and the intergalactic medium
 - [ ] Globular clusters and stellar population synthesis
 - [ ] Asteroseismology and helioseismology
