@@ -255,4 +255,43 @@ isotope separation are real nuclear-engineering topics distinct from what
 - [x] Isotope separation techniques (gas centrifuge, gaseous diffusion,
       laser isotope separation)
 
+## Phase X2 — more gap-filling across the rest of physics (continuing the
+## astro → nuclear → rest-of-physics → nuclear cycle)
+
+- [x] The virial theorem (mechanics)
+- [x] Solitons and nonlinear wave equations (waves)
+- [x] The Joule-Thomson effect (thermodynamics)
+- [x] Gaussian beam optics and laser cavity modes (optics)
+
+---
+
+## Phase A3 — Cosmology, stellar physics and general astrophysics, full pass
+(per "I want all of cosmology and stellar physics, then general
+astrophysics for each topic also its math")
+
+Phase A's original checklist (above) is now fully implemented in content —
+stellar-structure-equations, stellar-nucleosynthesis-and-fusion-chains,
+supernova-mechanisms, neutron-star-structure-and-equation-of-state,
+galactic-dynamics-and-rotation-curves, and black-hole-thermodynamics (the
+last living in the `general-relativity` module, split out per
+`DECISIONS.md`) all exist; the plan file just hadn't been checked off.
+25 astrophysics + 8 general-relativity concepts total. This phase goes
+past that into further genuine, standard-textbook gaps, continuing to add
+the math machinery a topic needs (`mathematics/`) as its own concept when
+it doesn't already exist yet, same policy as `QUESTIONS.md` § "Required
+math in the math section".
+
+- [ ] Star formation and the Jeans instability
+- [ ] Stellar atmospheres and radiative transfer
+- [ ] The interstellar medium
+- [ ] Binary star systems and mass transfer
+- [ ] The initial mass function and stellar populations
+- [ ] Cosmic inflation (horizon and flatness problems, slow roll)
+- [ ] Baryogenesis and the matter-antimatter asymmetry
+- [ ] Galaxy formation and morphology
+- [ ] The Eddington luminosity limit
+- [ ] Reionization and the intergalactic medium
+- [ ] Globular clusters and stellar population synthesis
+- [ ] Asteroseismology and helioseismology
+
 ---
