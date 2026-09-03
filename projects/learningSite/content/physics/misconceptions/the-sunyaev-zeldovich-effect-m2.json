@@ -1,0 +1,10 @@
+{
+  "id": "the-sunyaev-zeldovich-effect-m2",
+  "conceptId": "the-sunyaev-zeldovich-effect",
+  "text": {
+    "en": "Believing the Sunyaev-Zel'dovich effect's observed strength depends on a galaxy cluster's distance from Earth the same way its ordinary brightness in visible light or X-rays does -- the effect's size instead depends on the total amount of hot electron gas the cosmic microwave background photons passed through along the line of sight (the gas's density integrated along the path), independent of how far away that gas actually is, which is exactly what makes the effect valuable: it lets astronomers detect and estimate the hot gas mass of clusters regardless of distance, including extremely distant clusters whose ordinary light has dimmed with distance to the point of being nearly undetectable.",
+    "et": "Arvamus, et Sunjajev-Zeldovitši efekti vaadeldud tugevus sõltub galaktikaparve kaugusest Maast samamoodi nagu selle tavaline heledus nähtavas valguses või röntgenkiirguses -- efekti suurus sõltub selle asemel kogu kuuma elektrongaasi hulgast, mida kosmilise mikrolainetausta footonid vaatejoonel läbisid (gaasi tiheduse integraal piki teed), sõltumata sellest, kui kaugel see gaas tegelikult on, mis ongi täpselt see, mis teeb efekti väärtuslikuks: see lubab astronoomidel tuvastada ja hinnata parvede kuuma gaasi massi olenemata kaugusest, sealhulgas äärmiselt kaugete parvede puhul, mille tavaline valgus on kaugusega tuhmunud punktini, kus see on peaaegu tuvastamatu.",
+    "sourceHash": "6cc753573c3f201f",
+    "stale": false
+  }
+}

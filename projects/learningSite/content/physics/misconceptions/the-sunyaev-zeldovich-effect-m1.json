@@ -1,0 +1,10 @@
+{
+  "id": "the-sunyaev-zeldovich-effect-m1",
+  "conceptId": "the-sunyaev-zeldovich-effect",
+  "text": {
+    "en": "Believing the Sunyaev-Zel'dovich effect is simply cosmic microwave background photons being absorbed and dimmed as they pass through a galaxy cluster's hot gas, the same way ordinary light is absorbed and dimmed by an obscuring medium -- the effect is instead a scattering process (inverse Compton scattering) that boosts a small fraction of photons up to slightly higher energy without destroying any of them, which characteristically removes photons from the microwave background's lower-energy side and adds them to its higher-energy side, producing a distinctive spectral distortion rather than a simple, uniform dimming.",
+    "et": "Arvamus, et Sunjajev-Zeldovitši efekt on lihtsalt kosmilise mikrolainetausta footonite neeldumine ja tuhmumine, kui need liiguvad läbi galaktikaparve kuuma gaasi, samamoodi nagu tavaline valgus neeldub ja tuhmub varjava keskkonna poolt -- efekt on selle asemel hajumisprotsess (pöördCompton hajumine), mis tõstab väikese osa footoneid veidi kõrgemale energiale ilma neid hävitamata, mis iseloomulikult eemaldab footoneid mikrolainetausta madalama energia poolelt ja lisab need selle kõrgema energia poolele, tekitades iseloomuliku spektraalse moonutuse, mitte lihtsa, ühtlase tuhmumise.",
+    "sourceHash": "b5ae76c5966f1547",
+    "stale": false
+  }
+}

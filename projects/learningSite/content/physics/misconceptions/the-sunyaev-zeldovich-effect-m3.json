@@ -1,0 +1,10 @@
+{
+  "id": "the-sunyaev-zeldovich-effect-m3",
+  "conceptId": "the-sunyaev-zeldovich-effect",
+  "text": {
+    "en": "Believing the Sunyaev-Zel'dovich effect is a minor or redundant detection method that adds nothing beyond what X-ray observations of a cluster's hot gas already provide -- the two methods are complementary rather than redundant: X-ray emission from the gas falls off with distance in the ordinary way and becomes difficult to detect for the most distant clusters, while the Sunyaev-Zel'dovich effect's distortion strength does not dim with distance, letting it detect and characterize the hot gas in clusters far too distant and faint for X-ray surveys to find reliably, extending galaxy cluster surveys to a redshift range X-ray methods alone cannot reach.",
+    "et": "Arvamus, et Sunjajev-Zeldovitši efekt on väike või üleliigne tuvastusmeetod, mis ei lisa midagi enamat sellele, mida parve kuuma gaasi röntgenvaatlused juba pakuvad -- kaks meetodit on üksteist täiendavad, mitte üleliigsed: gaasi röntgenkiirgus kahaneb kaugusega tavalisel viisil ja muutub kõige kaugemate parvede jaoks raskesti tuvastatavaks, samal ajal kui Sunjajev-Zeldovitši efekti moonutuse tugevus ei tuhmu kaugusega, lubades sellel tuvastada ja iseloomustada kuuma gaasi parvedes, mis on röntgenülevaadete jaoks usaldusväärseks leidmiseks liiga kauged ja tuhmid, laiendades galaktikaparvede ülevaateid punanihke vahemikku, mida röntgenmeetodid üksi ei ulatu.",
+    "sourceHash": "a1bb1d85e0aa1dc5",
+    "stale": false
+  }
+}

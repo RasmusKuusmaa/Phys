@@ -1,0 +1,22 @@
+{
+  "id": "the-sunyaev-zeldovich-effect",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "The Sunyaev-Zel'dovich effect",
+    "et": "Sunjajev-Zeldovitši efekt",
+    "sourceHash": "ee8bd77699bb29b3",
+    "stale": false
+  },
+  "summary": {
+    "en": "As cosmic microwave background photons pass through a galaxy cluster's hot intracluster medium, a small fraction of them scatter off the plasma's high-energy free electrons and are boosted to slightly higher energy in the process (inverse Compton scattering), which distorts the microwave background's otherwise near-perfect blackbody spectrum in that specific direction of sky in a very characteristic, calculable way -- the Sunyaev-Zel'dovich effect -- and because this spectral distortion's size depends on the total amount of hot electron gas the photons passed through rather than on distance the way ordinary brightness does, it gives astronomers a distance-independent way to detect galaxy clusters and estimate the mass of their hot gas directly, letting them find and characterize even extremely distant clusters that would be far too faint to detect reliably in ordinary optical or X-ray light alone.",
+    "et": "Kui kosmilise mikrolainetausta footonid liiguvad läbi galaktikaparve kuuma parvedevahelise aine, hajub väike osa neist plasma kõrge energiaga vabadel elektronidel ja saab protsessi käigus veidi kõrgema energia (pöördCompton hajumine), mis moonutab mikrolainetausta muidu peaaegu täiuslikku absoluutselt musta keha spektrit selles konkreetses taevasuunas väga iseloomulikul, arvutataval viisil -- Sunjajev-Zeldovitši efekt --, ning kuna selle spektraalse moonutuse suurus sõltub kuuma elektrongaasi kogusest, mida footonid läbisid, mitte kaugusest nagu tavaline heledus, annab see astronoomidele kaugusest sõltumatu viisi galaktikaparvede tuvastamiseks ja nende kuuma gaasi massi otseseks hindamiseks, lubades neil leida ja iseloomustada isegi äärmiselt kaugeid parvi, mis oleksid muidu üksnes tavalises optilises või röntgenvalguses usaldusväärselt tuvastamiseks liiga tuhmid.",
+    "sourceHash": "a74bd429589a4c4c",
+    "stale": false
+  },
+  "prerequisites": [
+    "galaxy-clusters-and-the-intracluster-medium",
+    "the-cosmic-microwave-background-and-recombination"
+  ]
+}

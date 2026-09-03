@@ -1,0 +1,55 @@
+{
+  "id": "the-sunyaev-zeldovich-effect-item1",
+  "conceptId": "the-sunyaev-zeldovich-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can the Sunyaev-Zel'dovich effect detect extremely distant galaxy clusters that are too faint for X-ray surveys to find reliably?",
+    "et": "Miks suudab Sunjajev-Zeldovitši efekt tuvastada äärmiselt kaugeid galaktikaparvi, mis on röntgenülevaadete jaoks usaldusväärseks leidmiseks liiga tuhmid?",
+    "sourceHash": "f11a70b0bd614e11",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its spectral distortion strength depends on the total hot gas the microwave background photons passed through, not on the cluster's distance, so it does not dim with distance the way ordinary light does.",
+        "et": "Selle spektraalse moonutuse tugevus sõltub kogu kuumast gaasist, mida mikrolainetausta footonid läbisid, mitte parve kaugusest, seega ei tuhmu see kaugusega samamoodi nagu tavaline valgus.",
+        "sourceHash": "eea5365e25fec82d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is simply a much more sensitive detector technology than any X-ray telescope, capable of seeing fainter absolute brightness levels in general.",
+        "et": "See on lihtsalt palju tundlikum detektoritehnoloogia kui ükski röntgenteleskoop, mis suudab üldiselt näha nõrgemaid absoluutseid heledustasemeid.",
+        "sourceHash": "30aae8f268b80f08",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't actually help with distant clusters -- its strength dims with distance in exactly the same way ordinary X-ray brightness does.",
+        "et": "See ei aita tegelikult kaugete parvedega -- selle tugevus tuhmub kaugusega täpselt samamoodi nagu tavaline röntgenheledus.",
+        "sourceHash": "38d6084e5e318640",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-sunyaev-zeldovich-effect-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The effect works by absorbing and blocking X-rays before they leave the cluster, effectively doing the X-ray telescope's job for it from within the cluster itself.",
+        "et": "Efekt toimib röntgenkiirte neelamise ja blokeerimise kaudu enne, kui need parvest lahkuvad, tehes efektiivselt röntgenteleskoobi töö parve enda seest.",
+        "sourceHash": "4386b5eb733b987a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-sunyaev-zeldovich-effect-m1"
+    }
+  ]
+}
