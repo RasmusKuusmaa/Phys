@@ -1,0 +1,10 @@
+{
+  "id": "stellar-atmospheres-and-radiative-transfer-m1",
+  "conceptId": "stellar-atmospheres-and-radiative-transfer",
+  "text": {
+    "en": "Believing a star's observed light comes directly from the extremely hot core where fusion happens, simply attenuated on its way out -- in reality, radiation generated in the core is absorbed and re-emitted an enormous number of times as it random-walks outward through the opaque interior (taking tens of thousands of years to cross the Sun, despite light's speed), and the spectrum an observer actually sees is set entirely by conditions in the thin photosphere, the specific outer layer where the gas finally becomes transparent enough for photons to escape without further re-absorption; core temperature and composition matter only indirectly, through how they set the photosphere's properties.",
+    "et": "Arvamus, et tähe vaadeldav valgus tuleb otse äärmiselt kuumast tuumast, kus toimub tuumasüntees, lihtsalt teel väljapoole nõrgenenult -- tegelikult neeldub ja kiirgub tuumas tekkiv kiirgus tohutult palju kordi, kui see juhuslikult liigub väljapoole läbi läbipaistmatu sisemuse (võttes Päikese läbimiseks kümneid tuhandeid aastaid, hoolimata valguse kiirusest), ning vaatleja tegelikult nähtav spekter määratakse täielikult õhukese fotosfääri tingimuste järgi, sellest konkreetsest välimisest kihist, kus gaas muutub lõpuks piisavalt läbipaistvaks, et footonid saaksid pageda ilma edasise taasneeldumiseta; tuuma temperatuur ja koostis mõjutavad seda ainult kaudselt, selle kaudu, kuidas need määravad fotosfääri omadused.",
+    "sourceHash": "8f0447a7b9c527e0",
+    "stale": false
+  }
+}

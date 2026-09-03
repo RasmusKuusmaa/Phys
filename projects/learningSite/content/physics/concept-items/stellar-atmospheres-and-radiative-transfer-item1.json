@@ -1,0 +1,54 @@
+{
+  "id": "stellar-atmospheres-and-radiative-transfer-item1",
+  "conceptId": "stellar-atmospheres-and-radiative-transfer",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the Sun's disk appear noticeably darker near its edge (limb) than at its center, even though the Sun is a single object with one spherically-symmetric temperature structure?",
+    "et": "Miks näib Päikese ketas oma serva (ranna) lähedal märgatavalt tumedam kui keskosas, kuigi Päike on üks objekt ühe sfääriliselt sümmeetrilise temperatuurijaotusega?",
+    "sourceHash": "e91ee8ae75e1c264",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because a line of sight toward the center reaches hotter, deeper photospheric layers before the gas becomes opaque, while a line of sight near the limb only reaches shallower, cooler layers.",
+        "et": "Sest keskosa suunas vaatejoon jõuab kuumemate, sügavamate fotosfääri kihtideni, enne kui gaas muutub läbipaistmatuks, samal ajal kui serva lähedal jõuab vaatejoon ainult õhemate, külmemate kihtideni.",
+        "sourceHash": "c620a720681b5bce",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the gas at the Sun's visible edge is genuinely at a lower physical temperature than the gas at the center of the disk.",
+        "et": "Sest gaas Päikese nähtava serva juures on tegelikult madalama füüsilise temperatuuriga kui gaas ketta keskosas.",
+        "sourceHash": "9b755d8b9e7c6fba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-atmospheres-and-radiative-transfer-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the light reaching the edge of the disk has had to travel a much longer path through the Sun's opaque interior than light reaching the center.",
+        "et": "Sest ketta serva jõudev valgus on pidanud läbima palju pikema tee läbi Päikese läbipaistmatu sisemuse kui keskossa jõudev valgus.",
+        "sourceHash": "1699d02dc6d02fd2",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the edge of the disk is farther from Earth than the center, so its light is more strongly reduced by the inverse-square law.",
+        "et": "Sest ketta serv on Maast kaugemal kui keskosa, mistõttu selle valgust nõrgendab tugevamalt pöördruutseadus.",
+        "sourceHash": "e852342f6312f92d",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

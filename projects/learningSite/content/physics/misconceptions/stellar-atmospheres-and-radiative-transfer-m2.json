@@ -1,0 +1,10 @@
+{
+  "id": "stellar-atmospheres-and-radiative-transfer-m2",
+  "conceptId": "stellar-atmospheres-and-radiative-transfer",
+  "text": {
+    "en": "Believing limb darkening means the edge of a star's disk is physically cooler gas than the center, as though the star's temperature varied across its visible disk the way a planet's does -- the real cause is purely geometric: looking at the disk's center, the line of sight plunges more steeply into the star and reaches hotter, deeper photospheric layers before becoming optically thick, while looking near the limb, the line of sight is steeply inclined and only skims shallower, cooler layers before the gas becomes opaque, so the same spherically-symmetric temperature structure produces different apparent brightness purely because of viewing angle.",
+    "et": "Arvamus, et servatumenemine tähendab, et tähe ketta serv on füüsiliselt külmem gaas kui keskosa, nagu varieeruks tähe temperatuur üle nähtava ketta samamoodi nagu planeedi puhul -- tegelik põhjus on puhtalt geomeetriline: ketta keskosa vaadates tungib vaatejoon tähte järsemalt ja jõuab kuumemate, sügavamate fotosfääri kihtideni, enne kui muutub optiliselt paksuks, samal ajal kui serva lähedal vaadates on vaatejoon järsult kaldu ja libiseb üle ainult õhemate, külmemate kihtide, enne kui gaas muutub läbipaistmatuks, nii et sama sfääriliselt sümmeetriline temperatuurijaotus annab erineva näiva heleduse puhtalt vaatenurga tõttu.",
+    "sourceHash": "18cec8bb42d952ec",
+    "stale": false
+  }
+}

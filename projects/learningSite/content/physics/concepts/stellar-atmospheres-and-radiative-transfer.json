@@ -1,0 +1,22 @@
+{
+  "id": "stellar-atmospheres-and-radiative-transfer",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Stellar atmospheres and radiative transfer",
+    "et": "Tähtede atmosfäärid ja kiirgusülekanne",
+    "sourceHash": "49830b9f82a62e53",
+    "stale": false
+  },
+  "summary": {
+    "en": "The light a star actually emits into space comes not from its hot, opaque interior but from a thin outer layer called the photosphere, the specific depth at which photons finally become likely enough to escape without being re-absorbed that they can stream freely outward, and the equation of radiative transfer -- tracking how a beam of light is simultaneously weakened by absorption and reinforced by emission along its path through progressively less opaque gas -- explains both why a star's spectrum approximates a blackbody at its photospheric temperature and why the same star's disk appears darker at its edges than at its center, an effect called limb darkening that arises purely from the geometry of looking down into progressively hotter, deeper layers at different viewing angles.",
+    "et": "Valgus, mida täht tegelikult kosmosesse kiirgab, ei tule mitte selle kuumast ja läbipaistmatust sisemusest, vaid õhukesest välimisest kihist nimega fotosfäär -- konkreetsest sügavusest, kus footonid muutuvad lõpuks piisavalt tõenäoliselt pageda ilma taasneeldumiseta, et nad saavad vabalt väljapoole voolata --, ning kiirgusülekande võrrand, mis jälgib, kuidas valguskiir nõrgeneb samaaegselt neeldumise tõttu ja tugevneb kiirgumise tõttu, liikudes läbi järjest vähem läbipaistmatu gaasi, seletab nii seda, miks tähe spekter sarnaneb tema fotosfääri temperatuurile vastava absoluutselt musta keha kiirgusega, kui ka seda, miks sama tähe ketas näib servade juures tumedam kui keskosas -- efekt nimega servatumenemine, mis tuleneb puhtalt geomeetriast, kuna erineva vaatenurga all vaadatakse allapoole järjest kuumemate ja sügavamate kihtideni.",
+    "sourceHash": "17770478b344d166",
+    "stale": false
+  },
+  "prerequisites": [
+    "stellar-structure-equations",
+    "stellar-classification-and-the-hertzsprung-russell-diagram"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "stellar-atmospheres-and-radiative-transfer-m3",
+  "conceptId": "stellar-atmospheres-and-radiative-transfer",
+  "text": {
+    "en": "Believing radiative transfer is simply light being absorbed and progressively dimmed on its way through a gas, with no compensating process -- a full treatment tracks emission as well as absorption along the line of sight: hot gas simultaneously radiates its own light into the beam even as it absorbs light already traveling through it, and it is the balance between these two competing terms (not absorption alone) that determines the emergent intensity and spectral shape, which is why an optically thick gas in local thermal equilibrium radiates as a near-perfect blackbody rather than simply blocking all light.",
+    "et": "Arvamus, et kiirgusülekanne on lihtsalt valguse neeldumine ja järkjärguline hämardumine gaasi läbimisel, ilma kompenseeriva protsessita -- täielik käsitlus jälgib vaatejoonel nii kiirgumist kui ka neeldumist: kuum gaas kiirgab samaaegselt oma valgust kiirde, kuigi see neelab ka juba selle läbivat valgust, ning just nende kahe konkureeriva liikme tasakaal (mitte ainult neeldumine) määrab väljuva intensiivsuse ja spektraalse kuju, mistõttu optiliselt paks gaas kohalikus soojuslikus tasakaalus kiirgab peaaegu ideaalse absoluutselt musta kehana, mitte ei blokeeri lihtsalt kogu valgust.",
+    "sourceHash": "da447befb27e001c",
+    "stale": false
+  }
+}
