@@ -1,0 +1,10 @@
+{
+  "id": "multi-messenger-astronomy-m1",
+  "conceptId": "multi-messenger-astronomy",
+  "text": {
+    "en": "Believing gravitational waves, neutrinos, cosmic rays, and electromagnetic radiation are essentially redundant ways of observing the same information about an astrophysical event -- each messenger actually probes genuinely different physics and penetrates different obscuring material: electromagnetic radiation is easily absorbed and scattered by intervening gas and dust, neutrinos pass through even extremely dense matter almost entirely unimpeded and can escape regions light cannot, gravitational waves come directly from bulk mass motion rather than from charged particles or photons at all, and cosmic rays carry direct samples of accelerated particles rather than photons; catching an event in multiple of these channels genuinely adds independent information, not confirmation of the same fact through a different instrument.",
+    "et": "Arvamus, et gravitatsioonilained, neutriinod, kosmilised kiired ja elektromagnetiline kiirgus on sisuliselt üleliigsed viisid vaadelda sama teavet astrofüüsikalise sündmuse kohta -- iga messenger sondib tegelikult tõeliselt erinevat füüsikat ja läbib erinevat varjavat ainet: elektromagnetiline kiirgus neeldub ja hajub kergesti vahepealse gaasi ja tolmu poolt, neutriinod läbivad isegi äärmiselt tihedat ainet peaaegu täiesti takistamatult ning võivad pääseda piirkondadest, kust valgus ei pääse, gravitatsioonilained tulevad otse massi liikumisest, mitte laetud osakestest ega footonitest üldse, ning kosmilised kiired kannavad otseseid näiteid kiirendatud osakestest, mitte footoneid; sündmuse tabamine mitmes neist kanalitest lisab tõeliselt sõltumatut teavet, mitte sama fakti kinnitust erineva instrumendiga.",
+    "sourceHash": "eb0ddbdf82747868",
+    "stale": false
+  }
+}

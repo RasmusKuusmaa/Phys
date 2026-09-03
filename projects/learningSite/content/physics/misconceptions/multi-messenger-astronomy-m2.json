@@ -1,0 +1,10 @@
+{
+  "id": "multi-messenger-astronomy-m2",
+  "conceptId": "multi-messenger-astronomy",
+  "text": {
+    "en": "Believing the 2017 neutron star merger detection's value came entirely from the gravitational wave signal alone, with the electromagnetic counterpart being a minor bonus confirmation -- the near-simultaneous electromagnetic detection was itself essential to several of the event's landmark results: it confirmed neutron star mergers as a genuine source of short gamma-ray bursts (a decades-old open question), enabled a direct measurement of the gravitational wave speed against the electromagnetic signal's known light-speed travel time to extraordinary precision, and revealed the kilonova afterglow that gave the first direct observational evidence of heavy-element r-process nucleosynthesis happening in a merger; none of these specific results could have come from the gravitational wave detection by itself.",
+    "et": "Arvamus, et 2017. aasta neutrontähtede ühinemise tuvastamise väärtus tuli täielikult gravitatsioonilaine signaalist üksi, kusjuures elektromagnetiline vaste oli väike lisakinnitus -- peaaegu samaaegne elektromagnetiline tuvastamine oli ise oluline mitme sündmuse murrangulise tulemuse jaoks: see kinnitas neutrontähtede ühinemisi kui tõelist lühikeste gammapursete allikat (aastakümneid vana lahtine küsimus), võimaldas gravitatsioonilaine kiiruse otsest mõõtmist elektromagnetilise signaali teadaoleva valguse kiirusega läbimisaja suhtes erakordse täpsusega, ning paljastas kilonoova järelhelenduse, mis andis esimese otsese vaatlusliku tõendi raskete elementide r-protsessi tuumasünteesi kohta, mis toimub ühinemises; ükski neist konkreetsetest tulemustest ei oleks saanud tulla üksi gravitatsioonilaine tuvastamisest.",
+    "sourceHash": "46feaf3fdc1eafff",
+    "stale": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "multi-messenger-astronomy",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Multi-messenger astronomy",
+    "et": "Multimessengeri astronoomia",
+    "sourceHash": "3c410aef43ea845e",
+    "stale": false
+  },
+  "summary": {
+    "en": "A single astrophysical event can broadcast information to Earth through several genuinely independent physical channels -- electromagnetic radiation across the spectrum, gravitational waves, neutrinos, and cosmic rays -- each probing different physics, penetrating different obscuring material, and arriving with different, individually informative timing, so that catching the same event in more than one of these channels at once, called multi-messenger astronomy, can settle questions no single channel could answer alone, most famously in the 2017 detection of a neutron star merger's gravitational wave signal followed within under two seconds by its electromagnetic gamma-ray burst counterpart, which simultaneously confirmed that merging neutron stars are a source of gamma-ray bursts, measured the speed of gravitational waves against the speed of light to extraordinary precision, and captured the neutron-rich ejecta's radioactive glow (a kilonova) that directly confirmed neutron star mergers as a major site of heavy-element r-process nucleosynthesis.",
+    "et": "Üksik astrofüüsikaline sündmus võib edastada Maale teavet mitme tõeliselt sõltumatu füüsikalise kanali kaudu -- elektromagnetiline kiirgus üle kogu spektri, gravitatsioonilained, neutriinod ja kosmilised kiired -- millest igaüks sondib erinevat füüsikat, läbib erinevat varjavat ainet ja saabub erineva, individuaalselt informatiivse ajastusega, nii et sama sündmuse tabamine rohkem kui ühes neist kanalitest korraga, mida nimetatakse multimessengeri astronoomiaks, võib lahendada küsimusi, millele ükski üksik kanal üksinda vastata ei suudaks, kõige kuulsamalt 2017. aasta neutrontähtede ühinemise gravitatsioonilaine signaali tuvastamisel, millele järgnes alla kahe sekundi jooksul selle elektromagnetiline gammapurske vaste, mis samaaegselt kinnitas, et ühinevad neutrontähed on gammapursete allikas, mõõtis gravitatsioonilainete kiirust valguse kiiruse suhtes erakordse täpsusega, ning tabas neutronirikka väljapaisatud aine radioaktiivse helenduse (kilonoova), mis kinnitas otseselt neutrontähtede ühinemisi kui olulist raskete elementide r-protsessi tuumasünteesi asukohta.",
+    "sourceHash": "898fcd7b86851e71",
+    "stale": false
+  },
+  "prerequisites": [
+    "compact-binary-coalescence-and-gravitational-wave-sources",
+    "cosmic-rays-and-ultra-high-energy-astrophysical-particles"
+  ]
+}

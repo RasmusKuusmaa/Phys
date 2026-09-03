@@ -1,0 +1,56 @@
+{
+  "id": "multi-messenger-astronomy-item1",
+  "conceptId": "multi-messenger-astronomy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why did the 2017 detection of a neutron star merger's gravitational wave signal, followed shortly by its electromagnetic gamma-ray counterpart, count as a landmark multi-messenger result rather than one detection simply confirming the other redundantly?",
+    "et": "Miks luges 2017. aasta neutrontähtede ühinemise gravitatsioonilaine signaali tuvastamine, millele järgnes peagi selle elektromagnetiline gammakiirguse vaste, murranguliseks multimessengeri tulemuseks, mitte üheks tuvastamiseks, mis lihtsalt üleliigselt teist kinnitas?",
+    "sourceHash": "743426da0e587054",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Each channel supplied genuinely independent information -- confirming gamma-ray bursts' merger origin, measuring gravitational wave speed against light speed, and revealing r-process nucleosynthesis via the kilonova -- none obtainable from either channel alone.",
+        "et": "Iga kanal andis tõeliselt sõltumatut teavet -- kinnitades gammapursete ühinemispäritolu, mõõtes gravitatsioonilaine kiirust valguse kiiruse suhtes ja paljastades r-protsessi tuumasünteesi kilonoova kaudu -- millest ühtki ei saanud kummastki kanalist üksi.",
+        "sourceHash": "6c0ce820091af8b0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The electromagnetic signal was essentially a duplicate confirmation of the same gravitational wave data, valuable mainly as a backup in case one instrument had failed.",
+        "et": "Elektromagnetiline signaal oli sisuliselt sama gravitatsioonilaine andmete dubleeriv kinnitus, väärtuslik peamiselt varuvariandina juhuks, kui üks instrument oleks ebaõnnestunud.",
+        "sourceHash": "01a1955792ef11d3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multi-messenger-astronomy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All of the landmark results actually came from the gravitational wave detection alone; the electromagnetic counterpart was a minor bonus with no essential scientific role.",
+        "et": "Kõik murrangulised tulemused tulid tegelikult üksi gravitatsioonilaine tuvastamisest; elektromagnetiline vaste oli väike lisaväärtus ilma olulise teadusliku rollita.",
+        "sourceHash": "e2ac140bffa62d60",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multi-messenger-astronomy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The under-two-second timing gap between the two signals was actually an unexplained anomaly that cast doubt on whether the two detections were really from the same event.",
+        "et": "Alla kahe sekundi pikkune ajastuse vahe kahe signaali vahel oli tegelikult seletamata anomaalia, mis tekitas kahtluse, kas kaks tuvastust olid tõesti samast sündmusest.",
+        "sourceHash": "8e49ab84ae7fbfcb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "multi-messenger-astronomy-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "multi-messenger-astronomy-m3",
+  "conceptId": "multi-messenger-astronomy",
+  "text": {
+    "en": "Believing all of an astrophysical event's different messenger signals should arrive at Earth simultaneously if they were all emitted at the same time, so any timing difference indicates a measurement error or inconsistency -- different messengers can genuinely be emitted at slightly different times within one event's evolving physical process (for instance, a gamma-ray burst's jet takes a short but real amount of time to break out of surrounding merger ejecta after the gravitational-wave-emitting merger itself completes), and precisely measuring such a timing offset, rather than always expecting exact simultaneity, is itself valuable scientific information about the event's internal physics and timeline.",
+    "et": "Arvamus, et kõik astrofüüsikalise sündmuse erinevad messengeri signaalid peaksid Maale saabuma samaaegselt, kui need kõik kiirati samal ajal, seega mistahes ajastuse erinevus viitab mõõtmisveale või ebakõlale -- erinevad messengerid võivad tõeliselt kiirguda veidi erineval ajal ühe sündmuse areneva füüsikalise protsessi sees (näiteks võtab gammapurske joa läbimurdmine ühinemise väljapaisatud ainest lühikest, kuid reaalset aega pärast seda, kui gravitatsioonilaineid kiirgav ühinemine ise lõpeb), ning sellise ajastuse nihke täpne mõõtmine, mitte alati täpse samaaegsuse ootamine, on ise väärtuslik teaduslik teave sündmuse sisemise füüsika ja ajaskaala kohta.",
+    "sourceHash": "8d2cdce893c85bd8",
+    "stale": false
+  }
+}
