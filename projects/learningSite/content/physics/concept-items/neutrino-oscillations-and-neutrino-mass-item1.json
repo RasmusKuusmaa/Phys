@@ -1,0 +1,56 @@
+{
+  "id": "neutrino-oscillations-and-neutrino-mass-item1",
+  "conceptId": "neutrino-oscillations-and-neutrino-mass",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the experimental observation of neutrino oscillation directly prove about neutrinos, contradicting the original Standard Model?",
+    "et": "Mida tõestab neutriinovõnkumise eksperimentaalne täheldamine otseselt neutriinode kohta, olles vastuolus algse standardmudeliga?",
+    "sourceHash": "3b47963e55c440ef",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Neutrinos have nonzero mass, since a truly massless particle could never oscillate between flavours at all.",
+        "et": "Neutriinodel on nullist erinev mass, kuna tõeliselt massitu osake ei saaks kunagi maitsete vahel võnkuda.",
+        "sourceHash": "26a4f3d92535762e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing contradicts the original model — oscillation is fully consistent with neutrinos having exactly zero mass.",
+        "et": "Miski ei ole vastuolus algse mudeliga — võnkumine on täielikult kooskõlas neutriinode täpselt nullise massiga.",
+        "sourceHash": "20e5f7a18e8ef903",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neutrino-oscillations-and-neutrino-mass-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That flavour and mass state are simply two different names describing the exact same underlying property.",
+        "et": "Et maitse ja massiolek on lihtsalt kaks erinevat nime, mis kirjeldavad täpselt sama alusomadust.",
+        "sourceHash": "1e06ea7367e7e1cc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neutrino-oscillations-and-neutrino-mass-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The exact absolute mass value of each individual neutrino mass state, fully settling the question of neutrino mass.",
+        "et": "Iga üksiku neutriino massioleku täpset absoluutset massiväärtust, lahendades täielikult neutriino massi küsimuse.",
+        "sourceHash": "1f80c01e2040d1c4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neutrino-oscillations-and-neutrino-mass-m3"
+    }
+  ]
+}

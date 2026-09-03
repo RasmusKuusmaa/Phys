@@ -1,0 +1,56 @@
+{
+  "id": "electroweak-unification-item1",
+  "conceptId": "electroweak-unification",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "According to electroweak theory, why do electromagnetism and the weak force look like completely different forces at everyday energies?",
+    "et": "Elektronõrga teooria kohaselt, miks näevad elektromagnetism ja nõrk jõud igapäevaenergiatel välja täiesti erinevate jõududena?",
+    "sourceHash": "3d6f0c531731ba24",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The Higgs mechanism spontaneously breaks the underlying unified electroweak symmetry, leaving the photon massless (long range) while giving the W and Z bosons large masses (short range).",
+        "et": "Higgsi mehhanism murrab spontaanselt aluseks oleva ühendatud elektronõrga sümmeetria, jättes footoni massituks (pikk ulatus), kuid andes W ja Z bosonitele suured massid (lühike ulatus).",
+        "sourceHash": "e4aa48c866108604",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are fundamentally and permanently distinct forces at every energy scale, with no deeper connection at any energy.",
+        "et": "Need on fundamentaalselt ja püsivalt eristuvad jõud igal energiaskaalal, ilma sügavama seoseta ühelgi energial.",
+        "sourceHash": "708954b44abd872e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electroweak-unification-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The range difference is a coincidence unrelated to the Higgs mechanism or to particle masses in general.",
+        "et": "Ulatuse erinevus on kokkusattumus, mis ei ole seotud Higgsi mehhanismi ega osakeste massidega üldiselt.",
+        "sourceHash": "058a035bb853c477",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electroweak-unification-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It's currently just a theoretical proposal with no direct experimental support confirming it.",
+        "et": "See on praegu lihtsalt teoreetiline ettepanek ilma otsese eksperimentaalse toetuseta, mis seda kinnitaks.",
+        "sourceHash": "99bf35b735684a3c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electroweak-unification-m3"
+    }
+  ]
+}

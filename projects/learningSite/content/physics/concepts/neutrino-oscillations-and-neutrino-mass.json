@@ -1,0 +1,22 @@
+{
+  "id": "neutrino-oscillations-and-neutrino-mass",
+  "subject": "physics",
+  "level": "L4",
+  "module": "particle-physics",
+  "title": {
+    "en": "Neutrino oscillations and neutrino mass",
+    "et": "Neutriinovõnkumised ja neutriino mass",
+    "sourceHash": "3a795d4b2687980a",
+    "stale": false
+  },
+  "summary": {
+    "en": "A neutrino produced in one specific flavour — electron, muon or tau — has a real, periodically changing probability of being measured as a different flavour some distance later, a phenomenon called neutrino oscillation that is only possible if neutrinos have nonzero mass and the three flavour states are not the same as the three states of definite mass, directly contradicting the Standard Model's original assumption that neutrinos are exactly massless.",
+    "et": "Ühes kindlas maitses — elektron, müün või tau — tekitatud neutriinol on tegelik, perioodiliselt muutuv tõenäosus olla mingi vahemaa tagant mõõdetud teises maitses, nähtus nimega neutriinovõnkumine, mis on võimalik ainult siis, kui neutriinodel on nullist erinev mass ja kolm maitseolekut ei ole samad mis kolm kindla massiga olekut, olles otseses vastuolus standardmudeli algse eeldusega, et neutriinod on täpselt massitud.",
+    "sourceHash": "7a9d60a3c70d75cb",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-standard-model-of-particle-physics",
+    "conservation-laws-in-particle-interactions"
+  ]
+}

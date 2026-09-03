@@ -1,0 +1,22 @@
+{
+  "id": "electroweak-unification",
+  "subject": "physics",
+  "level": "L4",
+  "module": "particle-physics",
+  "title": {
+    "en": "Electroweak unification",
+    "et": "Elektronõrga jõu ühendamine",
+    "sourceHash": "c9d1c22262787615",
+    "stale": false
+  },
+  "summary": {
+    "en": "At energies far above those of everyday physics, the electromagnetic force and the weak nuclear force merge into a single, unified electroweak interaction described by one gauge symmetry — the distinction between 'electromagnetism' and 'the weak force' as separate forces is not fundamental but a low-energy artifact of the Higgs mechanism breaking that unified symmetry, leaving the photon massless while giving the W and Z bosons mass.",
+    "et": "Energiatel, mis on tunduvalt kõrgemad igapäevafüüsika omadest, ühinevad elektromagnetjõud ja nõrk tuumajõud üksikuks, ühendatud elektronõrgaks interaktsiooniks, mida kirjeldab üks kalibratsioonisümmeetria — eristus 'elektromagnetismi' ja 'nõrga jõu' kui eraldi jõudude vahel ei ole fundamentaalne, vaid Higgsi mehhanismi madala energia artefakt, mis murrab selle ühendatud sümmeetria, jättes footoni massituks, andes samal ajal W ja Z bosonitele massi.",
+    "sourceHash": "2146a5fceb5ed939",
+    "stale": false
+  },
+  "prerequisites": [
+    "gauge-symmetries-and-the-higgs-mechanism",
+    "quantum-electrodynamics-and-feynman-diagrams"
+  ]
+}
