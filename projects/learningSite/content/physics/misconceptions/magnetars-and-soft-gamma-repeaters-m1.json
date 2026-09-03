@@ -1,0 +1,10 @@
+{
+  "id": "magnetars-and-soft-gamma-repeaters-m1",
+  "conceptId": "magnetars-and-soft-gamma-repeaters",
+  "text": {
+    "en": "Believing a magnetar's energetic activity, like a pulsar's, is ultimately powered by its rotation slowing down -- ordinary pulsars are indeed rotation-powered, their emission drawing on rotational kinetic energy as spin-down gradually slows them, but a magnetar's total stored magnetic field energy vastly exceeds its rotational energy, and it is decay and rearrangement of that magnetic field itself, not rotational slowdown, that powers a magnetar's characteristic bursts and giant flares; magnetars are specifically classified as magnetically powered, a distinct energy source from the rotation-powered mechanism of ordinary pulsars.",
+    "et": "Arvamus, et magnetaari energiline aktiivsus, sarnaselt pulsarile, on lõppkokkuvõttes toidetud tema pöörlemise aeglustumisest -- tavalised pulsarid on tõepoolest pöörlemisest toidetud, nende kiirgus ammutab pöörlemise kineetilisest energiast, kui pöörlemise aeglustumine neid järk-järgult aeglustab, kuid magnetaari kogu salvestatud magnetvälja energia ületab tohutult tema pöörlemisenergia, ning just selle magnetvälja enda lagunemine ja ümberkorraldumine, mitte pöörlemise aeglustumine, toidab magnetaari iseloomulikke puhanguid ja hiidpurskeid; magnetaarid on spetsiifiliselt klassifitseeritud magnetiliselt toidetuks, eraldiseisvaks energiaallikaks tavaliste pulsarite pöörlemisest toidetud mehhanismist.",
+    "sourceHash": "11f85bc815643732",
+    "stale": false
+  }
+}

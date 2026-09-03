@@ -1,0 +1,55 @@
+{
+  "id": "magnetars-and-soft-gamma-repeaters-item1",
+  "conceptId": "magnetars-and-soft-gamma-repeaters",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Both ordinary pulsars and magnetars are rapidly-spinning neutron stars, yet they are classified as having fundamentally different power sources. What distinguishes a magnetar's emission mechanism from a pulsar's?",
+    "et": "Nii tavalised pulsarid kui magnetaarid on kiiresti pöörlevad neutrontähed, kuid need on klassifitseeritud fundamentaalselt erinevate energiaallikatega. Mis eristab magnetaari kiirgusmehhanismi pulsari omast?",
+    "sourceHash": "7cd5ce651f4f68bf",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A magnetar's stored magnetic field energy vastly exceeds its rotational energy, and it is the decay of that field, not rotational slowdown, that powers its bursts.",
+        "et": "Magnetaari salvestatud magnetvälja energia ületab tohutult tema pöörlemisenergia, ning just selle välja lagunemine, mitte pöörlemise aeglustumine, toidab tema puhanguid.",
+        "sourceHash": "a1d654fa79e9fc85",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There is no real distinction -- every neutron star, whether called a pulsar or a magnetar, is powered identically by rotational slowdown.",
+        "et": "Tegelikku erinevust ei ole -- iga neutrontäht, olgu see nimetatud pulsariks või magnetaariks, on toidetud identselt pöörlemise aeglustumise poolt.",
+        "sourceHash": "c7c31b0ef75e4e5e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "magnetars-and-soft-gamma-repeaters-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Magnetars are simply younger pulsars, and their apparent extra energy output is purely an artifact of their more recent birth.",
+        "et": "Magnetaarid on lihtsalt nooremad pulsarid ja nende näiline lisaenergia väljundile on puhtalt nende hilisema sünni artefakt.",
+        "sourceHash": "906c4b4d7c8db420",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Magnetars are the common, default outcome of core collapse, while ordinary pulsars are the rare special case requiring unusual birth conditions.",
+        "et": "Magnetaarid on tuumakollapsi tavaline, vaikimisi tulemus, samal ajal kui tavalised pulsarid on haruldane erijuhtum, mis nõuab ebatavalisi sünnitingimusi.",
+        "sourceHash": "bec85854c95c23d6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "magnetars-and-soft-gamma-repeaters-m2"
+    }
+  ]
+}
