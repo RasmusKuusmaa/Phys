@@ -207,6 +207,39 @@ use.
   deleted; test attempts are a plain union by id, since two devices can
   never disagree about an immutable fact.
 
+## MSc physics content
+
+- Scope and the L4 level itself are decided in § Level taxonomy above; this
+  section records the decisions specific to authoring the content, kept
+  live in `MSC_PHYSICS_PLAN.md` while the phase is in progress.
+- `general-relativity` is a new module, split from `astrophysics` rather
+  than folded into it, because GR's mathematical and physical machinery
+  (tensor calculus, the field equations, the Schwarzschild solution,
+  gravitational waves) is normally its own taught course, not an
+  astrophysics topic. The existing `general-relativity-and-cosmological-models`
+  concept stays in `astrophysics` rather than moving: its content and its
+  one prerequisite (`hubbles-law-and-the-expanding-universe`) are both
+  cosmology/observation-facing (the Big Bang model, inflation, dark
+  energy), which is what `astrophysics` is for; `general-relativity` is
+  for the theory's own machinery, not every topic GR happens to touch.
+- Most L4 concepts are conceptual, not quantitative: a formula + problem
+  template + error model is added only where a concept has one clean,
+  well-defined numeric relationship (as the existing bachelor-level
+  content mostly does); many graduate topics are derivation- and
+  reasoning-heavy rather than plug-into-a-formula, and forcing a formula
+  where the real content is the argument would be a worse concept, not a
+  more complete one. `canonical-transformations-and-hamilton-jacobi-theory`
+  (pre-existing, L3) already established this pattern; the MSc phase
+  continues it rather than introducing a new rule.
+- Resource curation for this phase defaults to one verified Wikipedia
+  article per locale per concept (checked live with `npm run check:links`
+  before every commit), not a hunt for a more specialised source per
+  concept — see `QUESTIONS.md` for the tradeoff this accepts.
+- The Estonian terminology this phase introduces (for vocabulary with no
+  existing glossary entry) was not run through the glossary's normal
+  locked-first process — see `QUESTIONS.md` for why, and flag it for a
+  native-speaker/domain-expert review pass.
+
 ## Stack choices
 
 - Tailwind v4 (CSS-first `@theme`, no `tailwind.config.js`).
