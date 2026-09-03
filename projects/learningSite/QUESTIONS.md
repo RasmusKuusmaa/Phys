@@ -60,6 +60,46 @@ pass over the new content specifically, more than the existing bachelor
 content warrants (that terminology went through the proper locked-first
 process; this didn't).
 
+## "Required math in the math section"
+
+Checked: the mathematics subject already has 45 concepts (linear algebra,
+complex analysis + residues, ODEs/PDEs incl. Sturm-Liouville and Green's
+functions, Fourier series, Bessel/Legendre special functions, tensor algebra
+and curvilinear coordinates, vector calculus, probability/stats) — most of
+the machinery the new MSc physics content actually leans on already exists.
+Zero physics concepts currently list a mathematics concept as a
+prerequisite, though (checked programmatically) — the two subjects are
+islands with no cross-links. Retroactively wiring up prerequisite links
+between ~390 physics concepts and the right math concepts is a large,
+mostly-mechanical task I'm not going to do wholesale right now; instead I'm
+treating "include the required math" as: when a new physics topic needs
+math machinery the site doesn't have yet, add it to `mathematics/` as its
+own concept (same quality bar as everything else — misconceptions, item,
+resources), same as any other content gap. Two gaps I found and closed for
+the GR/particle-physics content already written: group theory and Lie
+algebras/groups (needed for gauge symmetries, SU(2)/SU(3), the Higgs
+mechanism), and Riemannian geometry — Christoffel symbols, the Riemann and
+Ricci curvature tensors (needed for the Einstein field equations /
+Schwarzschild concepts; the existing `tensor-algebra-and-curvilinear-
+coordinates` concept doesn't reach curvature itself).
+
+I actually tried wiring these two as `prerequisites` on the relevant physics
+concepts (gauge-symmetries-and-the-higgs-mechanism, quantum-chromodynamics-
+and-colour-confinement, electroweak-unification → group-theory-and-lie-
+algebras; the-einstein-field-equations, the-schwarzschild-solution-and-
+black-holes → riemannian-geometry-and-curvature) and `validate:content`
+rejected all five as "unknown prerequisite" — confirmed the prerequisite
+checker (`src/content/checks/prerequisites.ts`) and everything that consumes
+it (the content loader, roadmap topological sort, reverse-prerequisite
+lookup) operate strictly per-subject; there is no cross-subject prerequisite
+support anywhere in the current architecture, not a validation gap I could
+special-case around. Reverted those five links. Two math concepts stand as
+standalone content, same as the rest of the mathematics subject relative to
+physics. Making cross-subject prerequisites actually work is a real,
+distinct feature (loader + roadmap + reverse-prerequisites + probably the
+concept-page prerequisite-card UI, which currently assumes same-subject
+links) — say so if you want it built.
+
 ## Resource curation
 
 Every new concept needs a real, verified resource link per locale
