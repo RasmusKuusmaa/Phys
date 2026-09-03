@@ -1,0 +1,55 @@
+{
+  "id": "baryogenesis-and-the-matter-antimatter-asymmetry-item1",
+  "conceptId": "baryogenesis-and-the-matter-antimatter-asymmetry",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why isn't observed CP violation in kaon and B-meson decays, by itself, considered a sufficient explanation for the universe's matter-antimatter asymmetry?",
+    "et": "Miks ei peeta kaonide ja B-mesonite lagunemistes vaadeldud CP-rikkumist üksinda piisavaks seletuseks universumi aine-antiaine asümmeetria jaoks?",
+    "sourceHash": "a45325393d9ecd7e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its magnitude, together with the Standard Model's other baryogenesis ingredients, is many orders of magnitude too small to produce the observed excess of matter.",
+        "et": "Selle suurus, koos Standardmudeli teiste barüogeneesi koostisosadega, on vaadeldud aine ülejäägi tekitamiseks paljude suurusjärkude võrra liiga väike.",
+        "sourceHash": "854c42b7dda870ca",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "CP violation has nothing to do with matter-antimatter asymmetry at all -- the two are unrelated phenomena that happen to both involve antimatter.",
+        "et": "CP-rikkumisel ei ole aine-antiaine asümmeetriaga üldse mingit pistmist -- need on omavahel mitteseotud nähtused, mis mõlemad lihtsalt puudutavad antiainet.",
+        "sourceHash": "58fa2161a5298927",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "CP violation alone is actually sufficient and fully explains the asymmetry; the other two Sakharov conditions are historical curiosities with no real physical necessity.",
+        "et": "Ainuüksi CP-rikkumine on tegelikult piisav ja seletab asümmeetria täielikult; ülejäänud kaks Sahharovi tingimust on ajaloolised kuriositeedid ilma tegeliku füüsikalise vajaduseta.",
+        "sourceHash": "664f11afaae8fdf7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "baryogenesis-and-the-matter-antimatter-asymmetry-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The asymmetry is simply an assumed initial condition of the Big Bang, so no dynamical mechanism, including CP violation, was ever needed to explain it in the first place.",
+        "et": "Asümmeetria on lihtsalt Suure Paugu eeldatud algtingimus, seega ei olnud algusest peale vaja mingit dünaamilist mehhanismi, sealhulgas CP-rikkumist, selle seletamiseks.",
+        "sourceHash": "abbb342fbc0c8fe7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "baryogenesis-and-the-matter-antimatter-asymmetry-m1"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "baryogenesis-and-the-matter-antimatter-asymmetry",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Baryogenesis and the matter-antimatter asymmetry",
+    "et": "Barüogenees ja aine-antiaine asümmeetria",
+    "sourceHash": "d50f690480587be9",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every known particle physics process that creates matter also creates an equal amount of antimatter, and the standard hot Big Bang's initial conditions had no obvious reason to prefer one over the other, yet the observable universe today is made almost entirely of matter, with antimatter appearing only fleetingly in high-energy collisions and never as a bulk astrophysical component -- a puzzle whose solution, baryogenesis, requires satisfying three conditions identified by Andrei Sakharov in 1967: some process must actually violate baryon number conservation, both charge conjugation symmetry and the combined charge-parity symmetry must be violated (so that matter- and antimatter-producing processes genuinely proceed at different rates, not merely appear different from certain viewpoints), and all of this must happen while the universe is out of thermal equilibrium, since a system in true equilibrium washes out any asymmetry a moment after it appears; the known amount of CP violation in the Standard Model is far too small to account for the observed asymmetry, making its true origin one of cosmology's most significant open problems.",
+    "et": "Iga teadaolev osakestefüüsika protsess, mis loob ainet, loob ka võrdse koguse antiainet, ning standardse kuuma Suure Paugu algtingimustel ei olnud ilmset põhjust eelistada üht teisele, kuid tänane vaadeldav universum koosneb peaaegu täielikult ainest, antiaine ilmub vaid põgusalt kõrge energiaga kokkupõrgetes ja mitte kunagi massilise astrofüüsikalise komponendina -- mõistatus, mille lahendus, barüogenees, nõuab kolme tingimuse täitmist, mille tuvastas Andrei Sahharov 1967. aastal: mõni protsess peab tegelikult rikkuma barüoni arvu jäävust, nii laengukonjugatsiooni sümmeetria kui kombineeritud laengu-pariteedi sümmeetria peavad olema rikutud (nii et ainet ja antiainet tootvad protsessid tõesti kulgevad erineva kiirusega, mitte ei näi lihtsalt teatud vaatenurkadest erinevad), ning kõik see peab toimuma ajal, mil universum on soojuslikust tasakaalust väljas, kuna tõelises tasakaalus olev süsteem kustutab mistahes asümmeetria hetk pärast selle ilmumist; Standardmudelis teadaolev CP-rikkumise hulk on vaadeldud asümmeetria seletamiseks liiga väike, mis muudab selle tegeliku päritolu üheks kosmoloogia kõige olulisemaks lahtiseks probleemiks.",
+    "sourceHash": "008f419b281333f1",
+    "stale": false
+  },
+  "prerequisites": [
+    "big-bang-nucleosynthesis",
+    "cp-violation-and-the-ckm-matrix"
+  ]
+}

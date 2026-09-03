@@ -1,0 +1,10 @@
+{
+  "id": "baryogenesis-and-the-matter-antimatter-asymmetry-m2",
+  "conceptId": "baryogenesis-and-the-matter-antimatter-asymmetry",
+  "text": {
+    "en": "Believing that violating charge-parity (CP) symmetry alone is sufficient to generate a net matter excess -- Sakharov's conditions require CP violation together with baryon-number violation and departure from thermal equilibrium simultaneously; CP violation alone, without a baryon-number-violating process to actually change the net number of matter particles relative to antimatter particles, or occurring in full thermal equilibrium (where any asymmetry generated is immediately washed out by the reverse process), would produce no net asymmetry at all -- all three conditions must be satisfied together, not any one of them in isolation.",
+    "et": "Arvamus, et üksnes laengu-pariteedi (CP) sümmeetria rikkumisest piisab, et tekitada netoaine ülejääk -- Sahharovi tingimused nõuavad CP-rikkumist koos barüoni arvu rikkumise ja soojuslikust tasakaalust kõrvalekaldumisega samaaegselt; ainult CP-rikkumine, ilma barüoni arvu rikkuva protsessita, mis tegelikult muudaks aineosakeste netoarvu suhtes antiaineosakestesse, või täielikus soojuslikus tasakaalus toimudes (kus mistahes tekkinud asümmeetria kustutatakse koheselt vastupidise protsessi poolt), ei annaks üldse netoasümmeetriat -- kõik kolm tingimust peavad olema täidetud koos, mitte ükski neist eraldi.",
+    "sourceHash": "3f8b6afc92c0bd01",
+    "stale": false
+  }
+}
