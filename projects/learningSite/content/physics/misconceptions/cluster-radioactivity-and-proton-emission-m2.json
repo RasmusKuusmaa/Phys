@@ -1,0 +1,10 @@
+{
+  "id": "cluster-radioactivity-and-proton-emission-m2",
+  "conceptId": "cluster-radioactivity-and-proton-emission",
+  "text": {
+    "en": "Believing a nucleus undergoing cluster radioactivity emits the heavy cluster fragment instead of undergoing ordinary alpha decay, as though the two were alternative, mutually exclusive fates -- in every known case, cluster radioactivity occurs as a rare side channel alongside ordinary alpha decay from the same parent nucleus, at a rate typically many orders of magnitude smaller than the alpha-decay rate; the parent nucleus overwhelmingly still decays by ordinary alpha emission most of the time, with cluster emission as a genuine but very minor branching possibility, not a replacement decay mode.",
+    "et": "Arvamus, et klasterradioaktiivsust läbiv tuum kiirgab raske klastrifragmendi tavalise alfalagunemise asemel, nagu oleksid need kaks alternatiivset, üksteist välistavat saatust -- igal teadaoleval juhul toimub klasterradioaktiivsus haruldase kõrvalkanalina koos tavalise alfalagunemisega samast lähtetuumast, kiirusel, mis on tüüpiliselt palju suurusjärke väiksem kui alfalagunemise kiirus; lähtetuum laguneb valdavalt siiski enamikel juhtudel tavalise alfa emissiooni kaudu, kusjuures klastri emissioon on tõeline, kuid väga väike harunemisvõimalus, mitte asendav lagunemisrežiim.",
+    "sourceHash": "f0669724425f7c89",
+    "stale": false
+  }
+}

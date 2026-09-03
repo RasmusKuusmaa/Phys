@@ -1,0 +1,10 @@
+{
+  "id": "cluster-radioactivity-and-proton-emission-m3",
+  "conceptId": "cluster-radioactivity-and-proton-emission",
+  "text": {
+    "en": "Believing proton emission requires a pre-formed proton cluster to assemble inside the nucleus before tunneling out, the same way alpha decay is often pictured as involving a pre-formed alpha particle -- proton emission instead involves a single, individual proton (not a bound cluster) tunneling directly through the combined Coulomb and angular momentum barrier, a process specific to extremely proton-rich nuclei near the proton drip line where the last proton is only barely bound (or effectively unbound) to begin with, governed by the interplay between the Coulomb repulsion and the centrifugal barrier associated with the proton's own angular momentum.",
+    "et": "Arvamus, et prootoni emissioon nõuab eelmoodustunud prootoniklastri kokkupanekut tuuma sees enne väljatunneldumist, samamoodi nagu alfalagunemist sageli kujutatakse hõlmavat eelmoodustunud alfaosakest -- prootoni emissioon hõlmab selle asemel üksikut, individuaalset prootonit (mitte seotud klastrit), mis tunneleerub otse läbi kombineeritud Coulombi ja nurgamomendi barjääri, protsess, mis on spetsiifiline äärmiselt prootonirikastele tuumadele prootoni lekkejoone lähedal, kus viimane prooton on alguses vaevu seotud (või sisuliselt sidumata), juhituna vastastikmõjust Coulombi tõukejõu ja prootoni enda nurgamomendiga seotud tsentrifugaalbarjääri vahel.",
+    "sourceHash": "d8a19085ac740152",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cluster-radioactivity-and-proton-emission-item1",
+  "conceptId": "cluster-radioactivity-and-proton-emission",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A heavy nucleus known to undergo cluster radioactivity (emitting a carbon-14 fragment) is observed. What does this imply about its ordinary alpha decay?",
+    "et": "Vaadeldakse rasket tuuma, mis on teadaolevalt läbimas klasterradioaktiivsust (kiirgab süsinik-14 fragmenti). Mida see viitab tema tavalise alfalagunemise kohta?",
+    "sourceHash": "091fff4ae1d551c9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The nucleus still decays overwhelmingly by ordinary alpha emission most of the time, with cluster emission occurring as a genuine but very rare side channel at a far lower rate.",
+        "et": "Tuum laguneb ikka valdavalt tavalise alfa emissiooni kaudu enamikel juhtudel, kusjuures klastri emissioon toimub tõelise, kuid väga haruldase kõrvalkanalina palju väiksema kiirusega.",
+        "sourceHash": "111c03d51b08b186",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The nucleus no longer undergoes alpha decay at all -- cluster radioactivity has fully replaced it as the nucleus's only available decay mode.",
+        "et": "Tuum ei läbi enam üldse alfalagunemist -- klasterradioaktiivsus on selle täielikult asendanud kui tuuma ainsa saadaoleva lagunemisrežiimi.",
+        "sourceHash": "785904291998b7e5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cluster-radioactivity-and-proton-emission-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Cluster radioactivity and alpha decay are unrelated physical mechanisms, so nothing can be inferred about one from observing the other.",
+        "et": "Klasterradioaktiivsus ja alfalagunemine on mitteseotud füüsikalised mehhanismid, seega ei saa ühe vaatlemisest teise kohta midagi järeldada.",
+        "sourceHash": "29c38ea9274df0e9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cluster-radioactivity-and-proton-emission-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The nucleus must be near the proton drip line, since cluster radioactivity and proton emission are simply two names for the same underlying decay process.",
+        "et": "Tuum peab olema prootoni lekkejoone lähedal, kuna klasterradioaktiivsus ja prootoni emissioon on lihtsalt kaks nime samale aluseks olevale lagunemisprotsessile.",
+        "sourceHash": "4a5d9886e73d8a21",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cluster-radioactivity-and-proton-emission-m3"
+    }
+  ]
+}

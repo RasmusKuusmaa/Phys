@@ -1,0 +1,10 @@
+{
+  "id": "cluster-radioactivity-and-proton-emission-m1",
+  "conceptId": "cluster-radioactivity-and-proton-emission",
+  "text": {
+    "en": "Believing cluster radioactivity is a completely different physical mechanism from alpha decay, unrelated to Gamow's tunneling picture -- cluster radioactivity is instead described by essentially the same quantum tunneling process Gamow used for alpha decay, just applied to a larger, more massive emitted fragment (such as carbon-14 or neon-24) tunneling through the parent nucleus's Coulomb barrier; the same underlying physics extends smoothly from ordinary alpha emission to these heavier cluster emissions, not a qualitatively separate phenomenon.",
+    "et": "Arvamus, et klasterradioaktiivsus on täiesti erinev füüsikaline mehhanism võrreldes alfalagunemisega, mitteseotud Gamow tunneldumispildiga -- klasterradioaktiivsust kirjeldab selle asemel sisuliselt sama kvantmehaaniline tunneldumisprotsess, mida Gamow kasutas alfalagunemise jaoks, lihtsalt rakendatuna suuremale, massiivsemale kiirgatud fragmendile (nagu süsinik-14 või neoon-24), mis tunneleerub läbi lähtetuuma Coulombi barjääri; sama aluseks olev füüsika laieneb sujuvalt tavalisest alfa emissioonist nendele raskematele klastri emissioonidele, mitte kvalitatiivselt eraldiseisev nähtus.",
+    "sourceHash": "2d7c8a1c8402a21d",
+    "stale": false
+  }
+}

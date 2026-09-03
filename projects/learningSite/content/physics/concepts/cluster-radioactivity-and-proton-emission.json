@@ -1,0 +1,22 @@
+{
+  "id": "cluster-radioactivity-and-proton-emission",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Cluster radioactivity and proton emission",
+    "et": "Klasterradioaktiivsus ja prootoni emissioon",
+    "sourceHash": "1cc25b32fb44f8d0",
+    "stale": false
+  },
+  "summary": {
+    "en": "Alpha decay is only the most common example of a more general phenomenon in which a heavy nucleus tunnels its way to a lower-energy configuration by emitting a bound fragment through the same quantum tunneling mechanism Gamow used to explain alpha decay, extended in two directions: some very heavy nuclei occasionally emit much larger bound fragments than a helium nucleus -- carbon-14 or neon-24, for instance -- in a rare process called cluster radioactivity, always occurring alongside ordinary alpha decay from the same parent at a vastly lower rate, while certain extremely proton-rich nuclei near the proton drip line instead emit a single unbound proton directly, a process requiring no pre-formed cluster at all and governed instead by the interplay between the Coulomb barrier and the angular momentum barrier the escaping proton must tunnel through, together showing that Gamow's original tunneling picture for alpha decay generalizes to a whole family of related decay modes distinguished mainly by what, and how much, gets emitted.",
+    "et": "Alfalagunemine on ainult kõige levinum näide üldisemast nähtusest, milles raske tuum tunneleerub madalama energiaga konfiguratsiooni, kiirgudes seotud fragmendi sama kvantmehaanilise tunneldumismehhanismi kaudu, mida Gamow kasutas alfalagunemise seletamiseks, laiendatuna kahes suunas: mõned väga rasked tuumad kiirgavad aeg-ajalt palju suuremaid seotud fragmente kui heeliumituum -- näiteks süsinik-14 või neoon-24 -- haruldases protsessis nimega klasterradioaktiivsus, mis toimub alati koos tavalise alfalagunemisega samast lähtetuumast, kuid tohutult madalama kiirusega, samal ajal kui teatud äärmiselt prootonirikkad tuumad prootoni lekkejoone lähedal kiirgavad selle asemel otse üksiku sidumata prootoni, protsess, mis ei nõua üldse eelmoodustunud klastrit ja mida juhib selle asemel vastastikmõju Coulombi barjääri ja nurgamomendi barjääri vahel, mida pageev prooton peab läbi tunneleeruma, näidates koos, et Gamow originaalne tunneldumispilt alfalagunemise jaoks üldistub tervele perekonnale seotud lagunemisrežiimidele, mida eristab peamiselt see, mis ja kui palju kiirgub.",
+    "sourceHash": "beeee4429b25d1ab",
+    "stale": false
+  },
+  "prerequisites": [
+    "alpha-decay-theory-and-gamow-tunneling",
+    "halo-nuclei-and-the-drip-lines"
+  ]
+}
