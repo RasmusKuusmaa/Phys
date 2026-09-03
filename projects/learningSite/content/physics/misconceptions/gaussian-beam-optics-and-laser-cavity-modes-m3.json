@@ -1,0 +1,10 @@
+{
+  "id": "gaussian-beam-optics-and-laser-cavity-modes-m3",
+  "conceptId": "gaussian-beam-optics-and-laser-cavity-modes",
+  "text": {
+    "en": "Believing a Gaussian beam's divergence and its minimum achievable focused spot size are essentially independent properties that can each be made arbitrarily small by sufficiently clever optical design -- for a given wavelength, a Gaussian beam's divergence angle and its beam waist size are fundamentally linked by diffraction: a smaller beam waist (a more tightly focused spot) necessarily produces a larger divergence angle, and vice versa, so no optical design can make both the focused spot size and the divergence angle arbitrarily small simultaneously, a direct consequence of the same underlying diffraction limit that sets a minimum achievable spot size for any given focusing geometry.",
+    "et": "Arvamus, et Gaussi kimbu divergents ja selle minimaalne saavutatav fokuseeritud punktisuurus on sisuliselt sõltumatud omadused, mida kumbagi saab piisavalt nutika optilise disainiga muuta suvaliselt väikeseks -- antud lainepikkuse jaoks on Gaussi kimbu divergentsinurk ja selle kimbu vöökoha suurus difraktsiooni poolt fundamentaalselt seotud: väiksem kimbu vöökoht (teravamalt fokuseeritud punkt) tekitab paratamatult suurema divergentsinurga, ja vastupidi, seega ei saa ükski optiline disain teha nii fokuseeritud punktisuurust kui divergentsinurka suvaliselt väikeseks samaaegselt, otsene tagajärg samast aluseks olevast difraktsioonipiirist, mis seab minimaalse saavutatava punktisuuruse mistahes antud fokuseerimisgeomeetria jaoks.",
+    "sourceHash": "2531f82d3871443b",
+    "stale": false
+  }
+}

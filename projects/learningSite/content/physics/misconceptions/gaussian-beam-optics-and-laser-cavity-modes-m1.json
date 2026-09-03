@@ -1,0 +1,10 @@
+{
+  "id": "gaussian-beam-optics-and-laser-cavity-modes-m1",
+  "conceptId": "gaussian-beam-optics-and-laser-cavity-modes",
+  "text": {
+    "en": "Believing a well-collimated laser beam is an idealized geometric ray that could in principle remain perfectly narrow and parallel forever if only the optics producing it were good enough -- any beam of finite width unavoidably diverges as it propagates, a direct, unavoidable consequence of diffraction (the wave nature of light) rather than a limitation of imperfect equipment; a Gaussian beam reaches its narrowest width, the beam waist, at exactly one location along its path and necessarily spreads out on either side of that point, no matter how carefully the beam-forming optics are designed.",
+    "et": "Arvamus, et hästi kollimeeritud laserikimp on idealiseeritud geomeetriline kiir, mis võiks põhimõtteliselt jääda igavesti täiuslikult kitsaks ja paralleelseks, kui ainult seda tootev optika oleks piisavalt hea -- mistahes lõpliku laiusega kimp paratamatult divergeerub levimisel, otsene, vältimatu tagajärg difraktsioonist (valguse lainelisusest), mitte ebatäiusliku varustuse piirang; Gaussi kimp saavutab oma kitseima laiuse, kimbu vöökoha, täpselt ühes asukohas mööda selle teed ja paratamatult laieneb sellest punktist mõlemal pool, ükskõik kui hoolikalt kimpu moodustav optika on projekteeritud.",
+    "sourceHash": "644acace8de231a2",
+    "stale": false
+  }
+}

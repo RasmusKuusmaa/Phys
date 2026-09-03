@@ -1,0 +1,10 @@
+{
+  "id": "gaussian-beam-optics-and-laser-cavity-modes-m2",
+  "conceptId": "gaussian-beam-optics-and-laser-cavity-modes",
+  "text": {
+    "en": "Believing every laser produces exactly the same, single kind of output beam shape, with no meaningful distinction between different lasers' beam quality or profile -- a laser cavity supports a specific discrete set of self-consistent field patterns (transverse modes) determined by the cavity's geometry, and different lasers (or the same laser operated differently) can favor different modes, producing measurably different beam shapes, intensity profiles, and divergence properties; the simplest, most commonly desired mode (the fundamental Gaussian mode) gives the highest-quality, most tightly focusable beam, while higher-order modes produce more complex intensity patterns and generally worse focusability.",
+    "et": "Arvamus, et iga laser toodab täpselt sama, üksikut tüüpi väljundkimbu kuju, ilma mõtestatud eristuseta erinevate laserite kimbu kvaliteedi või profiili vahel -- laseri õõnsus toetab konkreetset diskreetset isekooskõlaliste väljamustrite (põikimoodide) komplekti, mille määrab õõnsuse geomeetria, ning erinevad laserid (või sama laser erinevalt kasutatuna) võivad eelistada erinevaid moode, tekitades mõõdetavalt erinevaid kimbukujusid, intensiivsusprofiile ja divergentsiomadusi; lihtsaim, kõige sagedamini soovitud mood (fundamentaalne Gaussi mood) annab kõrgeima kvaliteediga, kõige teravamini fokuseeritava kimbu, samal ajal kui kõrgemat järku moodid tekitavad keerulisemaid intensiivsusmustreid ja üldiselt halvema fokuseeritavuse.",
+    "sourceHash": "a0f0ecaf5498be6f",
+    "stale": false
+  }
+}

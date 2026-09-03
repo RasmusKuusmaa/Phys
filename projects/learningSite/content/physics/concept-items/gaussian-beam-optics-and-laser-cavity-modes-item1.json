@@ -1,0 +1,56 @@
+{
+  "id": "gaussian-beam-optics-and-laser-cavity-modes-item1",
+  "conceptId": "gaussian-beam-optics-and-laser-cavity-modes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why must a Gaussian beam necessarily diverge as it propagates, even with perfectly designed optics?",
+    "et": "Miks peab Gaussi kimp levimisel paratamatult divergeeruma, isegi täiuslikult projekteeritud optikaga?",
+    "sourceHash": "f4251916f9b70564",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because beam divergence is a direct, unavoidable consequence of diffraction (the wave nature of light), not a limitation of imperfect equipment.",
+        "et": "Sest kimbu divergents on otsene, vältimatu tagajärg difraktsioonist (valguse lainelisusest), mitte ebatäiusliku varustuse piirang.",
+        "sourceHash": "34fd47ec1333d288",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't have to -- with sufficiently good optics, a beam could in principle remain perfectly narrow and parallel forever, like an idealized geometric ray.",
+        "et": "Ei pea -- piisavalt hea optikaga võiks kimp põhimõtteliselt jääda igavesti täiuslikult kitsaks ja paralleelseks, nagu idealiseeritud geomeetriline kiir.",
+        "sourceHash": "aaafa2d9e8c76108",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gaussian-beam-optics-and-laser-cavity-modes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because every laser produces exactly the same beam shape regardless of cavity design, so divergence is simply a fixed universal property with no design dependence.",
+        "et": "Sest iga laser toodab täpselt sama kimbu kuju olenemata õõnsuse disainist, seega on divergents lihtsalt fikseeritud universaalne omadus ilma disainisõltuvuseta.",
+        "sourceHash": "16e0617b6b485acd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gaussian-beam-optics-and-laser-cavity-modes-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because beam divergence and focused spot size are completely independent properties, so a clever enough design could make the beam both perfectly narrow and non-divergent.",
+        "et": "Sest kimbu divergents ja fokuseeritud punktisuurus on täiesti sõltumatud omadused, seega saaks piisavalt nutikas disain teha kimbu nii täiuslikult kitsaks kui mittedivergeeruvaks.",
+        "sourceHash": "c4a36fe219d803be",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gaussian-beam-optics-and-laser-cavity-modes-m3"
+    }
+  ]
+}

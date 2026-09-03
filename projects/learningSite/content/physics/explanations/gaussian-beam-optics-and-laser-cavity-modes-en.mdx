@@ -1,0 +1,32 @@
+Idealized geometric optics treats a well-collimated light beam as a perfectly parallel bundle of
+rays, implicitly suggesting that with sufficiently good optics, a beam could be made arbitrarily
+narrow and kept perfectly parallel indefinitely. Real light, being a wave, cannot behave this way:
+any beam confined to a finite width unavoidably spreads out, or diverges, as it propagates,
+a direct consequence of diffraction rather than any imperfection in the optics producing it. The
+Gaussian beam is the standard mathematical model describing this realistic behaviour for the kind
+of smooth, single-lobed intensity profile a well-behaved laser typically produces: its intensity
+is highest along the beam's central axis and falls off smoothly (following a Gaussian function)
+moving away from that axis, and the beam's width, measured this way, varies smoothly along the
+direction of propagation, reaching a genuine minimum — the beam waist — at exactly one location,
+and spreading out on either side of that point.
+
+A Gaussian beam's divergence angle and its beam waist size are not independent quantities that
+could each be minimized separately; they are fundamentally linked by diffraction, with their
+product bounded below by a value set by the light's wavelength. Making the beam waist smaller
+(focusing the beam more tightly) unavoidably increases the beam's divergence angle away from that
+waist, and vice versa — a direct manifestation of the same diffraction limit that sets a minimum
+achievable focused spot size for any given optical system, regardless of how well-designed that
+system is.
+
+Inside a laser cavity — typically two mirrors facing each other with the laser's gain medium in
+between — only a discrete set of specific field patterns can exist self-consistently, reproducing
+themselves after each round trip between the mirrors; these are the cavity's transverse modes.
+The simplest, lowest-order mode (denoted TEM00) is exactly the fundamental Gaussian beam profile
+described above, with a single smooth intensity peak on-axis, and lasers operating predominantly
+in this mode produce the highest-quality output beam achievable, with the best possible
+focusability for a given wavelength and optical system. Higher-order transverse modes, which the
+cavity can also support under some conditions, have more complex intensity patterns with multiple
+lobes and generally worse focusability, so laser cavity design (mirror curvature, spacing, and
+gain-medium properties) is deliberately engineered to favor the fundamental mode whenever a
+high-quality, tightly focusable output beam is the goal, as is the case for most precision laser
+applications.

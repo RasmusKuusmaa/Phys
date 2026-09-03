@@ -1,0 +1,22 @@
+{
+  "id": "gaussian-beam-optics-and-laser-cavity-modes",
+  "subject": "physics",
+  "level": "L4",
+  "module": "optics",
+  "title": {
+    "en": "Gaussian beam optics and laser cavity modes",
+    "et": "Gaussi kimbu optika ja laseri õõnsuse moodid",
+    "sourceHash": "dbea973252da38bc",
+    "stale": false
+  },
+  "summary": {
+    "en": "Real laser light is never a perfectly parallel, infinitely narrow ray the way idealized geometric optics imagines it; instead it forms a Gaussian beam whose intensity profile is highest on-axis and falls off smoothly outward, which necessarily spreads (diverges) as it propagates and reaches its narrowest cross-section, the beam waist, at just one specific location, a genuine consequence of the wave nature of light and the diffraction it cannot avoid, and the particular set of Gaussian-beam-like field patterns that fit self-consistently between a laser's two cavity mirrors -- its transverse modes -- directly determines the shape and quality of the beam that laser actually emits.",
+    "et": "Tegelik laserivalgus ei ole kunagi täiuslikult paralleelne, lõpmatult kitsas kiir viisil, nagu idealiseeritud geomeetriline optika seda ette kujutab; selle asemel moodustab see Gaussi kimbu, mille intensiivsusprofiil on kõrgeim teljel ja langeb sujuvalt väljapoole, mis paratamatult levimisel laieneb (divergeerub) ja saavutab oma kitseima ristlõike, kimbu vöökoha, ainult ühes konkreetses asukohas, tõeline tagajärg valguse lainelisusest ja difraktsioonist, mida see ei saa vältida, ning konkreetne Gaussi kimbu sarnaste väljamustrite komplekt, mis mahub isekooskõlaliselt laseri kahe õõnsuse peegli vahele -- selle põikimoodid -- määravad otseselt kuju ja kvaliteedi kimbule, mida see laser tegelikult kiirgab.",
+    "sourceHash": "5c68f74ea9410fa5",
+    "stale": false
+  },
+  "prerequisites": [
+    "wave-nature-of-light",
+    "interference-and-diffraction"
+  ]
+}
