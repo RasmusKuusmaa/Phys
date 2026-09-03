@@ -1,0 +1,10 @@
+{
+  "id": "exoplanet-detection-methods-m2",
+  "conceptId": "exoplanet-detection-methods",
+  "text": {
+    "en": "Believing the radial velocity method detects the planet's own light or motion directly -- the method instead detects tiny, periodic Doppler shifts in the host star's own spectrum, caused by the star's small reflex motion around the system's common centre of mass as the planet orbits it; the planet itself is not observed at all in this method, only its gravitational influence on the star that is actually observed.",
+    "et": "Arvamus, et radiaalkiiruse meetod tuvastab planeedi enda valgust või liikumist otse -- meetod tuvastab selle asemel väikeseid, perioodilisi Doppleri nihkeid peremeestähe enda spektris, mis on põhjustatud tähe väikesest peegellikust liikumisest süsteemi ühise masskeskme ümber, kui planeet seda tiirleb; planeeti ennast selles meetodis üldse ei vaadelda, ainult selle gravitatsioonilist mõju tähele, mida tegelikult vaadeldakse.",
+    "sourceHash": "888f8e2ff3fed42b",
+    "stale": false
+  }
+}

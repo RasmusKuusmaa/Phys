@@ -1,0 +1,22 @@
+{
+  "id": "exoplanet-detection-methods",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Exoplanet detection methods",
+    "et": "Eksoplaneetide tuvastamise meetodid",
+    "sourceHash": "e4e177be007e38c4",
+    "stale": false
+  },
+  "summary": {
+    "en": "Planets orbiting other stars are far too faint and too close to their host star to image directly in almost every case, so the overwhelming majority of the thousands of confirmed exoplanets have been found indirectly, most productively through the radial velocity method (detecting the tiny periodic wobble a planet's gravity induces in its host star's spectrum) and the transit method (detecting the tiny periodic dimming as a planet crosses in front of its star), two complementary techniques whose combination reveals not just a planet's existence but its mass, radius, density, and orbital properties.",
+    "et": "Teisi tähti tiirlevad planeedid on peaaegu igal juhul liiga hämarad ja liiga lähedal oma peremeestähele, et neid otse pildistada, seega on valdav enamus tuhandetest kinnitatud eksoplaneetidest leitud kaudselt, kõige produktiivsemalt radiaalkiiruse meetodi (planeedi gravitatsiooni poolt peremeestähe spektris tekitatud väikese perioodilise võnkumise tuvastamine) ja transiidi meetodi (väikese perioodilise tumenemise tuvastamine, kui planeet liigub oma tähe ees läbi) kaudu, kaks üksteist täiendavat tehnikat, mille kombinatsioon paljastab mitte ainult planeedi olemasolu, vaid selle massi, raadiuse, tiheduse ja orbitaalsed omadused.",
+    "sourceHash": "bd3cb4a64a1fcbae",
+    "stale": false
+  },
+  "prerequisites": [
+    "solar-system-formation-and-planetary-astronomy",
+    "stellar-classification-and-the-hertzsprung-russell-diagram"
+  ]
+}

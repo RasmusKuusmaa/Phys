@@ -1,0 +1,55 @@
+{
+  "id": "cosmic-rays-and-ultra-high-energy-astrophysical-particles-item1",
+  "conceptId": "cosmic-rays-and-ultra-high-energy-astrophysical-particles",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the observed direction a cosmic ray arrives from typically fail to point back toward its true astrophysical source?",
+    "et": "Miks ei osuta vaadeldud suund, kust kosmiline kiirgus saabub, tavaliselt tagasi selle tõelise astrofüüsikalise allika poole?",
+    "sourceHash": "62d3133defc2ce46",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because cosmic rays are overwhelmingly charged particles, and galactic and intergalactic magnetic fields deflect their paths en route, unlike straight-traveling photons.",
+        "et": "Sest kosmiline kiirgus koosneb valdavalt laetud osakestest, ning galaktilised ja galaktikatevahelised magnetväljad kõrvutavad nende teekonda, erinevalt sirgjooneliselt liikuvatest footonitest.",
+        "sourceHash": "cb37a534adae646d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because cosmic rays are actually a form of electromagnetic radiation that always travels in perfectly straight lines from its source.",
+        "et": "Sest kosmiline kiirgus on tegelikult elektromagnetilise kiirguse vorm, mis liigub alati täiuslikult sirgjooneliselt oma allikast.",
+        "sourceHash": "289fbe8d80b47b94",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cosmic-rays-and-ultra-high-energy-astrophysical-particles-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't fail -- every cosmic ray's arrival direction points exactly back to its source, with no deflection at all.",
+        "et": "See ei ebaõnnestu -- iga kosmilise kiirguse saabumissuund osutab täpselt tagasi selle allika poole, ilma igasuguse kõrvalekaldeta.",
+        "sourceHash": "6b69c6a8e6750e75",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because ultra-high-energy cosmic rays can originate from arbitrarily far away, making their true source direction fundamentally unknowable.",
+        "et": "Sest ülikõrge energiaga kosmiline kiirgus võib pärineda suvaliselt kaugelt, mis muudab selle tõelise allika suuna põhimõtteliselt teadmatuks.",
+        "sourceHash": "4bf02a0b8bca2a16",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cosmic-rays-and-ultra-high-energy-astrophysical-particles-m3"
+    }
+  ]
+}

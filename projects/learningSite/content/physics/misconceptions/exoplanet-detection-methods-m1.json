@@ -1,0 +1,10 @@
+{
+  "id": "exoplanet-detection-methods-m1",
+  "conceptId": "exoplanet-detection-methods",
+  "text": {
+    "en": "Believing most known exoplanets have been discovered by directly imaging or photographing them, the same way planets in the Solar System can be seen with a telescope -- direct imaging works only for a small number of exceptionally favorable cases (young, hot, wide-separation giant planets around nearby stars), since a planet is generically far too faint and far too close in apparent angle to its much brighter host star for direct imaging to resolve; the overwhelming majority of confirmed exoplanets have instead been found indirectly, through the star's own observable properties rather than any direct image of the planet.",
+    "et": "Arvamus, et enamik teadaolevaid eksoplaneete on avastatud neid otse pildistades, samamoodi nagu Päikesesüsteemi planeete saab teleskoobiga näha -- otsene pildistamine töötab ainult väikese hulga erakordselt soodsate juhtude jaoks (noored, kuumad, laia eraldusega hiidplaneedid lähedaste tähtede ümber), kuna planeet on üldjuhul liiga hämar ja liiga lähedases näivas nurgas oma palju heledamale peremeestähele, et otsene pildistamine seda lahutaks; valdav enamus kinnitatud eksoplaneetidest on selle asemel leitud kaudselt, tähe enda vaadeldavate omaduste kaudu, mitte planeedi mistahes otsese kujutise kaudu.",
+    "sourceHash": "d4b99822a70fde74",
+    "stale": false
+  }
+}

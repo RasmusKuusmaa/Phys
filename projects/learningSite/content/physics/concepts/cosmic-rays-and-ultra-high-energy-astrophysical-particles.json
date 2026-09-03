@@ -1,0 +1,22 @@
+{
+  "id": "cosmic-rays-and-ultra-high-energy-astrophysical-particles",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Cosmic rays and ultra-high-energy astrophysical particles",
+    "et": "Kosmiline kiirgus ja ülikõrge energiaga astrofüüsikalised osakesed",
+    "sourceHash": "0e177c0978a1d5aa",
+    "stale": false
+  },
+  "summary": {
+    "en": "Cosmic rays are high-energy charged particles, mostly protons and atomic nuclei, arriving at Earth from beyond the Solar System after being accelerated to enormous energies by astrophysical processes; galactic sources like supernova remnants (accelerating particles through repeated crossings of shock fronts, a mechanism called diffusive shock acceleration) can explain cosmic rays up to a characteristic energy, but the rare, extreme events with energies far beyond any conceivable galactic accelerator remain a genuine open puzzle, made harder to solve by the fact that the highest-energy cosmic rays interact with the cosmic microwave background itself, imposing a theoretical cutoff on how far they can have traveled.",
+    "et": "Kosmiline kiirgus koosneb kõrge energiaga laetud osakestest, peamiselt prootonitest ja aatomituumadest, mis saabuvad Maale väljastpoolt Päikesesüsteemi pärast seda, kui astrofüüsikalised protsessid on need kiirendanud tohutute energiateni; galaktilised allikad nagu supernoovajäänused (kiirendades osakesi korduvate löökrindest läbimiste kaudu, mehhanism nimega difuusne löögikiirendamine) suudavad seletada kosmilist kiirgust kuni iseloomuliku energiani, kuid haruldased, äärmuslikud sündmused energiatega, mis on kaugel igast mõeldavast galaktilisest kiirendist, jäävad tõeliseks lahtiseks mõistatuseks, mida raskendab veelgi asjaolu, et kõrgeima energiaga kosmiline kiirgus interakteerub kosmilise mikrolainetaustaga endaga, kehtestades teoreetilise ülempiiri sellele, kui kaugelt need on saanud reisida.",
+    "sourceHash": "3c81940107badb33",
+    "stale": false
+  },
+  "prerequisites": [
+    "supernova-mechanisms",
+    "the-cosmic-microwave-background-and-recombination"
+  ]
+}

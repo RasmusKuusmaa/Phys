@@ -1,0 +1,56 @@
+{
+  "id": "exoplanet-detection-methods-item1",
+  "conceptId": "exoplanet-detection-methods",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can't the radial velocity method alone reveal a planet's mass and radius the same way combining it with the transit method can?",
+    "et": "Miks ei saa radiaalkiiruse meetod üksi paljastada planeedi massi ja raadiust samamoodi, nagu selle kombineerimine transiidi meetodiga saab?",
+    "sourceHash": "2b61afc3b8865876",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because radial velocity detects the star's Doppler-shifted wobble (giving mass information only combined with orbital geometry), while the transit method separately measures radius from blocked starlight -- combining both is needed for density.",
+        "et": "Sest radiaalkiirus tuvastab tähe Doppleri nihkega võnkumise (andes massiinfo ainult koos orbitaalgeomeetriaga), samal ajal kui transiidi meetod mõõdab eraldi raadiuse blokeeritud tähevalguse põhjal -- tiheduse jaoks on vaja mõlema kombineerimist.",
+        "sourceHash": "08fb06401c3310ac",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because most exoplanets are actually discovered through direct imaging, making both radial velocity and transit methods largely unnecessary.",
+        "et": "Sest enamik eksoplaneete avastatakse tegelikult otsese pildistamise kaudu, muutes nii radiaalkiiruse kui transiidi meetodid suuresti tarbetuks.",
+        "sourceHash": "77bc8e4e36fcdad3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "exoplanet-detection-methods-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because radial velocity actually detects the planet's own light and motion directly, requiring no reference to the host star at all.",
+        "et": "Sest radiaalkiirus tuvastab tegelikult planeedi enda valgust ja liikumist otse, ilma et oleks üldse vaja viidata peremeestähele.",
+        "sourceHash": "6b9109625d401a50",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "exoplanet-detection-methods-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It can -- the transit method alone is already sufficient to determine a planet's mass without any radial velocity measurement.",
+        "et": "Saab küll -- transiidi meetod üksi on juba piisav planeedi massi määramiseks ilma mistahes radiaalkiiruse mõõtmiseta.",
+        "sourceHash": "5998ec9860eaab2b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "exoplanet-detection-methods-m3"
+    }
+  ]
+}

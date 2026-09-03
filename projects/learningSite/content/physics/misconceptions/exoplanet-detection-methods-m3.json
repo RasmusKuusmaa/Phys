@@ -1,0 +1,10 @@
+{
+  "id": "exoplanet-detection-methods-m3",
+  "conceptId": "exoplanet-detection-methods",
+  "text": {
+    "en": "Believing the transit method alone reveals a planet's mass -- transit photometry directly measures a planet's radius (from how much of the star's light is blocked) and orbital period, but not its mass; measuring mass requires the complementary radial velocity method (or, more rarely, transit timing variations), and it is specifically the combination of both a transit-derived radius and a radial-velocity-derived mass for the same planet that lets astronomers calculate its density and thereby infer its likely bulk composition (rocky, icy, or gaseous).",
+    "et": "Arvamus, et transiidi meetod üksi paljastab planeedi massi -- transiidifotomeetria mõõdab otse planeedi raadiust (selle järgi, kui palju tähe valgusest blokeeritakse) ja orbitaalperioodi, kuid mitte selle massi; massi mõõtmine nõuab täiendavat radiaalkiiruse meetodit (või harvemini transiidi ajastuse variatsioone), ning just konkreetselt sama planeedi transiidist tuletatud raadiuse ja radiaalkiirusest tuletatud massi kombinatsioon lubab astronoomidel arvutada selle tiheduse ja seeläbi tuletada selle tõenäolise koostise (kivimiline, jäine või gaasiline).",
+    "sourceHash": "f22a8b332419340b",
+    "stale": false
+  }
+}
