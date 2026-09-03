@@ -1,0 +1,56 @@
+{
+  "id": "tensor-calculus-and-the-metric-tensor-item1",
+  "conceptId": "tensor-calculus-and-the-metric-tensor",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Flat spacetime, described using ordinary polar coordinates instead of Cartesian ones, has metric tensor components that vary from point to point. What does this actually indicate?",
+    "et": "Tasasel aegruumil, kirjeldatuna tavaliste polaarkoordinaatide, mitte Descartes'i koordinaatide abil, on meetrilise tensori komponendid, mis varieeruvad punktist punkti. Mida see tegelikult näitab?",
+    "sourceHash": "ece4b35a499d89c4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Nothing about genuine curvature by itself — this is a coordinate artifact of using curved coordinates to describe flat space, not real spacetime curvature.",
+        "et": "Iseenesest mitte midagi tõelise kõveruse kohta — see on koordinaadiartefakt kõverate koordinaatide kasutamisest tasase ruumi kirjeldamiseks, mitte tõeline aegruumi kõverus.",
+        "sourceHash": "ad01b20f5a446664",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That the physical predictions of general relativity actually change depending on this coordinate choice.",
+        "et": "Et üldrelatiivsusteooria füüsikalised ennustused tegelikult muutuvad sõltuvalt sellest koordinaadivalikust.",
+        "sourceHash": "725733c805c13c3c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "tensor-calculus-and-the-metric-tensor-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That the spacetime is genuinely curved, since the metric's components are varying from point to point.",
+        "et": "Et aegruum on tõeliselt kõver, kuna meetrika komponendid varieeruvad punktist punkti.",
+        "sourceHash": "c25849a097e29684",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "tensor-calculus-and-the-metric-tensor-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing meaningful — tensor calculus is just an optional stylistic choice that could be dropped without losing anything.",
+        "et": "Mitte midagi olulist — tensorarvutus on lihtsalt valikuline stiilivalik, mille saaks ilma millegi kaotamiseta ära jätta.",
+        "sourceHash": "46a41f64e8141116",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "tensor-calculus-and-the-metric-tensor-m3"
+    }
+  ]
+}

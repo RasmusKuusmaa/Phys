@@ -1,0 +1,22 @@
+{
+  "id": "tensor-calculus-and-the-metric-tensor",
+  "subject": "physics",
+  "level": "L4",
+  "module": "general-relativity",
+  "title": {
+    "en": "Tensor calculus and the metric tensor",
+    "et": "Tensorarvutus ja meetriline tensor",
+    "sourceHash": "126a49f04f5f9705",
+    "stale": false
+  },
+  "summary": {
+    "en": "General relativity requires a mathematical language that works the same way in any coordinate system, not just the straight-line coordinates of flat space — tensor calculus provides exactly that, and the central object it introduces, the metric tensor, encodes everything about a space's geometry (distances, angles, and ultimately curvature) directly into a set of coordinate-dependent numbers that transform in a precisely controlled way between coordinate systems.",
+    "et": "Üldrelatiivsusteooria vajab matemaatilist keelt, mis töötab samamoodi mistahes koordinaatsüsteemis, mitte ainult tasase ruumi sirgjoontega koordinaatides — tensorarvutus pakub täpselt seda, ning selle keskne objekt, meetriline tensor, kodeerib kõik ruumi geomeetria kohta (kaugused, nurgad ja lõpuks kõveruse) otse koordinaadist sõltuvate arvude kogumisse, mis teisenevad täpselt kontrollitud viisil koordinaatsüsteemide vahel.",
+    "sourceHash": "1090f07e85ccc4b7",
+    "stale": false
+  },
+  "prerequisites": [
+    "spacetime-and-four-vectors",
+    "lorentz-transformations"
+  ]
+}

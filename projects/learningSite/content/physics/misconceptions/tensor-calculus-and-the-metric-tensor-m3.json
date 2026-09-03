@@ -1,0 +1,10 @@
+{
+  "id": "tensor-calculus-and-the-metric-tensor-m3",
+  "conceptId": "tensor-calculus-and-the-metric-tensor",
+  "text": {
+    "en": "Believing tensor calculus and the metric tensor are just an optional, more elegant notation for general relativity that could equally well be done without — curved spacetime genuinely has no global Cartesian coordinate system, so tensor calculus (and the coordinate-independence it guarantees) is a mathematical necessity for the theory, not a stylistic choice.",
+    "et": "Arvamus, et tensorarvutus ja meetriline tensor on lihtsalt valikuline, elegantsem tähistus üldrelatiivsusteooria jaoks, mida saaks võrdselt hästi ka ilma teha — kõveral aegruumil ei ole tõeliselt globaalset Descartes'i koordinaatsüsteemi, nii et tensorarvutus (ja koordinaatidest sõltumatus, mida see tagab) on teooria jaoks matemaatiline vajadus, mitte stiilivalik.",
+    "sourceHash": "b8123365d553b239",
+    "stale": false
+  }
+}

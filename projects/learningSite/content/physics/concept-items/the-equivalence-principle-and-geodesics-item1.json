@@ -1,0 +1,56 @@
+{
+  "id": "the-equivalence-principle-and-geodesics-item1",
+  "conceptId": "the-equivalence-principle-and-geodesics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An astronaut in a freely falling orbit feels weightless, even though Earth's gravity is clearly acting on the spacecraft. How does general relativity, via the equivalence principle, explain this?",
+    "et": "Vabalt langeval orbiidil olev astronaut tunneb ennast kaaluta olekuna, hoolimata sellest, et Maa gravitatsioon mõjub selgelt kosmoselaevale. Kuidas seletab üldrelatiivsusteooria seda ekvivalentsusprintsiibi kaudu?",
+    "sourceHash": "a241c156cbce4b25",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The astronaut experiences no force at all — they are simply following a geodesic, the straightest available path through curved spacetime, which is exactly what force-free motion looks like.",
+        "et": "Astronaut ei koge üldse jõudu — ta lihtsalt järgib geodeeti, kõige otsemat saadaolevat teed läbi kõvera aegruumi, mis on täpselt see, milline näeb välja jõuvaba liikumine.",
+        "sourceHash": "3ebf9baf2d251ca2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Their gravitational mass and inertial mass simply happen to cancel out numerically in orbit, producing the sensation of weightlessness.",
+        "et": "Nende gravitatsiooniline ja inertsimass juhtumisi lihtsalt tühistavad üksteist orbiidil arvuliselt, tekitades kaalutuse tunde.",
+        "sourceHash": "2ebebb0757292144",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-equivalence-principle-and-geodesics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Gravity is still pulling on them as a force, exactly as in Newtonian physics, just described using different mathematical language.",
+        "et": "Gravitatsioon tõmbab neid ikka jõuna, täpselt nagu Newtoni füüsikas, lihtsalt kirjeldatuna teistsuguse matemaatilise keelega.",
+        "sourceHash": "d66621ca2a0d7f8d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-equivalence-principle-and-geodesics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They are actively maintaining a special, exceptional trajectory that requires ongoing effort to sustain against the curved geometry.",
+        "et": "Nad hoiavad aktiivselt erilist, erakorralist trajektoori, mis vajab kõvera geomeetria vastu säilitamiseks pidevat pingutust.",
+        "sourceHash": "a06e0075d1cbb8e2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-equivalence-principle-and-geodesics-m3"
+    }
+  ]
+}

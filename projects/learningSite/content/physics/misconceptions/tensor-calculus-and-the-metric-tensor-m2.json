@@ -1,0 +1,10 @@
+{
+  "id": "tensor-calculus-and-the-metric-tensor-m2",
+  "conceptId": "tensor-calculus-and-the-metric-tensor",
+  "text": {
+    "en": "Believing the metric tensor's components varying from point to point always signals genuine spacetime curvature — flat spacetime described in curved (e.g. polar) coordinates also has position-dependent metric components, with no real curvature present; distinguishing genuine curvature from a mere coordinate artifact requires more than just checking whether the metric's components vary.",
+    "et": "Arvamus, et meetrilise tensori komponentide varieerumine punktist punkti signaliseerib alati tõelist aegruumi kõverust — tasane aegruum, kirjeldatuna kõverates (nt polaar-) koordinaatides, omab samuti asukohast sõltuvaid meetrikakomponente, ilma et oleks kohal tegelikku kõverust; tõelise kõveruse eristamine pelgast koordinaadiartefaktist nõuab enamat kui pelgalt kontrollida, kas meetrika komponendid varieeruvad.",
+    "sourceHash": "442cd2c4578492da",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "tensor-calculus-and-the-metric-tensor-m1",
+  "conceptId": "tensor-calculus-and-the-metric-tensor",
+  "text": {
+    "en": "Believing physical predictions in general relativity depend on which coordinate system happens to be chosen — tensor equations are constructed precisely so that if they hold true in one coordinate system, they automatically hold true in every other one; the physics is coordinate-independent even though the specific numbers used to describe it are not.",
+    "et": "Arvamus, et üldrelatiivsusteooria füüsikalised ennustused sõltuvad sellest, milline koordinaatsüsteem juhtumisi valitakse — tensorvõrrandid on konstrueeritud täpselt nii, et kui need kehtivad ühes koordinaatsüsteemis, kehtivad need automaatselt igas teises; füüsika on koordinaatidest sõltumatu, kuigi konkreetsed arvud, mida selle kirjeldamiseks kasutatakse, seda ei ole.",
+    "sourceHash": "d898a87dcb1dbdd9",
+    "stale": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-equivalence-principle-and-geodesics",
+  "subject": "physics",
+  "level": "L4",
+  "module": "general-relativity",
+  "title": {
+    "en": "The equivalence principle and geodesics",
+    "et": "Ekvivalentsusprintsiip ja geodeedid",
+    "sourceHash": "ef6a6d036d97610b",
+    "stale": false
+  },
+  "summary": {
+    "en": "The equivalence principle — that the effects of a uniform gravitational field are locally indistinguishable from the effects of uniform acceleration — is the physical starting point for general relativity: it implies gravity isn't a force at all but a manifestation of spacetime curvature, and a freely falling object (one under gravity alone, with no other force acting) simply follows a geodesic, the straightest possible path through that curved spacetime.",
+    "et": "Ekvivalentsusprintsiip — see, et ühtlase gravitatsioonivälja mõjud on kohalikult eristamatud ühtlase kiirenduse mõjudest — on üldrelatiivsusteooria füüsikaline lähtepunkt: see tähendab, et gravitatsioon ei ole üldse jõud, vaid aegruumi kõveruse ilming, ning vabalt langev objekt (see, mis on ainult gravitatsiooni all, ilma muu mõjuva jõuta) järgib lihtsalt geodeeti, kõige otsemat võimalikku teed läbi selle kõvera aegruumi.",
+    "sourceHash": "b3aa98213ac59dbb",
+    "stale": false
+  },
+  "prerequisites": [
+    "tensor-calculus-and-the-metric-tensor",
+    "non-inertial-frames-and-fictitious-forces"
+  ]
+}
