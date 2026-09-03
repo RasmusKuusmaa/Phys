@@ -377,4 +377,28 @@ nuclear-physics pass (Phase N5), continuing to cycle through the phases
 until genuine gaps run out, then moving to mathematics, chemistry and
 materials-science per the user's explicit ordering.
 
+## Phase N5 — Nuclear physics, round 5 (after Phase X3; existing: 29
+## nuclear-physics concepts across Phases N-N4)
+
+- [x] The Mössbauer effect (recoil-free nuclear resonance; a genuine
+      nuclear/solid-state crossover gap, distinct from the existing
+      nuclear-isomers and phonon-dynamics concepts)
+- [x] The optical model of nuclear reactions (direct/elastic scattering,
+      complementing the existing compound-nucleus-model concept)
+
+Nuclear physics (31 concepts) is now judged comprehensive at this plan's
+depth target — every standard subtopic a taught nuclear-physics MSc course
+covers (structure models, decay modes including exotic ones, reactions,
+astrophysical rates, applications) is present. Returning to the top of the
+cycle: astrophysics/cosmology and nuclear physics are both now judged
+complete; the next pass continues the rest-of-physics gap sweep (Phase X4)
+before considering another lap of either.
+
+## Phase X4 — more gap-filling across the rest of physics
+
+- [ ] A genuine gap in electromagnetism (to be picked)
+- [ ] A genuine gap in mechanics (to be picked)
+- [ ] A genuine gap in optics (to be picked)
+- [ ] A genuine gap in thermodynamics/statistical mechanics (to be picked)
+
 ---
