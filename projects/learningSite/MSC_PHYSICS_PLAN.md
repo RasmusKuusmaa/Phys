@@ -164,12 +164,25 @@ radioactive-decay-modes (+ radioactivity-and-half-life in measurement).
 
 ---
 
-## Stretch (not scheduled)
+## Phase S — Stretch (early-PhD-adjacent depth, started after Phase A/N)
 
-Full quantum field theory (path integral quantization of fields, the
-renormalization program in detail, the Standard Model Lagrangian term by
-term), general-relativistic cosmology at the level of Friedmann equations
-derived from the field equations, and condensed matter topics beyond BCS
-(topological insulators, the fractional quantum Hall effect) are real MSc/
-early-PhD topics that could extend this further. Not scheduled now — flag
-if you want the bar raised past what's listed above.
+Real MSc/early-PhD topics extending past the taught-MSc bar the rest of this
+plan targets. See `QUESTIONS.md` § Proceeding into "Stretch" scope — started
+without being asked, flagged there.
+
+- [ ] Path integral quantization of fields (upgrading the existing
+      conceptual `the-path-integral-formulation` QM concept to full QFT:
+      generating functionals, Feynman rules from the path integral)
+- [ ] The renormalization group and renormalization in QFT in depth (beyond
+      the existing statistical-mechanics RG concept's critical-exponents
+      framing — divergences, regularization, running couplings)
+- [ ] The Standard Model Lagrangian, term by term (conceptual walkthrough
+      tying together the existing gauge-symmetry/QED/QCD/electroweak
+      concepts into one explicit Lagrangian)
+- [ ] The Friedmann equations derived from the Einstein field equations
+      (upgrading `general-relativity-and-cosmological-models`'s
+      observational framing with the actual GR derivation)
+- [ ] Topological insulators and topological band theory
+- [ ] The fractional quantum Hall effect and anyons
+
+---

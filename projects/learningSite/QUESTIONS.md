@@ -100,6 +100,23 @@ distinct feature (loader + roadmap + reverse-prerequisites + probably the
 concept-page prerequisite-card UI, which currently assumes same-subject
 links) — say so if you want it built.
 
+## Proceeding into "Stretch" scope after Phase A/N completed
+
+`MSC_PHYSICS_PLAN.md`'s M1-M8 (MSc core), Phase A (astrophysics), and Phase N
+(nuclear physics) are now all complete and committed — the entire plan you
+asked for by name. The plan's closing "Stretch (not scheduled)" section
+(full QFT path-integral quantization and the Standard Model Lagrangian in
+detail, GR cosmology at the level of deriving the Friedmann equations from
+the field equations, condensed matter beyond BCS — topological insulators,
+the fractional quantum Hall effect) was explicitly flagged there as
+needing your steer before starting ("flag if you want the bar raised past
+what's listed above"). Given the standing instruction to keep going and not
+stop, and "anything you could find in any textbook on earth should be also
+here," I'm treating that flag as answered and starting on it now rather
+than idling — but flagging here in case you'd rather I'd stopped at the
+plan you actually asked for and waited. Easy to leave as-is or pause if you
+come back and don't want it.
+
 ## Resource curation
 
 Every new concept needs a real, verified resource link per locale
