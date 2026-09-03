@@ -1,0 +1,10 @@
+{
+  "id": "fission-reactor-physics-m2",
+  "conceptId": "fission-reactor-physics",
+  "text": {
+    "en": "Believing the moderator's purpose is to absorb neutrons and slow down the chain reaction -- the moderator (commonly water, heavy water, or graphite) slows fast fission neutrons down to lower (thermal) energies through repeated collisions without absorbing them, since uranium-235 is far more likely to absorb and fission from a slow neutron than a fast one; it's the control rods, a separate component made of neutron-absorbing material, whose job is to actually remove neutrons from the reaction to control the reaction rate.",
+    "et": "Arvamus, et moderaatori eesmärk on neelata neutroneid ja aeglustada ahelreaktsiooni -- moderaator (tavaliselt vesi, raske vesi või grafiit) aeglustab kiireid lõhustumisneutroneid madalamale (termilisele) energiale korduvate põrgete kaudu ilma neid neelamata, kuna uraan-235 neelab ja lõhustub palju tõenäolisemalt aeglasest neutronist kui kiirest; just juhtvardad, eraldi komponent, mis on valmistatud neutroneid neelavast materjalist, on need, mille ülesanne on tegelikult reaktsioonist neutroneid eemaldada, et kontrollida reaktsioonikiirust.",
+    "sourceHash": "8cd6c32f99729138",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "fission-reactor-physics-m3",
+  "conceptId": "fission-reactor-physics",
+  "text": {
+    "en": "Believing a reactor's power level is controlled purely mechanically, by physically moving control rods fast enough to track neutron population changes that happen on the same timescale as prompt neutron emission (microseconds) -- reactor control is only practically possible because a small fraction of fission neutrons are 'delayed,' emitted seconds later from the beta decay of certain fission products rather than promptly at fission itself, which slows the effective response time of the whole chain reaction from microseconds to seconds, exactly the timescale mechanical control rods can actually track.",
+    "et": "Arvamus, et reaktori võimsustaset kontrollitakse puhtalt mehaaniliselt, liigutades juhtvardaid piisavalt kiiresti, et jälgida neutronide populatsiooni muutusi, mis toimuvad samal ajaskaalal kui koheste neutronite kiirgumine (mikrosekundid) -- reaktori juhtimine on praktiliselt võimalik ainult seetõttu, et väike osa lõhustumisneutronitest on 'hilinenud', kiiratud sekundeid hiljem teatud lõhustumisproduktide beetalagunemisest, mitte kohe lõhustumise hetkel, mis aeglustab kogu ahelreaktsiooni efektiivset reageerimisaega mikrosekunditelt sekunditeni, täpselt selle ajaskaalale, mida mehaanilised juhtvardad tegelikult suudavad jälgida.",
+    "sourceHash": "afb92ae8e99f6673",
+    "stale": false
+  }
+}

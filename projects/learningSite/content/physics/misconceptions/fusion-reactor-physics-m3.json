@@ -1,0 +1,10 @@
+{
+  "id": "fusion-reactor-physics-m3",
+  "conceptId": "fusion-reactor-physics",
+  "text": {
+    "en": "Believing magnetic confinement (tokamaks) and inertial confinement (laser implosion) are essentially the same approach with different equipment -- these are fundamentally different engineering strategies: magnetic confinement holds a relatively low-density, continuously sustained plasma in place with strong magnetic fields for a comparatively long confinement time, while inertial confinement instead compresses a small fuel pellet to extremely high density for an extremely short time using powerful lasers, relying on the fuel's own inertia rather than magnetic fields to hold it together just long enough for fusion to occur.",
+    "et": "Arvamus, et magnetiline sulgemine (tokamakid) ja inertsiaalne sulgemine (laserimplosioon) on sisuliselt sama lähenemisviis erineva varustusega -- need on fundamentaalselt erinevad inseneristrateegiad: magnetiline sulgemine hoiab suhteliselt madala tihedusega, pidevalt säilitatud plasmat paigal tugevate magnetväljadega võrdlemisi pika sulgemisaja jooksul, samal ajal kui inertsiaalne sulgemine hoopis surub väikese kütusepelleti kokku äärmiselt kõrgele tihedusele äärmiselt lühikeseks ajaks võimsate laserite abil, tuginedes kütuse enda inertsile, mitte magnetväljadele, et seda koos hoida piisavalt kauaks, et süntees toimuks.",
+    "sourceHash": "78249a7640f43366",
+    "stale": false
+  }
+}

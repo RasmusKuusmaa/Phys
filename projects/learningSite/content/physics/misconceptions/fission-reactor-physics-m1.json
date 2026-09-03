@@ -1,0 +1,10 @@
+{
+  "id": "fission-reactor-physics-m1",
+  "conceptId": "fission-reactor-physics",
+  "text": {
+    "en": "Believing a nuclear reactor works through the same uncontrolled, rapidly growing chain reaction as a nuclear weapon, just somehow held in check -- a reactor is designed to run at criticality (effective multiplication factor of exactly one, on average exactly one neutron from each fission causing the next), a stable, self-sustaining but non-growing state, deliberately engineered with moderators, control rods, and reactor geometry to sit far from the supercritical, rapidly multiplying regime a weapon requires.",
+    "et": "Arvamus, et tuumareaktor töötab sama kontrollimatu, kiiresti kasvava ahelreaktsiooni kaudu nagu tuumarelv, mida lihtsalt kuidagi ohjes hoitakse -- reaktor on projekteeritud töötama kriitilisuse juures (efektiivne paljunemistegur täpselt üks, keskmiselt täpselt üks neutron igast lõhustumisest põhjustab järgmise), stabiilne, iseennast ülal pidav, kuid mittekasvav olek, mis on tahtlikult projekteeritud moderaatorite, juhtvarraste ja reaktori geomeetriaga, et see jääks kaugele üliluitilisest, kiiresti korrutuvast režiimist, mida relv vajab.",
+    "sourceHash": "220ff71a15ddff45",
+    "stale": false
+  }
+}

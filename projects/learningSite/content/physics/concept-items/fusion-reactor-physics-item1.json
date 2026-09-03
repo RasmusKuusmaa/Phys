@@ -1,0 +1,55 @@
+{
+  "id": "fusion-reactor-physics-item1",
+  "conceptId": "fusion-reactor-physics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the Lawson criterion actually require a fusion reactor to achieve?",
+    "et": "Mida Lawsoni kriteerium tegelikult nõuab sünteesireaktorilt saavutada?",
+    "sourceHash": "ec8048b5b4862d4f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A combined threshold on the product of plasma density, confinement time, and temperature together, not temperature alone.",
+        "et": "Kombineeritud lävi plasma tiheduse, sulgemisaja ja temperatuuri korrutisele koos, mitte üksnes temperatuurile.",
+        "sourceHash": "322aa7ece269794d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A single, simple minimum temperature, since fusion requires less energy to trigger than fission.",
+        "et": "Üksik, lihtne miinimumtemperatuur, kuna sünteesi käivitamine nõuab vähem energiat kui lõhustumine.",
+        "sourceHash": "3c9520e6fbf29aa9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fusion-reactor-physics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Exactly matching magnetic confinement's plasma density using inertial confinement's laser equipment.",
+        "et": "Täpselt magnetilise sulgemise plasma tiheduse sobitamine, kasutades inertsiaalse sulgemise laserseadmeid.",
+        "sourceHash": "39b8ba938e02a3a7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fusion-reactor-physics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing beyond what a fission reactor already needs, since the two processes require identical conditions.",
+        "et": "Mitte midagi rohkemat, kui lõhustumisreaktor juba vajab, kuna kaks protsessi vajavad identseid tingimusi.",
+        "sourceHash": "75e9ace81260236d",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fusion-reactor-physics",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Fusion reactor physics",
+    "et": "Sünteesireaktori füüsika",
+    "sourceHash": "e2625f627625edb5",
+    "stale": false
+  },
+  "summary": {
+    "en": "Fusing light nuclei releases energy but first requires overcoming their mutual Coulomb repulsion, demanding temperatures of tens to hundreds of millions of degrees at which matter exists as plasma; the Lawson criterion sets the combined bar a fusion reactor must clear -- enough density, confinement time, and temperature together -- for the fusion energy released to exceed the energy needed to sustain the plasma, with magnetic confinement (tokamaks) and inertial confinement (laser implosion) representing two fundamentally different engineering answers to holding such an extraordinarily hot plasma together at all.",
+    "et": "Kergete tuumade sünteesimine vabastab energiat, kuid nõuab kõigepealt nende vastastikuse Coulombi tõukejõu ületamist, mis nõuab temperatuure kümnetest kuni sadade miljonite kraadideni, mille juures aine eksisteerib plasmana; Lawsoni kriteerium seab kombineeritud lati, mille sünteesireaktor peab ületama -- piisav tihedus, sulgemisaeg ja temperatuur koos --, et vabanenud sünteesienergia ületaks plasma ülalpidamiseks vajaliku energia, kusjuures magnetiline sulgemine (tokamakid) ja inertsiaalne sulgemine (laserimplosioon) esindavad kahte fundamentaalselt erinevat inseneriteaduslikku vastust sellele, kuidas üldse hoida sellist erakordselt kuuma plasmat koos.",
+    "sourceHash": "44531201cf0b93cf",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-fission-and-fusion"
+  ]
+}

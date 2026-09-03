@@ -1,0 +1,22 @@
+{
+  "id": "fission-reactor-physics",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Fission reactor physics",
+    "et": "Lõhustumisreaktori füüsika",
+    "sourceHash": "496f7994113e475f",
+    "stale": false
+  },
+  "summary": {
+    "en": "A fission reactor sustains a controlled chain reaction by keeping the effective multiplication factor -- the average number of neutrons from one fission that go on to cause another -- at exactly one, criticality, using a moderator to slow fast fission neutrons into the lower-energy range where uranium-235 much more readily absorbs them, and control rods that absorb excess neutrons to hold the reaction steady rather than letting it grow or die out, with delayed neutrons from fission products providing the crucial few-second buffer that makes that balance controllable at all.",
+    "et": "Lõhustumisreaktor hoiab kontrollitud ahelreaktsiooni käigus, hoides efektiivset paljunemistegurit -- ühest lõhustumisest pärinevate neutronite keskmist arvu, mis põhjustavad järgmise lõhustumise -- täpselt ühe peal, kriitilisuse juures, kasutades moderaatorit kiirete lõhustumisneutronite aeglustamiseks madalama energiaga vahemikku, kus uraan-235 neelab neid palju kergemini, ning juhtvardaid, mis neelavad üleliigsed neutronid, et hoida reaktsioon stabiilsena, mitte lasta sel kasvada või välja surra, kusjuures lõhustumisproduktidest pärinevad hilinenud neutronid annavad kriitilise mõnesekundilise puhvri, mis teeb selle tasakaalu üldse juhitavaks.",
+    "sourceHash": "4f514c629bef19f8",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-fission-and-fusion",
+    "liquid-drop-model-and-the-semi-empirical-mass-formula"
+  ]
+}

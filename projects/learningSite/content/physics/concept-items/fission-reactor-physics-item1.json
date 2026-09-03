@@ -1,0 +1,55 @@
+{
+  "id": "fission-reactor-physics-item1",
+  "conceptId": "fission-reactor-physics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can mechanical control rods actually keep up with controlling a fission reactor's power level?",
+    "et": "Miks suudavad mehaanilised juhtvardad tegelikult lõhustumisreaktori võimsustaset kontrollida?",
+    "sourceHash": "a07edbc22f366764",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because a small fraction of fission neutrons are delayed by seconds (from fission-product beta decay), slowing the chain reaction's effective response time to a mechanically trackable timescale.",
+        "et": "Sest väike osa lõhustumisneutronitest on hilinenud sekundite võrra (lõhustumisproduktide beetalagunemisest), aeglustades ahelreaktsiooni efektiivset reageerimisaega mehaaniliselt jälgitavale ajaskaalale.",
+        "sourceHash": "7539410722f11a96",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because reactors deliberately run in the same supercritical regime as weapons, just with slower-acting materials.",
+        "et": "Sest reaktorid töötavad tahtlikult samas üliluitilises režiimis nagu relvad, ainult aeglasemalt toimivate materjalidega.",
+        "sourceHash": "ba368ce1ad2441e7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fission-reactor-physics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the moderator itself absorbs excess neutrons fast enough to track prompt neutron timescales.",
+        "et": "Sest moderaator ise neelab üleliigseid neutroneid piisavalt kiiresti, et jälgida koheste neutronite ajaskaalasid.",
+        "sourceHash": "d996993327d6f251",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fission-reactor-physics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They can't -- reactor power is actually controlled entirely by adjusting the moderator's temperature in real time.",
+        "et": "Ei suuda -- reaktori võimsust kontrollitakse tegelikult täielikult moderaatori temperatuuri reaalajas kohandamisega.",
+        "sourceHash": "90555f28d2cb6761",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

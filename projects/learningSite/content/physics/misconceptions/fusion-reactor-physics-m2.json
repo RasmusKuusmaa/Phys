@@ -1,0 +1,10 @@
+{
+  "id": "fusion-reactor-physics-m2",
+  "conceptId": "fusion-reactor-physics",
+  "text": {
+    "en": "Believing the Lawson criterion is a single, simple temperature threshold that a fusion reactor just needs to reach -- the Lawson criterion is a combined condition on the product of plasma density, energy confinement time, and temperature together (the fusion triple product), not temperature alone; a reactor can have more than enough temperature and still fail to reach net energy gain if its density or, especially, confinement time is too low, which is exactly why both major approaches focus heavily on confinement, not just heating.",
+    "et": "Arvamus, et Lawsoni kriteerium on üksik, lihtne temperatuuriläve, mille sünteesireaktor peab lihtsalt saavutama -- Lawsoni kriteerium on kombineeritud tingimus plasma tiheduse, energia sulgemisaja ja temperatuuri korrutisele koos (sünteesi kolmikkorrutis), mitte üksnes temperatuurile; reaktoril võib olla rohkemgi kui piisavalt temperatuuri ja siiski ebaõnnestuda netoenergiakasumi saavutamisel, kui selle tihedus või eriti sulgemisaeg on liiga madal, mis on täpselt põhjus, miks mõlemad peamised lähenemisviisid keskenduvad tugevalt sulgemisele, mitte ainult kuumutamisele.",
+    "sourceHash": "ca9892b0397b9c33",
+    "stale": false
+  }
+}
