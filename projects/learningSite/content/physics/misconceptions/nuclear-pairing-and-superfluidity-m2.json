@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-pairing-and-superfluidity-m2",
+  "conceptId": "nuclear-pairing-and-superfluidity",
+  "text": {
+    "en": "Believing nuclear pairing and BCS superconductivity are merely superficially similar phenomena that happen to share some vocabulary, rather than being described by essentially the same underlying physics -- both phenomena arise from a short-range attractive interaction between identical fermions near a Fermi surface, causing them to condense into correlated pairs and open an energy gap for breaking a pair, and nuclear structure theory adopted the BCS mathematical formalism developed for superconducting electrons directly, applying it with only the details of the interaction and length scale changed, not an unrelated theory that merely resembles it by coincidence.",
+    "et": "Arvamus, et tuuma paardumine ja BCS ülijuhtivus on ainult pealiskaudselt sarnased nähtused, mis juhtuvad jagama mõningat sõnavara, mitte kirjeldatud sisuliselt sama aluseks oleva füüsikaga -- mõlemad nähtused tekivad lühikese ulatusega atraktiivsest vastastikmõjust identsete fermionide vahel Fermi pinna lähedal, põhjustades nende kondenseerumise seotud paarideks ja avades energialõhe paari lõhkumiseks, ning tuumastruktuuriteooria võttis üle ülijuhtivate elektronide jaoks välja töötatud BCS matemaatilise formalismi otse, rakendades seda ainult vastastikmõju ja pikkusskaala üksikasjadega muudetuna, mitte mitteseotud teooriana, mis lihtsalt kokkusattumusi sellele sarnaneb.",
+    "sourceHash": "e1b5484c6a7890f3",
+    "stale": false
+  }
+}

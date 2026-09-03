@@ -1,0 +1,22 @@
+{
+  "id": "nuclear-pairing-and-superfluidity",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Nuclear pairing and superfluidity",
+    "et": "Tuuma paardumine ja ülivoolavus",
+    "sourceHash": "31bcb9b5ee1a67df",
+    "stale": false
+  },
+  "summary": {
+    "en": "Nucleons of the same kind occupying the same shell-model orbital experience a short-range residual attraction that specifically favors them coupling into pairs of opposite angular momentum projection, an effect visible directly in the data as a systematic extra binding energy for nuclei with even numbers of both protons and neutrons compared to odd-numbered neighbors, and formally described by essentially the same BCS pairing mathematics developed for electrons in a superconductor, which is why nuclei with all their nucleons paired up behave as a nuclear superfluid, a frictionless collective state that leaves observable fingerprints ranging from suppressed low-energy collective excitations to modified moments of inertia in rotating nuclei, revealing that the same pairing mechanism responsible for zero-resistance electrical current in a metal also operates, at a vastly different energy and length scale, deep inside the atomic nucleus.",
+    "et": "Sama liiki nukloonid, mis hõivavad sama kesta mudeli orbitaali, kogevad lühikese ulatusega jääkatraktsiooni, mis spetsiifiliselt soodustab nende sidumist vastandliku impulsimomendi projektsiooniga paarideks, efekt, mis on andmetes otseselt nähtav süstemaatilise lisaseoseenergiana tuumade jaoks, millel on paarisarv nii prootoneid kui neutroneid, võrreldes paarituarvuliste naabritega, ning mida kirjeldatakse formaalselt sisuliselt sama BCS paardumise matemaatikaga, mis on välja töötatud elektronide jaoks ülijuhis, mis ongi põhjus, miks tuumad, mille kõik nukloonid on paardunud, käituvad tuuma ülivoolava vedelikuna, hõõrdumisvaba kollektiivse olekuna, mis jätab jälgi alates mahasurutud madala energiaga kollektiivsetest ergastustest kuni muudetud inertsimomentideni pöörlevates tuumades, paljastades, et sama paardumismehhanism, mis vastutab nullresistentsuse elektrivoolu eest metallis, toimib ka, täiesti erineval energia- ja pikkusskaalal, sügaval aatomituuma sees.",
+    "sourceHash": "bc7753ef49484b27",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-shell-model-spin-and-parity",
+    "bcs-theory-of-superconductivity"
+  ]
+}

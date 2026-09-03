@@ -1,0 +1,56 @@
+{
+  "id": "nuclear-pairing-and-superfluidity-item1",
+  "conceptId": "nuclear-pairing-and-superfluidity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the strongest kind of observational evidence that nucleon pairing is a genuine physical effect, rather than a bookkeeping artifact of how nuclear binding energy is tabulated?",
+    "et": "Mis on kõige tugevam vaatluslik tõend selle kohta, et nukloonide paardumine on tõeline füüsikaline efekt, mitte raamatupidamislik artefakt sellest, kuidas tuuma seoseenergiat tabuleeritakse?",
+    "sourceHash": "0d456cedead026cc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The systematic extra binding energy of even-even nuclei, and the altered moments of inertia observed in rotating nuclei, both match quantitative predictions of BCS-style pairing theory.",
+        "et": "Paaris-paaris tuumade süstemaatiline lisaseoseenergia ja pöörlevates tuumades vaadeldud muudetud inertsimomendid ühtivad mõlemad BCS-tüüpi paardumisteooria kvantitatiivsete ennustustega.",
+        "sourceHash": "18cfec0600812f66",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nuclear pairing produces a directly visible, persistent electrical current inside the nucleus, exactly analogous to current in a superconducting wire.",
+        "et": "Tuuma paardumine tekitab tuuma sees otseselt nähtava, püsiva elektrivoolu, mis on täpselt analoogne vooluga ülijuhtivas traadis.",
+        "sourceHash": "e0f210dd7c920d67",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-pairing-and-superfluidity-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The extra binding of even-even nuclei is well known to be purely a labeling convention with no measurable physical origin behind it.",
+        "et": "Paaris-paaris tuumade lisaseos on hästi teada kui puhtalt märgistuskonventsioon ilma mõõdetava füüsikalise päritoluta selle taga.",
+        "sourceHash": "4538b9a2f66bdc40",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-pairing-and-superfluidity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nuclear pairing and electronic superconductivity are unrelated phenomena, so no cross-checking against BCS theory is possible or meaningful in the nuclear case.",
+        "et": "Tuuma paardumine ja elektrooniline ülijuhtivus on mitteseotud nähtused, seega ei ole ristkontroll BCS teooria vastu tuuma juhtumi puhul võimalik ega mõttekas.",
+        "sourceHash": "6b86f0d47a56a070",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-pairing-and-superfluidity-m2"
+    }
+  ]
+}
