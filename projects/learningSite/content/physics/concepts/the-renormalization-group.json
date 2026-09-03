@@ -1,0 +1,22 @@
+{
+  "id": "the-renormalization-group",
+  "subject": "physics",
+  "level": "L4",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "The renormalization group",
+    "et": "Renormeerimisrühm",
+    "sourceHash": "0008f3d744bfd200",
+    "stale": false
+  },
+  "summary": {
+    "en": "Near a continuous phase transition, wildly different physical systems — a magnet, a fluid near its critical point, a binary alloy — share exactly the same critical exponents, a puzzling universality mean-field theory cannot explain. The renormalization group explains it by systematically zooming out, averaging over ever-larger blocks of the system and tracking how its effective description changes with scale, showing that near a critical point the details specific to any one system wash out, leaving only a few features (dimensionality, symmetry) to determine the exponents.",
+    "et": "Pideva faasisiirde lähedal jagavad väga erinevad füüsikalised süsteemid — magnet, vedelik oma kriitilises punktis, binaarne sulam — täpselt samu kriitilisi eksponente, hämmastav universaalsus, mida keskmise välja teooria ei suuda seletada. Renormeerimisrühm seletab seda süstemaatilise väljasuumimisega, keskmistades üha suuremate süsteemi plokkide üle ja jälgides, kuidas selle efektiivne kirjeldus skaalaga muutub, näidates, et kriitilise punkti lähedal pestakse ühelegi süsteemile omased üksikasjad minema, jättes alles vaid mõned omadused (mõõde, sümmeetria), mis määravad eksponendid.",
+    "sourceHash": "f39b9e0c2996a6b1",
+    "stale": false
+  },
+  "prerequisites": [
+    "critical-phenomena-and-continuous-phase-transitions",
+    "the-ising-model-and-mean-field-theory"
+  ]
+}

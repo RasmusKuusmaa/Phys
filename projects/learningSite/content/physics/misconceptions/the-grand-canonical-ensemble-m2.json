@@ -1,0 +1,10 @@
+{
+  "id": "the-grand-canonical-ensemble-m2",
+  "conceptId": "the-grand-canonical-ensemble",
+  "text": {
+    "en": "Believing the chemical potential mu is just a mathematical bookkeeping device with no real physical meaning — it is the actual physical energy cost (or gain) of adding one more particle to the system at fixed entropy and volume, directly measurable and directly responsible for particle flow between systems at different chemical potentials.",
+    "et": "Arvamus, et keemiline potentsiaal mu on lihtsalt matemaatiline raamatupidamisvahend ilma tegeliku füüsikalise tähenduseta — see on tegelik füüsikaline energiakulu (või -võit) ühe osakese lisamisest süsteemile fikseeritud entroopia ja ruumala juures, otseselt mõõdetav ja otseselt vastutav osakeste voolu eest erineva keemilise potentsiaaliga süsteemide vahel.",
+    "sourceHash": "a803b82b5878626c",
+    "stale": false
+  }
+}

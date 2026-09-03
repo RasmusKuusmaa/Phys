@@ -1,0 +1,10 @@
+{
+  "id": "the-ising-model-and-mean-field-theory-m3",
+  "conceptId": "the-ising-model-and-mean-field-theory",
+  "text": {
+    "en": "Believing mean-field theory's accuracy is unrelated to dimension or the number of interacting neighbours — it becomes progressively more accurate as the number of neighbours grows (higher spatial dimension or longer-range interactions), since averaging over more neighbours makes the mean-field approximation to their actual, fluctuating individual influence increasingly good.",
+    "et": "Arvamus, et keskmise välja teooria täpsus ei ole seotud mõõtme või interakteeruvate naabrite arvuga — see muutub üha täpsemaks, kui naabrite arv kasvab (kõrgem ruumiline mõõde või pikema ulatusega interaktsioonid), kuna keskmistamine üle rohkemate naabrite muudab keskmise välja lähenduse nende tegelikule, kõikuvale individuaalsele mõjule üha paremaks.",
+    "sourceHash": "ad717670f5c0ef74",
+    "stale": false
+  }
+}

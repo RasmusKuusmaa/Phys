@@ -1,0 +1,56 @@
+{
+  "id": "the-grand-canonical-ensemble-item1",
+  "conceptId": "the-grand-canonical-ensemble",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the grand canonical ensemble, rather than the canonical ensemble, naturally produce both the Fermi-Dirac and Bose-Einstein distributions?",
+    "et": "Miks tekitab suur kanooniline ansambel, mitte kanooniline ansambel, loomulikult nii Fermi-Diraci kui Bose-Einsteini jaotust?",
+    "sourceHash": "1f132d07e2f8680f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because it allows particle number to fluctuate via a chemical potential, and the average occupation of a single quantum state under this framework works out exactly to these distributions for fermions and bosons respectively.",
+        "et": "Kuna see lubab osakeste arvul kõikuda keemilise potentsiaali kaudu, ning üksiku kvantoleku keskmine hõivatavus selle raamistiku all tuleb täpselt välja nende jaotustena vastavalt fermionide ja bosonite jaoks.",
+        "sourceHash": "ef013bdb4f7dbf03",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because these distributions only apply to exotic systems, which is exactly the kind of system the grand canonical ensemble was built for.",
+        "et": "Kuna need jaotused kehtivad ainult eksootiliste süsteemide jaoks, mis on täpselt see süsteemitüüp, mille jaoks suur kanooniline ansambel loodi.",
+        "sourceHash": "a709784f266edf53",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-grand-canonical-ensemble-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the chemical potential is just a free mathematical parameter that happens to be tuned to reproduce these known distributions.",
+        "et": "Kuna keemiline potentsiaal on lihtsalt vaba matemaatiline parameeter, mis juhtumisi on häälestatud nende teadaolevate jaotuste taastamiseks.",
+        "sourceHash": "5684dc46c726667c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-grand-canonical-ensemble-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't actually produce them — they are separate, independent postulates that happen to be discussed alongside the grand canonical ensemble.",
+        "et": "See ei tekita neid tegelikult — need on eraldiseisvad, iseseisvad postulaadid, mida juhtumisi arutatakse koos suure kanoonilise ansambliga.",
+        "sourceHash": "5ebdb4e71aba83ba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-grand-canonical-ensemble-m3"
+    }
+  ]
+}

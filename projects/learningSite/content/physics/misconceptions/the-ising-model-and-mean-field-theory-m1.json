@@ -1,0 +1,10 @@
+{
+  "id": "the-ising-model-and-mean-field-theory-m1",
+  "conceptId": "the-ising-model-and-mean-field-theory",
+  "text": {
+    "en": "Believing the Ising model's phase transition requires an external magnetic field to appear — spontaneous magnetization below the critical temperature happens with zero external field, driven purely by the neighbour-neighbour interaction overcoming thermal randomization; an external field is a separate ingredient that can be added but isn't required.",
+    "et": "Arvamus, et Isingi mudeli faasisiire vajab ilmnemiseks välist magnetvälja — spontaanne magnetiseeritus allpool kriitilist temperatuuri toimub nullise välise väljaga, ajendatuna puhtalt naaber-naaber interaktsioonist, mis ületab soojusliku juhuslikustamise; väline väli on eraldi koostisosa, mida saab lisada, kuid mis pole nõutav.",
+    "sourceHash": "f92f2d7d6b2746d0",
+    "stale": false
+  }
+}

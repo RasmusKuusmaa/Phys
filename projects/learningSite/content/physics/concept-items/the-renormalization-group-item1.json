@@ -1,0 +1,56 @@
+{
+  "id": "the-renormalization-group-item1",
+  "conceptId": "the-renormalization-group",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A magnet and an entirely different fluid system both show the exact same critical exponents near their respective phase transitions, despite having completely different microscopic physics. What does the renormalization group say explains this?",
+    "et": "Magnet ja täiesti erinev vedelikusüsteem näitavad mõlemad täpselt samu kriitilisi eksponente oma vastavate faasisiirete lähedal, hoolimata täiesti erinevast mikroskoopilisest füüsikast. Mida ütleb renormeerimisrühm selle seletuseks?",
+    "sourceHash": "ce65637fc8a55c10",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both systems' coarse-grained descriptions flow, under repeated rescaling, to the same fixed point, at which their microscopic differences have washed out and only shared large-scale features (dimension, symmetry) remain to set the exponents.",
+        "et": "Mõlema süsteemi jämestatud kirjeldused voolavad korduva ümberskaleerimise all sama fikseeritud punktini, kus nende mikroskoopilised erinevused on minema pestud ja alles jäävad ainult jagatud suureskaalalised omadused (mõõde, sümmeetria), mis määravad eksponendid.",
+        "sourceHash": "b1311cf6e27d9afc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It's a coincidence, or it secretly means the two systems' microscopic physics must actually be identical after all.",
+        "et": "See on kokkusattumus, või tähendab see salaja, et kahe süsteemi mikroskoopiline füüsika peab tegelikult ikkagi olema identne.",
+        "sourceHash": "ff7ff3c947c383bc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-renormalization-group-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both systems are physically flowing through the same sequence of states over actual time as they approach their transitions.",
+        "et": "Mõlemad süsteemid voolavad füüsiliselt läbi sama olekute jada tegelikus ajas, kui nad oma siiretele lähenevad.",
+        "sourceHash": "4b3cc61f6c8f757d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-renormalization-group-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Every microscopic detail of both systems must actually be secretly relevant and contributing equally to the shared exponents.",
+        "et": "Mõlema süsteemi iga mikroskoopiline üksikasi peab tegelikult olema salaja oluline ja jagatud eksponentidesse võrdselt panustama.",
+        "sourceHash": "3f9ebddb2b3b2c56",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-renormalization-group-m3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "the-ising-model-and-mean-field-theory-item1",
+  "conceptId": "the-ising-model-and-mean-field-theory",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In which situation is mean-field theory's prediction for the Ising model's critical behaviour most accurate?",
+    "et": "Millises olukorras on keskmise välja teooria ennustus Isingi mudeli kriitilise käitumise kohta kõige täpsem?",
+    "sourceHash": "c124c40bd0c09836",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "When each spin interacts with a large number of neighbours (high spatial dimension or long-range interactions), so averaging over them approximates their actual influence well.",
+        "et": "Kui iga spinn interakteerub suure arvu naabritega (kõrge ruumiline mõõde või pikema ulatusega interaktsioonid), nii et keskmistamine nende üle lähendab hästi nende tegelikku mõju.",
+        "sourceHash": "d72b834cfe6a15bc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Only when an external magnetic field is also applied to the system.",
+        "et": "Ainult siis, kui süsteemile rakendatakse ka välist magnetvälja.",
+        "sourceHash": "546224d7d9933d29",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-ising-model-and-mean-field-theory-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "In low dimensions, where it gives exactly the correct critical temperature and critical exponents.",
+        "et": "Madalates mõõtmetes, kus see annab täpselt õige kriitilise temperatuuri ja kriitilised eksponendid.",
+        "sourceHash": "b433f6cfd07c4b17",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-ising-model-and-mean-field-theory-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Its accuracy doesn't depend on dimension or the number of neighbours at all.",
+        "et": "Selle täpsus ei sõltu üldse mõõtmest ega naabrite arvust.",
+        "sourceHash": "6e2526220d3499e1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-ising-model-and-mean-field-theory-m3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-ising-model-and-mean-field-theory",
+  "subject": "physics",
+  "level": "L4",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "The Ising model and mean-field theory",
+    "et": "Isingi mudel ja keskmise välja teooria",
+    "sourceHash": "b7ad90f7ed355203",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Ising model — a lattice of two-state spins, each interacting only with its nearest neighbours — is the simplest microscopic model that shows a genuine phase transition, from a disordered high-temperature phase to a spontaneously magnetized low-temperature phase. Mean-field theory approximates the messy many-body interaction by replacing every spin's actual neighbours with their average effect, turning an intractable many-body problem into a solvable single-spin one that captures the phase transition qualitatively, though not always its precise quantitative details.",
+    "et": "Isingi mudel — võre kaheolekulistest spinnidest, millest igaüks interakteerub ainult oma lähimate naabritega — on lihtsaim mikroskoopiline mudel, mis näitab tõelist faasisiiret, korrastamata kõrge temperatuuri faasist spontaanselt magnetiseeritud madala temperatuuri faasi. Keskmise välja teooria lähendab sasipuntras paljukehalist interaktsiooni, asendades iga spinni tegelikud naabrid nende keskmise mõjuga, muutes käsitlematu paljukehalise ülesande lahenduva üksikspinni ülesandeks, mis tabab faasisiirde kvalitatiivselt, kuigi mitte alati selle täpseid kvantitatiivseid üksikasju.",
+    "sourceHash": "34c7af4a9f4d60b5",
+    "stale": false
+  },
+  "prerequisites": [
+    "phase-transitions",
+    "critical-phenomena-and-continuous-phase-transitions"
+  ]
+}

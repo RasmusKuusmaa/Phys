@@ -1,0 +1,10 @@
+{
+  "id": "the-renormalization-group-m3",
+  "conceptId": "the-renormalization-group",
+  "text": {
+    "en": "Believing every detail of a system's microscopic physics must matter equally for its critical behaviour — near a continuous phase transition, only a few coarse features (spatial dimension, the symmetry of the order parameter) survive the renormalization-group flow to determine the critical exponents; most microscopic details genuinely wash out and don't matter for universality-class membership.",
+    "et": "Arvamus, et süsteemi mikroskoopilise füüsika iga üksikasi peab olema selle kriitilise käitumise jaoks võrdselt oluline — pideva faasisiirde lähedal jäävad renormeerimisrühma voolus ellu ainult mõned jämedad omadused (ruumiline mõõde, järgusuuruse sümmeetria), mis määravad kriitilised eksponendid; enamik mikroskoopilisi üksikasju tõeliselt pestakse minema ja need ei ole universaalsusklassi kuuluvuse jaoks olulised.",
+    "sourceHash": "091566e3241e622a",
+    "stale": false
+  }
+}

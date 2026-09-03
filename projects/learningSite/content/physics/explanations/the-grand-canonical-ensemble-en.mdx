@@ -1,0 +1,24 @@
+The canonical ensemble fixes a system's particle number N and lets only energy fluctuate,
+exchanged with a heat bath at fixed temperature T. Many real systems — electrons in a metal
+that can move in or out of a region, atoms in a fluid open to a larger container, photons
+that can be created or absorbed — don't have a fixed particle number at all, so the grand
+canonical ensemble instead lets both energy and particle number fluctuate, in contact with a
+reservoir that fixes temperature T and a chemical potential mu, the energy cost of adding one
+more particle.
+
+The grand partition function sums the ordinary Boltzmann factor over every possible energy
+state and every possible particle number simultaneously, with an extra factor
+exp(mu N / kT) rewarding configurations with more particles when mu is positive (or
+penalizing them when mu is negative). Every thermodynamic quantity — the average particle
+number, the average energy, the pressure, the entropy — follows from this one grand
+partition function by straightforward differentiation, exactly as the canonical ensemble's
+ordinary partition function generates the canonical quantities.
+
+Applied to a single quantum state that can hold 0 or 1 fermions (obeying the Pauli
+exclusion principle), the grand canonical ensemble's average occupation number is exactly
+the Fermi-Dirac distribution; applied to a state that can hold any number of bosons, it
+gives exactly the Bose-Einstein distribution — both of these famous distributions are not
+separate postulates but direct, mechanical consequences of grand canonical statistics
+applied to the appropriate particle statistics. This is why the grand canonical ensemble,
+not the canonical ensemble, is the natural starting point for quantum statistical mechanics
+whenever particle number isn't fixed by hand.

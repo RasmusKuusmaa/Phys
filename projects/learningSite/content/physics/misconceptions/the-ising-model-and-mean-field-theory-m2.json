@@ -1,0 +1,10 @@
+{
+  "id": "the-ising-model-and-mean-field-theory-m2",
+  "conceptId": "the-ising-model-and-mean-field-theory",
+  "text": {
+    "en": "Believing mean-field theory gives exactly correct quantitative predictions (the precise critical temperature, precise critical exponents) for the Ising model in low dimensions — it gets the qualitative existence of a phase transition right but is generally quantitatively wrong there, since it throws away correlated fluctuations that matter most near the critical point.",
+    "et": "Arvamus, et keskmise välja teooria annab Isingi mudeli jaoks madalates mõõtmetes täpselt õiged kvantitatiivsed ennustused (täpne kriitiline temperatuur, täpsed kriitilised eksponendid) — see saab õigeks faasisiirde kvalitatiivse olemasolu, kuid on seal üldiselt kvantitatiivselt vale, kuna see viskab minema korreleeritud kõikumised, mis on kriitilise punkti lähedal kõige olulisemad.",
+    "sourceHash": "98bcf8b8cb2b4f2f",
+    "stale": false
+  }
+}

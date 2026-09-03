@@ -1,0 +1,22 @@
+{
+  "id": "the-grand-canonical-ensemble",
+  "subject": "physics",
+  "level": "L4",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "The grand canonical ensemble",
+    "et": "Suur kanooniline ansambel",
+    "sourceHash": "abecbd17396ae564",
+    "stale": false
+  },
+  "summary": {
+    "en": "For a system that can exchange both energy and particles with a surrounding reservoir, the grand canonical ensemble replaces the canonical ensemble's fixed particle number with a chemical potential controlling the average number of particles, packaging both the energy and particle-number statistics into a single grand partition function from which every thermodynamic quantity — including the Fermi-Dirac and Bose-Einstein distributions themselves — follows directly.",
+    "et": "Süsteemi jaoks, mis saab vahetada ümbritseva reservuaariga nii energiat kui osakesi, asendab suur kanooniline ansambel kanoonilise ansambli fikseeritud osakeste arvu keemilise potentsiaaliga, mis kontrollib keskmist osakeste arvu, pakendades nii energia kui osakeste arvu statistika üheks suureks jaotusfunktsiooniks, millest järeldub otse iga termodünaamiline suurus — kaasa arvatud Fermi-Diraci ja Bose-Einsteini jaotused ise.",
+    "sourceHash": "da4a597777ee07ac",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-partition-function",
+    "quantum-statistics-fermi-dirac-and-bose-einstein"
+  ]
+}

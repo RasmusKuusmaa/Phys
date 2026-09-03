@@ -1,0 +1,10 @@
+{
+  "id": "the-grand-canonical-ensemble-m3",
+  "conceptId": "the-grand-canonical-ensemble",
+  "text": {
+    "en": "Believing the Fermi-Dirac and Bose-Einstein distributions are independent postulates unrelated to the grand canonical ensemble — both follow directly and mechanically from applying grand canonical statistics to a single quantum state, respecting fermion or boson occupation rules; they are a consequence of the ensemble, not a separate assumption layered on top.",
+    "et": "Arvamus, et Fermi-Diraci ja Bose-Einsteini jaotused on iseseisvad postulaadid, mitteseotud suure kanoonilise ansambliga — mõlemad järelduvad otseselt ja mehaaniliselt suure kanoonilise statistika rakendamisest üksikule kvantolekule, austades fermioni või bosoni hõivatavusreegleid; need on ansambli tagajärg, mitte eraldi eeldus, mis on selle peale kihistunud.",
+    "sourceHash": "231d45faef3b4388",
+    "stale": false
+  }
+}

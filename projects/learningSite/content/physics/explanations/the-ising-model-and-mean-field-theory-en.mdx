@@ -1,0 +1,25 @@
+The Ising model places a two-state variable (spin up or spin down) on every site of a
+lattice, with an energy that favours neighbouring spins pointing the same way. At high
+temperature, thermal fluctuations randomize the spins and the average magnetization is
+zero; below a specific critical temperature, the interaction wins out over thermal
+randomization and the spins spontaneously align, giving a nonzero net magnetization even
+with no external field pushing them to — the simplest microscopic picture of a
+ferromagnetic phase transition.
+
+Solving the model exactly means accounting for every spin's actual interaction with its
+actual neighbours, a genuinely hard many-body problem in more than one dimension.
+Mean-field theory sidesteps this by replacing each spin's neighbours with a single
+effective, self-consistent average field — every spin then only has to respond to this one
+mean field rather than to its specific neighbours individually, turning the many-body
+problem into a single-spin problem whose self-consistency condition can be solved directly,
+correctly predicting a phase transition at some nonzero critical temperature.
+
+Mean-field theory gets the qualitative picture right — a phase transition exists,
+magnetization appears continuously below the critical temperature — but its quantitative
+predictions (the exact critical temperature, and especially the critical exponents
+describing how quantities behave right at the transition) are generally wrong in low
+dimensions, since averaging away neighbour-to-neighbour fluctuations specifically throws
+away the correlated fluctuations that matter most near a critical point. It works
+increasingly well as the number of interacting neighbours grows (higher spatial dimension,
+or longer-range interactions), which is exactly the regime in which the averaging
+approximation becomes accurate rather than merely convenient.

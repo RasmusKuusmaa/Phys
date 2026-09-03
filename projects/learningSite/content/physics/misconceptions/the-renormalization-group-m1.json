@@ -1,0 +1,10 @@
+{
+  "id": "the-renormalization-group-m1",
+  "conceptId": "the-renormalization-group",
+  "text": {
+    "en": "Believing that two completely different physical systems sharing the same critical exponents near a phase transition is either a coincidence or requires their microscopic physics to actually be secretly the same — the renormalization group explains it as an inevitable consequence of both systems' coarse-grained descriptions flowing to the same fixed point, with their genuinely different microscopic details washed out along the way.",
+    "et": "Arvamus, et kaks täiesti erinevat füüsikalist süsteemi, mis jagavad faasisiirde lähedal samu kriitilisi eksponente, on kas kokkusattumus või nõuab, et nende mikroskoopiline füüsika oleks tegelikult salaja sama — renormeerimisrühm seletab seda vältimatu tagajärjena sellest, et mõlema süsteemi jämestatud kirjeldused voolavad samasse fikseeritud punkti, nende tõeliselt erinevad mikroskoopilised üksikasjad selle käigus minema pestuna.",
+    "sourceHash": "01e14dd9e1981fd4",
+    "stale": false
+  }
+}
