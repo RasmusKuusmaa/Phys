@@ -1,0 +1,22 @@
+{
+  "id": "the-giant-dipole-resonance-and-photonuclear-reactions",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "The giant dipole resonance and photonuclear reactions",
+    "et": "Hiiddipoolresonants ja fotonukleaarreaktsioonid",
+    "sourceHash": "1178ca8a0b1d3363",
+    "stale": false
+  },
+  "summary": {
+    "en": "Bombard almost any nucleus with gamma-ray photons across a range of energies and its absorption probability shows a single dramatic, broad peak at a specific characteristic energy, the giant dipole resonance, in which the photon's oscillating electric field drives essentially all of the nucleus's protons to slosh back and forth as one collective fluid against essentially all of its neutrons sloshing the opposite way, a bulk collective oscillation of the whole nuclear liquid drop rather than any single nucleon absorbing the photon individually, and because this resonance so overwhelmingly dominates photon absorption at these energies, it governs essentially every important photonuclear reaction -- photon-induced neutron or proton emission, photofission, and more -- making the giant dipole resonance the essential first step to understanding how nuclei respond to and are broken apart by electromagnetic radiation rather than by particle bombardment.",
+    "et": "Pommita peaaegu iga tuuma gammakiirguse footonitega üle energiate vahemiku ja selle neeldumistõenäosus näitab üksikut dramaatilist, laia tippu kindlal iseloomulikul energial, hiiddipoolresonantsi, milles footoni võnkuv elektriväli paneb sisuliselt kõik tuuma prootonid loksuma edasi-tagasi ühe kollektiivse vedelikuna kõigi selle neutronite vastassuunalise loksumise vastu, kogu tuuma vedelikutilga massilise kollektiivse võnkumise, mitte üksiku nukloni individuaalse footoni neeldumise, ning kuna see resonants domineerib footoni neeldumist nendel energiatel nii ülekaalukalt, juhib see sisuliselt iga olulist fotonukleaarreaktsiooni -- footoni poolt esile kutsutud neutroni või prootoni eraldumist, fotolõhustumist ja rohkemgi --, muutes hiiddipoolresonantsi hädavajalikuks esimeseks sammuks mõistmaks, kuidas tuumad reageerivad elektromagnetkiirgusele ja lõhutakse selle poolt, mitte osakestepommitamise poolt.",
+    "sourceHash": "a07bafb1161e933c",
+    "stale": false
+  },
+  "prerequisites": [
+    "liquid-drop-model-and-the-semi-empirical-mass-formula",
+    "nuclear-shell-model-spin-and-parity"
+  ]
+}

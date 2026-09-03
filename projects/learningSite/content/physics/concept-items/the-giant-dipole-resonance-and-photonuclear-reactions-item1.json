@@ -1,0 +1,56 @@
+{
+  "id": "the-giant-dipole-resonance-and-photonuclear-reactions-item1",
+  "conceptId": "the-giant-dipole-resonance-and-photonuclear-reactions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What physically distinguishes the giant dipole resonance from an ordinary single-nucleon absorbing a photon, the way an atomic electron absorbs light in an atomic transition?",
+    "et": "Mis füüsikaliselt eristab hiiddipoolresonantsi tavalisest üksiku nukloni footoni neelamisest, samamoodi nagu aatomi elektron neelab valgust aatomi ülemineku käigus?",
+    "sourceHash": "f0120b08a231ddf0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is a collective, bulk oscillation of essentially all the nucleus's protons moving together against all its neutrons, not any single nucleon's individual transition.",
+        "et": "See on kollektiivne, massiline võnkumine, kus sisuliselt kõik tuuma prootonid liiguvad koos kõigi selle neutronite vastu, mitte mistahes üksiku nukloni individuaalne üleminek.",
+        "sourceHash": "21be89533df015bd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There is no real distinction -- the giant dipole resonance is exactly a single proton absorbing the photon, just given a more dramatic name.",
+        "et": "Tegelikku erinevust ei ole -- hiiddipoolresonants on täpselt üks prooton, mis neelab footoni, lihtsalt dramaatilisema nimega.",
+        "sourceHash": "278c0d36e53f101c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-giant-dipole-resonance-and-photonuclear-reactions-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It occurs only in a small handful of unusual, specially prepared nuclei, unlike ordinary single-nucleon photon absorption which happens in every nucleus.",
+        "et": "See toimub ainult väikeses käputäies ebatavalistes, spetsiaalselt ettevalmistatud tuumades, erinevalt tavalisest üksiku nukloni footoni neeldumisest, mis toimub igas tuumas.",
+        "sourceHash": "41f0da866de05252",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-giant-dipole-resonance-and-photonuclear-reactions-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is a minor, practically insignificant curiosity, while ordinary single-nucleon photon absorption is the dominant, practically important process at these energies.",
+        "et": "See on väike, praktiliselt ebaoluline kuriositeet, samal ajal kui tavaline üksiku nukloni footoni neeldumine on domineeriv, praktiliselt oluline protsess nendel energiatel.",
+        "sourceHash": "45f83de5e27b2697",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-giant-dipole-resonance-and-photonuclear-reactions-m2"
+    }
+  ]
+}
