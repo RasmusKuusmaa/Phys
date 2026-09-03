@@ -1,0 +1,10 @@
+{
+  "id": "cosmological-perturbation-theory-and-structure-formation-m3",
+  "conceptId": "cosmological-perturbation-theory-and-structure-formation",
+  "text": {
+    "en": "Believing perturbation theory only applies while fluctuations stay infinitesimally small, so it can't say anything useful about the highly nonlinear structures (galaxies, clusters) observed today -- linear perturbation theory accurately describes the early, small-amplitude growth phase, and while it breaks down once a region goes strongly nonlinear, it correctly predicts which regions collapse first and hands off to numerical simulations from there, making it an essential and successful part of the full picture, not an idealization disconnected from real structures.",
+    "et": "Arvamus, et häiritusteooria kehtib ainult seni, kuni kõikumised jäävad lõpmatult väikeseks, mistõttu ei saa see midagi kasulikku öelda tänapäeval vaadeldavate tugevalt mittelineaarsete struktuuride (galaktikad, parved) kohta -- lineaarne häiritusteooria kirjeldab täpselt varajast, väikese amplituudiga kasvufaasi, ning kuigi see ei kehti enam, kui piirkond muutub tugevalt mittelineaarseks, ennustab see õigesti, millised piirkonnad kokku varisevad esimesena, ja annab sealt edasi tõstatuse numbrilistele simulatsioonidele, mis teeb sellest täieliku pildi olulise ja eduka osa, mitte reaalsetest struktuuridest lahutatud idealisatsiooni.",
+    "sourceHash": "9956969509ffa8dd",
+    "stale": false
+  }
+}

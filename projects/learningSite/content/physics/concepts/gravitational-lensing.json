@@ -1,0 +1,22 @@
+{
+  "id": "gravitational-lensing",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Gravitational lensing",
+    "et": "Gravitatsioonilääts",
+    "sourceHash": "0e6ce3068507aa89",
+    "stale": false
+  },
+  "summary": {
+    "en": "Mass curves spacetime, and light follows that curvature, so any concentration of mass sitting between a distant source and an observer bends the light passing near it, acting as a lens: distorting, magnifying, multiplying, or even ring-shaping the background source's image, an effect strong enough around galaxy clusters to be seen directly and weak enough around ordinary galaxies to require statistical measurement, making it one of the most direct available probes of the universe's total mass, including dark matter that emits no light at all.",
+    "et": "Mass kõverdab aegruumi ja valgus järgib seda kõverust, seega mistahes massikontsentratsioon, mis asub kauge allika ja vaatleja vahel, painutab enda lähedalt mööduvat valgust, käitudes läätsena: moonutades, suurendades, korrutades või isegi rõngakujuliseks muutes taustaallika kujutise, efekt piisavalt tugev galaktikaparvede ümber, et olla otse nähtav, ja piisavalt nõrk tavaliste galaktikate ümber, et vajada statistilist mõõtmist, mis teeb sellest ühe kõige otsesema saadaoleva vahendi universumi kogumassi, sealhulgas mitte kübetki valgust kiirgava tumeaine uurimiseks.",
+    "sourceHash": "75e8d41792a6aabb",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schwarzschild-solution-and-black-holes",
+    "hubbles-law-and-the-expanding-universe"
+  ]
+}

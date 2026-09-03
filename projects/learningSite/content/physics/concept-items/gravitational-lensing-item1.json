@@ -1,0 +1,56 @@
+{
+  "id": "gravitational-lensing-item1",
+  "conceptId": "gravitational-lensing",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is gravitational lensing considered strong evidence for dark matter?",
+    "et": "Miks peetakse gravitatsioonilääts tugevaks tõendiks tumeaine kohta?",
+    "sourceHash": "abd856359a65e6f3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because it responds to all mass-energy regardless of whether it emits light, and lensing maps often reveal far more mass than the visible matter alone could account for.",
+        "et": "Sest see reageerib kogu massile-energiale sõltumata sellest, kas see valgust kiirgab, ning läätseuuringud paljastavad sageli palju rohkem massi, kui nähtav aine üksi saaks seletada.",
+        "sourceHash": "6d94c982b981c01d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because it only forms perfect Einstein rings around dark matter and never around visible matter.",
+        "et": "Sest see moodustab täiuslikke Einsteini rõngaid ainult tumeaine ümber ega kunagi nähtava aine ümber.",
+        "sourceHash": "672db6b650037684",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gravitational-lensing-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because it is a strong, dramatic effect that can only be observed around the most massive galaxy clusters.",
+        "et": "Sest see on tugev, dramaatiline efekt, mida saab vaadelda ainult kõige massiivsemate galaktikaparvede ümber.",
+        "sourceHash": "db5bb9e1cadc8f0a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gravitational-lensing-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because dark matter absorbs light and casts a visible shadow that lensing directly photographs.",
+        "et": "Sest tumeaine neelab valgust ja heidab nähtava varju, mida lääts otse pildistab.",
+        "sourceHash": "245de77a23ea8b0e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gravitational-lensing-m3"
+    }
+  ]
+}

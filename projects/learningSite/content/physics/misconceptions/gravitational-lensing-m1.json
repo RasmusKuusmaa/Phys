@@ -1,0 +1,10 @@
+{
+  "id": "gravitational-lensing-m1",
+  "conceptId": "gravitational-lensing",
+  "text": {
+    "en": "Believing gravitational lensing only produces perfect Einstein rings and nothing else -- a perfect ring only forms in the special case of exact alignment between source, lens, and observer; generic (imperfect) alignments instead produce distorted arcs, multiple offset images, or slight magnification/shearing of the background source, with full rings being the rare, geometrically special case rather than the typical outcome.",
+    "et": "Arvamus, et gravitatsioonilääts tekitab ainult täiuslikke Einsteini rõngaid ja mitte midagi muud -- täiuslik rõngas tekib ainult erijuhul, kui allikas, lääts ja vaatleja on täpselt joondatud; üldjuhul (ebatäpse joondumise korral) tekivad selle asemel moonutatud kaared, mitmed nihkega kujutised või taustaallika kerge suurenemine/nihestumine, kusjuures täielikud rõngad on haruldane, geomeetriliselt erijuht, mitte tüüpiline tulemus.",
+    "sourceHash": "3f64bfbfe3745dc2",
+    "stale": false
+  }
+}

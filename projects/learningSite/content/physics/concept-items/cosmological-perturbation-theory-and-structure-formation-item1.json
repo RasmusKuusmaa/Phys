@@ -1,0 +1,56 @@
+{
+  "id": "cosmological-perturbation-theory-and-structure-formation-item1",
+  "conceptId": "cosmological-perturbation-theory-and-structure-formation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why did dark matter's gravity begin growing cosmic structure earlier than ordinary matter's could?",
+    "et": "Miks hakkas tumeaine gravitatsioon kosmilist struktuuri kasvatama varem kui tavaaine oma sai?",
+    "sourceHash": "93169f1f466b5085",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because ordinary matter was tightly coupled to radiation until recombination and couldn't clump before then, while dark matter was unaffected by that radiation pressure.",
+        "et": "Sest tavaaine oli kuni rekombinatsioonini tugevalt seotud kiirgusega ega saanud enne seda paakuda, samal ajal kui tumeainet see kiirgusrõhk ei mõjutanud.",
+        "sourceHash": "7401cc48b8faacc2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because structure formation happened uniformly everywhere at once, and dark matter simply appeared first by coincidence.",
+        "et": "Sest struktuuride teke toimus kõikjal ühtlaselt ja korraga, ning tumeaine ilmus lihtsalt juhuslikult esimesena.",
+        "sourceHash": "e73f22a6eeb863a6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cosmological-perturbation-theory-and-structure-formation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because dark matter has stronger gravity per particle than ordinary matter due to a different force law.",
+        "et": "Sest tumeainel on osakese kohta tugevam gravitatsioon kui tavaainel, kuna sellel on erinev jõuseadus.",
+        "sourceHash": "ad7cf264b0ffb019",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cosmological-perturbation-theory-and-structure-formation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because perturbation theory only applies to dark matter and says nothing about ordinary matter at all.",
+        "et": "Sest häiritusteooria kehtib ainult tumeaine kohta ega ütle tavaaine kohta midagi.",
+        "sourceHash": "d345f47e13224e31",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cosmological-perturbation-theory-and-structure-formation-m3"
+    }
+  ]
+}

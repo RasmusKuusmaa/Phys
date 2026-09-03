@@ -1,0 +1,22 @@
+{
+  "id": "cosmological-perturbation-theory-and-structure-formation",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Cosmological perturbation theory and structure formation",
+    "et": "Kosmoloogiline häiritusteooria ja struktuuride teke",
+    "sourceHash": "984c2de083646606",
+    "stale": false
+  },
+  "summary": {
+    "en": "The tiny density fluctuations imprinted in the cosmic microwave background were not a curiosity: treated as small perturbations on an otherwise smooth, expanding universe, they are the seeds that gravity amplified over billions of years, growing overdense regions ever denser while underdense regions emptied out, eventually collapsing into the cosmic web of galaxies, galaxy clusters, and voids observed today, with dark matter's gravity doing most of the early heavy lifting since it could start clumping before ordinary matter was even free to move.",
+    "et": "Kosmilises mikrolainetaustas jäljendunud väikesed tihedusvariatsioonid ei olnud kurioosum: käsitletuna väikeste häiritustena muidu ühtlasel, paisuval universumil, on need seemned, mida gravitatsioon miljardite aastate jooksul võimendas, kasvatades ülestihedad piirkonnad üha tihedamaks, samal ajal kui alatihedad piirkonnad tühjenesid, kokku varisedes lõpuks täna vaadeldavaks galaktikate, galaktikaparvede ja tühimike kosmiliseks võrgustikuks, kusjuures tumeaine gravitatsioon tegi suurema osa varajasest raskest tööst, kuna see sai hakata paakuma juba enne, kui tavaaine üldse liikuma sai.",
+    "sourceHash": "a97c6093f7d83eb6",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-cosmic-microwave-background-and-recombination",
+    "dark-matter-and-galactic-structure"
+  ]
+}
