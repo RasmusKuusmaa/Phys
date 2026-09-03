@@ -1,0 +1,55 @@
+{
+  "id": "nuclear-reaction-cross-sections-and-the-compound-nucleus-model-item1",
+  "conceptId": "nuclear-reaction-cross-sections-and-the-compound-nucleus-model",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the compound nucleus model's 'independence hypothesis' actually claim?",
+    "et": "Mida liittuuma mudeli 'sõltumatuse hüpotees' tegelikult väidab?",
+    "sourceHash": "b47784b6e3efc828",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That once formed, the compound nucleus's decay is statistically independent of exactly how it was formed, since the energy is shared and thermalized among all nucleons.",
+        "et": "Et kord moodustunult on liittuuma lagunemine statistiliselt sõltumatu täpselt sellest, kuidas see moodustus, kuna energia jaguneb ja termaliseerub kõigi nukleonide vahel.",
+        "sourceHash": "bf6c06cf2ca2c5ab",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That the compound nucleus always remembers exactly which particle and reaction formed it, and decays accordingly.",
+        "et": "Et liittuum mäletab alati täpselt, milline osake ja reaktsioon selle moodustas, ning laguneb vastavalt.",
+        "sourceHash": "2eeb11e0511a9708",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-reaction-cross-sections-and-the-compound-nucleus-model-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That every nuclear reaction, without exception, proceeds through the compound nucleus mechanism.",
+        "et": "Et iga tuumareaktsioon, ilma eranditeta, kulgeb liittuuma mehhanismi kaudu.",
+        "sourceHash": "a146fe1fdd47d786",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-reaction-cross-sections-and-the-compound-nucleus-model-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That a cross-section is always exactly equal to the nucleus's literal geometric cross-sectional area.",
+        "et": "Et ristlõige on alati täpselt võrdne tuuma sõnaotseses mõttes geomeetrilise ristlõikepindalaga.",
+        "sourceHash": "8ef572a21b6be78b",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

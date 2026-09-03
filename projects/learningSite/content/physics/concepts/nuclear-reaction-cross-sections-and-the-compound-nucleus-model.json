@@ -1,0 +1,21 @@
+{
+  "id": "nuclear-reaction-cross-sections-and-the-compound-nucleus-model",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Nuclear reaction cross-sections and the compound nucleus model",
+    "et": "Tuumareaktsioonide ristlõiked ja liittuuma mudel",
+    "sourceHash": "3233f09b2dc8ace5",
+    "stale": false
+  },
+  "summary": {
+    "en": "A cross-section quantifies how likely a given nuclear reaction is, effectively an area a target nucleus presents to an incoming particle for a specific outcome; for many reactions at moderate energy, the incoming particle is fully absorbed and its energy shared among all the nucleons in a short-lived, highly excited compound nucleus that then decays through whatever channel is available, independently of exactly how it was formed, an idea that explains sharp resonance peaks in measured cross-sections and lets very different reactions be predicted from a shared statistical framework.",
+    "et": "Ristlõige kvantifitseerib, kui tõenäoline on antud tuumareaktsioon, sisuliselt pindala, mille sihtmärktuum esitab sissetulevale osakesele kindla tulemuse jaoks; paljude reaktsioonide puhul mõõduka energia juures neeldub sissetulev osake täielikult ja selle energia jaguneb kõigi lühiealises, tugevalt ergastatud liittuumas olevate nukleonide vahel, mis seejärel laguneb mistahes saadaoleva kanali kaudu, sõltumata täpselt sellest, kuidas see moodustus -- idee, mis seletab mõõdetud ristlõigetes teravaid resonantstippe ja lubab väga erinevaid reaktsioone ennustada jagatud statistilise raamistiku alusel.",
+    "sourceHash": "ff2fd8deb54d353c",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-reactions-and-threshold-energy"
+  ]
+}

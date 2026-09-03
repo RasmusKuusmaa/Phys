@@ -1,0 +1,10 @@
+{
+  "id": "liquid-drop-model-and-the-semi-empirical-mass-formula-m3",
+  "conceptId": "liquid-drop-model-and-the-semi-empirical-mass-formula",
+  "text": {
+    "en": "Believing the semi-empirical mass formula is a purely theoretical result derived from first principles with no empirical input at all -- 'semi-empirical' means exactly what it says: the formula's overall structure (which physical effects contribute, and roughly how) comes from theory, but the numerical coefficients in front of each term are fitted to match measured nuclear masses, a combination of theoretical reasoning and experimental calibration rather than a pure first-principles derivation.",
+    "et": "Arvamus, et poolempiiriline massivalem on puhtalt teoreetiline tulemus, mis on tuletatud esmastest printsiipidest ilma igasuguse empiirilise sisendita -- 'poolempiiriline' tähendab täpselt seda, mida see ütleb: valemi üldine struktuur (millised füüsikalised efektid annavad panuse ja umbkaudu kuidas) tuleb teooriast, kuid iga liikme ees olevad arvulised kordajad on sobitatud mõõdetud tuumamassidega, kombinatsioon teoreetilisest arutlusest ja eksperimentaalsest kalibreerimisest, mitte puhas esmastest printsiipidest tuletamine.",
+    "sourceHash": "26a2f85f81c1e4df",
+    "stale": false
+  }
+}

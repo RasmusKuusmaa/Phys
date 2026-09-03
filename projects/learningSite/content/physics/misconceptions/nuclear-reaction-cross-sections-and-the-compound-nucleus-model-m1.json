@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-reaction-cross-sections-and-the-compound-nucleus-model-m1",
+  "conceptId": "nuclear-reaction-cross-sections-and-the-compound-nucleus-model",
+  "text": {
+    "en": "Believing a cross-section is a literal, physical geometric area of the nucleus that can be measured with a ruler -- a cross-section is an effective area defined through the reaction probability (probability equals cross-section times incoming particle flux), which depends on the specific reaction, the particle energy, and quantum mechanical effects, and can be far larger or smaller than the nucleus's actual geometric size, especially near a resonance.",
+    "et": "Arvamus, et ristlõige on sõna otseses mõttes tuuma füüsikaline geomeetriline pindala, mida saab joonlauaga mõõta -- ristlõige on efektiivne pindala, mis on defineeritud reaktsioonitõenäosuse kaudu (tõenäosus võrdub ristlõikega korda sissetuleva osakese vooga), mis sõltub konkreetsest reaktsioonist, osakese energiast ja kvantmehaanilistest efektidest, ning võib olla palju suurem või väiksem kui tuuma tegelik geomeetriline suurus, eriti resonantsi läheduses.",
+    "sourceHash": "8956a6ea00f8a612",
+    "stale": false
+  }
+}

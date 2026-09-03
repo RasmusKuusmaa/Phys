@@ -1,0 +1,55 @@
+{
+  "id": "liquid-drop-model-and-the-semi-empirical-mass-formula-item1",
+  "conceptId": "liquid-drop-model-and-the-semi-empirical-mass-formula",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does binding energy per nucleon eventually decrease for very heavy nuclei instead of continuing to increase?",
+    "et": "Miks seoseenergia nukleoni kohta lõpuks väheneb väga raskete tuumade puhul, mitte ei jätka kasvamist?",
+    "sourceHash": "2803fe14844b1c7b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the short-range nuclear attraction only reaches nearest neighbours, while the long-range Coulomb repulsion between all protons keeps growing with size.",
+        "et": "Sest lühikese haardeulatusega tuumatõmbejõud ulatub ainult lähimate naabriteni, samal ajal kui kõigi prootonite vaheline pikamaaline Coulombi tõukejõud kasvab suurusega pidevalt.",
+        "sourceHash": "8604dcb8aa4a1c1f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the nucleus literally turns into a different liquid substance once it grows past a certain size.",
+        "et": "Sest tuum muutub sõna otseses mõttes teiseks vedelikuks, kui see kasvab üle teatud suuruse.",
+        "sourceHash": "5b1714527ee0e39c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "liquid-drop-model-and-the-semi-empirical-mass-formula-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the semi-empirical mass formula is a pure theoretical result with no connection to measured nuclear masses.",
+        "et": "Sest poolempiiriline massivalem on puhas teoreetiline tulemus, millel pole seost mõõdetud tuumamassidega.",
+        "sourceHash": "d1015afe6345bfa9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "liquid-drop-model-and-the-semi-empirical-mass-formula-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't -- binding energy per nucleon actually keeps increasing indefinitely as more nucleons are added.",
+        "et": "Ei vähene -- seoseenergia nukleoni kohta tegelikult jätkab piiramatut kasvamist, kui nukleone juurde lisada.",
+        "sourceHash": "3055f9887feb0eed",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

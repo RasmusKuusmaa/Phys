@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-reaction-cross-sections-and-the-compound-nucleus-model-m2",
+  "conceptId": "nuclear-reaction-cross-sections-and-the-compound-nucleus-model",
+  "text": {
+    "en": "Believing the compound nucleus, once formed, 'remembers' exactly how it was created and decays in a way tied to the specific incoming particle and reaction that formed it -- the entire premise of the compound nucleus model (Bohr's independence hypothesis) is that once formed, the compound nucleus's decay is statistically independent of its formation mechanism, since the incoming energy is shared among all nucleons and thermalized, erasing any specific memory of how the excited state was produced.",
+    "et": "Arvamus, et liittuum, kord moodustunud, 'mäletab' täpselt, kuidas see loodi, ja laguneb viisil, mis on seotud konkreetse sissetuleva osakese ja reaktsiooniga, mis selle moodustas -- kogu liittuuma mudeli eeldus (Bohri sõltumatuse hüpotees) on see, et kord moodustunult on liittuuma lagunemine statistiliselt sõltumatu selle moodustumise mehhanismist, kuna sissetulev energia jaguneb kõigi nukleonide vahel ja termaliseerub, kustutades igasuguse konkreetse mälu sellest, kuidas ergastatud olek tekkis.",
+    "sourceHash": "7346e049a93cdb23",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "liquid-drop-model-and-the-semi-empirical-mass-formula-m2",
+  "conceptId": "liquid-drop-model-and-the-semi-empirical-mass-formula",
+  "text": {
+    "en": "Believing binding energy per nucleon increases without limit as more nucleons are added, so the heaviest possible nucleus should be the most stable -- binding energy per nucleon actually peaks around iron and nickel and then decreases for heavier nuclei, because the short-range attractive force only reaches nearest neighbours while the long-range Coulomb repulsion between all protons keeps growing, which is exactly why very heavy nuclei are less tightly bound and prone to fission rather than more stable.",
+    "et": "Arvamus, et seoseenergia nukleoni kohta kasvab piiramatult, kui nukleone juurde lisada, mistõttu kõige raskem võimalik tuum peaks olema kõige stabiilsem -- seoseenergia nukleoni kohta saavutab tegelikult maksimumi raua ja nikli juures ning seejärel väheneb raskemate tuumade puhul, kuna lühikese haardeulatusega tõmbejõud ulatub ainult lähimate naabriteni, samal ajal kui kõigi prootonite vaheline pikamaaline Coulombi tõukejõud kasvab pidevalt, mis on täpselt põhjus, miks väga rasked tuumad on nõrgemini seotud ja kalduvad pigem lõhustuma kui olema stabiilsemad.",
+    "sourceHash": "76529f0099129f91",
+    "stale": false
+  }
+}

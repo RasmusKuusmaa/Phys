@@ -1,0 +1,21 @@
+{
+  "id": "liquid-drop-model-and-the-semi-empirical-mass-formula",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "The liquid-drop model and the semi-empirical mass formula",
+    "et": "Tilgamudel ja tuuma poolempiiriline massivalem",
+    "sourceHash": "f37b76cc726b0474",
+    "stale": false
+  },
+  "summary": {
+    "en": "Treating the nucleus as an incompressible drop of charged liquid held together by a short-range attractive force explains, with startling accuracy, why binding energy per nucleon peaks around iron and why very heavy nuclei are prone to fission: the semi-empirical mass formula sums a volume term, a surface term, a Coulomb repulsion term, an asymmetry term penalizing unequal proton and neutron numbers, and a pairing term, five physically motivated pieces whose combination reproduces measured nuclear masses across the entire chart of nuclides to good precision.",
+    "et": "Tuuma käsitlemine kokkusurumatu laetud vedeliku tilgana, mida hoiab koos lühikese haardeulatusega tõmbejõud, seletab hämmastava täpsusega, miks seoseenergia nukleoni kohta saavutab maksimumi raua juures ja miks väga rasked tuumad kalduvad lõhustuma: poolempiiriline massivalem liidab kokku ruumaliikme, pinnaliikme, Coulombi tõukeliikme, asümmeetrialiikme, mis karistab ebavõrdse prootonite ja neutronite arvu eest, ning paarumisliikme -- viis füüsikaliselt põhjendatud osa, mille kombinatsioon taastoodab mõõdetud tuumamasse kogu nukliidide kaardil hea täpsusega.",
+    "sourceHash": "0003112c21a184de",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-binding-energy"
+  ]
+}
