@@ -1,0 +1,54 @@
+{
+  "id": "galaxy-formation-and-morphology-item1",
+  "conceptId": "galaxy-formation-and-morphology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two comparable-mass spiral galaxies undergo a major merger. What does hierarchical structure formation theory say happens to their morphology as a result?",
+    "et": "Kaks võrreldava massiga spiraalgalaktikat läbivad suure ühinemise. Mida ütleb hierarhiline struktuuride teke teooria selle kohta, mis nende morfoloogiaga selle tagajärjel juhtub?",
+    "sourceHash": "dccf23c622a069b7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Their orderly rotation-supported disks are violently disrupted, scrambling stellar orbits into the smooth, pressure-supported structure typical of an elliptical galaxy.",
+        "et": "Nende korrapärased pöörlemistoetatud kettad hävitatakse vägivaldselt, segades tähtede orbiidid elliptilisele galaktikale tüüpiliseks siledaks, rõhutoetatud struktuuriks.",
+        "sourceHash": "b55eb2070fa5fd8c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing changes morphologically -- a galaxy's classification as spiral or elliptical is a fixed property set at formation and cannot be altered by later mergers.",
+        "et": "Morfoloogiliselt ei muutu miski -- galaktika klassifikatsioon spiraaliks või elliptiliseks on fikseeritud omadus, mis on määratud tekkimisel ja mida hilisemad ühinemised muuta ei saa.",
+        "sourceHash": "b587d9719435789e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "galaxy-formation-and-morphology-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The merged galaxy becomes a larger, more massive spiral galaxy, simply combining both original rotating disks into one bigger rotating disk.",
+        "et": "Ühinenud galaktikast saab suurem, massiivsem spiraalgalaktika, mis lihtsalt ühendab mõlemad algsed pöörlevad kettad üheks suuremaks pöörlevaks kettaks.",
+        "sourceHash": "af5b6e8e1f901e21",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The merger has no effect on the stars' orbits, only on the total number of stars present, since mergers are purely additive events.",
+        "et": "Ühinemisel ei ole mõju tähtede orbiitidele, ainult kohalolevate tähtede koguarvule, kuna ühinemised on puhtalt liitivad sündmused.",
+        "sourceHash": "873b42ad44f1765f",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

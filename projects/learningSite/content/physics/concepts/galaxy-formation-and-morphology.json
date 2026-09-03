@@ -1,0 +1,22 @@
+{
+  "id": "galaxy-formation-and-morphology",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Galaxy formation and morphology",
+    "et": "Galaktikate teke ja morfoloogia",
+    "sourceHash": "52020807eb035b4b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Galaxies form hierarchically: small dark-matter clumps, seeded by the density fluctuations of cosmological perturbation theory, collapse first and then merge repeatedly over cosmic time into ever-larger dark-matter halos, each of which pulls in ordinary gas that cools, sinks to the halo's center, and condenses into stars, so that a galaxy's present-day appearance -- classified along Edwin Hubble's tuning-fork scheme into rotation-supported spiral disks still actively forming stars versus pressure-supported elliptical galaxies with old stellar populations and little ongoing star formation -- is a direct record of its particular merger and gas-accretion history, with major mergers between comparable-mass galaxies widely understood as the dominant mechanism that destroys orderly spiral disks and rearranges their stars into the smooth, randomly-orbiting structure of an elliptical galaxy.",
+    "et": "Galaktikad tekivad hierarhiliselt: väikesed tumeaine tükid, mille on külvanud kosmoloogilise häiritusete teooria tihedusfluktuatsioonid, varisevad kokku esimesena ning ühinevad seejärel korduvalt kosmilise aja jooksul üha suuremateks tumeaine haloks, millest igaüks tõmbab ligi tavalist gaasi, mis jahtub, vajub halo keskmesse ja kondenseerub tähtedeks, nii et galaktika tänane välimus -- klassifitseerituna Edwin Hubble'i häälestushargi skeemi järgi pöörlemistoetatud spiraalketasteks, mis veel aktiivselt tähti moodustavad, versus rõhutoetatud elliptilisteks galaktikateks vanade tähepopulatsioonide ja vähese käimasoleva täheteke'ga -- on otsene jäljend tema konkreetsest ühinemis- ja gaasi akretsiooniloost, kusjuures võrreldava massiga galaktikate suured ühinemised on laialdaselt mõistetud domineeriva mehhanismina, mis hävitab korrapärased spiraalkettad ja korraldab nende tähed ümber elliptilise galaktika sileda, juhuslikult tiirlevaks struktuuriks.",
+    "sourceHash": "5890307cfca81237",
+    "stale": false
+  },
+  "prerequisites": [
+    "dark-matter-and-galactic-structure",
+    "cosmological-perturbation-theory-and-structure-formation"
+  ]
+}
