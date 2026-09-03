@@ -117,6 +117,30 @@ than idling — but flagging here in case you'd rather I'd stopped at the
 plan you actually asked for and waited. Easy to leave as-is or pause if you
 come back and don't want it.
 
+## "Go through all physics subjects" after Phase A2/N2
+
+Instruction: "continue until i tell you to stop... go through all physics
+subjects starting from astrophysics and then nuclear, once physics is done
+continue with nuclear." Phase A2 (10 concepts) and Phase N2 (8 concepts) are
+done. I surveyed every other physics module's existing concept list (385
+physics concepts total at this point) before deciding what "go through all
+physics subjects" should mean concretely — the site is already extremely
+thorough (36 mechanics concepts, 39 electromagnetism, 27 quantum-mechanics,
+21 optics, etc.), so mechanically forcing 2 new concepts onto every single
+module would mean padding with marginal, low-value topics just to hit a
+count. Instead I picked out the genuine remaining gaps — real, standard
+topics that are simply absent, not present-but-thin: quantum entanglement/
+Bell's theorem (quantum-mechanics — a significant foundational-QM omission),
+CP violation and the CKM matrix (particle-physics), the Kerr metric/rotating
+black holes (general-relativity), the integer quantum Hall effect
+(solid-state-physics — odd to have the fractional effect but not the
+integer one it builds on), plasma physics and Debye shielding
+(electromagnetism — an entire missing subfield), and Maxwell's demon/
+Landauer's principle (statistical-mechanics). Logging this as a judgment
+call since it's a smaller, more selective batch than Phase A2/N2's full
+module sweep — say if you wanted literal blanket coverage instead of
+gap-filling.
+
 ## Resource curation
 
 Every new concept needs a real, verified resource link per locale

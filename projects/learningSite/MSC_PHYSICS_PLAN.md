@@ -222,4 +222,25 @@ topics not yet covered.
 - [x] Nuclear medicine (PET, SPECT, radiotherapy dosimetry)
 - [x] Fission product yields and decay chains
 
+## Phase X — Gap-filling across the rest of physics (per "go through all
+## physics subjects", before returning to nuclear again)
+
+Not a full per-module sweep — the site's other modules are already very
+thorough. See `QUESTIONS.md` § "Go through all physics subjects" for the
+reasoning: these are genuine, real gaps (topics entirely absent), not a
+mechanical 2-per-module quota.
+
+- [ ] Quantum entanglement and Bell's theorem (quantum-mechanics)
+- [ ] CP violation and the CKM matrix (particle-physics)
+- [ ] The Kerr metric and rotating black holes (general-relativity)
+- [ ] The integer quantum Hall effect (solid-state-physics)
+- [ ] Plasma physics and Debye shielding (electromagnetism)
+- [ ] Maxwell's demon and Landauer's principle (statistical-mechanics)
+
+## Phase N3 — Nuclear physics, round 3 (after Phase X, per the "continue
+## with nuclear" instruction)
+
+To be scoped once Phase X is done — pick further genuine nuclear-physics
+gaps at that point rather than pre-committing topics now.
+
 ---
