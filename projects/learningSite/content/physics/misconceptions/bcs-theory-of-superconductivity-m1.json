@@ -1,0 +1,10 @@
+{
+  "id": "bcs-theory-of-superconductivity-m1",
+  "conceptId": "bcs-theory-of-superconductivity",
+  "text": {
+    "en": "Believing electrons in a Cooper pair attract each other directly through some modification of the Coulomb force — the direct electron-electron interaction remains repulsive; the net attraction comes indirectly, mediated by the surrounding lattice's distortion (equivalently, virtual phonon exchange), not from any change to the fundamental Coulomb interaction itself.",
+    "et": "Arvamus, et Cooperi paari elektronid tõmbavad üksteist otse ligi mingi Coulombi jõu modifikatsiooni kaudu — otsene elektron-elektron interaktsioon jääb tõukavaks; netotõmme tuleb kaudselt, vahendatuna ümbritseva võre moonutusest (samaväärselt, virtuaalse foononi vahetusest), mitte fundamentaalse Coulombi interaktsiooni enda muutusest.",
+    "sourceHash": "b316a35ee554aa8c",
+    "stale": false
+  }
+}

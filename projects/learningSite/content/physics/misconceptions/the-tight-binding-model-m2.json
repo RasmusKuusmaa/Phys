@@ -1,0 +1,10 @@
+{
+  "id": "the-tight-binding-model-m2",
+  "conceptId": "the-tight-binding-model",
+  "text": {
+    "en": "Believing the width of a tight-binding energy band is set by properties of the original isolated atomic energy level itself — it's set instead by the strength of the orbital overlap between neighbouring atoms, the hopping matrix element, which depends on how close the atoms are and how diffuse their orbitals are, not on the original atomic level's own energy.",
+    "et": "Arvamus, et tugeva seose energiavöö laiuse määravad algse isoleeritud aatomi energiataseme enda omadused — selle määrab hoopis orbitaalide kattumise tugevus naaberaatomite vahel, hüppe maatrikselement, mis sõltub sellest, kui lähestikku aatomid on ja kui hajusad on nende orbitaalid, mitte algse aatomitaseme enda energiast.",
+    "sourceHash": "a622c31d679b6e45",
+    "stale": false
+  }
+}

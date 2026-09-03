@@ -1,0 +1,10 @@
+{
+  "id": "the-tight-binding-model-m1",
+  "conceptId": "the-tight-binding-model",
+  "text": {
+    "en": "Believing an electron in the tight-binding model stays permanently bound to one single atom, with no way to move through the crystal — the whole point of the model is that a small overlap between neighbouring atomic orbitals lets electrons tunnel from atom to atom, which is exactly what turns discrete atomic levels into a continuous, conducting band.",
+    "et": "Arvamus, et tugeva seose mudelis jääb elektron püsivalt seotuks ühe üksiku aatomiga, ilma võimaluseta kristallis liikuda — mudeli kogu mõte on, et väike kattumine naaberaatomite orbitaalide vahel laseb elektronidel aatomilt aatomile tunneleerida, mis on täpselt see, mis muudab diskreetsed aatomitasemed pidevaks, juhtivaks vööks.",
+    "sourceHash": "2ee53c041ed0b3a6",
+    "stale": false
+  }
+}

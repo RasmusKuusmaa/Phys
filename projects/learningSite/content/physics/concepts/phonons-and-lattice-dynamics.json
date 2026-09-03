@@ -1,0 +1,22 @@
+{
+  "id": "phonons-and-lattice-dynamics",
+  "subject": "physics",
+  "level": "L4",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "Phonons and lattice dynamics",
+    "et": "Foononid ja võre dünaamika",
+    "sourceHash": "6000f79357af9a6a",
+    "stale": false
+  },
+  "summary": {
+    "en": "A crystal lattice's atoms vibrate collectively about their equilibrium positions, and just as a quantum harmonic oscillator's energy comes in discrete quanta, the lattice's collective vibrational normal modes are quantized into phonons — quasiparticles that carry a specific energy and crystal momentum and behave, for most practical purposes, like a gas of particles carrying heat and interacting with electrons, even though no actual particle is being created or destroyed.",
+    "et": "Kristallvõre aatomid vibreerivad kollektiivselt ümber oma tasakaaluasukoha, ning täpselt nii nagu kvantharmoonilise võnkuja energia tuleb diskreetsete kvantidena, on võre kollektiivsed vibratsioonilised normaalmoodid kvanditud foononiteks — kvaasiosakesteks, mis kannavad kindlat energiat ja võreimpulssi ning käituvad enamiku praktiliste eesmärkide jaoks nagu soojust kandvate ja elektronidega interakteeruvate osakeste gaas, kuigi ühtegi päris osakest ei looda ega hävitata.",
+    "sourceHash": "883a65f294728da3",
+    "stale": false
+  },
+  "prerequisites": [
+    "crystal-structure-and-lattices",
+    "small-oscillations-and-normal-modes"
+  ]
+}

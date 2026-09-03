@@ -1,0 +1,22 @@
+{
+  "id": "the-tight-binding-model",
+  "subject": "physics",
+  "level": "L4",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "The tight-binding model",
+    "et": "Tugeva seose mudel",
+    "sourceHash": "5ce76f9d70f13c64",
+    "stale": false
+  },
+  "summary": {
+    "en": "The tight-binding model builds a solid's electronic band structure from the opposite starting point to the free-electron model: instead of nearly-free electrons weakly perturbed by the lattice, it starts from electrons tightly bound to individual atoms and lets them tunnel to neighbouring atoms, showing that this small overlap alone is enough to broaden each atom's sharp, discrete energy level into a continuous band, with the band's width set directly by how strongly neighbouring atomic orbitals overlap.",
+    "et": "Tugeva seose mudel ehitab tahkise elektronvöödistruktuuri vastandlikust lähtepunktist võrreldes vabade elektronide mudeliga: selle asemel, et alustada peaaegu vabadest elektronidest, mida võre nõrgalt häirib, alustab see üksikute aatomitega tugevalt seotud elektronidest ja laseb neil tunneleerida naaberaatomitele, näidates, et see väike kattumine üksi piisab, et laiendada iga aatomi terav, diskreetne energiatase pidevaks vööks, mille laiuse määrab otse see, kui tugevalt naaberaatomite orbitaalid kattuvad.",
+    "sourceHash": "e959130c1d3ffd55",
+    "stale": false
+  },
+  "prerequisites": [
+    "band-theory-of-solids",
+    "quantum-tunneling"
+  ]
+}

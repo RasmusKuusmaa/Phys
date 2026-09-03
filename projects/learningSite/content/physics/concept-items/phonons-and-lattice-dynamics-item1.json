@@ -1,0 +1,56 @@
+{
+  "id": "phonons-and-lattice-dynamics-item1",
+  "conceptId": "phonons-and-lattice-dynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does a single phonon actually represent in a crystal lattice?",
+    "et": "Mida üksik foonon kristallvõres tegelikult tähistab?",
+    "sourceHash": "83a6ead17bc02b9d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "One quantum of energy in a specific collective vibrational normal mode of the whole lattice, characterized by a wavevector and frequency.",
+        "et": "Ühte energiakvanti kogu võre konkreetses kollektiivses vibratsioonilises normaalmoodis, iseloomustatuna lainevektori ja sagedusega.",
+        "sourceHash": "41be7c264bfa1cf7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A single, real particle physically located at one specific atom's position in the crystal.",
+        "et": "Üksikut, päris osakest, mis on füüsiliselt paiknenud ühe kindla aatomi asukohas kristallis.",
+        "sourceHash": "86d0566bd015666b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phonons-and-lattice-dynamics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A purely mathematical convenience with no measurable physical consequence for the crystal's properties.",
+        "et": "Puhtalt matemaatilist mugavust ilma mõõdetava füüsikalise tagajärjeta kristalli omadustele.",
+        "sourceHash": "f408858fde1be7cc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phonons-and-lattice-dynamics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The independent vibration of one single atom, unrelated to how its neighbouring atoms are moving.",
+        "et": "Ühe üksiku aatomi sõltumatut vibratsiooni, mitteseotud sellega, kuidas selle naaberaatomid liiguvad.",
+        "sourceHash": "5db14a6456281415",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phonons-and-lattice-dynamics-m3"
+    }
+  ]
+}

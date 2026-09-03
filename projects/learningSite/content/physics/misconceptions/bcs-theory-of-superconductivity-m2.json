@@ -1,0 +1,10 @@
+{
+  "id": "bcs-theory-of-superconductivity-m2",
+  "conceptId": "bcs-theory-of-superconductivity",
+  "text": {
+    "en": "Believing individual electrons, like Cooper pairs, can also condense in unlimited numbers into the same ground state — individual electrons are fermions, barred by the Pauli exclusion principle from sharing a state; it's specifically the paired, composite-boson nature of Cooper pairs that permits the collective condensation individual electrons cannot undergo.",
+    "et": "Arvamus, et üksikud elektronid, nagu Cooperi paarid, saavad samuti piiramatul arvul kondenseeruda samasse põhiolekusse — üksikud elektronid on fermionid, millel Pauli keeluprintsiip keelab oleku jagamise; just Cooperi paaride paardunud, liitbosoni olemus lubab kollektiivset kondensatsiooni, mida üksikud elektronid läbida ei saa.",
+    "sourceHash": "c17637578a8c18b0",
+    "stale": false
+  }
+}

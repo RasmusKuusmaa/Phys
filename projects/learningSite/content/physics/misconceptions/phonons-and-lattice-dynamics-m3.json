@@ -1,0 +1,10 @@
+{
+  "id": "phonons-and-lattice-dynamics-m3",
+  "conceptId": "phonons-and-lattice-dynamics",
+  "text": {
+    "en": "Believing atoms in a crystal lattice vibrate independently of each other, each with its own separate frequency unrelated to its neighbours — the atoms are coupled together, so the actual normal modes are collective vibrations of the whole lattice, characterized by a wavevector, not independent single-atom oscillations.",
+    "et": "Arvamus, et kristallvõre aatomid vibreerivad üksteisest sõltumatult, igaüks oma eraldi sagedusega, mitteseotud oma naabritega — aatomid on omavahel seotud, nii et tegelikud normaalmoodid on kogu võre kollektiivsed vibratsioonid, iseloomustatud lainevektoriga, mitte sõltumatud üksikaatomi võnkumised.",
+    "sourceHash": "d1e305b2264f59b8",
+    "stale": false
+  }
+}

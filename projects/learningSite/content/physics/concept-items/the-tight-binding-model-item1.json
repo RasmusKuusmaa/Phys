@@ -1,0 +1,56 @@
+{
+  "id": "the-tight-binding-model-item1",
+  "conceptId": "the-tight-binding-model",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In the tight-binding model, what determines the width of the energy band formed from a given atomic orbital?",
+    "et": "Mis määrab tugeva seose mudelis antud aatomiorbitaalist moodustunud energiavöö laiuse?",
+    "sourceHash": "927be7d2cd01e5de",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The strength of the orbital overlap (the hopping matrix element) between neighbouring atoms.",
+        "et": "Orbitaalide kattumise tugevus (hüppe maatrikselement) naaberaatomite vahel.",
+        "sourceHash": "e829225dc883f631",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing — electrons stay bound to their own atom, so no real band forms at all in this model.",
+        "et": "Mitte miski — elektronid jäävad seotuks oma aatomiga, nii et selles mudelis ei moodustu üldse tõelist vööd.",
+        "sourceHash": "52424ad813dff151",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-tight-binding-model-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The original isolated atom's energy level value alone, independent of how the atoms are arranged in the lattice.",
+        "et": "Ainult algse isoleeritud aatomi energiataseme väärtus, sõltumatult sellest, kuidas aatomid võres paiknevad.",
+        "sourceHash": "6fae92599752fdc8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-tight-binding-model-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It can't be determined from the tight-binding model, since that model directly contradicts the free-electron picture of bands.",
+        "et": "Seda ei saa tugeva seose mudelist määrata, kuna see mudel on otseses vastuolus vööde vabade elektronide pildiga.",
+        "sourceHash": "fb1de95e871354ca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-tight-binding-model-m3"
+    }
+  ]
+}

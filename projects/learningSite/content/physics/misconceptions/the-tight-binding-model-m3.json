@@ -1,0 +1,10 @@
+{
+  "id": "the-tight-binding-model-m3",
+  "conceptId": "the-tight-binding-model",
+  "text": {
+    "en": "Believing the tight-binding model and the free-electron model are contradictory, with only one of them able to be correct — they are complementary approaches starting from opposite limits (localized vs. nearly-free electrons) that both correctly produce a band structure; which is more useful and accurate depends on the specific material being described.",
+    "et": "Arvamus, et tugeva seose mudel ja vabade elektronide mudel on vastuolulised, kusjuures ainult üks neist saab olla õige — need on täiendavad lähenemised, mis alustavad vastandlikest piirjuhtudest (lokaliseeritud vs. peaaegu vabad elektronid) ja mõlemad annavad õigesti vöödistruktuuri; kumb on kasulikum ja täpsem, sõltub konkreetsest kirjeldatavast materjalist.",
+    "sourceHash": "05f4d0acb653a4a5",
+    "stale": false
+  }
+}

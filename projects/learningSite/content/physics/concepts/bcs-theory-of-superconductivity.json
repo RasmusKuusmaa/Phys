@@ -1,0 +1,23 @@
+{
+  "id": "bcs-theory-of-superconductivity",
+  "subject": "physics",
+  "level": "L4",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "BCS theory of superconductivity",
+    "et": "BCS ülijuhtivuse teooria",
+    "sourceHash": "e0cce7af3bdd8373",
+    "stale": false
+  },
+  "summary": {
+    "en": "Conventional superconductivity is explained microscopically by BCS theory: electrons, which repel each other directly, experience a weak net attraction mediated by the lattice — one electron distorts the lattice slightly, and a second electron is attracted to that distortion before it relaxes away — pairing up into Cooper pairs that, unlike individual electrons, behave as bosons and can all condense into the same collective ground state, carrying current with zero resistance.",
+    "et": "Tavalist ülijuhtivust seletab mikroskoopiliselt BCS teooria: elektronid, mis üksteist otse tõukavad, kogevad nõrka netotõmmet, mida vahendab võre — üks elektron moonutab võret veidi ja teine elektron tõmmatakse selle moonutuse poole, enne kui see taandub — paardudes Cooperi paarideks, mis erinevalt üksikutest elektronidest käituvad bosonitena ja saavad kõik kondenseeruda samasse kollektiivsesse põhiolekusse, kandes voolu nulltakistusega.",
+    "sourceHash": "f138cb9880d0aaa0",
+    "stale": false
+  },
+  "prerequisites": [
+    "superconductivity",
+    "phonons-and-lattice-dynamics",
+    "identical-particles-and-the-symmetrization-postulate"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "bcs-theory-of-superconductivity-m3",
+  "conceptId": "bcs-theory-of-superconductivity",
+  "text": {
+    "en": "Believing BCS theory fully explains every known superconductor, with nothing left unresolved — it correctly explains conventional, phonon-mediated (low-temperature) superconductivity, but the pairing mechanism in some higher-temperature superconductors is not fully understood and isn't simply the same BCS phonon mechanism, an active area of ongoing research.",
+    "et": "Arvamus, et BCS teooria seletab täielikult iga teadaolevat ülijuhti, ilma millegi lahtiseks jäämiseta — see seletab õigesti tavalist, foononivahendatud (madala temperatuuri) ülijuhtivust, kuid mõne kõrgema temperatuuriga ülijuhi paarumismehhanism ei ole täielikult mõistetud ega ole lihtsalt sama BCS foononimehhanism, aktiivne käimasoleva uurimistöö valdkond.",
+    "sourceHash": "3fa0061fda6d4845",
+    "stale": false
+  }
+}

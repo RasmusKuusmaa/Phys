@@ -1,0 +1,56 @@
+{
+  "id": "bcs-theory-of-superconductivity-item1",
+  "conceptId": "bcs-theory-of-superconductivity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the actual physical mechanism that lets two electrons in a conventional superconductor experience a net attraction, forming a Cooper pair?",
+    "et": "Milline on tegelik füüsikaline mehhanism, mis laseb kahel elektronil tavalises ülijuhis kogeda netotõmmet, moodustades Cooperi paari?",
+    "sourceHash": "465d0629c663587d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An indirect attraction mediated by the surrounding lattice's distortion (equivalently, virtual phonon exchange), even though their direct Coulomb interaction stays repulsive.",
+        "et": "Kaudne tõmme, vahendatud ümbritseva võre moonutusest (samaväärselt, virtuaalsest foononi vahetusest), kuigi nende otsene Coulombi interaktsioon jääb tõukavaks.",
+        "sourceHash": "01b49b80fa6fd03a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A direct modification of the Coulomb force between the two electrons themselves, making it attractive instead of repulsive.",
+        "et": "Otsene Coulombi jõu modifikatsioon kahe elektroni enda vahel, muutes selle tõukava asemel tõmbavaks.",
+        "sourceHash": "650324a1988efe53",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bcs-theory-of-superconductivity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The same mechanism that lets any number of individual electrons condense directly into one shared ground state.",
+        "et": "Sama mehhanism, mis laseb suvalisel arvul üksikuid elektrone kondenseeruda otse ühte jagatud põhiolekusse.",
+        "sourceHash": "2f1851c55f68c866",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bcs-theory-of-superconductivity-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A fully solved, universal mechanism that BCS theory shows applies identically to every known superconductor without exception.",
+        "et": "Täielikult lahendatud, universaalne mehhanism, mille BCS teooria näitab kehtivat identselt igale teadaolevale ülijuhile ilma eranditeta.",
+        "sourceHash": "8751811969eeee69",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bcs-theory-of-superconductivity-m3"
+    }
+  ]
+}

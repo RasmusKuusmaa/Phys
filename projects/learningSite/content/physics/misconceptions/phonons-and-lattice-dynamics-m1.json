@@ -1,0 +1,10 @@
+{
+  "id": "phonons-and-lattice-dynamics-m1",
+  "conceptId": "phonons-and-lattice-dynamics",
+  "text": {
+    "en": "Believing a phonon is a real, localized particle physically sitting at some specific point in the crystal — it's a quantum of a collective lattice vibration spread across the whole crystal, described by a wavevector and energy, not a localized object with a position the way an atom is.",
+    "et": "Arvamus, et foonon on päris, lokaliseeritud osake, mis füüsiliselt istub mingis kindlas punktis kristallis — see on kollektiivse võrevibratsiooni kvant, mis on levinud üle kogu kristalli, kirjeldatud lainevektori ja energiaga, mitte lokaliseeritud objekt asukohaga nii nagu aatomil.",
+    "sourceHash": "e8f14ea2a6e28229",
+    "stale": false
+  }
+}
