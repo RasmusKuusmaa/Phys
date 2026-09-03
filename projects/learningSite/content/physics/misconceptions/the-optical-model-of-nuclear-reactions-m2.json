@@ -1,0 +1,10 @@
+{
+  "id": "the-optical-model-of-nuclear-reactions-m2",
+  "conceptId": "the-optical-model-of-nuclear-reactions",
+  "text": {
+    "en": "Believing the optical model's imaginary potential component is a mathematical trick with no physical meaning, added only to make the equations solvable -- the imaginary part has a direct, specific physical interpretation: it represents the rate at which particles are genuinely removed from the elastic-scattering channel into every other open reaction channel (compound-nucleus formation, inelastic scattering, particle transfer, and so on), in exact mathematical analogy to how an ordinary absorption coefficient in optics describes photons being genuinely removed from a transmitted light beam by absorption; without this imaginary part, the model could only describe pure elastic scattering with no loss to other reaction channels at all.",
+    "et": "Arvamus, et optilise mudeli kujuteldav potentsiaalikomponent on matemaatiline nipp ilma füüsikalise tähenduseta, lisatud ainult võrrandite lahenduvaks muutmiseks -- kujuteldaval osal on otsene, spetsiifiline füüsikaline tõlgendus: see esindab kiirust, millega osakesed tõeliselt eemaldatakse elastse hajumise kanalist igasse teise avatud reaktsioonikanalisse (ühendtuuma moodustumine, mitteelastne hajumine, osakeste ülekanne ja nii edasi), täpses matemaatilises analoogias sellega, kuidas tavaline neeldumiskoefitsient optikas kirjeldab footoneid, mis on tõeliselt eemaldatud läbitud valguskiirest neeldumise tõttu; ilma selle kujuteldava osata suudaks mudel kirjeldada ainult puhast elastset hajumist ilma mistahes kaoga teistesse reaktsioonikanalitesse.",
+    "sourceHash": "e809e79ddcf822a9",
+    "stale": false
+  }
+}

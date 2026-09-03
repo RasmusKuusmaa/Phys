@@ -1,0 +1,21 @@
+{
+  "id": "the-optical-model-of-nuclear-reactions",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "The optical model of nuclear reactions",
+    "et": "Tuumareaktsioonide optiline mudel",
+    "sourceHash": "68125b552525d4f7",
+    "stale": false
+  },
+  "summary": {
+    "en": "The compound nucleus model, which treats every incoming particle as fully absorbed into a long-lived, thoroughly mixed intermediate state before anything is re-emitted, describes many nuclear reactions well but fails badly for the substantial fraction of incident particles that instead scatter off the nucleus directly and elastically without ever forming a compound state at all, a gap filled by the optical model, which represents the entire complicated many-body nucleus as a single, smoothly-varying effective potential well for the incoming particle to move through -- deliberately borrowing its mathematics directly from how a partially absorbing, refracting optical medium like cloudy glass scatters and attenuates light, complete with a complex-valued potential whose imaginary part accounts for particles being removed from the elastic channel into every other possible reaction exactly the way an absorption coefficient removes photons from a transmitted light beam -- and the two models are not competitors but a genuine division of labour, together spanning the full range of nuclear reaction behavior from direct, fast elastic scattering to slow, fully equilibrated compound-nucleus decay.",
+    "et": "Ühendtuuma mudel, mis käsitleb iga sissetulevat osakest täielikult neeldununa pikaealisse, põhjalikult segunenud vaheolekusse enne mistahes uuesti kiirgamist, kirjeldab paljusid tuumareaktsioone hästi, kuid ebaõnnestub tõsiselt märkimisväärse osa sissetulevate osakeste jaoks, mis selle asemel hajuvad tuumalt otse ja elastselt, ilma et üldse tekiks ühendolekut, lünk, mille täidab optiline mudel, mis kujutab kogu keerulise mitmekehalise tuuma ühe, sujuvalt muutuva efektiivse potentsiaaliaugu kujul, mille kaudu sissetulev osake liigub -- laenates tahtlikult oma matemaatika otse sellest, kuidas osaliselt neelav, murdev optiline keskkond, nagu hägune klaas, hajutab ja nõrgendab valgust, koos kompleksväärtusega potentsiaaliga, mille kujuteldav osa arvestab osakeste eemaldamisega elastsest kanalist igasse teise võimalikku reaktsiooni täpselt nii, nagu neeldumiskoefitsient eemaldab footoneid läbitud valguskiirest -- ning kaks mudelit ei ole konkurendid, vaid tõeline tööjaotus, hõlmates koos kogu tuumareaktsiooni käitumise vahemikku kiirest, otsesest elastsest hajumisest kuni aeglase, täielikult tasakaalustunud ühendtuuma lagunemiseni.",
+    "sourceHash": "4ac46855eb1bbe93",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-reaction-cross-sections-and-the-compound-nucleus-model"
+  ]
+}

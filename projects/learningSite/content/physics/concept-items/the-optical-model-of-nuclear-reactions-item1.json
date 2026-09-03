@@ -1,0 +1,56 @@
+{
+  "id": "the-optical-model-of-nuclear-reactions-item1",
+  "conceptId": "the-optical-model-of-nuclear-reactions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the physical meaning of the imaginary part of the optical model's complex nuclear potential?",
+    "et": "Mis on optilise mudeli kompleksse tuumapotentsiaali kujuteldava osa füüsikaline tähendus?",
+    "sourceHash": "23a0e69c53c1392f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It represents the rate at which particles are genuinely removed from the elastic channel into every other open reaction channel, analogous to an optical absorption coefficient.",
+        "et": "See esindab kiirust, millega osakesed tõeliselt eemaldatakse elastsest kanalist igasse teise avatud reaktsioonikanalisse, analoogselt optilise neeldumiskoefitsiendiga.",
+        "sourceHash": "f751d9011087838c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is purely a mathematical convenience with no physical interpretation, needed only to make the equations solvable.",
+        "et": "See on puhtalt matemaatiline mugavus ilma füüsikalise tõlgenduseta, vajalik ainult võrrandite lahenduvaks muutmiseks.",
+        "sourceHash": "52b330b6f4e7a310",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-optical-model-of-nuclear-reactions-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It tracks the detailed motion of each individual nucleon inside the target nucleus as the incoming particle passes through.",
+        "et": "See jälgib iga üksiku nukloni üksikasjalikku liikumist sihtmärgi tuuma sees, kui sissetulev osake sellest läbi liigub.",
+        "sourceHash": "f5f289329adae3cc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-optical-model-of-nuclear-reactions-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It directly contradicts the compound nucleus model's predictions, meaning at most one of the two models can be physically correct for a given reaction.",
+        "et": "See on otseses vastuolus ühendtuuma mudeli ennustustega, mis tähendab, et antud reaktsiooni jaoks saab füüsikaliselt õige olla ülimalt üks kahest mudelist.",
+        "sourceHash": "2873c4ebdc451306",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-optical-model-of-nuclear-reactions-m1"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "the-optical-model-of-nuclear-reactions-m1",
+  "conceptId": "the-optical-model-of-nuclear-reactions",
+  "text": {
+    "en": "Believing the optical model and the compound nucleus model are rival theories competing to describe the same reaction mechanism, so that confirming one should mean rejecting the other -- the two models actually describe genuinely different physical mechanisms operating in the same reaction, in different proportions depending on the projectile energy and the specific nucleus: the compound nucleus model describes the fraction of incident particles fully absorbed into a long-lived, equilibrated intermediate state, while the optical model describes the separate fraction that scatters directly and elastically without ever forming that compound state; a full description of most nuclear reactions genuinely needs both mechanisms together, not a choice between them.",
+    "et": "Arvamus, et optiline mudel ja ühendtuuma mudel on rivaalitsevad teooriad, mis võistlevad sama reaktsioonimehhanismi kirjeldamise nimel, nii et ühe kinnitamine peaks tähendama teise tagasilükkamist -- kaks mudelit kirjeldavad tegelikult tõeliselt erinevaid füüsikalisi mehhanisme, mis toimivad samas reaktsioonis, erinevates proportsioonides olenevalt projektiili energiast ja konkreetsest tuumast: ühendtuuma mudel kirjeldab osa sissetulevatest osakestest, mis neelduvad täielikult pikaealisse, tasakaalustunud vaheolekusse, samal ajal kui optiline mudel kirjeldab eraldi osa, mis hajub otse ja elastselt, ilma et üldse tekiks see ühendolek; enamiku tuumareaktsioonide täielik kirjeldus vajab tõeliselt mõlemat mehhanismi koos, mitte valikut nende vahel.",
+    "sourceHash": "822b8b8821349c21",
+    "stale": false
+  }
+}

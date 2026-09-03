@@ -1,0 +1,10 @@
+{
+  "id": "the-optical-model-of-nuclear-reactions-m3",
+  "conceptId": "the-optical-model-of-nuclear-reactions",
+  "text": {
+    "en": "Believing the optical model treats the nucleus's many individual nucleons explicitly, tracking each one's motion the way a detailed many-body calculation would -- the model's entire simplifying strategy is the opposite: it deliberately replaces the complicated many-body nucleus with one smoothly-varying effective potential well that the incoming particle moves through as if it were a single particle in an external field, discarding almost all of the individual-nucleon detail in favour of a small number of overall potential parameters (depth, radius, diffuseness, absorption strength) fit to reproduce observed scattering data, trading microscopic detail for a tractable, broadly applicable macroscopic description.",
+    "et": "Arvamus, et optiline mudel käsitleb tuuma paljusid üksikuid nukloone otseselt, jälgides iga nende liikumist samamoodi nagu üksikasjalik mitmekehaline arvutus teeks -- mudeli kogu lihtsustav strateegia on vastupidine: see asendab tahtlikult keeruka mitmekehalise tuuma ühe sujuvalt muutuva efektiivse potentsiaaliauguga, mille kaudu sissetulev osake liigub nii, nagu oleks see üksik osake välisväljas, loobudes peaaegu kogu üksiku nukloni detailist väikese arvu üldiste potentsiaaliparameetrite (sügavus, raadius, hajusus, neeldumistugevus) kasuks, mis on sobitatud vaadeldud hajumisandmete reprodutseerimiseks, vahetades mikroskoopilise detaili hallatava, laialdaselt rakendatava makroskoopilise kirjelduse vastu.",
+    "sourceHash": "e6608dcc1a859b1b",
+    "stale": false
+  }
+}
