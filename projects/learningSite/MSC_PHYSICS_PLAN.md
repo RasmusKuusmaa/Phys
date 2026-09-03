@@ -151,15 +151,15 @@ Existing: atoms-and-the-nucleus, nuclear-binding-energy, nuclear-fission-
 and-fusion, nuclear-reactions-and-threshold-energy, nuclear-shell-model,
 radioactive-decay-modes (+ radioactivity-and-half-life in measurement).
 
-- [ ] The liquid-drop model and the semi-empirical mass formula in depth
-- [ ] Nuclear reaction cross-sections and the compound nucleus model
-- [ ] Beta decay theory and the weak interaction (Fermi's golden rule
+- [x] The liquid-drop model and the semi-empirical mass formula in depth
+- [x] Nuclear reaction cross-sections and the compound nucleus model
+- [x] Beta decay theory and the weak interaction (Fermi's golden rule
       applied to nuclear beta decay)
-- [ ] Nuclear magnetic resonance and nuclear spin
-- [ ] Fission reactor physics (criticality, neutron moderation, control)
-- [ ] Fusion reactor physics (Lawson criterion, confinement approaches)
-- [ ] Nuclear astrophysics reaction rates (Gamow peak — bridges to Phase A)
-- [ ] Particle accelerators and detectors (beyond the existing
+- [x] Nuclear magnetic resonance and nuclear spin
+- [x] Fission reactor physics (criticality, neutron moderation, control)
+- [x] Fusion reactor physics (Lawson criterion, confinement approaches)
+- [x] Nuclear astrophysics reaction rates (Gamow peak — bridges to Phase A)
+- [x] Particle accelerators and detectors (beyond the existing
       mass-spectrometry/cyclotron concept — synchrotrons, collider physics)
 
 ---
