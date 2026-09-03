@@ -1,0 +1,22 @@
+{
+  "id": "the-eddington-luminosity-limit",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "The Eddington luminosity limit",
+    "et": "Eddingtoni heleduse piir",
+    "sourceHash": "21e6a7c809c182b4",
+    "stale": false
+  },
+  "summary": {
+    "en": "A luminous object -- a star or an accreting compact object -- pushes outward on the surrounding ionized gas via radiation pressure, exerted mainly through photons scattering off free electrons, and once the object's luminosity grows large enough that this outward radiation force on the gas exceeds the inward pull of gravity on it, the gas is blown away rather than held in equilibrium, defining a maximum steady-state luminosity called the Eddington limit that depends on nothing but the object's mass, so that any object radiating persistently near or above this limit -- whether a hypergiant star shedding mass in violent outbursts or a black hole accreting matter at its theoretical maximum steady rate -- is being regulated by exactly this same balance between outward radiation pressure and inward gravity, not by an ad hoc astrophysical coincidence.",
+    "et": "Hele objekt -- täht või akreteeriv kompaktne objekt -- lükkab ümbritsevat ioniseeritud gaasi väljapoole kiirgusrõhu kaudu, mida avaldatakse peamiselt footonite hajumise kaudu vabadel elektronidel, ning kui objekti heledus kasvab piisavalt suureks, et see väljapoole suunatud kiirgusjõud gaasile ületab gravitatsiooni sissepoole suunatud tõmbe sellele, puhutakse gaas minema, selle asemel et püsida tasakaalus, mis määrab maksimaalse statsionaarse heleduse nimega Eddingtoni piir, mis ei sõltu millestki muust peale objekti massi, nii et iga objekt, mis kiirgab püsivalt selle piiri lähedal või kõrgemal -- olgu see hüperhiiglane, mis kaotab massi vägivaldsetes puhangutes, või must auk, mis akreteerib ainet oma teoreetilise maksimaalse statsionaarse kiirusega -- allub täpselt samale tasakaalule väljapoole suunatud kiirgusrõhu ja sissepoole suunatud gravitatsiooni vahel, mitte juhuslikule astrofüüsikalisele kokkusattumusele.",
+    "sourceHash": "d7a8bc3777588083",
+    "stale": false
+  },
+  "prerequisites": [
+    "stellar-structure-equations",
+    "accretion-disks-and-active-galactic-nuclei"
+  ]
+}

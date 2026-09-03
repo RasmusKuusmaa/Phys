@@ -1,0 +1,55 @@
+{
+  "id": "the-eddington-luminosity-limit-item1",
+  "conceptId": "the-eddington-luminosity-limit",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the standard Eddington luminosity limit depend only on an object's mass, and not on its radius or physical size?",
+    "et": "Miks sõltub standardne Eddingtoni heleduse piir ainult objekti massist, mitte tema raadiusest või füüsilisest suurusest?",
+    "sourceHash": "0e73787596d12aa8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both the outward radiation force and the inward gravitational force follow an inverse-square law with distance, so the radius-dependence cancels out of their balance, leaving only mass.",
+        "et": "Nii väljapoole suunatud kiirgusjõud kui sissepoole suunatud gravitatsioonijõud järgivad kaugusega pöördruutseadust, seega taandub raadiusest sõltuvus nende tasakaalust välja, jättes alles ainult massi.",
+        "sourceHash": "2f9f604445a39bc4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Radius genuinely does matter, but astronomers conventionally ignore it in the standard formula for the sake of simplicity.",
+        "et": "Raadius on tegelikult oluline, kuid astronoomid ignoreerivad seda standardses valemis tavapäraselt lihtsuse huvides.",
+        "sourceHash": "1cccda6ca3616482",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-eddington-luminosity-limit-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "There is no actual physical limit on luminosity at all, so the formula's mass-dependence is simply an arbitrary convention rather than a derived result.",
+        "et": "Heledusele ei ole tegelikult üldse füüsikalist piiri, seega on valemi massisõltuvus lihtsalt suvaline kokkulepe, mitte tuletatud tulemus.",
+        "sourceHash": "399ecc174ada2b9f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-eddington-luminosity-limit-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Radius matters enormously, and the standard formula actually already includes it as a hidden multiplicative factor that happens to look mass-only.",
+        "et": "Raadius on äärmiselt oluline ja standardne valem sisaldab seda tegelikult juba peidetud korrutava tegurina, mis lihtsalt näib ainult massist sõltuvat.",
+        "sourceHash": "7701086e6c05ed73",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

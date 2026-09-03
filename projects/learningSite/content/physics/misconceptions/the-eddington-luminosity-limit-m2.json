@@ -1,0 +1,10 @@
+{
+  "id": "the-eddington-luminosity-limit-m2",
+  "conceptId": "the-eddington-luminosity-limit",
+  "text": {
+    "en": "Believing the Eddington limit depends on an object's radius, composition, or internal structure, not just its mass -- in the standard derivation (spherical symmetry, fully ionized hydrogen gas, opacity dominated by electron scattering), the object's radius cancels out of the balance between the inverse-square-law radiation force and the inverse-square-law gravitational force, leaving a limit that depends only on the object's mass; this is precisely why the same formula applies, in the same simple form, to objects as different in size as a hypergiant star and an accreting black hole.",
+    "et": "Arvamus, et Eddingtoni piir sõltub objekti raadiusest, koostisest või sisemisest struktuurist, mitte ainult tema massist -- standardses tuletuses (sfääriline sümmeetria, täielikult ioniseeritud vesinikgaas, elektronhajumise domineeritud opaatsus) taandub objekti raadius pöördruutseadusliku kiirgusjõu ja pöördruutseadusliku gravitatsioonijõu tasakaalust välja, jättes alles piiri, mis sõltub ainult objekti massist; just seepärast kehtib sama valem samas lihtsas kujus objektide jaoks, mis on suuruselt sama erinevad kui hüperhiiglane täht ja akreteeriv must auk.",
+    "sourceHash": "0657143e4fbc81f4",
+    "stale": false
+  }
+}

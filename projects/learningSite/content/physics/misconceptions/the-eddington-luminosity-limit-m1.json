@@ -1,0 +1,10 @@
+{
+  "id": "the-eddington-luminosity-limit-m1",
+  "conceptId": "the-eddington-luminosity-limit",
+  "text": {
+    "en": "Believing an object's luminosity can increase without any physical limit as long as enough fuel or infalling matter is available -- radiation itself carries momentum and exerts an outward force (radiation pressure) on the surrounding ionized gas, primarily via electron scattering, and once luminosity grows large enough that this outward force on the gas exceeds gravity's inward pull, the gas is driven away rather than accreted or held in place, capping how much luminosity a stable, gas-confined object of a given mass can sustain; the Eddington limit is a genuine ceiling arising directly from this radiation-pressure-versus-gravity balance, not merely an empirical trend.",
+    "et": "Arvamus, et objekti heledus võib kasvada ilma füüsikalise piiranguta seni, kuni piisavalt kütust või sisselangevat ainet on saadaval -- kiirgus ise kannab impulssi ja avaldab ümbritsevale ioniseeritud gaasile väljapoole suunatud jõudu (kiirgusrõhk), peamiselt elektronide hajumise kaudu, ning kui heledus kasvab piisavalt suureks, et see väljapoole suunatud jõud gaasile ületab gravitatsiooni sissepoole tõmbe, surutakse gaas minema, selle asemel et see akreteeruks või paigal püsiks, piirates seega, kui suurt heledust suudab antud massiga stabiilne, gaasiga piiratud objekt üleval hoida; Eddingtoni piir on tõeline lagi, mis tuleneb otseselt sellest kiirgusrõhu ja gravitatsiooni tasakaalust, mitte lihtsalt empiiriline trend.",
+    "sourceHash": "663fdb6045209cbd",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "the-eddington-luminosity-limit-m3",
+  "conceptId": "the-eddington-luminosity-limit",
+  "text": {
+    "en": "Believing an object radiating above its formal Eddington limit is a physical impossibility that simply cannot happen -- the limit strictly applies to a steady, spherically symmetric, gas-confined equilibrium; real astrophysical objects can and do exceed it, briefly or in non-spherical geometry (radiation escaping preferentially along lower-opacity channels, transient violent outbursts that eject mass rather than settling into equilibrium), which is exactly why highly luminous variable hypergiants near the Eddington limit are observed undergoing dramatic eruptive mass-loss episodes rather than sitting in placid, stable equilibrium.",
+    "et": "Arvamus, et objekt, mis kiirgab kõrgemal oma formaalsest Eddingtoni piirist, on füüsikaline võimatus, mis lihtsalt ei saa juhtuda -- piir kehtib rangelt statsionaarse, sfääriliselt sümmeetrilise, gaasiga piiratud tasakaalu kohta; reaalsed astrofüüsikalised objektid võivad ja ületavad seda, kas põgusalt või mitte-sfäärilises geomeetrias (kiirgus pääseb eelistatult madalama opaatsusega kanalite kaudu, üleminekulised vägivaldsed puhangud, mis paiskavad massi minema, selle asemel et tasakaalu asetuda), mis on täpselt see, miks väga heledaid muutlikke hüperhiiglasi Eddingtoni piiri lähedal on vaadeldud läbimas dramaatilisi purskavaid massikao episoode, mitte istumas rahulikus, stabiilses tasakaalus.",
+    "sourceHash": "73c3a4183985a805",
+    "stale": false
+  }
+}
