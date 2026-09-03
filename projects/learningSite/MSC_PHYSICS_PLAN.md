@@ -342,9 +342,28 @@ solid-state BCS concept), and exotic decay modes beyond alpha/beta/gamma
 (cluster and proton radioactivity) are genuine, standard-textbook gaps not
 covered by the existing set.
 
-- [ ] Halo nuclei and the neutron/proton drip lines
-- [ ] The giant dipole resonance and photonuclear reactions
-- [ ] Nuclear pairing and superfluidity
-- [ ] Cluster radioactivity and proton emission
+- [x] Halo nuclei and the neutron/proton drip lines
+- [x] The giant dipole resonance and photonuclear reactions
+- [x] Nuclear pairing and superfluidity
+- [x] Cluster radioactivity and proton emission
+
+Phase N4 complete: 29 nuclear-physics concepts. Per the established
+astro → nuclear → rest-of-physics cycle, next is a genuine-gap sweep of the
+rest of physics (mechanics, electromagnetism, quantum mechanics,
+thermodynamics, statistical mechanics, solid-state, particle physics,
+optics, waves, fluid mechanics, special relativity, general relativity) —
+most of these modules are already very deep (see the per-module concept
+counts surveyed at the start of this session: 40 EM, 37 mechanics,
+28 QM, 22 optics, 16 thermo, 16 stat-mech, 14 solid-state, 12 waves,
+11 particle, 9 special-relativity, 9 fluid-mechanics, 8 GR), so this phase
+targets real absent topics, not a per-module quota, same method as Phase X.
+
+## Phase X3 — more gap-filling across the rest of physics (continuing the
+## astro → nuclear → rest-of-physics → nuclear cycle)
+
+- [ ] A genuine gap in quantum mechanics (to be picked)
+- [ ] A genuine gap in solid-state physics (to be picked)
+- [ ] A genuine gap in fluid mechanics (to be picked)
+- [ ] A genuine gap in particle physics (to be picked)
 
 ---
