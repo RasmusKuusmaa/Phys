@@ -1,0 +1,35 @@
+Feynman's path integral formulation of ordinary quantum mechanics computes a transition
+amplitude by summing the complex phase exp(iS/hbar) over every possible trajectory a particle
+could take between two points, where S is the classical action of that trajectory — trajectories
+close to the classical path interfere constructively, while wildly different ones tend to cancel,
+recovering classical mechanics as an emergent limit. Quantum field theory generalizes this same
+idea from a single particle's trajectory (a function of one variable, time) to an entire field
+configuration (a function of every point in spacetime): the path integral now sums over every
+possible way the field could be configured throughout all of space and time, weighted by
+exp(iS[field]/hbar), where S is now the action functional of the entire field history. This is
+a genuine conceptual leap, not merely a bigger calculation — it involves integrating over a
+space with infinitely many degrees of freedom (the field's value at every spacetime point)
+rather than the comparatively modest number a particle's trajectory has.
+
+The central computational object built from this integral is the generating functional, which
+packages every correlation function (vacuum expectation values of products of field operators
+at different spacetime points) of the theory into a single object, obtained by adding a source
+term to the action and differentiating the resulting integral with respect to that source.
+Expanding the generating functional perturbatively in the interaction strength produces exactly
+the sum of Feynman diagrams a particle physicist computes with: each diagram represents one term
+in that expansion, propagators arise from the free (non-interacting) part of the path integral,
+and vertices arise directly from the interaction terms in the action, with symmetry factors and
+combinatorial coefficients falling out of the expansion's bookkeeping automatically. The path
+integral is therefore not an alternative to Feynman diagrams that happens to agree with them —
+it is the object the diagrams are systematically derived from, the actual computational
+foundation underneath every scattering amplitude and cross-section calculation.
+
+Despite its enormous practical success, the path integral for interacting quantum field
+theories has never been given a fully rigorous mathematical foundation — a genuine, well-defined
+measure over the infinite-dimensional space of field configurations for an interacting theory
+remains, to this day, an open problem in mathematical physics. In practice, physicists work
+around this through well-tested formal techniques: perturbative expansion order by order,
+analytic continuation to imaginary (Euclidean) time where the integral behaves better, and
+lattice discretization, which replaces continuous spacetime with a finite grid, making the
+integral genuinely finite-dimensional and numerically computable, at the cost of introducing an
+artificial lattice spacing that must be removed at the end of the calculation.

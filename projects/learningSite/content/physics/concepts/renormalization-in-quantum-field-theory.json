@@ -1,0 +1,22 @@
+{
+  "id": "renormalization-in-quantum-field-theory",
+  "subject": "physics",
+  "level": "L4",
+  "module": "particle-physics",
+  "title": {
+    "en": "Renormalization in quantum field theory",
+    "et": "Renormeerimine kvantväljateoorias",
+    "sourceHash": "6f488ea11581f81b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Naive Feynman-diagram loop calculations in an interacting quantum field theory routinely produce infinite results, not because the theory is broken but because the parameters appearing in its original Lagrangian (a particle's 'bare' mass and charge) are not, and were never meant to be, the finite values actually measured in experiments; renormalization systematically absorbs those infinities into a redefinition of the theory's parameters, and the deeper, modern understanding via the renormalization group explains why this procedure works at all -- physical parameters genuinely depend on the energy scale at which they're probed, and a theory's low-energy predictions can be insensitive to unknown high-energy physics precisely because of how couplings 'run' with scale.",
+    "et": "Naiivsed Feynmani diagrammide silmusarvutused interakteeruvas kvantväljateoorias annavad rutiinselt lõpmatuid tulemusi, mitte seetõttu, et teooria oleks katki, vaid seetõttu, et selle algses Lagrange'i funktsioonis esinevad parameetrid (osakese 'palja' mass ja laeng) ei ole, ega olnud kunagi mõeldud olema, katsetes tegelikult mõõdetud lõplikud väärtused; renormeerimine neelab need lõpmatused süstemaatiliselt teooria parameetrite ümbermääratlemisse, ning sügavam, tänapäevane arusaam renormeerimisrühma kaudu seletab, miks see protseduur üldse töötab -- füüsikalised parameetrid sõltuvad tõeliselt energiaskaalast, mille juures neid uuritakse, ning teooria madalenergeetilised ennustused võivad olla tundmatust kõrgenergeetilisest füüsikast sõltumatud täpselt selle tõttu, kuidas sidestuskonstandid skaalaga 'jooksevad'.",
+    "sourceHash": "0965db391c7cdbfa",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-renormalization-group",
+    "quantum-electrodynamics-and-feynman-diagrams"
+  ]
+}

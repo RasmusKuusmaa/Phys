@@ -1,0 +1,56 @@
+{
+  "id": "path-integral-quantization-of-fields-item1",
+  "conceptId": "path-integral-quantization-of-fields",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the actual relationship between the path integral and Feynman diagrams in quantum field theory?",
+    "et": "Milline on tegelik seos teekonnaintegraali ja Feynmani diagrammide vahel kvantväljateoorias?",
+    "sourceHash": "e42b073f6b7056d3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Feynman diagrams are a systematic bookkeeping device for the terms produced by expanding the path integral's generating functional in the interaction.",
+        "et": "Feynmani diagrammid on süstemaatiline raamatupidamisvahend liikmete jaoks, mida toodab teekonnaintegraali genereeriva funktsionaali laiendamine interaktsioonis.",
+        "sourceHash": "006259149311f6d2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are two fully independent calculation methods that happen to coincidentally agree with each other.",
+        "et": "Need on kaks täiesti sõltumatut arvutusmeetodit, mis juhtuvad omavahel juhuslikult kokku langema.",
+        "sourceHash": "4b463e55f16d76bb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "path-integral-quantization-of-fields-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The field path integral sums over the same finite-degree-of-freedom trajectories as the single-particle path integral.",
+        "et": "Väljade teekonnaintegraal summeerib üle samade lõplike vabadusastmetega trajektooride nagu üksiku osakese teekonnaintegraal.",
+        "sourceHash": "e743e0eac7a9a244",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "path-integral-quantization-of-fields-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The path integral formulation of interacting QFT is fully mathematically rigorous, with no open foundational questions.",
+        "et": "Interakteeruva kvantväljateooria teekonnaintegraali formuleering on täiesti matemaatiliselt range, ilma lahtiste aluseküsimusteta.",
+        "sourceHash": "0874c25a5202b1a3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "path-integral-quantization-of-fields-m3"
+    }
+  ]
+}

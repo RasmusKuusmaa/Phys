@@ -1,0 +1,10 @@
+{
+  "id": "path-integral-quantization-of-fields-m3",
+  "conceptId": "path-integral-quantization-of-fields",
+  "text": {
+    "en": "Believing the path integral formulation of QFT is mathematically fully rigorous, on the same rigorous footing as, say, the Schrodinger-equation approach to single-particle quantum mechanics -- the field path integral, as actually used in practice, is not a fully mathematically rigorous construction (a genuine measure over an infinite-dimensional space of field configurations has never been rigorously defined for interacting theories); physicists use it productively via well-tested formal manipulations (perturbative expansion, analytic continuation to Euclidean time, lattice discretization) whose predictions match experiment extraordinarily well, but its rigorous mathematical foundation for interacting quantum field theories remains, to this day, an open problem.",
+    "et": "Arvamus, et kvantväljateooria teekonnaintegraali formuleering on matemaatiliselt täiesti range, samal rangel alusel nagu näiteks Schrödingeri võrrandi lähenemine üksiku osakese kvantmehaanikale -- väljade teekonnaintegraal, nagu seda praktikas tegelikult kasutatakse, ei ole täielikult matemaatiliselt range konstruktsioon (tegelikku mõõtu üle lõpmatumõõtmelise väljakonfiguratsioonide ruumi ei ole interakteeruvate teooriate jaoks kunagi rangelt defineeritud); füüsikud kasutavad seda produktiivselt hästi testitud formaalsete manipulatsioonide kaudu (häiritusrea laiendus, analüütiline jätkamine Eukleidilisse aega, võrestikustamine), mille ennustused ühtivad katsega erakordselt hästi, kuid selle range matemaatiline alus interakteeruvate kvantväljateooriate jaoks jääb tänaseni lahtiseks probleemiks.",
+    "sourceHash": "bffb2cf250441331",
+    "stale": false
+  }
+}

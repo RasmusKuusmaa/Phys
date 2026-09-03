@@ -1,0 +1,36 @@
+Computing a Feynman diagram beyond the simplest (tree-level) approximation requires summing
+over "loop" diagrams, which involve integrating over the momentum of virtual particles that can,
+in principle, carry any momentum at all. For many interacting theories, these loop integrals
+diverge — they produce formally infinite results as the integration is extended to arbitrarily
+high momentum (equivalently, arbitrarily short distance). This is not, by itself, a sign that
+the theory is broken: the parameters appearing in the original Lagrangian (the "bare" mass and
+charge) are mathematical bookkeeping quantities, not the actual measured mass and charge of the
+particle, since any real measurement of a particle's properties is already affected by its
+interactions (including the same loop effects producing the divergence). Renormalization is
+the systematic procedure of reorganizing the calculation so that the bare parameters, together
+with the divergent loop contributions, combine into the finite, physically measured values —
+predictions for actual physical observables (scattering cross-sections, decay rates) come out
+completely finite despite the divergent intermediate steps, provided the theory is
+renormalizable, meaning its infinities can all be absorbed into a finite number of parameters.
+
+The modern, deeper understanding of why this works comes from the renormalization group: a
+coupling constant's effective value is not truly a single fixed number but depends on the
+energy scale (equivalently, the distance scale) at which it is measured or probed, an effect
+called "running." Physically, this happens because a charged particle's effective charge, as
+measured by a probe at some distance, is affected by virtual particle-antiparticle pairs
+(vacuum polarization) that partially screen or anti-screen it, and a higher-energy probe that
+gets closer sees through more of that screening. This running has been directly confirmed
+experimentally: the electromagnetic coupling measured at very high energy (as accessible in
+collider experiments) is measurably larger than the low-energy value familiar from everyday
+electromagnetism, and the strong coupling famously runs the opposite way, weakening at high
+energy (asymptotic freedom), which is why quarks behave as nearly free particles at very short
+distances despite being permanently confined at ordinary distances.
+
+Not every quantum field theory is renormalizable in this technical sense — only theories whose
+divergences can all be absorbed into a finite set of parameters qualify, and this was
+historically a serious, restrictive guide to model-building: the Standard Model's forces
+(electromagnetism, the weak force, the strong force) are all renormalizable, but a naive
+quantum treatment of gravity is famously not, requiring an ever-growing, effectively infinite
+list of new parameters to absorb its divergences order by order, which is a central reason
+constructing a consistent quantum theory of gravity remains an unsolved problem distinct in
+kind from quantizing the other three fundamental forces.

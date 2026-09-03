@@ -1,0 +1,56 @@
+{
+  "id": "renormalization-in-quantum-field-theory-item1",
+  "conceptId": "renormalization-in-quantum-field-theory",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does it actually mean for a coupling constant to 'run' with energy scale in the renormalization group picture?",
+    "et": "Mida tähendab renormeerimisrühma pildis tegelikult see, et sidestuskonstant skaalaga 'jookseb'?",
+    "sourceHash": "3eeba370f48b8152",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The coupling's measured value genuinely depends on the energy scale at which it's probed, an effect that has been directly confirmed experimentally.",
+        "et": "Sidestuse mõõdetud väärtus sõltub tõeliselt energiaskaalast, mille juures seda uuritakse, efekt, mis on otse eksperimentaalselt kinnitatud.",
+        "sourceHash": "0b57ddc98f49c0f5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is purely a mathematical bookkeeping trick invented to hide infinities, with no independent physical meaning or experimental support.",
+        "et": "See on puhtalt matemaatiline raamatupidamisnipp, mis on leiutatud lõpmatuste varjamiseks, ilma sõltumatu füüsikalise tähenduse või eksperimentaalse toetuseta.",
+        "sourceHash": "85e951507a7a2965",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "renormalization-in-quantum-field-theory-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It means the theory is logically inconsistent, since a genuinely fixed physical constant should never appear to change.",
+        "et": "See tähendab, et teooria on loogiliselt vastuoluline, kuna tõeliselt fikseeritud füüsikaline konstant ei tohiks kunagi näida muutuvat.",
+        "sourceHash": "0f943946de840847",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "renormalization-in-quantum-field-theory-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Every quantum field theory, without exception, can absorb its infinities this way, so it places no real constraint on viable theories.",
+        "et": "Iga kvantväljateooria, ilma eranditeta, suudab oma lõpmatused sel viisil neelata, mistõttu see ei sea elujõuliste teooriate suhtes tegelikku piirangut.",
+        "sourceHash": "181b47fc3af96fc3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "renormalization-in-quantum-field-theory-m3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "path-integral-quantization-of-fields",
+  "subject": "physics",
+  "level": "L4",
+  "module": "particle-physics",
+  "title": {
+    "en": "Path integral quantization of fields",
+    "et": "Väljade kvantimine teekonnaintegraaliga",
+    "sourceHash": "8b22885652399e82",
+    "stale": false
+  },
+  "summary": {
+    "en": "Extending Feynman's sum-over-histories from a single particle's trajectory to an entire field configuration turns quantum field theory into a well-defined (if formally infinite-dimensional) integral over every possible field history weighted by the exponential of the classical action, and the generating functional built from that integral is what actually produces every Feynman diagram, propagator, and interaction vertex a particle physicist computes with, making the path integral the true computational foundation beneath the diagrams rather than a separate, optional viewpoint.",
+    "et": "Feynmani ajalugude summeerimise laiendamine ühe osakese trajektoorilt kogu väljakonfiguratsioonile muudab kvantväljateooria hästi määratud (kuigi formaalselt lõpmatumõõtmelise) integraaliks iga võimaliku väljaajaloo üle, mis on kaalutud klassikalise mõju eksponendiga, ning sellest integraalist ehitatud genereeriv funktsionaal on see, mis tegelikult toodab iga Feynmani diagrammi, propagaatori ja interaktsioonivertsi, millega osakestefüüsik arvutab, mis teeb teekonnaintegraalist tegeliku arvutusliku aluse diagrammide taga, mitte eraldiseisva, valikulise vaatenurga.",
+    "sourceHash": "feac10897ba82299",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-path-integral-formulation",
+    "second-quantization-and-fock-space"
+  ]
+}

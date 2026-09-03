@@ -1,0 +1,10 @@
+{
+  "id": "renormalization-in-quantum-field-theory-m2",
+  "conceptId": "renormalization-in-quantum-field-theory",
+  "text": {
+    "en": "Believing renormalization is a suspicious mathematical trick invented purely to hide problems, with no independent physical meaning or experimental support -- the renormalization group interpretation gives renormalization a genuine physical meaning: a coupling constant's measured value truly depends on the energy scale at which it's probed (the electromagnetic coupling measured at high energy is measurably larger than at low energy, for instance), an effect that has been directly confirmed experimentally, so renormalization reflects a real, testable feature of how quantum fields behave at different scales, not merely a calculational patch.",
+    "et": "Arvamus, et renormeerimine on kahtlane matemaatiline nipp, mis on leiutatud puhtalt probleemide varjamiseks, ilma sõltumatu füüsikalise tähenduse või eksperimentaalse toetuseta -- renormeerimisrühma tõlgendus annab renormeerimisele tõelise füüsikalise tähenduse: sidestuskonstandi mõõdetud väärtus sõltub tõeliselt energiaskaalast, mille juures seda uuritakse (näiteks kõrgel energial mõõdetud elektromagnetiline sidestus on mõõdetavalt suurem kui madalal energial), efekt, mis on otse eksperimentaalselt kinnitatud, seega peegeldab renormeerimine tegelikku, kontrollitavat tunnust selle kohta, kuidas kvantväljad erinevatel skaaladel käituvad, mitte lihtsalt arvutuslikku paikamist.",
+    "sourceHash": "f7b5f28ad3e0e90c",
+    "stale": false
+  }
+}

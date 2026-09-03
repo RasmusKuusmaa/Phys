@@ -1,0 +1,10 @@
+{
+  "id": "path-integral-quantization-of-fields-m1",
+  "conceptId": "path-integral-quantization-of-fields",
+  "text": {
+    "en": "Believing the path integral is just an alternative, optional way to visualize quantum field theory that gives the same predictions as Feynman diagrams by some independent route -- the generating functional, defined as a path integral over field configurations, is the actual object from which Feynman diagrams and their associated rules (propagators, vertices, symmetry factors) are systematically derived by expanding the interaction term in the action as a power series; the diagrams are a bookkeeping device for organizing terms in the path integral's expansion, not an independent calculation method that happens to agree with it.",
+    "et": "Arvamus, et teekonnaintegraal on lihtsalt alternatiivne, valikuline viis kvantväljateooria visualiseerimiseks, mis annab samad ennustused mis Feynmani diagrammid mingit sõltumatut rada mööda -- genereeriv funktsionaal, mis on defineeritud teekonnaintegraalina üle väljakonfiguratsioonide, on tegelik objekt, millest Feynmani diagrammid ja nendega seotud reeglid (propagaatorid, vertsid, sümmeetriategurid) tuletatakse süstemaatiliselt, laiendades mõjus olevat interaktsiooniliiget astmereaks; diagrammid on raamatupidamisvahend teekonnaintegraali laienduse liikmete korraldamiseks, mitte sõltumatu arvutusmeetod, mis juhtub sellega kokku langema.",
+    "sourceHash": "67f8094eba001f80",
+    "stale": false
+  }
+}

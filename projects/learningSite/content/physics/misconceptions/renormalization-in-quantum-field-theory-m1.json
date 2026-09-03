@@ -1,0 +1,10 @@
+{
+  "id": "renormalization-in-quantum-field-theory-m1",
+  "conceptId": "renormalization-in-quantum-field-theory",
+  "text": {
+    "en": "Believing the infinities that appear in loop-diagram calculations mean quantum field theory itself is broken or logically inconsistent -- the infinities arise because the 'bare' parameters in the original Lagrangian are mathematical bookkeeping quantities, not directly measurable physical values, and renormalization systematically reorganizes the calculation so that only finite, physically measured parameters (the actual measured electron charge and mass, for instance) appear in final predictions; a properly renormalizable theory produces genuinely finite, testable predictions for every physical observable despite intermediate infinities in the calculation.",
+    "et": "Arvamus, et silmusdiagrammide arvutustes ilmnevad lõpmatused tähendavad, et kvantväljateooria ise on katki või loogiliselt vastuoluline -- lõpmatused tekivad seetõttu, et algses Lagrange'i funktsioonis olevad 'paljad' parameetrid on matemaatilised raamatupidamissuurused, mitte otseselt mõõdetavad füüsikalised väärtused, ning renormeerimine korraldab arvutuse süstemaatiliselt ümber nii, et lõpptulemustes esinevad ainult lõplikud, füüsikaliselt mõõdetud parameetrid (näiteks tegelikult mõõdetud elektroni laeng ja mass); korralikult renormeeritav teooria annab iga füüsikalise vaadeldava suuruse jaoks tõeliselt lõplikke, kontrollitavaid ennustusi, hoolimata vahepealsetest lõpmatustest arvutuses.",
+    "sourceHash": "adf7cba296c74560",
+    "stale": false
+  }
+}

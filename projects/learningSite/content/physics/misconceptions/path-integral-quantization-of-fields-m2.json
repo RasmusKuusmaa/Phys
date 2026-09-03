@@ -1,0 +1,10 @@
+{
+  "id": "path-integral-quantization-of-fields-m2",
+  "conceptId": "path-integral-quantization-of-fields",
+  "text": {
+    "en": "Believing the path integral for a quantum field sums over the same kind of object as the single-particle path integral -- a definite trajectory through ordinary space -- just for a more complicated system -- a quantum field's path integral instead sums over entire field configurations, a function's value at every point in space at every moment in time, an object with infinitely many degrees of freedom rather than the finite few (position at each time) that a single particle's trajectory has; this is a genuine conceptual generalization, not merely a bigger version of the same calculation.",
+    "et": "Arvamus, et kvantvälja teekonnaintegraal summeerib sama tüüpi objekti üle nagu üksiku osakese teekonnaintegraal -- kindlat trajektoori läbi tavalise ruumi -- lihtsalt keerulisema süsteemi jaoks -- kvantvälja teekonnaintegraal summeerib selle asemel üle terve väljakonfiguratsiooni, funktsiooni väärtuse igas ruumipunktis igal ajahetkel, objekti, millel on lõpmatult palju vabadusastmeid, mitte lõplikku vähest hulka (asukoht igal ajahetkel), mis on üksiku osakese trajektooril; see on tõeline kontseptuaalne üldistus, mitte lihtsalt sama arvutuse suurem versioon.",
+    "sourceHash": "dec03ff03f57be9b",
+    "stale": false
+  }
+}

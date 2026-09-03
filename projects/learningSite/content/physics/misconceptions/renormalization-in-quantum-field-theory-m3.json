@@ -1,0 +1,10 @@
+{
+  "id": "renormalization-in-quantum-field-theory-m3",
+  "conceptId": "renormalization-in-quantum-field-theory",
+  "text": {
+    "en": "Believing every quantum field theory can be renormalized, so renormalizability is not really a meaningful constraint on which theories are viable -- only certain theories are renormalizable (their infinities can be absorbed into a finite number of parameters), and this was historically a serious, non-trivial constraint on model-building: a naive quantum theory of gravity, for instance, is famously non-renormalizable in the traditional sense, requiring infinitely many independent parameters to absorb its infinities, which is a major reason quantizing gravity remains an unsolved problem distinct from the other, successfully renormalizable, Standard Model forces.",
+    "et": "Arvamus, et iga kvantväljateooriat saab renormeerida, mistõttu renormeeritavus ei ole tegelikult mõtestatud piirang selle kohta, millised teooriad on elujõulised -- ainult teatud teooriad on renormeeritavad (nende lõpmatused saab neelata lõplikku arvu parameetritesse) ning see oli ajalooliselt tõsine, mittetriviaalne piirang mudelite ehitamisel: näiteks naiivne kvantgravitatsiooniteooria on traditsioonilises mõttes kurikuulsalt mitterenormeeritav, nõudes lõpmatult palju sõltumatuid parameetreid oma lõpmatuste neelamiseks, mis on peamine põhjus, miks gravitatsiooni kvantimine jääb lahendamata probleemiks, mis erineb teistest, edukalt renormeeritavatest, Standardmudeli jõududest.",
+    "sourceHash": "403a2d6c7023f3ce",
+    "stale": false
+  }
+}
