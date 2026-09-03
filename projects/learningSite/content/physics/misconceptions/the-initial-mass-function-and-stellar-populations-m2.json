@@ -1,0 +1,10 @@
+{
+  "id": "the-initial-mass-function-and-stellar-populations-m2",
+  "conceptId": "the-initial-mass-function-and-stellar-populations",
+  "text": {
+    "en": "Believing the initial mass function describes how an individual star's mass changes over its lifetime (e.g. as it loses mass via stellar winds) -- it is instead a statistical distribution describing the relative numbers of stars of different masses at the moment a population is born, fixed once star formation in that cluster is complete; how an individual star's mass subsequently evolves (through winds, mass transfer, or explosive mass loss) is a separate question about stellar evolution, not about the initial mass function itself.",
+    "et": "Arvamus, et algne massijaotusfunktsioon kirjeldab, kuidas üksiku tähe mass muutub tema eluea jooksul (näiteks tähetuulte kaudu massi kaotades) -- see on selle asemel statistiline jaotus, mis kirjeldab erineva massiga tähtede suhtelist arvu hetkel, mil populatsioon sünnib, fikseerituna kohe, kui täheteke selles parves on lõppenud; kuidas üksiku tähe mass seejärel areneb (tuulte, massiülekande või plahvatusliku massikao kaudu), on eraldi küsimus tähtede arengust, mitte algsest massijaotusfunktsioonist endast.",
+    "sourceHash": "3b573cd67f01a654",
+    "stale": false
+  }
+}

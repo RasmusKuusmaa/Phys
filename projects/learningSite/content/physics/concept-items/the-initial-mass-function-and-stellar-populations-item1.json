@@ -1,0 +1,54 @@
+{
+  "id": "the-initial-mass-function-and-stellar-populations-item1",
+  "conceptId": "the-initial-mass-function-and-stellar-populations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A newly formed star cluster contains far more low-mass red dwarfs than high-mass O and B stars, yet the cluster's total light output is dominated by its handful of O and B stars. Why is this not a contradiction?",
+    "et": "Äsja tekkinud täheparv sisaldab palju rohkem madala massiga punaseid kääbustähti kui suure massiga O- ja B-tähti, kuid parve kogu valgusväljundis domineerib selle käputäis O- ja B-tähti. Miks ei ole see vastuolu?",
+    "sourceHash": "1e8a47f4d60fa80c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The initial mass function describes relative numbers of stars, not their astrophysical influence -- a single massive O star vastly outshines thousands of red dwarfs combined, so rarity in number and dominance in light output are simply different quantities.",
+        "et": "Algne massijaotusfunktsioon kirjeldab tähtede suhtelist arvu, mitte nende astrofüüsikalist mõju -- üksik massiivne O-täht särab tohutult eredamalt kui tuhanded punased kääbustähed kokku, seega on harvaesinemine arvuliselt ja domineerimine valgusväljundis lihtsalt erinevad suurused.",
+        "sourceHash": "b42596200c3fa907",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is in fact a contradiction, and suggests the initial mass function does not actually apply correctly to this particular cluster.",
+        "et": "See on tõepoolest vastuolu ja viitab sellele, et algne massijaotusfunktsioon tegelikult sellele konkreetsele parvele õigesti ei kehti.",
+        "sourceHash": "4647e98c94697f7a",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Red dwarfs contribute essentially zero light, so the cluster's total light output has nothing at all to do with how many stars of each mass are present.",
+        "et": "Punased kääbustähed annavad sisuliselt nulli valgust, seega ei ole parve kogu valgusväljundil üldse mingit seost sellega, kui palju on kohal iga massiga tähti.",
+        "sourceHash": "99b63e8756ad12ff",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "High-mass stars being few in number means they must be astrophysically negligible overall, so their outsized light output is actually a measurement artifact.",
+        "et": "See, et suure massiga tähti on arvuliselt vähe, tähendab, et need peavad olema tervikuna astrofüüsikaliselt tähtsusetud, seega on nende ülisuur valgusväljund tegelikult mõõteartefakt.",
+        "sourceHash": "74c6599fb4a77e04",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-initial-mass-function-and-stellar-populations-m3"
+    }
+  ]
+}

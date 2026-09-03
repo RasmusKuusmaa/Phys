@@ -1,0 +1,22 @@
+{
+  "id": "the-initial-mass-function-and-stellar-populations",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "The initial mass function and stellar populations",
+    "et": "Algne massijaotusfunktsioon ja tähepopulatsioonid",
+    "sourceHash": "5c0f1b9c7540e91f",
+    "stale": false
+  },
+  "summary": {
+    "en": "When a molecular cloud fragments and collapses into a whole cluster of new stars, the masses of those stars are not all equal or random but follow a remarkably universal statistical pattern called the initial mass function, first characterized by Edwin Salpeter, which says that low-mass stars vastly outnumber high-mass ones according to a steep power law, so that a newly formed cluster contains many small, faint, extremely long-lived red dwarfs for every rare, short-lived massive star, and because this same distribution shape is observed in star-forming regions across a huge range of environments and cosmic epochs, astronomers use it as a standard tool to convert an observed galaxy's total light output into an estimate of its total stellar mass and star-formation rate, even though the physical reason the fragmentation process consistently produces this particular shape is still not fully understood from first principles.",
+    "et": "Kui molekulaarpilv killustub ja variseb kokku terveks uute tähtede parveks, ei ole nende tähtede massid kõik võrdsed ega juhuslikud, vaid järgivad märkimisväärselt universaalset statistilist mustrit nimega algne massijaotusfunktsioon, mille kirjeldas esimesena Edwin Salpeter, ning mis ütleb, et madala massiga tähti on järsu astmeseaduse kohaselt palju rohkem kui suure massiga tähti, nii et äsja tekkinud parv sisaldab iga haruldase, lühiealise massiivse tähe kohta palju väikeseid, tuhmi ja äärmiselt pikaealisi punaseid kääbustähti, ning kuna sama jaotuse kuju on vaadeldud täheteke piirkondades väga erinevate keskkondade ja kosmiliste ajastute lõikes, kasutavad astronoomid seda standardse vahendina, et teisendada vaadeldud galaktika kogu valgusväljund tema kogu tähemassi ja täheteke kiiruse hinnanguks, kuigi füüsikaline põhjus, miks killustumisprotsess järjekindlalt annab just selle kindla kuju, ei ole seniajani esimestest printsiipidest täielikult mõistetav.",
+    "sourceHash": "1f7ae3c29b925428",
+    "stale": false
+  },
+  "prerequisites": [
+    "star-formation-and-the-jeans-instability",
+    "stellar-classification-and-the-hertzsprung-russell-diagram"
+  ]
+}
