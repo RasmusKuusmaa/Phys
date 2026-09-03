@@ -1,0 +1,10 @@
+{
+  "id": "the-virial-theorem-m2",
+  "conceptId": "the-virial-theorem",
+  "text": {
+    "en": "Believing the virial theorem's simple kinetic-equals-minus-one-half-potential relationship applies to any force law whatsoever, not just specific ones -- the theorem's precise numerical relationship between average kinetic and potential energy depends on the specific power-law exponent relating force to distance, and the strikingly simple factor of minus one-half specifically applies to inverse-square forces (gravity, Coulomb attraction); a different force law, such as the linear restoring force of a simple harmonic oscillator, produces a different numerical relationship (kinetic energy equal to potential energy, for that case) rather than the same minus-one-half factor.",
+    "et": "Arvamus, et viriaalteoreemi lihtne kineetiline-võrdub-miinus-pool-potentsiaalne seos kehtib mistahes jõuseaduse jaoks üldse, mitte ainult konkreetsete jaoks -- teoreemi täpne arvuline seos keskmise kineetilise ja potentsiaalse energia vahel sõltub konkreetsest astmeseaduse eksponendist, mis seob jõudu kaugusega, ning hämmastavalt lihtne miinus poole tegur kehtib spetsiifiliselt pöördruut jõudude jaoks (gravitatsioon, Coulombi tõmme); erinev jõuseadus, nagu lihtsa harmoonilise ostsillaatori lineaarne taastav jõud, tekitab erineva arvulise seose (sel juhul kineetiline energia võrdub potentsiaalse energiaga), mitte sama miinus poole tegurit.",
+    "sourceHash": "4d5885bb9512b3a5",
+    "stale": false
+  }
+}

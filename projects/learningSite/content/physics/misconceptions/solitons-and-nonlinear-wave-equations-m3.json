@@ -1,0 +1,10 @@
+{
+  "id": "solitons-and-nonlinear-wave-equations-m3",
+  "conceptId": "solitons-and-nonlinear-wave-equations",
+  "text": {
+    "en": "Believing solitons are a purely mathematical curiosity of certain idealized nonlinear wave equations with no genuine physical realization -- solitons were first directly observed as a real physical phenomenon (a solitary water wave in a canal, observed by John Scott Russell in 1834), and physically realized solitons are now well established and technologically important across multiple fields, including optical solitons used in some long-distance fiber-optic communication systems (where the balance between fiber nonlinearity and dispersion allows a light pulse to propagate over great distances without spreading), internal waves in the ocean, and certain excitations in condensed matter systems.",
+    "et": "Arvamus, et solitonid on puhtalt matemaatiline kuriosum teatud idealiseeritud mittelineaarsete lainevõrrandite jaoks ilma tõelise füüsikalise realiseerumiseta -- solitonid vaadeldi esmalt otse reaalse füüsikalise nähtusena (üksik veelaine kanalis, mida vaatles John Scott Russell 1834. aastal), ning füüsikaliselt realiseeritud solitonid on nüüd hästi kehtestatud ja tehnoloogiliselt olulised mitmes valdkonnas, sealhulgas optilised solitonid, mida kasutatakse mõnedes kaugsidesüsteemides kiudoptika kaudu (kus tasakaal kiu mittelineaarsuse ja dispersiooni vahel lubab valgusimpulsil levida suurte vahemaade taha ilma laienemata), sisemised lained ookeanis ja teatud ergastused kondenseeritud aine süsteemides.",
+    "sourceHash": "85b0dcb9460e985a",
+    "stale": false
+  }
+}

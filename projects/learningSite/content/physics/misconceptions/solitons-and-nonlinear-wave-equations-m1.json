@@ -1,0 +1,10 @@
+{
+  "id": "solitons-and-nonlinear-wave-equations-m1",
+  "conceptId": "solitons-and-nonlinear-wave-equations",
+  "text": {
+    "en": "Believing a soliton is essentially the same thing as an ordinary linear wave pulse, just one that happens to be unusually stable or long-lived by coincidence -- a soliton's stability is not a coincidence but a genuine, dynamical balance between two competing effects that must both be present: the medium's nonlinearity, which alone would progressively steepen and eventually break the pulse, and dispersion, which alone would spread the pulse out and flatten it; a soliton exists precisely because these two effects cancel each other's tendency to distort the pulse, a phenomenon entirely absent from ordinary linear wave propagation.",
+    "et": "Arvamus, et soliton on sisuliselt sama asi mis tavaline lineaarne laineimpulss, lihtsalt üks, mis juhtub olema ebatavaliselt stabiilne või pikaealine juhuslikult -- soliton stabiilsus ei ole juhus, vaid tõeline, dünaamiline tasakaal kahe konkureeriva efekti vahel, mis mõlemad peavad olema kohal: keskkonna mittelineaarsus, mis üksi progressiivselt järsustaks ja lõpuks murraks impulssi, ning dispersioon, mis üksi laiendaks impulssi ja lametaks selle; soliton eksisteerib täpselt seetõttu, et need kaks efekti tühistavad üksteise kalduvuse impulssi moonutada, nähtus, mis puudub täielikult tavalisest lineaarsest laine levimisest.",
+    "sourceHash": "b2addcd34b1518a0",
+    "stale": false
+  }
+}

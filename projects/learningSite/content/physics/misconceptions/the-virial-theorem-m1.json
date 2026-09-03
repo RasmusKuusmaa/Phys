@@ -1,0 +1,10 @@
+{
+  "id": "the-virial-theorem-m1",
+  "conceptId": "the-virial-theorem",
+  "text": {
+    "en": "Believing the virial theorem requires detailed knowledge of every particle's individual trajectory in a bound system to apply, the same way solving the full equations of motion would -- the virial theorem's power is exactly that it bypasses this requirement entirely, relating only time-averaged (or ensemble-averaged) kinetic and potential energies for the system as a whole, a global statistical statement that holds regardless of how complicated the individual particle orbits actually are, as long as the system is bound and in a statistically steady state.",
+    "et": "Arvamus, et viriaalteoreemi rakendamiseks on vaja detailset teadmist iga osakese individuaalsest trajektoorist seotud süsteemis, samamoodi nagu liikumisvõrrandite täieliku lahendamise puhul -- viriaalteoreemi jõud on täpselt see, et see väldib seda nõuet täielikult, seostades ainult ajaliselt keskmistatud (või ansamblikeskmistatud) kineetilisi ja potentsiaalseid energiaid süsteemi kui terviku jaoks, globaalse statistilise väite, mis kehtib olenemata sellest, kui keerulised üksikute osakeste orbiidid tegelikult on, kuni süsteem on seotud ja statistiliselt stabiilses olekus.",
+    "sourceHash": "497a796873cc9e2a",
+    "stale": false
+  }
+}

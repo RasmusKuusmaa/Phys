@@ -1,0 +1,22 @@
+{
+  "id": "the-virial-theorem",
+  "subject": "physics",
+  "level": "L4",
+  "module": "mechanics",
+  "title": {
+    "en": "The virial theorem",
+    "et": "Viriaalteoreem",
+    "sourceHash": "a7ea98990afa140d",
+    "stale": false
+  },
+  "summary": {
+    "en": "For a bound system of particles held together by forces obeying a simple power-law relationship between force and distance, the virial theorem relates the system's time-averaged kinetic energy directly to its time-averaged potential energy, without requiring any detailed knowledge of the individual particle trajectories at all; for the inverse-square forces of gravity and Coulomb attraction specifically, the theorem gives the strikingly simple result that average kinetic energy equals minus one-half the average potential energy, a relationship used throughout astrophysics to estimate the total mass of gravitationally bound systems, from star clusters to galaxy clusters, from nothing more than their observed velocities.",
+    "et": "Osakeste süsteemi jaoks, mida hoiavad koos jõud, mis alluvad lihtsale astmeseadusele jõu ja kauguse vahel, seob viriaalteoreem süsteemi ajaliselt keskmistatud kineetilise energia otse selle ajaliselt keskmistatud potentsiaalse energiaga, nõudmata üldse mistahes detailset teadmist üksikutest osakeste trajektooridest; spetsiifiliselt gravitatsiooni ja Coulombi tõmbe pöördruut jõudude jaoks annab teoreem hämmastavalt lihtsa tulemuse, et keskmine kineetiline energia võrdub miinus poolega keskmisest potentsiaalsest energiast, seos, mida kasutatakse läbi astrofüüsika gravitatsiooniliselt seotud süsteemide, alates tähtede parvedest kuni galaktikaparvedeni, kogumassi hindamiseks mitte millestki muust kui nende vaadeldud kiirustest.",
+    "sourceHash": "92d050c3cb6efe2f",
+    "stale": false
+  },
+  "prerequisites": [
+    "central-force-motion-and-orbits",
+    "newtonian-gravitation"
+  ]
+}

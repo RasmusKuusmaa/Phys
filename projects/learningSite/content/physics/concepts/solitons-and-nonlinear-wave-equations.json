@@ -1,0 +1,22 @@
+{
+  "id": "solitons-and-nonlinear-wave-equations",
+  "subject": "physics",
+  "level": "L4",
+  "module": "waves",
+  "title": {
+    "en": "Solitons and nonlinear wave equations",
+    "et": "Solitonid ja mittelineaarsed lainevõrrandid",
+    "sourceHash": "ad391264e5325f69",
+    "stale": false
+  },
+  "summary": {
+    "en": "An ordinary wave pulse in a linear medium spreads out and disperses over time as its different frequency components travel at slightly different speeds, but in certain nonlinear media a special self-reinforcing pulse called a soliton can propagate over long distances with its shape essentially unchanged, because the medium's nonlinearity (which by itself would tend to steepen and eventually break the pulse) exactly balances the dispersion that would otherwise spread it out, and solitons interacting with each other pass through essentially unscathed, emerging with their original shape and speed intact, a genuinely nonlinear phenomenon with no counterpart in ordinary linear wave superposition.",
+    "et": "Tavaline laineimpulss lineaarses keskkonnas laieneb ja dispergeerub aja jooksul, kuna selle erinevad sageduskomponendid liiguvad veidi erinevate kiirustega, kuid teatud mittelineaarsetes keskkondades saab spetsiaalne end tugevdav impulss nimega soliton levida pikkade vahemaade taha, jäädes kujult sisuliselt muutumatuks, kuna keskkonna mittelineaarsus (mis iseenesest kalduks impulssi järsustama ja lõpuks murdma) tasakaalustab täpselt dispersiooni, mis muidu selle laiendaks, ning omavahel interakteeruvad solitonid läbivad üksteist sisuliselt kahjustamata, ilmudes uuesti algse kuju ja kiirusega, tõeliselt mittelineaarne nähtus, millel pole vastet tavalises lineaarses lainete superpositsioonis.",
+    "sourceHash": "076560a455fe74ef",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-wave-equation",
+    "interference-and-diffraction"
+  ]
+}

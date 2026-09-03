@@ -1,0 +1,56 @@
+{
+  "id": "the-virial-theorem-item1",
+  "conceptId": "the-virial-theorem",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can astrophysicists use the virial theorem to estimate a star cluster's total mass without knowing every star's individual orbit?",
+    "et": "Miks saavad astrofüüsikud kasutada viriaalteoreemi tähtede parve kogumassi hindamiseks, teadmata iga tähe individuaalset orbiiti?",
+    "sourceHash": "cdee2cae65d0730a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the theorem relates only time-averaged kinetic and potential energies for the system as a whole, a global statement that holds regardless of individual orbit complexity for a bound, statistically steady system.",
+        "et": "Sest teoreem seostab ainult ajaliselt keskmistatud kineetilisi ja potentsiaalseid energiaid süsteemi kui terviku jaoks, globaalse väite, mis kehtib olenemata individuaalse orbiidi keerukusest seotud, statistiliselt stabiilse süsteemi jaoks.",
+        "sourceHash": "883f81bb6e6a064f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the theorem's simple minus-one-half relationship applies universally to any force law, so no distinction between gravity and other forces is ever needed.",
+        "et": "Sest teoreemi lihtne miinus poole seos kehtib universaalselt mistahes jõuseaduse jaoks, seega ei ole gravitatsiooni ja teiste jõudude eristamist kunagi vaja.",
+        "sourceHash": "86415c10954ca274",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-virial-theorem-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It can't actually be applied this way -- the virial theorem only works for idealized, isolated two-body systems like a single planet orbiting a single star.",
+        "et": "Seda ei saagi tegelikult nii rakendada -- viriaalteoreem töötab ainult idealiseeritud, isoleeritud kaheosakeseliste süsteemide jaoks, nagu üksik planeet, mis tiirleb üksiku tähe ümber.",
+        "sourceHash": "e7b8fa26cf3708c8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-virial-theorem-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because detailed knowledge of every star's trajectory is actually required, and astrophysicists simply approximate this using average velocities instead.",
+        "et": "Sest iga tähe trajektoori detailne teadmine on tegelikult vajalik, ning astrofüüsikud lihtsalt lähendavad seda keskmiste kiiruste abil.",
+        "sourceHash": "e8f008ae315642d0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-virial-theorem-m3"
+    }
+  ]
+}

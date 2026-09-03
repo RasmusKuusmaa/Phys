@@ -1,0 +1,10 @@
+{
+  "id": "the-virial-theorem-m3",
+  "conceptId": "the-virial-theorem",
+  "text": {
+    "en": "Believing the virial theorem can only be applied to idealized, isolated two-body systems like a single planet orbiting a single star, not to genuinely complex many-body systems -- the theorem applies equally well to systems with enormous numbers of mutually interacting bodies, such as star clusters or galaxy clusters bound by gravity, which is exactly why astrophysicists use it to estimate these systems' total mass (including invisible dark matter) directly from the observed spread of stellar or galaxy velocities, a genuinely many-body application rather than one limited to simple two-body orbits.",
+    "et": "Arvamus, et viriaalteoreemi saab rakendada ainult idealiseeritud, isoleeritud kaheosakeselistele süsteemidele nagu üksik planeet, mis tiirleb üksiku tähe ümber, mitte tõeliselt keerulistele paljukeha süsteemidele -- teoreem kehtib võrdselt hästi süsteemide jaoks tohutu hulga vastastikku interakteeruvate kehadega, nagu gravitatsiooniga seotud tähtede parved või galaktikaparved, mis on täpselt põhjus, miks astrofüüsikud kasutavad seda nende süsteemide kogumassi (sealhulgas nähtamatu tumeaine) hindamiseks otse tähtede või galaktikate vaadeldud kiiruste hajumisest, tõeliselt paljukeha rakendus, mitte piiratud lihtsate kaheosakeseliste orbiitidega.",
+    "sourceHash": "3baae9d91ea53029",
+    "stale": false
+  }
+}

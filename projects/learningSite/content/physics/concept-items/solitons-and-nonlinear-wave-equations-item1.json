@@ -1,0 +1,56 @@
+{
+  "id": "solitons-and-nonlinear-wave-equations-item1",
+  "conceptId": "solitons-and-nonlinear-wave-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can a soliton propagate over long distances without spreading out, unlike an ordinary wave pulse?",
+    "et": "Miks saab soliton levida pikkade vahemaade taha ilma laienemata, erinevalt tavalisest laineimpulsist?",
+    "sourceHash": "c6b18946e98bd527",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the medium's nonlinearity (which would steepen the pulse) and dispersion (which would spread it) exactly balance each other, a genuine dynamical effect absent from linear wave propagation.",
+        "et": "Sest keskkonna mittelineaarsus (mis järsustaks impulssi) ja dispersioon (mis seda laiendaks) tasakaalustavad üksteist täpselt, tõeline dünaamiline efekt, mis puudub lineaarsest laine levimisest.",
+        "sourceHash": "667443eb5dc37da4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It's actually just a coincidence -- a soliton is an ordinary linear wave pulse that happens to be unusually stable for no particular physical reason.",
+        "et": "See on tegelikult lihtsalt juhus -- soliton on tavaline lineaarne laineimpulss, mis juhtub olema ebatavaliselt stabiilne ilma konkreetse füüsikalise põhjuseta.",
+        "sourceHash": "efc6e3bf7c59e291",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "solitons-and-nonlinear-wave-equations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because two colliding solitons always merge together permanently, unlike ordinary wave pulses, which is what prevents spreading.",
+        "et": "Sest kaks põrkuvat solitoni ühinevad alati jäädavalt, erinevalt tavalistest laineimpulssidest, mis takistabki laienemist.",
+        "sourceHash": "50b2eefca1aef76f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "solitons-and-nonlinear-wave-equations-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Solitons are purely a mathematical idealization with no real physical realization, so the question doesn't actually apply to anything observable.",
+        "et": "Solitonid on puhtalt matemaatiline idealisatsioon ilma tõelise füüsikalise realiseerumiseta, seega ei kehti küsimus tegelikult millegi vaadeldava kohta.",
+        "sourceHash": "1e5afe7f541ef7f4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "solitons-and-nonlinear-wave-equations-m3"
+    }
+  ]
+}
