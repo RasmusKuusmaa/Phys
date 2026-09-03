@@ -1,0 +1,22 @@
+{
+  "id": "the-mossbauer-effect",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "The Mössbauer effect",
+    "et": "Mössbaueri efekt",
+    "sourceHash": "3d87ab48b2867807",
+    "stale": false
+  },
+  "summary": {
+    "en": "A free nucleus emitting a gamma-ray photon always recoils, exactly as a gun recoils when firing a bullet, shifting the emitted photon's energy down by the recoil energy lost to that motion and making it too low to be reabsorbed by an identical nucleus at rest, but Rudolf Mössbauer discovered that when the emitting nucleus is instead bound rigidly inside a crystal lattice, a substantial fraction of emissions transfer their recoil not to the single nucleus but to the crystal as a whole, whose enormously larger mass makes the resulting recoil energy shift utterly negligible, producing recoil-free, essentially perfectly sharp gamma-ray emission that can indeed be resonantly reabsorbed by an identical nucleus elsewhere, an effect so exquisitely sensitive to any energy shift at all that it has been used to detect gravitational redshift over a mere twenty-two-metre laboratory tower, directly confirming a general-relativistic prediction decades before space-based tests became possible.",
+    "et": "Vaba tuum, mis kiirgab gammakiirguse footoni, tõukub alati tagasi, täpselt nagu relv tõukub kuuli tulistamisel tagasi, nihutades kiirgatud footoni energiat allapoole selle liikumisele kaotatud tagasilöögienergia võrra ning muutes selle liiga madalaks, et identne tuum puhkeasendis seda uuesti neelata saaks, kuid Rudolf Mössbauer avastas, et kui kiirgav tuum on selle asemel jäigalt seotud kristallvõre sisse, kannab märkimisväärne osa kiirgusest oma tagasilöögi üle mitte üksikule tuumale, vaid kogu kristallile, mille tohutult suurem mass muudab saadud tagasilöögienergia nihke täiesti tähtsusetuks, tootes tagasilöögivaba, sisuliselt täiuslikult terava gammakiirguse emissiooni, mida saab tõesti resonantselt neeldunud identse tuuma poolt mujal, efekt, mis on nii peenelt tundlik mistahes energianihke suhtes üldse, et seda on kasutatud gravitatsioonilise punanihke tuvastamiseks pelgalt kahekümne kahe meetri kõrguses laboritornis, kinnitades otseselt üldrelatiivistlikku ennustust aastakümneid enne kosmosepõhiste testide võimalikuks muutumist.",
+    "sourceHash": "7f3355f0b0293527",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-isomers-and-metastable-states",
+    "phonons-and-lattice-dynamics"
+  ]
+}

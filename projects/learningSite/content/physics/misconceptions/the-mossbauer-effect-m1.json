@@ -1,0 +1,10 @@
+{
+  "id": "the-mossbauer-effect-m1",
+  "conceptId": "the-mossbauer-effect",
+  "text": {
+    "en": "Believing every gamma-ray emission from a nucleus is inherently too broadened by recoil to ever be resonantly reabsorbed by an identical nucleus, regardless of the emitter's physical environment -- this is true specifically for a genuinely free, unbound nucleus, where the emitted photon must carry away momentum balanced entirely by the single recoiling nucleus, shifting its energy measurably; when the emitting nucleus is instead rigidly bound within a crystal lattice, a substantial fraction of emissions transfer that recoil to the crystal as a whole rather than to the single nucleus, and the crystal's enormously larger mass makes the resulting energy shift negligible, restoring genuinely resonant, recoil-free emission and absorption.",
+    "et": "Arvamus, et iga tuuma gammakiirguse emissioon on olemuslikult liiga laienenud tagasilöögi tõttu, et seda saaks kunagi resonantselt neelduda identne tuum, olenemata kiirgaja füüsilisest keskkonnast -- see kehtib spetsiifiliselt tõeliselt vaba, sidumata tuuma jaoks, kus kiirgatud footon peab kaasa kandma impulssi, mida tasakaalustab täielikult üksik tagasilöövat tuum, nihutades mõõdetavalt selle energiat; kui kiirgav tuum on selle asemel jäigalt seotud kristallvõre sisse, kannab märkimisväärne osa emissioonidest selle tagasilöögi üle mitte üksikule tuumale, vaid kogu kristallile, ning kristalli tohutult suurem mass muudab saadud energianihke tähtsusetuks, taastades tõeliselt resonantse, tagasilöögivaba emissiooni ja neeldumise.",
+    "sourceHash": "13319b8fac5ea75a",
+    "stale": false
+  }
+}

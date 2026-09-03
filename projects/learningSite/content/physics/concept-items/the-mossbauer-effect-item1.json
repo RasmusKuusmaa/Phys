@@ -1,0 +1,55 @@
+{
+  "id": "the-mossbauer-effect-item1",
+  "conceptId": "the-mossbauer-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does binding an emitting nucleus rigidly inside a crystal lattice restore genuinely resonant gamma-ray emission and absorption, when a free nucleus's emission cannot be resonantly reabsorbed?",
+    "et": "Miks taastab kiirgava tuuma jäik sidumine kristallvõre sisse tõeliselt resonantse gammakiirguse emissiooni ja neeldumise, kui vaba tuuma emissiooni ei saa resonantselt uuesti neelduda?",
+    "sourceHash": "7c0d763c5f47e4da",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The recoil momentum is absorbed by the crystal lattice as a whole rather than the single nucleus, and the lattice's vastly larger mass makes the resulting energy shift negligible.",
+        "et": "Tagasilöögi impulss neeldub kogu kristallvõre poolt, mitte üksiku tuuma poolt, ning võre tohutult suurem mass muudab saadud energianihke tähtsusetuks.",
+        "sourceHash": "fc9d35a94c3927dc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The crystal lattice somehow suspends momentum conservation for the emitting nucleus, so no recoil occurs in the emission event at all.",
+        "et": "Kristallvõre kuidagi peatab impulsi jäävuse kiirgava tuuma jaoks, seega ei toimu emissioonisündmuses üldse tagasilööki.",
+        "sourceHash": "aa32c7d71329b65f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-mossbauer-effect-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't actually restore resonance -- crystal-bound nuclei experience exactly the same recoil energy shift as free nuclei, with no observable difference between the two cases.",
+        "et": "See ei taasta tegelikult resonantsi -- kristalliga seotud tuumad kogevad täpselt sama tagasilöögienergia nihet kui vabad tuumad, ilma vaadeldava erinevuseta kahe juhtumi vahel.",
+        "sourceHash": "60027c3c84164b3e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-mossbauer-effect-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The crystal lattice's electrons shield the emitted photon from any recoil-related energy loss through an electromagnetic screening effect.",
+        "et": "Kristallvõre elektronid varjestavad kiirgatud footonit mistahes tagasilöögiga seotud energiakaotuse eest elektromagnetilise varjestusefekti kaudu.",
+        "sourceHash": "9d8de9c1229072fe",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

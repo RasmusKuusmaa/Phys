@@ -1,0 +1,10 @@
+{
+  "id": "the-mossbauer-effect-m2",
+  "conceptId": "the-mossbauer-effect",
+  "text": {
+    "en": "Believing the Mössbauer effect works by somehow eliminating recoil momentum conservation, as though the emitting nucleus simply stops obeying Newton's third law inside a crystal -- momentum is still conserved in every single emission event; what changes is who absorbs that recoil momentum: rather than the single emitting nucleus recoiling alone (as a free nucleus must), the recoil momentum in a substantial fraction of crystal-bound emissions is instead absorbed collectively by the crystal lattice as a whole, whose mass is vastly larger than a single nucleus's, making the resulting velocity change (and therefore the resulting Doppler-like energy shift) correspondingly negligible, not eliminating the physics but redistributing which mass absorbs it.",
+    "et": "Arvamus, et Mössbaueri efekt toimib kuidagi kõrvaldades tagasilöögi impulsi jäävuse, nagu lõpetaks kiirgav tuum kristalli sees lihtsalt Newtoni kolmanda seaduse järgimise -- impulss on endiselt jäävuslik igas üksikus emissioonisündmuses; see, mis muutub, on see, kes seda tagasilöögi impulssi neelab: selle asemel, et üksik kiirgav tuum üksi tagasi tõukuks (nagu vaba tuum peab), neeldub tagasilöögi impulss märkimisväärses osas kristallis seotud emissioonides selle asemel kollektiivselt kogu kristallvõre poolt, mille mass on tohutult suurem kui üksikul tuumal, muutes saadud kiiruse muutuse (ja seega saadud Doppleri-taolise energianihke) vastavalt tähtsusetuks, mitte kõrvaldades füüsikat, vaid ümber jaotades, mis mass seda neelab.",
+    "sourceHash": "22e50530ca492d68",
+    "stale": false
+  }
+}
