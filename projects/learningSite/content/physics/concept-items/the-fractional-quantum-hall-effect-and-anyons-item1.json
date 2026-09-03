@@ -1,0 +1,56 @@
+{
+  "id": "the-fractional-quantum-hall-effect-and-anyons-item1",
+  "conceptId": "the-fractional-quantum-hall-effect-and-anyons",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can quasiparticles in the fractional quantum Hall effect have exchange statistics that are neither fermionic nor bosonic?",
+    "et": "Miks võivad murdarvulise kvant-Halli efekti kvaasiosakestel olla vahetusstatistikad, mis ei ole ei fermionilikud ega bosonilikud?",
+    "sourceHash": "681a9d3015cbc85c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because in exactly two spatial dimensions, exchanging two particles once is topologically distinct from exchanging them twice, allowing statistics between fermionic and bosonic.",
+        "et": "Sest täpselt kahes ruumilises mõõtmes on kahe osakese ühekordne vahetamine topoloogiliselt erinev nende kahekordsest vahetamisest, lubades statistikaid fermionite ja bosonite vahel.",
+        "sourceHash": "954b63464616af0e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the fractional quantum Hall effect is just a weaker version of the integer effect, so the statistics are simply scaled-down fermionic statistics.",
+        "et": "Sest murdarvuline kvant-Halli efekt on lihtsalt täisarvulise efekti nõrgem versioon, seega on statistikad lihtsalt vähendatud fermionilikud statistikad.",
+        "sourceHash": "78c5c59d26d27129",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fractional-quantum-hall-effect-and-anyons-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It isn't really different -- quantum mechanics only ever allows exactly two statistics, bosonic and fermionic, in any number of dimensions.",
+        "et": "See ei ole tegelikult erinev -- kvantmehaanika lubab alati ainult täpselt kahte statistikat, bosonilist ja fermionilist, mistahes arvu mõõtmete korral.",
+        "sourceHash": "0197ab73a96a0349",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fractional-quantum-hall-effect-and-anyons-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because individual electrons literally split apart into smaller fractionally charged pieces, each with its own independent statistics.",
+        "et": "Sest üksikud elektronid sõna otseses mõttes lõhenevad väiksemateks murdlaenguga tükkideks, millest igaühel on oma sõltumatu statistika.",
+        "sourceHash": "4d23167b57c7650b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fractional-quantum-hall-effect-and-anyons-m3"
+    }
+  ]
+}

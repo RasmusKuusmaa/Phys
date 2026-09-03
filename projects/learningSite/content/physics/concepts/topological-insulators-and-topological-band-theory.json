@@ -1,0 +1,22 @@
+{
+  "id": "topological-insulators-and-topological-band-theory",
+  "subject": "physics",
+  "level": "L4",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "Topological insulators and topological band theory",
+    "et": "Topoloogilised isolaatorid ja topoloogiline tsoonteooria",
+    "sourceHash": "46fd5079a77498f8",
+    "stale": false
+  },
+  "summary": {
+    "en": "A topological insulator is electrically insulating throughout its bulk, exactly like an ordinary band insulator, yet always conducts along its surface or edge, and that conducting boundary is not a defect or an accident of preparation but a mathematically guaranteed consequence of a topological invariant computed from the bulk band structure that cannot change without closing the bulk energy gap, so the surface states survive disorder, impurities, and continuous deformation of the material in a way ordinary conducting surfaces never do, a genuinely new organizing principle in condensed matter physics beyond the traditional symmetry-breaking classification of phases of matter.",
+    "et": "Topoloogiline isolaator on kogu oma mahus elektriliselt isoleeriv, täpselt nagu tavaline tsooniisolaator, kuid juhib alati piki oma pinda või serva, ning see juhtiv piir ei ole defekt ega valmistamise juhuslikkus, vaid matemaatiliselt garanteeritud tagajärg topoloogilisest invariandist, mis on arvutatud mahulisest tsoonistruktuurist ja mis ei saa muutuda ilma mahulise energialõhe sulgemiseta, seega jäävad pinnaolekud ellu häirete, lisandite ja materjali pideva deformatsiooni suhtes viisil, mida tavalised juhtivad pinnad kunagi ei tee -- tõeliselt uus korraldav põhimõte kondenseeritud aine füüsikas, mis ületab traditsioonilise aineolekute klassifikatsiooni sümmeetria murdumise kaudu.",
+    "sourceHash": "c3a9419c24532a8f",
+    "stale": false
+  },
+  "prerequisites": [
+    "band-theory-of-solids",
+    "the-tight-binding-model"
+  ]
+}

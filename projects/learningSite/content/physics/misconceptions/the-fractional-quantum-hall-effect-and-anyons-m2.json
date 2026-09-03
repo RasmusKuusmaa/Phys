@@ -1,0 +1,10 @@
+{
+  "id": "the-fractional-quantum-hall-effect-and-anyons-m2",
+  "conceptId": "the-fractional-quantum-hall-effect-and-anyons",
+  "text": {
+    "en": "Believing every particle in nature must be either a boson or a fermion, since those are the only two options quantum mechanics allows -- that dichotomy is strictly a three-dimensional-space result; in exactly two spatial dimensions, exchanging two identical particles is topologically distinct from exchanging them twice (there's no way to continuously deform one exchange path into the other without leaving the plane), allowing quasiparticle excitations with exchange statistics anywhere between fermionic and bosonic, or even more general non-abelian statistics, a genuine third category (anyons) that simply has no counterpart in three-dimensional space.",
+    "et": "Arvamus, et iga osake looduses peab olema kas boson või fermion, kuna need on ainsad kaks võimalust, mida kvantmehaanika lubab -- see dihhotoomia on rangelt kolmemõõtmelise ruumi tulemus; täpselt kahes ruumilises mõõtmes on kahe identse osakese vahetamine topoloogiliselt erinev nende kahekordsest vahetamisest (pole viisi, kuidas ühte vahetusrada teiseks pidevalt deformeerida ilma tasandilt lahkumata), lubades kvaasiosakese ergastusi vahetusstatistikaga, mis on kusagil fermionite ja bosonite vahel, või isegi üldisemat mitteabeelist statistikat, tõelist kolmandat kategooriat (anüonid), millel lihtsalt pole vastet kolmemõõtmelises ruumis.",
+    "sourceHash": "63be37882e135be7",
+    "stale": false
+  }
+}

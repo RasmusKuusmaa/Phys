@@ -1,0 +1,10 @@
+{
+  "id": "topological-insulators-and-topological-band-theory-m2",
+  "conceptId": "topological-insulators-and-topological-band-theory",
+  "text": {
+    "en": "Believing a topological insulator is just a regular conductor with an insulating property, or a regular insulator that happens to also conduct, a simple hybrid material with no deeper distinction from ordinary materials -- the bulk of a topological insulator is a genuine, ordinary band insulator (a full gap, no bulk conduction), and it is specifically the mathematical impossibility of smoothly deforming its bulk band structure into that of an ordinary (topologically trivial) insulator without closing the energy gap that forces conducting states to exist at any boundary where the two meet, a fundamentally topological rather than merely compositional distinction.",
+    "et": "Arvamus, et topoloogiline isolaator on lihtsalt tavaline juht isoleeriva omadusega, või tavaline isolaator, mis juhtub ka juhtima, lihtne hübriidmaterjal ilma sügavama erinevuseta tavalistest materjalidest -- topoloogilise isolaatori maht on tõeline, tavaline tsooniisolaator (täielik lõhe, ilma mahulise juhtivuseta), ning just matemaatiline võimatus sujuvalt deformeerida selle mahulist tsoonistruktuuri tavalise (topoloogiliselt triviaalse) isolaatori struktuuriks ilma energialõhet sulgemata sunnib juhtivaid olekuid eksisteerima igal piiril, kus need kaks kohtuvad, fundamentaalselt topoloogiline, mitte lihtsalt koostisest tulenev eristus.",
+    "sourceHash": "106957f8abb41f83",
+    "stale": false
+  }
+}

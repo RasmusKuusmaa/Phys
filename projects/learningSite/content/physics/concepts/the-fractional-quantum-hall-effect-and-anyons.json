@@ -1,0 +1,22 @@
+{
+  "id": "the-fractional-quantum-hall-effect-and-anyons",
+  "subject": "physics",
+  "level": "L4",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "The fractional quantum Hall effect and anyons",
+    "et": "Murdarvuline kvant-Halli efekt ja anüonid",
+    "sourceHash": "93522bbe2bac9cdc",
+    "stale": false
+  },
+  "summary": {
+    "en": "At very low temperatures and strong magnetic fields, a two-dimensional electron gas can settle into a strongly correlated collective state whose Hall conductance is quantized not in simple integer steps but in specific fractions, a genuinely many-body quantum phenomenon that cannot be explained by treating electrons as independent particles, and whose low-energy excitations behave as quasiparticles carrying a fraction of an electron's charge and obeying exchange statistics -- anyonic statistics -- that are neither fermionic nor bosonic, a possibility that exists only because the system is confined to two spatial dimensions.",
+    "et": "Väga madalatel temperatuuridel ja tugevates magnetväljades võib kahemõõtmeline elektrongaas asuda tugevalt korreleeritud kollektiivsesse olekusse, mille Halli juhtivus on kvanditud mitte lihtsate täisarvuliste sammudena, vaid konkreetsete murdarvudena -- tõeliselt paljukeha kvantnähtus, mida ei saa seletada elektronide käsitlemisega sõltumatute osakestena, ning mille madalaenergeetilised ergastused käituvad kvaasiosakestena, mis kannavad murdosa elektroni laengust ja alluvad vahetusstatistikale -- anüonlikule statistikale --, mis ei ole ei fermionilik ega bosonilik, võimalus, mis eksisteerib ainult seetõttu, et süsteem on piiratud kahe ruumilise mõõtmega.",
+    "sourceHash": "8cc9ab70187e112a",
+    "stale": false
+  },
+  "prerequisites": [
+    "identical-particles-and-the-symmetrization-postulate",
+    "the-tight-binding-model"
+  ]
+}

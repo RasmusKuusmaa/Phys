@@ -1,0 +1,55 @@
+{
+  "id": "topological-insulators-and-topological-band-theory-item1",
+  "conceptId": "topological-insulators-and-topological-band-theory",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do a topological insulator's conducting surface states survive disorder and impurities that would destroy an ordinary surface conduction channel?",
+    "et": "Miks jäävad topoloogilise isolaatori juhtivad pinnaolekud ellu häirete ja lisandite suhtes, mis hävitaksid tavalise pinnajuhtivuskanali?",
+    "sourceHash": "82313c06bf1cddc5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because they're a mathematically required consequence of a bulk topological invariant, guaranteed by the bulk-boundary correspondence regardless of surface chemistry.",
+        "et": "Sest need on matemaatiliselt nõutav tagajärg mahulisest topoloogilisest invariandist, mille garanteerib mahu-piiri vastavus sõltumata pinna keemiast.",
+        "sourceHash": "113dd30d4b0e2f2e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because they're caused by ordinary surface defects and dangling bonds, the same accidental conduction any material's surface might show.",
+        "et": "Sest need on põhjustatud tavalistest pinnadefektidest ja lahtistest sidemetest, sama juhuslikust juhtivusest, mida mistahes materjali pind võiks näidata.",
+        "sourceHash": "cb4b224fffa7c094",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "topological-insulators-and-topological-band-theory-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because a topological insulator is simply a hybrid material that conducts and insulates simultaneously, with no deeper mathematical distinction involved.",
+        "et": "Sest topoloogiline isolaator on lihtsalt hübriidmaterjal, mis juhib ja isoleerib samaaegselt, ilma sügavama matemaatilise eristuseta.",
+        "sourceHash": "a35959f31564d970",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "topological-insulators-and-topological-band-theory-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They don't -- topological insulator surface conduction is destroyed by disorder just as easily as any ordinary material's surface conduction.",
+        "et": "Ei jää -- topoloogilise isolaatori pinnajuhtivus hävib häire poolt sama kergesti nagu mistahes tavalise materjali pinnajuhtivus.",
+        "sourceHash": "a99a7fbda3983173",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

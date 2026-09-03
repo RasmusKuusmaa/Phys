@@ -1,0 +1,10 @@
+{
+  "id": "topological-insulators-and-topological-band-theory-m3",
+  "conceptId": "topological-insulators-and-topological-band-theory",
+  "text": {
+    "en": "Believing the classification of phases of matter is complete once ordinary symmetry-breaking (the Landau paradigm, distinguishing phases by which symmetries are spontaneously broken, like a solid breaking translational symmetry) is accounted for -- topological insulators are a genuinely new kind of phase that the traditional symmetry-breaking classification cannot capture at all, since a topological insulator and an ordinary insulator can share exactly the same symmetries and yet be physically, measurably distinct (different surface conductivity) because of a difference in bulk topology rather than in symmetry breaking, motivating an entirely separate topological classification of matter alongside the older Landau paradigm.",
+    "et": "Arvamus, et aineolekute klassifikatsioon on täielik, kui tavaline sümmeetria murdumine (Landau paradigma, mis eristab olekuid selle järgi, millised sümmeetriad on spontaanselt murtud, nagu tahke aine, mis murrab translatsioonilise sümmeetria) on arvesse võetud -- topoloogilised isolaatorid on tõeliselt uus tüüpi olek, mida traditsiooniline sümmeetria murdumise klassifikatsioon üldse ei suuda tabada, kuna topoloogilisel isolaatoril ja tavalisel isolaatoril võivad olla täpselt samad sümmeetriad, olles siiski füüsikaliselt, mõõdetavalt erinevad (erinev pinnajuhtivus) mahulise topoloogia erinevuse tõttu, mitte sümmeetria murdumise tõttu, motiveerides täiesti eraldiseisvat topoloogilist aine klassifikatsiooni koos vanema Landau paradigmaga.",
+    "sourceHash": "bc157a34f1e4b13f",
+    "stale": false
+  }
+}

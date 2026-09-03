@@ -1,0 +1,10 @@
+{
+  "id": "the-fractional-quantum-hall-effect-and-anyons-m1",
+  "conceptId": "the-fractional-quantum-hall-effect-and-anyons",
+  "text": {
+    "en": "Believing the fractional quantum Hall effect is just a smaller, weaker version of the integer quantum Hall effect, explained by the same single-particle band physics with a fractional correction factor -- the integer effect is well explained by treating electrons as independent particles filling discrete Landau levels, but the fractional effect fundamentally requires strong electron-electron interactions and genuine many-body correlation, and cannot be derived at all from a single-particle picture no matter how it's corrected; it is a qualitatively different, strongly correlated phenomenon, not a scaled-down version of the integer effect.",
+    "et": "Arvamus, et murdarvuline kvant-Halli efekt on lihtsalt väiksem, nõrgem versioon täisarvulisest kvant-Halli efektist, seletatud sama üksikosakese tsoonifüüsikaga murdarvulise parandusteguriga -- täisarvulist efekti seletab hästi elektronide käsitlemine sõltumatute osakestena, mis täidavad diskreetseid Landau tasemeid, kuid murdarvuline efekt nõuab fundamentaalselt tugevaid elektron-elektron interaktsioone ja tõelist paljukeha korrelatsiooni, ning seda ei saa üldse tuletada üksikosakese pildist, ükskõik kuidas seda parandada; see on kvalitatiivselt erinev, tugevalt korreleeritud nähtus, mitte täisarvulise efekti vähendatud versioon.",
+    "sourceHash": "918c7dc7ba378347",
+    "stale": false
+  }
+}

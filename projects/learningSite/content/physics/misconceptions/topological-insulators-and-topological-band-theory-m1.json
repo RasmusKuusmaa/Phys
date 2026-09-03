@@ -1,0 +1,10 @@
+{
+  "id": "topological-insulators-and-topological-band-theory-m1",
+  "conceptId": "topological-insulators-and-topological-band-theory",
+  "text": {
+    "en": "Believing a topological insulator's surface conductivity is caused by ordinary surface defects, dangling bonds, or impurities, the same kind of accidental conduction any real material's surface might show -- the surface states are instead a mathematically required consequence of a bulk topological invariant, guaranteed to exist by the bulk-boundary correspondence regardless of the specific surface's chemical details, which is exactly why they survive disorder and impurities that would destroy an ordinary, accidental surface conduction channel.",
+    "et": "Arvamus, et topoloogilise isolaatori pinna juhtivus on põhjustatud tavalistest pinnadefektidest, lahtistest sidemetest või lisanditest, sama tüüpi juhuslikust juhtivusest, mida mistahes reaalse materjali pind võiks näidata -- pinnaolekud on selle asemel matemaatiliselt nõutav mahulise topoloogilise invariandi tagajärg, mille olemasolu garanteerib mahu-piiri vastavus sõltumata konkreetse pinna keemilistest üksikasjadest, mis on täpselt põhjus, miks need jäävad ellu häirete ja lisandite suhtes, mis hävitaksid tavalise, juhusliku pinnajuhtivuskanali.",
+    "sourceHash": "151987921ecffcf7",
+    "stale": false
+  }
+}
