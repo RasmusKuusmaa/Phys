@@ -83,13 +83,13 @@ git log --oneline | grep '^content: add '   # concepts already landed this phase
 - [x] The fluctuation-dissipation theorem
 - [x] The Boltzmann transport equation (bridge to solid-state transport)
 
-## Phase M5 — Solid-state physics (existing: band theory through quantum confinement)
+## Phase M5 — Solid-state physics (existing: band theory through quantum confinement) — done
 
-- [ ] Phonons and the dynamics of the 1D/3D lattice
-- [ ] The tight-binding model
-- [ ] BCS theory of superconductivity (microscopic, beyond the existing
+- [x] Phonons and the dynamics of the 1D/3D lattice
+- [x] The tight-binding model
+- [x] BCS theory of superconductivity (microscopic, beyond the existing
       phenomenological `superconductivity` concept)
-- [ ] The Fermi surface and electronic transport
+- [x] The Fermi surface and electronic transport
 
 ## Phase M6 — Particle physics (existing: only 2 concepts — biggest MSc gap)
 
