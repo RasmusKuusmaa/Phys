@@ -1,0 +1,10 @@
+{
+  "id": "optical-coherence-temporal-and-spatial-m1",
+  "conceptId": "optical-coherence-temporal-and-spatial",
+  "text": {
+    "en": "Believing coherence is a single, unified property that light either simply 'has' or 'lacks', rather than two genuinely distinct kinds -- temporal coherence (how long a source's phase stays predictable over time, governed by its spectral bandwidth) and spatial coherence (how well the phase stays correlated across the source's own physical extent, governed by its size) arise from different physical causes and can be present independently: a source can, for instance, have good temporal coherence (a narrow spectral line) while still having poor spatial coherence (because it is physically large), or vice versa.",
+    "et": "Arvamus, et koherentsus on ühtne, ühtne omadus, mis valgusel kas lihtsalt 'on' või 'puudub', mitte kaks tõeliselt eristuvat liiki -- ajaline koherentsus (kui kaua allika faas jääb ajas ennustatavaks, mida juhib selle spektraalne ribalaius) ja ruumiline koherentsus (kui hästi faas jääb korreleerituks üle allika enda füüsilise ulatuse, mida juhib selle suurus) tekivad erinevatest füüsikalistest põhjustest ja võivad olla kohal sõltumatult: allikal võib näiteks olla hea ajaline koherentsus (kitsas spektrijoon), samal ajal kui sellel on ikkagi kehv ruumiline koherentsus (kuna see on füüsiliselt suur), või vastupidi.",
+    "sourceHash": "eb005e2f6822c315",
+    "stale": false
+  }
+}

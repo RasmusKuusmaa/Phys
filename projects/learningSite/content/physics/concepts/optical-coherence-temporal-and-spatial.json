@@ -1,0 +1,22 @@
+{
+  "id": "optical-coherence-temporal-and-spatial",
+  "subject": "physics",
+  "level": "L4",
+  "module": "optics",
+  "title": {
+    "en": "Optical coherence: temporal and spatial coherence",
+    "et": "Optiline koherentsus: ajaline ja ruumiline koherentsus",
+    "sourceHash": "a7587b3166affcb5",
+    "stale": false
+  },
+  "summary": {
+    "en": "A stable, high-contrast interference pattern only forms when the light waves being combined maintain a fixed, predictable phase relationship over the time and distance involved, a property called coherence that comes in two genuinely distinct flavours: temporal coherence, measuring how long a light source's phase stays predictable as time passes (set fundamentally by how narrow the source's spectral bandwidth is, since a source emitting many different frequencies simultaneously has its net phase relationship scramble quickly), and spatial coherence, measuring how well the phase stays correlated across different points on the source's own emitting surface (set by the source's physical size, since a large, extended source is really many independent point emitters superposed, each imprinting its own uncorrelated phase); an ordinary incandescent bulb is neither temporally nor spatially very coherent, while a laser achieves both to an extraordinary degree, which is precisely why interference and diffraction experiments that work effortlessly with laser light require careful filtering, narrow slits, or long path-length matching to work at all with ordinary thermal light.",
+    "et": "Stabiilne, kõrge kontrastiga interferentsmuster tekib ainult siis, kui kombineeritavad valguslained säilitavad fikseeritud, ennustatava faasisuhte kogu asjasse puutuva aja ja kauguse jooksul, omadus nimega koherentsus, mis esineb kahe tõeliselt eristuva vormina: ajaline koherentsus, mis mõõdab, kui kaua valgusallika faas jääb ajas ennustatavaks (määratud fundamentaalselt sellest, kui kitsas on allika spektraalne ribalaius, kuna allikas, mis kiirgab samaaegselt palju erinevaid sagedusi, näeb oma netofaasisuhte kiiresti sassi minemas), ning ruumiline koherentsus, mis mõõdab, kui hästi faas jääb korreleerituks üle erinevate punktide allika enda kiirgaval pinnal (määratud allika füüsilisest suurusest, kuna suur, ulatuslik allikas on tegelikult paljud sõltumatud punktkiirgajad üksteise peale liidetuna, kusjuures igaüks jätab oma korrelleerimata faasi); tavaline hõõglamp ei ole eriti koherentne ei ajaliselt ega ruumiliselt, samal ajal kui laser saavutab mõlemat erakordsel määral, mis ongi täpselt põhjus, miks interferentsi ja difraktsiooni eksperimendid, mis toimivad laservalgusega vaevata, vajavad hoolikat filtreerimist, kitsaid pilusid või pika teepikkuse sobitamist, et üldse toimida tavalise soojusliku valgusega.",
+    "sourceHash": "d033f18a74023fe8",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-michelson-interferometer",
+    "wave-nature-of-light"
+  ]
+}

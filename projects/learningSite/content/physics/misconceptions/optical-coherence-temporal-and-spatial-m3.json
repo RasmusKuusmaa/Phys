@@ -1,0 +1,10 @@
+{
+  "id": "optical-coherence-temporal-and-spatial-m3",
+  "conceptId": "optical-coherence-temporal-and-spatial",
+  "text": {
+    "en": "Believing an extended, physically large light source cannot in principle produce any usable interference pattern at all, since its spatial coherence is inherently poor -- while an extended thermal source genuinely has limited spatial coherence overall, restricting a beam from it through a sufficiently narrow aperture or pinhole selects out light effectively originating from a much smaller, more nearly point-like region, restoring usable spatial coherence over the correspondingly smaller region actually being sampled; this is exactly the practical trick used to obtain interference fringes from ordinary extended sources like sunlight or an incandescent bulb, not evidence that extended sources are entirely useless for interference.",
+    "et": "Arvamus, et ulatuslik, füüsiliselt suur valgusallikas ei saa põhimõtteliselt üldse tekitada kasutatavat interferentsmustrit, kuna selle ruumiline koherentsus on olemuslikult kehv -- kuigi ulatuslikul soojusallikal on tervikuna tõesti piiratud ruumiline koherentsus, valib kiire piiramine sellest piisavalt kitsa ava või nõelaugu kaudu välja valguse, mis pärineb efektiivselt palju väiksemast, peaaegu punktikujulisemast piirkonnast, taastades kasutatava ruumilise koherentsi vastavalt väiksema, tegelikult vaadeldud piirkonna üle; see ongi täpselt praktiline nipp, mida kasutatakse interferentsiribade saamiseks tavalistest ulatuslikest allikatest nagu päikesevalgus või hõõglamp, mitte tõend selle kohta, et ulatuslikud allikad on interferentsi jaoks täiesti kasutud.",
+    "sourceHash": "3e53797a7d872a48",
+    "stale": false
+  }
+}

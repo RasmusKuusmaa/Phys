@@ -1,0 +1,55 @@
+{
+  "id": "optical-coherence-temporal-and-spatial-item1",
+  "conceptId": "optical-coherence-temporal-and-spatial",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A physically large light source emits an extremely narrow spectral line (excellent temporal coherence), yet a double-slit experiment using it directly produces almost no visible interference fringes. What does this most likely indicate?",
+    "et": "Füüsiliselt suur valgusallikas kiirgab äärmiselt kitsast spektrijoont (suurepärane ajaline koherentsus), kuid kaksikpilu eksperiment, mis seda otse kasutab, ei tekita peaaegu üldse nähtavaid interferentsiribasid. Mida see kõige tõenäolisemalt näitab?",
+    "sourceHash": "543ee420fcf6297c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The source likely has poor spatial coherence due to its physical size, independent of its excellent temporal coherence, and could be improved by restricting the beam through a small aperture first.",
+        "et": "Allikal on tõenäoliselt kehv ruumiline koherentsus selle füüsilise suuruse tõttu, sõltumatult selle suurepärasest ajalisest koherentsist, ja seda saaks parandada, piirates kiirt esmalt läbi väikese ava.",
+        "sourceHash": "8cb1d02713810a43",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is impossible -- a source with excellent temporal coherence must automatically also have excellent spatial coherence, since coherence is a single unified property.",
+        "et": "See on võimatu -- suurepärase ajalise koherentsiga allikal peab automaatselt olema ka suurepärane ruumiline koherentsus, kuna koherentsus on üks ühtne omadus.",
+        "sourceHash": "973dfb053c0d444a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-coherence-temporal-and-spatial-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The source's narrow spectral line must actually be a measurement error, since a truly narrow-linewidth source could never be physically large.",
+        "et": "Allika kitsas spektrijoon peab tegelikult olema mõõteviga, kuna tõeliselt kitsa joonelaiusega allikas ei saaks kunagi olla füüsiliselt suur.",
+        "sourceHash": "803c62c7f7770994",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Extended sources can never produce interference fringes under any circumstances, so no aperture or filtering trick could ever fix this.",
+        "et": "Ulatuslikud allikad ei saa kunagi mitte mingil tingimusel tekitada interferentsiribasid, seega ei saaks mingi ava või filtreerimise nipp seda kunagi parandada.",
+        "sourceHash": "58a5b7d9075352d0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "optical-coherence-temporal-and-spatial-m3"
+    }
+  ]
+}

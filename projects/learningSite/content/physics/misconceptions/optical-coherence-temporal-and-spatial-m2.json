@@ -1,0 +1,10 @@
+{
+  "id": "optical-coherence-temporal-and-spatial-m2",
+  "conceptId": "optical-coherence-temporal-and-spatial",
+  "text": {
+    "en": "Believing a light source's temporal coherence depends on its brightness or intensity rather than on its spectral bandwidth -- a source's temporal coherence length is set specifically by how narrow a range of frequencies (or wavelengths) it emits simultaneously, since a source emitting many different frequencies at once has each frequency's phase drifting relative to the others at a different rate, scrambling the net phase relationship after only a short time or distance; a source can be extremely bright yet have poor temporal coherence (an ordinary incandescent bulb, emitting a broad continuous spectrum) or comparatively dim yet have excellent temporal coherence (a stabilized single-frequency laser), showing brightness and coherence are unrelated quantities.",
+    "et": "Arvamus, et valgusallika ajaline koherentsus sõltub selle heledusest või intensiivsusest, mitte selle spektraalsest ribalaiusest -- allika ajalise koherentsi pikkuse määrab spetsiifiliselt see, kui kitsa sageduste (või lainepikkuste) vahemiku see samaaegselt kiirgab, kuna allikas, mis kiirgab korraga palju erinevaid sagedusi, näeb iga sageduse faasi triivimas teiste suhtes erineva kiirusega, segades netofaasisuhte juba pärast lühikest aega või vahemaad; allikas võib olla äärmiselt hele, kuid halva ajalise koherentsiga (tavaline hõõglamp, mis kiirgab laia pidevat spektrit) või võrdlemisi tuhm, kuid suurepärase ajalise koherentsiga (stabiliseeritud üksiksageduslik laser), mis näitab, et heledus ja koherentsus on mitteseotud suurused.",
+    "sourceHash": "0fe37fc2ab43cceb",
+    "stale": false
+  }
+}
