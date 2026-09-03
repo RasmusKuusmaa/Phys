@@ -1,0 +1,56 @@
+{
+  "id": "quantum-chromodynamics-and-colour-confinement-item1",
+  "conceptId": "quantum-chromodynamics-and-colour-confinement",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why has no isolated, free quark ever been directly observed, unlike isolated electrons or photons?",
+    "et": "Miks ei ole kunagi otse täheldatud isoleeritud, vaba kvarki, erinevalt isoleeritud elektronidest või footonitest?",
+    "sourceHash": "c4516e29d1e83679",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because gluon self-interaction makes the strong force between quarks grow stronger with distance, so pulling quarks apart eventually creates new quark-antiquark pairs instead of releasing a free quark.",
+        "et": "Kuna gluoonide isetoime paneb tugeva jõu kvarkide vahel kaugusega tugevnema, nii et kvarkide lahutamine loob lõpuks uued kvark-antikvark paarid, selle asemel et vabastada vaba kvark.",
+        "sourceHash": "06a4b2408d43b9e5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because, like photons, gluons don't interact with each other at all, which somehow traps quarks together instead.",
+        "et": "Kuna gluoonid, nagu footonid, ei interakteeru üksteisega üldse, mis kuidagi lõksustab kvargid selle asemel koos.",
+        "sourceHash": "36bd0c82a07cd8d7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-chromodynamics-and-colour-confinement-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the strong force behaves just like electromagnetism, growing weaker with distance until quarks simply drift apart unnoticed.",
+        "et": "Kuna tugev jõud käitub täpselt nagu elektromagnetism, nõrgenedes kaugusega, kuni kvargid lihtsalt triivivad märkamatult lahku.",
+        "sourceHash": "83a2929b0f04b664",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-chromodynamics-and-colour-confinement-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because quarks are never free even at extremely short distances inside a proton, so isolation is impossible at any scale whatsoever.",
+        "et": "Kuna kvargid ei ole vabad isegi äärmiselt lühikestel vahemaadel prootoni sees, nii et isoleerimine on võimatu igal skaalal üldse.",
+        "sourceHash": "ee21df4bb282091b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-chromodynamics-and-colour-confinement-m3"
+    }
+  ]
+}

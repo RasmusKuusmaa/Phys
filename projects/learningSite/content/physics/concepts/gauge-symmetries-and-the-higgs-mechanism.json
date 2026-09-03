@@ -1,0 +1,22 @@
+{
+  "id": "gauge-symmetries-and-the-higgs-mechanism",
+  "subject": "physics",
+  "level": "L4",
+  "module": "particle-physics",
+  "title": {
+    "en": "Gauge symmetries and the Higgs mechanism",
+    "et": "Kalibratsioonisümmeetriad ja Higgsi mehhanism",
+    "sourceHash": "42ab61811dd251d7",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every force in the Standard Model arises from demanding that a particular symmetry hold locally, at every point in spacetime independently, rather than just globally — a requirement that forces a force-carrying gauge field into existence. Naively, this gauge symmetry also forces those force carriers to be massless, which is correct for the photon and gluons but wrong for the weak force's W and Z bosons; the Higgs mechanism resolves the conflict by having those bosons acquire mass through their interaction with a background field that fills all of space, without breaking the underlying gauge symmetry itself.",
+    "et": "Iga jõud standardmudelis tekib nõudest, et konkreetne sümmeetria kehtiks kohalikult, igas aegruumi punktis sõltumatult, mitte ainult globaalselt — nõue, mis sunnib olemasolu tulema jõudu kandva kalibratsioonivälja. Naiivselt sunnib see kalibratsioonisümmeetria ka need jõukandjad olema massitud, mis on õige footoni ja gluoonide jaoks, kuid vale nõrga jõu W ja Z bosonite jaoks; Higgsi mehhanism lahendab vastuolu, lastes neil bosonitel omandada mass interaktsiooni kaudu taustaväljaga, mis täidab kogu ruumi, ilma aluseks olevat kalibratsioonisümmeetriat ennast murdmata.",
+    "sourceHash": "71b62d1da9982bc2",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-standard-model-of-particle-physics",
+    "gauge-transformations-and-gauge-invariance"
+  ]
+}

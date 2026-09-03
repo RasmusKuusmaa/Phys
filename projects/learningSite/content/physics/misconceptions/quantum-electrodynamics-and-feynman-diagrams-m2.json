@@ -1,0 +1,10 @@
+{
+  "id": "quantum-electrodynamics-and-feynman-diagrams-m2",
+  "conceptId": "quantum-electrodynamics-and-feynman-diagrams",
+  "text": {
+    "en": "Believing an accurate QED calculation requires summing literally every possible Feynman diagram, an impossible infinite task — because each additional vertex contributes a smaller correction, suppressed by the small coupling constant, truncating the sum after a manageable number of diagrams already gives extraordinarily accurate, practically usable predictions.",
+    "et": "Arvamus, et täpne KED arvutus nõuab sõna otseses mõttes iga võimaliku Feynmani diagrammi summeerimist, võimatu lõpmatu ülesanne — kuna iga täiendav tipp panustab väiksema paranduse, summutatud väikese seostuskonstandi poolt, annab summa kärpimine pärast käsitletavat arvu diagramme juba erakordselt täpseid, praktiliselt kasutatavaid ennustusi.",
+    "sourceHash": "7b10ad791d08d91d",
+    "stale": false
+  }
+}

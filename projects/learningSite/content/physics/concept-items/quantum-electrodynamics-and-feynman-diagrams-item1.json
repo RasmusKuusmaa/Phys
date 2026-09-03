@@ -1,0 +1,56 @@
+{
+  "id": "quantum-electrodynamics-and-feynman-diagrams-item1",
+  "conceptId": "quantum-electrodynamics-and-feynman-diagrams",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In QED, why doesn't calculating a process require summing literally every one of the infinitely many possible Feynman diagrams to get a useful, accurate answer?",
+    "et": "Miks ei nõua protsessi arvutamine KED-s täpse, kasuliku vastuse saamiseks sõna otseses mõttes iga lõpmatult paljudest võimalikest Feynmani diagrammidest summeerimist?",
+    "sourceHash": "8f8932ab4a68c96b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Each additional vertex in a diagram contributes a factor of the small electromagnetic coupling constant, so more complex diagrams contribute progressively smaller corrections that can be safely truncated.",
+        "et": "Iga täiendav tipp diagrammis panustab väikese elektromagnetilise seostuskonstandi teguri, nii et keerulisemad diagrammid panustavad järjest väiksemaid parandusi, mida saab ohutult kärpida.",
+        "sourceHash": "eb4959d3246a6c5d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the diagrams depict literal physical events, and only a few of them actually happen in reality, so the rest can be ignored.",
+        "et": "Kuna diagrammid kujutavad tegelikke füüsikalisi sündmusi, ja ainult mõned neist tegelikult reaalsuses toimuvad, nii et ülejäänuid saab ignoreerida.",
+        "sourceHash": "f17684994893ac87",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-electrodynamics-and-feynman-diagrams-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It actually does require summing literally every diagram; QED predictions are therefore never truly usable in practice.",
+        "et": "See nõuab tegelikult sõna otseses mõttes iga diagrammi summeerimist; KED ennustused ei ole seetõttu kunagi tegelikult praktikas kasutatavad.",
+        "sourceHash": "50fdba7bd737061c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-electrodynamics-and-feynman-diagrams-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because this shortcut is a special feature unique to QED that doesn't apply to any other force's Feynman diagrams.",
+        "et": "Kuna see lühitee on spetsiifiline omadus, mis on ainuomane KED-le ega kehti ühegi teise jõu Feynmani diagrammide jaoks.",
+        "sourceHash": "1c8dfacf894533bf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-electrodynamics-and-feynman-diagrams-m3"
+    }
+  ]
+}

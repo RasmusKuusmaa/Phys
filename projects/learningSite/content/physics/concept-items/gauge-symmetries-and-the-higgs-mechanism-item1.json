@@ -1,0 +1,56 @@
+{
+  "id": "gauge-symmetries-and-the-higgs-mechanism-item1",
+  "conceptId": "gauge-symmetries-and-the-higgs-mechanism",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "According to the Higgs mechanism, why do the W and Z bosons have mass while the photon does not?",
+    "et": "Higgsi mehhanismi kohaselt, miks on W ja Z bosonitel mass, kuid footonil mitte?",
+    "sourceHash": "8c96f859621f85a2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The W and Z bosons interact with the ever-present, nonzero Higgs field in a way the photon does not, acquiring mass through that interaction while the photon remains massless.",
+        "et": "W ja Z bosonid interakteeruvad alati kohalviibiva, nullist erineva Higgsi väljaga viisil, mida footon ei tee, omandades selle interaktsiooni kaudu massi, samal ajal kui footon jääb massituks.",
+        "sourceHash": "ed4bf1d5cc7e7aab",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The Higgs mechanism actually gives mass to every Standard Model particle equally, including the photon, just by a smaller amount.",
+        "et": "Higgsi mehhanism annab tegelikult massi igale standardmudeli osakesele võrdselt, kaasa arvatud footonile, lihtsalt väiksemas koguses.",
+        "sourceHash": "97d6da3dac6e24e9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gauge-symmetries-and-the-higgs-mechanism-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The gauge symmetry underlying the weak force was simply broken and removed from the theory for the W and Z, but kept intact for the photon.",
+        "et": "Nõrga jõu aluseks olev kalibratsioonisümmeetria lihtsalt murti ja eemaldati teooriast W ja Z jaoks, kuid jäeti footoni jaoks puutumatuks.",
+        "sourceHash": "7af9e489b8d52dae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gauge-symmetries-and-the-higgs-mechanism-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The Higgs field is just ordinary empty space, so this has nothing to do with the Higgs mechanism at all — the mass difference must come from somewhere else entirely.",
+        "et": "Higgsi väli on lihtsalt tavaline tühi ruum, nii et sellel pole Higgsi mehhanismiga üldse mingit pistmist — massierinevus peab tulema hoopis kusagilt mujalt.",
+        "sourceHash": "c9a1b022de86893a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gauge-symmetries-and-the-higgs-mechanism-m3"
+    }
+  ]
+}

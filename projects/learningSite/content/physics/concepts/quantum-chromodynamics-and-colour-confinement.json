@@ -1,0 +1,22 @@
+{
+  "id": "quantum-chromodynamics-and-colour-confinement",
+  "subject": "physics",
+  "level": "L4",
+  "module": "particle-physics",
+  "title": {
+    "en": "Quantum chromodynamics and colour confinement",
+    "et": "Kvantkromodünaamika ja värvuse konfinement",
+    "sourceHash": "76cf9c33b3ab00fd",
+    "stale": false
+  },
+  "summary": {
+    "en": "Quantum chromodynamics (QCD) describes the strong force as an exchange of gluons between quarks, each carrying one of three 'colour' charges — but unlike the photon, gluons themselves carry colour charge and interact with each other directly, which makes the force grow stronger, not weaker, with distance, and is the reason no single quark or gluon has ever been observed in isolation.",
+    "et": "Kvantkromodünaamika (KKD) kirjeldab tugevat jõudu gluoonide vahetusena kvarkide vahel, millest igaüks kannab üht kolmest 'värvi'laengust — kuid erinevalt footonist kannavad gluoonid ise värvilaengut ja interakteeruvad üksteisega otse, mis paneb jõu kaugusega tugevnema, mitte nõrgenema, ning on põhjus, miks ühtegi üksikut kvarki ega gluooni pole kunagi isoleerituna täheldatud.",
+    "sourceHash": "940d199b82715dcd",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-standard-model-of-particle-physics",
+    "quantum-electrodynamics-and-feynman-diagrams"
+  ]
+}

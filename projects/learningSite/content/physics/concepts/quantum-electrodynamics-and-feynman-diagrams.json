@@ -1,0 +1,22 @@
+{
+  "id": "quantum-electrodynamics-and-feynman-diagrams",
+  "subject": "physics",
+  "level": "L4",
+  "module": "particle-physics",
+  "title": {
+    "en": "Quantum electrodynamics and Feynman diagrams",
+    "et": "Kvantelektrodünaamika ja Feynmani diagrammid",
+    "sourceHash": "d74d6cfdbac95c10",
+    "stale": false
+  },
+  "summary": {
+    "en": "Quantum electrodynamics (QED) describes the electromagnetic interaction as an exchange of virtual photons between charged particles, and Feynman diagrams give a precise pictorial bookkeeping system for the possible ways an interaction can happen — each diagram corresponds to a specific mathematical term in a systematic perturbative expansion, and summing enough of them, with more complex diagrams contributing ever smaller corrections, makes QED the most precisely tested theory in all of physics.",
+    "et": "Kvantelektrodünaamika (KED) kirjeldab elektromagnetilist interaktsiooni virtuaalsete footonite vahetusena laetud osakeste vahel, ning Feynmani diagrammid annavad täpse pildilise raamatupidamissüsteemi võimalike viiside jaoks, kuidas interaktsioon saab toimuda — iga diagramm vastab konkreetsele matemaatilisele liikmele süstemaatilises perturbatiivses arenduses, ning piisava arvu nende summeerimine, kus keerulisemad diagrammid panustavad üha väiksemaid parandusi, teeb KED-st kõige täpsemalt testitud teooria kogu füüsikas.",
+    "sourceHash": "eac2dbf85bd4e5a1",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-standard-model-of-particle-physics",
+    "second-quantization-and-fock-space"
+  ]
+}
