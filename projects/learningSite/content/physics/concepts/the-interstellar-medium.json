@@ -1,0 +1,21 @@
+{
+  "id": "the-interstellar-medium",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "The interstellar medium",
+    "et": "Tähtedevaheline aine",
+    "sourceHash": "5e5e4d5ac3366652",
+    "stale": false
+  },
+  "summary": {
+    "en": "The space between stars is not empty but filled with the interstellar medium -- gas (mostly hydrogen and helium, with trace heavier elements) and dust spanning an enormous range of densities and temperatures held in rough pressure balance across distinct phases, from vast, nearly-empty hot ionized bubbles carved out by supernovae, through warm neutral and ionized atomic gas, down to cold, dense molecular clouds where the gas is shielded enough from starlight for molecules (including molecular hydrogen) to survive and where, per the Jeans instability, new stars are actually born, so the interstellar medium is simultaneously the graveyard of dying stars, whose winds and explosions enrich it with heavy elements, and the womb of the next stellar generation.",
+    "et": "Ruum tähtede vahel ei ole tühi, vaid täidetud tähtedevahelise ainega -- gaasiga (peamiselt vesinik ja heelium, väikeste rasekemate elementide kogustega) ja tolmuga, mis hõlmab tohutut tiheduste ja temperatuuride vahemikku, püsides ligikaudses rõhutasakaalus eri faaside vahel, alates hiiglaslikest, peaaegu tühjadest kuumadest ioniseeritud mullidest, mille on välja uuristanud supernoovad, läbi sooja neutraalse ja ioniseeritud aatomgaasi, kuni külmade tiheda molekulaarpilvedeni, kus gaas on tähevalguse eest piisavalt varjestatud, et molekulid (sealhulgas molekulaarne vesinik) saaksid püsida ja kus Jeansi ebastabiilsuse kohaselt tegelikult sünnivad uued tähed, seega on tähtedevaheline aine samaaegselt surevate tähtede kalmistu, mille tuuletõmbed ja plahvatused rikastavad seda raskete elementidega, ja järgmise tähepõlvkonna emakas.",
+    "sourceHash": "4087164d5a428d0e",
+    "stale": false
+  },
+  "prerequisites": [
+    "star-formation-and-the-jeans-instability"
+  ]
+}

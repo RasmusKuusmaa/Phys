@@ -1,0 +1,10 @@
+{
+  "id": "the-interstellar-medium-m3",
+  "conceptId": "the-interstellar-medium",
+  "text": {
+    "en": "Believing interstellar dust is chemically or physically the same kind of material as ordinary terrestrial dust, or is unimportant to a star's observed properties -- interstellar dust grains are microscopic solid particles (silicates, carbon compounds, ice mantles) condensed largely in the outflows of evolved stars, and they matter enormously observationally: they absorb and scatter starlight preferentially at shorter (bluer) wavelengths, making distant stars appear both dimmer and redder than their intrinsic brightness and color (interstellar extinction and reddening), an effect that must be corrected for before a star's true distance or temperature can be inferred.",
+    "et": "Arvamus, et tähtedevaheline tolm on keemiliselt või füüsiliselt sama liiki aine nagu tavaline maapealne tolm, või et see ei ole tähe vaadeldavate omaduste jaoks oluline -- tähtedevahelise tolmu terakesed on mikroskoopilised tahked osakesed (silikaadid, süsinikuühendid, jäämantlid), mis kondenseeruvad suuresti arenenud tähtede väljavooludes, ning need on vaatluslikult äärmiselt olulised: need neelavad ja hajutavad tähevalgust eelistatult lühematel (sinisematel) lainepikkustel, muutes kauged tähed nii tuhmimaks kui punasemaks kui nende tegelik heledus ja värv (tähtedevaheline ekstinktsioon ja punastumine), efekt, mida tuleb korrigeerida enne, kui tähe tegelikku kaugust või temperatuuri saab järeldada.",
+    "sourceHash": "e5b7c556a07302e1",
+    "stale": false
+  }
+}

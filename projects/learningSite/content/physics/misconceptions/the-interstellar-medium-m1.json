@@ -1,0 +1,10 @@
+{
+  "id": "the-interstellar-medium-m1",
+  "conceptId": "the-interstellar-medium",
+  "text": {
+    "en": "Believing the space between stars is essentially a vacuum with negligible matter in it -- the interstellar medium actually contains a substantial fraction of a galaxy's ordinary (baryonic) mass, and while its average density is extraordinarily low compared to any laboratory vacuum, it is far from empty: it hosts distinct gas phases spanning many orders of magnitude in density and temperature, and it is directly observable via absorption lines imprinted on background starlight, emission from ionized regions, radio emission from atomic and molecular gas, and thermal emission from dust.",
+    "et": "Arvamus, et ruum tähtede vahel on sisuliselt vaakum, milles on tühine hulk ainet -- tähtedevaheline aine sisaldab tegelikult olulise osa galaktika tavalisest (barüonilisest) massist, ning kuigi selle keskmine tihedus on äärmiselt madal võrreldes mistahes laboratoorse vaakumiga, ei ole see kaugeltki tühi: see hõlmab eristatavaid gaasifaase, mis hõlmavad palju suurusjärke tiheduses ja temperatuuris, ning seda saab vahetult vaadelda taustatähtede valgusesse jäljendunud neeldumisjoonte, ioniseeritud piirkondade kiirguse, aatom- ja molekulaargaasi raadiokiirguse ning tolmu soojuskiirguse kaudu.",
+    "sourceHash": "5069c20e6b279824",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "the-interstellar-medium-m2",
+  "conceptId": "the-interstellar-medium",
+  "text": {
+    "en": "Believing the interstellar medium is one uniform substance with a single characteristic density and temperature, rather than several distinct coexisting phases -- observations and theory both establish that it consists of multiple phases in rough pressure equilibrium with each other, ranging from hot, low-density ionized gas (heated by supernova shocks) through warm neutral and ionized atomic gas to cold, dense molecular clouds, with dramatically different densities and temperatures that nonetheless produce comparable pressures, allowing the phases to coexist stably side by side rather than one dominating.",
+    "et": "Arvamus, et tähtedevaheline aine on üks ühtlane aine ühe iseloomuliku tiheduse ja temperatuuriga, mitte mitu eristuvat kooseksisteerivat faasi -- nii vaatlused kui teooria kinnitavad, et see koosneb mitmest faasist, mis on omavahel ligikaudses rõhutasakaalus, ulatudes kuumast, madala tihedusega ioniseeritud gaasist (mida kuumutavad supernoova löökpainded) läbi sooja neutraalse ja ioniseeritud aatomgaasi kuni külmade, tihedate molekulaarpilvedeni, millel on dramaatiliselt erinevad tihedused ja temperatuurid, mis siiski annavad võrreldavad rõhud, võimaldades faasidel stabiilselt kõrvuti eksisteerida, ilma et üks domineeriks.",
+    "sourceHash": "f236a11d33b2eb7b",
+    "stale": false
+  }
+}

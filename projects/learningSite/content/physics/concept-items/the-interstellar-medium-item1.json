@@ -1,0 +1,55 @@
+{
+  "id": "the-interstellar-medium-item1",
+  "conceptId": "the-interstellar-medium",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The interstellar medium's hot, low-density ionized phase and its cold, dense molecular-cloud phase differ in density and temperature by many orders of magnitude, yet both phases coexist stably side by side. What allows this?",
+    "et": "Tähtedevahelise aine kuum, madala tihedusega ioniseeritud faas ja külm, tihe molekulaarpilve faas erinevad tiheduse ja temperatuuri poolest paljude suurusjärkude võrra, kuid mõlemad faasid eksisteerivad stabiilselt kõrvuti. Mis seda võimaldab?",
+    "sourceHash": "26e76a41ee0b4087",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The phases are in rough pressure equilibrium with each other, so very different density-temperature combinations can produce comparable pressures.",
+        "et": "Faasid on omavahel ligikaudses rõhutasakaalus, nii et väga erinevad tiheduse-temperatuuri kombinatsioonid võivad anda võrreldavad rõhud.",
+        "sourceHash": "9d7edf8d842207fa",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They don't actually coexist -- the interstellar medium is essentially one uniform phase, and any apparent variation is just measurement noise.",
+        "et": "Need tegelikult ei eksisteeri kõrvuti -- tähtedevaheline aine on sisuliselt üks ühtlane faas, ja mistahes näiv varieeruvus on lihtsalt mõõtemüra.",
+        "sourceHash": "005004b5cd0a5761",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-interstellar-medium-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Gravity keeps each phase confined to its own separate galaxy so they never actually interact with or border one another.",
+        "et": "Gravitatsioon hoiab iga faasi eraldi omaenda galaktikas piiratuna, nii et need ei suhtle ega piirne kunagi tegelikult üksteisega.",
+        "sourceHash": "8b1da6816644d693",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The interstellar medium is essentially a vacuum, so there is too little matter present for density or temperature differences to matter physically.",
+        "et": "Tähtedevaheline aine on sisuliselt vaakum, seega on kohal liiga vähe ainet, et tiheduse või temperatuuri erinevused füüsikaliselt oluliseks osutuksid.",
+        "sourceHash": "dbe690cdf39110d8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-interstellar-medium-m1"
+    }
+  ]
+}
