@@ -1,0 +1,22 @@
+{
+  "id": "the-navier-stokes-equations",
+  "subject": "physics",
+  "level": "L4",
+  "module": "fluid-mechanics",
+  "title": {
+    "en": "The Navier-Stokes equations",
+    "et": "Navier'-Stokesi võrrandid",
+    "sourceHash": "98d28522b1387762",
+    "stale": false
+  },
+  "summary": {
+    "en": "Bernoulli's equation and Poiseuille flow are each solutions of one much more general underlying law -- the Navier-Stokes equations, Newton's second law applied to a small parcel of fluid, balancing the pressure gradient pushing the parcel, the viscous friction resisting relative motion between neighbouring fluid layers, any external body force such as gravity, and the parcel's own resulting acceleration -- and while these equations are known to govern essentially every everyday fluid flow with extraordinary accuracy, they are also mathematically so difficult that no one has ever proven, in general, that smooth solutions to them even exist for all future time given smooth starting conditions, a question so significant it stands as one of the seven Clay Millennium Prize Problems, meaning the same equations engineers already solve numerically every day to design aircraft and predict weather remain, at a purely mathematical level, one of the deepest open problems in all of applied mathematics.",
+    "et": "Bernoulli võrrand ja Poiseuille' vool on kumbki ühe palju üldisema aluseks oleva seaduse lahendid -- Navier'-Stokesi võrrandid, Newtoni teine seadus rakendatuna väikesele vedelikuosakesele, tasakaalustades osakest lükkavat rõhugradienti, naaberkihtide suhtelisele liikumisele vastu seisvat viskoosset hõõrdumist, mistahes välist kehajõudu nagu gravitatsioon, ja osakese enda saadud kiirendust --, ning kuigi need võrrandid on teadaolevalt aluseks sisuliselt igale igapäevasele vedeliku voolule erakordse täpsusega, on need ka matemaatiliselt nii keerulised, et keegi pole kunagi üldiselt tõestanud, et neile eksisteerivad üldse siledad lahendid kogu tuleviku aja jooksul, kui alustada siledatest algtingimustest, küsimus, mis on nii oluline, et see on üks seitsmest Clay Millenniumi auhinnaprobleemist, mis tähendab, et samad võrrandid, mida insenerid juba iga päev numbriliselt lahendavad lennukite disainimiseks ja ilma ennustamiseks, jäävad puhtalt matemaatilisel tasandil üheks kõige sügavamaks lahtiseks probleemiks kogu rakendusmatemaatikas.",
+    "sourceHash": "03504f1d41b861a7",
+    "stale": false
+  },
+  "prerequisites": [
+    "reynolds-number-and-turbulence",
+    "viscosity-and-poiseuille-flow"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "the-navier-stokes-equations-m2",
+  "conceptId": "the-navier-stokes-equations",
+  "text": {
+    "en": "Believing that because engineers and weather forecasters already routinely solve the Navier-Stokes equations numerically on computers to design aircraft and predict storms, the mathematical question of whether the equations even have well-behaved solutions must already be settled -- these are genuinely separate questions: numerically approximating a solution for one specific set of starting conditions over a finite time window works extremely well in practice, but proving, in full mathematical generality, that smooth solutions exist and stay smooth (rather than blowing up to infinite values) for all future time given arbitrary smooth starting conditions remains completely unresolved, which is exactly why it is one of the Clay Millennium Prize Problems rather than settled mathematics.",
+    "et": "Arvamus, et kuna insenerid ja ilmaennustajad juba lahendavad Navier'-Stokesi võrrandeid rutiinselt numbriliselt arvutitel, et disainida lennukeid ja ennustada torme, peab matemaatiline küsimus selle kohta, kas võrranditel üldse eksisteerivad hästikäituvad lahendid, olema juba lahendatud -- need on tõeliselt eraldiseisvad küsimused: lahenduse numbriline lähendamine ühele kindlale algtingimuste hulgale lõpliku ajaakna jooksul töötab praktikas äärmiselt hästi, kuid täies matemaatilises üldsuses tõestamine, et siledad lahendid eksisteerivad ja jäävad siledaks (mitte ei lähe lõpmatuseks) kogu tuleviku aja jooksul suvaliste siledate algtingimuste korral, jääb täiesti lahendamata, mis ongi täpselt põhjus, miks see on üks Clay Millenniumi auhinnaprobleemidest, mitte lahendatud matemaatika.",
+    "sourceHash": "ae1de802537929e3",
+    "stale": false
+  }
+}

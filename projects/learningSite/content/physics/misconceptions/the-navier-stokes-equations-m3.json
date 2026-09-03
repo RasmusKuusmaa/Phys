@@ -1,0 +1,10 @@
+{
+  "id": "the-navier-stokes-equations-m3",
+  "conceptId": "the-navier-stokes-equations",
+  "text": {
+    "en": "Believing the Navier-Stokes equations apply only to complicated, turbulent, or exotic flows, with simpler flows like Poiseuille flow through a pipe governed by an entirely separate set of equations -- Poiseuille flow is itself an exact solution of the Navier-Stokes equations, obtained by applying the full equations to the specific case of steady, viscous flow confined to a cylindrical pipe under a constant pressure gradient; the Navier-Stokes equations are the single underlying law governing essentially all fluid flow, simple or complex, laminar or turbulent, with different named results (Bernoulli's equation, Poiseuille flow) simply corresponding to different simplifying assumptions applied to the same general equations.",
+    "et": "Arvamus, et Navier'-Stokesi võrrandid kehtivad ainult keeruliste, turbulentsete või eksootiliste voolude jaoks, kusjuures lihtsamaid voole nagu Poiseuille' vool läbi toru juhib täiesti eraldiseisev võrrandite kogum -- Poiseuille' vool on ise Navier'-Stokesi võrrandite täpne lahend, saadud rakendades täisvõrrandeid konkreetsele juhtumile, kus statsionaarne, viskoosne vool on piiratud silindrilise toruga konstantse rõhugradiendi all; Navier'-Stokesi võrrandid on ainuke aluseks olev seadus, mis juhib sisuliselt kogu vedeliku voolu, olgu see lihtne või keeruline, laminaarne või turbulentne, kusjuures erinevad nimega tulemused (Bernoulli võrrand, Poiseuille' vool) vastavad lihtsalt erinevatele lihtsustavatele eeldustele, mis on rakendatud samadele üldistele võrranditele.",
+    "sourceHash": "a665326e6cc7d43d",
+    "stale": false
+  }
+}

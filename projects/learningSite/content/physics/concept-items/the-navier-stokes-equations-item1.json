@@ -1,0 +1,55 @@
+{
+  "id": "the-navier-stokes-equations-item1",
+  "conceptId": "the-navier-stokes-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Weather forecasters routinely obtain accurate numerical solutions to the Navier-Stokes equations to predict storms days in advance. Why does this not mean the mathematical existence-and-smoothness question about these equations is already solved?",
+    "et": "Ilmaennustajad saavad rutiinselt täpseid numbrilisi lahendeid Navier'-Stokesi võrranditele, et ennustada torme päevi ette. Miks ei tähenda see, et nende võrrandite matemaatiline eksistentsi ja sileduse küsimus on juba lahendatud?",
+    "sourceHash": "724535655dd3e978",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A numerical approximation for one specific finite-time case is a different question from proving, in full generality, that smooth solutions always exist and never blow up for arbitrary smooth starting conditions.",
+        "et": "Numbriline lähendus ühele konkreetsele lõpliku ajaga juhtumile on erinev küsimus võrreldes täies üldsuses tõestamisest, et siledad lahendid alati eksisteerivad ja ei lähe kunagi lõpmatuseks suvaliste siledate algtingimuste korral.",
+        "sourceHash": "672bc5947933d2a2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It actually does mean the question is solved -- a working numerical method is mathematically equivalent to a general existence-and-smoothness proof.",
+        "et": "See tähendabki tegelikult, et küsimus on lahendatud -- töötav numbriline meetod on matemaatiliselt samaväärne üldise eksistentsi ja sileduse tõestusega.",
+        "sourceHash": "42e41f23b65de055",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-navier-stokes-equations-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Weather forecasting actually uses a completely different, simpler set of equations than the Navier-Stokes equations, so the two questions were never related in the first place.",
+        "et": "Ilmaennustamine kasutab tegelikult täiesti erinevat, lihtsamat võrrandite kogumit kui Navier'-Stokesi võrrandid, seega ei olnud need kaks küsimust algusest peale kunagi seotud.",
+        "sourceHash": "d8676c21f94dc7e0",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The Navier-Stokes equations only apply to complex turbulent weather systems, not to the simpler flows where existence and smoothness would actually need proving.",
+        "et": "Navier'-Stokesi võrrandid kehtivad ainult keerukate turbulentsete ilmasüsteemide jaoks, mitte lihtsamate voolude jaoks, kus eksistentsi ja sildust tegelikult tõestama peaks.",
+        "sourceHash": "98fe23dcffd717a2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-navier-stokes-equations-m3"
+    }
+  ]
+}

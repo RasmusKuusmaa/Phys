@@ -1,0 +1,10 @@
+{
+  "id": "the-navier-stokes-equations-m1",
+  "conceptId": "the-navier-stokes-equations",
+  "text": {
+    "en": "Believing Bernoulli's equation and the Navier-Stokes equations describe two unrelated or competing models of fluid behavior -- Bernoulli's equation is instead a special-case solution of the more general Navier-Stokes equations, valid specifically for steady, incompressible, inviscid (frictionless) flow along a streamline; the Navier-Stokes equations reduce to Bernoulli's equation exactly when viscous friction is neglected and the flow is steady, showing that Bernoulli's equation is a limiting case nested inside the more general theory, not a separate, independent law.",
+    "et": "Arvamus, et Bernoulli võrrand ja Navier'-Stokesi võrrandid kirjeldavad kahte mitteseotud või konkureerivat vedeliku käitumise mudelit -- Bernoulli võrrand on selle asemel üldisemate Navier'-Stokesi võrrandite erijuhu lahend, kehtiv spetsiifiliselt statsionaarse, kokkusurumatu, hõõrdumisvaba (viskoossuseta) voolu jaoks piki voolujoont; Navier'-Stokesi võrrandid taanduvad täpselt Bernoulli võrrandiks, kui viskoosne hõõrdumine on eiratud ja vool on statsionaarne, näidates, et Bernoulli võrrand on piirjuht, mis on pesastatud üldisema teooria sisse, mitte eraldiseisev, sõltumatu seadus.",
+    "sourceHash": "8fc3f549639aba44",
+    "stale": false
+  }
+}
