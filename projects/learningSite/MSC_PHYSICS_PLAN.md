@@ -230,12 +230,12 @@ thorough. See `QUESTIONS.md` § "Go through all physics subjects" for the
 reasoning: these are genuine, real gaps (topics entirely absent), not a
 mechanical 2-per-module quota.
 
-- [ ] Quantum entanglement and Bell's theorem (quantum-mechanics)
-- [ ] CP violation and the CKM matrix (particle-physics)
-- [ ] The Kerr metric and rotating black holes (general-relativity)
-- [ ] The integer quantum Hall effect (solid-state-physics)
-- [ ] Plasma physics and Debye shielding (electromagnetism)
-- [ ] Maxwell's demon and Landauer's principle (statistical-mechanics)
+- [x] Quantum entanglement and Bell's theorem (quantum-mechanics)
+- [x] CP violation and the CKM matrix (particle-physics)
+- [x] The Kerr metric and rotating black holes (general-relativity)
+- [x] The integer quantum Hall effect (solid-state-physics)
+- [x] Plasma physics and Debye shielding (electromagnetism)
+- [x] Maxwell's demon and Landauer's principle (statistical-mechanics)
 
 ## Phase N3 — Nuclear physics, round 3 (after Phase X, per the "continue
 ## with nuclear" instruction)
