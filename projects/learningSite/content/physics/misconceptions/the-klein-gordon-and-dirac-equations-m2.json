@@ -1,0 +1,10 @@
+{
+  "id": "the-klein-gordon-and-dirac-equations-m2",
+  "conceptId": "the-klein-gordon-and-dirac-equations",
+  "text": {
+    "en": "Believing electron spin has to be added to the Dirac equation by hand, the same way it's added to nonrelativistic quantum mechanics — spin-1/2 falls directly and automatically out of the mathematical structure needed to make the equation first-order and relativistically consistent, without being separately postulated.",
+    "et": "Arvamus, et elektroni spinn tuleb Diraci võrrandile käsitsi lisada, samamoodi nagu see lisatakse mittereativistlikule kvantmehaanikale — spin-1/2 järeldub otse ja automaatselt matemaatilisest struktuurist, mida on vaja võrrandi esimest järku ja relativistlikult kooskõlaliseks muutmiseks, ilma eraldi postuleerimata.",
+    "sourceHash": "fd00058b75929c8c",
+    "stale": false
+  }
+}

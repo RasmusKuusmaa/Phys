@@ -1,0 +1,56 @@
+{
+  "id": "the-klein-gordon-and-dirac-equations-item1",
+  "conceptId": "the-klein-gordon-and-dirac-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What did Dirac correctly conclude about the negative-energy solutions that appeared in his relativistic wave equation for the electron?",
+    "et": "Mida järeldas Dirac õigesti oma elektroni relativistlikus lainevõrrandis ilmunud negatiivse energiaga lahendite kohta?",
+    "sourceHash": "b2b6ea5048cae764",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They predict the existence of a new particle, the electron's antiparticle (later confirmed as the positron), rather than being a mathematical error.",
+        "et": "Need ennustavad uue osakese, elektroni antiosakese (hiljem kinnitatud positronina) olemasolu, selle asemel, et olla matemaatiline viga.",
+        "sourceHash": "e377b1334690b843",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They showed the Dirac equation itself was inconsistent with relativity and needed to be replaced.",
+        "et": "Need näitasid, et Diraci võrrand ise oli relatiivsusteooriaga vastuolus ja tuli asendada.",
+        "sourceHash": "16eb6ab28aa2d1a4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-klein-gordon-and-dirac-equations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They were an unrelated mathematical curiosity, separate from where the electron's spin comes from in the equation.",
+        "et": "Need olid mitteseotud matemaatiline kuriositeet, eraldiseisev sellest, kust elektroni spinn võrrandis pärineb.",
+        "sourceHash": "3b4389650ccb57d2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-klein-gordon-and-dirac-equations-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They were simply spurious artifacts that should be discarded, with no physical meaning.",
+        "et": "Need olid lihtsalt eksitavad artefaktid, mis tuleks kõrvale heita, ilma füüsikalise tähenduseta.",
+        "sourceHash": "f7d537be6af09332",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-klein-gordon-and-dirac-equations-m3"
+    }
+  ]
+}

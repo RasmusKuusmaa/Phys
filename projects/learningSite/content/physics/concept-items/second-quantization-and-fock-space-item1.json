@@ -1,0 +1,56 @@
+{
+  "id": "second-quantization-and-fock-space-item1",
+  "conceptId": "second-quantization-and-fock-space",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In second quantization, why can two fermionic creation operators never put more than one particle into the same single-particle state?",
+    "et": "Miks ei saa teises kvantimises kaks fermioonilist tekitamisoperaatorit kunagi panna rohkem kui ühe osakese samasse üheosakese olekusse?",
+    "sourceHash": "8f2c541f172addfe",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because fermionic creation and annihilation operators anticommute, which forces the occupation number of any state to be exactly 0 or 1 — the Pauli exclusion principle follows directly from this algebra.",
+        "et": "Kuna fermioonilised tekitamis- ja hävitamisoperaatorid antikommuteeruvad, mis sunnib iga oleku hõivatavusarvu olema täpselt 0 või 1 — Pauli keeluprintsiip järeldub otse sellest algebrast.",
+        "sourceHash": "e17c9e493349a193",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because second quantization applies a physically deeper level of quantization that first-quantized mechanics never reaches.",
+        "et": "Kuna teisene kvantimine rakendab füüsikaliselt sügavamat kvantimistaset, milleni esmalt kvanditud mehaanika kunagi ei jõua.",
+        "sourceHash": "d1f2d3ccab0c216e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "second-quantization-and-fock-space-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the Pauli exclusion principle is separately imposed by hand as an extra rule, on top of whatever the creation and annihilation operators would otherwise allow.",
+        "et": "Kuna Pauli keeluprintsiip on käsitsi eraldi peale surutud lisareeglina, lisaks sellele, mida tekitamis- ja hävitamisoperaatorid muidu lubaksid.",
+        "sourceHash": "4d97cff5510e779a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "second-quantization-and-fock-space-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "There's no real restriction — it's just rarely relevant in practice, since particle number usually doesn't change anyway.",
+        "et": "Tegelikku piirangut ei ole — see on lihtsalt praktikas harva oluline, kuna osakeste arv tavaliselt niikuinii ei muutu.",
+        "sourceHash": "a40d1a8b09faa72e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "second-quantization-and-fock-space-m3"
+    }
+  ]
+}

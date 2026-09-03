@@ -1,0 +1,23 @@
+{
+  "id": "the-klein-gordon-and-dirac-equations",
+  "subject": "physics",
+  "level": "L4",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "The Klein-Gordon and Dirac equations",
+    "et": "Klein-Gordoni ja Diraci võrrandid",
+    "sourceHash": "bb83024e9d06b2dd",
+    "stale": false
+  },
+  "summary": {
+    "en": "The ordinary Schrödinger equation is only a nonrelativistic approximation; making quantum mechanics consistent with special relativity for a spin-0 particle gives the second-order Klein-Gordon equation, while Dirac's first-order equation for a spin-1/2 particle correctly reproduces electron spin from relativity alone and predicts, as an unavoidable mathematical consequence, the existence of antimatter.",
+    "et": "Tavaline Schrödingeri võrrand on ainult mittereativistlik lähendus; kvantmehaanika muutmine kooskõlaliseks erirelatiivsusteooriaga spin-0 osakese jaoks annab teist järku Klein-Gordoni võrrandi, samal ajal kui Diraci esimest järku võrrand spin-1/2 osakese jaoks taastab õigesti elektroni spinni ainuüksi relatiivsusest ja ennustab, vältimatu matemaatilise tagajärjena, antiaine olemasolu.",
+    "sourceHash": "802572fa0c2c1f3d",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schrodinger-equation",
+    "spacetime-and-four-vectors",
+    "spin-and-angular-momentum-in-quantum-mechanics"
+  ]
+}

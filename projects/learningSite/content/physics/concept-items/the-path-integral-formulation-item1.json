@@ -1,0 +1,56 @@
+{
+  "id": "the-path-integral-formulation-item1",
+  "conceptId": "the-path-integral-formulation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In the path integral formulation, why does classical, single-trajectory behaviour dominate for macroscopic objects, where the action is huge compared to hbar?",
+    "et": "Miks domineerib trajektoori integraali formalismis klassikaline, ühe trajektoori käitumine makroskoopiliste objektide jaoks, kus tegevus on hbar-iga võrreldes tohutu?",
+    "sourceHash": "f73c13f5d40cc615",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because contributions from paths far from the classical one interfere destructively and cancel out, leaving only the region near the action-extremizing classical path to contribute significantly.",
+        "et": "Kuna panused trajektooridest, mis on klassikalisest kaugel, interfereeruvad destruktiivselt ja tühistuvad, jättes olulise panuse andma ainult piirkonna tegevust ekstremiseeriva klassikalise trajektoori ümber.",
+        "sourceHash": "db0e54b25a30306a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the particle physically checks every path and then genuinely picks the one true classical path to actually travel along.",
+        "et": "Kuna osake kontrollib füüsiliselt iga trajektoori ja seejärel valib tõeliselt ühe tõelise klassikalise trajektoori, mida mööda tegelikult liikuda.",
+        "sourceHash": "7f26af30f95160f7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-path-integral-formulation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because non-classical paths are mathematically excluded from the sum whenever the action is large.",
+        "et": "Kuna mitteklassikalised trajektoorid on summast matemaatiliselt välja jäetud iga kord, kui tegevus on suur.",
+        "sourceHash": "0c9855967313301a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-path-integral-formulation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because for large actions, the path integral formulation switches over to a genuinely different physical theory than the Schrödinger equation predicts.",
+        "et": "Kuna suurte tegevuste korral lülitub trajektoori integraali formalism üle tõeliselt erinevale füüsikalisele teooriale kui see, mida Schrödingeri võrrand ennustab.",
+        "sourceHash": "48336f6a38c7c354",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-path-integral-formulation-m3"
+    }
+  ]
+}

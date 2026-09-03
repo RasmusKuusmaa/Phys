@@ -1,0 +1,10 @@
+{
+  "id": "second-quantization-and-fock-space-m2",
+  "conceptId": "second-quantization-and-fock-space",
+  "text": {
+    "en": "Believing the Pauli exclusion principle has to be imposed as a separate, additional rule on top of the second-quantized formalism — for fermionic creation and annihilation operators, the anticommutation relation forces occupation numbers to be exactly 0 or 1 automatically, deriving the exclusion principle directly from the algebra rather than needing it added by hand.",
+    "et": "Arvamus, et Pauli keeluprintsiip tuleb teisese kvantimise formalismile peale suruda eraldi, täiendava reeglina — fermioonilise tekitamis- ja hävitamisoperaatori antikommutatsiooniseos sunnib hõivatavusarvud automaatselt olema täpselt 0 või 1, tuletades keeluprintsiibi otse algebrast, mitte vajades seda käsitsi lisamist.",
+    "sourceHash": "ab32b6e6b91fb5ea",
+    "stale": false
+  }
+}

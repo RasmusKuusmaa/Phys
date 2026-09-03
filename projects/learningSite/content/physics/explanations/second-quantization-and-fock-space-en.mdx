@@ -1,0 +1,26 @@
+Ordinary ("first-quantized") quantum mechanics describes a fixed number of particles, each
+with its own wavefunction, with the correct symmetrization under particle exchange imposed
+by hand afterward. Second quantization instead builds the symmetry in from the start by
+switching description entirely: instead of asking "where is particle 1, where is particle
+2," it asks "how many particles occupy single-particle state 1, how many occupy state 2,"
+and so on — a state is completely specified by this list of occupation numbers, one per
+available single-particle state.
+
+Creation and annihilation operators, a-dagger and a, add or remove exactly one particle from
+a specified single-particle state, and the entire many-particle Hilbert space — called Fock
+space — is built up by applying creation operators to a reference "vacuum" state with zero
+particles in every mode. For bosons, any occupation number is allowed and the
+creation/annihilation operators obey the same commutation relations as the quantum harmonic
+oscillator's ladder operators; for fermions, the operators instead anticommute, and this
+anticommutation automatically forces occupation numbers to be either 0 or 1 — the Pauli
+exclusion principle falls straight out of the algebra, rather than needing to be imposed as
+a separate rule.
+
+This formalism is essential whenever the particle number genuinely changes — a photon being
+emitted or absorbed, particle creation and annihilation in high-energy collisions, or
+phonons appearing and disappearing in a solid — situations first-quantized quantum
+mechanics, with its fixed particle count, simply has no natural way to describe. It's also
+the natural language for many-body quantum systems in condensed matter and nuclear physics,
+where tracking each of an enormous number of identical particles individually would be
+hopeless, but tracking occupation numbers of the available states remains entirely
+tractable.

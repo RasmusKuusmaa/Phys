@@ -1,0 +1,22 @@
+{
+  "id": "the-path-integral-formulation",
+  "subject": "physics",
+  "level": "L4",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "The path integral formulation",
+    "et": "Trajektoori integraali formalism",
+    "sourceHash": "b63a5f4f7051f688",
+    "stale": false
+  },
+  "summary": {
+    "en": "Feynman's path integral formulation recasts quantum mechanics not as a single wavefunction evolving according to the Schrödinger equation, but as a sum over every conceivable path a particle could take between two points, each path weighted by a phase equal to its classical action divided by Planck's constant — an equivalent, but conceptually very different, way of computing exactly the same quantum amplitudes.",
+    "et": "Feynmani trajektoori integraali formalism sõnastab kvantmehaanika ümber mitte üksiku Schrödingeri võrrandi järgi areneva lainefunktsioonina, vaid summana üle iga mõeldava trajektoori, mida osake võiks kahe punkti vahel läbida, kusjuures iga trajektoor on kaalutud faasiga, mis võrdub tema klassikalise tegevusega jagatud Plancki konstandiga — samaväärne, kuid kontseptuaalselt väga erinev viis arvutada täpselt samad kvantamplituudid.",
+    "sourceHash": "3f096262d9c40b17",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schrodinger-equation",
+    "action-angle-variables"
+  ]
+}

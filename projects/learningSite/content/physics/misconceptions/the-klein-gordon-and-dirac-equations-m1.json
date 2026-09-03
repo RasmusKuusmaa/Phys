@@ -1,0 +1,10 @@
+{
+  "id": "the-klein-gordon-and-dirac-equations-m1",
+  "conceptId": "the-klein-gordon-and-dirac-equations",
+  "text": {
+    "en": "Believing the ordinary Schrödinger equation is already fully consistent with special relativity — it treats space and time asymmetrically (first-order in time, second-order in space) and is only a valid approximation in the nonrelativistic, low-velocity limit; the Klein-Gordon and Dirac equations are what's needed for genuine relativistic consistency.",
+    "et": "Arvamus, et tavaline Schrödingeri võrrand on juba täielikult kooskõlas erirelatiivsusteooriaga — see käsitleb ruumi ja aega ebasümmeetriliselt (esimest järku ajas, teist järku ruumis) ning on kehtiv lähendus ainult mittereativistlikus, madala kiiruse piirjuhus; Klein-Gordoni ja Diraci võrrandid on need, mida on vaja tõelise relativistliku kooskõla jaoks.",
+    "sourceHash": "b19c95d8547d555f",
+    "stale": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "second-quantization-and-fock-space",
+  "subject": "physics",
+  "level": "L4",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Second quantization and Fock space",
+    "et": "Teisene kvantimine ja Focki ruum",
+    "sourceHash": "d807533b2d4a325e",
+    "stale": false
+  },
+  "summary": {
+    "en": "Rather than tracking individual particles' wavefunctions, second quantization describes a many-particle quantum system by how many particles occupy each single-particle state, using creation and annihilation operators that add or remove one particle at a time — a formalism built to handle a variable, and even indefinite, number of particles that automatically builds in the correct symmetry (bosonic or fermionic) for identical particles.",
+    "et": "Selle asemel, et jälgida individuaalsete osakeste lainefunktsioone, kirjeldab teisene kvantimine paljuosakese kvantsüsteemi selle kaudu, mitu osakest hõivab iga üheosakese olekut, kasutades tekitamis- ja hävitamisoperaatoreid, mis lisavad või eemaldavad korraga ühe osakese — formalism, mis on ehitatud käsitlema muutuvat, isegi määramatut osakeste arvu, ehitades automaatselt sisse õige sümmeetria (bosoonilise või fermioonilise) eristamatute osakeste jaoks.",
+    "sourceHash": "7f5a5ac9e8f4e203",
+    "stale": false
+  },
+  "prerequisites": [
+    "identical-particles-and-the-symmetrization-postulate",
+    "the-quantum-harmonic-oscillator"
+  ]
+}

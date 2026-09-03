@@ -1,0 +1,10 @@
+{
+  "id": "the-path-integral-formulation-m2",
+  "conceptId": "the-path-integral-formulation",
+  "text": {
+    "en": "Believing non-classical paths are mathematically forbidden or excluded from the sum in the path integral — every path, however wild, genuinely contributes; classical behaviour dominates only because most non-classical contributions interfere destructively and cancel, not because they're excluded from the calculation.",
+    "et": "Arvamus, et mitteklassikalised trajektoorid on trajektoori integraali summast matemaatiliselt keelatud või välja jäetud — iga trajektoor, ükskõik kui metsik, annab tõeliselt oma panuse; klassikaline käitumine domineerib ainult seetõttu, et enamik mitteklassikalisi panuseid interfereerub destruktiivselt ja tühistub, mitte seetõttu, et need on arvutusest välja jäetud.",
+    "sourceHash": "117225e6f02d37f0",
+    "stale": false
+  }
+}
