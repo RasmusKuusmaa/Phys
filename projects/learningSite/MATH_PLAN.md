@@ -44,8 +44,8 @@ concept), and numerical methods for ODEs (Euler's method, Runge-Kutta —
 zero numerical-methods content exists anywhere in the mathematics subject)
 were the clearest gaps.
 
-- [ ] The Fourier transform
-- [ ] Calculus of variations and the Euler-Lagrange equation
+- [x] The Fourier transform
+- [x] Calculus of variations and the Euler-Lagrange equation
 - [ ] Differential forms and exterior calculus
 - [ ] Numerical methods for ODEs (Euler's method and Runge-Kutta)
 
