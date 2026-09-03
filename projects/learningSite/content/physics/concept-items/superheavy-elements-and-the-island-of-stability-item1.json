@@ -1,0 +1,56 @@
+{
+  "id": "superheavy-elements-and-the-island-of-stability-item1",
+  "conceptId": "superheavy-elements-and-the-island-of-stability",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the nuclear shell model predict that certain heavier superheavy nuclei could be more stable than their lighter neighbours, rather than expecting stability to decline smoothly with mass?",
+    "et": "Miks ennustab tuuma kihimudel, et teatud raskemad ülirasked tuumad võiksid olla stabiilsemad kui nende kergemad naabrid, mitte oodata stabiilsuse sujuvat langust massiga?",
+    "sourceHash": "a0e68866557f9841",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because closed proton and neutron shells produce local peaks of extra stability regardless of overall mass, the same effect behind ordinary magic-number nuclei.",
+        "et": "Sest kinnised prooton- ja neutronikihid tekitavad kohalikke lisastabiilsuse tippe olenemata kogumassist, sama efekt, mis on tavaliste maagilise arvuga tuumade taga.",
+        "sourceHash": "2446af303d33b817",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't -- stability declines smoothly and monotonically with atomic number, with no possibility of any local exception.",
+        "et": "Ei ennusta -- stabiilsus langeb sujuvalt ja monotoonselt aatomnumbriga, ilma võimaluseta mistahes kohalikuks erandiks.",
+        "sourceHash": "0cac77a6bb502b22",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "superheavy-elements-and-the-island-of-stability-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the island of stability has already been reached and confirmed by superheavy elements synthesized so far, which are fully stable.",
+        "et": "Sest stabiilsuse saar on juba saavutatud ja kinnitatud seni sünteesitud üliraskete elementide poolt, mis on täiesti stabiilsed.",
+        "sourceHash": "cae3cb0a127ba6cb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "superheavy-elements-and-the-island-of-stability-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because superheavy elements are produced in large, bulk quantities, allowing their stability to be measured the same way ordinary elements are.",
+        "et": "Sest üliraskeid elemente toodetakse suurtes, hulgikogustes, mis lubab nende stabiilsust mõõta samamoodi nagu tavaliste elementide oma.",
+        "sourceHash": "35aae5a2453b0163",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "superheavy-elements-and-the-island-of-stability-m3"
+    }
+  ]
+}

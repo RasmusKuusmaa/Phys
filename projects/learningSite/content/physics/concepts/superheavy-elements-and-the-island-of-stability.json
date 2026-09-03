@@ -1,0 +1,22 @@
+{
+  "id": "superheavy-elements-and-the-island-of-stability",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Superheavy elements and the island of stability",
+    "et": "Ülirasked elemendid ja stabiilsuse saar",
+    "sourceHash": "bccbbb56bd38a15e",
+    "stale": false
+  },
+  "summary": {
+    "en": "The heaviest elements produced so far exist only as a handful of atoms at a time, synthesized by fusing lighter nuclei together in accelerators and typically decaying within milliseconds through alpha decay or spontaneous fission, yet the nuclear shell model predicts that certain specific proton and neutron numbers well beyond any element discovered so far -- a hypothetical 'island of stability' -- should produce closed-shell superheavy nuclei dramatically more stable than their immediate neighbours, a prediction still awaiting the synthesis of nuclei with enough neutrons to actually test it.",
+    "et": "Seni toodetud kõige raskemad elemendid eksisteerivad korraga ainult käputäie aatomitena, sünteesituna kergemate tuumade kokkusulatamisel kiirendites, ning laguneva tavaliselt millisekundite jooksul alfalagunemise või spontaanse lõhustumise kaudu, kuid tuuma kihimudel ennustab, et teatud konkreetsed prootonite ja neutronite arvud kaugel kõigist seni avastatud elementidest -- hüpoteetiline 'stabiilsuse saar' -- peaksid tootma kinnise kihiga ülirasked tuumad, mis on dramaatiliselt stabiilsemad kui nende vahetud naabrid, ennustus, mis ootab endiselt piisava neutronite arvuga tuumade sünteesimist, et seda tegelikult testida.",
+    "sourceHash": "946a39d3c45a5034",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-shell-model-spin-and-parity",
+    "liquid-drop-model-and-the-semi-empirical-mass-formula"
+  ]
+}

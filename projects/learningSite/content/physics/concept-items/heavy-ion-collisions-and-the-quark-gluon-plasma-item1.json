@@ -1,0 +1,56 @@
+{
+  "id": "heavy-ion-collisions-and-the-quark-gluon-plasma-item1",
+  "conceptId": "heavy-ion-collisions-and-the-quark-gluon-plasma",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How is the quark-gluon plasma's existence actually established, given it cannot be directly observed by any detector?",
+    "et": "Kuidas kvark-gluuonplasma olemasolu tegelikult tuvastatakse, arvestades, et seda ei saa ükski detektor otse vaadelda?",
+    "sourceHash": "042b1941469bdf3e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "By inferring it indirectly from characteristic patterns in the final observed particles, such as jet suppression, best explained by a brief intermediate plasma phase.",
+        "et": "Kaudselt järeldades seda iseloomulikest mustritest lõplikes vaadeldud osakestes, näiteks joa allasurumisest, mida seletab kõige paremini lühike vahepealne plasmafaas.",
+        "sourceHash": "ff446bed887e2c43",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "By directly smashing individual quarks out of individual protons one at a time and observing each quark's track separately.",
+        "et": "Otse purustades üksikuid kvarke üksikutest prootonitest ükshaaval ja vaadeldes iga kvargi jälge eraldi.",
+        "sourceHash": "8c0601c029105a30",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heavy-ion-collisions-and-the-quark-gluon-plasma-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "By directly imaging the plasma itself with a detector, the same way an ordinary particle track is directly observed.",
+        "et": "Kujutades otse plasmat ennast detektoriga, samamoodi nagu tavalist osakese jälge otse vaadeldakse.",
+        "sourceHash": "fea24f70994c97ec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heavy-ion-collisions-and-the-quark-gluon-plasma-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "By observing that it behaves as a weakly interacting gas of nearly free quarks and gluons, exactly matching its name.",
+        "et": "Vaadeldes, et see käitub nõrgalt interakteeruva peaaegu vabade kvarkide ja gluuonite gaasina, täpselt vastavuses selle nimega.",
+        "sourceHash": "6a74e835dec7a8fa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heavy-ion-collisions-and-the-quark-gluon-plasma-m3"
+    }
+  ]
+}

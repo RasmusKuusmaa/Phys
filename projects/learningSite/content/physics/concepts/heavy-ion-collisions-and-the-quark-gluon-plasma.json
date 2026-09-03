@@ -1,0 +1,22 @@
+{
+  "id": "heavy-ion-collisions-and-the-quark-gluon-plasma",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Heavy-ion collisions and the quark-gluon plasma",
+    "et": "Raskeioonide põrked ja kvark-gluuonplasma",
+    "sourceHash": "467e35422f1ef9b9",
+    "stale": false
+  },
+  "summary": {
+    "en": "Colliding heavy nuclei like gold or lead together at nearly the speed of light briefly recreates conditions of temperature and energy density not seen since a microsecond after the Big Bang, hot and dense enough to deconfine ordinary protons and neutrons into a quark-gluon plasma -- a state where quarks and gluons roam freely across a volume many times larger than any single hadron rather than being permanently locked inside individual particles -- and detecting the fleeting signatures of this exotic state of matter is one of experimental nuclear physics's most direct available windows into how quantum chromodynamics behaves at extreme temperature.",
+    "et": "Raskete tuumade, nagu kuld või plii, kokkupõrgatamine peaaegu valguse kiirusel taasloob lühidalt temperatuuri ja energiatiheduse tingimused, mida ei ole nähtud alates mikrosekundist pärast Suurt Pauku, piisavalt kuumad ja tihedad, et lahti köita tavalised prootonid ja neutronid kvark-gluuonplasmaks -- olekuks, kus kvargid ja gluuonid liiguvad vabalt mahus, mis on palju suurem kui ükski üksik hadron, mitte ei ole jäädavalt lukustatud üksikute osakeste sisse -- ning selle eksootilise ainoleku mööduvate signatuuride tuvastamine on üks eksperimentaalse tuumafüüsika kõige otsesemaid saadaolevaid aknaid sellesse, kuidas kvantkromodünaamika käitub äärmuslikul temperatuuril.",
+    "sourceHash": "655635cc9fae8bf7",
+    "stale": false
+  },
+  "prerequisites": [
+    "quantum-chromodynamics-and-colour-confinement",
+    "particle-accelerators-and-detectors"
+  ]
+}
