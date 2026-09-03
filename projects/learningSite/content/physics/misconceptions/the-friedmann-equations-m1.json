@@ -1,0 +1,10 @@
+{
+  "id": "the-friedmann-equations-m1",
+  "conceptId": "the-friedmann-equations",
+  "text": {
+    "en": "Believing the Friedmann equations are a separate, independently motivated set of cosmological rules that happen to coexist with general relativity -- they are a direct mathematical consequence of the Einstein field equations, obtained by substituting the FLRW metric (the specific spacetime describing a homogeneous, isotropic, expanding universe) into the field equations and simplifying; nothing beyond general relativity itself, plus the symmetry assumption of homogeneity and isotropy, goes into deriving them.",
+    "et": "Arvamus, et Friedmanni võrrandid on eraldiseisev, sõltumatult põhjendatud kosmoloogiliste reeglite kogum, mis juhtub üldrelatiivsusteooriaga koos eksisteerima -- need on üldrelatiivsusteooria Einsteini väljavõrrandite otsene matemaatiline tagajärg, saadud asetades FLRW meetrika (konkreetne aegruum, mis kirjeldab homogeenset, isotroopset, paisuvat universumit) väljavõrranditesse ja lihtsustades; nende tuletamiseks ei ole vaja midagi peale üldrelatiivsusteooria enda ja homogeensuse ning isotroopsuse sümmeetriaeelduse.",
+    "sourceHash": "c6f6436d17808f5a",
+    "stale": false
+  }
+}

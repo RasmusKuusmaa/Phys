@@ -1,0 +1,10 @@
+{
+  "id": "the-standard-model-lagrangian-m1",
+  "conceptId": "the-standard-model-lagrangian",
+  "text": {
+    "en": "Believing the Standard Model Lagrangian is a huge, essentially arbitrary list of separately chosen terms, one per particle or interaction, with no unifying logic -- almost the entire structure is fixed by a single principle, demanding that the Lagrangian be invariant under local gauge transformations of U(1)xSU(2)xSU(3); once the matter content and this gauge symmetry are specified, the form of every interaction term (which particles couple to which force carriers, and how) follows essentially automatically from the gauge-covariant derivative, leaving very little genuine freedom in how the interaction terms are written down.",
+    "et": "Arvamus, et Standardmudeli Lagrange'i funktsioon on suur, sisuliselt suvaline nimekiri eraldi valitud liikmetest, üks osakese või interaktsiooni kohta, ilma ühtse loogikata -- peaaegu kogu struktuur on fikseeritud ühe põhimõttega, mis nõuab, et Lagrange'i funktsioon oleks invariantne lokaalsete mõõtteisenduste suhtes rühma U(1)xSU(2)xSU(3) all; kui aine sisu ja see mõõtsümmeetria on täpsustatud, järgneb iga interaktsiooniliikme kuju (millised osakesed seonduvad milliste jõukandjatega ja kuidas) sisuliselt automaatselt mõõdukovariantsest tuletisest, jättes väga vähe tegelikku vabadust selles, kuidas interaktsiooniliikmed kirja pannakse.",
+    "sourceHash": "990401616e95ff99",
+    "stale": false
+  }
+}

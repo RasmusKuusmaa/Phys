@@ -1,0 +1,10 @@
+{
+  "id": "the-friedmann-equations-m2",
+  "conceptId": "the-friedmann-equations",
+  "text": {
+    "en": "Believing the universe's expansion should always be decelerating, since gravity is universally attractive and should be pulling all the matter in the universe back together -- ordinary matter and radiation do decelerate the expansion in the Friedmann equations, exactly as this intuition suggests, but a component with sufficiently negative pressure (like a cosmological constant, or dark energy more generally) produces gravitationally repulsive behaviour in the second Friedmann equation, actively accelerating the expansion rather than slowing it, which is exactly the observed behaviour of the universe's expansion today.",
+    "et": "Arvamus, et universumi paisumine peaks alati aeglustuma, kuna gravitatsioon on universaalselt tõmbav ja peaks tõmbama kogu universumi aine tagasi kokku -- tavaline aine ja kiirgus aeglustavad Friedmanni võrrandites paisumist tõepoolest täpselt nii, nagu see intuitsioon viitab, kuid piisavalt negatiivse rõhuga komponent (nagu kosmoloogiline konstant või laiemalt tumeenergia) tekitab teises Friedmanni võrrandis gravitatsiooniliselt tõukava käitumise, kiirendades paisumist aktiivselt selle aeglustamise asemel, mis on täpselt universumi paisumise täna vaadeldud käitumine.",
+    "sourceHash": "85158b2c2ff85506",
+    "stale": false
+  }
+}

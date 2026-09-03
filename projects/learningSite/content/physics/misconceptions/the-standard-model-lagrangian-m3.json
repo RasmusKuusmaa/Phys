@@ -1,0 +1,10 @@
+{
+  "id": "the-standard-model-lagrangian-m3",
+  "conceptId": "the-standard-model-lagrangian",
+  "text": {
+    "en": "Believing the Standard Model Lagrangian, once written down, is a finished, complete theory of everything with nothing left unexplained -- despite being extraordinarily successful experimentally, the Standard Model Lagrangian famously does not include gravity at all, does not explain dark matter or dark energy, treats neutrino masses only in an extended, non-minimal form (the minimal Standard Model originally had exactly massless neutrinos), and contains around nineteen free parameters (particle masses, coupling strengths, mixing angles) whose specific numerical values the theory does not itself predict or explain, all genuinely open problems rather than solved aspects of the theory.",
+    "et": "Arvamus, et Standardmudeli Lagrange'i funktsioon on, kord üles kirjutatuna, valmis, täielik kõiksuse teooria, milles pole midagi seletamata jäänud -- hoolimata erakordsest eksperimentaalsest edust ei sisalda Standardmudeli Lagrange'i funktsioon kurikuulsalt üldse gravitatsiooni, ei seleta tumeainet ega tumeenergiat, käsitleb neutriino masse ainult laiendatud, mitteminimaalses vormis (minimaalses Standardmudelis olid neutriinod algselt täpselt massituna), ning sisaldab umbes üheksateist vaba parameetrit (osakeste massid, sidestustugevused, segunemisnurgad), mille konkreetseid arvväärtusi teooria ise ei ennusta ega seleta -- kõik tõeliselt lahtised probleemid, mitte teooria lahendatud aspektid.",
+    "sourceHash": "243c5da0c8877f5a",
+    "stale": false
+  }
+}

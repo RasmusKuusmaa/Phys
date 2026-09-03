@@ -1,0 +1,56 @@
+{
+  "id": "the-friedmann-equations-item1",
+  "conceptId": "the-friedmann-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can the universe's expansion actively accelerate rather than only ever decelerating under gravity?",
+    "et": "Miks saab universumi paisumine aktiivselt kiireneda, mitte ainult kunagi gravitatsiooni all aeglustuda?",
+    "sourceHash": "667c84e945b29652",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because a component with sufficiently negative pressure, like dark energy, produces gravitationally repulsive behaviour in the second Friedmann equation.",
+        "et": "Sest piisavalt negatiivse rõhuga komponent, nagu tumeenergia, tekitab teises Friedmanni võrrandis gravitatsiooniliselt tõukava käitumise.",
+        "sourceHash": "e49aa4035f05ad76",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It can't -- gravity is universally attractive, so the Friedmann equations always predict a decelerating expansion under any circumstances.",
+        "et": "Ei saa -- gravitatsioon on universaalselt tõmbav, seega Friedmanni võrrandid ennustavad alati aeglustuvat paisumist mistahes tingimustel.",
+        "sourceHash": "2e9a8663a0748d19",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-friedmann-equations-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the Friedmann equations are independent cosmological rules unrelated to general relativity's actual gravitational behaviour.",
+        "et": "Sest Friedmanni võrrandid on sõltumatud kosmoloogilised reeglid, mis ei ole seotud üldrelatiivsusteooria tegeliku gravitatsioonilise käitumisega.",
+        "sourceHash": "f9c703b7637b1365",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-friedmann-equations-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the universe is required to be perfectly uniform everywhere, which removes gravity's effect on the expansion entirely.",
+        "et": "Sest universum peab olema igal pool täiuslikult ühtlane, mis eemaldab gravitatsiooni mõju paisumisele täielikult.",
+        "sourceHash": "a415d2e155f0dfee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-friedmann-equations-m3"
+    }
+  ]
+}

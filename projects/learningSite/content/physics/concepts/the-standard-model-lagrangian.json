@@ -1,0 +1,23 @@
+{
+  "id": "the-standard-model-lagrangian",
+  "subject": "physics",
+  "level": "L4",
+  "module": "particle-physics",
+  "title": {
+    "en": "The Standard Model Lagrangian, term by term",
+    "et": "Standardmudeli Lagrange'i funktsioon liikme kaupa",
+    "sourceHash": "2d2151b1ab5d2a4f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every particle, force, and interaction in the Standard Model is packaged into a single Lagrangian density built from a small number of physically motivated pieces: kinetic terms for each field, gauge-covariant derivatives that encode how matter couples to the electromagnetic, weak, and strong forces (fixed entirely by demanding local gauge symmetry under U(1)xSU(2)xSU(3)), a Higgs sector that spontaneously breaks part of that symmetry and gives particles their masses, and Yukawa coupling terms that generate fermion masses through their interaction with the Higgs field, a remarkably compact object that, when expanded out, is the single most experimentally successful theory in the history of physics.",
+    "et": "Iga osake, jõud ja vastastikmõju Standardmudelis on pakitud ühte Lagrange'i tihedusse, mis on ehitatud väikesest arvust füüsikaliselt põhjendatud osadest: kineetilised liikmed igale väljale, mõõdukovariantsed tuletised, mis kodeerivad, kuidas aine seondub elektromagnetilise, nõrga ja tugeva jõuga (täielikult fikseeritud nõudega lokaalse mõõtsümmeetria järele rühma U(1)xSU(2)xSU(3) all), Higgsi sektor, mis spontaanselt murrab osa sellest sümmeetriast ja annab osakestele nende massid, ning Yukawa sidestusliikmed, mis tekitavad fermionite massid nende interaktsiooni kaudu Higgsi väljaga -- märkimisväärselt kompaktne objekt, mis laiendatuna on kogu füüsika ajaloo kõige eksperimentaalselt edukam teooria.",
+    "sourceHash": "aece5ac4dbff5c55",
+    "stale": false
+  },
+  "prerequisites": [
+    "gauge-symmetries-and-the-higgs-mechanism",
+    "electroweak-unification",
+    "quantum-chromodynamics-and-colour-confinement"
+  ]
+}

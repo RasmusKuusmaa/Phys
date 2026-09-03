@@ -1,0 +1,56 @@
+{
+  "id": "the-standard-model-lagrangian-item1",
+  "conceptId": "the-standard-model-lagrangian",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why don't gauge boson and fermion mass terms appear directly in the Standard Model Lagrangian the way they would in a generic field theory?",
+    "et": "Miks ei ilmu mõõtebosonite ja fermionite massiliikmed Standardmudeli Lagrange'i funktsioonis otse, nagu need ilmuksid üldises väljateoorias?",
+    "sourceHash": "45c08ae71b6eace3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because a direct mass term would explicitly break the gauge symmetry fixing the Lagrangian's structure, so masses instead arise indirectly through the Higgs mechanism and Yukawa couplings.",
+        "et": "Sest otsene massiliige murraks selgesõnaliselt mõõtsümmeetria, mis fikseerib Lagrange'i funktsiooni struktuuri, seega tekivad massid selle asemel kaudselt Higgsi mehhanismi ja Yukawa sidestuste kaudu.",
+        "sourceHash": "2a7e6e61b6131260",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the Standard Model Lagrangian is an arbitrary list of separately chosen terms, and mass terms simply weren't included by choice.",
+        "et": "Sest Standardmudeli Lagrange'i funktsioon on suvaline nimekiri eraldi valitud liikmetest, ning massiliikmed lihtsalt ei olnud valikuliselt kaasatud.",
+        "sourceHash": "d7e110b2f61829a1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-standard-model-lagrangian-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They do appear directly -- every field in the Standard Model Lagrangian has a simple, explicit mass term just like in a generic classical field theory.",
+        "et": "Need ilmuvad otse -- igal väljal Standardmudeli Lagrange'i funktsioonis on lihtne, selgesõnaline massiliige, nagu üldises klassikalises väljateoorias.",
+        "sourceHash": "e23f74ae2404782e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-standard-model-lagrangian-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the Standard Model Lagrangian is a complete theory of everything, so mass generation is fully explained with nothing left open.",
+        "et": "Sest Standardmudeli Lagrange'i funktsioon on täielik kõiksuse teooria, mistõttu massi teke on täielikult seletatud, ilma milleski lahtiseks jäämata.",
+        "sourceHash": "45a1cf41582b2752",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-standard-model-lagrangian-m3"
+    }
+  ]
+}

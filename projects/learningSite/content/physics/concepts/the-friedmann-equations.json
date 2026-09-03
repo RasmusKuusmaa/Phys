@@ -1,0 +1,22 @@
+{
+  "id": "the-friedmann-equations",
+  "subject": "physics",
+  "level": "L4",
+  "module": "general-relativity",
+  "title": {
+    "en": "The Friedmann equations",
+    "et": "Friedmanni võrrandid",
+    "sourceHash": "b8f5eddc3e3299f5",
+    "stale": false
+  },
+  "summary": {
+    "en": "Plugging a homogeneous, isotropic spacetime -- the FLRW metric, built from a single time-dependent scale factor describing how cosmic distances stretch over time -- into the Einstein field equations reduces the full tensor equations to two comparatively simple differential equations governing that scale factor: the Friedmann equations, which show precisely how the universe's expansion rate is set by its total energy density and how that expansion decelerates or accelerates depending on exactly what kind of matter and energy fills it, turning cosmology from a set of separate observational facts into direct, quantitative consequences of general relativity.",
+    "et": "Homogeense, isotroopse aegruumi -- FLRW meetrika, mis on ehitatud üksikust ajast sõltuvast skaalategurist, mis kirjeldab, kuidas kosmilised kaugused aja jooksul venivad -- asetamine Einsteini väljavõrranditesse taandab täielikud tensorvõrrandid kaheks võrdlemisi lihtsaks diferentsiaalvõrrandiks, mis valitsevad seda skaalategurit: Friedmanni võrrandid, mis näitavad täpselt, kuidas universumi paisumiskiirus on määratud selle kogu energiatihedusega ja kuidas see paisumine aeglustub või kiireneb sõltuvalt täpselt sellest, mis tüüpi aine ja energia seda täidab, muutes kosmoloogia eraldiseisvate vaatlusfaktide kogumist üldrelatiivsusteooria otsesteks, kvantitatiivseteks tagajärgedeks.",
+    "sourceHash": "ebecf873a764d730",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-einstein-field-equations",
+    "hubbles-law-and-the-expanding-universe"
+  ]
+}

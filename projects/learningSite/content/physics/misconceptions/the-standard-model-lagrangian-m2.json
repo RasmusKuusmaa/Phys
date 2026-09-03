@@ -1,0 +1,10 @@
+{
+  "id": "the-standard-model-lagrangian-m2",
+  "conceptId": "the-standard-model-lagrangian",
+  "text": {
+    "en": "Believing particle masses appear as simple, direct mass terms for every field in the Lagrangian, the same way they would in a generic classical field theory -- a direct mass term for a gauge boson or a chiral fermion would explicitly break the gauge symmetry that fixes the rest of the Lagrangian's structure, so particle masses in the Standard Model instead arise indirectly: gauge boson masses from the Higgs mechanism (spontaneous symmetry breaking giving the W and Z bosons mass while leaving the photon massless), and fermion masses from Yukawa coupling terms between each fermion and the Higgs field, which only become mass terms after the Higgs field acquires its nonzero vacuum expectation value.",
+    "et": "Arvamus, et osakeste massid ilmuvad Lagrange'i funktsioonis lihtsate, otseste massiliikmetena iga välja jaoks, samamoodi nagu need ilmuksid üldises klassikalises väljateoorias -- otsene massiliige mõõtebosonile või kiraalsele fermionile murraks selgesõnaliselt mõõtsümmeetria, mis fikseerib ülejäänud Lagrange'i funktsiooni struktuuri, seega tekivad Standardmudelis osakeste massid selle asemel kaudselt: mõõtebosonite massid Higgsi mehhanismist (spontaanne sümmeetria murdumine, mis annab W ja Z bosonitele massi, jättes footoni massituks), ning fermionite massid Yukawa sidestusliikmetest iga fermioni ja Higgsi välja vahel, mis muutuvad massiliikmeteks alles pärast seda, kui Higgsi väli omandab oma nullist erineva vaakumkeskväärtuse.",
+    "sourceHash": "5e8cd2b8cf4dc12b",
+    "stale": false
+  }
+}

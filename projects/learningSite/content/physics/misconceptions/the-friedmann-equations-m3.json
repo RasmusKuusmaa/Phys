@@ -1,0 +1,10 @@
+{
+  "id": "the-friedmann-equations-m3",
+  "conceptId": "the-friedmann-equations",
+  "text": {
+    "en": "Believing the FLRW metric and the Friedmann equations require the universe to be exactly, perfectly uniform in density everywhere, with no galaxies, clusters, or any structure at all -- the homogeneity and isotropy assumption is explicitly a large-scale approximation, valid only when averaged over scales far larger than individual galaxies or clusters (hundreds of millions of light-years and up); on smaller scales the universe is obviously and observably lumpy, and describing that smaller-scale structure requires the separate machinery of cosmological perturbation theory built on top of, not instead of, the smooth Friedmann background.",
+    "et": "Arvamus, et FLRW meetrika ja Friedmanni võrrandid nõuavad, et universum oleks tiheduselt igal pool täpselt, täiuslikult ühtlane, ilma galaktikate, parvede või mistahes struktuurita -- homogeensuse ja isotroopsuse eeldus on selgesõnaliselt suuremõõtmeline lähendus, kehtiv ainult keskmistatuna skaaladel, mis on palju suuremad kui üksikud galaktikad või parved (sadu miljoneid valgusaastaid ja rohkem); väiksematel skaaladel on universum ilmselgelt ja vaadeldavalt tükiline, ning selle väiksema skaala struktuuri kirjeldamine nõuab kosmoloogilise häiritusteooria eraldi aparaati, mis on ehitatud sileda Friedmanni tausta peale, mitte selle asemel.",
+    "sourceHash": "47d15114ef77c101",
+    "stale": false
+  }
+}
