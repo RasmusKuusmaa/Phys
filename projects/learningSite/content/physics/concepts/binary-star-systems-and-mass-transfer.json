@@ -1,0 +1,22 @@
+{
+  "id": "binary-star-systems-and-mass-transfer",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Binary star systems and mass transfer",
+    "et": "Kaksiktähesüsteemid ja massiülekanne",
+    "sourceHash": "53567fa72e79095c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Most stars are not solitary but form gravitationally bound pairs, and once the more massive member evolves and expands into a red giant, it can grow large enough to overflow its Roche lobe -- the teardrop-shaped region around each star within which gas is gravitationally bound to that star rather than its companion -- so that gas spills through the inner Lagrange point onto the companion, transferring mass (and often angular momentum) between the two stars and dramatically altering both stars' subsequent evolution, a process responsible for phenomena ranging from algol-paradox systems in which the less massive star is paradoxically the more evolved one, to cataclysmic variables and type Ia supernova progenitors, since the star that started out less massive can end up gaining so much material from its companion that it becomes the more massive, more evolved star instead.",
+    "et": "Enamik tähti ei ole üksikud, vaid moodustavad gravitatsiooniliselt seotud paare, ning kui massiivsem liige areneb ja paisub punaseks hiiglaseks, võib ta kasvada piisavalt suureks, et ületada oma Roche'i saba -- pisaratilgakujuline piirkond iga tähe ümber, mille sees on gaas gravitatsiooniliselt seotud selle tähega, mitte kaaslasega -- nii et gaas voolab läbi sisemise Lagrange'i punkti kaaslasele, kandes kahe tähe vahel üle massi (ja sageli impulsimomenti) ning muutes dramaatiliselt mõlema tähe edasist arengut, protsess, mis vastutab nähtuste eest alates algoli-paradoksi süsteemidest, milles vähem massiivne täht on paradoksaalselt arenenum, kuni katastroofiliste muutlike tähtedeni ja Ia tüüpi supernoovade eellasteni, kuna algselt vähem massiivne täht võib kaaslaselt saada nii palju ainet, et temast saab hoopis massiivsem, arenenum täht.",
+    "sourceHash": "ad91a65920180edc",
+    "stale": false
+  },
+  "prerequisites": [
+    "stellar-evolution-and-compact-objects",
+    "the-chandrasekhar-limit"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "binary-star-systems-and-mass-transfer-m1",
+  "conceptId": "binary-star-systems-and-mass-transfer",
+  "text": {
+    "en": "Believing each star in a binary system evolves in complete isolation, exactly as a single star of the same mass would, with the companion's presence being irrelevant to its evolution -- once a star expands enough to overflow its Roche lobe, its evolution is fundamentally altered by mass loss to (or gain from) its companion, changing its core mass, its remaining nuclear fuel supply, and often its final fate entirely; the majority of exotic compact-object phenomena astronomers observe (X-ray binaries, cataclysmic variables, many type Ia supernova progenitors) require this binary interaction and have no single-star equivalent.",
+    "et": "Arvamus, et kaksiksüsteemi iga täht areneb täiesti isoleeritult, täpselt nii nagu areneks üksik sama massiga täht, ilma et kaaslase kohalolek oleks tema arengu jaoks oluline -- kui täht paisub piisavalt, et ületada oma Roche'i saba, muutub tema areng põhjalikult massi kaotuse (või saamise) tõttu kaaslaselt, muutes tema tuuma massi, allesjäänud tuumakütuse varu ja sageli täielikult tema lõpliku saatuse; enamik astronoomide vaadeldud eksootilisi kompaktobjektide nähtusi (röntgenkaksiktähed, katastroofilised muutlikud tähed, paljud Ia tüüpi supernoovade eellased) nõuavad seda kaksiktähtede vastastikmõju ning ei oma üksiktähe vastet.",
+    "sourceHash": "d2d1adacb24fff50",
+    "stale": false
+  }
+}

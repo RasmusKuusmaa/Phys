@@ -1,0 +1,56 @@
+{
+  "id": "binary-star-systems-and-mass-transfer-item1",
+  "conceptId": "binary-star-systems-and-mass-transfer",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In an Algol-type binary, the less massive star observed today is a more evolved subgiant, while its more massive companion is still an unevolved main-sequence star. How is this possible, given that more massive stars evolve faster?",
+    "et": "Algoli-tüüpi kaksiktähes on täna vaadeldav vähem massiivne täht arenenum alahiiglane, samal ajal kui tema massiivsem kaaslane on veel arenemata peajada täht. Kuidas on see võimalik, arvestades, et massiivsemad tähed arenevad kiiremini?",
+    "sourceHash": "c902e98a9e26f324",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The now-less-massive star used to be the more massive one, evolved first, and then transferred most of its mass to its companion via Roche-lobe overflow.",
+        "et": "Praegu vähem massiivne täht oli varem massiivsem, arenes esimesena ja kandis seejärel suurema osa oma massist Roche'i saba ületamise kaudu kaaslasele üle.",
+        "sourceHash": "6e897cc28cc7bc2c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The two stars simply evolve completely independently, and it is pure coincidence which one happens to be more evolved at any given time.",
+        "et": "Kaks tähte lihtsalt arenevad täiesti sõltumatult, ja on puhas juhus, kumb neist mingil hetkel arenenum on.",
+        "sourceHash": "0025ab5af07f1770",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "binary-star-systems-and-mass-transfer-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "More massive stars actually evolve slower than less massive ones, so the observation is exactly what stellar theory predicts with no mass transfer needed.",
+        "et": "Massiivsemad tähed arenevad tegelikult aeglasemalt kui vähem massiivsed, seega on vaatlus täpselt see, mida tähefüüsika ilma massiülekandeta ennustab.",
+        "sourceHash": "c0cd8182282be770",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "binary-star-systems-and-mass-transfer-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Mass transfer began the instant the two stars became gravitationally bound, long before either star left the main sequence, scrambling their apparent masses.",
+        "et": "Massiülekanne algas hetkel, mil kaks tähte muutusid gravitatsiooniliselt seotuks, ammu enne kui kumbki täht peajadalt lahkus, segades nende näivaid masse.",
+        "sourceHash": "50ef688bec1eeed5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "binary-star-systems-and-mass-transfer-m3"
+    }
+  ]
+}

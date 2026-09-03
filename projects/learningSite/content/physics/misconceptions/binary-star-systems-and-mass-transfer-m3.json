@@ -1,0 +1,10 @@
+{
+  "id": "binary-star-systems-and-mass-transfer-m3",
+  "conceptId": "binary-star-systems-and-mass-transfer",
+  "text": {
+    "en": "Believing mass transfer in a binary happens the moment two stars are gravitationally bound, regardless of their separation or evolutionary state -- mass transfer only begins once a star's outer radius actually grows to fill its Roche lobe (the region within which gas remains gravitationally bound to it rather than its companion), which typically only happens well into a star's post-main-sequence expansion into a giant, or for very close binaries; most binary stars, including most main-sequence pairs, sit with radii comfortably inside their Roche lobes and exchange no mass at all for most or all of their lives.",
+    "et": "Arvamus, et massiülekanne kaksiktähtede vahel toimub niipea, kui kaks tähte on gravitatsiooniliselt seotud, olenemata nende kaugusest või arengujärgust -- massiülekanne algab alles siis, kui tähe välisraadius tõesti kasvab nii suureks, et täidab tema Roche'i saba (piirkond, mille sees jääb gaas gravitatsiooniliselt seotuks selle tähega, mitte kaaslasega), mis tüüpiliselt toimub alles hästi tähe peajadajärgse paisumise käigus hiiglaseks, või väga lähedaste kaksiktähtede puhul; enamik kaksiktähti, sealhulgas enamik peajada paare, püsib oma Roche'i sabadest mugavalt väiksema raadiusega ega vaheta kogu või peaaegu kogu oma eluea jooksul üldse massi.",
+    "sourceHash": "c78de4bbf9aea8c6",
+    "stale": false
+  }
+}

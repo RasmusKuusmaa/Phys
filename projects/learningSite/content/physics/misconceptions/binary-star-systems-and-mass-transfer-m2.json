@@ -1,0 +1,10 @@
+{
+  "id": "binary-star-systems-and-mass-transfer-m2",
+  "conceptId": "binary-star-systems-and-mass-transfer",
+  "text": {
+    "en": "Believing the more massive star in a binary system must always remain the more evolved one throughout the system's history, since it started with more fuel and evolves faster -- while a more massive star does evolve off the main sequence first, if it then transfers a large fraction of its mass onto its companion (via Roche-lobe overflow), the companion can end up the more massive star while the original donor becomes a low-mass remnant; this mass-reversal is exactly what produces Algol-type binaries, in which the less massive star observed today is, paradoxically, the more evolved (subgiant) one, because it used to be the more massive star before donating most of its envelope away.",
+    "et": "Arvamus, et kaksiksüsteemi massiivsem täht peab kogu süsteemi ajaloo vältel jääma alati arenenumaks, kuna ta alustas rohkema kütusega ja areneb kiiremini -- kuigi massiivsem täht lahkub tõesti peajadalt esimesena, kui ta seejärel kannab suure osa oma massist üle kaaslasele (Roche'i saba ületamise kaudu), võib kaaslasest saada massiivsem täht, samal ajal kui algsest doonorist saab madala massiga jäänuk; see massi ümberpööramine ongi täpselt see, mis toodab Algoli-tüüpi kaksiktähti, milles täna vaadeldud vähem massiivne täht on paradoksaalselt arenenum (alahiiglane), kuna ta oli varem massiivsem täht, enne kui ta suurema osa oma kestast ära kinkis.",
+    "sourceHash": "fab2b645d1dba623",
+    "stale": false
+  }
+}
