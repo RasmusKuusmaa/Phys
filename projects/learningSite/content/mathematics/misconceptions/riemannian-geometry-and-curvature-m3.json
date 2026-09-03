@@ -1,0 +1,10 @@
+{
+  "id": "riemannian-geometry-and-curvature-m3",
+  "conceptId": "riemannian-geometry-and-curvature",
+  "text": {
+    "en": "Believing a space with zero Ricci curvature must be completely flat with no curvature at all -- the Ricci tensor is only a partial trace (contraction) of the full Riemann curvature tensor, so it's possible for a space to have zero Ricci curvature (satisfying the vacuum Einstein field equations) while still having nonzero Riemann curvature (through the Weyl tensor part), which is exactly the situation in the spacetime around a black hole in vacuum: curved, but Ricci-flat.",
+    "et": "Arvamus, et ruum, mille Ricci kõverus on null, peab olema täiesti tasane ilma igasuguse kõveruseta -- Ricci tensor on ainult osaline jälg (kontraktsioon) täielikust Riemanni kõverustensorist, seega on võimalik, et ruumil on null-Ricci kõverus (rahuldades vaakumi Einsteini väljavõrrandeid), omades samas nullist erinevat Riemanni kõverust (Weyli tensori osa kaudu), mis on täpselt olukord aegruumis musta augu ümber vaakumis: kõver, kuid Ricci-tasane.",
+    "sourceHash": "5d4a4bd71340df6d",
+    "stale": false
+  }
+}

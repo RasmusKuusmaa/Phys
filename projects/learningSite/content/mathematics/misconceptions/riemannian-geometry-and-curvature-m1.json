@@ -1,0 +1,10 @@
+{
+  "id": "riemannian-geometry-and-curvature-m1",
+  "conceptId": "riemannian-geometry-and-curvature",
+  "text": {
+    "en": "Believing curvature can only be defined by looking at a surface or space from outside, embedded in some higher-dimensional flat space -- Riemannian geometry defines curvature intrinsically, entirely from measurements an inhabitant confined to the space itself could make (distances, angles, how vectors change under parallel transport), with no reference to any external embedding required at all; this is precisely why general relativity can treat spacetime's curvature as physically real without needing to ask what spacetime is curving 'into.'",
+    "et": "Arvamus, et kõverust saab defineerida ainult vaadeldes pinda või ruumi väljastpoolt, sisestatuna mingisse kõrgemamõõtmelisse tasasesse ruumi -- Riemanni geomeetria defineerib kõveruse sisemiselt, täielikult mõõtmiste kaudu, mida ruumi enda sisse piiratud elanik saaks teha (kaugused, nurgad, kuidas vektorid muutuvad paralleelse ülekande all), ilma et oleks üldse vaja viidata mistahes välisele sisestamisele; just see on põhjus, miks üldrelatiivsusteooria saab käsitleda aegruumi kõverust füüsikaliselt reaalsena, ilma et peaks küsima, millesse aegruum kõverdub.",
+    "sourceHash": "b033bf6945c16f7a",
+    "stale": false
+  }
+}

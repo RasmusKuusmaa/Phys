@@ -1,0 +1,21 @@
+{
+  "id": "riemannian-geometry-and-curvature",
+  "subject": "mathematics",
+  "level": "L4",
+  "module": "differential-geometry",
+  "title": {
+    "en": "Riemannian geometry and curvature",
+    "et": "Riemanni geomeetria ja kõverus",
+    "sourceHash": "45efe352b21844a3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Once a space carries a metric that measures distances and angles at every point, its intrinsic curvature can be defined entirely without reference to any embedding in a higher-dimensional space, through the Christoffel symbols (which encode how the basis vectors themselves change from point to point) and the Riemann and Ricci curvature tensors built from them, the exact mathematical machinery general relativity uses to describe gravity as the curvature of spacetime itself.",
+    "et": "Kui ruumil on meetrika, mis mõõdab kauguseid ja nurki igas punktis, saab selle sisemist kõverust defineerida täielikult ilma viiteta mistahes sisestamisele kõrgemamõõtmelisse ruumi, Christoffeli sümbolite (mis kodeerivad, kuidas alusvektorid ise punktist punkti muutuvad) ja neist ehitatud Riemanni ja Ricci kõverustensorite kaudu, mis on täpne matemaatiline aparaat, mida üldrelatiivsusteooria kasutab gravitatsiooni kirjeldamiseks aegruumi enda kõverusena.",
+    "sourceHash": "aa7e76a01b26adf3",
+    "stale": false
+  },
+  "prerequisites": [
+    "tensor-algebra-and-curvilinear-coordinates"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "riemannian-geometry-and-curvature-m2",
+  "conceptId": "riemannian-geometry-and-curvature",
+  "text": {
+    "en": "Believing the Christoffel symbols themselves form a tensor -- despite carrying indices and transforming under coordinate changes, the Christoffel symbols do not transform as a tensor (they pick up an extra inhomogeneous term), which is exactly what allows them to vanish in one coordinate system (locally flat coordinates) while being nonzero in another, describing coordinate-dependent bookkeeping rather than an intrinsic geometric quantity by themselves.",
+    "et": "Arvamus, et Christoffeli sümbolid ise moodustavad tensori -- hoolimata sellest, et neil on indeksid ja nad teisenduvad koordinaatide muutumisel, ei teisendu Christoffeli sümbolid tensorina (need saavad lisaks ebahomogeense liikme), mis on täpselt see, mis lubab neil kaduda ühes koordinaatsüsteemis (lokaalselt tasastes koordinaatides), olles samas nullist erinevad teises, kirjeldades koordinaadist sõltuvat raamatupidamist, mitte iseenesest sisemist geomeetrilist suurust.",
+    "sourceHash": "c02cdf5575ebedc4",
+    "stale": false
+  }
+}

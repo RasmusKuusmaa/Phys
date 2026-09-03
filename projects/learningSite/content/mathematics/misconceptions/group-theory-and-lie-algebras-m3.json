@@ -1,0 +1,10 @@
+{
+  "id": "group-theory-and-lie-algebras-m3",
+  "conceptId": "group-theory-and-lie-algebras",
+  "text": {
+    "en": "Believing group theory and Lie algebras are a purely abstract mathematical topic with no real connection to physical forces -- the Standard Model's fundamental interactions are built directly on specific Lie groups (U(1) for electromagnetism, SU(2) for the weak force, SU(3) for the strong force), and the particles, force carriers, and conservation laws of particle physics follow directly from the representation theory of these groups, making this one of the most physically load-bearing pieces of mathematics in modern physics, not an abstract detour.",
+    "et": "Arvamus, et rühmateooria ja Lie algebrad on puhtalt abstraktne matemaatiline teema ilma tegeliku seoseta füüsikaliste jõududega -- Standardmudeli fundamentaalsed vastastikmõjud on üles ehitatud otse konkreetsetele Lie rühmadele (U(1) elektromagnetismi jaoks, SU(2) nõrga jõu jaoks, SU(3) tugeva jõu jaoks), ning osakestefüüsika osakesed, jõukandjad ja jäävusseadused tulenevad otse nende rühmade esitusteooriast, mis teeb sellest ühe kõige füüsikaliselt kandvama matemaatika osa tänapäeva füüsikas, mitte abstraktse kõrvalepõike.",
+    "sourceHash": "8c22587d3344bcbf",
+    "stale": false
+  }
+}

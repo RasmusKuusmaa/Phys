@@ -1,0 +1,56 @@
+{
+  "id": "group-theory-and-lie-algebras-item1",
+  "conceptId": "group-theory-and-lie-algebras",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is group theory considered directly load-bearing for particle physics, rather than a purely abstract detour?",
+    "et": "Miks peetakse rühmateooriat osakestefüüsika jaoks otseselt kandvaks, mitte puhtalt abstraktseks kõrvalepõikeks?",
+    "sourceHash": "ac1e243dac488ef7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the Standard Model's fundamental interactions are built directly on specific Lie groups, and particles and conservation laws follow from their representation theory.",
+        "et": "Sest Standardmudeli fundamentaalsed vastastikmõjud on üles ehitatud otse konkreetsetele Lie rühmadele, ning osakesed ja jäävusseadused tulenevad nende esitusteooriast.",
+        "sourceHash": "844fbea8edff6e96",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because a Lie algebra and a Lie group are the same object, just described with different notation.",
+        "et": "Sest Lie algebra ja Lie rühm on sama objekt, ainult teistsuguse tähistusega kirjeldatud.",
+        "sourceHash": "d4055c37320e01c8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "group-theory-and-lie-algebras-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because groups must always consist of numbers, and physics is fundamentally about numerical quantities.",
+        "et": "Sest rühmad peavad alati koosnema arvudest, ning füüsika on põhimõtteliselt arvuliste suuruste kohta.",
+        "sourceHash": "417c11828ffc5162",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "group-theory-and-lie-algebras-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because it is a purely abstract topic that happens to share vocabulary with physics by coincidence.",
+        "et": "Sest see on puhtalt abstraktne teema, mis jagab füüsikaga sõnavara ainult juhuslikult.",
+        "sourceHash": "5a19d1992cf43077",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "group-theory-and-lie-algebras-m3"
+    }
+  ]
+}

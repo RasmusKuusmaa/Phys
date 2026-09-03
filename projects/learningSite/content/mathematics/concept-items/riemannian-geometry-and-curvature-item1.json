@@ -1,0 +1,56 @@
+{
+  "id": "riemannian-geometry-and-curvature-item1",
+  "conceptId": "riemannian-geometry-and-curvature",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can general relativity treat spacetime's curvature as physically real without asking what spacetime is curving 'into'?",
+    "et": "Miks saab üldrelatiivsusteooria käsitleda aegruumi kõverust füüsikaliselt reaalsena, ilma et peaks küsima, millesse aegruum kõverdub?",
+    "sourceHash": "1e5eba164f81112e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because Riemannian geometry defines curvature intrinsically, from measurements made entirely within the space itself, with no external embedding required.",
+        "et": "Sest Riemanni geomeetria defineerib kõveruse sisemiselt, mõõtmiste kaudu, mis on tehtud täielikult ruumi enda sees, ilma et oleks vaja välist sisestamist.",
+        "sourceHash": "c56a2736efa6e0af",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the Christoffel symbols form a tensor that directly measures curvature from outside the space.",
+        "et": "Sest Christoffeli sümbolid moodustavad tensori, mis mõõdab kõverust otse väljastpoolt ruumi.",
+        "sourceHash": "6df4804ed7ec8a87",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "riemannian-geometry-and-curvature-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because zero Ricci curvature always means the space is completely flat, so the question never actually arises.",
+        "et": "Sest null-Ricci kõverus tähendab alati, et ruum on täiesti tasane, mistõttu see küsimus tegelikult kunagi ei teki.",
+        "sourceHash": "1c0278e0266ba0a0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "riemannian-geometry-and-curvature-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because physicists have simply chosen to ignore the question rather than because the mathematics avoids it.",
+        "et": "Sest füüsikud on lihtsalt otsustanud seda küsimust eirata, mitte sellepärast, et matemaatika seda väldib.",
+        "sourceHash": "53b68a3db6f51a40",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "riemannian-geometry-and-curvature-m3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "group-theory-and-lie-algebras",
+  "subject": "mathematics",
+  "level": "L4",
+  "module": "abstract-algebra",
+  "title": {
+    "en": "Group theory and Lie algebras",
+    "et": "Rühmateooria ja Lie algebrad",
+    "sourceHash": "76464994885a4f56",
+    "stale": false
+  },
+  "summary": {
+    "en": "A group is a set with a single operation obeying closure, associativity, an identity element, and inverses; a Lie group is additionally a continuous, smooth space, so it has an associated Lie algebra describing its structure near the identity through commutators, and this combination is the precise mathematical language physics uses to describe continuous symmetries, from rotations in ordinary space to the internal symmetries underlying the Standard Model's fundamental forces.",
+    "et": "Rühm on hulk koos ühe tehtega, mis rahuldab kinnisust, assotsiatiivsust, ühikelemendi olemasolu ja pöördelementide olemasolu; Lie rühm on lisaks pidev, sile ruum, mistõttu sellel on seotud Lie algebra, mis kirjeldab selle struktuuri ühikelemendi lähedal kommutaatorite kaudu, ning see kombinatsioon on täpne matemaatiline keel, mida füüsika kasutab pidevate sümmeetriate kirjeldamiseks, alates tavalise ruumi pööretest kuni Standardmudeli fundamentaaljõudude aluseks olevate sisemiste sümmeetriateni.",
+    "sourceHash": "f5878413402fe1d4",
+    "stale": false
+  },
+  "prerequisites": [
+    "matrices",
+    "vector-spaces"
+  ]
+}

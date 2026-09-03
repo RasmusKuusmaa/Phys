@@ -1,0 +1,10 @@
+{
+  "id": "group-theory-and-lie-algebras-m1",
+  "conceptId": "group-theory-and-lie-algebras",
+  "text": {
+    "en": "Believing a group must be a set of numbers with ordinary addition or multiplication -- a group can be built from any kind of object (rotations, permutations, matrices, symmetry operations) with any operation, as long as that operation satisfies closure, associativity, has an identity element, and every element has an inverse; the elements themselves need not be numbers at all.",
+    "et": "Arvamus, et rühm peab olema arvude hulk tavalise liitmise või korrutamisega -- rühma saab ehitada mistahes tüüpi objektidest (pöörded, permutatsioonid, maatriksid, sümmeetriaoperatsioonid) mistahes tehtega, kui see tehe rahuldab kinnisust, assotsiatiivsust, sellel on ühikelement ja igal elemendil on pöördelement; elemendid ise ei pea üldse arvud olema.",
+    "sourceHash": "319dccca3610ec85",
+    "stale": false
+  }
+}

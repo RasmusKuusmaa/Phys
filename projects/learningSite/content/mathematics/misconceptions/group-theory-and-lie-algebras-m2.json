@@ -1,0 +1,10 @@
+{
+  "id": "group-theory-and-lie-algebras-m2",
+  "conceptId": "group-theory-and-lie-algebras",
+  "text": {
+    "en": "Believing a Lie algebra is just a group with a different name -- a Lie group is a continuous, smooth manifold with group structure, while its Lie algebra is a distinct, simpler linear object (a vector space with a bracket operation) that captures the group's structure only near the identity element; the algebra linearizes the group and is far easier to work with, but it is not the same object as the group itself.",
+    "et": "Arvamus, et Lie algebra on lihtsalt rühm teise nimega -- Lie rühm on pidev, sile muutkond rühmastruktuuriga, samal ajal kui selle Lie algebra on erinev, lihtsam lineaarne objekt (vektorruum koos suluoperatsiooniga), mis kajastab rühma struktuuri ainult ühikelemendi lähedal; algebra lineariseerib rühma ja sellega on palju lihtsam töötada, kuid see ei ole sama objekt mis rühm ise.",
+    "sourceHash": "1e1df0e1b5b59810",
+    "stale": false
+  }
+}

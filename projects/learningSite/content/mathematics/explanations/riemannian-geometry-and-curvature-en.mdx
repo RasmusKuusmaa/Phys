@@ -1,0 +1,32 @@
+A Riemannian manifold is a smooth space equipped with a metric — a rule for measuring the
+length of any small displacement at every point, which in turn determines distances, angles,
+and volumes throughout the space. Curvilinear coordinates already show that basis vectors can
+change direction from point to point; the Christoffel symbols organize exactly how much they
+change, and are what's needed to differentiate vectors and tensors correctly on a curved or
+curvilinear space (the covariant derivative), correcting the ordinary partial derivative for
+the fact that the coordinate basis itself is twisting underneath it. Despite carrying indices,
+the Christoffel symbols are not themselves a tensor — they pick up an inhomogeneous term under
+coordinate changes — which is precisely what allows a clever choice of coordinates to make
+them vanish at any single point (locally flat coordinates), even on a genuinely curved space.
+
+True, coordinate-independent curvature is captured by the Riemann curvature tensor, built from
+derivatives and products of the Christoffel symbols, which measures the failure of parallel
+transport around a closed loop to return a vector to its original direction — a vector
+transported around a small loop on a curved surface comes back rotated, and the Riemann tensor
+quantifies exactly how much, in a way that cannot be removed by any coordinate choice. Because
+the full Riemann tensor has many independent components, it is often summarized through
+contractions: the Ricci tensor (a partial trace of the Riemann tensor) and the Ricci scalar (a
+further trace of that), both of which discard some of the full curvature information (carried
+separately by the Weyl tensor) but are exactly the objects that appear in the Einstein field
+equations, since they are precisely the pieces of curvature that couple to the local
+distribution of mass and energy.
+
+This is why general relativity's description of gravity as spacetime curvature is a
+mathematically complete, self-contained statement, not a metaphor requiring some higher-
+dimensional space to curve "into": every geometric quantity — distances, angles, geodesics,
+and curvature itself — is defined purely from the metric and its derivatives, intrinsically,
+without any embedding. It also explains a subtlety around black holes: the vacuum region
+outside a mass has zero Ricci curvature, satisfying the vacuum Einstein field equations, and
+yet is very much curved overall (nonzero Riemann curvature, carried entirely by the Weyl part)
+— tidal forces and the bending of light near a black hole are real, geometric effects even
+where the Ricci tensor identically vanishes.
