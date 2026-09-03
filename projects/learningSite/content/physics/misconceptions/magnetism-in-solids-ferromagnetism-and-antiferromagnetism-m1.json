@@ -1,0 +1,10 @@
+{
+  "id": "magnetism-in-solids-ferromagnetism-and-antiferromagnetism-m1",
+  "conceptId": "magnetism-in-solids-ferromagnetism-and-antiferromagnetism",
+  "text": {
+    "en": "Believing ferromagnetism arises from ordinary classical magnetic dipole-dipole interactions between neighbouring atomic moments, simply summed up across the material -- these classical dipole-dipole interactions are far too weak (by orders of magnitude) to sustain magnetic order at anywhere near room temperature; the actual driving interaction is the quantum-mechanical exchange interaction, which has no classical counterpart at all and arises specifically from the interplay between the Pauli exclusion principle (which forbids identical fermions from occupying the same quantum state) and the ordinary Coulomb repulsion between electrons, making the energy of two electrons depend on whether their spins are parallel or antiparallel even though the interaction itself is purely electrostatic in origin.",
+    "et": "Arvamus, et ferromagnetism tekib tavalistest klassikalistest magnetilistest dipool-dipool vastastikmõjudest naaberaatomite momentide vahel, lihtsalt kokku liidetuna üle materjali -- need klassikalised dipool-dipool vastastikmõjud on suurusjärkude võrra liiga nõrgad, et säilitada magnetilist korrastust kusagil toatemperatuuri lähedal; tegelik liikumapanev vastastikmõju on kvantmehaaniline vahetusvastastikmõju, millel ei ole üldse klassikalist vastet ja mis tuleneb spetsiifiliselt koosmõjust Pauli välistusprintsiibi (mis keelab identsetel fermionidel hõivata sama kvantolekut) ja elektronide vahelise tavalise Coulombi tõukumise vahel, muutes kahe elektroni energia sõltuvaks sellest, kas nende spinnid on paralleelsed või antiparalleelsed, kuigi vastastikmõju ise on olemuselt puhtalt elektrostaatiline.",
+    "sourceHash": "05ccab223292d7f1",
+    "stale": false
+  }
+}

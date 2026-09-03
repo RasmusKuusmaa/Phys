@@ -1,0 +1,10 @@
+{
+  "id": "magnetism-in-solids-ferromagnetism-and-antiferromagnetism-m3",
+  "conceptId": "magnetism-in-solids-ferromagnetism-and-antiferromagnetism",
+  "text": {
+    "en": "Believing a ferromagnet's magnetic order, once established, persists at any temperature, or that heating a magnet has no fundamental effect on its magnetism beyond gradually weakening it -- ferromagnetic (and antiferromagnetic) order is a genuine phase transition with a sharp critical temperature (the Curie temperature for ferromagnets, the Néel temperature for antiferromagnets): below it, the exchange interaction's ordering tendency wins out over thermal fluctuations and long-range magnetic order persists, but above it, thermal fluctuations overwhelm the exchange interaction entirely and the magnetic order vanishes qualitatively, not just gradually weakens, leaving a disordered paramagnetic state with zero long-range order.",
+    "et": "Arvamus, et ferromagnetiku magnetiline korrastus, kord kehtestatuna, püsib mistahes temperatuuril, või et magneti kuumutamisel ei ole selle magnetismile mingit fundamentaalset mõju peale järkjärgulise nõrgenemise -- ferromagnetiline (ja antiferromagnetiline) korrastus on tõeline faasiüleminek terava kriitilise temperatuuriga (ferromagnetikute jaoks Curie temperatuur, antiferromagnetikute jaoks Néeli temperatuur): allpool seda võidab vahetusvastastikmõju korrastav kalduvus soojuslikud fluktuatsioonid ja pikamaaline magnetiline korrastus püsib, kuid ülalpool seda ületavad soojuslikud fluktuatsioonid vahetusvastastikmõju täielikult ning magnetiline korrastus kaob kvalitatiivselt, mitte ainult järk-järgult nõrgeneb, jättes maha korrastamata paramagnetilise oleku nulli pikamaalise korrastusega.",
+    "sourceHash": "6e5184a0ac4ee52f",
+    "stale": false
+  }
+}

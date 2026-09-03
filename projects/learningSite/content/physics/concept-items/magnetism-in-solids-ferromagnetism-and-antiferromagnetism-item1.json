@@ -1,0 +1,55 @@
+{
+  "id": "magnetism-in-solids-ferromagnetism-and-antiferromagnetism-item1",
+  "conceptId": "magnetism-in-solids-ferromagnetism-and-antiferromagnetism",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An antiferromagnetic material has strong exchange interactions between neighbouring magnetic moments, comparable in strength to a typical ferromagnet's. Why does it show zero net magnetization despite this strong exchange interaction?",
+    "et": "Antiferromagnetilisel materjalil on tugevad vahetusvastastikmõjud naabermagnetiliste momentide vahel, mis on tugevuselt võrreldavad tüüpilise ferromagnetiku omadega. Miks näitab see nulli netomagnetiseeritust, hoolimata sellest tugevast vahetusvastastikmõjust?",
+    "sourceHash": "e9303fb7917f41dd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The exchange interaction's sign favours antiparallel alignment, splitting the material into two sublattices whose opposite magnetizations cancel even though genuine order is present.",
+        "et": "Vahetusvastastikmõju märk soodustab antiparalleelset joondumist, jagades materjali kaheks alamvõreks, mille vastandlikud magnetiseeritused tühistuvad, kuigi tõeline korrastus on olemas.",
+        "sourceHash": "0cd9c24fa75f89ba",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The material's exchange interaction is actually too weak to produce any real magnetic order, so what looks like antiferromagnetism is really just disordered paramagnetism.",
+        "et": "Materjali vahetusvastastikmõju on tegelikult liiga nõrk, et toota tegelikku magnetilist korrastust, seega on see, mis näib olevat antiferromagnetism, tegelikult lihtsalt korrastamata paramagnetism.",
+        "sourceHash": "cbd31000e2d1433d",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Any material with a strong exchange interaction must be ferromagnetic, so this material cannot actually be an antiferromagnet at all.",
+        "et": "Iga materjal, millel on tugev vahetusvastastikmõju, peab olema ferromagnetiline, seega ei saa see materjal tegelikult üldse olla antiferromagnetik.",
+        "sourceHash": "125696ae9ac6fa03",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "magnetism-in-solids-ferromagnetism-and-antiferromagnetism-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The exchange interaction is a classical dipole-dipole effect that happens to cancel out geometrically in this particular crystal structure, unrelated to spin alignment.",
+        "et": "Vahetusvastastikmõju on klassikaline dipool-dipool efekt, mis selles konkreetses kristallstruktuuris juhtub geomeetriliselt tühistuma, ilma seoseta spinnide joondumisega.",
+        "sourceHash": "e5842b3494ebc319",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "magnetism-in-solids-ferromagnetism-and-antiferromagnetism-m1"
+    }
+  ]
+}

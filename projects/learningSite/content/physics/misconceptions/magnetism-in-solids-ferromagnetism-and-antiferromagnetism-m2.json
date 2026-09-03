@@ -1,0 +1,10 @@
+{
+  "id": "magnetism-in-solids-ferromagnetism-and-antiferromagnetism-m2",
+  "conceptId": "magnetism-in-solids-ferromagnetism-and-antiferromagnetism",
+  "text": {
+    "en": "Believing every material with strong exchange interactions between neighbouring magnetic moments must be ferromagnetic, since exchange is what drives magnetic order -- the exchange interaction's sign, not merely its strength, determines the resulting order: a positive exchange constant favours neighbouring spins aligning parallel (ferromagnetism), while a negative exchange constant favours neighbouring spins aligning antiparallel (antiferromagnetism), splitting the material into two interpenetrating sublattices whose opposite magnetizations cancel to give zero net magnetization overall, even though strong, genuine magnetic order is still present at the microscopic level.",
+    "et": "Arvamus, et iga materjal, millel on tugevad vahetusvastastikmõjud naabermagnetiliste momentide vahel, peab olema ferromagnetiline, kuna vahetus ongi see, mis juhib magnetilist korrastust -- vahetusvastastikmõju märk, mitte ainult selle tugevus, määrab saadud korrastuse: positiivne vahetuskonstant soodustab naaberspinnide paralleelset joondumist (ferromagnetism), samal ajal kui negatiivne vahetuskonstant soodustab naaberspinnide antiparalleelset joondumist (antiferromagnetism), jagades materjali kaheks üksteist läbistavaks alamvõreks, mille vastandlikud magnetiseeritused tühistuvad, andes tervikuna nulli netomagnetiseerituse, kuigi tugev, tõeline magnetiline korrastus on mikroskoopilisel tasandil endiselt olemas.",
+    "sourceHash": "8c542420b78918d7",
+    "stale": false
+  }
+}

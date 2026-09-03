@@ -1,0 +1,22 @@
+{
+  "id": "magnetism-in-solids-ferromagnetism-and-antiferromagnetism",
+  "subject": "physics",
+  "level": "L4",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "Magnetism in solids: ferromagnetism and antiferromagnetism",
+    "et": "Magnetism tahkistes: ferromagnetism ja antiferromagnetism",
+    "sourceHash": "058cb86720d40da3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Ordinary magnetic dipole-dipole interactions between neighbouring atomic magnetic moments in a solid are far too weak to produce the strong, persistent magnetism seen in iron or nickel at room temperature, so the real driving force is instead the quantum-mechanical exchange interaction -- a consequence of the Pauli exclusion principle and electron-electron Coulomb repulsion acting together, with no classical analogue at all -- which can favour neighbouring electron spins aligning parallel (ferromagnetism, giving a strong net magnetization) or aligning antiparallel (antiferromagnetism, giving cancelling sublattices and no net magnetization), depending on the specific sign the exchange interaction happens to take for a given material's electronic structure, and in both cases this ordering is a genuine phase transition that is destroyed above a characteristic critical temperature (the Curie temperature for ferromagnets, the Néel temperature for antiferromagnets) once thermal fluctuations overwhelm the exchange interaction's ordering tendency.",
+    "et": "Tavalised magnetilised dipool-dipool vastastikmõjud naaberaatomite magnetiliste momentide vahel tahkises on liiga nõrgad, et toota tugevat, püsivat magnetismi, mida nähakse raua või nikli puhul toatemperatuuril, seega on tegelik liikumapanev jõud selle asemel kvantmehaaniline vahetusvastastikmõju -- Pauli välistusprintsiibi ja elektronide omavahelise Coulombi tõukumise koosmõju tagajärg, ilma klassikalise analoogita üldse --, mis võib soodustada naaberelektronide spinnide paralleelset joondumist (ferromagnetism, andes tugeva netomagnetiseerituse) või antiparalleelset joondumist (antiferromagnetism, andes üksteist tühistavad alamvõred ja netomagnetiseerituseta), olenevalt konkreetsest märgist, mida vahetusvastastikmõju antud materjali elektronstruktuuri jaoks juhtub omama, ning mõlemal juhul on see korrastus tõeline faasiüleminek, mis hävib ülalpool iseloomulikku kriitilist temperatuuri (ferromagnetikute jaoks Curie temperatuur, antiferromagnetikute jaoks Néeli temperatuur), kui soojuslikud fluktuatsioonid ületavad vahetusvastastikmõju korrastavat kalduvust.",
+    "sourceHash": "337a3f7f1ed21e7b",
+    "stale": false
+  },
+  "prerequisites": [
+    "band-theory-of-solids",
+    "the-ising-model-and-mean-field-theory"
+  ]
+}
