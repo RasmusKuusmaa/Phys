@@ -1,0 +1,10 @@
+{
+  "id": "pulsars-pulsar-timing-and-neutron-star-magnetospheres-m3",
+  "conceptId": "pulsars-pulsar-timing-and-neutron-star-magnetospheres",
+  "text": {
+    "en": "Believing all neutron stars are pulsars, or that pulsar and neutron star are simply two names for exactly the same thing -- a pulsar is specifically a neutron star whose beamed emission happens to sweep across the observer's line of sight, which requires a particular, favorable geometric alignment between the star's rotation axis, magnetic axis, and the direction to the observer; many neutron stars exist whose beams never point toward Earth at all, and these are simply not observable as pulsars despite being physically identical objects.",
+    "et": "Arvamus, et kõik neutrontähed on pulsarid, või et pulsar ja neutrontäht on lihtsalt kaks nime täpselt samale asjale -- pulsar on konkreetselt neutrontäht, mille kimpudena kiiratud emissioon juhtub üle vaatleja vaatejoone pühkima, mis nõuab konkreetset, soodsat geomeetrilist joondumist tähe pöörlemistelje, magnettelje ja vaatleja suuna vahel; eksisteerib palju neutrontähti, mille kimbud ei osuta kunagi Maa poole, ning need ei ole lihtsalt vaadeldavad pulsaridena, hoolimata sellest, et need on füüsikaliselt identsed objektid.",
+    "sourceHash": "4f8081da98efef0e",
+    "stale": false
+  }
+}

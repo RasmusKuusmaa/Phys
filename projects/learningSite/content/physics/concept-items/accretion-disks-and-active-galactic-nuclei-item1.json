@@ -1,0 +1,55 @@
+{
+  "id": "accretion-disks-and-active-galactic-nuclei-item1",
+  "conceptId": "accretion-disks-and-active-galactic-nuclei",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do black holes power some of the most luminous objects in the universe despite emitting no light themselves?",
+    "et": "Miks toidavad mustad augud mõningaid universumi kõige heledamaid objekte, kuigi need ise valgust ei kiirga?",
+    "sourceHash": "2d739cb83b85210b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the surrounding accretion disk converts gravitational potential energy into heat via viscous friction extremely efficiently, and it is the disk, not the black hole, that emits the observed light.",
+        "et": "Sest ümbritsev akretsioonketas muundab gravitatsioonilise potentsiaalienergia viskoosse hõõrdumise kaudu äärmiselt efektiivselt soojuseks, ning just ketas, mitte must auk, kiirgab vaadeldud valgust.",
+        "sourceHash": "ba9b4a09257abc5b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because infalling matter falls straight into the black hole, releasing energy the same way nuclear fusion does inside an ordinary star.",
+        "et": "Sest sissekukkuv aine kukub otse musta auku, vabastades energiat samamoodi, nagu tuumasüntees seda tavalise tähe sees teeb.",
+        "sourceHash": "25c685bf03ad450f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "accretion-disks-and-active-galactic-nuclei-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the black hole itself directly emits the observed light, contrary to its usual definition as a completely dark object.",
+        "et": "Sest must auk ise kiirgab otse vaadeldud valgust, vastupidiselt selle tavapärasele määratlusele täiesti pimeda objektina.",
+        "sourceHash": "e2e7ebefda19c035",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "accretion-disks-and-active-galactic-nuclei-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They don't actually power especially luminous objects -- active galactic nuclei get most of their light from ordinary stars in the host galaxy.",
+        "et": "Nad tegelikult ei toida eriti heledaid objekte -- aktiivsed galaktikatuumad saavad enamiku oma valgusest peremeesgalaktika tavalistelt tähtedelt.",
+        "sourceHash": "c84aaae8a439de7d",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

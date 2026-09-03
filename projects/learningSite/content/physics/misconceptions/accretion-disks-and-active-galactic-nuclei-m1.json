@@ -1,0 +1,10 @@
+{
+  "id": "accretion-disks-and-active-galactic-nuclei-m1",
+  "conceptId": "accretion-disks-and-active-galactic-nuclei",
+  "text": {
+    "en": "Believing gas or matter falling toward a black hole simply falls straight in, the same way a ball would fall straight down toward the ground -- almost any realistic infalling matter carries at least a small amount of angular momentum, and angular momentum conservation forces it into a flattened, rotating disk rather than a direct radial plunge, since it must first shed that angular momentum through friction before it can actually fall inward, which is exactly why accretion disks, not direct infall, are the generic outcome.",
+    "et": "Arvamus, et gaas või aine, mis kukub musta augu poole, kukub lihtsalt otse sisse, samamoodi nagu pall kukuks otse maa poole -- peaaegu igal realistlikul sissekukkuval ainel on vähemalt väike kogus impulsimomenti, ning impulsimomendi jäävus sunnib selle lametuks, pöörlevaks kettaks, mitte otseseks radiaalseks languseks, kuna see peab esmalt hõõrdumise kaudu sellest impulsimomendist vabanema, enne kui see saab tegelikult sissepoole kukkuda, mis on täpselt põhjus, miks akretsioonkettad, mitte otsene sissekukkumine, on üldine tulemus.",
+    "sourceHash": "f8a4d6c9964835f6",
+    "stale": false
+  }
+}

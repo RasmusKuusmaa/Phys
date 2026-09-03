@@ -1,0 +1,22 @@
+{
+  "id": "accretion-disks-and-active-galactic-nuclei",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Accretion disks and active galactic nuclei",
+    "et": "Akretsioonkettad ja aktiivsed galaktikatuumad",
+    "sourceHash": "d9ffc08297b06fa8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Matter falling toward a compact object rarely falls straight in, since even a small amount of angular momentum forces it into a rotating disk, and viscous friction within that disk converts orbital energy into heat with extraordinary efficiency -- far more efficient than nuclear fusion per unit mass for a black hole -- powering everything from the X-ray emission of black-hole binaries to the extraordinary luminosity of active galactic nuclei, where a supermassive black hole accreting surrounding gas can outshine its entire host galaxy from a region smaller than the Solar System.",
+    "et": "Kompaktse objekti poole langev aine kukub harva otse sisse, kuna isegi väike kogus impulsimomenti sunnib selle pöörlevaks kettaks, ning viskoosne hõõrdumine selles kettas muundab orbitaalenergia soojuseks erakordse efektiivsusega -- musta augu jaoks palju efektiivsemalt kui tuumasüntees massiühiku kohta --, toitades kõike alates musta augu kaksiksüsteemide röntgenkiirgusest kuni aktiivsete galaktikatuumade erakordse heleduseni, kus ümbritsevat gaasi akreteeriv ülimassiivne must auk võib säärata terve peremeesgalaktika üle piirkonnast, mis on väiksem kui Päikesesüsteem.",
+    "sourceHash": "446031d755748a03",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schwarzschild-solution-and-black-holes",
+    "dark-matter-and-galactic-structure"
+  ]
+}

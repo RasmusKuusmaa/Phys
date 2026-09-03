@@ -1,0 +1,10 @@
+{
+  "id": "pulsars-pulsar-timing-and-neutron-star-magnetospheres-m1",
+  "conceptId": "pulsars-pulsar-timing-and-neutron-star-magnetospheres",
+  "text": {
+    "en": "Believing a pulsar physically pulses or flashes on and off, actually varying its emitted brightness over time, the same way a strobe light does -- a pulsar's beamed emission is actually continuous, sweeping around like a lighthouse beam as the neutron star rotates; the observed pulsing is purely a geometric, line-of-sight effect (the beam only points at the observer once per rotation), and an observer positioned differently relative to the star's rotation axis and magnetic axis would see no pulsing (or a different pulse pattern) despite the underlying emission being unchanged.",
+    "et": "Arvamus, et pulsar füüsiliselt pulseerib või vilgub, tegelikult muutes selle kiiratud heledust aja jooksul, samamoodi nagu stroboskoop -- pulsari kimpudena kiiratud emissioon on tegelikult pidev, pühkides ringi nagu tuletorni kiir, kui neutrontäht pöörleb; vaadeldav pulseerimine on puhtalt geomeetriline, vaatejoone efekt (kimp osutab vaatleja poole ainult ühe korra pöörde kohta), ning erinevas asendis oleval vaatlejal tähe pöörlemistelje ja magnettelje suhtes ei näeks pulseerimist üldse (või näeks erinevat impulssmustrit), hoolimata sellest, et aluseks olev emissioon on muutumatu.",
+    "sourceHash": "3c8087daaf075c4a",
+    "stale": false
+  }
+}

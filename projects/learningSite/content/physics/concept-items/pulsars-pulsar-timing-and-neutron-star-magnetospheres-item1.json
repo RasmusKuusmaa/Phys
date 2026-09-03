@@ -1,0 +1,56 @@
+{
+  "id": "pulsars-pulsar-timing-and-neutron-star-magnetospheres-item1",
+  "conceptId": "pulsars-pulsar-timing-and-neutron-star-magnetospheres",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What actually causes the observed 'pulsing' of a pulsar's emission?",
+    "et": "Mis põhjustab tegelikult pulsari emissiooni vaadeldud 'pulseerimist'?",
+    "sourceHash": "c19cc14d87e477d7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A geometric, line-of-sight effect: the continuously emitted beam only sweeps across the observer's direction once per rotation, like a lighthouse.",
+        "et": "Geomeetriline, vaatejoone efekt: pidevalt kiiratud kimp pühib vaatleja suunda ainult ühe korra pöörde kohta, nagu tuletorn.",
+        "sourceHash": "374bf15a8c0c77fc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The neutron star's actual emitted brightness physically varies over time, turning on and off like a strobe light.",
+        "et": "Neutrontähe tegelik kiiratud heledus füüsiliselt varieerub aja jooksul, lülitudes sisse ja välja nagu stroboskoop.",
+        "sourceHash": "b848fcf22b77ec31",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pulsars-pulsar-timing-and-neutron-star-magnetospheres-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Pulsar timing is too imprecise to reveal anything about this beyond a single rough average rotation rate.",
+        "et": "Pulsariajastus on liiga ebatäpne, et sellest midagi rohkemat paljastada peale ühe ligikaudse keskmise pöörlemiskiiruse.",
+        "sourceHash": "cce8c513f88888af",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pulsars-pulsar-timing-and-neutron-star-magnetospheres-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Every neutron star pulses identically, since pulsar and neutron star are simply two names for the same thing.",
+        "et": "Iga neutrontäht pulseerib identselt, kuna pulsar ja neutrontäht on lihtsalt kaks nime samale asjale.",
+        "sourceHash": "b6d9be04c6ef9046",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pulsars-pulsar-timing-and-neutron-star-magnetospheres-m3"
+    }
+  ]
+}

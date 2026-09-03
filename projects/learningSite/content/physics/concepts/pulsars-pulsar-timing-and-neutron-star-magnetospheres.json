@@ -1,0 +1,21 @@
+{
+  "id": "pulsars-pulsar-timing-and-neutron-star-magnetospheres",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Pulsars, pulsar timing, and neutron star magnetospheres",
+    "et": "Pulsarid, pulsariajastus ja neutrontähtede magnetosfäärid",
+    "sourceHash": "dade7d51b6061eb6",
+    "stale": false
+  },
+  "summary": {
+    "en": "A pulsar is a rapidly rotating, strongly magnetized neutron star whose magnetic axis is misaligned with its rotation axis, sweeping a beam of radio (or higher-energy) emission around like a lighthouse so that a distant observer sees a pulse once per rotation, and because that rotation is astonishingly stable, pulsar timing can measure tiny departures from perfect regularity with extraordinary precision, revealing everything from orbiting companion planets to the gravitational-wave background threading through spacetime itself.",
+    "et": "Pulsar on kiiresti pöörlev, tugevalt magnetiseeritud neutrontäht, mille magnetteljed ei ühti selle pöörlemisteljega, pühkides raadio- (või kõrgema energiaga) kiirguse kimpu ringi nagu tuletorn, nii et kauge vaatleja näeb impulssi ühe kord pöörde kohta, ning kuna see pöörlemine on hämmastavalt stabiilne, saab pulsariajastus mõõta väikeseid kõrvalekaldeid täiuslikust regulaarsusest erakordse täpsusega, paljastades kõike alates tiirlevatest kaaslasplaneetidest kuni aegruumi ennast läbivast gravitatsioonilainete taustast.",
+    "sourceHash": "1203fedee97eaaae",
+    "stale": false
+  },
+  "prerequisites": [
+    "neutron-star-structure-and-equation-of-state"
+  ]
+}

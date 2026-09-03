@@ -1,0 +1,10 @@
+{
+  "id": "pulsars-pulsar-timing-and-neutron-star-magnetospheres-m2",
+  "conceptId": "pulsars-pulsar-timing-and-neutron-star-magnetospheres",
+  "text": {
+    "en": "Believing pulsar timing measurements are far too imprecise to detect anything beyond the pulsar's basic rotation period -- pulsar rotation is so extraordinarily stable (some millisecond pulsars rival the best atomic clocks in long-term stability) that pulsar timing can detect tiny periodic variations in the arrival times of pulses caused by an orbiting companion (even a planet-mass one), by gravitational waves passing through the line of sight, or by other subtle relativistic effects, making precision pulsar timing a genuinely sensitive astrophysical measurement tool, not merely a way to measure a single rough rotation rate.",
+    "et": "Arvamus, et pulsariajastuse mõõtmised on liiga ebatäpsed, et tuvastada midagi peale pulsari põhilise pöörlemisperioodi -- pulsari pöörlemine on nii erakordselt stabiilne (mõned millisekundipulsarid võistlevad parimate aatomkellade pikaajalise stabiilsusega), et pulsariajastus suudab tuvastada väikeseid perioodilisi muutusi impulsside saabumisajas, mis on põhjustatud tiirlevast kaaslasest (isegi planeedimassiga), aegruumi läbivatest gravitatsioonilainetest või teistest peentest relativistlikest efektidest, mis teeb täppis-pulsariajastusest tõeliselt tundliku astrofüüsikalise mõõtmisvahendi, mitte ainult viisi ühe ligikaudse pöörlemiskiiruse mõõtmiseks.",
+    "sourceHash": "03fe693bf8404d11",
+    "stale": false
+  }
+}
