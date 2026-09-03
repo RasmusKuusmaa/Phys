@@ -70,9 +70,9 @@ git log --oneline | grep '^content: add '   # concepts already landed this phase
 - [x] Scattering theory: the Born approximation and cross-sections
 - [x] Partial wave analysis and phase shifts
 - [x] Density matrices and mixed states
-- [ ] The path integral formulation (Feynman's approach, conceptual)
-- [ ] Second quantization and Fock space (bridge to QFT)
-- [ ] The Klein-Gordon and Dirac equations (relativistic QM)
+- [x] The path integral formulation (Feynman's approach, conceptual)
+- [x] Second quantization and Fock space (bridge to QFT)
+- [x] The Klein-Gordon and Dirac equations (relativistic QM)
 
 ## Phase M4 — Statistical mechanics (existing: partition function through critical phenomena)
 
