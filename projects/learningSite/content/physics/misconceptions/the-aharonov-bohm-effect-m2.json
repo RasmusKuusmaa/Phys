@@ -1,0 +1,10 @@
+{
+  "id": "the-aharonov-bohm-effect-m2",
+  "conceptId": "the-aharonov-bohm-effect",
+  "text": {
+    "en": "Believing the Aharonov-Bohm effect proves the vector potential is directly, unambiguously measurable in the same sense the electric and magnetic fields are, with one specific numerical value being 'the' physically real potential at each point -- the vector potential remains gauge-dependent exactly as before, and different, equally valid gauge choices still assign it different values at the same point; what the effect actually establishes is that a specific gauge-invariant combination (the closed-path integral of the vector potential, equal to the enclosed magnetic flux) has genuine, measurable physical consequences, not that the vector potential itself becomes a directly measurable, gauge-independent quantity.",
+    "et": "Arvamus, et Aharonovi-Bohmi efekt tõestab, et vektorpotentsiaal on otseselt, ühemõtteliselt mõõdetav samas mõttes nagu elektri- ja magnetväli, kusjuures üks konkreetne arvväärtus on 'see' füüsikaliselt reaalne potentsiaal igas punktis -- vektorpotentsiaal jääb täpselt sama kalibratsioonisõltuvaks kui varem, ning erinevad, võrdselt kehtivad kalibratsioonivalikud omistavad sellele samas punktis endiselt erinevaid väärtusi; see, mida efekt tegelikult kinnitab, on see, et konkreetsel kalibratsiooniinvariantsel kombinatsioonil (vektorpotentsiaali kinnise tee integraal, mis võrdub ümbritseva magnetvooga) on tõelised, mõõdetavad füüsikalised tagajärjed, mitte see, et vektorpotentsiaal ise muutub otseselt mõõdetavaks, kalibratsioonist sõltumatuks suuruseks.",
+    "sourceHash": "9344cb1a368852ca",
+    "stale": false
+  }
+}

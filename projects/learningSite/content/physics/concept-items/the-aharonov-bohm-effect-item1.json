@@ -1,0 +1,56 @@
+{
+  "id": "the-aharonov-bohm-effect-item1",
+  "conceptId": "the-aharonov-bohm-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In the Aharonov-Bohm experiment, both electron paths stay in a region of exactly zero magnetic field the whole time, yet the interference pattern still shifts depending on the solenoid's enclosed flux. What does this reveal?",
+    "et": "Aharonovi-Bohmi eksperimendis jäävad mõlemad elektroni teed kogu aeg piirkonda, kus magnetväli on täpselt null, kuid interferentsmuster nihkub siiski olenevalt solenoidi ümbritsevast magnetvoost. Mida see paljastab?",
+    "sourceHash": "2838a4f0369f6b3a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The electromagnetic vector potential carries genuine, gauge-invariant physical consequences (through the closed-path phase it imprints) even in regions where the field itself is exactly zero.",
+        "et": "Elektromagnetiline vektorpotentsiaal kannab tõelisi, kalibratsiooniinvariantseid füüsikalisi tagajärgi (läbi kinnise tee faasi, mille see jätab), isegi piirkondades, kus väli ise on täpselt null.",
+        "sourceHash": "c12acb9a989b770e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The electrons must be passing through a small nonzero field somewhere along their paths, contradicting the experiment's stated setup.",
+        "et": "Elektronid peavad kusagil oma teel läbima väikest nullist erinevat välja, mis on vastuolus eksperimendi väidetud ülesehitusega.",
+        "sourceHash": "360c40b70518e5ce",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-aharonov-bohm-effect-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The vector potential now has one specific, directly measurable, gauge-independent numerical value at every point in space.",
+        "et": "Vektorpotentsiaalil on nüüd üks konkreetne, otseselt mõõdetav, kalibratsioonist sõltumatu arvväärtus igas ruumipunktis.",
+        "sourceHash": "788007b39863b15f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-aharonov-bohm-effect-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The result is a purely theoretical prediction that has never actually been confirmed by a real experiment.",
+        "et": "Tulemus on puhtalt teoreetiline ennustus, mida ei ole tegelikult kunagi reaalse eksperimendiga kinnitatud.",
+        "sourceHash": "8867886e05e9c092",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-aharonov-bohm-effect-m3"
+    }
+  ]
+}

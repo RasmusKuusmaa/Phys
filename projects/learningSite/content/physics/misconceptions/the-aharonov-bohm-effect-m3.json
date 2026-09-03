@@ -1,0 +1,10 @@
+{
+  "id": "the-aharonov-bohm-effect-m3",
+  "conceptId": "the-aharonov-bohm-effect",
+  "text": {
+    "en": "Believing the Aharonov-Bohm effect is purely a theoretical curiosity or thought experiment with no actual experimental confirmation -- the effect has been confirmed experimentally multiple times since it was first observed, most definitively in toroidal superconductor geometries specifically designed to eliminate any possible leakage field along the electron paths, ruling out the alternative explanation that a small stray field, rather than the enclosed flux itself, was responsible for the observed interference shift.",
+    "et": "Arvamus, et Aharonovi-Bohmi efekt on puhtalt teoreetiline kuriositeet või mõtteeksperiment ilma tegeliku eksperimentaalse kinnituseta -- efekti on eksperimentaalselt kinnitatud mitu korda alates selle esmakordsest vaatlemisest, kõige veenvamalt toroidaalsetes ülijuhi geomeetrites, mis on spetsiaalselt disainitud kõrvaldama mistahes võimalik lekkeväli piki elektronide teed, välistades alternatiivse seletuse, et vaadeldud interferentsi nihke eest vastutas väike eksinud väli, mitte ümbritsev magnetvoog ise.",
+    "sourceHash": "4d5be0131fe1c8b7",
+    "stale": false
+  }
+}

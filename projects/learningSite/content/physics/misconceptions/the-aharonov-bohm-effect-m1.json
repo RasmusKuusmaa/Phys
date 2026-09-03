@@ -1,0 +1,10 @@
+{
+  "id": "the-aharonov-bohm-effect-m1",
+  "conceptId": "the-aharonov-bohm-effect",
+  "text": {
+    "en": "Believing the electron beams in the Aharonov-Bohm experiment must actually pass through a nonzero magnetic field somewhere along their paths for the interference shift to occur -- the entire point of the experiment is that both paths are specifically arranged to stay in a field-free region the whole way, with the magnetic field confined entirely inside the solenoid where no electron ever travels; the interference shift depends only on the magnetic flux enclosed by the two paths together, not on any field the electrons directly experience, which is exactly what makes the result so surprising under a purely classical, fields-only view of electromagnetism.",
+    "et": "Arvamus, et Aharonovi-Bohmi eksperimendi elektronikiired peavad kusagil oma teel tegelikult läbima nullist erineva magnetvälja, et interferentsi nihe toimuks -- kogu eksperimendi mõte on see, et mõlemad teed on spetsiifiliselt korraldatud jääma kogu aeg väljavabasse piirkonda, kusjuures magnetväli on piiratud täielikult solenoidi sisse, kuhu ükski elektron kunagi ei liigu; interferentsi nihe sõltub ainult magnetvoost, mida kaks teed koos ümbritsevad, mitte mistahes väljast, mida elektronid otseselt kogevad, mis ongi täpselt see, mis muudab tulemuse nii üllatavaks puhtalt klassikalise, ainult väljadel põhineva elektromagnetismi vaate all.",
+    "sourceHash": "8d4a9ae85c1f8e84",
+    "stale": false
+  }
+}

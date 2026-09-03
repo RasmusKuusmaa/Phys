@@ -1,0 +1,22 @@
+{
+  "id": "the-aharonov-bohm-effect",
+  "subject": "physics",
+  "level": "L4",
+  "module": "electromagnetism",
+  "title": {
+    "en": "The Aharonov-Bohm effect",
+    "et": "Aharonovi-Bohmi efekt",
+    "sourceHash": "87fe8eb2f0c3d932",
+    "stale": false
+  },
+  "summary": {
+    "en": "Split an electron beam so that half passes on each side of a thin solenoid carrying a confined magnetic field the electrons themselves never enter -- both paths remain in a region of exactly zero magnetic field the whole way -- and the interference pattern where the two halves recombine still shifts measurably depending on the solenoid's enclosed magnetic flux, a genuinely surprising result since classical electromagnetism says a charged particle can only be affected by the fields actually present along its own path, revealing that the electromagnetic vector potential, ordinarily dismissed as a mere bookkeeping convenience with no direct physical meaning of its own, carries real, physically measurable information in quantum mechanics through the phase it imprints on a charged particle's wavefunction, even in regions where every field is identically zero.",
+    "et": "Jaga elektronikiir nii, et pool sellest läbib peenikese solenoidi kummagi külje, mis kannab piiratud magnetvälja, kuhu elektronid ise kunagi ei sisene -- mõlemad teed jäävad kogu aeg piirkonda, kus magnetväli on täpselt null -- ja interferentsmuster, kus kaks poolt uuesti kokku saavad, nihkub siiski mõõdetavalt olenevalt solenoidi sisemisest magnetvoost, tõeliselt üllatav tulemus, kuna klassikaline elektromagnetism ütleb, et laetud osakest saavad mõjutada ainult väljad, mis on tegelikult tema enda tee peal olemas, paljastades, et elektromagnetiline vektorpotentsiaal, mida tavaliselt tõrjutakse lihtsa raamatupidamisliku mugavusena ilma otsese füüsikalise tähenduseta, kannab kvantmehaanikas reaalset, füüsikaliselt mõõdetavat teavet läbi faasi, mida see jätab laetud osakese lainefunktsiooni, isegi piirkondades, kus iga väli on identselt null.",
+    "sourceHash": "8d2f4098a750f9df",
+    "stale": false
+  },
+  "prerequisites": [
+    "gauge-transformations-and-gauge-invariance",
+    "wave-particle-duality"
+  ]
+}
