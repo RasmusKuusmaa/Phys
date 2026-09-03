@@ -1,0 +1,22 @@
+{
+  "id": "the-cosmic-microwave-background-and-recombination",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "The cosmic microwave background and recombination",
+    "et": "Kosmiline mikrolainetaust ja rekombinatsioon",
+    "sourceHash": "03fb40327ac32aa5",
+    "stale": false
+  },
+  "summary": {
+    "en": "About 380,000 years after the Big Bang, the universe cooled enough for electrons to bind permanently to nuclei — recombination — making the universe transparent to light for the first time and releasing the photons that, redshifted by thirteen billion years of cosmic expansion, are observed today as the cosmic microwave background: a near-perfect blackbody spectrum with tiny temperature fluctuations that are the direct imprint of the density variations that later grew into every galaxy and galaxy cluster.",
+    "et": "Umbes 380 000 aastat pärast Suurt Pauku jahtus universum piisavalt, et elektronid said jäädavalt tuumade külge siduda — rekombinatsioon —, muutes universumi esimest korda valgusele läbipaistvaks ja vabastades footonid, mis kolmeteistkümne miljardi aasta kosmilise paisumise poolt punanihkunult on täna vaadeldavad kosmilise mikrolainetaustana: peaaegu täiuslik mustkeha spekter väikeste temperatuurikõikumistega, mis on otsene jäljend tihedusvariatsioonidest, mis hiljem kasvasid igaks galaktikaks ja galaktikaparveks.",
+    "sourceHash": "82a7c2de30451954",
+    "stale": false
+  },
+  "prerequisites": [
+    "hubbles-law-and-the-expanding-universe",
+    "blackbody-radiation-and-plancks-law"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "big-bang-nucleosynthesis-item1",
+  "conceptId": "big-bang-nucleosynthesis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Where did the vast majority of the universe's helium actually come from?",
+    "et": "Kust pärineb tegelikult valdav enamus universumi heeliumist?",
+    "sourceHash": "5b9c2224b169345a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Big Bang nucleosynthesis, produced within the first few minutes after the Big Bang, well before any star existed.",
+        "et": "Suure Paugu nukleosüntees, toodetud esimese paari minuti jooksul pärast Suurt Pauku, palju enne, kui ükski täht eksisteeris.",
+        "sourceHash": "4c8c87bdcd7b768a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Ordinary stellar nucleosynthesis, produced gradually inside stars over the universe's entire history.",
+        "et": "Tavaline tähesisene nukleosüntees, toodetud järk-järgult tähtede sees kogu universumi ajaloo jooksul.",
+        "sourceHash": "2a55e7e8fb9eb5d7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "big-bang-nucleosynthesis-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Whatever combination of many free, adjustable parameters happens to best fit each individual observation.",
+        "et": "Mistahes kombinatsioon paljudest vabadest, reguleeritavatest parameetritest, mis juhtub kõige paremini sobima iga üksiku vaatlusega.",
+        "sourceHash": "c539e17d1185d38e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "big-bang-nucleosynthesis-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It's not fully known, since Big Bang nucleosynthesis has no confirmed successful predictions at all.",
+        "et": "See pole täielikult teada, kuna Suure Paugu nukleosünteesil pole üldse kinnitatud edukaid ennustusi.",
+        "sourceHash": "a96a477797415cf4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "big-bang-nucleosynthesis-m3"
+    }
+  ]
+}

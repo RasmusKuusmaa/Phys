@@ -1,0 +1,56 @@
+{
+  "id": "the-cosmic-microwave-background-and-recombination-item1",
+  "conceptId": "the-cosmic-microwave-background-and-recombination",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the cosmic microwave background actually show — a snapshot of the universe at the Big Bang itself, or something else?",
+    "et": "Mida kosmiline mikrolainetaust tegelikult näitab — hetktõmmist universumist Suure Paugu enda hetkel või midagi muud?",
+    "sourceHash": "14402dc2fdb0c54a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A snapshot of the universe roughly 380,000 years after the Big Bang, at the moment of recombination when it first became transparent to light.",
+        "et": "Hetktõmmist universumist umbes 380 000 aastat pärast Suurt Pauku, rekombinatsiooni hetkel, mil see esimest korda valgusele läbipaistvaks muutus.",
+        "sourceHash": "8df565e225cd289b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A snapshot of atoms that were previously bound, became unbound, and are shown here becoming re-bound for a second time.",
+        "et": "Hetktõmmist aatomitest, mis olid varem seotud, said lahti, ja on siin näidatud teistkordselt taasseotumas.",
+        "sourceHash": "be98c5513580eafb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cosmic-microwave-background-and-recombination-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A direct snapshot of the universe in the instant immediately following the Big Bang itself, with no delay at all.",
+        "et": "Otsest hetktõmmist universumist hetkel vahetult pärast Suurt Pauku ennast, ilma igasuguse viivituseta.",
+        "sourceHash": "6237423bb343c60f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cosmic-microwave-background-and-recombination-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Mostly measurement noise, with the small temperature fluctuations carrying no real physical information.",
+        "et": "Enamasti mõõtmismüra, kus väikesed temperatuurikõikumised ei kanna tegelikku füüsikalist infot.",
+        "sourceHash": "9174ea9e83b15bca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cosmic-microwave-background-and-recombination-m3"
+    }
+  ]
+}

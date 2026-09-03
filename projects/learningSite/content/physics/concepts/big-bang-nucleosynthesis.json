@@ -1,0 +1,22 @@
+{
+  "id": "big-bang-nucleosynthesis",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Big Bang nucleosynthesis",
+    "et": "Suure Paugu nukleosüntees",
+    "sourceHash": "fc90fd6a68b22667",
+    "stale": false
+  },
+  "summary": {
+    "en": "In the first few minutes after the Big Bang, the universe was hot and dense enough for nuclear fusion to occur throughout all of space at once, but only briefly, before the expanding universe cooled and thinned too much for fusion to continue — producing almost all of the universe's hydrogen and helium, and trace amounts of lithium, well before any star ever formed, and giving cosmology one of its most precisely testable predictions.",
+    "et": "Esimese paari minuti jooksul pärast Suurt Pauku oli universum piisavalt kuum ja tihe, et tuumasüntees saaks toimuda korraga kogu ruumis, kuid ainult lühikest aega, enne kui paisuv universum liiga palju jahtus ja hõrenes, et sulamine saaks jätkuda — toodetuna peaaegu kogu universumi vesinik ja heelium, ning jälgedes liitium, palju enne, kui ükski täht kunagi tekkis, andes kosmoloogiale ühe selle kõige täpsemalt testitava ennustuse.",
+    "sourceHash": "4c645883a74d925e",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-fission-and-fusion",
+    "the-cosmic-microwave-background-and-recombination"
+  ]
+}
