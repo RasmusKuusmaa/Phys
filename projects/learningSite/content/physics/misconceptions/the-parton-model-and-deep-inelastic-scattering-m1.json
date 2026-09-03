@@ -1,0 +1,10 @@
+{
+  "id": "the-parton-model-and-deep-inelastic-scattering-m1",
+  "conceptId": "the-parton-model-and-deep-inelastic-scattering",
+  "text": {
+    "en": "Believing early deep inelastic scattering experiments showed the proton to be one smooth, continuously-distributed blob of charge, similar to the classical picture Rutherford's own scattering experiments had already ruled out for the atom -- the actual observed pattern was the opposite: at high momentum transfer, electrons scattered off protons as though hitting small, essentially free, pointlike constituents rather than a smooth distribution, and this specific pattern (a scattering cross-section depending only on a single dimensionless scaling variable rather than falling off smoothly and continuously) is exactly what revealed the proton's substructure rather than confirming its smoothness.",
+    "et": "Arvamus, et varajased sügavalt mitteelastse hajumise eksperimendid näitasid, et prooton on üks sujuv, pidevalt jaotunud laengutükk, sarnaselt klassikalisele pildile, mille Rutherfordi enda hajumiseksperimendid olid aatomi jaoks juba välistanud -- tegelik vaadeldud muster oli vastupidine: kõrge impulsiülekande juures hajusid elektronid prootonitelt nii, nagu tabaksid nad väikeseid, sisuliselt vabu, punktikujulisi koostisosi, mitte sujuvat jaotust, ning see konkreetne muster (hajumise ristlõige, mis sõltub ainult ühest dimensioonitust skaleerimismuutujast, mitte ei kahane sujuvalt ja pidevalt) on täpselt see, mis paljastas prootoni alamstruktuuri, mitte ei kinnitanud selle sujuvust.",
+    "sourceHash": "32071527e804de6d",
+    "stale": false
+  }
+}

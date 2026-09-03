@@ -1,0 +1,22 @@
+{
+  "id": "the-parton-model-and-deep-inelastic-scattering",
+  "subject": "physics",
+  "level": "L4",
+  "module": "particle-physics",
+  "title": {
+    "en": "The parton model and deep inelastic scattering",
+    "et": "Partonimudel ja sügavalt mitteelastne hajumine",
+    "sourceHash": "f340965b599fdbd9",
+    "stale": false
+  },
+  "summary": {
+    "en": "Firing very high-energy electrons at protons and measuring how they scatter revealed, in the late 1960s, that at high enough momentum transfer the proton behaves not as one smooth, continuously-distributed blob of charge but as though it were made of a handful of small, essentially free, pointlike constituents that the electron scatters off individually -- exactly the sharp, angle-independent scattering pattern predicted by Bjorken scaling, in which the cross-section depends only on a specific dimensionless ratio of energy and momentum transfer rather than on each variable separately -- and this pattern, direct experimental evidence for the reality of Richard Feynman's proposed pointlike \"partons\" inside the proton, was the crucial evidence that identified partons with quarks and gluons and turned quantum chromodynamics from a promising mathematical proposal into an experimentally confirmed theory of the strong interaction.",
+    "et": "Väga kõrge energiaga elektronide tulistamine prootonite pihta ja nende hajumise mõõtmine paljastas 1960-ndate lõpus, et piisavalt kõrge impulsiülekande juures käitub prooton mitte ühe sujuva, pidevalt jaotunud laengutükina, vaid nagu see koosneks käputäiest väikestest, sisuliselt vabadest, punktikujulistest koostisosadest, millelt elektron hajub üksikult -- täpselt see terav, nurgast sõltumatu hajumismuster, mida ennustab Bjorkeni skaleerimine, milles ristlõige sõltub ainult kindlast dimensioonitust energia ja impulsiülekande suhtest, mitte kummastki muutujast eraldi -- ning see muster, otsene eksperimentaalne tõend Richard Feynmani väljapakutud punktikujuliste \"partonite\" reaalsuse kohta prootoni sees, oli otsustav tõend, mis samastas partonid kvarkide ja gluoonidega ning muutis kvantkromodünaamika paljutõotavast matemaatilisest ettepanekust eksperimentaalselt kinnitatud tugeva vastastikmõju teooriaks.",
+    "sourceHash": "9d5f9e47c9488c0c",
+    "stale": false
+  },
+  "prerequisites": [
+    "quantum-chromodynamics-and-colour-confinement",
+    "scattering-theory-and-the-born-approximation"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "the-parton-model-and-deep-inelastic-scattering-m2",
+  "conceptId": "the-parton-model-and-deep-inelastic-scattering",
+  "text": {
+    "en": "Believing Bjorken scaling means the scattering cross-section is simply constant, unaffected by the scattering energy or angle at all -- scaling specifically means the cross-section, instead of depending independently on both the energy transfer and the momentum transfer, depends only on one particular dimensionless combination of the two (the Bjorken scaling variable); this is a much more specific and surprising statement than simple constancy, and it is precisely this dependence on one combined ratio rather than on the two variables separately that signals scattering off pointlike, structureless constituents rather than off a single extended, smoothly-distributed charge.",
+    "et": "Arvamus, et Bjorkeni skaleerimine tähendab, et hajumise ristlõige on lihtsalt konstantne, mõjutamata hajumise energiast või nurgast üldse -- skaleerimine tähendab spetsiifiliselt, et ristlõige, selle asemel et sõltuda sõltumatult nii energiaülekandest kui impulsiülekandest, sõltub ainult ühest kindlast dimensioonitust nende kahe kombinatsioonist (Bjorkeni skaleerimismuutuja); see on palju spetsiifilisem ja üllatavam väide kui lihtne konstantsus, ning just see sõltuvus ühest kombineeritud suhtest, mitte kahest muutujast eraldi, viitab hajumisele punktikujulistelt, struktuurita koostisosadelt, mitte ühelt ulatuslikult, sujuvalt jaotunud laengult.",
+    "sourceHash": "bd2269cf9a349d1b",
+    "stale": false
+  }
+}

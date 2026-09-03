@@ -1,0 +1,56 @@
+{
+  "id": "the-parton-model-and-deep-inelastic-scattering-item1",
+  "conceptId": "the-parton-model-and-deep-inelastic-scattering",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why was the observation of Bjorken scaling in deep inelastic electron-proton scattering considered strong evidence that the proton has pointlike internal constituents, rather than being one smooth distribution of charge?",
+    "et": "Miks peeti Bjorkeni skaleerimise vaatlemist sügavalt mitteelastses elektron-prootoni hajumises tugevaks tõendiks selle kohta, et prootonil on punktikujulised sisemised koostisosad, mitte üks sujuv laengujaotus?",
+    "sourceHash": "fcec09a88a0b4958",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The cross-section depended only on one dimensionless combination of energy and momentum transfer rather than falling off smoothly with each separately, exactly the pattern expected from scattering off small, free, pointlike constituents.",
+        "et": "Ristlõige sõltus ainult ühest dimensioonitust energia ja impulsiülekande kombinatsioonist, selle asemel et kahaneda sujuvalt kummagagi eraldi, täpselt see muster, mida oodatakse hajumisel väikestelt, vabadelt, punktikujulistelt koostisosadelt.",
+        "sourceHash": "67367cfb9e1213cf",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The cross-section was observed to be perfectly constant regardless of energy or angle, which is only possible for a perfectly smooth, continuous charge distribution.",
+        "et": "Ristlõige oli vaadeldud täiesti konstantsena, olenemata energiast või nurgast, mis on võimalik ainult täiesti sujuva, pideva laengujaotuse korral.",
+        "sourceHash": "17ec08c299cc67d2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-parton-model-and-deep-inelastic-scattering-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The scattering pattern actually confirmed the proton was one smooth, continuous charge distribution, resolving lingering doubts left over from Rutherford's atomic scattering experiments.",
+        "et": "Hajumismuster kinnitas tegelikult, et prooton on üks sujuv, pidev laengujaotus, lahendades püsivad kahtlused, mis olid üle jäänud Rutherfordi aatomi hajumiseksperimentidest.",
+        "sourceHash": "cdda6e8736a887d4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-parton-model-and-deep-inelastic-scattering-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Feynman's parton model and quantum chromodynamics were independently well-established theories already, so the scattering data merely confirmed two separate ideas simultaneously without connecting them.",
+        "et": "Feynmani partonimudel ja kvantkromodünaamika olid juba sõltumatult hästi kinnitatud teooriad, seega kinnitasid hajumisandmed lihtsalt kahte eraldiseisvat ideed samaaegselt neid ühendamata.",
+        "sourceHash": "044a693790db89ff",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-parton-model-and-deep-inelastic-scattering-m3"
+    }
+  ]
+}
