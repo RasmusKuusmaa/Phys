@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-magnetic-resonance-and-nuclear-spin-m3",
+  "conceptId": "nuclear-magnetic-resonance-and-nuclear-spin",
+  "text": {
+    "en": "Believing the resonance frequency in NMR depends only on the type of nucleus and the strength of the external magnetic field, with no sensitivity to the surrounding chemical environment -- the precise resonance frequency is shifted slightly (the 'chemical shift') by the local magnetic field created by surrounding electrons and nearby nuclei, which is exactly why NMR spectroscopy can distinguish chemically distinct environments for the same type of nucleus and is used to determine molecular structure, not just to identify which isotope is present.",
+    "et": "Arvamus, et NMR-i resonantssagedus sõltub ainult tuuma tüübist ja välise magnetvälja tugevusest, ilma tundlikkuseta ümbritseva keemilise keskkonna suhtes -- täpset resonantssagedust nihutab veidi ('keemiline nihe') kohalik magnetväli, mille loovad ümbritsevad elektronid ja lähedased tuumad, mis on täpselt põhjus, miks NMR-spektroskoopia suudab eristada sama tüüpi tuuma keemiliselt erinevaid keskkondi ja mida kasutatakse molekulaarstruktuuri määramiseks, mitte ainult selle tuvastamiseks, milline isotoop on kohal.",
+    "sourceHash": "80135709fa1f14fa",
+    "stale": false
+  }
+}

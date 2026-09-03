@@ -1,0 +1,21 @@
+{
+  "id": "beta-decay-theory-and-the-weak-interaction",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Beta decay theory and the weak interaction",
+    "et": "Beetalagunemise teooria ja nõrk vastastikmõju",
+    "sourceHash": "0b9bb2cad1673bcc",
+    "stale": false
+  },
+  "summary": {
+    "en": "Beta decay converts a neutron into a proton (or vice versa) inside the nucleus by the weak interaction, always emitting an electron (or positron) together with a nearly undetectable neutrino that carries away the missing energy and momentum needed to make the two-body decay actually look like the observed continuous electron energy spectrum, a puzzle that historically forced Pauli to propose the neutrino's existence and that Fermi's golden-rule treatment of the weak interaction later explained quantitatively.",
+    "et": "Beetalagunemine muudab tuuma sees nõrga vastastikmõju kaudu neutroni prootoniks (või vastupidi), kiirgades alati elektroni (või positroni) koos peaaegu tuvastamatu neutriinoga, mis kannab minema puuduva energia ja impulsi, mis on vajalik selleks, et kahekehaline lagunemine näeks tegelikult välja nagu vaadeldud pidev elektroni energiaspekter -- mõistatus, mis sundis ajalooliselt Paulit ette panema neutriino olemasolu ja mida Fermi kuldreegli käsitlus nõrgast vastastikmõjust hiljem kvantitatiivselt seletas.",
+    "sourceHash": "11b7e1a7cd0c811b",
+    "stale": false
+  },
+  "prerequisites": [
+    "radioactive-decay-modes"
+  ]
+}

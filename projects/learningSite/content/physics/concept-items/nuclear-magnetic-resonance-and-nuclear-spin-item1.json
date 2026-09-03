@@ -1,0 +1,55 @@
+{
+  "id": "nuclear-magnetic-resonance-and-nuclear-spin-item1",
+  "conceptId": "nuclear-magnetic-resonance-and-nuclear-spin",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can NMR spectroscopy distinguish chemically different environments for the same type of nucleus?",
+    "et": "Miks suudab NMR-spektroskoopia eristada sama tüüpi tuuma keemiliselt erinevaid keskkondi?",
+    "sourceHash": "8407d02cd31b856b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the local magnetic field from surrounding electrons and nearby nuclei slightly shifts the resonance frequency (the chemical shift).",
+        "et": "Sest ümbritsevatelt elektronidelt ja lähedastelt tuumadelt tulenev kohalik magnetväli nihutab resonantssagedust veidi (keemiline nihe).",
+        "sourceHash": "5a7b56d69096a82f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because every nucleus has zero spin by default, so any detected signal must come from the chemical environment alone.",
+        "et": "Sest igal tuumal on vaikimisi null-spinn, mistõttu iga tuvastatud signaal peab tulema ainult keemilisest keskkonnast.",
+        "sourceHash": "367aeacdd2ec3159",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-magnetic-resonance-and-nuclear-spin-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because NMR and MRI detect completely different physical effects, and only MRI is sensitive to chemical environment.",
+        "et": "Sest NMR ja MRI tuvastavad täiesti erinevaid füüsikalisi efekte, ning ainult MRI on tundlik keemilise keskkonna suhtes.",
+        "sourceHash": "a4c2b62f1a8de23d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-magnetic-resonance-and-nuclear-spin-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It can't -- the resonance frequency depends only on the nucleus type and field strength, never on the surrounding environment.",
+        "et": "Ei suuda -- resonantssagedus sõltub ainult tuuma tüübist ja väljatugevusest, mitte kunagi ümbritsevast keskkonnast.",
+        "sourceHash": "04db88d0ecae2c59",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

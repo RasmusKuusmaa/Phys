@@ -1,0 +1,10 @@
+{
+  "id": "beta-decay-theory-and-the-weak-interaction-m1",
+  "conceptId": "beta-decay-theory-and-the-weak-interaction",
+  "text": {
+    "en": "Believing beta decay emits only an electron (or positron), with no other particle involved at all -- a lone emitted electron with a fixed nuclear mass difference would need to carry away a fixed, single energy value every time, but the observed electron energies from beta decay form a continuous spectrum up to some maximum, which is only possible if a second, invisible particle (the neutrino, or antineutrino) shares the available energy and momentum unevenly from decay to decay.",
+    "et": "Arvamus, et beetalagunemine kiirgab ainult elektroni (või positroni), ilma et oleks kaasatud ühtegi teist osakest -- üksik kiiratud elektron fikseeritud tuumamassi vahega peaks iga kord kandma minema fikseeritud, ühe energiaväärtuse, kuid beetalagunemisest vaadeldud elektronide energiad moodustavad pideva spektri kuni mingi maksimumini, mis on võimalik ainult siis, kui teine, nähtamatu osake (neutriino või antineutriino) jagab saadaolevat energiat ja impulssi lagunemiselt lagunemisele ebaühtlaselt.",
+    "sourceHash": "89f9097364446bf6",
+    "stale": false
+  }
+}

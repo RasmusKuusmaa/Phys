@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-magnetic-resonance-and-nuclear-spin-m2",
+  "conceptId": "nuclear-magnetic-resonance-and-nuclear-spin",
+  "text": {
+    "en": "Believing nuclear magnetic resonance and MRI detect entirely different, unrelated physical effects -- MRI (magnetic resonance imaging) is a direct medical application of the same nuclear magnetic resonance physics used in chemistry: it detects the resonance signal from hydrogen nuclei (mostly in water and fat) throughout the body, and uses spatially varying magnetic fields to encode where in the body each signal originated, turning the same underlying resonance effect into an image.",
+    "et": "Arvamus, et tuumamagnetresonants ja MRI tuvastavad täiesti erinevaid, seostamata füüsikalisi efekte -- MRI (magnetresonantstomograafia) on sama tuumamagnetresonantsi füüsika otsene meditsiiniline rakendus, mida kasutatakse keemias: see tuvastab resonantssignaali vesinikutuumadelt (peamiselt vees ja rasvas) kogu kehas ning kasutab ruumiliselt varieeruvaid magnetvälju, et kodeerida, kust kehas iga signaal pärines, muutes sama aluseks oleva resonantsefekti pildiks.",
+    "sourceHash": "760cdc8f1d167542",
+    "stale": false
+  }
+}

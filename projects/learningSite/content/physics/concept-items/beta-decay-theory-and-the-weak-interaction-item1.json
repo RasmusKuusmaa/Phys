@@ -1,0 +1,55 @@
+{
+  "id": "beta-decay-theory-and-the-weak-interaction-item1",
+  "conceptId": "beta-decay-theory-and-the-weak-interaction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why did the continuous energy spectrum of beta-decay electrons force Pauli to propose a new, undetected particle?",
+    "et": "Miks sundis beetalagunemise elektronide pidev energiaspekter Paulit ette panema uut, tuvastamata osakest?",
+    "sourceHash": "4890905a5888a3e2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because a fixed nuclear mass difference should give a single fixed electron energy, so a continuous spectrum meant a second particle had to be sharing the available energy unevenly.",
+        "et": "Sest fikseeritud tuumamassi vahe peaks andma ühe fikseeritud elektroni energia, seega pidev spekter tähendas, et teine osake pidi saadaolevat energiat ebaühtlaselt jagama.",
+        "sourceHash": "1b2fa3b4a519c538",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the electron was already known to be too heavy to have been sitting inside the nucleus beforehand.",
+        "et": "Sest teati juba, et elektron on liiga raske, et olla eelnevalt tuuma sees istunud.",
+        "sourceHash": "dc1857c076e5bf0c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "beta-decay-theory-and-the-weak-interaction-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the neutrino had already been directly detected experimentally, and Pauli was just explaining the existing data.",
+        "et": "Sest neutriino oli juba otse eksperimentaalselt tuvastatud, ning Pauli lihtsalt seletas olemasolevaid andmeid.",
+        "sourceHash": "db553df8bb1de25f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "beta-decay-theory-and-the-weak-interaction-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because beta decay was observed to emit no electron at all, only invisible radiation.",
+        "et": "Sest täheldati, et beetalagunemine ei kiirga üldse elektroni, ainult nähtamatut kiirgust.",
+        "sourceHash": "cb9e3a00c1ffb7bb",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

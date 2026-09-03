@@ -1,0 +1,21 @@
+{
+  "id": "nuclear-magnetic-resonance-and-nuclear-spin",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Nuclear magnetic resonance and nuclear spin",
+    "et": "Tuumamagnetresonants ja tuuma spinn",
+    "sourceHash": "f24eaac255067484",
+    "stale": false
+  },
+  "summary": {
+    "en": "A nucleus with nonzero spin carries a magnetic moment and, placed in an external magnetic field, has its spin states split into distinct energy levels; nuclear magnetic resonance drives transitions between those levels with radio-frequency radiation tuned to exactly match the energy gap, and because that gap depends sensitively on the local magnetic environment created by surrounding electrons and nearby nuclei, the precise resonance frequency reveals detailed structural information, the principle underlying both chemical NMR spectroscopy and medical MRI imaging.",
+    "et": "Nullist erineva spinniga tuum kannab magnetmomenti ja välises magnetväljas jagunevad selle spinnolekud eraldiseisvateks energiatasemeteks; tuumamagnetresonants tekitab üleminekuid nende tasemete vahel raadiosageduskiirgusega, mis on häälestatud täpselt vastama energialõhele, ning kuna see lõhe sõltub tundlikult kohalikust magnetkeskkonnast, mille loovad ümbritsevad elektronid ja lähedased tuumad, paljastab täpne resonantssagedus detailset struktuurset teavet -- põhimõte, mis on aluseks nii keemilisele NMR-spektroskoopiale kui meditsiinilisele MRI-kuvamisele.",
+    "sourceHash": "23bbcfc740d24b2c",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-shell-model-spin-and-parity"
+  ]
+}

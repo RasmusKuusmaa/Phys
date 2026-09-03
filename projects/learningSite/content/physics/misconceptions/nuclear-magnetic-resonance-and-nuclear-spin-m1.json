@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-magnetic-resonance-and-nuclear-spin-m1",
+  "conceptId": "nuclear-magnetic-resonance-and-nuclear-spin",
+  "text": {
+    "en": "Believing every nucleus has zero spin and therefore no magnetic moment, so nuclear magnetism is a rare special case -- many common nuclei, including hydrogen-1 (a bare proton), carbon-13, and nitrogen-15, have nonzero nuclear spin and a corresponding magnetic moment; it's specifically nuclei with even numbers of both protons and neutrons (like carbon-12 and oxygen-16) that have zero spin, due to the same pairing effect that also boosts their binding energy, not nuclei in general.",
+    "et": "Arvamus, et igal tuumal on null-spinn ja seetõttu puudub magnetmoment, mistõttu tuumamagnetism on harv erijuht -- paljudel tavalistel tuumadel, sealhulgas vesinik-1-l (paljas prooton), süsinik-13-l ja lämmastik-15-l, on nullist erinev tuuma spinn ja vastav magnetmoment; spetsiifiliselt on null-spinn tuumadel, millel on paarisarv nii prootoneid kui neutroneid (nagu süsinik-12 ja hapnik-16), sama paarumisefekti tõttu, mis suurendab ka nende seoseenergiat, mitte tuumadel üldiselt.",
+    "sourceHash": "0f25b07941fa0d9f",
+    "stale": false
+  }
+}
