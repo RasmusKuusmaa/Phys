@@ -192,20 +192,20 @@ astrophysics/cosmology topics not yet covered. User instruction: cycle
 astrophysics → nuclear → rest of physics → back to nuclear, continuously,
 without stopping to ask.
 
-- [ ] The Chandrasekhar limit (degenerate-electron-pressure derivation,
+- [x] The Chandrasekhar limit (degenerate-electron-pressure derivation,
       distinct from the existing overview-level compact-objects concept)
-- [ ] The Tolman-Oppenheimer-Volkoff equation (relativistic hydrostatic
+- [x] The Tolman-Oppenheimer-Volkoff equation (relativistic hydrostatic
       equilibrium for neutron stars, upgrading the existing neutron-star
       structure concept's Newtonian framing)
-- [ ] Accretion disks and active galactic nuclei
-- [ ] Pulsars, pulsar timing, and neutron star magnetospheres
-- [ ] Compact binary coalescence and gravitational wave sources
-- [ ] The cosmic distance ladder (standard candles and standard rulers)
-- [ ] Dark energy, the cosmological constant problem, and the equation of
+- [x] Accretion disks and active galactic nuclei
+- [x] Pulsars, pulsar timing, and neutron star magnetospheres
+- [x] Compact binary coalescence and gravitational wave sources
+- [x] The cosmic distance ladder (standard candles and standard rulers)
+- [x] Dark energy, the cosmological constant problem, and the equation of
       state parameter w
-- [ ] Baryon acoustic oscillations and the matter power spectrum
-- [ ] Exoplanet detection methods (radial velocity, transit photometry)
-- [ ] Cosmic rays and ultra-high-energy astrophysical particles
+- [x] Baryon acoustic oscillations and the matter power spectrum
+- [x] Exoplanet detection methods (radial velocity, transit photometry)
+- [x] Cosmic rays and ultra-high-energy astrophysical particles
 
 ## Phase N2 — Nuclear physics, extended (after Phase A2)
 
