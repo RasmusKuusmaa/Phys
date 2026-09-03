@@ -1,0 +1,22 @@
+{
+  "id": "galaxy-clusters-and-the-intracluster-medium",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Galaxy clusters and the intracluster medium",
+    "et": "Galaktikaparved ja parvedevaheline aine",
+    "sourceHash": "85de492385124f87",
+    "stale": false
+  },
+  "summary": {
+    "en": "A galaxy cluster is the largest gravitationally bound structure in the universe, containing hundreds to thousands of galaxies, yet those galaxies are not even the dominant mass component, let alone the dominant baryonic (ordinary-matter) one: far more ordinary matter sits between the galaxies as the intracluster medium, an extremely hot, X-ray-emitting plasma heated to tens of millions of kelvin as it fell into the cluster's deep gravitational potential well, which itself is generated overwhelmingly by dark matter rather than by the galaxies or the hot gas combined, so that a cluster's total mass budget runs roughly dark matter first, hot intracluster gas a distant second, and the visible galaxies a distant third -- an ordering confirmed independently by X-ray observations of the gas and by gravitational lensing measurements of the total mass distribution, most dramatically in colliding clusters like the Bullet Cluster, where the collision physically separates the hot gas from the mass distribution traced by lensing.",
+    "et": "Galaktikaparv on suurim gravitatsiooniliselt seotud struktuur universumis, sisaldades sadu kuni tuhandeid galaktikaid, kuid need galaktikad ei ole isegi domineeriv massikomponent, rääkimata domineerivast barüonilisest (tavalise aine) komponendist: palju rohkem tavalist ainet asub galaktikate vahel parvedevahelise ainena, äärmiselt kuuma, röntgenkiirgust kiirgava plasmana, mis on kuumutatud kümnete miljonite kelvinideni, kui see langes parve sügavasse gravitatsioonipotentsiaali auku, mille tekitab omakorda valdavalt tumeaine, mitte galaktikad ega kuum gaas kokku, nii et parve kogu massieelarve kulgeb umbes tumeaine esimesena, kuum parvedevaheline gaas kauge teisena ning nähtavad galaktikad kauge kolmandana -- järjekord, mida kinnitavad sõltumatult nii gaasi röntgenvaatlused kui gravitatsioonilise nõrga läätsestumise mõõtmised kogu massi jaotuse kohta, kõige dramaatilisemalt põrkuvates parvedes nagu Kuuli parv, kus kokkupõrge lahutab füüsiliselt kuuma gaasi läätsestumise poolt jälgitud massijaotusest.",
+    "sourceHash": "9f4f75ef35203542",
+    "stale": false
+  },
+  "prerequisites": [
+    "galaxy-formation-and-morphology",
+    "dark-matter-and-galactic-structure"
+  ]
+}

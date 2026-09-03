@@ -1,0 +1,55 @@
+{
+  "id": "galaxy-clusters-and-the-intracluster-medium-item1",
+  "conceptId": "galaxy-clusters-and-the-intracluster-medium",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In the Bullet Cluster, X-ray-emitting hot gas is observed concentrated in a different location than the total mass distribution traced by gravitational lensing. Why is this considered strong evidence for dark matter rather than a problem for it?",
+    "et": "Kuuli parves on röntgenkiirgust kiirgav kuum gaas vaadeldud kontsentreerununa teise asukohta kui gravitatsioonilise läätsestumise poolt jälgitud kogu massijaotus. Miks peetakse seda tugevaks tõendiks tumeaine kasuks, mitte probleemiks sellele?",
+    "sourceHash": "c5e70b49d0c88f42",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Electromagnetic drag slowed and separated the colliding gas from the largely collisionless dark matter, so lensing (tracing total mass) and X-rays (tracing gas) naturally show mass concentrated in different places.",
+        "et": "Elektromagnetiline takistus aeglustas ja eraldas põrkuva gaasi suuresti kokkupõrgetevabast tumeainest, seega näitavad läätsestumine (mis jälgib kogumassi) ja röntgenkiirgus (mis jälgib gaasi) loomulikult massi kontsentreerununa erinevatesse kohtadesse.",
+        "sourceHash": "f688e4b1ae107350",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shows that gravitational lensing is measuring the hot gas directly, and the apparent separation is simply a calibration error between the two instruments.",
+        "et": "See näitab, et gravitatsiooniline läätsestumine mõõdab otse kuuma gaasi, ja näiv eraldatus on lihtsalt kalibreerimisviga kahe instrumendi vahel.",
+        "sourceHash": "d33552e1fb41f21c",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't actually support dark matter -- the separation is an unexplained anomaly that most cosmologists consider a serious unresolved problem for the model.",
+        "et": "See tegelikult ei toeta tumeainet -- eraldatus on seletamata anomaalia, mida enamik kosmolooge peab mudeli tõsiseks lahendamata probleemiks.",
+        "sourceHash": "c9242c33a38577a1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "galaxy-clusters-and-the-intracluster-medium-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The hot gas itself is what lensing is detecting as the dominant mass, confirming that ordinary intracluster gas, not dark matter, makes up most of the cluster's mass.",
+        "et": "Läätsestumine tuvastabki just kuuma gaasi domineeriva massina, kinnitades, et tavaline parvedevaheline gaas, mitte tumeaine, moodustab enamiku parve massist.",
+        "sourceHash": "34e3f49b7b36f95f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "galaxy-clusters-and-the-intracluster-medium-m2"
+    }
+  ]
+}
