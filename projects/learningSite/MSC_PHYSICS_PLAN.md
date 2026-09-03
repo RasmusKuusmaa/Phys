@@ -142,8 +142,8 @@ structure, hubbles-law, general-relativity-and-cosmological-models.
       concept's overview level)
 - [x] The cosmic microwave background and recombination
 - [x] Big Bang nucleosynthesis
-- [ ] Cosmological perturbation theory and structure formation (conceptual)
-- [ ] Gravitational lensing
+- [x] Cosmological perturbation theory and structure formation (conceptual)
+- [x] Gravitational lensing
 
 ## Phase N — Nuclear physics deep dive (after Phase A; existing: 6 concepts)
 
