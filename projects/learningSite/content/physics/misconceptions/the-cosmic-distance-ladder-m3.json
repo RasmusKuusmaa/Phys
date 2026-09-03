@@ -1,0 +1,10 @@
+{
+  "id": "the-cosmic-distance-ladder-m3",
+  "conceptId": "the-cosmic-distance-ladder",
+  "text": {
+    "en": "Believing an error or miscalibration at one rung of the distance ladder stays confined to that rung, without affecting distance measurements made using the ladder's higher rungs -- because each rung is calibrated against the one below it, a systematic error at any given rung propagates upward and silently distorts every distance measurement built on top of it, which is exactly why resolving current tensions in cosmological distance measurements (such as competing measurements of the Hubble constant) requires carefully checking every individual rung of the ladder rather than assuming an error must be isolated to whichever rung is currently being debated.",
+    "et": "Arvamus, et viga või vale kalibreerimine kaugusredeli ühel astmel jääb piiratuks sellele astmele, mõjutamata kaugusmõõtmisi, mis on tehtud redeli kõrgemate astmete kasutades -- kuna iga aste on kalibreeritud järgi eelmise vastu, levib süstemaatiline viga mistahes antud astmel ülespoole ja moonutab vaikselt kõiki kaugusmõõtmisi, mis on selle peale ehitatud, mis on täpselt põhjus, miks praeguste pingete lahendamine kosmoloogilistes kaugusmõõtmistes (nagu konkureerivad Hubble'i konstandi mõõtmised) nõuab redeli iga üksiku astme hoolikat kontrollimist, mitte eeldust, et viga peab olema piiratud sellele astmele, mille üle praegu vaieldakse.",
+    "sourceHash": "641e109769aeb648",
+    "stale": false
+  }
+}

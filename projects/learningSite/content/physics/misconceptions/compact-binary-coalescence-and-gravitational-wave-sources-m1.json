@@ -1,0 +1,10 @@
+{
+  "id": "compact-binary-coalescence-and-gravitational-wave-sources-m1",
+  "conceptId": "compact-binary-coalescence-and-gravitational-wave-sources",
+  "text": {
+    "en": "Believing an orbiting binary system of compact objects would remain in a stable, unchanging orbit forever, the same way an idealized Newtonian two-body orbit would -- general relativity predicts that any accelerating mass distribution with a changing quadrupole moment, including an orbiting binary, continuously radiates gravitational waves that carry away orbital energy and angular momentum, causing the orbit to slowly shrink over time (orbital decay) rather than remaining static, an effect first confirmed indirectly through the shrinking orbit of the Hulse-Taylor binary pulsar decades before gravitational waves were directly detected.",
+    "et": "Arvamus, et tiirleva kompaktsete objektide kaksiksüsteem jääks igavesti stabiilsele, muutumatule orbiidile, samamoodi nagu idealiseeritud Newtoni kaheosakeselisüsteemi orbiit -- üldrelatiivsusteooria ennustab, et mistahes kiirendatav massijaotus muutuva kvadrupoolmomendiga, sealhulgas tiirlev kaksiksüsteem, kiirgab pidevalt gravitatsioonilaineid, mis kannavad minema orbitaalenergiat ja impulsimomenti, põhjustades orbiidi aeglase kahanemise aja jooksul (orbitaalne lagunemine), mitte staatilisena jäämise, efekt, mis kinnitati esmalt kaudselt Hulse-Taylori kaksikpulsari kahaneva orbiidi kaudu aastakümneid enne gravitatsioonilainete otsest tuvastamist.",
+    "sourceHash": "0c5f2efef3e1f0da",
+    "stale": false
+  }
+}

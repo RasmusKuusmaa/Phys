@@ -1,0 +1,10 @@
+{
+  "id": "the-cosmic-distance-ladder-m2",
+  "conceptId": "the-cosmic-distance-ladder",
+  "text": {
+    "en": "Believing a 'standard candle' is an object whose apparent brightness (how bright it looks from Earth) is always the same for every such object -- a standard candle's defining property is instead a known, calibrated intrinsic (absolute) luminosity, how bright it actually is; its apparent brightness varies with distance exactly as the inverse-square law predicts, and it is precisely by comparing that known intrinsic luminosity to the observed apparent brightness that the object's distance can be calculated at all.",
+    "et": "Arvamus, et 'standardküünal' on objekt, mille näiv heledus (kui heledana see Maalt paistab) on alati sama iga sellise objekti puhul -- standardküünla defineeriv omadus on selle asemel teadaolev, kalibreeritud sisemine (absoluutne) heledus, kui hele see tegelikult on; selle näiv heledus varieerub kaugusega täpselt nii, nagu pöördruudu seadus ennustab, ning just seda teadaolevat sisemist heledust vaadeldud näiva heledusega võrreldes saab objekti kaugust üldse arvutada.",
+    "sourceHash": "a877d7ccd863a10a",
+    "stale": false
+  }
+}

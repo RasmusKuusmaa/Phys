@@ -1,0 +1,10 @@
+{
+  "id": "the-cosmic-distance-ladder-m1",
+  "conceptId": "the-cosmic-distance-ladder",
+  "text": {
+    "en": "Believing astronomers measure the distance to every galaxy directly and independently, the same basic way parallax measures distance to a nearby star -- direct geometric parallax only works for relatively nearby stars, since the parallax angle shrinks below detectability at large distances; nearly every distance beyond that range is instead measured indirectly, through a chain of standard candles calibrated against each other and ultimately anchored to the small set of distances measured directly, which is exactly why the technique is called a 'ladder' rather than a single measurement.",
+    "et": "Arvamus, et astronoomid mõõdavad kaugust igasse galaktikasse otse ja sõltumatult, samal põhilisel viisil, kuidas parallaks mõõdab kaugust lähedasse tähte -- otsene geomeetriline parallaks töötab ainult suhteliselt lähedaste tähtede jaoks, kuna parallaksinurk kahaneb suurte kauguste juures alla tuvastatavuse; peaaegu igasugune kaugus sellest ulatusest kaugemal on selle asemel mõõdetud kaudselt, standardküünalde ahela kaudu, mis on omavahel kalibreeritud ja lõpuks kinnitatud väikese hulga otse mõõdetud kauguste külge, mis on täpselt põhjus, miks tehnikat nimetatakse 'redeliks', mitte üksikuks mõõtmiseks.",
+    "sourceHash": "881eaa87487d2bb9",
+    "stale": false
+  }
+}

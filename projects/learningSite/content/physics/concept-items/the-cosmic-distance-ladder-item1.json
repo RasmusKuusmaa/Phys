@@ -1,0 +1,56 @@
+{
+  "id": "the-cosmic-distance-ladder-item1",
+  "conceptId": "the-cosmic-distance-ladder",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a systematic error at one rung of the cosmic distance ladder matter for distances measured with the higher rungs?",
+    "et": "Miks on süstemaatiline viga kosmilise kaugusredeli ühel astmel oluline kõrgemate astmetega mõõdetud kauguste jaoks?",
+    "sourceHash": "0a1635c943abf23e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because each rung is calibrated against the one below it, so an error at any rung propagates upward and silently distorts every measurement built on top.",
+        "et": "Sest iga aste on kalibreeritud järgi eelmise vastu, seega viga mistahes astmel levib ülespoole ja moonutab vaikselt kõiki peale ehitatud mõõtmisi.",
+        "sourceHash": "cb0be4f9620e8b7e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't -- every distance in the universe is measured directly and independently using parallax, so no rung actually depends on any other.",
+        "et": "Ei ole -- iga kaugus universumis on mõõdetud otse ja sõltumatult parallaksi kasutades, seega ei sõltu ükski aste tegelikult teisest.",
+        "sourceHash": "efac96eedbe80283",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cosmic-distance-ladder-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because a standard candle's apparent brightness is fixed and identical for every such object, so calibration errors can't actually occur.",
+        "et": "Sest standardküünla näiv heledus on fikseeritud ja identne iga sellise objekti puhul, mistõttu kalibreerimisvead tegelikult ei saa tekkida.",
+        "sourceHash": "fa14338b1ede2b67",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cosmic-distance-ladder-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't -- errors at one rung stay completely confined to that rung and never affect any measurement made with higher rungs.",
+        "et": "Ei mõjuta -- vead ühel astmel jäävad täielikult sellele astmele piiratuks ja ei mõjuta kunagi kõrgemate astmetega tehtud mõõtmisi.",
+        "sourceHash": "d3eefcc3531fe6ab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cosmic-distance-ladder-m3"
+    }
+  ]
+}

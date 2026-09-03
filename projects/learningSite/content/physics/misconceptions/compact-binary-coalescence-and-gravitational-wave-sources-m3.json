@@ -1,0 +1,10 @@
+{
+  "id": "compact-binary-coalescence-and-gravitational-wave-sources-m3",
+  "conceptId": "compact-binary-coalescence-and-gravitational-wave-sources",
+  "text": {
+    "en": "Believing gravitational-wave detectors like LIGO directly detect the merging objects themselves, similar to how a telescope directly images light from a source -- LIGO and similar detectors instead measure the tiny, characteristic stretching and squeezing of spacetime itself as a gravitational wave passes through, using laser interferometry to detect distance changes vastly smaller than an atomic nucleus over kilometers-long detector arms, an entirely different detection principle from any electromagnetic (light-based) observation, which is exactly why gravitational-wave astronomy is often described as a genuinely new sense for observing the universe, complementary to traditional telescopes rather than a more sensitive version of one.",
+    "et": "Arvamus, et gravitatsioonilainete detektorid nagu LIGO tuvastavad otse ühinevad objektid, sarnaselt sellega, kuidas teleskoop kujutab otse valgust allikast -- LIGO ja sarnased detektorid mõõdavad selle asemel aegruumi enda väikest, iseloomulikku venimist ja kokkusurumist, kui gravitatsioonilaine läbi liigub, kasutades laserinterferomeetriat, et tuvastada kaugusmuutusi, mis on tohutult väiksemad kui aatomituum kilomeetrite pikkuste detektoriõlgade ulatuses, täiesti erinevast tuvastusprintsiibist mistahes elektromagnetilisest (valgusepõhisest) vaatlusest, mis on täpselt põhjus, miks gravitatsioonilainete astronoomiat kirjeldatakse sageli tõeliselt uue meelena universumi vaatlemiseks, täiendades traditsioonilisi teleskoope, mitte olles selle tundlikum versioon.",
+    "sourceHash": "e2dfe53455920aa6",
+    "stale": false
+  }
+}

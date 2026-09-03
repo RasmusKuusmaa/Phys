@@ -1,0 +1,22 @@
+{
+  "id": "the-cosmic-distance-ladder",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "The cosmic distance ladder",
+    "et": "Kosmiline kaugusredel",
+    "sourceHash": "a1025319ffcc445b",
+    "stale": false
+  },
+  "summary": {
+    "en": "No single technique can directly measure distances across the entire observable universe, so astronomers build up cosmic distances as a ladder of overlapping methods, each calibrated against the previous rung: geometric parallax fixes distances to nearby stars directly, those stars in turn calibrate the true luminosity of standard candles like Cepheid variable stars and Type Ia supernovae, and those standard candles, once calibrated, extend distance measurements out to galaxies far too distant for any direct geometric method to reach at all, with each rung's uncertainty propagating upward and any systematic error at one rung silently distorting every distance measured with the rungs built on top of it.",
+    "et": "Ükski üksik tehnika ei suuda otse mõõta kaugusi läbi kogu vaadeldava universumi, seega ehitavad astronoomid kosmilisi kaugusi üles kattuvate meetodite redelina, mille iga aste on kalibreeritud eelmise astme järgi: geomeetriline parallaks fikseerib kauguse lähedastele tähtedele otse, need tähed kalibreerivad omakorda standardküünalde, nagu tsefeidmuutlikud tähed ja Ia tüüpi supernoovad, tegeliku heleduse, ning need standardküünlad, kord kalibreerituna, laiendavad kaugusmõõtmisi galaktikatele, mis on liiga kauged mistahes otsese geomeetrilise meetodi jaoks üldse, kusjuures igal astmel oleva määramatus levib ülespoole ning mistahes süstemaatiline viga ühel astmel moonutab vaikselt kõiki kaugusi, mida mõõdetakse selle peale ehitatud astmetega.",
+    "sourceHash": "aba4388faee8ede2",
+    "stale": false
+  },
+  "prerequisites": [
+    "hubbles-law-and-the-expanding-universe",
+    "stellar-classification-and-the-hertzsprung-russell-diagram"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "compact-binary-coalescence-and-gravitational-wave-sources-item1",
+  "conceptId": "compact-binary-coalescence-and-gravitational-wave-sources",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a gravitational-wave signal from a merging compact binary rise in both frequency and amplitude, producing a 'chirp'?",
+    "et": "Miks tõuseb ühinevast kompaktsest kaksiksüsteemist tulev gravitatsioonilaine signaal nii sageduses kui amplituudis, tekitades 'siristuse'?",
+    "sourceHash": "d4f51cbbecc4b1fa",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the orbit continuously loses energy and angular momentum to gravitational radiation, shrinking the orbit and increasing the orbital frequency as the objects spiral closer together.",
+        "et": "Sest orbiit kaotab pidevalt energiat ja impulsimomenti gravitatsioonikiirgusesse, kahandades orbiiti ja suurendades orbitaalsagedust, kui objektid spiraaluvad üha lähemale.",
+        "sourceHash": "7b1621ea1cca3b3c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't -- the chirp signal is actually a constant-frequency tone that LIGO simply mislabels as rising.",
+        "et": "Ei tõuse -- siristussignaal on tegelikult konstantse sagedusega toon, mille LIGO lihtsalt märgib valesti tõusvaks.",
+        "sourceHash": "69e0f3028221b69b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compact-binary-coalescence-and-gravitational-wave-sources-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the orbit would otherwise remain perfectly stable forever, exactly like an idealized Newtonian two-body orbit, with no energy loss at all.",
+        "et": "Sest orbiit jääks vastasel juhul igavesti täiuslikult stabiilseks, täpselt nagu idealiseeritud Newtoni kaheosakeselisüsteemi orbiit, ilma igasuguse energiakaota.",
+        "sourceHash": "98112b738b541b22",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compact-binary-coalescence-and-gravitational-wave-sources-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because LIGO directly images the merging objects themselves, the same way a telescope directly images light from a source.",
+        "et": "Sest LIGO kujutab otse ühinevad objektid, samamoodi nagu teleskoop kujutab otse valgust allikast.",
+        "sourceHash": "e0b47a6849f27326",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compact-binary-coalescence-and-gravitational-wave-sources-m3"
+    }
+  ]
+}

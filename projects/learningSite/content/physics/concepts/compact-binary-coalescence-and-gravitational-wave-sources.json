@@ -1,0 +1,22 @@
+{
+  "id": "compact-binary-coalescence-and-gravitational-wave-sources",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Compact binary coalescence and gravitational wave sources",
+    "et": "Kompaktkaksiksüsteemide ühinemine ja gravitatsioonilainete allikad",
+    "sourceHash": "5d54c88dcbf4b30a",
+    "stale": false
+  },
+  "summary": {
+    "en": "Two orbiting compact objects -- black holes, neutron stars, or a mix of the two -- continuously radiate gravitational waves that carry away orbital energy and angular momentum, causing the orbit to slowly shrink and the orbital frequency to rise, a process that accelerates as the objects spiral closer together until, in the final fraction of a second, they merge in a violent, rapidly evolving burst whose gravitational-wave signal -- rising in both frequency and amplitude in the unmistakable 'chirp' pattern LIGO and Virgo detect -- directly encodes the objects' masses, spins, and the strong-field general-relativistic dynamics of the merger itself.",
+    "et": "Kaks tiirlevat kompaktset objekti -- mustad augud, neutrontähed või nende segu -- kiirgavad pidevalt gravitatsioonilaineid, mis kannavad minema orbitaalenergiat ja impulsimomenti, põhjustades orbiidi aeglase kahanemise ja orbitaalsageduse tõusu, protsess, mis kiireneb, kui objektid spiraaluvad üha lähemale, kuni need sekundi viimases fraktsioonis ühinevad vägivaldses, kiiresti areneva puhangus, mille gravitatsioonilaine signaal -- tõustes nii sageduses kui amplituudis LIGO ja Virgo tuvastatavas kordumatus 'siristusmustris' -- kodeerib otse objektide massid, spinnid ja ühinemise enda tugeva välja üldrelatiivistliku dünaamika.",
+    "sourceHash": "2958c00181aaee83",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schwarzschild-solution-and-black-holes",
+    "the-tolman-oppenheimer-volkoff-equation"
+  ]
+}
