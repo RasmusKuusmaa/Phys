@@ -1,0 +1,56 @@
+{
+  "id": "the-nuclear-equation-of-state-at-high-density-item1",
+  "conceptId": "the-nuclear-equation-of-state-at-high-density",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the nuclear equation of state remain genuinely uncertain specifically at the densities found deep inside a neutron star?",
+    "et": "Miks jääb tuuma olekuvõrrand tõeliselt ebakindlaks just neutrontähe sügavuses leiduvatel tihedustel?",
+    "sourceHash": "e4350c3c785b4eb6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because it depends on strong-force behaviour at short range that cannot be directly probed in any terrestrial experiment, unlike the well-constrained density near ordinary nuclei.",
+        "et": "Sest see sõltub tugeva jõu lühimaa käitumisest, mida ei saa üheski maapealses katses otse uurida, erinevalt hästi piiratud tavaliste tuumade lähedasest tihedusest.",
+        "sourceHash": "52c671a500d84b39",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't -- the equation of state is equally well known at every density, from ordinary nuclei up through a neutron star's extreme core.",
+        "et": "Ei jää -- olekuvõrrand on võrdselt hästi teada igal tihedusel, alates tavalistest tuumadest kuni neutrontähe äärmusliku tuumani.",
+        "sourceHash": "9e3acc63b2d648f3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nuclear-equation-of-state-at-high-density-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because a neutron star's core necessarily contains only ordinary neutrons and protons, leaving nothing exotic to actually be uncertain about.",
+        "et": "Sest neutrontähe tuum sisaldab paratamatult ainult tavalisi neutroneid ja prootoneid, jättes midagi tegelikult ebakindlat üle mitte midagi eksootilist.",
+        "sourceHash": "f2cab5fbe1835968",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nuclear-equation-of-state-at-high-density-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because it can only be studied theoretically, with no way to test candidate models against actual astrophysical or laboratory data.",
+        "et": "Sest seda saab uurida ainult teoreetiliselt, ilma võimaluseta testida kandidaatmudeleid tegelike astrofüüsikaliste või laboriandmete vastu.",
+        "sourceHash": "5434d175586ea5bd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-nuclear-equation-of-state-at-high-density-m3"
+    }
+  ]
+}

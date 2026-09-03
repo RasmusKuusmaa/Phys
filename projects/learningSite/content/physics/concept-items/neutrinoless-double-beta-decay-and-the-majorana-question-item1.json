@@ -1,0 +1,56 @@
+{
+  "id": "neutrinoless-double-beta-decay-and-the-majorana-question-item1",
+  "conceptId": "neutrinoless-double-beta-decay-and-the-majorana-question",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why would confirming neutrinoless double beta decay be significant beyond just classifying the neutrino?",
+    "et": "Miks oleks neutriinovaba topeltbeetalagunemise kinnitamine oluline kaugemale ainult neutriino klassifitseerimisest?",
+    "sourceHash": "1ff743bcd3e440c2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because it would demonstrate lepton number is not conserved in nature, a result with implications for explaining the universe's matter-antimatter asymmetry.",
+        "et": "Sest see näitaks, et leptoni arv ei ole looduses jääv, tulemus, millel on tähendus universumi aine-antiaine asümmeetria seletamiseks.",
+        "sourceHash": "33a9a677830bb3a1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It wouldn't be significant -- ordinary and neutrinoless double beta decay are simply two names for the same already-confirmed, routine process.",
+        "et": "See ei oleks oluline -- tavaline ja neutriinovaba topeltbeetalagunemine on lihtsalt kaks nime samale juba kinnitatud, rutiinsele protsessile.",
+        "sourceHash": "1b8084c868401dab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neutrinoless-double-beta-decay-and-the-majorana-question-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because every known fermion is already confirmed to be a Dirac particle, so the result would simply confirm existing expectations.",
+        "et": "Sest iga teadaolev fermion on juba kinnitatud olevat Diraci osake, seega kinnitaks tulemus lihtsalt olemasolevaid ootusi.",
+        "sourceHash": "3f58fcde0c4a9391",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neutrinoless-double-beta-decay-and-the-majorana-question-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It wouldn't be significant -- it's purely a matter of academic classification with no broader physical implications at all.",
+        "et": "See ei oleks oluline -- see on puhtalt akadeemilise klassifikatsiooni küsimus, ilma igasuguse laiema füüsikalise tähenduseta.",
+        "sourceHash": "ea12e9c5389ab589",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neutrinoless-double-beta-decay-and-the-majorana-question-m3"
+    }
+  ]
+}

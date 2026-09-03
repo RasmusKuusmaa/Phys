@@ -1,0 +1,10 @@
+{
+  "id": "neutrinoless-double-beta-decay-and-the-majorana-question-m2",
+  "conceptId": "neutrinoless-double-beta-decay-and-the-majorana-question",
+  "text": {
+    "en": "Believing every known fermion, including the neutrino, must be a Dirac particle, distinct from its own antiparticle, since that's the case for the electron and quarks -- the neutrino is special among known fermions specifically because, being electrically neutral, it is not automatically required to differ from its antiparticle the way a charged particle like the electron is; whether the neutrino is a Dirac particle (distinct from its antiparticle, like the electron) or a Majorana particle (its own antiparticle) is a genuinely open experimental question, not something already settled by analogy with other fermions.",
+    "et": "Arvamus, et iga teadaolev fermion, sealhulgas neutriino, peab olema Diraci osake, erinev enda antiosakesest, kuna see kehtib elektroni ja kvarkide puhul -- neutriino on teadaolevate fermionide seas eriline just seetõttu, et olles elektriliselt neutraalne, ei ole see automaatselt kohustatud erinema oma antiosakesest viisil, nagu laetud osake nagu elektron seda on; kas neutriino on Diraci osake (erinev oma antiosakesest, nagu elektron) või Majorana osake (iseenda antiosake), on tõeliselt lahtine eksperimentaalne küsimus, mitte miski, mis on juba lahendatud analoogia kaudu teiste fermionidega.",
+    "sourceHash": "e00becade7ee5840",
+    "stale": false
+  }
+}

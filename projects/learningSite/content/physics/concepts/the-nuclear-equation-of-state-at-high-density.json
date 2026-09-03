@@ -1,0 +1,22 @@
+{
+  "id": "the-nuclear-equation-of-state-at-high-density",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "The nuclear equation of state at high density",
+    "et": "Tuuma olekuvõrrand kõrgel tihedusel",
+    "sourceHash": "d23792276effab98",
+    "stale": false
+  },
+  "summary": {
+    "en": "Nuclear matter's equation of state -- how pressure relates to density and composition -- is well constrained near ordinary nuclear density by laboratory measurements of stable nuclei, but at the multiple-times-nuclear densities reached inside a neutron star's core, the equation of state remains genuinely uncertain, since it depends on details of the strong nuclear force at short range that cannot be probed directly in any terrestrial experiment, and different candidate equations of state -- ranging from ordinary nucleonic matter to exotic phases like hyperonic matter or deconfined quark matter -- predict measurably different neutron star masses, radii, and maximum masses, making astrophysical observations of real neutron stars an essential complementary tool alongside nuclear theory and heavy-ion collision experiments for pinning down how nuclear matter actually behaves at the highest densities found anywhere in the universe.",
+    "et": "Tuumaaine olekuvõrrand -- kuidas rõhk seondub tiheduse ja koostisega -- on tavalise tuumatiheduse lähedal hästi piiratud stabiilsete tuumade laborimõõtmistega, kuid mitmekordsetel tuumatihedusel, mis saavutatakse neutrontähe tuumas, jääb olekuvõrrand tõeliselt ebakindlaks, kuna see sõltub tugeva tuumajõu lühimaa üksikasjadest, mida ei saa otse uurida üheski maapealses katses, ning erinevad kandidaat-olekuvõrrandid -- alates tavalisest nukleonainest kuni eksootiliste faasideni nagu hüperoniaine või lahtiköidetud kvargaine -- ennustavad mõõdetavalt erinevaid neutrontähtede masse, raadiuseid ja maksimummasse, mis teeb reaalsete neutrontähtede astrofüüsikalistest vaatlustest olulise täiendava vahendi koos tuumateooria ja raskeioonide põrke katsetega, et kindlaks teha, kuidas tuumaaine tegelikult käitub kõrgeimatel tihedustel, mida universumis kuskil leidub.",
+    "sourceHash": "f0155c0b1a2b0e0b",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-tolman-oppenheimer-volkoff-equation",
+    "liquid-drop-model-and-the-semi-empirical-mass-formula"
+  ]
+}

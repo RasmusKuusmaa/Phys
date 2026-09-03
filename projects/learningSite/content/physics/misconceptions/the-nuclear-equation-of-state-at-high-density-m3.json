@@ -1,0 +1,10 @@
+{
+  "id": "the-nuclear-equation-of-state-at-high-density-m3",
+  "conceptId": "the-nuclear-equation-of-state-at-high-density",
+  "text": {
+    "en": "Believing the true nuclear equation of state at high density can only be studied theoretically, with no way to actually test different candidate models against real data -- observations of actual neutron stars (their measured masses, radii, and gravitational-wave signals from mergers) provide genuine, quantitative constraints that rule out equation-of-state models predicting maximum masses or radii inconsistent with what's observed, and combined with laboratory heavy-ion collision experiments that briefly recreate dense nuclear matter on Earth, astrophysical observation is an essential, active complementary tool for constraining the true high-density equation of state, not a purely theoretical exercise disconnected from data.",
+    "et": "Arvamus, et tõelist tuuma olekuvõrrandit kõrgel tihedusel saab uurida ainult teoreetiliselt, ilma võimaluseta tegelikult testida erinevaid kandidaatmudeleid reaalsete andmete vastu -- tegelike neutrontähtede vaatlused (nende mõõdetud massid, raadiused ja ühinemistest tulevad gravitatsioonilaine signaalid) annavad tõelisi, kvantitatiivseid piiranguid, mis välistavad olekuvõrrandi mudelid, mis ennustavad vaadelduga vastuolus olevaid maksimummasse või raadiuseid, ning koos laboratoorsete raskeioonide põrke katsetega, mis lühidalt taasloovad tihedat tuumaainet Maal, on astrofüüsikaline vaatlus oluline, aktiivne täiendav vahend tõelise kõrge tiheduse olekuvõrrandi piiramiseks, mitte puhtalt teoreetiline harjutus, mis on andmetest lahutatud.",
+    "sourceHash": "df00e307dbbed750",
+    "stale": false
+  }
+}

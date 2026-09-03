@@ -1,0 +1,21 @@
+{
+  "id": "neutrinoless-double-beta-decay-and-the-majorana-question",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Neutrinoless double beta decay and the Majorana neutrino question",
+    "et": "Neutriinovaba topeltbeetalagunemine ja Majorana neutriino küsimus",
+    "sourceHash": "d1d7d0c463158b06",
+    "stale": false
+  },
+  "summary": {
+    "en": "Ordinary double beta decay, in which a nucleus converts two neutrons to two protons while emitting two electrons and two antineutrinos, is a rare but standard process observed in a handful of nuclei, but a hypothetical neutrinoless variant -- where the two antineutrinos effectively cancel each other out internally, leaving only two electrons -- would only be possible if the neutrino is its own antiparticle, a Majorana fermion rather than the Dirac-type particle every other known fermion is, making the search for this exceptionally rare decay one of the most direct available experimental routes toward answering a fundamental open question about the neutrino's basic nature.",
+    "et": "Tavaline topeltbeetalagunemine, milles tuum muudab kaks neutronit kaheks prootoniks, kiirates kaks elektroni ja kaks antineutriinot, on haruldane, kuid standardne protsess, mida on täheldatud käputäie tuumade puhul, kuid hüpoteetiline neutriinovaba variant -- kus kaks antineutriinot sisuliselt tühistavad üksteist sisemiselt, jättes ainult kaks elektroni -- oleks võimalik ainult siis, kui neutriino on iseenda antiosake, Majorana fermion, mitte Diraci tüüpi osake, mis on iga teine teadaolev fermion, mis teeb selle erakordselt haruldase lagunemise otsimise üheks kõige otsesemaks saadaolevaks eksperimentaalseks teeks fundamentaalse lahtise küsimuse vastamiseks neutriino põhilisest loomusest.",
+    "sourceHash": "12cd8aba7d1fd5eb",
+    "stale": false
+  },
+  "prerequisites": [
+    "beta-decay-theory-and-the-weak-interaction"
+  ]
+}
