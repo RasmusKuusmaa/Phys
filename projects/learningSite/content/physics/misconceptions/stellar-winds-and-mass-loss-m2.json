@@ -1,0 +1,10 @@
+{
+  "id": "stellar-winds-and-mass-loss-m2",
+  "conceptId": "stellar-winds-and-mass-loss",
+  "text": {
+    "en": "Believing stellar mass loss is a negligible detail that can be ignored when modeling how a star evolves, since a star's mass at birth is assumed to stay essentially fixed throughout its life -- for a Sun-like star this is a reasonable approximation, since its wind removes a negligible fraction of its total mass over billions of years, but for a hot, massive, luminous star, radiation-driven winds can strip away a large fraction of the star's initial mass over its much shorter lifetime, substantially changing its core mass, its subsequent evolution, and ultimately which kind of supernova or compact remnant it produces, making mass loss a genuinely essential ingredient of massive-star evolution models rather than a minor correction.",
+    "et": "Arvamus, et tähe massikadu on tühine detail, mida saab tähe arengu modelleerimisel ignoreerida, kuna eeldatakse, et tähe sünnimass jääb kogu tema elu jooksul sisuliselt fikseerituks -- Päikese-sarnase tähe jaoks on see mõistlik lähendus, kuna tema tuul eemaldab miljardite aastate jooksul tühise osa tema kogumassist, kuid kuuma, massiivse, heleda tähe jaoks võivad kiirgusest juhitud tuuled rebida ära suure osa tähe algsest massist üle tema palju lühema eluea, muutes oluliselt tema tuuma massi, edasist arengut ja lõpuks seda, millist tüüpi supernoova või kompaktset jäänust see toodab, mis muudab massikao tõeliselt oluliseks koostisosaks massiivsete tähtede arengumudelites, mitte väikeseks korrektsiooniks.",
+    "sourceHash": "46374b6f8e6efc27",
+    "stale": false
+  }
+}

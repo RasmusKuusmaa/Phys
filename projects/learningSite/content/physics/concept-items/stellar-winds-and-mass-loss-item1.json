@@ -1,0 +1,56 @@
+{
+  "id": "stellar-winds-and-mass-loss-item1",
+  "conceptId": "stellar-winds-and-mass-loss",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is mass loss treated as a minor detail in models of Sun-like stars but as an essential ingredient in models of hot, massive, luminous stars?",
+    "et": "Miks käsitletakse massikadu Päikese-sarnaste tähtede mudelites väikese detailina, kuid kuumade, massiivsete, heledate tähtede mudelites olulise koostisosana?",
+    "sourceHash": "4c51f52aca1e677b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A massive star's radiation-driven wind can strip away a large fraction of its initial mass over its shorter lifetime, substantially altering its evolution, unlike the Sun's thermally-driven wind, which removes only a negligible fraction of its mass.",
+        "et": "Massiivse tähe kiirgusest juhitud tuul võib rebida ära suure osa tema algsest massist üle tema lühema eluea, muutes oluliselt tema arengut, erinevalt Päikese soojuslikult juhitud tuulest, mis eemaldab ainult tühise osa tema massist.",
+        "sourceHash": "9b4e09027ba5702b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Mass loss is actually negligible for every kind of star, and massive-star models only include it as an unnecessary, overly cautious refinement.",
+        "et": "Massikadu on tegelikult tühine iga tähetüübi jaoks, ja massiivsete tähtede mudelid lisavad selle ainult tarbetu, liiga ettevaatliku täpsustusena.",
+        "sourceHash": "99fab3c0ab15e917",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-winds-and-mass-loss-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both stars lose mass through the identical thermally-driven mechanism, just at different rates set purely by their different core temperatures.",
+        "et": "Mõlemad tähed kaotavad massi identse soojuslikult juhitud mehhanismi kaudu, lihtsalt erineva kiirusega, mis on määratud puhtalt nende erineva tuuma temperatuuriga.",
+        "sourceHash": "237688461376c484",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-winds-and-mass-loss-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Massive stars physically blow fusion products from their core out into the wind, while Sun-like stars keep all their fusion products locked inside.",
+        "et": "Massiivsed tähed puhuvad füüsiliselt sünteesi produktid oma tuumast tuulde välja, samal ajal kui Päikese-sarnased tähed hoiavad kõik oma sünteesi produktid seespool lukustatuna.",
+        "sourceHash": "38dbe09a719e60bf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-winds-and-mass-loss-m3"
+    }
+  ]
+}

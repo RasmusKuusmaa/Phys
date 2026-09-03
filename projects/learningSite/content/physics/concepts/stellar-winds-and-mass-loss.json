@@ -1,0 +1,22 @@
+{
+  "id": "stellar-winds-and-mass-loss",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Stellar winds and mass loss",
+    "et": "Tähetuuled ja massikadu",
+    "sourceHash": "136bfa19bf12a348",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every star continuously loses some of its own mass to space as a stellar wind, an outward flow of particles accelerated away from the stellar surface, but the physical mechanism responsible and its astrophysical significance differ enormously across the Hertzsprung-Russell diagram: a Sun-like star's wind is thermally driven, an ordinary and comparatively feeble outflow of the hot corona's own gas pressure that costs the star a negligible fraction of its mass over its entire lifetime, while a hot, luminous massive star's wind is driven instead by radiation pressure acting on spectral lines in its outer atmosphere and can be strong enough, sustained over the star's much shorter lifetime, to strip away a large fraction of the star's initial mass entirely before it ever reaches the endpoint of its nuclear evolution, making mass loss itself one of the central factors, alongside initial mass, that determines which kind of supernova or compact remnant a massive star eventually produces.",
+    "et": "Iga täht kaotab pidevalt osa oma massist kosmosesse tähetuulena, väljapoole suunatud osakeste vooluna, mis on kiirendatud tähe pinnalt eemale, kuid vastutav füüsikaline mehhanism ja selle astrofüüsikaline tähtsus erinevad tohutult üle Hertzsprungi-Russelli diagrammi: Päikese-sarnase tähe tuul on soojuslikult juhitud, tavaline ja võrdlemisi nõrk kuuma kroona enda gaasirõhu väljavool, mis maksab tähele tema kogu eluea jooksul tühise osa tema massist, samal ajal kui kuuma, heleda massiivse tähe tuult juhib selle asemel kiirgusrõhk, mis mõjub spektrijoontele tema välimises atmosfääris, ning see võib olla piisavalt tugev, säilides üle tähe palju lühema eluea, et rebida ära suur osa tähe algsest massist täielikult, enne kui see üldse jõuab oma tuumaarengu lõpp-punkti, muutes massikao enda üheks keskseks teguriks, koos algse massiga, mis määrab, millist tüüpi supernoova või kompaktset jäänust massiivne täht lõpuks toodab.",
+    "sourceHash": "b9823ce182cecd7c",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-eddington-luminosity-limit",
+    "stellar-atmospheres-and-radiative-transfer"
+  ]
+}

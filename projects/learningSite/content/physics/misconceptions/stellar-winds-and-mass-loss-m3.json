@@ -1,0 +1,10 @@
+{
+  "id": "stellar-winds-and-mass-loss-m3",
+  "conceptId": "stellar-winds-and-mass-loss",
+  "text": {
+    "en": "Believing a star's wind is driven by nuclear fusion products being physically blown outward from the core to the surface -- fusion products stay deep in the core (or are mixed outward only very slowly by convection over much longer timescales); a stellar wind's material and driving energy both originate at or very near the stellar surface itself, either from the thermal pressure of the hot outer atmosphere (thermally-driven winds) or from radiation generated deeper in the star but absorbed by surface-layer spectral lines (radiation-driven winds), not from fusion products being ejected directly from the core.",
+    "et": "Arvamus, et tähe tuult juhib tuumasünteesi produktide füüsiline väljapuhumine tuumast pinnale -- sünteesi produktid jäävad sügavale tuuma (või segunevad väljapoole ainult väga aeglaselt konvektsiooni kaudu palju pikemate ajaskaalade jooksul); tähetuule aine ja seda juhtiv energia pärinevad mõlemad tähe pinnalt endalt või selle väga lähedalt, kas kuuma välimise atmosfääri soojusrõhust (soojuslikult juhitud tuuled) või sügavamal tähes tekkinud kiirgusest, mida neelavad pinnakihi spektrijooned (kiirgusest juhitud tuuled), mitte sünteesi produktide otsesest väljapaiskumisest tuumast.",
+    "sourceHash": "5b77714db53814b2",
+    "stale": false
+  }
+}

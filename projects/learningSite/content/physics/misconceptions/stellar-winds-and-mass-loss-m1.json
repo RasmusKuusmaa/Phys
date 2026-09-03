@@ -1,0 +1,10 @@
+{
+  "id": "stellar-winds-and-mass-loss-m1",
+  "conceptId": "stellar-winds-and-mass-loss",
+  "text": {
+    "en": "Believing all stars lose mass to stellar winds through the same physical mechanism, differing only in rate -- a Sun-like star's wind is thermally driven, accelerated by the coronal gas's own thermal pressure much like steam escaping a kettle, whereas a hot, massive, luminous star's wind is driven by an entirely different mechanism, radiation pressure absorbed and scattered by spectral lines in the star's outer atmosphere; these are genuinely distinct physical processes operating in different regimes, not the same mechanism simply running faster or slower.",
+    "et": "Arvamus, et kõik tähed kaotavad massi tähetuultele sama füüsikalise mehhanismi kaudu, erinedes ainult kiiruse poolest -- Päikese-sarnase tähe tuul on soojuslikult juhitud, kiirendatud kroonagaasi enda soojusrõhu poolt, sarnaselt auruga, mis pääseb keedukannust, samal ajal kui kuuma, massiivse, heleda tähe tuult juhib täiesti erinev mehhanism, kiirgusrõhk, mida neelavad ja hajutavad spektrijooned tähe välimises atmosfääris; need on tõeliselt eristuvad füüsikalised protsessid, mis toimivad erinevates režiimides, mitte sama mehhanism, mis lihtsalt kiiremini või aeglasemalt töötab.",
+    "sourceHash": "742c60f9a4be5dff",
+    "stale": false
+  }
+}
