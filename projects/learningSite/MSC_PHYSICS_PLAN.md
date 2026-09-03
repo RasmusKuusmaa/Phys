@@ -185,4 +185,41 @@ without being asked, flagged there.
 - [x] Topological insulators and topological band theory
 - [x] The fractional quantum Hall effect and anyons
 
+## Phase A2 — Astrophysics, extended (per "continue until I tell you to stop")
+
+Going past Phase A's 10 concepts into further standard-textbook
+astrophysics/cosmology topics not yet covered. User instruction: cycle
+astrophysics → nuclear → rest of physics → back to nuclear, continuously,
+without stopping to ask.
+
+- [ ] The Chandrasekhar limit (degenerate-electron-pressure derivation,
+      distinct from the existing overview-level compact-objects concept)
+- [ ] The Tolman-Oppenheimer-Volkoff equation (relativistic hydrostatic
+      equilibrium for neutron stars, upgrading the existing neutron-star
+      structure concept's Newtonian framing)
+- [ ] Accretion disks and active galactic nuclei
+- [ ] Pulsars, pulsar timing, and neutron star magnetospheres
+- [ ] Compact binary coalescence and gravitational wave sources
+- [ ] The cosmic distance ladder (standard candles and standard rulers)
+- [ ] Dark energy, the cosmological constant problem, and the equation of
+      state parameter w
+- [ ] Baryon acoustic oscillations and the matter power spectrum
+- [ ] Exoplanet detection methods (radial velocity, transit photometry)
+- [ ] Cosmic rays and ultra-high-energy astrophysical particles
+
+## Phase N2 — Nuclear physics, extended (after Phase A2)
+
+Going past Phase N's 8 concepts into further standard-textbook nuclear
+topics not yet covered.
+
+- [ ] Nuclear deformation and rotational bands
+- [ ] The r-process and s-process nucleosynthesis pathways (beyond the
+      existing stellar-nucleosynthesis pp-chain/CNO/triple-alpha concept)
+- [ ] Neutrinoless double beta decay and the Majorana neutrino question
+- [ ] The nuclear equation of state at high density
+- [ ] Heavy-ion collisions and the quark-gluon plasma
+- [ ] Superheavy elements and the island of stability
+- [ ] Nuclear medicine (PET, SPECT, radiotherapy dosimetry)
+- [ ] Fission product yields and decay chains
+
 ---
