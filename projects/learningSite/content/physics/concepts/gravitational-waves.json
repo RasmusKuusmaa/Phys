@@ -1,0 +1,22 @@
+{
+  "id": "gravitational-waves",
+  "subject": "physics",
+  "level": "L4",
+  "module": "general-relativity",
+  "title": {
+    "en": "Gravitational waves",
+    "et": "Gravitatsioonilained",
+    "sourceHash": "443843579066f5dc",
+    "stale": false
+  },
+  "summary": {
+    "en": "Just as accelerating electric charges radiate electromagnetic waves, sufficiently asymmetric accelerating masses radiate gravitational waves — ripples in spacetime curvature itself that propagate outward at the speed of light, stretching and squeezing space transversely as they pass, first directly detected by LIGO in 2015 from the merger of two black holes, a century after Einstein predicted their existence.",
+    "et": "Nii nagu kiirendatavad elektrilaengud kiirgavad elektromagnetlaineid, kiirgavad piisavalt asümmeetrilised kiirendatavad massid gravitatsioonilaineid — lained aegruumi kõveruses endas, mis levivad väljapoole valguse kiirusel, venitades ja pigistades ruumi risti liikumissuunaga möödudes, esimest korda otse tuvastatud LIGO poolt 2015. aastal kahe musta augu ühinemisest, sajand pärast seda, kui Einstein nende olemasolu ennustas.",
+    "sourceHash": "d5b4e76cbfb9ed49",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-einstein-field-equations",
+    "electromagnetic-waves"
+  ]
+}

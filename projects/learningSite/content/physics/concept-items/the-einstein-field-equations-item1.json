@@ -1,0 +1,56 @@
+{
+  "id": "the-einstein-field-equations-item1",
+  "conceptId": "the-einstein-field-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can't the gravitational fields of two separate masses in general relativity simply be added together, the way Newtonian gravitational fields can?",
+    "et": "Miks ei saa üldrelatiivsusteoorias kahe eraldi massi gravitatsiooniväljasid lihtsalt kokku liita, nii nagu saab Newtoni gravitatsioonivälju?",
+    "sourceHash": "edc4f5a06a857605",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The Einstein field equations are nonlinear, so curvature itself contributes to the total curvature, meaning solutions generally cannot be superposed the way linear equations' solutions can.",
+        "et": "Einsteini väljavõrrandid on mittelineaarsed, nii et kõverus ise panustab kogukõverusse, mis tähendab, et lahendeid üldiselt ei saa superponeerida nii nagu lineaarsete võrrandite lahendeid saab.",
+        "sourceHash": "c951ebae9b6ab892",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the field equations are actually just one simple scalar equation, the same structure as Newton's law, so superposition should work but doesn't for unrelated reasons.",
+        "et": "Kuna väljavõrrandid on tegelikult lihtsalt üks lihtne skalaarvõrrand, sama struktuuriga mis Newtoni seadus, nii et superpositsioon peaks töötama, kuid ei tööta mitteseotud põhjustel.",
+        "sourceHash": "cd82c697e966e98a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-einstein-field-equations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because matter causes curvature in one direction only, with no feedback, which somehow prevents combining separate sources.",
+        "et": "Kuna aine põhjustab kõverust ainult ühes suunas, ilma tagasisideta, mis kuidagi takistab eraldi allikate kombineerimist.",
+        "sourceHash": "6d45caaf99ccfc81",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-einstein-field-equations-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It actually can be done exactly the same way as in Newtonian gravity — the fields simply add together with no complications.",
+        "et": "Seda saab tegelikult teha täpselt samamoodi nagu Newtoni gravitatsioonis — väljad lihtsalt liituvad ilma tüsistusteta.",
+        "sourceHash": "4036b512ec5b79ff",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-einstein-field-equations-m3"
+    }
+  ]
+}

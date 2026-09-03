@@ -1,0 +1,22 @@
+{
+  "id": "the-schwarzschild-solution-and-black-holes",
+  "subject": "physics",
+  "level": "L4",
+  "module": "general-relativity",
+  "title": {
+    "en": "The Schwarzschild solution and black holes",
+    "et": "Schwarzschildi lahend ja mustad augud",
+    "sourceHash": "bff551b1ba195315",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Schwarzschild solution is the exact solution to the Einstein field equations for the spacetime around any spherically symmetric, non-rotating mass, and it predicts a specific radius — the Schwarzschild radius — at which, for a sufficiently compact mass, spacetime becomes so curved that not even light can escape from within it: a black hole, with the Schwarzschild radius marking its event horizon.",
+    "et": "Schwarzschildi lahend on täpne lahend Einsteini väljavõrranditele aegruumi jaoks mistahes sfääriliselt sümmeetrilise, mittepöörleva massi ümber, ning see ennustab kindlat raadiust — Schwarzschildi raadiust —, millel piisavalt kompaktse massi jaoks muutub aegruum nii kõveraks, et isegi valgus ei suuda selle seest põgeneda: must auk, mille sündmuste horisondi tähistab Schwarzschildi raadius.",
+    "sourceHash": "2c8c2d982b3e7530",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-einstein-field-equations",
+    "newtonian-gravitation"
+  ]
+}

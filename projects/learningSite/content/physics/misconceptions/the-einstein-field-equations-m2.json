@@ -1,0 +1,10 @@
+{
+  "id": "the-einstein-field-equations-m2",
+  "conceptId": "the-einstein-field-equations",
+  "text": {
+    "en": "Believing the field equations describe a one-way causal relationship, matter simply causing curvature with no feedback — the coupling is fully two-way: matter and energy determine curvature, and that curvature (via the geodesic equation) determines how matter and energy subsequently move, a self-consistent relationship rather than a one-directional cause and effect.",
+    "et": "Arvamus, et väljavõrrandid kirjeldavad ühesuunalist põhjuslikku seost, kus aine lihtsalt põhjustab kõverust ilma tagasisideta — seos on täielikult kahesuunaline: aine ja energia määravad kõveruse, ning see kõverus (geodeedi võrrandi kaudu) määrab, kuidas aine ja energia seejärel liiguvad, iseendaga kooskõlaline seos, mitte ühesuunaline põhjus ja tagajärg.",
+    "sourceHash": "2fd17912a0f26a62",
+    "stale": false
+  }
+}

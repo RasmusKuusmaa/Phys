@@ -1,0 +1,10 @@
+{
+  "id": "the-einstein-field-equations-m1",
+  "conceptId": "the-einstein-field-equations",
+  "text": {
+    "en": "Believing the Einstein field equations are just a single equation, analogous to Newton's law of gravity — they are actually ten coupled, nonlinear partial differential equations (for the metric tensor's independent components), which is exactly why they're so much harder to solve than Newton's simpler scalar equation.",
+    "et": "Arvamus, et Einsteini väljavõrrandid on lihtsalt üksik võrrand, analoogne Newtoni gravitatsiooniseadusega — need on tegelikult kümme seotud, mittelineaarset osatuletistega diferentsiaalvõrrandit (meetrilise tensori sõltumatute komponentide jaoks), mis on täpselt see, miks neid on nii palju raskem lahendada kui Newtoni lihtsamat skalaarvõrrandit.",
+    "sourceHash": "53bde5350749e64e",
+    "stale": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "the-einstein-field-equations",
+  "subject": "physics",
+  "level": "L4",
+  "module": "general-relativity",
+  "title": {
+    "en": "The Einstein field equations",
+    "et": "Einsteini väljavõrrandid",
+    "sourceHash": "02a5e70ec331db25",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Einstein field equations are general relativity's central equation, relating spacetime's curvature directly to the energy and momentum of whatever matter and energy occupy that spacetime — famously summarized as 'spacetime tells matter how to move; matter tells spacetime how to curve,' with the curvature on one side of the equation and the source (mass-energy) on the other.",
+    "et": "Einsteini väljavõrrandid on üldrelatiivsusteooria kesksuurus, seostades aegruumi kõveruse otse selle aegruumi täitva aine ja energia energia ja impulsiga — kuulsalt kokku võetud kui 'aegruum ütleb ainele, kuidas liikuda; aine ütleb aegruumile, kuidas kõverduda', kõverusega võrrandi ühel poolel ja allikaga (mass-energiaga) teisel.",
+    "sourceHash": "28a1c11f5ba63c3e",
+    "stale": false
+  },
+  "prerequisites": [
+    "tensor-calculus-and-the-metric-tensor",
+    "the-equivalence-principle-and-geodesics"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "the-schwarzschild-solution-and-black-holes-item1",
+  "conceptId": "the-schwarzschild-solution-and-black-holes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What actually happens, physically, to a freely falling observer crossing a black hole's event horizon (assuming a sufficiently large black hole)?",
+    "et": "Mis tegelikult füüsikaliselt juhtub vabalt langeva vaatlejaga, kes ületab musta augu sündmuste horisondi (eeldades piisavalt suurt musta auku)?",
+    "sourceHash": "c3b54a6067051f97",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Nothing locally unusual — the apparent singularity there is only a coordinate artifact; spacetime is smooth at the horizon, and the observer notices nothing special crossing it.",
+        "et": "Mitte midagi kohalikult ebatavalist — näiline singulaarsus seal on ainult koordinaadiartefakt; aegruum on horisondil sile ja vaatleja ei märka selle ületamisel midagi erilist.",
+        "sourceHash": "4c523a11b952986b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Spacetime curvature genuinely becomes infinite exactly at the horizon, and the observer experiences a real physical catastrophe there.",
+        "et": "Aegruumi kõverus muutub tõeliselt lõpmatuks täpselt horisondil, ning vaatleja kogeb seal tõelist füüsikalist katastroofi.",
+        "sourceHash": "7f0a6d4706718a50",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-schwarzschild-solution-and-black-holes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This can't happen for most masses, since every mass already has its own event horizon regardless of how compact it is.",
+        "et": "See ei saa juhtuda enamiku masside jaoks, kuna igal massil on juba oma sündmuste horisont, olenemata sellest, kui kompaktne see on.",
+        "sourceHash": "d1aaeb61eaf08a59",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-schwarzschild-solution-and-black-holes-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Physics fully and completely explains this event with no remaining open questions about what happens there.",
+        "et": "Füüsika seletab seda sündmust täielikult ja täpselt, ilma allesjäänud lahtiste küsimusteta selle kohta, mis seal toimub.",
+        "sourceHash": "507e6c8ec9dcf804",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-schwarzschild-solution-and-black-holes-m3"
+    }
+  ]
+}

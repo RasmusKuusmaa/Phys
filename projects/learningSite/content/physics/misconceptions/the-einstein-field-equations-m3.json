@@ -1,0 +1,10 @@
+{
+  "id": "the-einstein-field-equations-m3",
+  "conceptId": "the-einstein-field-equations",
+  "text": {
+    "en": "Believing the gravitational fields of two separate masses in general relativity can simply be added together (superposed) the same way Newtonian gravitational fields can — the field equations are nonlinear, so curvature itself contributes to the total curvature, meaning solutions generally cannot be superposed; this nonlinearity is also directly responsible for phenomena like gravitational waves that have no Newtonian analogue.",
+    "et": "Arvamus, et üldrelatiivsusteoorias saab kahe eraldi massi gravitatsiooniväljad lihtsalt kokku liita (superponeerida) samamoodi nagu Newtoni gravitatsioonivälju — väljavõrrandid on mittelineaarsed, nii et kõverus ise panustab kogukõverusse, mis tähendab, et lahendeid üldiselt ei saa superponeerida; see mittelineaarsus vastutab ka otseselt nähtuste eest nagu gravitatsioonilained, millel pole Newtoni analoogi.",
+    "sourceHash": "ea5b28e2b51bc29e",
+    "stale": false
+  }
+}

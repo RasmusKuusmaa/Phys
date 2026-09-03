@@ -1,0 +1,56 @@
+{
+  "id": "gravitational-waves-item1",
+  "conceptId": "gravitational-waves",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a perfectly spherically symmetric pulsating star, expanding and contracting while staying spherical, radiate no gravitational waves at all?",
+    "et": "Miks ei kiirga täiuslikult sfääriliselt sümmeetriline pulseeriv täht, mis paisub ja tõmbub kokku, jäädes sfääriliseks, üldse gravitatsioonilaineid?",
+    "sourceHash": "600f6d4608e60bdb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Gravitational radiation requires a time-varying mass quadrupole moment, and a perfectly spherically symmetric mass distribution has none, however it pulsates.",
+        "et": "Gravitatsioonikiirgus nõuab ajas muutuvat massi kvadrupoolmomenti, ning täiuslikult sfääriliselt sümmeetrilisel massijaotusel seda pole, ükskõik kuidas see pulseerib.",
+        "sourceHash": "310ba2bd4fb90b81",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It actually should radiate gravitational waves the same way an accelerating charge radiates electromagnetic waves, so this scenario is a contradiction.",
+        "et": "See peaks tegelikult kiirgama gravitatsioonilaineid samamoodi nagu kiirendatav laeng kiirgab elektromagnetlaineid, nii et see stsenaarium on vastuolu.",
+        "sourceHash": "61da173f4a509fbf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gravitational-waves-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because our detectors still aren't sensitive enough to catch it, even though it is genuinely radiating.",
+        "et": "Kuna meie detektorid ei ole ikka veel piisavalt tundlikud selle püüdmiseks, kuigi see tõesti kiirgab.",
+        "sourceHash": "1641f30cdcc7a657",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gravitational-waves-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because this kind of event is redundant with what ordinary telescopes already observe, so gravitational-wave detection isn't needed for it anyway.",
+        "et": "Kuna seda tüüpi sündmus on üleliigne sellega, mida tavalised teleskoobid juba vaatlevad, nii et gravitatsioonilaine tuvastamist pole selle jaoks niikuinii vaja.",
+        "sourceHash": "344112705e276876",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gravitational-waves-m3"
+    }
+  ]
+}
