@@ -1,0 +1,56 @@
+{
+  "id": "isotope-separation-techniques-item1",
+  "conceptId": "isotope-separation-techniques",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can't ordinary chemical reactions separate different isotopes of the same element?",
+    "et": "Miks ei suuda tavalised keemilised reaktsioonid eraldada sama elemendi erinevaid isotoope?",
+    "sourceHash": "6ccc882df9d57520",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because chemistry is governed almost entirely by electron number and arrangement, which is identical for every isotope of a given element, making them chemically essentially indistinguishable.",
+        "et": "Sest keemiat juhib peaaegu täielikult elektronide arv ja paigutus, mis on identne antud elemendi iga isotoobi jaoks, muutes need keemiliselt sisuliselt eristamatuks.",
+        "sourceHash": "cf38ded4cd32cbbe",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They actually can -- ordinary chemical filtration is the standard, straightforward method used for essentially all practical isotope separation.",
+        "et": "Nad saavad tegelikult küll -- tavaline keemiline filtreerimine on standardne, lihtne meetod, mida kasutatakse sisuliselt kogu praktilise isotoopide eraldamise jaoks.",
+        "sourceHash": "3c308650b4b42b60",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "isotope-separation-techniques-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the mass difference between isotopes of the same element is actually too large for any separation technique to exploit practically.",
+        "et": "Sest sama elemendi isotoopide vaheline massierinevus on tegelikult liiga suur, et ükski eraldustehnika saaks seda praktiliselt ära kasutada.",
+        "sourceHash": "25c4ceaf5499e8c4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "isotope-separation-techniques-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because laser isotope separation works through a purely thermal heating effect that chemical reactions cannot replicate at any scale.",
+        "et": "Sest laserisotoopide eraldamine töötab puhtalt termilise kuumutamise efekti kaudu, mida keemilised reaktsioonid ei suuda mistahes mastaabis korrata.",
+        "sourceHash": "7dfc120bc88d8da8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "isotope-separation-techniques-m3"
+    }
+  ]
+}

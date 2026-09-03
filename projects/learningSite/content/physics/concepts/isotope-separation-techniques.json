@@ -1,0 +1,22 @@
+{
+  "id": "isotope-separation-techniques",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Isotope separation techniques",
+    "et": "Isotoopide eraldamise tehnikad",
+    "sourceHash": "c08e62e9b9687c65",
+    "stale": false
+  },
+  "summary": {
+    "en": "Different isotopes of the same element are chemically identical, so ordinary chemical separation cannot distinguish them; every practical isotope separation technique instead exploits the small mass difference between isotopes, whether through the difference in how fast lighter and heavier molecules diffuse or move in a centrifuge, or through the tiny difference in atomic energy levels that lets a precisely tuned laser excite one isotope's atoms while leaving others largely untouched, and mastering these techniques at scale is both an essential enabling technology for civilian applications like medical isotopes and nuclear fuel, and the central technical bottleneck in nuclear weapons proliferation.",
+    "et": "Sama elemendi erinevad isotoobid on keemiliselt identsed, seega ei suuda tavaline keemiline eraldamine neid eristada; iga praktiline isotoopide eraldamise tehnika kasutab selle asemel ära isotoopide vahelist väikest massierinevust, olgu see siis erinevuse kaudu selles, kui kiiresti kergemad ja raskemad molekulid difundeeruvad või liiguvad tsentrifuugis, või väikese erinevuse kaudu aatomi energiatasemetes, mis lubab täpselt häälestatud laseril ergastada ühe isotoobi aatomeid, jättes teised suuresti puutumata, ning nende tehnikate valdamine mastaabis on nii oluline tugitehnoloogia tsiviilrakenduste jaoks nagu meditsiinilised isotoobid ja tuumakütus, kui ka keskne tehniline kitsaskoht tuumarelva leviku tõkestamisel.",
+    "sourceHash": "451b4b4d0f673a67",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-fission-and-fusion",
+    "the-maxwell-boltzmann-distribution"
+  ]
+}

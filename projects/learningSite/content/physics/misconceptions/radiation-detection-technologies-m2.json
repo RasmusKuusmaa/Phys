@@ -1,0 +1,10 @@
+{
+  "id": "radiation-detection-technologies-m2",
+  "conceptId": "radiation-detection-technologies",
+  "text": {
+    "en": "Believing all radiation detector technologies are essentially interchangeable, with the choice between them being purely a matter of cost or convenience rather than genuine physical trade-offs -- different detector types genuinely differ in energy resolution (how precisely they can distinguish particles of similar energy), timing resolution, efficiency for different radiation types, and robustness, so the choice of detector technology for a specific application (medical imaging, reactor monitoring, particle physics experiments) reflects real physical trade-offs between these properties, not merely cost or convenience.",
+    "et": "Arvamus, et kõik kiirgusdetektori tehnoloogiad on sisuliselt vahetatavad, kusjuures valik nende vahel on puhtalt kulu või mugavuse küsimus, mitte tõelised füüsikalised kompromissid -- erinevad detektoritüübid erinevad tõeliselt energiaresolutsiooni (kui täpselt suudavad need eristada sarnase energiaga osakesi), ajalise resolutsiooni, erinevate kiirgustüüpide efektiivsuse ja vastupidavuse poolest, seega peegeldab detektoritehnoloogia valik konkreetse rakenduse jaoks (meditsiiniline kuvamine, reaktori jälgimine, osakestefüüsika katsed) tegelikke füüsikalisi kompromisse nende omaduste vahel, mitte lihtsalt kulu või mugavust.",
+    "sourceHash": "fdf2e928361ff1ca",
+    "stale": false
+  }
+}

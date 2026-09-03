@@ -1,0 +1,22 @@
+{
+  "id": "radiation-detection-technologies",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Radiation detection technologies",
+    "et": "Kiirguse tuvastamise tehnoloogiad",
+    "sourceHash": "4e40e817a08d0b53",
+    "stale": false
+  },
+  "summary": {
+    "en": "Detecting ionizing radiation always comes down to converting the energy an incoming particle deposits into some measurable electrical signal, and different detector technologies do this in genuinely different ways: a Geiger-Muller counter uses a gas-filled tube where an ionizing event triggers a runaway avalanche discharge that registers a simple click regardless of the particle's actual energy, a scintillator converts deposited energy into a brief flash of light whose intensity is proportional to that energy, and a semiconductor detector directly converts deposited energy into electron-hole pairs, with the choice between them driven by a genuine trade-off between simplicity, energy resolution, and cost.",
+    "et": "Ioniseeriva kiirguse tuvastamine taandub alati sissetuleva osakese poolt ladestunud energia muundamisele mingiks mõõdetavaks elektriliseks signaaliks, ning erinevad detektoritehnoloogiad teevad seda tõeliselt erinevatel viisidel: Geigeri-Mülleri loendur kasutab gaasiga täidetud toru, kus ioniseeriv sündmus käivitab ohjeldamatu laviinilahenduse, mis registreerib lihtsa klõpsu olenemata osakese tegelikust energiast, stsintillaator muundab ladestunud energia lühikeseks valgussähvatuseks, mille intensiivsus on võrdeline selle energiaga, ning pooljuhtdetektor muundab ladestunud energia otse elektron-auk paarideks, kusjuures valik nende vahel on juhitud tõelisest kompromissist lihtsuse, energiaresolutsiooni ja kulu vahel.",
+    "sourceHash": "97023541e5051426",
+    "stale": false
+  },
+  "prerequisites": [
+    "radioactive-decay-modes",
+    "particle-accelerators-and-detectors"
+  ]
+}

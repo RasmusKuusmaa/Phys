@@ -1,0 +1,33 @@
+Every radiation detector technology ultimately relies on the same basic principle: converting the
+energy an incoming ionizing particle deposits into some measurable electrical signal. How
+different detector types accomplish this conversion, however, differs genuinely, producing real
+trade-offs in what information each technology can actually provide.
+
+A Geiger-Muller counter uses a gas-filled tube with a high voltage applied across it. An ionizing
+particle passing through creates a small number of ion-electron pairs in the gas, and the strong
+electric field accelerates these charges enough to ionize further gas molecules on collision,
+triggering a runaway avalanche discharge that produces a large, easily detected electrical pulse
+— a simple "click" per detected particle. Because this avalanche process is essentially a
+runaway chain reaction once triggered, the resulting pulse size is largely independent of the
+original particle's energy: a Geiger-Muller counter reliably counts how many ionizing events
+occur (a count rate) but provides no direct information about individual particle energies.
+
+A scintillator instead uses a material (certain crystals, plastics, or liquids) that emits a
+brief flash of visible or near-visible light when radiation deposits energy in it, with the
+number of photons produced, and hence the flash's intensity, proportional to the energy deposited.
+Coupling the scintillator to a photodetector (commonly a photomultiplier tube) that converts this
+light flash into an electrical signal proportional to its intensity allows a scintillator-based
+detector to measure not just that a particle arrived, but approximately how much energy it
+deposited, giving it meaningful energy resolution that a simple Geiger-Muller counter lacks.
+
+A semiconductor detector achieves even better energy resolution through a more direct mechanism:
+incoming radiation excites electrons across the semiconductor's band gap as it deposits energy,
+directly creating electron-hole pairs in numbers proportional to the deposited energy (rather than
+indirectly via light production, as in a scintillator), and an applied electric field collects
+these charge carriers to produce a signal whose size closely tracks the deposited energy, typically
+offering superior energy resolution to scintillator-based detectors, though often at greater cost
+and complexity, and sometimes requiring cooling to reduce thermal noise. The choice among these
+(and other) detector technologies for a specific application — medical imaging, nuclear reactor
+monitoring, radiation safety surveys, or particle physics experiments — reflects genuine physical
+trade-offs between energy resolution, timing resolution, detection efficiency for different
+radiation types, robustness, and cost, not a matter of arbitrary preference.

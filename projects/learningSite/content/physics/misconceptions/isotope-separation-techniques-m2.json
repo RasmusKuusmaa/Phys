@@ -1,0 +1,10 @@
+{
+  "id": "isotope-separation-techniques-m2",
+  "conceptId": "isotope-separation-techniques",
+  "text": {
+    "en": "Believing gas centrifuge enrichment works by exploiting a large, easily achieved mass difference between isotopes, making separation straightforward -- the relative mass difference between isotopes of the same heavy element (such as uranium-235 versus uranium-238) is actually very small (roughly one percent for uranium), so a single centrifuge stage achieves only a modest degree of enrichment, and reaching practically useful enrichment levels requires cascading many thousands of centrifuge stages together, a difficult, resource-intensive, technically demanding process rather than a simple or quick one.",
+    "et": "Arvamus, et gaasitsentrifuugi rikastamine töötab, kasutades ära suurt, kergesti saavutatavat massierinevust isotoopide vahel, mis muudab eraldamise lihtsaks -- sama raske elemendi isotoopide vaheline suhteline massierinevus (nagu uraan-235 versus uraan-238) on tegelikult väga väike (uraani jaoks umbes üks protsent), seega saavutab üksik tsentrifuugietapp ainult tagasihoidliku rikastusastme, ning praktiliselt kasuliku rikastustaseme saavutamine nõuab paljude tuhandete tsentrifuugietappide kaskaadis ühendamist, raske, ressursimahukas, tehniliselt nõudlik protsess, mitte lihtne või kiire.",
+    "sourceHash": "1f76bca6308f0765",
+    "stale": false
+  }
+}

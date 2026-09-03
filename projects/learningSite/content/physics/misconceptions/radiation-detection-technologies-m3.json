@@ -1,0 +1,10 @@
+{
+  "id": "radiation-detection-technologies-m3",
+  "conceptId": "radiation-detection-technologies",
+  "text": {
+    "en": "Believing a semiconductor radiation detector works through essentially the same physical mechanism as an ordinary electronic semiconductor device like a transistor, just repurposed for radiation -- while a semiconductor detector does rely on the same underlying band structure physics as other semiconductor electronics, its specific detection mechanism is genuinely distinct: incoming radiation directly creates electron-hole pairs by exciting electrons across the semiconductor's band gap as it deposits energy, and an applied electric field then collects these charge carriers to produce a measurable signal proportional to the deposited energy, a direct energy-to-charge conversion process rather than the switching or amplification behaviour an ordinary transistor exploits.",
+    "et": "Arvamus, et pooljuhtkiirgusdetektor töötab sisuliselt sama füüsikalise mehhanismi kaudu nagu tavaline elektrooniline pooljuhtseade nagu transistor, lihtsalt kiirguse jaoks ümber otstarbestatud -- kuigi pooljuhtdetektor tõepoolest tugineb samale aluseks olevale tsoonistruktuuri füüsikale nagu teised pooljuhtelektroonika seadmed, on selle konkreetne tuvastusmehhanism tõeliselt erinev: sissetulev kiirgus tekitab otse elektron-auk paare, ergastades elektrone üle pooljuhi tsoonilõhe, kui see ladestab energiat, ning rakendatud elektriväli seejärel kogub need laengukandjad, et toota mõõdetav signaal, mis on võrdeline ladestunud energiaga, otsene energia-laenguks muundamise protsess, mitte lülitus- või võimenduskäitumine, mida tavaline transistor ära kasutab.",
+    "sourceHash": "391f5e0265efd639",
+    "stale": false
+  }
+}

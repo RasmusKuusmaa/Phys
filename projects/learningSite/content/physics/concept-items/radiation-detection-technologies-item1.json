@@ -1,0 +1,56 @@
+{
+  "id": "radiation-detection-technologies-item1",
+  "conceptId": "radiation-detection-technologies",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can't a Geiger-Muller counter directly tell you the energy of each individual detected particle?",
+    "et": "Miks ei saa Geigeri-Mülleri loendur otse öelda iga üksiku tuvastatud osakese energiat?",
+    "sourceHash": "017e733797c39f79",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because its avalanche discharge is triggered by any sufficiently ionizing event and produces essentially the same output pulse regardless of the particle's actual energy.",
+        "et": "Sest selle laviinilahenduse käivitab mistahes piisavalt ioniseeriv sündmus ja see toodab sisuliselt sama väljundimpulsi olenemata osakese tegelikust energiast.",
+        "sourceHash": "02d51c099f1c788b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It actually can -- a Geiger-Muller counter's click rate directly and precisely encodes each individual particle's energy, just like a scintillator does.",
+        "et": "See saab tegelikult küll -- Geigeri-Mülleri loenduri klõpsusagedus kodeerib otse ja täpselt iga üksiku osakese energia, täpselt nagu stsintillaator seda teeb.",
+        "sourceHash": "d622a59d5084e097",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radiation-detection-technologies-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because all radiation detector technologies are essentially interchangeable, so the choice of detector never actually affects what information is available.",
+        "et": "Sest kõik kiirgusdetektori tehnoloogiad on sisuliselt vahetatavad, seega ei mõjuta detektori valik kunagi tegelikult, milline info on saadaval.",
+        "sourceHash": "2bd60170b5589e9c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radiation-detection-technologies-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because it works through the same switching mechanism as an ordinary transistor, which also cannot measure individual particle energies.",
+        "et": "Sest see töötab sama lülitusmehhanismi kaudu nagu tavaline transistor, mis samuti ei suuda mõõta üksikute osakeste energiaid.",
+        "sourceHash": "e94e631ce8a184ca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "radiation-detection-technologies-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "isotope-separation-techniques-m3",
+  "conceptId": "isotope-separation-techniques",
+  "text": {
+    "en": "Believing laser isotope separation works by simply heating one isotope more than another with a powerful enough laser, a purely thermal effect -- laser isotope separation techniques instead exploit the fact that different isotopes of the same element have very slightly different atomic (or molecular) energy level spacings, due to the different nuclear mass, so a laser tuned with extreme precision to exactly one isotope's specific absorption energy can selectively excite or ionize that isotope's atoms while leaving other isotopes' atoms largely unaffected, a precise quantum resonance effect rather than a bulk thermal one.",
+    "et": "Arvamus, et laserisotoopide eraldamine töötab, lihtsalt kuumutades üht isotoopi rohkem kui teist piisavalt võimsa laseriga, puhtalt termiline efekt -- laserisotoopide eraldamise tehnikad kasutavad selle asemel ära asjaolu, et sama elemendi erinevatel isotoopidel on erineva tuumamassi tõttu väga veidi erinevad aatomi (või molekuli) energiataseme vahed, seega täpsuse äärmuslikkuseni häälestatud laser täpselt ühe isotoobi konkreetsele neeldumisenergiale saab selektiivselt ergastada või ioniseerida selle isotoobi aatomeid, jättes teiste isotoopide aatomid suuresti mõjutamata, täpne kvantresonantsi efekt, mitte hulgiline termiline efekt.",
+    "sourceHash": "9ebffa2a4ba397cf",
+    "stale": false
+  }
+}

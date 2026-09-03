@@ -1,0 +1,10 @@
+{
+  "id": "radiation-detection-technologies-m1",
+  "conceptId": "radiation-detection-technologies",
+  "text": {
+    "en": "Believing a Geiger-Muller counter's click rate directly tells you the energy of each individual particle detected, the same way a scintillator's signal intensity does -- a Geiger-Muller tube's avalanche discharge is triggered by any sufficiently ionizing event and produces essentially the same output pulse regardless of the incoming particle's actual energy, so it can measure count rate (how many particles arrive per unit time) but provides no direct information about individual particle energies; measuring energy requires a fundamentally different detector technology, such as a scintillator or semiconductor detector, whose signal size scales with deposited energy.",
+    "et": "Arvamus, et Geigeri-Mülleri loenduri klõpsusagedus ütleb otse iga üksiku tuvastatud osakese energia, samamoodi nagu stsintillaatori signaali intensiivsus seda teeb -- Geigeri-Mülleri toru laviinilahenduse käivitab mistahes piisavalt ioniseeriv sündmus ja see toodab sisuliselt sama väljundimpulsi olenemata sissetuleva osakese tegelikust energiast, seega saab see mõõta loendussagedust (kui palju osakesi saabub ajaühiku kohta), kuid ei anna otsest infot üksikute osakeste energiate kohta; energia mõõtmine nõuab fundamentaalselt erinevat detektoritehnoloogiat, nagu stsintillaator või pooljuhtdetektor, mille signaali suurus skaleerub ladestunud energiaga.",
+    "sourceHash": "8975f4e7a1c095a5",
+    "stale": false
+  }
+}
