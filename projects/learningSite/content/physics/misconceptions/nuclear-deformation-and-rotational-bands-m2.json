@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-deformation-and-rotational-bands-m2",
+  "conceptId": "nuclear-deformation-and-rotational-bands",
+  "text": {
+    "en": "Believing a spherical nucleus can rotate the same way a deformed nucleus does, producing the same kind of rotational excited-state band -- a genuinely spherical quantum system has no distinguishable orientation to rotate into, since rotating it produces an identical, indistinguishable state, so collective rotation as a meaningful, energy-costing excitation only makes sense for a deformed nucleus, which does have a distinguishable orientation of its long axis; rotational bands are therefore a direct experimental signature of nuclear deformation, absent entirely in spherical, closed-shell nuclei.",
+    "et": "Arvamus, et sfääriline tuum saab pöörelda samamoodi nagu deformeerunud tuum, tekitades sama tüüpi pöörlemise ergastatud olekute riba -- tõeliselt sfäärilisel kvantsüsteemil pole eristatavat orientatsiooni, millesse pöörelda, kuna selle pööramine annab identse, eristamatu oleku, seega on kollektiivne pöörlemine mõtestatud, energiat nõudva ergastusena mõistlik ainult deformeerunud tuuma jaoks, millel on tõepoolest eristatav oma pika telje orientatsioon; pöörlemisribad on seega otsene eksperimentaalne signatuur tuuma deformatsioonist, täielikult puuduvad sfäärilistes, kinnise kihiga tuumades.",
+    "sourceHash": "c6f6aef3725c922e",
+    "stale": false
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "the-r-process-and-s-process-nucleosynthesis-pathways-item1",
+  "conceptId": "the-r-process-and-s-process-nucleosynthesis-pathways",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What actually distinguishes the r-process from the s-process, given both build heavy elements through neutron capture?",
+    "et": "Mis tegelikult eristab r-protsessi s-protsessist, arvestades, et mõlemad ehitavad raskeid elemente neutroni püüdmise kaudu?",
+    "sourceHash": "94b3df6f59a2e896",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The relative rate of neutron capture versus beta decay: the r-process captures far faster than beta decay can respond, driving nuclei deep into neutron-rich territory, while the s-process proceeds slowly enough to stay near the valley of stability.",
+        "et": "Neutroni püüdmise suhteline kiirus versus beetalagunemine: r-protsess püüab palju kiiremini, kui beetalagunemine suudab reageerida, viies tuumad sügavale neutronirikkasse territooriumisse, samal ajal kui s-protsess kulgeb piisavalt aeglaselt, et jääda stabiilsuse oru lähedale.",
+        "sourceHash": "96db444d58e1d383",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing physically real -- they're simply two different names given to exactly the same neutron-capture mechanism based on which star it happens to occur in.",
+        "et": "Mitte midagi füüsikaliselt reaalset -- need on lihtsalt kaks erinevat nime, mis on antud täpselt samale neutroni püüdmise mehhanismile, olenevalt sellest, millises tähes see juhtub toimuma.",
+        "sourceHash": "d8f3631f32683179",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-r-process-and-s-process-nucleosynthesis-pathways-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The r-process occurs gradually inside ordinary stars just like the s-process, with no real difference in environment or neutron flux.",
+        "et": "R-protsess toimub järkjärgult tavaliste tähtede sees täpselt nagu s-protsess, ilma tegeliku erinevuseta keskkonnas või neutronivoos.",
+        "sourceHash": "5fc247f41b8131fa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-r-process-and-s-process-nucleosynthesis-pathways-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both processes are actually just ordinary nuclear fusion, distinguished only by which specific heavy element is being produced.",
+        "et": "Mõlemad protsessid on tegelikult lihtsalt tavaline tuumasüntees, eristatuna ainult selle poolest, millist konkreetset rasket elementi toodetakse.",
+        "sourceHash": "ff0d1ae2bae67c1e",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

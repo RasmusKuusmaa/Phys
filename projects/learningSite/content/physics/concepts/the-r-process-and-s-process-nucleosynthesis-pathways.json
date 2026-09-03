@@ -1,0 +1,22 @@
+{
+  "id": "the-r-process-and-s-process-nucleosynthesis-pathways",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "The r-process and s-process nucleosynthesis pathways",
+    "et": "R-protsessi ja s-protsessi nukleosünteesirajad",
+    "sourceHash": "6d67a251153e9021",
+    "stale": false
+  },
+  "summary": {
+    "en": "Elements heavier than iron cannot be built up by ordinary fusion, which stops releasing energy past iron's binding-energy peak, so they are instead built almost entirely through successive neutron captures onto lighter seed nuclei; the s-process (slow) proceeds gradually enough for unstable nuclei to beta-decay back toward the valley of stability between captures, following a path that hugs known stable isotopes, while the r-process (rapid) captures neutrons far faster than beta decay can respond, driving nuclei deep into extremely neutron-rich, unstable territory before eventually decaying back toward stability, and it is specifically the r-process, occurring in explosive, neutron-dense environments like neutron star mergers, that is responsible for roughly half of all elements heavier than iron, including essentially all of the heaviest ones.",
+    "et": "Rauast raskemaid elemente ei saa tavaline süntees üles ehitada, kuna see lakkab energiat vabastamast pärast raua seoseenergia tippu, seega ehitatakse need selle asemel peaaegu täielikult üles järjestikuste neutroni püüdmiste kaudu kergematele seemnetuumadele; s-protsess (aeglane) kulgeb piisavalt aeglaselt, et ebastabiilsed tuumad saaksid püüdmiste vahel beetalaguneda tagasi stabiilsuse oru poole, järgides rada, mis liibub teadaolevatele stabiilsetele isotoopidele, samal ajal kui r-protsess (kiire) püüab neutroneid palju kiiremini, kui beetalagunemine suudab reageerida, viies tuumad sügavale äärmiselt neutronirikkasse, ebastabiilsesse territooriumisse, enne kui need lõpuks tagasi stabiilsuse poole lagunevad, ning just spetsiifiliselt r-protsess, mis toimub plahvatuslikes, neutronitihedates keskkondades nagu neutrontähtede ühinemised, vastutab umbes poolte kõigi rauast raskemate elementide, sealhulgas sisuliselt kõigi kõige raskemate elementide eest.",
+    "sourceHash": "2e3027bffc5d79f8",
+    "stale": false
+  },
+  "prerequisites": [
+    "stellar-nucleosynthesis-and-fusion-chains",
+    "beta-decay-theory-and-the-weak-interaction"
+  ]
+}

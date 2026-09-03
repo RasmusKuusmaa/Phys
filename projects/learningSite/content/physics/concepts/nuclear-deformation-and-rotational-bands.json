@@ -1,0 +1,22 @@
+{
+  "id": "nuclear-deformation-and-rotational-bands",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Nuclear deformation and rotational bands",
+    "et": "Tuuma deformatsioon ja pöörlemisribad",
+    "sourceHash": "78634334dd35df9a",
+    "stale": false
+  },
+  "summary": {
+    "en": "Far from closed-shell 'magic numbers,' many nuclei are not spherical at all but permanently deformed into an elongated or flattened shape, and a deformed nucleus, unlike a spherical one, can rotate as a rigid body around an axis perpendicular to its symmetry axis, producing a sequence of excited states -- a rotational band -- with energies following a simple, characteristic pattern set by the nucleus's moment of inertia, giving nuclear structure physicists a direct experimental window into a nucleus's actual collective shape.",
+    "et": "Kaugel kinnise kihi 'maagilistest arvudest' ei ole paljud tuumad üldse sfäärilised, vaid on jäädavalt deformeerunud piklikuks või lamedaks kujuks, ning deformeerunud tuum, erinevalt sfäärilisest, saab pöörelda jäiga kehana ümber telje, mis on risti selle sümmeetriateljega, tekitades ergastatud olekute jada -- pöörlemisriba --, mille energiad järgivad lihtsat, iseloomulikku mustrit, mille määrab tuuma inertsimoment, andes tuumastruktuuri füüsikutele otsese eksperimentaalse akna tuuma tegelikku kollektiivsesse kujusse.",
+    "sourceHash": "22c3ff20dcab0c84",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-shell-model-spin-and-parity",
+    "liquid-drop-model-and-the-semi-empirical-mass-formula"
+  ]
+}

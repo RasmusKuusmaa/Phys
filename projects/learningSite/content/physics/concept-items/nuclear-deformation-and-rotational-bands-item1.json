@@ -1,0 +1,56 @@
+{
+  "id": "nuclear-deformation-and-rotational-bands-item1",
+  "conceptId": "nuclear-deformation-and-rotational-bands",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do rotational excited-state bands appear specifically in deformed nuclei rather than in spherical, closed-shell nuclei?",
+    "et": "Miks ilmuvad pöörlemise ergastatud olekute ribad spetsiifiliselt deformeerunud tuumades, mitte sfäärilistes, kinnise kihiga tuumades?",
+    "sourceHash": "1246668cbc0b3b34",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because a spherical system has no distinguishable orientation to rotate into (rotating it gives an identical state), while a deformed nucleus has a distinguishable long-axis orientation that costs energy to rotate.",
+        "et": "Sest sfäärilisel süsteemil pole eristatavat orientatsiooni, millesse pöörelda (selle pööramine annab identse oleku), samal ajal kui deformeerunud tuumal on eristatav pika telje orientatsioon, mille pööramine nõuab energiat.",
+        "sourceHash": "e2cff946059f4399",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because every atomic nucleus is actually spherical by default, so rotational bands are simply a measurement artifact.",
+        "et": "Sest iga aatomituum on tegelikult vaikimisi sfääriline, mistõttu pöörlemisribad on lihtsalt mõõtmisartefakt.",
+        "sourceHash": "7c6fdacf8df5f22c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-deformation-and-rotational-bands-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because spherical nuclei rotate identically to deformed ones, producing exactly the same rotational band pattern.",
+        "et": "Sest sfäärilised tuumad pöörlevad identselt deformeerunud tuumadega, tekitades täpselt sama pöörlemisriba mustri.",
+        "sourceHash": "4dc5c429098a7639",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-deformation-and-rotational-bands-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the energy spacing within a rotational band is essentially random, unrelated to whether the nucleus is deformed or spherical.",
+        "et": "Sest pöörlemisriba sisene energiavahemik on sisuliselt juhuslik, seosetu sellega, kas tuum on deformeerunud või sfääriline.",
+        "sourceHash": "f79ddbd09fd383ae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-deformation-and-rotational-bands-m3"
+    }
+  ]
+}

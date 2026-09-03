@@ -1,0 +1,10 @@
+{
+  "id": "the-r-process-and-s-process-nucleosynthesis-pathways-m2",
+  "conceptId": "the-r-process-and-s-process-nucleosynthesis-pathways",
+  "text": {
+    "en": "Believing the s-process and r-process are just two names for the same underlying neutron-capture mechanism, distinguished only by which stars they happen to occur in -- the two processes are genuinely, physically distinct based on the relative rate of neutron capture compared to beta decay: the s-process proceeds slowly enough for an unstable nucleus to beta-decay back toward stability between successive captures, following a path that hugs the valley of stable isotopes, while the r-process captures neutrons far faster than beta decay can respond, driving nuclei deep into extremely neutron-rich, highly unstable territory before any beta decay occurs, a qualitatively different nuclear pathway producing a different, only partially overlapping set of heavy isotopes.",
+    "et": "Arvamus, et s-protsess ja r-protsess on lihtsalt kaks nime samale aluseks olevale neutroni püüdmise mehhanismile, eristatuna ainult selle poolest, millistes tähtedes need juhtuvad toimuma -- kaks protsessi on tõeliselt, füüsikaliselt erinevad, põhinedes neutroni püüdmise suhtelisel kiirusel võrreldes beetalagunemisega: s-protsess kulgeb piisavalt aeglaselt, et ebastabiilne tuum saaks järjestikuste püüdmiste vahel beetalaguneda tagasi stabiilsuse poole, järgides rada, mis liibub stabiilsete isotoopide orgu, samal ajal kui r-protsess püüab neutroneid palju kiiremini, kui beetalagunemine suudab reageerida, viies tuumad sügavale äärmiselt neutronirikkasse, väga ebastabiilsesse territooriumisse enne mistahes beetalagunemise toimumist, kvalitatiivselt erinevast tuumarajast, mis toodab erineva, ainult osaliselt kattuva raskete isotoopide hulga.",
+    "sourceHash": "b17a48b312dded77",
+    "stale": false
+  }
+}

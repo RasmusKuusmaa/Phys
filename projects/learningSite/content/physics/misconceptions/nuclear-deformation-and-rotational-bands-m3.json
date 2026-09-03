@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-deformation-and-rotational-bands-m3",
+  "conceptId": "nuclear-deformation-and-rotational-bands",
+  "text": {
+    "en": "Believing the energies of the excited states within a rotational band are essentially random or unpredictable from state to state -- the energies of successive states within a rotational band instead follow a simple, characteristic pattern derived from treating the nucleus as a rigid quantum rotor, with energy proportional to angular momentum squared (scaled by the nucleus's moment of inertia), making a rotational band's energy spacing pattern directly measurable and directly diagnostic of the nucleus's actual moment of inertia and hence its degree of deformation.",
+    "et": "Arvamus, et pöörlemisriba sees olevate ergastatud olekute energiad on sisuliselt juhuslikud või ennustamatud olekult olekule -- pöörlemisriba sees olevate järjestikuste olekute energiad järgivad selle asemel lihtsat, iseloomulikku mustrit, mis on tuletatud tuuma käsitlemisest jäiga kvantrootorina, energiaga, mis on võrdeline impulsimomendi ruuduga (skaleerituna tuuma inertsimomendiga), mis teeb pöörlemisriba energiavahede mustri otseselt mõõdetavaks ja otseselt diagnostiliseks tuuma tegeliku inertsimomendi ja seega selle deformatsiooniastme jaoks.",
+    "sourceHash": "92b371fcd45944ed",
+    "stale": false
+  }
+}
