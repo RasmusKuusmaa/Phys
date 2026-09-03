@@ -74,14 +74,14 @@ git log --oneline | grep '^content: add '   # concepts already landed this phase
 - [x] Second quantization and Fock space (bridge to QFT)
 - [x] The Klein-Gordon and Dirac equations (relativistic QM)
 
-## Phase M4 — Statistical mechanics (existing: partition function through critical phenomena)
+## Phase M4 — Statistical mechanics (existing: partition function through critical phenomena) — done
 
-- [ ] The grand canonical ensemble and grand partition function
-- [ ] The Ising model and mean-field theory
-- [ ] The renormalization group (conceptual: why critical exponents are universal)
-- [ ] Bose-Einstein condensation
-- [ ] The fluctuation-dissipation theorem
-- [ ] The Boltzmann transport equation (bridge to solid-state transport)
+- [x] The grand canonical ensemble and grand partition function
+- [x] The Ising model and mean-field theory
+- [x] The renormalization group (conceptual: why critical exponents are universal)
+- [x] Bose-Einstein condensation
+- [x] The fluctuation-dissipation theorem
+- [x] The Boltzmann transport equation (bridge to solid-state transport)
 
 ## Phase M5 — Solid-state physics (existing: band theory through quantum confinement)
 
