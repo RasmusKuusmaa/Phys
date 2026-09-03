@@ -1,0 +1,10 @@
+{
+  "id": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics-m1",
+  "conceptId": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics",
+  "text": {
+    "en": "Believing each thermodynamic flux (heat current, electric current, particle diffusion) can only be driven by its own single, matching thermodynamic force, with no cross-coupling between different kinds of flow -- real transport near equilibrium generally involves genuine cross-coupling: a temperature gradient can drive an electric current (the Seebeck effect) and an electric current can drive a heat current (the Peltier effect) in the same material, and diffusion can likewise be driven partly by a temperature gradient (thermodiffusion) rather than only by its own concentration gradient; these cross-terms are not exotic exceptions but a routine feature any complete linear-response description must include.",
+    "et": "Arvamus, et iga termodünaamilist voogu (soojusvool, elektrivool, osakeste difusioon) saab juhtida ainult tema enda üksik, vastav termodünaamiline jõud, ilma ristsidumiseta erinevate vooluliikide vahel -- reaalne ülekanne tasakaalu lähedal hõlmab üldiselt tõelist ristsidumist: temperatuurigradient võib juhtida elektrivoolu (Seebecki efekt) ja elektrivool võib juhtida soojusvoolu (Peltier' efekt) samas materjalis, ning difusiooni võib samuti osaliselt juhtida temperatuurigradient (termodifusioon), mitte ainult tema enda kontsentratsioonigradient; need ristliikmed ei ole eksootilised erandid, vaid rutiinne omadus, mida iga täielik lineaarse vastuse kirjeldus peab sisaldama.",
+    "sourceHash": "999fefebc1696c2e",
+    "stale": false
+  }
+}

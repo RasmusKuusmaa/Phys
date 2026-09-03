@@ -1,0 +1,56 @@
+{
+  "id": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics-item1",
+  "conceptId": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is the Onsager reciprocal relation (the symmetry of cross-coupling transport coefficients) considered a genuinely significant physical result, rather than an obvious mathematical fact about linear systems?",
+    "et": "Miks peetakse Onsageri vastastikust seost (ristsidumise ülekandekoefitsientide sümmeetria) tõeliselt oluliseks füüsikaliseks tulemuseks, mitte ilmseks matemaatiliseks faktiks lineaarsete süsteemide kohta?",
+    "sourceHash": "f4724264e8a8bf85",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Ordinary linear algebra permits fully general, non-symmetric coefficient matrices, so the symmetry is a specific physical consequence of microscopic time-reversal symmetry and detailed balance, not a mathematical given.",
+        "et": "Tavaline lineaaralgebra lubab täiesti üldisi, mittesümmeetrilisi koefitsientide maatrikseid, seega on sümmeetria spetsiifiline füüsikaline tagajärg mikroskoopilisest ajapöörduvuse sümmeetriast ja detailbilansist, mitte matemaatiline antus.",
+        "sourceHash": "c5b5392b73c092b6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Every matrix describing a linear system of coupled equations must automatically be symmetric as a basic consequence of linear algebra alone.",
+        "et": "Iga maatriks, mis kirjeldab lineaarset seotud võrrandite süsteemi, peab automaatselt olema sümmeetriline lineaaralgebra enda põhilise tagajärjena.",
+        "sourceHash": "fe8333053b4263df",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is actually just an empirical regularity, confirmed only for the specific materials it has been tested on, without any general theoretical derivation behind it.",
+        "et": "See on tegelikult lihtsalt empiiriline seaduspärasus, mis on kinnitatud ainult nende konkreetsete materjalide jaoks, mille peal seda on testitud, ilma üldise teoreetilise tuletuseta selle taga.",
+        "sourceHash": "443391ae8a3e5133",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It only applies to systems with no cross-coupling between different fluxes and forces at all, so it is a narrow special case rather than a general principle.",
+        "et": "See kehtib ainult süsteemide jaoks, millel puudub üldse ristsidumine erinevate voogude ja jõudude vahel, seega on see kitsas erijuht, mitte üldine printsiip.",
+        "sourceHash": "8abb5d7991d52a63",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics-m1"
+    }
+  ]
+}

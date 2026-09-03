@@ -1,0 +1,22 @@
+{
+  "id": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics",
+  "subject": "physics",
+  "level": "L4",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "Onsager reciprocal relations and linear non-equilibrium thermodynamics",
+    "et": "Onsageri vastastikused seosed ja lineaarne mittetasakaaluline termodünaamika",
+    "sourceHash": "2420a28c449fdeb6",
+    "stale": false
+  },
+  "summary": {
+    "en": "A system displaced only slightly from equilibrium relaxes back through a set of coupled linear-response relations, in which each thermodynamic flux (a heat current, an electric current, a diffusive particle flow) can be driven not only by its own natural thermodynamic force (a temperature gradient, a voltage, a concentration gradient) but also, through genuine cross-coupling, by every other force present -- a thermal gradient driving an electric current (the Seebeck effect) and an electric current driving a heat current (the Peltier effect) being the two most familiar examples of the exact same underlying cross-coupling -- and Lars Onsager proved in 1931, from nothing more than the time-reversal symmetry of the underlying microscopic dynamics and detailed balance, that the matrix of cross-coupling coefficients relating any two such flux-force pairs must be exactly symmetric, a genuinely non-obvious, experimentally verified microscopic constraint on macroscopic transport coefficients that earned Onsager the Nobel Prize and now underlies the entire framework of linear irreversible thermodynamics.",
+    "et": "Süsteem, mis on tasakaalust ainult veidi nihutatud, lõõgastub tagasi läbi seotud lineaarse vastuse seoste komplekti, milles iga termodünaamilist voogu (soojusvool, elektrivool, difusioonne osakeste vool) võib juhtida mitte ainult tema enda loomulik termodünaamiline jõud (temperatuurigradient, pinge, kontsentratsioonigradient), vaid ka, tõelise ristsidumise kaudu, iga teine kohalolev jõud -- soojusgradient, mis juhib elektrivoolu (Seebecki efekt), ja elektrivool, mis juhib soojusvoolu (Peltier' efekt), olles kaks kõige tuntumat näidet täpselt samast aluseks olevast ristsidumisest --, ning Lars Onsager tõestas 1931. aastal, tuginedes mitte millelegi enamale kui aluseks oleva mikroskoopilise dünaamika ajapöörduvuse sümmeetriale ja detailbilansile, et mistahes kahte sellist voog-jõud paari seostava ristsidumise koefitsientide maatriks peab olema täpselt sümmeetriline, tõeliselt mitte-ilmne, eksperimentaalselt kinnitatud mikroskoopiline piirang makroskoopilistele ülekandekoefitsientidele, mis tõi Onsagerile Nobeli auhinna ja on nüüd aluseks kogu lineaarse pöördumatu termodünaamika raamistikule.",
+    "sourceHash": "e3c4d120fea8bd66",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-fluctuation-dissipation-theorem",
+    "the-boltzmann-transport-equation"
+  ]
+}

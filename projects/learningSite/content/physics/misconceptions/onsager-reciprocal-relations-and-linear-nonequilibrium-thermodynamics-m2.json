@@ -1,0 +1,10 @@
+{
+  "id": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics-m2",
+  "conceptId": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics",
+  "text": {
+    "en": "Believing the Onsager reciprocal relations are simply an empirical pattern noticed in specific measured transport coefficients, true only for the particular materials where it happens to have been checked -- Onsager's result is instead a general theorem, derived from nothing more than the time-reversal symmetry of the microscopic equations of motion together with the principle of detailed balance in a system near equilibrium; it applies to the cross-coupling coefficients of any system satisfying these general conditions, which is precisely why it was significant enough to be recognized with a Nobel Prize rather than being a narrow empirical curve-fit specific to one experiment.",
+    "et": "Arvamus, et Onsageri vastastikused seosed on lihtsalt empiiriline muster, mis on märgatud konkreetsetes mõõdetud ülekandekoefitsientides, tõsi ainult nende konkreetsete materjalide jaoks, kus seda juhtub olevat kontrollitud -- Onsageri tulemus on selle asemel üldine teoreem, tuletatud mitte millestki enamast kui mikroskoopiliste liikumisvõrrandite ajapöörduvuse sümmeetriast koos detailbilansi printsiibiga tasakaalu lähedal olevas süsteemis; see kehtib mistahes süsteemi ristsidumise koefitsientide jaoks, mis rahuldab neid üldisi tingimusi, mis ongi täpselt põhjus, miks see oli piisavalt oluline, et pälvida Nobeli auhind, mitte olla kitsas empiiriline sobitus, mis on spetsiifiline ühele eksperimendile.",
+    "sourceHash": "ca4d000cc529b08e",
+    "stale": false
+  }
+}

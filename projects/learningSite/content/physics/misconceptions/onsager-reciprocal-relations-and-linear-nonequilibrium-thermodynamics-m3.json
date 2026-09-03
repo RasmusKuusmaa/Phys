@@ -1,0 +1,10 @@
+{
+  "id": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics-m3",
+  "conceptId": "onsager-reciprocal-relations-and-linear-nonequilibrium-thermodynamics",
+  "text": {
+    "en": "Believing the symmetry Onsager proved is a trivial or obvious mathematical bookkeeping fact, true automatically for any linear system of equations -- there is no general mathematical reason a matrix of cross-coupling response coefficients relating different physical fluxes and forces should be symmetric; ordinary linear algebra permits completely general, non-symmetric coefficient matrices, so the fact that these specific transport coefficients are exactly symmetric is a genuine, non-obvious physical constraint that follows only from microscopic time-reversal symmetry and detailed balance, not from linearity alone, which is exactly why it required a real physical proof rather than being a mathematical triviality.",
+    "et": "Arvamus, et sümmeetria, mille Onsager tõestas, on triviaalne või ilmne matemaatiline raamatupidamisfakt, mis kehtib automaatselt mistahes lineaarse võrrandite süsteemi jaoks -- ei ole üldist matemaatilist põhjust, miks erinevaid füüsikalisi voogusid ja jõude seostav ristsidumise vastusekoefitsientide maatriks peaks olema sümmeetriline; tavaline lineaaralgebra lubab täiesti üldisi, mittesümmeetrilisi koefitsientide maatrikseid, seega on fakt, et need konkreetsed ülekandekoefitsiendid on täpselt sümmeetrilised, tõeline, mitte-ilmne füüsikaline piirang, mis järgneb ainult mikroskoopilisest ajapöörduvuse sümmeetriast ja detailbilansist, mitte üksnes lineaarsusest, mis ongi täpselt põhjus, miks see nõudis tõelist füüsikalist tõestust, mitte olemast matemaatiline triviaalsus.",
+    "sourceHash": "49ba3914bf638715",
+    "stale": false
+  }
+}
