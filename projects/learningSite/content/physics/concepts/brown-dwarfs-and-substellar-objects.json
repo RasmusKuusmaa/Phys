@@ -1,0 +1,22 @@
+{
+  "id": "brown-dwarfs-and-substellar-objects",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Brown dwarfs and substellar objects",
+    "et": "Pruunid kääbused ja allttähelised objektid",
+    "sourceHash": "1fd61b0dd264a2f0",
+    "stale": false
+  },
+  "summary": {
+    "en": "A collapsing cloud fragment that ends up with too little mass -- below roughly seventy-five times the mass of Jupiter -- never reaches a core temperature and density high enough to sustain ordinary hydrogen fusion, the defining nuclear reaction that powers every true star, so it becomes a brown dwarf instead: an object supported in its final state not by that fusion but by electron degeneracy pressure, the same quantum-mechanical effect that supports white dwarfs, which is why, unlike true stars, brown dwarfs cool and dim steadily over billions of years with no internal energy source ever replenishing the heat they radiate away, occupying a genuine physical middle ground between the lightest true stars (which do sustain hydrogen fusion) and the heaviest planets (which never had enough mass to fuse even the easier-to-ignite isotope deuterium).",
+    "et": "Varisev pilvekild, mis lõpetab liiga väikese massiga -- allpool umbes seitsekümmend viis Jupiteri massi --, ei jõua kunagi tuuma temperatuuri ja tiheduseni, mis on piisavalt kõrge, et säilitada tavalist vesiniku tuumasünteesi, määravat tuumareaktsiooni, mis toidab iga tõelist tähte, seega saab sellest hoopis pruun kääbus: objekt, mida toetab tema lõplikus seisundis mitte see süntees, vaid elektronide degeneratsioonirõhk, sama kvantmehaaniline efekt, mis toetab valgeid kääbustähti, mis ongi põhjus, miks pruunid kääbused, erinevalt tõelistest tähtedest, jahtuvad ja tuhmuvad ühtlaselt miljardite aastate jooksul, ilma et sisemine energiaallikas kunagi täiendaks soojust, mida nad ära kiirgavad, hõivates tõelise füüsikalise vahepealse ala kõige kergemate tõeliste tähtede (mis säilitavad vesiniku sünteesi) ja kõige raskemate planeetide (millel polnud kunagi piisavalt massi, et sulatada isegi kergemini süttivat isotoopi deuteeriumi) vahel.",
+    "sourceHash": "50d9f496973ab7a6",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-initial-mass-function-and-stellar-populations",
+    "star-formation-and-the-jeans-instability"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "brown-dwarfs-and-substellar-objects-m3",
+  "conceptId": "brown-dwarfs-and-substellar-objects",
+  "text": {
+    "en": "Believing brown dwarfs and massive planets like Jupiter are fundamentally the same kind of object, differing only in size along one continuous spectrum -- while the two categories share broad similarities in bulk composition, the mass ranges are set by genuinely different physical thresholds: a giant planet never fuses even the easiest-to-ignite isotope, deuterium, having formed with far too little mass and typically via core accretion within a protoplanetary disk rather than direct cloud collapse, whereas a brown dwarf is specifically massive enough to briefly fuse deuterium (though not ordinary hydrogen) and generally forms the same way stars do, directly from the collapse and fragmentation of a molecular cloud; the boundary between the two categories is a genuine, physically motivated distinction, not an arbitrary point on one otherwise uniform continuum.",
+    "et": "Arvamus, et pruunid kääbused ja massiivsed planeedid nagu Jupiter on fundamentaalselt sama liiki objektid, erinedes ainult suuruse poolest ühel pideval spektril -- kuigi kaks kategooriat jagavad laiu sarnasusi üldkoostises, on massivahemikud määratud tõeliselt erinevate füüsikaliste lävendite poolt: hiidplaneet ei sulata kunagi isegi kergemini süttivat isotoopi deuteeriumi, olles tekkinud liiga väikese massiga ja tüüpiliselt tuumaakretsiooni kaudu protoplanetaarses kettas, mitte otsese pilvekollapsi kaudu, samal ajal kui pruun kääbus on spetsiifiliselt piisavalt massiivne, et põgusalt sulatada deuteeriumi (kuigi mitte tavalist vesinikku) ja tekib üldiselt samamoodi nagu tähed, otse molekulaarpilve kollapsist ja killustumisest; piir kahe kategooria vahel on tõeline, füüsikaliselt motiveeritud eristus, mitte suvaline punkt ühel muidu ühtlasel kontiinumil.",
+    "sourceHash": "79bee7f63d75cc51",
+    "stale": false
+  }
+}

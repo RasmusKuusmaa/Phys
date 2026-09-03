@@ -1,0 +1,56 @@
+{
+  "id": "brown-dwarfs-and-substellar-objects-item1",
+  "conceptId": "brown-dwarfs-and-substellar-objects",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a brown dwarf's luminosity steadily decrease over billions of years, unlike a true hydrogen-fusing star, which shines at a roughly constant luminosity for most of its life?",
+    "et": "Miks väheneb pruuni kääbuse heledus ühtlaselt miljardite aastate jooksul, erinevalt tõelisest vesinikku sünteesivast tähest, mis särab suurema osa oma elust ligikaudu konstantse heledusega?",
+    "sourceHash": "10fe3aa9967cc714",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It never sustains hydrogen fusion, so it simply radiates away leftover formation heat with no internal source replenishing it, cooling continuously.",
+        "et": "See ei säilita kunagi vesiniku sünteesi, seega kiirgab see lihtsalt ära ülejäänud tekkesoojuse, ilma et sisemine allikas seda täiendaks, jahtudes pidevalt.",
+        "sourceHash": "0b9a3bef0515eeb7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is simply a small, dim star that happens to fuse hydrogen much more slowly than larger stars do, gradually running out of fuel.",
+        "et": "See on lihtsalt väike, tuhm täht, mis juhtub sulatama vesinikku palju aeglasemalt kui suuremad tähed, ammendades järk-järgult oma kütuse.",
+        "sourceHash": "54a78819d34cea6e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "brown-dwarfs-and-substellar-objects-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Its ongoing deuterium fusion produces steadily less energy over time as the deuterium supply itself continuously replenishes at a slower rate.",
+        "et": "Selle käimasolev deuteeriumi süntees toodab aja jooksul järjest vähem energiat, kuna deuteeriumi varu ise täieneb pidevalt aeglasemal kiirusel.",
+        "sourceHash": "e2f0893b3b5d91bb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "brown-dwarfs-and-substellar-objects-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is fundamentally the same kind of object as a giant planet like Jupiter, and its dimming simply reflects ordinary planetary cooling with no distinct physics involved.",
+        "et": "See on fundamentaalselt sama liiki objekt kui hiidplaneet Jupiter, ja selle tuhmumine peegeldab lihtsalt tavalist planetaarset jahtumist ilma eristuva füüsikata.",
+        "sourceHash": "7a7717aad1aef162",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "brown-dwarfs-and-substellar-objects-m3"
+    }
+  ]
+}
