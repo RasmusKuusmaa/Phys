@@ -1,0 +1,22 @@
+{
+  "id": "the-joule-thomson-effect",
+  "subject": "physics",
+  "level": "L4",
+  "module": "thermodynamics",
+  "title": {
+    "en": "The Joule-Thomson effect",
+    "et": "Joule'i-Thomsoni efekt",
+    "sourceHash": "a715d474e117ea3e",
+    "stale": false
+  },
+  "summary": {
+    "en": "Forcing a real gas through a valve or porous plug from high pressure to low pressure without any heat exchange or work extraction -- a throttling process -- changes the gas's temperature, cooling most gases under typical conditions but actually heating some, an effect that would not occur at all for an ideal gas, since it depends entirely on the intermolecular forces real gas molecules exert on each other, and it is precisely this cooling effect, exploited repeatedly in a cascade, that underlies most industrial gas liquefaction processes, including the production of liquid nitrogen, liquid oxygen, and liquefied natural gas.",
+    "et": "Reaalse gaasi sundimine läbi klapi või poorse korgi kõrgest rõhust madalasse rõhku ilma mistahes soojusvahetuse või töö eraldamiseta -- kägistamisprotsess -- muudab gaasi temperatuuri, jahutades enamikku gaase tüüpilistes tingimustes, kuid tegelikult kuumutades mõningaid, efekt, mida ideaalse gaasi jaoks üldse ei toimuks, kuna see sõltub täielikult molekulidevahelistest jõududest, mida reaalse gaasi molekulid üksteisele avaldavad, ning just see jahutusefekt, mida korduvalt kasutatakse kaskaadis, on aluseks enamikule tööstuslikele gaasi veeldamise protsessidele, sealhulgas vedela lämmastiku, vedela hapniku ja veeldatud maagaasi tootmisele.",
+    "sourceHash": "633466862f648b71",
+    "stale": false
+  },
+  "prerequisites": [
+    "real-gases-and-the-van-der-waals-equation",
+    "internal-energy-and-the-first-law"
+  ]
+}

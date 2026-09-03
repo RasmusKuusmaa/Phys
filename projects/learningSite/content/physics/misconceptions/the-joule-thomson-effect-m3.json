@@ -1,0 +1,10 @@
+{
+  "id": "the-joule-thomson-effect-m3",
+  "conceptId": "the-joule-thomson-effect",
+  "text": {
+    "en": "Believing the Joule-Thomson cooling effect is only a minor laboratory curiosity with no significant practical or industrial application -- the effect, applied repeatedly in a cascade (successive stages of compression, cooling, and throttling), is the working principle behind most industrial gas liquefaction processes, including the large-scale production of liquid nitrogen and liquid oxygen (used throughout industry and medicine) and liquefied natural gas (a major global energy transport method), making it one of thermodynamics' most economically significant practical applications rather than a narrow academic footnote.",
+    "et": "Arvamus, et Joule'i-Thomsoni jahutusefekt on ainult väike laborikuriosum ilma olulise praktilise või tööstusliku rakenduseta -- efekt, rakendatuna korduvalt kaskaadis (järjestikused kokkusurumise, jahutuse ja kägistamise etapid), on tööpõhimõte enamiku tööstuslike gaasi veeldamise protsesside taga, sealhulgas vedela lämmastiku ja vedela hapniku suuremahulise tootmise taga (kasutatakse kogu tööstuses ja meditsiinis) ning veeldatud maagaasi taga (suur globaalne energia transpordimeetod), mis teeb sellest ühe termodünaamika kõige majanduslikult olulisema praktilise rakenduse, mitte kitsa akadeemilise joonealuse märkuse.",
+    "sourceHash": "0d13ae1401082181",
+    "stale": false
+  }
+}

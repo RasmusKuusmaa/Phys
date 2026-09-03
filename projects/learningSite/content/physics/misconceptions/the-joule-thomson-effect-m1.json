@@ -1,0 +1,10 @@
+{
+  "id": "the-joule-thomson-effect-m1",
+  "conceptId": "the-joule-thomson-effect",
+  "text": {
+    "en": "Believing the Joule-Thomson effect should occur for an ideal gas the same way it does for a real gas, just perhaps with a smaller magnitude -- an ideal gas, by definition, has no intermolecular forces between its constituent molecules, and the Joule-Thomson effect's temperature change depends entirely on the work done against (or aided by) those intermolecular forces as the gas expands, so an ideal gas undergoing this same throttling process shows exactly zero temperature change, not merely a smaller one; the effect is a genuinely real-gas phenomenon with no ideal-gas counterpart at any magnitude.",
+    "et": "Arvamus, et Joule'i-Thomsoni efekt peaks toimuma ideaalse gaasi jaoks samamoodi nagu see toimub reaalse gaasi jaoks, lihtsalt võib-olla väiksema suurusega -- ideaalsel gaasil ei ole definitsiooni järgi molekulidevahelisi jõude selle koostisosaks olevate molekulide vahel, ning Joule'i-Thomsoni efekti temperatuurimuutus sõltub täielikult tööst, mis tehakse nende molekulidevaheliste jõudude vastu (või nende abiga), kui gaas paisub, seega näitab ideaalne gaas, mis läbib sama kägistamisprotsessi, täpselt nullist erineva temperatuurimuutuse, mitte lihtsalt väiksema; efekt on tõeliselt reaalse gaasi nähtus ilma ideaalse gaasi vasteta mistahes suuruses.",
+    "sourceHash": "b5de1c699da2f37a",
+    "stale": false
+  }
+}

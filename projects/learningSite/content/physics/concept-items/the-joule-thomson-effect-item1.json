@@ -1,0 +1,55 @@
+{
+  "id": "the-joule-thomson-effect-item1",
+  "conceptId": "the-joule-thomson-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the Joule-Thomson effect not occur at all for an ideal gas, rather than just occurring with a smaller magnitude?",
+    "et": "Miks ei toimu Joule'i-Thomsoni efekt ideaalse gaasi jaoks üldse, mitte lihtsalt väiksema suurusega?",
+    "sourceHash": "06b20119c7846a20",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because an ideal gas has no intermolecular forces, and the effect's temperature change depends entirely on work done against those forces during expansion.",
+        "et": "Sest ideaalsel gaasil pole molekulidevahelisi jõude, ning efekti temperatuurimuutus sõltub täielikult tööst, mis tehakse nende jõudude vastu paisumise ajal.",
+        "sourceHash": "716f8a920cbd6b57",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't actually differ -- every real gas always cools upon throttling regardless of temperature, the same as an ideal gas would if the effect applied to it.",
+        "et": "See tegelikult ei erine -- iga reaalne gaas jahtub kägistamisel alati olenemata temperatuurist, samamoodi nagu ideaalne gaas teeks, kui efekt sellele kehtiks.",
+        "sourceHash": "da466574ad75ada3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-joule-thomson-effect-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the effect is only a minor laboratory curiosity, so its absence in an ideal gas has no real theoretical significance.",
+        "et": "Sest efekt on ainult väike laborikuriosum, seega ei ole selle puudumisel ideaalses gaasis tõelist teoreetilist tähendust.",
+        "sourceHash": "42acc7ae0c14c4a4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-joule-thomson-effect-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't actually differ -- an ideal gas shows exactly the same Joule-Thomson cooling as any real gas would under identical conditions.",
+        "et": "See tegelikult ei erine -- ideaalne gaas näitab täpselt sama Joule'i-Thomsoni jahtumist, mida iga reaalne gaas näitaks identsetes tingimustes.",
+        "sourceHash": "971a9c59f4b3fe2f",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

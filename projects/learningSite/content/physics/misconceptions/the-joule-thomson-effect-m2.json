@@ -1,0 +1,10 @@
+{
+  "id": "the-joule-thomson-effect-m2",
+  "conceptId": "the-joule-thomson-effect",
+  "text": {
+    "en": "Believing every real gas always cools when throttled through the Joule-Thomson effect, regardless of the starting temperature -- whether a specific real gas cools or heats upon throttling actually depends on its temperature relative to a characteristic value called the inversion temperature: below its inversion temperature a gas cools upon throttling (the ordinary, more commonly encountered case for gases like nitrogen and oxygen near room temperature), but above its inversion temperature the same gas actually heats up upon throttling, which is exactly why hydrogen and helium, whose inversion temperatures are far below room temperature, must first be pre-cooled by other means before Joule-Thomson throttling can be used to cool them further.",
+    "et": "Arvamus, et iga reaalne gaas jahtub alati Joule'i-Thomsoni efekti kaudu kägistamisel, olenemata algtemperatuurist -- kas konkreetne reaalne gaas jahtub või kuumeneb kägistamisel, sõltub tegelikult selle temperatuurist suhtes iseloomuliku väärtusega, mida nimetatakse inversioonitemperatuuriks: allpool oma inversioonitemperatuuri jahtub gaas kägistamisel (tavaline, sagedamini esinev juhtum gaaside nagu lämmastik ja hapnik jaoks toatemperatuuri lähedal), kuid üleval pool oma inversioonitemperatuuri kuumeneb sama gaas tegelikult kägistamisel, mis on täpselt põhjus, miks vesinikku ja heeliumit, mille inversioonitemperatuurid on palju madalamad kui toatemperatuur, tuleb esmalt teiste vahenditega eelnevalt jahutada, enne kui Joule'i-Thomsoni kägistamist saab kasutada nende edasiseks jahutamiseks.",
+    "sourceHash": "142d417b085568df",
+    "stale": false
+  }
+}
