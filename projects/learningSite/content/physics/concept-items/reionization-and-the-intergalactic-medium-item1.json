@@ -1,0 +1,55 @@
+{
+  "id": "reionization-and-the-intergalactic-medium-item1",
+  "conceptId": "reionization-and-the-intergalactic-medium",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the key physical difference between recombination and reionization, even though both involve hydrogen changing its ionization state?",
+    "et": "Mis on peamine füüsikaline erinevus rekombinatsiooni ja reioniseerumise vahel, kuigi mõlemad hõlmavad vesiniku ionisatsiooniseisundi muutumist?",
+    "sourceHash": "590cdf49d89a410c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Recombination was a smooth, near-instantaneous cooling transition of the whole universe, while reionization was a gradual, patchy process driven by localized radiation from the first stars and galaxies.",
+        "et": "Rekombinatsioon oli kogu universumi ühtlane, peaaegu hetkeline jahtumisüleminek, samal ajal kui reioniseerumine oli järkjärguline ja laiguline protsess, mida juhtis esimeste tähtede ja galaktikate lokaalne kiirgus.",
+        "sourceHash": "f693a037322c2037",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are simply two different names historically used for the exact same single event at the exact same cosmic time.",
+        "et": "Need on lihtsalt kaks erinevat nime, mida ajalooliselt kasutatakse täpselt sama üksiku sündmuse jaoks täpselt samal kosmilisel ajal.",
+        "sourceHash": "2fd9feb3cb6df0a3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reionization-and-the-intergalactic-medium-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Recombination ionized the gas, while reionization is simply the process of the same gas becoming neutral again shortly afterward.",
+        "et": "Rekombinatsioon ioniseeris gaasi, samal ajal kui reioniseerumine on lihtsalt protsess, mille käigus sama gaas muutub veidi hiljem uuesti neutraalseks.",
+        "sourceHash": "2f26bde87c9160fe",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Reionization happened everywhere in the universe at one single simultaneous instant, unlike recombination which proceeded gradually region by region.",
+        "et": "Reioniseerumine toimus kogu universumis ühel ainsal samaaegsel hetkel, erinevalt rekombinatsioonist, mis kulges järk-järgult piirkond piirkonna haaval.",
+        "sourceHash": "97c71271bd3e4ac8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reionization-and-the-intergalactic-medium-m3"
+    }
+  ]
+}

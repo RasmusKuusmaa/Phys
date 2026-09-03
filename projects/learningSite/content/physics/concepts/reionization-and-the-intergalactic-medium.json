@@ -1,0 +1,22 @@
+{
+  "id": "reionization-and-the-intergalactic-medium",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Reionization and the intergalactic medium",
+    "et": "Reioniseerumine ja galaktikatevaheline aine",
+    "sourceHash": "61a5519c02c4b04e",
+    "stale": false
+  },
+  "summary": {
+    "en": "After recombination let the cosmic microwave background's photons finally travel freely, the universe's ordinary matter was almost entirely cold, neutral hydrogen gas, and it stayed that way through the cosmic dark ages until the first stars and galaxies switched on and began flooding the surrounding intergalactic medium with enough ultraviolet radiation to strip the electron back off nearly every hydrogen atom for a second time, a gradual, patchy process called reionization that, unlike recombination, was driven by newly-formed astrophysical light sources rather than the smooth cooling of the expanding universe itself, and that astronomers now trace observationally through the absorption signature this once-neutral gas leaves in the spectra of the most distant known quasars.",
+    "et": "Pärast rekombinatsiooni, mis lubas kosmilise mikrolainetausta footonitel lõpuks vabalt liikuda, oli universumi tavaline aine peaaegu täielikult külm, neutraalne vesinikgaas, ning see püsis sellisena läbi kosmiliste pimedate ajastute, kuni esimesed tähed ja galaktikad lülitusid sisse ning hakkasid ümbritsevat galaktikatevahelist ainet üle ujutama piisava ultraviolettkiirgusega, et rebida elektron peaaegu igalt vesinikuaatomilt teist korda ära, järkjärguline ja laiguline protsess nimega reioniseerumine, mida, erinevalt rekombinatsioonist, juhtisid äsja tekkinud astrofüüsikalised valgusallikad, mitte paisuva universumi enda ühtlane jahtumine, ning mida astronoomid jälgivad tänapäeval vaatluslikult läbi absorptsioonijälje, mille see kunagine neutraalne gaas jätab kõige kaugemate teadaolevate kvasarite spektritesse.",
+    "sourceHash": "e610ec9f017983d5",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-cosmic-microwave-background-and-recombination",
+    "galaxy-formation-and-morphology"
+  ]
+}
