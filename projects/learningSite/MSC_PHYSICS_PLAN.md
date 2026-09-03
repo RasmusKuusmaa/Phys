@@ -170,19 +170,19 @@ Real MSc/early-PhD topics extending past the taught-MSc bar the rest of this
 plan targets. See `QUESTIONS.md` § Proceeding into "Stretch" scope — started
 without being asked, flagged there.
 
-- [ ] Path integral quantization of fields (upgrading the existing
+- [x] Path integral quantization of fields (upgrading the existing
       conceptual `the-path-integral-formulation` QM concept to full QFT:
       generating functionals, Feynman rules from the path integral)
-- [ ] The renormalization group and renormalization in QFT in depth (beyond
+- [x] The renormalization group and renormalization in QFT in depth (beyond
       the existing statistical-mechanics RG concept's critical-exponents
       framing — divergences, regularization, running couplings)
-- [ ] The Standard Model Lagrangian, term by term (conceptual walkthrough
+- [x] The Standard Model Lagrangian, term by term (conceptual walkthrough
       tying together the existing gauge-symmetry/QED/QCD/electroweak
       concepts into one explicit Lagrangian)
-- [ ] The Friedmann equations derived from the Einstein field equations
+- [x] The Friedmann equations derived from the Einstein field equations
       (upgrading `general-relativity-and-cosmological-models`'s
       observational framing with the actual GR derivation)
-- [ ] Topological insulators and topological band theory
-- [ ] The fractional quantum Hall effect and anyons
+- [x] Topological insulators and topological band theory
+- [x] The fractional quantum Hall effect and anyons
 
 ---
