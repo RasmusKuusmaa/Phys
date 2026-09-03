@@ -1,0 +1,10 @@
+{
+  "id": "fission-product-yields-and-decay-chains-m3",
+  "conceptId": "fission-product-yields-and-decay-chains",
+  "text": {
+    "en": "Believing all the radioactivity in spent nuclear fuel comes from remaining, unfissioned uranium or plutonium rather than from the fission products themselves -- while some radioactivity does come from remaining actinides and their decay chains, the specific, medically and environmentally significant isotopes that dominate the radioactivity and long-term hazard of spent fuel and reactor accidents are overwhelmingly fission products and their decay-chain daughters, such as iodine-131 (short-lived but biologically concentrated in the thyroid), caesium-137, and strontium-90 (both with multi-decade half-lives and significant biological uptake), making fission product yields and decay chains directly relevant to nuclear safety and waste management, not just abstract nuclear structure.",
+    "et": "Arvamus, et kogu kasutatud tuumakütuse radioaktiivsus tuleb allesjäänud, lõhustumata uraanist või plutooniumist, mitte lõhustumisproduktidest endist -- kuigi osa radioaktiivsust tuleb tõepoolest allesjäänud aktiniididest ja nende lagunemisahelatest, on spetsiifilised, meditsiiniliselt ja keskkonnaalaselt olulised isotoobid, mis domineerivad kasutatud kütuse ja reaktoriõnnetuste radioaktiivsuse ja pikaajalise ohu üle, valdavalt lõhustumisproduktid ja nende lagunemisahela tütred, nagu jood-131 (lühiealine, kuid bioloogiliselt kilpnäärmes kontsentreeritud), tseesium-137 ja strontsium-90 (mõlemad mitmekümneaastase poolestusaja ja olulise bioloogilise omastamisega), mis teeb lõhustumisproduktide saagised ja lagunemisahelad otseselt asjakohaseks tuumaohutuse ja jäätmekäitluse jaoks, mitte lihtsalt abstraktseks tuumastruktuuriks.",
+    "sourceHash": "8245abda2bfe4b5a",
+    "stale": false
+  }
+}

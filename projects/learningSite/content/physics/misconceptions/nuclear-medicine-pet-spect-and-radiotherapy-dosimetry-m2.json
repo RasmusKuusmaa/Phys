@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry-m2",
+  "conceptId": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry",
+  "text": {
+    "en": "Believing radiotherapy simply delivers radiation to a tumour with no meaningful ability to spare the surrounding healthy tissue, so all radiation exposure to nearby normal tissue is unavoidable and equally damaging -- modern radiotherapy techniques exploit precise dosimetry, beam shaping, and the ability to deliver multiple beams from different angles that overlap only at the target, concentrating the damaging dose at the tumour while keeping the dose delivered to any single path of healthy tissue comparatively low, deliberately engineering the spatial dose distribution rather than simply irradiating the whole region uniformly.",
+    "et": "Arvamus, et kiiritusravi lihtsalt manustab kiirgust kasvajale ilma mistahes tähendusliku võimeta säästa ümbritsevat tervet kudet, seega on igasugune lähedase terve koe kiirgusega kokkupuude vältimatu ja võrdselt kahjustav -- tänapäevased kiiritusravitehnikad kasutavad ära täpset dosimeetriat, kiire kujundamist ja võimet manustada mitut kiirt erinevatest nurkadest, mis kattuvad ainult sihtmärgil, koondades kahjustava doosi kasvajale, hoides samal ajal mistahes üksiku terve koe raja manustatud doosi võrdlemisi madalana, tahtlikult kujundades ruumilist doosijaotust, mitte lihtsalt kiiritades kogu piirkonda ühtlaselt.",
+    "sourceHash": "e8744c81a2fdf8cd",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry-m3",
+  "conceptId": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry",
+  "text": {
+    "en": "Believing dosimetry is a simple, secondary bookkeeping detail rather than a core, safety-critical part of both nuclear medicine imaging and radiotherapy -- accurately calculating the actual radiation dose absorbed by specific tissues (accounting for the radiation type, the tracer or beam's energy and activity, and the tissue's own absorption properties) is essential both for keeping diagnostic imaging doses to patients as low as reasonably achievable and for calculating a radiotherapy treatment plan precisely enough to destroy the target tissue while staying below the damage threshold for critical surrounding organs, making dosimetry a central, quantitatively demanding discipline rather than an afterthought.",
+    "et": "Arvamus, et dosimeetria on lihtne, teisejärguline raamatupidamislik üksikasi, mitte tuumameditsiini kuvamise ja kiiritusravi keskne, ohutuse jaoks kriitiline osa -- spetsiifiliste kudede poolt tegelikult neeldunud kiirgusdoosi täpne arvutamine (arvestades kiirguse tüüpi, märgistaja või kiire energiat ja aktiivsust ning koe enda neeldumisomadusi) on oluline nii selleks, et hoida diagnostiliste kuvamisdooside patsientidele nii madalad, kui mõistlikult saavutatav, kui ka kiiritusravi raviplaani arvutamiseks piisavalt täpselt, et hävitada sihtkude, jäädes samas allapoole läheduses olevate kriitiliste elundite kahjustusläve, mis teeb dosimeetriast kesksel, kvantitatiivselt nõudliku distsipliini, mitte järelmõtte.",
+    "sourceHash": "a2bffebc9a547902",
+    "stale": false
+  }
+}

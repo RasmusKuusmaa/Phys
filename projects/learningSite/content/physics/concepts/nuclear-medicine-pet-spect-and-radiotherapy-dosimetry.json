@@ -1,0 +1,22 @@
+{
+  "id": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Nuclear medicine: PET, SPECT, and radiotherapy dosimetry",
+    "et": "Tuumameditsiin: PET, SPECT ja kiiritusravi dosimeetria",
+    "sourceHash": "3726db0895b52da7",
+    "stale": false
+  },
+  "summary": {
+    "en": "Nuclear medicine exploits radioactive decay in two fundamentally different directions: diagnostic imaging techniques like PET and SPECT introduce a small, carefully chosen radioactive tracer into the body and detect the specific radiation it emits from outside to build a functional image of where the tracer accumulated, while radiotherapy deliberately delivers a precisely calculated, damaging dose of radiation to destroy targeted tissue such as a tumour while sparing surrounding healthy tissue as much as possible, and both applications depend critically on dosimetry -- the quantitative science of calculating exactly how much radiation energy is actually absorbed where.",
+    "et": "Tuumameditsiin kasutab radioaktiivset lagunemist kahes fundamentaalselt erinevas suunas: diagnostilised kuvamistehnikad nagu PET ja SPECT sisestavad kehasse väikese, hoolikalt valitud radioaktiivse märgistaja ja tuvastavad väljastpoolt selle kiiratud spetsiifilise kiirguse, et ehitada funktsionaalne kujutis sellest, kuhu märgistaja kogunes, samal ajal kui kiiritusravi manustab tahtlikult täpselt arvutatud, kahjustava kiirgusdoosi, et hävitada sihitud kude, näiteks kasvaja, säästes samal ajal ümbritsevat tervet kude võimalikult palju, ning mõlemad rakendused sõltuvad kriitiliselt dosimeetriast -- kvantitatiivsest teadusest, mis arvutab täpselt, kui palju kiirgusenergiat tegelikult kuhu neeldub.",
+    "sourceHash": "ad232b1b83e9c851",
+    "stale": false
+  },
+  "prerequisites": [
+    "radioactive-decay-modes",
+    "nuclear-reaction-cross-sections-and-the-compound-nucleus-model"
+  ]
+}

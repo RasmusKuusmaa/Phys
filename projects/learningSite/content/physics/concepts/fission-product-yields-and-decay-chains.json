@@ -1,0 +1,22 @@
+{
+  "id": "fission-product-yields-and-decay-chains",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Fission product yields and decay chains",
+    "et": "Lõhustumisproduktide saagised ja lagunemisahelad",
+    "sourceHash": "4bd946ac819ed69f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Nuclear fission does not split a heavy nucleus into two exactly equal halves; the distribution of fragment masses actually produced -- the fission yield curve -- is strongly asymmetric, sharply peaked around two characteristic mass groups rather than centred on a single symmetric split, and because every fission fragment is far too neutron-rich to be stable, each one works its way back toward the valley of stability through a chain of successive beta decays, producing the specific, long-lived radioactive isotopes (like iodine-131, caesium-137, and strontium-90) that actually dominate a reactor's spent-fuel radioactivity and its associated long-term waste-management challenge.",
+    "et": "Tuumalõhustumine ei lõhusta rasket tuuma kaheks täpselt võrdseks pooleks; tegelikult tekkinud fragmentide masside jaotus -- lõhustumise saagisekõver -- on tugevalt asümmeetriline, teravalt tipnenud kahe iseloomuliku massirühma ümber, mitte tsentreeritud ühele sümmeetrilisele jaotusele, ning kuna iga lõhustumisfragment on liiga neutronirikas, et olla stabiilne, töötab iga üks end tagasi stabiilsuse oru poole järjestikuste beetalagunemiste ahela kaudu, tekitades spetsiifilised, pikaealised radioaktiivsed isotoobid (nagu jood-131, tseesium-137 ja strontsium-90), mis tegelikult domineerivad reaktori kasutatud kütuse radioaktiivsuse ja sellega seotud pikaajalise jäätmekäitluse väljakutse üle.",
+    "sourceHash": "03c792cdd6cb304b",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-fission-and-fusion",
+    "fission-reactor-physics"
+  ]
+}

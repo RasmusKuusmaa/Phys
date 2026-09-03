@@ -1,0 +1,10 @@
+{
+  "id": "fission-product-yields-and-decay-chains-m1",
+  "conceptId": "fission-product-yields-and-decay-chains",
+  "text": {
+    "en": "Believing nuclear fission always splits a heavy nucleus into two exactly equal-mass fragments, a perfectly symmetric split -- the actual distribution of fragment masses (the fission yield curve) for common fissile isotopes like uranium-235 is strongly asymmetric, with a double-humped shape sharply peaked around two characteristic, unequal mass groups (roughly one light and one heavy fragment group) rather than a single peak at the symmetric half-and-half split, a genuine nuclear structure effect rather than the naive expectation.",
+    "et": "Arvamus, et tuumalõhustumine lõhustab raske tuuma alati kaheks täpselt võrdse massiga fragmendiks, täiuslikult sümmeetriliseks jaotuseks -- fragmentide masside tegelik jaotus (lõhustumise saagisekõver) levinud lõhustuvate isotoopide, nagu uraan-235, jaoks on tugevalt asümmeetriline, kahe küüruga kujuga, mis on teravalt tipnenud kahe iseloomuliku, ebavõrdse massirühma ümber (ligikaudu üks kerge ja üks raske fragmendirühm), mitte üksik tipp sümmeetrilisel pooleks jaotusel, tõeline tuumastruktuuri efekt, mitte naiivne ootus.",
+    "sourceHash": "ed340a1fca84a6e5",
+    "stale": false
+  }
+}

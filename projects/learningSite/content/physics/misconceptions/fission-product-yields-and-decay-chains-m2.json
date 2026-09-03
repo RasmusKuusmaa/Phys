@@ -1,0 +1,10 @@
+{
+  "id": "fission-product-yields-and-decay-chains-m2",
+  "conceptId": "fission-product-yields-and-decay-chains",
+  "text": {
+    "en": "Believing a fission fragment, once produced, is already a stable, final nuclear species -- every fission fragment is produced far too neutron-rich to be stable, since fissile heavy nuclei have a higher neutron-to-proton ratio than the stable nuclei found around the fragments' mass region, so each fragment undergoes a chain of successive beta decays (each converting a neutron to a proton) working its way back toward the valley of stability, often passing through several distinct radioactive isotopes before reaching a genuinely stable final nuclide.",
+    "et": "Arvamus, et lõhustumisfragment on, kord tekkinuna, juba stabiilne, lõplik tuumaliik -- iga lõhustumisfragment tekib liiga neutronirikkana, et olla stabiilne, kuna lõhustuvatel rasketel tuumadel on kõrgem neutroni-prootoni suhe kui fragmentide massipiirkonna ümber leiduvatel stabiilsetel tuumadel, seega läbib iga fragment järjestikuste beetalagunemiste ahela (millest igaüks muudab neutroni prootoniks), töötades end tagasi stabiilsuse oru poole, sageli läbides mitu erinevat radioaktiivset isotoopi enne tõeliselt stabiilse lõppnukliidini jõudmist.",
+    "sourceHash": "453d71b3c2e3f3f7",
+    "stale": false
+  }
+}

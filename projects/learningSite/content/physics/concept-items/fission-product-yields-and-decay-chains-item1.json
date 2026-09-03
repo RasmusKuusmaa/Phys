@@ -1,0 +1,56 @@
+{
+  "id": "fission-product-yields-and-decay-chains-item1",
+  "conceptId": "fission-product-yields-and-decay-chains",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does nuclear fission produce two characteristic, unequal fragment mass groups rather than splitting symmetrically in half?",
+    "et": "Miks tekitab tuumalõhustumine kaks iseloomulikku, ebavõrdset fragmendi massirühma, mitte ei jagune sümmeetriliselt pooleks?",
+    "sourceHash": "3065ecbd7a91ba94",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the fission yield curve is genuinely asymmetric due to nuclear structure effects, sharply peaked around two characteristic unequal mass groups rather than a single symmetric peak.",
+        "et": "Sest lõhustumise saagisekõver on tuumastruktuuri efektide tõttu tõeliselt asümmeetriline, teravalt tipnenud kahe iseloomuliku ebavõrdse massirühma ümber, mitte üksik sümmeetriline tipp.",
+        "sourceHash": "e65dd079bb7243b7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't -- fission always produces two exactly equal-mass fragments, a perfectly symmetric split every time.",
+        "et": "Ei tekitagi -- lõhustumine toodab alati kaks täpselt võrdse massiga fragmenti, täiuslikult sümmeetrilise jaotuse iga kord.",
+        "sourceHash": "448c114a526a4037",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fission-product-yields-and-decay-chains-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because each fission fragment is already a stable final nuclide immediately upon production, with no further nuclear changes occurring.",
+        "et": "Sest iga lõhustumisfragment on juba stabiilne lõplik nukliid kohe pärast tootmist, ilma edasiste tuumamuutusteta.",
+        "sourceHash": "7482856173e67461",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fission-product-yields-and-decay-chains-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because all spent fuel radioactivity comes from remaining unfissioned uranium, making the fragment mass distribution physically irrelevant.",
+        "et": "Sest kogu kasutatud kütuse radioaktiivsus tuleb allesjäänud lõhustumata uraanist, mis muudab fragmendi massijaotuse füüsikaliselt tähtsusetuks.",
+        "sourceHash": "70460e3727bf8765",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fission-product-yields-and-decay-chains-m3"
+    }
+  ]
+}

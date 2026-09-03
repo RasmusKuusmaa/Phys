@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry-m1",
+  "conceptId": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry",
+  "text": {
+    "en": "Believing PET and SPECT imaging both work through exactly the same physical detection mechanism, just using different equipment -- the two techniques rely on genuinely different physics: PET uses tracers that emit positrons, which nearly immediately annihilate with a nearby electron to produce two gamma rays travelling in almost exactly opposite directions, detected in coincidence to reconstruct the annihilation point, while SPECT uses tracers that directly emit a single gamma ray, detected using a physical collimator to determine the direction it came from, a fundamentally different and generally less precise localization method.",
+    "et": "Arvamus, et PET ja SPECT kuvamine töötavad mõlemad täpselt sama füüsikalise tuvastusmehhanismi kaudu, kasutades ainult erinevat varustust -- kaks tehnikat tuginevad tõeliselt erinevale füüsikale: PET kasutab märgistajaid, mis kiirgavad positrone, mis peaaegu koheselt annihileeruvad lähedase elektroniga, tekitades kaks gammakiirt, mis liiguvad peaaegu täpselt vastassuundades, tuvastatuna koinstsidentsis annihilatsioonipunkti rekonstrueerimiseks, samal ajal kui SPECT kasutab märgistajaid, mis kiirgavad otse ühe gammakiire, tuvastatuna füüsikalise kollimaatori abil, et määrata suund, kust see tuli, fundamentaalselt erinevast ja üldiselt vähem täpsest lokaliseerimismeetodist.",
+    "sourceHash": "2c6c90ed0f454534",
+    "stale": false
+  }
+}

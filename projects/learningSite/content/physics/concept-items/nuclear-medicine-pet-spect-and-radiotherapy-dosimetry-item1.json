@@ -1,0 +1,56 @@
+{
+  "id": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry-item1",
+  "conceptId": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does PET imaging require detecting two gamma rays in coincidence, unlike SPECT's single-gamma-ray detection?",
+    "et": "Miks nõuab PET-kuvamine kahe gammakiire koinstsidentses tuvastamist, erinevalt SPECT-i üksiku gammakiire tuvastamisest?",
+    "sourceHash": "334007c2546be4a8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because PET tracers emit positrons that annihilate with a nearby electron, producing two gamma rays in nearly opposite directions, whose coincident detection reconstructs the annihilation point.",
+        "et": "Sest PET-i märgistajad kiirgavad positrone, mis annihileeruvad lähedase elektroniga, tekitades kaks gammakiirt peaaegu vastassuundades, mille koinstsidentne tuvastamine rekonstrueerib annihilatsioonipunkti.",
+        "sourceHash": "c8699c68faa50bd2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because PET and SPECT actually use exactly the same detection mechanism, and the difference is purely a naming convention with no physical basis.",
+        "et": "Sest PET ja SPECT kasutavad tegelikult täpselt sama tuvastusmehhanismi, ning erinevus on puhtalt nimetamise küsimus ilma füüsikalise aluseta.",
+        "sourceHash": "8e029f17209b1962",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because radiotherapy cannot meaningfully spare healthy tissue, so PET must compensate by using two independent detection channels.",
+        "et": "Sest kiiritusravi ei suuda tähenduslikult säästa tervet kudet, mistõttu PET peab kompenseerima kahe sõltumatu tuvastuskanali kasutamisega.",
+        "sourceHash": "1356e01aa4eb5871",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because dosimetry is a secondary bookkeeping detail, and using two gamma rays instead of one is simply a historical convention with no physical necessity.",
+        "et": "Sest dosimeetria on teisejärguline raamatupidamislik üksikasi, ning kahe gammakiire kasutamine ühe asemel on lihtsalt ajalooline tava ilma füüsikalise vajaduseta.",
+        "sourceHash": "8f59bd6a850acaa3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-medicine-pet-spect-and-radiotherapy-dosimetry-m3"
+    }
+  ]
+}
