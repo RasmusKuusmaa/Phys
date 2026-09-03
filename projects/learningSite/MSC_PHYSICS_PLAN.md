@@ -62,14 +62,14 @@ git log --oneline | grep '^content: add '   # concepts already landed this phase
 
 ## Phase M3 — Quantum mechanics (existing: postulates through perturbation theory, spin, hydrogen atom)
 
-- [ ] Addition of angular momentum and Clebsch-Gordan coefficients
-- [ ] Identical particles and the symmetrization postulate (bosons vs.
+- [x] Addition of angular momentum and Clebsch-Gordan coefficients
+- [x] Identical particles and the symmetrization postulate (bosons vs.
       fermions as a wavefunction symmetry, distinct from the existing
       Pauli-exclusion concept)
-- [ ] The WKB approximation
-- [ ] Scattering theory: the Born approximation and cross-sections
-- [ ] Partial wave analysis and phase shifts
-- [ ] Density matrices and mixed states
+- [x] The WKB approximation
+- [x] Scattering theory: the Born approximation and cross-sections
+- [x] Partial wave analysis and phase shifts
+- [x] Density matrices and mixed states
 - [ ] The path integral formulation (Feynman's approach, conceptual)
 - [ ] Second quantization and Fock space (bridge to QFT)
 - [ ] The Klein-Gordon and Dirac equations (relativistic QM)
