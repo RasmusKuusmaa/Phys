@@ -332,10 +332,19 @@ cycle, next up is a nuclear-physics gap sweep (Phase N4), then a genuine-gap
 sweep of the rest of physics, before moving to mathematics, chemistry and
 materials-science per the user's explicit ordering.
 
-## Phase N4 — Nuclear physics, round 4 (after Phase A3/A4; existing: 26
+## Phase N4 — Nuclear physics, round 4 (after Phase A3/A4; existing: 25
 ## nuclear-physics concepts across Phases N-N3)
 
-- [ ] (to be scoped after surveying the existing 26 nuclear-physics concepts
-      for genuine remaining gaps, same method as Phases N2/N3)
+Surveyed all 25 existing nuclear-physics concepts. Exotic/light nuclei (halo
+nuclei near the drip lines), collective photoexcitation (the giant dipole
+resonance), pairing correlations (nuclear superfluidity, distinct from the
+solid-state BCS concept), and exotic decay modes beyond alpha/beta/gamma
+(cluster and proton radioactivity) are genuine, standard-textbook gaps not
+covered by the existing set.
+
+- [ ] Halo nuclei and the neutron/proton drip lines
+- [ ] The giant dipole resonance and photonuclear reactions
+- [ ] Nuclear pairing and superfluidity
+- [ ] Cluster radioactivity and proton emission
 
 ---
