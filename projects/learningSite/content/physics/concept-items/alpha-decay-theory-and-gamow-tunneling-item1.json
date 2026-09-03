@@ -1,0 +1,56 @@
+{
+  "id": "alpha-decay-theory-and-gamow-tunneling-item1",
+  "conceptId": "alpha-decay-theory-and-gamow-tunneling",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do observed alpha-decay half-lives vary by roughly thirty orders of magnitude for only a modest range of alpha particle energies?",
+    "et": "Miks varieeruvad vaadeldud alfalagunemise poolestusajad umbes kolmekümne suurusjärgu ulatuses ainult tagasihoidliku alfaosakeste energiavahemiku jaoks?",
+    "sourceHash": "c1a4799f03a329a1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the tunneling probability depends exponentially on the barrier's height and width relative to the alpha particle's energy, so modest energy differences produce astronomically different probabilities.",
+        "et": "Sest tunneleerumise tõenäosus sõltub eksponentsiaalselt barjääri kõrgusest ja laiusest suhtes alfaosakese energiaga, seega tekitavad mõõdukad energiaerinevused astronoomiliselt erinevaid tõenäosusi.",
+        "sourceHash": "ea4740a59dad28ac",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because an alpha particle escapes classically whenever it has enough kinetic energy, so half-life differences simply track kinetic energy differences linearly.",
+        "et": "Sest alfaosake pageb klassikaliselt alati, kui sellel on piisavalt kineetilist energiat, seega jälgivad poolestusaegade erinevused lihtsalt kineetilise energia erinevusi lineaarselt.",
+        "sourceHash": "cc60dee77c7b2982",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "alpha-decay-theory-and-gamow-tunneling-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They don't actually vary that much -- alpha-decay half-lives are roughly similar across different nuclei, since they share the same basic mechanism.",
+        "et": "Need tegelikult nii palju ei varieeru -- alfalagunemise poolestusajad on eri tuumade lõikes suhteliselt sarnased, kuna neil on sama põhiline mehhanism.",
+        "sourceHash": "35e032262c4d2921",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "alpha-decay-theory-and-gamow-tunneling-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because Gamow's tunneling explanation was only a minor, incremental application of quantum mechanics with no real quantitative predictive power.",
+        "et": "Sest Gamow' tunneleerumise seletus oli ainult väike, järkjärguline kvantmehaanika rakendus ilma tegeliku kvantitatiivse ennustusvõimeta.",
+        "sourceHash": "e493c733c10d3065",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "alpha-decay-theory-and-gamow-tunneling-m3"
+    }
+  ]
+}

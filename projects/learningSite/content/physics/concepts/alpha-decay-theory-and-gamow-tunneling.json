@@ -1,0 +1,22 @@
+{
+  "id": "alpha-decay-theory-and-gamow-tunneling",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Alpha decay theory and Gamow's quantum tunneling explanation",
+    "et": "Alfalagunemise teooria ja Gamow' kvant-tunneleerumise seletus",
+    "sourceHash": "97361e04f2d948a1",
+    "stale": false
+  },
+  "summary": {
+    "en": "An alpha particle bound inside a heavy nucleus sits in a potential well surrounded by a Coulomb barrier far higher than its available energy, so classically it could never escape at all, yet alpha decay happens routinely -- George Gamow's 1928 explanation, one of the first successful applications of quantum mechanics to a real nuclear phenomenon, showed that the alpha particle can quantum-mechanically tunnel through the barrier with a small but nonzero probability on each attempt, and this tunneling picture explains why observed alpha-decay half-lives span an almost unimaginable thirty orders of magnitude for only a modest range of alpha particle energies.",
+    "et": "Raske tuuma sees seotud alfaosake asub potentsiaaliaugus, mida ümbritseb Coulombi barjäär, mis on palju kõrgem kui selle saadaolev energia, seega ei saaks see klassikaliselt kunagi üldse pageda, kuid alfalagunemine toimub rutiinselt -- George Gamow' 1928. aasta seletus, üks esimesi edukaid kvantmehaanika rakendusi reaalsele tuumanähtusele, näitas, et alfaosake saab kvantmehaaniliselt tunneleeruda läbi barjääri väikese, kuid nullist erineva tõenäosusega igal katsel, ning see tunneleerumise pilt seletab, miks vaadeldud alfalagunemise poolestusajad ulatuvad peaaegu ettekujutamatute kolmekümne suurusjärgu ulatuses ainult tagasihoidliku alfaosakeste energiavahemiku jaoks.",
+    "sourceHash": "5991863de468526f",
+    "stale": false
+  },
+  "prerequisites": [
+    "radioactive-decay-modes",
+    "quantum-tunneling"
+  ]
+}

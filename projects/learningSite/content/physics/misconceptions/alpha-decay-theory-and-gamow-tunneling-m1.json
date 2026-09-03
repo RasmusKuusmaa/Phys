@@ -1,0 +1,10 @@
+{
+  "id": "alpha-decay-theory-and-gamow-tunneling-m1",
+  "conceptId": "alpha-decay-theory-and-gamow-tunneling",
+  "text": {
+    "en": "Believing an alpha particle inside a heavy nucleus should be able to classically escape whenever it has enough kinetic energy to overcome the average nuclear binding, the same way an object escapes a gravity well by having enough speed -- the alpha particle is confined by a genuine potential barrier (the combination of the short-range nuclear attraction holding it in and the long-range Coulomb repulsion it would face upon leaving) that is classically insurmountable for essentially all observed alpha-decaying nuclei, since the barrier's peak height significantly exceeds the alpha particle's actual kinetic energy; escape is only possible at all through quantum mechanical tunneling, not classical passage over the barrier.",
+    "et": "Arvamus, et raske tuuma sees olev alfaosake peaks suutma klassikaliselt pageda alati, kui sellel on piisavalt kineetilist energiat, et ületada keskmine tuumaseotus, samamoodi nagu objekt pageb gravitatsiooniaugust, omades piisavat kiirust -- alfaosake on piiratud tõelise potentsiaalibarjääriga (lühikese haardeulatusega tuumatõmbe, mis seda sees hoiab, ja pikamaalise Coulombi tõukejõu kombinatsioon, millega see kokku puutuks lahkumisel), mis on klassikaliselt ületamatu sisuliselt kõigi vaadeldud alfalagunevate tuumade jaoks, kuna barjääri tipu kõrgus ületab oluliselt alfaosakese tegelikku kineetilist energiat; pagemine on üldse võimalik ainult kvantmehaanilise tunneleerumise kaudu, mitte klassikalise barjäärist ülepääsemise kaudu.",
+    "sourceHash": "f596bb9b9503bdc4",
+    "stale": false
+  }
+}

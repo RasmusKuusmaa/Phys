@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-isomers-and-metastable-states-m3",
+  "conceptId": "nuclear-isomers-and-metastable-states",
+  "text": {
+    "en": "Believing the long lifetime of a nuclear isomer is caused by the transition simply having a very small energy gap, the same way a small energy gap might make an ordinary process slow -- the dominant reason for an isomer's long lifetime is generally a large mismatch in angular momentum (or, less commonly, nuclear shape) between the isomeric state and the lower-energy state it must transition to, since gamma-ray emission strongly favors transitions with only a small change in angular momentum, so a transition requiring several units of angular momentum change is dramatically suppressed regardless of how much energy is actually available, not primarily because of a small energy gap.",
+    "et": "Arvamus, et tuumaisomeeri pikk eluiga on põhjustatud sellest, et üleminekul on lihtsalt väga väike energialõhe, samamoodi nagu väike energialõhe võiks muuta tavalise protsessi aeglaseks -- isomeeri pika eluea domineeriv põhjus on üldiselt suur impulsimomendi (või harvemini tuuma kuju) sobimatus isomeerse oleku ja madalama energiaga oleku vahel, millesse see peab üle minema, kuna gammakiirguse emissioon eelistab tugevalt üleminekuid ainult väikese impulsimomendi muutusega, seega on üleminek, mis nõuab mitut ühikut impulsimomendi muutust, dramaatiliselt alla surutud, olenemata sellest, kui palju energiat tegelikult saadaval on, mitte peamiselt väikese energialõhe tõttu.",
+    "sourceHash": "c3f01a74a372a604",
+    "stale": false
+  }
+}

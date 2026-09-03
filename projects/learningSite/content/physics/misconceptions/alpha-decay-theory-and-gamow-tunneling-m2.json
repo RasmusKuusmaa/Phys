@@ -1,0 +1,10 @@
+{
+  "id": "alpha-decay-theory-and-gamow-tunneling-m2",
+  "conceptId": "alpha-decay-theory-and-gamow-tunneling",
+  "text": {
+    "en": "Believing alpha-decay half-lives should be roughly similar across different nuclei, since they're all governed by the same basic decay mechanism -- observed alpha-decay half-lives actually span an almost unimaginable range, roughly thirty orders of magnitude, from microseconds to longer than the age of the universe, for alpha particle energies that vary only modestly (typically a factor of a few); this enormous sensitivity is a direct, quantitative prediction of the Gamow tunneling picture, since the tunneling probability depends exponentially on the barrier's height and width relative to the alpha particle's energy, so even modest energy differences produce astronomically different tunneling probabilities and hence half-lives.",
+    "et": "Arvamus, et alfalagunemise poolestusajad peaksid olema erinevate tuumade lõikes suhteliselt sarnased, kuna neid kõiki juhib sama põhiline lagunemismehhanism -- vaadeldud alfalagunemise poolestusajad ulatuvad tegelikult peaaegu ettekujutamatus vahemikus, umbes kolmkümmend suurusjärku, mikrosekunditest kuni universumi vanusest pikemani, alfaosakeste energiate jaoks, mis varieeruvad ainult mõõdukalt (tavaliselt paarikordselt) -- see tohutu tundlikkus on Gamow' tunneleerumise pildi otsene, kvantitatiivne ennustus, kuna tunneleerumise tõenäosus sõltub eksponentsiaalselt barjääri kõrgusest ja laiusest suhtes alfaosakese energiaga, seega tekitavad isegi mõõdukad energiaerinevused astronoomiliselt erinevaid tunneleerumise tõenäosusi ja seega poolestusaegasid.",
+    "sourceHash": "be89b8e888749d8b",
+    "stale": false
+  }
+}

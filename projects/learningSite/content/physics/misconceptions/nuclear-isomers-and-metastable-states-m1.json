@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-isomers-and-metastable-states-m1",
+  "conceptId": "nuclear-isomers-and-metastable-states",
+  "text": {
+    "en": "Believing every excited nuclear state decays essentially instantly (within roughly a nanosecond or less), the same way most excited atomic electron states do -- while most excited nuclear states do decay extremely quickly via gamma emission, certain specific excited states, called isomers, are trapped for dramatically longer, from microseconds up to years or, in a few known cases, far longer, because the specific transition required to reach a lower-energy state is strongly suppressed by angular momentum or nuclear-shape mismatches between the two states.",
+    "et": "Arvamus, et iga ergastatud tuumaolek laguneb sisuliselt koheselt (umbes nanosekundi jooksul või kiiremini), samamoodi nagu enamik ergastatud aatomi elektroniolekuid -- kuigi enamik ergastatud tuumaolekuid laguneb tõepoolest äärmiselt kiiresti gammakiirguse kaudu, on teatud konkreetsed ergastatud olekud, mida nimetatakse isomeerideks, lõksus dramaatiliselt kauem, mikrosekunditest kuni aastateni või mõnel teadaoleval juhul palju kauem, kuna konkreetne üleminek, mis on vajalik madalama energiaga oleku saavutamiseks, on tugevalt alla surutud impulsimomendi või tuuma kuju sobimatuse tõttu kahe oleku vahel.",
+    "sourceHash": "e6812cfac7794056",
+    "stale": false
+  }
+}

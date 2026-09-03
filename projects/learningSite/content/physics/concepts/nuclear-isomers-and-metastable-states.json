@@ -1,0 +1,22 @@
+{
+  "id": "nuclear-isomers-and-metastable-states",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Nuclear isomers and metastable states",
+    "et": "Tuumaisomeerid ja metastabiilsed olekud",
+    "sourceHash": "58ef8dd9098bf300",
+    "stale": false
+  },
+  "summary": {
+    "en": "A nucleus can become trapped in an excited state for far longer than the typical nanosecond-or-shorter lifetime of an ordinary excited nuclear state, sometimes for seconds, years, or even far longer, when the excited state's transition to a lower-energy state would require a large change in angular momentum or nuclear shape that standard gamma-decay pathways cannot easily accomplish; these long-lived excited states, called nuclear isomers, are chemically identical to the ground-state nucleus of the same element but carry their own distinct half-life and decay properties, with applications ranging from medical imaging tracers to proposed (and still speculative) high-density energy storage.",
+    "et": "Tuum võib jääda ergastatud olekusse lõksu palju kauemaks, kui tavalise ergastatud tuumaoleku tüüpiline nanosekundist lühem eluiga, mõnikord sekunditeks, aastateks või isegi palju kauemaks, kui ergastatud oleku üleminek madalama energiaga olekusse nõuaks suurt muutust impulsimomendis või tuuma kujus, mida standardsed gammalagunemise rajad ei suuda hõlpsasti saavutada; neid pikaealisi ergastatud olekuid, mida nimetatakse tuumaisomeerideks, on keemiliselt identsed sama elemendi põhiolekus oleva tuumaga, kuid kannavad oma eraldiseisvat poolestusaega ja lagunemisomadusi, rakendustega alates meditsiiniliste kuvamismärgistajate kuni pakutud (ja endiselt spekulatiivse) suure tihedusega energiasalvestuseni.",
+    "sourceHash": "dab1c966fdd872a2",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-shell-model-spin-and-parity",
+    "nuclear-deformation-and-rotational-bands"
+  ]
+}

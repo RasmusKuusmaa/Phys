@@ -1,0 +1,56 @@
+{
+  "id": "nuclear-isomers-and-metastable-states-item1",
+  "conceptId": "nuclear-isomers-and-metastable-states",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What primarily causes a nuclear isomer's dramatically longer-than-usual lifetime?",
+    "et": "Mis põhjustab peamiselt tuumaisomeeri dramaatiliselt tavalisest pikema eluea?",
+    "sourceHash": "b32ff1654ddca819",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A large mismatch in angular momentum (or nuclear shape) between the isomeric state and the state it must transition to, which strongly suppresses the gamma-decay pathway.",
+        "et": "Suur impulsimomendi (või tuuma kuju) sobimatus isomeerse oleku ja oleku vahel, millesse see peab üle minema, mis surub tugevalt alla gammalagunemise raja.",
+        "sourceHash": "12cb16eb31bf0490",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Every excited nuclear state actually decays essentially instantly, so isomers with dramatically longer lifetimes don't really exist.",
+        "et": "Iga ergastatud tuumaolek laguneb tegelikult sisuliselt koheselt, seega ei eksisteeri tegelikult dramaatiliselt pikema elueaga isomeere.",
+        "sourceHash": "ce3c3f7359984143",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-isomers-and-metastable-states-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The isomer is a chemically distinct substance from the ground-state nucleus, so it simply follows different chemical decay rules.",
+        "et": "Isomeer on põhiolekus olevast tuumast keemiliselt erinev aine, seega järgib see lihtsalt erinevaid keemilisi lagunemisreegleid.",
+        "sourceHash": "b93ee04843caa166",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-isomers-and-metastable-states-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The transition simply has an unusually small energy gap, the same way a small energy gap would slow down any ordinary physical process.",
+        "et": "Üleminekul on lihtsalt ebatavaliselt väike energialõhe, samamoodi nagu väike energialõhe aeglustaks mistahes tavalist füüsikalist protsessi.",
+        "sourceHash": "1d06c5be7bfc1e36",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-isomers-and-metastable-states-m3"
+    }
+  ]
+}
