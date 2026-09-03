@@ -314,13 +314,28 @@ minority view), multi-messenger astronomy, stellar winds and mass loss,
 magnetars and soft gamma repeaters, brown dwarfs and substellar objects,
 gravitational microlensing, and X-ray/radio astronomical techniques.
 
-- [ ] Galaxy clusters and the intracluster medium
-- [ ] Modified Newtonian dynamics (MOND) as a dark-matter alternative
-- [ ] Magnetars and soft gamma repeaters
-- [ ] Brown dwarfs and substellar objects
-- [ ] Stellar winds and mass loss
-- [ ] Tidal disruption events
-- [ ] The Sunyaev-Zel'dovich effect
-- [ ] Multi-messenger astronomy
+- [x] Galaxy clusters and the intracluster medium
+- [x] Modified Newtonian dynamics (MOND) as a dark-matter alternative
+- [x] Magnetars and soft gamma repeaters
+- [x] Brown dwarfs and substellar objects
+- [x] Stellar winds and mass loss
+- [x] Tidal disruption events
+- [x] The Sunyaev-Zel'dovich effect
+- [x] Multi-messenger astronomy
+
+Phase A4 complete: 45 astrophysics concepts + 8 general-relativity concepts.
+Cosmology, stellar physics and general astrophysics are now judged to have
+comprehensive, genuine-gap-free coverage at the taught-MSc/early-PhD depth
+this plan targets (see `QUESTIONS.md` § "Scope of 'complete material for a
+MSc'" for the bar). Per the established astro → nuclear → rest-of-physics
+cycle, next up is a nuclear-physics gap sweep (Phase N4), then a genuine-gap
+sweep of the rest of physics, before moving to mathematics, chemistry and
+materials-science per the user's explicit ordering.
+
+## Phase N4 — Nuclear physics, round 4 (after Phase A3/A4; existing: 26
+## nuclear-physics concepts across Phases N-N3)
+
+- [ ] (to be scoped after surveying the existing 26 nuclear-physics concepts
+      for genuine remaining gaps, same method as Phases N2/N3)
 
 ---
