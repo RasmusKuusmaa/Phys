@@ -7,6 +7,7 @@
   },
   "nav": {
     "roadmap": "Õpitee",
+    "topics": "Teemad",
     "curriculum": "Õppekava",
     "formulas": "Valemid",
     "glossary": "Sõnastik",
@@ -247,6 +248,14 @@
       "actinide": "Aktinoid",
       "unknown": "Keemia teadmata"
     }
+  },
+  "topics": {
+    "heading": "Teemad",
+    "intro": "Sirvi mõisteid teema, mitte taseme järgi — vali aine ja seejärel konkreetne valdkond, nagu astrofüüsika või tuumafüüsika, ning läbi see algusest lõpuni.",
+    "subjectLabel": "Aine",
+    "noSubjects": "Aineid veel pole.",
+    "conceptsSuffix": "mõistet",
+    "backToTopics": "Teemad"
   },
   "notFound": {
     "heading": "Lehte ei leitud",
