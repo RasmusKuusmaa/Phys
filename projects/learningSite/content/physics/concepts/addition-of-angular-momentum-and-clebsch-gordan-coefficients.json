@@ -1,0 +1,22 @@
+{
+  "id": "addition-of-angular-momentum-and-clebsch-gordan-coefficients",
+  "subject": "physics",
+  "level": "L4",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Addition of angular momentum and Clebsch-Gordan coefficients",
+    "et": "Impulsimomentide liitmine ja Clebsch-Gordani kordajad",
+    "sourceHash": "b6251c1456b35a2f",
+    "stale": false
+  },
+  "summary": {
+    "en": "When two quantum angular momenta — two particles' spins, or a particle's spin and orbital angular momentum — combine, the total angular momentum is not simply their sum as ordinary vectors; it takes discrete values ranging from the difference to the sum of the two individual quantum numbers, and the Clebsch-Gordan coefficients give the precise recipe for rewriting the combined system's states in terms of definite total angular momentum.",
+    "et": "Kui kaks kvant-impulsimomenti — kahe osakese spinnid, või osakese spinn ja orbitaalimpulsimoment — kombineeruvad, ei ole koguimpulsimoment lihtsalt nende summa tavaliste vektoritena; see võtab diskreetseid väärtusi vahemikus kahe individuaalse kvantarvu vahest kuni summani, ning Clebsch-Gordani kordajad annavad täpse retsepti kombineeritud süsteemi olekute ümberkirjutamiseks kindla koguimpulsimomendi kaudu.",
+    "sourceHash": "353c4334b363f4b2",
+    "stale": false
+  },
+  "prerequisites": [
+    "spin-and-angular-momentum-in-quantum-mechanics",
+    "quantum-numbers-and-atomic-orbitals"
+  ]
+}

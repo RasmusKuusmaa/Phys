@@ -1,0 +1,22 @@
+{
+  "id": "identical-particles-and-the-symmetrization-postulate",
+  "subject": "physics",
+  "level": "L4",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Identical particles and the symmetrization postulate",
+    "et": "Eristamatud osakesed ja sümmetriseerimispostulaat",
+    "sourceHash": "a78bb15bfac5e5c3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Quantum mechanically identical particles are not just hard to tell apart in practice — no experiment can ever distinguish them even in principle, which forces the multi-particle wavefunction to be either completely symmetric under exchanging any two particles' labels (bosons) or completely antisymmetric (fermions), with no other option and no in-between.",
+    "et": "Kvantmehaaniliselt eristamatud osakesed ei ole vaid praktikas raskesti eristatavad — mitte ükski katse ei suuda neid eristada isegi põhimõtteliselt, mis sunnib mitmeosakese lainefunktsiooni olema kahe suvalise osakese märgiste vahetamise suhtes täielikult sümmeetriline (bosonid) või täielikult antisümmeetriline (fermionid), ilma muu võimaluse ja vahepealse variandita.",
+    "sourceHash": "a88c70ff86ec7638",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-pauli-exclusion-principle",
+    "wavefunctions-and-probability"
+  ]
+}

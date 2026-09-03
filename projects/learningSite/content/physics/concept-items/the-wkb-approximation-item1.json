@@ -1,0 +1,56 @@
+{
+  "id": "the-wkb-approximation-item1",
+  "conceptId": "the-wkb-approximation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Where does the WKB approximation itself technically break down, requiring special matching conditions?",
+    "et": "Kus WKB lähendus ise tehniliselt laguneb, vajades spetsiaalseid sobitustingimusi?",
+    "sourceHash": "07278f442092254c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "At the classical turning points, where the local momentum (and hence the local wavelength) diverges toward zero.",
+        "et": "Klassikalistes pöördepunktides, kus kohalik impulss (ja seega kohalik lainepikkus) lahkneb nulli poole.",
+        "sourceHash": "82db39d8825c6ae2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nowhere in particular — it's simply a less rigorous restatement of the independent Bohr-Sommerfeld postulate, valid wherever that postulate is.",
+        "et": "Mitte kusagil erilisel viisil — see on lihtsalt vähem rigoorne ümbersõnastus iseseisvast Bohr-Sommerfeldi postulaadist, kehtiv seal, kus see postulaat kehtib.",
+        "sourceHash": "94b75f77a97cf1e4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-wkb-approximation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It works fine everywhere, including exactly at the turning points, with no special treatment needed there.",
+        "et": "See töötab hästi kõikjal, sealhulgas täpselt pöördepunktides, ilma erilise käsitluseta seal.",
+        "sourceHash": "3315e1880a433bbb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-wkb-approximation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Specifically for any barrier that isn't flat and rectangular, since the method was only derived for that one shape.",
+        "et": "Konkreetselt iga barjääri jaoks, mis ei ole lame ja ristkülikukujuline, kuna meetod tuletati ainult selle ühe kuju jaoks.",
+        "sourceHash": "dd1007c4eb9cc8bf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-wkb-approximation-m3"
+    }
+  ]
+}

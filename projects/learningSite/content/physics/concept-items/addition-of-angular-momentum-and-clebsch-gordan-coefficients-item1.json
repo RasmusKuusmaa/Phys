@@ -1,0 +1,56 @@
+{
+  "id": "addition-of-angular-momentum-and-clebsch-gordan-coefficients-item1",
+  "conceptId": "addition-of-angular-momentum-and-clebsch-gordan-coefficients",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two spin-1/2 particles are combined. What are the possible values of their total spin quantum number?",
+    "et": "Kombineeritakse kaks spin-1/2 osakest. Millised on nende koguspinni kvantarvu võimalikud väärtused?",
+    "sourceHash": "eab70b2933583fcf",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "j = 0 or j = 1, since the allowed total ranges from |1/2 - 1/2| = 0 up to 1/2 + 1/2 = 1.",
+        "et": "j = 0 või j = 1, kuna lubatud koguväärtus läbib vahemikku |1/2 - 1/2| = 0 kuni 1/2 + 1/2 = 1.",
+        "sourceHash": "b95e5a3fa573024c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Only j = 1, the ordinary sum of the two individual spins.",
+        "et": "Ainult j = 1, kahe individuaalse spinni tavaline summa.",
+        "sourceHash": "b7b1be5c8ab47f84",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "addition-of-angular-momentum-and-clebsch-gordan-coefficients-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It depends on whether you're tracking each particle's individual spin or the pair's total spin — these describe physically different systems.",
+        "et": "See sõltub sellest, kas jälgid iga osakese individuaalset spinni või paari koguspinni — need kirjeldavad füüsikaliselt erinevaid süsteeme.",
+        "sourceHash": "e8b991e323162bac",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "addition-of-angular-momentum-and-clebsch-gordan-coefficients-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The question has no physically measurable answer, since angular momentum addition is purely a bookkeeping convention.",
+        "et": "Küsimusel pole füüsikaliselt mõõdetavat vastust, kuna impulsimomentide liitmine on puhtalt raamatupidamiskokkulepe.",
+        "sourceHash": "5c2a6957d9e0d944",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "addition-of-angular-momentum-and-clebsch-gordan-coefficients-m3"
+    }
+  ]
+}

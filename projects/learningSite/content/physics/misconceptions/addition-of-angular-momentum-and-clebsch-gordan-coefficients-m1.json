@@ -1,0 +1,10 @@
+{
+  "id": "addition-of-angular-momentum-and-clebsch-gordan-coefficients-m1",
+  "conceptId": "addition-of-angular-momentum-and-clebsch-gordan-coefficients",
+  "text": {
+    "en": "Believing two combined angular momenta j1 and j2 always produce a single, definite total quantum number equal to their ordinary sum, j1 + j2 — the allowed total ranges over every value from |j1 - j2| to j1 + j2, and a generic combined state is a superposition of several of these, not automatically the maximum one.",
+    "et": "Arvamus, et kaks liidetud impulsimomenti j1 ja j2 annavad alati ühe, kindla koguarvu, mis võrdub nende tavalise summaga j1 + j2 — lubatud koguväärtus läbib kõiki väärtusi |j1 - j2| kuni j1 + j2, ning tüüpiline liidetud olek on superpositsioon mitmest neist, mitte automaatselt suurim.",
+    "sourceHash": "1fd3f397a85b6f21",
+    "stale": false
+  }
+}

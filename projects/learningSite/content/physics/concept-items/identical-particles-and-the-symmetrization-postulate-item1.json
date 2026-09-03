@@ -1,0 +1,56 @@
+{
+  "id": "identical-particles-and-the-symmetrization-postulate-item1",
+  "conceptId": "identical-particles-and-the-symmetrization-postulate",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two electrons in the same atom are found, hypothetically, to occupy exactly the same single-particle quantum state. What does the symmetrization postulate say about this?",
+    "et": "Leitakse, et kaks elektroni samas aatomis hõivavad hüpoteetiliselt täpselt sama üheosakese kvantoleku. Mida ütleb sümmetriseerimispostulaat selle kohta?",
+    "sourceHash": "ab2df3a8b9f1fb11",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It cannot happen — the required antisymmetry of the two-fermion wavefunction under exchange forces that wavefunction to vanish identically if both occupy the same state.",
+        "et": "See ei saa juhtuda — kahe fermioni lainefunktsiooni nõutav antisümmeetria vahetuse all sunnib selle lainefunktsiooni identselt kaduma, kui mõlemad hõivavad sama oleku.",
+        "sourceHash": "0987c82676dfb9bd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It's allowed as long as the two electrons are difficult enough to distinguish experimentally.",
+        "et": "See on lubatud, kuni kahte elektroni on eksperimentaalselt piisavalt raske eristada.",
+        "sourceHash": "9d575e73907a5704",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "identical-particles-and-the-symmetrization-postulate-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It's allowed, since the wavefunction just needs to have an unchanged squared magnitude under exchange, which many combinations besides symmetric or antisymmetric could satisfy.",
+        "et": "See on lubatud, kuna lainefunktsioon vajab vahetuse all vaid muutumatut ruudustatud suurust, mida võiksid rahuldada paljud kombinatsioonid sümmeetrilise või antisümmeetrilise kõrval.",
+        "sourceHash": "e308db2eb091207b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "identical-particles-and-the-symmetrization-postulate-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It's forbidden by the separate Pauli exclusion principle, but the symmetrization postulate itself says nothing about it one way or the other.",
+        "et": "Selle keelab eraldi Pauli keeluprintsiip, kuid sümmetriseerimispostulaat ise ei ütle selle kohta midagi.",
+        "sourceHash": "5488bce9c07170e8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "identical-particles-and-the-symmetrization-postulate-m3"
+    }
+  ]
+}

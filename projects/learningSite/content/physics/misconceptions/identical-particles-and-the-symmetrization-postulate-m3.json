@@ -1,0 +1,10 @@
+{
+  "id": "identical-particles-and-the-symmetrization-postulate-m3",
+  "conceptId": "identical-particles-and-the-symmetrization-postulate",
+  "text": {
+    "en": "Believing the Pauli exclusion principle is an independent extra rule bolted onto quantum mechanics, separate from the symmetrization postulate — it follows directly and necessarily from requiring the multi-fermion wavefunction to be antisymmetric under exchange; two fermions sharing a state would force that antisymmetric wavefunction to vanish identically.",
+    "et": "Arvamus, et Pauli keeluprintsiip on iseseisev lisareegel, mis on kvantmehaanikale juurde lisatud, eraldi sümmetriseerimispostulaadist — see järeldub otse ja tingimata nõudest, et mitmefermionilise lainefunktsiooni oleks vahetuse suhtes antisümmeetriline; kaks fermioni, mis jagavad olekut, sunniksid selle antisümmeetrilise lainefunktsiooni identselt kaduma.",
+    "sourceHash": "122a2495a31e2d98",
+    "stale": false
+  }
+}

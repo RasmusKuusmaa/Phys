@@ -28,5 +28,10 @@
     "wrong": "kaal",
     "correct": "mass",
     "note": "'Kaal' is weight (a force), a distinct quantity from mass ('mass'). A common mass/weight conflation carried over from everyday English usage — flag it wherever 'kaal' is used to mean the physics quantity mass."
+  },
+  {
+    "wrong": "välistusprintsiip",
+    "correct": "Pauli exclusion principle",
+    "note": "Plausible-sounding calque of 'exclusion principle' that isn't the locked term. The glossary's established rendering is 'keeluprintsiip', as in 'Pauli keeluprintsiip'."
   }
 ]

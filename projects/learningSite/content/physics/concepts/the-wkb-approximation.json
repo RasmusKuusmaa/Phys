@@ -1,0 +1,22 @@
+{
+  "id": "the-wkb-approximation",
+  "subject": "physics",
+  "level": "L4",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "The WKB approximation",
+    "et": "WKB lähendus",
+    "sourceHash": "c0f166b48bb23178",
+    "stale": false
+  },
+  "summary": {
+    "en": "When a quantum particle's potential varies slowly compared to its own de Broglie wavelength, the Schrödinger equation's solution can be approximated by a rapidly oscillating phase built from the classical momentum — the semiclassical WKB approximation — which recovers the Bohr-Sommerfeld quantization condition as a genuine limit of full quantum mechanics and gives a systematic way to estimate tunneling probabilities through arbitrarily shaped barriers.",
+    "et": "Kui kvantosakese potentsiaal muutub aeglaselt võrreldes selle de Broglie lainepikkusega, saab Schrödingeri võrrandi lahendit lähendada klassikalisest impulsist ehitatud kiirelt võnkuva faasiga — poolklassikaline WKB lähendus —, mis taastab Bohr-Sommerfeldi kvantimistingimuse täieliku kvantmehaanika tõelise piirjuhuna ja annab süstemaatilise viisi tunnelleerumistõenäosuste hindamiseks läbi suvalise kujuga barjääride.",
+    "sourceHash": "8f465a8f33d9430d",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schrodinger-equation",
+    "action-angle-variables"
+  ]
+}

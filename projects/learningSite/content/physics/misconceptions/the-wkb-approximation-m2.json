@@ -1,0 +1,10 @@
+{
+  "id": "the-wkb-approximation-m2",
+  "conceptId": "the-wkb-approximation",
+  "text": {
+    "en": "Believing the WKB approximation works equally well everywhere, including right at the classical turning points — it specifically breaks down there, since the local wavelength formally diverges, which is why matching across turning points needs special separate treatment rather than just using the same oscillating or decaying formula straight through.",
+    "et": "Arvamus, et WKB lähendus töötab võrdselt hästi kõikjal, kaasa arvatud otse klassikalistes pöördepunktides — see laguneb seal spetsiifiliselt, kuna kohalik lainepikkus lahkneb formaalselt, mistõttu pöördepunktide ületamine vajab spetsiaalset eraldi käsitlust, mitte lihtsalt sama võnkuva või kahaneva valemi otse läbi kasutamist.",
+    "sourceHash": "65a82f3e43ebc93a",
+    "stale": false
+  }
+}

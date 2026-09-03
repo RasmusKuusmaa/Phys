@@ -1,0 +1,10 @@
+{
+  "id": "the-wkb-approximation-m3",
+  "conceptId": "the-wkb-approximation",
+  "text": {
+    "en": "Believing WKB tunneling estimates only work for a simple flat, rectangular barrier — its position-dependent decay rate is exactly what lets it estimate tunneling probability through a barrier of essentially any shape, as long as the potential varies slowly on the scale of the local de Broglie wavelength.",
+    "et": "Arvamus, et WKB tunnelleerumishinnangud töötavad ainult lihtsa lameda, ristkülikukujulise barjääri jaoks — selle asukohast sõltuv kahanemismäär on täpselt see, mis lubab sellel hinnata tunnelleerumistõenäosust läbi peaaegu suvalise kujuga barjääri, kuni potentsiaal muutub aeglaselt kohaliku de Broglie lainepikkuse skaalal.",
+    "sourceHash": "178223d2b08a5ecb",
+    "stale": false
+  }
+}
