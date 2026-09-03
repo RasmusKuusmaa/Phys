@@ -1,0 +1,56 @@
+{
+  "id": "black-hole-thermodynamics-item1",
+  "conceptId": "black-hole-thermodynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What did Hawking's discovery of black hole radiation actually change about the correspondence between black hole laws and thermodynamic laws?",
+    "et": "Mida muutis Hawkingi musta augu kiirguse avastus tegelikult musta augu seaduste ja termodünaamikaseaduste vahelise vastavuse juures?",
+    "sourceHash": "35fb19db4c6e3e19",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It showed the correspondence is a genuine physical fact, not just a formal analogy — black holes have a real, nonzero temperature and their horizon area is a genuine entropy.",
+        "et": "See näitas, et vastavus on tõeline füüsikaline fakt, mitte lihtsalt formaalne analoogia — mustadel aukudel on tõeline, nullist erinev temperatuur ja nende horisondi pindala on tõeline entroopia.",
+        "sourceHash": "e284ad61840e112d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing — the correspondence was already known to be a genuine physical fact well before Hawking's work.",
+        "et": "Mitte midagi — vastavus oli juba enne Hawkingi tööd teada kui tõeline füüsikaline fakt.",
+        "sourceHash": "32abfa4fad57f0f9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "black-hole-thermodynamics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It showed that stellar-mass black holes evaporate quickly enough to have observable astrophysical consequences today.",
+        "et": "See näitas, et tähemassiga mustad augud aurustuvad piisavalt kiiresti, et neil oleks täna vaadeldavaid astrofüüsikalisi tagajärgi.",
+        "sourceHash": "b54eeebd091a8dcc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "black-hole-thermodynamics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It fully and completely solved the black hole information paradox, with no remaining open questions.",
+        "et": "See lahendas täielikult ja lõplikult musta augu infoparadoksi, ilma allesjäänud lahtiste küsimusteta.",
+        "sourceHash": "58df1a921c90c83c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "black-hole-thermodynamics-m3"
+    }
+  ]
+}

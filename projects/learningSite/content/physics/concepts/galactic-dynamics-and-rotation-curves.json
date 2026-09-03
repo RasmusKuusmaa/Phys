@@ -1,0 +1,23 @@
+{
+  "id": "galactic-dynamics-and-rotation-curves",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Galactic dynamics and rotation curves",
+    "et": "Galaktikate dünaamika ja pöörlemiskõverad",
+    "sourceHash": "3fc80e4f51e8e77b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Measuring how fast stars and gas orbit at different distances from a galaxy's centre gives its rotation curve, and for essentially every spiral galaxy observed, that curve stays roughly flat far out into the galaxy's disk instead of falling off as Newtonian gravity predicts for the visible, luminous mass alone — the single most direct and widely reproduced piece of evidence that most of a galaxy's mass is invisible dark matter, extending in a roughly spherical halo well beyond the visible disk.",
+    "et": "Mõõtes, kui kiiresti tähed ja gaas tiirlevad galaktika keskmest erinevatel kaugustel, saadakse selle pöörlemiskõver, ning sisuliselt iga vaadeldud spiraalgalaktika jaoks jääb see kõver ligikaudu tasaseks kaugele galaktika kettasse, selle asemel et väheneda, nagu Newtoni gravitatsioon ennustaks ainult nähtava, valgusrikka massi jaoks — kõige otsesem ja kõige laialdasemalt korratud tõend selle kohta, et enamik galaktika massist on nähtamatu tumeaine, mis ulatub ligikaudu sfäärilises halos kaugele üle nähtava ketta.",
+    "sourceHash": "33cb83872b417f13",
+    "stale": false
+  },
+  "prerequisites": [
+    "dark-matter-and-galactic-structure",
+    "newtonian-gravitation",
+    "uniform-circular-motion"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "black-hole-thermodynamics",
+  "subject": "physics",
+  "level": "L4",
+  "module": "general-relativity",
+  "title": {
+    "en": "Black hole thermodynamics",
+    "et": "Musta augu termodünaamika",
+    "sourceHash": "a1959513c08148f8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Black holes obey laws that are mathematically identical in structure to the ordinary laws of thermodynamics, with the event horizon's area playing the role of entropy and its surface gravity playing the role of temperature — a correspondence Hawking showed is not just a formal analogy once he found that black holes genuinely radiate, with a real temperature, slowly losing mass and eventually evaporating entirely.",
+    "et": "Mustad augud alluvad seadustele, mis on struktuurilt matemaatiliselt identsed tavaliste termodünaamikaseadustega, kus sündmuste horisondi pindala mängib entroopia rolli ja selle pinnagravitatsioon temperatuuri rolli — vastavus, mille Hawking näitas olevat rohkem kui formaalne analoogia, kui ta leidis, et mustad augud tõesti kiirgavad, tõelise temperatuuriga, kaotades aeglaselt massi ja lõpuks täielikult aurustudes.",
+    "sourceHash": "f2680ca81eae72b2",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schwarzschild-solution-and-black-holes",
+    "statistical-definition-of-entropy"
+  ]
+}

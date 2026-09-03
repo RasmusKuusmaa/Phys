@@ -1,0 +1,56 @@
+{
+  "id": "galactic-dynamics-and-rotation-curves-item1",
+  "conceptId": "galactic-dynamics-and-rotation-curves",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does a spiral galaxy's flat rotation curve at large radius actually tell astronomers, without assuming what dark matter is made of?",
+    "et": "Mida ütleb spiraalgalaktika tasane pöörlemiskõver suurel raadiusel astronoomidele tegelikult, eeldamata, millest tumeaine koosneb?",
+    "sourceHash": "2fdc0616139185f8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That the mass enclosed within large radii is much greater than the visible mass, since well-tested Newtonian gravity requires that much enclosed mass to produce the observed orbital speeds.",
+        "et": "Et suurte raadiuste sees olev mass on palju suurem kui nähtav mass, kuna hästi testitud Newtoni gravitatsioon nõuab sellist ümbritsetud massi hulka vaadeldud orbitaalkiiruste tootmiseks.",
+        "sourceHash": "3668bb9c3f5e01c2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That orbital speeds are declining with radius exactly as expected for visible matter alone, confirming there's no anomaly to explain.",
+        "et": "Et orbitaalkiirused vähenevad raadiusega täpselt nii, nagu oodatud ainult nähtava aine korral, kinnitades, et seletamist vajavat anomaaliat pole.",
+        "sourceHash": "d1526d56ec22e870",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "galactic-dynamics-and-rotation-curves-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing meaningful, unless one already assumes a specific particle or substance that dark matter is made of.",
+        "et": "Mitte midagi olulist, kui juba ei eeldata konkreetset osakest või ainet, millest tumeaine koosneb.",
+        "sourceHash": "0a9791a8bed8f60a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "galactic-dynamics-and-rotation-curves-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That dark matter is the only possible explanation, with no other theory capable of reproducing the observation at all.",
+        "et": "Et tumeaine on ainus võimalik seletus, ilma ühegi teise teooriata, mis suudaks vaatlust üldse taastoota.",
+        "sourceHash": "d79ad7401a5d7a26",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "galactic-dynamics-and-rotation-curves-m3"
+    }
+  ]
+}
