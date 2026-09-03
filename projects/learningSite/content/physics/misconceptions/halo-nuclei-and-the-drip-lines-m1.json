@@ -1,0 +1,10 @@
+{
+  "id": "halo-nuclei-and-the-drip-lines-m1",
+  "conceptId": "halo-nuclei-and-the-drip-lines",
+  "text": {
+    "en": "Believing the neutron drip line marks where a nucleus becomes radioactive or decays quickly, rather than where it stops being bound at all -- nuclei well inside the drip line are commonly radioactive (undergoing beta decay, for instance) while still being genuinely bound systems that exist for a measurable time; crossing the drip line itself is a qualitatively different, more extreme boundary, where an additional neutron is not bound by the nuclear force at all and separates from the nucleus essentially immediately, on a timescale set by nuclear transit rather than by any decay process.",
+    "et": "Arvamus, et neutroni lekkejoon märgib kohta, kus tuum muutub radioaktiivseks või laguneb kiiresti, mitte kohta, kus see lakkab üldse seotud olemast -- lekkejoonest hästi seespool olevad tuumad on tavaliselt radioaktiivsed (läbivad näiteks beetalagunemist), olles siiski tõeliselt seotud süsteemid, mis eksisteerivad mõõdetava aja jooksul; lekkejoone enda ületamine on kvalitatiivselt erinev, äärmuslikum piir, kus täiendav neutron ei ole tuumajõu poolt üldse seotud ja eraldub tuumast sisuliselt kohe, ajaskaalal, mille määrab tuuma läbimisaeg, mitte mistahes lagunemisprotsess.",
+    "sourceHash": "ae8772ff808a3ca3",
+    "stale": false
+  }
+}

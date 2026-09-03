@@ -1,0 +1,22 @@
+{
+  "id": "halo-nuclei-and-the-drip-lines",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Halo nuclei and the drip lines",
+    "et": "Haloktuumad ja nukloni lekkejooned",
+    "sourceHash": "1488dd95aa54d04f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Adding more and more neutrons (or protons) to a given element eventually reaches a boundary called the neutron (or proton) drip line, beyond which the last nucleon is no longer bound at all and simply drips off the moment it is added, but exactly at the edge of stability, some light, extremely neutron-rich nuclei -- most famously lithium-11 -- develop an exotic structure called a halo, in which one or two of the last, most weakly bound neutrons spend the bulk of their quantum-mechanical probability far outside the ordinary, tightly-bound nuclear core, orbiting at a distance that gives the whole nucleus a physical size wildly out of proportion to its small number of nucleons, rivaling the size of nuclei with many times its mass and revealing that the shell model's ordinary picture of tightly-packed nucleons can break down dramatically at the extremes of nuclear stability.",
+    "et": "Aina rohkema neutronite (või prootonite) lisamine antud elemendile jõuab lõpuks piirini nimega neutroni (või prootoni) lekkejoon, millest kaugemal ei ole viimane nukloon enam üldse seotud ja lihtsalt lekib välja hetkel, mil see lisatakse, kuid täpselt stabiilsuse serval arendavad mõned kerged, äärmiselt neutronirikkad tuumad -- kõige kuulsamalt liitium-11 -- eksootilise struktuuri nimega halo, milles üks või kaks viimast, kõige nõrgemalt seotud neutronit veedavad suurema osa oma kvantmehaanilisest tõenäosusest kaugel väljaspool tavalist, tihedalt seotud tuumatuuma, tiireldes kaugusel, mis annab kogu tuumale füüsilise suuruse, mis on selle väikese nukloniarvu suhtes metsikult ebaproportsionaalne, rivaalitsedes tuumade suurusega, millel on mitu korda rohkem massi, ning paljastades, et kesta mudeli tavaline pilt tihedalt pakitud nukloonidest võib tuuma stabiilsuse äärmustes dramaatiliselt murduda.",
+    "sourceHash": "6d8e7e4765041ae9",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-shell-model-spin-and-parity",
+    "liquid-drop-model-and-the-semi-empirical-mass-formula"
+  ]
+}

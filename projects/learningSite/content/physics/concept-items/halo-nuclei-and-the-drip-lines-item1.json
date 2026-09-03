@@ -1,0 +1,56 @@
+{
+  "id": "halo-nuclei-and-the-drip-lines-item1",
+  "conceptId": "halo-nuclei-and-the-drip-lines",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Lithium-11 has a physical size comparable to nuclei with many times more nucleons, even though ordinary nuclear radii scale only modestly with nucleon number. Why?",
+    "et": "Liitium-11-l on füüsiline suurus, mis on võrreldav tuumadega, millel on mitu korda rohkem nukloone, kuigi tavalised tuumaraadiused skaleeruvad nukloniarvuga ainult tagasihoidlikult. Miks?",
+    "sourceHash": "0d488f6969f531fc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "One or two of its most weakly bound neutrons spend most of their probability far outside the compact core, forming a diffuse halo rather than packing in at ordinary nuclear density.",
+        "et": "Üks või kaks selle kõige nõrgemalt seotud neutronit veedavad suurema osa oma tõenäosusest kaugel väljaspool kompaktset tuuma, moodustades hajusa halo, selle asemel et olla pakitud tavalisel tuumatihedusel.",
+        "sourceHash": "092b830872fd693d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It has crossed the neutron drip line, so its extra neutrons are entirely unbound and simply orbit freely at large distance with no nuclear force acting on them at all.",
+        "et": "See on ületanud neutroni lekkejoone, seega on selle lisaneutronid täielikult sidumata ja lihtsalt tiirlevad vabalt suurel kaugusel, ilma et mingi tuumajõud neile üldse mõjuks.",
+        "sourceHash": "26a6852c2dd2d040",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "halo-nuclei-and-the-drip-lines-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All of its nucleons are simply packed at a lower density than in an ordinary nucleus, uniformly inflating the whole nucleus rather than a specific outer halo.",
+        "et": "Kõik selle nukloonid on lihtsalt pakitud madalamal tihedusel kui tavalises tuumas, paisutades ühtlaselt kogu tuuma, mitte konkreetset välist halot.",
+        "sourceHash": "93936b5ae5b941c6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "halo-nuclei-and-the-drip-lines-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The standard shell model predicts exactly this size directly, with no modification needed, since magic numbers and shell gaps are identical at every neutron-to-proton ratio.",
+        "et": "Standardne kesta mudel ennustab täpselt seda suurust otse, ilma modifikatsioonita, kuna maagilised arvud ja kestalõhed on identsed igal neutroni-prootoni suhtel.",
+        "sourceHash": "c8d6343ff5ed882c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "halo-nuclei-and-the-drip-lines-m3"
+    }
+  ]
+}
