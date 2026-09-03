@@ -240,7 +240,19 @@ mechanical 2-per-module quota.
 ## Phase N3 — Nuclear physics, round 3 (after Phase X, per the "continue
 ## with nuclear" instruction)
 
-To be scoped once Phase X is done — pick further genuine nuclear-physics
-gaps at that point rather than pre-committing topics now.
+Surveyed all 22 existing nuclear-physics concepts before picking these —
+genuine gaps, not padding. Alpha decay is currently only described
+qualitatively inside `radioactive-decay-modes`, missing the actual Gamow
+tunneling theory (a famous, standard result — the first successful
+application of quantum tunneling in physics, 1928). Detector technology and
+isotope separation are real nuclear-engineering topics distinct from what
+`particle-accelerators-and-detectors` and `nuclear-medicine...` cover.
+
+- [ ] Alpha decay theory and Gamow's quantum tunneling explanation
+- [ ] Nuclear isomers and metastable states
+- [ ] Radiation detection technologies (scintillators, semiconductor
+      detectors, Geiger-Müller counters)
+- [ ] Isotope separation techniques (gas centrifuge, gaseous diffusion,
+      laser isotope separation)
 
 ---
