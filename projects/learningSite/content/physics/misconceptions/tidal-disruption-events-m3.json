@@ -1,0 +1,10 @@
+{
+  "id": "tidal-disruption-events-m3",
+  "conceptId": "tidal-disruption-events",
+  "text": {
+    "en": "Believing a tidal disruption event's flare is powered by nuclear fusion suddenly ignited within the shredded star, similar to a nova or supernova -- the flare instead comes entirely from gravitational potential energy released as stellar debris falls toward and circularizes around the black hole, converted to radiation through the same accretion-disk physics that powers other accreting compact objects; it involves no nuclear burning of the disrupted star's material at all, and its distinctive rise-then-fade light curve, along with its spectral signature, is what lets astronomers distinguish it observationally from an ordinary supernova occurring by coincidence near a galaxy's center.",
+    "et": "Arvamus, et loodete lõhkumissündmuse valguspurset toidab purustatud tähe sees äkitselt süttinud tuumasüntees, sarnaselt novale või supernoovale -- valguspurset toidab selle asemel täielikult gravitatsiooniline potentsiaalne energia, mis vabaneb, kui tähe jäänused langevad musta augu poole ja tsirkulariseeruvad selle ümber, muundatuna kiirguseks sama akretsioonikettafüüsika kaudu, mis toidab teisi akreteerivaid kompaktseid objekte; see ei hõlma üldse lõhutud tähe aine tuumapõletamist, ning selle iseloomulik tõusev-siis-tuhmuv valguskõver koos selle spektraalse signatuuriga on see, mis lubab astronoomidel seda vaatluslikult eristada tavalisest supernoovast, mis juhtub kokkusattumusi galaktika keskme lähedal.",
+    "sourceHash": "d4e98c029a7de654",
+    "stale": false
+  }
+}

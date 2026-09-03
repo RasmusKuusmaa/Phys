@@ -1,0 +1,55 @@
+{
+  "id": "tidal-disruption-events-item1",
+  "conceptId": "tidal-disruption-events",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a star crossing a supermassive black hole's tidal radius get torn apart entirely, rather than simply falling in whole?",
+    "et": "Miks rebitakse täht, mis ületab ülimassiivse musta augu loodete raadiuse, täielikult lahti, selle asemel et lihtsalt tervikuna sisse langeda?",
+    "sourceHash": "3937a7062272c552",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The black hole's differential gravitational pull across the star's own diameter grows strong enough to exceed the star's self-gravity holding it together.",
+        "et": "Musta augu diferentsiaalne gravitatsiooniline tõmme üle tähe enda läbimõõdu kasvab piisavalt tugevaks, et ületada tähe enda gravitatsiooni, mis seda koos hoiab.",
+        "sourceHash": "062898198f24ee46",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The star's own nuclear fusion suddenly becomes unstable and detonates the star from within as it approaches the black hole.",
+        "et": "Tähe enda tuumasüntees muutub äkitselt ebastabiilseks ja detoneerib tähe seestpoolt, kui see mustale august läheneb.",
+        "sourceHash": "b4de86f45dcad4ee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "tidal-disruption-events-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't actually get torn apart -- the star falls in whole, and the observed flare is simply light from the star's surface heating up as it falls.",
+        "et": "See ei rebita tegelikult lahti -- täht langeb tervikuna sisse, ja vaadeldud valguspurse on lihtsalt valgus tähe pinnalt, mis kuumeneb, kui see langeb.",
+        "sourceHash": "bca0d6d94370e4fe",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "tidal-disruption-events-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The black hole's magnetic field strips the star's outer layers away before any tidal force becomes relevant at all.",
+        "et": "Musta augu magnetväli rebib tähe välimised kihid ära, enne kui mingi loodetejõud üldse asjakohaseks muutub.",
+        "sourceHash": "ec716b89ac63caf2",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

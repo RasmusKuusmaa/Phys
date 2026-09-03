@@ -1,0 +1,22 @@
+{
+  "id": "tidal-disruption-events",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Tidal disruption events",
+    "et": "Loodete lõhkumissündmused",
+    "sourceHash": "26a7dab36f1d8713",
+    "stale": false
+  },
+  "summary": {
+    "en": "When a star wanders close enough to a supermassive black hole, the tidal force -- the difference in gravitational pull between the star's near and far side -- can grow strong enough to overcome the star's own self-gravity entirely, ripping the star apart in a tidal disruption event once it crosses within the black hole's tidal radius, after which roughly half of the star's shredded debris escapes on unbound trajectories while the other half falls back toward the black hole along elongated orbits, gradually circularizing into a temporary accretion disk that radiates an intense, unmistakable flare of light rising over days and fading over months to years, giving astronomers a rare, direct way to detect an otherwise completely dormant supermassive black hole purely from the brief violence of consuming a single unlucky star.",
+    "et": "Kui täht rändab piisavalt lähedale ülimassiivsele mustale augule, võib loodetejõud -- gravitatsioonilise tõmbe erinevus tähe lähedase ja kauge külje vahel -- kasvada piisavalt tugevaks, et võita tähe enda gravitatsioon täielikult, rebides tähe lahti loodete lõhkumissündmuses, kui see ületab musta augu loodete raadiuse, misjärel umbes pool tähe purustatud jäänustest pääseb lahtiste trajektooride kaudu, samal ajal kui teine pool langeb tagasi musta augu poole piklike orbiitide kaudu, tsirkulariseerudes järk-järgult ajutiseks akretsioonikettaks, mis kiirgab intensiivset, äratuntavat valguspurset, mis tõuseb päevade jooksul ja tuhmub kuude kuni aastate jooksul, andes astronoomidele haruldase, otsese viisi tuvastada muidu täiesti uinunud ülimassiivne must auk puhtalt ühe õnnetu tähe hävitava neelamise lühikesest vägivaldsusest.",
+    "sourceHash": "d6178442f7b20df4",
+    "stale": false
+  },
+  "prerequisites": [
+    "accretion-disks-and-active-galactic-nuclei",
+    "the-eddington-luminosity-limit"
+  ]
+}

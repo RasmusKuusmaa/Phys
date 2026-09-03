@@ -1,0 +1,10 @@
+{
+  "id": "tidal-disruption-events-m2",
+  "conceptId": "tidal-disruption-events",
+  "text": {
+    "en": "Believing all of a disrupted star's mass falls directly into the black hole, powering the observed flare entirely from infalling matter -- roughly half of the shredded stellar debris is actually placed on unbound trajectories by the disruption and escapes the system entirely, never to return; only the bound half falls back toward the black hole, and even that debris takes time (arriving along a spread of elongated orbits) to circularize into an accretion disk, which is what actually powers the observed flare as it gradually radiates away gravitational energy, not a single instantaneous infall of the star's entire mass.",
+    "et": "Arvamus, et kogu lõhutud tähe mass langeb otse musta auku, toites vaadeldud valguspurset täielikult sisselangevast ainest -- tegelikult asetatakse umbes pool purustatud tähe jäänustest lõhkumise poolt lahtistele trajektooridele ja need lahkuvad süsteemist täielikult, ilma et need kunagi tagasi tuleksid; ainult seotud pool langeb tagasi musta augu poole, ning isegi see jäänus võtab aega (saabudes piki piklike orbiitide vahemikku), et tsirkulariseeruda akretsioonikettaks, mis ongi see, mis tegelikult toidab vaadeldud valguspurset, kui see järk-järgult kiirgab ära gravitatsioonienergia, mitte tähe kogu massi üksik hetkeline sisselangemine.",
+    "sourceHash": "de2341f6adb54e83",
+    "stale": false
+  }
+}
