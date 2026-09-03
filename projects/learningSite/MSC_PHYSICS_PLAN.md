@@ -91,13 +91,13 @@ git log --oneline | grep '^content: add '   # concepts already landed this phase
       phenomenological `superconductivity` concept)
 - [x] The Fermi surface and electronic transport
 
-## Phase M6 — Particle physics (existing: only 2 concepts — biggest MSc gap)
+## Phase M6 — Particle physics (existing: only 2 concepts — biggest MSc gap) — done
 
-- [ ] Gauge symmetries and the Higgs mechanism
-- [ ] Quantum electrodynamics and Feynman diagrams (conceptual)
-- [ ] Quantum chromodynamics and colour confinement
-- [ ] Electroweak unification
-- [ ] Neutrino oscillations and neutrino mass
+- [x] Gauge symmetries and the Higgs mechanism
+- [x] Quantum electrodynamics and Feynman diagrams (conceptual)
+- [x] Quantum chromodynamics and colour confinement
+- [x] Electroweak unification
+- [x] Neutrino oscillations and neutrino mass
 
 ## Phase M7 — General relativity (new module — currently folded into astrophysics)
 
