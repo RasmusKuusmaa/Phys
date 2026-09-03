@@ -1,0 +1,55 @@
+{
+  "id": "star-formation-and-the-jeans-instability-item1",
+  "conceptId": "star-formation-and-the-jeans-instability",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A molecular cloud core sits right at its Jeans mass. If its temperature is raised while its density is held fixed, what happens to its stability against gravitational collapse?",
+    "et": "Molekulaarpilve tuum asub täpselt oma Jeansi massi juures. Kui selle temperatuuri tõstetakse, hoides tihedust muutumatuna, mis juhtub selle stabiilsusega gravitatsioonilise kollapsi suhtes?",
+    "sourceHash": "1723fee032e43dc2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It becomes more stable, because the higher temperature raises the thermal pressure support, which raises the Jeans mass above the core's actual mass.",
+        "et": "See muutub stabiilsemaks, sest kõrgem temperatuur tõstab soojusrõhu toetust, mis tõstab Jeansi massi kõrgemale tuuma tegelikust massist.",
+        "sourceHash": "d8b9876cc30492ef",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It becomes less stable, because the hotter gas now has more energy available to drive the collapse forward.",
+        "et": "See muutub vähem stabiilseks, sest soojemal gaasil on nüüd rohkem energiat kollapsi edasiviimiseks.",
+        "sourceHash": "337417b9d938b1cf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "star-formation-and-the-jeans-instability-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing changes, since the core was already going to collapse regardless of pressure -- pressure does not meaningfully resist self-gravity in a molecular cloud.",
+        "et": "Miski ei muutu, sest tuum oleks nagunii kokku varisenud, sõltumata rõhust -- rõhk ei seisa molekulaarpilves gravitatsioonile sisuliselt vastu.",
+        "sourceHash": "f1f7afc754030dd1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "star-formation-and-the-jeans-instability-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It becomes less stable, because raising the temperature always causes a cloud to fragment into more numerous, separately-collapsing pieces.",
+        "et": "See muutub vähem stabiilseks, sest temperatuuri tõstmine põhjustab pilve killustumise alati arvukamateks, eraldi variseivateks tükkideks.",
+        "sourceHash": "fdfafc748fe428ba",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "star-formation-and-the-jeans-instability-m2",
+  "conceptId": "star-formation-and-the-jeans-instability",
+  "text": {
+    "en": "Believing a collapsing molecular cloud falls inward as a single coherent clump, forming exactly one star per cloud -- because the Jeans mass itself falls as the collapsing gas grows denser, a region that was originally one Jeans mass across quickly contains many separate sub-regions each individually above the (now much smaller) local Jeans mass, so the cloud fragments hierarchically into numerous separately-collapsing clumps rather than collapsing monolithically; this fragmentation, not a one-cloud-one-star process, is why star formation produces entire clusters of stars with a range of masses.",
+    "et": "Arvamus, et variseev molekulaarpilv langeb sisse ühe terve tükina, moodustades täpselt ühe tähe pilve kohta -- kuna Jeansi mass ise langeb, kui varisev gaas muutub tihedamaks, sisaldab algselt ühe Jeansi massi ulatuses olnud piirkond kiiresti palju eraldi alapiirkondi, millest igaüks ületab eraldi praeguse, palju väiksema kohaliku Jeansi massi, nii et pilv killustub hierarhiliselt paljudeks eraldi variseivateks tükkideks, mitte ei varise kokku ühe tervikuna; just see killustumine, mitte üks-pilv-üks-täht protsess, seletab, miks tähtede teke annab terveid erineva massiga tähtede parvi.",
+    "sourceHash": "814aa0a197a71c33",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "star-formation-and-the-jeans-instability-m1",
+  "conceptId": "star-formation-and-the-jeans-instability",
+  "text": {
+    "en": "Believing a molecular cloud collapses under gravity because nothing resists it, as though gravitational collapse were the default fate of any gas cloud with no opposing force at all -- in reality the cloud's thermal gas pressure actively resists compression the entire time, and the Jeans criterion is a genuine competition between two comparably-sized energies (gravitational and thermal), not gravity acting on an otherwise inert, pressureless cloud; a cloud below the Jeans mass sits in stable hydrostatic equilibrium indefinitely, resisting gravity successfully rather than merely collapsing slowly.",
+    "et": "Arvamus, et molekulaarpilv variseb gravitatsiooni mõjul kokku, kuna miski sellele vastu ei seisa, nagu oleks gravitatsiooniline kollaps iga gaasipilve vaikimisi saatus ilma vastutoimiva jõuta -- tegelikult seisab pilve soojusrõhk kogu aeg aktiivselt kokkusurumisele vastu ning Jeansi kriteerium on tõeline konkurents kahe võrreldava suurusega energia (gravitatsioonilise ja soojusliku) vahel, mitte gravitatsiooni mõju muidu inertsele ja rõhuta pilvele; Jeansi massist väiksem pilv püsib määramata aja stabiilses hüdrostaatilises tasakaalus, seistes gravitatsioonile edukalt vastu, mitte lihtsalt aeglaselt kokku varisedes.",
+    "sourceHash": "6764863082a57149",
+    "stale": false
+  }
+}

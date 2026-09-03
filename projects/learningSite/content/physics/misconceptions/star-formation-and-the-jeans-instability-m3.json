@@ -1,0 +1,10 @@
+{
+  "id": "star-formation-and-the-jeans-instability-m3",
+  "conceptId": "star-formation-and-the-jeans-instability",
+  "text": {
+    "en": "Believing that raising a cloud's temperature at fixed density makes gravitational collapse easier, by analogy with 'hotter gas has more energy so it collapses faster' -- the opposite is true: raising the temperature increases the thermal gas pressure resisting collapse, which raises the Jeans mass, meaning a warmer cloud needs to be more massive (or denser) before it can collapse at all; it is low temperature (weak pressure support) together with high density (strong self-gravity per unit volume) that favours collapse, not high temperature.",
+    "et": "Arvamus, et pilve temperatuuri tõstmine muutumatu tiheduse juures muudab gravitatsioonilise kollapsi lihtsamaks, analoogia põhjal 'soojemal gaasil on rohkem energiat, seega variseb see kiiremini kokku' -- tõsi on vastupidine: temperatuuri tõstmine suurendab kollapsile vastu seisvat soojusrõhku, mis tõstab Jeansi massi, mistõttu soojem pilv peab olema massiivsem (või tihedam), enne kui ta üldse kokku variseda saab; kollapsi soodustab madal temperatuur (nõrk rõhutoetus) koos kõrge tihedusega (tugev gravitatsioon ruumalaühiku kohta), mitte kõrge temperatuur.",
+    "sourceHash": "0761aa2986359ebc",
+    "stale": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "star-formation-and-the-jeans-instability",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Star formation and the Jeans instability",
+    "et": "Tähtede teke ja Jeansi ebastabiilsus",
+    "sourceHash": "4d5035b2d63d452d",
+    "stale": false
+  },
+  "summary": {
+    "en": "A giant molecular cloud of cold gas and dust is held up against its own self-gravity purely by thermal gas pressure, and remains in stable equilibrium only below a critical mass -- the Jeans mass -- set by the competition between gravitational binding energy and thermal kinetic energy, so that a sufficiently massive, cold, or dense region collapses under its own gravity once even slightly perturbed, and because the Jeans mass keeps falling as the collapsing gas grows denser, a single collapsing cloud does not fall inward as one monolithic clump but instead fragments hierarchically into many smaller, separately-collapsing pieces, which is why molecular clouds give birth to entire clusters of stars spanning a range of masses rather than one star apiece.",
+    "et": "Külma gaasi ja tolmu hiidmolekulaarpilve hoiab omaenda gravitatsioonile vastu üksnes gaasi soojusrõhk, ning pilv püsib stabiilses tasakaalus ainult kriitilisest massist -- Jeansi massist -- väiksema massi korral, mille määrab gravitatsioonilise sidumisenergia ja soojusliku kineetilise energia omavaheline konkurents, nii et piisavalt massiivne, külm või tihe piirkond variseb kokku omaenda gravitatsiooni all niipea, kui teda kasvõi kergelt häiritakse, ning kuna Jeansi mass langeb pidevalt, kui varisev gaas muutub tihedamaks, ei lange üksik variseev pilv sisse ühe tervikliku tükina, vaid killustub hierarhiliselt paljudeks väiksemateks, eraldi variseivateks tükkideks, mistõttu molekulaarpilved sünnitavad terveid täheparvi, mis hõlmavad erineva massiga tähti, mitte ühte tähte pilve kohta.",
+    "sourceHash": "33b03dd77abda668",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-virial-theorem",
+    "stellar-structure-equations"
+  ]
+}
