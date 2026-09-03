@@ -212,14 +212,14 @@ without stopping to ask.
 Going past Phase N's 8 concepts into further standard-textbook nuclear
 topics not yet covered.
 
-- [ ] Nuclear deformation and rotational bands
-- [ ] The r-process and s-process nucleosynthesis pathways (beyond the
+- [x] Nuclear deformation and rotational bands
+- [x] The r-process and s-process nucleosynthesis pathways (beyond the
       existing stellar-nucleosynthesis pp-chain/CNO/triple-alpha concept)
-- [ ] Neutrinoless double beta decay and the Majorana neutrino question
-- [ ] The nuclear equation of state at high density
-- [ ] Heavy-ion collisions and the quark-gluon plasma
-- [ ] Superheavy elements and the island of stability
-- [ ] Nuclear medicine (PET, SPECT, radiotherapy dosimetry)
-- [ ] Fission product yields and decay chains
+- [x] Neutrinoless double beta decay and the Majorana neutrino question
+- [x] The nuclear equation of state at high density
+- [x] Heavy-ion collisions and the quark-gluon plasma
+- [x] Superheavy elements and the island of stability
+- [x] Nuclear medicine (PET, SPECT, radiotherapy dosimetry)
+- [x] Fission product yields and decay chains
 
 ---
