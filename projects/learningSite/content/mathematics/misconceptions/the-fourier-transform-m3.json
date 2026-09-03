@@ -1,0 +1,10 @@
+{
+  "id": "the-fourier-transform-m3",
+  "conceptId": "the-fourier-transform",
+  "text": {
+    "en": "Believing the time-frequency uncertainty relation in signal processing and the Heisenberg position-momentum uncertainty principle in quantum mechanics are merely superficially similar-sounding but ultimately unrelated results -- both are literally the same mathematical inequality, arising because position-space and momentum-space wavefunctions in quantum mechanics are related to each other by a Fourier transform (position and momentum are Fourier-conjugate variables), so the general Fourier-transform trade-off between a function's spread and its transform's spread becomes, in this specific physical application, exactly the Heisenberg uncertainty principle -- one general mathematical fact with two different physical names depending on which pair of conjugate variables it is applied to.",
+    "et": "Arvamus, et aja-sageduse määramatuse seos signaalitöötluses ja Heisenbergi asukoha-impulsi määramatuse printsiip kvantmehaanikas on ainult pealiskaudselt sarnaselt kõlavad, kuid lõppkokkuvõttes mitteseotud tulemused -- mõlemad on sõna otseses mõttes sama matemaatiline võrratus, tekkides kuna asukoharuumi ja impulssiruumi lainefunktsioonid kvantmehaanikas on omavahel seotud Fourier' teisenduse kaudu (asukoht ja impulss on Fourier'-konjugeeritud muutujad), seega üldine Fourier' teisenduse kompromiss funktsiooni laotuse ja selle teisenduse laotuse vahel muutub selles konkreetses füüsikalises rakenduses täpselt Heisenbergi määramatuse printsiibiks -- üks üldine matemaatiline fakt kahe erineva füüsikalise nimega, olenevalt sellest, millisele konjugeeritud muutujate paarile see rakendatakse.",
+    "sourceHash": "3cb62368a728497e",
+    "stale": false
+  }
+}

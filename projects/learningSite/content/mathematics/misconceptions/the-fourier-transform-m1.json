@@ -1,0 +1,10 @@
+{
+  "id": "the-fourier-transform-m1",
+  "conceptId": "the-fourier-transform",
+  "text": {
+    "en": "Believing the Fourier transform applies only to periodic functions, the same way a Fourier series does -- the Fourier transform is specifically the tool for genuinely non-periodic functions, obtained by taking a Fourier series' period to infinity so the discrete sum of frequencies becomes a continuous integral; a periodic function's Fourier transform technically exists but is a set of infinitely sharp spikes (delta functions) at the same discrete frequencies its Fourier series already used, while the Fourier transform's real power and everyday use is for functions with no periodicity at all, such as a single localized pulse.",
+    "et": "Arvamus, et Fourier' teisendus kehtib ainult perioodiliste funktsioonide jaoks, samamoodi nagu Fourier' rida -- Fourier' teisendus on spetsiifiliselt vahend tõeliselt mitteperioodiliste funktsioonide jaoks, saadud Fourier' rea perioodi lõpmatuseni viies, nii et diskreetne sageduste summa muutub pidevaks integraaliks; perioodilise funktsiooni Fourier' teisendus eksisteerib tehniliselt, kuid see on lõpmatult teravate tippude (deltafunktsioonide) kogum samadel diskreetsetel sagedustel, mida selle Fourier' rida juba kasutas, samal ajal kui Fourier' teisenduse tegelik jõud ja igapäevane kasutus on mitteperioodiliste funktsioonide jaoks, nagu üksik lokaliseeritud impulss.",
+    "sourceHash": "e2f8e4ec39ea3bc1",
+    "stale": false
+  }
+}

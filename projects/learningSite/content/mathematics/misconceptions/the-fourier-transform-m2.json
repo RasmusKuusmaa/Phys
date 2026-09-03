@@ -1,0 +1,10 @@
+{
+  "id": "the-fourier-transform-m2",
+  "conceptId": "the-fourier-transform",
+  "text": {
+    "en": "Believing a function can, in principle, be made arbitrarily narrow in its own variable while its Fourier transform is also made arbitrarily narrow in frequency -- this is mathematically impossible for any function and its transform: narrowing a function in its own variable necessarily widens its transform, and narrowing the transform necessarily widens the original function, a genuine trade-off (quantified by an uncertainty-type inequality) built into the mathematics of the transform itself, not a limitation of measurement technique or a fact specific to any one physical application.",
+    "et": "Arvamus, et funktsiooni saab põhimõtteliselt teha suvaliselt kitsaks oma muutujas, samal ajal kui selle Fourier' teisendus tehakse samuti suvaliselt kitsaks sageduses -- see on matemaatiliselt võimatu mistahes funktsiooni ja tema teisenduse jaoks: funktsiooni kitsendamine oma muutujas laiendab tingimata selle teisendust, ning teisenduse kitsendamine laiendab tingimata algset funktsiooni, tõeline kompromiss (kvantifitseeritud määramatuse-tüüpi võrratusega), mis on sisse ehitatud teisenduse enda matemaatikasse, mitte mõõtmistehnika piirang või fakt, mis on spetsiifiline ühele füüsikalisele rakendusele.",
+    "sourceHash": "5e059ca20ec52b8a",
+    "stale": false
+  }
+}

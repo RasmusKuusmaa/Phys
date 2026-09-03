@@ -1,0 +1,22 @@
+{
+  "id": "the-fourier-transform",
+  "subject": "mathematics",
+  "level": "L4",
+  "module": "series",
+  "title": {
+    "en": "The Fourier transform",
+    "et": "Fourier' teisendus",
+    "sourceHash": "d5b19c3ca86f3108",
+    "stale": false
+  },
+  "summary": {
+    "en": "A Fourier series decomposes a periodic function into a discrete sum of sines and cosines at integer-multiple frequencies, but stretching the period toward infinity turns that discrete sum into a continuous integral over every real frequency, defining the Fourier transform, which represents a genuinely non-periodic function as a continuous superposition of oscillations rather than a countable list of them, and which trades information between a function and its transform in a mathematically precise, unavoidable way: a function tightly localized in its own variable necessarily has a widely spread-out transform, and vice versa, a general fact about pairs of functions related this way that underlies the time-frequency uncertainty relation in signal processing and, in an identical mathematical form, the position-momentum Heisenberg uncertainty principle in quantum mechanics.",
+    "et": "Fourier' rida lahutab perioodilise funktsiooni siinuste ja koosinuste diskreetseks summaks täisarvuliste kordsete sageduste juures, kuid perioodi venitamine lõpmatuseni muudab selle diskreetse summa pidevaks integraaliks üle iga reaalse sageduse, defineerides Fourier' teisenduse, mis esitab tõeliselt mitteperioodilise funktsiooni ostsillatsioonide pideva superpositsioonina, mitte nende loenduva nimekirjana, ning mis vahetab teavet funktsiooni ja tema teisenduse vahel matemaatiliselt täpsel, vältimatul viisil: funktsioonil, mis on tihedalt lokaliseeritud oma muutujas, on tingimata laialivalguv teisendus, ja vastupidi, üldine fakt selliselt seotud funktsioonipaaride kohta, mis on aluseks aja-sageduse määramatuse seosele signaalitöötluses ja, identses matemaatilises kujus, asukoha-impulsi Heisenbergi määramatuse printsiibile kvantmehaanikas.",
+    "sourceHash": "b22680c4eecf0e14",
+    "stale": false
+  },
+  "prerequisites": [
+    "fourier-series",
+    "improper-integrals"
+  ]
+}

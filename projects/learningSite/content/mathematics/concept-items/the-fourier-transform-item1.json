@@ -1,0 +1,56 @@
+{
+  "id": "the-fourier-transform-item1",
+  "conceptId": "the-fourier-transform",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why are the Heisenberg uncertainty principle in quantum mechanics and the time-frequency uncertainty relation in signal processing considered the same underlying mathematical result?",
+    "et": "Miks peetakse Heisenbergi määramatuse printsiipi kvantmehaanikas ja aja-sageduse määramatuse seost signaalitöötluses samaks aluseks olevaks matemaatiliseks tulemuseks?",
+    "sourceHash": "48a17889a770d6a7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Position and momentum wavefunctions are related by a Fourier transform, so the general trade-off between a function's spread and its transform's spread applies directly, just with different variable names.",
+        "et": "Asukoha ja impulsi lainefunktsioonid on seotud Fourier' teisenduse kaudu, seega kehtib üldine kompromiss funktsiooni laotuse ja selle teisenduse laotuse vahel otse, lihtsalt erinevate muutujanimedega.",
+        "sourceHash": "137f4dc7db41a034",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are actually unrelated results that merely happen to share similar-sounding names by historical coincidence.",
+        "et": "Need on tegelikult mitteseotud tulemused, mis lihtsalt juhtuvad jagama sarnaselt kõlavaid nimesid ajaloolise kokkusattumuse tõttu.",
+        "sourceHash": "035590c70ed1b8ec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fourier-transform-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both describe a measurement-technology limitation specific to current instruments, not a fundamental mathematical constraint.",
+        "et": "Mõlemad kirjeldavad praeguste instrumentide jaoks spetsiifilist mõõtmistehnoloogia piirangut, mitte fundamentaalset matemaatilist piirangut.",
+        "sourceHash": "7f0195dab29beeb8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fourier-transform-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both only apply to strictly periodic signals or wavefunctions, and neither has any bearing on genuinely non-periodic cases.",
+        "et": "Mõlemad kehtivad ainult rangelt perioodiliste signaalide või lainefunktsioonide jaoks, ja kummalgi ei ole tähtsust tõeliselt mitteperioodiliste juhtude jaoks.",
+        "sourceHash": "1d5165de5097c2ba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fourier-transform-m1"
+    }
+  ]
+}
