@@ -1,0 +1,56 @@
+{
+  "id": "the-fermi-surface-and-electronic-transport-item1",
+  "conceptId": "the-fermi-surface-and-electronic-transport",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can't electrons deep inside a metal's filled Fermi sea, well below the Fermi surface, contribute to electrical conduction?",
+    "et": "Miks ei saa metalli täidetud Fermi mere sügavuses, tunduvalt allpool Fermi pinda, olevad elektronid elektrijuhtivusesse panustada?",
+    "sourceHash": "f437c5cbde8f22ca",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Every nearby momentum state is already occupied, so the Pauli exclusion principle forbids them from scattering into a neighbouring state at all.",
+        "et": "Iga lähedane impulssolek on juba hõivatud, nii et Pauli keeluprintsiip keelab neil üldse naaberolekusse hajuda.",
+        "sourceHash": "42ca2cc04fdd5981",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They actually do contribute equally to conduction, just like electrons at the Fermi surface.",
+        "et": "Need tegelikult panustavad juhtivusesse võrdselt, täpselt nagu Fermi pinnal olevad elektronid.",
+        "sourceHash": "b5a20d0fa0dc646b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fermi-surface-and-electronic-transport-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the Fermi surface is a perfect sphere, which somehow excludes deeper electrons from any process.",
+        "et": "Kuna Fermi pind on täiuslik kera, mis kuidagi välistab sügavamad elektronid igast protsessist.",
+        "sourceHash": "79a8da4cff290d54",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fermi-surface-and-electronic-transport-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "There's no real reason — 'deep' and 'surface' electrons are just an abstraction with no measurable physical difference between them.",
+        "et": "Tegelikku põhjust ei ole — 'sügavad' ja 'pinnal olevad' elektronid on lihtsalt abstraktsioon ilma mõõdetava füüsikalise erinevuseta nende vahel.",
+        "sourceHash": "3b1269fac328c2af",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fermi-surface-and-electronic-transport-m3"
+    }
+  ]
+}

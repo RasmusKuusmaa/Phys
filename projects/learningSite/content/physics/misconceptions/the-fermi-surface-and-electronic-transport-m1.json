@@ -1,0 +1,10 @@
+{
+  "id": "the-fermi-surface-and-electronic-transport-m1",
+  "conceptId": "the-fermi-surface-and-electronic-transport",
+  "text": {
+    "en": "Believing every conduction electron in a metal, no matter its energy, contributes equally to electrical conduction — only electrons with momenta right at the Fermi surface have nearby empty states to scatter into; electrons deep inside the filled Fermi sea are blocked by the Pauli exclusion principle from participating in transport at all.",
+    "et": "Arvamus, et iga metalli juhtivuselektron, olenemata selle energiast, panustab elektrijuhtivusesse võrdselt — ainult Fermi pinnal asuvatel elektronidel on lähedal tühjad olekud, kuhu hajuda; sügaval täidetud Fermi mere sees olevad elektronid on Pauli keeluprintsiibi poolt transpordis osalemisest täielikult blokeeritud.",
+    "sourceHash": "1531a061ce06165d",
+    "stale": false
+  }
+}

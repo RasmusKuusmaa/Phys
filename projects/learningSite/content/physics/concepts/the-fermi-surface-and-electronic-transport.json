@@ -1,0 +1,22 @@
+{
+  "id": "the-fermi-surface-and-electronic-transport",
+  "subject": "physics",
+  "level": "L4",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "The Fermi surface and electronic transport",
+    "et": "Fermi pind ja elektrontransport",
+    "sourceHash": "95d30bf6b308af20",
+    "stale": false
+  },
+  "summary": {
+    "en": "At absolute zero, a metal's conduction electrons fill every available momentum state up to the Fermi energy, and the boundary of that filled region in momentum space — the Fermi surface — is what actually determines nearly every one of a metal's electronic transport properties, since only electrons with momenta right at that surface can be scattered into a nearby empty state and contribute to conduction at all.",
+    "et": "Absoluutsel nullil täidavad metalli juhtivuselektronid iga saadaoleva impulssoleku kuni Fermi energiani, ning selle täidetud piirkonna piir impulsiruumis — Fermi pind — on see, mis tegelikult määrab peaaegu kõik metalli elektrontranspordi omadused, kuna ainult elektronid, mille impulss on täpselt sellel pinnal, saavad üldse hajuda lähedasse tühja olekusse ja juhtivusesse panustada.",
+    "sourceHash": "14803b80bb198cad",
+    "stale": false
+  },
+  "prerequisites": [
+    "band-theory-of-solids",
+    "the-boltzmann-transport-equation"
+  ]
+}

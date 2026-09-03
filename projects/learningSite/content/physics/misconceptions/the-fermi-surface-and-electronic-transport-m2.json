@@ -1,0 +1,10 @@
+{
+  "id": "the-fermi-surface-and-electronic-transport-m2",
+  "conceptId": "the-fermi-surface-and-electronic-transport",
+  "text": {
+    "en": "Believing the Fermi surface is always a perfect sphere for any metal — that's only true for the idealized free-electron model; a real metal's Fermi surface is shaped by the actual periodic lattice potential and can be a complex, faceted shape reflecting the specific material's band structure.",
+    "et": "Arvamus, et Fermi pind on iga metalli jaoks alati täiuslik kera — see kehtib ainult idealiseeritud vabade elektronide mudeli jaoks; reaalse metalli Fermi pinda kujundab tegelik perioodiline võrepotentsiaal ja see võib olla keeruline, tahuline kuju, mis peegeldab konkreetse materjali vöödistruktuuri.",
+    "sourceHash": "7245080ef3fbd3d7",
+    "stale": false
+  }
+}
