@@ -1,0 +1,56 @@
+{
+  "id": "the-boltzmann-transport-equation-item1",
+  "conceptId": "the-boltzmann-transport-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does the Boltzmann transport equation actually track as it evolves in time?",
+    "et": "Mida Boltzmanni transpordivõrrand tegelikult jälgib, kui see ajas areneb?",
+    "sourceHash": "50af44aa7262ab93",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A distribution function giving the density of particles at each position and velocity — a statistical description, not each particle's individual trajectory.",
+        "et": "Jaotusfunktsiooni, mis annab osakeste tiheduse igas asukohas ja kiiruses — statistiline kirjeldus, mitte iga osakese individuaalne trajektoor.",
+        "sourceHash": "1f8bdac101f124b2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The exact position and velocity trajectory of every individual particle in the gas, tracked one by one.",
+        "et": "Iga üksiku gaasi osakese täpset asukoha ja kiiruse trajektoori, jälgituna üksteise järel.",
+        "sourceHash": "26ae0275fda5a8da",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-boltzmann-transport-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Only systems already sitting in full thermal equilibrium, with no meaningful application away from it.",
+        "et": "Ainult süsteeme, mis juba istuvad täielikus soojuslikus tasakaalus, ilma tähendusliku rakenduseta sellest eemal.",
+        "sourceHash": "69199d8b175b4ac1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-boltzmann-transport-equation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A predetermined empirical conductivity value, with no real derivation from underlying collision physics.",
+        "et": "Etteantud empiirilist juhtivuse väärtust, ilma tegeliku tuletuseta aluseks olevast põrkefüüsikast.",
+        "sourceHash": "d41478252cc79280",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-boltzmann-transport-equation-m3"
+    }
+  ]
+}

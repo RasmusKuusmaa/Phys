@@ -1,0 +1,56 @@
+{
+  "id": "the-fluctuation-dissipation-theorem-item1",
+  "conceptId": "the-fluctuation-dissipation-theorem",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A resistor at room temperature, with no current source connected, is found to have a small, randomly fluctuating voltage across its terminals. What does the fluctuation-dissipation theorem say about this noise and the resistor's ordinary electrical resistance?",
+    "et": "Leitakse, et toatemperatuuril takistil, millega ei ole ühendatud vooluallikat, on selle klemmide vahel väike, juhuslikult kõikuv pinge. Mida ütleb fluktuatsiooni-dissipatsiooni teoreem selle müra ja takisti tavalise elektritakistuse kohta?",
+    "sourceHash": "7cf138aafc7fbcc5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They arise from the identical microscopic mechanism and are quantitatively linked through the temperature — not independent properties.",
+        "et": "Need tekivad identsest mikroskoopilisest mehhanismist ja on kvantitatiivselt seotud temperatuuri kaudu — mitte sõltumatud omadused.",
+        "sourceHash": "8fa494e2baf7dbc2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They are unrelated material properties that just happen to both exist in the same resistor.",
+        "et": "Need on mitteseotud materjaliomadused, mis juhtumisi mõlemad samas takistis eksisteerivad.",
+        "sourceHash": "735d0d5460681afb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fluctuation-dissipation-theorem-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The noise couldn't actually appear with no current source connected — some hidden driving source must be present.",
+        "et": "Müra ei saaks tegelikult ilmuda ilma ühendatud vooluallikata — mingi peidetud juhtiv allikas peab olemas olema.",
+        "sourceHash": "b0e069cab00733cb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fluctuation-dissipation-theorem-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This noise phenomenon has nothing to do with the Stokes-Einstein relation for Brownian motion, a completely separate result.",
+        "et": "Sellel müranähtusel pole midagi pistmist Browni liikumise Stokes-Einsteini seosega, täiesti eraldiseisva tulemusega.",
+        "sourceHash": "3f466fdb61601c21",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-fluctuation-dissipation-theorem-m3"
+    }
+  ]
+}

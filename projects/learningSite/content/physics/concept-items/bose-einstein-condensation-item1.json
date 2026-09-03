@@ -1,0 +1,56 @@
+{
+  "id": "bose-einstein-condensation-item1",
+  "conceptId": "bose-einstein-condensation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which ingredient is actually required for an ideal (non-interacting) gas of bosons to undergo Bose-Einstein condensation below a critical temperature?",
+    "et": "Millist koostisosa on ideaalse (mitteinterakteeruva) bosongaasi jaoks tegelikult vaja Bose-Einsteini kondensatsiooni läbimiseks allpool kriitilist temperatuuri?",
+    "sourceHash": "ffcaa8f02ee617aa",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Nothing beyond Bose-Einstein statistics itself — no interaction between particles is needed; it's a purely statistical effect of being bosons.",
+        "et": "Mitte midagi peale Bose-Einsteini statistika enda — osakeste vahel ei ole vaja mingit interaktsiooni; see on puhtalt statistiline efekt bosonite olemisest.",
+        "sourceHash": "7e5912fc5b6e3aed",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Attractive interactions between the particles strong enough to pull them into the same quantum state.",
+        "et": "Osakeste vahelised tõmbavad interaktsioonid, mis on piisavalt tugevad, et tõmmata need samasse kvantolekusse.",
+        "sourceHash": "dc598c279d5fb463",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bose-einstein-condensation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing special — it's just what you call it when a fairly large but unremarkable number of particles happen to sit in the ground state.",
+        "et": "Miski erilist — see on lihtsalt see, mida nimetatakse, kui üsna suur, kuid tähelepanuväärimatu arv osakesi juhtub istuma põhiolekus.",
+        "sourceHash": "f6f1b506a1b3e1fd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bose-einstein-condensation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing extra for fermions — they can also condense the same way bosons do, given a low enough temperature.",
+        "et": "Fermionide jaoks mitte midagi lisa — needki saavad kondenseeruda samamoodi nagu bosonid, kui temperatuur on piisavalt madal.",
+        "sourceHash": "b25259bae8e070db",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bose-einstein-condensation-m3"
+    }
+  ]
+}

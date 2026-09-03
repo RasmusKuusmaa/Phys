@@ -1,0 +1,22 @@
+{
+  "id": "the-boltzmann-transport-equation",
+  "subject": "physics",
+  "level": "L4",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "The Boltzmann transport equation",
+    "et": "Boltzmanni transpordivõrrand",
+    "sourceHash": "10e9ae5c7b309855",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Boltzmann transport equation tracks how a gas's full distribution of particle positions and velocities evolves in time under free streaming, external forces, and collisions between particles, bridging microscopic single-particle dynamics and macroscopic transport properties like viscosity, thermal conductivity and electrical conductivity — quantities that emerge from the same equation as the specific, calculable rate at which collisions relax an out-of-equilibrium distribution back toward the Maxwell-Boltzmann distribution.",
+    "et": "Boltzmanni transpordivõrrand jälgib, kuidas gaasi osakeste asukoha ja kiiruse täielik jaotus areneb ajas vaba voolamise, väliste jõudude ja osakestevaheliste põrgete all, ühendades mikroskoopilise üksikosakese dünaamika ja makroskoopilised transpordiomadused nagu viskoossus, soojusjuhtivus ja elektrijuhtivus — suurused, mis tulevad samast võrrandist kui konkreetne, arvutatav määr, millega põrked lõõgastavad tasakaalust väljas oleva jaotuse tagasi Maxwell-Boltzmanni jaotuse poole.",
+    "sourceHash": "c5ac4d86d651fd19",
+    "stale": false
+  },
+  "prerequisites": [
+    "kinetic-theory-of-gases",
+    "mean-free-path-and-vacuum-regimes"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "the-boltzmann-transport-equation-m3",
+  "conceptId": "the-boltzmann-transport-equation",
+  "text": {
+    "en": "Believing macroscopic transport coefficients like electrical or thermal conductivity are simply measured empirical numbers with no connection to microscopic collision physics — the Boltzmann transport equation calculates these coefficients directly from the underlying collision cross-sections and mean free path, providing a genuine microscopic derivation, not just a name for an empirically measured number.",
+    "et": "Arvamus, et makroskoopilised transpordikordajad nagu elektri- või soojusjuhtivus on lihtsalt mõõdetud empiirilised arvud ilma seoseta mikroskoopilise põrkefüüsikaga — Boltzmanni transpordivõrrand arvutab need kordajad otse aluseks olevatest põrke ristlõigetest ja vabast teepikkusest, pakkudes tõelist mikroskoopilist tuletust, mitte lihtsalt nime empiiriliselt mõõdetud arvule.",
+    "sourceHash": "cdc85715eba8444a",
+    "stale": false
+  }
+}

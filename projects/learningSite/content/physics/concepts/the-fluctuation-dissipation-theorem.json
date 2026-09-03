@@ -1,0 +1,22 @@
+{
+  "id": "the-fluctuation-dissipation-theorem",
+  "subject": "physics",
+  "level": "L4",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "The fluctuation-dissipation theorem",
+    "et": "Fluktuatsiooni-dissipatsiooni teoreem",
+    "sourceHash": "36fb29227a104305",
+    "stale": false
+  },
+  "summary": {
+    "en": "The same microscopic interactions that cause a system to dissipate energy when pushed out of equilibrium — friction, electrical resistance, viscosity — are exactly what cause it to fluctuate spontaneously when left alone in equilibrium; the fluctuation-dissipation theorem makes this precise, relating a system's linear response to an external perturbation directly to the size of its spontaneous equilibrium fluctuations, with no free parameters connecting the two.",
+    "et": "Samad mikroskoopilised interaktsioonid, mis panevad süsteemi tasakaalust väljas olles energiat hajutama — hõõrdumine, elektritakistus, viskoossus —, on täpselt need, mis panevad selle tasakaalus üksi jäetuna spontaanselt kõikuma; fluktuatsiooni-dissipatsiooni teoreem teeb selle täpseks, seostades süsteemi lineaarse vastuse välisele häiritusele otse tema spontaansete tasakaalukõikumiste suurusega, ilma vabade parameetriteta, mis neid kaht ühendaks.",
+    "sourceHash": "71309b3032329640",
+    "stale": false
+  },
+  "prerequisites": [
+    "brownian-motion-and-the-stokes-einstein-relation",
+    "the-partition-function"
+  ]
+}

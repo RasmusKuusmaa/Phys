@@ -1,0 +1,10 @@
+{
+  "id": "the-fluctuation-dissipation-theorem-m2",
+  "conceptId": "the-fluctuation-dissipation-theorem",
+  "text": {
+    "en": "Believing Johnson-Nyquist electrical noise in a resistor requires an external current or voltage source to appear — it's a spontaneous equilibrium phenomenon, present at any nonzero temperature purely from the thermal motion of charge carriers, with no driving source connected at all.",
+    "et": "Arvamus, et takisti Johnsoni-Nyquisti elektrimüra ilmumiseks on vaja välist voolu- või pingeallikat — see on spontaanne tasakaalunähtus, olemas igal nullist erineval temperatuuril puhtalt laengukandjate soojusliku liikumise tõttu, ilma ühegi juhtiva allikata ühendatud.",
+    "sourceHash": "e3db7e4c7b2296ef",
+    "stale": false
+  }
+}

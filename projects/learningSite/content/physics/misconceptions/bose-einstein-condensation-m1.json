@@ -1,0 +1,10 @@
+{
+  "id": "bose-einstein-condensation-m1",
+  "conceptId": "bose-einstein-condensation",
+  "text": {
+    "en": "Believing Bose-Einstein condensation requires attractive interactions between particles to pull them into the same state — it occurs for an ideal, completely non-interacting Bose gas purely from quantum statistics; real interactions between actual atoms are a separate complication, not the cause of the effect.",
+    "et": "Arvamus, et Bose-Einsteini kondensatsioon vajab osakeste vahelisi tõmbavaid interaktsioone, mis tõmbaksid need samasse olekusse — see toimub ideaalse, täiesti mitteinterakteeruva Bose gaasi jaoks puhtalt kvantstatistikast; tegelikud interaktsioonid päris aatomite vahel on eraldi komplikatsioon, mitte efekti põhjus.",
+    "sourceHash": "14e728502660fb75",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "bose-einstein-condensation-m2",
+  "conceptId": "bose-einstein-condensation",
+  "text": {
+    "en": "Believing Bose-Einstein condensation just means 'a lot' of particles happen to be in the ground state, a matter of degree rather than a sharp transition — below the critical temperature, a genuinely macroscopic fraction (growing toward the entire gas as T approaches zero) occupies the ground state, a real discontinuity in behaviour, not a gradual increase indistinguishable from ordinary thermal population.",
+    "et": "Arvamus, et Bose-Einsteini kondensatsioon tähendab lihtsalt, et 'palju' osakesi juhtub olema põhiolekus, kraadi küsimus, mitte terav siire — allpool kriitilist temperatuuri hõivab põhioleku tõeliselt makroskoopiline murdosa (kasvades kogu gaasi poole, kui T läheneb nullile), tõeline katkevus käitumises, mitte järkjärguline kasv, mis on eristamatu tavalisest soojuslikust asustatusest.",
+    "sourceHash": "d3540724efd001cb",
+    "stale": false
+  }
+}

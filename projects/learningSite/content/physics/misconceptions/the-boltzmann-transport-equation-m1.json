@@ -1,0 +1,10 @@
+{
+  "id": "the-boltzmann-transport-equation-m1",
+  "conceptId": "the-boltzmann-transport-equation",
+  "text": {
+    "en": "Believing the Boltzmann transport equation tracks every individual particle's exact trajectory — it instead tracks a single distribution function describing the density of particles at each position and velocity, a statistical description, not individual trajectories.",
+    "et": "Arvamus, et Boltzmanni transpordivõrrand jälgib iga üksiku osakese täpset trajektoori — see jälgib selle asemel üksikut jaotusfunktsiooni, mis kirjeldab osakeste tihedust igas asukohas ja kiiruses, statistiline kirjeldus, mitte individuaalsed trajektoorid.",
+    "sourceHash": "1020bb121207c44d",
+    "stale": false
+  }
+}

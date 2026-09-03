@@ -1,0 +1,22 @@
+{
+  "id": "bose-einstein-condensation",
+  "subject": "physics",
+  "level": "L4",
+  "module": "statistical-mechanics",
+  "title": {
+    "en": "Bose-Einstein condensation",
+    "et": "Bose-Einsteini kondensatsioon",
+    "sourceHash": "e46a4d80e365c62e",
+    "stale": false
+  },
+  "summary": {
+    "en": "Below a specific critical temperature, a gas of bosons undergoes a genuine phase transition in which a macroscopic fraction of all the particles — not just a large number, but a finite fraction of the entire gas — collapses into the single lowest-energy quantum state, a purely quantum-statistical effect with no classical analogue that requires no interaction between the particles at all to occur.",
+    "et": "Allpool kindlat kriitilist temperatuuri läbib bosongaas tõelise faasisiirde, mille käigus makroskoopiline murdosa kõigist osakestest — mitte lihtsalt suur arv, vaid lõplik murdosa kogu gaasist — langeb kokku üheks madalaima energiaga kvantolekuks, puhtalt kvantstatistiline efekt ilma klassikalise analoogita, mille toimumiseks pole vaja osakeste vahel üldse mingit interaktsiooni.",
+    "sourceHash": "1caa5b5f9fc7b7b6",
+    "stale": false
+  },
+  "prerequisites": [
+    "quantum-statistics-fermi-dirac-and-bose-einstein",
+    "the-grand-canonical-ensemble"
+  ]
+}

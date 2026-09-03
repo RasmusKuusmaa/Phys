@@ -1,0 +1,25 @@
+Rather than tracking every individual particle's exact trajectory, the Boltzmann transport
+equation tracks a single function f(r, v, t): the density of particles at position r, with
+velocity v, at time t. Its time evolution has two distinct pieces — a streaming term,
+describing how f changes just from particles moving freely and responding to any external
+force, and a collision term, describing how collisions between particles redistribute
+velocities, pushing the distribution toward local equilibrium.
+
+In true thermal equilibrium with no external gradients, the collision term exactly balances
+the streaming term and f settles into the time-independent Maxwell-Boltzmann distribution —
+but the equation's real power shows up away from equilibrium, when a temperature gradient,
+an electric field, or a concentration gradient is imposed. Solving (often approximately, via
+the relaxation-time approximation, which assumes collisions relax any deviation from local
+equilibrium at a single characteristic rate) for how f responds to that imposed gradient
+gives macroscopic transport coefficients directly: electrical conductivity from the response
+to an electric field, thermal conductivity from the response to a temperature gradient,
+viscosity from the response to a velocity gradient.
+
+This is what makes the Boltzmann equation the standard bridge between microscopic collision
+physics and macroscopic transport phenomena: it doesn't just say that a gas has some
+resistance or some viscosity, it calculates the value from the underlying collision
+cross-sections and mean free path, connecting a measurable macroscopic number to
+microscopic mechanics. The same equation, applied to electrons in a metal or semiconductor
+scattering off lattice vibrations and impurities rather than colliding with each other, is
+the standard starting point for calculating electrical and thermal conductivity in
+solid-state physics.

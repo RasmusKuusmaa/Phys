@@ -1,0 +1,10 @@
+{
+  "id": "bose-einstein-condensation-m3",
+  "conceptId": "bose-einstein-condensation",
+  "text": {
+    "en": "Believing fermions can undergo the same kind of Bose-Einstein condensation as bosons — the Pauli exclusion principle forbids more than one fermion from occupying the same single-particle state at all, so an ideal Fermi gas cannot condense into a single ground state the way an ideal Bose gas does; this is specifically a boson phenomenon.",
+    "et": "Arvamus, et fermionid saavad läbida sama liiki Bose-Einsteini kondensatsiooni nagu bosonid — Pauli keeluprintsiip keelab üldse rohkem kui ühel fermionil hõivata sama üheosakese olekut, nii et ideaalne Fermi gaas ei saa kondenseeruda ühte põhiolekusse samamoodi nagu ideaalne Bose gaas; see on spetsiifiliselt bosonite nähtus.",
+    "sourceHash": "912e02238b0cdf81",
+    "stale": false
+  }
+}

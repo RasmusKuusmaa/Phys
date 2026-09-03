@@ -1,0 +1,10 @@
+{
+  "id": "the-fluctuation-dissipation-theorem-m3",
+  "conceptId": "the-fluctuation-dissipation-theorem",
+  "text": {
+    "en": "Believing the Stokes-Einstein relation for Brownian motion and the general fluctuation-dissipation theorem are two separate, unrelated results that happen to look mathematically similar — the Stokes-Einstein relation is specifically the special case of the general fluctuation-dissipation theorem applied to a diffusing particle's fluctuation and mobility.",
+    "et": "Arvamus, et Browni liikumise Stokes-Einsteini seos ja üldine fluktuatsiooni-dissipatsiooni teoreem on kaks eraldiseisvat, mitteseotud tulemust, mis juhtumisi näevad matemaatiliselt sarnased välja — Stokes-Einsteini seos on spetsiifiliselt üldise fluktuatsiooni-dissipatsiooni teoreemi erijuht, rakendatud difundeeruva osakese kõikumisele ja liikuvusele.",
+    "sourceHash": "9b4c203c3e6ab74e",
+    "stale": false
+  }
+}

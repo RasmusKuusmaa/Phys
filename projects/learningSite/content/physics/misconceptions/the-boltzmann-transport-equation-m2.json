@@ -1,0 +1,10 @@
+{
+  "id": "the-boltzmann-transport-equation-m2",
+  "conceptId": "the-boltzmann-transport-equation",
+  "text": {
+    "en": "Believing the Boltzmann equation only describes systems already in equilibrium — its real practical power is describing systems away from equilibrium, driven by an imposed temperature gradient, electric field, or concentration gradient, from which macroscopic transport coefficients are calculated.",
+    "et": "Arvamus, et Boltzmanni võrrand kirjeldab ainult juba tasakaalus olevaid süsteeme — selle tegelik praktiline jõud on tasakaalust eemal olevate süsteemide kirjeldamine, mida juhib rakendatud temperatuurigradient, elektriväli või kontsentratsioonigradient, millest arvutatakse makroskoopilised transpordikordajad.",
+    "sourceHash": "b31e7c896259daf4",
+    "stale": false
+  }
+}
