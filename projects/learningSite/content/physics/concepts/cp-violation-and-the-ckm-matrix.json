@@ -1,0 +1,22 @@
+{
+  "id": "cp-violation-and-the-ckm-matrix",
+  "subject": "physics",
+  "level": "L4",
+  "module": "particle-physics",
+  "title": {
+    "en": "CP violation and the CKM matrix",
+    "et": "CP-rikkumine ja CKM maatriks",
+    "sourceHash": "f63e0cd63fbc8a61",
+    "stale": false
+  },
+  "summary": {
+    "en": "Combined charge-conjugation-and-parity (CP) symmetry -- swapping every particle for its antiparticle while also mirror-reflecting space -- was long assumed to be an exact symmetry of nature, until experiments with neutral kaons in 1964 showed it is measurably violated by the weak interaction; the Cabibbo-Kobayashi-Maskawa (CKM) matrix, describing how the weak interaction mixes different quark flavours, contains a single irreducible complex phase that is the Standard Model's built-in source of this violation, and CP violation matters far beyond a technical footnote in particle physics, since it is one of the necessary ingredients any explanation of why the observable universe contains far more matter than antimatter must include.",
+    "et": "Kombineeritud laengukonjugatsiooni-ja-pariteedi (CP) sümmeetriat -- iga osakese vahetamist antiosakesega, samal ajal ka ruumi peegeldades -- peeti kaua looduse täpseks sümmeetriaks, kuni 1964. aasta katsed neutraalsete kaonitega näitasid, et nõrk vastastikmõju seda mõõdetavalt rikub; Cabibbo-Kobayashi-Maskawa (CKM) maatriks, mis kirjeldab, kuidas nõrk vastastikmõju erinevaid kvargimaitseid segab, sisaldab ühte taandumatut kompleksfaasi, mis on Standardmudeli sisseehitatud selle rikkumise allikas, ning CP-rikkumine on oluline kaugelt rohkem kui osakestefüüsika tehniline joonealune märkus, kuna see on üks vajalikest koostisosadest, mida iga seletus selle kohta, miks vaadeldav universum sisaldab palju rohkem ainet kui antiainet, peab sisaldama.",
+    "sourceHash": "5ac5d8432aa4b067",
+    "stale": false
+  },
+  "prerequisites": [
+    "electroweak-unification",
+    "the-standard-model-lagrangian"
+  ]
+}

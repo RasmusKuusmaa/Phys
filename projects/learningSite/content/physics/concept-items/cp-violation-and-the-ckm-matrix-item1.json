@@ -1,0 +1,56 @@
+{
+  "id": "cp-violation-and-the-ckm-matrix-item1",
+  "conceptId": "cp-violation-and-the-ckm-matrix",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Is the CP violation measured in quark physics large enough to fully explain the universe's matter-antimatter asymmetry?",
+    "et": "Kas kvargifüüsikas mõõdetud CP-rikkumine on piisavalt suur, et täielikult seletada universumi aine-antiaine asümmeetriat?",
+    "sourceHash": "0115a22405dc4788",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No -- it is real and precisely confirmed, but quantitatively far too small by many orders of magnitude, so additional sources beyond the Standard Model are actively sought.",
+        "et": "Ei -- see on reaalne ja täpselt kinnitatud, kuid kvantitatiivselt palju liiga väike mitme suurusjärgu võrra, seega otsitakse aktiivselt täiendavaid allikaid väljaspool Standardmudelit.",
+        "sourceHash": "fd0f3456e00fb296",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes, and in fact CP violation was the very first known violation of any discrete symmetry, discovered before parity violation.",
+        "et": "Jah, ning tegelikult oli CP-rikkumine esimene teadaolev mistahes diskreetse sümmeetria rikkumine, avastatud enne pariteedi rikkumist.",
+        "sourceHash": "0b2f6fdefa97c554",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cp-violation-and-the-ckm-matrix-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The question doesn't matter -- CP violation is a purely technical detail of kaon physics with no relevance to cosmology.",
+        "et": "Küsimus pole oluline -- CP-rikkumine on puhtalt tehniline kaonifüüsika üksikasi, millel pole kosmoloogiaga seost.",
+        "sourceHash": "117b7d990a495bef",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cp-violation-and-the-ckm-matrix-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Yes, the CKM matrix's known CP violation is already understood to be quantitatively sufficient on its own.",
+        "et": "Jah, CKM maatriksi teadaolev CP-rikkumine on juba mõistetud olevat iseenesest kvantitatiivselt piisav.",
+        "sourceHash": "2ad1a964eb374641",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cp-violation-and-the-ckm-matrix-m3"
+    }
+  ]
+}

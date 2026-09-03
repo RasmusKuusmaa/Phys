@@ -1,0 +1,22 @@
+{
+  "id": "quantum-entanglement-and-bells-theorem",
+  "subject": "physics",
+  "level": "L4",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Quantum entanglement and Bell's theorem",
+    "et": "Kvantpõimumine ja Belli teoreem",
+    "sourceHash": "27668d12c2330571",
+    "stale": false
+  },
+  "summary": {
+    "en": "Two or more quantum particles can be prepared in an entangled state where the whole system's quantum state cannot be written as a simple product of separate states for each particle, so measuring one particle instantaneously affects what outcomes become certain for the other, however far apart they are; Bell's theorem shows that no theory obeying both realism (particles have definite properties before measurement) and locality (no influence travels faster than light) can reproduce quantum mechanics' predicted correlations, and experiments testing Bell's inequality have repeatedly confirmed quantum mechanics' predictions, ruling out that whole broad class of alternative theories rather than merely failing to find evidence for it.",
+    "et": "Kaks või enam kvantosakest saab valmistada põimunud olekusse, kus kogu süsteemi kvantoleku ei saa kirjutada iga osakese eraldi olekute lihtsa korrutisena, seega üht osakest mõõtes mõjutab see koheselt seda, millised tulemused muutuvad teise jaoks kindlaks, ükskõik kui kaugel need on; Belli teoreem näitab, et ükski teooria, mis alistub nii realismile (osakestel on mõõtmise eel kindlad omadused) kui lokaalsusele (ükski mõju ei levi kiiremini kui valgus), ei suuda taasluua kvantmehaanika ennustatud korrelatsioone, ning katsed, mis testivad Belli võrratust, on korduvalt kinnitanud kvantmehaanika ennustusi, välistades selle terve laia alternatiivsete teooriate klassi, mitte lihtsalt ei suutnud selle jaoks tõendeid leida.",
+    "sourceHash": "c63fde1a10661c08",
+    "stale": false
+  },
+  "prerequisites": [
+    "wavefunctions-and-probability",
+    "spin-and-angular-momentum-in-quantum-mechanics"
+  ]
+}

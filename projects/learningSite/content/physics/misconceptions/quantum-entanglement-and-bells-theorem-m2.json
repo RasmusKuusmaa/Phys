@@ -1,0 +1,10 @@
+{
+  "id": "quantum-entanglement-and-bells-theorem-m2",
+  "conceptId": "quantum-entanglement-and-bells-theorem",
+  "text": {
+    "en": "Believing Bell's theorem and the associated experiments merely failed to find evidence for hidden-variable theories, leaving the possibility open but unconfirmed -- Bell's theorem is a rigorous mathematical proof that any theory satisfying both realism and locality together must obey a specific statistical inequality that quantum mechanics' predictions violate, and repeated experimental tests have measured violations of that inequality matching quantum mechanics' predictions to high precision, which actively rules out the entire class of local hidden-variable theories rather than simply lacking positive evidence for quantum mechanics over them.",
+    "et": "Arvamus, et Belli teoreem ja sellega seotud katsed lihtsalt ei suutnud leida tõendeid varjatud muutujate teooriate kohta, jättes võimaluse lahtiseks, kuid kinnitamata -- Belli teoreem on range matemaatiline tõestus, et iga teooria, mis rahuldab korraga nii realismi kui lokaalsust, peab alluma konkreetsele statistilisele võrratusele, mida kvantmehaanika ennustused rikuvad, ning korduvad eksperimentaalsed testid on mõõtnud selle võrratuse rikkumisi, mis vastavad kvantmehaanika ennustustele kõrge täpsusega, mis aktiivselt välistab kogu lokaalsete varjatud muutujate teooriate klassi, mitte lihtsalt ei oma positiivseid tõendeid kvantmehaanika kasuks nende üle.",
+    "sourceHash": "eaf997c520c3aa3c",
+    "stale": false
+  }
+}

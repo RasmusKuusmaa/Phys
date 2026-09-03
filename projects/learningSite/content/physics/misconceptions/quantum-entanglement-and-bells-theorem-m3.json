@@ -1,0 +1,10 @@
+{
+  "id": "quantum-entanglement-and-bells-theorem-m3",
+  "conceptId": "quantum-entanglement-and-bells-theorem",
+  "text": {
+    "en": "Believing an entangled quantum state can always be understood as simply describing each particle having a definite, if unknown, property that measurement merely reveals, the same way a pair of gloves sent to two different cities are each definitely left or right even before the box is opened -- this 'local hidden variable' picture is precisely the possibility Bell's theorem rules out for quantum mechanics: entangled particles genuinely do not possess definite pre-existing values for every measurable property before measurement in the way the glove analogy suggests, since that classical picture cannot reproduce the correlations quantum mechanics predicts and experiments confirm.",
+    "et": "Arvamus, et põimunud kvantolekut saab alati mõista lihtsalt kirjeldusena, kus igal osakesel on kindel, kuigi teadmata, omadus, mida mõõtmine ainult paljastab, samamoodi nagu kahte erinevasse linna saadetud kindad on mõlemad kindlalt vasak või parem juba enne karbi avamist -- see 'lokaalse varjatud muutuja' pilt on täpselt see võimalus, mille Belli teoreem kvantmehaanika jaoks välistab: põimunud osakestel ei ole tõeliselt kindlaid eelnevalt eksisteerivaid väärtusi iga mõõdetava omaduse jaoks enne mõõtmist viisil, nagu kinda analoogia viitab, kuna see klassikaline pilt ei suuda taasluua korrelatsioone, mida kvantmehaanika ennustab ja katsed kinnitavad.",
+    "sourceHash": "ad68ebbedfa097fd",
+    "stale": false
+  }
+}

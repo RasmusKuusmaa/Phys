@@ -1,0 +1,55 @@
+{
+  "id": "quantum-entanglement-and-bells-theorem-item1",
+  "conceptId": "quantum-entanglement-and-bells-theorem",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why doesn't quantum entanglement allow faster-than-light communication, despite one measurement instantaneously determining the other's outcome?",
+    "et": "Miks ei luba kvantpõimumine ülevalguskiirusel sidet, hoolimata sellest, et üks mõõtmine määrab koheselt teise tulemuse?",
+    "sourceHash": "12909f714da5d173",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the outcome obtained on the first particle is genuinely random and uncontrollable, so revealing any correlation still requires an ordinary, light-speed-limited classical channel.",
+        "et": "Sest esimesel osakesel saadud tulemus on tõeliselt juhuslik ja kontrollimatu, seega nõuab mistahes korrelatsiooni paljastamine endiselt tavalist, valguse kiirusega piiratud klassikalist kanalit.",
+        "sourceHash": "17bc3afec76238a8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Bell's theorem and its experiments only failed to find evidence either way, so the question of faster-than-light signaling actually remains genuinely open.",
+        "et": "Belli teoreem ja selle katsed lihtsalt ei suutnud leida tõendeid kummalgi viisil, seega jääb ülevalguskiirusel signaalimise küsimus tegelikult lahtiseks.",
+        "sourceHash": "1c594c0ce4d80de2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-entanglement-and-bells-theorem-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because each entangled particle actually has a definite, predetermined value all along, the same way a pair of gloves sent to two cities are each definitely left or right beforehand.",
+        "et": "Sest igal põimunud osakesel on tegelikult kindel, ette määratud väärtus kogu aeg, samamoodi nagu kahte linna saadetud kindad on mõlemad kindlalt vasak või parem juba ette.",
+        "sourceHash": "58fad9c031425515",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantum-entanglement-and-bells-theorem-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It does allow faster-than-light communication -- entanglement is in fact regularly used to send controllable information instantaneously between distant locations.",
+        "et": "See lubabki ülevalguskiirusel sidet -- põimumist kasutatakse tegelikult regulaarselt kontrollitava info koheseks saatmiseks kaugete asukohtade vahel.",
+        "sourceHash": "52543e204fe122a0",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

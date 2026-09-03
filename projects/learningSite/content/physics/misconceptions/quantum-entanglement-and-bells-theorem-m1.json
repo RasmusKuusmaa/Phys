@@ -1,0 +1,10 @@
+{
+  "id": "quantum-entanglement-and-bells-theorem-m1",
+  "conceptId": "quantum-entanglement-and-bells-theorem",
+  "text": {
+    "en": "Believing entanglement lets information or signals travel faster than light between the two particles, allowing instantaneous communication -- while measuring one entangled particle does instantaneously determine what outcome the other will show, the specific outcome obtained on the first particle is genuinely random and cannot be controlled by the experimenter, so no usable information can actually be sent this way; comparing results from both sides still requires an ordinary, light-speed-limited classical communication channel to reveal any correlation at all, which is exactly why entanglement does not violate special relativity's prohibition on faster-than-light signaling.",
+    "et": "Arvamus, et põimumine lubab infol või signaalidel liikuda kahe osakese vahel kiiremini kui valgus, lubades koheselt sidet -- kuigi üht põimunud osakest mõõtes määratakse tõesti koheselt, millise tulemuse teine näitab, on esimesel osakesel saadud konkreetne tulemus tõeliselt juhuslik ega ole eksperimentaatori poolt kontrollitav, seega ei saa sel viisil tegelikult saata kasutatavat infot; tulemuste võrdlemine mõlemalt poolelt nõuab endiselt tavalist, valguse kiirusega piiratud klassikalist sidekanalit, et üldse mistahes korrelatsiooni paljastada, mis on täpselt põhjus, miks põimumine ei riku erirelatiivsusteooria keeldu ülevalguskiirusel signaalimise kohta.",
+    "sourceHash": "dd181df79d3c72b2",
+    "stale": false
+  }
+}
