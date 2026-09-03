@@ -3,6 +3,28 @@
 Things I made a judgment call on while you're away, flagged here instead of
 interrupting. Answer when you're back; nothing below is blocking.
 
+## Judging physics "comprehensive" and pivoting to mathematics
+
+Per "cover all cosmology and stellar physics, then general astrophysics...
+then other types of physics... if you finish physics then continue with
+math, then chemistry, then material science": after four astrophysics
+rounds (Phases A-A4, 45 concepts), five nuclear-physics rounds (Phases
+N-N5, 31 concepts), and three rest-of-physics gap sweeps (Phases X-X4,
+covering quantum mechanics, solid-state, fluid mechanics, particle physics,
+electromagnetism, mechanics, optics, thermodynamics/statistical mechanics,
+and stochastic processes), I judged physics comprehensive at this plan's
+established taught-MSc/early-PhD depth target (`QUESTIONS.md` § "Scope of
+'complete material for a MSc'" set this bar originally) and moved on to
+mathematics per your explicit ordering. This is necessarily a judgment
+call, not a claim that zero further physics gaps exist anywhere — a
+literally exhaustive physics curriculum is not a boundable task, same
+reasoning as the original MSc-scope question. Every module has now been
+surveyed at least once specifically for genuine, standard-textbook
+absences (not a per-module quota), and the gaps found each round have
+gotten progressively smaller and more specialized, which is the signal I
+used to call it. Say if you want another physics lap before math continues,
+or if a specific module deserves a deeper look.
+
 ## Level taxonomy: added L4 ("Master's core")
 
 `DECISIONS.md` and `todo.md` both explicitly hard-capped the site at L3

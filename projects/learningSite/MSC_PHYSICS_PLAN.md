@@ -396,9 +396,41 @@ before considering another lap of either.
 
 ## Phase X4 — more gap-filling across the rest of physics
 
-- [ ] A genuine gap in electromagnetism (to be picked)
-- [ ] A genuine gap in mechanics (to be picked)
-- [ ] A genuine gap in optics (to be picked)
-- [ ] A genuine gap in thermodynamics/statistical mechanics (to be picked)
+- [x] A genuine gap in electromagnetism: the Aharonov-Bohm effect (only
+      name-dropped in a misconception on the existing gauge-transformations
+      concept, never its own concept)
+- [x] A genuine gap in mechanics: continuum mechanics, the stress and
+      strain tensors (the module had zero deformable-body content — every
+      existing concept treats rigid bodies or point particles)
+- [x] A genuine gap in optics: optical coherence (temporal and spatial) —
+      foundational to every interference/diffraction concept already
+      present, but never itself named as a concept
+- [x] A genuine gap in thermodynamics/statistical mechanics: Onsager
+      reciprocal relations and linear non-equilibrium thermodynamics
+- [x] Bonus: the Langevin and Fokker-Planck equations (stochastic-processes
+      module had zero content on stochastic differential equations despite
+      already covering Brownian motion and random walks)
+
+## Physics judged comprehensive — pivoting to mathematics
+
+After four full astro rounds (Phases A-A4, 45 concepts), five nuclear
+rounds (Phases N-N5, 31 concepts), and three rest-of-physics gap sweeps
+(Phases X-X4) touching quantum mechanics, solid-state, fluid mechanics,
+particle physics, electromagnetism, mechanics, optics, thermodynamics/
+statistical mechanics, and stochastic processes, every physics module has
+now been surveyed at least once for genuine textbook-standard gaps and had
+them filled. Per the user's explicit instruction ("when they are done do
+the same for other types of physics... if you finish physics then you can
+do the same with math"), physics is judged comprehensive at this plan's
+taught-MSc/early-PhD depth target (see `QUESTIONS.md` for the scope this
+bar was set at). This is a judgment call, not a claim that literally zero
+further physics gaps could ever be found — flagging it in `QUESTIONS.md`.
+
+Continuing now into a comprehensive pass over the mathematics subject
+(currently 45 concepts — linear algebra, complex analysis, ODEs/PDEs,
+Fourier analysis, special functions, tensor algebra, vector calculus,
+probability/statistics, group theory, Riemannian geometry), then chemistry,
+then materials science, per the user's ordering. See a new `MATH_PLAN.md`
+(or a continuation section below) for the mathematics phase breakdown.
 
 ---
