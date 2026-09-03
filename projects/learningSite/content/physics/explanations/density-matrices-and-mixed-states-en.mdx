@@ -1,0 +1,24 @@
+A pure state, describable by a single wavefunction or state vector, still allows genuine
+quantum uncertainty — a superposition of definite-energy states has an uncertain energy even
+though the state itself is completely, precisely known. A mixed state is a different kind of
+uncertainty layered on top: not knowing which state the system is actually in, with some
+classical probability p_i assigned to each possibility, exactly the way a coin you haven't
+looked at yet is either heads or tails with some probability, not literally in a
+superposition of both.
+
+The density matrix rho packages both kinds of uncertainty into one object: for a pure state
+it's just |psi><psi|, but for a genuine statistical mixture of states |psi_i> with classical
+probabilities p_i, it's the weighted sum rho = sum of p_i |psi_i><psi_i|. Every measurable
+expectation value is then computed the same way regardless of whether the state is pure or
+mixed, as the trace of rho times the operator for that observable — a single formalism that
+handles both quantum superposition and classical ignorance correctly and distinguishes them
+precisely.
+
+The clearest source of a genuinely mixed state is entanglement: if two particles are in a
+definite, pure joint quantum state that is entangled (not simply a product of two separate
+one-particle states), then looking at either particle alone — ignoring the other entirely —
+gives that one particle a mixed state, even though the full two-particle system remains in a
+perfectly well-defined pure state throughout. This is why, for instance, an electron that has
+become entangled with its environment behaves as if it's in a mixed state even though no
+information has actually been lost from the universe as a whole — only from the reduced
+description of that one electron alone, the process behind decoherence.

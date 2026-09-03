@@ -1,0 +1,22 @@
+{
+  "id": "partial-wave-analysis-and-phase-shifts",
+  "subject": "physics",
+  "level": "L4",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Partial wave analysis and phase shifts",
+    "et": "Osalainete analüüs ja faasinihked",
+    "sourceHash": "577d0cd2fd197aee",
+    "stale": false
+  },
+  "summary": {
+    "en": "For scattering off a spherically symmetric potential, decomposing the incoming plane wave into a sum of definite-angular-momentum partial waves turns the scattering problem into a separate, much simpler one-dimensional problem for each angular momentum value: the potential can only ever shift each partial wave's phase, never its amplitude, and the full scattering amplitude and cross-section are built entirely from this set of phase shifts.",
+    "et": "Sfääriliselt sümmeetrilise potentsiaali korral hajumisel muudab sissetuleva tasalaine lahutamine kindla impulsimomendiga osalainete summaks hajumisülesande eraldi, palju lihtsamaks üheimõõtmeliseks ülesandeks iga impulsimomendi väärtuse jaoks: potentsiaal saab ainult nihutada iga osalaine faasi, mitte kunagi selle amplituudi, ning täielik hajumisamplituud ja ristlõige on ehitatud täielikult sellest faasinihete kogumist.",
+    "sourceHash": "37c16adbfa3f014b",
+    "stale": false
+  },
+  "prerequisites": [
+    "scattering-theory-and-the-born-approximation",
+    "central-force-motion-and-orbits"
+  ]
+}

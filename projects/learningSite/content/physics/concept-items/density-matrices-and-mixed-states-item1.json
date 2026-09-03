@@ -1,0 +1,56 @@
+{
+  "id": "density-matrices-and-mixed-states-item1",
+  "conceptId": "density-matrices-and-mixed-states",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two particles are prepared in a definite, pure, entangled joint quantum state. What can be said about the state of just one of the particles, considered on its own?",
+    "et": "Kaks osakest valmistatakse ette kindlas, puhtas, põimunud ühises kvantolekus. Mida saab öelda ühe osakese oleku kohta, vaadelduna eraldi?",
+    "sourceHash": "6e3cc1db1b995578",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That one particle, considered alone, is in a mixed state, even though the full two-particle system remains in a well-defined pure state.",
+        "et": "See üks osake, eraldi vaadelduna, on segaolekus, kuigi kogu kaheosakeseline süsteem jääb hästimääratud puhtasse olekusse.",
+        "sourceHash": "a7f96903ca5b1d59",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That particle must have a completely certain, definite value for every observable, since the joint state is pure.",
+        "et": "Sellel osakesel peab olema iga vaadeldava jaoks täiesti kindel, määratud väärtus, kuna ühine olek on puhas.",
+        "sourceHash": "3ee68fd4a7a71575",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "density-matrices-and-mixed-states-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The question doesn't really make sense — 'mixed state' is just another name for the same superposition the joint system is already in.",
+        "et": "Küsimusel pole tegelikult mõtet — 'segaolek' on lihtsalt teine nimi samale superpositsioonile, milles ühine süsteem juba on.",
+        "sourceHash": "1a76415be7c5e1d6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "density-matrices-and-mixed-states-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That one particle must also be in its own pure state, since a pure joint state can only be built from individually pure single-particle states.",
+        "et": "See üks osake peab samuti olema oma puhtas olekus, kuna puhast ühist olekut saab ehitada ainult individuaalselt puhastest üheosakeseolekutest.",
+        "sourceHash": "98f4a97c5e430284",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "density-matrices-and-mixed-states-m3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "partial-wave-analysis-and-phase-shifts-item1",
+  "conceptId": "partial-wave-analysis-and-phase-shifts",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A particle scatters elastically off a real (non-absorptive), spherically symmetric potential. What can the potential do to each partial wave?",
+    "et": "Osake hajub elastselt reaalse (mitteneelava), sfääriliselt sümmeetrilise potentsiaali toimel. Mida saab potentsiaal iga osalainega teha?",
+    "sourceHash": "5c7063a4157a1d43",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Shift its phase by some amount delta_l, while leaving its amplitude exactly unchanged.",
+        "et": "Nihutada selle faasi mingi suuruse delta_l võrra, jättes selle amplituudi täpselt muutumatuks.",
+        "sourceHash": "3878d0ffc6b18a6d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Mix it with partial waves of different angular momentum l, redistributing probability between them.",
+        "et": "Segada seda erineva impulsimomendiga l osalainetega, jaotades tõenäosust nende vahel ümber.",
+        "sourceHash": "fae7393bc94fed8a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "partial-wave-analysis-and-phase-shifts-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Change its amplitude, reducing or amplifying how much of that partial wave survives.",
+        "et": "Muuta selle amplituudi, vähendades või võimendades, kui palju sellest osalainest säilib.",
+        "sourceHash": "557b97fc9b672481",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "partial-wave-analysis-and-phase-shifts-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing meaningful for any single partial wave — only the infinite sum over all l values ever has physical meaning.",
+        "et": "Mitte midagi olulist ühegi üksiku osalaine jaoks — ainult lõpmatu summa üle kõigi l väärtuste omab kunagi füüsikalist tähendust.",
+        "sourceHash": "aec109c2dd9c7459",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "partial-wave-analysis-and-phase-shifts-m3"
+    }
+  ]
+}

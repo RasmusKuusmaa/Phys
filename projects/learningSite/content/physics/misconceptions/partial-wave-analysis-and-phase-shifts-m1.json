@@ -1,0 +1,10 @@
+{
+  "id": "partial-wave-analysis-and-phase-shifts-m1",
+  "conceptId": "partial-wave-analysis-and-phase-shifts",
+  "text": {
+    "en": "Believing a spherically symmetric potential can mix different partial waves (different l values) into each other during scattering — conservation of angular momentum forbids this exactly; each partial wave scatters completely independently, only ever picking up a phase shift, never transferring probability to a different l.",
+    "et": "Arvamus, et sfääriliselt sümmeetriline potentsiaal saab hajumise ajal segada erinevaid osalaineid (erinevaid l väärtusi) omavahel — impulsimomendi jäävus keelab selle täpselt; iga osalaine hajub täiesti sõltumatult, saades ainult faasinihke, kandmata kunagi tõenäosust üle teisele l-le.",
+    "sourceHash": "3c2089445fcfc66d",
+    "stale": false
+  }
+}

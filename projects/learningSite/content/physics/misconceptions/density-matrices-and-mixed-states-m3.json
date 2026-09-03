@@ -1,0 +1,10 @@
+{
+  "id": "density-matrices-and-mixed-states-m3",
+  "conceptId": "density-matrices-and-mixed-states",
+  "text": {
+    "en": "Believing that if a two-particle system is in a perfectly well-defined pure state, each individual particle must also be describable by its own pure state — if the two-particle state is entangled, each particle alone is described only by a mixed state, even though the joint two-particle state remains pure and completely well-defined throughout.",
+    "et": "Arvamus, et kui kaheosakeseline süsteem on täiesti hästimääratud puhtas olekus, peab ka iga üksik osake olema kirjeldatav oma puhta olekuga — kui kaheosakese olek on põimunud, on iga osake eraldi kirjeldatav ainult segaolekuga, kuigi ühine kaheosakese olek jääb kogu aeg puhtaks ja täiesti hästimääratuks.",
+    "sourceHash": "b73c681bdd6fd2bd",
+    "stale": false
+  }
+}

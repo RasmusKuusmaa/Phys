@@ -1,0 +1,22 @@
+{
+  "id": "density-matrices-and-mixed-states",
+  "subject": "physics",
+  "level": "L4",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Density matrices and mixed states",
+    "et": "Tihedusmaatriksid ja segaolekud",
+    "sourceHash": "5001ed9a8bcff8b4",
+    "stale": false
+  },
+  "summary": {
+    "en": "A quantum system whose exact state is unknown — because it's part of a larger entangled system, or because it was prepared with some classical uncertainty — is described not by a single wavefunction but by a density matrix, a statistical mixture that correctly reproduces every measurable prediction and distinguishes genuine quantum superposition (a pure state) from mere classical ignorance about which state a system is actually in (a mixed state).",
+    "et": "Kvantsüsteemi, mille täpne olek on teadmata — kuna see on osa suuremast põimunud süsteemist, või kuna see valmistati ette mingi klassikalise määramatusega —, ei kirjelda üksik lainefunktsioon, vaid tihedusmaatriks, statistiline segu, mis taastab korrektselt iga mõõdetava ennustuse ja eristab tõelist kvantsuperpositsiooni (puhas olek) pelgalt klassikalisest teadmatusest selle kohta, millises olekus süsteem tegelikult on (segaolek).",
+    "sourceHash": "f979fea8a40ea854",
+    "stale": false
+  },
+  "prerequisites": [
+    "expectation-values-and-measurement",
+    "operators-and-observables"
+  ]
+}

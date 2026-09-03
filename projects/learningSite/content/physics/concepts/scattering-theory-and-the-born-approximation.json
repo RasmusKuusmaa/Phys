@@ -1,0 +1,22 @@
+{
+  "id": "scattering-theory-and-the-born-approximation",
+  "subject": "physics",
+  "level": "L4",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "Scattering theory and the Born approximation",
+    "et": "Hajumisteooria ja Borni lähendus",
+    "sourceHash": "bea91e6070398078",
+    "stale": false
+  },
+  "summary": {
+    "en": "Quantum scattering off a potential is described by a scattering amplitude that determines the differential cross-section, found in general by matching an incoming plane wave to an outgoing spherical wave far from the potential. The Born approximation, valid for a weak enough potential, replaces this generally hard problem with a single, explicit integral — essentially the Fourier transform of the potential — making the differential cross-section directly calculable for a huge range of potentials without solving the Schrödinger equation exactly.",
+    "et": "Kvanthajumist potentsiaali toimel kirjeldab hajumisamplituud, mis määrab diferentsiaalse ristlõike, leitav üldiselt sissetuleva tasalaine sobitamisel väljuva kerakujulise lainega kaugel potentsiaalist. Borni lähendus, mis kehtib piisavalt nõrga potentsiaali jaoks, asendab selle üldiselt raske ülesande ühe selgesõnalise integraaliga — sisuliselt potentsiaali Fourier' teisendusega —, muutes diferentsiaalse ristlõike otse arvutatavaks tohutu hulga potentsiaalide jaoks ilma Schrödingeri võrrandit täpselt lahendamata.",
+    "sourceHash": "a53de64d4aedf494",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schrodinger-equation",
+    "classical-scattering-and-differential-cross-section"
+  ]
+}

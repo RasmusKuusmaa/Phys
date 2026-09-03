@@ -1,0 +1,10 @@
+{
+  "id": "scattering-theory-and-the-born-approximation-m1",
+  "conceptId": "scattering-theory-and-the-born-approximation",
+  "text": {
+    "en": "Believing the scattering amplitude f(theta, phi) itself is the measurable quantity in a scattering experiment — the directly measurable differential cross-section is its squared magnitude, |f|^2; the amplitude's phase, while physically meaningful for interference between different scattering processes, isn't directly read off a simple particle-counting detector.",
+    "et": "Arvamus, et hajumisamplituud f(theta, phi) ise on hajumiskatses mõõdetav suurus — otseselt mõõdetav diferentsiaalne ristlõige on selle ruudustatud suurus, |f|^2; amplituudi faas, kuigi füüsikaliselt tähenduslik erinevate hajumisprotsesside vahelise interferentsi jaoks, ei ole otse loetav lihtsast osakeste loenduri detektorist.",
+    "sourceHash": "816947e1faf7f71c",
+    "stale": false
+  }
+}

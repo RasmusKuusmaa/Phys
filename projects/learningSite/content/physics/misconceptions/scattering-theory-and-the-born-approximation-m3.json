@@ -1,0 +1,10 @@
+{
+  "id": "scattering-theory-and-the-born-approximation-m3",
+  "conceptId": "scattering-theory-and-the-born-approximation",
+  "text": {
+    "en": "Believing quantum scattering theory and Rutherford's classical scattering formula are two completely unrelated results that happen to look similar — the Born approximation applied to a Coulomb-like potential reproduces the Rutherford formula in the appropriate limit, showing the classical result is a limit of the full quantum treatment, not an unrelated coincidence.",
+    "et": "Arvamus, et kvanthajumisteooria ja Rutherfordi klassikaline hajumisvalem on kaks täiesti mitteseotud tulemust, mis juhtumisi sarnased näevad — Borni lähendus, rakendatud Coulombi-taolisele potentsiaalile, taastab Rutherfordi valemi sobivas piirjuhus, näidates, et klassikaline tulemus on täieliku kvantkäsitluse piirjuht, mitte mitteseotud kokkusattumus.",
+    "sourceHash": "a10c4c85b08dc79f",
+    "stale": false
+  }
+}

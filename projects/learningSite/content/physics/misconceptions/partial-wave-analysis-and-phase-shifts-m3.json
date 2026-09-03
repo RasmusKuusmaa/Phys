@@ -1,0 +1,10 @@
+{
+  "id": "partial-wave-analysis-and-phase-shifts-m3",
+  "conceptId": "partial-wave-analysis-and-phase-shifts",
+  "text": {
+    "en": "Believing an accurate partial wave analysis always needs infinitely many l values summed to get a sensible answer — for a finite-range potential, partial waves with l well beyond the potential's range times k barely interact with the potential at all, so their phase shifts are negligible and the sum is dominated by only a handful of low-l terms in practice.",
+    "et": "Arvamus, et täpne osalainete analüüs vajab alati lõpmatult paljude l väärtuste summeerimist mõistliku vastuse saamiseks — lõpliku ulatusega potentsiaali jaoks ei interakteeru osalained, mille l on kaugelt üle potentsiaali ulatuse korda k, potentsiaaliga peaaegu üldse, nii et nende faasinihked on tühised ja summat domineerib praktikas ainult käputäis madala l väärtusega liikmeid.",
+    "sourceHash": "812ed6b03b524e4c",
+    "stale": false
+  }
+}

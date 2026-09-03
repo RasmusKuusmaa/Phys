@@ -1,0 +1,10 @@
+{
+  "id": "density-matrices-and-mixed-states-m1",
+  "conceptId": "density-matrices-and-mixed-states",
+  "text": {
+    "en": "Believing any quantum state with uncertainty about a measurement outcome must be a mixed state — a pure state, like a superposition of energy eigenstates, has genuine quantum uncertainty about energy while still being a single, completely known state; that's different from not knowing which pure state the system is actually in.",
+    "et": "Arvamus, et iga kvantolek määramatusega mõõtmistulemuse suhtes peab olema segaolek — puhas olek, nagu energia omaolekute superpositsioon, omab tõelist kvantmääramatust energia suhtes, olles ikkagi üksik, täielikult teada olek; see erineb sellest, et ei teata, millises puhtas olekus süsteem tegelikult on.",
+    "sourceHash": "1c04da1e984eb136",
+    "stale": false
+  }
+}

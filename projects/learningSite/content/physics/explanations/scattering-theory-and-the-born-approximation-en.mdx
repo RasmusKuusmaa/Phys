@@ -1,0 +1,23 @@
+A particle beam scattering off a potential is described quantum mechanically by a
+stationary-state wavefunction that looks, far from the scattering region, like an incoming
+plane wave plus an outgoing spherical wave, psi approaches exp(i k z) + f(theta, phi) *
+exp(i k r)/r. The function f(theta, phi), the scattering amplitude, contains everything about
+how strongly the potential scatters into each direction, and the differential cross-section
+is simply its squared magnitude, d(sigma)/d(Omega) = |f(theta, phi)|^2 — the quantum
+replacement for the classical impact-parameter calculation.
+
+Finding f exactly requires solving the full Schrodinger equation with the actual potential,
+which is only tractable for a handful of special cases. The Born approximation sidesteps
+this by treating the potential as a small perturbation on the free particle: to leading
+order, the scattering amplitude becomes proportional to the potential's Fourier transform
+evaluated at the momentum transfer between the incoming and outgoing directions — f(theta)
+is proportional to the integral of V(r) exp(-i q . r) d^3r, where q is the momentum change.
+This turns a differential-equation problem into a single, often analytically doable integral.
+
+The Born approximation is valid specifically when the potential is weak and the particle's
+energy is high enough that the incoming wave is only mildly distorted by the potential — a
+condition that can be checked self-consistently after the fact, not assumed blindly.
+Applied to a screened Coulomb potential, it reproduces the Rutherford scattering formula in
+the appropriate limit, connecting the classical result directly to its quantum origin, and
+applied more generally it's the standard first tool for estimating cross-sections in nuclear
+and particle physics before resorting to exact or numerical methods.

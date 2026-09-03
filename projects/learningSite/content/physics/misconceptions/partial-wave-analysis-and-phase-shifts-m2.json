@@ -1,0 +1,10 @@
+{
+  "id": "partial-wave-analysis-and-phase-shifts-m2",
+  "conceptId": "partial-wave-analysis-and-phase-shifts",
+  "text": {
+    "en": "Believing a real, non-absorptive scattering potential can change a partial wave's amplitude, not just its phase — conservation of probability for such a potential forces every partial wave's amplitude to be exactly preserved; only its phase, delta_l, can shift.",
+    "et": "Arvamus, et reaalne, mitteneelav hajumispotentsiaal saab muuta osalaine amplituudi, mitte ainult selle faasi — tõenäosuse jäävus sellise potentsiaali jaoks sunnib iga osalaine amplituudi täpselt säilima; ainult selle faas, delta_l, saab nihkuda.",
+    "sourceHash": "8a29af25220012aa",
+    "stale": false
+  }
+}

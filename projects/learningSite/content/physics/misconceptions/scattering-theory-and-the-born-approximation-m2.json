@@ -1,0 +1,10 @@
+{
+  "id": "scattering-theory-and-the-born-approximation-m2",
+  "conceptId": "scattering-theory-and-the-born-approximation",
+  "text": {
+    "en": "Believing the Born approximation works for any potential, regardless of strength — it's specifically valid for weak potentials and high enough particle energy, a condition that needs checking; for strong potentials it can give badly wrong results and a different method is needed.",
+    "et": "Arvamus, et Borni lähendus töötab iga potentsiaali jaoks, olenemata selle tugevusest — see kehtib spetsiifiliselt nõrkade potentsiaalide ja piisavalt kõrge osakese energia korral, tingimus, mida tuleb kontrollida; tugevate potentsiaalide jaoks võib see anda tugevalt valesid tulemusi ja vajalik on erinev meetod.",
+    "sourceHash": "ce35f91a3577dd9c",
+    "stale": false
+  }
+}

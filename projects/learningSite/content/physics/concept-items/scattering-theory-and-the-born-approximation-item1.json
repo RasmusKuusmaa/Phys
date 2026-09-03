@@ -1,0 +1,56 @@
+{
+  "id": "scattering-theory-and-the-born-approximation-item1",
+  "conceptId": "scattering-theory-and-the-born-approximation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In the Born approximation, the scattering amplitude is found from which single mathematical operation on the potential V(r)?",
+    "et": "Borni lähenduses leitakse hajumisamplituud, tehes potentsiaaliga V(r) millise ühe matemaatilise operatsiooni?",
+    "sourceHash": "5a269dfe40c69328",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its Fourier transform, evaluated at the momentum transferred between the incoming and outgoing directions.",
+        "et": "Selle Fourier' teisenduse, hinnatuna sissetuleva ja väljuva suuna vahel üle kantud impulsil.",
+        "sourceHash": "3a676877b9ed1f85",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Its value is read directly as the differential cross-section, with no further mathematical operation needed.",
+        "et": "Selle väärtus loetakse otse diferentsiaalse ristlõikena, ilma edasise matemaatilise operatsioonita.",
+        "sourceHash": "1e3578f4fe523b66",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "scattering-theory-and-the-born-approximation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The same Fourier transform operation, but this works identically regardless of how strong the potential actually is.",
+        "et": "Sama Fourier' teisenduse operatsioon, kuid see töötab identselt olenemata sellest, kui tugev potentsiaal tegelikult on.",
+        "sourceHash": "e880530f435fef2d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "scattering-theory-and-the-born-approximation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A completely different calculation from anything used in classical Rutherford scattering, with no mathematical connection between the two.",
+        "et": "Täiesti erinev arvutus kõigest, mida kasutatakse klassikalises Rutherfordi hajumises, ilma matemaatilise seoseta nende kahe vahel.",
+        "sourceHash": "242057267076f7c7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "scattering-theory-and-the-born-approximation-m3"
+    }
+  ]
+}

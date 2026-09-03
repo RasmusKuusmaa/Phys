@@ -1,0 +1,10 @@
+{
+  "id": "density-matrices-and-mixed-states-m2",
+  "conceptId": "density-matrices-and-mixed-states",
+  "text": {
+    "en": "Believing a mixed state is just a fancier notation for a quantum superposition — a superposition (a pure state) is a single, definite quantum state; a mixed state is a classical statistical average over several distinct possible states, a genuinely different kind of object with a different physical meaning.",
+    "et": "Arvamus, et segaolek on lihtsalt uhkem tähistus kvantsuperpositsiooni jaoks — superpositsioon (puhas olek) on üksik, kindel kvantolek; segaolek on klassikaline statistiline keskmine mitme erineva võimaliku oleku üle, tõeliselt erinev objekt erineva füüsikalise tähendusega.",
+    "sourceHash": "ab05b8d69bd228ec",
+    "stale": false
+  }
+}
