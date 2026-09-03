@@ -1,0 +1,55 @@
+{
+  "id": "cosmic-inflation-item1",
+  "conceptId": "cosmic-inflation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two opposite patches of the cosmic microwave background sky, separated by more than a degree, show almost exactly the same temperature, even though standard (non-inflationary) Big Bang expansion says they were never in causal contact. How does inflation explain this?",
+    "et": "Kaks vastastikust kosmilise mikrolainetausta taeva laiku, mis on eraldatud rohkem kui ühe kraadi võrra, näitavad peaaegu täpselt sama temperatuuri, kuigi standardne (mitte-inflatsiooniline) Suure Paugu paisumine ütleb, et need ei olnud kunagi põhjuslikus kontaktis. Kuidas inflatsioon seda seletab?",
+    "sourceHash": "4d4c4899f53ddcdd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Before inflation stretched them apart, those regions were part of one small, causally-connected patch that had already thermalized to a common temperature.",
+        "et": "Enne kui inflatsioon need lahku venitas, olid need piirkonnad osa ühest väikesest, põhjuslikult seotud laigust, mis oli juba jõudnud ühise temperatuurini termaliseeruda.",
+        "sourceHash": "ea4d61e737bb9363",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Light has simply had enough time by now, in the standard expanding universe, to travel between the two regions and equalize their temperature.",
+        "et": "Valgusel on praeguseks standardses paisuvas universumis lihtsalt piisavalt aega olnud, et liikuda kahe piirkonna vahel ja nende temperatuur ühtlustada.",
+        "sourceHash": "53d13a9d9511706d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cosmic-inflation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The two regions were never actually at the same temperature -- the apparent similarity is a measurement artifact of how the cosmic microwave background is mapped onto the sky.",
+        "et": "Kaks piirkonda ei olnud tegelikult kunagi samal temperatuuril -- näiline sarnasus on mõõteartefakt sellest, kuidas kosmiline mikrolainetaust taevale kaardistatakse.",
+        "sourceHash": "b8d4693290738119",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It is the same phenomenon as the ordinary Hubble expansion measured today, just extrapolated to an earlier time, so no separate explanation is needed.",
+        "et": "See on sama nähtus, mis täna mõõdetud tavaline Hubble'i paisumine, lihtsalt varasemasse aega ekstrapoleerituna, seega ei ole eraldi seletust vaja.",
+        "sourceHash": "c6a279a82a9e37a5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cosmic-inflation-m3"
+    }
+  ]
+}

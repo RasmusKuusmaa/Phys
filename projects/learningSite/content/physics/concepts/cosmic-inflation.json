@@ -1,0 +1,22 @@
+{
+  "id": "cosmic-inflation",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Cosmic inflation",
+    "et": "Kosmiline inflatsioon",
+    "sourceHash": "93e4c1ccd6f493d6",
+    "stale": false
+  },
+  "summary": {
+    "en": "Standard hot Big Bang cosmology, extrapolated back without modification, leaves two features of the observed universe entirely unexplained: why causally disconnected regions of the cosmic microwave background, which never had time to exchange light or heat, nevertheless show almost exactly the same temperature (the horizon problem), and why the universe's overall spatial geometry sits so close to perfectly flat despite flatness being a wildly unstable condition that any small deviation should have amplified enormously over cosmic time (the flatness problem); cosmic inflation resolves both by proposing a brief early episode of exponential, accelerating expansion, driven by a scalar field's near-constant potential energy, that stretched one small, causally-connected patch to encompass the entire observable universe today, simultaneously explaining the uniform temperature and flattening the geometry, while also stretching microscopic quantum fluctuations in that field up to astronomical scales, seeding the density variations that later gravitationally grew into every galaxy and galaxy cluster observed today.",
+    "et": "Standardne kuuma Suure Paugu kosmoloogia, muutmata kujul tagasi ekstrapoleerituna, jätab seletamata kaks vaadeldava universumi tunnust: miks põhjuslikult lahutatud kosmilise mikrolainetausta piirkonnad, millel ei olnud kunagi aega valgust ega soojust vahetada, näitavad siiski peaaegu täpselt sama temperatuuri (horisondiprobleem), ning miks universumi üldine ruumiline geomeetria istub nii lähedal täiuslikule lamedusele, hoolimata sellest, et lamedus on äärmiselt ebastabiilne olek, mille iga väikest kõrvalekallet oleks kosmilise aja jooksul pidanud tohutult võimendama (lamedusprobleem); kosmiline inflatsioon lahendab mõlemad, pakkudes välja lühikese varajase episoodi eksponentsiaalsest, kiirenevast paisumisest, mida juhib skalaarvälja peaaegu konstantne potentsiaalne energia, mis venitas ühe väikese, põhjuslikult seotud lapi hõlmama kogu tänast vaadeldavat universumit, seletades samaaegselt ühtlast temperatuuri ja lamestades geomeetriat, samal ajal venitades ka selle välja mikroskoopilised kvantfluktuatsioonid astronoomilistesse mõõtudesse, külvates tihedusvariatsioonid, mis hiljem gravitatsiooniliselt kasvasid iga täna vaadeldava galaktika ja galaktikaparve.",
+    "sourceHash": "bd9bfc85429a178a",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-friedmann-equations",
+    "the-cosmic-microwave-background-and-recombination"
+  ]
+}

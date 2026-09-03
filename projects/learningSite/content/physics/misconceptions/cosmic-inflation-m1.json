@@ -1,0 +1,10 @@
+{
+  "id": "cosmic-inflation-m1",
+  "conceptId": "cosmic-inflation",
+  "text": {
+    "en": "Believing the horizon problem is resolved simply by the universe being very large, or by light having had 'enough time by now' to cross it -- the problem is specifically about conditions at recombination (when the cosmic microwave background was emitted): regions of the sky separated by more than about one degree were, under standard non-inflationary Big Bang expansion, never in causal contact at any earlier time, so nothing could have equalized their temperatures through ordinary heat exchange; inflation solves this not by giving light more time in the standard expanding universe, but by positing that those regions were in causal contact before inflation stretched them apart, when the observable universe was still one small, causally-connected patch.",
+    "et": "Arvamus, et horisondiprobleem laheneb lihtsalt sellega, et universum on väga suur, või sellega, et valgusel on 'praeguseks piisavalt aega' olnud selle läbimiseks -- probleem käib konkreetselt tingimuste kohta rekombinatsiooni ajal (kui kosmiline mikrolainetaust kiirgus): taevapiirkonnad, mis on eraldatud rohkem kui umbes ühe kraadi võrra, ei olnud standardse mitte-inflatsioonilise Suure Paugu paisumise all kunagi varasemal ajal põhjuslikus kontaktis, seega ei saanud miski nende temperatuure tavalise soojusvahetuse kaudu ühtlustada; inflatsioon lahendab selle mitte andes valgusele standardses paisuvas universumis rohkem aega, vaid väites, et need piirkonnad olid põhjuslikus kontaktis enne, kui inflatsioon need lahku venitas, kui vaadeldav universum oli veel üks väike, põhjuslikult seotud laik.",
+    "sourceHash": "93c11dd5da4f4b95",
+    "stale": false
+  }
+}

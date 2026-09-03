@@ -1,0 +1,10 @@
+{
+  "id": "cosmic-inflation-m2",
+  "conceptId": "cosmic-inflation",
+  "text": {
+    "en": "Believing the flatness problem means the universe is observed to be curved and cosmologists need to explain why -- the actual puzzle runs the opposite direction: the universe is observed to be extremely close to spatially flat, and flatness is a highly unstable fixed point under standard Big Bang expansion, meaning even a tiny deviation from perfect flatness in the very early universe should have been amplified enormously by the time of recombination, forcing an extraordinarily fine-tuned initial condition unless something suppressed that instability; inflation solves this by exponentially diluting any pre-existing curvature, actively driving the geometry toward flatness rather than requiring flatness to have been assumed from the start.",
+    "et": "Arvamus, et lamedusprobleem tähendab, et universum on vaadeldud kõverana ja kosmoloogid peavad seletama, miks -- tegelik mõistatus kulgeb vastupidises suunas: universum on vaadeldud äärmiselt lähedal ruumilisele lamedusele, ning lamedus on väga ebastabiilne fikseeritud punkt standardse Suure Paugu paisumise all, mis tähendab, et isegi väike kõrvalekalle täiuslikust lamedusest väga varajases universumis oleks pidanud rekombinatsiooni ajaks tohutult võimenduma, sundides erakordselt peenhäälestatud algtingimust, kui miski poleks seda ebastabiilsust maha surunud; inflatsioon lahendab selle, lahjendades eksponentsiaalselt mistahes eelnevalt olemas olnud kõverust, juhtides geomeetriat aktiivselt lamedaks, mitte nõudes, et lamedus oleks algusest peale eeldatud.",
+    "sourceHash": "12abadd078e6cb80",
+    "stale": false
+  }
+}
