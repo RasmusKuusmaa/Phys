@@ -1,0 +1,22 @@
+{
+  "id": "the-langevin-and-fokker-planck-equations",
+  "subject": "physics",
+  "level": "L4",
+  "module": "stochastic-processes",
+  "title": {
+    "en": "The Langevin and Fokker-Planck equations",
+    "et": "Langevini ja Fokkeri-Plancki võrrandid",
+    "sourceHash": "78feccc135139778",
+    "stale": false
+  },
+  "summary": {
+    "en": "Rather than treating a Brownian particle's random buffeting only statistically after the fact, the Langevin equation writes down a single equation of motion for the particle itself, Newton's second law with an ordinary deterministic friction force plus a rapidly fluctuating random force representing the countless unresolved molecular collisions, giving a genuinely stochastic differential equation for one particle's individual trajectory, while the closely related Fokker-Planck equation takes the complementary large-scale view, describing not one particle's path but how the entire probability distribution over many particles' possible positions and velocities evolves deterministically in time under the combined effect of deterministic drift and random diffusion, and the two descriptions are exactly equivalent -- averaging the Langevin equation's individual random trajectories over many realizations reproduces precisely the same evolving probability distribution the Fokker-Planck equation predicts directly.",
+    "et": "Selle asemel, et käsitleda Browni osakese juhuslikku loksutamist ainult statistiliselt tagantjärele, kirjutab Langevini võrrand üles ühe liikumisvõrrandi osakese enda jaoks, Newtoni teise seaduse koos tavalise deterministliku hõõrdejõuga pluss kiiresti fluktueeriva juhusliku jõuga, mis esindab loendamatuid lahendamata molekulaarseid kokkupõrkeid, andes tõeliselt stohhastilise diferentsiaalvõrrandi ühe osakese individuaalse trajektoori jaoks, samal ajal kui tihedalt seotud Fokkeri-Plancki võrrand võtab täiendava suuremõõtkavalise vaate, kirjeldades mitte ühe osakese teed, vaid seda, kuidas kogu tõenäosusjaotus paljude osakeste võimalike asukohtade ja kiiruste üle areneb ajas deterministlikult deterministliku triivi ja juhusliku difusiooni kombineeritud mõju all, ning kaks kirjeldust on täpselt samaväärsed -- Langevini võrrandi individuaalsete juhuslike trajektooride keskmistamine paljude realisatsioonide üle reprodutseerib täpselt sama areneva tõenäosusjaotuse, mida Fokkeri-Plancki võrrand otse ennustab.",
+    "sourceHash": "aa20e72df2c6725b",
+    "stale": false
+  },
+  "prerequisites": [
+    "brownian-motion-and-the-stokes-einstein-relation",
+    "random-walks-and-diffusion"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "the-langevin-and-fokker-planck-equations-m2",
+  "conceptId": "the-langevin-and-fokker-planck-equations",
+  "text": {
+    "en": "Believing the Langevin equation and the Fokker-Planck equation describe two different, competing physical pictures of Brownian motion, so that only one can be correct -- the two are exactly equivalent descriptions of the same underlying physics at different levels: the Langevin equation describes one particle's individual, randomly fluctuating trajectory, while the Fokker-Planck equation describes how the probability distribution over many such trajectories (equivalently, over many independent realizations of the same random process) evolves deterministically; averaging many individual Langevin trajectories reproduces precisely the same evolving probability distribution the Fokker-Planck equation predicts directly, making them two views of one theory, not rival theories.",
+    "et": "Arvamus, et Langevini võrrand ja Fokkeri-Plancki võrrand kirjeldavad Browni liikumise kahte erinevat, konkureerivat füüsikalist pilti, nii et ainult üks saab olla õige -- kaks on täpselt samaväärsed kirjeldused samast aluseks olevast füüsikast erinevatel tasanditel: Langevini võrrand kirjeldab ühe osakese individuaalset, juhuslikult fluktueerivat trajektoori, samal ajal kui Fokkeri-Plancki võrrand kirjeldab, kuidas tõenäosusjaotus paljude selliste trajektooride üle (samaväärselt, paljude sõltumatute sama juhusliku protsessi realisatsioonide üle) areneb deterministlikult; paljude individuaalsete Langevini trajektooride keskmistamine reprodutseerib täpselt sama areneva tõenäosusjaotuse, mida Fokkeri-Plancki võrrand otse ennustab, mis muudab need üheks teooria kaheks vaateks, mitte rivaalitsevateks teooriateks.",
+    "sourceHash": "714296cfba639162",
+    "stale": false
+  }
+}

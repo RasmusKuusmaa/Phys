@@ -1,0 +1,10 @@
+{
+  "id": "the-langevin-and-fokker-planck-equations-m1",
+  "conceptId": "the-langevin-and-fokker-planck-equations",
+  "text": {
+    "en": "Believing the Langevin equation's random force term is simply added as a mathematical convenience with no genuine physical origin -- the random force term represents something physically real: the net effect of countless individual molecular collisions with the surrounding fluid, each far too fast and far too numerous to track individually, whose combined statistical effect (zero average, rapidly decorrelating in time) is what the random force term captures; it is a genuine physical force, just one whose microscopic detail is deliberately not resolved rather than a bookkeeping artifact.",
+    "et": "Arvamus, et Langevini võrrandi juhusliku jõu liige on lihtsalt lisatud matemaatilise mugavusena ilma tõelise füüsikalise päritoluta -- juhusliku jõu liige esindab midagi füüsikaliselt reaalset: loendamatute üksikute molekulaarsete kokkupõrgete netomõju ümbritseva vedelikuga, millest igaüks on liiga kiire ja liiga arvukas, et eraldi jälgida, ning mille kombineeritud statistiline mõju (null keskmine, kiiresti ajas dekorreleeruv) ongi see, mida juhusliku jõu liige kajastab; see on tõeline füüsikaline jõud, lihtsalt selline, mille mikroskoopiline detail on tahtlikult lahendamata, mitte raamatupidamislik artefakt.",
+    "sourceHash": "99e5254d88591131",
+    "stale": false
+  }
+}

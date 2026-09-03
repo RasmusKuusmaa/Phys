@@ -1,0 +1,10 @@
+{
+  "id": "the-langevin-and-fokker-planck-equations-m3",
+  "conceptId": "the-langevin-and-fokker-planck-equations",
+  "text": {
+    "en": "Believing the Fokker-Planck equation, since it deterministically evolves a probability distribution, means the underlying physical process it describes is not actually random at all -- the underlying microscopic process (an individual particle's Langevin trajectory) is genuinely stochastic and unpredictable in detail, but the probability distribution describing the ensemble of all such trajectories evolves in a completely deterministic way, exactly as the deterministic diffusion equation describes an ensemble average even though any single random walk within that ensemble is unpredictable step by step; determinism at the probability-distribution level and randomness at the individual-trajectory level are not in conflict.",
+    "et": "Arvamus, et Fokkeri-Plancki võrrand, kuna see arendab tõenäosusjaotust deterministlikult, tähendab, et aluseks olev füüsikaline protsess, mida see kirjeldab, ei ole tegelikult üldse juhuslik -- aluseks olev mikroskoopiline protsess (üksiku osakese Langevini trajektoor) on tõeliselt stohhastiline ja detailides ettearvamatu, kuid tõenäosusjaotus, mis kirjeldab kõigi selliste trajektooride ansamblit, areneb täiesti deterministlikul viisil, täpselt nii nagu deterministlik difusioonivõrrand kirjeldab ansambli keskmist, kuigi ükski üksik juhuslik teekond selles ansamblis ei ole samm-sammult ettearvatav; determinism tõenäosusjaotuse tasandil ja juhuslikkus üksiku trajektoori tasandil ei ole vastuolus.",
+    "sourceHash": "1db0252b76477c3f",
+    "stale": false
+  }
+}
