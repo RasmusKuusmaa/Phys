@@ -248,11 +248,11 @@ application of quantum tunneling in physics, 1928). Detector technology and
 isotope separation are real nuclear-engineering topics distinct from what
 `particle-accelerators-and-detectors` and `nuclear-medicine...` cover.
 
-- [ ] Alpha decay theory and Gamow's quantum tunneling explanation
-- [ ] Nuclear isomers and metastable states
-- [ ] Radiation detection technologies (scintillators, semiconductor
+- [x] Alpha decay theory and Gamow's quantum tunneling explanation
+- [x] Nuclear isomers and metastable states
+- [x] Radiation detection technologies (scintillators, semiconductor
       detectors, Geiger-Müller counters)
-- [ ] Isotope separation techniques (gas centrifuge, gaseous diffusion,
+- [x] Isotope separation techniques (gas centrifuge, gaseous diffusion,
       laser isotope separation)
 
 ---
