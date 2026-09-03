@@ -1,0 +1,56 @@
+{
+  "id": "modified-newtonian-dynamics-and-the-dark-matter-alternative-item1",
+  "conceptId": "modified-newtonian-dynamics-and-the-dark-matter-alternative",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "MOND successfully reproduces the observed rotation curves of many individual spiral galaxies using only their visible mass. Why does this success not settle the dark-matter-versus-MOND question in MOND's favor overall?",
+    "et": "MOND reprodutseerib edukalt paljude üksikute spiraalgalaktikate vaadeldud pöörlemiskõverad, kasutades ainult nende nähtavat massi. Miks ei lahenda see edu tumeaine-versus-MOND küsimust tervikuna MOND-i kasuks?",
+    "sourceHash": "43b096c69ac37df4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "MOND significantly underpredicts the mass discrepancy in galaxy clusters and offers no natural account of the Bullet Cluster's mass-light separation, unlike dark matter.",
+        "et": "MOND ennustab oluliselt vähem galaktikaparvede massilahknevust ega paku loomulikku seletust Kuuli parve massi-valguse eraldatusele, erinevalt tumeainest.",
+        "sourceHash": "a0fc1c046a82fedd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "MOND's galactic rotation-curve fits are actually poor and unconvincing, so its apparent success there is illusory to begin with.",
+        "et": "MOND-i galaktiliste pöörlemiskõverate sobitused on tegelikult kehvad ja veenmatud, seega on selle näiline edu seal algusest peale illusoorne.",
+        "sourceHash": "3cb90363af8c124d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "modified-newtonian-dynamics-and-the-dark-matter-alternative-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It actually does settle the question in MOND's favor -- galaxy clusters and the Bullet Cluster are equally well explained by MOND once the theory's full framework is applied correctly.",
+        "et": "See tegelikult lahendabki küsimuse MOND-i kasuks -- galaktikaparved ja Kuuli parv on MOND-i poolt võrdselt hästi seletatud, kui teooria täielikku raamistikku õigesti rakendada.",
+        "sourceHash": "e75b966040d48286",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "modified-newtonian-dynamics-and-the-dark-matter-alternative-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The Bullet Cluster is equally well explained by both theories, so the deciding evidence must come from somewhere else entirely.",
+        "et": "Kuuli parv on seletatud mõlema teooria poolt võrdselt hästi, seega peab otsustav tõendusmaterjal tulema hoopis mujalt.",
+        "sourceHash": "d6d9ce259207b5f6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "modified-newtonian-dynamics-and-the-dark-matter-alternative-m3"
+    }
+  ]
+}

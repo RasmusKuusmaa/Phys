@@ -1,0 +1,22 @@
+{
+  "id": "modified-newtonian-dynamics-and-the-dark-matter-alternative",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Modified Newtonian dynamics (MOND) as a dark-matter alternative",
+    "et": "Modifitseeritud Newtoni dünaamika (MOND) kui tumeaine alternatiiv",
+    "sourceHash": "6d8d222c517e3f3d",
+    "stale": false
+  },
+  "summary": {
+    "en": "Rather than invoking an unseen mass to explain why spiral galaxies rotate faster at large radius than their visible matter alone would allow, Modified Newtonian Dynamics (MOND), proposed by Mordehai Milgrom in 1983, instead modifies the law of gravity (or inertia) itself at extremely low accelerations, below a characteristic threshold roughly a hundred billionth of Earth's surface gravity, in a way specifically tuned to reproduce observed galaxy rotation curves without any dark matter at all, and it succeeds remarkably well at exactly that one class of observation, but it runs into serious trouble at the largest scales, failing to account for the full mass discrepancy seen in galaxy clusters and, most tellingly, offering no natural explanation for the Bullet Cluster's spatial separation between visible matter and the total mass traced by gravitational lensing, which is precisely why the great majority of the astrophysics community regards dark matter, not a modified force law, as the better-supported explanation overall, even though MOND remains a serious, actively studied minority proposal specifically because of its genuine, still only partially explained success on galactic scales.",
+    "et": "Selle asemel, et kutsuda esile nähtamatu mass, et seletada, miks spiraalgalaktikad pöörlevad suurel raadiusel kiiremini, kui nende nähtav aine üksi lubaks, modifitseerib Modifitseeritud Newtoni Dünaamika (MOND), mille pakkus 1983. aastal välja Mordehai Milgrom, selle asemel gravitatsiooniseadust (või inertsi) ennast äärmiselt madalatel kiirendustel, allpool iseloomulikku läve, mis on umbes sada miljardikku Maa pinnagravitatsioonist, viisil, mis on spetsiaalselt häälestatud reprodutseerima vaadeldud galaktikate pöörlemiskõveraid täiesti ilma tumeaineta, ning see õnnestub märkimisväärselt hästi täpselt selle ühe vaatlusklassi puhul, kuid satub tõsistesse raskustesse suurimates mõõtkavades, ebaõnnestudes seletama täielikku massilahknevust, mida nähakse galaktikaparvedes, ning kõige rääkivamalt ei paku loomulikku seletust Kuuli parve ruumilisele eraldatusele nähtava aine ja gravitatsioonilise läätsestumise poolt jälgitud kogumassi vahel, mis ongi täpselt põhjus, miks valdav enamik astrofüüsikakogukonnast peab tumeainet, mitte modifitseeritud jõuseadust, tervikuna paremini toetatud seletuseks, kuigi MOND jääb tõsiseks, aktiivselt uuritavaks vähemuse ettepanekuks just tänu oma tõelisele, endiselt ainult osaliselt seletatud edule galaktikate mõõtkavas.",
+    "sourceHash": "229ebad7a2cce7bf",
+    "stale": false
+  },
+  "prerequisites": [
+    "dark-matter-and-galactic-structure",
+    "galaxy-clusters-and-the-intracluster-medium"
+  ]
+}
