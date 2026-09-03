@@ -1,0 +1,10 @@
+{
+  "id": "the-kerr-metric-and-rotating-black-holes-m1",
+  "conceptId": "the-kerr-metric-and-rotating-black-holes",
+  "text": {
+    "en": "Believing the Schwarzschild solution already adequately describes essentially all real astrophysical black holes, with rotation being a minor correction -- essentially every real black hole, formed from a collapsing rotating star or having subsequently accreted matter carrying angular momentum, has significant spin, and a rotating black hole's structure differs qualitatively, not just by a small correction, from the Schwarzschild case: it has a different event horizon shape and location, an additional distinct boundary (the ergosphere), and frame-dragging effects entirely absent from the non-rotating solution.",
+    "et": "Arvamus, et Schwarzschildi lahendus kirjeldab juba piisavalt sisuliselt kõiki reaalseid astrofüüsikalisi musti auke, kusjuures pöörlemine on väike parandus -- sisuliselt igal reaalsel mustal augul, mis on tekkinud kokku variseva pöörleva tähe kollapsist või on hiljem akreteerinud impulsimomenti kandvat ainet, on märkimisväärne spinn, ning pöörleva musta augu struktuur erineb kvalitatiivselt, mitte ainult väikese parandusega, Schwarzschildi juhtumist: sellel on erinev sündmuste horisondi kuju ja asukoht, täiendav eraldiseisev piir (ergosfäär) ja raami tirimise efektid, mis mittepöörleva lahenduse puhul täielikult puuduvad.",
+    "sourceHash": "41a44620abefda34",
+    "stale": false
+  }
+}

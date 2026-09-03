@@ -1,0 +1,22 @@
+{
+  "id": "the-kerr-metric-and-rotating-black-holes",
+  "subject": "physics",
+  "level": "L4",
+  "module": "general-relativity",
+  "title": {
+    "en": "The Kerr metric and rotating black holes",
+    "et": "Kerri meetrika ja pöörlevad mustad augud",
+    "sourceHash": "685bf134282dfb2e",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Schwarzschild solution describes only a perfectly non-rotating black hole, an idealization essentially no real astrophysical black hole actually satisfies, since collapsing stars and accreting matter both carry angular momentum; the Kerr metric extends the solution to rotating black holes and reveals genuinely new structure absent from the non-rotating case, including an ergosphere where spacetime itself is dragged around so violently that nothing, not even light, can remain stationary, and a rotating black hole's spin can in principle be tapped as an actual energy source through the Penrose process.",
+    "et": "Schwarzschildi lahendus kirjeldab ainult täiuslikult mittepöörlevat musta auku, idealisatsiooni, mida sisuliselt ükski reaalne astrofüüsikaline must auk tegelikult ei rahulda, kuna nii kokku varisevad tähed kui akreteeriv aine kannavad impulsimomenti; Kerri meetrika laiendab lahendust pöörlevatele mustadele aukudele ja paljastab tõeliselt uue struktuuri, mis mittepöörleva juhtumi puhul puudub, sealhulgas ergosfääri, kus aegruum ise on tõmmatud ringi nii vägivaldselt, et miski, isegi valgus, ei saa jääda paigal, ning pöörleva musta augu spinni saab põhimõtteliselt kasutada tegeliku energiaallikana Penrose'i protsessi kaudu.",
+    "sourceHash": "cebe30b82ea196c7",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schwarzschild-solution-and-black-holes",
+    "the-einstein-field-equations"
+  ]
+}

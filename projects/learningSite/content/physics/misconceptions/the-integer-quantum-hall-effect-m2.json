@@ -1,0 +1,10 @@
+{
+  "id": "the-integer-quantum-hall-effect-m2",
+  "conceptId": "the-integer-quantum-hall-effect",
+  "text": {
+    "en": "Believing sample disorder and impurities should ruin the integer quantum Hall effect's precise quantization, the same way disorder degrades most other electronic transport measurements -- disorder actually plays an essential, constructive role in producing the observed flat plateaus (by localizing electron states between the sharp energy levels, so that the Hall conductance stays pinned at a quantized value across a range of field strengths rather than jumping abruptly at isolated points), and the plateaus' exact quantized values are protected by a topological invariant that is fundamentally insensitive to smooth changes from disorder, rather than being fragile against it.",
+    "et": "Arvamus, et proovi häired ja lisandid peaksid rikkuma täisarvulise kvant-Halli efekti täpse kvantimise, samamoodi nagu häired halvendavad enamikku teisi elektroonilisi transpordimõõtmisi -- häired mängivad tegelikult olulist, konstruktiivset rolli vaadeldud siledate platoode tekitamisel (lokaliseerides elektroniolekud teravate energiatasemete vahel, nii et Halli juhtivus jääb kvanditud väärtuse juurde kinnitatuks üle väljatugevuste vahemiku, mitte ei hüppa järsult üksikutes punktides), ning platoode täpsed kvanditud väärtused on kaitstud topoloogilise invariandi poolt, mis on põhimõtteliselt tundmatu häiretest tulenevate sujuvate muutuste suhtes, mitte nende suhtes haavatav.",
+    "sourceHash": "3fa643144efcf0ac",
+    "stale": false
+  }
+}

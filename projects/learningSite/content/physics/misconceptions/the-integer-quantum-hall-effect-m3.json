@@ -1,0 +1,10 @@
+{
+  "id": "the-integer-quantum-hall-effect-m3",
+  "conceptId": "the-integer-quantum-hall-effect",
+  "text": {
+    "en": "Believing the integer and fractional quantum Hall effects are explained by essentially the same physical mechanism, just differing in how precisely the plateaus have been measured -- the integer effect is well explained by treating electrons as independent particles filling discrete Landau levels, with the plateaus' robustness protected by a single-particle topological invariant (the first Chern number), while the fractional effect fundamentally requires strong electron-electron interactions and genuine many-body correlation that the independent-electron picture cannot produce at all, a qualitatively different underlying mechanism rather than a difference of measurement precision.",
+    "et": "Arvamus, et täisarvulist ja murdarvulist kvant-Halli efekti seletab sisuliselt sama füüsikaline mehhanism, mis erineb ainult selle poolest, kui täpselt platoosid on mõõdetud -- täisarvulist efekti seletab hästi elektronide käsitlemine sõltumatute osakestena, mis täidavad diskreetseid Landau tasemeid, kusjuures platoode vastupidavuse kaitseb üksikosakese topoloogiline invariant (esimene Cherni arv), samal ajal kui murdarvuline efekt nõuab fundamentaalselt tugevaid elektron-elektron interaktsioone ja tõelist paljukeha korrelatsiooni, mida sõltumatu elektroni pilt üldse ei suuda toota, kvalitatiivselt erinevast alusmehhanismist, mitte mõõtmistäpsuse erinevusest.",
+    "sourceHash": "20f6815da50c2b3c",
+    "stale": false
+  }
+}

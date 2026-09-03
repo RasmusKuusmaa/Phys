@@ -1,0 +1,10 @@
+{
+  "id": "the-integer-quantum-hall-effect-m1",
+  "conceptId": "the-integer-quantum-hall-effect",
+  "text": {
+    "en": "Believing the integer quantum Hall effect's plateaus are only approximately quantized, with their exact values depending on the specific sample's material, geometry, or amount of disorder -- the plateaus are quantized to extraordinary precision (better than one part in a billion in the best measurements) in exact integer multiples of a single combination of fundamental constants, completely independent of the specific material, sample geometry, or the presence of disorder and impurities, which is exactly why the effect is now used as the international metrological standard for resistance.",
+    "et": "Arvamus, et täisarvulise kvant-Halli efekti platood on ainult ligikaudu kvanditud, kusjuures nende täpsed väärtused sõltuvad konkreetsest proovi materjalist, geomeetriast või häirete hulgast -- platood on kvanditud erakordse täpsusega (parem kui üks osa miljardist parimates mõõtmistes) fundamentaalsete konstantide ühe kombinatsiooni täpsetele täisarvulistele kordsetele, täiesti sõltumatult konkreetsest materjalist, proovi geomeetriast või häirete ja lisandite olemasolust, mis on täpselt põhjus, miks efekti kasutatakse nüüd takistuse rahvusvahelise metroloogilise standardina.",
+    "sourceHash": "dbc5b8ca86b99a71",
+    "stale": false
+  }
+}

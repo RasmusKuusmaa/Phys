@@ -1,0 +1,56 @@
+{
+  "id": "the-kerr-metric-and-rotating-black-holes-item1",
+  "conceptId": "the-kerr-metric-and-rotating-black-holes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the Penrose process extracting energy from a rotating black hole not violate energy conservation?",
+    "et": "Miks ei riku Penrose'i protsess, mis võtab energiat pöörlevast mustast august, energia jäävust?",
+    "sourceHash": "9a885cfbb3159437",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because it extracts energy specifically from the black hole's rotational energy, leaving the black hole with reduced mass and spin afterward, a real conservation-respecting transfer.",
+        "et": "Sest see võtab energiat spetsiifiliselt musta augu pöörlemisenergiast, jättes musta augu pärast seda vähenenud massi ja spinniga, reaalse jäävust austava ülekande.",
+        "sourceHash": "65f73c7b0e2ecc94",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the Schwarzschild solution already describes rotating black holes adequately, so rotational energy was never really a separate reservoir to begin with.",
+        "et": "Sest Schwarzschildi lahendus kirjeldab pöörlevaid musti auke juba piisavalt, seega ei olnud pöörlemisenergia kunagi tegelikult eraldi varu.",
+        "sourceHash": "cd9399cdd28fdf9d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-kerr-metric-and-rotating-black-holes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the ergosphere and event horizon are actually the same boundary, so nothing that enters the ergosphere can ever come back out to carry energy away.",
+        "et": "Sest ergosfäär ja sündmuste horisont on tegelikult sama piir, seega ei saa miski, mis ergosfääri siseneb, kunagi tagasi tulla, et energiat ära kanda.",
+        "sourceHash": "eb282123d2f557dc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-kerr-metric-and-rotating-black-holes-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It does violate energy conservation -- the Penrose process is a theoretical proposal known to be physically impossible for exactly this reason.",
+        "et": "See rikubki energia jäävust -- Penrose'i protsess on teoreetiline ettepanek, mis on teadaolevalt füüsikaliselt võimatu just sel põhjusel.",
+        "sourceHash": "946555a04e8cfde2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-kerr-metric-and-rotating-black-holes-m3"
+    }
+  ]
+}

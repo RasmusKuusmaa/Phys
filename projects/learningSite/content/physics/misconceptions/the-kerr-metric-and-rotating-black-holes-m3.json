@@ -1,0 +1,10 @@
+{
+  "id": "the-kerr-metric-and-rotating-black-holes-m3",
+  "conceptId": "the-kerr-metric-and-rotating-black-holes",
+  "text": {
+    "en": "Believing extracting energy from a rotating black hole via the Penrose process would violate conservation of energy, since a black hole is supposed to be a one-way sink for matter and energy -- the Penrose process extracts energy from the black hole's rotational energy specifically, not from nothing, by splitting an infalling object within the ergosphere so that one fragment falls into the black hole carrying negative energy (as measured at infinity) while the other escapes carrying away more energy than the original object had, leaving the black hole with reduced mass and reduced spin afterward, a real, conservation-respecting energy transfer rather than a violation of any physical law.",
+    "et": "Arvamus, et energia väljavõtmine pöörlevast mustast august Penrose'i protsessi kaudu rikuks energia jäävust, kuna must auk peaks olema ühesuunaline ainet ja energiat neelav auk -- Penrose'i protsess võtab energiat välja spetsiifiliselt musta augu pöörlemisenergiast, mitte mitte millestki, lõhestades sissekukkuva objekti ergosfääris nii, et üks fragment kukub musta auku, kandes negatiivset energiat (mõõdetuna lõpmatusest), samal ajal kui teine pääseb, kandes ära rohkem energiat, kui algsel objektil oli, jättes musta augu pärast seda vähenenud massi ja vähenenud spinniga, reaalse, jäävust austava energiaülekande, mitte mistahes füüsikaseaduse rikkumise.",
+    "sourceHash": "d9c8f111fc64923a",
+    "stale": false
+  }
+}

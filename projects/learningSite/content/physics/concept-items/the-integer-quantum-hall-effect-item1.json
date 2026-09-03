@@ -1,0 +1,56 @@
+{
+  "id": "the-integer-quantum-hall-effect-item1",
+  "conceptId": "the-integer-quantum-hall-effect",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why doesn't sample disorder ruin the integer quantum Hall effect's precise plateau quantization, unlike most other transport measurements?",
+    "et": "Miks ei riku proovi häire täisarvulise kvant-Halli efekti täpset platoo kvantimist, erinevalt enamikust teistest transpordimõõtmistest?",
+    "sourceHash": "08a052f9f76e1dd4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because disorder plays a constructive role by localizing states between Landau levels, pinning the conductance at a topologically protected value across a range of field strengths.",
+        "et": "Sest häire mängib konstruktiivset rolli, lokaliseerides olekuid Landau tasemete vahel, kinnitades juhtivuse topoloogiliselt kaitstud väärtuse juurde üle väljatugevuste vahemiku.",
+        "sourceHash": "ced9d0382d428f3f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the plateaus are actually only approximately quantized, and their exact values depend on the specific sample's disorder, so no real protection is needed.",
+        "et": "Sest platood on tegelikult ainult ligikaudu kvanditud, ning nende täpsed väärtused sõltuvad konkreetse proovi häirest, seega ei ole tegelikku kaitset vaja.",
+        "sourceHash": "5dd7ac6f1c8e396f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-integer-quantum-hall-effect-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't -- disorder does ruin the quantization, which is exactly why the effect cannot be used as a metrological standard.",
+        "et": "Ei väldigi -- häire rikubki kvantimise, mis on täpselt põhjus, miks efekti ei saa kasutada metroloogilise standardina.",
+        "sourceHash": "a2eda5e060208c74",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-integer-quantum-hall-effect-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the integer and fractional quantum Hall effects share the same many-body interaction mechanism, which happens to be immune to disorder.",
+        "et": "Sest täisarvuline ja murdarvuline kvant-Halli efekt jagavad sama paljukeha interaktsioonimehhanismi, mis juhtub olema häire suhtes immuunne.",
+        "sourceHash": "4960c706234e661c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-integer-quantum-hall-effect-m3"
+    }
+  ]
+}

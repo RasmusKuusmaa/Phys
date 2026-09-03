@@ -1,0 +1,22 @@
+{
+  "id": "the-integer-quantum-hall-effect",
+  "subject": "physics",
+  "level": "L4",
+  "module": "solid-state-physics",
+  "title": {
+    "en": "The integer quantum Hall effect",
+    "et": "Täisarvuline kvant-Halli efekt",
+    "sourceHash": "17e956781d0ed082",
+    "stale": false
+  },
+  "summary": {
+    "en": "When a two-dimensional electron gas is cooled to very low temperatures and placed in a strong perpendicular magnetic field, its Hall conductance no longer rises smoothly with field strength but instead locks onto a sequence of flat plateaus at values quantized to remarkable precision in exact integer multiples of a single fundamental constant, a result so precise and so completely insensitive to a real sample's inevitable disorder and impurities that it now serves as the international standard for the resistance unit, and its explanation rests on a genuinely topological invariant of the electron system rather than any detail of the particular material used.",
+    "et": "Kui kahemõõtmeline elektrongaas jahutatakse väga madalatele temperatuuridele ja asetatakse tugevasse risti asetsevasse magnetvälja, ei tõuse selle Halli juhtivus enam sujuvalt väljatugevusega, vaid lukustub selle asemel platoode jadale, mis on kvanditud märkimisväärse täpsusega ühe fundamentaalse konstandi täisarvulistele kordsetele, tulemus, mis on nii täpne ja nii täielikult tundmatu reaalse proovi vältimatute häirete ja lisandite suhtes, et see teenib nüüd rahvusvahelise standardina takistuse ühiku jaoks, ning selle seletus tugineb elektronisüsteemi tõeliselt topoloogilisele invariandile, mitte konkreetse kasutatava materjali üksikasjadele.",
+    "sourceHash": "e5790cd0e57d535e",
+    "stale": false
+  },
+  "prerequisites": [
+    "band-theory-of-solids",
+    "the-fermi-surface-and-electronic-transport"
+  ]
+}
