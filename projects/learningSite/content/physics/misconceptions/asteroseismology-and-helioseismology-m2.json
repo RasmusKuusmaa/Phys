@@ -1,0 +1,10 @@
+{
+  "id": "asteroseismology-and-helioseismology-m2",
+  "conceptId": "asteroseismology-and-helioseismology",
+  "text": {
+    "en": "Believing that because any single stellar oscillation produces an imperceptibly tiny brightness or velocity change, the whole technique of asteroseismology must be too weak in practice to give useful measurements -- while any one oscillation mode's individual signature is indeed extremely small, a star typically oscillates simultaneously in a great many distinct modes at once, and years of ultra-precise, continuous brightness or velocity monitoring let astronomers statistically separate and measure this entire spectrum of discrete frequencies with high precision, which is exactly what makes the technique powerful rather than what limits it.",
+    "et": "Arvamus, et kuna iga üksik tähe võnkerežiim tekitab tajumatult väikese heleduse või kiiruse muutuse, peab kogu astroseismoloogia tehnika olema praktikas liiga nõrk kasulike mõõtmiste andmiseks -- kuigi iga üksiku võnkerežiimi individuaalne signatuur on tõesti äärmiselt väike, võngub täht tüüpiliselt samaaegselt paljudes eristuvates režiimides korraga, ning aastatepikkune äärmiselt täpne, pidev heleduse või kiiruse jälgimine lubab astronoomidel statistiliselt eraldada ja mõõta seda kogu diskreetsete sageduste spektrit suure täpsusega, mis ongi täpselt see, mis teeb tehnika võimsaks, mitte see, mis seda piirab.",
+    "sourceHash": "b9e7c8d672346320",
+    "stale": false
+  }
+}

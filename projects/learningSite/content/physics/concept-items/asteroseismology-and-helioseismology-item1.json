@@ -1,0 +1,55 @@
+{
+  "id": "asteroseismology-and-helioseismology-item1",
+  "conceptId": "asteroseismology-and-helioseismology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is asteroseismology considered a genuinely direct probe of a star's interior, rather than just another indirect, model-dependent inference from surface properties?",
+    "et": "Miks peetakse astroseismoloogiat tõeliselt otseseks tähe sisemuse sondiks, mitte lihtsalt teiseks kaudseks, mudelisõltuvaks järelduseks pinnaomadustest?",
+    "sourceHash": "cab05bbbc9e02bd1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The observed oscillation frequencies are a direct measurable consequence of internal sound waves reflecting and refracting through the star's actual internal sound-speed and density profile.",
+        "et": "Vaadeldud võnkesagedused on otsene mõõdetav tagajärg sellest, et sisemised helilained peegelduvad ja murduvad läbi tähe tegeliku sisemise helikiiruse ja tiheduse profiili.",
+        "sourceHash": "b7ea7971d22749c8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't actually a direct probe at all -- it is exactly as model-dependent as any other indirect inference from a star's surface brightness and temperature.",
+        "et": "See ei ole tegelikult üldse otsene sond -- see on täpselt sama mudelisõltuv kui iga teine kaudne järeldus tähe pinnaheledusest ja temperatuurist.",
+        "sourceHash": "b6050dedde8028be",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "asteroseismology-and-helioseismology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Telescopes can now directly image the interiors of other stars, so the oscillation frequencies are simply a secondary confirmation of what is already directly seen.",
+        "et": "Teleskoobid suudavad nüüd otse pildistada teiste tähtede sisemust, seega on võnkesagedused lihtsalt teisejärguline kinnitus sellele, mida on juba otse nähtud.",
+        "sourceHash": "ee72058378f8dedf",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Each individual oscillation mode is large and easily measured on its own, so no statistical combination of many modes is actually needed.",
+        "et": "Iga üksik võnkerežiim on suur ja lihtsalt eraldi mõõdetav, seega ei ole paljude režiimide statistilist kombineerimist tegelikult vaja.",
+        "sourceHash": "62c3e2e894064bf9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "asteroseismology-and-helioseismology-m2"
+    }
+  ]
+}

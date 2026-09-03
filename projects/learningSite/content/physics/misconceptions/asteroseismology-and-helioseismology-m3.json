@@ -1,0 +1,10 @@
+{
+  "id": "asteroseismology-and-helioseismology-m3",
+  "conceptId": "asteroseismology-and-helioseismology",
+  "text": {
+    "en": "Believing helioseismology and asteroseismology are two unrelated fields of study rather than the same underlying physics applied at different scales -- both techniques rest on exactly the same principle, analyzing internally-excited standing sound waves whose surface oscillation frequencies encode interior structure; helioseismology is simply the application to the Sun, where the star is close and bright enough to be spatially resolved and its surface oscillation pattern imaged directly, while asteroseismology extends the identical technique to other, unresolved stars, working instead from the star's total (unresolved) brightness or velocity variation over time.",
+    "et": "Arvamus, et helioseismoloogia ja astroseismoloogia on kaks omavahel mitteseotud uurimisvaldkonda, mitte sama aluseks olev füüsika erinevas mõõtkavas rakendatuna -- mõlemad tehnikad tuginevad täpselt samale printsiibile, analüüsides sisemiselt ergastatud seisulaineid, mille pinnavõnkesagedused kodeerivad sisestruktuuri; helioseismoloogia on lihtsalt rakendus Päikesele, kus täht on piisavalt lähedal ja hele, et olla ruumiliselt lahutatav ja tema pinnavõnkemuster otse pildistatav, samal ajal kui astroseismoloogia laiendab identset tehnikat teistele, lahutamata tähtedele, töötades selle asemel tähe kogu (lahutamata) heleduse või kiiruse ajalise muutumisega.",
+    "sourceHash": "04c7815657975719",
+    "stale": false
+  }
+}

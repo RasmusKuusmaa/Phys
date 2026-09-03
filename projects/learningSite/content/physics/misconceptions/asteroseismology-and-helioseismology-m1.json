@@ -1,0 +1,10 @@
+{
+  "id": "asteroseismology-and-helioseismology-m1",
+  "conceptId": "asteroseismology-and-helioseismology",
+  "text": {
+    "en": "Believing a star's interior is fundamentally inaccessible to direct observation, so its internal structure can only ever be inferred indirectly from theoretical models fit to its surface properties alone -- asteroseismology and helioseismology provide a genuinely direct observational probe of the interior: internal sound waves reflect and refract through the star's actual internal sound-speed and density profile, and the resulting surface oscillation frequencies are a direct measurable consequence of that internal structure, letting internal properties (rotation rate at different depths, the location of internal boundaries, core conditions) be measured, not merely modeled.",
+    "et": "Arvamus, et tähe sisemus on otsesele vaatlusele fundamentaalselt kättesaamatu, seega saab selle sisestruktuuri alati järeldada ainult kaudselt teoreetiliste mudelite kaudu, mis on sobitatud üksnes pinnaomadustega -- astroseismoloogia ja helioseismoloogia pakuvad tõeliselt otsest vaatluslikku sondi sisemusse: sisemised helilained peegelduvad ja murduvad läbi tähe tegeliku sisemise helikiiruse ja tiheduse profiili, ning saadud pinnavõnkesagedused on selle sisestruktuuri otsene mõõdetav tagajärg, lubades sisemisi omadusi (pöörlemiskiirus erinevatel sügavustel, sisemiste piiride asukoht, tuuma tingimused) mõõta, mitte ainult modelleerida.",
+    "sourceHash": "1702eec3679f6855",
+    "stale": false
+  }
+}

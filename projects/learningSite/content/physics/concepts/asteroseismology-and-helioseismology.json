@@ -1,0 +1,22 @@
+{
+  "id": "asteroseismology-and-helioseismology",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Asteroseismology and helioseismology",
+    "et": "Astroseismoloogia ja helioseismoloogia",
+    "sourceHash": "fd1d0b65eb2a2342",
+    "stale": false
+  },
+  "summary": {
+    "en": "Convective turbulence continuously excites countless standing sound waves inside a star, and because each such oscillation mode's frequency is set by the specific sound-speed profile and structure of the layers it passes through, the star's tiny surface brightness and velocity flickering at those characteristic frequencies -- individually undetectable but statistically resolvable as a whole spectrum of discrete oscillation frequencies -- encodes detailed information about conditions deep in its interior that no other observation reaches directly, letting astronomers use helioseismology to map the Sun's internal rotation and layered structure with extraordinary precision and its sister technique, asteroseismology, to measure other stars' masses, radii, ages, and internal structure directly from years of ultra-precise brightness monitoring, most famously by space telescopes purpose-built to watch thousands of stars flicker simultaneously.",
+    "et": "Konvektiivne turbulents ergastab tähe sees pidevalt loendamatuid seisulaineid, ning kuna iga sellise võnkerežiimi sagedus on määratud konkreetse helikiiruse profiili ja struktuuriga kihtides, mida see läbib, kodeerib tähe pisike pinnaheleduse ja kiiruse virvendus neil iseloomulikel sagedustel -- eraldi tuvastamatu, kuid statistiliselt lahutatav tervikliku diskreetsete võnkesageduste spektrina -- üksikasjalikku teavet tema sisemuse sügavate tingimuste kohta, milleni ükski teine vaatlus otseselt ei ulatu, lubades astronoomidel kasutada helioseismoloogiat Päikese sisemise pöörlemise ja kihilise struktuuri erakordselt täpseks kaardistamiseks ning selle sõsartehnikat, astroseismoloogiat, teiste tähtede masside, raadiuste, vanuste ja sisestruktuuri otseseks mõõtmiseks aastatepikkuse äärmiselt täpse heleduse jälgimise abil, kõige kuulsamalt kosmoseteleskoopide poolt, mis on ehitatud spetsiaalselt jälgima tuhandete tähtede virvendust samaaegselt.",
+    "sourceHash": "ddadde40ee81d790",
+    "stale": false
+  },
+  "prerequisites": [
+    "stellar-structure-equations",
+    "stellar-atmospheres-and-radiative-transfer"
+  ]
+}
