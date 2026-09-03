@@ -1,0 +1,56 @@
+{
+  "id": "supernova-mechanisms-item1",
+  "conceptId": "supernova-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why are Type Ia supernovae useful as 'standard candles' for measuring cosmic distances, while core-collapse supernovae are not used the same way?",
+    "et": "Miks on I tüüpi supernoovad kasulikud 'standardküünaldena' kosmiliste kauguste mõõtmiseks, samal ajal kui tuuma kokkuvarisemise supernoovasid samamoodi ei kasutata?",
+    "sourceHash": "d2de85d564a0115a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Type Ia supernovae always detonate at essentially the same mass (the Chandrasekhar limit), giving them a remarkably consistent peak brightness; core-collapse supernovae vary with the original star's mass and structure.",
+        "et": "I tüüpi supernoovad plahvatavad alati sisuliselt samal massil (Chandrasekhari piiril), andes neile märkimisväärselt ühtlase tippheleduse; tuuma kokkuvarisemise supernoovad varieeruvad algse tähe massi ja struktuuriga.",
+        "sourceHash": "b3a58b1d1d99037f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both types are actually the same underlying physical event, so this distinction doesn't really matter for standard-candle use.",
+        "et": "Mõlemad tüübid on tegelikult sama aluseks olev füüsikaline sündmus, nii et see eristus ei ole tegelikult standardküünla kasutuse jaoks oluline.",
+        "sourceHash": "f5ab2cf2b8d906f9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "supernova-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because Type Ia supernovae leave behind a consistent compact remnant, such as a neutron star, which anchors their brightness.",
+        "et": "Kuna I tüüpi supernoovad jätavad maha ühtlase kompaktse jäänuki, näiteks neutrontähe, mis ankurdab nende heleduse.",
+        "sourceHash": "b0f731b1c2ce7c7b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "supernova-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Simply because Type Ia supernovae tend to be brighter overall, with no deeper physical reason for their consistency.",
+        "et": "Lihtsalt seetõttu, et I tüüpi supernoovad kipuvad üldiselt heledamad olema, ilma sügavama füüsikalise põhjuseta nende ühtluse jaoks.",
+        "sourceHash": "14c8466703cbe4cd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "supernova-mechanisms-m3"
+    }
+  ]
+}

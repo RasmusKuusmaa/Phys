@@ -1,0 +1,22 @@
+{
+  "id": "neutron-star-structure-and-equation-of-state",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Neutron star structure and the equation of state",
+    "et": "Neutrontähe struktuur ja olekuvõrrand",
+    "sourceHash": "4b36f38482886515",
+    "stale": false
+  },
+  "summary": {
+    "en": "A neutron star is held up against the crushing pull of its own gravity not by fusion but by neutron degeneracy pressure, a purely quantum mechanical effect of the Pauli exclusion principle applied to densely packed neutrons — and because that pressure's dependence on density (the equation of state) is still not perfectly known at these extreme densities, the precise maximum mass a neutron star can have before collapsing further into a black hole remains an open question at the frontier of nuclear physics and astrophysics.",
+    "et": "Neutrontähte hoiab üleval oma raskusjõu purustava tõmbe vastu mitte sulamine, vaid neutronite kõdumisrõhk, puhtalt kvantmehaaniline efekt Pauli keeluprintsiibist, mida rakendatakse tihedalt pakitud neutronitele — ning kuna selle rõhu sõltuvus tihedusest (olekuvõrrand) pole nende äärmuslike tiheduste juures veel täpselt teada, jääb täpne maksimaalne mass, mis neutrontähel saab olla enne edasist kokkuvarisemist mustaks auguks, lahtiseks küsimuseks tuumafüüsika ja astrofüüsika piiril.",
+    "sourceHash": "87e07bb740e7f4d6",
+    "stale": false
+  },
+  "prerequisites": [
+    "supernova-mechanisms",
+    "quantum-statistics-fermi-dirac-and-bose-einstein"
+  ]
+}

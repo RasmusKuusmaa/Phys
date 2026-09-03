@@ -1,0 +1,22 @@
+{
+  "id": "supernova-mechanisms",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Supernova mechanisms",
+    "et": "Supernoovade mehhanismid",
+    "sourceHash": "a00e76bc60b80c74",
+    "stale": false
+  },
+  "summary": {
+    "en": "Supernovae, among the most energetic events in the universe, arise from two genuinely different physical mechanisms grouped under one observational name: a core-collapse supernova is the catastrophic implosion and rebound of a massive star's iron core once fusion can no longer support it, while a Type Ia supernova is the complete thermonuclear disruption of a white dwarf that has been pushed past a specific mass limit, with no collapsing core involved at all.",
+    "et": "Supernoovad, ühed universumi kõige energiarikkamad sündmused, tulenevad kahest tõeliselt erinevast füüsikalisest mehhanismist, mis on koondatud ühe vaatlusliku nimetuse alla: tuuma kokkuvarisemise supernoova on massiivse tähe rauatuuma katastroofiline sissevarisemine ja tagasipõrge, kui sulamine ei suuda seda enam toetada, samal ajal kui I tüüpi supernoova on valge kääbuse täielik termotuumaline lõhkumine, mis on surutud üle kindla massipiiri, ilma igasuguse kokkuvariseva tuumata.",
+    "sourceHash": "594320389562302c",
+    "stale": false
+  },
+  "prerequisites": [
+    "stellar-nucleosynthesis-and-fusion-chains",
+    "nuclear-binding-energy"
+  ]
+}

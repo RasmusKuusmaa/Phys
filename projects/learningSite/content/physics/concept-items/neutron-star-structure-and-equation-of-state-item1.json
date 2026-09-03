@@ -1,0 +1,56 @@
+{
+  "id": "neutron-star-structure-and-equation-of-state-item1",
+  "conceptId": "neutron-star-structure-and-equation-of-state",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is the maximum possible mass of a neutron star not precisely known, unlike, say, the mass of an electron?",
+    "et": "Miks ei ole neutrontähe maksimaalne võimalik mass täpselt teada, erinevalt näiteks elektroni massist?",
+    "sourceHash": "599216889d9427a3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It depends on the neutron star equation of state, which involves strong-force interactions at densities not yet precisely understood or directly testable in any laboratory.",
+        "et": "See sõltub neutrontähe olekuvõrrandist, mis hõlmab tugeva jõu interaktsioone tihedustel, mida pole veel täpselt mõistetud ega saa üheski laboris otse testida.",
+        "sourceHash": "03de75d3c1b669a3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because it depends on how much nuclear fusion is still actively occurring inside a given neutron star, which varies unpredictably.",
+        "et": "Kuna see sõltub sellest, kui palju tuumasünteesi antud neutrontähe sees veel aktiivselt toimub, mis varieerub ettearvamatult.",
+        "sourceHash": "e957eb2757efb870",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neutron-star-structure-and-equation-of-state-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It actually is precisely and definitively known — this is settled textbook physics with no remaining uncertainty.",
+        "et": "See on tegelikult täpselt ja lõplikult teada — see on lahendatud õpikufüüsika ilma allesjäänud ebakindluseta.",
+        "sourceHash": "5ee9104668578171",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neutron-star-structure-and-equation-of-state-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because neutron star physics is purely theoretical speculation with no way to check it against real observational data.",
+        "et": "Kuna neutrontähe füüsika on puhtalt teoreetiline spekulatsioon, ilma võimaluseta seda reaalsete vaatlusandmete vastu kontrollida.",
+        "sourceHash": "02713352b4dba364",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neutron-star-structure-and-equation-of-state-m3"
+    }
+  ]
+}
