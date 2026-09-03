@@ -1,0 +1,10 @@
+{
+  "id": "the-variational-method-and-the-rayleigh-ritz-principle-m3",
+  "conceptId": "the-variational-method-and-the-rayleigh-ritz-principle",
+  "text": {
+    "en": "Believing the variational method, applied with a single trial wavefunction, gives direct, reliable access to excited-state energies the same way it does for the ground state -- the basic Rayleigh-Ritz inequality specifically bounds the ground-state energy from above; extending the method to excited states requires an additional constraint, most commonly restricting the trial wavefunction to be orthogonal to the already-obtained ground state (and to all lower excited states already found), since without that constraint the minimization procedure simply collapses back onto approximating the ground state again rather than the intended excited state.",
+    "et": "Arvamus, et variatsioonimeetod, rakendatuna ühe proovi-lainefunktsiooniga, annab otsese, usaldusväärse juurdepääsu ergastatud olekute energiatele samamoodi nagu põhioleku puhul -- põhiline Rayleigh-Ritzi võrratus piirab spetsiifiliselt põhioleku energiat ülevalt; meetodi laiendamine ergastatud olekutele nõuab täiendavat piirangut, kõige sagedamini proovi-lainefunktsiooni piiramist ortogonaalseks juba saadud põhiolekuga (ja kõigi juba leitud madalamate ergastatud olekutega), kuna ilma selle piiranguta variseb minimeerimisprotseduur lihtsalt tagasi kokku, lähendades uuesti põhiolekut, mitte kavatsetud ergastatud olekut.",
+    "sourceHash": "0bb7cb2e0618f12b",
+    "stale": false
+  }
+}

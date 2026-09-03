@@ -1,0 +1,22 @@
+{
+  "id": "the-variational-method-and-the-rayleigh-ritz-principle",
+  "subject": "physics",
+  "level": "L4",
+  "module": "quantum-mechanics",
+  "title": {
+    "en": "The variational method and the Rayleigh-Ritz principle",
+    "et": "Variatsioonimeetod ja Rayleigh-Ritzi printsiip",
+    "sourceHash": "69778d3099489720",
+    "stale": false
+  },
+  "summary": {
+    "en": "For any normalized trial wavefunction whatsoever, the expectation value of a system's Hamiltonian in that trial state can never fall below the true ground-state energy, a simple but powerful inequality called the Rayleigh-Ritz variational principle, which turns finding a good approximate ground state into a straightforward optimization problem: guess a trial wavefunction depending on one or more adjustable parameters, motivated by physical intuition about the true ground state's shape, then tune those parameters to minimize the resulting energy expectation value, guaranteed by the principle itself to land above the true ground-state energy no matter how the parameters are chosen, making the variational method one of the most widely used approximation techniques in quantum mechanics precisely because it requires no smallness assumption the way perturbation theory does and instead trades that assumption for the very different requirement of a good physical guess.",
+    "et": "Iga normeeritud proovi-lainefunktsiooni jaoks üldse ei saa süsteemi Hamiltoniaani keskväärtus selles proovi-olekus kunagi langeda alla tõelise põhioleku energia, lihtne, kuid võimas võrratus nimega Rayleigh-Ritzi variatsiooniprintsiip, mis muudab hea ligikaudse põhioleku leidmise otsekoheseks optimeerimisülesandeks: arvata proovi-lainefunktsioon, mis sõltub ühest või mitmest reguleeritavast parameetrist, motiveerituna füüsikalisest intuitsioonist tõelise põhioleku kuju kohta, seejärel häälestada need parameetrid, et minimeerida saadud energia keskväärtus, mis printsiibi enda poolt garanteeritult asub üle tõelise põhioleku energia, olenemata sellest, kuidas parameetrid valitakse, mis muudab variatsioonimeetodi üheks enim kasutatavaks lähendustehnikaks kvantmehaanikas just seetõttu, et see ei nõua väiksuse eeldust nagu häiritusteooria, vaid vahetab selle eelduse hoopis väga erineva nõude vastu hea füüsikalise arvamuse järele.",
+    "sourceHash": "09bb2f3ec6302a0d",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-schrodinger-equation",
+    "quantum-dynamics-heisenberg-picture-and-perturbation-theory"
+  ]
+}

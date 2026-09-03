@@ -1,0 +1,55 @@
+{
+  "id": "the-variational-method-and-the-rayleigh-ritz-principle-item1",
+  "conceptId": "the-variational-method-and-the-rayleigh-ritz-principle",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A student tries three different trial wavefunctions for the same system and computes an energy expectation value for each: 5.1 eV, 4.8 eV, and 4.6 eV, while the true ground-state energy is known independently to be 4.5 eV. What does the Rayleigh-Ritz principle say about these three results?",
+    "et": "Üliõpilane proovib sama süsteemi jaoks kolme erinevat proovi-lainefunktsiooni ja arvutab igaühe jaoks energia keskväärtuse: 5,1 eV, 4,8 eV ja 4,6 eV, samal ajal kui tõeline põhioleku energia on sõltumatult teada 4,5 eV. Mida ütleb Rayleigh-Ritzi printsiip nende kolme tulemuse kohta?",
+    "sourceHash": "a262141766b65dde",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "All three are consistent with the principle, since all sit at or above the true ground-state energy; the 4.6 eV trial function is the best of the three, being closest to 4.5 eV.",
+        "et": "Kõik kolm on printsiibiga kooskõlas, kuna kõik asuvad tõelise põhioleku energiast kõrgemal või sellega võrdsed; 4,6 eV proovifunktsioon on kolmest parim, olles 4,5 eV-le kõige lähemal.",
+        "sourceHash": "895199acce7650a8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is impossible under the variational method -- a valid trial wavefunction's energy expectation value must always come out exactly equal to the true ground-state energy.",
+        "et": "See on variatsioonimeetodi all võimatu -- kehtiva proovi-lainefunktsiooni energia keskväärtus peab alati tulema täpselt võrdne tõelise põhioleku energiaga.",
+        "sourceHash": "cede2bc457504e4a",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The 4.6 eV result must actually be invalid, since the Rayleigh-Ritz principle guarantees results can fall below the true ground-state energy, meaning something below 4.5 eV should also have been achievable.",
+        "et": "4,6 eV tulemus peab tegelikult olema kehtetu, kuna Rayleigh-Ritzi printsiip garanteerib, et tulemused võivad langeda alla tõelise põhioleku energia, mis tähendab, et midagi alla 4,5 eV peaks samuti olema saavutatav.",
+        "sourceHash": "39d139ca6c623abb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-variational-method-and-the-rayleigh-ritz-principle-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "All three trial functions must actually be small perturbations of some exactly solvable system, since this is required before the variational method can be applied at all.",
+        "et": "Kõik kolm proovifunktsiooni peavad tegelikult olema mõne täpselt lahenduva süsteemi väikesed häiritused, kuna see on nõutav enne, kui variatsioonimeetodit üldse rakendada saab.",
+        "sourceHash": "f5b33140ff40f784",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-variational-method-and-the-rayleigh-ritz-principle-m2"
+    }
+  ]
+}

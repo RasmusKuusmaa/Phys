@@ -1,0 +1,10 @@
+{
+  "id": "the-variational-method-and-the-rayleigh-ritz-principle-m1",
+  "conceptId": "the-variational-method-and-the-rayleigh-ritz-principle",
+  "text": {
+    "en": "Believing the variational method's energy estimate can come out either above or below the true ground-state energy depending on how good or bad the trial wavefunction is -- the Rayleigh-Ritz principle guarantees the opposite one-sided behavior for any normalized trial wavefunction whatsoever: the resulting energy expectation value can never fall below the true ground-state energy, only ever equal to or above it, so a poor trial wavefunction gives a worse (higher) energy estimate, never a spuriously low one; this one-sided guarantee is exactly what makes the method reliable, since improving the trial function can only ever push the estimate down toward the true answer, never past it.",
+    "et": "Arvamus, et variatsioonimeetodi energia hinnang võib tulla nii üle kui alla tõelise põhioleku energia, olenevalt sellest, kui hea või halb on proovi-lainefunktsioon -- Rayleigh-Ritzi printsiip garanteerib vastupidise ühesuunalise käitumise iga normeeritud proovi-lainefunktsiooni jaoks üldse: saadud energia keskväärtus ei saa kunagi langeda alla tõelise põhioleku energia, ainult kunagi olla sellega võrdne või sellest kõrgem, seega annab kehv proovi-lainefunktsioon halvema (kõrgema) energiahinnangu, mitte kunagi eksitavalt madala; see ühesuunaline garantii on täpselt see, mis teeb meetodi usaldusväärseks, kuna proovifunktsiooni parandamine saab hinnangut ainult kunagi allapoole tõelise vastuse suunas lükata, mitte sellest mööda.",
+    "sourceHash": "f538ed758c1d7964",
+    "stale": false
+  }
+}

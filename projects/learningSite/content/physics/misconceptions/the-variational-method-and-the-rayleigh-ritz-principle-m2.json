@@ -1,0 +1,10 @@
+{
+  "id": "the-variational-method-and-the-rayleigh-ritz-principle-m2",
+  "conceptId": "the-variational-method-and-the-rayleigh-ritz-principle",
+  "text": {
+    "en": "Believing the variational method requires the same 'small perturbation on a solvable system' assumption that ordinary perturbation theory does -- the variational method makes no such smallness assumption at all; it works for a trial wavefunction of any form and applies even when there is no nearby exactly-solvable system to perturb from, trading perturbation theory's smallness requirement for a completely different requirement instead: that the trial wavefunction's functional form be a physically well-motivated guess at the true ground state's shape, however far the true system may be from any exactly solvable one.",
+    "et": "Arvamus, et variatsioonimeetod nõuab sama 'väikest häiritust lahenduva süsteemi peal' eeldust, mida tavaline häiritusteooria nõuab -- variatsioonimeetod ei tee üldse sellist väiksuse eeldust; see töötab mistahes kujuga proovi-lainefunktsiooni jaoks ja kehtib isegi siis, kui pole olemas lähedast täpselt lahenduvat süsteemi, millest häirituda, vahetades häiritusteooria väiksuse nõude selle asemel täiesti erineva nõude vastu: et proovi-lainefunktsiooni funktsionaalne kuju oleks füüsikaliselt hästi motiveeritud arvamus tõelise põhioleku kuju kohta, ükskõik kui kaugel tõeline süsteem võib olla mistahes täpselt lahenduvast.",
+    "sourceHash": "19b7f5b9917dba4a",
+    "stale": false
+  }
+}
