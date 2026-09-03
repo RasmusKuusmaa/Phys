@@ -1,0 +1,10 @@
+{
+  "id": "globular-clusters-and-stellar-population-synthesis-m2",
+  "conceptId": "globular-clusters-and-stellar-population-synthesis",
+  "text": {
+    "en": "Believing the main-sequence turnoff point on a cluster's Hertzsprung-Russell diagram is just an arbitrary or cosmetic feature of the plot, rather than a direct age indicator -- because more massive main-sequence stars burn through their core hydrogen faster and leave the main sequence sooner, the specific stellar mass at which stars are just now exhausting their core hydrogen (the turnoff mass) moves to progressively lower values as a coeval population ages, so locating the turnoff point precisely on the diagram and comparing it to stellar-evolution models gives a direct, quantitative measurement of how long ago the whole population formed.",
+    "et": "Arvamus, et parve Hertzsprungi-Russelli diagrammi peajada mahalangemispunkt on lihtsalt joonise suvaline või kosmeetiline joon, mitte otsene vanusenäitaja -- kuna massiivsemad peajada tähed põletavad oma tuuma vesiniku kiiremini läbi ja lahkuvad peajadalt varem, liigub konkreetne tähemass, mille juures tähed just praegu oma tuuma vesiniku ammendavad (mahalangemismass), sama vanusega populatsiooni vananedes järjest madalamatele väärtustele, seega annab mahalangemispunkti täpne asukoht diagrammil ja selle võrdlemine tähtede arengu mudelitega otsese, kvantitatiivse mõõtmise selle kohta, kui kaua aega tagasi kogu populatsioon tekkis.",
+    "sourceHash": "7479a5599c291c3c",
+    "stale": false
+  }
+}

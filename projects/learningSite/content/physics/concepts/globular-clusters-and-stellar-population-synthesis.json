@@ -1,0 +1,22 @@
+{
+  "id": "globular-clusters-and-stellar-population-synthesis",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Globular clusters and stellar population synthesis",
+    "et": "Kerasparved ja tähepopulatsioonide sünteesimudelid",
+    "sourceHash": "1b0af644b5afbe8f",
+    "stale": false
+  },
+  "summary": {
+    "en": "A globular cluster is a dense, gravitationally bound ball of up to a million stars that all formed together from the same collapsing cloud at essentially the same time, which means every star in it started with the same age and the same initial chemical composition and differs from its neighbors in only one variable: initial mass, so that plotting a globular cluster's stars on a Hertzsprung-Russell diagram today reveals a precisely dateable fossil record, the main-sequence turnoff point at which stars of progressively lower mass are only just now completing their hydrogen-burning lifetimes, letting astronomers directly read off the cluster's age; the same logic, run in reverse, is what powers stellar population synthesis, the technique of predicting a mixed-age, mixed-mass stellar population's combined light output as a weighted sum over many individual model stars in order to infer the age and star-formation history of galaxies far too distant to resolve into individual stars at all.",
+    "et": "Kerasparv on tihe, gravitatsiooniliselt seotud kuni miljoni tähe kera, mis kõik tekkisid koos samast varisevast pilvest sisuliselt samal ajal, mis tähendab, et iga täht selles alustas sama vanuse ja sama algse keemilise koostisega ning erineb oma naabritest ainult ühe muutuja poolest: algne mass, nii et kerasparve tähtede kandmine tänapäeval Hertzsprungi-Russelli diagrammile paljastab täpselt dateeritava fossiilse jälje, peajada mahalangemispunkti, kus järjest väiksema massiga tähed lõpetavad just praegu oma vesinikupõletamise eluiga, lubades astronoomidel lugeda otse maha parve vanuse; sama loogika, tagurpidi käivitatuna, ongi see, mis toidab tähepopulatsioonide sünteesimudeleid, tehnikat, mis ennustab segatud vanuse ja massiga tähepopulatsiooni kombineeritud valgusväljundi kaalutud summana paljudest üksikutest mudeltähtedest, et järeldada galaktikate, mis on liiga kauged, et üldse üksiktähtedeks lahutada, vanust ja täheteke ajalugu.",
+    "sourceHash": "7e73a75f2b239e6b",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-initial-mass-function-and-stellar-populations",
+    "stellar-classification-and-the-hertzsprung-russell-diagram"
+  ]
+}

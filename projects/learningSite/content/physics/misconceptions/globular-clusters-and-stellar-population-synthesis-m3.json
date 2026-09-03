@@ -1,0 +1,10 @@
+{
+  "id": "globular-clusters-and-stellar-population-synthesis-m3",
+  "conceptId": "globular-clusters-and-stellar-population-synthesis",
+  "text": {
+    "en": "Believing stellar population synthesis requires resolving a distant galaxy's individual stars, and is therefore useless for galaxies too far away to see individual stellar images -- the technique's entire purpose is the opposite: it predicts what the combined, unresolved light of many stars of different ages and masses should look like by summing many individual stellar models weighted by an assumed initial mass function and star-formation history, then compares that predicted combined spectrum against the galaxy's actual observed integrated light, letting astronomers infer age and star-formation history for galaxies that will never be resolved into individual stars at all.",
+    "et": "Arvamus, et tähepopulatsioonide sünteesimudel nõuab kauge galaktika üksiktähtede lahutamist ja on seetõttu kasutu galaktikate jaoks, mis on liiga kauged, et üksiktähtede kujutisi näha -- tehnika kogu eesmärk on vastupidine: see ennustab, milline peaks välja nägema paljude erineva vanuse ja massiga tähtede kombineeritud, lahutamatu valgus, summeerides paljusid üksikuid tähemudeleid, mida kaalub eeldatud algne massijaotusfunktsioon ja täheteke ajalugu, seejärel võrdleb seda ennustatud kombineeritud spektrit galaktika tegeliku vaadeldud integreeritud valgusega, lubades astronoomidel järeldada vanust ja täheteke ajalugu galaktikate jaoks, mida ei lahutata kunagi üksiktähtedeks.",
+    "sourceHash": "d10f92cb1744c930",
+    "stale": false
+  }
+}

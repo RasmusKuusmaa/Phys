@@ -1,0 +1,55 @@
+{
+  "id": "globular-clusters-and-stellar-population-synthesis-item1",
+  "conceptId": "globular-clusters-and-stellar-population-synthesis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the location of the main-sequence turnoff point on a globular cluster's Hertzsprung-Russell diagram let astronomers measure the cluster's age?",
+    "et": "Miks lubab peajada mahalangemispunkti asukoht kerasparve Hertzsprungi-Russelli diagrammil astronoomidel mõõta parve vanust?",
+    "sourceHash": "029a350008558730",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "More massive stars leave the main sequence sooner, so the specific mass just now leaving it drops as a coeval population ages, giving a direct, calculable age indicator.",
+        "et": "Massiivsemad tähed lahkuvad peajadalt varem, seega langeb konkreetne mass, mis sellelt just praegu lahkub, sama vanusega populatsiooni vananedes, andes otsese, arvutatava vanusenäitaja.",
+        "sourceHash": "e81c49160ae35783",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The turnoff point is a fixed feature of every cluster regardless of age, so it cannot actually be used to measure age at all.",
+        "et": "Mahalangemispunkt on iga parve fikseeritud joon, olenemata vanusest, seega ei saa seda tegelikult üldse vanuse mõõtmiseks kasutada.",
+        "sourceHash": "3a60158701fbaf94",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "globular-clusters-and-stellar-population-synthesis-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It works only because the stars in the cluster have a wide range of ages, and the turnoff point marks where the very oldest stars happen to sit.",
+        "et": "See toimib ainult seetõttu, et parve tähtedel on lai vanuste vahemik ja mahalangemispunkt märgib, kus kõige vanemad tähed juhtuvad asuma.",
+        "sourceHash": "d678fae4eb2ff945",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "globular-clusters-and-stellar-population-synthesis-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't actually measure age -- the position instead reflects only the cluster's distance from Earth, which astronomers already know from other methods.",
+        "et": "See ei mõõda tegelikult vanust -- asukoht peegeldab hoopis ainult parve kaugust Maast, mida astronoomid juba muude meetodite kaudu teavad.",
+        "sourceHash": "55042f6e8cdc6263",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}
