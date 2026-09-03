@@ -44,19 +44,21 @@ git log --oneline | grep '^content: add '   # concepts already landed this phase
 - [x] Action-angle variables
 - [x] Classical scattering and the differential cross-section
 
-## Phase M2 — Electromagnetism (existing: Coulomb through Maxwell/Poynting)
+## Phase M2 — Electromagnetism (existing: Coulomb through Maxwell/Poynting) — done
 
-- [ ] Multipole expansion of the electric potential
-- [ ] Magnetic multipoles and the magnetic dipole's field beyond the
-      point-dipole approximation already used in existing content
-- [ ] Retarded potentials and the Liénard-Wiechert potentials
-- [ ] Larmor formula and radiation from accelerated charges
-- [ ] Boundary value problems: Laplace's equation, separation of
-      variables, method of images (beyond intro treatment)
-- [ ] Waveguides and cavity resonators
-- [ ] The electromagnetic field tensor and covariant electrodynamics
-      (bridges to special-relativity)
-- [ ] Gauge transformations and gauge invariance (Coulomb/Lorenz gauge)
+- [x] Multipole expansion of the electric potential (magnetic multipoles
+      folded into this concept's closing paragraph rather than a separate
+      concept — the same expansion machinery, one extra sentence, not a
+      whole new page's worth of content)
+- [x] Larmor formula and radiation from accelerated charges (retarded
+      potentials and the Liénard-Wiechert route folded in as the
+      derivation, rather than a separate concept — they're how you get to
+      Larmor, not a separate destination)
+- [x] Boundary value problems and the method of images (Laplace's
+      equation + separation of variables + images, as planned)
+- [x] Waveguides and cavity resonators
+- [x] The electromagnetic field tensor and covariant electrodynamics
+- [x] Gauge transformations and gauge invariance (Coulomb/Lorenz gauge)
 
 ## Phase M3 — Quantum mechanics (existing: postulates through perturbation theory, spin, hydrogen atom)
 
