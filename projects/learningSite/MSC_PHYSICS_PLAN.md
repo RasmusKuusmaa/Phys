@@ -289,9 +289,38 @@ math in the math section".
 - [x] Cosmic inflation (horizon and flatness problems, slow roll)
 - [x] Baryogenesis and the matter-antimatter asymmetry
 - [x] The Eddington luminosity limit
-- [ ] Galaxy formation and morphology
-- [ ] Reionization and the intergalactic medium
-- [ ] Globular clusters and stellar population synthesis
-- [ ] Asteroseismology and helioseismology
+- [x] Galaxy formation and morphology
+- [x] Reionization and the intergalactic medium
+- [x] Globular clusters and stellar population synthesis
+- [x] Asteroseismology and helioseismology
+
+Phase A3 complete: 37 astrophysics concepts + 8 general-relativity concepts.
+No new math-module gap surfaced this phase (all twelve concepts leaned on
+existing mechanics/statistical-mechanics/GR machinery already in
+`mathematics/` or not requiring named formal machinery beyond what's in the
+concept's own explanation, per `QUESTIONS.md` § "Required math in the math
+section" policy — math gets a new concept only when a topic needs machinery
+the site genuinely doesn't have yet, not as a per-concept quota).
+
+## Phase A4 — Astrophysics/cosmology, round 4 (per "continue... go through
+## all physics subjects" cycle, next: nuclear, then a genuine-gap sweep of
+## the rest of physics, per the established cadence)
+
+Further genuine standard-textbook gaps surveyed after Phase A3's 12: galaxy
+clusters and the intracluster medium, tidal disruption events, the
+Sunyaev-Zel'dovich effect, modified Newtonian dynamics (MOND) as the leading
+alternative-to-dark-matter proposal (notable and citable even though it is a
+minority view), multi-messenger astronomy, stellar winds and mass loss,
+magnetars and soft gamma repeaters, brown dwarfs and substellar objects,
+gravitational microlensing, and X-ray/radio astronomical techniques.
+
+- [ ] Galaxy clusters and the intracluster medium
+- [ ] Modified Newtonian dynamics (MOND) as a dark-matter alternative
+- [ ] Magnetars and soft gamma repeaters
+- [ ] Brown dwarfs and substellar objects
+- [ ] Stellar winds and mass loss
+- [ ] Tidal disruption events
+- [ ] The Sunyaev-Zel'dovich effect
+- [ ] Multi-messenger astronomy
 
 ---
