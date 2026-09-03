@@ -1,0 +1,10 @@
+{
+  "id": "particle-accelerators-and-detectors-m3",
+  "conceptId": "particle-accelerators-and-detectors",
+  "text": {
+    "en": "Believing a single type of detector could, in principle, directly and completely identify everything about every particle produced in a collision -- real detector systems are built as layered combinations of specialized subsystems (tracking detectors for charged-particle trajectories and momentum via curvature in a magnetic field, calorimeters that absorb and measure a particle's total energy, and dedicated muon detectors, among others), each sensitive to different particle properties, because no single detection technology can directly measure every relevant property (charge, momentum, energy, particle identity) at once.",
+    "et": "Arvamus, et üksik detektoritüüp võiks põhimõtteliselt otse ja täielikult tuvastada kõike iga põrkes tekkinud osakese kohta -- tegelikud detektorsüsteemid on ehitatud kihiliste spetsialiseeritud alamsüsteemide kombinatsioonidena (jälgimisdetektorid laetud osakeste trajektoori ja impulsi jaoks kõveruse kaudu magnetväljas, kalorimeetrid, mis neelavad ja mõõdavad osakese kogu energiat, ning spetsiaalsed müüonidetektorid, muude seas), millest igaüks on tundlik erinevate osakeseomaduste suhtes, kuna ükski üksik tuvastustehnoloogia ei suuda otse mõõta kõiki asjakohaseid omadusi (laeng, impulss, energia, osakese identiteet) korraga.",
+    "sourceHash": "314f78507afe1369",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-astrophysics-reaction-rates-the-gamow-peak-m3",
+  "conceptId": "nuclear-astrophysics-reaction-rates-the-gamow-peak",
+  "text": {
+    "en": "Believing the Gamow peak is a fixed, universal energy that's the same for every fusion reaction and every star -- the peak's location and width depend on both the temperature (through the thermal energy distribution) and the specific reacting nuclei's charges (through the Coulomb barrier height, which depends on the product of their atomic numbers), so different reactions (say, proton-proton fusion versus carbon-carbon fusion) and different stellar temperatures produce quite different Gamow peaks, which is exactly why different fusion processes dominate at different stages of a star's life.",
+    "et": "Arvamus, et Gamow' tipp on fikseeritud, universaalne energia, mis on sama iga sünteesireaktsiooni ja iga tähe jaoks -- tipu asukoht ja laius sõltuvad nii temperatuurist (termilise energiajaotuse kaudu) kui konkreetsete reageerivate tuumade laengutest (Coulombi barjääri kõrguse kaudu, mis sõltub nende aatomnumbrite korrutisest), seega toodavad erinevad reaktsioonid (näiteks prooton-prooton süntees versus süsinik-süsinik süntees) ja erinevad tähetemperatuurid üsna erinevaid Gamow' tippe, mis on täpselt põhjus, miks erinevad sünteesiprotsessid domineerivad tähe elu erinevatel etappidel.",
+    "sourceHash": "5ee8f71a4cc3ddd2",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "particle-accelerators-and-detectors-m1",
+  "conceptId": "particle-accelerators-and-detectors",
+  "text": {
+    "en": "Believing all particle accelerators work the same basic way as a simple cyclotron, with a constant magnetic field bending particles in an ever-widening spiral -- a synchrotron instead confines particles to a fixed-radius ring by ramping its bending magnetic field up in step with the particles' rising momentum as they're accelerated, a fundamentally different and necessary design once particle speeds approach light speed and relativistic mass increase makes a simple cyclotron's fixed field unable to keep particles on a bounded path.",
+    "et": "Arvamus, et kõik osakestekiirendid töötavad samal põhimõttel nagu lihtne tsüklotron, kus konstantne magnetväli painutab osakesi üha laieneval spiraalil -- süünkrotron piirab selle asemel osakesed fikseeritud raadiusega rõngale, tõstes oma painutavat magnetvälja sammuga koos osakeste kasvava impulsiga nende kiirendamisel, fundamentaalselt erinev ja vajalik disain, kui osakeste kiirused lähenevad valguse kiirusele ja relativistlik massi kasv muudab lihtsa tsüklotroni fikseeritud välja võimetuks hoida osakesi piiratud rajal.",
+    "sourceHash": "5783ac9f7cbf83f3",
+    "stale": false
+  }
+}

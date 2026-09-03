@@ -1,0 +1,55 @@
+{
+  "id": "particle-accelerators-and-detectors-item1",
+  "conceptId": "particle-accelerators-and-detectors",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do particle colliders (two beams smashed head-on) make more energy available for creating new particles than a fixed-target setup?",
+    "et": "Miks teevad osakestepõrkurid (kaks kimpu otsapõrkes) rohkem energiat kättesaadavaks uute osakeste loomiseks kui fikseeritud sihtmärgiga seadistus?",
+    "sourceHash": "c71c4ae1b2770588",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because with counter-rotating beams the net momentum is near zero, so little energy is absorbed by bulk recoil motion, unlike hitting a heavy stationary target.",
+        "et": "Sest vastassuunas ringlevate kimpudega on netoimpulss nulli lähedal, mistõttu vähe energiat neeldub üldisesse tagasilöögiliikumisse, erinevalt raske paigalseisva sihtmärgi tabamisest.",
+        "sourceHash": "f79a723b8b9b41ea",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because colliders use a completely different, stronger type of magnetic field than fixed-target accelerators.",
+        "et": "Sest põrkurid kasutavad täiesti erinevat, tugevamat tüüpi magnetvälja kui fikseeritud sihtmärgiga kiirendid.",
+        "sourceHash": "6854672238695a4d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "particle-accelerators-and-detectors-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "There's no real difference -- both setups make exactly the same total collision energy available for creating new particles.",
+        "et": "Tegelikku erinevust pole -- mõlemad seadistused teevad täpselt sama koguenergia kättesaadavaks uute osakeste loomiseks.",
+        "sourceHash": "c3e14d5ba67eb84b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "particle-accelerators-and-detectors-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because a single detector type can directly measure the full collision energy without needing layered subsystems.",
+        "et": "Sest üksik detektoritüüp suudab otse mõõta kogu põrkeenergia ilma kihiliste alamsüsteemideta.",
+        "sourceHash": "3024d71b8d390cf0",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

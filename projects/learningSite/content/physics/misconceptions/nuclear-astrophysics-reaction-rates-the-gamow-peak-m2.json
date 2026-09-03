@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-astrophysics-reaction-rates-the-gamow-peak-m2",
+  "conceptId": "nuclear-astrophysics-reaction-rates-the-gamow-peak",
+  "text": {
+    "en": "Believing the reaction rate is simply highest for the most probable (average) particle energy in the thermal distribution, since that's where most particles sit -- the reaction rate actually peaks at the Gamow peak, a specific energy well above the average thermal energy, because the probability of tunneling through the Coulomb barrier rises so steeply with energy that it more than compensates for the rapidly falling number of particles available at that higher energy, shifting the effective reaction energy well above the naive 'typical particle' expectation.",
+    "et": "Arvamus, et reaktsioonikiirus on lihtsalt kõrgeim kõige tõenäolisema (keskmise) osakese energia juures termilises jaotuses, kuna seal asub enamik osakesi -- reaktsioonikiirus saavutab tegelikult maksimumi Gamow' tipu juures, konkreetse energia juures, mis on palju kõrgemal keskmisest termilisest energiast, kuna tõenäosus tunneleeruda läbi Coulombi barjääri kasvab energiaga nii järsult, et see rohkemgi kompenseerib selle energia juures saadaolevate osakeste kiiresti langeva arvu, nihutades efektiivse reaktsioonienergia palju kõrgemale naiivsest 'tüüpilise osakese' ootusest.",
+    "sourceHash": "6215f6328c36d555",
+    "stale": false
+  }
+}

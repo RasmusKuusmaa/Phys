@@ -1,0 +1,22 @@
+{
+  "id": "nuclear-astrophysics-reaction-rates-the-gamow-peak",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Nuclear astrophysics reaction rates and the Gamow peak",
+    "et": "Tuumaastrofüüsika reaktsioonikiirused ja Gamow' tipp",
+    "sourceHash": "9b17f1457b1cd68f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Fusion inside stars happens at temperatures far too low for colliding nuclei to classically overcome their Coulomb repulsion, so essentially every stellar fusion reaction proceeds through quantum tunneling; the reaction rate at any given temperature is set by the Gamow peak, a narrow window of relative energies where the rapidly falling probability of finding a nucleus with enough energy and the rapidly rising quantum tunneling probability multiply together to produce a sharp maximum, and it is this peak's location and width, not the naive classical picture, that actually governs how fast a star burns its fuel.",
+    "et": "Süntees tähtede sees toimub temperatuuridel, mis on põrkuvate tuumade jaoks klassikaliselt liiga madalad, et ületada nende Coulombi tõukejõudu, seega kulgeb sisuliselt iga tähesisene sünteesireaktsioon kvant-tunneleerumise kaudu; reaktsioonikiirus antud temperatuuril on määratud Gamow' tipuga, kitsa suhteliste energiate aknaga, kus kiiresti langev tõenäosus leida piisava energiaga tuum ja kiiresti tõusev kvant-tunneleerumise tõenäosus korrutuvad kokku, tekitades terava maksimumi, ning just selle tipu asukoht ja laius, mitte naiivne klassikaline pilt, määravad tegelikult, kui kiiresti täht oma kütust põletab.",
+    "sourceHash": "3957cc93d0c81a11",
+    "stale": false
+  },
+  "prerequisites": [
+    "stellar-nucleosynthesis-and-fusion-chains",
+    "quantum-tunneling"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "nuclear-astrophysics-reaction-rates-the-gamow-peak-item1",
+  "conceptId": "nuclear-astrophysics-reaction-rates-the-gamow-peak",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does stellar fusion proceed at any appreciable rate at all, given typical stellar core temperatures?",
+    "et": "Miks kulgeb tähesisene süntees üldse märkimisväärse kiirusega, arvestades tüüpilisi tähetuuma temperatuure?",
+    "sourceHash": "0670eb2d4b38721b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because quantum mechanical tunneling allows nuclei to penetrate the Coulomb barrier even though classical kinetic energy alone is far too low to clear it.",
+        "et": "Sest kvantmehaaniline tunneleerumine lubab tuumadel läbistada Coulombi barjääri, kuigi üksnes klassikaline kineetiline energia on selle ületamiseks palju liiga madal.",
+        "sourceHash": "f8d0f50977f9d524",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because stellar core temperatures are actually high enough for particles to classically clear the Coulomb barrier through sheer kinetic energy.",
+        "et": "Sest tähetuuma temperatuurid on tegelikult piisavalt kõrged, et osakesed saaksid pelgalt kineetilise energiaga klassikaliselt Coulombi barjääri ületada.",
+        "sourceHash": "baab08cdfa836707",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-astrophysics-reaction-rates-the-gamow-peak-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the Gamow peak is a fixed, universal energy that's the same for all reactions, making tunneling unnecessary.",
+        "et": "Sest Gamow' tipp on fikseeritud, universaalne energia, mis on sama kõigi reaktsioonide jaoks, muutes tunneleerumise ebavajalikuks.",
+        "sourceHash": "fc7a09614822e7f2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nuclear-astrophysics-reaction-rates-the-gamow-peak-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't proceed at an appreciable rate -- stellar fusion is actually far too slow to power any star's observed luminosity.",
+        "et": "Ei kulgegi märkimisväärse kiirusega -- tähesisene süntees on tegelikult liiga aeglane, et toita ühegi tähe vaadeldud heledust.",
+        "sourceHash": "c969075fc223a6a0",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "particle-accelerators-and-detectors-m2",
+  "conceptId": "particle-accelerators-and-detectors",
+  "text": {
+    "en": "Believing a collider, where two beams smash head-on into each other, provides no real advantage over a fixed-target setup where one beam strikes a stationary target -- in a fixed-target collision, a large fraction of the beam's energy is unavoidably absorbed by the recoil of the (comparatively very heavy) target and the resulting products' overall forward motion, whereas in a head-on collider collision between counter-rotating beams, far more of the total energy is actually available to create new particles, since the net momentum is close to zero and little energy is 'wasted' on bulk recoil motion.",
+    "et": "Arvamus, et põrkur, kus kaks kimpu põrkuvad otse kokku, ei anna tegelikku eelist fikseeritud sihtmärgiga seadistuse ees, kus üks kimp tabab paigalseisvat sihtmärki -- fikseeritud sihtmärgi põrkel neeldub suur osa kimbu energiast paratamatult (võrdlemisi väga raske) sihtmärgi tagasilöögis ja tekkinud produktide üldises edasisuunalises liikumises, samal ajal kui vastassuunas ringlevate kimpude otsapõrkes on palju rohkem koguenergiast tegelikult saadaval uute osakeste loomiseks, kuna netoimpulss on nulli lähedal ja vähe energiat läheb 'raisku' üldisele tagasilöögiliikumisele.",
+    "sourceHash": "e7ea0addeacd1619",
+    "stale": false
+  }
+}

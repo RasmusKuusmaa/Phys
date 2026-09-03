@@ -1,0 +1,10 @@
+{
+  "id": "nuclear-astrophysics-reaction-rates-the-gamow-peak-m1",
+  "conceptId": "nuclear-astrophysics-reaction-rates-the-gamow-peak",
+  "text": {
+    "en": "Believing stellar fusion happens because the star's core is hot enough for colliding nuclei to classically overcome their Coulomb repulsion through sheer kinetic energy -- typical stellar core temperatures correspond to average particle kinetic energies far below the Coulomb barrier height for nuclear fusion; classically, essentially no collisions would have enough energy to fuse, and fusion only proceeds at any appreciable rate because of quantum mechanical tunneling through the barrier, not because particles classically clear it.",
+    "et": "Arvamus, et tähesisene süntees toimub seetõttu, et tähe tuum on piisavalt kuum, et põrkuvad tuumad saaksid klassikaliselt ületada oma Coulombi tõukejõu pelgalt kineetilise energiaga -- tüüpilised tähetuuma temperatuurid vastavad keskmistele osakeste kineetilistele energiatele, mis on palju madalamad kui Coulombi barjääri kõrgus tuumasünteesiks; klassikaliselt ei oleks sisuliselt ühelgi põrkel piisavalt energiat sulamiseks, ning süntees kulgeb märkimisväärse kiirusega ainult kvantmehaanilise tunneleerumise tõttu läbi barjääri, mitte seetõttu, et osakesed selle klassikaliselt ületavad.",
+    "sourceHash": "7e58f9340e28b30a",
+    "stale": false
+  }
+}

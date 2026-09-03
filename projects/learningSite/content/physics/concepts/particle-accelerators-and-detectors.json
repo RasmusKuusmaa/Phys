@@ -1,0 +1,21 @@
+{
+  "id": "particle-accelerators-and-detectors",
+  "subject": "physics",
+  "level": "L4",
+  "module": "nuclear-physics",
+  "title": {
+    "en": "Particle accelerators and detectors",
+    "et": "Osakestekiirendid ja detektorid",
+    "sourceHash": "ebfb8d27542d6745",
+    "stale": false
+  },
+  "summary": {
+    "en": "Accelerating charged particles to extreme energies -- linear accelerators pushing them down a straight line, synchrotrons bending them around a fixed ring with electromagnets that ramp up in step with the particles' rising momentum, and colliders smashing two counter-rotating beams together to make far more collision energy available for creating new particles than a single beam striking a fixed target ever could -- combined with layered detector systems built to identify and reconstruct the trajectory, momentum, energy, and identity of everything that comes out of a collision, is the experimental machinery underlying essentially all of modern particle and nuclear physics.",
+    "et": "Laetud osakeste kiirendamine äärmuslikele energiatele -- lineaarkiirendid, mis lükkavad neid mööda sirgjoont, süünkrotronid, mis painutavad neid ümber fikseeritud rõnga elektromagnetitega, mis tõusevad sammuga koos osakeste kasvava impulsiga, ning põrkurid, mis põrgatavad kaks vastassuunas ringlevat kimpu kokku, et teha kättesaadavaks palju rohkem põrkeenergiat uute osakeste loomiseks, kui üks kimp fikseeritud sihtmärgi pihta kunagi suudaks -- koos kihiliste detektorsüsteemidega, mis on ehitatud tuvastama ja rekonstrueerima kõige trajektoori, impulssi, energiat ja identiteeti, mis põrkest välja tuleb, on eksperimentaalne aparaat, mis on aluseks sisuliselt kogu tänapäeva osakeste- ja tuumafüüsikale.",
+    "sourceHash": "db8f9502fc75d263",
+    "stale": false
+  },
+  "prerequisites": [
+    "charged-particle-motion-mass-spectrometry-and-cyclotrons"
+  ]
+}
