@@ -361,9 +361,20 @@ targets real absent topics, not a per-module quota, same method as Phase X.
 ## Phase X3 — more gap-filling across the rest of physics (continuing the
 ## astro → nuclear → rest-of-physics → nuclear cycle)
 
-- [ ] A genuine gap in quantum mechanics (to be picked)
-- [ ] A genuine gap in solid-state physics (to be picked)
-- [ ] A genuine gap in fluid mechanics (to be picked)
-- [ ] A genuine gap in particle physics (to be picked)
+- [x] A genuine gap in quantum mechanics: the variational method and the
+      Rayleigh-Ritz principle
+- [x] A genuine gap in solid-state physics: magnetism (ferromagnetism and
+      antiferromagnetism, the exchange interaction)
+- [x] A genuine gap in fluid mechanics: the Navier-Stokes equations
+      themselves (the module previously only had bachelor-level special
+      cases — Bernoulli, Poiseuille — never the general governing PDE)
+- [x] A genuine gap in particle physics: the parton model and deep
+      inelastic scattering (the experimental evidence for quarks/gluons,
+      distinct from the existing QCD-confinement concept)
+
+Per the astro → nuclear → rest-of-physics → nuclear cycle, next is another
+nuclear-physics pass (Phase N5), continuing to cycle through the phases
+until genuine gaps run out, then moving to mathematics, chemistry and
+materials-science per the user's explicit ordering.
 
 ---
