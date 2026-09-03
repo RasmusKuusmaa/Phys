@@ -1,0 +1,10 @@
+{
+  "id": "calculus-of-variations-and-the-euler-lagrange-equation-m2",
+  "conceptId": "calculus-of-variations-and-the-euler-lagrange-equation",
+  "text": {
+    "en": "Believing the Euler-Lagrange equation and Newton's laws of motion are two separate, independently derived descriptions of mechanics that merely happen to agree -- the principle of least action derives Newton's equations of motion directly as a specific instance of the Euler-Lagrange equation, obtained by applying the general variational machinery to the specific functional built from a system's kinetic energy minus its potential energy (the action); this is not a coincidental agreement between two independent theories but a single mathematical framework (calculus of variations) producing Newtonian mechanics as one of its many concrete applications, alongside the shortest-path problem and Fermat's principle in optics.",
+    "et": "Arvamus, et Euleri-Lagrange'i võrrand ja Newtoni liikumisseadused on kaks eraldiseisvat, sõltumatult tuletatud mehaanika kirjeldust, mis lihtsalt juhtuvad kokku langema -- vähima toimingu printsiip tuletab Newtoni liikumisvõrrandid otse kui Euleri-Lagrange'i võrrandi konkreetse juhtumi, mis on saadud üldise variatsioonimasinavärgi rakendamisest konkreetsele funktsionaalile, mis on üles ehitatud süsteemi kineetilise energia miinus tema potentsiaalne energia (toiming) põhjal; see ei ole juhuslik kokkulangevus kahe sõltumatu teooria vahel, vaid üks matemaatiline raamistik (variatsioonarvutus), mis toodab Newtoni mehaanika kui ühe oma paljudest konkreetsetest rakendustest, koos lühima tee probleemi ja Fermat' printsiibiga optikas.",
+    "sourceHash": "f0c5d1befcb59ba0",
+    "stale": false
+  }
+}

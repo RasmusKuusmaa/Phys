@@ -1,0 +1,10 @@
+{
+  "id": "calculus-of-variations-and-the-euler-lagrange-equation-m3",
+  "conceptId": "calculus-of-variations-and-the-euler-lagrange-equation",
+  "text": {
+    "en": "Believing the Euler-Lagrange equation is a specialized tool relevant only to advanced theoretical physics, with no connection to more elementary mathematical results -- the exact same equation, applied to the arc-length functional in ordinary flat (Euclidean) space, reduces to the statement that the extremizing curve has zero curvature, recovering the elementary fact that a straight line is the shortest path between two points; this is the same general variational machinery, just applied to the simplest possible functional, showing that even the most basic geometric facts about shortest paths are themselves instances of the same underlying principle used to derive Newton's laws or Fermat's principle.",
+    "et": "Arvamus, et Euleri-Lagrange'i võrrand on spetsialiseeritud vahend, mis on oluline ainult kõrgemale teoreetilisele füüsikale, ilma seoseta elementaarsemate matemaatiliste tulemustega -- täpselt sama võrrand, rakendatuna kaarepikkuse funktsionaalile tavalises lamedas (Eukleidilises) ruumis, taandub väiteks, et ekstremeeriv kõver omab nulli kõverust, taastades elementaarse fakti, et sirge on lühim tee kahe punkti vahel; see on sama üldine variatsioonimasinavärk, lihtsalt rakendatuna kõige lihtsamale võimalikule funktsionaalile, näidates, et isegi kõige elementaarsemad geomeetrilised faktid lühimate teede kohta on ise sama aluseks oleva printsiibi näited, mida kasutatakse Newtoni seaduste või Fermat' printsiibi tuletamiseks.",
+    "sourceHash": "d6e6804f57f9a2be",
+    "stale": false
+  }
+}

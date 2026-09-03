@@ -1,0 +1,21 @@
+{
+  "id": "calculus-of-variations-and-the-euler-lagrange-equation",
+  "subject": "mathematics",
+  "level": "L4",
+  "module": "multivariable-calculus",
+  "title": {
+    "en": "Calculus of variations and the Euler-Lagrange equation",
+    "et": "Variatsioonarvutus ja Euleri-Lagrange'i võrrand",
+    "sourceHash": "e3012fba80c9d06c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Ordinary calculus finds the input value that minimizes or maximizes a function, but the calculus of variations asks a genuinely more ambitious question: given a functional -- a rule that assigns a single number to an entire function or curve, such as its total length or the total value of some integral computed along it -- which specific function or curve makes that functional take its smallest (or largest) possible value, and the answer, derived by the exact same logic ordinary calculus uses (setting a first-order variation to zero at an extremum), is a differential equation the extremizing function must satisfy called the Euler-Lagrange equation, a single unifying result that recovers the straight line as the shortest path between two points in flat space, recovers Fermat's principle of least time in optics, and, when the functional in question is the action integral built from a system's kinetic and potential energy, recovers Newton's equations of motion themselves as the condition for a mechanical system's actual trajectory.",
+    "et": "Tavaline matemaatiline analüüs leiab sisendväärtuse, mis minimeerib või maksimeerib funktsiooni, kuid variatsioonarvutus esitab tõeliselt ambitsioonikama küsimuse: antud funktsionaali korral -- reegel, mis omistab ühe arvu tervele funktsioonile või kõverale, näiteks selle kogupikkuse või mingi piki seda arvutatud integraali koguväärtuse -- milline konkreetne funktsioon või kõver annab sellele funktsionaalile tema väikseima (või suurima) võimaliku väärtuse, ning vastus, mis on tuletatud täpselt sama loogika abil, mida tavaline analüüs kasutab (esimest järku variatsiooni nullimine ekstreemumis), on diferentsiaalvõrrand, mida ekstremeeriv funktsioon peab rahuldama, nimega Euleri-Lagrange'i võrrand, üksik ühendav tulemus, mis taastab sirge kui lühima tee kahe punkti vahel lamedas ruumis, taastab Fermat' vähima aja printsiibi optikas, ning kui kõnealune funktsionaal on toimingu integraal, mis on üles ehitatud süsteemi kineetilise ja potentsiaalse energia põhjal, taastab Newtoni liikumisvõrrandid ise kui tingimuse mehaanilise süsteemi tegeliku trajektoori jaoks.",
+    "sourceHash": "22acb24ccc74cd8c",
+    "stale": false
+  },
+  "prerequisites": [
+    "multivariable-optimization-and-lagrange-multipliers"
+  ]
+}

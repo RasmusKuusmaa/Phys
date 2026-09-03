@@ -1,0 +1,10 @@
+{
+  "id": "calculus-of-variations-and-the-euler-lagrange-equation-m1",
+  "conceptId": "calculus-of-variations-and-the-euler-lagrange-equation",
+  "text": {
+    "en": "Believing the calculus of variations finds the input value that extremizes an ordinary function, the same way ordinary calculus does -- the object being extremized is fundamentally different: rather than searching over numbers for the one that extremizes a function's output, the calculus of variations searches over entire functions (or curves) for the one that extremizes a functional's output, where a functional takes a whole function as its input and returns a single number, such as that function's arc length or an integral computed along it; the unknown being solved for is an entire function, not a single number.",
+    "et": "Arvamus, et variatsioonarvutus leiab sisendväärtuse, mis ekstremeerib tavalist funktsiooni, samamoodi nagu tavaline matemaatiline analüüs -- ekstremeeritav objekt on fundamentaalselt erinev: selle asemel, et otsida arvude hulgast seda, mis ekstremeerib funktsiooni väljundit, otsib variatsioonarvutus tervete funktsioonide (või kõverate) hulgast seda, mis ekstremeerib funktsionaali väljundit, kus funktsionaal võtab sisendiks terve funktsiooni ja tagastab ühe arvu, näiteks selle funktsiooni kaarepikkuse või piki seda arvutatud integraali; lahendatav tundmatu on terve funktsioon, mitte üksik arv.",
+    "sourceHash": "70ba9f394ff0e30a",
+    "stale": false
+  }
+}

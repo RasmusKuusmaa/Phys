@@ -1,0 +1,55 @@
+{
+  "id": "calculus-of-variations-and-the-euler-lagrange-equation-item1",
+  "conceptId": "calculus-of-variations-and-the-euler-lagrange-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Applying the Euler-Lagrange equation to the arc-length functional in ordinary flat space recovers which elementary geometric fact?",
+    "et": "Euleri-Lagrange'i võrrandi rakendamine kaarepikkuse funktsionaalile tavalises lamedas ruumis taastab millise elementaarse geomeetrilise fakti?",
+    "sourceHash": "3d2f1b11b7948611",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That a straight line is the shortest path between two points, since the extremizing curve is required to have zero curvature.",
+        "et": "Et sirge on lühim tee kahe punkti vahel, kuna ekstremeeriv kõver peab omama nulli kõverust.",
+        "sourceHash": "a972559d3f603c43",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That Newton's second law applies only to curves, not to point masses, since the Euler-Lagrange equation is fundamentally a geometric rather than mechanical result.",
+        "et": "Et Newtoni teine seadus kehtib ainult kõverate jaoks, mitte punktmasside jaoks, kuna Euleri-Lagrange'i võrrand on fundamentaalselt geomeetriline, mitte mehaaniline tulemus.",
+        "sourceHash": "8dd5cbe4983d89f0",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing meaningful -- the Euler-Lagrange equation is a specialized physics tool with no connection to elementary geometric facts about shortest paths.",
+        "et": "Miski mõttekas -- Euleri-Lagrange'i võrrand on spetsialiseeritud füüsikavahend, ilma seoseta elementaarsete geomeetriliste faktidega lühimate teede kohta.",
+        "sourceHash": "4edffe9f89101250",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "calculus-of-variations-and-the-euler-lagrange-equation-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That the shortest path between two points depends on which specific numerical input value is chosen, exactly as an ordinary calculus extremum problem would.",
+        "et": "Et lühim tee kahe punkti vahel sõltub sellest, milline konkreetne arvuline sisendväärtus valitakse, täpselt nii nagu tavaline analüüsi ekstreemumiülesanne teeks.",
+        "sourceHash": "342efa3249e92ac6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "calculus-of-variations-and-the-euler-lagrange-equation-m1"
+    }
+  ]
+}
