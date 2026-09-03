@@ -1,0 +1,10 @@
+{
+  "id": "the-tolman-oppenheimer-volkoff-equation-m2",
+  "conceptId": "the-tolman-oppenheimer-volkoff-equation",
+  "text": {
+    "en": "Believing that a sufficiently 'stiff' nuclear equation of state (one where pressure rises very steeply with density) could support a neutron star of arbitrarily large mass, the same way a stiffer material can support more weight in ordinary engineering -- in general relativity, pressure itself sources gravity through the Tolman-Oppenheimer-Volkoff equation, so beyond a certain point, increasing the pressure needed to support more mass actually increases the star's effective gravitational pull rather than only supporting it, producing a genuine maximum mass for any given equation of state, no matter how stiff, rather than an ever-climbing supportable mass.",
+    "et": "Arvamus, et piisavalt 'jäik' tuuma olekuvõrrand (kus rõhk tõuseb tihedusega väga järsult) suudaks toetada suvaliselt suure massiga neutrontähte, samamoodi nagu jäigem materjal suudab tavalises tehnikas toetada rohkem raskust -- üldrelatiivsusteoorias on rõhk ise gravitatsiooni allikaks Tolmani-Oppenheimeri-Volkoffi võrrandi kaudu, seega alates teatud punktist suurendab rohkema massi toetamiseks vajaliku rõhu suurendamine tegelikult tähe efektiivset gravitatsioonilist tõmmet, mitte ei toeta seda ainult, tekitades tõelise maksimummassi mistahes antud olekuvõrrandi jaoks, ükskõik kui jäik see on, mitte pidevalt tõusva toetatava massi.",
+    "sourceHash": "1ed3dc293a1fd401",
+    "stale": false
+  }
+}

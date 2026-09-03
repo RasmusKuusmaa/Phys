@@ -1,0 +1,56 @@
+{
+  "id": "the-chandrasekhar-limit-item1",
+  "conceptId": "the-chandrasekhar-limit",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a white dwarf have a sharp maximum possible mass rather than being able to support any amount of mass by simply shrinking further?",
+    "et": "Miks on valgel kääbusel terav maksimaalne võimalik mass, mitte ei suuda see toetada mistahes kogust massi lihtsalt veel rohkem kahanedes?",
+    "sourceHash": "8775f3e423f6a4b0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because relativistic electron degeneracy pressure grows too slowly with density to keep pace with gravity above a sharp mass threshold, leaving no stable equilibrium at any radius.",
+        "et": "Sest relativistlik elektronide kõdumisrõhk kasvab tihedusega liiga aeglaselt, et pidada sammu gravitatsiooniga üle terava massiläve, jättes ilma stabiilse tasakaaluta mistahes raadiusel.",
+        "sourceHash": "122c5e2cfbb3a262",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because a white dwarf is held up by ongoing nuclear fusion, and fusion simply runs out of fuel once too much mass accumulates.",
+        "et": "Sest valget kääbust hoiab üleval käimasolev tuumasüntees, ja süntees lihtsalt jääb kütusest ilma, kui liiga palju massi koguneb.",
+        "sourceHash": "b5c67eacd9a68c78",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-chandrasekhar-limit-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't actually have a maximum mass -- white dwarfs can shrink indefinitely to support any amount of additional mass.",
+        "et": "Sellel ei ole tegelikult maksimaalset massi -- valged kääbused suudavad piiramatult kahaneda, et toetada mistahes lisamassi kogust.",
+        "sourceHash": "05d323180f38f7fd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-chandrasekhar-limit-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the Chandrasekhar limit is only a rough estimate, not a sharp mathematical transition in the underlying physics.",
+        "et": "Sest Chandrasekhari piir on ainult ligikaudne hinnang, mitte terav matemaatiline üleminek aluseks olevas füüsikas.",
+        "sourceHash": "59339792e58d23b5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-chandrasekhar-limit-m3"
+    }
+  ]
+}

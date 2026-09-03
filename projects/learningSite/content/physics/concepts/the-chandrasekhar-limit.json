@@ -1,0 +1,21 @@
+{
+  "id": "the-chandrasekhar-limit",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "The Chandrasekhar limit",
+    "et": "Chandrasekhari piir",
+    "sourceHash": "9f91cfd84e13e140",
+    "stale": false
+  },
+  "summary": {
+    "en": "A white dwarf is held up against gravitational collapse not by nuclear fusion or thermal pressure but by electron degeneracy pressure, a purely quantum mechanical effect of the Pauli exclusion principle forcing electrons into ever-higher momentum states as they're compressed; because relativistic electrons in a sufficiently massive, compressed white dwarf contribute pressure that grows too slowly with density to keep winning against gravity, there exists a sharp maximum mass -- roughly 1.4 solar masses -- above which no stable white dwarf configuration exists at all, a genuine quantum mechanical limit on how much mass a cold, electron-supported star can carry.",
+    "et": "Valget kääbust hoiab gravitatsioonilise kokkuvarisemise eest üleval mitte tuumasüntees ega termiline rõhk, vaid elektronide kõdumisrõhk, puhtalt kvantmehaaniline Pauli keeluprintsiibi efekt, mis sunnib elektronid kokkusurumisel üha kõrgematele impulsiolekutele; kuna piisavalt massiivses, kokkusurutud valges kääbuses olevate relativistlike elektronide panus rõhku kasvab tihedusega liiga aeglaselt, et jätkuvalt gravitatsiooni võita, eksisteerib terav maksimummass -- umbes 1,4 Päikese massi -- millest ülalpool ei eksisteeri ühtegi stabiilset valge kääbuse konfiguratsiooni, tõeline kvantmehaaniline piirang sellele, kui palju massi külm, elektronidega toetatud täht suudab kanda.",
+    "sourceHash": "576a251b70350d52",
+    "stale": false
+  },
+  "prerequisites": [
+    "stellar-evolution-and-compact-objects"
+  ]
+}

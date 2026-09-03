@@ -1,0 +1,55 @@
+{
+  "id": "the-tolman-oppenheimer-volkoff-equation-item1",
+  "conceptId": "the-tolman-oppenheimer-volkoff-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does general relativity, rather than Newtonian gravity, produce a genuine maximum possible neutron star mass even for an arbitrarily stiff equation of state?",
+    "et": "Miks tekitab üldrelatiivsusteooria, mitte Newtoni gravitatsioon, tõelise maksimaalse võimaliku neutrontähe massi isegi suvaliselt jäiga olekuvõrrandi korral?",
+    "sourceHash": "652f21c442a8ec97",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because pressure itself sources gravity in the Tolman-Oppenheimer-Volkoff equation, so beyond a point, more supporting pressure increases the star's effective gravitational pull rather than only resisting it.",
+        "et": "Sest rõhk ise on gravitatsiooni allikaks Tolmani-Oppenheimeri-Volkoffi võrrandis, seega teatud punktist alates suurendab rohkem toetavat rõhku tähe efektiivset gravitatsioonilist tõmmet, mitte ei vastandu sellele ainult.",
+        "sourceHash": "51d669d06e4760e7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the ordinary Newtonian hydrostatic equilibrium equation already adequately describes neutron stars, so no separate relativistic treatment is actually needed.",
+        "et": "Sest tavaline Newtoni hüdrostaatilise tasakaalu võrrand kirjeldab neutrontähti juba piisavalt, seega ei ole eraldi relativistlikku käsitlust tegelikult vaja.",
+        "sourceHash": "37968ef11c160f63",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-tolman-oppenheimer-volkoff-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because a sufficiently stiff equation of state can always support arbitrarily more mass, exactly as it would in ordinary Newtonian engineering.",
+        "et": "Sest piisavalt jäik olekuvõrrand suudab alati toetada suvaliselt rohkem massi, täpselt nagu see toimuks tavalises Newtoni tehnikas.",
+        "sourceHash": "c68de7f07f85d512",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-tolman-oppenheimer-volkoff-equation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the maximum neutron star mass is a precisely known universal constant, the same for every possible nuclear equation of state.",
+        "et": "Sest maksimaalne neutrontähe mass on täpselt teada olev universaalne konstant, sama iga võimaliku tuuma olekuvõrrandi jaoks.",
+        "sourceHash": "80cf7341c9af4680",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

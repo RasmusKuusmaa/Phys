@@ -1,0 +1,10 @@
+{
+  "id": "the-tolman-oppenheimer-volkoff-equation-m3",
+  "conceptId": "the-tolman-oppenheimer-volkoff-equation",
+  "text": {
+    "en": "Believing the maximum possible neutron star mass is a precisely, universally known single number, the same for every model -- the maximum mass depends on the still-uncertain nuclear equation of state at the extreme densities found in a neutron star's core, which is not precisely known from first principles, so different equation-of-state models predict somewhat different maximum masses (a range rather than a single sharp value), and pinning down the true equation of state, partly using observed neutron star masses and radii, remains an active area of ongoing research.",
+    "et": "Arvamus, et maksimaalne võimalik neutrontähe mass on täpselt, universaalselt teada olev üksik arv, sama iga mudeli jaoks -- maksimaalne mass sõltub veel ebakindlast tuuma olekuvõrrandist äärmuslikel tihedustel, mis leiduvad neutrontähe tuumas, mis ei ole esmastest printsiipidest täpselt teada, seega ennustavad erinevad olekuvõrrandi mudelid mõnevõrra erinevaid maksimummasse (vahemik, mitte üksik terav väärtus), ning tõelise olekuvõrrandi kindlaks tegemine, osaliselt kasutades vaadeldud neutrontähtede masse ja raadiuseid, jääb aktiivseks käimasoleva uurimistöö valdkonnaks.",
+    "sourceHash": "57603969ea690ce4",
+    "stale": false
+  }
+}

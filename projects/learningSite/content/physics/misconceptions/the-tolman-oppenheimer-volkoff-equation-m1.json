@@ -1,0 +1,10 @@
+{
+  "id": "the-tolman-oppenheimer-volkoff-equation-m1",
+  "conceptId": "the-tolman-oppenheimer-volkoff-equation",
+  "text": {
+    "en": "Believing a neutron star's internal structure can be adequately modeled with the same Newtonian hydrostatic equilibrium equation used for ordinary stars -- a neutron star's gravitational binding energy is a significant fraction of its total rest-mass energy, and general relativity is required because pressure itself contributes to the source of gravity in a way Newtonian gravity simply does not capture, producing quantitatively and qualitatively different equilibrium structures, especially near the maximum possible mass, than the Newtonian equation would predict.",
+    "et": "Arvamus, et neutrontähe sisemist struktuuri saab piisavalt modelleerida sama Newtoni hüdrostaatilise tasakaalu võrrandiga, mida kasutatakse tavaliste tähtede jaoks -- neutrontähe gravitatsiooniline seoseenergia moodustab olulise osa selle kogu seisumassi energiast, ning üldrelatiivsusteooria on vajalik, kuna rõhk ise annab panuse gravitatsiooni allikasse viisil, mida Newtoni gravitatsioon lihtsalt ei taba, tekitades kvantitatiivselt ja kvalitatiivselt erinevaid tasakaalustruktuure, eriti maksimaalse võimaliku massi lähedal, kui Newtoni võrrand ennustaks.",
+    "sourceHash": "e723af0ef2a86b79",
+    "stale": false
+  }
+}

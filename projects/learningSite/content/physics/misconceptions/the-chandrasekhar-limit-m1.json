@@ -1,0 +1,10 @@
+{
+  "id": "the-chandrasekhar-limit-m1",
+  "conceptId": "the-chandrasekhar-limit",
+  "text": {
+    "en": "Believing a white dwarf is held up against gravitational collapse by ongoing nuclear fusion, the same way a normal star is -- a white dwarf has exhausted its nuclear fuel and generates no fusion energy at all; it is supported entirely by electron degeneracy pressure, a purely quantum mechanical effect (the Pauli exclusion principle preventing electrons from occupying the same quantum state) that exists even at zero temperature and requires no ongoing energy generation to persist.",
+    "et": "Arvamus, et valget kääbust hoiab gravitatsioonilise kokkuvarisemise eest üleval käimasolev tuumasüntees, samamoodi nagu tavalist tähte -- valge kääbus on ammendanud oma tuumakütuse ega tooda üldse sünteesienergiat; seda toetab täielikult elektronide kõdumisrõhk, puhtalt kvantmehaaniline efekt (Pauli keeluprintsiip, mis takistab elektronidel sama kvantoleku hõivamist), mis eksisteerib isegi nulltemperatuuril ega vaja püsimiseks käimasolevat energiatootmist.",
+    "sourceHash": "e6e040c3b014d22c",
+    "stale": false
+  }
+}

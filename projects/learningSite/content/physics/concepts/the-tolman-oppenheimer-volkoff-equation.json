@@ -1,0 +1,22 @@
+{
+  "id": "the-tolman-oppenheimer-volkoff-equation",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "The Tolman-Oppenheimer-Volkoff equation",
+    "et": "Tolmani-Oppenheimeri-Volkoffi võrrand",
+    "sourceHash": "22492f8f80a1e29f",
+    "stale": false
+  },
+  "summary": {
+    "en": "For an object as extreme as a neutron star, the ordinary Newtonian hydrostatic equilibrium equation used to model normal stars is no longer good enough, since the star's own gravitational binding energy and pressure both contribute non-negligibly to the source of gravity itself, a genuinely general-relativistic effect; the Tolman-Oppenheimer-Volkoff equation replaces the Newtonian relation with its full general-relativistic counterpart derived from the Einstein field equations for a spherically symmetric star, and pressure sourcing gravity more strongly than in Newtonian theory is exactly what produces a maximum possible neutron star mass, beyond which no stable configuration exists no matter how stiff the nuclear equation of state.",
+    "et": "Nii äärmusliku objekti jaoks nagu neutrontäht ei ole tavaline Newtoni hüdrostaatilise tasakaalu võrrand, mida kasutatakse tavaliste tähtede modelleerimiseks, enam piisav, kuna tähe enda gravitatsiooniline seoseenergia ja rõhk annavad mõlemad mitte-tühise panuse gravitatsiooni allikasse endasse, tõeliselt üldrelatiivistlik efekt; Tolmani-Oppenheimeri-Volkoffi võrrand asendab Newtoni seose selle täieliku üldrelatiivistliku vastega, mis on tuletatud Einsteini väljavõrranditest sfääriliselt sümmeetrilise tähe jaoks, ning rõhk, mis on gravitatsiooni allikaks tugevamalt kui Newtoni teoorias, on täpselt see, mis tekitab maksimaalse võimaliku neutrontähe massi, millest ülalpool ei eksisteeri stabiilset konfiguratsiooni, ükskõik kui jäik tuuma olekuvõrrand on.",
+    "sourceHash": "5924126b454e3f6f",
+    "stale": false
+  },
+  "prerequisites": [
+    "neutron-star-structure-and-equation-of-state",
+    "the-einstein-field-equations"
+  ]
+}

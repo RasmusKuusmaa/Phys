@@ -1,0 +1,10 @@
+{
+  "id": "the-chandrasekhar-limit-m3",
+  "conceptId": "the-chandrasekhar-limit",
+  "text": {
+    "en": "Believing the Chandrasekhar limit is a rough, order-of-magnitude estimate rather than a sharp, mathematically derived threshold -- the limit follows from a genuine, sharp mathematical transition: below it, relativistic electron degeneracy pressure can always find a stable equilibrium radius balancing gravity for a given mass, while above it, no such equilibrium exists at any radius at all, a qualitative change in the physics (not merely a quantitative approximation) that is exactly why a white dwarf approaching this mass, for instance by accreting matter from a companion star, is driven to catastrophic collapse or a thermonuclear explosion (a Type Ia supernova) rather than simply continuing to shrink stably.",
+    "et": "Arvamus, et Chandrasekhari piir on ligikaudne, suurusjärgu hinnang, mitte terav, matemaatiliselt tuletatud lävi -- piir tuleneb tõelisest, teravast matemaatilisest üleminekust: sellest allpool suudab relativistlik elektronide kõdumisrõhk antud massi jaoks alati leida stabiilse tasakaaluraadiuse, mis tasakaalustab gravitatsiooni, samal ajal kui sellest ülalpool ei eksisteeri sellist tasakaalu üldse mitte üheski raadiuses, kvalitatiivne muutus füüsikas (mitte lihtsalt kvantitatiivne lähendus), mis on täpselt põhjus, miks sellele massile lähenev valge kääbus, näiteks kaaslasetährelt ainet akreteerides, on sunnitud katastroofilisse kokkuvarisemisse või termotuuma plahvatusse (Ia tüüpi supernoova), mitte lihtsalt jätkuvalt stabiilselt kahanema.",
+    "sourceHash": "286a086ee28a2ea7",
+    "stale": false
+  }
+}

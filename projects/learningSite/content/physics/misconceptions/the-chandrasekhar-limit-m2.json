@@ -1,0 +1,10 @@
+{
+  "id": "the-chandrasekhar-limit-m2",
+  "conceptId": "the-chandrasekhar-limit",
+  "text": {
+    "en": "Believing a white dwarf can support any amount of mass, just becoming smaller and denser without limit as more mass is added -- as a white dwarf's mass increases, its electrons are forced to higher momenta and become relativistic, and relativistic degeneracy pressure grows too slowly with increasing density to keep pace with gravity's pull, producing a sharp maximum mass (the Chandrasekhar limit, roughly 1.4 solar masses) above which no stable, electron-degeneracy-supported configuration exists at all, regardless of how much further the star is compressed.",
+    "et": "Arvamus, et valge kääbus suudab toetada mistahes kogust massi, muutudes lihtsalt väiksemaks ja tihedamaks piiramatult, kui massi juurde lisatakse -- valge kääbuse massi kasvades sunnitakse selle elektronid kõrgematele impulssidele ja muutuvad relativistlikuks, ning relativistlik kõdumisrõhk kasvab tiheduse kasvades liiga aeglaselt, et pidada sammu gravitatsiooni tõmbega, tekitades terava maksimummassi (Chandrasekhari piir, umbes 1,4 Päikese massi), millest ülalpool ei eksisteeri ühtegi stabiilset, elektronide kõdumisrõhu toel püsivat konfiguratsiooni, ükskõik kui palju tähte edasi kokku suruda.",
+    "sourceHash": "e66ba592f5b4d81d",
+    "stale": false
+  }
+}
