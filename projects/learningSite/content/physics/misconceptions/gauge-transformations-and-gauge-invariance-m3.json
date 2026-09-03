@@ -1,0 +1,10 @@
+{
+  "id": "gauge-transformations-and-gauge-invariance-m3",
+  "conceptId": "gauge-transformations-and-gauge-invariance",
+  "text": {
+    "en": "Believing a gauge transformation changes the physical electric and magnetic fields, even if only slightly — by construction, a gauge transformation leaves E and B exactly, not approximately, unchanged; that invariance is the entire definition of what makes a transformation a gauge transformation.",
+    "et": "Arvamus, et kalibratsiooniteisendus muudab füüsikalisi elektri- ja magnetvälju, kas või vähesel määral — konstruktsiooni järgi jätab kalibratsiooniteisendus E ja B täpselt, mitte ligikaudselt, muutumatuks; see invariantsus ongi kogu definitsioon sellest, mis teeb teisendusest kalibratsiooniteisenduse.",
+    "sourceHash": "d672129e27994e3d",
+    "stale": false
+  }
+}

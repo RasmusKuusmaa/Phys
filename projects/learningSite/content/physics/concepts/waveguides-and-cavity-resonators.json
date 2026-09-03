@@ -1,0 +1,22 @@
+{
+  "id": "waveguides-and-cavity-resonators",
+  "subject": "physics",
+  "level": "L4",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Waveguides and cavity resonators",
+    "et": "Lainejuhid ja õõnesresonaatorid",
+    "sourceHash": "7d1d558d826e8cb2",
+    "stale": false
+  },
+  "summary": {
+    "en": "Confining an electromagnetic wave inside a hollow conducting pipe (a waveguide) or a closed conducting cavity forces Maxwell's equations, together with the boundary condition that the conductor's surface carries no tangential electric field, to admit only a discrete set of allowed transverse field patterns (modes), each with its own cutoff frequency below which that mode simply cannot propagate at all.",
+    "et": "Elektromagnetlaine piiramine õõnsa juhtiva toru (lainejuhi) sisse või suletud juhtivasse õõnsusse sunnib Maxwelli võrrandeid, koos rajatingimusega, et juhi pinnal ei ole tangentsiaalset elektrivälja, lubama ainult diskreetset hulka ristsuunalisi väljamustreid (moode), millest igaühel on oma lõikesagedus, millest allpool see mood ei saa üldse levida.",
+    "sourceHash": "fbfa4482d2ee4fdb",
+    "stale": false
+  },
+  "prerequisites": [
+    "electromagnetic-waves",
+    "maxwells-equations"
+  ]
+}

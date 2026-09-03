@@ -1,0 +1,10 @@
+{
+  "id": "the-electromagnetic-field-tensor-and-covariant-electrodynamics-m3",
+  "conceptId": "the-electromagnetic-field-tensor-and-covariant-electrodynamics",
+  "text": {
+    "en": "Believing the covariant, tensor form of Maxwell's equations is just a more compact notation with no real physical content beyond the original four vector equations — writing them covariantly makes Lorentz invariance a manifest, automatic property of the equations, rather than something that has to be separately verified to hold in every frame.",
+    "et": "Arvamus, et Maxwelli võrrandite kovariantne, tensorkuju on lihtsalt kompaktsem tähistus ilma tegeliku füüsikalise sisuta kaugemale algsest neljast vektorvõrrandist — nende kovariantne kirjapanek muudab Lorentzi invariantsuse võrrandite ilmseks, automaatseks omaduseks, mitte millekski, mida peab eraldi kontrollima igas taustsüsteemis kehtivat.",
+    "sourceHash": "66e5fd677bb03cbb",
+    "stale": false
+  }
+}

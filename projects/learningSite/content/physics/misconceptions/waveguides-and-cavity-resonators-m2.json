@@ -1,0 +1,10 @@
+{
+  "id": "waveguides-and-cavity-resonators-m2",
+  "conceptId": "waveguides-and-cavity-resonators",
+  "text": {
+    "en": "Believing a waveguide mode's phase velocity exceeding the speed of light violates special relativity — phase velocity is not the speed at which any signal or energy actually travels; the group velocity, which does carry information, always stays at or below c.",
+    "et": "Arvamus, et lainejuhi moodi faasikiirus, mis ületab valguse kiirust, rikub erirelatiivsusteooriat — faasikiirus ei ole kiirus, millega mistahes signaal või energia tegelikult liigub; rühmakiirus, mis infot kannab, jääb alati c-le või allapoole seda.",
+    "sourceHash": "c03a8a674a734726",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "waveguides-and-cavity-resonators-item1",
+  "conceptId": "waveguides-and-cavity-resonators",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An electromagnetic wave with a frequency below a waveguide mode's cutoff frequency is sent into that waveguide. What happens?",
+    "et": "Lainejuhti saadetakse elektromagnetlaine, mille sagedus on allpool selle moodi lõikesagedust. Mis juhtub?",
+    "sourceHash": "bb6bd1602acd90e3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That mode cannot propagate; the field decays exponentially with distance into the guide instead of oscillating.",
+        "et": "See mood ei saa levida; väli kahaneb juhti sisenedes eksponentsiaalselt kaugusega, mitte ei võngu.",
+        "sourceHash": "1c6d67172de01e8f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It propagates normally, just like any plane wave would in free space, since Maxwell's equations place no restriction on frequency.",
+        "et": "See levib normaalselt, täpselt nagu tasalaine vabas ruumis, kuna Maxwelli võrrandid ei sea sagedusele mingit piirangut.",
+        "sourceHash": "44ffddd0fb3b2fb0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "waveguides-and-cavity-resonators-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It propagates, but only by exceeding the speed of light, which is forbidden, so the wave is reflected entirely back out.",
+        "et": "See levib, kuid ainult valguse kiirust ületades, mis on keelatud, nii et laine peegeldub täielikult tagasi välja.",
+        "sourceHash": "8cb9dc9e9edc61a0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "waveguides-and-cavity-resonators-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It propagates or not depending on how much power is fed into the source, regardless of the frequency.",
+        "et": "See levib või mitte olenevalt sellest, kui palju võimsust allikasse antakse, olenemata sagedusest.",
+        "sourceHash": "bff80ca32d2f8c1b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "waveguides-and-cavity-resonators-m3"
+    }
+  ]
+}

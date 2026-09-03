@@ -1,0 +1,10 @@
+{
+  "id": "the-electromagnetic-field-tensor-and-covariant-electrodynamics-m2",
+  "conceptId": "the-electromagnetic-field-tensor-and-covariant-electrodynamics",
+  "text": {
+    "en": "Believing that if one observer measures a pure electric field with no magnetic field at all, every observer must measure the same thing — a different, moving observer generally measures a nonzero magnetic field too, related to the first observer's electric field by the field tensor's Lorentz transformation.",
+    "et": "Arvamus, et kui üks vaatleja mõõdab puhast elektrivälja ilma igasuguse magnetväljata, peab iga vaatleja mõõtma sama asja — teine, liikuv vaatleja mõõdab üldiselt ka nullist erineva magnetvälja, seotud esimese vaatleja elektriväljaga väljatensori Lorentzi teisenduse kaudu.",
+    "sourceHash": "a85d0485a2ec3846",
+    "stale": false
+  }
+}

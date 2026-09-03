@@ -1,0 +1,22 @@
+{
+  "id": "gauge-transformations-and-gauge-invariance",
+  "subject": "physics",
+  "level": "L4",
+  "module": "electromagnetism",
+  "title": {
+    "en": "Gauge transformations and gauge invariance",
+    "et": "Kalibratsiooniteisendused ja kalibratsiooniinvariantsus",
+    "sourceHash": "12f92383ee431f52",
+    "stale": false
+  },
+  "summary": {
+    "en": "The scalar and vector potentials that generate the electric and magnetic fields are not unique — infinitely many different potential choices, related by a gauge transformation, produce exactly the same physical E and B fields, since only certain combinations of derivatives of the potentials are physically measurable. Choosing a specific gauge (commonly the Coulomb gauge or the Lorenz gauge) is a mathematical convenience that simplifies a particular calculation, never a statement about which potential is 'really' correct.",
+    "et": "Skalaar- ja vektorpotentsiaal, mis tekitavad elektri- ja magnetvälja, ei ole üheselt määratud — lõpmata palju erinevaid potentsiaalivalikuid, seotud kalibratsiooniteisendusega, annavad täpselt sama füüsikalise E ja B välja, kuna füüsikaliselt mõõdetavad on ainult kindlad potentsiaalide tuletiste kombinatsioonid. Konkreetse kalibratsiooni (tavaliselt Coulombi või Lorenzi kalibratsiooni) valimine on matemaatiline mugavus, mis lihtsustab kindlat arvutust, mitte väide selle kohta, milline potentsiaal on 'tegelikult' õige.",
+    "sourceHash": "bffb08e82bd865ab",
+    "stale": false
+  },
+  "prerequisites": [
+    "maxwells-equations",
+    "electric-potential-and-potential-energy"
+  ]
+}

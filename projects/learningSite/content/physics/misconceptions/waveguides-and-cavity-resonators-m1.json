@@ -1,0 +1,10 @@
+{
+  "id": "waveguides-and-cavity-resonators-m1",
+  "conceptId": "waveguides-and-cavity-resonators",
+  "text": {
+    "en": "Believing a waveguide can carry an electromagnetic wave of any frequency, the same way an open plane wave can — below each mode's cutoff frequency, that mode simply cannot propagate at all; it decays away exponentially instead.",
+    "et": "Arvamus, et lainejuht suudab kanda mistahes sagedusega elektromagnetlainet, samamoodi nagu avatud tasalaine — allpool iga moodi lõikesagedust ei saa see mood üldse levida; selle asemel kahaneb see eksponentsiaalselt.",
+    "sourceHash": "eff2087bc35cadf1",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "gauge-transformations-and-gauge-invariance-m2",
+  "conceptId": "gauge-transformations-and-gauge-invariance",
+  "text": {
+    "en": "Believing one particular gauge choice (say, the Coulomb gauge) is the physically 'correct' one and other gauges are approximations or tricks — every valid gauge, used correctly, predicts exactly the same physical E and B fields; the choice is purely about which calculation is easiest, not about physical correctness.",
+    "et": "Arvamus, et üks konkreetne kalibratsioonivalik (näiteks Coulombi kalibratsioon) on füüsikaliselt 'õige' ja teised kalibratsioonid on lähendused või nipid — iga kehtiv, korrektselt kasutatud kalibratsioon ennustab täpselt sama füüsikalise E ja B välja; valik on puhtalt selles, milline arvutus on lihtsam, mitte füüsikalises õigsuses.",
+    "sourceHash": "0b0b087296653773",
+    "stale": false
+  }
+}

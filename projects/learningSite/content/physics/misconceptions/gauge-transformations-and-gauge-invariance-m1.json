@@ -1,0 +1,10 @@
+{
+  "id": "gauge-transformations-and-gauge-invariance-m1",
+  "conceptId": "gauge-transformations-and-gauge-invariance",
+  "text": {
+    "en": "Believing the scalar and vector potentials V and A are themselves directly physically measurable quantities — only the electric and magnetic fields (and, more subtly, certain gauge-invariant combinations like the Aharonov-Bohm phase) are physically measurable; V and A individually depend on an arbitrary gauge choice.",
+    "et": "Arvamus, et skalaar- ja vektorpotentsiaal V ja A on ise otseselt füüsikaliselt mõõdetavad suurused — ainult elektri- ja magnetväli (ja, peenemalt, teatud kalibratsiooniinvariantsed kombinatsioonid nagu Aharonovi-Bohmi faas) on füüsikaliselt mõõdetavad; V ja A eraldi sõltuvad suvalisest kalibratsioonivalikust.",
+    "sourceHash": "9fa1111def1088ba",
+    "stale": false
+  }
+}

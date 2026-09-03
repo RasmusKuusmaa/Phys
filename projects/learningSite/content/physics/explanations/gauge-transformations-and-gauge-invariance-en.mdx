@@ -1,0 +1,24 @@
+The electric field E and magnetic field B are defined in terms of a scalar potential V and a
+vector potential A, but that definition involves only certain derivative combinations of V
+and A — specifically, B = curl(A) and E = -grad(V) - dA/dt. Because the curl of a gradient
+is always zero, adding the gradient of any scalar function to A, while simultaneously
+shifting V by the negative time derivative of that same function, leaves both E and B
+completely unchanged. This freedom is a gauge transformation, and it means V and A are never
+uniquely determined by the physical fields alone.
+
+Since E and B are the only quantities that are directly measurable (they're what a test
+charge actually feels, via the Lorentz force law), any two sets of potentials related by a
+gauge transformation describe exactly the same physics — asking "which one is the real
+potential" has no physical answer, the same way asking which of two equally valid
+coordinate systems is the "real" one has none. This is gauge invariance: physical
+predictions can never depend on which gauge is chosen, only the mathematical convenience of
+the calculation can.
+
+Choosing a specific gauge is purely a calculational convenience. The Coulomb gauge (div A =
+0) is convenient for problems without radiation, since it makes the scalar potential obey
+the same equation as ordinary electrostatics; the Lorenz gauge (a specific combination of
+div A and the time derivative of V) is convenient for radiation and relativistic problems,
+since it makes both potentials individually satisfy the same simple wave equation, sourced
+by charge and current respectively, and makes the four-potential's covariant nature
+manifest. Different gauges make different calculations easier, but every gauge, correctly
+used, must predict the exact same E and B in the end.

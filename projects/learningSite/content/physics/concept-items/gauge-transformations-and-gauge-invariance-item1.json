@@ -1,0 +1,56 @@
+{
+  "id": "gauge-transformations-and-gauge-invariance-item1",
+  "conceptId": "gauge-transformations-and-gauge-invariance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two physicists use different, gauge-related choices of scalar and vector potential to solve the same electromagnetic problem. What should be true of their final results?",
+    "et": "Kaks füüsikut kasutavad sama elektromagnetilise ülesande lahendamiseks erinevaid, kalibratsiooniga seotud skalaar- ja vektorpotentsiaali valikuid. Mis peaks olema tõsi nende lõpptulemuste kohta?",
+    "sourceHash": "7b5b8cc93686f7d9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Their computed electric and magnetic fields must come out exactly identical, even though the intermediate potentials V and A they used differ.",
+        "et": "Nende arvutatud elektri- ja magnetväljad peavad tulema täpselt identsed, kuigi vahepealsed potentsiaalid V ja A, mida nad kasutasid, erinevad.",
+        "sourceHash": "a2e210c1a325387d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Their computed potentials V and A themselves must come out identical, since these are the actual physically measurable quantities.",
+        "et": "Nende arvutatud potentsiaalid V ja A ise peavad tulema identsed, kuna need on tegelikud füüsikaliselt mõõdetavad suurused.",
+        "sourceHash": "7e7dc0b61d28bcfe",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gauge-transformations-and-gauge-invariance-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "One of them used the physically correct gauge and got the true answer; the other used an approximation and got a slightly wrong field.",
+        "et": "Üks neist kasutas füüsikaliselt õiget kalibratsiooni ja sai tõelise vastuse; teine kasutas lähendust ja sai veidi vale välja.",
+        "sourceHash": "b9b89ed7ebe2733a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gauge-transformations-and-gauge-invariance-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Their fields should differ slightly, by an amount that depends on exactly which gauge each of them chose.",
+        "et": "Nende väljad peaksid veidi erinema, hulga võrra, mis sõltub täpselt sellest, millise kalibratsiooni kumbki valis.",
+        "sourceHash": "3deb05ea9eef0ba8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gauge-transformations-and-gauge-invariance-m3"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "the-electromagnetic-field-tensor-and-covariant-electrodynamics-item1",
+  "conceptId": "the-electromagnetic-field-tensor-and-covariant-electrodynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A charge sits at rest in frame S, producing a pure electric field with no magnetic field there. What does an observer in frame S', moving at constant velocity relative to S, measure?",
+    "et": "Laeng seisab paigal taustsüsteemis S, tekitades seal puhta elektrivälja ilma magnetväljata. Mida mõõdab vaatleja taustsüsteemis S', mis liigub S suhtes konstantse kiirusega?",
+    "sourceHash": "8d9148e29f540c76",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Generally both a nonzero electric field and a nonzero magnetic field, related to S's pure electric field by the Lorentz transformation of the field tensor.",
+        "et": "Üldiselt nii nullist erineva elektrivälja kui nullist erineva magnetvälja, seotud S puhta elektriväljaga väljatensori Lorentzi teisenduse kaudu.",
+        "sourceHash": "e7c79b7d8c4b8034",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The same pure electric field with no magnetic field, since electric and magnetic fields are separate things and only one of them was present to begin with.",
+        "et": "Sama puhta elektrivälja ilma magnetväljata, kuna elektri- ja magnetväljad on eraldi asjad ja ainult üks neist oli algul kohal.",
+        "sourceHash": "24f5eda99a0e394f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-electromagnetic-field-tensor-and-covariant-electrodynamics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Exactly the same field values as in S, since every observer must agree on what field a given charge produces.",
+        "et": "Täpselt samad väljaväärtused mis S-is, kuna iga vaatleja peab olema nõus, millist välja antud laeng tekitab.",
+        "sourceHash": "e728f3509bfc64e8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-electromagnetic-field-tensor-and-covariant-electrodynamics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The same physical prediction, but this can only be seen by working through the original four vector equations separately in each frame — the tensor form adds no new information about what's actually measured.",
+        "et": "Sama füüsikaline ennustus, kuid seda näeb ainult algsete nelja vektorvõrrandi läbitöötamisel eraldi igas taustsüsteemis — tensorkuju ei lisa mingit uut infot selle kohta, mida tegelikult mõõdetakse.",
+        "sourceHash": "ba18b279ca7991a8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-electromagnetic-field-tensor-and-covariant-electrodynamics-m3"
+    }
+  ]
+}

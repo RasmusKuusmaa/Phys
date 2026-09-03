@@ -1,0 +1,23 @@
+{
+  "id": "the-electromagnetic-field-tensor-and-covariant-electrodynamics",
+  "subject": "physics",
+  "level": "L4",
+  "module": "electromagnetism",
+  "title": {
+    "en": "The electromagnetic field tensor and covariant electrodynamics",
+    "et": "Elektromagnetväljatensor ja kovariantne elektrodünaamika",
+    "sourceHash": "d12c847298b46080",
+    "stale": false
+  },
+  "summary": {
+    "en": "Packaging the electric and magnetic fields into a single antisymmetric rank-2 tensor, the field-strength tensor F, rewrites all four of Maxwell's equations as just two tensor equations that are manifestly the same in every inertial frame — making explicit that electricity and magnetism were never two separate forces, only one electromagnetic field split differently by observers in relative motion.",
+    "et": "Elektri- ja magnetvälja koondamine üheks antisümmeetriliseks teist järku tensoriks, väljatugevustensoriks F, kirjutab kõik neli Maxwelli võrrandit ümber vaid kaheks tensorvõrrandiks, mis on ilmselgelt samad igas inertsiaalses taustsüsteemis — muutes selgeks, et elekter ja magnetism polnud kunagi kaks eraldi jõudu, vaid üks elektromagnetväli, mida omavahel liikuvad vaatlejad erinevalt jaotavad.",
+    "sourceHash": "ae784af8ff59cde2",
+    "stale": false
+  },
+  "prerequisites": [
+    "maxwells-equations",
+    "lorentz-transformations",
+    "spacetime-and-four-vectors"
+  ]
+}

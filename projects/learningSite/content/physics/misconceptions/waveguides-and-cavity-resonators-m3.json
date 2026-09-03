@@ -1,0 +1,10 @@
+{
+  "id": "waveguides-and-cavity-resonators-m3",
+  "conceptId": "waveguides-and-cavity-resonators",
+  "text": {
+    "en": "Believing a cavity resonator can be tuned to resonate at essentially any frequency simply by adjusting the power fed into it — the resonant frequencies are set by the cavity's physical dimensions and shape, exactly as a guitar string's pitch is set by its length, not by how hard it's plucked.",
+    "et": "Arvamus, et õõnesresonaatorit saab häälestada resonantsi peaaegu mistahes sagedusel lihtsalt sellesse antavat võimsust reguleerides — resonantssagedused on määratud õõnsuse füüsikaliste mõõtmete ja kujuga, täpselt nagu kitarrikeele helikõrguse määrab selle pikkus, mitte see, kui tugevasti seda näpitakse.",
+    "sourceHash": "8810f9250d2083bc",
+    "stale": false
+  }
+}
