@@ -140,8 +140,8 @@ structure, hubbles-law, general-relativity-and-cosmological-models.
       Phase M7's GR module)
 - [ ] Galactic dynamics and rotation curves (beyond the existing dark-matter
       concept's overview level)
-- [ ] The cosmic microwave background and recombination
-- [ ] Big Bang nucleosynthesis
+- [x] The cosmic microwave background and recombination
+- [x] Big Bang nucleosynthesis
 - [ ] Cosmological perturbation theory and structure formation (conceptual)
 - [ ] Gravitational lensing
 
