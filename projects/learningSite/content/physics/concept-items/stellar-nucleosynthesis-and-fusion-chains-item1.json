@@ -1,0 +1,56 @@
+{
+  "id": "stellar-nucleosynthesis-and-fusion-chains-item1",
+  "conceptId": "stellar-nucleosynthesis-and-fusion-chains",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does stellar fusion stop producing energy once a star's core has built up mostly iron, rather than continuing to fuse iron into heavier elements?",
+    "et": "Miks lõpetab tähesisene sulamine energia tootmise, kui tähe tuum on ehitanud peamiselt rauda, selle asemel et jätkata raua sulatamist raskemateks elementideks?",
+    "sourceHash": "680206664184d0d9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Iron sits at the peak of nuclear binding energy per nucleon, so fusing it further would consume energy rather than release it.",
+        "et": "Raud asub nukleoni kohta arvutatud tuuma seoseenergia tipus, nii et selle edasine sulatamine tarbiks energiat, mitte ei vabastaks seda.",
+        "sourceHash": "47875517a61f9f07",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because all stars, regardless of mass, run out of the specific reaction pathway needed at exactly the same point, which happens to be iron.",
+        "et": "Kuna kõik tähed, olenemata massist, jäävad täpselt samas punktis ilma konkreetsest vajalikust reaktsiooniraja st, mis juhtub olema raud.",
+        "sourceHash": "c3242b084fcd6684",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-nucleosynthesis-and-fusion-chains-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The triple-alpha-like resonance needed for iron fusion simply hasn't been found in nature, though in principle it could exist and release energy.",
+        "et": "Raua sulamiseks vajalikku kolmikalfa-taolist resonantsi pole looduses lihtsalt leitud, kuigi see võiks põhimõtteliselt eksisteerida ja energiat vabastada.",
+        "sourceHash": "459506ac56418145",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-nucleosynthesis-and-fusion-chains-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't actually stop — fusion continues building heavier elements past iron inside the star under the same ordinary process.",
+        "et": "See tegelikult ei peatu — sulamine jätkab tähe sees raskemate elementide ehitamist üle raua sama tavalise protsessi all.",
+        "sourceHash": "f69088ad4e6872f4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-nucleosynthesis-and-fusion-chains-m3"
+    }
+  ]
+}

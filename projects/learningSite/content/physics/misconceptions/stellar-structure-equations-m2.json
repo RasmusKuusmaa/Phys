@@ -1,0 +1,10 @@
+{
+  "id": "stellar-structure-equations-m2",
+  "conceptId": "stellar-structure-equations",
+  "text": {
+    "en": "Believing energy is transported outward through a star by only one single mechanism throughout — different regions of the same star can transport energy by radiation in one zone and by convection in another, whichever mechanism is actually more efficient at carrying the required energy flux at that particular radius.",
+    "et": "Arvamus, et energiat kantakse tähes väljapoole ainult ühe ainsa mehhanismi kaudu läbivalt — sama tähe erinevad piirkonnad võivad kanda energiat kiirguse teel ühes tsoonis ja konvektsiooni teel teises, olenevalt sellest, kumb mehhanism on tegelikult tõhusam vajaliku energiavoo kandmisel just sellel raadiusel.",
+    "sourceHash": "ccd14a4067420c4c",
+    "stale": false
+  }
+}

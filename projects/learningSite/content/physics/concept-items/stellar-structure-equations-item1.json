@@ -1,0 +1,56 @@
+{
+  "id": "stellar-structure-equations-item1",
+  "conceptId": "stellar-structure-equations",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A star's total mass and chemical composition are given, along with an appropriate equation of state. According to the stellar structure equations, what else is needed to determine the star's radius, central temperature, and surface luminosity?",
+    "et": "Antud on tähe kogumass ja keemiline koostis, koos sobiva olekuvõrrandiga. Tähe struktuurivõrrandite kohaselt, mida on veel vaja, et määrata tähe raadius, kesktemperatuur ja pinnaheledus?",
+    "sourceHash": "f3eb1a093257e86a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Nothing more, in principle — the four structure equations, given mass and composition, determine these properties without further free parameters.",
+        "et": "Põhimõtteliselt mitte midagi enamat — neli struktuurivõrrandit, antud massi ja koostise korral, määravad need omadused ilma täiendavate vabade parameetriteta.",
+        "sourceHash": "f915632aa14cf118",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Several additional independent free parameters that must be separately measured for each individual star.",
+        "et": "Mitu täiendavat sõltumatut vaba parameetrit, mis tuleb iga üksiku tähe jaoks eraldi mõõta.",
+        "sourceHash": "0b40a46071842d58",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-structure-equations-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A specification of which single energy-transport mechanism (radiation or convection) applies throughout the entire star.",
+        "et": "Määratlus selle kohta, milline üksik energiatranspordi mehhanism (kiirgus või konvektsioon) kehtib kogu tähe ulatuses.",
+        "sourceHash": "85fbe16e9c1ba20d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-structure-equations-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The total luminosity generated at the surface itself, since that's where the luminosity is understood to keep increasing to.",
+        "et": "Kogu heledus, mis tekib pinnal endal, kuna sinnamaani heledus arusaadavalt kogu aeg kasvab.",
+        "sourceHash": "46d57fe601a5ceb3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stellar-structure-equations-m3"
+    }
+  ]
+}

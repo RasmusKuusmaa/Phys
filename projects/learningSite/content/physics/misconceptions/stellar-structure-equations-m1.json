@@ -1,0 +1,10 @@
+{
+  "id": "stellar-structure-equations-m1",
+  "conceptId": "stellar-structure-equations",
+  "text": {
+    "en": "Believing a star's structure is arbitrary or requires many independent free parameters to specify — given just its total mass and chemical composition, the four structure equations plus an equation of state, in principle, completely and uniquely determine essentially every other property, with no additional free inputs needed.",
+    "et": "Arvamus, et tähe struktuur on suvaline või vajab määramiseks palju sõltumatuid vabu parameetreid — antud ainult selle kogumass ja keemiline koostis, määravad neli struktuurivõrrandit koos olekuvõrrandiga põhimõtteliselt täielikult ja üheselt sisuliselt iga muu omaduse, ilma täiendavate vabade sisenditeta.",
+    "sourceHash": "92da9360a288f4a5",
+    "stale": false
+  }
+}

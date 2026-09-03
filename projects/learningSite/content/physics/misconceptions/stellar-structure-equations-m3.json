@@ -1,0 +1,10 @@
+{
+  "id": "stellar-structure-equations-m3",
+  "conceptId": "stellar-structure-equations",
+  "text": {
+    "en": "Believing a star's luminosity keeps increasing all the way from the centre to the surface, since energy is constantly being added — luminosity only increases with radius within the actively fusing core; outside the fusing region, no more energy is being added, so luminosity stays constant out to the surface.",
+    "et": "Arvamus, et tähe heledus kasvab pidevalt kogu tee keskpunktist pinnani, kuna energiat pidevalt lisatakse — heledus kasvab raadiusega ainult aktiivselt sulatava tuuma piires; väljaspool sulatavat piirkonda enam energiat ei lisata, nii et heledus jääb pinnani konstantseks.",
+    "sourceHash": "ba0d83c11bb1619e",
+    "stale": false
+  }
+}

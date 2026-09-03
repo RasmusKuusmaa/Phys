@@ -1,0 +1,22 @@
+{
+  "id": "stellar-nucleosynthesis-and-fusion-chains",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Stellar nucleosynthesis and fusion chains",
+    "et": "Tähesisene nukleosüntees ja sulatusahelad",
+    "sourceHash": "1f22e707aaf63c6f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Stars generate their energy, and build up nearly every element heavier than hydrogen, through specific sequences of nuclear fusion reactions: the proton-proton chain and the CNO cycle both fuse hydrogen into helium but dominate in stars of different mass, and the triple-alpha process, active only once hydrogen is exhausted and the core contracts further, fuses helium into carbon — the starting point for building up all the heavier elements in more massive, more evolved stars.",
+    "et": "Tähed toodavad oma energiat, ja ehitavad üles peaaegu iga vesinikust raskema elemendi, konkreetsete tuumasünteesi reaktsioonide jadade kaudu: prooton-prooton ahel ja CNO tsükkel sulatavad mõlemad vesinikku heeliumiks, kuid domineerivad erineva massiga tähtedes, ning kolmikalfa protsess, aktiivne alles siis, kui vesinik on ammendunud ja tuum edasi kokku tõmbub, sulatab heeliumi süsinikuks — lähtepunkt kõigi raskemate elementide ehitamiseks massiivsemates, arenenumates tähtedes.",
+    "sourceHash": "e8fa6d5f85255976",
+    "stale": false
+  },
+  "prerequisites": [
+    "nuclear-fission-and-fusion",
+    "stellar-structure-equations"
+  ]
+}

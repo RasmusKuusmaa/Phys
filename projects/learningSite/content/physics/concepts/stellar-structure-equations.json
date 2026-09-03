@@ -1,0 +1,23 @@
+{
+  "id": "stellar-structure-equations",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Stellar structure equations",
+    "et": "Tähe struktuurivõrrandid",
+    "sourceHash": "27734886f3effbf9",
+    "stale": false
+  },
+  "summary": {
+    "en": "A star's internal structure — how density, pressure, temperature and luminosity vary from its centre to its surface — is set by four coupled differential equations balancing gravity against pressure, tracking how mass and energy accumulate with radius, and describing how that energy is transported outward; solving them, given a star's mass, composition and an equation of state, predicts essentially everything else about the star, from its central temperature to its surface luminosity.",
+    "et": "Tähe sisemine struktuur — kuidas tihedus, rõhk, temperatuur ja heledus muutuvad selle keskpunktist pinnani — on määratud nelja seotud diferentsiaalvõrrandiga, mis tasakaalustavad gravitatsiooni rõhu vastu, jälgivad, kuidas mass ja energia raadiusega kogunevad, ning kirjeldavad, kuidas see energia väljapoole transporditakse; nende lahendamine, antud tähe massi, koostise ja olekuvõrrandi korral, ennustab sisuliselt kõik muu tähe kohta, selle kesktemperatuurist kuni pinnaheleduseni.",
+    "sourceHash": "0429aef62caddf4f",
+    "stale": false
+  },
+  "prerequisites": [
+    "newtonian-gravitation",
+    "ideal-gas-law",
+    "heat-transfer-mechanisms"
+  ]
+}
