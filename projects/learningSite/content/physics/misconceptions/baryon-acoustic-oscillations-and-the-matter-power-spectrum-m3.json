@@ -1,0 +1,10 @@
+{
+  "id": "baryon-acoustic-oscillations-and-the-matter-power-spectrum-m3",
+  "conceptId": "baryon-acoustic-oscillations-and-the-matter-power-spectrum",
+  "text": {
+    "en": "Believing the baryon acoustic oscillation scale is just another free parameter that gets tuned to fit whatever data is being analyzed -- the physical size of this standard ruler is set by well-understood, essentially parameter-free pre-recombination plasma physics (the sound horizon at recombination) and is independently, precisely calibrated using the cosmic microwave background, so measuring the same known-size ruler's apparent angular size at different cosmic distances directly constrains the universe's expansion history, making it one of cosmology's most robust, least model-dependent distance-measurement tools rather than an adjustable fitting parameter.",
+    "et": "Arvamus, et baarionite akustiliste ostsillatsioonide skaala on lihtsalt veel üks vaba parameeter, mida häälestatakse sobima mistahes analüüsitavate andmetega -- selle standardjoonlaua füüsikaline suurus on määratud hästi mõistetud, sisuliselt parameetrivaba rekombinatsioonieelse plasma füüsikaga (helihorisont rekombinatsioonil) ja on sõltumatult, täpselt kalibreeritud kosmilise mikrolainetausta abil, seega annab sama teadaoleva suurusega joonlaua näiva nurksuuruse mõõtmine erinevatel kosmilistel kaugustel otse piiranguid universumi paisumisajaloole, mis teeb sellest ühe kosmoloogia kõige töökindlama, kõige vähem mudelist sõltuva kaugusmõõtmise vahendi, mitte reguleeritava sobitusparameetri.",
+    "sourceHash": "95626607de3de2f8",
+    "stale": false
+  }
+}

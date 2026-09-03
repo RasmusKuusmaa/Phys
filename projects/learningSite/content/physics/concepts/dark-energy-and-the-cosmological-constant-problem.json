@@ -1,0 +1,22 @@
+{
+  "id": "dark-energy-and-the-cosmological-constant-problem",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Dark energy, the cosmological constant, and the equation-of-state parameter w",
+    "et": "Tumeenergia, kosmoloogiline konstant ja olekuvõrrandi parameeter w",
+    "sourceHash": "0fd91485af015130",
+    "stale": false
+  },
+  "summary": {
+    "en": "Distant Type Ia supernovae appear systematically fainter, and therefore farther away, than a universe decelerating under gravity alone would predict, direct evidence that the cosmic expansion is actually accelerating, driven by a mysterious dark energy component describable through its equation-of-state parameter w (the ratio of its pressure to its energy density) -- a cosmological constant corresponds to exactly w=-1 and is the simplest fit to current data, but calculating the cosmological constant's expected size from quantum field theory's vacuum energy overshoots the observed value by an almost absurd margin, one of the deepest unsolved problems at the boundary between particle physics and cosmology.",
+    "et": "Kauged Ia tüüpi supernoovad paistavad süstemaatiliselt hämaramad, ja seetõttu kaugemad, kui universum, mis aeglustub ainult gravitatsiooni all, ennustaks, otsene tõend selle kohta, et kosmiline paisumine tegelikult kiireneb, mida juhib müstiline tumeenergia komponent, mida saab kirjeldada selle olekuvõrrandi parameetri w kaudu (selle rõhu suhe selle energiatihedusesse) -- kosmoloogiline konstant vastab täpselt w=-1 väärtusele ja on lihtsaim sobitus praeguste andmetega, kuid kosmoloogilise konstandi oodatava suuruse arvutamine kvantväljateooria vaakumienergiast ületab vaadeldud väärtust peaaegu absurdse marginaaliga, üks kõige sügavamaid lahendamata probleeme osakestefüüsika ja kosmoloogia piiril.",
+    "sourceHash": "6a85e5710c39a1ce",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-friedmann-equations",
+    "renormalization-in-quantum-field-theory"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "dark-energy-and-the-cosmological-constant-problem-item1",
+  "conceptId": "dark-energy-and-the-cosmological-constant-problem",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How was the accelerating expansion of the universe actually established?",
+    "et": "Kuidas tuvastati universumi kiirenev paisumine tegelikult?",
+    "sourceHash": "88d4f374be18d522",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Distant Type Ia supernovae were measured to be systematically fainter than a decelerating universe would predict, a direct observational discovery.",
+        "et": "Mõõdeti, et kauged Ia tüüpi supernoovad on süstemaatiliselt hämaramad, kui aeglustuv universum ennustaks, otsene vaatluslik avastus.",
+        "sourceHash": "7c244e56d0095c3f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It was simply assumed or postulated by cosmologists as a starting point, prior to any relevant observational data.",
+        "et": "See oli lihtsalt kosmoloogide poolt lähtepunktina eeldatud või postuleeritud, enne mistahes asjakohaseid vaatlusandmeid.",
+        "sourceHash": "a1c1d3ccfd1d0997",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dark-energy-and-the-cosmological-constant-problem-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It follows automatically from the cosmological constant and dark energy being simply two names for the same fully settled, single model.",
+        "et": "See järgneb automaatselt sellest, et kosmoloogiline konstant ja tumeenergia on lihtsalt kaks nime samale täielikult lahendatud, üksikule mudelile.",
+        "sourceHash": "1568ddd919b7b670",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dark-energy-and-the-cosmological-constant-problem-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It's not actually established -- the cosmological constant problem shows the acceleration is just a minor calculational discrepancy.",
+        "et": "See ei ole tegelikult tuvastatud -- kosmoloogilise konstandi probleem näitab, et kiirenemine on lihtsalt väike arvutuslik lahknevus.",
+        "sourceHash": "215a99ced5bb749f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dark-energy-and-the-cosmological-constant-problem-m3"
+    }
+  ]
+}

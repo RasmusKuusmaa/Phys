@@ -1,0 +1,56 @@
+{
+  "id": "baryon-acoustic-oscillations-and-the-matter-power-spectrum-item1",
+  "conceptId": "baryon-acoustic-oscillations-and-the-matter-power-spectrum",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can the baryon acoustic oscillation scale serve as a reliable 'standard ruler' for measuring cosmic distances?",
+    "et": "Miks saab baarionite akustiliste ostsillatsioonide skaala olla usaldusväärne 'standardjoonlaud' kosmiliste kauguste mõõtmiseks?",
+    "sourceHash": "af9ba443f24cb90d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because its physical size is set by well-understood, essentially parameter-free pre-recombination plasma physics and independently calibrated by the cosmic microwave background.",
+        "et": "Sest selle füüsikaline suurus on määratud hästi mõistetud, sisuliselt parameetrivaba rekombinatsioonieelse plasma füüsikaga ja sõltumatult kalibreeritud kosmilise mikrolainetausta poolt.",
+        "sourceHash": "34e7e27e101cabbd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because it consists of literal sound waves that are still audibly propagating through the universe today, at a fixed, easily measured frequency.",
+        "et": "Sest see koosneb sõna otseses mõttes helilainetest, mis levivad läbi universumi tänagi kuuldavalt, fikseeritud, kergesti mõõdetaval sagedusel.",
+        "sourceHash": "5ec745e694aa27a7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "baryon-acoustic-oscillations-and-the-matter-power-spectrum-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because it creates a hard, sharp physical boundary in space that galaxies literally cannot cross.",
+        "et": "Sest see tekitab ruumis kõva, terava füüsilise piiri, mida galaktikad sõna otseses mõttes ületada ei saa.",
+        "sourceHash": "a7cdbedef8822713",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "baryon-acoustic-oscillations-and-the-matter-power-spectrum-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It can't actually serve as a reliable ruler -- its scale is just an adjustable free parameter tuned separately to fit each dataset.",
+        "et": "See ei saagi tegelikult olla usaldusväärne joonlaud -- selle skaala on lihtsalt reguleeritav vaba parameeter, mida häälestatakse eraldi iga andmestikuga sobimiseks.",
+        "sourceHash": "420b8b105de1f2d6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "baryon-acoustic-oscillations-and-the-matter-power-spectrum-m3"
+    }
+  ]
+}

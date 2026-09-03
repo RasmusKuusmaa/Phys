@@ -1,0 +1,22 @@
+{
+  "id": "baryon-acoustic-oscillations-and-the-matter-power-spectrum",
+  "subject": "physics",
+  "level": "L4",
+  "module": "astrophysics",
+  "title": {
+    "en": "Baryon acoustic oscillations and the matter power spectrum",
+    "et": "Baarionite akustilised ostsillatsioonid ja aine võimsusspekter",
+    "sourceHash": "0509bfdb7a3d4d25",
+    "stale": false
+  },
+  "summary": {
+    "en": "Before recombination, the tightly coupled photon-baryon plasma supported genuine sound waves rippling outward from every initial density perturbation, and when recombination suddenly decoupled photons from baryons, those sound waves froze in place at a fixed physical scale, leaving a subtle but statistically detectable preference for galaxies to be separated by that characteristic distance imprinted throughout the large-scale structure of the universe; because that 'standard ruler' scale is set by well-understood pre-recombination physics and is independently calibrated by the cosmic microwave background, measuring it at different cosmic epochs provides one of cosmology's most precise and least model-dependent probes of the universe's expansion history.",
+    "et": "Enne rekombinatsiooni toetas tihedalt seotud footon-baarion plasma tõelisi helilaineid, mis levisid välja igast algsest tihedushäiritusest, ning kui rekombinatsioon äkitselt lahutas footonid baarionitest, jäätusid need helilained paigale kindlal füüsikalisel skaalal, jättes peene, kuid statistiliselt tuvastatava eelistuse, et galaktikad on eraldatud selle iseloomuliku kaugusega, mis on jäljendunud läbi universumi suuremõõtmelise struktuuri; kuna see 'standardjoonlaua' skaala on määratud hästi mõistetud rekombinatsioonieelse füüsikaga ja on sõltumatult kalibreeritud kosmilise mikrolainetausta poolt, annab selle mõõtmine erinevatel kosmilistel ajastutel ühe kosmoloogia kõige täpsema ja kõige vähem mudelist sõltuva vahendi universumi paisumisajaloo uurimiseks.",
+    "sourceHash": "79c43fe4fe7d4070",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-cosmic-microwave-background-and-recombination",
+    "cosmological-perturbation-theory-and-structure-formation"
+  ]
+}
