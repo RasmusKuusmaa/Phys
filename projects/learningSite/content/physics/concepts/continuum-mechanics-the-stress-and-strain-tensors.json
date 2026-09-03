@@ -1,0 +1,22 @@
+{
+  "id": "continuum-mechanics-the-stress-and-strain-tensors",
+  "subject": "physics",
+  "level": "L4",
+  "module": "mechanics",
+  "title": {
+    "en": "Continuum mechanics: the stress and strain tensors",
+    "et": "Kontiinummehaanika: pinge- ja deformatsioonitensorid",
+    "sourceHash": "e2a3fca3c381cb69",
+    "stale": false
+  },
+  "summary": {
+    "en": "Newton's laws applied to a rigid body only need a single force and a single torque, but a deformable solid resists forces differently depending on which direction they act relative to an imagined internal surface, so describing the internal forces at any point inside a stressed material genuinely requires a rank-two tensor, the stress tensor, whose components give the force per unit area acting across surfaces of every possible orientation through that point, paired with a corresponding strain tensor that describes the resulting local deformation, and for a linear elastic material the two tensors are related by a generalized Hooke's law with as many as twenty-one independent elastic constants in the most general anisotropic case, collapsing to just two (bulk and shear modulus) for an isotropic material, making continuum mechanics the genuine tensor generalization of the single spring constant a first course in elasticity introduces.",
+    "et": "Newtoni seadused, mida rakendatakse jäigale kehale, vajavad ainult üht jõudu ja üht momenti, kuid deformeeruv tahke keha seisab jõududele vastu erinevalt, olenevalt sellest, millises suunas need mõjuvad kujuteldava sisemise pinna suhtes, seega nõuab sisemiste jõudude kirjeldamine mistahes punktis pinges materjali sees tõeliselt teist järku tensorit, pingetensorit, mille komponendid annavad jõu pindalaühiku kohta, mis mõjub läbi selle punkti mistahes orientatsiooniga pindadel, koos vastava deformatsioonitensoriga, mis kirjeldab tekkivat kohalikku deformatsiooni, ning lineaarse elastse materjali jaoks on need kaks tensorit seotud üldistatud Hooke'i seaduse kaudu kuni kahekümne ühe sõltumatu elastsuskonstandiga kõige üldisemal anisotroopsel juhul, taandudes ainult kahele (mahu- ja nihkemoodul) isotroopse materjali jaoks, mis muudab kontiinummehaanika ühe vedrukonstandi tõeliseks tensori üldistuseks, mida esimene elastsuskursus tutvustab.",
+    "sourceHash": "03163ba0fd471fa3",
+    "stale": false
+  },
+  "prerequisites": [
+    "static-equilibrium",
+    "the-inertia-tensor-and-principal-axes"
+  ]
+}

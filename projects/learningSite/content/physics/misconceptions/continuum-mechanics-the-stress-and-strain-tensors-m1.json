@@ -1,0 +1,10 @@
+{
+  "id": "continuum-mechanics-the-stress-and-strain-tensors-m1",
+  "conceptId": "continuum-mechanics-the-stress-and-strain-tensors",
+  "text": {
+    "en": "Believing the internal force at a point inside a stressed solid can be fully described by a single number or a single vector, the way an external applied force is -- the force transmitted across an internal surface at a given point depends critically on that surface's orientation (a surface cut perpendicular to a stretching rod experiences a different internal force per unit area than one cut at an angle through it), which is exactly why a full description requires a rank-two tensor, the stress tensor, giving the force per unit area on every possible surface orientation through that point, not a single scalar or vector value valid for all orientations at once.",
+    "et": "Arvamus, et sisemist jõudu punktis pinges tahke keha sees saab täielikult kirjeldada ühe arvu või ühe vektoriga, samamoodi nagu välist rakendatavat jõudu -- jõud, mis kandub üle antud punkti sisemise pinna kaudu, sõltub kriitiliselt selle pinna orientatsioonist (pind, mis on lõigatud risti venitatava varda suhtes, kogeb erinevat sisemist jõudu pindalaühiku kohta kui pind, mis on lõigatud läbi selle nurga all), mis ongi täpselt põhjus, miks täielik kirjeldus nõuab teist järku tensorit, pingetensorit, mis annab jõu pindalaühiku kohta igal võimalikul pinna orientatsioonil läbi selle punkti, mitte üksikut skalaari või vektori väärtust, mis kehtiks kõigi orientatsioonide jaoks korraga.",
+    "sourceHash": "b672439cfaed9b43",
+    "stale": false
+  }
+}

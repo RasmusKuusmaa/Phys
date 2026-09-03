@@ -1,0 +1,10 @@
+{
+  "id": "continuum-mechanics-the-stress-and-strain-tensors-m2",
+  "conceptId": "continuum-mechanics-the-stress-and-strain-tensors",
+  "text": {
+    "en": "Believing Hooke's law for a general elastic solid is simply the familiar single spring equation (force proportional to displacement via one constant) applied at every point -- the true generalized Hooke's law relates the entire stress tensor to the entire strain tensor through a rank-four elastic modulus tensor, which in the most general anisotropic material has as many as twenty-one independent components; the single-spring-constant picture survives only in the special, highly symmetric case of an isotropic material, where the elastic tensor collapses down to just two independent constants (commonly expressed as the bulk modulus and shear modulus), not because the general law is secretly that simple.",
+    "et": "Arvamus, et üldise elastse tahke keha Hooke'i seadus on lihtsalt tuttav üksiku vedru võrrand (jõud võrdeline nihkega ühe konstandi kaudu), mida rakendatakse igas punktis -- tõeline üldistatud Hooke'i seadus seob kogu pingetensori kogu deformatsioonitensoriga neljanda järku elastsusmooduli tensori kaudu, millel on kõige üldisemas anisotroopses materjalis kuni kakskümmend üks sõltumatut komponenti; üksiku vedrukonstandi pilt säilib ainult erilises, väga sümmeetrilises isotroopse materjali juhul, kus elastsuse tensor taandub ainult kahele sõltumatule konstandile (tavaliselt väljendatud mahu- ja nihkemoodulina), mitte kuna üldine seadus on salaja nii lihtne.",
+    "sourceHash": "10b1262213d1b5e6",
+    "stale": false
+  }
+}

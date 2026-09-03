@@ -1,0 +1,55 @@
+{
+  "id": "continuum-mechanics-the-stress-and-strain-tensors-item1",
+  "conceptId": "continuum-mechanics-the-stress-and-strain-tensors",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does describing the internal force at a single point inside a stressed solid require a rank-two tensor rather than a single vector?",
+    "et": "Miks nõuab sisemise jõu kirjeldamine ühes punktis pinges tahke keha sees teist järku tensorit, mitte üksikut vektorit?",
+    "sourceHash": "12532025e74d83fc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The force per unit area transmitted across an internal surface at that point depends on the surface's orientation, so a full description needs the force on every possible orientation, not one fixed value.",
+        "et": "Jõud pindalaühiku kohta, mis kandub üle selle punkti sisemise pinna, sõltub pinna orientatsioonist, seega vajab täielik kirjeldus jõudu igal võimalikul orientatsioonil, mitte ühte fikseeritud väärtust.",
+        "sourceHash": "701de4e9c900f469",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A vector description would actually work fine; the tensor formalism is used purely by mathematical convention with no real physical necessity behind it.",
+        "et": "Vektorkirjeldus töötaks tegelikult hästi; tensorformalismi kasutatakse puhtalt matemaatilise kokkuleppe tõttu, ilma tegeliku füüsikalise vajaduseta selle taga.",
+        "sourceHash": "c642c29655e40cda",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is only necessary for anisotropic engineering materials; simple isotropic solids can be fully described using a single scalar pressure value instead.",
+        "et": "See on vajalik ainult anisotroopsete inseneriematerjalide jaoks; lihtsaid isotroopseid tahkiseid saab täielikult kirjeldada üksiku skalaarse rõhuväärtuse abil.",
+        "sourceHash": "80b9d227919c5862",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "continuum-mechanics-the-stress-and-strain-tensors-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't actually require a tensor -- a single force vector at each point already fully captures how the material resists deformation in every direction.",
+        "et": "See ei nõua tegelikult tensorit -- üksik jõuvektor igas punktis kajastab juba täielikult, kuidas materjal seisab vastu deformatsioonile igas suunas.",
+        "sourceHash": "04b93a965011853a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "continuum-mechanics-the-stress-and-strain-tensors-m1"
+    }
+  ]
+}

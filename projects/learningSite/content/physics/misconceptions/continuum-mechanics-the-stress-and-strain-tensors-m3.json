@@ -1,0 +1,10 @@
+{
+  "id": "continuum-mechanics-the-stress-and-strain-tensors-m3",
+  "conceptId": "continuum-mechanics-the-stress-and-strain-tensors",
+  "text": {
+    "en": "Believing the stress and strain tensors are only relevant for exotic, highly anisotropic engineering materials and have no bearing on simple, everyday solids -- every real deformable solid, however simple or symmetric, requires the stress and strain tensor framework to correctly describe internal forces and deformation at a point; an isotropic material is not exempt from the tensor description, it is simply the special, highly symmetric case where the general rank-four elastic tensor happens to reduce to only two independent constants, still fundamentally a tensor relationship rather than a scalar one.",
+    "et": "Arvamus, et pinge- ja deformatsioonitensorid on olulised ainult eksootiliste, väga anisotroopsete inseneriematerjalide jaoks ja neil ei ole tähtsust lihtsate, igapäevaste tahkiste jaoks -- iga tegelik deformeeruv tahke keha, ükskõik kui lihtne või sümmeetriline, nõuab pinge- ja deformatsioonitensori raamistikku, et õigesti kirjeldada sisemisi jõude ja deformatsiooni punktis; isotroopne materjal ei ole tensorkirjeldusest vabastatud, see on lihtsalt eriline, väga sümmeetriline juhtum, kus üldine neljanda järku elastsustensor juhtub taanduma ainult kahele sõltumatule konstandile, olles siiski põhimõtteliselt tensoriline, mitte skalaarne seos.",
+    "sourceHash": "c61f6d2d7974bda8",
+    "stale": false
+  }
+}
