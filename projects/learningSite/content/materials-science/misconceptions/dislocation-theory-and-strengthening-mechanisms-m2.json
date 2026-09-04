@@ -1,0 +1,10 @@
+{
+  "id": "dislocation-theory-and-strengthening-mechanisms-m2",
+  "conceptId": "dislocation-theory-and-strengthening-mechanisms",
+  "text": {
+    "en": "Believing the various strengthening mechanisms (grain-boundary, solid-solution, precipitation, and strain hardening) are mutually exclusive alternative strategies, so that an alloy design must pick just one to rely on -- all of these mechanisms strengthen a metal through the same underlying route of impeding dislocation motion, but via physically different obstacle types, so they are not exclusive alternatives at all; real alloy design deliberately combines multiple mechanisms together (for example, an alloy that is both grain-refined and precipitation-hardened) to reach strength levels no single mechanism alone could achieve.",
+    "et": "Arvamus, et erinevad tugevdamismehhanismid (teraalapiiride, tahke lahuse, sadestumis- ja deformatsioonikarastamise) on vastastikku välistavad alternatiivsed strateegiad, nii et sulamidisain peab valima ainult ühe, millele toetuda -- kõik need mehhanismid tugevdavad metalli sama aluseks oleva viisi kaudu, takistades dislokatsioonide liikumist, kuid füüsikaliselt erinevate takistustüüpide kaudu, seega ei ole need üldse vastastikku välistavad alternatiivid; reaalne sulamidisain kombineerib tahtlikult mitu mehhanismi kokku (näiteks sulam, mis on nii teravikupeenendatud kui ka sadestumisega karastatud), et saavutada tugevustasemeid, mida ükski üksik mehhanism üksinda ei suudaks saavutada.",
+    "sourceHash": "a4c7803797131e79",
+    "stale": false
+  }
+}

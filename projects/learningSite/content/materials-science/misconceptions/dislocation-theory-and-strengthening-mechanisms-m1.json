@@ -1,0 +1,10 @@
+{
+  "id": "dislocation-theory-and-strengthening-mechanisms-m1",
+  "conceptId": "dislocation-theory-and-strengthening-mechanisms",
+  "text": {
+    "en": "Believing a metal's yield strength is a single fixed property determined purely by its chemical composition, independent of its processing history or microstructure -- strength is actually controlled by how easily dislocations can move through the crystal lattice, and this is set by microstructural features (grain size, solute distribution, precipitates, dislocation density from prior deformation) that processing can change dramatically without altering chemical composition at all, which is exactly why the same alloy composition can be produced in dramatically different strength states through different processing routes.",
+    "et": "Arvamus, et metalli voolavuspiir on üks fikseeritud omadus, mille määrab puhtalt selle keemiline koostis, sõltumatult selle töötlemisajaloost või mikrostruktuurist -- tugevust kontrollib tegelikult see, kui kergesti saavad dislokatsioonid liikuda läbi kristallvõre, ning selle määravad mikrostruktuursed tunnused (teravikusuurus, lahustatud aine jaotus, sadestised, eelneva deformatsiooni tõttu tekkinud dislokatsioonitihedus), mida töötlemine võib dramaatiliselt muuta ilma keemilist koostist üldse muutmata, mis ongi täpselt põhjus, miks sama sulami koostist saab toota dramaatiliselt erinevates tugevusseisundites erinevate töötlemisviiside kaudu.",
+    "sourceHash": "bd7a32412e97559a",
+    "stale": false
+  }
+}

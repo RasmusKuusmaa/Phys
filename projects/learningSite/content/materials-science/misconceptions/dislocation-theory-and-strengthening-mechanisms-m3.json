@@ -1,0 +1,10 @@
+{
+  "id": "dislocation-theory-and-strengthening-mechanisms-m3",
+  "conceptId": "dislocation-theory-and-strengthening-mechanisms",
+  "text": {
+    "en": "Believing that combining multiple strengthening mechanisms in one alloy always simply adds their individual strengthening contributions together in a straightforward linear sum -- in reality the mechanisms often interact nonlinearly (for instance, precipitates can alter dislocation density evolution during subsequent strain hardening, changing how much additional strength that hardening contributes), so predicting a multi-mechanism alloy's actual strength requires accounting for these interactions rather than naively summing each mechanism's isolated contribution.",
+    "et": "Arvamus, et mitme tugevdamismehhanismi kombineerimine ühes sulamis liidab alati lihtsalt nende individuaalsed tugevduspanused kokku otsekohese lineaarse summana -- tegelikult suhtlevad mehhanismid sageli mittelineaarselt (näiteks sadestised võivad muuta dislokatsioonitiheduse arengut järgneva deformatsioonikarastamise ajal, muutes, kui palju täiendavat tugevust see karastamine annab), seega nõuab mitme mehhanismiga sulami tegeliku tugevuse ennustamine nende vastastikmõjude arvessevõtmist, selle asemel et naiivselt liita iga mehhanismi eraldiseisev panus.",
+    "sourceHash": "2ffe07ae8d9560f3",
+    "stale": false
+  }
+}

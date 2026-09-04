@@ -1,0 +1,22 @@
+{
+  "id": "dislocation-theory-and-strengthening-mechanisms",
+  "subject": "materials-science",
+  "level": "L4",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Dislocation theory and strengthening mechanisms",
+    "et": "Dislokatsiooniteooria ja tugevdamismehhanismid",
+    "sourceHash": "272dabd9c4b561a0",
+    "stale": false
+  },
+  "summary": {
+    "en": "A metal's yield strength is not one single fixed property of its chemical composition but is instead controlled by how easily dislocations can move through its crystal lattice, so that several genuinely distinct strengthening mechanisms -- grain-boundary strengthening (Hall-Petch), solid-solution strengthening, precipitation/dispersion strengthening, and strain (work) hardening -- all raise strength by the same underlying route of impeding dislocation motion, but through physically different obstacles (grain boundaries, solute atoms, second-phase particles, and dislocation-dislocation interactions respectively), which means these mechanisms are not mutually exclusive alternatives to pick just one of, but combine, and often interact nonlinearly rather than simply adding, so real alloy design deliberately layers multiple strengthening mechanisms together rather than relying on a single one.",
+    "et": "Metalli voolavuspiir ei ole üks fikseeritud omadus, mis sõltub selle keemilisest koostisest, vaid seda kontrollib see, kui kergesti saavad dislokatsioonid liikuda läbi selle kristallvõre, nii et mitu tõeliselt eristuvat tugevdamismehhanismi -- teraalapiiride tugevdamine (Hall-Petch), tahke lahuse tugevdamine, sadestumis-/dispersioontugevdamine ja deformatsiooni (töö-) karastamine -- kõik tõstavad tugevust sama aluseks oleva viisi kaudu, takistades dislokatsioonide liikumist, kuid füüsikaliselt erinevate takistuste kaudu (vastavalt teraalapiirid, lahustatud aatomid, teisfaasi osakesed ja dislokatsioonide-dislokatsioonide vastastikmõjud), mis tähendab, et need mehhanismid ei ole vastastikku välistavad alternatiivid, millest valida vaid üks, vaid nad kombineeruvad ja sageli suhtlevad mittelineaarselt, selle asemel et lihtsalt liituda, seega reaalne sulamidisain kihistab tahtlikult mitu tugevdamismehhanismi kokku, selle asemel et toetuda ühele.",
+    "sourceHash": "26e08ed6dce11db1",
+    "stale": false
+  },
+  "prerequisites": [
+    "point-defects-and-dislocations-in-crystals",
+    "phase-diagrams-and-binary-alloy-systems"
+  ]
+}

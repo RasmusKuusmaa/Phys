@@ -1,0 +1,56 @@
+{
+  "id": "dislocation-theory-and-strengthening-mechanisms-item1",
+  "conceptId": "dislocation-theory-and-strengthening-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two samples of the exact same alloy composition show dramatically different yield strengths because they were processed differently (one cold-worked and precipitation-hardened, the other left in a coarse-grained annealed state). What does this best demonstrate?",
+    "et": "Kaks täpselt sama sulami koostisega proovi näitavad dramaatiliselt erinevaid voolavuspiire, kuna neid töödeldi erinevalt (üks külmtöödeldud ja sadestumisega karastatud, teine jäetud jämeteralisse lõõmutatud olekusse). Mida see kõige paremini demonstreerib?",
+    "sourceHash": "eba1b489a2e43211",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Strength is controlled by microstructural features that impede dislocation motion (grain size, precipitates, dislocation density), not by chemical composition alone.",
+        "et": "Tugevust kontrollivad mikrostruktuursed tunnused, mis takistavad dislokatsioonide liikumist (teravikusuurus, sadestised, dislokatsioonitihedus), mitte ainult keemiline koostis.",
+        "sourceHash": "609847fb38f83c7b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "One of the two samples must have a measurement error, since identical chemical composition should always produce identical yield strength.",
+        "et": "Ühel kahest proovist peab olema mõõtmisviga, kuna identne keemiline koostis peaks alati andma identse voolavuspiiri.",
+        "sourceHash": "25ce9cf97197b54f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dislocation-theory-and-strengthening-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Precipitation hardening and grain-size effects must be mutually exclusive mechanisms, so only one of the two samples can be validly strengthened at all.",
+        "et": "Sadestumiskarastamine ja teravikusuuruse efektid peavad olema vastastikku välistavad mehhanismid, seega saab ainult üks kahest proovist üldse valiidselt tugevdatud olla.",
+        "sourceHash": "649d1cb0f2a63e5c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dislocation-theory-and-strengthening-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The strength difference can be computed by simply linearly adding the two samples' individual strengthening contributions with no need to consider mechanism interactions.",
+        "et": "Tugevuse erinevust saab arvutada, liites lihtsalt lineaarselt kahe proovi individuaalsed tugevduspanused, ilma et oleks vaja arvestada mehhanismide vastastikmõjusid.",
+        "sourceHash": "f64f2a9d34687438",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dislocation-theory-and-strengthening-mechanisms-m3"
+    }
+  ]
+}
