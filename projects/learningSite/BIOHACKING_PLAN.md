@@ -149,19 +149,56 @@ than a direct translation would have been.
 
 ## Phase BH3 — closing/advanced pass
 
-- [ ] Epigenetics and lifestyle interventions (how diet, exercise, and
+- [x] Epigenetics and lifestyle interventions (how diet, exercise, and
       stress can modify gene expression without changing DNA sequence, and
       the gap between that real mechanism and inflated popular claims about
-      it; L3)
-- [ ] DIY biology and citizen-science ethics (garage/community biolabs,
+      it; L3; kept conceptual)
+- [x] DIY biology and citizen-science ethics (garage/community biolabs,
       self-experimentation with CRISPR, biosafety and ethical
-      considerations; L2)
-- [ ] Longevity science and biomarkers of aging (biological vs.
+      considerations; L2; kept conceptual)
+- [x] Longevity science and biomarkers of aging (biological vs.
       chronological age, cellular senescence, the caloric-restriction/
       rapamycin/metformin research literature and what it does and doesn't
-      show; L3)
-- [ ] Regulatory and safety considerations in self-experimentation
+      show; L3; kept conceptual)
+- [x] Regulatory and safety considerations in self-experimentation
       (supplement regulation — or its absence — drug interactions, risks of
-      unregulated peptides and SARMs; L2)
+      unregulated peptides and SARMs; L2; kept conceptual)
+
+Phase BH3 complete: 15 biohacking concepts total (4 new Phase-BH3 concepts
+on top of the 11-concept Phase BH1+BH2 baseline). Authored directly rather
+than via a fork, running alongside two parallel medicine-subject forks.
+None needed a formula — the whole subject has stayed evidence-evaluation
+and mechanism reasoning throughout, appropriately for a subject about
+critically evaluating claims rather than computing quantities. `npm run
+validate:content` (9 subjects, 546 concepts), `npm run lint:terminology`
+(254 glossary terms), `npm run typecheck`, and the full test suite
+(150/150) all pass; every resource URL verified live with `curl`. Two
+Estonian resources are honest adjacent matches rather than exact-topic
+matches, since Estonian Wikipedia has no dedicated article: `diy-biology-
+and-citizen-science-ethics` links to "CRISPR" (the concept's central
+technology) instead of a nonexistent DIY-biology article, and `regulatory-
+and-safety-considerations-in-self-experimentation` links to "Ravim"
+(medication — the regulatory contrast case the concept explains) instead of
+a nonexistent dedicated dietary-supplement-regulation article.
+
+## Biohacking judged comprehensive
+
+Same reasoning as the physics, mathematics, chemistry, materials-science,
+aerospace-engineering, and general-engineering calls before it. Three
+phases (BH1: evidence literacy plus the five best-evidenced self-
+experimentation domains; BH2: five more specialised, claim-heavy domains;
+BH3: epigenetics, DIY biology/CRISPR ethics, longevity science, and
+regulatory/safety considerations) cover the standard biohacking-community
+topic list at the applied, claim-evaluation depth this subject's framing
+committed to from the start — deeper mechanistic depth (endocrinology,
+molecular genetics, cell biology) is `MEDICINE_PLAN.md`'s to own, per this
+file's own opening framing, so extending biohacking itself further would
+mean either padding with marginal claim-evaluation topics or duplicating
+medicine's mechanism-level content under a different label, neither of
+which is a genuine gap. Same standing caveats as every prior subject: not a
+claim that zero further biohacking content could ever be added, and the
+Estonian biology/physiology terminology this subject introduced (the first
+biology-domain vocabulary in this repo's glossary-adjacent usage) has not
+been through a native-speaker review pass.
 
 ---
