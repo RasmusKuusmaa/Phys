@@ -1,0 +1,10 @@
+{
+  "id": "synaptic-transmission-and-neurotransmitters-m3",
+  "conceptId": "synaptic-transmission-and-neurotransmitters",
+  "text": {
+    "en": "More neurotransmitter released always means a stronger, more certain signal transmitted to the next cell -- in reality, whether the postsynaptic cell fires depends on summing many excitatory and inhibitory inputs across many synapses reaching threshold together, not on the neurotransmitter quantity at any single synapse in isolation: a single synapse's input can be outweighed or cancelled by others.",
+    "et": "Rohkem vabastatud neurotransmitterit tähendab alati tugevamat, kindlamat signaali edastumist järgmisele rakule -- tegelikult sõltub see, kas postsünaptiline rakk tulistab, paljude ergastavate ja pärssivate sisendite summeerumisest paljude sünapside ulatuses, mis koos jõuavad läveni, mitte neurotransmitteri kogusest ühel üksikul sünapsil eraldiseisvalt: ühe sünapsi sisendi võivad teised üles kaaluda või tühistada.",
+    "sourceHash": "71d9032886bd1d94",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "synaptic-transmission-and-neurotransmitters-m2",
+  "conceptId": "synaptic-transmission-and-neurotransmitters",
+  "text": {
+    "en": "The synaptic gap is crossed instantly, with essentially the same speed and mechanism as the electrical signal traveling down the axon -- in reality, chemical synaptic transmission is meaningfully slower than axonal conduction, since it requires several sequential steps (calcium influx, vesicle fusion, neurotransmitter diffusion, receptor binding) that a purely electrical signal doesn't need; this synaptic delay is real and measurable, unlike the near-instantaneous transmission at the rarer electrical synapses.",
+    "et": "Sünaptiline pilu ületatakse hetkeliselt, sisuliselt sama kiiresti ja samal mehhanismil kui aksonit mööda liikuv elektrisignaal -- tegelikult on keemiline sünaptiline ülekanne aksonaalsest juhtivusest oluliselt aeglasem, kuna see nõuab mitut järjestikust sammu (kaltsiumi sissevool, vesiikulite sulandumine, neurotransmitteri difusioon, retseptoriga seondumine), mida puhtalt elektriline signaal ei vaja; see sünaptiline viivitus on tõeline ja mõõdetav, erinevalt haruldasemate elektriliste sünapside peaaegu hetkelisest ülekandest.",
+    "sourceHash": "34fb92cb8222b1fb",
+    "stale": false
+  }
+}

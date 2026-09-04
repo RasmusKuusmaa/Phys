@@ -1,0 +1,21 @@
+{
+  "id": "synaptic-transmission-and-neurotransmitters",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "neuroscience",
+  "title": {
+    "en": "Synaptic transmission and neurotransmitters",
+    "et": "Sünaptiline ülekanne ja neurotransmitterid",
+    "sourceHash": "56a99470e2b4bf06",
+    "stale": false
+  },
+  "summary": {
+    "en": "When an action potential reaches the end of an axon, it arrives at a synapse -- a junction with another cell -- and at the vast majority of synapses in the nervous system, the signal switches from electrical to chemical at exactly this point: the arriving impulse opens voltage-gated calcium channels, calcium influx triggers small vesicles full of neurotransmitter to fuse with the membrane and dump their contents into the narrow synaptic cleft, and the neurotransmitter diffuses across and binds receptors on the receiving (postsynaptic) cell. What happens next depends entirely on which neurotransmitter binds which receptor, not on any property of the electrical signal that triggered its release: glutamate binding an excitatory receptor typically depolarizes the postsynaptic cell, nudging it toward firing its own action potential, while GABA binding an inhibitory receptor typically hyperpolarizes it, pushing it further from firing -- so the same original signal can either excite or inhibit the next cell in the chain purely based on the chemistry of that specific synapse. A much smaller minority of synapses are electrical rather than chemical, with the two cells' membranes directly connected through gap junctions that let ion current flow straight across with no chemical step and essentially no delay, trading the flexibility of chemical modulation for speed -- useful where many neurons need to fire in near-perfect synchrony.",
+    "et": "Kui aktsioonipotentsiaal jõuab aksoni otsani, saabub see sünapsi juurde -- ühenduskohta teise rakuga --, ning valdavas enamikus närvisüsteemi sünapsides vahetub signaal just sel hetkel elektrilisest keemiliseks: saabuv impulss avab pingesõltuvad kaltsiumikanalid, kaltsiumi sissevool käivitab väikeste, neurotransmitteritäis vesiikulite sulandumise membraaniga ja nende sisu tühjendamise kitsasse sünaptilisse pilusse, ning neurotransmitter difundeerub üle ja seondub retseptoritega vastuvõtval (postsünaptilisel) rakul. See, mis järgmisena juhtub, sõltub täielikult sellest, milline neurotransmitter millise retseptoriga seondub, mitte vabastamist käivitanud elektrilise signaali mistahes omadusest: glutamaat, mis seondub ergastava retseptoriga, tavaliselt depolariseerib postsünaptilise raku, tõugates seda oma aktsioonipotentsiaali tulistamise poole, samas kui GABA, mis seondub pärssiva retseptoriga, tavaliselt hüperpolariseerib seda, tõugates seda tulistamisest kaugemale -- nii et sama algne signaal võib järgmist rakku ahelas kas ergastada või pärssida puhtalt selle konkreetse sünapsi keemia põhjal. Palju väiksem vähemus sünapsidest on keemiliste asemel elektrilised, kus kahe raku membraanid on otse ühendatud pilujunktsioonide kaudu, mis lasevad ioonvoolul otse üle voolata ilma keemilise vaheetapita ja praktiliselt viivituseta, vahetades keemilise moduleerimise paindlikkuse kiiruse vastu -- kasulik seal, kus paljud neuronid peavad tulistama peaaegu täiuslikus sünkroonis.",
+    "sourceHash": "29adb224365b5150",
+    "stale": false
+  },
+  "prerequisites": [
+    "neuron-structure-and-the-action-potential"
+  ]
+}

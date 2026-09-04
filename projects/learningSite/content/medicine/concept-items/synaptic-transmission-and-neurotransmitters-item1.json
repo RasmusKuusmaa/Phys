@@ -1,0 +1,56 @@
+{
+  "id": "synaptic-transmission-and-neurotransmitters-item1",
+  "conceptId": "synaptic-transmission-and-neurotransmitters",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Acetylcholine excites skeletal muscle cells at the neuromuscular junction but inhibits heart muscle cells at a different type of synapse. What does this tell you about how neurotransmitters work?",
+    "et": "Atsetüülkoliin ergastab skeletilihasrakke neuromuskulaarses ühenduses, kuid pärsib südamelihasrakke teist tüüpi sünapsis. Mida see ütleb neurotransmitterite toimimise kohta?",
+    "sourceHash": "fbf0a347646d3828",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Whether a neurotransmitter excites or inhibits the receiving cell depends on which receptor it binds, not on a fixed excitatory/inhibitory property of the neurotransmitter molecule itself.",
+        "et": "See, kas neurotransmitter ergastab või pärsib vastuvõtvat rakku, sõltub retseptorist, millega see seondub, mitte neurotransmitteri molekuli enda fikseeritud ergastavast/pärssivast omadusest.",
+        "sourceHash": "ad8a01366ee2b9aa",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It's an unusual exception -- most neurotransmitters have one fixed effect (excitatory or inhibitory) no matter which receptor they bind.",
+        "et": "See on ebatavaline erand -- enamikul neurotransmitteritel on üks fikseeritud toime (ergastav või pärssiv), sõltumata sellest, millise retseptoriga need seonduvad.",
+        "sourceHash": "680585c07815eb2b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "synaptic-transmission-and-neurotransmitters-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It means acetylcholine transmits instantly at both synapse types with no measurable delay, unlike other neurotransmitters.",
+        "et": "See tähendab, et atsetüülkoliin kandub mõlemal sünapsi tüübil edasi hetkeliselt ilma mõõdetava viivituseta, erinevalt teistest neurotransmitteritest.",
+        "sourceHash": "57ad1c5e2b1e6171",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "synaptic-transmission-and-neurotransmitters-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It means acetylcholine is released in different quantities at each location, and quantity alone determines whether the effect is excitatory or inhibitory.",
+        "et": "See tähendab, et atsetüülkoliini vabaneb igas kohas erinevas koguses ning ainuüksi kogus määrab, kas toime on ergastav või pärssiv.",
+        "sourceHash": "49aa843bc2739265",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "synaptic-transmission-and-neurotransmitters-m3"
+    }
+  ]
+}

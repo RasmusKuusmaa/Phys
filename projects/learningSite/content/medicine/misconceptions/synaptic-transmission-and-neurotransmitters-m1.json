@@ -1,0 +1,10 @@
+{
+  "id": "synaptic-transmission-and-neurotransmitters-m1",
+  "conceptId": "synaptic-transmission-and-neurotransmitters",
+  "text": {
+    "en": "All neurotransmitters are either purely excitatory or purely inhibitory as a fixed property of the molecule itself -- in reality, whether a neurotransmitter excites or inhibits the postsynaptic cell depends on the receptor it binds, not the neurotransmitter alone: the same neurotransmitter (acetylcholine, for instance) can be excitatory at one type of receptor and inhibitory at another.",
+    "et": "Kõik neurotransmitterid on kas puhtalt ergastavad või puhtalt pärssivad, nagu oleks see molekuli enda püsiomadus -- tegelikult sõltub see, kas neurotransmitter ergastab või pärsib postsünaptilist rakku, retseptorist, millega see seondub, mitte üksnes neurotransmitterist endast: sama neurotransmitter (näiteks atsetüülkoliin) võib olla ergastav ühte tüüpi retseptori juures ja pärssiv teist tüüpi retseptori juures.",
+    "sourceHash": "0abec8f116bfadae",
+    "stale": false
+  }
+}
