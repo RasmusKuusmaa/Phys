@@ -1,0 +1,10 @@
+{
+  "id": "apoptosis-and-programmed-cell-death-m1",
+  "conceptId": "apoptosis-and-programmed-cell-death",
+  "text": {
+    "en": "Apoptosis and necrosis are basically the same thing -- both are just a cell dying -- in reality, they are fundamentally different processes: apoptosis is an active, energy-requiring, tightly controlled process where the cell membrane stays intact and contents are cleanly packaged for removal, while necrosis is an unplanned, uncontrolled death (usually from acute injury) where the cell membrane ruptures and its contents spill out, triggering inflammation -- the two differ in mechanism and consequence, not just in name.",
+    "et": "Apoptoos ja nekroos on sisuliselt sama asi -- mõlemad on lihtsalt raku surm -- tegelikult on need põhimõtteliselt erinevad protsessid: apoptoos on aktiivne, energiat nõudev, rangelt kontrollitud protsess, kus rakumembraan jääb terveks ning sisu pakendatakse puhtalt eemaldamiseks, samas kui nekroos on planeerimata, kontrollimatu surm (tavaliselt ägeda vigastuse tagajärjel), kus rakumembraan puruneb ja selle sisu lekib välja, käivitades põletiku -- need kaks erinevad mehhanismi ja tagajärje poolest, mitte ainult nime poolest.",
+    "sourceHash": "fde724ee6bf525da",
+    "stale": false
+  }
+}

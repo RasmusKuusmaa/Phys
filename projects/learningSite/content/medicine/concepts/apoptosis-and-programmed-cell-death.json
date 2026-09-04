@@ -1,0 +1,21 @@
+{
+  "id": "apoptosis-and-programmed-cell-death",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "cell-and-molecular-biology",
+  "title": {
+    "en": "Apoptosis and programmed cell death",
+    "et": "Apoptoos ja programmeeritud rakusurm",
+    "sourceHash": "eef4aecdf433a712",
+    "stale": false
+  },
+  "summary": {
+    "en": "Not all cell death is an accident: apoptosis is a tightly controlled, energy-requiring process a cell actively carries out on itself, triggered either from outside (a death receptor on the cell surface binding a signaling molecule) or from inside (severe, irreparable DNA damage or mitochondrial stress), and it proceeds through a fixed cascade of proteolytic enzymes called caspases that systematically dismantle the cell from within -- the DNA is fragmented, the cell shrinks and breaks into small membrane-bound fragments (apoptotic bodies), and, critically, the cell membrane itself stays intact throughout, displaying signals that summon nearby phagocytic cells to cleanly engulf the fragments before any of the cell's contents leak into the surrounding tissue. This is the essential contrast with necrosis, an unplanned, uncontrolled cell death typically caused by acute injury (trauma, toxins, oxygen deprivation), in which the cell swells and its membrane ruptures, spilling its contents into the surrounding tissue and triggering local inflammation -- apoptosis is the cell equivalent of a controlled demolition, necrosis is the cell equivalent of an explosion. Far from being a pathological failure, apoptosis is a normal, essential, and constant process: it sculpts developing tissues (the separation of individual fingers during embryonic development happens by apoptosis of the webbing between them), it eliminates cells that fail quality-control checks (including cells with DNA damage that could otherwise become cancerous, and immune cells that would attack the body's own tissue), and an adult human body eliminates on the order of tens of billions of cells to apoptosis every single day as a routine part of normal tissue turnover.",
+    "et": "Mitte kõik rakusurm ei ole õnnetus: apoptoos on rangelt kontrollitud, energiat nõudev protsess, mida rakk teostab aktiivselt iseenda peal, käivitatuna kas väljastpoolt (rakupinnal olev surmaretseptor seondub signaalmolekuliga) või seestpoolt (tõsine, parandamatu DNA kahjustus või mitokondriaalne stress), ning see kulgeb kindla proteolüütiliste ensüümide kaskaadi kaudu, mida nimetatakse kaspaasideks, mis süstemaatiliselt lammutavad raku seestpoolt -- DNA killustatakse, rakk kahaneb ja laguneb väikesteks membraaniga ümbritsetud fragmentideks (apoptootilised kehakesed), ning oluliselt jääb rakumembraan ise kogu protsessi vältel terveks, kuvades signaale, mis kutsuvad lähedal asuvaid fagotsütoosivõimelisi rakke fragmente puhtalt alla neelama, enne kui midagi raku sisust ümbritsevasse koesse lekib. See ongi oluline kontrast nekroosiga, planeerimata, kontrollimatu rakusurmaga, mille põhjustab tavaliselt äge vigastus (trauma, toksiinid, hapnikupuudus), mille käigus rakk paisub ja tema membraan puruneb, lekitades oma sisu ümbritsevasse koesse ning käivitades kohaliku põletiku -- apoptoos on raku vaste kontrollitud lammutamisele, nekroos on raku vaste plahvatusele. Kaugel sellest, et olla patoloogiline rike, on apoptoos normaalne, hädavajalik ja pidev protsess: see vormib arenevaid kudesid (üksikute sõrmede eraldumine embrüonaalse arengu käigus toimub sõrmedevahelise naha apoptoosi kaudu), see eemaldab rakud, mis ei läbi kvaliteedikontrolli (kaasa arvatud DNA kahjustusega rakud, mis muidu võiksid muutuda vähirakkudeks, ning immuunrakud, mis ründaksid keha enda kudesid), ning täiskasvanud inimese keha eemaldab apoptoosi kaudu iga päev tavapärase koeuuenduse osana kümneid miljardeid rakke.",
+    "sourceHash": "cb4f6e07c1d1c1e0",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-cell-cycle-and-mitosis"
+  ]
+}

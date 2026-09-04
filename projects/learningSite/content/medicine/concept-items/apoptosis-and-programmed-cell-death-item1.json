@@ -1,0 +1,56 @@
+{
+  "id": "apoptosis-and-programmed-cell-death-item1",
+  "conceptId": "apoptosis-and-programmed-cell-death",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two cells die under different circumstances: Cell A's membrane stays intact while it breaks into small fragments that are cleanly engulfed by nearby cells, and Cell B's membrane ruptures, spilling its contents and triggering local inflammation. What best describes what happened to each cell?",
+    "et": "Kaks rakku surevad erinevatel asjaoludel: Raku A membraan jääb terveks, samal ajal kui see laguneb väikesteks fragmentideks, mida lähedal asuvad rakud puhtalt alla neelavad, ning Raku B membraan puruneb, lekitades oma sisu ja käivitades kohaliku põletiku. Mis kirjeldab kõige paremini, mis kummagi rakuga juhtus?",
+    "sourceHash": "2c7fa0e0ac826ff2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Cell A underwent apoptosis, a controlled, active process; Cell B underwent necrosis, an unplanned, uncontrolled death, typically from acute injury.",
+        "et": "Rakk A läbis apoptoosi, kontrollitud, aktiivse protsessi; Rakk B läbis nekroosi, planeerimata, kontrollimatu surma, mis tavaliselt tuleneb ägedast vigastusest.",
+        "sourceHash": "07f7f187493ff08e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both cells underwent the same process, apoptosis, just with slightly different visible outcomes, since apoptosis and necrosis are simply two names for the same event.",
+        "et": "Mõlemad rakud läbisid sama protsessi, apoptoosi, ainult veidi erinevate nähtavate tulemustega, kuna apoptoos ja nekroos on lihtsalt kaks nimetust samale sündmusele.",
+        "sourceHash": "cedd3ee7ad874c39",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "apoptosis-and-programmed-cell-death-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Cell A's death indicates a serious disease process, since apoptosis only occurs when something has gone wrong, while Cell B's death is a normal, healthy event.",
+        "et": "Raku A surm viitab tõsisele haigusprotsessile, kuna apoptoos toimub ainult siis, kui midagi on valesti läinud, samas kui Raku B surm on normaalne, terve sündmus.",
+        "sourceHash": "eba04bc2ed393d18",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "apoptosis-and-programmed-cell-death-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Cell A's outcome is actually what defines necrosis, since necrosis is characterized by an intact membrane and clean fragmentation, while apoptosis involves membrane rupture.",
+        "et": "Raku A tulemus on tegelikult see, mis defineerib nekroosi, kuna nekroosi iseloomustab terve membraan ja puhas fragmenteerumine, samas kui apoptoos hõlmab membraani purunemist.",
+        "sourceHash": "f4354df563f3ab06",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "apoptosis-and-programmed-cell-death-m3"
+    }
+  ]
+}
