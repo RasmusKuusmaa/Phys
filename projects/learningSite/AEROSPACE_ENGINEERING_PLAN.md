@@ -97,25 +97,44 @@ approach MS2 used. Checked each against physics/materials-science before
 locking the list: none overlap an existing cross-subject concept (the
 architecture has no cross-subject prerequisites anyway, per `QUESTIONS.md`).
 
-- [ ] Aircraft performance (range and endurance, the Breguet range equation,
+- [x] Aircraft performance (range and endurance, the Breguet range equation,
       payload-range tradeoffs — the applied performance-analysis layer on
       top of propulsion and aerodynamics; prerequisites:
-      propulsion-fundamentals, aerodynamics-fundamentals)
-- [ ] Avionics and flight control systems (fly-by-wire, autopilot basics,
+      propulsion-fundamentals, aerodynamics-fundamentals; formalised the
+      Breguet range equation as a formula + problem template + error model)
+- [x] Avionics and flight control systems (fly-by-wire, autopilot basics,
       sensor suites — attitude/air-data sensing feeding the control
       surfaces already introduced; prerequisite:
-      flight-dynamics-and-stability)
-- [ ] Spacecraft subsystems (attitude determination and control, thermal
+      flight-dynamics-and-stability; kept conceptual)
+- [x] Spacecraft subsystems (attitude determination and control, thermal
       control, electrical power systems — the engineering-bus topics a
       spacecraft needs beyond its orbit; prerequisite:
-      orbital-mechanics-and-spaceflight)
-- [ ] Aeroelasticity (flutter, divergence, structural-aerodynamic coupling —
+      orbital-mechanics-and-spaceflight; kept conceptual)
+- [x] Aeroelasticity (flutter, divergence, structural-aerodynamic coupling —
       a genuinely distinct topic combining aircraft-structures and
       aerodynamics-fundamentals, absent from both individually;
-      prerequisites: aircraft-structures, aerodynamics-fundamentals)
-- [ ] Hypersonic aerothermodynamics (aerodynamic heating, stagnation
+      prerequisites: aircraft-structures, aerodynamics-fundamentals; kept
+      conceptual — divergence/flutter are stability-boundary phenomena, not
+      single clean formulas)
+- [x] Hypersonic aerothermodynamics (aerodynamic heating, stagnation
       temperature, thermal protection systems — the high-speed-flight
       topic compressible-flow-and-gas-dynamics sets up but doesn't cover;
-      prerequisite: compressible-flow-and-gas-dynamics)
+      prerequisite: compressible-flow-and-gas-dynamics; kept conceptual)
+
+Phase AE2 complete: 11 aerospace-engineering concepts total (5 new Phase-AE2
+concepts on top of the 6-concept Phase AE1 baseline). `npm run
+validate:content` (494 concepts, 7 subjects), `npm run lint:terminology`
+(248 glossary terms — added `specific-fuel-consumption` for the Breguet
+formula, the only new term this phase needed; reused `distance`, `velocity`,
+`mass`, and `coefficient` for the formula's other symbols, same generic-name
+convention Phase AE1 used for the Tsiolkovsky equation), and `npm run
+typecheck` all pass; every resource URL verified live individually with
+`curl` (repo-wide `npm run check:links` is rate-limited by Wikipedia at this
+site's scale, same adjustment Phase AE1 recorded). A handful of Estonian
+aerospace terms with no existing glossary/Wikipedia precedent were coined
+this phase (e.g. "flatter" kept as a loanword for aeroelastic flutter,
+"reaktsioonihoorattas" for reaction wheel, "erikütusekulu" for specific fuel
+consumption) — same unreviewed-terminology caveat as Phase AE1 and the
+MSc-physics phase, flagged for a native-speaker/domain-expert pass.
 
 ---
