@@ -42,14 +42,16 @@ at bachelor level alongside the existing organic-chemistry concepts, not
 held back for a graduate phase, so it's grouped here rather than in the L4
 phase below.
 
-- [ ] Stereochemistry and chirality (enantiomers, R/S nomenclature, optical
+- [x] Stereochemistry and chirality (enantiomers, R/S nomenclature, optical
       activity — a standard bachelor organic-chemistry topic currently
       entirely absent despite nucleophilic-substitution already discussing
       stereochemical outcome in passing)
-- [ ] NMR spectroscopy (chemical shift, coupling, structure elucidation —
+- [x] NMR spectroscopy (chemical shift, coupling, structure elucidation —
       analytical chemistry currently has mass spectrometry and UV-Vis but
       no NMR at all, a striking gap given NMR's centrality to real organic
       structure determination)
+
+Phase C1 complete: 37 chemistry concepts.
 
 ## Phase C2 — graduate-level (L4) chemistry, first pass
 
