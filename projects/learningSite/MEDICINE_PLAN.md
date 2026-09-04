@@ -167,4 +167,26 @@ systems.
       digestion and absorption, the liver/pancreas's digestive roles; no
       prerequisites)
 
+Module complete: 6 human-anatomy-and-physiology concepts, all kept
+conceptual. A cardiac-output formula (HR × SV) was considered for the
+cardiovascular concept but skipped: the unit registry
+(`src/lib/units/registry.ts`) has no litre- or minute-based unit, and adding
+one is a code change outside a content-only phase's scope — same reasoning
+Phase AE3 used for a missing m^4 unit. `npm run validate:content`, `npm run
+lint:terminology`, and `npm run typecheck` all pass; every resource URL
+verified live with `curl`.
+
+Phase Med1 complete: 12 medicine concepts total (the subject's first
+concepts). This phase ran as two parallel forks sharing one working tree
+rather than separate git worktrees, which caused one benign race (a
+`cannot lock ref 'HEAD'` retry, and one module's docs commit folding into
+the other's) — no data loss, both modules' content and checkbox state are
+correct; noting it here in case a future multi-fork phase on this site
+wants separate worktrees instead. `npm run validate:content` (9 subjects,
+525 concepts), `npm run lint:terminology` (250 glossary terms — this
+phase's anatomy/cell-biology vocabulary was written directly into Estonian
+prose rather than glossary-locked, since none of it was a formula symbol
+name, the only thing the linter's untranslated-term check enforces), and
+`npm run typecheck` all pass; working tree clean.
+
 ---
