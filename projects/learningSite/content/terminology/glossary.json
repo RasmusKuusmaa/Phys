@@ -385,6 +385,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/dopeerimine/1/est"
   },
   {
+    "id": "dose",
+    "en": "dose",
+    "et": "annus",
+    "domain": "pharmacology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/annus/1/est"
+  },
+  {
     "id": "doubling-time",
     "en": "doubling time",
     "et": "kahekordistumisaeg",
@@ -1190,6 +1197,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/asukoha%20m%C3%A4%C3%A4ramatus/1/est"
   },
   {
+    "id": "positive-predictive-value",
+    "en": "positive predictive value",
+    "et": "positiivne ennustusväärtus",
+    "domain": "epidemiology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/ennustusv%C3%A4%C3%A4rtus/1/est"
+  },
+  {
     "id": "potential-energy",
     "en": "potential energy",
     "et": "potentsiaalne energia",
@@ -1230,6 +1244,13 @@
     "et": "rõhulang",
     "domain": "fluid-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/rõhulang/1/est"
+  },
+  {
+    "id": "prevalence",
+    "en": "prevalence",
+    "et": "levimus",
+    "domain": "epidemiology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/levimus/1/est"
   },
   {
     "id": "probability",
@@ -1456,6 +1477,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/pooljuht/1/est"
   },
   {
+    "id": "sensitivity",
+    "en": "sensitivity",
+    "et": "tundlikkus",
+    "domain": "epidemiology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/tundlikkus/1/est"
+  },
+  {
     "id": "significant-figures",
     "en": "significant figures",
     "et": "tüvinumbrid",
@@ -1496,6 +1524,13 @@
     "et": "eriimpulss",
     "domain": "propulsion",
     "source": "https://sonaveeb.ee/search/unif/est/eki/impulss/1/est"
+  },
+  {
+    "id": "specificity",
+    "en": "specificity",
+    "et": "spetsiifilisus",
+    "domain": "epidemiology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/spetsiifilisus/1/est"
   },
   {
     "id": "speed",
@@ -1601,6 +1636,13 @@
     "et": "teststatistik",
     "domain": "mathematics",
     "source": "https://kodu.ut.ee/~maitraag/epi/_book/statistiline-h%C3%BCpoteeside-testimine.html"
+  },
+  {
+    "id": "therapeutic-index",
+    "en": "therapeutic index",
+    "et": "terapeutiline indeks",
+    "domain": "pharmacology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/terapeutiline/1/est"
   },
   {
     "id": "thermal-conduction",
