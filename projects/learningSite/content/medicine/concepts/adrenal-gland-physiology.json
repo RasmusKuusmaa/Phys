@@ -1,0 +1,21 @@
+{
+  "id": "adrenal-gland-physiology",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "endocrinology",
+  "title": {
+    "en": "Adrenal gland physiology",
+    "et": "Neerupealise füsioloogia",
+    "sourceHash": "65d40a50dea45161",
+    "stale": false
+  },
+  "summary": {
+    "en": "Each adrenal gland is really two separate endocrine organs stacked together: an outer cortex, which produces steroid hormones under hypothalamic-pituitary control, and an inner medulla, which is functionally an extension of the sympathetic nervous system rather than a classic feedback-regulated gland. The adrenal cortex produces cortisol under the same kind of hypothalamic-pituitary-adrenal (HPA) axis negative feedback loop that governs the thyroid -- CRH from the hypothalamus stimulates ACTH from the pituitary, which stimulates cortisol release, and rising cortisol suppresses both CRH and ACTH -- and cortisol's job extends well beyond the popular \"stress hormone\" label: it raises blood glucose, suppresses immune activity, and helps the body sustain a prolonged physiological demand rather than just triggering a momentary alarm. A separate cortical zone produces aldosterone, controlled not by the pituitary but by a different system (the renin-angiotensin-aldosterone system) that responds to blood pressure and sodium levels, driving the kidneys to retain sodium and excrete potassium. The adrenal medulla, by contrast, releases epinephrine and norepinephrine directly into the bloodstream the instant it receives a sympathetic nerve signal -- essentially a hormonal amplifier of the nervous system's own fight-or-flight response, acting in seconds rather than the minutes-to-hours typical of the cortical hormones.",
+    "et": "Iga neerupealine on tegelikult kaks eraldi endokriinorganit, mis on üksteise peale kihilised: väline koor, mis toodab steroidhormoone hüpotalamuse-hüpofüüsi kontrolli all, ning sisemine säsi, mis on funktsionaalselt pigem sümpaatilise närvisüsteemi pikendus kui klassikaline tagasisidega reguleeritud nääre. Neerupealise koor toodab kortisooli sama tüüpi hüpotalamuse-hüpofüüsi-neerupealise (HPA) telje negatiivse tagasiside ahela all, mis juhib kilpnääret -- hüpotalamuse CRH stimuleerib ACTH-d hüpofüüsist, mis stimuleerib kortisooli vabanemist, ning tõusev kortisooli tase pärsib nii CRH-d kui ACTH-d -- ning kortisooli ülesanne ulatub kaugemale populaarsest \"stressihormooni\" sildist: see tõstab vere glükoositaset, pärsib immuunaktiivsust ning aitab kehal pikaajalist füsioloogilist koormust taluda, mitte lihtsalt hetkelist häiret käivitada. Eraldi koore tsoon toodab aldosterooni, mida ei kontrolli hüpofüüs, vaid teine süsteem (reniin-angiotensiin-aldosterooni süsteem), mis reageerib vererõhule ja naatriumitasemele, juhtides neerusid naatriumi tagasi hoidma ja kaaliumi eritama. Neerupealise säsi seevastu vabastab epinefriini ja norepinefriini otse vereringesse hetkel, mil see saab sümpaatilise närvisignaali -- sisuliselt närvisüsteemi enda võitle-või-põgene reaktsiooni hormonaalne võimendaja, toimides sekundite, mitte koore hormoonidele tüüpiliste minutite kuni tundide jooksul.",
+    "sourceHash": "c8391a767422c60f",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-hypothalamic-pituitary-axis"
+  ]
+}

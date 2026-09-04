@@ -1,0 +1,10 @@
+{
+  "id": "adrenal-gland-physiology-m2",
+  "conceptId": "adrenal-gland-physiology",
+  "text": {
+    "en": "The adrenal cortex and adrenal medulla are just two names for the same tissue doing the same job -- in reality, the cortex and medulla are functionally distinct organs sharing one physical gland: the cortex is a classic hormone-secreting gland under hypothalamic-pituitary (and, for aldosterone, renin-angiotensin) control, while the medulla is essentially a specialized sympathetic nerve ending that releases its hormones directly in response to a nerve signal rather than a hormonal feedback loop.",
+    "et": "Neerupealise koor ja säsi on lihtsalt kaks nime sama koe kohta, mis teeb sama tööd -- tegelikult on koor ja säsi funktsionaalselt erinevad organid, mis jagavad üht füüsilist näärmet: koor on klassikaline hormoone eritav nääre hüpotalamuse-hüpofüüsi (ja aldosterooni puhul reniin-angiotensiini) kontrolli all, samas kui säsi on sisuliselt spetsialiseerunud sümpaatiline närvilõpe, mis vabastab oma hormoonid otse vastuseks närvisignaalile, mitte hormonaalsele tagasisideahelale.",
+    "sourceHash": "10c89c9969dd6474",
+    "stale": false
+  }
+}

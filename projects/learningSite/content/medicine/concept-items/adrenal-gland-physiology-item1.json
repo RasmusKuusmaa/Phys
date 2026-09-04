@@ -1,0 +1,56 @@
+{
+  "id": "adrenal-gland-physiology-item1",
+  "conceptId": "adrenal-gland-physiology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does adrenaline (epinephrine) produce its effects within seconds, while cortisol's effects unfold over a much longer timescale, even though both come from the adrenal gland?",
+    "et": "Miks tekitab adrenaliin (epinefriin) oma mõjud sekunditega, samas kui kortisooli mõjud avalduvad palju pikema aja jooksul, kuigi mõlemad pärinevad neerupealisest?",
+    "sourceHash": "bc2eb7f2a279e147",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Adrenaline is released by the adrenal medulla directly in response to a sympathetic nerve signal, essentially amplifying the nervous system's own fast response, while cortisol comes from the adrenal cortex via a slower hypothalamic-pituitary-adrenal hormonal feedback loop.",
+        "et": "Adrenaliini vabastab neerupealise säsi otse vastuseks sümpaatilisele närvisignaalile, sisuliselt võimendades närvisüsteemi enda kiiret reaktsiooni, samas kui kortisool pärineb neerupealise koorest aeglasema hüpotalamuse-hüpofüüsi-neerupealise hormonaalse tagasisideahela kaudu.",
+        "sourceHash": "a7a0a65ff30cae1c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Cortisol and adrenaline are actually the same hormone released from different parts of the gland, so the speed difference is just due to the amount released each time.",
+        "et": "Kortisool ja adrenaliin on tegelikult sama hormoon, mida vabastatakse näärme erinevatest osadest, mistõttu kiiruse erinevus tuleneb lihtsalt iga kord vabastatud kogusest.",
+        "sourceHash": "bc0e260d92198997",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adrenal-gland-physiology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The adrenal cortex and adrenal medulla are the same tissue, so any timing difference must come from outside the adrenal gland entirely.",
+        "et": "Neerupealise koor ja säsi on sama kude, mistõttu peab mistahes ajastuse erinevus tulenema täielikult väljastpoolt neerupealist.",
+        "sourceHash": "4fd7528aab627e28",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adrenal-gland-physiology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Cortisol is regulated by the renin-angiotensin-aldosterone system, which inherently works more slowly than the nervous system regulating adrenaline.",
+        "et": "Kortisooli reguleerib reniin-angiotensiin-aldosterooni süsteem, mis toimib olemuslikult aeglasemalt kui adrenaliini reguleeriv närvisüsteem.",
+        "sourceHash": "35ab91bf3bcd43f7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adrenal-gland-physiology-m3"
+    }
+  ]
+}

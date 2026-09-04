@@ -1,0 +1,10 @@
+{
+  "id": "adrenal-gland-physiology-m1",
+  "conceptId": "adrenal-gland-physiology",
+  "text": {
+    "en": "Cortisol's only function is to respond to acute stress in the moment, like adrenaline does -- in reality, cortisol acts over a much slower timescale than adrenaline and has ongoing baseline functions well beyond acute stress: raising blood glucose, suppressing immune activity, and maintaining function during sustained physiological demand; adrenaline (from the adrenal medulla) is the fast, seconds-scale fight-or-flight hormone, while cortisol (from the adrenal cortex) is the slower, sustained-response hormone -- conflating the two misses why they exist as separate systems.",
+    "et": "Kortisooli ainus funktsioon on reageerida ägedale stressile hetkel, samamoodi nagu adrenaliin -- tegelikult toimib kortisool palju aeglasemal ajaskaalal kui adrenaliin ning omab pidevaid baasfunktsioone, mis ulatuvad kaugemale ägedast stressist: vere glükoositaseme tõstmine, immuunaktiivsuse pärssimine ning keha funktsiooni säilitamine pikaajalise füsioloogilise koormuse ajal; adrenaliin (neerupealise säsist) on kiire, sekundite-skaalal võitle-või-põgene hormoon, samas kui kortisool (neerupealise koorest) on aeglasem, püsiva reaktsiooni hormoon -- nende segiajamine jätab kahe silma vahele, miks need eksisteerivad eraldi süsteemidena.",
+    "sourceHash": "cd785ea6b6809514",
+    "stale": false
+  }
+}

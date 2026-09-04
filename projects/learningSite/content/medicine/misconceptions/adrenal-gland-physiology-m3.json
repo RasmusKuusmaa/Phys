@@ -1,0 +1,10 @@
+{
+  "id": "adrenal-gland-physiology-m3",
+  "conceptId": "adrenal-gland-physiology",
+  "text": {
+    "en": "Aldosterone is regulated by the pituitary gland the same way cortisol is -- in reality, aldosterone release is controlled primarily by the renin-angiotensin-aldosterone system, which responds to blood pressure and blood sodium levels, not by pituitary ACTH the way cortisol is -- this is why aldosterone and cortisol, despite coming from the same gland, can be regulated almost independently of each other.",
+    "et": "Aldosterooni reguleerib hüpofüüs samamoodi nagu kortisooli -- tegelikult kontrollib aldosterooni vabanemist peamiselt reniin-angiotensiin-aldosterooni süsteem, mis reageerib vererõhule ja vere naatriumitasemele, mitte hüpofüüsi ACTH nagu kortisooli puhul -- see on põhjus, miks aldosterooni ja kortisooli, hoolimata pärinemisest samast näärmest, saab reguleerida peaaegu üksteisest sõltumatult.",
+    "sourceHash": "b48740a0add4c16f",
+    "stale": false
+  }
+}
