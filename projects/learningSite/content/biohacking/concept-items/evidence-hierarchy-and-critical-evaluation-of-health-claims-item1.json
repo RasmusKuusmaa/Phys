@@ -1,0 +1,56 @@
+{
+  "id": "evidence-hierarchy-and-critical-evaluation-of-health-claims-item1",
+  "conceptId": "evidence-hierarchy-and-critical-evaluation-of-health-claims",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A supplement company cites a study showing that people who took their product reported feeling more energetic than people who didn't. Why isn't this, by itself, strong evidence that the supplement works?",
+    "et": "Toidulisandifirma viitab uuringule, mis näitab, et nende toodet tarvitanud inimesed teatasid suuremast energilisusest kui need, kes seda ei tarvitanud. Miks ei ole see iseenesest tugev tõend, et toidulisand töötab?",
+    "sourceHash": "a878fd0a21a4d1cf",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because it's likely an observational study where people chose whether to take the supplement, so any difference in energy could come from other differences between the two groups (confounding) rather than from the supplement itself.",
+        "et": "Sest see on tõenäoliselt vaatlusuuring, kus inimesed valisid ise, kas toidulisandit tarvitada, mistõttu energiaerinevus võib tuleneda muudest erinevustest rühmade vahel (segavad tegurid), mitte toidulisandist endast.",
+        "sourceHash": "de8f7a7a59570814",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't a problem -- if real people reported feeling more energetic, that personal experience is already strong evidence the supplement works.",
+        "et": "See ei ole probleem -- kui pärisinimesed teatasid suuremast energilisusest, on see isiklik kogemus juba tugev tõend, et toidulisand töötab.",
+        "sourceHash": "aab22496f6fea834",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "evidence-hierarchy-and-critical-evaluation-of-health-claims-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It is strong evidence -- once a study on a topic has been published, the question of whether the supplement works is already settled.",
+        "et": "See on tugev tõend -- kui teema kohta on uuring avaldatud, on küsimus, kas toidulisand töötab, juba lahendatud.",
+        "sourceHash": "e20a12ecd88a1ed7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "evidence-hierarchy-and-critical-evaluation-of-health-claims-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The correlation shown already proves the supplement causes the energy increase, since the two groups clearly differ in reported energy levels.",
+        "et": "Näidatud korrelatsioon juba tõestab, et toidulisand põhjustab energia tõusu, kuna kaks rühma erinevad selgelt teatatud energiataseme poolest.",
+        "sourceHash": "030e07041241f36e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "evidence-hierarchy-and-critical-evaluation-of-health-claims-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "evidence-hierarchy-and-critical-evaluation-of-health-claims-m2",
+  "conceptId": "evidence-hierarchy-and-critical-evaluation-of-health-claims",
+  "text": {
+    "en": "A study published in a real scientific journal has already been proven correct, so citing 'a study found X' settles the question -- in reality, a single published study is one data point in an ongoing process, not a final verdict: it can be underpowered, poorly controlled, contradicted by later replications, or itself a product of publication bias favoring exciting positive results over null ones; what matters is the pattern across multiple well-designed studies, ideally a systematic review or meta-analysis, not any one paper in isolation.",
+    "et": "Teaduslikus ajakirjas avaldatud uuring on juba tõestatud õigeks, mistõttu viitamine \"üks uuring leidis X\" lahendab küsimuse -- tegelikult on üksik avaldatud uuring üks andmepunkt käimasolevas protsessis, mitte lõplik otsus: see võib olla alavõimsusega, halvasti kontrollitud, hilisemate korduskatsetega vastuolus, või ise avaldamisnihke saadus, mis eelistab põnevaid positiivseid tulemusi nulltulemustele; oluline on muster mitmete hästi kavandatud uuringute lõikes, ideaalis süstemaatiline ülevaade või metaanalüüs, mitte ükski üksik artikkel eraldi.",
+    "sourceHash": "f5b89ebd581f5099",
+    "stale": false
+  }
+}

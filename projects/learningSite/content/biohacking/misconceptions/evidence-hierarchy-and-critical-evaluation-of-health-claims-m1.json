@@ -1,0 +1,10 @@
+{
+  "id": "evidence-hierarchy-and-critical-evaluation-of-health-claims-m1",
+  "conceptId": "evidence-hierarchy-and-critical-evaluation-of-health-claims",
+  "text": {
+    "en": "If something worked for me personally, that's strong evidence it actually works, regardless of what any study says -- in reality, a personal experience with no control group can't distinguish a real effect from the placebo effect, regression to the mean, or simple coincidence; a single case, however convincing it feels, carries far less evidential weight than a properly controlled trial precisely because nothing was compared against what would have happened anyway.",
+    "et": "Kui miski töötas minu jaoks isiklikult, on see tugev tõend, et see tõesti töötab, sõltumata sellest, mida mistahes uuring ütleb -- tegelikult ei suuda isiklik kogemus ilma kontrollrühmata eristada tõelist efekti platseeboefektist, keskmise poole tagasipöördumisest või lihtsast juhusest; üksik juhtum, ükskõik kui veenev see ka ei tunduks, kannab palju vähem tõenduslikku kaalu kui korralikult kontrollitud uuring, just sellepärast, et midagi ei võrreldud sellega, mis oleks niikuinii juhtunud.",
+    "sourceHash": "883094c633d231da",
+    "stale": false
+  }
+}

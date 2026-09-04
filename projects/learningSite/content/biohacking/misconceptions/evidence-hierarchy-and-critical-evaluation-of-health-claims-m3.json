@@ -1,0 +1,10 @@
+{
+  "id": "evidence-hierarchy-and-critical-evaluation-of-health-claims-m3",
+  "conceptId": "evidence-hierarchy-and-critical-evaluation-of-health-claims",
+  "text": {
+    "en": "An observational study showing that people who do X also tend to have outcome Y proves that X causes Y -- in reality, an observational study can show that two things are correlated, but people who choose to do X often differ from people who don't in other ways too (confounding variables): X might not be causing Y at all, or a third factor might be causing both; only a randomized controlled trial, where the choice of who does X is taken out of participants' hands, can rule out that particular alternative explanation.",
+    "et": "Vaatlusuuring, mis näitab, et inimesed, kes teevad X, kalduvad ka omama tulemust Y, tõestab, et X põhjustab Y -- tegelikult saab vaatlusuuring näidata, et kaks asja on korrelatsioonis, kuid inimesed, kes valivad teha X, erinevad tihti neist, kes seda ei tee, ka muudes aspektides (segavad muutujad): X ei pruugi Y-d üldse põhjustada, või mingi kolmas tegur võib põhjustada mõlemat; ainult juhuslikustatud kontrollitud uuring, kus valik, kes X-i teeb, võetakse osalejate kätest ära, suudab selle konkreetse alternatiivse seletuse välistada.",
+    "sourceHash": "f5e3569a04b13294",
+    "stale": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "evidence-hierarchy-and-critical-evaluation-of-health-claims",
+  "subject": "biohacking",
+  "level": "L1",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Evidence hierarchy and critical evaluation of health claims",
+    "et": "Tõendite hierarhia ja terviseväidete kriitiline hindamine",
+    "sourceHash": "67a0977210a722e4",
+    "stale": false
+  },
+  "summary": {
+    "en": "Not all evidence for a health claim carries the same weight, and learning to rank it is one of the single most useful skills anyone doing self-experimentation can have: a randomized controlled trial, where participants are assigned by chance to a treatment or control group so that the two groups differ (on average) only in whether they got the treatment, sits far above an observational study, where researchers merely watch what already-different people happen to do and therefore can never fully rule out that some third factor -- not the treatment -- explains the outcome; and both sit far above a personal anecdote or testimonial, which carries no comparison group at all and is maximally vulnerable to the placebo effect, regression to the mean (feeling better after a bad day simply because bad days don't usually repeat, misattributed to whatever was tried that day), and confirmation bias. Compounding this, published research itself is subject to publication bias -- studies finding a positive, exciting effect are more likely to be submitted and accepted than studies finding no effect, so the published literature on a popular topic can look more favorable than the true underlying evidence actually is. None of this means personal experimentation is worthless; it means treating a single self-experiment, or a single testimonial from someone else, as strong evidence for a general claim is a specific, well-documented reasoning error, and building a habit of asking \"compared to what, assigned how, and published where\" turns a biohacking claim from something to believe or dismiss on vibes into something that can actually be evaluated.",
+    "et": "Mitte kõik tõendid terviseväite kohta ei kaalu ühtviisi, ning nende järjestamise oskus on üks kõige kasulikumaid oskusi, mis kellelgi eneseeksperimenteerimist tegeval inimesel olla saab: juhuslikustatud kontrollitud uuring, kus osalejad määratakse juhuslikult ravi- või kontrollrühma, nii et need kaks rühma erinevad (keskmiselt) ainult selle poolest, kas nad said ravi, seisab kaugelt kõrgemal vaatlusuuringust, kus teadlased lihtsalt jälgivad, mida juba erinevad inimesed juhtumisi teevad, ning ei suuda seetõttu kunagi täielikult välistada, et mõni kolmas tegur -- mitte ravi -- seletab tulemust; ning mõlemad seisavad kaugelt kõrgemal isiklikust kogemuslugust või tunnistusest, millel puudub igasugune võrdlusrühm ning mis on maksimaalselt haavatav platseeboefektile, keskmise poole tagasipöördumisele (halva päeva järel parem enesetunne lihtsalt seetõttu, et halvad päevad tavaliselt ei kordu, ekslikult omistatuna sellele, mida sel päeval prooviti) ja kinnitusnihkele. Seda süvendab asjaolu, et avaldatud teadustöö ise on avaldamisnihke suhtes haavatav -- uuringud, mis leiavad positiivse, huvitava efekti, jõuavad tõenäolisemalt esitamiseni ja avaldamiseni kui uuringud, mis efekti ei leia, mistõttu populaarse teema kohta avaldatud kirjandus võib näida soodsam, kui tegelik aluseks olev tõendusmaterjal tegelikult on. Miski sellest ei tähenda, et isiklik eksperimenteerimine oleks väärtusetu; see tähendab, et ühe iseenda eksperimendi või ühe teise inimese tunnistuse käsitlemine üldise väite tugeva tõendina on konkreetne, hästi dokumenteeritud arutlusviga, ning harjumus küsida \"võrreldes millega, kuidas määrati ja kus avaldati\" muudab biohäkkimise väite millestki, mida usutakse või lükatakse tagasi tunde järgi, milleski, mida saab tegelikult hinnata.",
+    "sourceHash": "a10eb5066749ae0e",
+    "stale": false
+  },
+  "prerequisites": []
+}
