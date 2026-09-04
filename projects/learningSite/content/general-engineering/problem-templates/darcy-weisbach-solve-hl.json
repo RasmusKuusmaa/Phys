@@ -1,0 +1,57 @@
+{
+  "id": "darcy-weisbach-solve-hl",
+  "formulaId": "darcy-weisbach-head-loss-formula",
+  "variables": [
+    {
+      "symbol": "f",
+      "min": 0.01,
+      "max": 0.05,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "L",
+      "min": 5,
+      "max": 500,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "D",
+      "min": 0.05,
+      "max": 1,
+      "unit": "m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "v",
+      "min": 0.1,
+      "max": 5,
+      "unit": "m/s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "f",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "L",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "D",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "v",
+      "right": 0
+    }
+  ],
+  "solveFor": "hL"
+}

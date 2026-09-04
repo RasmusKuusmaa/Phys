@@ -1,0 +1,19 @@
+{
+  "id": "engineering-fluid-mechanics",
+  "subject": "general-engineering",
+  "level": "L2",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Engineering fluid mechanics",
+    "et": "Tehniline vedelikumehaanika",
+    "sourceHash": "c2230740b9698dde",
+    "stale": false
+  },
+  "summary": {
+    "en": "Where physics-level fluid mechanics derives how a viscous fluid actually moves, engineering fluid mechanics asks a narrower, design-facing question: given a pipe network carrying a required flow rate, how much mechanical energy does the fluid lose to friction along the way, and how large a pump is needed to make up for it? Bernoulli's equation, extended with a head-loss term, tracks a fluid's mechanical energy per unit weight (its 'head', expressed as an equivalent height) between two points in a system, and the Darcy-Weisbach equation quantifies exactly how much of that head friction removes as the fluid travels through a pipe of a given length, diameter, and roughness at a given velocity -- a relationship that turns out to depend on velocity squared, not velocity itself, which is why doubling a system's flow rate demands much more than double the pumping power to sustain it.",
+    "et": "Kui füüsika tasandi vedelikumehaanika tuletab, kuidas viskoosne vedelik tegelikult liigub, siis tehniline vedelikumehaanika esitab kitsama, projekteerimisele suunatud küsimuse: kui palju mehaanilist energiat kaotab vedelik hõõrdumise tõttu, liikudes läbi nõutud vooluhulka kandva torustiku, ning kui suurt pumpa on vaja selle kompenseerimiseks? Bernoulli võrrand, laiendatuna kaokõrguse liikmega, jälgib vedeliku mehaanilist energiat kaaluühiku kohta ('survekõrgust', väljendatuna samaväärse kõrgusena) süsteemi kahe punkti vahel, ning Darcy-Weisbachi võrrand kvantifitseerib täpselt, kui palju sellest survekõrgusest hõõrdumine eemaldab, kui vedelik liigub läbi teatud pikkuse, läbimõõdu ja karedusega toru antud kiirusel -- seos, mis osutub sõltuvaks kiiruse ruudust, mitte kiirusest endast, mistõttu süsteemi vooluhulga kahekordistamine nõuab palju rohkem kui kahekordset pumpamisvõimsust selle ülal hoidmiseks.",
+    "sourceHash": "fbc75438b669dc17",
+    "stale": false
+  },
+  "prerequisites": []
+}

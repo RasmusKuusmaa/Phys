@@ -1,0 +1,10 @@
+{
+  "id": "engineering-fluid-mechanics-m2",
+  "conceptId": "engineering-fluid-mechanics",
+  "text": {
+    "en": "Believing pipe diameter barely matters compared to length, i.e. that a larger-diameter pipe segment can't meaningfully reduce losses compared to a longer, narrower one -- head loss depends strongly (inversely) on diameter, so seemingly modest increases in pipe diameter reduce head loss substantially, which is why real piping systems favor a larger diameter over a longer, friction-optimized narrow pipe when minimizing pumping losses matters.",
+    "et": "Arvamus, et suurema läbimõõduga toru segment ei vähenda kadusid märkimisväärselt võrreldes pikema, kitsama toruga, see tähendab, et läbimõõt ei oma suurt tähtsust -- survekõrgus sõltub läbimõõdust pöördvõrdeliselt tugevas astmes, mistõttu näiliselt tagasihoidlik läbimõõdu suurendamine vähendab survekõrgust märkimisväärselt, mistõttu reaalsed torusüsteemid eelistavad pumpamiskadude minimeerimisel suuremat läbimõõtu, mitte pikka optimeeritud hõõrdeteguriga toru.",
+    "sourceHash": "4b559deae6c4dd84",
+    "stale": false
+  }
+}

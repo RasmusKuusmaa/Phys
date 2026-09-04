@@ -1,0 +1,56 @@
+{
+  "id": "engineering-fluid-mechanics-item1",
+  "conceptId": "engineering-fluid-mechanics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A pipe's flow velocity is doubled while its length, diameter, and friction factor stay the same. What happens to the Darcy-Weisbach head loss, and is 'head loss' the same thing as an elevation drop?",
+    "et": "Toru voolukiirus kahekordistatakse, samas kui toru pikkus, läbimõõt ja hõõrdetegur jäävad samaks. Mis juhtub Darcy-Weisbachi survekõrguse kaoga ja kas 'survekõrguse kadu' on sama mis kõrguse langus?",
+    "sourceHash": "4a68ba7dda91c810",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Head loss quadruples, since it is proportional to velocity squared; and no, head loss is a measure of frictional energy dissipation, occurring even in a perfectly horizontal pipe with no elevation change.",
+        "et": "Survekõrguse kadu neljakordistub, kuna see on võrdeline kiiruse ruuduga; ja ei, survekõrguse kadu on mõõt hõõrdumisest tuleneva energia hajumise kohta, mis esineb ka täiesti horisontaalses torus, kus kõrguse muutust ei toimu.",
+        "sourceHash": "f174c5402ae9b72b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Head loss simply doubles, in direct proportion to velocity.",
+        "et": "Survekõrguse kadu lihtsalt kahekordistub, otseselt võrdeliselt kiirusega.",
+        "sourceHash": "000a92a4e7b0d86e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-fluid-mechanics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Head loss stays whatever the pipe's actual elevation drop is, regardless of velocity.",
+        "et": "Survekõrguse kadu jääb selliseks, milline on toru tegelik kõrguse langus, sõltumata kiirusest.",
+        "sourceHash": "13cabb7f1341fb89",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-fluid-mechanics-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Head loss is barely affected by pipe diameter, so only length and velocity really matter.",
+        "et": "Survekõrguse kadu ei sõltu peaaegu üldse toru läbimõõdust, seega loevad tegelikult ainult pikkus ja kiirus.",
+        "sourceHash": "66769db05598e409",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-fluid-mechanics-m2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "engineering-fluid-mechanics-m1",
+  "conceptId": "engineering-fluid-mechanics",
+  "text": {
+    "en": "Believing that doubling the flow velocity in a pipe simply doubles the frictional head loss -- Darcy-Weisbach head loss is proportional to velocity squared, so doubling velocity quadruples the head loss, not merely doubles it.",
+    "et": "Arvamus, et voolukiiruse kahekordistamine torus lihtsalt kahekordistab hõõrdumisest tuleneva survekõrguse kao -- Darcy-Weisbachi survekõrguse kadu on võrdeline kiiruse RUUDUGA, seega kiiruse kahekordistamine neljakordistab kao, mitte ei kahekorda seda.",
+    "sourceHash": "6c7c1e799eb45336",
+    "stale": false
+  }
+}

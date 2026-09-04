@@ -1,0 +1,10 @@
+{
+  "id": "engineering-fluid-mechanics-m3",
+  "conceptId": "engineering-fluid-mechanics",
+  "text": {
+    "en": "Believing 'head loss' refers only to a physical drop in the elevation (height) of the pipe -- head loss is a measure of mechanical energy per unit weight of fluid dissipated by friction (and fittings), expressed in units of length by convention, and it occurs even in a perfectly horizontal pipe with no elevation change at all.",
+    "et": "Arvamus, et 'survekõrguse kadu' tähendab ainult toru kõrguse füüsilist langust -- survekõrguse kadu on mõõt hõõrdumise (ja liitedetailide) poolt hajutatud mehaanilisest energiast vedeliku kaaluühiku kohta, väljendatud tava kohaselt pikkuse ühikutes, ning esineb ka täiesti horisontaalses torus, kus kõrguse muutust üldse ei toimu.",
+    "sourceHash": "6149d9aa6943f2bd",
+    "stale": false
+  }
+}

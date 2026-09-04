@@ -1,0 +1,63 @@
+{
+  "id": "darcy-weisbach-head-loss-formula",
+  "conceptId": "engineering-fluid-mechanics",
+  "latex": "h_L = f \\frac{L}{D} \\frac{v^2}{2g}",
+  "symbols": [
+    {
+      "symbol": "hL",
+      "name": {
+        "en": "head loss",
+        "et": "hüdrauliline kadu",
+        "sourceHash": "28560e80d32e1599",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "f",
+      "name": {
+        "en": "coefficient of friction",
+        "et": "hõõrdetegur",
+        "sourceHash": "94ddf120a107c0c3",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "L",
+      "name": {
+        "en": "length",
+        "et": "pikkus",
+        "sourceHash": "0f82aca66af91493",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "D",
+      "name": {
+        "en": "diameter",
+        "et": "läbimõõt",
+        "sourceHash": "00a02fc515ab4e3f",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "v",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    }
+  ],
+  "solveFor": [
+    "hL"
+  ],
+  "expressions": {
+    "hL": "f*(L/D)*v^2/(2*9.81)"
+  }
+}

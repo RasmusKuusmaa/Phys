@@ -1,0 +1,37 @@
+{
+  "id": "darcy-weisbach-solve-hl",
+  "formulaId": "darcy-weisbach-head-loss-formula",
+  "solveFor": "hL",
+  "mistakes": [
+    {
+      "id": "forgot-factor-of-two",
+      "description": {
+        "en": "Forgot the factor of 2 in the denominator.",
+        "et": "Unustas teguri 2 nimetajas.",
+        "sourceHash": "fcc78ac380025bbc",
+        "stale": false
+      },
+      "expression": "f*(L/D)*v^2/9.81"
+    },
+    {
+      "id": "inverted-length-diameter-ratio",
+      "description": {
+        "en": "Inverted the length-to-diameter ratio, using diameter over length instead of length over diameter.",
+        "et": "Pööras pikkuse ja läbimõõdu suhte ümber, kasutades läbimõõtu jagatuna pikkusega, selle asemel et kasutada pikkust jagatuna läbimõõduga.",
+        "sourceHash": "03009fc5dd479128",
+        "stale": false
+      },
+      "expression": "f*(D/L)*v^2/(2*9.81)"
+    },
+    {
+      "id": "forgot-to-square-velocity",
+      "description": {
+        "en": "Forgot to square the velocity term.",
+        "et": "Unustas kiiruse liikme ruutu tõsta.",
+        "sourceHash": "6d189b3810fdea8b",
+        "stale": false
+      },
+      "expression": "f*(L/D)*v/(2*9.81)"
+    }
+  ]
+}

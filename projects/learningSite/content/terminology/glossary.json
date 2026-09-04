@@ -1657,5 +1657,12 @@
     "et": "erisoojuste suhe",
     "domain": "thermodynamics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/erisoojus/1/est"
+  },
+  {
+    "id": "head-loss",
+    "en": "head loss",
+    "et": "hüdrauliline kadu",
+    "domain": "fluid-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/h%C3%BCdrauliline%20kadu/1/est"
   }
 ]
