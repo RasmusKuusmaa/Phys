@@ -110,24 +110,42 @@ caveat every new-vocabulary phase on this site carries.
 ## Phase BH2 — intermediate (the more specialised, more claim-heavy
 ## self-experimentation domains)
 
-- [ ] Nootropics and cognitive enhancement pharmacology (mechanisms of
+- [x] Nootropics and cognitive enhancement pharmacology (mechanisms of
       caffeine, L-theanine, racetams, modafinil; evidence quality and the
       unregulated-supplement risk; prerequisite: evidence-hierarchy-and-
-      critical-evaluation-of-health-claims)
-- [ ] Hormesis and stress adaptation (cold exposure, heat/sauna, fasting
+      critical-evaluation-of-health-claims; kept conceptual)
+- [x] Hormesis and stress adaptation (cold exposure, heat/sauna, fasting
       stress — the dose-response idea that a mild stressor can trigger a
-      net-beneficial adaptive response; no prerequisites)
-- [ ] Gut microbiome and self-experimentation (microbiome composition and
+      net-beneficial adaptive response; no prerequisites; kept conceptual)
+- [x] Gut microbiome and self-experimentation (microbiome composition and
       function, probiotics/prebiotics evidence, fecal-transplant and
-      microbiome-testing claims; no prerequisites)
-- [ ] Personal genomics and genetic self-testing (direct-to-consumer
+      microbiome-testing claims; no prerequisites; kept conceptual)
+- [x] Personal genomics and genetic self-testing (direct-to-consumer
       genetic testing, polygenic risk scores, common misinterpretation of
       raw genotype data; prerequisite: evidence-hierarchy-and-critical-
-      evaluation-of-health-claims)
-- [ ] Hormonal optimization and endocrine self-experimentation (testosterone
+      evaluation-of-health-claims; kept conceptual)
+- [x] Hormonal optimization and endocrine self-experimentation (testosterone
       and thyroid self-optimization claims and their evidence base, at the
       applied claim-evaluation depth this subject needs — deep endocrine
-      mechanism is `MEDICINE_PLAN.md`'s to own; no prerequisites)
+      mechanism is `MEDICINE_PLAN.md`'s to own; no prerequisites; kept
+      conceptual)
+
+Phase BH2 complete: 11 biohacking concepts total (5 new Phase-BH2 concepts
+on top of the 6-concept Phase BH1 baseline). None needed a formula — this
+phase, like BH1, is evidence-evaluation and mechanism reasoning throughout.
+Authored directly rather than via a fork, running alongside two parallel
+medicine-subject forks. `npm run validate:content` (9 subjects, 540
+concepts), `npm run lint:terminology` (254 glossary terms — no new
+biohacking-specific terms needed since nothing here is a formula symbol),
+and `npm run typecheck` all pass; every resource URL verified live with
+`curl`. Two Estonian resources are honest close/adjacent matches: Estonian
+Wikipedia has no "Nootroopikum" article, so `nootropics-and-cognitive-
+enhancement-pharmacology` links to "Kofeiin" (caffeine, the concept's
+best-evidenced example) instead; and no "Hormees" article either, so
+`hormesis-and-stress-adaptation` links to "Arndti-Schulzi reegel"
+(Arndt-Schulz rule — the historical toxicological name for the same
+dose-response principle), which is in fact a closer terminological match
+than a direct translation would have been.
 
 ## Phase BH3 — closing/advanced pass
 
