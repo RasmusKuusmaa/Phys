@@ -1,0 +1,55 @@
+{
+  "id": "ring-and-field-theory-item1",
+  "conceptId": "ring-and-field-theory",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The integers form a ring but not a field. Why not?",
+    "et": "Täisarvud moodustavad ringi, kuid mitte korpuse. Miks mitte?",
+    "sourceHash": "9a8997a167404a0e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Most nonzero integers have no multiplicative inverse within the integers themselves, so the additional field requirement (every nonzero element invertible) fails.",
+        "et": "Enamikul nullist erinevatel täisarvudel ei ole täisarvude endi sees korrutamise pöördelementi, seega ei rahuldu täiendav korpuse nõue (iga nullist erinev element on pööratav).",
+        "sourceHash": "6ed209db28b4df44",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The integers don't actually form a valid ring at all, since their multiplication fails to distribute over addition.",
+        "et": "Täisarvud ei moodusta tegelikult üldse kehtivat ringi, kuna nende korrutamine ei distribueeru liitmise üle.",
+        "sourceHash": "d2c366c10946faf2",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A ring's multiplication must satisfy the exact same axioms as a field's, so any ring failing to be a field must actually fail to be a ring as well.",
+        "et": "Ringi korrutamine peab rahuldama täpselt samu aksioome nagu korpuse oma, seega mistahes ring, mis ei ole korpus, peab tegelikult ka ise ringi olemisel ebaõnnestuma.",
+        "sourceHash": "f10fb9a674e18e4d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ring-and-field-theory-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Fields and rings are actually the same structure under a different name, so this distinction is not a meaningful one to draw.",
+        "et": "Korpused ja ringid on tegelikult sama struktuur erineva nime all, seega ei ole see eristus mõttekas.",
+        "sourceHash": "68afd4b8bacc6f37",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ring-and-field-theory-m1"
+    }
+  ]
+}

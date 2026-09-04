@@ -1,0 +1,10 @@
+{
+  "id": "ring-and-field-theory-m2",
+  "conceptId": "ring-and-field-theory",
+  "text": {
+    "en": "Believing a ring's second operation (multiplication) must satisfy the same full set of axioms as its first operation (addition), including the existence of inverses for every element -- a ring's definition specifically does not require multiplicative inverses to exist for every element (that stronger requirement is exactly what distinguishes a field from a ring); a ring only requires the multiplication to be associative and to distribute over the addition, which is a genuinely weaker set of requirements, deliberately built to describe structures like the integers or polynomials where division is not always possible.",
+    "et": "Arvamus, et ringi teine operatsioon (korrutamine) peab rahuldama sama täieliku aksioomide hulga kui selle esimene operatsioon (liitmine), sealhulgas pöördelementide eksisteerimise iga elemendi jaoks -- ringi definitsioon spetsiifiliselt ei nõua, et korrutamise pöördelemendid eksisteeriksid iga elemendi jaoks (see tugevam nõue on täpselt see, mis eristab korpust ringist); ring nõuab ainult, et korrutamine oleks assotsiatiivne ja distribueeruks liitmise üle, mis on tõeliselt nõrgem nõuete kogum, tahtlikult ehitatud kirjeldamaks struktuure nagu täisarvud või polünoomid, kus jagamine ei ole alati võimalik.",
+    "sourceHash": "1d5b3c598ff6dbb6",
+    "stale": false
+  }
+}

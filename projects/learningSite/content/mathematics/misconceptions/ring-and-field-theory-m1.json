@@ -1,0 +1,10 @@
+{
+  "id": "ring-and-field-theory-m1",
+  "conceptId": "ring-and-field-theory",
+  "text": {
+    "en": "Believing every ring is automatically a field, since both structures have an addition and a multiplication operation -- the integers are the standard counterexample: they form a genuine ring (an abelian group under addition, with a second, distributive multiplication), but they are not a field, since most nonzero integers (2, for instance) have no multiplicative inverse within the integers themselves (there is no integer that, multiplied by 2, gives 1); being a field requires the additional, genuinely restrictive condition that every nonzero element have a multiplicative inverse, a condition many important rings, including the integers, do not satisfy.",
+    "et": "Arvamus, et iga ring on automaatselt korpus, kuna mõlemal struktuuril on liitmis- ja korrutamisoperatsioon -- täisarvud on standardne vastunäide: need moodustavad tõelise ringi (Abeli rühm liitmise all, koos teise, distributiivse korrutamisega), kuid need ei ole korpus, kuna enamikul nullist erinevatel täisarvudel (näiteks arvul 2) ei ole täisarvude endi sees korrutamise pöördelementi (ei ole täisarvu, mis, korrutatuna 2-ga, annab 1); korpuseks olemine nõuab täiendavat, tõeliselt piiravat tingimust, et igal nullist erineval elemendil oleks korrutamise pöördelement, tingimus, mida paljud olulised ringid, sealhulgas täisarvud, ei rahulda.",
+    "sourceHash": "bf81435874037c39",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ring-and-field-theory",
+  "subject": "mathematics",
+  "level": "L4",
+  "module": "abstract-algebra",
+  "title": {
+    "en": "Ring and field theory",
+    "et": "Ringi- ja korpuseteooria",
+    "sourceHash": "f84b95643ff164fa",
+    "stale": false
+  },
+  "summary": {
+    "en": "A group captures the algebraic structure of a single operation, but the integers, the rational numbers, and polynomials all naturally carry two interacting operations, addition and multiplication, related by the distributive law -- exactly the structure a ring is built to capture, an abelian group under addition together with a second, associative multiplication that distributes over it, without requiring multiplicative inverses to exist -- and a field is the special, more restrictive case of a ring in which every nonzero element does have a multiplicative inverse, making division always possible; this single additional requirement is what separates the integers (a ring where 2 has no multiplicative inverse within the integers themselves) from the rational, real, or complex numbers (all fields), and it is specifically the field structure, not the weaker ring structure, that linear algebra's vector spaces are built on top of, since a vector space needs to divide by scalars.",
+    "et": "Rühm haarab ühe operatsiooni algebralist struktuuri, kuid täisarvud, ratsionaalarvud ja polünoomid kannavad kõik loomulikult kahte vastastikku toimivat operatsiooni, liitmist ja korrutamist, mis on seotud distributiivsusseadusega -- täpselt see struktuur, mille jaoks ring on ehitatud, Abeli rühm liitmise all koos teise, assotsiatiivse korrutamisega, mis distribueerub selle üle, ilma nõudmata, et korrutamise pöördelemendid eksisteeriksid -- ning korpus on ringi eriline, piiravam juhtum, milles igal nullist erineval elemendil tõesti on korrutamise pöördelement, muutes jagamise alati võimalikuks; see üksik täiendav nõue ongi see, mis eraldab täisarvud (ring, kus arvul 2 ei ole täisarvude endi sees korrutamise pöördelementi) ratsionaal-, reaal- või kompleksarvudest (kõik korpused), ning täpselt korpuse struktuur, mitte nõrgem ringi struktuur, on see, millele on üles ehitatud lineaaralgebra vektorruumid, kuna vektorruum peab saama jagada skalaaridega.",
+    "sourceHash": "b9582362b4b2a13f",
+    "stale": false
+  },
+  "prerequisites": [
+    "group-theory-and-lie-algebras"
+  ]
+}

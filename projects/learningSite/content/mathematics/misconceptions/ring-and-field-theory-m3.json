@@ -1,0 +1,10 @@
+{
+  "id": "ring-and-field-theory-m3",
+  "conceptId": "ring-and-field-theory",
+  "text": {
+    "en": "Believing linear algebra's vector spaces could just as well be built on top of the weaker ring structure instead of specifically requiring a field of scalars -- a vector space's defining operations genuinely require dividing by nonzero scalars (for instance, normalizing a vector by dividing by its own length, or solving a linear system by dividing by a nonzero coefficient), an operation that is only guaranteed to be possible if the scalars come from a field, where every nonzero element has a multiplicative inverse; scalars drawn only from a ring (such as the integers) would make many standard, routine vector-space operations undefined, which is exactly why linear algebra specifically requires a field of scalars, not merely a ring.",
+    "et": "Arvamus, et lineaaralgebra vektorruume võiks sama hästi ehitada nõrgema ringi struktuuri peale, selle asemel et spetsiifiliselt nõuda skalaaride korpust -- vektorruumi määravad operatsioonid nõuavad tõeliselt jagamist nullist erinevate skalaaridega (näiteks vektori normeerimine, jagades selle omaenda pikkusega, või lineaarsüsteemi lahendamine, jagades nullist erineva kordajaga), operatsioon, mis on garanteeritult võimalik ainult siis, kui skalaarid pärinevad korpusest, kus igal nullist erineval elemendil on korrutamise pöördelement; skalaarid, mis pärinevad ainult ringist (nagu täisarvud), muudaksid paljud standardsed, rutiinsed vektorruumi operatsioonid defineerimata, mis ongi täpselt põhjus, miks lineaaralgebra spetsiifiliselt nõuab skalaaride korpust, mitte lihtsalt ringi.",
+    "sourceHash": "95c6a519cdeea7c9",
+    "stale": false
+  }
+}
