@@ -66,22 +66,24 @@ concepts on top of the thin 7-concept baseline).
 Surveyed the module for further genuine bachelor-level absences before
 considering any graduate content.
 
-- [ ] Electronic, magnetic, and optical properties of materials (framed
+- [x] Electronic, magnetic, and optical properties of materials (framed
       materials-science-style: property-selection and design tradeoffs
       across metals/ceramics/polymers/semiconductors, distinct from the
       physics module's band-theory/semiconductor-physics derivations,
       which cannot be referenced as cross-subject prerequisites)
-- [ ] Corrosion and material degradation (an entire standard topic
+- [x] Corrosion and material degradation (an entire standard topic
       currently absent from this subject; chemistry's
       metal-corrosion-and-the-electrochemical-series concept covers the
       electrochemistry but not the materials-selection/protection
       engineering angle, and cannot be a cross-subject prerequisite anyway)
-- [ ] Materials selection and design (Ashby-chart-style property-tradeoff
+- [x] Materials selection and design (Ashby-chart-style property-tradeoff
       reasoning — ties together strength, weight, cost, and other
       properties across material classes for a specific application)
-- [ ] Nanomaterials (size-dependent property changes at the nanoscale —
+- [x] Nanomaterials (size-dependent property changes at the nanoscale —
       distinct from the existing quantum-confinement content in physics,
       which is about electronic structure, not materials engineering, and
       cannot be a cross-subject prerequisite)
+
+Phase MS2 complete: 16 materials-science concepts total.
 
 ---
