@@ -1,0 +1,10 @@
+{
+  "id": "pneumonia-and-lower-respiratory-infection-mechanisms-m3",
+  "conceptId": "pneumonia-and-lower-respiratory-infection-mechanisms",
+  "text": {
+    "en": "Pneumonia only causes problems for gas exchange if the infection is widespread across most of the lung -- in reality, even a fairly localized area of consolidated lung tissue can meaningfully impair overall gas exchange capacity, especially if the affected region is otherwise significant or if the person already has reduced lung reserve, since those consolidated alveoli contribute essentially nothing to gas exchange regardless of how much of the total lung they represent.",
+    "et": "Kopsupõletik tekitab gaasivahetusprobleeme ainult siis, kui infektsioon on levinud enamikus kopsust -- tegelikult võib isegi üsna lokaalne konsolideerunud kopsukoe piirkond mõjukalt kahjustada üldist gaasivahetusvõimet, eriti kui mõjutatud piirkond on muidu märkimisväärne või kui inimesel on juba vähenenud kopsureserv, kuna need konsolideerunud alveoolid ei panusta gaasivahetusse sisuliselt üldse, olenemata sellest, kui suurt osa kogu kopsust need esindavad.",
+    "sourceHash": "4c76053173bf941d",
+    "stale": false
+  }
+}

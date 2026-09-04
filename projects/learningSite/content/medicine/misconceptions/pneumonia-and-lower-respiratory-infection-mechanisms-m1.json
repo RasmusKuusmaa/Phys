@@ -1,0 +1,10 @@
+{
+  "id": "pneumonia-and-lower-respiratory-infection-mechanisms-m1",
+  "conceptId": "pneumonia-and-lower-respiratory-infection-mechanisms",
+  "text": {
+    "en": "Pneumonia is dangerous purely because the infection itself is spreading through the body, the same as any other infection -- in reality, pneumonia's specific danger comes from its location: the immune response fills the infected alveoli with inflammatory cells and fluid (consolidation), and a consolidated alveolus temporarily loses its ability to exchange gas regardless of how well the infection is being controlled locally, so the physiological problem is a side effect of fighting the infection in a gas-exchange organ, not simply the infection's spread.",
+    "et": "Kopsupõletik on ohtlik puhtalt seetõttu, et infektsioon ise levib kehas, sama nagu mistahes muu infektsioon -- tegelikult tuleneb kopsupõletiku spetsiifiline oht selle asukohast: immuunvastus täidab infitseeritud alveoolid põletikuliste rakkude ja vedelikuga (konsolidatsioon), ning konsolideerunud alveool kaotab ajutiselt oma võime gaasi vahetada, olenemata sellest, kui hästi infektsiooni lokaalselt kontrollitakse, mistõttu füsioloogiline probleem on infektsiooniga võitlemise kõrvalmõju gaasivahetuselundis, mitte lihtsalt infektsiooni levik.",
+    "sourceHash": "ebd03be9557f613e",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pneumonia-and-lower-respiratory-infection-mechanisms-item1",
+  "conceptId": "pneumonia-and-lower-respiratory-infection-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can a relatively localized area of bacterial pneumonia still cause noticeable shortness of breath and low blood oxygen?",
+    "et": "Miks võib suhteliselt lokaalne bakteriaalse kopsupõletiku piirkond siiski põhjustada märgatavat õhupuudust ja madalat vere hapnikusisaldust?",
+    "sourceHash": "257d85ae6740416f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The consolidated alveoli in the infected area are filled with inflammatory cells and fluid rather than air, functionally removing them from gas exchange, and enough consolidated alveoli can meaningfully reduce the lung's overall gas exchange capacity even if the rest of the lung is unaffected.",
+        "et": "Infitseeritud piirkonna konsolideerunud alveoolid on täidetud põletikuliste rakkude ja vedelikuga, mitte õhuga, eemaldades need funktsionaalselt gaasivahetusest, ning piisavalt palju konsolideerunud alveoole võib mõjukalt vähendada kopsu üldist gaasivahetusvõimet isegi siis, kui ülejäänud kops on mõjutamata.",
+        "sourceHash": "0723d5cf0ffc1020",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The infection itself directly lowers blood oxygen by consuming it, regardless of whether any alveoli are actually blocked from gas exchange.",
+        "et": "Infektsioon ise langetab otseselt vere hapnikusisaldust seda tarbides, olenemata sellest, kas mõni alveool on tegelikult gaasivahetusest blokeeritud.",
+        "sourceHash": "7964a5c5c5ce81a6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pneumonia-and-lower-respiratory-infection-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A consolidated alveolus still exchanges gas normally, just with some extra infection-fighting activity happening alongside the normal air-filled function.",
+        "et": "Konsolideerunud alveool vahetab endiselt gaasi normaalselt, lihtsalt lisandub natuke infektsioonivastast aktiivsust normaalse õhuga täidetud funktsiooni kõrvale.",
+        "sourceHash": "47d202edf334e314",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pneumonia-and-lower-respiratory-infection-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This scenario shouldn't actually happen -- gas exchange problems should only occur once the infection has spread across most of the lung.",
+        "et": "See stsenaarium ei peaks tegelikult juhtuma -- gaasivahetusprobleemid peaksid tekkima alles siis, kui infektsioon on levinud enamikus kopsust.",
+        "sourceHash": "ad20c5ed01b9ebef",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pneumonia-and-lower-respiratory-infection-mechanisms-m3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pneumonia-and-lower-respiratory-infection-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "respiratory-medicine",
+  "title": {
+    "en": "Pneumonia and lower respiratory infection mechanisms",
+    "et": "Kopsupõletiku ja alumiste hingamisteede infektsioonide mehhanismid",
+    "sourceHash": "d8b3745cc11a8936",
+    "stale": false
+  },
+  "summary": {
+    "en": "Pneumonia is what happens when a pathogen reaches the alveoli -- the delicate, thin-walled air sacs where gas exchange actually occurs -- and triggers the same host-pathogen battle already covered in this subject's general host-pathogen-interactions-and-virulence concept, except now fought inside the one part of the lung that has no room for collateral damage. The immune response recruits inflammatory cells and fluid into the infected alveoli, a process called consolidation, which fills the airspace that should otherwise be full of air; a consolidated alveolus, however effectively it is fighting the infection, temporarily loses its ability to participate in gas exchange, since oxygen and carbon dioxide can no longer diffuse efficiently across fluid-filled, cell-packed airspace the way they diffuse across a normal thin air-blood interface. This is why pneumonia's core physiological problem is not the infection itself but its side effect: however localized the initial infection, enough consolidated alveoli functioning as if they weren't there at all can meaningfully impair the lung's overall capacity for gas exchange, producing the shortness of breath and low blood oxygen that accompanies a significant pneumonia even when the rest of the lung is completely unaffected.",
+    "et": "Kopsupõletik on see, mis juhtub, kui patogeen jõuab alveoolideni -- õrnade, õhukeseinaliste õhukottideni, kus gaasivahetus tegelikult toimub -- ja käivitab sama peremehe-patogeeni lahingu, mida on selle aine üldise peremehe-patogeeni koostoime ja virulentsuse mõistes juba käsitletud, ainult et nüüd peetakse seda selle ühe kopsuosa sees, kus ei ole ruumi kaasnevaks kahjuks. Immuunvastus värbab põletikulised rakud ja vedeliku infitseeritud alveoolidesse, protsess nimega konsolidatsioon, mis täidab õhuruumi, mis peaks muidu olema täis õhku; konsolideerunud alveool, ükskõik kui tõhusalt see infektsiooniga võitleb, kaotab ajutiselt oma võime osaleda gaasivahetuses, kuna hapnik ja süsihappegaas ei saa enam tõhusalt difundeeruda üle vedelikuga täidetud, rakke täis õhuruumi samamoodi, nagu need difundeeruvad üle normaalse õhukese õhu-vere piirpinna. See ongi põhjus, miks kopsupõletiku keskne füsioloogiline probleem ei ole infektsioon ise, vaid selle kõrvalmõju: ükskõik kui lokaalne on esialgne infektsioon, piisavalt palju konsolideerunud alveoole, mis funktsioneerivad nii, nagu neid üldse ei olekski, võib mõjukalt kahjustada kopsu üldist gaasivahetusvõimet, tekitades õhupuuduse ja madala vere hapnikusisalduse, mis kaasneb märkimisväärse kopsupõletikuga isegi siis, kui ülejäänud kops on täiesti mõjutamata.",
+    "sourceHash": "2737c8251779eea8",
+    "stale": false
+  },
+  "prerequisites": [
+    "respiratory-system-anatomy-and-physiology",
+    "host-pathogen-interactions-and-virulence"
+  ]
+}

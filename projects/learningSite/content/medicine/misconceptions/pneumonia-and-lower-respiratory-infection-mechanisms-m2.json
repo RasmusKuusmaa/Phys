@@ -1,0 +1,10 @@
+{
+  "id": "pneumonia-and-lower-respiratory-infection-mechanisms-m2",
+  "conceptId": "pneumonia-and-lower-respiratory-infection-mechanisms",
+  "text": {
+    "en": "A consolidated alveolus is simply a normal alveolus that happens to also contain some infection -- in reality, consolidation means the airspace that should be filled with air is instead filled with inflammatory cells and fluid, which physically blocks the efficient gas diffusion that normally happens across a thin air-blood interface; a consolidated alveolus is functionally removed from gas exchange for as long as it remains consolidated, not simply an air-filled alveolus with an infection happening inside it.",
+    "et": "Konsolideerunud alveool on lihtsalt normaalne alveool, mis juhtumisi sisaldab ka mõningast infektsiooni -- tegelikult tähendab konsolidatsioon, et õhuruum, mis peaks olema täidetud õhuga, on selle asemel täidetud põletikuliste rakkude ja vedelikuga, mis füüsiliselt blokeerib tõhusa gaasidifusiooni, mis tavaliselt toimub üle õhukese õhu-vere piirpinna; konsolideerunud alveool on funktsionaalselt gaasivahetusest eemaldatud, seni kuni see jääb konsolideerituks, mitte lihtsalt õhuga täidetud alveool, mille sees toimub infektsioon.",
+    "sourceHash": "2a02a0aedd2e10a3",
+    "stale": false
+  }
+}
