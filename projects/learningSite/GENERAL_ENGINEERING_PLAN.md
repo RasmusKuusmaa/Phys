@@ -97,14 +97,44 @@ aerospace-engineering phase's in-flight files, so a scoped individual
 check was used instead, same adjustment that phase's own plan file
 records).
 
-## Phase GE2 — not yet planned
+## Phase GE2 — remaining foundational/intermediate gaps
 
-To be scoped after GE1 lands. Candidates surveyed but not committed to:
-control systems and feedback (PID control, transfer functions, stability —
-may need a Laplace-transform concept added to mathematics first, same
-"add the missing math as its own concept" pattern `QUESTIONS.md` used for
-group theory and Riemannian geometry), electrical and electronics
-fundamentals for non-EE engineers, kinematics and dynamics of mechanisms
-(gear trains, cams, linkages), engineering economics.
+Scoped from GE1's own candidate list. Checked `content/mathematics/` first:
+`laplace-transform-methods.json` already exists, so control-systems-and-
+feedback needs no new math gap-fill (unlike the MSc-physics phase's group-
+theory/Riemannian-geometry additions). Checked `content/physics/` for
+electrical-fundamentals overlap: physics already has thorough circuit
+coverage (`kirchhoffs-laws-and-circuit-analysis`, `rc-circuit-transients`,
+`inductance-and-rl-circuits`, `ac-circuits-and-impedance`,
+`thevenin-and-norton-equivalent-circuits`) and thorough oscillator/vibration
+coverage (`damped-oscillations`, `coupled-and-driven-oscillators`,
+`small-oscillations-and-normal-modes`) — dropped both "electrical
+fundamentals for engineers" and "mechanical vibrations" from the candidate
+list as too likely to be padding rather than genuine gaps, and picked two
+replacement topics with no existing site coverage instead: heat-exchanger
+design (physics's `heat-transfer-mechanisms` covers conduction/convection/
+radiation physics, not applied exchanger sizing) and quality control/
+engineering statistics (mathematics has generic probability distributions,
+not applied statistical process control).
+
+- [ ] Control systems and feedback (open-loop vs. closed-loop control, the
+      PID control law, stability of a feedback loop — no prerequisite;
+      formalise the PID control law as a formula + problem template + error
+      model, the one clean numeric relationship)
+- [ ] Kinematics and dynamics of mechanisms (four-bar linkages, cams, gear
+      trains and gear ratios — prerequisite:
+      statics-and-equilibrium-of-structures)
+- [ ] Engineering economics (time value of money, net present value,
+      payback period, breakeven analysis for engineering decisions — no
+      prerequisite; formalise net present value as a formula + problem
+      template + error model)
+- [ ] Heat exchanger design and thermal systems (overall heat transfer
+      coefficient, log-mean temperature difference, fin effectiveness — the
+      applied-design layer on top of engineering-thermodynamics-and-power-
+      cycles; prerequisite: engineering-thermodynamics-and-power-cycles;
+      formalise the LMTD relationship as a formula + problem template +
+      error model)
+- [ ] Quality control and engineering statistics (control charts, process
+      capability, tolerance stack-up — no prerequisite)
 
 ---
