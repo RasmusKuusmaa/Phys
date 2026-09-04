@@ -1,0 +1,21 @@
+{
+  "id": "viral-hepatitis-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "gastrointestinal-and-hepatic-medicine",
+  "title": {
+    "en": "Viral hepatitis mechanisms",
+    "et": "Viirushepatiidi mehhanismid",
+    "sourceHash": "5f1c34798e5d00e5",
+    "stale": false
+  },
+  "summary": {
+    "en": "The several hepatitis viruses (A through E) share a target -- hepatocytes, the liver's main functional cells -- but a genuinely important, often-missed point is that the viruses themselves rarely destroy those cells directly; the liver damage in viral hepatitis is mostly caused by the immune system's own response to infected cells, cytotoxic T cells recognizing and destroying hepatocytes displaying viral antigens on their surface, essentially collateral damage from an immune system trying to eliminate the infection. This explains a pattern that would otherwise seem contradictory: a more vigorous immune response can produce more liver damage in the short term, even though it is also what eventually clears the virus. Whether a given hepatitis infection becomes chronic depends on whether the immune system successfully clears the virus during the acute infection or the virus evades this clearance and persists -- hepatitis A and E are transmitted fecal-orally and essentially never become chronic, while hepatitis B and C are transmitted through blood and bodily fluids and can persist for years, with hepatitis C's viral machinery being especially prone to evading clearance and becoming a lifelong chronic infection if untreated. This chronic persistence matters mechanistically because it means the immune-mediated liver damage recurs repeatedly over years rather than occurring once during a single acute illness, which is exactly why chronic viral hepatitis is a leading cause of the cirrhosis already covered in this subject's liver-cirrhosis-and-portal-hypertension concept.",
+    "et": "Mitmed hepatiidiviirused (A kuni E) jagavad sihtmärki -- hepatotsüüdid, maksa peamised funktsionaalsed rakud --, kuid tõeliselt oluline, sageli tähelepanuta jäetud punkt on see, et viirused ise hävitavad neid rakke harva otseselt; maksakahjustus viirushepatiidi puhul on peamiselt põhjustatud immuunsüsteemi enda reaktsioonist infitseeritud rakkudele, tsütotoksiliste T-rakkude poolt, mis tuvastavad ja hävitavad hepatotsüüte, mis kuvavad oma pinnal viiruse antigeene, sisuliselt kaasnev kahju immuunsüsteemist, mis üritab infektsiooni kõrvaldada. See selgitab mustrit, mis muidu tunduks vastuoluline: jõulisem immuunvastus võib lühiajaliselt tekitada rohkem maksakahjustust, kuigi see on ka see, mis lõpuks viiruse kõrvaldab. See, kas antud hepatiidiinfektsioon muutub krooniliseks, sõltub sellest, kas immuunsüsteem kõrvaldab edukalt viiruse ägeda infektsiooni ajal või viirus väldib seda kõrvaldamist ja püsib -- hepatiit A ja E levivad fekaal-oraalselt ja praktiliselt kunagi ei muutu krooniliseks, samas kui hepatiit B ja C levivad vere ja kehavedelike kaudu ning võivad püsida aastaid, kusjuures hepatiit C viirusmasinavärk on eriti kalduv vältima kõrvaldamist ja muutuma raviamata jätmisel eluaegseks krooniliseks infektsiooniks. See krooniline püsimine on mehhanistlikult oluline seetõttu, et see tähendab, et immuunvahendatud maksakahjustus kordub korduvalt aastate jooksul, mitte ei toimu üks kord ühe ägeda haiguse ajal, mis ongi täpselt põhjus, miks krooniline viirushepatiit on selle aine maksatsirroosi-ja-portaalhüpertensiooni mõistes juba käsitletud tsirroosi peamine põhjus.",
+    "sourceHash": "ad1b2b19a813e0f2",
+    "stale": false
+  },
+  "prerequisites": [
+    "viral-structure-and-replication"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "viral-hepatitis-mechanisms-m2",
+  "conceptId": "viral-hepatitis-mechanisms",
+  "text": {
+    "en": "A weaker immune response to hepatitis infection is always worse than a stronger one, since a stronger response clears the virus faster and causes less damage -- in reality, because the liver damage itself is largely caused by the immune response (cytotoxic T cells destroying infected cells), a more vigorous immune response can produce more liver damage in the short term even as it works toward clearing the virus, which is a genuinely counterintuitive tradeoff rather than a straightforward 'stronger is always better' relationship.",
+    "et": "Nõrgem immuunvastus hepatiidiinfektsioonile on alati halvem kui tugevam, kuna tugevam vastus kõrvaldab viiruse kiiremini ja tekitab vähem kahju -- tegelikult, kuna maksakahjustus ise on suuresti põhjustatud immuunvastusest (tsütotoksilised T-rakud hävitavad infitseeritud rakke), võib jõulisem immuunvastus tekitada lühiajaliselt rohkem maksakahjustust, isegi kui see töötab viiruse kõrvaldamise nimel, mis on tõeliselt kontraintuitiivne kompromiss, mitte lihtne 'tugevam on alati parem' suhe.",
+    "sourceHash": "c30eeb9d22d4e5cd",
+    "stale": false
+  }
+}

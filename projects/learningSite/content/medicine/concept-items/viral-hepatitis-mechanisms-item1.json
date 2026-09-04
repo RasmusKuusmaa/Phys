@@ -1,0 +1,56 @@
+{
+  "id": "viral-hepatitis-mechanisms-item1",
+  "conceptId": "viral-hepatitis-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can a more vigorous immune response to acute hepatitis infection sometimes cause more liver damage in the short term, even though it's also what clears the virus?",
+    "et": "Miks võib jõulisem immuunvastus ägedale hepatiidiinfektsioonile mõnikord põhjustada lühiajaliselt rohkem maksakahjustust, kuigi see on ka see, mis viiruse kõrvaldab?",
+    "sourceHash": "09d148ad0aeddc27",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Most of the liver damage in viral hepatitis comes from cytotoxic T cells destroying infected hepatocytes displaying viral antigens, so a stronger immune response destroys more infected cells at once, producing more damage while working toward clearance.",
+        "et": "Enamik maksakahjustusest viirushepatiidi puhul tuleb tsütotoksilistest T-rakkudest, mis hävitavad viiruse antigeene kuvavaid infitseeritud hepatotsüüte, mistõttu tugevam immuunvastus hävitab korraga rohkem infitseeritud rakke, tekitades rohkem kahju, töötades samal ajal kõrvaldamise nimel.",
+        "sourceHash": "d68f20178aca218d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This shouldn't happen -- the virus itself directly destroys liver cells, so immune response strength should have no bearing on the amount of liver damage.",
+        "et": "See ei peaks juhtuma -- viirus ise hävitab otseselt maksarakke, mistõttu immuunvastuse tugevusel ei tohiks olla mingit mõju maksakahjustuse hulgale.",
+        "sourceHash": "e1171752c0f9cd89",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viral-hepatitis-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A weaker immune response would actually always be preferable in every case, since strength of response has no genuine tradeoff with clearance speed.",
+        "et": "Nõrgem immuunvastus oleks tegelikult alati eelistatavam igal juhul, kuna vastuse tugevusel ei ole tegelikku kompromissi kõrvaldamise kiirusega.",
+        "sourceHash": "4e3cc7c78c7e2343",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viral-hepatitis-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This must be specific to hepatitis A or E, since those are the types where immune response strength would matter for chronic infection risk.",
+        "et": "See peab olema spetsiifiline hepatiit A või E jaoks, kuna need on tüübid, kus immuunvastuse tugevus oleks oluline kroonilise infektsiooni riski jaoks.",
+        "sourceHash": "5beec821418857c8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viral-hepatitis-mechanisms-m3"
+    }
+  ]
+}

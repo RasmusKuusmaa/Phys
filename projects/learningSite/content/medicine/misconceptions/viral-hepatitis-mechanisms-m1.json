@@ -1,0 +1,10 @@
+{
+  "id": "viral-hepatitis-mechanisms-m1",
+  "conceptId": "viral-hepatitis-mechanisms",
+  "text": {
+    "en": "Liver damage in viral hepatitis is caused directly by the virus destroying liver cells -- in reality, hepatitis viruses rarely directly destroy hepatocytes; most of the liver damage comes from the immune system's own cytotoxic T cells recognizing and destroying infected cells displaying viral antigens, essentially collateral damage from the immune response fighting the infection rather than direct viral destruction.",
+    "et": "Maksakahjustus viirushepatiidi puhul on põhjustatud otseselt viirusest, mis hävitab maksarakke -- tegelikult hävitavad hepatiidiviirused harva otseselt hepatotsüüte; enamik maksakahjustusest tuleb immuunsüsteemi enda tsütotoksilistest T-rakkudest, mis tuvastavad ja hävitavad infitseeritud rakke, mis kuvavad viiruse antigeene, sisuliselt kaasnev kahju immuunvastusest, mis võitleb infektsiooniga, mitte otsene viiruslik hävitamine.",
+    "sourceHash": "67c4db2e222c8180",
+    "stale": false
+  }
+}
