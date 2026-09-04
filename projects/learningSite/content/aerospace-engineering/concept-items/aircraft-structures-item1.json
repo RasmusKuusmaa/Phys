@@ -1,0 +1,56 @@
+{
+  "id": "aircraft-structures-item1",
+  "conceptId": "aircraft-structures",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A routine inspection finds a small fatigue crack in a wing panel of a semi-monocoque aircraft, right on schedule. What does this most correctly indicate?",
+    "et": "Plaaniline kontroll leiab poolmonokokk-õhusõiduki tiivapaneelil väikese väsimuspraod, täpselt kavakohasel ajal. Mida see kõige õigemini näitab?",
+    "sourceHash": "606de1e989ec662a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The damage-tolerant design and inspection schedule are working as intended, catching the crack well before it could reach a critical length.",
+        "et": "Kahjustustaluv projekt ja kontrollide sagedus toimivad kavakohaselt, avastades pragu ammu enne, kui see võiks jõuda kriitilise pikkuseni.",
+        "sourceHash": "e3a73d57b18bac94",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The original structural design has failed, since a properly engineered airframe should never develop any cracks.",
+        "et": "Algne konstruktsiooniprojekt on ebaõnnestunud, kuna korralikult projekteeritud kere ei tohiks kunagi pragusid tekitada.",
+        "sourceHash": "604c8d231b87f6a2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-structures-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The panel's skin is not actually load-bearing, so the crack is a purely cosmetic issue similar to a scratch on a car body panel.",
+        "et": "Paneeli kate ei ole tegelikult kandev, mistõttu on pragu puhtalt kosmeetiline probleem, sarnaselt auto kerepaneeli kriimuga.",
+        "sourceHash": "9b47fe1497ec67b8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-structures-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The wing should have been built from the strongest available material, such as steel, so that no crack could ever form.",
+        "et": "Tiib oleks pidanud olema ehitatud kõige tugevamast saadaolevast materjalist, näiteks terasest, et pragu ei saaks üldse tekkida.",
+        "sourceHash": "c303406719baef8f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-structures-m3"
+    }
+  ]
+}

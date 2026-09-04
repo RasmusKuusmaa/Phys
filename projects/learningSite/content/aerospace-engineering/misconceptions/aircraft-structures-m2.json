@@ -1,0 +1,10 @@
+{
+  "id": "aircraft-structures-m2",
+  "conceptId": "aircraft-structures",
+  "text": {
+    "en": "Believing a properly designed aircraft structure should never develop any cracks at all, so finding a fatigue crack during a scheduled inspection means the original design failed -- modern airframes are designed around damage tolerance, which assumes fatigue cracks will eventually initiate under repeated load cycles and sets inspection intervals specifically to detect and repair such cracks long before they could grow to a length that threatens structural integrity, so finding and repairing a small crack on schedule is the safety system working as intended, not evidence of a design defect.",
+    "et": "Arvamus, et korralikult projekteeritud õhusõiduki konstruktsioonil ei tohiks kunagi tekkida ühtegi pragu, mistõttu väsimuspragu leidmine plaanilisel kontrollil tähendab, et algne projekt oli vigane -- kaasaegsed kered on projekteeritud kahjustustaluvuse põhimõttel, mis eeldab, et väsimuspraod tekivad paratamatult korduvate koormustsüklite tagajärjel, ning kontrollide sagedus on seatud spetsiaalselt selliste pragude avastamiseks ja parandamiseks ammu enne, kui need võiksid kasvada konstruktsiooni terviklikkust ohustava pikkuseni, mistõttu väikese pragu õigeaegne leidmine ja parandamine on ohutussüsteemi kavakohane toimimine, mitte projekteerimisvea tõend.",
+    "sourceHash": "6278eba2bb4db01f",
+    "stale": false
+  }
+}

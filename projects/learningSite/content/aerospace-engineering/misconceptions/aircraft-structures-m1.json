@@ -1,0 +1,10 @@
+{
+  "id": "aircraft-structures-m1",
+  "conceptId": "aircraft-structures",
+  "text": {
+    "en": "Believing the outer metal or composite skin of a modern aircraft fuselage is essentially a non-structural weatherproof cover, similar to a car's body panels, which could be removed or cut into without materially affecting the airframe's strength -- in a semi-monocoque design the skin itself carries a large share of the shear and torsional loads alongside the internal stringers and frames, so cutting or thinning it measurably weakens the structure, which is precisely why unapproved skin modifications and corrosion damage are treated as structural, not cosmetic, issues.",
+    "et": "Arvamus, et kaasaegse õhusõiduki kere väline metall- või komposiitkate on sisuliselt mittekandev ilmastikukaitse, sarnaselt auto kerepaneelidega, mida saaks eemaldada või sisse lõigata ilma kere tugevust oluliselt mõjutamata -- poolmonokokk-konstruktsioonis kannab kate ise suure osa nihke- ja väändekoormustest koos sisemiste jäigastite ja raamidega, mistõttu selle lõikamine või õhendamine nõrgestab konstruktsiooni mõõdetavalt, ning täpselt seetõttu käsitletakse loata katte muudatusi ja korrosioonikahjustusi konstruktsiooniliste, mitte kosmeetiliste probleemidena.",
+    "sourceHash": "34a40ba60f32e97a",
+    "stale": false
+  }
+}

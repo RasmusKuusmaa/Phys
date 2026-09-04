@@ -1,0 +1,19 @@
+{
+  "id": "aircraft-structures",
+  "subject": "aerospace-engineering",
+  "level": "L2",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Aircraft structures",
+    "et": "Õhusõiduki konstruktsioon",
+    "sourceHash": "2ae2bed428d45ba2",
+    "stale": false
+  },
+  "summary": {
+    "en": "A modern airframe is built as a semi-monocoque: an outer skin, longitudinal stringers, and transverse frames or ribs share the aerodynamic, bending, and torsional loads between them, unlike an old fabric-covered truss airframe where a separate internal frame carries essentially all the load and the covering is purely aerodynamic; cutting or weakening the skin of a semi-monocoque structure measurably reduces its strength because the skin itself is load-bearing. Because thrust and lift budgets are both extremely sensitive to weight, airframe structural design is driven by strength-to-weight and stiffness-to-weight ratios rather than absolute strength, and by designed-in damage tolerance: fatigue cracks are expected to eventually initiate under millions of repeated load cycles, so inspection intervals are set to reliably catch and repair them long before they could grow to a critical, structurally dangerous length.",
+    "et": "Kaasaegne õhusõiduki kere on ehitatud poolmonokokk-konstruktsioonina: väliskate, pikisuunalised jäigastid (stringerid) ning ristisuunalised raamid või nervid jagavad omavahel aerodünaamilisi, paindus- ja väändekoormusi, erinevalt vanast tekstiilkattega sõrestikkerest, kus eraldi sisemine raam kannab sisuliselt kogu koormuse ja kate on puhtalt aerodünaamiline; poolmonokokk-konstruktsiooni katte lõikamine või nõrgestamine vähendab mõõdetavalt selle tugevust, kuna kate ise kannab koormust. Kuna nii tõukejõu kui tõstejõu eelarved on äärmiselt tundlikud massi suhtes, juhindub kere konstrueerimine tugevuse-massi ja jäikuse-massi suhtest, mitte absoluutsest tugevusest, ning ette kavandatud kahjustustaluvusest: väsimuspraod tekivad paratamatult miljonite korduvate koormustsüklite jooksul, mistõttu kontrollide sagedus on seatud nii, et need usaldusväärselt avastatakse ja parandatakse ammu enne, kui need võiksid kasvada kriitilise, konstruktsiooniliselt ohtliku pikkuseni.",
+    "sourceHash": "b998af9ed66d07a4",
+    "stale": false
+  },
+  "prerequisites": []
+}

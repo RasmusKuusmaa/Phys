@@ -1,0 +1,10 @@
+{
+  "id": "aircraft-structures-m3",
+  "conceptId": "aircraft-structures",
+  "text": {
+    "en": "Believing aircraft structures should always use the single strongest material available, since maximizing strength is the overriding goal of structural design -- the actual design driver is strength-to-weight (and stiffness-to-weight, and fatigue life) rather than absolute strength, because both thrust and lift budgets are extremely sensitive to total weight; a heavier material with higher absolute strength than aluminum or carbon-fiber composite can make an airframe worse overall by consuming the payload and fuel margin the rest of the aircraft's performance depends on, which is exactly why airframes favor aluminum alloys and composites over materials like steel that are stronger in an absolute sense.",
+    "et": "Arvamus, et õhusõiduki konstruktsioonis tuleks alati kasutada kõige tugevamat saadaolevat materjali, kuna tugevuse maksimeerimine on konstrueerimise ülimuslik eesmärk -- tegelik konstrueerimist juhtiv näitaja on tugevuse-massi (ning jäikuse-massi ja väsimuskindluse) suhe, mitte absoluutne tugevus, kuna nii tõukejõu kui tõstejõu eelarved on äärmiselt tundlikud kogumassi suhtes; raskem materjal, mille absoluutne tugevus on suurem kui alumiiniumil või süsinikkiud-komposiidil, võib muuta kere tervikuna halvemaks, kulutades ära kasuliku koormuse ja kütuse varu, millest sõltub kogu ülejäänud õhusõiduki jõudlus -- täpselt seetõttu eelistatakse keredes alumiiniumsulameid ja komposiite terasele, mis on absoluutses mõttes tugevam.",
+    "sourceHash": "4b6fa9dd2ae8defb",
+    "stale": false
+  }
+}
