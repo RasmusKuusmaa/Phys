@@ -1,0 +1,10 @@
+{
+  "id": "chromatography-m3",
+  "conceptId": "chromatography",
+  "text": {
+    "en": "Believing all chromatographic techniques (gas chromatography, liquid chromatography, thin-layer chromatography, and others) work by fundamentally different separation principles simply because they use different physical setups -- every one of these techniques applies the same underlying principle in a different physical form: a mobile phase carries the mixture past a stationary phase that different components interact with to different degrees, causing them to separate based on relative affinity; the physical medium (gas versus liquid mobile phase, a coated plate versus a packed column) differs across techniques, but the fundamental separation mechanism is the same one applied repeatedly in different practical implementations.",
+    "et": "Arvamus, et kõik kromatograafilised tehnikad (gaaskromatograafia, vedelikkromatograafia, õhukesekihiline kromatograafia ja teised) töötavad fundamentaalselt erinevate eraldusprintsiipide järgi lihtsalt seetõttu, et need kasutavad erinevaid füüsilisi ülesehitusi -- iga see tehnika rakendab sama aluseks olevat printsiipi erinevas füüsilises vormis: liikuv faas kannab segu mööda statsionaarset faasi, millega erinevad komponendid suhtlevad erineval määral, põhjustades nende eraldumise suhtelise afiinsuse alusel; füüsiline keskkond (gaas versus vedel liikuv faas, kaetud plaat versus pakitud kolonn) erineb tehnikate lõikes, kuid fundamentaalne eraldusmehhanism on sama, mida rakendatakse korduvalt erinevates praktilistes teostustes.",
+    "sourceHash": "6aa3470d16c7f5f0",
+    "stale": false
+  }
+}

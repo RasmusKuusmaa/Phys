@@ -1,0 +1,56 @@
+{
+  "id": "chromatography-item1",
+  "conceptId": "chromatography",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two compounds in a mixture have very similar molecular weights but separate cleanly on a chromatography column. What does this most directly indicate?",
+    "et": "Kahel segu ühendil on väga sarnased molekulmassid, kuid need eralduvad kromatograafiakolonnil puhtalt. Mida see kõige otsesemalt näitab?",
+    "sourceHash": "b25c9b41265db321",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The two compounds have substantially different relative affinities for the stationary phase versus the mobile phase, which is what actually drives chromatographic separation, not molecular weight.",
+        "et": "Kahel ühendil on oluliselt erinev suhteline afiinsus statsionaarse faasi versus liikuva faasi suhtes, mis ongi see, mis tegelikult juhib kromatograafilist eraldumist, mitte molekulmass.",
+        "sourceHash": "9cbf56866b4e5321",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This result is actually impossible, since chromatography separates compounds directly by molecular weight, so similar-weight compounds should always co-elute.",
+        "et": "See tulemus on tegelikult võimatu, kuna kromatograafia eraldab ühendeid otseselt molekulmassi järgi, seega peaksid sarnase massiga ühendid alati koos eralduma.",
+        "sourceHash": "5078687a9aa5d697",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chromatography-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both compounds must have already been individually identified beforehand, since chromatography can only confirm the presence of known, previously identified compounds.",
+        "et": "Mõlemad ühendid peavad olema juba eelnevalt individuaalselt identifitseeritud, kuna kromatograafia saab ainult kinnitada teadaolevate, eelnevalt identifitseeritud ühendite olemasolu.",
+        "sourceHash": "dc1c0c0d08f691fc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chromatography-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This particular separation must be using a fundamentally different mechanism than other chromatographic techniques, since ordinary chromatography cannot separate similar-weight compounds.",
+        "et": "See konkreetne eraldumine peab kasutama fundamentaalselt erinevat mehhanismi kui teised kromatograafilised tehnikad, kuna tavaline kromatograafia ei suuda eraldada sarnase massiga ühendeid.",
+        "sourceHash": "ab87872de7d07aec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chromatography-m3"
+    }
+  ]
+}

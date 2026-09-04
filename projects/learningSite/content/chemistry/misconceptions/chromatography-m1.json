@@ -1,0 +1,10 @@
+{
+  "id": "chromatography-m1",
+  "conceptId": "chromatography",
+  "text": {
+    "en": "Believing chromatography separates mixture components based directly on a physical property like molecular weight or size, the same way techniques like mass spectrometry or filtration do -- chromatographic separation is specifically driven by each component's relative affinity for the stationary phase versus the mobile phase (how strongly each component adsorbs, dissolves, or otherwise interacts with the stationary phase compared to being carried along by the mobile phase), not directly by molecular weight or size; two components of similar molecular weight can separate very cleanly by chromatography if their chemical affinities for the stationary phase differ substantially, while two components of quite different molecular weight might not separate well if their affinities happen to be similar.",
+    "et": "Arvamus, et kromatograafia eraldab segu komponente otseselt füüsikalise omaduse alusel nagu molekulmass või suurus, samamoodi nagu teevad tehnikad nagu massispektromeetria või filtreerimine -- kromatograafilist eraldumist juhib spetsiifiliselt iga komponendi suhteline afiinsus statsionaarse faasi versus liikuva faasi suhtes (kui tugevalt iga komponent adsorbeerub, lahustub või muul viisil suhtleb statsionaarse faasiga võrreldes liikuva faasi poolt kaasa kandmisega), mitte otseselt molekulmass või suurus; kaks sarnase molekulmassiga komponenti võivad kromatograafia abil väga puhtalt eralduda, kui nende keemilised afiinsused statsionaarse faasi suhtes erinevad oluliselt, samal ajal kui kaks üsna erineva molekulmassiga komponenti ei pruugi hästi eralduda, kui nende afiinsused juhtuvad olema sarnased.",
+    "sourceHash": "b34bd6d74cf15a2f",
+    "stale": false
+  }
+}

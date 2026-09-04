@@ -1,0 +1,10 @@
+{
+  "id": "chromatography-m2",
+  "conceptId": "chromatography",
+  "text": {
+    "en": "Believing chromatography requires each mixture component to already be individually identified before separation can occur, or that it can only confirm the presence of a compound already suspected to be there -- chromatography specifically separates an entirely unidentified mixture into its physically distinct components purely based on their differing relative affinities for the stationary and mobile phases, requiring no prior knowledge of what those components actually are; identifying each separated component (often using a second technique such as mass spectrometry applied afterward) is a genuinely separate step from the physical separation chromatography itself accomplishes.",
+    "et": "Arvamus, et kromatograafia nõuab, et iga segu komponent oleks juba enne eraldamist individuaalselt identifitseeritud, või et see saab ainult kinnitada juba kahtlustatava ühendi olemasolu -- kromatograafia eraldab spetsiifiliselt täiesti identifitseerimata segu selle füüsiliselt eristuvateks komponentideks puhtalt nende erineva suhtelise afiinsuse alusel statsionaarse ja liikuva faasi suhtes, nõudmata eelnevat teadmist selle kohta, mis need komponendid tegelikult on; iga eraldatud komponendi identifitseerimine (sageli kasutades teist tehnikat nagu massispektromeetria, mida rakendatakse hiljem) on tõeliselt eraldi samm füüsilisest eraldamisest, mida kromatograafia ise saavutab.",
+    "sourceHash": "38d5a612d738de73",
+    "stale": false
+  }
+}

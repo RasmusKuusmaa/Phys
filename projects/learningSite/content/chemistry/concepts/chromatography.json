@@ -1,0 +1,21 @@
+{
+  "id": "chromatography",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "analytical-chemistry",
+  "title": {
+    "en": "Chromatography",
+    "et": "Kromatograafia",
+    "sourceHash": "a034ea1b7b18ef60",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every chromatographic technique separates a mixture of compounds using the same basic principle applied over and over in different physical forms: a mobile phase (a flowing liquid or gas) continuously carries the mixture past or through a stationary phase (a fixed solid or liquid coating) that each component in the mixture interacts with to a different degree, so that components which interact more strongly with the stationary phase are held back and travel more slowly relative to the flow, while components that interact more weakly move through faster, causing the originally mixed components to physically separate from each other in space or in time purely as a consequence of their different relative affinities for the two phases, with no need for any of the components to already be individually identified or purified beforehand, which is exactly what makes chromatography one of the most general and widely applicable separation and purification techniques used throughout modern chemistry.",
+    "et": "Iga kromatograafiline tehnika eraldab ühendite segu, kasutades sama põhilist printsiipi, mida rakendatakse ikka ja jälle erinevates füüsilistes vormides: liikuv faas (voolav vedelik või gaas) kannab pidevalt segu mööda või läbi statsionaarse faasi (fikseeritud tahke aine või vedeliku kate), millega iga segu komponent suhtleb erineval määral, nii et komponendid, mis suhtlevad statsionaarse faasiga tugevamalt, jäävad tahapoole ja liiguvad voolu suhtes aeglasemalt, samal ajal kui komponendid, mis suhtlevad nõrgemalt, liiguvad läbi kiiremini, põhjustades algselt segatud komponentide füüsilise eraldumise üksteisest ruumis või ajas puhtalt nende erineva suhtelise afiinsuse tagajärjena kahe faasi suhtes, ilma et ükski komponentidest peaks olema eelnevalt juba individuaalselt identifitseeritud või puhastatud, mis ongi täpselt see, mis teeb kromatograafiast ühe kõige üldisema ja laialdasemalt rakendatava eraldamis- ja puhastustehnika, mida kasutatakse kogu tänapäeva keemias.",
+    "sourceHash": "fb57574a4c759a0a",
+    "stale": false
+  },
+  "prerequisites": [
+    "mass-spectrometry"
+  ]
+}
