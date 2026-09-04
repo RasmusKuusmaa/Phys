@@ -128,30 +128,56 @@ concept foundational baseline to taught-MSc depth rather than leaving the
 subject bachelor-only. Each concept below genuinely extends an existing
 AE1/AE2 concept's depth rather than restating it.
 
-- [ ] Aircraft dynamic modes and stability derivatives (phugoid,
+- [x] Aircraft dynamic modes and stability derivatives (phugoid,
       short-period, and dutch-roll modes; stability derivatives — depth
       beyond the existing intro-level flight-dynamics-and-stability
       concept, which stops at static stability and control-surface roles;
-      prerequisite: flight-dynamics-and-stability)
-- [ ] Computational fluid dynamics for aerospace design (meshing,
+      prerequisite: flight-dynamics-and-stability; L4; kept conceptual)
+- [x] Computational fluid dynamics for aerospace design (meshing,
       discretisation, turbulence modelling in an aircraft/spacecraft
       design context — distinct from materials-science's computational-
       materials-science, which is about materials modelling, not
       aerodynamic simulation, and cannot be a cross-subject prerequisite
-      anyway; prerequisite: aerodynamics-fundamentals)
-- [ ] Advanced propulsion and specific impulse (specific impulse in depth,
+      anyway; prerequisite: aerodynamics-fundamentals; L4; kept conceptual)
+- [x] Advanced propulsion and specific impulse (specific impulse in depth,
       electric/ion propulsion, hybrid and solid rocket motors — depth
       beyond the existing propulsion-fundamentals concept's thrust-equation/
-      Brayton-cycle introduction; prerequisite: propulsion-fundamentals)
-- [ ] Composite aerostructures and buckling (laminate theory basics,
+      Brayton-cycle introduction; prerequisite: propulsion-fundamentals; L4;
+      formalised specific impulse, Isp = F/(mdot*g0), as a formula +
+      problem template + error model — one new glossary term needed,
+      specific impulse, reusing the existing force/flow-rate terms for the
+      other two symbols)
+- [x] Composite aerostructures and buckling (laminate theory basics,
       buckling of thin-walled structures — depth beyond the existing
       aircraft-structures concept's load-path/materials-tradeoff survey;
-      prerequisite: aircraft-structures)
-- [ ] Orbital perturbations and reentry dynamics (J2 perturbation,
+      prerequisite: aircraft-structures; L4; kept conceptual — a clean
+      Euler-buckling formula would need an area-moment-of-inertia unit
+      (m^4) not present in `src/lib/units/registry.ts`, a code change
+      outside this content-only phase's scope)
+- [x] Orbital perturbations and reentry dynamics (J2 perturbation,
       atmospheric drag decay, reentry trajectory and heating — depth
       beyond the existing orbital-mechanics-and-spaceflight concept's
       two-body/Hohmann-transfer treatment; prerequisites:
-      orbital-mechanics-and-spaceflight, hypersonic-aerothermodynamics)
+      orbital-mechanics-and-spaceflight, hypersonic-aerothermodynamics; L4;
+      kept conceptual)
+
+Phase AE3 complete: 16 aerospace-engineering concepts total (5 new L4
+concepts on top of the 11-concept Phase AE1+AE2 baseline). All five
+committed at L4, judged genuinely graduate-core once written rather than
+upper-bachelor, matching the register of the MS3 materials-science phase's
+own L4 concepts. Only one got a formula (advanced-propulsion-and-specific-
+impulse's specific-impulse relationship) — composite-aerostructures-and-
+buckling's Euler-buckling load would have been a second clean candidate but
+needs an area-moment-of-inertia (m^4) unit not yet in the unit registry, a
+code change outside a content-only phase's scope, so it was left
+conceptual instead of forcing an incomplete formula. `npm run
+validate:content` (504 concepts, 7 subjects), `npm run lint:terminology`
+(250 glossary terms — added one new term, `specific-impulse`; reused
+`force` and `flow-rate` for the formula's other two symbols), and `npm run
+typecheck` all pass; every resource URL verified live individually with
+`curl` (repo-wide `npm run check:links` remained impractical during this
+phase — a sibling fork was concurrently authoring general-engineering's own
+Phase GE3, same adjustment every phase since AE1 has recorded).
 
 Phase AE2 complete: 11 aerospace-engineering concepts total (5 new Phase-AE2
 concepts on top of the 6-concept Phase AE1 baseline). `npm run
