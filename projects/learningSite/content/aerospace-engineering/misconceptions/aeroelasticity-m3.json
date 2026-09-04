@@ -1,0 +1,10 @@
+{
+  "id": "aeroelasticity-m3",
+  "conceptId": "aeroelasticity",
+  "text": {
+    "en": "Believing that divergence and flutter are the same phenomenon, just occurring at different speeds -- in fact divergence is a static instability (aerodynamic twisting moment overwhelms restoring torsional stiffness, producing an unbounded steady twist with no oscillation) while flutter is a dynamic instability requiring coupled vibration modes; an aircraft's flutter speed and divergence speed are generally different numbers, and standard practice keeps the flight envelope safely below both as two distinct engineering limits, not one.",
+    "et": "Arvamus, et divergents ja flatter on sama nähtus, mis esineb lihtsalt erinevatel kiirustel -- tegelikult on divergents staatiline ebastabiilsus (aerodünaamiline väändemoment ületab taastava väändejäikuse, tekitades piiramatu püsiva väände ilma võnkumiseta), samas kui flatter on dünaamiline ebastabiilsus, mis vajab seotud võnkevorme; õhusõiduki flatterikiirus ja divergentsikiirus on üldjuhul erinevad arvud, ning tavapraktika hoiab lennuümbrist ohutult allpool mõlemat kui kahte eraldiseisvat inseneripiirangut, mitte üht.",
+    "sourceHash": "7e70408748fa1ef7",
+    "stale": false
+  }
+}

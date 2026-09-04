@@ -1,0 +1,22 @@
+{
+  "id": "aeroelasticity",
+  "subject": "aerospace-engineering",
+  "level": "L3",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Aeroelasticity",
+    "et": "Aeroelastsus",
+    "sourceHash": "75e21562c5813c2c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Aeroelasticity studies the two-way coupling between a structure's elastic deformation and the aerodynamic forces that deformation itself changes: a wing bending or twisting under load changes its local angle of attack, which changes the aerodynamic load on it, which changes the deformation further, and depending on how this feedback loop behaves the outcome is either divergence or flutter. Divergence is a static instability -- past some critical speed, the aerodynamic twisting moment produced by a small increase in twist exceeds the structure's restoring torsional stiffness, so the wing keeps twisting further without bound under purely steady aerodynamic loading, no oscillation required. Flutter is fundamentally dynamic: it needs at least two coupled vibration modes (typically bending and torsion) whose natural frequencies converge as airspeed increases, until above a critical flutter speed the airflow can feed energy into the coupled motion faster than structural damping removes it, producing a self-excited oscillation that draws its energy from the smooth airstream itself rather than needing any external gust to sustain it. Because both instabilities are governed by a structure's stiffness and mass distribution relative to its aerodynamic loads, not by its ultimate load-carrying strength, aeroelasticity is a genuinely separate design constraint from ordinary structural strength -- a wing can be strong enough to never break under load yet still be destroyed by flutter if it is not stiff enough.",
+    "et": "Aeroelastsus uurib kahesuunalist seost struktuuri elastse deformatsiooni ja aerodünaamiliste jõudude vahel, mida see deformatsioon ise muudab: tiiva paindumine või väänd koormuse all muudab selle kohalikku rünnakunurka, mis muudab sellele mõjuvat aerodünaamilist koormust, mis muudab deformatsiooni veelgi, ning sõltuvalt sellest, kuidas see tagasisideahel käitub, on tulemuseks kas divergents või flatter (struktuur-aerodünaamiline lehvimine). Divergents on staatiline ebastabiilsus -- teatud kriitilisest kiirusest edasi ületab väikesest väände suurenemisest tekkiv aerodünaamiline väändemoment struktuuri taastava väändejäikuse, mistõttu tiib jätkab piiramatult väänet puhtalt püsiva aerodünaamilise koormuse all, ilma võnkumiseta. Flatter on põhiolemuselt dünaamiline: see vajab vähemalt kahte seotud võnkevormi (tavaliselt paindumist ja väänet), mille omasagedused lähenevad üksteisele lennukiiruse kasvades, kuni kriitilisest flatterikiirusest kõrgemal suudab õhuvool seotud liikumisse pumbata energiat kiiremini, kui struktuuriline sumbuvus seda eemaldab, tekitades iseärgitseva võnkumise, mis ammutab energiat siledast õhuvoolust endast, ilma et oleks vaja välist puhangut selle säilitamiseks. Kuna mõlemat ebastabiilsust juhib struktuuri jäikus ja massijaotus aerodünaamiliste koormuste suhtes, mitte selle lõplik kandevõime, on aeroelastsus tõeliselt eraldiseisev projekteerimispiirang tavapärasest struktuurilisest tugevusest -- tiib võib olla piisavalt tugev, et koormuse all kunagi mitte murduda, kuid siiski flatteri poolt hävitatav, kui see ei ole piisavalt jäik.",
+    "sourceHash": "049b4b534f5c8a55",
+    "stale": false
+  },
+  "prerequisites": [
+    "aircraft-structures",
+    "aerodynamics-fundamentals"
+  ]
+}

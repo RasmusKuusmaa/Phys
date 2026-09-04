@@ -1,0 +1,10 @@
+{
+  "id": "aeroelasticity-m1",
+  "conceptId": "aeroelasticity",
+  "text": {
+    "en": "Believing aeroelastic flutter is caused by external turbulence or gusts shaking the aircraft, like ordinary buffeting -- in fact flutter is self-excited: once above the critical flutter speed, the coupled structural-aerodynamic feedback loop sustains and grows the oscillation using energy extracted from the smooth airstream itself, with no external gust needed to start or sustain it, though a gust can trigger its onset.",
+    "et": "Arvamus, et aeroelastiline flatter on põhjustatud välisest turbulentsist või puhangutest, mis raputavad õhusõidukit, sarnaselt tavalise turbulentsipõrutusega -- tegelikult on flatter iseärgitsev: kriitilisest flatterikiirusest kõrgemal säilitab ja kasvatab seotud struktuur-aerodünaamiline tagasisideahel võnkumist, ammutades energiat siledast õhuvoolust endast, ilma et oleks vaja välist puhangut selle alustamiseks või säilitamiseks, kuigi puhang võib selle vallandada.",
+    "sourceHash": "f76a34446e1d714c",
+    "stale": false
+  }
+}

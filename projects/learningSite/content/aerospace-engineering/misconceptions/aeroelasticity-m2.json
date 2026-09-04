@@ -1,0 +1,10 @@
+{
+  "id": "aeroelasticity-m2",
+  "conceptId": "aeroelasticity",
+  "text": {
+    "en": "Believing a stronger (higher yield strength) wing structure is automatically safer from aeroelastic problems -- in fact flutter and divergence are governed by stiffness (how much a structure deforms under load) and mass distribution, not by strength (how much load it takes before failure); a wing can be arbitrarily strong yet still flutter destructively if it is not stiff enough, since flutter is a dynamic instability that can destroy a structure through violent oscillation long before the material's strength limit is directly exceeded.",
+    "et": "Arvamus, et tugevam (kõrgema voolavuspiiriga) tiivakonstruktsioon on aeroelastiliste probleemide eest automaatselt ohutum -- tegelikult juhib flatterit ja divergentsi jäikus (kui palju struktuur koormuse all deformeerub) ja massijaotus, mitte tugevus (kui suurt koormust see enne purunemist talub); tiib võib olla suvaliselt tugev, kuid siiski flatteri poolt hävitatav, kui see ei ole piisavalt jäik, sest flatter on dünaamiline ebastabiilsus, mis võib struktuuri hävitada vägivaldse võnkumise kaudu kaua enne, kui materjali tugevuspiir otseselt ületatakse.",
+    "sourceHash": "f9ae3c2943db50d6",
+    "stale": false
+  }
+}

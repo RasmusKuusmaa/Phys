@@ -1,0 +1,56 @@
+{
+  "id": "aeroelasticity-item1",
+  "conceptId": "aeroelasticity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two aircraft wings have identical maximum load-carrying strength -- they fail at exactly the same applied bending moment -- but wing A is significantly stiffer in torsion than wing B. Which statement about their aeroelastic behavior is correct?",
+    "et": "Kahel õhusõiduki tiival on identne maksimaalne kandevõime -- need murduvad täpselt sama rakendatud paindemomendi juures --, kuid tiib A on väändes märgatavalt jäigem kui tiib B. Milline väide nende aeroelastilise käitumise kohta on õige?",
+    "sourceHash": "177d209570b2c734",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Wing B is likely to reach its critical flutter speed at a lower airspeed than wing A, because flutter is governed by structural stiffness and mass distribution relative to aerodynamic forces, not by ultimate load-carrying strength, so two equally strong wings can have very different flutter speeds.",
+        "et": "Tiib B jõuab tõenäoliselt oma kriitilise flatterikiiruseni väiksemal lennukiirusel kui tiib A, sest flatterit juhib struktuuri jäikus ja massijaotus aerodünaamiliste jõudude suhtes, mitte lõplik kandevõime, mistõttu kahel võrdselt tugeval tiival võivad olla väga erinevad flatterikiirused.",
+        "sourceHash": "1c95cd6112df7934",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both wings will only experience flutter if they fly through turbulent, gusty air, so in smooth air neither wing's flutter speed is relevant to safe operation.",
+        "et": "Mõlemad tiivad kogevad flatterit ainult siis, kui need lendavad läbi turbulentse, puhangulise õhu, mistõttu siledas õhus ei ole kummagi tiiva flatterikiirus lennuohutuse jaoks oluline.",
+        "sourceHash": "a3e2808687236174",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aeroelasticity-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Since both wings have identical strength, they must have identical flutter speeds, because a wing's resistance to aeroelastic instability is determined entirely by how much load it can carry before breaking.",
+        "et": "Kuna mõlemal tiival on identne tugevus, peab neil olema ka identne flatterikiirus, sest tiiva vastupanu aeroelastilisele ebastabiilsusele määrab täielikult see, kui suurt koormust see enne murdumist talub.",
+        "sourceHash": "c01d40a78e58c732",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aeroelasticity-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Flutter and divergence are the same instability, so if wing A's higher torsional stiffness raises its divergence speed, its flutter speed must increase by exactly the same amount.",
+        "et": "Flatter ja divergents on sama ebastabiilsus, mistõttu kui tiiva A suurem väändejäikus tõstab selle divergentsikiirust, peab ka selle flatterikiirus tõusma täpselt sama palju.",
+        "sourceHash": "e3dcecb36b3dfd83",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aeroelasticity-m3"
+    }
+  ]
+}
