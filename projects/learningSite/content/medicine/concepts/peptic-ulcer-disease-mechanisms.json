@@ -1,0 +1,21 @@
+{
+  "id": "peptic-ulcer-disease-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "gastrointestinal-and-hepatic-medicine",
+  "title": {
+    "en": "Peptic ulcer disease mechanisms",
+    "et": "Peptilise haavandtõve mehhanismid",
+    "sourceHash": "0721e12316107880",
+    "stale": false
+  },
+  "summary": {
+    "en": "The stomach lining survives constant exposure to its own highly acidic digestive juice only because a layer of protective mucus and bicarbonate secretion keeps that acid from ever directly contacting the epithelial cells underneath; a peptic ulcer forms when something disrupts this protective barrier faster than it can be repaired, letting acid and the enzyme pepsin erode through the epithelium and into deeper tissue. The two dominant mechanisms work by genuinely different routes to the same outcome: Helicobacter pylori, a bacterium that colonizes the stomach's mucus layer, directly damages the epithelium and triggers a chronic inflammatory response that further weakens the mucosal defense, while nonsteroidal anti-inflammatory drugs (NSAIDs) impair mucosal defense pharmacologically, by blocking the same cyclooxygenase enzyme pathway responsible for producing the protective prostaglandins that normally stimulate mucus and bicarbonate secretion. Because both mechanisms act on the defense side of the acid-versus-defense balance rather than by increasing acid production itself, peptic ulcer disease is best understood not as \"too much acid\" but as a breakdown of the mechanisms that normally keep entirely normal acid levels from causing harm.",
+    "et": "Maolimaskest talub pidevat kokkupuudet oma väga happelise seedemahlaga ainult seetõttu, et kaitsva lima ja bikarbonaadi eritumise kiht hoiab ära hape kunagi otsese kokkupuute all olevate epiteelirakkudega; peptiline haavand tekib, kui miski häirib seda kaitsebarjääri kiiremini, kui seda saab parandada, lastes happel ja ensüümil pepsiin süveneda läbi epiteeli sügavamasse koesse. Kaks domineerivat mehhanismi töötavad tõeliselt erinevate teede kaudu sama tulemuseni: Helicobacter pylori, bakter, mis koloniseerib mao limakihti, kahjustab otseselt epiteeli ja käivitab kroonilise põletikulise reaktsiooni, mis nõrgestab veelgi limaskesta kaitset, samas kui mittesteroidsed põletikuvastased ravimid (MSPVA-d) kahjustavad limaskesta kaitset farmakoloogiliselt, blokeerides sama tsüklooksügenaasi ensüümirada, mis vastutab kaitsvate prostaglandiinide tootmise eest, mis tavaliselt stimuleerivad lima ja bikarbonaadi eritumist. Kuna mõlemad mehhanismid mõjutavad happe-versus-kaitse tasakaalu kaitsepoolt, mitte hapet tootmise enda suurendamise kaudu, on peptilist haavandtõbe kõige parem mõista mitte kui \"liiga palju hapet\", vaid kui mehhanismide lagunemist, mis tavaliselt hoiavad täiesti normaalse happesisalduse kahju tekitamast.",
+    "sourceHash": "82713fcbb967af00",
+    "stale": false
+  },
+  "prerequisites": [
+    "digestive-system-anatomy-and-physiology"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "peptic-ulcer-disease-mechanisms-m1",
+  "conceptId": "peptic-ulcer-disease-mechanisms",
+  "text": {
+    "en": "Peptic ulcers are primarily caused by eating spicy food or having a stressful lifestyle -- in reality, the two dominant mechanisms are Helicobacter pylori infection and NSAID use, both of which disrupt the stomach's mucosal defense against its own acid; spicy food and stress can aggravate existing symptoms but are not the primary underlying cause the way these two mechanisms are.",
+    "et": "Peptilised haavandid on peamiselt põhjustatud vürtsika toidu söömisest või stressirohkest elustiilist -- tegelikult on kaks domineerivat mehhanismi Helicobacter pylori infektsioon ja MSPVA-de kasutamine, mis mõlemad häirivad mao limaskesta kaitset oma happe vastu; vürtsikas toit ja stress võivad süvendada olemasolevaid sümptomeid, kuid ei ole primaarne aluseks olev põhjus nii nagu need kaks mehhanismi.",
+    "sourceHash": "4de207629fe7218b",
+    "stale": false
+  }
+}

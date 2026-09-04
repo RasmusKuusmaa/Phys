@@ -1,0 +1,10 @@
+{
+  "id": "peptic-ulcer-disease-mechanisms-m2",
+  "conceptId": "peptic-ulcer-disease-mechanisms",
+  "text": {
+    "en": "Peptic ulcer disease means the stomach is producing too much acid -- in reality, both major mechanisms (H. pylori infection, NSAID use) act primarily on the mucosal defense side of the balance, not by increasing acid production; the underlying problem is usually a breakdown of the defenses that normally protect against entirely normal acid levels, not excess acid itself.",
+    "et": "Peptiline haavandtõbi tähendab, et magu toodab liiga palju hapet -- tegelikult mõjutavad mõlemad peamised mehhanismid (H. pylori infektsioon, MSPVA-de kasutamine) peamiselt tasakaalu limaskesta kaitsepoolt, mitte happe tootmise suurendamise kaudu; aluseks olev probleem on tavaliselt selliste kaitsemehhanismide lagunemine, mis tavaliselt kaitsevad täiesti normaalse happesisalduse eest, mitte liigne hape ise.",
+    "sourceHash": "05709406cbeeaac3",
+    "stale": false
+  }
+}

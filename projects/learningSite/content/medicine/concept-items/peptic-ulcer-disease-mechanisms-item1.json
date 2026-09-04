@@ -1,0 +1,56 @@
+{
+  "id": "peptic-ulcer-disease-mechanisms-item1",
+  "conceptId": "peptic-ulcer-disease-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is peptic ulcer disease better understood as a breakdown of mucosal defense rather than simply 'too much stomach acid'?",
+    "et": "Miks on peptilist haavandtõbe parem mõista kui limaskesta kaitse lagunemist, mitte lihtsalt kui 'liiga palju maohapet'?",
+    "sourceHash": "042319b5636d1e31",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both major mechanisms (H. pylori infection, NSAID use) primarily impair the mucus/bicarbonate defense system, letting entirely normal acid levels cause damage that the intact defense would normally prevent.",
+        "et": "Mõlemad peamised mehhanismid (H. pylori infektsioon, MSPVA-de kasutamine) kahjustavad peamiselt lima/bikarbonaadi kaitsesüsteemi, lastes täiesti normaalsel happesisaldusel tekitada kahju, mida terve kaitse tavaliselt ennetaks.",
+        "sourceHash": "cbfb53c78c0b067f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Spicy food and stress are actually the primary drivers of ulcer formation, with H. pylori and NSAIDs playing only a minor supporting role.",
+        "et": "Vürtsikas toit ja stress on tegelikult haavandi tekke peamised põhjustajad, kusjuures H. pylori ja MSPVA-d mängivad ainult vähetähtsat toetavat rolli.",
+        "sourceHash": "63698d86c4938086",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "peptic-ulcer-disease-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both mechanisms actually work by increasing the stomach's acid output well beyond normal levels, which is why reducing acid production is the only relevant consideration.",
+        "et": "Mõlemad mehhanismid toimivad tegelikult mao happe väljundi suurendamise kaudu tunduvalt üle normaalse taseme, mis ongi põhjus, miks happe tootmise vähendamine on ainus asjakohane kaalutlus.",
+        "sourceHash": "39848826fc234c62",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "peptic-ulcer-disease-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "H. pylori and NSAIDs both increase acid production through the identical pharmacological pathway, just triggered by different initial causes.",
+        "et": "H. pylori ja MSPVA-d suurendavad mõlemad happe tootmist identse farmakoloogilise raja kaudu, lihtsalt erinevate esialgsete põhjuste käivitatuna.",
+        "sourceHash": "ccc5edd55f621a06",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "peptic-ulcer-disease-mechanisms-m3"
+    }
+  ]
+}

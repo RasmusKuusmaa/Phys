@@ -1,0 +1,10 @@
+{
+  "id": "peptic-ulcer-disease-mechanisms-m3",
+  "conceptId": "peptic-ulcer-disease-mechanisms",
+  "text": {
+    "en": "H. pylori infection and NSAID use cause ulcers through the same mechanism, just from different triggers -- in reality, they act through genuinely different routes: H. pylori directly colonizes and damages the epithelium while triggering chronic inflammation, whereas NSAIDs work pharmacologically by blocking the cyclooxygenase pathway that produces protective prostaglandins, impairing mucus and bicarbonate secretion without any infection being involved at all.",
+    "et": "H. pylori infektsioon ja MSPVA-de kasutamine põhjustavad haavandeid sama mehhanismi kaudu, lihtsalt erinevatest vallandajatest -- tegelikult toimivad need tõeliselt erinevate teede kaudu: H. pylori koloniseerib ja kahjustab otseselt epiteeli, käivitades samal ajal kroonilise põletiku, samas kui MSPVA-d toimivad farmakoloogiliselt, blokeerides tsüklooksügenaasi rada, mis toodab kaitsvaid prostaglandiine, kahjustades lima ja bikarbonaadi eritumist ilma igasuguse infektsioonita.",
+    "sourceHash": "f70e652ac7ae872d",
+    "stale": false
+  }
+}
