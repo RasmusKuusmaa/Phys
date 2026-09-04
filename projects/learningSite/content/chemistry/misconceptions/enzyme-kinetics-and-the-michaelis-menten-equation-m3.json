@@ -1,0 +1,10 @@
+{
+  "id": "enzyme-kinetics-and-the-michaelis-menten-equation-m3",
+  "conceptId": "enzyme-kinetics-and-the-michaelis-menten-equation",
+  "text": {
+    "en": "Believing doubling the amount of enzyme present in a reaction, at a substrate concentration high enough to already saturate the original amount of enzyme, will not further increase the reaction's maximum rate -- the maximum rate an enzyme-catalyzed reaction can achieve is directly proportional to the total amount of enzyme present, since it reflects every enzyme molecule working at its own maximum turnover rate simultaneously; doubling the enzyme concentration doubles the total number of active sites available to work on substrate, and therefore doubles the maximum rate, even though the substrate concentration needed to reach half of that (now higher) maximum rate, the Michaelis constant, stays the same, since it is a property of the enzyme-substrate pair, not of how much enzyme is present.",
+    "et": "Arvamus, et kohaloleva ensüümi koguse kahekordistamine reaktsioonis, substraadi kontsentratsiooni juures, mis on juba piisavalt kõrge, et küllastada algset ensüümi kogust, ei suurenda reaktsiooni maksimaalset kiirust veelgi -- ensüümi poolt katalüüsitud reaktsiooni maksimaalne saavutatav kiirus on otseselt võrdeline kohaloleva ensüümi kogukogusega, kuna see kajastab iga ensüümimolekuli, mis töötab samaaegselt oma enda maksimaalse käibekiirusega; ensüümi kontsentratsiooni kahekordistamine kahekordistab substraadi töötlemiseks saadaolevate aktiivsete tsentrite koguarvu ja seega kahekordistab maksimaalse kiiruse, kuigi substraadi kontsentratsioon, mis on vajalik selle (nüüd kõrgema) maksimumi pooleni jõudmiseks, Michaelise konstant, jääb samaks, kuna see on ensüüm-substraat paari omadus, mitte kohaloleva ensüümi koguse omadus.",
+    "sourceHash": "024c732f6b30b28e",
+    "stale": false
+  }
+}

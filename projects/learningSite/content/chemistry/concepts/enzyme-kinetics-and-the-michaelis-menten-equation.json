@@ -1,0 +1,22 @@
+{
+  "id": "enzyme-kinetics-and-the-michaelis-menten-equation",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "biochemistry",
+  "title": {
+    "en": "Enzyme kinetics and the Michaelis-Menten equation",
+    "et": "Ensüümikineetika ja Michaelis-Menteni võrrand",
+    "sourceHash": "b9b50cefdfdc2e10",
+    "stale": false
+  },
+  "summary": {
+    "en": "An enzyme first binds its substrate reversibly into an enzyme-substrate complex before converting it to product, and this two-step mechanism produces a reaction rate that behaves completely differently depending on how much substrate is present: at low substrate concentration, most enzyme molecules sit unoccupied waiting for substrate, so the rate rises roughly in direct proportion to substrate concentration exactly as an ordinary first-order reaction would, but as substrate concentration keeps rising, an ever-larger fraction of the fixed total enzyme population becomes occupied and busy, and the rate's further increase slows and eventually levels off entirely at a maximum value once essentially every enzyme molecule is continuously saturated with substrate, a genuine saturation kinetics captured exactly by the Michaelis-Menten equation, whose two defining parameters -- the maximum rate the enzyme can ever achieve, and the substrate concentration at which the rate reaches exactly half that maximum -- together characterize a given enzyme's catalytic behavior far more completely than any single rate constant could.",
+    "et": "Ensüüm seob esmalt oma substraadi pöörduvalt ensüüm-substraat kompleksiks, enne kui muudab selle produktiks, ning see kaheastmeline mehhanism toodab reaktsioonikiiruse, mis käitub täiesti erinevalt olenevalt sellest, kui palju substraati on kohal: madala substraadi kontsentratsiooni juures istub enamik ensüümimolekule hõivamata, oodates substraati, seega tõuseb kiirus ligikaudu otseses proportsioonis substraadi kontsentratsiooniga täpselt nii, nagu teeks tavaline esimest järku reaktsioon, kuid substraadi kontsentratsiooni jätkuvalt tõustes muutub üha suurem osa fikseeritud kogu ensüümipopulatsioonist hõivatuks ja hõivatuks, ning kiiruse edasine tõus aeglustub ja lõpuks tasandub täielikult maksimaalsele väärtusele, kui sisuliselt iga ensüümimolekul on pidevalt substraadiga küllastunud, tõeline küllastuskineetika, mille tabab täpselt Michaelis-Menteni võrrand, mille kaks määravat parameetrit -- maksimaalne kiirus, mille ensüüm kunagi saavutada suudab, ja substraadi kontsentratsioon, mille juures kiirus jõuab täpselt poole selle maksimumini -- iseloomustavad koos antud ensüümi katalüütilist käitumist palju täielikumalt kui ükski üksik kiiruskonstant suudaks.",
+    "sourceHash": "0f0d4a4c76b76c6f",
+    "stale": false
+  },
+  "prerequisites": [
+    "reaction-rate-laws-and-order",
+    "amino-acids-peptide-bonds-and-protein-primary-structure"
+  ]
+}

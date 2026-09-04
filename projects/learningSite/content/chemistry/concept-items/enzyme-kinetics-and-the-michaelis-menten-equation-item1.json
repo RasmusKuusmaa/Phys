@@ -1,0 +1,56 @@
+{
+  "id": "enzyme-kinetics-and-the-michaelis-menten-equation-item1",
+  "conceptId": "enzyme-kinetics-and-the-michaelis-menten-equation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An enzyme-catalyzed reaction's rate rises roughly in proportion to substrate concentration at low substrate levels, but levels off at a fixed maximum rate at high substrate levels. Why does the rate stop increasing at high substrate concentration?",
+    "et": "Ensüümi poolt katalüüsitud reaktsiooni kiirus tõuseb madalate substraaditasemete juures ligikaudu proportsionaalselt substraadi kontsentratsiooniga, kuid tasandub kõrgete substraaditasemete juures fikseeritud maksimaalsele kiirusele. Miks lakkab kiirus kõrge substraadi kontsentratsiooni juures suurenemast?",
+    "sourceHash": "3ec033b46b2bd5b7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Essentially every enzyme molecule becomes continuously occupied with substrate (saturation), so the fixed total amount of enzyme present becomes the limiting factor regardless of how much more substrate is added.",
+        "et": "Sisuliselt iga ensüümimolekul saab pidevalt substraadiga hõivatud (küllastus), seega saab kohaloleva ensüümi fikseeritud kogus piiravaks teguriks, olenemata sellest, kui palju rohkem substraati lisatakse.",
+        "sourceHash": "654e5599106bf2c9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The rate should actually keep increasing in direct proportion to substrate concentration indefinitely, so any observed leveling off must indicate an experimental error.",
+        "et": "Kiirus peaks tegelikult jätkuvalt tõusma otseses proportsioonis substraadi kontsentratsiooniga lõputult, seega peab mistahes vaadeldud tasandumine viitama eksperimentaalsele veale.",
+        "sourceHash": "d5e8dccd25b9aede",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "enzyme-kinetics-and-the-michaelis-menten-equation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The Michaelis constant has been exceeded, meaning the physical amount of substrate present in the reaction has run out and cannot increase the rate further.",
+        "et": "Michaelise konstant on ületatud, mis tähendab, et reaktsioonis kohaloleva substraadi füüsiline kogus on otsa saanud ega saa kiirust enam suurendada.",
+        "sourceHash": "c0736218b696cac2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "enzyme-kinetics-and-the-michaelis-menten-equation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Doubling the enzyme concentration at this point would have no effect on the maximum rate, since the maximum rate is a fixed property unrelated to how much enzyme is present.",
+        "et": "Ensüümi kontsentratsiooni kahekordistamine sel hetkel ei mõjutaks maksimaalset kiirust, kuna maksimaalne kiirus on fikseeritud omadus, mis ei ole seotud kohaloleva ensüümi kogusega.",
+        "sourceHash": "03e38aa6e6780de6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "enzyme-kinetics-and-the-michaelis-menten-equation-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "enzyme-kinetics-and-the-michaelis-menten-equation-m1",
+  "conceptId": "enzyme-kinetics-and-the-michaelis-menten-equation",
+  "text": {
+    "en": "Believing an enzyme-catalyzed reaction's rate should keep increasing in direct proportion to substrate concentration no matter how much substrate is added, the same way an ordinary uncatalyzed first-order reaction's rate would -- this holds only at comparatively low substrate concentration, where most enzyme molecules sit unoccupied; once substrate concentration rises high enough that essentially every enzyme molecule is continuously occupied and working (saturation), the fixed total amount of enzyme present becomes the limiting factor, and the rate levels off at a maximum value regardless of how much additional substrate is added, a genuine saturation behavior with no ordinary first-order counterpart.",
+    "et": "Arvamus, et ensüümi poolt katalüüsitud reaktsiooni kiirus peaks jätkuvalt tõusma otseses proportsioonis substraadi kontsentratsiooniga, ükskõik kui palju substraati lisatakse, samamoodi nagu teeks tavalise katalüüsimata esimest järku reaktsiooni kiirus -- see kehtib ainult võrdlemisi madala substraadi kontsentratsiooni juures, kus enamik ensüümimolekule istub hõivamata; kord kui substraadi kontsentratsioon tõuseb piisavalt kõrgeks, et sisuliselt iga ensüümimolekul on pidevalt hõivatud ja töötab (küllastus), muutub kohaloleva ensüümi fikseeritud kogus piiravaks teguriks, ning kiirus tasandub maksimaalsele väärtusele, olenemata sellest, kui palju täiendavat substraati lisatakse, tõeline küllastuskäitumine ilma tavalise esimest järku vasteta.",
+    "sourceHash": "2e98b38c6aeb73a3",
+    "stale": false
+  }
+}

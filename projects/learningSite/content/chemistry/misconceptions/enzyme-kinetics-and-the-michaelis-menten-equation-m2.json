@@ -1,0 +1,10 @@
+{
+  "id": "enzyme-kinetics-and-the-michaelis-menten-equation-m2",
+  "conceptId": "enzyme-kinetics-and-the-michaelis-menten-equation",
+  "text": {
+    "en": "Believing the Michaelis constant (the substrate concentration at which the reaction rate reaches half its maximum value) measures how much substrate is physically present in a typical reaction, rather than being a characteristic property of the enzyme-substrate pair itself -- the Michaelis constant is specifically a kinetic parameter reflecting the effective balance between how quickly the enzyme-substrate complex forms and breaks apart (back to separate enzyme and substrate) versus how quickly it proceeds on to product, and it is a fixed characteristic of a given enzyme acting on a given substrate under given conditions, not a quantity that simply reports how much substrate happens to be in a specific reaction mixture at a specific moment.",
+    "et": "Arvamus, et Michaelise konstant (substraadi kontsentratsioon, mille juures reaktsiooni kiirus jõuab poolele oma maksimaalsest väärtusest) mõõdab, kui palju substraati on tüüpilises reaktsioonis füüsiliselt kohal, selle asemel et olla ensüüm-substraat paari enda iseloomulik omadus -- Michaelise konstant on spetsiifiliselt kineetiline parameeter, mis kajastab efektiivset tasakaalu selle vahel, kui kiiresti ensüüm-substraat kompleks moodustub ja laguneb tagasi (eraldi ensüümiks ja substraadiks) versus kui kiiresti see jätkub produktini, ning see on antud ensüümi fikseeritud iseloomulik omadus, mis toimib antud substraadile antud tingimustel, mitte suurus, mis lihtsalt teatab, kui palju substraati juhtub olema konkreetses reaktsioonisegus konkreetsel hetkel.",
+    "sourceHash": "6d965a584075fcee",
+    "stale": false
+  }
+}
