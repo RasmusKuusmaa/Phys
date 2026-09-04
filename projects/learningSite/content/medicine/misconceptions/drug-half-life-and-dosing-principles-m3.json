@@ -1,0 +1,10 @@
+{
+  "id": "drug-half-life-and-dosing-principles-m3",
+  "conceptId": "drug-half-life-and-dosing-principles",
+  "text": {
+    "en": "A drug reaches its full steady-state concentration as soon as you start taking it regularly, from the very first dose -- in reality, steady state is only reached gradually, after roughly four to five half-lives of repeated dosing at a fixed interval, which is why a drug with a long half-life can take days or even weeks to reach its full therapeutic concentration.",
+    "et": "Ravim saavutab oma täieliku tasakaalukontsentratsiooni kohe, kui hakata seda regulaarselt võtma, juba esimesest annusest alates -- tegelikult saavutatakse tasakaalukontsentratsioon alles järk-järgult, umbes nelja kuni viie poolestusaja jooksul kindla ajavahemiku tagant korduval manustamisel, mistõttu pika poolestusajaga ravimil võib kuluda päevi või isegi nädalaid oma täieliku terapeutilise kontsentratsiooni saavutamiseks.",
+    "sourceHash": "eaad2bbd4a56a415",
+    "stale": false
+  }
+}

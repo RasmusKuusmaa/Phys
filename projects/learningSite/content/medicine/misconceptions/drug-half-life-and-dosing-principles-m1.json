@@ -1,0 +1,10 @@
+{
+  "id": "drug-half-life-and-dosing-principles-m1",
+  "conceptId": "drug-half-life-and-dosing-principles",
+  "text": {
+    "en": "A drug's half-life means a fixed amount of drug is eliminated every half-life period, so after two half-lives, 100% of the drug is gone -- in reality, first-order elimination clears a constant fraction (half) of whatever remains, not a constant amount, so after two half-lives 75% is gone and 25% remains, and mathematically the concentration approaches but never mathematically reaches exactly zero.",
+    "et": "Ravimi poolestusaeg tähendab, et iga poolestusaja jooksul kõrvaldatakse kindel kogus ravimit, mistõttu kahe poolestusaja järel on 100% ravimist kadunud -- tegelikult kõrvaldab esimest järku eritumine konstantse osa (poole) sellest, mis alles on, mitte konstantset kogust, mistõttu kahe poolestusaja järel on 75% kadunud ja 25% alles, ning matemaatiliselt läheneb kontsentratsioon nullile, kuid ei jõua sinna matemaatiliselt kunagi täpselt.",
+    "sourceHash": "51cb15c2b975c151",
+    "stale": false
+  }
+}

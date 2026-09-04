@@ -1,0 +1,56 @@
+{
+  "id": "drug-half-life-and-dosing-principles-item1",
+  "conceptId": "drug-half-life-and-dosing-principles",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient takes a single dose of a drug with a 6-hour elimination half-life. Roughly how much of the original drug concentration remains in their blood 12 hours later?",
+    "et": "Patsient võtab ühekordse annuse ravimit, mille eritumise poolestusaeg on 6 tundi. Ligikaudu kui suur osa algsest ravimi kontsentratsioonist on tema veres alles 12 tunni pärast?",
+    "sourceHash": "a66216701089cc51",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "About 25% -- two half-lives (12 hours / 6 hours) have passed, and each halves the remaining concentration, so 100% -> 50% -> 25%.",
+        "et": "Umbes 25% -- kaks poolestusaega (12 tundi / 6 tundi) on möödunud, ning kumbki poolitab allesjäänud kontsentratsiooni, seega 100% -> 50% -> 25%.",
+        "sourceHash": "91fe9f4818741f4c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "0% -- two half-lives means the drug has been completely eliminated from the body.",
+        "et": "0% -- kaks poolestusaega tähendab, et ravim on organismist täielikult kõrvaldatud.",
+        "sourceHash": "aa9925f2b29a3ec3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drug-half-life-and-dosing-principles-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It depends entirely on the size of the original dose -- a larger dose would take proportionally longer to fall to 25%.",
+        "et": "See sõltub täielikult algse annuse suurusest -- suurem annus võtaks 25%-ni langemiseks proportsionaalselt kauem aega.",
+        "sourceHash": "96a914287f80c653",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drug-half-life-and-dosing-principles-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "About 100% -- steady state hasn't been reached yet since this is a single dose, so essentially none of it has been eliminated.",
+        "et": "Umbes 100% -- tasakaalukontsentratsiooni pole veel saavutatud, kuna tegemist on ühekordse annusega, mistõttu peaaegu mitte midagi pole veel kõrvaldatud.",
+        "sourceHash": "8d2110b3dbc3438d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drug-half-life-and-dosing-principles-m3"
+    }
+  ]
+}

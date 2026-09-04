@@ -1,0 +1,37 @@
+{
+  "id": "drug-half-life-and-dosing-principles-solve-C",
+  "formulaId": "drug-half-life-and-dosing-principles-formula1",
+  "solveFor": "C",
+  "mistakes": [
+    {
+      "id": "used-growth-instead-of-decay",
+      "description": {
+        "en": "Used the growth form of the exponential (doubling) instead of the decay form (halving), treating the drug concentration as if it were accumulating rather than being eliminated.",
+        "et": "Kasutas eksponendi kasvuvormi (kahekordistumine) kahanemisvormi (poolitumine) asemel, käsitledes ravimi kontsentratsiooni nii, nagu see koguneks, mitte ei kõrvaldataks.",
+        "sourceHash": "31912fb7b5f186df",
+        "stale": false
+      },
+      "expression": "C0*pow(2, t/T)"
+    },
+    {
+      "id": "linear-instead-of-exponential",
+      "description": {
+        "en": "Modeled elimination as linear (subtracting one half-life-fraction worth of the original concentration) instead of exponential.",
+        "et": "Modelleeris eritumist lineaarsena (lahutades ühe poolestusaja osa võrra algkontsentratsioonist), mitte eksponentsiaalsena.",
+        "sourceHash": "74c2b013b2a10e74",
+        "stale": false
+      },
+      "expression": "C0*(1-t/T)"
+    },
+    {
+      "id": "inverted-the-time-ratio",
+      "description": {
+        "en": "Inverted the time-over-half-life ratio in the exponent, computing T/t instead of t/T.",
+        "et": "Pööras eksponendis aja ja poolestusaja suhte ümber, arvutades T/t, mitte t/T.",
+        "sourceHash": "7bd7c74c0c10ede0",
+        "stale": false
+      },
+      "expression": "C0*pow(0.5, T/t)"
+    }
+  ]
+}

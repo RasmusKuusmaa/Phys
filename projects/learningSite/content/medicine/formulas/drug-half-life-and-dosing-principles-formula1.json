@@ -1,0 +1,57 @@
+{
+  "id": "drug-half-life-and-dosing-principles-formula1",
+  "conceptId": "drug-half-life-and-dosing-principles",
+  "latex": "C = C_0 \\left(\\frac{1}{2}\\right)^{t/T}",
+  "symbols": [
+    {
+      "symbol": "C",
+      "name": {
+        "en": "concentration",
+        "et": "kontsentratsioon",
+        "sourceHash": "bdc4f42527047f25",
+        "stale": false
+      },
+      "unit": "kg/m^3"
+    },
+    {
+      "symbol": "C0",
+      "name": {
+        "en": "concentration",
+        "et": "kontsentratsioon",
+        "sourceHash": "bdc4f42527047f25",
+        "stale": false
+      },
+      "unit": "kg/m^3"
+    },
+    {
+      "symbol": "t",
+      "name": {
+        "en": "time",
+        "et": "aeg",
+        "sourceHash": "336074805fc85398",
+        "stale": false
+      },
+      "unit": "s"
+    },
+    {
+      "symbol": "T",
+      "name": {
+        "en": "half-life",
+        "et": "poolestusaeg",
+        "sourceHash": "02c545db43902bab",
+        "stale": false
+      },
+      "unit": "s"
+    }
+  ],
+  "solveFor": [
+    "C",
+    "t",
+    "T"
+  ],
+  "expressions": {
+    "C": "C0*pow(0.5, t/T)",
+    "t": "T*ln(C/C0)/ln(0.5)",
+    "T": "t*ln(0.5)/ln(C/C0)"
+  }
+}

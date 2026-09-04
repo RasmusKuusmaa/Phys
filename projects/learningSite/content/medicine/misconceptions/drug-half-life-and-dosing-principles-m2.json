@@ -1,0 +1,10 @@
+{
+  "id": "drug-half-life-and-dosing-principles-m2",
+  "conceptId": "drug-half-life-and-dosing-principles",
+  "text": {
+    "en": "Doubling a drug's dose will double how long it stays in the body -- in reality, half-life for a first-order-elimination drug is independent of the starting concentration: doubling the dose roughly doubles the concentration at every point in time, but the time to fall by half stays the same regardless of the starting amount.",
+    "et": "Ravimi annuse kahekordistamine kahekordistab selle organismis püsimise aja -- tegelikult on esimest järku eritumisega ravimi poolestusaeg algkontsentratsioonist sõltumatu: annuse kahekordistamine kahekordistab ligikaudu kontsentratsiooni igal ajahetkel, kuid poolenemiseks kuluv aeg jääb samaks olenemata algkogusest.",
+    "sourceHash": "5ed6e8018e97feee",
+    "stale": false
+  }
+}

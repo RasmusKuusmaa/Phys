@@ -1,0 +1,21 @@
+{
+  "id": "drug-half-life-and-dosing-principles",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "pharmacology",
+  "title": {
+    "en": "Drug half-life and dosing principles",
+    "et": "Ravimi poolestusaeg ja annustamise põhimõtted",
+    "sourceHash": "6946b155861dcc17",
+    "stale": false
+  },
+  "summary": {
+    "en": "Once a drug reaches the bloodstream, its concentration doesn't stay constant -- for most drugs, elimination (the combined effect of metabolism and excretion) follows first-order kinetics, meaning a constant fraction of the remaining drug is cleared per unit time rather than a constant amount, which produces the same halving-every-fixed-interval pattern as radioactive decay. That fixed interval is the drug's elimination half-life: the time it takes for the blood concentration to drop by half, regardless of the starting concentration. Half-life determines two of the most practically important facts about a drug: how long a single dose keeps working, and how often repeated doses need to be given to keep the concentration within a therapeutic range. When a drug is given repeatedly at a fixed interval, its blood concentration rises with each dose and gradually plateaus at a steady state, reached (to a good approximation) after about four to five half-lives have elapsed -- a rule of thumb that applies equally to a drug building up toward its therapeutic effect and to a drug clearing from the body after treatment stops, which is why a drug with a very long half-life takes correspondingly longer to reach steady state, to be adjusted safely, or to fully leave the body once stopped.",
+    "et": "Kui ravim jõuab vereringesse, ei püsi selle kontsentratsioon konstantsena -- enamiku ravimite eritumine (metabolismi ja eritumise kombineeritud toime) järgib esimest järku kineetikat, mis tähendab, et ajaühikus kõrvaldatakse konstantne osa allesjäänud ravimist, mitte konstantne kogus, mis tekitab sama iga kindla ajavahemiku tagant poolituva mustri, mis radioaktiivsel lagunemisel. See kindel ajavahemik ongi ravimi eritumise poolestusaeg: aeg, mis kulub vere kontsentratsiooni poolenemiseks, olenemata algsest kontsentratsioonist. Poolestusaeg määrab kaks praktiliselt kõige olulisemat fakti ravimi kohta: kui kaua üksik annus toimib, ja kui sageli tuleb korduvaid annuseid manustada, et hoida kontsentratsiooni terapeutilises vahemikus. Kui ravimit manustatakse korduvalt kindla ajavahemiku tagant, tõuseb selle vere kontsentratsioon iga annusega ning jõuab järk-järgult platoole ehk tasakaalukontsentratsioonini, mis saavutatakse (heaks lähenduseks) umbes nelja kuni viie poolestusaja möödudes -- rusikareegel, mis kehtib võrdselt nii ravimi jaoks, mis koguneb oma terapeutilise toimeni, kui ravimi jaoks, mis organismist pärast ravi lõpetamist kaob, mistõttu väga pika poolestusajaga ravimil kulub vastavalt kauem aega tasakaalukontsentratsiooni saavutamiseks, ohutuks kohandamiseks või organismist täielikult lahkumiseks pärast manustamise lõpetamist.",
+    "sourceHash": "7a2302b65375ea11",
+    "stale": false
+  },
+  "prerequisites": [
+    "pharmacokinetics-absorption-distribution-metabolism-excretion"
+  ]
+}
