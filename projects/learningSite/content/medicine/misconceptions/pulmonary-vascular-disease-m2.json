@@ -1,0 +1,10 @@
+{
+  "id": "pulmonary-vascular-disease-m2",
+  "conceptId": "pulmonary-vascular-disease",
+  "text": {
+    "en": "A pulmonary embolism only causes problems by blocking gas exchange in the affected lung region, similar to pneumonia -- in reality, a large embolism also acts as a sudden mechanical obstruction to the entire right side of the heart's output, since all blood the right ventricle pumps must pass through the pulmonary arteries; a large enough embolism can cause acute right ventricular failure and circulatory collapse through a mechanism much closer to obstructive shock than to a purely regional gas-exchange problem.",
+    "et": "Kopsuemboolia põhjustab probleeme ainult gaasivahetuse blokeerimisega mõjutatud kopsupiirkonnas, sarnaselt kopsupõletikuga -- tegelikult toimib suur emboolia ka äkilise mehaanilise takistusena kogu südame parema poole väljundile, kuna kogu veri, mida parem vatsake pumbab, peab läbima kopsuartereid; piisavalt suur emboolia võib põhjustada ägeda parema vatsakese puudulikkuse ja vereringe kollapsi mehhanismi kaudu, mis on palju lähemal obstruktiivsele šokile kui puhtalt piirkondlikule gaasivahetusprobleemile.",
+    "sourceHash": "d5ec489a7744ce59",
+    "stale": false
+  }
+}

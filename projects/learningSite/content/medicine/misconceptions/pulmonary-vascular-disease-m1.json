@@ -1,0 +1,10 @@
+{
+  "id": "pulmonary-vascular-disease-m1",
+  "conceptId": "pulmonary-vascular-disease",
+  "text": {
+    "en": "A pulmonary embolism is fundamentally a lung infection or lung-specific disease, unrelated to the venous system elsewhere in the body -- in reality, a pulmonary embolism is almost always a blood clot that formed in a deep vein of the leg or pelvis and traveled to the lung -- the direct lung-specific application of the embolism mechanism, not a disease that originates in the lung itself.",
+    "et": "Kopsuemboolia on põhimõtteliselt kopsuinfektsioon või kopsuspetsiifiline haigus, mis pole seotud mujal kehas oleva veenisüsteemiga -- tegelikult on kopsuemboolia peaaegu alati verehüüve, mis moodustus jala või vaagna sügavas veenis ja liikus kopsu -- embolia mehhanismi otsene kopsuspetsiifiline rakendus, mitte haigus, mis saab alguse kopsus endas.",
+    "sourceHash": "f1c9bf6f753d5deb",
+    "stale": false
+  }
+}

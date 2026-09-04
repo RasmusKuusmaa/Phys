@@ -1,0 +1,10 @@
+{
+  "id": "pulmonary-vascular-disease-m3",
+  "conceptId": "pulmonary-vascular-disease",
+  "text": {
+    "en": "Pulmonary hypertension and a pulmonary embolism are essentially unrelated conditions -- in reality, they are related versions of the same underlying vascular problem at different timescales: an embolism is one sudden blockage of a pulmonary artery, while pulmonary hypertension can arise from repeated small clots (among other causes) narrowing and stiffening the pulmonary arteries chronically, both ultimately forcing the right ventricle to work against increased resistance.",
+    "et": "Kopsuhüpertensioon ja kopsuemboolia on sisuliselt omavahel seostamata seisundid -- tegelikult on need sama aluseks oleva veresoonteprobleemi seotud versioonid erinevatel ajaskaaladel: emboolia on kopsuarteri üks äkiline blokaad, samas kui kopsuhüpertensioon võib tekkida korduvatest väikestest hüüvetest (muude põhjuste hulgas), mis ahendavad ja jäigestavad kopsuartereid krooniliselt, mõlemad lõpuks sundides parema vatsakese töötama vastu suurenenud resistentsust.",
+    "sourceHash": "01e8960d1eb6a8c3",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pulmonary-vascular-disease",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "respiratory-medicine",
+  "title": {
+    "en": "Pulmonary vascular disease",
+    "et": "Kopsu veresoonkonna haigused",
+    "sourceHash": "580eb00ba600436d",
+    "stale": false
+  },
+  "summary": {
+    "en": "A pulmonary embolism is the direct lung-specific application of the embolism mechanism already covered in this subject's thrombosis-embolism-and-infarction concept: a blood clot, almost always formed in a deep vein of the leg or pelvis, breaks loose, travels through the venous system and the right side of the heart, and lodges in a pulmonary artery, where it does two kinds of damage at once. Mechanically, it obstructs blood flow to whatever portion of lung tissue that artery supplies, creating a region that is ventilated with air but no longer receives blood flow -- a dead-space-like V/Q mismatch that is the opposite pattern from the shunt-producing mismatch seen in pneumonia, but still ultimately impairs gas exchange. Beyond that regional problem, a large embolism also acts as a sudden mechanical obstruction to the entire right side of the heart's output, since all blood pumped by the right ventricle must pass through the pulmonary arteries to reach the lungs; if the obstruction is large enough, the right ventricle can acutely fail from having to pump against a suddenly and massively increased resistance, producing circulatory collapse through a mechanism much closer to obstructive shock than to a purely respiratory problem. Pulmonary hypertension is a related but chronic version of the same underlying vascular problem: rather than one sudden blockage, the pulmonary arteries themselves narrow and stiffen over time (from repeated small clots, chronic lung disease, or other causes), forcing the right ventricle to work against chronically elevated resistance and eventually driving the same kind of pressure-overload hypertrophy already covered in this subject's cardiovascular-medicine concepts, just applied to the right side of the heart instead of the left.",
+    "et": "Kopsuemboolia on selle aine tromboosi-embolia-ja-infarkti mõistes juba käsitletud embolia mehhanismi otsene kopsuspetsiifiline rakendus: verehüüve, mis on peaaegu alati moodustunud jala või vaagna sügavas veenis, murdub lahti, liigub läbi veenisüsteemi ja südame parema poole ning jääb kinni kopsuarterisse, kus see tekitab korraga kahte tüüpi kahju. Mehaaniliselt takistab see verevoolu mistahes kopsukoe osale, mida see arter varustab, luues piirkonna, mida ventileeritakse õhuga, kuid mis ei saa enam verevoolu -- surnud-ruumi-taoline V/Q mittevastavus, mis on vastupidine muster šunti tekitavale mittevastavusele, mida näeb kopsupõletiku puhul, kuid mis siiski lõpuks kahjustab gaasivahetust. Lisaks sellele piirkondlikule probleemile toimib suur emboolia ka äkilise mehaanilise takistusena kogu südame parema poole väljundile, kuna kogu veri, mida parem vatsake pumbab, peab läbima kopsuartereid, et jõuda kopsudesse; kui takistus on piisavalt suur, võib parem vatsake ägedalt ebaõnnestuda, kuna peab pumpama vastu äkitselt ja massiivselt suurenenud resistentsust, tekitades vereringe kollapsi mehhanismi kaudu, mis on palju lähemal obstruktiivsele šokile kui puhtalt hingamisprobleemile. Kopsuhüpertensioon on seotud, kuid krooniline versioon samast aluseks olevast veresoonteprobleemist: ühe äkilise blokaadi asemel ahenevad ja jäigestuvad kopsuarterid ise aja jooksul (korduvatest väikestest hüüvetest, kroonilisest kopsuhaigusest või muudest põhjustest), sundides parem vatsake töötama vastu krooniliselt kõrgenenud resistentsust ja lõpuks juhtides sama tüüpi rõhukoormuse hüpertroofiat, mida on juba käsitletud selle aine kardiovaskulaarmeditsiini mõistetes, ainult rakendatuna südame parema, mitte vasaku poole peale.",
+    "sourceHash": "bb5286b88f76f94b",
+    "stale": false
+  },
+  "prerequisites": [
+    "thrombosis-embolism-and-infarction"
+  ]
+}

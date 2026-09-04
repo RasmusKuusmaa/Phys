@@ -1,0 +1,56 @@
+{
+  "id": "pulmonary-vascular-disease-item1",
+  "conceptId": "pulmonary-vascular-disease",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can a large pulmonary embolism cause acute circulatory collapse, not just a localized gas exchange problem?",
+    "et": "Miks võib suur kopsuemboolia põhjustada ägeda vereringe kollapsi, mitte ainult lokaalset gaasivahetusprobleemi?",
+    "sourceHash": "cb8d88ff4168ef0e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "All blood pumped by the right ventricle must pass through the pulmonary arteries, so a large enough embolism creates a sudden, massive increase in the resistance the right ventricle must pump against, which can cause acute right ventricular failure.",
+        "et": "Kogu veri, mida parem vatsake pumbab, peab läbima kopsuartereid, mistõttu piisavalt suur emboolia tekitab äkilise, massiivse suurenemise resistentsuses, mille vastu parem vatsake peab pumpama, mis võib põhjustada ägeda parema vatsakese puudulikkuse.",
+        "sourceHash": "87fce05e24edbe63",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A pulmonary embolism only ever affects gas exchange in the local lung region, so circulatory collapse would have to come from an entirely separate, unrelated problem.",
+        "et": "Kopsuemboolia mõjutab alati ainult gaasivahetust lokaalses kopsupiirkonnas, mistõttu vereringe kollaps peaks tulenema täiesti eraldiseisvast, mitteseotud probleemist.",
+        "sourceHash": "aed167b17be021f5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pulmonary-vascular-disease-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The embolism must actually be a lung infection that has spread systemically, which is the only way a lung problem could affect circulation.",
+        "et": "Emboolia peab tegelikult olema kopsuinfektsioon, mis on levinud süsteemselt, mis on ainus viis, kuidas kopsuprobleem võiks mõjutada vereringet.",
+        "sourceHash": "a0ee9ccfd26f4ced",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pulmonary-vascular-disease-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This would only happen if the patient also separately developed chronic pulmonary hypertension, since the two conditions are otherwise unrelated.",
+        "et": "See juhtuks ainult siis, kui patsiendil areneks ka eraldi krooniline kopsuhüpertensioon, kuna need kaks seisundit on muidu seostamata.",
+        "sourceHash": "0e55ceb411f77f1c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pulmonary-vascular-disease-m3"
+    }
+  ]
+}
