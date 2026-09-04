@@ -1,0 +1,19 @@
+{
+  "id": "mendelian-genetics-and-inheritance-patterns",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "genetics-and-molecular-genetics",
+  "title": {
+    "en": "Mendelian genetics and inheritance patterns",
+    "et": "Mendeli geneetika ja pärandumismustrid",
+    "sourceHash": "c878489cd01ff795",
+    "stale": false
+  },
+  "summary": {
+    "en": "Gregor Mendel's pea-plant experiments revealed that inherited traits are controlled by discrete, particulate factors -- what we now call genes -- that pass from parent to offspring unchanged rather than blending together, and each parent contributes one copy (allele) of each gene, so an offspring inherits exactly two alleles per gene, one from each parent. When the two inherited alleles differ, one -- the dominant allele -- determines the observable trait (the phenotype) while the other -- the recessive allele -- is masked, only showing up in the phenotype when an individual inherits two recessive copies; a Punnett square is simply a systematic way of tracking every possible combination of alleles two parents could pass to their offspring, turning a qualitative inheritance pattern into predictable, testable probabilities. Not every gene follows this same simple pattern of inheritance: genes on the autosomes (the 22 non-sex chromosome pairs in humans) follow autosomal dominant or autosomal recessive inheritance affecting males and females equally, while genes carried on the X chromosome follow a distinctly different, sex-linked pattern, because males have only one X chromosome and therefore express whatever allele is on it -- dominant or recessive -- with no second copy to mask a recessive trait, which is why X-linked recessive conditions like red-green colorblindness appear far more often in men than in women.",
+    "et": "Gregor Mendeli herneuuringud paljastasid, et pärilikke tunnuseid kontrollivad diskreetsed, osakestest koosnevad tegurid -- mida me nüüd nimetame geenideks --, mis kanduvad vanemalt järglasele muutumatult, mitte ei segune omavahel, ning iga vanem annab edasi ühe koopia (alleeli) igast geenist, mistõttu järglane pärib täpselt kaks alleeli iga geeni kohta, ühe kummaltki vanemalt. Kui kaks pärandunud alleeli erinevad, määrab üks -- domineeriv alleel -- nähtava tunnuse (fenotüübi), samas kui teine -- retsessiivne alleel -- jääb varjatuks, avaldudes fenotüübis alles siis, kui isik pärib kaks retsessiivset koopiat; Punnetti ruut on lihtsalt süstemaatiline viis jälgida kõiki võimalikke alleelide kombinatsioone, mida kaks vanemat võivad oma järglastele edasi anda, muutes kvalitatiivse pärandumismustri ennustatavateks, testitavateks tõenäosusteks. Mitte iga geen ei järgi sama lihtsat pärandumismustrit: autosoomidel (22 mittesugukromosoomi paari inimesel) paiknevad geenid järgivad autosomaalset domineerivat või autosomaalset retsessiivset pärandumist, mis mõjutab mehi ja naisi võrdselt, samas kui X-kromosoomil paiknevad geenid järgivad selgelt erinevat, sugu-seotud mustrit, sest meestel on ainult üks X-kromosoom ning seetõttu avaldub neil see alleel, mis sellel paikneb -- olgu domineeriv või retsessiivne --, ilma teise koopiata, mis retsessiivset tunnust varjaks, mistõttu X-seotud retsessiivsed seisundid nagu punase-rohelise värvipimedus esinevad meestel palju sagedamini kui naistel.",
+    "sourceHash": "0fc52389d8e59cfe",
+    "stale": false
+  },
+  "prerequisites": []
+}

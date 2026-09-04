@@ -1,0 +1,10 @@
+{
+  "id": "mendelian-genetics-and-inheritance-patterns-m3",
+  "conceptId": "mendelian-genetics-and-inheritance-patterns",
+  "text": {
+    "en": "I think an X-linked recessive condition should affect men and women at roughly equal rates, the same as any other recessive condition -- in reality, X-linked recessive conditions affect men far more often because men have only one X chromosome, so a single recessive allele on it is always expressed with no second copy to mask it, whereas women need two copies (one on each X) to express the same recessive phenotype.",
+    "et": "Arvan, et X-seotud retsessiivne seisund peaks mõjutama mehi ja naisi ligikaudu võrdse sagedusega, samamoodi nagu iga teine retsessiivne seisund -- tegelikult mõjutavad X-seotud retsessiivsed seisundid mehi palju sagedamini, sest meestel on ainult üks X-kromosoom, mistõttu üksainus retsessiivne alleel sellel avaldub alati, ilma teise koopiata, mis seda varjaks, samas kui naised vajavad sama retsessiivse fenotüübi avaldumiseks kahte koopiat (üht kummalgi X-kromosoomil).",
+    "sourceHash": "4e2048f78146b77a",
+    "stale": false
+  }
+}

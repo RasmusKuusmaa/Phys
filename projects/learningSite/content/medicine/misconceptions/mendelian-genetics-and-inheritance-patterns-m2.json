@@ -1,0 +1,10 @@
+{
+  "id": "mendelian-genetics-and-inheritance-patterns-m2",
+  "conceptId": "mendelian-genetics-and-inheritance-patterns",
+  "text": {
+    "en": "I think blending inheritance is how traits are actually passed down -- a child of a tall parent and short parent should always end up exactly in between -- in reality this was exactly the pre-Mendelian intuition Mendel's pea experiments disproved: genes are discrete, particulate units that pass unchanged from parent to offspring, not fluids that blend; a trait can look intermediate for other reasons, but the underlying alleles themselves are never diluted together.",
+    "et": "Arvan, et segunev pärandumine on see, kuidas tunnused tegelikult edasi kanduvad -- pika ja lühikese vanema lapse tulemus peaks alati jääma täpselt keskele -- tegelikult oli see täpselt see enne-Mendeli-aegne intuitsioon, mille Mendeli herneuuringud ümber lükkasid: geenid on diskreetsed, osakestest koosnevad üksused, mis kanduvad vanemalt järglasele muutumatult, mitte vedelikud, mis seguneksid; tunnus võib näida vahepealne muudel põhjustel, kuid aluseks olevad alleelid ise ei lahustu kunagi kokku.",
+    "sourceHash": "379260f5feb552ca",
+    "stale": false
+  }
+}

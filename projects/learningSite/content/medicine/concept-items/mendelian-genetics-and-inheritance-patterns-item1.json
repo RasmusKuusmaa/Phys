@@ -1,0 +1,56 @@
+{
+  "id": "mendelian-genetics-and-inheritance-patterns-item1",
+  "conceptId": "mendelian-genetics-and-inheritance-patterns",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A recessive condition is carried by a gene on the X chromosome. Why does this condition appear far more often in men than in women, unlike an autosomal recessive condition?",
+    "et": "Retsessiivset seisundit kannab geen X-kromosoomil. Miks esineb see seisund meestel palju sagedamini kui naistel, erinevalt autosomaalsest retsessiivsest seisundist?",
+    "sourceHash": "a1779eb80b0e9b14",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because men have only one X chromosome, so a single recessive allele on it is always expressed with no second copy to mask it, while women need two copies (one on each X chromosome) to show the same phenotype.",
+        "et": "Sest meestel on ainult üks X-kromosoom, mistõttu üksainus retsessiivne alleel sellel avaldub alati, ilma teise koopiata, mis seda varjaks, samas kui naised vajavad sama fenotüübi avaldumiseks kahte koopiat (üht kummalgi X-kromosoomil).",
+        "sourceHash": "bcb2552fd594f213",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't — X-linked recessive conditions actually affect men and women at the same rate, just like autosomal recessive conditions do.",
+        "et": "See ei ole nii -- X-seotud retsessiivsed seisundid mõjutavad tegelikult mehi ja naisi sama sagedusega, samamoodi nagu autosomaalsed retsessiivsed seisundid.",
+        "sourceHash": "02d34cbff7ececa6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mendelian-genetics-and-inheritance-patterns-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the recessive allele on the X chromosome happens to be more common in the general population than the dominant allele.",
+        "et": "Sest retsessiivne alleel X-kromosoomil on üldpopulatsioonis juhtumisi sagedasem kui domineeriv alleel.",
+        "sourceHash": "99fd81a683554e48",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mendelian-genetics-and-inheritance-patterns-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because traits carried on the X chromosome blend between the mother's and father's contributions, producing an intermediate result that appears more often in men.",
+        "et": "Sest X-kromosoomil kantavad tunnused seguvad ema ja isa panuse vahel, andes vahepealse tulemuse, mis ilmneb sagedamini meestel.",
+        "sourceHash": "7b35987ff54968c8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mendelian-genetics-and-inheritance-patterns-m2"
+    }
+  ]
+}

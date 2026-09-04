@@ -1,0 +1,10 @@
+{
+  "id": "mendelian-genetics-and-inheritance-patterns-m1",
+  "conceptId": "mendelian-genetics-and-inheritance-patterns",
+  "text": {
+    "en": "I think a dominant allele must be more common in a population than a recessive allele, since 'dominant' sounds like it should win out over time -- in reality, 'dominant' and 'recessive' describe which allele's phenotype is expressed when both are present in one individual, not which allele is more frequent in a population; allele frequency is governed by entirely separate population-genetics factors, and a dominant allele can be rare while its recessive counterpart is common (the dominant Huntington's-disease allele is far rarer than many common recessive alleles).",
+    "et": "Arvan, et domineeriv alleel peab populatsioonis olema sagedasem kui retsessiivne alleel, kuna 'domineeriv' kõlab nii, nagu see peaks aja jooksul peale jääma -- tegelikult kirjeldavad 'domineeriv' ja 'retsessiivne', millise alleeli fenotüüp avaldub, kui mõlemad on ühes isikus olemas, mitte seda, kumb alleel on populatsioonis sagedasem; alleeli sagedust juhivad täiesti eraldiseisvad populatsioonigeneetika tegurid, ning domineeriv alleel võib olla haruldane, samas kui vastav retsessiivne alleel on sage (domineeriv Huntingtoni tõve alleel on palju haruldasem kui paljud tavalised retsessiivsed alleelid).",
+    "sourceHash": "719485924f9db0db",
+    "stale": false
+  }
+}
