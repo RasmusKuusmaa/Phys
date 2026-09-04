@@ -1,0 +1,21 @@
+{
+  "id": "thrombosis-embolism-and-infarction",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "general-pathology",
+  "title": {
+    "en": "Thrombosis, embolism, and infarction",
+    "et": "Tromboos, emboolia ja infarkt",
+    "sourceHash": "f605bd36469dd3cc",
+    "stale": false
+  },
+  "summary": {
+    "en": "Normally, blood stays fluid inside intact vessels through a careful balance between clotting factors ready to seal a breach and anti-clotting mechanisms that prevent clots from forming where they're not needed; a thrombus is a pathological blood clot that forms inside an intact vessel or the heart itself, and the three conditions that tip that balance toward inappropriate clotting -- endothelial (vessel-lining) injury, abnormal blood flow (stasis or turbulence), and hypercoagulability (a blood state overly prone to clotting) -- are collectively known as Virchow's triad. Once formed, a thrombus can cause damage in two different ways: it can simply grow large enough to block blood flow at its own location, or, more dangerously, a piece of it can break free entirely to become an embolus, a traveling mass carried by the bloodstream until it reaches a vessel too narrow to pass, where it lodges and blocks flow at a distant site -- a venous thrombus (commonly forming in the deep veins of the leg) that embolizes typically travels to the lung, causing a pulmonary embolism, while a thrombus forming in the heart or an artery travels onward through the arterial circulation to whatever downstream organ that artery supplies. Whichever way a vessel becomes blocked, if the blockage is severe and prolonged enough to starve the downstream tissue of oxygen, the result is an infarction: localized tissue death from inadequate blood supply, whose severity depends heavily on how quickly the blockage happened and whether the affected tissue has an alternate (\"collateral\") blood supply it can fall back on -- a slowly developing blockage often allows time for collateral vessels to enlarge and partially compensate, while a sudden, complete blockage of a vessel with no collateral supply (as in a typical heart attack) produces much more severe, rapid tissue death.",
+    "et": "Normaalselt püsib veri veresoonte sees vedelana tänu hoolikale tasakaalule hüübimisfaktorite, mis on valmis rikke sulgema, ja hüübimisvastaste mehhanismide vahel, mis takistavad trombide teket seal, kus neid vaja ei ole; tromb on patoloogiline verehüüve, mis tekib terve veresoone või südame enda sees, ning kolm tingimust, mis kallutavad seda tasakaalu sobimatu hüübimise suunas -- endoteeli (veresoone vooderdise) kahjustus, ebanormaalne verevool (staas või turbulents), ning hüperkoagulatiivsus (hüübimisele liigselt kalduv vereseisund) -- on ühiselt tuntud kui Virchow' triaad. Kord tekkinuna võib tromb tekitada kahju kahel erineval viisil: see võib lihtsalt kasvada piisavalt suureks, et blokeerida verevool omaenda asukohas, või, ohtlikumalt, tükk sellest võib täielikult lahti murduda ja saada emboluseks, rändavaks massiks, mida veri kannab, kuni see jõuab liiga kitsa veresooneni, et läbida, kuhu see kinni jääb ja blokeerib verevoolu kauges asukohas -- venoosne tromb (tekib tavaliselt jala sügavates veenides), mis emboliseerub, rändab tüüpiliselt kopsu, põhjustades kopsuembooliat, samas kui südames või arteris tekkiv tromb rändab edasi arteriaalse vereringe kaudu ükskõik millisesse organisse, mida see arter varustab. Ükskõik kummal viisil veresoon blokeerub, kui blokaad on piisavalt tõsine ja pikaajaline, et jätta allavoolu kude hapnikuta, on tulemuseks infarkt: lokaliseerunud koe surm ebapiisava verevarustuse tõttu, mille tõsidus sõltub tugevalt sellest, kui kiiresti blokaad tekkis ning kas kahjustatud koel on alternatiivne (\"kollateraalne\") verevarustus, millele toetuda -- aeglaselt arenev blokaad võimaldab sageli aega kollateraalsetel veresoontel suureneda ja osaliselt kompenseerida, samas kui äkiline, täielik veresoone blokaad ilma kollateraalse varustuseta (nagu tüüpilises südameinfarktis) põhjustab palju tõsisema, kiirema koe surma.",
+    "sourceHash": "2ee1bc6cc11b704a",
+    "stale": false
+  },
+  "prerequisites": [
+    "cardiovascular-system-anatomy-and-physiology"
+  ]
+}

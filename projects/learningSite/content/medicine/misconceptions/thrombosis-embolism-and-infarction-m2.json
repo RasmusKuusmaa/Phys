@@ -1,0 +1,10 @@
+{
+  "id": "thrombosis-embolism-and-infarction-m2",
+  "conceptId": "thrombosis-embolism-and-infarction",
+  "text": {
+    "en": "A thrombus and an embolus are just two different names for the same thing -- in reality, a thrombus is a clot that stays put at the site where it formed, while an embolus is specifically a traveling mass (which may originate as a piece of a thrombus, but also can be fat, air, or other material) carried by the bloodstream to lodge somewhere else entirely -- the distinction is about location and mobility, not the material itself.",
+    "et": "Tromb ja embolus on lihtsalt kaks erinevat nime sama asja jaoks -- tegelikult on tromb hüüve, mis jääb paigale seal, kus see tekkis, samas kui embolus on spetsiifiliselt rändav mass (mis võib pärineda trombi tükina, kuid võib olla ka rasv, õhk või muu materjal), mida veri kannab kuhugi täiesti mujale kinni jääma -- erinevus seisneb asukohas ja liikuvuses, mitte materjalis endas.",
+    "sourceHash": "3d4c028d5f545ca6",
+    "stale": false
+  }
+}

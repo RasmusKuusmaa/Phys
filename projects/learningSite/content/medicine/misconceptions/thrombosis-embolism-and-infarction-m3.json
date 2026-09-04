@@ -1,0 +1,10 @@
+{
+  "id": "thrombosis-embolism-and-infarction-m3",
+  "conceptId": "thrombosis-embolism-and-infarction",
+  "text": {
+    "en": "Blocking a blood vessel always causes the same severity of tissue damage, regardless of how quickly the blockage happened -- in reality, the same degree of blockage can produce very different outcomes depending on speed and collateral circulation -- a slowly developing blockage often gives collateral vessels time to enlarge and partially compensate, while a sudden, complete blockage with no collateral supply causes much more severe and rapid tissue death (infarction), which is why the same underlying artery disease can sometimes progress silently and sometimes cause a sudden heart attack.",
+    "et": "Veresoone blokeerimine põhjustab alati sama tõsidusega koekahjustuse, olenemata sellest, kui kiiresti blokaad tekkis -- tegelikult võib sama ulatusega blokaad tekitada väga erinevaid tulemusi sõltuvalt kiirusest ja kollateraalsest vereringest -- aeglaselt arenev blokaad annab sageli kollateraalsetele veresoontele aega suureneda ja osaliselt kompenseerida, samas kui äkiline, täielik blokaad ilma kollateraalse varustuseta põhjustab palju tõsisema ja kiirema koe surma (infarkti), mis on põhjus, miks sama aluseks olev arterihaigus võib mõnikord kulgeda vaikselt ja mõnikord põhjustada äkilise südameinfarkti.",
+    "sourceHash": "87896be19aa7fb11",
+    "stale": false
+  }
+}

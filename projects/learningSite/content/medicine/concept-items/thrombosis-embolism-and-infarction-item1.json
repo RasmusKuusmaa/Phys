@@ -1,0 +1,56 @@
+{
+  "id": "thrombosis-embolism-and-infarction-item1",
+  "conceptId": "thrombosis-embolism-and-infarction",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A deep vein thrombosis (a clot) in a patient's leg breaks free and travels through the venous circulation. Why does it typically end up causing a pulmonary embolism (lodging in the lung) rather than blocking a vessel somewhere else in the body?",
+    "et": "Patsiendi jala süvaveenitromboos (hüüve) murdub lahti ja liigub läbi venoosse vereringe. Miks põhjustab see tüüpiliselt kopsuembooliat (kopsu kinnijäämist), selle asemel et blokeerida veresoont kuskil mujal kehas?",
+    "sourceHash": "fcbefb68b84830be",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because venous blood from the legs flows back toward the heart and is then pumped directly into the pulmonary circulation to reach the lungs, so a venous embolus's natural path takes it to the lung's vessels, which narrow enough to trap it.",
+        "et": "Sest venoosne veri jalgadest voolab tagasi südame suunas ning pumbatakse seejärel otse kopsuvereringesse, et jõuda kopsudesse, seega venoosse emboluse loomulik tee viib teda kopsu veresoontesse, mis kitsenevad piisavalt, et teda kinni püüda.",
+        "sourceHash": "e810353d6a781301",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't specifically end up in the lung -- a thrombus and an embolus are the same thing and would simply keep growing at its original leg location instead of traveling anywhere.",
+        "et": "See ei jõua spetsiifiliselt kopsu -- tromb ja embolus on sama asi ning see lihtsalt jätkaks kasvamist oma algses jala asukohas, selle asemel et kuhugi rännata.",
+        "sourceHash": "363cdbc749333393",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thrombosis-embolism-and-infarction-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Any blood clot anywhere in the body always travels to the lungs specifically, regardless of which vein or artery it originally formed in.",
+        "et": "Igasugune verehüüve ükskõik kus kehas rändab alati spetsiifiliselt kopsu, olenemata sellest, millises veenis või arteris see algselt tekkis.",
+        "sourceHash": "51dbe0ff5bf84c1d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thrombosis-embolism-and-infarction-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The clot's destination depends only on how severe the original leg clot was, not on which side of the circulation (venous vs. arterial) it started in.",
+        "et": "Hüübe sihtkoht sõltub ainult sellest, kui tõsine algne jalahüüve oli, mitte sellest, kummal vereringe poolel (venoosne vs. arteriaalne) see alguse sai.",
+        "sourceHash": "b6883be9c35beba7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thrombosis-embolism-and-infarction-m3"
+    }
+  ]
+}
