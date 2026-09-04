@@ -1,0 +1,56 @@
+{
+  "id": "statics-and-equilibrium-of-structures-item1",
+  "conceptId": "statics-and-equilibrium-of-structures",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "How many independent reaction unknowns can a properly-analyzed two-dimensional rigid structure have, according to the equations of static equilibrium -- and what happens if a design has more or fewer than that?",
+    "et": "Mitu sõltumatut toereaktsiooni tundmatut võib korrektselt analüüsitud kahemõõtmelisel jäigal konstruktsioonil staatilise tasakaalu võrrandite järgi olla -- ja mis juhtub, kui disainil on neist rohkem või vähem?",
+    "sourceHash": "0c28c634f64bf60c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Exactly three (from the equations Fx=0, Fy=0, M=0); fewer leaves the structure an unconstrained mechanism that can move, and more makes it statically indeterminate, unsolvable from equilibrium equations alone.",
+        "et": "Täpselt kolm (võrranditest ΣFx=0, ΣFy=0, ΣM=0); vähem jätab konstruktsiooni sidumata mehhanismiks, mis saab liikuda, ning rohkem muudab selle staatiliselt määramatuks, lahendamatuks ainuüksi tasakaaluvõrranditest.",
+        "sourceHash": "9b335b737b844bda",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "However many supports are needed to make the structure look sturdy -- there's no exact number equilibrium fixes in advance.",
+        "et": "Nii palju, kui on vaja, et konstruktsioon näeks tugev välja -- tasakaal ei määra ette täpset arvu.",
+        "sourceHash": "95ac2c2711206708",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statics-and-equilibrium-of-structures-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "More than three is always fine, since additional supports beyond that only add extra safety margin at no real cost.",
+        "et": "Rohkem kui kolm on alati sobiv, kuna täiendavad toed üle selle annavad ainult lisaturvalisust ilma tegeliku puuduseta.",
+        "sourceHash": "3d232b67df85efd8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statics-and-equilibrium-of-structures-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Fewer than three is fine too, since it just produces a lighter, more flexible design.",
+        "et": "Vähem kui kolm sobib samuti, kuna see annab lihtsalt kergema, paindlikuma disaini.",
+        "sourceHash": "27047a1dd0ba8330",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statics-and-equilibrium-of-structures-m3"
+    }
+  ]
+}

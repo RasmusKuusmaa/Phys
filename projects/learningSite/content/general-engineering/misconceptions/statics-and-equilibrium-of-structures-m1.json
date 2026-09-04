@@ -1,0 +1,10 @@
+{
+  "id": "statics-and-equilibrium-of-structures-m1",
+  "conceptId": "statics-and-equilibrium-of-structures",
+  "text": {
+    "en": "Believing that a structure is 'in equilibrium' simply because it looks stationary and sturdy, with no exact count of how many supports it needs -- equilibrium is a precise mathematical condition (the vector sum of forces and the sum of moments both equal zero), and for a rigid body in a two-dimensional problem this yields exactly three independent scalar equations, meaning a properly constrained structure has exactly three unknown reaction components, not merely 'enough' supports by eye; fewer leaves it free to move as a mechanism, and more makes it statically indeterminate, unsolvable from equilibrium alone.",
+    "et": "Arvamus, et konstruktsioon on 'tasakaalus' juba siis, kui see paistab paigal seisvat ja tugev välja, ilma täpse arvuta, mitu tuge see tegelikult vajab -- tasakaal on täpne matemaatiline tingimus (jõudude vektorsumma ja momentide summa on mõlemad null) ning jäiga keha jaoks kahemõõtmelises ülesandes annab see täpselt kolm sõltumatut skalaarvõrrandit, mis tähendab, et korrektselt toestatud konstruktsioonil on täpselt kolm tundmatut toereaktsiooni komponenti, mitte lihtsalt 'piisavalt' silma järgi tugesid; vähem jätab selle vabalt liikuma mehhanismina ja rohkem muudab selle staatiliselt määramatuks, lahendamatuks ainuüksi tasakaaluvõrranditest.",
+    "sourceHash": "1475336419131efd",
+    "stale": false
+  }
+}

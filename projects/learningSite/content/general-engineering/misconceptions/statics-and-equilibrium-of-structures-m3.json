@@ -1,0 +1,10 @@
+{
+  "id": "statics-and-equilibrium-of-structures-m3",
+  "conceptId": "statics-and-equilibrium-of-structures",
+  "text": {
+    "en": "Believing that fewer than three reaction supports on a two-dimensional structure just gives a 'lighter, more flexible' design that is still structurally fine -- fewer than three independent reactions actually leaves at least one degree of freedom unconstrained, meaning the structure is a mechanism free to move under a general load, not merely 'flexible' in the elastic sense; it cannot maintain static equilibrium at all under an arbitrary load, which is a qualitatively different (and generally unacceptable) situation from being an elastically flexible but rigid structure.",
+    "et": "Arvamus, et vähem kui kolm toereaktsiooni kahemõõtmelises konstruktsioonis annab lihtsalt 'kergema, paindlikuma' disaini, mis on konstruktsiooniliselt siiski täiesti sobiv -- tegelikult jätab vähem kui kolm sõltumatut reaktsiooni vähemalt ühe vabadusastme sidumata, mis tähendab, et konstruktsioon on mehhanism, mis saab üldise koormuse all vabalt liikuda, mitte lihtsalt elastses mõttes 'paindlik' -- see ei suuda üldse säilitada staatilist tasakaalu suvalise koormuse all, mis on kvalitatiivselt teistsugune (ja üldiselt vastuvõetamatu) olukord võrreldes elastselt paindliku, kuid jäiga konstruktsiooniga.",
+    "sourceHash": "8c02591c72d1614b",
+    "stale": false
+  }
+}

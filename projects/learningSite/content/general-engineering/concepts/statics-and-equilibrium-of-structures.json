@@ -1,0 +1,19 @@
+{
+  "id": "statics-and-equilibrium-of-structures",
+  "subject": "general-engineering",
+  "level": "L1",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Statics and equilibrium of structures",
+    "et": "Statika ja konstruktsioonide tasakaal",
+    "sourceHash": "3c721e9e23e96605",
+    "stale": false
+  },
+  "summary": {
+    "en": "A rigid body or structure is in static equilibrium when the vector sum of every external force acting on it is zero and the sum of moments about any point is also zero -- two independent vector conditions that, in a two-dimensional problem, expand into three scalar equations (sum Fx=0, sum Fy=0, sum M=0) exactly matching the number of unknown reactions a properly-supported structure has. Drawing a free-body diagram -- isolating the structure or a single member from everything touching it and replacing every removed support and connection with the force (and, for a fixed support, moment) it actually exerts -- turns an intuitive picture of a bridge, crane, or truss into a solvable system of equations, and for a truss specifically (a structure built entirely from two-force members pinned at their ends) the same equilibrium conditions applied joint-by-joint (the method of joints) or to a cleanly cut section (the method of sections) reveal whether each individual member is in tension or compression, the two states every truss member can be in.",
+    "et": "Jäik keha või konstruktsioon on staatilises tasakaalus, kui kõigi sellele mõjuvate välisjõudude vektorsumma on null ja jõumomentide summa mistahes punkti suhtes on samuti null -- kaks sõltumatut vektortingimust, mis kahemõõtmelise ülesande puhul avarduvad kolmeks skalaarvõrrandiks (ΣFx=0, ΣFy=0, ΣM=0), mis vastab täpselt korrektselt toestatud konstruktsiooni tundmatute toereaktsioonide arvule. Vabakeha diagrammi joonistamine -- konstruktsiooni või üksiku elemendi eraldamine kõigest, mis sellega kokku puutub, ning iga eemaldatud toe ja ühenduse asendamine jõuga (ja jäiga toe puhul ka momendiga), mida see tegelikult avaldab -- muudab silla, kraana või sõrestiku intuitiivse pildi lahendatavaks võrrandisüsteemiks, ning spetsiifiliselt sõrestiku puhul (konstruktsioon, mis koosneb täielikult otstest liigendatud kahejõulistest elementidest) paljastavad samad tasakaalutingimused, rakendatuna sõlmehaaval (sõlmede meetod) või puhtalt läbilõigatud lõikele (lõigete meetod), kas iga üksik element on tõmbes või survel -- need kaks olekut, milles iga sõrestiku element saab olla.",
+    "sourceHash": "88c607001658a8b2",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "statics-and-equilibrium-of-structures-m2",
+  "conceptId": "statics-and-equilibrium-of-structures",
+  "text": {
+    "en": "Believing that more than three reaction supports on a two-dimensional structure is always fine, or even strictly safer, since it just adds extra margin with no real downside -- more than three reaction components actually makes the structure statically indeterminate, meaning the three equilibrium equations alone are no longer enough to solve for every unknown reaction; solving it requires additional compatibility (material-deformation) equations, not just 'free extra safety', and indeterminate structures are also more sensitive to support settlement, temperature effects, and manufacturing tolerances than determinate ones.",
+    "et": "Arvamus, et rohkem kui kolm toereaktsiooni kahemõõtmelises konstruktsioonis on alati sobiv ehk lausa ohutum, andes lihtsalt lisavaru ilma tegeliku puuduseta -- tegelikult muudab rohkem kui kolm reaktsioonikomponenti konstruktsiooni staatiliselt määramatuks, mis tähendab, et tasakaaluvõrranditest (kolmest võrrandist) üksi enam ei piisa kõigi tundmatute reaktsioonide lahendamiseks; selle lahendamine nõuab täiendavaid ühilduvus- ehk materjali deformatsioonivõrrandeid, mitte lihtsalt 'tasuta lisaturvalisust', ning määramatud konstruktsioonid on ka tundlikumad toe vajumise, temperatuurimõjude ja valmistamistolerantside suhtes kui määratud konstruktsioonid.",
+    "sourceHash": "1b0505db92af0ebf",
+    "stale": false
+  }
+}
