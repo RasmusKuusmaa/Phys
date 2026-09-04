@@ -1,0 +1,19 @@
+{
+  "id": "nutrition-science-and-metabolic-self-experimentation",
+  "subject": "biohacking",
+  "level": "L1",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Nutrition science and metabolic self-experimentation",
+    "et": "Toitumisteadus ja metaboolne eneseeksperimenteerimine",
+    "sourceHash": "28fae7dcf73bfa9c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Body weight change over time follows from energy balance -- calories consumed versus calories expended -- but this simple bookkeeping identity is frequently used to oversimplify what actually drives eating behavior and metabolic rate, both of which respond adaptively to diet composition, sleep, stress, and body-fat level in ways that make \"just eat less\" a much harder intervention to sustain than the arithmetic alone suggests. Two of the most heavily self-experimented interventions -- intermittent fasting (restricting eating to a shorter daily window, or fasting on alternate days) and ketogenic, very-low-carbohydrate diets (shifting the body's primary fuel from glucose to fat-derived ketones) -- both produce real, measurable metabolic changes, but the controlled-trial evidence for each is more modest than their popular reputations suggest: intermittent fasting produces weight loss primarily because most people naturally eat fewer total calories within a shortened eating window, not through some separate metabolic \"fasting\" advantage independent of calorie intake, and ketogenic diets show weight-loss and blood-sugar benefits comparable to other calorie-matched diets in most head-to-head trials, rather than the unique metabolic advantage claimed by some of their strongest advocates. Neither of these findings makes either approach useless -- both can be genuinely useful tools for particular people and goals -- but the popular claims built around them routinely outrun what calorie-matched, controlled comparisons actually show.",
+    "et": "Kehakaalu muutus aja jooksul tuleneb energiabilansist -- tarbitud kalorid versus kulutatud kalorid --, kuid seda lihtsat raamatupidamislikku samasust kasutatakse sageli liiga lihtsustatult selle kohta, mis tegelikult juhib söömiskäitumist ja ainevahetuse kiirust, mis mõlemad reageerivad kohanevalt toitumise koostisele, unele, stressile ja kehararasva tasemele viisil, mis muudab \"lihtsalt vähem söömise\" palju raskemini jätkusuutlikuks sekkumiseks, kui pelk aritmeetika viitab. Kaks kõige rohkem eneseeksperimenteeritud sekkumist -- vahelduv paastumine (söömise piiramine lühemale igapäevasele ajaaknale või paastumine ülepäeviti) ja ketogeenne, väga madala süsivesikusisaldusega dieet (keha peamise kütuse nihutamine glükoosilt rasvast tuletatud ketoonidele) -- toovad mõlemad kaasa tõelisi, mõõdetavaid ainevahetuslikke muutusi, kuid kontrollitud uuringute tõendusmaterjal mõlema kohta on tagasihoidlikum, kui nende populaarne kuulsus viitab: vahelduv paastumine annab kaalulangust peamiselt seetõttu, et enamik inimesi sööb lühendatud söömisaknas loomulikult vähem kaloreid kokku, mitte mingi eraldiseisva ainevahetusliku \"paastueelise\" tõttu, mis oleks kaloritarbimisest sõltumatu, ning ketogeensed dieedid näitavad enamikus otsevõrdlevates uuringutes kaalulangus- ja veresuhkrukasu, mis on võrreldav teiste sama kaloraažiga dieetidega, mitte unikaalset ainevahetuslikku eelist, mida mõned nende innukamad pooldajad väidavad. Kumbki neist leidudest ei muuda kumbagi lähenemist kasutuks -- mõlemad võivad olla tõeliselt kasulikud vahendid konkreetsetele inimestele ja eesmärkidele --, kuid nende ümber üles ehitatud populaarsed väited ületavad rutiinselt seda, mida sama kaloraažiga kontrollitud võrdlused tegelikult näitavad.",
+    "sourceHash": "659c99a4851dfc18",
+    "stale": false
+  },
+  "prerequisites": []
+}

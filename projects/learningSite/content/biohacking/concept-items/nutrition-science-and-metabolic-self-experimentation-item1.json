@@ -1,0 +1,56 @@
+{
+  "id": "nutrition-science-and-metabolic-self-experimentation-item1",
+  "conceptId": "nutrition-science-and-metabolic-self-experimentation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A controlled trial compares two groups eating the exact same total daily calories -- one eating in an 8-hour window (intermittent fasting) and one eating throughout the day -- and finds no meaningful difference in weight loss between them. What does this tell us about intermittent fasting?",
+    "et": "Kontrollitud uuring võrdleb kahte rühma, kes söövad täpselt sama palju kaloreid päevas kokku -- üks sööb 8-tunnises aknas (vahelduv paastumine) ja teine söö üle päeva -- ning ei leia nendevahelises kaalulanguses olulist erinevust. Mida see meile vahelduva paastumise kohta ütleb?",
+    "sourceHash": "6c83c4658d704a18",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That intermittent fasting's real-world weight-loss effect comes mostly from people naturally eating fewer total calories within a shortened window, not from a separate metabolic advantage that works independently of calorie intake.",
+        "et": "Et vahelduva paastumise tegelik kaalulanguse efekt tuleb peamiselt sellest, et inimesed söövad lühendatud aknas loomulikult vähem kaloreid kokku, mitte eraldiseisvast ainevahetuslikust eelisest, mis toimib kaloritarbimisest sõltumatult.",
+        "sourceHash": "f9d907bb7fdd331d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That the trial must be flawed, since intermittent fasting is known to work through a special metabolic pathway that operates regardless of total calories consumed.",
+        "et": "Et uuring peab olema vigane, kuna vahelduv paastumine on teada töötavat erilise ainevahetusraja kaudu, mis toimib sõltumata kogu kaloritarbimisest.",
+        "sourceHash": "64a623852909ff90",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nutrition-science-and-metabolic-self-experimentation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That intermittent fasting and ketogenic diets both fail for the same reason -- neither actually produces ketosis at a meaningful level.",
+        "et": "Et vahelduv paastumine ja ketogeenne dieet ebaõnnestuvad mõlemad samal põhjusel -- kumbki ei tooda tegelikult ketoosi olulisel tasemel.",
+        "sourceHash": "4af641df5c621f29",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nutrition-science-and-metabolic-self-experimentation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That the participants' metabolisms were likely 'stuck' from the calorie-matched design, which artificially prevented the fasting group's true advantage from appearing.",
+        "et": "Et osalejate ainevahetus oli tõenäoliselt kaloreid ühtlustava disaini tõttu 'kinni jäänud', mis takistas kunstlikult paastugrupi tegeliku eelise ilmnemist.",
+        "sourceHash": "116f746cbfcb0c7c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nutrition-science-and-metabolic-self-experimentation-m3"
+    }
+  ]
+}
