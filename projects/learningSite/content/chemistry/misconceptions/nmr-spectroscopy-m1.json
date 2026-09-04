@@ -1,0 +1,10 @@
+{
+  "id": "nmr-spectroscopy-m1",
+  "conceptId": "nmr-spectroscopy",
+  "text": {
+    "en": "Believing every hydrogen nucleus in a molecule resonates at exactly the same radiofrequency for a given external magnetic field strength, since they are all the same isotope -- the resonant frequency is shifted by a small but chemically meaningful amount depending on the local electron density shielding that specific nucleus from the external field, so hydrogens in different chemical environments (bonded to carbon versus oxygen, near an electron-withdrawing group or not) resonate at measurably different frequencies, reported as the chemical shift; this environment-dependence, not a single universal resonance frequency, is precisely what makes NMR useful for distinguishing different hydrogens within one molecule.",
+    "et": "Arvamus, et iga vesinikuaatomi tuum molekulis resoneerub täpselt samal raadiosagedusel antud välise magnetvälja tugevuse juures, kuna need kõik on sama isotoop -- resonantssagedust nihutab väike, kuid keemiliselt oluline hulk, olenevalt kohalikust elektronitihedusest, mis varjestab seda konkreetset tuuma välisest väljast, seega resoneeruvad erinevas keemilises keskkonnas olevad vesinikud (seotud süsiniku versus hapnikuga, elektrone tõmbava rühma läheduses või mitte) mõõdetavalt erinevatel sagedustel, mida esitatakse keemilise nihkena; see keskkonnast sõltuvus, mitte üksik universaalne resonantssagedus, ongi täpselt see, mis teeb TMR kasulikuks eri vesinike eristamiseks ühe molekuli sees.",
+    "sourceHash": "f6ff0b8c7beda6fa",
+    "stale": false
+  }
+}

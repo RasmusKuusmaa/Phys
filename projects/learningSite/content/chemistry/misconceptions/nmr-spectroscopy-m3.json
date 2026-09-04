@@ -1,0 +1,10 @@
+{
+  "id": "nmr-spectroscopy-m3",
+  "conceptId": "nmr-spectroscopy",
+  "text": {
+    "en": "Believing NMR spectroscopy can only confirm the identity of a known compound by comparison to a reference spectrum, rather than actually determining the structure of a genuinely unknown molecule from scratch -- the combination of chemical shift (revealing each hydrogen's chemical environment), splitting pattern (revealing how many neighbouring hydrogens are present and their arrangement), and signal intensity (revealing the relative number of equivalent hydrogens of each type) together provide enough independent structural information to deduce an unknown molecule's actual connectivity directly, which is exactly why NMR is one of the primary tools chemists use for genuine, from-scratch structure elucidation, not merely for confirming a suspected identity.",
+    "et": "Arvamus, et TMR spektroskoopia suudab ainult kinnitada teadaoleva ühendi identiteeti võrdluses etalonspektriga, mitte tegelikult määrata tõeliselt tundmatu molekuli struktuuri nullist -- keemilise nihke (mis paljastab iga vesiniku keemilise keskkonna), lõhestumismustri (mis paljastab, kui palju naabervesinikke on kohal ja nende paigutuse) ning signaali intensiivsuse (mis paljastab iga tüübi ekvivalentsete vesinike suhtelise arvu) kombinatsioon annab koos piisavalt sõltumatut struktuurset teavet, et tuletada tundmatu molekuli tegelik seotus otse, mis ongi täpselt põhjus, miks TMR on üks peamisi vahendeid, mida keemikud kasutavad tõeliseks, nullist struktuuri määramiseks, mitte ainult kahtlustatava identiteedi kinnitamiseks.",
+    "sourceHash": "428ffc92abbcae6e",
+    "stale": false
+  }
+}

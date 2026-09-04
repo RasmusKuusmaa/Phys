@@ -1,0 +1,21 @@
+{
+  "id": "nmr-spectroscopy",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "analytical-chemistry",
+  "title": {
+    "en": "NMR spectroscopy",
+    "et": "TMR spektroskoopia",
+    "sourceHash": "4f0a0e2d053c038f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Placed in a strong external magnetic field, a nucleus with the right kind of nuclear spin (hydrogen-1 and carbon-13 being the two most useful in organic chemistry) can absorb a specific radiofrequency and flip between two nuclear spin energy levels, but the precise frequency at which any given nucleus resonates is not universal -- it is shifted by a small, chemically diagnostic amount depending on how the surrounding electron cloud shields that nucleus from the full external field, meaning hydrogens in different chemical environments (attached to different functional groups, near electronegative atoms) resonate at measurably different frequencies, reported on a standardized scale as the chemical shift, while nearby, non-equivalent hydrogens further split each other's signal into a recognizable multiplet pattern (spin-spin coupling) whose number of peaks directly counts how many neighbouring hydrogens are present, together turning a single NMR spectrum into one of organic chemistry's most information-rich tools for determining an unknown molecule's actual structure.",
+    "et": "Tugevasse välisesse magnetvälja asetatud tuum, millel on õiget liiki tuumaspinn (vesinik-1 ja süsinik-13 olles kaks kõige kasulikumat orgaanilises keemias), võib neelata konkreetse raadiosageduse ja pöörduda kahe tuumaspinni energianivoo vahel, kuid täpne sagedus, mille juures antud tuum resoneerub, ei ole universaalne -- seda nihutab väike, keemiliselt diagnostiline hulk, olenevalt sellest, kuidas ümbritsev elektronpilv seda tuuma täielikust välisest väljast varjestab, mis tähendab, et erinevas keemilises keskkonnas olevad vesinikud (seotud erinevate funktsionaalrühmadega, elektronegatiivsete aatomite lähedal) resoneeruvad mõõdetavalt erinevatel sagedustel, mida esitatakse standardiseeritud skaalal keemilise nihkena, samal ajal kui lähedased, mitteekvivalentsed vesinikud lõhestavad üksteise signaali äratuntavaks multipletimustriks (spinn-spinn side), mille tippude arv loendab otseselt, kui palju naabervesinikke on kohal, muutes koos üksiku TMR spektri üheks orgaanilise keemia kõige informatiivsemaks vahendiks tundmatu molekuli tegeliku struktuuri määramiseks.",
+    "sourceHash": "1a0fc5e51b8662c5",
+    "stale": false
+  },
+  "prerequisites": [
+    "functional-groups"
+  ]
+}

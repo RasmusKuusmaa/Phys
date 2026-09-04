@@ -1,0 +1,56 @@
+{
+  "id": "nmr-spectroscopy-item1",
+  "conceptId": "nmr-spectroscopy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two hydrogens in a molecule are bonded to the same carbon and are chemically equivalent to each other. Do they split each other's NMR signal?",
+    "et": "Kaks vesinikku molekulis on seotud sama süsinikuga ja on üksteise suhtes keemiliselt ekvivalentsed. Kas nad lõhestavad üksteise TMR signaali?",
+    "sourceHash": "d1b109be33768e65",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No -- spin-spin coupling and splitting arise specifically from non-equivalent neighbouring hydrogens; equivalent hydrogens on the same carbon do not split each other's signal.",
+        "et": "Ei -- spinn-spinn side ja lõhestumine tekivad spetsiifiliselt mitteekvivalentsetest naabervesinikest; ekvivalentsed vesinikud samal süsinikul üksteise signaali ei lõhesta.",
+        "sourceHash": "d953e00007e34471",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes -- any two hydrogens bonded to the same carbon always split each other's signal, regardless of whether they are chemically equivalent.",
+        "et": "Jah -- iga kaks vesinikku, mis on seotud sama süsinikuga, lõhestavad alati üksteise signaali, olenemata sellest, kas need on keemiliselt ekvivalentsed.",
+        "sourceHash": "4b2e387fffe3c01b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nmr-spectroscopy-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Yes, because all hydrogen nuclei resonate at exactly the same frequency, so any two hydrogens anywhere in the molecule must split each other's signal.",
+        "et": "Jah, kuna kõik vesinikuaatomite tuumad resoneeruvad täpselt samal sagedusel, seega peavad mistahes kaks vesinikku kusagil molekulis üksteise signaali lõhestama.",
+        "sourceHash": "fa2dca950b69e681",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nmr-spectroscopy-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This cannot be determined from an NMR spectrum at all -- splitting patterns only ever confirm a known compound's identity, never reveal new structural relationships.",
+        "et": "Seda ei saa TMR spektrist üldse määrata -- lõhestumismustrid ainult kunagi kinnitavad teadaoleva ühendi identiteeti, ei paljasta kunagi uusi struktuurseid seoseid.",
+        "sourceHash": "1a38de165226bd50",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nmr-spectroscopy-m3"
+    }
+  ]
+}

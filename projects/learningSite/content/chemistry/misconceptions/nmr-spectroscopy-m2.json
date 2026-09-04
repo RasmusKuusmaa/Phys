@@ -1,0 +1,10 @@
+{
+  "id": "nmr-spectroscopy-m2",
+  "conceptId": "nmr-spectroscopy",
+  "text": {
+    "en": "Believing the splitting pattern (multiplet) seen for a given hydrogen signal is caused by that hydrogen coupling with other equivalent hydrogens on the same carbon -- spin-spin coupling and the resulting splitting pattern specifically arise from interaction with non-equivalent neighbouring hydrogens (typically on an adjacent carbon), not from equivalent hydrogens on the same carbon, which do not split each other's signal at all; the number of peaks in a multiplet directly counts the number of such non-equivalent neighbouring hydrogens, following the n+1 rule, making the splitting pattern a direct structural clue about what is bonded next to a given hydrogen.",
+    "et": "Arvamus, et antud vesiniku signaali jaoks nähtud lõhestumismuster (multiplett) on põhjustatud selle vesiniku sidumisest teiste ekvivalentsete vesinikega samal süsinikul -- spinn-spinn side ja saadud lõhestumismuster tekivad spetsiifiliselt vastastikmõjust mitteekvivalentsete naabervesinikega (tüüpiliselt kõrvalasuval süsinikul), mitte ekvivalentsetest vesinikest samal süsinikul, mis üksteise signaali üldse ei lõhesta; multipleti tippude arv loendab otseselt selliste mitteekvivalentsete naabervesinike arvu, järgides n+1 reeglit, muutes lõhestumismustri otseseks struktuurseks vihjeks selle kohta, mis on seotud antud vesiniku kõrval.",
+    "sourceHash": "b4b7c4ce0e952fdb",
+    "stale": false
+  }
+}
