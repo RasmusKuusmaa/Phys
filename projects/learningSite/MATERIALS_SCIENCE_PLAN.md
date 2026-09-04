@@ -86,4 +86,34 @@ considering any graduate content.
 
 Phase MS2 complete: 16 materials-science concepts total.
 
+## Phase MS3 — graduate-level (L3/L4) pass
+
+Every existing concept is L1/L2 in a single module (materials-fundamentals).
+Physics, mathematics, and chemistry were all extended to a taught-MSc/
+early-PhD depth before being judged comprehensive; materials-science
+deserves the same treatment rather than being left as a bachelor-only
+subject. Surveyed for genuine graduate topics not overlapping existing
+concepts (checked characterisation-methods specifically — it is an
+intro-level "which technique fits which length scale" survey, not a deep
+treatment of any one technique, so a deeper single-technique concept would
+not be padding).
+
+- [ ] Dislocation theory and strengthening mechanisms (Peierls-Nabarro
+      stress, work hardening, precipitation/solid-solution/grain-boundary
+      strengthening — depth beyond the existing intro-level
+      point-defects-and-dislocations-in-crystals concept)
+- [ ] Thermodynamics of materials and multicomponent phase equilibria
+      (Gibbs free energy of mixing, CALPHAD approach, ternary systems —
+      depth beyond the existing binary-only phase-diagrams concept)
+- [ ] Computational materials science (finite-element and phase-field
+      modelling, atomistic/molecular-dynamics simulation of materials —
+      distinct from physics's general computational-methods content,
+      which cannot be a cross-subject prerequisite anyway)
+- [ ] Thin films, surface engineering, and semiconductor materials
+      processing (deposition techniques, epitaxy, surface treatments —
+      an entire standard topic currently absent)
+- [ ] Biomaterials (materials designed for biological/medical
+      compatibility — properties, biocompatibility criteria, degradation
+      in vivo — an entire standard topic currently absent)
+
 ---
