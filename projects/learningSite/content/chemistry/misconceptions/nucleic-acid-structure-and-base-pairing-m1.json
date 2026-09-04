@@ -1,0 +1,10 @@
+{
+  "id": "nucleic-acid-structure-and-base-pairing-m1",
+  "conceptId": "nucleic-acid-structure-and-base-pairing",
+  "text": {
+    "en": "Believing any of the four nitrogenous bases can pair stably with any other base, with actual base-pairing patterns in real DNA being essentially arbitrary or a matter of convention -- base pairing follows a strict, chemically enforced rule: adenine pairs stably only with thymine, and guanine pairs stably only with cytosine, because only these specific pairs have matching hydrogen-bonding patterns and a geometry that fits properly within the double helix's regular width; other combinations either cannot form the correct hydrogen bonds or physically do not fit, which is exactly why this specific pairing rule, not an arbitrary convention, is what actually holds the double helix together.",
+    "et": "Arvamus, et ükskõik milline neljast lämmastikalusest saab stabiilselt paarduda mistahes teise alusega, kusjuures tegelikud aluspaardumise mustrid reaalses DNA-s on sisuliselt suvalised või kokkuleppe küsimus -- aluspaardumine järgib ranget, keemiliselt tagatud reeglit: adeniin paardub stabiilselt ainult tümiiniga, ja guaniin paardub stabiilselt ainult tsütosiiniga, kuna ainult neil konkreetsetel paaridel on vastavad vesiniksideme mustrid ja geomeetria, mis sobitub korralikult kaksikheeliksi ühtlasesse laiusesse; teised kombinatsioonid kas ei suuda moodustada õigeid vesiniksidemeid või ei mahu füüsiliselt, mis ongi täpselt põhjus, miks see spetsiifiline paardumisreegel, mitte suvaline kokkulepe, hoiab tegelikult kaksikheeliksit koos.",
+    "sourceHash": "ac1e9eca2170ba70",
+    "stale": false
+  }
+}

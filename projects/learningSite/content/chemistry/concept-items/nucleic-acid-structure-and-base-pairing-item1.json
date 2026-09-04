@@ -1,0 +1,56 @@
+{
+  "id": "nucleic-acid-structure-and-base-pairing-item1",
+  "conceptId": "nucleic-acid-structure-and-base-pairing",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Given the complete base sequence of one strand of a DNA double helix, why can the complementary strand's sequence be determined exactly, position by position, without needing to measure it directly?",
+    "et": "Antud DNA kaksikheeliksi ühe ahela täielik alusjärjekord, miks saab komplementaarse ahela järjekorra määrata täpselt, positsioon-positsiooni haaval, ilma seda otse mõõtmata?",
+    "sourceHash": "f30f1301757f2724",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Each base pairs stably with exactly one specific complementary partner (adenine with thymine, guanine with cytosine), an exact one-to-one structural rule, not a loose correlation.",
+        "et": "Iga alus paardub stabiilselt täpselt ühe konkreetse komplementaarse partneriga (adeniin tümiiniga, guaniin tsütosiiniga), täpne üks-ühele struktuurne reegel, mitte lõtv korrelatsioon.",
+        "sourceHash": "6495200d821d1920",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It actually cannot be determined this way, since any of the four bases can pair stably with any other base, making the pairing essentially arbitrary.",
+        "et": "Seda ei saa tegelikult niimoodi määrata, kuna ükskõik milline neljast alusest saab stabiilselt paarduda mistahes teise alusega, muutes paardumise sisuliselt suvaliseks.",
+        "sourceHash": "6a897dae0a296500",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nucleic-acid-structure-and-base-pairing-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both strands run in the same chemical direction, so the complementary strand is simply an identical copy of the first strand's sequence read in the same direction.",
+        "et": "Mõlemad ahelad kulgevad samas keemilises suunas, seega on komplementaarne ahel lihtsalt esimese ahela järjekorra identne koopia, mis on loetud samas suunas.",
+        "sourceHash": "8587702e0c231b9f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nucleic-acid-structure-and-base-pairing-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be determined this way, since the two strands are chemically separate molecules with no structural relationship between their sequences.",
+        "et": "Seda ei saa niimoodi määrata, kuna kaks ahelat on keemiliselt eraldiseisvad molekulid ilma struktuurse seoseta nende järjekordade vahel.",
+        "sourceHash": "f70329f2fdbd6381",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nucleic-acid-structure-and-base-pairing-m3"
+    }
+  ]
+}

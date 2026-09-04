@@ -1,0 +1,21 @@
+{
+  "id": "nucleic-acid-structure-and-base-pairing",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "biochemistry",
+  "title": {
+    "en": "Nucleic acid structure and base pairing",
+    "et": "Nukleiinhapete struktuur ja aluspaardumine",
+    "sourceHash": "76a575b589fb3970",
+    "stale": false
+  },
+  "summary": {
+    "en": "A single strand of DNA is a chain of nucleotides, each built from a sugar, a phosphate group, and one of four nitrogenous bases, linked sugar-to-phosphate into a backbone that, exactly like a polypeptide chain, has a defined chemical direction from one end to the other, but DNA's double helix arises from something else entirely: each base can only hydrogen-bond stably with one specific complementary partner -- adenine exclusively with thymine, guanine exclusively with cytosine -- a strict pairing rule enforced by the precise geometric fit and hydrogen-bonding pattern of each pair and by nothing else, which is exactly why the two strands of a double helix run in opposite chemical directions (antiparallel) and why knowing the base sequence on one strand automatically determines the complementary sequence on the other, the structural fact that makes DNA replication -- each strand serving as the template for building an exact new complementary partner -- possible at all.",
+    "et": "Üksik DNA ahel on nukleotiidide ahel, millest igaüks on ehitatud suhkrust, fosfaatrühmast ja ühest neljast lämmastikalusest, ühendatud suhkur-fosfaat sidemega selgrooks, millel on täpselt nagu polüpeptiidahelal, kindlaksmääratud keemiline suund ühest otsast teiseni, kuid DNA kaksikheeliks tekib millestki hoopis muust: iga alus saab vesiniksidemega stabiilselt seonduda ainult ühe kindla komplementaarse partneriga -- adeniin ainult tümiiniga, guaniin ainult tsütosiiniga -- range paardumisreegel, mille tagab iga paari täpne geomeetriline sobivus ja vesiniksidemete muster ning mitte miski muu, mis ongi täpselt põhjus, miks kaksikheeliksi kaks ahelat kulgevad vastupidistes keemilistes suundades (antiparalleelselt) ja miks ühe ahela alusjärjekorra teadmine määrab automaatselt teise ahela komplementaarse järjekorra, struktuurne fakt, mis teeb DNA replikatsiooni -- iga ahel toimib mallina täpse uue komplementaarse partneri ehitamiseks -- üldse võimalikuks.",
+    "sourceHash": "cf50f8844d7d8d26",
+    "stale": false
+  },
+  "prerequisites": [
+    "amino-acids-peptide-bonds-and-protein-primary-structure"
+  ]
+}

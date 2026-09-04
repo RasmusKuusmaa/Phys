@@ -1,0 +1,10 @@
+{
+  "id": "nucleic-acid-structure-and-base-pairing-m2",
+  "conceptId": "nucleic-acid-structure-and-base-pairing",
+  "text": {
+    "en": "Believing the two strands of a DNA double helix run in the same chemical direction, since they appear as two parallel strands wound around each other -- the two strands specifically run in opposite chemical directions (antiparallel), one running from its sugar-phosphate backbone's five-prime end to its three-prime end while the complementary strand runs the opposite way; this antiparallel arrangement is a direct structural requirement of how the base pairs actually fit together geometrically within the helix, not an arbitrary orientation choice, and it is essential to how DNA replication and transcription machinery actually reads and processes each strand.",
+    "et": "Arvamus, et DNA kaksikheeliksi kaks ahelat kulgevad samas keemilises suunas, kuna need näivad kahe paralleelse ahelana, mis on üksteise ümber keerdunud -- kaks ahelat kulgevad spetsiifiliselt vastupidistes keemilistes suundades (antiparalleelselt), üks kulgeb oma suhkur-fosfaat selgroo viie-prim otsast kolme-prim otsani, samal ajal kui komplementaarne ahel kulgeb vastupidises suunas; see antiparalleelne paigutus on otsene struktuurne nõue selle kohta, kuidas aluspaarid tegelikult heeliksi sees geomeetriliselt kokku sobituvad, mitte suvaline orientatsioonivalik, ning see on hädavajalik selleks, kuidas DNA replikatsiooni ja transkriptsiooni masinavärk tegelikult iga ahelat loeb ja töötleb.",
+    "sourceHash": "33e3a9c6fcadf469",
+    "stale": false
+  }
+}

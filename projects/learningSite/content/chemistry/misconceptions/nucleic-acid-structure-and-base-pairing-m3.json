@@ -1,0 +1,10 @@
+{
+  "id": "nucleic-acid-structure-and-base-pairing-m3",
+  "conceptId": "nucleic-acid-structure-and-base-pairing",
+  "text": {
+    "en": "Believing knowing one DNA strand's base sequence provides no particular information about the other strand's sequence, since the two strands are chemically separate molecules -- because each base pairs stably with exactly one specific complementary partner, knowing one strand's complete sequence automatically and exactly determines the complementary strand's sequence at every position; this complementarity is not a loose correlation but an exact, one-to-one structural fact, which is precisely the property that makes DNA replication possible at all, since each original strand can serve directly as a template specifying exactly which bases must be added to build its new complementary partner.",
+    "et": "Arvamus, et ühe DNA ahela alusjärjekorra teadmine ei anna erilist teavet teise ahela järjekorra kohta, kuna kaks ahelat on keemiliselt eraldiseisvad molekulid -- kuna iga alus paardub stabiilselt täpselt ühe konkreetse komplementaarse partneriga, määrab ühe ahela täieliku järjekorra teadmine automaatselt ja täpselt komplementaarse ahela järjekorra igal positsioonil; see komplementaarsus ei ole lõtv korrelatsioon, vaid täpne, üks-ühele struktuurne fakt, mis ongi täpselt omadus, mis teeb DNA replikatsiooni üldse võimalikuks, kuna iga algne ahel saab toimida otse mallina, mis täpsustab täpselt, milliseid aluseid tuleb lisada, et ehitada selle uus komplementaarne partner.",
+    "sourceHash": "7bf99043fa14e50f",
+    "stale": false
+  }
+}
