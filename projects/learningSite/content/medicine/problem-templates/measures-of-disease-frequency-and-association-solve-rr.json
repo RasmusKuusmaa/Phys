@@ -1,0 +1,33 @@
+{
+  "id": "measures-of-disease-frequency-and-association-solve-rr",
+  "formulaId": "measures-of-disease-frequency-and-association-formula1",
+  "variables": [
+    {
+      "symbol": "I_e",
+      "min": 0.01,
+      "max": 0.3,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "I_u",
+      "min": 0.01,
+      "max": 0.2,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "I_e",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "I_u",
+      "right": 0
+    }
+  ],
+  "solveFor": "RR"
+}

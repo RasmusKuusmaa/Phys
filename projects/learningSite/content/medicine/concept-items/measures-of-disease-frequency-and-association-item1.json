@@ -1,0 +1,56 @@
+{
+  "id": "measures-of-disease-frequency-and-association-item1",
+  "conceptId": "measures-of-disease-frequency-and-association",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A cohort study finds a relative risk of 4 for a rare disease in people exposed to a certain chemical, meaning the exposed group develops the disease four times as often as the unexposed group. What can be concluded from a relative risk of 1 found in a second, different cohort study of the same chemical and a different, common disease?",
+    "et": "Kohortuuring leiab harva haiguse jaoks suhtelise riski 4 inimestel, kes on eksponeeritud teatud kemikaalile, mis tähendab, et eksponeeritud rühmal tekib haigus neli korda sagedamini kui eksponeerimata rühmal. Mida saab järeldada suhtelisest riskist 1, mis leiti teises, erinevas sama kemikaali ja teise, sagedase haiguse kohortuuringus?",
+    "sourceHash": "883e97c86d8fb4f7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That the second study found no difference in incidence between the exposed and unexposed groups for that disease — which could reflect a true absence of effect, or could reflect a study underpowered to detect a real one, but is not by itself proof the exposure is safe.",
+        "et": "Et teine uuring ei leidnud erinevust esinemissageduses eksponeeritud ja eksponeerimata rühma vahel selle haiguse osas -- mis võib peegeldada tõelist mõju puudumist või liiga väikest statistilist võimsust tõelise mõju tuvastamiseks, kuid ei ole iseenesest tõend, et eksponeeritus on ohutu.",
+        "sourceHash": "d60f12a70241c537",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That the second disease has the same incidence and prevalence, since a relative risk of 1 means the two measures are equal.",
+        "et": "Et teisel haigusel on sama esinemissagedus ja levimus, kuna suhteline risk 1 tähendab, et need kaks mõõdikut on võrdsed.",
+        "sourceHash": "f765413d54744021",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "measures-of-disease-frequency-and-association-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That the exposure is definitively proven safe with respect to that disease, since a relative risk of exactly 1 rules out any possible effect.",
+        "et": "Et eksponeeritus on selle haiguse osas lõplikult tõestatud ohutuks, kuna suhteline risk täpselt 1 välistab igasuguse võimaliku mõju.",
+        "sourceHash": "5212668a0c78f35a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "measures-of-disease-frequency-and-association-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That the odds ratio and relative risk for this common disease will be nearly identical, since the two measures always converge regardless of how common the outcome is.",
+        "et": "Et šansisuhe ja suhteline risk on selle sagedase haiguse jaoks peaaegu identsed, kuna need kaks mõõdikut ühtivad alati, sõltumata sellest, kui sage tulemus on.",
+        "sourceHash": "f0d07d060422a568",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "measures-of-disease-frequency-and-association-m3"
+    }
+  ]
+}

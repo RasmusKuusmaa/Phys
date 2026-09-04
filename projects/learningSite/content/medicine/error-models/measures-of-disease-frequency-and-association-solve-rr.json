@@ -1,0 +1,37 @@
+{
+  "id": "measures-of-disease-frequency-and-association-solve-rr",
+  "formulaId": "measures-of-disease-frequency-and-association-formula1",
+  "solveFor": "RR",
+  "mistakes": [
+    {
+      "id": "inverted-the-ratio",
+      "description": {
+        "en": "Inverted the ratio, computing incidence in the unexposed group divided by incidence in the exposed group instead of the other way round.",
+        "et": "Pööras suhte ümber, arvutades esinemissageduse eksponeerimata rühmas jagatuna esinemissagedusega eksponeeritud rühmas, selle asemel et teha vastupidi.",
+        "sourceHash": "335b9437b77fd4e4",
+        "stale": false
+      },
+      "expression": "I_u/I_e"
+    },
+    {
+      "id": "subtracted-instead-of-divided",
+      "description": {
+        "en": "Subtracted the unexposed-group incidence from the exposed-group incidence instead of dividing one by the other.",
+        "et": "Lahutas eksponeerimata rühma esinemissageduse eksponeeritud rühma esinemissagedusest, selle asemel et üht teisega jagada.",
+        "sourceHash": "d817aca59d769926",
+        "stale": false
+      },
+      "expression": "I_e-I_u"
+    },
+    {
+      "id": "used-exposed-incidence-alone",
+      "description": {
+        "en": "Used the exposed-group incidence alone as if it were already the relative risk, ignoring the unexposed-group incidence entirely.",
+        "et": "Kasutas eksponeeritud rühma esinemissagedust üksi, nagu see oleks juba suhteline risk, jättes eksponeerimata rühma esinemissageduse täielikult arvestamata.",
+        "sourceHash": "4cceb31d96978f16",
+        "stale": false
+      },
+      "expression": "I_e"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "measures-of-disease-frequency-and-association-m3",
+  "conceptId": "measures-of-disease-frequency-and-association",
+  "text": {
+    "en": "Odds ratio and relative risk are just two names for the same calculation, so they can always be substituted for each other -- in reality, odds ratio and relative risk are computed differently (a ratio of odds vs. a ratio of risks) and only approximate each other closely when the disease being studied is rare; for a common outcome, the odds ratio can overstate the relative risk substantially, which matters especially in case-control studies, which can only compute an odds ratio, not incidence-based relative risk directly.",
+    "et": "Šansisuhe ja suhteline risk on lihtsalt kaks nimetust sama arvutuse jaoks, mistõttu saab neid alati üksteisega asendada -- tegelikult arvutatakse šansisuhe ja suhteline risk erinevalt (šansside suhe vs riskide suhe) ning need lähendavad üksteist täpselt ainult siis, kui uuritav haigus on harv; sagedase tulemuse puhul võib šansisuhe suhtelist riski oluliselt üle hinnata, mis on eriti oluline juht-kontrolluuringutes, mis suudavad arvutada ainult šansisuhet, mitte esinemissagedusel põhinevat suhtelist riski otse.",
+    "sourceHash": "8b13b99e4017db41",
+    "stale": false
+  }
+}

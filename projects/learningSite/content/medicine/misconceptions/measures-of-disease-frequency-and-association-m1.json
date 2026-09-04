@@ -1,0 +1,10 @@
+{
+  "id": "measures-of-disease-frequency-and-association-m1",
+  "conceptId": "measures-of-disease-frequency-and-association",
+  "text": {
+    "en": "Incidence and prevalence measure the same thing and can be used interchangeably -- in reality, incidence measures how fast new cases arise over a time period, while prevalence measures the total burden of existing cases (new and old) at one moment; a disease can have low incidence but high prevalence if it's rare to newly develop but people live with it for a long time once they have it, so the two numbers can move in opposite directions and answer different questions.",
+    "et": "Esinemissagedus ja levimus mõõdavad sama asja ning neid saab vahetult kasutada -- tegelikult mõõdab esinemissagedus, kui kiiresti uued juhtumid tekivad ajaperioodi jooksul, samas kui levimus mõõdab olemasolevate juhtumite (uute ja vanade) kogukoormust ühel hetkel; haigusel võib olla madal esinemissagedus, kuid kõrge levimus, kui see tekib harva uuesti, kuid inimesed elavad sellega kaua, kui see neil on, mistõttu need kaks arvu võivad liikuda vastupidises suunas ja vastata erinevatele küsimustele.",
+    "sourceHash": "428939af03405c0c",
+    "stale": false
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "measures-of-disease-frequency-and-association-formula1",
+  "conceptId": "measures-of-disease-frequency-and-association",
+  "latex": "RR = \\frac{I_e}{I_u}",
+  "symbols": [
+    {
+      "symbol": "RR",
+      "name": {
+        "en": "relative risk",
+        "et": "suhteline risk",
+        "sourceHash": "f12c8377cd3ebb1a",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "I_e",
+      "name": {
+        "en": "incidence in exposed group",
+        "et": "esinemissagedus eksponeeritud rühmas",
+        "sourceHash": "47974f7bffcaadfb",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "I_u",
+      "name": {
+        "en": "incidence in unexposed group",
+        "et": "esinemissagedus eksponeerimata rühmas",
+        "sourceHash": "28f0a61a120b686b",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "RR",
+    "I_e",
+    "I_u"
+  ],
+  "expressions": {
+    "RR": "I_e/I_u",
+    "I_e": "RR*I_u",
+    "I_u": "I_e/RR"
+  }
+}

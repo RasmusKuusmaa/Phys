@@ -1,0 +1,10 @@
+{
+  "id": "measures-of-disease-frequency-and-association-m2",
+  "conceptId": "measures-of-disease-frequency-and-association",
+  "text": {
+    "en": "A relative risk of 1 means the exposure has no effect at all on the outcome and can be treated as proof the exposure is safe -- in reality, a relative risk of 1 in a specific study means that particular study found no difference in incidence between exposed and unexposed groups, but this could reflect genuinely no effect, or could reflect a study too small or too short to detect a real effect (a false negative) -- a single relative risk near 1 shows an absence of evidence for an effect, not necessarily strong evidence of no effect.",
+    "et": "Suhteline risk 1 tähendab, et eksponeeritusel puudub tulemusele igasugune mõju ning seda saab käsitleda tõendina, et eksponeeritus on ohutu -- tegelikult tähendab suhteline risk 1 konkreetses uuringus, et see uuring ei leidnud erinevust esinemissageduses eksponeeritud ja eksponeerimata rühma vahel, kuid see võib peegeldada tõeliselt puuduvat mõju või liiga väikest või lühikest uuringut, et tõelist mõju tuvastada (valenegatiivne) -- üksik suhteline risk 1 lähedal näitab tõendite puudumist mõju kohta, mitte tingimata tugevat tõendit mõju puudumise kohta.",
+    "sourceHash": "5f542405ac428bc0",
+    "stale": false
+  }
+}

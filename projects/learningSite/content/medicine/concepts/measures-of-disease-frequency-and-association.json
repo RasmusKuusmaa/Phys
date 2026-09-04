@@ -1,0 +1,21 @@
+{
+  "id": "measures-of-disease-frequency-and-association",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "biostatistics-and-epidemiology",
+  "title": {
+    "en": "Measures of disease frequency and association",
+    "et": "Haiguse esinemissageduse ja seose mõõdikud",
+    "sourceHash": "aa25b726ce1b3817",
+    "stale": false
+  },
+  "summary": {
+    "en": "Epidemiology needs precise, distinct vocabulary for two different kinds of question a disease can be asked about: how much of it is there, and how strongly is it linked to some exposure. Incidence answers the first kind of question looking forward -- the proportion of a previously disease-free population that develops the disease over a defined time period, capturing the rate at which new cases arise -- while prevalence answers a related but different version of it looking at one moment: the proportion of an entire population, new and old cases together, who have the disease at a given point in time, which rises with both how often the disease newly occurs and how long people live with it once they have it. Relative risk answers the second kind of question directly: it is simply the incidence in an exposed group divided by the incidence in an unexposed group, so a relative risk of 3 means the exposed group develops the disease three times as often as the unexposed group, a relative risk of 1 means the exposure appears unrelated to the disease, and a relative risk below 1 means the exposure is associated with lower risk. Odds ratio, computed differently (as a ratio of odds rather than a ratio of risks/incidences), approximates relative risk well when the disease is rare but diverges from it substantially as the disease becomes common, which is why the two numbers are not simply interchangeable and a case-control study -- which cannot measure incidence directly, only compute an odds ratio -- gives a different kind of number than a cohort study measuring relative risk directly.",
+    "et": "Epidemioloogia vajab täpset ja eristuvat sõnavara kahe erineva küsimuseliigi jaoks, mida haiguse kohta küsida saab: kui palju seda on, ja kui tugevalt on see seotud mõne eksponeeritusega. Esinemissagedus (intsidents) vastab esimest liiki küsimusele ettepoole vaadates -- varem haigusevaba populatsiooni osakaal, kellel haigus kindlaksmääratud ajaperioodi jooksul tekib, tabades kiirust, millega uued juhtumid tekivad -- samas kui levimus (prevalents) vastab seotud, kuid erinevale versioonile sellest, vaadates ühte hetke: kogu populatsiooni, nii uute kui vanade juhtumite osakaal, kellel haigus antud ajahetkel on, mis tõuseb nii sellest, kui sageli haigus uuesti tekib, kui ka sellest, kui kaua inimesed sellega elavad, kui see neil on. Suhteline risk vastab teist liiki küsimusele otseselt: see on lihtsalt esinemissagedus eksponeeritud rühmas jagatuna esinemissagedusega eksponeerimata rühmas, nii et suhteline risk 3 tähendab, et eksponeeritud rühmal tekib haigus kolm korda sagedamini kui eksponeerimata rühmal, suhteline risk 1 tähendab, et eksponeeritus näib haigusega mitteseotud olevat, ning suhteline risk alla 1 tähendab, et eksponeeritus on seotud madalama riskiga. Šansisuhe, mis arvutatakse teisiti (šansside suhtena, mitte riskide/esinemissageduste suhtena), lähendab suhtelist riski hästi, kui haigus on harv, kuid erineb sellest oluliselt, kui haigus muutub sagedaseks, mistõttu need kaks arvu ei ole lihtsalt vahetatavad ning juht-kontrolluuring -- mis ei suuda esinemissagedust otse mõõta, vaid ainult šansisuhet arvutada -- annab teistsuguse arvu kui kohortuuring, mis mõõdab suhtelist riski otse.",
+    "sourceHash": "16b9b185db669c7f",
+    "stale": false
+  },
+  "prerequisites": [
+    "study-design-in-clinical-research"
+  ]
+}
