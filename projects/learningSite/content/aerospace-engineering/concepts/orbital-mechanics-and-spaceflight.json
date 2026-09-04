@@ -1,0 +1,19 @@
+{
+  "id": "orbital-mechanics-and-spaceflight",
+  "subject": "aerospace-engineering",
+  "level": "L2",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Orbital mechanics and spaceflight",
+    "et": "Orbitaalmehaanika ja kosmoselend",
+    "sourceHash": "0245ba638e99ce1b",
+    "stale": false
+  },
+  "summary": {
+    "en": "An orbiting spacecraft is not somewhere gravity is weak or absent -- in low Earth orbit gravity is nearly as strong as at the surface -- it is simply in continuous free fall with enough sideways (tangential) velocity that the curve of its fall matches the curve of the planet, so it falls forever without hitting the ground; changing orbits means changing this velocity with a rocket burn, and mission designers plan these burns around Kepler's laws applied at the engineering level, budgeting the total velocity change, or delta-v, a mission will require. The efficient way to move between two circular orbits, a Hohmann transfer, uses two burns along the direction of travel (not radially outward) -- one to stretch the current orbit into an ellipse reaching the target altitude, a second to circularize there -- and reaching a specific target, such as a space station or another planet, additionally requires a launch window: a time when the target's position and the transfer geometry line up, a constraint set entirely by orbital mechanics rather than by weather or daylight.",
+    "et": "Orbiidil olev kosmoseaparaat ei asu kohas, kus gravitatsioon on nõrk või puudub -- madalal Maa orbiidil on gravitatsioon peaaegu sama tugev kui pinnal -- see on lihtsalt pidevas vabalanguses, millel on piisav külgsuunaline (tangentsiaalne) kiirus, et selle languse kõverus vastaks planeedi kõverusele, mistõttu see langeb igavesti maapinda tabamata; orbiidi muutmine tähendab selle kiiruse muutmist raketimootori tõukega, ning missiooniplaneerijad kavandavad neid tõukeid Kepleri seaduste inseneripõhisel rakendamisel, planeerides ette kogu missiooniks vajaliku kiirusemuutuse ehk delta-v. Tõhus viis kahe ringorbiidi vahel liikumiseks, Hohmanni ülekanne, kasutab kahte tõuget liikumissuunas (mitte radiaalselt väljapoole) -- üks venitab praeguse orbiidi ellipsiks, mis ulatub sihtkõrguseni, teine ringistab orbiidi seal --, ning kindla sihtmärgi, näiteks kosmosejaama või teise planeedi saavutamine nõuab lisaks stardiakent: aega, mil sihtmärgi asend ja ülekande geomeetria omavahel sobituvad, mis on täielikult orbitaalmehaanikast, mitte ilmastikust ega päevavalgusest tulenev piirang.",
+    "sourceHash": "4a1fa79211b9fac6",
+    "stale": false
+  },
+  "prerequisites": []
+}

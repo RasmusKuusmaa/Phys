@@ -1,0 +1,10 @@
+{
+  "id": "orbital-mechanics-and-spaceflight-m1",
+  "conceptId": "orbital-mechanics-and-spaceflight",
+  "text": {
+    "en": "Believing astronauts in low Earth orbit are weightless because they are 'beyond' or 'outside' Earth's gravity -- gravity at typical low-Earth-orbit altitudes (a few hundred kilometers up) is only slightly weaker than at the surface, around 90% of its surface value; what makes an orbiting spacecraft and everything in it appear weightless is that they are in continuous free fall, with enough sideways velocity that the ground curves away beneath them exactly as fast as they fall toward it, so they never get any closer to the surface.",
+    "et": "Arvamus, et astronaudid madalal Maa orbiidil on kaaluta seisundis, kuna nad on Maa gravitatsioonist 'väljas' või 'kaugel' -- gravitatsioon tüüpilistel madala Maa orbiidi kõrgustel (mõnisada kilomeetrit üleval) on ainult veidi nõrgem kui pinnal, umbes 90% pinnaväärtusest; see, mis paneb orbiidil oleva kosmoseaparaadi ja kõik selles oleva näima kaaluta, on see, et nad on pidevas vabalanguses, piisava külgsuunalise kiirusega, et maapind kaardub nende alt eemale täpselt sama kiiresti, kui nad selle poole langevad, mistõttu nad ei jõua pinnale kunagi lähemale.",
+    "sourceHash": "6297dca9c83e58c7",
+    "stale": false
+  }
+}

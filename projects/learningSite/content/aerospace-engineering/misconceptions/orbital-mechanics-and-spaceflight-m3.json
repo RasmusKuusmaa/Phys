@@ -1,0 +1,10 @@
+{
+  "id": "orbital-mechanics-and-spaceflight-m3",
+  "conceptId": "orbital-mechanics-and-spaceflight",
+  "text": {
+    "en": "Believing a spacecraft launch window is set mainly by weather or by needing daylight at the launch site -- while weather can scrub an individual launch attempt, the launch window for reaching a specific orbital target (rendezvousing with a space station, or reaching another planet) is fundamentally set by orbital mechanics: the target's orbital plane and position must align with the launch site's location and the planned transfer trajectory, a geometric constraint that repeats on a predictable schedule (daily for reaching a given orbital plane, or roughly every two years for a low-energy Mars transfer) regardless of weather.",
+    "et": "Arvamus, et kosmoseaparaadi stardiaken on määratud peamiselt ilmastikuga või vajadusega päevavalguse järele startimispaigas -- kuigi ilm võib üksiku stardikatse tühistada, on stardiaken kindla orbitaalse sihtmärgi (kosmosejaamaga kohtumine või teise planeedi saavutamine) jaoks põhimõtteliselt määratud orbitaalmehaanikaga: sihtmärgi orbiidi tasand ja asend peavad ühtima startimispaiga asukoha ja kavandatud ülekande trajektooriga, mis on geomeetriline piirang, mis kordub ilmastikust sõltumata prognoositava graafiku alusel (iga päev antud orbiiditasandi saavutamiseks, või ligikaudu iga kahe aasta tagant madala energiakuluga Marsi-ülekande jaoks).",
+    "sourceHash": "f56eb602ac9a62b1",
+    "stale": false
+  }
+}

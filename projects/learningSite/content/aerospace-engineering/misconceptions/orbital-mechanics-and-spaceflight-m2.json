@@ -1,0 +1,10 @@
+{
+  "id": "orbital-mechanics-and-spaceflight-m2",
+  "conceptId": "orbital-mechanics-and-spaceflight",
+  "text": {
+    "en": "Believing that to raise a spacecraft's orbit, the most natural or efficient burn points radially outward, directly away from the planet -- the efficient Hohmann transfer instead uses burns along the direction of travel (prograde): a first prograde burn raises the far side of the orbit into an ellipse reaching the target altitude, and a second prograde burn at that point circularizes the new, higher orbit; burning radially outward wastes propellant changing the orbit's shape without efficiently raising its energy the way a prograde burn does.",
+    "et": "Arvamus, et kosmoseaparaadi orbiidi tõstmiseks on kõige loomulikum või tõhusam tõuge suunatud radiaalselt väljapoole, otse planeedist eemale -- tõhus Hohmanni ülekanne kasutab selle asemel tõukeid liikumissuunas (progradselt): esimene progradne tõuge tõstab orbiidi kaugema poole ellipsiks, mis ulatub sihtkõrguseni, ning teine progradne tõuge selles punktis ringistab uue, kõrgema orbiidi; radiaalselt väljapoole tõukamine raiskab töömassi orbiidi kuju muutmisele, tõstmata selle energiat sama tõhusalt kui progradne tõuge.",
+    "sourceHash": "7cdfcd4b94563bb4",
+    "stale": false
+  }
+}

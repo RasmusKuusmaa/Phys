@@ -1,0 +1,56 @@
+{
+  "id": "orbital-mechanics-and-spaceflight-item1",
+  "conceptId": "orbital-mechanics-and-spaceflight",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A mission planner wants to raise a satellite from a low circular orbit to a higher circular orbit as efficiently as possible using a Hohmann transfer. What burn sequence should they plan?",
+    "et": "Missiooniplaneerija soovib tõsta satelliidi madalalt ringorbiidilt kõrgemale ringorbiidile võimalikult tõhusalt, kasutades Hohmanni ülekannet. Millist tõukejärjestust tuleks planeerida?",
+    "sourceHash": "77b9bf148d6107f1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A prograde burn to stretch the orbit into an ellipse reaching the target altitude, followed by a second prograde burn there to circularize.",
+        "et": "Progradne tõuge, mis venitab orbiidi ellipsiks, mis ulatub sihtkõrguseni, millele järgneb teine progradne tõuge seal orbiidi ringistamiseks.",
+        "sourceHash": "8f8cdffaf62fc861",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A single burn pointed radially outward, directly away from the planet, sized to reach the target altitude.",
+        "et": "Üksik tõuge, mis on suunatud radiaalselt väljapoole, otse planeedist eemale, mille suurus vastab sihtkõrgusele.",
+        "sourceHash": "2f7edf12110b7b42",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "orbital-mechanics-and-spaceflight-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "No burn is needed, since moving further from the planet happens automatically once the satellite is far enough from Earth's gravity.",
+        "et": "Tõuget ei ole vaja, kuna planeedist kaugemale liikumine toimub automaatselt niipea, kui satelliit on Maa gravitatsioonist piisavalt kaugel.",
+        "sourceHash": "06b70c93231715e8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "orbital-mechanics-and-spaceflight-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The transfer should be timed primarily around clear weather and daylight at the ground control center rather than any orbital geometry.",
+        "et": "Ülekanne tuleks ajastada peamiselt selge ilma ja päevavalguse järgi maapealses juhtimiskeskuses, mitte orbiidi geomeetria järgi.",
+        "sourceHash": "bc8563817d82aaab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "orbital-mechanics-and-spaceflight-m3"
+    }
+  ]
+}
