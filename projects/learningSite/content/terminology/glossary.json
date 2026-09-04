@@ -126,6 +126,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/barj%C3%A4%C3%A4ri%20laius/1/est"
   },
   {
+    "id": "basic-reproduction-number",
+    "en": "basic reproduction number",
+    "et": "baasreproduktsiooniarv",
+    "domain": "epidemiology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/reproduktsiooniarv/1/est"
+  },
+  {
     "id": "beta-decay",
     "en": "beta decay",
     "et": "beetalagunemine",
@@ -698,6 +705,13 @@
     "et": "kõrgus",
     "domain": "fluid-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/kõrgus/1/est"
+  },
+  {
+    "id": "herd-immunity-threshold",
+    "en": "herd immunity threshold",
+    "et": "karjaimmuunsuse lävi",
+    "domain": "epidemiology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/karjaimmuunsus/1/est"
   },
   {
     "id": "hydrostatic-pressure",
