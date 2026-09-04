@@ -1,0 +1,10 @@
+{
+  "id": "adaptive-immunity-and-lymphocytes-m3",
+  "conceptId": "adaptive-immunity-and-lymphocytes",
+  "text": {
+    "en": "Once you develop antibodies against a pathogen, that response is a single fixed thing, the same regardless of how many times you're exposed -- in reality, the first exposure (primary response) is slow and produces a modest antibody response, largely IgM initially; a second exposure to the same antigen triggers a faster, larger, and more effective secondary response driven by memory cells already primed from the first exposure, typically producing more IgG antibody with higher affinity.",
+    "et": "Kui organism on patogeeni vastu antikehad välja arendanud, on see vastus üks fikseeritud asi, sama olenemata sellest, mitu korda kokku puututakse -- tegelikult on esimene kokkupuude (esmane vastus) aeglane ja tekitab tagasihoidliku antikehavastuse, esialgu peamiselt IgM-i; teine kokkupuude sama antigeeniga käivitab kiirema, ulatuslikuma ja tõhusama sekundaarse vastuse, mida juhivad juba esimesest kokkupuutest ette valmistatud mälurakud, tootes tavaliselt rohkem kõrgema afiinsusega IgG antikeha.",
+    "sourceHash": "ddb1adf4e023dfb2",
+    "stale": false
+  }
+}

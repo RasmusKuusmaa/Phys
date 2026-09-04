@@ -1,0 +1,10 @@
+{
+  "id": "adaptive-immunity-and-lymphocytes-m1",
+  "conceptId": "adaptive-immunity-and-lymphocytes",
+  "text": {
+    "en": "B cells and T cells do basically the same job, just with different names -- in reality, they have distinct roles: B cells differentiate into plasma cells that secrete free antibodies which work extracellularly, while T cells directly kill infected host cells (cytotoxic T cells) or coordinate and activate other immune cells (helper T cells); they also recognize antigen differently -- B cell receptors can bind free antigen directly, while T cell receptors only recognize antigen fragments presented on MHC molecules.",
+    "et": "B-rakud ja T-rakud teevad sisuliselt sama tööd, lihtsalt erinevate nimedega -- tegelikult on neil eristuvad rollid: B-rakud diferentseeruvad plasmarakkudeks, mis eritavad vabu antikehi, mis toimivad rakuväliselt, samas kui T-rakud kas tapavad otse nakatunud peremeesrakke (tsütotoksilised T-rakud) või koordineerivad ja aktiveerivad teisi immuunrakke (abistaja-T-rakud); samuti tunnevad need antigeeni ära erinevalt -- B-raku retseptorid saavad siduda vaba antigeeni otse, samas kui T-raku retseptorid tunnevad ära ainult MHC molekulidel esitletud antigeeni fragmente.",
+    "sourceHash": "e75ab85067de148a",
+    "stale": false
+  }
+}

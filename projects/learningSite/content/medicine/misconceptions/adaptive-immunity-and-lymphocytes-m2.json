@@ -1,0 +1,10 @@
+{
+  "id": "adaptive-immunity-and-lymphocytes-m2",
+  "conceptId": "adaptive-immunity-and-lymphocytes",
+  "text": {
+    "en": "The adaptive immune system already has, from birth, one dedicated cell that specifically targets any given pathogen, ready to respond to it -- in reality, no lymphocyte is pre-made for any specific pathogen; the near-infinite receptor diversity is generated randomly during lymphocyte development before any pathogen encounter, and each pathogen's matching lymphocyte is initially an extremely rare needle-in-a-haystack cell that must be found and massively expanded via clonal selection after exposure.",
+    "et": "Omandatud immuunsüsteemil on juba sünnist saati üks spetsiaalne rakk, mis on suunatud konkreetselt igale antud patogeenile ja valmis sellele reageerima -- tegelikult ei ole ükski lümfotsüüt eelnevalt valmistatud ühegi konkreetse patogeeni jaoks; peaaegu lõputu retseptorite mitmekesisus tekib juhuslikult lümfotsüütide arengu käigus enne mistahes patogeeniga kokkupuudet, ning iga patogeeniga sobiv lümfotsüüt on algselt äärmiselt haruldane, otsitav rakk, mida tuleb pärast kokkupuudet klonaalse selektsiooni abil leida ja massiliselt laiendada.",
+    "sourceHash": "636e48645358fca0",
+    "stale": false
+  }
+}

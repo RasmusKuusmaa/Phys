@@ -1,0 +1,56 @@
+{
+  "id": "adaptive-immunity-and-lymphocytes-item1",
+  "conceptId": "adaptive-immunity-and-lymphocytes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a second exposure to the same pathogen typically trigger a much faster and stronger adaptive immune response than the first exposure did?",
+    "et": "Miks käivitab teine kokkupuude sama patogeeniga tavaliselt palju kiirema ja tugevama omandatud immuunvastuse kui esimene kokkupuude?",
+    "sourceHash": "55682e8738c122d5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because memory B and T cells specific to that pathogen's antigen, generated during the first exposure's clonal expansion, already exist in large numbers and can respond immediately rather than needing to be found and expanded from scratch.",
+        "et": "Sest selle patogeeni antigeenile spetsiifilised mälu-B- ja T-rakud, mis tekkisid esimese kokkupuute klonaalse ekspansiooni käigus, on juba suures koguses olemas ja saavad reageerida koheselt, selle asemel et olema vaja need nullist leida ja laiendada.",
+        "sourceHash": "6c2936c5ac07fa14",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the body already had one dedicated lymphocyte pre-made for that exact pathogen since birth, and the second exposure simply activates it for the first time.",
+        "et": "Sest organismil oli juba sünnist saati olemas üks spetsiaalne lümfotsüüt täpselt selle patogeeni jaoks ja teine kokkupuude lihtsalt aktiveerib selle esimest korda.",
+        "sourceHash": "1eec1f046a66b264",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adaptive-immunity-and-lymphocytes-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because B cells handle the first exposure and T cells take over entirely for any subsequent exposure, and T cells respond faster.",
+        "et": "Sest B-rakud tegelevad esimese kokkupuutega ja T-rakud võtavad iga järgneva kokkupuute puhul täielikult üle, ning T-rakud reageerivad kiiremini.",
+        "sourceHash": "2c57d75e1e7c550a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adaptive-immunity-and-lymphocytes-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the antibody response produced during the first exposure is identical in speed and scale to any later exposure; the perceived difference is due to lower pathogen load on reinfection.",
+        "et": "Sest esimese kokkupuute ajal tekkinud antikehavastus on kiiruselt ja ulatuselt identne mistahes hilisema kokkupuutega; tajutud erinevus tuleneb madalamast patogeeni kogusest taasnakatumisel.",
+        "sourceHash": "1cae1f3a9d85010a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adaptive-immunity-and-lymphocytes-m3"
+    }
+  ]
+}
