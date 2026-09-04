@@ -142,6 +142,44 @@ not applied statistical process control).
 - [x] Quality control and engineering statistics (control charts, process
       capability, tolerance stack-up — no prerequisite; kept conceptual)
 
+## Phase GE3 — graduate-level (L3/L4) pass
+
+Same move the MS3 phase made for materials-science: extend the now-11-
+concept foundational baseline to taught-MSc depth. Each concept below
+genuinely extends an existing GE1/GE2 concept's depth rather than restating
+it.
+
+- [ ] Finite element analysis fundamentals (mesh discretisation, stiffness-
+      matrix assembly at a conceptual level, convergence and mesh
+      refinement — depth beyond the existing mechanics-of-materials
+      concept's closed-form stress/strain treatment; distinct from
+      materials-science's computational-materials-science, which covers
+      atomistic/phase-field materials modelling, not structural-engineering
+      FEA workflow, and cannot be a cross-subject prerequisite anyway;
+      prerequisite: mechanics-of-materials)
+- [ ] Advanced thermodynamic cycles and exergy analysis (combined Brayton-
+      Rankine cycles, cogeneration, exergy/availability analysis — depth
+      beyond the existing engineering-thermodynamics-and-power-cycles
+      concept's single-cycle efficiency treatment; prerequisite:
+      engineering-thermodynamics-and-power-cycles)
+- [ ] Mechanical vibrations and rotating machinery (natural frequency of
+      machine elements, critical speed, rotor balancing, vibration
+      isolation design — GE2 deliberately dropped an intro-level
+      "mechanical vibrations" concept as redundant with physics's existing
+      damped/coupled/driven-oscillator concepts; this is the genuinely
+      distinct graduate-level applied-engineering angle those don't cover —
+      rotating-machinery design, not oscillator derivations; prerequisite:
+      kinematics-and-dynamics-of-mechanisms)
+- [ ] Reliability engineering and systems safety (mean time between
+      failures, reliability block diagrams, redundancy — the quantitative
+      extension of the existing engineering-design-process concept's
+      qualitative FMEA treatment; prerequisite: engineering-design-process)
+- [ ] Robotics and mechatronics fundamentals (actuators and sensors, robot
+      forward/inverse kinematics — ties together control-systems-and-
+      feedback and kinematics-and-dynamics-of-mechanisms as a named
+      standard topic in its own right; prerequisites:
+      control-systems-and-feedback, kinematics-and-dynamics-of-mechanisms)
+
 Phase GE2 complete: 11 general-engineering concepts total. Added 9 new
 glossary terms this phase needed (proportional gain, controller output, net
 present value, cash flow, initial investment, discount rate, number of
