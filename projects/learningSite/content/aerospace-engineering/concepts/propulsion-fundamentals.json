@@ -1,0 +1,19 @@
+{
+  "id": "propulsion-fundamentals",
+  "subject": "aerospace-engineering",
+  "level": "L2",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Propulsion fundamentals",
+    "et": "Jõuseadmete alused",
+    "sourceHash": "2a86e7c4b9211e14",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every air-breathing or rocket engine produces thrust the same way: by accelerating a mass of fluid (air, combustion gas, or stored propellant) rearward and, by Newton's third law, receiving an equal and opposite forward reaction force, so thrust depends on how much mass is expelled per second and at what exhaust velocity, not on having atmosphere to 'push against.' Turbojets, turbofans, and turboprops all run some form of the Brayton cycle -- compress incoming air, add heat by burning fuel, extract work in a turbine, expel the rest as exhaust -- but trade exhaust velocity against mass flow differently: a turbojet accelerates a small mass of air to high velocity, a turbofan accelerates a much larger mass to lower velocity for better fuel efficiency at subsonic speeds. Rockets carry their own propellant mass entirely on board, so their achievable velocity change is governed by the Tsiolkovsky rocket equation, which relates delta-v logarithmically to the ratio of initial to final mass -- a relationship whose logarithm means added propellant delivers steadily diminishing returns in delta-v, not a proportional increase.",
+    "et": "Iga õhku hingav või raketimootor tekitab tõukejõu samal viisil: kiirendades vedeliku massi (õhk, põlemisgaas või pardal olev töömass) tahapoole ning saades Newtoni kolmanda seaduse kohaselt võrdse ja vastassuunalise ettepoole suunatud reaktsioonijõu, mistõttu tõukejõud sõltub sellest, kui palju massi sekundis välja paisatakse ja millise väljumiskiirusega, mitte atmosfääri olemasolust, mille vastu 'lükata'. Turboreaktiiv-, turboventilaator- ja turbopropellermootorid kõik töötavad mingil kujul Brayton'i tsükli järgi -- sissetulev õhk surutakse kokku, lisatakse kütuse põletamisega soojust, turbiinis eraldatakse tööd, ülejäänu paisatakse heitgaasina välja -- kuid tasakaalustavad väljumiskiirust ja massivoolu erinevalt: turboreaktiivmootor kiirendab väikese õhumassi suure kiiruseni, turboventilaatormootor kiirendab palju suurema massi väiksema kiiruseni, saavutades parema kütusekasutuse allahelikiirusel. Raketid kannavad kogu oma töömassi pardal, mistõttu nende saavutatav kiirusemuutus on määratud Tsiolkovski raketivõrrandiga, mis seob delta-v logaritmiliselt algse ja lõppmassi suhtega -- seos, mille logaritm tähendab, et lisatud töömass annab delta-v-le pidevalt vähenevat kasu, mitte proportsionaalset kasvu.",
+    "sourceHash": "95bc3967e7c96c65",
+    "stale": false
+  },
+  "prerequisites": []
+}

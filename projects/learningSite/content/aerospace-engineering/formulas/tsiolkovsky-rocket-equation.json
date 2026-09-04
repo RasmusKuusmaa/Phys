@@ -1,0 +1,57 @@
+{
+  "id": "tsiolkovsky-rocket-equation",
+  "conceptId": "propulsion-fundamentals",
+  "latex": "\\Delta v = v_e \\ln\\!\\left(\\frac{m_0}{m_f}\\right)",
+  "symbols": [
+    {
+      "symbol": "dv",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "ve",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "m0",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    },
+    {
+      "symbol": "mf",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    }
+  ],
+  "solveFor": [
+    "dv",
+    "mf",
+    "m0"
+  ],
+  "expressions": {
+    "dv": "ve*ln(m0/mf)",
+    "mf": "m0/exp(dv/ve)",
+    "m0": "mf*exp(dv/ve)"
+  }
+}

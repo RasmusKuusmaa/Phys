@@ -1,0 +1,10 @@
+{
+  "id": "propulsion-fundamentals-m2",
+  "conceptId": "propulsion-fundamentals",
+  "text": {
+    "en": "Believing a jet engine's air intake at the front is what generates thrust, by 'sucking in' air the way a vacuum cleaner does -- the intake's job is only to capture and condition incoming air for the compressor; thrust itself comes entirely from accelerating that air (and the added combustion products) to a higher velocity than it entered with and expelling it out the back, exactly the same momentum-change mechanism a rocket uses, just with most of the expelled mass drawn from the atmosphere rather than carried on board.",
+    "et": "Arvamus, et reaktiivmootori eesosas asuv õhuvõtuava on see, mis tekitab tõukejõu, 'imedes' õhku sisse nagu tolmuimeja -- õhuvõtuava ülesanne on ainult sissetuleva õhu püüdmine ja kompressorile ettevalmistamine; tõukejõud ise tuleb täielikult sellest, et see õhk (koos lisandunud põlemisproduktidega) kiirendatakse suuremale kiirusele, kui sellega sisse tuldi, ning paisatakse tahapoole välja -- täpselt sama impulsimuutuse mehhanism, mida kasutab ka rakett, ainult et enamik väljapaisatavast massist võetakse atmosfäärist, mitte ei kanta pardal.",
+    "sourceHash": "71eb3657e6ff5db8",
+    "stale": false
+  }
+}

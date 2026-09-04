@@ -1,0 +1,10 @@
+{
+  "id": "propulsion-fundamentals-m1",
+  "conceptId": "propulsion-fundamentals",
+  "text": {
+    "en": "Believing a rocket engine needs surrounding air or some other external medium to 'push against' in order to produce thrust, so rockets should be unable to accelerate in the vacuum of space -- thrust actually comes from Newton's third law reaction against the propellant mass the engine itself expels, with no external medium required at all, which is why rocket engines work at least as well in vacuum as in atmosphere (in fact somewhat better, since there is no back-pressure from ambient air opposing the exhaust).",
+    "et": "Arvamus, et raketimootor vajab tõukejõu tekitamiseks ümbritsevat õhku või mõnda muud välist keskkonda, mille vastu 'lükata', mistõttu peaksid raketid olema kosmose vaakumis kiirendamiseks võimetud -- tõukejõud tuleb tegelikult Newtoni kolmanda seaduse reaktsioonist mootori enda väljapaisatud töömassi vastu, ilma et oleks vaja mingit välist keskkonda, mistõttu raketimootorid töötavad vaakumis vähemalt sama hästi kui atmosfääris (tegelikult isegi paremini, kuna puudub ümbritseva õhu vasturõhk, mis heitgaasile vastu töötaks).",
+    "sourceHash": "808c90c9616c758a",
+    "stale": false
+  }
+}

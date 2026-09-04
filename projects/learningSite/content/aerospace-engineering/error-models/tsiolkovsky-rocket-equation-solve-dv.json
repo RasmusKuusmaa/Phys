@@ -1,0 +1,37 @@
+{
+  "id": "tsiolkovsky-rocket-equation-solve-dv",
+  "formulaId": "tsiolkovsky-rocket-equation",
+  "solveFor": "dv",
+  "mistakes": [
+    {
+      "id": "used-mass-ratio-directly-instead-of-its-log",
+      "description": {
+        "en": "Multiplied the exhaust velocity by the mass ratio directly instead of by its natural logarithm, treating delta-v as proportional to propellant mass.",
+        "et": "Korrutas väljumiskiiruse massisuhtega otse, selle naturaallogaritmi asemel, käsitledes delta-v-d töömassiga proportsionaalsena.",
+        "sourceHash": "369d2c04391573a8",
+        "stale": false
+      },
+      "expression": "ve*(m0/mf)"
+    },
+    {
+      "id": "inverted-mass-ratio-in-log",
+      "description": {
+        "en": "Inverted the mass ratio inside the logarithm, dividing final mass by initial mass instead of the other way round.",
+        "et": "Pööras massisuhte logaritmi sees ümber, jagades lõppmassi algmassiga, mitte vastupidi.",
+        "sourceHash": "3cbfcced5ed8c6b8",
+        "stale": false
+      },
+      "expression": "ve*ln(mf/m0)"
+    },
+    {
+      "id": "left-out-exhaust-velocity-factor",
+      "description": {
+        "en": "Left out the exhaust velocity factor entirely, computing only the logarithm of the mass ratio.",
+        "et": "Jättis väljumiskiiruse teguri täielikult välja, arvutades ainult massisuhte logaritmi.",
+        "sourceHash": "d66b6cac44586ea1",
+        "stale": false
+      },
+      "expression": "ln(m0/mf)"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "propulsion-fundamentals-m3",
+  "conceptId": "propulsion-fundamentals",
+  "text": {
+    "en": "Believing that doubling the propellant mass a rocket carries should roughly double the delta-v (achievable velocity change) it can produce, treating the relationship as proportional -- the Tsiolkovsky rocket equation makes delta-v depend on the natural logarithm of the initial-to-final mass ratio, not on propellant mass directly, so each additional unit of propellant buys steadily less delta-v than the one before it; this logarithmic 'tyranny of the rocket equation' is exactly why reaching very high delta-v budgets (such as escaping Earth orbit) requires such an extreme propellant-to-vehicle mass ratio.",
+    "et": "Arvamus, et raketi pardal oleva töömassi kahekordistamine peaks ligikaudu kahekordistama saavutatavat delta-v-d (kiirusemuutust), käsitledes seost proportsionaalsena -- Tsiolkovski raketivõrrand teeb delta-v sõltuvaks algse ja lõppmassi suhte naturaallogaritmist, mitte otseselt töömassist, mistõttu iga järgnev töömassi ühik annab pidevalt vähem delta-v-d kui eelmine; just see logaritmiline 'raketivõrrandi türannia' on põhjus, miks väga suurte delta-v eelarvete saavutamine (näiteks Maa orbiidilt lahkumine) nõuab nii äärmuslikku töömassi ja sõiduki massi suhet.",
+    "sourceHash": "2f60604349d283dc",
+    "stale": false
+  }
+}

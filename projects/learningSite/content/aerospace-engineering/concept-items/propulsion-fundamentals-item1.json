@@ -1,0 +1,56 @@
+{
+  "id": "propulsion-fundamentals-item1",
+  "conceptId": "propulsion-fundamentals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An engineer says a rocket cannot accelerate in deep space because there is no air out there for the exhaust to push against. What is the flaw in this claim?",
+    "et": "Insener väidab, et rakett ei saa süvakosmoses kiirendada, kuna seal pole õhku, mille vastu heitgaas saaks lükata. Mis on selles väites viga?",
+    "sourceHash": "f2b159f8a9d8dd87",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Thrust comes from the reaction to the propellant the rocket itself expels, so no external medium is needed at all -- rockets work at least as well in vacuum.",
+        "et": "Tõukejõud tuleb reaktsioonist raketi enda väljapaisatud töömassi vastu, mistõttu ei ole väline keskkond üldse vajalik -- raketid töötavad vaakumis vähemalt sama hästi.",
+        "sourceHash": "50683e79aaa821ff",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The claim is correct for rockets, but a turbojet's intake generates the actual thrust by sucking in surrounding air, which rockets lack.",
+        "et": "Väide kehtib rakettide kohta, kuid turboreaktiivmootori õhuvõtuava tekitab tegeliku tõukejõu ümbritsevat õhku sisse imedes, mida rakettidel ei ole.",
+        "sourceHash": "9f28b435d1dfa6b8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "propulsion-fundamentals-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The claim is correct, but it can be fixed by carrying enough extra propellant, since delta-v scales proportionally with propellant mass regardless of environment.",
+        "et": "Väide on õige, kuid seda saab lahendada piisava lisatöömassiga, kuna delta-v kasvab töömassiga proportsionaalselt sõltumata keskkonnast.",
+        "sourceHash": "db2761ae332c6d01",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "propulsion-fundamentals-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The claim is correct because all reaction engines, including rockets, require ambient air to compress and expel for thrust.",
+        "et": "Väide on õige, kuna kõik reaktiivmootorid, sealhulgas raketid, vajavad tõukejõu jaoks ümbritsevat õhku, mida kokku suruda ja välja paisata.",
+        "sourceHash": "f668f2989bf96829",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "propulsion-fundamentals-m1"
+    }
+  ]
+}
