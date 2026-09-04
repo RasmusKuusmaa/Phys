@@ -352,6 +352,13 @@ general "cellular adaptation" article) and `wound-healing-and-tissue-
 repair` links to "Armistamine" (scarring specifically) — same kind of
 adjustment prior phases on other subjects have recorded.
 
+Phase Med3 complete: 36 medicine concepts total (12 new Phase-Med3 concepts
+on top of the 24-concept Phase Med1+Med2 baseline). Ran as two parallel
+forks sharing one working tree; no data loss, one small cross-module
+prerequisite-linking follow-up commit as noted above. `npm run
+validate:content` (9 subjects, 558 concepts), `npm run lint:terminology`
+(254 glossary terms), and `npm run typecheck` all pass; working tree clean.
+
 ## Phase Med4 — pharmacology, and biostatistics/epidemiology
 
 Two more modules, six concepts each, same independent-tracks split. Checked
