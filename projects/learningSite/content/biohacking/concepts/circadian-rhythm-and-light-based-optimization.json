@@ -1,0 +1,19 @@
+{
+  "id": "circadian-rhythm-and-light-based-optimization",
+  "subject": "biohacking",
+  "level": "L1",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Circadian rhythm and light-based optimization",
+    "et": "Ööpäevarütm ja valguspõhine optimeerimine",
+    "sourceHash": "69a76bdd2a9becc3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Nearly every cell in the human body runs on an internal roughly-24-hour clock, but the master clock that keeps all of them synchronized to the actual day-night cycle sits in a small cluster of neurons in the hypothalamus called the suprachiasmatic nucleus, and its single strongest input is light hitting the retina -- not caffeine, not willpower, not a phone app. Morning light exposure advances the clock (shifting it earlier), evening light exposure delays it (shifting it later), and the pineal gland's release of melatonin, the hormone that signals \"it is biological night,\" is suppressed by light and rises only once it gets dark, which is why bright screens late at night can measurably delay melatonin onset and why a jet-lagged traveler or night-shift worker can use precisely timed light exposure (and avoidance) to shift their internal clock toward a new schedule, days faster than simply waiting for it to drift on its own. Because the clock's own natural period is only approximately 24 hours (it varies by person, and drifts to be more than 24 hours in most people without correcting light input), consistent daily light exposure -- not a single dose -- is what actually keeps it locked to the real day, which is also why circadian misalignment (shift work, chronic jet lag, or simply erratic sleep-wake timing) is a genuinely biological problem, not merely a matter of feeling tired.",
+    "et": "Peaaegu iga inimkeha rakk töötab sisemise, ligikaudu 24-tunnise kella järgi, kuid peakell, mis hoiab kõik need sünkroonis tegeliku päeva-öö tsükliga, asub väikeses hüpotalamuse neuronite kogumis nimega suprakiasmaatiline tuum, ning selle tugevaim sisend on valgus, mis tabab võrkkesta -- mitte kohv, mitte tahtejõud, mitte telefonirakendus. Hommikune valgusekspositsioon nihutab kella ettepoole (varasemaks), õhtune valgusekspositsioon nihutab seda tahapoole (hilisemaks), ning käbinäärme melatoniini eritumine -- hormoon, mis signaliseerib \"on bioloogiline öö\" -- pärsitakse valguse poolt ja tõuseb alles pimeduse saabudes, mistõttu heledad ekraanid hilja õhtul võivad mõõdetavalt edasi lükata melatoniini vabanemise algust ning miks aegvahetusest väsinud reisija või öövahetuses töötaja saab kasutada täpselt ajastatud valgusekspositsiooni (ja selle vältimist), et nihutada oma sisemist kella uue graafiku poole, päevi kiiremini, kui lihtsalt oodata, kuni see iseenesest triivib. Kuna kella enda loomulik periood on ainult ligikaudu 24 tundi (see varieerub inimeseti ja triivib enamikul inimestel pikemaks kui 24 tundi ilma korrigeeriva valgussisendita), on just järjepidev igapäevane valgusekspositsioon -- mitte üksik annus -- see, mis tegelikult hoiab seda tegeliku päevaga lukustatuna, mis on ka põhjus, miks ööpäevarütmi häirumine (vahetustega töö, krooniline aegvahetus või lihtsalt ebaühtlane une-ärkveloleku ajastus) on tõeliselt bioloogiline probleem, mitte lihtsalt väsimuse tunne.",
+    "sourceHash": "a833849a251531dd",
+    "stale": false
+  },
+  "prerequisites": []
+}

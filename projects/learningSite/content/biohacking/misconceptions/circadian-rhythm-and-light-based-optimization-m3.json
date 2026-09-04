@@ -1,0 +1,10 @@
+{
+  "id": "circadian-rhythm-and-light-based-optimization-m3",
+  "conceptId": "circadian-rhythm-and-light-based-optimization",
+  "text": {
+    "en": "Getting bright light at any time of day shifts your body clock earlier, so more light exposure is always better for resetting a disrupted schedule -- in reality, light's effect on the clock depends entirely on when it's received: morning light shifts the clock earlier, but light in the few hours before your body's natural bedtime shifts it later instead, so poorly timed light exposure (like bright screens at night) can actively worsen circadian misalignment rather than fix it.",
+    "et": "Heleda valguse saamine ükskõik millisel kellaajal nihutab keha kella varasemaks, mistõttu rohkem valgusekspositsiooni on häiritud graafiku taastamiseks alati parem -- tegelikult sõltub valguse mõju kellale täielikult sellest, millal see saadakse: hommikune valgus nihutab kella varasemaks, kuid valgus mõned tunnid enne keha loomulikku magamamineku aega nihutab seda hoopis hilisemaks, mistõttu halvasti ajastatud valgusekspositsioon (nagu heledad ekraanid õhtul) võib ööpäevarütmi häirumist tegelikult süvendada, mitte parandada.",
+    "sourceHash": "2828677caea9efb3",
+    "stale": false
+  }
+}

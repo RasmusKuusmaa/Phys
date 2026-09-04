@@ -1,0 +1,10 @@
+{
+  "id": "circadian-rhythm-and-light-based-optimization-m2",
+  "conceptId": "circadian-rhythm-and-light-based-optimization",
+  "text": {
+    "en": "Caffeine or willpower can override a misaligned circadian rhythm, so as long as you push through, timing doesn't really matter -- in reality, caffeine masks subjective sleepiness by blocking adenosine receptors, but it does not resynchronize the suprachiasmatic nucleus itself, so the underlying circadian misalignment (and its measurable effects on hormone timing, body temperature rhythm, and cognitive performance) persists regardless of how alert caffeine makes someone feel in the moment.",
+    "et": "Kofeiin või tahtejõud võivad häiritud ööpäevarütmi üle trumbata, mistõttu ajastus ei ole tegelikult oluline, kui lihtsalt pingutada -- tegelikult varjab kofeiin subjektiivset unisust, blokeerides adenosiini retseptoreid, kuid ei sünkroniseeri suprakiasmaatilist tuuma ennast uuesti, mistõttu aluseks olev ööpäevarütmi häirumine (koos selle mõõdetavate mõjudega hormoonide ajastusele, kehatemperatuuri rütmile ja kognitiivsele sooritusele) püsib, sõltumata sellest, kui erksana kofeiin kedagi hetkel tunda paneb.",
+    "sourceHash": "16047dd94a6ad891",
+    "stale": false
+  }
+}

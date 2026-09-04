@@ -1,0 +1,56 @@
+{
+  "id": "circadian-rhythm-and-light-based-optimization-item1",
+  "conceptId": "circadian-rhythm-and-light-based-optimization",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A traveler wants to use light exposure to adjust to a new time zone faster. Why does the timing of that light exposure matter, rather than just getting as much bright light as possible?",
+    "et": "Reisija tahab kasutada valgusekspositsiooni, et kiiremini uue ajavööndiga kohaneda. Miks on selle valgusekspositsiooni ajastus oluline, mitte lihtsalt võimalikult palju heledat valgust saada?",
+    "sourceHash": "e43d81894ee77e32",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because light shifts the circadian clock in different directions depending on when it's received -- morning light advances the clock earlier, while light in the hours before natural bedtime delays it later -- so poorly timed exposure can shift the clock the wrong way.",
+        "et": "Sest valgus nihutab ööpäevarütmi kella erinevatesse suundadesse olenevalt sellest, millal seda saadakse -- hommikune valgus nihutab kella varasemaks, samas kui valgus tundidel enne loomulikku magamaminekut nihutab seda hilisemaks -- mistõttu halvasti ajastatud ekspositsioon võib nihutada kella vales suunas.",
+        "sourceHash": "64fb00641006519d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't -- light exposure works like a sedative dose, so more total light at any time simply forces the body to adjust faster.",
+        "et": "Ei ole oluline -- valgusekspositsioon toimib nagu rahustava annusena, mistõttu rohkem valgust ükskõik millal lihtsalt sunnib keha kiiremini kohanema.",
+        "sourceHash": "d324af1c55653c92",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "circadian-rhythm-and-light-based-optimization-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't matter much, since caffeine and willpower can override circadian misalignment regardless of light timing.",
+        "et": "See ei ole eriti oluline, kuna kofeiin ja tahtejõud võivad ööpäevarütmi häirumise üle trumbata, sõltumata valguse ajastusest.",
+        "sourceHash": "7211d383795ac02d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "circadian-rhythm-and-light-based-optimization-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't matter -- any bright light exposure, at any time of day, shifts the clock earlier, so more exposure is always better.",
+        "et": "See ei ole oluline -- igasugune hele valgusekspositsioon, ükskõik millisel kellaajal, nihutab kella varasemaks, mistõttu rohkem ekspositsiooni on alati parem.",
+        "sourceHash": "cac73aa3582b384d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "circadian-rhythm-and-light-based-optimization-m3"
+    }
+  ]
+}
