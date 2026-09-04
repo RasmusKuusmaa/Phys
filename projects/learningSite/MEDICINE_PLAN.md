@@ -468,4 +468,77 @@ the general "Statistika" article, and `outbreak-investigation-and-disease-
 surveillance` links to "Kollektiivne immuunsus" (herd immunity, directly
 tied to the concept's closing herd-immunity-threshold discussion).
 
+Phase Med4 complete: 48 medicine concepts total (12 new Phase-Med4 concepts
+on top of the 36-concept Phase Med1-Med3 baseline). Both forks this round
+stayed strictly within their directive (each stopped cleanly after its own
+six concepts and module doc commit, no scope overrun) after being given an
+explicit strict-scope-boundary instruction referencing the Phase-BH2/BH3
+overrun — see `QUESTIONS.md`. `npm run validate:content` (9 subjects, 570
+concepts), `npm run lint:terminology` (266 glossary terms), and `npm run
+typecheck` all pass; working tree clean.
+
+## Phase Med5 — neuroscience, and endocrinology (deep)
+
+Two more modules, six concepts each, same independent-tracks split.
+`human-anatomy-and-physiology`'s existing `nervous-system-anatomy-and-
+physiology-overview` concept was deliberately kept intro-level per its own
+plan note ("the deep-dive neuroscience module comes later") — this phase's
+`neuroscience` module is that deep dive, built as a genuine depth extension
+rather than a restatement. Likewise `endocrinology` here goes past the
+generic overview any anatomy-and-physiology pass would give a single gland,
+covering the full hypothalamic-pituitary axis system and feedback-loop
+mechanisms as their own topic. Checked overlap: physics has no hormone or
+neuron-level content of any kind, so nothing to differentiate against
+there; biohacking's `hormonal-optimization-and-endocrine-self-
+experimentation` stays at its applied claim-evaluation depth, distinct from
+this module's mechanism-level treatment.
+
+### Module `neuroscience`
+
+- [ ] Neuron structure and the action potential (neuron anatomy — soma,
+      dendrites, axon — resting membrane potential, the action potential's
+      ionic mechanism; prerequisite: nervous-system-anatomy-and-physiology-
+      overview)
+- [ ] Synaptic transmission and neurotransmitters (chemical vs. electrical
+      synapses, major neurotransmitter systems, excitatory vs. inhibitory
+      signaling; prerequisite: neuron-structure-and-the-action-potential)
+- [ ] The central nervous system: brain structure and function (major
+      brain regions and their functions at an overview level — cortex,
+      cerebellum, brainstem, limbic system; prerequisite: nervous-system-
+      anatomy-and-physiology-overview)
+- [ ] The peripheral and autonomic nervous systems (somatic vs. autonomic
+      divisions, sympathetic vs. parasympathetic function; prerequisite:
+      nervous-system-anatomy-and-physiology-overview)
+- [ ] Neuroplasticity and learning (synaptic plasticity, long-term
+      potentiation, how neural circuits change with experience;
+      prerequisite: synaptic-transmission-and-neurotransmitters)
+- [ ] Neurological disease mechanisms (neurodegeneration, demyelination,
+      and seizure mechanisms as mechanistic categories — not a diagnostic
+      or clinical-management reference; prerequisite: neuron-structure-and-
+      the-action-potential)
+
+### Module `endocrinology`
+
+- [ ] Hormone signaling and the endocrine system overview (endocrine vs.
+      paracrine vs. autocrine signaling, hormone classes — peptide/steroid/
+      amine — and their general mechanisms; no prerequisites)
+- [ ] The hypothalamic-pituitary axis (the master-gland relationship, how
+      the hypothalamus and pituitary coordinate the rest of the endocrine
+      system; prerequisite: hormone-signaling-and-the-endocrine-system-
+      overview)
+- [ ] Thyroid and parathyroid physiology (thyroid hormone synthesis and
+      feedback regulation, calcium homeostasis via parathyroid hormone;
+      prerequisite: the-hypothalamic-pituitary-axis)
+- [ ] Adrenal gland physiology (cortisol and the stress response,
+      aldosterone and mineralocorticoid function, the adrenal medulla's
+      catecholamines; prerequisite: the-hypothalamic-pituitary-axis)
+- [ ] Pancreatic endocrine function and glucose homeostasis (insulin and
+      glucagon, the feedback loop maintaining blood glucose; prerequisite:
+      digestive-system-anatomy-and-physiology)
+- [ ] Reproductive endocrinology overview (the hypothalamic-pituitary-
+      gonadal axis, sex hormone feedback loops — an overview here; a
+      dedicated `reproductive-medicine` module comes later in this plan's
+      roadmap for the organ-system-level depth; prerequisite: the-
+      hypothalamic-pituitary-axis)
+
 ---
