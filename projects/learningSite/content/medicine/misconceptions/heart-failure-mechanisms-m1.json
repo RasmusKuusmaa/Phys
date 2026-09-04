@@ -1,0 +1,10 @@
+{
+  "id": "heart-failure-mechanisms-m1",
+  "conceptId": "heart-failure-mechanisms",
+  "text": {
+    "en": "Heart failure always means the heart muscle is contracting too weakly -- in reality, heart failure has two genuinely distinct mechanical categories: systolic dysfunction (weak contraction, too little blood ejected) and diastolic dysfunction (a stiff heart that fails to relax and fill properly between beats, so even normal contraction ejects too little blood simply because too little entered the chamber); a heart with completely normal contractile strength can still be in heart failure if it can't fill properly.",
+    "et": "Südamepuudulikkus tähendab alati, et südamelihas tõmbub liiga nõrgalt kokku -- tegelikult on südamepuudulikkusel kaks tõeliselt erinevat mehaanilist kategooriat: süstoolne düsfunktsioon (nõrk kokkutõmme, liiga vähe väljutatud verd) ja diastoolne düsfunktsioon (jäik süda, mis ei suuda lööke vahel korralikult lõõgastuda ja täituda, mistõttu isegi normaalne kokkutõmme väljutab liiga vähe verd lihtsalt seetõttu, et kambrisse sisenes liiga vähe); täiesti normaalse kontraktiilse jõuga süda võib siiski olla südamepuudulikkuses, kui see ei suuda korralikult täituda.",
+    "sourceHash": "e07b366f9a2092d1",
+    "stale": false
+  }
+}

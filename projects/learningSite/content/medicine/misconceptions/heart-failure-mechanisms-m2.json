@@ -1,0 +1,10 @@
+{
+  "id": "heart-failure-mechanisms-m2",
+  "conceptId": "heart-failure-mechanisms",
+  "text": {
+    "en": "The Frank-Starling relationship means a failing heart can always compensate for reduced pumping ability simply by being stretched more -- in reality, the Frank-Starling relationship only holds up to a point: stretching the ventricle further increases contractile force within a normal range, but stretch a failing heart too far and the relationship reverses, with contractile force actually falling as the chamber over-distends, which is why this compensation eventually fails rather than scaling indefinitely.",
+    "et": "Starlingi seadus tähendab, et ebaõnnestuv süda suudab alati vähenenud pumpamisvõimet kompenseerida lihtsalt suurema venitamisega -- tegelikult kehtib Starlingi seadus ainult teatud piirini: vatsakese edasine venitamine suurendab kontraktiilset jõudu normaalses vahemikus, kuid ebaõnnestuva südame liigne venitamine pöörab suhte ümber, kontraktiilne jõud tegelikult langeb, kui kamber üleliigselt venib, mis ongi põhjus, miks see kompensatsioon lõpuks ebaõnnestub, selle asemel et lõputult skaleeruda.",
+    "sourceHash": "f8de26d153d1e6ac",
+    "stale": false
+  }
+}

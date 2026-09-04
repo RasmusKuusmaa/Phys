@@ -1,0 +1,21 @@
+{
+  "id": "heart-failure-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "cardiovascular-medicine",
+  "title": {
+    "en": "Heart failure mechanisms",
+    "et": "Südamepuudulikkuse mehhanismid",
+    "sourceHash": "8f6e402fce10c0cd",
+    "stale": false
+  },
+  "summary": {
+    "en": "Heart failure means the heart cannot pump enough blood to meet the body's needs, but the underlying mechanical problem splits into two genuinely different categories: systolic dysfunction, where the heart muscle itself contracts weakly and ejects too little blood with each beat, and diastolic dysfunction, where the heart muscle has become too stiff to relax and fill properly between beats, so even normal contraction ejects too little blood simply because too little blood entered the chamber in the first place. The Frank-Starling relationship -- a healthy heart's built-in ability to contract more forcefully when it is stretched by a larger incoming volume of blood -- initially helps compensate for reduced pumping ability, but only up to a point; stretch the failing heart too far and this compensatory mechanism reverses, contractile force actually falling as the chamber over-distends. The body's other major compensatory response, activating the sympathetic nervous system and the renin-angiotensin-aldosterone system to raise heart rate and retain fluid, is the same self-defeating pattern seen throughout heart failure's progression: these responses evolved to handle short-term blood loss, and applying them to a chronically weak heart increases the workload on a heart that is already failing and drives further fluid retention that worsens the very congestion causing symptoms, which is exactly why heart failure tends to worsen progressively once these compensatory mechanisms take over.",
+    "et": "Südamepuudulikkus tähendab, et süda ei suuda pumbata piisavalt verd keha vajaduste rahuldamiseks, kuid selle taga olev mehaaniline probleem jaguneb kaheks tõeliselt erinevaks kategooriaks: süstoolne düsfunktsioon, kus südamelihas ise tõmbub nõrgalt kokku ja väljutab iga löögiga liiga vähe verd, ning diastoolne düsfunktsioon, kus südamelihas on muutunud liiga jäigaks, et lõõgastuda ja lööke vahel korralikult täituda, mistõttu isegi normaalne kokkutõmme väljutab liiga vähe verd lihtsalt seetõttu, et kambrisse sisenes algselt liiga vähe verd. Starlingi seadus -- terve südame sisseehitatud võime tõmbuda jõulisemalt kokku, kui seda venitab suurem sissetulev vere maht -- aitab algselt kompenseerida vähenenud pumpamisvõimet, kuid ainult teatud piirini; venitades ebaõnnestuvat südant liiga palju, see kompensatsioonimehhanism pöördub ümber, kontraktiilne jõud tegelikult langeb, kui kamber üleliigselt venib. Keha teine peamine kompensatoorne reaktsioon, sümpaatilise närvisüsteemi ja reniin-angiotensiin-aldosterooni süsteemi aktiveerimine südame löögisageduse tõstmiseks ja vedeliku säilitamiseks, on sama iseennast õõnestav muster, mida näeb kogu südamepuudulikkuse progresseerumise vältel: need reaktsioonid arenesid lühiajalise verekaotusega toimetulekuks ning nende rakendamine krooniliselt nõrgale südamele suurendab koormust südamele, mis juba ebaõnnestub, ja suurendab edasist vedelikupeetust, mis süvendab just seda ummikut, mis sümptomeid põhjustab, mis ongi täpselt põhjus, miks südamepuudulikkus kaldub progresseeruvalt halvenema, kui need kompensatoorsed mehhanismid ülevõimu saavad.",
+    "sourceHash": "775a468424c1076b",
+    "stale": false
+  },
+  "prerequisites": [
+    "cardiovascular-system-anatomy-and-physiology"
+  ]
+}

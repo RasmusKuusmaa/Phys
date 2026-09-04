@@ -1,0 +1,10 @@
+{
+  "id": "heart-failure-mechanisms-m3",
+  "conceptId": "heart-failure-mechanisms",
+  "text": {
+    "en": "The body's compensatory responses to heart failure (raising heart rate, retaining fluid) are purely helpful and should make the condition improve over time -- in reality, these responses (sympathetic activation, renin-angiotensin-aldosterone activation) evolved to handle short-term blood loss, not chronic pump failure, so applying them long-term to a failing heart increases its workload and drives fluid retention that worsens the congestion causing symptoms, which is why heart failure tends to progressively worsen once these compensatory mechanisms dominate, rather than stabilizing or improving.",
+    "et": "Keha kompensatoorsed reaktsioonid südamepuudulikkusele (südame löögisageduse tõstmine, vedeliku säilitamine) on puhtalt kasulikud ja peaksid seisundit aja jooksul parandama -- tegelikult arenesid need reaktsioonid (sümpaatilise ja reniin-angiotensiin-aldosterooni süsteemi aktiveerimine) lühiajalise verekaotusega toimetulekuks, mitte kroonilise pumbaebaõnnestumise jaoks, mistõttu nende pikaajaline rakendamine ebaõnnestuvale südamele suurendab selle koormust ja põhjustab vedelikupeetust, mis süvendab sümptomeid põhjustavat ummikut, mis ongi põhjus, miks südamepuudulikkus kaldub progresseeruvalt halvenema, kui need kompensatoorsed mehhanismid domineerivad, selle asemel et stabiliseeruda või paraneda.",
+    "sourceHash": "f81d47c00102bd37",
+    "stale": false
+  }
+}

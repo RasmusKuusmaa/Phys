@@ -1,0 +1,56 @@
+{
+  "id": "heart-failure-mechanisms-item1",
+  "conceptId": "heart-failure-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient has heart failure with completely normal contractile strength on imaging, yet still shows classic heart failure symptoms. What is the most likely explanation?",
+    "et": "Patsiendil on südamepuudulikkus täiesti normaalse kontraktiilse jõuga piltdiagnostikal, kuid tal esinevad ikkagi klassikalised südamepuudulikkuse sümptomid. Mis on kõige tõenäolisem selgitus?",
+    "sourceHash": "4400ae6186204c37",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The patient likely has diastolic dysfunction -- a stiff heart that fails to relax and fill properly between beats, so even normal contraction ejects too little blood because too little entered the chamber in the first place.",
+        "et": "Patsiendil on tõenäoliselt diastoolne düsfunktsioon -- jäik süda, mis ei suuda lööke vahel korralikult lõõgastuda ja täituda, mistõttu isegi normaalne kokkutõmme väljutab liiga vähe verd, sest kambrisse sisenes algselt liiga vähe.",
+        "sourceHash": "c4371c540b3c8865",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This scenario is not possible -- heart failure always requires weak contractile strength by definition.",
+        "et": "See stsenaarium ei ole võimalik -- südamepuudulikkus nõuab definitsiooni järgi alati nõrka kontraktiilset jõudu.",
+        "sourceHash": "775c9e5d437922e3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heart-failure-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The heart must simply need to be stretched further to trigger a stronger Frank-Starling response and resolve the symptoms.",
+        "et": "Süda vajab lihtsalt edasist venitamist, et käivitada tugevam Starlingi vastus ja sümptomid lahendada.",
+        "sourceHash": "5920953b1f99cc5c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heart-failure-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The body's compensatory responses (raised heart rate, fluid retention) should already be actively resolving this patient's symptoms over time.",
+        "et": "Keha kompensatoorsed reaktsioonid (tõusnud südame löögisagedus, vedelikupeetus) peaksid selle patsiendi sümptomeid juba aktiivselt aja jooksul lahendama.",
+        "sourceHash": "1f6e6ae13276c7e0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heart-failure-mechanisms-m3"
+    }
+  ]
+}
