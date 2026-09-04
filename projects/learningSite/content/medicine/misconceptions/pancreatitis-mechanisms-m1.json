@@ -1,0 +1,10 @@
+{
+  "id": "pancreatitis-mechanisms-m1",
+  "conceptId": "pancreatitis-mechanisms",
+  "text": {
+    "en": "Pancreatitis is caused by the pancreas producing too many digestive enzymes overall -- in reality, the pancreatitis problem is not the quantity of enzymes produced but where and when they become active: the pancreas normally keeps its enzymes safely inactive (as zymogens) until they reach the small intestine, and pancreatitis occurs when something triggers premature activation while the enzymes are still inside the pancreas itself.",
+    "et": "Pankreatiiti põhjustab see, et pankreas toodab üldiselt liiga palju seedeensüüme -- tegelikult ei ole pankreatiidi probleem toodetud ensüümide kogus, vaid see, kus ja millal need aktiivseks muutuvad: pankreas hoiab tavaliselt oma ensüüme ohutult inaktiivsena (tsümogeenidena) kuni need jõuavad peensoolde, ning pankreatiit tekib, kui miski käivitab enneaegse aktiveerumise, kui ensüümid on veel pankrease sees.",
+    "sourceHash": "f74955503a01ecfc",
+    "stale": false
+  }
+}

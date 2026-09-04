@@ -1,0 +1,10 @@
+{
+  "id": "pancreatitis-mechanisms-m3",
+  "conceptId": "pancreatitis-mechanisms",
+  "text": {
+    "en": "The tissue damage in pancreatitis mainly comes from inflammation spreading in from somewhere else, similar to other organ infections -- in reality, the tissue damage in pancreatitis originates from the pancreas's own prematurely activated digestive enzymes attacking the pancreas's own tissue (autodigestion), a fundamentally different and more direct mechanism than inflammation spreading from an external source.",
+    "et": "Koekahjustus pankreatiidi puhul tuleb peamiselt kusagilt mujalt levivast põletikust, sarnaselt teiste organite infektsioonidega -- tegelikult tuleneb koekahjustus pankreatiidi puhul pankrease enda enneaegselt aktiveeritud seedeensüümidest, mis ründavad pankrease enda kude (autodigestioon), põhimõtteliselt erinev ja otsesem mehhanism kui väliselt allikalt leviv põletik.",
+    "sourceHash": "caf8d0886c052986",
+    "stale": false
+  }
+}

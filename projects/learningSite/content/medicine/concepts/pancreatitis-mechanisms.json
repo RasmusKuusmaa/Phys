@@ -1,0 +1,21 @@
+{
+  "id": "pancreatitis-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "gastrointestinal-and-hepatic-medicine",
+  "title": {
+    "en": "Pancreatitis mechanisms",
+    "et": "Pankreatiidi mehhanismid",
+    "sourceHash": "eddb24319911c105",
+    "stale": false
+  },
+  "summary": {
+    "en": "The pancreas manufactures powerful digestive enzymes -- proteases capable of breaking down protein -- and survives making them only because it keeps them in an inactive precursor form (zymogens) until they reach the small intestine, where a specific activation step converts them to their active form safely away from the pancreas itself. Pancreatitis is fundamentally a failure of this safeguard: something triggers premature activation of these enzymes while they are still inside the pancreas, and the organ begins digesting itself, a process called autodigestion that produces the intense local inflammation and tissue damage characteristic of the disease. Gallstones and alcohol are the two most common triggers, and although they differ mechanistically -- a gallstone can physically obstruct the duct through which pancreatic enzymes normally drain, causing enzyme-rich fluid to back up and increase pressure inside the pancreas, while alcohol appears to directly disrupt the cellular machinery that normally keeps zymogens safely inactive -- both converge on the same underlying failure: activation happening in the wrong place, before enzymes ever reach their intended target of food in the intestine rather than the pancreas's own tissue.",
+    "et": "Pankreas valmistab võimsaid seedeensüüme -- proteaase, mis on võimelised valku lagundama -- ning jääb ellu neid valmistades ainult seetõttu, et hoiab neid inaktiivsel eelvormil (tsümogeenid) kuni need jõuavad peensoolde, kus konkreetne aktiveerimissamm muudab need aktiivseks vormiks ohutult pankreasest endast eemal. Pankreatiit on põhimõtteliselt selle kaitsemehhanismi ebaõnnestumine: miski käivitab nende ensüümide enneaegse aktiveerumise, kui need on veel pankrease sees, ning organ hakkab ennast seedima, protsess nimega autodigestioon, mis tekitab haigusele iseloomuliku intensiivse lokaalse põletiku ja koekahjustuse. Sapikivid ja alkohol on kaks kõige levinumat vallandajat ning kuigi need erinevad mehhanistlikult -- sapikivi võib füüsiliselt takistada juha, mille kaudu pankrease ensüümid tavaliselt drenaaživad, põhjustades ensüümirikka vedeliku tagasivoolu ja rõhu suurenemise pankrease sees, samas kui alkohol näib otseselt häirivat rakulist masinavärki, mis tavaliselt hoiab tsümogeene ohutult inaktiivsena --, koonduvad mõlemad samale aluseks olevale rikkele: aktiveerumine toimub vales kohas, enne kui ensüümid kunagi jõuavad oma kavandatud sihtmärgini, toidu juurde soolestikus, mitte pankrease enda koe juurde.",
+    "sourceHash": "fda8c1ea14803c7e",
+    "stale": false
+  },
+  "prerequisites": [
+    "pancreatic-endocrine-function-and-glucose-homeostasis"
+  ]
+}

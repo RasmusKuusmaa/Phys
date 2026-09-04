@@ -1,0 +1,10 @@
+{
+  "id": "pancreatitis-mechanisms-m2",
+  "conceptId": "pancreatitis-mechanisms",
+  "text": {
+    "en": "Gallstones and alcohol cause pancreatitis through the identical mechanism -- in reality, they act through genuinely different routes: a gallstone physically obstructs the duct pancreatic enzymes normally drain through, causing enzyme-rich fluid to back up under increased pressure, while alcohol appears to directly disrupt the cellular machinery that keeps zymogens inactive, without necessarily involving any physical obstruction at all; both converge on the same end result (premature activation) through different paths.",
+    "et": "Sapikivid ja alkohol põhjustavad pankreatiiti identse mehhanismi kaudu -- tegelikult toimivad need tõeliselt erinevate teede kaudu: sapikivi takistab füüsiliselt juha, mille kaudu pankrease ensüümid tavaliselt drenaaživad, põhjustades ensüümirikka vedeliku tagasivoolu suurenenud rõhu all, samas kui alkohol näib otseselt häirivat rakulist masinavärki, mis hoiab tsümogeene inaktiivsena, ilma et see tingimata hõlmaks mingit füüsilist takistust; mõlemad koonduvad samale lõpptulemusele (enneaegne aktiveerumine) erinevate radade kaudu.",
+    "sourceHash": "a3627faa7f053427",
+    "stale": false
+  }
+}

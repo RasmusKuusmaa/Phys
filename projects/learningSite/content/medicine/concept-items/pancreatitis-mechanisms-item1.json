@@ -1,0 +1,56 @@
+{
+  "id": "pancreatitis-mechanisms-item1",
+  "conceptId": "pancreatitis-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do both gallstones and alcohol use lead to pancreatitis, despite acting through mechanistically different initial triggers?",
+    "et": "Miks põhjustavad nii sapikivid kui alkoholi tarbimine pankreatiiti, hoolimata sellest, et need toimivad mehhanistlikult erinevate esialgsete vallandajate kaudu?",
+    "sourceHash": "a7ed84f7f12c0f43",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both ultimately trigger premature activation of digestive enzymes while they are still inside the pancreas, causing the pancreas to digest its own tissue (autodigestion), even though a gallstone acts by physical duct obstruction and alcohol acts by disrupting the cellular machinery keeping enzymes inactive.",
+        "et": "Mõlemad käivitavad lõpuks seedeensüümide enneaegse aktiveerumise, kui need on veel pankrease sees, põhjustades pankreasel oma kude seedida (autodigestioon), kuigi sapikivi toimib füüsilise juha obstruktsiooni kaudu ja alkohol häirib ensüüme inaktiivsena hoidvat rakulist masinavärki.",
+        "sourceHash": "063bf23c66c6ccea",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both cause pancreatitis by making the pancreas produce an excessive total quantity of digestive enzymes, overwhelming its normal capacity.",
+        "et": "Mõlemad põhjustavad pankreatiiti, pannes pankrease tootma liigset seedeensüümide kogukogust, ületades selle normaalse võimekuse.",
+        "sourceHash": "78f517f803794a98",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pancreatitis-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They don't actually converge on the same mechanism at all — this would only happen if one of the two causes were actually irrelevant to true pancreatitis.",
+        "et": "Need ei koondu tegelikult üldse samale mehhanismile -- see juhtuks ainult siis, kui üks kahest põhjusest oleks tegelikult tõelise pankreatiidi jaoks ebaoluline.",
+        "sourceHash": "1d4da3d649f3d2e7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pancreatitis-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both work by introducing inflammation from outside the pancreas that then spreads inward, the same way an infection would spread into any other organ.",
+        "et": "Mõlemad toimivad, tuues pankreasesse väljastpoolt põletiku, mis seejärel levib sissepoole, samamoodi nagu infektsioon leviks mistahes muusse organisse.",
+        "sourceHash": "30871fd8afb90b2e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pancreatitis-mechanisms-m3"
+    }
+  ]
+}
