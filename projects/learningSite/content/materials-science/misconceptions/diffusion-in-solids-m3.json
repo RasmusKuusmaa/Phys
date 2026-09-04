@@ -1,0 +1,10 @@
+{
+  "id": "diffusion-in-solids-m3",
+  "conceptId": "diffusion-in-solids",
+  "text": {
+    "en": "Believing atoms in a solid can only migrate through the crystal by directly swapping places with a neighbouring atom, with no other mechanism available -- while direct exchange is one conceivable mechanism, the dominant and far more common route for diffusion in most real crystalline solids is the vacancy mechanism, in which an atom hops into an adjacent vacant lattice site (a point defect that already exists at a genuine equilibrium concentration in any real crystal above absolute zero); this vacancy-mediated hopping, not direct atom-swapping, is the primary pathway by which diffusion actually proceeds in most solids.",
+    "et": "Arvamus, et aatomid tahkes saavad rännata läbi kristalli ainult otseselt kohti vahetades naaberaatomiga, ilma muu saadaoleva mehhanismita -- kuigi otsene vahetus on üks mõeldav mehhanism, on domineeriv ja palju levinum tee difusiooniks enamikus reaalsetes kristalsetes tahkistes vaba koha mehhanism, milles aatom hüppab kõrvalasuvasse vabasse võrekohta (punktdefekt, mis juba eksisteerib tõelisel tasakaalukontsentratsioonil igas reaalses kristallis üle absoluutse nulli); see vaba koha vahendatud hüppamine, mitte otsene aatomite vahetamine, on peamine tee, mille kaudu difusioon enamikus tahkistes tegelikult kulgeb.",
+    "sourceHash": "9e84904d6d90d715",
+    "stale": false
+  }
+}

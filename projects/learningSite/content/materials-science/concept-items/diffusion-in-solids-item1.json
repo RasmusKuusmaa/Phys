@@ -1,0 +1,56 @@
+{
+  "id": "diffusion-in-solids-item1",
+  "conceptId": "diffusion-in-solids",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A diffusion process is negligibly slow at room temperature but becomes dramatically faster when the material is heated substantially. Why does temperature have such a large effect specifically on solid-state diffusion?",
+    "et": "Difusiooniprotsess on toatemperatuuril tähtsusetult aeglane, kuid muutub dramaatiliselt kiiremaks, kui materjali oluliselt kuumutada. Miks on temperatuuril nii suur mõju just tahke aine difusioonile?",
+    "sourceHash": "58478ccb5899b7c2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Each atomic hop requires overcoming a real energy barrier, and the fraction of atoms with enough thermal energy to clear that barrier grows exponentially with temperature.",
+        "et": "Iga aatomihüpe nõuab tegeliku energiabarjääri ületamist, ning aatomite osakaal, millel on piisavalt soojusenergiat selle barjääri ületamiseks, kasvab temperatuuriga eksponentsiaalselt.",
+        "sourceHash": "f92de76627ca45eb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Individual atoms sense the concentration gradient more strongly at higher temperature, directing more of their hops specifically toward the lower-concentration region.",
+        "et": "Üksikud aatomid tunnetavad kõrgemal temperatuuril kontsentratsioonigradienti tugevamalt, suunates rohkem oma hüpetest spetsiifiliselt madalama kontsentratsiooniga piirkonna poole.",
+        "sourceHash": "517e8c9b38fdd9b9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diffusion-in-solids-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Diffusion rates should only increase modestly and roughly in proportion to temperature, so this dramatic increase must indicate some additional, unrelated process is also occurring.",
+        "et": "Difusioonikiirused peaksid tõusma ainult tagasihoidlikult ja ligikaudu proportsionaalselt temperatuuriga, seega peab see dramaatiline tõus viitama mõnele täiendavale, mitteseotud protsessile, mis samuti toimub.",
+        "sourceHash": "6dc58e5f3b7dd35d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diffusion-in-solids-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Higher temperature specifically increases how often atoms directly swap places with their neighbours, which is the only mechanism by which solid-state diffusion can occur.",
+        "et": "Kõrgem temperatuur suurendab spetsiifiliselt seda, kui sageli aatomid otseselt oma naabritega kohti vahetavad, mis on ainus mehhanism, mille kaudu tahke aine difusioon saab toimuda.",
+        "sourceHash": "e06d75bc3550a005",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diffusion-in-solids-m3"
+    }
+  ]
+}

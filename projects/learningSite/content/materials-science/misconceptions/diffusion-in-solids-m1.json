@@ -1,0 +1,10 @@
+{
+  "id": "diffusion-in-solids-m1",
+  "conceptId": "diffusion-in-solids",
+  "text": {
+    "en": "Believing individual atoms in a solid must somehow sense the overall concentration gradient and deliberately hop toward the lower-concentration region -- each individual atomic hop is entirely random and undirected, with no preference for any particular direction and no ability to sense the surrounding concentration; net diffusion from high to low concentration emerges purely statistically, because a region with more atoms of a given species simply has more atoms available to hop outward than the sparser region has available to hop back in, not because any individual atom has directional information or intent.",
+    "et": "Arvamus, et üksikud aatomid tahkes peavad kuidagi tunnetama üldist kontsentratsioonigradienti ja hüppama tahtlikult madalama kontsentratsiooniga piirkonna poole -- iga üksik aatomihüpe on täiesti juhuslik ja suunamata, ilma eelistuseta mistahes konkreetsele suunale ja ilma võimeta tunnetada ümbritsevat kontsentratsiooni; netodifusioon kõrgest madalasse kontsentratsiooni tekib puhtalt statistiliselt, kuna piirkonnas, kus on rohkem antud liiki aatomeid, on lihtsalt rohkem aatomeid saadaval väljapoole hüppamiseks kui hõredamas piirkonnas on saadaval tagasi sisse hüppamiseks, mitte kuna ükski üksik aatom omab suunainfot või kavatsust.",
+    "sourceHash": "cbc46eaec57d41bb",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "diffusion-in-solids-m2",
+  "conceptId": "diffusion-in-solids",
+  "text": {
+    "en": "Believing solid-state diffusion rates increase only modestly or roughly in proportion to temperature, similar to many other everyday rate processes -- diffusion in solids specifically depends exponentially on temperature, since each individual atomic hop requires overcoming a genuine energy barrier to squeeze past neighbouring atoms into an adjacent vacant site, and the fraction of atoms with enough thermal energy to clear that barrier grows exponentially as temperature rises; this exponential dependence is why diffusion processes that are negligibly slow and can effectively be ignored at room temperature become dramatically, qualitatively faster once a material is heated substantially, not merely somewhat faster.",
+    "et": "Arvamus, et tahke aine difusioonikiirused tõusevad ainult tagasihoidlikult või ligikaudu proportsionaalselt temperatuuriga, sarnaselt paljude teiste igapäevaste kiirusprotsessidega -- difusioon tahkistes sõltub spetsiifiliselt eksponentsiaalselt temperatuurist, kuna iga üksik aatomihüpe nõuab tegeliku energiabarjääri ületamist, et pigistuda naaberaatomite vahelt läbi kõrvalasuvasse vabasse kohta, ning aatomite osakaal, millel on piisavalt soojusenergiat selle barjääri ületamiseks, kasvab temperatuuri tõustes eksponentsiaalselt; see eksponentsiaalne sõltuvus ongi põhjus, miks difusiooniprotsessid, mis on toatemperatuuril tähtsusetult aeglased ja mida saab efektiivselt ignoreerida, muutuvad dramaatiliselt, kvalitatiivselt kiiremaks, kui materjali oluliselt kuumutada, mitte lihtsalt veidi kiiremaks.",
+    "sourceHash": "ed127b304df628da",
+    "stale": false
+  }
+}

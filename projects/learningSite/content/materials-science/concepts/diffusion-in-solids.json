@@ -1,0 +1,21 @@
+{
+  "id": "diffusion-in-solids",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Diffusion in solids",
+    "et": "Difusioon tahkistes",
+    "sourceHash": "b8917bf45bdfb0b4",
+    "stale": false
+  },
+  "summary": {
+    "en": "An atom sitting in a solid crystal lattice does not simply stay locked in place forever; it occasionally acquires enough thermal energy to hop into a neighbouring vacant lattice site, and while any single hop is a matter of pure chance with no preferred direction, a region with a higher concentration of a given atomic species produces more hops carrying that species away from the crowded region than hops carrying it back in, purely as a statistical consequence of there simply being more atoms available to hop outward than inward, so that net diffusion always proceeds from higher concentration toward lower concentration even though every individual atomic jump is entirely undirected, and because each individual hop requires overcoming a real energy barrier to squeeze past neighbouring atoms into the vacant site, solid-state diffusion rates depend exponentially on temperature, making diffusion processes that are negligibly slow at room temperature become dramatically faster once a material is heated substantially.",
+    "et": "Tahkes kristallvõres asuv aatom ei jää lihtsalt igaveseks paigale lukustatuks; see saab aeg-ajalt piisavalt soojusenergiat, et hüpata naabruses asuvasse vabasse võrekohta, ning kuigi iga üksik hüpe on puhta juhuse küsimus ilma eelistatud suunata, toodab piirkond, kus antud aatomiliigi kontsentratsioon on kõrgem, rohkem hüppeid, mis kannavad seda liiki rahvarohkest piirkonnast eemale, kui hüppeid, mis kannavad seda tagasi sisse, puhtalt statistilise tagajärjena sellest, et lihtsalt on rohkem aatomeid saadaval väljapoole hüppamiseks kui sissepoole, nii et netodifusioon kulgeb alati kõrgemast kontsentratsioonist madalama poole, kuigi iga üksik aatomihüpe on täiesti suunamata, ning kuna iga üksik hüpe nõuab tegeliku energiabarjääri ületamist, et pigistuda naaberaatomite vahelt läbi vabasse kohta, sõltuvad tahke aine difusioonikiirused eksponentsiaalselt temperatuurist, muutes difusiooniprotsessid, mis on toatemperatuuril tähtsusetult aeglased, dramaatiliselt kiiremaks, kui materjali oluliselt kuumutada.",
+    "sourceHash": "9db42d85c9bdbf19",
+    "stale": false
+  },
+  "prerequisites": [
+    "point-defects-and-dislocations-in-crystals"
+  ]
+}
