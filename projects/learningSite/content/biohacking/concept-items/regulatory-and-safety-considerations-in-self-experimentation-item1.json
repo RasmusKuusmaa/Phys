@@ -1,0 +1,56 @@
+{
+  "id": "regulatory-and-safety-considerations-in-self-experimentation-item1",
+  "conceptId": "regulatory-and-safety-considerations-in-self-experimentation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A person reasons that because a peptide supplement is legally sold online, it must have already been shown to be reasonably safe before being allowed on the market. Why is this reasoning flawed for a product marketed as a dietary supplement?",
+    "et": "Inimene arutleb, et kuna peptiiditoidulisandit müüakse seaduslikult veebis, peab see olema juba näidatud mõistlikult ohutuna, enne kui see turule lubati. Miks on see arutluskäik toidulisandina turundatud toote puhul vigane?",
+    "sourceHash": "f50e0063f1111d1b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because in most jurisdictions, a supplement manufacturer does not need to prove safety or efficacy before selling a product -- regulatory action typically only removes a product from the market after evidence of harm has already emerged.",
+        "et": "Sest enamikus jurisdiktsioonides ei pea toidulisandi tootja tõestama ohutust ega tõhusust enne toote müümist -- regulatiivne tegevus eemaldab toote turult tavaliselt alles pärast seda, kui kahjustusest tõendid on juba ilmnenud.",
+        "sourceHash": "fa90d13b4743ca81",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The reasoning isn't flawed -- legal availability for sale as a supplement is functionally equivalent to the safety and efficacy testing a prescription medication undergoes.",
+        "et": "Arutluskäik ei ole vigane -- seaduslik saadavus toidulisandina müügiks on funktsionaalselt samaväärne ohutuse ja tõhususe testimisega, mida retseptiravim läbib.",
+        "sourceHash": "8d42722e583989a9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "regulatory-and-safety-considerations-in-self-experimentation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It's flawed only because peptide supplements specifically are always fake and contain no active ingredient at all, unlike other legally sold supplement categories.",
+        "et": "See on vigane ainult sellepärast, et spetsiifiliselt peptiiditoidulisandid on alati võltsingud ega sisalda üldse toimeainet, erinevalt teistest seaduslikult müüdavatest toidulisandi kategooriatest.",
+        "sourceHash": "c0e58104721900ea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "regulatory-and-safety-considerations-in-self-experimentation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It's flawed because the product's legal status guarantees it has no dangerous interactions with any prescription medication a buyer might already be taking.",
+        "et": "See on vigane, kuna toote seaduslik staatus garanteerib, et sellel ei ole ohtlikke koostoimeid mistahes retseptiravimiga, mida ostja võib juba võtta.",
+        "sourceHash": "920327864d80f97c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "regulatory-and-safety-considerations-in-self-experimentation-m3"
+    }
+  ]
+}
