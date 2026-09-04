@@ -1,0 +1,10 @@
+{
+  "id": "mutations-and-genetic-variation-m2",
+  "conceptId": "mutations-and-genetic-variation",
+  "text": {
+    "en": "I think a single point mutation always changes the resulting protein, since it changes the DNA sequence -- in reality, because the genetic code is redundant, many point mutations are silent: they change the DNA triplet but the new triplet still codes for the identical amino acid, so the resulting protein is completely unchanged.",
+    "et": "Arvan, et üksik punktmutatsioon muudab alati valmis valku, kuna see muudab DNA järjestust -- tegelikult, kuna geneetiline kood on üleliigne, on paljud punktmutatsioonid vaiksed: need muudavad DNA tripleti, kuid uus triplett kodeerib siiski identset aminohapet, mistõttu valmis valk jääb täiesti muutumatuks.",
+    "sourceHash": "d53d2eee1a304f96",
+    "stale": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mutations-and-genetic-variation",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "genetics-and-molecular-genetics",
+  "title": {
+    "en": "Mutations and genetic variation",
+    "et": "Mutatsioonid ja geneetiline varieeruvus",
+    "sourceHash": "01ffdd893936337b",
+    "stale": false
+  },
+  "summary": {
+    "en": "A mutation is simply any change to a DNA sequence, and the two broadest categories differ enormously in scale: point mutations alter a single DNA base (a substitution, insertion, or deletion of one nucleotide), while chromosomal mutations rearrange, duplicate, delete, or change the number of entire stretches of chromosomes -- differences that matter enormously for how much of the genome's information is affected at once. A single-base substitution's consequences depend entirely on where it lands and how it changes the genetic code: a silent mutation changes a DNA triplet to a different one that still codes for the same amino acid (thanks to the genetic code's redundancy) and has no effect on the resulting protein at all, a missense mutation changes the triplet to code for a different amino acid and may or may not meaningfully disrupt the protein's function depending on how different that amino acid is, and a nonsense mutation changes the triplet into a premature stop signal, typically truncating the protein and destroying its function. Most mutations arise spontaneously from unavoidable errors during DNA replication or from unrepaired chemical damage to DNA, and while cells have extensive proofreading and repair machinery that catches the vast majority of these errors, the small fraction that slip through are the fundamental source of all heritable genetic variation -- without mutation, natural selection would have no new variants to act on at all, which is why mutation is properly understood as evolution's raw material rather than simply a synonym for harm.",
+    "et": "Mutatsioon on lihtsalt mistahes muutus DNA järjestuses, ning kaks laiemat kategooriat erinevad ulatuselt tohutult: punktmutatsioonid muudavad ühe DNA aluse (ühe nukleotiidi asendus, lisamine või kadu), samas kui kromosoomimutatsioonid korraldavad ümber, dubleerivad, kustutavad või muudavad tervete kromosoomilõikude arvu -- erinevused, mis mõjutavad tohutult, kui suurt osa genoomi infost korraga mõjutatakse. Üksiku aluse asenduse tagajärjed sõltuvad täielikult sellest, kuhu see satub ja kuidas see geneetilist koodi muudab: vaikiv mutatsioon muudab DNA tripleti teiseks, mis kodeerib tänu geneetilise koodi üleliigsusele siiski sama aminohapet ja ei mõjuta valmis valku üldse, valesti mõtestav mutatsioon muudab tripleti kodeerima teistsugust aminohapet ning võib valgu funktsiooni oluliselt häirida või mitte, olenevalt sellest, kui erinev see aminohape on, ning mõttetu mutatsioon muudab tripleti enneaegseks stoppsignaaliks, mis tavaliselt lühendab valku ja hävitab selle funktsiooni. Enamik mutatsioone tekib spontaanselt vältimatute vigade tõttu DNA replikatsiooni ajal või DNA parandamata keemilise kahjustuse tõttu, ning kuigi rakkudel on ulatuslik korrektuuri- ja parandusmasinavärk, mis püüab kinni valdava enamuse neist vigadest, on väike osa, mis läbi libisevad, kogu päriliku geneetilise varieeruvuse fundamentaalne allikas -- ilma mutatsioonita ei oleks looduslikul valikul üldse uusi variante, mille peale toimida, mistõttu mutatsiooni tuleks õigesti mõista kui evolutsiooni toormaterjali, mitte lihtsalt kahju sünonüümi.",
+    "sourceHash": "03909c31162377c4",
+    "stale": false
+  },
+  "prerequisites": []
+}

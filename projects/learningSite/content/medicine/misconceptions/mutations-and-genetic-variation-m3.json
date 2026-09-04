@@ -1,0 +1,10 @@
+{
+  "id": "mutations-and-genetic-variation-m3",
+  "conceptId": "mutations-and-genetic-variation",
+  "text": {
+    "en": "I think chromosomal mutations and point mutations are basically the same thing at different scales, with similar typical consequences -- in reality, point mutations affect a single DNA base and often have no effect or a localized effect on one protein, while chromosomal mutations can duplicate, delete, or rearrange stretches containing many genes at once, which is why they are far more likely to have severe, wide-ranging developmental consequences.",
+    "et": "Arvan, et kromosoomimutatsioonid ja punktmutatsioonid on sisuliselt sama asi erinevas mastaabis, sarnaste tüüpiliste tagajärgedega -- tegelikult mõjutavad punktmutatsioonid üht DNA alust ning neil pole sageli mõju või on lokaalne mõju ühele valgule, samas kui kromosoomimutatsioonid saavad korraga dubleerida, kustutada või ümber korraldada lõike, mis sisaldavad paljusid geene, mistõttu neil on palju tõenäolisemalt tõsised, laiaulatuslikud arengulised tagajärjed.",
+    "sourceHash": "b3e7d8862dad7d40",
+    "stale": false
+  }
+}

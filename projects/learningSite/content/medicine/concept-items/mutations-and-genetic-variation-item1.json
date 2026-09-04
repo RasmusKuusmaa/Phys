@@ -1,0 +1,56 @@
+{
+  "id": "mutations-and-genetic-variation-item1",
+  "conceptId": "mutations-and-genetic-variation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A DNA base substitution changes one codon to a different codon that, due to the redundancy of the genetic code, still specifies the identical amino acid. What is this type of mutation called, and what effect does it have on the resulting protein?",
+    "et": "DNA aluse asendus muudab ühe koodoni teiseks koodoniks, mis geneetilise koodi üleliigsuse tõttu kodeerib siiski identset aminohapet. Kuidas seda tüüpi mutatsiooni nimetatakse ja milline on selle mõju valmis valgule?",
+    "sourceHash": "43a5beca604db671",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A silent mutation — it has no effect on the resulting protein at all, since the same amino acid is still incorporated at that position.",
+        "et": "Vaikiv mutatsioon -- sellel pole valmis valgule üldse mõju, kuna samasse positsiooni lülitub siiski sama aminohape.",
+        "sourceHash": "f88a0478c1b8a4c1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A harmful mutation — any change to the DNA sequence, by definition, damages the organism to some degree.",
+        "et": "Kahjulik mutatsioon -- iga muutus DNA järjestuses kahjustab definitsiooni järgi organismi mingil määral.",
+        "sourceHash": "055d729aacd3d239",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mutations-and-genetic-variation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A missense mutation — since the DNA sequence changed, the resulting protein must also have changed, even if only slightly.",
+        "et": "Valesti mõtestav mutatsioon -- kuna DNA järjestus muutus, peab ka valmis valk olema muutunud, kas või veidi.",
+        "sourceHash": "8066c0fa8ee42104",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mutations-and-genetic-variation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A chromosomal mutation — any mutation affecting protein-coding sequence is classified as chromosomal rather than a point mutation.",
+        "et": "Kromosoomimutatsioon -- iga mutatsioon, mis mõjutab valku kodeerivat järjestust, klassifitseeritakse kromosoomseks, mitte punktmutatsiooniks.",
+        "sourceHash": "4e66009eb35e3239",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mutations-and-genetic-variation-m3"
+    }
+  ]
+}
