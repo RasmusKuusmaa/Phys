@@ -1,0 +1,21 @@
+{
+  "id": "mechanical-vibrations-and-rotating-machinery",
+  "subject": "general-engineering",
+  "level": "L3",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Mechanical vibrations and rotating machinery",
+    "et": "Mehaanilised vibratsioonid ja pöörlevad masinad",
+    "sourceHash": "9b94fa8d955f049b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every rotating machine element -- a shaft, a fan blade, a turbine rotor -- has its own natural frequency, set by its stiffness and mass (f_n = (1/2*pi)*sqrt(k/m) for the simplest single-degree-of-freedom idealisation), the frequency at which it will oscillate on its own if disturbed and released; running that same element at a rotational speed coinciding with its natural frequency, its critical speed, drives it into resonance, where even a small, unavoidable mass imbalance excites vibration amplitudes large enough to cause rapid fatigue failure, bearing damage, or audible/visible shaking -- which is why rotating-machinery design deliberately places a shaft's operating speed range safely away from its critical speed rather than merely making the shaft 'strong enough,' and why manufactured rotors are dynamically balanced (adding or removing small trim masses to cancel out the residual imbalance every real manufactured part has) and, where operating near resonance genuinely can't be avoided, fitted with vibration isolators (compliant mounts that reduce how much of the vibrating force actually transmits into the surrounding structure) rather than relying on stiffness alone.",
+    "et": "Igal pöörleval masinaosal -- võllil, ventilaatori labal, turbiini rootoril -- on oma omavõnkesagedus, mille määravad jäikus ja mass (f_n = (1/2π)√(k/m) lihtsaima ühe vabadusastmega idealiseeringu jaoks), sagedus, millel see hakkab võnkuma iseseisvalt, kui teda häirida ja vabastada; sama elemendi töötamine pöörlemiskiirusel, mis langeb kokku tema omavõnkesagedusega, tema kriitilisel kiirusel, viib ta resonantsi, kus isegi väike, vältimatu massi tasakaalustamatus tekitab vibratsiooniamplituudid, mis on piisavalt suured, et põhjustada kiiret väsimusrikke, laagrikahjustusi või kuuldavat/nähtavat värisemist -- see on põhjus, miks pöörlevate masinate projekteerimisel paigutatakse võlli töökiiruse vahemik teadlikult ohutult eemale tema kriitilisest kiirusest, mitte lihtsalt ei tehta võlli 'piisavalt tugevaks', ning miks valmistatud rootoreid tasakaalustatakse dünaamiliselt (lisades või eemaldades väikeseid tasakaalustusmasse, et tühistada jääktasakaalustamatus, mis igal reaalselt valmistatud detailil on), ning kus resonantsi lähedal töötamist tõeliselt vältida ei saa, paigaldatakse vibratsiooniisolaatorid (vetruvad kinnitused, mis vähendavad, kui suur osa vibreerivast jõust tegelikult kandub ümbritsevasse konstruktsiooni), selle asemel et toetuda ainult jäikusele.",
+    "sourceHash": "6b874f618aea5572",
+    "stale": false
+  },
+  "prerequisites": [
+    "kinematics-and-dynamics-of-mechanisms"
+  ]
+}

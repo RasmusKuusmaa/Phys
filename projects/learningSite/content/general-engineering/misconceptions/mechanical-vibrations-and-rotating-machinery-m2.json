@@ -1,0 +1,10 @@
+{
+  "id": "mechanical-vibrations-and-rotating-machinery-m2",
+  "conceptId": "mechanical-vibrations-and-rotating-machinery",
+  "text": {
+    "en": "Believing perfect manufacturing would eliminate the need for balancing or vibration isolation -- a truly ideal, perfectly uniform rotor would have no imbalance to excite resonance in the first place, but no real manufactured part achieves this exactly, so some residual imbalance and therefore some vibration is unavoidable, which is exactly why balancing and isolation are standard practice rather than a sign of manufacturing failure.",
+    "et": "Arvamus, et täiuslik tootmine kõrvaldaks vajaduse tasakaalustamise või vibratsiooniisolatsiooni järele -- tõeliselt ideaalsel, täiesti ühtlasel rootoril ei oleks üldse tasakaalustamatust, mis resonantsi ergutaks, kuid ükski reaalselt valmistatud detail ei saavuta seda täpselt, seega on teatud jääk-tasakaalustamatus ja seega ka teatud vibratsioon vältimatu, mis on täpselt põhjus, miks tasakaalustamine ja isolatsioon on standardne praktika, mitte tootmisvea tunnus.",
+    "sourceHash": "b28facbb8453b697",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "mechanical-vibrations-and-rotating-machinery-item1",
+  "conceptId": "mechanical-vibrations-and-rotating-machinery",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A shaft comfortably passes a static strength check (factor of safety well above 1) at its intended operating speed. Why might it still fail rapidly in service?",
+    "et": "Võll läbib mugavalt staatilise tugevuse kontrolli (varutegur tunduvalt üle 1) oma ettenähtud töökiirusel. Miks võib see siiski käituses kiiresti rikkis minna?",
+    "sourceHash": "9305e471b02e2d4d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "correct": true,
+      "label": {
+        "en": "If the operating speed is close to the shaft's critical speed, resonance can amplify vibration amplitude -- and the resulting cyclic stress -- far beyond what the static-strength check accounted for, leading to rapid fatigue failure.",
+        "et": "Kui töökiirus on lähedal võlli kriitilisele kiirusele, võib resonants võimendada vibratsiooniamplituudi -- ja sellest tulenevat tsüklilist pinget -- palju kaugemale sellest, mida staatilise tugevuse kontroll arvesse võttis, mis viib kiire väsimusrikkeni.",
+        "sourceHash": "b6ffa4464ecf8fc1",
+        "stale": false
+      }
+    },
+    {
+      "id": "b",
+      "correct": false,
+      "misconceptionId": "mechanical-vibrations-and-rotating-machinery-m1",
+      "label": {
+        "en": "It can't -- a comfortable static factor of safety guarantees safe operation at any rotational speed, since strength is a fixed material property.",
+        "et": "See ei saa juhtuda -- mugav staatiline varutegur garanteerib ohutu töö mistahes pöörlemiskiirusel, kuna tugevus on fikseeritud materjaliomadus.",
+        "sourceHash": "81e6669040a6bf33",
+        "stale": false
+      }
+    },
+    {
+      "id": "c",
+      "correct": false,
+      "misconceptionId": "mechanical-vibrations-and-rotating-machinery-m2",
+      "label": {
+        "en": "Only if it was manufactured with a flaw; a perfectly manufactured shaft would need no further consideration of vibration at all.",
+        "et": "Ainult juhul, kui see on valmistatud defektiga; täiuslikult valmistatud võll ei vajaks vibratsiooni osas üldse edasist kaalumist.",
+        "sourceHash": "a82716dc468feedc",
+        "stale": false
+      }
+    },
+    {
+      "id": "d",
+      "correct": false,
+      "misconceptionId": "mechanical-vibrations-and-rotating-machinery-m3",
+      "label": {
+        "en": "Only if an identical shaft failed before under different support conditions, since critical speed is a fixed property of the shaft material and diameter alone, independent of how it's installed.",
+        "et": "Ainult juhul, kui identne võll on varem erinevate toestustingimuste juures rikki läinud, kuna kriitiline kiirus on ainult võlli materjali ja läbimõõdu fikseeritud omadus, sõltumatult sellest, kuidas see on paigaldatud.",
+        "sourceHash": "b716c5ed87bbc35f",
+        "stale": false
+      }
+    }
+  ]
+}

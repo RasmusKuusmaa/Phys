@@ -1,0 +1,33 @@
+{
+  "id": "natural-frequency-solve-fn",
+  "formulaId": "natural-frequency-formula",
+  "variables": [
+    {
+      "symbol": "k",
+      "min": 1000,
+      "max": 100000,
+      "unit": "N/m",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "m",
+      "min": 0.5,
+      "max": 50,
+      "unit": "kg",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "k",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "m",
+      "right": 0
+    }
+  ],
+  "solveFor": "fn"
+}

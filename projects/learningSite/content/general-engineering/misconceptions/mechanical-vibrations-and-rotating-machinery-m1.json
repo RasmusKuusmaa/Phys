@@ -1,0 +1,10 @@
+{
+  "id": "mechanical-vibrations-and-rotating-machinery-m1",
+  "conceptId": "mechanical-vibrations-and-rotating-machinery",
+  "text": {
+    "en": "Believing a rotating shaft simply needs to be 'strong enough' (high enough static strength/factor of safety) to run safely at any speed -- a shaft can easily satisfy a comfortable static factor of safety against yielding and still fail rapidly by fatigue if it is run persistently near its critical speed, since resonance amplifies vibration amplitude (and therefore cyclic stress) far beyond what a static-strength calculation alone would predict.",
+    "et": "Arvamus, et pöörlev võll peab lihtsalt olema 'piisavalt tugev' (piisavalt kõrge staatilise tugevuse/varuteguriga), et töötada ohutult mistahes kiirusel -- võll võib kergesti täita mugava staatilise varuteguri voolamise vastu ja siiski kiiresti väsimuse tõttu rikkis minna, kui teda hoitakse püsivalt tema kriitilise kiiruse lähedal, kuna resonants võimendab vibratsiooniamplituudi (ja seega tsüklilist pinget) palju kaugemale sellest, mida pelgalt staatiline tugevusarvutus ennustaks.",
+    "sourceHash": "1728aa531a78bbd6",
+    "stale": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "natural-frequency-solve-fn",
+  "formulaId": "natural-frequency-formula",
+  "solveFor": "fn",
+  "mistakes": [
+    {
+      "id": "forgot-2pi",
+      "expression": "sqrt(k/m)",
+      "description": {
+        "en": "Computed the angular frequency (rad/s) and forgot to divide by 2*pi to convert it to a frequency in Hz.",
+        "et": "Arvutas nurksageduse (rad/s) ja unustas selle jagada 2*pi-ga, et teisendada see sageduseks Hz-des.",
+        "sourceHash": "b687dc1ccb90cc03",
+        "stale": false
+      }
+    },
+    {
+      "id": "inverted-ratio",
+      "expression": "sqrt(m/k)/(2*3.14159265)",
+      "description": {
+        "en": "Inverted the stiffness-to-mass ratio, using m/k instead of k/m under the square root.",
+        "et": "Pööras jäikuse ja massi suhte ümber, kasutades ruutjuure all m/k asemel k/m.",
+        "sourceHash": "1a6097510ec6e00c",
+        "stale": false
+      }
+    },
+    {
+      "id": "forgot-sqrt",
+      "expression": "(k/m)/(2*3.14159265)",
+      "description": {
+        "en": "Forgot to take the square root of the stiffness-to-mass ratio before dividing by 2*pi.",
+        "et": "Unustas võtta jäikuse ja massi suhtest ruutjuure enne 2*pi-ga jagamist.",
+        "sourceHash": "b8bc22f837d80c79",
+        "stale": false
+      }
+    }
+  ]
+}

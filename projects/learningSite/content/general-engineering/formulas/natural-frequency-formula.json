@@ -1,0 +1,43 @@
+{
+  "id": "natural-frequency-formula",
+  "conceptId": "mechanical-vibrations-and-rotating-machinery",
+  "latex": "f_n = \\frac{1}{2\\pi}\\sqrt{\\frac{k}{m}}",
+  "symbols": [
+    {
+      "symbol": "fn",
+      "name": {
+        "en": "frequency",
+        "et": "sagedus",
+        "sourceHash": "2e9089fefc7aaa5c",
+        "stale": false
+      },
+      "unit": "Hz"
+    },
+    {
+      "symbol": "k",
+      "name": {
+        "en": "stiffness",
+        "et": "jäikus",
+        "sourceHash": "019deb15c040f4b0",
+        "stale": false
+      },
+      "unit": "N/m"
+    },
+    {
+      "symbol": "m",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    }
+  ],
+  "solveFor": [
+    "fn"
+  ],
+  "expressions": {
+    "fn": "sqrt(k/m)/(2*3.14159265)"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "mechanical-vibrations-and-rotating-machinery-m3",
+  "conceptId": "mechanical-vibrations-and-rotating-machinery",
+  "text": {
+    "en": "Believing critical speed is a single universal speed that applies to a given shaft regardless of how it's supported or loaded -- a shaft's natural frequency (and therefore its critical speed) depends on its stiffness and effective mass as installed, so the same physical shaft has a different critical speed depending on bearing spacing, mounted-component mass, and support stiffness, meaning critical speed is a property of the installed system, not of the bare shaft alone.",
+    "et": "Arvamus, et kriitiline kiirus on üks universaalne kiirus, mis kehtib antud võllile sõltumata sellest, kuidas see on toestatud või koormatud -- võlli omavõnkesagedus (ja seega tema kriitiline kiirus) sõltub tema jäikusest ja efektiivsest massist paigaldatuna, nii et samal füüsilisel võllil on erinev kriitiline kiirus olenevalt laagrite vahekaugusest, paigaldatud komponentide massist ja toe jäikusest, mis tähendab, et kriitiline kiirus on paigaldatud süsteemi, mitte üksnes palja võlli omadus.",
+    "sourceHash": "cc60364066b71404",
+    "stale": false
+  }
+}
