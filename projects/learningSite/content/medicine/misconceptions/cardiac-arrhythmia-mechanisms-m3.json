@@ -1,0 +1,10 @@
+{
+  "id": "cardiac-arrhythmia-mechanisms-m3",
+  "conceptId": "cardiac-arrhythmia-mechanisms",
+  "text": {
+    "en": "Reentry arrhythmias happen because the SA node itself is firing abnormally -- in reality, a reentry circuit is a self-sustaining electrical loop that forms because a region of heart tissue conducts unevenly (one pathway slow, another normal), letting a single impulse re-excite tissue that has already recovered; the resulting circuit fires independently of the SA node entirely, often overriding it, rather than being a malfunction of the SA node itself.",
+    "et": "Taassisenemise arütmiad juhtuvad seetõttu, et SA-sõlm ise tulistab ebanormaalselt -- tegelikult on taassisenemise ahel iseennast ülal pidav elektriline ring, mis tekib seetõttu, et südamekoe piirkond juhib ebaühtlaselt (üks tee aeglane, teine normaalne), lubades üksikul impulsil taasergastada kudet, mis on juba taastunud; tekkiv ahel tulistab täiesti sõltumatult SA-sõlmest, sageli selle üle võimust võttes, mitte ei ole SA-sõlme enda rike.",
+    "sourceHash": "87d89e886a21f595",
+    "stale": false
+  }
+}

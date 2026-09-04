@@ -1,0 +1,56 @@
+{
+  "id": "cardiac-arrhythmia-mechanisms-item1",
+  "conceptId": "cardiac-arrhythmia-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can a reentry circuit sustain an arrhythmia indefinitely, rather than firing once and stopping like a normal ectopic beat?",
+    "et": "Miks suudab taassisenemise ahel arütmiat lõputult üleval hoida, selle asemel et tulistada üks kord ja peatuda nagu tavaline ektoopiline löök?",
+    "sourceHash": "e78c20f347cbc0a4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Uneven conduction (one pathway slow, another normal) lets the electrical impulse loop back and re-excite tissue that has already recovered, creating a self-sustaining circuit that keeps firing independently of the SA node.",
+        "et": "Ebaühtlane juhtivus (üks tee aeglane, teine normaalne) lubab elektrilisel impulsil tagasi ringi teha ja taasergastada kudet, mis on juba taastunud, luues iseennast ülal pidava ahela, mis jätkab tulistamist sõltumatult SA-sõlmest.",
+        "sourceHash": "29406447b5822a10",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The SA node itself becomes permanently locked into firing continuously once a reentry circuit begins.",
+        "et": "SA-sõlm ise jääb pärast taassisenemise ahela algust jäädavalt pidevalt tulistama.",
+        "sourceHash": "45d8e2a0612e5b5a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cardiac-arrhythmia-mechanisms-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Reentry circuits only ever produce slow, bradyarrhythmic rhythms, which is why they can persist without causing immediate harm.",
+        "et": "Taassisenemise ahelad tekitavad ainult aeglaseid, bradüarütmilisi rütme, mis ongi põhjus, miks need saavad püsida ilma vahetut kahju tekitamata.",
+        "sourceHash": "20bc2bfefdc9a4f1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cardiac-arrhythmia-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "All reentry circuits produce the same organized, well-tolerated rhythm regardless of where in the heart they occur.",
+        "et": "Kõik taassisenemise ahelad tekitavad sama organiseeritud, hästi talutava rütmi, olenemata sellest, kus südames need tekivad.",
+        "sourceHash": "aaae250237c07f3b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cardiac-arrhythmia-mechanisms-m2"
+    }
+  ]
+}

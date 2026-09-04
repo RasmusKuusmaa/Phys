@@ -1,0 +1,21 @@
+{
+  "id": "cardiac-arrhythmia-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "cardiovascular-medicine",
+  "title": {
+    "en": "Cardiac arrhythmia mechanisms",
+    "et": "Südame arütmia mehhanismid",
+    "sourceHash": "1a9787a09641fcf8",
+    "stale": false
+  },
+  "summary": {
+    "en": "A normal heartbeat depends on an electrical signal originating in the sinoatrial (SA) node, spreading across the atria, pausing briefly at the atrioventricular (AV) node, and then racing down the His-Purkinje system to trigger a coordinated, near-simultaneous contraction of the ventricles; an arrhythmia is what happens when any part of this generate-and-conduct pathway malfunctions. One broad mechanism is an abnormality in impulse generation itself -- a site other than the SA node starts firing spontaneously (an ectopic focus), or the SA node fires too fast or too slow. A mechanistically distinct and more dangerous cause is reentry: if a region of heart tissue conducts electrical signals unevenly, with one pathway conducting slowly and another conducting normally, a single impulse can end up chasing its own tail around a loop, re-exciting tissue that has already recovered and creating a self-sustaining electrical circuit that fires independently of the SA node, often much faster than a normal heartbeat. Whether an arrhythmia is dangerous depends far more on this underlying mechanism and its effect on the heart's pumping function than simply on whether the heart rate is too fast (tachyarrhythmia) or too slow (bradyarrhythmia) -- a fast but organized rhythm can be well tolerated, while a fast, chaotic rhythm in the ventricles can stop effective pumping entirely within seconds.",
+    "et": "Normaalne südamelöök sõltub elektrilisest signaalist, mis pärineb siinussõlmest (SA-sõlm), levib üle kodade, peatub hetkeks kodade-vatsakeste sõlmes (AV-sõlm) ning kihutab seejärel alla His-Purkinje süsteemi, käivitades vatsakeste koordineeritud, peaaegu üheaegse kokkutõmbe; arütmia on see, mis juhtub, kui mistahes osa sellest genereerimise-ja-juhtimise teest ei tööta korralikult. Üks laiem mehhanism on impulsi genereerimise enda ebanormaalsus -- mõni muu koht kui SA-sõlm hakkab spontaanselt tulistama (ektoopiline fookus) või SA-sõlm tulistab liiga kiiresti või liiga aeglaselt. Mehhanistlikult erinev ja ohtlikum põhjus on taassisenemine (reentry): kui südamekoe piirkond juhib elektrilisi signaale ebaühtlaselt, üks tee juhib aeglaselt ja teine normaalselt, võib üksik impulss lõpetada omaenda saba jälitamisega mööda ringi, taasergastades kude, mis on juba taastunud, ning luues iseennast ülal pidava elektrilise ahela, mis tulistab sõltumatult SA-sõlmest, sageli palju kiiremini kui normaalne südamelöök. Kas arütmia on ohtlik, sõltub palju rohkem sellest alusmehhanismist ja selle mõjust südame pumpamisfunktsioonile kui lihtsalt sellest, kas südame löögisagedus on liiga kiire (tahhüarütmia) või liiga aeglane (bradüarütmia) -- kiire, kuid organiseeritud rütm võib olla hästi talutav, samas kui kiire, kaootiline rütm vatsakestes võib efektiivse pumpamise sekunditega täielikult peatada.",
+    "sourceHash": "7009e8baf0216181",
+    "stale": false
+  },
+  "prerequisites": [
+    "cardiovascular-system-anatomy-and-physiology"
+  ]
+}

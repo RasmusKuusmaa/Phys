@@ -1,0 +1,10 @@
+{
+  "id": "cardiac-arrhythmia-mechanisms-m1",
+  "conceptId": "cardiac-arrhythmia-mechanisms",
+  "text": {
+    "en": "An arrhythmia always means the heart is beating too fast -- in reality, arrhythmia is a general term for any abnormal heart rhythm, including bradyarrhythmias where the heart beats too slowly (from a malfunctioning SA node or a conduction block at the AV node); both excessively fast and excessively slow rhythms fall under the same broad category.",
+    "et": "Arütmia tähendab alati, et süda lööb liiga kiiresti -- tegelikult on arütmia üldnimetus mistahes ebanormaalse südamerütmi jaoks, sealhulgas bradüarütmiad, kus süda lööb liiga aeglaselt (halvasti töötavast SA-sõlmest või AV-sõlme juhtivusblokist); nii liiga kiired kui liiga aeglased rütmid kuuluvad sama laia kategooria alla.",
+    "sourceHash": "b00b3c114aad1471",
+    "stale": false
+  }
+}

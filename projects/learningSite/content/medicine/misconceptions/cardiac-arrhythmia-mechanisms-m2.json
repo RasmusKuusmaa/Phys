@@ -1,0 +1,10 @@
+{
+  "id": "cardiac-arrhythmia-mechanisms-m2",
+  "conceptId": "cardiac-arrhythmia-mechanisms",
+  "text": {
+    "en": "All fast heart rhythms (tachyarrhythmias) work the same way and carry the same risk -- in reality, a fast rhythm can arise from genuinely different mechanisms (an ectopic focus firing rapidly vs. a self-sustaining reentry circuit) and can be organized (still allowing coordinated, if fast, pumping) or chaotic (as in ventricular fibrillation, where the ventricles quiver rather than contract and stop pumping blood effectively within seconds); the mechanism and the effect on pumping function matter far more than the raw heart rate.",
+    "et": "Kõik kiired südamerütmid (tahhüarütmiad) toimivad samamoodi ja kannavad sama riski -- tegelikult võib kiire rütm tekkida tõeliselt erinevatest mehhanismidest (kiiresti tulistav ektoopiline fookus vs iseennast ülal pidav taassisenemise ahel) ning võib olla organiseeritud (lubades siiski koordineeritud, kuigi kiiret pumpamist) või kaootiline (nagu vatsakeste virvendus, kus vatsakesed väriseb, mitte ei tõmbu kokku, ja lõpetavad efektiivse vere pumpamise sekunditega); mehhanism ja mõju pumpamisfunktsioonile on palju olulisemad kui toores südame löögisagedus.",
+    "sourceHash": "ae671fec90eff171",
+    "stale": false
+  }
+}
