@@ -1,0 +1,21 @@
+{
+  "id": "nootropics-and-cognitive-enhancement-pharmacology",
+  "subject": "biohacking",
+  "level": "L2",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Nootropics and cognitive enhancement pharmacology",
+    "et": "Nootroopikumid ja kognitiivse võimekuse farmakoloogiline tõstmine",
+    "sourceHash": "7f4e2e7773b1d205",
+    "stale": false
+  },
+  "summary": {
+    "en": "\"Nootropic\" is used loosely to cover an enormous range of substances with wildly different evidence bases, and treating them as one category is itself a mistake: caffeine has decades of well-controlled trials behind its alertness and reaction-time effects and a well-understood mechanism (blocking adenosine receptors, which otherwise promote drowsiness as adenosine accumulates through the day); L-theanine has modest evidence for smoothing caffeine's jitteriness when combined with it, but weak evidence for a cognitive effect on its own; racetams (piracetam and its relatives) have a large body of mostly small, old, methodologically weak trials and no clear, reproducible mechanism in healthy adults, despite decades of enthusiastic marketing; and modafinil is a prescription-only wakefulness-promoting drug with real, well-documented effects on sustained attention in sleep-deprived people, but far less evidence for a general cognitive boost in people who are already well-rested, and real prescribing safeguards (cardiovascular screening, interaction checks) that a person buying it online bypasses entirely. The common thread worth taking away is not a verdict on any one substance but a method: unregulated supplement markets sell products with no requirement to prove either efficacy or purity before sale, so the evidence quality for a given nootropic has to be checked compound by compound rather than assumed from the enthusiasm of its marketing or the size of the online community discussing it.",
+    "et": "Terminit \"nootroopikum\" kasutatakse lõdvalt tohutu hulga eri toimeainete kohta, millel on äärmiselt erineva kvaliteediga tõenduspõhi, ning nende käsitlemine ühe kategooriana on iseenesest viga: kofeiinil on aastakümnete pikkuselt korralikult kontrollitud uuringuid selle erksuse ja reaktsiooniaja mõjude kohta ning hästi mõistetav mehhanism (adenosiiniretseptorite blokeerimine, mis muidu soodustavad unisust adenosiini kogunedes päeva jooksul); L-teaniinil on tagasihoidlik tõendusmaterjal kofeiini närvilisuse pehmendamiseks koos kasutamisel, kuid nõrk tõendusmaterjal iseseisva kognitiivse mõju kohta; ratsetaamidel (piratsetaam ja sarnased) on suur hulk enamasti väikeseid, vanu ja metodoloogiliselt nõrku uuringuid ning puudub selge, korratav mehhanism tervetel täiskasvanutel, hoolimata aastakümnete pikkusest entusiastlikust turundusest; ning modafiniil on retseptiravim, mis edendab ärkvelolekut ja millel on tõelised, hästi dokumenteeritud mõjud püsivale tähelepanule unepuuduses inimestel, kuid palju nõrgem tõendusmaterjal üldise kognitiivse tõusu kohta juba puhanud inimestel, ning tegelikud retseptikaitsemeetmed (südame-veresoonkonna sõeluuring, koostoimete kontroll), millest veebist ostja täielikult mööda hiilib. Ühine õppetund ei ole hinnang ühelegi konkreetsele ainele, vaid meetod: reguleerimata toidulisandituru tooteid ei pea enne müüki tõestama ei toimivaks ega puhtaks, mistõttu tuleb konkreetse nootroopikumi tõendusmaterjali kvaliteeti kontrollida ühekaupa, mitte eeldada seda selle turunduse entusiasmi või seda arutava veebikogukonna suuruse põhjal.",
+    "sourceHash": "d64f771030934316",
+    "stale": false
+  },
+  "prerequisites": [
+    "evidence-hierarchy-and-critical-evaluation-of-health-claims"
+  ]
+}

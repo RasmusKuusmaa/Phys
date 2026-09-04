@@ -1,0 +1,56 @@
+{
+  "id": "nootropics-and-cognitive-enhancement-pharmacology-item1",
+  "conceptId": "nootropics-and-cognitive-enhancement-pharmacology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A person who is well-rested and healthy takes modafinil hoping for a general cognitive boost, based on studies showing it helps sleep-deprived shift workers stay alert. Why might this reasoning be flawed?",
+    "et": "Puhanud ja terve inimene võtab modafiniili, lootes üldist kognitiivset tõusu, tuginedes uuringutele, mis näitavad, et see aitab unepuuduses vahetustega töötajatel erksana püsida. Miks võib see arutluskäik olla vigane?",
+    "sourceHash": "3292e014cc6091b8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the strongest evidence for modafinil's cognitive benefits comes from sleep-deprived populations recovering lost alertness, and the evidence for a comparable benefit in already-rested, healthy people is much weaker and more mixed.",
+        "et": "Sest kõige tugevam tõendusmaterjal modafiniili kognitiivsete kasude kohta pärineb unepuuduses populatsioonidelt, kes taastavad kaotatud erksust, ning tõendusmaterjal võrreldava kasu kohta juba puhanud tervetel inimestel on palju nõrgem ja vastuolulisem.",
+        "sourceHash": "64dddf78454eab59",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't flawed -- since modafinil clearly helps alertness in one population, it will provide an equivalent general cognitive boost in any population that takes it.",
+        "et": "See ei ole vigane -- kuna modafiniil selgelt aitab erksust ühes populatsioonis, annab see samaväärse üldise kognitiivse tõusu igas populatsioonis, kes seda võtab.",
+        "sourceHash": "32273b77f55026b9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nootropics-and-cognitive-enhancement-pharmacology-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because modafinil is a natural compound with no real pharmacological risk, so the only question worth asking is whether it works, not whether it's safe to take without medical supervision.",
+        "et": "Sest modafiniil on looduslik ühend, millel puudub tõeline farmakoloogiline risk, mistõttu on ainus küsimist väärt küsimus, kas see töötab, mitte kas seda on ohutu võtta ilma meditsiinilise järelevalveta.",
+        "sourceHash": "6be2efa8bd267f7a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nootropics-and-cognitive-enhancement-pharmacology-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because modafinil is chemically similar to racetams, and racetams have decades of community use showing they work, so the same must be true of modafinil.",
+        "et": "Sest modafiniil on keemiliselt sarnane ratsetaamidele ning ratsetaamidel on aastakümnete pikkune kogukondlik kasutus, mis näitab, et need töötavad, mistõttu peab sama kehtima modafiniili kohta.",
+        "sourceHash": "89bbd961f1b4a10b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nootropics-and-cognitive-enhancement-pharmacology-m3"
+    }
+  ]
+}
