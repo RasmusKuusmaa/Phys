@@ -495,27 +495,37 @@ this module's mechanism-level treatment.
 
 ### Module `neuroscience`
 
-- [ ] Neuron structure and the action potential (neuron anatomy — soma,
+- [x] Neuron structure and the action potential (neuron anatomy — soma,
       dendrites, axon — resting membrane potential, the action potential's
       ionic mechanism; prerequisite: nervous-system-anatomy-and-physiology-
-      overview)
-- [ ] Synaptic transmission and neurotransmitters (chemical vs. electrical
+      overview; kept conceptual)
+- [x] Synaptic transmission and neurotransmitters (chemical vs. electrical
       synapses, major neurotransmitter systems, excitatory vs. inhibitory
-      signaling; prerequisite: neuron-structure-and-the-action-potential)
-- [ ] The central nervous system: brain structure and function (major
+      signaling; prerequisite: neuron-structure-and-the-action-potential;
+      kept conceptual)
+- [x] The central nervous system: brain structure and function (major
       brain regions and their functions at an overview level — cortex,
       cerebellum, brainstem, limbic system; prerequisite: nervous-system-
-      anatomy-and-physiology-overview)
-- [ ] The peripheral and autonomic nervous systems (somatic vs. autonomic
+      anatomy-and-physiology-overview; kept conceptual)
+- [x] The peripheral and autonomic nervous systems (somatic vs. autonomic
       divisions, sympathetic vs. parasympathetic function; prerequisite:
-      nervous-system-anatomy-and-physiology-overview)
-- [ ] Neuroplasticity and learning (synaptic plasticity, long-term
+      nervous-system-anatomy-and-physiology-overview; kept conceptual)
+- [x] Neuroplasticity and learning (synaptic plasticity, long-term
       potentiation, how neural circuits change with experience;
-      prerequisite: synaptic-transmission-and-neurotransmitters)
-- [ ] Neurological disease mechanisms (neurodegeneration, demyelination,
+      prerequisite: synaptic-transmission-and-neurotransmitters; kept
+      conceptual)
+- [x] Neurological disease mechanisms (neurodegeneration, demyelination,
       and seizure mechanisms as mechanistic categories — not a diagnostic
       or clinical-management reference; prerequisite: neuron-structure-and-
-      the-action-potential)
+      the-action-potential; kept conceptual)
+
+Module complete: 6 neuroscience concepts, all kept conceptual — a Nernst-
+equation formula for the action-potential concept was considered but
+skipped in favor of the simpler, more standard mechanistic treatment every
+other intro-level module on this site has used; no new glossary terms were
+needed since no formula was added. `npm run validate:content` (9 subjects,
+582 concepts), `npm run lint:terminology` (266 glossary terms), and
+`npm run typecheck` all pass; every resource URL verified live with `curl`.
 
 ### Module `endocrinology`
 
