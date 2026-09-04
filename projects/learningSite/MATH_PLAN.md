@@ -46,7 +46,26 @@ were the clearest gaps.
 
 - [x] The Fourier transform
 - [x] Calculus of variations and the Euler-Lagrange equation
-- [ ] Differential forms and exterior calculus
-- [ ] Numerical methods for ODEs (Euler's method and Runge-Kutta)
+- [x] Differential forms and exterior calculus
+- [x] Numerical methods for ODEs (Euler's method and Runge-Kutta)
+
+Phase MA1 complete: 49 mathematics concepts.
+
+## Phase MA2 — further genuine gaps in mathematics
+
+Checked for these specifically (grepped the whole subject for the terms
+first) — all four were completely absent, not just thin:
+
+- [ ] Bayes' theorem and Bayesian inference (the probability/statistics
+      modules cover frequentist hypothesis testing and point/interval
+      estimation but not Bayesian updating at all)
+- [ ] Ring and field theory (group-theory-and-lie-algebras exists; rings
+      and fields, the other two basic abstract-algebra structures, do not)
+- [ ] Matrix decompositions (LU, QR, SVD) — the existing
+      eigenvalues-and-eigenvectors and determinants concepts don't cover
+      the standard numerical-linear-algebra factorizations at all
+- [ ] Rigorous limits and continuity (epsilon-delta definitions, uniform
+      vs. pointwise convergence) — the existing limits-of-functions concept
+      is computational/intuitive, not the formal real-analysis definitions
 
 ---
