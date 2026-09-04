@@ -1,0 +1,56 @@
+{
+  "id": "sleep-science-and-sleep-optimization-item1",
+  "conceptId": "sleep-science-and-sleep-optimization",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Someone tries a polyphasic sleep schedule for a month and reports feeling fully adapted, needing only 4 total hours of sleep a day. Why should this self-report be treated with skepticism?",
+    "et": "Keegi proovib kuu aega polüfaasilist unegraafikut ja teatab, et on täielikult kohanenud, vajades vaid 4 tundi und päevas kokku. Miks tuleks seda enesehinnangut skeptiliselt hinnata?",
+    "sourceHash": "1e2a860ee1403d45",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because sleep deprivation itself impairs the ability to accurately judge one's own cognitive performance, and rigorous studies using objective measures generally find polyphasic sleepers remain chronically sleep-deprived despite feeling adapted.",
+        "et": "Sest unepuudus ise kahjustab võimet oma kognitiivset sooritust täpselt hinnata, ning objektiivseid mõõdikuid kasutavad ranged uuringud leiavad üldiselt, et polüfaasilised magajad püsivad kroonilises unepuuduses, hoolimata kohanemise tundest.",
+        "sourceHash": "05919769accbb9dc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shouldn't be doubted -- needing 4 hours is well within the normal range of individual variation in sleep needs, similar to how some people healthily sleep 6 hours and others 9.",
+        "et": "Seda ei tuleks kahtluse alla seada -- 4 tunni vajadus jääb hästi normaalse individuaalse varieeruvuse vahemikku unevajaduses, sarnaselt sellele, kuidas mõned inimesed magavad tervislikult 6 tundi ja teised 9.",
+        "sourceHash": "a55cd23f2aa5add8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sleep-science-and-sleep-optimization-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It should be doubted, but only because a single recovery night can't fully repay accumulated sleep debt -- which isn't relevant to a month-long adapted schedule anyway.",
+        "et": "Seda tuleks kahtluse alla seada, kuid ainult sellepärast, et üksik taastumisöö ei suuda kogunenud unevõlga täielikult tasa teha -- mis pole kuu aega kestnud kohanenud graafiku puhul niikuinii asjakohane.",
+        "sourceHash": "0d2639a8d8b0cdfb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sleep-science-and-sleep-optimization-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It shouldn't be doubted -- rigorous studies confirm that people on polyphasic schedules who report feeling adapted have, in fact, successfully reduced their brain's true sleep requirement.",
+        "et": "Seda ei tuleks kahtluse alla seada -- ranged uuringud kinnitavad, et polüfaasiliste graafikute järgijad, kes teatavad kohanemise tundest, on tegelikult edukalt vähendanud oma aju tegelikku unevajadust.",
+        "sourceHash": "c0feb5d389c3a9fe",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sleep-science-and-sleep-optimization-m3"
+    }
+  ]
+}

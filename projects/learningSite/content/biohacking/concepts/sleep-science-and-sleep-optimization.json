@@ -1,0 +1,21 @@
+{
+  "id": "sleep-science-and-sleep-optimization",
+  "subject": "biohacking",
+  "level": "L1",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Sleep science and sleep optimization",
+    "et": "Unetteadus ja une optimeerimine",
+    "sourceHash": "659f6b8e73817b07",
+    "stale": false
+  },
+  "summary": {
+    "en": "Sleep is not a single uniform state but a cycle through distinct stages -- light non-REM sleep, deep slow-wave sleep (when growth hormone release peaks and the body does most of its physical repair), and REM sleep (when most vivid dreaming and a large share of memory consolidation happen) -- repeating roughly every 90 minutes through the night, with deep sleep concentrated earlier in the night and REM sleep concentrated later, which is why cutting sleep short doesn't just remove some average amount of \"sleep\" but disproportionately removes whichever stage happens to dominate the part of the night that got cut. Sleep debt is real and measurably cumulative: losing sleep for several nights running degrades cognitive performance comparably to a full night with no sleep at all, and that debt does not fully clear with a single night of catch-up sleep, contrary to the common assumption that a weekend of sleeping in fixes a week of short nights. This is also why polyphasic sleep schedules -- splitting sleep into several short chunks (a core sleep plus multiple daytime naps) to supposedly reduce total sleep need to a few hours a day -- consistently fail to hold up under rigorous testing: fragmenting sleep this way makes it much harder to complete full 90-minute cycles and reach deep and REM stages in adequate amounts, so self-reported adaptation to polyphasic schedules generally reflects tolerance of chronic sleep deprivation, not a genuine reduction in the brain's actual sleep need.",
+    "et": "Uni ei ole üksainus ühtlane seisund, vaid tsükkel läbi selgelt eristuvate faaside -- kerge mitte-REM uni, sügav aeglaselaine uni (mil kasvuhormooni eritumine saavutab haripunkti ja keha teeb enamiku oma füüsilisest taastumisest) ning REM-uni (mil toimub enamik elavaid unenägusid ja suur osa mälu kinnistumisest) -- korduvalt ligikaudu iga 90 minuti järel öö jooksul, kusjuures sügav uni koondub öö algusesse ja REM-uni öö lõppu, mis on põhjus, miks une lühendamine ei eemalda lihtsalt mingit keskmist kogust \"und\", vaid eemaldab ebaproportsionaalselt just selle faasi, mis domineerib öö lõigatud osas. Unevõlg on tõeline ja mõõdetavalt kumuleeruv: mitme öö jooksul järjest une kaotamine halvendab kognitiivset sooritust võrreldavalt ühe täielikult unetu ööga, ning see võlg ei kao täielikult ühe järelemagamise ööga, vastupidi levinud eeldusele, et nädalavahetusel väljamagamine parandab nädala lühikesi öid. See on ka põhjus, miks polüfaasilised unegraafikud -- une jagamine mitmeks lühikeseks tükiks (põhiuni pluss mitu päevast uinakut), et väidetavalt vähendada kogu unevajadust vaid mõne tunnini päevas -- läbivad ranget testimist alati läbikukkumisega: une sel viisil killustamine muudab palju raskemaks täielike 90-minutiliste tsüklite läbimise ja sügava ning REM-faasi piisava kättesaamise, mistõttu enesehinnanguline kohanemine polüfaasiliste graafikutega peegeldab üldiselt kroonilise unepuuduse talumist, mitte ajus toimuvat tegelikku unevajaduse vähenemist.",
+    "sourceHash": "68e213aef936c247",
+    "stale": false
+  },
+  "prerequisites": [
+    "circadian-rhythm-and-light-based-optimization"
+  ]
+}
