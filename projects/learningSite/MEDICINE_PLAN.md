@@ -196,49 +196,72 @@ Phase Med1.
 
 ### Module `genetics-and-molecular-genetics`
 
-- [ ] Mendelian genetics and inheritance patterns (dominant/recessive
+- [x] Mendelian genetics and inheritance patterns (dominant/recessive
       alleles, Punnett squares, autosomal vs. sex-linked inheritance; no
       prerequisites)
-- [ ] Meiosis and genetic recombination (meiosis I/II, crossing over,
+- [x] Meiosis and genetic recombination (meiosis I/II, crossing over,
       independent assortment — why gametes are genetically unique;
       prerequisite: the-cell-cycle-and-mitosis)
-- [ ] Gene expression regulation (operons, transcription factors, an
+- [x] Gene expression regulation (operons, transcription factors, an
       intro-level look at epigenetic regulation as a mechanism — distinct
       from `BIOHACKING_PLAN.md`'s planned epigenetics-and-lifestyle-
       interventions concept, which will be about lifestyle-driven epigenetic
       change and its evidence base, not the regulatory mechanism itself;
       prerequisite: dna-replication-transcription-and-translation)
-- [ ] Mutations and genetic variation (point mutations, chromosomal
+- [x] Mutations and genetic variation (point mutations, chromosomal
       mutations, how heritable variation arises; no prerequisites)
-- [ ] Genetic disorders and inheritance mechanisms (single-gene disorders,
+- [x] Genetic disorders and inheritance mechanisms (single-gene disorders,
       chromosomal disorders/aneuploidy, inheritance-mechanism categories —
       framed mechanistically, not as a clinical-diagnosis reference;
       prerequisite: mendelian-genetics-and-inheritance-patterns)
-- [ ] Population genetics and Hardy-Weinberg equilibrium (allele and
+- [x] Population genetics and Hardy-Weinberg equilibrium (allele and
       genotype frequencies, the Hardy-Weinberg equation and what violates
-      it; a genuine formula candidate — p^2 + 2pq + q^2 = 1; no
-      prerequisites)
+      it; prerequisite: none; formalised the recessive-allele-frequency
+      relationship q = sqrt(q^2) as a formula + problem template + error
+      model — the classic testable Hardy-Weinberg application, given an
+      observed recessive-phenotype frequency, solve for allele frequency;
+      added two new glossary terms, allele frequency/alleelisagedus and
+      genotype frequency/genotüübisagedus, neither of which existed before)
+
+Module complete: 6 genetics-and-molecular-genetics concepts. `npm run
+validate:content`, `npm run lint:terminology` (254 glossary terms), and
+`npm run typecheck` all pass; every resource URL verified live with `curl`.
+This module ran concurrently with a sibling `microbiology` module in the
+same shared working tree (per Phase Med1's precedent) — no conflicts beyond
+the routine, harmless git-lock retries that pattern already produced once.
 
 ### Module `microbiology`
 
-- [ ] Bacterial structure and classification (Gram-positive vs.
+- [x] Bacterial structure and classification (Gram-positive vs.
       Gram-negative cell walls, bacterial cell structure, classification
       basics; no prerequisites)
-- [ ] Bacterial growth and metabolism (the bacterial growth curve, aerobic
+- [x] Bacterial growth and metabolism (the bacterial growth curve, aerobic
       vs. anaerobic metabolism; prerequisite:
-      bacterial-structure-and-classification)
-- [ ] Viral structure and replication (virus structure, the lytic vs.
+      bacterial-structure-and-classification; formalised the exponential
+      growth-curve relationship, N = N0 * 2^(t/td), as a formula + problem
+      template + error model)
+- [x] Viral structure and replication (virus structure, the lytic vs.
       lysogenic cycle, why viruses sit outside the standard definition of a
-      living cell; no prerequisites)
-- [ ] Fungal and parasitic pathogens (fungi and parasites as a distinct
+      living cell; no prerequisites; kept conceptual)
+- [x] Fungal and parasitic pathogens (fungi and parasites as a distinct
       pathogen category from bacteria/viruses — basic classification and
-      disease mechanisms; no prerequisites)
-- [ ] Antimicrobial mechanisms and resistance (how antibiotics work — cell
+      disease mechanisms; no prerequisites; kept conceptual)
+- [x] Antimicrobial mechanisms and resistance (how antibiotics work — cell
       wall synthesis inhibitors, protein synthesis inhibitors, and the
       mechanisms by which bacteria evolve resistance to each; prerequisite:
-      bacterial-structure-and-classification)
-- [ ] Host-pathogen interactions and virulence (virulence factors,
+      bacterial-structure-and-classification; kept conceptual)
+- [x] Host-pathogen interactions and virulence (virulence factors,
       mechanisms of pathogenesis, colonization vs. infection; no
-      prerequisites)
+      prerequisites; kept conceptual)
+
+Module complete: 6 microbiology concepts. Added two new glossary terms for
+the growth-curve formula (`population-size`, `doubling-time`); every other
+symbol reused an existing `time` entry. `npm run validate:content`,
+`npm run lint:terminology`, and `npm run typecheck` all pass as of this
+module's last commit; every resource URL verified live with `curl`. One
+concept (`fungal-and-parasitic-pathogens`) combines two related topics under
+one Wikipedia resource pair (fungal disease specifically) rather than
+splitting into two concepts, since the shared "eukaryotic pathogen, harder
+drug target" thread ties them together as one coherent idea.
 
 ---
