@@ -1,0 +1,10 @@
+{
+  "id": "antibody-structure-and-function-m2",
+  "conceptId": "antibody-structure-and-function",
+  "text": {
+    "en": "Antibodies destroy pathogens directly, by themselves, the same way a toxin or enzyme would -- in reality, an antibody's binding action alone often doesn't destroy anything; more often it neutralizes (blocks) a target, or tags/opsonizes it for a phagocyte to actually destroy, or triggers the complement cascade to do the destructive work -- the antibody is frequently a flag or a lock, not the weapon itself.",
+    "et": "Antikehad hävitavad patogeene otse, iseseisvalt, samamoodi nagu toksiin või ensüüm -- tegelikult ei hävita antikeha sidumistegevus üksinda sageli midagi; sagedamini neutraliseerib (blokeerib) see sihtmärgi või märgistab/opsoniseerib selle, et fagotsüüt saaks selle tegelikult hävitada, või käivitab komplemendikaskaadi, mis teeb hävitava töö -- antikeha on sageli lipp või lukk, mitte relv ise.",
+    "sourceHash": "ce69373b4bf2f1d5",
+    "stale": false
+  }
+}

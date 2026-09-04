@@ -1,0 +1,21 @@
+{
+  "id": "antibody-structure-and-function",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "immunology",
+  "title": {
+    "en": "Antibody structure and function",
+    "et": "Antikeha struktuur ja funktsioon",
+    "sourceHash": "969af209bf2acc69",
+    "stale": false
+  },
+  "summary": {
+    "en": "An antibody (immunoglobulin) is a Y-shaped protein built from two identical heavy chains and two identical light chains, with the two tips of the Y -- the variable regions -- forming the actual antigen-binding sites, while the constant region (the stem of the Y) determines the antibody's class and how it recruits other parts of the immune system once it has bound its target. Five antibody classes exist, distinguished by their constant region and specialized for different jobs: IgM is the first responder produced in a primary immune response, effective at activating complement due to its five-unit pentameric structure; IgG is the dominant, most abundant class in blood, responsible for most long-term immunity and the only class that crosses the placenta to protect a newborn; IgA is secreted onto mucosal surfaces (gut, respiratory tract, breast milk) to intercept pathogens before they penetrate tissue; IgE triggers mast cell degranulation, central to both parasitic-worm defense and allergic reactions; and IgD serves mainly as a B cell surface receptor rather than a secreted antibody. An antibody protects the body through several distinct mechanisms once bound to its target: neutralization directly blocks a toxin or virus from interacting with host cells; opsonization coats a pathogen so that phagocytes recognize and engulf it more efficiently; and complement fixation triggers the same complement cascade covered under innate immunity, showing that the innate and adaptive systems are deeply interconnected rather than two separate pipelines.",
+    "et": "Antikeha (immunoglobuliin) on Y-kujuline valk, mis koosneb kahest identsest raskest ahelast ja kahest identsest kergest ahelast, kusjuures Y kaks tippu -- muutuvad piirkonnad -- moodustavad tegeliku antigeeni sidumiskoha, samas kui konstantne piirkond (Y vars) määrab antikeha klassi ja selle, kuidas see pärast sihtmärgi külge kinnitumist ülejäänud immuunsüsteemi kaasab. Olemas on viis antikehaklassi, mida eristab nende konstantne piirkond ja mis on spetsialiseerunud erinevateks ülesanneteks: IgM on esmase immuunvastuse käigus toodetav esimene reageerija, tõhus komplemendi aktiveerimisel tänu oma viieühikulisele pentameersele struktuurile; IgG on domineeriv, kõige levinum klass veres, vastutades enamiku pikaajalise immuunsuse eest ja ainsa klassina, mis läbib platsentat, et kaitsta vastsündinut; IgA eritub limaskestapindadele (sooled, hingamisteed, rinnapiim), et tabada patogeenid kinni enne, kui need koesse tungivad; IgE käivitab nuumrakkude degranulatsiooni, olles keskse tähtsusega nii parasiitusside kaitses kui allergilistes reaktsioonides; ning IgD toimib peamiselt B-raku pinnaretseptorina, mitte eritatava antikehana. Antikeha kaitseb organismi mitme eristuva mehhanismi kaudu pärast sihtmärgi külge kinnitumist: neutraliseerimine blokeerib otseselt toksiini või viiruse suhtlemise peremeesrakkudega; opsoniseerimine katab patogeeni nii, et fagotsüüdid tunnevad selle ära ja neelavad tõhusamalt; ning komplemendi fikseerimine käivitab sama komplemendikaskaadi, mida käsitleti kaasasündinud immuunsuse all, näidates, et kaasasündinud ja omandatud süsteemid on sügavalt omavahel seotud, mitte kaks eraldi torustikku.",
+    "sourceHash": "ba83e8d871d06254",
+    "stale": false
+  },
+  "prerequisites": [
+    "adaptive-immunity-and-lymphocytes"
+  ]
+}

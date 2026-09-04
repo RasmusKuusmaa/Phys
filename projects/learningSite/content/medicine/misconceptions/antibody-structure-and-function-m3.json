@@ -1,0 +1,10 @@
+{
+  "id": "antibody-structure-and-function-m3",
+  "conceptId": "antibody-structure-and-function",
+  "text": {
+    "en": "An antibody can bind to more or less any part of a pathogen equally well; how well it 'matches' isn't really a graded thing -- in reality, antibody-antigen binding has an affinity that varies continuously depending on how well the variable region's shape complements the specific antigen epitope, and this affinity actually improves over the course of an immune response (affinity maturation) as B cells producing higher-affinity antibodies are selectively expanded.",
+    "et": "Antikeha võib siduda enam-vähem iga patogeeni osaga võrdselt hästi; see, kui hästi see 'sobib', ei ole tegelikult astmeline asi -- tegelikult on antikeha-antigeeni sidumisel afiinsus, mis varieerub pidevalt sõltuvalt sellest, kui hästi muutuva piirkonna kuju täiendab konkreetset antigeeni epitoopi, ning see afiinsus tegelikult paraneb immuunvastuse käigus (afiinsuse küpsemine), kuna kõrgema afiinsusega antikehi tootvaid B-rakke valikuliselt laiendatakse.",
+    "sourceHash": "b48afa0f8da35e11",
+    "stale": false
+  }
+}

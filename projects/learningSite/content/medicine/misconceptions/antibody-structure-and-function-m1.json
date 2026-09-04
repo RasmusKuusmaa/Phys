@@ -1,0 +1,10 @@
+{
+  "id": "antibody-structure-and-function-m1",
+  "conceptId": "antibody-structure-and-function",
+  "text": {
+    "en": "All antibodies are essentially the same molecule, just labeled with different names (IgG, IgM, etc.) for convenience -- in reality, the five classes differ structurally (IgM's pentameric structure vs. IgG's single Y-shaped monomer) and functionally (only IgG crosses the placenta, only IgA is secreted onto mucosal surfaces, only IgE triggers mast cells), so which class is present matters for what protection is actually happening.",
+    "et": "Kõik antikehad on sisuliselt sama molekul, lihtsalt erinevate nimedega (IgG, IgM jne) mugavuse mõttes -- tegelikult erinevad viis klassi struktuurselt (IgM-i pentameerne struktuur vs. IgG üksik Y-kujuline monomeer) ja funktsionaalselt (ainult IgG läbib platsentat, ainult IgA eritub limaskestapindadele, ainult IgE käivitab nuumrakud), mistõttu on oluline, milline klass on kohal, et mõista, milline kaitse tegelikult toimub.",
+    "sourceHash": "3c22e2582128633d",
+    "stale": false
+  }
+}

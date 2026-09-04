@@ -1,0 +1,56 @@
+{
+  "id": "antibody-structure-and-function-item1",
+  "conceptId": "antibody-structure-and-function",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does only IgG cross the placenta to protect a developing fetus and newborn, while IgM (also present in the mother's blood) does not?",
+    "et": "Miks läbib platsentat, et kaitsta arenevat lootet ja vastsündinut, ainult IgG, mitte aga IgM (mis on samuti ema veres olemas)?",
+    "sourceHash": "dce8fa7e104708a1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the five antibody classes are structurally distinct despite sharing the same basic binding mechanism, and only IgG's structure and its interaction with the specific placental transport receptor allow it to be actively transported across the placenta.",
+        "et": "Sest viis antikehaklassi on struktuurselt eristuvad, hoolimata samast põhilisest sidumismehhanismist, ning ainult IgG struktuur ja selle koostoime konkreetse platsenta transpordiretseptoriga võimaldavad seda aktiivselt üle platsenta transportida.",
+        "sourceHash": "e6e76076be1ac7aa",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They're functionally interchangeable, so it's essentially arbitrary which one happens to cross -- in practice small amounts of every class cross equally.",
+        "et": "Need on funktsionaalselt vahetatavad, mistõttu on sisuliselt suvaline, milline neist läbib -- praktikas läbib väike kogus igast klassist võrdselt.",
+        "sourceHash": "f7534026cd9e5000",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "antibody-structure-and-function-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "IgG simply binds antigens more tightly than IgM in general, and tighter-binding antibodies are the ones the placenta selects for.",
+        "et": "IgG lihtsalt seob antigeene üldiselt tugevamini kui IgM, ning platsenta valib välja tugevamalt siduvad antikehad.",
+        "sourceHash": "3640ea06acb0c73a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "antibody-structure-and-function-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "IgM is destroyed by the placenta's own immune cells before it can be transported, while IgG survives that destruction.",
+        "et": "IgM hävitatakse platsenta enda immuunrakkude poolt enne transportimist, samas kui IgG selle hävitamise üle elab.",
+        "sourceHash": "3a8245e59f147e22",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "antibody-structure-and-function-m2"
+    }
+  ]
+}
