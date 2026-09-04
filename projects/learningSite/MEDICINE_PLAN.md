@@ -189,4 +189,56 @@ prose rather than glossary-locked, since none of it was a formula symbol
 name, the only thing the linter's untranslated-term check enforces), and
 `npm run typecheck` all pass; working tree clean.
 
+## Phase Med2 — genetics and molecular genetics, and microbiology
+
+Two more modules, six concepts each, same independent-tracks split as
+Phase Med1.
+
+### Module `genetics-and-molecular-genetics`
+
+- [ ] Mendelian genetics and inheritance patterns (dominant/recessive
+      alleles, Punnett squares, autosomal vs. sex-linked inheritance; no
+      prerequisites)
+- [ ] Meiosis and genetic recombination (meiosis I/II, crossing over,
+      independent assortment — why gametes are genetically unique;
+      prerequisite: the-cell-cycle-and-mitosis)
+- [ ] Gene expression regulation (operons, transcription factors, an
+      intro-level look at epigenetic regulation as a mechanism — distinct
+      from `BIOHACKING_PLAN.md`'s planned epigenetics-and-lifestyle-
+      interventions concept, which will be about lifestyle-driven epigenetic
+      change and its evidence base, not the regulatory mechanism itself;
+      prerequisite: dna-replication-transcription-and-translation)
+- [ ] Mutations and genetic variation (point mutations, chromosomal
+      mutations, how heritable variation arises; no prerequisites)
+- [ ] Genetic disorders and inheritance mechanisms (single-gene disorders,
+      chromosomal disorders/aneuploidy, inheritance-mechanism categories —
+      framed mechanistically, not as a clinical-diagnosis reference;
+      prerequisite: mendelian-genetics-and-inheritance-patterns)
+- [ ] Population genetics and Hardy-Weinberg equilibrium (allele and
+      genotype frequencies, the Hardy-Weinberg equation and what violates
+      it; a genuine formula candidate — p^2 + 2pq + q^2 = 1; no
+      prerequisites)
+
+### Module `microbiology`
+
+- [ ] Bacterial structure and classification (Gram-positive vs.
+      Gram-negative cell walls, bacterial cell structure, classification
+      basics; no prerequisites)
+- [ ] Bacterial growth and metabolism (the bacterial growth curve, aerobic
+      vs. anaerobic metabolism; prerequisite:
+      bacterial-structure-and-classification)
+- [ ] Viral structure and replication (virus structure, the lytic vs.
+      lysogenic cycle, why viruses sit outside the standard definition of a
+      living cell; no prerequisites)
+- [ ] Fungal and parasitic pathogens (fungi and parasites as a distinct
+      pathogen category from bacteria/viruses — basic classification and
+      disease mechanisms; no prerequisites)
+- [ ] Antimicrobial mechanisms and resistance (how antibiotics work — cell
+      wall synthesis inhibitors, protein synthesis inhibitors, and the
+      mechanisms by which bacteria evolve resistance to each; prerequisite:
+      bacterial-structure-and-classification)
+- [ ] Host-pathogen interactions and virulence (virulence factors,
+      mechanisms of pathogenesis, colonization vs. infection; no
+      prerequisites)
+
 ---
