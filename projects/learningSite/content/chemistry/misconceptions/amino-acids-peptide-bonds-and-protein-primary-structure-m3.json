@@ -1,0 +1,10 @@
+{
+  "id": "amino-acids-peptide-bonds-and-protein-primary-structure-m3",
+  "conceptId": "amino-acids-peptide-bonds-and-protein-primary-structure",
+  "text": {
+    "en": "Believing a protein's three-dimensional folded shape and biological function are essentially independent of its primary structure (the exact sequence of amino acids), determined instead mainly by external conditions like temperature or pH -- while external conditions genuinely affect folding and can denature a protein, the primary structure itself, through the specific combination of side-chain chemistry (polarity, charge, size, hydrogen-bonding capacity) at each position along the chain, is what fundamentally dictates which three-dimensional fold is energetically favorable in the first place; changing even a single amino acid in the sequence can substantially alter or destroy a protein's folded structure and function, which is exactly why primary structure is considered the genuine starting point that everything else about a protein follows from.",
+    "et": "Arvamus, et valgu kolmemõõtmeline volditud kuju ja bioloogiline funktsioon on sisuliselt sõltumatud selle primaarstruktuurist (aminohapete täpne järjekord), määratuna selle asemel peamiselt välistest tingimustest nagu temperatuur või pH -- kuigi välised tingimused tõesti mõjutavad voltumist ja võivad valku denatureerida, on primaarstruktuur ise, iga positsiooni külgahela keemia (polaarsus, laeng, suurus, vesiniksideme moodustamise võime) konkreetse kombinatsiooni kaudu piki ahelat, see, mis fundamentaalselt dikteerib, milline kolmemõõtmeline volt on üldse energeetiliselt soodne; isegi ühe aminohappe muutmine järjekorras võib oluliselt muuta või hävitada valgu volditud struktuuri ja funktsiooni, mis ongi täpselt põhjus, miks primaarstruktuuri peetakse tõeliseks lähtepunktiks, millest kõik muu valgu kohta järgneb.",
+    "sourceHash": "0e4abf3a690bd900",
+    "stale": false
+  }
+}

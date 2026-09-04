@@ -1,0 +1,10 @@
+{
+  "id": "amino-acids-peptide-bonds-and-protein-primary-structure-m1",
+  "conceptId": "amino-acids-peptide-bonds-and-protein-primary-structure",
+  "text": {
+    "en": "Believing all twenty standard amino acids are chemically identical apart from an arbitrary label, differing in name only -- every standard amino acid shares the same core structure (a central carbon bonded to an amine group, a carboxylic acid group, and a hydrogen) but carries a genuinely different side chain, varying enormously in size, shape, polarity, and charge (from a single hydrogen atom to large aromatic rings, from electrically neutral to positively or negatively charged); these real chemical differences between side chains are exactly what gives each amino acid distinct chemical behavior and is what ultimately drives how a protein chain folds into its specific three-dimensional shape.",
+    "et": "Arvamus, et kõik kakskümmend standardset aminohapet on keemiliselt identsed, erinedes ainult suvalise sildi poolest, ainult nime poolest -- iga standardne aminohape jagab sama tuumstruktuuri (kesksüsinik, mis on seotud amiinirühma, karboksüülhapperühma ja vesinikuga), kuid kannab tõeliselt erinevat külgahelat, varieerudes tohutult suuruse, kuju, polaarsuse ja laengu poolest (üksikust vesinikuaatomist suurte aromaatsete rõngasteni, elektriliselt neutraalsest positiivselt või negatiivselt laetuni); need reaalsed keemilised erinevused külgahelate vahel ongi täpselt see, mis annab igale aminohappele eristuva keemilise käitumise ja mis lõppkokkuvõttes juhib seda, kuidas valguahel voltub oma spetsiifiliseks kolmemõõtmeliseks kujuks.",
+    "sourceHash": "012afb1a48207973",
+    "stale": false
+  }
+}

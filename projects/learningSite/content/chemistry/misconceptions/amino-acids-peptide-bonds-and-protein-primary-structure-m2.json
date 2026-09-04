@@ -1,0 +1,10 @@
+{
+  "id": "amino-acids-peptide-bonds-and-protein-primary-structure-m2",
+  "conceptId": "amino-acids-peptide-bonds-and-protein-primary-structure",
+  "text": {
+    "en": "Believing a peptide bond forms by simply sticking two amino acids together with no chemical change beyond the new bond itself -- forming a peptide bond specifically releases a water molecule (a condensation reaction): the carboxylic acid group of one amino acid and the amine group of the next combine, with the carboxylic acid's hydroxyl and one of the amine's hydrogens leaving together as H2O, forming an amide linkage between the two amino acids; this is a genuine condensation reaction with a real byproduct, not a bond forming with no other chemical consequence, which is exactly why building or breaking down a protein chain requires water to be removed or added at each linkage.",
+    "et": "Arvamus, et peptiidside tekib, kleepides lihtsalt kaks aminohapet kokku ilma mingi keemilise muutuseta peale uue sideme enda -- peptiidsideme moodustumine vabastab spetsiifiliselt veemolekuli (kondensatsioonireaktsioon): ühe aminohappe karboksüülhapperühm ja järgmise amiinirühm ühinevad, kusjuures karboksüülhappe hüdroksüül ja üks amiini vesinikest lahkuvad koos H2O-na, moodustades amiidsideme kahe aminohappe vahel; see on tõeline kondensatsioonireaktsioon reaalse kõrvalproduktiga, mitte side, mis tekib ilma muu keemilise tagajärjeta, mis ongi täpselt põhjus, miks valguahela ehitamine või lagundamine nõuab vee eemaldamist või lisamist igal sidemel.",
+    "sourceHash": "83ddc8171a12b1e5",
+    "stale": false
+  }
+}

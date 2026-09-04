@@ -1,0 +1,22 @@
+{
+  "id": "amino-acids-peptide-bonds-and-protein-primary-structure",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "biochemistry",
+  "title": {
+    "en": "Amino acids, peptide bonds, and protein primary structure",
+    "et": "Aminohapped, peptiidsidemed ja valgu primaarstruktuur",
+    "sourceHash": "2c557aa8dbb5e0a1",
+    "stale": false
+  },
+  "summary": {
+    "en": "An amino acid is built around one central carbon bonded simultaneously to an amine group, a carboxylic acid group, a hydrogen, and one variable side chain that differs from one amino acid to the next, and joining two amino acids releases a water molecule while forming a peptide bond -- an amide linkage between one amino acid's carboxylic acid and the next one's amine -- so that a long chain of amino acids strung together this way, called a polypeptide, has a defined chemical direction from its free amine end to its free carboxylic acid end, with the exact sequence of side chains along that chain, the protein's primary structure, being nothing more or less than the order in which the twenty standard amino acids are strung together, yet this one-dimensional sequence alone dictates, through the local chemistry and folding preferences each side chain's distinct properties impose, essentially the entire three-dimensional shape the protein subsequently folds into, and therefore its biological function, making primary structure the genuine starting point from which everything else about a protein follows.",
+    "et": "Aminohape on ehitatud ühe kesksüsiniku ümber, mis on seotud samaaegselt amiinirühma, karboksüülhapperühma, vesinikuga ja ühe muutuva külgahelaga, mis erineb ühelt aminohappelt teisele, ning kahe aminohappe ühendamine vabastab veemolekuli, moodustades peptiidsideme -- amiidside ühe aminohappe karboksüülhappe ja järgmise amiini vahel --, nii et sel viisil kokku lükitud pika aminohapete ahelal, nimega polüpeptiid, on kindlaksmääratud keemiline suund selle vabast amiiniotsast selle vaba karboksüülhappeotsani, kusjuures külgahelate täpne järjekord piki seda ahelat, valgu primaarstruktuur, on mitte midagi enamat ega vähemat kui järjekord, milles kakskümmend standardset aminohapet on kokku lükitud, kuid see üksik ühemõõtmeline järjekord ise dikteerib, iga külgahela eristuvate omaduste poolt pealesurutud kohaliku keemia ja voltumiseelistuste kaudu, sisuliselt kogu kolmemõõtmelise kuju, milleks valk seejärel voltub, ja seetõttu selle bioloogilise funktsiooni, muutes primaarstruktuuri tõeliseks lähtepunktiks, millest kõik muu valgu kohta järgneb.",
+    "sourceHash": "dd7e8967daaa210f",
+    "stale": false
+  },
+  "prerequisites": [
+    "carboxylic-acid-derivatives-and-nucleophilic-acyl-substitution",
+    "stereochemistry-and-chirality"
+  ]
+}

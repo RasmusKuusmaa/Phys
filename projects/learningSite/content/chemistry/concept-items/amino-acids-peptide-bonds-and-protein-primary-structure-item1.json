@@ -1,0 +1,56 @@
+{
+  "id": "amino-acids-peptide-bonds-and-protein-primary-structure-item1",
+  "conceptId": "amino-acids-peptide-bonds-and-protein-primary-structure",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Changing a single amino acid at one specific position in a protein's sequence can substantially alter or destroy its three-dimensional folded structure and biological function. Why is this possible if only one amino acid out of hundreds changed?",
+    "et": "Ühe aminohappe muutmine ühel konkreetsel positsioonil valgu järjekorras võib oluliselt muuta või hävitada selle kolmemõõtmelise volditud struktuuri ja bioloogilise funktsiooni. Miks on see võimalik, kui muutus ainult üks aminohape sadadest?",
+    "sourceHash": "fd2059949304ec60",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The primary structure's exact sequence of side chains fundamentally dictates which three-dimensional fold is energetically favorable, so even one changed side chain's different chemistry can disrupt the folding.",
+        "et": "Primaarstruktuuri külgahelate täpne järjekord dikteerib fundamentaalselt, milline kolmemõõtmeline volt on energeetiliselt soodne, seega võib isegi ühe muutunud külgahela erinev keemia voltumist häirida.",
+        "sourceHash": "7ff1bfc706f4744d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This cannot actually happen, since a protein's folded shape is determined mainly by external conditions like temperature and pH, essentially independent of its amino acid sequence.",
+        "et": "See ei saa tegelikult juhtuda, kuna valgu volditud kuju määravad peamiselt välised tingimused nagu temperatuur ja pH, sisuliselt sõltumata selle aminohapete järjekorrast.",
+        "sourceHash": "c5890f951d4714b6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amino-acids-peptide-bonds-and-protein-primary-structure-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "All twenty standard amino acids are chemically identical apart from their names, so no single substitution could ever meaningfully change a protein's chemistry.",
+        "et": "Kõik kakskümmend standardset aminohapet on keemiliselt identsed peale nende nimede, seega ei saaks ükski üksik asendus kunagi sisukalt muuta valgu keemiat.",
+        "sourceHash": "dd2b9ad6f9c30c15",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amino-acids-peptide-bonds-and-protein-primary-structure-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Peptide bonds simply stick amino acids together with no real chemical consequence, so changing one amino acid could not possibly affect the surrounding bonds' chemistry at all.",
+        "et": "Peptiidsidemed lihtsalt kleebivad aminohapped kokku ilma tegeliku keemilise tagajärjeta, seega ei saaks ühe aminohappe muutmine kuidagi mõjutada ümbritsevate sidemete keemiat.",
+        "sourceHash": "f3a3909ff40eb515",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "amino-acids-peptide-bonds-and-protein-primary-structure-m2"
+    }
+  ]
+}
