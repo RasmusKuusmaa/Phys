@@ -1,0 +1,21 @@
+{
+  "id": "aircraft-dynamic-modes-and-stability-derivatives",
+  "subject": "aerospace-engineering",
+  "level": "L4",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Aircraft dynamic modes and stability derivatives",
+    "et": "Õhusõiduki dünaamilised režiimid ja stabiilsustuletised",
+    "sourceHash": "1954384ba1c42448",
+    "stale": false
+  },
+  "summary": {
+    "en": "Static stability only says an aircraft generates a restoring moment after a disturbance; it says nothing about how that restoring motion actually plays out over time, which is what dynamic stability -- decomposed into a small number of characteristic eigenmodes -- describes. The short-period mode is a fast, normally heavily damped oscillation in angle of attack and pitch rate at essentially constant airspeed, governed mainly by the pitching-moment derivative with respect to angle of attack and the pitch-damping derivative; the phugoid is a much slower, often lightly damped oscillation that trades altitude for airspeed at essentially constant angle of attack, driven by the much weaker coupling between speed and drag/thrust rather than by the fast pitch dynamics at all. Laterally, dutch roll is a coupled yaw-and-roll oscillation, not a pure yaw motion, arising from the interaction between weathercock (yaw) stability and dihedral (roll-due-to-sideslip) effect; an aircraft can have a comfortably positive static directional stability derivative and still have a dutch roll mode that is only weakly damped or, in an extreme mismatch between the two effects, dynamically unstable, which is exactly why static and dynamic stability have to be assessed separately rather than one being assumed to guarantee the other.",
+    "et": "Staatiline stabiilsus ütleb ainult seda, et õhusõiduk tekitab pärast häiritust taastava momendi; see ei ütle midagi selle kohta, kuidas see taastav liikumine ajas tegelikult kulgeb -- ja just seda kirjeldab dünaamiline stabiilsus, mis jaguneb väikeseks arvuks iseloomulikeks võnkerežiimideks. Lühiperioodiline režiim on kiire, tavaliselt tugevalt summutatud rünnakunurga ja kaldenurga kiiruse võnkumine praktiliselt konstantse lennukiirusel juures, mida määravad peamiselt rünnakunurgast sõltuv pöördemomendi tuletis ja kaldenurga summutustuletis; fugoidvõnkumine on palju aeglasem, sageli nõrgalt summutatud võnkumine, mis vahetab kõrgust kiiruse vastu praktiliselt konstantse rünnakunurga juures, tuleneb hoopis palju nõrgemast kiiruse ja takistuse/tõukejõu vahelisest seosest, mitte kiiretest kaldenurga dünaamikatest. Külgsuunas on hollandi rull (dutch roll) seotud pöörde- ja rullvõnkumine, mitte puhas pöördeliikumine, tekkides ilmatuulise (pöörde-)stabiilsuse ja dihedraaliefekti (külglibisemisest tuleneva rulli) vastastikmõjust; õhusõidukil võib olla mugavalt positiivne staatiline suunastabiilsuse tuletis ning ikkagi ainult nõrgalt summutatud hollandi rulli režiim või äärmuslikul kahe efekti sobimatusel isegi dünaamiliselt ebastabiilne režiim, mistõttu staatilist ja dünaamilist stabiilsust tuleb hinnata eraldi, mitte eeldada, et üks tagab teise.",
+    "sourceHash": "e6e1bbc3be70980f",
+    "stale": false
+  },
+  "prerequisites": [
+    "flight-dynamics-and-stability"
+  ]
+}

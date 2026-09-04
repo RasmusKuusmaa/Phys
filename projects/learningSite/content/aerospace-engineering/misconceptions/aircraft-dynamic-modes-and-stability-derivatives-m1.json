@@ -1,0 +1,10 @@
+{
+  "id": "aircraft-dynamic-modes-and-stability-derivatives-m1",
+  "conceptId": "aircraft-dynamic-modes-and-stability-derivatives",
+  "text": {
+    "en": "Believing that if an aircraft is statically stable, its dynamic response to a disturbance must also be well damped -- static stability only guarantees a restoring moment exists after a disturbance; it says nothing about the frequency or damping of the resulting oscillation, so an aircraft can be statically stable directionally and still have a lightly damped, or even divergent, dutch roll mode.",
+    "et": "Arvamus, et kui õhusõiduk on staatiliselt stabiilne, peab ka selle dünaamiline vastus häiritusele olema hästi summutatud -- staatiline stabiilsus tagab ainult taastava momendi olemasolu pärast häiritust; see ei ütle midagi tekkiva võnkumise sageduse ega summutuse kohta, mistõttu õhusõiduk võib olla suunaliselt staatiliselt stabiilne ja ikkagi omada nõrgalt summutatud või isegi hälbivat hollandi rulli režiimi.",
+    "sourceHash": "7acdd82831028d01",
+    "stale": false
+  }
+}

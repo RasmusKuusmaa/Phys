@@ -1,0 +1,10 @@
+{
+  "id": "aircraft-dynamic-modes-and-stability-derivatives-m2",
+  "conceptId": "aircraft-dynamic-modes-and-stability-derivatives",
+  "text": {
+    "en": "Believing the phugoid and short-period modes are just the same pitch oscillation seen at different amplitudes -- they are physically distinct eigenmodes on very different timescales: the short-period mode is a fast angle-of-attack/pitch-rate oscillation at essentially constant airspeed, while the phugoid is a slow altitude-airspeed exchange at essentially constant angle of attack, driven by different aerodynamic derivatives entirely.",
+    "et": "Arvamus, et fugoidvõnkumine ja lühiperioodiline režiim on lihtsalt sama kaldenurga võnkumine, mida nähakse erinevate amplituudide juures -- need on füüsiliselt eristuvad omavõnkerežiimid väga erinevatel ajaskaaladel: lühiperioodiline režiim on kiire rünnakunurga/kaldenurga kiiruse võnkumine praktiliselt konstantsel lennukiirusel, samas kui fugoidvõnkumine on aeglane kõrguse-kiiruse vahetus praktiliselt konstantse rünnakunurga juures, tulenedes hoopis teistest aerodünaamilistest tuletistest.",
+    "sourceHash": "4ca6c52c8325c628",
+    "stale": false
+  }
+}

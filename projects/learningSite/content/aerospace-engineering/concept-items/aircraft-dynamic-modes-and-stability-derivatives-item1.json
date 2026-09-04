@@ -1,0 +1,56 @@
+{
+  "id": "aircraft-dynamic-modes-and-stability-derivatives-item1",
+  "conceptId": "aircraft-dynamic-modes-and-stability-derivatives",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An aircraft has a comfortably positive static directional-stability derivative, yet flight testing reveals an unacceptably lightly damped dutch roll oscillation. How can both be true at once?",
+    "et": "Õhusõidukil on mugavalt positiivne staatiline suunastabiilsuse tuletis, kuid lennukatsetused näitavad vastuvõetamatult nõrgalt summutatud hollandi rulli võnkumist. Kuidas saavad mõlemad väited korraga tõesed olla?",
+    "sourceHash": "c35db8f83b33e145",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Static directional stability only guarantees a yaw-restoring moment exists; the damping of the resulting coupled roll-yaw dutch roll oscillation depends on additional derivatives (dihedral effect, yaw damping) that can independently be weak.",
+        "et": "Staatiline suunastabiilsus tagab ainult pööret taastava momendi olemasolu; tekkiva seotud rulli-pöörde hollandi rulli võnkumise summutus sõltub täiendavatest tuletistest (dihedraaliefekt, pöörde summutus), mis võivad iseseisvalt olla nõrgad.",
+        "sourceHash": "c55c9d31fc259e3b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is impossible -- a positive static directional stability derivative mathematically guarantees a well-damped dutch roll mode, so the flight test result must be measurement error.",
+        "et": "See on võimatu -- positiivne staatilise suunastabiilsuse tuletis tagab matemaatiliselt hästi summutatud hollandi rulli režiimi, seega peab lennukatsetuse tulemus olema mõõtmisviga.",
+        "sourceHash": "c7fa736f49489529",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-dynamic-modes-and-stability-derivatives-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Dutch roll is a pure yawing motion unrelated to the directional-stability derivative, so the two observations describe entirely unrelated axes and there is no contradiction to explain.",
+        "et": "Hollandi rull on puhas pöördeliikumine, mis ei ole seotud suunastabiilsuse tuletisega, seega kirjeldavad need kaks vaatlust täiesti mitteseotud telgesid ja mingit vastuolu pole vaja seletada.",
+        "sourceHash": "b1035a41e8821b7d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-dynamic-modes-and-stability-derivatives-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The dutch roll mode and the phugoid mode are the same oscillation, so a lightly damped dutch roll is really just a normally slow-damping phugoid being misidentified.",
+        "et": "Hollandi rulli režiim ja fugoidvõnkumine on sama võnkumine, seega on nõrgalt summutatud hollandi rull tegelikult lihtsalt tavapäraselt aeglaselt summutuv fugoidvõnkumine, mida on valesti tuvastatud.",
+        "sourceHash": "dd9efa84dff2f443",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-dynamic-modes-and-stability-derivatives-m2"
+    }
+  ]
+}
