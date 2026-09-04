@@ -1,0 +1,19 @@
+{
+  "id": "gut-microbiome-and-self-experimentation",
+  "subject": "biohacking",
+  "level": "L2",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Gut microbiome and self-experimentation",
+    "et": "Soolestiku mikrobioom ja eneseeksperimenteerimine",
+    "sourceHash": "d860598f3bc38d5d",
+    "stale": false
+  },
+  "summary": {
+    "en": "The gut microbiome -- the trillions of bacteria, archaea, fungi, and viruses living mainly in the large intestine -- genuinely influences digestion, immune function, and even some aspects of mood and metabolism through the metabolites it produces, which is real, active research territory, not a fringe idea. Where self-experimentation runs well ahead of the evidence is in the products and tests built around that research: most consumer probiotic supplements deliver only a handful of strains in doses that may not survive stomach acid in large enough numbers to meaningfully and durably change an already-established gut community, and the evidence for a given probiotic strain helping a given condition has to be checked strain by strain and condition by condition, not assumed from the word 'probiotic' on a label. Consumer microbiome sequencing kits report which bacterial taxa are present in a stool sample, but the field does not yet have an agreed, validated way to translate a given microbiome composition into individualized dietary recommendations with demonstrated outcomes, so a personalized-diet report generated from that sequencing data carries far more confidence in its presentation than the underlying science currently supports. Fecal microbiota transplantation, by contrast, has strong trial evidence for one specific, serious condition (recurrent Clostridioides difficile infection) and is a regulated medical procedure there -- which is a completely different risk and evidence profile from unregulated DIY versions of the same idea.",
+    "et": "Soolestiku mikrobioom -- triljonid bakterid, arhed, seened ja viirused, mis elavad peamiselt jämesooles -- mõjutab tõeliselt seedimist, immuunfunktsiooni ja isegi mõningaid meeleolu ja ainevahetuse aspekte selle toodetavate metaboliitide kaudu, mis on reaalne, aktiivne teadusuuringute territoorium, mitte äärmuslik idee. Koht, kus eneseeksperimenteerimine jookseb tõendusmaterjalist kaugelt ette, on tooted ja testid, mis on selle uuringu ümber ehitatud: enamik tarbija probiootikumitoidulisandeid pakub vaid käputäit tüvesid annustes, mis ei pruugi maohapet piisavalt suures koguses üle elada, et püsivalt muuta juba väljakujunenud sooletikogukonda, ning tõendusmaterjali antud probiootilise tüve kohta antud seisundi puhul tuleb kontrollida tüvi tüve haaval ja seisund seisundi haaval, mitte eeldada seda sildil oleva sõna 'probiootikum' põhjal. Tarbija mikrobioomi sekveneerimiskomplektid annavad aru, millised bakteritaksonid on väljaheiteproovis olemas, kuid valdkonnal ei ole veel kokkulepitud, valideeritud viisi antud mikrobioomi koostise tõlkimiseks individuaalseteks toitumissoovitusteks, millel on tõendatud tulemused, mistõttu personaalse toitumisaruande sisu genereerimisel sellest sekveneerimisandmestikust kaasneb palju rohkem kindlust selle esitluses, kui aluseks olev teadus praegu toetab. Väljaheite mikrobiota siirdamisel on seevastu tugev uuringutõendusmaterjal ühe konkreetse, tõsise seisundi jaoks (korduv Clostridioides difficile infektsioon) ning see on seal reguleeritud meditsiiniline protseduur -- mis on täiesti erinev riski- ja tõendusprofiil kui sama idee reguleerimata DIY versioonidel.",
+    "sourceHash": "d243e336da056890",
+    "stale": false
+  },
+  "prerequisites": []
+}

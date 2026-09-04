@@ -1,0 +1,56 @@
+{
+  "id": "gut-microbiome-and-self-experimentation-item1",
+  "conceptId": "gut-microbiome-and-self-experimentation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A company sells a consumer gut-microbiome sequencing kit that generates a personalized diet plan from a customer's stool sample. Why should that personalized plan be treated with more skepticism than the sequencing data it's based on?",
+    "et": "Ettevõte müüb tarbija soolestiku mikrobioomi sekveneerimiskomplekti, mis genereerib kliendi väljaheiteproovist personaalse toitumiskava. Miks tuleks seda personaalset kava käsitleda suurema skepsisega kui sekveneerimisandmeid, millel see põhineb?",
+    "sourceHash": "ec1dee64b884ebe7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because while sequencing can reliably identify which bacterial taxa are present, the field lacks an agreed, validated method for translating that composition into individualized dietary recommendations with demonstrated outcomes.",
+        "et": "Sest kuigi sekveneerimine suudab usaldusväärselt tuvastada, millised bakteritaksonid on olemas, puudub valdkonnal kokkulepitud, valideeritud meetod selle koostise tõlkimiseks individuaalseteks toitumissoovitusteks, millel on tõendatud tulemused.",
+        "sourceHash": "da61a05395e49ef0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shouldn't be treated with more skepticism -- since the underlying sequencing technology is accurate, any dietary conclusions drawn from it are equally well-supported.",
+        "et": "Seda ei tohiks käsitleda suurema skepsisega -- kuna aluseks olev sekveneerimistehnoloogia on täpne, on sellest tehtud mistahes toitumisjäreldused võrdselt hästi toetatud.",
+        "sourceHash": "3e8d00de3badf831",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gut-microbiome-and-self-experimentation-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because microbiome-based interventions like fecal microbiota transplantation are already a proven medical treatment, so any personalized recommendation derived from microbiome data carries that same level of trial evidence.",
+        "et": "Sest mikrobioomipõhised sekkumised nagu väljaheite mikrobiota siirdamine on juba tõestatud meditsiiniline ravi, mistõttu mistahes personaalne soovitus, mis on tuletatud mikrobioomiandmetest, kannab sama taseme uuringutõendusmaterjali.",
+        "sourceHash": "41df434864a55e77",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gut-microbiome-and-self-experimentation-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because any probiotic recommendations in the plan are guaranteed to work regardless of the underlying science, since probiotics only add beneficial bacteria and cannot cause harm.",
+        "et": "Sest mistahes probiootikumide soovitused kavas on garanteeritult toimivad, sõltumata aluseks olevast teadusest, kuna probiootikumid ainult lisavad kasulikke baktereid ega saa kahjustada.",
+        "sourceHash": "3520c248dd36654d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gut-microbiome-and-self-experimentation-m1"
+    }
+  ]
+}
