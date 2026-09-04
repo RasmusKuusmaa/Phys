@@ -416,25 +416,56 @@ phases article.
 
 ### Module `biostatistics-and-epidemiology`
 
-- [ ] Study design in clinical research (randomized controlled trials,
+- [x] Study design in clinical research (randomized controlled trials,
       cohort, case-control, and cross-sectional studies — the formal
       research-methodology depth version of biohacking's evidence-hierarchy
-      concept; no prerequisites)
-- [ ] Measures of disease frequency and association (incidence, prevalence,
+      concept; no prerequisites; kept conceptual)
+- [x] Measures of disease frequency and association (incidence, prevalence,
       relative risk, odds ratio; prerequisite: study-design-in-clinical-
-      research; formula candidate)
-- [ ] Sensitivity, specificity, and diagnostic testing (true/false
+      research; formalised RR = I_e/I_u as a formula + problem template +
+      error model)
+- [x] Sensitivity, specificity, and diagnostic testing (true/false
       positive/negative, positive/negative predictive value, applying
-      Bayes' theorem to diagnostic test interpretation; formula candidate;
-      no prerequisites)
-- [ ] Bias and confounding in epidemiological studies (selection bias,
+      Bayes' theorem to diagnostic test interpretation; no prerequisites;
+      formalised PPV = (Sn*Prev)/(Sn*Prev+(1-Sp)*(1-Prev)) as a formula +
+      problem template + error model — a 4-symbol, single-output formula
+      following the Darcy-Weisbach precedent for multi-variable formulas
+      that only solve for one output)
+- [x] Bias and confounding in epidemiological studies (selection bias,
       confounding, effect modification; prerequisite: study-design-in-
-      clinical-research)
-- [ ] Clinical trial design and statistical significance (randomization,
+      clinical-research; kept conceptual — bias/confounding/effect
+      modification are reasoning distinctions, not a single numeric
+      relationship)
+- [x] Clinical trial design and statistical significance (randomization,
       blinding, p-values and confidence intervals in a clinical context,
-      statistical power; prerequisite: study-design-in-clinical-research)
-- [ ] Outbreak investigation and disease surveillance (the epidemic curve,
-      the basic reproduction number R0 — formula candidate; no
-      prerequisites)
+      statistical power; prerequisite: study-design-in-clinical-research;
+      kept conceptual)
+- [x] Outbreak investigation and disease surveillance (the epidemic curve,
+      the basic reproduction number R0; no prerequisites; formalised the
+      herd immunity threshold, HIT = 1 - 1/R0, as a formula + problem
+      template + error model)
+
+Module complete: 6 biostatistics-and-epidemiology concepts, authored
+directly (not via a further sub-fork) while executing this directive as a
+fork. Three of six got a formula (relative risk, positive predictive
+value via Bayes' theorem, herd immunity threshold); 9 new glossary terms
+added total (`relative-risk`, `incidence-in-exposed-group`, `incidence-in-
+unexposed-group`, `sensitivity`, `specificity`, `prevalence`, `positive-
+predictive-value`, `basic-reproduction-number`, `herd-immunity-threshold`),
+all domain `epidemiology`, the first such domain in this glossary. `npm run
+validate:content` (9 subjects, 570 concepts), `npm run lint:terminology`
+(266 glossary terms), and `npm run typecheck` all pass; every resource URL
+verified live with `curl`. Several Estonian resources are honest close
+matches rather than exact-topic matches, since Estonian Wikipedia has no
+dedicated article at these exact scopes: `study-design-in-clinical-
+research` and `bias-and-confounding-in-epidemiological-studies` both link
+to the general "Epidemioloogia" article, `measures-of-disease-frequency-
+and-association` links to "Levimus" (prevalence, one of the two measures
+the concept explains), `sensitivity-specificity-and-diagnostic-testing`
+links to "Antigeeni kiirtest" (a concrete real-world application of the
+concept), `clinical-trial-design-and-statistical-significance` links to
+the general "Statistika" article, and `outbreak-investigation-and-disease-
+surveillance` links to "Kollektiivne immuunsus" (herd immunity, directly
+tied to the concept's closing herd-immunity-threshold discussion).
 
 ---
