@@ -1,0 +1,10 @@
+{
+  "id": "kinematics-and-dynamics-of-mechanisms-m1",
+  "conceptId": "kinematics-and-dynamics-of-mechanisms",
+  "text": {
+    "en": "Believing a gear reduction is a free lunch -- that gearing down to trade speed for torque increases torque without giving anything up -- when in fact (ignoring friction losses) power is conserved through a gear train: multiplying torque by the gear ratio divides angular speed by that exact same factor, so the trade is always speed for torque in a fixed proportion, never a gain in one with no corresponding loss in the other.",
+    "et": "Arvamus, et hammasülekande reduktsioon on tasuta lõuna -- et kiiruse vahetamine pöördemomendi vastu suurendab pöördemomenti ilma millestki loobumata -- kui tegelikult (hõõrdekadusid eirates) säilib võimsus läbi hammasülekande: pöördemomendi korrutamine ülekandearvuga jagab nurkkiirust täpselt sama teguriga, seega on vahetus alati kiirus pöördemomendi vastu kindlas proportsioonis, mitte kunagi võit ühes ilma vastava kaotuseta teises.",
+    "sourceHash": "83e1d31e621f348f",
+    "stale": false
+  }
+}

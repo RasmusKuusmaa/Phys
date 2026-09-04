@@ -1,0 +1,10 @@
+{
+  "id": "kinematics-and-dynamics-of-mechanisms-m2",
+  "conceptId": "kinematics-and-dynamics-of-mechanisms",
+  "text": {
+    "en": "Believing every four-bar linkage's input link can always complete a full rotation, since the input link is the one being driven -- whether a four-bar linkage's driven link can fully rotate or only rock back and forth (a 'rocker') depends entirely on the relative lengths of all four links (the Grashof condition), not on which link happens to be driven; the same four link lengths connected in a different arrangement, or with slightly different lengths, can turn a fully-rotating crank into a link that only oscillates through a limited arc.",
+    "et": "Arvamus, et iga neljalülilise hoova sisendlüli suudab alati teha täisringi, kuna sisendlüli on see, mida aetakse -- kas neljalülilise hoova aetav lüli suudab teha täisringi või ainult õõtsub edasi-tagasi ('õõtslüli'), sõltub täielikult kõigi nelja lüli suhtelistest pikkustest (Grashofi tingimus), mitte sellest, millist lüli parajasti aetakse; samad neli lülipikkust erinevas paigutuses ühendatuna või veidi erinevate pikkustega võivad muuta täisringi tegeva vändalüli lüliks, mis ainult võngub piiratud kaares.",
+    "sourceHash": "b6a3fdcc0ef54080",
+    "stale": false
+  }
+}

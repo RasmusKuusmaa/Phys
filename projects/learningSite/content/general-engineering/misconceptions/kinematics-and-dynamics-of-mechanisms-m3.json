@@ -1,0 +1,10 @@
+{
+  "id": "kinematics-and-dynamics-of-mechanisms-m3",
+  "conceptId": "kinematics-and-dynamics-of-mechanisms",
+  "text": {
+    "en": "Believing a cam and a linkage are just two different mechanical ways of achieving the same kind of motion, interchangeable by preference -- a cam's follower motion is encoded directly into the physical shape of the cam profile, so a cam can be designed to produce almost any desired displacement-versus-time curve (including deliberate dwells, where the follower holds still while the cam keeps turning), while a linkage's output motion is a mathematical consequence of its link lengths and pivot layout and cannot be shaped nearly as freely; the two solve different design problems, not the same one twice.",
+    "et": "Arvamus, et nukk ja hoovastik on lihtsalt kaks erinevat mehaanilist viisi sama liikumise saavutamiseks, mida saab eelistuse põhjal omavahel vahetada -- nuki järgija liikumine on kodeeritud otse nukiprofiili füüsilisse kujusse, seega saab nuki kujundada tootma peaaegu suvalist soovitud nihke-aja kõverat (kaasa arvatud teadlikud seisuajad, mil järgija jääb paigale, samal ajal kui nukk edasi pöörleb), samas kui hoovastiku väljundliikumine on matemaatiline tagajärg selle lülipikkustest ja liigendite paigutusest ning seda ei saa peaaegu nii vabalt kujundada; need kaks lahendavad erinevaid disainiprobleeme, mitte sama probleemi kaks korda.",
+    "sourceHash": "fd0e179ac6cac94b",
+    "stale": false
+  }
+}

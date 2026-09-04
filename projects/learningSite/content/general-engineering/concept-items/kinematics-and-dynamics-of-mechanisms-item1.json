@@ -1,0 +1,56 @@
+{
+  "id": "kinematics-and-dynamics-of-mechanisms-item1",
+  "conceptId": "kinematics-and-dynamics-of-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of the following statements about mechanisms is correct?",
+    "et": "Milline järgnevatest väidetest mehhanismide kohta on õige?",
+    "sourceHash": "7fbd76ff64c83b24",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "In a gear train, ignoring friction losses, increasing torque by some factor requires decreasing angular speed by that exact same factor, since power through the train is conserved.",
+        "et": "Hammasülekandes, hõõrdekadusid eirates, nõuab pöördemomendi suurendamine mingi teguri võrra nurkkiiruse vähendamist täpselt sama teguri võrra, kuna võimsus ülekandes säilib.",
+        "sourceHash": "0253740432744a5b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Gearing down always increases torque without any corresponding decrease in speed -- a gear reduction is a way to gain torque for free.",
+        "et": "Ülekande reduktsioon suurendab alati pöördemomenti ilma vastava kiiruse vähenemiseta -- hammasülekande reduktsioon on viis saada pöördemomenti tasuta.",
+        "sourceHash": "2d749f15dc73bc3b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "kinematics-and-dynamics-of-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Every four-bar linkage's driven link can complete a full rotation regardless of the four link lengths, simply because it is the link being driven.",
+        "et": "Iga neljalülilise hoova aetav lüli suudab teha täisringi, sõltumata nelja lüli pikkustest, lihtsalt sellepärast, et see on aetav lüli.",
+        "sourceHash": "92ff3a1021b14948",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "kinematics-and-dynamics-of-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A cam and a linkage are interchangeable ways to produce the same output motion, since both convert an input rotation into an output displacement.",
+        "et": "Nukk ja hoovastik on omavahel vahetatavad viisid sama väljundliikumise tootmiseks, kuna mõlemad muudavad sisendpöörde väljundnihkeks.",
+        "sourceHash": "c43dcf4549406504",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "kinematics-and-dynamics-of-mechanisms-m3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kinematics-and-dynamics-of-mechanisms",
+  "subject": "general-engineering",
+  "level": "L2",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Kinematics and dynamics of mechanisms",
+    "et": "Mehhanismide kinemaatika ja dünaamika",
+    "sourceHash": "0f6c9ea29edba615",
+    "stale": false
+  },
+  "summary": {
+    "en": "A mechanism turns one motion into another useful one by constraining how its rigid links can move relative to each other: a four-bar linkage (four rigid links joined by four pin joints, one link fixed) converts a continuous input rotation into a coupled output motion whose exact path depends entirely on the four links' relative lengths, which is why changing a single link length can turn the same linkage from one that fully rotates into one that only rocks back and forth; a cam converts rotation into a precisely-timed, precisely-shaped follower displacement by encoding the desired motion directly into the cam's physical profile, rather than through any linkage geometry. A gear train converts rotational speed and torque into each other while keeping power (ignoring friction) constant: a gear pair's ratio, set by the ratio of their tooth counts, multiplies torque by exactly the same factor it divides angular speed by, so a gear train that trades speed for torque (a reduction) always trades away speed by exactly the amount it gains in torque, never both at once, and choosing the right combination of gears, linkages, and cams for a given task is a large part of what mechanical design actually is.",
+    "et": "Mehhanism muudab ühe liikumise teiseks kasulikuks liikumiseks, piirates, kuidas selle jäigad lülid saavad üksteise suhtes liikuda: neljalüliline hoob (neli jäika lüli, mis on ühendatud nelja liigendiga, üks lüli fikseeritud) muudab pideva sisendpöörde seotud väljundliikumiseks, mille täpne trajektoor sõltub täielikult nelja lüli suhtelistest pikkustest, mistõttu ühe lüli pikkuse muutmine võib muuta sama hoova tervikuna pöörlevast ainult edasi-tagasi õõtsuvaks; nukk muudab pöörde täpselt ajastatud ja täpselt kujundatud järgija nihkeks, kodeerides soovitud liikumise otse nukiprofiili kujusse, mitte läbi hoovastiku geomeetria. Hammasülekanne muudab pöörlemiskiiruse ja pöördemomendi teineteiseks, hoides võimsuse (hõõrdumist eirates) konstantsena: hammaspaari ülekandearv, mille määrab nende hammaste arvu suhe, korrutab pöördemomenti täpselt sama teguriga, millega ta jagab nurkkiirust, seega hammasülekanne, mis vahetab kiiruse pöördemomendi vastu (reduktor), loobub kiirusest alati täpselt niivõrd, kuivõrd ta pöördemomenti võidab, mitte kunagi mõlemast korraga, ning õige kombinatsiooni valimine hammasratastest, hoovastikest ja nukkidest antud ülesande jaoks moodustabki suure osa sellest, mis mehaanika disain tegelikult on.",
+    "sourceHash": "4904ac2dbc597da1",
+    "stale": false
+  },
+  "prerequisites": [
+    "statics-and-equilibrium-of-structures"
+  ]
+}
