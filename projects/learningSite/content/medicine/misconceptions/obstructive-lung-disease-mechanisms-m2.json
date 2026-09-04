@@ -1,0 +1,10 @@
+{
+  "id": "obstructive-lung-disease-mechanisms-m2",
+  "conceptId": "obstructive-lung-disease-mechanisms",
+  "text": {
+    "en": "Since asthma is 'just inflammation,' it can't cause any lasting damage the way COPD does -- in reality, while a single asthma attack's airway narrowing is typically reversible with appropriate treatment, this concept's key distinction is about the disease's typical structural reversibility between episodes, not a claim that asthma has zero long-term consequences; the core mechanistic point is that asthma's acute obstruction comes from inflammation and muscle constriction rather than the structural tissue destruction that defines COPD.",
+    "et": "Kuna astma on 'lihtsalt põletik', ei saa see põhjustada mingit püsivat kahjustust nagu KOK -- tegelikult, kuigi ühe astmahoo hingamisteede ahenemine on tüüpiliselt asjakohase raviga pöörduv, on selle mõiste peamine eristus haiguse tüüpilise struktuurse pöörduvuse kohta episoodide vahel, mitte väide, et astmal puuduvad igasugused pikaajalised tagajärjed; keskne mehhanistlik punkt on see, et astma ägeda obstruktsiooni põhjustab põletik ja lihaskonstriktsioon, mitte struktuurne koe häving, mis defineerib KOK-i.",
+    "sourceHash": "c30f75ca197eca80",
+    "stale": false
+  }
+}

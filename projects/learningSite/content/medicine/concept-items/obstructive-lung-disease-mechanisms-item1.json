@@ -1,0 +1,56 @@
+{
+  "id": "obstructive-lung-disease-mechanisms-item1",
+  "conceptId": "obstructive-lung-disease-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can appropriately treating an asthma attack substantially reverse the airway obstruction, while COPD's obstruction is largely irreversible?",
+    "et": "Miks võib astmahoo asjakohane ravimine hingamisteede obstruktsiooni märkimisväärselt pöörata, samas kui KOK-i obstruktsioon on suuresti pöördumatu?",
+    "sourceHash": "3f639b7f19bfbb95",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Asthma's obstruction comes from airway inflammation and reversible bronchial muscle constriction with structurally intact lung tissue, while COPD involves irreversible structural destruction of the airways and elastic lung tissue accumulated over years.",
+        "et": "Astma obstruktsioon tuleneb hingamisteede põletikust ja pöörduvast bronhide lihaskonstriktsioonist struktuurselt terve kopsukoe korral, samas kui KOK hõlmab hingamisteede ja elastse kopsukoe pöördumatut struktuurset hävingut, mis on kogunenud aastate jooksul.",
+        "sourceHash": "23f5396cf16df69a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Asthma and COPD are actually the same underlying disease process, so treatment effectiveness should be identical for both.",
+        "et": "Astma ja KOK on tegelikult sama aluseks olev haigusprotsess, mistõttu ravi tõhusus peaks olema mõlema puhul identne.",
+        "sourceHash": "a8123749deb81468",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "obstructive-lung-disease-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Asthma causes no lasting changes to the airways at all, which is why it's considered a much less serious condition than COPD in every case.",
+        "et": "Astma ei põhjusta hingamisteedele üldse mingeid püsivaid muutusi, mis ongi põhjus, miks seda peetakse igal juhul palju vähem tõsiseks seisundiks kui KOK-i.",
+        "sourceHash": "dadd9bc6b4cf04a7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "obstructive-lung-disease-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both diseases involve identical loss of elastic lung tissue, so the reversibility difference must come from something unrelated to the underlying lung mechanism.",
+        "et": "Mõlemad haigused hõlmavad identset elastse kopsukoe kadu, mistõttu pöörduvuse erinevus peab tulenema millestki, mis ei ole seotud aluseks oleva kopsu mehhanismiga.",
+        "sourceHash": "fb111cd1f078c096",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "obstructive-lung-disease-mechanisms-m3"
+    }
+  ]
+}

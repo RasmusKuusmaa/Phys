@@ -1,0 +1,10 @@
+{
+  "id": "obstructive-lung-disease-mechanisms-m3",
+  "conceptId": "obstructive-lung-disease-mechanisms",
+  "text": {
+    "en": "In COPD, the airways collapse during exhalation simply because they are chronically inflamed, the same mechanism as asthma -- in reality, the airway collapse in COPD (particularly the emphysema component) results from destruction of the lung's elastic tissue, which normally provides the outward-pulling recoil force that holds small airways open during exhalation; losing that elastic recoil, not simply inflammation, is what causes the airways to collapse prematurely.",
+    "et": "KOK-i puhul kukuvad hingamisteed väljahingamisel kokku lihtsalt seetõttu, et need on krooniliselt põletikulised, sama mehhanism nagu astma puhul -- tegelikult tuleneb hingamisteede kollaps KOK-i puhul (eriti emfüseemi komponendi puhul) kopsu elastse koe hävingust, mis tavaliselt annab väljapoole tõmbava tagasilöögijõu, mis hoiab väikesed hingamisteed väljahingamisel avatuna; selle elastse tagasilöögi kadu, mitte lihtsalt põletik, põhjustab hingamisteede enneaegse kollapsi.",
+    "sourceHash": "cc80cce306925bfb",
+    "stale": false
+  }
+}

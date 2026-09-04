@@ -1,0 +1,21 @@
+{
+  "id": "obstructive-lung-disease-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "respiratory-medicine",
+  "title": {
+    "en": "Obstructive lung disease mechanisms",
+    "et": "Obstruktiivsete kopsuhaiguste mehhanismid",
+    "sourceHash": "ce3089f442fc462a",
+    "stale": false
+  },
+  "summary": {
+    "en": "Obstructive lung disease is defined by increased resistance to airflow, particularly during exhalation, but asthma and chronic obstructive pulmonary disease (COPD) produce that shared endpoint through genuinely different underlying mechanisms. Asthma is fundamentally an inflammatory and reversible process: allergens, irritants, or other triggers cause airway inflammation and bronchial smooth muscle to contract (bronchoconstriction), narrowing the airways acutely, and because the airway walls and lung tissue themselves are still structurally intact between attacks, appropriately treating the underlying inflammation and muscle constriction can substantially reverse the obstruction. COPD, by contrast, involves largely irreversible structural damage accumulated over years, typically from chronic exposure to inhaled irritants such as tobacco smoke: chronic inflammation damages the airways directly (chronic bronchitis) and destroys the elastic tissue and alveolar walls of the lung itself (emphysema), and because that elastic recoil is what normally holds small airways open during exhalation, its loss causes the airways to collapse prematurely on breathing out, trapping air behind them. This is why the same clinical picture -- difficulty exhaling, wheezing, shortness of breath -- can reflect two mechanistically distinct diseases, one built around reversible airway inflammation and muscle spasm, the other around irreversible structural destruction of lung tissue.",
+    "et": "Obstruktiivset kopsuhaigust defineerib suurenenud takistus õhuvoolule, eriti väljahingamisel, kuid astma ja krooniline obstruktiivne kopsuhaigus (KOK) tekitavad seda jagatud lõpp-punkti tõeliselt erinevate alusmehhanismide kaudu. Astma on põhimõtteliselt põletikuline ja pöörduv protsess: allergeenid, ärritajad või muud vallandajad põhjustavad hingamisteede põletikku ja bronhide silelihase kokkutõmbumist (bronhokonstriktsioon), ahendades hingamisteid ägedalt, ning kuna hingamisteede seinad ja kopsukude ise on rünnakute vahel endiselt struktuurselt terved, võib aluseks oleva põletiku ja lihaskonstriktsiooni asjakohane ravimine obstruktsiooni märkimisväärselt pöörata. KOK seevastu hõlmab suuresti pöördumatut struktuurset kahjustust, mis on kogunenud aastate jooksul, tüüpiliselt kroonilisest kokkupuutest sissehingatavate ärritajatega nagu tubakasuits: krooniline põletik kahjustab otseselt hingamisteid (krooniline bronhiit) ja hävitab kopsu enda elastse koe ja alveoolide seinad (emfüseem), ning kuna see elastne tagasilöök hoiab tavaliselt väikesed hingamisteed väljahingamisel avatuna, põhjustab selle kadu hingamisteede enneaegse kollapsi väljahingamisel, lõksustades õhku nende taha. See ongi põhjus, miks sama kliiniline pilt -- raskendatud väljahingamine, vilistav hingamine, õhupuudus -- võib peegeldada kahte mehhanistlikult erinevat haigust, ühte, mis on üles ehitatud pöörduva hingamisteede põletiku ja lihasspasmi ümber, ning teist, mis on üles ehitatud pöördumatu kopsukoe struktuurse hävingu ümber.",
+    "sourceHash": "a59d1d4d8bb85f58",
+    "stale": false
+  },
+  "prerequisites": [
+    "respiratory-system-anatomy-and-physiology"
+  ]
+}

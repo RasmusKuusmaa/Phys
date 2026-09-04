@@ -1,0 +1,10 @@
+{
+  "id": "obstructive-lung-disease-mechanisms-m1",
+  "conceptId": "obstructive-lung-disease-mechanisms",
+  "text": {
+    "en": "Asthma and COPD are really the same disease with different names -- in reality, they are mechanistically distinct: asthma is a largely reversible process driven by airway inflammation and bronchial muscle spasm with structurally intact lung tissue between attacks, while COPD involves largely irreversible structural damage to the airways and destruction of elastic lung tissue accumulated over years, typically from chronic irritant exposure.",
+    "et": "Astma ja KOK on tegelikult sama haigus erinevate nimedega -- tegelikult on need mehhanistlikult erinevad: astma on suuresti pöörduv protsess, mida juhib hingamisteede põletik ja bronhide lihasspasm, kusjuures kopsukude on rünnakute vahel struktuurselt terve, samas kui KOK hõlmab suuresti pöördumatut struktuurset kahjustust hingamisteedele ja kopsu elastse koe hävingut, mis on kogunenud aastate jooksul, tüüpiliselt kroonilisest ärritajatega kokkupuutest.",
+    "sourceHash": "4df94746899fbe24",
+    "stale": false
+  }
+}
