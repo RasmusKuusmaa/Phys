@@ -1,0 +1,21 @@
+{
+  "id": "inflammatory-bowel-disease-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "gastrointestinal-and-hepatic-medicine",
+  "title": {
+    "en": "Inflammatory bowel disease mechanisms",
+    "et": "Põletikulise soolehaiguse mehhanismid",
+    "sourceHash": "e621aaa9999788b3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Crohn's disease and ulcerative colitis are both chronic, immune-mediated inflammation of the gastrointestinal tract, but they differ in exactly the two ways that matter mechanistically: location and depth. Crohn's disease can affect any part of the digestive tract from mouth to anus, typically in a patchy, discontinuous pattern with healthy tissue between inflamed segments, and its inflammation is transmural, penetrating through the full thickness of the intestinal wall rather than staying confined to the surface -- which is exactly why Crohn's characteristically produces complications like fistulas (abnormal tunnels connecting the bowel to other structures) and strictures (scarred narrowing), consequences of inflammation that has burrowed all the way through the wall rather than staying on its inner surface. Ulcerative colitis, by contrast, is confined to the colon and rectum, spreads in a continuous pattern with no skipped segments, and its inflammation stays limited to the mucosa, the innermost lining layer, which is why it does not typically produce the same transmural complications and why removing the entire colon can be curative for ulcerative colitis in a way that is not true for Crohn's, which can recur anywhere else along the digestive tract regardless of what tissue is removed.",
+    "et": "Crohni tõbi ja haavandiline koliit on mõlemad kroonilised, immuunvahendatud seedetrakti põletikud, kuid need erinevad täpselt kahes mehhanistlikult olulises aspektis: asukoht ja sügavus. Crohni tõbi võib mõjutada mistahes seedetrakti osa suust pärakuni, tüüpiliselt laiguti, katkendlikus mustris, kus terve kude paikneb põletikuliste segmentide vahel, ning selle põletik on transmuraalne, tungides läbi kogu sooleseina paksuse, mitte jäädes pinnale piiratuks -- mis ongi täpselt põhjus, miks Crohni tõbi tekitab iseloomulikult tüsistusi nagu fistulid (ebanormaalsed tunnelid, mis ühendavad soole muude struktuuridega) ja striktuurid (armistunud ahenemine), tagajärjed põletikust, mis on läbi seina uurinud, mitte jäänud selle sisemisele pinnale. Haavandiline koliit seevastu on piiratud käärsoole ja pärasoolega, levib pidevas mustris ilma vahelejäetud segmentideta, ning selle põletik jääb piiratuks limaskestaga, kõige sisemise voodri kihiga, mis ongi põhjus, miks see ei tekita tüüpiliselt samu transmuraalseid tüsistusi ning miks kogu käärsoole eemaldamine võib olla haavandilise koliidi jaoks ravitav viisil, mis Crohni tõve puhul ei kehti, kuna see võib korduda mistahes muus seedetrakti kohas, olenemata sellest, milline kude eemaldatakse.",
+    "sourceHash": "eda20aec8016a34d",
+    "stale": false
+  },
+  "prerequisites": [
+    "digestive-system-anatomy-and-physiology"
+  ]
+}

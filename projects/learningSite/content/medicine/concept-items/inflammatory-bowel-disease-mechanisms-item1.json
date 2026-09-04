@@ -1,0 +1,56 @@
+{
+  "id": "inflammatory-bowel-disease-mechanisms-item1",
+  "conceptId": "inflammatory-bowel-disease-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can total removal of the colon be curative for ulcerative colitis but not for Crohn's disease?",
+    "et": "Miks võib kogu käärsoole eemaldamine olla ravitav haavandilise koliidi, kuid mitte Crohni tõve puhul?",
+    "sourceHash": "3b120409cd6a9b3c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Ulcerative colitis is confined to the colon and rectum, so removing that tissue removes the entire disease process, while Crohn's disease can affect any part of the GI tract and can recur elsewhere regardless of which segment is removed.",
+        "et": "Haavandiline koliit on piiratud käärsoole ja pärasoolega, mistõttu selle koe eemaldamine eemaldab kogu haigusprotsessi, samas kui Crohni tõbi võib mõjutada mistahes seedetrakti osa ja võib korduda mujal, olenemata sellest, milline segment eemaldatakse.",
+        "sourceHash": "003ced52b2130fd2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The two diseases are actually identical, so this scenario reflects an inconsistency in how they're treated rather than a genuine mechanistic difference.",
+        "et": "Need kaks haigust on tegelikult identsed, mistõttu see stsenaarium peegeldab ebajärjekindlust nende ravimisel, mitte tõelist mehhanistlikku erinevust.",
+        "sourceHash": "a1ccf786078e5293",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "inflammatory-bowel-disease-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Removing the affected segment should work equally well for both diseases, so Crohn's disease recurrence elsewhere must be an unrelated, coincidental event.",
+        "et": "Mõjutatud segmendi eemaldamine peaks toimima võrdselt hästi mõlema haiguse puhul, mistõttu Crohni tõve kordumine mujal peab olema seostamata, juhuslik sündmus.",
+        "sourceHash": "b4f1ea812f4d7fa4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "inflammatory-bowel-disease-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Crohn's disease inflammation stays limited to the mucosal surface just like ulcerative colitis, so the difference in curability must come from some other, unrelated factor.",
+        "et": "Crohni tõve põletik jääb piiratuks limaskesta pinnaga täpselt nagu haavandilise koliidi puhul, mistõttu ravitavuse erinevus peab tulenema mõnest muust, mitteseotud tegurist.",
+        "sourceHash": "ec6fb962872c4171",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "inflammatory-bowel-disease-mechanisms-m3"
+    }
+  ]
+}
