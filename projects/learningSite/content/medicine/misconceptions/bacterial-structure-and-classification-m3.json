@@ -1,0 +1,10 @@
+{
+  "id": "bacterial-structure-and-classification-m3",
+  "conceptId": "bacterial-structure-and-classification",
+  "text": {
+    "en": "Plasmids are just a smaller, less important copy of a bacterium's main chromosome, carrying essentially the same genes -- in reality, plasmids are physically and functionally distinct from the main chromosome: they typically carry a small number of specialized, non-essential genes (antibiotic resistance, toxin production, unique metabolic capabilities) rather than duplicating the chromosome's essential genes, and their key property is that they can be copied and transferred between bacteria independently of normal reproduction (via conjugation), which is one of the main mechanisms by which antibiotic resistance spreads between different bacterial species.",
+    "et": "Plasmiidid on lihtsalt väiksem, vähem oluline koopia bakteri põhikromosoomist, kandes sisuliselt samu geene -- tegelikult on plasmiidid füüsiliselt ja funktsionaalselt erinevad põhikromosoomist: need kannavad tavaliselt väikest hulka spetsialiseeritud, mitteolulisi geene (antibiootikumiresistentsus, toksiini tootmine, unikaalsed ainevahetusvõimed), selle asemel et dubleerida kromosoomi olulisi geene, ning nende põhiomadus on see, et neid saab kopeerida ja üle kanda bakterite vahel sõltumatult tavalisest paljunemisest (konjugatsiooni teel), mis on üks peamisi mehhanisme, mille kaudu antibiootikumiresistentsus levib erinevate bakteriliikide vahel.",
+    "sourceHash": "ae1a85009528cfbe",
+    "stale": false
+  }
+}

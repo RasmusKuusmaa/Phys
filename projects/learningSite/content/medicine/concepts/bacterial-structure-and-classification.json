@@ -1,0 +1,19 @@
+{
+  "id": "bacterial-structure-and-classification",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "microbiology",
+  "title": {
+    "en": "Bacterial structure and classification",
+    "et": "Bakterite ehitus ja klassifikatsioon",
+    "sourceHash": "c19c7c7b5af15e15",
+    "stale": false
+  },
+  "summary": {
+    "en": "Bacteria are prokaryotes: single-celled organisms whose DNA floats free in the cytoplasm as a single circular chromosome rather than being enclosed in a nucleus, and whose cell interior lacks the membrane-bound organelles that compartmentalize a eukaryotic cell. What most reliably separates one broad category of bacteria from another is the cell wall: Gram-positive bacteria are wrapped in a thick, single layer of peptidoglycan that retains a violet crystal-violet stain during the Gram-staining procedure, while Gram-negative bacteria have only a thin peptidoglycan layer sandwiched between an inner and an outer membrane, so the violet stain washes out and a pink counterstain shows through instead -- a difference with real medical weight, since that extra outer membrane in Gram-negative bacteria blocks many antibiotics that work perfectly well against Gram-positive cells. Beyond the cell wall, bacteria carry a compact toolkit of additional structures used selectively rather than universally: flagella for propulsion, pili for attachment and DNA exchange, a protective capsule in some species that helps evade a host immune system, and plasmids -- small, circular pieces of DNA separate from the main chromosome that a bacterium can copy and even transfer to other bacteria, which is one of the primary routes antibiotic-resistance genes spread between unrelated bacterial species.",
+    "et": "Bakterid on prokarüoodid: üherakulised organismid, mille DNA hõljub tsütoplasmas vaba, ühe ringikujulise kromosoomina, selle asemel et olla ümbritsetud tuumaga, ning mille rakusisemuses puuduvad membraaniga ümbritsetud organellid, mis jaotavad eukarüootse raku. Kõige usaldusväärsemalt eristab üht laia bakterite kategooriat teisest rakusein: Grampositiivsed bakterid on ümbritsetud paksu, ühekihilise peptidoglükaaniga, mis säilitab Grami värvimismenetluse ajal violetse kristallvioleti värvi, samas kui Gramnegatiivsetel bakteritel on vaid õhuke peptidoglükaanikiht, mis asub sise- ja välismembraani vahel, mistõttu violetne värv peseb välja ja selle asemel paistab läbi roosa vastasvärv -- erinevus, millel on tegelik meditsiiniline tähtsus, sest see lisa-välismembraan Gramnegatiivsetel bakteritel blokeerib paljusid antibiootikume, mis toimivad suurepäraselt Grampositiivsete rakkude vastu. Lisaks rakuseinale kannavad bakterid kompaktset lisastruktuuride komplekti, mida kasutatakse valikuliselt, mitte universaalselt: flagellid liikumiseks, piilid kinnitumiseks ja DNA vahetamiseks, mõnel liigil kaitsev kapsel, mis aitab vältida peremeesorganismi immuunsüsteemi, ning plasmiidid -- väikesed, ringikujulised DNA tükid, mis on eraldi põhikromosoomist ja mida bakter saab kopeerida ning isegi teistele bakteritele üle kanda, mis on üks peamisi teid, mille kaudu antibiootikumiresistentsuse geenid levivad üksteisega mitteseotud bakteriliikide vahel.",
+    "sourceHash": "85f6626cd804d822",
+    "stale": false
+  },
+  "prerequisites": []
+}

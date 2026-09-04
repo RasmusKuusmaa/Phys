@@ -1,0 +1,56 @@
+{
+  "id": "bacterial-structure-and-classification-item1",
+  "conceptId": "bacterial-structure-and-classification",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the Gram-stain result for a bacterial species matter for more than just laboratory identification?",
+    "et": "Miks on bakteriliigi Grami värvimise tulemus oluline enamaks kui lihtsalt laboratoorne identifitseerimine?",
+    "sourceHash": "9628198127478c09",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because Gram-positive and Gram-negative bacteria have genuinely different cell envelope structures -- Gram-negative bacteria have an extra outer membrane that blocks many antibiotics effective against Gram-positive species, so the Gram stain result directly narrows which drug classes could plausibly work.",
+        "et": "Sest Grampositiivsetel ja Gramnegatiivsetel bakteritel on tõeliselt erinevad rakukesta struktuurid -- Gramnegatiivsetel bakteritel on lisa-välismembraan, mis blokeerib paljusid Grampositiivsete liikide vastu tõhusaid antibiootikume, mistõttu Grami värvimise tulemus kitsendab otseselt, millised ravimiklassid võiksid üldse toimida.",
+        "sourceHash": "4501bcb9fc18d7fe",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't -- Gram staining is a historical laboratory convention, and both bacterial types have essentially the same cell wall structure once you account for the dye used.",
+        "et": "See ei ole nii -- Grami värvimine on ajalooline laboratoorne tava ning mõlemal bakteritüübil on sisuliselt sama rakuseina struktuur, kui arvestada kasutatud värvainet.",
+        "sourceHash": "4ebea0422985e75f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bacterial-structure-and-classification-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It matters because Gram-positive bacteria are always harmless while Gram-negative bacteria are always pathogenic, so the stain result tells you immediately whether an infection is dangerous.",
+        "et": "See on oluline, sest Grampositiivsed bakterid on alati kahjutud, samas kui Gramnegatiivsed bakterid on alati patogeensed, mistõttu värvimise tulemus ütleb kohe, kas infektsioon on ohtlik.",
+        "sourceHash": "6a58cb2fdedb339d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bacterial-structure-and-classification-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It matters only because Gram-positive bacteria carry plasmids and Gram-negative bacteria don't, so the stain indirectly reveals which species can acquire antibiotic resistance.",
+        "et": "See on oluline ainult seetõttu, et Grampositiivsed bakterid kannavad plasmiide ja Gramnegatiivsed mitte, mistõttu värvimine paljastab kaudselt, millised liigid saavad omandada antibiootikumiresistentsuse.",
+        "sourceHash": "69e4a48a8d0aedb6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bacterial-structure-and-classification-m3"
+    }
+  ]
+}

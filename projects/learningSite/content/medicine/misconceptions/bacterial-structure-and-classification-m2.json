@@ -1,0 +1,10 @@
+{
+  "id": "bacterial-structure-and-classification-m2",
+  "conceptId": "bacterial-structure-and-classification",
+  "text": {
+    "en": "Gram-positive and Gram-negative are just two different-colored types of the same basic bacterial cell wall, so the distinction is mostly a lab-staining convenience rather than a real structural or medical difference -- in reality, the Gram stain result reflects a genuinely different cell envelope architecture: Gram-positive bacteria have a thick single peptidoglycan layer with no outer membrane, while Gram-negative bacteria have a thin peptidoglycan layer sandwiched between two separate membranes; that extra outer membrane in Gram-negative bacteria is a real physical barrier that blocks many antibiotics effective against Gram-positive species, making the distinction directly relevant to which drugs a clinician would even consider for a given infection.",
+    "et": "Grampositiivne ja Gramnegatiivne on lihtsalt kaks erinevat värvi sama põhilise bakteri rakuseina tüüpi, mistõttu on erinevus peamiselt laboratoorse värvimise mugavus, mitte reaalne struktuurne või meditsiiniline erinevus -- tegelikult peegeldab Grami värvimise tulemus tõeliselt erinevat rakukesta arhitektuuri: Grampositiivsetel bakteritel on paks üksik peptidoglükaanikiht ilma välismembraanita, samas kui Gramnegatiivsetel bakteritel on õhuke peptidoglükaanikiht kahe eraldi membraani vahel; see lisa-välismembraan Gramnegatiivsetel bakteritel on tõeline füüsiline barjäär, mis blokeerib paljusid Grampositiivsete liikide vastu tõhusaid antibiootikume, muutes erinevuse otseselt oluliseks selle jaoks, milliseid ravimeid arst konkreetse infektsiooni puhul üldse kaaluks.",
+    "sourceHash": "1a58ff78d2b667ef",
+    "stale": false
+  }
+}
