@@ -1,0 +1,10 @@
+{
+  "id": "stereochemistry-and-chirality-m2",
+  "conceptId": "stereochemistry-and-chirality",
+  "text": {
+    "en": "Believing an ordinary chemical reaction, run with no chiral catalyst, chiral reagent, or other chiral influence present, should naturally favour producing one enantiomer over the other -- with no chiral influence anywhere in the reaction system, there is nothing available to distinguish the two mirror-image transition states or products from each other, so the reaction produces both enantiomers in exactly equal amounts (a racemic mixture); producing an excess of one specific enantiomer (an enantioselective synthesis) specifically requires introducing some chiral influence into the reaction, such as a chiral catalyst, and is a genuinely nontrivial synthetic achievement, not the default outcome.",
+    "et": "Arvamus, et tavaline keemiline reaktsioon, mis on läbi viidud ilma kiraalse katalüsaatori, kiraalse reagendi või mistahes muu kiraalse mõjuta, peaks loomulikult soosima ühe enantiomeeri tootmist teise ees -- kui reaktsioonisüsteemis pole kusagil kiraalset mõju, ei ole midagi saadaval, et eristada kahte peegelpilti üleminekuolekut või produkti üksteisest, seega toodab reaktsioon mõlemat enantiomeeri täpselt võrdsetes kogustes (ratseemiline segu); ühe konkreetse enantiomeeri ülejäägi tootmine (enantioselektiivne süntees) nõuab spetsiifiliselt mingi kiraalse mõju sissetoomist reaktsiooni, näiteks kiraalse katalüsaatori, ning on tõeliselt mittetriviaalne sünteetiline saavutus, mitte vaikimisi tulemus.",
+    "sourceHash": "5ea82b6842e54fcb",
+    "stale": false
+  }
+}

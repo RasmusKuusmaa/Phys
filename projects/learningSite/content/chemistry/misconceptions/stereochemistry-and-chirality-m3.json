@@ -1,0 +1,10 @@
+{
+  "id": "stereochemistry-and-chirality-m3",
+  "conceptId": "stereochemistry-and-chirality",
+  "text": {
+    "en": "Believing the two enantiomers of a drug molecule should have essentially the same effect on the human body, since they are chemically 'the same substance' -- while enantiomers behave identically toward achiral chemical environments, biological receptors, enzymes, and other proteins are themselves inherently chiral molecules, so a given enantiomer can fit a biological binding site the way a specific hand fits a specific glove, while its mirror-image partner fits poorly or not at all (or binds a completely different site with a completely different effect); this is exactly why the two enantiomers of the same drug can have dramatically different potency, activity, or even toxicity, despite being chemically indistinguishable in an achiral laboratory test.",
+    "et": "Arvamus, et ravimimolekuli kaks enantiomeeri peaksid inimkehale avaldama sisuliselt sama mõju, kuna need on keemiliselt 'sama aine' -- kuigi enantiomeerid käituvad akiraalsete keemiliste keskkondade suhtes identselt, on bioloogilised retseptorid, ensüümid ja teised valgud ise olemuslikult kiraalsed molekulid, seega võib antud enantiomeer sobituda bioloogilisse sidumiskohta samamoodi nagu konkreetne käsi sobitub konkreetsesse kindasse, samal ajal kui tema peegelpildi partner sobitub halvasti või üldse mitte (või seondub täiesti erineva kohaga täiesti erineva mõjuga); see ongi täpselt põhjus, miks sama ravimi kahel enantiomeeril võib olla dramaatiliselt erinev toimetugevus, aktiivsus või isegi toksilisus, hoolimata sellest, et need on akiraalses laboratoorses testis keemiliselt eristamatud.",
+    "sourceHash": "eb8eac253432762c",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "stereochemistry-and-chirality",
+  "subject": "chemistry",
+  "level": "L2",
+  "module": "organic-chemistry",
+  "title": {
+    "en": "Stereochemistry and chirality",
+    "et": "Stereokeemia ja kiraalsus",
+    "sourceHash": "c2cce669279497e3",
+    "stale": false
+  },
+  "summary": {
+    "en": "A carbon atom bonded to four different groups has no internal mirror symmetry, meaning its mirror image cannot be rotated to superimpose exactly onto the original -- the molecule is chiral, and the two mirror-image forms, called enantiomers, share every ordinary physical property (melting point, boiling point, solubility, infrared spectrum) while differing in exactly one measurable way, the direction they rotate plane-polarized light, and while a chemist can name which specific spatial arrangement a given enantiomer has using the R/S naming convention (ranking the four attached groups by priority and reading their arrangement around the chiral centre), an ordinary chemical reaction run without any chiral influence present produces both enantiomers in exactly equal amounts, a racemic mixture, because nothing in an achiral reaction environment can distinguish one mirror-image outcome from the other, which is precisely why living systems, built from inherently chiral machinery, respond so differently to the two enantiomers of the same drug molecule even though ordinary bench chemistry cannot tell them apart at all.",
+    "et": "Süsinikuaatom, mis on seotud nelja erineva rühmaga, ei oma sisemist peegelsümmeetriat, mis tähendab, et selle peegelpilti ei saa pöörata nii, et see langeks täpselt kokku algsega -- molekul on kiraalne, ning kaks peegelpildi vormi, nimega enantiomeerid, jagavad iga tavalist füüsikalist omadust (sulamistemperatuur, keemistemperatuur, lahustuvus, infrapunaspekter), erinedes täpselt ühe mõõdetava asja poolest, suunas, milles nad pööravad tasapinnaliselt polariseeritud valgust, ning kuigi keemik saab nimetada, milline konkreetne ruumiline paigutus antud enantiomeeril on, kasutades R/S nimetamise konventsiooni (järjestades neli seotud rühma prioriteedi järgi ja lugedes nende paigutust kiraalse keskme ümber), toodab tavaline keemiline reaktsioon, mis on läbi viidud ilma mistahes kiraalse mõjuta, mõlemat enantiomeeri täpselt võrdsetes kogustes, ratseemilise segu, kuna miski akiraalses reaktsioonikeskkonnas ei saa eristada üht peegelpilti tulemust teisest, mis ongi täpselt põhjus, miks elussüsteemid, mis on ehitatud olemuslikult kiraalsest masinavärgist, reageerivad sama ravimimolekuli kahele enantiomeerile nii erinevalt, kuigi tavaline laborikeemia ei suuda neid üldse eristada.",
+    "sourceHash": "cc7e53252d91ebaa",
+    "stale": false
+  },
+  "prerequisites": [
+    "functional-groups"
+  ]
+}

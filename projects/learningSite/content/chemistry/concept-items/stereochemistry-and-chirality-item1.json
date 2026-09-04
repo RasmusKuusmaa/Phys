@@ -1,0 +1,56 @@
+{
+  "id": "stereochemistry-and-chirality-item1",
+  "conceptId": "stereochemistry-and-chirality",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do the two enantiomers of a chiral drug molecule sometimes produce dramatically different biological effects, even though they are indistinguishable by ordinary physical measurements like melting point?",
+    "et": "Miks toodavad kiraalse ravimimolekuli kaks enantiomeeri mõnikord dramaatiliselt erinevaid bioloogilisi mõjusid, kuigi need on eristamatud tavaliste füüsikaliste mõõtmiste abil, nagu sulamistemperatuur?",
+    "sourceHash": "04c0221582d61456",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Biological receptors and enzymes are themselves chiral, so one enantiomer can fit a binding site well while its mirror-image partner fits poorly or binds a different site entirely.",
+        "et": "Bioloogilised retseptorid ja ensüümid on ise kiraalsed, seega võib üks enantiomeer sobituda sidumiskohta hästi, samal ajal kui tema peegelpildi partner sobitub halvasti või seondub hoopis teise kohaga.",
+        "sourceHash": "20d8a981752cb09b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The two enantiomers actually do differ in ordinary physical properties like melting point, so this scenario as described could not really occur.",
+        "et": "Kaks enantiomeeri tegelikult erinevad tavaliste füüsikaliste omaduste poolest nagu sulamistemperatuur, seega ei saaks see kirjeldatud stsenaarium tegelikult juhtuda.",
+        "sourceHash": "b5ed479bd44a3c5e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stereochemistry-and-chirality-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "One enantiomer must have been produced in excess during synthesis by default, so the drug sample was never truly a fifty-fifty mixture of the two forms to begin with.",
+        "et": "Üks enantiomeer pidi sünteesi käigus vaikimisi ülekaalus olema toodetud, seega ei olnud ravimi proov algusest peale kunagi tegelikult viiskümmend-viiskümmend segu kahest vormist.",
+        "sourceHash": "72621249253ff822",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stereochemistry-and-chirality-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since the two enantiomers are chemically the same substance, this difference in biological effect must actually be a testing artifact rather than a real phenomenon.",
+        "et": "Kuna kaks enantiomeeri on keemiliselt sama aine, peab see erinevus bioloogilises mõjus tegelikult olema testimisartefakt, mitte reaalne nähtus.",
+        "sourceHash": "f942fde5cd12289e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stereochemistry-and-chirality-m3"
+    }
+  ]
+}

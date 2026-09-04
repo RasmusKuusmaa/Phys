@@ -1,0 +1,10 @@
+{
+  "id": "stereochemistry-and-chirality-m1",
+  "conceptId": "stereochemistry-and-chirality",
+  "text": {
+    "en": "Believing two enantiomers of a chiral molecule must differ in at least some ordinary physical properties, such as melting point or solubility, the same way two genuinely different compounds would -- enantiomers are identical in essentially every ordinary physical property (melting point, boiling point, density, solubility, infrared and ordinary NMR spectra) because these properties depend on symmetric interactions that cannot distinguish a molecule from its mirror image; the one exception is how each enantiomer rotates plane-polarized light (equal in magnitude, opposite in direction), which is precisely why polarimetry, not ordinary physical measurement, is the classic way to distinguish and characterize them.",
+    "et": "Arvamus, et kiraalse molekuli kaks enantiomeeri peavad erinema vähemalt mõne tavalise füüsikalise omaduse poolest, nagu sulamistemperatuur või lahustuvus, samamoodi nagu teeksid kaks tõeliselt erinevat ühendit -- enantiomeerid on identsed sisuliselt igas tavalises füüsikalises omaduses (sulamistemperatuur, keemistemperatuur, tihedus, lahustuvus, infrapuna- ja tavaline TMR spekter), kuna need omadused sõltuvad sümmeetrilistest vastastikmõjudest, mis ei suuda eristada molekuli tema peegelpildist; üks erand on see, kuidas kumbki enantiomeer pöörab tasapinnaliselt polariseeritud valgust (võrdne suuruselt, vastupidine suunalt), mis ongi täpselt põhjus, miks polarimeetria, mitte tavaline füüsikaline mõõtmine, on klassikaline viis nende eristamiseks ja iseloomustamiseks.",
+    "sourceHash": "9b62c0d8422564db",
+    "stale": false
+  }
+}
