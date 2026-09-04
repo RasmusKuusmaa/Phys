@@ -1,0 +1,21 @@
+{
+  "id": "thyroid-and-parathyroid-physiology",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "endocrinology",
+  "title": {
+    "en": "Thyroid and parathyroid physiology",
+    "et": "Kilpnäärme ja kõrvalkilpnäärme füsioloogia",
+    "sourceHash": "eaafb05fa92dcc85",
+    "stale": false
+  },
+  "summary": {
+    "en": "The thyroid gland synthesizes thyroid hormone (mostly as T4, converted to the more active T3 in peripheral tissues) using iodine as an essential raw material, and sets its own output through a classic hypothalamic-pituitary negative feedback loop: TRH from the hypothalamus stimulates TSH release from the pituitary, TSH stimulates the thyroid to produce more hormone, and rising thyroid hormone levels then suppress both TRH and TSH release, closing the loop -- which is why a failing thyroid (producing too little hormone on its own) actually shows up as a high TSH level, since the pituitary is working harder than normal trying to compensate. Thyroid hormone's job is to set the body's overall metabolic rate, influencing oxygen consumption and heat production in nearly every tissue, so both too little and too much of it produce whole-body effects rather than one localized symptom. The parathyroid glands -- four small glands embedded in the thyroid's surface but functionally unrelated to it -- run a completely separate feedback loop controlling blood calcium: falling blood calcium triggers parathyroid hormone release, which raises calcium back up by increasing bone resorption, kidney calcium reabsorption, and activated vitamin D production, then shuts back off once calcium returns to its normal range.",
+    "et": "Kilpnääre sünteesib kilpnäärme hormooni (peamiselt T4-na, mis muundatakse perifeersetes kudedes aktiivsemaks T3-ks), kasutades joodi olulise toormaterjalina, ning seab oma väljundi klassikalise hüpotalamuse-hüpofüüsi negatiivse tagasiside ahela kaudu: hüpotalamuse TRH stimuleerib TSH vabanemist hüpofüüsist, TSH stimuleerib kilpnääret rohkem hormooni tootma ning tõusev kilpnäärme hormooni tase pärsib seejärel nii TRH kui TSH vabanemist, sulgedes ahela -- mistõttu alatalitlev kilpnääre (mis toodab liiga vähe hormooni omal jõul) avaldub tegelikult kõrge TSH tasemena, kuna hüpofüüs töötab tavapärasest rohkem, üritades kompenseerida. Kilpnäärme hormooni ülesanne on seada keha üldine ainevahetuse kiirus, mõjutades hapnikutarbimist ja soojatootmist peaaegu igas koes, mistõttu nii liiga vähene kui liiga suur selle kogus tekitavad kogu keha hõlmavaid mõjusid, mitte üht lokaalset sümptomit. Kõrvalkilpnäärmed -- neli väikest näärmet, mis on kilpnäärme pinnale kinnitunud, kuid funktsionaalselt sellega seotud ei ole -- käitavad täiesti eraldi tagasisideahelat, mis kontrollib vere kaltsiumisisaldust: langev vere kaltsiumitase käivitab kõrvalkilpnäärme hormooni vabanemise, mis tõstab kaltsiumi taset tagasi, suurendades luu resorptsiooni, neerude kaltsiumi reabsorptsiooni ja aktiveeritud D-vitamiini tootmist, ning lülitub seejärel välja, kui kaltsium naaseb normaalvahemikku.",
+    "sourceHash": "f9eabc5a6cf0336b",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-hypothalamic-pituitary-axis"
+  ]
+}

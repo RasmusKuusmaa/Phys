@@ -1,0 +1,56 @@
+{
+  "id": "thyroid-and-parathyroid-physiology-item1",
+  "conceptId": "thyroid-and-parathyroid-physiology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient's lab results show a high TSH level. What does this most directly suggest about their thyroid function?",
+    "et": "Patsiendi labori tulemused näitavad kõrget TSH taset. Mida see kõige otsesemalt viitab tema kilpnäärme funktsiooni kohta?",
+    "sourceHash": "da849995a5593d47",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The thyroid is likely underperforming (producing too little thyroid hormone), and the pituitary is releasing more TSH than usual in an attempt to stimulate it.",
+        "et": "Kilpnääre tõenäoliselt alatalitleb (toodab liiga vähe kilpnäärme hormooni) ning hüpofüüs vabastab tavapärasest rohkem TSH-d, üritades seda stimuleerida.",
+        "sourceHash": "24a42a53cff6ebbc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The thyroid is overactive, since TSH and thyroid hormone levels always rise and fall together.",
+        "et": "Kilpnääre on üleaktiivne, kuna TSH ja kilpnäärme hormooni tase tõusevad ja langevad alati koos.",
+        "sourceHash": "3162df42918026b7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thyroid-and-parathyroid-physiology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The parathyroid glands, not the thyroid, are the more likely source of the problem, since TSH mainly reflects calcium regulation.",
+        "et": "Kõrvalkilpnäärmed, mitte kilpnääre, on tõenäolisem probleemi allikas, kuna TSH peegeldab peamiselt kaltsiumi reguleerimist.",
+        "sourceHash": "16cbb90e7dab68ec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thyroid-and-parathyroid-physiology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This says nothing about broader body function, since thyroid hormone affects only the thyroid gland's own tissue.",
+        "et": "See ei ütle midagi laiema kehafunktsiooni kohta, kuna kilpnäärme hormoon mõjutab ainult kilpnäärme enda kude.",
+        "sourceHash": "5cdc51a24601fdd1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thyroid-and-parathyroid-physiology-m3"
+    }
+  ]
+}

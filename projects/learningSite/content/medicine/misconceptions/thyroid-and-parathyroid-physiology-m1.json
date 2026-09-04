@@ -1,0 +1,10 @@
+{
+  "id": "thyroid-and-parathyroid-physiology-m1",
+  "conceptId": "thyroid-and-parathyroid-physiology",
+  "text": {
+    "en": "A high TSH level means the thyroid itself is overactive -- in reality, a high TSH level typically means the opposite: the thyroid is underperforming (hypothyroidism), and the pituitary is releasing more TSH than usual trying to push the thyroid into producing more hormone; the negative feedback loop means TSH and thyroid hormone output move in opposite directions when the thyroid itself is the problem.",
+    "et": "Kõrge TSH tase tähendab, et kilpnääre ise on üleaktiivne -- tegelikult tähendab kõrge TSH tase tavaliselt vastupidist: kilpnääre alatalitleb (hüpotüreoos) ning hüpofüüs vabastab tavapärasest rohkem TSH-d, üritades kilpnääret rohkem hormooni tootma suunata; negatiivne tagasisideahel tähendab, et TSH ja kilpnäärme hormooni väljund liiguvad vastassuundades, kui probleem on kilpnääres endas.",
+    "sourceHash": "2a98c1dab6d9960e",
+    "stale": false
+  }
+}

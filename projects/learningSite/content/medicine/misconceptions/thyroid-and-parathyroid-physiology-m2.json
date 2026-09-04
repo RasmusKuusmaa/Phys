@@ -1,0 +1,10 @@
+{
+  "id": "thyroid-and-parathyroid-physiology-m2",
+  "conceptId": "thyroid-and-parathyroid-physiology",
+  "text": {
+    "en": "The parathyroid glands regulate the same thing as the thyroid gland, just a smaller version of it -- in reality, despite the similar name and physical location (embedded in the thyroid's surface), the parathyroid glands are functionally unrelated to the thyroid -- they regulate blood calcium via parathyroid hormone, a completely separate feedback loop from the thyroid's metabolic-rate-setting thyroid hormone system.",
+    "et": "Kõrvalkilpnäärmed reguleerivad sama asja mis kilpnääre, lihtsalt väiksemas mahus -- tegelikult, hoolimata sarnasest nimest ja füüsilisest asukohast (kinnitunud kilpnäärme pinnale), ei ole kõrvalkilpnäärmed kilpnäärmega funktsionaalselt seotud -- need reguleerivad vere kaltsiumitaset kõrvalkilpnäärme hormooni kaudu, täiesti eraldi tagasisideahel kilpnäärme ainevahetuskiirust seadvast kilpnäärme hormooni süsteemist.",
+    "sourceHash": "074d755b06350144",
+    "stale": false
+  }
+}
