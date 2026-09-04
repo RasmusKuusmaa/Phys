@@ -1,0 +1,10 @@
+{
+  "id": "hilbert-spaces-and-functional-analysis-basics-m2",
+  "conceptId": "hilbert-spaces-and-functional-analysis-basics",
+  "text": {
+    "en": "Believing completeness (the requirement that every Cauchy sequence converge to a limit within the space) is a purely technical, practically irrelevant detail that could safely be dropped from the definition of a Hilbert space without consequence -- completeness is precisely what guarantees the standard tools of linear algebra (orthogonal projections onto subspaces, convergent basis expansions, the existence of a closest-point approximation within a subspace) actually work in infinite dimensions; without it, sequences of successive approximations that ought to converge to a genuine solution can instead 'converge' toward a limit that simply is not present in the space, making completeness a load-bearing requirement rather than a dispensable technicality.",
+    "et": "Arvamus, et täielikkus (nõue, et iga Cauchy jada koonduks piirini ruumis endas) on puhtalt tehniline, praktiliselt ebaoluline detail, mille võiks Hilberti ruumi definitsioonist ohutult tagajärgedeta välja jätta -- täielikkus on täpselt see, mis garanteerib, et lineaaralgebra standardsed vahendid (ortogonaalsed projektsioonid alamruumidele, koonduvad baasi-lahutused, lähima punkti lähenduse eksisteerimine alamruumis) tegelikult töötavad lõpmatutes dimensioonides; ilma selleta võivad järjestikuste lähenduste jadad, mis peaksid koonduma tõelisele lahendile, selle asemel 'koonduda' piirini, mida ruumis lihtsalt ei ole, mis muudab täielikkuse kandva nõude, mitte loobutava tehnilise detaili.",
+    "sourceHash": "73d5d0273d6face5",
+    "stale": false
+  }
+}

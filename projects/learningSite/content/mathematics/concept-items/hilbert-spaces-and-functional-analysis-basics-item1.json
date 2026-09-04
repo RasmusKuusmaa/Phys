@@ -1,0 +1,56 @@
+{
+  "id": "hilbert-spaces-and-functional-analysis-basics-item1",
+  "conceptId": "hilbert-spaces-and-functional-analysis-basics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An infinite-dimensional vector space is equipped with a valid inner product, but some of its Cauchy sequences converge toward limits that are not actually elements of the space. What does this mean for whether the space qualifies as a Hilbert space?",
+    "et": "Lõpmatumõõtmeline vektorruum on varustatud kehtiva siseskalaarkorrutisega, kuid mõned selle Cauchy jadad koonduvad piiride poole, mis ei ole tegelikult ruumi elemendid. Mida see tähendab selle kohta, kas ruum kvalifitseerub Hilberti ruumiks?",
+    "sourceHash": "d783e92cc4e47839",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It does not qualify -- it is only a pre-Hilbert space, since a genuine Hilbert space specifically requires completeness, that every Cauchy sequence's limit actually lie within the space.",
+        "et": "See ei kvalifitseeru -- see on ainult eel-Hilberti ruum, kuna tõeline Hilberti ruum nõuab spetsiifiliselt täielikkust, et iga Cauchy jada piir tõesti asuks ruumi sees.",
+        "sourceHash": "a904d4684df9dbc0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It still fully qualifies as a Hilbert space, since having a valid inner product is the only requirement, regardless of whether Cauchy sequences converge within the space.",
+        "et": "See kvalifitseerub siiski täielikult Hilberti ruumiks, kuna kehtiv siseskalaarkorrutis on ainuke nõue, olenemata sellest, kas Cauchy jadad koonduvad ruumi sees.",
+        "sourceHash": "c109cb4d8a14537b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hilbert-spaces-and-functional-analysis-basics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This missing-limit issue is a purely technical detail with no real consequence for whether the space's standard linear-algebra tools (projections, basis expansions) actually work.",
+        "et": "See puuduva piiri probleem on puhtalt tehniline detail ilma tegeliku tagajärjeta selle jaoks, kas ruumi standardsed lineaaralgebra vahendid (projektsioonid, baasi-lahutused) tegelikult töötavad.",
+        "sourceHash": "d10711c8af6ebfca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hilbert-spaces-and-functional-analysis-basics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This makes the space fundamentally incomparable to finite-dimensional vector spaces, requiring an entirely separate mathematical toolkit regardless of completeness.",
+        "et": "See muudab ruumi fundamentaalselt võrreldamatuks lõplikumõõtmeliste vektorruumidega, nõudes täiesti eraldi matemaatilist tööriistakomplekti olenemata täielikkusest.",
+        "sourceHash": "633857b175d88c99",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hilbert-spaces-and-functional-analysis-basics-m3"
+    }
+  ]
+}

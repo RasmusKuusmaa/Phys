@@ -1,0 +1,10 @@
+{
+  "id": "hilbert-spaces-and-functional-analysis-basics-m3",
+  "conceptId": "hilbert-spaces-and-functional-analysis-basics",
+  "text": {
+    "en": "Believing the infinite-dimensional Hilbert space used to describe quantum-mechanical wavefunctions is a fundamentally different mathematical object from the finite-dimensional vector spaces studied in ordinary linear algebra, requiring an entirely separate toolkit -- a Hilbert space is specifically the natural extension of the exact same inner-product-space structure (with its dot product, orthogonality, and Pythagorean-style geometry) to infinitely many dimensions, and once completeness is secured, the same conceptual toolkit -- orthonormal bases, projections, expansions of a vector in terms of a basis -- carries over essentially unchanged, which is precisely why quantum mechanics can borrow ordinary linear-algebra intuition (eigenvectors, orthogonal decomposition) directly rather than needing a wholly separate mathematical framework.",
+    "et": "Arvamus, et lõpmatumõõtmeline Hilberti ruum, mida kasutatakse kvantmehaaniliste lainefunktsioonide kirjeldamiseks, on fundamentaalselt erinev matemaatiline objekt tavalises lineaaralgebras uuritud lõplikumõõtmelistest vektorruumidest, nõudes täiesti eraldi tööriistakomplekti -- Hilberti ruum on spetsiifiliselt täpselt sama siseskalaarkorrutise-ruumi struktuuri (koos selle skalaarkorrutise, ortogonaalsuse ja Pythagorase-taolise geomeetriaga) loomulik laiendus lõpmatult paljudele dimensioonidele, ning kord kui täielikkus on tagatud, kandub sama kontseptuaalne tööriistakomplekt -- ortonormaalsed baasid, projektsioonid, vektori lahutamine baasi mõistes -- üle sisuliselt muutumatult, mis ongi täpselt põhjus, miks kvantmehaanika saab laenata tavalist lineaaralgebra intuitsiooni (omavektorid, ortogonaalne lahutus) otse, selle asemel et vajada täiesti eraldi matemaatilist raamistikku.",
+    "sourceHash": "f10fbf24a10be3d3",
+    "stale": false
+  }
+}

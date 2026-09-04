@@ -1,0 +1,10 @@
+{
+  "id": "hilbert-spaces-and-functional-analysis-basics-m1",
+  "conceptId": "hilbert-spaces-and-functional-analysis-basics",
+  "text": {
+    "en": "Believing every infinite-dimensional vector space equipped with an inner product automatically qualifies as a Hilbert space -- an inner product alone is not sufficient; a Hilbert space specifically requires the additional technical property of completeness (every Cauchy sequence converges to a limit within the space itself), and an inner product space that fails this completeness condition is only a 'pre-Hilbert space,' missing limit points that genuinely belong to its own natural completion, a distinction that matters enormously for whether the space's structure actually supports the standard machinery of basis expansions and orthogonal projections.",
+    "et": "Arvamus, et iga lõpmatumõõtmeline vektorruum, mis on varustatud siseskalaarkorrutisega, kvalifitseerub automaatselt Hilberti ruumiks -- siseskalaarkorrutisest üksi ei piisa; Hilberti ruum nõuab spetsiifiliselt täiendavat tehnilist omadust, täielikkust (iga Cauchy jada koondub piirini ruumis endas), ning siseskalaarkorrutisruum, mis ei rahulda seda täielikkuse tingimust, on ainult 'eel-Hilberti ruum', millel puuduvad piirpunktid, mis tõeliselt kuuluvad selle enda loomulikku täiendisse, eristus, mis on tohutult oluline selle jaoks, kas ruumi struktuur tegelikult toetab baasi-lahutuste ja ortogonaalsete projektsioonide standardset masinavärki.",
+    "sourceHash": "e886d6c3a0548df6",
+    "stale": false
+  }
+}

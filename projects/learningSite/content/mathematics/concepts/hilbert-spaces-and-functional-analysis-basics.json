@@ -1,0 +1,22 @@
+{
+  "id": "hilbert-spaces-and-functional-analysis-basics",
+  "subject": "mathematics",
+  "level": "L4",
+  "module": "linear-algebra",
+  "title": {
+    "en": "Hilbert spaces and functional analysis basics",
+    "et": "Hilberti ruumid ja funktsionaalanalüüsi alused",
+    "sourceHash": "25602f5989de0d25",
+    "stale": false
+  },
+  "summary": {
+    "en": "Ordinary finite-dimensional vector spaces, equipped with a dot product, a notion of length, and the Pythagorean-style geometry that comes with them, generalize perfectly well to spaces with infinitely many dimensions -- as long as one additional technical condition, completeness, holds: every sequence whose terms bunch closer and closer together (a Cauchy sequence) must actually converge to a limit that lives inside the space itself, rather than sequences seeming to converge yet pointing to a limit missing from the space; a Hilbert space is exactly an infinite-dimensional vector space with an inner product that also satisfies this completeness condition, and it is precisely this technical property, easy to take for granted in finite dimensions where it holds automatically, that makes the space of quantum-mechanical wavefunctions well-behaved enough to support the same orthogonality, projection, and basis-expansion machinery finite-dimensional linear algebra relies on, extended now to infinitely many dimensions.",
+    "et": "Tavalised lõplikumõõtmelised vektorruumid, varustatud skalaarkorrutise, pikkuse mõiste ja Pythagorase-taolise geomeetriaga, mis nendega kaasneb, üldistuvad täiesti hästi lõpmatu paljude dimensioonidega ruumidele -- niikaua kui üks täiendav tehniline tingimus, täielikkus, kehtib: iga jada, mille liikmed koonduvad üha lähemale üksteisele (Cauchy jada), peab tegelikult koonduma piirväärtuseni, mis elab ruumis endas, selle asemel et jadad näiksid koonduvat, kuid osutaksid ruumist puuduvale piirile; Hilberti ruum on täpselt lõpmatumõõtmeline vektorruum siseskalaarkorrutisega, mis rahuldab ka seda täielikkuse tingimust, ning just see tehniline omadus, mida on lihtne pidada enesestmõistetavaks lõplikes dimensioonides, kus see kehtib automaatselt, teeb ruumi kvantmehaanilistest lainefunktsioonidest piisavalt hästikäituva, et see toetaks sama ortogonaalsuse, projektsiooni ja baasi-lahutuse masinavärki, millele tugineb lõplikumõõtmeline lineaaralgebra, laiendatuna nüüd lõpmatult paljudele dimensioonidele.",
+    "sourceHash": "b4f26f26515a5810",
+    "stale": false
+  },
+  "prerequisites": [
+    "vector-spaces",
+    "metric-spaces-and-topology-basics"
+  ]
+}
