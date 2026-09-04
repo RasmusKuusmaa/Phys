@@ -149,38 +149,79 @@ concept foundational baseline to taught-MSc depth. Each concept below
 genuinely extends an existing GE1/GE2 concept's depth rather than restating
 it.
 
-- [ ] Finite element analysis fundamentals (mesh discretisation, stiffness-
+- [x] Finite element analysis fundamentals (mesh discretisation, stiffness-
       matrix assembly at a conceptual level, convergence and mesh
       refinement — depth beyond the existing mechanics-of-materials
       concept's closed-form stress/strain treatment; distinct from
       materials-science's computational-materials-science, which covers
       atomistic/phase-field materials modelling, not structural-engineering
       FEA workflow, and cannot be a cross-subject prerequisite anyway;
-      prerequisite: mechanics-of-materials)
-- [ ] Advanced thermodynamic cycles and exergy analysis (combined Brayton-
+      prerequisite: mechanics-of-materials; kept conceptual — the mesh/
+      convergence idea is procedural, not one clean numeric relationship)
+- [x] Advanced thermodynamic cycles and exergy analysis (combined Brayton-
       Rankine cycles, cogeneration, exergy/availability analysis — depth
       beyond the existing engineering-thermodynamics-and-power-cycles
       concept's single-cycle efficiency treatment; prerequisite:
-      engineering-thermodynamics-and-power-cycles)
-- [ ] Mechanical vibrations and rotating machinery (natural frequency of
+      engineering-thermodynamics-and-power-cycles; formalised the combined-
+      cycle efficiency relationship, η_c = η_t + η_b(1−η_t), as a formula +
+      problem template + error model)
+- [x] Mechanical vibrations and rotating machinery (natural frequency of
       machine elements, critical speed, rotor balancing, vibration
       isolation design — GE2 deliberately dropped an intro-level
       "mechanical vibrations" concept as redundant with physics's existing
       damped/coupled/driven-oscillator concepts; this is the genuinely
       distinct graduate-level applied-engineering angle those don't cover —
       rotating-machinery design, not oscillator derivations; prerequisite:
-      kinematics-and-dynamics-of-mechanisms)
-- [ ] Reliability engineering and systems safety (mean time between
+      kinematics-and-dynamics-of-mechanisms; formalised the single-DOF
+      natural-frequency relationship, f_n = (1/2π)√(k/m), as a formula +
+      problem template + error model — needed no new glossary terms,
+      reusing the existing frequency/stiffness/mass entries)
+- [x] Reliability engineering and systems safety (mean time between
       failures, reliability block diagrams, redundancy — the quantitative
       extension of the existing engineering-design-process concept's
-      qualitative FMEA treatment; prerequisite: engineering-design-process)
-- [ ] Robotics and mechatronics fundamentals (actuators and sensors, robot
+      qualitative FMEA treatment; prerequisite: engineering-design-process;
+      formalised the series-system reliability relationship,
+      R_sys = R1·R2, as a formula + problem template + error model; added
+      one new glossary term, "reliability" → "töökindlus")
+- [x] Robotics and mechatronics fundamentals (actuators and sensors, robot
       forward/inverse kinematics — ties together control-systems-and-
       feedback and kinematics-and-dynamics-of-mechanisms as a named
       standard topic in its own right; prerequisites:
-      control-systems-and-feedback, kinematics-and-dynamics-of-mechanisms)
+      control-systems-and-feedback, kinematics-and-dynamics-of-mechanisms;
+      kept conceptual)
 
-Phase GE2 complete: 11 general-engineering concepts total. Added 9 new
+Phase GE3 complete: 16 general-engineering concepts total (5 new Phase-GE3
+concepts on top of the 11-concept Phase GE1+GE2 baseline). `npm run
+validate:content` (7 subjects, 503 concepts — the aerospace-engineering
+sibling Phase AE3 landed concurrently), `npm run lint:terminology` (250
+glossary terms — only "reliability" was newly needed this phase, since the
+vibrations formula reused frequency/stiffness/mass and the exergy formula
+reused thermal-efficiency), and `npm run typecheck` all pass; every one of
+this phase's 10 resource URLs individually curl-verified live. Two ET
+resources are honestly-adjacent rather than topic-exact matches, since
+Estonian Wikipedia has no dedicated article for the English term: the
+exergy concept links to "Soojusjõujaam" (thermal power plant, covering the
+combined-cycle half of the concept) instead of a nonexistent "Eksergia"
+article, and the vibrations concept links to the general "Vibratsioon"
+article rather than a nonexistent dedicated critical-speed one.
+
+My own read after authoring this phase: general-engineering (16 concepts —
+statics, mechanics of materials, thermodynamics/power cycles, fluid
+mechanics, manufacturing, design process, control systems, mechanisms,
+economics, heat exchangers, quality control, FEA, advanced thermo/exergy,
+vibrations/rotating machinery, reliability engineering, robotics/
+mechatronics) reads as comprehensive at the same taught-MSc/early-PhD depth
+target the other subjects were judged at — every core engineering-science
+strand (solid mechanics, thermo-fluids, controls, manufacturing, design/
+safety practice) now has both a foundational and a graduate-depth concept.
+One genuine gap I noticed while writing this phase but did not add, since it
+wasn't in scope: nothing in the subject (or elsewhere on the site) covers
+engineering materials selection/testing standards (e.g. ASTM/ISO test
+methods) as its own topic — materials-science's own materials-selection-
+and-design concept is adjacent but framed around Ashby-chart tradeoffs, not
+standards/testing practice. Worth a look if another pass happens.
+
+Added 9 new
 glossary terms this phase needed (proportional gain, controller output, net
 present value, cash flow, initial investment, discount rate, number of
 periods, temperature difference, log-mean temperature difference) — none had
