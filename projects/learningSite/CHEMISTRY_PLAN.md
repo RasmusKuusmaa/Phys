@@ -59,23 +59,26 @@ Analogous to the physics MSc phase: existing chemistry content caps out at
 bachelor level (L1-L3) with zero L4 concepts anywhere. Picking genuine
 graduate-level gaps per subfield, same method as the physics MSc phase.
 
-- [ ] Quantum chemistry: the Hartree-Fock method and beyond (ab initio
+- [x] Quantum chemistry: the Hartree-Fock method and beyond (ab initio
       electronic structure theory, building on the existing
       molecular-orbital-theory-and-hybridisation concept)
-- [ ] Density functional theory (the practical workhorse of modern
+- [x] Density functional theory (the practical workhorse of modern
       computational chemistry, distinct from wavefunction-based
       Hartree-Fock)
-- [ ] Statistical thermodynamics and molecular partition functions
-      (bridging physical chemistry to the physics statistical-mechanics
-      module's partition-function machinery, applied specifically to
-      molecular translational/rotational/vibrational degrees of freedom)
-- [ ] Ligand field theory (the quantum-mechanical successor to the
+- [x] Statistical thermodynamics and molecular partition functions —
+      note: could not use a physics-subject prerequisite (cross-subject
+      prerequisites don't validate, confirmed again this phase), so this
+      uses only chemistry-subject prerequisites
+- [x] Ligand field theory (the quantum-mechanical successor to the
       existing transition-metals-and-coordination-compounds concept's
       crystal-field-level treatment)
-- [ ] Pericyclic reactions and the Woodward-Hoffmann rules (a major
+- [x] Pericyclic reactions and the Woodward-Hoffmann rules (a major
       organic-chemistry topic — orbital-symmetry control of reactions like
       the Diels-Alder — entirely absent from the existing mechanism-focused
       organic concepts)
+
+Phase C2 complete: 42 chemistry concepts (5 new L4 concepts on top of the
+37-concept Phase C1 baseline).
 
 ## Phase C3 — biochemistry (new module, currently zero concepts)
 
