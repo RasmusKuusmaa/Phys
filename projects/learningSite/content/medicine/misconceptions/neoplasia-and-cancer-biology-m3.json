@@ -1,0 +1,10 @@
+{
+  "id": "neoplasia-and-cancer-biology-m3",
+  "conceptId": "neoplasia-and-cancer-biology",
+  "text": {
+    "en": "Oncogenes and tumor suppressor genes are just two names for the same kind of cancer-causing gene -- in reality, they have opposite normal functions and require opposite kinds of mutation to contribute to cancer -- an oncogene is an overactive, 'stuck-on' version of a gene that normally promotes growth (a gain-of-function change), while a tumor suppressor gene normally restrains growth or triggers apoptosis, and cancer requires it to be inactivated or lost (a loss-of-function change), typically in both copies.",
+    "et": "Onkogeenid ja kasvajasupressorgeenid on lihtsalt kaks nime samasugusele vähki põhjustavale geenile -- tegelikult on neil vastupidised normaalsed funktsioonid ning need nõuavad vähki panustamiseks vastupidist tüüpi mutatsiooni -- onkogeen on ülemäära aktiivne, 'kinni sees' versioon geenist, mis normaalselt soodustab kasvu (funktsiooni omandav muutus), samas kui kasvajasupressorgeen normaalselt piirab kasvu või käivitab apoptoosi, ning vähk nõuab selle inaktiveerimist või kadumist (funktsiooni kaotav muutus), tüüpiliselt mõlemas koopias.",
+    "sourceHash": "70ac9f664a6960d0",
+    "stale": false
+  }
+}

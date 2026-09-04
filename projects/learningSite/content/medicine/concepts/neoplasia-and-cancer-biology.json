@@ -1,0 +1,21 @@
+{
+  "id": "neoplasia-and-cancer-biology",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "general-pathology",
+  "title": {
+    "en": "Neoplasia and cancer biology",
+    "et": "Neoplaasia ja vähibioloogia",
+    "sourceHash": "d0380b169c595b6c",
+    "stale": false
+  },
+  "summary": {
+    "en": "A neoplasm (\"new growth\") is a mass of cells that has escaped the normal controls governing cell division, and pathology's first, most consequential distinction is between benign and malignant: a benign neoplasm grows slowly, stays confined to one location behind a defined boundary, and closely resembles its tissue of origin, while a malignant neoplasm (cancer) grows more erratically, invades surrounding tissue rather than staying confined, and -- the single most important and clinically dangerous capability -- can metastasize, spreading to establish new tumors at distant sites via the bloodstream or lymphatic system. Malignant transformation is not one single event but the accumulation of several independent capabilities a cell has to acquire, often summarized as the hallmarks of cancer: sustaining its own proliferation signals rather than waiting for external growth cues, becoming insensitive to the normal signals that would otherwise stop it dividing, evading the programmed cell death (apoptosis) that would otherwise eliminate a damaged cell, achieving replicative immortality by bypassing the normal limit on how many times a cell can divide, and eventually acquiring the ability to invade and metastasize. At the genetic level, this accumulation of capabilities is driven by mutations in two broad classes of genes with opposite normal roles: oncogenes are mutated or overactive versions of normally helpful genes that promote cell growth (proto-oncogenes), now stuck in an \"always on\" state that drives proliferation regardless of the signals a normal cell would require; tumor suppressor genes normally act as brakes on the cell cycle or trigger apoptosis when damage is detected, and cancer typically requires both copies of a given tumor suppressor gene to be inactivated before its braking function is lost entirely.",
+    "et": "Neoplasm (\"uus kasv\") on rakumass, mis on pääsenud rakujagunemist juhtivate normaalsete kontrollide alt, ning patoloogia esimene ja kõige olulisem eristus on healoomulise ja pahaloomulise vahel: healoomuline neoplasm kasvab aeglaselt, jääb piiratuks ühte asukohta selgelt piiritletud piiri taha ning sarnaneb tugevalt oma lähtekoega, samas kui pahaloomuline neoplasm (vähk) kasvab ebakorrapärasemalt, tungib ümbritsevasse koesse, selle asemel et jääda piiratuks, ning -- kõige olulisem ja kliiniliselt ohtlikum võime -- võib metastaseeruda, levides ja rajades uusi kasvajaid kaugetes kohtades vereringe või lümfisüsteemi kaudu. Pahaloomuline transformatsioon ei ole üksik sündmus, vaid mitme sõltumatu võime kuhjumine, mille rakk peab omandama, sageli kokku võetud kui vähi tunnusjooned: oma proliferatsioonisignaalide säilitamine ilma väliste kasvusignaalideta, muutumine tundetuks normaalsete signaalide suhtes, mis muidu peataksid selle jagunemise, programmeeritud rakusurma (apoptoosi) vältimine, mis muidu eemaldaks kahjustatud raku, replikatiivse surematuse saavutamine, mööda minnes normaalsest piirangust, mitu korda rakk saab jaguneda, ning lõpuks võime omandamine tungida ja metastaseeruda. Geneetilisel tasandil on selle võimete kuhjumise taga mutatsioonid kahes laias geeniklassis, millel on vastupidised normaalsed rollid: onkogeenid on mutatsioonilised või ülemäära aktiivsed versioonid normaalselt kasulikest geenidest, mis soodustavad rakukasvu (protoonkogeenid), nüüd kinni \"alati sees\" olekus, mis käivitab proliferatsiooni sõltumata signaalidest, mida normaalne rakk vajaks; kasvajasupressorgeenid toimivad tavaliselt rakutsükli pidurina või käivitavad apoptoosi kahjustuse tuvastamisel, ning vähk nõuab tüüpiliselt, et mõlemad antud kasvajasupressorgeeni koopiad oleksid inaktiveeritud, enne kui selle pidurdusfunktsioon täielikult kaob.",
+    "sourceHash": "0d7cf6b739a7dea8",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-cell-cycle-and-mitosis"
+  ]
+}

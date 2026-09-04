@@ -1,0 +1,56 @@
+{
+  "id": "neoplasia-and-cancer-biology-item1",
+  "conceptId": "neoplasia-and-cancer-biology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A cell has a single mutation in a proto-oncogene, turning it into an active oncogene that drives continuous proliferation signaling. Is this single mutation, by itself, generally sufficient to produce a fully malignant, invasive, metastasizing cancer?",
+    "et": "Rakul on üksik mutatsioon protoonkogeenis, mis muudab selle aktiivseks onkogeeniks, mis käivitab pideva proliferatsioonisignaali. Kas see üksik mutatsioon on iseenesest üldiselt piisav, et tekitada täielikult pahaloomuline, invasiivne, metastaseeruv vähk?",
+    "sourceHash": "16fc9da73ae83fb8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "No -- malignant transformation requires the accumulation of multiple independent capabilities (the hallmarks of cancer, including evading apoptosis, achieving replicative immortality, and eventually invasion/metastasis), which typically requires several separate mutations acquired over time, not just one.",
+        "et": "Ei -- pahaloomuline transformatsioon nõuab mitme sõltumatu võime kuhjumist (vähi tunnusjooned, sealhulgas apoptoosi vältimine, replikatiivse surematuse saavutamine ning lõpuks invasioon/metastaseerumine), mis nõuab tüüpiliselt mitut eraldiseisvat mutatsiooni, mis omandatakse aja jooksul, mitte ainult ühte.",
+        "sourceHash": "38a9e6ab5a92e403",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes -- a single oncogene mutation is sufficient on its own to produce a fully malignant, metastasizing tumor, which is why cancer can appear immediately after any one mutagenic exposure.",
+        "et": "Jah -- üksik onkogeeni mutatsioon on iseenesest piisav, et tekitada täielikult pahaloomuline, metastaseeruv kasvaja, mistõttu vähk võib ilmneda kohe pärast igasugust mutageenset kokkupuudet.",
+        "sourceHash": "4ee2bc13cd5b841c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neoplasia-and-cancer-biology-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The question doesn't apply, since any abnormal cell growth caused by a mutation is already cancer by definition, whether or not it invades or metastasizes.",
+        "et": "Küsimus ei kehti, kuna igasugune mutatsioonist põhjustatud ebanormaalne rakukasv on definitsiooni järgi juba vähk, olenemata sellest, kas see tungib või metastaseerub.",
+        "sourceHash": "ddee3d451b48ece0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neoplasia-and-cancer-biology-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends only on whether the mutated gene is technically classified as an oncogene versus a tumor suppressor gene, since both types independently guarantee malignancy once mutated even once.",
+        "et": "See sõltub ainult sellest, kas mutatsiooniga geen on tehniliselt liigitatud onkogeeniks või kasvajasupressorgeeniks, kuna mõlemad tüübid tagavad iseseisvalt pahaloomulisuse isegi ühe mutatsiooni korral.",
+        "sourceHash": "7931a43069f7dd0d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neoplasia-and-cancer-biology-m3"
+    }
+  ]
+}
