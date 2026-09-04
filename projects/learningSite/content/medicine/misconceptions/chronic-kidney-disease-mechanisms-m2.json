@@ -1,0 +1,10 @@
+{
+  "id": "chronic-kidney-disease-mechanisms-m2",
+  "conceptId": "chronic-kidney-disease-mechanisms",
+  "text": {
+    "en": "When some nephrons stop functioning, the remaining nephrons simply carry a proportionally larger share of the workload without any change to their own individual function -- in reality, surviving nephrons undergo compensatory hyperfiltration, actively increasing their own individual filtration rate beyond normal to help make up for lost nephrons, and it is specifically this elevated rate, not merely a passive redistribution of load, that damages the surviving nephrons over time.",
+    "et": "Kui osa nefronitest lakkab funktsioneerimast, kannavad allesjäänud nefronid lihtsalt proportsionaalselt suuremat osa koormusest, ilma et nende endi individuaalne funktsioon muutuks -- tegelikult läbivad allesjäänud nefronid kompensatoorse hüperfiltratsiooni, suurendades aktiivselt oma individuaalset filtratsioonikiirust üle normaalse, et aidata kompenseerida kaotatud nefroneid, ning just see kõrgenenud kiirus, mitte lihtsalt passiivne koormuse ümberjaotus, kahjustab aja jooksul allesjäänud nefroneid.",
+    "sourceHash": "6985ea39fa7695c1",
+    "stale": false
+  }
+}

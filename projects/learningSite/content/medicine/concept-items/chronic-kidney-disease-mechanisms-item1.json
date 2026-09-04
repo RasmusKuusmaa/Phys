@@ -1,0 +1,56 @@
+{
+  "id": "chronic-kidney-disease-mechanisms-item1",
+  "conceptId": "chronic-kidney-disease-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can chronic kidney disease continue progressing even after the diabetes or hypertension that originally caused it has been brought under excellent control?",
+    "et": "Miks võib krooniline neeruhaigus jätkata progresseerumist isegi pärast seda, kui seda algselt põhjustanud diabeet või hüpertensioon on saadud suurepärase kontrolli alla?",
+    "sourceHash": "7cfb09c3af5bcedd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Surviving nephrons undergo compensatory hyperfiltration, which is itself damaging to those nephrons and creates a self-perpetuating cycle of further nephron loss, independent of whether the original cause is still active.",
+        "et": "Allesjäänud nefronid läbivad kompensatoorse hüperfiltratsiooni, mis on ise nendele nefronitele kahjulik ja tekitab edasise nefronite kaotuse iseennast ülal pidava tsükli, sõltumatult sellest, kas algne põhjus on veel aktiivne.",
+        "sourceHash": "a1a4d1de1c3e69ef",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This shouldn't happen — chronic kidney disease should always stop progressing once its original cause is fully controlled.",
+        "et": "See ei peaks juhtuma -- krooniline neeruhaigus peaks alati lakkama progresseerumast, kui selle algne põhjus on täielikult kontrolli all.",
+        "sourceHash": "117a8e41f1b0818f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chronic-kidney-disease-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The remaining nephrons simply carry more of the same workload without any change to their own individual function, so continued progression must come from an unrelated new cause.",
+        "et": "Allesjäänud nefronid kannavad lihtsalt rohkem sama koormust, ilma et nende endi individuaalne funktsioon muutuks, mistõttu jätkuv progresseerumine peab tulenema seostamata uuest põhjusest.",
+        "sourceHash": "bfce9478542b506d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chronic-kidney-disease-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This scenario is inconsistent, since chronic kidney disease always produces noticeable symptoms early enough to catch and fully stop progression before it reaches this point.",
+        "et": "See stsenaarium on ebajärjekindel, kuna krooniline neeruhaigus tekitab alati piisavalt varakult märgatavaid sümptomeid, et progresseerumine sellesse punkti jõudmise eest kinni püüda ja täielikult peatada.",
+        "sourceHash": "c2a87dcaa9e33b5d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "chronic-kidney-disease-mechanisms-m3"
+    }
+  ]
+}

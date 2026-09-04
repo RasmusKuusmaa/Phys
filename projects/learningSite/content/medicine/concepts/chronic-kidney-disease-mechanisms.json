@@ -1,0 +1,21 @@
+{
+  "id": "chronic-kidney-disease-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "renal-and-urologic-medicine",
+  "title": {
+    "en": "Chronic kidney disease mechanisms",
+    "et": "Kroonilise neeruhaiguse mehhanismid",
+    "sourceHash": "529e272863b0b598",
+    "stale": false
+  },
+  "summary": {
+    "en": "Chronic kidney disease begins with progressive, irreversible loss of functioning nephrons from any of several long-term causes -- diabetes and hypertension being the two most common -- but what makes the disease progressive even after its original cause is addressed is a self-perpetuating mechanism built into how the remaining nephrons respond to that loss. When a fraction of a kidney's nephrons stop functioning, the surviving nephrons do not simply carry a proportionally larger share of the workload passively; they undergo compensatory hyperfiltration, increasing their individual filtration rate to help make up for the nephrons that were lost. This compensation initially preserves overall kidney function remarkably well, which is exactly why chronic kidney disease can progress silently for years with few or no symptoms while nephrons continue being lost in the background. The problem is that hyperfiltration itself is damaging to the very nephrons performing it: the elevated pressure and flow that compensation requires gradually injures those surviving nephrons, causing them to fail too, which forces the remaining nephrons to hyperfiltrate even harder, in a self-perpetuating cycle that continues accelerating nephron loss even if the original cause of the disease has been fully controlled -- which is precisely why chronic kidney disease so often continues progressing after the diabetes or hypertension that started it has been brought under control.",
+    "et": "Krooniline neeruhaigus algab progresseeruva, pöördumatu funktsioneerivate nefronite kaotusega mitmest pikaajalisest põhjusest -- diabeet ja hüpertensioon on kaks kõige levinumat --, kuid see, mis muudab haiguse progresseeruvaks isegi pärast selle algse põhjuse käsitlemist, on iseennast ülal pidav mehhanism, mis on sisse ehitatud sellesse, kuidas allesjäänud nefronid sellele kaotusele reageerivad. Kui osa neeru nefronitest lakkab funktsioneerimast, ei kanna allesjäänud nefronid lihtsalt passiivselt proportsionaalselt suuremat koormust; need läbivad kompensatoorse hüperfiltratsiooni, suurendades oma individuaalset filtratsioonikiirust, et aidata kompenseerida kaotatud nefroneid. See kompensatsioon säilitab algselt üldist neerufunktsiooni märkimisväärselt hästi, mis ongi täpselt põhjus, miks krooniline neeruhaigus võib progresseeruda vaikselt aastate jooksul vähese või olematu sümptomaatikaga, samal ajal kui nefroneid jätkatakse taustal kaotamas. Probleem on selles, et hüperfiltratsioon ise on kahjulik just neile nefronitele, mis seda teostavad: kõrgenenud rõhk ja vool, mida kompensatsioon nõuab, kahjustab järk-järgult neid allesjäänud nefroneid, põhjustades ka nende ebaõnnestumise, mis sunnib allesjäänud nefroneid veel kõvemini hüperfiltreerima, iseennast ülal pidavas tsüklis, mis jätkab nefronite kaotuse kiirendamist isegi siis, kui haiguse algne põhjus on täielikult kontrolli all -- mis ongi täpselt põhjus, miks krooniline neeruhaigus nii sageli jätkab progresseerumist pärast seda, kui seda algatanud diabeet või hüpertensioon on kontrolli alla saadud.",
+    "sourceHash": "23c4c2d1eb3defad",
+    "stale": false
+  },
+  "prerequisites": [
+    "renal-and-urinary-system-anatomy-and-physiology"
+  ]
+}

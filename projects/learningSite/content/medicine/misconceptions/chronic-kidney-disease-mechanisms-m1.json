@@ -1,0 +1,10 @@
+{
+  "id": "chronic-kidney-disease-mechanisms-m1",
+  "conceptId": "chronic-kidney-disease-mechanisms",
+  "text": {
+    "en": "Chronic kidney disease should stop progressing once its original cause (diabetes, hypertension) is brought under control -- in reality, the surviving nephrons' compensatory hyperfiltration is itself damaging, creating a self-perpetuating cycle of nephron loss that can continue accelerating even after the original cause is fully controlled; the compensatory mechanism, not just the original disease, drives ongoing progression.",
+    "et": "Krooniline neeruhaigus peaks lakkama progresseerumast, kui selle algne põhjus (diabeet, hüpertensioon) saadakse kontrolli alla -- tegelikult on allesjäänud nefronite kompensatoorne hüperfiltratsioon ise kahjulik, tekitades nefronite kaotuse iseennast ülal pidava tsükli, mis võib jätkata kiirenemist isegi pärast seda, kui algne põhjus on täielikult kontrolli all; kompensatoorne mehhanism, mitte ainult algne haigus, veab edasist progresseerumist.",
+    "sourceHash": "85014b83cd74be59",
+    "stale": false
+  }
+}
