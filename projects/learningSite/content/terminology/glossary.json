@@ -210,6 +210,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/kompressioonaste/1/est"
   },
   {
+    "id": "concentration",
+    "en": "concentration",
+    "et": "kontsentratsioon",
+    "domain": "pharmacology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kontsentratsioon/1/est"
+  },
+  {
     "id": "conductivity",
     "en": "conductivity",
     "et": "erijuhtivus",
@@ -712,6 +719,20 @@
     "et": "päratu integraal",
     "domain": "mathematics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/integraal/1/est"
+  },
+  {
+    "id": "incidence-in-exposed-group",
+    "en": "incidence in exposed group",
+    "et": "esinemissagedus eksponeeritud rühmas",
+    "domain": "epidemiology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/esinemissagedus/1/est"
+  },
+  {
+    "id": "incidence-in-unexposed-group",
+    "en": "incidence in unexposed group",
+    "et": "esinemissagedus eksponeerimata rühmas",
+    "domain": "epidemiology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/esinemissagedus/1/est"
   },
   {
     "id": "inductance",
@@ -1342,6 +1363,13 @@
     "et": "murdumisnäitaja",
     "domain": "optics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/murdumisnäitaja/1/est"
+  },
+  {
+    "id": "relative-risk",
+    "en": "relative risk",
+    "et": "suhteline risk",
+    "domain": "epidemiology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/suhteline%20risk/1/est"
   },
   {
     "id": "relativistic-momentum",
