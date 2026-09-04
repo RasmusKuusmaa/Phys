@@ -1,0 +1,22 @@
+{
+  "id": "markov-chain-monte-carlo-methods",
+  "subject": "mathematics",
+  "level": "L4",
+  "module": "probability-and-statistics",
+  "title": {
+    "en": "Markov chain Monte Carlo methods",
+    "et": "Markovi ahela Monte Carlo meetodid",
+    "sourceHash": "1f20209495a8bffc",
+    "stale": false
+  },
+  "summary": {
+    "en": "Bayesian inference's posterior distribution has a clean formula only in special cases; for most realistic models it is a complicated, high-dimensional distribution with no closed form and no direct way to draw samples from it, and Markov chain Monte Carlo methods solve this by constructing a specifically engineered random walk -- a Markov chain, whose next state depends only on the current one -- designed so that, after it runs long enough to forget its arbitrary starting point, the states it visits are distributed exactly according to the target posterior, letting the chain's visited states stand in as genuine samples from a distribution that could never be written down or sampled from directly, with the two most widely used constructions, the Metropolis-Hastings algorithm (propose a random move, then accept or reject it with a probability that guarantees the right long-run distribution) and Gibbs sampling (update one variable at a time, each drawn from its own conditional distribution given all the others), providing two different concrete recipes for building a chain with exactly this convergence property.",
+    "et": "Bayesi järeldamise posterioorsel jaotusel on puhas valem ainult erijuhtudel; enamiku realistlike mudelite jaoks on see keeruline, kõrgedimensiooniline jaotus ilma kinnise kujuta ja ilma otsese viisita sellest valimeid võtta, ning Markovi ahela Monte Carlo meetodid lahendavad selle, konstrueerides spetsiifiliselt kavandatud juhusliku teekonna -- Markovi ahela, mille järgmine olek sõltub ainult praegusest --, mis on kavandatud nii, et pärast piisavalt pikka jooksmist, unustamaks oma suvalise alguspunkti, on külastatud olekud jaotunud täpselt vastavalt sihtmärgi posterioorsele jaotusele, lubades ahela külastatud olekutel seista tõeliste valimitena jaotusest, mida ei saanud kunagi üles kirjutada ega otse valimeid võtta, kusjuures kaks kõige laialdasemalt kasutatud konstruktsiooni, Metropolis-Hastingsi algoritm (paku juhuslikku liigutust, seejärel aktsepteeri või lükka see tagasi tõenäosusega, mis garanteerib õige pikaajalise jaotuse) ja Gibbsi valimivõtt (uuenda üht muutujat korraga, igaüks tõmmatud oma tinglikust jaotusest, arvestades kõiki teisi), pakuvad kahte erinevat konkreetset retsepti ahela ehitamiseks täpselt selle koondumisomadusega.",
+    "sourceHash": "5260336eace0d2e2",
+    "stale": false
+  },
+  "prerequisites": [
+    "bayes-theorem-and-bayesian-inference",
+    "random-variables-and-distributions"
+  ]
+}

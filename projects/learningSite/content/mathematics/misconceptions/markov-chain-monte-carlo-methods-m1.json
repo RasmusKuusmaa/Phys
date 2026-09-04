@@ -1,0 +1,10 @@
+{
+  "id": "markov-chain-monte-carlo-methods-m1",
+  "conceptId": "markov-chain-monte-carlo-methods",
+  "text": {
+    "en": "Believing Markov chain Monte Carlo methods draw independent, unrelated samples directly from the target posterior distribution, the same way an ordinary random number generator draws independent samples from a simple distribution -- the samples MCMC produces are specifically the successive states of one single Markov chain, meaning each sample depends directly on the immediately preceding one; they are not independent of each other (nearby samples in the chain are typically correlated), and only in the long run, after the chain has run long enough to forget its starting point, does the overall distribution of visited states converge to the target posterior.",
+    "et": "Arvamus, et Markovi ahela Monte Carlo meetodid tõmbavad sõltumatuid, mitteseotud valimeid otse sihtmärgi posterioorsest jaotusest, samamoodi nagu tavaline juhuslike arvude generaator tõmbab sõltumatuid valimeid lihtsast jaotusest -- valimid, mida MCMC toodab, on spetsiifiliselt ühe ainsa Markovi ahela järjestikused olekud, mis tähendab, et iga valim sõltub otseselt vahetult eelnevast; need ei ole üksteisest sõltumatud (lähestikused valimid ahelas on tüüpiliselt korreleeritud), ning alles pikaajaliselt, pärast seda kui ahel on piisavalt kaua jooksnud, et unustada oma alguspunkti, koondub külastatud olekute üldine jaotus sihtmärgi posterioorsele jaotusele.",
+    "sourceHash": "a01aeb3590b63d70",
+    "stale": false
+  }
+}

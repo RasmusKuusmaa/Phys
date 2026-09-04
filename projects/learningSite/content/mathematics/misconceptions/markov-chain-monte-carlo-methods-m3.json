@@ -1,0 +1,10 @@
+{
+  "id": "markov-chain-monte-carlo-methods-m3",
+  "conceptId": "markov-chain-monte-carlo-methods",
+  "text": {
+    "en": "Believing Markov chain Monte Carlo is only a niche technique for unusually difficult, contrived Bayesian problems, with most practical Bayesian analyses instead relying on directly computable closed-form posteriors -- the reverse is closer to the truth: closed-form posteriors are the special exception (arising only for particular, mathematically convenient combinations of prior and data model), while the overwhelming majority of realistic Bayesian models used in practice have no closed-form posterior at all, making MCMC and related sampling methods the standard, routine computational engine behind most real-world applied Bayesian analysis, not a rarely-needed specialized tool.",
+    "et": "Arvamus, et Markovi ahela Monte Carlo on ainult nišitehnika ebatavaliselt raskete, kunstlike Bayesi probleemide jaoks, kusjuures enamik praktilisi Bayesi analüüse tugineb selle asemel otse arvutatavatele kinnise kujuga posterioorsetele jaotustele -- vastupidine on tõele lähemal: kinnise kujuga posterioorsed jaotused on eriline erand (tekkides ainult teatud, matemaatiliselt mugavate eelduse ja andmemudeli kombinatsioonide jaoks), samal ajal kui valdav enamik praktikas kasutatavaid realistlikke Bayesi mudeleid ei oma üldse kinnise kujuga posterioorset jaotust, mis muudab MCMC ja seotud valimivõtu meetodid standardseks, rutiinseks arvutusmootoriks enamiku reaalse maailma rakendusliku Bayesi analüüsi taga, mitte harva vajaminevaks spetsialiseeritud vahendiks.",
+    "sourceHash": "6032526ce03550ea",
+    "stale": false
+  }
+}

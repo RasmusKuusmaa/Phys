@@ -1,0 +1,55 @@
+{
+  "id": "markov-chain-monte-carlo-methods-item1",
+  "conceptId": "markov-chain-monte-carlo-methods",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can't the successive states produced by a Markov chain Monte Carlo sampler be treated as independent samples the way outputs of an ordinary random number generator can?",
+    "et": "Miks ei saa Markovi ahela Monte Carlo valimivõtja poolt toodetud järjestikuseid olekuid käsitleda sõltumatute valimitena, nagu saab tavalise juhuslike arvude generaatori väljundeid?",
+    "sourceHash": "e11c685b6ee23993",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Each state is generated from the immediately preceding one by construction, so nearby samples in the chain are correlated; only the chain's long-run distribution of visited states converges to the target.",
+        "et": "Iga olek genereeritakse konstruktsiooni järgi vahetult eelnevast, seega on ahela lähestikused valimid korreleeritud; ainult ahela külastatud olekute pikaajaline jaotus koondub sihtmärgile.",
+        "sourceHash": "d47c4100b29976df",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They actually can be treated as fully independent samples, since the Markov property guarantees complete statistical independence between consecutive states.",
+        "et": "Neid saab tegelikult käsitleda täiesti sõltumatute valimitena, kuna Markovi omadus garanteerib täieliku statistilise sõltumatuse järjestikuste olekute vahel.",
+        "sourceHash": "e4a2482917525ab0",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "MCMC methods are only used for rare, contrived problems anyway, so this independence question rarely matters for real applied work.",
+        "et": "MCMC meetodeid kasutatakse nagunii ainult harvade, kunstlike probleemide jaoks, seega ei ole see sõltumatuse küsimus enamasti oluline reaalse rakendusliku töö jaoks.",
+        "sourceHash": "f73d6e1375414b27",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "markov-chain-monte-carlo-methods-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because Metropolis-Hastings accepts every proposed move unconditionally, each new state has no statistical relationship to the target distribution at all.",
+        "et": "Kuna Metropolis-Hastings aktsepteerib iga pakutud liigutust tingimusteta, ei ole igal uuel olekul üldse statistilist seost sihtmärgi jaotusega.",
+        "sourceHash": "66eb799f07302904",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "markov-chain-monte-carlo-methods-m2"
+    }
+  ]
+}

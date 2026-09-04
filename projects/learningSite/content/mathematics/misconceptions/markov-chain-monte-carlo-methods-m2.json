@@ -1,0 +1,10 @@
+{
+  "id": "markov-chain-monte-carlo-methods-m2",
+  "conceptId": "markov-chain-monte-carlo-methods",
+  "text": {
+    "en": "Believing the Metropolis-Hastings algorithm always accepts its proposed moves, so that every proposed step actually becomes the chain's next state -- the algorithm specifically accepts or rejects each proposed move with a carefully calculated probability, and rejected proposals simply mean the chain stays at its current state for that step rather than moving to the proposed one; this accept-reject mechanism, not unconditional acceptance, is precisely what guarantees the chain converges to the correct target distribution in the long run rather than wandering off to some other, incorrect distribution.",
+    "et": "Arvamus, et Metropolis-Hastingsi algoritm aktsepteerib alati oma pakutud liigutusi, nii et iga pakutud samm saab tegelikult ahela järgmiseks olekuks -- algoritm spetsiifiliselt aktsepteerib või lükkab tagasi iga pakutud liigutuse hoolikalt arvutatud tõenäosusega, ning tagasilükatud ettepanekud tähendavad lihtsalt, et ahel jääb selleks sammuks oma praegusesse olekusse, selle asemel et liikuda pakutud olekusse; see aktsepteerimis-tagasilükkamise mehhanism, mitte tingimusteta aktsepteerimine, ongi täpselt see, mis garanteerib, et ahel koondub pikaajaliselt õigele sihtmärgi jaotusele, mitte ei uita mõnele teisele, valele jaotusele.",
+    "sourceHash": "2d2c69f1f7a6a027",
+    "stale": false
+  }
+}
