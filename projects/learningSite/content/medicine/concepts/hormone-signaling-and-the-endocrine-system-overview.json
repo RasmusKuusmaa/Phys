@@ -1,0 +1,19 @@
+{
+  "id": "hormone-signaling-and-the-endocrine-system-overview",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "endocrinology",
+  "title": {
+    "en": "Hormone signaling and the endocrine system overview",
+    "et": "Hormonaalne signaalimine ja endokriinsüsteemi ülevaade",
+    "sourceHash": "42c36844f693fd36",
+    "stale": false
+  },
+  "summary": {
+    "en": "The endocrine system communicates over minutes to days rather than milliseconds, using hormones -- chemical messengers released into the bloodstream by specialized glands -- that travel throughout the entire body but affect only the cells equipped with the matching receptor, in contrast to paracrine signaling (a cell affecting its immediate neighbors) and autocrine signaling (a cell affecting itself); the same three-way distinction underlies signaling in cell biology generally, applied here specifically to the glands and hormones that make up the endocrine system. Hormones fall into three structural classes with correspondingly different mechanisms: peptide and protein hormones (insulin, growth hormone) are water-soluble and bind cell-surface receptors, triggering an intracellular second-messenger cascade without ever entering the cell; steroid hormones (cortisol, estrogen, testosterone) are lipid-soluble and diffuse directly through the cell membrane to bind intracellular or nuclear receptors, acting more slowly but often by directly altering gene transcription; amine hormones (thyroid hormone, epinephrine) are a mixed case, structurally simple derivatives of single amino acids that can behave like either of the other two classes depending on the specific hormone. This three-class framework is what predicts, before even knowing the specific hormone, roughly how fast it will act and by what general mechanism.",
+    "et": "Endokriinsüsteem suhtleb minutite kuni päevade, mitte millisekundite ajaskaalal, kasutades hormoone -- keemilisi sõnumitoojaid, mida spetsialiseerunud näärmed eritavad vereringesse ning mis liiguvad läbi kogu keha, kuid mõjutavad ainult sobiva retseptoriga varustatud rakke, erinevalt parakriinsest signaalimisest (rakk mõjutab oma vahetuid naabreid) ja autokriinsest signaalimisest (rakk mõjutab iseennast); sama kolmepoolne eristus on aluseks signaalimisele rakubioloogias üldiselt, siin rakendatuna spetsiifiliselt näärmetele ja hormoonidele, mis moodustavad endokriinsüsteemi. Hormoonid jagunevad kolmeks struktuuriklassiks, millel on vastavalt erinevad mehhanismid: peptiid- ja valguhormoonid (insuliin, kasvuhormoon) on vees lahustuvad ning seonduvad rakupinna retseptoritega, käivitades rakusisese teisese sõnumitooja kaskaadi ilma rakku kunagi sisenemata; steroidhormoonid (kortisool, östrogeen, testosteroon) on rasvlahustuvad ja difundeeruvad otse läbi rakumembraani, seondudes rakusiseste või tuuma retseptoritega, toimides aeglasemalt, kuid sageli otse geenide transkriptsiooni muutes; amiinhormoonid (kilpnäärme hormoon, epinefriin) on segajuhtum, struktuurselt lihtsad üksiku aminohappe derivaadid, mis võivad käituda kummagi teise klassi moodi, sõltuvalt konkreetsest hormoonist. See kolmeklassiline raamistik ennustabki, juba enne konkreetse hormooni tundmist, ligikaudu kui kiiresti see toimib ja millise üldise mehhanismi kaudu.",
+    "sourceHash": "b9a77143cb0f113e",
+    "stale": false
+  },
+  "prerequisites": []
+}

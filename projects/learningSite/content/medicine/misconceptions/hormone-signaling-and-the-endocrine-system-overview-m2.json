@@ -1,0 +1,10 @@
+{
+  "id": "hormone-signaling-and-the-endocrine-system-overview-m2",
+  "conceptId": "hormone-signaling-and-the-endocrine-system-overview",
+  "text": {
+    "en": "Since hormones travel through the entire bloodstream, they affect every cell in the body equally -- in reality, a hormone only affects cells that express the matching receptor for it; a cell with no receptor for a given hormone is bathed in it just like every other cell but simply has no way to respond, which is why the same hormone can have completely different, tissue-specific effects (or none at all) depending on which cells happen to express its receptor.",
+    "et": "Kuna hormoonid liiguvad kogu vereringes, mõjutavad need kõiki keharakke võrdselt -- tegelikult mõjutab hormoon ainult rakke, millel on selle jaoks sobiv retseptor; rakk, millel puudub antud hormooni retseptor, on selles sama moodi kümblenud nagu iga teine rakk, kuid sellel puudub lihtsalt viis reageerida, mistõttu sama hormoon võib avaldada täiesti erinevaid, koespetsiifilisi mõjusid (või üldse mitte mingeid), sõltuvalt sellest, millised rakud selle retseptorit omavad.",
+    "sourceHash": "d440a8e7f49b0daa",
+    "stale": false
+  }
+}

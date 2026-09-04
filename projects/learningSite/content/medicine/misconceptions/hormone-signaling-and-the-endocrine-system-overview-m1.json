@@ -1,0 +1,10 @@
+{
+  "id": "hormone-signaling-and-the-endocrine-system-overview-m1",
+  "conceptId": "hormone-signaling-and-the-endocrine-system-overview",
+  "text": {
+    "en": "Hormones act almost instantly on the body, the same way a nerve impulse does -- in reality, hormone signaling operates on a fundamentally slower timescale than nerve impulses: a nerve signal reaches its target in milliseconds via a direct electrical/synaptic connection, while a hormone must be synthesized, released into the general circulation, and diffuse to reach target cells anywhere in the body, so hormonal effects typically unfold over minutes to hours (and some, like growth effects, over days to weeks), not instantly.",
+    "et": "Hormoonid mõjuvad kehale peaaegu koheselt, samamoodi nagu närviimpulss -- tegelikult toimib hormonaalne signaalimine oluliselt aeglasemal ajaskaalal kui närviimpulsid: närvisignaal jõuab oma sihtmärgini millisekunditega otsese elektrilise/sünaptilise ühenduse kaudu, samas kui hormoon peab olema sünteesitud, vabastatud üldisesse vereringesse ning difundeeruma, et jõuda sihtrakkudeni kõikjal kehas, mistõttu hormonaalsed mõjud avalduvad tavaliselt minutite kuni tundide (ja mõned, näiteks kasvumõjud, päevade kuni nädalate) jooksul, mitte koheselt.",
+    "sourceHash": "bf99bc6dfc4ce258",
+    "stale": false
+  }
+}

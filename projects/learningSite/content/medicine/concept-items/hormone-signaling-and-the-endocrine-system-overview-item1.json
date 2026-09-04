@@ -1,0 +1,56 @@
+{
+  "id": "hormone-signaling-and-the-endocrine-system-overview-item1",
+  "conceptId": "hormone-signaling-and-the-endocrine-system-overview",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A steroid hormone and a peptide hormone are both released into the bloodstream at the same time. Why does the peptide hormone's effect typically appear much faster than the steroid hormone's?",
+    "et": "Steroid- ja peptiidhormoon vabastatakse vereringesse samal ajal. Miks ilmneb peptiidhormooni mõju tavaliselt palju kiiremini kui steroidhormooni oma?",
+    "sourceHash": "58639610869ec258",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The peptide hormone binds a cell-surface receptor and triggers an immediate intracellular second-messenger cascade, while the steroid hormone must cross the cell membrane and often acts by altering gene transcription, a process that takes much longer to produce a detectable effect.",
+        "et": "Peptiidhormoon seondub rakupinna retseptoriga ja käivitab kohese rakusisese teisese sõnumitooja kaskaadi, samas kui steroidhormoon peab läbima rakumembraani ja toimib sageli geenide transkriptsiooni muutes, protsess, mis võtab tuvastatava mõju tekitamiseks palju kauem aega.",
+        "sourceHash": "b07e225d51a81f74",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Peptide hormones travel through the bloodstream faster than steroid hormones do, reaching target cells sooner.",
+        "et": "Peptiidhormoonid liiguvad vereringes kiiremini kui steroidhormoonid, jõudes sihtrakkudeni varem.",
+        "sourceHash": "295677be0650d1b9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hormone-signaling-and-the-endocrine-system-overview-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The peptide hormone reaches more cells in the body than the steroid hormone does, so its effect becomes noticeable faster simply from wider reach.",
+        "et": "Peptiidhormoon jõuab kehas rohkemate rakkudeni kui steroidhormoon, mistõttu selle mõju muutub märgatavaks kiiremini lihtsalt laiema ulatuse tõttu.",
+        "sourceHash": "a59cb8726cbbf57d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hormone-signaling-and-the-endocrine-system-overview-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "All hormones use the same intracellular signaling mechanism, so the speed difference is actually due to how much of each hormone was released, not the mechanism.",
+        "et": "Kõik hormoonid kasutavad sama rakusisest signaalimismehhanismi, mistõttu kiiruse erinevus tuleneb tegelikult sellest, kui palju kumbagi hormooni vabastati, mitte mehhanismist.",
+        "sourceHash": "d93c18390bfd4ade",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hormone-signaling-and-the-endocrine-system-overview-m3"
+    }
+  ]
+}

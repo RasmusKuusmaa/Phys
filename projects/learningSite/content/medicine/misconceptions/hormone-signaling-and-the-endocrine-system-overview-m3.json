@@ -1,0 +1,10 @@
+{
+  "id": "hormone-signaling-and-the-endocrine-system-overview-m3",
+  "conceptId": "hormone-signaling-and-the-endocrine-system-overview",
+  "text": {
+    "en": "All hormones work the same way once they reach a target cell -- in reality, the three hormone classes (peptide, steroid, amine) work through genuinely different mechanisms: peptide hormones never enter the cell and act through surface receptors and second messengers, while steroid hormones cross the cell membrane directly and often act by changing gene transcription, a slower but longer-lasting mechanism; assuming one universal mechanism misses why some hormone effects appear in seconds to minutes and others take hours.",
+    "et": "Kõik hormoonid toimivad sihtrakuni jõudes samamoodi -- tegelikult toimivad kolm hormooniklassi (peptiid, steroid, amiin) tegelikult erinevate mehhanismide kaudu: peptiidhormoonid ei sisene kunagi rakku ja toimivad pinnaretseptorite ja teiseste sõnumitoojate kaudu, samas kui steroidhormoonid läbivad rakumembraani otse ja toimivad sageli geenide transkriptsiooni muutes, aeglasem, kuid püsivam mehhanism; ühe universaalse mehhanismi eeldamine jätab kahe silma vahele, miks mõned hormonaalsed mõjud ilmnevad sekundite kuni minutitega ja teised võtavad tunde.",
+    "sourceHash": "1c4b748a6b32ccfa",
+    "stale": false
+  }
+}
