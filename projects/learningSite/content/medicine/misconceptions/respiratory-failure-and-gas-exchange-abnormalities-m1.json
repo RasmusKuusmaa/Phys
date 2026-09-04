@@ -1,0 +1,10 @@
+{
+  "id": "respiratory-failure-and-gas-exchange-abnormalities-m1",
+  "conceptId": "respiratory-failure-and-gas-exchange-abnormalities",
+  "text": {
+    "en": "Respiratory failure is a single condition -- low blood oxygen and high blood carbon dioxide always happen together -- in reality, hypoxemic (low oxygen) and hypercapnic (high carbon dioxide) respiratory failure are mechanistically distinct categories, since oxygen and carbon dioxide diffuse across the alveolar membrane at very different rates; a person can have significant hypoxemia from a diffusion or V/Q-matching problem while still ventilating enough to keep carbon dioxide normal.",
+    "et": "Hingamispuudulikkus on üks seisund -- madal vere hapnikusisaldus ja kõrge vere süsihappegaasi sisaldus toimuvad alati koos -- tegelikult on hüpokseemiline (madal hapnik) ja hüperkapniline (kõrge süsihappegaas) hingamispuudulikkus mehhanistlikult erinevad kategooriad, kuna hapnik ja süsihappegaas difundeeruvad üle alveolaarmembraani väga erineva kiirusega; inimesel võib olla märkimisväärne hüpokseemia difusiooni- või V/Q-vastavuse probleemist, ventileerides samal ajal siiski piisavalt, et hoida süsihappegaas normaalne.",
+    "sourceHash": "d8ad7fb425b857b1",
+    "stale": false
+  }
+}

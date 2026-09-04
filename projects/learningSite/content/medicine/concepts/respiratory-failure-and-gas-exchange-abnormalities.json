@@ -1,0 +1,21 @@
+{
+  "id": "respiratory-failure-and-gas-exchange-abnormalities",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "respiratory-medicine",
+  "title": {
+    "en": "Respiratory failure and gas exchange abnormalities",
+    "et": "Hingamispuudulikkus ja gaasivahetuse häired",
+    "sourceHash": "b8208811fa2b309e",
+    "stale": false
+  },
+  "summary": {
+    "en": "Respiratory failure splits into two mechanistically distinct categories depending on which gas the lung fails to handle: hypoxemic respiratory failure, where blood oxygen falls too low, and hypercapnic respiratory failure, where blood carbon dioxide rises too high, and a person can have either problem without the other because oxygen and carbon dioxide diffuse across the alveolar membrane at very different rates. Ventilation-perfusion (V/Q) mismatch is the most common cause of hypoxemia: alveoli that are ventilated with air but poorly supplied with blood waste that ventilation, while alveoli that are well perfused with blood but poorly ventilated (as in a consolidated or collapsed region) waste that blood flow, and either kind of mismatch reduces the efficiency of oxygen transfer specifically. A shunt is the extreme end of this same spectrum -- blood passing through the lung's circulation without contacting any ventilated alveoli at all, so no amount of supplemental oxygen in the ventilated portions of the lung can correct the oxygen level of blood that never touched them. Hypercapnic failure follows a different logic entirely: because carbon dioxide diffuses far more readily than oxygen across the alveolar membrane, a hypercapnic problem almost always reflects a failure of ventilation itself (not enough air moving in and out overall) rather than a diffusion or matching problem, which is exactly why a person can be hypoxemic from V/Q mismatch while still ventilating enough to keep carbon dioxide normal, right up until the point where the underlying problem becomes severe enough to compromise overall ventilation too.",
+    "et": "Hingamispuudulikkus jaguneb kaheks mehhanistlikult erinevaks kategooriaks, sõltuvalt sellest, millise gaasi käsitlemisega kops hakkama ei saa: hüpokseemiline hingamispuudulikkus, kus vere hapnikusisaldus langeb liiga madalale, ning hüperkapniline hingamispuudulikkus, kus vere süsihappegaasi sisaldus tõuseb liiga kõrgele, ning inimesel võib olla kumbki probleem ilma teiseta, kuna hapnik ja süsihappegaas difundeeruvad üle alveolaarmembraani väga erineva kiirusega. Ventilatsiooni-perfusiooni (V/Q) mittevastavus on hüpokseemia kõige levinum põhjus: alveoolid, mida ventileeritakse õhuga, kuid mis on halvasti verega varustatud, raiskavad seda ventilatsiooni, samas kui alveoolid, mis on hästi verega varustatud, kuid halvasti ventileeritud (nagu konsolideerunud või kokkukukkunud piirkonnas), raiskavad seda verevoolu, ning kumbki mittevastavuse tüüp vähendab spetsiifiliselt hapnikuülekande tõhusust. Šunt on selle sama spektri äärmuslik lõpp -- veri, mis läbib kopsu vereringet, puutumata kokku ühegi ventileeritud alveooliga üldse, mistõttu ükski hulk lisahapnikku kopsu ventileeritud osades ei suuda parandada vere hapnikutaset, mis ei puutunud nendega kunagi kokku. Hüperkapniline puudulikkus järgib täiesti erinevat loogikat: kuna süsihappegaas difundeerub üle alveolaarmembraani palju kergemini kui hapnik, peegeldab hüperkapniline probleem peaaegu alati ventilatsiooni enda rikke (mitte piisavalt õhku liigub sisse ja välja üldiselt), mitte difusiooni- või vastavusprobleemi, mis ongi täpselt põhjus, miks inimene võib olla hüpokseemiline V/Q mittevastavuse tõttu, ventileerides samal ajal siiski piisavalt, et hoida süsihappegaas normaalne, kuni hetkeni, mil aluseks olev probleem muutub piisavalt tõsiseks, et kahjustada ka üldist ventilatsiooni.",
+    "sourceHash": "91ce2eb5c8dd9fc0",
+    "stale": false
+  },
+  "prerequisites": [
+    "respiratory-system-anatomy-and-physiology"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "respiratory-failure-and-gas-exchange-abnormalities-m2",
+  "conceptId": "respiratory-failure-and-gas-exchange-abnormalities",
+  "text": {
+    "en": "Giving a patient with a lung shunt more supplemental oxygen will always fix their low blood oxygen, the same way it helps with V/Q mismatch -- in reality, a shunt means blood is passing through the lung's circulation without contacting any ventilated alveoli at all, so raising the oxygen concentration in the ventilated alveoli has no way to reach that shunted blood; shunt is specifically the kind of hypoxemia that responds poorly to supplemental oxygen, unlike ordinary V/Q mismatch which typically does improve somewhat.",
+    "et": "Šundiga patsiendile rohkema lisahapniku andmine parandab alati tema madalat vere hapnikusisaldust, samamoodi nagu see aitab V/Q mittevastavuse korral -- tegelikult tähendab šunt, et veri läbib kopsu vereringet, puutumata kokku ühegi ventileeritud alveooliga üldse, mistõttu hapnikukontsentratsiooni tõstmisel ventileeritud alveoolides ei ole võimalust jõuda selle šunditud vereni; šunt on spetsiifiliselt see hüpokseemia tüüp, mis reageerib lisahapnikule halvasti, erinevalt tavalisest V/Q mittevastavusest, mis tüüpiliselt siiski mõnevõrra paraneb.",
+    "sourceHash": "43961fc80cf086d2",
+    "stale": false
+  }
+}

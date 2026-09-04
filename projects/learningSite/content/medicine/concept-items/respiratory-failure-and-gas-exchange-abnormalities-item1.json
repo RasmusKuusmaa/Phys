@@ -1,0 +1,56 @@
+{
+  "id": "respiratory-failure-and-gas-exchange-abnormalities-item1",
+  "conceptId": "respiratory-failure-and-gas-exchange-abnormalities",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient with a significant lung shunt remains hypoxemic despite being given 100% supplemental oxygen. Why doesn't the extra oxygen correct the problem?",
+    "et": "Märkimisväärse kopsušundiga patsient jääb hüpokseemiliseks, hoolimata 100% lisahapniku andmisest. Miks ei paranda lisahapnik probleemi?",
+    "sourceHash": "9409dcc294906bf3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "In a shunt, blood passes through the lung's circulation without ever contacting a ventilated alveolus, so raising the oxygen concentration in the ventilated alveoli has no way to reach that shunted blood.",
+        "et": "Šundi puhul läbib veri kopsu vereringet, puutumata kunagi kokku ventileeritud alveooliga, mistõttu hapnikukontsentratsiooni tõstmisel ventileeritud alveoolides ei ole võimalust jõuda selle šunditud vereni.",
+        "sourceHash": "a6580407ccc8bec1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This shouldn't happen -- supplemental oxygen always corrects hypoxemia regardless of its underlying cause.",
+        "et": "See ei peaks juhtuma -- lisahapnik parandab alati hüpokseemiat, olenemata selle alusest põhjusest.",
+        "sourceHash": "2a75fb4d7413a48d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "respiratory-failure-and-gas-exchange-abnormalities-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The patient must actually have hypercapnic respiratory failure instead, since that's the category oxygen therapy can't fix.",
+        "et": "Patsiendil peab tegelikult olema hoopis hüperkapniline hingamispuudulikkus, kuna see on kategooria, mida hapnikravi ei suuda parandada.",
+        "sourceHash": "64cfdb85b3fc181d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "respiratory-failure-and-gas-exchange-abnormalities-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Shunt and V/Q mismatch are the same mechanism, so if V/Q mismatch responds to oxygen, shunt should respond identically well.",
+        "et": "Šunt ja V/Q mittevastavus on sama mehhanism, mistõttu kui V/Q mittevastavus reageerib hapnikule, peaks šunt reageerima identselt hästi.",
+        "sourceHash": "679c60a69c5c8a6d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "respiratory-failure-and-gas-exchange-abnormalities-m3"
+    }
+  ]
+}

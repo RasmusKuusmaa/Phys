@@ -1,0 +1,10 @@
+{
+  "id": "respiratory-failure-and-gas-exchange-abnormalities-m3",
+  "conceptId": "respiratory-failure-and-gas-exchange-abnormalities",
+  "text": {
+    "en": "High blood carbon dioxide (hypercapnia) is caused by the same gas-exchange-efficiency problems (V/Q mismatch, shunt, diffusion limitation) as low blood oxygen -- in reality, because carbon dioxide diffuses far more readily across the alveolar membrane than oxygen does, hypercapnia almost always reflects a failure of overall ventilation (not enough air movement in and out) rather than a matching or diffusion problem, which is why V/Q mismatch alone can cause significant hypoxemia while carbon dioxide stays normal.",
+    "et": "Kõrget vere süsihappegaasi sisaldust (hüperkapnia) põhjustavad samad gaasivahetuse tõhususe probleemid (V/Q mittevastavus, šunt, difusiooni piirang) mis madalat vere hapnikusisaldust -- tegelikult, kuna süsihappegaas difundeerub üle alveolaarmembraani palju kergemini kui hapnik, peegeldab hüperkapnia peaaegu alati üldise ventilatsiooni rikke (mitte piisavalt õhu liikumist sisse ja välja), mitte vastavuse või difusiooni probleemi, mis ongi põhjus, miks V/Q mittevastavus üksi võib põhjustada märkimisväärset hüpokseemiat, samal ajal kui süsihappegaas jääb normaalseks.",
+    "sourceHash": "45c6761c058fbe8e",
+    "stale": false
+  }
+}
