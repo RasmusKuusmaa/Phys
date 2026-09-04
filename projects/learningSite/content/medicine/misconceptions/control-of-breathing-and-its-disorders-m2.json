@@ -1,0 +1,10 @@
+{
+  "id": "control-of-breathing-and-its-disorders-m2",
+  "conceptId": "control-of-breathing-and-its-disorders",
+  "text": {
+    "en": "Sleep apnea is a single disorder with one underlying mechanism -- in reality, obstructive sleep apnea (a physical collapse of the upper airway during sleep, with the brainstem's respiratory drive intact) and central sleep apnea (the brainstem's respiratory drive itself intermittently failing to signal a breath) are genuinely different mechanisms producing a superficially similar pattern of interrupted breathing; treating them as the same disorder misses which part of the system has actually failed.",
+    "et": "Uneapnoe on üks häire ühe aluseks oleva mehhanismiga -- tegelikult on obstruktiivne uneapnoe (ülemiste hingamisteede füüsiline kokkukukkumine une ajal, kusjuures ajutüve hingamistung on puutumata) ja tsentraalne uneapnoe (ajutüve hingamistung ise ebaõnnestub vahepeal hingetõmmet signaliseerimast) tõeliselt erinevad mehhanismid, mis tekitavad pealtnäha sarnase katkendliku hingamise mustri; nende käsitlemine sama häirena jätab kahe silma vahele, milline süsteemi osa on tegelikult ebaõnnestunud.",
+    "sourceHash": "cf42ea88efae42d3",
+    "stale": false
+  }
+}

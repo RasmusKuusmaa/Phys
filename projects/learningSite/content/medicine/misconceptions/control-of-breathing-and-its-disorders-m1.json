@@ -1,0 +1,10 @@
+{
+  "id": "control-of-breathing-and-its-disorders-m1",
+  "conceptId": "control-of-breathing-and-its-disorders",
+  "text": {
+    "en": "Falling blood oxygen is the primary, moment-to-moment trigger for breathing -- in reality, central chemoreceptors in the brainstem, responding primarily to rising carbon dioxide, provide the dominant drive to breathe under normal conditions; peripheral chemoreceptors responding to oxygen only become the dominant drive once oxygen falls to a fairly low level, so oxygen is actually a backup trigger, not the primary one.",
+    "et": "Langev vere hapnikusisaldus on hingamise peamine, hetkeline stiimul -- tegelikult annavad ajutüve kesksed kemoretseptorid, mis reageerivad peamiselt tõusvale süsihappegaasile, normaalsetes tingimustes domineeriva hingamistungi; hapnikule reageerivad perifeersed kemoretseptorid saavad domineerivaks tungiks alles siis, kui hapnik langeb üsna madalale tasemele, mistõttu hapnik on tegelikult varutrigger, mitte peamine.",
+    "sourceHash": "77a0f112be316cfe",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "control-of-breathing-and-its-disorders-item1",
+  "conceptId": "control-of-breathing-and-its-disorders",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the popular idea that 'low blood oxygen is what makes you breathe harder' get normal respiratory physiology backward?",
+    "et": "Miks pöörab populaarne idee, et 'madal vere hapnikusisaldus paneb sind kõvemini hingama', normaalse hingamisfüsioloogia ümber?",
+    "sourceHash": "e2aa9b2ccf2b6c08",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Central chemoreceptors responding to rising carbon dioxide provide the dominant, moment-to-moment drive to breathe under normal conditions; peripheral chemoreceptors responding to oxygen only take over as the dominant drive once oxygen has fallen to a fairly low level.",
+        "et": "Kesksed kemoretseptorid, mis reageerivad tõusvale süsihappegaasile, annavad normaalsetes tingimustes domineeriva, hetkelise hingamistungi; hapnikule reageerivad perifeersed kemoretseptorid võtavad domineeriva tungi üle alles siis, kui hapnik on langenud üsna madalale tasemele.",
+        "sourceHash": "55a1e68f0e100fb9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't need distinguishing from sleep apnea's mechanism anyway, since obstructive and central sleep apnea are really just one disorder with a single underlying cause.",
+        "et": "Seda ei ole vaja eristada uneapnoe mehhanismist niikuinii, kuna obstruktiivne ja tsentraalne uneapnoe on tegelikult vaid üks häire ühe aluseks oleva põhjusega.",
+        "sourceHash": "d65dca2359292629",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-of-breathing-and-its-disorders-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't get anything backward — obstructive sleep apnea shows that the brain's breathing control center itself is what typically malfunctions when breathing is disrupted.",
+        "et": "See ei pööra midagi ümber -- obstruktiivne uneapnoe näitab, et ajus asuv hingamise kontrollikeskus ise on see, mis tavaliselt hingamise häirimisel valesti töötab.",
+        "sourceHash": "753a415feb9d42e9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-of-breathing-and-its-disorders-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Oxygen actually is the dominant, moment-to-moment trigger, so the popular idea is correct as stated.",
+        "et": "Hapnik on tegelikult domineeriv, hetkeline stiimul, mistõttu populaarne idee on nii nagu öeldud õige.",
+        "sourceHash": "4fccb7e11de30723",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-of-breathing-and-its-disorders-m1"
+    }
+  ]
+}
