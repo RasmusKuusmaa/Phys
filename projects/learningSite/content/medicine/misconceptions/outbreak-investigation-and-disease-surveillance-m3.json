@@ -1,0 +1,10 @@
+{
+  "id": "outbreak-investigation-and-disease-surveillance-m3",
+  "conceptId": "outbreak-investigation-and-disease-surveillance",
+  "text": {
+    "en": "A single sharp peak in an epidemic curve and a series of successive waves both indicate the same kind of outbreak — ongoing person-to-person transmission -- in reality, a single sharp peak typically points to a common-source exposure (everyone infected around the same time from one shared source, like contaminated food or water), while a series of successive, growing waves points to ongoing transmission from person to person -- the shape of the curve itself is diagnostic evidence about the outbreak's underlying mechanism.",
+    "et": "Üksik terav tipp epideemiakõveral ja järjestikuste lainete seeria näitavad mõlemad sama tüüpi puhangut -- käimasolevat inimeselt-inimesele levimist -- tegelikult viitab üksik terav tipp tavaliselt ühisallika eksponeeritusele (kõik nakatusid umbes samal ajal ühest jagatud allikast, näiteks saastunud toidust või veest), samas kui järjestikuste, kasvavate lainete seeria viitab käimasolevale levimisele inimeselt inimesele -- kõvera kuju ise on diagnostiline tõend puhangu aluseks oleva mehhanismi kohta.",
+    "sourceHash": "b54a74ad5fcec6b4",
+    "stale": false
+  }
+}

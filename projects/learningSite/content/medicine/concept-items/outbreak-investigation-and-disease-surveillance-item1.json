@@ -1,0 +1,56 @@
+{
+  "id": "outbreak-investigation-and-disease-surveillance-item1",
+  "conceptId": "outbreak-investigation-and-disease-surveillance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A pathogen has an R0 of 3 in one country and, after public health measures are introduced (increased hand hygiene, reduced large gatherings), an effective reproduction number of 0.8 in that same country. What does this tell you?",
+    "et": "Patogeenil on ühes riigis R0 väärtus 3 ning pärast rahvatervise meetmete kasutuselevõttu (suurenenud käehügieen, vähendatud suured kogunemised) on sellel samal riigil tõhus reproduktsiooniarv 0,8. Mida see näitab?",
+    "sourceHash": "e2029413bf336b10",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That R0 is not a fixed biological property of the pathogen — the same pathogen's effective spread depends heavily on the population's behavior and control measures, and this intervention pushed transmission below the threshold needed for the outbreak to grow.",
+        "et": "Et R0 ei ole patogeeni fikseeritud bioloogiline omadus -- sama patogeeni tõhus levik sõltub suuresti populatsiooni käitumisest ja kontrollimeetmetest, ning see sekkumine surus leviku alla läve, mis on vajalik puhangu kasvamiseks.",
+        "sourceHash": "b931503ead89f434",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That the intervention must have physically mutated the pathogen itself, since R0 is a fixed biological constant that couldn't otherwise change.",
+        "et": "Et sekkumine pidi patogeeni füüsiliselt muteerima, kuna R0 on fikseeritud bioloogiline konstant, mis muidu ei saaks muutuda.",
+        "sourceHash": "e4e6a57623eebc54",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "outbreak-investigation-and-disease-surveillance-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That every single infected person in that country will now infect exactly 0.8 other people, since R0-type numbers describe every individual case exactly.",
+        "et": "Et iga üksik nakatunud inimene selles riigis nakatab nüüd täpselt 0,8 teist inimest, kuna R0-tüüpi arvud kirjeldavad iga üksikjuhtumit täpselt.",
+        "sourceHash": "7171391edc5a4a64",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "outbreak-investigation-and-disease-surveillance-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That the outbreak's epidemic curve must show a single sharp peak rather than successive waves, since any R0 value above 1 always produces the same curve shape.",
+        "et": "Et puhangu epideemiakõver peab näitama üksikut teravat tippu, mitte järjestikuseid laineid, kuna iga R0 väärtus üle 1 toodab alati sama kõvera kuju.",
+        "sourceHash": "364920abccd2255c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "outbreak-investigation-and-disease-surveillance-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "outbreak-investigation-and-disease-surveillance-m1",
+  "conceptId": "outbreak-investigation-and-disease-surveillance",
+  "text": {
+    "en": "R0 is a fixed biological property of a pathogen, like its genome, so it's meaningless to talk about 'reducing R0' through behavior change -- in reality, R0 depends just as much on the population and context a pathogen spreads through (contact rates, density, existing immunity, hygiene) as on the pathogen itself, which is exactly why control measures like reducing contact rates or vaccination work, pushing the effective reproduction number down without changing the pathogen at all.",
+    "et": "R0 on patogeeni fikseeritud bioloogiline omadus, nagu selle genoom, mistõttu on mõttetu rääkida R0 vähendamisest käitumise muutmise kaudu -- tegelikult sõltub R0 sama palju populatsioonist ja kontekstist, milles patogeen levib (kontaktimäärad, tihedus, olemasolev immuunsus, hügieen), kui patogeenist endast, mis ongi täpselt põhjus, miks kontrollimeetmed nagu kontaktimäärade vähendamine või vaktsineerimine toimivad, surudes tõhusa reproduktsiooniarvu alla, ilma patogeeni üldse muutmata.",
+    "sourceHash": "099e5f0186718b54",
+    "stale": false
+  }
+}

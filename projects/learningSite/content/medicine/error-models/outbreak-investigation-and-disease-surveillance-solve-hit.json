@@ -1,0 +1,37 @@
+{
+  "id": "outbreak-investigation-and-disease-surveillance-solve-hit",
+  "formulaId": "outbreak-investigation-and-disease-surveillance-formula1",
+  "solveFor": "HIT",
+  "mistakes": [
+    {
+      "id": "used-r0-directly",
+      "description": {
+        "en": "Used R0 directly as the herd immunity threshold instead of computing 1 minus its reciprocal.",
+        "et": "Kasutas R0 otse karjaimmuunsuse lävena, selle asemel et arvutada 1 miinus selle pöördväärtus.",
+        "sourceHash": "2079dfb71d74c03d",
+        "stale": false
+      },
+      "expression": "R0"
+    },
+    {
+      "id": "used-reciprocal-alone",
+      "description": {
+        "en": "Used the reciprocal of R0 alone as the answer, forgetting to subtract it from 1.",
+        "et": "Kasutas vastusena ainult R0 pöördväärtust, unustades selle 1-st lahutada.",
+        "sourceHash": "5d636ce03b831382",
+        "stale": false
+      },
+      "expression": "1/R0"
+    },
+    {
+      "id": "inverted-the-subtraction",
+      "description": {
+        "en": "Computed 1/R0 minus 1 instead of 1 minus 1/R0, inverting the sign of the result.",
+        "et": "Arvutas 1/R0 miinus 1, selle asemel et arvutada 1 miinus 1/R0, pöörates tulemuse märgi ümber.",
+        "sourceHash": "7aa0e20e7f201a2f",
+        "stale": false
+      },
+      "expression": "1/R0-1"
+    }
+  ]
+}

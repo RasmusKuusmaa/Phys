@@ -1,0 +1,19 @@
+{
+  "id": "outbreak-investigation-and-disease-surveillance",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "biostatistics-and-epidemiology",
+  "title": {
+    "en": "Outbreak investigation and disease surveillance",
+    "et": "Puhangu uurimine ja haiguste seire",
+    "sourceHash": "cbc2b3ed5565c908",
+    "stale": false
+  },
+  "summary": {
+    "en": "When new infections in a population are plotted against time, the resulting epidemic curve reveals the outbreak's underlying dynamics at a glance -- a single sharp peak typically points to a common-source exposure (everyone infected from the same contaminated source around the same time), while a series of successive, progressively larger waves points to ongoing person-to-person transmission, sustaining and amplifying the outbreak over time. The single number that most determines how an outbreak like the second kind unfolds is the basic reproduction number, R0: the average number of new infections one infectious person generates in a population with no immunity and no control measures in place. An R0 above 1 means each infected person is, on average, infecting more than one other person, so the outbreak grows exponentially; an R0 below 1 means it shrinks and eventually dies out on its own. Critically, R0 is not a fixed biological property of a pathogen the way, say, its genome is -- it depends just as much on the population and behavior it is spreading through (contact rates, population density, existing immunity, hygiene practices), which is exactly why control measures work: reducing contact rates or vaccinating a large enough fraction of the population pushes the effective reproduction number below 1 without needing to change the pathogen at all. The herd immunity threshold -- the fraction of a population that needs to be immune to reliably push transmission below the R0-driven growth regime -- follows directly from R0 itself: the higher a pathogen's R0, the larger the immune fraction needed to stop it spreading.",
+    "et": "Kui populatsioonis toimuvad uued nakatumised joonistatakse aja suhtes graafikule, paljastab tekkiv epideemiakõver puhangu aluseks oleva dünaamika ühe pilguga -- üksik terav tipp viitab tavaliselt ühisallika eksponeeritusele (kõik nakatusid samast saastunud allikast umbes samal ajal), samas kui järjestikuste, järk-järgult suurenevate lainete seeria viitab käimasolevale inimeselt-inimesele levimisele, mis püsib ja võimendab puhangut aja jooksul. Üksik arv, mis kõige rohkem määrab, kuidas teist tüüpi puhang kulgeb, on baasreproduktsiooniarv R0: keskmine uute nakatumiste arv, mille üks nakkav inimene põhjustab populatsioonis, kus puudub immuunsus ja kontrollimeetmed. R0 üle 1 tähendab, et iga nakatunud inimene nakatab keskmiselt rohkem kui ühe teise inimese, mistõttu puhang kasvab eksponentsiaalselt; R0 alla 1 tähendab, et see kahaneb ja lõpuks sureb iseenesest välja. Otsustavalt ei ole R0 patogeeni fikseeritud bioloogiline omadus samamoodi nagu näiteks selle genoom -- see sõltub sama palju populatsioonist ja käitumisest, milles see levib (kontaktimäärad, populatsiooni tihedus, olemasolev immuunsus, hügieenitavad), mis ongi täpselt põhjus, miks kontrollimeetmed toimivad: kontaktimäärade vähendamine või piisavalt suure populatsiooniosa vaktsineerimine surub tõhusa reproduktsiooniarvu alla 1, ilma et oleks vaja patogeeni üldse muuta. Karjaimmuunsuse lävi -- populatsiooniosa, mis peab olema immuunne, et usaldusväärselt suruda levik alla R0-põhise kasvurežiimi -- tuleneb otse R0-st endast: mida kõrgem on patogeeni R0, seda suurem immuunne osa on vaja selle leviku peatamiseks.",
+    "sourceHash": "8f1a757b408e95e9",
+    "stale": false
+  },
+  "prerequisites": []
+}

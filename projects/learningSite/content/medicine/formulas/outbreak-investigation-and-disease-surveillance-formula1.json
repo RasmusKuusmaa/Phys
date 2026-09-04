@@ -1,0 +1,33 @@
+{
+  "id": "outbreak-investigation-and-disease-surveillance-formula1",
+  "conceptId": "outbreak-investigation-and-disease-surveillance",
+  "latex": "HIT = 1 - \\frac{1}{R_0}",
+  "symbols": [
+    {
+      "symbol": "HIT",
+      "name": {
+        "en": "herd immunity threshold",
+        "et": "karjaimmuunsuse lävi",
+        "sourceHash": "af1d1eedb514afa9",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "R0",
+      "name": {
+        "en": "basic reproduction number",
+        "et": "baasreproduktsiooniarv",
+        "sourceHash": "592be8ee62b56685",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "HIT"
+  ],
+  "expressions": {
+    "HIT": "1-1/R0"
+  }
+}

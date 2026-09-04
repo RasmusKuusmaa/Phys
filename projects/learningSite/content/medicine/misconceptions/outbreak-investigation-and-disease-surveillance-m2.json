@@ -1,0 +1,10 @@
+{
+  "id": "outbreak-investigation-and-disease-surveillance-m2",
+  "conceptId": "outbreak-investigation-and-disease-surveillance",
+  "text": {
+    "en": "An R0 of, say, 2 means every single infected person will infect exactly 2 other people -- in reality, R0 is an average across many infected people in a population with no immunity, not a fixed number for every individual case; in reality some infected people (superspreaders) transmit to many more than the average, and many others transmit to zero, with the average across all of them equaling R0.",
+    "et": "R0 väärtus, näiteks 2, tähendab, et iga üksik nakatunud inimene nakatab täpselt 2 teist inimest -- tegelikult on R0 keskmine paljude nakatunud inimeste üle populatsioonis, kus puudub immuunsus, mitte fikseeritud arv iga üksiku juhtumi jaoks; tegelikkuses nakatavad mõned nakatunud inimesed (superlevitajad) palju rohkem kui keskmine, ja paljud teised ei naka kedagi, kusjuures keskmine kõigi nende üle võrdub R0-ga.",
+    "sourceHash": "2a89eafcb8e146bf",
+    "stale": false
+  }
+}

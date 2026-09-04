@@ -1,0 +1,21 @@
+{
+  "id": "outbreak-investigation-and-disease-surveillance-solve-hit",
+  "formulaId": "outbreak-investigation-and-disease-surveillance-formula1",
+  "variables": [
+    {
+      "symbol": "R0",
+      "min": 1.5,
+      "max": 15,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "R0",
+      "right": 1
+    }
+  ],
+  "solveFor": "HIT"
+}
