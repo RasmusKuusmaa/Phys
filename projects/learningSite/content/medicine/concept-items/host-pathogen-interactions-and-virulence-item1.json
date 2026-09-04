@@ -1,0 +1,56 @@
+{
+  "id": "host-pathogen-interactions-and-virulence-item1",
+  "conceptId": "host-pathogen-interactions-and-virulence",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A species of bacterium normally lives harmlessly in the human gut as part of the normal microbiome, but a different strain of the exact same species is known to cause severe illness. What best explains this difference between strains?",
+    "et": "Bakteriliik elab tavaliselt kahjutult inimese soolestikus osana normaalsest mikrobioomist, kuid sama liigi erinev tüvi on teadaolevalt tõsise haiguse põhjustaja. Mis kõige paremini selgitab seda erinevust tüvede vahel?",
+    "sourceHash": "ec735e42b45e4558",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Different strains of the same bacterial species can carry very different combinations of virulence factors (adhesion factors, invasins, toxins, immune-evasion mechanisms), so one strain can be a harmless colonizer while another causes serious disease.",
+        "et": "Sama bakteriliigi erinevad tüved võivad kanda väga erinevaid virulentsusfaktorite (kinnitumisfaktorid, invasiinid, toksiinid, immuunsüsteemi vältimise mehhanismid) kombinatsioone, mistõttu üks tüvi võib olla kahjutu koloniseerija, samas kui teine põhjustab tõsist haigust.",
+        "sourceHash": "1a85a6d99217f06a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The harmless strain isn't actually present in the gut in a meaningful sense -- true colonization by any bacterial species is itself evidence that no real infection is occurring.",
+        "et": "Kahjutu tüvi ei ole tegelikult sooles olulisel määral kohal -- mistahes bakteriliigi tõeline koloniseerimine on iseenesest tõend, et tegelikku infektsiooni ei toimu.",
+        "sourceHash": "8b31f18ad1a3530e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "host-pathogen-interactions-and-virulence-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This can't actually happen -- virulence is an all-or-nothing property of a bacterial species as a whole, so every strain of the same species should be equally dangerous or equally harmless.",
+        "et": "Seda ei saa tegelikult juhtuda -- virulentsus on bakteriliigi kui terviku kõik-või-mitte-midagi omadus, mistõttu peaks iga sama liigi tüvi olema võrdselt ohtlik või võrdselt kahjutu.",
+        "sourceHash": "2be43cdb7c0faec0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "host-pathogen-interactions-and-virulence-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The difference must be entirely due to the host's immune system reacting differently to genetically identical bacteria, since virulence factors themselves don't vary between strains of the same species.",
+        "et": "Erinevus peab olema täielikult tingitud sellest, et peremehe immuunsüsteem reageerib geneetiliselt identsetele bakteritele erinevalt, kuna virulentsusfaktorid ise ei varieeru sama liigi tüvede vahel.",
+        "sourceHash": "cd98653b2893052a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "host-pathogen-interactions-and-virulence-m3"
+    }
+  ]
+}

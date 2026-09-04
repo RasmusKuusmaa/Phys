@@ -1,0 +1,10 @@
+{
+  "id": "host-pathogen-interactions-and-virulence-m2",
+  "conceptId": "host-pathogen-interactions-and-virulence",
+  "text": {
+    "en": "Virulence is a single, all-or-nothing property a pathogen either has or doesn't have, so all strains of a given pathogenic species are equally dangerous -- in reality, virulence is built from a combination of independent, separable mechanisms (adhesion factors, invasins, toxins, immune-evasion mechanisms), and different strains of the very same species can carry very different combinations of them; some E. coli strains, for example, are harmless or even beneficial gut colonizers, while other strains of the same species carry additional toxin and adhesion genes that make them capable of causing serious disease.",
+    "et": "Virulentsus on üksik, kõik-või-mitte-midagi omadus, mis patogeenil kas on või ei ole, mistõttu on kõik antud patogeense liigi tüved võrdselt ohtlikud -- tegelikult on virulentsus ehitatud sõltumatute, eraldiseisvate mehhanismide kombinatsioonist (kinnitumisfaktorid, invasiinid, toksiinid, immuunsüsteemi vältimise mehhanismid), ning sama liigi erinevad tüved võivad kanda väga erinevaid nende kombinatsioone; mõned E. coli tüved, näiteks, on kahjutud või isegi kasulikud soolekoloniseerijad, samas kui sama liigi teised tüved kannavad täiendavaid toksiini- ja kinnitumisgeene, mis muudavad need võimeliseks põhjustama tõsist haigust.",
+    "sourceHash": "e0ce3f3418da32c2",
+    "stale": false
+  }
+}

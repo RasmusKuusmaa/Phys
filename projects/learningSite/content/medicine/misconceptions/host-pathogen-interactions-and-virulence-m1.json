@@ -1,0 +1,10 @@
+{
+  "id": "host-pathogen-interactions-and-virulence-m1",
+  "conceptId": "host-pathogen-interactions-and-virulence",
+  "text": {
+    "en": "If a microbe is detected on or inside a person's body, that automatically means they have an infection -- in reality, the mere presence of a microbe (colonization) is not the same as infection: trillions of microbes colonize a healthy human body's skin, gut, and other surfaces without causing any harm, and many are actively beneficial; infection specifically requires the microbe to invade host tissue and cause active damage, which is a distinct, further step that colonization does not automatically lead to.",
+    "et": "Kui inimese kehas või kehal tuvastatakse mikroob, tähendab see automaatselt, et tal on infektsioon -- tegelikult ei ole mikroobi pelk kohalolek (koloniseerimine) sama, mis infektsioon: triljonid mikroobid koloniseerivad terve inimkeha nahka, sooli ja muid pindu ilma kahju tekitamata ning paljud on aktiivselt kasulikud; infektsioon nõuab spetsiifiliselt, et mikroob tungiks peremeeskoesse ja põhjustaks aktiivset kahju, mis on eraldiseisev, täiendav samm, milleni koloniseerimine automaatselt ei vii.",
+    "sourceHash": "2c1202785370d316",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "host-pathogen-interactions-and-virulence-m3",
+  "conceptId": "host-pathogen-interactions-and-virulence",
+  "text": {
+    "en": "A pathogen causes disease purely through what it does to host cells directly (like toxins damaging tissue) -- the host's own immune system doesn't factor into whether an infection actually develops -- in reality, whether a colonizing or invading microbe actually produces disease depends on a dynamic balance between the pathogen's virulence factors and the host's immune defenses, not the pathogen's properties alone; a microbe that would be harmlessly cleared or kept in check by a healthy immune system can become a serious opportunistic infection in a host whose immune defenses are weakened, even without the microbe itself changing at all.",
+    "et": "Patogeen põhjustab haigust puhtalt selle kaudu, mida ta teeb otse peremeesrakkudele (nagu toksiinid, mis kahjustavad kudet) -- peremehe enda immuunsüsteem ei mõjuta seda, kas infektsioon tegelikult areneb -- tegelikult sõltub see, kas koloniseeriv või invasiivne mikroob tegelikult tekitab haigust, dünaamilisest tasakaalust patogeeni virulentsusfaktorite ja peremehe immuunkaitse vahel, mitte ainult patogeeni omadustest; mikroob, mille terve immuunsüsteem tavaliselt kahjutult kõrvaldaks või kontrolli all hoiaks, võib muutuda tõsiseks oportunistlikuks infektsiooniks peremehes, kelle immuunkaitse on nõrgenenud, ilma et mikroob ise üldse muutuks.",
+    "sourceHash": "2012336816cbe2a4",
+    "stale": false
+  }
+}

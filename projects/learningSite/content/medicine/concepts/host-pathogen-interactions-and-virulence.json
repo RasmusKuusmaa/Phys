@@ -1,0 +1,19 @@
+{
+  "id": "host-pathogen-interactions-and-virulence",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "microbiology",
+  "title": {
+    "en": "Host-pathogen interactions and virulence",
+    "et": "Peremees-patogeeni suhted ja virulentsus",
+    "sourceHash": "14f22241cb3f3a46",
+    "stale": false
+  },
+  "summary": {
+    "en": "Not every microbe present in or on the human body is causing disease -- colonization is simply a microbe's stable presence at a body site (skin, gut, nasal passages) without necessarily producing any harm, and the human body hosts trillions of colonizing microbes as a matter of course; infection specifically means a microbe has invaded host tissue and is actively causing damage, and whether a given colonizing microbe crosses that line into infection depends on a shifting balance between the pathogen's virulence and the host's defenses (a weakened immune system can let an otherwise harmless colonizer become an opportunistic infection). Virulence itself is not a single trait but a toolkit of specific mechanisms a pathogen may or may not possess: adhesion factors let it attach to host tissue rather than being swept away; invasins let it penetrate host cells or tissue barriers; toxins (some directly damaging host cells, others hijacking host cell signaling) do direct or indirect harm; and immune-evasion mechanisms -- a protective capsule that resists engulfment by immune cells, or the ability to hide inside host cells where circulating antibodies can't reach it -- let the pathogen survive contact with a host immune system that would otherwise clear it. A single pathogen species can vary enormously in how many of these virulence factors any particular strain carries, which is exactly why some strains of an otherwise ordinary bacterial species (like certain E. coli strains) cause serious disease while other strains of the very same species live in the gut as harmless, even beneficial, colonizers.",
+    "et": "Mitte iga inimkehas või -kehal viibiv mikroob ei põhjusta haigust -- koloniseerimine on lihtsalt mikroobi stabiilne kohalolek kehaosas (nahk, sooled, ninakäigud) ilma, et see tingimata tekitaks kahju, ning inimkeha peremeestab tavapäraselt triljoneid koloniseerivaid mikroobe; infektsioon tähendab spetsiifiliselt seda, et mikroob on tunginud peremeeskoesse ja põhjustab aktiivselt kahju, ning kas antud koloniseeriv mikroob ületab selle piiri infektsiooniks, sõltub muutuvast tasakaalust patogeeni virulentsuse ja peremehe kaitsevõime vahel (nõrgenenud immuunsüsteem võib lasta muidu kahjutul koloniseerival mikroobil muutuda oportunistlikuks infektsiooniks). Virulentsus ise ei ole üksik omadus, vaid konkreetsete mehhanismide tööriistakomplekt, mida patogeenil võib või ei pruugi olla: kinnitumisfaktorid lubavad sellel kinnituda peremeeskoele, selle asemel et minema pestud saada; invasiinid lubavad sellel tungida peremeesrakkudesse või koebarjääridesse; toksiinid (mõned kahjustavad otse peremeesrakke, teised kaaperdavad peremeesraku signaaliülekannet) tekitavad otsest või kaudset kahju; ning immuunsüsteemi vältimise mehhanismid -- kaitsev kapsel, mis takistab immuunrakkude poolt neelamist, või võime peita end peremeesrakkude sisse, kuhu ringlevad antikehad ei pääse -- lubavad patogeenil ellu jääda kontaktis peremehe immuunsüsteemiga, mis muidu selle kõrvaldaks. Üks patogeeni liik võib erineda tohutult selles, kui palju neist virulentsusfaktoritest konkreetne tüvi kannab, mis ongi täpselt põhjus, miks mõned muidu tavalise bakteriliigi tüved (nagu teatud E. coli tüved) põhjustavad tõsist haigust, samal ajal kui sama liigi teised tüved elavad sooltes kahjutute, isegi kasulike koloniseerijatena.",
+    "sourceHash": "e19e67f27dfc3db3",
+    "stale": false
+  },
+  "prerequisites": []
+}
