@@ -190,6 +190,20 @@ it.
       control-systems-and-feedback, kinematics-and-dynamics-of-mechanisms;
       kept conceptual)
 
+## Phase GE4 — closing gap sweep
+
+The Phase GE3 fork's own honest post-hoc read (recorded in `QUESTIONS.md`)
+flagged one genuine gap: engineering materials testing and standards
+(ASTM/ISO test methods, standards-based certification) as its own topic —
+distinct from materials-science's `materials-selection-and-design`, which is
+framed around Ashby-chart property tradeoffs, not testing/standards
+practice. Same "close the gap the last phase surfaced" move Phase AE4 makes
+for aerospace-engineering.
+
+- [ ] Engineering materials testing and standards (tensile testing
+      procedure, hardness/impact testing, ASTM/ISO standards-based
+      certification — no prerequisite)
+
 Phase GE3 complete: 16 general-engineering concepts total (5 new Phase-GE3
 concepts on top of the 11-concept Phase GE1+GE2 baseline). `npm run
 validate:content` (7 subjects, 503 concepts — the aerospace-engineering
