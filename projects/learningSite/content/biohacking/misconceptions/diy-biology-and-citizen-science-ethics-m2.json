@@ -1,0 +1,10 @@
+{
+  "id": "diy-biology-and-citizen-science-ethics-m2",
+  "conceptId": "diy-biology-and-citizen-science-ethics",
+  "text": {
+    "en": "If CRISPR gene editing works as a technology in a laboratory setting, then a home-mixed version delivered by self-injection should work just as reliably -- in reality, the editing chemistry working in a controlled lab setting says nothing about whether a home-mixed batch is actually pure and correctly formulated, or whether it can be safely and effectively delivered into the right cells in a living body -- delivery, not the editing chemistry itself, remains the harder unsolved problem in gene therapy generally.",
+    "et": "Kui CRISPR geenitoimetamine töötab tehnoloogiana laborikeskkonnas, peaks kodus segatud versioon, mis manustatakse iseendale süstides, töötama sama usaldusväärselt -- tegelikult ei ütle toimetamiskeemia töötamine kontrollitud laborikeskkonnas midagi selle kohta, kas kodus segatud partii on tegelikult puhas ja õigesti formuleeritud, või kas seda saab ohutult ja tõhusalt toimetada õigetesse rakkudesse elavas kehas -- toimetamine, mitte toimetamise keemia ise, jääb raskemaks lahendamata probleemiks geeniteraapias üldiselt.",
+    "sourceHash": "3bfe171115ee7ccd",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "diy-biology-and-citizen-science-ethics-item1",
+  "conceptId": "diy-biology-and-citizen-science-ethics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A biohacker mixes a CRISPR gene-editing construct at home and self-injects it, reasoning that since CRISPR is a well-established technology used successfully in laboratories, the same result should follow at home. What's the flaw in this reasoning?",
+    "et": "Biohäkker segab kodus CRISPR geenitoimetamise konstrukti ja süstib selle endale, arutledes, et kuna CRISPR on hästi väljakujunenud tehnoloogia, mida kasutatakse edukalt laborites, peaks sama tulemus järgnema ka kodus. Mis on selle arutluskäigu viga?",
+    "sourceHash": "d78f83fdea735c9a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The editing chemistry working in a controlled lab setting says nothing about whether a home-mixed batch is pure and correctly formulated, or whether it can be safely and effectively delivered into the right cells -- delivery, not the chemistry, is the harder unsolved problem.",
+        "et": "Toimetamiskeemia töötamine kontrollitud laborikeskkonnas ei ütle midagi selle kohta, kas kodus segatud partii on puhas ja õigesti formuleeritud, või kas seda saab ohutult ja tõhusalt toimetada õigetesse rakkudesse -- toimetamine, mitte keemia, on raskem lahendamata probleem.",
+        "sourceHash": "83b46c4ea08aad5c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There is no real flaw -- CRISPR's mechanism is well-established science, so a correctly designed construct will produce the intended edit regardless of who mixes it or how it's delivered into the body.",
+        "et": "Tegelikku viga ei ole -- CRISPR-i mehhanism on hästi väljakujunenud teadus, mistõttu õigesti disainitud konstrukt tekitab kavandatud toimetamise sõltumata sellest, kes selle segab või kuidas see kehasse toimetatakse.",
+        "sourceHash": "358b6da400f6185f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diy-biology-and-citizen-science-ethics-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The only real issue is legal, not scientific -- self-administering a home-mixed construct is exactly as scientifically sound as a lab procedure, it's simply prohibited by regulation.",
+        "et": "Ainus tõeline probleem on juriidiline, mitte teaduslik -- kodus segatud konstrukti iseendale manustamine on täpselt sama teaduslikult usaldusväärne kui laboriprotseduur, seda lihtsalt keelab regulatsioon.",
+        "sourceHash": "3392083ae8ff60a9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diy-biology-and-citizen-science-ethics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This kind of self-experimentation is fine because the existing biosafety oversight framework already clearly applies to and is enforced against individual self-experimenters, the same way it applies to institutional labs.",
+        "et": "Seda tüüpi eneseeksperimenteerimine on korras, kuna olemasolev bioohutuse järelevalve raamistik juba selgelt kehtib individuaalsete eneseeksperimenteerijate suhtes ja seda jõustatakse nende vastu samamoodi nagu institutsionaalsete laborite suhtes.",
+        "sourceHash": "de93d6a82b8f847f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "diy-biology-and-citizen-science-ethics-m3"
+    }
+  ]
+}

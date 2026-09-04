@@ -1,0 +1,10 @@
+{
+  "id": "diy-biology-and-citizen-science-ethics-m1",
+  "conceptId": "diy-biology-and-citizen-science-ethics",
+  "text": {
+    "en": "Self-injecting a homemade CRISPR construct is basically the same activity as the useful citizen science happening in community biology labs, just done at home -- in reality, most community-lab citizen science (environmental monitoring, open-source protocols, education) doesn't involve altering a living human body, while self-administered gene editing requires verifying construct purity, safely delivering it into the right cells, and detecting off-target edits -- infrastructure a solo self-experimenter essentially never has access to, putting it in a fundamentally different risk category.",
+    "et": "Kodus valmistatud CRISPR konstrukti endale süstimine on sisuliselt sama tegevus kui kogukonna bioloogialaborites toimuv kasulik kodanikuteadus, lihtsalt kodus tehtuna -- tegelikult ei hõlma enamik kogukonnalabori kodanikuteadust (keskkonnaseire, avatud lähtekoodiga protokollid, haridus) elava inimkeha muutmist, samas kui iseenda manustatud geenitoimetamine nõuab konstrukti puhtuse kontrollimist, selle ohutut toimetamist õigetesse rakkudesse ning sihtmärgivälise toimetamise tuvastamist -- infrastruktuuri, millele üksi töötaval eneseeksperimenteerijal praktiliselt kunagi ligipääsu ei ole, mis paigutab selle põhimõtteliselt erinevasse riskikategooriasse.",
+    "sourceHash": "e09031787510fd02",
+    "stale": false
+  }
+}
