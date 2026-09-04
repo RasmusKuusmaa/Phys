@@ -1,0 +1,10 @@
+{
+  "id": "viral-structure-and-replication-m2",
+  "conceptId": "viral-structure-and-replication",
+  "text": {
+    "en": "A virus is 'sleeping' or dormant the whole time it's inside a host cell, only 'waking up' occasionally to cause illness -- in reality, a virus following the lytic cycle is immediately and continuously active from the moment it enters a susceptible cell, redirecting host machinery toward producing new viral copies right away; only a virus following the lysogenic strategy specifically integrates into the host genome and lies genuinely dormant, and even then it is being passively, reliably copied along with the host's own DNA the whole time, not simply inactive.",
+    "et": "Viirus 'magab' või on uinunud kogu aja, mil see on peremeesrakus, 'ärgates' ainult aeg-ajalt, et põhjustada haigust -- tegelikult on lüütilist tsüklit järgiv viirus kohe ja pidevalt aktiivne alates hetkest, mil see siseneb vastuvõtlikku rakku, suunates peremehe masinavärgi kohe uute viiruskoopiate tootmisele; ainult lüsogeenset strateegiat järgiv viirus integreerub spetsiifiliselt peremehe genoomi ja lebab tõeliselt uinunult, ning isegi siis kopeeritakse seda kogu aeg passiivselt ja usaldusväärselt koos peremehe enda DNA-ga, mitte lihtsalt tegevusetult.",
+    "sourceHash": "315f96911537756f",
+    "stale": false
+  }
+}

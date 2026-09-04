@@ -1,0 +1,10 @@
+{
+  "id": "viral-structure-and-replication-m3",
+  "conceptId": "viral-structure-and-replication",
+  "text": {
+    "en": "Since a virus isn't technically alive, it can't evolve or develop drug resistance the way bacteria can -- in reality, viruses evolve continuously through mutation and selection despite not meeting the standard definition of a living organism; RNA viruses in particular replicate with a high error rate, generating enormous genetic diversity very quickly, which is exactly why antiviral drug resistance and immune-evading variants (like new influenza or coronavirus strains) emerge and spread readily.",
+    "et": "Kuna viirus ei ole tehniliselt elus, ei saa see areneda ega arendada ravimiresistentsust nii, nagu bakterid seda teevad -- tegelikult arenevad viirused pidevalt mutatsiooni ja valiku kaudu, hoolimata sellest, et need ei vasta elusorganismi standardsele definitsioonile; eriti RNA-viirused replitseeruvad suure veamääraga, tekitades väga kiiresti tohutut geneetilist mitmekesisust, mis ongi täpselt põhjus, miks viirusevastane ravimiresistentsus ja immuunsüsteemi vältivad variandid (nagu uued gripi- või koroonaviiruse tüved) tekivad ja levivad kergesti.",
+    "sourceHash": "c5651f1c8fdb9a5a",
+    "stale": false
+  }
+}

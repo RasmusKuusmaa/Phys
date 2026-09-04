@@ -1,0 +1,10 @@
+{
+  "id": "viral-structure-and-replication-m1",
+  "conceptId": "viral-structure-and-replication",
+  "text": {
+    "en": "Viruses are just extremely small bacteria -- in reality, viruses and bacteria differ fundamentally, not just in size: bacteria are living, independently metabolizing cells with their own ribosomes, energy production, and reproductive machinery, while a virus has none of these and cannot replicate without completely hijacking a host cell's own machinery; antibiotics, which target bacterial cell structures and processes, consequently have no effect on viruses whatsoever.",
+    "et": "Viirused on lihtsalt äärmiselt väikesed bakterid -- tegelikult erinevad viirused ja bakterid põhimõtteliselt, mitte ainult suuruse poolest: bakterid on elusad, iseseisvalt ainevahetust teostavad rakud, millel on omad ribosoomid, energiatootmine ja paljunemismasinavärk, samas kui viirusel pole midagi sellest ning see ei saa paljuneda ilma peremeesraku enda masinavärki täielikult üle võtmata; antibiootikumidel, mis sihivad bakteri rakustruktuure ja protsesse, ei ole seetõttu viirustele mingit mõju.",
+    "sourceHash": "915a495216d6e6f0",
+    "stale": false
+  }
+}

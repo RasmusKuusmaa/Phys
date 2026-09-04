@@ -1,0 +1,19 @@
+{
+  "id": "viral-structure-and-replication",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "microbiology",
+  "title": {
+    "en": "Viral structure and replication",
+    "et": "Viiruste ehitus ja paljunemine",
+    "sourceHash": "76e27dbc79a3a233",
+    "stale": false
+  },
+  "summary": {
+    "en": "A virus is not a cell: it has no cytoplasm, no ribosomes, no independent metabolism, and cannot reproduce on its own -- it is, at its simplest, genetic material (DNA or RNA, but never both) wrapped in a protective protein shell called a capsid, sometimes further wrapped in a lipid envelope taken from a host cell's own membrane, and it can only replicate by hijacking a living host cell's molecular machinery. This total dependence on a host is exactly why viruses sit outside the standard definition of a living organism, despite clearly evolving and adapting like one. Once a virus's genetic material enters a suitable host cell, it can follow one of two broad strategies: the lytic cycle immediately redirects the host's machinery toward mass-producing new virus copies, which then burst (lyse) the cell open to release hundreds of new viral particles that go on to infect further cells; the lysogenic cycle instead inserts the viral genome into the host's own chromosome, where it lies dormant, silently copied along with the host cell's own DNA every time that cell divides, until some trigger (often cellular stress) switches it into the lytic cycle later. Because a lysogenic virus's genome becomes physically part of the host genome and gets replicated passively for free, this strategy can persist silently across many host-cell generations before ever producing a single new viral particle.",
+    "et": "Viirus ei ole rakk: sellel puudub tsütoplasma, ribosoomid ja iseseisev ainevahetus ning see ei suuda iseseisvalt paljuneda -- see on oma lihtsaimal kujul geneetiline materjal (DNA või RNA, kuid mitte kunagi mõlemad), mis on ümbritsetud kaitsva valgukestaga nimega kapsiid, mõnikord täiendavalt ümbritsetud lipiidkihiga, mis on võetud peremeesraku enda membraanilt, ning see saab paljuneda ainult elava peremeesraku molekulaarset masinavärki üle võttes. See täielik sõltuvus peremehest ongi täpselt põhjus, miks viirused jäävad elusorganismi standardsest definitsioonist välja, hoolimata sellest, et need selgelt arenevad ja kohanevad nagu elusorganism. Kui viiruse geneetiline materjal siseneb sobivasse peremeesrakku, võib see järgida üht kahest laiast strateegiast: lüütiline tsükkel suunab kohe peremehe masinavärgi uute viiruskoopiate massiliseks tootmiseks, mis seejärel purustavad (lüüsivad) raku, vabastades sadu uusi viirusosakesi, mis edasi nakatavad teisi rakke; lüsogeenne tsükkel seevastu lülitab viiruse genoomi peremehe enda kromosoomi, kus see lebab uinunult, kopeerituna passiivselt koos peremeesraku enda DNA-ga iga rakujagunemise käigus, kuni mingi käivitaja (sageli rakustress) lülitab selle hiljem lüütilisse tsüklisse. Kuna lüsogeense viiruse genoom saab füüsiliselt osaks peremehe genoomist ja see kopeeritakse passiivselt tasuta, võib see strateegia püsida vaikselt paljude peremeesraku põlvkondade vältel, enne kui toodab kunagi ühtegi uut viirusosakest.",
+    "sourceHash": "a9a623f3719f2991",
+    "stale": false
+  },
+  "prerequisites": []
+}

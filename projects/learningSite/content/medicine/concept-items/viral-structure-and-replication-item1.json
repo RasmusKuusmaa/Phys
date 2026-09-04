@@ -1,0 +1,56 @@
+{
+  "id": "viral-structure-and-replication-item1",
+  "conceptId": "viral-structure-and-replication",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A virus integrates its genetic material into a host cell's chromosome and produces no new viral particles for several cell generations. Which statement best describes what's happening?",
+    "et": "Viirus integreerib oma geneetilise materjali peremeesraku kromosoomi ja ei tooda mitme rakupõlvkonna jooksul ühtegi uut viirusosakest. Milline väide kirjeldab kõige paremini, mis toimub?",
+    "sourceHash": "8d405abee96c17b7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The virus is following the lysogenic cycle: its genome has become part of the host chromosome and is being passively copied along with the host's own DNA at every cell division, until a later trigger switches it into active viral particle production.",
+        "et": "Viirus järgib lüsogeenset tsüklit: selle genoom on saanud osaks peremehe kromosoomist ning seda kopeeritakse passiivselt koos peremehe enda DNA-ga igal rakujagunemisel, kuni hilisem käivitaja lülitab selle aktiivsele viirusosakeste tootmisele.",
+        "sourceHash": "ff2938dda7bc5ea1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The virus is simply dormant and biologically inactive during this period, doing nothing at all until it eventually 'wakes up' on its own.",
+        "et": "Viirus on selle perioodi jooksul lihtsalt uinunud ja bioloogiliselt passiivne, tegemata mitte midagi, kuni see lõpuks iseenesest 'ärkab'.",
+        "sourceHash": "c63d0ae222fd81ec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viral-structure-and-replication-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This behavior shows the virus is actually a very small, slow-growing bacterium rather than a true virus, since true viruses always destroy the host cell immediately.",
+        "et": "See käitumine näitab, et viirus on tegelikult väga väike, aeglaselt kasvav bakter, mitte tõeline viirus, kuna tõelised viirused hävitavad peremeesraku alati kohe.",
+        "sourceHash": "8e9d47af7b7f6fc0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viral-structure-and-replication-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This is impossible -- since viruses aren't alive, they cannot integrate into a genome or persist across cell generations at all.",
+        "et": "See on võimatu -- kuna viirused ei ole elus, ei saa need integreeruda genoomi ega püsida läbi rakupõlvkondade üldse.",
+        "sourceHash": "6dc94c27cb4b9c33",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "viral-structure-and-replication-m3"
+    }
+  ]
+}
