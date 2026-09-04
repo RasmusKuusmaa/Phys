@@ -1,0 +1,56 @@
+{
+  "id": "ligand-field-theory-item1",
+  "conceptId": "ligand-field-theory",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Neutral carbon monoxide splits a transition metal's d-orbitals far more strongly than some negatively charged ligands do, placing it high in the spectrochemical series despite having no negative charge at all. Why does crystal field theory struggle to explain this?",
+    "et": "Neutraalne süsinikmonooksiid lõhestab siirdemetalli d-orbitaale palju tugevamalt kui mõned negatiivse laenguga ligandid, asetades selle spektrokeemilises seerias kõrgele, hoolimata sellest, et sellel pole üldse negatiivset laengut. Miks on kristallivälja teoorial raske seda seletada?",
+    "sourceHash": "8320d016758d2ed1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Crystal field theory treats ligands as point charges and predicts splitting strength should track charge, but the actual splitting strength is driven by covalent orbital overlap, which ligand field theory accounts for directly.",
+        "et": "Kristallivälja teooria käsitleb ligande punktlaengutena ja ennustab, et lõhestumise tugevus peaks jälgima laengut, kuid tegelikku lõhestumise tugevust juhib kovalentne orbitaalide kattumine, mida ligandivälja teooria otseselt arvestab.",
+        "sourceHash": "84b3768de6bc10f5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This observation is actually fully consistent with crystal field theory, since point-charge electrostatics alone already predicts carbon monoxide's high position in the series.",
+        "et": "See vaatlus on tegelikult täielikult kooskõlas kristallivälja teooriaga, kuna punktlaengu elektrostaatika üksi ennustab juba süsinikmonooksiidi kõrget asukohta seerias.",
+        "sourceHash": "30b217b809bc8b9e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ligand-field-theory-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The spectrochemical series must actually be ranked by formal charge after all, so carbon monoxide's position indicates it carries a hidden negative charge not usually accounted for.",
+        "et": "Spektrokeemiline seeria peab tegelikult ikkagi olema järjestatud formaalse laengu järgi, seega viitab süsinikmonooksiidi asukoht sellele, et see kannab varjatud negatiivset laengut, mida tavaliselt arvesse ei võeta.",
+        "sourceHash": "4f9bf664d183843b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ligand-field-theory-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Ligand field theory and crystal field theory are the same model, so whatever crystal field theory cannot explain, ligand field theory cannot explain either.",
+        "et": "Ligandivälja teooria ja kristallivälja teooria on sama mudel, seega mida kristallivälja teooria ei suuda seletada, ei suuda seda ka ligandivälja teooria.",
+        "sourceHash": "ef9dce5439562191",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ligand-field-theory-m3"
+    }
+  ]
+}

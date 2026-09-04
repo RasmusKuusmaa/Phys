@@ -1,0 +1,21 @@
+{
+  "id": "ligand-field-theory",
+  "subject": "chemistry",
+  "level": "L4",
+  "module": "inorganic-chemistry",
+  "title": {
+    "en": "Ligand field theory",
+    "et": "Ligandivälja teooria",
+    "sourceHash": "b8f7be718895f5e5",
+    "stale": false
+  },
+  "summary": {
+    "en": "Crystal field theory explains why surrounding ligands split a transition metal's five degenerate d-orbitals into two energy groups by treating each ligand as nothing more than a point negative charge repelling the metal's d-electrons electrostatically, a picture that gets the qualitative splitting pattern right but cannot explain why some ligands split the d-orbitals far more strongly than their charge alone would predict, and ligand field theory resolves this by replacing the purely electrostatic picture with a genuine molecular-orbital treatment in which metal d-orbitals and ligand orbitals of matching symmetry combine into new bonding and antibonding molecular orbitals, with covalent orbital overlap, not just electrostatic repulsion, contributing directly to the splitting -- explaining directly why the spectrochemical series (the experimentally observed ranking of ligands by how strongly they split the d-orbitals) does not track ligand charge at all, since it is overlap-driven covalent bonding strength, not simple electrostatics, that actually determines a ligand's position in that series.",
+    "et": "Kristallivälja teooria seletab, miks ümbritsevad ligandid lõhestavad siirdemetalli viis kõdunud d-orbitaali kaheks energiarühmaks, käsitledes iga ligandi mitte millegi enama kui punktnegatiivse laenguna, mis tõukab metalli d-elektrone elektrostaatiliselt, pilt, mis saab kvalitatiivse lõhestumismustri õigesti, kuid ei suuda seletada, miks mõned ligandid lõhestavad d-orbitaale palju tugevamalt, kui nende laeng üksi ennustaks, ning ligandivälja teooria lahendab selle, asendades puhtalt elektrostaatilise pildi tõelise molekulaarorbitaalse käsitlusega, milles metalli d-orbitaalid ja vastava sümmeetriaga ligandi orbitaalid kombineeruvad uuteks sidesteks ja antisidesteks molekulaarorbitaalideks, kusjuures kovalentne orbitaalide kattumine, mitte ainult elektrostaatiline tõukumine, panustab otseselt lõhestumisesse -- seletades otseselt, miks spektrokeemiline seeria (eksperimentaalselt vaadeldud ligandide järjestus selle järgi, kui tugevalt need d-orbitaale lõhestavad) üldse ei jälgi ligandi laengut, kuna just kattumisest juhitud kovalentse sidumise tugevus, mitte lihtne elektrostaatika, määrab tegelikult ligandi asukoha selles seerias.",
+    "sourceHash": "fb1d6067eaa54b8c",
+    "stale": false
+  },
+  "prerequisites": [
+    "transition-metals-and-coordination-compounds"
+  ]
+}

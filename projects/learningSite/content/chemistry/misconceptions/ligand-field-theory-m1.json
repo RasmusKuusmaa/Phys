@@ -1,0 +1,10 @@
+{
+  "id": "ligand-field-theory-m1",
+  "conceptId": "ligand-field-theory",
+  "text": {
+    "en": "Believing crystal field theory's purely electrostatic point-charge model fully explains the observed strength with which different ligands split a transition metal's d-orbitals -- crystal field theory correctly predicts the qualitative pattern of splitting (which orbitals go up in energy and which go down) but fails specifically at predicting the actual magnitude of splitting for many real ligands, since some ligands split the d-orbitals far more strongly than their formal charge alone would suggest; this specific quantitative failure is exactly what motivated ligand field theory's genuinely different, covalent-bonding-based explanation.",
+    "et": "Arvamus, et kristallivälja teooria puhtalt elektrostaatiline punktlaengu mudel seletab täielikult vaadeldud tugevust, millega erinevad ligandid siirdemetalli d-orbitaale lõhestavad -- kristallivälja teooria ennustab õigesti lõhestumise kvalitatiivset mustrit (millised orbitaalid lähevad energias üles ja millised alla), kuid ebaõnnestub spetsiifiliselt paljude reaalsete ligandide lõhestumise tegeliku suuruse ennustamisel, kuna mõned ligandid lõhestavad d-orbitaale palju tugevamalt, kui nende formaalne laeng üksi soovitaks; see spetsiifiline kvantitatiivne ebaõnnestumine ongi täpselt see, mis motiveeris ligandivälja teooria tõeliselt erinevat, kovalentsele sidumisele põhinevat seletust.",
+    "sourceHash": "78d1d4195e1b4e31",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "ligand-field-theory-m2",
+  "conceptId": "ligand-field-theory",
+  "text": {
+    "en": "Believing the spectrochemical series (the experimental ranking of ligands by how strongly they split the d-orbitals) should track each ligand's formal electric charge, with more negatively charged ligands always splitting the orbitals more strongly -- the series specifically does not track charge in this simple way; some neutral ligands (like carbon monoxide) split the d-orbitals far more strongly than some negatively charged ligands, because a ligand's position in the series is actually determined by how effectively its orbitals overlap covalently with the metal's d-orbitals, not by its formal charge, which is precisely the observation crystal field theory's purely electrostatic picture cannot explain and ligand field theory's molecular-orbital picture can.",
+    "et": "Arvamus, et spektrokeemiline seeria (eksperimentaalne ligandide järjestus selle järgi, kui tugevalt need d-orbitaale lõhestavad) peaks jälgima iga ligandi formaalset elektrilaengut, kusjuures negatiivsema laenguga ligandid lõhestaksid orbitaale alati tugevamalt -- seeria ei jälgi täpselt seda lihtsat laengumustrit; mõned neutraalsed ligandid (nagu süsinikmonooksiid) lõhestavad d-orbitaale palju tugevamalt kui mõned negatiivse laenguga ligandid, kuna ligandi asukoht seerias on tegelikult määratud sellega, kui tõhusalt selle orbitaalid kattuvad kovalentselt metalli d-orbitaalidega, mitte selle formaalse laenguga, mis ongi täpselt vaatlus, mida kristallivälja teooria puhtalt elektrostaatiline pilt ei suuda seletada ja ligandivälja teooria molekulaarorbitaalne pilt suudab.",
+    "sourceHash": "5db59d414b742782",
+    "stale": false
+  }
+}

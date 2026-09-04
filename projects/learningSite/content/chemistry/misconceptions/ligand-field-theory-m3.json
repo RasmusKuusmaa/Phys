@@ -1,0 +1,10 @@
+{
+  "id": "ligand-field-theory-m3",
+  "conceptId": "ligand-field-theory",
+  "text": {
+    "en": "Believing ligand field theory and crystal field theory are simply two different names for exactly the same underlying model -- crystal field theory is purely electrostatic, treating ligands as point charges with no orbital overlap or covalent character at all, while ligand field theory is a genuine molecular-orbital treatment in which metal and ligand orbitals of matching symmetry combine into new bonding and antibonding combinations, with covalent overlap contributing directly to the d-orbital splitting; ligand field theory is a strictly more general and more accurate framework that reduces to something resembling crystal field theory only in the limiting case where covalent overlap happens to be negligible.",
+    "et": "Arvamus, et ligandivälja teooria ja kristallivälja teooria on lihtsalt kaks erinevat nime täpselt samale aluseks olevale mudelile -- kristallivälja teooria on puhtalt elektrostaatiline, käsitledes ligande punktlaengutena ilma orbitaalide kattumise või kovalentse iseloomuta üldse, samal ajal kui ligandivälja teooria on tõeline molekulaarorbitaalne käsitlus, milles metalli ja ligandi vastava sümmeetriaga orbitaalid kombineeruvad uuteks sidesteks ja antisidesteks kombinatsioonideks, kusjuures kovalentne kattumine panustab otseselt d-orbitaalide lõhestumisesse; ligandivälja teooria on rangelt üldisem ja täpsem raamistik, mis taandub millekski kristallivälja teooriat meenutavaks ainult piirjuhul, kus kovalentne kattumine juhtub olema tühine.",
+    "sourceHash": "69c0d0a3bbcdd9be",
+    "stale": false
+  }
+}
