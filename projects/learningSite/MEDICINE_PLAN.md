@@ -264,4 +264,13 @@ one Wikipedia resource pair (fungal disease specifically) rather than
 splitting into two concepts, since the shared "eukaryotic pathogen, harder
 drug target" thread ties them together as one coherent idea.
 
+Phase Med2 complete: 24 medicine concepts total (12 new Phase-Med2 concepts
+on top of the 12-concept Phase Med1 baseline). Ran as two parallel forks
+sharing one working tree, same benign shared-index race Phase Med1 hit (one
+module's docs-commit checkbox update folded into the sibling's commit) —
+no data loss, both modules' content and checkbox state verified correct.
+`npm run validate:content` (9 subjects, 546 concepts), `npm run
+lint:terminology` (254 glossary terms), and `npm run typecheck` all pass;
+working tree otherwise clean.
+
 ---
