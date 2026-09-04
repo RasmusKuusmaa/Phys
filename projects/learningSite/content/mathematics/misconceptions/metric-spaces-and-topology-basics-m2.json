@@ -1,0 +1,10 @@
+{
+  "id": "metric-spaces-and-topology-basics-m2",
+  "conceptId": "metric-spaces-and-topology-basics",
+  "text": {
+    "en": "Believing topology requires a notion of distance in order to define continuity or open sets, just expressed in more abstract language than a metric space -- topology specifically dispenses with distance altogether, defining a space purely by declaring which subsets count as 'open,' subject only to a short list of closure axioms (the whole space and the empty set are open, arbitrary unions of open sets are open, finite intersections of open sets are open); continuity is then defined purely in terms of these declared open sets (a function is continuous if the preimage of every open set is open), with no distance function required at any point, which is precisely what makes topology strictly more general than metric spaces rather than merely a relabeling of the same structure.",
+    "et": "Arvamus, et topoloogia vajab kauguse mõistet, et defineerida pidevust või lahtisid hulki, lihtsalt abstraktsemas keeles väljendatuna kui meetriline ruum -- topoloogia loobub spetsiifiliselt kaugusest üldse, defineerides ruumi puhtalt selle kaudu, kuulutades, millised alamhulgad loetakse 'lahtiseks', sõltuvalt ainult lühikesest sulundiaksioomide loetelust (kogu ruum ja tühi hulk on lahtised, lahtiste hulkade suvalised ühendid on lahtised, lahtiste hulkade lõplikud ühisosad on lahtised); pidevus on siis defineeritud puhtalt nende deklareeritud lahtiste hulkade mõistes (funktsioon on pidev, kui iga lahtise hulga eelkujutis on lahtine), ilma kaugusfunktsioonita mistahes hetkel, mis ongi täpselt see, mis muudab topoloogia rangelt üldisemaks kui meetrilised ruumid, mitte lihtsalt sama struktuuri ümbernimetamiseks.",
+    "sourceHash": "fa20394928d06b79",
+    "stale": false
+  }
+}

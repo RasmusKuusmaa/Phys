@@ -1,0 +1,10 @@
+{
+  "id": "metric-spaces-and-topology-basics-m3",
+  "conceptId": "metric-spaces-and-topology-basics",
+  "text": {
+    "en": "Believing 'closed and bounded' and 'compact' are simply two different names for exactly the same property in every topological setting -- in ordinary Euclidean space, being closed and bounded is indeed equivalent to being compact (this equivalence itself is a specific, named theorem, the Heine-Borel theorem, not a definitional given), but in more general topological or metric spaces this equivalence genuinely breaks down, and compactness is defined independently (every open cover has a finite subcover) as the property that actually does the mathematical work in general -- guaranteeing, for instance, that a continuous function achieves a maximum and minimum value -- rather than the more restrictive, Euclidean-specific 'closed and bounded' condition.",
+    "et": "Arvamus, et 'suletud ja tõkestatud' ning 'kompaktne' on lihtsalt kaks erinevat nime täpselt samale omadusele igas topoloogilises kontekstis -- tavalises Eukleidilises ruumis on suletud ja tõkestatud olemine tõesti samaväärne kompaktsusega (see samaväärsus ise on konkreetne, nimeline teoreem, Heine-Boreli teoreem, mitte definitsiooniline antus), kuid üldisemates topoloogilistes või meetrilistes ruumides see samaväärsus tõeliselt murdub, ning kompaktsus on defineeritud sõltumatult (iga lahtine katteperekond omab lõplikku alamkatet) kui omadus, mis tegelikult teeb üldiselt matemaatilise töö -- garanteerides näiteks, et pidev funktsioon saavutab maksimum- ja miinimumväärtuse -- mitte piiravam, Eukleidiliselt spetsiifiline 'suletud ja tõkestatud' tingimus.",
+    "sourceHash": "2f2557afbc1f8d43",
+    "stale": false
+  }
+}

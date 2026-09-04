@@ -1,0 +1,21 @@
+{
+  "id": "metric-spaces-and-topology-basics",
+  "subject": "mathematics",
+  "level": "L4",
+  "module": "calculus",
+  "title": {
+    "en": "Metric spaces and topology basics",
+    "et": "Meetrilised ruumid ja topoloogia alused",
+    "sourceHash": "a33267f56462b34d",
+    "stale": false
+  },
+  "summary": {
+    "en": "The epsilon-delta definition of a limit relies on measuring distance between real numbers, but the same essential idea -- points being 'close together' -- makes sense far more generally once a set is equipped with a distance function (a metric) satisfying a few natural axioms, defining a metric space in which concepts like open sets, continuity, and convergence can all be defined exactly as before, just with the metric substituted for ordinary absolute-value distance; open sets themselves turn out to be the truly essential ingredient, so essential that topology dispenses with distance altogether and defines a space purely by which sets are declared open, subject only to a short list of closure axioms, a genuine generalization that recovers ordinary continuity as exactly the requirement that preimages of open sets be open, and that isolates two properties, compactness and connectedness, as the precise, rigorous versions of the everyday intuitions 'closed and bounded' and 'in one piece' that a first calculus course leaves entirely informal.",
+    "et": "Piirväärtuse epsilon-delta definitsioon tugineb kauguse mõõtmisele reaalarvude vahel, kuid sama põhiline idee -- punktid on 'lähestikku' -- on mõistlik palju üldisemalt, kui hulk on varustatud kaugusfunktsiooniga (meetrikaga), mis rahuldab mõningaid loomulikke aksioome, defineerides meetrilise ruumi, milles mõisteid nagu lahtised hulgad, pidevus ja koondumine saab kõiki defineerida täpselt nagu varem, lihtsalt meetrika on asendatud tavalise absoluutväärtusega kauguse vastu; lahtised hulgad ise osutuvad tõeliselt olemuslikuks koostisosaks, nii olemuslikuks, et topoloogia loobub kaugusest üldse ning defineerib ruumi puhtalt selle kaudu, millised hulgad on kuulutatud lahtiseks, sõltuvalt ainult lühikesest sulundiaksioomide loetelust, tõeline üldistus, mis taastab tavalise pidevuse täpselt kui nõude, et lahtiste hulkade eelkujutised oleksid lahtised, ning mis eristab kaks omadust, kompaktsus ja sidusus, kui täpsed, ranged versioonid igapäevastest intuitsioonidest 'suletud ja tõkestatud' ning 'ühe tükina', mille esimene analüüsikursus jätab täiesti mitteformaalseks.",
+    "sourceHash": "308307c0bd4c464a",
+    "stale": false
+  },
+  "prerequisites": [
+    "epsilon-delta-limits-and-uniform-convergence"
+  ]
+}

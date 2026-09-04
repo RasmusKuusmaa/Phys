@@ -1,0 +1,10 @@
+{
+  "id": "metric-spaces-and-topology-basics-m1",
+  "conceptId": "metric-spaces-and-topology-basics",
+  "text": {
+    "en": "Believing continuity, convergence, and limits are concepts that only make sense for real-valued functions of a real variable, tied specifically to the ordinary absolute-value notion of distance -- once a set is equipped with any function satisfying the metric axioms (non-negativity, the distance from a point to itself being zero and only zero, symmetry, and the triangle inequality), every one of these concepts carries over essentially unchanged, with the metric simply substituted for absolute-value distance in each definition; metric spaces make continuity and convergence meaningful for far more general objects than real numbers, including functions themselves, sequences, or points in an abstract configuration space.",
+    "et": "Arvamus, et pidevus, koondumine ja piirväärtused on mõisted, mis on mõttekad ainult reaalarvulise muutuja reaalväärtuseliste funktsioonide jaoks, seotud spetsiifiliselt tavalise absoluutväärtusega kauguse mõistega -- kord kui hulk on varustatud mistahes funktsiooniga, mis rahuldab meetrika aksioome (mittenegatiivsus, kaugus punktist iseendani on null ja ainult null, sümmeetria ja kolmnurga võrratus), kanduvad kõik need mõisted üle sisuliselt muutumatult, kusjuures meetrika on lihtsalt asendatud absoluutväärtusega kauguse vastu igas definitsioonis; meetrilised ruumid muudavad pidevuse ja koondumise mõttekaks palju üldisemate objektide jaoks kui reaalarvud, sealhulgas funktsioonide endi, jadade, või punktide jaoks abstraktses konfiguratsiooniruumis.",
+    "sourceHash": "6d4a081aa096abbe",
+    "stale": false
+  }
+}

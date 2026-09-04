@@ -1,0 +1,56 @@
+{
+  "id": "metric-spaces-and-topology-basics-item1",
+  "conceptId": "metric-spaces-and-topology-basics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In ordinary Euclidean space, 'closed and bounded' and 'compact' turn out to be equivalent (the Heine-Borel theorem). Why is this equivalence not treated as the general definition of compactness in topology?",
+    "et": "Tavalises Eukleidilises ruumis osutuvad 'suletud ja tõkestatud' ning 'kompaktne' samaväärseteks (Heine-Boreli teoreem). Miks ei käsitleta seda samaväärsust topoloogias kompaktsuse üldise definitsioonina?",
+    "sourceHash": "8f9f189df3fec365",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The equivalence genuinely breaks down in more general topological or metric spaces, so compactness is defined independently, via open covers, as the property that does the actual mathematical work.",
+        "et": "Samaväärsus tõeliselt murdub üldisemates topoloogilistes või meetrilistes ruumides, seega on kompaktsus defineeritud sõltumatult, lahtiste katete kaudu, kui omadus, mis teeb tegeliku matemaatilise töö.",
+        "sourceHash": "59f8b7418abe9b96",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It actually is treated as the general definition, since 'closed and bounded' and 'compact' mean exactly the same thing in every topological space without exception.",
+        "et": "Seda tõepoolest käsitletakse üldise definitsioonina, kuna 'suletud ja tõkestatud' ning 'kompaktne' tähendavad täpselt sama asja igas topoloogilises ruumis ilma erandita.",
+        "sourceHash": "8acc01e4d9226fc0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "metric-spaces-and-topology-basics-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Topology has no independent notion of compactness at all -- it borrows the concept entirely from metric spaces without adding anything of its own.",
+        "et": "Topoloogial ei ole üldse sõltumatut kompaktsuse mõistet -- see laenab mõiste täielikult meetrilistelt ruumidelt ilma midagi omalt poolt lisamata.",
+        "sourceHash": "195e2a46f2122470",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "metric-spaces-and-topology-basics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because compactness, continuity, and convergence are all concepts specific to real-valued functions and cannot be extended to more general spaces at all.",
+        "et": "Sest kompaktsus, pidevus ja koondumine on kõik mõisted, mis on spetsiifilised reaalväärtuselistele funktsioonidele ja mida ei saa üldse üldisematele ruumidele laiendada.",
+        "sourceHash": "e3e6e8df8a444e02",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "metric-spaces-and-topology-basics-m1"
+    }
+  ]
+}
