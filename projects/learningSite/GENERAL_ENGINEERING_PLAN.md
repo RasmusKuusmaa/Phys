@@ -117,24 +117,41 @@ radiation physics, not applied exchanger sizing) and quality control/
 engineering statistics (mathematics has generic probability distributions,
 not applied statistical process control).
 
-- [ ] Control systems and feedback (open-loop vs. closed-loop control, the
+- [x] Control systems and feedback (open-loop vs. closed-loop control, the
       PID control law, stability of a feedback loop — no prerequisite;
-      formalise the PID control law as a formula + problem template + error
-      model, the one clean numeric relationship)
-- [ ] Kinematics and dynamics of mechanisms (four-bar linkages, cams, gear
+      formalised the proportional term of the control law, u = Kp·e, as a
+      formula + problem template + error model — the one clean numeric
+      relationship; integral/derivative action stays conceptual, per the
+      plan's own note that not every graduate-adjacent nuance needs a
+      formula)
+- [x] Kinematics and dynamics of mechanisms (four-bar linkages, cams, gear
       trains and gear ratios — prerequisite:
-      statics-and-equilibrium-of-structures)
-- [ ] Engineering economics (time value of money, net present value,
+      statics-and-equilibrium-of-structures; kept conceptual, no single
+      clean numeric relationship across the three sub-topics)
+- [x] Engineering economics (time value of money, net present value,
       payback period, breakeven analysis for engineering decisions — no
-      prerequisite; formalise net present value as a formula + problem
-      template + error model)
-- [ ] Heat exchanger design and thermal systems (overall heat transfer
+      prerequisite; formalised the two-cash-flow net present value
+      relationship, NPV = CF/(1+r)^n − C0, as a formula + problem template +
+      error model)
+- [x] Heat exchanger design and thermal systems (overall heat transfer
       coefficient, log-mean temperature difference, fin effectiveness — the
       applied-design layer on top of engineering-thermodynamics-and-power-
       cycles; prerequisite: engineering-thermodynamics-and-power-cycles;
-      formalise the LMTD relationship as a formula + problem template +
-      error model)
-- [ ] Quality control and engineering statistics (control charts, process
-      capability, tolerance stack-up — no prerequisite)
+      formalised the LMTD relationship, ΔT_lm = (ΔT1−ΔT2)/ln(ΔT1/ΔT2), as a
+      formula + problem template + error model)
+- [x] Quality control and engineering statistics (control charts, process
+      capability, tolerance stack-up — no prerequisite; kept conceptual)
+
+Phase GE2 complete: 11 general-engineering concepts total. Added 9 new
+glossary terms this phase needed (proportional gain, controller output, net
+present value, cash flow, initial investment, discount rate, number of
+periods, temperature difference, log-mean temperature difference) — none had
+existing entries; reused the existing "error" entry for the control-law
+formula's error-signal symbol. `npm run validate:content` (494 concepts, 7
+subjects — the aerospace-engineering sibling phase landed concurrently),
+`npm run lint:terminology` (248 glossary terms), and `npm run typecheck` all
+pass; every one of this phase's 10 resource URLs individually curl-verified
+live (200), same scoped-check adjustment Phase GE1 used while a sibling
+phase was writing files concurrently.
 
 ---
