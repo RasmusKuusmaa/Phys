@@ -1,0 +1,10 @@
+{
+  "id": "pharmacokinetics-absorption-distribution-metabolism-excretion-m1",
+  "conceptId": "pharmacokinetics-absorption-distribution-metabolism-excretion",
+  "text": {
+    "en": "Taking a pill and getting an IV injection of the same drug at the same nominal dose delivers the same amount of active drug to the bloodstream -- in reality, oral drugs undergo first-pass hepatic metabolism and incomplete intestinal absorption before reaching systemic circulation, so their bioavailability is typically well below the 100% an IV dose delivers by definition, meaning oral and IV doses of the same nominal amount often produce very different blood concentrations.",
+    "et": "Tableti võtmine ja sama ravimi sama nimiannuse veenisisene manustamine annavad vereringesse sama koguse toimeainet -- tegelikult läbivad suukaudsed ravimid enne süsteemsesse vereringesse jõudmist maksa esmase läbimise metabolismi ja mittetäieliku soolestiku imendumise, mistõttu nende biosaadavus jääb tavaliselt tunduvalt alla veenisisese annuse kokkuleppelise 100%, mis tähendab, et sama nimikoguse suukaudne ja veenisisene annus annavad sageli väga erinevad vere kontsentratsioonid.",
+    "sourceHash": "a018848cce6a6c15",
+    "stale": false
+  }
+}

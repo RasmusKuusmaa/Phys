@@ -1,0 +1,56 @@
+{
+  "id": "pharmacokinetics-absorption-distribution-metabolism-excretion-item1",
+  "conceptId": "pharmacokinetics-absorption-distribution-metabolism-excretion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A drug reaches the bloodstream fully intact when given intravenously, but when the same nominal dose is taken as a pill, blood tests show a much lower peak concentration. What pharmacokinetic factor best explains this difference?",
+    "et": "Ravim jõuab vereringesse täielikult muutumatul kujul, kui seda manustatakse veenisiseselt, kuid kui sama nimiannust võetakse tabletina, näitavad vereanalüüsid palju madalamat tippkontsentratsiooni. Milline farmakokineetiline tegur seletab seda erinevust kõige paremini?",
+    "sourceHash": "bb5e779e7b5496d4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Bioavailability differences -- the oral dose undergoes first-pass hepatic metabolism and incomplete intestinal absorption before reaching systemic circulation, while the IV dose enters the bloodstream directly and completely.",
+        "et": "Biosaadavuse erinevused -- suukaudne annus läbib enne süsteemsesse vereringesse jõudmist maksa esmase läbimise metabolismi ja mittetäieliku soolestiku imendumise, samas kui veenisisene annus jõuab vereringesse otse ja täielikult.",
+        "sourceHash": "8c79e05af219a3cb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There's no meaningful difference in principle -- both routes should always produce identical blood concentrations for the same nominal dose.",
+        "et": "Põhimõtteliselt ei ole olulist erinevust -- mõlemad manustamisteed peaksid alati andma sama nimiannuse korral identsed vere kontsentratsioonid.",
+        "sourceHash": "70555c84a1dfc93f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pharmacokinetics-absorption-distribution-metabolism-excretion-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The oral dose is being fully destroyed by metabolism, since metabolism always deactivates a drug completely before it can act.",
+        "et": "Suukaudne annus hävitatakse metabolismi käigus täielikult, kuna metabolism alati inaktiveerib ravimi täielikult enne, kui see saab toimida.",
+        "sourceHash": "105ab35a9bc59430",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pharmacokinetics-absorption-distribution-metabolism-excretion-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The oral dose reaches all tissues evenly and instantly, so the lower blood concentration mostly reflects that it moved out of the bloodstream into tissues immediately.",
+        "et": "Suukaudne annus jõuab kõikidesse kudedesse ühtlaselt ja koheselt, mistõttu madalam vere kontsentratsioon peegeldab peamiselt seda, et see liikus koheselt vereringest kudedesse.",
+        "sourceHash": "248cb2e1ecc9a775",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pharmacokinetics-absorption-distribution-metabolism-excretion-m3"
+    }
+  ]
+}

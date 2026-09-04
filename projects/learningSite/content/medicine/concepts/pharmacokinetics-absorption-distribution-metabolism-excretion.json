@@ -1,0 +1,19 @@
+{
+  "id": "pharmacokinetics-absorption-distribution-metabolism-excretion",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "pharmacology",
+  "title": {
+    "en": "Pharmacokinetics: absorption, distribution, metabolism, and excretion",
+    "et": "Farmakokineetika: imendumine, jaotumine, metabolism ja eritumine",
+    "sourceHash": "0609a36415bc761d",
+    "stale": false
+  },
+  "summary": {
+    "en": "A drug's effect on the body depends not just on what it does at its target (that's pharmacodynamics, a separate concept) but on what the body does to the drug first -- the four processes of pharmacokinetics, conventionally abbreviated ADME. Absorption is how a drug gets from its site of administration into the bloodstream: a drug swallowed as a pill must survive stomach acid, cross the intestinal lining, and pass through the liver's first-pass metabolism before it ever reaches systemic circulation, which is why the same nominal dose given orally and intravenously can produce very different blood concentrations -- bioavailability is precisely the fraction of an administered dose that reaches systemic circulation intact, defined as 100% for an intravenous dose by convention and typically lower for every other route. Distribution describes how the drug then spreads from the bloodstream into the body's tissues, governed by factors like how fat-soluble the drug is, how strongly it binds blood proteins, and whether it can cross barriers like the blood-brain barrier. Metabolism, mostly performed by liver enzymes, chemically transforms the drug -- usually, though not always, into a less active, more water-soluble form the body can dispose of -- and excretion, primarily via the kidneys into urine, removes the drug and its metabolites from the body entirely. Together these four processes determine how much of a drug reaches its target, for how long, and in what form, which is why two drugs with identical pharmacodynamic mechanisms can still require completely different dosing schedules.",
+    "et": "Ravimi mõju organismile ei sõltu ainult sellest, mida ravim oma sihtmärgi juures teeb (see on farmakodünaamika, eraldi mõiste), vaid ka sellest, mida organism kõigepealt ravimiga teeb -- farmakokineetika nelja protsessi kaudu, mida tavapäraselt lühendatakse ADME. Imendumine on see, kuidas ravim jõuab manustamiskohast vereringesse: suu kaudu tabletina manustatud ravim peab üle elama maohappe, läbima soolestiku limaskesta ning läbima maksa esmase läbimise metabolismi, enne kui see üldse süsteemsesse vereringesse jõuab, mistõttu sama nimiannus suukaudselt ja veenisiseselt manustatuna võib anda väga erinevad vere kontsentratsioonid -- biosaadavus on täpselt see osa manustatud annusest, mis jõuab süsteemsesse vereringesse muutumatul kujul, defineerituna kokkuleppeliselt 100%-na veenisisese annuse jaoks ja tavaliselt madalamana iga teise manustamistee jaoks. Jaotumine kirjeldab, kuidas ravim seejärel levib vereringest organismi kudedesse, mida juhivad tegurid nagu ravimi rasvlahustuvus, kui tugevalt see seondub vereplasma valkudega, ning kas see suudab läbida barjääre nagu hematoentsefaalbarjäär. Metabolism, mida teostavad enamasti maksaensüümid, muudab ravimit keemiliselt -- tavaliselt, kuigi mitte alati, vähemaktiivseks ja vees paremini lahustuvaks vormiks, mida organism saab kõrvaldada --, ning eritumine, peamiselt neerude kaudu uriiniga, eemaldab ravimi ja selle metaboliidid organismist täielikult. Koos määravad need neli protsessi, kui palju ravimit jõuab oma sihtmärgini, kui kauaks ja mis kujul, mistõttu kaks identse farmakodünaamilise mehhanismiga ravimit võivad ikkagi vajada täiesti erinevaid annustamisskeeme.",
+    "sourceHash": "4272bc77e00cce39",
+    "stale": false
+  },
+  "prerequisites": []
+}

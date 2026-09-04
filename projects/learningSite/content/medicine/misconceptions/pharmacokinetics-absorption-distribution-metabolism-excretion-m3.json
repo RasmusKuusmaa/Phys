@@ -1,0 +1,10 @@
+{
+  "id": "pharmacokinetics-absorption-distribution-metabolism-excretion-m3",
+  "conceptId": "pharmacokinetics-absorption-distribution-metabolism-excretion",
+  "text": {
+    "en": "Once a drug is absorbed into the blood, it becomes evenly available everywhere in the body immediately -- in reality, distribution is neither instantaneous nor uniform: a drug's ability to reach a particular tissue depends on blood flow to that tissue, the drug's fat solubility, its protein binding, and whether specialized barriers like the blood-brain barrier block or slow its entry, so concentration at the target site can lag well behind blood concentration.",
+    "et": "Kui ravim on verre imendunud, muutub see koheselt ühtlaselt kättesaadavaks kogu organismis -- tegelikult ei ole jaotumine ei koheselt toimuv ega ühtlane: ravimi võime jõuda konkreetse koeni sõltub selle koe verevarustusest, ravimi rasvlahustuvusest, selle valguseondumisest ning sellest, kas spetsiaalsed barjäärid nagu hematoentsefaalbarjäär blokeerivad või aeglustavad selle sisenemist, mistõttu kontsentratsioon sihtkoes võib vere kontsentratsioonist tunduvalt maha jääda.",
+    "sourceHash": "1fc50eb93d3efa59",
+    "stale": false
+  }
+}

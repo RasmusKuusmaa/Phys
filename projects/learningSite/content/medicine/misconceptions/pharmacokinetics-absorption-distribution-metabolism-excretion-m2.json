@@ -1,0 +1,10 @@
+{
+  "id": "pharmacokinetics-absorption-distribution-metabolism-excretion-m2",
+  "conceptId": "pharmacokinetics-absorption-distribution-metabolism-excretion",
+  "text": {
+    "en": "A drug's metabolism always destroys or inactivates it -- in reality, some drugs (prodrugs) are inactive as administered and are only converted into their active form by metabolism, so metabolism sometimes activates rather than deactivates a drug.",
+    "et": "Ravimi metabolism alati hävitab või inaktiveerib selle -- tegelikult on mõned ravimid (eelravimid ehk prodrug'id) manustamisel inaktiivsed ja muutuvad aktiivseks alles metabolismi käigus, mistõttu metabolism mõnikord aktiveerib ravimi, mitte ei inaktiveeri seda.",
+    "sourceHash": "967e58cf1b151bbe",
+    "stale": false
+  }
+}
