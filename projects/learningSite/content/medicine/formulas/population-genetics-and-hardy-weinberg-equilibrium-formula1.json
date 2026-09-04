@@ -1,0 +1,33 @@
+{
+  "id": "population-genetics-and-hardy-weinberg-equilibrium-formula1",
+  "conceptId": "population-genetics-and-hardy-weinberg-equilibrium",
+  "latex": "q = \\sqrt{q^2}",
+  "symbols": [
+    {
+      "symbol": "q",
+      "name": {
+        "en": "allele frequency",
+        "et": "alleelisagedus",
+        "sourceHash": "16ce5b7dc86d1e6f",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "q_sq",
+      "name": {
+        "en": "genotype frequency",
+        "et": "genotüübisagedus",
+        "sourceHash": "3c27ca95b27f9990",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "q"
+  ],
+  "expressions": {
+    "q": "sqrt(q_sq)"
+  }
+}

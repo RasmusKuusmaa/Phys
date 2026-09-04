@@ -21,6 +21,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/adiabaatiline/1/est"
   },
   {
+    "id": "allele-frequency",
+    "en": "allele frequency",
+    "et": "alleelisagedus",
+    "domain": "genetics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/alleel/1/est"
+  },
+  {
     "id": "alpha-decay",
     "en": "alpha decay",
     "et": "alfalagunemine",
@@ -607,6 +614,13 @@
     "et": "üldistatud koordinaadid",
     "domain": "mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/koordinaat/1/est"
+  },
+  {
+    "id": "genotype-frequency",
+    "en": "genotype frequency",
+    "et": "genotüübisagedus",
+    "domain": "genetics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/genotüüp/1/est"
   },
   {
     "id": "gravity",

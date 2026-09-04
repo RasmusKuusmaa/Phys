@@ -1,0 +1,37 @@
+{
+  "id": "population-genetics-and-hardy-weinberg-equilibrium-solve-q",
+  "formulaId": "population-genetics-and-hardy-weinberg-equilibrium-formula1",
+  "solveFor": "q",
+  "mistakes": [
+    {
+      "id": "used-genotype-frequency-directly",
+      "description": {
+        "en": "Used the homozygous recessive genotype frequency directly as the allele frequency, forgetting to take the square root.",
+        "et": "Kasutas homosügootse retsessiivse genotüübi sagedust otse alleelisagedusena, unustades ruutjuure võtmise.",
+        "sourceHash": "7619eaa6ec89e860",
+        "stale": false
+      },
+      "expression": "q_sq"
+    },
+    {
+      "id": "halved-instead-of-square-rooted",
+      "description": {
+        "en": "Divided the genotype frequency by 2 instead of taking its square root, confusing this relationship with the heterozygote frequency 2pq.",
+        "et": "Jagas genotüübi sageduse kahega, selle asemel et võtta selle ruutjuur, ajades selle segamini heterosügootide sageduse valemiga 2pq.",
+        "sourceHash": "060b9b8b65c51af8",
+        "stale": false
+      },
+      "expression": "q_sq/2"
+    },
+    {
+      "id": "squared-instead-of-square-rooted",
+      "description": {
+        "en": "Squared the genotype frequency again instead of taking its square root, inverting the required operation.",
+        "et": "Tõstis genotüübi sageduse uuesti ruutu, selle asemel et võtta selle ruutjuur, pöörates vajaliku tehte ümber.",
+        "sourceHash": "a4ec1d75d0920b34",
+        "stale": false
+      },
+      "expression": "q_sq^2"
+    }
+  ]
+}

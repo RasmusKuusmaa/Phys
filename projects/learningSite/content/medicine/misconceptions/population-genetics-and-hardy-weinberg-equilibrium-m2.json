@@ -1,0 +1,10 @@
+{
+  "id": "population-genetics-and-hardy-weinberg-equilibrium-m2",
+  "conceptId": "population-genetics-and-hardy-weinberg-equilibrium",
+  "text": {
+    "en": "I think a rare allele should eventually just disappear from a population over time, simply because it's rare -- in reality, under true Hardy-Weinberg conditions allele frequencies stay exactly constant generation after generation regardless of how rare an allele is; frequencies only actually shift when one of the five Hardy-Weinberg assumptions is violated, such as genetic drift in a small population or selection against that allele.",
+    "et": "Arvan, et haruldane alleel peaks aja jooksul populatsioonist lihtsalt kaduma, ainuüksi seetõttu, et see on haruldane -- tegelikult jäävad tõeliste Hardy-Weinbergi tingimuste all alleelisagedused põlvkonniti täpselt konstantseks, olenemata sellest, kui haruldane alleel on; sagedused nihkuvad tegelikult ainult siis, kui üks Hardy-Weinbergi viiest eeldusest on rikutud, näiteks geneetiline triiv väikeses populatsioonis või valik selle alleeli vastu.",
+    "sourceHash": "f360642022269a99",
+    "stale": false
+  }
+}

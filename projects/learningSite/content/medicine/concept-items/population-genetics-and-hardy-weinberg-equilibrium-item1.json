@@ -1,0 +1,56 @@
+{
+  "id": "population-genetics-and-hardy-weinberg-equilibrium-item1",
+  "conceptId": "population-genetics-and-hardy-weinberg-equilibrium",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A population's measured genotype frequencies differ noticeably from what the Hardy-Weinberg equation predicts, given the population's observed allele frequencies. What does this deviation most directly indicate?",
+    "et": "Populatsiooni mõõdetud genotüübisagedused erinevad märgatavalt sellest, mida Hardy-Weinbergi võrrand ennustab, arvestades populatsiooni täheldatud alleelisagedusi. Mida see kõrvalekalle kõige otsesemalt näitab?",
+    "sourceHash": "836e5504aa659a95",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That the population is violating at least one of the Hardy-Weinberg assumptions (such as no selection, no migration, no mutation, infinite population size, or random mating) — in other words, that evolution is actively acting on this gene.",
+        "et": "Et populatsioon rikub vähemalt üht Hardy-Weinbergi eeldust (näiteks valiku, migratsiooni või mutatsiooni puudumine, lõpmatu populatsiooni suurus või juhuslik paaritumine) -- teisisõnu, et evolutsioon mõjutab seda geeni aktiivselt.",
+        "sourceHash": "5b38d6eab0579834",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing unusual — Hardy-Weinberg equilibrium describes the frequencies of any real population, evolving or not, so measured and predicted values should always match closely.",
+        "et": "Mitte midagi ebatavalist -- Hardy-Weinbergi tasakaal kirjeldab iga reaalse populatsiooni sagedusi, olgu see evolutsioneeruv või mitte, mistõttu mõõdetud ja ennustatud väärtused peaksid alati tihedalt kokku langema.",
+        "sourceHash": "172cf3fc6ef8f228",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "population-genetics-and-hardy-weinberg-equilibrium-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That the rarer of the two alleles is on its way to disappearing from the population entirely, since Hardy-Weinberg predicts rare alleles decline over time.",
+        "et": "Et haruldasem kahest alleelist on teel populatsioonist täielikult kadumisele, kuna Hardy-Weinberg ennustab haruldaste alleelide vähenemist aja jooksul.",
+        "sourceHash": "25ae05fc0091f5e4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "population-genetics-and-hardy-weinberg-equilibrium-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That the two alleles must have unequal frequencies, which by itself is inconsistent with the population being in Hardy-Weinberg equilibrium.",
+        "et": "Et kahel alleelil peavad olema ebavõrdsed sagedused, mis iseenesest ei sobi kokku sellega, et populatsioon on Hardy-Weinbergi tasakaalus.",
+        "sourceHash": "035d076cbab0d227",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "population-genetics-and-hardy-weinberg-equilibrium-m3"
+    }
+  ]
+}

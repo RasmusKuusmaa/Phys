@@ -1,0 +1,19 @@
+{
+  "id": "population-genetics-and-hardy-weinberg-equilibrium",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "genetics-and-molecular-genetics",
+  "title": {
+    "en": "Population genetics and Hardy-Weinberg equilibrium",
+    "et": "Populatsioonigeneetika ja Hardy-Weinbergi tasakaal",
+    "sourceHash": "c84cc12b7469bca4",
+    "stale": false
+  },
+  "summary": {
+    "en": "Population genetics studies how allele and genotype frequencies behave across an entire population rather than within a single family, and the Hardy-Weinberg principle provides the essential mathematical baseline for that study: it describes the allele and genotype frequencies a population would maintain, generation after generation, if it were not evolving at all. For a gene with two alleles, if p is the frequency of one allele and q the frequency of the other (with p + q = 1), Hardy-Weinberg predicts the three possible genotype frequencies will settle at p^2 (homozygous for the first allele), 2pq (heterozygous), and q^2 (homozygous for the second allele) and stay there indefinitely, provided five specific conditions all hold: no mutation, no migration, no natural selection, a very large population size, and random mating. Because real populations essentially never satisfy every one of those five conditions perfectly, Hardy-Weinberg equilibrium is not a description of what real populations actually do -- it is a null hypothesis, a deliberate idealization against which real, measured genotype frequencies can be compared, and it is precisely a population's deviation from the Hardy-Weinberg prediction that reveals evolution is actively acting on that gene, whether through selection, migration, non-random mating, or one of the other violated assumptions.",
+    "et": "Populatsioonigeneetika uurib, kuidas alleeli- ja genotüübisagedused käituvad kogu populatsiooni ulatuses, mitte üksiku perekonna piires, ning Hardy-Weinbergi printsiip pakub selle uurimise jaoks olulise matemaatilise lähtepunkti: see kirjeldab alleeli- ja genotüübisagedusi, mida populatsioon säilitaks põlvkond põlvkonna järel, kui see üldse ei evolutsioneeruks. Geeni jaoks, millel on kaks alleeli, kui p on ühe alleeli sagedus ja q teise alleeli sagedus (kusjuures p + q = 1), ennustab Hardy-Weinberg, et kolm võimalikku genotüübisagedust seavad end paika väärtustele p² (homosügootne esimese alleeli suhtes), 2pq (heterosügootne) ja q² (homosügootne teise alleeli suhtes) ning jäävad sinna tähtajatult, tingimusel et kõik viis konkreetset tingimust täidetud on: mutatsiooni pole, migratsiooni pole, loodusliku valikut pole, populatsioon on väga suur, ning paaritumine on juhuslik. Kuna reaalsed populatsioonid ei täida sisuliselt kunagi täiuslikult kõiki neid viit tingimust korraga, ei ole Hardy-Weinbergi tasakaal kirjeldus sellest, mida reaalsed populatsioonid tegelikult teevad -- see on nullhüpotees, tahtlik idealiseerimine, mille vastu saab reaalseid, mõõdetud genotüübisagedusi võrrelda, ning just populatsiooni kõrvalekalle Hardy-Weinbergi ennustusest paljastab, et evolutsioon mõjutab seda geeni aktiivselt, olgu selle vahendajaks valik, migratsioon, mittejuhuslik paaritumine või mõni muu rikutud eeldus.",
+    "sourceHash": "702c27ea5b8f468a",
+    "stale": false
+  },
+  "prerequisites": []
+}

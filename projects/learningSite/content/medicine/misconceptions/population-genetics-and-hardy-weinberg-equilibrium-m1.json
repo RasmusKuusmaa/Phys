@@ -1,0 +1,10 @@
+{
+  "id": "population-genetics-and-hardy-weinberg-equilibrium-m1",
+  "conceptId": "population-genetics-and-hardy-weinberg-equilibrium",
+  "text": {
+    "en": "I think Hardy-Weinberg equilibrium describes what actually happens in real, evolving populations -- in reality, it is a deliberate idealization, a null hypothesis describing what allele and genotype frequencies would do only if a population were NOT evolving at all; real populations almost always violate at least one of its five required conditions, which is exactly why comparing measured frequencies against the Hardy-Weinberg prediction is a standard way to detect that evolution is happening.",
+    "et": "Arvan, et Hardy-Weinbergi tasakaal kirjeldab seda, mis reaalsetes, evolutsioneeruvates populatsioonides tegelikult toimub -- tegelikult on see tahtlik idealiseerimine, nullhüpotees, mis kirjeldab, mida alleeli- ja genotüübisagedused teeksid ainult siis, kui populatsioon üldse EI evolutsioneeruks; reaalsed populatsioonid rikuvad peaaegu alati vähemalt üht selle viiest nõutavast tingimusest, mistõttu mõõdetud sageduste võrdlemine Hardy-Weinbergi ennustusega on standardne viis avastada, et evolutsioon toimub.",
+    "sourceHash": "475eb600c71d7006",
+    "stale": false
+  }
+}

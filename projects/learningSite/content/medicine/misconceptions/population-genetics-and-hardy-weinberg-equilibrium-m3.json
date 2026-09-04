@@ -1,0 +1,10 @@
+{
+  "id": "population-genetics-and-hardy-weinberg-equilibrium-m3",
+  "conceptId": "population-genetics-and-hardy-weinberg-equilibrium",
+  "text": {
+    "en": "I think if p and q are unequal, that population must be in a Hardy-Weinberg equilibrium that favors whichever allele has the higher frequency -- in reality, equilibrium says nothing about the two alleles needing equal frequencies; p and q can be any values that sum to 1, and the population can still be in perfect Hardy-Weinberg equilibrium, since equilibrium is about frequencies staying constant across generations, not about the two alleles being equally common.",
+    "et": "Arvan, et kui p ja q on ebavõrdsed, peab see populatsioon olema Hardy-Weinbergi tasakaalus, mis soosib seda alleeli, millel on kõrgem sagedus -- tegelikult ei ütle tasakaal midagi selle kohta, et kaks alleeli peaksid olema võrdse sagedusega; p ja q võivad olla mistahes väärtused, mille summa on 1, ning populatsioon võib ikkagi olla täiuslikus Hardy-Weinbergi tasakaalus, kuna tasakaal tähendab sageduste püsimist konstantsena põlvkondade vahel, mitte kahe alleeli võrdset levikut.",
+    "sourceHash": "c160acccb0ebfb09",
+    "stale": false
+  }
+}

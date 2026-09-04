@@ -1,0 +1,26 @@
+{
+  "id": "population-genetics-and-hardy-weinberg-equilibrium-solve-q",
+  "formulaId": "population-genetics-and-hardy-weinberg-equilibrium-formula1",
+  "variables": [
+    {
+      "symbol": "q_sq",
+      "min": 0.0001,
+      "max": 0.25,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "q_sq",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "q_sq",
+      "right": 1
+    }
+  ],
+  "solveFor": "q"
+}
