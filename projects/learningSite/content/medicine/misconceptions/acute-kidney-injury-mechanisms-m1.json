@@ -1,0 +1,10 @@
+{
+  "id": "acute-kidney-injury-mechanisms-m1",
+  "conceptId": "acute-kidney-injury-mechanisms",
+  "text": {
+    "en": "Acute kidney injury is always caused by direct damage to the kidney tissue itself -- in reality, prerenal injury (inadequate blood flow reaching otherwise healthy nephrons) and postrenal injury (urine outflow obstruction downstream of otherwise healthy kidney tissue) can both impair kidney function without any initial damage to the kidney tissue itself; only intrinsic injury involves direct damage to the kidney structures.",
+    "et": "Äge neerukahjustus on alati põhjustatud otsesest kahjustusest neerukoele endale -- tegelikult võivad nii prerenaalne kahjustus (ebapiisav verevool muidu tervete nefroniteni) kui postrenaalne kahjustus (uriini väljavoolu obstruktsioon muidu terve neerukoe allavoolu) mõlemad kahjustada neerufunktsiooni ilma esialgse kahjustuseta neerukoele endale; ainult intrinsiline kahjustus hõlmab otsest kahjustust neerustruktuuridele.",
+    "sourceHash": "30cd13af1eb5807f",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "acute-kidney-injury-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "renal-and-urologic-medicine",
+  "title": {
+    "en": "Acute kidney injury mechanisms",
+    "et": "Ägeda neerukahjustuse mehhanismid",
+    "sourceHash": "9436d0987b526d25",
+    "stale": false
+  },
+  "summary": {
+    "en": "Acute kidney injury, a sudden drop in kidney function over hours to days, is not one problem but three mechanistically distinct categories defined by where along the path from blood to bladder the failure occurs. Prerenal injury happens before blood ever reaches the functioning nephron tissue: inadequate blood flow to the kidney, from severe dehydration, blood loss, or heart failure severe enough to reduce cardiac output, deprives the kidney of the pressure and flow its filtration process depends on, even though the nephrons themselves are initially completely healthy. Intrinsic (or renal) injury means the damage has occurred within the kidney tissue itself, most commonly from prolonged prerenal injury that has gone on long enough to actually damage the tubular cells (acute tubular necrosis), or from a toxin or inflammatory process directly injuring nephron structures. Postrenal injury occurs downstream of the kidney entirely: an obstruction anywhere from the ureters to the urethra -- a kidney stone, an enlarged prostate, a tumor -- blocks urine outflow, and the resulting backup of pressure eventually impairs the kidney's ability to filter, even though both the blood supply and the kidney tissue itself may be completely normal. Because these three categories represent genuinely different points of failure, correctly identifying which one applies is what distinguishes injury that can resolve quickly once its cause is addressed from injury that has already progressed to lasting structural damage.",
+    "et": "Äge neerukahjustus, äkiline neerufunktsiooni langus tundide kuni päevade jooksul, ei ole üks probleem, vaid kolm mehhanistlikult erinevat kategooriat, mis on defineeritud selle järgi, kus vere ja põie vahelisel teel rike toimub. Prerenaalne kahjustus toimub enne, kui veri jõuab kunagi funktsioneeriva nefronikoeni: ebapiisav verevool neeru, tõsisest dehüdratsioonist, verekaotusest või piisavalt tõsisest südamepuudulikkusest, mis vähendab südame väljundit, jätab neeru ilma rõhust ja voolust, millest selle filtratsiooniprotsess sõltub, isegi kui nefronid ise on algselt täiesti terved. Intrinsilne (ehk renaalne) kahjustus tähendab, et kahjustus on toimunud neerukoe endas, kõige levinumalt pikaajalisest prerenaalsest kahjustusest, mis on kestnud piisavalt kaua, et tegelikult kahjustada tuubulirakke (äge tuubulaarne nekroos), või toksiinist või põletikulisest protsessist, mis kahjustab otseselt nefronistruktuure. Postrenaalne kahjustus toimub täielikult neerust allavoolu: obstruktsioon mistahes kohas kusejuhadest kusitini -- neerukivi, suurenenud eesnääre, kasvaja -- blokeerib uriini väljavoolu, ning tekkiv rõhu tagasivool kahjustab lõpuks neeru võimet filtreerida, isegi kui nii verevarustus kui neerukude ise võivad olla täiesti normaalsed. Kuna need kolm kategooriat esindavad tõeliselt erinevaid rikkepunkte, on nende õige tuvastamine see, mis eristab kahjustust, mis võib kiiresti taanduda, kui selle põhjust käsitletakse, kahjustusest, mis on juba progresseerunud püsivaks struktuurseks kahjustuseks.",
+    "sourceHash": "a0407dc145f4ff4d",
+    "stale": false
+  },
+  "prerequisites": [
+    "renal-and-urinary-system-anatomy-and-physiology"
+  ]
+}

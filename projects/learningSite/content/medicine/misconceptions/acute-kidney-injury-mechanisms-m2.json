@@ -1,0 +1,10 @@
+{
+  "id": "acute-kidney-injury-mechanisms-m2",
+  "conceptId": "acute-kidney-injury-mechanisms",
+  "text": {
+    "en": "Prerenal, intrinsic, and postrenal acute kidney injury are just different severities of the same underlying problem -- in reality, they are mechanistically distinct categories defined by where the failure occurs along the path from blood to bladder (before the kidney, within the kidney, or after the kidney); prerenal and postrenal injury can often resolve quickly once their specific cause is addressed, while intrinsic injury involves actual structural damage that resolves on a different timescale.",
+    "et": "Prerenaalne, intrinsiline ja postrenaalne äge neerukahjustus on lihtsalt sama aluseks oleva probleemi erinevad raskusastmed -- tegelikult on need mehhanistlikult erinevad kategooriad, mis on defineeritud selle järgi, kus rike toimub vere ja põie vahelisel teel (enne neeru, neeru sees või pärast neeru); prerenaalne ja postrenaalne kahjustus võivad sageli kiiresti taanduda, kui nende spetsiifilist põhjust käsitletakse, samas kui intrinsiline kahjustus hõlmab tegelikku struktuurset kahjustust, mis taandub teistsugusel ajaskaalal.",
+    "sourceHash": "92909144bb5fbe2f",
+    "stale": false
+  }
+}

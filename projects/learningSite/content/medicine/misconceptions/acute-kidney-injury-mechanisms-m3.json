@@ -1,0 +1,10 @@
+{
+  "id": "acute-kidney-injury-mechanisms-m3",
+  "conceptId": "acute-kidney-injury-mechanisms",
+  "text": {
+    "en": "A urinary tract obstruction (postrenal injury) can only affect kidney function if it also damages the kidney tissue directly -- in reality, an obstruction downstream of the kidney backs up pressure through the entire urinary system, and that backed-up pressure alone can impair the kidney's ability to filter even while both the blood supply and the kidney tissue itself remain completely normal, at least until the obstruction has persisted long enough to cause secondary structural damage.",
+    "et": "Kuseteede obstruktsioon (postrenaalne kahjustus) saab mõjutada neerufunktsiooni ainult siis, kui see kahjustab ka otseselt neerukude -- tegelikult tekitab neerust allavoolu asuv obstruktsioon rõhu tagasivoolu kogu kuseteede süsteemis ning see tagasi voolav rõhk üksi võib kahjustada neeru võimet filtreerida, isegi kui nii verevarustus kui neerukude ise jäävad täiesti normaalseks, vähemalt seni, kuni obstruktsioon on püsinud piisavalt kaua, et põhjustada sekundaarset struktuurset kahjustust.",
+    "sourceHash": "7ad66f080d1df433",
+    "stale": false
+  }
+}

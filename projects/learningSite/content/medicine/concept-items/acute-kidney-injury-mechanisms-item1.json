@@ -1,0 +1,56 @@
+{
+  "id": "acute-kidney-injury-mechanisms-item1",
+  "conceptId": "acute-kidney-injury-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient develops acute kidney injury from severe dehydration, with kidney tissue that is initially completely structurally normal. Which category of acute kidney injury does this represent, and why does the distinction matter?",
+    "et": "Patsiendil tekib äge neerukahjustus tõsisest dehüdratsioonist, kusjuures neerukude on algselt struktuurselt täiesti normaalne. Millist ägeda neerukahjustuse kategooriat see esindab ja miks on eristus oluline?",
+    "sourceHash": "1d4124c2ef59d742",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "This is prerenal injury — inadequate blood flow reaching otherwise healthy nephrons — and the distinction matters because prerenal injury can often resolve quickly once blood flow is restored, before it progresses to actual structural damage.",
+        "et": "See on prerenaalne kahjustus -- ebapiisav verevool muidu tervete nefroniteni -- ning eristus on oluline seetõttu, et prerenaalne kahjustus võib sageli kiiresti taanduda, kui verevool taastatakse, enne kui see progresseerub tegelikuks struktuurseks kahjustuseks.",
+        "sourceHash": "6fdbd8790dfdddc9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This must be intrinsic injury, since any acute kidney injury necessarily involves direct damage to the kidney tissue itself.",
+        "et": "See peab olema intrinsiline kahjustus, kuna igasugune äge neerukahjustus hõlmab paratamatult otsest kahjustust neerukoele endale.",
+        "sourceHash": "dab61de00035392b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acute-kidney-injury-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The category doesn't really matter, since prerenal, intrinsic, and postrenal injury are just different severities of the same problem with the same expected recovery timeline.",
+        "et": "Kategooria ei ole tegelikult oluline, kuna prerenaalne, intrinsiline ja postrenaalne kahjustus on lihtsalt sama probleemi erinevad raskusastmed sama oodatava taastumisajaga.",
+        "sourceHash": "fd55b1dd57f485a3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acute-kidney-injury-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This scenario is inconsistent, since kidney tissue can only remain structurally normal if there's also a urinary tract obstruction directly damaging it.",
+        "et": "See stsenaarium on ebajärjekindel, kuna neerukude saab jääda struktuurselt normaalseks ainult siis, kui esineb ka kuseteede obstruktsioon, mis seda otseselt kahjustab.",
+        "sourceHash": "d792e9697935b032",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acute-kidney-injury-mechanisms-m3"
+    }
+  ]
+}
