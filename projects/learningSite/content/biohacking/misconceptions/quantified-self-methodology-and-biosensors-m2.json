@@ -1,0 +1,10 @@
+{
+  "id": "quantified-self-methodology-and-biosensors-m2",
+  "conceptId": "quantified-self-methodology-and-biosensors",
+  "text": {
+    "en": "One night's bad HRV or sleep-score reading tells you specifically which single thing you did the day before caused it -- in reality, a single day's biomarker reading has substantial normal noise relative to a person's typical day-to-day variability, so a single bad reading usually can't be attributed to one specific prior behavior with any confidence; a rolling multi-day trend is far more informative than any single data point, and even then, correlation with one behavior doesn't establish that behavior caused the change.",
+    "et": "Ühe halva öö HRV või unehinde näit ütleb sulle täpselt, milline üks konkreetne asi, mida sa eelmisel päeval tegid, seda põhjustas -- tegelikult on ühe päeva biomarkeri näidul märkimisväärne normaalne müra võrreldes inimese tüüpilise igapäevase varieeruvusega, mistõttu üht halba näitu ei saa tavaliselt kindlusega omistada ühele kindlale eelnevale käitumisele; mitmepäevane libisev trend on palju informatiivsem kui ükski üksik andmepunkt, ning isegi siis ei tõenda korrelatsioon ühe käitumisega, et see käitumine muutuse põhjustas.",
+    "sourceHash": "072e1dacf6505c4c",
+    "stale": false
+  }
+}

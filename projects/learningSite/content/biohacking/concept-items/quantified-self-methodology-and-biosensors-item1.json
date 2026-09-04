@@ -1,0 +1,56 @@
+{
+  "id": "quantified-self-methodology-and-biosensors-item1",
+  "conceptId": "quantified-self-methodology-and-biosensors",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Someone tries a new supplement, sees their wearable's HRV score improve the next morning, and concludes the supplement definitely caused the improvement. What is the strongest reason to be skeptical of that conclusion?",
+    "et": "Keegi proovib uut toidulisandit, näeb oma kantava seadme HRV skoori järgmisel hommikul paranevat, ning järeldab, et toidulisand kindlasti põhjustas paranemise. Mis on kõige tugevam põhjus selle järelduse suhtes skeptiline olla?",
+    "sourceHash": "187de1587820d49a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A single day's HRV reading has substantial normal noise, and even a real improvement can't rule out a placebo response or coincidence the way a properly controlled, blinded trial with a comparison group could.",
+        "et": "Ühe päeva HRV näidul on märkimisväärne normaalne müra, ning isegi tõeline paranemine ei suuda välistada platseebovastust ega juhust samamoodi, nagu suudaks korralikult kontrollitud, pimestatud uuring võrdlusrühmaga.",
+        "sourceHash": "4884b66793cd4178",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shouldn't be doubted -- consumer wearables measure HRV with the same precision as a hospital ECG, so the reading itself is fully trustworthy.",
+        "et": "Seda ei tuleks kahtluse alla seada -- tarbija kantavad seadmed mõõdavad HRV-d sama täpsusega kui haigla EKG, mistõttu näit ise on täiesti usaldusväärne.",
+        "sourceHash": "6038011bec5cf138",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantified-self-methodology-and-biosensors-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It shouldn't be doubted -- a single night's reading reliably isolates the effect of exactly one prior behavior, which is why it changed.",
+        "et": "Seda ei tuleks kahtluse alla seada -- ühe öö näit isoleerib usaldusväärselt täpselt ühe eelneva käitumise mõju, mis ongi põhjus, miks see muutus.",
+        "sourceHash": "7d8b6c585a382a99",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantified-self-methodology-and-biosensors-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It's already proven -- a before/after change in a tracked number is equivalent to what a blinded, controlled clinical trial would show.",
+        "et": "See on juba tõestatud -- jälgitava numbri enne/pärast muutus on samaväärne sellega, mida näitaks pimestatud, kontrollitud kliiniline uuring.",
+        "sourceHash": "e8def4291ad0014b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quantified-self-methodology-and-biosensors-m3"
+    }
+  ]
+}

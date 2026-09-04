@@ -1,0 +1,21 @@
+{
+  "id": "quantified-self-methodology-and-biosensors",
+  "subject": "biohacking",
+  "level": "L2",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Quantified-self methodology and biosensors",
+    "et": "Kvantifitseeritud mina metoodika ja biosensorid",
+    "sourceHash": "db388e1898b0b65c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Consumer wearables now put continuous measurements of heart rate variability (HRV, the beat-to-beat variation in time between heartbeats, used as a rough proxy for autonomic nervous system balance and recovery state), continuous glucose, sleep staging, and more directly in the hands of anyone doing self-experimentation, but a device producing a number is not the same thing as that number meaning what a marketing claim says it means: consumer HRV and sleep-stage estimates are validated against gold-standard lab measurements (an electrocardiogram for HRV, polysomnography for sleep staging) with real, non-trivial error margins that vary by device and by individual, and a single day's reading is far noisier than a rolling multi-day trend, which is why interpreting one bad night's HRV reading as a specific verdict about one specific behavior from the day before is exactly the kind of over-interpretation a genuine n-of-1 self-experiment has to guard against. Designing a self-experiment that can actually distinguish a real effect from noise requires the same logic professional research uses at smaller scale: a baseline period before changing anything, a large enough effect size relative to the biomarker's normal day-to-day variability to be detectable at all, ideally alternating the intervention on and off multiple times rather than testing it once, and honest acknowledgment that an n-of-1 experiment, however carefully designed, still can't fully separate a real physiological effect from a placebo response the way a blinded, controlled trial with many participants can.",
+    "et": "Tarbija kantavad seadmed panevad nüüd südame löögisageduse muutlikkuse (HRV, aeg-ajaline muutus järjestikuste südamelöökide vahelises ajas, mida kasutatakse kareda ligikaudse näitajana autonoomse närvisüsteemi tasakaalu ja taastumisseisundi kohta), pideva glükoosisisalduse, unefaaside ja muu pideva mõõtmise otse eneseeksperimenteerimist tegeva inimese kätte, kuid seade, mis toodab arvu, ei ole sama, mis see arv tähendab seda, mida turundusväide väidab, et see tähendab: tarbija HRV ja unefaaside hinnangud on valideeritud kuldstandardist labori mõõtmiste vastu (elektrokardiogramm HRV jaoks, polüsomnograafia unefaaside jaoks) tõeliste, mitte-tühiste veapiiridega, mis varieeruvad seadmeti ja inimeseti, ning ühe päeva näit on palju müravam kui mitmepäevane libisev trend, mis on põhjus, miks ühe halva öö HRV näidu tõlgendamine konkreetse otsusena eelmise päeva ühe konkreetse käitumise kohta on täpselt see üleinterpreteerimise liik, mille eest tõeline üks-inimese-eksperiment peab end kaitsma. Eneseeksperimendi kavandamine, mis tegelikult suudab eristada tõelist efekti mürast, nõuab sama loogikat, mida professionaalne teadustöö kasutab väiksemas mahus: baasperiood enne mistahes muutmist, piisavalt suur efekti suurus võrreldes biomarkeri tavapärase igapäevase varieeruvusega, et see üldse tuvastatav oleks, ideaalis sekkumise mitmekordne sisse- ja väljalülitamine ühekordse testimise asemel, ning aus tunnistamine, et üks-inimese-eksperiment, ükskõik kui hoolikalt kavandatud, ei suuda ikkagi täielikult eristada tõelist füsioloogilist efekti platseebovastusest samamoodi, nagu suudab pime, kontrollitud uuring paljude osalejatega.",
+    "sourceHash": "de608938985dcefc",
+    "stale": false
+  },
+  "prerequisites": [
+    "evidence-hierarchy-and-critical-evaluation-of-health-claims"
+  ]
+}

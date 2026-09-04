@@ -1,0 +1,10 @@
+{
+  "id": "quantified-self-methodology-and-biosensors-m1",
+  "conceptId": "quantified-self-methodology-and-biosensors",
+  "text": {
+    "en": "A wearable device's HRV or sleep-stage number is exactly as accurate as a hospital-grade measurement, since it's a scientific-looking number from a sensor -- in reality, consumer wearables are validated against gold-standard lab measurements (ECG for HRV, polysomnography for sleep) and carry real, non-trivial error margins that vary by device and individual; the number is a useful estimate, not a clinical-grade measurement, and treating it as perfectly precise leads to over-interpreting small day-to-day changes that may just be measurement noise.",
+    "et": "Kantava seadme HRV või unefaasi number on täpselt sama täpne kui haigla tasemel mõõtmine, kuna see on sensorilt pärit teaduslikult kõlav number -- tegelikult on tarbija kantavad seadmed valideeritud kuldstandardist labori mõõtmiste vastu (EKG HRV jaoks, polüsomnograafia une jaoks) ning kannavad tõelisi, mitte-tühiseid veapiire, mis varieeruvad seadmeti ja inimeseti; number on kasulik hinnang, mitte kliinilise taseme mõõtmine, ning selle käsitlemine täiesti täpsena viib väikeste igapäevaste muutuste üleinterpreteerimiseni, mis võivad olla lihtsalt mõõtemüra.",
+    "sourceHash": "ce77fc10aa395376",
+    "stale": false
+  }
+}

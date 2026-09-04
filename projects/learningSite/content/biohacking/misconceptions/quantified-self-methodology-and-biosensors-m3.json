@@ -1,0 +1,10 @@
+{
+  "id": "quantified-self-methodology-and-biosensors-m3",
+  "conceptId": "quantified-self-methodology-and-biosensors",
+  "text": {
+    "en": "If I try a change and my tracked numbers improve afterward, that proves the change caused the improvement, the same way a real clinical trial would show -- in reality, an n-of-1 self-experiment, however carefully designed, lacks a control group and typically lacks blinding, so it can't rule out a placebo response, a regression to the mean, or an unrelated coincidental change the way a properly blinded, controlled trial with many participants can; a personal before/after comparison is genuinely useful information, but it sits well below a controlled trial on the evidence hierarchy, not equal to one.",
+    "et": "Kui ma proovin muutust ja minu jälgitavad numbrid paranevad pärast seda, tõestab see, et muutus põhjustas paranemise, samamoodi nagu tõeline kliiniline uuring näitaks -- tegelikult puudub üks-inimese-eksperimendil, ükskõik kui hoolikalt kavandatud, kontrollrühm ning tavaliselt ka pimestamine, mistõttu ei suuda see välistada platseebovastust, keskmise poole tagasipöördumist ega seosetut juhuslikku muutust samamoodi, nagu suudab korralikult pimestatud, kontrollitud uuring paljude osalejatega; isiklik enne/pärast võrdlus on tõeliselt kasulik informatsioon, kuid see seisab tõendite hierarhias kontrollitud uuringust palju madalamal, mitte sellega võrdselt.",
+    "sourceHash": "119970f72476eb4f",
+    "stale": false
+  }
+}
