@@ -1,0 +1,10 @@
+{
+  "id": "acute-and-chronic-inflammation-m1",
+  "conceptId": "acute-and-chronic-inflammation",
+  "text": {
+    "en": "Inflammation is always harmful and a sign that something has gone wrong, so it should always be suppressed as fast as possible -- in reality, acute inflammation is a normal, essential, protective response that clears pathogens/debris and starts repair; suppressing it entirely (rather than just excessive or chronic inflammation) can actually impair healing and pathogen clearance -- the problem case is inflammation that fails to resolve or becomes chronic, not the acute response itself.",
+    "et": "Põletik on alati kahjulik ja märk sellest, et midagi on valesti, seega tuleks seda alati võimalikult kiiresti alla suruda -- tegelikult on äge põletik normaalne, hädavajalik, kaitsev reaktsioon, mis kõrvaldab patogeenid/jäänused ja käivitab paranemise; selle täielik allasurumine (mitte lihtsalt liigse või kroonilise põletiku oma) võib tegelikult kahjustada paranemist ja patogeenide kõrvaldamist -- probleemne on põletik, mis ei taandu või muutub krooniliseks, mitte äge reaktsioon iseenesest.",
+    "sourceHash": "b2c63e77ca2cc7e1",
+    "stale": false
+  }
+}

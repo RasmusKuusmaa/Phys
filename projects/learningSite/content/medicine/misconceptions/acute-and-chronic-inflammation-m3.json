@@ -1,0 +1,10 @@
+{
+  "id": "acute-and-chronic-inflammation-m3",
+  "conceptId": "acute-and-chronic-inflammation",
+  "text": {
+    "en": "A granuloma means an infection (like tuberculosis) has definitely been successfully cleared -- in reality, a granuloma represents the immune system's attempt to contain a persistent irritant it cannot eliminate, walling it off rather than clearing it -- the organism or material can remain viable and contained inside the granuloma for years (as in latent tuberculosis), which is containment, not victory, and the infection can reactivate if the granuloma's containment later fails.",
+    "et": "Granuloom tähendab, et infektsioon (nagu tuberkuloos) on kindlasti edukalt kõrvaldatud -- tegelikult kujutab granuloom endast immuunsüsteemi katset piirata püsivat ärritajat, mida ta ei suuda kõrvaldada, piirates selle pigem kui kõrvaldades -- organism või materjal võib jääda granuloomi sees elujõuliseks ja piiratuks aastateks (nagu latentse tuberkuloosi korral), mis on piiramine, mitte võit, ning infektsioon võib taasaktiveeruda, kui granuloomi piiramine hiljem ebaõnnestub.",
+    "sourceHash": "2b4c068ef42e300e",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "acute-and-chronic-inflammation-m2",
+  "conceptId": "acute-and-chronic-inflammation",
+  "text": {
+    "en": "Acute and chronic inflammation are just 'mild' and 'severe' versions of the same process, differing only in intensity -- in reality, acute and chronic inflammation differ in kind, not just degree -- they're dominated by different cell types (neutrophils vs. macrophages/lymphocytes), unfold on different timescales, and chronic inflammation specifically involves simultaneous tissue destruction and repair attempts happening together, a combination acute inflammation doesn't show.",
+    "et": "Äge ja krooniline põletik on lihtsalt sama protsessi 'kerge' ja 'raske' versioon, mis erinevad ainult intensiivsuse poolest -- tegelikult erinevad äge ja krooniline põletik laadilt, mitte ainult astmelt -- neid domineerivad erinevad rakutüübid (neutrofiilid vs. makrofaagid/lümfotsüüdid), need kulgevad erinevatel ajaskaaladel ning krooniline põletik hõlmab spetsiifiliselt samaaegset koe hävimist ja parandamiskatseid, kombinatsiooni, mida äge põletik ei näita.",
+    "sourceHash": "c4a89774e0f973bd",
+    "stale": false
+  }
+}

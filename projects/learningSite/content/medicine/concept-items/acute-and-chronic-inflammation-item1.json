@@ -1,0 +1,56 @@
+{
+  "id": "acute-and-chronic-inflammation-item1",
+  "conceptId": "acute-and-chronic-inflammation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does chronic inflammation so often leave behind fibrosis (scar-like connective tissue) rather than resolving cleanly back to normal tissue, the way most acute inflammation does?",
+    "et": "Miks jätab krooniline põletik nii sageli maha fibroosi (armisarnase sidekoe), selle asemel et taanduda puhtalt tagasi normaalseks koeks, nagu enamik ägedat põletikku teeb?",
+    "sourceHash": "7c9e78394e514b48",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because chronic inflammation involves ongoing tissue destruction and repair attempts happening simultaneously over a long period, rather than a short burst of damage followed by a clean resolution once the trigger is cleared.",
+        "et": "Sest krooniline põletik hõlmab käimasolevat koe hävimist ja parandamiskatseid, mis toimuvad samaaegselt pika perioodi jooksul, selle asemel et olla lühike kahjustuspurse, millele järgneb puhas taandumine, kui vallandaja on kõrvaldatud.",
+        "sourceHash": "aad29cd31ebb2816",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because chronic inflammation is simply a more severe, more intense version of acute inflammation, and higher-intensity damage always produces more scarring.",
+        "et": "Sest krooniline põletik on lihtsalt ägeda põletiku raskem, intensiivsem versioon, ning suurema intensiivsusega kahjustus tekitab alati rohkem armistumist.",
+        "sourceHash": "31b11622fa198fd9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acute-and-chronic-inflammation-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It shouldn't -- if inflammation were properly suppressed from the very start, no fibrosis would ever form regardless of how long the underlying trigger persisted.",
+        "et": "Ei peaks -- kui põletik oleks algusest peale korralikult alla surutud, ei tekiks kunagi fibroosi, olenemata sellest, kui kaua aluseks olev vallandaja püsib.",
+        "sourceHash": "f3da9bab7ac1d76f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acute-and-chronic-inflammation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Fibrosis only forms once a granuloma has fully eliminated the underlying infectious organism, as a final cleanup step.",
+        "et": "Fibroos tekib alles siis, kui granuloom on aluseks oleva nakkusliku organismi täielikult kõrvaldanud, viimase koristamisetapina.",
+        "sourceHash": "ea2f51821bdf69e9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acute-and-chronic-inflammation-m3"
+    }
+  ]
+}

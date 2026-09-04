@@ -1,0 +1,19 @@
+{
+  "id": "acute-and-chronic-inflammation",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "general-pathology",
+  "title": {
+    "en": "Acute and chronic inflammation",
+    "et": "Äge ja krooniline põletik",
+    "sourceHash": "1214509110768564",
+    "stale": false
+  },
+  "summary": {
+    "en": "Inflammation is tissue's coordinated response to injury or infection, and pathology cares less about the immune cells doing the work (that mechanism belongs to immunology) than about how the tissue-level process unfolds and what it leaves behind. Acute inflammation is fast and short-lived: blood vessels dilate and become leakier within minutes, fluid and neutrophils flood into the site causing the classic redness, heat, swelling, and pain, and the process resolves within days once the triggering stimulus is cleared, either restoring normal tissue architecture or, if damage was extensive, leaving a scar. When the triggering stimulus persists -- a foreign body that cannot be cleared, a persistent infection, an ongoing autoimmune process -- acute inflammation can fail to resolve and instead transition into chronic inflammation, a slower, longer process (weeks to years) dominated by different cell types (macrophages and lymphocytes rather than neutrophils) and characterized by simultaneous, ongoing tissue destruction and attempted repair, which is why chronic inflammation so often leaves behind fibrosis (excess scar-like connective tissue) rather than a clean resolution. A particular pattern of chronic inflammation, granulomatous inflammation, forms when the immune system cannot eliminate a persistent irritant (certain bacteria like the one causing tuberculosis, or an indigestible foreign material) and instead walls it off inside an organized cluster of macrophages, attempting containment rather than elimination.",
+    "et": "Põletik on koe koordineeritud reaktsioon vigastusele või infektsioonile, ning patoloogiat huvitab vähem seda tööd tegevad immuunrakud (see mehhanism kuulub immunoloogia valdkonda) kui see, kuidas koe tasandi protsess kulgeb ja mida see endast maha jätab. Äge põletik on kiire ja lühiajaline: veresooned laienevad ja muutuvad minutite jooksul läbilaskvamaks, vedelik ja neutrofiilid voolavad kahjustuskohta, põhjustades klassikalist punetust, kuumust, turset ja valu, ning protsess taandub päevade jooksul, kui vallandav stiimul on kõrvaldatud, taastades normaalse koe struktuuri või, kui kahjustus oli ulatuslik, jättes maha armi. Kui vallandav stiimul püsib -- võõrkeha, mida ei saa kõrvaldada, püsiv infektsioon, käimasolev autoimmuunprotsess -- võib äge põletik jääda taandumata ja selle asemel üle minna krooniliseks põletikuks, aeglasemaks ja pikemaks protsessiks (nädalatest aastateni), mida domineerivad teistsugused rakutüübid (makrofaagid ja lümfotsüüdid, mitte neutrofiilid) ning mida iseloomustab samaaegne, käimasolev koe hävimine ja parandamiskatse, mistõttu krooniline põletik jätab nii sageli maha fibroosi (liigne armisarnane sidekude), mitte puhta taandumise. Kroonilise põletiku eriline muster, granulomatoosne põletik, tekib siis, kui immuunsüsteem ei suuda püsivat ärritajat kõrvaldada (teatud bakterid nagu tuberkuloosi põhjustaja, või seedimatu võõrmaterjal) ning selle asemel piirab selle organiseeritud makrofaagide klastriga, püüdes pigem lokaliseerida kui kõrvaldada.",
+    "sourceHash": "11356393933f7440",
+    "stale": false
+  },
+  "prerequisites": []
+}
