@@ -1,0 +1,10 @@
+{
+  "id": "quality-control-and-engineering-statistics-m2",
+  "conceptId": "quality-control-and-engineering-statistics",
+  "text": {
+    "en": "Believing a process that is 'in control' (stable, predictable, no assignable-cause shifts on its control chart) must automatically be capable of meeting the customer's specification -- control and capability answer two different questions: control asks whether the process is behaving consistently with its own past self, while capability compares that same natural variation against the specification limits the customer actually requires, and a perfectly stable, perfectly predictable process can still be too imprecise (or precise but off-target) to meet spec.",
+    "et": "Arvamus, et protsess, mis on 'kontrolli all' (stabiilne, ennustatav, ilma omistatava põhjusega nihketa kontrollkaardil), peab automaatselt olema võimeline täitma kliendi spetsifikatsiooni -- kontroll ja võimekus vastavad kahele erinevale küsimusele: kontroll küsib, kas protsess käitub kooskõlas oma varasema iseendaga, samas kui võimekus võrdleb sama loomulikku varieeruvust spetsifikatsioonipiiridega, mida klient tegelikult nõuab, ning täiesti stabiilne, täiesti ennustatav protsess võib ikkagi olla liiga ebatäpne (või täpne, kuid sihtmärgist väljas), et spetsifikatsiooni täita.",
+    "sourceHash": "47c23ecd5c30b54d",
+    "stale": false
+  }
+}

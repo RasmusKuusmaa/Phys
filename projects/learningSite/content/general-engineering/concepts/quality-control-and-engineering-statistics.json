@@ -1,0 +1,19 @@
+{
+  "id": "quality-control-and-engineering-statistics",
+  "subject": "general-engineering",
+  "level": "L1",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Quality control and engineering statistics",
+    "et": "Kvaliteedikontroll ja tehniline statistika",
+    "sourceHash": "4098ad235b8fc673",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every manufacturing process produces parts that vary slightly even when nothing is wrong, since some spread around a target value is unavoidable in any real physical process -- a control chart plots a sampled measurement over time against control limits set from the process's own natural variation, so an operator can tell the difference between that expected, inherent variation and a genuine, assignable shift in the process (a tool wearing out, a new batch of raw material) that needs correcting, rather than reacting to every single data point as if it were a new problem. Process capability compares that natural spread against the customer's specification limits (how wide a part is allowed to be, not how wide the process happens to run) to answer a different question than a control chart does: not 'is the process behaving the same as before' but 'is the process, even behaving perfectly normally for itself, actually good enough to meet the requirement.' Tolerance stack-up is what happens when several individually-toleranced parts are assembled together: the worst-case combined tolerance is the sum of the individual tolerances, but if each part's actual deviation is treated as an independent random variable rather than assumed to always land at its worst-case extreme simultaneously, the statistically expected combined variation is substantially smaller than that worst case, which is why blindly summing worst-case tolerances across a long assembly chain routinely over-specifies precision nobody needs.",
+    "et": "Iga tootmisprotsess valmistab detaile, mis varieeruvad veidi ka siis, kui midagi valesti ei ole, kuna teatud hajuvus sihtväärtuse ümber on igas päris füüsikalises protsessis vältimatu -- kontrollkaart kannab valimipõhise mõõtmise aja jooksul graafikule kontrollpiiride vastu, mis on seatud protsessi enda loomuliku varieeruvuse põhjal, nii et operaator saab eristada seda oodatud, olemuslikku varieeruvust tõelisest, omistatavast protsessi nihkest (tööriist kulub, uus tooraine partii), mis vajab korrigeerimist, selle asemel et reageerida igale üksikule andmepunktile nagu see oleks uus probleem. Protsessi võimekus võrdleb seda loomulikku hajuvust kliendi spetsifikatsioonipiiridega (kui lai detail tohib olla, mitte kui laialt protsess parajasti töötab), vastates teistsugusele küsimusele kui kontrollkaart: mitte 'kas protsess käitub samamoodi nagu varem', vaid 'kas protsess, isegi käitudes enda jaoks täiesti tavapäraselt, on tegelikult piisavalt hea nõude täitmiseks.' Tolerantside kuhjumine juhtub siis, kui mitu individuaalselt tolereeritud detaili pannakse kokku: halvima juhu koondtolerants on üksiktolerantside summa, kuid kui iga detaili tegelikku hälvet käsitleda sõltumatu juhusliku suurusena, mitte eeldada, et see satub alati üheaegselt oma halvimasse äärmusesse, on statistiliselt oodatav koondvarieeruvus märkimisväärselt väiksem sellest halvimast juhust, mistõttu halvima juhu tolerantside pime summeerimine pika koostuahela ulatuses üleliia täpsustab täpsust, mida keegi ei vaja.",
+    "sourceHash": "87d99dd9a007d0fb",
+    "stale": false
+  },
+  "prerequisites": []
+}

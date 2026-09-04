@@ -1,0 +1,56 @@
+{
+  "id": "quality-control-and-engineering-statistics-item1",
+  "conceptId": "quality-control-and-engineering-statistics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A process's control chart shows it has been perfectly stable for months, with no assignable-cause shifts. A quality engineer concludes the process must therefore be capable of meeting the customer's specification. What is wrong with this reasoning?",
+    "et": "Protsessi kontrollkaart näitab, et see on olnud kuude kaupa täiesti stabiilne, ilma ühegi omistatava põhjusega nihketa. Kvaliteediinsener järeldab, et protsess peab seetõttu olema võimeline kliendi spetsifikatsiooni täitma. Mis on selle arutluskäiguga valesti?",
+    "sourceHash": "b6a907f40776c507",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Control and capability answer different questions -- a stable process can still have too much natural variation (or be off-target) relative to the specification limits the customer actually needs met.",
+        "et": "Kontroll ja võimekus vastavad erinevatele küsimustele -- stabiilsel protsessil võib ikkagi olla liiga suur loomulik varieeruvus (või see võib olla sihtmärgist väljas) võrreldes spetsifikatsioonipiiridega, mida klient tegelikult vajab.",
+        "sourceHash": "53fdb9b9a2154b97",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing is wrong -- a process with no assignable-cause shifts on its control chart is, by definition, always capable of meeting any specification.",
+        "et": "Midagi ei ole valesti -- protsess, millel ei ole kontrollkaardil omistatava põhjusega nihkeid, on definitsiooni järgi alati võimeline mistahes spetsifikatsiooni täitma.",
+        "sourceHash": "18a1996315a3ce9f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quality-control-and-engineering-statistics-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The engineer should instead have reacted to each individual point on the chart separately, since every deviation from the target value is itself a distinct problem to fix.",
+        "et": "Insener oleks pidanud selle asemel reageerima igale üksikule graafikupunktile eraldi, kuna iga kõrvalekalle sihtväärtusest on ise eraldiseisev probleem, mis vajab lahendamist.",
+        "sourceHash": "b2bc17d37f6eb1f8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quality-control-and-engineering-statistics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The engineer should instead have summed the worst-case tolerances of every part in the assembly to determine whether the specification is met.",
+        "et": "Insener oleks pidanud selle asemel liitma kokku kõik koostu detailide halvima juhu tolerantsid, et teha kindlaks, kas spetsifikatsioon on täidetud.",
+        "sourceHash": "81153a2a2a72eec1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "quality-control-and-engineering-statistics-m3"
+    }
+  ]
+}

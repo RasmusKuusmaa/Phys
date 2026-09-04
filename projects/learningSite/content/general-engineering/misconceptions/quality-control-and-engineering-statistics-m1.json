@@ -1,0 +1,10 @@
+{
+  "id": "quality-control-and-engineering-statistics-m1",
+  "conceptId": "quality-control-and-engineering-statistics",
+  "text": {
+    "en": "Believing every single measurement that lands away from the target value on a control chart signals a real problem needing correction -- some spread around the target is unavoidable in any real process even when it is behaving perfectly normally, and a control chart's limits are specifically set from that natural, inherent variation so an operator can tell it apart from a genuine assignable-cause shift; reacting to ordinary, expected scatter as if it were a new fault (a practice called overcontrol) actually makes a stable process worse, not better.",
+    "et": "Arvamus, et iga üksik mõõtmine, mis kontrollkaardil sihtväärtusest eemale jääb, viitab tõelisele probleemile, mis vajab korrigeerimist -- teatud hajuvus sihtväärtuse ümber on igas päris protsessis vältimatu ka siis, kui see käitub täiesti tavapäraselt, ning kontrollkaardi piirid ongi seatud just selle loomuliku, olemusliku varieeruvuse põhjal, et operaator saaks seda eristada tõelisest omistatava põhjusega nihkest; tavapärasele, oodatud hajumisele reageerimine, nagu oleks tegu uue veaga (tava, mida nimetatakse ülekontrolliks), teeb stabiilse protsessi tegelikult halvemaks, mitte paremaks.",
+    "sourceHash": "26a001835f2161ca",
+    "stale": false
+  }
+}

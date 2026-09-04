@@ -1,0 +1,10 @@
+{
+  "id": "quality-control-and-engineering-statistics-m3",
+  "conceptId": "quality-control-and-engineering-statistics",
+  "text": {
+    "en": "Believing the only correct way to combine several individually-toleranced parts' tolerances in an assembly is to add up all the worst-case individual tolerances -- worst-case summing is a valid, conservative bound, but it assumes every part lands at its worst-case extreme simultaneously, which is statistically unlikely when each part's deviation is an independent random variable; treating individual deviations statistically gives a substantially smaller expected combined variation, and insisting on the worst-case sum for every assembly routinely demands tighter (and more expensive) individual tolerances than the application actually needs.",
+    "et": "Arvamus, et ainus õige viis mitme individuaalselt tolereeritud detaili tolerantside kokkuliitmiseks koostus on liita kokku kõik halvima juhu üksiktolerantsid -- halvima juhu summeerimine on kehtiv, konservatiivne ülempiir, kuid see eeldab, et iga detail satub oma halvimasse äärmusesse üheaegselt, mis on statistiliselt ebatõenäoline, kui iga detaili hälve on sõltumatu juhuslik suurus; individuaalsete hälvete statistiline käsitlemine annab märkimisväärselt väiksema oodatava koondvarieeruvuse, ning halvima juhu summa nõudmine iga koostu jaoks nõuab tavaliselt rangemaid (ja kallimaid) üksiktolerantse, kui rakendus tegelikult vajab.",
+    "sourceHash": "27ea970c55c7a18e",
+    "stale": false
+  }
+}
