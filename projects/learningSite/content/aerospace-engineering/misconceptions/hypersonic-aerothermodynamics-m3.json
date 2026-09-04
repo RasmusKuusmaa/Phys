@@ -1,0 +1,10 @@
+{
+  "id": "hypersonic-aerothermodynamics-m3",
+  "conceptId": "hypersonic-aerothermodynamics",
+  "text": {
+    "en": "Believing an ablative heat shield is a design failure or a sign the vehicle wasn't built to withstand reentry heat -- in fact ablation is the deliberate, working principle: the shield is designed to char, erode, and carry heat away with the departing material specifically so heat never reaches the structure underneath, and many crewed and robotic reentry vehicles use ablative shields by design, not as a backup or a failure mode.",
+    "et": "Arvamus, et ablatiivne soojuskilp on projekteerimisviga või märk sellest, et sõiduk ei olnud ehitatud taassisenemise kuumusele vastu pidama -- tegelikult on ablatsioon tahtlik, töötav põhimõte: kilp on projekteeritud söestuma, kuluma ja kandma soojust ära koos lahkuva materjaliga, spetsiaalselt selleks, et soojus ei jõuaks kunagi aluskonstruktsioonini, ning paljud meeskonnaga ja robootilised taassisenemissõidukid kasutavad ablatiivseid kilpe projekti kohaselt, mitte varu või rikkerežiimina.",
+    "sourceHash": "77531a497ebf7f9c",
+    "stale": false
+  }
+}

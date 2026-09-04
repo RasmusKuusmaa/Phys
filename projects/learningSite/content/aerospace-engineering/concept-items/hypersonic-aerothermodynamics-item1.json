@@ -1,0 +1,56 @@
+{
+  "id": "hypersonic-aerothermodynamics-item1",
+  "conceptId": "hypersonic-aerothermodynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Engineers designing a new crewed reentry capsule choose a blunt, rounded nose shape rather than a sharp, pointed one, even though the blunt shape produces more aerodynamic drag during reentry. What is the primary engineering reason for this choice?",
+    "et": "Uue meeskonnaga taassisenemiskapsli projekteerijad valivad terava, teravaotsalise nina asemel nüri, ümara ninakuju, kuigi nüri kuju tekitab taassisenemisel rohkem aerodünaamilist takistust. Milline on selle valiku peamine inseneripõhjus?",
+    "sourceHash": "ec50029ee718d324",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A blunt nose holds the bow shock further away from the vehicle's surface and spreads the resulting heat load over a larger area at a lower peak rate, since heat transfer to the surface scales inversely with the local radius of curvature, trading extra drag for a large reduction in the vehicle's peak heat flux.",
+        "et": "Nüri nina hoiab eesmise põrkelaine sõiduki pinnast kaugemal ja jaotab sellest tuleneva soojuskoormuse suuremale pinnale madalama tippkiirusega, kuna soojusülekanne pinnale on pöördvõrdeline kohaliku kõverusraadiusega, vahetades lisatakistuse sõiduki tippsoojusvoo suure vähenemise vastu.",
+        "sourceHash": "7978fa39854cb151",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A sharp nose would actually produce a lower peak temperature, but the extra drag it creates would slow the capsule down too abruptly, so the blunt shape is chosen purely for a gentler deceleration profile with no thermal benefit.",
+        "et": "Terav nina tekitaks tegelikult madalama tipptemperatuuri, kuid selle tekitatud lisatakistus aeglustaks kapslit liiga järsult, mistõttu nüri kuju valitakse puhtalt leebema aeglustusprofiili jaoks, ilma termilise kasuta.",
+        "sourceHash": "b4880a08c7261a4a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypersonic-aerothermodynamics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The blunt shape matters mainly because it reduces skin friction between the capsule's surface and the surrounding air, which is the dominant source of reentry heating regardless of nose shape.",
+        "et": "Nüri kuju on oluline peamiselt seetõttu, et see vähendab hõõrdumist kapsli pinna ja ümbritseva õhu vahel, mis on domineeriv taassisenemise kuumenemise allikas sõltumata ninakujust.",
+        "sourceHash": "fa665b5ee571fc81",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypersonic-aerothermodynamics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The blunt nose shape is chosen specifically because it allows the heat shield to avoid ablating at all, keeping the shield's outer surface intact and reusable after a single reentry.",
+        "et": "Nüri ninakuju valitakse spetsiaalselt seetõttu, et see võimaldab soojuskilbil ablatsiooni täielikult vältida, hoides kilbi välispinna terve ja pärast ühte taassisenemist korduvkasutatavana.",
+        "sourceHash": "d946be19d7e1a525",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypersonic-aerothermodynamics-m3"
+    }
+  ]
+}

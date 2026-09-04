@@ -1,0 +1,21 @@
+{
+  "id": "hypersonic-aerothermodynamics",
+  "subject": "aerospace-engineering",
+  "level": "L3",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Hypersonic aerothermodynamics",
+    "et": "Hüperhelikiiruseline aerotermodünaamika",
+    "sourceHash": "b284c34ca62e81b0",
+    "stale": false
+  },
+  "summary": {
+    "en": "At hypersonic speeds (roughly Mach 5 and above), the dominant engineering problem shifts from managing wave drag to managing heat: air passing through the strong bow shock ahead of a vehicle is compressed and decelerated so abruptly that much of the vehicle's kinetic energy converts to thermal energy in the shock layer, heating the gas to thousands of degrees and driving intense heat transfer into the vehicle's surface -- stagnation temperature, the temperature the gas would reach if brought completely to rest, can reach values that would vaporize most materials on contact, so surviving hypersonic flight is fundamentally a heat-management problem, not primarily a strength or drag-minimization problem. Counter-intuitively, a blunt nose shape, not a sharp pointed one, reduces heating to a vehicle's surface: a detached bow shock standing well ahead of a blunt body pushes most of the hot, shocked gas around the vehicle rather than along its surface, and surface heat transfer scales inversely with the local radius of curvature, so a blunter nose spreads the same total heat load over a larger area at a lower peak rate -- exactly why reentry capsules are deliberately blunt rather than needle-shaped, the opposite of a supersonic aircraft's sharp, drag-minimizing nose. Thermal protection systems manage the surviving heat load with one of two strategies: an ablative heat shield deliberately sacrifices its own outer material layer by layer, carrying heat away as that material chars and erodes, while a reusable insulating tile system instead relies on a low-conductivity ceramic to keep heat from ever reaching the structure underneath, radiating most of the absorbed heat back away from a very hot outer surface.",
+    "et": "Hüperhelikiirusel (ligikaudu Machi arvust 5 alates) nihkub domineeriv inseneriprobleem lainetakistuse juhtimiselt soojuse juhtimisele: sõiduki ees olevat tugevat eesmist põrkelainet läbiv õhk surutakse kokku ja aeglustatakse nii järsult, et suur osa sõiduki kineetilisest energiast muundub põrkelainekihis soojusenergiaks, kuumutades gaasi tuhandete kraadideni ning tekitades intensiivset soojusülekannet sõiduki pinnale -- stagnatsioonitemperatuur, temperatuur, milleni gaas jõuaks täielikult peatades, võib saavutada väärtusi, mis aurustaksid enamiku materjale kokkupuutel, mistõttu hüperhelikiiruselise lennu üleelamine on põhiolemuselt soojuse juhtimise, mitte peamiselt tugevuse või takistuse minimeerimise probleem. Vastuintuitiivselt vähendab sõiduki pinna kuumenemist nüri, mitte terav ninakuju: sõiduki eest kaugele eraldunud nüri keha eesmine põrkelaine suunab enamiku kuumast, põrutatud gaasist sõidukist mööda, mitte piki selle pinda, ning pinna soojusülekanne on pöördvõrdeline kohaliku kõverusraadiusega, mistõttu nürim nina jaotab sama kogu soojuskoormuse suuremale pinnale madalama tippkiiruse juures -- see on täpselt põhjus, miks taassisenemiskapslid on tahtlikult nürid, mitte nõelakujulised, vastupidiselt ülehelikiirusel lennuki teravale, takistust minimeerivale ninale. Soojuskaitsesüsteemid juhivad allesjäänud soojuskoormust ühe kahest strateegiast abil: ablatiivne soojuskilp ohverdab tahtlikult oma välimise materjalikihi kihthaaval, kandes soojust ära selle materjali söestumise ja kulumise käigus, samas kui korduvkasutatav isolatsiooniplaatidega süsteem toetub selle asemel madala soojusjuhtivusega keraamikale, et takistada soojuse jõudmist üldse aluskonstruktsioonini, kiirgades enamiku neelatud soojusest tagasi väga kuumalt välispinnalt.",
+    "sourceHash": "b34cb5246c349f64",
+    "stale": false
+  },
+  "prerequisites": [
+    "compressible-flow-and-gas-dynamics"
+  ]
+}

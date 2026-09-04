@@ -1,0 +1,10 @@
+{
+  "id": "hypersonic-aerothermodynamics-m2",
+  "conceptId": "hypersonic-aerothermodynamics",
+  "text": {
+    "en": "Believing the extreme heat of hypersonic flight comes mainly from friction between the vehicle's surface and the air, like ordinary skin friction scaled up -- in fact the dominant heating mechanism is the strong bow shock compressing and decelerating the air so abruptly that much of its kinetic energy converts to thermal energy in the shock layer itself, before the heated gas ever transfers heat into the vehicle's surface; skin friction in the boundary layer is a real but generally secondary contributor.",
+    "et": "Arvamus, et hüperhelikiiruselise lennu äärmuslik kuumus tuleneb peamiselt hõõrdumisest sõiduki pinna ja õhu vahel, sarnaselt tavalise pinnahõõrdumise suurendatud versioonile -- tegelikult on domineeriv kuumenemismehhanism tugev eesmine põrkelaine, mis surub kokku ja aeglustab õhku nii järsult, et suur osa selle kineetilisest energiast muundub soojusenergiaks juba põrkelainekihis endas, enne kui kuumutatud gaas üldse soojust sõiduki pinnale üle kannab; piirikihi pinnahõõrdumine on tõeline, kuid üldjuhul teisejärguline tegur.",
+    "sourceHash": "1adba49fac9ac84e",
+    "stale": false
+  }
+}

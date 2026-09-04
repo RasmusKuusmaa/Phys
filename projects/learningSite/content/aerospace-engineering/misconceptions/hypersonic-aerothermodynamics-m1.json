@@ -1,0 +1,10 @@
+{
+  "id": "hypersonic-aerothermodynamics-m1",
+  "conceptId": "hypersonic-aerothermodynamics",
+  "text": {
+    "en": "Believing hypersonic vehicles should have sharp, pointed noses to minimize drag, the same way supersonic aircraft do -- in fact a blunt nose is deliberately used on hypersonic reentry vehicles because it holds a detached bow shock further from the surface and reduces peak heating (heat transfer scales inversely with nose radius), trading a modest drag increase for a large, often survival-critical reduction in peak heat flux.",
+    "et": "Arvamus, et hüperhelikiiruselistel sõidukitel peaks olema takistuse minimeerimiseks terav nina, samamoodi nagu ülehelikiiruselistel lennukitel -- tegelikult kasutatakse hüperhelikiiruselistel taassisenemissõidukitel tahtlikult nüri nina, sest see hoiab eraldunud eesmise põrkelaine pinnast kaugemal ja vähendab tippkuumenemist (soojusülekanne on pöördvõrdeline nina kõverusraadiusega), vahetades mõõduka takistuse suurenemise suure, sageli ellujäämise seisukohalt kriitilise tippsoojusvoo vähenemise vastu.",
+    "sourceHash": "7becd6a6e5f42373",
+    "stale": false
+  }
+}
