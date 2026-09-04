@@ -1,0 +1,22 @@
+{
+  "id": "orbital-perturbations-and-reentry-dynamics",
+  "subject": "aerospace-engineering",
+  "level": "L4",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Orbital perturbations and reentry dynamics",
+    "et": "Orbiidi häiritused ja taassisenemisdünaamika",
+    "sourceHash": "95abc11e1fbc196b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Real orbits are not the perfectly closed, fixed Keplerian ellipses the introductory orbital-mechanics treatment assumes; for most Earth-orbiting satellites the dominant deviation is the J2 perturbation, caused by Earth's equatorial bulge, which produces a slow, entirely predictable precession of the orbital plane (nodal regression) at a rate that depends on orbital altitude and inclination -- a rate mission designers deliberately exploit rather than merely correct out, most notably by choosing the specific inclination that makes a sun-synchronous orbit's J2-driven nodal regression exactly match Earth's own motion around the Sun, so the satellite crosses the equator at the same local solar time on every single pass. At low altitude, residual atmospheric drag continuously removes orbital energy, so a satellite's altitude decays gradually and increasingly rapidly -- atmospheric density rises roughly exponentially as altitude drops, so drag accelerates as the orbit shrinks -- producing a spiraling decay over weeks to years rather than a sudden event, right up until final atmospheric breakup. A spacecraft deliberately targeting reentry exploits this same drag mechanism rather than fighting it: instead of firing a large retrograde burn to cancel virtually all of its orbital velocity outright, it needs only a modest deorbit burn to lower its perigee into the upper atmosphere, after which atmospheric drag over the ensuing descent bleeds off the enormous remaining orbital kinetic energy as heat -- the very same aerothermodynamic heating mechanism responsible for the extreme stagnation temperatures a hypersonic vehicle experiences.",
+    "et": "Tegelikud orbiidid ei ole täiuslikult suletud, fikseeritud Kepleri ellipsid, mida sissejuhatav orbitaalmehaanika käsitlus eeldab; enamiku Maad tiirlevate satelliitide puhul on domineeriv kõrvalekalle J2 häiritus, mille põhjustab Maa ekvatoriaalne punnis ning mis tekitab orbitaaltasandi aeglase, täielikult ennustatava pretsessiooni (sõlmede regressiooni) kiirusel, mis sõltub orbiidi kõrgusest ja kaldest -- kiirus, mida missiooniplaneerijad tahtlikult ära kasutavad, mitte lihtsalt ei korrigeeri, valides kõige silmapaistvamalt just sellise kalde, mis paneb päikesesünkroonse orbiidi J2-põhise sõlmede regressiooni täpselt vastama Maa enda liikumisele ümber Päikese, nii et satelliit ületab ekvaatori igal möödumisel samal kohalikul päikeseajal. Madalal kõrgusel eemaldab jääkatmosfääri takistus pidevalt orbitaalenergiat, mistõttu satelliidi kõrgus väheneb järk-järgult ja üha kiiremini -- atmosfääri tihedus kasvab kõrguse langedes ligikaudu eksponentsiaalselt, mistõttu takistus kiireneb orbiidi kahanedes -- tekitades nädalate kuni aastate pikkuse spiraalse languse, mitte äkilise sündmuse, kuni lõpliku atmosfäärilise purunemiseni. Kosmoseaparaat, mis sihilikult taassiseneb, kasutab ära sama takistusmehhanismi, mitte ei võitle selle vastu: selle asemel, et anda suur vastassuunaline tõuge, mis tühistaks peaaegu kogu selle orbitaalkiiruse, vajab see vaid tagasihoidlikku deorbiiditõuget, et langetada oma perigee ülemisse atmosfääri, misjärel atmosfääri takistus järgneva laskumise jooksul eemaldab tohutu allesjäänud orbitaalse kineetilise energia soojusena -- täpselt sama aerotermodünaamiline kuumenemismehhanism, mis vastutab hüperhelikiiruselisel sõidukil esineva äärmusliku stagnatsioonitemperatuuri eest.",
+    "sourceHash": "fb0798cfad71269d",
+    "stale": false
+  },
+  "prerequisites": [
+    "orbital-mechanics-and-spaceflight",
+    "hypersonic-aerothermodynamics"
+  ]
+}

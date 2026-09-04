@@ -1,0 +1,56 @@
+{
+  "id": "orbital-perturbations-and-reentry-dynamics-item1",
+  "conceptId": "orbital-perturbations-and-reentry-dynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Mission designers deliberately place an Earth-observation satellite into an orbit whose inclination causes its orbital plane to precess, due to the J2 perturbation, at exactly the rate Earth moves around the Sun in a year. Why would they choose an inclination that causes this drift rather than one that minimizes it?",
+    "et": "Missiooniplaneerijad paigutavad Maa vaatlemise satelliidi tahtlikult orbiidile, mille kalle põhjustab selle orbitaaltasandi pretsessiooni J2 häirituse tõttu täpselt sellise kiirusega, millega Maa aasta jooksul ümber Päikese liigub. Miks valiksid nad kalde, mis põhjustab selle triivi, selle asemel, mis seda minimeerib?",
+    "sourceHash": "9c018815bffbf345",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "This creates a sun-synchronous orbit: the satellite crosses the equator at the same local solar time on every pass, giving consistent lighting conditions for repeated observations, which is a deliberate use of the J2 effect rather than a problem to eliminate.",
+        "et": "See loob päikesesünkroonse orbiidi: satelliit ületab ekvaatori igal möödumisel samal kohalikul päikeseajal, andes korduvateks vaatlusteks ühtlased valgustingimused -- see on J2 efekti tahtlik ärakasutamine, mitte kõrvaldatav probleem.",
+        "sourceHash": "beedf515f00cd6b5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Orbital perturbations like J2 are unavoidable numerical errors in orbit propagation, so the choice of inclination has no real effect on them one way or the other.",
+        "et": "Orbiidi häiritused, näiteks J2, on vältimatud numbrilised vead orbiidi arvutamisel, mistõttu kalde valikul pole neile mingit tegelikku mõju kummaski suunas.",
+        "sourceHash": "d5872d4966f6c449",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "orbital-perturbations-and-reentry-dynamics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A precessing orbital plane means the satellite is gradually decaying and will reenter sooner, which is acceptable for a short-duration mission.",
+        "et": "Pretsedeeruv orbitaaltasand tähendab, et satelliit laguneb järk-järgult ja taassiseneb varem, mis on lühikese kestusega missiooni jaoks vastuvõetav.",
+        "sourceHash": "4e1434ea70cf9c69",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "orbital-perturbations-and-reentry-dynamics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The precession lets the satellite avoid needing a deorbit burn entirely, since its orbital plane drifting is equivalent to losing orbital velocity.",
+        "et": "Pretsessioon võimaldab satelliidil täielikult vältida deorbiiditõuke vajadust, kuna selle orbitaaltasandi triiv on samaväärne orbitaalkiiruse kaotamisega.",
+        "sourceHash": "c482189c5a39d734",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "orbital-perturbations-and-reentry-dynamics-m3"
+    }
+  ]
+}

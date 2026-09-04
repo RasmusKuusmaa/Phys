@@ -1,0 +1,10 @@
+{
+  "id": "orbital-perturbations-and-reentry-dynamics-m1",
+  "conceptId": "orbital-perturbations-and-reentry-dynamics",
+  "text": {
+    "en": "Believing orbital perturbations like the J2 effect are simply errors or noise that mission designers can only correct out, with no genuine engineering use -- the J2 perturbation's predictable, orbit-parameter-dependent nodal precession is deliberately exploited, most notably in sun-synchronous orbits, where a specific inclination is chosen precisely so the J2-driven precession rate matches Earth's own orbital motion around the Sun, giving the satellite consistent lighting conditions on every pass rather than something engineers merely tolerate.",
+    "et": "Arvamus, et orbiidi häiritused, näiteks J2 efekt, on lihtsalt vead või müra, mida missiooniplaneerijad saavad ainult korrigeerida, ilma tõelise inseneriotstarbeta -- J2 häirituse ennustatavat, orbiidi parameetritest sõltuvat sõlmede pretsessiooni kasutatakse tahtlikult ära, kõige silmapaistvamalt päikesesünkroonsetel orbiitidel, kus valitakse spetsiifiline kalle just selleks, et J2-põhine pretsessioonikiirus vastaks Maa enda orbitaalsele liikumisele ümber Päikese, andes satelliidile igal möödumisel ühtlased valgustingimused, mitte midagi, mida insenerid lihtsalt taluvad.",
+    "sourceHash": "ee96226f9606f71b",
+    "stale": false
+  }
+}

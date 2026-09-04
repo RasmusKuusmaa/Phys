@@ -1,0 +1,10 @@
+{
+  "id": "orbital-perturbations-and-reentry-dynamics-m2",
+  "conceptId": "orbital-perturbations-and-reentry-dynamics",
+  "text": {
+    "en": "Believing a low-altitude satellite decays and reenters suddenly, like a light switch turning off -- atmospheric drag at low altitude continuously removes orbital energy, so altitude decays gradually and, because atmospheric density rises roughly exponentially as altitude drops, increasingly rapidly: an accelerating spiral over weeks to years, not a single sudden event, right up until the satellite finally breaks up in the denser lower atmosphere.",
+    "et": "Arvamus, et madala kõrgusega satelliit laguneb ja taassiseneb äkitselt, nagu lülitit välja lülitades -- atmosfääri takistus madalal kõrgusel eemaldab pidevalt orbitaalenergiat, mistõttu kõrgus väheneb järk-järgult ning, kuna atmosfääri tihedus kasvab kõrguse langedes ligikaudu eksponentsiaalselt, üha kiiremini: kiirenev spiraal nädalate kuni aastate jooksul, mitte üksik äkiline sündmus, kuni satelliit lõpuks tihedamas madalamas atmosfääris puruneb.",
+    "sourceHash": "96f6c7ad1379aef7",
+    "stale": false
+  }
+}

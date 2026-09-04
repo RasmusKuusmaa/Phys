@@ -1,0 +1,10 @@
+{
+  "id": "orbital-perturbations-and-reentry-dynamics-m3",
+  "conceptId": "orbital-perturbations-and-reentry-dynamics",
+  "text": {
+    "en": "Believing a returning spacecraft must fire a rocket burn large enough to cancel virtually all of its orbital velocity in order to reenter -- a comparatively small deorbit burn is enough to lower perigee into the upper atmosphere; atmospheric drag itself then removes the vast majority of the spacecraft's remaining orbital kinetic energy as heat during the actual descent, which is exactly why reentry heating is so severe in the first place, not something a large braking burn was needed to avoid.",
+    "et": "Arvamus, et naasev kosmoseaparaat peab andma raketitõuke, mis on piisavalt suur, et tühistada peaaegu kogu selle orbitaalkiirus, et taassiseneda -- suhteliselt väike deorbiiditõuge piisab perigee langetamiseks ülemisse atmosfääri; atmosfääri takistus ise eemaldab seejärel tegeliku laskumise ajal enamiku kosmoseaparaadi allesjäänud orbitaalsest kineetilisest energiast soojusena, mis on täpselt põhjus, miks taassisenemise kuumenemine on nii tõsine, mitte miski, mida suur pidurdustõuge pidi vältima.",
+    "sourceHash": "b9041e1e65076692",
+    "stale": false
+  }
+}
