@@ -1,0 +1,22 @@
+{
+  "id": "pericyclic-reactions-and-the-woodward-hoffmann-rules",
+  "subject": "chemistry",
+  "level": "L4",
+  "module": "organic-chemistry",
+  "title": {
+    "en": "Pericyclic reactions and the Woodward-Hoffmann rules",
+    "et": "Perütsüklilised reaktsioonid ja Woodwardi-Hoffmanni reeglid",
+    "sourceHash": "a8cdfbed8155b45c",
+    "stale": false
+  },
+  "summary": {
+    "en": "A pericyclic reaction, such as the Diels-Alder reaction joining a diene and a dienophile into a new ring, proceeds through a single concerted step in which several bonds break and form simultaneously around a closed loop of continuously overlapping orbitals, with no discrete charged or radical intermediate ever forming, and whether a given pericyclic reaction actually proceeds easily under ordinary heating (thermal conditions) or instead requires light (photochemical conditions) is not a matter of which reagents are involved but is dictated entirely by orbital symmetry -- the Woodward-Hoffmann rules, derived from analyzing how the symmetry of the relevant molecular orbitals changes continuously along the reaction pathway, predict with remarkable and repeatedly verified precision that a given pericyclic reaction which proceeds smoothly under thermal conditions is symmetry-forbidden (and therefore does not proceed by the same concerted pathway at all, or requires a drastically higher barrier) under photochemical conditions, and vice versa, a genuine selection rule rather than an empirical rule of thumb.",
+    "et": "Perütsükliline reaktsioon, näiteks Dielsi-Alderi reaktsioon, mis ühendab dieeni ja dienofiili uueks tsükliks, kulgeb ühe kooskõlastatud sammu kaudu, milles mitu sidet katkevad ja tekivad samaaegselt ümber pidevalt kattuvate orbitaalide suletud silmuse, ilma et kunagi tekiks eraldiseisvat laetud või radikaalset vaheühendit, ning kas antud perütsükliline reaktsioon tegelikult kulgeb kergesti tavalise kuumutamise all (termilised tingimused) või nõuab selle asemel valgust (fotokeemilised tingimused), ei ole reagentide küsimus, vaid on täielikult dikteeritud orbitaalide sümmeetria poolt -- Woodwardi-Hoffmanni reeglid, mis on tuletatud analüüsides, kuidas asjakohaste molekulaarorbitaalide sümmeetria muutub pidevalt piki reaktsiooniteed, ennustavad märkimisväärse ja korduvalt kinnitatud täpsusega, et antud perütsükliline reaktsioon, mis kulgeb sujuvalt termiliste tingimuste all, on sümmeetria poolt keelatud (ja seetõttu ei kulge sama kooskõlastatud tee kaudu üldse, või nõuab drastiliselt kõrgemat barjääri) fotokeemiliste tingimuste all, ja vastupidi, tõeline valikureegel, mitte empiiriline pöidlareegel.",
+    "sourceHash": "56195401b561380d",
+    "stale": false
+  },
+  "prerequisites": [
+    "aromaticity",
+    "molecular-orbital-theory-and-hybridisation"
+  ]
+}

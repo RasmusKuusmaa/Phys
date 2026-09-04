@@ -1,0 +1,56 @@
+{
+  "id": "pericyclic-reactions-and-the-woodward-hoffmann-rules-item1",
+  "conceptId": "pericyclic-reactions-and-the-woodward-hoffmann-rules",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A particular pericyclic reaction proceeds smoothly when the starting materials are simply heated, but the Woodward-Hoffmann rules predict this same concerted pathway is symmetry-forbidden if the reaction is instead driven photochemically. Why would that be?",
+    "et": "Konkreetne perütsükliline reaktsioon kulgeb sujuvalt, kui lähteained lihtsalt kuumutatakse, kuid Woodwardi-Hoffmanni reeglid ennustavad, et see sama kooskõlastatud tee on sümmeetria poolt keelatud, kui reaktsiooni juhitakse selle asemel fotokeemiliselt. Miks see nii oleks?",
+    "sourceHash": "5ab51fe4cc4952bc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Promoting an electron to a different orbital under photochemical excitation genuinely changes which orbital symmetry pattern is available for bonding, making a pathway allowed under one condition symmetry-forbidden under the other.",
+        "et": "Elektroni ergastamine teise orbitaali fotokeemilise ergastuse all muudab tõeliselt seda, milline orbitaalide sümmeetriamuster on sidumiseks saadaval, muutes ühe tingimuse all lubatud tee teise tingimuse all sümmeetria poolt keelatuks.",
+        "sourceHash": "294edfb6c0c2eada",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Photochemical conditions simply don't supply enough activation energy for the same concerted pathway, so the reaction is only slower, not actually forbidden by symmetry.",
+        "et": "Fotokeemilised tingimused lihtsalt ei anna piisavalt aktivatsioonienergiat sama kooskõlastatud tee jaoks, seega on reaktsioon ainult aeglasem, mitte tegelikult sümmeetria poolt keelatud.",
+        "sourceHash": "3667dfae2cde5aba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pericyclic-reactions-and-the-woodward-hoffmann-rules-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This prediction is just an empirical pattern noticed after many experiments, with no real theoretical basis connecting the thermal and photochemical outcomes.",
+        "et": "See ennustus on lihtsalt empiiriline muster, mis on märgatud pärast paljusid eksperimente, ilma tegeliku teoreetilise aluseta, mis ühendaks termilised ja fotokeemilised tulemused.",
+        "sourceHash": "1dba76121dba93f7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pericyclic-reactions-and-the-woodward-hoffmann-rules-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The thermal reaction must actually proceed through a discrete charged intermediate rather than a concerted pathway, which is why photochemical conditions behave completely differently.",
+        "et": "Termiline reaktsioon peab tegelikult kulgema eraldiseisva laetud vaheühendi kaudu, mitte kooskõlastatud tee kaudu, mis ongi põhjus, miks fotokeemilised tingimused käituvad täiesti erinevalt.",
+        "sourceHash": "baa4ecbb3d352710",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pericyclic-reactions-and-the-woodward-hoffmann-rules-m1"
+    }
+  ]
+}

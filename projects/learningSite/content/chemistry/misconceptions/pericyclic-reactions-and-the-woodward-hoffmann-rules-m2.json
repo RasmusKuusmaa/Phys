@@ -1,0 +1,10 @@
+{
+  "id": "pericyclic-reactions-and-the-woodward-hoffmann-rules-m2",
+  "conceptId": "pericyclic-reactions-and-the-woodward-hoffmann-rules",
+  "text": {
+    "en": "Believing whether a pericyclic reaction proceeds thermally or photochemically is simply a matter of which conditions happen to supply enough activation energy, with either condition working equally well in principle for the same concerted pathway -- the Woodward-Hoffmann rules specifically predict that a given concerted pericyclic pathway is symmetry-allowed under exactly one of the two conditions (thermal or photochemical) and symmetry-forbidden under the other, because promoting an electron to a different orbital (as happens on absorbing light) genuinely changes which orbital symmetry pattern is available for bonding along the reaction coordinate; this is a strict selection rule following directly from orbital symmetry, not a difference in how much energy is simply supplied.",
+    "et": "Arvamus, et see, kas perütsükliline reaktsioon kulgeb termiliselt või fotokeemiliselt, on lihtsalt küsimus sellest, millised tingimused juhtuvad andma piisavalt aktivatsioonienergiat, kusjuures mõlemad tingimused töötaksid põhimõtteliselt võrdselt hästi sama kooskõlastatud tee jaoks -- Woodwardi-Hoffmanni reeglid ennustavad spetsiifiliselt, et antud kooskõlastatud perütsükliline tee on sümmeetria poolt lubatud täpselt ühe kahest tingimusest (termiline või fotokeemiline) all ja sümmeetria poolt keelatud teise all, kuna elektroni ergastamine teise orbitaali (mis juhtub valguse neeldumisel) muudab tõeliselt seda, milline orbitaalide sümmeetriamuster on sidumiseks saadaval piki reaktsiooni koordinaati; see on range valikureegel, mis järgneb otseselt orbitaalide sümmeetriast, mitte erinevus selles, kui palju energiat lihtsalt antakse.",
+    "sourceHash": "7688e37253963f60",
+    "stale": false
+  }
+}

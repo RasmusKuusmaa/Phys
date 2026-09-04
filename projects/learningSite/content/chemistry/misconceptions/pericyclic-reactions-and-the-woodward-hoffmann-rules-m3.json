@@ -1,0 +1,10 @@
+{
+  "id": "pericyclic-reactions-and-the-woodward-hoffmann-rules-m3",
+  "conceptId": "pericyclic-reactions-and-the-woodward-hoffmann-rules",
+  "text": {
+    "en": "Believing the Woodward-Hoffmann rules are an empirical rule of thumb, discovered by noticing a pattern in experimental results with no genuine theoretical derivation behind them -- the rules were derived directly from analyzing how the symmetry of the relevant molecular orbitals changes continuously along the reaction coordinate as bonds break and form together, a genuine theoretical prediction from orbital-symmetry conservation principles, made before much of the confirming experimental evidence existed; their subsequent, repeated experimental verification across many different pericyclic reaction types is precisely why they are considered one of the most successful theoretical predictions in organic chemistry rather than a retrospective empirical pattern.",
+    "et": "Arvamus, et Woodwardi-Hoffmanni reeglid on empiiriline pöidlareegel, mis avastati, märgates mustrit eksperimentaalsetes tulemustes, ilma tõelise teoreetilise tuletuseta selle taga -- reeglid tuletati otseselt analüüsides, kuidas asjakohaste molekulaarorbitaalide sümmeetria muutub pidevalt piki reaktsiooni koordinaati, kui sidemed koos katkevad ja tekivad, tõeline teoreetiline ennustus orbitaalide sümmeetria säilimise printsiipidest, tehtud enne, kui suurem osa kinnitavat eksperimentaalset tõendusmaterjali eksisteeris; nende järgnev, korduv eksperimentaalne kinnitus paljude erinevate perütsükliliste reaktsioonitüüpide lõikes ongi täpselt põhjus, miks neid peetakse üheks kõige edukamaks teoreetiliseks ennustuseks orgaanilises keemias, mitte tagasivaatavaks empiiriliseks mustriks.",
+    "sourceHash": "a3cc4955101a587b",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pericyclic-reactions-and-the-woodward-hoffmann-rules-m1",
+  "conceptId": "pericyclic-reactions-and-the-woodward-hoffmann-rules",
+  "text": {
+    "en": "Believing pericyclic reactions like the Diels-Alder reaction proceed through the same kind of discrete, stepwise mechanism as ordinary ionic or radical reactions, just involving a ring -- pericyclic reactions are specifically concerted: all the bond-breaking and bond-forming happens in a single step, simultaneously, around a closed loop of continuously overlapping orbitals, with no discrete charged intermediate (carbocation, carbanion) or radical intermediate ever forming along the way; this genuinely different mechanistic character, not merely the ring shape of the transition state, is exactly why pericyclic reactions are governed by orbital-symmetry selection rules that ordinary stepwise ionic or radical reactions simply do not follow.",
+    "et": "Arvamus, et perütsüklilised reaktsioonid nagu Dielsi-Alderi reaktsioon kulgevad sama liiki eraldiseisva, järkjärgulise mehhanismi kaudu nagu tavalised ioonsed või radikaalsed reaktsioonid, lihtsalt hõlmates tsüklit -- perütsüklilised reaktsioonid on spetsiifiliselt kooskõlastatud: kogu sideme katkemine ja tekkimine toimub ühes sammus, samaaegselt, ümber pidevalt kattuvate orbitaalide suletud silmuse, ilma et kunagi tekiks teel eraldiseisvat laetud vaheühendit (karbokatioon, karbanioon) või radikaalset vaheühendit; see tõeliselt erinev mehhanistlik iseloom, mitte ainult üleminekuoleku tsükliline kuju, ongi täpselt põhjus, miks perütsüklilisi reaktsioone juhivad orbitaalide sümmeetria valikureeglid, mida tavalised järkjärgulised ioonsed või radikaalsed reaktsioonid lihtsalt ei järgi.",
+    "sourceHash": "96d5de1aa56c668f",
+    "stale": false
+  }
+}
