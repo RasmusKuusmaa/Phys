@@ -1,0 +1,10 @@
+{
+  "id": "neurological-disease-mechanisms-m3",
+  "conceptId": "neurological-disease-mechanisms",
+  "text": {
+    "en": "Between seizures, the brain region that produces them is permanently damaged and non-functional, similar to a neurodegenerative disease -- in reality, the neurons involved in a seizure focus are often structurally intact and can function entirely normally between seizure events: a seizure is an episode of abnormal electrical activity, not permanent tissue loss, which is why interictal (between-seizure) brain function in that region can look normal on many measures even though the region remains prone to another hypersynchronized episode.",
+    "et": "Krambihoogude vahel on piirkond, mis neid tekitab, püsivalt kahjustatud ja mittetoimiv, sarnaselt neurodegeneratiivsele haigusele -- tegelikult on krambikoldes osalevad neuronid sageli struktuurselt terved ja suudavad krambihoogude vahel toimida täiesti normaalselt: krambihoog on ebanormaalse elektrilise aktiivsuse episood, mitte püsiv koekadu, mistõttu interiktaalne (krambihoogudevaheline) ajufunktsioon selles piirkonnas võib paljude näitajate järgi näida normaalne, ehkki piirkond jääb altiks järgmisele hüpersünkroonsele episoodile.",
+    "sourceHash": "29db28ff6ea8acb9",
+    "stale": false
+  }
+}

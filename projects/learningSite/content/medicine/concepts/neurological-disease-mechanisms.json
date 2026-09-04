@@ -1,0 +1,21 @@
+{
+  "id": "neurological-disease-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "neuroscience",
+  "title": {
+    "en": "Neurological disease mechanisms",
+    "et": "Neuroloogiliste haiguste mehhanismid",
+    "sourceHash": "ec18572554c21a7f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Neurological disease covers three broad mechanistic categories, each disrupting nervous system function in a genuinely different way rather than being variations on one theme. Neurodegeneration is the progressive loss of neurons themselves, usually through the accumulation of misfolded proteins that become toxic to the specific neuron populations affected -- which particular proteins and which particular neurons are affected determines the disease's specific symptoms, since a disease that kills dopamine-producing neurons in one brain region produces movement symptoms, while one that kills a different neuron population elsewhere produces memory loss, even though both are neurodegenerative at the mechanistic level. Demyelination is a mechanistically distinct problem: the neurons themselves survive, but the myelin sheath insulating their axons is damaged or destroyed (often through an autoimmune attack), which slows or blocks the normally fast, saltatory conduction those axons depend on -- a demyelinated axon can often still conduct a signal, just far more slowly and less reliably, which is why demyelinating disease symptoms can fluctuate and partially remit as some remyelination occurs, unlike the one-way loss of neurodegeneration. Seizures arise from a third, different mechanism entirely: not cell death or insulation loss, but abnormal, hypersynchronized electrical activity, where a group of neurons fires excessively and in unison rather than in their normal, more independent pattern -- what region is involved in that hypersynchronous firing determines the seizure's specific symptoms, and between seizures the underlying neurons can function entirely normally, which is a fundamentally different picture from the sustained cell loss or insulation damage the other two categories involve.",
+    "et": "Neuroloogilised haigused jagunevad kolme laiaulatuslikku mehhanismi kategooriasse, millest igaüks häirib närvisüsteemi talitlust tõeliselt erineval viisil, mitte pole ühe teema variatsioonid. Neurodegeneratsioon on neuronite endi järkjärguline kadu, tavaliselt valesti volditud valkude kuhjumise kaudu, mis muutuvad toksiliseks konkreetsetele mõjutatud neuronipopulatsioonidele -- millised konkreetsed valgud ja millised konkreetsed neuronid on mõjutatud, määrab haiguse konkreetsed sümptomid, kuna haigus, mis tapab dopamiini tootvaid neuroneid ühes ajupiirkonnas, tekitab liikumissümptomeid, samas kui haigus, mis tapab mõne teise neuronipopulatsiooni mujal, tekitab mäluhäireid, ehkki mõlemad on mehhanismi tasandil neurodegeneratiivsed. Demüelinisatsioon on mehhanismilt eristuv probleem: neuronid ise jäävad ellu, kuid nende aksoneid isoleeriv müeliintupp on kahjustatud või hävinud (sageli autoimmuunse rünnaku kaudu), mis aeglustab või blokeerib nende aksonite jaoks normaalset kiiret, saltatoorset juhtivust, millest need sõltuvad -- demüeliniseeritud akson suudab sageli signaali endiselt juhtida, lihtsalt palju aeglasemalt ja ebausaldusväärsemalt, mistõttu demüeliniseerivate haiguste sümptomid võivad kõikuda ja osaliselt taanduda, kui toimub osaline remüeliniseerumine, erinevalt neurodegeneratsiooni ühesuunalisest kaost. Krambid tekivad täiesti kolmandast, erinevast mehhanismist: mitte rakusurmast ega isolatsioonikaost, vaid ebanormaalsest, hüpersünkroniseeritud elektrilisest aktiivsusest, kus neuronite rühm tulistab liigselt ja ühtselt, selle asemel et järgida oma tavapärast, iseseisvamat mustrit -- milline piirkond on selles hüpersünkroonses tulistamises kaasatud, määrab krambi konkreetsed sümptomid, ning krambihoogude vahel võivad aluseks olevad neuronid toimida täiesti normaalselt, mis on põhimõtteliselt erinev pilt kui teise kahe kategooria püsiv rakukadu või isolatsioonikahjustus.",
+    "sourceHash": "1a9d60f4b6c313ca",
+    "stale": false
+  },
+  "prerequisites": [
+    "neuron-structure-and-the-action-potential"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "neurological-disease-mechanisms-m1",
+  "conceptId": "neurological-disease-mechanisms",
+  "text": {
+    "en": "Neurodegeneration, demyelination, and seizures are all basically the same underlying process ('general brain damage') with different names -- in reality, these are three mechanistically distinct processes (permanent neuron loss, damage to the insulation around surviving neurons, and abnormal hypersynchronized firing of otherwise-intact neurons, respectively), and treating them as interchangeable obscures why they have such different symptom patterns, time courses, and reversibility.",
+    "et": "Neurodegeneratsioon, demüelinisatsioon ja krambid on kõik sisuliselt sama aluseks olev protsess ('üldine ajukahjustus') erinevate nimedega -- tegelikult on need kolm mehhanismilt eristuvat protsessi (vastavalt püsiv neuronite kadu, ellujäänud neuronite isolatsiooni kahjustus ja muidu terveid neuroneid, mis tulistavad ebanormaalselt hüpersünkroonselt), ning nende käsitlemine vahetatavatena varjab, miks neil on nii erinevad sümptomimustrid, ajakulg ja pöörduvus.",
+    "sourceHash": "9fee800e086da663",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "neurological-disease-mechanisms-item1",
+  "conceptId": "neurological-disease-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient's neurological symptoms come and go, partially improving for weeks or months at a time. Which underlying mechanism is this fluctuating pattern most consistent with, and why?",
+    "et": "Patsiendi neuroloogilised sümptomid tulevad ja lähevad, paranedes osaliselt nädalateks või kuudeks korraga. Millise aluseks oleva mehhanismiga on see kõikuv muster kõige kooskõlas ja miks?",
+    "sourceHash": "c603ede774ba4d8b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Demyelination -- because the neuron itself survives and can partially resume normal conduction as some remyelination occurs, unlike the one-way, permanent loss involved in neurodegeneration.",
+        "et": "Demüelinisatsioon -- sest neuron ise jääb ellu ja suudab osalise remüeliniseerumise korral taas osaliselt normaalset juhtivust taastada, erinevalt neurodegeneratsiooni ühesuunalisest, püsivast kaost.",
+        "sourceHash": "60fbb61338825cc3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It could equally be any of the three mechanisms, since neurodegeneration, demyelination, and seizures are all essentially the same kind of brain damage.",
+        "et": "See võiks olla ükskõik milline kolmest mehhanismist, kuna neurodegeneratsioon, demüelinisatsioon ja krambid on kõik sisuliselt sama liiki ajukahjustus.",
+        "sourceHash": "e857050be2b66335",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neurological-disease-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Neurodegeneration -- dying neurons can regenerate and reverse the damage over the following weeks, producing the improvement.",
+        "et": "Neurodegeneratsioon -- suremas olevad neuronid suudavad järgnevate nädalate jooksul taastuda ja kahjustust pöörata, tekitades paranemise.",
+        "sourceHash": "898bd93e10440e16",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neurological-disease-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A seizure disorder, since the brain region involved is permanently non-functional between episodes and any apparent improvement must be from a different, healthy region compensating.",
+        "et": "Krambihäire, kuna kaasatud ajupiirkond on episoodide vahel püsivalt mittetoimiv ning igasugune näiline paranemine peab tulenema mõnest teisest, tervest kompenseerivast piirkonnast.",
+        "sourceHash": "a64f7c12d07d1778",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neurological-disease-mechanisms-m3"
+    }
+  ]
+}

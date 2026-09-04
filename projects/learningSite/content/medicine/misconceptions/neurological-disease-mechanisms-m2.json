@@ -1,0 +1,10 @@
+{
+  "id": "neurological-disease-mechanisms-m2",
+  "conceptId": "neurological-disease-mechanisms",
+  "text": {
+    "en": "Demyelination and neurodegeneration are equally irreversible, since both involve nervous system damage -- in reality, demyelination can partially reverse if remyelination occurs, since the underlying neuron survives and can conduct again once reinsulated, while neurodegeneration involves the neuron's actual death, which the nervous system cannot undo: this is exactly why demyelinating disease can show a relapsing-remitting symptom pattern that a purely neurodegenerative disease typically does not.",
+    "et": "Demüelinisatsioon ja neurodegeneratsioon on ühtemoodi pöördumatud, kuna mõlemad hõlmavad närvisüsteemi kahjustust -- tegelikult võib demüelinisatsioon osaliselt taanduda, kui toimub remüeliniseerumine, kuna aluseks olev neuron jääb ellu ja suudab pärast taasisoleerimist uuesti juhtida, samas kui neurodegeneratsioon hõlmab neuroni tegelikku surma, mida närvisüsteem tagasi pöörata ei saa: see ongi täpselt põhjus, miks demüeliniseeriv haigus võib näidata ägenemiste-remissioonidega sümptomimustrit, mida puhtalt neurodegeneratiivne haigus tavaliselt ei näita.",
+    "sourceHash": "762ed3ee350d4491",
+    "stale": false
+  }
+}
