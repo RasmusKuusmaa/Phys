@@ -1,0 +1,10 @@
+{
+  "id": "flight-dynamics-and-stability-m1",
+  "conceptId": "flight-dynamics-and-stability",
+  "text": {
+    "en": "Believing the elevator directly controls altitude, so pulling back on the controls always makes an aircraft climb -- the elevator actually controls pitch attitude (and therefore angle of attack), and sustained climbing requires excess thrust or power beyond what level flight needs; pulling back without adding power converts airspeed into a temporary altitude gain at best, and can just as easily drive the wing toward its critical angle of attack and a stall instead of a climb.",
+    "et": "Arvamus, et kõrgustüür juhib otse kõrgust, mistõttu juhtsanga enda poole tõmbamine paneb õhusõiduki alati tõusma -- kõrgustüür juhib tegelikult kaldenurka (ja seeläbi rünnakunurka), ning püsiv tõus vajab lisatõukejõudu või -võimsust rohkem, kui horisontaallend vajab; juhtsanga tõmbamine ilma võimsust lisamata muudab lennukiiruse parimal juhul ajutiseks kõrgusekasvuks, kuid võib sama hästi viia tiiva kriitilise rünnakunurgani ja seiskumiseni tõusu asemel.",
+    "sourceHash": "890d140c1678a782",
+    "stale": false
+  }
+}

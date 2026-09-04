@@ -1,0 +1,56 @@
+{
+  "id": "flight-dynamics-and-stability-item1",
+  "conceptId": "flight-dynamics-and-stability",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A pilot pulls back on the controls without adding any power, hoping to climb. What actually happens, and why?",
+    "et": "Piloot tõmbab juhtsanga enda poole ilma võimsust lisamata, lootes tõusta. Mis tegelikult juhtub ja miks?",
+    "sourceHash": "d2712398bc31a495",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The aircraft may gain a little altitude temporarily by trading airspeed for height, but without added thrust it risks approaching the wing's critical angle of attack and stalling.",
+        "et": "Õhusõiduk võib ajutiselt veidi kõrgust võita, vahetades lennukiiruse kõrguse vastu, kuid ilma lisatõukejõuta ohustab see tiiva kriitilise rünnakunurga lähenemist ja seiskumist.",
+        "sourceHash": "95e777342fa0fa30",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The aircraft climbs steadily and indefinitely, since the elevator directly commands altitude regardless of power setting.",
+        "et": "Õhusõiduk tõuseb ühtlaselt ja lõputult, kuna kõrgustüür juhib võimsuse seadistusest sõltumata otse kõrgust.",
+        "sourceHash": "0d4ff0c51fb8c282",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "flight-dynamics-and-stability-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Nothing changes, because the center of gravity and center of pressure automatically stay coincident during any pitch input.",
+        "et": "Miski ei muutu, kuna raskuskese ja rõhukese jäävad iga kaldenurga muutuse ajal automaatselt kokkulangevaks.",
+        "sourceHash": "2886ff2bdb60f0b8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "flight-dynamics-and-stability-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The aircraft becomes unsafe, since any pitch input on a statically stable aircraft is inherently dangerous by design.",
+        "et": "Õhusõiduk muutub ohtlikuks, kuna igasugune kaldenurga muutuse käsklus staatiliselt stabiilsel õhusõidukil on projekti poolest olemuslikult ohtlik.",
+        "sourceHash": "1210f525ecfb180e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "flight-dynamics-and-stability-m2"
+    }
+  ]
+}

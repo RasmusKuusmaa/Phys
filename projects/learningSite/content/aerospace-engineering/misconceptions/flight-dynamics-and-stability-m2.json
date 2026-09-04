@@ -1,0 +1,10 @@
+{
+  "id": "flight-dynamics-and-stability-m2",
+  "conceptId": "flight-dynamics-and-stability",
+  "text": {
+    "en": "Believing that more static stability always makes an aircraft better, or that static stability is the same thing as maneuverability -- static stability and maneuverability actually trade off against each other, since a strongly stable aircraft resists any disturbance from its trimmed attitude, including the pilot's own deliberate control inputs, which is exactly why fighter aircraft are often designed with relaxed or even negative static stability (kept flyable only through fly-by-wire computers) specifically to be more agile, not less safe by design.",
+    "et": "Arvamus, et suurem staatiline stabiilsus teeb õhusõiduki alati paremaks, või et staatiline stabiilsus on sama mis manööverdusvõime -- staatiline stabiilsus ja manööverdusvõime on tegelikult omavahel vastuolus, kuna tugevalt stabiilne õhusõiduk seisab vastu igasugusele häiritusele oma trimmitud asendist, sealhulgas piloodi enda tahtlikele juhtimiskäskudele, mistõttu on hävitajad sageli projekteeritud vähendatud või isegi negatiivse staatilise stabiilsusega (lennukõlblikuna hoitud ainult fly-by-wire arvutite abil) just selleks, et olla manööverdusvõimelisem, mitte projekti poolest ohtlikumaks.",
+    "sourceHash": "4c08f4c145d88952",
+    "stale": false
+  }
+}

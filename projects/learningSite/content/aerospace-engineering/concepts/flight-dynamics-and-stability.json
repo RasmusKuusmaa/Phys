@@ -1,0 +1,21 @@
+{
+  "id": "flight-dynamics-and-stability",
+  "subject": "aerospace-engineering",
+  "level": "L2",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Flight dynamics and stability",
+    "et": "Lennudünaamika ja stabiilsus",
+    "sourceHash": "8badfdbc6a5dd328",
+    "stale": false
+  },
+  "summary": {
+    "en": "Steady, level flight is a balance of four forces -- lift and weight, thrust and drag -- and a pilot commands the aircraft by moving control surfaces (ailerons for roll, an elevator for pitch, a rudder for yaw) that change the lift each aerodynamic surface produces, which changes the moments acting on the aircraft, not by directly commanding altitude, heading, or bank angle. Static stability is the tendency of an aircraft, once disturbed, to generate a restoring moment back toward its trimmed attitude on its own, and for a conventional tail-aft design this depends on the center of gravity sitting forward of the aircraft's neutral point, so the tail's lift can create a nose-down correcting moment whenever the nose pitches up; moving the center of gravity aft reduces or eliminates this margin and can make the aircraft statically unstable, while a very large margin makes the aircraft stable but sluggish and resistant to the pilot's own control inputs, which is why highly maneuverable aircraft are often designed with reduced or even negative static stability instead.",
+    "et": "Ühtlane, horisontaallend on nelja jõu -- tõstejõu ja raskusjõu, tõukejõu ja takistusjõu -- tasakaal, ning piloot juhib õhusõidukit liigutades juhtpindu (kaldtüürid rullimiseks, kõrgustüür kaldenurga muutmiseks, suunatüür pöördenurga muutmiseks), mis muudavad iga aerodünaamilise pinna tekitatavat tõstejõudu ja seeläbi õhusõidukile mõjuvaid momente, mitte käskides otse kõrgust, kurssi ega kreeninurka. Staatiline stabiilsus on õhusõiduki kalduvus tekitada häirituse järel iseeneslikult taastav moment tagasi oma trimmitud asendi poole, ning tavapärase sabaga konstruktsiooni puhul sõltub see raskuskeskme asetsemisest ees pool õhusõiduki neutraalpunkti, mistõttu saba tõstejõud saab tekitada nina-alla suunatud korrigeeriva momendi iga kord, kui nina tõuseb üles; raskuskeskme nihutamine tahapoole vähendab või kõrvaldab selle varu ning võib muuta õhusõiduki staatiliselt ebastabiilseks, samas kui väga suur varu teeb õhusõiduki küll stabiilseks, kuid loiuks ja piloodi enda juhtimiskäskudele vastupanevaks, mistõttu väga manööverdusvõimelised õhusõidukid on sageli projekteeritud vähendatud või isegi negatiivse staatilise stabiilsusega.",
+    "sourceHash": "f81d8ffddf1ef7a3",
+    "stale": false
+  },
+  "prerequisites": [
+    "aerodynamics-fundamentals"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "flight-dynamics-and-stability-m3",
+  "conceptId": "flight-dynamics-and-stability",
+  "text": {
+    "en": "Believing the center of gravity must sit exactly at the center of pressure (or neutral point) for an aircraft to fly in stable, controlled flight -- a conventional tail-aft design actually needs the center of gravity forward of the neutral point specifically so the tail can generate a nose-down restoring moment whenever the nose pitches up; if the center of gravity coincided exactly with the neutral point the aircraft would have only neutral static stability (no restoring tendency at all), and if it moved aft of the neutral point the aircraft would become statically unstable.",
+    "et": "Arvamus, et raskuskese peab asetsema täpselt rõhukeskmes (või neutraalpunktis), et õhusõiduk saaks lennata stabiilses, juhitavas lennus -- tavapärane sabaga konstruktsioon vajab tegelikult raskuskeset neutraalpunktist eespool just selleks, et saba saaks tekitada nina-alla suunatud taastava momendi iga kord, kui nina tõuseb üles; kui raskuskese langeks täpselt kokku neutraalpunktiga, oleks õhusõidukil ainult neutraalne staatiline stabiilsus (taastavat kalduvust üldse ei oleks), ning kui see nihkuks neutraalpunktist tahapoole, muutuks õhusõiduk staatiliselt ebastabiilseks.",
+    "sourceHash": "2cb73d70255527aa",
+    "stale": false
+  }
+}
