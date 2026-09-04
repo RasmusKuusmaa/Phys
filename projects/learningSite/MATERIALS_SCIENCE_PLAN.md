@@ -42,20 +42,46 @@ git log --oneline | grep '^content: add '   # concepts already landed
       amorphous-solids-and-liquid-crystals concept describes what
       crystalline materials are NOT, without ever covering crystallinity
       itself)
-- [ ] Point defects and dislocations in crystals (vacancies,
+- [x] Point defects and dislocations in crystals (vacancies,
       interstitials, edge/screw dislocations — the atomic-scale origin of
       real materials' mechanical behavior, distinct from the existing
       continuum-level mechanical-deformation-elasticity-and-plasticity
       concept)
-- [ ] Phase diagrams and binary alloy systems (eutectic, peritectic
+- [x] Phase diagrams and binary alloy systems (eutectic, peritectic
       systems — standard materials-engineering content, entirely absent)
-- [ ] Diffusion in solids (Fick's laws applied specifically to solid-state
+- [x] Diffusion in solids (Fick's laws applied specifically to solid-state
       atomic diffusion — distinct from the physics module's general
       diffusion/random-walk treatment, which this subject cannot reference
       as a cross-subject prerequisite anyway)
-- [ ] Fracture, fatigue, and creep (the standard failure-mechanism trio
+- [x] Fracture, fatigue, and creep (the standard failure-mechanism trio
       every materials course covers — entirely absent from the existing
       mechanical-deformation concept, which stops at elastic/plastic
       deformation)
+
+Phase MS1 complete: 12 materials-science concepts (5 new foundational
+concepts on top of the thin 7-concept baseline).
+
+## Phase MS2 — remaining foundational gaps
+
+Surveyed the module for further genuine bachelor-level absences before
+considering any graduate content.
+
+- [ ] Electronic, magnetic, and optical properties of materials (framed
+      materials-science-style: property-selection and design tradeoffs
+      across metals/ceramics/polymers/semiconductors, distinct from the
+      physics module's band-theory/semiconductor-physics derivations,
+      which cannot be referenced as cross-subject prerequisites)
+- [ ] Corrosion and material degradation (an entire standard topic
+      currently absent from this subject; chemistry's
+      metal-corrosion-and-the-electrochemical-series concept covers the
+      electrochemistry but not the materials-selection/protection
+      engineering angle, and cannot be a cross-subject prerequisite anyway)
+- [ ] Materials selection and design (Ashby-chart-style property-tradeoff
+      reasoning — ties together strength, weight, cost, and other
+      properties across material classes for a specific application)
+- [ ] Nanomaterials (size-dependent property changes at the nanoscale —
+      distinct from the existing quantum-confinement content in physics,
+      which is about electronic structure, not materials engineering, and
+      cannot be a cross-subject prerequisite)
 
 ---
