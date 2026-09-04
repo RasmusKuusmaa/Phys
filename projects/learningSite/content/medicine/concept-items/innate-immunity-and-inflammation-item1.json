@@ -1,0 +1,56 @@
+{
+  "id": "innate-immunity-and-inflammation-item1",
+  "conceptId": "innate-immunity-and-inflammation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the innate immune system respond just as quickly and strongly the fiftieth time it encounters a particular bacterium as it did the first time, unlike the adaptive immune system?",
+    "et": "Miks reageerib kaasasündinud immuunsüsteem konkreetse bakteriga kokku puutudes viiekümnendal korral sama kiiresti ja tugevalt kui esimesel korral, erinevalt omandatud immuunsüsteemist?",
+    "sourceHash": "c870bf70704a7513",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because innate immunity uses pattern-recognition receptors that detect broad molecular signatures shared by many pathogens, and has no memory mechanism that changes its response based on prior encounters.",
+        "et": "Sest kaasasündinud immuunsus kasutab mustri-äratundmise retseptoreid, mis tuvastavad paljudele patogeenidele ühiseid laiu molekulaarseid signatuure, ning sellel puudub mälumehhanism, mis muudaks vastust varasemate kokkupuudete põhjal.",
+        "sourceHash": "4e9776e27d4f4fb8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because innate immunity is a simpler backup system that only activates when the stronger adaptive immune system has already failed to respond.",
+        "et": "Sest kaasasündinud immuunsus on lihtsam varusüsteem, mis aktiveerub alles siis, kui tugevam omandatud immuunsüsteem on juba reageerimast keeldunud.",
+        "sourceHash": "07e8a6a44b393b21",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "innate-immunity-and-inflammation-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because a healthy diet and supplements keep the innate immune system's strength constant regardless of how many times it encounters the same pathogen.",
+        "et": "Sest tervislik toitumine ja toidulisandid hoiavad kaasasündinud immuunsüsteemi tugevuse ühtlasena, olenemata sellest, mitu korda see sama patogeeniga kokku puutub.",
+        "sourceHash": "c20a424fe26d481c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "innate-immunity-and-inflammation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the inflammatory response it triggers causes cumulative tissue damage that resets its baseline reaction each time, appearing identical only coincidentally.",
+        "et": "Sest selle käivitatav põletikureaktsioon põhjustab kumulatiivset koekahjustust, mis lähtestab iga kord selle algreaktsiooni, tundudes identsena vaid juhuslikult.",
+        "sourceHash": "42982cd3a5602a7a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "innate-immunity-and-inflammation-m2"
+    }
+  ]
+}

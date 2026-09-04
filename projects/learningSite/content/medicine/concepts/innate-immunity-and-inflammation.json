@@ -1,0 +1,19 @@
+{
+  "id": "innate-immunity-and-inflammation",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "immunology",
+  "title": {
+    "en": "Innate immunity and inflammation",
+    "et": "Kaasasündinud immuunsus ja põletik",
+    "sourceHash": "4d8620b179f937cf",
+    "stale": false
+  },
+  "summary": {
+    "en": "The innate immune system is the body's first line of defense, immediately available at birth without needing to have encountered a specific threat before, and works through a combination of physical/chemical barriers (skin, mucus, stomach acid), cellular defenders (neutrophils and macrophages that engulf and destroy microbes through phagocytosis), and the complement system (a cascade of blood proteins that can directly punch holes in microbial membranes or tag microbes for destruction). When innate defenses detect a threat -- through pattern-recognition receptors that recognize broad molecular signatures common to many pathogens rather than one specific antigen -- they trigger the acute inflammatory response: local blood vessels dilate and become more permeable, immune cells and fluid flood into the affected tissue, producing the classic signs of redness, heat, swelling, and pain, all of which serve the mechanistic purpose of delivering more defenders to the site and physically diluting and flushing out harmful substances. Unlike the adaptive immune system covered elsewhere, innate immunity has no memory -- it responds identically and immediately to a pathogen whether it's the first or the fiftieth encounter -- which is exactly what makes it fast enough to matter in the hours before adaptive immunity can mount a targeted response.",
+    "et": "Kaasasündinud immuunsüsteem on organismi esimene kaitseliin, mis on kohe sünnist saati olemas, ilma et see peaks konkreetse ohuga varem kokku puutunud olema, ning toimib füüsikaliste ja keemiliste barjääride (nahk, lima, maohape), rakuliste kaitsjate (neutrofiilid ja makrofaagid, mis neelavad ja hävitavad mikroobe fagotsütoosi teel) ja komplemendisüsteemi (vereplasma valkude kaskaad, mis võib otse mikroobide membraane läbi torgata või mikroobe hävitamiseks märgistada) kombinatsiooni kaudu. Kui kaasasündinud kaitsemehhanismid tuvastavad ohu -- mustri-äratundmise retseptorite kaudu, mis tunnevad ära paljudele patogeenidele ühised laiad molekulaarsed signatuurid, mitte ühe kindla antigeeni --, käivitavad need ägeda põletikureaktsiooni: kohalikud veresooned laienevad ja muutuvad läbilaskvamaks, immuunrakud ja vedelik voolavad kahjustatud koesse, tekitades klassikalised tunnused -- punetus, kuumus, turse ja valu --, mis kõik teenivad mehhanistlikku eesmärki tuua kohale rohkem kaitsjaid ja füüsiliselt lahjendada ning välja uhtuda kahjulikke aineid. Erinevalt mujal käsitletud omandatud immuunsusest ei ole kaasasündinud immuunsusel mälu -- see reageerib identselt ja koheselt patogeenile, olgu tegu esimese või viiekümnenda kokkupuutega --, mis teebki selle piisavalt kiireks, et olla oluline tundidel enne, kui omandatud immuunsus suudab sihitud vastuse käivitada.",
+    "sourceHash": "2a61f492155081e3",
+    "stale": false
+  },
+  "prerequisites": []
+}
