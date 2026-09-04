@@ -1,0 +1,10 @@
+{
+  "id": "nanomaterials-m1",
+  "conceptId": "nanomaterials",
+  "text": {
+    "en": "Believing a nanoscale version of a material is simply a smaller, miniaturized version of the bulk material with identical properties -- shrinking a structure to nanometer dimensions genuinely changes the physical behavior itself: the surface-area-to-volume ratio grows dramatically, so a much larger fraction of atoms sit at or near the surface where bonding differs from the interior, shifting chemical reactivity, melting point, and mechanical strength well outside the bulk material's range, so nanoscale and bulk forms of the same substance are genuinely different engineering materials.",
+    "et": "Arvamus, et materjali nanomõõtmeline versioon on lihtsalt massmaterjali väiksem, miniatuurne versioon identsete omadustega -- struktuuri kahandamine nanomeetri mõõtmeteni muudab tõeliselt füüsikalist käitumist ennast: pindala-mahu suhe kasvab dramaatiliselt, nii et palju suurem osa aatomitest asub pinnal või selle lähedal, kus sidumine erineb sisemusest, nihutades keemilist reaktsioonivõimet, sulamispunkti ja mehaanilist tugevust kaugele väljapoole massmaterjali vahemikku, seega on sama aine nanomõõtmeline ja massvorm tõeliselt erinevad inseneriteaduslikud materjalid.",
+    "sourceHash": "1ed60806eaa0fe3f",
+    "stale": false
+  }
+}

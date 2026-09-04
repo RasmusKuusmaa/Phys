@@ -1,0 +1,22 @@
+{
+  "id": "nanomaterials",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Nanomaterials",
+    "et": "Nanomaterjalid",
+    "sourceHash": "b1d100cd14d63c94",
+    "stale": false
+  },
+  "summary": {
+    "en": "A material's properties at the nanoscale are not simply a smaller-scale continuation of its bulk properties, since shrinking a structure down to nanometer dimensions genuinely changes the physical behavior itself rather than just its size -- as a particle shrinks, its surface-area-to-volume ratio grows dramatically, so that a far larger fraction of its atoms sit at or near the surface where bonding is different from the interior, which alone can shift chemical reactivity, melting point, and mechanical strength well outside the range the bulk material shows, and additional size-dependent effects (grain-boundary density affecting strength, for instance) further separate nanoscale behavior from bulk behavior, so a material engineered at the nanoscale is genuinely a different engineering material from the same substance in bulk form, not a miniaturized version of the same thing with identical properties simply scaled down.",
+    "et": "Materjali omadused nanomõõtmes ei ole lihtsalt selle massomaduste väiksema mõõtkava jätk, kuna struktuuri kahandamine nanomeetri mõõtmeteni muudab tõeliselt füüsikalist käitumist ennast, mitte lihtsalt selle suurust -- osakese kahanedes kasvab selle pindala-mahu suhe dramaatiliselt, nii et palju suurem osa selle aatomitest asub pinnal või selle lähedal, kus sidumine erineb sisemusest, mis üksinda võib nihutada keemilist reaktsioonivõimet, sulamispunkti ja mehaanilist tugevust kaugele väljapoole vahemikku, mida massmaterjal näitab, ning täiendavad suurusest sõltuvad efektid (näiteks teraalapiiride tihedus, mis mõjutab tugevust) eraldavad nanomõõtme käitumise veelgi rohkem massmaterjali käitumisest, seega on nanomõõtmes projekteeritud materjal tõeliselt erinev inseneriteaduslik materjal samast ainest massvormis, mitte sama asja miniatuurne versioon identsete omadustega, mis on lihtsalt vähendatud.",
+    "sourceHash": "ad5620cc39e227ff",
+    "stale": false
+  },
+  "prerequisites": [
+    "crystal-structure-and-crystallography",
+    "point-defects-and-dislocations-in-crystals"
+  ]
+}

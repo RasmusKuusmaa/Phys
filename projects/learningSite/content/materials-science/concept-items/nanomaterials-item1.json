@@ -1,0 +1,56 @@
+{
+  "id": "nanomaterials-item1",
+  "conceptId": "nanomaterials",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A nanoparticle form of a metal shows a significantly different melting point and chemical reactivity than the same metal in bulk form. What best explains this?",
+    "et": "Metalli nanoosakeste vorm näitab oluliselt erinevat sulamispunkti ja keemilist reaktsioonivõimet kui sama metall massvormis. Mis seda kõige paremini seletab?",
+    "sourceHash": "150841b999f712fe",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "At the nanoscale, a much larger fraction of atoms sit at or near the surface where bonding differs from the interior, genuinely changing physical and chemical behavior rather than just shrinking the same behavior.",
+        "et": "Nanomõõtmes asub palju suurem osa aatomitest pinnal või selle lähedal, kus sidumine erineb sisemusest, muutes tõeliselt füüsikalist ja keemilist käitumist, mitte ainult kahandades sama käitumist.",
+        "sourceHash": "4d8d0ed7747f53d0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This must be a measurement error, since a nanoscale version of a material should have identical properties to its bulk form, just at a smaller size.",
+        "et": "See peab olema mõõtmisviga, kuna materjali nanomõõtmeline versioon peaks omama identseid omadusi oma massvormiga, lihtsalt väiksemas suuruses.",
+        "sourceHash": "a2a2520a4b3a6dd3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nanomaterials-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This effect is only relevant to specialized nanotechnology research and has no bearing on macroscopic engineering products.",
+        "et": "See efekt on oluline ainult spetsialiseeritud nanotehnoloogia uuringutele ja ei mõjuta makroskoopilisi inseneriteaduslikke tooteid.",
+        "sourceHash": "751002d9048b25e5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nanomaterials-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Surface-area-to-volume ratio is the only possible mechanism that could explain any size-dependent property difference at the nanoscale.",
+        "et": "Pindala-mahu suhe on ainus võimalik mehhanism, mis võiks seletada mistahes suurusest sõltuvat omaduse erinevust nanomõõtmes.",
+        "sourceHash": "67f53f969f6a8099",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nanomaterials-m3"
+    }
+  ]
+}

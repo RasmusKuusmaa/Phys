@@ -1,0 +1,10 @@
+{
+  "id": "nanomaterials-m3",
+  "conceptId": "nanomaterials",
+  "text": {
+    "en": "Believing the increased surface-area-to-volume ratio is the only mechanism by which nanoscale materials differ from their bulk counterparts -- while surface effects are a major contributor, other genuinely distinct size-dependent mechanisms also operate at the nanoscale, such as grain-boundary density dramatically affecting mechanical strength (as grain size shrinks toward the nanoscale) and quantum confinement effects altering electronic and optical behavior in sufficiently small nanostructures, so nanoscale behavior differs from bulk behavior through multiple distinct physical mechanisms, not a single cause.",
+    "et": "Arvamus, et suurenenud pindala-mahu suhe on ainus mehhanism, mille kaudu nanomõõtmelised materjalid erinevad oma massmaterjali vastetest -- kuigi pinnaefektid on oluline panustaja, toimivad nanomõõtmes ka teised tõeliselt eristuvad suurusest sõltuvad mehhanismid, näiteks teraalapiiride tihedus, mis mõjutab dramaatiliselt mehaanilist tugevust (kui teraviisuurus kahaneb nanomõõtme suunas), ja kvantpiiramise efektid, mis muudavad elektrilist ja optilist käitumist piisavalt väikestes nanostruktuurides, seega erineb nanomõõtme käitumine massmaterjali käitumisest mitme eristuva füüsikalise mehhanismi kaudu, mitte ühe põhjuse kaudu.",
+    "sourceHash": "885af39f8a3c36bf",
+    "stale": false
+  }
+}
