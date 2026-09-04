@@ -1,0 +1,10 @@
+{
+  "id": "point-defects-and-dislocations-in-crystals-m3",
+  "conceptId": "point-defects-and-dislocations-in-crystals",
+  "text": {
+    "en": "Believing point defects (vacancies, interstitials) and dislocations are simply two different names for the same kind of crystal imperfection, differing only in scale -- these are genuinely distinct categories of defect with different dimensionality and different physical consequences: a point defect is a localized, essentially zero-dimensional imperfection at a single lattice site (a missing or extra atom), while a dislocation is a one-dimensional line defect extending through the crystal, characterized by a specific severe local misalignment along its entire length; point defects primarily affect diffusion and equilibrium thermodynamic properties, while dislocations are specifically what enables low-stress plastic deformation, two genuinely different physical roles.",
+    "et": "Arvamus, et punktdefektid (vabad kohad, interstitsiaalid) ja dislokatsioonid on lihtsalt kaks erinevat nime samale kristalli ebatäiuslikkuse liigile, erinedes ainult mõõtkava poolest -- need on tõeliselt eristuvad defektide kategooriad erineva mõõtmelisuse ja erinevate füüsikaliste tagajärgedega: punktdefekt on lokaliseeritud, sisuliselt nullmõõtmeline ebatäiuslikkus ühel võrekohal (puuduv või lisaaatom), samal ajal kui dislokatsioon on ühemõõtmeline joondefekt, mis ulatub läbi kristalli, iseloomustatud spetsiifilise tõsise kohaliku ebaühtlusega kogu selle pikkuses; punktdefektid mõjutavad peamiselt difusiooni ja tasakaalulisi termodünaamilisi omadusi, samal ajal kui dislokatsioonid on spetsiifiliselt see, mis võimaldab madala pingega plastilist deformatsiooni, kaks tõeliselt erinevat füüsikalist rolli.",
+    "sourceHash": "9bc69c1b7e4af7bc",
+    "stale": false
+  }
+}

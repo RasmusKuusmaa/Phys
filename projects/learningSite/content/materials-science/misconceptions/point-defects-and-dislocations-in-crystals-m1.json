@@ -1,0 +1,10 @@
+{
+  "id": "point-defects-and-dislocations-in-crystals-m1",
+  "conceptId": "point-defects-and-dislocations-in-crystals",
+  "text": {
+    "en": "Believing point defects like vacancies are always undesirable flaws that a sufficiently careful manufacturing process could eliminate entirely, driving their concentration to zero -- vacancies exist at a genuine thermodynamic equilibrium concentration that actually increases with temperature, because distributing even a small number of vacancies randomly among an enormous number of possible lattice sites increases the crystal's entropy by more than the energy cost of creating those vacancies, making some nonzero vacancy concentration the true lowest-free-energy state at any temperature above absolute zero, not a correctable manufacturing imperfection.",
+    "et": "Arvamus, et punktdefektid nagu vabad kohad on alati soovimatud vead, mida piisavalt hoolikas tootmisprotsess võiks täielikult kõrvaldada, viies nende kontsentratsiooni nullini -- vabad kohad eksisteerivad tõelisel termodünaamilisel tasakaalukontsentratsioonil, mis tegelikult tõuseb temperatuuriga, kuna isegi väikese arvu vabade kohtade juhuslik jaotamine tohutu arvu võimalike võrekohtade vahel suurendab kristalli entroopiat rohkem kui nende vabade kohtade loomise energiakulu, mis muudab mõne nullist erineva vaba koha kontsentratsiooni tõeliseks madalaima vabaenergiaga olekuks mistahes temperatuuril üle absoluutse nulli, mitte parandatavaks tootmisveaks.",
+    "sourceHash": "f680d338c79155e6",
+    "stale": false
+  }
+}

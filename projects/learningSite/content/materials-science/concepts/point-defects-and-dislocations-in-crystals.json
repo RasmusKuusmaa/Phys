@@ -1,0 +1,22 @@
+{
+  "id": "point-defects-and-dislocations-in-crystals",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Point defects and dislocations in crystals",
+    "et": "Punktdefektid ja dislokatsioonid kristallides",
+    "sourceHash": "393d636e93840777",
+    "stale": false
+  },
+  "summary": {
+    "en": "No real crystal is a perfect, defect-free repetition of its unit cell all the way through; it always contains a population of point defects -- vacancies where an atom is simply missing from its expected lattice site, and interstitials where an extra atom is squeezed into a normally unoccupied gap between lattice sites -- whose equilibrium concentration actually increases with temperature because the entropy gained by distributing a few defects randomly throughout an enormous number of possible sites outweighs the modest energy cost of creating each one, while a completely different kind of defect, the dislocation, is a one-dimensional line of severe local misalignment running through the crystal, and it is specifically the ability of these dislocation lines to glide through the crystal lattice, breaking and re-forming just one row of bonds at a time along their motion rather than requiring an entire crystal plane to slide past another all at once, that explains why real metals actually deform plastically at stresses many orders of magnitude below the far higher stress a perfect, dislocation-free crystal would require.",
+    "et": "Ühelgi reaalsel kristallil ei ole täiuslikku, defektideta oma elementaarraku kordust kogu ulatuses; see sisaldab alati punktdefektide populatsiooni -- vabu kohti, kus aatom lihtsalt puudub oma oodatavast võrekohast, ja interstitsiaale, kus lisaaatom on pigistatud tavaliselt hõivamata pilusse võrekohtade vahel -- mille tasakaalukontsentratsioon tegelikult tõuseb temperatuuriga, kuna entroopia, mis saadakse mõne defekti juhuslikust jaotamisest tohutu arvu võimalike kohtade vahel, kaalub üles iga defekti loomise tagasihoidliku energiakulu, samal ajal kui täiesti erinevat liiki defekt, dislokatsioon, on ühemõõtmeline tõsise kohaliku ebaühtluse joon, mis kulgeb läbi kristalli, ning just nende dislokatsioonijoonte võime libiseda läbi kristallvõre, katkestades ja taasmoodustades ainult ühe rea sidemeid korraga piki oma liikumist, selle asemel et nõuda kogu kristallitasandi korraga teisest möödalibisemist, seletab, miks reaalsed metallid tegelikult deformeeruvad plastiliselt pingetel, mis on paljude suurusjärkude võrra madalamad palju kõrgemast pingest, mida nõuaks täiuslik, dislokatsioonideta kristall.",
+    "sourceHash": "27a7a687bbd35bc2",
+    "stale": false
+  },
+  "prerequisites": [
+    "crystal-structure-and-crystallography",
+    "mechanical-deformation-elasticity-and-plasticity"
+  ]
+}

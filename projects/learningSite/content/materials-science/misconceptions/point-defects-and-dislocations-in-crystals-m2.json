@@ -1,0 +1,10 @@
+{
+  "id": "point-defects-and-dislocations-in-crystals-m2",
+  "conceptId": "point-defects-and-dislocations-in-crystals",
+  "text": {
+    "en": "Believing plastic deformation in a real crystal requires an entire plane of atoms to slide past the adjacent plane all at once, breaking every bond across that plane simultaneously -- this is specifically what would be required in a perfect, dislocation-free crystal, and the stress needed to do so is many orders of magnitude higher than what real metals are actually observed to yield at; real plastic deformation instead proceeds through the motion of dislocations, one-dimensional line defects that let just one row of bonds break and re-form at a time as the dislocation glides through the lattice, requiring dramatically less stress than moving an entire plane at once would.",
+    "et": "Arvamus, et plastiline deformatsioon reaalses kristallis nõuab, et terve aatomite tasand libiseks korraga mööda kõrvalasuvast tasandist, katkestades kõik selle tasandi sidemed samaaegselt -- see on spetsiifiliselt see, mida nõuaks täiuslik, dislokatsioonideta kristall, ning selleks vajalik pinge on mitme suurusjärgu võrra kõrgem kui pinge, mille juures reaalsed metallid tegelikult vaadeldult voolama hakkavad; reaalne plastiline deformatsioon kulgeb selle asemel dislokatsioonide liikumise kaudu, ühemõõtmeliste joondefektide kaudu, mis lubavad ainult ühel real sidemetel korraga katkeda ja taasmoodustuda, kui dislokatsioon võre kaudu libiseb, nõudes dramaatiliselt vähem pinget kui terve tasandi korraga liigutamine nõuaks.",
+    "sourceHash": "e7ab9bbd101a8846",
+    "stale": false
+  }
+}

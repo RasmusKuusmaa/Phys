@@ -1,0 +1,56 @@
+{
+  "id": "point-defects-and-dislocations-in-crystals-item1",
+  "conceptId": "point-defects-and-dislocations-in-crystals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Real metals plastically deform at stresses many orders of magnitude below the theoretical strength calculated for a perfect, defect-free crystal. What explains this large discrepancy?",
+    "et": "Reaalsed metallid deformeeruvad plastiliselt pingetel, mis on mitme suurusjärgu võrra madalamad kui täiusliku, defektideta kristalli jaoks arvutatud teoreetiline tugevus. Mis seletab seda suurt lahknevust?",
+    "sourceHash": "469f09b3a9046442",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Dislocations let just one row of bonds break and re-form at a time as they glide through the lattice, requiring far less stress than moving an entire crystal plane past another at once.",
+        "et": "Dislokatsioonid lubavad ainult ühel real sidemetel korraga katkeda ja taasmoodustuda, kui need libisevad läbi võre, nõudes palju vähem pinget kui terve kristallitasandi korraga teisest möödaliigutamine.",
+        "sourceHash": "e5de9242fd4eb094",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Vacancies alone are entirely responsible for plastic deformation, since a sufficiently careful manufacturing process could otherwise eliminate all defects and reach the full theoretical strength.",
+        "et": "Vabad kohad üksi vastutavad täielikult plastilise deformatsiooni eest, kuna piisavalt hoolikas tootmisprotsess võiks muidu kõik defektid kõrvaldada ja saavutada täieliku teoreetilise tugevuse.",
+        "sourceHash": "0a1163b92b324580",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "point-defects-and-dislocations-in-crystals-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Real crystals actually do deform by sliding entire planes past each other at once, and the theoretical strength calculation for a perfect crystal must simply be in error.",
+        "et": "Reaalsed kristallid tegelikult deformeeruvadki, libistades terveid tasandeid korraga mööda üksteisest, ning täiusliku kristalli teoreetilise tugevuse arvutus peab lihtsalt olema ekslik.",
+        "sourceHash": "6fe435822b557be9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "point-defects-and-dislocations-in-crystals-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Point defects and dislocations are the same kind of imperfection, so whichever one is present contributes equally and interchangeably to this stress reduction.",
+        "et": "Punktdefektid ja dislokatsioonid on sama liiki ebatäiuslikkus, seega panustab ükskõik kumb kohalolev võrdselt ja vahetatavalt sellesse pinge vähenemisse.",
+        "sourceHash": "271751fcdb9f52f0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "point-defects-and-dislocations-in-crystals-m3"
+    }
+  ]
+}
