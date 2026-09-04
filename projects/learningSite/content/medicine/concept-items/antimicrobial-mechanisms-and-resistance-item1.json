@@ -1,0 +1,56 @@
+{
+  "id": "antimicrobial-mechanisms-and-resistance-item1",
+  "conceptId": "antimicrobial-mechanisms-and-resistance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient recovers from an infection caused by antibiotic-resistant bacteria. Which statement correctly describes what happens to that antibiotic's future effectiveness?",
+    "et": "Patsient paraneb antibiootikumiresistentsete bakterite põhjustatud infektsioonist. Milline väide kirjeldab õigesti, mis juhtub selle antibiootikumi tulevase tõhususega?",
+    "sourceHash": "ec30c98ade76cdb7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The antibiotic can still work perfectly well against a different, non-resistant bacterial infection in the same patient later -- resistance is a property of the specific bacteria involved, not something that develops in the patient's own body.",
+        "et": "Antibiootikum võib hiljem sama patsiendi teistsuguse, mitteresistentse bakteriaalse infektsiooni vastu endiselt suurepäraselt toimida -- resistentsus on konkreetsete asjaosaliste bakterite, mitte patsiendi enda keha omadus.",
+        "sourceHash": "fa1c0b4fd60d4bf1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The patient's body has now become resistant to that antibiotic, so it is unlikely to work if the patient develops a different bacterial infection in the future.",
+        "et": "Patsiendi keha on nüüd selle antibiootikumi suhtes resistentseks muutunud, mistõttu on ebatõenäoline, et see toimiks, kui patsiendil tekib tulevikus teistsugune bakteriaalne infektsioon.",
+        "sourceHash": "0d4e4b743a53b9e5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "antimicrobial-mechanisms-and-resistance-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It depends on whether the original infection was viral or bacterial -- if any viral component was present, the antibiotic's future effectiveness against viruses specifically would also be reduced.",
+        "et": "See sõltub sellest, kas algne infektsioon oli viiruslik või bakteriaalne -- kui esines mistahes viiruslik komponent, väheneks ka antibiootikumi tulevane tõhusus spetsiifiliselt viiruste vastu.",
+        "sourceHash": "3217e8741195136f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "antimicrobial-mechanisms-and-resistance-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The resistance can only ever affect that same bacterial lineage's direct descendants, so other bacterial species in or on the patient's body remain completely unaffected regardless of what happens next.",
+        "et": "Resistentsus saab mõjutada ainult sama bakteriliini otseseid järglasi, mistõttu teised patsiendi kehas või kehal olevad bakteriliigid jäävad täiesti mõjutamata, ükskõik mis edasi juhtub.",
+        "sourceHash": "88eed1a3da5504c6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "antimicrobial-mechanisms-and-resistance-m3"
+    }
+  ]
+}

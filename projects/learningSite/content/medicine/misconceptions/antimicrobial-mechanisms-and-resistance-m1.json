@@ -1,0 +1,10 @@
+{
+  "id": "antimicrobial-mechanisms-and-resistance-m1",
+  "conceptId": "antimicrobial-mechanisms-and-resistance",
+  "text": {
+    "en": "Antibiotic resistance means a person's own body becomes resistant to the antibiotic, so the same drug won't work on them again for other future infections -- in reality, antibiotic resistance is a property of the bacteria, not the patient's body: a resistant bacterium has evolved a specific mechanism (drug-destroying enzyme, altered target, efflux pump, reduced uptake) that lets it survive the drug; a patient who recovers from an infection caused by resistant bacteria is not personally 'resistant' afterward, and the same antibiotic can still work perfectly well against a different, non-resistant infection in the same person later.",
+    "et": "Antibiootikumiresistentsus tähendab, et inimese enda keha muutub antibiootikumi suhtes resistentseks, mistõttu sama ravim ei toimi tal enam tulevaste teiste infektsioonide korral -- tegelikult on antibiootikumiresistentsus bakteri, mitte patsiendi keha omadus: resistentne bakter on arendanud spetsiifilise mehhanismi (ravimit lagundav ensüüm, muudetud sihtmärk, efluksipump, vähenenud omastamine), mis lubab tal ravimist üle elada; patsient, kes paraneb resistentsete bakterite põhjustatud infektsioonist, ei ole hiljem isiklikult 'resistentne', ning sama antibiootikum võib hiljem sama inimese teistsuguse, mitteresistentse infektsiooni vastu endiselt suurepäraselt toimida.",
+    "sourceHash": "9c6466ad82e1a243",
+    "stale": false
+  }
+}

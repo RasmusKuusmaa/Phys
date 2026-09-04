@@ -1,0 +1,10 @@
+{
+  "id": "antimicrobial-mechanisms-and-resistance-m2",
+  "conceptId": "antimicrobial-mechanisms-and-resistance",
+  "text": {
+    "en": "Antibiotics work against viral infections too, just less effectively than against bacterial infections, so taking them for a cold or flu can still help a little -- in reality, antibiotics target specifically bacterial structures and processes (cell wall synthesis, bacterial-type ribosomes) that simply don't exist in viruses, which have no cell wall and no independent ribosomes of their own at all; antibiotics have no direct effect on a viral infection whatsoever, and taking them unnecessarily for a viral illness like a cold or flu provides no benefit while still contributing to antibiotic resistance developing in the bacteria that happen to be present in and on the body.",
+    "et": "Antibiootikumid toimivad ka viirusnakkuste vastu, lihtsalt vähem tõhusalt kui bakteriaalsete nakkuste vastu, mistõttu nende võtmine külmetuse või gripi korral võib siiski veidi aidata -- tegelikult sihivad antibiootikumid spetsiifiliselt bakteriaalseid struktuure ja protsesse (rakuseina süntees, bakteri-tüüpi ribosoomid), mida viirustel lihtsalt pole, kuna neil pole rakuseina ega üldse iseseisvaid ribosoome; antibiootikumidel pole viirusnakkusele mingit otsest mõju ning nende ebavajalik võtmine sellise viirushaiguse nagu külmetus või gripp korral ei anna mingit kasu, kuid aitab siiski kaasa antibiootikumiresistentsuse arenemisele bakterites, mis juhtuvad kehas ja kehal olema.",
+    "sourceHash": "bef07de6e2a6ba48",
+    "stale": false
+  }
+}

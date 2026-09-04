@@ -1,0 +1,21 @@
+{
+  "id": "antimicrobial-mechanisms-and-resistance",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "microbiology",
+  "title": {
+    "en": "Antimicrobial mechanisms and resistance",
+    "et": "Antimikroobsete ravimite toimemehhanismid ja resistentsus",
+    "sourceHash": "41d64a88688a07da",
+    "stale": false
+  },
+  "summary": {
+    "en": "Antibiotics work by exploiting structural or biochemical differences between bacterial cells and human cells, targeting something the bacterium needs that a human cell either lacks entirely or uses in a different enough form that the drug leaves human cells alone: beta-lactam antibiotics (penicillins, cephalosporins) block the enzymes that build the bacterial peptidoglycan cell wall, causing the cell to rupture under its own internal pressure since human cells have no cell wall to disrupt in the first place; other classes target the bacterial ribosome, which is structurally different enough from the human ribosome that drugs like tetracyclines and macrolides can jam bacterial protein synthesis while leaving human protein synthesis largely untouched. Bacteria evolve resistance to any of these mechanisms through a small number of recurring strategies: producing an enzyme that chemically destroys the drug before it can act (like beta-lactamase enzymes that cleave penicillin's core ring structure), modifying the drug's target so it no longer binds effectively, actively pumping the drug back out of the cell faster than it can accumulate (efflux pumps), or reducing the cell's uptake of the drug in the first place. Because resistance genes are frequently carried on plasmids rather than the main bacterial chromosome, and plasmids can transfer directly between bacteria (even between different species) through conjugation, a resistance mechanism that evolves in one bacterial population can spread to an entirely different species far faster than it could through ordinary reproduction alone -- which is the central reason antibiotic resistance is treated as an urgent, rapidly evolving public health threat rather than a slow, generation-by-generation process.",
+    "et": "Antibiootikumid toimivad, kasutades ära struktuurseid või biokeemilisi erinevusi bakterirakkude ja inimrakkude vahel, sihtides midagi, mida bakter vajab, kuid mida inimrakk kas täielikult puudub või kasutab piisavalt erineval kujul, et ravim jätaks inimrakud puutumata: beeta-laktaam-antibiootikumid (penitsilliinid, tsefalosporiinid) blokeerivad ensüüme, mis ehitavad bakteri peptidoglükaanist rakuseina, põhjustades raku purunemise oma sisemise rõhu all, kuna inimrakkudel pole algusest peale rakuseina, mida häirida; teised klassid sihivad bakteri ribosoomi, mis on inimese ribosoomist piisavalt struktuurselt erinev, et sellised ravimid nagu tetratsükliinid ja makroliidid saavad blokeerida bakteri valgusünteesi, jättes inimese valgusünteesi suuresti puutumata. Bakterid arendavad resistentsust nende mehhanismide vastu väikese hulga korduvate strateegiate kaudu: toota ensüüm, mis lagundab ravimi keemiliselt enne, kui see saab toimida (nagu beeta-laktamaasi ensüümid, mis lõikavad penitsilliini tuumstruktuuri), muuta ravimi sihtmärki nii, et see enam efektiivselt ei seondu, pumbata ravimit aktiivselt rakust välja kiiremini, kui see suudab koguneda (efluksipumbad), või vähendada raku ravimi omastamist juba algusest peale. Kuna resistentsusgeenid asuvad sageli plasmiididel, mitte bakteri põhikromosoomil, ning plasmiidid saavad üle kanduda otse bakterite vahel (isegi eri liikide vahel) konjugatsiooni teel, saab ühes bakteripopulatsioonis arenenud resistentsusmehhanism levida täiesti erinevale liigile palju kiiremini, kui see suudaks tavalise paljunemise kaudu üksi -- mis on peamine põhjus, miks antibiootikumiresistentsust käsitletakse kiireloomulise, kiirelt areneva rahvatervise ohuna, mitte aeglase, põlvkond-põlvkonna-järelt protsessina.",
+    "sourceHash": "30a53ce4ad56a8af",
+    "stale": false
+  },
+  "prerequisites": [
+    "bacterial-structure-and-classification"
+  ]
+}

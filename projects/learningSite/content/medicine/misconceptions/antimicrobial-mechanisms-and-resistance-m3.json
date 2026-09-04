@@ -1,0 +1,10 @@
+{
+  "id": "antimicrobial-mechanisms-and-resistance-m3",
+  "conceptId": "antimicrobial-mechanisms-and-resistance",
+  "text": {
+    "en": "Once a bacterium develops resistance to an antibiotic through mutation, that resistance can only spread to its own direct offspring, the same way most genetic traits do -- in reality, bacterial antibiotic resistance genes very often spread horizontally rather than only vertically: many resistance genes live on plasmids, small DNA elements that bacteria can transfer directly to other bacteria (via conjugation), including to entirely different bacterial species, which lets a resistance mechanism spread far faster and far more broadly than ordinary reproduction alone would allow.",
+    "et": "Kui bakter arendab mutatsiooni kaudu resistentsuse antibiootikumi suhtes, saab see resistentsus levida ainult tema enda otsestele järglastele, samamoodi nagu enamik geneetilisi tunnuseid -- tegelikult levivad bakteriaalse antibiootikumiresistentsuse geenid väga sageli horisontaalselt, mitte ainult vertikaalselt: paljud resistentsusgeenid asuvad plasmiididel, väikestel DNA elementidel, mida bakterid saavad otse teistele bakteritele üle kanda (konjugatsiooni teel), sealhulgas täiesti erinevatele bakteriliikidele, mis lubab resistentsusmehhanismil levida palju kiiremini ja palju laiemalt, kui tavaline paljunemine üksi võimaldaks.",
+    "sourceHash": "25c354eab296631e",
+    "stale": false
+  }
+}
