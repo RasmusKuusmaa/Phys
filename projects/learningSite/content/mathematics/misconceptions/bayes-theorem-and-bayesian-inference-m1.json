@@ -1,0 +1,10 @@
+{
+  "id": "bayes-theorem-and-bayesian-inference-m1",
+  "conceptId": "bayes-theorem-and-bayesian-inference",
+  "text": {
+    "en": "Believing the conditional probability of a hypothesis given some evidence and the conditional probability of that evidence given the hypothesis are the same number, or can be casually swapped -- these are, in general, very different quantities (this confusion is common enough to have its own name, the prosecutor's fallacy), and Bayes' theorem exists specifically to convert correctly between them, weighting the more easily measured quantity (evidence given hypothesis) by the hypothesis's prior probability and the evidence's overall probability to arrive at the genuinely different quantity actually wanted (hypothesis given evidence).",
+    "et": "Arvamus, et hüpoteesi tingimuslik tõenäosus antud mingite tõendite korral ja nende tõendite tingimuslik tõenäosus antud hüpoteesi korral on sama arv, või neid saab lihtsalt omavahel vahetada -- need on üldiselt väga erinevad suurused (see segadus on piisavalt levinud, et omada oma nime, prokuröri eksitus), ning Bayesi teoreem eksisteerib spetsiifiliselt selleks, et konverteerida nende vahel õigesti, kaaludes kergemini mõõdetavat suurust (tõend antud hüpoteesi korral) hüpoteesi eelneva tõenäosuse ja tõendi üldise tõenäosusega, et jõuda tegelikult soovitud, tõeliselt erineva suuruseni (hüpotees antud tõendi korral).",
+    "sourceHash": "cc178c1956e97f64",
+    "stale": false
+  }
+}

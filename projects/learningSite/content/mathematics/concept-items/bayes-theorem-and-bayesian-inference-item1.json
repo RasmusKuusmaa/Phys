@@ -1,0 +1,56 @@
+{
+  "id": "bayes-theorem-and-bayesian-inference-item1",
+  "conceptId": "bayes-theorem-and-bayesian-inference",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A rare disease affects 1 in 10,000 people. A test for it is 99% accurate (correctly identifies 99% of true positives and true negatives). A random person tests positive. Why isn't the probability they actually have the disease close to 99%?",
+    "et": "Haruldane haigus mõjutab 1 inimest 10 000-st. Selle test on 99% täpne (tuvastab õigesti 99% tõestest positiivsetest ja tõestest negatiivsetest). Juhuslik inimene testib positiivselt. Miks ei ole tõenäosus, et tal tegelikult on haigus, lähedal 99%-le?",
+    "sourceHash": "febfa73f94aa97fb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the disease's very low prior probability means false positives from the healthy majority vastly outnumber true positives, and Bayes' theorem correctly weights this into the actual answer.",
+        "et": "Kuna haiguse väga madal eelnev tõenäosus tähendab, et valepositiivsed terve enamuse hulgast ületavad arvult tõesed positiivsed tulemused, ning Bayesi teoreem kaalub selle õigesti tegeliku vastuse sisse.",
+        "sourceHash": "3d97d6e201936acc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It actually is close to 99%, since the test's 99% accuracy directly equals the probability of having the disease given a positive result.",
+        "et": "See ongi tegelikult lähedal 99%-le, kuna testi 99% täpsus võrdub otseselt haigestumise tõenäosusega antud positiivse tulemuse korral.",
+        "sourceHash": "f8dc25fbc5d9a8b8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bayes-theorem-and-bayesian-inference-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Frequentist and Bayesian methods simply always disagree on questions like this by design, so no single correct numerical answer actually exists.",
+        "et": "Sageduslikud ja Bayesi meetodid lihtsalt alati lahknevad selliste küsimuste puhul disaini poolest, seega ei eksisteeri tegelikult ühtki õiget numbrilist vastust.",
+        "sourceHash": "b46fc91dac04e293",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bayes-theorem-and-bayesian-inference-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Once this posterior probability is computed, it becomes a fixed, final fact about this person that no further testing could ever revise.",
+        "et": "Kord arvutatuna muutub see posterioorne tõenäosus fikseeritud, lõplikuks faktiks selle inimese kohta, mida ükski edasine testimine ei saaks kunagi muuta.",
+        "sourceHash": "12690f78c108f421",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bayes-theorem-and-bayesian-inference-m3"
+    }
+  ]
+}

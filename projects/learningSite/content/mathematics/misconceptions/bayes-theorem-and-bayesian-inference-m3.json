@@ -1,0 +1,10 @@
+{
+  "id": "bayes-theorem-and-bayesian-inference-m3",
+  "conceptId": "bayes-theorem-and-bayesian-inference",
+  "text": {
+    "en": "Believing a Bayesian posterior probability, once computed from a single piece of evidence and one starting prior, is a final, fixed answer that cannot be revisited -- Bayesian inference is explicitly designed to be applied repeatedly: a posterior computed after one piece of evidence becomes the prior for incorporating the next piece of evidence, letting belief update incrementally and consistently as more data arrives, so the framework is inherently sequential and cumulative rather than a single one-shot calculation that is done once and never revisited.",
+    "et": "Arvamus, et Bayesi posterioorne tõenäosus, kord arvutatud ühest tõendist ja ühest algsest eeldusest, on lõplik, fikseeritud vastus, mida ei saa uuesti läbi vaadata -- Bayesi järeldamine on selgelt kavandatud korduvaks rakendamiseks: posterioorsest tõenäosusest, mis on arvutatud pärast ühte tõendit, saab eeldus järgmise tõendi kaasamiseks, lubades uskumusel uueneda järkjärgult ja järjekindlalt, kui rohkem andmeid saabub, seega on raamistik olemuslikult järjestikune ja kumulatiivne, mitte üksik ühekordne arvutus, mis tehakse üks kord ja mida kunagi enam ei vaadata.",
+    "sourceHash": "05508413735d3826",
+    "stale": false
+  }
+}

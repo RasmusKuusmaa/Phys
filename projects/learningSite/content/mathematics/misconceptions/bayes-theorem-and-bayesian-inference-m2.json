@@ -1,0 +1,10 @@
+{
+  "id": "bayes-theorem-and-bayesian-inference-m2",
+  "conceptId": "bayes-theorem-and-bayesian-inference",
+  "text": {
+    "en": "Believing Bayesian inference and frequentist statistics are simply two different calculational recipes that should always produce the same final answer, differing only in computational convenience -- the two frameworks rest on genuinely different definitions of what probability itself means: frequentist methods define probability only as a long-run frequency over repeated trials and refuse, on principle, to assign a probability to a single fixed hypothesis, while Bayesian methods treat probability as a quantified degree of belief that can meaningfully be assigned to a hypothesis and updated as evidence arrives; this is a substantive philosophical difference that can lead the two frameworks to give different answers to the same question, not merely two paths to an identical result.",
+    "et": "Arvamus, et Bayesi järeldamine ja sageduslik statistika on lihtsalt kaks erinevat arvutusretsepti, mis peaksid alati andma sama lõpliku vastuse, erinedes ainult arvutusliku mugavuse poolest -- kaks raamistikku tuginevad tõeliselt erinevatele definitsioonidele selle kohta, mida tõenäosus ise tähendab: sageduslikud meetodid defineerivad tõenäosuse ainult pikaajalise sagedusena üle korduvate katsete ja keelduvad põhimõtteliselt omistamast tõenäosust üksikule fikseeritud hüpoteesile, samal ajal kui Bayesi meetodid käsitlevad tõenäosust kvantifitseeritud uskumuse astmena, mida saab mõttekalt omistada hüpoteesile ja uuendada tõendite saabudes; see on sisuline filosoofiline erinevus, mis võib panna kaks raamistikku andma erinevaid vastuseid samale küsimusele, mitte lihtsalt kaks teed identsele tulemusele.",
+    "sourceHash": "f8c980f892c0fe1f",
+    "stale": false
+  }
+}

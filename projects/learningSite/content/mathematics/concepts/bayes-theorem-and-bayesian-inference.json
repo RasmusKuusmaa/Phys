@@ -1,0 +1,22 @@
+{
+  "id": "bayes-theorem-and-bayesian-inference",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "probability-and-statistics",
+  "title": {
+    "en": "Bayes' theorem and Bayesian inference",
+    "et": "Bayesi teoreem ja Bayesi järeldamine",
+    "sourceHash": "f6fb2ad0f15f7422",
+    "stale": false
+  },
+  "summary": {
+    "en": "Bayes' theorem is a simple, exact identity relating two conditional probabilities that are, in general, very different numbers -- the probability of a hypothesis given some observed evidence, and the probability of that evidence given the hypothesis -- letting anyone who knows the second (often the easier one to compute or measure directly) and a starting prior belief about the hypothesis compute the first, and Bayesian inference builds an entire framework for reasoning under uncertainty on top of this one identity, treating probability itself as a quantified degree of belief that gets updated, evidence by evidence, from an explicit starting prior to a posterior belief, in sharp philosophical and practical contrast to the frequentist statistical methods (hypothesis tests, confidence intervals) that treat probability only as a long-run frequency and refuse to assign a probability to a fixed hypothesis at all.",
+    "et": "Bayesi teoreem on lihtne, täpne identsus, mis seob kaks tingimuslikku tõenäosust, mis on üldiselt väga erinevad arvud -- hüpoteesi tõenäosus antud mingite vaadeldud tõendite korral ja nende tõendite tõenäosus antud hüpoteesi korral -- lubades igaühel, kes teab teist (sageli see, mida on lihtsam otse arvutada või mõõta) ja algset eeldususkumust hüpoteesi kohta, arvutada esimese, ning Bayesi järeldamine ehitab sellele ühele identsusele terve raamistiku arutlemiseks ebakindluse tingimustes, käsitledes tõenäosust ennast kvantifitseeritud uskumuse astmena, mida uuendatakse, tõend tõendi haaval, selgest algsest eeldusest posterioorseks uskumuseks, teravas filosoofilises ja praktilises kontrastis sagedusliku statistika meetoditega (hüpoteesitestid, usaldusvahemikud), mis käsitlevad tõenäosust ainult pikaajalise sagedusena ja keelduvad üldse fikseeritud hüpoteesile tõenäosust omistamast.",
+    "sourceHash": "7b54b3729d6a964c",
+    "stale": false
+  },
+  "prerequisites": [
+    "probability",
+    "hypothesis-testing"
+  ]
+}
