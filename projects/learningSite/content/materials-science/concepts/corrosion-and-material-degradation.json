@@ -1,0 +1,22 @@
+{
+  "id": "corrosion-and-material-degradation",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Corrosion and material degradation",
+    "et": "Korrosioon ja materjali lagunemine",
+    "sourceHash": "ab8590f5591334bf",
+    "stale": false
+  },
+  "summary": {
+    "en": "Corrosion is not a single uniform process that all materials suffer from in the same way at the same rate; it is a family of distinct degradation mechanisms -- uniform surface attack, galvanic corrosion between dissimilar metals in electrical contact, pitting, crevice corrosion, stress-corrosion cracking, and more -- each with its own triggering conditions and its own targeted prevention strategy, so that the engineering task of protecting a real structure is one of correctly diagnosing which mechanism (or combination of mechanisms) actually threatens a given design and selecting a countermeasure matched to that specific mechanism, not applying one generic corrosion-resistant material or coating and assuming the problem is solved; a coating or alloy that successfully prevents uniform surface corrosion can do nothing against, or can even actively promote, a localized mechanism like pitting or galvanic attack if the underlying design brings dissimilar metals into contact or creates a crevice, which is exactly why real corrosion engineering is diagnostic and mechanism-specific rather than a one-size-fits-all material swap.",
+    "et": "Korrosioon ei ole üksik ühtne protsess, mille all kõik materjalid kannatavad samal viisil sama kiirusega; see on eristuvate lagunemismehhanismide perekond -- ühtlane pinnarünnak, galvaaniline korrosioon erinevate metallide vahel elektrikontaktis, süvenditekke (pitting), pilukorrosioon, pingekorrosioonpragunemine ja rohkem -- igaühel oma vallandavad tingimused ja oma sihitud ennetusstrateegia, nii et reaalse konstruktsiooni kaitsmise inseneriteaduslik ülesanne on õigesti diagnoosida, milline mehhanism (või mehhanismide kombinatsioon) tegelikult ohustab antud disaini, ja valida vastumeede, mis sobib täpselt selle mehhanismiga, mitte rakendada üht üldist korrosioonikindlat materjali või katet ja eeldada, et probleem on lahendatud; kate või sulam, mis edukalt takistab ühtlast pinnakorrosiooni, ei suuda midagi teha või võib isegi aktiivselt soodustada lokaliseeritud mehhanismi nagu süvenditekke või galvaaniline rünnak, kui aluseks olev disain toob kokku erinevad metallid või loob pilu, mis ongi täpselt põhjus, miks reaalne korrosiooniinseneeria on diagnostiline ja mehhanismispetsiifiline, mitte üks-suurus-sobib-kõigile materjalivahetus.",
+    "sourceHash": "d1c5ca70696df81f",
+    "stale": false
+  },
+  "prerequisites": [
+    "fracture-fatigue-and-creep",
+    "classes-of-materials"
+  ]
+}

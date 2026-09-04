@@ -1,0 +1,10 @@
+{
+  "id": "corrosion-and-material-degradation-m1",
+  "conceptId": "corrosion-and-material-degradation",
+  "text": {
+    "en": "Believing corrosion is a single uniform process that acts the same way, at the same rate, on every material and design, so that any general corrosion-resistant material or coating protects against corrosion as such -- corrosion is actually a family of distinct mechanisms (uniform attack, galvanic corrosion, pitting, crevice corrosion, stress-corrosion cracking) each with its own triggering conditions and its own targeted countermeasure, so protecting a real structure requires correctly diagnosing which specific mechanism threatens it, not applying one generic fix.",
+    "et": "Arvamus, et korrosioon on üksik ühtne protsess, mis toimib samal viisil, sama kiirusega, igal materjalil ja disainil, nii et iga üldine korrosioonikindel materjal või kate kaitseb korrosiooni kui sellise eest -- korrosioon on tegelikult eristuvate mehhanismide perekond (ühtlane rünnak, galvaaniline korrosioon, süvenditekke, pilukorrosioon, pingekorrosioonpragunemine), igaühel oma vallandavad tingimused ja oma sihitud vastumeede, seega nõuab reaalse konstruktsiooni kaitsmine õiget diagnoosimist, milline konkreetne mehhanism seda ohustab, mitte üht üldist lahendust rakendamist.",
+    "sourceHash": "622f4c7ca53ed867",
+    "stale": false
+  }
+}

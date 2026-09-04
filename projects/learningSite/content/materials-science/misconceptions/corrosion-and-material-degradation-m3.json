@@ -1,0 +1,10 @@
+{
+  "id": "corrosion-and-material-degradation-m3",
+  "conceptId": "corrosion-and-material-degradation",
+  "text": {
+    "en": "Believing galvanic corrosion requires some exotic or unusual condition to occur, rather than recognizing it as an ordinary and common consequence of simply placing two dissimilar metals in electrical contact in the presence of an electrolyte (such as moisture) -- this is one of the most frequent real-world corrosion failures in ordinary engineering assemblies (fasteners, fittings, dissimilar-metal joints), precisely because it requires nothing more exotic than a very common combination of circumstances, which is why designers must proactively check for dissimilar-metal contact rather than treating galvanic corrosion as a rare edge case.",
+    "et": "Arvamus, et galvaaniline korrosioon vajab toimumiseks mingit eksootilist või ebatavalist tingimust, selle asemel et tunnistada seda tavalise ja levinud tagajärjena lihtsalt kahe erineva metalli asetamisest elektrikontakti elektrolüüdi (näiteks niiskuse) juuresolekul -- see on üks sagedasemaid reaalseid korrosioonirikkeid tavalistes inseneriteaduslikes koostudes (kinnitid, liitmikud, erinevate metallide liidesed), täpselt seetõttu, et see ei vaja midagi eksootilisemat kui väga levinud asjaolude kombinatsiooni, mis ongi põhjus, miks disainerid peavad proaktiivselt kontrollima erinevate metallide kontakti, selle asemel et käsitleda galvaanilist korrosiooni haruldase erandjuhtumina.",
+    "sourceHash": "160b63348e374b6a",
+    "stale": false
+  }
+}

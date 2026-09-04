@@ -1,0 +1,56 @@
+{
+  "id": "corrosion-and-material-degradation-item1",
+  "conceptId": "corrosion-and-material-degradation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An engineer applies a coating that successfully eliminates uniform surface corrosion on a structure, but the structure still fails from localized pitting near a joint where two dissimilar metals are bolted together. What does this best illustrate?",
+    "et": "Insener rakendab katte, mis edukalt kõrvaldab konstruktsioonil ühtlase pinnakorrosiooni, kuid konstruktsioon ebaõnnestub siiski lokaliseeritud süvenditekke tõttu liite lähedal, kus kaks erinevat metalli on kokku poldistatud. Mida see kõige paremini illustreerib?",
+    "sourceHash": "f7f07ec10331c290",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Corrosion is a family of distinct mechanisms with different triggers; a countermeasure effective against one mechanism (uniform attack) provides no protection against another (galvanic/pitting attack at a dissimilar-metal joint).",
+        "et": "Korrosioon on eristuvate mehhanismide perekond erinevate vallandajatega; vastumeede, mis on tõhus ühe mehhanismi vastu (ühtlane rünnak), ei paku kaitset teise vastu (galvaaniline/süvenditekke rünnak erinevate metallide liites).",
+        "sourceHash": "87bf9c1074ee5c33",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The coating must have been applied incorrectly, since a properly applied corrosion-resistant coating should prevent all forms of corrosion everywhere on the structure.",
+        "et": "Kate peab olema valesti rakendatud, kuna korralikult rakendatud korrosioonikindel kate peaks takistama kõiki korrosiooni vorme kogu konstruktsioonil.",
+        "sourceHash": "a736ce8bcd735277",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "corrosion-and-material-degradation-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This failure is unrelated to corrosion mechanisms and must be a separate, unrelated mechanical defect near the joint.",
+        "et": "See rike ei ole seotud korrosioonimehhanismidega ja peab olema eraldi, mitteseotud mehaaniline defekt liite lähedal.",
+        "sourceHash": "6bb7673f89e1fbb1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "corrosion-and-material-degradation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Galvanic attack at a bolted dissimilar-metal joint is an exotic failure mode that could not have been reasonably anticipated during design.",
+        "et": "Galvaaniline rünnak poldistatud erinevate metallide liites on eksootiline rikkeviis, mida ei oleks disaini ajal saanud mõistlikult ette näha.",
+        "sourceHash": "a948a72223c90454",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "corrosion-and-material-degradation-m3"
+    }
+  ]
+}

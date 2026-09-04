@@ -1,0 +1,10 @@
+{
+  "id": "corrosion-and-material-degradation-m2",
+  "conceptId": "corrosion-and-material-degradation",
+  "text": {
+    "en": "Believing that once a coating or alloy is chosen that successfully prevents uniform surface corrosion, the corrosion problem for that design is solved and no further mechanism needs to be considered -- a coating or alloy effective against uniform attack can do nothing against, or can even actively promote, a localized mechanism like galvanic corrosion or pitting if the design brings dissimilar metals into electrical contact or creates a crevice, so each additional mechanism the design's geometry and material combination could trigger must be diagnosed and addressed separately.",
+    "et": "Arvamus, et kui kord on valitud kate või sulam, mis edukalt takistab ühtlast pinnakorrosiooni, on korrosiooniprobleem selle disaini jaoks lahendatud ja ühtegi täiendavat mehhanismi ei ole vaja arvestada -- kate või sulam, mis on tõhus ühtlase rünnaku vastu, ei suuda midagi teha või võib isegi aktiivselt soodustada lokaliseeritud mehhanismi nagu galvaaniline korrosioon või süvenditekke, kui disain toob kokku erinevad metallid elektrikontaktis või loob pilu, seega tuleb iga täiendav mehhanism, mida disaini geomeetria ja materjalikombinatsioon võiks vallandada, eraldi diagnoosida ja lahendada.",
+    "sourceHash": "feb4537e8b2149de",
+    "stale": false
+  }
+}
