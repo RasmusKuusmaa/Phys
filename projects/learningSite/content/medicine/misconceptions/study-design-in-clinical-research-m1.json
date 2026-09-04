@@ -1,0 +1,10 @@
+{
+  "id": "study-design-in-clinical-research-m1",
+  "conceptId": "study-design-in-clinical-research",
+  "text": {
+    "en": "A cohort study and a randomized controlled trial provide equally strong evidence for causation, since both follow people forward in time and compare an exposed group to an unexposed one -- in reality, an RCT's random assignment balances confounders (known and unknown) between groups on average, while a cohort study's exposed and unexposed groups are self-selected or naturally occurring and may differ in unmeasured ways that actually explain the outcome, which is why a cohort study can only strongly suggest, not establish, causation the way a well-run RCT can.",
+    "et": "Kohortuuring ja juhuslikustatud kontrollitud uuring annavad põhjuslikkuse kohta võrdselt tugevat tõendust, kuna mõlemad jälgivad inimesi ajas edasi ja võrdlevad eksponeeritud rühma eksponeerimata rühmaga -- tegelikult tasakaalustab RCT juhuslik määramine segavad tegurid (nii teadaolevad kui teadmata) rühmade vahel keskmiselt, samas kui kohortuuringu eksponeeritud ja eksponeerimata rühmad on isevalitud või loomulikult tekkinud ning võivad erineda mõõtmata viisidel, mis tegelikult tulemust seletavad, mistõttu kohortuuring saab põhjuslikkust ainult tugevalt viidata, mitte tuvastada nii, nagu hästi läbiviidud RCT seda teeb.",
+    "sourceHash": "641c73c926dd7e10",
+    "stale": false
+  }
+}

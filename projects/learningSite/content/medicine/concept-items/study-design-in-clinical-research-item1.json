@@ -1,0 +1,56 @@
+{
+  "id": "study-design-in-clinical-research-item1",
+  "conceptId": "study-design-in-clinical-research",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Researchers want to study whether a certain workplace chemical exposure causes a rare form of cancer that takes decades to develop. Why would a case-control study likely be a better practical choice than a prospective cohort study here?",
+    "et": "Teadlased soovivad uurida, kas teatud töökoha kemikaaliga kokkupuude põhjustab harva esinevat vähivormi, mille tekkeks kulub aastakümneid. Miks oleks juht-kontrolluuring siin tõenäoliselt parem praktiline valik kui prospektiivne kohortuuring?",
+    "sourceHash": "8afc0a472ec7b234",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because a case-control study starts from people who already have the rare cancer and looks backward for exposure differences, requiring far fewer participants and far less time than following a large cohort forward for decades waiting for enough rare cases to occur.",
+        "et": "Sest juht-kontrolluuring alustab inimestest, kellel see harv vähk juba on, ja vaatab tagasi eksponeerituse erinevuste otsimiseks, vajades palju vähem osalejaid ja palju vähem aega kui suure kohordi jälgimine aastakümnete jooksul, oodates piisavalt harvu juhtumeid.",
+        "sourceHash": "0bed818a4059183b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because a case-control study, like a cohort study, randomly assigns participants to the exposure, so it provides the same strength of evidence for causation while being logistically simpler.",
+        "et": "Sest juht-kontrolluuring, sarnaselt kohortuuringuga, määrab osalejad eksponeeritusele juhuslikult, mistõttu annab see põhjuslikkuse kohta sama tugevat tõendust, olles samal ajal loogiliselt lihtsam.",
+        "sourceHash": "43389ab89bdaa932",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "study-design-in-clinical-research-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It wouldn't be — a case-control study is a lower-quality design in every situation and should be avoided whenever a cohort study is even theoretically possible.",
+        "et": "See ei oleks nii -- juht-kontrolluuring on madalama kvaliteediga disain igas olukorras ning seda tuleks vältida alati, kui kohortuuring on kas või teoreetiliselt võimalik.",
+        "sourceHash": "3797dca208f9e988",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "study-design-in-clinical-research-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because a case-control study, like a cross-sectional study, measures exposure and outcome at the same single point in time, making it faster to run than any longitudinal design.",
+        "et": "Sest juht-kontrolluuring, sarnaselt läbilõikeuuringuga, mõõdab eksponeeritust ja tulemust samal üksikul ajahetkel, muutes selle kiiremaks läbi viia kui ükski pikiuuring.",
+        "sourceHash": "4ee8f520dbcf1665",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "study-design-in-clinical-research-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "study-design-in-clinical-research-m3",
+  "conceptId": "study-design-in-clinical-research",
+  "text": {
+    "en": "A cross-sectional study, since it measures a real disease and a real exposure in the same people, can establish that the exposure causes the outcome -- in reality, because a cross-sectional study measures exposure and outcome at the same single point in time, it can never establish which came first -- the disease could have caused a behavior change that looks like exposure, rather than the exposure causing the disease -- so a cross-sectional study can only show that two things are associated, never that one causes the other.",
+    "et": "Läbilõikeuuring, kuna see mõõdab tõelist haigust ja tõelist eksponeeritust samadel inimestel, suudab tuvastada, et eksponeeritus põhjustab tulemuse -- tegelikult, kuna läbilõikeuuring mõõdab eksponeeritust ja tulemust samal üksikul ajahetkel, ei suuda see kunagi tuvastada, kumb tuli enne -- haigus võis põhjustada käitumismuutuse, mis näeb välja nagu eksponeeritus, selle asemel et eksponeeritus põhjustaks haiguse --, mistõttu läbilõikeuuring suudab näidata ainult seda, et kaks asja on seotud, mitte kunagi, et üks põhjustab teist.",
+    "sourceHash": "e16953ba2dfce068",
+    "stale": false
+  }
+}

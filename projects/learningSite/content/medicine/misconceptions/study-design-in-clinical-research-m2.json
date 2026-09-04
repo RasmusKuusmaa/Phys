@@ -1,0 +1,10 @@
+{
+  "id": "study-design-in-clinical-research-m2",
+  "conceptId": "study-design-in-clinical-research",
+  "text": {
+    "en": "A case-control study is inherently a lower-quality design than a cohort study in every situation -- in reality, case-control studies are specifically well-suited to rare diseases or outcomes with long latency, since they need far fewer participants and far less time than prospectively following a cohort until enough cases appear; the tradeoff is greater vulnerability to recall bias and to selecting controls that don't represent the same source population as the cases, not an across-the-board inferiority.",
+    "et": "Juht-kontrolluuring on iga olukorra jaoks olemuslikult madalama kvaliteediga disain kui kohortuuring -- tegelikult sobivad juht-kontrolluuringud eriti hästi harvaesinevate haiguste või pika varjatud perioodiga tulemuste jaoks, kuna need vajavad palju vähem osalejaid ja palju vähem aega kui kohordi edasivaatav jälgimine, kuni piisavalt juhtumeid ilmneb; kompromiss on suurem haavatavus meenutusnihkele ja kontrollide valimisele, mis ei esinda sama lähtepopulatsiooni mis juhtumid, mitte üldine alaväärsus.",
+    "sourceHash": "029dac531da2df07",
+    "stale": false
+  }
+}
