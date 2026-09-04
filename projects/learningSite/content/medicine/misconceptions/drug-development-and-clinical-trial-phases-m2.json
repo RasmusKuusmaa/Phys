@@ -1,0 +1,10 @@
+{
+  "id": "drug-development-and-clinical-trial-phases-m2",
+  "conceptId": "drug-development-and-clinical-trial-phases",
+  "text": {
+    "en": "Once a drug passes its Phase III trial and gets regulatory approval, its safety profile is fully known and no further monitoring is needed -- in reality, Phase III trials, however large, still can't reliably detect very rare adverse effects (which might only occur in one patient in tens of thousands) or effects that only appear after years of use, which is exactly what Phase IV post-market surveillance exists to catch once the drug reaches a much larger real-world population.",
+    "et": "Kui ravim läbib III faasi uuringu ja saab regulatiivse heakskiidu, on selle ohutusprofiil täielikult teada ja täiendavat jälgimist pole enam vaja -- tegelikult ei suuda ka kõige suuremad III faasi uuringud usaldusväärselt tuvastada väga harvaesinevaid kõrvaltoimeid (mis võivad esineda vaid ühel patsiendil kümnetest tuhandetest) või toimeid, mis ilmnevad alles aastatepikkuse kasutuse järel, mille tabamiseks ongi mõeldud IV faasi turuletulekujärgne jälgimine, kui ravim jõuab palju suurema reaalse maailma populatsioonini.",
+    "sourceHash": "76e55ca12b437bcd",
+    "stale": false
+  }
+}

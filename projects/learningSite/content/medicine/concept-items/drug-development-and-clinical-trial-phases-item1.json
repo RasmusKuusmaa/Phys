@@ -1,0 +1,56 @@
+{
+  "id": "drug-development-and-clinical-trial-phases-item1",
+  "conceptId": "drug-development-and-clinical-trial-phases",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A new drug has passed Phase I trials showing it is safe in healthy volunteers at a certain dose range. What is the next thing a Phase II trial is specifically designed to establish?",
+    "et": "Uus ravim on läbinud I faasi uuringud, mis näitasid, et see on ohutu tervetel vabatahtlikel teatud annusevahemikus. Mida on II faasi uuring spetsiifiliselt mõeldud järgmisena kindlaks tegema?",
+    "sourceHash": "a23409054fc47f67",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Whether the drug actually shows real therapeutic efficacy in patients who have the target condition, and refining the effective dose.",
+        "et": "Kas ravimil on tegelikult reaalne terapeutiline efektiivsus patsientidel, kellel on sihtmärk-haigusseisund, ning efektiivse annuse täpsustamine.",
+        "sourceHash": "ea1c76c79b808aac",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Whether the drug is safe -- that's the whole purpose of Phase II, just like Phase I, but in a larger group.",
+        "et": "Kas ravim on ohutu -- see ongi kogu II faasi eesmärk, samamoodi nagu I faas, aga suuremas rühmas.",
+        "sourceHash": "e6f62226490ebdab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drug-development-and-clinical-trial-phases-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Whether the drug has any long-term or very rare side effects that will only show up after years of widespread use.",
+        "et": "Kas ravimil on pikaajalisi või väga harvaesinevaid kõrvaltoimeid, mis ilmnevad alles pärast aastatepikkust laialdast kasutust.",
+        "sourceHash": "77699a745d63f56e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drug-development-and-clinical-trial-phases-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Whether the drug has any real biological activity at all, since that hasn't been tested yet at this stage.",
+        "et": "Kas ravimil on üldse mingit reaalset bioloogilist aktiivsust, kuna seda pole selles etapis veel testitud.",
+        "sourceHash": "dceba3f5aecb6f26",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drug-development-and-clinical-trial-phases-m3"
+    }
+  ]
+}

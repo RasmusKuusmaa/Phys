@@ -1,0 +1,10 @@
+{
+  "id": "drug-development-and-clinical-trial-phases-m3",
+  "conceptId": "drug-development-and-clinical-trial-phases",
+  "text": {
+    "en": "Preclinical (lab and animal) testing is just a formality before the 'real' testing on humans begins -- in reality, preclinical research is what screens out the vast majority of candidate compounds before any human is ever exposed to them, catching compounds with no real biological activity or with obvious toxicity, so only a small fraction of compounds that start preclinical testing ever reach a human trial at all.",
+    "et": "Prekliiniline (labori- ja loomkatsete) testimine on lihtsalt formaalsus enne, kui 'tõeline' testimine inimestel algab -- tegelikult on prekliiniline uuring see, mis sõelub välja valdava enamiku kandidaatühenditest enne, kui ükski inimene nendega kokku puutub, tabades ühendid, millel puudub tegelik bioloogiline aktiivsus või millel on ilmne toksilisus, mistõttu vaid väike osa prekliinilist testimist alustavatest ühenditest jõuab üldse inimuuringusse.",
+    "sourceHash": "ce6a1a85b4cbe9c2",
+    "stale": false
+  }
+}

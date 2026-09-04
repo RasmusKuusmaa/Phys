@@ -1,0 +1,10 @@
+{
+  "id": "drug-development-and-clinical-trial-phases-m1",
+  "conceptId": "drug-development-and-clinical-trial-phases",
+  "text": {
+    "en": "Phase I clinical trials are meant to test whether a new drug actually works against the disease it's designed for -- in reality, Phase I trials are primarily about safety and pharmacokinetics in a small group of (usually healthy) volunteers, establishing a safe dose range; testing for real therapeutic efficacy in actual patients doesn't happen until Phase II.",
+    "et": "I faasi kliinilised uuringud on mõeldud testimaks, kas uus ravim tegelikult toimib haiguse vastu, mille jaoks see on mõeldud -- tegelikult keskenduvad I faasi uuringud peamiselt ohutusele ja farmakokineetikale väikeses (tavaliselt tervete) vabatahtlike rühmas, määrates kindlaks ohutu annusevahemiku; tegelike patsientide peal tegeliku terapeutilise efektiivsuse testimine ei toimu enne II faasi.",
+    "sourceHash": "9da5edded37f5334",
+    "stale": false
+  }
+}

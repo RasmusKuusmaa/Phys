@@ -1,0 +1,19 @@
+{
+  "id": "drug-development-and-clinical-trial-phases",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "pharmacology",
+  "title": {
+    "en": "Drug development and clinical trial phases",
+    "et": "Ravimiarendus ja kliiniliste uuringute faasid",
+    "sourceHash": "6126e4f7edada77a",
+    "stale": false
+  },
+  "summary": {
+    "en": "Before a new drug reaches a pharmacy shelf, it passes through a long, deliberately staged process designed to catch problems as early and cheaply as possible, since each later stage costs far more time and money than the one before it. Preclinical research comes first: laboratory (in vitro) and animal (in vivo) studies test whether a candidate compound has the intended biological activity at all, and screen for obvious toxicity, long before any human ever takes it. If a compound survives that screen, it enters human clinical trials, conventionally split into four phases. Phase I asks the most basic safety question -- typically in a small group (tens) of healthy volunteers -- establishing a safe dose range and characterizing what the drug does to the body pharmacokinetically, not yet asking whether it actually treats anything. Phase II moves to a somewhat larger group (dozens to low hundreds) of patients who actually have the target condition, asking whether the drug shows real efficacy and refining the dose. Phase III is the large-scale trial (hundreds to thousands of patients, often at many sites) that most people mean by 'clinical trial': it compares the new drug against an existing standard treatment or placebo, is powered to detect a real effect and to reveal rarer side effects that smaller trials would miss, and its results are what a regulatory agency reviews when deciding whether to approve the drug. Phase IV is post-market surveillance, continuing after approval to catch rare adverse effects and long-term outcomes across the much larger population that only wide, real-world use can reveal.",
+    "et": "Enne kui uus ravim jõuab apteegiletile, läbib see pika, tahtlikult etapiviisilise protsessi, mis on kavandatud probleeme võimalikult varakult ja odavalt tabama, kuna iga hilisem etapp maksab palju rohkem aega ja raha kui eelmine. Kõigepealt tuleb prekliiniline uuring: laboratoorsed (in vitro) ja loomkatsed (in vivo) testivad, kas kandidaatühendil on üldse kavandatud bioloogiline aktiivsus, ning sõeluvad välja ilmse toksilisuse, ammu enne, kui ükski inimene seda kunagi võtab. Kui ühend jääb sellest sõelast läbi, siseneb see inimestel tehtavatesse kliinilistesse uuringutesse, mis jagunevad tavapäraselt neljaks faasiks. I faas esitab kõige põhilisema ohutusküsimuse -- tavaliselt väikeses rühmas (kümned) tervetel vabatahtlikel -- määrates kindlaks ohutu annusevahemiku ja iseloomustades, mida ravim organismiga farmakokineetiliselt teeb, küsimata veel, kas see üldse midagi ravib. II faas liigub veidi suuremasse rühma (kümnetest madalate sadadeni) patsientidele, kellel on tegelikult sihtmärk-haigusseisund, küsides, kas ravimil on tõeline efektiivsus, ning täpsustades annust. III faas on suuremahuline uuring (sadadest tuhandeteni patsiente, sageli paljudes keskustes), mida enamik inimesi mõtleb 'kliinilise uuringu' all: see võrdleb uut ravimit olemasoleva standardraviga või platseeboga, on kavandatud tuvastama tegelikku toimet ja paljastama harvemaid kõrvaltoimeid, mida väiksemad uuringud jätaksid tähelepanuta, ning selle tulemused on need, mida reguleeriv asutus vaatab läbi, otsustades, kas ravim heaks kiita. IV faas on turuletulekujärgne jälgimine, mis jätkub pärast heakskiitmist, et tabada harvaesinevaid kõrvaltoimeid ja pikaajalisi tulemusi palju suuremas populatsioonis, mida saab paljastada ainult lai, reaalse maailma kasutus.",
+    "sourceHash": "414dc1eae37010cc",
+    "stale": false
+  },
+  "prerequisites": []
+}
