@@ -587,27 +587,43 @@ not diagnostic criteria or treatment protocols.
 
 ### Module `cardiovascular-medicine`
 
-- [ ] Atherosclerosis and coronary artery disease (plaque formation
+- [x] Atherosclerosis and coronary artery disease (plaque formation
       mechanism, the ischemia mechanism when a coronary artery narrows or
       occludes; prerequisites: cardiovascular-system-anatomy-and-
-      physiology, thrombosis-embolism-and-infarction)
-- [ ] Heart failure mechanisms (systolic vs. diastolic dysfunction, the
+      physiology, thrombosis-embolism-and-infarction; kept conceptual)
+- [x] Heart failure mechanisms (systolic vs. diastolic dysfunction, the
       Frank-Starling relationship, neurohormonal compensatory mechanisms
       and why they eventually worsen the underlying problem; prerequisite:
-      cardiovascular-system-anatomy-and-physiology)
-- [ ] Cardiac arrhythmia mechanisms (the cardiac conduction system, reentry
+      cardiovascular-system-anatomy-and-physiology; kept conceptual)
+- [x] Cardiac arrhythmia mechanisms (the cardiac conduction system, reentry
       circuits, mechanisms behind tachyarrhythmias and bradyarrhythmias;
-      prerequisite: cardiovascular-system-anatomy-and-physiology)
-- [ ] Hypertension pathophysiology (blood pressure regulation, the
+      prerequisite: cardiovascular-system-anatomy-and-physiology; kept
+      conceptual)
+- [x] Hypertension pathophysiology (blood pressure regulation, the
       renin-angiotensin-aldosterone system's role, primary vs. secondary
-      hypertension mechanisms; prerequisite: adrenal-gland-physiology)
-- [ ] Valvular heart disease mechanisms (stenosis vs. regurgitation as
+      hypertension mechanisms; prerequisite: adrenal-gland-physiology; kept
+      conceptual)
+- [x] Valvular heart disease mechanisms (stenosis vs. regurgitation as
       distinct mechanical problems, their hemodynamic consequences;
-      prerequisite: cardiovascular-system-anatomy-and-physiology)
-- [ ] Shock and circulatory failure (hypovolemic, cardiogenic,
+      prerequisite: cardiovascular-system-anatomy-and-physiology; kept
+      conceptual)
+- [x] Shock and circulatory failure (hypovolemic, cardiogenic,
       distributive/septic, and obstructive shock as mechanistic categories
       sharing a common endpoint — inadequate tissue perfusion; prerequisite:
-      cardiovascular-system-anatomy-and-physiology)
+      cardiovascular-system-anatomy-and-physiology; kept conceptual)
+
+Module complete: 6 cardiovascular-medicine concepts, authored directly by
+the coordinator (the planned parallel fork for this module could not be
+dispatched — forking is unavailable from inside a forked worker, and this
+work continued from within one — so both organ-system modules this phase
+were authored directly rather than via forks). All kept conceptual: each
+concept's real content is a mechanistic distinction (plaque stability vs.
+size, systolic vs. diastolic dysfunction, generation vs. conduction
+abnormalities, primary vs. secondary hypertension, stenosis vs.
+regurgitation, four shock mechanisms), not a single clean numeric
+relationship. `npm run validate:content` (9 subjects, 588 concepts),
+`npm run lint:terminology` (266 glossary terms), and `npm run typecheck`
+all pass; every resource URL verified live with `curl`.
 
 ### Module `respiratory-medicine`
 
