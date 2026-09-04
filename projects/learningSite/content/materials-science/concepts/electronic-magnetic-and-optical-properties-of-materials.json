@@ -1,0 +1,22 @@
+{
+  "id": "electronic-magnetic-and-optical-properties-of-materials",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Electronic, magnetic, and optical properties of materials",
+    "et": "Materjalide elektrilised, magnetilised ja optilised omadused",
+    "sourceHash": "0ec6bdd497506efa",
+    "stale": false
+  },
+  "summary": {
+    "en": "A material's electronic, magnetic, and optical behavior is not an incidental afterthought layered on top of its mechanical properties but follows from the same underlying atomic bonding and structure a materials scientist already selects a material for, so that choosing a material for one application invariably comes bundled with a whole set of electronic, magnetic, and optical consequences that must be evaluated together rather than independently -- a material chosen purely for mechanical strength might turn out to be an unusably good electrical conductor or a magnetically active nuisance in a design that specifically needs electrical insulation or magnetic neutrality, and conversely a material selected for its magnetic or optical properties may bring mechanical limitations along with it -- which is exactly why real materials selection is a genuinely multi-property tradeoff problem rather than a search for the single best material along any one property in isolation.",
+    "et": "Materjali elektriline, magnetiline ja optiline käitumine ei ole juhuslik lisamõte, mis on lisatud selle mehaaniliste omaduste peale, vaid tuleneb samast aluseks olevast aatomisidemest ja struktuurist, mille alusel materjaliteadlane materjali juba valib, nii et materjali valimine ühe rakenduse jaoks tuleb alati koos terve hulga elektriliste, magnetiliste ja optiliste tagajärgedega, mida tuleb hinnata koos, mitte sõltumatult -- materjal, mis on valitud puhtalt mehaanilise tugevuse pärast, võib osutuda kasutamatult heaks elektrijuhiks või magnetiliselt aktiivseks tüliks disainis, mis vajab spetsiifiliselt elektriisolatsiooni või magnetilist neutraalsust, ning vastupidi, materjal, mis on valitud oma magnetiliste või optiliste omaduste pärast, võib tuua kaasa mehaanilisi piiranguid -- mis ongi täpselt põhjus, miks reaalne materjalivalik on tõeliselt mitmeomaduseline tasakaalustamisprobleem, mitte otsing ühe parima materjali järele mistahes üksiku omaduse põhjal eraldi.",
+    "sourceHash": "6630e959dfcdba2a",
+    "stale": false
+  },
+  "prerequisites": [
+    "classes-of-materials",
+    "structure-property-relationships"
+  ]
+}

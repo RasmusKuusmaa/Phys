@@ -1,0 +1,10 @@
+{
+  "id": "electronic-magnetic-and-optical-properties-of-materials-m2",
+  "conceptId": "electronic-magnetic-and-optical-properties-of-materials",
+  "text": {
+    "en": "Believing real-world materials selection always identifies one single best material that simultaneously maximizes every desirable property at once -- because electronic, magnetic, optical, and mechanical properties are all coupled to the same underlying atomic structure, improving one property for a given application frequently comes at the cost of another, meaning materials selection is genuinely a multi-property tradeoff exercise rather than a search for one universally superior material; the actual best choice depends on which combination of properties the specific application weighs most heavily, and a material excellent for one application can be a poor choice for another precisely because of the same underlying property coupling.",
+    "et": "Arvamus, et reaalne materjalivalik tuvastab alati ühe parima materjali, mis maksimeerib samaaegselt iga soovitud omaduse korraga -- kuna elektrilised, magnetilised, optilised ja mehaanilised omadused on kõik seotud sama aluseks oleva aatomistruktuuriga, tuleb ühe omaduse parandamine antud rakenduse jaoks sageli teise arvelt, mis tähendab, et materjalivalik on tõeliselt mitmeomaduseline tasakaalustamisharjutus, mitte otsing ühe universaalselt parema materjali järele; tegelik parim valik sõltub sellest, millist omaduste kombinatsiooni konkreetne rakendus kõige rohkem kaalub, ning materjal, mis on suurepärane ühe rakenduse jaoks, võib olla halb valik teise jaoks täpselt sama aluseks oleva omaduste seotuse tõttu.",
+    "sourceHash": "06f7a1051e54a5c1",
+    "stale": false
+  }
+}

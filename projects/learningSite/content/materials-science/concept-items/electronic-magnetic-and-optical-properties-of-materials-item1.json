@@ -1,0 +1,56 @@
+{
+  "id": "electronic-magnetic-and-optical-properties-of-materials-item1",
+  "conceptId": "electronic-magnetic-and-optical-properties-of-materials",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An engineer selects a metal purely for its excellent mechanical strength and ductility, but later discovers it also conducts electricity extremely well, causing a problem in a design that needed electrical insulation nearby. Why did this happen?",
+    "et": "Insener valib metalli puhtalt selle suurepärase mehaanilise tugevuse ja sitkuse pärast, kuid avastab hiljem, et see juhib ka väga hästi elektrit, põhjustades probleemi disainis, mis vajas lähedal elektriisolatsiooni. Miks see juhtus?",
+    "sourceHash": "b7d33ce41d5402b8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Mechanical and electrical properties trace back to the same underlying bonding (the delocalized electron sea in a metal), so selecting for one property genuinely bundles in consequences for the other.",
+        "et": "Mehaanilised ja elektrilised omadused pärinevad samast aluseks olevast sidemest (metalli delokaliseeritud elektronimeri), seega toob ühe omaduse pärast valimine tõeliselt kaasa tagajärjed teisele.",
+        "sourceHash": "7701bed94e312c7e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is a coincidence with no underlying connection, since a material's mechanical properties are essentially independent of its electrical properties.",
+        "et": "See on kokkusattumus ilma aluseks oleva seoseta, kuna materjali mehaanilised omadused on sisuliselt sõltumatud selle elektrilistest omadustest.",
+        "sourceHash": "84f04bfb258b58e2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electronic-magnetic-and-optical-properties-of-materials-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The engineer must have made an error, since a properly selected material should simultaneously maximize mechanical strength and provide electrical insulation at the same time.",
+        "et": "Insener pidi olema teinud vea, kuna õigesti valitud materjal peaks samaaegselt maksimeerima mehaanilist tugevust ja pakkuma elektriisolatsiooni korraga.",
+        "sourceHash": "d7e76f59f5efd4b9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electronic-magnetic-and-optical-properties-of-materials-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Electrical conductivity is a rare, niche property that should not have needed consideration in a design not explicitly focused on electronics.",
+        "et": "Elektrijuhtivus on haruldane, nišiomadus, mida ei oleks pidanud arvesse võtma disainis, mis ei ole selgesõnaliselt keskendunud elektroonikale.",
+        "sourceHash": "a90cf823a366f9b6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "electronic-magnetic-and-optical-properties-of-materials-m3"
+    }
+  ]
+}

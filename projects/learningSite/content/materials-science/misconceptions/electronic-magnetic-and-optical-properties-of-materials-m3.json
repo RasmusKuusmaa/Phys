@@ -1,0 +1,10 @@
+{
+  "id": "electronic-magnetic-and-optical-properties-of-materials-m3",
+  "conceptId": "electronic-magnetic-and-optical-properties-of-materials",
+  "text": {
+    "en": "Believing a material's magnetic behavior, since it seems unrelated to obvious mechanical or optical properties, is a rare, specialized concern that only matters for a small niche of applications explicitly built around magnets -- magnetic properties (even simply being magnetically neutral or weakly magnetic versus strongly ferromagnetic) matter across a very wide range of ordinary engineering contexts, since an otherwise mechanically ideal material's magnetic activity can interfere with nearby sensitive electronics, sensors, or instruments even when the application itself has nothing to do with magnetism as its primary purpose, which is exactly why magnetic behavior must be evaluated as one of the several coupled properties any real material selection weighs, not set aside as niche.",
+    "et": "Arvamus, et materjali magnetiline käitumine, kuna see näib olevat mitteseotud ilmsete mehaaniliste või optiliste omadustega, on haruldane, spetsialiseeritud mure, mis on oluline ainult väikesele nišile rakendustele, mis on selgesõnaliselt üles ehitatud magnetite ümber -- magnetilised omadused (isegi lihtsalt magnetiliselt neutraalne või nõrgalt magnetiline versus tugevalt ferromagnetiline olemine) on olulised väga laias tavaliste inseneriteaduslike kontekstide vahemikus, kuna muidu mehaaniliselt ideaalse materjali magnetiline aktiivsus võib häirida lähedal asuvat tundlikku elektroonikat, andureid või instrumente isegi siis, kui rakendus ise ei ole seotud magnetismiga kui oma peamise eesmärgiga, mis ongi täpselt põhjus, miks magnetilist käitumist tuleb hinnata ühena mitmest seotud omadusest, mida iga reaalne materjalivalik kaalub, mitte kõrvale jätta kui nišina.",
+    "sourceHash": "a7a18ed5f8b67248",
+    "stale": false
+  }
+}

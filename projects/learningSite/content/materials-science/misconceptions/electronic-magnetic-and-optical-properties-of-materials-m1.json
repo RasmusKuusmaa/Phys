@@ -1,0 +1,10 @@
+{
+  "id": "electronic-magnetic-and-optical-properties-of-materials-m1",
+  "conceptId": "electronic-magnetic-and-optical-properties-of-materials",
+  "text": {
+    "en": "Believing a material's electronic, magnetic, and optical properties are essentially independent of its mechanical properties, so selecting a material for its mechanical strength has no bearing on how it behaves electrically, magnetically, or optically -- all of these properties trace back to the same underlying atomic bonding and structure, so choosing a material for one property genuinely bundles in consequences for the others; a metal selected purely for its mechanical strength, for instance, is also inevitably a good electrical and thermal conductor because of the same delocalized electron sea responsible for its ductility, a consequence that must be considered whenever electrical insulation or thermal isolation also matters for the application.",
+    "et": "Arvamus, et materjali elektrilised, magnetilised ja optilised omadused on sisuliselt sõltumatud selle mehaanilistest omadustest, seega ei mõjuta materjali valimine selle mehaanilise tugevuse pärast selle elektrilist, magnetilist ega optilist käitumist -- kõik need omadused pärinevad samast aluseks olevast aatomisidemest ja struktuurist, seega toob materjali valimine ühe omaduse pärast tõeliselt kaasa tagajärjed teistele; puhtalt mehaanilise tugevuse pärast valitud metall on näiteks paratamatult ka hea elektri- ja soojusjuht sama delokaliseeritud elektronimere tõttu, mis vastutab selle sitkuse eest, tagajärg, mida tuleb arvestada iga kord, kui elektriisolatsioon või soojusisolatsioon on rakenduse jaoks samuti oluline.",
+    "sourceHash": "f866f71f1892a817",
+    "stale": false
+  }
+}
