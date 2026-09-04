@@ -37,7 +37,7 @@ git log --oneline | grep '^content: add '   # concepts already landed
 ## diagrams, diffusion, failure — the load-bearing topics a materials
 ## science course covers before anything graduate-level)
 
-- [ ] Crystal structure and crystallography (unit cells, Bravais lattices,
+- [x] Crystal structure and crystallography (unit cells, Bravais lattices,
       Miller indices — genuinely absent; the existing
       amorphous-solids-and-liquid-crystals concept describes what
       crystalline materials are NOT, without ever covering crystallinity
