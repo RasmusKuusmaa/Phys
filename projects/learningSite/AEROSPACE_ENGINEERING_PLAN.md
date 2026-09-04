@@ -121,6 +121,38 @@ architecture has no cross-subject prerequisites anyway, per `QUESTIONS.md`).
       topic compressible-flow-and-gas-dynamics sets up but doesn't cover;
       prerequisite: compressible-flow-and-gas-dynamics; kept conceptual)
 
+## Phase AE3 — graduate-level (L3/L4) pass
+
+Same move the MS3 phase made for materials-science: extend the now-11-
+concept foundational baseline to taught-MSc depth rather than leaving the
+subject bachelor-only. Each concept below genuinely extends an existing
+AE1/AE2 concept's depth rather than restating it.
+
+- [ ] Aircraft dynamic modes and stability derivatives (phugoid,
+      short-period, and dutch-roll modes; stability derivatives — depth
+      beyond the existing intro-level flight-dynamics-and-stability
+      concept, which stops at static stability and control-surface roles;
+      prerequisite: flight-dynamics-and-stability)
+- [ ] Computational fluid dynamics for aerospace design (meshing,
+      discretisation, turbulence modelling in an aircraft/spacecraft
+      design context — distinct from materials-science's computational-
+      materials-science, which is about materials modelling, not
+      aerodynamic simulation, and cannot be a cross-subject prerequisite
+      anyway; prerequisite: aerodynamics-fundamentals)
+- [ ] Advanced propulsion and specific impulse (specific impulse in depth,
+      electric/ion propulsion, hybrid and solid rocket motors — depth
+      beyond the existing propulsion-fundamentals concept's thrust-equation/
+      Brayton-cycle introduction; prerequisite: propulsion-fundamentals)
+- [ ] Composite aerostructures and buckling (laminate theory basics,
+      buckling of thin-walled structures — depth beyond the existing
+      aircraft-structures concept's load-path/materials-tradeoff survey;
+      prerequisite: aircraft-structures)
+- [ ] Orbital perturbations and reentry dynamics (J2 perturbation,
+      atmospheric drag decay, reentry trajectory and heating — depth
+      beyond the existing orbital-mechanics-and-spaceflight concept's
+      two-body/Hohmann-transfer treatment; prerequisites:
+      orbital-mechanics-and-spaceflight, hypersonic-aerothermodynamics)
+
 Phase AE2 complete: 11 aerospace-engineering concepts total (5 new Phase-AE2
 concepts on top of the 6-concept Phase AE1 baseline). `npm run
 validate:content` (494 concepts, 7 subjects), `npm run lint:terminology`
