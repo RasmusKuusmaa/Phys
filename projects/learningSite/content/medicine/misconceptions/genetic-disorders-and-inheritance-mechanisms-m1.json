@@ -1,0 +1,10 @@
+{
+  "id": "genetic-disorders-and-inheritance-mechanisms-m1",
+  "conceptId": "genetic-disorders-and-inheritance-mechanisms",
+  "text": {
+    "en": "I think a genetic disorder always means at least one parent had the disease themselves -- in reality, in autosomal recessive inheritance both parents can be completely unaffected carriers and still have an affected child if that child inherits the recessive allele from both, and chromosomal disorders like Down syndrome typically arise from a new error during meiosis and aren't inherited from an affected parent at all.",
+    "et": "Arvan, et geneetiline häire tähendab alati, et vähemalt üks vanem põdes ise seda haigust -- tegelikult võivad autosomaalse retsessiivse pärandumise korral mõlemad vanemad olla täiesti mõjutamata kandjad ning ikkagi saada mõjutatud lapse, kui laps pärib retsessiivse alleeli mõlemalt, ning kromosoomihäired nagu Downi sündroom tekivad tüüpiliselt uuest veast meioosi ajal ega pärandu üldse mõjutatud vanemalt.",
+    "sourceHash": "3d0e00524fac7b19",
+    "stale": false
+  }
+}

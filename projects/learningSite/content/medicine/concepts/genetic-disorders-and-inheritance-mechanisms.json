@@ -1,0 +1,21 @@
+{
+  "id": "genetic-disorders-and-inheritance-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "genetics-and-molecular-genetics",
+  "title": {
+    "en": "Genetic disorders and inheritance mechanisms",
+    "et": "Geneetilised häired ja pärandumismehhanismid",
+    "sourceHash": "a4498a3feebd80bd",
+    "stale": false
+  },
+  "summary": {
+    "en": "Genetic disorders are grouped by the mechanism through which they arise and pass through a family, and that mechanism -- not just which gene is involved -- determines the actual inheritance pattern a family will see. Single-gene (Mendelian) disorders follow the same dominant/recessive/X-linked patterns as any other single-gene trait: an autosomal dominant disorder like Huntington's disease can appear even when only one parent carries the allele and can skip no generation, an autosomal recessive disorder like cystic fibrosis typically appears only when both parents are unaffected carriers who each contribute one recessive allele, and an X-linked disorder shows the same male-skewed pattern any X-linked trait does. Chromosomal disorders are a mechanistically different category entirely, arising not from a mutation within a single gene but from an abnormal number or structure of whole chromosomes -- Down syndrome, for instance, results from an extra copy of chromosome 21 (trisomy 21), arising from an error during meiosis rather than being inherited from a carrier parent the way a single-gene disorder is. A third category, multifactorial disorders, arises from the combined contribution of many genes together with environmental factors, which is why conditions like most forms of heart disease or diabetes cluster in families without following any clean single-gene inheritance pattern at all.",
+    "et": "Geneetilisi häireid rühmitatakse mehhanismi järgi, mille kaudu need tekivad ja perekonnas edasi kanduvad, ning see mehhanism -- mitte ainult see, milline geen on kaasatud -- määrab tegeliku pärandumismustri, mida perekond näeb. Üksikgeeni (Mendeli) häired järgivad samu domineeriva/retsessiivse/X-seotud mustreid nagu iga teine üksikgeeni tunnus: autosomaalne domineeriv häire nagu Huntingtoni tõbi võib ilmneda isegi siis, kui ainult üks vanem kannab alleeli, ning ei saa ühtegi põlvkonda vahele jätta, autosomaalne retsessiivne häire nagu tsüstiline fibroos ilmneb tüüpiliselt ainult siis, kui mõlemad vanemad on mõjutamata kandjad, kes kumbki annavad edasi ühe retsessiivse alleeli, ning X-seotud häire näitab sama meestele kaldu mustrit nagu iga X-seotud tunnus. Kromosoomihäired on täiesti erinev mehhanismiline kategooria, tekkides mitte mutatsioonist üksikus geenis, vaid tervete kromosoomide ebanormaalsest arvust või struktuurist -- Downi sündroom tuleneb näiteks 21. kromosoomi lisakoopiast (trisoomia 21), tekkides veast meioosi ajal, mitte pärandudes kandjast vanemalt nii nagu üksikgeeni häire. Kolmas kategooria, multifaktoriaalsed häired, tekib paljude geenide ühismõjust koos keskkonnateguritega, mistõttu seisundid nagu enamik südamehaiguste või diabeedi vorme koonduvad peredesse, järgimata seejuures üldse mingit selget üksikgeeni pärandumismustrit.",
+    "sourceHash": "8bff6803931e61ea",
+    "stale": false
+  },
+  "prerequisites": [
+    "mendelian-genetics-and-inheritance-patterns"
+  ]
+}

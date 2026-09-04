@@ -1,0 +1,56 @@
+{
+  "id": "genetic-disorders-and-inheritance-mechanisms-item1",
+  "conceptId": "genetic-disorders-and-inheritance-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two unaffected parents have a child with cystic fibrosis, an autosomal recessive disorder. How is this possible if neither parent has the disease?",
+    "et": "Kahel mõjutamata vanemal sünnib laps tsüstilise fibroosiga, mis on autosomaalne retsessiivne häire. Kuidas on see võimalik, kui kummalgi vanemal haigust pole?",
+    "sourceHash": "bb8877bab1a047f3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both parents are unaffected carriers (heterozygous) — each has one normal allele and one recessive disease allele — and the child inherited the recessive allele from both parents, becoming homozygous recessive.",
+        "et": "Mõlemad vanemad on mõjutamata kandjad (heterosügootsed) -- kummalgi on üks normaalne alleel ja üks retsessiivne haigusalleel -- ning laps pärandas retsessiivse alleeli mõlemalt vanemalt, muutudes homosügootselt retsessiivseks.",
+        "sourceHash": "5defbf986aa76d9d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't actually possible — at least one parent must have had cystic fibrosis themselves for their child to be affected.",
+        "et": "See ei ole tegelikult võimalik -- vähemalt üks vanem peab olema ise tsüstilist fibroosi põdenud, et nende laps oleks mõjutatud.",
+        "sourceHash": "d308ce8b8d45234f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "genetic-disorders-and-inheritance-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "One of the parents must have passed on an extra copy of the relevant chromosome, similar to how trisomy 21 causes Down syndrome.",
+        "et": "Üks vanematest peab olema edasi andnud vastava kromosoomi lisakoopia, sarnaselt sellega, kuidas trisoomia 21 põhjustab Downi sündroomi.",
+        "sourceHash": "41bf528e64d2997a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "genetic-disorders-and-inheritance-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Cystic fibrosis is a multifactorial condition, so the child's risk came from the combined small effects of many genes plus environmental factors, not from a single recessive allele.",
+        "et": "Tsüstiline fibroos on multifaktoriaalne seisund, mistõttu lapse risk tulenes paljude geenide väikeste ühismõjude ja keskkonnategurite koosmõjust, mitte ühest retsessiivsest alleelist.",
+        "sourceHash": "9ac250fe4c130777",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "genetic-disorders-and-inheritance-mechanisms-m3"
+    }
+  ]
+}
