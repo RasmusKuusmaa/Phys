@@ -1,0 +1,10 @@
+{
+  "id": "compressible-flow-and-gas-dynamics-m3",
+  "conceptId": "compressible-flow-and-gas-dynamics",
+  "text": {
+    "en": "Believing supersonic flow behaves like subsonic flow but simply faster, so a narrowing (converging) duct should always accelerate the flow and a widening (diverging) duct should always decelerate it -- this intuition reverses for supersonic flow, where a converging duct actually decelerates the flow and a diverging duct accelerates it; a rocket nozzle exploits exactly this reversal with its converging-diverging (de Laval) shape, narrowing to accelerate subsonic flow up to Mach 1 at the throat, then widening to continue accelerating the now-supersonic flow further.",
+    "et": "Arvamus, et ülehelikiiruseline vool käitub nagu allahelikiiruseline vool, ainult kiiremini, mistõttu peaks kitsenev kanal alati voolu kiirendama ja laienev kanal alati aeglustama -- see intuitsioon pöördub ülehelikiiruselise voolu puhul ümber: kitsenev kanal tegelikult aeglustab voolu ja laienev kanal kiirendab seda; raketiotsak kasutab täpselt seda pöördumist oma kitseneva-laieneva (de Laval') kujuga, kitsenedes esmalt, et kiirendada allahelikiiruseline vool kitsaimas kohas Machi arvuni 1, ning seejärel laienedes, et jätkata juba ülehelikiiruselise voolu kiirendamist.",
+    "sourceHash": "6b8d9eb7ee58dc3d",
+    "stale": false
+  }
+}

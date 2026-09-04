@@ -1,0 +1,21 @@
+{
+  "id": "compressible-flow-and-gas-dynamics",
+  "subject": "aerospace-engineering",
+  "level": "L2",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Compressible flow and gas dynamics",
+    "et": "Kokkusurutav vool ja gaasidünaamika",
+    "sourceHash": "80f200115a439c99",
+    "stale": false
+  },
+  "summary": {
+    "en": "Mach number, the ratio of flow speed to the local speed of sound, is not a fixed absolute speed -- the speed of sound itself depends on the local temperature of the air, so it is noticeably lower at high, cold altitudes than at sea level, and the same ground speed corresponds to different Mach numbers in different conditions. Flow behaves qualitatively differently across four regimes -- subsonic, transonic, supersonic, and hypersonic -- and the 'sound barrier' near Mach 1 is not a literal wall but a real, sharp rise in wave drag as shock waves begin forming on the aircraft, a regime an aircraft is actually in at every supersonic speed, not something left behind once 'broken.' Supersonic flow also reverses several intuitions that hold at subsonic speed: a converging duct accelerates subsonic flow but decelerates supersonic flow, and a diverging duct does the reverse, which is exactly why a rocket nozzle narrows and then widens (a converging-diverging, or de Laval, shape) to accelerate flow to Mach 1 at the narrowest point and keep accelerating it supersonically beyond it.",
+    "et": "Machi arv, voolukiiruse ja kohaliku helikiiruse suhe, ei ole fikseeritud absoluutne kiirus -- helikiirus ise sõltub kohalikust õhutemperatuurist, mistõttu on see suurtel, külmadel kõrgustel märgatavalt väiksem kui merepinnal, ning sama maapinnakiirus vastab eri tingimustes erinevatele Machi arvudele. Vool käitub kvalitatiivselt erinevalt neljas režiimis -- allahelikiirusel, ülemineku- ehk transhelikiirusel, ülehelikiirusel ja hüperhelikiirusel --, ning 'helibarjäär' Machi arvu 1 lähedal ei ole sõnasõnaline sein, vaid tegelik, järsk lainetakistuse kasv, kui õhusõidukile hakkavad tekkima põrkelained -- režiim, milles õhusõiduk tegelikult püsib igal ülehelikiirusel, mitte miski, mis jääb 'läbimurdmise' järel selja taha. Ülehelikiiruseline vool pöörab ümber ka mitu allahelikiirusel kehtivat intuitsiooni: kitsenev kanal kiirendab allahelikiirusega voolu, kuid aeglustab ülehelikiirusega voolu, ning laienev kanal teeb vastupidist, mis on täpselt see, miks raketiotsak esmalt kitseneb ja seejärel laieneb (kitseneva-laieneva ehk de Laval' kujuga), et kiirendada vool kitsaimas kohas Machi arvuni 1 ning jätkata selle kiirendamist ülehelikiiruseliselt sealtki edasi.",
+    "sourceHash": "395be50a3411b550",
+    "stale": false
+  },
+  "prerequisites": [
+    "aerodynamics-fundamentals"
+  ]
+}

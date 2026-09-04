@@ -1,0 +1,56 @@
+{
+  "id": "compressible-flow-and-gas-dynamics-item1",
+  "conceptId": "compressible-flow-and-gas-dynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A rocket nozzle narrows and then widens along its length. Why is it shaped this way, given the flow inside starts out subsonic?",
+    "et": "Raketiotsak kitseneb ja seejärel laieneb piki oma pikkust. Miks on see nii kujundatud, kui vool seespool algab allahelikiirusega?",
+    "sourceHash": "14bcd46aa6527082",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The narrowing accelerates the subsonic flow to Mach 1 at the throat, and the subsequent widening keeps accelerating the now-supersonic flow, since converging and diverging ducts have opposite effects above and below Mach 1.",
+        "et": "Kitsenemine kiirendab allahelikiiruselise voolu kitsaimas kohas Machi arvuni 1 ning järgnev laienemine jätkab juba ülehelikiiruselise voolu kiirendamist, kuna kitsenevatel ja laienevatel kanalitel on üle ja alla Machi arvu 1 vastupidine mõju.",
+        "sourceHash": "fa0da4b2034fc6e2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The widening is needed only after the flow has 'broken the sound barrier,' since supersonic flow no longer follows any duct-shape effects at all.",
+        "et": "Laienemine on vajalik alles pärast seda, kui vool on 'helibarjääri läbi murdnud', kuna ülehelikiiruseline vool ei allu enam üldse kanali kuju mõjule.",
+        "sourceHash": "1cb9be92db6a1662",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compressible-flow-and-gas-dynamics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both the narrowing and widening sections accelerate the flow, since a duct always speeds up whatever flow passes through it regardless of Mach number.",
+        "et": "Nii kitsenev kui laienev osa kiirendavad voolu, kuna kanal kiirendab alati läbivat voolu, sõltumata Machi arvust.",
+        "sourceHash": "97b622165f6abcff",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compressible-flow-and-gas-dynamics-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The exact shape only matters at sea level, since the speed of sound is a fixed 343 meters per second everywhere the exhaust travels.",
+        "et": "Täpne kuju on oluline ainult merepinnal, kuna helikiirus on kõikjal, kus heitgaas liigub, fikseeritud 343 meetrit sekundis.",
+        "sourceHash": "54b224af07c62e18",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "compressible-flow-and-gas-dynamics-m2"
+    }
+  ]
+}

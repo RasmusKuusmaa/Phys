@@ -1,0 +1,10 @@
+{
+  "id": "compressible-flow-and-gas-dynamics-m2",
+  "conceptId": "compressible-flow-and-gas-dynamics",
+  "text": {
+    "en": "Believing Mach number corresponds to a single fixed absolute speed, such as treating 'the speed of sound' as always 343 meters per second regardless of conditions -- the local speed of sound actually depends on the air's temperature at that point, and drops noticeably at the cold temperatures found at high altitude, so the same aircraft ground speed corresponds to a higher Mach number at altitude than the same speed would at sea level, and Mach number must always be computed against the local, not a universal, speed of sound.",
+    "et": "Arvamus, et Machi arv vastab ühele fikseeritud absoluutsele kiirusele, näiteks käsitledes 'helikiirust' alati kui 343 meetrit sekundis, sõltumata tingimustest -- kohalik helikiirus sõltub tegelikult õhu temperatuurist selles kohas ning langeb märgatavalt suurtel kõrgustel valitseva külma juures, mistõttu sama õhusõiduki maapinnakiirus vastab kõrgel suuremale Machi arvule kui sama kiirus merepinnal, ning Machi arv tuleb alati arvutada kohaliku, mitte universaalse helikiiruse suhtes.",
+    "sourceHash": "9c33dee29f7ea1f9",
+    "stale": false
+  }
+}

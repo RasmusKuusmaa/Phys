@@ -1,0 +1,10 @@
+{
+  "id": "compressible-flow-and-gas-dynamics-m1",
+  "conceptId": "compressible-flow-and-gas-dynamics",
+  "text": {
+    "en": "Believing 'the sound barrier' is a literal physical wall that becomes progressively harder to push through as an aircraft approaches Mach 1, and is simply left behind once 'broken' -- it is actually a sharp, real rise in wave drag caused by shock waves beginning to form on the aircraft near Mach 1 (the transonic regime), and every speed above Mach 1 is genuinely supersonic flow with its own shock-dominated aerodynamics, not a return to easier, subsonic-like behavior once the aircraft is 'past' the barrier.",
+    "et": "Arvamus, et 'helibarjäär' on sõnasõnaline füüsiline sein, mida on õhusõidukil Machi arvule 1 lähenedes üha raskem läbida ning mis jääb lihtsalt selja taha, kui see on 'läbi murtud' -- see on tegelikult järsk, tõeline lainetakistuse kasv, mille põhjustavad õhusõidukile Machi arvu 1 lähedal (üleminekurežiimis) tekkima hakkavad põrkelained, ning iga kiirus üle Machi arvu 1 on tõeliselt ülehelikiiruseline vool oma põrkelainetel põhineva aerodünaamikaga, mitte tagasipöördumine lihtsama, allahelikiirusele sarnase käitumise juurde, kui õhusõiduk on barjäärist 'üle' saanud.",
+    "sourceHash": "d3c372847a09bfb2",
+    "stale": false
+  }
+}
