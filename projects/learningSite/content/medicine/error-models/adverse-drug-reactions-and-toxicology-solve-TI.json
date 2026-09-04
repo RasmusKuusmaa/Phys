@@ -1,0 +1,37 @@
+{
+  "id": "adverse-drug-reactions-and-toxicology-solve-TI",
+  "formulaId": "adverse-drug-reactions-and-toxicology-formula1",
+  "solveFor": "TI",
+  "mistakes": [
+    {
+      "id": "inverted-the-ratio",
+      "description": {
+        "en": "Inverted the ratio, computing the effective dose divided by the toxic dose instead of the other way round.",
+        "et": "Pööras suhte ümber, arvutades efektiivse annuse jagatuna toksilise annusega, selle asemel et teha vastupidi.",
+        "sourceHash": "707fb1e54c131eb7",
+        "stale": false
+      },
+      "expression": "ED50/TD50"
+    },
+    {
+      "id": "subtracted-instead-of-divided",
+      "description": {
+        "en": "Subtracted the effective dose from the toxic dose instead of dividing one by the other.",
+        "et": "Lahutas efektiivse annuse toksilisest annusest, selle asemel et üht teisega jagada.",
+        "sourceHash": "820adae81d22470a",
+        "stale": false
+      },
+      "expression": "TD50-ED50"
+    },
+    {
+      "id": "used-toxic-dose-alone",
+      "description": {
+        "en": "Used the toxic dose alone as if it were already the therapeutic index, ignoring the effective dose entirely.",
+        "et": "Kasutas toksilist annust üksi, nagu see oleks juba terapeutiline indeks, jättes efektiivse annuse täielikult arvestamata.",
+        "sourceHash": "d2e78e6f0e04071f",
+        "stale": false
+      },
+      "expression": "TD50"
+    }
+  ]
+}

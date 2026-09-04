@@ -1,0 +1,19 @@
+{
+  "id": "adverse-drug-reactions-and-toxicology",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "pharmacology",
+  "title": {
+    "en": "Adverse drug reactions and toxicology",
+    "et": "Kõrvaltoimed ja toksikoloogia",
+    "sourceHash": "6938510cb397787c",
+    "stale": false
+  },
+  "summary": {
+    "en": "An adverse drug reaction is any harmful, unintended effect a drug produces at a dose used for prevention, diagnosis, or treatment, and toxicologists sort them into two broad categories that behave very differently. Type A reactions are predictable extensions of a drug's known pharmacology -- an exaggerated version of the effect the drug is supposed to have, or a side effect that follows directly from its mechanism -- and because they're dose-dependent, they can usually be anticipated, managed by adjusting the dose, and are relatively common. Type B reactions are the opposite: bizarre, not predictable from the drug's known mechanism, not clearly dose-dependent, and often driven by an individual's unique genetic makeup or immune response (a true drug allergy is a Type B reaction), which makes them rare, harder to detect in clinical trials, and harder to manage other than by stopping the drug entirely. Toxicology quantifies how much safety margin a drug has between its therapeutic dose and a harmful one using the therapeutic index, the ratio between the dose that produces toxicity in a defined fraction of a population and the dose that produces the desired effect in that same fraction -- a drug with a large therapeutic index has a wide, forgiving margin between an effective dose and a dangerous one, while a drug with a narrow therapeutic index (several chemotherapy agents and anticoagulants, for instance) requires careful, individualized dosing and monitoring because effective and toxic doses sit close together.",
+    "et": "Kõrvaltoime on igasugune kahjulik, tahtmatu toime, mida ravim tekitab ennetamiseks, diagnoosimiseks või raviks kasutatavas annuses, ning toksikoloogid liigitavad need kahte laia kategooriasse, mis käituvad väga erinevalt. A-tüüpi reaktsioonid on ravimi teadaoleva farmakoloogia prognoositavad laiendused -- liialdatud versioon toimest, mida ravim peakski tekitama, või kõrvaltoime, mis tuleneb otseselt selle mehhanismist -- ning kuna need on annusest sõltuvad, saab neid tavaliselt ette näha, hallata annust kohandades, ning need on suhteliselt sagedased. B-tüüpi reaktsioonid on vastupidised: veidrad, ravimi teadaolevast mehhanismist mitteprognoositavad, selgelt annusest sõltumatud, ning sageli tingitud indiviidi ainulaadsest geneetilisest eripärast või immuunvastusest (tõeline ravimallergia on B-tüüpi reaktsioon), mis muudab need harvaesinevaks, kliinilistes uuringutes raskemini tuvastatavaks ning raskemini hallatavaks muul viisil kui ravimi täielik lõpetamine. Toksikoloogia mõõdab, kui suur ohutusvaru on ravimil terapeutilise ja kahjuliku annuse vahel, kasutades terapeutilist indeksit -- suhet annuse vahel, mis tekitab toksilisuse kindlaksmääratud osal populatsioonist, ja annuse vahel, mis tekitab soovitud toime samal osal --, kusjuures suure terapeutilise indeksiga ravimil on lai, andestav varu efektiivse ja ohtliku annuse vahel, samas kui kitsa terapeutilise indeksiga ravim (näiteks mitmed keemiaravi ained ja antikoagulandid) vajab hoolikat, individuaalset annustamist ja jälgimist, kuna efektiivne ja toksiline annus asuvad üksteisele lähedal.",
+    "sourceHash": "46e1fbc719dadc73",
+    "stale": false
+  },
+  "prerequisites": []
+}

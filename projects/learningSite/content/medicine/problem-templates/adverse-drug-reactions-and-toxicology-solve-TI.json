@@ -1,0 +1,38 @@
+{
+  "id": "adverse-drug-reactions-and-toxicology-solve-TI",
+  "formulaId": "adverse-drug-reactions-and-toxicology-formula1",
+  "variables": [
+    {
+      "symbol": "TD50",
+      "min": 1,
+      "max": 100,
+      "unit": "g",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "ED50",
+      "min": 0.1,
+      "max": 20,
+      "unit": "g",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "TD50",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "ED50",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "TD50",
+      "right": "ED50"
+    }
+  ],
+  "solveFor": "TI"
+}

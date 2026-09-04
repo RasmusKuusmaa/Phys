@@ -1,0 +1,10 @@
+{
+  "id": "adverse-drug-reactions-and-toxicology-m2",
+  "conceptId": "adverse-drug-reactions-and-toxicology",
+  "text": {
+    "en": "A drug's side effects and its therapeutic effect are unrelated -- the side effects are just bad luck, separate from how the drug works -- in reality, many Type A adverse reactions are a direct, mechanistic extension of the same action that makes the drug effective, just occurring in a tissue or to a degree that isn't wanted, which is why they're predictable from the drug's known pharmacology.",
+    "et": "Ravimi kõrvaltoimed ja selle terapeutiline toime on omavahel seosetud -- kõrvaltoimed on lihtsalt paha õnn, eraldiseisvad sellest, kuidas ravim toimib -- tegelikult on paljud A-tüüpi kõrvaltoimed sama toime otsene, mehhanistlik laiendus, mis muudab ravimi efektiivseks, lihtsalt esinedes koes või ulatuses, mis pole soovitud, mistõttu need on ravimi teadaoleva farmakoloogia põhjal prognoositavad.",
+    "sourceHash": "83ec0ff1e7c6bf70",
+    "stale": false
+  }
+}

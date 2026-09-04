@@ -1,0 +1,56 @@
+{
+  "id": "adverse-drug-reactions-and-toxicology-item1",
+  "conceptId": "adverse-drug-reactions-and-toxicology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient develops a severe, unexpected allergic reaction to a drug at their normal prescribed dose, a reaction not seen in most other patients taking the same drug. How would a toxicologist classify this reaction?",
+    "et": "Patsiendil tekib tõsine, ootamatu allergiline reaktsioon ravimile tema tavapärase väljakirjutatud annuse juures, reaktsioon, mida enamikul teistel sama ravimit võtvatel patsientidel ei esine. Kuidas toksikoloog selle reaktsiooni liigitaks?",
+    "sourceHash": "ef97be536571eeee",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A Type B reaction -- it's not predictable from the drug's known pharmacology, doesn't depend straightforwardly on dose, and reflects this individual's unique immune response rather than the drug's general mechanism.",
+        "et": "B-tüüpi reaktsioon -- see ei ole ravimi teadaoleva farmakoloogia põhjal prognoositav, ei sõltu otseselt annusest ning peegeldab selle konkreetse indiviidi ainulaadset immuunvastust, mitte ravimi üldist mehhanismi.",
+        "sourceHash": "89ff1b5986114664",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A Type A reaction -- since it happened at the normal prescribed dose, it must be dose-related and therefore predictable.",
+        "et": "A-tüüpi reaktsioon -- kuna see juhtus normaalse väljakirjutatud annuse juures, peab see olema annusega seotud ja seega prognoositav.",
+        "sourceHash": "a9836c13b2ecadcb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adverse-drug-reactions-and-toxicology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This must actually be part of the drug's intended therapeutic mechanism, just manifesting unexpectedly in this patient.",
+        "et": "See peab tegelikult olema osa ravimi kavandatud terapeutilisest mehhanismist, mis lihtsalt avaldub selles patsiendis ootamatult.",
+        "sourceHash": "3173c253562e3312",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adverse-drug-reactions-and-toxicology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This tells us the drug must have a narrow therapeutic index, since a low therapeutic index is what causes reactions like this.",
+        "et": "See ütleb meile, et ravimil peab olema kitsas terapeutiline indeks, kuna madal terapeutiline indeks põhjustabki selliseid reaktsioone.",
+        "sourceHash": "10bea0a04f8d3c68",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "adverse-drug-reactions-and-toxicology-m3"
+    }
+  ]
+}

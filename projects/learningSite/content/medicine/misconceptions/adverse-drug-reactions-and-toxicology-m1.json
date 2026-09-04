@@ -1,0 +1,10 @@
+{
+  "id": "adverse-drug-reactions-and-toxicology-m1",
+  "conceptId": "adverse-drug-reactions-and-toxicology",
+  "text": {
+    "en": "An adverse drug reaction only happens if you take too much of the drug (an overdose) -- in reality, Type B reactions in particular are often not dose-dependent at all and can occur at a normal, correctly prescribed dose in a susceptible individual, driven by their unique genetics or immune response rather than the amount taken.",
+    "et": "Kõrvaltoime tekib ainult siis, kui ravimit võetakse liiga palju (üledoos) -- tegelikult ei ole eriti B-tüüpi reaktsioonid sageli üldse annusest sõltuvad ning need võivad tekkida normaalse, õigesti väljakirjutatud annuse juures vastuvõtlikul inimesel, tingituna tema ainulaadsest geneetikast või immuunvastusest, mitte võetud kogusest.",
+    "sourceHash": "48fb77b1490a819c",
+    "stale": false
+  }
+}

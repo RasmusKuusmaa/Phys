@@ -1,0 +1,10 @@
+{
+  "id": "adverse-drug-reactions-and-toxicology-m3",
+  "conceptId": "adverse-drug-reactions-and-toxicology",
+  "text": {
+    "en": "A high therapeutic index means a drug is generally 'safer' in every sense, including being less likely to cause any adverse reaction at all -- in reality, the therapeutic index specifically measures the numerical gap between an effective dose and a toxic dose, not the overall frequency or severity of all possible adverse reactions; a drug can have a wide therapeutic index and still commonly cause unpleasant, dose-independent Type B reactions in some individuals.",
+    "et": "Kõrge terapeutiline indeks tähendab, et ravim on üldiselt 'ohutum' igas mõttes, sealhulgas väiksema tõenäosusega tekitab üldse mistahes kõrvaltoimet -- tegelikult mõõdab terapeutiline indeks konkreetselt arvulist lõhet efektiivse ja toksilise annuse vahel, mitte kõigi võimalike kõrvaltoimete üldist sagedust või raskust; ravimil võib olla lai terapeutiline indeks ja see võib siiski mõnel indiviidil sageli tekitada ebameeldivaid, annusest sõltumatuid B-tüüpi reaktsioone.",
+    "sourceHash": "45ba6124af5c3800",
+    "stale": false
+  }
+}

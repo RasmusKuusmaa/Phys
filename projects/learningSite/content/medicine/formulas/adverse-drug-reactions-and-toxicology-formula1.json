@@ -1,0 +1,47 @@
+{
+  "id": "adverse-drug-reactions-and-toxicology-formula1",
+  "conceptId": "adverse-drug-reactions-and-toxicology",
+  "latex": "TI = \\frac{TD_{50}}{ED_{50}}",
+  "symbols": [
+    {
+      "symbol": "TI",
+      "name": {
+        "en": "therapeutic index",
+        "et": "terapeutiline indeks",
+        "sourceHash": "fa1a3a4379d87732",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "TD50",
+      "name": {
+        "en": "dose",
+        "et": "annus",
+        "sourceHash": "daf81fe9648c6ae0",
+        "stale": false
+      },
+      "unit": "g"
+    },
+    {
+      "symbol": "ED50",
+      "name": {
+        "en": "dose",
+        "et": "annus",
+        "sourceHash": "daf81fe9648c6ae0",
+        "stale": false
+      },
+      "unit": "g"
+    }
+  ],
+  "solveFor": [
+    "TI",
+    "TD50",
+    "ED50"
+  ],
+  "expressions": {
+    "TI": "TD50/ED50",
+    "TD50": "TI*ED50",
+    "ED50": "TD50/TI"
+  }
+}
