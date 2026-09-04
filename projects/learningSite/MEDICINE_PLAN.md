@@ -700,26 +700,47 @@ are reached later in the roadmap.
 
 ### Module `gastrointestinal-and-hepatic-medicine`
 
-- [ ] Peptic ulcer disease mechanisms (H. pylori and NSAID mechanisms,
+- [x] Peptic ulcer disease mechanisms (H. pylori and NSAID mechanisms,
       mucosal defense vs. acid injury; prerequisite: digestive-system-
-      anatomy-and-physiology)
-- [ ] Inflammatory bowel disease mechanisms (Crohn's disease vs. ulcerative
+      anatomy-and-physiology; kept conceptual)
+- [x] Inflammatory bowel disease mechanisms (Crohn's disease vs. ulcerative
       colitis as mechanistically distinct patterns of chronic intestinal
       inflammation — location and depth of involvement; prerequisite:
-      digestive-system-anatomy-and-physiology)
-- [ ] Liver cirrhosis and portal hypertension (progressive fibrosis
+      digestive-system-anatomy-and-physiology; kept conceptual)
+- [x] Liver cirrhosis and portal hypertension (progressive fibrosis
       mechanism, downstream portal hypertension consequences; prerequisite:
-      digestive-system-anatomy-and-physiology)
-- [ ] Viral hepatitis mechanisms (how hepatitis viruses damage liver
+      digestive-system-anatomy-and-physiology; kept conceptual)
+- [x] Viral hepatitis mechanisms (how hepatitis viruses damage liver
       tissue, acute vs. chronic infection; prerequisite: viral-structure-
-      and-replication)
-- [ ] Pancreatitis mechanisms (the autodigestion mechanism — premature
+      and-replication; kept conceptual)
+- [x] Pancreatitis mechanisms (the autodigestion mechanism — premature
       enzyme activation within the pancreas itself; prerequisite:
-      pancreatic-endocrine-function-and-glucose-homeostasis)
-- [ ] Malabsorption syndrome mechanisms (celiac disease, pancreatic
+      pancreatic-endocrine-function-and-glucose-homeostasis; kept
+      conceptual)
+- [x] Malabsorption syndrome mechanisms (celiac disease, pancreatic
       exocrine insufficiency, and other causes as a shared mechanistic
       category — failure at a specific step of digestion or absorption;
-      prerequisite: digestive-system-anatomy-and-physiology)
+      prerequisite: digestive-system-anatomy-and-physiology; kept
+      conceptual)
+
+Module complete: 6 gastrointestinal-and-hepatic-medicine concepts, authored
+directly by the coordinator (forking remained unavailable). All kept
+conceptual: each concept's real content is a mechanistic distinction
+(defense vs. acid production, location/depth of inflammation, structural
+fibrosis and its downstream vascular consequence, immune-mediated vs.
+direct viral damage, duct obstruction vs. cellular disruption, digestion
+vs. absorption failure) rather than a single clean numeric relationship.
+`npm run validate:content` (9 subjects, 600 concepts), `npm run
+lint:terminology` (266 glossary terms), and `npm run typecheck` all pass;
+every resource URL verified live with `curl`. Three Estonian resources are
+honest close/adjacent matches rather than exact-topic matches, since
+Estonian Wikipedia has no dedicated article at these exact scopes:
+`peptic-ulcer-disease-mechanisms` links to "Helicobacter pylori" (the
+concept's primary causative organism, no dedicated peptic-ulcer article
+exists), `inflammatory-bowel-disease-mechanisms` links to "Crohni tõbi"
+(one of the two diseases the concept covers), and `viral-hepatitis-
+mechanisms` links to "B-hepatiidi viirus" (hepatitis B specifically, no
+general viral-hepatitis article exists).
 
 ### Module `renal-and-urologic-medicine`
 
