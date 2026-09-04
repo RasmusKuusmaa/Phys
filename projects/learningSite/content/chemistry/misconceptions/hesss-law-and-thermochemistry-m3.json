@@ -1,0 +1,10 @@
+{
+  "id": "hesss-law-and-thermochemistry-m3",
+  "conceptId": "hesss-law-and-thermochemistry",
+  "text": {
+    "en": "Believing Hess's law is only a theoretical curiosity with no genuine practical use, since real enthalpy changes should always be measured directly by experiment -- many chemically important reactions are too slow, too dangerous, produce mixtures of products rather than one clean product, or are otherwise genuinely impractical to measure directly by calorimetry; Hess's law provides a real, widely used practical route around this problem, calculating such a reaction's enthalpy change indirectly by combining the measured enthalpies of other, more convenient reactions that connect the same reactants and products through a different, measurable pathway.",
+    "et": "Arvamus, et Hessi seadus on ainult teoreetiline kuriositeet ilma tõelise praktilise kasutuseta, kuna reaalseid entalpiamuutusi tuleks alati mõõta otse eksperimendi teel -- paljud keemiliselt olulised reaktsioonid on liiga aeglased, liiga ohtlikud, toodavad produktide segusid ühe puhta produkti asemel, või on muidu tõeliselt ebapraktilised otse kalorimeetria abil mõõtmiseks; Hessi seadus pakub reaalset, laialdaselt kasutatavat praktilist teed sellest probleemist mööda, arvutades sellise reaktsiooni entalpiamuutuse kaudselt, kombineerides teiste, mugavamate reaktsioonide mõõdetud entalpiaid, mis ühendavad samu lähteaineid ja produkte erineva, mõõdetava tee kaudu.",
+    "sourceHash": "a9f1edd6fc1390a2",
+    "stale": false
+  }
+}

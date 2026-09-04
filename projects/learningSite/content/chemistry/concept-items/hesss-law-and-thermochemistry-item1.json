@@ -1,0 +1,56 @@
+{
+  "id": "hesss-law-and-thermochemistry-item1",
+  "conceptId": "hesss-law-and-thermochemistry",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A reaction converting reactants A into products B is too slow to measure its enthalpy change directly by calorimetry. Why can Hess's law still be used to calculate that enthalpy change indirectly?",
+    "et": "Reaktsioon, mis muudab lähteained A produktideks B, on liiga aeglane, et mõõta selle entalpiamuutust otse kalorimeetria abil. Miks saab Hessi seadust siiski kasutada selle entalpiamuutuse kaudseks arvutamiseks?",
+    "sourceHash": "9d8147e044770e1c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Enthalpy is a state function depending only on the initial and final states, so combining the measured enthalpies of any other convenient sequence of steps connecting A to B gives exactly the same total enthalpy change.",
+        "et": "Entalpia on olekufunktsioon, mis sõltub ainult alg- ja lõppolekust, seega annab mistahes teise mugava sammude jada mõõdetud entalpiate kombineerimine, mis ühendab A-d B-ga, täpselt sama kogu entalpiamuutuse.",
+        "sourceHash": "b5f594710b003111",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It cannot actually be used unless the chosen intermediate steps correspond to the exact real physical mechanism the slow reaction genuinely follows.",
+        "et": "Seda ei saa tegelikult kasutada, kui valitud vahesammud ei vasta täpsele reaalsele füüsikalisele mehhanismile, mida aeglane reaktsioon tõeliselt järgib.",
+        "sourceHash": "fae784a79623c7a3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hesss-law-and-thermochemistry-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Different routes between the same reactants and products could give different enthalpy changes, so Hess's law only provides a rough estimate rather than the exact value.",
+        "et": "Erinevad teed samade lähteainete ja produktide vahel võiksid anda erinevaid entalpiamuutusi, seega annab Hessi seadus ainult ligikaudse hinnangu, mitte täpse väärtuse.",
+        "sourceHash": "2ee626778796ecfd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hesss-law-and-thermochemistry-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Hess's law is purely theoretical and cannot actually be applied to a real practical situation like this one.",
+        "et": "Hessi seadus on puhtalt teoreetiline ega saa tegelikult rakenduda sellisele reaalsele praktilisele olukorrale.",
+        "sourceHash": "57cfa7d1deede34b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hesss-law-and-thermochemistry-m3"
+    }
+  ]
+}

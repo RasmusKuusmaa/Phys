@@ -1,0 +1,10 @@
+{
+  "id": "hesss-law-and-thermochemistry-m1",
+  "conceptId": "hesss-law-and-thermochemistry",
+  "text": {
+    "en": "Believing the total enthalpy change of a reaction depends on which specific sequence of intermediate steps or reaction mechanism is actually followed, so that two different routes between the same reactants and products could in principle release or absorb different total amounts of heat -- enthalpy is specifically a state function, meaning its value depends only on the identity of a system's initial and final states, not on the path taken between them; two genuinely different routes connecting the same starting reactants to the same final products must therefore have exactly the same total enthalpy change, which is precisely the property Hess's law exploits.",
+    "et": "Arvamus, et reaktsiooni kogu entalpiamuutus sõltub sellest, milline konkreetne vahesammude jada või reaktsioonimehhanism tegelikult järgitakse, nii et kaks erinevat teed samade lähteainete ja produktide vahel võiksid põhimõtteliselt vabastada või neelata erineva koguse soojust -- entalpia on spetsiifiliselt olekufunktsioon, mis tähendab, et selle väärtus sõltub ainult süsteemi alg- ja lõppoleku identiteedist, mitte nendevahelisest teest; kaks tõeliselt erinevat teed, mis ühendavad samu lähteaineid samade lõpp-produktidega, peavad seetõttu omama täpselt sama kogu entalpiamuutust, mis ongi täpselt omadus, mida Hessi seadus ära kasutab.",
+    "sourceHash": "0c9400fcca0d4266",
+    "stale": false
+  }
+}

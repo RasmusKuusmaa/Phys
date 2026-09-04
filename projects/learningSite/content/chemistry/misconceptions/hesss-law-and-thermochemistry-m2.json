@@ -1,0 +1,10 @@
+{
+  "id": "hesss-law-and-thermochemistry-m2",
+  "conceptId": "hesss-law-and-thermochemistry",
+  "text": {
+    "en": "Believing Hess's law only applies to sequences of steps that correspond to an actual, physically realizable reaction mechanism -- Hess's law specifically permits combining the enthalpy changes of any convenient sequence of steps connecting the same starting reactants to the same final products, even a sequence of entirely hypothetical reactions that the real reaction never actually passes through mechanistically; because enthalpy depends only on initial and final states, the calculation works regardless of whether the chosen intermediate steps correspond to anything physically real, which is exactly what makes the law useful for calculating enthalpies of reactions that cannot be measured directly.",
+    "et": "Arvamus, et Hessi seadus kehtib ainult sammude jadade jaoks, mis vastavad tegelikule, füüsiliselt teostatavale reaktsioonimehhanismile -- Hessi seadus lubab spetsiifiliselt kombineerida mistahes mugava sammude jada entalpiamuutusi, mis ühendavad samu lähteaineid samade lõpp-produktidega, isegi täiesti hüpoteetiliste reaktsioonide jada, mida reaalne reaktsioon kunagi tegelikult mehhanistlikult ei läbi; kuna entalpia sõltub ainult alg- ja lõppolekust, töötab arvutus olenemata sellest, kas valitud vahesammud vastavad millelegi füüsiliselt reaalsele, mis ongi täpselt see, mis muudab seaduse kasulikuks selliste reaktsioonide entalpiate arvutamiseks, mida ei saa otse mõõta.",
+    "sourceHash": "d90bb108791adde1",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hesss-law-and-thermochemistry",
+  "subject": "chemistry",
+  "level": "L1",
+  "module": "general-chemistry",
+  "title": {
+    "en": "Hess's law and thermochemistry",
+    "et": "Hessi seadus ja termokeemia",
+    "sourceHash": "8b9afdf885e7c023",
+    "stale": false
+  },
+  "summary": {
+    "en": "The heat released or absorbed by a chemical reaction depends only on the identity of the starting reactants and final products, not on the specific sequence of steps or intermediate compounds the reaction actually passes through along the way, a direct consequence of enthalpy being a state function -- a quantity whose value depends only on a system's current state, not on the path taken to reach it -- and Hess's law exploits this fact directly: the overall enthalpy change of any reaction can be calculated by adding together the enthalpy changes of any convenient sequence of steps that starts at the same reactants and ends at the same products, even a sequence of entirely hypothetical steps the real reaction never actually follows, which is exactly what lets chemists calculate the enthalpy change of reactions that are too slow, too dangerous, or otherwise impractical to measure directly, simply by combining the measured enthalpies of other, more convenient reactions that connect the same starting and ending points.",
+    "et": "Keemilise reaktsiooni poolt vabastatud või neelatud soojus sõltub ainult lähteainete ja lõpp-produktide identiteedist, mitte konkreetsest sammude jadast või vaheühenditest, mida reaktsioon tegelikult teel läbib, otsene tagajärg sellest, et entalpia on olekufunktsioon -- suurus, mille väärtus sõltub ainult süsteemi praegusest olekust, mitte sinna jõudmiseks kasutatud teest --, ning Hessi seadus kasutab seda fakti otseselt ära: mistahes reaktsiooni üldist entalpiamuutust saab arvutada, liites kokku mistahes mugava sammude jada entalpiamuutused, mis algab samadest lähteainetest ja lõpeb samade produktidega, isegi täiesti hüpoteetiliste sammude jada, mida reaalne reaktsioon kunagi tegelikult ei järgi, mis ongi täpselt see, mis lubab keemikutel arvutada reaktsioonide entalpiamuutust, mis on liiga aeglased, liiga ohtlikud või muidu ebapraktilised otse mõõtmiseks, lihtsalt kombineerides teiste, mugavamate reaktsioonide mõõdetud entalpiaid, mis ühendavad samu alguse ja lõpu punkte.",
+    "sourceHash": "d76d4cf22bdb76c2",
+    "stale": false
+  },
+  "prerequisites": [
+    "stoichiometry"
+  ]
+}
