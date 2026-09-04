@@ -1,0 +1,56 @@
+{
+  "id": "hormonal-optimization-and-endocrine-self-experimentation-item1",
+  "conceptId": "hormonal-optimization-and-endocrine-self-experimentation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A person with normal thyroid function starts taking supplemental thyroid hormone anyway, reasoning that since it's a substance their body already makes, it can only help or do nothing. What's the flaw in this reasoning?",
+    "et": "Inimene, kellel on normaalne kilpnäärme funktsioon, hakkab siiski võtma täiendavat kilpnäärmehormooni, arutledes, et kuna see on aine, mida tema keha juba toodab, saab see ainult aidata või mitte midagi teha. Mis on selle arutluskäigu viga?",
+    "sourceHash": "aab4fccc05a40445",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Thyroid hormone levels are regulated by a feedback loop, so external hormone can push the system into iatrogenic hyperthyroidism -- an overactive-thyroid state with real cardiovascular and bone-density consequences -- rather than simply adding a harmless extra amount.",
+        "et": "Kilpnäärmehormooni tasemed on reguleeritud tagasisideahelaga, mistõttu väline hormoon võib lükata süsteemi iatrogeensesse hüpertüreoosi -- ülitalitleva kilpnäärme seisundisse tõeliste südame-veresoonkonna ja luutiheduse tagajärgedega --, mitte lihtsalt lisada kahjutut lisakogust.",
+        "sourceHash": "7a15fa0e43abed71",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There is no flaw -- since the body already produces thyroid hormone naturally, any additional amount from a supplement is processed the same way and carries no additional risk.",
+        "et": "Vigu ei ole -- kuna keha juba toodab kilpnäärmehormooni looduslikult, töödeldakse mistahes täiendavat kogust toidulisandist samamoodi ega kanna täiendavat riski.",
+        "sourceHash": "18fac1edb8db6517",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hormonal-optimization-and-endocrine-self-experimentation-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The only flaw is that thyroid hormone supplements don't actually contain real thyroid hormone, so the concern is about ineffectiveness, not safety.",
+        "et": "Ainus viga on see, et kilpnäärmehormooni toidulisandid ei sisalda tegelikult päris kilpnäärmehormooni, mistõttu on mure ebaefektiivsuse, mitte ohutuse pärast.",
+        "sourceHash": "d860ec071beeeae5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hormonal-optimization-and-endocrine-self-experimentation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The flaw only matters for long-term use -- a short course of supplemental thyroid hormone would simply return the system to its exact prior baseline once stopped, with no lasting effect either way.",
+        "et": "Viga on oluline ainult pikaajalise kasutuse korral -- lühike täiendava kilpnäärmehormooni kuur taastaks süsteemi pärast peatamist lihtsalt täpselt selle eelnevale lähtetasemele, ilma püsiva mõjuta kummalgi suunal.",
+        "sourceHash": "2c783a65cd4b9841",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hormonal-optimization-and-endocrine-self-experimentation-m2"
+    }
+  ]
+}

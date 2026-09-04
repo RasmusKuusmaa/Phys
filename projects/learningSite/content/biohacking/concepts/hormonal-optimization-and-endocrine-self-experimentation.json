@@ -1,0 +1,19 @@
+{
+  "id": "hormonal-optimization-and-endocrine-self-experimentation",
+  "subject": "biohacking",
+  "level": "L2",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Hormonal optimization and endocrine self-experimentation",
+    "et": "Hormonaalne optimeerimine ja endokriinne eneseeksperimenteerimine",
+    "sourceHash": "16f5fc5358a9aa6e",
+    "stale": false
+  },
+  "summary": {
+    "en": "Testosterone and thyroid hormones are the two most commonly self-optimized hormones in biohacking communities, and both illustrate the same core problem: a hormone's blood level is regulated by a feedback loop (the body senses the current level and adjusts its own production up or down to compensate), so pushing a hormone level up externally, without medical supervision, tends to suppress the body's own production of it -- sometimes lastingly. For testosterone specifically, self-administered exogenous testosterone (or precursor supplements marketed as 'boosters', most of which have weak or no evidence of actually raising testosterone in people who aren't already deficient) can suppress the hypothalamic-pituitary-gonadal axis that normally drives the body's own production, and stopping abruptly after a period of suppression can leave someone with lower natural testosterone than before they started, not just back to baseline. For thyroid hormone, taking supplemental thyroid hormone while one's own thyroid function is normal risks iatrogenic hyperthyroidism (an overactive-thyroid state induced by the treatment itself) with real cardiovascular and bone-density consequences, precisely because the thyroid axis behaves the same way -- suppressible by external hormone, not simply topped up by it. In both cases, a clinically supervised protocol differs from an unsupervised one specifically in the monitoring most biohacking use skips: baseline and follow-up bloodwork to confirm a genuine deficiency exists before treating it, and periodic monitoring afterward to catch suppression or overcorrection before it becomes a lasting problem.",
+    "et": "Testosteroon ja kilpnäärmehormoonid on kaks kõige sagedamini iseoptimeeritud hormooni biohäkkimise kogukondades, ning mõlemad illustreerivad sama põhiprobleemi: hormooni vere tase on reguleeritud tagasisideahelaga (keha tajub hetketaset ja kohandab oma tootmist üles või alla kompenseerimiseks), mistõttu hormoonitaseme väline tõstmine ilma meditsiinilise järelevalveta kipub pärssima keha enda tootmist -- mõnikord püsivalt. Testosterooni puhul konkreetselt võib iseenda manustatud eksogeenne testosteroon (või eelühendite toidulisandid, mida turundatakse kui 'tõstjaid', millest enamikul on nõrk või puudub tõendusmaterjal tegelikult testosterooni tõstmise kohta inimestel, kellel see juba puudulik ei ole) pärssida hüpotalamuse-hüpofüüsi-gonaadi telge, mis normaalselt juhib keha enda tootmist, ning järsk peatamine pärast pärssimisperioodi võib jätta inimese madalama loomuliku testosteroonitasemega kui enne alustamist, mitte lihtsalt tagasi lähtetasemele. Kilpnäärmehormooni puhul kannab täiendava kilpnäärmehormooni võtmine ajal, mil oma kilpnäärme funktsioon on normaalne, iatrogeense hüpertüreoosi riski (ravi enda esile kutsutud ülitalitleva kilpnäärme seisund) koos tõeliste südame-veresoonkonna ja luutiheduse tagajärgedega, just sellepärast, et kilpnäärme telg käitub samamoodi -- välise hormooniga pärsitav, mitte lihtsalt selle poolt täiendatav. Mõlemal juhul erineb kliiniliselt järelevalvatud protokoll järelevalveta protokollist täpselt seiramise poolest, mida enamik biohäkkimise kasutust vahele jätab: lähte- ja järelvereanalüüsid, et kinnitada tõeline puudulikkus enne selle ravimist, ning perioodiline järelseire pärast, et tabada pärssimine või ülekorrigeerimine enne, kui sellest saab püsiv probleem.",
+    "sourceHash": "afb63cd42e3bca60",
+    "stale": false
+  },
+  "prerequisites": []
+}
