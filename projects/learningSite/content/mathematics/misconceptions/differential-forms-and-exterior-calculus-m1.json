@@ -1,0 +1,10 @@
+{
+  "id": "differential-forms-and-exterior-calculus-m1",
+  "conceptId": "differential-forms-and-exterior-calculus",
+  "text": {
+    "en": "Believing the gradient, curl, and divergence are three fundamentally separate operations that only happen to be grouped together in a vector calculus course -- exterior calculus reveals they are one single operation, the exterior derivative, applied to objects (differential forms) of different degree: the gradient is the exterior derivative acting on a 0-form (an ordinary scalar function), the curl is the exterior derivative acting on a 1-form, and the divergence is the exterior derivative acting on a 2-form, so the three familiar operations are the same underlying construction viewed at three different degrees, not three unrelated rules.",
+    "et": "Arvamus, et gradient, rootor ja divergents on kolm fundamentaalselt eraldiseisvat operatsiooni, mis lihtsalt juhtuvad olema koos rühmitatud ühes vektoranalüüsi kursuses -- väline arvutus paljastab, et need on üks ainus operatsioon, väline tuletis, mida rakendatakse erineva astmega objektidele (diferentsiaalvormidele): gradient on väline tuletis, mis toimib 0-vormile (tavaline skalaarne funktsioon), rootor on väline tuletis, mis toimib 1-vormile, ning divergents on väline tuletis, mis toimib 2-vormile, seega on kolm tuttavat operatsiooni sama aluseks oleva konstruktsiooni vaatlus kolmel erineval astmel, mitte kolm mitteseotud reeglit.",
+    "sourceHash": "06206e6be1b9f584",
+    "stale": false
+  }
+}

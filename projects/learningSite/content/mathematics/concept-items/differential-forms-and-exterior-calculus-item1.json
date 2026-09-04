@@ -1,0 +1,56 @@
+{
+  "id": "differential-forms-and-exterior-calculus-item1",
+  "conceptId": "differential-forms-and-exterior-calculus",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Green's theorem, Stokes' theorem, and the divergence theorem are traditionally taught as three separate results. What does the differential-forms reformulation reveal about their relationship?",
+    "et": "Greeni teoreemi, Stokesi teoreemi ja divergentsiteoreemi õpetatakse traditsiooniliselt kolme eraldi tulemusena. Mida paljastab diferentsiaalvormide ümbersõnastus nende omavahelise suhte kohta?",
+    "sourceHash": "d7804cceda7f5840",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "All three are special cases of one generalized Stokes' theorem, differing only in the dimension and the degree of form the single general statement is applied to.",
+        "et": "Kõik kolm on ühe üldistatud Stokesi teoreemi erijuhud, erinedes ainult selle poolest, millisele dimensioonile ja millise astmega vormile üksikut üldist väidet rakendatakse.",
+        "sourceHash": "ec3850e51692b484",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They remain three genuinely independent theorems even under the differential-forms reformulation, each still requiring its own separate proof.",
+        "et": "Need jäävad diferentsiaalvormide ümbersõnastuse all endiselt kolmeks tõeliselt sõltumatuks teoreemiks, millest igaüks nõuab endiselt oma eraldi tõestust.",
+        "sourceHash": "58410c3764127623",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "differential-forms-and-exterior-calculus-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The reformulation shows they are unrelated to the gradient, curl, and divergence, which remain a completely separate set of three distinct operations.",
+        "et": "Ümbersõnastus näitab, et need on mitteseotud gradiendi, rootori ja divergentsiga, mis jäävad täiesti eraldiseisvaks kolme eristuva operatsiooni komplektiks.",
+        "sourceHash": "d936c1cc6267fcdc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "differential-forms-and-exterior-calculus-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The classical three-dimensional vector formulations are already maximally general, and the differential-forms language adds abstraction without extending their applicability at all.",
+        "et": "Klassikalised kolmemõõtmelised vektorformuleeringud on juba maksimaalselt üldised, ning diferentsiaalvormide keel lisab abstraktsust ilma nende rakendatavust üldse laiendamata.",
+        "sourceHash": "ac2168cf6f741a72",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "differential-forms-and-exterior-calculus-m3"
+    }
+  ]
+}

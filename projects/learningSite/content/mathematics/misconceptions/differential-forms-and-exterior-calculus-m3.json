@@ -1,0 +1,10 @@
+{
+  "id": "differential-forms-and-exterior-calculus-m3",
+  "conceptId": "differential-forms-and-exterior-calculus",
+  "text": {
+    "en": "Believing the classical vector calculus formulas for gradient, curl, and divergence in ordinary three-dimensional Euclidean space are already the most general possible formulation, with the exterior calculus reformulation being merely a more abstract but equally limited restatement -- the classical vector formulas are specifically tied to three spatial dimensions (the curl, in particular, relies on a cross-product-like construction only well-defined in three dimensions) and to flat Euclidean geometry, while the differential-forms formulation generalizes cleanly and without modification to curved spaces of any dimension, which is precisely why it, rather than the classical vector formulas, is the natural language used in general relativity and higher-dimensional geometry.",
+    "et": "Arvamus, et klassikalised vektoranalüüsi valemid gradiendi, rootori ja divergentsi jaoks tavalises kolmemõõtmelises Eukleidilises ruumis on juba kõige üldisem võimalik formuleering, kusjuures välise arvutuse ümbersõnastus on lihtsalt abstraktsem, kuid samavõrra piiratud ümberütlemine -- klassikalised vektorvalemid on spetsiifiliselt seotud kolme ruumilise mõõtmega (rootor, eriti, tugineb ristkorrutise-taolisele konstruktsioonile, mis on hästi defineeritud ainult kolmes dimensioonis) ja lameda Eukleidilise geomeetriaga, samal ajal kui diferentsiaalvormide formuleering üldistub puhtalt ja ilma modifikatsioonita mistahes dimensiooniga kõveratesse ruumidesse, mis ongi täpselt põhjus, miks see, mitte klassikalised vektorvalemid, on loomulik keel, mida kasutatakse üldrelatiivsusteoorias ja kõrgemamõõtmelises geomeetrias.",
+    "sourceHash": "299483f6a0a62f8f",
+    "stale": false
+  }
+}

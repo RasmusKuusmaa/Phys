@@ -1,0 +1,22 @@
+{
+  "id": "differential-forms-and-exterior-calculus",
+  "subject": "mathematics",
+  "level": "L4",
+  "module": "vector-calculus",
+  "title": {
+    "en": "Differential forms and exterior calculus",
+    "et": "Diferentsiaalvormid ja väline arvutus",
+    "sourceHash": "861d919dcdaf660a",
+    "stale": false
+  },
+  "summary": {
+    "en": "The gradient, divergence, curl, and the separate theorems named after Green, Stokes, and Gauss that relate them to integrals over boundaries all turn out to be different faces of one single underlying object and one single operation: a differential form, a generalized object designed specifically to be integrated over curves, surfaces, or volumes of the appropriate dimension, and the exterior derivative, one operation that produces a form of one higher degree from any given form, subsuming the gradient, curl, and divergence as its action on 0-forms, 1-forms, and 2-forms respectively, with the single, remarkably compact generalized Stokes' theorem -- the integral of a form's exterior derivative over a region equals the integral of the form itself over that region's boundary -- reproducing every one of the classical vector calculus integral theorems as one special case each, a unification that also generalizes cleanly to curved spaces and arbitrarily many dimensions in a way the original vector formulas, tied specifically to three-dimensional Euclidean space, do not.",
+    "et": "Gradient, divergents, rootor ning eraldi teoreemid, mis on nimetatud Greeni, Stokesi ja Gaussi järgi ja mis seovad need integraalidega üle piiride, osutuvad kõik ühe ainsa aluseks oleva objekti ja ühe ainsa operatsiooni erinevateks nägudeks: diferentsiaalvorm, üldistatud objekt, mis on kavandatud spetsiifiliselt integreerimiseks üle vastava dimensiooniga kõverate, pindade või ruumalade, ning väline tuletis, üks operatsioon, mis toodab mistahes antud vormist ühe astme võrra kõrgema vormi, hõlmates gradiendi, rootori ja divergentsi kui oma toime 0-vormidele, 1-vormidele ja 2-vormidele vastavalt, kusjuures üksik, märkimisväärselt kompaktne üldistatud Stokesi teoreem -- vormi välise tuletise integraal üle piirkonna võrdub vormi enda integraaliga üle selle piirkonna piiri -- reprodutseerib iga klassikalise vektoranalüüsi integraaliteoreemi ühe erijuhtumina, ühendus, mis üldistub ka puhtalt kõveratesse ruumidesse ja suvaliselt paljudesse dimensioonidesse viisil, nagu algsed vektorvalemid, mis on seotud spetsiifiliselt kolmemõõtmelise Eukleidilise ruumiga, ei tee.",
+    "sourceHash": "767d1c13d2c3078b",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-divergence-and-stokes-theorems",
+    "tensor-algebra-and-curvilinear-coordinates"
+  ]
+}

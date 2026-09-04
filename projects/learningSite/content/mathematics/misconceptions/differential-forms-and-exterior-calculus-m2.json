@@ -1,0 +1,10 @@
+{
+  "id": "differential-forms-and-exterior-calculus-m2",
+  "conceptId": "differential-forms-and-exterior-calculus",
+  "text": {
+    "en": "Believing Green's theorem, Stokes' theorem, and the divergence theorem are three genuinely independent results that each require their own separate proof and each apply only in their own specific setting (a plane region, a surface, a solid volume respectively) -- all three are special cases of one single generalized Stokes' theorem for differential forms, which states that a form's exterior derivative integrated over a region equals the form itself integrated over that region's boundary; the classical theorems differ only in which dimension and which degree of form the single general statement is being applied to, not in their underlying content.",
+    "et": "Arvamus, et Greeni teoreem, Stokesi teoreem ja divergentsiteoreem on kolm tõeliselt sõltumatut tulemust, millest igaüks nõuab oma eraldi tõestust ja kehtib ainult oma spetsiifilises kontekstis (vastavalt tasandipiirkond, pind, tahke ruumala) -- kõik kolm on ühe üldistatud Stokesi teoreemi erijuhud diferentsiaalvormide jaoks, mis väidab, et vormi väline tuletis, integreerituna üle piirkonna, võrdub vormi enda integraaliga üle selle piirkonna piiri; klassikalised teoreemid erinevad ainult selle poolest, millisele dimensioonile ja millise astmega vormile üksikut üldist väidet rakendatakse, mitte oma aluseks oleva sisu poolest.",
+    "sourceHash": "5f8ed2307baa3f16",
+    "stale": false
+  }
+}
