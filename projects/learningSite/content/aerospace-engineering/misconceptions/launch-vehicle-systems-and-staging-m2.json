@@ -1,0 +1,10 @@
+{
+  "id": "launch-vehicle-systems-and-staging-m2",
+  "conceptId": "launch-vehicle-systems-and-staging",
+  "text": {
+    "en": "A rocket's total delta-v is limited by whichever single stage has the lowest specific impulse, since that's the 'weakest link' in the chain -- in reality, total mission delta-v is the sum of every stage's own delta-v contribution, each computed from that stage's own mass ratio and specific impulse via the Tsiolkovsky equation, not the minimum across stages; a low-specific-impulse first stage optimized for cheap, high-thrust liftoff paired with a high-specific-impulse upper stage is a completely standard and effective design, not a bottlenecked one.",
+    "et": "Raketi kogu delta-v-d piirab see üksik aste, millel on madalaim erisimpulss, kuna see on ahela 'nõrgim lüli' -- tegelikult on kogu missiooni delta-v iga astme enda delta-v panuse summa, mis igaüks arvutatakse selle astme enda massisuhtest ja erisimpulsist Tsiolkovski võrrandi kaudu, mitte astmete miinimum; odava, suure tõukejõuga stardi jaoks optimeeritud madala erisimpulsiga esimene aste koos kõrge erisimpulsiga ülemise astmega on täiesti tavapärane ja tõhus lahendus, mitte kitsaskohaga disain.",
+    "sourceHash": "f6b20b41051d9972",
+    "stale": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "launch-vehicle-systems-and-staging",
+  "subject": "aerospace-engineering",
+  "level": "L3",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Launch vehicle systems and staging",
+    "et": "Kanderaketi süsteemid ja astmestamine",
+    "sourceHash": "02f5e3656c5be21a",
+    "stale": false
+  },
+  "summary": {
+    "en": "A single rocket stage built entirely of propellant tanks, engines, and structure can only reach a limited final velocity, because as tanks empty the vehicle must keep accelerating the dead weight of the now-empty tanks and engines it no longer needs; staging solves this by splitting the vehicle into multiple self-contained propulsion units stacked on top of each other, each jettisoned once its propellant is spent so that the stages above it never again have to accelerate that stage's now-useless structural mass. The total mission delta-v is simply the sum of each stage's own Tsiolkovsky-equation delta-v, so a multi-stage rocket reaches dramatically higher final velocities than a single-stage vehicle of the same total mass and propellant fraction ever could, which is why every orbital launch vehicle built to date has been staged rather than single-stage-to-orbit. Choosing how to split a fixed total mass budget across stages -- how many stages, and how much mass each one gets -- is a genuine optimization problem: too few, large stages waste propulsion on dead structural mass for too long, while too many, small stages add extra engines, tankage, and separation hardware whose own mass eventually outweighs the staging benefit, so real launch vehicles converge on two or three stages as the practical sweet spot rather than either extreme.",
+    "et": "Üksainus raketiaste, mis koosneb täielikult kütusepaakidest, mootoritest ja konstruktsioonist, suudab saavutada vaid piiratud lõppkiiruse, sest paakide tühjenedes peab sõiduk jätkuvalt kiirendama nüüd juba tühjade paakide ja enam mittevajalike mootorite surnud massi; astmestamine lahendab selle probleemi, jagades sõiduki mitmeks iseseisvaks üksteise peale virnastatud jõuseadme üksuseks, millest igaüks heidetakse ära niipea, kui selle kütus on otsas, nii et ülemised astmed ei pea enam kunagi kiirendama selle astme nüüd kasutut konstruktsioonimassi. Kogu missiooni delta-v on lihtsalt iga astme enda Tsiolkovski võrrandist tuleneva delta-v summa, mistõttu mitmeastmeline rakett saavutab dramaatiliselt kõrgema lõppkiiruse kui ükski sama kogumassi ja kütusemurruga üheastmeline sõiduk kunagi suudaks, ning just seetõttu on iga tänaseni ehitatud orbitaalne kanderakett olnud astmeline, mitte üheastmeline orbiidile. Kindla kogumassieelarve jagamine astmete vahel -- mitu astet ja kui palju massi igaüks saab -- on tõeline optimeerimisülesanne: liiga vähe suuri astmeid raiskab jõuseadet liiga kaua surnud konstruktsioonimassi kiirendamisele, samas kui liiga palju väikeseid astmeid lisab täiendavaid mootoreid, paake ja eraldusseadmeid, mille oma mass kaalub lõpuks üles astmestamise kasu, mistõttu tegelikud kanderaketid koonduvad praktikas kahe või kolme astme peale, mitte kummagi äärmuse suunas.",
+    "sourceHash": "c1a95c84ef8ca04d",
+    "stale": false
+  },
+  "prerequisites": [
+    "propulsion-fundamentals",
+    "advanced-propulsion-and-specific-impulse"
+  ]
+}

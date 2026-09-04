@@ -1,0 +1,10 @@
+{
+  "id": "launch-vehicle-systems-and-staging-m3",
+  "conceptId": "launch-vehicle-systems-and-staging",
+  "text": {
+    "en": "Jettisoning a spent stage is mainly about reducing air resistance/drag on the rest of the vehicle -- in reality, staging's dominant benefit is eliminating the need to keep accelerating the spent stage's structural mass (empty tanks, engines) for the remainder of the flight, a mass/propulsion effect that applies even in the vacuum of space, long after atmospheric drag has become negligible; jettisoning the payload fairing, not a stage, is the aerodynamic-drag-driven event, and even that happens early, once the vehicle is high enough that aerodynamic heating is no longer a concern.",
+    "et": "Kulunud astme mahaheitmine on peamiselt õhutakistuse vähendamiseks ülejäänud sõidukil -- tegelikult on astmestamise põhikasu vajaduse kõrvaldamine kiirendada jätkuvalt kulunud astme konstruktsioonimassi (tühjad paagid, mootorid) lennu ülejäänud osas -- mass-jõuseade efekt, mis kehtib isegi kosmose vaakumis, kaua pärast seda, kui atmosfääri takistus on muutunud tühiseks; kasuliku koorma katte mahaheitmine, mitte astme mahaheitmine, on aerodünaamilisest takistusest tingitud sündmus, ning isegi see toimub varakult, niipea kui sõiduk on piisavalt kõrgel, et aerodünaamiline kuumenemine pole enam probleem.",
+    "sourceHash": "0a78c02d98f1ce3c",
+    "stale": false
+  }
+}

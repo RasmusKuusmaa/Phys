@@ -1,0 +1,10 @@
+{
+  "id": "launch-vehicle-systems-and-staging-m1",
+  "conceptId": "launch-vehicle-systems-and-staging",
+  "text": {
+    "en": "Adding more stages always increases a rocket's final delta-v, so a rocket with ten small stages would outperform one with three larger stages for the same total launch mass -- in reality, each additional stage carries its own engines, tank walls, and separation hardware, all of which are dead mass that has to be launched too; past a certain point the mass penalty of the extra stage hardware outweighs the benefit of shedding empty tanks sooner, which is why real launch vehicles converge on two or three stages rather than adding stages indefinitely.",
+    "et": "Astmete lisamine suurendab alati raketi lõplikku delta-v-d, mistõttu kümne väikese astmega rakett ületaks kolme suurema astmega raketi sama kogu stardimassi juures -- tegelikult kannab iga täiendav aste kaasa oma mootoreid, paagiseinu ja eraldusseadmeid, mis kõik on surnud mass, mida tuleb samuti lennutada; alates teatud punktist kaalub lisaastme riistvara massikaristus üles kasu tühjade paakide kiiremast mahaheitmisest, mistõttu tegelikud kanderaketid koonduvad kahe või kolme astme peale, selle asemel et astmeid lõputult juurde lisada.",
+    "sourceHash": "1328c8b1dc6f7869",
+    "stale": false
+  }
+}

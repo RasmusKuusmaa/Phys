@@ -1,0 +1,56 @@
+{
+  "id": "launch-vehicle-systems-and-staging-item1",
+  "conceptId": "launch-vehicle-systems-and-staging",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A launch vehicle engineer is deciding how many stages to use for a fixed total launch mass. Why don't real launch vehicles simply keep adding more, smaller stages to keep increasing delta-v indefinitely?",
+    "et": "Kanderaketi insener otsustab, mitut astet kasutada kindla kogu stardimassi juures. Miks ei lisa tegelikud kanderaketid lihtsalt üha rohkem väiksemaid astmeid, et delta-v-d lõputult suurendada?",
+    "sourceHash": "e5279d93b55f4e7c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because each additional stage adds its own engines, tank structure, and separation hardware, all of which are dead mass that must still be launched, and past a certain point that added structural mass outweighs the benefit of shedding empty propellant tanks sooner.",
+        "et": "Sest iga täiendav aste lisab oma mootorid, paagikonstruktsiooni ja eraldusseadmed, mis kõik on surnud mass, mida tuleb ikkagi lennutada, ning alates teatud punktist kaalub see lisatud konstruktsioonimass üles kasu tühjade kütusepaakide kiiremast mahaheitmisest.",
+        "sourceHash": "840243f34306ee21",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because delta-v does increase indefinitely with more stages, but launch vehicle designers avoid it purely for manufacturing cost reasons rather than any physical limit.",
+        "et": "Sest delta-v tõesti suureneb astmete lisamisel lõputult, kuid kanderaketi disainerid väldivad seda puhtalt tootmiskulude, mitte füüsikalise piirangu tõttu.",
+        "sourceHash": "3c2cd59935cf31ec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "launch-vehicle-systems-and-staging-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because adding more stages doesn't help once any single stage has a low specific impulse, since that one stage caps the entire vehicle's achievable delta-v regardless of the others.",
+        "et": "Sest astmete lisamine ei aita, kui mõnel üksikul astmel on madal erisimpulss, kuna see üks aste piirab kogu sõiduki saavutatavat delta-v-d, sõltumata teistest.",
+        "sourceHash": "a114365c47f33886",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "launch-vehicle-systems-and-staging-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because additional stages mainly exist to reduce aerodynamic drag, and once a rocket is already above the atmosphere, adding further stages provides no benefit at all.",
+        "et": "Sest täiendavad astmed on olemas peamiselt aerodünaamilise takistuse vähendamiseks, ning kui rakett on juba atmosfäärist kõrgemal, ei anna täiendavate astmete lisamine enam mingit kasu.",
+        "sourceHash": "3c2576bc67112592",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "launch-vehicle-systems-and-staging-m3"
+    }
+  ]
+}
