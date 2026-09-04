@@ -1,0 +1,21 @@
+{
+  "id": "fracture-fatigue-and-creep",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Fracture, fatigue, and creep",
+    "et": "Purunemine, väsimus ja roome",
+    "sourceHash": "c2f71492853004c6",
+    "stale": false
+  },
+  "summary": {
+    "en": "A component can fail in three genuinely distinct ways that have nothing to do with a single overload exceeding the material's static strength: fatigue failure occurs when a stress well below the material's ordinary strength is applied repeatedly, cycle after cycle, allowing a microscopic crack to nucleate at a stress concentration and grow incrementally with each cycle until the remaining cross-section can no longer bear the load and fails suddenly, often after so many cycles of an everyday-seeming stress that no single application would ever have caused concern; creep is a slow, continuous, time-dependent deformation that accumulates under a constant stress held for a long time, particularly significant at temperatures that are a substantial fraction of the material's melting point, where thermally-activated atomic mechanisms let the material gradually change shape even though the applied stress alone would never exceed its ordinary yield strength; and fracture itself can proceed by two qualitatively different modes, ductile fracture that absorbs substantial energy through extensive plastic deformation before finally separating, versus brittle fracture that propagates a crack catastrophically with almost no warning deformation at all, so that engineers must design against all three failure modes independently rather than assuming a component safe under static loading is automatically safe under cyclic loading, sustained loading, or across a wide range of temperatures.",
+    "et": "Komponent võib ebaõnnestuda kolmel tõeliselt erineval viisil, millel ei ole midagi pistmist ühekordse ülekoormusega, mis ületab materjali staatilise tugevuse: väsimusrike toimub, kui pinget, mis on tunduvalt madalam materjali tavalisest tugevusest, rakendatakse korduvalt, tsükkel tsükli järel, lubades mikroskoopilisel praol tekkida pingekontsentratsiooni juures ja kasvada järk-järgult iga tsükliga, kuni allesjäänud ristlõige ei suuda enam koormust kanda ja puruneb äkitselt, sageli pärast nii paljusid tsükleid näiliselt igapäevase pingega, et ükski üksik rakendus ei oleks kunagi muret tekitanud; roome on aeglane, pidev, ajast sõltuv deformatsioon, mis akumuleerub konstantse pinge all, mida hoitakse pikka aega, eriti oluline temperatuuridel, mis on märkimisväärne osa materjali sulamistemperatuurist, kus termiliselt aktiveeritud aatomimehhanismid lubavad materjalil järk-järgult kuju muuta, kuigi rakendatud pinge üksi ei ületaks kunagi selle tavalist voolavuspiiri; ning purunemine ise võib kulgeda kahel kvalitatiivselt erineval viisil, sitke purunemine, mis neelab olulise koguse energiat ulatusliku plastilise deformatsiooni kaudu enne lõplikku eraldumist, versus hapras purunemine, mis levitab pragu katastroofiliselt peaaegu ilma hoiatava deformatsioonita üldse, seega peavad insenerid kavandama kõigi kolme rikkerežiimi vastu sõltumatult, mitte eeldama, et staatilise koormuse all ohutu komponent on automaatselt ohutu tsüklilise koormuse, pideva koormuse või laias temperatuurivahemikus.",
+    "sourceHash": "9feca16303387498",
+    "stale": false
+  },
+  "prerequisites": [
+    "point-defects-and-dislocations-in-crystals"
+  ]
+}

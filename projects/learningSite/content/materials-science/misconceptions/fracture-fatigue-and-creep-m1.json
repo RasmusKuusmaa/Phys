@@ -1,0 +1,10 @@
+{
+  "id": "fracture-fatigue-and-creep-m1",
+  "conceptId": "fracture-fatigue-and-creep",
+  "text": {
+    "en": "Believing a component that safely withstands a given stress level when it is applied once should remain safe indefinitely if that same stress is applied repeatedly, cycle after cycle -- fatigue failure specifically occurs at stress levels well below a material's ordinary static strength when that stress is applied repeatedly over many cycles, since a microscopic crack can nucleate at a stress concentration and grow incrementally with each cycle, eventually causing sudden failure once the remaining load-bearing cross-section becomes too small; a stress level that would never cause concern as a single static load can still cause failure after enough repeated cycles, which is exactly why fatigue must be assessed as a genuinely separate failure mode from static strength.",
+    "et": "Arvamus, et komponent, mis talub ohutult antud pingetaset, kui seda rakendatakse üks kord, peaks jääma ohutuks määramatuks ajaks, kui sama pinget rakendatakse korduvalt, tsükkel tsükli järel -- väsimusrike toimub spetsiifiliselt pingetasemetel, mis on tunduvalt madalamad materjali tavalisest staatilisest tugevusest, kui seda pinget rakendatakse korduvalt üle paljude tsüklite, kuna mikroskoopiline pragu võib tekkida pingekontsentratsiooni juures ja kasvada järk-järgult iga tsükliga, põhjustades lõpuks äkilise rikke, kui allesjäänud koormust kandev ristlõige muutub liiga väikeseks; pingetase, mis ei tekitaks kunagi muret ühekordse staatilise koormusena, võib siiski põhjustada rikke pärast piisavalt palju korduvaid tsükleid, mis ongi täpselt põhjus, miks väsimust tuleb hinnata tõeliselt eraldi rikkerežiimina staatilisest tugevusest.",
+    "sourceHash": "0ab8e614df4bb695",
+    "stale": false
+  }
+}

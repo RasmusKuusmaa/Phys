@@ -1,0 +1,10 @@
+{
+  "id": "fracture-fatigue-and-creep-m2",
+  "conceptId": "fracture-fatigue-and-creep",
+  "text": {
+    "en": "Believing a material only deforms in response to stress that exceeds its ordinary yield strength, with any lower, sustained stress leaving the material's shape genuinely unchanged over time -- creep is specifically a slow, continuous, time-dependent deformation that accumulates under a constant stress held for a long time, occurring even at stresses well below the ordinary yield strength, particularly at temperatures that form a substantial fraction of the material's melting point; thermally-activated atomic mechanisms let the material gradually change shape under sustained loading in a way that a brief static strength test at the same stress level would never reveal.",
+    "et": "Arvamus, et materjal deformeerub ainult vastuseks pingele, mis ületab selle tavalise voolavuspiiri, kusjuures mistahes madalam, pidev pinge jätab materjali kuju tõeliselt muutumatuks aja jooksul -- roome on spetsiifiliselt aeglane, pidev, ajast sõltuv deformatsioon, mis akumuleerub konstantse pinge all, mida hoitakse pikka aega, toimudes isegi pingetel, mis on tunduvalt madalamad tavalisest voolavuspiirist, eriti temperatuuridel, mis moodustavad märkimisväärse osa materjali sulamistemperatuurist; termiliselt aktiveeritud aatomimehhanismid lubavad materjalil pideva koormuse all järk-järgult kuju muuta viisil, mida lühiajaline staatiline tugevuskatse samal pingetasemel kunagi ei paljastaks.",
+    "sourceHash": "3ff9a81f4305a3d6",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fracture-fatigue-and-creep-item1",
+  "conceptId": "fracture-fatigue-and-creep",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A metal component fails suddenly after being subjected to the same everyday stress level, applied and removed repeatedly, for millions of cycles, even though that stress level is far below the metal's known static strength. Which failure mode does this describe?",
+    "et": "Metallkomponent puruneb äkitselt pärast sama igapäevase pingetaseme rakendamist ja eemaldamist korduvalt miljonite tsüklite jooksul, kuigi see pingetase on kaugelt madalam metalli teadaolevast staatilisest tugevusest. Millist rikkerežiimi see kirjeldab?",
+    "sourceHash": "cd6298aa12292653",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Fatigue failure, in which a microscopic crack nucleates and grows incrementally with each stress cycle, eventually causing sudden failure well below the material's static strength.",
+        "et": "Väsimusrike, mille puhul mikroskoopiline pragu tekib ja kasvab järk-järgult iga pingetsükliga, põhjustades lõpuks äkilise rikke, mis on kaugelt madalam materjali staatilisest tugevusest.",
+        "sourceHash": "1939193619df5c78",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This scenario is impossible, since a stress level that never causes failure when applied once should also never cause failure no matter how many times it is repeated.",
+        "et": "See stsenaarium on võimatu, kuna pingetase, mis ei põhjusta kunagi riket ühekordsel rakendamisel, ei peaks kunagi põhjustama riket ka olenemata sellest, kui mitu korda seda korratakse.",
+        "sourceHash": "d48bb6df943dae20",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fracture-fatigue-and-creep-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Creep, since the component's shape must have gradually changed under the sustained cyclic loading until it could no longer bear the load.",
+        "et": "Roome, kuna komponendi kuju pidi järk-järgult muutuma pideva tsüklilise koormuse all, kuni see ei suutnud enam koormust kanda.",
+        "sourceHash": "99720f8516561cee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fracture-fatigue-and-creep-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Ductile and brittle fracture are the same process here, so this failure simply reflects however much cumulative force happened to be applied across all the cycles combined.",
+        "et": "Sitke ja hapras purunemine on siin sama protsess, seega peegeldab see rike lihtsalt seda, kui suur kumulatiivne jõud juhtus rakenduma kõigi tsüklite peale kokku.",
+        "sourceHash": "c0629b2bd97f90ae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fracture-fatigue-and-creep-m3"
+    }
+  ]
+}

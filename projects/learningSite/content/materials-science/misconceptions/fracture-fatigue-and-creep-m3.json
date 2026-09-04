@@ -1,0 +1,10 @@
+{
+  "id": "fracture-fatigue-and-creep-m3",
+  "conceptId": "fracture-fatigue-and-creep",
+  "text": {
+    "en": "Believing ductile fracture and brittle fracture are simply two names for the same underlying physical process, differing only in how much force happened to be applied -- these are genuinely different failure modes with qualitatively different behavior: ductile fracture absorbs substantial energy through extensive plastic deformation before the material finally separates, giving visible warning that failure is approaching, while brittle fracture propagates a crack catastrophically through the material with almost no preceding plastic deformation at all, offering little or no warning; this qualitative difference in energy absorption and warning behavior, not merely a difference in applied force, is why the two modes are treated as distinct engineering concerns.",
+    "et": "Arvamus, et sitke purunemine ja hapras purunemine on lihtsalt kaks nime samale aluseks olevale füüsikalisele protsessile, erinedes ainult selle poolest, kui suur jõud juhtus rakenduma -- need on tõeliselt erinevad rikkerežiimid kvalitatiivselt erineva käitumisega: sitke purunemine neelab olulise koguse energiat ulatusliku plastilise deformatsiooni kaudu, enne kui materjal lõpuks eraldub, andes nähtava hoiatuse rikke lähenemisest, samal ajal kui hapras purunemine levitab pragu katastroofiliselt läbi materjali peaaegu ilma eelneva plastilise deformatsioonita üldse, pakkudes vähe või mitte üldse hoiatust; see kvalitatiivne erinevus energia neeldumises ja hoiatuskäitumises, mitte lihtsalt erinevus rakendatud jõus, ongi põhjus, miks kaht režiimi käsitletakse eristuvate inseneriprobleemidena.",
+    "sourceHash": "d61c48a416bac5d8",
+    "stale": false
+  }
+}
