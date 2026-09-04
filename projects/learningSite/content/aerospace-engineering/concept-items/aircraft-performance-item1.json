@@ -1,0 +1,56 @@
+{
+  "id": "aircraft-performance-item1",
+  "conceptId": "aircraft-performance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An airline asks why loading extra fuel beyond a certain point gives rapidly diminishing gains in an aircraft's range. What is the correct explanation?",
+    "et": "Lennufirma küsib, miks annab teatud punktist edasi lisakütuse laadimine õhusõiduki lennuulatusele kiiresti kahanevat kasu. Milline on õige selgitus?",
+    "sourceHash": "7231ed29a03eb1ca",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Range depends on the natural logarithm of the ratio of initial to final aircraft weight, so each extra unit of fuel is itself extra weight that must be carried and burned, yielding steadily smaller range gains per unit of added fuel.",
+        "et": "Lennuulatus sõltub õhusõiduki alg- ja lõppmassi suhte naturaallogaritmist, mistõttu iga lisakütuseühik on ise täiendav mass, mida tuleb kanda ja põletada, andes iga lisatud kütuseühiku kohta pidevalt väiksemat lennuulatuse kasvu.",
+        "sourceHash": "ac34d0bb5e117630",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Range is directly proportional to the mass of fuel carried, so this diminishing-returns effect must be caused by some external factor such as air traffic control routing, not by the aircraft's own performance.",
+        "et": "Lennuulatus on otseselt võrdeline pardal oleva kütuse massiga, mistõttu see kahanevate juurdekasvude efekt peab olema põhjustatud mõnest välisest tegurist, näiteks lennuliikluse marsruutimisest, mitte õhusõiduki enda lennuomadustest.",
+        "sourceHash": "3c43ba9828cd6f0f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-performance-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Extra fuel mainly increases endurance rather than range, and since endurance and range are the same quantity for a cruising aircraft, this shows up in the data as a 'diminishing' range effect.",
+        "et": "Lisakütus suurendab peamiselt lennukestust, mitte lennuulatust, ning kuna lennukestus ja lennuulatus on lendava õhusõiduki puhul sama suurus, avaldub see andmetes 'kahaneva' lennuulatuse efektina.",
+        "sourceHash": "144b73f83738ee55",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-performance-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This diminishing-returns effect only appears because extra fuel is displacing payload one-for-one, and if payload were held at zero the range would keep increasing proportionally to fuel mass.",
+        "et": "See kahanevate juurdekasvude efekt ilmneb ainult seetõttu, et lisakütus asendab kasuskoormust üks-ühele, ning kui kasuskoormus oleks null, kasvaks lennuulatus jätkuvalt kütuse massiga võrdeliselt.",
+        "sourceHash": "9c0fe22c77059404",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-performance-m3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "breguet-range-equation-solve-r",
+  "formulaId": "breguet-range-equation",
+  "solveFor": "R",
+  "mistakes": [
+    {
+      "id": "used-mass-ratio-directly-instead-of-its-log",
+      "description": {
+        "en": "Multiplied by the mass ratio directly instead of by its natural logarithm, treating range as proportional to the fuel fraction rather than logarithmic in it.",
+        "et": "Korrutas massisuhtega otse, selle naturaallogaritmi asemel, käsitledes lennuulatust kütuseosaga võrdelisena, mitte logaritmilisena.",
+        "sourceHash": "c126ead63aefab24",
+        "stale": false
+      },
+      "expression": "(v/c)*LD*(m0/mf)"
+    },
+    {
+      "id": "inverted-mass-ratio-in-log",
+      "description": {
+        "en": "Inverted the mass ratio inside the logarithm, dividing final mass by initial mass instead of the other way round.",
+        "et": "Pööras massisuhte logaritmi sees ümber, jagades lõppmassi algmassiga, mitte vastupidi.",
+        "sourceHash": "3cbfcced5ed8c6b8",
+        "stale": false
+      },
+      "expression": "(v/c)*LD*ln(mf/m0)"
+    },
+    {
+      "id": "left-out-lift-to-drag-ratio",
+      "description": {
+        "en": "Left out the lift-to-drag ratio factor entirely, computing range from velocity, specific fuel consumption, and the mass ratio alone.",
+        "et": "Jättis tõukejõu-tõmbe suhte teguri täielikult välja, arvutades lennuulatuse ainult kiiruse, erikütusekulu ja massisuhte põhjal.",
+        "sourceHash": "c45d1ff653ec1860",
+        "stale": false
+      },
+      "expression": "(v/c)*ln(m0/mf)"
+    }
+  ]
+}

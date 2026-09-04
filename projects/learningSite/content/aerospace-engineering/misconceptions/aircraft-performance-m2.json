@@ -1,0 +1,10 @@
+{
+  "id": "aircraft-performance-m2",
+  "conceptId": "aircraft-performance",
+  "text": {
+    "en": "Believing that range and endurance are effectively the same quantity, so whatever cruise speed maximizes one automatically maximizes the other -- in fact maximum-range speed maximizes distance covered per unit of fuel burned, while maximum-endurance speed simply minimizes the rate of fuel burn regardless of distance covered, and for a jet aircraft these correspond to different, genuinely distinct cruise speeds.",
+    "et": "Arvamus, et lennuulatus ja lennukestus on sisuliselt sama suurus, mistõttu lennukiirus, mis maksimeerib üht, maksimeerib automaatselt ka teist -- tegelikult maksimeerib maksimaalse lennuulatuse kiirus läbitud vahemaad kütuseühiku kohta, samas kui maksimaalse lennukestuse kiirus minimeerib lihtsalt kütusekulu kiirust, hoolimata läbitud vahemaast, ning reaktiivlennuki puhul vastavad need kaks tõeliselt erinevatele lennukiirustele.",
+    "sourceHash": "7d09c8e3fe6dd43c",
+    "stale": false
+  }
+}

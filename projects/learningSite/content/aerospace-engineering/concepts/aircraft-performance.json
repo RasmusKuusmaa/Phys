@@ -1,0 +1,22 @@
+{
+  "id": "aircraft-performance",
+  "subject": "aerospace-engineering",
+  "level": "L2",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Aircraft performance: range and endurance",
+    "et": "Õhusõiduki lennuomadused: lennuulatus ja lennukestus",
+    "sourceHash": "143162f600d90397",
+    "stale": false
+  },
+  "summary": {
+    "en": "Aircraft performance analysis asks two related but different questions: how far an aircraft can fly on the fuel it carries (range), and how long it can stay airborne (endurance). For a jet aircraft cruising at a roughly constant lift-to-drag ratio, the Breguet range equation shows that range grows with cruise velocity and with the lift-to-drag ratio, but only logarithmically with the ratio of the aircraft's initial to final weight -- the same diminishing-returns shape the Tsiolkovsky rocket equation gives for delta-v, since in both cases the very fuel being added is itself extra mass that must be carried and burned. Range and endurance are maximized at different cruise speeds, because range cares about distance covered per unit of fuel burned while endurance cares only about minimizing the rate of fuel burn, so a mission profile optimized for one is not optimized for the other. Real payload-range diagrams reflect a further constraint the cruise formula alone does not capture: an aircraft is simultaneously limited by its maximum structural takeoff weight and by its fixed fuel tank volume, which is why the diagram shows a flat maximum-payload region, a sloped payload-range tradeoff line, and a maximum-range point reachable only by carrying less payload than the aircraft is structurally able to lift.",
+    "et": "Õhusõiduki lennuomaduste analüüs esitab kaks seotud, kuid erinevat küsimust: kui kaugele suudab õhusõiduk lennata pardal oleva kütusega (lennuulatus) ja kui kaua suudab ta õhus püsida (lennukestus). Reaktiivlennuki puhul, mis lendab ligikaudu püsiva tõukejõu ja tõmbe suhtega, näitab Breguet' lennuulatusvalem, et lennuulatus kasvab lennukiirusega ja tõukejõu-tõmbe suhtega, kuid ainult logaritmiliselt õhusõiduki alg- ja lõppmassi suhtega -- sama kahanevate juurdekasvude kuju, mille Tsiolkovski raketivõrrand annab delta-v jaoks, sest mõlemal juhul on lisatav kütus ise täiendav mass, mida tuleb kanda ja põletada. Lennuulatus ja lennukestus saavutavad maksimumi erinevatel lennukiirustel, sest lennuulatus hoolib läbitud vahemaast kütusekulu ühiku kohta, samas kui lennukestus hoolib ainult kütusekulu kiiruse minimeerimisest, mistõttu ühe jaoks optimeeritud lennuprofiil ei ole optimeeritud teise jaoks. Tegelikud kasuskoormuse-lennuulatuse diagrammid peegeldavad täiendavat piirangut, mida puhas lennutsükli valem ei arvesta: õhusõiduk on üheaegselt piiratud oma maksimaalse konstruktsioonilise stardikaaluga ja fikseeritud kütusepaakide mahuga, mistõttu diagramm näitab lamedat maksimaalse kasuskoormuse piirkonda, kaldu kasuskoormuse-lennuulatuse kompromissjoont ning maksimaalse lennuulatuse punkti, mis on saavutatav ainult väiksema kasuskoormusega, kui õhusõiduk on konstruktsiooniliselt suuteline kandma.",
+    "sourceHash": "c2571eab8cbd48ed",
+    "stale": false
+  },
+  "prerequisites": [
+    "propulsion-fundamentals",
+    "aerodynamics-fundamentals"
+  ]
+}

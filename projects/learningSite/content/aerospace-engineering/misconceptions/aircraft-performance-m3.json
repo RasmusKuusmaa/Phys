@@ -1,0 +1,10 @@
+{
+  "id": "aircraft-performance-m3",
+  "conceptId": "aircraft-performance",
+  "text": {
+    "en": "Believing an aircraft can simultaneously carry its maximum structural payload and achieve its maximum possible range -- in fact payload-range diagrams show these are independent limits that trade off against each other: at maximum payload the aircraft typically reaches its maximum takeoff weight before its fuel tanks are full, capping range below the tanks-full maximum range that is only reachable by carrying less than the maximum payload.",
+    "et": "Arvamus, et õhusõiduk suudab üheaegselt kanda oma maksimaalset konstruktsioonilist kasuskoormust ja saavutada oma maksimaalset võimalikku lennuulatust -- tegelikult näitavad kasuskoormuse-lennuulatuse diagrammid, et need on sõltumatud piirangud, mis on omavahel kompromissis: maksimaalse kasuskoormuse juures jõuab õhusõiduk tavaliselt oma maksimaalse stardikaaluni enne, kui kütusepaagid on täis, mis piirab lennuulatust alla täispaakidega saavutatava maksimaalse lennuulatuse, mis on saavutatav ainult väiksema kui maksimaalse kasuskoormusega.",
+    "sourceHash": "fb6e53b3dfdb7fa2",
+    "stale": false
+  }
+}

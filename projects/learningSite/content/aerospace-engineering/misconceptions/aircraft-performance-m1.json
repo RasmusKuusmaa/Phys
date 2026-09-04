@@ -1,0 +1,10 @@
+{
+  "id": "aircraft-performance-m1",
+  "conceptId": "aircraft-performance",
+  "text": {
+    "en": "Believing that range scales proportionally with fuel load, so doubling the fuel carried roughly doubles the range -- in fact the Breguet range equation makes range depend on the natural logarithm of the initial-to-final weight ratio, so each additional unit of fuel contributes steadily less extra range than the unit before it, because that added fuel is itself extra weight that must be carried and burned along the way.",
+    "et": "Arvamus, et lennuulatus kasvab kütusekogusega võrdeliselt, mistõttu kütusekoguse kahekordistamine kahekordistab ligikaudu ka lennuulatuse -- tegelikult sõltub lennuulatus Breguet' valemi järgi alg- ja lõppmassi suhte naturaallogaritmist, mistõttu iga täiendav kütuseühik annab pidevalt vähem lisalennuulatust kui eelmine, sest lisatud kütus on ise täiendav mass, mida tuleb kogu tee kanda ja põletada.",
+    "sourceHash": "248c0788d39b181c",
+    "stale": false
+  }
+}

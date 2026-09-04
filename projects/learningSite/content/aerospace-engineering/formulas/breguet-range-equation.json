@@ -1,0 +1,73 @@
+{
+  "id": "breguet-range-equation",
+  "conceptId": "aircraft-performance",
+  "latex": "R = \\frac{v}{c}\\,\\frac{L}{D}\\,\\ln\\!\\left(\\frac{m_0}{m_f}\\right)",
+  "symbols": [
+    {
+      "symbol": "R",
+      "name": {
+        "en": "distance",
+        "et": "vahemaa",
+        "sourceHash": "63e6ce93e1bcb512",
+        "stale": false
+      },
+      "unit": "m"
+    },
+    {
+      "symbol": "v",
+      "name": {
+        "en": "velocity",
+        "et": "kiirus",
+        "sourceHash": "7d2857159e309122",
+        "stale": false
+      },
+      "unit": "m/s"
+    },
+    {
+      "symbol": "c",
+      "name": {
+        "en": "specific fuel consumption",
+        "et": "erikütusekulu",
+        "sourceHash": "d8a6375051eeb92a",
+        "stale": false
+      },
+      "unit": "1/s"
+    },
+    {
+      "symbol": "LD",
+      "name": {
+        "en": "coefficient",
+        "et": "kordaja",
+        "sourceHash": "7ef50ace94f83c5a",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "m0",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    },
+    {
+      "symbol": "mf",
+      "name": {
+        "en": "mass",
+        "et": "mass",
+        "sourceHash": "4084a32b9bba4b4a",
+        "stale": false
+      },
+      "unit": "kg"
+    }
+  ],
+  "solveFor": [
+    "R"
+  ],
+  "expressions": {
+    "R": "(v/c)*LD*ln(m0/mf)"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "breguet-range-equation-solve-r",
+  "formulaId": "breguet-range-equation",
+  "variables": [
+    {
+      "symbol": "v",
+      "min": 200,
+      "max": 280,
+      "unit": "m/s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "c",
+      "min": 0.00001,
+      "max": 0.00003,
+      "unit": "1/s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "LD",
+      "min": 12,
+      "max": 20,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "m0",
+      "min": 60000,
+      "max": 90000,
+      "unit": "kg",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "mf",
+      "min": 50000,
+      "max": 59000,
+      "unit": "kg",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "v",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "c",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "LD",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "m0",
+      "right": "mf"
+    }
+  ],
+  "solveFor": "R"
+}
