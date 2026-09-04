@@ -1,0 +1,19 @@
+{
+  "id": "engineering-materials-testing-and-standards",
+  "subject": "general-engineering",
+  "level": "L2",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Engineering materials testing and standards",
+    "et": "Insenerimaterjalide katsetamine ja standardid",
+    "sourceHash": "857369b4cb6559e8",
+    "stale": false
+  },
+  "summary": {
+    "en": "An engineering material's strength is not taken on a manufacturer's word: it is established by standardized mechanical tests -- tensile, hardness, and impact tests -- performed according to internationally agreed procedures (ASTM, ISO, EN) that fix the specimen's exact geometry, the rate of loading, and the test environment, so that a number measured in one laboratory is directly comparable to one measured anywhere else in the world. The tensile test pulls a standardized dogbone-shaped specimen at a controlled rate while recording load and elongation, yielding the full stress-strain curve and, from its highest point, the material's ultimate tensile strength. Hardness testing (Rockwell, Brinell, Vickers) trades some precision for speed and non-destructiveness, correlating an indenter's resistance to penetration with strength through empirical conversion tables rather than a first-principles relationship. Impact testing (Charpy, Izod) measures an entirely different property -- the energy absorbed during a sudden fracture -- because a material's static strength says nothing about how it survives a sudden shock load, especially at low temperature, where many metals undergo a ductile-to-brittle transition that a slow tensile test would never reveal; standards exist because engineering decisions with real consequences cannot rest on an unverifiable claim, and a certified test report tells a purchasing engineer exactly which procedure produced the number they are trusting.",
+    "et": "Inseneri materjali tugevust ei võeta omaks tootja sõna järgi: see määratakse standarditud mehaaniliste katsetega -- tõmbe-, kõvadus- ja löögikatsetega --, mis tehakse rahvusvaheliselt kokkulepitud menetluste (ASTM, ISO, EN) järgi, mis fikseerivad katsekeha täpse geomeetria, koormamiskiiruse ja katsekeskkonna, nii et ühes laboris mõõdetud väärtus on otseselt võrreldav ükskõik kus maailmas mõõdetud väärtusega. Tõmbekatse venitab standarditud koeraluu-kujulist katsekeha kontrollitud kiirusega, salvestades koormust ja pikenemist, andes täieliku pinge-deformatsiooni kõvera ja selle kõrgeimast punktist materjali tõmbetugevuse. Kõvadus katsetamine (Rockwell, Brinell, Vickers) ohverdab osa täpsusest kiiruse ja mittepurustavuse nimel, seostades survestaja tungimiskindlust tugevusega empiiriliste teisendustabelite kaudu, mitte esimestest printsiipidest tuleneva seosega. Löögikatse (Charpy, Izod) mõõdab hoopis teistsugust omadust -- äkilise murdumise käigus neelduvat energiat --, sest materjali staatiline tugevus ei ütle midagi selle kohta, kuidas see talub äkilist löökkoormust, eriti madalal temperatuuril, kus paljud metallid läbivad sitke-hapra ülemineku, mida aeglane tõmbekatse kunagi ei paljasta; standardid on olemas seetõttu, et reaalsete tagajärgedega inseneriotsused ei saa toetuda kontrollimatule väitele, ning sertifitseeritud katseraport ütleb ostjale-insenerile täpselt, milline menetlus tootis numbri, mida ta usaldab.",
+    "sourceHash": "cf1edf07d3b78a92",
+    "stale": false
+  },
+  "prerequisites": []
+}

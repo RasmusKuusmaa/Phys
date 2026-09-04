@@ -1,0 +1,10 @@
+{
+  "id": "engineering-materials-testing-and-standards-m3",
+  "conceptId": "engineering-materials-testing-and-standards",
+  "text": {
+    "en": "A material that survives a very high static tensile load will automatically survive a sudden impact load just fine, since it's already been shown to be strong -- static tensile strength and impact toughness are independent properties: impact toughness measures the energy a material can absorb during a sudden fracture, and some materials that are very strong in a slow tensile test are simultaneously brittle and absorb very little energy in an impact test, especially once temperature drops below their ductile-to-brittle transition temperature, which a tensile test run at room temperature would never reveal.",
+    "et": "Materjal, mis talub väga kõrget staatilist tõmbekoormust, talub automaatselt ka äkilist löökkoormust, sest see on juba tõestanud end tugevana -- staatiline tõmbetugevus ja löögitaidus on sõltumatud omadused: löögitaidus mõõdab energiat, mida materjal suudab äkilise murdumise käigus neelata, ning mõned materjalid, mis on aeglases tõmbekatses väga tugevad, on samal ajal rabedad ja neelavad löögikatses väga vähe energiat, eriti kui temperatuur langeb alla nende sitke-hapra ülemineku temperatuuri, mida toatemperatuuril tehtud tõmbekatse kunagi ei paljasta.",
+    "sourceHash": "b199adaac559f462",
+    "stale": false
+  }
+}

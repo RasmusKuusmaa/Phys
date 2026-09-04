@@ -1,0 +1,10 @@
+{
+  "id": "engineering-materials-testing-and-standards-m2",
+  "conceptId": "engineering-materials-testing-and-standards",
+  "text": {
+    "en": "Hardness and tensile strength are essentially the same measurement, so a Rockwell or Brinell hardness number can be plugged directly into a stress calculation in place of a tensile-test result -- hardness measures a completely different physical response (an indenter's resistance to local plastic penetration under a fixed load), not a material's resistance to bulk elongation under tension; the widely used strength estimates derived from hardness numbers are empirical correlations calibrated separately for each material family, not a direct physical equivalence, and they break down entirely outside the family they were calibrated for.",
+    "et": "Kõvadus ja tõmbetugevus on sisuliselt sama mõõtmine, mistõttu Rockwelli või Brinelli kõvadusnumbri võib panna otse pingearvutusse tõmbekatse tulemuse asemele -- kõvadus mõõdab hoopis teistsugust füüsikalist vastust (survestaja vastupanu kohalikule plastsele tungimisele fikseeritud koormuse all), mitte materjali vastupanu üldisele pikenemisele tõmbe all; laialt kasutatavad kõvadusnumbritest tuletatud tugevushinnangud on empiirilised seosed, mis on eraldi kalibreeritud iga materjaliperekonna jaoks, mitte otsene füüsikaline samaväärsus, ning need lakkavad kehtimast täielikult väljaspool perekonda, mille jaoks need kalibreeriti.",
+    "sourceHash": "b295ef7b31c9835d",
+    "stale": false
+  }
+}

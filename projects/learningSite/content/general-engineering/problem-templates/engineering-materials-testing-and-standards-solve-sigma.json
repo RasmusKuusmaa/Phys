@@ -1,0 +1,33 @@
+{
+  "id": "engineering-materials-testing-and-standards-solve-sigma",
+  "formulaId": "engineering-materials-testing-and-standards-formula1",
+  "variables": [
+    {
+      "symbol": "F_max",
+      "min": 20000,
+      "max": 200000,
+      "unit": "N",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "A",
+      "min": 0.0001,
+      "max": 0.001,
+      "unit": "m^2",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "F_max",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "A",
+      "right": 0
+    }
+  ],
+  "solveFor": "sigma_UTS"
+}

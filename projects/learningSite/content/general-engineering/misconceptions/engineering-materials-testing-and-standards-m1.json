@@ -1,0 +1,10 @@
+{
+  "id": "engineering-materials-testing-and-standards-m1",
+  "conceptId": "engineering-materials-testing-and-standards",
+  "text": {
+    "en": "A material's strength value on a datasheet is a fixed physical constant, true for every single sample of that material regardless of how or when it's tested -- in reality, a datasheet strength value is a standardized, statistically characterized result from testing many samples under one specific set of internationally agreed conditions (specimen geometry, loading rate, temperature); real samples of the same nominal material show scatter around that value, and changing the test conditions can shift the measured number substantially, which is exactly why the test procedure is standardized in the first place.",
+    "et": "Materjali andmelehel toodud tugevusväärtus on fikseeritud füüsikaline konstant, mis kehtib iga selle materjali proovitüki kohta olenemata sellest, kuidas või millal seda katsetatakse -- tegelikult on andmelehe tugevusväärtus standarditud, statistiliselt iseloomustatud tulemus paljude proovitükkide katsetamisest ühe kindla rahvusvaheliselt kokkulepitud tingimuste komplekti (katsekeha geomeetria, koormamiskiirus, temperatuur) all; sama nimimaterjali reaalsed proovitükid näitavad selle väärtuse ümber hajuvust ning katsetingimuste muutmine võib mõõdetud arvu oluliselt nihutada, mis ongi täpselt põhjus, miks katsemenetlus on standarditud.",
+    "sourceHash": "a46591418e72b068",
+    "stale": false
+  }
+}

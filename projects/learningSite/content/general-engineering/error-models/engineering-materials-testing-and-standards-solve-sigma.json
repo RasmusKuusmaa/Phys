@@ -1,0 +1,37 @@
+{
+  "id": "engineering-materials-testing-and-standards-solve-sigma",
+  "formulaId": "engineering-materials-testing-and-standards-formula1",
+  "solveFor": "sigma_UTS",
+  "mistakes": [
+    {
+      "id": "inverted-the-ratio",
+      "description": {
+        "en": "Inverted the ratio, computing the specimen area divided by the maximum force instead of the other way round.",
+        "et": "Pööras suhte ümber, arvutades katsekeha pindala jagatuna maksimaalse jõuga, selle asemel et teha vastupidi.",
+        "sourceHash": "884cb15dc79661eb",
+        "stale": false
+      },
+      "expression": "A/F_max"
+    },
+    {
+      "id": "used-force-alone",
+      "description": {
+        "en": "Used the maximum force alone as if it were already the stress, ignoring the specimen cross-sectional area entirely.",
+        "et": "Kasutas maksimaalset jõudu üksi, nagu see oleks juba pinge, jättes katsekeha ristlõikepindala täielikult arvestamata.",
+        "sourceHash": "5dc812ac984c06af",
+        "stale": false
+      },
+      "expression": "F_max"
+    },
+    {
+      "id": "multiplied-instead-of-divided",
+      "description": {
+        "en": "Multiplied the maximum force by the area instead of dividing one by the other.",
+        "et": "Korrutas maksimaalse jõu pindalaga, selle asemel et üht teisega jagada.",
+        "sourceHash": "fa3bffe865212e1f",
+        "stale": false
+      },
+      "expression": "F_max*A"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "engineering-materials-testing-and-standards-item1",
+  "conceptId": "engineering-materials-testing-and-standards",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A structural steel sample passes a tensile test at room temperature with a high measured ultimate tensile strength. Why might an engineer still specify a separate Charpy impact test before approving that steel for a pressure vessel that will operate in a cold climate?",
+    "et": "Konstruktsiooniteras läbib toatemperatuuril tõmbekatse kõrge mõõdetud tõmbetugevusega. Miks võib insener siiski nõuda eraldi Charpy löögikatset, enne kui kiidab selle terase heaks külmas kliimas töötava rõhuanuma jaoks?",
+    "sourceHash": "2bbd9366a83765bd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because impact toughness -- the energy absorbed during a sudden fracture -- is an independent property from tensile strength, and the same steel can become brittle and absorb far less impact energy once its temperature drops below its ductile-to-brittle transition temperature.",
+        "et": "Sest löögitaidus -- äkilise murdumise käigus neelduv energia -- on tõmbetugevusest sõltumatu omadus ning sama teras võib muutuda rabedaks ja neelata palju vähem löögienergiat, kui selle temperatuur langeb alla sitke-hapra ülemineku temperatuuri.",
+        "sourceHash": "7a15b43343470445",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't necessary -- a steel that already passed a tensile test with a high strength value has already been proven strong enough to survive any impact it might encounter.",
+        "et": "See ei ole vajalik -- teras, mis on juba läbinud tõmbekatse kõrge tugevusväärtusega, on juba tõestanud end piisavalt tugevana, et taluda mistahes lööki, millega ta võib kokku puutuda.",
+        "sourceHash": "58ff6ea5d1104953",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-materials-testing-and-standards-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the tensile strength value on the datasheet is only a rough estimate that could vary randomly from sample to sample, so a second, unrelated test is needed as a sanity check on the same property.",
+        "et": "Sest andmelehel toodud tõmbetugevuse väärtus on vaid ligikaudne hinnang, mis võib proovitükiti juhuslikult varieeruda, mistõttu on sama omaduse kontrollimiseks vaja teist, sõltumatut katset.",
+        "sourceHash": "e2762dd012d60a93",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-materials-testing-and-standards-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because a Charpy impact test is really just a faster, cheaper way of remeasuring the same tensile strength using a different piece of equipment.",
+        "et": "Sest Charpy löögikatse on tegelikult lihtsalt kiirem ja odavam viis sama tõmbetugevuse uuesti mõõtmiseks teistsuguse seadmega.",
+        "sourceHash": "6bec963f4cf7205b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-materials-testing-and-standards-m2"
+    }
+  ]
+}
