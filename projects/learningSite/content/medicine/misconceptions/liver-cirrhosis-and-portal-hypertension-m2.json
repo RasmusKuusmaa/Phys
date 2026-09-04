@@ -1,0 +1,10 @@
+{
+  "id": "liver-cirrhosis-and-portal-hypertension-m2",
+  "conceptId": "liver-cirrhosis-and-portal-hypertension",
+  "text": {
+    "en": "Portal hypertension is caused by the same mechanism as systemic high blood pressure -- excess cardiac output or excess peripheral vascular constriction -- in reality, portal hypertension in cirrhosis arises from a specific mechanical cause: scarred, nodular liver tissue physically compresses and distorts the blood vessels running through it, dramatically increasing resistance to flow through the portal venous system specifically, a structural obstruction rather than the cardiac-output or generalized-vasoconstriction mechanisms behind most systemic hypertension.",
+    "et": "Portaalhüpertensiooni põhjustab sama mehhanism mis süsteemset kõrget vererõhku -- liigne südame väljund või liigne perifeerne veresoonte ahenemine -- tegelikult tekib portaalhüpertensioon tsirroosi puhul spetsiifilisest mehaanilisest põhjusest: armistunud, sõlmeline maksakude surub füüsiliselt kokku ja moonutab läbi selle kulgevaid veresooni, suurendades dramaatiliselt takistust voolule spetsiifiliselt läbi portaalveenisüsteemi, struktuurne obstruktsioon, mitte enamiku süsteemse hüpertensiooni taga olevad südame väljundi või üldistatud vasokonstriktsiooni mehhanismid.",
+    "sourceHash": "f6b2521af74a2530",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "liver-cirrhosis-and-portal-hypertension",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "gastrointestinal-and-hepatic-medicine",
+  "title": {
+    "en": "Liver cirrhosis and portal hypertension",
+    "et": "Maksatsirroos ja portaalhüpertensioon",
+    "sourceHash": "4f3f5e53063bc1a8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Cirrhosis is the liver's shared endpoint response to years of repeated injury from almost any chronic cause -- alcohol, viral hepatitis, fatty liver disease, and others all converge on the same underlying process: repeated cycles of hepatocyte death and attempted repair progressively replace normal liver architecture with fibrous scar tissue organized into abnormal regenerative nodules, permanently disrupting the liver's normal internal structure regardless of which specific injury caused it. This structural distortion has a direct mechanical consequence: the scarred, nodular tissue physically compresses and distorts the liver's internal blood vessels, dramatically increasing the resistance to blood flow through the portal venous system, the circulation that normally carries blood from the intestines and spleen through the liver before returning it to the heart. That increased resistance backs up pressure throughout the entire portal system, portal hypertension, which forces blood to find alternative routes around the obstructed liver -- opening up collateral vessels, most dangerously the esophageal varices that can rupture and bleed catastrophically, precisely because portal pressure that should be routed safely through liver tissue is instead diverted through fragile vessels never built to carry that volume or pressure.",
+    "et": "Tsirroos on maksa jagatud lõpp-punkti reaktsioon aastatepikkusele korduvale kahjustusele peaaegu mistahes kroonilisest põhjusest -- alkohol, viirushepatiit, rasvmaksahaigus ja teised koonduvad kõik samale aluseks olevale protsessile: korduvad hepatotsüütide surma ja parandamiskatsete tsüklid asendavad järk-järgult normaalse maksa arhitektuuri kiulise armkoega, mis on organiseeritud ebanormaalseteks regeneratiivseteks sõlmedeks, häirides jäädavalt maksa normaalset sisemist struktuuri, olenemata sellest, milline konkreetne kahjustus selle põhjustas. Sellel struktuurilisel moonutusel on otsene mehaaniline tagajärg: armistunud, sõlmeline kude suru füüsiliselt kokku ja moonutab maksa sisemisi veresooni, suurendades dramaatiliselt takistust verevoolule läbi portaalveenisüsteemi, vereringe, mis tavaliselt kannab verd soolestikust ja põrnast läbi maksa, enne selle tagasi südamesse tagastamist. See suurenenud takistus kuhjab rõhku kogu portaalsüsteemis, portaalhüpertensioon, mis sunnib verd leidma alternatiivseid teid ümber ummistunud maksa -- avades kollateraalseid veresooni, kõige ohtlikumalt söögitoru veenilaiendeid, mis võivad rebeneda ja katastroofiliselt veritseda, just seetõttu, et portaalirõhk, mis peaks olema ohutult suunatud läbi maksakoe, suunatakse selle asemel läbi hapraste veresoonte, mida pole kunagi ehitatud sellist mahtu või rõhku kandma.",
+    "sourceHash": "8fb629101987458b",
+    "stale": false
+  },
+  "prerequisites": [
+    "digestive-system-anatomy-and-physiology"
+  ]
+}

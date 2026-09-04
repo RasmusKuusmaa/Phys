@@ -1,0 +1,10 @@
+{
+  "id": "liver-cirrhosis-and-portal-hypertension-m3",
+  "conceptId": "liver-cirrhosis-and-portal-hypertension",
+  "text": {
+    "en": "Esophageal varices form because the esophagus itself develops a disease independent of the liver -- in reality, esophageal varices form because portal hypertension forces blood to bypass the obstructed liver through collateral vessels, and the esophageal veins are one route those collaterals take; the veins themselves become abnormally dilated and fragile specifically because they are carrying a volume and pressure of blood they were never built to handle, a direct downstream consequence of the liver-based obstruction, not a primary esophageal disease.",
+    "et": "Söögitoru veenilaiendid tekivad seetõttu, et söögitoru ise areneb maksast sõltumatu haiguse -- tegelikult tekivad söögitoru veenilaiendid seetõttu, et portaalhüpertensioon sunnib verd ummistunud maksast mööda minema kollateraalsete veresoonte kaudu, ning söögitoru veenid on üks tee, mida need kollateraalid võtavad; veenid ise muutuvad ebanormaalselt laienenuks ja hapraks just seetõttu, et need kannavad vere mahtu ja rõhku, mida need pole kunagi ehitatud käsitlema, otsene allavoolu tagajärg maksapõhisest obstruktsioonist, mitte primaarne söögitoru haigus.",
+    "sourceHash": "526b762c7b925953",
+    "stale": false
+  }
+}

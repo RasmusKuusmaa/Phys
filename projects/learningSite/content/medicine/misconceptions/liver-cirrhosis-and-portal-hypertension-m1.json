@@ -1,0 +1,10 @@
+{
+  "id": "liver-cirrhosis-and-portal-hypertension-m1",
+  "conceptId": "liver-cirrhosis-and-portal-hypertension",
+  "text": {
+    "en": "Cirrhosis is caused only by alcohol use, so someone with cirrhosis must have an alcohol problem -- in reality, cirrhosis is a shared structural endpoint that many different chronic causes converge on, including alcohol, but also viral hepatitis, fatty liver disease, autoimmune liver disease, and other causes; the resulting fibrosis and nodular scarring look mechanistically similar regardless of which specific injury caused it.",
+    "et": "Tsirroosi põhjustab ainult alkoholi kasutamine, mistõttu tsirroosiga inimesel peab olema alkoholiprobleem -- tegelikult on tsirroos jagatud struktuurne lõpp-punkt, millele koonduvad paljud erinevad kroonilised põhjused, sealhulgas alkohol, aga ka viirushepatiit, rasvmaksahaigus, autoimmuunne maksahaigus ja muud põhjused; tekkiv fibroos ja sõlmeline armistumine näevad mehhanistlikult sarnased välja, olenemata sellest, milline konkreetne kahjustus selle põhjustas.",
+    "sourceHash": "4f70651341eee10b",
+    "stale": false
+  }
+}

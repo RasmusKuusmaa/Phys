@@ -1,0 +1,56 @@
+{
+  "id": "liver-cirrhosis-and-portal-hypertension-item1",
+  "conceptId": "liver-cirrhosis-and-portal-hypertension",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do esophageal varices form as a consequence of liver cirrhosis, even though the disease process itself is happening in the liver?",
+    "et": "Miks tekivad söögitoru veenilaiendid maksatsirroosi tagajärjena, kuigi haigusprotsess ise toimub maksas?",
+    "sourceHash": "db39fc62d6a90566",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Portal hypertension from the scarred, obstructed liver forces blood to bypass it through collateral vessels, including esophageal veins, which become abnormally dilated and fragile from carrying a volume and pressure they were never built for.",
+        "et": "Armistunud, ummistunud maksast tulenev portaalhüpertensioon sunnib verd sellest mööda minema kollateraalsete veresoonte kaudu, sealhulgas söögitoru veenide kaudu, mis muutuvad ebanormaalselt laienenuks ja hapraks, kandes mahtu ja rõhku, mida need pole kunagi ehitatud kandma.",
+        "sourceHash": "5fe1062778355e2b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The esophagus develops its own independent disease process that happens to occur alongside cirrhosis, unrelated to the liver's condition.",
+        "et": "Söögitoru areneb oma iseseisva haigusprotsessi, mis juhtub esinema koos tsirroosiga, seostamata maksa seisundiga.",
+        "sourceHash": "3e5373ac823dbbb8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "liver-cirrhosis-and-portal-hypertension-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Portal hypertension in cirrhosis works through the same cardiac-output-driven mechanism as ordinary systemic high blood pressure.",
+        "et": "Portaalhüpertensioon tsirroosi puhul toimib sama südame väljundist juhitud mehhanismi kaudu mis tavaline süsteemne kõrge vererõhk.",
+        "sourceHash": "28084bda8b1faff1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "liver-cirrhosis-and-portal-hypertension-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This would only happen if the patient's cirrhosis was specifically caused by alcohol use, since that's the only cause that produces portal hypertension.",
+        "et": "See juhtuks ainult siis, kui patsiendi tsirroos oleks põhjustatud spetsiifiliselt alkoholi kasutamisest, kuna see on ainus põhjus, mis tekitab portaalhüpertensiooni.",
+        "sourceHash": "3e96eac615008e25",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "liver-cirrhosis-and-portal-hypertension-m1"
+    }
+  ]
+}
