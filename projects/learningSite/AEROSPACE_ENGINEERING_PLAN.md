@@ -1,0 +1,102 @@
+# Aerospace engineering content plan
+
+New subject, per the user's explicit instruction to continue past the four
+subjects `QUESTIONS.md` already judged comprehensive (physics, mathematics,
+chemistry, materials-science) with aerospace engineering and general
+engineering next. Same content model, same schema, same workflow as every
+prior subject — this file tracks the aerospace-engineering phase.
+
+Baseline: `content/aerospace-engineering/` does not exist yet — greenfield,
+unlike materials-science's thin-but-nonzero 7-concept start. Checked for
+overlap with existing subjects before drafting the concept list: physics's
+`astrophysics`/`mechanics` modules cover orbital dynamics and rigid-body
+mechanics from a physics-derivation angle (Kepler's laws, Lagrangian/
+Hamiltonian mechanics); physics's `fluid-mechanics` module covers
+Navier-Stokes and viscous-flow physics; materials-science covers materials
+selection and structural materials generically. None of these are
+cross-subject prerequisites (per `QUESTIONS.md`'s "Required math" note —
+the architecture has no cross-subject prerequisite support), so every
+aerospace concept stands alone and is framed at the applied-engineering
+angle (design tradeoffs, performance equations, vehicle-level reasoning)
+rather than re-deriving physics that already exists elsewhere under a
+different lens.
+
+## Commit discipline
+
+Identical rule to every other plan file: one commit per concept, single-line
+message (`content: add <concept-id>`), no body, no trailer/signature. Every
+concept gets the full set — concept, >=3 misconceptions, >=1 item, a
+resource per locale, EN+ET explanations. Gate before each commit:
+`npm run validate:content && npm run lint:terminology`. Verify every
+resource URL with a live check (`npm run check:links`) before committing.
+Formula + problem-template + error-model only where a concept has one
+clean, well-defined numeric relationship, per the MSc-physics-phase
+precedent recorded in `DECISIONS.md` — most early concepts here are
+conceptual/design-reasoning, not plug-into-a-formula.
+
+## How to resume this on another machine
+
+```bash
+npm run content:coverage -- --incomplete   # any half-finished concept
+git log --oneline | grep '^content: add '   # concepts already landed
+```
+
+---
+
+## Phase AE1 — foundational (the load-bearing topics an aerospace
+## engineering course covers before anything specialised: aerodynamics,
+## structures, propulsion, flight dynamics, orbital mechanics, compressible
+## flow)
+
+Single module for now (`aerospace-fundamentals`), same one-module-through-L4
+pattern materials-science used rather than splintering a young subject into
+many thin modules prematurely.
+
+- [x] Aerodynamics fundamentals (airfoils, lift and drag, angle of attack,
+      stall, Bernoulli/circulation-based lift explanation — the entry point
+      the rest of the subject builds on; no prerequisites)
+- [x] Aircraft structures (loads and load paths, spars/ribs/skin
+      construction, structural-material tradeoffs specific to airframes —
+      distinct from materials-science's generic materials-selection concept,
+      which doesn't address aircraft-specific load cases)
+- [x] Propulsion fundamentals (the thrust equation, jet-engine Brayton
+      cycle, turbojet/turbofan/turboprop tradeoffs, an introduction to
+      rocket propulsion and the Tsiolkovsky rocket equation; formalised the
+      Tsiolkovsky rocket equation as a formula + problem template + error
+      model — the one clean numeric relationship in this phase's batch)
+- [x] Flight dynamics and stability (the four forces, control surfaces —
+      ailerons/elevator/rudder, static and dynamic stability, center of
+      gravity/center of pressure relationships; prerequisite:
+      aerodynamics-fundamentals)
+- [x] Orbital mechanics and spaceflight (Kepler's laws applied at the
+      mission-design level — orbital elements, delta-v budgets, Hohmann
+      transfer orbits, launch windows — framed as spacecraft engineering
+      constraints, distinct from physics/astrophysics's planet-and-star
+      framing of the same underlying laws, which cannot be a cross-subject
+      prerequisite anyway; kept conceptual — a clean Hohmann-transfer
+      delta-v formula would need a standard-gravitational-parameter symbol
+      with no existing glossary entry, not worth the scope for this pass)
+- [x] Compressible flow and gas dynamics (Mach number regimes, shock waves,
+      subsonic/transonic/supersonic/hypersonic flow — foundation needed
+      before any high-speed-flight topic; prerequisite:
+      aerodynamics-fundamentals)
+
+Phase AE1 complete: 6 aerospace-engineering concepts. `npm run
+validate:content` (484 concepts, 7 subjects), `npm run lint:terminology`
+(237 glossary terms), and `npm run typecheck` all pass; every resource URL
+verified live individually (the repo-wide `npm run check:links` hits
+Wikipedia's rate limit at the site's current resource count and reports
+false-positive 429s across many pre-existing, unrelated resources, not a
+usable per-concept gate at this scale — confirmed none of this phase's own
+resources were among the 429s).
+
+## Phase AE2 — not yet planned
+
+To be scoped after AE1 lands and the subject's baseline shape (module count,
+genuine remaining gaps) can be judged the way MS2 was scoped after MS1.
+Candidates surveyed but not committed to: aircraft performance (range/
+endurance, the Breguet range equation), avionics and flight control systems,
+spacecraft subsystems (attitude control, thermal, power), aeroelasticity,
+high-speed/hypersonic aerothermodynamics.
+
+---
