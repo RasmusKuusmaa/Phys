@@ -1,0 +1,10 @@
+{
+  "id": "crystal-structure-and-crystallography-m3",
+  "conceptId": "crystal-structure-and-crystallography",
+  "text": {
+    "en": "Believing every solid material is crystalline, built from a regularly repeating unit cell, since crystallinity is often presented as the default state of a solid -- many important solid materials (ordinary window glass, many polymers, and other amorphous solids) lack the long-range, regularly repeating translational order that defines a crystal entirely, their atoms instead arranged with only short-range order and no repeating unit cell at all; crystal structure and its associated Bravais-lattice, Miller-index framework apply specifically to crystalline solids and simply do not describe amorphous materials, which require a genuinely different structural description.",
+    "et": "Arvamus, et iga tahke materjal on kristalne, ehitatud regulaarselt korduvast elementaarrakust, kuna kristallilisust esitatakse sageli tahke aine vaikimisi olekuna -- paljud olulised tahked materjalid (tavaline aknaklaas, paljud polümeerid ja teised amorfsed tahkised) puuduvad täielikult pika-ulatusega, regulaarselt korduva translatsioonilise korrastuse, mis kristalli defineerib, nende aatomid on selle asemel paigutatud ainult lühiulatusliku korrastusega ilma korduva elementaarrakuta üldse; kristallstruktuur ja sellega seotud Bravais' võre, Milleri indeksite raamistik kehtivad spetsiifiliselt kristalsete tahkiste jaoks ning lihtsalt ei kirjelda amorfseid materjale, mis vajavad tõeliselt erinevat struktuurset kirjeldust.",
+    "sourceHash": "7638603043d5f0a4",
+    "stale": false
+  }
+}

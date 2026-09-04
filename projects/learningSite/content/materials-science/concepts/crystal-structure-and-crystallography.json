@@ -1,0 +1,21 @@
+{
+  "id": "crystal-structure-and-crystallography",
+  "subject": "materials-science",
+  "level": "L1",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Crystal structure and crystallography",
+    "et": "Kristallstruktuur ja kristallograafia",
+    "sourceHash": "d614e95adb55b33b",
+    "stale": false
+  },
+  "summary": {
+    "en": "A crystalline solid is built from one small, repeating three-dimensional arrangement of atoms called a unit cell, which tiles all of space with no gaps or overlaps to build the entire macroscopic crystal, and remarkably, there are only fourteen genuinely distinct ways a unit cell's underlying repeating lattice can be arranged in three dimensions while still filling space with perfect translational symmetry, the fourteen Bravais lattices, a small, complete, mathematically exhaustive catalog rather than an arbitrary or incomplete list, with a further compact notation, Miller indices, letting crystallographers label any family of parallel crystal planes with just three integers, capturing exactly how that family of planes intersects the unit cell's edges and making it possible to specify precisely which internal atomic planes a given material property (slip during deformation, a particular fracture surface, a specific X-ray diffraction reflection) actually depends on.",
+    "et": "Kristalne tahke aine on ehitatud ühest väikesest, korduvast kolmemõõtmelisest aatomite paigutusest nimega elementaarrakk, mis katab kogu ruumi ilma lünkade või kattumisteta, ehitades üles kogu makroskoopilise kristalli, ning märkimisväärselt on ainult neliteist tõeliselt eristuvat viisi, kuidas elementaarraku aluseks olevat korduvat võret saab kolmes mõõtmes paigutada, säilitades samas täiusliku translatsioonilise sümmeetria ruumi täitmisel, neliteist Bravais' võret, väike, täielik, matemaatiliselt ammendav kataloog, mitte suvaline või mittetäielik loetelu, koos täiendava kompaktse tähistusega, Milleri indeksid, mis lubab kristallograafidel märgistada mistahes paralleelsete kristallitasandite perekonda ainult kolme täisarvuga, tabades täpselt, kuidas see tasandite perekond elementaarraku servi lõikab, ning võimaldab täpselt määrata, millistest sisemistest aatomitasanditest antud materjali omadus (libisemine deformatsiooni käigus, konkreetne murdumispind, konkreetne röntgendifraktsiooni peegeldus) tegelikult sõltub.",
+    "sourceHash": "6397f3f9d601015b",
+    "stale": false
+  },
+  "prerequisites": [
+    "classes-of-materials"
+  ]
+}

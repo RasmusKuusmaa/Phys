@@ -1,0 +1,56 @@
+{
+  "id": "crystal-structure-and-crystallography-item1",
+  "conceptId": "crystal-structure-and-crystallography",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why are the fourteen Bravais lattices considered a complete catalog rather than just the fourteen most common or convenient examples out of many more possibilities?",
+    "et": "Miks peetakse neliteist Bravais' võret täielikuks katalooguks, mitte lihtsalt neljateistkümneks kõige levinumaks või mugavaimaks näiteks paljudest teistest võimalustest?",
+    "sourceHash": "3d3397a285b22f81",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They have been mathematically proven to represent every genuinely distinct way a lattice can fill three-dimensional space with perfect translational symmetry, with no further fundamentally new type possible.",
+        "et": "On matemaatiliselt tõestatud, et need esindavad iga tõeliselt eristuvat viisi, kuidas võre saab täita kolmemõõtmelist ruumi täiusliku translatsioonilise sümmeetriaga, ilma et oleks võimalik ükski täiendav fundamentaalselt uus tüüp.",
+        "sourceHash": "2d4af1b340c8c8a6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They were simply the fourteen lattice types historically discovered first, with the search for additional types still ongoing today.",
+        "et": "Need olid lihtsalt neliteist ajalooliselt esimesena avastatud võretüüpi, kusjuures täiendavate tüüpide otsimine on tänapäevalgi käimas.",
+        "sourceHash": "1c787f74cae2b280",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "crystal-structure-and-crystallography-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Every solid material, crystalline or not, must be describable by one of these fourteen lattices, so the catalog's completeness follows automatically from that universal applicability.",
+        "et": "Iga tahke materjal, kristalne või mitte, peab olema kirjeldatav ühe nende neljateistkümne võre kaudu, seega järgneb kataloogi täielikkus automaatselt sellest universaalsest rakendatavusest.",
+        "sourceHash": "6a95469df82af99e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "crystal-structure-and-crystallography-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "They are the fourteen labeling conventions engineers found most convenient for bookkeeping, chosen for practical reasons rather than mathematical completeness.",
+        "et": "Need on neliteist märgistuskonventsiooni, mida insenerid pidasid raamatupidamise jaoks kõige mugavamaks, valitud praktilistel, mitte matemaatilise täielikkuse põhjustel.",
+        "sourceHash": "e6907043db5283f0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "crystal-structure-and-crystallography-m2"
+    }
+  ]
+}

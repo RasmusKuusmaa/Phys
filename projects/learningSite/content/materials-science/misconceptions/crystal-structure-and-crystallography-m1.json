@@ -1,0 +1,10 @@
+{
+  "id": "crystal-structure-and-crystallography-m1",
+  "conceptId": "crystal-structure-and-crystallography",
+  "text": {
+    "en": "Believing there are countless, essentially arbitrary ways a crystal's underlying repeating lattice could be arranged in three dimensions, with the fourteen Bravais lattices being merely the most common examples chosen for convenience -- the fourteen Bravais lattices are specifically a mathematically exhaustive, complete catalog: they represent every genuinely distinct way a lattice point arrangement can fill three-dimensional space while preserving perfect translational symmetry, proven to be the complete set rather than a a convenient or partial sample, so no fifteenth fundamentally new lattice type remains to be discovered.",
+    "et": "Arvamus, et on loendamatuid, sisuliselt suvalisi viise, kuidas kristalli aluseks olevat korduvat võret saaks kolmes mõõtmes paigutada, kusjuures neliteist Bravais' võret on lihtsalt kõige levinumad näited, mis on mugavuse mõttes valitud -- neliteist Bravais' võret on spetsiifiliselt matemaatiliselt ammendav, täielik kataloog: need esindavad iga tõeliselt eristuvat viisi, kuidas võrepunktide paigutus saab täita kolmemõõtmelist ruumi, säilitades täiusliku translatsioonilise sümmeetria, tõestatud olevat täielik hulk, mitte mugav või osaline valim, seega ei jää avastamata ühtegi viieteistkümnendat fundamentaalselt uut võre tüüpi.",
+    "sourceHash": "2b78efe8da6d62b3",
+    "stale": false
+  }
+}

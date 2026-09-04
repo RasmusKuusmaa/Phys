@@ -1,0 +1,10 @@
+{
+  "id": "crystal-structure-and-crystallography-m2",
+  "conceptId": "crystal-structure-and-crystallography",
+  "text": {
+    "en": "Believing Miller indices are an arbitrary labeling convention with no direct geometric meaning, chosen purely for bookkeeping convenience -- Miller indices are specifically defined by how a given family of parallel crystal planes intersects the unit cell's three edges, with each index being the inverse of the fractional intercept along one edge; this gives every set of Miller indices a precise, direct geometric meaning tied to actual crystal plane orientation, which is exactly why the same three integers can be used consistently to specify which internal atomic planes a material property (slip planes, fracture surfaces, diffraction reflections) actually depends on.",
+    "et": "Arvamus, et Milleri indeksid on suvaline märgistuskonventsioon ilma otsese geomeetrilise tähenduseta, valitud puhtalt raamatupidamisliku mugavuse mõttes -- Milleri indeksid on spetsiifiliselt defineeritud selle kaudu, kuidas antud paralleelsete kristallitasandite perekond lõikab elementaarraku kolme serva, kusjuures iga indeks on murdosalise lõikepunkti pöördväärtus piki üht serva; see annab igale Milleri indeksite komplektile täpse, otsese geomeetrilise tähenduse, mis on seotud tegeliku kristallitasandi orientatsiooniga, mis ongi täpselt põhjus, miks samu kolme täisarvu saab järjekindlalt kasutada, et määrata, millistest sisemistest aatomitasanditest materjali omadus (libisemistasandid, murdumispinnad, difraktsiooni peegeldused) tegelikult sõltub.",
+    "sourceHash": "558a881790be5d84",
+    "stale": false
+  }
+}
