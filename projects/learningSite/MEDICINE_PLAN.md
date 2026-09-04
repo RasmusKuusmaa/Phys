@@ -374,24 +374,45 @@ research-methodology depth version of the same territory.
 
 ### Module `pharmacology`
 
-- [ ] Pharmacokinetics: absorption, distribution, metabolism, excretion
+- [x] Pharmacokinetics: absorption, distribution, metabolism, excretion
       (ADME basics, bioavailability; no prerequisites)
-- [ ] Pharmacodynamics and drug-receptor interactions (dose-response
+- [x] Pharmacodynamics and drug-receptor interactions (dose-response
       curves, agonists vs. antagonists, receptor binding; prerequisite:
-      pharmacokinetics-absorption-distribution-metabolism-excretion)
-- [ ] Drug half-life and dosing principles (elimination half-life,
-      clearance, steady-state dosing — a genuine formula candidate,
-      C(t) = C0 * e^(-kt) and t_1/2 = ln(2)/k; prerequisite:
-      pharmacokinetics-absorption-distribution-metabolism-excretion)
-- [ ] Drug interactions and metabolism pathways (cytochrome P450 enzymes,
+      pharmacokinetics-absorption-distribution-metabolism-excretion; kept
+      conceptual)
+- [x] Drug half-life and dosing principles (elimination half-life,
+      clearance, steady-state dosing; prerequisite: pharmacokinetics-
+      absorption-distribution-metabolism-excretion; formalised
+      C = C0 * (1/2)^(t/T) as a formula + problem template + error model,
+      reusing the existing half-life/time glossary terms plus one new
+      `concentration` term)
+- [x] Drug interactions and metabolism pathways (cytochrome P450 enzymes,
       mechanisms of drug-drug interaction; prerequisite:
-      pharmacokinetics-absorption-distribution-metabolism-excretion)
-- [ ] Adverse drug reactions and toxicology (types of adverse drug
-      reactions, the therapeutic index concept — another formula candidate;
-      no prerequisites)
-- [ ] Drug development and clinical trial phases (preclinical research,
+      pharmacokinetics-absorption-distribution-metabolism-excretion; kept
+      conceptual)
+- [x] Adverse drug reactions and toxicology (types of adverse drug
+      reactions, the therapeutic index concept; no prerequisites;
+      formalised TI = TD50/ED50 as a formula + problem template + error
+      model, adding two new glossary terms, `dose` and `therapeutic index`)
+- [x] Drug development and clinical trial phases (preclinical research,
       Phase I-IV clinical trials; no prerequisites — sets up the
-      `biostatistics-and-epidemiology` module below)
+      `biostatistics-and-epidemiology` module below; kept conceptual)
+
+Module complete: 6 pharmacology concepts, authored directly by the
+coordinator rather than via a fork (this module ran solo while a sibling
+fork built `biostatistics-and-epidemiology` in parallel). Two of six got a
+formula (drug half-life, therapeutic index); four new glossary terms added
+total (`concentration`, `dose`, `therapeutic-index`, plus none needed for
+the other four concepts, which reused existing terms). `npm run
+validate:content` (9 subjects, 570 concepts), `npm run lint:terminology`
+(264 glossary terms), and `npm run typecheck` all pass; every resource URL
+verified live with `curl`. Two Estonian resources needed a live-search
+correction after an initial guess 404'd: `pharmacodynamics-and-drug-
+receptor-interactions` links to the general "Farmakoloogia" article
+(Estonian Wikipedia has no dedicated farmakodünaamika article) and
+`drug-development-and-clinical-trial-phases` links to "Ravimiarendus"
+(drug development) rather than a nonexistent dedicated clinical-trial-
+phases article.
 
 ### Module `biostatistics-and-epidemiology`
 
