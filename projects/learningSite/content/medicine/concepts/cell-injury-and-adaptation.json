@@ -1,0 +1,21 @@
+{
+  "id": "cell-injury-and-adaptation",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "general-pathology",
+  "title": {
+    "en": "Cell injury and adaptation",
+    "et": "Raku kahjustus ja kohanemine",
+    "sourceHash": "116f69381f7efdee",
+    "stale": false
+  },
+  "summary": {
+    "en": "A cell facing a stress -- reduced oxygen, a toxin, mechanical damage, a nutrient deficit -- responds along a spectrum rather than simply surviving or dying outright: mild, brief stress typically triggers a reversible injury, in which the cell's structure and function are disturbed (swelling from failed ion pumps, fatty change from disrupted metabolism) but return to normal once the stress is removed, while more severe or sustained stress crosses a threshold into irreversible injury, past which the cell cannot recover even if the stress stops, and its own membranes and enzymes end up destroying it from within. Between simple reversible injury and outright death sits a distinct category of adaptive response, in which a cell or tissue that is not being killed nonetheless changes its structure to better cope with an altered demand: hypertrophy is an increase in individual cell size (as in an overworked heart muscle), hyperplasia is an increase in cell number (as in the liver regenerating after partial removal), atrophy is a shrinkage in cell size or number under reduced demand or nutrient supply (as in a disused muscle), and metaplasia is the reversible replacement of one differentiated cell type with another better suited to the new environment (as in the airway lining of a long-term smoker). These four adaptations are not disease themselves -- they are the tissue's way of reaching a new, stable equilibrium under changed conditions, and only become pathological if the underlying stress is severe enough or persists long enough to push the tissue past adaptation into injury.",
+    "et": "Rakk, mis seisab silmitsi stressiga -- vähenenud hapnikusisaldus, toksiin, mehaaniline kahjustus, toitainete puudujääk -- reageerib pigem spektri ulatuses kui lihtsalt ellu jäädes või kohe hukkudes: kerge, lühiajaline stress käivitab tavaliselt pöörduva kahjustuse, mille käigus raku struktuur ja talitlus on häiritud (turse ebaõnnestunud ioonpumpade tõttu, rasvmuutus häiritud ainevahetuse tõttu), kuid taastub normaalseks, kui stress kõrvaldatakse, samas kui tõsisem või pikaajalisem stress ületab läve ja muutub pöördumatuks kahjustuseks, millest rakk ei suuda taastuda isegi siis, kui stress lakkab, ning tema enda membraanid ja ensüümid lõpuks hävitavad ta seestpoolt. Lihtsa pöörduva kahjustuse ja otsese surma vahel asub eraldi kohanemisreaktsiooni kategooria, kus rakk või kude, mida ei hukata, muudab siiski oma struktuuri, et paremini toime tulla muutunud nõudlusega: hüpertroofia on üksiku raku suuruse suurenemine (nagu ülekoormatud südamelihases), hüperplaasia on rakkude arvu suurenemine (nagu maksas pärast osalist eemaldamist taastumisel), atroofia on raku suuruse või arvu vähenemine vähenenud nõudluse või toitainete varustuse korral (nagu kasutamata lihases), ning metaplaasia on ühe diferentseerunud rakutüübi pöörduv asendumine teisega, mis sobib paremini uue keskkonnaga (nagu pikaajalise suitsetaja hingamisteede limaskestas). Need neli kohanemist ei ole iseenesest haigus -- need on koe viis jõuda uue, stabiilse tasakaaluni muutunud tingimustes, ning muutuvad patoloogiliseks alles siis, kui aluseks olev stress on piisavalt tõsine või kestab piisavalt kaua, et suruda kude kohanemisest kahjustuseni.",
+    "sourceHash": "ac1483ebe69b7212",
+    "stale": false
+  },
+  "prerequisites": [
+    "cell-structure-and-organelle-function"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cell-injury-and-adaptation-m2",
+  "conceptId": "cell-injury-and-adaptation",
+  "text": {
+    "en": "Hypertrophy and hyperplasia are the same thing, just different words for 'an organ getting bigger' -- in reality, hypertrophy is specifically an increase in the size of existing cells with no increase in cell number (the mechanism available to cells like cardiac and skeletal muscle that cannot easily divide), while hyperplasia is an increase in the number of cells through cell division -- a distinct mechanism only available to cell types capable of proliferating, and many organs actually use a combination of both.",
+    "et": "Hüpertroofia ja hüperplaasia on sama asi, lihtsalt erinevad sõnad 'elundi suuremaks muutumise' kohta -- tegelikult on hüpertroofia spetsiifiliselt olemasolevate rakkude suuruse suurenemine ilma rakkude arvu suurenemiseta (mehhanism, mis on saadaval rakkudele nagu südame- ja skeletilihas, mis ei suuda kergesti jaguneda), samas kui hüperplaasia on rakkude arvu suurenemine rakujagunemise kaudu -- eraldiseisev mehhanism, mis on saadaval ainult proliferatsioonivõimelistele rakutüüpidele, ning paljud elundid kasutavad tegelikult mõlema kombinatsiooni.",
+    "sourceHash": "608d82a30bcb06b0",
+    "stale": false
+  }
+}

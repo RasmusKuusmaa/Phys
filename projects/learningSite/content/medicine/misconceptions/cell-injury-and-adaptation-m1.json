@@ -1,0 +1,10 @@
+{
+  "id": "cell-injury-and-adaptation-m1",
+  "conceptId": "cell-injury-and-adaptation",
+  "text": {
+    "en": "Cell injury is binary -- a cell is either completely fine or already dead, with nothing meaningfully in between -- in reality, pathology recognizes a graded spectrum, with reversible injury (structural/functional disturbance that resolves once the stress is removed) sitting clearly between normal function and irreversible injury/death, and the same stressor can push a cell along that entire spectrum depending on its severity and duration.",
+    "et": "Rakukahjustus on binaarne -- rakk on kas täiesti korras või juba surnud, ilma millegita nende vahel -- tegelikult tunneb patoloogia ära astmelise spektri, kus pöörduv kahjustus (struktuurne/funktsionaalne häire, mis taandub stressi kõrvaldamisel) asub selgelt normaalse talitluse ja pöördumatu kahjustuse/surma vahel, ning sama stressor võib rakku selle terve spektri ulatuses lükata sõltuvalt oma tõsidusest ja kestusest.",
+    "sourceHash": "2e9e1b506f7ba75e",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cell-injury-and-adaptation-item1",
+  "conceptId": "cell-injury-and-adaptation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A long-term smoker's airway lining, normally made of ciliated columnar epithelium, has been replaced by tougher squamous epithelium better able to withstand chemical irritation. What kind of cellular response does this represent, and is it itself a cancerous change?",
+    "et": "Pikaajalise suitsetaja hingamisteede vooderdis, mis on normaalselt tehtud ripsmelisest silinderepiteelist, on asendunud vastupidavama lameepiteeliga, mis talub paremini keemilist ärritust. Millist tüüpi rakulist reaktsiooni see kujutab ja kas see on iseenesest vähine muutus?",
+    "sourceHash": "d38d3c7a02cec883",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Metaplasia -- a reversible replacement of one differentiated cell type with another better suited to the new environment; it is not itself cancer, though persistent metaplasia can raise long-term cancer risk in some tissues if the underlying irritant is never removed.",
+        "et": "Metaplaasia -- ühe diferentseerunud rakutüübi pöörduv asendumine teisega, mis sobib paremini uue keskkonnaga; see ei ole iseenesest vähk, kuigi püsiv metaplaasia võib mõnedes kudedes suurendada pikaajalist vähiriski, kui aluseks olevat ärritajat kunagi ei kõrvaldata.",
+        "sourceHash": "20defc05de5b5f71",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It cannot be classified this way -- a cell type change like this means the affected cells are already dead and have been replaced by an entirely different tissue.",
+        "et": "Seda ei saa nii liigitada -- selline rakutüübi muutus tähendab, et mõjutatud rakud on juba surnud ja asendatud täiesti teistsuguse koega.",
+        "sourceHash": "85794023b35aff91",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cell-injury-and-adaptation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This is already a cancerous change, since replacing one cell type with another abnormal one is, by definition, malignant transformation.",
+        "et": "See on juba vähine muutus, kuna ühe rakutüübi asendamine teise ebanormaalsega on definitsiooni järgi pahaloomuline transformatsioon.",
+        "sourceHash": "123ccd3c49ea1c9d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cell-injury-and-adaptation-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This is hyperplasia, since the tissue has changed in response to increased demand from chemical irritation.",
+        "et": "See on hüperplaasia, kuna kude on muutunud vastuseks suurenenud nõudlusele keemilise ärrituse tõttu.",
+        "sourceHash": "5b1bd9413cc11c13",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cell-injury-and-adaptation-m2"
+    }
+  ]
+}
