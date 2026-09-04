@@ -1,0 +1,10 @@
+{
+  "id": "the-hypothalamic-pituitary-axis-m3",
+  "conceptId": "the-hypothalamic-pituitary-axis",
+  "text": {
+    "en": "Negative feedback in the endocrine system means hormone levels stay perfectly constant at all times -- in reality, negative feedback keeps hormone levels within a regulated range, not perfectly constant -- levels still fluctuate (often on a daily/circadian rhythm, as with cortisol) and rise substantially in response to real physiological demands (stress, illness); feedback prevents runaway overproduction and underproduction, not variation itself.",
+    "et": "Negatiivne tagasiside endokriinsüsteemis tähendab, et hormoonide tase püsib alati täiesti konstantsena -- tegelikult hoiab negatiivne tagasiside hormoonide taset reguleeritud vahemikus, mitte täiesti konstantsena -- tase kõigub ikkagi (sageli ööpäevase rütmi järgi, nagu kortisooli puhul) ja tõuseb märkimisväärselt reaalsetele füsioloogilistele nõudmistele (stress, haigus) vastuseks; tagasiside väldib kontrollimatut üle- ja alatootmist, mitte varieeruvust ennast.",
+    "sourceHash": "a05fdd70cdc384b9",
+    "stale": false
+  }
+}

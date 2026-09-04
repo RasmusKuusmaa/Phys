@@ -1,0 +1,10 @@
+{
+  "id": "the-hypothalamic-pituitary-axis-m1",
+  "conceptId": "the-hypothalamic-pituitary-axis",
+  "text": {
+    "en": "The pituitary gland is the true top of the endocrine hierarchy, with nothing controlling it -- in reality, the pituitary is controlled by the hypothalamus above it, which releases its own hormones into a dedicated local blood supply reaching the anterior pituitary directly; calling the pituitary the \"master gland\" describes its control over downstream glands, not its position at the very top of the hierarchy.",
+    "et": "Hüpofüüs on endokriinhierarhia tegelik tipp, ilma et miski seda kontrolliks -- tegelikult kontrollib hüpofüüsi selle kohal asuv hüpotalamus, mis eritab oma hormoonid otse spetsiaalsesse kohalikku vereringesse, mis jõuab otse eesmisse hüpofüüsi; hüpofüüsi nimetamine \"peanäärmeks\" kirjeldab selle kontrolli allpool asuvate näärmete üle, mitte selle positsiooni hierarhia kõige tipus.",
+    "sourceHash": "1819fe50f59f69eb",
+    "stale": false
+  }
+}

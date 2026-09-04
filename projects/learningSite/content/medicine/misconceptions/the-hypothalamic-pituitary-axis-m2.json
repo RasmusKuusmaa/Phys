@@ -1,0 +1,10 @@
+{
+  "id": "the-hypothalamic-pituitary-axis-m2",
+  "conceptId": "the-hypothalamic-pituitary-axis",
+  "text": {
+    "en": "The anterior and posterior pituitary work the same way, both synthesizing and releasing their own hormones -- in reality, the anterior pituitary synthesizes and releases its own tropic hormones in response to hypothalamic signals, but the posterior pituitary does not synthesize anything itself -- it only stores and releases oxytocin and antidiuretic hormone, both of which are actually made in the hypothalamus and transported down nerve axons into the posterior pituitary for release.",
+    "et": "Eesmine ja tagumine hüpofüüs töötavad samamoodi, mõlemad sünteesivad ja vabastavad oma hormoone -- tegelikult sünteesib ja vabastab eesmine hüpofüüs oma trofilisi hormoone vastusena hüpotalamuse signaalidele, kuid tagumine hüpofüüs ei sünteesi ise midagi -- see ainult salvestab ja vabastab oksütotsiini ja antidiureetilist hormooni, mis mõlemad on tegelikult toodetud hüpotalamuses ja transporditud alla närviaksonite kaudu tagumisse hüpofüüsi vabastamiseks.",
+    "sourceHash": "e9e5ac777726e29e",
+    "stale": false
+  }
+}

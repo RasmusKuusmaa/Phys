@@ -1,0 +1,56 @@
+{
+  "id": "the-hypothalamic-pituitary-axis-item1",
+  "conceptId": "the-hypothalamic-pituitary-axis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is the pituitary gland's nickname \"the master gland\" potentially misleading?",
+    "et": "Miks võib hüpofüüsi hüüdnimi \"peanääre\" olla eksitav?",
+    "sourceHash": "9400d021eaaeccdb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the pituitary itself is controlled by the hypothalamus above it via releasing hormones delivered through a dedicated local blood supply, so it isn't actually at the very top of the endocrine hierarchy.",
+        "et": "Sest hüpofüüsi ennast kontrollib selle kohal asuv hüpotalamus vabastavate hormoonide kaudu, mida edastatakse spetsiaalse kohaliku vereringe kaudu, mistõttu ei ole see tegelikult endokriinhierarhia kõige tipus.",
+        "sourceHash": "5281b1ec9d6cfc13",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the pituitary gland doesn't actually control any other endocrine glands, despite the nickname suggesting otherwise.",
+        "et": "Sest hüpofüüs ei kontrolli tegelikult ühtegi teist endokriinnäärmet, hoolimata hüüdnime vastupidisest vihjest.",
+        "sourceHash": "e651fc1b159543d4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hypothalamic-pituitary-axis-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because both lobes of the pituitary synthesize their own hormones independently, so no single lobe deserves the \"master\" title over the other.",
+        "et": "Sest mõlemad hüpofüüsi sagarad sünteesivad iseseisvalt oma hormoone, mistõttu ei vääri kumbki sagar teise ees \"pea\" tiitlit.",
+        "sourceHash": "37c7c4027a879cba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hypothalamic-pituitary-axis-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because negative feedback keeps every downstream hormone at a perfectly fixed level, making the pituitary's regulatory role unnecessary most of the time.",
+        "et": "Sest negatiivne tagasiside hoiab iga allpool asuva hormooni täiesti fikseeritud tasemel, muutes hüpofüüsi reguleeriva rolli enamasti tarbetuks.",
+        "sourceHash": "318f53ec1f98c13f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hypothalamic-pituitary-axis-m3"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "the-hypothalamic-pituitary-axis",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "endocrinology",
+  "title": {
+    "en": "The hypothalamic-pituitary axis",
+    "et": "Hüpotalamuse-hüpofüüsi telg",
+    "sourceHash": "d05b23e1ac8aa343",
+    "stale": false
+  },
+  "summary": {
+    "en": "The pituitary gland is often called the body's \"master gland\" because it directly controls hormone release from the thyroid, adrenal glands, and gonads, but the pituitary itself is not the true top of the chain -- it is controlled in turn by the hypothalamus immediately above it, which releases its own small peptide hormones directly into a dedicated local blood supply (the hypophyseal portal system) connecting it to the anterior pituitary, letting the brain fine-tune pituitary hormone release in response to signals from the rest of the nervous system. The anterior pituitary responds to these hypothalamic releasing hormones by secreting its own tropic hormones (TSH, ACTH, LH, FSH, growth hormone, prolactin) into the general circulation, each one targeting a specific downstream gland or tissue; the posterior pituitary works completely differently, simply storing and releasing two hormones (oxytocin and antidiuretic hormone) that are actually synthesized in the hypothalamus itself and transported down nerve axons to be released. Nearly every hormone axis in the endocrine system is regulated by negative feedback: rising levels of a downstream gland's hormone (thyroid hormone, cortisol, sex hormones) suppress further release of the hypothalamic and pituitary hormones that stimulated it in the first place, the same self-limiting design that keeps a thermostat-controlled heater from overheating a room.",
+    "et": "Hüpofüüsi nimetatakse sageli keha \"peanäärmeks\", sest see kontrollib otse hormoonide vabanemist kilpnäärmest, neerupealistest ja sugunäärmetest, kuid hüpofüüs ise ei ole ahela tegelik tipp -- seda kontrollib omakorda vahetult selle kohal asuv hüpotalamus, mis eritab oma väikesed peptiidhormoonid otse spetsiaalsesse kohalikku vereringesse (hüpofüüsi väravsüsteem), mis ühendab seda eesmise hüpofüüsiga, võimaldades ajul peenhäälestada hüpofüüsi hormoonide vabanemist vastuseks signaalidele ülejäänud närvisüsteemist. Eesmine hüpofüüs vastab neile hüpotalamuse vabastavatele hormoonidele, eritades oma trofilisi hormoone (TSH, ACTH, LH, FSH, kasvuhormoon, prolaktiin) üldisesse vereringesse, millest igaüks sihib konkreetset allpool asuvat näärmet või kude; tagumine hüpofüüs töötab hoopis teisiti, lihtsalt salvestades ja vabastades kahte hormooni (oksütotsiin ja antidiureetiline hormoon), mis on tegelikult sünteesitud hüpotalamuses endas ja transporditud alla närviaksonite kaudu vabastamiseks. Peaaegu iga endokriinsüsteemi hormoonitelg on reguleeritud negatiivse tagasiside kaudu: allpool asuva näärme hormooni (kilpnäärme hormoon, kortisool, suguhormoonid) taseme tõus pärsib edasist hüpotalamuse ja hüpofüüsi hormoonide vabanemist, mis seda algselt stimuleerisid, sama ise-piirav disain, mis hoiab termostaadiga juhitavat küttekeha tuba üle kuumutamast.",
+    "sourceHash": "44e5b028eeca4c30",
+    "stale": false
+  },
+  "prerequisites": [
+    "hormone-signaling-and-the-endocrine-system-overview"
+  ]
+}
