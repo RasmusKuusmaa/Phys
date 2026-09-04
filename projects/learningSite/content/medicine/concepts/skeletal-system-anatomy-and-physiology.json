@@ -1,0 +1,19 @@
+{
+  "id": "skeletal-system-anatomy-and-physiology",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "human-anatomy-and-physiology",
+  "title": {
+    "en": "Skeletal system anatomy and physiology",
+    "et": "Luustiku anatoomia ja füsioloogia",
+    "sourceHash": "adc95ec560cd5aaf",
+    "stale": false
+  },
+  "summary": {
+    "en": "The skeleton is not simply an inert scaffold: living bone is a dynamic tissue, continuously broken down by osteoclasts and rebuilt by osteoblasts in a lifelong remodeling cycle that lets the skeleton repair microdamage, adapt its density to mechanical load, and serve as the body's principal reservoir of calcium and phosphate, releasing or storing these minerals on hormonal signal to keep blood calcium within the narrow range the rest of the body's cells depend on. Joints -- the specialized connections between bones -- range from essentially immobile fibrous joints (the skull's sutures) through slightly mobile cartilaginous joints (between vertebrae) to the freely mobile synovial joints (the knee, shoulder, hip) that give the skeleton most of the movement people associate with it, each type trading mobility against stability in a way matched to its specific location's mechanical demands. Beyond movement and mineral storage, the skeleton also physically protects vital organs (the skull around the brain, the rib cage around the heart and lungs) and, in the marrow held within certain bones, manufactures the body's blood cells -- so a single system is simultaneously the body's structural framework, its mineral bank, its protective armor, and, through its marrow, part of its blood-forming machinery.",
+    "et": "Luustik ei ole lihtsalt elutu tugiraam: elav luu on dünaamiline kude, mida osteoklastid pidevalt lagundavad ja osteoblastid uuesti üles ehitavad kogu elu kestvas remodelleerumistsüklis, mis lubab luustikul parandada mikrokahjustusi, kohandada oma tihedust mehaanilise koormuse järgi ning toimida keha peamise kaltsiumi ja fosfaadi varuhoidlana, vabastades või ladustades neid mineraale hormonaalse signaali peale, et hoida vere kaltsiumisisaldust kitsas vahemikus, millest sõltuvad kõik keha ülejäänud rakud. Liigesed -- luude vaheliste spetsialiseeritud ühenduste -- ulatuvad sisuliselt liikumatutest kiulistest liigestest (koljuõmblused) läbi vähesel määral liikuvate kõhreliigeste (selgroolülide vahel) kuni vabalt liikuvate sünoviaalliigesteni (põlv, õlg, puus), mis annavad luustikule enamiku liikumisest, mida inimesed sellega seostavad, iga tüüp vahetades liikuvust stabiilsuse vastu viisil, mis sobib selle konkreetse asukoha mehaaniliste nõuetega. Lisaks liikumisele ja mineraalide ladustamisele kaitseb luustik füüsiliselt ka elutähtsaid organeid (kolju aju ümber, roietekorv südame ja kopsude ümber) ning teatud luude sees asuvas luuüdis toodab keha vererakke -- nii et üksainus süsteem on samaaegselt keha konstruktsiooniline raamistik, mineraalipank, kaitsesoomus ning oma luuüdi kaudu osa vereloome masinavärgist.",
+    "sourceHash": "98b46b5d440dc458",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "skeletal-system-anatomy-and-physiology-m3",
+  "conceptId": "skeletal-system-anatomy-and-physiology",
+  "text": {
+    "en": "I think all joints work the same way, just letting bones move against each other -- in reality, joints range from essentially immobile fibrous joints, through slightly mobile cartilaginous joints, to freely mobile synovial joints, and this variety exists because different locations in the body need different tradeoffs between mobility and stability -- a skull suture needs to be rigid, a vertebral joint needs limited controlled motion, and a shoulder needs a wide range of motion.",
+    "et": "Arvan, et kõik liigesed toimivad ühtemoodi, lastes luudel lihtsalt üksteise suhtes liikuda -- tegelikult ulatuvad liigesed sisuliselt liikumatutest kiulistest liigestest läbi vähesel määral liikuvate kõhreliigeste kuni vabalt liikuvate sünoviaalliigesteni, ning see mitmekesisus on olemas seetõttu, et erinevad kehaosad vajavad erinevat tasakaalu liikuvuse ja stabiilsuse vahel -- koljuõmblus peab olema jäik, selgroolüli liiges vajab piiratud kontrollitud liikumist ning õlg vajab suurt liikumisulatust.",
+    "sourceHash": "b0222cae91c3c40b",
+    "stale": false
+  }
+}

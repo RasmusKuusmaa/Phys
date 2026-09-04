@@ -1,0 +1,56 @@
+{
+  "id": "skeletal-system-anatomy-and-physiology-item1",
+  "conceptId": "skeletal-system-anatomy-and-physiology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the skeleton continue to change throughout adult life, well after bones have finished growing in length?",
+    "et": "Miks jätkab luustik muutumist kogu täiskasvanuea vältel, kaua pärast seda, kui luud on pikkuskasvu lõpetanud?",
+    "sourceHash": "980894d65e4d4d1c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because bone is a living tissue continuously remodeled by osteoclasts (which break down bone) and osteoblasts (which build new bone), letting it repair microdamage and adapt its density to mechanical load throughout life.",
+        "et": "Sest luu on elav kude, mida pidevalt remodelleerivad osteoklastid (lagundavad luud) ja osteoblastid (ehitavad uut luud), lubades sel parandada mikrokahjustusi ja kohandada oma tihedust mehaanilise koormuse järgi kogu elu jooksul.",
+        "sourceHash": "5e8fe5aa21ef91d6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't -- bone is a fixed, inert material once growth is complete, and any apparent change is measurement error rather than a real biological process.",
+        "et": "See ei ole nii -- luu on fikseeritud, elutu materjal, kui kasv on lõppenud, ning igasugune näiline muutus on mõõtmisviga, mitte tegelik bioloogiline protsess.",
+        "sourceHash": "35a2d83809d63e04",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skeletal-system-anatomy-and-physiology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because bone is constantly growing in length to keep pace with body movement, the same growth process that determines childhood height.",
+        "et": "Sest luu kasvab pidevalt pikkuses, et sammu pidada keha liikumisega, sama kasvuprotsess, mis määrab lapsepõlves pikkuse.",
+        "sourceHash": "ed99ed68337057e7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skeletal-system-anatomy-and-physiology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because joints wear down and are regenerated over time, which is a property of joints specifically rather than of bone tissue itself.",
+        "et": "Sest liigesed kuluvad ja taastuvad aja jooksul, mis on omane spetsiifiliselt liigestele, mitte luukoele endale.",
+        "sourceHash": "9fa8a5c4b7e0d2a3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skeletal-system-anatomy-and-physiology-m3"
+    }
+  ]
+}
