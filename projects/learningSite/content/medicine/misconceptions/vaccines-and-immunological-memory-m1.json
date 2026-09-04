@@ -1,0 +1,10 @@
+{
+  "id": "vaccines-and-immunological-memory-m1",
+  "conceptId": "vaccines-and-immunological-memory",
+  "text": {
+    "en": "A vaccine gives you a mild version of the actual disease, so getting vaccinated is basically the same as getting infected, just weaker -- in reality, many modern vaccines (subunit, mRNA, inactivated) contain no live pathogen capable of causing disease at all: they present an isolated piece of the pathogen or genetic instructions for one protein, not a weakened version of the actual infection, and even live-attenuated vaccines are specifically modified to be unable to cause the disease's actual pathology while still being recognized by the immune system.",
+    "et": "Vaktsiin annab kerge versiooni tegelikust haigusest, mistõttu vaktsineerimine on sisuliselt sama, mis nakatumine, lihtsalt nõrgemal kujul -- tegelikult ei sisalda paljud kaasaegsed vaktsiinid (alaühiku-, mRNA-, inaktiveeritud vaktsiinid) üldse elusat patogeeni, mis suudaks haigust põhjustada: need esitlevad isoleeritud patogeeni tükki või geneetilisi juhiseid ühe valgu jaoks, mitte tegeliku infektsiooni nõrgestatud versiooni, ning isegi elusnõrgestatud vaktsiinid on spetsiaalselt muudetud nii, et need ei suudaks põhjustada haiguse tegelikku patoloogiat, olles samal ajal immuunsüsteemi poolt äratuntavad.",
+    "sourceHash": "f20ec7c699ee3f39",
+    "stale": false
+  }
+}

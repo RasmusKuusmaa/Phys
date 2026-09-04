@@ -1,0 +1,10 @@
+{
+  "id": "vaccines-and-immunological-memory-m2",
+  "conceptId": "vaccines-and-immunological-memory",
+  "text": {
+    "en": "Herd immunity is a separate biological mechanism from individual immunity, something that only exists 'at the population level' -- in reality, herd immunity is a direct mathematical and mechanistic consequence of many individuals independently having immune memory: there's no separate population-level immune mechanism, it emerges automatically once enough individuals are protected, in the same way traffic flows more smoothly when enough individual drivers leave adequate following distance.",
+    "et": "Karjaimmuunsus on eraldiseisev bioloogiline mehhanism individuaalsest immuunsusest, midagi, mis eksisteerib ainult 'populatsiooni tasandil' -- tegelikult on karjaimmuunsus otsene matemaatiline ja mehhanistlik tagajärg sellest, et paljudel inimestel on sõltumatult immuunmälu: eraldi populatsiooni tasandi immuunmehhanismi ei ole, see tekib automaatselt, kui piisavalt palju inimesi on kaitstud, samamoodi nagu liiklus voolab sujuvamalt, kui piisavalt palju üksikuid juhte hoiab piisavat järgnemisdistantsi.",
+    "sourceHash": "69a15c1500de8b80",
+    "stale": false
+  }
+}

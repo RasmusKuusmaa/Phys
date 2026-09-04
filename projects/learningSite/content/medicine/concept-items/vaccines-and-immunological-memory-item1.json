@@ -1,0 +1,56 @@
+{
+  "id": "vaccines-and-immunological-memory-item1",
+  "conceptId": "vaccines-and-immunological-memory",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can widespread vaccination in a population indirectly protect even the small number of people who can't be vaccinated themselves?",
+    "et": "Miks võib laialdane vaktsineerimine populatsioonis kaudselt kaitsta isegi seda väikest hulka inimesi, keda ennast ei saa vaktsineerida?",
+    "sourceHash": "fa9b3db3aa90b97b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because when enough individuals carry primed immunological memory, a pathogen can no longer find enough susceptible hosts to sustain a chain of transmission -- an emergent consequence of many individual immune responses, not a separate protective mechanism.",
+        "et": "Sest kui piisavalt paljud inimesed kannavad ette valmistatud immunoloogilist mälu, ei suuda patogeen enam leida piisavalt vastuvõtlikke peremehi ülekandeahela säilitamiseks -- see on paljude individuaalsete immuunvastuste esilekerkiv tagajärg, mitte eraldiseisev kaitsemehhanism.",
+        "sourceHash": "fe0de676d9060151",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because herd immunity is a distinct population-level immune response that activates independently of any single person's individual immunity.",
+        "et": "Sest karjaimmuunsus on eraldiseisev populatsiooni tasandi immuunvastus, mis aktiveerub sõltumatult ühegi üksiku inimese individuaalsest immuunsusest.",
+        "sourceHash": "4a7fca4934904423",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vaccines-and-immunological-memory-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because vaccinated individuals carry a mild, transmissible form of the weakened pathogen that spreads protective immunity to unvaccinated people nearby.",
+        "et": "Sest vaktsineeritud inimesed kannavad kerget, nakkavat vormi nõrgestatud patogeenist, mis levitab kaitsvat immuunsust läheduses olevatele vaktsineerimata inimestele.",
+        "sourceHash": "deacc1e7d5635b58",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vaccines-and-immunological-memory-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It generally can't for long, since vaccine-induced protection in a population always fades within months without repeated booster campaigns.",
+        "et": "See üldiselt ei saa kaua kesta, kuna vaktsiinipõhine kaitse populatsioonis kaob alati mõne kuu jooksul ilma korduvate tõhustuskampaaniateta.",
+        "sourceHash": "75dccf055da9e137",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vaccines-and-immunological-memory-m3"
+    }
+  ]
+}

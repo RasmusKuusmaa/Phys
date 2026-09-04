@@ -1,0 +1,21 @@
+{
+  "id": "vaccines-and-immunological-memory",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "immunology",
+  "title": {
+    "en": "Vaccines and immunological memory",
+    "et": "Vaktsiinid ja immunoloogiline mälu",
+    "sourceHash": "6118ae13fa36268d",
+    "stale": false
+  },
+  "summary": {
+    "en": "A vaccine works by presenting the adaptive immune system with a harmless version or fragment of a pathogen -- a killed or weakened microbe, an isolated protein, or in newer platforms, genetic instructions that let the body's own cells briefly manufacture that protein -- so that the exact clonal-selection and memory-cell-formation process that would normally follow a real infection happens without the person having to survive the real disease first. The result is the same standing population of long-lived memory B and T cells that a natural infection would leave behind, primed to mount a fast, large secondary-style response if the real pathogen is ever encountered, often preventing the infection from ever producing noticeable symptoms at all. Because this protection depends on a large fraction of a population carrying that primed memory, a population-level effect follows directly from the same individual mechanism: when enough people are immune, a pathogen struggles to find enough susceptible hosts to sustain a chain of transmission, indirectly protecting even the small fraction of people who couldn't be vaccinated or didn't develop full immunity -- an emergent, mechanistic consequence of individual immunological memory, not a separate phenomenon. Immunological memory itself isn't permanent or equally durable for every vaccine or every pathogen; memory cell populations and antibody titers can wane over years, which is the actual mechanistic reason booster doses exist for some vaccines and not others -- not any deficiency in how the original vaccine worked, but a difference in how long that particular pathogen's memory response happens to persist.",
+    "et": "Vaktsiin toimib esitledes omandatud immuunsüsteemile patogeeni kahjutut versiooni või fragmenti -- tapetud või nõrgestatud mikroobi, isoleeritud valku või uuemate platvormide puhul geneetilisi juhiseid, mis lasevad organismi enda rakkudel seda valku lühiajaliselt toota --, nii et täpselt sama klonaalse selektsiooni ja mälurakkude moodustamise protsess, mis tavaliselt järgneks tegelikule infektsioonile, toimub ilma, et inimene peaks esmalt tegeliku haiguse üle elama. Tulemuseks on sama pikaealiste mälu-B- ja T-rakkude püsipopulatsioon, mille looduslik infektsioon jätaks maha, valmis käivitama kiire, ulatusliku sekundaarset tüüpi vastuse, kui tegeliku patogeeniga kunagi kokku puututakse, sageli takistades infektsioonil üldse märgatavaid sümptomeid tekitamast. Kuna see kaitse sõltub sellest, et suur osa populatsioonist kannab seda ette valmistatud mälu, järgneb populatsiooni tasandi mõju otseselt samast individuaalsest mehhanismist: kui piisavalt palju inimesi on immuunsed, on patogeenil raske leida piisavalt vastuvõtlikke peremehi ülekandeahela säilitamiseks, kaitstes kaudselt isegi seda väikest inimeste osa, keda ei saanud vaktsineerida või kellel ei tekkinud täielikku immuunsust -- see on individuaalse immunoloogilise mälu esilekerkiv, mehhanistlik tagajärg, mitte eraldiseisev nähtus. Immunoloogiline mälu ise ei ole püsiv ega võrdselt vastupidav iga vaktsiini või iga patogeeni puhul; mälurakkude populatsioonid ja antikehade tiitrid võivad aastate jooksul väheneda, mis ongi tegelik mehhanistlik põhjus, miks mõnede vaktsiinide puhul on olemas tõhustusdoosid ja teiste puhul mitte -- mitte mingi puudujääk selles, kuidas algne vaktsiin töötas, vaid erinevus selles, kui kaua konkreetse patogeeni mälu vastus juhtub püsima.",
+    "sourceHash": "95face6ed65c84ce",
+    "stale": false
+  },
+  "prerequisites": [
+    "adaptive-immunity-and-lymphocytes"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "vaccines-and-immunological-memory-m3",
+  "conceptId": "vaccines-and-immunological-memory",
+  "text": {
+    "en": "If a vaccine's protection needs a booster dose, that means the original vaccine didn't really work or was defective -- in reality, needing a booster reflects how long that specific pathogen's immunological memory happens to persist (which varies a lot by pathogen and vaccine platform), not a defect in the original dose; some vaccines produce memory lasting decades with no booster needed, others need periodic boosters simply because that particular immune memory wanes faster, a mechanistic difference in durability, not effectiveness.",
+    "et": "Kui vaktsiini kaitse vajab tõhustusdoosi, tähendab see, et algne vaktsiin tegelikult ei töötanud või oli defektne -- tegelikult peegeldab tõhustusdoosi vajadus seda, kui kaua konkreetse patogeeni immunoloogiline mälu püsib (mis varieerub palju patogeeniti ja vaktsiiniplatvormiti), mitte defekti algses doosis; mõned vaktsiinid tekitavad aastakümneid kestva mälu ilma tõhustuseta, teised vajavad perioodilisi tõhustusi lihtsalt seetõttu, et see konkreetne immuunmälu nõrgeneb kiiremini -- mehhanistlik erinevus vastupidavuses, mitte tõhususes.",
+    "sourceHash": "849f99f847ba5e2a",
+    "stale": false
+  }
+}
