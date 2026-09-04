@@ -1,0 +1,56 @@
+{
+  "id": "neuroplasticity-and-learning-item1",
+  "conceptId": "neuroplasticity-and-learning",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An elderly stroke survivor slowly regains some hand function over months of rehabilitation, even though the originally damaged brain tissue does not regenerate. What is the most likely cellular mechanism?",
+    "et": "Eakas insuldi üleelanu saab mõne käefunktsiooni kuudepikkuse rehabilitatsiooni jooksul aeglaselt tagasi, kuigi algselt kahjustatud ajukude ei taastu. Milline on kõige tõenäolisem rakuline mehhanism?",
+    "sourceHash": "e8e282af0be81781",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Existing, undamaged synaptic connections in nearby or related circuits strengthen and reorganize through activity-dependent plasticity, partially compensating for the lost tissue's function.",
+        "et": "Olemasolevad, kahjustamata sünaptilised ühendused lähedastes või seotud ahelates tugevnevad ja korralduvad ümber tegevusest sõltuva plastilisuse kaudu, kompenseerides osaliselt kadunud koe funktsiooni.",
+        "sourceHash": "4fef41f1f0c3ee0e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The brain grew entirely new neurons in the damaged region to physically replace the neurons that were lost.",
+        "et": "Aju kasvatas kahjustatud piirkonnas täiesti uusi neuroneid, et füüsiliselt asendada kadunud neuronid.",
+        "sourceHash": "0d042697eb49beab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neuroplasticity-and-learning-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This shouldn't be possible -- an adult brain's wiring is fixed and cannot change in response to rehabilitation exercises.",
+        "et": "See ei tohiks olla võimalik -- täiskasvanud aju juhtmestik on fikseeritud ega saa rehabilitatsiooniharjutuste vastuseks muutuda.",
+        "sourceHash": "5af3efb67f1e8395",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neuroplasticity-and-learning-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Every synapse throughout the brain was strengthened equally in response to the injury, boosting overall function everywhere at once.",
+        "et": "Iga sünaps kogu ajus tugevnes vigastuse vastuseks võrdselt, tõstes üldist funktsiooni kõikjal korraga.",
+        "sourceHash": "b8e082f212a2aafb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neuroplasticity-and-learning-m3"
+    }
+  ]
+}

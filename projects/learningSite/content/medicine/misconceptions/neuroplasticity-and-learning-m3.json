@@ -1,0 +1,10 @@
+{
+  "id": "neuroplasticity-and-learning-m3",
+  "conceptId": "neuroplasticity-and-learning",
+  "text": {
+    "en": "Long-term potentiation strengthens every synapse on a neuron equally whenever that neuron fires -- in reality, LTP is synapse-specific: only the particular synapses that were strongly and repeatedly active get strengthened, while other synapses on the same postsynaptic neuron that weren't part of that activity pattern are unaffected or can even weaken, which is exactly what allows a neuron to participate in many different, independently-tunable memory circuits rather than one global setting.",
+    "et": "Pikaajaline potentseerumine tugevdab võrdselt kõiki neuroni sünapse iga kord, kui see neuron tulistab -- tegelikult on LTP sünapsispetsiifiline: tugevnevad ainult need konkreetsed sünapsid, mis olid tugevalt ja korduvalt aktiivsed, samas kui teised sama postsünaptilise neuroni sünapsid, mis ei olnud selle aktiivsusmustri osa, jäävad mõjutamata või võivad isegi nõrgeneda, mis ongi täpselt see, mis lubab neuronil osaleda paljudes erinevates, iseseisvalt häälestatavates mäluahelates, mitte ühes globaalses seadistuses.",
+    "sourceHash": "7ae23d143a7de332",
+    "stale": false
+  }
+}

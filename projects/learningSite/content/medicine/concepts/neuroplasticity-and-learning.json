@@ -1,0 +1,21 @@
+{
+  "id": "neuroplasticity-and-learning",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "neuroscience",
+  "title": {
+    "en": "Neuroplasticity and learning",
+    "et": "Neuroplastilisus ja õppimine",
+    "sourceHash": "b5e41d88e6139392",
+    "stale": false
+  },
+  "summary": {
+    "en": "A neural circuit's wiring is not fixed after development -- synapses continuously strengthen or weaken based on how they're used, and this activity-dependent rewiring is the cellular mechanism underlying learning and memory. The best-studied example is long-term potentiation (LTP): when a synapse is activated repeatedly and strongly in a short window, the postsynaptic cell responds by inserting more receptors into that specific synapse and can also trigger structural growth of the connection, so the same presynaptic signal produces a measurably larger postsynaptic response afterward -- a durable, synapse-specific strengthening that can persist for hours in a dish and far longer in an intact brain. This obeys a principle often summarized as 'cells that fire together, wire together': synapses that are reliably active just before the postsynaptic cell fires get strengthened, while synapses that fire independently of the postsynaptic cell's activity tend to weaken (long-term depression), and this selective strengthening-and-weakening across millions of synapses is what encodes a specific memory or skill as a specific pattern of connection strengths, rather than a memory being stored in any single neuron or location. Plasticity is far more pronounced during specific developmental windows (critical periods) than in adulthood, but the adult brain retains real, if reduced, plasticity throughout life -- what does not happen in most of the adult human brain is large-scale generation of entirely new neurons to replace lost circuits; existing connections rewiring is the primary adult mechanism, not neurogenesis replacing damaged regions wholesale.",
+    "et": "Närviahela juhtmestik ei ole pärast arengut fikseeritud -- sünapsid tugevnevad või nõrgenevad pidevalt vastavalt sellele, kuidas neid kasutatakse, ning see tegevusest sõltuv ümberjuhtmestamine ongi rakuline mehhanism, mis on aluseks õppimisele ja mälule. Kõige paremini uuritud näide on pikaajaline potentseerumine (LTP): kui sünapsi aktiveeritakse korduvalt ja tugevalt lühikese ajaakna jooksul, vastab postsünaptiline rakk, lisades sellesse konkreetsesse sünapsi rohkem retseptoreid, ning võib käivitada ka ühenduse struktuurse kasvu, nii et sama presünaptiline signaal tekitab hiljem mõõdetavalt suurema postsünaptilise vastuse -- püsiv, sünapsispetsiifiline tugevnemine, mis võib püsida tundide kaupa laboris ja palju kauem terves ajus. See järgib põhimõtet, mida sageli kokku võetakse kui 'rakud, mis tulistavad koos, juhtmestuvad koos': sünapsid, mis on usaldusväärselt aktiivsed vahetult enne postsünaptilise raku tulistamist, tugevnevad, samas kui sünapsid, mis tulistavad postsünaptilise raku aktiivsusest sõltumatult, kipuvad nõrgenema (pikaajaline depressioon), ning see valikuline tugevnemine ja nõrgenemine miljonite sünapside ulatuses ongi see, mis kodeerib konkreetse mälu või oskuse konkreetse ühendustugevuste mustrina, mitte pole mälu talletatud üheski üksikus neuronis ega asukohas. Plastilisus on tunduvalt väljendunum teatud arenguperioodide (kriitiliste perioodide) jooksul kui täiskasvanueas, kuid täiskasvanud aju säilitab kogu elu jooksul tõelist, kuigi vähenenud plastilisust -- see, mis enamikus täiskasvanud inimese ajus ei toimu, on täiesti uute neuronite ulatuslik tekkimine kadunud ahelate asendamiseks; olemasolevate ühenduste ümberjuhtmestumine on peamine täiskasvanu mehhanism, mitte neurogenees, mis asendaks kahjustatud piirkondi täielikult.",
+    "sourceHash": "e7a0df3ed2d26d08",
+    "stale": false
+  },
+  "prerequisites": [
+    "synaptic-transmission-and-neurotransmitters"
+  ]
+}
