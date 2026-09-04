@@ -1,0 +1,22 @@
+{
+  "id": "biomaterials",
+  "subject": "materials-science",
+  "level": "L4",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Biomaterials",
+    "et": "Biomaterjalid",
+    "sourceHash": "ce14ab1ea21c5f15",
+    "stale": false
+  },
+  "summary": {
+    "en": "Biocompatibility is not a single fixed property a material either has or lacks in isolation, so that a material 'proven biocompatible' for one purpose is automatically safe for any implant application; biocompatibility is instead specific to the tissue environment, mechanical loading, and duration of contact a given application involves, so a material that is biocompatible as a short-term external surface contact can trigger a damaging immune or degradation response when implanted long-term inside load-bearing tissue, and conversely a material excellent for one internal implant site can be entirely wrong for another with different mechanical or biochemical demands; in addition, a material's mechanical performance inside the body is not static over time the way it is for most non-biological engineering materials, since the biological environment can actively degrade a biomaterial (through corrosion, enzymatic attack, or slow dissolution) at a rate that itself must be matched to the intended application, whether the material is meant to remain permanently inert or to degrade at a controlled rate as it is gradually replaced by natural tissue.",
+    "et": "Biosobivus ei ole üksik fikseeritud omadus, mis materjalil kas on või puudub eraldiseisvalt, nii et materjal, mis on 'tõestatud biosobivaks' ühel eesmärgil, on automaatselt ohutu igasuguse implantaadi rakenduse jaoks; biosobivus on selle asemel spetsiifiline koekeskkonnale, mehaanilisele koormusele ja kontakti kestusele, mida antud rakendus hõlmab, nii et materjal, mis on biosobiv lühiajalise välise pinnakontaktina, võib pikaajalisel koormust kandvasse koesse implanteerimisel vallandada kahjustava immuun- või lagunemisreaktsiooni, ning vastupidi, materjal, mis on suurepärane ühe sisemise implantaadikoha jaoks, võib olla täiesti vale teise jaoks erinevate mehaaniliste või biokeemiliste nõudmistega; lisaks ei ole materjali mehaaniline jõudlus kehas ajas staatiline nii nagu see on enamiku mitte-bioloogiliste inseneriteaduslike materjalide puhul, kuna bioloogiline keskkond võib aktiivselt lagundada biomaterjali (korrosiooni, ensümaatilise rünnaku või aeglase lahustumise kaudu) kiirusega, mis ise peab olema sobitatud kavandatud rakendusega, olenemata sellest, kas materjal on mõeldud jääma püsivalt inertseks või lagunema kontrollitud kiirusega, kui see järk-järgult asendatakse loodusliku koega.",
+    "sourceHash": "0ae6476aa5bf4421",
+    "stale": false
+  },
+  "prerequisites": [
+    "corrosion-and-material-degradation",
+    "materials-selection-and-design"
+  ]
+}

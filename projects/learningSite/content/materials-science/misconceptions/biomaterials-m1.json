@@ -1,0 +1,10 @@
+{
+  "id": "biomaterials-m1",
+  "conceptId": "biomaterials",
+  "text": {
+    "en": "Believing biocompatibility is a single fixed property a material either possesses or lacks in isolation, so a material 'proven biocompatible' in one context is automatically safe for any implant application -- biocompatibility is actually specific to the tissue environment, mechanical loading, and duration of contact a given application involves, so a material biocompatible for short-term external surface contact can trigger a damaging immune or degradation response when implanted long-term inside load-bearing tissue, meaning biocompatibility must be re-evaluated for each specific application context rather than treated as a portable, context-independent label.",
+    "et": "Arvamus, et biosobivus on üksik fikseeritud omadus, mis materjalil kas on või puudub eraldiseisvalt, nii et materjal, mis on 'tõestatud biosobivaks' ühes kontekstis, on automaatselt ohutu igasuguse implantaadi rakenduse jaoks -- biosobivus on tegelikult spetsiifiline koekeskkonnale, mehaanilisele koormusele ja kontakti kestusele, mida antud rakendus hõlmab, nii et materjal, mis on biosobiv lühiajalise välise pinnakontaktina, võib pikaajalisel koormust kandvasse koesse implanteerimisel vallandada kahjustava immuun- või lagunemisreaktsiooni, mis tähendab, et biosobivust tuleb uuesti hinnata iga konkreetse rakenduskonteksti jaoks, selle asemel et käsitleda seda kaasaskantava, kontekstist sõltumatu sildina.",
+    "sourceHash": "90d5fc4c5764d087",
+    "stale": false
+  }
+}

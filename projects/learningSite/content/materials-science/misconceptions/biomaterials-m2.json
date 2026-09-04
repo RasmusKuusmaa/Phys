@@ -1,0 +1,10 @@
+{
+  "id": "biomaterials-m2",
+  "conceptId": "biomaterials",
+  "text": {
+    "en": "Believing a biomaterial excellent for one internal implant site (say, a hip joint) must also be a good choice for a different implant site (say, a heart valve or a dental implant) since it is already established as 'biocompatible' -- different implant sites impose completely different mechanical loading patterns and biochemical environments, so a material's suitability is always relative to the specific site's demands, not an absolute, transferable property, and a material's mechanical and biochemical performance must be re-evaluated for each distinct application.",
+    "et": "Arvamus, et biomaterjal, mis on suurepärane ühe sisemise implantaadikoha jaoks (näiteks puusaliiges), peab olema hea valik ka teise implantaadikoha jaoks (näiteks südameklapp või hambaimplantaat), kuna see on juba tuvastatud kui 'biosobiv' -- erinevad implantaadikohad seavad täiesti erinevaid mehaanilise koormuse mustreid ja biokeemilisi keskkondi, seega on materjali sobivus alati suhteline konkreetse koha nõudmistega, mitte absoluutne, ülekantav omadus, ning materjali mehaanilist ja biokeemilist jõudlust tuleb iga eristuva rakenduse jaoks uuesti hinnata.",
+    "sourceHash": "e6166afd4b573a8d",
+    "stale": false
+  }
+}

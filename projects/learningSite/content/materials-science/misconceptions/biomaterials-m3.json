@@ -1,0 +1,10 @@
+{
+  "id": "biomaterials-m3",
+  "conceptId": "biomaterials",
+  "text": {
+    "en": "Believing a biomaterial's mechanical and structural performance inside the body remains static over time, the same way it would for a non-biological engineering material sitting in a controlled environment -- the biological environment can actively degrade a biomaterial through corrosion, enzymatic attack, or slow dissolution, so its performance can change substantially over the implant's service life, and this degradation rate must itself be deliberately matched to the application, whether the material is intended to remain permanently inert (as in a long-term joint replacement) or to degrade at a controlled rate as it is gradually replaced by natural tissue (as in a resorbable suture or scaffold).",
+    "et": "Arvamus, et biomaterjali mehaaniline ja struktuurne jõudlus kehas jääb ajas staatiliseks, samamoodi nagu see oleks mitte-bioloogilise inseneriteadusliku materjali puhul, mis asub kontrollitud keskkonnas -- bioloogiline keskkond võib aktiivselt lagundada biomaterjali korrosiooni, ensümaatilise rünnaku või aeglase lahustumise kaudu, seega võib selle jõudlus muutuda oluliselt implantaadi kasutusaja jooksul, ning see lagunemiskiirus peab ise olema tahtlikult sobitatud rakendusega, olenemata sellest, kas materjal on mõeldud jääma püsivalt inertseks (nagu pikaajalises liigeseasenduses) või lagunema kontrollitud kiirusega, kui see järk-järgult asendatakse loodusliku koega (nagu resorbeeritavas õmblusniidis või tugiraamistikus).",
+    "sourceHash": "3767f7770e086210",
+    "stale": false
+  }
+}

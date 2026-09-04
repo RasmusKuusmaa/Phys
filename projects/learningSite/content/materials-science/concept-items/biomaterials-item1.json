@@ -1,0 +1,56 @@
+{
+  "id": "biomaterials-item1",
+  "conceptId": "biomaterials",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A metal alloy well established as biocompatible for a long-term hip implant is proposed, without further evaluation, for a completely different application: a resorbable scaffold meant to degrade and be replaced by natural bone tissue over a few months. What is the flaw in this proposal?",
+    "et": "Metallisulam, mis on hästi tuvastatud biosobivana pikaajalise puusaimplantaadi jaoks, pakutakse ilma edasise hindamiseta täiesti erinevaks rakenduseks: resorbeeritavaks tugiraamistikuks, mis on mõeldud lagunema ja asendatama loodusliku luukoega mõne kuu jooksul. Mis on selles ettepanekus viga?",
+    "sourceHash": "c80834d227e07f64",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Biocompatibility and appropriate degradation rate are specific to the application; a material chosen to remain permanently inert is the wrong design target for an application that instead needs controlled degradation over months.",
+        "et": "Biosobivus ja sobiv lagunemiskiirus on rakendusspetsiifilised; materjal, mis on valitud jääma püsivalt inertseks, on vale disainisiht rakenduse jaoks, mis vajab selle asemel kontrollitud lagunemist mõne kuu jooksul.",
+        "sourceHash": "2452669d7466702e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Since the alloy is already proven biocompatible, it should work equally well for any implant application without further evaluation.",
+        "et": "Kuna sulam on juba tõestatud biosobivana, peaks see töötama võrdselt hästi igasuguse implantaadi rakenduse jaoks ilma edasise hindamiseta.",
+        "sourceHash": "eb7a4cd5ec8a02b3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biomaterials-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Since it already performed well in a hip implant, it must also be the right choice for a heart valve or dental implant, since it is generally 'a good biomaterial.'",
+        "et": "Kuna see toimis hästi puusaimplantaadis, peab see olema õige valik ka südameklapi või hambaimplantaadi jaoks, kuna see on üldiselt 'hea biomaterjal.'",
+        "sourceHash": "dde95c135839ac63",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biomaterials-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A biomaterial's mechanical performance inside the body should remain static over time just like a non-biological engineering material, so degradation is not something to plan around.",
+        "et": "Biomaterjali mehaaniline jõudlus kehas peaks jääma ajas staatiliseks nagu mitte-bioloogiline inseneriteaduslik materjal, seega ei ole lagunemine miski, mille ümber peaks planeerima.",
+        "sourceHash": "d36877cb3d69d000",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biomaterials-m3"
+    }
+  ]
+}
