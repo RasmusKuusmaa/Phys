@@ -1,0 +1,10 @@
+{
+  "id": "finite-element-analysis-fundamentals-m1",
+  "conceptId": "finite-element-analysis-fundamentals",
+  "text": {
+    "en": "Believing a finer mesh always simply gives a 'more accurate' answer with no downside -- past the point of mesh convergence, refining the mesh further mostly just consumes more computation time without meaningfully changing the result, and an excessively fine mesh placed around a true geometric singularity (e.g. a sharp re-entrant corner with zero fillet radius) can even report a stress value that diverges toward infinity rather than converging, which is a modelling artifact, not a real material behaviour.",
+    "et": "Arvamus, et tihedam võrgustik annab alati lihtsalt 'täpsema' vastuse ilma miinusteta -- pärast võrgustiku koondumise punkti kulutab edasine tihendamine peamiselt lisaarvutusaega, muutmata tulemust märkimisväärselt, ning ülemäära tihe võrgustik tõelise geomeetrilise singulaarsuse ümber (nt terav sissepoole suunatud nurk ilma ümardusraadiuseta) võib isegi näidata pingeväärtust, mis kaldub lõpmatuseni koondumise asemel, mis on mudeli artefakt, mitte tõeline materjali käitumine.",
+    "sourceHash": "1b5f97bc4c8d500a",
+    "stale": false
+  }
+}

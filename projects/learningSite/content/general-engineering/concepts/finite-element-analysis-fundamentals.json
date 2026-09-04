@@ -1,0 +1,21 @@
+{
+  "id": "finite-element-analysis-fundamentals",
+  "subject": "general-engineering",
+  "level": "L3",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Finite element analysis fundamentals",
+    "et": "Lõplike elementide meetodi alused",
+    "sourceHash": "0b702985d5daaf9a",
+    "stale": false
+  },
+  "summary": {
+    "en": "Finite element analysis (FEA) extends mechanics of materials' closed-form beam and bar equations to geometries and loading conditions too complex for a single analytic formula: a structure of arbitrary shape is discretised into a mesh of small, simply-shaped elements (triangles, quadrilaterals, tetrahedra) connected at shared nodes, each element's stiffness is captured by a small, well-understood element stiffness matrix, and assembling every element's contribution into one large global stiffness matrix reduces the entire structure's deformation under load to a large but mechanical linear-algebra problem, solved numerically rather than by hand; because the mesh is an approximation rather than the structure itself, the computed solution's accuracy depends directly on mesh quality -- a solution obtained on a given mesh is only trustworthy once refining the mesh further (more, smaller elements) stops changing the answer appreciably, called mesh convergence, and skipping this convergence check is how FEA results quietly become confident-looking nonsense.",
+    "et": "Lõplike elementide meetod (FEM/FEA) laiendab materjalide mehaanika suletud kujul tala- ja vardavõrrandeid geomeetriatele ja koormustingimustele, mis on liiga keerulised ühe analüütilise valemi jaoks: suvalise kujuga konstruktsioon jaotatakse võrgustikuks väikestest, lihtsa kujuga elementidest (kolmnurgad, nelinurgad, tetraeedrid), mis on ühendatud jagatud sõlmedes, iga elemendi jäikust kirjeldab väike, hästi mõistetav elemendi jäikusmaatriks ning iga elemendi panuse kokku panemine üheks suureks globaalseks jäikusmaatriksiks taandab kogu konstruktsiooni deformatsiooni koormuse all suureks, kuid mehaaniliseks lineaaralgebra ülesandeks, mis lahendatakse arvutuslikult, mitte käsitsi; kuna võrgustik on lähendus, mitte konstruktsioon ise, sõltub arvutatud lahendi täpsus otseselt võrgustiku kvaliteedist -- antud võrgustikul saadud lahendit saab usaldada alles siis, kui võrgustiku edasine tihendamine (rohkem, väiksemad elemendid) enam vastust märkimisväärselt ei muuda, mida nimetatakse võrgustiku koondumiseks, ning selle koondumiskontrolli vahelejätmine on viis, kuidas FEM tulemused muutuvad vaikselt enesekindlalt näivaks jaburuseks.",
+    "sourceHash": "56aadef586e93346",
+    "stale": false
+  },
+  "prerequisites": [
+    "mechanics-of-materials"
+  ]
+}

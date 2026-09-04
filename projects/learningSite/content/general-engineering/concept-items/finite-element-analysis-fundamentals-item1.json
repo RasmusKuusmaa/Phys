@@ -1,0 +1,56 @@
+{
+  "id": "finite-element-analysis-fundamentals-item1",
+  "conceptId": "finite-element-analysis-fundamentals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can't you tell whether a finite element analysis result is trustworthy just because the software produced a number without any error?",
+    "et": "Miks ei saa te öelda, kas lõplike elementide analüüsi tulemus on usaldusväärne, ainuüksi seetõttu, et tarkvara andis arvu ilma veateateta?",
+    "sourceHash": "4ab20932920b78d7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "correct": true,
+      "label": {
+        "en": "Because the software solves the linear-algebra problem on whatever mesh it's given regardless of quality; trustworthiness requires confirming mesh convergence -- that further refinement no longer changes the answer appreciably.",
+        "et": "Sest tarkvara lahendab lineaaralgebra ülesande igal talle antud võrgustikul, sõltumata kvaliteedist; usaldusväärsus nõuab võrgustiku koondumise kinnitamist -- et edasine tihendamine enam vastust märkimisväärselt ei muuda.",
+        "sourceHash": "63f641b0abe65bfe",
+        "stale": false
+      }
+    },
+    {
+      "id": "b",
+      "correct": false,
+      "misconceptionId": "finite-element-analysis-fundamentals-m1",
+      "label": {
+        "en": "Because a finer mesh always increases accuracy with no downside, so as long as the mesh is as fine as possible everywhere, the result is guaranteed trustworthy.",
+        "et": "Sest tihedam võrgustik suurendab alati täpsust ilma miinusteta, seega kuni võrgustik on kõikjal võimalikult tihe, on tulemus garanteeritult usaldusväärne.",
+        "sourceHash": "4017a2f3e7215cd3",
+        "stale": false
+      }
+    },
+    {
+      "id": "c",
+      "correct": false,
+      "misconceptionId": "finite-element-analysis-fundamentals-m2",
+      "label": {
+        "en": "Because the software automatically verifies mesh quality internally before returning a result, so a returned number can always be trusted as-is.",
+        "et": "Sest tarkvara kontrollib võrgustiku kvaliteeti automaatselt sisemiselt enne tulemuse tagastamist, seega saab tagastatud arvu alati sellisena usaldada.",
+        "sourceHash": "f018cc4e149ecca0",
+        "stale": false
+      }
+    },
+    {
+      "id": "d",
+      "correct": false,
+      "misconceptionId": "finite-element-analysis-fundamentals-m3",
+      "label": {
+        "en": "Because FEA operates independently of the stress-strain relationships in mechanics of materials, so no hand-calculation sanity check is possible.",
+        "et": "Sest FEM toimib materjalide mehaanika pinge-deformatsiooni seostest sõltumatult, mistõttu käsitsi arvutusega mõistlikkuskontroll ei ole võimalik.",
+        "sourceHash": "2266bdd5c34967ac",
+        "stale": false
+      }
+    }
+  ]
+}

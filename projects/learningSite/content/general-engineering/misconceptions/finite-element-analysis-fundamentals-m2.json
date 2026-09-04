@@ -1,0 +1,10 @@
+{
+  "id": "finite-element-analysis-fundamentals-m2",
+  "conceptId": "finite-element-analysis-fundamentals",
+  "text": {
+    "en": "Believing that running a model in an FEA package automatically produces a trustworthy result regardless of mesh -- the software will happily solve the linear-algebra problem on a badly-chosen mesh and hand back a plausible-looking, numerically confident answer that is nonetheless wrong; the mesh-convergence check is what tells you whether the number itself, not just the software's ability to compute one, can be trusted.",
+    "et": "Arvamus, et mudeli lahendamine FEM-tarkvaraga annab automaatselt usaldusväärse tulemuse, sõltumata võrgustikust -- tarkvara lahendab meeleldi lineaaralgebra ülesande halvasti valitud võrgustikul ja annab tagasi usutava välimusega, arvuliselt enesekindla, kuid siiski vale vastuse; võrgustiku koondumiskontroll ütleb, kas arv ise, mitte ainult tarkvara võime arvu välja arvutada, on usaldusväärne.",
+    "sourceHash": "3737ae4c5920f37a",
+    "stale": false
+  }
+}

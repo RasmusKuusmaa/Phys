@@ -1,0 +1,10 @@
+{
+  "id": "finite-element-analysis-fundamentals-m3",
+  "conceptId": "finite-element-analysis-fundamentals",
+  "text": {
+    "en": "Believing FEA replaces the need to understand mechanics of materials in the first place -- FEA numerically solves the same underlying stress-strain relationships mechanics of materials describes analytically for simple geometries, so an engineer who cannot recognise an implausible FEA result (wrong order of magnitude, an unphysical stress concentration, a boundary condition that doesn't match the real support) has no way to catch the software producing a confidently wrong answer.",
+    "et": "Arvamus, et FEM teeb materjalide mehaanika mõistmise üleliigseks -- FEM lahendab arvutuslikult samu aluseks olevaid pinge-deformatsiooni seoseid, mida materjalide mehaanika kirjeldab analüütiliselt lihtsate geomeetriate jaoks, nii et insener, kes ei suuda ära tunda ebausutavat FEM tulemust (vale suurusjärk, ebafüüsikaline pingekontsentratsioon, rajatingimus, mis ei vasta tegelikule toele), ei suuda tabada tarkvara, mis annab enesekindlalt vale vastuse.",
+    "sourceHash": "e47626df265b152c",
+    "stale": false
+  }
+}
