@@ -1,0 +1,10 @@
+{
+  "id": "cell-membrane-transport-and-signaling-m2",
+  "conceptId": "cell-membrane-transport-and-signaling",
+  "text": {
+    "en": "Active transport and facilitated diffusion are the same thing, since both use a membrane protein to move a substance across the membrane -- in reality, the defining difference is energy and direction: facilitated diffusion moves a substance down its concentration gradient and requires no cellular energy, while active transport moves a substance against its gradient and requires spending ATP (or another energy source) to do so.",
+    "et": "Aktiivne transport ja hõlbustatud difusioon on sama asi, kuna mõlemad kasutavad ainet membraanist läbi liigutamiseks membraanivalku -- tegelikult on määravaks erinevuseks energia ja suund: hõlbustatud difusioon liigutab ainet mööda selle kontsentratsioonigradienti ning ei vaja raku energiat, samas kui aktiivne transport liigutab ainet vastu gradienti ning nõuab selleks ATP (või mõne muu energiaallika) kulutamist.",
+    "sourceHash": "0d98a45b940d1fef",
+    "stale": false
+  }
+}

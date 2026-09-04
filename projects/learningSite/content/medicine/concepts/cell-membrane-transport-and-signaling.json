@@ -1,0 +1,21 @@
+{
+  "id": "cell-membrane-transport-and-signaling",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "cell-and-molecular-biology",
+  "title": {
+    "en": "Cell membrane transport and signaling",
+    "et": "Rakumembraani transport ja signalisatsioon",
+    "sourceHash": "10738e473f9b4fe0",
+    "stale": false
+  },
+  "summary": {
+    "en": "The cell membrane is a selectively permeable barrier built from a phospholipid bilayer studded with proteins, and everything a cell needs to exchange with its environment -- nutrients in, waste out, and information both ways -- has to cross it through one of a small number of mechanisms. Small nonpolar molecules like oxygen and carbon dioxide slip directly through the lipid bilayer by simple diffusion, moving down their own concentration gradient with no energy cost and no protein required; larger or charged molecules like glucose and ions instead need a specific membrane protein to cross, either a channel that lets them diffuse down their gradient without using cellular energy (facilitated diffusion) or a pump that spends ATP to move them against their gradient (active transport), the mechanism the sodium-potassium pump uses to maintain the steep ion gradients that make nerve and muscle cells excitable. Communication works on the same gatekeeper principle: most signaling molecules (hormones, neurotransmitters) never enter the cell at all, instead binding a specific receptor protein embedded in the membrane, which then relays that binding event inward through a signal transduction cascade -- a chain of intracellular proteins and second messengers that amplifies and distributes the signal to trigger the cell's actual response, whether that's a gene turning on, a muscle contracting, or a secretory vesicle releasing its contents.",
+    "et": "Rakumembraan on selektiivselt läbilaskev barjäär, mis on ehitatud valkudega kaetud fosfolipiidsest kaksikkihist, ning kõik, mida rakk peab oma keskkonnaga vahetama -- toitained sisse, jäätmed välja, ning informatsioon mõlemas suunas -- peab seda läbima ühe väikese arvu mehhanismide kaudu. Väikesed mittepolaarsed molekulid nagu hapnik ja süsihappegaas libisevad otse läbi lipiidse kaksikkihi lihtsa difusiooni teel, liikudes mööda oma kontsentratsioonigradienti ilma energiakuluta ja ilma valguta; suuremad või laetud molekulid nagu glükoos ja ioonid vajavad selle asemel läbimiseks konkreetset membraanivalku, kas kanalit, mis laseb neil oma gradiendi suunas difundeeruda ilma raku energiat kasutamata (hõlbustatud difusioon), või pumpa, mis kulutab ATP-d, et liigutada neid vastu gradienti (aktiivne transport) -- mehhanism, mida naatrium-kaalium pump kasutab, säilitamaks järske iongradiente, mis muudavad närvi- ja lihasrakud erutuvaks. Suhtlus toimib samal väravavahi põhimõttel: enamik signaalmolekule (hormoonid, neurotransmitterid) ei sisene rakku üldse, vaid seonduvad hoopis konkreetse retseptorvalguga membraanis, mis seejärel edastab selle seondumissündmuse sissepoole signaaliülekande kaskaadi kaudu -- rakusiseste valkude ja teiseste vahendajate ahela kaudu, mis võimendab ja levitab signaali, käivitamaks raku tegeliku vastuse, olgu selleks siis geeni sisselülitumine, lihase kokkutõmbumine või sekretoorse vesiikuli sisu vabastamine.",
+    "sourceHash": "cf6eae8efcdacfaa",
+    "stale": false
+  },
+  "prerequisites": [
+    "cell-structure-and-organelle-function"
+  ]
+}

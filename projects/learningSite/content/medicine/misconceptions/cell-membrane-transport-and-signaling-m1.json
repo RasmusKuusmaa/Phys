@@ -1,0 +1,10 @@
+{
+  "id": "cell-membrane-transport-and-signaling-m1",
+  "conceptId": "cell-membrane-transport-and-signaling",
+  "text": {
+    "en": "All molecules can pass freely through the cell membrane if there's a concentration gradient pushing them, since diffusion just needs a gradient to work -- in reality, whether a molecule can cross the lipid bilayer directly depends heavily on its size and polarity: small nonpolar molecules pass through easily, but larger molecules and charged ions cannot cross the hydrophobic interior of the bilayer at any concentration gradient without a specific membrane transport protein to carry or channel them through.",
+    "et": "Kõik molekulid saavad rakumembraani vabalt läbida, kui olemas on neid suunav kontsentratsioonigradient, kuna difusiooniks piisab vaid gradiendist -- tegelikult sõltub see, kas molekul saab lipiidset kaksikkihti otse läbida, tugevalt selle suurusest ja polaarsusest: väikesed mittepolaarsed molekulid läbivad seda kergesti, kuid suuremad molekulid ja laetud ioonid ei suuda kaksikkihi hüdrofoobset sisemust läbida mistahes kontsentratsioonigradiendi juures ilma konkreetse membraani transpordivalguta, mis neid kannaks või kanaliks.",
+    "sourceHash": "ef772ca188d86616",
+    "stale": false
+  }
+}

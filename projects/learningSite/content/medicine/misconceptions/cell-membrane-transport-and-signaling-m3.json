@@ -1,0 +1,10 @@
+{
+  "id": "cell-membrane-transport-and-signaling-m3",
+  "conceptId": "cell-membrane-transport-and-signaling",
+  "text": {
+    "en": "A hormone or neurotransmitter has to physically enter a cell to have any effect on it -- in reality, most signaling molecules never cross the cell membrane at all; they bind to a receptor protein on the cell surface, and it is that binding event, not the molecule's entry, that triggers an intracellular signal transduction cascade producing the cell's response.",
+    "et": "Hormoon või neurotransmitter peab rakule mistahes mõju avaldamiseks sellesse füüsiliselt sisenema -- tegelikult ei ületa enamik signaalmolekule rakumembraani üldse; need seonduvad rakupinnal oleva retseptorvaluga, ning just see seondumissündmus, mitte molekuli sisenemine, käivitab rakusisese signaaliülekande kaskaadi, mis toodab raku vastuse.",
+    "sourceHash": "939c70abd255127c",
+    "stale": false
+  }
+}

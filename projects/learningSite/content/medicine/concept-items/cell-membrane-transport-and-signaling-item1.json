@@ -1,0 +1,56 @@
+{
+  "id": "cell-membrane-transport-and-signaling-item1",
+  "conceptId": "cell-membrane-transport-and-signaling",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A glucose molecule needs to enter a cell, but glucose cannot simply diffuse across the lipid bilayer on its own. Why not, and how does it get in instead?",
+    "et": "Glükoosimolekul peab rakku sisenema, kuid glükoos ei saa lihtsalt iseenesest lipiidset kaksikkihti difundeeruda. Miks mitte, ja kuidas see selle asemel sisse pääseb?",
+    "sourceHash": "ae224be33d607c71",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Glucose is too large and polar to cross the hydrophobic lipid bilayer directly, so it must pass through a specific membrane transport protein (a channel or carrier) instead.",
+        "et": "Glükoos on liiga suur ja polaarne, et hüdrofoobset lipiidset kaksikkihti otse läbida, mistõttu peab see selle asemel läbima konkreetse membraani transpordivalgu (kanali või kandja).",
+        "sourceHash": "9eb91624258a603c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Glucose can actually diffuse directly through the lipid bilayer just fine, since any molecule will cross the membrane as long as a concentration gradient favors it.",
+        "et": "Glükoos saab tegelikult lipiidset kaksikkihti otse läbida täiesti hästi, kuna iga molekul ületab membraani niikaua, kuni kontsentratsioonigradient seda soosib.",
+        "sourceHash": "22115d06992a130c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cell-membrane-transport-and-signaling-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Facilitated diffusion and active transport are the same process, so it doesn't matter which one moves the glucose in, since both work identically.",
+        "et": "Hõlbustatud difusioon ja aktiivne transport on sama protsess, mistõttu pole vahet, kumb glükoosi sisse liigutab, kuna mõlemad toimivad identselt.",
+        "sourceHash": "ce3db3e1359a5950",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cell-membrane-transport-and-signaling-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Glucose has to bind a surface receptor and never actually enters the cell -- the receptor itself performs the chemical reactions that glucose is needed for.",
+        "et": "Glükoos peab seonduma pinnaretseptoriga ega sisene rakku kunagi tegelikult -- retseptor ise teostab keemilisi reaktsioone, mille jaoks glükoosi vaja on.",
+        "sourceHash": "e3b327f6d935364e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cell-membrane-transport-and-signaling-m3"
+    }
+  ]
+}
