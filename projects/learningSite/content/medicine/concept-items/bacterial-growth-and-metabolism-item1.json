@@ -1,0 +1,56 @@
+{
+  "id": "bacterial-growth-and-metabolism-item1",
+  "conceptId": "bacterial-growth-and-metabolism",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A bacterial culture is inoculated into a fresh, fixed volume of nutrient broth and monitored over 48 hours. Why does its population size eventually stop increasing and then decline, rather than continuing to double indefinitely?",
+    "et": "Bakterikultuur inokuleeritakse värskesse, fikseeritud mahuga toitepuljongisse ja seda jälgitakse 48 tunni jooksul. Miks lakkab selle populatsiooni suurus lõpuks kasvamast ja seejärel väheneb, selle asemel et jätkuvalt lõputult kahekordistuda?",
+    "sourceHash": "95996fc1c50153fc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because exponential doubling only occurs during the log phase, when nutrients are abundant; as nutrients deplete and waste products accumulate in the fixed volume, growth slows (stationary phase) and then the death rate exceeds division (death phase).",
+        "et": "Sest eksponentsiaalne kahekordistumine toimub ainult log-faasis, kui toitaineid on rohkelt; kui toitained fikseeritud mahus ammenduvad ja jäätmed kogunevad, kasv aeglustub (statsionaarne faas) ja seejärel ületab surmakiirus jagunemise (surmafaas).",
+        "sourceHash": "5ac1ba02c9c1db17",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't really stop -- the population keeps doubling at the same constant rate throughout, it just becomes too dilute to detect accurately by the later time points.",
+        "et": "See tegelikult ei lakka -- populatsioon jätkab kogu aeg sama konstantse kiirusega kahekordistumist, see lihtsalt muutub hilisemate ajapunktide jaoks liiga lahjaks, et täpselt tuvastada.",
+        "sourceHash": "388831370db63e36",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bacterial-growth-and-metabolism-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the bacteria run out of oxygen partway through and are then unable to generate any further energy at all, halting all further growth immediately.",
+        "et": "Sest bakteritel saab poole peal hapnik otsa ja nad ei suuda enam üldse edasist energiat toota, peatades kohe igasuguse edasise kasvu.",
+        "sourceHash": "767a9a55d8accdb0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bacterial-growth-and-metabolism-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because each bacterium is permanently fixed as either aerobic or anaerobic, and once the culture's fixed type of metabolism becomes unavailable, growth cannot continue in any form.",
+        "et": "Sest iga bakter on püsivalt fikseeritud kas aeroobseks või anaeroobseks, ning kui kultuuri fikseeritud ainevahetuse tüüp muutub kättesaamatuks, ei saa kasv enam üheski vormis jätkuda.",
+        "sourceHash": "ce9c5a62ff1a9d59",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bacterial-growth-and-metabolism-m3"
+    }
+  ]
+}

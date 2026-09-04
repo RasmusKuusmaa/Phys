@@ -1,0 +1,57 @@
+{
+  "id": "bacterial-growth-and-metabolism-formula1",
+  "conceptId": "bacterial-growth-and-metabolism",
+  "latex": "N = N_0 \\cdot 2^{t/t_d}",
+  "symbols": [
+    {
+      "symbol": "N",
+      "name": {
+        "en": "population size",
+        "et": "populatsiooni suurus",
+        "sourceHash": "ba9fb57c1450cff6",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "N0",
+      "name": {
+        "en": "population size",
+        "et": "populatsiooni suurus",
+        "sourceHash": "ba9fb57c1450cff6",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "t",
+      "name": {
+        "en": "time",
+        "et": "aeg",
+        "sourceHash": "336074805fc85398",
+        "stale": false
+      },
+      "unit": "s"
+    },
+    {
+      "symbol": "td",
+      "name": {
+        "en": "doubling time",
+        "et": "kahekordistumisaeg",
+        "sourceHash": "7b64e5d527a7a7b1",
+        "stale": false
+      },
+      "unit": "s"
+    }
+  ],
+  "solveFor": [
+    "N",
+    "t",
+    "td"
+  ],
+  "expressions": {
+    "N": "N0*pow(2, t/td)",
+    "t": "td*ln(N/N0)/ln(2)",
+    "td": "t*ln(2)/ln(N/N0)"
+  }
+}

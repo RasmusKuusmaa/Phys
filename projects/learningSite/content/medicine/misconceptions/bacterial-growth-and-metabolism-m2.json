@@ -1,0 +1,10 @@
+{
+  "id": "bacterial-growth-and-metabolism-m2",
+  "conceptId": "bacterial-growth-and-metabolism",
+  "text": {
+    "en": "Anaerobic bacteria don't produce energy at all, since they can't use oxygen -- they're just 'surviving' rather than actively metabolizing -- in reality, anaerobic bacteria absolutely generate usable energy, through fermentation or by using an electron acceptor other than oxygen (such as nitrate or sulfate); they simply extract substantially less energy per glucose molecule than aerobic respiration does, not zero energy, and many anaerobic bacteria thrive and reproduce successfully in oxygen-free environments precisely because their metabolism is well suited to those conditions, not despite some metabolic deficiency.",
+    "et": "Anaeroobsed bakterid ei tooda üldse energiat, kuna nad ei saa hapnikku kasutada -- nad lihtsalt 'ellu jäävad', selle asemel et aktiivselt ainevahetust teostada -- tegelikult toodavad anaeroobsed bakterid kindlasti kasutatavat energiat käärimise kaudu või kasutades muud elektroniaktseptorit kui hapnik (nagu nitraat või sulfaat); nad lihtsalt eraldavad glükoosimolekuli kohta oluliselt vähem energiat kui aeroobne hingamine, mitte null energiat, ning paljud anaeroobsed bakterid õitsevad ja paljunevad edukalt hapnikuvabades keskkondades just seetõttu, et nende ainevahetus sobib nende tingimustega hästi, mitte mingi ainevahetusliku puudujäägi kiuste.",
+    "sourceHash": "7451f3d187811d62",
+    "stale": false
+  }
+}

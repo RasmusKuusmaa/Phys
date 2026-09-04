@@ -1,0 +1,21 @@
+{
+  "id": "bacterial-growth-and-metabolism",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "microbiology",
+  "title": {
+    "en": "Bacterial growth and metabolism",
+    "et": "Bakterite kasv ja ainevahetus",
+    "sourceHash": "f96a256d63dcb2f8",
+    "stale": false
+  },
+  "summary": {
+    "en": "A bacterial population growing in a fixed, nutrient-limited environment follows a strikingly reproducible growth curve with four distinct phases: a lag phase where cells are metabolically active but not yet dividing, adjusting to their new environment; a log (exponential) phase where the population doubles at a constant rate, each bacterium dividing into two at regular intervals with no resource limitation yet in effect; a stationary phase where the growth rate falls to roughly zero as nutrients deplete and waste products accumulate, with new cell division balanced by an equal rate of cell death; and a death phase where the death rate now exceeds any remaining division, and the population shrinks. Underlying all of this is a second major distinction in how bacteria generate energy: aerobic metabolism uses oxygen as the final electron acceptor in cellular respiration and extracts far more energy per glucose molecule than anaerobic metabolism, which instead relies on fermentation or alternative electron acceptors and yields much less usable energy -- some bacteria are obligate aerobes that die without oxygen, others are obligate anaerobes that are poisoned by it, and many are facultative anaerobes that can switch between the two strategies depending on what's available, a metabolic flexibility that is itself an important survival trait.",
+    "et": "Bakteripopulatsioon, mis kasvab fikseeritud, toitainete poolt piiratud keskkonnas, järgib silmatorkavalt korduvat kasvukõverat nelja eristuva faasiga: lag-faas, kus rakud on ainevahetuslikult aktiivsed, kuid veel ei jagune, kohanedes oma uue keskkonnaga; log- ehk eksponentsiaalne faas, kus populatsioon kahekordistub konstantse kiirusega, iga bakter jagunedes korrapäraste ajavahemike järel kaheks, ilma et resursipiirang veel mõjuks; statsionaarne faas, kus kasvukiirus langeb ligikaudu nullini, kui toitained ammenduvad ja jäätmed kogunevad, uue rakkude jagunemise tasakaalustades võrdne surmakiirus; ning surmafaas, kus surmakiirus ületab nüüd igasugust järelejäänud jagunemist ja populatsioon kahaneb. Kõige selle aluseks on teine oluline erinevus selles, kuidas bakterid energiat toodavad: aeroobne ainevahetus kasutab hapnikku raku hingamise lõpliku elektroniaktseptorina ning eraldab glükoosimolekuli kohta palju rohkem energiat kui anaeroobne ainevahetus, mis toetub selle asemel käärimisele või alternatiivsetele elektroniaktseptoritele ja annab palju vähem kasutatavat energiat -- mõned bakterid on kohustuslikud aeroobid, kes surevad ilma hapnikuta, teised on kohustuslikud anaeroobid, keda hapnik mürgitab, ning paljud on fakultatiivsed anaeroobid, kes suudavad kahe strateegia vahel vastavalt saadavusele lülituda, mis omaette on oluline ellujäämisomadus.",
+    "sourceHash": "58e84c71619746d9",
+    "stale": false
+  },
+  "prerequisites": [
+    "bacterial-structure-and-classification"
+  ]
+}

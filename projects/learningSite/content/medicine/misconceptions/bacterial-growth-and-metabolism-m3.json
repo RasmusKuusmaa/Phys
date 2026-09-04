@@ -1,0 +1,10 @@
+{
+  "id": "bacterial-growth-and-metabolism-m3",
+  "conceptId": "bacterial-growth-and-metabolism",
+  "text": {
+    "en": "All bacteria are either 'aerobic' or 'anaerobic' as a fixed, permanent property, so a bacterium can never function in the other kind of environment -- in reality, many bacteria are facultative anaerobes that can switch between aerobic and anaerobic metabolism depending on oxygen availability, using the more energy-efficient aerobic pathway when oxygen is present and switching to fermentation when it isn't; the aerobic/anaerobic distinction describes a spectrum of strategies and tolerances, not a single universal binary category that applies the same way to every species.",
+    "et": "Kõik bakterid on kas 'aeroobsed' või 'anaeroobsed' fikseeritud, püsiva omadusena, mistõttu bakter ei saa kunagi funktsioneerida teistsuguses keskkonnas -- tegelikult on paljud bakterid fakultatiivsed anaeroobid, kes suudavad lülituda aeroobse ja anaeroobse ainevahetuse vahel sõltuvalt hapniku saadavusest, kasutades energiatõhusamat aeroobset rada, kui hapnikku on saadaval, ja lülitudes käärimisele, kui seda pole; aeroobse/anaeroobse eristus kirjeldab strateegiate ja talutavuste spektrit, mitte üht universaalset binaarset kategooriat, mis kehtib igale liigile ühtemoodi.",
+    "sourceHash": "73ecfba2b0f2133c",
+    "stale": false
+  }
+}

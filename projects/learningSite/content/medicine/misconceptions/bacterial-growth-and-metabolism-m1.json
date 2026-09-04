@@ -1,0 +1,10 @@
+{
+  "id": "bacterial-growth-and-metabolism-m1",
+  "conceptId": "bacterial-growth-and-metabolism",
+  "text": {
+    "en": "Bacteria grow and divide at a constant rate no matter how long they've been in a culture, so a population just keeps doubling forever until you stop it -- in reality, real bacterial growth follows a four-phase curve, not indefinite constant doubling: exponential doubling happens only during the log phase, and growth necessarily slows and then reverses (stationary and death phases) as nutrients are consumed and waste accumulates in any fixed, closed environment; unlimited exponential growth is a mathematical idealization that only holds briefly.",
+    "et": "Bakterid kasvavad ja jagunevad konstantse kiirusega, olenemata sellest, kui kaua nad on kultuuris olnud, mistõttu populatsioon lihtsalt jätkab lõputult kahekordistumist, kuni selle peatad -- tegelikult järgib tõeline bakterite kasv nelja faasiga kõverat, mitte lõputut konstantset kahekordistumist: eksponentsiaalne kahekordistumine toimub ainult log-faasis ning kasv paratamatult aeglustub ja seejärel pöördub (statsionaarne ja surmafaas), kui toitained ammenduvad ja jäätmed kogunevad mistahes fikseeritud, suletud keskkonnas; piiramatu eksponentsiaalne kasv on matemaatiline idealiseering, mis kehtib ainult lühikest aega.",
+    "sourceHash": "16e9e9fa1e32163c",
+    "stale": false
+  }
+}

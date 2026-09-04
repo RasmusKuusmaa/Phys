@@ -1,0 +1,45 @@
+{
+  "id": "bacterial-growth-and-metabolism-solve-N",
+  "formulaId": "bacterial-growth-and-metabolism-formula1",
+  "variables": [
+    {
+      "symbol": "N0",
+      "min": 100,
+      "max": 10000,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "t",
+      "min": 600,
+      "max": 7200,
+      "unit": "s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "td",
+      "min": 600,
+      "max": 2400,
+      "unit": "s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "N0",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "t",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "td",
+      "right": 0
+    }
+  ],
+  "solveFor": "N"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bacterial-growth-and-metabolism-solve-N",
+  "formulaId": "bacterial-growth-and-metabolism-formula1",
+  "solveFor": "N",
+  "mistakes": [
+    {
+      "id": "used-decay-instead-of-growth",
+      "description": {
+        "en": "Used the decay form of the exponential (halving) instead of the growth form (doubling), treating the population as if it were shrinking rather than growing.",
+        "et": "Kasutas eksponendi kahanemisvormi (poolitumine) kasvuvormi (kahekordistumine) asemel, käsitledes populatsiooni nii, nagu see kahaneks, mitte ei kasvaks.",
+        "sourceHash": "3e5b62ef2c8e6b4a",
+        "stale": false
+      },
+      "expression": "N0*pow(0.5, t/td)"
+    },
+    {
+      "id": "linear-instead-of-exponential",
+      "description": {
+        "en": "Modeled the growth as linear (adding one doubling-time-fraction worth of population) instead of exponential.",
+        "et": "Modelleeris kasvu lineaarsena (lisades ühe kahekordistumisaja osa võrra populatsiooni), mitte eksponentsiaalsena.",
+        "sourceHash": "1522152cb52aaaff",
+        "stale": false
+      },
+      "expression": "N0*(1+t/td)"
+    },
+    {
+      "id": "inverted-the-time-ratio",
+      "description": {
+        "en": "Inverted the time-over-doubling-time ratio in the exponent, computing td/t instead of t/td.",
+        "et": "Pööras eksponendis aja ja kahekordistumisaja suhte ümber, arvutades td/t, mitte t/td.",
+        "sourceHash": "6ef3c0f569f2192e",
+        "stale": false
+      },
+      "expression": "N0*pow(2, td/t)"
+    }
+  ]
+}

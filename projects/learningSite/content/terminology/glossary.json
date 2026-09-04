@@ -371,6 +371,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/dopeerimine/1/est"
   },
   {
+    "id": "doubling-time",
+    "en": "doubling time",
+    "et": "kahekordistumisaeg",
+    "domain": "microbiology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kahekordistumisaeg/1/est"
+  },
+  {
     "id": "drag-force",
     "en": "drag force",
     "et": "takistusjõud",
@@ -1132,6 +1139,13 @@
     "et": "polarisatsioon",
     "domain": "optics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/polarisatsioon/1/est"
+  },
+  {
+    "id": "population-size",
+    "en": "population size",
+    "et": "populatsiooni suurus",
+    "domain": "microbiology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/populatsioon/1/est"
   },
   {
     "id": "position-uncertainty",
