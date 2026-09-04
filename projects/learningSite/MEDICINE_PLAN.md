@@ -682,4 +682,66 @@ organ-system-pathophysiology modules. `npm run validate:content` (9
 subjects, 594 concepts), `npm run lint:terminology` (266 glossary terms),
 and `npm run typecheck` all pass; working tree clean.
 
+## Phase Med7 — gastrointestinal/hepatic medicine, and renal/urologic
+## medicine
+
+Noticed while scoping this phase: Phase Med1's `human-anatomy-and-
+physiology` module covered skeletal, muscular, cardiovascular,
+respiratory, nervous, and digestive systems, but never added a renal/
+urinary system overview — an omission, not a deliberate scope decision (it
+should have been a seventh Med1 concept). Rather than reopening the
+already-closed-out Med1 phase, this phase adds the missing renal/urinary
+anatomy-and-physiology concept as this module's own foundational first
+concept, the same "add the prerequisite just before the module that needs
+it" approach used elsewhere. The reproductive and integumentary
+(skin) systems have the same gap and will get the same treatment when
+their own pathophysiology modules (`reproductive-medicine`, `dermatology`)
+are reached later in the roadmap.
+
+### Module `gastrointestinal-and-hepatic-medicine`
+
+- [ ] Peptic ulcer disease mechanisms (H. pylori and NSAID mechanisms,
+      mucosal defense vs. acid injury; prerequisite: digestive-system-
+      anatomy-and-physiology)
+- [ ] Inflammatory bowel disease mechanisms (Crohn's disease vs. ulcerative
+      colitis as mechanistically distinct patterns of chronic intestinal
+      inflammation — location and depth of involvement; prerequisite:
+      digestive-system-anatomy-and-physiology)
+- [ ] Liver cirrhosis and portal hypertension (progressive fibrosis
+      mechanism, downstream portal hypertension consequences; prerequisite:
+      digestive-system-anatomy-and-physiology)
+- [ ] Viral hepatitis mechanisms (how hepatitis viruses damage liver
+      tissue, acute vs. chronic infection; prerequisite: viral-structure-
+      and-replication)
+- [ ] Pancreatitis mechanisms (the autodigestion mechanism — premature
+      enzyme activation within the pancreas itself; prerequisite:
+      pancreatic-endocrine-function-and-glucose-homeostasis)
+- [ ] Malabsorption syndrome mechanisms (celiac disease, pancreatic
+      exocrine insufficiency, and other causes as a shared mechanistic
+      category — failure at a specific step of digestion or absorption;
+      prerequisite: digestive-system-anatomy-and-physiology)
+
+### Module `renal-and-urologic-medicine`
+
+- [ ] Renal and urinary system anatomy and physiology (nephron structure,
+      filtration/reabsorption/secretion, urine concentration — the missing
+      Med1-level foundation this module needs; no prerequisites)
+- [ ] Acute kidney injury mechanisms (prerenal, intrinsic, and postrenal
+      categories as mechanistically distinct causes; prerequisite: renal-
+      and-urinary-system-anatomy-and-physiology)
+- [ ] Chronic kidney disease mechanisms (progressive nephron loss,
+      compensatory hyperfiltration in remaining nephrons, and why that
+      compensation itself accelerates further decline; prerequisite:
+      renal-and-urinary-system-anatomy-and-physiology)
+- [ ] Glomerulonephritis mechanisms (immune-mediated glomerular damage,
+      building on this subject's existing autoimmunity-and-hypersensitivity
+      concept; prerequisites: renal-and-urinary-system-anatomy-and-
+      physiology, autoimmunity-and-hypersensitivity)
+- [ ] Nephrolithiasis mechanisms (kidney stone formation mechanism;
+      prerequisite: renal-and-urinary-system-anatomy-and-physiology)
+- [ ] Acid-base disorders and renal compensation (metabolic vs.
+      respiratory acidosis/alkalosis, renal and respiratory compensation
+      mechanisms; prerequisites: renal-and-urinary-system-anatomy-and-
+      physiology, respiratory-failure-and-gas-exchange-abnormalities)
+
 ---
