@@ -1,0 +1,10 @@
+{
+  "id": "thermodynamics-of-materials-and-multicomponent-phase-equilibria-m3",
+  "conceptId": "thermodynamics-of-materials-and-multicomponent-phase-equilibria",
+  "text": {
+    "en": "Believing CALPHAD-style computational thermodynamics databases work by deriving phase equilibria from first-principles theory alone, with no reference to experimental measurement -- CALPHAD models are explicitly fitted to experimental phase-equilibrium and thermodynamic data from many lower-order binary and ternary subsystems, and it is this empirical fitting across subsystems, not a purely theoretical first-principles derivation, that lets the resulting combined model make useful predictions about full multicomponent systems that would be impractical to measure directly.",
+    "et": "Arvamus, et CALPHAD-stiilis arvutuslikud termodünaamika andmebaasid tuletavad faasitasakaalu ainult esmaste printsiipide teooriast, ilma eksperimentaalse mõõtmiseta viitamata -- CALPHAD mudelid on selgesõnaliselt sobitatud eksperimentaalsete faasitasakaalu ja termodünaamiliste andmetega paljudest madalama järgu binaarsetest ja ternaarsetest alamsüsteemidest, ning see empiiriline sobitamine alamsüsteemide lõikes, mitte puhtalt teoreetiline esmaste printsiipide tuletus, on see, mis laseb saadud kombineeritud mudelil teha kasulikke ennustusi täielike mitmekomponentsete süsteemide kohta, mida oleks otse mõõta ebapraktiline.",
+    "sourceHash": "4dfb91b94ab8b76d",
+    "stale": false
+  }
+}

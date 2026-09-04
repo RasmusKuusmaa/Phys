@@ -1,0 +1,10 @@
+{
+  "id": "thermodynamics-of-materials-and-multicomponent-phase-equilibria-m2",
+  "conceptId": "thermodynamics-of-materials-and-multicomponent-phase-equilibria",
+  "text": {
+    "en": "Believing real commercial alloys with many alloying elements can have their phase equilibria worked out by directly extending the same hand-calculation methods (plotting Gibbs free energy curves for each phase and finding common-tangent constructions) used for simple binary systems -- this hand-tractable approach scales extremely poorly beyond two or three components, which is exactly why real multicomponent alloy design instead relies on computational thermodynamics databases (the CALPHAD approach) that combine thermodynamic models fitted across many lower-order binary and ternary subsystems to predict full multicomponent equilibria, not on hand-calculation extended to more elements.",
+    "et": "Arvamus, et reaalsete kaubanduslike sulamite, millel on palju legeerivaid elemente, faasitasakaalu saab välja arvutada, laiendades otse samu käsitsi arvutamise meetodeid (Gibbsi vaba energia kõverate joonistamine iga faasi jaoks ja ühise puutuja konstruktsioonide leidmine), mida kasutatakse lihtsate binaarsete süsteemide jaoks -- see käsitsi käsitletav lähenemine skaleerub äärmiselt halvasti kahest või kolmest komponendist kaugemale, mis ongi täpselt põhjus, miks reaalne mitmekomponentne sulamidisain toetub selle asemel arvutuslikele termodünaamika andmebaasidele (CALPHAD lähenemine), mis kombineerivad paljude madalama järgu binaarsete ja ternaarsete alamsüsteemide lõikes sobitatud termodünaamilisi mudeleid, et ennustada täielikku mitmekomponentset tasakaalu, mitte käsitsi arvutamisele, mis on laiendatud rohkematele elementidele.",
+    "sourceHash": "57a459f260f89ff1",
+    "stale": false
+  }
+}

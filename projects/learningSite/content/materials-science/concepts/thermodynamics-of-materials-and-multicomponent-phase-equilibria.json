@@ -1,0 +1,22 @@
+{
+  "id": "thermodynamics-of-materials-and-multicomponent-phase-equilibria",
+  "subject": "materials-science",
+  "level": "L4",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Thermodynamics of materials and multicomponent phase equilibria",
+    "et": "Materjalide termodünaamika ja mitmekomponentne faasitasakaal",
+    "sourceHash": "4381cf893c5ce8a3",
+    "stale": false
+  },
+  "summary": {
+    "en": "A binary phase diagram is not the general case that simply needs a bit more bookkeeping to extend to real engineering alloys with three, four, or more elements; adding even a single additional component fundamentally changes the geometry of the problem, since a binary system's equilibrium is described by curves on a two-dimensional composition-temperature diagram while a ternary system's equilibrium requires an entire additional composition axis, replacing simple tie-lines with tie-triangles, and real commercial alloys routinely have five or more alloying elements, a complexity that cannot be handled by hand-calculating Gibbs free energy curves for every phase the way binary systems can, which is exactly why real multicomponent alloy design and manufacturing rely on computational thermodynamics databases (the CALPHAD -- Calculation of Phase Diagrams -- approach) that fit thermodynamic models to experimental data across many binary and ternary subsystems and then combine them to predict the full multicomponent system's equilibrium, rather than on any hand-tractable direct extension of binary phase-diagram methods.",
+    "et": "Binaarne faasidiagramm ei ole üldjuhtum, mis vajab lihtsalt veidi rohkem raamatupidamist, et laiendada seda reaalsetele inseneriteaduslikele sulamitele kolme, nelja või enama elemendiga; isegi ühe täiendava komponendi lisamine muudab fundamentaalselt probleemi geomeetriat, kuna binaarse süsteemi tasakaalu kirjeldavad kõverad kahemõõtmelisel koostise-temperatuuri diagrammil, samas kui ternaarse süsteemi tasakaal nõuab tervet täiendavat koostise telge, asendades lihtsad sidumisjooned sidumiskolmnurkadega, ning reaalsed kaubanduslikud sulamid omavad rutiinselt viis või enam legeerivat elementi, keerukus, mida ei saa käsitseda, arvutades käsitsi Gibbsi vaba energia kõveraid iga faasi jaoks nii, nagu saab binaarsete süsteemide puhul, mis ongi täpselt põhjus, miks reaalne mitmekomponentne sulamidisain ja tootmine toetuvad arvutuslikele termodünaamika andmebaasidele (CALPHAD -- Calculation of Phase Diagrams -- lähenemine), mis sobitavad termodünaamilisi mudeleid eksperimentaalsete andmetega paljude binaarsete ja ternaarsete alamsüsteemide lõikes ja seejärel kombineerivad neid, et ennustada kogu mitmekomponentse süsteemi tasakaalu, mitte mistahes käsitsi käsitletavale binaarse faasidiagrammi meetodite otsesele laiendusele.",
+    "sourceHash": "d5538597e8b08388",
+    "stale": false
+  },
+  "prerequisites": [
+    "phase-diagrams-and-binary-alloy-systems",
+    "diffusion-in-solids"
+  ]
+}

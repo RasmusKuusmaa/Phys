@@ -1,0 +1,10 @@
+{
+  "id": "thermodynamics-of-materials-and-multicomponent-phase-equilibria-m1",
+  "conceptId": "thermodynamics-of-materials-and-multicomponent-phase-equilibria",
+  "text": {
+    "en": "Believing a ternary (three-component) phase diagram is basically the same kind of diagram as a binary one, just with a bit more bookkeeping to track the extra element -- adding a single additional component fundamentally changes the problem's geometry, since a binary system's equilibrium is captured by curves on a two-dimensional composition-temperature diagram while a ternary system requires an entire additional composition axis, replacing binary tie-lines with tie-triangles connecting three coexisting phases, a genuinely higher-dimensional problem, not an incremental extension of the same one.",
+    "et": "Arvamus, et ternaarne (kolmekomponentne) faasidiagramm on sisuliselt samasugune diagramm nagu binaarne, lihtsalt veidi rohkema raamatupidamisega lisaelemendi jälgimiseks -- ühe täiendava komponendi lisamine muudab fundamentaalselt probleemi geomeetriat, kuna binaarse süsteemi tasakaalu kajastavad kõverad kahemõõtmelisel koostise-temperatuuri diagrammil, samas kui ternaarne süsteem nõuab tervet täiendavat koostise telge, asendades binaarsed sidumisjooned sidumiskolmnurkadega, mis ühendavad kolme koos eksisteerivat faasi, tõeliselt kõrgema dimensiooniga probleem, mitte sama probleemi järkjärguline laiendus.",
+    "sourceHash": "e17c90185a8e617b",
+    "stale": false
+  }
+}

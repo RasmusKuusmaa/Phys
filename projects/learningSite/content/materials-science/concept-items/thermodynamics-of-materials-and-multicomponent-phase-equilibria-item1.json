@@ -1,0 +1,56 @@
+{
+  "id": "thermodynamics-of-materials-and-multicomponent-phase-equilibria-item1",
+  "conceptId": "thermodynamics-of-materials-and-multicomponent-phase-equilibria",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A materials engineer needs the phase equilibria for a commercial alloy with six alloying elements. Why can this not be solved by simply extending the hand-calculation methods used for a two-element binary phase diagram?",
+    "et": "Materjaliinsener vajab faasitasakaalu kaubandusliku sulami jaoks, millel on kuus legeerivat elementi. Miks ei saa seda lahendada lihtsalt laiendades käsitsi arvutamise meetodeid, mida kasutatakse kaheelemendilise binaarse faasidiagrammi jaoks?",
+    "sourceHash": "aa1be0c24d706fcb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Each additional component adds a whole extra composition dimension to the problem, and hand-calculating Gibbs free energy curves and common-tangent constructions scales extremely poorly beyond a few components — real multicomponent design instead relies on CALPHAD databases combining models fitted across many lower-order subsystems.",
+        "et": "Iga täiendav komponent lisab probleemile terve täiendava koostise dimensiooni ning Gibbsi vaba energia kõverate ja ühise puutuja konstruktsioonide käsitsi arvutamine skaleerub äärmiselt halvasti üle mõne komponendi — reaalne mitmekomponentne disain toetub selle asemel CALPHAD andmebaasidele, mis kombineerivad paljude madalama järgu alamsüsteemide lõikes sobitatud mudeleid.",
+        "sourceHash": "49a2fc30e79d210b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It can be solved this way; a six-component diagram is just a binary diagram with a bit more bookkeeping for the extra elements.",
+        "et": "Seda saab niimoodi lahendada; kuuekomponendiline diagramm on lihtsalt binaarne diagramm veidi rohkema raamatupidamisega lisaelementide jaoks.",
+        "sourceHash": "e1ac770f88b79080",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermodynamics-of-materials-and-multicomponent-phase-equilibria-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Hand-calculation extended with more terms per element is the standard approach real alloy manufacturers use, since it is more rigorous than a fitted database.",
+        "et": "Käsitsi arvutamine, mis on laiendatud rohkemate liikmetega elemendi kohta, on reaalsete sulamitootjate kasutatav standardne lähenemine, kuna see on rangem kui sobitatud andmebaas.",
+        "sourceHash": "3a56c905aab3027c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermodynamics-of-materials-and-multicomponent-phase-equilibria-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Computational thermodynamics databases derive equilibria purely from first-principles theory, so no experimental subsystem data is needed at all.",
+        "et": "Arvutuslikud termodünaamika andmebaasid tuletavad tasakaalu puhtalt esmaste printsiipide teooriast, seega ei ole eksperimentaalseid alamsüsteemi andmeid üldse vaja.",
+        "sourceHash": "395295baf34f410d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thermodynamics-of-materials-and-multicomponent-phase-equilibria-m3"
+    }
+  ]
+}
