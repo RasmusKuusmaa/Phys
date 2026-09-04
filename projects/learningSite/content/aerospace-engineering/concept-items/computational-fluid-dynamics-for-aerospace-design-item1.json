@@ -1,0 +1,56 @@
+{
+  "id": "computational-fluid-dynamics-for-aerospace-design-item1",
+  "conceptId": "computational-fluid-dynamics-for-aerospace-design",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A CFD simulation of a new wing design converges cleanly, with residuals dropping many orders of magnitude. What can the engineer conclude from convergence alone?",
+    "et": "Uue tiivakuju CFD-simulatsioon koondub puhtalt, jäägid langevad mitu suurusjärku. Mida saab insener ainuüksi koondumisest järeldada?",
+    "sourceHash": "2d645d254d63f59e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Only that the discretised equations were solved correctly on the chosen mesh with the chosen turbulence model -- not that the mesh resolution or turbulence model actually captured the real flow, which still needs validation against test data.",
+        "et": "Ainult seda, et diskretiseeritud võrrandid lahendati valitud võrgul ja valitud turbulentsimudeliga õigesti -- mitte seda, et võrgu resolutsioon või turbulentsimudel tabasid tegelikku voolu, mida tuleb endiselt valideerida katseandmete vastu.",
+        "sourceHash": "40a508feea6a0fe2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That the predicted lift and drag values are physically accurate and can be used for final design decisions without further validation.",
+        "et": "Et ennustatud tõstejõu ja takistuse väärtused on füüsikaliselt täpsed ning neid saab kasutada lõplike projekteerimisotsuste tegemiseks ilma täiendava valideerimiseta.",
+        "sourceHash": "19fd437008306366",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computational-fluid-dynamics-for-aerospace-design-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That the simulation directly resolved every turbulent eddy in the flow, so the turbulence model played no meaningful role in the result.",
+        "et": "Et simulatsioon lahendas otseselt iga voolu turbulentse keerise, mistõttu turbulentsimudelil polnud tulemuse jaoks olulist rolli.",
+        "sourceHash": "d827b2182c5003e9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computational-fluid-dynamics-for-aerospace-design-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "That the mesh is already as fine as it needs to be, since a coarser or finer mesh would not change whether the residuals converge.",
+        "et": "Et võrk on juba nii peen kui vaja, kuna jämedam või peenem võrk ei muudaks seda, kas jäägid koonduvad.",
+        "sourceHash": "8563a9a40dc9cbd0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computational-fluid-dynamics-for-aerospace-design-m2"
+    }
+  ]
+}

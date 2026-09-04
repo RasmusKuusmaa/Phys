@@ -1,0 +1,21 @@
+{
+  "id": "computational-fluid-dynamics-for-aerospace-design",
+  "subject": "aerospace-engineering",
+  "level": "L4",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Computational fluid dynamics for aerospace design",
+    "et": "Arvutuslik vedelikudünaamika lennundusprojekteerimises",
+    "sourceHash": "a2f7219ba1d65659",
+    "stale": false
+  },
+  "summary": {
+    "en": "Computational fluid dynamics (CFD) replaces an analytical solution of the governing flow equations, which is only possible for a handful of simplified geometries, with a numerical one: the flow domain around a vehicle is broken into a mesh of small discrete cells, and the equations are solved approximately cell by cell, cell by cell, letting engineers evaluate lift, drag, and pressure distribution over arbitrarily complex real geometry. Directly resolving every scale of turbulent motion (direct numerical simulation) is computationally infeasible at the Reynolds numbers real aircraft and spacecraft fly at, so practical aerospace CFD instead solves the Reynolds-averaged Navier-Stokes (RANS) equations with a turbulence model supplying the statistical effect of the unresolved scales -- an approximation calibrated against known flows, not a first-principles resolution of the real turbulent field, so it can fail well outside the flow regimes it was calibrated on (strongly separated or highly unsteady flow, in particular). A numerically converged solution -- one where the iterative residuals have dropped below a set tolerance -- is not automatically an accurate one, since convergence only certifies that the discrete equations on the chosen mesh, with the chosen turbulence model, have been solved correctly, not that mesh resolution and turbulence-model choice actually captured the real physics; this is why aerospace CFD results are routinely validated against wind-tunnel or flight-test data rather than trusted on their own.",
+    "et": "Arvutuslik vedelikudünaamika (CFD) asendab vooluvõrrandite analüütilise lahenduse, mis on võimalik ainult üksikute lihtsustatud geomeetriate jaoks, numbrilisega: sõiduki ümbritsev vooluvaldkond jaotatakse väikesteks diskreetseteks rakkudeks koosnevaks võrguks ning võrrandeid lahendatakse ligikaudselt rakk-rakult, võimaldades inseneridel hinnata tõstejõudu, takistust ja rõhujaotust suvaliselt keerulise tegeliku geomeetria peal. Iga turbulentse liikumise skaala otsene lahendamine (otsene numbriline simulatsioon) on tegelike lennukite ja kosmoseaparaatide lennukiirustele vastavatel Reynoldsi arvudel arvutuslikult teostamatu, mistõttu praktiline lennundusalane CFD lahendab selle asemel Reynolds'i keskmistatud Navier-Stokes'i (RANS) võrrandeid koos turbulentsimudeliga, mis annab lahendamata skaalade statistilise mõju -- lähendus, mis on kalibreeritud tuntud voolude vastu, mitte reaalse turbulentse välja printsiibipõhine lahendamine, mistõttu see võib ebaõnnestuda oma kalibreerimispiirkonnast väljaspool (eriti tugevalt eraldunud või väga ebastatsionaarse voolu korral). Numbriliselt koonduv lahendus -- selline, kus iteratiivsed jäägid on langenud alla seatud lubatud piiri -- ei ole automaatselt täpne lahendus, kuna koondumine kinnitab ainult, et diskreetseid võrrandeid valitud võrgul ja valitud turbulentsimudeliga on õigesti lahendatud, mitte seda, et võrgu resolutsioon ja turbulentsimudeli valik tabasid tegelikku füüsikat -- seepärast valideeritakse lennundusalase CFD tulemusi rutiinselt tuuletunneli- või lennukatsete andmete vastu, mitte ei usaldata neid iseseisvalt.",
+    "sourceHash": "1a37f1454f71b0bc",
+    "stale": false
+  },
+  "prerequisites": [
+    "aerodynamics-fundamentals"
+  ]
+}

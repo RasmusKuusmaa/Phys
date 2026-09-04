@@ -1,0 +1,10 @@
+{
+  "id": "computational-fluid-dynamics-for-aerospace-design-m3",
+  "conceptId": "computational-fluid-dynamics-for-aerospace-design",
+  "text": {
+    "en": "Believing standard aerospace CFD directly resolves every scale of the real turbulent flow the way a perfect simulation would -- practical Reynolds-averaged CFD instead solves for time-averaged flow quantities and supplies the statistical effect of unresolved turbulent scales through a calibrated turbulence model, not by computing every eddy directly; this is an approximation that works well within its calibration range and can fail noticeably outside it, not a first-principles resolution of the true flow.",
+    "et": "Arvamus, et tavapärane lennundusalane CFD lahendab otseselt iga tegeliku turbulentse voolu skaala nii, nagu teeks seda täiuslik simulatsioon -- praktiline Reynolds'i keskmistatud CFD lahendab selle asemel ajaliselt keskmistatud voolusuurused ning annab lahendamata turbulentsete skaalade statistilise mõju kalibreeritud turbulentsimudeli kaudu, mitte arvutades iga keerist otse; see on lähendus, mis töötab hästi oma kalibreerimispiirkonnas ja võib väljaspool seda märgatavalt ebaõnnestuda, mitte tegeliku voolu printsiibipõhine lahendamine.",
+    "sourceHash": "a67f1453cbf4ea6a",
+    "stale": false
+  }
+}

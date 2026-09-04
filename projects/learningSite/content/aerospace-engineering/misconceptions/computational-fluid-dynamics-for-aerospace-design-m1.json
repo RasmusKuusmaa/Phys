@@ -1,0 +1,10 @@
+{
+  "id": "computational-fluid-dynamics-for-aerospace-design-m1",
+  "conceptId": "computational-fluid-dynamics-for-aerospace-design",
+  "text": {
+    "en": "Believing that once a CFD solution has numerically converged, its results must be physically accurate -- convergence only means the iterative residuals dropped below a chosen tolerance, i.e. the discretised equations were solved correctly on the chosen mesh with the chosen turbulence model; it says nothing about whether that mesh and model actually captured the real flow physics, which is why converged CFD results are still validated against wind-tunnel or flight-test data.",
+    "et": "Arvamus, et kui CFD lahendus on numbriliselt koondunud, peavad selle tulemused olema füüsikaliselt täpsed -- koondumine tähendab ainult seda, et iteratiivsed jäägid langesid alla valitud lubatud piiri, st diskretiseeritud võrrandid lahendati valitud võrgul ja valitud turbulentsimudeliga õigesti; see ei ütle midagi selle kohta, kas see võrk ja mudel tabasid tegelikku voolu füüsikat, mistõttu koondunud CFD tulemusi valideeritakse ikkagi tuuletunneli- või lennukatsete andmete vastu.",
+    "sourceHash": "a69394d0400a7d1a",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "computational-fluid-dynamics-for-aerospace-design-m2",
+  "conceptId": "computational-fluid-dynamics-for-aerospace-design",
+  "text": {
+    "en": "Believing a finer computational mesh is simply always better with no real downside -- refining the mesh improves accuracy only up to the point where the solution stops changing (mesh independence), while computational cost keeps rising steeply throughout, especially near solid surfaces where resolving the boundary layer requires extremely thin near-wall cells; real analyses trade resolution against affordable computation rather than refining indefinitely.",
+    "et": "Arvamus, et peenem arvutusvõrk on lihtsalt alati parem, ilma tegeliku puuduseta -- võrgu peenendamine parandab täpsust ainult kuni hetkeni, mil lahendus lakkab muutumast (võrgust sõltumatus), samas kui arvutuskulu kasvab kogu selle aja jooksul järsult, eriti tahkete pindade lähedal, kus piirikihi lahendamine nõuab äärmiselt õhukesi seinalähedasi rakke; tegelikud analüüsid tasakaalustavad resolutsiooni taskukohase arvutuskuluga, mitte ei peenenda lõputult.",
+    "sourceHash": "45b4f36d4595d258",
+    "stale": false
+  }
+}
