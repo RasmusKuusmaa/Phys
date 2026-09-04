@@ -1,0 +1,21 @@
+{
+  "id": "neuron-structure-and-the-action-potential",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "neuroscience",
+  "title": {
+    "en": "Neuron structure and the action potential",
+    "et": "Neuroni ehitus ja aktsioonipotentsiaal",
+    "sourceHash": "58ec08b8fc442cf4",
+    "stale": false
+  },
+  "summary": {
+    "en": "A neuron's shape is built entirely around one job: carrying an electrical signal reliably over distance and passing it on. Dendrites branch out from the cell body (soma) to receive incoming signals, the soma integrates them, and a single long, thin axon -- often wrapped in an insulating myelin sheath produced by glial cells -- carries the resulting signal away toward the next cell, sometimes over a distance of a meter or more in a single neuron. At rest, a neuron's membrane holds a voltage of about -70 millivolts inside relative to outside, maintained by ion pumps and channels that keep sodium concentrated outside the cell and potassium concentrated inside; when a stimulus depolarizes the membrane past a threshold, voltage-gated sodium channels snap open, sodium rushes in and rapidly flips the membrane's voltage positive, and then voltage-gated potassium channels open to push the voltage back down -- this whole fast, self-regenerating voltage spike is the action potential, and critically, it propagates down the axon without losing amplitude, since each patch of membrane regenerates the full-strength spike anew rather than passively conducting a weakening signal, and myelin's insulating gaps (nodes of Ranvier) let the impulse jump from node to node for substantially faster conduction than an unmyelinated axon of the same size could manage.",
+    "et": "Neuroni kuju on täielikult üles ehitatud ühe ülesande ümber: kanda elektriline signaal usaldusväärselt üle vahemaa ja anda see edasi. Dendriidid hargnevad rakukehast (soomast) välja, et võtta vastu sissetulevaid signaale, sooma integreerib need, ning üksainus pikk, õhuke akson -- sageli ümbritsetud isoleeriva müeliintupega, mida toodavad glia rakud -- kannab tulemuseks oleva signaali edasi järgmise raku suunas, mõnikord üle meetri või enama vahemaa ühes neuronis. Puhkeolekus hoiab neuroni membraan pinget umbes -70 millivolti sees väljaspoolse suhtes, mida hoiavad üleval ioonpumbad ja -kanalid, mis hoiavad naatriumi kontsentreeritult raku väliskülje ja kaaliumi kontsentreeritult raku sees; kui stiimul depolariseerib membraani üle läve, avanevad pingesõltuvad naatriumikanalid järsku, naatrium tormab sisse ja pöörab membraani pinge kiiresti positiivseks, misjärel avanevad pingesõltuvad kaaliumikanalid, et suruda pinge tagasi alla -- see kogu kiire, iseennast taastootev pingehüpe ongi aktsioonipotentsiaal, ning oluliselt levib see mööda aksonit ilma amplituudi kaotamata, kuna iga membraanilõik taastoodab täisjõulise hüppe uuesti, selle asemel et passiivselt juhtida nõrgenevat signaali, ning müeliini isoleerivad vahed (Ranvier' sõlmed) lasevad impulsil hüpata sõlmest sõlme, võimaldades tunduvalt kiiremat juhtivust kui sama suurusega müeliniseerimata akson suudaks saavutada.",
+    "sourceHash": "ab042a7b632b946b",
+    "stale": false
+  },
+  "prerequisites": [
+    "nervous-system-anatomy-and-physiology-overview"
+  ]
+}

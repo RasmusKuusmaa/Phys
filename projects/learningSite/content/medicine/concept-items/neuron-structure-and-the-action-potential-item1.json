@@ -1,0 +1,56 @@
+{
+  "id": "neuron-structure-and-the-action-potential-item1",
+  "conceptId": "neuron-structure-and-the-action-potential",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why doesn't an action potential lose amplitude/strength as it travels down a very long axon, the way a signal in a passive electrical wire would fade with distance?",
+    "et": "Miks ei kaota aktsioonipotentsiaal amplituudi/tugevust, kui see levib mööda väga pikka aksonit, nii nagu passiivses elektrijuhtmes signaal kaugusega hääbuks?",
+    "sourceHash": "a305e0fd9d397c4e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Each successive patch of axon membrane regenerates the action potential at full strength using its own voltage-gated sodium and potassium channels, rather than passively transmitting a weakening signal.",
+        "et": "Iga järgnev aksoni membraanilõik taastoodab aktsioonipotentsiaali täisjõuga, kasutades oma pingesõltuvaid naatrium- ja kaaliumikanaleid, selle asemel et passiivselt edastada nõrgenevat signaali.",
+        "sourceHash": "7547b43a0a134592",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because myelin itself actively conducts and amplifies the electrical current all along the axon's length.",
+        "et": "Sest müeliin ise juhib ja võimendab aktiivselt elektrivoolu kogu aksoni pikkuses.",
+        "sourceHash": "4c5dded4bcd752e7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neuron-structure-and-the-action-potential-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It actually does lose amplitude gradually -- long axons simply produce weaker signals at their terminals than short ones.",
+        "et": "See tegelikult kaotab amplituudi järk-järgult -- pikad aksonid lihtsalt tekitavad oma otstes nõrgemaid signaale kui lühikesed.",
+        "sourceHash": "1e6d4b0339216f25",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neuron-structure-and-the-action-potential-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the inside of the axon contains no ions to create resistance, so the signal travels with zero loss like it would in a vacuum.",
+        "et": "Sest aksoni sees ei ole ioone, mis tekitaksid takistust, mistõttu signaal levib ilma kadudeta nagu vaakumis.",
+        "sourceHash": "b8a270437c473764",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "neuron-structure-and-the-action-potential-m3"
+    }
+  ]
+}

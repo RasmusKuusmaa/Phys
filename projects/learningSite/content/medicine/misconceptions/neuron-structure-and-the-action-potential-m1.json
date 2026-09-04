@@ -1,0 +1,10 @@
+{
+  "id": "neuron-structure-and-the-action-potential-m1",
+  "conceptId": "neuron-structure-and-the-action-potential",
+  "text": {
+    "en": "An action potential gets weaker the further it travels down an axon, like an electrical signal degrading over a long wire -- in reality, unlike passive electrical conduction, each patch of axon membrane actively regenerates the action potential at full strength using its own voltage-gated ion channels, so the signal arrives at the axon terminal exactly as strong as it started, regardless of the axon's length.",
+    "et": "Aktsioonipotentsiaal nõrgeneb, mida kaugemale see mööda aksonit levib, sarnaselt elektrisignaali nõrgenemisele pikas juhtmes -- tegelikult, erinevalt passiivsest elektrijuhtivusest, taastoodab iga aksoni membraanilõik aktsioonipotentsiaali aktiivselt täisjõuga, kasutades oma pingesõltuvaid ioonkanaleid, nii et signaal jõuab aksoni otsani täpselt sama tugevana, kui see alguses oli, sõltumata aksoni pikkusest.",
+    "sourceHash": "e80d1a30d23b8214",
+    "stale": false
+  }
+}

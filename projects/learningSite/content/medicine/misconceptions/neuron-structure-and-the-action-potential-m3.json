@@ -1,0 +1,10 @@
+{
+  "id": "neuron-structure-and-the-action-potential-m3",
+  "conceptId": "neuron-structure-and-the-action-potential",
+  "text": {
+    "en": "The resting membrane potential exists because the inside of the cell has no ions in it at all -- in reality, the resting potential exists despite (and because of) ions being present on both sides in different concentrations: it's the unequal distribution of sodium and potassium (maintained by the sodium-potassium pump) plus the membrane's much higher resting permeability to potassium that sets the resting voltage, not an absence of ions.",
+    "et": "Puhkepotentsiaal eksisteerib seetõttu, et raku sees ei ole üldse ioone -- tegelikult eksisteerib puhkepotentsiaal hoolimata sellest (ja tänu sellele), et ioonid on mõlemal pool erinevas kontsentratsioonis: naatriumi ja kaaliumi ebavõrdne jaotus (mida hoiab üleval naatrium-kaaliumpump) koos membraani palju suurema puhkeläbilaskvusega kaaliumile määrab puhkepinge, mitte ioonide puudumine.",
+    "sourceHash": "1f5c3a5ec05edf95",
+    "stale": false
+  }
+}

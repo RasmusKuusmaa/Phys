@@ -1,0 +1,10 @@
+{
+  "id": "neuron-structure-and-the-action-potential-m2",
+  "conceptId": "neuron-structure-and-the-action-potential",
+  "text": {
+    "en": "Myelin itself carries or amplifies the electrical signal -- in reality, myelin doesn't conduct or amplify anything: it insulates the axon between the nodes of Ranvier, forcing the action potential to regenerate only at those exposed nodes and effectively jump between them (saltatory conduction), which speeds transmission up rather than the myelin doing any signaling itself.",
+    "et": "Müeliin ise kannab või võimendab elektrisignaali -- tegelikult ei juhi ega võimenda müeliin midagi: see isoleerib aksoni Ranvier' sõlmede vahel, sundides aktsioonipotentsiaali taastootma vaid neis paljastatud sõlmedes ja sisuliselt hüppama sõlmest sõlme (saltatoorne juhtivus), mis kiirendab ülekannet, mitte müeliin ise ei signaliseeri.",
+    "sourceHash": "640a512f68d14a81",
+    "stale": false
+  }
+}
