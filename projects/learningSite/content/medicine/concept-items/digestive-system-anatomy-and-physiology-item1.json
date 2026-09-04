@@ -1,0 +1,56 @@
+{
+  "id": "digestive-system-anatomy-and-physiology-item1",
+  "conceptId": "digestive-system-anatomy-and-physiology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which organ actually carries out the great majority of chemical digestion and nutrient absorption, and why is this often not the organ people expect?",
+    "et": "Milline organ teostab tegelikult valdava osa keemilisest seedimisest ja toitainete imendumisest, ning miks pole see sageli see organ, mida inimesed ootavad?",
+    "sourceHash": "e8af65e4e94006bc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The small intestine, aided by pancreatic enzymes and liver-produced bile -- the stomach mainly begins protein digestion and churns food mechanically, but absorbs almost no nutrients itself.",
+        "et": "Peensool, mida toetavad kõhunäärme ensüümid ja maksa toodetud sapp -- magu alustab peamiselt valkude seedimist ja segab toitu mehaaniliselt, kuid ei ima ise peaaegu üldse toitaineid.",
+        "sourceHash": "c9a2fbe94a6b6be5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The stomach, since its acid and enzymes are strong enough to complete essentially all digestion and absorption before food moves on.",
+        "et": "Magu, kuna selle hape ja ensüümid on piisavalt tugevad, et lõpetada sisuliselt kogu seedimine ja imendumine enne toidu edasiliikumist.",
+        "sourceHash": "4d7712e64f801352",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "digestive-system-anatomy-and-physiology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The pancreas and liver directly, since the GI tract itself is mostly just a passive conduit that food passes through unchanged.",
+        "et": "Kõhunääre ja maks otse, kuna seedetrakt ise on enamasti lihtsalt passiivne kanal, mida läbides toit ei muutu.",
+        "sourceHash": "9b1506d7c16fe3be",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "digestive-system-anatomy-and-physiology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The large intestine, since it performs a second, more thorough round of digestion on whatever nutrients the small intestine did not fully process.",
+        "et": "Jämesool, kuna see teostab teise, põhjalikuma seedimisringi toitainetele, mida peensool täielikult ei töödelnud.",
+        "sourceHash": "75646650a6ce7b14",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "digestive-system-anatomy-and-physiology-m3"
+    }
+  ]
+}

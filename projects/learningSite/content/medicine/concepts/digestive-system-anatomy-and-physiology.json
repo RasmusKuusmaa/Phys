@@ -1,0 +1,19 @@
+{
+  "id": "digestive-system-anatomy-and-physiology",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "human-anatomy-and-physiology",
+  "title": {
+    "en": "Digestive system anatomy and physiology",
+    "et": "Seedesüsteemi anatoomia ja füsioloogia",
+    "sourceHash": "891656d54ac30aa3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Digestion happens along one continuous tube running from mouth to anus -- the gastrointestinal tract -- with each region doing a different job rather than the stomach alone doing 'digestion': the mouth and esophagus handle mechanical breakdown and transport, the stomach uses acid and enzymes to begin protein digestion and churn food into a semi-liquid mixture, but the small intestine is where the great majority of actual nutrient digestion and essentially all nutrient absorption into the bloodstream takes place, aided by digestive secretions from two accessory organs that are not themselves part of the tube: the pancreas, which supplies enzymes that break down carbohydrates, proteins, and fats, and the liver, which produces bile (stored in the gallbladder) to emulsify fats so pancreatic enzymes can act on them efficiently. The large intestine, downstream of the small intestine, absorbs remaining water and electrolytes and hosts a large population of gut bacteria before what remains is eliminated as waste -- so 'digestion' is really a coordinated, sequential process spanning the entire tract plus two accessory glandular organs, not an event that happens in any single location.",
+    "et": "Seedimine toimub ühe pideva toru sees, mis kulgeb suust pärakuni -- seedetrakt -- kusjuures igal piirkonnal on erinev ülesanne, mitte ei tegele 'seedimisega' üksnes magu: suu ja söögitoru tegelevad mehaanilise lõhustamise ja transpordiga, magu kasutab hapet ja ensüüme, et alustada valkude seedimist ja segada toitu poolvedelaks massiks, kuid peensool on koht, kus toimub valdav enamus tegelikust toitainete seedimisest ja peaaegu kogu toitainete imendumine verre, mida toetavad kaks abiorganit, mis pole ise toru osa: kõhunääre, mis varustab ensüüme, mis lõhustavad süsivesikuid, valke ja rasvu, ning maks, mis toodab sappi (mida hoitakse sapipõies), et emulgeerida rasvu, nii et kõhunäärme ensüümid saaksid neile tõhusalt toimida. Jämesool, mis asub peensoolest allavoolu, imab endasse ülejäänud vee ja elektrolüüdid ning majutab suurt sooltebakterite populatsiooni, enne kui allesjäänu eritub jäätmetena -- seega on 'seedimine' tegelikult koordineeritud, järjestikune protsess, mis hõlmab kogu trakti ja kahte abinäärmelist organit, mitte sündmus, mis toimub üheski kindlas kohas.",
+    "sourceHash": "6cf10de2970bafd8",
+    "stale": false
+  },
+  "prerequisites": []
+}
