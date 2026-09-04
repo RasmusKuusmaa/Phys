@@ -200,9 +200,20 @@ framed around Ashby-chart property tradeoffs, not testing/standards
 practice. Same "close the gap the last phase surfaced" move Phase AE4 makes
 for aerospace-engineering.
 
-- [ ] Engineering materials testing and standards (tensile testing
+- [x] Engineering materials testing and standards (tensile testing
       procedure, hardness/impact testing, ASTM/ISO standards-based
-      certification — no prerequisite)
+      certification — no prerequisite; formalised ultimate tensile
+      strength, σ = F/A, as a formula + problem template + error model,
+      reusing the existing `force`, `area`, and `stress` glossary entries —
+      no new terms needed)
+
+Phase GE4 complete: 17 general-engineering concepts total (1 new closing-gap
+concept on top of the 16-concept Phase GE1-GE3 baseline). Authored directly
+rather than via another fork, since only one concept remained. `npm run
+validate:content` (7 subjects, 507 concepts), `npm run lint:terminology`
+(250 glossary terms), `npm run typecheck`, and the full test suite
+(150/150) all pass; both resource URLs verified live with `curl`. With this
+phase, general-engineering is judged comprehensive — see `QUESTIONS.md`.
 
 Phase GE3 complete: 16 general-engineering concepts total (5 new Phase-GE3
 concepts on top of the 11-concept Phase GE1+GE2 baseline). `npm run
