@@ -1,0 +1,10 @@
+{
+  "id": "the-hartree-fock-method-m1",
+  "conceptId": "the-hartree-fock-method",
+  "text": {
+    "en": "Believing the Hartree-Fock method solves the many-electron Schrodinger equation exactly, simply using a computer to handle the arithmetic that would be too tedious by hand -- Hartree-Fock is specifically an approximate method, built on the deliberate simplification of replacing each electron's instantaneous repulsion with every other individual electron by its repulsion with an averaged, smeared-out charge distribution from the rest; this approximation systematically omits a real physical effect, electron correlation (electrons' tendency to actively avoid each other beyond what the averaged picture captures), leaving out a specific, well-defined portion of the true electronic energy no matter how precisely the underlying equations are solved numerically.",
+    "et": "Arvamus, et Hartree-Focki meetod lahendab paljuelektronilise Schrödingeri võrrandi täpselt, kasutades lihtsalt arvutit aritmeetika käsitlemiseks, mis oleks käsitsi liiga tülikas -- Hartree-Fock on spetsiifiliselt ligikaudne meetod, ehitatud tahtlikule lihtsustusele, asendades iga elektroni hetkelise tõukumise iga teise üksiku elektroniga selle tõukumisega keskmistatud, hajutatud laengujaotusega ülejäänutelt; see lähendus jätab süstemaatiliselt välja reaalse füüsikalise efekti, elektronikorrelatsiooni (elektronide kalduvus aktiivselt üksteist vältida enam kui keskmistatud pilt kajastab), jättes välja spetsiifilise, hästi defineeritud osa tõelisest elektroonilisest energiast, ükskõik kui täpselt aluseks olevaid võrrandeid numbriliselt lahendatakse.",
+    "sourceHash": "e892ad28a107f3c6",
+    "stale": false
+  }
+}

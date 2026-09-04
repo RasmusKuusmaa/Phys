@@ -1,0 +1,10 @@
+{
+  "id": "the-hartree-fock-method-m2",
+  "conceptId": "the-hartree-fock-method",
+  "text": {
+    "en": "Believing the 'self-consistent field' procedure in Hartree-Fock refers to solving all the electrons' equations simultaneously in one single step -- it specifically refers to an iterative loop: starting from a guessed set of orbitals, each electron's averaged repulsive field is computed from the current guess, new orbitals are solved for using that field, and the cycle repeats using the newly obtained orbitals to recompute the averaged field, continuing until the orbitals stop changing meaningfully from one cycle to the next; the method is called 'self-consistent' precisely because the final field and the final orbitals used to generate it agree with each other, a convergence property reached iteratively, not achieved in one direct simultaneous solution.",
+    "et": "Arvamus, et 'iseseisvalt kooskõlalise välja' protseduur Hartree-Focki meetodis viitab kõigi elektronide võrrandite lahendamisele samaaegselt ühes ainsas sammus -- see viitab spetsiifiliselt iteratiivsele tsüklile: alustades arvatud orbitaalide hulgast, arvutatakse iga elektroni keskmistatud tõukejõu väli praeguse arvamise põhjal, uued orbitaalid lahendatakse kasutades seda välja, ning tsükkel kordub, kasutades äsja saadud orbitaale keskmistatud välja uuesti arvutamiseks, jätkudes, kuni orbitaalid lakkavad ühest tsüklist teise oluliselt muutumast; meetodit nimetatakse 'iseseisvalt kooskõlaliseks' täpselt seetõttu, et lõplik väli ja lõplikud orbitaalid, mida kasutati selle genereerimiseks, ühtivad omavahel, koondumisomadus, mis saavutatakse iteratiivselt, mitte ühe otsese samaaegse lahendusega.",
+    "sourceHash": "40ae730185aed6f0",
+    "stale": false
+  }
+}

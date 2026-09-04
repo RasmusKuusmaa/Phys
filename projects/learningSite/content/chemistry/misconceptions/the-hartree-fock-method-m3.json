@@ -1,0 +1,10 @@
+{
+  "id": "the-hartree-fock-method-m3",
+  "conceptId": "the-hartree-fock-method",
+  "text": {
+    "en": "Believing electron correlation energy, the systematic energy Hartree-Fock leaves out, is a negligible refinement that rarely matters for real chemical questions -- while correlation energy is typically a small fraction of a molecule's total electronic energy, it is frequently the chemically decisive fraction, since it governs energy differences between competing structures, reaction barriers, and bond dissociation energies far more sensitively than it affects the large total energy itself; this is precisely why post-Hartree-Fock methods (which add back correlation explicitly) and density functional theory (which recovers it through a different route) were developed, rather than Hartree-Fock alone being considered adequate for quantitative chemical predictions.",
+    "et": "Arvamus, et elektronikorrelatsiooni energia, süstemaatiline energia, mille Hartree-Fock välja jätab, on tähtsusetu täpsustus, mis harva reaalsete keemiliste küsimuste jaoks oluline on -- kuigi korrelatsiooni energia on tüüpiliselt väike osa molekuli kogu elektroonilisest energiast, on see sageli keemiliselt otsustav osa, kuna see juhib energiaerinevusi konkureerivate struktuuride, reaktsioonibarjääride ja sideme dissotsiatsioonienergiate vahel palju tundlikumalt kui see mõjutab suurt kogu-energiat ennast; see ongi täpselt põhjus, miks arendati Hartree-Focki-järgseid meetodeid (mis lisavad korrelatsiooni tagasi selgesõnaliselt) ja tihedusfunktsionaali teooriat (mis taastab selle erineva tee kaudu), mitte ei peetud Hartree-Focki üksi piisavaks kvantitatiivsete keemiliste ennustuste jaoks.",
+    "sourceHash": "25edb5b36ae14d99",
+    "stale": false
+  }
+}

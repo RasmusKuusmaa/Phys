@@ -1,0 +1,21 @@
+{
+  "id": "the-hartree-fock-method",
+  "subject": "chemistry",
+  "level": "L4",
+  "module": "theoretical-chemistry",
+  "title": {
+    "en": "The Hartree-Fock method",
+    "et": "Hartree-Focki meetod",
+    "sourceHash": "d6490d8dd02fc491",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Schrodinger equation for any molecule with more than one electron has no exact closed-form solution, because every electron's motion is genuinely correlated with every other electron's through their mutual repulsion, so the Hartree-Fock method makes this problem tractable with one specific, deliberate approximation: replace each electron's instantaneous repulsion with every other individual electron by its repulsion with the other electrons' averaged, smeared-out charge distribution, turning one impossibly coupled many-electron problem into a set of one-electron problems that must be solved self-consistently, since each electron's averaged field depends on the orbitals of all the others, which are themselves what is being solved for -- an iterative procedure repeated until the orbitals stop changing from one cycle to the next -- and while Hartree-Fock recovers the great majority of a molecule's total electronic energy this way, the systematic energy difference it leaves out, called electron correlation energy, is often chemically decisive, being exactly the missing ingredient that post-Hartree-Fock methods and density functional theory are built to recover.",
+    "et": "Schrödingeri võrrandil mistahes molekuli jaoks, millel on rohkem kui üks elektron, ei ole täpset kinnist lahendit, kuna iga elektroni liikumine on tõeliselt korreleeritud iga teise elektroni liikumisega nende vastastikuse tõukumise kaudu, seega muudab Hartree-Focki meetod selle probleemi käsitletavaks ühe konkreetse, tahtliku lähendusega: asendada iga elektroni hetkeline tõukumine iga teise üksiku elektroniga selle tõukumisega teiste elektronide keskmistatud, hajutatud laengujaotusega, muutes ühe võimatult seotud paljuelektronilise probleemi hulgaks üheelektronilisteks probleemideks, mis tuleb lahendada iseseisvalt kooskõlaliselt, kuna iga elektroni keskmistatud väli sõltub kõigi teiste orbitaalidest, mis on ise see, mida lahendatakse -- iteratiivne protseduur, mida korratakse, kuni orbitaalid lakkavad ühest tsüklist teise muutumast --, ning kuigi Hartree-Fock taastab sel viisil valdava enamiku molekuli kogu elektronilisest energiast, on süstemaatiline energiaerinevus, mille see välja jätab, nimega elektronikorrelatsiooni energia, sageli keemiliselt otsustav, olles täpselt see puuduv koostisosa, mida Hartree-Focki-järgsed meetodid ja tihedusfunktsionaali teooria on ehitatud taastama.",
+    "sourceHash": "3aa02151a68ad48d",
+    "stale": false
+  },
+  "prerequisites": [
+    "molecular-orbital-theory-and-hybridisation"
+  ]
+}

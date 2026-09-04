@@ -1,0 +1,56 @@
+{
+  "id": "the-hartree-fock-method-item1",
+  "conceptId": "the-hartree-fock-method",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two competing molecular structures have very similar total Hartree-Fock electronic energies, but their true relative stability (measured experimentally) disagrees noticeably with the Hartree-Fock prediction. What is the most likely explanation?",
+    "et": "Kahel konkureerival molekulistruktuuril on väga sarnased Hartree-Focki kogu elektroonilised energiad, kuid nende tõeline suhteline stabiilsus (mõõdetud eksperimentaalselt) erineb märgatavalt Hartree-Focki ennustusest. Mis on kõige tõenäolisem seletus?",
+    "sourceHash": "24ce49f1fba7e3ee",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The missing electron correlation energy, though a small fraction of the total energy, often differs enough between competing structures to be chemically decisive for their relative stability.",
+        "et": "Puuduv elektronikorrelatsiooni energia, kuigi väike osa kogu energiast, erineb sageli piisavalt konkureerivate struktuuride vahel, et olla nende suhtelise stabiilsuse jaoks keemiliselt otsustav.",
+        "sourceHash": "74d634bec74a9142",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This disagreement is impossible in principle, since Hartree-Fock solves the electronic Schrodinger equation exactly for any molecule.",
+        "et": "See lahknevus on põhimõtteliselt võimatu, kuna Hartree-Fock lahendab elektroonilise Schrödingeri võrrandi mistahes molekuli jaoks täpselt.",
+        "sourceHash": "8227481aaf6dfd7a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hartree-fock-method-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The self-consistent field procedure must not have been iterated enough times, so simply running more iterations of the same method would necessarily resolve the disagreement.",
+        "et": "Iseseisvalt kooskõlalise välja protseduuri ei ole ilmselt piisavalt kordi itereeritud, seega lahendaks lihtsalt sama meetodi rohkemate iteratsioonide läbiviimine tingimata lahknevuse.",
+        "sourceHash": "78439cffc0e590fe",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hartree-fock-method-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Correlation energy is always negligible for chemical questions, so the disagreement must instead be an experimental measurement error.",
+        "et": "Korrelatsiooni energia on keemiliste küsimuste jaoks alati tühine, seega peab lahknevus selle asemel olema eksperimentaalne mõõtmisviga.",
+        "sourceHash": "bf3fb18bb4b5b3c8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-hartree-fock-method-m3"
+    }
+  ]
+}
