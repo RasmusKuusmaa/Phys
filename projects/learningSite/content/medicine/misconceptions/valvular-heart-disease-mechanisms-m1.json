@@ -1,0 +1,10 @@
+{
+  "id": "valvular-heart-disease-mechanisms-m1",
+  "conceptId": "valvular-heart-disease-mechanisms",
+  "text": {
+    "en": "Any valve problem is basically the same kind of malfunction -- in reality, stenosis (a valve that won't open fully, obstructing forward flow) and regurgitation (a valve that won't close fully, leaking blood backward) are mechanically opposite problems that impose genuinely different burdens on the heart chamber upstream of the affected valve -- a pressure overload in one case, a volume overload in the other.",
+    "et": "Iga klapiprobleem on sisuliselt sama tüüpi rike -- tegelikult on stenoos (klapp, mis ei ava täielikult, takistades edasivoolu) ja regurgitatsioon (klapp, mis ei sulgu täielikult, lastes verel tagasi lekkida) mehaaniliselt vastandlikud probleemid, mis põhjustavad tõeliselt erinevaid koormusi mõjutatud klapist ülesvoolu asuvale südamekambrile -- ühel juhul rõhukoormus, teisel juhul mahukoormus.",
+    "sourceHash": "24e2e07a6c8e70a6",
+    "stale": false
+  }
+}

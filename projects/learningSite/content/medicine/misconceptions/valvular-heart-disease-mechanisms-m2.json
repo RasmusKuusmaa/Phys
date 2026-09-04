@@ -1,0 +1,10 @@
+{
+  "id": "valvular-heart-disease-mechanisms-m2",
+  "conceptId": "valvular-heart-disease-mechanisms",
+  "text": {
+    "en": "A heart chamber responds to any kind of valve-related stress the same way, by getting bigger -- in reality, a chamber facing pressure overload (from a stenotic valve downstream) typically responds by thickening its muscular wall (hypertrophy) without necessarily enlarging its internal volume, while a chamber facing volume overload (from a regurgitant valve) responds by enlarging its chamber size (dilation) to accommodate the extra blood volume -- two mechanistically distinct adaptations to two mechanistically distinct problems.",
+    "et": "Südamekamber reageerib igasugusele klapiga seotud stressile samamoodi, muutudes suuremaks -- tegelikult reageerib rõhukoormusega silmitsi seisev kamber (allavoolu asuvast stenootilisest klapist) tüüpiliselt oma lihaselise seina paksenemisega (hüpertroofia), ilma et see tingimata suurendaks oma sisemist mahtu, samas kui mahukoormusega silmitsi seisev kamber (regurgiteeruvast klapist) reageerib oma kambri suuruse suurendamisega (dilatatsioon), et mahutada lisa verekogus -- kaks mehhanistlikult erinevat kohandumist kahele mehhanistlikult erinevale probleemile.",
+    "sourceHash": "5e4fa3c9f5433373",
+    "stale": false
+  }
+}

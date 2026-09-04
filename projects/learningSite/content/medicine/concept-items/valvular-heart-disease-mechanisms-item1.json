@@ -1,0 +1,56 @@
+{
+  "id": "valvular-heart-disease-mechanisms-item1",
+  "conceptId": "valvular-heart-disease-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient has a stenotic aortic valve, obstructing blood flow out of the left ventricle. What adaptive change would this most directly cause in the left ventricle?",
+    "et": "Patsiendil on stenootiline aordiklapp, mis takistab verevoolu vasakust vatsakesest välja. Millist adaptiivset muutust põhjustaks see kõige otsesemalt vasakus vatsakeses?",
+    "sourceHash": "e7f823a7a77052b7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Hypertrophy of the ventricular wall, as the chamber generates higher pressure to push blood through the narrowed valve opening.",
+        "et": "Vatsakese seina hüpertroofia, kuna kamber tekitab kõrgemat rõhku, et suruda verd läbi ahenenud klapiava.",
+        "sourceHash": "0effff717ecbd92c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Dilation of the chamber to accommodate extra leaking blood volume, the same response seen with a regurgitant valve.",
+        "et": "Kambri dilatatsioon, et mahutada lisa lekkivat vere mahtu, sama reaktsioon, mida näeb regurgiteeruva klapi puhul.",
+        "sourceHash": "9a850ad221a757d8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "valvular-heart-disease-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The chamber would enlarge without thickening its wall, since all valve-related stress produces the same enlargement response.",
+        "et": "Kamber suureneks ilma oma seina paksenemata, kuna igasugune klapiga seotud stress tekitab sama suurenemise reaktsiooni.",
+        "sourceHash": "b1657ed3f632229d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "valvular-heart-disease-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This would have the same effect on the right atrium as it would on the left ventricle, since the specific valve involved doesn't change which chamber is burdened.",
+        "et": "See mõjutaks parem koda samamoodi nagu vasakut vatsakest, kuna konkreetne kaasatud klapp ei muuda seda, milline kamber on koormatud.",
+        "sourceHash": "f9e0f16c56063c8e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "valvular-heart-disease-mechanisms-m3"
+    }
+  ]
+}

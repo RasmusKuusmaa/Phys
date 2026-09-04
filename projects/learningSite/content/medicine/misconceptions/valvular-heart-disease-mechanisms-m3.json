@@ -1,0 +1,10 @@
+{
+  "id": "valvular-heart-disease-mechanisms-m3",
+  "conceptId": "valvular-heart-disease-mechanisms",
+  "text": {
+    "en": "Since stenosis and regurgitation are both just 'valve problems,' whichever specific valve is affected doesn't meaningfully change the mechanism -- in reality, which chamber experiences the pressure or volume overload, and therefore which chamber hypertrophies or dilates, depends entirely on which specific valve and which direction of flow is affected; a problem with a valve on the left side of the heart burdens different chambers than the same type of problem on the right side.",
+    "et": "Kuna nii stenoos kui regurgitatsioon on lihtsalt 'klapiprobleemid', ei muuda see, milline konkreetne klapp on mõjutatud, mehhanismi sisuliselt -- tegelikult sõltub see, milline kamber kogeb rõhu- või mahukoormust ja seega milline kamber hüpertrofeerub või dilateerub, täielikult sellest, milline konkreetne klapp ja milline voolusuund on mõjutatud; südame vasaku poole klapiprobleem koormab teistsuguseid kambreid kui sama tüüpi probleem paremal poolel.",
+    "sourceHash": "4ef5f64b585b664f",
+    "stale": false
+  }
+}

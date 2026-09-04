@@ -1,0 +1,21 @@
+{
+  "id": "valvular-heart-disease-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "cardiovascular-medicine",
+  "title": {
+    "en": "Valvular heart disease mechanisms",
+    "et": "Südameklapi haiguste mehhanismid",
+    "sourceHash": "581abe5fb5cc60cb",
+    "stale": false
+  },
+  "summary": {
+    "en": "The heart's four valves exist to enforce one-way blood flow, and valvular disease breaks down into two mechanically opposite failure modes: stenosis, where a valve fails to open fully and obstructs forward flow, and regurgitation (or insufficiency), where a valve fails to close fully and allows blood to leak backward. A stenotic valve forces the heart chamber upstream of it to generate much higher pressure to push blood through the narrowed opening, and that chamber responds to the chronic pressure overload by thickening its muscular wall (hypertrophy) -- the same kind of adaptive muscle response seen throughout the body, just applied to cardiac muscle facing a mechanical obstruction. A regurgitant valve creates the opposite problem, a volume overload: the upstream chamber must handle its own normal incoming blood plus the extra blood leaking backward through the incompetent valve, and it adapts by enlarging its chamber size (dilation) to accommodate the extra volume rather than thickening its walls. Because stenosis and regurgitation impose genuinely different mechanical burdens -- pressure overload driving hypertrophy versus volume overload driving dilation -- a heart's compensatory response, and eventually its pattern of failure, looks mechanistically different depending on which of the two problems, or which specific valve, is actually involved.",
+    "et": "Südame neli klappi eksisteerivad selleks, et jõustada ühesuunalist verevoolu, ning klapihaigused jagunevad kaheks mehaaniliselt vastandlikuks rikkerežiimiks: stenoos, kus klapp ei suuda täielikult avaneda ja takistab edasivoolu, ning regurgitatsioon (ehk puudulikkus), kus klapp ei suuda täielikult sulguda ja lubab verel tagasi lekkida. Stenootiline klapp sunnib sellest ülesvoolu asuvat südamekambrit tekitama palju kõrgemat rõhku, et suruda verd läbi ahenenud ava, ning see kamber reageerib kroonilisele rõhukoormusele oma lihaselise seina paksenemisega (hüpertroofia) -- sama tüüpi adaptiivne lihasreaktsioon, mida näeb kogu kehas, ainult rakendatuna südamelihasele, mis seisab silmitsi mehaanilise takistusega. Regurgiteeruv klapp tekitab vastupidise probleemi, mahukoormuse: ülesvoolu asuv kamber peab käsitlema nii oma normaalset sissetulevat verd kui ka lisaverd, mis lekib tagasi läbi puuduliku klapi, ning see kohaneb, suurendades oma kambri suurust (dilatatsioon), et mahutada lisamaht, selle asemel et oma seinu paksendada. Kuna stenoos ja regurgitatsioon põhjustavad tõeliselt erinevaid mehaanilisi koormusi -- rõhukoormus, mis juhib hüpertroofiat, versus mahukoormus, mis juhib dilatatsiooni --, näeb südame kompensatoorne reaktsioon ja lõpuks selle rikkemuster mehhanistlikult erinev välja, sõltuvalt sellest, kumb kahest probleemist, või milline konkreetne klapp, on tegelikult kaasatud.",
+    "sourceHash": "ee373cfc655c1465",
+    "stale": false
+  },
+  "prerequisites": [
+    "cardiovascular-system-anatomy-and-physiology"
+  ]
+}
