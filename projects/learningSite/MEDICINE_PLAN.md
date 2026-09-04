@@ -273,4 +273,59 @@ no data loss, both modules' content and checkbox state verified correct.
 lint:terminology` (254 glossary terms), and `npm run typecheck` all pass;
 working tree otherwise clean.
 
+## Phase Med3 — immunology and general pathology
+
+Two more modules, six concepts each, same independent-tracks split as
+Phase Med1/Med2. Both build on Phase Med1/Med2 prerequisites, so this phase
+runs after those rather than in parallel with them.
+
+### Module `immunology`
+
+- [ ] Innate immunity and inflammation (physical barriers, phagocytes, the
+      complement system, the acute inflammatory response — the immune
+      system's own mechanism, distinct from `general-pathology`'s
+      acute-and-chronic-inflammation concept below, which covers the
+      tissue-level pathological process and its outcomes rather than the
+      immune cells/molecules driving it; no prerequisites)
+- [ ] Adaptive immunity and lymphocytes (B cells and T cells, antigen
+      presentation, clonal selection; prerequisite: innate-immunity-and-
+      inflammation)
+- [ ] Antibody structure and function (antibody structure, immunoglobulin
+      classes, neutralization/opsonization/complement-fixation mechanisms;
+      prerequisite: adaptive-immunity-and-lymphocytes)
+- [ ] Vaccines and immunological memory (how vaccination generates
+      protection, memory B/T cells, the herd-immunity mechanism — framed
+      mechanistically, not as public-health policy; prerequisite:
+      adaptive-immunity-and-lymphocytes)
+- [ ] Autoimmunity and hypersensitivity (autoimmune-disease mechanisms,
+      the four hypersensitivity types; prerequisite: adaptive-immunity-and-
+      lymphocytes)
+- [ ] Immunodeficiency and immune evasion (primary vs. secondary
+      immunodeficiency mechanisms, how pathogens evade immune detection; no
+      prerequisites)
+
+### Module `general-pathology`
+
+The standard "big four" general-pathology sequence (cell injury/adaptation,
+inflammation/repair, hemodynamic disorders, neoplasia), each built on the
+relevant Phase Med1/Med2 prerequisite rather than restated from scratch.
+
+- [ ] Cell injury and adaptation (reversible vs. irreversible cell injury,
+      hypertrophy/atrophy/metaplasia as adaptive responses; prerequisite:
+      cell-structure-and-organelle-function)
+- [ ] Acute and chronic inflammation (the inflammatory cascade at
+      tissue-outcome level — resolution, fibrosis, chronic/granulomatous
+      inflammation; prerequisite: innate-immunity-and-inflammation)
+- [ ] Necrosis and patterns of tissue death (coagulative/liquefactive/
+      caseous/fat necrosis, distinguished mechanistically from apoptosis;
+      prerequisite: apoptosis-and-programmed-cell-death)
+- [ ] Neoplasia and cancer biology (benign vs. malignant, the hallmarks of
+      cancer, oncogenes and tumor suppressors; prerequisite:
+      the-cell-cycle-and-mitosis)
+- [ ] Wound healing and tissue repair (regeneration vs. fibrosis, the
+      phases of wound healing; prerequisite: acute-and-chronic-inflammation)
+- [ ] Thrombosis, embolism, and infarction (hemostasis basics, thrombus
+      formation, embolism, the infarction mechanism; prerequisite:
+      cardiovascular-system-anatomy-and-physiology)
+
 ---
