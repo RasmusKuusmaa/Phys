@@ -1,0 +1,56 @@
+{
+  "id": "longevity-science-and-biomarkers-of-aging-item1",
+  "conceptId": "longevity-science-and-biomarkers-of-aging",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Caloric restriction reliably extends lifespan in yeast, worms, and flies, and to a smaller degree in mice. Why is it inaccurate to describe this as established evidence that a calorie-restricted diet extends healthy human lifespan?",
+    "et": "Kalorite piiramine pikendab usaldusväärselt eluiga pärmis, ussides ja kärbestes ning väiksemal määral hiirtes. Miks on ebatäpne kirjeldada seda kui väljakujunenud tõendit, et kalorivaene dieet pikendab tervet inimese eluiga?",
+    "sourceHash": "02536958a891f880",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the effect size shrinks substantially from short-lived, simple organisms to longer-lived, more complex ones, and no human trial has been positioned to directly measure lifespan extension, since one long and large enough isn't practically feasible.",
+        "et": "Sest mõjususurus väheneb oluliselt lühiealistest, lihtsatest organismidest pikemaealisteni, keerukamateni, ning ükski inimuuring ei ole saanud otseselt mõõta eluea pikenemist, kuna piisavalt pikka ja suurt uuringut ei ole praktiliselt teostatav korraldada.",
+        "sourceHash": "fced55d056b7d3ed",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't inaccurate -- since the mechanism is well-established across every model organism tested, the same magnitude of lifespan extension is guaranteed to occur in humans as well.",
+        "et": "See ei ole ebatäpne -- kuna mehhanism on hästi väljakujunenud igas testitud mudelorganismis, on garanteeritud, et sama ulatusega eluea pikenemine toimub ka inimestel.",
+        "sourceHash": "3565166da3bcc3ad",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "longevity-science-and-biomarkers-of-aging-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It's inaccurate only because caloric restriction doesn't actually work in any organism, including the ones it's commonly cited as working in.",
+        "et": "See on ebatäpne ainult sellepärast, et kalorite piiramine tegelikult ei toimi üheski organismis, sealhulgas neis, mille puhul seda tavaliselt toimivana tsiteeritakse.",
+        "sourceHash": "2750ac44db3f98df",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "longevity-science-and-biomarkers-of-aging-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It's inaccurate because caloric restriction's benefit comes entirely from eliminating senescent cells, and since senescent cells are purely harmful, any intervention targeting them should be assumed safe and effective without further testing.",
+        "et": "See on ebatäpne, sest kalorite piiramise kasu tuleb täielikult senestentsete rakkude eemaldamisest, ning kuna senestentsed rakud on puhtalt kahjulikud, tuleks eeldada, et iga neid sihtiv sekkumine on ohutu ja tõhus ilma täiendava testimiseta.",
+        "sourceHash": "1d46549593d9be98",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "longevity-science-and-biomarkers-of-aging-m3"
+    }
+  ]
+}

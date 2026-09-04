@@ -1,0 +1,10 @@
+{
+  "id": "longevity-science-and-biomarkers-of-aging-m3",
+  "conceptId": "longevity-science-and-biomarkers-of-aging",
+  "text": {
+    "en": "Cellular senescence is purely harmful, so a treatment that eliminates all senescent cells from the body would straightforwardly be beneficial with no tradeoffs -- in reality, senescence also serves protective roles (suppressing tumor formation by permanently halting division in damaged cells, and contributing to wound healing), so senescent cells are not simply a mistake the body makes; research on selectively clearing harmful excess senescent cells (senolytics) is genuinely active, but the relationship between senescence and health is more nuanced than 'more senescent cells is always worse.'",
+    "et": "Rakuline vananemine on puhtalt kahjulik, mistõttu ravi, mis eemaldaks kehast kõik senestentsed rakud, oleks otsekoheselt kasulik ilma kompromissideta -- tegelikult täidab senestsents ka kaitsvaid rolle (kasvaja teket pärssides, peatades jäädavalt jagunemise kahjustatud rakkudes, ning aidates kaasa haavade paranemisele), mistõttu senestentsed rakud ei ole lihtsalt viga, mida keha teeb; uuring, mis käsitleb kahjuliku liigse senestentsete rakkude selektiivset eemaldamist (senolüütikumid), on tõeliselt aktiivne, kuid suhe senestsentsi ja tervise vahel on nüansirikkam kui 'rohkem senestentseid rakke on alati halvem.'",
+    "sourceHash": "92ce7bee1d53592f",
+    "stale": false
+  }
+}
