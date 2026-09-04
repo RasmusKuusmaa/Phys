@@ -1,0 +1,10 @@
+{
+  "id": "engineering-economics-m2",
+  "conceptId": "engineering-economics",
+  "text": {
+    "en": "Believing that the project with the shorter payback period is always the financially better choice -- payback period only measures how fast the initial investment is recovered and says nothing about cash flows after that point, so a project with a short payback but modest returns afterward can have a lower net present value than a project with a longer payback but much larger returns later; payback period and net present value can rank the same two projects in opposite orders.",
+    "et": "Arvamus, et lühema tasuvusajaga projekt on alati rahaliselt parem valik -- tasuvusaeg mõõdab ainult seda, kui kiiresti alginvesteering tagasi teenitakse, ning ei ütle midagi rahavoogude kohta pärast seda hetke, seega võib lühikese tasuvusaja, kuid tagasihoidlike hilisemate tuludega projektil olla madalam puhas nüüdisväärtus kui pikema tasuvusaja, kuid palju suuremate hilisemate tuludega projektil; tasuvusaeg ja puhas nüüdisväärtus võivad samad kaks projekti järjestada vastupidises järjekorras.",
+    "sourceHash": "1537d1dbd1f210c6",
+    "stale": false
+  }
+}

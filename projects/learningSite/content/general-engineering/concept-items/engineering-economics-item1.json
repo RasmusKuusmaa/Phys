@@ -1,0 +1,56 @@
+{
+  "id": "engineering-economics-item1",
+  "conceptId": "engineering-economics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Project A has a shorter payback period than Project B, but Project B's net present value (NPV) is higher. Which statement about this is correct?",
+    "et": "Projekti A tasuvusaeg on lühem kui projektil B, kuid projekti B puhas nüüdisväärtus (NPV) on suurem. Milline väide selle kohta on õige?",
+    "sourceHash": "88c6e80fa2c52bd2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "This is possible: payback period ignores cash flows after the investment is recovered, so a project can pay back faster yet still generate less total discounted value overall.",
+        "et": "See on võimalik: tasuvusaeg eirab rahavooge pärast investeeringu tagasiteenimist, seega võib projekt tasuda end kiiremini, kuid toota siiski väiksema kogu diskonteeritud väärtuse.",
+        "sourceHash": "6a96d38619d0cfec",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is impossible -- the project with the shorter payback period must always have the higher NPV, since it returns money faster.",
+        "et": "See on võimatu -- lühema tasuvusajaga projektil peab alati olema suurem NPV, kuna see toob raha tagasi kiiremini.",
+        "sourceHash": "c30512f31b466930",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-economics-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Whichever number is numerically larger should be chosen directly, without discounting either project's future cash flows first.",
+        "et": "Valida tuleks otse see, mille arv on suurem, kummagi projekti tulevasi rahavooge enne diskonteerimata.",
+        "sourceHash": "1840f0ee4a27149d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-economics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A breakeven analysis alone would resolve this by declaring one project the single, unconditional winner.",
+        "et": "Ainuüksi tasuvuslävi analüüs lahendaks selle, kuulutades ühe projekti üheseks ja tingimusteta võitjaks.",
+        "sourceHash": "202a064f4320b3c0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-economics-m3"
+    }
+  ]
+}

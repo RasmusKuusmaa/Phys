@@ -1,0 +1,19 @@
+{
+  "id": "engineering-economics",
+  "subject": "general-engineering",
+  "level": "L1",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Engineering economics",
+    "et": "Tehniline majandusarvestus",
+    "sourceHash": "31a519832a879d3f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Money received or spent at different points in time is not directly comparable, since money available today can be invested to grow, so engineering economics discounts every future cash flow back to today's value at some discount rate before comparing anything -- this is what turns 'pay 10,000 now versus receive 12,000 in three years' from a gut-feeling comparison into an actual calculation. Net present value (NPV) sums a project's discounted future cash flows and subtracts the initial investment, so a positive NPV means the project is expected to return more than the discount rate demanded and is worth doing on financial grounds alone; the payback period (how long until cumulative cash flow turns positive) answers a related but different question, how fast the initial investment is recovered, and can favor a project NPV would reject if it ignores everything that happens after payback. A breakeven analysis finds the production volume, or the discount rate, at which two competing options cost the same, turning 'which option is cheaper' into 'cheaper under what conditions,' which is usually the more useful engineering question.",
+    "et": "Erinevatel ajahetkedel saadud või kulutatud raha ei ole otseselt võrreldav, kuna täna käes olevat raha saab investeerida, et see kasvaks, seega diskonteerib tehniline majandusarvestus iga tulevase rahavoo tänasesse väärtusesse mingi diskontomääraga enne mistahes võrdlemist -- just see muudabki valiku 'maksa 10 000 kohe või saa 12 000 kolme aasta pärast' kõhutundest tegelikuks arvutuseks. Puhas nüüdisväärtus (NPV) liidab kokku projekti diskonteeritud tulevased rahavood ja lahutab sellest alginvesteeringu, seega positiivne NPV tähendab, et projekt tõotab tuua rohkem, kui diskontomäär nõudis, ning on juba puhtalt rahalistel põhjustel ette võtmist väärt; tasuvusaeg (kui kaua kulub, enne kui kumulatiivne rahavoog muutub positiivseks) vastab seotud, kuid teistsugusele küsimusele -- kui kiiresti alginvesteering tagasi teenitakse -- ning võib eelistada projekti, mille NPV lükkaks tagasi, kui see eirab kõike, mis juhtub pärast tasuvusaja saabumist. Tasuvuslävi analüüs leiab tootmismahu või diskontomäära, mille juures kaks konkureerivat varianti maksavad ühepalju, muutes küsimuse 'kumb variant on odavam' küsimuseks 'odavam millistel tingimustel', mis on tavaliselt kasulikum inseneriküsimus.",
+    "sourceHash": "fcb2f81726f2af9b",
+    "stale": false
+  },
+  "prerequisites": []
+}

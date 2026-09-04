@@ -1,0 +1,37 @@
+{
+  "id": "net-present-value-solve-npv",
+  "formulaId": "net-present-value-formula",
+  "solveFor": "NPV",
+  "mistakes": [
+    {
+      "id": "forgot-to-discount",
+      "description": {
+        "en": "Subtracted the initial investment from the undiscounted future cash flow, forgetting to divide by (1+r)^n first.",
+        "et": "Lahutas alginvesteeringu diskonteerimata tulevasest rahavoost, unustades selle enne jagada (1+r)^n-ga.",
+        "sourceHash": "6fd570508b7e373e",
+        "stale": false
+      },
+      "expression": "CF - C0"
+    },
+    {
+      "id": "forgot-to-subtract-investment",
+      "description": {
+        "en": "Discounted the future cash flow correctly but forgot to subtract the initial investment.",
+        "et": "Diskonteeris tulevase rahavoo õigesti, kuid unustas alginvesteeringu lahutamata.",
+        "sourceHash": "c4056f992ddda258",
+        "stale": false
+      },
+      "expression": "CF/((1+r)^n)"
+    },
+    {
+      "id": "multiplied-instead-of-dividing-by-discount-factor",
+      "description": {
+        "en": "Multiplied the future cash flow by (1+r)^n instead of dividing by it, growing the value instead of discounting it.",
+        "et": "Korrutas tulevase rahavoo (1+r)^n-ga selle asemel, et sellega jagada, kasvatades väärtust diskonteerimise asemel.",
+        "sourceHash": "c031cd2987ef8fb8",
+        "stale": false
+      },
+      "expression": "CF*((1+r)^n) - C0"
+    }
+  ]
+}

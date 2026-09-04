@@ -1,0 +1,42 @@
+{
+  "id": "net-present-value-solve-npv",
+  "formulaId": "net-present-value-formula",
+  "variables": [
+    {
+      "symbol": "CF",
+      "min": 5000,
+      "max": 50000,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "C0",
+      "min": 5000,
+      "max": 40000,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "r",
+      "min": 0.02,
+      "max": 0.15,
+      "unit": "1",
+      "sigFigs": 2
+    },
+    {
+      "symbol": "n",
+      "min": 1,
+      "max": 8,
+      "unit": "1",
+      "sigFigs": 1
+    }
+  ],
+  "constraints": [
+    { "op": "gt", "left": "CF", "right": 0 },
+    { "op": "gt", "left": "C0", "right": 0 },
+    { "op": "gt", "left": "r", "right": 0 },
+    { "op": "lt", "left": "r", "right": 1 },
+    { "op": "gt", "left": "n", "right": 0 }
+  ],
+  "solveFor": "NPV"
+}

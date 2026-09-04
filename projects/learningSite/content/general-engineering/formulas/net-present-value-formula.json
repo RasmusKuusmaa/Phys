@@ -1,0 +1,63 @@
+{
+  "id": "net-present-value-formula",
+  "conceptId": "engineering-economics",
+  "latex": "NPV = \\frac{CF}{(1+r)^n} - C_0",
+  "symbols": [
+    {
+      "symbol": "NPV",
+      "name": {
+        "en": "net present value",
+        "et": "puhas nüüdisväärtus",
+        "sourceHash": "fe56cd1fce3816f6",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "CF",
+      "name": {
+        "en": "cash flow",
+        "et": "rahavoog",
+        "sourceHash": "9ee613f105d21d73",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "C0",
+      "name": {
+        "en": "initial investment",
+        "et": "alginvesteering",
+        "sourceHash": "c3538f5b66590613",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "r",
+      "name": {
+        "en": "discount rate",
+        "et": "diskontomäär",
+        "sourceHash": "3661aa030cd5bce2",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "n",
+      "name": {
+        "en": "number of periods",
+        "et": "perioodide arv",
+        "sourceHash": "54fe5660eee9afcf",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "NPV"
+  ],
+  "expressions": {
+    "NPV": "CF/((1+r)^n) - C0"
+  }
+}

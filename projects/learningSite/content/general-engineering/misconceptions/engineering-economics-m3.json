@@ -1,0 +1,10 @@
+{
+  "id": "engineering-economics-m3",
+  "conceptId": "engineering-economics",
+  "text": {
+    "en": "Believing a breakeven analysis identifies which of two options is the cheaper one overall -- a breakeven analysis instead finds the specific volume, rate, or condition at which two options cost exactly the same, which is genuinely more useful than a single verdict, because the answer to 'which is cheaper' can flip on either side of that breakeven point; treating breakeven analysis as producing one fixed winner throws away the conditional information that is the whole point of doing it.",
+    "et": "Arvamus, et tasuvuslävi analüüs näitab, kumb kahest variandist on üldiselt odavam -- tasuvuslävi analüüs leiab hoopis konkreetse mahu, määra või tingimuse, mille juures kaks varianti maksavad täpselt ühepalju, mis on tegelikult kasulikum kui üks kindel otsus, kuna vastus küsimusele 'kumb on odavam' võib sellest tasuvuslävest ühel või teisel pool ümber pöörduda; tasuvuslävi analüüsi käsitlemine ühe kindla võitja tootjana viskab minema tingimusliku info, mis ongi selle tegemise kogu mõte.",
+    "sourceHash": "f2a1f4e89eb18248",
+    "stale": false
+  }
+}
