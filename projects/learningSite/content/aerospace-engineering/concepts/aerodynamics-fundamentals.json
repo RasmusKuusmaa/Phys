@@ -1,0 +1,19 @@
+{
+  "id": "aerodynamics-fundamentals",
+  "subject": "aerospace-engineering",
+  "level": "L1",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Aerodynamics fundamentals",
+    "et": "Aerodünaamika alused",
+    "sourceHash": "9e650437412d5b4e",
+    "stale": false
+  },
+  "summary": {
+    "en": "A wing generates lift because its curved, asymmetric cross-section, called an airfoil, deflects the airflow passing over and under it, and by Newton's third law, deflecting a mass of air downward pushes the wing upward with an equal and opposite reaction force; the same interaction can also be described, equivalently, through Bernoulli's principle and the circulation the airfoil's shape and angle of attack impose on the surrounding flow, with faster flow over the upper surface producing lower pressure there than underneath. Lift and drag both grow with the square of airspeed and with the wing's angle of attack, but only up to a point: past a critical angle of attack the flow can no longer follow the upper surface's curvature and separates from it, collapsing lift in a phenomenon called a stall, which is a property of the wing's angle relative to the oncoming air, not of airspeed or engine power directly.",
+    "et": "Tiib tekitab tõstejõu, kuna selle kõverjooneline, mitteühtlane ristlõige, mida nimetatakse tiivaprofiiliks, suunab tiiva peal ja all liikuva õhuvoolu ümber, ning Newtoni kolmanda seaduse kohaselt tekitab õhumassi suunamine allapoole tiivale võrdse ja vastassuunalise reaktsioonijõu, mis suunab tiiva ülespoole; sama vastasmõju saab kirjeldada ka samaväärselt Bernoulli printsiibi ja tiivaprofiili kuju ning rünnakunurga poolt ümbritsevale voolule tekitatava tsirkulatsiooni kaudu, kus kiirem vool tiiva pealispinnal tekitab seal madalama rõhu kui alaküljel. Tõstejõud ja takistusjõud kasvavad mõlemad lennukiiruse ruuduga ja rünnakunurgaga, kuid ainult teatud piirini: kriitilisest rünnakunurgast suurema nurga korral ei suuda vool enam järgida pealispinna kõverust ja lahkneb sellest, mille tagajärjel tõstejõud kokku variseb nähtuses, mida nimetatakse aerodünaamiliseks seiskumiseks (stall) — see on tiiva nurga, mitte lennukiiruse ega mootori võimsuse enda omadus.",
+    "sourceHash": "be26e3d61c24474e",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "aerodynamics-fundamentals-m3",
+  "conceptId": "aerodynamics-fundamentals",
+  "text": {
+    "en": "Believing an airfoil must be curved on top and flat on the bottom (cambered) to generate any lift at all, so a symmetric airfoil (equally curved top and bottom) could never fly -- a symmetric airfoil generates lift perfectly well once it is set at a positive angle of attack, which by itself deflects the airflow and creates circulation; camber shifts the angle of attack at which lift is zero and changes the lift-to-drag tradeoff, but it is not a requirement for lift to exist, which is why fully symmetric airfoils are standard on aerobatic aircraft and helicopter rotor blades that must produce lift equally well inverted or in either rotation direction.",
+    "et": "Arvamus, et tiivaprofiil peab olema pealt kumer ja alt lame (kaardus ehk kambreeritud), et üldse tõstejõudu tekitada, mistõttu sümmeetriline profiil (võrdselt kumer pealt ja alt) ei saaks kunagi lennata -- sümmeetriline profiil tekitab tõstejõudu täiesti hästi, kui see seatakse positiivse rünnakunurga alla, mis iseenesest suunab õhuvoolu ümber ja tekitab tsirkulatsiooni; kaardumine nihutab rünnakunurka, mille juures tõstejõud on null, ning muudab tõstejõu ja takistusjõu suhet, kuid see ei ole tõstejõu tekkimise eeltingimus, mistõttu täiesti sümmeetrilised profiilid on standardsed piloteerimislennukitel ja helikopteri rootorilabadel, mis peavad tekitama tõstejõudu võrdselt hästi ka tagurpidi lennates või kummaski pöörlemissuunas.",
+    "sourceHash": "c8c6d7d90e1ed57e",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "aerodynamics-fundamentals-m2",
+  "conceptId": "aerodynamics-fundamentals",
+  "text": {
+    "en": "Believing an aerodynamic stall happens when an aircraft is flying 'too slowly' in some absolute sense, or that it is caused by the engine losing power -- a stall is actually defined entirely by exceeding the wing's critical angle of attack, regardless of airspeed or engine thrust: a wing can be stalled at high speed during an aggressive pull-up, and a wing well below its critical angle of attack does not stall no matter how slow the aircraft goes (down to the speed at which lift can no longer support the aircraft's weight at all).",
+    "et": "Arvamus, et aerodünaamiline seiskumine (stall) toimub siis, kui õhusõiduk lendab mingis absoluutses mõttes 'liiga aeglaselt', või et selle põhjustab mootori võimsuse kadu -- seiskumine on tegelikult täielikult määratud tiiva kriitilise rünnakunurga ületamisega, sõltumata lennukiirusest või mootori tõukejõust: tiib võib seiskuda ka suurel kiirusel järsu tõmbe ajal ning tiib, mis on selgelt allpool oma kriitilist rünnakunurka, ei seisku ükskõik kui aeglaselt õhusõiduk ka ei lendaks (kuni kiiruseni, mille juures tõstejõud enam üldse ei suuda õhusõiduki raskust kanda).",
+    "sourceHash": "c0c044439236fb2f",
+    "stale": false
+  }
+}

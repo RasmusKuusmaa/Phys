@@ -1,0 +1,10 @@
+{
+  "id": "aerodynamics-fundamentals-m1",
+  "conceptId": "aerodynamics-fundamentals",
+  "text": {
+    "en": "Believing lift is produced because the upper and lower surfaces of an airfoil are 'equal transit time' paths -- air splitting at the leading edge must supposedly arrive at the trailing edge simultaneously, so the longer upper-surface path forces faster flow and lower pressure there -- when in fact air passing over the top of a real airfoil reaches the trailing edge well before the corresponding air that went underneath; the equal-transit-time claim is not the true mechanism and is not even consistent with measured flow fields.",
+    "et": "Arvamus, et tõstejõud tekib seetõttu, et tiivaprofiili ülemine ja alumine pind on 'võrdse läbimisajaga' teed -- eesservas lahknev õhk peab väidetavalt jõudma tagaservasse üheaegselt, mistõttu pikem pealispinna tee sunnib seal kiirema voolu ja madalama rõhu -- kuigi tegelikult jõuab tiivaprofiili pealt liikuv õhk tagaservasse tunduvalt varem kui vastav alt liikunud õhk; võrdse läbimisaja väide ei ole tegelik mehhanism ega ole isegi kooskõlas mõõdetud voolupiltidega.",
+    "sourceHash": "5222dd4080205078",
+    "stale": false
+  }
+}

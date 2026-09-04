@@ -1,0 +1,56 @@
+{
+  "id": "aerodynamics-fundamentals-item1",
+  "conceptId": "aerodynamics-fundamentals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A pilot pulls back hard on the controls during a steep, fast turn and the wing suddenly loses lift. What determines whether this happened?",
+    "et": "Piloot tõmbab järsu ja kiire pöörde ajal juhtsanga järsult enda poole ning tiib kaotab äkitselt tõstejõu. Mis määrab, kas see juhtus?",
+    "sourceHash": "d46cefe73c332766",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Whether the wing's angle of attack exceeded its critical angle, regardless of how fast the aircraft was flying.",
+        "et": "See, kas tiiva rünnakunurk ületas kriitilise rünnakunurga, sõltumata sellest, kui kiiresti õhusõiduk lendas.",
+        "sourceHash": "b43f2a2f60bb92b8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Whether the aircraft's airspeed dropped below some fixed absolute value, since that alone always causes a stall.",
+        "et": "See, kas õhusõiduki lennukiirus langes alla mingi fikseeritud absoluutväärtuse, kuna see üksi põhjustab alati seiskumise.",
+        "sourceHash": "4c21404ed143f458",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aerodynamics-fundamentals-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Whether the air passing over the top of the wing failed to arrive at the trailing edge at the same time as the air passing underneath.",
+        "et": "See, kas tiiva pealt liikuv õhk ei jõudnud tagaservasse samal ajal kui alt liikuv õhk.",
+        "sourceHash": "9d5b21def5b3481e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aerodynamics-fundamentals-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Whether the wing's airfoil was symmetric rather than cambered, since a symmetric airfoil cannot sustain lift under load.",
+        "et": "See, kas tiiva profiil oli kaardunud asemel sümmeetriline, kuna sümmeetriline profiil ei suuda koormuse all tõstejõudu säilitada.",
+        "sourceHash": "babeec87a50a72ca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aerodynamics-fundamentals-m3"
+    }
+  ]
+}
