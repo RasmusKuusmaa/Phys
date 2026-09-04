@@ -15,5 +15,7 @@
     "sourceHash": "11356393933f7440",
     "stale": false
   },
-  "prerequisites": []
+  "prerequisites": [
+    "innate-immunity-and-inflammation"
+  ]
 }
