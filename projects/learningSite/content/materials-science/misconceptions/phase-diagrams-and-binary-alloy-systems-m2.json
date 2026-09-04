@@ -1,0 +1,10 @@
+{
+  "id": "phase-diagrams-and-binary-alloy-systems-m2",
+  "conceptId": "phase-diagrams-and-binary-alloy-systems",
+  "text": {
+    "en": "Believing a composition and temperature that fall inside a two-phase region of a phase diagram simply indicate one single, uniformly blended phase with intermediate properties -- a point inside a two-phase region specifically represents a physical mixture of two genuinely distinct phases coexisting simultaneously (for instance, solid and liquid together, or two different solid phases together), each with its own fixed composition determined by the diagram's phase boundaries at that temperature, not one averaged or blended phase; the relative amount of each of the two coexisting phases, not merely their identity, is read off using the lever rule.",
+    "et": "Arvamus, et koostis ja temperatuur, mis langevad faasidiagrammi kaksikfaasilisse piirkonda, tähistavad lihtsalt üht ühtlaselt segunenud faasi vaheliste omadustega -- punkt kaksikfaasilises piirkonnas esindab spetsiifiliselt kahe tõeliselt eristuva faasi füüsilist segu, mis eksisteerivad samaaegselt (näiteks tahke ja vedel koos, või kaks erinevat tahket faasi koos), millest igaühel on oma fikseeritud koostis, mis on määratud diagrammi faasipiiridega sellel temperatuuril, mitte üks keskmistatud või segunenud faas; iga kahest kooseksisteerivast faasist suhteline kogus, mitte ainult nende identiteet, loetakse maha kangireegli abil.",
+    "sourceHash": "95c40920dc35e190",
+    "stale": false
+  }
+}

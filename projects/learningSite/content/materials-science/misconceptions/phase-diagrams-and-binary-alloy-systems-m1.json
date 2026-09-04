@@ -1,0 +1,10 @@
+{
+  "id": "phase-diagrams-and-binary-alloy-systems-m1",
+  "conceptId": "phase-diagrams-and-binary-alloy-systems",
+  "text": {
+    "en": "Believing a binary alloy's eutectic melting point must lie somewhere between the melting points of its two pure components, as a kind of weighted average -- the eutectic point is specifically a genuine thermodynamic minimum, meaning the eutectic composition melts at a temperature lower than the melting point of either pure component individually, sometimes dramatically lower; this is not an averaging or interpolation effect but a real, often surprising consequence of how the liquid and solid phases' relative stability changes with composition, which is exactly why eutectic alloys (solder, for instance) are deliberately chosen for applications needing an unusually low melting point.",
+    "et": "Arvamus, et binaarse sulami eutektiline sulamistemperatuur peab jääma kuhugi selle kahe puhta komponendi sulamistemperatuuride vahele, omamoodi kaalutud keskmisena -- eutektiline punkt on spetsiifiliselt tõeline termodünaamiline miinimum, mis tähendab, et eutektiline koostis sulab temperatuuril, mis on madalam kummagi puhta komponendi individuaalsest sulamistemperatuurist, mõnikord dramaatiliselt madalam; see ei ole keskmistamis- ega interpoleerimisefekt, vaid reaalne, sageli üllatav tagajärg sellest, kuidas vedela ja tahke faasi suhteline stabiilsus koostisega muutub, mis ongi täpselt põhjus, miks eutektilised sulamid (näiteks jootetina) valitakse tahtlikult rakendustele, mis vajavad ebatavaliselt madalat sulamistemperatuuri.",
+    "sourceHash": "22c6aacb26dcf316",
+    "stale": false
+  }
+}

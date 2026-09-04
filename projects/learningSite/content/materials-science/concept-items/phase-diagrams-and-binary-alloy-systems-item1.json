@@ -1,0 +1,56 @@
+{
+  "id": "phase-diagrams-and-binary-alloy-systems-item1",
+  "conceptId": "phase-diagrams-and-binary-alloy-systems",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A particular alloy composition melts at a temperature noticeably lower than the melting point of either of its two pure components. What does this indicate about that composition?",
+    "et": "Konkreetne sulami koostis sulab temperatuuril, mis on märgatavalt madalam kummagi selle kahe puhta komponendi sulamistemperatuurist. Mida see antud koostise kohta näitab?",
+    "sourceHash": "5f27f009a6629ca3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is likely at or near the eutectic composition, a genuine thermodynamic minimum in the melting temperature, not an average or interpolation between the two pure components' melting points.",
+        "et": "See on tõenäoliselt eutektilise koostise juures või selle lähedal, tõeline termodünaamiline miinimum sulamistemperatuuris, mitte keskmine või interpolatsioon kahe puhta komponendi sulamistemperatuuride vahel.",
+        "sourceHash": "159317e4f3036681",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is impossible for a genuine binary alloy, since the melting point of any mixture must always fall between the melting points of its two pure components.",
+        "et": "See on tõelise binaarse sulami jaoks võimatu, kuna mistahes segu sulamistemperatuur peab alati jääma selle kahe puhta komponendi sulamistemperatuuride vahele.",
+        "sourceHash": "b239c5753b419c63",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phase-diagrams-and-binary-alloy-systems-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The composition must actually represent a single, uniformly blended phase whose properties are simply intermediate between the two pure components.",
+        "et": "Koostis peab tegelikult esindama üht ühtlaselt segunenud faasi, mille omadused on lihtsalt kahe puhta komponendi vahepealsed.",
+        "sourceHash": "94ed518312414220",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phase-diagrams-and-binary-alloy-systems-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This tells us only that two phases are present at this composition, with no further information available about their relative proportions.",
+        "et": "See ütleb meile ainult, et selle koostise juures on kohal kaks faasi, ilma täiendava teabeta nende suhtelise osakaalu kohta.",
+        "sourceHash": "0141a1864d3c0f40",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "phase-diagrams-and-binary-alloy-systems-m3"
+    }
+  ]
+}

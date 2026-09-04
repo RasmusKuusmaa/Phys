@@ -1,0 +1,10 @@
+{
+  "id": "phase-diagrams-and-binary-alloy-systems-m3",
+  "conceptId": "phase-diagrams-and-binary-alloy-systems",
+  "text": {
+    "en": "Believing the lever rule only identifies which two phases are present at a given point inside a two-phase region, without providing any further quantitative information -- the lever rule specifically calculates the exact relative proportion (by mass or mole fraction) of each of the two coexisting phases at that point, using the point's horizontal distance from each phase boundary as the basis for the calculation; this quantitative proportion, not merely a qualitative list of which phases are present, is the genuinely useful information the lever rule provides and is essential for predicting a real alloy's actual microstructure and properties.",
+    "et": "Arvamus, et kangireegel identifitseerib ainult, millised kaks faasi on antud punktis kaksikfaasilises piirkonnas kohal, ilma edasise kvantitatiivse teabeta -- kangireegel arvutab spetsiifiliselt kahe kooseksisteeriva faasi täpse suhtelise osakaalu (massi- või moolimurru järgi) selles punktis, kasutades arvutuse alusena punkti horisontaalset kaugust igast faasipiirist; see kvantitatiivne osakaal, mitte lihtsalt kvalitatiivne loetelu sellest, millised faasid on kohal, on tõeliselt kasulik teave, mida kangireegel pakub, ning on hädavajalik reaalse sulami tegeliku mikrostruktuuri ja omaduste ennustamiseks.",
+    "sourceHash": "599b27990f71736d",
+    "stale": false
+  }
+}

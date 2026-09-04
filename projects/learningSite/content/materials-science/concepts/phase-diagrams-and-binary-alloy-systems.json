@@ -1,0 +1,21 @@
+{
+  "id": "phase-diagrams-and-binary-alloy-systems",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Phase diagrams and binary alloy systems",
+    "et": "Faasidiagrammid ja binaarsed sulamisüsteemid",
+    "sourceHash": "7fa25eea2524617a",
+    "stale": false
+  },
+  "summary": {
+    "en": "A binary phase diagram maps out, for every possible overall composition of a two-component alloy and every temperature, exactly which phase or combination of phases is thermodynamically stable, and the single most consequential feature many such diagrams share is a eutectic point -- a specific composition at which the alloy melts at a temperature lower than the melting point of either pure component alone, sometimes dramatically lower -- a genuine thermodynamic minimum rather than some kind of averaging or interpolation between the two components' individual melting points, and reading a phase diagram correctly at a composition and temperature that falls inside a two-phase region requires a specific graphical rule, the lever rule, which gives not just which two phases coexist but the exact relative proportion of each, information a phase diagram's simple appearance can otherwise make deceptively easy to misread as a single blended phase.",
+    "et": "Binaarne faasidiagramm kaardistab iga võimaliku kaksikkomponentse sulami üldkoostise ja iga temperatuuri jaoks täpselt, milline faas või faaside kombinatsioon on termodünaamiliselt stabiilne, ning kõige olulisem tunnus, mida paljud sellised diagrammid jagavad, on eutektiline punkt -- konkreetne koostis, mille juures sulam sulab temperatuuril, mis on madalam kummagi puhta komponendi sulamistemperatuurist üksi, mõnikord dramaatiliselt madalam -- tõeline termodünaamiline miinimum, mitte mingi keskmistamine või interpoleerimine kahe komponendi individuaalsete sulamistemperatuuride vahel, ning faasidiagrammi õige lugemine koostisel ja temperatuuril, mis langeb kaksikfaasilisse piirkonda, nõuab konkreetset graafilist reeglit, kangireeglit, mis annab mitte ainult selle, millised kaks faasi koos eksisteerivad, vaid ka iga faasi täpse suhtelise osakaalu, teabe, mida faasidiagrammi lihtne välimus võib muidu petlikult kergesti panna valesti lugema ühe segunenud faasina.",
+    "sourceHash": "d2793a4e2221b250",
+    "stale": false
+  },
+  "prerequisites": [
+    "classes-of-materials"
+  ]
+}
