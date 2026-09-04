@@ -84,7 +84,10 @@ Phase C2 complete: 42 chemistry concepts (5 new L4 concepts on top of the
 
 - [x] Amino acids, peptide bonds, and protein primary structure (new
       biochemistry module started)
-- [ ] Enzyme kinetics and the Michaelis-Menten equation
-- [ ] Nucleic acid structure and base pairing
+- [x] Enzyme kinetics and the Michaelis-Menten equation
+- [x] Nucleic acid structure and base pairing
+
+Phase C3 complete: 45 chemistry concepts (3-concept biochemistry module
+established from zero).
 
 ---
