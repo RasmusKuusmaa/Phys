@@ -1,0 +1,10 @@
+{
+  "id": "sensitivity-specificity-and-diagnostic-testing-m1",
+  "conceptId": "sensitivity-specificity-and-diagnostic-testing",
+  "text": {
+    "en": "A test with 99% sensitivity means that if you test positive, there's a 99% chance you actually have the disease -- in reality, sensitivity only describes how the test behaves in people who truly have the disease (how rarely it misses them); what a positive result means for a given person also depends on the disease's prevalence in the tested population via Bayes' theorem, and for a rare disease, a 99%-sensitive test can still mean most positive results are false positives.",
+    "et": "99% tundlikkusega test tähendab, et kui testite positiivselt, on 99% tõenäosus, et teil see haigus tegelikult on -- tegelikult kirjeldab tundlikkus ainult seda, kuidas test käitub inimestel, kellel haigus tõepoolest on (kui harva see nad vahele jätab); mida positiivne tulemus konkreetse inimese jaoks tähendab, sõltub ka haiguse levimusest testitavas populatsioonis Bayesi teoreemi kaudu, ning harva haiguse puhul võib 99% tundlikkusega test siiski tähendada, et enamik positiivseid tulemusi on valepositiivsed.",
+    "sourceHash": "a28cbff93102ae42",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sensitivity-specificity-and-diagnostic-testing-m3",
+  "conceptId": "sensitivity-specificity-and-diagnostic-testing",
+  "text": {
+    "en": "Since false positives and false negatives are both 'errors,' a good test just needs to minimize the total number of errors, regardless of which kind -- in reality, the cost of a false negative (missing a real case) versus a false positive (flagging a healthy person) is often very different depending on what happens next; a screening test for a dangerous, treatable disease is often deliberately designed to favor high sensitivity (fewer false negatives) even at the cost of more false positives, which are then filtered out by a second, more specific confirmatory test.",
+    "et": "Kuna valepositiivsed ja valenegatiivsed on mõlemad 'vead', peab hea test lihtsalt minimeerima vigade koguarvu, olenemata liigist -- tegelikult on valenegatiivse (tegeliku juhtumi vahelejätmise) ja valepositiivse (terve inimese märgistamise) hind tihti väga erinev, sõltuvalt sellest, mis edasi juhtub; ohtliku, ravitava haiguse sõeltest on tihti tahtlikult disainitud eelistama kõrget tundlikkust (vähem valenegatiivseid) isegi rohkemate valepositiivsete hinnaga, mis seejärel filtreeritakse välja teise, spetsiifilisema kinnitava testiga.",
+    "sourceHash": "80e8c67141e94af8",
+    "stale": false
+  }
+}

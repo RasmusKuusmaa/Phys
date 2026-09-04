@@ -1,0 +1,53 @@
+{
+  "id": "sensitivity-specificity-and-diagnostic-testing-formula1",
+  "conceptId": "sensitivity-specificity-and-diagnostic-testing",
+  "latex": "PPV = \\frac{Sn \\cdot Prev}{Sn \\cdot Prev + (1-Sp)(1-Prev)}",
+  "symbols": [
+    {
+      "symbol": "PPV",
+      "name": {
+        "en": "positive predictive value",
+        "et": "positiivne ennustusväärtus",
+        "sourceHash": "b039a95ef0441e94",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "Sn",
+      "name": {
+        "en": "sensitivity",
+        "et": "tundlikkus",
+        "sourceHash": "5c16250fd4bb6980",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "Sp",
+      "name": {
+        "en": "specificity",
+        "et": "spetsiifilisus",
+        "sourceHash": "7f02f2e3055088f0",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "Prev",
+      "name": {
+        "en": "prevalence",
+        "et": "levimus",
+        "sourceHash": "c2451614a1c82995",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "PPV"
+  ],
+  "expressions": {
+    "PPV": "(Sn*Prev)/(Sn*Prev+(1-Sp)*(1-Prev))"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sensitivity-specificity-and-diagnostic-testing-solve-ppv",
+  "formulaId": "sensitivity-specificity-and-diagnostic-testing-formula1",
+  "solveFor": "PPV",
+  "mistakes": [
+    {
+      "id": "ignored-prevalence",
+      "description": {
+        "en": "Used sensitivity alone as the answer, treating it as if it were the same thing as positive predictive value and ignoring prevalence entirely.",
+        "et": "Kasutas vastusena ainult tundlikkust, käsitledes seda nagu see oleks sama, mis positiivne ennustusväärtus, jättes levimuse täielikult arvestamata.",
+        "sourceHash": "0c450994cec4e1b2",
+        "stale": false
+      },
+      "expression": "Sn"
+    },
+    {
+      "id": "used-specificity-instead",
+      "description": {
+        "en": "Used specificity in place of sensitivity in the numerator, confusing the two distinct properties of the test.",
+        "et": "Kasutas lugejas tundlikkuse asemel spetsiifilisust, ajades segi testi kaks erinevat omadust.",
+        "sourceHash": "2e7513f3a896fbe6",
+        "stale": false
+      },
+      "expression": "(Sp*Prev)/(Sp*Prev+(1-Sn)*(1-Prev))"
+    },
+    {
+      "id": "omitted-false-positive-term",
+      "description": {
+        "en": "Divided sensitivity times prevalence by prevalence alone, omitting the false-positive contribution from the healthy majority entirely.",
+        "et": "Jagas tundlikkuse ja levimuse korrutise ainult levimusega, jättes valepositiivse panuse tervest enamusest täielikult välja.",
+        "sourceHash": "3c4afb868961d024",
+        "stale": false
+      },
+      "expression": "(Sn*Prev)/Prev"
+    }
+  ]
+}

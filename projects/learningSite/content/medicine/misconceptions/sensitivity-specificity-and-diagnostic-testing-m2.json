@@ -1,0 +1,10 @@
+{
+  "id": "sensitivity-specificity-and-diagnostic-testing-m2",
+  "conceptId": "sensitivity-specificity-and-diagnostic-testing",
+  "text": {
+    "en": "Sensitivity and specificity are properties of a disease, not of a specific test, so every test for the same disease has the same sensitivity and specificity -- in reality, sensitivity and specificity are properties of a specific test (and how it's used/interpreted), not of the disease itself; two different tests for the same disease can have very different sensitivity/specificity, and even the same test can perform differently in different populations or at different cutoff thresholds.",
+    "et": "Tundlikkus ja spetsiifilisus on haiguse, mitte konkreetse testi omadused, mistõttu on igal sama haiguse testil sama tundlikkus ja spetsiifilisus -- tegelikult on tundlikkus ja spetsiifilisus konkreetse testi (ja selle kasutamise/tõlgendamise) omadused, mitte haiguse enda omadused; kaks erinevat testi sama haiguse jaoks võivad omada väga erinevat tundlikkust/spetsiifilisust ning isegi sama test võib toimida erinevalt erinevates populatsioonides või erinevate lävendite juures.",
+    "sourceHash": "4d5aceb0fc3cffd0",
+    "stale": false
+  }
+}

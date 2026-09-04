@@ -1,0 +1,60 @@
+{
+  "id": "sensitivity-specificity-and-diagnostic-testing-solve-ppv",
+  "formulaId": "sensitivity-specificity-and-diagnostic-testing-formula1",
+  "variables": [
+    {
+      "symbol": "Sn",
+      "min": 0.85,
+      "max": 0.999,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "Sp",
+      "min": 0.85,
+      "max": 0.999,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "Prev",
+      "min": 0.0001,
+      "max": 0.05,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "Sn",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "Sn",
+      "right": 1
+    },
+    {
+      "op": "gt",
+      "left": "Sp",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "Sp",
+      "right": 1
+    },
+    {
+      "op": "gt",
+      "left": "Prev",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "Prev",
+      "right": 1
+    }
+  ],
+  "solveFor": "PPV"
+}

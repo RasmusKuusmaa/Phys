@@ -1,0 +1,19 @@
+{
+  "id": "sensitivity-specificity-and-diagnostic-testing",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "biostatistics-and-epidemiology",
+  "title": {
+    "en": "Sensitivity, specificity, and diagnostic testing",
+    "et": "Tundlikkus, spetsiifilisus ja diagnostiline testimine",
+    "sourceHash": "4e8d5d02bd184ca1",
+    "stale": false
+  },
+  "summary": {
+    "en": "No diagnostic test is perfect, and two numbers -- sensitivity and specificity -- describe its two distinct ways of failing. Sensitivity is the proportion of people who truly have the disease that the test correctly identifies as positive (true positives divided by all people who actually have the disease, true positives plus false negatives); a highly sensitive test rarely misses a real case, which makes it valuable for ruling a disease out when the result comes back negative. Specificity is the mirror-image proportion: how many people who truly do not have the disease the test correctly identifies as negative; a highly specific test rarely flags a healthy person as positive, making it valuable for ruling a disease in when the result comes back positive. Crucially, neither number alone tells a patient what a positive result actually means for them -- that requires combining sensitivity and specificity with the disease's prevalence in the population being tested, via Bayes' theorem, to get the positive predictive value: the probability that someone who tests positive actually has the disease. When a disease is rare, even a highly sensitive and specific test produces mostly false positives among everyone who tests positive, simply because the pool of true negatives being tested is so much larger than the pool of true positives that even a small false-positive rate among that huge healthy majority outnumbers the true positives from the tiny diseased minority -- a direct, high-stakes consequence of Bayes' theorem that a raw sensitivity/specificity number alone does not communicate.",
+    "et": "Ükski diagnostiline test ei ole täiuslik, ning kaks arvu -- tundlikkus ja spetsiifilisus -- kirjeldavad selle kahte erinevat ebaõnnestumisviisi. Tundlikkus on nende inimeste osakaal, kellel haigus tõepoolest on, keda test õigesti positiivseks tuvastab (tõelised positiivsed jagatuna kõigi inimestega, kellel haigus tegelikult on, tõelised positiivsed pluss valed negatiivsed); väga tundlik test jätab harva tegeliku juhtumi vahele, mis muudab selle väärtuslikuks haiguse välistamiseks, kui tulemus tuleb negatiivne. Spetsiifilisus on peegelpildis osakaal: kui paljusid inimesi, kellel haigust tõepoolest ei ole, tuvastab test õigesti negatiivseks; väga spetsiifiline test märgib harva tervet inimest positiivseks, muutes selle väärtuslikuks haiguse kinnitamiseks, kui tulemus tuleb positiivne. Otsustavalt ei ütle kumbki arv üksi patsiendile, mida positiivne tulemus tema jaoks tegelikult tähendab -- selleks on vaja kombineerida tundlikkus ja spetsiifilisus haiguse levimusega testitavas populatsioonis, Bayesi teoreemi kaudu, et saada positiivne ennustusväärtus: tõenäosus, et keegi, kes testib positiivselt, tõepoolest haigust põeb. Kui haigus on harv, toodab isegi väga tundlik ja spetsiifiline test enamasti valepositiivseid kõigi hulgas, kes testivad positiivselt, lihtsalt seetõttu, et testitavate tõeliselt tervete hulk on nii palju suurem kui tõeliselt haigete hulk, et isegi väike valepositiivsuse määr selle tohutu terve enamuse seas ületab arvuliselt tõelised positiivsed pisikesest haigest vähemusest -- otsene, kõrge panusega tagajärg Bayesi teoreemist, mida toores tundlikkuse/spetsiifilisuse arv üksi edasi ei anna.",
+    "sourceHash": "65d7e938da129620",
+    "stale": false
+  },
+  "prerequisites": []
+}

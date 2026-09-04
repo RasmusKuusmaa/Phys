@@ -1,0 +1,56 @@
+{
+  "id": "sensitivity-specificity-and-diagnostic-testing-item1",
+  "conceptId": "sensitivity-specificity-and-diagnostic-testing",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A rare disease has a true prevalence of 1 in 10,000 people. A test for it has 99% sensitivity and 99% specificity. Why can most people who test positive on this test still NOT have the disease, despite the test's high accuracy?",
+    "et": "Harval haigusel on tegelik levimus 1 juhtum 10 000 inimese kohta. Selle jaoks mõeldud testil on 99% tundlikkus ja 99% spetsiifilisus. Miks võib enamikul inimestel, kes selle testiga positiivselt testivad, siiski SEDA haigust MITTE olla, hoolimata testi kõrgest täpsusest?",
+    "sourceHash": "5adf3118f8a0b7ce",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the pool of healthy people being tested is so much larger than the pool of people with the rare disease that even the test's small 1% false-positive rate among that huge healthy majority produces more false positives in absolute numbers than the true positives found among the tiny diseased minority.",
+        "et": "Sest testitavate tervete inimeste hulk on nii palju suurem kui harva haigusega inimeste hulk, et isegi testi väike 1% valepositiivsuse määr selle tohutu terve enamuse seas toodab absoluutarvudes rohkem valepositiivseid kui tõelisi positiivseid, mis leitakse pisikesest haigest vähemusest.",
+        "sourceHash": "11bbd1f02371bed5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It can't — a 99% sensitive and 99% specific test guarantees that a positive result is 99% likely to be a true positive, regardless of how rare the disease is.",
+        "et": "See ei saa nii olla -- 99% tundlikkuse ja 99% spetsiifilisusega test tagab, et positiivne tulemus on 99% tõenäosusega tõeline positiivne, sõltumata sellest, kui harv haigus on.",
+        "sourceHash": "33aec4a845e352df",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sensitivity-specificity-and-diagnostic-testing-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because sensitivity and specificity are fixed properties of the disease itself, and this particular rare disease simply has an unusually high natural false-positive rate.",
+        "et": "Sest tundlikkus ja spetsiifilisus on haiguse enda fikseeritud omadused ning sellel konkreetsel harval haigusel on lihtsalt ebatavaliselt kõrge loomulik valepositiivsuse määr.",
+        "sourceHash": "3c229656c1786861",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sensitivity-specificity-and-diagnostic-testing-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the test's designers made an error by not minimizing the total number of false positives and false negatives equally, which any well-designed test should always do.",
+        "et": "Sest testi loojad tegid vea, jättes valepositiivsete ja valenegatiivsete koguarvu võrdselt minimeerimata, mida iga hästi disainitud test peaks alati tegema.",
+        "sourceHash": "ac6c4b3c9836b7cc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sensitivity-specificity-and-diagnostic-testing-m3"
+    }
+  ]
+}
