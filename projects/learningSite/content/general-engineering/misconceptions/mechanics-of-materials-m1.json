@@ -1,0 +1,10 @@
+{
+  "id": "mechanics-of-materials-m1",
+  "conceptId": "mechanics-of-materials",
+  "text": {
+    "en": "Believing a factor of safety less than 1 still leaves 'a bit of margin, just a smaller one' -- a factor of safety below 1 means the applied stress already exceeds the material's yield strength, i.e. the design is predicted to have already failed (begun yielding) under that load, not merely have a thin margin left.",
+    "et": "Arvamus, et varutegur alla 1 jätab siiski 'natuke varu, lihtsalt väiksema' -- varutegur alla 1 tähendab, et rakenduv pinge ületab juba materjali voolavuspiiri, see tähendab, et disain on ennustatavalt selle koormuse all juba rikkis (hakanud voolama), mitte lihtsalt jäänud õhukese varuga.",
+    "sourceHash": "e8568e5d15fe370d",
+    "stale": false
+  }
+}

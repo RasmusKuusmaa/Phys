@@ -1,0 +1,10 @@
+{
+  "id": "mechanics-of-materials-m3",
+  "conceptId": "mechanics-of-materials",
+  "text": {
+    "en": "Believing a larger factor of safety is essentially free -- costs nothing beyond the design calculation itself and only ever improves the design -- a larger factor of safety generally means more material, more mass, and more cost, so real designs target a factor of safety appropriate to the application's actual risk and uncertainty, not simply the largest number achievable.",
+    "et": "Arvamus, et suurem varutegur on sisuliselt tasuta -- ei maksa midagi peale projekteerimisarvutuse enda ja ainult parandab disaini -- suurem varutegur tähendab üldiselt rohkem materjali, suuremat massi ja kõrgemat hinda, seega reaalsed disainid sihivad rakenduse tegelikule riskile ja ebakindlusele vastavat varutegurit, mitte lihtsalt suurimat saavutatavat arvu.",
+    "sourceHash": "8ef7c74a2ed088ed",
+    "stale": false
+  }
+}

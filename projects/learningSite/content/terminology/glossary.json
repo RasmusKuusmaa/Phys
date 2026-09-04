@@ -1622,5 +1622,26 @@
     "et": "läbimõõt",
     "domain": "mathematics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/l%C3%A4bim%C3%B5%C3%B5t/1/est"
+  },
+  {
+    "id": "stress",
+    "en": "stress",
+    "et": "pinge",
+    "domain": "mechanics-of-materials",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/pinge/1/est"
+  },
+  {
+    "id": "yield-strength",
+    "en": "yield strength",
+    "et": "voolavuspiir",
+    "domain": "mechanics-of-materials",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/voolavuspiir/1/est"
+  },
+  {
+    "id": "factor-of-safety",
+    "en": "factor of safety",
+    "et": "varutegur",
+    "domain": "mechanics-of-materials",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/varutegur/1/est"
   }
 ]

@@ -1,0 +1,56 @@
+{
+  "id": "mechanics-of-materials-item1",
+  "conceptId": "mechanics-of-materials",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What does a factor of safety of exactly 1 mean for a design, and is targeting the largest achievable factor of safety always the correct engineering choice?",
+    "et": "Mida tähendab disaini jaoks täpselt 1-le võrduv varutegur ning kas suurima saavutatava varuteguri sihtimine on alati õige inseneriotsus?",
+    "sourceHash": "699b0c53401e1c95",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A factor of safety of 1 means the applied stress equals the material's yield strength, so the design is predicted to just begin yielding under that load with zero margin; and no, maximizing it isn't free, since a higher factor of safety typically costs more material, mass, and cost, so real designs target a factor of safety appropriate to the application's risk and uncertainty rather than the largest achievable number.",
+        "et": "Varutegur 1 tähendab, et rakenduv pinge võrdub materjali voolavuspiiriga, mistõttu disain hakkab ennustatavalt selle koormuse all just voolama, ilma igasuguse varuta; ning ei, selle maksimeerimine ei ole tasuta, kuna kõrgem varutegur tähendab tavaliselt rohkem materjali, suuremat massi ja kõrgemat hinda, seega reaalsed disainid sihivad rakenduse riskile ja ebakindlusele vastavat varutegurit, mitte suurimat saavutatavat arvu.",
+        "sourceHash": "7854144aaf3cb305",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A factor of safety of 1 still leaves a small safety margin, since actual failure only occurs once it drops well below 1.",
+        "et": "Varutegur 1 jätab ikkagi väikese ohutusvaru, kuna tegelik rike toimub alles siis, kui see langeb tunduvalt alla 1.",
+        "sourceHash": "3fe60ff57ebe9ac6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mechanics-of-materials-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A factor of safety of 1 means the material has already fractured, since reaching the yield strength is the same as breaking.",
+        "et": "Varutegur 1 tähendab, et materjal on juba purunenud, kuna voolavuspiirini jõudmine on sama, mis katkemine.",
+        "sourceHash": "f1fb61236cefedcd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mechanics-of-materials-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Yes, since a larger factor of safety costs nothing beyond the initial design calculation and can only improve the design.",
+        "et": "Jah, kuna suurem varutegur ei maksa midagi peale esialgse projekteerimisarvutuse ja saab disaini ainult parandada.",
+        "sourceHash": "22e2f435d03d63c5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mechanics-of-materials-m3"
+    }
+  ]
+}

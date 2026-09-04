@@ -1,0 +1,21 @@
+{
+  "id": "mechanics-of-materials",
+  "subject": "general-engineering",
+  "level": "L2",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Mechanics of materials",
+    "et": "Materjalide mehaanika",
+    "sourceHash": "38c7aa59d82bd1c8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Mechanics of materials extends statics from whether a structure holds still at all to whether it survives the loads it holds: applying a force to a real (deformable, not rigid) body produces an internal stress, force distributed over the cross-sectional area it acts through, and a strain, the fractional deformation that stress produces, related to each other in the elastic region by Hooke's law through the material's stiffness (its elastic, or Young's, modulus); a beam in bending develops a characteristic stress distribution across its cross-section -- tension on one face, compression on the other, and, crucially, exactly zero stress along a neutral axis through the middle -- and comparing the resulting peak stress to the material's yield strength through a factor of safety, the ratio between what the material can withstand and what it is actually asked to withstand, is how an engineer decides whether a design survives its intended loads with an appropriate margin rather than merely 'looking strong enough'.",
+    "et": "Materjalide mehaanika laiendab statikat küsimusest, kas konstruktsioon üldse paigal püsib, küsimuseni, kas see peab vastu koormustele, mida ta kannab: jõu rakendamine päris (deformeeruvale, mitte jäigale) kehale tekitab sisemise pinge, jõu jaotumise ristlõikepindala kohta, millele see mõjub, ning deformatsiooni, suhtelise kuju muutuse, mida see pinge tekitab, mis on elastses piirkonnas omavahel seotud Hooke'i seaduse kaudu materjali jäikuse (elastsus- ehk Youngi mooduli) kaudu; painutatav tala tekitab oma ristlõikes iseloomuliku pingejaotuse -- tõmme ühel küljel, surve teisel ning, mis kõige olulisem, täpselt null pinge neutraalteljel keskel -- ning tekkiva tippe pinge võrdlemine materjali voolavuspiiriga varuteguri kaudu, suhtega selle vahel, mida materjal suudab taluda, ja selle vahel, mida temalt tegelikult nõutakse, ongi viis, kuidas insener otsustab, kas projekt peab vastu ettenähtud koormustele sobiva varuga, mitte lihtsalt 'näeb piisavalt tugev välja'.",
+    "sourceHash": "0633fc2ac8b318a1",
+    "stale": false
+  },
+  "prerequisites": [
+    "statics-and-equilibrium-of-structures"
+  ]
+}

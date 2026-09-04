@@ -1,0 +1,47 @@
+{
+  "id": "factor-of-safety-formula",
+  "conceptId": "mechanics-of-materials",
+  "latex": "FS = \\frac{\\sigma_y}{\\sigma}",
+  "symbols": [
+    {
+      "symbol": "FS",
+      "name": {
+        "en": "factor of safety",
+        "et": "varutegur",
+        "sourceHash": "07eb1dacd1072b3e",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "sigma_y",
+      "name": {
+        "en": "yield strength",
+        "et": "voolavuspiir",
+        "sourceHash": "c05d7ce76d6fc087",
+        "stale": false
+      },
+      "unit": "Pa"
+    },
+    {
+      "symbol": "sigma",
+      "name": {
+        "en": "stress",
+        "et": "pinge",
+        "sourceHash": "f43dc8790ed62156",
+        "stale": false
+      },
+      "unit": "Pa"
+    }
+  ],
+  "solveFor": [
+    "FS",
+    "sigma",
+    "sigma_y"
+  ],
+  "expressions": {
+    "FS": "sigma_y/sigma",
+    "sigma": "sigma_y/FS",
+    "sigma_y": "FS*sigma"
+  }
+}

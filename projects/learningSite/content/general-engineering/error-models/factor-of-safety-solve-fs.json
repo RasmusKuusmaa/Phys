@@ -1,0 +1,37 @@
+{
+  "id": "factor-of-safety-solve-fs",
+  "formulaId": "factor-of-safety-formula",
+  "solveFor": "FS",
+  "mistakes": [
+    {
+      "id": "inverted-the-ratio",
+      "description": {
+        "en": "Inverted the ratio, computing applied stress divided by yield strength instead of the other way round.",
+        "et": "Pööras suhte ümber, arvutades rakenduva pinge jagatuna voolavuspiiriga, selle asemel et teha vastupidi.",
+        "sourceHash": "63c542868d2933d3",
+        "stale": false
+      },
+      "expression": "sigma/sigma_y"
+    },
+    {
+      "id": "subtracted-instead-of-divided",
+      "description": {
+        "en": "Subtracted the applied stress from the yield strength instead of dividing one by the other.",
+        "et": "Lahutas rakenduva pinge voolavuspiirist, selle asemel et üht teisega jagada.",
+        "sourceHash": "d934fe4a704ad297",
+        "stale": false
+      },
+      "expression": "sigma_y-sigma"
+    },
+    {
+      "id": "used-applied-stress-alone",
+      "description": {
+        "en": "Used the applied stress alone as if it were already the factor of safety, ignoring the material's yield strength entirely.",
+        "et": "Kasutas rakenduvat pinget üksi, nagu see oleks juba varutegur, jättes materjali voolavuspiiri täielikult arvestamata.",
+        "sourceHash": "38fcd05a54671773",
+        "stale": false
+      },
+      "expression": "sigma"
+    }
+  ]
+}

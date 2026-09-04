@@ -1,0 +1,38 @@
+{
+  "id": "factor-of-safety-solve-fs",
+  "formulaId": "factor-of-safety-formula",
+  "variables": [
+    {
+      "symbol": "sigma_y",
+      "min": 200000000,
+      "max": 500000000,
+      "unit": "Pa",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "sigma",
+      "min": 20000000,
+      "max": 150000000,
+      "unit": "Pa",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "sigma_y",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "sigma",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "sigma",
+      "right": "sigma_y"
+    }
+  ],
+  "solveFor": "FS"
+}

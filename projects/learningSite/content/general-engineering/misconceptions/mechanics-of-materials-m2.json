@@ -1,0 +1,10 @@
+{
+  "id": "mechanics-of-materials-m2",
+  "conceptId": "mechanics-of-materials",
+  "text": {
+    "en": "Believing that reaching a material's yield strength means the part immediately fractures or breaks -- yielding marks the onset of permanent (plastic) deformation, not fracture; a ductile material keeps carrying increasing load well beyond yield, only fracturing later at a higher stress (the ultimate tensile strength), so 'yielded' and 'broken' are genuinely different states.",
+    "et": "Arvamus, et materjali voolavuspiirini jõudmine tähendab kohest purunemist või katkemist -- voolavus tähistab püsiva (plastse) deformatsiooni algust, mitte purunemist; venitatav (duktiilne) materjal kannab kasvavat koormust ka pärast voolavuspiiri edasi ning puruneb alles hiljem, kõrgema pinge juures (tõmbetugevusel), seega 'voolav' ja 'purunenud' on tõeliselt erinevad olekud.",
+    "sourceHash": "7dee4ccbed26f594",
+    "stale": false
+  }
+}
