@@ -1,0 +1,19 @@
+{
+  "id": "hormesis-and-stress-adaptation",
+  "subject": "biohacking",
+  "level": "L2",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Hormesis and stress adaptation",
+    "et": "Hormees ja stressiga kohanemine",
+    "sourceHash": "ec11d5b4de780013",
+    "stale": false
+  },
+  "summary": {
+    "en": "Hormesis is the biological pattern where a low dose of a stressor that would be harmful at a high dose instead triggers a net-beneficial adaptive response, and it is the real mechanism behind several genuinely evidence-supported biohacking practices: brief cold exposure, sauna/heat exposure, and short fasting periods all impose a mild, controlled physiological stress that the body responds to by upregulating its own repair and stress-resistance machinery (heat-shock proteins after heat exposure, for instance), leaving the organism modestly more resilient than before, not merely undamaged. The critical, easy-to-miss feature of any hormetic response is the dose-response curve's shape: it is not monotonic, and the same stressor that helps at a brief, mild dose becomes straightforwardly harmful at a larger or more prolonged one -- cold exposure that helps at a few controlled minutes becomes hypothermia risk well before providing any additional benefit, and fasting that may offer metabolic benefits over 16-24 hours becomes malnutrition risk if extended indefinitely on the reasoning that if a little is good, more must be better. This is exactly the failure mode hormesis as a concept warns against: calling something 'hormetic' is not a magic phrase that makes unlimited amounts of any stressor beneficial, and popular biohacking content that treats it that way is misapplying the mechanism it's citing.",
+    "et": "Hormees on bioloogiline muster, kus madal doos stressorist, mis oleks kõrges doosis kahjulik, käivitab selle asemel netopositiivse kohanemisvastuse, ning see on tegelik mehhanism mitmete tõesti tõenduspõhiste biohäkkimise praktikate taga: lühike külmakokkupuude, sauna/kuumakokkupuude ja lühikesed paastuperioodid kõik kehtestavad kerge, kontrollitud füsioloogilise stressi, millele keha reageerib oma remondi- ja stressitaluvusmehhanismide üleregulatsiooniga (näiteks kuumašoki valgud pärast kuumakokkupuudet), jättes organismi mõõdukalt vastupidavamaks kui varem, mitte lihtsalt kahjustamata. Iga hormeetilise vastuse kriitiline, kergesti märkamatuks jääv omadus on doos-vastus kõvera kuju: see ei ole monotoonne, ning sama stressor, mis lühikeses, kerges doosis aitab, muutub suuremas või pikemas doosis otsekoheselt kahjulikuks -- külmakokkupuude, mis aitab mõne kontrollitud minuti jooksul, muutub alajahtumise riskiks kaugelt enne mistahes täiendava kasu andmist, ning paastumine, mis võib pakkuda ainevahetuslikke kasusid 16-24 tunni jooksul, muutub alatoitumuse riskiks, kui seda pikendada lõputult arutluskäigu järgi, et kui natuke on hea, peab rohkem olema parem. See ongi täpselt see rikkerežiim, mille eest hormees kui mõiste hoiatab: millegi nimetamine 'hormeetiliseks' ei ole võlusõna, mis muudab piiramatu koguse mistahes stressorit kasulikuks, ning populaarne biohäkkimise sisu, mis seda nii käsitleb, rakendab valesti mehhanismi, millele see viitab.",
+    "sourceHash": "75f7ee50e5ab039f",
+    "stale": false
+  },
+  "prerequisites": []
+}

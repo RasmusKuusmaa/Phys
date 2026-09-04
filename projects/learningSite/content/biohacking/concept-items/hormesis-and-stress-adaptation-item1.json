@@ -1,0 +1,56 @@
+{
+  "id": "hormesis-and-stress-adaptation-item1",
+  "conceptId": "hormesis-and-stress-adaptation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Someone reads that brief cold-water exposure produces beneficial hormetic adaptation, and concludes that staying in cold water for much longer will produce proportionally more benefit. What's wrong with this reasoning?",
+    "et": "Keegi loeb, et lühike külma vee kokkupuude tekitab kasulikku hormeetilist kohanemist, ning järeldab, et palju kauem külmas vees püsimine annab proportsionaalselt rohkem kasu. Mis on selle arutluskäiguga valesti?",
+    "sourceHash": "65648b572dad08c2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Hormetic dose-response curves are not monotonic -- the same stressor that helps in a brief, controlled dose becomes straightforwardly harmful (here, hypothermia risk) well past a certain point, rather than scaling benefit indefinitely with exposure.",
+        "et": "Hormeetilised doos-vastus kõverad ei ole monotoonsed -- sama stressor, mis aitab lühikeses, kontrollitud doosis, muutub teatud punktist otsekoheselt kahjulikuks (siin, alajahtumise risk), mitte ei suurenda kasu lõputult koos kokkupuutega.",
+        "sourceHash": "602f5e6d9ce161fe",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing is wrong with it -- since the mechanism is hormetic, longer exposure to the same stressor reliably produces a correspondingly larger beneficial adaptation.",
+        "et": "Selles ei ole midagi valesti -- kuna mehhanism on hormeetiline, annab pikem kokkupuude sama stressoriga usaldusväärselt vastavalt suurema kasuliku kohanemise.",
+        "sourceHash": "ef493e0755559322",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hormesis-and-stress-adaptation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The reasoning is wrong only because cold exposure isn't really hormetic in the first place -- any claimed benefit from cold exposure, brief or long, is unsupported by evidence.",
+        "et": "Arutluskäik on vale ainult sellepärast, et külmakokkupuude ei ole tegelikult hormeetiline -- mistahes väidetav kasu külmakokkupuutest, lühike või pikk, ei ole tõenditega toetatud.",
+        "sourceHash": "60a43e8e4e00318a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hormesis-and-stress-adaptation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The reasoning is fine as long as it's combined with another hormetic practice like sauna use, since combining hormetic stressors always compounds their individual benefits.",
+        "et": "Arutluskäik on korras, kui see kombineerida teise hormeetilise praktikaga nagu sauna kasutamine, kuna hormeetiliste stressorite kombineerimine suurendab alati nende individuaalseid kasusid.",
+        "sourceHash": "16b0bbf09f954099",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hormesis-and-stress-adaptation-m3"
+    }
+  ]
+}

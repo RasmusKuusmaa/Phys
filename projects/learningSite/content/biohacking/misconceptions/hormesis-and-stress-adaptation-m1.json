@@ -1,0 +1,10 @@
+{
+  "id": "hormesis-and-stress-adaptation-m1",
+  "conceptId": "hormesis-and-stress-adaptation",
+  "text": {
+    "en": "If a mild dose of a stressor like cold exposure or fasting is beneficial, then more exposure or a longer fast must be even more beneficial -- in reality, hormetic dose-response curves are not monotonic: the same stressor that helps at a brief, controlled dose becomes straightforwardly harmful past a certain point, and 'more is better' is exactly the reasoning error that turns a genuinely evidence-supported mild practice into a dangerous one.",
+    "et": "Kui kerge doos stressorist nagu külmakokkupuude või paastumine on kasulik, siis pikem kokkupuude või pikem paastumine peab olema veel kasulikum -- tegelikult ei ole hormeetilised doos-vastus kõverad monotoonsed: sama stressor, mis lühikeses, kontrollitud doosis aitab, muutub teatud punktist otsekoheselt kahjulikuks, ning 'rohkem on parem' ongi täpselt see arutlusviga, mis muudab tõeliselt tõenduspõhise kerge praktika ohtlikuks.",
+    "sourceHash": "096e2b2e51cfd396",
+    "stale": false
+  }
+}
