@@ -1,0 +1,56 @@
+{
+  "id": "materials-selection-and-design-item1",
+  "conceptId": "materials-selection-and-design",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A titanium alloy is the correct material choice for a lightweight, high-strength aerospace bracket. A colleague proposes using the same alloy for a cheap, corrosion-resistant household plumbing fitting because 'it's already proven to be a good material.' What is the flaw in this reasoning?",
+    "et": "Titaanisulam on õige materjalivalik kerge, kõrge tugevusega lennundusdetaili kinnituse jaoks. Kolleeg pakub sama sulami kasutamist odava, korrosioonikindla kodumajapidamise torustikuliitmiku jaoks, sest 'see on juba tõestatud heaks materjaliks.' Mis on selle põhjenduse viga?",
+    "sourceHash": "d771e13304dc89a8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The two applications weight properties (cost, weight, strength) completely differently, so a material excellent under one requirement profile carries no guarantee of being even adequate under a different one.",
+        "et": "Need kaks rakendust kaaluvad omadusi (hind, mass, tugevus) täiesti erinevalt, seega ei taga materjal, mis on suurepärane ühe nõuete profiili all, isegi piisava olemist erineva profiili all.",
+        "sourceHash": "13be34e4b0cf015b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Titanium is objectively the best material available, so it is always at least an acceptable choice for any application regardless of requirements.",
+        "et": "Titaan on objektiivselt parim saadaolev materjal, seega on see alati vähemalt vastuvõetav valik igas rakenduses, olenemata nõuetest.",
+        "sourceHash": "124d3928d55a03d6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "materials-selection-and-design-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Since the alloy is already established as good, it should be reused across applications without redoing the tradeoff analysis for cost and requirements.",
+        "et": "Kuna sulam on juba tuvastatud heana, tuleks seda kasutada rakenduste lõikes ilma hinna ja nõuete tasakaalustamisanalüüsi uuesti tegemata.",
+        "sourceHash": "6868cdf81ec7caca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "materials-selection-and-design-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Ashby-chart-style property comparisons across material classes are purely illustrative and have no bearing on this real decision.",
+        "et": "Ashby diagrammi-stiilis omaduste võrdlused materjaliklasside lõikes on puhtalt illustratiivsed ja ei mõjuta seda reaalset otsust.",
+        "sourceHash": "a437824b3231dd53",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "materials-selection-and-design-m3"
+    }
+  ]
+}

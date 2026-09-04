@@ -1,0 +1,10 @@
+{
+  "id": "materials-selection-and-design-m1",
+  "conceptId": "materials-selection-and-design",
+  "text": {
+    "en": "Believing there exists one single objectively best material overall, so that materials selection is a search for that one universally superior material rather than a tradeoff process -- no material simultaneously maximizes every desirable property (strength, weight, cost, corrosion resistance, and more) at once, so the correct choice always depends on which specific combination of requirements a given application imposes, and a material ideal for one application can be an entirely wrong choice for another with a different requirement profile.",
+    "et": "Arvamus, et on olemas üks ainus objektiivselt parim materjal üldiselt, nii et materjalivalik on otsing selle ühe universaalselt parema materjali järele, mitte tasakaalustamisprotsess -- ükski materjal ei maksimeeri samaaegselt iga soovitud omadust (tugevus, mass, hind, korrosioonikindlus ja rohkem) korraga, seega sõltub õige valik alati sellest, millist konkreetset nõuete kombinatsiooni antud rakendus seab, ning materjal, mis on ideaalne ühe rakenduse jaoks, võib olla täiesti vale valik teise jaoks erineva nõuete profiiliga.",
+    "sourceHash": "01fa56a571cd604b",
+    "stale": false
+  }
+}

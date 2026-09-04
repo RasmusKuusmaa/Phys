@@ -1,0 +1,10 @@
+{
+  "id": "materials-selection-and-design-m3",
+  "conceptId": "materials-selection-and-design",
+  "text": {
+    "en": "Believing tools like Ashby charts (plotting one material property against another across material classes) are merely illustrative teaching aids with no real bearing on actual engineering decisions -- these charts are a working engineering tool precisely because they reveal, for real material classes, which combinations of properties are jointly achievable and which regions of the property space are simply empty, letting an engineer see at a glance which class of material (or specific material within a class) is even a candidate for a given combined requirement before doing any more detailed analysis.",
+    "et": "Arvamus, et tööriistad nagu Ashby diagrammid (mis kannavad üht materjaliomadust teise vastu materjaliklasside lõikes) on lihtsalt illustratiivsed õppevahendid, millel ei ole tegelikku mõju päris inseneriteaduslikele otsustele -- need diagrammid on töötav inseneriteaduslik tööriist täpselt seetõttu, et nad paljastavad, reaalsete materjaliklasside jaoks, millised omaduste kombinatsioonid on ühiselt saavutatavad ja millised omaduste ruumi piirkonnad on lihtsalt tühjad, lastes inseneril näha pilgu heitmisega, milline materjaliklass (või konkreetne materjal klassis) on üldse kandidaat antud kombineeritud nõude jaoks, enne mistahes üksikasjalikuma analüüsi tegemist.",
+    "sourceHash": "0074bc62d316fea5",
+    "stale": false
+  }
+}

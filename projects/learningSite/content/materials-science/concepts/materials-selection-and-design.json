@@ -1,0 +1,22 @@
+{
+  "id": "materials-selection-and-design",
+  "subject": "materials-science",
+  "level": "L2",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Materials selection and design",
+    "et": "Materjalivalik ja disain",
+    "sourceHash": "2181c270eed495dd",
+    "stale": false
+  },
+  "summary": {
+    "en": "Selecting a material for an engineering application is not a search for the single objectively best material in existence, since no material simultaneously maximizes every property (strength, stiffness, weight, cost, corrosion resistance, and more) at once; it is instead a structured tradeoff process -- formalized in tools like Ashby charts, which plot one property against another across whole classes of materials (metals, ceramics, polymers, composites) to reveal which combinations are achievable and which are not -- that starts from the specific combination of performance requirements and constraints a given application actually imposes, and searches only within that constrained space for the best available compromise; a material that is the correct choice for a lightweight aerospace component under one set of requirements can be entirely wrong for a cheap, corrosion-resistant plumbing fitting under a completely different set of requirements, not because one material is objectively superior to the other but because the two applications weight the same underlying properties differently.",
+    "et": "Materjali valimine inseneriteaduslikuks rakenduseks ei ole otsing ühe objektiivselt parima olemasoleva materjali järele, kuna ükski materjal ei maksimeeri samaaegselt iga omadust (tugevus, jäikus, mass, hind, korrosioonikindlus ja rohkem) korraga; see on selle asemel struktureeritud tasakaalustamisprotsess -- formaliseeritud tööriistades nagu Ashby diagrammid, mis kannavad üht omadust teise vastu tervete materjaliklasside (metallid, keraamika, polümeerid, komposiidid) lõikes, et paljastada, millised kombinatsioonid on saavutatavad ja millised mitte -- mis algab konkreetsest jõudlusnõuete ja piirangute kombinatsioonist, mida antud rakendus tegelikult seab, ja otsib ainult selles piiratud ruumis parimat saadaolevat kompromissi; materjal, mis on õige valik kerge lennundusdetaili jaoks ühe nõuete kogumi all, võib olla täiesti vale odava, korrosioonikindla torustikuliitmiku jaoks täiesti erineva nõuete kogumi all, mitte seetõttu, et üks materjal on teisest objektiivselt parem, vaid seetõttu, et need kaks rakendust kaaluvad samu aluseks olevaid omadusi erinevalt.",
+    "sourceHash": "0a5e9aecfed23beb",
+    "stale": false
+  },
+  "prerequisites": [
+    "electronic-magnetic-and-optical-properties-of-materials",
+    "corrosion-and-material-degradation"
+  ]
+}

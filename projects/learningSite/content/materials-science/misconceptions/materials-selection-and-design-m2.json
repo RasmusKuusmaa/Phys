@@ -1,0 +1,10 @@
+{
+  "id": "materials-selection-and-design-m2",
+  "conceptId": "materials-selection-and-design",
+  "text": {
+    "en": "Believing that a material chosen correctly for one application (for example, a lightweight, high-strength alloy for an aerospace component) must also be a good or even acceptable choice for a very different application (for example, a cheap, corrosion-resistant plumbing fitting), since it was already established as a 'good material' -- the two applications weight the same underlying properties completely differently, so being an excellent choice under one requirement profile carries no guarantee of being even an adequate choice under a different one; materials selection must restart the tradeoff analysis for each new application's specific requirements rather than reusing a prior application's answer.",
+    "et": "Arvamus, et materjal, mis on õigesti valitud ühe rakenduse jaoks (näiteks kerge, kõrge tugevusega sulam lennundusdetaili jaoks), peab olema hea või isegi vastuvõetav valik ka väga erineva rakenduse jaoks (näiteks odav, korrosioonikindel torustikuliitmik), kuna see on juba tuvastatud kui 'hea materjal' -- need kaks rakendust kaaluvad samu aluseks olevaid omadusi täiesti erinevalt, seega ei taga suurepärane valik olemine ühe nõuete profiili all isegi piisava valiku olemist teise all; materjalivalik peab alustama tasakaalustamisanalüüsi uuesti iga uue rakenduse konkreetsete nõuete jaoks, selle asemel et taaskasutada eelmise rakenduse vastust.",
+    "sourceHash": "42133bd602ec37a4",
+    "stale": false
+  }
+}
