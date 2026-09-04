@@ -1,0 +1,21 @@
+{
+  "id": "wound-healing-and-tissue-repair",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "general-pathology",
+  "title": {
+    "en": "Wound healing and tissue repair",
+    "et": "Haavaparanemine ja koe taastumine",
+    "sourceHash": "89b87e111da02f19",
+    "stale": false
+  },
+  "summary": {
+    "en": "After tissue injury, the body follows one of two broad repair strategies depending on whether the damaged tissue is made of cells capable of dividing: regeneration replaces the lost cells with new, identical, fully functional cells of the same type (as the liver famously does after partial removal, and as skin's surface layer does after a shallow scrape), fully restoring normal structure and function, while fibrosis (scarring) replaces the lost tissue with dense collagen-rich connective tissue when the original cell type cannot regenerate fast enough or at all (as in a large skin wound or after a heart attack, since mature heart muscle cells essentially cannot divide) -- a scar that restores structural integrity but not the original tissue's specialized function. Even regeneration-capable healing typically proceeds through a shared sequence of overlapping phases: hemostasis (within minutes, platelets and clotting factors seal the wound and stop bleeding), inflammation (the vascular and cellular response covered in inflammation's own concept, clearing debris and pathogens over the following days), proliferation (over roughly the next one to three weeks, new blood vessels grow into the wound, fibroblasts lay down new collagen, and, in skin, new epithelium migrates across the wound surface), and remodeling (over months, the initially disorganized collagen is reorganized and cross-linked into a stronger, more mature scar, though a scar's tensile strength typically plateaus well below that of the original uninjured tissue). Several well-known factors can derail this sequence: poor blood supply, infection, foreign material left in the wound, and systemic conditions like diabetes (which impairs both circulation and immune cell function) can each stall healing in the inflammatory phase indefinitely, producing a chronic, non-healing wound rather than progressing through proliferation and remodeling on schedule.",
+    "et": "Pärast koekahjustust järgib keha üht kahest laiast parandusstrateegiast, sõltuvalt sellest, kas kahjustatud kude koosneb jagunemisvõimelistest rakkudest: regeneratsioon asendab kadunud rakud uute, identsete, täielikult funktsionaalsete sama tüüpi rakkudega (nagu maks kuulsalt teeb pärast osalist eemaldamist, ja nagu naha pinnakiht teeb pärast pealiskaudset kriimustust), taastades täielikult normaalse struktuuri ja talitluse, samas kui fibroos (armistumine) asendab kadunud koe tiheda kollageenirikka sidekoega, kui algne rakutüüp ei suuda piisavalt kiiresti või üldse regenereeruda (nagu suures nahahaavas või pärast südameinfarkti, kuna küpsed südamelihasrakud praktiliselt ei suuda jaguneda) -- arm, mis taastab struktuurse terviklikkuse, kuid mitte algse koe spetsialiseeritud talitlust. Isegi regeneratsioonivõimeline paranemine kulgeb tüüpiliselt läbi ühise kattuvate faaside jada: hemostaas (minutite jooksul sulgevad trombotsüüdid ja hüübimisfaktorid haava ning peatavad verejooksu), põletik (vaskulaarne ja rakuline reaktsioon, mida käsitleb põletiku enda mõiste, kõrvaldades järgnevate päevade jooksul jäänused ja patogeenid), proliferatsioon (umbes järgneva ühe kuni kolme nädala jooksul kasvavad haavasse uued veresooned, fibroblastid ladestavad uut kollageeni ning nahas rändab uus epiteel üle haavapinna), ning ümberkujundamine (kuude jooksul korrastatakse ja ristsidestatakse esialgu korrastamata kollageen tugevamaks, küpsemaks armiks, kuigi armi tõmbetugevus tavaliselt platoodub tunduvalt allpool algse vigastamata koe oma). Mitu tuntud tegurit võivad selle jada rööpast välja viia: halb verevarustus, infektsioon, haavasse jäänud võõrmaterjal ning süsteemsed seisundid nagu diabeet (mis kahjustab nii vereringet kui immuunrakkude talitlust) võivad igaüks põletikufaasis paranemise määramata ajaks peatada, tekitades kroonilise, mitteparaneva haava, selle asemel et graafikujärgselt edeneda proliferatsiooni ja ümberkujundamiseni.",
+    "sourceHash": "f33148ca5def45e3",
+    "stale": false
+  },
+  "prerequisites": [
+    "acute-and-chronic-inflammation"
+  ]
+}

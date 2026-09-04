@@ -1,0 +1,56 @@
+{
+  "id": "wound-healing-and-tissue-repair-item1",
+  "conceptId": "wound-healing-and-tissue-repair",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient's heart attack destroys a region of heart muscle. Months later, why does that region remain unable to contract, even though the wound has fully 'healed' by pathology's definition?",
+    "et": "Patsiendi südameinfarkt hävitab piirkonna südamelihast. Kuude pärast, miks jääb see piirkond kontraheerumisvõimetuks, isegi kui haav on patoloogia definitsiooni järgi täielikult 'paranenud'?",
+    "sourceHash": "1bde2858fc72d9cf",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because mature heart muscle cells essentially cannot divide, so the region healed by fibrosis (a structural collagen scar) rather than true regeneration of functional, contractile heart muscle cells.",
+        "et": "Sest küpsed südamelihasrakud praktiliselt ei suuda jaguneda, seega paranes piirkond fibroosi (struktuurse kollageenarmi) kaudu, mitte funktsionaalsete, kontraheeruvate südamelihasrakkude tõelise regeneratsiooni kaudu.",
+        "sourceHash": "aa277d2c4d1f6539",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The scar tissue simply hasn't had enough time yet to convert back into normal contractile heart muscle -- given more time, it eventually will.",
+        "et": "Armkoel ei ole lihtsalt veel piisavalt aega olnud, et muutuda tagasi normaalseks kontraheeruvaks südamelihaseks -- rohkema aja jooksul see lõpuks muutub.",
+        "sourceHash": "ab220601f7ba1663",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wound-healing-and-tissue-repair-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This is unusual — most tissue injuries, including this one, are expected to fully regenerate their original cell type given a normal healing process.",
+        "et": "See on ebatavaline — enamiku koekahjustuste, sealhulgas selle puhul, oodatakse normaalse paranemisprotsessi korral algse rakutüübi täielikku regeneratsiooni.",
+        "sourceHash": "050e3c48a1c429e0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wound-healing-and-tissue-repair-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The wound must not have actually healed yet, since a properly healed wound always regains the full original function of the tissue it replaced.",
+        "et": "Haav ei saa olla tegelikult veel paranenud, kuna korralikult paranenud haav taastab alati täielikult selle koe algse funktsiooni, mida see asendas.",
+        "sourceHash": "df83cc5b509db1fc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "wound-healing-and-tissue-repair-m3"
+    }
+  ]
+}

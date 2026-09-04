@@ -1,0 +1,10 @@
+{
+  "id": "wound-healing-and-tissue-repair-m2",
+  "conceptId": "wound-healing-and-tissue-repair",
+  "text": {
+    "en": "All tissue injuries heal the same way, following the same repair strategy regardless of what got damaged -- in reality, the repair strategy actually used depends on whether the damaged cell type can regenerate -- tissues with actively dividing cells (like liver or skin) can fully regenerate, while tissues with cells that essentially cannot divide (like mature heart muscle or neurons) can only heal by fibrosis/scarring, never true regeneration of the original functional cell type.",
+    "et": "Kõik koekahjustused paranevad samamoodi, järgides sama parandusstrateegiat, olenemata sellest, mis kahjustada sai -- tegelikult sõltub tegelikult kasutatav parandusstrateegia sellest, kas kahjustatud rakutüüp suudab regenereeruda -- kuded aktiivselt jagunevate rakkudega (nagu maks või nahk) suudavad täielikult regenereeruda, samas kui kuded rakkudega, mis praktiliselt ei suuda jaguneda (nagu küps südamelihas või neuronid), suudavad paraneda ainult fibroosi/armistumise kaudu, mitte kunagi algse funktsionaalse rakutüübi tõelise regeneratsiooni kaudu.",
+    "sourceHash": "2b04789fa3ef3604",
+    "stale": false
+  }
+}
