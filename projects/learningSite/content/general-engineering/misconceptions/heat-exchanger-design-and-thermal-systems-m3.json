@@ -1,0 +1,10 @@
+{
+  "id": "heat-exchanger-design-and-thermal-systems-m3",
+  "conceptId": "heat-exchanger-design-and-thermal-systems",
+  "text": {
+    "en": "Believing a fin adds heat-transfer area 'for free,' so doubling a surface's exposed area with fins always roughly doubles the heat transferred from it -- a fin's own temperature drops along its length as heat conducts outward through it, so the tip of a long or poorly-conducting fin sits closer to the surrounding fluid's temperature than its base does, contributing far less than its share of bare surface area would suggest; fin effectiveness is always less than the naive area ratio, never equal to it.",
+    "et": "Arvamus, et ribi lisab soojusülekandepinda 'tasuta', seega pinna eksponeeritud pindala kahekordistamine ribidega kahekordistab ligikaudu ka sellelt ülekantava soojushulga -- ribi enda temperatuur langeb piki selle pikkust, kuna soojus juhtub sellest väljapoole, seega pika või halvasti juhtiva ribi ots on ümbritseva vedeliku temperatuurile lähemal kui selle alus, andes palju vähem panust, kui selle paljast pindala osakaal võiks eeldada; ribi tõhusus on alati väiksem kui naiivne pindalade suhe, mitte kunagi sellega võrdne.",
+    "sourceHash": "f53060ec59a9e63c",
+    "stale": false
+  }
+}

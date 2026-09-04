@@ -1,0 +1,43 @@
+{
+  "id": "lmtd-formula",
+  "conceptId": "heat-exchanger-design-and-thermal-systems",
+  "latex": "\\Delta T_{lm} = \\frac{\\Delta T_1 - \\Delta T_2}{\\ln(\\Delta T_1 / \\Delta T_2)}",
+  "symbols": [
+    {
+      "symbol": "dTlm",
+      "name": {
+        "en": "log-mean temperature difference",
+        "et": "logaritmiline keskmine temperatuurierinevus",
+        "sourceHash": "81a0ed1f4af843be",
+        "stale": false
+      },
+      "unit": "K"
+    },
+    {
+      "symbol": "dT1",
+      "name": {
+        "en": "temperature difference",
+        "et": "temperatuurierinevus",
+        "sourceHash": "7c3394f61a21e1a7",
+        "stale": false
+      },
+      "unit": "K"
+    },
+    {
+      "symbol": "dT2",
+      "name": {
+        "en": "temperature difference",
+        "et": "temperatuurierinevus",
+        "sourceHash": "7c3394f61a21e1a7",
+        "stale": false
+      },
+      "unit": "K"
+    }
+  ],
+  "solveFor": [
+    "dTlm"
+  ],
+  "expressions": {
+    "dTlm": "(dT1-dT2)/ln(dT1/dT2)"
+  }
+}

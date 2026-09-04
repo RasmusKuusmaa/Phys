@@ -1,0 +1,37 @@
+{
+  "id": "lmtd-solve-dtlm",
+  "formulaId": "lmtd-formula",
+  "solveFor": "dTlm",
+  "mistakes": [
+    {
+      "id": "used-arithmetic-mean",
+      "description": {
+        "en": "Used the plain arithmetic average of the two end temperature differences instead of the logarithmic mean, overstating the driving temperature difference.",
+        "et": "Kasutas kahe otsa temperatuurierinevuse lihtsat aritmeetilist keskmist logaritmilise keskmise asemel, ülehinnates liikumapanevat temperatuurierinevust.",
+        "sourceHash": "aedf0f7164205fc0",
+        "stale": false
+      },
+      "expression": "(dT1+dT2)/2"
+    },
+    {
+      "id": "inverted-the-ratio-in-the-log",
+      "description": {
+        "en": "Inverted the ratio inside the logarithm, dividing the second temperature difference by the first instead of the other way round.",
+        "et": "Pööras logaritmi sees oleva suhte ümber, jagades teise temperatuurierinevuse esimesega, selle asemel et teha vastupidi.",
+        "sourceHash": "5683f185c7bc917c",
+        "stale": false
+      },
+      "expression": "(dT1-dT2)/ln(dT2/dT1)"
+    },
+    {
+      "id": "used-natural-difference-without-log-weighting",
+      "description": {
+        "en": "Used the plain difference between the two end temperature differences without dividing by the logarithmic weighting term at all.",
+        "et": "Kasutas kahe otsa temperatuurierinevuse lihtsat vahet, jagamata seda üldse logaritmilise kaaluteguriga.",
+        "sourceHash": "96676a042c845c20",
+        "stale": false
+      },
+      "expression": "dT1-dT2"
+    }
+  ]
+}

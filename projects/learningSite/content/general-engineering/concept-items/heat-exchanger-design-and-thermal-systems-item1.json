@@ -1,0 +1,56 @@
+{
+  "id": "heat-exchanger-design-and-thermal-systems-item1",
+  "conceptId": "heat-exchanger-design-and-thermal-systems",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two heat exchangers have identical inlet and outlet temperatures for both streams, identical area, and identical overall heat transfer coefficient, but one is arranged in counterflow and the other in parallel flow. What should you expect?",
+    "et": "Kahel soojusvahetil on mõlema voolu jaoks identsed sisse- ja väljavoolu temperatuurid, identne pindala ning identne üldine soojusülekandetegur, kuid üks on paigutatud vastuvooluga ja teine kaasvooluga. Mida peaks eeldama?",
+    "sourceHash": "97193d471fbed666",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The counterflow exchanger has a higher log-mean temperature difference and transfers more heat, since it sustains a larger temperature difference across more of its length.",
+        "et": "Vastuvooluga vahetil on kõrgem logaritmiline keskmine temperatuurierinevus ja see kannab üle rohkem soojust, kuna see hoiab suuremat temperatuurierinevust suurema osa oma pikkusest.",
+        "sourceHash": "76d51c3e2c385c96",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both transfer exactly the same amount of heat, since the flow arrangement doesn't affect performance as long as the end temperatures match.",
+        "et": "Mõlemad kannavad üle täpselt sama palju soojust, kuna voolusuundade paigutus ei mõjuta jõudlust, kuni otste temperatuurid ühtivad.",
+        "sourceHash": "8ed756023b964131",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heat-exchanger-design-and-thermal-systems-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The correct driving temperature difference for both is just the arithmetic average of the inlet and outlet temperature gaps, so both perform identically regardless of arrangement.",
+        "et": "Mõlema õige liikumapanev temperatuurierinevus on lihtsalt sisse- ja väljavoolu temperatuurilõhede aritmeetiline keskmine, seega toimivad mõlemad paigutusest sõltumata ühtemoodi.",
+        "sourceHash": "6f556a8e80d97114",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heat-exchanger-design-and-thermal-systems-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Adding fins to either exchanger's surface would roughly double its heat transfer per unit of added exposed area, regardless of arrangement.",
+        "et": "Ribide lisamine kummagi vaheti pinnale kahekordistaks ligikaudu selle soojusülekande lisatud eksponeeritud pindalaühiku kohta, sõltumata paigutusest.",
+        "sourceHash": "e3148aa12f6d3489",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "heat-exchanger-design-and-thermal-systems-m3"
+    }
+  ]
+}

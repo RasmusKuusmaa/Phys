@@ -1,0 +1,10 @@
+{
+  "id": "heat-exchanger-design-and-thermal-systems-m2",
+  "conceptId": "heat-exchanger-design-and-thermal-systems",
+  "text": {
+    "en": "Believing parallel-flow and counterflow heat exchangers perform identically as long as both streams' inlet and outlet temperatures are the same -- a counterflow arrangement (streams running in opposite directions) sustains a larger temperature difference across more of the exchanger's length than a parallel-flow arrangement (streams running the same direction) can, which gives counterflow a higher log-mean temperature difference, and therefore more heat transferred, for the same area and overall heat transfer coefficient; the flow arrangement is not a cosmetic detail.",
+    "et": "Arvamus, et kaasvoolu- ja vastuvooluga soojusvahetid toimivad ühtemoodi, kuni mõlema voolu sisse- ja väljavoolu temperatuurid on samad -- vastuvoolu paigutus (voolud liiguvad vastassuundades) hoiab suuremat temperatuurierinevust suurema osa vaheti pikkusest kui kaasvoolu paigutus (voolud liiguvad samas suunas) suudab, mis annab vastuvoolule kõrgema logaritmilise keskmise temperatuurierinevuse ja seega rohkem ülekantavat soojust sama pindala ja üldise soojusülekandeteguri juures; voolusuundade paigutus ei ole kosmeetiline detail.",
+    "sourceHash": "672fdf4889526584",
+    "stale": false
+  }
+}

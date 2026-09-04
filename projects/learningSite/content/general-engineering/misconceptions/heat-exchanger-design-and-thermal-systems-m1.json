@@ -1,0 +1,10 @@
+{
+  "id": "heat-exchanger-design-and-thermal-systems-m1",
+  "conceptId": "heat-exchanger-design-and-thermal-systems",
+  "text": {
+    "en": "Believing the correct driving temperature difference for sizing a heat exchanger is simply the arithmetic average of the temperature gap at the inlet end and the temperature gap at the outlet end -- the gap between the two streams shrinks continuously (not linearly) along the exchanger's length as heat crosses between them, so the log-mean temperature difference is the value that correctly accounts for that continuous change, and a plain arithmetic average of the two end-gaps systematically overstates it.",
+    "et": "Arvamus, et õige liikumapanev temperatuurierinevus soojusvaheti mõõtmestamiseks on lihtsalt sissevoolu otsa temperatuurilõhe ja väljavoolu otsa temperatuurilõhe aritmeetiline keskmine -- lõhe kahe voolu vahel kahaneb piki vaheti pikkust pidevalt (mitte lineaarselt), kuna soojus liigub nende vahel, seega logaritmiline keskmine temperatuurierinevus ongi väärtus, mis seda pidevat muutust õigesti arvesse võtab, ning kahe otsa lõhede lihtne aritmeetiline keskmine ülehindab seda süstemaatiliselt.",
+    "sourceHash": "30345c9240868989",
+    "stale": false
+  }
+}

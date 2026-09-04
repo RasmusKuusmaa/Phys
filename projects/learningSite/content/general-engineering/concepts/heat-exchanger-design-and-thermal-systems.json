@@ -1,0 +1,21 @@
+{
+  "id": "heat-exchanger-design-and-thermal-systems",
+  "subject": "general-engineering",
+  "level": "L2",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Heat exchanger design and thermal systems",
+    "et": "Soojusvahetite projekteerimine ja soojussüsteemid",
+    "sourceHash": "364fca844deb07ba",
+    "stale": false
+  },
+  "summary": {
+    "en": "A heat exchanger moves heat from one fluid stream to another without mixing them, and sizing one comes down to a single relationship: the total heat duty equals an overall heat transfer coefficient (which lumps together conduction through the separating wall and convection on both sides of it) multiplied by the heat-transfer area and by a driving temperature difference. That driving difference is not simply an average of the inlet and outlet temperature gaps, because the gap between the two streams itself shrinks continuously along the exchanger's length as heat moves across it; the log-mean temperature difference (LMTD) is the specific temperature difference that correctly accounts for that continuous change, and using a plain arithmetic average in its place systematically overstates the driving temperature difference (and therefore the exchanger's apparent performance). Flow arrangement matters too: a counterflow exchanger (the two streams running in opposite directions) sustains a larger temperature difference along more of its length than a parallel-flow exchanger (streams running the same direction) can, which is why counterflow designs are generally preferred wherever the piping layout allows it. Beyond the exchanger's core surface, fins are added to extend heat-transfer area into the fluid on the side with the weaker convection, but a fin's own temperature drops along its length as heat conducts through it, so a fin's effectiveness never reaches the naive figure of simply 'this much extra area, done for free.'",
+    "et": "Soojusvaheti kannab soojust ühelt vedelikuvoolult teisele neid segamata ning selle mõõtmestamine taandub ühele seosele: kogu soojusvõimsus võrdub üldise soojusülekandeteguriga (mis koondab endasse juhtivuse eraldava seina läbi ja konvektsiooni mõlemal poolel) korrutatuna soojusülekandepindala ja liikumapaneva temperatuurierinevusega. See liikumapanev erinevus ei ole lihtsalt sissevoolu ja väljavoolu temperatuurilõhede keskmine, kuna lõhe kahe voolu vahel endas kahaneb pidevalt vaheti pikkuse ulatuses, kui soojus selle kaudu liigub; logaritmiline keskmine temperatuurierinevus (LMTD) ongi konkreetne temperatuurierinevus, mis seda pidevat muutust õigesti arvesse võtab, ning lihtsa aritmeetilise keskmise kasutamine selle asemel ülehindab süstemaatiliselt liikumapanevat temperatuurierinevust (ja seega vaheti näilist jõudlust). Voolusuundade paigutus on samuti oluline: vastuvooluga vaheti (kaks voolu liiguvad vastassuundades) hoiab suuremat temperatuurierinevust suurema osa oma pikkusest kui kaasvooluga vaheti (voolud liiguvad samas suunas) suudab, mistõttu eelistatakse vastuvooluga lahendusi üldiselt alati, kui torustiku paigutus seda võimaldab. Vaheti põhipinna kõrval lisatakse ribid, et laiendada soojusülekandepindala nõrgema konvektsiooniga poolele, kuid ribi enda temperatuur langeb piki selle pikkust, kuna soojus juhtub sellest läbi, seega ei jõua ribi tõhusus kunagi naiivse arvuni 'nii palju lisapinda, saadud tasuta'.",
+    "sourceHash": "13ec1113a4d92db0",
+    "stale": false
+  },
+  "prerequisites": [
+    "engineering-thermodynamics-and-power-cycles"
+  ]
+}
