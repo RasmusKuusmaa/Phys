@@ -1,0 +1,56 @@
+{
+  "id": "stem-cells-and-cellular-differentiation-item1",
+  "conceptId": "stem-cells-and-cellular-differentiation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A researcher takes a fully differentiated adult skin cell and successfully reprograms it into an induced pluripotent stem cell. What does this result demonstrate?",
+    "et": "Teadlane võtab täielikult diferentseerunud täiskasvanud naharaku ning programmeerib selle edukalt ümber indutseeritud pluripotentseks tüvirakuks. Mida see tulemus näitab?",
+    "sourceHash": "7617bc9b4372a803",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "That a differentiated cell's restricted gene-expression pattern, while normally stable through further divisions, is not permanently or irreversibly fixed at the level of the underlying DNA.",
+        "et": "Et diferentseerunud raku piiratud geeniekspressioonimuster, kuigi tavaliselt stabiilne edasiste jagunemiste käigus, ei ole aluseks oleva DNA tasandil püsivalt ega pöördumatult fikseeritud.",
+        "sourceHash": "61981689b9c3096b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "That the skin cell must have lost most of its DNA when it originally differentiated, and the reprogramming process restored the missing genes.",
+        "et": "Et naharakk peab olema kaotanud enamiku oma DNA-st, kui ta algselt diferentseerus, ning ümberprogrammeerimise protsess taastas puuduvad geenid.",
+        "sourceHash": "b7d091a85c3e47b3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stem-cells-and-cellular-differentiation-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "That skin cells were already just as potent as any other stem cell type, since potency doesn't actually vary between different kinds of cells.",
+        "et": "Et naharakud olid juba niisama potentsed kui mistahes muu tüvirakutüüp, kuna potentsus tegelikult ei varieeru erinevate rakutüüpide vahel.",
+        "sourceHash": "0bd885046339e7cc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stem-cells-and-cellular-differentiation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing meaningful, since a fully differentiated cell's state is permanent and this result must reflect an experimental error rather than a real reprogramming event.",
+        "et": "Mitte midagi olulist, kuna täielikult diferentseerunud raku olek on püsiv ning see tulemus peab peegeldama eksperimentaalset viga, mitte tõelist ümberprogrammeerimissündmust.",
+        "sourceHash": "4660fbf98c7ddea8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stem-cells-and-cellular-differentiation-m3"
+    }
+  ]
+}

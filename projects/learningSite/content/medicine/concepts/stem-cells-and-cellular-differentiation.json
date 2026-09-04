@@ -1,0 +1,19 @@
+{
+  "id": "stem-cells-and-cellular-differentiation",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "cell-and-molecular-biology",
+  "title": {
+    "en": "Stem cells and cellular differentiation",
+    "et": "Tüvirakud ja rakuline diferentseerumine",
+    "sourceHash": "6d2aeaf971afd43f",
+    "stale": false
+  },
+  "summary": {
+    "en": "A single fertilized egg gives rise to every one of the roughly 200 distinct cell types in an adult human body, and the process that gets there -- differentiation -- works not by changing a cell's DNA sequence but by permanently changing which genes stay switched on and off, so a neuron and a liver cell carry essentially the same genome yet read wildly different subsets of it. Stem cells are defined by two properties held together: self-renewal (the ability to divide and produce more stem cells indistinguishable from the parent) and potency (the range of different cell types their descendants can still become). Potency exists on a spectrum -- totipotent cells (only the fertilized egg and its first few divisions) can give rise to every cell type in the body plus extra-embryonic tissues like the placenta; pluripotent cells (embryonic stem cells) can give rise to every cell type of the body itself but not those extra-embryonic tissues; and multipotent cells (most adult stem cells, like the hematopoietic stem cells that continually replenish blood) are restricted to a narrower set of related cell types, such as the various blood cell lineages. Once a cell differentiates into a specialized type, that restriction is normally stable and heritable through further divisions -- a skin cell's descendants stay skin cells -- which is exactly why the discovery that a fully differentiated adult cell could be experimentally reprogrammed back into a pluripotent state (an induced pluripotent stem cell) was such a significant finding: it showed that a differentiated cell's restricted gene-expression pattern, while normally stable, is not permanently or irreversibly fixed at the level of the DNA itself.",
+    "et": "Üksainus viljastatud munarakk annab alguse igale ligikaudu 200 eristuvale rakutüübile täiskasvanud inimese kehas, ning protsess, mis sinna jõuab -- diferentseerumine -- ei toimi mitte raku DNA järjestuse muutmise, vaid selle püsiva muutmise kaudu, millised geenid jäävad sisse ja välja lülitatuks, mistõttu neuron ja maksarakk kannavad sisuliselt sama genoomi, kuid loevad sellest väga erinevaid alamhulki. Tüvirakke defineerivad kaks koos esinevat omadust: iseuuenemine (võime jaguneda ja toota rohkem tüvirakke, mis on lähterakust eristamatud) ning potentsus (erinevate rakutüüpide ulatus, milleks nende järglased veel muutuda saavad). Potentsus eksisteerib spektrina -- totipotentsed rakud (ainult viljastatud munarakk ja selle esimesed jagunemised) saavad anda alguse igale keha rakutüübile ning lisaks embrüovälistele kudedele nagu platsenta; pluripotentsed rakud (embrüonaalsed tüvirakud) saavad anda alguse igale keha enda rakutüübile, kuid mitte neile embrüovälistele kudedele; ning multipotentsed rakud (enamik täiskasvanu tüvirakke, nagu vereloome tüvirakud, mis pidevalt täiendavad verd) on piiratud kitsama, omavahel seotud rakutüüpide hulgaga, nagu erinevad vererakkude liinid. Kui rakk on kord diferentseerunud spetsialiseerunud tüübiks, on see piirang tavaliselt stabiilne ja pärandub edasistele jagunemistele -- naharaku järglased jäävad nahakudeks --, mis on täpselt põhjus, miks avastus, et täielikult diferentseerunud täiskasvanud rakku saab eksperimentaalselt ümber programmeerida tagasi pluripotentsesse olekusse (indutseeritud pluripotentne tüvirakk), oli nii märkimisväärne leid: see näitas, et diferentseerunud raku piiratud geeniekspressioonimuster, kuigi tavaliselt stabiilne, ei ole DNA enda tasandil püsivalt ega pöördumatult fikseeritud.",
+    "sourceHash": "d6cdb1af85aaf848",
+    "stale": false
+  },
+  "prerequisites": []
+}

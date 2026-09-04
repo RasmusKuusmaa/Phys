@@ -1,0 +1,10 @@
+{
+  "id": "stem-cells-and-cellular-differentiation-m2",
+  "conceptId": "stem-cells-and-cellular-differentiation",
+  "text": {
+    "en": "A cell becomes a specific cell type by physically losing the genes it doesn't need -- in reality, differentiated cells almost always retain their full genome; differentiation works by permanently switching most genes off (through mechanisms like DNA methylation and chromatin structure changes) while leaving a specific subset on, not by deleting DNA.",
+    "et": "Rakk muutub konkreetseks rakutüübiks, kaotades füüsiliselt geenid, mida tal vaja pole -- tegelikult säilitavad diferentseerunud rakud peaaegu alati oma täieliku genoomi; diferentseerumine toimib enamiku geenide püsiva väljalülitamise kaudu (mehhanismide nagu DNA metüleerimine ja kromatiini struktuuri muutused kaudu), jättes sisse konkreetse alamhulga, mitte DNA kustutamise kaudu.",
+    "sourceHash": "04ae8c92401e1cf0",
+    "stale": false
+  }
+}

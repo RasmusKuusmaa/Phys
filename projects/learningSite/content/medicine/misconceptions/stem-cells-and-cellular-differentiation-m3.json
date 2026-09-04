@@ -1,0 +1,10 @@
+{
+  "id": "stem-cells-and-cellular-differentiation-m3",
+  "conceptId": "stem-cells-and-cellular-differentiation",
+  "text": {
+    "en": "Once a cell has fully differentiated into a specialized type, that state is permanent and cannot be changed by any means -- in reality, the discovery of induced pluripotent stem cells demonstrated that a differentiated adult cell can be experimentally reprogrammed back into a pluripotent state by activating a specific set of transcription factors, showing that the differentiated state is stable under normal conditions but not irreversible at the level of the underlying DNA.",
+    "et": "Kui rakk on kord täielikult diferentseerunud spetsialiseerunud tüübiks, on see olek püsiv ning seda ei saa mitte mingil viisil muuta -- tegelikult näitas indutseeritud pluripotentsete tüvirakkude avastus, et diferentseerunud täiskasvanud rakku saab eksperimentaalselt ümber programmeerida tagasi pluripotentsesse olekusse, aktiveerides konkreetse transkriptsioonifaktorite kogumi, näidates, et diferentseerunud olek on tavatingimustes stabiilne, kuid mitte pöördumatu aluseks oleva DNA tasandil.",
+    "sourceHash": "da4994dbc5a145f3",
+    "stale": false
+  }
+}
