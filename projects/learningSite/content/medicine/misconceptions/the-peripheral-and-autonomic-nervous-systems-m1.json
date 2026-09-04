@@ -1,0 +1,10 @@
+{
+  "id": "the-peripheral-and-autonomic-nervous-systems-m1",
+  "conceptId": "the-peripheral-and-autonomic-nervous-systems",
+  "text": {
+    "en": "The sympathetic and parasympathetic systems only turn on one at a time, like an on/off switch, never both simultaneously -- in reality, most organs receive continuous input from both branches at once, and the organ's actual state reflects the ongoing balance between them, not an either-or switch: resting heart rate, for example, is held down by constant parasympathetic (vagal) tone at any given moment, not absent tone.",
+    "et": "Sümpaatiline ja parasümpaatiline süsteem lülituvad sisse ainult üks korraga, nagu sisse-välja lüliti, mitte kunagi mõlemad samaaegselt -- tegelikult saab enamik organeid pidevat sisendit mõlemalt harult korraga, ning organi tegelik seisund peegeldab pidevat tasakaalu nende vahel, mitte kas-või lülitit: puhkeseisundi südamesagedust hoiab näiteks pidevalt allpool pidev parasümpaatiline (vagaal-) toonus igal antud hetkel, mitte puuduv toonus.",
+    "sourceHash": "2c20d77bfdaa0eae",
+    "stale": false
+  }
+}

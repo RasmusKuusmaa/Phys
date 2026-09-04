@@ -1,0 +1,56 @@
+{
+  "id": "the-peripheral-and-autonomic-nervous-systems-item1",
+  "conceptId": "the-peripheral-and-autonomic-nervous-systems",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "During rest, is the parasympathetic nervous system 'switched off' while the sympathetic nervous system runs the body, or is something else going on?",
+    "et": "Kas puhkeolekus on parasümpaatiline närvisüsteem 'välja lülitatud', samal ajal kui sümpaatiline närvisüsteem keha juhib, või toimub midagi muud?",
+    "sourceHash": "105b041b6f9f54a2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both branches maintain an ongoing baseline level of activity (tone) even at rest; the organs' actual state reflects the continuous balance between competing sympathetic and parasympathetic input, not either branch being fully off.",
+        "et": "Mõlemad harud hoiavad üleval pidevat baastaseme aktiivsust (toonust) isegi puhkeolekus; organite tegelik seisund peegeldab pidevat tasakaalu konkureeriva sümpaatilise ja parasümpaatilise sisendi vahel, mitte kummagi haru täielikku väljalülitumist.",
+        "sourceHash": "9b9c4502948839ac",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Yes -- only one branch is active at any given moment, and during rest it's virtually all sympathetic activity with parasympathetic switched off.",
+        "et": "Jah -- ainult üks haru on igal hetkel aktiivne, ning puhkeolekus on see peaaegu täielikult sümpaatiline aktiivsus, parasümpaatiline on välja lülitatud.",
+        "sourceHash": "eab4be6ad8f36326",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-peripheral-and-autonomic-nervous-systems-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Yes -- the parasympathetic system is the body's true 'off' default, and the sympathetic system only turns on during rare fight-or-flight emergencies.",
+        "et": "Jah -- parasümpaatiline süsteem on keha tõeline 'väljas' vaikeseisund, ning sümpaatiline süsteem lülitub sisse ainult harvade põgene-või-võitle hädaolukordade ajal.",
+        "sourceHash": "f536907f83c868a9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-peripheral-and-autonomic-nervous-systems-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Neither is really running the body during voluntary rest -- a person can consciously suppress both branches through relaxation, the same way they control skeletal muscle.",
+        "et": "Kumbki ei juhi tegelikult keha tahtliku puhkuse ajal -- inimene saab lõõgastumise kaudu teadlikult mõlemad harud alla suruda, samamoodi nagu ta kontrollib skeletilihast.",
+        "sourceHash": "c6a64cd534b7a3c6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-peripheral-and-autonomic-nervous-systems-m2"
+    }
+  ]
+}

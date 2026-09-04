@@ -1,0 +1,21 @@
+{
+  "id": "the-peripheral-and-autonomic-nervous-systems",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "neuroscience",
+  "title": {
+    "en": "The peripheral and autonomic nervous systems",
+    "et": "Perifeerne ja autonoomne närvisüsteem",
+    "sourceHash": "0d6242dbf7223ebf",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every nerve outside the brain and spinal cord belongs to the peripheral nervous system, which splits into two functionally distinct divisions carrying opposite kinds of traffic. The somatic division carries voluntary, conscious signals: sensory nerves bringing touch, pain, and proprioceptive information inward, and motor nerves carrying deliberate commands out to skeletal muscle -- the division a person can consciously control. The autonomic division instead runs the body's involuntary functions -- heart rate, digestion, pupil diameter, sweating -- entirely outside conscious control, and it further splits into two branches that usually push in opposite directions on the same target organs: the sympathetic branch, which mobilizes the body for action (the fight-or-flight response -- increased heart rate, dilated pupils, digestion suppressed to redirect blood flow to muscle), and the parasympathetic branch, which does the reverse, promoting rest, digestion, and energy conservation (rest and digest). Most organs receive input from both branches simultaneously, and the organ's actual state at any moment reflects the balance between the two competing signals rather than either branch acting alone -- heart rate, for instance, is constantly being pulled down by parasympathetic vagal tone and pushed up by sympathetic input at the same time.",
+    "et": "Iga närv väljaspool aju ja seljaaju kuulub perifeersesse närvisüsteemi, mis jaguneb kaheks funktsionaalselt eristuvaks osakonnaks, mis kannavad vastandlikku liiklust. Somaatiline osakond kannab tahtelisi, teadlikke signaale: sensoorsed närvid toovad sissepoole puute-, valu- ja proprioretseptiivset infot, ning motoorsed närvid kannavad tahtlikke käske väljapoole skeletilihastesse -- osakond, mida inimene saab teadlikult kontrollida. Autonoomne osakond juhib selle asemel keha tahtmatuid funktsioone -- südamesagedus, seedimine, pupilli läbimõõt, higistamine -- täielikult väljaspool teadlikku kontrolli, ning see jaguneb omakorda kaheks haruks, mis tõmbavad tavaliselt vastupidises suunas samadel sihtorganitel: sümpaatiline haru, mis mobiliseerib keha tegevuseks (põgene-või-võitle reaktsioon -- südamesageduse tõus, pupillide laienemine, seedimise pärssimine, et suunata verevool lihastesse), ning parasümpaatiline haru, mis teeb vastupidist, edendades puhkust, seedimist ja energia säästmist (puhka ja seedi). Enamik organeid saab sisendit mõlemalt harult samaaegselt, ning organi tegelik seisund igal hetkel peegeldab tasakaalu kahe konkureeriva signaali vahel, mitte kummagi haru üksinda tegutsemist -- südamesagedust näiteks tõmbab pidevalt alla parasümpaatiline vagaaltoonus ja tõukab üles sümpaatiline sisend samal ajal.",
+    "sourceHash": "2437bc014b2a7469",
+    "stale": false
+  },
+  "prerequisites": [
+    "nervous-system-anatomy-and-physiology-overview"
+  ]
+}
