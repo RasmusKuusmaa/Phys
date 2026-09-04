@@ -1,0 +1,56 @@
+{
+  "id": "advanced-propulsion-and-specific-impulse-item1",
+  "conceptId": "advanced-propulsion-and-specific-impulse",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A spacecraft already in orbit needs to raise its altitude over several months without urgency. Its designers choose an ion thruster with a far lower thrust but much higher specific impulse than a chemical rocket engine. Why is this a reasonable engineering choice?",
+    "et": "Juba orbiidil olev kosmoseaparaat peab mitme kuu jooksul ilma kiireloomulisuseta oma kõrgust tõstma. Selle projekteerijad valivad ioontõukuri, millel on palju väiksem tõukejõud, kuid palju suurem eriimpulss kui keemilisel raketimootoril. Miks on see mõistlik inseneriotsus?",
+    "sourceHash": "2cb249c0d5a3eb3c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The higher specific impulse delivers far more delta-v per unit of propellant mass carried, and since there is no need for the high thrust that launch or urgent maneuvers require, the low thrust is an acceptable tradeoff for a gradual orbit change.",
+        "et": "Suurem eriimpulss annab kantava töömassiühiku kohta palju rohkem delta-v-d, ning kuna puudub vajadus suure tõukejõu järele, mida start või kiireloomulised manöövrid nõuavad, on väike tõukejõud järkjärgulise orbiidimuutuse jaoks vastuvõetav kompromiss.",
+        "sourceHash": "1013efb59ac84db6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The ion thruster is simply a more powerful engine overall, so it is always the better choice regardless of mission timeline or thrust requirements.",
+        "et": "Ioontõukur on lihtsalt üldiselt võimsam mootor, seega on see alati parem valik olenemata missiooni ajakavast või tõukejõu vajadusest.",
+        "sourceHash": "2cdc3cf44f263d1e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "advanced-propulsion-and-specific-impulse-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Ion thrusters could equally well have been used to launch the spacecraft from the ground in the first place, so this choice is consistent with using electric propulsion at every mission phase.",
+        "et": "Ioontõukureid oleks võinud algusest peale sama hästi kasutada kosmoseaparaadi startimiseks maapinnalt, seega on see valik kooskõlas elektrijõuseadmete kasutamisega igas missiooni faasis.",
+        "sourceHash": "0523ffb02a55c1cd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "advanced-propulsion-and-specific-impulse-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The ion thruster can be throttled up to full chemical-rocket thrust levels whenever needed, so there is no real tradeoff being made in choosing it.",
+        "et": "Ioontõukurit saab vajadusel reguleerida keemilise raketi tõukejõu tasemeni, seega ei tehta selle valimisel tegelikult mingit kompromissi.",
+        "sourceHash": "62bf8936fdf888a3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "advanced-propulsion-and-specific-impulse-m2"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "advanced-propulsion-and-specific-impulse-m1",
+  "conceptId": "advanced-propulsion-and-specific-impulse",
+  "text": {
+    "en": "Believing a higher specific impulse always means a \"more powerful\" or generally superior engine -- specific impulse measures propellant efficiency (delta-v delivered per unit of propellant), not thrust; an ion thruster can have several times the specific impulse of a chemical rocket while producing only millinewtons of thrust, nowhere near enough to lift a vehicle off a planetary surface despite its superior propellant efficiency.",
+    "et": "Arvamus, et suurem eriimpulss tähendab alati \"võimsamat\" või üldiselt paremat mootorit -- eriimpulss mõõdab töömassi tõhusust (delta-v töömassiühiku kohta), mitte tõukejõudu; ioontõukuril võib olla mitu korda suurem eriimpulss kui keemilisel raketil, andes samas ainult millinjuutoneid tõukejõudu, mis ei ole kaugeltki piisav sõiduki tõstmiseks planeedi pinnalt, hoolimata paremast töömassi tõhususest.",
+    "sourceHash": "ef6e39499fa75edb",
+    "stale": false
+  }
+}

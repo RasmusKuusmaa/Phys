@@ -1,0 +1,37 @@
+{
+  "id": "specific-impulse-formula-solve-isp",
+  "formulaId": "specific-impulse-formula",
+  "solveFor": "isp",
+  "mistakes": [
+    {
+      "id": "left-out-standard-gravity-factor",
+      "description": {
+        "en": "Left out the standard-gravity factor entirely, dividing thrust by mass flow rate alone instead of by mass flow rate times standard gravity.",
+        "et": "Jättis standardse raskuskiirenduse teguri täielikult välja, jagades tõukejõu ainult massivooluga, mitte massivoolu ja standardse raskuskiirenduse korrutisega.",
+        "sourceHash": "51f1b9bb3261a985",
+        "stale": false
+      },
+      "expression": "f/mdot"
+    },
+    {
+      "id": "inverted-force-and-flow-rate",
+      "description": {
+        "en": "Inverted force and mass flow rate, dividing mass flow rate by thrust instead of the other way round.",
+        "et": "Pööras jõu ja massivoolu ümber, jagades massivoolu tõukejõuga, mitte vastupidi.",
+        "sourceHash": "9ff4984329c6f9b4",
+        "stale": false
+      },
+      "expression": "mdot/(f*9.80665)"
+    },
+    {
+      "id": "multiplied-instead-of-divided",
+      "description": {
+        "en": "Multiplied thrust by mass flow rate and standard gravity instead of dividing.",
+        "et": "Korrutas tõukejõu massivoolu ja standardse raskuskiirendusega, selle asemel et jagada.",
+        "sourceHash": "8627806854a192cd",
+        "stale": false
+      },
+      "expression": "f*mdot*9.80665"
+    }
+  ]
+}

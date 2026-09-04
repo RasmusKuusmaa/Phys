@@ -1,0 +1,10 @@
+{
+  "id": "advanced-propulsion-and-specific-impulse-m3",
+  "conceptId": "advanced-propulsion-and-specific-impulse",
+  "text": {
+    "en": "Believing electric propulsion (ion or Hall-effect thrusters) would be a good choice for launching a vehicle from a planetary surface into orbit -- electric thrusters' extremely low thrust-to-weight ratio makes them useless against any meaningful gravity well at launch; they are used for orbit raising, station-keeping, and deep-space cruise on a spacecraft a chemical rocket has already placed in orbit, never for the launch itself.",
+    "et": "Arvamus, et elektrijõuseadmed (ioon- või Halli mootorid) sobiksid hästi sõiduki startimiseks planeedi pinnalt orbiidile -- elektritõukurite äärmiselt madal tõukejõu ja massi suhe muudab need stardil mistahes märkimisväärse gravitatsiooniaugu vastu kasutuks; neid kasutatakse orbiidi tõstmiseks, positsiooni hoidmiseks ja kaugkosmose lennuks kosmoseaparaadil, mille keemiline raket on juba orbiidile toimetanud, mitte kunagi stardiks endaks.",
+    "sourceHash": "5e5f9b8de851d28d",
+    "stale": false
+  }
+}

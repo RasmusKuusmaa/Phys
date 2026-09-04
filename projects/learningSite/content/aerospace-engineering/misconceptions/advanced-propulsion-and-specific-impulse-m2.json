@@ -1,0 +1,10 @@
+{
+  "id": "advanced-propulsion-and-specific-impulse-m2",
+  "conceptId": "advanced-propulsion-and-specific-impulse",
+  "text": {
+    "en": "Believing a solid rocket motor can be throttled or shut down and relit like a liquid engine -- once ignited, a solid motor burns its entire pre-cast propellant grain in a single event with a thrust profile fixed by the grain's geometry, with no valve or control to throttle, shut down, or restart it, unlike a liquid or hybrid engine whose propellant flow rate is independently controllable.",
+    "et": "Arvamus, et tahkekütuseraketti saab reguleerida või seisata ja uuesti süüdata nii nagu vedelkütusemootorit -- kord süüdatuna põletab tahkemootor kogu oma eelnevalt valatud töömassi ühe sündmusena, mille tõukejõu profiili määrab grandi geomeetria, ilma klapi või juhtimisvõimaluseta seda reguleerida, seisata või uuesti käivitada, erinevalt vedelik- või hübriidmootorist, mille töömassivoolu saab sõltumatult juhtida.",
+    "sourceHash": "90630a4096f3e492",
+    "stale": false
+  }
+}

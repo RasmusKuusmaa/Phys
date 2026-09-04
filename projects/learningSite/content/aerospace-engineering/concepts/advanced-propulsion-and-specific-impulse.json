@@ -1,0 +1,21 @@
+{
+  "id": "advanced-propulsion-and-specific-impulse",
+  "subject": "aerospace-engineering",
+  "level": "L4",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Advanced propulsion and specific impulse",
+    "et": "Täiustatud jõuseadmed ja eriimpulss",
+    "sourceHash": "063f79150e6ef483",
+    "stale": false
+  },
+  "summary": {
+    "en": "Specific impulse -- thrust divided by the weight flow rate of propellant it consumes -- is the figure of merit for how efficiently an engine turns propellant into delta-v, since it is directly proportional to exhaust velocity in the Tsiolkovsky rocket equation: a higher specific impulse means more velocity change per unit of propellant mass carried. Chemical rockets (solid, liquid bipropellant, and hybrid motors) sit at one end of the thrust-versus-efficiency tradeoff, delivering enormous thrust -- enough to lift a vehicle off a planetary surface against gravity -- at a comparatively modest specific impulse in roughly the 200-450 second range, because chemical reactions can only release a limited amount of energy per unit propellant mass. Electric propulsion (ion and Hall-effect thrusters) sits at the opposite end: accelerating propellant electrically rather than through combustion reaches exhaust velocities, and specific impulses, several times higher, but at thrust levels of only millinewtons to newtons, orders of magnitude too low to overcome any meaningful gravity well -- which is why electric propulsion is used for orbit raising, station-keeping, and deep-space cruise after a chemical rocket has already done the work of reaching orbit, never for launch itself. A solid rocket motor burns its entire pre-cast propellant grain in one uncontrolled event once ignited, with no capability to throttle or shut down and restart, unlike a liquid engine's independently controllable propellant flow, or a hybrid motor's solid fuel grain burned by a separately throttleable liquid or gaseous oxidizer flow, which sits as a middle case between the two.",
+    "et": "Eriimpulss -- tõukejõud jagatud tarbitava töömassi kaaluvooluga -- on näitaja, mis mõõdab, kui tõhusalt mootor muudab töömassi delta-v-ks, kuna see on Tsiolkovski raketivõrrandis otseselt võrdeline väljumiskiirusega: suurem eriimpulss tähendab suuremat kiirusemuutust pardal kantava töömassiühiku kohta. Keemilised raketid (tahke-, vedelik-kaksikkomponent- ja hübriidmootorid) asuvad tõukejõu ja tõhususe kompromissi ühes otsas, andes tohutu tõukejõu -- piisava, et tõsta sõiduk planeedi pinnalt gravitatsiooni vastu üles -- suhteliselt tagasihoidliku eriimpulsi juures umbes 200-450 sekundi vahemikus, kuna keemilised reaktsioonid saavad vabastada ainult piiratud koguse energiat töömassiühiku kohta. Elektrijõuseadmed (ioon- ja Halli mootorid) asuvad vastupidises otsas: töömassi elektriline kiirendamine, mitte põlemine, saavutab mitu korda kõrgemad väljumiskiirused ja eriimpulsid, kuid tõukejõu tasemel vaid millinjuutonitest njuutoniteni, mis on suurusjärkude võrra liiga madal, et ületada mistahes märkimisväärset gravitatsiooniauku -- mistõttu elektrijõuseadmeid kasutatakse orbiidi tõstmiseks, positsiooni hoidmiseks ja kaugkosmose lennuks pärast seda, kui keemiline raket on juba teinud töö orbiidile jõudmiseks, mitte kunagi stardiks endaks. Tahkekütuserakett põletab kogu oma eelnevalt valatud töömassi ühe kontrollimatu sündmusena kohe pärast süütamist, ilma võimaluseta reguleerida tõukejõudu või seiskuda ja uuesti käivituda, erinevalt vedelkütusemootori sõltumatult juhitavast töömassi voolust või hübriidmootorist, mille tahke kütusegrant põleb eraldi reguleeritava vedel- või gaasilise oksüdeerija vooluga, mis asub kahe vahepealse juhtumina.",
+    "sourceHash": "086fba449ac0295d",
+    "stale": false
+  },
+  "prerequisites": [
+    "propulsion-fundamentals"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "specific-impulse-formula-solve-isp",
+  "formulaId": "specific-impulse-formula",
+  "variables": [
+    {
+      "symbol": "f",
+      "min": 5000,
+      "max": 2500000,
+      "unit": "N",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "mdot",
+      "min": 2,
+      "max": 700,
+      "unit": "kg/s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "f",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "mdot",
+      "right": 0
+    }
+  ],
+  "solveFor": "isp"
+}

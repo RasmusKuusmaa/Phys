@@ -1,0 +1,47 @@
+{
+  "id": "specific-impulse-formula",
+  "conceptId": "advanced-propulsion-and-specific-impulse",
+  "latex": "I_{sp} = \\dfrac{F}{\\dot{m} \\, g_0}",
+  "symbols": [
+    {
+      "symbol": "isp",
+      "name": {
+        "en": "specific impulse",
+        "et": "eriimpulss",
+        "sourceHash": "1e22a2790c62ee9c",
+        "stale": false
+      },
+      "unit": "s"
+    },
+    {
+      "symbol": "f",
+      "name": {
+        "en": "force",
+        "et": "jõud",
+        "sourceHash": "32500d7500ce0755",
+        "stale": false
+      },
+      "unit": "N"
+    },
+    {
+      "symbol": "mdot",
+      "name": {
+        "en": "flow rate",
+        "et": "vooluhulk",
+        "sourceHash": "8c1791bf2947fbe2",
+        "stale": false
+      },
+      "unit": "kg/s"
+    }
+  ],
+  "solveFor": [
+    "isp",
+    "f",
+    "mdot"
+  ],
+  "expressions": {
+    "isp": "f/(mdot*9.80665)",
+    "f": "isp*mdot*9.80665",
+    "mdot": "f/(isp*9.80665)"
+  }
+}

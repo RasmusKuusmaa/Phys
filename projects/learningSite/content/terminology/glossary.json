@@ -133,6 +133,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/seoseenergia/1/est"
   },
   {
+    "id": "birefringence",
+    "en": "birefringence",
+    "et": "kaksikmurdumine",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kaksikmurdumine/1/est"
+  },
+  {
     "id": "boltzmann-distribution",
     "en": "Boltzmann distribution",
     "et": "Boltzmanni jaotus",
@@ -168,11 +175,46 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/kapillaarsus/1/est"
   },
   {
+    "id": "cash-flow",
+    "en": "cash flow",
+    "et": "rahavoog",
+    "domain": "engineering-economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/rahavoog/1/est"
+  },
+  {
+    "id": "charge",
+    "en": "charge",
+    "et": "laeng",
+    "domain": "physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/laeng/1/est"
+  },
+  {
+    "id": "coefficient",
+    "en": "coefficient",
+    "et": "kordaja",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kordaja/1/est"
+  },
+  {
+    "id": "compression-ratio",
+    "en": "compression ratio",
+    "et": "kompressioonaste",
+    "domain": "thermodynamics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kompressioonaste/1/est"
+  },
+  {
     "id": "conductivity",
     "en": "conductivity",
     "et": "erijuhtivus",
     "domain": "electromagnetism",
     "source": "https://sonaveeb.ee/search/unif/est/eki/erijuhtivus/1/est"
+  },
+  {
+    "id": "confidence-interval-half-width",
+    "en": "confidence interval half-width",
+    "et": "usaldusvahemiku poolpikkus",
+    "domain": "mathematics",
+    "source": "https://kodu.ut.ee/~maitraag/epi/_book/5-3-usaldusvahemik.html"
   },
   {
     "id": "conservation-law",
@@ -189,6 +231,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/pidevusvõrrand/1/est"
   },
   {
+    "id": "controller-output",
+    "en": "controller output",
+    "et": "regulaatori väljund",
+    "domain": "control-systems",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/v%C3%A4ljund/1/est"
+  },
+  {
     "id": "convection",
     "en": "convection",
     "et": "konvektsioon",
@@ -203,11 +252,39 @@
     "source": "https://opik.fyysika.ee/index.php/book/section/8623"
   },
   {
+    "id": "count-rate",
+    "en": "count rate",
+    "et": "loendussagedus",
+    "domain": "nuclear-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/loendussagedus/1/est"
+  },
+  {
+    "id": "critical-exponent",
+    "en": "critical exponent",
+    "et": "kriitiline astendaja",
+    "domain": "statistical-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kriitiline%20astendaja/1/est"
+  },
+  {
+    "id": "critical-temperature",
+    "en": "critical temperature",
+    "et": "kriitiline temperatuur",
+    "domain": "statistical-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kriitiline%20temperatuur/1/est"
+  },
+  {
     "id": "crystal-lattice",
     "en": "crystal lattice",
     "et": "kristallvõre",
     "domain": "modern-physics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/kristallvõre/1/est"
+  },
+  {
+    "id": "dead-time",
+    "en": "dead time",
+    "et": "surnud aeg",
+    "domain": "nuclear-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/surnud%20aeg/1/est"
   },
   {
     "id": "decay-constant",
@@ -224,6 +301,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/tihedus/1/est"
   },
   {
+    "id": "diameter",
+    "en": "diameter",
+    "et": "läbimõõt",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/l%C3%A4bim%C3%B5%C3%B5t/1/est"
+  },
+  {
     "id": "dielectric",
     "en": "dielectric",
     "et": "dielektrik",
@@ -238,11 +322,32 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/difraktsioon/1/est"
   },
   {
+    "id": "diffusion-coefficient",
+    "en": "diffusion coefficient",
+    "et": "difusioonitegur",
+    "domain": "statistical-mechanics",
+    "source": "https://et.wikipedia.org/wiki/Difusioon"
+  },
+  {
     "id": "direct-current",
     "en": "direct current",
     "et": "alalisvool",
     "domain": "electromagnetism",
     "source": "https://sonaveeb.ee/search/unif/est/eki/alalisvool/1/est"
+  },
+  {
+    "id": "discount-rate",
+    "en": "discount rate",
+    "et": "diskontomäär",
+    "domain": "engineering-economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/diskontom%C3%A4%C3%A4r/1/est"
+  },
+  {
+    "id": "discriminant",
+    "en": "discriminant",
+    "et": "diskriminant",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/diskriminant/1/est"
   },
   {
     "id": "displacement",
@@ -336,6 +441,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/elektron/1/est"
   },
   {
+    "id": "elementary-charge",
+    "en": "elementary charge",
+    "et": "elementaarlaeng",
+    "domain": "physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/elementaarlaeng/1/est"
+  },
+  {
     "id": "energy",
     "en": "energy",
     "et": "energia",
@@ -355,6 +467,13 @@
     "et": "energiatase",
     "domain": "quantum-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/energiatase/1/est"
+  },
+  {
+    "id": "energy-shift",
+    "en": "energy shift",
+    "et": "energianihe",
+    "domain": "quantum-mechanics",
+    "source": "https://et.wikipedia.org/wiki/Zeemani_efekt"
   },
   {
     "id": "enthalpy",
@@ -390,6 +509,20 @@
     "et": "paisumistegur",
     "domain": "thermodynamics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/paisumistegur/1/est"
+  },
+  {
+    "id": "exponent",
+    "en": "exponent",
+    "et": "astendaja",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/astendaja/1/est"
+  },
+  {
+    "id": "factor-of-safety",
+    "en": "factor of safety",
+    "et": "varutegur",
+    "domain": "mechanics-of-materials",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/varutegur/1/est"
   },
   {
     "id": "fermion",
@@ -448,6 +581,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/h%C3%B5%C3%B5rdetegur/1/est"
   },
   {
+    "id": "gain",
+    "en": "gain",
+    "et": "võimendus",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/v%C3%B5imendus/1/est"
+  },
+  {
     "id": "gamma-decay",
     "en": "gamma decay",
     "et": "gammalagunemine",
@@ -483,11 +623,25 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/poolestusaeg/1/est"
   },
   {
+    "id": "head-loss",
+    "en": "head loss",
+    "et": "hüdrauliline kadu",
+    "domain": "fluid-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/h%C3%BCdrauliline%20kadu/1/est"
+  },
+  {
     "id": "heat",
     "en": "heat",
     "et": "soojus",
     "domain": "thermodynamics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/soojus/1/est"
+  },
+  {
+    "id": "heat-capacity-ratio",
+    "en": "heat capacity ratio",
+    "et": "erisoojuste suhe",
+    "domain": "thermodynamics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/erisoojus/1/est"
   },
   {
     "id": "heat-engine",
@@ -532,6 +686,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/impedants/1/est"
   },
   {
+    "id": "improper-integral",
+    "en": "improper integral",
+    "et": "päratu integraal",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/integraal/1/est"
+  },
+  {
     "id": "inductance",
     "en": "inductance",
     "et": "induktiivsus",
@@ -544,6 +705,13 @@
     "et": "inertsiaalne taustsüsteem",
     "domain": "special-relativity",
     "source": "https://sonaveeb.ee/search/unif/est/eki/taustsüsteem/1/est"
+  },
+  {
+    "id": "initial-investment",
+    "en": "initial investment",
+    "et": "alginvesteering",
+    "domain": "engineering-economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/investeering/1/est"
   },
   {
     "id": "intensity",
@@ -672,11 +840,39 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/lineariseerimine/1/est"
   },
   {
+    "id": "log-mean-temperature-difference",
+    "en": "log-mean temperature difference",
+    "et": "logaritmiline keskmine temperatuurierinevus",
+    "domain": "heat-transfer",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/temperatuur/1/est"
+  },
+  {
     "id": "lorentz-transformation",
     "en": "Lorentz transformation",
     "et": "Lorentzi teisendus",
     "domain": "special-relativity",
     "source": "https://sonaveeb.ee/search/unif/est/eki/teisendus/1/est"
+  },
+  {
+    "id": "luminous-efficacy",
+    "en": "luminous efficacy",
+    "et": "valgusviljakus",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/valgusviljakus/1/est"
+  },
+  {
+    "id": "luminous-flux",
+    "en": "luminous flux",
+    "et": "valgusvoog",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/valgusvoog/1/est"
+  },
+  {
+    "id": "lyapunov-exponent",
+    "en": "Lyapunov exponent",
+    "et": "Ljapunovi eksponent",
+    "domain": "mechanics",
+    "source": "https://ois2.taltech.ee/uusois/aine/OIS3_YFX1560"
   },
   {
     "id": "macrostate",
@@ -698,6 +894,13 @@
     "et": "magnetvoog",
     "domain": "electromagnetism",
     "source": "https://sonaveeb.ee/search/unif/est/eki/magnetvoog/1/est"
+  },
+  {
+    "id": "magnetic-quantum-number",
+    "en": "magnetic quantum number",
+    "et": "magnetkvantarv",
+    "domain": "quantum-mechanics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/magnetkvantarv/1/est"
   },
   {
     "id": "magnification",
@@ -726,6 +929,13 @@
     "et": "Maxwelli võrrandid",
     "domain": "electromagnetism",
     "source": "https://sonaveeb.ee/search/unif/est/eki/võrrand/1/est"
+  },
+  {
+    "id": "mean",
+    "en": "mean",
+    "et": "keskväärtus",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/keskväärtus/1/est"
   },
   {
     "id": "measurement",
@@ -784,6 +994,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/kordsus/1/est"
   },
   {
+    "id": "net-present-value",
+    "en": "net present value",
+    "et": "puhas nüüdisväärtus",
+    "domain": "engineering-economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/n%C3%BC%C3%BCdisv%C3%A4%C3%A4rtus/1/est"
+  },
+  {
     "id": "normal-distribution",
     "en": "normal distribution",
     "et": "normaaljaotus",
@@ -803,6 +1020,69 @@
     "et": "tuumasüntees",
     "domain": "modern-physics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/tuumasüntees/1/est"
+  },
+  {
+    "id": "null-hypothesis-mean",
+    "en": "null-hypothesis mean",
+    "et": "nullhüpoteesi keskmine",
+    "domain": "mathematics",
+    "source": "https://kodu.ut.ee/~maitraag/epi/_book/statistiline-h%C3%BCpoteeside-testimine.html"
+  },
+  {
+    "id": "number-density",
+    "en": "number density",
+    "et": "kontsentratsioon",
+    "domain": "physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kontsentratsioon/1/est"
+  },
+  {
+    "id": "number-of-dynodes",
+    "en": "number of dynodes",
+    "et": "dünoodide arv",
+    "domain": "optics",
+    "source": "https://et.wikipedia.org/wiki/Fotoelektronkordisti"
+  },
+  {
+    "id": "number-of-periods",
+    "en": "number of periods",
+    "et": "perioodide arv",
+    "domain": "engineering-economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/periood/1/est"
+  },
+  {
+    "id": "number-of-trials",
+    "en": "number of trials",
+    "et": "katsete arv",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/katse/1/est"
+  },
+  {
+    "id": "number-of-turns",
+    "en": "number of turns",
+    "et": "keerdude arv",
+    "domain": "physics",
+    "source": "https://et.wikipedia.org/wiki/Trafo"
+  },
+  {
+    "id": "observed-count-rate",
+    "en": "observed count rate",
+    "et": "mõõdetud loendussagedus",
+    "domain": "nuclear-physics",
+    "source": "https://et.wikipedia.org/wiki/Geigeri_loendur"
+  },
+  {
+    "id": "order",
+    "en": "order",
+    "et": "järk",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/j%C3%A4rk/1/est"
+  },
+  {
+    "id": "order-parameter",
+    "en": "order parameter",
+    "et": "korrastusparameeter",
+    "domain": "statistical-mechanics",
+    "source": "https://et.wikipedia.org/wiki/Faasisiire"
   },
   {
     "id": "oscillation",
@@ -903,6 +1183,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/rõhulang/1/est"
   },
   {
+    "id": "probability",
+    "en": "probability",
+    "et": "tõenäosus",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/tõenäosus/1/est"
+  },
+  {
     "id": "probability-density",
     "en": "probability density",
     "et": "tõenäosustihedus",
@@ -915,6 +1202,27 @@
     "et": "tõenäosusjaotus",
     "domain": "measurement",
     "source": "https://sonaveeb.ee/search/unif/est/eki/t%C3%B5en%C3%A4osusjaotus/1/est"
+  },
+  {
+    "id": "projectile-mass",
+    "en": "projectile mass",
+    "et": "pommitava osakese mass",
+    "domain": "nuclear-physics",
+    "source": "https://et.wikipedia.org/wiki/Tuumareaktsioon"
+  },
+  {
+    "id": "proportional-gain",
+    "en": "proportional gain",
+    "et": "proportsionaalne võimendus",
+    "domain": "control-systems",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/v%C3%B5imendus/1/est"
+  },
+  {
+    "id": "quantile",
+    "en": "quantile",
+    "et": "kvantiil",
+    "domain": "mathematics",
+    "source": "https://kodu.ut.ee/~maitraag/epi/_book/5-3-usaldusvahemik.html"
   },
   {
     "id": "quantity",
@@ -952,6 +1260,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/kvark/1/est"
   },
   {
+    "id": "radiant-flux",
+    "en": "radiant flux",
+    "et": "kiirgusvoog",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kiirgusvoog/1/est"
+  },
+  {
     "id": "radioactivity",
     "en": "radioactivity",
     "et": "radioaktiivsus",
@@ -971,6 +1286,13 @@
     "et": "reaktants",
     "domain": "electromagnetism",
     "source": "https://sonaveeb.ee/search/unif/est/eki/reaktants/1/est"
+  },
+  {
+    "id": "reaction-energy",
+    "en": "reaction energy",
+    "et": "reaktsioonienergia",
+    "domain": "nuclear-physics",
+    "source": "https://et.wikipedia.org/wiki/Tuumareaktsioon"
   },
   {
     "id": "reflection",
@@ -999,6 +1321,13 @@
     "et": "relativistlik impulss",
     "domain": "special-relativity",
     "source": "https://sonaveeb.ee/search/unif/est/eki/relativistlik/1/est"
+  },
+  {
+    "id": "reliability",
+    "en": "reliability",
+    "et": "töökindlus",
+    "domain": "reliability-engineering",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/t%C3%B6%C3%B6kindlus/1/est"
   },
   {
     "id": "resistance",
@@ -1043,6 +1372,20 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/pöörlemine/1/est"
   },
   {
+    "id": "sample-mean",
+    "en": "sample mean",
+    "et": "valimi keskmine",
+    "domain": "mathematics",
+    "source": "https://kodu.ut.ee/~maitraag/epi/_book/statistiline-h%C3%BCpoteeside-testimine.html"
+  },
+  {
+    "id": "sample-size",
+    "en": "sample size",
+    "et": "valimi suurus",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/valim/1/est"
+  },
+  {
     "id": "scalar",
     "en": "scalar",
     "et": "skalaar",
@@ -1078,11 +1421,25 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/aegruum/1/est"
   },
   {
+    "id": "specific-fuel-consumption",
+    "en": "specific fuel consumption",
+    "et": "erikütusekulu",
+    "domain": "propulsion",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/k%C3%BCtusekulu/1/est"
+  },
+  {
     "id": "specific-heat-capacity",
     "en": "specific heat capacity",
     "et": "erisoojus",
     "domain": "thermodynamics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/erisoojus/1/est"
+  },
+  {
+    "id": "specific-impulse",
+    "en": "specific impulse",
+    "et": "eriimpulss",
+    "domain": "propulsion",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/impulss/1/est"
   },
   {
     "id": "speed",
@@ -1106,6 +1463,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/spinn/1/est"
   },
   {
+    "id": "standard-deviation",
+    "en": "standard deviation",
+    "et": "standardhälve",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/standardhälve/1/est"
+  },
+  {
     "id": "standard-model",
     "en": "Standard Model",
     "et": "standardmudel",
@@ -1127,6 +1491,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/stimuleeritud%20kiirgus/1/est"
   },
   {
+    "id": "stress",
+    "en": "stress",
+    "et": "pinge",
+    "domain": "mechanics-of-materials",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/pinge/1/est"
+  },
+  {
     "id": "superconductivity",
     "en": "superconductivity",
     "et": "ülijuhtivus",
@@ -1141,10 +1512,24 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/pindpinevus/1/est"
   },
   {
+    "id": "target-mass",
+    "en": "target mass",
+    "et": "sihtmärgi mass",
+    "domain": "nuclear-physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/sihtm%C3%A4rk/1/est"
+  },
+  {
     "id": "temperature",
     "en": "temperature",
     "et": "temperatuur",
     "domain": "thermodynamics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/temperatuur/1/est"
+  },
+  {
+    "id": "temperature-difference",
+    "en": "temperature difference",
+    "et": "temperatuurierinevus",
+    "domain": "heat-transfer",
     "source": "https://sonaveeb.ee/search/unif/est/eki/temperatuur/1/est"
   },
   {
@@ -1153,6 +1538,13 @@
     "et": "lõppkiirus",
     "domain": "fluid-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/lõppkiirus/1/est"
+  },
+  {
+    "id": "test-statistic",
+    "en": "test statistic",
+    "et": "teststatistik",
+    "domain": "mathematics",
+    "source": "https://kodu.ut.ee/~maitraag/epi/_book/statistiline-h%C3%BCpoteeside-testimine.html"
   },
   {
     "id": "thermal-conduction",
@@ -1181,6 +1573,20 @@
     "et": "soojuskiirgus",
     "domain": "thermodynamics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/soojuskiirgus/1/est"
+  },
+  {
+    "id": "thickness",
+    "en": "thickness",
+    "et": "paksus",
+    "domain": "physics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/paksus/1/est"
+  },
+  {
+    "id": "threshold-energy",
+    "en": "threshold energy",
+    "et": "lävienergia",
+    "domain": "nuclear-physics",
+    "source": "https://et.wikipedia.org/wiki/Tuumareaktsioon"
   },
   {
     "id": "time",
@@ -1218,6 +1624,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/l%C3%A4bilaskvustegur/1/est"
   },
   {
+    "id": "true-count-rate",
+    "en": "true count rate",
+    "et": "tegelik loendussagedus",
+    "domain": "nuclear-physics",
+    "source": "https://et.wikipedia.org/wiki/Geigeri_loendur"
+  },
+  {
     "id": "turbulent-flow",
     "en": "turbulent flow",
     "et": "turbulentne vool",
@@ -1244,6 +1657,13 @@
     "et": "ühik",
     "domain": "measurement",
     "source": "https://sonaveeb.ee/search/unif/est/eki/ühik/1/est"
+  },
+  {
+    "id": "variance",
+    "en": "variance",
+    "et": "dispersioon",
+    "domain": "mathematics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/dispersioon/1/est"
   },
   {
     "id": "vector",
@@ -1302,6 +1722,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/lainepikkus/1/est"
   },
   {
+    "id": "wavenumber",
+    "en": "wavenumber",
+    "et": "lainearv",
+    "domain": "optics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/lainearv/1/est"
+  },
+  {
     "id": "weight",
     "en": "weight",
     "et": "kaal",
@@ -1316,423 +1743,10 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/töö/1/est"
   },
   {
-    "id": "exponent",
-    "en": "exponent",
-    "et": "astendaja",
-    "domain": "mathematics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/astendaja/1/est"
-  },
-  {
-    "id": "improper-integral",
-    "en": "improper integral",
-    "et": "päratu integraal",
-    "domain": "mathematics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/integraal/1/est"
-  },
-  {
-    "id": "probability",
-    "en": "probability",
-    "et": "tõenäosus",
-    "domain": "mathematics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/tõenäosus/1/est"
-  },
-  {
-    "id": "number-of-trials",
-    "en": "number of trials",
-    "et": "katsete arv",
-    "domain": "mathematics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/katse/1/est"
-  },
-  {
-    "id": "mean",
-    "en": "mean",
-    "et": "keskväärtus",
-    "domain": "mathematics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/keskväärtus/1/est"
-  },
-  {
-    "id": "variance",
-    "en": "variance",
-    "et": "dispersioon",
-    "domain": "mathematics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/dispersioon/1/est"
-  },
-  {
-    "id": "standard-deviation",
-    "en": "standard deviation",
-    "et": "standardhälve",
-    "domain": "mathematics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/standardhälve/1/est"
-  },
-  {
-    "id": "sample-size",
-    "en": "sample size",
-    "et": "valimi suurus",
-    "domain": "mathematics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/valim/1/est"
-  },
-  {
-    "id": "quantile",
-    "en": "quantile",
-    "et": "kvantiil",
-    "domain": "mathematics",
-    "source": "https://kodu.ut.ee/~maitraag/epi/_book/5-3-usaldusvahemik.html"
-  },
-  {
-    "id": "confidence-interval-half-width",
-    "en": "confidence interval half-width",
-    "et": "usaldusvahemiku poolpikkus",
-    "domain": "mathematics",
-    "source": "https://kodu.ut.ee/~maitraag/epi/_book/5-3-usaldusvahemik.html"
-  },
-  {
-    "id": "sample-mean",
-    "en": "sample mean",
-    "et": "valimi keskmine",
-    "domain": "mathematics",
-    "source": "https://kodu.ut.ee/~maitraag/epi/_book/statistiline-h%C3%BCpoteeside-testimine.html"
-  },
-  {
-    "id": "null-hypothesis-mean",
-    "en": "null-hypothesis mean",
-    "et": "nullhüpoteesi keskmine",
-    "domain": "mathematics",
-    "source": "https://kodu.ut.ee/~maitraag/epi/_book/statistiline-h%C3%BCpoteeside-testimine.html"
-  },
-  {
-    "id": "test-statistic",
-    "en": "test statistic",
-    "et": "teststatistik",
-    "domain": "mathematics",
-    "source": "https://kodu.ut.ee/~maitraag/epi/_book/statistiline-h%C3%BCpoteeside-testimine.html"
-  },
-  {
-    "id": "coefficient",
-    "en": "coefficient",
-    "et": "kordaja",
-    "domain": "mathematics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/kordaja/1/est"
-  },
-  {
-    "id": "discriminant",
-    "en": "discriminant",
-    "et": "diskriminant",
-    "domain": "mathematics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/diskriminant/1/est"
-  },
-  {
-    "id": "charge",
-    "en": "charge",
-    "et": "laeng",
-    "domain": "physics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/laeng/1/est"
-  },
-  {
-    "id": "elementary-charge",
-    "en": "elementary charge",
-    "et": "elementaarlaeng",
-    "domain": "physics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/elementaarlaeng/1/est"
-  },
-  {
-    "id": "thickness",
-    "en": "thickness",
-    "et": "paksus",
-    "domain": "physics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/paksus/1/est"
-  },
-  {
-    "id": "number-density",
-    "en": "number density",
-    "et": "kontsentratsioon",
-    "domain": "physics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/kontsentratsioon/1/est"
-  },
-  {
-    "id": "number-of-turns",
-    "en": "number of turns",
-    "et": "keerdude arv",
-    "domain": "physics",
-    "source": "https://et.wikipedia.org/wiki/Trafo"
-  },
-  {
-    "id": "birefringence",
-    "en": "birefringence",
-    "et": "kaksikmurdumine",
-    "domain": "optics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/kaksikmurdumine/1/est"
-  },
-  {
-    "id": "order",
-    "en": "order",
-    "et": "järk",
-    "domain": "optics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/j%C3%A4rk/1/est"
-  },
-  {
-    "id": "radiant-flux",
-    "en": "radiant flux",
-    "et": "kiirgusvoog",
-    "domain": "optics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/kiirgusvoog/1/est"
-  },
-  {
-    "id": "luminous-flux",
-    "en": "luminous flux",
-    "et": "valgusvoog",
-    "domain": "optics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/valgusvoog/1/est"
-  },
-  {
-    "id": "luminous-efficacy",
-    "en": "luminous efficacy",
-    "et": "valgusviljakus",
-    "domain": "optics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/valgusviljakus/1/est"
-  },
-  {
-    "id": "gain",
-    "en": "gain",
-    "et": "võimendus",
-    "domain": "optics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/v%C3%B5imendus/1/est"
-  },
-  {
-    "id": "number-of-dynodes",
-    "en": "number of dynodes",
-    "et": "dünoodide arv",
-    "domain": "optics",
-    "source": "https://et.wikipedia.org/wiki/Fotoelektronkordisti"
-  },
-  {
-    "id": "wavenumber",
-    "en": "wavenumber",
-    "et": "lainearv",
-    "domain": "optics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/lainearv/1/est"
-  },
-  {
-    "id": "reaction-energy",
-    "en": "reaction energy",
-    "et": "reaktsioonienergia",
-    "domain": "nuclear-physics",
-    "source": "https://et.wikipedia.org/wiki/Tuumareaktsioon"
-  },
-  {
-    "id": "threshold-energy",
-    "en": "threshold energy",
-    "et": "lävienergia",
-    "domain": "nuclear-physics",
-    "source": "https://et.wikipedia.org/wiki/Tuumareaktsioon"
-  },
-  {
-    "id": "projectile-mass",
-    "en": "projectile mass",
-    "et": "pommitava osakese mass",
-    "domain": "nuclear-physics",
-    "source": "https://et.wikipedia.org/wiki/Tuumareaktsioon"
-  },
-  {
-    "id": "target-mass",
-    "en": "target mass",
-    "et": "sihtmärgi mass",
-    "domain": "nuclear-physics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/sihtm%C3%A4rk/1/est"
-  },
-  {
-    "id": "magnetic-quantum-number",
-    "en": "magnetic quantum number",
-    "et": "magnetkvantarv",
-    "domain": "quantum-mechanics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/magnetkvantarv/1/est"
-  },
-  {
-    "id": "energy-shift",
-    "en": "energy shift",
-    "et": "energianihe",
-    "domain": "quantum-mechanics",
-    "source": "https://et.wikipedia.org/wiki/Zeemani_efekt"
-  },
-  {
-    "id": "dead-time",
-    "en": "dead time",
-    "et": "surnud aeg",
-    "domain": "nuclear-physics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/surnud%20aeg/1/est"
-  },
-  {
-    "id": "count-rate",
-    "en": "count rate",
-    "et": "loendussagedus",
-    "domain": "nuclear-physics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/loendussagedus/1/est"
-  },
-  {
-    "id": "true-count-rate",
-    "en": "true count rate",
-    "et": "tegelik loendussagedus",
-    "domain": "nuclear-physics",
-    "source": "https://et.wikipedia.org/wiki/Geigeri_loendur"
-  },
-  {
-    "id": "observed-count-rate",
-    "en": "observed count rate",
-    "et": "mõõdetud loendussagedus",
-    "domain": "nuclear-physics",
-    "source": "https://et.wikipedia.org/wiki/Geigeri_loendur"
-  },
-  {
-    "id": "critical-temperature",
-    "en": "critical temperature",
-    "et": "kriitiline temperatuur",
-    "domain": "statistical-mechanics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/kriitiline%20temperatuur/1/est"
-  },
-  {
-    "id": "critical-exponent",
-    "en": "critical exponent",
-    "et": "kriitiline astendaja",
-    "domain": "statistical-mechanics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/kriitiline%20astendaja/1/est"
-  },
-  {
-    "id": "order-parameter",
-    "en": "order parameter",
-    "et": "korrastusparameeter",
-    "domain": "statistical-mechanics",
-    "source": "https://et.wikipedia.org/wiki/Faasisiire"
-  },
-  {
-    "id": "lyapunov-exponent",
-    "en": "Lyapunov exponent",
-    "et": "Ljapunovi eksponent",
-    "domain": "mechanics",
-    "source": "https://ois2.taltech.ee/uusois/aine/OIS3_YFX1560"
-  },
-  {
-    "id": "diffusion-coefficient",
-    "en": "diffusion coefficient",
-    "et": "difusioonitegur",
-    "domain": "statistical-mechanics",
-    "source": "https://et.wikipedia.org/wiki/Difusioon"
-  },
-  {
-    "id": "diameter",
-    "en": "diameter",
-    "et": "läbimõõt",
-    "domain": "mathematics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/l%C3%A4bim%C3%B5%C3%B5t/1/est"
-  },
-  {
-    "id": "stress",
-    "en": "stress",
-    "et": "pinge",
-    "domain": "mechanics-of-materials",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/pinge/1/est"
-  },
-  {
     "id": "yield-strength",
     "en": "yield strength",
     "et": "voolavuspiir",
     "domain": "mechanics-of-materials",
     "source": "https://sonaveeb.ee/search/unif/est/eki/voolavuspiir/1/est"
-  },
-  {
-    "id": "factor-of-safety",
-    "en": "factor of safety",
-    "et": "varutegur",
-    "domain": "mechanics-of-materials",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/varutegur/1/est"
-  },
-  {
-    "id": "compression-ratio",
-    "en": "compression ratio",
-    "et": "kompressioonaste",
-    "domain": "thermodynamics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/kompressioonaste/1/est"
-  },
-  {
-    "id": "heat-capacity-ratio",
-    "en": "heat capacity ratio",
-    "et": "erisoojuste suhe",
-    "domain": "thermodynamics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/erisoojus/1/est"
-  },
-  {
-    "id": "head-loss",
-    "en": "head loss",
-    "et": "hüdrauliline kadu",
-    "domain": "fluid-mechanics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/h%C3%BCdrauliline%20kadu/1/est"
-  },
-  {
-    "id": "proportional-gain",
-    "en": "proportional gain",
-    "et": "proportsionaalne võimendus",
-    "domain": "control-systems",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/v%C3%B5imendus/1/est"
-  },
-  {
-    "id": "controller-output",
-    "en": "controller output",
-    "et": "regulaatori väljund",
-    "domain": "control-systems",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/v%C3%A4ljund/1/est"
-  },
-  {
-    "id": "net-present-value",
-    "en": "net present value",
-    "et": "puhas nüüdisväärtus",
-    "domain": "engineering-economics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/n%C3%BC%C3%BCdisv%C3%A4%C3%A4rtus/1/est"
-  },
-  {
-    "id": "cash-flow",
-    "en": "cash flow",
-    "et": "rahavoog",
-    "domain": "engineering-economics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/rahavoog/1/est"
-  },
-  {
-    "id": "initial-investment",
-    "en": "initial investment",
-    "et": "alginvesteering",
-    "domain": "engineering-economics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/investeering/1/est"
-  },
-  {
-    "id": "discount-rate",
-    "en": "discount rate",
-    "et": "diskontomäär",
-    "domain": "engineering-economics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/diskontom%C3%A4%C3%A4r/1/est"
-  },
-  {
-    "id": "number-of-periods",
-    "en": "number of periods",
-    "et": "perioodide arv",
-    "domain": "engineering-economics",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/periood/1/est"
-  },
-  {
-    "id": "temperature-difference",
-    "en": "temperature difference",
-    "et": "temperatuurierinevus",
-    "domain": "heat-transfer",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/temperatuur/1/est"
-  },
-  {
-    "id": "log-mean-temperature-difference",
-    "en": "log-mean temperature difference",
-    "et": "logaritmiline keskmine temperatuurierinevus",
-    "domain": "heat-transfer",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/temperatuur/1/est"
-  },
-  {
-    "id": "specific-fuel-consumption",
-    "en": "specific fuel consumption",
-    "et": "erikütusekulu",
-    "domain": "propulsion",
-    "source": "https://sonaveeb.ee/search/unif/est/eki/k%C3%BCtusekulu/1/est"
   }
 ]
