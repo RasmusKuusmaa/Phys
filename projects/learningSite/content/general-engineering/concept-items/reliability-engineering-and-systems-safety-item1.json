@@ -1,0 +1,56 @@
+{
+  "id": "reliability-engineering-and-systems-safety-item1",
+  "conceptId": "reliability-engineering-and-systems-safety",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A system has two components in series, each with 95% reliability over the mission period. What is the system's overall reliability, and why is it lower than either component's individual reliability?",
+    "et": "Süsteemil on kaks jadamisi ühendatud komponenti, kummalgi 95% töökindlus missiooniperioodi jooksul. Milline on süsteemi üldine töökindlus ja miks on see madalam kummagi komponendi üksikust töökindlusest?",
+    "sourceHash": "8a361592e2963498",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "correct": true,
+      "label": {
+        "en": "About 90.25% (0.95 x 0.95); in a series arrangement either component failing takes down the whole system, so the probabilities multiply and the result is always below the lower of the two individual reliabilities.",
+        "et": "Umbes 90,25% (0,95 × 0,95); jadapaigutuses viib kummagi komponendi rikkeminek kogu süsteemi rikkeni, seega tõenäosused korrutatakse ning tulemus jääb alati alla mõlemast üksikust töökindlusest.",
+        "sourceHash": "9a482f68d7dd215d",
+        "stale": false
+      }
+    },
+    {
+      "id": "b",
+      "correct": false,
+      "misconceptionId": "reliability-engineering-and-systems-safety-m1",
+      "label": {
+        "en": "About 95%, the average of the two identical component reliabilities.",
+        "et": "Umbes 95%, kahe identse komponendi töökindluse keskmine.",
+        "sourceHash": "c486c4ec98f8b5f3",
+        "stale": false
+      }
+    },
+    {
+      "id": "c",
+      "correct": false,
+      "misconceptionId": "reliability-engineering-and-systems-safety-m2",
+      "label": {
+        "en": "It cannot be lower than 95%, since adding components to a system can never reduce its overall reliability.",
+        "et": "See ei saa olla madalam kui 95%, kuna komponentide lisamine süsteemile ei saa kunagi vähendada selle üldist töökindlust.",
+        "sourceHash": "b93f6e7123347e7c",
+        "stale": false
+      }
+    },
+    {
+      "id": "d",
+      "correct": false,
+      "misconceptionId": "reliability-engineering-and-systems-safety-m3",
+      "label": {
+        "en": "Exactly 95%, since each component is guaranteed to survive the mission period at its stated reliability.",
+        "et": "Täpselt 95%, kuna iga komponent on garanteeritud missiooniperioodi üle elama oma väidetava töökindlusega.",
+        "sourceHash": "1aa60d4ffdc49f54",
+        "stale": false
+      }
+    }
+  ]
+}

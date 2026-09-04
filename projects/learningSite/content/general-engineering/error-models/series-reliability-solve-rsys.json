@@ -1,0 +1,40 @@
+{
+  "id": "series-reliability-solve-rsys",
+  "formulaId": "series-reliability-formula",
+  "solveFor": "Rsys",
+  "mistakes": [
+    {
+      "id": "added-instead-of-multiplied",
+      "expression": "R1+R2",
+      "misconceptionId": "reliability-engineering-and-systems-safety-m1",
+      "description": {
+        "en": "Added the two reliabilities instead of multiplying them, which for a series system is not just wrong but can produce an unphysical value above 1.",
+        "et": "Liitis kaks töökindlust selle asemel, et neid korrutada, mis jadasüsteemi puhul ei ole mitte ainult vale, vaid võib anda ka ebafüüsikalise, üle 1 väärtuse.",
+        "sourceHash": "7947abcd147e8834",
+        "stale": false
+      }
+    },
+    {
+      "id": "averaged",
+      "expression": "(R1+R2)/2",
+      "misconceptionId": "reliability-engineering-and-systems-safety-m1",
+      "description": {
+        "en": "Averaged the two component reliabilities instead of multiplying them.",
+        "et": "Leidis kahe komponendi töökindluse keskmise, selle asemel et neid korrutada.",
+        "sourceHash": "c8205971ec0581b5",
+        "stale": false
+      }
+    },
+    {
+      "id": "used-parallel-formula-for-series",
+      "expression": "1-(1-R1)*(1-R2)",
+      "misconceptionId": "reliability-engineering-and-systems-safety-m2",
+      "description": {
+        "en": "Applied the parallel-redundancy combination formula to a series system, which has the opposite structure.",
+        "et": "Rakendas paralleelse üleliigsuse kombineerimisvalemit jadasüsteemile, millel on vastupidine struktuur.",
+        "sourceHash": "ddd58b08b84a564a",
+        "stale": false
+      }
+    }
+  ]
+}

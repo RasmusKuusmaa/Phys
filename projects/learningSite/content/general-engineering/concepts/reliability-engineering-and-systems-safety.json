@@ -1,0 +1,21 @@
+{
+  "id": "reliability-engineering-and-systems-safety",
+  "subject": "general-engineering",
+  "level": "L3",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Reliability engineering and systems safety",
+    "et": "Töökindlustehnika ja süsteemiohutus",
+    "sourceHash": "197f4b3b79695d21",
+    "stale": false
+  },
+  "summary": {
+    "en": "Reliability engineering quantifies what failure mode and effects analysis treats qualitatively: a component's reliability is the probability it performs its function for a stated period without failing, commonly summarised by its mean time between failures (MTBF), and how individual components' reliabilities combine into a system's overall reliability depends entirely on how those components are arranged -- components in series (where any single one failing takes down the whole system, the default and most fragile arrangement) combine by multiplying their individual reliabilities together, so a system built from many series components can have surprisingly low overall reliability even when every individual component is quite reliable on its own, while components in parallel (redundant backups, where the system only fails if every parallel component fails simultaneously) combine in the opposite direction, so deliberately adding redundancy to a safety-critical subsystem is a direct, quantifiable way to raise overall system reliability rather than merely a qualitative safety gesture.",
+    "et": "Töökindlustehnika kvantifitseerib seda, mida rikke liikide ja mõjude analüüs käsitleb kvalitatiivselt: komponendi töökindlus on tõenäosus, et see täidab oma funktsiooni etteantud perioodi jooksul rikketa, mida sageli kokku võetakse keskmise rikkevaba tööajana (MTBF), ning kuidas üksikute komponentide töökindlused kombineeruvad süsteemi üldiseks töökindluseks, sõltub täielikult sellest, kuidas need komponendid on paigutatud -- jadamisi ühendatud komponendid (kus ükskõik millise ühe rikkeminek viib kogu süsteemi rikkeni, vaikimisi ja kõige haavatavam paigutus) kombineeruvad oma üksikute töökindluste korrutamise teel, nii et paljudest jadamisi komponentidest ehitatud süsteemil võib olla üllatavalt madal üldine töökindlus isegi siis, kui iga üksik komponent on iseenesest üsna töökindel, samas kui paralleelselt ühendatud komponendid (üleliigsed varukomponendid, kus süsteem läheb rikki alles siis, kui kõik paralleelsed komponendid lähevad rikki samaaegselt) kombineeruvad vastupidises suunas, nii et üleliigsuse tahtlik lisamine ohutuskriitilisele alamsüsteemile on otsene, mõõdetav viis üldise süsteemi töökindluse tõstmiseks, mitte pelgalt kvalitatiivne ohutuse žest.",
+    "sourceHash": "02be9db78b121b0a",
+    "stale": false
+  },
+  "prerequisites": [
+    "engineering-design-process"
+  ]
+}

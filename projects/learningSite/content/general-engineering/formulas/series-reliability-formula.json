@@ -1,0 +1,43 @@
+{
+  "id": "series-reliability-formula",
+  "conceptId": "reliability-engineering-and-systems-safety",
+  "latex": "R_{sys} = R_1 R_2",
+  "symbols": [
+    {
+      "symbol": "R1",
+      "name": {
+        "en": "reliability",
+        "et": "töökindlus",
+        "sourceHash": "819bb986f4199f14",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "R2",
+      "name": {
+        "en": "reliability",
+        "et": "töökindlus",
+        "sourceHash": "819bb986f4199f14",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "Rsys",
+      "name": {
+        "en": "reliability",
+        "et": "töökindlus",
+        "sourceHash": "819bb986f4199f14",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "Rsys"
+  ],
+  "expressions": {
+    "Rsys": "R1*R2"
+  }
+}

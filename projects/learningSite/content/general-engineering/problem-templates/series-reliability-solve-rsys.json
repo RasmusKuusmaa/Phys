@@ -1,0 +1,43 @@
+{
+  "id": "series-reliability-solve-rsys",
+  "formulaId": "series-reliability-formula",
+  "variables": [
+    {
+      "symbol": "R1",
+      "min": 0.8,
+      "max": 0.99,
+      "unit": "1",
+      "sigFigs": 4
+    },
+    {
+      "symbol": "R2",
+      "min": 0.8,
+      "max": 0.99,
+      "unit": "1",
+      "sigFigs": 4
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "R1",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "R1",
+      "right": 1
+    },
+    {
+      "op": "gt",
+      "left": "R2",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "R2",
+      "right": 1
+    }
+  ],
+  "solveFor": "Rsys"
+}

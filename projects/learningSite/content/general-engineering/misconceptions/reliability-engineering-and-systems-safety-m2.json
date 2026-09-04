@@ -1,0 +1,10 @@
+{
+  "id": "reliability-engineering-and-systems-safety-m2",
+  "conceptId": "reliability-engineering-and-systems-safety",
+  "text": {
+    "en": "Believing adding more components to a system always makes it less reliable -- this is true for components in series (where every added link is one more way to fail), but adding a component in parallel as redundancy makes the system more reliable, since the system as a whole then only fails if every parallel path fails simultaneously.",
+    "et": "Arvamus, et komponentide lisamine süsteemile muudab selle alati vähem töökindlaks -- see kehtib jadamisi ühendatud komponentide puhul (kus iga lisatud lüli on veel üks võimalus rikkeks), kuid komponendi lisamine paralleelselt üleliigsusena muudab süsteemi töökindlamaks, kuna süsteem tervikuna läheb siis rikki alles siis, kui kõik paralleelsed teed lähevad rikki samaaegselt.",
+    "sourceHash": "174fa3f8f94d05d2",
+    "stale": false
+  }
+}

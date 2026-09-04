@@ -1,0 +1,10 @@
+{
+  "id": "reliability-engineering-and-systems-safety-m3",
+  "conceptId": "reliability-engineering-and-systems-safety",
+  "text": {
+    "en": "Believing a component's MTBF is a guaranteed lifespan -- MTBF is a statistical average over a population of many identical components, and any individual unit can fail well before its stated MTBF (or survive well past it); an MTBF of 10,000 hours does not mean any specific unit is guaranteed to run for 10,000 hours.",
+    "et": "Arvamus, et komponendi MTBF on garanteeritud eluiga -- MTBF on statistiline keskmine paljude identsete komponentide populatsiooni kohta, ning ükskõik milline üksik seade võib minna rikki tunduvalt enne oma väidetavat MTBF-i (või jääda tööle tunduvalt kauemaks); MTBF 10 000 tundi ei tähenda, et konkreetne seade on garanteeritud töötama 10 000 tundi.",
+    "sourceHash": "9f6f5ed9982d38a4",
+    "stale": false
+  }
+}

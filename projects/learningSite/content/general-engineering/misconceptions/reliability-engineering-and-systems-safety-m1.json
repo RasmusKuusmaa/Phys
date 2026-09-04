@@ -1,0 +1,10 @@
+{
+  "id": "reliability-engineering-and-systems-safety-m1",
+  "conceptId": "reliability-engineering-and-systems-safety",
+  "text": {
+    "en": "Believing a system's overall reliability is roughly the average of its components' individual reliabilities -- for components in series, overall reliability is the product of the individual reliabilities, which is always lower than even the least reliable individual component, not an average of them.",
+    "et": "Arvamus, et süsteemi üldine töökindlus on umbes tema komponentide üksikute töökindluste keskmine -- jadamisi ühendatud komponentide puhul on üldine töökindlus üksikute töökindluste korrutis, mis on alati madalam kui isegi kõige vähem töökindel üksikkomponent, mitte nende keskmine.",
+    "sourceHash": "3be2b61ed1e355c8",
+    "stale": false
+  }
+}
