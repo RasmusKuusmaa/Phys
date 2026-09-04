@@ -56,16 +56,35 @@ Phase MA1 complete: 49 mathematics concepts.
 Checked for these specifically (grepped the whole subject for the terms
 first) — all four were completely absent, not just thin:
 
-- [ ] Bayes' theorem and Bayesian inference (the probability/statistics
+- [x] Bayes' theorem and Bayesian inference (the probability/statistics
       modules cover frequentist hypothesis testing and point/interval
       estimation but not Bayesian updating at all)
-- [ ] Ring and field theory (group-theory-and-lie-algebras exists; rings
+- [x] Ring and field theory (group-theory-and-lie-algebras exists; rings
       and fields, the other two basic abstract-algebra structures, do not)
-- [ ] Matrix decompositions (LU, QR, SVD) — the existing
+- [x] Matrix decompositions (LU, QR, SVD) — the existing
       eigenvalues-and-eigenvectors and determinants concepts don't cover
       the standard numerical-linear-algebra factorizations at all
-- [ ] Rigorous limits and continuity (epsilon-delta definitions, uniform
+- [x] Rigorous limits and continuity (epsilon-delta definitions, uniform
       vs. pointwise convergence) — the existing limits-of-functions concept
       is computational/intuitive, not the formal real-analysis definitions
+
+Phase MA2 complete: 53 mathematics concepts. Full `npm run typecheck &&
+npm test -- --run` re-run clean (150/150) partway through this phase.
+
+## Phase MA3 — further gaps (after surveying all 53 existing concepts)
+
+- [ ] Markov chain Monte Carlo methods (bridges the existing
+      markov-chains-and-the-memoryless-property concept in
+      stochastic-processes to the new bayes-theorem-and-bayesian-inference
+      concept — how Bayesian posteriors are actually computed in practice
+      when no closed form exists)
+- [ ] Metric spaces and topology basics (open/closed sets, compactness,
+      connectedness) — the foundational language real analysis and
+      differential geometry are built on, currently assumed rather than
+      built from scratch anywhere in the subject
+- [ ] Combinatorics and counting principles (permutations, combinations,
+      the binomial theorem) — a standard prerequisite to probability that
+      the existing probability-and-statistics modules currently assume
+      rather than build
 
 ---
