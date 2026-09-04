@@ -1,0 +1,19 @@
+{
+  "id": "engineering-design-process",
+  "subject": "general-engineering",
+  "level": "L1",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "The engineering design process",
+    "et": "Inseneriprojekteerimise protsess",
+    "sourceHash": "587c8fa29db08131",
+    "stale": false
+  },
+  "summary": {
+    "en": "Engineering design is not a single pass from requirements to finished product but a deliberately iterative loop -- define requirements and specifications, generate and evaluate candidate designs, build and test a prototype, and use what that test reveals to revise the design -- repeated as many times as the requirements demand before committing to production; two disciplines run alongside this loop specifically to manage risk rather than treat it as an afterthought: failure mode and effects analysis (FMEA) proactively catalogs how a design could plausibly fail and ranks each mode by its severity, likelihood, and how easily it would be detected before causing harm, and a chosen factor of safety (or other explicit design margin) sets, in advance, how much stronger, thicker, or more conservative a design will be than the minimum its calculations say is required, given the uncertainty in loads, materials, and manufacturing that any real design faces.",
+    "et": "Inseneriprojekteerimine ei ole üksainus läbimine nõuetest valmis tooteni, vaid teadlikult iteratiivne tsükkel -- määratleda nõuded ja spetsifikatsioonid, genereerida ja hinnata kandidaatlahendusi, ehitada ja katsetada prototüüp ning kasutada katse tulemusi disaini täiendamiseks -- korratuna nii mitu korda, kui nõuded seda eeldavad, enne tootmisse suunamist; sellega paralleelselt käib kaks distsipliini, mis on mõeldud spetsiaalselt riski juhtimiseks, mitte selle käsitlemiseks järelmõttena: rikke liikide ja mõjude analüüs (FMEA) kataloogib ennetavalt, kuidas disain võiks usutavalt rikkis minna, ning järjestab iga rikkeliigi selle tõsiduse, tõenäosuse ja selle järgi, kui kergesti see enne kahju tekitamist avastataks, ning valitud varutegur (või muu selgesõnaline projekteerimismarginaal) määrab ette ära, kui palju tugevam, paksem või konservatiivsem disain on võrreldes miinimumiga, mida arvutused nõuavad, arvestades reaalse projekteerimise ees seisvat ebakindlust koormuste, materjalide ja tootmise osas.",
+    "sourceHash": "ed63f6684b328029",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "engineering-design-process-m1",
+  "conceptId": "engineering-design-process",
+  "text": {
+    "en": "Believing that having to revise a design after a prototype test reveals a problem means the original design process failed -- iteration (design, build, test, revise) is a normal, planned part of the engineering design process, not evidence of a mistake; a design process that never needed revision would be unusual, not exemplary.",
+    "et": "Arvamus, et disaini muutmine pärast seda, kui prototüübi katse paljastab probleemi, tähendab, et algne disainiprotsess ebaõnnestus -- iteratsioon (disain, ehitus, katse, täiendamine) on inseneriprojekteerimise protsessi tavaline, planeeritud osa, mitte vea tõend; disainiprotsess, mis kunagi täiendamist ei vajaks, oleks ebatavaline, mitte eeskujulik.",
+    "sourceHash": "65fa5169c734cf3a",
+    "stale": false
+  }
+}

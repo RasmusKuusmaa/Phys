@@ -1,0 +1,10 @@
+{
+  "id": "engineering-design-process-m3",
+  "conceptId": "engineering-design-process",
+  "text": {
+    "en": "Believing a larger safety or design margin is always the correct response to any identified risk in the design process -- every added margin trades off against cost, weight, or performance elsewhere in the design, so the design process weighs the consequence and likelihood of a given failure mode against those costs rather than defaulting to maximum margin everywhere.",
+    "et": "Arvamus, et suurem ohutus- või projekteerimismarginaal on alati õige vastus mistahes tuvastatud riskile disainiprotsessis -- iga lisatud marginaal toob kaasa kulu, massi või jõudluse languse mujal disainis, mistõttu disainiprotsess kaalub konkreetse rikkeliigi tagajärge ja tõenäosust nende kulude vastu, mitte ei rakenda vaikimisi maksimaalset marginaali kõikjal.",
+    "sourceHash": "0ca234221422ea69",
+    "stale": false
+  }
+}

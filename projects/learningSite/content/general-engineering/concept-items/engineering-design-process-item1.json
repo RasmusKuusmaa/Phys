@@ -1,0 +1,56 @@
+{
+  "id": "engineering-design-process-item1",
+  "conceptId": "engineering-design-process",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A prototype fails a stress test partway through the design process. What does this indicate, and when should a Failure Mode and Effects Analysis (FMEA) have been performed?",
+    "et": "Prototüüp ebaõnnestub pinge testis projekteerimisprotsessi käigus. Mida see näitab ning millal oleks pidanud tegema rikke liikide ja mõjude analüüsi (FMEA)?",
+    "sourceHash": "8f63e1c352e01a99",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "This is a normal part of the iterative design process, not proof the process failed; and an FMEA should already have been performed proactively, during design, to catalog and prioritize plausible failure modes before any prototype was even built.",
+        "et": "See on iteratiivse disainiprotsessi normaalne osa, mitte tõend protsessi ebaõnnestumisest; ning FMEA oleks pidanud olema tehtud juba ennetavalt projekteerimise käigus, et kataloogida ja prioriseerida usutavaid rikkeliike enne, kui ükski prototüüp üldse valmistati.",
+        "sourceHash": "696dcc9429d73b65",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shows the original design process failed, since a correctly executed process would not have needed revision.",
+        "et": "See näitab, et algne disainiprotsess ebaõnnestus, kuna korrektselt läbi viidud protsess poleks vajanud täiendamist.",
+        "sourceHash": "8775164c95ab132d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-design-process-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "An FMEA should now be performed to explain, after the fact, what went wrong.",
+        "et": "FMEA tuleks nüüd teha, et tagantjärele selgitada, mis valesti läks.",
+        "sourceHash": "78ac854a13e629f0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-design-process-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The correct response is always to add the maximum possible safety margin to eliminate the risk entirely.",
+        "et": "Õige vastus on alati lisada maksimaalne võimalik ohutusvaru, et risk täielikult kõrvaldada.",
+        "sourceHash": "fc2674510478c864",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-design-process-m3"
+    }
+  ]
+}

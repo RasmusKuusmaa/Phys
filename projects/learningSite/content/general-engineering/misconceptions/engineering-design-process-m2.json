@@ -1,0 +1,10 @@
+{
+  "id": "engineering-design-process-m2",
+  "conceptId": "engineering-design-process",
+  "text": {
+    "en": "Believing a Failure Mode and Effects Analysis (FMEA) is something performed only after a failure has actually occurred, to explain what went wrong -- FMEA is a proactive tool used during design, before a single unit has ever failed, to systematically catalog plausible failure modes and rank them by severity, likelihood, and detectability so the highest-priority risks get engineering attention first.",
+    "et": "Arvamus, et rikke liikide ja mõjude analüüs (FMEA) on midagi, mida tehakse alles pärast tegeliku rikke toimumist, et selgitada, mis valesti läks -- FMEA on ennetav vahend, mida kasutatakse projekteerimise ajal, enne kui ükski üksus on veel rikkis läinud, et süstemaatiliselt kataloogida usutavaid rikkeliike ja järjestada need tõsiduse, tõenäosuse ja avastatavuse järgi, nii et kõrgeima prioriteediga riskid saavad tähelepanu esimesena.",
+    "sourceHash": "9e5bb0ee54198afb",
+    "stale": false
+  }
+}
