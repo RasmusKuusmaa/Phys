@@ -1,0 +1,19 @@
+{
+  "id": "fungal-and-parasitic-pathogens",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "microbiology",
+  "title": {
+    "en": "Fungal and parasitic pathogens",
+    "et": "Seenpatogeenid ja parasiidid",
+    "sourceHash": "6b224b09d0608b29",
+    "stale": false
+  },
+  "summary": {
+    "en": "Fungi and parasites are eukaryotic pathogens -- they have a true nucleus and membrane-bound organelles, unlike bacteria -- which makes them, in an important practical sense, more similar to human cells than bacteria are, and correspondingly harder to target with a drug that kills the pathogen without also harming the human host. Pathogenic fungi fall into two rough structural categories: yeasts, single-celled fungi that reproduce by budding (Candida is the classic example), and molds, which grow as multicellular branching filaments called hyphae; fungal infections range from superficial (ringworm, athlete's foot) to genuinely life-threatening invasive infections in people with a weakened immune system, whose own defenses would normally keep these fungi in check. Parasites are an even more diverse category, spanning single-celled protozoa (like the Plasmodium species that cause malaria, transmitted by mosquito bite) and multicellular helminths -- parasitic worms including tapeworms, roundworms, and flukes, which can survive for years inside a human host, some by evading immune detection and others by living in a location the immune system has limited access to. Because fungi and parasites are so much more similar to human cells at the molecular level than bacteria are, far fewer safe, selective drug targets exist for either group than exist for bacterial infections, which is a major reason antifungal and antiparasitic drug development lags behind antibacterial drug development.",
+    "et": "Seened ja parasiidid on eukarüootsed patogeenid -- neil on tõeline tuum ja membraaniga ümbritsetud organellid, erinevalt bakteritest --, mis muudab need olulises praktilises mõttes inimrakkudele sarnasemaks kui bakterid, ning vastavalt raskemini sihitavaks ravimiga, mis tapab patogeeni ilma inimest kahjustamata. Patogeensed seened jagunevad kahte laia struktuurilisse kategooriasse: pärmseened, üherakulised seened, mis paljunevad pungumise teel (Candida on klassikaline näide), ja hallitusseened, mis kasvavad mitmerakuliste hargnevate niitidena, mida nimetatakse hüüfideks; seeninfektsioonid ulatuvad pindmistest (dermatofütoos, jalaseen) tõeliselt eluohtlike invasiivsete infektsioonideni inimestel, kelle immuunsüsteem on nõrgenenud ja kelle enda kaitse hoiaks neid seeni tavaliselt kontrolli all. Parasiidid on veelgi mitmekesisem kategooria, hõlmates üherakulisi algloomi (nagu Plasmodium liigid, mis põhjustavad malaariat ja levivad sääsehammustuse kaudu) ja mitmerakulisi usse -- parasiitseid usse, sealhulgas paelussid, ümarussid ja lestad, kes suudavad elada inimperemehes aastaid, mõned vältides immuunsüsteemi avastamist ja teised elades kohas, kuhu immuunsüsteemil on piiratud ligipääs. Kuna seened ja parasiidid on molekulaarsel tasandil inimrakkudele palju sarnasemad kui bakterid, on mõlema rühma jaoks olemas palju vähem ohutuid, selektiivseid ravimisihtmärke kui bakteriaalsete infektsioonide jaoks, mis on peamine põhjus, miks seenevastaste ja parasiidivastaste ravimite väljatöötamine jääb bakterivastastest ravimitest maha.",
+    "sourceHash": "871f8204de35b84a",
+    "stale": false
+  },
+  "prerequisites": []
+}

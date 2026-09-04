@@ -1,0 +1,10 @@
+{
+  "id": "fungal-and-parasitic-pathogens-m1",
+  "conceptId": "fungal-and-parasitic-pathogens",
+  "text": {
+    "en": "Fungi and parasites are basically just larger, more complex bacteria, so antibiotics should work against them too, just maybe needing a higher dose -- in reality, fungi and parasites are eukaryotic, sharing the same fundamental cell type as human cells (true nucleus, membrane-bound organelles), while bacteria are prokaryotic with a fundamentally different cell architecture; antibiotics work by targeting specifically bacterial/prokaryotic structures and processes (like peptidoglycan cell walls or bacterial-type ribosomes) that simply don't exist in fungal or parasitic cells the same way, so antibiotics have no meaningful effect on fungal or parasitic infections regardless of dose.",
+    "et": "Seened ja parasiidid on sisuliselt lihtsalt suuremad, keerukamad bakterid, mistõttu antibiootikumid peaksid nende vastu ka toimima, ehk vaid suuremat annust vajades -- tegelikult on seened ja parasiidid eukarüootsed, jagades sama põhilist rakutüüpi inimrakkudega (tõeline tuum, membraaniga ümbritsetud organellid), samas kui bakterid on prokarüootsed, fundamentaalselt erineva rakuarhitektuuriga; antibiootikumid toimivad, sihtides spetsiifiliselt bakteriaalseid ehk prokarüootseid struktuure ja protsesse (nagu peptidoglükaanist rakuseinad või bakteri-tüüpi ribosoomid), mida seene- või parasiidirakkudel samal kujul lihtsalt pole, mistõttu antibiootikumidel pole seene- või parasiidinfektsioonidele mingit olulist mõju, sõltumata annusest.",
+    "sourceHash": "ac55132355ebf44a",
+    "stale": false
+  }
+}

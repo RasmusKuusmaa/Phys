@@ -1,0 +1,56 @@
+{
+  "id": "fungal-and-parasitic-pathogens-item1",
+  "conceptId": "fungal-and-parasitic-pathogens",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why are there generally far fewer safe, effective antifungal and antiparasitic drugs available compared to antibacterial drugs?",
+    "et": "Miks on üldiselt saadaval palju vähem ohutuid, tõhusaid seene- ja parasiidivastaseid ravimeid võrreldes antibakteriaalsete ravimitega?",
+    "sourceHash": "8f57f5ef7cfda7ba",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because fungi and parasites are eukaryotic and share much more cellular machinery with human cells than bacteria do, making it much harder to find a drug target present in the pathogen but safely absent from human cells.",
+        "et": "Sest seened ja parasiidid on eukarüootsed ning jagavad palju rohkem raku masinavärki inimrakkudega kui bakterid, mistõttu on palju raskem leida ravimisihtmärki, mis on patogeenis olemas, kuid inimrakkudest ohutult puudub.",
+        "sourceHash": "684d5914e3adfa98",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because fungi and parasites are simply more complex, larger versions of bacteria, so existing antibiotics already work reasonably well against them and little further drug development has been needed.",
+        "et": "Sest seened ja parasiidid on lihtsalt keerukamad, suuremad bakterite versioonid, mistõttu olemasolevad antibiootikumid juba toimivad nende vastu mõistlikult hästi ja täiendavat ravimiarendust pole vaja olnud.",
+        "sourceHash": "654447431268aab9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fungal-and-parasitic-pathogens-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "There actually isn't a meaningful difference in the number of available drug classes -- antifungal and antiparasitic drugs are just as numerous and just as selective as antibacterial drugs.",
+        "et": "Tegelikult ei ole saadaolevate ravimiklasside arvus olulist erinevust -- seene- ja parasiidivastased ravimid on sama arvukad ja sama selektiivsed kui antibakteriaalsed ravimid.",
+        "sourceHash": "12e164a14de3269a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fungal-and-parasitic-pathogens-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because fungal and parasitic infections are so immediately obvious and severe that they are usually treated with surgery rather than drugs, reducing the need for pharmaceutical development.",
+        "et": "Sest seen- ja parasiitinfektsioonid on nii kohe ilmsed ja tõsised, et neid ravitakse tavaliselt kirurgiliselt, mitte ravimitega, vähendades farmaatsiaarenduse vajadust.",
+        "sourceHash": "2ae45a815214500c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "fungal-and-parasitic-pathogens-m3"
+    }
+  ]
+}

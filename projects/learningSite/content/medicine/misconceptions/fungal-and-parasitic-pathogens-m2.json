@@ -1,0 +1,10 @@
+{
+  "id": "fungal-and-parasitic-pathogens-m2",
+  "conceptId": "fungal-and-parasitic-pathogens",
+  "text": {
+    "en": "Since fungi and parasites are eukaryotic like human cells, drugs that target them should be just as easy to make safe and selective as antibacterial drugs -- in reality, it's precisely because fungi and parasites are eukaryotic, and therefore share much more cellular machinery with human cells than bacteria do, that finding a drug target present in the pathogen but reliably absent (or different enough) in human cells is much harder; this is a major reason there are far fewer antifungal and antiparasitic drug classes available than antibacterial ones, and why the antifungal/antiparasitic drugs that do exist often carry a narrower safety margin.",
+    "et": "Kuna seened ja parasiidid on eukarüootsed nagu inimrakud, peaks neid sihtivate ravimite tegemine olema sama lihtne ja selektiivne kui antibakteriaalsete ravimite puhul -- tegelikult on just seetõttu, et seened ja parasiidid on eukarüootsed ja jagavad seega palju rohkem raku masinavärki inimrakkudega kui bakterid, palju raskem leida ravimisihtmärki, mis on patogeenis olemas, kuid inimrakkudes usaldusväärselt puuduv (või piisavalt erinev); see on peamine põhjus, miks seenevastaseid ja parasiidivastaseid ravimiklasse on saadaval palju vähem kui antibakteriaalseid, ning miks olemasolevatel seene- ja parasiidivastastel ravimitel on sageli kitsam ohutusmarginaal.",
+    "sourceHash": "a22f0894e50a0b7c",
+    "stale": false
+  }
+}
