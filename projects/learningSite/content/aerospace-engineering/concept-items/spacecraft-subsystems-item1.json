@@ -1,0 +1,56 @@
+{
+  "id": "spacecraft-subsystems-item1",
+  "conceptId": "spacecraft-subsystems",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A spacecraft needs to rotate 90 degrees to point a camera at a new target, then hold that new orientation. Why doesn't this maneuver, by itself, use up any of the spacecraft's limited propellant supply?",
+    "et": "Kosmoseaparaat peab kaamera uuele sihtmärgile suunamiseks pöörama 90 kraadi ja seejärel hoidma seda uut orientatsiooni. Miks ei kuluta see manööver iseenesest kosmoseaparaadi piiratud töömassivaru?",
+    "sourceHash": "62d17f78003581e1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The spacecraft's reaction wheels spin an internal flywheel faster or slower; by conservation of angular momentum this exchanges angular momentum between the flywheel and the spacecraft body, rotating the spacecraft without expelling any mass, and propellant is only needed later to desaturate the wheels once they approach their maximum speed.",
+        "et": "Kosmoseaparaadi reaktsioonihoorattad pöörlevad kiiremini või aeglasemalt; nurkimpulsi jäävuse tõttu vahetab see nurkimpulssi hooratta ja kosmoseaparaadi keha vahel, pöörates kosmoseaparaati ilma ühtegi massi välja paiskamata, ning töömassi vajatakse alles hiljem, et vähendada hoorataste nurkimpulssi, kui need lähenevad oma maksimumkiirusele.",
+        "sourceHash": "8eb26013236cf286",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The maneuver does use propellant, just from small precision thrusters rather than the main engine, so the mission's propellant budget must include an allowance for every attitude change the spacecraft ever performs.",
+        "et": "Manööver kasutab siiski töömassi, lihtsalt väikeste täppistõukurite kaudu, mitte peamootorist, mistõttu missiooni töömassieelarve peab sisaldama varu iga kosmoseaparaadi tehtava asendimuutuse jaoks.",
+        "sourceHash": "1674cccc19a191d0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spacecraft-subsystems-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The spacecraft's cold shaded side provides enough of a temperature gradient to drive the rotation thermally, without needing any powered actuator at all.",
+        "et": "Kosmoseaparaadi külm varjupoolne külg tekitab piisava temperatuurigradiendi, et pöörata kosmoseaparaati termiliselt, ilma ühtegi toidetud ajamit vajamata.",
+        "sourceHash": "7f2a81a48134c5f0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spacecraft-subsystems-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The rotation is powered directly and continuously by the solar arrays, which is possible only because the maneuver happens to occur while the spacecraft is in full sunlight rather than in the planet's shadow.",
+        "et": "Pööramist toidavad otse ja pidevalt päikesepaneelid, mis on võimalik ainult seetõttu, et manööver toimub juhuslikult ajal, mil kosmoseaparaat on täies päikesevalguses, mitte planeedi varjus.",
+        "sourceHash": "cd8801a175b285a2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "spacecraft-subsystems-m3"
+    }
+  ]
+}

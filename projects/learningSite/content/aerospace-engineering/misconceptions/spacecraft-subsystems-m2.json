@@ -1,0 +1,10 @@
+{
+  "id": "spacecraft-subsystems-m2",
+  "conceptId": "spacecraft-subsystems",
+  "text": {
+    "en": "Believing that because space is cold, keeping a spacecraft's electronics warm is the main thermal challenge -- in fact a spacecraft in direct sunlight with no atmosphere to carry heat away can overheat severely on its sunlit face while its shaded face is extremely cold at the same time, so thermal control is just as much about rejecting excess heat as it is about retaining it, and both problems occur simultaneously on different faces of the same spacecraft.",
+    "et": "Arvamus, et kuna kosmos on külm, on kosmoseaparaadi elektroonika soojana hoidmine peamine termiline väljakutse -- tegelikult võib otsese päikesevalguse käes olev kosmoseaparaat, millel puudub atmosfäär soojuse äraviimiseks, oma päikesepoolsel küljel tugevalt üle kuumeneda, samal ajal kui varjupoolne külg on äärmiselt külm, mistõttu termoregulatsioon tegeleb sama palju liigse soojuse äravisamisega kui selle säilitamisega, ning mõlemad probleemid esinevad samaaegselt sama kosmoseaparaadi eri külgedel.",
+    "sourceHash": "77f1043fab208e27",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "spacecraft-subsystems",
+  "subject": "aerospace-engineering",
+  "level": "L2",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Spacecraft subsystems",
+    "et": "Kosmoseaparaadi allsüsteemid",
+    "sourceHash": "ebec3d909d7fad5a",
+    "stale": false
+  },
+  "summary": {
+    "en": "A spacecraft's payload -- the instruments or cargo that justify the mission -- only functions because a set of supporting subsystems, together called the spacecraft bus, keep it alive and correctly oriented. The attitude determination and control subsystem points the spacecraft using sensors (star trackers, sun sensors, gyroscopes) and reaction wheels: spinning flywheels that, by conservation of angular momentum, rotate the spacecraft body in the opposite sense as the wheel speeds up, letting the spacecraft change orientation without expelling any propellant at all -- thrusters are only needed occasionally afterward, to desaturate the wheels once their stored momentum approaches its maximum. The thermal control subsystem manages a fact with no everyday analogue: in vacuum, heat leaves a spacecraft only by radiation, so a spacecraft in direct sunlight can be scorching on its sunlit face while its shaded face is extremely cold at the same moment, requiring multi-layer insulation, radiators, and sometimes heaters working simultaneously rather than a single 'keep it warm' or 'keep it cool' strategy. The electrical power subsystem generates power with solar arrays sized to the mission's power budget and stores it in batteries specifically sized to cover the spacecraft's time in the planet's shadow, since solar arrays produce nothing at all during that period -- none of these subsystems appear in mission-poster imagery the way the payload instrument does, but a failure in any one of them ends the mission just as surely as a failure of the instrument itself.",
+    "et": "Kosmoseaparaadi kasulik koormus -- instrumendid või last, mis annavad missioonile mõtte -- toimib ainult tänu tugisüsteemide kogumile, mida koos nimetatakse kosmoseaparaadi aluseks (bus), mis hoiavad seda töökorras ja õigesti suunatuna. Asendi määramise ja juhtimise allsüsteem suunab kosmoseaparaati andurite (tähejälgijad, päikeseandurid, güroskoobid) ja reaktsioonihoorataste abil: pöörlevad hoorattad, mis nurkimpulsi jäävuse tõttu pööravad kosmoseaparaadi keha hooratta kiirenemisel vastassuunas, lubades kosmoseaparaadil muuta orientatsiooni ilma ühtegi töömassi välja paiskamata -- tõukureid vajatakse hiljem vaid aeg-ajalt, et vähendada hoorataste salvestatud nurkimpulssi, kui see läheneb maksimumile. Termoregulatsiooni allsüsteem tegeleb asjaoluga, millel puudub igapäevane analoog: vaakumis lahkub soojus kosmoseaparaadist ainult kiirguse teel, mistõttu otsese päikesevalguse käes olev kosmoseaparaat võib olla oma päikesepoolsel küljel tulikuum, samal ajal kui varjupoolne külg on äärmiselt külm, nõudes samaaegselt töötavaid mitmekihilist soojusisolatsiooni, radiaatoreid ja mõnikord ka soojendeid, mitte ühte 'hoia soojana' või 'hoia jahedana' strateegiat. Elektritoite allsüsteem toodab energiat päikesepaneelidega, mis on dimensioneeritud missiooni energiaeelarje järgi, ning salvestab seda akudesse, mis on spetsiaalselt dimensioneeritud katma kosmoseaparaadi aega planeedi varjus, sest päikesepaneelid ei tooda sel ajal üldse energiat -- ükski neist allsüsteemidest ei ilmu missiooniplakatite kujutistel nii, nagu kasulik instrument, kuid iga ühe rike lõpetab missiooni sama kindlalt kui instrumendi enda rike.",
+    "sourceHash": "4627751157dbe4a3",
+    "stale": false
+  },
+  "prerequisites": [
+    "orbital-mechanics-and-spaceflight"
+  ]
+}

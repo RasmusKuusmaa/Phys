@@ -1,0 +1,10 @@
+{
+  "id": "spacecraft-subsystems-m3",
+  "conceptId": "spacecraft-subsystems",
+  "text": {
+    "en": "Believing solar arrays alone are sufficient to power a spacecraft continuously -- in fact an orbiting spacecraft regularly passes through the planet's shadow, where solar arrays produce no power at all, so batteries sized to cover the longest expected period in shadow are a mandatory, load-bearing part of the power subsystem, not a backup reserved for an unlikely failure.",
+    "et": "Arvamus, et päikesepaneelidest üksi piisab kosmoseaparaadi pidevaks toitmiseks -- tegelikult läbib orbiidil olev kosmoseaparaat regulaarselt planeedi varju, kus päikesepaneelid ei tooda üldse energiat, mistõttu pikima oodatava varjus oleku aja katmiseks dimensioneeritud akud on toitesüsteemi kohustuslik, kandev osa, mitte varu, mis on reserveeritud ebatõenäolise rikke jaoks.",
+    "sourceHash": "2e5a34de2cef7bbc",
+    "stale": false
+  }
+}

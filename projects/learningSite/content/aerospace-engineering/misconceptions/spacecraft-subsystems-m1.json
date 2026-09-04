@@ -1,0 +1,10 @@
+{
+  "id": "spacecraft-subsystems-m1",
+  "conceptId": "spacecraft-subsystems",
+  "text": {
+    "en": "Believing reaction wheels consume propellant or fuel to reorient a spacecraft, the same way a thruster does -- in fact reaction wheels are propellant-free: they spin an internal flywheel and exchange angular momentum with the spacecraft body by conservation of angular momentum, using only electrical power, and propellant is needed only occasionally afterward, to desaturate the wheels once their stored momentum approaches its maximum.",
+    "et": "Arvamus, et reaktsioonihoorattad kulutavad kosmoseaparaadi ümberorienteerimiseks töömassi või kütust, samamoodi nagu tõukur -- tegelikult on reaktsioonihoorattad töömassivabad: need pöörlevad sisemise hooratta abil ja vahetavad kosmoseaparaadi kehaga nurkimpulssi nurkimpulsi jäävuse tõttu, kasutades ainult elektrienergiat, ning töömassi vajatakse hiljem vaid aeg-ajalt, et vähendada hoorataste salvestatud nurkimpulssi, kui see läheneb maksimumile.",
+    "sourceHash": "fa1223ecec979ffb",
+    "stale": false
+  }
+}
