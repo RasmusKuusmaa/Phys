@@ -1,0 +1,21 @@
+{
+  "id": "pancreatic-endocrine-function-and-glucose-homeostasis",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "endocrinology",
+  "title": {
+    "en": "Pancreatic endocrine function and glucose homeostasis",
+    "et": "Pankrease endokriinfunktsioon ja glükoosi homöostaas",
+    "sourceHash": "f86647bdd1cced03",
+    "stale": false
+  },
+  "summary": {
+    "en": "The pancreas is mostly an exocrine organ (secreting digestive enzymes into the gut, already covered in this subject's digestive-system concept), but scattered through it are small hormone-producing clusters called the islets of Langerhans, whose beta cells and alpha cells run the body's primary glucose-regulating feedback loop. Rising blood glucose after a meal triggers beta cells to release insulin, which lowers blood glucose by driving most of the body's cells to take glucose up from the blood and by signaling the liver to store incoming glucose as glycogen rather than releasing more of its own; falling blood glucose between meals triggers alpha cells to release glucagon instead, which acts on the liver in the opposite direction, breaking stored glycogen back down into glucose and releasing it into the bloodstream. This is a genuine push-pull feedback system, not two hormones with the same job in reserve of each other -- insulin and glucagon are secreted in a reciprocal pattern, so glucose homeostasis depends on both signals moving correctly in opposite directions, not simply on insulin working harder or weaker on its own.",
+    "et": "Pankreas on peamiselt eksokriinne organ (eritab seedeensüüme soolde, mida on selle aine seedesüsteemi mõistes juba käsitletud), kuid selle sees on hajutatud väikesed hormoone tootvad kobarad, mida nimetatakse Langerhansi saarekesteks, mille beetarakud ja alfarakud käitavad keha peamist glükoosi reguleerivat tagasisideahelat. Söögijärgne vere glükoositaseme tõus käivitab beetarakkude insuliini vabanemise, mis langetab vere glükoositaset, pannes enamiku keha rakke verest glükoosi omastama ning andes maksale signaali säilitada sissetulev glükoos glükogeenina, mitte vabastada rohkem oma glükoosi; söögikordade vahel langev vere glükoositase käivitab selle asemel alfarakkude glükagooni vabanemise, mis toimib maksale vastupidises suunas, lagundades salvestatud glükogeeni tagasi glükoosiks ja vabastades selle vereringesse. See on tõeline tõuke-tõmbe tagasisidesüsteem, mitte kaks sama ülesandega hormooni üksteise varuks -- insuliini ja glükagooni eritatakse vastastikuses mustris, mistõttu glükoosi homöostaas sõltub mõlema signaali õigest liikumisest vastupidises suunas, mitte lihtsalt insuliini tugevamast või nõrgemast toimest üksinda.",
+    "sourceHash": "f912de19c5f61fb1",
+    "stale": false
+  },
+  "prerequisites": [
+    "digestive-system-anatomy-and-physiology"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pancreatic-endocrine-function-and-glucose-homeostasis-m1",
+  "conceptId": "pancreatic-endocrine-function-and-glucose-homeostasis",
+  "text": {
+    "en": "Insulin's only job is to let glucose into cells; it has no other metabolic role -- in reality, insulin also signals the liver to store incoming glucose as glycogen rather than release its own stored glucose, and influences fat and protein metabolism as well -- its role is broader than glucose uptake into cells alone, which is only part of how it lowers blood glucose.",
+    "et": "Insuliini ainus ülesanne on lasta glükoosil rakkudesse siseneda; sellel puudub muu ainevahetuslik roll -- tegelikult annab insuliin ka maksale signaali säilitada sissetulev glükoos glükogeenina, selle asemel et vabastada oma salvestatud glükoosi, ning mõjutab ka rasva- ja valguainevahetust -- selle roll on laiem kui pelgalt glükoosi omastamine rakkudesse, mis on vaid osa sellest, kuidas see vere glükoositaset langetab.",
+    "sourceHash": "142edbcb0657034c",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pancreatic-endocrine-function-and-glucose-homeostasis-m2",
+  "conceptId": "pancreatic-endocrine-function-and-glucose-homeostasis",
+  "text": {
+    "en": "Glucagon is just a backup for when insulin isn't working, kept in reserve rather than actively used -- in reality, insulin and glucagon are secreted in a continuous, reciprocal push-pull pattern in a healthy person, not one held in reserve for when the other fails -- glucagon rises actively between meals as glucose falls, working in the opposite direction from insulin's post-meal rise, and both are always part of normal glucose regulation.",
+    "et": "Glükagoon on lihtsalt varuvariant, mida kasutatakse siis, kui insuliin ei tööta, hoides seda tagavaraks, mitte aktiivselt kasutades -- tegelikult eritatakse insuliini ja glükagooni tervel inimesel pidevas, vastastikuses tõuke-tõmbe mustris, mitte hoides üht teise ebaõnnestumise puhuks tagavaraks -- glükagoon tõuseb aktiivselt söögikordade vahel, kui glükoos langeb, toimides vastassuunas insuliini söögijärgse tõusuga, ning mõlemad on alati normaalse glükoosi reguleerimise osa.",
+    "sourceHash": "8d85b84a0f2f2365",
+    "stale": false
+  }
+}

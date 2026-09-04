@@ -1,0 +1,56 @@
+{
+  "id": "pancreatic-endocrine-function-and-glucose-homeostasis-item1",
+  "conceptId": "pancreatic-endocrine-function-and-glucose-homeostasis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Between meals, as blood glucose starts to fall, what happens to insulin and glucagon secretion?",
+    "et": "Söögikordade vahel, kui vere glükoositase hakkab langema, mis juhtub insuliini ja glükagooni eritumisega?",
+    "sourceHash": "f810f0aad9430afa",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Glucagon secretion from alpha cells rises, prompting the liver to break down stored glycogen into glucose, while insulin secretion from beta cells falls.",
+        "et": "Alfarakkude glükagooni eritumine tõuseb, ajendades maksa lagundama salvestatud glükogeeni glükoosiks, samas kui beetarakkude insuliini eritumine langeb.",
+        "sourceHash": "98c907b641a3f93b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Insulin secretion continues at the same rate, since its only job (letting glucose into cells) isn't needed when glucose is already low.",
+        "et": "Insuliini eritumine jätkub samas tempos, kuna selle ainus ülesanne (glükoosi rakkudesse laskmine) pole vajalik, kui glükoos on juba madal.",
+        "sourceHash": "9c3691cbc93c8928",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pancreatic-endocrine-function-and-glucose-homeostasis-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Glucagon stays in reserve and is not released unless insulin secretion has completely stopped.",
+        "et": "Glükagoon jääb tagavaraks ega vabane, kuni insuliini eritumine pole täielikult peatunud.",
+        "sourceHash": "09bf37991d33020f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pancreatic-endocrine-function-and-glucose-homeostasis-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The pancreas shifts from digestive enzyme production to hormone production, since it can only do one job at a time.",
+        "et": "Pankreas lülitub seedeensüümide tootmiselt hormoonide tootmisele, kuna see suudab korraga teha ainult üht tööd.",
+        "sourceHash": "9b96766f2b45e9db",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pancreatic-endocrine-function-and-glucose-homeostasis-m3"
+    }
+  ]
+}
