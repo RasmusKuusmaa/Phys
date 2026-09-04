@@ -64,28 +64,48 @@ git log --oneline | grep '^content: add '   # concepts already landed
 Single module for now (`biohacking-fundamentals`), same one-module-through-
 later-phases pattern every new subject on this site has started with.
 
-- [ ] Evidence hierarchy and critical evaluation of health claims
+- [x] Evidence hierarchy and critical evaluation of health claims
       (randomized controlled trials vs. observational studies vs. anecdote;
       publication bias, confounding, regression to the mean — the
       scientific-literacy foundation every other concept in this subject
       leans on; no prerequisites)
-- [ ] Circadian rhythm and light-based optimization (the suprachiasmatic
+- [x] Circadian rhythm and light-based optimization (the suprachiasmatic
       clock, light exposure timing, melatonin, jet lag and shift work; no
       prerequisites)
-- [ ] Sleep science and sleep optimization (sleep stages and architecture,
+- [x] Sleep science and sleep optimization (sleep stages and architecture,
       sleep debt, common sleep-hacking claims vs. the evidence — e.g.
       polyphasic sleep; prerequisite: circadian-rhythm-and-light-based-
       optimization)
-- [ ] Nutrition science and metabolic self-experimentation (macronutrients
+- [x] Nutrition science and metabolic self-experimentation (macronutrients
       and caloric balance, intermittent fasting and ketogenic-diet evidence,
       common nutrition myths; no prerequisites)
-- [ ] Exercise physiology and performance optimization (VO2 max, training
+- [x] Exercise physiology and performance optimization (VO2 max, training
       adaptations, HIIT vs. steady-state evidence, overtraining; no
       prerequisites)
-- [ ] Quantified-self methodology and biosensors (wearables — heart rate
+- [x] Quantified-self methodology and biosensors (wearables — heart rate
       variability, continuous glucose monitoring; what a biomarker actually
       tells you; n-of-1 self-experiment design pitfalls; prerequisite:
       evidence-hierarchy-and-critical-evaluation-of-health-claims)
+
+Phase BH1 complete: 6 biohacking concepts. None needed a formula — this
+phase's content is evidence-evaluation and mechanism reasoning throughout,
+same balance most subjects' first phase strikes. `npm run validate:content`,
+`npm run lint:terminology`, and `npm run typecheck` all pass; every one of
+the 12 resource URLs (6 concepts × 2 locales) individually curl-verified
+live (200). Two Estonian resources are honest close matches rather than
+exact-topic matches, since Estonian Wikipedia has no dedicated article:
+`exercise-physiology-and-performance-optimization` and
+`quantified-self-methodology-and-biosensors` both link to "Autonoomne
+närvisüsteem" (autonomic nervous system) instead of nonexistent dedicated
+overtraining/HRV articles, and `nutrition-science-and-metabolic-self-
+experimentation` links to "Paastumine" (fasting generally) instead of a
+nonexistent intermittent-fasting-specific article — same kind of adjustment
+prior phases on other subjects have recorded. Estonian terminology for this
+entirely new biological domain was coined following the glossary's existing
+compounding patterns with no prior domain precedent to check against (no
+biology/physiology terms existed in the glossary before this phase) —
+flagging for a native-speaker/domain-expert review pass, same standing
+caveat every new-vocabulary phase on this site carries.
 
 ## Phase BH2 — intermediate (the more specialised, more claim-heavy
 ## self-experimentation domains)
