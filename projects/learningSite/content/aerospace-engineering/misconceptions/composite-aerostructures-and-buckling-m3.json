@@ -1,0 +1,10 @@
+{
+  "id": "composite-aerostructures-and-buckling-m3",
+  "conceptId": "composite-aerostructures-and-buckling",
+  "text": {
+    "en": "Believing composites are simply \"stronger\" than aluminum in every respect and are a strictly superior replacement in any application -- composites offer superior strength- and stiffness-to-weight ratios in the fiber direction along with excellent fatigue and corrosion resistance, but they are typically weaker transverse to the fiber direction, are more susceptible to certain damage modes such as delamination from a low-velocity impact that can be invisible from the surface, and behave in a fundamentally more direction-dependent way than an isotropic metal, all of which have to be actively designed around rather than assumed away.",
+    "et": "Arvamus, et komposiidid on alumiiniumist lihtsalt igas suhtes \"tugevamad\" ning on igas rakenduses rangelt parem asendus -- komposiidid pakuvad kiu suunas paremat tugevuse ja jäikuse suhet massi kohta koos suurepärase väsimus- ja korrosioonikindlusega, kuid on tavaliselt nõrgemad kiu suunaga risti, on vastuvõtlikumad teatud kahjustusrežiimidele, näiteks madala kiirusega löögist tulenevale kihistumisele, mis võib pinnalt olla nähtamatu, ning käituvad põhimõtteliselt suunast sõltuvamalt kui isotroopne metall -- kõik see tuleb aktiivselt projekteerimisel arvesse võtta, mitte eeldada, et seda pole.",
+    "sourceHash": "8a685a29b1605e87",
+    "stale": false
+  }
+}

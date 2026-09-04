@@ -1,0 +1,21 @@
+{
+  "id": "composite-aerostructures-and-buckling",
+  "subject": "aerospace-engineering",
+  "level": "L4",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Composite aerostructures and buckling",
+    "et": "Komposiit-aerostruktuurid ja pahklumine",
+    "sourceHash": "1a7d9b5c0da1ee46",
+    "stale": false
+  },
+  "summary": {
+    "en": "A composite laminate is built up from many thin plies of unidirectional fiber (commonly carbon fiber) embedded in a resin matrix, stacked at deliberately chosen orientations -- 0, +45, -45, 90 degrees relative to the primary load direction, in a typical aerospace layup -- so the laminate's strength and stiffness can be tailored directionally to match the actual load paths in a way an isotropic metal, whose properties are identical in every direction, simply cannot match; critically, this means a laminate's strength genuinely depends on its stacking sequence and not merely on its total fiber and matrix content, so two laminates built from identical plies in a different order can behave quite differently in a given loading direction, because interlaminar stresses between adjacent plies depend on that order. Thin-walled aerospace structures -- skins, spar webs, stiffened panels -- loaded in compression face a failure mode that has nothing to do with the material's compressive strength: buckling, a structural instability in which the member suddenly deflects sideways and loses its ability to carry load once the applied load reaches a critical value set by the member's geometry (its slenderness, thickness, and support conditions) far more than by the material itself, so a thin-walled compression member must be sized against this critical buckling load rather than against the material's yield or ultimate compressive strength alone.",
+    "et": "Komposiitlaminaat ehitatakse üles paljudest õhukestest ühesuunalise kiu (tavaliselt süsinikkiu) kihtidest, mis on sisestatud vaikmaatriksisse ning laotud tahtlikult valitud orientatsioonidega -- 0, +45, -45, 90 kraadi peamise koormussuuna suhtes tüüpilises lennundusalases laotuses --, nii et laminaadi tugevust ja jäikust saab suunaliselt kohandada vastavalt tegelikele koormusteedele viisil, mida isotroopne metall, mille omadused on igas suunas identsed, lihtsalt ei suuda saavutada; olulisel kombel tähendab see, et laminaadi tugevus sõltub tõeliselt selle kihtide laotusjärjekorrast, mitte ainult selle kogu kiu- ja maatriksisisaldusest, mistõttu kaks identsetest kihtidest, kuid erinevas järjekorras ehitatud laminaati võivad antud koormussuunas käituda üsna erinevalt, kuna kõrvutiste kihtide vahelised kihtidevahelised pinged sõltuvad sellest järjekorrast. Õhukeseseinalised lennundusalased konstruktsioonid -- katted, longeroonide seinad, jäigastatud paneelid -- surve all koormatuna seisavad silmitsi rikkerežiimiga, millel pole midagi pistmist materjali survetugevusega: pahklumine, konstruktsiooniline ebastabiilsus, mille korral element paindub järsku küljele ja kaotab oma koormuskandevõime, kui rakendatud koormus jõuab kriitilise väärtuseni, mille määrab palju rohkem elemendi geomeetria (selle sihvakus, paksus ja toestustingimused) kui materjal ise, mistõttu õhukeseseinalist survekoormatud elementi tuleb dimensioneerida selle kriitilise pahklumiskoormuse, mitte ainult materjali voolavus- või purustuspiiri survetugevuse järgi.",
+    "sourceHash": "857d0c1e90266d27",
+    "stale": false
+  },
+  "prerequisites": [
+    "aircraft-structures"
+  ]
+}

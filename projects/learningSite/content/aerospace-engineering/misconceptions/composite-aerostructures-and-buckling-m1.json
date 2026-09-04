@@ -1,0 +1,10 @@
+{
+  "id": "composite-aerostructures-and-buckling-m1",
+  "conceptId": "composite-aerostructures-and-buckling",
+  "text": {
+    "en": "Believing a composite laminate's strength depends only on the total amount and type of fiber and matrix used, not on the order the plies are stacked in -- ply orientation and stacking sequence set the laminate's direction-dependent strength and stiffness, and reordering the very same set of plies changes strength in a given loading direction, sometimes substantially, because the interlaminar stresses between adjacent plies depend on that sequence, not merely on overall composition.",
+    "et": "Arvamus, et komposiitlaminaadi tugevus sõltub ainult kasutatud kiu ja maatriksi kogusest ja tüübist, mitte kihtide laotusjärjekorrast -- kihi orientatsioon ja laotusjärjekord määravad laminaadi suunast sõltuva tugevuse ja jäikuse, ning samade kihtide ümberjärjestamine muudab tugevust antud koormussuunas, mõnikord märkimisväärselt, kuna kõrvutiste kihtide vahelised kihtidevahelised pinged sõltuvad sellest järjekorrast, mitte ainult üldisest koostisest.",
+    "sourceHash": "e66e42bfe5c0fd01",
+    "stale": false
+  }
+}

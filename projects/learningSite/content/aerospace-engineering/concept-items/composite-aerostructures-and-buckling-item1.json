@@ -1,0 +1,56 @@
+{
+  "id": "composite-aerostructures-and-buckling-item1",
+  "conceptId": "composite-aerostructures-and-buckling",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two carbon-fiber laminate panels are made from the exact same set of plies (same fiber, same matrix, same ply angles), but one stacks them in a different order than the other. Why can these two panels have meaningfully different strength in a given loading direction?",
+    "et": "Kaks süsinikkiust laminaatpaneeli on tehtud täpselt samadest kihtidest (sama kiud, sama maatriks, samad kihi nurgad), kuid üks laob need teistsuguses järjekorras kui teine. Miks võib nendel kahel paneelil antud koormussuunas olla oluliselt erinev tugevus?",
+    "sourceHash": "2890042fb6ea7e54",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The interlaminar stresses between adjacent plies depend on the stacking sequence itself, so reordering the same plies changes the laminate's effective strength and stiffness in a given direction, not just its overall fiber/matrix content.",
+        "et": "Kõrvutiste kihtide vahelised kihtidevahelised pinged sõltuvad laotusjärjekorrast endast, mistõttu samade kihtide ümberjärjestamine muudab laminaadi efektiivset tugevust ja jäikust antud suunas, mitte ainult selle üldist kiu-/maatriksisisaldust.",
+        "sourceHash": "c33a8b2b107f5899",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They cannot actually differ in strength -- as long as the total fiber and matrix content is identical, the stacking order has no effect on mechanical properties.",
+        "et": "Need ei saa tegelikult tugevuse poolest erineda -- kuni kogu kiu- ja maatriksisisaldus on identne, ei mõjuta laotusjärjekord mehaanilisi omadusi.",
+        "sourceHash": "d407505cb25edfb3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "composite-aerostructures-and-buckling-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "One of the two stacking orders must simply be made of a stronger material overall, since composite strength is otherwise identical to an isotropic metal's uniform strength in every direction.",
+        "et": "Üks kahest laotusjärjekorrast peab lihtsalt olema üldiselt tugevamast materjalist, kuna komposiidi tugevus on muidu identne isotroopse metalli ühtlase tugevusega igas suunas.",
+        "sourceHash": "6fffe8f77bdd27fe",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "composite-aerostructures-and-buckling-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The difference must come from one panel buckling under load while the other does not, since stacking sequence only ever affects buckling resistance, not material strength.",
+        "et": "Erinevus peab tulenema sellest, et üks paneel pahkleb koormuse all, teine mitte, kuna laotusjärjekord mõjutab ainult pahklumiskindlust, mitte materjali tugevust.",
+        "sourceHash": "111796c593048337",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "composite-aerostructures-and-buckling-m2"
+    }
+  ]
+}

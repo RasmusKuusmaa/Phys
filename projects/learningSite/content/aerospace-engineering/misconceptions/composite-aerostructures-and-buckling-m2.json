@@ -1,0 +1,10 @@
+{
+  "id": "composite-aerostructures-and-buckling-m2",
+  "conceptId": "composite-aerostructures-and-buckling",
+  "text": {
+    "en": "Believing a thin-walled member under compression fails once its stress reaches the material's compressive strength, the same way a thick, stocky member does -- thin-walled compression members typically fail by buckling, a sudden sideways instability, at a critical load that can be far below what the material's actual compressive strength would allow; the member's geometry (slenderness, thickness, stiffening, support conditions) sets this critical load, not material strength alone.",
+    "et": "Arvamus, et õhukeseseinaline surve all olev element murdub, kui selle pinge jõuab materjali survetugevuseni, samamoodi nagu paks, jäme element -- õhukeseseinalised survekoormatud elemendid murduvad tavaliselt pahklumise, järsu külgsuunalise ebastabiilsuse tõttu, kriitilisel koormusel, mis võib olla palju madalam sellest, mida materjali tegelik survetugevus lubaks; elemendi geomeetria (sihvakus, paksus, jäigastus, toestustingimused) määrab selle kriitilise koormuse, mitte materjali tugevus üksi.",
+    "sourceHash": "f6b9bbbf73f53ec0",
+    "stale": false
+  }
+}
