@@ -1,0 +1,55 @@
+{
+  "id": "matrix-decompositions-lu-qr-and-svd-item1",
+  "conceptId": "matrix-decompositions-lu-qr-and-svd",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is solving a least-squares problem by directly forming and inverting the normal equations generally considered numerically inferior to using a QR decomposition?",
+    "et": "Miks peetakse vähimruutude probleemi lahendamist normaalvõrrandite otsese moodustamise ja pööramise abil üldiselt numbriliselt halvemaks kui QR lahutuse kasutamist?",
+    "sourceHash": "598b4783664d4a3e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Forming the normal equations squares the original matrix's condition number, amplifying rounding error, while QR decomposition avoids forming them at all.",
+        "et": "Normaalvõrrandite moodustamine tõstab algse maatriksi tingimusarvu ruutu, võimendades ümardusviga, samal ajal kui QR lahutus väldib nende moodustamist üldse.",
+        "sourceHash": "8c55f24eebd54bcc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The two approaches are numerically identical in every respect, and QR decomposition is preferred purely for stylistic or historical reasons.",
+        "et": "Kaks lähenemist on igas suhtes numbriliselt identsed, ning QR lahutust eelistatakse puhtalt stilistilistel või ajaloolistel põhjustel.",
+        "sourceHash": "a723933becd000f8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "matrix-decompositions-lu-qr-and-svd-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The normal-equations approach is actually more accurate but slower, while QR decomposition trades away accuracy for a faster computation.",
+        "et": "Normaalvõrrandite lähenemine on tegelikult täpsem, kuid aeglasem, samal ajal kui QR lahutus loobub täpsusest kiirema arvutuse nimel.",
+        "sourceHash": "ae4035d35db10a79",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Matrix decompositions like these are purely theoretical tools with no real numerical-stability advantage over direct methods in practice.",
+        "et": "Sellised maatriksite lahutused on puhtalt teoreetilised vahendid ilma tegeliku numbrilise stabiilsuse eeliseta otseste meetodite ees praktikas.",
+        "sourceHash": "60032a4a4db127a5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "matrix-decompositions-lu-qr-and-svd-m1"
+    }
+  ]
+}

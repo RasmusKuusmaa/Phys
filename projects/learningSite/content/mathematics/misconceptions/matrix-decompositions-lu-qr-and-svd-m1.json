@@ -1,0 +1,10 @@
+{
+  "id": "matrix-decompositions-lu-qr-and-svd-m1",
+  "conceptId": "matrix-decompositions-lu-qr-and-svd",
+  "text": {
+    "en": "Believing matrix decompositions like LU and QR are purely theoretical curiosities with no practical advantage over just directly solving a linear system by ordinary Gaussian elimination -- once a matrix has been factored (say, into LU form), solving the same system again for a different right-hand side, or solving many systems with the same coefficient matrix but different right-hand sides, becomes dramatically cheaper, since only the two comparatively cheap triangular back-substitution steps need repeating, not the expensive elimination process itself; this practical computational savings, not abstract elegance, is the primary reason these decompositions are used routinely in numerical software.",
+    "et": "Arvamus, et maatriksite lahutused nagu LU ja QR on puhtalt teoreetilised kuriositeedid ilma praktilise eeliseta lihtsalt lineaarsüsteemi otse lahendamise ees tavalise Gaussi elimineerimise abil -- kord kui maatriks on faktoriseeritud (näiteks LU kujule), muutub sama süsteemi uuesti lahendamine erineva parema poole jaoks, või paljude süsteemide lahendamine sama kordajate maatriksiga, kuid erinevate paremate pooltega, dramaatiliselt odavamaks, kuna korrata tuleb ainult kaht võrdlemisi odavat kolmnurkset tagasiasendamise sammu, mitte kallist elimineerimisprotsessi ennast; see praktiline arvutuslik kokkuhoid, mitte abstraktne elegantsus, on peamine põhjus, miks neid lahutusi kasutatakse numbrilises tarkvaras rutiinselt.",
+    "sourceHash": "a62f8b831c4ed247",
+    "stale": false
+  }
+}

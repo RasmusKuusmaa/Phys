@@ -1,0 +1,22 @@
+{
+  "id": "matrix-decompositions-lu-qr-and-svd",
+  "subject": "mathematics",
+  "level": "L4",
+  "module": "linear-algebra",
+  "title": {
+    "en": "Matrix decompositions: LU, QR, and SVD",
+    "et": "Maatriksite lahutused: LU, QR ja SVD",
+    "sourceHash": "497dd8ca304087cd",
+    "stale": false
+  },
+  "summary": {
+    "en": "Rather than working with an arbitrary matrix directly, it is often far more useful to factor it into a product of matrices with special, easy-to-exploit structure: LU decomposition splits a matrix into a lower-triangular and an upper-triangular factor, turning the hard work of solving a linear system into two easy triangular back-substitutions and making it dramatically cheaper to solve the same system again for many different right-hand sides; QR decomposition splits a matrix into an orthogonal factor and an upper-triangular factor, providing a numerically stable way to solve least-squares problems without ever forming the notoriously ill-conditioned normal equations directly; and the singular value decomposition, the most general and most powerful of the three, factors any matrix whatsoever -- square or rectangular, invertible or not -- into two orthogonal matrices sandwiching a diagonal matrix of non-negative singular values, revealing a matrix's true rank, its best possible low-rank approximation, and its pseudo-inverse even when an ordinary inverse does not exist at all.",
+    "et": "Selle asemel, et töötada suvalise maatriksiga otse, on sageli palju kasulikum see faktoriseerida maatriksite korrutiseks, millel on eriline, kergesti ärakasutatav struktuur: LU lahutus jagab maatriksi alumiseks kolmnurkseks ja ülemiseks kolmnurkseks teguriks, muutes lineaarsüsteemi lahendamise raske töö kaheks lihtsaks kolmnurkseks tagasiasendamiseks ja tehes dramaatiliselt odavamaks sama süsteemi uuesti lahendamise paljude erinevate parema poole jaoks; QR lahutus jagab maatriksi ortogonaalseks ja ülemiseks kolmnurkseks teguriks, pakkudes numbriliselt stabiilset viisi vähimruutude probleemide lahendamiseks ilma kunagi otse moodustamata kurikuulsalt halvasti tingitud normaalvõrrandeid; ning singulaarväärtuste lahutus, kolmest kõige üldisem ja kõige võimsam, faktoriseerib mistahes maatriksi üldse -- ruutmaatriksi või ristküliku, pööratava või mitte -- kaheks ortogonaalseks maatriksiks, mille vahele on surutud mittenegatiivsete singulaarväärtuste diagonaalmaatriks, paljastades maatriksi tegeliku astaku, tema parima võimaliku madala-astakulise lähenduse, ja tema pseudo-pöördmaatriksi isegi siis, kui tavaline pöördmaatriks üldse ei eksisteeri.",
+    "sourceHash": "fe9d96a76d6416d6",
+    "stale": false
+  },
+  "prerequisites": [
+    "eigenvalues-and-eigenvectors",
+    "determinants"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "matrix-decompositions-lu-qr-and-svd-m2",
+  "conceptId": "matrix-decompositions-lu-qr-and-svd",
+  "text": {
+    "en": "Believing the singular value decomposition only applies to square, invertible matrices, the same restriction that applies to computing an ordinary matrix inverse -- the singular value decomposition is specifically defined for every matrix whatsoever, square or rectangular, invertible or singular, which is exactly what makes it more general and more broadly useful than eigenvalue decomposition (which does require a square matrix) or an ordinary inverse (which requires invertibility); a non-invertible or non-square matrix still has a perfectly well-defined singular value decomposition, from which its pseudo-inverse and its rank can both be read off directly.",
+    "et": "Arvamus, et singulaarväärtuste lahutus kehtib ainult ruutmaatriksite, pööratavate maatriksite jaoks, sama piirang, mis kehtib tavalise maatriksi pöördmaatriksi arvutamise jaoks -- singulaarväärtuste lahutus on spetsiifiliselt defineeritud mistahes maatriksi jaoks üldse, ruutmaatriksi või ristküliku, pööratava või erilise, mis ongi täpselt see, mis muudab selle üldisemaks ja laialdasemalt kasulikumaks kui omaväärtuste lahutus (mis nõuab ruutmaatriksit) või tavaline pöördmaatriks (mis nõuab pööratavust); mittepööratav või mitte-ruutmaatriks omab siiski täiesti hästi defineeritud singulaarväärtuste lahutuse, millest saab otse lugeda selle pseudo-pöördmaatriksi ja astaku.",
+    "sourceHash": "9252062b2803a308",
+    "stale": false
+  }
+}

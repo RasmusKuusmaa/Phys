@@ -1,0 +1,10 @@
+{
+  "id": "matrix-decompositions-lu-qr-and-svd-m3",
+  "conceptId": "matrix-decompositions-lu-qr-and-svd",
+  "text": {
+    "en": "Believing least-squares problems should always be solved by directly forming and inverting the normal equations, since QR decomposition is just a more roundabout way of arriving at the same numerical answer -- forming the normal equations directly involves squaring the original matrix's condition number, which can catastrophically amplify numerical rounding error for matrices that are already even mildly ill-conditioned; QR decomposition avoids ever forming the normal equations at all, solving the least-squares problem through a numerically stable sequence of orthogonal transformations instead, which is precisely why QR-based solvers, not the normal-equations approach, are the standard method used in serious numerical software.",
+    "et": "Arvamus, et vähimruutude probleeme tuleks alati lahendada, moodustades otse ja pöörates normaalvõrrandid, kuna QR lahutus on lihtsalt keerulisem tee sama numbrilise vastuseni jõudmiseks -- normaalvõrrandite otsene moodustamine hõlmab algse maatriksi tingimusarvu ruutu tõstmist, mis võib katastroofiliselt võimendada numbrilist ümardusviga maatriksite jaoks, mis on juba kasvõi kergelt halvasti tingitud; QR lahutus väldib normaalvõrrandite moodustamist üldse, lahendades selle asemel vähimruutude probleemi numbriliselt stabiilse ortogonaalsete teisenduste jada kaudu, mis ongi täpselt põhjus, miks QR-põhised lahendajad, mitte normaalvõrrandite lähenemine, on standardne meetod, mida kasutatakse tõsises numbrilises tarkvaras.",
+    "sourceHash": "1e5c4fd988fea6b1",
+    "stale": false
+  }
+}
