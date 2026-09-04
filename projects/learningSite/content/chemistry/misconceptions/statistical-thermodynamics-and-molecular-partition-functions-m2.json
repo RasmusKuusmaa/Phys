@@ -1,0 +1,10 @@
+{
+  "id": "statistical-thermodynamics-and-molecular-partition-functions-m2",
+  "conceptId": "statistical-thermodynamics-and-molecular-partition-functions",
+  "text": {
+    "en": "Believing calculating a reaction's equilibrium constant from statistical thermodynamics requires actually running the reaction experimentally to calibrate the calculation -- one of the central practical achievements of statistical thermodynamics is precisely the opposite: given only spectroscopically measured molecular properties (bond lengths and angles for the rotational contribution, vibrational frequencies for the vibrational contribution, electronic energy levels for the electronic contribution) for the reactants and products separately, the partition-function machinery predicts the gas-phase equilibrium constant directly, entirely without ever running the reaction itself to measure it experimentally.",
+    "et": "Arvamus, et reaktsiooni tasakaalukonstandi arvutamine statistilisest termodünaamikast nõuab reaktsiooni tegelikku eksperimentaalset läbiviimist arvutuse kalibreerimiseks -- üks statistilise termodünaamika kesksetest praktilistest saavutustest on täpselt vastupidine: ainult spektroskoopiliselt mõõdetud molekulaarsete omadustega (sideme pikkused ja nurgad rotatsioonilise panuse jaoks, vibratsioonisagedused vibratsioonilise panuse jaoks, elektroonilised energianivood elektroonilise panuse jaoks) reaktantide ja produktide jaoks eraldi, ennustab olekusumma masinavärk gaasifaasi tasakaalukonstandi otse, täiesti ilma reaktsiooni ennast kunagi läbi viimata selle eksperimentaalseks mõõtmiseks.",
+    "sourceHash": "626d9d1481c0f0fa",
+    "stale": false
+  }
+}

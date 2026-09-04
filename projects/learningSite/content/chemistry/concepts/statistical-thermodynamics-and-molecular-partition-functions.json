@@ -1,0 +1,22 @@
+{
+  "id": "statistical-thermodynamics-and-molecular-partition-functions",
+  "subject": "chemistry",
+  "level": "L4",
+  "module": "physical-chemistry",
+  "title": {
+    "en": "Statistical thermodynamics and molecular partition functions",
+    "et": "Statistiline termodünaamika ja molekulaarsed olekusummad",
+    "sourceHash": "7ca06a1367137f6c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every bulk thermodynamic property a chemist measures -- a gas's entropy, a reaction's equilibrium constant, a molecule's heat capacity -- is, at bottom, a statistical average over an astronomical number of individual molecules distributed across their available quantum energy levels, and the molecular partition function is the single mathematical object that encodes exactly how many of those energy levels are thermally accessible at a given temperature, factoring cleanly into separate translational, rotational, vibrational, and electronic contributions because a molecule's total energy is, to good approximation, simply the sum of these largely independent motions, which is precisely what lets statistical thermodynamics calculate a gas-phase equilibrium constant directly from spectroscopically measured molecular properties (bond lengths, vibrational frequencies) alone, entirely without running the reaction to measure it, connecting molecular-level quantum mechanics to the same macroscopic equilibrium constants ordinary chemical equilibrium already describes.",
+    "et": "Iga makroskoopiline termodünaamiline omadus, mida keemik mõõdab -- gaasi entroopia, reaktsiooni tasakaalukonstant, molekuli soojusmahtuvus -- on põhiolemuselt statistiline keskmine astronoomilise arvu üksikute molekulide üle, mis on jaotunud üle oma kättesaadavate kvantenergia nivoode, ning molekulaarne olekusumma on üksik matemaatiline objekt, mis kodeerib täpselt, kui palju neid energia nivoode on antud temperatuuril soojuslikult ligipääsetavad, faktoriseerudes puhtalt eraldi translatsiooniliseks, rotatsiooniliseks, vibratsiooniliseks ja elektrooniliseks panuseks, kuna molekuli kogu energia on heas lähenduses lihtsalt nende suuresti sõltumatute liikumiste summa, mis ongi täpselt see, mis lubab statistilisel termodünaamikal arvutada gaasifaasi tasakaalukonstandi otse spektroskoopiliselt mõõdetud molekulaarsetest omadustest (sideme pikkused, vibratsioonisagedused) üksi, täiesti ilma reaktsiooni läbi viimata selle mõõtmiseks, ühendades molekulaarse tasandi kvantmehaanika samade makroskoopiliste tasakaalukonstantidega, mida tavaline keemiline tasakaal juba kirjeldab.",
+    "sourceHash": "1d07db3add233a13",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-nernst-equation-and-electrode-potentials",
+    "reaction-rate-laws-and-order"
+  ]
+}

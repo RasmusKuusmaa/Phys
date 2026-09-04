@@ -1,0 +1,10 @@
+{
+  "id": "statistical-thermodynamics-and-molecular-partition-functions-m3",
+  "conceptId": "statistical-thermodynamics-and-molecular-partition-functions",
+  "text": {
+    "en": "Believing bulk thermodynamic properties like entropy or heat capacity are fundamentally separate quantities from a molecule's individual quantum energy levels, connected only by empirical correlation rather than genuine derivation -- statistical thermodynamics derives bulk properties directly and rigorously from the molecular partition function, which itself is built entirely from a molecule's quantum energy levels and their populations at a given temperature; entropy, heat capacity, and every other bulk thermodynamic quantity are, in this framework, genuinely calculated statistical averages over the molecular energy-level population, not separate empirical facts merely correlated with molecular structure after the fact.",
+    "et": "Arvamus, et makroskoopilised termodünaamilised omadused nagu entroopia või soojusmahtuvus on fundamentaalselt eraldiseisvad suurused molekuli üksikutest kvantenergia nivoodest, seotud ainult empiirilise korrelatsiooniga, mitte tõelise tuletusega -- statistiline termodünaamika tuletab makroskoopilised omadused otseselt ja rangelt molekulaarsest olekusummast, mis ise on täielikult üles ehitatud molekuli kvantenergia nivoodest ja nende populatsioonidest antud temperatuuril; entroopia, soojusmahtuvus ja iga teine makroskoopiline termodünaamiline suurus on selles raamistikus tõeliselt arvutatud statistilised keskmised üle molekulaarse energianivoo populatsiooni, mitte eraldiseisvad empiirilised faktid, mis on lihtsalt tagantjärele molekulaarse struktuuriga korreleeritud.",
+    "sourceHash": "7d081103a0df7436",
+    "stale": false
+  }
+}

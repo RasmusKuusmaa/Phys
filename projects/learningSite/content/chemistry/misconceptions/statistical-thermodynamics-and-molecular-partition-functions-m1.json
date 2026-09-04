@@ -1,0 +1,10 @@
+{
+  "id": "statistical-thermodynamics-and-molecular-partition-functions-m1",
+  "conceptId": "statistical-thermodynamics-and-molecular-partition-functions",
+  "text": {
+    "en": "Believing the molecular partition function is a single, indivisible quantity that must be computed all at once from a molecule's complete set of energy levels, with no simpler internal structure -- because a molecule's total energy is, to good approximation, the sum of largely independent translational, rotational, vibrational, and electronic contributions, the total partition function factors cleanly into the product of separate partition functions for each of these motions, each computable more or less independently from the others using comparatively simple, well-established formulas, rather than requiring one intractable calculation over the molecule's complete, coupled energy spectrum.",
+    "et": "Arvamus, et molekulaarne olekusumma on üksik, jagamatu suurus, mis tuleb arvutada korraga molekuli täielikust energianivoode hulgast, ilma lihtsama sisemise struktuurita -- kuna molekuli kogu energia on heas lähenduses suuresti sõltumatute translatsiooniliste, rotatsiooniliste, vibratsiooniliste ja elektrooniliste panuste summa, faktoriseerub kogu olekusumma puhtalt nende iga liikumise eraldi olekusummade korrutiseks, millest igaüht saab arvutada enam-vähem sõltumatult teistest, kasutades võrdlemisi lihtsaid, hästi väljakujunenud valemeid, selle asemel et nõuda üht käsitlematut arvutust üle molekuli täieliku, seotud energiaspektri.",
+    "sourceHash": "d168d31e9b21443b",
+    "stale": false
+  }
+}

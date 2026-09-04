@@ -1,0 +1,56 @@
+{
+  "id": "statistical-thermodynamics-and-molecular-partition-functions-item1",
+  "conceptId": "statistical-thermodynamics-and-molecular-partition-functions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A chemist wants to predict the gas-phase equilibrium constant for a reaction using statistical thermodynamics, without ever running the reaction in the laboratory. What information does this actually require?",
+    "et": "Keemik soovib ennustada gaasifaasi reaktsiooni tasakaalukonstanti, kasutades statistilist termodünaamikat, ilma reaktsiooni kunagi laboris läbi viimata. Mida see tegelikult nõuab?",
+    "sourceHash": "5297d5b26689cd1d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Spectroscopically measured molecular properties (bond lengths, vibrational frequencies, electronic energy levels) for the reactants and products, fed into the molecular partition functions.",
+        "et": "Spektroskoopiliselt mõõdetud molekulaarsed omadused (sideme pikkused, vibratsioonisagedused, elektroonilised energianivood) reaktantide ja produktide jaoks, mis on sisestatud molekulaarsetesse olekusummadesse.",
+        "sourceHash": "b37d74244ca1140f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Running the reaction experimentally first, since the partition-function calculation only calibrates or refines an already-measured equilibrium constant rather than predicting one from scratch.",
+        "et": "Reaktsiooni eksperimentaalne eelnev läbiviimine, kuna olekusumma arvutus ainult kalibreerib või täpsustab juba mõõdetud tasakaalukonstanti, mitte ei ennusta seda nullist.",
+        "sourceHash": "1a954a67dcb30b33",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-thermodynamics-and-molecular-partition-functions-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "One single, indivisible calculation over the molecule's complete coupled energy spectrum, since the partition function cannot be factored into separate, independently computable contributions.",
+        "et": "Üks üksik, jagamatu arvutus üle molekuli täieliku seotud energiaspektri, kuna olekusummat ei saa faktoriseerida eraldi, sõltumatult arvutatavateks panusteks.",
+        "sourceHash": "a377e6322d022c88",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-thermodynamics-and-molecular-partition-functions-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "An independent empirical correlation between molecular structure and equilibrium behavior, since bulk thermodynamic quantities are not actually derived from quantum energy levels.",
+        "et": "Sõltumatu empiiriline korrelatsioon molekulaarse struktuuri ja tasakaalukäitumise vahel, kuna makroskoopilised termodünaamilised suurused ei ole tegelikult tuletatud kvantenergia nivoodest.",
+        "sourceHash": "e8d29ea07250afe8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "statistical-thermodynamics-and-molecular-partition-functions-m3"
+    }
+  ]
+}
