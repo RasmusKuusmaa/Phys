@@ -61,6 +61,31 @@ phase each (AE1, GE1), same starting depth Phase MS1 gave materials-science.
 (candidates listed in each file) — continuing into those, or pivoting
 elsewhere, is your call.
 
+## Continuing aerospace-engineering and general-engineering through Phase 2
+
+Per "continue, do not stop unless i tell you to." Phase AE2 (aircraft
+performance, avionics and flight control systems, spacecraft subsystems,
+aeroelasticity, hypersonic aerothermodynamics) and Phase GE2 (control
+systems and feedback, kinematics and dynamics of mechanisms, engineering
+economics, heat exchanger design and thermal systems, quality control and
+engineering statistics) both landed, again as two parallel forks, one
+commit per concept. GE2 dropped "electrical fundamentals for engineers" and
+"mechanical vibrations" from its original candidate list as too likely to
+be padding against physics's existing thorough circuit and oscillator
+coverage, substituting heat-exchanger design and engineering statistics
+instead — logged in `GENERAL_ENGINEERING_PLAN.md`'s own Phase GE2 section.
+Aerospace-engineering is now 11 concepts, general-engineering 11 concepts
+(22 total, on top of the AE1+GE1 12-concept baseline). Final state: `npm run
+validate:content` (7 subjects, 494 concepts), `npm run lint:terminology`
+(248 glossary terms), `npm run typecheck`, and the full test suite
+(150/150) all pass; working tree clean.
+
+Continuing straight into a graduate-level (L3/L4) pass for both subjects —
+Phase AE3/GE3, mirroring the MS3 phase that took materials-science from a
+foundational-only subject to comprehensive. Same unreviewed-Estonian-
+terminology and rate-limited-`check:links` caveats as every phase so far
+apply here too, not re-logging them per phase.
+
 Things I made a judgment call on while you're away, flagged here instead of
 interrupting. Answer when you're back; nothing below is blocking.
 
