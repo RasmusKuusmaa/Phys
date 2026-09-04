@@ -1,0 +1,21 @@
+{
+  "id": "drug-interactions-and-metabolism-pathways",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "pharmacology",
+  "title": {
+    "en": "Drug interactions and metabolism pathways",
+    "et": "Ravimite koostoimed ja metabolismi rajad",
+    "sourceHash": "8dfa8d74223df6fc",
+    "stale": false
+  },
+  "summary": {
+    "en": "Most drugs are metabolized by a family of liver enzymes called cytochrome P450 (CYP450), and because many different drugs are processed by the same handful of CYP450 enzymes, giving two drugs together can make each one behave very differently than it would alone. An enzyme inducer is a substance that increases the amount or activity of a particular CYP450 enzyme, which speeds up the metabolism of every other drug that enzyme processes -- lowering their blood concentration and potentially their effect, sometimes enough to make an otherwise effective dose fail. An enzyme inhibitor does the opposite: it blocks or slows a CYP450 enzyme, causing every drug that enzyme normally metabolizes to build up to higher-than-expected concentrations, which can push an otherwise safe dose into toxic territory. A third mechanism, competitive metabolism, occurs when two drugs are both substrates for the same enzyme and effectively compete for its limited capacity, each slowing the other's clearance without either drug directly inducing or inhibiting anything. Because a single CYP450 enzyme often processes dozens of unrelated drugs, an interaction can arise between medications that have nothing in common pharmacodynamically -- their only connection is sharing the same metabolic bottleneck -- which is why checking for interactions requires knowing a drug's metabolic pathway, not just what condition it treats.",
+    "et": "Enamikku ravimeid metaboliseerib maksaensüümide perekond nimega tsütokroom P450 (CYP450), ning kuna paljusid erinevaid ravimeid töötleb sama väike hulk CYP450 ensüüme, võib kahe ravimi koosmanustamine panna kummagi käituma väga erinevalt sellest, kuidas ta käituks üksinda. Ensüümi indutseerija on aine, mis suurendab konkreetse CYP450 ensüümi kogust või aktiivsust, mis kiirendab iga teise ravimi metabolismi, mida see ensüüm töötleb -- langetades nende vere kontsentratsiooni ja potentsiaalselt nende toimet, mõnikord piisavalt, et muidu efektiivne annus ebaõnnestuks. Ensüümi inhibiitor teeb vastupidist: see blokeerib või aeglustab CYP450 ensüümi, põhjustades iga ravimi kuhjumise kõrgemale kui oodatud kontsentratsioonile, mida see ensüüm tavaliselt metaboliseerib, mis võib muuta muidu ohutu annuse toksiliseks. Kolmas mehhanism, konkureeriv metabolism, tekib siis, kui kaks ravimit on mõlemad sama ensüümi substraadid ja konkureerivad sisuliselt selle piiratud võimsuse pärast, kumbki aeglustab teise kõrvaldumist, ilma et kumbki ravim otseselt midagi indutseeriks või inhibeeriks. Kuna üksik CYP450 ensüüm töötleb sageli kümneid omavahel mitteseotud ravimeid, võib koostoime tekkida ravimite vahel, millel pole farmakodünaamiliselt midagi ühist -- nende ainus seos on sama metaboolse kitsaskoha jagamine --, mistõttu koostoimete kontrollimine eeldab ravimi metaboolse raja teadmist, mitte ainult seda, millist haigust see ravib.",
+    "sourceHash": "1314924cc650639f",
+    "stale": false
+  },
+  "prerequisites": [
+    "pharmacokinetics-absorption-distribution-metabolism-excretion"
+  ]
+}

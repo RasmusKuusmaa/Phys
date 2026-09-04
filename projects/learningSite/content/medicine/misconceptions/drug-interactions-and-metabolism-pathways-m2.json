@@ -1,0 +1,10 @@
+{
+  "id": "drug-interactions-and-metabolism-pathways-m2",
+  "conceptId": "drug-interactions-and-metabolism-pathways",
+  "text": {
+    "en": "An enzyme inhibitor and an enzyme inducer have basically the same clinical risk, just in different directions -- in reality, an inhibitor causing a drug to build up toward toxic levels is often the more acutely dangerous scenario, while an inducer causing a drug's level to fall tends to cause loss of therapeutic effect rather than acute toxicity -- both matter, but they fail in different, clinically distinct ways.",
+    "et": "Ensüümi inhibiitoril ja ensüümi indutseerijal on sisuliselt sama kliiniline risk, lihtsalt vastupidises suunas -- tegelikult on inhibiitori põhjustatud ravimi kuhjumine toksiliste tasemeteni sageli ägedamalt ohtlikum stsenaarium, samas kui indutseerija põhjustatud ravimitaseme langus kipub põhjustama terapeutilise toime kadu, mitte ägedat toksilisust -- mõlemad on olulised, kuid need ebaõnnestuvad erinevalt, kliiniliselt eristataval viisil.",
+    "sourceHash": "17a0bdc09ca319e9",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "drug-interactions-and-metabolism-pathways-item1",
+  "conceptId": "drug-interactions-and-metabolism-pathways",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient starts taking a new drug that strongly induces (increases the activity of) a CYP450 enzyme responsible for metabolizing a second drug they already take regularly. What is the most likely consequence for the second drug?",
+    "et": "Patsient hakkab võtma uut ravimit, mis tugevalt indutseerib (suurendab aktiivsust) CYP450 ensüümi, mis vastutab teise, juba regulaarselt võetava ravimi metabolismi eest. Mis on kõige tõenäolisem tagajärg teisele ravimile?",
+    "sourceHash": "f0698f8c54397c03",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Its blood concentration will tend to fall, since the induced enzyme metabolizes it faster, potentially reducing or eliminating its therapeutic effect at the previous dose.",
+        "et": "Selle verekontsentratsioon kaldub langema, kuna indutseeritud ensüüm metaboliseerib seda kiiremini, mis võib vähendada või kaotada selle terapeutilise toime senisel annusel.",
+        "sourceHash": "04aa2520d615201b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing -- since the two drugs treat different conditions, they have no meaningful pharmacological connection to each other.",
+        "et": "Mitte midagi -- kuna need kaks ravimit ravivad erinevaid haigusseisundeid, ei ole neil omavahel olulist farmakoloogilist seost.",
+        "sourceHash": "9f4bed25b3dbf2c7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drug-interactions-and-metabolism-pathways-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Its blood concentration will rise toward toxic levels, the same way it would with an enzyme inhibitor.",
+        "et": "Selle verekontsentratsioon tõuseb toksiliste tasemeteni, samamoodi nagu see juhtuks ensüümi inhibiitoriga.",
+        "sourceHash": "582246f37b9e4028",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drug-interactions-and-metabolism-pathways-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing, since metabolic drug interactions can only occur between two prescription drugs, and this scenario doesn't specify whether the new drug is prescription-only.",
+        "et": "Mitte midagi, kuna metaboolsed ravimite koostoimed saavad tekkida ainult kahe retseptiravimi vahel.",
+        "sourceHash": "c10d338c3e92050a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "drug-interactions-and-metabolism-pathways-m3"
+    }
+  ]
+}

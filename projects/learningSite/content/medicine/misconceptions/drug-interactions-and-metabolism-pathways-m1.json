@@ -1,0 +1,10 @@
+{
+  "id": "drug-interactions-and-metabolism-pathways-m1",
+  "conceptId": "drug-interactions-and-metabolism-pathways",
+  "text": {
+    "en": "Drug interactions only happen between drugs that treat similar conditions or have similar effects -- in reality, an interaction can occur between two pharmacologically unrelated drugs whose only connection is being processed by the same CYP450 enzyme, so a drug for one condition can meaningfully change the blood level of a completely unrelated drug for a different condition.",
+    "et": "Ravimite koostoimed tekivad ainult sarnaseid haigusseisundeid ravivate või sarnase toimega ravimite vahel -- tegelikult võib koostoime tekkida kahe farmakoloogiliselt mitteseotud ravimi vahel, mille ainus seos on sama CYP450 ensüümi poolt töötlemine, mistõttu ühe haigusseisundi ravim võib oluliselt muuta täiesti mitteseotud teise haigusseisundi ravimi verekontsentratsiooni.",
+    "sourceHash": "bae3be43db15463c",
+    "stale": false
+  }
+}

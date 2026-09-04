@@ -1,0 +1,10 @@
+{
+  "id": "drug-interactions-and-metabolism-pathways-m3",
+  "conceptId": "drug-interactions-and-metabolism-pathways",
+  "text": {
+    "en": "Only prescription drugs can cause metabolic drug interactions -- in reality, many common foods and over-the-counter substances (grapefruit juice being a classic example, since it inhibits a specific CYP450 enzyme) can inhibit or induce the same enzymes as prescription drugs, producing the same kind of interaction.",
+    "et": "Ainult retseptiravimid saavad põhjustada metaboolseid ravimite koostoimeid -- tegelikult võivad paljud tavalised toidud ja käsimüügiained (greibimahl on klassikaline näide, kuna see inhibeerib konkreetset CYP450 ensüümi) inhibeerida või indutseerida samu ensüüme, mida ka retseptiravimid, tekitades samasuguse koostoime.",
+    "sourceHash": "209d14d903b10c7a",
+    "stale": false
+  }
+}
