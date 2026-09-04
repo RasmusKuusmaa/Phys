@@ -1,0 +1,56 @@
+{
+  "id": "the-cell-cycle-and-mitosis-item1",
+  "conceptId": "the-cell-cycle-and-mitosis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A cell has fully and accurately replicated its DNA, but several chromosomes have failed to attach correctly to the spindle apparatus. What should happen next, according to how the cell cycle actually works?",
+    "et": "Rakk on oma DNA täielikult ja täpselt replitseerinud, kuid mitmed kromosoomid ei ole korrektselt ketendusaparaadi külge kinnitunud. Mis peaks järgmisena juhtuma, vastavalt sellele, kuidas rakutsükkel tegelikult toimib?",
+    "sourceHash": "b8ea5ee7c81ef783",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The spindle-attachment checkpoint should detect the incorrect attachment and halt the cell cycle before anaphase begins, preventing chromosomes from being pulled apart incorrectly.",
+        "et": "Ketenduse kinnitumise kontrollpunkt peaks tuvastama ebakorrektse kinnitumise ning peatama rakutsükli enne anafaasi algust, takistades kromosoomide valesti lahkutõmbamist.",
+        "sourceHash": "94013d8252637d27",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing stops it -- since the cell has already grown large enough to divide, it will proceed straight through mitosis regardless of chromosome attachment.",
+        "et": "Miski ei peata seda -- kuna rakk on juba kasvanud piisavalt suureks, et jaguneda, jätkab ta otse läbi mitoosi, sõltumata kromosoomide kinnitumisest.",
+        "sourceHash": "b0bff062440005f8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cell-cycle-and-mitosis-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This has no bearing on mitosis, since mitosis and the cell cycle are separate, unrelated processes and chromosome attachment only matters for the cell cycle.",
+        "et": "Sellel pole mitoosiga mingit seost, kuna mitoos ja rakutsükkel on eraldiseisvad, mitteseotud protsessid ning kromosoomide kinnitumine on oluline ainult rakutsükli jaoks.",
+        "sourceHash": "69a665142b381fca",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cell-cycle-and-mitosis-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't matter, since the chromosomes were already separated during DNA replication in S-phase, so anaphase has nothing left to do.",
+        "et": "Pole tähtis, kuna kromosoomid olid juba lahku läinud DNA replikatsiooni ajal S-faasis, mistõttu anafaasil pole enam midagi teha.",
+        "sourceHash": "9ea5b4585be0711e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-cell-cycle-and-mitosis-m3"
+    }
+  ]
+}

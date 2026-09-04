@@ -1,0 +1,10 @@
+{
+  "id": "the-cell-cycle-and-mitosis-m2",
+  "conceptId": "the-cell-cycle-and-mitosis",
+  "text": {
+    "en": "Mitosis and the cell cycle are the same thing -- in reality, mitosis is only one part of the cell cycle (the phase where the duplicated chromosomes are actually divided into two nuclei); most of a typical cell cycle's time is actually spent in interphase (G1, S, G2), which includes the cell's growth and the DNA replication that has to happen before mitosis can even begin.",
+    "et": "Mitoos ja rakutsükkel on sama asi -- tegelikult on mitoos ainult üks osa rakutsüklist (etapp, kus kahekordistunud kromosoomid tegelikult jagatakse kaheks tuumaks); tüüpilise rakutsükli enamik aega kulub tegelikult interfaasile (G1, S, G2), mis hõlmab raku kasvu ning DNA replikatsiooni, mis peab toimuma enne, kui mitoos üldse saab alata.",
+    "sourceHash": "d5b218977b57ce21",
+    "stale": false
+  }
+}

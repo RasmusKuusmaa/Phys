@@ -1,0 +1,10 @@
+{
+  "id": "the-cell-cycle-and-mitosis-m3",
+  "conceptId": "the-cell-cycle-and-mitosis",
+  "text": {
+    "en": "DNA replication and chromosome separation are basically the same event happening at the same time -- in reality, DNA replication happens earlier, during S-phase of interphase, producing two identical sister chromatids joined together; those already-duplicated chromatids are only pulled apart from each other much later, during anaphase of mitosis -- two genuinely separate steps, separated in time by the entire G2 phase and the early stages of mitosis.",
+    "et": "DNA replikatsioon ja kromosoomide lahknemine on sisuliselt sama sündmus, mis toimub samal ajal -- tegelikult toimub DNA replikatsioon varem, interfaasi S-faasis, tootes kaks identset õekromatiidi, mis on omavahel ühendatud; need juba kahekordistunud kromatiidid tõmmatakse üksteisest lahku alles palju hiljem, mitoosi anafaasis -- kaks tõeliselt eraldiseisvat etappi, mida eraldab ajaliselt kogu G2 faas ja mitoosi varasemad staadiumid.",
+    "sourceHash": "e8a9fe9089d5a013",
+    "stale": false
+  }
+}

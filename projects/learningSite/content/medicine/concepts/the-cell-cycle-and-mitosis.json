@@ -1,0 +1,21 @@
+{
+  "id": "the-cell-cycle-and-mitosis",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "cell-and-molecular-biology",
+  "title": {
+    "en": "The cell cycle and mitosis",
+    "et": "Rakutsükkel ja mitoos",
+    "sourceHash": "a35b22c890152498",
+    "stale": false
+  },
+  "summary": {
+    "en": "A cell doesn't divide the moment it happens to grow large enough; it progresses through an ordered cell cycle -- interphase (G1 growth, S-phase DNA replication, G2 preparation) followed by mitosis (the actual division of the duplicated chromosomes into two identical nuclei) and cytokinesis (splitting the cytoplasm into two separate cells) -- and at several checkpoints along the way, dedicated surveillance proteins check whether the previous step actually finished correctly (is DNA fully and accurately replicated? are chromosomes properly attached to the spindle?) before allowing the cycle to proceed to the next stage. Mitosis itself unfolds through a fixed sequence of visually distinct phases -- prophase (chromosomes condense and become visible, the nuclear envelope breaks down), metaphase (chromosomes line up at the cell's equator, attached to spindle fibers from opposite poles), anaphase (sister chromatids are pulled apart to opposite poles), and telophase (two new nuclear envelopes re-form around the separated chromosome sets) -- that guarantees each daughter cell receives one complete, identical copy of the genome, not by luck but because the spindle apparatus and its checkpoints actively verify correct attachment before anaphase is permitted to begin. When checkpoint surveillance itself fails -- when a cell with unrepaired DNA damage or improperly attached chromosomes is allowed through anyway -- the result is exactly the kind of uncontrolled, error-propagating division that characterizes cancer, which is why the cell cycle's checkpoints, not just the division machinery itself, are the target of so much cancer biology research.",
+    "et": "Rakk ei jagune hetkel, mil ta juhtub piisavalt suureks kasvama; ta läbib korrastatud rakutsükli -- interfaasi (G1 kasvufaas, S-faasi DNA replikatsioon, G2 ettevalmistus), millele järgneb mitoos (kahekordistunud kromosoomide tegelik jagunemine kaheks identseks tuumaks) ja tsütokinees (tsütoplasma jagunemine kaheks eraldiseisvaks rakuks) -- ning mitmes kontrollpunktis teekonna vältel kontrollivad pühendunud järelevalvevalgud, kas eelmine etapp tegelikult õigesti lõpetati (kas DNA on täielikult ja täpselt replitseeritud? kas kromosoomid on korralikult ketendusaparaadi külge kinnitunud?), enne kui lubatakse tsüklil järgmisse etappi liikuda. Mitoos ise kulgeb kindla, visuaalselt eristuvate faaside jada kaudu -- profaas (kromosoomid tihenevad ja muutuvad nähtavaks, tuumaümbris laguneb), metafaas (kromosoomid asetuvad raku ekvaatorile, kinnitununa ketendusaparaadi kiudude külge vastaspoolustelt), anafaas (õekromatiidid tõmmatakse vastaspoolustele lahku) ning telofaas (kaks uut tuumaümbrist moodustuvad uuesti lahutatud kromosoomikomplektide ümber) -- mis tagab, et iga tütarrakk saab ühe täieliku, identse koopia genoomist, mitte õnne, vaid selle tõttu, et ketendusaparaat ja selle kontrollpunktid kontrollivad aktiivselt õiget kinnitumist, enne kui anafaasil lubatakse alata. Kui kontrollpunkti järelevalve ise ebaõnnestub -- kui parandamata DNA kahjustustega või valesti kinnitunud kromosoomidega rakul lubatakse siiski läbida -- on tulemuseks täpselt seda tüüpi kontrollimatu, vigu levitav jagunemine, mis iseloomustab vähki, mistõttu rakutsükli kontrollpunktid, mitte ainult jagunemismasinavärk ise, on nii paljude vähibioloogia uuringute sihtmärgiks.",
+    "sourceHash": "73613c5fcc86d9d3",
+    "stale": false
+  },
+  "prerequisites": [
+    "cell-structure-and-organelle-function"
+  ]
+}

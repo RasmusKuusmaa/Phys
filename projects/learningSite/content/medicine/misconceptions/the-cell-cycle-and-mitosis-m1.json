@@ -1,0 +1,10 @@
+{
+  "id": "the-cell-cycle-and-mitosis-m1",
+  "conceptId": "the-cell-cycle-and-mitosis",
+  "text": {
+    "en": "A cell simply divides whenever it gets big enough, with no checking or regulation involved -- in reality, progression through the cell cycle is actively controlled at several checkpoints, where surveillance proteins verify that the previous step (like DNA replication) completed correctly before allowing the cycle to continue; size alone does not trigger division.",
+    "et": "Rakk lihtsalt jaguneb, kui ta muutub piisavalt suureks, ilma igasuguse kontrolli või reguleerimiseta -- tegelikult on liikumine läbi rakutsükli aktiivselt kontrollitud mitmes kontrollpunktis, kus järelevalvevalgud kinnitavad, et eelmine etapp (nagu DNA replikatsioon) lõppes õigesti, enne kui lubatakse tsüklil jätkuda; suurus üksi ei käivita jagunemist.",
+    "sourceHash": "7a32914d539c09f1",
+    "stale": false
+  }
+}
