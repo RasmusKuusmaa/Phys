@@ -73,18 +73,33 @@ npm test -- --run` re-run clean (150/150) partway through this phase.
 
 ## Phase MA3 — further gaps (after surveying all 53 existing concepts)
 
-- [ ] Markov chain Monte Carlo methods (bridges the existing
-      markov-chains-and-the-memoryless-property concept in
-      stochastic-processes to the new bayes-theorem-and-bayesian-inference
-      concept — how Bayesian posteriors are actually computed in practice
-      when no closed form exists)
-- [ ] Metric spaces and topology basics (open/closed sets, compactness,
-      connectedness) — the foundational language real analysis and
-      differential geometry are built on, currently assumed rather than
-      built from scratch anywhere in the subject
-- [ ] Combinatorics and counting principles (permutations, combinations,
-      the binomial theorem) — a standard prerequisite to probability that
-      the existing probability-and-statistics modules currently assume
-      rather than build
+- [x] Markov chain Monte Carlo methods — note: the physics-subject
+      `markov-chains-and-the-memoryless-property` concept could not be used
+      as a prerequisite (prerequisites are strictly per-subject, per
+      `QUESTIONS.md` § "Required math in the math section"'s established
+      finding); used `bayes-theorem-and-bayesian-inference` and
+      `random-variables-and-distributions` (both mathematics) instead
+- [x] Metric spaces and topology basics (open/closed sets, compactness,
+      connectedness)
+- [x] Combinatorics and counting principles (permutations, combinations,
+      the binomial theorem)
+- [x] Bonus: Hilbert spaces and functional analysis basics (found while
+      surveying for more gaps — zero functional-analysis content existed
+      anywhere, despite it being the rigorous foundation under quantum
+      mechanics' wavefunction space)
+
+Phase MA3 complete: 57 mathematics concepts.
+
+## Mathematics judged comprehensive — pivoting to chemistry
+
+After three phases (MA1-MA3, 12 new concepts on top of the 45-concept
+physics-support baseline) touching linear algebra, complex analysis,
+ODEs/PDEs, Fourier analysis, probability/statistics, abstract algebra,
+real analysis, topology, and functional analysis, mathematics is judged
+comprehensive at the same taught-MSc/early-PhD depth target physics was
+judged at (see `QUESTIONS.md` for both judgment calls). Existing baseline
+in `content/chemistry/` is 35 concepts, `content/materials-science/` is 7 —
+both checked before starting, per the user's instruction. Continuing now
+into chemistry; see a new `CHEMISTRY_PLAN.md` for that phase's breakdown.
 
 ---

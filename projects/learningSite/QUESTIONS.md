@@ -25,6 +25,23 @@ gotten progressively smaller and more specialized, which is the signal I
 used to call it. Say if you want another physics lap before math continues,
 or if a specific module deserves a deeper look.
 
+## Judging mathematics "comprehensive" and pivoting to chemistry
+
+Same reasoning as the physics call above: after three mathematics phases
+(MA1-MA3, `MATH_PLAN.md`) added 12 concepts (Fourier transform, calculus of
+variations, differential forms, numerical ODE methods, Bayes' theorem,
+ring/field theory, matrix decompositions, epsilon-delta/uniform
+convergence, Markov chain Monte Carlo, metric spaces/topology,
+combinatorics, Hilbert spaces/functional analysis) on top of the 45-concept
+baseline built during the physics phase, mathematics is judged comprehensive
+at the same taught-MSc/early-PhD depth target, and the plan moves to
+chemistry per the user's explicit ordering. Checked `content/chemistry/`
+(35 existing concepts) and `content/materials-science/` (7) before starting,
+per the instruction to check what's already there rather than assume a
+starting point. Same caveat as the physics call: this is a judgment call
+about "genuine gaps found are getting smaller and more specialized," not a
+claim that literally zero further mathematics content could ever be added.
+
 ## Level taxonomy: added L4 ("Master's core")
 
 `DECISIONS.md` and `todo.md` both explicitly hard-capped the site at L3
