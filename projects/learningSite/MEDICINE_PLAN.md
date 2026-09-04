@@ -576,4 +576,63 @@ on top of the 48-concept Phase Med1-Med4 baseline). `npm run
 validate:content` (9 subjects, 582 concepts), `npm run lint:terminology`
 (266 glossary terms), and `npm run typecheck` all pass; working tree clean.
 
+## Phase Med6 — cardiovascular medicine, and respiratory medicine
+
+The first two organ-system-pathophysiology modules (roadmap items 11-12),
+building directly on Phase Med1's anatomy/physiology concepts and Phase
+Med3's general-pathology concepts (thrombosis/embolism/infarction,
+acute-and-chronic-inflammation) rather than restating them. Same "not
+clinical training" framing as every prior phase — mechanisms of disease,
+not diagnostic criteria or treatment protocols.
+
+### Module `cardiovascular-medicine`
+
+- [ ] Atherosclerosis and coronary artery disease (plaque formation
+      mechanism, the ischemia mechanism when a coronary artery narrows or
+      occludes; prerequisites: cardiovascular-system-anatomy-and-
+      physiology, thrombosis-embolism-and-infarction)
+- [ ] Heart failure mechanisms (systolic vs. diastolic dysfunction, the
+      Frank-Starling relationship, neurohormonal compensatory mechanisms
+      and why they eventually worsen the underlying problem; prerequisite:
+      cardiovascular-system-anatomy-and-physiology)
+- [ ] Cardiac arrhythmia mechanisms (the cardiac conduction system, reentry
+      circuits, mechanisms behind tachyarrhythmias and bradyarrhythmias;
+      prerequisite: cardiovascular-system-anatomy-and-physiology)
+- [ ] Hypertension pathophysiology (blood pressure regulation, the
+      renin-angiotensin-aldosterone system's role, primary vs. secondary
+      hypertension mechanisms; prerequisite: adrenal-gland-physiology)
+- [ ] Valvular heart disease mechanisms (stenosis vs. regurgitation as
+      distinct mechanical problems, their hemodynamic consequences;
+      prerequisite: cardiovascular-system-anatomy-and-physiology)
+- [ ] Shock and circulatory failure (hypovolemic, cardiogenic,
+      distributive/septic, and obstructive shock as mechanistic categories
+      sharing a common endpoint — inadequate tissue perfusion; prerequisite:
+      cardiovascular-system-anatomy-and-physiology)
+
+### Module `respiratory-medicine`
+
+- [ ] Obstructive lung disease mechanisms (asthma and COPD mechanisms,
+      airway resistance; prerequisite: respiratory-system-anatomy-and-
+      physiology)
+- [ ] Restrictive lung disease mechanisms (pulmonary fibrosis mechanism,
+      reduced lung compliance; prerequisite: respiratory-system-anatomy-
+      and-physiology)
+- [ ] Pneumonia and lower respiratory infection mechanisms (the mechanism
+      of alveolar consolidation — the lung-specific pathophysiology layer
+      on top of microbiology's general host-pathogen-interactions-and-
+      virulence concept, not a restatement of it; prerequisites:
+      respiratory-system-anatomy-and-physiology, host-pathogen-
+      interactions-and-virulence)
+- [ ] Respiratory failure and gas exchange abnormalities (hypoxemic vs.
+      hypercapnic respiratory failure, ventilation-perfusion mismatch,
+      shunt, diffusion limitation — a genuine formula candidate, e.g. the
+      alveolar gas equation or A-a gradient; prerequisite: respiratory-
+      system-anatomy-and-physiology)
+- [ ] Pulmonary vascular disease (pulmonary embolism mechanism, pulmonary
+      hypertension; prerequisite: thrombosis-embolism-and-infarction)
+- [ ] Control of breathing and its disorders (central and peripheral
+      chemoreceptors, the sleep apnea mechanism; prerequisites:
+      respiratory-system-anatomy-and-physiology, the-peripheral-and-
+      autonomic-nervous-systems)
+
 ---
