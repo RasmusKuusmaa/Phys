@@ -1,0 +1,10 @@
+{
+  "id": "hypertension-pathophysiology-m1",
+  "conceptId": "hypertension-pathophysiology",
+  "text": {
+    "en": "Most cases of high blood pressure have one identifiable underlying cause that, once found and fixed, would cure the condition -- in reality, the large majority of hypertension cases (primary/essential hypertension) arise from a combination of genetic predisposition and lifestyle factors gradually shifting the blood-pressure set point over years, with no single fixable cause; only a minority (secondary hypertension) have one identifiable, often correctable cause like a hormone-secreting tumor or a narrowed renal artery.",
+    "et": "Enamikul kõrge vererõhu juhtudest on üksainus tuvastatav aluseks olev põhjus, mis kord leitud ja parandatud, ravitaks seisundi ära -- tegelikult tekib valdav enamus hüpertensiooni juhtudest (primaarne ehk essentsiaalne hüpertensioon) geneetilise eelsoodumuse ja elustiilitegurite kombinatsioonist, mis aastate jooksul järk-järgult nihutab vererõhu seatud punkti, ilma ühtainsa parandatava põhjuseta; ainult vähemusel (sekundaarne hüpertensioon) on üksainus tuvastatav, sageli korrigeeritav põhjus, nagu hormoone eritav kasvaja või ahenenud neeruarter.",
+    "sourceHash": "6a0a9b588c18f962",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "hypertension-pathophysiology-m3",
+  "conceptId": "hypertension-pathophysiology",
+  "text": {
+    "en": "The renin-angiotensin-aldosterone system only affects blood pressure through fluid retention, with no direct effect on the blood vessels themselves -- in reality, RAAS raises blood pressure through two distinct actions: angiotensin II directly constricts blood vessels (raising peripheral resistance), while aldosterone separately increases sodium and water retention (raising blood volume and, indirectly, cardiac output); both mechanisms operate simultaneously, not just the fluid-retention one.",
+    "et": "Reniin-angiotensiin-aldosterooni süsteem mõjutab vererõhku ainult vedelikupeetuse kaudu, ilma otsese mõjuta veresoontele endile -- tegelikult tõstab RAAS vererõhku kahe eraldiseisva toimega: angiotensiin II ahendab otseselt veresooni (tõstes perifeerset resistentsust), samas kui aldosteroon suurendab eraldi naatriumi ja vee säilitamist (tõstes vere mahtu ja kaudselt südame väljundit); mõlemad mehhanismid toimivad samaaegselt, mitte ainult vedelikupeetuse oma.",
+    "sourceHash": "e9bbf07fb4a9934d",
+    "stale": false
+  }
+}

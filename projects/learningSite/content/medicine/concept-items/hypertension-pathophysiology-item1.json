@@ -1,0 +1,56 @@
+{
+  "id": "hypertension-pathophysiology-item1",
+  "conceptId": "hypertension-pathophysiology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does the distinction between primary (essential) and secondary hypertension matter mechanistically, beyond just labeling?",
+    "et": "Miks on primaarse (essentsiaalse) ja sekundaarse hüpertensiooni eristus mehhanistlikult oluline, rohkem kui lihtsalt sildistamine?",
+    "sourceHash": "560697962da82e35",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Secondary hypertension has one identifiable, often correctable underlying cause (like a hormone-secreting tumor or narrowed renal artery), while primary hypertension arises from a combination of genetic and lifestyle factors with no single fixable cause -- so the two categories point toward genuinely different underlying mechanisms to investigate.",
+        "et": "Sekundaarsel hüpertensioonil on üksainus tuvastatav, sageli korrigeeritav aluseks olev põhjus (nagu hormoone eritav kasvaja või ahenenud neeruarter), samas kui primaarne hüpertensioon tekib geneetiliste ja elustiilitegurite kombinatsioonist ilma ühtainsa parandatava põhjuseta -- seega viitavad need kaks kategooriat tõeliselt erinevatele uuritavatele alusmehhanismidele.",
+        "sourceHash": "f9327314028fd17b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both categories actually have the exact same underlying mechanism, so the distinction is purely a matter of naming convention with no practical difference.",
+        "et": "Mõlemal kategoorial on tegelikult täpselt sama aluseks olev mehhanism, mistõttu eristus on puhtalt nimetamise küsimus ilma praktilise erinevuseta.",
+        "sourceHash": "e1aeb09289ec9c02",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypertension-pathophysiology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The distinction only matters for how hard the heart is pumping, since vessel resistance is irrelevant to either category.",
+        "et": "Eristus on oluline ainult selle jaoks, kui kõvasti süda pumpab, kuna veresoonte resistentsus ei ole kummagi kategooria jaoks oluline.",
+        "sourceHash": "23f783fe559c08cb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypertension-pathophysiology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The distinction only matters for fluid retention, since RAAS has no direct effect on blood vessel tone in either category.",
+        "et": "Eristus on oluline ainult vedelikupeetuse jaoks, kuna RAAS-il ei ole kummagi kategooria puhul otsest mõju veresoonte toonusele.",
+        "sourceHash": "21092f24292daf43",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypertension-pathophysiology-m3"
+    }
+  ]
+}

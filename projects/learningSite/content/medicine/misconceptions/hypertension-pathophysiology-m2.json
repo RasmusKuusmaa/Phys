@@ -1,0 +1,10 @@
+{
+  "id": "hypertension-pathophysiology-m2",
+  "conceptId": "hypertension-pathophysiology",
+  "text": {
+    "en": "Blood pressure is determined by only one factor -- how hard the heart is pumping -- so vessel narrowing or stiffness is irrelevant to hypertension -- in reality, blood pressure is the product of two independent factors: cardiac output (how much blood the heart pumps) and total peripheral resistance (how much the blood vessels resist that flow); chronically raising either factor alone can produce hypertension, which is why vascular narrowing/stiffness is just as central to the disease as cardiac output.",
+    "et": "Vererõhku määrab ainult üks tegur -- kui kõvasti süda pumpab -- mistõttu veresoonte ahenemine või jäikus ei ole hüpertensiooni jaoks oluline -- tegelikult on vererõhk kahe sõltumatu teguri korrutis: südame väljund (kui palju verd süda pumpab) ja üldine perifeerne resistentsus (kui palju veresooned sellele voolule vastu panevad); kummagi teguri krooniline tõstmine üksinda võib tekitada hüpertensiooni, mis ongi põhjus, miks veresoonte ahenemine/jäikus on haiguse jaoks sama keskne kui südame väljund.",
+    "sourceHash": "1ce6180e85d34eef",
+    "stale": false
+  }
+}

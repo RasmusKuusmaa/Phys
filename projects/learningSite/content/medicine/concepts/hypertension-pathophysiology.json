@@ -1,0 +1,21 @@
+{
+  "id": "hypertension-pathophysiology",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "cardiovascular-medicine",
+  "title": {
+    "en": "Hypertension pathophysiology",
+    "et": "Kõrgvererõhktõve patofüsioloogia",
+    "sourceHash": "4f4051171496673c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Blood pressure is the product of cardiac output and total peripheral resistance, so anything that chronically raises either factor -- more blood pumped per minute, or narrower/stiffer blood vessels resisting that flow -- raises blood pressure; the renin-angiotensin-aldosterone system (RAAS), already introduced in this subject's adrenal-gland-physiology concept for its role in sodium balance, sits at the center of long-term blood pressure regulation because angiotensin II directly constricts blood vessels while aldosterone increases sodium and water retention, both actions raising blood pressure through a different one of the two factors in that product. The large majority of hypertension cases (called primary or essential hypertension) have no single identifiable cause -- they arise from a combination of genetic predisposition and lifestyle factors subtly shifting the RAAS and vascular-tone set point over years, which is exactly why primary hypertension typically cannot be cured by removing one specific problem. A minority of cases (secondary hypertension) do have one identifiable, often correctable cause -- a hormone-secreting adrenal tumor overproducing aldosterone, a narrowed renal artery triggering excess renin release, or another distinct single mechanism -- and this distinction matters because it changes what a workup for the underlying cause should even be looking for.",
+    "et": "Vererõhk on südame väljundi ja üldise perifeerse resistentsuse korrutis, mistõttu miski, mis kroonuliselt tõstab kumbagi tegurit -- rohkem verd pumbatakse minutis või kitsamad/jäigemad veresooned sellele voolule vastu panevad -- tõstab vererõhku; reniin-angiotensiin-aldosterooni süsteem (RAAS), mida on selle aine neerupealise füsioloogia mõistes juba tutvustatud selle rolli tõttu naatriumi tasakaalus, asub pikaajalise vererõhu reguleerimise keskmes, sest angiotensiin II ahendab otseselt veresooni, samas kui aldosteroon suurendab naatriumi ja vee säilitamist, mõlemad toimed tõstavad vererõhku selle korrutise erineva teguri kaudu. Valdav enamus kõrgvererõhktõve juhtudest (nimetatakse primaarseks ehk essentsiaalseks hüpertensiooniks) ei oma ühtainust tuvastatavat põhjust -- need tekivad geneetilise eelsoodumuse ja elustiilitegurite kombinatsioonist, mis aastate jooksul peenelt nihutavad RAAS-i ja veresoonte toonuse seatud punkti, mis ongi täpselt põhjus, miks primaarset hüpertensiooni tavaliselt ei saa ravida ühe konkreetse probleemi eemaldamisega. Vähemus juhtudest (sekundaarne hüpertensioon) omab siiski ühtainust tuvastatavat, sageli korrigeeritavat põhjust -- hormone eritav neerupealise kasvaja, mis toodab liigselt aldosterooni, ahenenud neeruarter, mis vallandab liigse reniini vabanemise, või mõni muu eraldiseisev üksik mehhanism -- ning see eristus on oluline, sest see muudab seda, mida aluseks oleva põhjuse uurimine üldse peaks otsima.",
+    "sourceHash": "0e8c9b590be80d1f",
+    "stale": false
+  },
+  "prerequisites": [
+    "adrenal-gland-physiology"
+  ]
+}
