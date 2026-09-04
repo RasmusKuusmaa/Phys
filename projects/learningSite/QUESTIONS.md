@@ -57,6 +57,42 @@ starting point. Same caveat as the physics call: this is a judgment call
 about "genuine gaps found are getting smaller and more specialized," not a
 claim that literally zero further mathematics content could ever be added.
 
+## Judging materials-science "comprehensive" — all four subjects complete
+
+Same reasoning as the physics, mathematics, and chemistry calls above.
+Materials-science started with only 7 thin concepts (all L1-L2, one
+module). Phase MS1 (`MATERIALS_SCIENCE_PLAN.md`) added 5 foundational
+concepts (crystal structure, point defects/dislocations, phase diagrams,
+diffusion, fracture/fatigue/creep). Phase MS2 added 4 more foundational
+concepts (electronic/magnetic/optical properties, corrosion and material
+degradation, materials selection and design, nanomaterials). Phase MS3
+then did the same bachelor-to-graduate extension the other three subjects
+got: 5 new L4 concepts (dislocation theory and strengthening mechanisms,
+thermodynamics of materials and multicomponent phase equilibria,
+computational materials science, thin films/surface engineering/
+semiconductor materials processing, biomaterials), surveyed specifically
+for genuine graduate-level gaps not overlapping existing concepts (checked
+characterisation-methods first — confirmed it's an intro-level "which
+technique fits which scale" survey, not a deep single-technique treatment,
+so a deeper dislocation-theory/thermodynamics/computational pass was a
+real gap, not padding). Materials-science is now 21 concepts, judged
+comprehensive at the same taught-MSc/early-PhD depth target as physics,
+mathematics, and chemistry.
+
+This completes the full task: all four subjects in the user's original
+ordering (physics, mathematics, chemistry, materials-science) have been
+built out from their existing baselines to a taught-MSc/early-PhD depth
+target, each judged comprehensive by the same "genuine gaps getting
+smaller and more specialized" signal. Same caveat as every prior call:
+this is a judgment call, not a claim that zero further content could ever
+be added to any of the four subjects — see each subject's PLAN.md closing
+section for the specific reasoning at that pivot point. Final state at
+this stopping point: `npm run validate:content` passes (5 subjects, 472
+concepts), `npm run lint:terminology` passes, `npm run typecheck` passes,
+and the full test suite passes (150/150). Working tree is clean; every
+commit this session was one concept (or one docs update) with a
+single-line, unsigned message per `CLAUDE.md`'s commit convention.
+
 ## Level taxonomy: added L4 ("Master's core")
 
 `DECISIONS.md` and `todo.md` both explicitly hard-capped the site at L3

@@ -98,22 +98,44 @@ intro-level "which technique fits which length scale" survey, not a deep
 treatment of any one technique, so a deeper single-technique concept would
 not be padding).
 
-- [ ] Dislocation theory and strengthening mechanisms (Peierls-Nabarro
+- [x] Dislocation theory and strengthening mechanisms (Peierls-Nabarro
       stress, work hardening, precipitation/solid-solution/grain-boundary
       strengthening — depth beyond the existing intro-level
       point-defects-and-dislocations-in-crystals concept)
-- [ ] Thermodynamics of materials and multicomponent phase equilibria
+- [x] Thermodynamics of materials and multicomponent phase equilibria
       (Gibbs free energy of mixing, CALPHAD approach, ternary systems —
       depth beyond the existing binary-only phase-diagrams concept)
-- [ ] Computational materials science (finite-element and phase-field
+- [x] Computational materials science (finite-element and phase-field
       modelling, atomistic/molecular-dynamics simulation of materials —
       distinct from physics's general computational-methods content,
       which cannot be a cross-subject prerequisite anyway)
-- [ ] Thin films, surface engineering, and semiconductor materials
+- [x] Thin films, surface engineering, and semiconductor materials
       processing (deposition techniques, epitaxy, surface treatments —
       an entire standard topic currently absent)
-- [ ] Biomaterials (materials designed for biological/medical
+- [x] Biomaterials (materials designed for biological/medical
       compatibility — properties, biocompatibility criteria, degradation
       in vivo — an entire standard topic currently absent)
+
+Phase MS3 complete: 21 materials-science concepts total (5 new L4
+concepts on top of the 16-concept Phase MS1+MS2 baseline).
+
+## Materials science judged comprehensive
+
+Same reasoning and same depth target as the physics, mathematics, and
+chemistry calls (see `QUESTIONS.md`). After Phase MS1 (5 foundational
+concepts: crystal structure, defects/dislocations, phase diagrams,
+diffusion, fracture/fatigue/creep), Phase MS2 (4 more foundational
+concepts: electronic/magnetic/optical properties, corrosion, materials
+selection, nanomaterials), and Phase MS3 (5 new L4 concepts: dislocation
+theory/strengthening mechanisms, multicomponent thermodynamics,
+computational materials science, thin films/semiconductor processing,
+biomaterials), materials science now covers structure, defects, phase
+equilibria, mechanical/electronic/optical properties, degradation,
+selection/design, and processing from bachelor through graduate level —
+judged comprehensive at the taught-MSc/early-PhD depth target.
+
+This completes all four subjects in the user's original ordering
+(physics, mathematics, chemistry, materials-science). See the closing
+note in `QUESTIONS.md` for the final summary.
 
 ---
