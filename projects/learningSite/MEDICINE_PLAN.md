@@ -317,23 +317,40 @@ The standard "big four" general-pathology sequence (cell injury/adaptation,
 inflammation/repair, hemodynamic disorders, neoplasia), each built on the
 relevant Phase Med1/Med2 prerequisite rather than restated from scratch.
 
-- [ ] Cell injury and adaptation (reversible vs. irreversible cell injury,
+- [x] Cell injury and adaptation (reversible vs. irreversible cell injury,
       hypertrophy/atrophy/metaplasia as adaptive responses; prerequisite:
       cell-structure-and-organelle-function)
-- [ ] Acute and chronic inflammation (the inflammatory cascade at
+- [x] Acute and chronic inflammation (the inflammatory cascade at
       tissue-outcome level — resolution, fibrosis, chronic/granulomatous
       inflammation; prerequisite: innate-immunity-and-inflammation)
-- [ ] Necrosis and patterns of tissue death (coagulative/liquefactive/
+- [x] Necrosis and patterns of tissue death (coagulative/liquefactive/
       caseous/fat necrosis, distinguished mechanistically from apoptosis;
       prerequisite: apoptosis-and-programmed-cell-death)
-- [ ] Neoplasia and cancer biology (benign vs. malignant, the hallmarks of
+- [x] Neoplasia and cancer biology (benign vs. malignant, the hallmarks of
       cancer, oncogenes and tumor suppressors; prerequisite:
       the-cell-cycle-and-mitosis)
-- [ ] Wound healing and tissue repair (regeneration vs. fibrosis, the
+- [x] Wound healing and tissue repair (regeneration vs. fibrosis, the
       phases of wound healing; prerequisite: acute-and-chronic-inflammation)
-- [ ] Thrombosis, embolism, and infarction (hemostasis basics, thrombus
+- [x] Thrombosis, embolism, and infarction (hemostasis basics, thrombus
       formation, embolism, the infarction mechanism; prerequisite:
       cardiovascular-system-anatomy-and-physiology)
+
+Module complete: 6 general-pathology concepts, all kept conceptual (no
+clean single numeric relationship stood out at this intro-pathology depth).
+`acute-and-chronic-inflammation` was originally authored with no
+prerequisite (the sibling `immunology` module's `innate-immunity-and-
+inflammation` concept didn't exist yet when this module started); once it
+landed, its id was added as this concept's prerequisite in a small
+follow-up commit to match what this plan file had already documented.
+`npm run validate:content`, `npm run lint:terminology`, and `npm run
+typecheck` all pass as of this module's last commit; every resource URL
+verified live with `curl`. Two Estonian resources are honest close matches
+rather than exact-topic matches, since Estonian Wikipedia has no dedicated
+article at the concept's exact scope: `cell-injury-and-adaptation` links to
+"Metaplaasia" (one of the four adaptations the concept covers, not a
+general "cellular adaptation" article) and `wound-healing-and-tissue-
+repair` links to "Armistamine" (scarring specifically) — same kind of
+adjustment prior phases on other subjects have recorded.
 
 ## Phase Med4 — pharmacology, and biostatistics/epidemiology
 
