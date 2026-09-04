@@ -179,6 +179,25 @@ typecheck` all pass; every resource URL verified live individually with
 phase — a sibling fork was concurrently authoring general-engineering's own
 Phase GE3, same adjustment every phase since AE1 has recorded).
 
+## Phase AE4 — closing gap sweep
+
+The Phase AE3 fork's own honest post-hoc read (recorded in `QUESTIONS.md`)
+flagged two genuine, standard-textbook gaps noticed while writing that phase
+but out of its directed scope: launch-vehicle systems/staging, and aircraft
+icing/environmental effects. Same "close the gaps the last phase surfaced
+before judging comprehensive" move the chemistry phase's C4 sweep (Hess's
+law, chromatography) made.
+
+- [ ] Launch vehicle systems and staging (multi-stage rocket design, mass
+      fractions across stages, staging optimisation — the Tsiolkovsky
+      equation and specific impulse are already covered per-stage in
+      `propulsion-fundamentals`/`advanced-propulsion-and-specific-impulse`,
+      but multi-stage *systems* tradeoffs are not; prerequisites:
+      propulsion-fundamentals, advanced-propulsion-and-specific-impulse)
+- [ ] Aircraft icing and environmental effects (ice accretion on airfoils
+      and its effect on lift/drag, anti-icing and de-icing systems;
+      prerequisite: aerodynamics-fundamentals)
+
 Phase AE2 complete: 11 aerospace-engineering concepts total (5 new Phase-AE2
 concepts on top of the 6-concept Phase AE1 baseline). `npm run
 validate:content` (494 concepts, 7 subjects), `npm run lint:terminology`
