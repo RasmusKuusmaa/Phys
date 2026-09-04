@@ -1,0 +1,10 @@
+{
+  "id": "aircraft-icing-and-environmental-effects-m3",
+  "conceptId": "aircraft-icing-and-environmental-effects",
+  "text": {
+    "en": "De-icing and anti-icing are the same thing -- either term describes any system that deals with ice on an aircraft -- in reality, anti-icing systems act preventively, stopping ice from forming in the first place (heated leading edges, freezing-point-depressant fluids applied before flight), while de-icing systems act after ice has already accreted, removing it mechanically or thermally (inflatable pneumatic boots, cyclic heating); the two categories differ in when they intervene and are often combined on the same aircraft for different surfaces.",
+    "et": "Jäätõrje ja jäätumisvastased süsteemid on üks ja sama asi -- mõlemad terminid kirjeldavad mistahes süsteemi, mis tegeleb jääga õhusõidukil -- tegelikult toimivad jäätumisvastased süsteemid ennetavalt, takistades jää teket juba eos (kuumutatud eesservad, enne lendu peale kantud külmumispunkti langetavad vedelikud), samas kui jäätõrjesüsteemid toimivad pärast seda, kui jää on juba tekkinud, eemaldades selle mehaaniliselt või termiliselt (pumbatavad pneumaatilised saapad, tsükliline kuumutamine); need kaks kategooriat erinevad selle poolest, millal need sekkuvad, ning neid kombineeritakse sageli samal õhusõidukil eri pindade jaoks.",
+    "sourceHash": "1aa20fd9147ad377",
+    "stale": false
+  }
+}

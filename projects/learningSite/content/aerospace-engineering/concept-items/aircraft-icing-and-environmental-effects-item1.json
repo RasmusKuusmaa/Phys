@@ -1,0 +1,56 @@
+{
+  "id": "aircraft-icing-and-environmental-effects-item1",
+  "conceptId": "aircraft-icing-and-environmental-effects",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can a thin layer of ice on a wing's leading edge cause a dangerous drop in stall angle of attack, even though it adds only a small amount of extra weight to the aircraft?",
+    "et": "Miks võib õhuke jääkiht tiiva eesserval põhjustada ohtliku languse seiskumise rünnakunurgas, kuigi see lisab õhusõidukile vaid vähesel määral lisakaalu?",
+    "sourceHash": "5a7fea328ac15f80",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the ice disrupts the smooth airflow the wing's designed cross-section depends on, causing flow separation and stall at a much lower angle of attack than the same wing would reach when clean -- an aerodynamic-shape effect much larger than the added mass.",
+        "et": "Sest jää häirib sujuvat õhuvoolu, millest tiiva kavandatud ristlõige sõltub, põhjustades voolu lahknemise ja seiskumise tunduvalt madalama rünnakunurga juures, kui sama tiib saavutaks puhtana -- aerodünaamilise kuju mõju, mis on palju suurem kui lisatud mass.",
+        "sourceHash": "3ee3f572620efe1c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the added weight from the ice increases the wing loading enough on its own to require a much higher approach speed, independent of any change to the airflow over the wing.",
+        "et": "Sest jääst lisandunud raskusjõud suurendab tiivakoormust iseenesest piisavalt, et nõuda palju kõrgemat lähenemiskiirust, sõltumata mistahes muutusest õhuvoolus üle tiiva.",
+        "sourceHash": "5ac56d23fae7096a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-icing-and-environmental-effects-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It can't -- icing is only a concern when the ambient air temperature is below freezing, and a thin layer forming at temperatures near zero has no meaningful aerodynamic effect.",
+        "et": "See ei saa nii olla -- jäätumine on probleem ainult siis, kui ümbritseva õhu temperatuur on alla nulli, ning nulli lähedasel temperatuuril tekkival õhukesel kihil ei ole olulist aerodünaamilist mõju.",
+        "sourceHash": "9ed0c9d0c69e25da",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-icing-and-environmental-effects-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the aircraft's anti-icing and de-icing systems are the same system, so if one type of ice-protection equipment is installed, ice accretion of any kind should already be prevented.",
+        "et": "Sest õhusõiduki jäätumisvastane ja jäätõrjesüsteem on üks ja sama süsteem, mistõttu kui üks jäätõrjeseadme tüüp on paigaldatud, peaks igasugune jää teke olema juba ennetatud.",
+        "sourceHash": "6f12ac3b0c9a362c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "aircraft-icing-and-environmental-effects-m3"
+    }
+  ]
+}

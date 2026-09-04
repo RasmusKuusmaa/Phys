@@ -1,0 +1,10 @@
+{
+  "id": "aircraft-icing-and-environmental-effects-m1",
+  "conceptId": "aircraft-icing-and-environmental-effects",
+  "text": {
+    "en": "Ice on a wing is mainly a problem because of the extra weight it adds, similar to carrying extra cargo -- in reality, added weight is a minor factor compared to ice's effect on the wing's aerodynamic shape: even a thin, rough layer of ice near the leading edge disrupts the smooth airflow the wing's designed cross-section depends on, causing flow separation and a dramatic stall at a much lower angle of attack and higher stall speed than the same aircraft would experience clean, which is a far larger and more dangerous effect than the added mass.",
+    "et": "Jää tiival on peamiselt probleem lisakaalu tõttu, mida see lisab, sarnaselt lisalasti kandmisele -- tegelikult on lisakaal väike tegur võrreldes jää mõjuga tiiva aerodünaamilisele kujule: isegi õhuke, kare jääkiht eesserva lähedal häirib sujuvat õhuvoolu, millest tiiva kavandatud ristlõige sõltub, põhjustades voolu lahknemise ja järsu seiskumise tunduvalt madalama rünnakunurga ja kõrgema seiskumiskiiruse juures, kui sama õhusõiduk kogeks puhtana, mis on palju suurem ja ohtlikum mõju kui lisatud mass.",
+    "sourceHash": "9f5aa0ca535a1790",
+    "stale": false
+  }
+}

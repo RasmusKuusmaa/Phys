@@ -1,0 +1,21 @@
+{
+  "id": "aircraft-icing-and-environmental-effects",
+  "subject": "aerospace-engineering",
+  "level": "L2",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Aircraft icing and environmental effects",
+    "et": "Õhusõiduki jäätumine ja keskkonnamõjud",
+    "sourceHash": "7980eb0ff8479328",
+    "stale": false
+  },
+  "summary": {
+    "en": "Supercooled water droplets in clouds remain liquid well below zero Celsius until they strike something solid, and an aircraft's wings, tail, and engine inlets are exactly that trigger: on impact the droplets freeze instantly onto the airframe, building up ice that changes the wing's shape, disrupts smooth airflow over its surface, and can trigger flow separation and stall at a substantially lower angle of attack than the same wing would stall at when clean, all while adding weight and drag at the same time. This is a fundamentally different failure mode from the material-level environmental degradation covered elsewhere in materials science: icing changes the vehicle's aerodynamic shape and mass distribution in flight, not the strength of its structural materials, and it can develop in minutes rather than years. Aircraft carry two broad categories of defense: anti-icing systems (heated leading edges, or fluids applied before flight) that prevent ice from forming in the first place, and de-icing systems (inflatable pneumatic boots, or cyclic heating) that mechanically or thermally remove ice that has already accreted, with the choice between them driven by where on the aircraft ice is most likely to form and how much power or fluid the aircraft can spare for the system. Icing is only one entry in a broader category of environmental effects a real aircraft design must survive -- others include ultraviolet degradation of composite skins, sand and dust erosion of leading edges and engine compressors, and lightning-strike protection for both structure and avionics -- but icing is the one with the most direct and immediate effect on the aerodynamics this subject has built up from its very first concept onward.",
+    "et": "Ülejahutatud veepiisad pilvedes püsivad vedelas olekus kaugelt alla nulli kraadi Celsiuse järgi, kuni need põrkavad millegi tahkega kokku, ning õhusõiduki tiivad, saba ja mootori sisselaskeavad ongi täpselt see päästik: kokkupõrkel piisad külmuvad koheselt õhusõiduki kerele, moodustades jääkihi, mis muudab tiiva kuju, häirib sujuvat õhuvoolu selle pinnal ning võib vallandada voolu lahknemise ja seiskumise tunduvalt madalama rünnakunurga juures, kui puhas tiib seiskuks, lisades samal ajal nii kaalu kui takistust. See on põhimõtteliselt erinev rikkemehhanism materjaliteaduses mujal käsitletud materjali tasandi keskkonnamõjust: jäätumine muudab sõiduki aerodünaamilist kuju ja massijaotust lennu ajal, mitte tema konstruktsioonimaterjalide tugevust, ning see võib areneda minutitega, mitte aastatega. Õhusõidukitel on kaks laia kaitsekategooriat: jäätumisvastased süsteemid (kuumutatud eesservad või enne lendu peale kantud vedelikud), mis takistavad jää tekkimist juba eos, ning jäätõrjesüsteemid (pumbatavad pneumaatilised saapad või tsükliline kuumutamine), mis eemaldavad juba tekkinud jää mehaaniliselt või termiliselt, kusjuures valik nende kahe vahel sõltub sellest, kuhu õhusõidukil jää kõige tõenäolisemalt tekib ja kui palju energiat või vedelikku sõiduk süsteemi jaoks kulutada saab. Jäätumine on vaid üks osa laiemast keskkonnamõjude kategooriast, mida reaalne õhusõiduki disain peab taluma -- teiste hulgas ultraviolettkiirgusest tingitud komposiitkatte lagunemine, liiva- ja tolmuerosioon eesservadel ja mootori kompressoris ning välgulöögi kaitse nii konstruktsioonile kui avioonikale --, kuid jäätumine on see, millel on kõige otsesem ja vahetum mõju aerodünaamikale, millele see aine oma esimesest mõistest peale tugineb.",
+    "sourceHash": "787ea2145ca7db67",
+    "stale": false
+  },
+  "prerequisites": [
+    "aerodynamics-fundamentals"
+  ]
+}

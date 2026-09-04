@@ -1,0 +1,10 @@
+{
+  "id": "aircraft-icing-and-environmental-effects-m2",
+  "conceptId": "aircraft-icing-and-environmental-effects",
+  "text": {
+    "en": "Icing can only happen when the outside air temperature is below freezing, so an aircraft is safe from icing whenever the ambient temperature reads above zero -- in reality, icing danger is governed by whether supercooled liquid water droplets exist in the cloud the aircraft is flying through, not simply by the ambient air temperature reading; droplets can remain liquid well below 0 degrees Celsius until they strike the airframe, and local aerodynamic cooling on fast-moving surfaces can also bring a surface below freezing even when the surrounding air is slightly above it.",
+    "et": "Jäätumine saab toimuda ainult siis, kui välisõhu temperatuur on alla nulli, mistõttu õhusõiduk on jäätumise eest kaitstud alati, kui ümbritsev temperatuur näitab üle nulli -- tegelikult määrab jäätumise ohu see, kas pilves, mida õhusõiduk läbib, leidub ülejahutatud vedelaid veepiisku, mitte lihtsalt ümbritseva õhu temperatuuri näit; piisad võivad püsida vedelana kaugelt alla 0 kraadi Celsiuse, kuni need õhusõiduki kerele põrkavad, ning kiirelt liikuvate pindade lokaalne aerodünaamiline jahtumine võib samuti viia pinna alla nulli isegi siis, kui ümbritsev õhk on veidi üle nulli.",
+    "sourceHash": "29cf856c52469508",
+    "stale": false
+  }
+}
