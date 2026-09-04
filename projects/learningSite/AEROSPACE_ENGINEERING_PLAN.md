@@ -90,13 +90,32 @@ false-positive 429s across many pre-existing, unrelated resources, not a
 usable per-concept gate at this scale — confirmed none of this phase's own
 resources were among the 429s).
 
-## Phase AE2 — not yet planned
+## Phase AE2 — remaining foundational/intermediate gaps
 
-To be scoped after AE1 lands and the subject's baseline shape (module count,
-genuine remaining gaps) can be judged the way MS2 was scoped after MS1.
-Candidates surveyed but not committed to: aircraft performance (range/
-endurance, the Breguet range equation), avionics and flight control systems,
-spacecraft subsystems (attitude control, thermal, power), aeroelasticity,
-high-speed/hypersonic aerothermodynamics.
+Scoped from AE1's own candidate list, same "survey before committing"
+approach MS2 used. Checked each against physics/materials-science before
+locking the list: none overlap an existing cross-subject concept (the
+architecture has no cross-subject prerequisites anyway, per `QUESTIONS.md`).
+
+- [ ] Aircraft performance (range and endurance, the Breguet range equation,
+      payload-range tradeoffs — the applied performance-analysis layer on
+      top of propulsion and aerodynamics; prerequisites:
+      propulsion-fundamentals, aerodynamics-fundamentals)
+- [ ] Avionics and flight control systems (fly-by-wire, autopilot basics,
+      sensor suites — attitude/air-data sensing feeding the control
+      surfaces already introduced; prerequisite:
+      flight-dynamics-and-stability)
+- [ ] Spacecraft subsystems (attitude determination and control, thermal
+      control, electrical power systems — the engineering-bus topics a
+      spacecraft needs beyond its orbit; prerequisite:
+      orbital-mechanics-and-spaceflight)
+- [ ] Aeroelasticity (flutter, divergence, structural-aerodynamic coupling —
+      a genuinely distinct topic combining aircraft-structures and
+      aerodynamics-fundamentals, absent from both individually;
+      prerequisites: aircraft-structures, aerodynamics-fundamentals)
+- [ ] Hypersonic aerothermodynamics (aerodynamic heating, stagnation
+      temperature, thermal protection systems — the high-speed-flight
+      topic compressible-flow-and-gas-dynamics sets up but doesn't cover;
+      prerequisite: compressible-flow-and-gas-dynamics)
 
 ---
