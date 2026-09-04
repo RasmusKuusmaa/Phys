@@ -1,0 +1,10 @@
+{
+  "id": "epsilon-delta-limits-and-uniform-convergence-m3",
+  "conceptId": "epsilon-delta-limits-and-uniform-convergence",
+  "text": {
+    "en": "Believing uniform convergence and pointwise convergence are essentially the same condition, just described using different technical vocabulary -- the two are genuinely different in strength: pointwise convergence allows the rate at which each individual input's values converge to vary arbitrarily (and without any uniform bound) from input to input, while uniform convergence specifically requires a single rate of convergence that works simultaneously for every input at once; this is a strictly stronger requirement, and it is precisely the extra strength of uniform convergence, absent from pointwise convergence, that is needed to guarantee continuity, term-by-term integration, and other structural properties survive the limiting process.",
+    "et": "Arvamus, et ühtlane koondumine ja punktiviisiline koondumine on sisuliselt sama tingimus, mida lihtsalt kirjeldatakse erineva tehnilise sõnavaraga -- kaks on tõeliselt erineva tugevusega: punktiviisiline koondumine lubab kiirusel, millega iga üksiku sisendi väärtused koonduvad, varieeruda suvaliselt (ja ilma ühtlase piirita) sisendist sisendisse, samal ajal kui ühtlane koondumine nõuab spetsiifiliselt üksikut koondumiskiirust, mis toimib samaaegselt iga sisendi jaoks korraga; see on rangelt tugevam nõue, ning täpselt see ühtlase koondumise lisatugevus, mis punktiviisilisel koondumisel puudub, on vajalik, et garanteerida pidevuse, liikmehaaval integreerimise ja teiste struktuursete omaduste ellujäämine piiriprotsessis.",
+    "sourceHash": "3228e7aeca623d9f",
+    "stale": false
+  }
+}

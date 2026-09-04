@@ -1,0 +1,55 @@
+{
+  "id": "epsilon-delta-limits-and-uniform-convergence-item1",
+  "conceptId": "epsilon-delta-limits-and-uniform-convergence",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A sequence of continuous functions converges pointwise to a discontinuous limit function. What does this demonstrate?",
+    "et": "Pidevate funktsioonide jada koondub punktiviisiliselt katkendlikuks piirfunktsiooniks. Mida see demonstreerib?",
+    "sourceHash": "f7c81cdc03b5d70d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Pointwise convergence alone is too weak to guarantee that continuity transfers from the individual functions to their limit; uniform convergence is needed for that guarantee.",
+        "et": "Punktiviisiline koondumine üksi on liiga nõrk, et garanteerida pidevuse ülekandumist üksikutelt funktsioonidelt nende piirile; selle garantii jaoks on vaja ühtlast koondumist.",
+        "sourceHash": "a5b1034be7a043a7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is mathematically impossible, so any apparent example of it must actually contain an error somewhere in the construction.",
+        "et": "See on matemaatiliselt võimatu, seega peab iga näiline näide sellest tegelikult sisaldama viga kusagil konstruktsioonis.",
+        "sourceHash": "2062c8ef26769bfd",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It shows that pointwise and uniform convergence are actually the same condition, since both would produce this same kind of behavior.",
+        "et": "See näitab, et punktiviisiline ja ühtlane koondumine on tegelikult sama tingimus, kuna mõlemad tooksid sama liiki käitumise.",
+        "sourceHash": "c18ddf39820e3c2f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "epsilon-delta-limits-and-uniform-convergence-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It demonstrates that continuity always transfers automatically from a sequence of functions to its pointwise limit, exactly as expected.",
+        "et": "See demonstreerib, et pidevus kandub alati automaatselt üle funktsioonide jadalt selle punktiviisilisele piirile, täpselt nagu oodatud.",
+        "sourceHash": "fa32066c97f22b52",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "epsilon-delta-limits-and-uniform-convergence-m2"
+    }
+  ]
+}

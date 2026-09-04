@@ -1,0 +1,22 @@
+{
+  "id": "epsilon-delta-limits-and-uniform-convergence",
+  "subject": "mathematics",
+  "level": "L4",
+  "module": "calculus",
+  "title": {
+    "en": "Epsilon-delta limits and uniform convergence",
+    "et": "Epsilon-delta piirväärtused ja ühtlane koondumine",
+    "sourceHash": "631cfc99fcd18d17",
+    "stale": false
+  },
+  "summary": {
+    "en": "The intuitive description of a limit as 'the value a function's outputs approach as the input closes in' is not itself a rigorous mathematical definition, so real analysis replaces it with the epsilon-delta formulation -- for every margin of error epsilon someone might demand around the limit, a small enough neighbourhood delta around the input point exists within which the function's outputs stay within that margin -- a precise enough statement to actually prove limit properties rather than merely illustrate them, and the same rigor becomes essential once a whole sequence of functions is involved: pointwise convergence, where each individual input's sequence of output values happens to converge, sounds like it should be enough to transfer familiar properties like continuity or the ability to swap a limit with an integral from the individual functions to their limit function, but it is not, and only the strictly stronger condition of uniform convergence -- a single delta (or its sequence analogue) that works simultaneously for every input at once, not a different one for each -- actually guarantees continuity, term-by-term integration, and similar structural properties survive the limiting process intact.",
+    "et": "Intuitiivne kirjeldus piirväärtusest kui 'väärtusest, millele funktsiooni väljundid lähenevad, kui sisend läheneb' ei ole ise range matemaatiline definitsioon, seega asendab reaalanalüüs selle epsilon-delta formuleeringuga -- iga vearääri epsiloni jaoks, mida keegi võiks piirväärtuse ümber nõuda, eksisteerib piisavalt väike ümbrus delta sisendpunkti ümber, mille sees funktsiooni väljundid jäävad selle vearääri sisse -- piisavalt täpne väide, et tegelikult tõestada piirväärtuse omadusi, mitte lihtsalt neid illustreerida, ning sama rangus muutub hädavajalikuks niipea, kui asjasse on kaasatud terve funktsioonide jada: punktiviisiline koondumine, kus iga üksiku sisendi väljundväärtuste jada juhtub koonduma, kõlab, nagu peaks sellest piisama, et kanda tuttavad omadused nagu pidevus või võime vahetada piirväärtus integraaliga üksikutelt funktsioonidelt nende piirfunktsioonile, kuid see ei piisa, ning ainult rangelt tugevam tingimus, ühtlane koondumine -- üksik delta (või selle jada analoog), mis toimib samaaegselt iga sisendi jaoks korraga, mitte erinev igaühe jaoks -- tegelikult garanteerib, et pidevus, liikmehaaval integreerimine ja sarnased struktuursed omadused jäävad piiriprotsessi tervena üle.",
+    "sourceHash": "d806363d50aa5c57",
+    "stale": false
+  },
+  "prerequisites": [
+    "limits-of-functions",
+    "infinite-series"
+  ]
+}

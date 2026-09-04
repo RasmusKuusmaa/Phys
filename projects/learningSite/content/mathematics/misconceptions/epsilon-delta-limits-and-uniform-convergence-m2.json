@@ -1,0 +1,10 @@
+{
+  "id": "epsilon-delta-limits-and-uniform-convergence-m2",
+  "conceptId": "epsilon-delta-limits-and-uniform-convergence",
+  "text": {
+    "en": "Believing pointwise convergence of a sequence of functions is enough by itself to guarantee that properties like continuity automatically transfer from the individual functions to their limit function -- pointwise convergence only requires that each individual input's sequence of output values converges, with no control over how the rate of convergence might vary (and worsen without bound) across different inputs; continuous functions can converge pointwise to a discontinuous limit function, which is exactly the standard counterexample used to show pointwise convergence is too weak a condition to preserve continuity in general.",
+    "et": "Arvamus, et funktsioonide jada punktiviisiline koondumine on iseenesest piisav, et garanteerida, et omadused nagu pidevus kanduvad automaatselt üksikutelt funktsioonidelt üle nende piirfunktsioonile -- punktiviisiline koondumine nõuab ainult, et iga üksiku sisendi väljundväärtuste jada koonduks, ilma kontrollita selle üle, kuidas koondumiskiirus võib erinevate sisendite lõikes varieeruda (ja piiramatult halveneda); pidevad funktsioonid võivad koonduda punktiviisiliselt katkendlikuks piirfunktsiooniks, mis ongi täpselt standardne vastunäide, mida kasutatakse näitamaks, et punktiviisiline koondumine on liiga nõrk tingimus, et üldiselt pidevust säilitada.",
+    "sourceHash": "b8972ae2ea5fefa6",
+    "stale": false
+  }
+}

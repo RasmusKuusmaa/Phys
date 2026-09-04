@@ -1,0 +1,10 @@
+{
+  "id": "epsilon-delta-limits-and-uniform-convergence-m1",
+  "conceptId": "epsilon-delta-limits-and-uniform-convergence",
+  "text": {
+    "en": "Believing the epsilon-delta definition of a limit is merely a more formal, notation-heavy way of restating the same intuitive 'gets closer and closer' idea, with no genuine additional content -- the epsilon-delta formulation is specifically what makes limits provable rather than merely illustratable: it converts a vague description of approach into a precise, checkable logical statement (for every epsilon there exists a delta such that...) that can actually be used to prove general theorems about limits (that the limit of a sum is the sum of the limits, for instance), something the intuitive description alone cannot rigorously support.",
+    "et": "Arvamus, et piirväärtuse epsilon-delta definitsioon on lihtsalt formaalsem, tähistusrikkam viis sama intuitiivse 'läheneb üha lähemale' idee ümbersõnastamiseks, ilma tõelise täiendava sisuta -- epsilon-delta formuleering on spetsiifiliselt see, mis muudab piirväärtused tõestatavaks, mitte lihtsalt illustreeritavaks: see teisendab lähenemise ähmase kirjelduse täpseks, kontrollitavaks loogiliseks väiteks (iga epsiloni jaoks eksisteerib delta, nii et...), mida saab tegelikult kasutada üldiste teoreemide tõestamiseks piirväärtuste kohta (näiteks, et summa piirväärtus on piirväärtuste summa), midagi, mida intuitiivne kirjeldus üksi rangelt toetada ei suuda.",
+    "sourceHash": "40162a3099fb76d5",
+    "stale": false
+  }
+}
