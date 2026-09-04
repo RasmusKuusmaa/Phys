@@ -1,0 +1,21 @@
+{
+  "id": "pharmacodynamics-and-drug-receptor-interactions",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "pharmacology",
+  "title": {
+    "en": "Pharmacodynamics and drug-receptor interactions",
+    "et": "Farmakodünaamika ja ravimi-retseptori interaktsioonid",
+    "sourceHash": "952ccebd66be1032",
+    "stale": false
+  },
+  "summary": {
+    "en": "While pharmacokinetics asks what the body does to a drug, pharmacodynamics asks what the drug does to the body -- specifically, how binding a molecular target translates into a measurable biological effect. Most drugs act by binding a specific receptor protein, and the relationship between how much drug is present and how large an effect it produces is captured by the dose-response curve: a steep, roughly S-shaped curve on a logarithmic dose scale that rises from no effect through a plateau, characterized by two independent numbers -- potency (how much drug is needed to produce a given effect, read off the curve's horizontal position) and efficacy (the maximum effect the drug can produce at all, read off the curve's plateau height) -- so a more potent drug is not automatically a more effective one. Drugs that bind a receptor and trigger its normal signaling response are agonists; drugs that bind the same receptor but block it without triggering that response, thereby preventing the body's own signaling molecule (or another drug) from acting there, are antagonists. This single distinction, agonist versus antagonist at a specific receptor, explains a large fraction of how different drug classes work: an opioid painkiller is an agonist at opioid receptors, mimicking the body's own endorphins, while naloxone -- the opioid-overdose antidote -- is an antagonist at those same receptors, displacing the opioid without activating the receptor itself.",
+    "et": "Kui farmakokineetika küsib, mida organism ravimiga teeb, siis farmakodünaamika küsib, mida ravim organismiga teeb -- täpsemalt, kuidas molekulaarse sihtmärgiga seondumine muutub mõõdetavaks bioloogiliseks toimeks. Enamik ravimeid toimib, seondudes konkreetse retseptorvalguga, ning seos selle vahel, kui palju ravimit on kohal ja kui suure toime see tekitab, on kirjeldatud annuse-vastuse kõveraga: logaritmilisel annuseskaalal järsu, ligikaudu S-kujulise kõveraga, mis tõuseb nullmõjust platooni, ning mida iseloomustavad kaks sõltumatut suurust -- toimetugevus (kui palju ravimit on vaja teatud toime saavutamiseks, loetakse kõvera horisontaalasendist) ja efektiivsus (maksimaalne toime, mida ravim üldse suudab tekitada, loetakse kõvera platoo kõrgusest) --, mistõttu tugevama toimetugevusega ravim ei ole automaatselt efektiivsem. Ravimid, mis seonduvad retseptoriga ja käivitavad selle tavapärase signaaliülekande vastuse, on agonistid; ravimid, mis seonduvad sama retseptoriga, kuid blokeerivad selle ilma seda vastust käivitamata, takistades sellega organismi enda signaalmolekuli (või mõne teise ravimi) toimimist seal, on antagonistid. See üksainus eristus, agonist versus antagonist konkreetsel retseptoril, seletab suurt osa erinevate ravimiklasside toimimisest: opioidne valuvaigisti on opioidretseptorite agonist, matkides organismi enda endorfiine, samas kui naloksoon -- opioidi üledoosi vastumürk -- on antagonist samadel retseptoritel, tõrjudes opioidi välja ilma retseptorit ise aktiveerimata.",
+    "sourceHash": "13ea117fc67b4fbe",
+    "stale": false
+  },
+  "prerequisites": [
+    "pharmacokinetics-absorption-distribution-metabolism-excretion"
+  ]
+}

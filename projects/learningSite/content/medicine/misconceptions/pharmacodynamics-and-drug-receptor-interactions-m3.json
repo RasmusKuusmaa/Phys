@@ -1,0 +1,10 @@
+{
+  "id": "pharmacodynamics-and-drug-receptor-interactions-m3",
+  "conceptId": "pharmacodynamics-and-drug-receptor-interactions",
+  "text": {
+    "en": "Giving enough of an antagonist will eventually produce the same effect as an agonist, just delayed -- in reality, a pure antagonist has no efficacy of its own no matter the dose; it can only block or reduce another molecule's effect at the shared receptor, never trigger the receptor's own signaling response itself.",
+    "et": "Piisava koguse antagonisti manustamine tekitab lõpuks sama toime, mis agonistil, lihtsalt hilinenult -- tegelikult ei ole puhtal antagonistil olenemata annusest mingit iseseisvat efektiivsust; see suudab ainult blokeerida või vähendada mõne teise molekuli toimet samal retseptoril, kuid ei suuda kunagi ise käivitada retseptori enda signaaliülekande vastust.",
+    "sourceHash": "1e572824ceeda577",
+    "stale": false
+  }
+}

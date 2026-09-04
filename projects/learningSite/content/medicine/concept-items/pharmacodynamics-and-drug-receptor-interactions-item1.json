@@ -1,0 +1,56 @@
+{
+  "id": "pharmacodynamics-and-drug-receptor-interactions-item1",
+  "conceptId": "pharmacodynamics-and-drug-receptor-interactions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Drug X requires a much lower dose than Drug Y to start producing an effect, but at their respective maximum doses, Drug Y produces a larger overall effect than Drug X ever can. What does this tell you?",
+    "et": "Ravim X vajab toime tekkimiseks palju väiksemat annust kui ravim Y, kuid oma vastavate maksimaalsete annuste juures tekitab ravim Y suurema kogutoime, kui ravim X üldse suudab. Mida see näitab?",
+    "sourceHash": "b46e26f2c4963c7a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Drug X is more potent than Drug Y, but Drug Y has higher efficacy than Drug X -- potency and efficacy are independent properties, so a drug can lead on one without leading on the other.",
+        "et": "Ravim X on toimetugevam kui ravim Y, kuid ravimil Y on kõrgem efektiivsus kui ravimil X -- toimetugevus ja efektiivsus on sõltumatud omadused, mistõttu ravim võib ühes juhtida, ilma et juhiks teises.",
+        "sourceHash": "11748b0f9d09d922",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is contradictory and can't actually happen -- whichever drug works at a lower dose must also produce the larger maximum effect.",
+        "et": "See on vastuoluline ja ei saa tegelikult juhtuda -- ravim, mis toimib madalama annuse juures, peab tekitama ka suurema maksimaalse toime.",
+        "sourceHash": "b7a1af507eb2ba2a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pharmacodynamics-and-drug-receptor-interactions-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Drug X must be an antagonist of Drug Y, since it works at a lower dose but produces a smaller overall effect.",
+        "et": "Ravim X peab olema ravimi Y antagonist, kuna see toimib madalama annuse juures, kuid tekitab väiksema kogutoime.",
+        "sourceHash": "807f337efc3c3479",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pharmacodynamics-and-drug-receptor-interactions-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "If you kept increasing Drug X's dose far enough, it would eventually match Drug Y's maximum effect too.",
+        "et": "Kui ravimi X annust piisavalt kaua suurendada, jõuaks see lõpuks ravimi Y maksimaalse toimeni.",
+        "sourceHash": "e995438fad93278f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pharmacodynamics-and-drug-receptor-interactions-m3"
+    }
+  ]
+}

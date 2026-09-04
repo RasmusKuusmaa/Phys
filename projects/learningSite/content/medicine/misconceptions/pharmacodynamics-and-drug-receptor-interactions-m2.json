@@ -1,0 +1,10 @@
+{
+  "id": "pharmacodynamics-and-drug-receptor-interactions-m2",
+  "conceptId": "pharmacodynamics-and-drug-receptor-interactions",
+  "text": {
+    "en": "An antagonist is simply a drug with the 'opposite' effect of an agonist, like a drug that lowers blood pressure being an antagonist to one that raises it -- in reality, agonist and antagonist are defined relative to a specific receptor, not to a physiological outcome: an antagonist binds the same receptor as its paired agonist and blocks it without activating it, it doesn't need to produce any opposite effect of its own.",
+    "et": "Antagonist on lihtsalt ravim, millel on agonisti 'vastupidine' toime, näiteks vererõhku langetav ravim on antagonist vererõhku tõstvale ravimile -- tegelikult defineeritakse agonist ja antagonist konkreetse retseptori, mitte füsioloogilise tulemuse suhtes: antagonist seondub sama retseptoriga, mis tema paariline agonist, ja blokeerib selle ilma seda aktiveerimata, ning ei pea ise tekitama mingit vastupidist toimet.",
+    "sourceHash": "8721c445bc64f7da",
+    "stale": false
+  }
+}

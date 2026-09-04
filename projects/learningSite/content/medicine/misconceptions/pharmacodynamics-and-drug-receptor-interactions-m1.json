@@ -1,0 +1,10 @@
+{
+  "id": "pharmacodynamics-and-drug-receptor-interactions-m1",
+  "conceptId": "pharmacodynamics-and-drug-receptor-interactions",
+  "text": {
+    "en": "A more potent drug (one that works at a lower dose) is automatically a more effective drug (one that produces a bigger maximum effect) -- in reality, potency and efficacy are independent properties read from different features of the dose-response curve: potency comes from the curve's horizontal position, efficacy from its plateau height, so a very potent drug can still have low maximum efficacy, and a less potent drug can have high maximum efficacy.",
+    "et": "Toimetugevam ravim (mis toimib madalama annuse juures) on automaatselt efektiivsem ravim (mis tekitab suurema maksimaalse toime) -- tegelikult on toimetugevus ja efektiivsus sõltumatud omadused, mis loetakse annuse-vastuse kõvera erinevatelt tunnustelt: toimetugevus tuleneb kõvera horisontaalasendist, efektiivsus selle platoo kõrgusest, mistõttu väga toimetugeval ravimil võib siiski olla madal maksimaalne efektiivsus ja vähem toimetugeval ravimil kõrge maksimaalne efektiivsus.",
+    "sourceHash": "661554e7d4f8ac62",
+    "stale": false
+  }
+}
