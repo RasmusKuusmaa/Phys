@@ -1,0 +1,56 @@
+{
+  "id": "density-functional-theory-item1",
+  "conceptId": "density-functional-theory",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "The Hohenberg-Kohn theorems prove that a molecule's ground-state electron density determines all of its ground-state properties exactly. Why doesn't this mean practical DFT calculations use an exact, known functional?",
+    "et": "Hohenbergi-Kohni teoreemid tõestavad, et molekuli põhioleku elektronitihedus määrab täpselt kõik selle põhioleku omadused. Miks ei tähenda see, et praktilised DFT arvutused kasutavad täpset, teadaolevat funktsionaali?",
+    "sourceHash": "7a89de71f136758f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The theorems are an existence proof -- they establish that an exact functional must exist without revealing its explicit form, so practical calculations necessarily use approximate functionals instead.",
+        "et": "Teoreemid on eksistentsitõestus -- need kinnitavad, et täpne funktsionaal peab eksisteerima, paljastamata selle selgesõnalist kuju, seega kasutavad praktilised arvutused selle asemel tingimata ligikaudseid funktsionaale.",
+        "sourceHash": "8ba2a8ce3e84db5c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They do mean this -- the exact functional is fully known and used directly, which is why all DFT calculations for the same molecule always agree exactly.",
+        "et": "Nad tõesti tähendavad seda -- täpne funktsionaal on täielikult teada ja seda kasutatakse otse, mis ongi põhjus, miks kõik sama molekuli DFT arvutused alati täpselt ühtivad.",
+        "sourceHash": "fc06dbe8855e5acd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "density-functional-theory-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Using density instead of the wavefunction always discards real information, so DFT is inherently a cruder approximation regardless of which functional is used.",
+        "et": "Tiheduse kasutamine lainefunktsiooni asemel kaotab alati reaalset teavet, seega on DFT olemuslikult toorem lähendus, olenemata sellest, millist funktsionaali kasutatakse.",
+        "sourceHash": "b080a27fb3bdcbf0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "density-functional-theory-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "DFT and Hartree-Fock are the same method under different names, so this question about an 'exact functional' doesn't actually apply to DFT specifically.",
+        "et": "DFT ja Hartree-Fock on sama meetod erinevate nimede all, seega ei kehti see küsimus 'täpsest funktsionaalist' tegelikult spetsiifiliselt DFT kohta.",
+        "sourceHash": "c32bea6620595f4c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "density-functional-theory-m1"
+    }
+  ]
+}

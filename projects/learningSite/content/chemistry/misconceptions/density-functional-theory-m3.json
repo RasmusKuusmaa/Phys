@@ -1,0 +1,10 @@
+{
+  "id": "density-functional-theory-m3",
+  "conceptId": "density-functional-theory",
+  "text": {
+    "en": "Believing density functional theory's use of a comparatively simple electron density (a function of only three spatial coordinates) instead of the full many-electron wavefunction means DFT is a cruder, less rigorous approximation than wavefunction-based methods -- the Hohenberg-Kohn theorems prove the density contains, in principle, exactly the same complete information as the wavefunction for determining ground-state properties, a rigorous mathematical equivalence, not a simplifying shortcut that discards information; the practical approximations DFT actually makes live entirely in the unknown exchange-correlation functional, not in any loss of information from using density instead of the wavefunction.",
+    "et": "Arvamus, et tihedusfunktsionaali teooria kasutamine võrdlemisi lihtsast elektronitihedusest (funktsioon ainult kolmest ruumilisest koordinaadist) täieliku paljuelektronilise lainefunktsiooni asemel tähendab, et DFT on toorem, vähem range lähendus kui lainefunktsioonipõhised meetodid -- Hohenbergi-Kohni teoreemid tõestavad, et tihedus sisaldab põhimõtteliselt täpselt sama täielikku teavet nagu lainefunktsioon põhioleku omaduste määramiseks, range matemaatiline samaväärsus, mitte teavet kaotav lihtsustav otsetee; praktilised lähendused, mida DFT tegelikult teeb, elavad täielikult tundmatus vahetus-korrelatsiooni funktsionaalis, mitte mistahes teabekaotuses tiheduse kasutamisest lainefunktsiooni asemel.",
+    "sourceHash": "b453b86cc405e226",
+    "stale": false
+  }
+}

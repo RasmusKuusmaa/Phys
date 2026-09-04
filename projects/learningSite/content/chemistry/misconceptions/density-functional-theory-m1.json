@@ -1,0 +1,10 @@
+{
+  "id": "density-functional-theory-m1",
+  "conceptId": "density-functional-theory",
+  "text": {
+    "en": "Believing density functional theory is simply Hartree-Fock theory renamed, or a minor variant of it that happens to track electron density instead of the wavefunction with no real conceptual difference -- the two methods rest on a genuinely different foundational strategy: Hartree-Fock approximates the many-electron wavefunction directly, while DFT is built on the Hohenberg-Kohn theorems' proof that the ground-state electron density alone, in principle, determines every ground-state property exactly, and practical DFT approximates the unknown exact functional relating density to energy rather than approximating a wavefunction at all; this different starting point is exactly why DFT can recover a substantial fraction of electron correlation energy that plain Hartree-Fock leaves out entirely.",
+    "et": "Arvamus, et tihedusfunktsionaali teooria on lihtsalt Hartree-Focki teooria ümbernimetatuna, või selle väike variant, mis juhtub jälgima elektronitihedust lainefunktsiooni asemel ilma tegeliku kontseptuaalse erinevuseta -- kaks meetodit tuginevad tõeliselt erinevale põhimõttelisele strateegiale: Hartree-Fock lähendab paljuelektronilist lainefunktsiooni otse, samal ajal kui DFT on üles ehitatud Hohenbergi-Kohni teoreemide tõestusele, et põhioleku elektronitihedus üksi määrab põhimõtteliselt täpselt iga põhioleku omaduse, ning praktiline DFT lähendab tundmatut täpset funktsionaali, mis seob tiheduse energiaga, mitte ei lähenda üldse lainefunktsiooni; see erinev lähtepunkt ongi täpselt põhjus, miks DFT suudab taastada olulise osa elektronikorrelatsiooni energiast, mille tavaline Hartree-Fock täielikult välja jätab.",
+    "sourceHash": "d3ad30b7462ccb4c",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "density-functional-theory",
+  "subject": "chemistry",
+  "level": "L4",
+  "module": "theoretical-chemistry",
+  "title": {
+    "en": "Density functional theory",
+    "et": "Tihedusfunktsionaali teooria",
+    "sourceHash": "bf54fdad72acd595",
+    "stale": false
+  },
+  "summary": {
+    "en": "The Hohenberg-Kohn theorems established a genuinely surprising fact: a molecule's ground-state electron density, a comparatively simple function of only three spatial coordinates, contains in principle every piece of information needed to determine every one of that molecule's ground-state properties exactly, including its total energy, meaning the full many-electron wavefunction (a vastly more complicated object depending on the coordinates of every electron simultaneously) is not actually necessary at all if the exact relationship between density and energy were known, and density functional theory (DFT) exploits this by reformulating quantum chemistry as a search for that unknown functional -- the exact rule connecting a given density to the corresponding energy -- with practical DFT then approximating that unknown, exact functional (specifically its exchange-correlation piece) rather than approximating the wavefunction itself the way Hartree-Fock does, which is what lets DFT often recover a large fraction of the electron correlation energy Hartree-Fock leaves out, at a fraction of the computational cost of the most accurate wavefunction-based methods.",
+    "et": "Hohenbergi-Kohni teoreemid tuvastasid tõeliselt üllatava fakti: molekuli põhioleku elektronitihedus, võrdlemisi lihtne funktsioon ainult kolmest ruumilisest koordinaadist, sisaldab põhimõtteliselt igat teabekildu, mis on vajalik selle molekuli iga põhioleku omaduse täpseks määramiseks, sealhulgas selle kogu energia, mis tähendab, et täielikku paljuelektronilist lainefunktsiooni (tohutult keerulisem objekt, mis sõltub samaaegselt iga elektroni koordinaatidest) ei ole tegelikult üldse vaja, kui tiheduse ja energia vaheline täpne seos oleks teada, ning tihedusfunktsionaali teooria (DFT) kasutab seda ära, sõnastades kvantkeemia ümber otsinguna selle tundmatu funktsionaali jaoks -- täpne reegel, mis seob antud tiheduse vastava energiaga --, kusjuures praktiline DFT lähendab siis seda tundmatut, täpset funktsionaali (spetsiifiliselt selle vahetus-korrelatsiooni osa), mitte ei lähenda lainefunktsiooni ennast, nagu teeb Hartree-Fock, mis ongi see, mis lubab DFT-l sageli taastada suure osa elektronikorrelatsiooni energiast, mille Hartree-Fock välja jätab, murdosa arvutuslikust kulust kõige täpsemate lainefunktsioonipõhiste meetodite ees.",
+    "sourceHash": "766abb41d4243231",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-hartree-fock-method"
+  ]
+}

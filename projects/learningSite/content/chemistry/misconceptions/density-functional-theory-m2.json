@@ -1,0 +1,10 @@
+{
+  "id": "density-functional-theory-m2",
+  "conceptId": "density-functional-theory",
+  "text": {
+    "en": "Believing the Hohenberg-Kohn theorems' proof that the ground-state density determines every ground-state property means the exact functional relating density to energy is actually known and used directly in practical calculations -- the theorems are specifically an existence proof: they establish that such an exact functional must exist in principle, without revealing what its explicit mathematical form actually is; practical density functional theory calculations necessarily use approximate functionals (constructed and refined over decades of research), not the unknown exact one, which is exactly why different approximate functionals can give somewhat different numerical answers for the same molecule.",
+    "et": "Arvamus, et Hohenbergi-Kohni teoreemide tõestus, et põhioleku tihedus määrab iga põhioleku omaduse, tähendab, et täpne funktsionaal, mis seob tiheduse energiaga, on tegelikult teada ja seda kasutatakse otse praktilistes arvutustes -- teoreemid on spetsiifiliselt eksistentsitõestus: need kinnitavad, et selline täpne funktsionaal peab põhimõtteliselt eksisteerima, paljastamata, milline on selle selgesõnaline matemaatiline kuju tegelikult; praktilised tihedusfunktsionaali teooria arvutused kasutavad tingimata ligikaudseid funktsionaale (konstrueeritud ja täpsustatud aastakümnete pikkuse uurimistöö jooksul), mitte tundmatut täpset, mis ongi täpselt põhjus, miks erinevad ligikaudsed funktsionaalid võivad anda sama molekuli jaoks mõnevõrra erinevaid numbrilisi vastuseid.",
+    "sourceHash": "8597279fe9eed39d",
+    "stale": false
+  }
+}
