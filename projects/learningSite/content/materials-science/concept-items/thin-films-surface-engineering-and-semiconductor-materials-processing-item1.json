@@ -1,0 +1,56 @@
+{
+  "id": "thin-films-surface-engineering-and-semiconductor-materials-processing-item1",
+  "conceptId": "thin-films-surface-engineering-and-semiconductor-materials-processing",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A semiconductor device built from an epitaxially grown thin film fails to work correctly because the film's crystal lattice does not match its substrate's lattice well. What does this best illustrate?",
+    "et": "Pooljuhtseadis, mis on ehitatud epitaksiaalselt kasvatatud õhukesest kilest, ei tööta korrektselt, kuna kile kristallvõre ei sobitu hästi substraadi võrega. Mida see kõige paremini illustreerib?",
+    "sourceHash": "5560c8ed63c57f85",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Lattice mismatch generates strain and interfacial dislocations that can directly degrade or destroy a device's intended function, making lattice matching a first-order design constraint, not an incidental detail.",
+        "et": "Võre mittevastavus tekitab pinget ja liidesedislokatsioone, mis võivad otseselt halvendada või hävitada seadise kavandatud funktsiooni, muutes võre sobituse esmajärguliseks disainipiiranguks, mitte juhuslikuks detailiks.",
+        "sourceHash": "31fdc07c261f448d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The thin film should behave identically to the bulk semiconductor material regardless of substrate, since a thin film is just a thinner slab of the same bulk material.",
+        "et": "Õhuke kile peaks käituma identselt massvormis pooljuhtmaterjaliga, olenemata substraadist, kuna õhuke kile on lihtsalt õhem plaat samast massmaterjalist.",
+        "sourceHash": "6f912224e4499d13",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thin-films-surface-engineering-and-semiconductor-materials-processing-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Lattice matching is mainly a manufacturing convenience issue and should not have been able to cause a genuine device failure like this.",
+        "et": "Võre sobitus on peamiselt tootmise mugavuse küsimus ja ei oleks pidanud suutma põhjustada sellist tõelist seadise riket.",
+        "sourceHash": "73562357f79c1465",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thin-films-surface-engineering-and-semiconductor-materials-processing-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Any deposition method (physical vapor deposition, chemical vapor deposition, epitaxial growth) should have produced an equally functional device, since these methods are interchangeable.",
+        "et": "Iga sadestamismeetod (füüsikaline aursadestus, keemiline aursadestus, epitaksiaalne kasvatamine) oleks pidanud andma võrdselt funktsionaalse seadise, kuna need meetodid on vahetatavad.",
+        "sourceHash": "d567edd6e6370198",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "thin-films-surface-engineering-and-semiconductor-materials-processing-m3"
+    }
+  ]
+}

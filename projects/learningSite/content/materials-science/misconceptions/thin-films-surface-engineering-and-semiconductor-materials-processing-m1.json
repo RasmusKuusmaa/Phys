@@ -1,0 +1,10 @@
+{
+  "id": "thin-films-surface-engineering-and-semiconductor-materials-processing-m1",
+  "conceptId": "thin-films-surface-engineering-and-semiconductor-materials-processing",
+  "text": {
+    "en": "Believing a thin film is simply a very thin slab of the same bulk material placed on a substrate, so its microstructure and properties are essentially identical to the bulk material's, just at a smaller thickness -- the deposition method itself (physical vapor deposition, chemical vapor deposition, epitaxial growth, and so on) determines the film's crystal structure, defect density, and lattice relationship to the substrate, so the exact same target material deposited by different methods, or under different growth conditions, can end up with substantially different microstructure and properties, not simply a thinner copy of the bulk material.",
+    "et": "Arvamus, et õhuke kile on lihtsalt väga õhuke plaat samast massmaterjalist, mis on asetatud substraadile, seega on selle mikrostruktuur ja omadused sisuliselt identsed massmaterjaliga, lihtsalt väiksemas paksuses -- sadestamismeetod ise (füüsikaline aursadestus, keemiline aursadestus, epitaksiaalne kasvatamine ja nii edasi) määrab kile kristallstruktuuri, defektitiheduse ja võresuhte substraadiga, seega võib täpselt sama sihtmaterjal, mis on sadestatud erinevate meetoditega või erinevate kasvutingimuste all, lõppeda oluliselt erineva mikrostruktuuri ja omadustega, mitte lihtsalt massmaterjali õhema koopiaga.",
+    "sourceHash": "05e11ffe0f327bcf",
+    "stale": false
+  }
+}

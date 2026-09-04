@@ -1,0 +1,10 @@
+{
+  "id": "thin-films-surface-engineering-and-semiconductor-materials-processing-m2",
+  "conceptId": "thin-films-surface-engineering-and-semiconductor-materials-processing",
+  "text": {
+    "en": "Believing lattice matching between an epitaxial film and its substrate is a minor technical detail that mainly affects deposition convenience rather than device function -- a large lattice mismatch generates strain and interfacial defects (dislocations) that can directly degrade or destroy the intended electronic or optical function of a semiconductor device built on that film, so lattice matching is a first-order design constraint that determines whether the device works at all, not an incidental manufacturing convenience.",
+    "et": "Arvamus, et epitaksiaalse kile ja selle substraadi vaheline võre sobitus on väike tehniline detail, mis mõjutab peamiselt sadestamise mugavust, mitte seadise funktsiooni -- suur võre mittevastavus tekitab pinget ja liidesedefekte (dislokatsioone), mis võivad otseselt halvendada või hävitada sellel kilel ehitatud pooljuhtseadise kavandatud elektrilist või optilist funktsiooni, seega on võre sobitus esmajärguline disainipiirang, mis määrab, kas seadis üldse töötab, mitte juhuslik tootmise mugavus.",
+    "sourceHash": "882f2053c6cb94ed",
+    "stale": false
+  }
+}

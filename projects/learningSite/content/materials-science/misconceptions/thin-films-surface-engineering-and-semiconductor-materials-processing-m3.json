@@ -1,0 +1,10 @@
+{
+  "id": "thin-films-surface-engineering-and-semiconductor-materials-processing-m3",
+  "conceptId": "thin-films-surface-engineering-and-semiconductor-materials-processing",
+  "text": {
+    "en": "Believing all thin-film deposition methods (physical vapor deposition, chemical vapor deposition, epitaxial growth) are essentially interchangeable ways to achieve the same result, so the choice between them is a matter of cost or convenience rather than of achievable film properties -- these methods produce genuinely different microstructures (different crystallinity, defect density, and substrate-lattice relationships), so the deposition method is chosen specifically for the properties a given application requires, and a method adequate for one purpose (a simple protective coating, say) may be entirely unsuitable for another (an epitaxial semiconductor layer requiring precise crystal registry with the substrate).",
+    "et": "Arvamus, et kõik õhukese kile sadestamismeetodid (füüsikaline aursadestus, keemiline aursadestus, epitaksiaalne kasvatamine) on sisuliselt vahetatavad viisid sama tulemuse saavutamiseks, seega on nendevaheline valik hinna või mugavuse küsimus, mitte saavutatavate kileomaduste küsimus -- need meetodid annavad tõeliselt erinevaid mikrostruktuure (erinev kristallilisus, defektitihedus ja substraadi-võre suhted), seega valitakse sadestamismeetod spetsiifiliselt omaduste jaoks, mida antud rakendus nõuab, ning meetod, mis on piisav ühel eesmärgil (näiteks lihtne kaitsekate), võib olla täiesti sobimatu teisel (epitaksiaalne pooljuhtkiht, mis nõuab täpset kristalliregistrit substraadiga).",
+    "sourceHash": "596360561d620999",
+    "stale": false
+  }
+}
