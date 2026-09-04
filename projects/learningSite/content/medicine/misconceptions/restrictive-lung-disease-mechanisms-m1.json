@@ -1,0 +1,10 @@
+{
+  "id": "restrictive-lung-disease-mechanisms-m1",
+  "conceptId": "restrictive-lung-disease-mechanisms",
+  "text": {
+    "en": "Restrictive and obstructive lung disease are the same kind of problem, just with different severities -- in reality, they are mechanically opposite problems: obstructive disease involves increased resistance to airflow (particularly on exhalation) with airways that are hard to empty, while restrictive disease involves a lung that cannot expand to hold a normal volume at all, regardless of how open the airways are; they are picked up by different measurements on lung function testing precisely because they represent different failure modes.",
+    "et": "Restriktiivne ja obstruktiivne kopsuhaigus on sama tüüpi probleem, lihtsalt erineva raskusastmega -- tegelikult on need mehaaniliselt vastandlikud probleemid: obstruktiivne haigus hõlmab suurenenud takistust õhuvoolule (eriti väljahingamisel) hingamisteedega, mida on raske tühjendada, samas kui restriktiivne haigus hõlmab kopsu, mis ei suuda üldse laieneda, et hoida normaalset mahtu, olenemata sellest, kui avatud hingamisteed on; need tuvastatakse kopsufunktsiooni testimisel erinevate mõõtmiste kaudu just seetõttu, et need esindavad erinevaid rikkerežiime.",
+    "sourceHash": "c1ec81049fd12970",
+    "stale": false
+  }
+}

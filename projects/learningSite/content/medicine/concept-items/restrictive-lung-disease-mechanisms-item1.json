@@ -1,0 +1,56 @@
+{
+  "id": "restrictive-lung-disease-mechanisms-item1",
+  "conceptId": "restrictive-lung-disease-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does someone with pulmonary fibrosis typically breathe with small, rapid breaths rather than struggling to exhale the way someone with COPD does?",
+    "et": "Miks hingab kopsufibroosiga inimene tüüpiliselt väikeste, kiirete hingetõmmetega, selle asemel et võidelda väljahingamisega, nagu teeb KOK-iga inimene?",
+    "sourceHash": "91da7020d5d2e8b7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Fibrotic scarring stiffens the lung tissue and reduces its compliance, so achieving a normal breath volume would require far more pressure/effort than the respiratory muscles can easily provide -- breathing in smaller, more frequent breaths is the more efficient adaptation.",
+        "et": "Fibrootiline armistumine jäigestab kopsukude ja vähendab selle vastavust, mistõttu normaalse hingetõmbe mahu saavutamine nõuaks palju rohkem rõhku/pingutust, kui hingamislihased suudaksid kergesti pakkuda -- väiksemate, sagedasemate hingetõmmetega hingamine on tõhusam kohandumine.",
+        "sourceHash": "4bab5ad9311743c4",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Pulmonary fibrosis and COPD are actually the same disease process, so the breathing patterns should be identical in both.",
+        "et": "Kopsufibroos ja KOK on tegelikult sama haigusprotsess, mistõttu hingamismustrid peaksid olema mõlemal identsed.",
+        "sourceHash": "184dab0f84096f2a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "restrictive-lung-disease-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Fibrosis mainly damages the airway walls and smooth muscle, the same tissue affected in COPD, which is why similar breathing difficulty would be expected.",
+        "et": "Fibroos kahjustab peamiselt hingamisteede seinu ja silelihast, sama kude, mida mõjutab KOK, mis ongi põhjus, miks võiks eeldada sarnast hingamisraskust.",
+        "sourceHash": "79e468fa4e2bb0d1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "restrictive-lung-disease-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Difficulty exhaling is actually the defining feature of restrictive disease too, so this scenario describes an atypical case.",
+        "et": "Väljahingamisraskus on tegelikult ka restriktiivse haiguse defineeriv tunnus, mistõttu see stsenaarium kirjeldab ebatüüpilist juhtumit.",
+        "sourceHash": "8bb24c5d9da4e867",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "restrictive-lung-disease-mechanisms-m3"
+    }
+  ]
+}

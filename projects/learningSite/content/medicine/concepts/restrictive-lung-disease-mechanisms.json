@@ -1,0 +1,21 @@
+{
+  "id": "restrictive-lung-disease-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "respiratory-medicine",
+  "title": {
+    "en": "Restrictive lung disease mechanisms",
+    "et": "Restriktiivsete kopsuhaiguste mehhanismid",
+    "sourceHash": "b9ec8e92de7681e2",
+    "stale": false
+  },
+  "summary": {
+    "en": "Where obstructive lung disease is defined by increased resistance to airflow, restrictive lung disease is defined by the opposite mechanical problem: the lungs simply cannot expand to hold a normal volume of air, regardless of how open the airways themselves are. Pulmonary fibrosis, the prototypical restrictive disease, involves progressive scarring and thickening of the tissue between the alveoli (the interstitium), which makes the lung tissue stiffer and less compliant -- compliance being a measure of how much a lung's volume changes for a given change in pressure applied to expand it. A stiffer, less compliant lung requires more pressure (more respiratory muscle effort) to achieve the same volume change a healthy, compliant lung would achieve easily, so a person with restrictive disease characteristically breathes with smaller, more rapid breaths rather than struggling to exhale the way someone with obstructive disease does. This distinction -- reduced lung volume and stiffness in restrictive disease versus increased airway resistance in obstructive disease -- means the two disease categories are picked up by genuinely different measurements on lung function testing, and mechanically represent opposite ends of what can go wrong with the lung's ability to change volume.",
+    "et": "Kui obstruktiivset kopsuhaigust defineerib suurenenud takistus õhuvoolule, siis restriktiivset kopsuhaigust defineerib vastupidine mehaaniline probleem: kopsud lihtsalt ei suuda laieneda, et hoida normaalset õhu mahtu, olenemata sellest, kui avatud hingamisteed ise on. Kopsufibroos, prototüüpne restriktiivne haigus, hõlmab progresseeruvat armistumist ja alveoolidevahelise koe (interstiitsium) paksenemist, mis muudab kopsukoe jäigemaks ja vähem vastavaks -- vastavus on mõõt selle kohta, kui palju kopsu maht muutub antud rõhumuutuse korral, mida rakendatakse selle laiendamiseks. Jäigem, vähem vastav kops nõuab rohkem rõhku (rohkem hingamislihaste pingutust), et saavutada sama mahumuutus, mida terve, vastav kops saavutaks kergesti, mistõttu restriktiivse haigusega inimene hingab iseloomulikult väiksemate, kiiremate hingetõmmetega, selle asemel et pingutada väljahingamisel, nagu teeb obstruktiivse haigusega inimene. See eristus -- vähenenud kopsumaht ja jäikus restriktiivse haiguse korral versus suurenenud hingamisteede resistentsus obstruktiivse haiguse korral -- tähendab, et need kaks haiguskategooriat tuvastatakse kopsufunktsiooni testimisel tõeliselt erinevate mõõtmiste kaudu ning mehhaaniliselt esindavad need vastandlikke äärmusi selles, mis võib kopsu mahumuutmise võimega valesti minna.",
+    "sourceHash": "da3b68b091507590",
+    "stale": false
+  },
+  "prerequisites": [
+    "respiratory-system-anatomy-and-physiology"
+  ]
+}

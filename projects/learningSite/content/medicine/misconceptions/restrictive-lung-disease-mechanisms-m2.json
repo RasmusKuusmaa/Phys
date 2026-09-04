@@ -1,0 +1,10 @@
+{
+  "id": "restrictive-lung-disease-mechanisms-m2",
+  "conceptId": "restrictive-lung-disease-mechanisms",
+  "text": {
+    "en": "Pulmonary fibrosis mainly affects the airways themselves, the same tissue affected in obstructive disease -- in reality, pulmonary fibrosis primarily affects the interstitium, the tissue between the alveoli, causing progressive scarring and thickening that stiffens the lung tissue itself and reduces its compliance; this is a fundamentally different anatomical target from the airway walls and smooth muscle affected in obstructive disease like asthma or COPD.",
+    "et": "Kopsufibroos mõjutab peamiselt hingamisteid endid, sama kude, mida mõjutab obstruktiivne haigus -- tegelikult mõjutab kopsufibroos peamiselt interstiitsiumi, alveoolidevahelist kude, põhjustades progresseeruvat armistumist ja paksenemist, mis jäigestab kopsukoe ise ja vähendab selle vastavust; see on põhimõtteliselt erinev anatoomiline sihtmärk hingamisteede seintest ja silelihasest, mida mõjutab obstruktiivne haigus nagu astma või KOK.",
+    "sourceHash": "42cd151967ccc542",
+    "stale": false
+  }
+}
