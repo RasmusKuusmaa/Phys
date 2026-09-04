@@ -1,0 +1,22 @@
+{
+  "id": "atherosclerosis-and-coronary-artery-disease",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "cardiovascular-medicine",
+  "title": {
+    "en": "Atherosclerosis and coronary artery disease",
+    "et": "Ateroskleroos ja pärgarteri haigus",
+    "sourceHash": "03715d9f62420757",
+    "stale": false
+  },
+  "summary": {
+    "en": "Atherosclerosis begins with injury to the delicate inner lining of an artery wall (the endothelium), which allows LDL cholesterol to accumulate underneath it; immune cells (macrophages) then move in to consume the trapped cholesterol, swelling into so-called foam cells, and the artery wall responds to this ongoing irritation by walling the growing lipid core off with a fibrous cap, producing the plaque that gradually narrows the vessel's lumen. A stable, thick-capped plaque mostly just narrows the artery gradually, producing predictable exertional symptoms once the narrowing becomes severe enough to limit blood flow during increased demand; the genuinely dangerous event is a thin-capped plaque's fibrous cap rupturing, exposing the lipid core directly to circulating blood, which triggers the same clotting cascade already covered in this subject's thrombosis concept -- except now happening inside a coronary artery, where the resulting clot can suddenly and completely occlude the vessel. When a coronary artery is occluded long enough, the heart muscle downstream is starved of oxygen and begins to die, the myocardial infarction that follows directly from this subject's general infarction mechanism, applied specifically to cardiac tissue.",
+    "et": "Ateroskleroos algab arteriseina õrna sisemise voodri (endoteeli) vigastusest, mis lubab LDL-kolesteroolil selle alla koguneda; immuunrakud (makrofaagid) liiguvad seejärel sisse, et lõksu jäänud kolesterooli omastada, paisudes nn vahurakkudeks, ning arteri sein reageerib sellele pidevale ärritusele, piirates kasvavat lipiidituuma kiulise kattega, tekitades naastu, mis järk-järgult ahendab veresoone valendikku. Stabiilne, paksu kattega naast enamasti lihtsalt ahendab arterit järk-järgult, tekitades ennustatavaid pingutusaegseid sümptomeid, kui ahenemine muutub piisavalt tõsiseks, et piirata verevoolu suurenenud nõudluse ajal; tõeliselt ohtlik sündmus on õhukese kattega naastu kiulise katte rebenemine, mis paljastab lipiidituuma otse ringlevale verele, käivitades sama hüübimiskaskaadi, mida on selle aine tromboosi mõistes juba käsitletud -- ainult nüüd toimub see pärgarteri sees, kus tekkiv tromb võib veresoone äkitselt ja täielikult ummistada. Kui pärgarter on piisavalt kaua ummistatud, jääb allpool asuv südamelihas hapnikust ilma ja hakkab surema, müokardiinfarkt, mis tuleneb otseselt selle aine üldisest infarkti mehhanismist, rakendatuna spetsiifiliselt südamekoele.",
+    "sourceHash": "6afe1d4447cb7cd6",
+    "stale": false
+  },
+  "prerequisites": [
+    "cardiovascular-system-anatomy-and-physiology",
+    "thrombosis-embolism-and-infarction"
+  ]
+}

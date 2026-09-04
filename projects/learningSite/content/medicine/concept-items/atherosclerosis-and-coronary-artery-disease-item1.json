@@ -1,0 +1,56 @@
+{
+  "id": "atherosclerosis-and-coronary-artery-disease-item1",
+  "conceptId": "atherosclerosis-and-coronary-artery-disease",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can a plaque causing only mild arterial narrowing sometimes trigger a sudden heart attack, while a much larger, more severely narrowing plaque produces only predictable exertional chest pain?",
+    "et": "Miks võib ainult kerget arteri ahenemist põhjustav naast mõnikord vallandada äkilise südameinfarkti, samas kui palju suurem, tõsisemalt ahendav naast tekitab ainult ennustatavat pingutusaegset valu rinnus?",
+    "sourceHash": "12de6d2c0592c822",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The smaller plaque may have a thin, unstable fibrous cap prone to sudden rupture, exposing its lipid core and triggering rapid clot formation, while the larger plaque may have a thick, stable cap that resists rupture despite causing more narrowing.",
+        "et": "Väiksemal naastul võib olla õhuke, ebastabiilne kiuline kate, mis kaldub äkitselt rebenema, paljastades lipiidituuma ja käivitades kiire trombi tekke, samas kui suuremal naastul võib olla paks, stabiilne kate, mis seisab rebenemisele vastu, hoolimata suuremast ahenemisest.",
+        "sourceHash": "bff71bf66f032333",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Plaque size is the only factor that matters, so this scenario couldn't actually happen -- larger plaques are always more dangerous.",
+        "et": "Naastu suurus on ainus tegur, mis loeb, mistõttu see stsenaarium tegelikult ei saaks juhtuda -- suuremad naastud on alati ohtlikumad.",
+        "sourceHash": "968f34ff1ad6adae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "atherosclerosis-and-coronary-artery-disease-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The smaller plaque must not actually involve any immune cell activity, which is why it can rupture so much more easily than the larger, immune-cell-heavy plaque.",
+        "et": "Väiksem naast ei saa tegelikult sisaldada mingit immuunrakkude aktiivsust, mistõttu see saab palju kergemini rebeneda kui suurem, immuunrakkudest tulvil naast.",
+        "sourceHash": "c7c84f0fe4926a1b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "atherosclerosis-and-coronary-artery-disease-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both plaques actually carry identical acute risk, and the difference in symptoms is purely due to which part of the artery each one is located in.",
+        "et": "Mõlemad naastud kannavad tegelikult identset ägedat riski ning sümptomite erinevus tuleneb puhtalt sellest, millises arteri osas kumbki asub.",
+        "sourceHash": "c83134b258bcff54",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "atherosclerosis-and-coronary-artery-disease-m3"
+    }
+  ]
+}
