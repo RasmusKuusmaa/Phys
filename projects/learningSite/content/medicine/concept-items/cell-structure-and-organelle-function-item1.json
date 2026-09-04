@@ -1,0 +1,56 @@
+{
+  "id": "cell-structure-and-organelle-function-item1",
+  "conceptId": "cell-structure-and-organelle-function",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A cell's Golgi apparatus stops functioning correctly due to a mutation. Which of the following is the most likely direct consequence?",
+    "et": "Raku Golgi kompleks lakkab mutatsiooni tõttu korrektselt talitlemast. Milline järgnevatest on kõige tõenäolisem otsene tagajärg?",
+    "sourceHash": "c128d168bf10fbc0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Proteins made in the rough endoplasmic reticulum accumulate without being properly modified and sorted, since they depend on passing through a functioning Golgi apparatus before reaching their correct destination.",
+        "et": "Karedapinnalises endoplasmaatilises retiikulumis valmistatud valgud kuhjuvad ilma korrektselt töötlemata ja sorteerimata, kuna need sõltuvad oma õigesse sihtkohta jõudmiseks toimiva Golgi kompleksi läbimisest.",
+        "sourceHash": "1a89d39db1a59ade",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "None -- since organelles function independently of each other, a nonfunctional Golgi apparatus would have no effect on any other part of the cell.",
+        "et": "Mitte midagi -- kuna organellid talitlevad üksteisest sõltumatult, ei mõjutaks mittetoimiv Golgi kompleks ühtegi teist raku osa.",
+        "sourceHash": "6df987b9b44e7adf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cell-structure-and-organelle-function-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The cell's energy production would drop sharply, since the Golgi apparatus is the organelle primarily responsible for generating ATP.",
+        "et": "Raku energiatootmine langeks järsult, kuna Golgi kompleks on peamiselt vastutav organell ATP tootmise eest.",
+        "sourceHash": "0d1e48f3fd7e1c7f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cell-structure-and-organelle-function-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The cell would be unable to store its DNA correctly, since the Golgi apparatus and the nucleus perform the same genetic-storage function.",
+        "et": "Rakk ei suudaks oma DNA-d korrektselt hoiustada, kuna Golgi kompleks ja tuum täidavad sama geneetilise hoiustamise funktsiooni.",
+        "sourceHash": "5f770e8064976571",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cell-structure-and-organelle-function-m2"
+    }
+  ]
+}

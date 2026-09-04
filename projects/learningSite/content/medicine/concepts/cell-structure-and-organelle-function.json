@@ -1,0 +1,19 @@
+{
+  "id": "cell-structure-and-organelle-function",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "cell-and-molecular-biology",
+  "title": {
+    "en": "Cell structure and organelle function",
+    "et": "Raku ehitus ja organellide talitlus",
+    "sourceHash": "69e1fb7c42e1af35",
+    "stale": false
+  },
+  "summary": {
+    "en": "A eukaryotic cell is not a uniform bag of chemistry but a highly compartmentalized system, with each membrane-bound organelle carrying out a distinct set of jobs that only makes sense together: the nucleus stores and protects the cell's DNA and controls which genes get read at any given moment; mitochondria run the oxygen-consuming reactions that generate most of the cell's usable chemical energy, and, beyond that energy role, also send and receive signals that can trigger the cell's own controlled death; the endoplasmic reticulum is a continuous membrane network that builds proteins and lipids (rough ER, studded with ribosomes) and processes calcium and detoxifies molecules (smooth ER); the Golgi apparatus receives proteins from the ER, modifies them, and sorts them into vesicles addressed to their correct final destination; and lysosomes serve as the cell's recycling and digestion centers, containing enzymes that break down worn-out organelles and imported material inside a membrane that keeps those same enzymes safely away from everything else in the cell. This compartmentalization is not decorative: keeping incompatible chemical environments (the strongly acidic interior of a lysosome, the oxidizing environment of a mitochondrion, the DNA-dense nucleus) physically separated by membranes is what lets a single cell run dozens of different, mutually incompatible chemical processes simultaneously without them interfering with each other.",
+    "et": "Eukarüootne rakk ei ole ühtlane keemiakott, vaid tugevalt jaotatud süsteem, kus iga membraaniga ümbritsetud organell täidab kindlat ülesannete kogumit, mis on mõistetav ainult koos: tuum säilitab ja kaitseb raku DNA-d ning kontrollib, milliseid geene mistahes hetkel loetakse; mitokondrid teostavad hapnikku tarbivaid reaktsioone, mis toodavad enamiku raku kasutatavast keemilisest energiast, ning lisaks sellele energiarollile saadavad ja võtavad vastu ka signaale, mis võivad käivitada raku enda kontrollitud surma; endoplasmaatiline retiikulum on pidev membraanivõrgustik, mis ehitab valke ja lipiide (karedapinnaline ER, kaetud ribosoomidega) ning töötleb kaltsiumi ja detoksifitseerib molekule (sile ER); Golgi kompleks võtab ER-ist vastu valke, muudab neid ning sorteerib need vesiikulitesse, mis on suunatud nende õigesse lõppsihtkohta; ning lüsosoomid toimivad raku ringlussevõtu- ja seedimiskeskustena, sisaldades ensüüme, mis lagundavad kulunud organelle ja sissetoodud materjali membraani sees, mis hoiab need samad ensüümid ohutult eemal kõigest muust rakus. See jaotatus ei ole dekoratiivne: hoides kokkusobimatuid keemilisi keskkondi (lüsosoomi tugevalt happeline sisemus, mitokondri oksüdeeriv keskkond, DNA-rikas tuum) membraanidega füüsiliselt eraldatuna, saab üksainus rakk läbi viia kümneid erinevaid, üksteisega kokkusobimatuid keemilisi protsesse samaaegselt, ilma et need üksteist häiriksid.",
+    "sourceHash": "54921787a8ea3da2",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cell-structure-and-organelle-function-m3",
+  "conceptId": "cell-structure-and-organelle-function",
+  "text": {
+    "en": "All the organelles inside a cell float freely and independently, so damaging one organelle has no effect on the others -- in reality, organelles work as an interconnected system: proteins built in the rough endoplasmic reticulum travel to the Golgi apparatus for modification before reaching their destination, and disrupting one step (e.g. a nonfunctional Golgi apparatus) backs up and disrupts the entire pathway, since each organelle depends on the correct functioning of the ones before and after it in these shared pathways.",
+    "et": "Kõik raku sees olevad organellid hõljuvad vabalt ja sõltumatult, mistõttu ühe organelli kahjustamine ei mõjuta teisi -- tegelikult toimivad organellid omavahel seotud süsteemina: karedapinnalises endoplasmaatilises retiikulumis ehitatud valgud liiguvad Golgi kompleksi töötlemiseks enne oma sihtkohta jõudmist, ning ühe etapi häirimine (nt mittetoimiv Golgi kompleks) tekitab ummistuse ja häirib kogu rada, kuna iga organell sõltub eelnevate ja järgnevate organellide korrektsest talitlusest neis ühistes radades.",
+    "sourceHash": "9afa48ef3d029ef7",
+    "stale": false
+  }
+}

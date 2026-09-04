@@ -1,0 +1,10 @@
+{
+  "id": "cell-structure-and-organelle-function-m1",
+  "conceptId": "cell-structure-and-organelle-function",
+  "text": {
+    "en": "Mitochondria are just the 'powerhouse of the cell' and have no other role -- in reality, mitochondria also participate directly in cell signaling and calcium buffering, and trigger apoptosis (programmed cell death) by releasing cytochrome c when a cell is damaged beyond repair; reducing them to only an energy-production role misses why cells dedicate an entire organelle, with its own DNA, to that broader signaling function.",
+    "et": "Mitokondrid on lihtsalt 'raku elektrijaam' ning neil pole muid rolle -- tegelikult osalevad mitokondrid otse ka rakusignalisatsioonis ja kaltsiumi puhverdamises ning käivitavad apoptoosi (programmeeritud rakusurma), vabastades tsütokroom c-d, kui rakk on parandamatult kahjustatud; nende taandamine ainult energiatootmise rolliks jätab tähelepanuta, miks rakud pühendavad terve organelli, koos oma DNA-ga, sellele laiemale signaalfunktsioonile.",
+    "sourceHash": "c7db0e2481f866f6",
+    "stale": false
+  }
+}
