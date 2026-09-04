@@ -1,0 +1,10 @@
+{
+  "id": "immunodeficiency-and-immune-evasion-m2",
+  "conceptId": "immunodeficiency-and-immune-evasion",
+  "text": {
+    "en": "If a person keeps getting the same infection over and over, their immune system must be broadly defective (immunodeficient) -- in reality, recurring infection by the same pathogen is frequently explained by that specific pathogen's own immune-evasion mechanisms (antigenic variation, latency, direct interference with immune signaling) acting against a perfectly normal, fully functional immune system, not by any defect in the host -- these are mechanistically distinct explanations for the same observable pattern.",
+    "et": "Kui inimene põeb ikka ja jälle sama infektsiooni, peab tema immuunsüsteem olema laialdaselt defektne (immuunpuudulik) -- tegelikult selgitatakse korduvat nakatumist sama patogeeniga sageli selle konkreetse patogeeni enda immuunsuse vältimise mehhanismidega (antigeenne varieeruvus, latentsus, otsene sekkumine immuunsignalisatsiooni), mis toimivad täiesti normaalse, täielikult toimiva immuunsüsteemi vastu, mitte peremehe mistahes defektiga -- need on sama vaadeldava mustri jaoks mehhanistlikult erinevad selgitused.",
+    "sourceHash": "4aa697f4a90a2b7d",
+    "stale": false
+  }
+}

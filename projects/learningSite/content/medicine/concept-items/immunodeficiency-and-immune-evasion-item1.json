@@ -1,0 +1,56 @@
+{
+  "id": "immunodeficiency-and-immune-evasion-item1",
+  "conceptId": "immunodeficiency-and-immune-evasion",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient keeps developing the same viral infection repeatedly despite having a fully normal, healthy immune system by every standard test. What's the most likely mechanistic explanation?",
+    "et": "Patsiendil tekib korduvalt sama viirusinfektsioon, hoolimata sellest, et tema immuunsüsteem on iga standardse testi järgi täiesti normaalne ja terve. Milline on kõige tõenäolisem mehhanistlik selgitus?",
+    "sourceHash": "fbc748f9716eeba1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The virus itself may be using an immune-evasion strategy — such as antigenic variation or establishing latency — that lets it evade a perfectly functional immune system, rather than the patient having any immunodeficiency.",
+        "et": "Viirus ise võib kasutada immuunsuse vältimise strateegiat -- näiteks antigeenset varieeruvust või latentsuse loomist --, mis lubab sellel vältida täiesti toimivat immuunsüsteemi, selle asemel et patsiendil oleks mistahes immuunpuudulikkus.",
+        "sourceHash": "c0d89d4364baa821",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The patient must have an undiagnosed primary immunodeficiency, since a fully healthy immune system could not fail to clear the same infection repeatedly.",
+        "et": "Patsiendil peab olema diagnoosimata primaarne immuunpuudulikkus, kuna täiesti terve immuunsüsteem ei saaks korduvalt sama infektsiooni kõrvaldamisel ebaõnnestuda.",
+        "sourceHash": "859c59f1cdf5db13",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "immunodeficiency-and-immune-evasion-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The patient was likely born with a subtle immune weakness that standard tests can't detect, since immunodeficiency is always present from birth.",
+        "et": "Patsient sündis tõenäoliselt peene immuunnõrkusega, mida standardsed testid ei suuda tuvastada, kuna immuunpuudulikkus on alati olemas sünnist saati.",
+        "sourceHash": "6ea8b301264b89e0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "immunodeficiency-and-immune-evasion-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The virus has simply not yet been detected by the immune system due to being present in very low numbers, similar to any rare, hard-to-find molecule.",
+        "et": "Viirust ei ole immuunsüsteem lihtsalt veel tuvastanud, kuna seda esineb väga väikeses koguses, sarnaselt mistahes haruldase, raskesti leitava molekuliga.",
+        "sourceHash": "2ad9a6a3638cda6f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "immunodeficiency-and-immune-evasion-m3"
+    }
+  ]
+}

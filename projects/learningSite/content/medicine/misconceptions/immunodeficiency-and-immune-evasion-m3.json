@@ -1,0 +1,10 @@
+{
+  "id": "immunodeficiency-and-immune-evasion-m3",
+  "conceptId": "immunodeficiency-and-immune-evasion",
+  "text": {
+    "en": "A pathogen that establishes a long-term latent infection has simply not yet been detected by the immune system, similar to a very rare or invisible molecule -- in reality, latency isn't passive invisibility, it's an active evolved strategy: the pathogen actively minimizes its own gene expression and antigen presentation while dormant inside host cells specifically to stay below the threshold immune surveillance can detect, and can reactivate its full replicative and antigen-presenting program later, which is a fundamentally different mechanism from simply being too rare to notice.",
+    "et": "Patogeen, mis loob pikaajalise latentse infektsiooni, ei ole lihtsalt veel immuunsüsteemi poolt tuvastatud, sarnaselt väga haruldase või nähtamatu molekuliga -- tegelikult ei ole latentsus passiivne nähtamatus, vaid aktiivne evolutsiooniliselt kujunenud strateegia: patogeen minimeerib aktiivselt oma geeniekspressiooni ja antigeeni esitlemist, olles peremeesrakkude sees uinuvas olekus, spetsiaalselt selleks, et püsida allpool läve, mida immuunjärelevalve suudab tuvastada, ning võib hiljem taasaktiveerida oma täieliku replikatsiooni- ja antigeeni esitlemise programmi, mis on põhimõtteliselt erinev mehhanism lihtsalt liiga haruldasest märkamatuks jäämisest.",
+    "sourceHash": "a23b52f9afab34df",
+    "stale": false
+  }
+}
