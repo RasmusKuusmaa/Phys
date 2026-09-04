@@ -1,0 +1,21 @@
+{
+  "id": "dna-replication-transcription-and-translation",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "cell-and-molecular-biology",
+  "title": {
+    "en": "DNA replication, transcription, and translation",
+    "et": "DNA replikatsioon, transkriptsioon ja translatsioon",
+    "sourceHash": "4215f73b122f5d07",
+    "stale": false
+  },
+  "summary": {
+    "en": "Turning a gene into a functioning protein is a two-step handoff, each step run by its own dedicated machinery, and the whole system depends on first making an accurate copy of the DNA itself. During DNA replication, the enzyme helicase unwinds the double helix at a replication fork, exposing single strands that DNA polymerase then reads to build a new complementary strand on each one -- because the polymerase only builds in one chemical direction, one new strand (the leading strand) is synthesized continuously while the other (the lagging strand) has to be built in short, separately joined fragments, a genuinely asymmetric process despite producing two symmetric-looking daughter double helices. During transcription, RNA polymerase binds a specific promoter sequence marking the start of a gene and reads one strand of the DNA to build a complementary messenger RNA (mRNA) copy of just that gene, not the whole genome, which then carries the genetic instructions out of the nucleus to the cytoplasm. During translation, a ribosome reads the mRNA three bases (one codon) at a time, and for each codon a matching transfer RNA (tRNA) delivers the corresponding amino acid, which the ribosome links onto the growing protein chain, continuing until a stop codon is reached -- so the whole path from gene to protein is: DNA is copied (replication, so the instructions survive cell division), DNA is read into a portable RNA copy (transcription), and that RNA copy is read three bases at a time to build a specific sequence of amino acids (translation), three genuinely distinct processes, each run by its own dedicated enzyme machinery, not one blurred continuous event.",
+    "et": "Geeni muutmine toimivaks valguks on kaheastmeline üleandmine, kus iga etappi juhib oma pühendunud masinavärk, ning kogu süsteem sõltub kõigepealt DNA enda täpse koopia tegemisest. DNA replikatsiooni ajal keerab ensüüm helikaas kaksikheeliksi lahti replikatsioonikahvlis, paljastades üksikahelad, mida DNA polümeraas seejärel loeb, et ehitada igaühele uus komplementaarne ahel -- kuna polümeraas ehitab ainult ühes keemilises suunas, sünteesitakse üks uus ahel (juhtahel) pidevalt, samas kui teine (järelahel) tuleb ehitada lühikeste, eraldi kokku ühendatavate lõikudena, tõeliselt asümmeetriline protsess, hoolimata sellest, et see toodab kaks sümmeetrilise välimusega tütarheeliksit. Transkriptsiooni ajal seondub RNA polümeraas konkreetse promootorjärjestusega, mis märgib geeni algust, ning loeb üht DNA ahelat, et ehitada komplementaarne käskjala-RNA (mRNA) koopia ainult sellest geenist, mitte kogu genoomist, mis seejärel kannab geneetilised juhised tuumast tsütoplasmasse. Translatsiooni ajal loeb ribosoom mRNA-d kolm alust (üks koodon) korraga, ning iga koodoni jaoks toimetab sobiv transport-RNA (tRNA) vastava aminohappe, mille ribosoom lülitab kasvava valguahela külge, jätkates seni, kuni jõutakse stoppkoodonini -- seega on kogu tee geenist valguni: DNA kopeeritakse (replikatsioon, et juhised jääksid alles rakujagunemise ajal), DNA loetakse kaasaskantavaks RNA koopiaks (transkriptsioon), ning seda RNA koopiat loetakse kolm alust korraga, et ehitada konkreetne aminohapete järjestus (translatsioon) -- kolm tõeliselt eraldiseisvat protsessi, millest igaüht juhib oma pühendunud ensüümide masinavärk, mitte üks hägune pidev sündmus.",
+    "sourceHash": "5b8113e7020af7cb",
+    "stale": false
+  },
+  "prerequisites": [
+    "cell-structure-and-organelle-function"
+  ]
+}

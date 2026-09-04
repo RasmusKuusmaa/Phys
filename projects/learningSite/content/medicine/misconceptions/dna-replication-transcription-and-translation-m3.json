@@ -1,0 +1,10 @@
+{
+  "id": "dna-replication-transcription-and-translation-m3",
+  "conceptId": "dna-replication-transcription-and-translation",
+  "text": {
+    "en": "A ribosome reads mRNA one base at a time, so each individual base corresponds to one amino acid -- in reality, the ribosome reads mRNA in groups of three bases at a time (a codon), and it is this three-base codon, not a single base, that specifies which single amino acid gets added to the growing protein chain, which is also why the genetic code can specify 20 different amino acids from only 4 possible bases.",
+    "et": "Ribosoom loeb mRNA-d ühe aluse kaupa, mistõttu vastab iga üksik alus ühele aminohappele -- tegelikult loeb ribosoom mRNA-d kolme aluse kaupa korraga (koodon), ning just see kolmealuseline koodon, mitte üksik alus, määrab, milline üksik aminohape lisatakse kasvavale valguahelale, mis on ka põhjus, miks geneetiline kood suudab määrata 20 erinevat aminohapet ainult 4 võimaliku aluse põhjal.",
+    "sourceHash": "23c011d9eea6095b",
+    "stale": false
+  }
+}

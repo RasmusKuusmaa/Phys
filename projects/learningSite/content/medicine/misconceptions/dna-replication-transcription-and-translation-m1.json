@@ -1,0 +1,10 @@
+{
+  "id": "dna-replication-transcription-and-translation-m1",
+  "conceptId": "dna-replication-transcription-and-translation",
+  "text": {
+    "en": "DNA replication and transcription are basically the same process, since both involve reading DNA and building a new strand based on it -- in reality, they differ in enzyme, product, and purpose: replication uses DNA polymerase to copy the entire genome into a new DNA double helix before cell division, while transcription uses RNA polymerase to copy just one gene into a single-stranded, temporary mRNA molecule used for protein production, not stored as the cell's permanent genetic record.",
+    "et": "DNA replikatsioon ja transkriptsioon on sisuliselt sama protsess, kuna mõlemad hõlmavad DNA lugemist ja uue ahela ehitamist selle põhjal -- tegelikult erinevad need ensüümi, toote ja eesmärgi poolest: replikatsioon kasutab DNA polümeraasi, et kopeerida kogu genoom uueks DNA kaksikheeliksiks enne rakujagunemist, samas kui transkriptsioon kasutab RNA polümeraasi, et kopeerida ainult üks geen üksikahelaliseks, ajutiseks mRNA molekuliks, mida kasutatakse valgu tootmiseks, mitte ei säilitata raku püsiva geneetilise arhiivina.",
+    "sourceHash": "6a02ecd603fc9913",
+    "stale": false
+  }
+}

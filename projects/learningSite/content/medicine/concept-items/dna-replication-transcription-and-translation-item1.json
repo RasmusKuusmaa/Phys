@@ -1,0 +1,56 @@
+{
+  "id": "dna-replication-transcription-and-translation-item1",
+  "conceptId": "dna-replication-transcription-and-translation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of the following correctly describes the roles of DNA polymerase and RNA polymerase in producing a protein from a gene?",
+    "et": "Milline järgnevatest kirjeldab õigesti DNA polümeraasi ja RNA polümeraasi rolle valgu tootmisel geenist?",
+    "sourceHash": "a4620b0486b39695",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "DNA polymerase copies the entire genome during DNA replication (before cell division), while RNA polymerase copies only the specific gene needed into a temporary mRNA molecule used to guide protein synthesis.",
+        "et": "DNA polümeraas kopeerib kogu genoomi DNA replikatsiooni käigus (enne rakujagunemist), samas kui RNA polümeraas kopeerib ainult vajaliku konkreetse geeni ajutiseks mRNA molekuliks, mida kasutatakse valgusünteesi juhtimiseks.",
+        "sourceHash": "3476bef74e4e743f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "DNA polymerase and RNA polymerase perform the same function and are essentially interchangeable names for the same enzyme acting during the same process.",
+        "et": "DNA polümeraas ja RNA polümeraas täidavad sama funktsiooni ning on sisuliselt vahetatavad nimetused samale ensüümile, mis toimib sama protsessi ajal.",
+        "sourceHash": "d9937101bb571523",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dna-replication-transcription-and-translation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both DNA polymerase and RNA polymerase synthesize both new DNA strands identically and symmetrically in one continuous process, since replication is a single seamless operation.",
+        "et": "Nii DNA polümeraas kui RNA polümeraas sünteesivad mõlemad uued DNA ahelad identselt ja sümmeetriliselt ühes pidevas protsessis, kuna replikatsioon on üks sujuv, katkematu operatsioon.",
+        "sourceHash": "17ff6bb0b5c7624f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dna-replication-transcription-and-translation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "RNA polymerase reads mRNA one base at a time inside the ribosome to determine which amino acid to add to the growing protein.",
+        "et": "RNA polümeraas loeb mRNA-d ühe aluse kaupa ribosoomi sees, et määrata, milline aminohape lisada kasvavale valguahelale.",
+        "sourceHash": "7e04ee7208f456a7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "dna-replication-transcription-and-translation-m3"
+    }
+  ]
+}

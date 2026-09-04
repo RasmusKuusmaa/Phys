@@ -1,0 +1,10 @@
+{
+  "id": "dna-replication-transcription-and-translation-m2",
+  "conceptId": "dna-replication-transcription-and-translation",
+  "text": {
+    "en": "Both new DNA strands are built the same way during replication, in one continuous, symmetric process -- in reality, because DNA polymerase can only synthesize in one chemical direction, one new strand (the leading strand) is built continuously, while the other (the lagging strand) must be synthesized discontinuously, in short fragments that are later joined together -- a genuinely asymmetric mechanism, even though the two finished daughter double helices look identical.",
+    "et": "Mõlemad uued DNA ahelad ehitatakse replikatsiooni ajal ühtemoodi, ühes pidevas, sümmeetrilises protsessis -- tegelikult, kuna DNA polümeraas suudab sünteesida ainult ühes keemilises suunas, ehitatakse üks uus ahel (juhtahel) pidevalt, samas kui teine (järelahel) tuleb sünteesida katkendlikult, lühikeste lõikudena, mis hiljem omavahel ühendatakse -- tõeliselt asümmeetriline mehhanism, hoolimata sellest, et kaks valmis tütarheeliksit näevad identsed välja.",
+    "sourceHash": "fde9ddf4e67b7143",
+    "stale": false
+  }
+}
