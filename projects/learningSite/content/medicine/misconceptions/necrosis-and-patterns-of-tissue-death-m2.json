@@ -1,0 +1,10 @@
+{
+  "id": "necrosis-and-patterns-of-tissue-death-m2",
+  "conceptId": "necrosis-and-patterns-of-tissue-death",
+  "text": {
+    "en": "Any dead tissue looks the same under a microscope regardless of what killed it, so the necrosis 'type' is just a naming convention with no real diagnostic value -- in reality, the specific necrosis pattern (coagulative, liquefactive, caseous, fat) reflects the specific mechanism and cause of death and is genuinely diagnostically informative -- e.g. liquefactive necrosis specifically in brain tissue points toward ischemic stroke, given the brain's distinctive lack of the structural protein that would otherwise preserve tissue architecture the way it does elsewhere in the body.",
+    "et": "Iga surnud kude näeb mikroskoobi all ühesugune välja, olenemata sellest, mis selle tappis, seega on nekroosi 'tüüp' lihtsalt nimetamiskonventsioon ilma reaalse diagnostilise väärtuseta -- tegelikult peegeldab konkreetne nekroosimuster (koagulatsioon-, kolliktsioon-, juustu-, rasvnekroos) surma spetsiifilist mehhanismi ja põhjust ning on tõeliselt diagnostiliselt informatiivne -- näiteks kolliktsioonnekroos spetsiifiliselt ajukoes viitab isheemilisele insuldile, arvestades aju eripärast struktuurvalgu puudumist, mis muidu säilitaks koe struktuuri nagu see toimub mujal kehas.",
+    "sourceHash": "f598aa75bab73115",
+    "stale": false
+  }
+}

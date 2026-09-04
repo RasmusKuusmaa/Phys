@@ -1,0 +1,56 @@
+{
+  "id": "necrosis-and-patterns-of-tissue-death-item1",
+  "conceptId": "necrosis-and-patterns-of-tissue-death",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does ischemic (blood-supply-cut-off) death of brain tissue typically produce liquefactive necrosis, while the same kind of ischemic death almost everywhere else in the body produces coagulative necrosis instead?",
+    "et": "Miks tekitab ajukoe isheemiline (verevarustuse katkemisest tingitud) surm tüüpiliselt kolliktsioonnekroosi, samas kui sama tüüpi isheemiline surm peaaegu kõikjal mujal kehas tekitab hoopis koagulatsiooninekroosi?",
+    "sourceHash": "62c0769ec374e39c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the brain lacks the structural protein that preserves dead tissue's architectural outline elsewhere in the body, and its high fat content contributes to the tissue dissolving into a liquid mass rather than retaining its shape.",
+        "et": "Sest ajul puudub struktuurvalk, mis säilitab surnud koe arhitektuurset kontuuri mujal kehas, ning selle kõrge rasvasisaldus aitab kaasa koe lahustumisele vedelaks massiks, selle asemel et säilitada oma kuju.",
+        "sourceHash": "e780d1d9cf98d401",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't -- ischemic death produces the same necrosis pattern everywhere in the body, since necrosis and apoptosis are the same underlying process regardless of location.",
+        "et": "Ei tee -- isheemiline surm tekitab sama nekroosimustri kõikjal kehas, kuna nekroos ja apoptoos on sama aluseks olev protsess olenemata asukohast.",
+        "sourceHash": "4e61d0ab73bd12d3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "necrosis-and-patterns-of-tissue-death-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The distinction is purely a naming convention with no real difference in cause -- pathologists just historically used different names for brain tissue versus other organs.",
+        "et": "Erinevus on puhtalt nimetamiskonventsioon ilma reaalse põhjuse erinevuseta -- patoloogid kasutasid lihtsalt ajalooliselt erinevaid nimesid ajukoe ja teiste organite jaoks.",
+        "sourceHash": "39dc84096113eaec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "necrosis-and-patterns-of-tissue-death-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because brain tissue has an unusually high concentration of dietary fat and calcium that reacts to form the same chalky deposits seen in fat necrosis.",
+        "et": "Sest ajukoel on ebatavaliselt kõrge dieetrasva ja kaltsiumi kontsentratsioon, mis reageerib, moodustades samu kriitvalgeid ladestusi, mida nähakse rasvnekroosi korral.",
+        "sourceHash": "cbefd353aaeca5fd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "necrosis-and-patterns-of-tissue-death-m3"
+    }
+  ]
+}

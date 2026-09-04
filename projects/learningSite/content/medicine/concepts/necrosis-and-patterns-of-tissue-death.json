@@ -1,0 +1,21 @@
+{
+  "id": "necrosis-and-patterns-of-tissue-death",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "general-pathology",
+  "title": {
+    "en": "Necrosis and patterns of tissue death",
+    "et": "Nekroos ja koesurma mustrid",
+    "sourceHash": "8a262499673beb8d",
+    "stale": false
+  },
+  "summary": {
+    "en": "Where apoptosis is a controlled, energy-requiring process a cell actively executes on itself with minimal disturbance to its neighbors, necrosis is the opposite: an uncontrolled, passive process triggered by severe injury (ischemia, toxins, trauma) that overwhelms the cell's ability to maintain its own membranes, causing it to swell and rupture, spilling its contents into the surrounding tissue and triggering local inflammation -- a mess apoptosis is specifically built to avoid. Pathologists further classify necrosis by the pattern it leaves behind, because that pattern is diagnostically informative about what caused it: coagulative necrosis, the most common pattern, preserves the dead tissue's basic architectural outline for days even as its cells die, typically from a sudden loss of blood supply (ischemia) everywhere in the body except the brain; liquefactive necrosis instead dissolves the dead tissue into a liquid mass, typical of bacterial infections (where enzymes released by neutrophils digest the tissue) and, unusually, of brain ischemia specifically, because the brain's high fat content and lack of the structural protein that resists digestion elsewhere makes it liquefy rather than retain its shape; caseous necrosis produces a soft, crumbly, cheese-like dead tissue with no preserved structure at all, classically seen at the center of a tuberculosis granuloma; and fat necrosis results from lipases (fat-digesting enzymes) released into adipose tissue, as happens around an inflamed pancreas, producing chalky white deposits from the free fatty acids reacting with calcium.",
+    "et": "Kui apoptoos on kontrollitud, energiat nõudev protsess, mida rakk teostab aktiivselt iseenda kallal minimaalse häirega naaberrakkudele, siis nekroos on vastupidine: kontrollimatu, passiivne protsess, mille vallandab tõsine vigastus (isheemia, toksiinid, trauma), mis ületab raku võime säilitada oma membraane, põhjustades selle paisumist ja lõhkemist, valades oma sisu ümbritsevasse koesse ning vallandades kohaliku põletiku -- segaduse, mida apoptoos on spetsiaalselt loodud vältima. Patoloogid liigitavad nekroosi täiendavalt mustri järgi, mille see maha jätab, sest see muster on diagnostiliselt informatiivne selle põhjuse kohta: koagulatsiooninekroos, kõige levinum muster, säilitab surnud koe põhilise struktuurse kontuuri päevade jooksul isegi siis, kui selle rakud surevad, tüüpiliselt äkilise verevarustuse kadumise tõttu (isheemia) kõikjal kehas peale aju; kolliktsioonnekroos lahustab selle asemel surnud koe vedelaks massiks, tüüpiline bakteriaalsete infektsioonide korral (kus neutrofiilide vabastatud ensüümid seedivad koe) ning ebatavaliselt just spetsiifiliselt aju isheemia korral, sest aju kõrge rasvasisaldus ja mujal seeditavusele vastupaneva struktuurvalgu puudumine muudab selle vedelaks pigem kui säilitab oma kuju; juustunekroos tekitab pehme, pudeneva, juustusarnase surnud koe, milles struktuur ei ole üldse säilinud, klassikaliselt nähtav tuberkuloosi granuloomi keskel; ning rasvnekroos tuleneb lipaasidest (rasva seedivad ensüümid), mis vabanevad rasvkoesse, nagu juhtub põletikulise pankrease ümber, tekitades kriitvalgeid ladestusi vabade rasvhapete reageerimisel kaltsiumiga.",
+    "sourceHash": "9f05f5146cb3f541",
+    "stale": false
+  },
+  "prerequisites": [
+    "apoptosis-and-programmed-cell-death"
+  ]
+}
