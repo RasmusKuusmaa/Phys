@@ -1,0 +1,10 @@
+{
+  "id": "bias-and-confounding-in-epidemiological-studies-m3",
+  "conceptId": "bias-and-confounding-in-epidemiological-studies",
+  "text": {
+    "en": "If a drug works better in one subgroup of patients than another in a study, this must mean the study has a bias or confounding problem that needs to be corrected -- in reality, a real difference in effect across subgroups (effect modification) is a genuine finding to report and investigate, not necessarily an error; unlike bias and confounding, which are distortions the study should try to avoid or adjust for, effect modification reflects an actual difference in how the exposure works in different people.",
+    "et": "Kui ravim toimib uuringus ühes patsientide alarühmas paremini kui teises, peab see tähendama, et uuringul on nihke või segava teguri probleem, mida tuleb parandada -- tegelikult on tõeline erinevus toimes alarühmade vahel (efektimodifikatsioon) ehtne leid, mida raporteerida ja uurida, mitte tingimata viga; erinevalt nihkest ja segavast tegurist, mis on moonutused, mida uuring peaks vältima või mille jaoks korrigeerima, peegeldab efektimodifikatsioon tegelikku erinevust selles, kuidas eksponeeritus erinevatel inimestel toimib.",
+    "sourceHash": "db4d93be22adf1bb",
+    "stale": false
+  }
+}

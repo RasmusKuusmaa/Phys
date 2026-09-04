@@ -1,0 +1,56 @@
+{
+  "id": "bias-and-confounding-in-epidemiological-studies-item1",
+  "conceptId": "bias-and-confounding-in-epidemiological-studies",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A study finds that people who carry lighters have significantly higher rates of lung cancer than people who don't. What best explains this finding without concluding that lighters cause cancer?",
+    "et": "Uuring leiab, et välgumihklikandjatel on oluliselt kõrgem kopsuvähi määr kui neil, kes seda ei kanna. Mis seletab seda leidu kõige paremini, ilma järeldamata, et välgumihklid põhjustavad vähki?",
+    "sourceHash": "0e0778e01f525451",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Smoking is a confounder: it makes people more likely to carry a lighter and, separately, causes lung cancer, creating an apparent lighter-cancer association even though lighters have no direct causal effect on cancer risk.",
+        "et": "Suitsetamine on segav tegur: see suurendab tõenäosust, et inimene kannab välgumihklit, ja põhjustab eraldi kopsuvähki, luues näiliku välgumihkli-vähi seose, kuigi välgumihklitel puudub otsene põhjuslik mõju vähiriskile.",
+        "sourceHash": "5b4f2252b75c7d33",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is an example of bias, not confounding, since bias and confounding both just mean 'something made the study's result wrong' and are interchangeable labels for the same phenomenon.",
+        "et": "See on nihke, mitte segava teguri näide, kuna nihe ja segav tegur mõlemad tähendavad lihtsalt 'midagi muutis uuringu tulemuse valeks' ning on sama nähtuse vahetatavad nimetused.",
+        "sourceHash": "0c67a4758f58dfaa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bias-and-confounding-in-epidemiological-studies-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Since the finding presumably came from a large, well-conducted study, the association must be a genuine causal effect of lighters on cancer risk, because large studies are protected against this kind of distortion.",
+        "et": "Kuna leid tuli eeldatavasti suurest, hästi läbi viidud uuringust, peab seos olema välgumihklite tõeline põhjuslik mõju vähiriskile, sest suured uuringud on seda tüüpi moonutuse eest kaitstud.",
+        "sourceHash": "69718971df0b402b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bias-and-confounding-in-epidemiological-studies-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This is an example of effect modification, since the apparent lighter-cancer relationship is a real effect that varies depending on which subgroup of lighter-carriers is studied.",
+        "et": "See on efektimodifikatsiooni näide, kuna näiline välgumihkli-vähi seos on tõeline efekt, mis varieerub sõltuvalt sellest, millist välgumihklikandjate alarühma uuritakse.",
+        "sourceHash": "dfc09e571d75571e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "bias-and-confounding-in-epidemiological-studies-m3"
+    }
+  ]
+}

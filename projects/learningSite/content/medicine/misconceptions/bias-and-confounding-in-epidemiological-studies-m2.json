@@ -1,0 +1,10 @@
+{
+  "id": "bias-and-confounding-in-epidemiological-studies-m2",
+  "conceptId": "bias-and-confounding-in-epidemiological-studies",
+  "text": {
+    "en": "If a study finds people who carry lighters have higher lung cancer rates, and the study was large and well-conducted, this must mean lighters cause cancer -- in reality, this is the classic confounding example: smoking is associated with both carrying lighters and with lung cancer, so it creates an apparent lighter-cancer association with no direct causal link between them at all; a large, well-conducted study doesn't protect against confounding the way it does against random error, since confounding is a systematic distortion, not something that averages out with more data.",
+    "et": "Kui uuring leiab, et välgumihklikandjatel on kõrgem kopsuvähi määr, ning uuring oli suur ja hästi läbi viidud, peab see tähendama, et välgumihklid põhjustavad vähki -- tegelikult on see klassikaline segava teguri näide: suitsetamine on seotud nii välgumihkli kandmise kui kopsuvähiga, mistõttu loob see näiliku välgumihkli-vähi seose ilma nendevahelise otsese põhjusliku seoseta; suur, hästi läbi viidud uuring ei kaitse segava teguri eest samamoodi nagu juhusliku vea eest, kuna segav tegur on süstemaatiline moonutus, mitte miski, mis rohkema andmega keskmistub.",
+    "sourceHash": "f4cb8e9fc8316700",
+    "stale": false
+  }
+}

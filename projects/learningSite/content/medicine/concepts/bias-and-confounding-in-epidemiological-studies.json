@@ -1,0 +1,21 @@
+{
+  "id": "bias-and-confounding-in-epidemiological-studies",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "biostatistics-and-epidemiology",
+  "title": {
+    "en": "Bias and confounding in epidemiological studies",
+    "et": "Nihe ja segavad tegurid epidemioloogilistes uuringutes",
+    "sourceHash": "dfb527fde13c3f70",
+    "stale": false
+  },
+  "summary": {
+    "en": "Even a well-designed observational study can produce a misleading result for reasons that have nothing to do with random chance, and epidemiology distinguishes two broad categories of systematic error. Bias is a flaw in how a study is designed or conducted that systematically distorts its result in a particular direction -- selection bias occurs when the people who end up in a study (or who end up in its exposed vs. unexposed, or case vs. control, groups) are not representative of the population the researchers want to draw conclusions about, and recall bias occurs when people with a disease remember and report past exposures differently than healthy people do, both pulling the measured association away from the truth in a way that repeating the study with a larger sample would not fix. Confounding is a distinct problem: a third variable that is genuinely associated with both the exposure and the outcome, and not a step on the causal path between them, can create or hide an apparent association between exposure and outcome even when no direct causal link exists at all -- the classic textbook example being that people who carry lighters are more likely to develop lung cancer, not because lighters cause cancer, but because smoking causes people to carry lighters and separately causes lung cancer, making smoking a confounder of the lighter-cancer association. Effect modification is different from both: it is a real, correctly measured phenomenon where an exposure's true effect genuinely varies across subgroups (a drug that works well in young patients but poorly in elderly ones), which a good study should report and explore rather than treat as an error to correct for the way bias and confounding are.",
+    "et": "Isegi hästi disainitud vaatlusuuring võib anda eksitava tulemuse põhjustel, millel ei ole midagi pistmist juhusliku juhusega, ning epidemioloogia eristab kahte laia süstemaatilise vea kategooriat. Nihe on viga uuringu disainis või läbiviimises, mis moonutab süstemaatiliselt selle tulemust kindlas suunas -- valikunihe tekib, kui inimesed, kes uuringusse lõpuks satuvad (või kes satuvad selle eksponeeritud vs eksponeerimata, või juhtumite vs kontrollide rühma), ei esinda populatsiooni, mille kohta teadlased järeldusi teha soovivad, ning meenutusnihe tekib, kui haigusega inimesed mäletavad ja raporteerivad varasemaid eksponeeritusi teisiti kui terved inimesed, mõlemad tõmmates mõõdetud seose tõest eemale viisil, mida uuringu kordamine suurema valimiga ei parandaks. Segav tegur on eraldiseisev probleem: kolmas muutuja, mis on tõeliselt seotud nii eksponeerituse kui tulemusega, olemata samas samm nendevahelisel põhjuslikul teel, võib luua või varjata näilise seose eksponeerituse ja tulemuse vahel isegi siis, kui otsest põhjuslikku seost üldse ei ole -- klassikaline õpikunäide on see, et välgumihklikandjatel on suurem tõenäosus kopsuvähki haigestuda, mitte seetõttu, et välgumihklid vähki põhjustavad, vaid seetõttu, et suitsetamine paneb inimesi välgumihklit kandma ja põhjustab eraldi kopsuvähki, muutes suitsetamise välgumihkli-vähi seose segavaks teguriks. Efektimodifikatsioon erineb mõlemast: see on tõeline, õigesti mõõdetud nähtus, kus eksponeerituse tegelik toime tõepoolest varieerub alarühmade vahel (ravim, mis toimib hästi noortel patsientidel, kuid halvasti eakatel), mida hea uuring peaks raporteerima ja uurima, mitte käsitlema veana, mida parandada nii nagu nihet ja segavaid tegureid.",
+    "sourceHash": "9063a87dfc59a92a",
+    "stale": false
+  },
+  "prerequisites": [
+    "study-design-in-clinical-research"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "bias-and-confounding-in-epidemiological-studies-m1",
+  "conceptId": "bias-and-confounding-in-epidemiological-studies",
+  "text": {
+    "en": "Bias and confounding are just two names for the same problem: something that makes a study's result wrong -- in reality, bias is a flaw in study design/conduct (like who got selected, or how exposure was recalled) that a better-designed study of the same size could avoid; confounding is a property of the real relationships between variables in the world (a third variable linked to both exposure and outcome) that exists independent of how carefully the study was conducted, and is addressed by statistical adjustment or study design (like randomization), not by simply designing the data collection more carefully.",
+    "et": "Nihe ja segav tegur on lihtsalt kaks nimetust samale probleemile: midagi, mis muudab uuringu tulemuse valeks -- tegelikult on nihe viga uuringu disainis/läbiviimises (näiteks kes valiti või kuidas eksponeeritust meenutati), mida parema disainiga sama suurusega uuring saaks vältida; segav tegur on maailma muutujate vaheliste tegelike suhete omadus (kolmas muutuja, mis on seotud nii eksponeerituse kui tulemusega), mis eksisteerib sõltumatult sellest, kui hoolikalt uuring läbi viidi, ning seda käsitletakse statistilise korrigeerimise või uuringudisaini (näiteks juhuslikustamise) kaudu, mitte lihtsalt andmekogumise hoolikama disainiga.",
+    "sourceHash": "29a4e25ef9bf76e3",
+    "stale": false
+  }
+}
