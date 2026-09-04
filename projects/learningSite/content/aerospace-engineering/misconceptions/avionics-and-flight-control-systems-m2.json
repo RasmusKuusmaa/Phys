@@ -1,0 +1,10 @@
+{
+  "id": "avionics-and-flight-control-systems-m2",
+  "conceptId": "avionics-and-flight-control-systems",
+  "text": {
+    "en": "Believing 'the autopilot' is a single all-or-nothing system that either flies the entire aircraft or is switched off entirely -- in fact an autopilot is a set of independently-engageable modes (heading hold, altitude hold, autothrottle, an approach mode coupled to a navigation signal) that a pilot mixes and matches for the situation, and even a fully coupled autoland approach still leaves the pilot responsible for monitoring the aircraft and ready to take over.",
+    "et": "Arvamus, et 'autopiloot' on üks kõik-või-mitte-midagi süsteem, mis kas juhib kogu õhusõidukit või on täielikult välja lülitatud -- tegelikult on autopiloot iseseisvalt sisselülitatavate režiimide kogum (kursihoid, kõrgushoid, automaatgaas, navigatsioonisignaaliga seotud lähenemisrežiim), mida piloot vastavalt olukorrale kombineerib, ning isegi täielikult seotud autoland-lähenemise puhul jääb piloot vastutavaks õhusõiduki jälgimise eest ja peab olema valmis juhtimise üle võtma.",
+    "sourceHash": "d914e587d931bf6a",
+    "stale": false
+  }
+}

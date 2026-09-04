@@ -1,0 +1,10 @@
+{
+  "id": "avionics-and-flight-control-systems-m3",
+  "conceptId": "avionics-and-flight-control-systems",
+  "text": {
+    "en": "Believing that all of an aircraft's attitude and position information ultimately comes from GPS, so a GPS outage would leave the flight control system blind -- in fact inertial sensors (gyroscopes and accelerometers) provide self-contained, moment-to-moment attitude and short-term position information with no external signal at all, which is exactly what let aircraft navigate accurately for decades before satellite navigation existed and is what keeps the flight control system informed through a GPS outage or jamming event.",
+    "et": "Arvamus, et kogu õhusõiduki asendi- ja asukohateave pärineb lõppkokkuvõttes GPS-ist, mistõttu GPS-i väljalangemine jätaks lennujuhtimissüsteemi pimedaks -- tegelikult annavad inertsandurid (güroskoobid ja kiirendusandurid) iseseisvat, hetkelist asendi- ja lühiajalist asukohateavet ilma igasuguse välise signaalita, mis on täpselt see, mis lubas õhusõidukitel aastakümneid täpselt navigeerida enne satelliitnavigatsiooni olemasolu, ning mis hoiab lennujuhtimissüsteemi informeerituna ka GPS-i väljalangemise või häirimise ajal.",
+    "sourceHash": "673bf2fe014b71c8",
+    "stale": false
+  }
+}

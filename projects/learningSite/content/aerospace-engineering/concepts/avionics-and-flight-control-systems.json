@@ -1,0 +1,21 @@
+{
+  "id": "avionics-and-flight-control-systems",
+  "subject": "aerospace-engineering",
+  "level": "L2",
+  "module": "aerospace-fundamentals",
+  "title": {
+    "en": "Avionics and flight control systems",
+    "et": "Avioonika ja lennujuhtimissüsteemid",
+    "sourceHash": "ca1cf2ff27a99f3a",
+    "stale": false
+  },
+  "summary": {
+    "en": "A fly-by-wire flight control system replaces the direct mechanical or hydraulic linkage between a pilot's control stick and the control surfaces (ailerons, elevator, rudder) with electrical signaling through flight-control computers, which read the pilot's input, combine it with the aircraft's current sensed state, and command the surface actuators accordingly -- the pilot still commands the maneuver, but the computer decides exactly how much surface deflection achieves it, which is what lets the system enforce flight envelope protections such as an angle-of-attack or load-factor limit that a purely mechanical system has no way to impose. Because a flight-control-computer failure is now flight-critical in a way a cable never was, fly-by-wire systems run multiple independent, redundant computers that cross-check and vote on their outputs rather than relying on any single computer. All of this -- the flight-control computers, the autopilot's various independently-engageable modes (heading hold, altitude hold, autothrottle, an autoland mode for a coupled approach and landing), and the pilot's own displays -- runs on a shared sensor suite: air-data sensors (pitot-static, giving airspeed and altitude), inertial sensors (gyroscopes and accelerometers, giving attitude and short-term position without needing any external signal), and satellite navigation, each covering for the others' blind spots rather than any single source being the sole authority on where the aircraft is and how it is oriented.",
+    "et": "Fly-by-wire lennujuhtimissüsteem asendab piloodi juhtkangi ja juhtpindade (kaldtüürid, kõrgustüür, suunatüür) vahelise otsese mehaanilise või hüdraulilise ülekande elektrilise signaaliedastusega läbi lennujuhtimisarvutite, mis loevad piloodi sisendit, kombineerivad seda õhusõiduki hetke mõõdetud olekuga ning annavad vastavad käsud pinnaajamitele -- piloot juhib endiselt manöövrit, kuid arvuti otsustab täpselt, kui palju pinna kaldenurka on selle saavutamiseks vaja, mis lubab süsteemil rakendada lennuümbrise kaitsemeetmeid, näiteks rünnakunurga või koormustegurit piiravaid piiranguid, mida puhtalt mehaaniline süsteem kehtestada ei suuda. Kuna lennujuhtimisarvuti rike on nüüd lennuohutuse seisukohalt kriitiline viisil, nagu trossisüsteem kunagi ei olnud, kasutavad fly-by-wire süsteemid mitut sõltumatut, üleliigset arvutit, mis kontrollivad ristkasutuses üksteise väljundeid ja hääletavad nende üle, mitte ei toetu ühelegi ainsale arvutile. Kõik see -- lennujuhtimisarvutid, autopiloodi erinevad iseseisvalt sisselülitatavad režiimid (kursihoid, kõrgushoid, automaatgaas, seotud lähenemise ja maandumise autoland-režiim) ning piloodi enda näidikud -- töötab ühise andurikomplekti põhjal: aerodünaamilised anduri (Pitot-staatiline süsteem, mis annab lennukiiruse ja kõrguse), inertsandurid (güroskoobid ja kiirendusandurid, mis annavad asendi ja lühiajalise asukoha ilma välist signaali vajamata) ning satelliitnavigatsioon, kusjuures iga allikas katab teiste pimealasid, mitte ükski üksik allikas ei ole ainuautoriteet õhusõiduki asukoha ja orientatsiooni osas.",
+    "sourceHash": "e8d3e4a28e0e1bc9",
+    "stale": false
+  },
+  "prerequisites": [
+    "flight-dynamics-and-stability"
+  ]
+}

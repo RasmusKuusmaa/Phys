@@ -1,0 +1,10 @@
+{
+  "id": "avionics-and-flight-control-systems-m1",
+  "conceptId": "avionics-and-flight-control-systems",
+  "text": {
+    "en": "Believing that a fly-by-wire system means the flight computer flies the aircraft and the pilot's control inputs are merely advisory -- in fact the pilot still commands the maneuver (roll rate, pitch/angle-of-attack target, and so on); the computer's role is to translate that command into the actual surface deflection needed, applying protections, not to substitute its own independent judgment for the pilot's command.",
+    "et": "Arvamus, et fly-by-wire süsteem tähendab, et lennuarvuti juhib õhusõidukit ja piloodi juhtkäsud on vaid soovituslikud -- tegelikult juhib piloot endiselt manöövrit (rullimiskiirust, kaldenurga või rünnakunurga sihtväärtust jne); arvuti ülesanne on tõlkida see käsk tegelikuks vajalikuks pinna kaldenurgaks, rakendades piiranguid, mitte asendada piloodi käsku enda iseseisva otsusega.",
+    "sourceHash": "1f1a15aa22d4e129",
+    "stale": false
+  }
+}

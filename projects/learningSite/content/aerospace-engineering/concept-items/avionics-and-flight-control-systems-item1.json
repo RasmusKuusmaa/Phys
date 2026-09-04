@@ -1,0 +1,56 @@
+{
+  "id": "avionics-and-flight-control-systems-item1",
+  "conceptId": "avionics-and-flight-control-systems",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A pilot pulls the control stick fully aft during a stall-recovery training exercise in a fly-by-wire airliner, but the aircraft's nose does not pitch up nearly as far as a similar full-aft input would move an old, purely mechanically-linked control column. What is the correct explanation?",
+    "et": "Piloot tõmbab seiskumisest väljumise treeningharjutuse ajal fly-by-wire reisilennukis juhtkangi täielikult tahapoole, kuid õhusõiduki nina ei tõuse kaugeltki nii kõrgele, kui sarnane täielik tahapoole-sisend liigutaks vana, puhtalt mehaaniliselt ühendatud juhtroolisammast. Milline on õige selgitus?",
+    "sourceHash": "0aec4eb14ab49bca",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The flight-control computers translate the pilot's stick input into a surface command while enforcing flight envelope protections, such as an angle-of-attack limit, so a full-aft input commands the maximum angle of attack the protection law allows rather than moving the elevator to its full mechanical travel.",
+        "et": "Lennujuhtimisarvutid tõlgivad piloodi juhtkangi sisendi pinnakäsuks, rakendades samal ajal lennuümbrise kaitsemeetmeid, näiteks rünnakunurga piirangut, mistõttu täielik tahapoole-sisend käsib maksimaalset kaitsereegli lubatud rünnakunurka, mitte kõrgustüüri liikumist täieliku mehaanilise käiguni.",
+        "sourceHash": "748b136f0f4a09cd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "In a fly-by-wire aircraft the pilot's control inputs are advisory only, and the flight computer independently decides what maneuver to perform, largely disregarding the pilot's actual command.",
+        "et": "Fly-by-wire õhusõidukis on piloodi juhtkäsud vaid soovituslikud ning lennuarvuti otsustab iseseisvalt, millist manöövrit sooritada, jättes piloodi tegeliku käsu suures osas arvestamata.",
+        "sourceHash": "6ff3a273aba171a8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "avionics-and-flight-control-systems-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This must be the autopilot intervening, since an autopilot can override manual control inputs at any time during flight, even when the pilot has explicitly disconnected it beforehand.",
+        "et": "See peab olema autopiloodi sekkumine, sest autopiloot võib igal ajal lennu ajal manuaalseid juhtkäske tühistada, isegi kui piloot on selle eelnevalt sõnaselgelt välja lülitanud.",
+        "sourceHash": "da7b38798b6b437f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "avionics-and-flight-control-systems-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The flight-control computer is relying on a degraded GPS position fix to estimate the aircraft's attitude, and the limited pitch response reflects the reduced accuracy of that GPS-only attitude estimate.",
+        "et": "Lennujuhtimisarvuti tugineb õhusõiduki asendi hindamisel halvenenud GPS-asukohamäärangule, ning piiratud kaldenurga vastus peegeldab selle ainult GPS-il põhineva asendihinnangu vähenenud täpsust.",
+        "sourceHash": "22c1245463f47853",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "avionics-and-flight-control-systems-m3"
+    }
+  ]
+}
