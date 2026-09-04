@@ -1,0 +1,21 @@
+{
+  "id": "numerical-methods-for-odes-eulers-method-and-runge-kutta",
+  "subject": "mathematics",
+  "level": "L3",
+  "module": "differential-equations",
+  "title": {
+    "en": "Numerical methods for ODEs: Euler's method and Runge-Kutta",
+    "et": "Diferentsiaalvõrrandite numbrilised meetodid: Euleri meetod ja Runge-Kutta meetod",
+    "sourceHash": "ebc6226c5fb4da41",
+    "stale": false
+  },
+  "summary": {
+    "en": "Most differential equations that actually arise in practice have no closed-form solution expressible in elementary functions at all, so solving them numerically -- starting from a known initial condition and stepping forward in small increments, using the differential equation itself to predict each next value from the current one -- is not a fallback for hard cases but the ordinary way most real equations are actually solved, and the simplest such scheme, Euler's method, which takes one step using only the slope at the current point, accumulates error that shrinks only linearly as the step size shrinks, making it too crude for most serious use, while the Runge-Kutta family of methods samples the slope at several cleverly chosen intermediate points within each step and combines them into a far more accurate estimate, with the classic fourth-order Runge-Kutta method's error shrinking with the fourth power of the step size, delivering dramatically better accuracy for only a modest increase in computational cost per step.",
+    "et": "Enamikul praktikas tegelikult esinevatel diferentsiaalvõrranditel ei ole üldse kinnist lahendit, mida saaks väljendada elementaarfunktsioonide kaudu, seega on nende numbriline lahendamine -- alustades teadaolevast algtingimusest ja astudes edasi väikeste sammudena, kasutades diferentsiaalvõrrandit ennast, et ennustada iga järgmine väärtus praegusest -- mitte varulahendus raskete juhtumite jaoks, vaid tavaline viis, kuidas enamik tegelikke võrrandeid tegelikult lahendatakse, ning kõige lihtsam selline skeem, Euleri meetod, mis astub ühe sammu, kasutades ainult tõusu praeguses punktis, kogub viga, mis kahaneb ainult lineaarselt sammusuuruse kahanedes, muutes selle enamiku tõsiste kasutuste jaoks liiga jämedaks, samal ajal kui Runge-Kutta meetodite perekond proovib tõusu mitmes nutikalt valitud vahepunktis iga sammu sees ja kombineerib need palju täpsemaks hinnanguks, kusjuures klassikalise neljandat järku Runge-Kutta meetodi viga kahaneb sammusuuruse neljanda astmega, andes dramaatiliselt parema täpsuse ainult tagasihoidliku arvutusliku kulu tõusu eest sammu kohta.",
+    "sourceHash": "59960a32295b30a4",
+    "stale": false
+  },
+  "prerequisites": [
+    "first-order-differential-equations"
+  ]
+}

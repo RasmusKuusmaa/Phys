@@ -1,0 +1,10 @@
+{
+  "id": "numerical-methods-for-odes-eulers-method-and-runge-kutta-m3",
+  "conceptId": "numerical-methods-for-odes-eulers-method-and-runge-kutta",
+  "text": {
+    "en": "Believing higher-order Runge-Kutta methods are simply Euler's method repeated several times per step, so that a fourth-order step costs the same as four separate Euler steps combined -- while a fourth-order Runge-Kutta step does evaluate the differential equation's slope four times per step (at cleverly chosen intermediate points, not simply repeating the same calculation), the resulting combination is not equivalent to taking four smaller Euler steps; it achieves a genuinely higher order of accuracy (error shrinking with the fourth power of the step size) that four Euler steps of correspondingly smaller size could not match, because the intermediate evaluation points and their weighted combination are specifically designed to cancel out lower-order error terms that plain repeated Euler stepping does not cancel.",
+    "et": "Arvamus, et kõrgemat järku Runge-Kutta meetodid on lihtsalt Euleri meetod, mida korratakse mitu korda sammu kohta, nii et neljandat järku samm maksab sama, mis neli eraldi kombineeritud Euleri sammu -- kuigi neljandat järku Runge-Kutta samm hindab diferentsiaalvõrrandi tõusu tõesti neli korda sammu kohta (nutikalt valitud vahepunktides, mitte lihtsalt sama arvutust korrates), ei ole saadud kombinatsioon samaväärne nelja väiksema Euleri sammu tegemisega; see saavutab tõeliselt kõrgema täpsusastme (viga kahaneb sammusuuruse neljanda astmega), mida neli vastavalt väiksemat Euleri sammu ei suudaks saavutada, kuna vahepealsed hindamispunktid ja nende kaalutud kombinatsioon on spetsiifiliselt kavandatud tühistama madalamat järku veatermineid, mida tavaline korduv Euleri sammumine ei tühista.",
+    "sourceHash": "e95b86019a28a0e9",
+    "stale": false
+  }
+}

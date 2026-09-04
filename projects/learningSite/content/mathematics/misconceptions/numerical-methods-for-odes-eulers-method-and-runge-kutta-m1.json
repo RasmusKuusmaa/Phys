@@ -1,0 +1,10 @@
+{
+  "id": "numerical-methods-for-odes-eulers-method-and-runge-kutta-m1",
+  "conceptId": "numerical-methods-for-odes-eulers-method-and-runge-kutta",
+  "text": {
+    "en": "Believing numerical methods for solving differential equations are only needed as a last resort for unusually difficult or contrived equations, while most real-world equations can be solved exactly in closed form -- the reverse is true: the overwhelming majority of differential equations that arise from real physical, biological, or engineering models have no closed-form solution in terms of elementary functions at all, and numerical integration is the standard, routine method by which most such equations are actually solved in practice, not an emergency fallback reserved for pathological special cases.",
+    "et": "Arvamus, et diferentsiaalvõrrandite lahendamise numbrilised meetodid on vajalikud ainult viimase abinõuna ebatavaliselt raskete või kunstlike võrrandite jaoks, samal ajal kui enamikku reaalse maailma võrranditest saab lahendada täpselt kinnisel kujul -- vastupidine on tõsi: valdav enamik diferentsiaalvõrranditest, mis tulenevad reaalsetest füüsikalistest, bioloogilistest või inseneriteaduse mudelitest, ei oma üldse kinnist lahendit elementaarfunktsioonide kaudu, ning numbriline integreerimine on standardne, rutiinne meetod, mille abil enamikku selliseid võrrandeid praktikas tegelikult lahendatakse, mitte hädaabinõu, mis on reserveeritud patoloogiliste erijuhtumite jaoks.",
+    "sourceHash": "239030480a97b2a7",
+    "stale": false
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "numerical-methods-for-odes-eulers-method-and-runge-kutta-item1",
+  "conceptId": "numerical-methods-for-odes-eulers-method-and-runge-kutta",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Halving the step size in Euler's method roughly halves the accumulated error, while halving the step size in the classic fourth-order Runge-Kutta method reduces the error by roughly a factor of sixteen. What does this difference reflect?",
+    "et": "Sammusuuruse poolitamine Euleri meetodis poolitab ligikaudu kogunenud vea, samal ajal kui sammusuuruse poolitamine klassikalises neljandat järku Runge-Kutta meetodis vähendab viga ligikaudu kuueteistkümne kordse teguri võrra. Mida see erinevus kajastab?",
+    "sourceHash": "a15b167752e237c3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The two methods have genuinely different orders of convergence -- error scaling linearly with step size for Euler's method versus with the fourth power for fourth-order Runge-Kutta.",
+        "et": "Kahel meetodil on tõeliselt erinevad koondumisjärgud -- viga skaleerub sammusuurusega lineaarselt Euleri meetodi jaoks versus neljanda astmega neljandat järku Runge-Kutta jaoks.",
+        "sourceHash": "c49929209156d69a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The two methods have the same underlying convergence rate; the difference is purely a fixed accuracy constant that happens to favor Runge-Kutta.",
+        "et": "Kahel meetodil on sama aluseks olev koondumiskiirus; erinevus on puhtalt fikseeritud täpsuse konstant, mis lihtsalt eelistab Runge-Kutta't.",
+        "sourceHash": "19894586ec8f9ae8",
+        "stale": false
+      },
+      "correct": false
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Fourth-order Runge-Kutta is simply four repeated Euler steps combined, so its improved accuracy is just four times Euler's accuracy at the same step size.",
+        "et": "Neljandat järku Runge-Kutta on lihtsalt neli korratud Euleri sammu kombineerituna, seega on selle parandatud täpsus lihtsalt neli korda Euleri täpsus sama sammusuuruse juures.",
+        "sourceHash": "d78a6e9db63956df",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "numerical-methods-for-odes-eulers-method-and-runge-kutta-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This behavior only applies to unusually difficult, contrived differential equations, not to the equations that arise from real physical models.",
+        "et": "See käitumine kehtib ainult ebatavaliselt raskete, kunstlike diferentsiaalvõrrandite jaoks, mitte võrrandite jaoks, mis tulenevad reaalsetest füüsikalistest mudelitest.",
+        "sourceHash": "c42b73c7bbf47150",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "numerical-methods-for-odes-eulers-method-and-runge-kutta-m1"
+    }
+  ]
+}

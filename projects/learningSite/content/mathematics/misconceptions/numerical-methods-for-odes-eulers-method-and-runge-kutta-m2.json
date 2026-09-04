@@ -1,0 +1,10 @@
+{
+  "id": "numerical-methods-for-odes-eulers-method-and-runge-kutta-m2",
+  "conceptId": "numerical-methods-for-odes-eulers-method-and-runge-kutta",
+  "text": {
+    "en": "Believing Euler's method and the fourth-order Runge-Kutta method converge to the true solution at the same rate as the step size shrinks, differing only in some fixed constant factor of accuracy -- the two methods' errors shrink at genuinely different rates as the step size decreases: Euler's method's accumulated error shrinks only linearly with the step size (halving the step size roughly halves the error), while the fourth-order Runge-Kutta method's error shrinks with the fourth power of the step size (halving the step size reduces the error by roughly a factor of sixteen), a qualitatively different, far more favorable rate of convergence, not merely a better constant multiplying the same rate.",
+    "et": "Arvamus, et Euleri meetod ja neljandat järku Runge-Kutta meetod koonduvad tõelisele lahendile sama kiirusega, kui sammusuurus kahaneb, erinedes ainult mingi fikseeritud täpsuse konstantse teguri poolest -- kahe meetodi vead kahanevad tõeliselt erineva kiirusega, kui sammusuurus väheneb: Euleri meetodi kogunenud viga kahaneb ainult lineaarselt sammusuurusega (sammusuuruse poolitamine poolitab ligikaudu vea), samal ajal kui neljandat järku Runge-Kutta meetodi viga kahaneb sammusuuruse neljanda astmega (sammusuuruse poolitamine vähendab viga ligikaudu kuueteistkümne kordse teguri võrra), kvalitatiivselt erinev, palju soodsam koondumiskiirus, mitte lihtsalt parem konstant, mis korrutab sama kiirust.",
+    "sourceHash": "1ee32051c3a7b100",
+    "stale": false
+  }
+}
