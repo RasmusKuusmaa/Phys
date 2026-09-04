@@ -1,0 +1,10 @@
+{
+  "id": "nervous-system-anatomy-and-physiology-overview-m1",
+  "conceptId": "nervous-system-anatomy-and-physiology-overview",
+  "text": {
+    "en": "I think 'nerves' and 'the nervous system' basically just means the brain, with the rest of the body being separate -- in reality, the nervous system explicitly includes the peripheral nervous system -- every nerve outside the brain and spinal cord -- which carries sensory information inward and motor commands outward; the brain and spinal cord process and originate signals, but they depend entirely on the peripheral nerves to actually reach the rest of the body.",
+    "et": "Arvan, et 'närvid' ja 'närvisüsteem' tähendavad sisuliselt lihtsalt aju, kusjuures ülejäänud keha on eraldiseisev -- tegelikult hõlmab närvisüsteem selgesõnaliselt perifeerset närvisüsteemi -- kõiki närve väljaspool aju ja seljaaju --, mis kannab sensoorset infot sissepoole ja motoorseid käske väljapoole; aju ja seljaaju töötlevad ja tekitavad signaale, kuid sõltuvad täielikult perifeersetest närvidest, et need tegelikult ülejäänud kehani jõuaksid.",
+    "sourceHash": "b58facbcf9d1df73",
+    "stale": false
+  }
+}

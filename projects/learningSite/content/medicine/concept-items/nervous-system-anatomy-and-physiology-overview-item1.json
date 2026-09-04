@@ -1,0 +1,56 @@
+{
+  "id": "nervous-system-anatomy-and-physiology-overview-item1",
+  "conceptId": "nervous-system-anatomy-and-physiology-overview",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can't the brain alone, without any peripheral nerves, sense pain in your foot or move your hand?",
+    "et": "Miks ei suuda aju üksinda, ilma perifeersete närvideta, tunda valu jalas ega liigutada kätt?",
+    "sourceHash": "cb164cb4e4fcfa30",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the peripheral nervous system -- every nerve outside the brain and spinal cord -- is what physically carries sensory signals from the body to the central nervous system and motor commands back out to the muscles; the brain processes and originates signals but cannot reach the rest of the body without it.",
+        "et": "Sest perifeerne närvisüsteem -- kõik närvid väljaspool aju ja seljaaju -- kannab füüsiliselt sensoorseid signaale kehast kesknärvisüsteemi ning motoorseid käske tagasi lihasteni; aju töötleb ja tekitab signaale, kuid ei suuda ilma selleta ülejäänud kehani jõuda.",
+        "sourceHash": "82120e602ca155bc",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It can -- the brain can sense and control the whole body directly, since 'the nervous system' is essentially just another name for the brain itself.",
+        "et": "See suudab -- aju suudab kogu keha otse tunnetada ja juhtida, kuna 'närvisüsteem' on sisuliselt lihtsalt teine nimetus aju enda jaoks.",
+        "sourceHash": "a631befd4060c1e4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nervous-system-anatomy-and-physiology-overview-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the electrical signal from the brain is too weak to travel the physical distance to the foot or hand without being reinforced along the way.",
+        "et": "Sest ajust tulev elektriline signaal on liiga nõrk, et läbida füüsilist vahemaad jala või käeni ilma teel tugevdamiseta.",
+        "sourceHash": "f9226f4f5b215a3f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nervous-system-anatomy-and-physiology-overview-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the brain would need to send an inhibitory rather than excitatory signal to reach the foot or hand, and it lacks that specific type of connection.",
+        "et": "Sest aju peaks jala või käeni jõudmiseks saatma pärssiva, mitte ergastava signaali, ning tal puudub see konkreetne ühendustüüp.",
+        "sourceHash": "6e94704148e112d0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nervous-system-anatomy-and-physiology-overview-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "nervous-system-anatomy-and-physiology-overview-m2",
+  "conceptId": "nervous-system-anatomy-and-physiology-overview",
+  "text": {
+    "en": "I think signals travel from one neuron directly into the next, the same electrical current continuing unbroken like a wire -- in reality, at the synapse between two neurons, the signal is converted from electrical to chemical and back: the sending neuron releases neurotransmitter molecules across a physical gap, and only once those molecules bind receptors on the receiving neuron does a new electrical impulse potentially begin there -- it is not one continuous electrical current running through a wire-like connection.",
+    "et": "Arvan, et signaal liigub ühest neuronist otse järgmisesse, sama elektrivool jätkub katkematult nagu juhtme kaudu -- tegelikult muundatakse signaal kahe neuroni vahelises sünapsis elektrilisest keemiliseks ja tagasi: saatev neuron vabastab neurotransmitterite molekule läbi füüsilise vahemiku, ning alles siis, kui need molekulid seonduvad vastuvõtva neuroni retseptoritega, võib seal potentsiaalselt alata uus elektriline impulss -- see ei ole üks katkematu elektrivool, mis liigub läbi juhtmelaadse ühenduse.",
+    "sourceHash": "13f051a6fdabfe0c",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "nervous-system-anatomy-and-physiology-overview-m3",
+  "conceptId": "nervous-system-anatomy-and-physiology-overview",
+  "text": {
+    "en": "I think every neurotransmitter released at a synapse makes the next neuron fire, the same way flipping a switch always turns on a light -- in reality, whether a neurotransmitter encourages or discourages the receiving neuron from firing depends on which neurotransmitter it is and which receptor it binds -- some neurotransmitter-receptor combinations are excitatory and others are inhibitory, and a single neuron typically integrates many such excitatory and inhibitory inputs before 'deciding' whether to fire.",
+    "et": "Arvan, et iga sünapsis vabanev neurotransmitter paneb järgmise neuroni impulssi tekitama, samamoodi nagu lüliti vajutamine paneb alati tule põlema -- tegelikult sõltub see, kas neurotransmitter soodustab või pärsib vastuvõtva neuroni impulsi teket, sellest, milline neurotransmitter see on ja millise retseptoriga see seondub -- mõned neurotransmitteri-retseptori kombinatsioonid on ergastavad ja teised pärssivad, ning üksik neuron integreerib tavaliselt paljusid selliseid ergastavaid ja pärssivaid sisendeid, enne kui 'otsustab', kas impulssi tekitada.",
+    "sourceHash": "45a77130e3041d52",
+    "stale": false
+  }
+}

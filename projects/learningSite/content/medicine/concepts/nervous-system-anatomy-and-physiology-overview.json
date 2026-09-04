@@ -1,0 +1,19 @@
+{
+  "id": "nervous-system-anatomy-and-physiology-overview",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "human-anatomy-and-physiology",
+  "title": {
+    "en": "Nervous system anatomy and physiology overview",
+    "et": "Närvisüsteemi anatoomia ja füsioloogia ülevaade",
+    "sourceHash": "7fc0fee5f6a832e6",
+    "stale": false
+  },
+  "summary": {
+    "en": "The nervous system divides into two anatomically and functionally distinct parts: the central nervous system (the brain and spinal cord), which processes information and issues commands, and the peripheral nervous system (every nerve outside the brain and spinal cord), which carries signals between the central nervous system and the rest of the body -- sensory nerves carrying information inward, motor nerves carrying commands outward. The basic functional unit doing this signaling is the neuron, a cell specialized to carry an electrical impulse along a long thin extension (the axon) and pass it on to the next cell at a specialized junction called a synapse, where the electrical signal is converted into a chemical one: the neuron releases neurotransmitter molecules across a tiny gap, which then bind receptors on the receiving cell and, depending on which neurotransmitter and which receptor, either encourage or discourage that next cell from firing its own impulse in turn. This overview stays at the level of the two-part CNS/peripheral-nervous-system split and the basic neuron-and-synapse signaling mechanism; the deeper subject of how specific brain regions, neural circuits, and neurological/psychiatric conditions actually work is a substantial topic of its own, covered later in this subject's neuroscience module rather than here.",
+    "et": "Närvisüsteem jaguneb kaheks anatoomiliselt ja funktsionaalselt erinevaks osaks: kesknärvisüsteem (aju ja seljaaju), mis töötleb infot ja annab käske, ning perifeerne närvisüsteem (kõik närvid väljaspool aju ja seljaaju), mis kannab signaale kesknärvisüsteemi ja ülejäänud keha vahel -- sensoorsed närvid kannavad infot sissepoole, motoorsed närvid kannavad käske väljapoole. Selle signaalimise põhiline funktsionaalne üksus on neuron, rakk, mis on spetsialiseerunud kandma elektrilist impulssi mööda pikka õhukest pikendit (aksonit) ning edastama selle järgmisele rakule spetsialiseeritud ühenduskohas nimega sünaps, kus elektriline signaal muundatakse keemiliseks: neuron vabastab neurotransmitterite molekule läbi väikese vahemiku, mis seonduvad seejärel vastuvõtva raku retseptoritega ning, sõltuvalt sellest, milline neurotransmitter ja milline retseptor, kas soodustavad või pärsivad selle järgmise raku enda impulsi tekkimist. See ülevaade jääb kesknärvisüsteemi ja perifeerse närvisüsteemi kaheosalise jaotuse ning põhilise neuroni-sünapsi signalisatsioonimehhanismi tasandile; sügavam teema, kuidas konkreetsed ajupiirkonnad, närviahelad ning neuroloogilised/psühhiaatrilised seisundid tegelikult toimivad, on omaette mahukas teema, mida käsitletakse hiljem selle aine neuroteaduse moodulis, mitte siin.",
+    "sourceHash": "e412364d16c371b6",
+    "stale": false
+  },
+  "prerequisites": []
+}
