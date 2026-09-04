@@ -328,4 +328,61 @@ relevant Phase Med1/Med2 prerequisite rather than restated from scratch.
       formation, embolism, the infarction mechanism; prerequisite:
       cardiovascular-system-anatomy-and-physiology)
 
+## Phase Med4 — pharmacology, and biostatistics/epidemiology
+
+Two more modules, six concepts each, same independent-tracks split. Checked
+overlap: mathematics already has a `bayes-theorem` concept and general
+probability-distribution content; `sensitivity-specificity-and-diagnostic-
+testing` below applies that machinery to diagnostic testing specifically
+(a genuinely distinct applied angle, restated at the depth this concept
+needs rather than cross-referenced, per the architecture's lack of
+cross-subject prerequisites). Biohacking's `evidence-hierarchy-and-
+critical-evaluation-of-health-claims` stays a claim-evaluation-depth
+concept; `study-design-in-clinical-research` below is the formal
+research-methodology depth version of the same territory.
+
+### Module `pharmacology`
+
+- [ ] Pharmacokinetics: absorption, distribution, metabolism, excretion
+      (ADME basics, bioavailability; no prerequisites)
+- [ ] Pharmacodynamics and drug-receptor interactions (dose-response
+      curves, agonists vs. antagonists, receptor binding; prerequisite:
+      pharmacokinetics-absorption-distribution-metabolism-excretion)
+- [ ] Drug half-life and dosing principles (elimination half-life,
+      clearance, steady-state dosing — a genuine formula candidate,
+      C(t) = C0 * e^(-kt) and t_1/2 = ln(2)/k; prerequisite:
+      pharmacokinetics-absorption-distribution-metabolism-excretion)
+- [ ] Drug interactions and metabolism pathways (cytochrome P450 enzymes,
+      mechanisms of drug-drug interaction; prerequisite:
+      pharmacokinetics-absorption-distribution-metabolism-excretion)
+- [ ] Adverse drug reactions and toxicology (types of adverse drug
+      reactions, the therapeutic index concept — another formula candidate;
+      no prerequisites)
+- [ ] Drug development and clinical trial phases (preclinical research,
+      Phase I-IV clinical trials; no prerequisites — sets up the
+      `biostatistics-and-epidemiology` module below)
+
+### Module `biostatistics-and-epidemiology`
+
+- [ ] Study design in clinical research (randomized controlled trials,
+      cohort, case-control, and cross-sectional studies — the formal
+      research-methodology depth version of biohacking's evidence-hierarchy
+      concept; no prerequisites)
+- [ ] Measures of disease frequency and association (incidence, prevalence,
+      relative risk, odds ratio; prerequisite: study-design-in-clinical-
+      research; formula candidate)
+- [ ] Sensitivity, specificity, and diagnostic testing (true/false
+      positive/negative, positive/negative predictive value, applying
+      Bayes' theorem to diagnostic test interpretation; formula candidate;
+      no prerequisites)
+- [ ] Bias and confounding in epidemiological studies (selection bias,
+      confounding, effect modification; prerequisite: study-design-in-
+      clinical-research)
+- [ ] Clinical trial design and statistical significance (randomization,
+      blinding, p-values and confidence intervals in a clinical context,
+      statistical power; prerequisite: study-design-in-clinical-research)
+- [ ] Outbreak investigation and disease surveillance (the epidemic curve,
+      the basic reproduction number R0 — formula candidate; no
+      prerequisites)
+
 ---
