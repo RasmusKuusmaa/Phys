@@ -1,0 +1,10 @@
+{
+  "id": "personal-genomics-and-genetic-self-testing-m3",
+  "conceptId": "personal-genomics-and-genetic-self-testing",
+  "text": {
+    "en": "If a third-party website analyzes my raw genetic data file and reports a health risk associated with one of my variants, that report is just as reliable as my genetic testing company's own curated report -- in reality, raw-data interpretation tools often report associations sourced from single, small, unreplicated studies, a far weaker evidentiary standard than the well-replicated findings a reputable company's own curated report is typically built on, so a scary-sounding third-party finding needs the same evidence-hierarchy scrutiny as any other health claim.",
+    "et": "Kui kolmanda osapoole veebisait analüüsib minu toorandmete geneetilist faili ja teatab terviseriskist, mis on seotud ühe minu variandiga, on see aruanne sama usaldusväärne kui minu geneetilise testimise ettevõtte enda kureeritud aruanne -- tegelikult teatavad toorandmete tõlgendustööriistad sageli seoseid, mis pärinevad ühest väikesest, kordamata uuringust, mis on palju nõrgem tõenduslik standard kui hästi korratud leiud, millele on tavaliselt üles ehitatud maineka ettevõtte enda kureeritud aruanne, mistõttu hirmutavalt kõlav kolmanda osapoole leid vajab sama tõendite-hierarhia kontrolli nagu iga teine terviseväide.",
+    "sourceHash": "e5f0f4fc2a90e448",
+    "stale": false
+  }
+}

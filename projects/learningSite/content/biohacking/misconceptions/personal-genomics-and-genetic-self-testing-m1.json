@@ -1,0 +1,10 @@
+{
+  "id": "personal-genomics-and-genetic-self-testing-m1",
+  "conceptId": "personal-genomics-and-genetic-self-testing",
+  "text": {
+    "en": "A direct-to-consumer genetic test can tell you with certainty whether you will develop a common disease like heart disease or a given cancer -- in reality, risk for almost every common condition is polygenic, arising from the small combined contribution of many hundreds or thousands of variants plus a large environmental and lifestyle component, so a consumer polygenic risk score typically explains only a modest fraction of a person's actual risk rather than determining an outcome.",
+    "et": "Otse tarbijale suunatud geneetiline test suudab kindlusega öelda, kas sul tekib levinud haigus nagu südamehaigus või antud vähk -- tegelikult on risk peaaegu iga levinud seisundi puhul polügeenne, tulenedes sadade või tuhandete variantide väikesest kombineeritud panusest pluss suurest keskkonna- ja eluviisikomponendist, mistõttu tarbija polügeenne riskiskoor selgitab tavaliselt vaid tagasihoidlikku osa inimese tegelikust riskist, mitte ei määra tulemust.",
+    "sourceHash": "194b562f97a559be",
+    "stale": false
+  }
+}

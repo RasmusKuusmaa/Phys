@@ -1,0 +1,56 @@
+{
+  "id": "personal-genomics-and-genetic-self-testing-item1",
+  "conceptId": "personal-genomics-and-genetic-self-testing",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A person uploads their raw direct-to-consumer genetic data file to a third-party website, which reports back that they carry a variant 'associated with' a serious condition, citing one small published study. Why does this report deserve the same scrutiny as any other health claim?",
+    "et": "Inimene laadib oma toore otse tarbijale suunatud geneetilise andmefaili kolmanda osapoole veebisaidile, mis teatab tagasi, et tal on variant, mis on 'seotud' tõsise seisundiga, viidates ühele väikesele avaldatud uuringule. Miks väärib see aruanne sama kontrolli, mis iga teine terviseväide?",
+    "sourceHash": "d55704d78633af4e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because raw-data interpretation tools often report associations sourced from single, small, unreplicated studies, a far weaker evidentiary standard than the well-replicated findings behind established genetic findings.",
+        "et": "Sest toorandmete tõlgendustööriistad teatavad sageli seoseid, mis pärinevad ühest väikesest, kordamata uuringust, mis on palju nõrgem tõenduslik standard kui hästi korratud leiud, millel väljakujunenud geneetilised leiud põhinevad.",
+        "sourceHash": "80f6a6e5a2ecd29b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't deserve extra scrutiny -- any variant reported by a genetic analysis tool, third-party or not, carries the same certainty as an established finding like a BRCA1 mutation.",
+        "et": "See ei vääri täiendavat kontrolli -- iga geneetilise analüüsitööriista teatatud variant, olgu see kolmanda osapoole oma või mitte, kannab sama kindlust kui väljakujunenud leid nagu BRCA1 mutatsioon.",
+        "sourceHash": "688aa1a9d5cbf685",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "personal-genomics-and-genetic-self-testing-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't -- since polygenic risk from common variants is always negligible compared to environmental factors, no variant-based report is ever worth taking seriously.",
+        "et": "See ei vääri -- kuna levinud variantidest tulenev polügeenne risk on alati tühine võrreldes keskkonnateguritega, ei ole ühtki variandipõhist aruannet kunagi väärt tõsiselt võtta.",
+        "sourceHash": "b94b3fd6dfcf1392",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "personal-genomics-and-genetic-self-testing-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't need scrutiny beyond checking that the underlying genotyping itself was accurate, since any statistically reported association is equally trustworthy once the genotype data is correct.",
+        "et": "See ei vaja kontrolli peale selle, kas aluseks olev genotüpiseerimine ise oli täpne, kuna iga statistiliselt teatatud seos on võrdselt usaldusväärne, kui genotüübiandmed on õiged.",
+        "sourceHash": "24c4166ca3c1834f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "personal-genomics-and-genetic-self-testing-m3"
+    }
+  ]
+}

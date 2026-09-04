@@ -1,0 +1,10 @@
+{
+  "id": "personal-genomics-and-genetic-self-testing-m2",
+  "conceptId": "personal-genomics-and-genetic-self-testing",
+  "text": {
+    "en": "All genetic risk information is equally uncertain and interpretation-dependent, so a positive result for a well-characterized single-gene condition carries no more real weight than a polygenic risk score for a common disease -- in reality, a handful of single-gene conditions have well-characterized, high-penetrance variants (certain BRCA1/BRCA2 mutations, for instance) where a positive result genuinely carries strong, individually meaningful information, which is a fundamentally different evidentiary situation from a polygenic score assembled from many small-effect common variants.",
+    "et": "Kogu geneetiline riskiinfo on ühtviisi ebakindel ja tõlgendusest sõltuv, mistõttu positiivne tulemus hästi kirjeldatud üksikgeeni seisundi kohta ei kanna rohkem tõelist kaalu kui polügeenne riskiskoor levinud haiguse kohta -- tegelikult on käputäiel üksikgeeni seisunditel hästi kirjeldatud, kõrge penetrantsusega variandid (näiteks teatud BRCA1/BRCA2 mutatsioonid), kus positiivne tulemus kannab tõeliselt tugevat, individuaalselt tähendusrikast infot, mis on põhimõtteliselt erinev tõenduslik olukord kui paljudest väikese mõjuga levinud variantidest koostatud polügeenne skoor.",
+    "sourceHash": "c92f65f68232fe08",
+    "stale": false
+  }
+}

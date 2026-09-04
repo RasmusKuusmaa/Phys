@@ -1,0 +1,21 @@
+{
+  "id": "personal-genomics-and-genetic-self-testing",
+  "subject": "biohacking",
+  "level": "L2",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Personal genomics and genetic self-testing",
+    "et": "Isiklik genoomika ja geneetiline enesetestimine",
+    "sourceHash": "28e00dbb32b167bc",
+    "stale": false
+  },
+  "summary": {
+    "en": "Direct-to-consumer genetic testing genotypes a person at a few hundred thousand to a million specific genome positions -- a real, accurate laboratory measurement -- but what a person does with the resulting file is where most of the interpretive risk lives. For a handful of single-gene conditions with well-characterized, high-penetrance variants (certain BRCA1/BRCA2 mutations, for instance), a positive result genuinely carries strong, individually meaningful information. For almost every common condition people search their raw data hoping to learn about -- heart disease, most cancers, most psychiatric conditions -- risk is polygenic, meaning it comes from the combined small contribution of many hundreds or thousands of genetic variants plus a large environmental and lifestyle component, and a polygenic risk score built from a consumer test typically explains only a modest fraction of a person's actual risk, most of it still open to environment and behavior rather than fixed by genotype. A further layer of risk sits in third-party raw-data interpretation tools: because DTC companies release the raw genotype file underlying their own curated report, a cottage industry of unaffiliated websites will run that raw file against research-grade variant databases and hand back a report reading like a medical diagnosis, often for variants whose reported association came from a single, small, unreplicated study -- which is a very different evidentiary standard than the well-replicated findings a reputable DTC company's own report is built on.",
+    "et": "Otse tarbijale suunatud geneetiline testimine genotüpiseerib inimest mõnesajast tuhandest kuni miljoni konkreetse genoomipositsioonini -- reaalne, täpne laborimõõtmine --, kuid see, mida inimene tulemuseks oleva failiga teeb, ongi see, kus enamik tõlgendusriskist asub. Käputäie üksikgeeni seisundite jaoks, millel on hästi kirjeldatud, kõrge penetrantsusega variandid (näiteks teatud BRCA1/BRCA2 mutatsioonid), kannab positiivne tulemus tõeliselt tugevat, individuaalselt tähendusrikast infot. Peaaegu iga levinud seisundi puhul, mille kohta inimesed oma toorandmetest lootuses infot otsivad -- südamehaigused, enamik vähke, enamik psühhiaatrilisi seisundeid -- on risk polügeenne, mis tähendab, et see tuleneb sadade või tuhandete geneetiliste variantide kombineeritud väikesest panusest pluss suurest keskkonna- ja eluviisikomponendist, ning tarbijatestist üles ehitatud polügeenne riskiskoor selgitab tavaliselt vaid tagasihoidlikku osa inimese tegelikust riskist, suurem osa sellest on ikka avatud keskkonnale ja käitumisele, mitte genotüübiga fikseeritud. Täiendav riskikiht asub kolmandate osapoolte toorandmete tõlgendustööriistades: kuna DTC-ettevõtted avaldavad oma kureeritud aruande aluseks oleva toorgenotüübi faili, jookseb hulk sõltumatuid veebisaite selle toorfaili teaduskvaliteediga variandiandmebaaside vastu ja annab tagasi aruande, mis loeb nagu meditsiiniline diagnoos, sageli variantide jaoks, mille teatatud seos pärines ühest väikesest, kordamata uuringust -- mis on väga erinev tõenduslik standard kui hästi korratud leiud, millele on üles ehitatud maineka DTC-ettevõtte enda aruanne.",
+    "sourceHash": "88ae65ded372b704",
+    "stale": false
+  },
+  "prerequisites": [
+    "evidence-hierarchy-and-critical-evaluation-of-health-claims"
+  ]
+}
