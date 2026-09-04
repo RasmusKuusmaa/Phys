@@ -1,0 +1,56 @@
+{
+  "id": "malabsorption-syndrome-mechanisms-item1",
+  "conceptId": "malabsorption-syndrome-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient with celiac disease and a patient with pancreatic exocrine insufficiency both show malabsorption symptoms. Why do they require entirely different underlying explanations despite the shared symptom picture?",
+    "et": "Tsöliaakiaga patsiendil ja pankrease eksokriinse puudulikkusega patsiendil on mõlemal malabsorptsiooni sümptomid. Miks nõuavad need täiesti erinevaid aluseks olevaid selgitusi, hoolimata jagatud sümptomite pildist?",
+    "sourceHash": "4707a7c5942cf8a4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They fail at genuinely different steps of the same digestion-and-absorption pathway: celiac disease damages the intestinal absorptive surface itself, while pancreatic exocrine insufficiency fails earlier, at the digestion step, leaving nothing properly broken down for a healthy intestinal lining to absorb.",
+        "et": "Need ebaõnnestuvad tõeliselt erinevates sammudes samas seedimise-ja-imendumise rajas: tsöliaakia kahjustab soolestiku imendumispinda ennast, samas kui pankrease eksokriinne puudulikkus ebaõnnestub varem, seedimise sammus, jättes terve soolestiku voodri jaoks mitte midagi korralikult lagundatut imemiseks.",
+        "sourceHash": "8171775fd62a2019",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both conditions actually share one single underlying cause, so the different names are essentially interchangeable labels for the same disease.",
+        "et": "Mõlemal seisundil on tegelikult üks ühine aluseks olev põhjus, mistõttu erinevad nimed on sisuliselt vahetatavad sildid samale haigusele.",
+        "sourceHash": "f48d10cf6f4f4db2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "malabsorption-syndrome-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Both conditions specifically involve a failure of enzymatic digestion, so the difference must come from something unrelated to the digestion-absorption pathway itself.",
+        "et": "Mõlemad seisundid hõlmavad spetsiifiliselt ensümaatilise seedimise ebaõnnestumist, mistõttu erinevus peab tulenema millestki, mis pole seotud seedimise-imendumise raja endaga.",
+        "sourceHash": "406e5d6db6709bae",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "malabsorption-syndrome-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both conditions specifically involve damage to the intestinal lining itself, so the difference must lie in which part of the intestine is damaged rather than which step of the pathway fails.",
+        "et": "Mõlemad seisundid hõlmavad spetsiifiliselt soolestiku voodri enda kahjustust, mistõttu erinevus peab peituma selles, milline soolestiku osa on kahjustatud, mitte selles, milline raja samm ebaõnnestub.",
+        "sourceHash": "25c5f53d3a8baa26",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "malabsorption-syndrome-mechanisms-m3"
+    }
+  ]
+}

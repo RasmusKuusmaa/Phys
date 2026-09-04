@@ -1,0 +1,21 @@
+{
+  "id": "malabsorption-syndrome-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "gastrointestinal-and-hepatic-medicine",
+  "title": {
+    "en": "Malabsorption syndrome mechanisms",
+    "et": "Malabsorptsioonisündroomi mehhanismid",
+    "sourceHash": "f9805e3861bdb9e1",
+    "stale": false
+  },
+  "summary": {
+    "en": "Digesting and absorbing a nutrient is a multi-step process -- mechanical and enzymatic breakdown, chemical processing, and finally transport across the intestinal lining into the bloodstream -- and malabsorption is not one disease but a shared symptom produced whenever any one of those steps fails, which is why genuinely different underlying diseases can all present with the same superficial picture of poorly absorbed nutrients and their downstream consequences. Celiac disease fails at the absorption step itself: gluten triggers an autoimmune response that damages and flattens the small intestine's absorptive villi, the finger-like projections that normally provide the enormous surface area absorption depends on, so even nutrients that have been completely and correctly digested have nowhere near enough absorptive surface left to cross into the blood. Pancreatic exocrine insufficiency fails at an earlier step entirely: without adequate pancreatic digestive enzymes reaching the small intestine, fats, proteins, and carbohydrates are never properly broken down into their absorbable forms in the first place, so the intestinal lining itself may be completely healthy and still absorb almost nothing, since there is nothing correctly digested left to absorb. Because these two conditions fail at genuinely different points in the same overall pathway -- one at digestion, the other at absorption -- they require entirely different underlying explanations despite converging on an overlapping set of downstream symptoms.",
+    "et": "Toitaine seedimine ja imendumine on mitmeastmeline protsess -- mehaaniline ja ensümaatiline lagundamine, keemiline töötlemine ning lõpuks transport üle soolestiku voodri vereringesse -- ning malabsorptsioon ei ole üks haigus, vaid jagatud sümptom, mis tekib alati, kui mistahes üks neist sammudest ebaõnnestub, mis ongi põhjus, miks tõeliselt erinevad aluseks olevad haigused võivad kõik esineda sama pealiskaudse pildiga halvasti imendunud toitainetest ja nende allavoolu tagajärgedest. Tsöliaakia ebaõnnestub imendumise sammu enda juures: gluteen käivitab autoimmuunreaktsiooni, mis kahjustab ja lamestab peensoole imendumisvilluseid, sõrmetaolisi väljakasvusid, mis tavaliselt annavad tohutu pinna, millest imendumine sõltub, mistõttu isegi täielikult ja õigesti seeditud toitainetel ei ole peaaegu piisavalt imendumispinda jäänud, et jõuda üle verre. Pankrease eksokriinne puudulikkus ebaõnnestub hoopis varasemas sammus: ilma piisavate pankrease seedeensüümideta, mis peensoolde jõuavad, ei lagundata rasvu, valke ja süsivesikuid kunagi korralikult nende imenduvateks vormideks, mistõttu soolestiku vooder ise võib olla täiesti terve ja siiski peaaegu mitte midagi imenduda, kuna imenduda pole midagi korralikult seeditud jäänud. Kuna need kaks seisundit ebaõnnestuvad tõeliselt erinevates punktides samas üldises rajas -- üks seedimisel, teine imendumisel --, nõuavad need täiesti erinevaid aluseks olevaid selgitusi, hoolimata koondumisest kattuvale allavoolu sümptomite kogumile.",
+    "sourceHash": "a3fda68b7f54cff7",
+    "stale": false
+  },
+  "prerequisites": [
+    "digestive-system-anatomy-and-physiology"
+  ]
+}

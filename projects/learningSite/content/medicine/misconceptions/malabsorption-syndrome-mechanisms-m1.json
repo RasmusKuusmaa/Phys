@@ -1,0 +1,10 @@
+{
+  "id": "malabsorption-syndrome-mechanisms-m1",
+  "conceptId": "malabsorption-syndrome-mechanisms",
+  "text": {
+    "en": "Malabsorption is a single disease with one underlying cause -- in reality, malabsorption is a shared symptom category produced whenever any step in the multi-step digestion-and-absorption pathway fails; celiac disease and pancreatic exocrine insufficiency, for example, fail at genuinely different steps (absorption vs. digestion) despite both being called 'malabsorption.'",
+    "et": "Malabsorptsioon on üks haigus ühe aluseks oleva põhjusega -- tegelikult on malabsorptsioon jagatud sümptomikategooria, mis tekib alati, kui mistahes samm mitmeastmelises seedimise-ja-imendumise rajas ebaõnnestub; tsöliaakia ja pankrease eksokriinne puudulikkus näiteks ebaõnnestuvad tõeliselt erinevates sammudes (imendumine vs seedimine), hoolimata sellest, et mõlemat nimetatakse 'malabsorptsiooniks'.",
+    "sourceHash": "2f735e78a2949064",
+    "stale": false
+  }
+}

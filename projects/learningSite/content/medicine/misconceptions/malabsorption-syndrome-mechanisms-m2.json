@@ -1,0 +1,10 @@
+{
+  "id": "malabsorption-syndrome-mechanisms-m2",
+  "conceptId": "malabsorption-syndrome-mechanisms",
+  "text": {
+    "en": "In celiac disease, the problem is that nutrients aren't being digested properly by enzymes -- in reality, celiac disease's problem is specifically at the absorption step: gluten triggers an autoimmune response that damages the small intestine's absorptive villi, so even nutrients that have been completely and correctly digested have nowhere near enough absorptive surface area left to cross into the bloodstream; the digestion of nutrients into absorbable form is not what fails in celiac disease.",
+    "et": "Tsöliaakia puhul on probleem selles, et toitaineid ei seedita ensüümide poolt korralikult -- tegelikult on tsöliaakia probleem spetsiifiliselt imendumise sammus: gluteen käivitab autoimmuunreaktsiooni, mis kahjustab peensoole imendumisvilluseid, mistõttu isegi täielikult ja õigesti seeditud toitainetel ei ole peaaegu piisavalt imendumispinda jäänud, et jõuda üle vereringesse; toitainete seedimine imenduvaks vormiks ei ole see, mis tsöliaakia puhul ebaõnnestub.",
+    "sourceHash": "e2af15f8a90a70e9",
+    "stale": false
+  }
+}
