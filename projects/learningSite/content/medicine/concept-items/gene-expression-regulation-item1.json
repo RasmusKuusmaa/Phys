@@ -1,0 +1,56 @@
+{
+  "id": "gene-expression-regulation-item1",
+  "conceptId": "gene-expression-regulation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A liver cell and a neuron in the same person carry essentially the same genome, yet look and function completely differently. What best explains this?",
+    "et": "Ühe inimese maksarakk ja neuron kannavad sisuliselt sama genoomi, kuid näevad välja ja toimivad täiesti erinevalt. Mis seda kõige paremini seletab?",
+    "sourceHash": "9a8896cd71588858",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Different genes are turned on and off (and up and down) in each cell type through layered regulatory mechanisms — transcription factors and epigenetic modifications — not because the cells contain different genes.",
+        "et": "Igas rakutüübis lülitatakse erinevaid geene sisse ja välja (ning üles ja alla) kihiliste regulatoorsete mehhanismide -- transkriptsioonifaktorite ja epigeneetiliste modifikatsioonide -- kaudu, mitte seetõttu, et rakud sisaldavad erinevaid geene.",
+        "sourceHash": "742705d0b19bf3a8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Each cell type only physically contains the specific subset of genes relevant to its own function, having lost the rest of the genome during development.",
+        "et": "Iga rakutüüp sisaldab füüsiliselt ainult oma funktsiooni jaoks olulist geenide alamhulka, olles arengu käigus kaotanud ülejäänud genoomi.",
+        "sourceHash": "bccef7d009798125",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gene-expression-regulation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A single master transcription factor is responsible for switching on all of a cell type's relevant genes at once, in a strict one-to-one relationship with a single target gene.",
+        "et": "Üksainus peamine transkriptsioonifaktor vastutab kõigi rakutüübi oluliste geenide korraga sisselülitamise eest, ranges üks-ühele suhtes ühe sihtgeeniga.",
+        "sourceHash": "1ad40eea7b1400f9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gene-expression-regulation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The two cell types accumulated different permanent mutations to their DNA sequence during development, which is why they express different genes.",
+        "et": "Kaks rakutüüpi kogusid arengu käigus oma DNA järjestusse erinevaid püsivaid mutatsioone, mistõttu nad ekspresseerivad erinevaid geene.",
+        "sourceHash": "a7cac175475b793f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gene-expression-regulation-m3"
+    }
+  ]
+}

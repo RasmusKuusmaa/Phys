@@ -1,0 +1,21 @@
+{
+  "id": "gene-expression-regulation",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "genetics-and-molecular-genetics",
+  "title": {
+    "en": "Gene expression regulation",
+    "et": "Geeniekspressiooni regulatsioon",
+    "sourceHash": "5c9e9b06aea7eab0",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every cell in a multicellular organism carries essentially the same complete genome, yet a liver cell and a neuron look and function completely differently, because cells don't express every gene they carry all the time -- they turn specific genes on and off, and up and down, through layered regulatory machinery. In bacteria, genes that work together are often controlled as a single unit called an operon, where one regulatory region can switch a whole cluster of functionally related genes on or off together, typically in response to whether a particular nutrient is present or absent. In more complex organisms, individual genes are instead controlled largely by transcription factors -- proteins that bind specific DNA sequences near a gene and either recruit or block the machinery (RNA polymerase) needed to transcribe it, and a single transcription factor can regulate many different genes at once, or a single gene can require several transcription factors acting together before it is transcribed. Beyond this direct on/off control, cells layer on epigenetic regulation -- chemical modifications to DNA itself (like methylation) or to the proteins DNA is packaged around (histones) that make a gene's region of the genome more or less physically accessible to the transcription machinery without changing the underlying DNA sequence at all, providing a mechanism for gene expression patterns to be inherited across cell divisions, and in some cases across generations, independent of the genetic code itself.",
+    "et": "Iga rakk mitmerakulises organismis kannab sisuliselt sama täielikku genoomi, kuid maksarakk ja neuron näevad välja ja toimivad täiesti erinevalt, sest rakud ei ekspresseeri kogu aeg kõiki geene, mida nad kannavad -- nad lülitavad konkreetseid geene sisse ja välja ning üles ja alla, kihilise regulatoorse masinavärgi kaudu. Bakterites kontrollitakse koos töötavaid geene sageli ühe üksusena, mida nimetatakse operoniks, kus üks regulatoorne piirkond saab lülitada terve funktsionaalselt seotud geenide klastri korraga sisse või välja, tüüpiliselt vastuseks sellele, kas konkreetne toitaine on olemas või mitte. Keerukamates organismides kontrollitakse üksikuid geene selle asemel peamiselt transkriptsioonifaktorite kaudu -- valgud, mis seonduvad geeni lähedal asuvate konkreetsete DNA järjestustega ning kas värbavad või blokeerivad masinavärki (RNA polümeraasi), mida on vaja selle transkribeerimiseks, ning üksainus transkriptsioonifaktor võib korraga reguleerida paljusid erinevaid geene, või üksainus geen võib vajada mitut transkriptsioonifaktorit koos toimimas, enne kui seda transkribeeritakse. Lisaks sellele otsesele sisse-välja kontrollile lisavad rakud epigeneetilise regulatsiooni -- keemilised modifikatsioonid DNA-le endale (nagu metüleerimine) või valkudele, mille ümber DNA on pakitud (histoonid), mis muudavad genoomi vastava piirkonna transkriptsioonimasinavärgile füüsiliselt rohkem või vähem ligipääsetavaks, muutmata seejuures üldse aluseks olevat DNA järjestust, pakkudes mehhanismi, mille kaudu geeniekspressiooni mustrid saavad pärandud rakujagunemiste ja mõnel juhul ka põlvkondade vahel, sõltumatult geneetilisest koodist endast.",
+    "sourceHash": "850a73e27ff7f9b9",
+    "stale": false
+  },
+  "prerequisites": [
+    "dna-replication-transcription-and-translation"
+  ]
+}

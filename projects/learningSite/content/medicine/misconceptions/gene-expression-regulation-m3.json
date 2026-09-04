@@ -1,0 +1,10 @@
+{
+  "id": "gene-expression-regulation-m3",
+  "conceptId": "gene-expression-regulation",
+  "text": {
+    "en": "I think epigenetic changes are the same thing as genetic mutations, both permanently altering the DNA sequence itself -- in reality, epigenetic modifications like DNA methylation or histone modification change how accessible a gene's DNA is to the transcription machinery without altering the underlying DNA base sequence at all, which is fundamentally different from a mutation, which does change the sequence.",
+    "et": "Arvan, et epigeneetilised muutused on sama, mis geneetilised mutatsioonid, mõlemad muudavad püsivalt DNA järjestust ennast -- tegelikult muudavad epigeneetilised modifikatsioonid, nagu DNA metüleerimine või histooni modifikatsioon, seda, kui ligipääsetav geeni DNA transkriptsioonimasinavärgile on, muutmata seejuures üldse aluseks olevat DNA aluste järjestust, mis erineb põhimõtteliselt mutatsioonist, mis järjestust tõesti muudab.",
+    "sourceHash": "cba7205a61590d2b",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "gene-expression-regulation-m2",
+  "conceptId": "gene-expression-regulation",
+  "text": {
+    "en": "I think a transcription factor regulates exactly one gene, in a simple one-to-one relationship -- in reality, a single transcription factor commonly regulates many different genes at once by binding a shared DNA sequence motif present near each of them, and conversely a single gene's transcription often requires several different transcription factors acting together, not a simple one-to-one switch.",
+    "et": "Arvan, et transkriptsioonifaktor reguleerib täpselt ühte geeni, lihtsas üks-ühele suhtes -- tegelikult reguleerib üksainus transkriptsioonifaktor sageli paljusid erinevaid geene korraga, seondudes jagatud DNA järjestusmotiiviga nende kõigi läheduses, ning vastupidi, üksiku geeni transkriptsioon nõuab sageli mitut erinevat transkriptsioonifaktorit koos toimimas, mitte lihtsat üks-ühele lülitit.",
+    "sourceHash": "7c0d89c1b33ab217",
+    "stale": false
+  }
+}

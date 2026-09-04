@@ -1,0 +1,10 @@
+{
+  "id": "gene-expression-regulation-m1",
+  "conceptId": "gene-expression-regulation",
+  "text": {
+    "en": "I think every cell only uses the small subset of genes it actually needs, and simply doesn't contain the rest of the genome's genes at all -- in reality, with rare specific exceptions, virtually every cell in the body carries the organism's complete genome, including genes it never expresses; the difference between a liver cell and a neuron comes entirely from which genes are turned on or off, not from which genes are physically present in the cell's DNA.",
+    "et": "Arvan, et iga rakk kasutab ainult väikest alamhulka geene, mida ta tegelikult vajab, ning ei sisalda ülejäänud genoomi geene üldse -- tegelikult kannab peaaegu iga rakk kehas, väheste konkreetsete eranditega, organismi täielikku genoomi, sealhulgas geene, mida ta kunagi ei ekspresseeri; erinevus maksaraku ja neuroni vahel tuleneb täielikult sellest, millised geenid on sisse või välja lülitatud, mitte sellest, millised geenid on raku DNA-s füüsiliselt olemas.",
+    "sourceHash": "c1278d0699da08b8",
+    "stale": false
+  }
+}
