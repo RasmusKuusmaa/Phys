@@ -1,0 +1,19 @@
+{
+  "id": "exercise-physiology-and-performance-optimization",
+  "subject": "biohacking",
+  "level": "L2",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Exercise physiology and performance optimization",
+    "et": "Treeningfüsioloogia ja soorituse optimeerimine",
+    "sourceHash": "378f120e70ed695b",
+    "stale": false
+  },
+  "summary": {
+    "en": "VO2 max -- the maximum rate at which the body can take up, transport, and use oxygen during intense exercise -- is one of the most robust predictors of cardiovascular fitness and long-term health outcomes measured in exercise science, and it responds predictably to training: both high-intensity interval training (short bursts near or above the intensity that maxes out oxygen uptake, separated by recovery) and longer steady-state aerobic training raise it, through overlapping but not identical adaptations (interval training drives cardiac stroke-volume and mitochondrial-density gains especially efficiently per minute spent training, while steady-state volume builds capillary density and fat-oxidation capacity that intervals alone train less directly), which is why well-designed programs typically combine both rather than treating them as competitors. Training adaptation itself follows a supercompensation pattern: a hard training stimulus temporarily reduces performance capacity, and the body rebuilds not just back to baseline but modestly above it during recovery, which is exactly why recovery time is a required part of the adaptation, not lost training time -- pushing hard again before that rebuilding completes is what produces overtraining syndrome, a genuine, measurable state of chronically depressed performance, elevated resting heart rate, and impaired recovery that can take weeks to months to reverse, not something that resolves with one or two rest days.",
+    "et": "VO2max -- maksimaalne kiirus, millega keha suudab intensiivse treeningu ajal hapnikku omastada, transportida ja kasutada -- on üks kõige usaldusväärsemaid kardiovaskulaarse vormisoleku ja pikaajaliste terviseväljundite ennustajaid, mida treeningteaduses mõõdetakse, ning see reageerib treeningule ennustatavalt: nii kõrge intensiivsusega intervalltreening (lühikesed puhangud hapnikuomastuse maksimumi lähedal või sellest kõrgemal, eraldatuna taastumisega) kui ka pikem püsiva intensiivsusega aeroobne treening tõstavad seda, kattuvate, kuid mitte identsete kohanemiste kaudu (intervalltreening arendab südame löögimahu ja mitokondrite tiheduse kasvu eriti tõhusalt treeningule kulutatud minuti kohta, samas kui püsiva intensiivsusega maht arendab kapillaaride tihedust ja rasva oksüdatsiooni võimet, mida intervallid üksi vähem otseselt treenivad), mistõttu hästi koostatud programmid tavaliselt kombineerivad mõlemat, selle asemel et käsitleda neid konkurentidena. Treeningkohanemine ise järgib superkompensatsiooni mustrit: raske treeningstiimul vähendab ajutiselt soorituse võimekust, ning keha taastub taastumise ajal mitte lihtsalt algtaseme, vaid veidi selle kohale, mis ongi täpselt põhjus, miks taastumisaeg on kohanemise vajalik osa, mitte kaotatud treeningaeg -- uuesti raskelt pingutamine enne selle taastumise lõpetamist toodab ületreenituse sündroomi, tõelise, mõõdetava kroonilise soorituse languse, tõusnud puhkeoleku pulsisageduse ja häiritud taastumise seisundi, mille taastumine võib võtta nädalaid kuni kuid, mitte midagi, mis laheneb ühe-kahe puhkepäevaga.",
+    "sourceHash": "348e13b0fe717d7f",
+    "stale": false
+  },
+  "prerequisites": []
+}

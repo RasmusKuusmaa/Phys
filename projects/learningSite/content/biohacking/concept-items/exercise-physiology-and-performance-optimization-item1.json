@@ -1,0 +1,56 @@
+{
+  "id": "exercise-physiology-and-performance-optimization-item1",
+  "conceptId": "exercise-physiology-and-performance-optimization",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An athlete feels persistently fatigued, has an elevated resting heart rate, and has seen declining performance for several weeks despite training harder to 'push through it'. What does exercise physiology say is actually happening?",
+    "et": "Sportlane tunneb end püsivalt väsinuna, tema puhkeoleku pulsisagedus on tõusnud ning tema sooritus on mitme nädala jooksul langenud, hoolimata sellest, et ta treenib raskemini, et sellest 'läbi suruda'. Mida treeningfüsioloogia ütleb tegelikult toimuva kohta?",
+    "sourceHash": "5a674cc7415f5e62",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The athlete likely has overtraining syndrome, a genuine physiological state caused by insufficient recovery relative to training load, which typically requires weeks to months of reduced training to reverse, not more hard training.",
+        "et": "Sportlasel on tõenäoliselt ületreenituse sündroom, tõeline füsioloogiline seisund, mis on põhjustatud ebapiisavast taastumisest võrreldes treeningkoormusega, ning mille pöördumine nõuab tavaliselt nädalaid kuni kuid vähendatud treeningut, mitte rohkem rasket treeningut.",
+        "sourceHash": "7a1ec0a46b35b010",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The athlete is probably relying too heavily on one training method (either intervals or steady-state) and needs to switch entirely to the other to see continued progress.",
+        "et": "Sportlane tugineb tõenäoliselt liiga palju ühele treeningmeetodile (kas intervallidele või püsivale intensiivsusele) ning peab jätkuva progressi nägemiseks täielikult teisele üle minema.",
+        "sourceHash": "889ba5e2e2dd8e43",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "exercise-physiology-and-performance-optimization-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This is expected -- pushing through fatigue with more hard training as soon as possible is exactly how the body is supposed to build fitness fastest.",
+        "et": "See on oodatav -- väsimusest läbi surumine võimalikult kiiresti rohkema raske treeninguga on täpselt see, kuidas keha peab kiireimini vormisolekut ehitama.",
+        "sourceHash": "dc9d6081c0a02f93",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "exercise-physiology-and-performance-optimization-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This is just normal tiredness from training, and a day or two of rest should fully resolve it before returning to the same training load.",
+        "et": "See on lihtsalt tavaline treeningust tulenev väsimus, ning üks-kaks puhkepäeva peaksid selle täielikult lahendama, enne kui naaseda sama treeningkoormuse juurde.",
+        "sourceHash": "61bb181243d4a8be",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "exercise-physiology-and-performance-optimization-m3"
+    }
+  ]
+}
