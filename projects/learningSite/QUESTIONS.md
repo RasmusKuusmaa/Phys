@@ -25,6 +25,21 @@ gotten progressively smaller and more specialized, which is the signal I
 used to call it. Say if you want another physics lap before math continues,
 or if a specific module deserves a deeper look.
 
+## Judging chemistry "comprehensive" and pivoting to materials-science
+
+Same reasoning as the physics and mathematics calls above: after four
+chemistry phases (`CHEMISTRY_PLAN.md` C1-C4) added 12 concepts (bachelor
+gaps: stereochemistry, NMR; graduate L4: Hartree-Fock, DFT, statistical
+thermodynamics, ligand field theory, pericyclic reactions; a new
+biochemistry module: amino acids, enzyme kinetics, nucleic acids; final
+sweep: Hess's law, chromatography) on top of the 35-concept baseline,
+chemistry is judged comprehensive at the same taught-MSc/early-PhD depth
+target, and the plan moves to materials-science per the user's explicit
+ordering. Checked `content/materials-science/` (7 existing concepts) before
+starting. Same caveat as the physics and mathematics calls: this is a
+judgment call about genuine gaps getting smaller and more specialized, not
+a claim that zero further chemistry content could ever be added.
+
 ## Judging mathematics "comprehensive" and pivoting to chemistry
 
 Same reasoning as the physics call above: after three mathematics phases

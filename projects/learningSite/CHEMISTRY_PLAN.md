@@ -90,4 +90,30 @@ Phase C2 complete: 42 chemistry concepts (5 new L4 concepts on top of the
 Phase C3 complete: 45 chemistry concepts (3-concept biochemistry module
 established from zero).
 
+## Phase C4 — final gap check before judging chemistry comprehensive
+
+Quick grep-confirmed survey turned up two more genuine, completely absent
+standard topics (checked specifically since they're foundational enough
+that their absence was surprising):
+
+- [x] Hess's law and thermochemistry (a foundational general-chemistry
+      topic — enthalpy as a state function — with zero prior coverage)
+- [x] Chromatography (analytical chemistry had mass spectrometry and
+      UV-Vis but no separation techniques at all)
+
+Phase C4 complete: 47 chemistry concepts.
+
+## Chemistry judged comprehensive — pivoting to materials-science
+
+Same reasoning and same depth target as the physics and mathematics calls
+(see `QUESTIONS.md`). After Phase C1 (bachelor-level gaps: stereochemistry,
+NMR), Phase C2 (5 new L4 concepts: quantum chemistry, DFT, statistical
+thermodynamics, ligand field theory, pericyclic reactions), Phase C3 (a
+new 3-concept biochemistry module), and Phase C4 (Hess's law,
+chromatography), chemistry covers general/inorganic/organic/physical/
+analytical/theoretical chemistry from bachelor through graduate level, plus
+a foundational biochemistry module — judged comprehensive at the
+taught-MSc/early-PhD depth target. Continuing now into materials-science;
+see a new `MATERIALS_SCIENCE_PLAN.md` for that phase's breakdown.
+
 ---
