@@ -1,0 +1,10 @@
+{
+  "id": "engineering-thermodynamics-and-power-cycles-m2",
+  "conceptId": "engineering-thermodynamics-and-power-cycles",
+  "text": {
+    "en": "Believing that raising the peak cycle temperature (how hot combustion gets) is what raises Otto-cycle efficiency -- in the idealized air-standard Otto cycle, efficiency is set entirely by the compression ratio r (and gamma) and does not appear as a function of peak temperature directly; a higher peak temperature mainly raises power output and thermal stress, not the theoretical efficiency ceiling.",
+    "et": "Arvamus, et tsükli tippemperatuuri (kui kuumaks põlemine läheb) tõstmine on see, mis suurendab Otto tsükli kasutegurit -- idealiseeritud õhk-standard Otto tsüklis on kasutegur täielikult määratud kompressiooniastme r (ja γ) järgi ning ei esine valemis otseselt tipptemperatuuri funktsioonina; kõrgem tipptemperatuur tõstab peamiselt võimsust ja termilist koormust, mitte teoreetilist kasuteguri ülemmäära.",
+    "sourceHash": "1d82a0b5e2d8d6c8",
+    "stale": false
+  }
+}

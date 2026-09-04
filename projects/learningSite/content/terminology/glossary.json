@@ -1643,5 +1643,19 @@
     "et": "varutegur",
     "domain": "mechanics-of-materials",
     "source": "https://sonaveeb.ee/search/unif/est/eki/varutegur/1/est"
+  },
+  {
+    "id": "compression-ratio",
+    "en": "compression ratio",
+    "et": "kompressioonaste",
+    "domain": "thermodynamics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kompressioonaste/1/est"
+  },
+  {
+    "id": "heat-capacity-ratio",
+    "en": "heat capacity ratio",
+    "et": "erisoojuste suhe",
+    "domain": "thermodynamics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/erisoojus/1/est"
   }
 ]

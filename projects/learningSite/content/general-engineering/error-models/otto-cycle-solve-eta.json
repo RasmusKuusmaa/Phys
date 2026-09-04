@@ -1,0 +1,37 @@
+{
+  "id": "otto-cycle-solve-eta",
+  "formulaId": "otto-cycle-efficiency-formula",
+  "solveFor": "eta",
+  "mistakes": [
+    {
+      "id": "forgot-to-subtract-from-one",
+      "description": {
+        "en": "Forgot to subtract the ratio term from 1, using the raw compression-ratio term as the efficiency itself.",
+        "et": "Unustas lahutada suhte liikme 1-st, kasutades toorest kompressiooniastme liiget kasutegurina endana.",
+        "sourceHash": "c52d922fa836e591",
+        "stale": false
+      },
+      "expression": "r^(1-gamma)"
+    },
+    {
+      "id": "flipped-exponent-sign",
+      "description": {
+        "en": "Flipped the sign of the exponent, using (gamma minus 1) instead of (1 minus gamma).",
+        "et": "Vahetas astendaja märgi, kasutades (gamma miinus 1) asemel (1 miinus gamma).",
+        "sourceHash": "8ddf01c506625bea",
+        "stale": false
+      },
+      "expression": "1-r^(gamma-1)"
+    },
+    {
+      "id": "used-gamma-alone-as-exponent",
+      "description": {
+        "en": "Used the heat capacity ratio alone as the exponent, forgetting to subtract it from 1 first.",
+        "et": "Kasutas erisoojuste suhet üksi astendajana, unustades selle enne 1-st lahutada.",
+        "sourceHash": "2a74123d6e855d85",
+        "stale": false
+      },
+      "expression": "1-r^gamma"
+    }
+  ]
+}

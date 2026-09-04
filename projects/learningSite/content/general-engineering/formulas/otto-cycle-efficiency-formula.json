@@ -1,0 +1,43 @@
+{
+  "id": "otto-cycle-efficiency-formula",
+  "conceptId": "engineering-thermodynamics-and-power-cycles",
+  "latex": "\\eta = 1 - r^{1-\\gamma}",
+  "symbols": [
+    {
+      "symbol": "eta",
+      "name": {
+        "en": "thermal efficiency",
+        "et": "kasutegur",
+        "sourceHash": "30afa276de4e0ddf",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "r",
+      "name": {
+        "en": "compression ratio",
+        "et": "kompressioonaste",
+        "sourceHash": "9d64f0c75c948fc1",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "gamma",
+      "name": {
+        "en": "heat capacity ratio",
+        "et": "erisoojuste suhe",
+        "sourceHash": "4e1a36635abba91b",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "eta"
+  ],
+  "expressions": {
+    "eta": "1-r^(1-gamma)"
+  }
+}

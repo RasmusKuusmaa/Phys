@@ -1,0 +1,10 @@
+{
+  "id": "engineering-thermodynamics-and-power-cycles-m1",
+  "conceptId": "engineering-thermodynamics-and-power-cycles",
+  "text": {
+    "en": "Believing that burning more fuel per cycle (a bigger power output) automatically increases the theoretical thermal efficiency of an Otto cycle -- efficiency depends only on the compression ratio (and gas properties) in the idealized air-standard cycle, not on how much fuel is burned or how much power is produced per cycle; a bigger, more powerful engine running the same compression ratio has exactly the same ideal thermal efficiency as a smaller one.",
+    "et": "Arvamus, et rohkema kütuse põletamine tsükli kohta (suurem võimsus) suurendab automaatselt Otto tsükli teoreetilist soojuslikku kasutegurit -- kasutegur sõltub idealiseeritud õhk-standard tsüklis ainult kompressiooniastmest (ja gaasi omadustest), mitte sellest, kui palju kütust põletatakse või kui palju võimsust tsükli kohta toodetakse; suurem, võimsam mootor, mis töötab sama kompressiooniastmega, omab täpselt sama ideaalset soojuslikku kasutegurit kui väiksem.",
+    "sourceHash": "9344a038d071c436",
+    "stale": false
+  }
+}

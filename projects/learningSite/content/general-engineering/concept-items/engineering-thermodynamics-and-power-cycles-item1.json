@@ -1,0 +1,56 @@
+{
+  "id": "engineering-thermodynamics-and-power-cycles-item1",
+  "conceptId": "engineering-thermodynamics-and-power-cycles",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In the idealized air-standard Otto cycle, what does the thermal efficiency actually depend on?",
+    "et": "Millest sõltub idealiseeritud õhk-standard Otto tsükli soojuslik kasutegur tegelikult?",
+    "sourceHash": "676dcff863ee96fd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Only the compression ratio and the working gas's specific-heat ratio (the efficiency formula uses just these two) -- not on how much fuel is burned, how much power the engine produces, or how hot combustion gets.",
+        "et": "Ainult kompressiooniastmest ja töögaasi erisoojuste suhtest (η = 1 − r^(1−γ)) -- mitte sellest, kui palju kütust põletatakse, kui palju võimsust mootor toodab, ega sellest, kui kuumaks põlemine läheb.",
+        "sourceHash": "2fea2b85a6ffa1b3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "How much fuel is burned per cycle, since a more powerful engine converts more of that energy usefully.",
+        "et": "Sellest, kui palju kütust tsükli kohta põletatakse, kuna võimsam mootor muudab suurema osa sellest energiast kasulikult ära.",
+        "sourceHash": "a133ae16fab6d3dd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-thermodynamics-and-power-cycles-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The peak combustion temperature, since a hotter-burning engine is inherently a more efficient one.",
+        "et": "Põlemise tippemperatuurist, kuna kuumemalt põlev mootor on olemuslikult efektiivsem.",
+        "sourceHash": "de2bd55bcc23f87c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-thermodynamics-and-power-cycles-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The compression ratio, which real engines can raise indefinitely without limit to approach 100% efficiency.",
+        "et": "Kompressiooniastmest, mida reaalsed mootorid saavad piiramatult tõsta, et läheneda 100% kasutegurile.",
+        "sourceHash": "79dc06c4f99b808a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "engineering-thermodynamics-and-power-cycles-m3"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "engineering-thermodynamics-and-power-cycles",
+  "subject": "general-engineering",
+  "level": "L2",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Engineering thermodynamics and power cycles",
+    "et": "Tehniline termodünaamika ja jõutsüklid",
+    "sourceHash": "a0eee28b988f0264",
+    "stale": false
+  },
+  "summary": {
+    "en": "Real engines and power plants convert heat into useful work by carrying a working fluid around a repeating thermodynamic cycle, and the idealized air-standard versions of these cycles -- Otto (the intermittent-combustion cycle behind gasoline engines: intake, adiabatic compression, constant-volume combustion, adiabatic expansion, exhaust), Diesel (compression-ignition, combustion approximated as constant-pressure instead of constant-volume), Brayton (the continuous-flow cycle behind gas turbines and jet engines: compressor, constant-pressure combustion, turbine), and Rankine (the vapor cycle behind steam power plants, where the working fluid actually changes phase between liquid and vapor) -- let an engineer compute a cycle's thermal efficiency, the fraction of the heat added that comes back out as net work, directly from a small number of design parameters (compression ratio, pressure ratio, or operating temperatures) without tracking every detail of the real combustion chemistry and heat transfer involved.",
+    "et": "Päris mootorid ja elektrijaamad muudavad soojuse kasulikuks tööks, juhtides töövedeliku läbi korduva termodünaamilise tsükli, ning nende tsüklite idealiseeritud õhk-standard versioonid -- Otto (bensiinimootorite taga olev vahelduva põlemisega tsükkel: sissevool, adiabaatiline surve, konstantse ruumalaga põlemine, adiabaatiline paisumine, väljavool), Diesel (survesüütega tsükkel, kus põlemist lähendatakse konstantse rõhu, mitte konstantse ruumala juures), Brayton (gaasiturbiinide ja reaktiivmootorite taga olev pideva vooluga tsükkel: kompressor, konstantse rõhuga põlemine, turbiin) ning Rankine (auruelektrijaamade taga olev auru tsükkel, kus töövedelik tegelikult muudab olekut vedeliku ja auru vahel) -- lasevad inseneril arvutada tsükli soojusliku kasuteguri, osa lisatud soojusest, mis tuleb tagasi puhta tööna, otse väikesest hulgast projekteerimisparameetritest (kompressioonaste, rõhusuhe või töötemperatuurid), ilma et tuleks jälgida iga tegeliku põlemiskeemia ja soojusülekande detaili.",
+    "sourceHash": "a34abdb59930e9f8",
+    "stale": false
+  },
+  "prerequisites": []
+}

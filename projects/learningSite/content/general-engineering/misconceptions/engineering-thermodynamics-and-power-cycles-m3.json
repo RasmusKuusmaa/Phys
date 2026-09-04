@@ -1,0 +1,10 @@
+{
+  "id": "engineering-thermodynamics-and-power-cycles-m3",
+  "conceptId": "engineering-thermodynamics-and-power-cycles",
+  "text": {
+    "en": "Believing the compression ratio can be pushed arbitrarily high in a real engine to keep increasing efficiency without limit -- in a real spark-ignition engine, raising the compression ratio also raises the temperature and pressure of the unburned fuel-air mixture ahead of the flame front, and past a certain ratio (dependent on fuel octane) it self-ignites early (engine knock), which is exactly why real Otto-cycle engines have a compression ratio ceiling the idealized formula does not itself impose.",
+    "et": "Arvamus, et kompressiooniastet saab reaalses mootoris suurendada piiramatult, et kasutegurit lakkamatult tõsta -- reaalses sädesüütega mootoris tõstab kompressiooniastme suurendamine ka põlemata kütuse-õhu segu temperatuuri ja rõhku leegirinde ees ning teatud (kütuse oktaanarvust sõltuvast) astmest alates süttib see enneaegselt iseeneslikult (detonatsioon ehk 'nakutamine'), mis ongi täpselt põhjus, miks reaalsetel Otto tsükli mootoritel on kompressiooniastme ülemmäär, mida idealiseeritud valem iseenesest ette ei näe.",
+    "sourceHash": "0812fb289af2a38a",
+    "stale": false
+  }
+}
