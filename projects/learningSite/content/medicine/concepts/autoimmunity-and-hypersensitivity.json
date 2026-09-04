@@ -1,0 +1,21 @@
+{
+  "id": "autoimmunity-and-hypersensitivity",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "immunology",
+  "title": {
+    "en": "Autoimmunity and hypersensitivity",
+    "et": "Autoimmuunsus ja ülitundlikkus",
+    "sourceHash": "c689041e5b28dd10",
+    "stale": false
+  },
+  "summary": {
+    "en": "The adaptive immune system's enormous receptor diversity is generated randomly, which means some of those millions of lymphocyte variants inevitably end up recognizing the body's own healthy tissue rather than a foreign threat; normally these self-reactive lymphocytes are eliminated or suppressed during development and by ongoing peripheral tolerance mechanisms, and autoimmune disease results specifically when that tolerance breaks down and self-reactive lymphocytes escape control, attacking a particular tissue (the pancreas in type 1 diabetes, the joint lining in rheumatoid arthritis) as though it were a foreign pathogen. Hypersensitivity is a related but distinct concept: it is not misdirected immunity against self, but a normal immune mechanism triggered against a genuinely foreign (and often otherwise harmless) target, causing damage through an exaggerated or inappropriately triggered response. Immunologists classify hypersensitivity into four mechanistically distinct types: Type I is IgE-mediated mast cell degranulation, the mechanism behind classic allergies and anaphylaxis, triggered within minutes; Type II involves antibodies directly attacking cell-surface antigens, as in some transfusion reactions; Type III involves antibody-antigen immune complexes depositing in tissue and triggering inflammation there; and Type IV is T-cell-mediated rather than antibody-mediated, taking one to three days to develop, the mechanism behind contact dermatitis (like poison ivy) and the tuberculin skin test. Distinguishing autoimmunity from hypersensitivity, and correctly classifying a hypersensitivity reaction by its mechanism, matters because the underlying immune pathway involved is genuinely different in each case, not just a difference in symptom severity.",
+    "et": "Omandatud immuunsüsteemi tohutu retseptorite mitmekesisus tekib juhuslikult, mis tähendab, et mõned neist miljonitest lümfotsüütide variantidest lõpetavad paratamatult organismi enda terve koe, mitte võõra ohu äratundmisega; tavaliselt kõrvaldatakse või pärsitakse selliseid iseennast tundvaid lümfotsüüte arengu käigus ja pidevate perifeersete tolerantsimehhanismide abil, ning autoimmuunhaigus tekib täpselt siis, kui see tolerants laguneb ja iseennast tundvad lümfotsüüdid pääsevad kontrolli alt välja, rünnates konkreetset kude (kõhunääre 1. tüüpi diabeedi korral, liigese sünoovium reumatoidartriidi korral), justkui oleks see võõrpatogeen. Ülitundlikkus on seotud, kuid eraldiseisev mõiste: see ei ole eksisuunatud immuunsus iseenda vastu, vaid tavaline immuunmehhanism, mis käivitub tõeliselt võõra (ja sageli muidu kahjutu) sihtmärgi vastu, tekitades kahju liialdatud või kohatult käivitatud vastuse kaudu. Immunoloogid liigitavad ülitundlikkuse nelja mehhanistlikult erinevasse tüüpi: I tüüp on IgE-vahendatud nuumrakkude degranulatsioon, klassikaliste allergiate ja anafülaksia taga olev mehhanism, mis käivitub minutite jooksul; II tüüp hõlmab antikehi, mis ründavad otse rakupinna antigeene, nagu mõnede vereülekandereaktsioonide korral; III tüüp hõlmab antikeha-antigeeni immuunkomplekse, mis ladestuvad koesse ja käivitavad seal põletiku; ning IV tüüp on T-raku-vahendatud, mitte antikeha-vahendatud, arenedes ühe kuni kolme päeva jooksul, olles kontaktdermatiidi (nagu mürkluuderohi) ja tuberkuliini nahatesti taga olev mehhanism. Autoimmuunsuse eristamine ülitundlikkusest ja ülitundlikkusreaktsiooni õige liigitamine selle mehhanismi järgi on oluline, sest kummalgi juhul on aluseks olev immuunrada tõeliselt erinev, mitte lihtsalt sümptomite raskusastme erinevus.",
+    "sourceHash": "9307d0e6ec149655",
+    "stale": false
+  },
+  "prerequisites": [
+    "adaptive-immunity-and-lymphocytes"
+  ]
+}

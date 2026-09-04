@@ -1,0 +1,10 @@
+{
+  "id": "autoimmunity-and-hypersensitivity-m1",
+  "conceptId": "autoimmunity-and-hypersensitivity",
+  "text": {
+    "en": "Autoimmune disease and allergies (hypersensitivity) are basically the same category of immune malfunction, just with different names -- in reality, autoimmunity is the immune system misidentifying the body's own tissue as foreign, while an allergy (Type I hypersensitivity) is the immune system correctly recognizing something as foreign but mounting an exaggerated, harmful response to it (typically something innocuous like pollen); the targets and mechanisms are categorically different.",
+    "et": "Autoimmuunhaigus ja allergiad (ülitundlikkus) on sisuliselt sama kategooria immuunhäire, lihtsalt erinevate nimedega -- tegelikult on autoimmuunsus immuunsüsteemi poolt organismi enda koe võõraks pidamine, samas kui allergia (I tüübi ülitundlikkus) on immuunsüsteemi poolt millegi õigesti võõraks tunnistamine, kuid sellele liialdatud, kahjuliku vastuse käivitamine (tavaliselt millelegi kahjutule nagu õietolm); sihtmärgid ja mehhanismid on kategooriliselt erinevad.",
+    "sourceHash": "84c07f60bb14aa37",
+    "stale": false
+  }
+}

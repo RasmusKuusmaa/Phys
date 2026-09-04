@@ -1,0 +1,10 @@
+{
+  "id": "autoimmunity-and-hypersensitivity-m3",
+  "conceptId": "autoimmunity-and-hypersensitivity",
+  "text": {
+    "en": "If the immune system attacks the body's own tissue, that must mean something is broadly wrong with the whole immune system -- in reality, autoimmune disease is typically tissue-specific, resulting from a breakdown in tolerance toward one particular self-antigen or tissue type, not a general malfunction of the entire immune system; a person with an autoimmune disease targeting the thyroid, for instance, generally still mounts normal, appropriate immune responses against actual infections.",
+    "et": "Kui immuunsüsteem ründab organismi enda kude, peab see tähendama, et midagi on laialdaselt valesti kogu immuunsüsteemiga -- tegelikult on autoimmuunhaigus tavaliselt koespetsiifiline, tulenedes tolerantsi lagunemisest ühe konkreetse enda antigeeni või koetüübi suhtes, mitte kogu immuunsüsteemi üldisest häirest; näiteks kilpnääret ründava autoimmuunhaigusega inimene käivitab üldiselt endiselt normaalseid, sobivaid immuunvastuseid tegelike infektsioonide vastu.",
+    "sourceHash": "d0cc394a2eb7d7bb",
+    "stale": false
+  }
+}

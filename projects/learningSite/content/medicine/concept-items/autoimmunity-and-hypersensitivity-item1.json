@@ -1,0 +1,56 @@
+{
+  "id": "autoimmunity-and-hypersensitivity-item1",
+  "conceptId": "autoimmunity-and-hypersensitivity",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A person develops a rash within minutes of touching a food they're allergic to, while a different person develops a rash only one to two days after skin contact with poison ivy. Why do these two reactions happen on such different timescales?",
+    "et": "Üks inimene tekitab lööbe mõne minuti jooksul pärast toiduga kokkupuudet, mille suhtes tal on allergia, samas kui teisel inimesel tekib lööve alles üks kuni kaks päeva pärast nahakontakti mürkluuderohuga. Miks toimuvad need kaks reaktsiooni nii erinevatel ajaskaaladel?",
+    "sourceHash": "cff6accddcd82c26",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because they involve mechanistically distinct hypersensitivity types -- the food allergy is IgE-mediated mast cell degranulation (Type I, minutes), while the poison ivy reaction is T-cell-mediated (Type IV, one to three days) -- not the same mechanism at different intensities.",
+        "et": "Sest need hõlmavad mehhanistlikult erinevaid ülitundlikkuse tüüpe -- toiduallergia on IgE-vahendatud nuumrakkude degranulatsioon (I tüüp, minutid), samas kui mürkluuderohu reaktsioon on T-raku-vahendatud (IV tüüp, üks kuni kolm päeva) -- mitte sama mehhanism erineva intensiivsusega.",
+        "sourceHash": "37ef9fa35df983df",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because both are the same underlying allergic mechanism, and the timing difference is only due to how much allergen contacted the skin in each case.",
+        "et": "Sest mõlemad on sama aluseks olev allergiline mehhanism ning ajastuse erinevus tuleneb ainult sellest, kui palju allergeeni kummalgi juhul nahaga kokku puutus.",
+        "sourceHash": "7f051e7351ecb5e3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "autoimmunity-and-hypersensitivity-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the food allergy is an autoimmune reaction against the person's own tissue, while the poison ivy reaction is a normal hypersensitivity response, which are inherently different speeds.",
+        "et": "Sest toiduallergia on autoimmuunreaktsioon inimese enda koe vastu, samas kui mürkluuderohu reaktsioon on tavaline ülitundlikkusvastus, mis on loomupäraselt erineva kiirusega.",
+        "sourceHash": "4ddb67a65a5d6d45",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "autoimmunity-and-hypersensitivity-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the person with the poison ivy reaction has a generally slower, broadly weaker immune system than the person with the fast food-allergy reaction.",
+        "et": "Sest mürkluuderohu reaktsiooniga inimesel on üldiselt aeglasem, laialdaselt nõrgem immuunsüsteem kui kiire toiduallergia reaktsiooniga inimesel.",
+        "sourceHash": "016a90f10d78dbf0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "autoimmunity-and-hypersensitivity-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "autoimmunity-and-hypersensitivity-m2",
+  "conceptId": "autoimmunity-and-hypersensitivity",
+  "text": {
+    "en": "All allergic-type immune overreactions work through the same immune mechanism -- in reality, hypersensitivity reactions fall into four immunologically distinct types (IgE/mast-cell mediated, antibody-vs-cell-surface-antigen, immune-complex-mediated, T-cell-mediated) with genuinely different timeframes (minutes for Type I vs. one to three days for Type IV) and different underlying pathways, not one mechanism with varying severity.",
+    "et": "Kõik allergilist tüüpi immuunüle reaktsioonid toimivad sama immuunmehhanismi kaudu -- tegelikult jagunevad ülitundlikkusreaktsioonid neljaks immunoloogiliselt eristuvaks tüübiks (IgE/nuumrakk-vahendatud, antikeha-versus-rakupinna-antigeen, immuunkompleks-vahendatud, T-raku-vahendatud), millel on tõeliselt erinevad ajaraamid (minutid I tüübi puhul vs. üks kuni kolm päeva IV tüübi puhul) ja erinevad aluseks olevad rajad, mitte üks mehhanism erineva raskusastmega.",
+    "sourceHash": "301d6294d6c0c530",
+    "stale": false
+  }
+}
