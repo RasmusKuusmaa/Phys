@@ -1664,5 +1664,75 @@
     "et": "hüdrauliline kadu",
     "domain": "fluid-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/h%C3%BCdrauliline%20kadu/1/est"
+  },
+  {
+    "id": "proportional-gain",
+    "en": "proportional gain",
+    "et": "proportsionaalne võimendus",
+    "domain": "control-systems",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/v%C3%B5imendus/1/est"
+  },
+  {
+    "id": "controller-output",
+    "en": "controller output",
+    "et": "regulaatori väljund",
+    "domain": "control-systems",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/v%C3%A4ljund/1/est"
+  },
+  {
+    "id": "net-present-value",
+    "en": "net present value",
+    "et": "puhas nüüdisväärtus",
+    "domain": "engineering-economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/n%C3%BC%C3%BCdisv%C3%A4%C3%A4rtus/1/est"
+  },
+  {
+    "id": "cash-flow",
+    "en": "cash flow",
+    "et": "rahavoog",
+    "domain": "engineering-economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/rahavoog/1/est"
+  },
+  {
+    "id": "initial-investment",
+    "en": "initial investment",
+    "et": "alginvesteering",
+    "domain": "engineering-economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/investeering/1/est"
+  },
+  {
+    "id": "discount-rate",
+    "en": "discount rate",
+    "et": "diskontomäär",
+    "domain": "engineering-economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/diskontom%C3%A4%C3%A4r/1/est"
+  },
+  {
+    "id": "number-of-periods",
+    "en": "number of periods",
+    "et": "perioodide arv",
+    "domain": "engineering-economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/periood/1/est"
+  },
+  {
+    "id": "temperature-difference",
+    "en": "temperature difference",
+    "et": "temperatuurierinevus",
+    "domain": "heat-transfer",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/temperatuur/1/est"
+  },
+  {
+    "id": "log-mean-temperature-difference",
+    "en": "log-mean temperature difference",
+    "et": "logaritmiline keskmine temperatuurierinevus",
+    "domain": "heat-transfer",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/temperatuur/1/est"
+  },
+  {
+    "id": "specific-fuel-consumption",
+    "en": "specific fuel consumption",
+    "et": "erikütusekulu",
+    "domain": "propulsion",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/k%C3%BCtusekulu/1/est"
   }
 ]

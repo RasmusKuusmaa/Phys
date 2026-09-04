@@ -1,0 +1,33 @@
+{
+  "id": "proportional-control-solve-u",
+  "formulaId": "proportional-control-law-formula",
+  "variables": [
+    {
+      "symbol": "Kp",
+      "min": 0.5,
+      "max": 8,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "e",
+      "min": 1,
+      "max": 25,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "Kp",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "e",
+      "right": 0
+    }
+  ],
+  "solveFor": "u"
+}

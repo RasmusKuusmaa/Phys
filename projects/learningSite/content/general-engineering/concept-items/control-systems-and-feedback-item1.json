@@ -1,0 +1,56 @@
+{
+  "id": "control-systems-and-feedback-item1",
+  "conceptId": "control-systems-and-feedback",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A proportional-only controller holding a room's temperature against constant heat loss through the walls settles into a steady-state error a few degrees below the setpoint, no matter how long it runs. What should be added to the control law to remove that persistent offset?",
+    "et": "Ainult proportsionaalne regulaator, mis hoiab ruumi temperatuuri püsiva soojuskao vastu läbi seinte, jõuab statsionaarsesse olekusse, kus viga jääb mõne kraadi võrra alla seadeväärtuse, ükskõik kui kaua see töötab. Mida tuleks juhtimisseadusele lisada, et see püsiv nihe kõrvaldada?",
+    "sourceHash": "c7f4cf1954213b56",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An integral term, which accumulates the persistent error over time and keeps increasing the corrective action until the offset is driven to zero.",
+        "et": "Integraalliige, mis akumuleerib püsivat viga aja jooksul ja suurendab korrigeerivat toimet seni, kuni nihe on nulli viidud.",
+        "sourceHash": "0bb366d078bb4365",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "A larger proportional gain, since a strong enough proportional term can always drive any steady-state error to exactly zero on its own.",
+        "et": "Suurem proportsionaalne võimendus, kuna piisavalt tugev proportsionaalne liige suudab alati iseseisvalt viia mistahes statsionaarse vea täpselt nullini.",
+        "sourceHash": "cd48c4aee9f0d120",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-systems-and-feedback-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Switching the whole system to open-loop control, since open-loop systems are the more advanced, feedback-free way to guarantee zero error.",
+        "et": "Kogu süsteemi ümberlülitamine avatud ahelaga juhtimisele, kuna avatud ahelaga süsteemid on arenenum, tagasisideta viis nullvea tagamiseks.",
+        "sourceHash": "28a57c68b312b646",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-systems-and-feedback-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Nothing -- more feedback gain of any kind always improves tracking, so the system will eventually settle at the setpoint if left running long enough.",
+        "et": "Mitte midagi -- iga liiki tagasisidevõimenduse suurendamine parandab jälgimist alati, seega jõuab süsteem piisavalt kaua töötades lõpuks seadeväärtuseni.",
+        "sourceHash": "4c47885319488bb4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "control-systems-and-feedback-m1"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "control-systems-and-feedback-m2",
+  "conceptId": "control-systems-and-feedback",
+  "text": {
+    "en": "Believing a proportional controller alone can always drive the error to exactly zero and hold it there -- a proportional term's corrective action is directly proportional to the error itself, so as the error shrinks toward zero the corrective action shrinks with it, which for many real systems (one fighting a constant disturbance like gravity or friction) leaves a small but permanent steady-state offset; eliminating that offset is specifically what the integral term is for, not something a bigger proportional gain alone can fix.",
+    "et": "Arvamus, et ainult proportsionaalne regulaator suudab vea alati täpselt nullini viia ja seal hoida -- proportsionaalse liikme korrigeeriv toime on otseselt võrdeline veaga endaga, seega vea kahanedes nulli poole kahaneb ka korrigeeriv toime, mis paljude päris süsteemide puhul (mis võitlevad püsiva häirega nagu raskusjõud või hõõrdumine) jätab järele väikese, kuid püsiva statsionaarse nihke; selle nihke kõrvaldamine ongi spetsiifiliselt integraalliikme ülesanne, mitte miski, mida ainuüksi suurem proportsionaalne võimendus lahendaks.",
+    "sourceHash": "05f621e3f2b3838c",
+    "stale": false
+  }
+}

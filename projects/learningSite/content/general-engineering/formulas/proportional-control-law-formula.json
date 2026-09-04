@@ -1,0 +1,47 @@
+{
+  "id": "proportional-control-law-formula",
+  "conceptId": "control-systems-and-feedback",
+  "latex": "u = K_p e",
+  "symbols": [
+    {
+      "symbol": "u",
+      "name": {
+        "en": "controller output",
+        "et": "regulaatori väljund",
+        "sourceHash": "f51799475206904d",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "Kp",
+      "name": {
+        "en": "proportional gain",
+        "et": "proportsionaalne võimendus",
+        "sourceHash": "7876a8f41fe48148",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "e",
+      "name": {
+        "en": "error",
+        "et": "viga",
+        "sourceHash": "ca00fccfb408989e",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "u",
+    "Kp",
+    "e"
+  ],
+  "expressions": {
+    "u": "Kp*e",
+    "Kp": "u/e",
+    "e": "u/Kp"
+  }
+}

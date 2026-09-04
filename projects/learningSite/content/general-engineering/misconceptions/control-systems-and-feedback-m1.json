@@ -1,0 +1,10 @@
+{
+  "id": "control-systems-and-feedback-m1",
+  "conceptId": "control-systems-and-feedback",
+  "text": {
+    "en": "Believing that adding more feedback, or simply cranking up the controller's gain, always makes a control system track its target faster and better -- in reality, pushing gain higher than the physical system's own delay and inertia can tolerate turns a well-behaved feedback loop into one that overshoots, oscillates, or even diverges; feedback only improves performance within a stability margin set by the plant being controlled, not without limit.",
+    "et": "Arvamus, et rohkema tagasiside lisamine või lihtsalt regulaatori võimenduse suurendamine muudab juhtimissüsteemi alati kiiremaks ja täpsemaks sihtväärtuse saavutamisel -- tegelikult muudab võimenduse tõstmine üle füüsikalise süsteemi enda viivituse ja inertsi taluvuse hästi käänduva tagasisideahela ületalitlevaks, võnkuvaks või lausa hajuvaks; tagasiside parandab jõudlust ainult juhitava süsteemi enda seatud stabiilsusvaru piires, mitte piiramatult.",
+    "sourceHash": "6cfc4ac4241bcdca",
+    "stale": false
+  }
+}

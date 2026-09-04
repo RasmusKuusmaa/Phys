@@ -1,0 +1,19 @@
+{
+  "id": "control-systems-and-feedback",
+  "subject": "general-engineering",
+  "level": "L2",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Control systems and feedback",
+    "et": "Juhtimissüsteemid ja tagasiside",
+    "sourceHash": "f05d2d1cbb36a4b0",
+    "stale": false
+  },
+  "summary": {
+    "en": "An open-loop system acts on a command without ever checking whether the result matched what was asked for -- a microwave that runs for a fixed time regardless of what's inside -- while a closed-loop (feedback) system continuously measures its own output, compares it against the desired setpoint, and feeds the difference (the error) back in to correct itself, which is what lets a cruise-control system hold speed on a hill or a thermostat hold temperature despite an open door. The proportional-integral-derivative (PID) control law is the standard way to turn that error into a corrective action: a proportional term reacts to how large the error is right now, an integral term accumulates past error to stamp out any persistent offset a proportional term alone would leave behind, and a derivative term reacts to how fast the error is changing to damp out overshoot before it happens. Feedback is not automatically an improvement, though -- gains set too aggressively for the system's own delay and inertia turn a stabilizing loop into an oscillating or even diverging one, so a working control system is as much about choosing gains the specific physical system can tolerate as it is about the control law's mathematical form.",
+    "et": "Avatud ahelaga süsteem täidab käsku ilma kunagi kontrollimata, kas tulemus vastas soovitule -- mikrolaineahi, mis töötab kindla aja, sõltumata sellest, mis sees on -- samas kui suletud ahelaga (tagasisidega) süsteem mõõdab pidevalt oma väljundit, võrdleb seda soovitud seadeväärtusega ning suunab erinevuse (vea) tagasi enda korrigeerimiseks, mis võimaldabki näiteks püsikiiruse hoidjal säilitada kiirust mäkke sõites või termostaadil hoida temperatuuri, kuigi uks on lahti. Proportsionaal-integraal-diferentsiaal (PID) juhtimisseadus on standardne viis muuta see viga korrigeerivaks tegevuseks: proportsionaalne liige reageerib sellele, kui suur viga hetkel on, integraalliige akumuleerib varasemat viga, et likvideerida püsiv nihe, mille ainult proportsionaalne liige maha jätaks, ning diferentsiaalliige reageerib sellele, kui kiiresti viga muutub, et summutada ületalitlus enne selle tekkimist. Tagasiside ei ole aga automaatselt parandus -- süsteemi enda viivituse ja inertsiga võrreldes liiga agressiivselt seatud võimendused muudavad stabiliseeriva ahela võnkuvaks või lausa hajuvaks, seega toimiv juhtimissüsteem sõltub sama palju konkreetsele füüsikalisele süsteemile sobivate võimenduste valikust kui juhtimisseaduse enda matemaatilisest kujust.",
+    "sourceHash": "6de435823d407ae3",
+    "stale": false
+  },
+  "prerequisites": []
+}

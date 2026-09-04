@@ -1,0 +1,10 @@
+{
+  "id": "control-systems-and-feedback-m3",
+  "conceptId": "control-systems-and-feedback",
+  "text": {
+    "en": "Believing an open-loop system is simply a lower-quality or unfinished version of a closed-loop one, and every real controller should therefore include feedback -- open-loop control is the correct, deliberate choice whenever the plant's behavior is well known and disturbances are negligible (a microwave running for a fixed time, a stepper motor commanded a fixed number of steps), since it is simpler, cheaper, and cannot become unstable from its own gain the way a feedback loop can; the two are different tools for different situations, not a hierarchy of quality.",
+    "et": "Arvamus, et avatud ahelaga süsteem on lihtsalt madalama kvaliteediga või lõpetamata versioon suletud ahelaga süsteemist ning iga päris regulaator peaks seetõttu sisaldama tagasisidet -- avatud ahelaga juhtimine on õige ja teadlik valik alati, kui juhitava süsteemi käitumine on hästi teada ja häired on tühised (mikrolaineahi, mis töötab kindla aja, sammumootor, millele on antud kindel arv samme), kuna see on lihtsam, odavam ega saa oma võimendusest tingituna ebastabiilseks nii nagu tagasisideahel; need kaks on erinevad tööriistad erinevate olukordade jaoks, mitte kvaliteedi hierarhia.",
+    "sourceHash": "442f71ca9271411a",
+    "stale": false
+  }
+}

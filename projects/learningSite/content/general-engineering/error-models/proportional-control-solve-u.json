@@ -1,0 +1,37 @@
+{
+  "id": "proportional-control-solve-u",
+  "formulaId": "proportional-control-law-formula",
+  "solveFor": "u",
+  "mistakes": [
+    {
+      "id": "divided-instead-of-multiplied",
+      "description": {
+        "en": "Divided the error by the proportional gain instead of multiplying them together.",
+        "et": "Jagas vea proportsionaalse võimendusega, selle asemel et need omavahel korrutada.",
+        "sourceHash": "3aed4f0a8a56266d",
+        "stale": false
+      },
+      "expression": "e/Kp"
+    },
+    {
+      "id": "used-error-alone",
+      "description": {
+        "en": "Used the error alone as the controller output, ignoring the proportional gain entirely.",
+        "et": "Kasutas viga üksi regulaatori väljundina, jättes proportsionaalse võimenduse täielikult arvestamata.",
+        "sourceHash": "df337efbbd9bbd2c",
+        "stale": false
+      },
+      "expression": "e"
+    },
+    {
+      "id": "added-instead-of-multiplied",
+      "description": {
+        "en": "Added the gain and the error together instead of multiplying them.",
+        "et": "Liitis võimenduse ja vea kokku, selle asemel et need korrutada.",
+        "sourceHash": "0e38e8d0ea4f3089",
+        "stale": false
+      },
+      "expression": "Kp+e"
+    }
+  ]
+}
