@@ -1,0 +1,56 @@
+{
+  "id": "muscular-system-anatomy-and-physiology-item1",
+  "conceptId": "muscular-system-anatomy-and-physiology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does bending your elbow (using the biceps) require a separate muscle (the triceps) to straighten it back out, instead of the biceps simply reversing its own action?",
+    "et": "Miks vajab küünarliigese painutamine (biitsepsi abil) selle sirgu tõmbamiseks eraldi lihast (triitsepsit), selle asemel et biitseps lihtsalt pööraks oma tegevuse ümber?",
+    "sourceHash": "52fc24aedde4dfc7",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because a muscle can only actively contract and pull, never push, so moving a joint in two directions requires two opposing muscles that each pull it one way.",
+        "et": "Sest lihas suudab ainult aktiivselt kokku tõmbuda ja tõmmata, mitte kunagi lükata, mistõttu vajab liigese liigutamine kahes suunas kahte vastandlikku lihast, mis kumbki tõmbavad seda ühte suunda.",
+        "sourceHash": "720bb771b742a5e2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the biceps and triceps are actually the same muscle viewed from two different angles, and calling them separate muscles is just a naming convention.",
+        "et": "Sest biitseps ja triitseps on tegelikult üks ja sama lihas kahest erinevast nurgast vaadatuna, ning nende eraldi lihasteks nimetamine on lihtsalt nimetamiskonventsioon.",
+        "sourceHash": "bde5c6faf9d695a6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "muscular-system-anatomy-and-physiology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't -- the biceps can push the joint back out under voluntary control the same way it pulls it in, using a different type of contraction.",
+        "et": "See ei ole nii -- biitseps suudab liigest tahtele alludes tagasi lükata samamoodi, nagu ta seda sisse tõmbab, kasutades erinevat tüüpi kokkutõmmet.",
+        "sourceHash": "c2186286a2dcdee6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "muscular-system-anatomy-and-physiology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the actin and myosin filaments inside the biceps physically shrink when contracting and need the triceps to stretch them back to their original length.",
+        "et": "Sest biitsepsi sees olevad aktiini- ja müosiinifilamendid kahanevad kokkutõmbumisel füüsiliselt ning vajavad triitsepsit, et neid tagasi algsesse pikkusesse venitada.",
+        "sourceHash": "08d01ae33c2aa5b3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "muscular-system-anatomy-and-physiology-m3"
+    }
+  ]
+}

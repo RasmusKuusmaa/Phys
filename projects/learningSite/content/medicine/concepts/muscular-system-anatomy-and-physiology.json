@@ -1,0 +1,21 @@
+{
+  "id": "muscular-system-anatomy-and-physiology",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "human-anatomy-and-physiology",
+  "title": {
+    "en": "Muscular system anatomy and physiology",
+    "et": "Lihassüsteemi anatoomia ja füsioloogia",
+    "sourceHash": "fe22d41708bd861d",
+    "stale": false
+  },
+  "summary": {
+    "en": "The body has three distinct types of muscle tissue built for three different jobs: skeletal muscle, attached to bone by tendons, is voluntarily controlled and produces the body's deliberate movements; cardiac muscle, found only in the heart, contracts involuntarily and rhythmically for an entire lifetime without fatiguing; and smooth muscle, lining hollow organs and blood vessels, contracts involuntarily and more slowly to move material through the gut or adjust a vessel's diameter. Skeletal muscle can only ever actively pull, never push, which is why the body arranges its muscles in opposing pairs across a joint (the biceps flexing the elbow, the triceps extending it) rather than relying on a single muscle to move a joint in both directions. The contraction itself, at the microscopic level, happens by the sliding filament mechanism: within each muscle fiber, thin actin filaments are pulled past thick myosin filaments by repeated myosin cross-bridge cycling, powered by ATP, shortening the overall muscle without either filament itself changing length -- a mechanical solution that scales seamlessly from a single fiber's contraction up to a whole muscle's macroscopic shortening.",
+    "et": "Kehal on kolm erinevat lihaskoe tüüpi, mis on ehitatud kolme erineva ülesande jaoks: skeletilihas, mis on kõõluste kaudu kinnitunud luude külge, on tahtele alluv ja tekitab keha tahtlikke liigutusi; südamelihas, mida leidub ainult südames, tõmbub kokku tahtele allumatult ja rütmiliselt kogu elu jooksul ilma väsimata; ning silelihas, mis vooderdab õõnesorganeid ja veresooni, tõmbub kokku tahtele allumatult ja aeglasemalt, liigutades ainet seedetraktis läbi või kohandades veresoone läbimõõtu. Skeletilihas suudab ainult aktiivselt tõmmata, mitte kunagi lükata, mistõttu paigutab keha oma lihased liigese ümber vastandpaaridena (biitseps painutab küünarliigest, triitseps sirutab seda), selle asemel et tugineda ühele lihasele, mis liigutaks liigest mõlemas suunas. Kokkutõmme ise toimub mikroskoopilisel tasandil libisevate filamentide mehhanismi kaudu: iga lihaskiu sees tõmmatakse õhukesi aktiinifilamente paksude müosiinifilamentide mööda korduva müosiini ristsildade tsükli abil, mida käivitab ATP, lühendades kogu lihast ilma, et kumbki filament ise pikkust muudaks -- mehaaniline lahendus, mis skaleerub sujuvalt üksiku kiu kokkutõmbest kuni kogu lihase makroskoopilise lühenemiseni.",
+    "sourceHash": "ee481f0dcddf5cfd",
+    "stale": false
+  },
+  "prerequisites": [
+    "skeletal-system-anatomy-and-physiology"
+  ]
+}
