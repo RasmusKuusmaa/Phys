@@ -1,0 +1,10 @@
+{
+  "id": "respiratory-system-anatomy-and-physiology-m1",
+  "conceptId": "respiratory-system-anatomy-and-physiology",
+  "text": {
+    "en": "I think the lungs' main job is bringing in oxygen, and getting rid of carbon dioxide is a minor side effect -- in reality, gas exchange moves oxygen in and carbon dioxide out simultaneously and symmetrically across the same alveolar-capillary membrane by simple diffusion -- neither direction is a side effect of the other, and rising CO2, not falling oxygen, is actually the primary trigger that drives you to breathe.",
+    "et": "Arvan, et kopsude peamine ülesanne on hapniku sissetoomine, ning süsihappegaasist vabanemine on väike kõrvalmõju -- tegelikult liigub hapnik sisse ja süsihappegaas välja samaaegselt ja sümmeetriliselt üle sama alveolaar-kapillaarmembraani lihtsa difusiooni teel -- kumbki suund ei ole teise kõrvalmõju, ning just tõusev CO2 tase, mitte langev hapnikutase, on tegelikult peamine tõuge, mis paneb hingama.",
+    "sourceHash": "db5176a64d044f65",
+    "stale": false
+  }
+}

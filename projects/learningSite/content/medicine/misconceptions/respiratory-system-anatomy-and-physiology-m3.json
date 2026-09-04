@@ -1,0 +1,10 @@
+{
+  "id": "respiratory-system-anatomy-and-physiology-m3",
+  "conceptId": "respiratory-system-anatomy-and-physiology",
+  "text": {
+    "en": "I think the urge to breathe is triggered mainly by low blood oxygen, the way running low on fuel triggers a warning light -- in reality, the primary drive to breathe comes from rising carbon dioxide levels in the blood, sensed by chemoreceptors, not from falling oxygen levels; this is why holding your breath becomes uncomfortable from CO2 buildup well before oxygen levels actually drop critically low, and it's also why hyperventilating before breath-holding can dangerously delay the urge to breathe.",
+    "et": "Arvan, et hingamistungi käivitab peamiselt madal vere hapnikusisaldus, samamoodi nagu kütuse otsalõppemine käivitab hoiatustule -- tegelikult tuleb peamine tõuge hingamiseks tõusvast süsihappegaasi tasemest veres, mida tajuvad kemoretseptorid, mitte langevast hapnikutasemest; seepärast muutub hinge kinnihoidmine ebamugavaks CO2 kuhjumise tõttu ammu enne, kui hapnikutase tegelikult kriitiliselt madalale langeb, ning seetõttu võib hüperventileerimine enne hinge kinnihoidmist hingamistungi ohtlikult edasi lükata.",
+    "sourceHash": "bf8c30d3f6bf8109",
+    "stale": false
+  }
+}

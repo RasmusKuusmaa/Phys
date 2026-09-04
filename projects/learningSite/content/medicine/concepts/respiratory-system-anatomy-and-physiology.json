@@ -1,0 +1,19 @@
+{
+  "id": "respiratory-system-anatomy-and-physiology",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "human-anatomy-and-physiology",
+  "title": {
+    "en": "Respiratory system anatomy and physiology",
+    "et": "Hingamissüsteemi anatoomia ja füsioloogia",
+    "sourceHash": "119e9b75ebe27ad3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Air drawn in through the airway -- nose or mouth, then pharynx, larynx, trachea, and a branching tree of progressively smaller bronchi and bronchioles -- ultimately reaches roughly 300 million tiny alveoli, thin-walled air sacs wrapped in capillaries where gas actually crosses between air and blood; this branching structure exists purely to maximize the total surface area available for that exchange within the limited volume of the chest. Gas exchange itself happens by simple diffusion down concentration gradients across the alveolar-capillary membrane: oxygen moves from the higher concentration in fresh alveolar air into the lower concentration in incoming blood, while carbon dioxide simultaneously moves the opposite way, from the higher concentration in blood into the lower concentration in alveolar air, with no active pumping required for the gases themselves. Effective gas exchange, though, requires airflow (ventilation) and blood flow (perfusion) to be matched at the local, alveolus-by-alveolus level -- an alveolus receiving plenty of air but little blood flow, or plenty of blood flow but little air, wastes its exchange capacity either way -- and it is rising carbon dioxide levels in the blood, sensed by chemoreceptors, that provides the primary drive to breathe, not a falling oxygen level, which is why breath-holding becomes uncomfortable from CO2 buildup long before oxygen actually runs critically low.",
+    "et": "Sisse hingatud õhk -- nina või suu kaudu, seejärel neelu, kõri, hingetoru ja järjest väiksemate bronhide ning bronhioolide hargnevat puud pidi -- jõuab lõpuks umbes 300 miljoni väikese alveoolini, õhukeseseinaliste õhukotikesteni, mis on ümbritsetud kapillaaridega ja kus toimub tegelik gaasivahetus õhu ja vere vahel; see hargnev struktuur on olemas puhtalt selleks, et maksimeerida gaasivahetuseks vajalikku kogupindala rindkere piiratud mahus. Gaasivahetus ise toimub lihtsa difusiooni teel mööda kontsentratsioonigradienti üle alveolaar-kapillaarmembraani: hapnik liigub kõrgema kontsentratsiooniga värskest alveoolõhust madalama kontsentratsiooniga sissetulevasse verre, samal ajal kui süsihappegaas liigub vastupidises suunas, kõrgema kontsentratsiooniga verest madalama kontsentratsiooniga alveoolõhku, ilma et gaaside enda jaoks oleks vaja aktiivset pumpamist. Tõhus gaasivahetus nõuab siiski, et õhuvool (ventilatsioon) ja verevool (perfusioon) oleksid kohalikul, alveool-alveoolilt tasandil omavahel vastavuses -- alveool, mis saab palju õhku, kuid vähe verevoolu, või palju verevoolu, kuid vähe õhku, raiskab oma vahetusvõimekuse kummalgi juhul --, ning just tõusev süsihappegaasi tase veres, mida tajuvad kemoretseptorid, annab peamise tõuke hingamiseks, mitte langev hapnikutase, mistõttu muutub hinge kinnihoidmine ebamugavaks CO2 kuhjumise tõttu ammu enne, kui hapnikutase tegelikult kriitiliselt madalale langeb.",
+    "sourceHash": "fdba5aff174e24df",
+    "stale": false
+  },
+  "prerequisites": []
+}

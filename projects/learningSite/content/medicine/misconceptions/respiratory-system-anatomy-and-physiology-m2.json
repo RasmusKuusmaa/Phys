@@ -1,0 +1,10 @@
+{
+  "id": "respiratory-system-anatomy-and-physiology-m2",
+  "conceptId": "respiratory-system-anatomy-and-physiology",
+  "text": {
+    "en": "I think air moves into the alveoli and gases just get 'absorbed' the way a sponge absorbs water -- in reality, oxygen and carbon dioxide each move purely by diffusion down their own concentration gradient across the thin alveolar-capillary membrane -- no active transport or pumping is involved for the gases themselves, only the mechanical process of ventilation that keeps fresh air arriving and blood flowing past to maintain those gradients.",
+    "et": "Arvan, et õhk liigub alveoolidesse ja gaasid lihtsalt 'imenduvad', nagu käsn imab endasse vett -- tegelikult liiguvad hapnik ja süsihappegaas kumbki puhtalt difusiooni teel mööda oma kontsentratsioonigradienti üle õhukese alveolaar-kapillaarmembraani -- gaaside endi jaoks ei ole vaja aktiivset transporti ega pumpamist, ainult mehaanilist ventilatsiooniprotsessi, mis toob pidevalt värsket õhku ja hoiab verevoolu, et neid gradiente säilitada.",
+    "sourceHash": "8d375a88a624a236",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "respiratory-system-anatomy-and-physiology-item1",
+  "conceptId": "respiratory-system-anatomy-and-physiology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does holding your breath become uncomfortable within roughly a minute, long before your blood oxygen level has actually dropped to a dangerous level?",
+    "et": "Miks muutub hinge kinnihoidmine ebamugavaks umbes minuti jooksul, ammu enne, kui vere hapnikutase on tegelikult ohtlikult madalale langenud?",
+    "sourceHash": "5ad04ce0ad6e6eea",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the primary drive to breathe comes from rising carbon dioxide levels in the blood, sensed by chemoreceptors, and CO2 builds up well before oxygen runs critically low.",
+        "et": "Sest peamine tõuge hingamiseks tuleb tõusvast süsihappegaasi tasemest veres, mida tajuvad kemoretseptorid, ning CO2 kuhjub ammu enne, kui hapnik kriitiliselt otsa saab.",
+        "sourceHash": "6d1927eb0552b60f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the lungs' main function is oxygen intake, and the discomfort directly reflects the body detecting a critically low oxygen level almost immediately.",
+        "et": "Sest kopsude peamine funktsioon on hapniku sissevõtt, ning ebamugavustunne peegeldab otseselt seda, et keha tuvastab peaaegu koheselt kriitiliselt madala hapnikutaseme.",
+        "sourceHash": "5a570a8bbf4cc405",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "respiratory-system-anatomy-and-physiology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the alveoli can only 'absorb' a limited amount of air before they become physically saturated, similar to a sponge reaching its capacity.",
+        "et": "Sest alveoolid suudavad 'imada' ainult piiratud koguse õhku, enne kui need muutuvad füüsiliselt küllastunuks, sarnaselt käsnaga, mis jõuab oma mahtuvuseni.",
+        "sourceHash": "7e698f71144b05b3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "respiratory-system-anatomy-and-physiology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because blood oxygen actually does drop to a dangerously low level within about a minute of breath-holding, which is exactly what triggers the discomfort.",
+        "et": "Sest vere hapnikutase langeb tegelikult ohtlikult madalale umbes minuti jooksul hinge kinnihoidmisest, ning just see käivitabki ebamugavustunde.",
+        "sourceHash": "b60c4b4e394e5f7f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "respiratory-system-anatomy-and-physiology-m3"
+    }
+  ]
+}
