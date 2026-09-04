@@ -1,5 +1,66 @@
 # Questions for later
 
+## Starting aerospace-engineering and general-engineering as new subjects
+
+Per your explicit instruction to continue past the four subjects already
+judged comprehensive with aerospace engineering and general engineering
+next. Both were greenfield (`content/aerospace-engineering/` and
+`content/general-engineering/` didn't exist before this phase), unlike
+materials-science's thin-but-nonzero 7-concept start. Subjects are
+auto-discovered from `content/` directory names (`listSubjects()` in
+`src/content/loader.ts`), so no code changes were needed to register them —
+they already appear in nav/roadmap/topics/practice/formulas/search. I did
+*not* add either to the homepage hero sentence
+(`"Find your way through physics, mathematics, chemistry and materials
+science."`, `src/i18n/messages/{en,et}.json`) — that sentence already omits
+`computing` (4 concepts) despite it being a real, listed subject, which
+reads as a deliberate "not mentioned in prose until it's built out further"
+convention; I'm following the same convention for these two rather than
+adding half-built subjects to the homepage pitch. Say if you want them added
+now anyway.
+
+Scoped each subject's first phase to avoid duplicating existing subjects'
+angle on the same underlying physics — see each plan file's opening section
+for the specific overlap check (physics's mechanics/thermodynamics/fluid-
+mechanics modules cover the derivations; these two subjects cover the
+applied, design-and-performance-facing engineering treatment).
+
+Ran both phases as two parallel forks (one per subject, non-overlapping
+directories) rather than sequentially, since the two subjects share no
+content, prerequisites, or files apart from the top-level docs I reconciled
+afterward. `AEROSPACE_ENGINEERING_PLAN.md` Phase AE1 (6 concepts:
+aerodynamics fundamentals, aircraft structures, propulsion fundamentals,
+flight dynamics and stability, orbital mechanics and spaceflight,
+compressible flow and gas dynamics) and `GENERAL_ENGINEERING_PLAN.md` Phase
+GE1 (6 concepts: statics and equilibrium of structures, mechanics of
+materials, engineering thermodynamics and power cycles, engineering fluid
+mechanics, manufacturing processes, engineering design process) both landed
+cleanly, one commit per concept. Final state: `npm run validate:content`
+(7 subjects, 484 concepts), `npm run lint:terminology` (238 glossary terms,
+6 new entries added for general-engineering's formulas: stress, yield
+strength, factor of safety, compression ratio, heat capacity ratio, head
+loss), `npm run typecheck`, and the full test suite (150/150) all pass;
+working tree is clean.
+
+Same unreviewed-terminology caveat as the MSc-physics phase: both forks
+coined a handful of Estonian engineering terms with no existing glossary or
+Wikipedia precedent (e.g. aerospace's "rünnakunurk" for angle of attack)
+rather than stopping to hand-verify each one — flagging for a native-
+speaker/domain-expert pass, same as every prior unreviewed-vocabulary note
+in this file. Also: the repo-wide `npm run check:links` started
+rate-limiting against Wikipedia (429s) partway through this phase, at the
+site's now-484-concept scale — both forks verified their own new URLs
+individually with `curl` instead of relying on the full-repo script; worth
+adding backoff/retry to `scripts/check-links.ts` if this keeps happening as
+content grows.
+
+Neither subject is judged comprehensive yet — this is one foundational
+phase each (AE1, GE1), same starting depth Phase MS1 gave materials-science.
+`AEROSPACE_ENGINEERING_PLAN.md`'s Phase AE2 and
+`GENERAL_ENGINEERING_PLAN.md`'s Phase GE2 are both scoped-but-not-started
+(candidates listed in each file) — continuing into those, or pivoting
+elsewhere, is your call.
+
 Things I made a judgment call on while you're away, flagged here instead of
 interrupting. Answer when you're back; nothing below is blocking.
 
