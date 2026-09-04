@@ -1,0 +1,56 @@
+{
+  "id": "epigenetics-and-lifestyle-interventions-item1",
+  "conceptId": "epigenetics-and-lifestyle-interventions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A company sells a blood-based 'epigenetic age' test and advertises that a customer's supplement regimen reduced their epigenetic age by five years. Which limitation most directly undermines treating this as solid proof the supplement caused biological rejuvenation?",
+    "et": "Ettevõte müüb vereanalüüsipõhist 'epigeneetilise vanuse' testi ning reklaamib, et kliendi toidulisandirežiim vähendas tema epigeneetilist vanust viie aasta võrra. Milline piirang kõige otsesemalt õõnestab selle käsitlemist kindla tõendina, et toidulisand põhjustas bioloogilise noorenemise?",
+    "sourceHash": "a044086d7d3e5967",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Epigenetic clocks are genuinely useful population-level research tools but have not been validated as individual diagnostics sensitive and reliable enough to confidently attribute a single person's reading change to one specific intervention.",
+        "et": "Epigeneetilised kellad on tõeliselt kasulikud populatsioonitasandi teadusvahendid, kuid neid ei ole valideeritud individuaalse diagnostikana, mis on piisavalt tundlik ja usaldusväärne, et kindlalt omistada ühe inimese näidumuutus ühele konkreetsele sekkumisele.",
+        "sourceHash": "91711e410b9a4275",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There's no real limitation -- a blood-based epigenetic age reading accurately reflects what's happening throughout the entire body, so a five-year reduction genuinely means the whole body is five years biologically younger.",
+        "et": "Tegelikku piirangut ei ole -- verepõhine epigeneetilise vanuse näit peegeldab täpselt seda, mis toimub kogu kehas, mistõttu viie aasta vähenemine tähendab tõesti, et kogu keha on bioloogiliselt viis aastat noorem.",
+        "sourceHash": "9e5b666551026ed3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "epigenetics-and-lifestyle-interventions-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The test result is meaningless because epigenetic changes can never be measured accurately in a blood sample in the first place, regardless of what intervention is being tested.",
+        "et": "Testi tulemus on tähendusetu, kuna epigeneetilisi muutusi ei saa kunagi vereproovis täpselt mõõta, sõltumata sellest, mida sekkumist testitakse.",
+        "sourceHash": "9ade2926e0709ed4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "epigenetics-and-lifestyle-interventions-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The main issue is that any epigenetic improvement shown in this customer will automatically be inherited by their children, which is a bigger claim than the company should be making.",
+        "et": "Peamine probleem on see, et mistahes epigeneetiline paranemine, mis sellel kliendil näidatakse, päritakse automaatselt tema lastele, mis on suurem väide, kui ettevõte peaks tegema.",
+        "sourceHash": "6e4f518a5b408291",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "epigenetics-and-lifestyle-interventions-m3"
+    }
+  ]
+}

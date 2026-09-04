@@ -1,0 +1,19 @@
+{
+  "id": "epigenetics-and-lifestyle-interventions",
+  "subject": "biohacking",
+  "level": "L3",
+  "module": "biohacking-fundamentals",
+  "title": {
+    "en": "Epigenetics and lifestyle interventions",
+    "et": "Epigeneetika ja eluviisisekkumised",
+    "sourceHash": "e75b786ab95042b1",
+    "stale": false
+  },
+  "summary": {
+    "en": "Epigenetics is the study of chemical modifications -- DNA methylation and histone modification are the two best-studied -- that change how accessible a gene is for expression without altering the underlying DNA sequence itself, and diet, exercise, sleep, and chronic stress can all measurably shift these marks at specific genes, which is real, replicated molecular biology. The popular biohacking leap from that real mechanism to specific actionable claims -- 'this supplement reverses your epigenetic age by ten years,' 'this diet will permanently reprogram your genes for the better' -- runs well ahead of what the evidence supports on several fronts at once: most epigenetic marks are tissue-specific (a mark measured in a blood sample doesn't necessarily reflect what's happening in, say, brain or muscle tissue), most lifestyle-driven epigenetic changes measured so far are modest in size and slow to establish, and 'epigenetic clocks' -- algorithms that estimate biological age from a panel of methylation sites -- are genuinely useful research tools for studying aging at a population level but have not been validated as an individual diagnostic a person can use to confidently track their own single-intervention progress. A further, frequently overstated claim is that lifestyle-acquired epigenetic changes get passed on to one's children -- transgenerational epigenetic inheritance is a real phenomenon demonstrated in some plant and animal studies, but robust evidence for it operating through specific human lifestyle choices remains limited and contested, which is a very different claim than a marketer implying your diet today will epigenetically reprogram your grandchildren.",
+    "et": "Epigeneetika on keemiliste modifikatsioonide -- DNA metüleerimine ja histooni modifikatsioon on kaks kõige põhjalikumalt uuritud -- uurimine, mis muudavad, kui ligipääsetav geen on ekspressiooniks, muutmata seejuures aluseks olevat DNA järjestust ennast, ning toitumine, treening, uni ja krooniline stress võivad kõik mõõdetavalt nihutada neid märke konkreetsete geenide juures, mis on reaalne, korratud molekulaarbioloogia. Populaarne biohäkkimise hüpe sellest reaalsest mehhanismist konkreetsete rakendatavate väideteni -- 'see toidulisand pöörab sinu epigeneetilise vanuse kümme aastat tagasi,' 'see dieet programmeerib sinu geenid jäädavalt paremaks ümber' -- jookseb korraga mitmel rindel tõendusmaterjalist kaugelt ette: enamik epigeneetilisi märke on koespetsiifilised (verest mõõdetud märk ei peegelda tingimata seda, mis toimub näiteks aju- või lihaskoes), enamik seni mõõdetud eluviisist tingitud epigeneetilisi muutusi on tagasihoidliku suurusega ja aeglaselt kujunevad, ning 'epigeneetilised kellad' -- algoritmid, mis hindavad bioloogilist vanust metüleerimissaitide paneeli põhjal -- on tõeliselt kasulikud teadusvahendid vananemise uurimiseks populatsioonitasandil, kuid neid ei ole valideeritud individuaalse diagnostikavahendina, mida inimene saaks kasutada oma üksiku sekkumise edenemise usaldusväärseks jälgimiseks. Täiendav, sageli ülepaisutatud väide on, et eluviisist omandatud epigeneetilised muutused kanduvad edasi lastele -- põlvkondadevaheline epigeneetiline pärandumine on reaalne nähtus, mida on demonstreeritud mõnes taime- ja loomauuringus, kuid tugev tõendusmaterjal selle kohta, et see toimib konkreetsete inimese eluviisivalikute kaudu, jääb piiratuks ja vaieldavaks, mis on väga erinev väide kui turundaja vihje, et sinu tänane toitumine epigeneetiliselt ümber programmeerib sinu lapselapsed.",
+    "sourceHash": "358de26caf9ba26c",
+    "stale": false
+  },
+  "prerequisites": []
+}
