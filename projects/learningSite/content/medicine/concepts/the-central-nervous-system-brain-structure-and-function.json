@@ -1,0 +1,21 @@
+{
+  "id": "the-central-nervous-system-brain-structure-and-function",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "neuroscience",
+  "title": {
+    "en": "The central nervous system: brain structure and function",
+    "et": "Kesknärvisüsteem: aju ehitus ja talitlus",
+    "sourceHash": "ea641918a66e87aa",
+    "stale": false
+  },
+  "summary": {
+    "en": "The brain is not one uniform processing blob but a set of anatomically distinct regions that specialize in different jobs, connected into circuits. The cerebral cortex -- the brain's wrinkled outer layer -- is divided into four lobes per hemisphere: the frontal lobe (planning, decision-making, and voluntary motor control), the parietal lobe (integrating sensory information and spatial awareness), the temporal lobe (auditory processing and, on the medial surface, memory formation), and the occipital lobe (visual processing). Beneath the cortex, the limbic system -- including the hippocampus and amygdala -- handles memory consolidation and emotional processing respectively, while the brainstem, the evolutionarily oldest part of the brain, sits at the base and runs the automatic functions a person doesn't consciously control (breathing rate, heart rate, the sleep-wake cycle), which is exactly why brainstem damage is so much more immediately life-threatening than damage confined to the cortex. The cerebellum, tucked beneath the occipital lobe, refines and coordinates movement and balance rather than initiating it -- damage there produces clumsy, poorly-timed movement rather than paralysis, since the underlying motor commands still originate correctly in the cortex.",
+    "et": "Aju ei ole üks ühtlane töötlemismass, vaid anatoomiliselt eristuvate piirkondade kogum, mis on spetsialiseerunud erinevatele ülesannetele ja ühendatud ahelateks. Ajukoor -- aju kortsus välimine kiht -- jaguneb igas ajupoolkeras neljaks sagaraks: otsmikusagar (planeerimine, otsuste tegemine ja tahteline liikumiskontroll), kiirusagar (sensoorse info integreerimine ja ruumitaju), oimusagar (kuulmistöötlus ja, mediaalsel pinnal, mälu moodustumine) ning kuklasagar (nägemistöötlus). Ajukoore all tegeleb limbiline süsteem -- sealhulgas hipokampus ja amügdala -- vastavalt mälu konsolideerimise ja emotsionaalse töötlemisega, samas kui ajutüvi, aju evolutsiooniliselt vanim osa, asub aju põhjas ja juhib automaatseid funktsioone, mida inimene teadlikult ei kontrolli (hingamissagedus, südamesagedus, une-ärkveloleku tsükkel), mis ongi täpselt põhjus, miks ajutüve kahjustus on nii palju kohesemalt eluohtlikum kui ainult ajukoorele piirduv kahjustus. Väikeaju, mis paikneb kuklasagara all, täpsustab ja koordineerib liikumist ja tasakaalu, mitte ei algata seda -- kahjustus seal tekitab kohmaka, halvasti ajastatud liikumise, mitte halvatuse, kuna aluseks olevad liikumiskäsud pärinevad endiselt õigesti ajukoorest.",
+    "sourceHash": "146fca488fe02db9",
+    "stale": false
+  },
+  "prerequisites": [
+    "nervous-system-anatomy-and-physiology-overview"
+  ]
+}

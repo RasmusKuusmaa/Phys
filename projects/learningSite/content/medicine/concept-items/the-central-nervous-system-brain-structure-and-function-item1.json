@@ -1,0 +1,56 @@
+{
+  "id": "the-central-nervous-system-brain-structure-and-function-item1",
+  "conceptId": "the-central-nervous-system-brain-structure-and-function",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient has damage limited to the cerebellum. Which of the following is the most likely resulting deficit?",
+    "et": "Patsiendil on kahjustus, mis piirdub väikeajuga. Milline järgnevatest on kõige tõenäolisem tulemuseks olev puudujääk?",
+    "sourceHash": "667cf2046ab2fd60",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Poorly coordinated, clumsy movements and balance problems, with muscle strength and the ability to voluntarily initiate movement still intact.",
+        "et": "Halvasti koordineeritud, kohmakad liigutused ja tasakaaluprobleemid, kusjuures lihasjõud ja tahteline liikumise algatamise võime on endiselt säilinud.",
+        "sourceHash": "dc99b39752ab0aec",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Paralysis of the limbs, similar to damage to the motor cortex.",
+        "et": "Jäsemete halvatus, sarnaselt motoorse ajukoore kahjustusele.",
+        "sourceHash": "437f95b9816cef81",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-central-nervous-system-brain-structure-and-function-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "No noticeable deficit, since the cerebellum is one of the brain's underused 'spare capacity' regions.",
+        "et": "Märgatavat puudujääki ei ole, kuna väikeaju on üks aju alakasutatud 'varuvõimsuse' piirkondadest.",
+        "sourceHash": "eb85fc09f712ea3d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-central-nervous-system-brain-structure-and-function-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Complete loss of a single, entirely separate mental function with no effect on any other brain system.",
+        "et": "Ühe täiesti eraldiseisva vaimse funktsiooni täielik kadu, mõjutamata ühtegi teist ajusüsteemi.",
+        "sourceHash": "3bff20ed6b1d2330",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "the-central-nervous-system-brain-structure-and-function-m2"
+    }
+  ]
+}
