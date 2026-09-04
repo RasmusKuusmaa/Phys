@@ -1,0 +1,10 @@
+{
+  "id": "combinatorics-and-counting-principles-m1",
+  "conceptId": "combinatorics-and-counting-principles",
+  "text": {
+    "en": "Believing permutations and combinations count exactly the same thing, just with different formulas -- the two answer genuinely different questions: permutations count ordered arrangements (where selecting the same objects in a different order counts as a different outcome), while combinations count unordered selections (where the same objects in any order count as the same outcome); the permutation count is always the combination count multiplied by the number of ways the chosen objects can themselves be rearranged, so the two numbers coincide only in the trivial case of choosing a single object at a time.",
+    "et": "Arvamus, et permutatsioonid ja kombinatsioonid loendavad täpselt sama asja, lihtsalt erinevate valemitega -- kaks vastavad tõeliselt erinevatele küsimustele: permutatsioonid loendavad järjestatud paigutusi (kus samade objektide valimine erinevas järjekorras loeb erinevaks tulemuseks), samal ajal kui kombinatsioonid loendavad järjestamata valikuid (kus samad objektid mistahes järjekorras loevad samaks tulemuseks); permutatsiooni loend on alati kombinatsiooni loend korrutatuna viiside arvuga, kuidas valitud objekte endid saaks ümber paigutada, seega need kaks arvu langevad kokku ainult triviaalses juhtumis, kui valitakse ükshaaval üks objekt.",
+    "sourceHash": "78348fef2a9fd6ab",
+    "stale": false
+  }
+}

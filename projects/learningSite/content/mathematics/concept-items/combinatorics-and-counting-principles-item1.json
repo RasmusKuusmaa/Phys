@@ -1,0 +1,55 @@
+{
+  "id": "combinatorics-and-counting-principles-item1",
+  "conceptId": "combinatorics-and-counting-principles",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Choosing 3 people from a group of 10 to serve on an unranked committee gives a much smaller count than choosing 3 people from the same group to fill 3 distinct, ranked positions (president, vice-president, treasurer). Why?",
+    "et": "3 inimese valimine 10-liikmelisest rühmast järjestamata komiteesse annab palju väiksema loenduse kui 3 inimese valimine samast rühmast 3 eristuvale, järjestatud kohale (president, asepresident, laekur). Miks?",
+    "sourceHash": "1229ce00e062201f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The committee is a combination (order doesn't matter), while filling ranked positions is a permutation (order matters), and the permutation count is the combination count times the number of ways to rank the chosen 3 people.",
+        "et": "Komitee on kombinatsioon (järjekord ei ole oluline), samal ajal kui järjestatud kohtade täitmine on permutatsioon (järjekord on oluline), ning permutatsiooni loend on kombinatsiooni loend korrutatuna viiside arvuga, kuidas valitud 3 inimest järjestada.",
+        "sourceHash": "48411a9c971f6bc9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The two counts should actually be identical, since both involve choosing exactly 3 people out of the same group of 10.",
+        "et": "Kaks loendust peaksid tegelikult olema identsed, kuna mõlemad hõlmavad täpselt 3 inimese valimist samast 10-liikmelisest rühmast.",
+        "sourceHash": "5635194cb5bfa8b2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "combinatorics-and-counting-principles-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The binomial coefficient formula and the permutation formula are computed identically, so any difference between them must be a calculation error.",
+        "et": "Binoomkoefitsiendi valem ja permutatsiooni valem arvutatakse identselt, seega peab mistahes erinevus nende vahel olema arvutusviga.",
+        "sourceHash": "3241f0ec82023f7d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "combinatorics-and-counting-principles-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Ranked-position counts and committee counts are entirely unrelated calculations with no formula connecting the two at all.",
+        "et": "Järjestatud kohtade loendused ja komitee loendused on täiesti mitteseotud arvutused ilma valemita, mis neid üldse ühendaks.",
+        "sourceHash": "a15345f5676654be",
+        "stale": false
+      },
+      "correct": false
+    }
+  ]
+}

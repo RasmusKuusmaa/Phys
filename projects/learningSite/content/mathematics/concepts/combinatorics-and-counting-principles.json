@@ -1,0 +1,21 @@
+{
+  "id": "combinatorics-and-counting-principles",
+  "subject": "mathematics",
+  "level": "L2",
+  "module": "probability-and-statistics",
+  "title": {
+    "en": "Combinatorics and counting principles",
+    "et": "Kombinatoorika ja loenduse printsiibid",
+    "sourceHash": "d49a6ecf87ed0af5",
+    "stale": false
+  },
+  "summary": {
+    "en": "Almost every probability calculation ultimately reduces to counting how many ways something can happen, and the two most basic counting questions -- how many ordered arrangements can be made from a set of objects (permutations) versus how many unordered selections can be made from that same set (combinations) -- differ by exactly one thing: whether the order the objects are chosen in matters, a single distinction that changes the count by a factor equal to the number of ways the chosen objects could themselves be rearranged, and this distinction, made precise through factorials, is what the binomial coefficient (the number of ways to choose an unordered subset of a given size) formalizes, giving both the entries of Pascal's triangle and the coefficients that appear when a sum of two terms is raised to a power (the binomial theorem), a single counting idea threading through combinatorics, probability, and algebra alike.",
+    "et": "Peaaegu iga tõenäosusarvutus taandub lõppkokkuvõttes selle loendamisele, mitmel viisil miski juhtuda saab, ning kaks kõige põhilisemat loenduse küsimust -- mitu järjestatud paigutust saab teha objektide hulgast (permutatsioonid) versus mitu järjestamata valikut saab teha samast hulgast (kombinatsioonid) -- erinevad täpselt ühe asja poolest: kas valitud objektide järjekord on oluline, üksik erinevus, mis muudab loenduse teguriga, mis võrdub viiside arvuga, kuidas valitud objekte endid saaks ümber paigutada, ning see erinevus, mis on täpsustatud faktoriaalide kaudu, ongi see, mida binoomkoefitsient (viiside arv, kuidas valida antud suurusega järjestamata alamhulk) formaliseerib, andes nii Pascali kolmnurga elemendid kui kordajad, mis ilmuvad, kui kahe liikme summa tõstetakse astmesse (binoomteoreem), üksik loenduse idee, mis läbib nii kombinatoorikat, tõenäosust kui algebrat.",
+    "sourceHash": "86fdafaea8bb35e9",
+    "stale": false
+  },
+  "prerequisites": [
+    "probability"
+  ]
+}

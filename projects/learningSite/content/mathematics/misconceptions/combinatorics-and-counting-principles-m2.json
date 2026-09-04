@@ -1,0 +1,10 @@
+{
+  "id": "combinatorics-and-counting-principles-m2",
+  "conceptId": "combinatorics-and-counting-principles",
+  "text": {
+    "en": "Believing the binomial coefficient (the number of ways to choose an unordered subset of a given size) and the corresponding permutation count are computed the same way, differing only by which symbol is used -- the binomial coefficient is specifically the permutation count divided by the factorial of the subset size, precisely to remove the overcounting caused by the different internal orderings of each chosen subset; treating the two formulas as interchangeable produces an answer too large by exactly that factorial factor whenever order genuinely does not matter for the question being asked.",
+    "et": "Arvamus, et binoomkoefitsient (viiside arv, kuidas valida antud suurusega järjestamata alamhulk) ja vastav permutatsiooni loend arvutatakse samamoodi, erinedes ainult kasutatava sümboli poolest -- binoomkoefitsient on spetsiifiliselt permutatsiooni loend jagatud alamhulga suuruse faktoriaaliga, täpselt selleks, et eemaldada ülelugemine, mille põhjustavad iga valitud alamhulga erinevad sisemised järjestused; kahe valemi käsitlemine vahetatavana annab vastuse, mis on täpselt selle faktoriaalse teguri võrra liiga suur, kui küsimuse jaoks järjekord tõeliselt ei ole oluline.",
+    "sourceHash": "a03bf331111753d4",
+    "stale": false
+  }
+}

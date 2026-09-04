@@ -1,0 +1,10 @@
+{
+  "id": "combinatorics-and-counting-principles-m3",
+  "conceptId": "combinatorics-and-counting-principles",
+  "text": {
+    "en": "Believing the binomial theorem's coefficients (appearing when a sum of two terms is raised to a power) and the combinatorial binomial coefficients (counting unordered subsets) are merely coincidentally identical numbers that happen to share a name -- they are literally the same quantity for a genuine structural reason: expanding a power of a sum requires choosing, from each of the multiplied factors, whether to take the first or second term, and the coefficient of a given resulting term counts exactly the number of ways to choose which factors contributed the first term, which is precisely a combinatorial choice of an unordered subset, the same counting problem the binomial coefficient was built to solve.",
+    "et": "Arvamus, et binoomteoreemi kordajad (mis ilmuvad, kui kahe liikme summa tõstetakse astmesse) ja kombinatoorilised binoomkoefitsiendid (mis loendavad järjestamata alamhulki) on lihtsalt kokkusattumisi identsed arvud, mis juhtuvad jagama nime -- need on sõna otseses mõttes sama suurus tõelisel struktuursel põhjusel: summa astme lahtikirjutamine nõuab valimist igast korrutatavast tegurist, kas võtta esimene või teine liige, ning antud saadud liikme kordaja loendab täpselt viiside arvu, kuidas valida, millised tegurid andsid esimese liikme, mis ongi täpselt kombinatoorne valik järjestamata alamhulga jaoks, sama loendusprobleem, mille lahendamiseks binoomkoefitsient ehitati.",
+    "sourceHash": "ea0220e9c0aed02b",
+    "stale": false
+  }
+}
