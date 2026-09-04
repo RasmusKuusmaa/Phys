@@ -1,0 +1,56 @@
+{
+  "id": "renal-and-urinary-system-anatomy-and-physiology-item1",
+  "conceptId": "renal-and-urinary-system-anatomy-and-physiology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is it inaccurate to describe the kidneys as working like a simple strainer that filters waste out of the blood?",
+    "et": "Miks on ebatäpne kirjeldada neere kui lihtsat sõela, mis filtreerib jäätmed verest välja?",
+    "sourceHash": "68f6d984b4740762",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Filtration is only the first of three steps — the tubule then reabsorbs the large majority of the filtered water and useful solutes back into the blood and actively secretes a few additional substances, and this fine-tuned reabsorption/secretion balance is what actually regulates fluid, electrolyte, and acid-base balance.",
+        "et": "Filtratsioon on ainult kolmest sammust esimene -- tuubul reabsorbeerib seejärel valdava enamuse filtreeritud veest ja kasulikest lahustunud ainetest tagasi verre ning eritab aktiivselt mõned täiendavad ained, ning just see peenhäälestatud reabsorptsiooni/sekretsiooni tasakaal reguleerib tegelikult vedeliku-, elektrolüütide- ja happe-aluse tasakaalu.",
+        "sourceHash": "8ec5b9981026ee05",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Filtered fluid becomes urine immediately with nothing further happening to it, so the strainer analogy is actually accurate as stated.",
+        "et": "Filtreeritud vedelik muutub kohe uriiniks, ilma et sellega midagi edasi juhtuks, mistõttu on sõela analoogia tegelikult täpne nii nagu öeldud.",
+        "sourceHash": "bcecea6ab9aa685a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "renal-and-urinary-system-anatomy-and-physiology-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The kidneys' fluid and electrolyte regulation happens through a completely separate system from the filtration process, so the strainer analogy is accurate for filtration specifically.",
+        "et": "Neerude vedeliku ja elektrolüütide reguleerimine toimub filtratsiooniprotsessist täiesti eraldiseisva süsteemi kaudu, mistõttu on sõela analoogia spetsiifiliselt filtratsiooni jaoks täpne.",
+        "sourceHash": "445dd6aba7b00cd7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "renal-and-urinary-system-anatomy-and-physiology-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since the kidneys only filter, there's no meaningful distinction between what enters the glomerulus and what eventually leaves the body as urine.",
+        "et": "Kuna neerud ainult filtreerivad, ei ole olulist erinevust selle vahel, mis siseneb glomerulusesse ja mis lõpuks lahkub kehast uriinina.",
+        "sourceHash": "5ed7bcf6c9f953dd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "renal-and-urinary-system-anatomy-and-physiology-m1"
+    }
+  ]
+}

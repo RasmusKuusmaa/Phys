@@ -1,0 +1,19 @@
+{
+  "id": "renal-and-urinary-system-anatomy-and-physiology",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "renal-and-urologic-medicine",
+  "title": {
+    "en": "Renal and urinary system anatomy and physiology",
+    "et": "Neeru- ja kuseteede süsteemi anatoomia ja füsioloogia",
+    "sourceHash": "b5d461c75c69b536",
+    "stale": false
+  },
+  "summary": {
+    "en": "Each kidney contains roughly a million nephrons, the microscopic functional units that do the kidney's actual work, and every nephron carries out the same three-step process on the blood that flows through it: filtration, where the glomerulus -- a tuft of capillaries under enough pressure to force water and small dissolved solutes out of the blood -- produces a filtrate containing everything small enough to pass through except blood cells and large proteins; reabsorption, where the long tubule that filtrate then flows through reclaims the large majority of that filtered water, glucose, amino acids, and electrolytes back into the blood, since filtering the blood's entire volume many times over would be wasteful if nothing were recovered; and secretion, where the tubule actively adds a few additional substances from the blood directly into the forming urine. What remains after reabsorption has reclaimed nearly everything useful and secretion has added a few final substances is urine, which collects in the renal pelvis, travels down the ureters to the bladder for storage, and exits through the urethra. Beyond eliminating metabolic waste, the kidneys continuously adjust exactly how much of the filtered water and each electrolyte gets reabsorbed versus excreted, which is how they perform their less obvious but equally essential jobs of maintaining fluid balance, electrolyte balance, and blood acid-base balance.",
+    "et": "Igas neerus on ligikaudu miljon nefronit, mikroskoopilist funktsionaalset üksust, mis teevad neeru tegelikku tööd, ning iga nefron teostab läbi voolava vere peal sama kolmeastmelist protsessi: filtratsioon, kus glomerulus -- kapillaaride kobar piisava rõhu all, et suruda vesi ja väikesed lahustunud lahustunud ained verest välja -- toodab filtraadi, mis sisaldab kõike, mis on piisavalt väike, et läbida, välja arvatud verekehad ja suured valgud; reabsorptsioon, kus pikk tuubul, mille kaudu see filtraat seejärel voolab, taastab valdava enamuse sellest filtreeritud veest, glükoosist, aminohapetest ja elektrolüütidest tagasi verre, kuna vere kogumahu korduv filtreerimine oleks raiskav, kui midagi tagasi ei saadaks; ning sekretsioon, kus tuubul lisab aktiivselt mõned täiendavad ained verest otse moodustuvale uriinile. See, mis jääb pärast seda, kui reabsorptsioon on peaaegu kõik kasuliku tagasi saanud ja sekretsioon on lisanud mõned viimased ained, on uriin, mis kogub neeruvaagnasse, liigub mööda kusejuhasid põide säilitamiseks ning väljub kusiti kaudu. Peale ainevahetusjääkide eemaldamise reguleerivad neerud pidevalt täpselt seda, kui palju filtreeritud veest ja igast elektrolüüdist reabsorbeeritakse versus eritatakse, mis ongi see, kuidas need täidavad oma vähem ilmseid, kuid sama olulisi ülesandeid vedelikutasakaalu, elektrolüütide tasakaalu ja vere happe-aluse tasakaalu säilitamisel.",
+    "sourceHash": "f34c27078864341a",
+    "stale": false
+  },
+  "prerequisites": []
+}
