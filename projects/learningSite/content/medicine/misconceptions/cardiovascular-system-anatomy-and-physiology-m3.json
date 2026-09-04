@@ -1,0 +1,10 @@
+{
+  "id": "cardiovascular-system-anatomy-and-physiology-m3",
+  "conceptId": "cardiovascular-system-anatomy-and-physiology",
+  "text": {
+    "en": "I think the heart needs a signal from the brain to beat at all, the same way a muscle needs a nerve signal to contract -- in reality, the heart generates its own rhythmic electrical signal internally, from specialized pacemaker cells in the sinoatrial node, and will continue beating on its own rhythm even if completely disconnected from the nervous system (as a transplanted heart does); the nervous system and hormones only adjust the rate and force of a heartbeat that the heart itself is already generating.",
+    "et": "Arvan, et süda vajab löömiseks üldse ajust tulevat signaali, samamoodi nagu lihas vajab kokkutõmbumiseks närvisignaali -- tegelikult tekitab süda oma rütmilise elektrilise signaali ise, siinusõlme spetsialiseerunud südamestimulaatorrakkudest, ning jätkab löömist omas rütmis isegi siis, kui see on närvisüsteemist täielikult eraldatud (nagu siirdatud süda) -- närvisüsteem ja hormoonid üksnes reguleerivad südamelöögi sagedust ja tugevust, mida süda ise juba tekitab.",
+    "sourceHash": "8bff4152057f67c8",
+    "stale": false
+  }
+}

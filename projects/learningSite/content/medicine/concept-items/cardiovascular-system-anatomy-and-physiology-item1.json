@@ -1,0 +1,56 @@
+{
+  "id": "cardiovascular-system-anatomy-and-physiology-item1",
+  "conceptId": "cardiovascular-system-anatomy-and-physiology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A person feels their heartbeat most strongly on the left side of their chest. What does this actually tell you about the heart's location?",
+    "et": "Inimene tunneb oma südamelööki kõige tugevamalt rindkere vasakul poolel. Mida see tegelikult südame asukoha kohta ütleb?",
+    "sourceHash": "a97290bac71bd480",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Very little about the heart's overall location -- the heart sits roughly in the center of the chest but is tilted so more of it projects toward the left, which is why the strongest beat is felt there.",
+        "et": "Väga vähe südame üldise asukoha kohta -- süda asub rindkere keskel, kuid on kaldu, nii et suurem osa sellest ulatub vasakule, mistõttu tuntakse just seal kõige tugevamat lööki.",
+        "sourceHash": "6dc3b79497bbd57c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It confirms that the heart is anatomically located on the left side of the chest, not the center.",
+        "et": "See kinnitab, et süda asub anatoomiliselt rindkere vasakul poolel, mitte keskel.",
+        "sourceHash": "0d6c0df4496bc432",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cardiovascular-system-anatomy-and-physiology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It reflects that only the left side of the heart is actively pumping at any given moment, alternating with the right side.",
+        "et": "See peegeldab, et igal hetkel pumpab aktiivselt ainult südame vasak pool, vaheldudes parema poolega.",
+        "sourceHash": "dbd1a68314729de2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cardiovascular-system-anatomy-and-physiology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It reflects where the brain sends its strongest signal to trigger the heartbeat, which is on the left side of the body.",
+        "et": "See peegeldab, kuhu aju saadab südamelöögi käivitamiseks oma tugevaima signaali, mis on keha vasakul poolel.",
+        "sourceHash": "59e030bbc42cc64e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cardiovascular-system-anatomy-and-physiology-m3"
+    }
+  ]
+}

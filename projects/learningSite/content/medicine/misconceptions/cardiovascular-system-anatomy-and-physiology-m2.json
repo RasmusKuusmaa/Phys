@@ -1,0 +1,10 @@
+{
+  "id": "cardiovascular-system-anatomy-and-physiology-m2",
+  "conceptId": "cardiovascular-system-anatomy-and-physiology",
+  "text": {
+    "en": "I think blood from the right and left sides of the heart mixes together inside the heart, since it's all 'the same blood' passing through one organ -- in reality, the right and left sides of the heart are separate pumps that never directly share blood in a healthy heart -- the right side handles only the pulmonary circulation (heart to lungs and back) and the left side handles only the systemic circulation (heart to the rest of the body and back); a hole allowing blood to cross between the two sides is itself a specific type of heart defect, not normal anatomy.",
+    "et": "Arvan, et parema ja vasaku südamepoole veri seguneb südame sees, kuna see on kõik 'sama veri', mis läbib üht organit -- tegelikult on südame parem ja vasak pool eraldi pumbad, mis terves südames kunagi otseselt verd ei jaga -- parem pool tegeleb ainult kopsuvereringega (südamest kopsudesse ja tagasi) ja vasak pool ainult süsteemse vereringega (südamest ülejäänud kehasse ja tagasi); auk, mis lubaks verel kahe poole vahel liikuda, on ise kindel südamerikke tüüp, mitte normaalne anatoomia.",
+    "sourceHash": "2541fcd7aeb1bc0a",
+    "stale": false
+  }
+}

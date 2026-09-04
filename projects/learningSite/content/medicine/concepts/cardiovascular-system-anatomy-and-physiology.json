@@ -1,0 +1,19 @@
+{
+  "id": "cardiovascular-system-anatomy-and-physiology",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "human-anatomy-and-physiology",
+  "title": {
+    "en": "Cardiovascular system anatomy and physiology",
+    "et": "Südame-veresoonkonna anatoomia ja füsioloogia",
+    "sourceHash": "6b3de3fe8cce54f2",
+    "stale": false
+  },
+  "summary": {
+    "en": "The heart is a four-chambered, dual pump housed roughly in the center of the chest (not the left side, despite where people place a hand to feel it beat) that drives two separate circuits in series: the right side receives oxygen-poor blood returning from the body and pumps it to the lungs (the pulmonary circulation), while the left side receives the now oxygen-rich blood returning from the lungs and pumps it out to the entire rest of the body (the systemic circulation) -- two loops that share no blood directly but are mechanically linked, since both sides contract together in the same cardiac cycle. One-way valves between each atrium and its ventricle, and between each ventricle and its outgoing artery, ensure blood moves in only one direction through this two-loop system, snapping shut against backflow and producing the two audible heart sounds ('lub-dub') as they close. The cardiac cycle itself alternates between diastole, when the heart's chambers relax and fill with blood, and systole, when the ventricles contract and eject it, a rhythm generated internally by the heart's own electrical pacemaker tissue (the sinoatrial node) rather than requiring a signal from the brain to beat at all -- the nervous system only adjusts the rate and strength of a heartbeat that would otherwise continue on its own.",
+    "et": "Süda on neljakambriline kaksikpump, mis asub kopsakalt rindkere keskel (mitte vasakul poolel, hoolimata sellest, kuhu inimesed panevad käe, et selle löömist tunda), ning see käivitab kaks eraldi järjestikust vereringet: parem pool võtab vastu hapnikuvaese vere, mis naaseb kehast, ja pumpab selle kopsudesse (väike ehk kopsuvereringe), samas kui vasak pool võtab vastu nüüd hapnikurikka vere, mis naaseb kopsudest, ja pumpab selle välja kogu ülejäänud kehasse (suur ehk süsteemne vereringe) -- kaks ringi, mis ei jaga otseselt verd, kuid on mehaaniliselt seotud, kuna mõlemad pooled tõmbuvad kokku samas südametsüklis. Ühesuunalised klapid iga koja ja selle vatsakese vahel ning iga vatsakese ja selle väljuva arteri vahel tagavad, et veri liigub selles kaheahelalises süsteemis ainult ühes suunas, sulgudes tagasivoolu vastu ja tekitades kaks kuuldavat südametooni ('lub-dub'), kui need sulguvad. Südametsükkel ise vaheldub diastoli, mil südame kambrid lõdvestuvad ja täituvad verega, ning süstoli vahel, mil vatsakesed tõmbuvad kokku ja väljutavad verd, rütm, mille genereerib südame enda elektriline südamestimulaatorkude (siinusõlm) seesmiselt, mitte ei vaja see löömiseks üldse ajust tulevat signaali -- närvisüsteem üksnes reguleerib südamelöögi sagedust ja tugevust, mis muidu jätkuks omal jõul.",
+    "sourceHash": "a9b652cb2b97fda4",
+    "stale": false
+  },
+  "prerequisites": []
+}
