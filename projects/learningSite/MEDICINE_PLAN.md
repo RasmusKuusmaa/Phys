@@ -281,28 +281,35 @@ runs after those rather than in parallel with them.
 
 ### Module `immunology`
 
-- [ ] Innate immunity and inflammation (physical barriers, phagocytes, the
+- [x] Innate immunity and inflammation (physical barriers, phagocytes, the
       complement system, the acute inflammatory response — the immune
       system's own mechanism, distinct from `general-pathology`'s
       acute-and-chronic-inflammation concept below, which covers the
       tissue-level pathological process and its outcomes rather than the
       immune cells/molecules driving it; no prerequisites)
-- [ ] Adaptive immunity and lymphocytes (B cells and T cells, antigen
+- [x] Adaptive immunity and lymphocytes (B cells and T cells, antigen
       presentation, clonal selection; prerequisite: innate-immunity-and-
       inflammation)
-- [ ] Antibody structure and function (antibody structure, immunoglobulin
+- [x] Antibody structure and function (antibody structure, immunoglobulin
       classes, neutralization/opsonization/complement-fixation mechanisms;
       prerequisite: adaptive-immunity-and-lymphocytes)
-- [ ] Vaccines and immunological memory (how vaccination generates
+- [x] Vaccines and immunological memory (how vaccination generates
       protection, memory B/T cells, the herd-immunity mechanism — framed
       mechanistically, not as public-health policy; prerequisite:
       adaptive-immunity-and-lymphocytes)
-- [ ] Autoimmunity and hypersensitivity (autoimmune-disease mechanisms,
+- [x] Autoimmunity and hypersensitivity (autoimmune-disease mechanisms,
       the four hypersensitivity types; prerequisite: adaptive-immunity-and-
       lymphocytes)
-- [ ] Immunodeficiency and immune evasion (primary vs. secondary
+- [x] Immunodeficiency and immune evasion (primary vs. secondary
       immunodeficiency mechanisms, how pathogens evade immune detection; no
       prerequisites)
+
+Module complete: 6 immunology concepts, all kept conceptual (no clean
+single numeric relationship at this intro-mechanistic level; not forced).
+`npm run validate:content` (557 concepts), `npm run lint:terminology`
+(254 glossary terms — no new terms needed, none of the six required a
+formula symbol), and `npm run typecheck` all pass; every resource URL
+verified live with `curl`.
 
 ### Module `general-pathology`
 
