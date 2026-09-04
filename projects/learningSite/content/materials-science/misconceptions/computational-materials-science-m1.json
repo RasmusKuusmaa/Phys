@@ -1,0 +1,10 @@
+{
+  "id": "computational-materials-science-m1",
+  "conceptId": "computational-materials-science",
+  "text": {
+    "en": "Believing there is a single, general-purpose computational materials science technique that applies at whatever length and time scale a given question happens to concern -- atomistic methods (molecular dynamics) and continuum methods (finite-element modeling) operate at genuinely different scales and answer genuinely different kinds of questions, so the correct technique depends entirely on what scale the specific phenomenon of interest actually occurs at, not on any single universally applicable method.",
+    "et": "Arvamus, et on olemas üksik, üldotstarbeline arvutusliku materjaliteaduse tehnika, mis kehtib ükskõik millisel pikkuse- ja ajamõõtkaval, mida antud küsimus juhtub puudutama -- aatomitasandi meetodid (molekulaardünaamika) ja kontiinummeetodid (lõplike elementide modelleerimine) toimivad tõeliselt erinevatel mõõtkavadel ja vastavad tõeliselt erinevat tüüpi küsimustele, seega sõltub õige tehnika täielikult sellest, millisel mõõtkaval huvipakkuv konkreetne nähtus tegelikult esineb, mitte mistahes üksikust universaalselt rakendatavast meetodist.",
+    "sourceHash": "09013f7d45916aa9",
+    "stale": false
+  }
+}

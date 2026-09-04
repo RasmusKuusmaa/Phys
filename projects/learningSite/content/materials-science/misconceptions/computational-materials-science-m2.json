@@ -1,0 +1,10 @@
+{
+  "id": "computational-materials-science-m2",
+  "conceptId": "computational-materials-science",
+  "text": {
+    "en": "Believing atomistic simulation methods (like molecular dynamics) could, in principle, simply be scaled up to directly simulate a whole engineered component if enough computing power were available, making continuum methods merely a shortcut for when resources are limited -- the computational cost of atomistic simulation grows so steeply with the number of atoms and simulated time that directly simulating a whole macroscopic component atom-by-atom remains intractable by many orders of magnitude beyond any realistically foreseeable computing power, which is why continuum modeling is a genuinely necessary distinct approach for whole-component scales, not a mere workaround for insufficient resources.",
+    "et": "Arvamus, et aatomitasandi simulatsioonimeetodeid (nagu molekulaardünaamika) saaks põhimõtteliselt lihtsalt üles skaleerida, et otse simuleerida tervet inseneritoodet, kui piisavalt arvutusvõimsust oleks saadaval, muutes kontiinummeetodid lihtsalt kiirteeks, kui ressursid on piiratud -- aatomitasandi simulatsiooni arvutuskulu kasvab nii järsult aatomite arvu ja simuleeritud aja suurenedes, et terve makroskoopilise toote otsene aatom-aatomilt simuleerimine jääb käsitlematuks paljude suurusjärkude võrra kaugemale mistahes realistlikult ettenähtavast arvutusvõimsusest, mis ongi põhjus, miks kontiinummodelleerimine on tõeliselt vajalik eristuv lähenemine terve toote mõõtkavade jaoks, mitte lihtsalt kiirtee ebapiisavate ressursside jaoks.",
+    "sourceHash": "b1d10feeb4faa592",
+    "stale": false
+  }
+}

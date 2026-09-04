@@ -1,0 +1,10 @@
+{
+  "id": "computational-materials-science-m3",
+  "conceptId": "computational-materials-science",
+  "text": {
+    "en": "Believing multiscale approaches that combine atomistic and continuum methods are an unusual, niche technique reserved for exceptional research problems -- real computational materials science routinely bridges scales as standard practice, since the atomistic detail needed to capture a fine microstructural mechanism is computationally intractable at whole-component size while a continuum model coarse enough to simulate a whole component cannot resolve that fine mechanism directly, so using atomistic results to inform or parameterize a continuum-scale model is an ordinary, common workflow, not an exotic exception.",
+    "et": "Arvamus, et mitme mõõtkava lähenemised, mis ühendavad aatomitasandi ja kontiinummeetodid, on ebatavaline, nišitehnika, mis on reserveeritud erakorraliste uurimisprobleemide jaoks -- reaalne arvutuslik materjaliteadus ühendab rutiinselt mõõtkavasid standardse praktikana, kuna aatomitasandi detailsus, mis on vajalik peene mikrostruktuurse mehhanismi tabamiseks, on arvutuslikult käsitlematu terve toote suuruses, samas kui kontiinummudel, mis on piisavalt jäme terve toote simuleerimiseks, ei suuda seda peent mehhanismi otse lahutada, seega on aatomitasandi tulemuste kasutamine kontiinummõõtkava mudeli informeerimiseks või parameetrimiseks tavaline, levinud töövoog, mitte eksootiline erand.",
+    "sourceHash": "1248c5ecacf197ac",
+    "stale": false
+  }
+}

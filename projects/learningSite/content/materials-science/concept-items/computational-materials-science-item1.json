@@ -1,0 +1,56 @@
+{
+  "id": "computational-materials-science-item1",
+  "conceptId": "computational-materials-science",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A research team wants to predict both the atomic-scale dislocation behavior in a new alloy and the overall stress distribution across a whole engineered part made from it. Why can a single simulation technique not directly answer both questions?",
+    "et": "Uurimisrühm soovib ennustada nii dislokatsioonide aatomitasandi käitumist uues sulamis kui ka üldist pingejaotust kogu sellest valmistatud inseneritootes. Miks ei saa üksik simulatsioonitehnika mõlemale küsimusele otse vastata?",
+    "sourceHash": "13e94cab6ecf1770",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Atomistic and continuum methods operate at genuinely different length/time scales suited to genuinely different questions, and directly simulating a whole component atom-by-atom is computationally intractable, so real practice bridges scales rather than using one universal technique.",
+        "et": "Aatomitasandi ja kontiinummeetodid toimivad tõeliselt erinevatel pikkuse-/ajamõõtkavadel, mis sobivad tõeliselt erinevate küsimustega, ning terve toote otsene aatom-aatomilt simuleerimine on arvutuslikult käsitlematu, seega ühendab reaalne praktika mõõtkavasid, selle asemel et kasutada üht universaalset tehnikat.",
+        "sourceHash": "85c913ffa497fa1d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Molecular dynamics could simulate the whole component directly if the team simply had access to enough computing power; continuum modeling is only used because of limited resources.",
+        "et": "Molekulaardünaamika saaks simuleerida tervet toodet otse, kui rühmal oleks lihtsalt piisavalt arvutusvõimsust; kontiinummodelleerimist kasutatakse ainult piiratud ressursside tõttu.",
+        "sourceHash": "61af8323fc63b8fa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computational-materials-science-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "One general-purpose simulation method should be able to answer both questions equally well regardless of the scale involved.",
+        "et": "Üks üldotstarbeline simulatsioonimeetod peaks suutma mõlemale küsimusele võrdselt hästi vastata, olenemata sellest, milline mõõtkava on kaasatud.",
+        "sourceHash": "91739f62a060617a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computational-materials-science-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Combining atomistic and continuum results into one multiscale workflow is such an unusual, niche approach that it would not be a reasonable choice for this ordinary engineering question.",
+        "et": "Aatomitasandi ja kontiinumi tulemuste ühendamine üheks mitme mõõtkava töövooks on nii ebatavaline, nišilähenemine, et see ei oleks mõistlik valik selle tavalise inseneriteadusliku küsimuse jaoks.",
+        "sourceHash": "33e7de85fa156395",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computational-materials-science-m3"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "computational-materials-science",
+  "subject": "materials-science",
+  "level": "L4",
+  "module": "materials-fundamentals",
+  "title": {
+    "en": "Computational materials science",
+    "et": "Arvutuslik materjaliteadus",
+    "sourceHash": "525f27bd2b6fc196",
+    "stale": false
+  },
+  "summary": {
+    "en": "Simulating a real material's behavior is not a single computational technique applied at whatever scale a question happens to be asked at; different length and time scales genuinely require different simulation methods -- atomistic methods like molecular dynamics track individual atoms' motion over nanoseconds and nanometers, while continuum methods like finite-element modeling treat the material as a smooth continuous medium and can span whole engineered components over seconds -- and a phenomenon that is only visible at one scale is often invisible or misrepresented at another, meaning no single simulation technique is simply 'the' computational method for a given material, and real computational materials science routinely bridges multiple scales (using atomistic simulation results to inform the parameters of a continuum-scale model, for instance) precisely because the atomistic detail needed to capture a fine microstructural mechanism is computationally intractable at the size of a whole engineered part, while a continuum model coarse enough to simulate a whole part cannot resolve that same fine mechanism directly.",
+    "et": "Reaalse materjali käitumise simuleerimine ei ole üksik arvutusmeetod, mida rakendatakse ükskõik millisel mõõtkaval küsimus juhtub olema esitatud; erinevad pikkuse- ja ajamõõtkavad nõuavad tõeliselt erinevaid simulatsioonimeetodeid -- aatomitasandi meetodid nagu molekulaardünaamika jälgivad üksikute aatomite liikumist nanosekundite ja nanomeetrite ulatuses, samas kui kontiinummeetodid nagu lõplike elementide modelleerimine käsitlevad materjali sujuva pideva keskkonnana ja saavad hõlmata terveid inseneritooteid sekundite ulatuses -- ning nähtus, mis on nähtav ainult ühel mõõtkaval, on sageli teisel mõõtkaval nähtamatu või valesti esitatud, mis tähendab, et ükski üksik simulatsioonimeetod ei ole lihtsalt 'see' arvutusmeetod antud materjali jaoks, ning reaalne arvutuslik materjaliteadus ühendab rutiinselt mitu mõõtkava (kasutades näiteks aatomitasandi simulatsiooni tulemusi kontiinummõõtkava mudeli parameetrite informeerimiseks) täpselt seetõttu, et aatomitasandi detailsus, mis on vajalik peene mikrostruktuurse mehhanismi tabamiseks, on arvutuslikult käsitlematu terve inseneritoote suuruses, samas kui kontiinummudel, mis on piisavalt jäme terve toote simuleerimiseks, ei suuda seda sama peent mehhanismi otse lahutada.",
+    "sourceHash": "8251bcafc75eeed2",
+    "stale": false
+  },
+  "prerequisites": [
+    "dislocation-theory-and-strengthening-mechanisms",
+    "thermodynamics-of-materials-and-multicomponent-phase-equilibria"
+  ]
+}
