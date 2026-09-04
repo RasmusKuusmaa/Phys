@@ -1,0 +1,10 @@
+{
+  "id": "advanced-thermodynamic-cycles-and-exergy-analysis-m2",
+  "conceptId": "advanced-thermodynamic-cycles-and-exergy-analysis",
+  "text": {
+    "en": "Believing exergy is just another name for energy, or that exergy is conserved the way energy is -- energy is exactly conserved by the first law even through irreversible processes, but exergy (maximum useful work potential) is destroyed by every irreversibility, so a process can conserve energy perfectly while still destroying a large share of its exergy.",
+    "et": "Arvamus, et eksergia on lihtsalt energia teine nimi või et eksergia säilib samamoodi nagu energia -- energia säilib esimese seaduse järgi täpselt ka pöördumatute protsesside korral, kuid eksergia (maksimaalne kasuliku töö potentsiaal) hävib iga pöördumatuse korral, nii et protsess võib säilitada energiat täiuslikult, hävitades siiski suure osa oma eksergiast.",
+    "sourceHash": "d40a659cc5a9b589",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "advanced-thermodynamic-cycles-and-exergy-analysis-m3",
+  "conceptId": "advanced-thermodynamic-cycles-and-exergy-analysis",
+  "text": {
+    "en": "Believing a low-grade waste heat stream (e.g. exhaust barely above ambient temperature) still carries a large amount of useful-work potential just because it carries a large amount of energy -- exergy depends on how far the stream's temperature is above the surroundings, not on the raw quantity of heat, so a large but nearly-ambient-temperature heat flow can carry very little exergy even while carrying substantial energy.",
+    "et": "Arvamus, et madala kvaliteediga jääksoojusvoog (nt heitgaas vaevu üle ümbritseva temperatuuri) kannab endiselt suurt kasuliku töö potentsiaali ainuüksi seetõttu, et see kannab suurt kogust soojust -- eksergia sõltub sellest, kui palju voo temperatuur ületab ümbritsevat, mitte soojuse toorkogusest, nii et suur, kuid peaaegu ümbritseva temperatuuriga soojusvoog võib kanda väga vähe eksergiat, kandes samas märkimisväärset energiat.",
+    "sourceHash": "f717b7fcea00e041",
+    "stale": false
+  }
+}

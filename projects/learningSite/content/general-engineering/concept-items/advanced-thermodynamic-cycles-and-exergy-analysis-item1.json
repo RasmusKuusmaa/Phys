@@ -1,0 +1,56 @@
+{
+  "id": "advanced-thermodynamic-cycles-and-exergy-analysis-item1",
+  "conceptId": "advanced-thermodynamic-cycles-and-exergy-analysis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is a combined-cycle power plant's overall efficiency less than the simple sum of its topping and bottoming cycles' individual efficiencies?",
+    "et": "Miks on kombitsükliga elektrijaama üldine kasutegur väiksem kui tema ülemise ja alumise tsükli üksikute kasutegurite lihtne summa?",
+    "sourceHash": "c0f9a19bbe1730c4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "correct": true,
+      "label": {
+        "en": "Because the bottoming cycle can only act on the fraction of heat the topping cycle didn't already convert to work, so its contribution is η_bottoming×(1−η_topping), not the full η_bottoming.",
+        "et": "Sest alumine tsükkel saab toimida ainult sellel osal soojusest, mida ülemine tsükkel juba tööks ei muutnud, seega on tema panus η_alumine×(1−η_ülemine), mitte täielik η_alumine.",
+        "sourceHash": "757cc7a74743c583",
+        "stale": false
+      }
+    },
+    {
+      "id": "b",
+      "correct": false,
+      "misconceptionId": "advanced-thermodynamic-cycles-and-exergy-analysis-m1",
+      "label": {
+        "en": "It isn't -- the overall efficiency is exactly the sum of the two cycles' individual efficiencies, since each cycle contributes independently.",
+        "et": "See ei ole nii -- üldine kasutegur on täpselt kahe tsükli üksikute kasutegurite summa, kuna kumbki tsükkel annab oma panuse sõltumatult.",
+        "sourceHash": "52262a729f79e6fc",
+        "stale": false
+      }
+    },
+    {
+      "id": "c",
+      "correct": false,
+      "misconceptionId": "advanced-thermodynamic-cycles-and-exergy-analysis-m2",
+      "label": {
+        "en": "Because energy is destroyed as it passes from the topping cycle to the bottoming cycle, so less total energy is available to compute an efficiency from.",
+        "et": "Sest energia hävib, kui see liigub ülemiselt tsüklilt alumisele, mistõttu on kasuteguri arvutamiseks vähem koguenergiat saadaval.",
+        "sourceHash": "cde7c9437e3d064f",
+        "stale": false
+      }
+    },
+    {
+      "id": "d",
+      "correct": false,
+      "misconceptionId": "advanced-thermodynamic-cycles-and-exergy-analysis-m3",
+      "label": {
+        "en": "Because the exhaust heat handed to the bottoming cycle is already too low in raw energy content to contribute meaningfully, regardless of its temperature.",
+        "et": "Sest alumisele tsüklile antav heitsoojus on juba liiga madala toorenergiasisaldusega, et anda arvestatavat panust, sõltumata selle temperatuurist.",
+        "sourceHash": "6892ca77e16a822e",
+        "stale": false
+      }
+    }
+  ]
+}

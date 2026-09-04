@@ -1,0 +1,43 @@
+{
+  "id": "combined-cycle-solve-etac",
+  "formulaId": "combined-cycle-efficiency-formula",
+  "variables": [
+    {
+      "symbol": "eta_t",
+      "min": 0.3,
+      "max": 0.45,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "eta_b",
+      "min": 0.2,
+      "max": 0.4,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "eta_t",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "eta_t",
+      "right": 1
+    },
+    {
+      "op": "gt",
+      "left": "eta_b",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "eta_b",
+      "right": 1
+    }
+  ],
+  "solveFor": "eta_c"
+}

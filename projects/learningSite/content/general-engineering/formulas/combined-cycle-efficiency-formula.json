@@ -1,0 +1,43 @@
+{
+  "id": "combined-cycle-efficiency-formula",
+  "conceptId": "advanced-thermodynamic-cycles-and-exergy-analysis",
+  "latex": "\\eta_{c} = \\eta_{t} + \\eta_{b}(1-\\eta_{t})",
+  "symbols": [
+    {
+      "symbol": "eta_t",
+      "name": {
+        "en": "thermal efficiency",
+        "et": "kasutegur",
+        "sourceHash": "30afa276de4e0ddf",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "eta_b",
+      "name": {
+        "en": "thermal efficiency",
+        "et": "kasutegur",
+        "sourceHash": "30afa276de4e0ddf",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "eta_c",
+      "name": {
+        "en": "thermal efficiency",
+        "et": "kasutegur",
+        "sourceHash": "30afa276de4e0ddf",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "eta_c"
+  ],
+  "expressions": {
+    "eta_c": "eta_t+eta_b*(1-eta_t)"
+  }
+}

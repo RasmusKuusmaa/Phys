@@ -1,0 +1,10 @@
+{
+  "id": "advanced-thermodynamic-cycles-and-exergy-analysis-m1",
+  "conceptId": "advanced-thermodynamic-cycles-and-exergy-analysis",
+  "text": {
+    "en": "Believing a combined cycle's overall efficiency is just the sum of the topping and bottoming cycles' individual efficiencies -- the bottoming cycle only gets to act on the heat the topping cycle didn't already convert to work, so the correct combination is eta_topping + eta_bottoming*(1 - eta_topping), which is always less than the naive sum whenever both efficiencies are positive.",
+    "et": "Arvamus, et kombitsükli üldine kasutegur on lihtsalt ülemise ja alumise tsükli üksikute kasutegurite summa -- alumine tsükkel saab toimida ainult soojusega, mida ülemine tsükkel juba tööks ei muutnud, seega on õige kombinatsioon η_ülemine + η_alumine×(1 − η_ülemine), mis on alati väiksem kui lihtne summa, kui mõlemad kasutegurid on positiivsed.",
+    "sourceHash": "237884074aad566c",
+    "stale": false
+  }
+}

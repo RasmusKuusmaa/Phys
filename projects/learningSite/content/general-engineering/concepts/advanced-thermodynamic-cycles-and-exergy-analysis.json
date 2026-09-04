@@ -1,0 +1,21 @@
+{
+  "id": "advanced-thermodynamic-cycles-and-exergy-analysis",
+  "subject": "general-engineering",
+  "level": "L3",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Advanced thermodynamic cycles and exergy analysis",
+    "et": "Täiustatud termodünaamilised tsüklid ja eksergia analüüs",
+    "sourceHash": "b8abb7e23969082b",
+    "stale": false
+  },
+  "summary": {
+    "en": "A single Brayton or Rankine cycle, taken alone, discards a large share of the heat it adds as waste heat rejected to the environment; a combined cycle recovers a meaningful fraction of exactly that waste heat by feeding a gas turbine's (Brayton cycle's) hot exhaust into a heat-recovery steam generator that drives a second, bottoming Rankine cycle, so that the overall plant efficiency is not simply either cycle's efficiency alone but the topping cycle's efficiency plus the bottoming cycle's efficiency applied to the fraction of heat the topping cycle didn't already convert to work -- a combined-cycle power plant reaching a substantially higher overall efficiency than either an equivalent standalone gas turbine or standalone steam plant could reach individually. Exergy analysis then asks a sharper question than thermal efficiency alone can: rather than merely tracking how much energy is conserved (which the first law already guarantees), it tracks how much of that energy remains actually capable of doing useful work as it moves through a process, since the second law guarantees this maximum-useful-work quantity -- exergy, or availability -- can only ever be destroyed, never created, by irreversibilities such as friction, throttling, and heat transfer across a finite temperature difference, which is what lets an engineer pinpoint exactly which component of a real plant is destroying the most potential for useful work, information thermal efficiency alone cannot provide.",
+    "et": "Üksik Brayton- või Rankine'i tsükkel, iseseisvana võttes, loobub suurest osast lisatud soojusest kui jääksoojusest, mis heidetakse keskkonda; kombitsükkel taaskasutab olulise osa just sellest jääksoojusest, juhtides gaasiturbiini (Brayton'i tsükli) kuuma heitgaasi soojustagastuse aurugeneraatorisse, mis käitab teist, alumist Rankine'i tsüklit, nii et kogu jaama kasutegur ei ole lihtsalt kummagi tsükli kasutegur eraldi, vaid ülemise tsükli kasutegur pluss alumise tsükli kasutegur, rakendatuna osale soojusest, mida ülemine tsükkel juba tööks ei muutnud -- kombitsükliga elektrijaam saavutab oluliselt kõrgema kogukasuteguri kui suudaks eraldi kas samaväärne gaasiturbiin või samaväärne aurujaam üksinda. Eksergia analüüs esitab seejärel teravama küsimuse kui pelgalt soojuslik kasutegur suudab: selle asemel, et lihtsalt jälgida, kui palju energiat säilib (mida esimene seadus juba tagab), jälgib see, kui palju sellest energiast jääb tegelikult võimeliseks tegema kasulikku tööd, kui see liigub läbi protsessi, kuna teine seadus tagab, et see maksimaalse kasuliku töö suurus -- eksergia ehk kasutatavus -- võib ainult hävida, mitte kunagi tekkida, pöördumatuste, nagu hõõrdumine, drosseldamine ja soojusülekanne lõpliku temperatuurivahe vahel, tõttu, mis lubab inseneril täpselt kindlaks teha, milline reaalse jaama komponent hävitab kõige rohkem kasuliku töö potentsiaali -- teave, mida pelgalt soojuslik kasutegur ei suuda anda.",
+    "sourceHash": "ba0a2464de4a53ce",
+    "stale": false
+  },
+  "prerequisites": [
+    "engineering-thermodynamics-and-power-cycles"
+  ]
+}

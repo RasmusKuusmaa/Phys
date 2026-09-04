@@ -1,0 +1,37 @@
+{
+  "id": "combined-cycle-solve-etac",
+  "formulaId": "combined-cycle-efficiency-formula",
+  "solveFor": "eta_c",
+  "mistakes": [
+    {
+      "id": "naive-sum",
+      "expression": "eta_t+eta_b",
+      "description": {
+        "en": "Simply added the two efficiencies together, ignoring that the bottoming cycle only acts on the heat the topping cycle didn't already convert to work.",
+        "et": "Liitis lihtsalt kaks kasutegurit kokku, ignoreerides, et alumine tsükkel toimib ainult soojusel, mida ülemine tsükkel juba tööks ei muutnud.",
+        "sourceHash": "d33f4ef901e1f6c1",
+        "stale": false
+      }
+    },
+    {
+      "id": "topping-only",
+      "expression": "eta_t",
+      "description": {
+        "en": "Used only the topping cycle's efficiency, ignoring the bottoming cycle's contribution entirely.",
+        "et": "Kasutas ainult ülemise tsükli kasutegurit, ignoreerides täielikult alumise tsükli panust.",
+        "sourceHash": "c3c085e2a9f48d2d",
+        "stale": false
+      }
+    },
+    {
+      "id": "multiplied",
+      "expression": "eta_t*eta_b",
+      "description": {
+        "en": "Multiplied the two efficiencies together instead of applying the combined-cycle relationship.",
+        "et": "Korrutas kaks kasutegurit omavahel kombitsükli seose rakendamise asemel.",
+        "sourceHash": "fd6f9eadd6bf78f9",
+        "stale": false
+      }
+    }
+  ]
+}
