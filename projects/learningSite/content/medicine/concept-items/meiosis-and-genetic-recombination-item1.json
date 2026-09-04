@@ -1,0 +1,56 @@
+{
+  "id": "meiosis-and-genetic-recombination-item1",
+  "conceptId": "meiosis-and-genetic-recombination",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do full siblings typically share only about 50% of their variable genetic material, rather than being nearly identical, even though they have the same two parents?",
+    "et": "Miks jagavad täisõed-vennad tavaliselt ainult umbes 50% oma varieeruvast geneetilisest materjalist, selle asemel et olla peaaegu identsed, kuigi neil on samad kaks vanemat?",
+    "sourceHash": "e1e04fba8622afe8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because crossing over and independent assortment during each parent's meiosis produce genetically unique gametes, so each sibling inherits a different combination of grandparental alleles.",
+        "et": "Sest ületõmbumine ja sõltumatu jaotumine kummagi vanema meioosi ajal toodavad geneetiliselt unikaalseid sugurakke, mistõttu iga õde-vend pärib erineva kombinatsiooni vanavanemate alleelidest.",
+        "sourceHash": "0211d33ae1dc0bee",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because meiosis produces only two gametes per parent instead of four, so there are fewer possible combinations to inherit than most people assume.",
+        "et": "Sest meioos toodab iga vanema kohta ainult kaks sugurakku, mitte neli, mistõttu pärimiseks on vähem võimalikke kombinatsioone, kui enamik inimesi arvab.",
+        "sourceHash": "6a901a4a1b788eb2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "meiosis-and-genetic-recombination-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It's actually incorrect — full siblings do share close to 100% of their DNA, since they inherit from the same two parents.",
+        "et": "See on tegelikult vale -- täisõed-vennad jagavad tõesti peaaegu 100% oma DNA-st, kuna nad pärivad samadelt kahelt vanemalt.",
+        "sourceHash": "2691970f94b9fd71",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "meiosis-and-genetic-recombination-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because crossing over is a rare copying error that happens in only a small fraction of meiotic divisions, introducing occasional random differences.",
+        "et": "Sest ületõmbumine on harv kopeerimisviga, mis juhtub ainult väikeses osas meiootilistest jagunemistest, tuues aeg-ajalt sisse juhuslikke erinevusi.",
+        "sourceHash": "6921313666926625",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "meiosis-and-genetic-recombination-m3"
+    }
+  ]
+}

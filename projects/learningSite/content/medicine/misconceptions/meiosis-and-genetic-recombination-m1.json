@@ -1,0 +1,10 @@
+{
+  "id": "meiosis-and-genetic-recombination-m1",
+  "conceptId": "meiosis-and-genetic-recombination",
+  "text": {
+    "en": "I think meiosis just makes two identical gametes, the same way mitosis makes two identical daughter cells -- in reality, meiosis involves two successive divisions producing four gametes, not two, and unlike mitosis, those four gametes are genetically different from each other because of crossing over and independent assortment during meiosis I, not identical copies.",
+    "et": "Arvan, et meioos lihtsalt toodab kaks identset sugurakku, samamoodi nagu mitoos toodab kaks identset tütarrakku -- tegelikult hõlmab meioos kahte järjestikust jagunemist, mis toodavad neli sugurakku, mitte kaks, ning erinevalt mitoosist on need neli sugurakku üksteisest geneetiliselt erinevad ületõmbumise ja sõltumatu jaotumise tõttu meioos I ajal, mitte identsed koopiad.",
+    "sourceHash": "c6e4011bf06b4282",
+    "stale": false
+  }
+}

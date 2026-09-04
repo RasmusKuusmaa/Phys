@@ -1,0 +1,10 @@
+{
+  "id": "meiosis-and-genetic-recombination-m2",
+  "conceptId": "meiosis-and-genetic-recombination",
+  "text": {
+    "en": "I think siblings (other than identical twins) should share close to 100% of their DNA, since they have the same two parents -- in reality, crossing over and independent assortment during meiosis mean each parent's gametes are genetically unique, so full siblings inherit different combinations of grandparental alleles and share on average only about 50% of their variable genetic material, not close to 100%.",
+    "et": "Arvan, et õed-vennad (peale ühemunakaksikute) peaksid jagama peaaegu 100% oma DNA-st, kuna neil on samad kaks vanemat -- tegelikult tähendavad ületõmbumine ja sõltumatu jaotumine meioosi ajal, et iga vanema sugurakud on geneetiliselt unikaalsed, mistõttu täisõed-vennad pärivad erinevaid kombinatsioone vanavanemate alleelidest ning jagavad keskmiselt vaid umbes 50% oma varieeruvast geneetilisest materjalist, mitte peaaegu 100%.",
+    "sourceHash": "a0f1811c4132b09d",
+    "stale": false
+  }
+}

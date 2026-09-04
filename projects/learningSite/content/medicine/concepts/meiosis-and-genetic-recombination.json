@@ -1,0 +1,21 @@
+{
+  "id": "meiosis-and-genetic-recombination",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "genetics-and-molecular-genetics",
+  "title": {
+    "en": "Meiosis and genetic recombination",
+    "et": "Meioos ja geneetiline rekombinatsioon",
+    "sourceHash": "f7b0ca883a694302",
+    "stale": false
+  },
+  "summary": {
+    "en": "Producing sperm and egg cells requires a fundamentally different kind of division than the mitosis ordinary cells use to grow and repair tissue: meiosis takes one diploid cell (two copies of each chromosome) through two successive rounds of division -- meiosis I and meiosis II -- to produce four haploid gametes, each carrying only one copy of each chromosome, so that fertilization can restore the normal two-copy chromosome number rather than doubling it every generation. The genetically consequential step happens during meiosis I: homologous chromosome pairs -- one from each parent -- line up together and physically exchange segments of DNA in a process called crossing over, and then whole homologous chromosomes are distributed to daughter cells independently of how any other chromosome pair was distributed (independent assortment), so that no two gametes from the same individual, apart from identical twins' cells, end up genetically identical. This combination of crossing over and independent assortment is what actually makes each sperm or egg cell genetically unique, distinct from mitosis's job of producing identical copies for tissue maintenance, and it's the reason full siblings share on average only about half their genetic variants rather than being clones of each other.",
+    "et": "Sperma- ja munarakkude tootmine nõuab põhimõtteliselt teistsugust jagunemist kui mitoos, mida tavalised rakud kasutavad kudede kasvatamiseks ja parandamiseks: meioos viib ühe diploidse raku (kaks koopiat igast kromosoomist) läbi kahe järjestikuse jagunemisvooru -- meioos I ja meioos II --, et toota neli haploidset sugurakku, millest igaüks kannab ainult ühte koopiat igast kromosoomist, nii et viljastumine saab taastada normaalse kahekordse kromosoomiarvu, selle asemel et seda igal põlvkonnal kahekordistada. Geneetiliselt oluline etapp toimub meioos I ajal: homoloogsed kromosoomipaarid -- üks kummaltki vanemalt -- asetuvad kõrvuti ning vahetavad füüsiliselt DNA segmente protsessis nimega ületõmbumine, ning seejärel jaotatakse terved homoloogsed kromosoomid tütarrakkudesse sõltumatult sellest, kuidas jaotus mõni teine kromosoomipaar (sõltumatu jaotumine), nii et ühegi isiku kaks sugurakku, välja arvatud ühemunakaksikute rakud, ei ole geneetiliselt identsed. Just see ületõmbumise ja sõltumatu jaotumise kombinatsioon teebki iga sperma- või munaraku geneetiliselt unikaalseks, erinevalt mitoosi ülesandest toota identseid koopiaid kudede säilitamiseks, ning see on põhjus, miks täisõed-vennad jagavad keskmiselt vaid umbes poole oma geneetilistest variantidest, selle asemel et olla üksteise kloonid.",
+    "sourceHash": "0c0f1e5ac7a3d17c",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-cell-cycle-and-mitosis"
+  ]
+}
