@@ -529,26 +529,51 @@ needed since no formula was added. `npm run validate:content` (9 subjects,
 
 ### Module `endocrinology`
 
-- [ ] Hormone signaling and the endocrine system overview (endocrine vs.
+- [x] Hormone signaling and the endocrine system overview (endocrine vs.
       paracrine vs. autocrine signaling, hormone classes — peptide/steroid/
-      amine — and their general mechanisms; no prerequisites)
-- [ ] The hypothalamic-pituitary axis (the master-gland relationship, how
+      amine — and their general mechanisms; no prerequisites; kept
+      conceptual)
+- [x] The hypothalamic-pituitary axis (the master-gland relationship, how
       the hypothalamus and pituitary coordinate the rest of the endocrine
       system; prerequisite: hormone-signaling-and-the-endocrine-system-
-      overview)
-- [ ] Thyroid and parathyroid physiology (thyroid hormone synthesis and
+      overview; kept conceptual)
+- [x] Thyroid and parathyroid physiology (thyroid hormone synthesis and
       feedback regulation, calcium homeostasis via parathyroid hormone;
-      prerequisite: the-hypothalamic-pituitary-axis)
-- [ ] Adrenal gland physiology (cortisol and the stress response,
+      prerequisite: the-hypothalamic-pituitary-axis; kept conceptual)
+- [x] Adrenal gland physiology (cortisol and the stress response,
       aldosterone and mineralocorticoid function, the adrenal medulla's
-      catecholamines; prerequisite: the-hypothalamic-pituitary-axis)
-- [ ] Pancreatic endocrine function and glucose homeostasis (insulin and
+      catecholamines; prerequisite: the-hypothalamic-pituitary-axis; kept
+      conceptual)
+- [x] Pancreatic endocrine function and glucose homeostasis (insulin and
       glucagon, the feedback loop maintaining blood glucose; prerequisite:
-      digestive-system-anatomy-and-physiology)
-- [ ] Reproductive endocrinology overview (the hypothalamic-pituitary-
+      digestive-system-anatomy-and-physiology; kept conceptual — the push-
+      pull feedback relationship is the concept's real content, not a
+      single clean numeric relationship worth a problem template)
+- [x] Reproductive endocrinology overview (the hypothalamic-pituitary-
       gonadal axis, sex hormone feedback loops — an overview here; a
       dedicated `reproductive-medicine` module comes later in this plan's
       roadmap for the organ-system-level depth; prerequisite: the-
-      hypothalamic-pituitary-axis)
+      hypothalamic-pituitary-axis; kept conceptual)
+
+Module complete: 6 endocrinology concepts, authored directly by the
+coordinator (not a fork) alongside the sibling neuroscience fork, since the
+prior phase's forks stayed cleanly in scope and this module's six concepts
+were straightforward to author in the same session. All kept conceptual —
+each axis's real content is the feedback-loop mechanism, not a clean single
+numeric relationship; no new glossary terms needed. `npm run
+validate:content` (9 subjects, 582 concepts), `npm run lint:terminology`
+(266 glossary terms), and `npm run typecheck` all pass; every resource URL
+verified live with `curl`. Two Estonian resources are honest close matches
+rather than exact-topic matches, since Estonian Wikipedia has no dedicated
+article at these exact scopes: `pancreatic-endocrine-function-and-glucose-
+homeostasis` links to "Insuliin" (insulin specifically, not a combined
+islets-of-Langerhans article) and `reproductive-endocrinology-overview`
+links to "Menstruaaltsükkel" (the cyclical output the axis produces, since
+Estonian Wikipedia has no dedicated HPG-axis article).
+
+Phase Med5 complete: 60 medicine concepts total (12 new Phase-Med5 concepts
+on top of the 48-concept Phase Med1-Med4 baseline). `npm run
+validate:content` (9 subjects, 582 concepts), `npm run lint:terminology`
+(266 glossary terms), and `npm run typecheck` all pass; working tree clean.
 
 ---
