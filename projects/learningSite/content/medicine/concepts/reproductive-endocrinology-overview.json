@@ -1,0 +1,21 @@
+{
+  "id": "reproductive-endocrinology-overview",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "endocrinology",
+  "title": {
+    "en": "Reproductive endocrinology overview",
+    "et": "Reproduktiivendokrinoloogia ülevaade",
+    "sourceHash": "ddb4f8dd45432528",
+    "stale": false
+  },
+  "summary": {
+    "en": "The hypothalamic-pituitary-gonadal (HPG) axis regulates reproductive hormone production using the same releasing-hormone/negative-feedback architecture already seen in the thyroid and adrenal axes: hypothalamic GnRH stimulates the pituitary to release LH and FSH, which act on the testes or ovaries to produce sex hormones (testosterone, estrogen, progesterone) and support gamete production, and rising sex hormone levels feed back to suppress GnRH, LH, and FSH release, keeping the system within a regulated range rather than escalating without limit. The core architecture is shared between sexes, but its output differs sharply: in the male HPG axis, LH and FSH drive a relatively steady, continuous pattern of testosterone production and sperm development, while in the female HPG axis the same hormones drive a cyclical pattern -- rising and falling estrogen and progesterone across roughly a monthly cycle, coordinated with ovulation -- because the feedback in the female axis is not purely negative throughout the cycle: a surge of estrogen at one specific point actually flips the feedback briefly positive, triggering the LH surge that causes ovulation, before feedback reverts to negative for the cycle's second half.",
+    "et": "Hüpotalamuse-hüpofüüsi-sugunäärme (HPG) telg reguleerib reproduktiivhormoonide tootmist sama vabastava hormooni/negatiivse tagasiside arhitektuuriga, mida on juba nähtud kilpnäärme ja neerupealise telgedel: hüpotalamuse GnRH stimuleerib hüpofüüsi vabastama LH-d ja FSH-d, mis toimivad munanditele või munasarjadele, tootes suguhormoone (testosteroon, östrogeen, progesteroon) ja toetades sugurakkude teket, ning tõusev suguhormoonide tase annab tagasisidet, pärssides GnRH, LH ja FSH vabanemist, hoides süsteemi reguleeritud vahemikus, mitte lubades sel piiramatult eskaleeruda. Põhiarhitektuur on sugude vahel jagatud, kuid selle väljund erineb märkimisväärselt: mehe HPG teljel juhivad LH ja FSH suhteliselt ühtlast, pidevat testosterooni tootmist ja spermatosoidide arengut, samas kui naise HPG teljel juhivad samad hormoonid tsüklilist mustrit -- östrogeeni ja progesterooni tõusu ja langust umbes kuu aja jooksul, koordineerituna ovulatsiooniga --, sest naise telje tagasiside ei ole kogu tsükli vältel puhtalt negatiivne: östrogeeni tipptase ühel kindlal hetkel pöörab tagasiside tegelikult hetkeks positiivseks, käivitades LH tipptaseme, mis põhjustab ovulatsiooni, enne kui tagasiside pöördub tsükli teiseks pooleks taas negatiivseks.",
+    "sourceHash": "3a657c7e6d822f19",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-hypothalamic-pituitary-axis"
+  ]
+}

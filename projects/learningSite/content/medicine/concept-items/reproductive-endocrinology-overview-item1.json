@@ -1,0 +1,56 @@
+{
+  "id": "reproductive-endocrinology-overview-item1",
+  "conceptId": "reproductive-endocrinology-overview",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is unusual about negative feedback in the female hypothalamic-pituitary-gonadal axis compared to other endocrine axes like the thyroid axis?",
+    "et": "Mis on ebatavalist negatiivse tagasiside juures naise hüpotalamuse-hüpofüüsi-sugunäärme teljel, võrreldes teiste endokriinsete telgedega nagu kilpnäärme telg?",
+    "sourceHash": "e9bd4a2c0fcc893c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "At one specific point in the menstrual cycle, a sustained high estrogen level briefly flips the feedback from negative to positive, triggering the LH surge that causes ovulation, before feedback reverts to negative.",
+        "et": "Menstruaaltsükli ühel kindlal hetkel pöörab püsivalt kõrge östrogeeni tase tagasiside hetkeks negatiivsest positiivseks, käivitades LH tipptaseme, mis põhjustab ovulatsiooni, enne kui tagasiside pöördub taas negatiivseks.",
+        "sourceHash": "2abdbeeb15501393",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It uses a completely different hormone pathway from the male reproductive axis, sharing no common architecture.",
+        "et": "See kasutab mehe reproduktiivteljest täiesti erinevat hormonaalset rada, jagamata ühist arhitektuuri.",
+        "sourceHash": "64bd0d20fe3bbfcd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reproductive-endocrinology-overview-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Feedback works identically to the thyroid axis throughout the entire cycle, with no exceptions.",
+        "et": "Tagasiside töötab kogu tsükli vältel identselt kilpnäärme teljega, ilma eranditeta.",
+        "sourceHash": "828bf2176266c80a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reproductive-endocrinology-overview-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "LH and FSH are themselves the sex hormones directly responsible for the cycle, rather than pituitary hormones that stimulate the ovaries.",
+        "et": "LH ja FSH on ise suguhormoonid, mis vastutavad otseselt tsükli eest, mitte hüpofüüsi hormoonid, mis stimuleerivad munasarju.",
+        "sourceHash": "2a77664a0024f14c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reproductive-endocrinology-overview-m3"
+    }
+  ]
+}

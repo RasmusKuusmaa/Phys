@@ -1,0 +1,10 @@
+{
+  "id": "reproductive-endocrinology-overview-m3",
+  "conceptId": "reproductive-endocrinology-overview",
+  "text": {
+    "en": "LH and FSH themselves are the sex hormones responsible for male and female physical characteristics -- in reality, LH and FSH are pituitary tropic hormones that stimulate the gonads to produce the actual sex hormones (testosterone, estrogen, progesterone); LH/FSH act one step upstream of the hormones responsible for sexual characteristics and reproductive tissue effects, the same tropic-hormone relationship the thyroid and adrenal axes have with TSH/ACTH.",
+    "et": "LH ja FSH ise on suguhormoonid, mis vastutavad mehe ja naise füüsiliste tunnuste eest -- tegelikult on LH ja FSH hüpofüüsi trofilised hormoonid, mis stimuleerivad sugunäärmeid tootma tegelikke suguhormoone (testosteroon, östrogeen, progesteroon); LH/FSH toimivad ühe sammu võrra ülesvoolu hormoonidest, mis vastutavad sugutunnuste ja reproduktiivkoe mõjude eest, sama trofilise hormooni suhe, mis on kilpnäärme ja neerupealise telgedel TSH/ACTH-ga.",
+    "sourceHash": "aea35275c63cdfb2",
+    "stale": false
+  }
+}

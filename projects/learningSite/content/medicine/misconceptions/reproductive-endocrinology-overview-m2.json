@@ -1,0 +1,10 @@
+{
+  "id": "reproductive-endocrinology-overview-m2",
+  "conceptId": "reproductive-endocrinology-overview",
+  "text": {
+    "en": "Negative feedback in the reproductive axis works identically at every point in the menstrual cycle -- in reality, for most of the cycle, rising estrogen suppresses GnRH/LH/FSH release as a standard negative feedback loop, but at one specific point (when estrogen is high enough for long enough), the feedback briefly flips to positive, producing the LH surge that triggers ovulation -- an unusual exception to the negative-feedback pattern that governs essentially every other endocrine axis in the body.",
+    "et": "Negatiivne tagasiside reproduktiivteljel töötab menstruaaltsükli igas punktis identselt -- tegelikult pärsib enamiku tsüklist tõusev östrogeen GnRH/LH/FSH vabanemist standardse negatiivse tagasisideahelana, kuid ühel kindlal hetkel (kui östrogeen on piisavalt kõrge piisavalt kaua) pöördub tagasiside hetkeks positiivseks, tekitades LH tipptaseme, mis käivitab ovulatsiooni -- ebatavaline erand negatiivse tagasiside mustrist, mis juhib sisuliselt iga teist endokriinset telge kehas.",
+    "sourceHash": "1f27c4e97667de1b",
+    "stale": false
+  }
+}

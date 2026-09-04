@@ -1,0 +1,10 @@
+{
+  "id": "reproductive-endocrinology-overview-m1",
+  "conceptId": "reproductive-endocrinology-overview",
+  "text": {
+    "en": "The male and female reproductive endocrine systems are fundamentally different, using entirely different hormones and pathways -- in reality, both sexes share the same core hypothalamic-pituitary-gonadal axis architecture (GnRH -> LH/FSH -> gonadal hormones), using overlapping hormones (both sexes produce testosterone and estrogen, just in very different ratios) -- what differs is the pattern of output (steady vs. cyclical) and how feedback behaves at one point in the cycle, not the fundamental hormones or pathway involved.",
+    "et": "Mehe ja naise reproduktiivsed endokriinsüsteemid on põhimõtteliselt erinevad, kasutades täiesti erinevaid hormoone ja radu -- tegelikult jagavad mõlemad sugupooled sama põhilist hüpotalamuse-hüpofüüsi-sugunäärme telje arhitektuuri (GnRH -> LH/FSH -> sugunäärme hormoonid), kasutades kattuvaid hormoone (mõlemad sugupooled toodavad testosterooni ja östrogeeni, lihtsalt väga erinevates suhetes) -- erinevus on väljundi mustris (ühtlane vs tsükliline) ja selles, kuidas tagasiside käitub ühel tsükli hetkel, mitte põhilistes hormoonides või rajas.",
+    "sourceHash": "536071edece6f1fb",
+    "stale": false
+  }
+}
