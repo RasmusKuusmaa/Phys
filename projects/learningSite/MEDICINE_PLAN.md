@@ -109,26 +109,37 @@ authored in parallel).
 
 ### Module `cell-and-molecular-biology`
 
-- [ ] Cell structure and organelle function (eukaryotic cell structure —
+- [x] Cell structure and organelle function (eukaryotic cell structure —
       nucleus, mitochondria, ER/Golgi, lysosomes — and what each organelle
       actually does; no prerequisites)
-- [ ] Cell membrane transport and signaling (passive vs. active transport,
+- [x] Cell membrane transport and signaling (passive vs. active transport,
       membrane receptors, signal transduction basics; prerequisite:
       cell-structure-and-organelle-function)
-- [ ] The cell cycle and mitosis (cell cycle checkpoints, mitotic phases,
+- [x] The cell cycle and mitosis (cell cycle checkpoints, mitotic phases,
       what happens when cell-cycle control fails; prerequisite:
       cell-structure-and-organelle-function)
-- [ ] DNA replication, transcription, and translation (the central dogma as
+- [x] DNA replication, transcription, and translation (the central dogma as
       cellular machinery/process — distinct from chemistry's
       nucleic-acid-structure-and-base-pairing, which is molecular structure,
       not the replication/transcription/translation machinery; prerequisite:
       cell-structure-and-organelle-function)
-- [ ] Stem cells and cellular differentiation (potency, differentiation,
+- [x] Stem cells and cellular differentiation (potency, differentiation,
       and why this matters for development and regenerative medicine; no
       prerequisites)
-- [ ] Apoptosis and programmed cell death (distinct from necrosis; why
+- [x] Apoptosis and programmed cell death (distinct from necrosis; why
       controlled cell death is a normal, essential process; prerequisite:
       the-cell-cycle-and-mitosis)
+
+Module complete: 6 cell-and-molecular-biology concepts, none needed a
+formula (intro-level cell biology here was mechanistic/conceptual
+throughout, same balance most subjects' first phase strikes). `npm run
+validate:content`, `npm run lint:terminology`, and `npm run typecheck` all
+pass as of this module's last commit; every resource URL verified live with
+`curl`. One Estonian resource is an honest close match rather than an exact
+title match: `dna-replication-transcription-and-translation` links to
+"Valgusüntees" (protein synthesis) since Estonian Wikipedia has no article
+matching the concept's combined replication+transcription+translation
+scope, same kind of adjustment prior phases on other subjects recorded.
 
 ### Module `human-anatomy-and-physiology`
 
@@ -136,23 +147,23 @@ Anatomy and physiology combined per body system (how most intro courses
 actually teach it), rather than two separate passes over the same six
 systems.
 
-- [ ] Skeletal system anatomy and physiology (bone structure and
+- [x] Skeletal system anatomy and physiology (bone structure and
       remodeling, joints, the skeleton's structural and mineral-storage
       roles; no prerequisites)
-- [ ] Muscular system anatomy and physiology (skeletal/smooth/cardiac
+- [x] Muscular system anatomy and physiology (skeletal/smooth/cardiac
       muscle types, the sliding filament mechanism; prerequisite:
       skeletal-system-anatomy-and-physiology)
-- [ ] Cardiovascular system anatomy and physiology (heart chambers and
+- [x] Cardiovascular system anatomy and physiology (heart chambers and
       valves, the cardiac cycle, systemic/pulmonary circulation; no
       prerequisites)
-- [ ] Respiratory system anatomy and physiology (airway and alveolar
+- [x] Respiratory system anatomy and physiology (airway and alveolar
       structure, gas exchange, ventilation-perfusion matching; no
       prerequisites)
-- [ ] Nervous system anatomy and physiology overview (central vs.
+- [x] Nervous system anatomy and physiology overview (central vs.
       peripheral nervous system, neurons and synapses at an intro level —
       the deep-dive neuroscience module comes later in this plan; no
       prerequisites)
-- [ ] Digestive system anatomy and physiology (GI tract structure,
+- [x] Digestive system anatomy and physiology (GI tract structure,
       digestion and absorption, the liver/pancreas's digestive roles; no
       prerequisites)
 
