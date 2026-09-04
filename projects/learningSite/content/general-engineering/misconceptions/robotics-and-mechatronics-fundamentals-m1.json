@@ -1,0 +1,10 @@
+{
+  "id": "robotics-and-mechatronics-fundamentals-m1",
+  "conceptId": "robotics-and-mechatronics-fundamentals",
+  "text": {
+    "en": "Believing inverse kinematics always has exactly one correct answer, the way forward kinematics does -- a given end-effector position can typically be reached by multiple distinct joint-angle configurations (an 'elbow up' vs. 'elbow down' solution, for instance), or by none at all if the position lies outside the mechanism's reachable workspace.",
+    "et": "Arvamus, et pöördkinemaatikal on alati täpselt üks õige vastus, nii nagu otsesel kinemaatikal -- antud tööorgani asendini võib tavaliselt jõuda mitme erineva liigesenurkade konfiguratsiooniga (näiteks 'küünar üleval' vs 'küünar all' lahendus) või mitte ühegagi, kui asend jääb väljapoole mehhanismi saavutatavat tööala.",
+    "sourceHash": "4c84472e8f711de2",
+    "stale": false
+  }
+}

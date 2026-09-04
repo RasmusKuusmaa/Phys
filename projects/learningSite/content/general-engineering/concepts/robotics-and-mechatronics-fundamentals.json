@@ -1,0 +1,22 @@
+{
+  "id": "robotics-and-mechatronics-fundamentals",
+  "subject": "general-engineering",
+  "level": "L3",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Robotics and mechatronics fundamentals",
+    "et": "Robootika ja mehhatroonika alused",
+    "sourceHash": "4589dda3ebd80cd6",
+    "stale": false
+  },
+  "summary": {
+    "en": "Mechatronics is the deliberate integration of mechanism, sensing, actuation, and control into a single designed system rather than treating each as a separate engineering discipline bolted together afterward: a robot arm's links and joints are a kinematic mechanism (the same rigid-body linkage reasoning that describes any mechanism), its motors (actuators) convert electrical, hydraulic, or pneumatic input into the forces and torques that move that mechanism, its encoders and other sensors measure the mechanism's actual position and motion, and a feedback controller (a control-systems-and-feedback loop, closing around the sensed position and the desired position) continuously commands the actuators to drive the measured state toward the desired one. Forward kinematics answers the geometric question of where the robot's end effector ends up given a specific set of joint angles, a direct and always-solvable calculation; inverse kinematics answers the opposite, practically more useful question of what joint angles achieve a desired end-effector position, which can have zero, one, or many valid solutions depending on the mechanism's geometry and the target position's reachability -- the reason a robot's motion planner must handle multiple, or no, solutions rather than assuming inverse kinematics always returns exactly one clean answer.",
+    "et": "Mehhatroonika on mehhanismi, tunnetamise, ajamite ja juhtimise tahtlik integreerimine üheks projekteeritud süsteemiks, selle asemel et käsitleda igaüht eraldi inseneridistsipliinina, mis hiljem kokku poltitakse: roboti käe lülid ja liigesed moodustavad kinemaatilise mehhanismi (sama jäiga keha lülisüsteemi arutluskäik, mis kirjeldab mistahes mehhanismi), tema mootorid (ajamid) muundavad elektrilise, hüdraulilise või pneumaatilise sisendi jõududeks ja momentideks, mis seda mehhanismi liigutavad, tema kodeerijad ja muud andurid mõõdavad mehhanismi tegelikku asendit ja liikumist ning tagasiside kontroller (juhtimissüsteemide ja tagasiside ahel, mis sulgub mõõdetud asendi ja soovitud asendi vahel) käsib pidevalt ajameid, et viia mõõdetud olek soovitud oleku poole. Otsene kinemaatika vastab geomeetrilisele küsimusele, kuhu roboti tööorgan jõuab antud liigesenurkade komplekti korral, otsene ja alati lahendatav arvutus; pöördkinemaatika vastab vastupidisele, praktiliselt kasulikumale küsimusele, millised liigesenurgad saavutavad soovitud tööorgani asendi, millel võib olenevalt mehhanismi geomeetriast ja sihtasendi saavutatavusest olla null, üks või mitu kehtivat lahendust -- põhjus, miks roboti liikumisplaneerija peab käsitlema mitut või ühtegi lahendust, mitte eeldama, et pöördkinemaatika annab alati täpselt ühe puhta vastuse.",
+    "sourceHash": "d2834f7daa6b10fc",
+    "stale": false
+  },
+  "prerequisites": [
+    "control-systems-and-feedback",
+    "kinematics-and-dynamics-of-mechanisms"
+  ]
+}

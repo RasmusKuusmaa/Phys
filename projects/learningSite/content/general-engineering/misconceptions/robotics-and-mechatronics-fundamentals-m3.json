@@ -1,0 +1,10 @@
+{
+  "id": "robotics-and-mechatronics-fundamentals-m3",
+  "conceptId": "robotics-and-mechatronics-fundamentals",
+  "text": {
+    "en": "Believing 'actuator' and 'motor' are interchangeable terms for the same thing -- a motor is one specific type of actuator (one that produces rotary or linear motion from electrical input), but hydraulic cylinders, pneumatic cylinders, and piezoelectric elements are all actuators too, converting a different kind of input energy into mechanical motion or force by a different physical mechanism.",
+    "et": "Arvamus, et 'ajam' ja 'mootor' on omavahel vahetatavad terminid sama asja kohta -- mootor on üks konkreetne ajami liik (selline, mis toodab elektrilisest sisendist pöörlevat või translatoorset liikumist), kuid hüdrosilindrid, pneumosilindrid ja piesoelektrilised elemendid on samuti kõik ajamid, muundades erinevat liiki sisendenergiat mehaaniliseks liikumiseks või jõuks erineva füüsikalise mehhanismi kaudu.",
+    "sourceHash": "6062cf4adff14194",
+    "stale": false
+  }
+}

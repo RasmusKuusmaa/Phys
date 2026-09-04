@@ -1,0 +1,56 @@
+{
+  "id": "robotics-and-mechatronics-fundamentals-item1",
+  "conceptId": "robotics-and-mechatronics-fundamentals",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A robot arm's controller computes the joint angles needed to reach a commanded end-effector position, but finds two different valid joint-angle solutions. What does this indicate?",
+    "et": "Roboti käe kontroller arvutab käsitud tööorgani asendi saavutamiseks vajalikud liigesenurgad, kuid leiab kaks erinevat kehtivat lahendust. Mida see näitab?",
+    "sourceHash": "b54613738587312c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "correct": true,
+      "label": {
+        "en": "This is a normal feature of inverse kinematics: a given end-effector position can typically be reached by more than one joint-angle configuration, so the motion planner must choose between the valid solutions rather than expect exactly one.",
+        "et": "See on pöördkinemaatika normaalne omadus: antud tööorgani asendini jõuab tavaliselt rohkem kui üks liigesenurkade konfiguratsioon, seega peab liikumisplaneerija valima kehtivate lahenduste vahel, mitte eeldama täpselt ühte.",
+        "sourceHash": "d9c169df2c6d515a",
+        "stale": false
+      }
+    },
+    {
+      "id": "b",
+      "correct": false,
+      "misconceptionId": "robotics-and-mechatronics-fundamentals-m1",
+      "label": {
+        "en": "A software bug, since inverse kinematics should always return exactly one correct joint-angle solution, the same way forward kinematics does.",
+        "et": "Tarkvaraviga, kuna pöördkinemaatika peaks alati andma täpselt ühe õige liigesenurkade lahenduse, nii nagu otsene kinemaatika.",
+        "sourceHash": "d419b287b4b66412",
+        "stale": false
+      }
+    },
+    {
+      "id": "c",
+      "correct": false,
+      "misconceptionId": "robotics-and-mechatronics-fundamentals-m2",
+      "label": {
+        "en": "It means the feedback control loop has failed, since a correctly functioning control loop would resolve any ambiguity in the mechanism itself.",
+        "et": "See tähendab, et tagasiside juhtimisahel on rikkis läinud, kuna korrektselt toimiv juhtimisahel lahendaks mehhanismi enda igasuguse ebamäärasuse.",
+        "sourceHash": "e7437747a3d9d448",
+        "stale": false
+      }
+    },
+    {
+      "id": "d",
+      "correct": false,
+      "misconceptionId": "robotics-and-mechatronics-fundamentals-m3",
+      "label": {
+        "en": "It means one of the two solutions must correspond to a different type of actuator than the other, since different actuators would produce different valid configurations.",
+        "et": "See tähendab, et üks kahest lahendusest peab vastama teistsugusele ajami liigile kui teine, kuna erinevad ajamid annaksid erinevaid kehtivaid konfiguratsioone.",
+        "sourceHash": "3f08458e440999de",
+        "stale": false
+      }
+    }
+  ]
+}

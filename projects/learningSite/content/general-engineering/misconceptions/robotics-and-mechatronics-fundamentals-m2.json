@@ -1,0 +1,10 @@
+{
+  "id": "robotics-and-mechatronics-fundamentals-m2",
+  "conceptId": "robotics-and-mechatronics-fundamentals",
+  "text": {
+    "en": "Believing a robot's sensors and control loop are optional refinements added on top of an already-functioning mechanical design -- without a feedback loop closing around sensed position, an open-loop mechanism has no way to correct for the load variation, friction, and manufacturing tolerance that inevitably cause its actual motion to drift away from its commanded motion; the control loop is what makes the mechanism actually do what it's commanded to do, not an optional add-on.",
+    "et": "Arvamus, et roboti andurid ja juhtimisahel on valikulised täiustused, mis lisatakse juba toimivale mehaanilisele disainile -- ilma mõõdetud asendi ümber sulguva tagasisideahelata ei ole avatud ahelaga mehhanismil võimalust korrigeerida koormuse muutust, hõõrdumist ja tootmistolerantsi, mis paratamatult panevad tema tegeliku liikumise triivima eemale käsitud liikumisest; juhtimisahel ongi see, mis paneb mehhanismi tegelikult tegema seda, mida talt käsitakse, mitte valikuline lisand.",
+    "sourceHash": "35b4bee183f1ac01",
+    "stale": false
+  }
+}
