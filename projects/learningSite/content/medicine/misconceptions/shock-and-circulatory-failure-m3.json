@@ -1,0 +1,10 @@
+{
+  "id": "shock-and-circulatory-failure-m3",
+  "conceptId": "shock-and-circulatory-failure",
+  "text": {
+    "en": "All four types of shock should be treated the same way, since they all produce the same low-blood-pressure endpoint -- in reality, the four categories arise from genuinely different points of failure (inadequate volume, pump failure, excessive vessel dilation, or physical obstruction), so effectively addressing the underlying cause requires first identifying which specific mechanism is responsible, not simply recognizing that circulatory failure is present.",
+    "et": "Kõiki nelja šoki tüüpi tuleks ravida samamoodi, kuna need kõik tekitavad sama madala vererõhu lõpp-punkti -- tegelikult tekivad need neli kategooriat tõeliselt erinevatest rikkepunktidest (ebapiisav maht, pumba rike, liigne veresoonte laienemine või füüsiline obstruktsioon), mistõttu aluseks oleva põhjuse tõhus käsitlemine nõuab kõigepealt tuvastamist, milline konkreetne mehhanism on vastutav, mitte lihtsalt tunnistamist, et vereringe puudulikkus on kohal.",
+    "sourceHash": "9f64dc238a9ee1f4",
+    "stale": false
+  }
+}

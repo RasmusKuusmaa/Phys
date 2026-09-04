@@ -1,0 +1,21 @@
+{
+  "id": "shock-and-circulatory-failure",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "cardiovascular-medicine",
+  "title": {
+    "en": "Shock and circulatory failure",
+    "et": "Šokk ja vereringe puudulikkus",
+    "sourceHash": "48df1e086b3f537b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Shock is defined by its endpoint, not its cause: inadequate blood flow to meet tissue's metabolic demands, regardless of which part of the circulatory system failed to produce it. Hypovolemic shock arises when there simply isn't enough blood volume left to fill the circulation, most obviously from severe bleeding; cardiogenic shock arises when blood volume is normal but the heart itself has failed as a pump, unable to generate adequate output despite adequate filling, the same pumping failure covered in this subject's heart-failure-mechanisms concept, just severe enough to cause circulatory collapse. Distributive shock is mechanistically distinct from both: blood volume and pumping ability may both be normal, but the blood vessels themselves have lost their normal tone and dilated excessively, so the same total blood volume is now spread across a container too large to maintain adequate pressure -- septic shock, where bacterial toxins trigger massive inflammatory vasodilation, is the most common example. Obstructive shock is a fourth, purely mechanical category, where something physically blocks blood flow through an otherwise normal heart and vasculature -- a large pulmonary embolism obstructing the pulmonary artery, or fluid compressing the heart from outside. Because these four categories share one endpoint but arise from genuinely different points of failure in the circulatory system, treating the underlying cause requires first identifying which of the four mechanisms is actually responsible, not simply recognizing that shock is present.",
+    "et": "Šokki defineerib selle lõpp-punkt, mitte selle põhjus: ebapiisav verevool, et rahuldada koe ainevahetuslikke vajadusi, olenemata sellest, milline vereringesüsteemi osa selle tekitamisel ebaõnnestus. Hüpovoleemiline šokk tekib siis, kui lihtsalt ei jää piisavalt vere mahtu vereringe täitmiseks, kõige ilmsemalt tõsisest verejooksust; kardiogeenne šokk tekib siis, kui vere maht on normaalne, kuid süda ise on pumbana ebaõnnestunud, suutmata tekitada piisavat väljundit hoolimata piisavast täitumisest, sama pumpamise rike, mida on selle aine südamepuudulikkuse mehhanismide mõistes käsitletud, ainult piisavalt tõsine, et põhjustada vereringe kollapsit. Distributiivne šokk on mehhanistlikult erinev mõlemast: vere maht ja pumpamisvõime võivad mõlemad olla normaalsed, kuid veresooned ise on kaotanud oma normaalse toonuse ja liigselt laienenud, mistõttu sama kogu vere maht on nüüd levinud liiga suures anumas, et säilitada piisavat rõhku -- septiline šokk, kus bakteriaalsed toksiinid käivitavad massiivse põletikulise vasodilatatsiooni, on kõige levinum näide. Obstruktiivne šokk on neljas, puhtalt mehaaniline kategooria, kus miski füüsiliselt blokeerib verevoolu muidu normaalse südame ja veresoonte kaudu -- suur kopsuemboolia, mis blokeerib kopsuarterit, või vedelik, mis surub südant väljastpoolt kokku. Kuna need neli kategooriat jagavad üht lõpp-punkti, kuid tekivad tõeliselt erinevatest rikkepunktidest vereringesüsteemis, nõuab aluseks oleva põhjuse ravimine kõigepealt tuvastamist, milline neljast mehhanismist on tegelikult vastutav, mitte lihtsalt tunnistamist, et šokk on kohal.",
+    "sourceHash": "209d059caf20f713",
+    "stale": false
+  },
+  "prerequisites": [
+    "cardiovascular-system-anatomy-and-physiology"
+  ]
+}

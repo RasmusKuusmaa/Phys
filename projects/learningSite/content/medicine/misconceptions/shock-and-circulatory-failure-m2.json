@@ -1,0 +1,10 @@
+{
+  "id": "shock-and-circulatory-failure-m2",
+  "conceptId": "shock-and-circulatory-failure",
+  "text": {
+    "en": "In septic shock, blood pressure falls because the patient has lost blood volume, the same mechanism as bleeding -- in reality, septic shock is a distributive shock: blood volume itself is typically normal, but bacterial toxins trigger massive inflammatory vasodilation, so the same total blood volume is now spread across an abnormally enlarged vascular space, unable to maintain adequate pressure -- a fundamentally different mechanism from the volume loss that causes hypovolemic shock.",
+    "et": "Septilises šokis langeb vererõhk seetõttu, et patsient on kaotanud vere mahtu, sama mehhanism nagu verejooksu puhul -- tegelikult on septiline šokk distributiivne šokk: vere maht ise on tüüpiliselt normaalne, kuid bakteriaalsed toksiinid käivitavad massiivse põletikulise vasodilatatsiooni, mistõttu sama kogu vere maht on nüüd levinud ebanormaalselt suurenenud veresoonte ruumis, suutmata säilitada piisavat rõhku -- põhimõtteliselt erinev mehhanism kui vere mahu kaotus, mis põhjustab hüpovoleemilist šokki.",
+    "sourceHash": "889166eb656d541b",
+    "stale": false
+  }
+}

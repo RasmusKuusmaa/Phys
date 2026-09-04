@@ -1,0 +1,10 @@
+{
+  "id": "shock-and-circulatory-failure-m1",
+  "conceptId": "shock-and-circulatory-failure",
+  "text": {
+    "en": "Shock always means the heart itself has failed as a pump -- in reality, cardiogenic shock (pump failure) is only one of four mechanistically distinct categories; hypovolemic shock arises from inadequate blood volume with a perfectly functional heart, distributive shock arises from excessive vessel dilation with a normal heart and normal blood volume, and obstructive shock arises from a physical blockage to flow despite normal heart function and blood volume.",
+    "et": "Šokk tähendab alati, et süda ise on pumbana ebaõnnestunud -- tegelikult on kardiogeenne šokk (pumba rike) vaid üks neljast mehhanistlikult erinevast kategooriast; hüpovoleemiline šokk tekib ebapiisavast vere mahust täiesti funktsionaalse südamega, distributiivne šokk tekib liigsest veresoonte laienemisest normaalse südame ja normaalse vere mahuga, ning obstruktiivne šokk tekib voolu füüsilisest blokaadist hoolimata normaalsest südamefunktsioonist ja vere mahust.",
+    "sourceHash": "5849bf7858a974a3",
+    "stale": false
+  }
+}

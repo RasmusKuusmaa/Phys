@@ -1,0 +1,56 @@
+{
+  "id": "shock-and-circulatory-failure-item1",
+  "conceptId": "shock-and-circulatory-failure",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient in septic shock has a normal blood volume and a heart that is contracting normally, yet has dangerously low blood pressure and poor tissue perfusion. What is the most likely underlying mechanism?",
+    "et": "Septilises šokis patsiendil on normaalne vere maht ja normaalselt kokku tõmbuv süda, kuid ohtlikult madal vererõhk ja halb koe perfusioon. Mis on kõige tõenäolisem aluseks olev mehhanism?",
+    "sourceHash": "f9b2d3c3016c288c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Massive inflammatory vasodilation has expanded the vascular space, so the same total blood volume can no longer maintain adequate pressure within it -- distributive shock.",
+        "et": "Massiivne põletikuline vasodilatatsioon on laiendanud veresoonte ruumi, mistõttu sama kogu vere maht ei suuda enam selle sees piisavat rõhku säilitada -- distributiivne šokk.",
+        "sourceHash": "cc54b4edf3347620",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The patient must actually be losing blood volume somewhere undetected, since low blood pressure always indicates volume loss.",
+        "et": "Patsient peab tegelikult kusagil märkamatult verd kaotama, kuna madal vererõhk viitab alati mahu kaotusele.",
+        "sourceHash": "c1a71b6b0a6cc87f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "shock-and-circulatory-failure-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This must be a volume-loss problem identical in mechanism to hemorrhagic shock, just triggered by infection instead of bleeding.",
+        "et": "See peab olema mahu kaotuse probleem, mille mehhanism on identne hemorraagilise šokiga, ainult et see on käivitatud infektsioonist, mitte verejooksust.",
+        "sourceHash": "450428d976bc4816",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "shock-and-circulatory-failure-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since all shock types share the same low-blood-pressure endpoint, the specific mechanism doesn't actually need to be identified before addressing it.",
+        "et": "Kuna kõik šoki tüübid jagavad sama madala vererõhu lõpp-punkti, ei ole konkreetset mehhanismi tegelikult vaja enne käsitlemist tuvastada.",
+        "sourceHash": "8b05d8c2c7140f95",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "shock-and-circulatory-failure-m3"
+    }
+  ]
+}
