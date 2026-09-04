@@ -1,0 +1,56 @@
+{
+  "id": "manufacturing-processes-item1",
+  "conceptId": "manufacturing-processes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A company needs 50 complex, geometrically intricate metal brackets. Which statement about choosing a manufacturing process is correct?",
+    "et": "Ettevõte vajab 50 keerulise, geomeetriliselt keeruka metallist kinniti. Milline väide tootmisprotsessi valiku kohta on õige?",
+    "sourceHash": "d0025b44d133a50f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Additive manufacturing is likely economical here specifically because of the low volume and geometric complexity (no tooling cost), even though it would typically lose to casting or forming at much higher production volumes.",
+        "et": "Aditiivtootmine on siin tõenäoliselt majanduslikult tasuv just väikese mahu ja geomeetrilise keerukuse tõttu (tööriistakulu puudumine), kuigi see jääks tavaliselt alla valamisele või survetöötlusele palju suuremate tootmismahtude juures.",
+        "sourceHash": "dd0862cba3166687",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Additive manufacturing is simply the best choice now for any part, at any volume, since it has made older processes obsolete.",
+        "et": "Aditiivtootmine on nüüd lihtsalt parim valik iga osa jaoks, mistahes mahu juures, kuna see on muutnud vanemad protsessid iganenuks.",
+        "sourceHash": "a5c40f5e35ed8fd6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "manufacturing-processes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't really matter whether they choose casting or machining, since both processes produce essentially the same result.",
+        "et": "Pole tegelikult vahet, kas valida valamine või lõiketöötlus, kuna mõlemad protsessid annavad sisuliselt sama tulemuse.",
+        "sourceHash": "38eeecd919d9aa62",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "manufacturing-processes-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The manufacturing process can be decided later, since manufacturing is just building whatever the finished design specifies.",
+        "et": "Tootmisprotsessi saab otsustada hiljem, kuna tootmine on lihtsalt valmis disaini spetsifikatsiooni järgi ehitamine.",
+        "sourceHash": "9e3089ffef7d2e1a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "manufacturing-processes-m3"
+    }
+  ]
+}

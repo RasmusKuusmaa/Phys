@@ -1,0 +1,19 @@
+{
+  "id": "manufacturing-processes",
+  "subject": "general-engineering",
+  "level": "L1",
+  "module": "engineering-fundamentals",
+  "title": {
+    "en": "Manufacturing processes",
+    "et": "Tootmisprotsessid",
+    "sourceHash": "ee8deecaaf2c979b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Turning a design into a physical part means choosing among fundamentally different ways of shaping material, and each family of processes carries its own genuine tradeoffs rather than one simply superseding the others: casting shapes a part by pouring or forcing molten (or otherwise flowable) material into a mold, economical for complex shapes at high volume once tooling cost is amortized, but limited in achievable dimensional precision and surface finish; machining removes material from a solid workpiece with a cutting tool, achieving much tighter tolerances and finishes at the cost of wasted material and slower production for very complex geometry; forming reshapes a solid piece of material (typically metal) through applied force without removing or adding material, exploiting the material's own ductility; and additive manufacturing builds a part up layer by layer directly from a digital model, trading a tooling cost of essentially zero and design freedom for complex internal geometry against slower per-part production and generally higher unit cost at large volumes.",
+    "et": "Disaini füüsiliseks osaks muutmine tähendab valimist põhimõtteliselt erinevate materjali vormimise viiside vahel ning igal protsesside perekonnal on omad tegelikud kompromissid, mitte lihtsalt see, et üks asendab teised: valamine vormib osa, valades või survestades sulanud (või muul viisil voolava) materjali vormi, mis on majanduslikult tasuv keeruliste kujudega suure mahu juures, kui tööriistakulu on piisavalt osade peale jaotatud, kuid piiratud saavutatava mõõtmetäpsuse ja pinnaviimistlusega; lõiketöötlus eemaldab materjali tahkest töödeldavast detailist lõikeriistaga, saavutades palju täpsemad tolerantsid ja viimistluse, kuid materjali raiskamise ja aeglasema tootmise hinnaga väga keerulise geomeetria puhul; survetöötlus muudab tahke materjali (tavaliselt metalli) kuju rakendatud jõu abil ilma materjali eemaldamata või lisamata, kasutades ära materjali enda venivust; ning aditiivtootmine ehitab osa üles kihthaaval otse digitaalsest mudelist, vahetades sisuliselt olematu tööriistakulu ja vabaduse keeruka sisemise geomeetria kujundamisel aeglasema osa-kohase tootmise ja üldiselt kõrgema ühikuhinna vastu suurte mahtude juures.",
+    "sourceHash": "e608406d1120e437",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "manufacturing-processes-m1",
+  "conceptId": "manufacturing-processes",
+  "text": {
+    "en": "Believing additive manufacturing (3D printing) is now a strictly superior, universal replacement for casting, machining, and forming -- each process has a genuine niche: additive manufacturing excels at low-volume, geometrically complex, tooling-free parts, but is typically slower per part and more expensive at high production volumes than casting or forming, which remain the economical choice once tooling cost is amortized over enough units.",
+    "et": "Arvamus, et aditiivtootmine (3D-printimine) on nüüdseks universaalne, kõigist teistest parem asendus valamisele, lõiketöötlusele ja survetöötlusele -- igal protsessil on oma tegelik nišš: aditiivtootmine särab väikesemahulisel, geomeetriliselt keerukal ja tööriistavabal tootmisel, kuid on tavaliselt osa kohta aeglasem ja suurte tootmismahtude juures kallim kui valamine või survetöötlus, mis jäävad majanduslikult tasuvaks, kui tööriistakulu on piisava arvu ühikute peale jaotatud.",
+    "sourceHash": "db8110de8c56998f",
+    "stale": false
+  }
+}

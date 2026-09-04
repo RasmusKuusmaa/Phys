@@ -1,0 +1,10 @@
+{
+  "id": "manufacturing-processes-m2",
+  "conceptId": "manufacturing-processes",
+  "text": {
+    "en": "Believing casting and machining are essentially interchangeable ways to reach the same final part, with process choice being just a matter of which factory happens to have the equipment -- casting shapes a part by solidifying molten material in a mold (economical for complex shapes at volume, but limited dimensional precision and surface finish), while machining removes material from solid stock (much tighter tolerances and finish, but wasteful of material and slower for very complex internal geometry), so process choice follows directly from what the part actually needs.",
+    "et": "Arvamus, et valamine ja lõiketöötlus on sisuliselt vahetatavad viisid sama lõpp-osa saavutamiseks, protsessi valik olevat lihtsalt küsimus, millisel tehasel juhtub olema sobiv seade -- valamine vormib osa, valades sulanud materjali vormi (majanduslikult tasuv keeruliste kujude jaoks suure mahu juures, kuid piiratud mõõtmetäpsuse ja pinnaviimistlusega), samas kui lõiketöötlus eemaldab materjali tahkest toormest (palju täpsemad tolerantsid ja viimistlus, kuid materjali raiskamise ja aeglasema tootmise hinnaga väga keeruka sisemise geomeetria puhul), mistõttu protsessi valik tuleneb otse sellest, mida osa tegelikult vajab.",
+    "sourceHash": "db0552071bc3c3c9",
+    "stale": false
+  }
+}

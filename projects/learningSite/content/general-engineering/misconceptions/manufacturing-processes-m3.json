@@ -1,0 +1,10 @@
+{
+  "id": "manufacturing-processes-m3",
+  "conceptId": "manufacturing-processes",
+  "text": {
+    "en": "Believing a manufacturing process only needs to be chosen once a design is finalized, since manufacturing is 'just building what was designed' -- which process will make a part strongly constrains what shapes, tolerances, and material properties are achievable at reasonable cost, so real designs are developed with a manufacturing process already in mind (design for manufacturability), not handed to manufacturing as an afterthought.",
+    "et": "Arvamus, et tootmisprotsessi tuleb valida alles siis, kui disain on lõplik, kuna tootmine on 'lihtsalt disainitu ehitamine' -- see, milline protsess osa valmistab, piirab tugevalt, milliseid kujusid, tolerantse ja materjaliomadusi on mõistliku hinnaga võimalik saavutada, mistõttu reaalsed disainid arendatakse juba tootmisprotsessi silmas pidades (tootmissõbralik disain), mitte ei anta tootmisele hilinenud järelmõttena üle.",
+    "sourceHash": "a13a8835b8d58b62",
+    "stale": false
+  }
+}
