@@ -188,15 +188,32 @@ icing/environmental effects. Same "close the gaps the last phase surfaced
 before judging comprehensive" move the chemistry phase's C4 sweep (Hess's
 law, chromatography) made.
 
-- [ ] Launch vehicle systems and staging (multi-stage rocket design, mass
+- [x] Launch vehicle systems and staging (multi-stage rocket design, mass
       fractions across stages, staging optimisation — the Tsiolkovsky
       equation and specific impulse are already covered per-stage in
       `propulsion-fundamentals`/`advanced-propulsion-and-specific-impulse`,
       but multi-stage *systems* tradeoffs are not; prerequisites:
-      propulsion-fundamentals, advanced-propulsion-and-specific-impulse)
-- [ ] Aircraft icing and environmental effects (ice accretion on airfoils
+      propulsion-fundamentals, advanced-propulsion-and-specific-impulse;
+      kept conceptual — the staging-optimisation argument is a reasoning
+      concept, not a single clean numeric relationship distinct from the
+      Tsiolkovsky equation already formalised in propulsion-fundamentals)
+- [x] Aircraft icing and environmental effects (ice accretion on airfoils
       and its effect on lift/drag, anti-icing and de-icing systems;
-      prerequisite: aerodynamics-fundamentals)
+      prerequisite: aerodynamics-fundamentals; kept conceptual)
+
+Phase AE4 complete: 18 aerospace-engineering concepts total (2 new closing-
+gap concepts on top of the 16-concept Phase AE1-AE3 baseline). Authored
+directly rather than via another fork, since only two concepts remained.
+`npm run validate:content` (7 subjects, 507 concepts), `npm run
+lint:terminology` (250 glossary terms — no new terms needed, both concepts
+reused existing force/mass/velocity-family entries), `npm run typecheck`,
+and the full test suite (150/150) all pass; every resource URL verified
+live with `curl`. One Estonian resource is honestly-adjacent rather than a
+topic-exact match: `aircraft-icing-and-environmental-effects` links to
+"Lennundusmeteoroloogia" (aviation meteorology) since Estonian Wikipedia has
+no dedicated aircraft-icing article, same kind of adjustment the GE3 phase
+recorded for exergy and vibrations. With this phase, aerospace-engineering
+is judged comprehensive — see `QUESTIONS.md`.
 
 Phase AE2 complete: 11 aerospace-engineering concepts total (5 new Phase-AE2
 concepts on top of the 6-concept Phase AE1 baseline). `npm run
