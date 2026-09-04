@@ -1,0 +1,56 @@
+{
+  "id": "clinical-trial-design-and-statistical-significance-item1",
+  "conceptId": "clinical-trial-design-and-statistical-significance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A small clinical trial of a new drug finds a difference between treatment and control groups that does not reach statistical significance (p = 0.12). What is the most accurate interpretation of this result?",
+    "et": "Väike uue ravimi kliiniline uuring leiab ravi- ja kontrollrühma vahel erinevuse, mis ei jõua statistilise olulisuseni (p = 0,12). Milline on selle tulemuse kõige täpsem tõlgendus?",
+    "sourceHash": "7d35a35cf5f361ab",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The result is inconclusive — it could mean the drug truly has no effect, or it could mean the trial was too small (underpowered) to reliably detect a real effect of the size the drug actually has.",
+        "et": "Tulemus on lõpliku otsuseta -- see võib tähendada, et ravimil tõepoolest efekti ei ole, või see võib tähendada, et uuring oli liiga väike (ebapiisava statistilise võimsusega), et usaldusväärselt tuvastada tõeline efekt sellises suuruses, nagu ravimil tegelikult on.",
+        "sourceHash": "0a1ebf1953eec7fd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The drug has been proven not to work, since failing to reach the conventional p < 0.05 threshold is definitive evidence of no effect.",
+        "et": "Ravim on tõestatult mittetoimiv, kuna tavapärase p < 0,05 läve mittesaavutamine on lõplik tõend efekti puudumisest.",
+        "sourceHash": "b093ed8cae551837",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "clinical-trial-design-and-statistical-significance-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Since the trial was presumably randomized, blinding wasn't necessary and doesn't affect how trustworthy this result is.",
+        "et": "Kuna uuring oli eeldatavasti juhuslikustatud, ei olnud pimendamine vajalik ega mõjuta selle tulemuse usaldusväärsust.",
+        "sourceHash": "cba084e13e5c1809",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "clinical-trial-design-and-statistical-significance-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The result would have been guaranteed clinically important if it had reached statistical significance, since statistical significance and clinical importance always coincide.",
+        "et": "Tulemus oleks olnud garanteeritult kliiniliselt oluline, kui see oleks jõudnud statistilise olulisuseni, kuna statistiline olulisus ja kliiniline tähtsus alati kattuvad.",
+        "sourceHash": "758a40d0a6d5ab69",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "clinical-trial-design-and-statistical-significance-m2"
+    }
+  ]
+}

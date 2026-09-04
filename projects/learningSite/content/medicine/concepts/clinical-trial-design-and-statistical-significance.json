@@ -1,0 +1,21 @@
+{
+  "id": "clinical-trial-design-and-statistical-significance",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "biostatistics-and-epidemiology",
+  "title": {
+    "en": "Clinical trial design and statistical significance",
+    "et": "Kliinilise uuringu disain ja statistiline olulisus",
+    "sourceHash": "15580357982c9f2b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Turning a treatment idea into trustworthy evidence requires more than just comparing a treatment group to a control group -- it requires design choices that specifically defend against the ways that comparison can mislead. Randomization, assigning participants to treatment or control by chance, is what makes the two groups comparable in the first place, balancing confounders on average; blinding, keeping participants and/or the researchers assessing outcomes unaware of who received which treatment, prevents expectation and bias from distorting either how participants report symptoms or how researchers judge outcomes, with a double-blind trial (both participants and assessors unaware) generally stronger evidence than a single-blind or open-label one. A trial's result is typically summarized with a p-value, which answers a narrow, specific question -- if the treatment truly had no effect, how likely would a difference this large (or larger) be to occur by chance alone -- and a conventional but arbitrary threshold (often 0.05) is used to call a result 'statistically significant,' while a confidence interval around the estimated effect size communicates, additionally, how precisely that effect was measured, which a p-value alone does not. Crucially, statistical significance is not the same thing as practical or clinical importance: a very large trial can find a real but tiny, clinically meaningless effect statistically significant, while a smaller trial might fail to reach statistical significance for a real, clinically important effect simply because it lacked statistical power -- the ability to detect a true effect of a given size -- which depends heavily on how many participants were enrolled.",
+    "et": "Ravi idee muutmine usaldusväärseks tõendiks nõuab enamat kui lihtsalt ravirühma võrdlemist kontrollrühmaga -- see nõuab disainiotsuseid, mis kaitsevad spetsiifiliselt viiside eest, kuidas see võrdlus eksitada saab. Juhuslikustamine, osalejate määramine ravi- või kontrollrühma juhuse alusel, muudabki kaks rühma üldse võrreldavaks, tasakaalustades segavaid tegureid keskmiselt; pimendamine, hoides osalejaid ja/või tulemusi hindavaid teadlasi teadmatuses selle kohta, kes millist ravi sai, takistab ootuste ja nihke moonutamast kas seda, kuidas osalejad sümptomeid raporteerivad, või seda, kuidas teadlased tulemusi hindavad, kusjuures topeltpime uuring (nii osalejad kui hindajad teadmatuses) on üldiselt tugevam tõend kui ühekordselt pime või avatud uuring. Uuringu tulemust kokkuvõtab tavaliselt p-väärtus, mis vastab kitsale, konkreetsele küsimusele -- kui ravil tõepoolest efekti ei oleks, kui tõenäoline oleks nii suur (või suurem) erinevus tekkida ainuüksi juhuse tõttu -- ning tavapärast, kuid suvalist läve (sageli 0,05) kasutatakse tulemuse statistiliselt oluliseks nimetamiseks, samas kui hinnatud efekti suuruse ümber olev usaldusvahemik annab lisaks edasi, kui täpselt see efekt mõõdeti, mida p-väärtus üksi ei tee. Otsustavalt ei ole statistiline olulisus sama, mis praktiline või kliiniline tähtsus: väga suur uuring võib leida tõelise, kuid pisikese, kliiniliselt tähendusetu efekti statistiliselt oluliseks, samas kui väiksem uuring võib jääda statistilisest olulisusest ilma tõelise, kliiniliselt olulise efekti puhul lihtsalt seetõttu, et tal puudus statistiline võimsus -- võime tuvastada antud suurusega tõeline efekt --, mis sõltub suuresti sellest, kui palju osalejaid kaasati.",
+    "sourceHash": "d62295a778a49039",
+    "stale": false
+  },
+  "prerequisites": [
+    "study-design-in-clinical-research"
+  ]
+}

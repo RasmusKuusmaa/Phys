@@ -1,0 +1,10 @@
+{
+  "id": "clinical-trial-design-and-statistical-significance-m1",
+  "conceptId": "clinical-trial-design-and-statistical-significance",
+  "text": {
+    "en": "Randomization and blinding solve the same problem, so a trial that randomizes participants doesn't also need to be blinded -- in reality, randomization balances confounders between groups at the moment of assignment, but does nothing to prevent bias introduced afterward: if participants or assessors know who got the real treatment, that knowledge can distort self-reported symptoms or outcome judgments even in a perfectly randomized trial, which is exactly the separate problem blinding addresses.",
+    "et": "Juhuslikustamine ja pimendamine lahendavad sama probleemi, mistõttu uuring, mis juhuslikustab osalejaid, ei vaja ka pimendamist -- tegelikult tasakaalustab juhuslikustamine segavad tegurid rühmade vahel määramise hetkel, kuid ei tee midagi hiljem tekkiva nihke ennetamiseks: kui osalejad või hindajad teavad, kes sai tegeliku ravi, võib see teadmine moonutada omaraporteeritud sümptomeid või tulemuste hindamist isegi täiuslikult juhuslikustatud uuringus, mis ongi täpselt see eraldiseisev probleem, mida pimendamine lahendab.",
+    "sourceHash": "f1e79b189480ce75",
+    "stale": false
+  }
+}

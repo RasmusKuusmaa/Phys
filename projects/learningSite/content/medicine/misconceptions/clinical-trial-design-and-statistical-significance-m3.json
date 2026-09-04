@@ -1,0 +1,10 @@
+{
+  "id": "clinical-trial-design-and-statistical-significance-m3",
+  "conceptId": "clinical-trial-design-and-statistical-significance",
+  "text": {
+    "en": "A trial that fails to reach statistical significance proves the treatment doesn't work -- in reality, failing to reach statistical significance can mean the treatment truly has no effect, but it can equally mean the trial was underpowered -- too small or too short to reliably detect a real effect of the size the treatment actually has -- so a 'negative' small trial is often better described as inconclusive than as proof of no effect.",
+    "et": "Uuring, mis ei jõua statistilise olulisuseni, tõestab, et ravi ei toimi -- tegelikult võib statistilise olulisuseni mittejõudmine tähendada, et ravil tõepoolest efekti ei ole, kuid see võib sama hästi tähendada, et uuringul puudus piisav statistiline võimsus -- see oli liiga väike või lühike, et usaldusväärselt tuvastada tõeline efekt sellises suuruses, nagu ravil tegelikult on --, mistõttu 'negatiivset' väikest uuringut on tihti õigem kirjeldada lõpliku tulemuseta kui efekti puudumise tõendina.",
+    "sourceHash": "4f40b27ead77eead",
+    "stale": false
+  }
+}

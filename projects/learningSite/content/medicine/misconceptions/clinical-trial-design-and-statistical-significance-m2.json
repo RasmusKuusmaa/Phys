@@ -1,0 +1,10 @@
+{
+  "id": "clinical-trial-design-and-statistical-significance-m2",
+  "conceptId": "clinical-trial-design-and-statistical-significance",
+  "text": {
+    "en": "A statistically significant result (p < 0.05) means the treatment effect is large enough to matter clinically -- in reality, statistical significance only means the observed difference is unlikely to be due to chance alone if the treatment truly had no effect; a large enough trial can make even a tiny, clinically meaningless effect statistically significant, so a result can be statistically significant without being practically important, and vice versa.",
+    "et": "Statistiliselt oluline tulemus (p < 0,05) tähendab, et ravi efekt on piisavalt suur, et kliiniliselt oluline olla -- tegelikult tähendab statistiline olulisus ainult seda, et täheldatud erinevus on ebatõenäoline tekkida ainuüksi juhuse tõttu, kui ravil tõepoolest efekti ei oleks; piisavalt suur uuring võib muuta isegi pisikese, kliiniliselt tähendusetu efekti statistiliselt oluliseks, mistõttu tulemus võib olla statistiliselt oluline, olemata praktiliselt tähtis, ja vastupidi.",
+    "sourceHash": "b051c43c60fca6df",
+    "stale": false
+  }
+}
