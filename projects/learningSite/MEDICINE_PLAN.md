@@ -627,28 +627,59 @@ all pass; every resource URL verified live with `curl`.
 
 ### Module `respiratory-medicine`
 
-- [ ] Obstructive lung disease mechanisms (asthma and COPD mechanisms,
+- [x] Obstructive lung disease mechanisms (asthma and COPD mechanisms,
       airway resistance; prerequisite: respiratory-system-anatomy-and-
-      physiology)
-- [ ] Restrictive lung disease mechanisms (pulmonary fibrosis mechanism,
+      physiology; kept conceptual)
+- [x] Restrictive lung disease mechanisms (pulmonary fibrosis mechanism,
       reduced lung compliance; prerequisite: respiratory-system-anatomy-
-      and-physiology)
-- [ ] Pneumonia and lower respiratory infection mechanisms (the mechanism
+      and-physiology; kept conceptual)
+- [x] Pneumonia and lower respiratory infection mechanisms (the mechanism
       of alveolar consolidation — the lung-specific pathophysiology layer
       on top of microbiology's general host-pathogen-interactions-and-
       virulence concept, not a restatement of it; prerequisites:
       respiratory-system-anatomy-and-physiology, host-pathogen-
-      interactions-and-virulence)
-- [ ] Respiratory failure and gas exchange abnormalities (hypoxemic vs.
+      interactions-and-virulence; kept conceptual)
+- [x] Respiratory failure and gas exchange abnormalities (hypoxemic vs.
       hypercapnic respiratory failure, ventilation-perfusion mismatch,
-      shunt, diffusion limitation — a genuine formula candidate, e.g. the
-      alveolar gas equation or A-a gradient; prerequisite: respiratory-
-      system-anatomy-and-physiology)
-- [ ] Pulmonary vascular disease (pulmonary embolism mechanism, pulmonary
-      hypertension; prerequisite: thrombosis-embolism-and-infarction)
-- [ ] Control of breathing and its disorders (central and peripheral
+      shunt, diffusion limitation; prerequisite: respiratory-system-
+      anatomy-and-physiology; kept conceptual — the unit registry
+      (`src/lib/units/registry.ts`) has no mmHg or kPa pressure unit, only
+      Pa, and an A-a-gradient/alveolar-gas-equation formula in pascals
+      would read as unrealistic for a blood-gas quantity conventionally
+      reported in mmHg; same reasoning Phase AE3 and the cardiovascular-
+      medicine module used for their own missing-unit cases)
+- [x] Pulmonary vascular disease (pulmonary embolism mechanism, pulmonary
+      hypertension; prerequisite: thrombosis-embolism-and-infarction; kept
+      conceptual)
+- [x] Control of breathing and its disorders (central and peripheral
       chemoreceptors, the sleep apnea mechanism; prerequisites:
       respiratory-system-anatomy-and-physiology, the-peripheral-and-
-      autonomic-nervous-systems)
+      autonomic-nervous-systems; kept conceptual)
+
+Module complete: 6 respiratory-medicine concepts, authored directly by the
+coordinator (same reason as the cardiovascular-medicine module — forking is
+unavailable from inside a forked worker). All kept conceptual: each
+concept's real content is a mechanistic distinction (reversible inflammation
+vs. irreversible structural damage, reduced compliance vs. increased
+resistance, alveolar consolidation, hypoxemic vs. hypercapnic failure,
+embolism vs. chronic vascular narrowing, central vs. peripheral chemo-
+receptor dominance) rather than a single clean numeric relationship; the one
+plausible formula candidate (gas-exchange concept) was skipped for the
+missing-pressure-unit reason above. `npm run validate:content` (9 subjects,
+594 concepts), `npm run lint:terminology` (266 glossary terms), and
+`npm run typecheck` all pass; every resource URL verified live with `curl`.
+Two Estonian resources are honest close/adjacent matches rather than
+exact-topic matches, since Estonian Wikipedia has no dedicated article at
+these exact scopes: `restrictive-lung-disease-mechanisms` links to
+"Fibroos" (fibrosis generally, not a dedicated pulmonary-fibrosis article)
+and `pulmonary-vascular-disease` links to "Äge pulmokardiaalne puudulikkus"
+(acute pulmonary-cardiac failure, the closest existing article to a
+dedicated pulmonary-embolism one).
+
+Phase Med6 complete: 72 medicine concepts total (12 new Phase-Med6 concepts
+on top of the 60-concept Phase Med1-Med5 baseline) — the first two
+organ-system-pathophysiology modules. `npm run validate:content` (9
+subjects, 594 concepts), `npm run lint:terminology` (266 glossary terms),
+and `npm run typecheck` all pass; working tree clean.
 
 ---
