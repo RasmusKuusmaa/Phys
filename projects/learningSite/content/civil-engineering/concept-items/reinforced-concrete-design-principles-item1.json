@@ -1,0 +1,56 @@
+{
+  "id": "reinforced-concrete-design-principles-item1",
+  "conceptId": "reinforced-concrete-design-principles",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A simply-supported concrete beam sags under gravity load, developing tension along its bottom face and compression along its top face. Where must the steel reinforcement be placed for it to actually resist this bending?",
+    "et": "Vabalt toetatud betoontala vajub gravitatsioonikoormuse all, arendades tõmmet mööda oma alumist pinda ja survet mööda oma ülemist pinda. Kuhu tuleb terassarrus paigutada, et see tegelikult sellele paindele vastu seisaks?",
+    "sourceHash": "1edba4adb5123d32",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Along the bottom (tension) side of the beam, since reinforcement only resists the tension a member actually develops where it's placed, and does essentially nothing against tension if placed on the compression side instead.",
+        "et": "Mööda tala alumist (tõmbe) poolt, kuna sarrus seisab vastu ainult tõmbele, mida element seal, kuhu see on paigutatud, tegelikult arendab, ja ei anna sisuliselt midagi tõmbe vastu, kui see paigutatakse survepoolele.",
+        "sourceHash": "2043101b2a1d3b1b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Anywhere within the concrete cross-section, as long as the total amount of steel is correct -- placement relative to tension/compression doesn't meaningfully affect performance.",
+        "et": "Kuskile betooni ristlõikesse, kuni terase kogus on õige -- paigutus tõmbe/surve suhtes ei mõjuta oluliselt jõudlust.",
+        "sourceHash": "281feef03caeaf55",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reinforced-concrete-design-principles-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Reinforcement isn't strictly necessary here at all, since plain concrete's tensile strength is close enough to its compressive strength to carry ordinary bending loads unreinforced.",
+        "et": "Sarrus pole siin üldse rangelt vajalik, kuna puhta betooni tõmbetugevus on piisavalt lähedal selle survetugevusele, et kanda tavalisi paindekoormusi sarrustamata.",
+        "sourceHash": "07f024faba42aba6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reinforced-concrete-design-principles-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Anywhere is fine as long as it's not near the surface, since surface-adjacent rebar would corrode at the same rate as exposed steel regardless of the concrete's chemistry.",
+        "et": "Kuskile sobib, kuni see pole pinna lähedal, kuna pinnalähedane sarrus roosteks samas tempos kui katmata teras, sõltumata betooni keemiast.",
+        "sourceHash": "76e7c5809301c577",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reinforced-concrete-design-principles-m3"
+    }
+  ]
+}

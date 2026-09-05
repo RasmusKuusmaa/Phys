@@ -1,0 +1,10 @@
+{
+  "id": "reinforced-concrete-design-principles-m3",
+  "conceptId": "reinforced-concrete-design-principles",
+  "text": {
+    "en": "Steel reinforcement embedded in concrete rusts at the same rate steel exposed to open air would, so reinforced concrete has the same corrosion vulnerability as exposed steel -- in reality, concrete's high alkalinity forms a thin passive oxide layer on embedded steel that strongly resists corrosion, as long as the concrete cover surrounding the rebar stays intact and uncracked.",
+    "et": "Betooni sisse valatud teraskarkass roostetab samas tempos, nagu roostetaks avatud õhu käes olev teras, mistõttu raudbetoonil on sama korrosioonihaavatavus kui katmata terasel -- tegelikult moodustab betooni kõrge aluselisus sarrusele õhukese passiivse oksiidikihi, mis on tugevalt korrosioonikindel, kuni sarrust ümbritsev betoonikate jääb terveks ja pragunemata.",
+    "sourceHash": "f19b73b11a3183dc",
+    "stale": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "reinforced-concrete-design-principles",
+  "subject": "civil-engineering",
+  "level": "L2",
+  "module": "civil-engineering-fundamentals",
+  "title": {
+    "en": "Reinforced concrete design principles",
+    "et": "Raudbetooni projekteerimise põhimõtted",
+    "sourceHash": "29dabc703d9e006a",
+    "stale": false
+  },
+  "summary": {
+    "en": "Plain concrete is a genuinely asymmetric structural material: it resists compression extremely well but its tensile strength is only a small fraction of its compressive strength, so a beam made of plain concrete alone cracks and fails on its tension side at a small fraction of the load it could otherwise carry in pure compression. Reinforced concrete solves this by embedding steel reinforcing bars (rebar) in the regions of a concrete member that experience tension, so the two materials divide the work along their own strengths: concrete carries the compressive force and steel carries the tensile force, with the bond between the two materials transferring load between them as the member bends. This is only a workable partnership because concrete and steel happen to share a very similar coefficient of thermal expansion, so the composite member expands and contracts together across temperature changes without the internal cracking a large thermal mismatch would otherwise cause, and because concrete's high alkalinity forms a passive protective layer on embedded steel that resists corrosion, as long as the concrete cover itself stays intact. Placing the reinforcement correctly, on the tension side of a bending member, is not a minor detail; rebar placed on the wrong side of a beam does essentially nothing to resist the tension the beam will actually develop.",
+    "et": "Puhas betoon on tõeliselt asümmeetriline konstruktsioonimaterjal: see talub survet erakordselt hästi, kuid selle tõmbetugevus on vaid väike osa selle survetugevusest, mistõttu puhtast betoonist tala praguneb ja puruneb oma tõmbepoolel murdosa koormuse juures, mida see muidu puhta surve all kanda suudaks. Raudbetoon lahendab selle, paigutades betoonelemendi tõmbepiirkondadesse terasest sarrusvardad, nii et kaks materjali jagavad tööd vastavalt oma tugevustele: betoon kannab survejõudu ja teras kannab tõmbejõudu, kusjuures kahe materjali vaheline nakkuvus kannab koormust nende vahel üle, kui element paindub. See on toimiv partnerlus vaid seetõttu, et betoonil ja terasel on juhtumisi väga sarnane soojuspaisumistegur, nii et komposiitelement paisub ja tõmbub temperatuurimuutustel kokku üheskoos, ilma sisemise pragunemiseta, mida suur soojuspaisumise erinevus muidu põhjustaks, ning seetõttu, et betooni kõrge aluselisus moodustab sarrusele passiivse kaitsekihi, mis on korrosioonikindel, kuni betoonikate ise jääb terveks. Sarruse õige paigutus, elemendi tõmbepoolele, ei ole väike detail; valel poolel talas paiknev sarrus ei anna sisuliselt midagi vastu tõmbele, mida tala tegelikult arendab.",
+    "sourceHash": "c69fcbb658d6dc04",
+    "stale": false
+  },
+  "prerequisites": []
+}

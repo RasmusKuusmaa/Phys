@@ -1,0 +1,10 @@
+{
+  "id": "reinforced-concrete-design-principles-m1",
+  "conceptId": "reinforced-concrete-design-principles",
+  "text": {
+    "en": "Concrete alone is strong enough in tension for most structural members; steel reinforcement is just an extra margin of safety, not something concrete actually needs to avoid failing at low load -- in reality, plain concrete's tensile strength is only roughly a tenth of its compressive strength, so an unreinforced concrete beam cracks and fails on its tension side at a small fraction of the load it could carry in pure compression -- reinforcement is what allows the member to actually resist bending loads at all.",
+    "et": "Puhas betoon on enamiku konstruktsioonielementide jaoks piisavalt tugev tõmbes; teraskarkass on lihtsalt lisaturvavaru, mitte miski, mida betoon tegelikult vajaks madala koormuse juures purunemise vältimiseks -- tegelikult on puhta betooni tõmbetugevus vaid ligikaudu kümnendik selle survetugevusest, mistõttu sarrustamata betoontala praguneb ja puruneb oma tõmbepoolel murdosa koormuse juures, mida see puhta surve all kanda suudaks -- sarrus on see, mis võimaldab elemendil üldse painutuskoormustele vastu seista.",
+    "sourceHash": "47406accf717db58",
+    "stale": false
+  }
+}

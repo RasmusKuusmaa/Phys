@@ -1,0 +1,10 @@
+{
+  "id": "reinforced-concrete-design-principles-m2",
+  "conceptId": "reinforced-concrete-design-principles",
+  "text": {
+    "en": "It doesn't matter which side of a concrete beam the reinforcing steel is placed on, as long as the right amount of steel is embedded somewhere in the concrete -- in reality, reinforcement only resists the tension a bending member actually develops if it is placed on the tension side of that member; rebar placed on the compression side instead does essentially nothing to prevent the tensile cracking/failure the member is actually vulnerable to.",
+    "et": "Pole vahet, kummale poole betoontala teraskarkass paigutatakse, kuni õige kogus terast on kuskil betooni sisse valatud -- tegelikult vastab sarrus paindeelemendi tegelikult arendatavale tõmbele ainult siis, kui see paigutatakse selle elemendi tõmbepoolele; survepoolele paigutatud sarrus ei anna sisuliselt midagi elemendi tegeliku haavatavuse -- tõmbepragunemise/purunemise -- vältimiseks.",
+    "sourceHash": "a54de973768b84a8",
+    "stale": false
+  }
+}
