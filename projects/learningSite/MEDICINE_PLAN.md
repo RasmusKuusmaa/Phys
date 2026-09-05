@@ -1000,4 +1000,78 @@ general "Allergia" article (no dedicated atopic-dermatitis article exists)
 and `skin-infection-mechanisms` links to "Mükoos" (fungal infection
 generally, one of the three pathogen categories the concept covers).
 
+Phase Med9 complete: 108 medicine concepts total (12 new Phase-Med9
+concepts on top of the 96-concept Phase Med1-Med8 baseline) — the seventh
+and eighth organ-system-pathophysiology modules. Both forks stayed strictly
+within their directive again. `npm run validate:content` (9 subjects, 630
+concepts), `npm run lint:terminology` (266 glossary terms), and `npm run
+typecheck` all pass; working tree clean.
+
+## Phase Med10 — infectious disease (clinical syndromes), and psychiatry/
+## behavioral medicine
+
+Two more modules, six concepts each, coordinator-dispatched parallel forks
+(roadmap items 19-20). `infectious-disease` builds clinical-syndrome depth
+on top of the existing `microbiology` module (bacterial/viral/fungal/
+parasitic structure and mechanism) rather than restating pathogen biology —
+this module is organized by syndrome/organ system, the way the organ-system
+pathophysiology modules from Med6-Med9 are, not by pathogen taxonomy again.
+`psychiatry-and-behavioral-medicine` is a genuinely new area for this
+subject — it builds on `neuroscience` (Med5) rather than restating it,
+covering the specific circuits/neurotransmitter systems implicated in each
+condition category at a mechanistic level, explicitly not a diagnostic
+manual (no DSM-style criteria checklists).
+
+### Module `infectious-disease`
+
+- [ ] Sepsis and systemic inflammatory response mechanisms (how a local
+      infection becomes a systemic, life-threatening inflammatory cascade;
+      prerequisites: host-pathogen-interactions-and-virulence,
+      innate-immunity-and-inflammation)
+- [ ] Healthcare-associated and opportunistic infection mechanisms (why
+      immunocompromised hosts and healthcare settings favor specific
+      pathogens; prerequisites: immunodeficiency-and-immune-evasion,
+      antimicrobial-mechanisms-and-resistance)
+- [ ] Vector-borne and zoonotic disease mechanisms (how pathogens exploit
+      an animal/insect vector or reservoir to reach human hosts; no
+      prerequisites)
+- [ ] Central nervous system infection mechanisms (meningitis vs.
+      encephalitis as mechanistically distinct patterns of CNS infection;
+      prerequisites: the-central-nervous-system-brain-structure-and-
+      function, host-pathogen-interactions-and-virulence)
+- [ ] Endocarditis and intravascular infection mechanisms (how pathogens
+      establish infection on a heart valve or vascular surface, and why
+      that site is mechanistically unusual for clearance; prerequisite:
+      cardiovascular-system-anatomy-and-physiology)
+- [ ] Antimicrobial stewardship and resistance at the population level
+      (how resistance spreads across a population/healthcare system, not
+      just within one bacterium — building on the existing molecular-level
+      antimicrobial-mechanisms-and-resistance concept; prerequisite:
+      antimicrobial-mechanisms-and-resistance)
+
+### Module `psychiatry-and-behavioral-medicine`
+
+- [ ] Mood disorder mechanisms (the monoamine and circuit-level hypotheses
+      for depression and bipolar disorder, and their real evidentiary
+      limits — not a diagnostic-criteria reference; prerequisite:
+      synaptic-transmission-and-neurotransmitters)
+- [ ] Anxiety disorder mechanisms (amygdala/fear-circuit function, the
+      autonomic nervous system's role in the anxiety response;
+      prerequisites: the-peripheral-and-autonomic-nervous-systems,
+      the-central-nervous-system-brain-structure-and-function)
+- [ ] Psychotic disorder mechanisms (the dopamine hypothesis of psychosis
+      and its limits, at a mechanistic level; prerequisite: synaptic-
+      transmission-and-neurotransmitters)
+- [ ] Substance use disorder mechanisms (the reward-circuit/dopamine
+      mechanism common to addictive substances, tolerance and withdrawal
+      as neuroadaptation; prerequisite: synaptic-transmission-and-
+      neurotransmitters)
+- [ ] Stress, the HPA axis, and psychosomatic mechanisms (how chronic
+      psychological stress produces measurable physiological effects via
+      the HPA axis; prerequisite: adrenal-gland-physiology)
+- [ ] Sleep and circadian disorders in a clinical context (insomnia and
+      circadian-rhythm-disorder mechanisms at a clinical depth beyond
+      biohacking's applied sleep-optimization concept; prerequisite:
+      the-central-nervous-system-brain-structure-and-function)
+
 ---
