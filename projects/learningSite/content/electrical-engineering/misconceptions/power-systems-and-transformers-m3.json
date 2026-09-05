@@ -1,0 +1,10 @@
+{
+  "id": "power-systems-and-transformers-m3",
+  "conceptId": "power-systems-and-transformers",
+  "text": {
+    "en": "Three-phase power is just three separate single-phase circuits bundled together for convenience, with no functional advantage over single-phase -- in reality, three sinusoidal currents offset by 120 degrees deliver constant total power to a balanced load rather than power that pulses twice per cycle the way single-phase does, and this same phase offset lets three-phase motors produce smooth, self-starting torque without the extra starting circuitry a single-phase motor needs.",
+    "et": "Kolmefaasiline energia on lihtsalt kolm eraldi üksikfaasilist skeemi, mis on mugavuse mõttes kokku pandud, ilma funktsionaalse eeliseta üksikfaasi ees -- tegelikult annavad kolm siinusvoolu, mis on nihkes 120 kraadi võrra, tasakaalustatud koormusele pideva kogu-võimsuse, selle asemel et anda võimsust, mis pulseerib kaks korda tsükli jooksul, nagu üksikfaas, ning see sama faasinihe lubab kolmefaasilistel mootoritel toota sujuvat, iseenesest käivituvat pöördemomenti ilma lisa käivitusskeemita, mida üksikfaasiline mootor vajab.",
+    "sourceHash": "98b14bdf4ab7406d",
+    "stale": false
+  }
+}

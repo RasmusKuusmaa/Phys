@@ -1,0 +1,10 @@
+{
+  "id": "power-systems-and-transformers-m2",
+  "conceptId": "power-systems-and-transformers",
+  "text": {
+    "en": "Power is transmitted at very high voltage mainly for safety reasons, or arbitrarily, with no real efficiency benefit -- in reality, high transmission voltage is specifically an efficiency measure -- resistive power loss in a transmission line scales with the square of the current, so raising the voltage (which lowers the current needed to deliver the same power) cuts resistive losses dramatically.",
+    "et": "Energiat edastatakse väga kõrgel pingel peamiselt ohutuse pärast või meelevaldselt, ilma tegeliku tõhususe kasuta -- tegelikult on kõrge edastuspinge spetsiifiliselt tõhususmeede -- takistuslik võimsuskadu edastusliinis skaleerub voolu ruuduga, mistõttu pinge tõstmine (mis vähendab sama võimsuse edastamiseks vajalikku voolu) vähendab takistuslikke kadusid dramaatiliselt.",
+    "sourceHash": "bf03352077d5f93b",
+    "stale": false
+  }
+}

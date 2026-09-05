@@ -1,0 +1,56 @@
+{
+  "id": "power-systems-and-transformers-item1",
+  "conceptId": "power-systems-and-transformers",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A transformer steps voltage up from 120 V to 2400 V on a power line. What must be true of the current on each side, and why?",
+    "et": "Trafo tõstab pinget 120 V-lt 2400 V-le energialiinil. Mis peab kehtima voolu kohta kummalgi poolel ja miks?",
+    "sourceHash": "bf14542a126b5808",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The current on the 2400 V side must be 20 times smaller than on the 120 V side, since an ideal transformer conserves power -- a voltage step-up of a given ratio requires a current step-down in exactly that same ratio.",
+        "et": "Vool 2400 V poolel peab olema 20 korda väiksem kui 120 V poolel, kuna ideaalne trafo säilitab võimsuse -- antud suhtega pinge tõstmine nõuab voolu langetamist täpselt samas suhtes.",
+        "sourceHash": "56b9be98374e2088",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The current can be anything, including equal to or higher than the primary current, since the transformer supplies additional power along with the voltage increase.",
+        "et": "Vool võib olla mistahes, sealhulgas võrdne primaarvooluga või sellest suurem, kuna trafo pakub koos pinge tõusuga täiendavat võimsust.",
+        "sourceHash": "af8215b7f41324c4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "power-systems-and-transformers-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The current doesn't necessarily change in a fixed relationship with voltage, since the voltage step-up is done mainly to satisfy safety regulations rather than for any efficiency-driven reason.",
+        "et": "Vool ei muutu tingimata kindlas suhtes pingega, kuna pinge tõstmine tehakse peamiselt ohutusnõuete täitmiseks, mitte tõhususest lähtudes.",
+        "sourceHash": "e21d331fde9f5437",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "power-systems-and-transformers-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The current relationship only holds if the transformer is being used in a three-phase system; single-phase transformers don't conserve power the same way.",
+        "et": "Voolu suhe kehtib ainult siis, kui trafot kasutatakse kolmefaasilises süsteemis; üksikfaasilised trafod ei säilita võimsust samal viisil.",
+        "sourceHash": "25b877c6d67ee8eb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "power-systems-and-transformers-m3"
+    }
+  ]
+}

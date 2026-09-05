@@ -1,0 +1,45 @@
+{
+  "id": "power-systems-and-transformers-solve-v2",
+  "formulaId": "power-systems-and-transformers-formula1",
+  "variables": [
+    {
+      "symbol": "V1",
+      "min": 100,
+      "max": 500,
+      "unit": "V",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "N1",
+      "min": 50,
+      "max": 500,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "N2",
+      "min": 50,
+      "max": 2000,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "V1",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "N1",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "N2",
+      "right": 0
+    }
+  ],
+  "solveFor": "V2"
+}

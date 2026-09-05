@@ -1,0 +1,10 @@
+{
+  "id": "power-systems-and-transformers-m1",
+  "conceptId": "power-systems-and-transformers",
+  "text": {
+    "en": "A step-up transformer increases the amount of electrical power delivered, creating more power than went in -- in reality, an ideal transformer conserves power -- it trades voltage for current in inverse proportion (a step-up in voltage always comes with a corresponding step-down in current, and vice versa), so the power delivered to the secondary side is, at most, equal to the power supplied to the primary side, never more.",
+    "et": "Pinget tõstev trafo suurendab edastatava elektrienergia hulka, luues rohkem võimsust, kui sisse läks -- tegelikult säilitab ideaalne trafo võimsuse -- see vahetab pinge voolu vastu pöördvõrdeliselt (pinge tõstmisega kaasneb alati vastav voolu langetamine, ja vastupidi), mistõttu sekundaarpoolele edastatav võimsus on kõige rohkem võrdne primaarpoolele antud võimsusega, mitte kunagi suurem.",
+    "sourceHash": "ec447d74711c3400",
+    "stale": false
+  }
+}

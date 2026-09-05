@@ -1,0 +1,19 @@
+{
+  "id": "power-systems-and-transformers",
+  "subject": "electrical-engineering",
+  "level": "L2",
+  "module": "electrical-engineering-fundamentals",
+  "title": {
+    "en": "Power systems and transformers",
+    "et": "Energiasüsteemid ja trafod",
+    "sourceHash": "2d3e100a4d7cf2c7",
+    "stale": false
+  },
+  "summary": {
+    "en": "Electrical power is transmitted over long distances at very high voltage specifically to minimize the resistive power loss that occurs in the transmission line itself, since that loss scales with the square of the current, not the voltage -- doubling the transmission voltage while delivering the same power halves the current and so cuts resistive losses to a quarter, which is exactly why a power grid steps voltage up dramatically for transmission and back down again for safe use in homes and factories. A transformer performs that stepping with no moving parts and, ideally, no energy loss at all, by exploiting electromagnetic induction: an alternating current in a primary coil wound around a shared iron core creates a changing magnetic flux, and that changing flux induces a voltage in a secondary coil wound around the same core, with the two coils' voltages set by nothing more than the ratio of how many turns of wire each one has -- twice as many turns on the secondary side as the primary produces twice the secondary voltage. Because an ideal transformer conserves power, that voltage step-up necessarily comes with a corresponding current step-down in exactly the same ratio, which is the actual physical tradeoff being made, not free lunch. Most power grids also generate, transmit, and distribute power as three-phase AC rather than single-phase, since three sinusoidal currents offset by 120 degrees from each other deliver constant total power to a balanced load rather than power that pulses on and off twice per cycle, as single-phase delivers, and let three-phase motors produce smooth torque without the extra circuitry a single-phase motor needs just to get started turning.",
+    "et": "Elektrienergiat edastatakse pikkadel vahemaadel väga kõrgel pingel just selleks, et minimeerida takistuslikku energiakadu, mis tekib edastusliinis endas, kuna see kadu skaleerub voolu ruuduga, mitte pingega -- edastuspinge kahekordistamine, edastades sama võimsust, poolitab voolu ja kärbib seega takistuslikud kaod veerandini, mis ongi täpselt põhjus, miks energiavõrk tõstab edastuseks pinget dramaatiliselt ja langetab selle tagasi ohutuks kasutamiseks kodudes ja tehastes. Trafo teostab seda astmestamist ilma liikuvate osadeta ja ideaalis ilma igasuguse energiakaota, ära kasutades elektromagnetilist induktsiooni: vahelduvvool primaarpoolis, mis on keritud jagatud raudsüdamiku ümber, tekitab muutuva magnetvoo, ning see muutuv voog indutseerib pinge sekundaarpoolis, mis on keritud sama südamiku ümber, kusjuures mõlema mähise pinged on määratud vaid selle poolt, mitu keerdu traati kummalgi on -- kaks korda rohkem keerde sekundaarpoolel kui primaarpoolel tekitab kaks korda suurema sekundaarpinge. Kuna ideaalne trafo säilitab võimsuse, kaasneb selle pinge tõstmisega paratamatult vastav voolu langetamine täpselt samas suhtes, mis ongi tegelik füüsikaline kompromiss, mitte tasuta lõuna. Enamik energiavõrke toodavad, edastavad ja jaotavad energiat ka kolmefaasilise vahelduvvooluna, mitte üksikfaasilisena, kuna kolm siinusvoolu, mis on üksteise suhtes nihkes 120 kraadi võrra, annavad tasakaalustatud koormusele pideva kogu-võimsuse, selle asemel et anda võimsust, mis pulseerib sisse ja välja kaks korda tsükli jooksul, nagu üksikfaas annab, ning lubavad kolmefaasilistel mootoritel toota sujuvat pöördemomenti ilma lisaskeemita, mida üksikfaasiline mootor vajab lihtsalt pöörlema hakkamiseks.",
+    "sourceHash": "4e2e6b66da83dd15",
+    "stale": false
+  },
+  "prerequisites": []
+}

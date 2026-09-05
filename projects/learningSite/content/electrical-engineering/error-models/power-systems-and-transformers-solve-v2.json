@@ -1,0 +1,37 @@
+{
+  "id": "power-systems-and-transformers-solve-v2",
+  "formulaId": "power-systems-and-transformers-formula1",
+  "solveFor": "V2",
+  "mistakes": [
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Inverted the turns ratio, multiplying by N1/N2 instead of N2/N1.",
+        "et": "Pööras keerdude suhte ümber, korrutades N1/N2, selle asemel et korrutada N2/N1.",
+        "sourceHash": "f5b80a0048736c46",
+        "stale": false
+      },
+      "expression": "V1*N1/N2"
+    },
+    {
+      "id": "used-v1-alone",
+      "description": {
+        "en": "Used the primary voltage alone as if it were already the secondary voltage, ignoring the turns ratio entirely.",
+        "et": "Kasutas primaarpinget üksi, nagu see oleks juba sekundaarpinge, jättes keerdude suhte täielikult arvestamata.",
+        "sourceHash": "d18275e1604318b9",
+        "stale": false
+      },
+      "expression": "V1"
+    },
+    {
+      "id": "added-instead-of-multiplied",
+      "description": {
+        "en": "Added the turns difference to the primary voltage instead of multiplying by the turns ratio.",
+        "et": "Liitis keerdude erinevuse primaarpingele, selle asemel et korrutada keerdude suhtega.",
+        "sourceHash": "d471c300775dd7f7",
+        "stale": false
+      },
+      "expression": "V1 + N2 - N1"
+    }
+  ]
+}

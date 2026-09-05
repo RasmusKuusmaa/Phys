@@ -1,0 +1,59 @@
+{
+  "id": "power-systems-and-transformers-formula1",
+  "conceptId": "power-systems-and-transformers",
+  "latex": "\\frac{V_1}{V_2} = \\frac{N_1}{N_2}",
+  "symbols": [
+    {
+      "symbol": "V1",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    },
+    {
+      "symbol": "V2",
+      "name": {
+        "en": "voltage",
+        "et": "pinge",
+        "sourceHash": "01112e706d9eaf72",
+        "stale": false
+      },
+      "unit": "V"
+    },
+    {
+      "symbol": "N1",
+      "name": {
+        "en": "number of turns",
+        "et": "keerdude arv",
+        "sourceHash": "2b6be97973763c41",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "N2",
+      "name": {
+        "en": "number of turns",
+        "et": "keerdude arv",
+        "sourceHash": "2b6be97973763c41",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "V1",
+    "V2",
+    "N1",
+    "N2"
+  ],
+  "expressions": {
+    "V1": "V2*N1/N2",
+    "V2": "V1*N2/N1",
+    "N1": "V1*N2/V2",
+    "N2": "V2*N1/V1"
+  }
+}
