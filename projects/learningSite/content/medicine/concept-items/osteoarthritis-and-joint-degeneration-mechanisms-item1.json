@@ -1,0 +1,56 @@
+{
+  "id": "osteoarthritis-and-joint-degeneration-mechanisms-item1",
+  "conceptId": "osteoarthritis-and-joint-degeneration-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does osteoarthritis typically develop gradually and concentrate in specific joints that bore the most cumulative mechanical load, rather than appearing symmetrically across many joints at once?",
+    "et": "Miks areneb osteoartroos tavaliselt järkjärguliselt ja koondub konkreetsetesse liigestesse, mis kandsid kõige rohkem kumulatiivset mehaanilist koormust, selle asemel et ilmneda sümmeetriliselt paljudes liigestes korraga?",
+    "sourceHash": "0f9b1909bc9683fb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because its driving mechanism is cumulative mechanical stress overwhelming a local cartilage-repair system in each joint individually, not a systemic immune process attacking joint tissue everywhere at once.",
+        "et": "Sest selle peamine mehhanism on kumulatiivne mehaaniline stress, mis ületab iga liigese enda kohaliku kõhre parandussüsteemi, mitte süsteemne immuunprotsess, mis ründab liigesekude kõikjal korraga.",
+        "sourceHash": "5ff7d3c2f8b1987a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because it is simply a milder form of rheumatoid arthritis, and milder disease naturally affects fewer joints.",
+        "et": "Sest see on lihtsalt reumatoidartriidi kergem vorm ning kergem haigus mõjutab loomulikult vähem liigeseid.",
+        "sourceHash": "5bb7a4c5c6d37ab5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "osteoarthritis-and-joint-degeneration-mechanisms-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because cartilage is like a mechanical part that wears down through simple friction, and different joints experience different amounts of friction.",
+        "et": "Sest kõhr on nagu mehaaniline detail, mis kulub lihtsa hõõrdumise tõttu, ning erinevad liigesed kogevad erineval määral hõõrdumist.",
+        "sourceHash": "1229add24b1ee9ab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "osteoarthritis-and-joint-degeneration-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the joints affected are simply the ones where the body hasn't been given enough dietary cartilage-building nutrients.",
+        "et": "Sest mõjutatud liigesed on lihtsalt need, millele keha pole saanud piisavalt toitumisest pärit kõhre-ehitusaineid.",
+        "sourceHash": "8aa37a5126683d4e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "osteoarthritis-and-joint-degeneration-mechanisms-m2"
+    }
+  ]
+}

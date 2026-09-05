@@ -1,0 +1,21 @@
+{
+  "id": "osteoarthritis-and-joint-degeneration-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "musculoskeletal-medicine-and-rheumatology",
+  "title": {
+    "en": "Osteoarthritis and joint degeneration mechanisms",
+    "et": "Osteoartroos ja liigese degeneratsiooni mehhanismid",
+    "sourceHash": "92a967317c2487d8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Cartilage covering the ends of bones in a synovial joint has no blood supply and very limited capacity for self-repair, so it depends entirely on chondrocytes -- the sparse cells embedded within it -- to slowly maintain the cartilage matrix against the wear imposed by a lifetime of joint loading; osteoarthritis develops when this maintenance balance tips toward net breakdown, whether from cumulative mechanical stress (obesity, joint malalignment, repetitive occupational loading), age-related decline in chondrocyte repair capacity, or prior joint injury that damaged the cartilage surface directly, and once cartilage loss begins, the exposed subchondral bone and low-grade inflammatory mediators released by stressed chondrocytes accelerate further breakdown in a self-reinforcing cycle rather than a one-time injury that simply stops. This mechanism is fundamentally different from an autoimmune joint disease: osteoarthritis's driving process is mechanical wear and a failing local repair system, not the immune system mistakenly attacking joint tissue, which is why its onset is typically gradual, asymmetric, and concentrated in the specific joints that bore the most cumulative load, rather than the symmetric, inflammatory pattern of an autoimmune arthritis.",
+    "et": "Kõhr, mis katab luude otsi sünoviaalliigeses, ei oma verevarustust ja selle enesetervendamise võime on väga piiratud, mistõttu see sõltub täielikult kondrotsüütidest -- selle sees paiknevatest hõredatest rakkudest --, kes hoolitsevad aeglaselt kõhremaatriksi säilimise eest kogu elu kestva liigesekoormuse tekitatud kulumise vastu; osteoartroos tekib siis, kui see hoolduse tasakaal kaldub netolagunemise poole, olgu selle põhjuseks kumulatiivne mehaaniline stress (rasvumine, liigese valestaandumine, korduv tööalane koormus), vanusega seotud kondrotsüütide parandusvõime langus või varasem liigesevigastus, mis kahjustas kõhrepinda otseselt, ning kord alanud kõhrekaotus kiirendab paljastunud subkondraalse luu ja stressis kondrotsüütide vabastatud madala astme põletikuliste vahendajate tõttu edasist lagunemist iseennast võimendavas tsüklis, mitte ühekordse vigastusena, mis lihtsalt lakkab. See mehhanism erineb põhimõtteliselt autoimmuunsest liigesehaigusest: osteoartroosi peamine protsess on mehaaniline kulumine ja ebaõnnestuv kohalik parandussüsteem, mitte immuunsüsteemi ekslik rünnak liigesekoe vastu, mistõttu selle algus on tavaliselt järkjärguline, asümmeetriline ja koondunud konkreetsetesse liigestesse, mis kandsid kõige rohkem kumulatiivset koormust, mitte autoimmuunse artriidi sümmeetriline, põletikuline muster.",
+    "sourceHash": "05153261f1b737e4",
+    "stale": false
+  },
+  "prerequisites": [
+    "skeletal-system-anatomy-and-physiology"
+  ]
+}
