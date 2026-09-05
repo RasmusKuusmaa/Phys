@@ -60,26 +60,48 @@ Single module for now (`environmental-science-fundamentals`), same
 one-module-through-later-phases pattern every new subject on this site has
 started with.
 
-- [ ] Biogeochemical cycles (the carbon, nitrogen, water, and phosphorus
+- [x] Biogeochemical cycles (the carbon, nitrogen, water, and phosphorus
       cycles as biosphere-level systems; no prerequisites — the unifying
-      systems framework the rest of this subject builds on)
-- [ ] Pollution and environmental contamination (air, water, and soil
+      systems framework the rest of this subject builds on; kept
+      conceptual)
+- [x] Pollution and environmental contamination (air, water, and soil
       pollution mechanisms, and bioaccumulation/biomagnification through
-      a food web; no prerequisites)
-- [ ] Conservation biology and extinction mechanisms (habitat
+      a food web; no prerequisites; kept conceptual)
+- [x] Conservation biology and extinction mechanisms (habitat
       fragmentation, the mechanisms driving species extinction, and
-      conservation strategies; no prerequisites)
-- [ ] Natural resource management and sustainability (renewable vs.
+      conservation strategies; no prerequisites; kept conceptual)
+- [x] Natural resource management and sustainability (renewable vs.
       non-renewable resources, the sustainable-yield concept; no
-      prerequisites)
-- [ ] Climate change mechanisms and ecological impacts (feedback loops,
+      prerequisites; kept conceptual)
+- [x] Climate change mechanisms and ecological impacts (feedback loops,
       sea-level rise, species range shifts, ocean acidification — the
       ecological/systems consequences layer, distinct from physics's
       existing greenhouse-effect radiative-physics concept; no
-      prerequisites)
-- [ ] Environmental impact assessment and ecological footprint (EIA
+      prerequisites; kept conceptual)
+- [x] Environmental impact assessment and ecological footprint (EIA
       methodology, the ecological-footprint concept applied to human
-      populations — a genuine formula candidate; no prerequisites)
+      populations; no prerequisites; formalised the overshoot ratio,
+      O = F/B (footprint over biocapacity), as a formula + problem
+      template + error model)
+
+Phase EnvSci1 complete: 6 environmental-science concepts. Only
+`environmental-impact-assessment-and-ecological-footprint` got a formula
+(the overshoot ratio, following the factor-of-safety/RR simple-ratio
+pattern already established elsewhere on this site); the rest are
+conceptual/systems-level reasoning, the same balance every prior subject's
+first phase has struck. Three new glossary terms added
+(`overshoot-ratio`, `ecological-footprint`, `biocapacity`, domain
+`environmental-science`); the formula's other unit needs reused the
+existing `area` entry's unit convention (`m^2`). `npm run validate:content`
+(13 subjects, 671 concepts — includes sibling subjects that landed
+concurrently, untouched by this phase), `npm run lint:terminology` (272
+glossary terms), and `npm run typecheck` all pass; every resource URL
+verified live with `curl` — three exact-title Estonian matches found
+("Aineringe" for biogeochemical cycles, "Looduskasutus" for resource
+management, "Keskkonnamõju hindamine" for EIA, "Ökoloogiline jalajälg" for
+ecological footprint terminology) and two honest close matches
+("Meretase"/sea level for the climate-impacts concept, since Estonian
+Wikipedia has no dedicated climate-feedback article).
 
 ## Phase EnvSci2 — not yet planned
 
