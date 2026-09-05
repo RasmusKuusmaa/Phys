@@ -1,0 +1,56 @@
+{
+  "id": "mineralogy-and-mineral-identification-item1",
+  "conceptId": "mineralogy-and-mineral-identification",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two mineral samples look identical in outer surface color, but a geologist scrapes each across an unglazed ceramic plate and gets two clearly different powder colors. What does this most likely indicate?",
+    "et": "Kaks mineraaliproovi näivad välispinna värvuselt identsed, kuid geoloog triibib mõlemat glasuurimata keraamilisel plaadil ja saab kaks selgelt erinevat pulbrivärvi. Mida see kõige tõenäolisemalt näitab?",
+    "sourceHash": "565a0ffc5b302fd5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The two samples are likely different minerals (or the same mineral with very different impurity profiles), since streak reveals a more consistent underlying color than surface appearance, which trace impurities can tint misleadingly similarly.",
+        "et": "Kaks proovi on tõenäoliselt erinevad mineraalid (või sama mineraal väga erinevate lisandiprofiilidega), kuna kriimujoon paljastab järjekindlama alusvärvi kui pinnavälimus, mida jälgmõjuained võivad eksitavalt sarnaselt toonida.",
+        "sourceHash": "4c9d07945bddeaad",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is impossible -- two minerals with identical surface color must always produce identical streak color, so a testing error must have occurred.",
+        "et": "See on võimatu -- kahel identse pinnavärvusega mineraalil peab alati olema identne kriimujoone värvus, seega peab olema tekkinud testimisviga.",
+        "sourceHash": "3e53e8cecc8ec427",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mineralogy-and-mineral-identification-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Streak color is essentially random and carries no diagnostic information, so this difference is not meaningful.",
+        "et": "Kriimujoone värvus on sisuliselt juhuslik ja ei kanna diagnostilist infot, seega ei ole see erinevus tähenduslik.",
+        "sourceHash": "acc8da8392ab1de3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mineralogy-and-mineral-identification-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This only shows that one sample is harder than the other on the Mohs scale, since hardness is what determines streak color.",
+        "et": "See näitab ainult, et üks proov on Mohsi skaalal kõvem kui teine, kuna kõvadus määrab kriimujoone värvuse.",
+        "sourceHash": "3c9076facf6418c8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mineralogy-and-mineral-identification-m3"
+    }
+  ]
+}

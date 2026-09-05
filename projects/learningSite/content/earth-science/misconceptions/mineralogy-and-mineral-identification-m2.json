@@ -1,0 +1,10 @@
+{
+  "id": "mineralogy-and-mineral-identification-m2",
+  "conceptId": "mineralogy-and-mineral-identification",
+  "text": {
+    "en": "A mineral's color (as seen on its outer surface) is the most reliable way to identify it, since two samples of the same mineral should always look the same color -- in reality, surface color is one of the LEAST reliable identification properties, since trace chemical impurities can tint the same mineral species wildly different colors (quartz, for instance, appears colorless, purple, pink, or smoky depending on trace impurities), which is exactly why streak (the color of the powdered mineral) is used instead as a more consistent property.",
+    "et": "Mineraali värvus (nagu see paistab välispinnal) on kõige usaldusväärsem viis selle määramiseks, kuna sama mineraali kaks proovi peaksid alati näima sama värvi -- tegelikult on pinnavärvus ÜKS KÕIGE VÄHEM usaldusväärsemaid määramisomadusi, kuna jälgkeemilised lisandid võivad tooniheldada sama mineraaliliiki metsikult erinevatesse värvidesse (kvarts näiteks võib olla värvitu, lilla, roosa või suitsune sõltuvalt jälgmõjuainetest), mis ongi täpselt põhjus, miks selle asemel kasutatakse järjekindlama omadusena kriimujoont (pulbristatud mineraali värvust).",
+    "sourceHash": "6c75e47e6775e557",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mineralogy-and-mineral-identification",
+  "subject": "earth-science",
+  "level": "L1",
+  "module": "earth-science-fundamentals",
+  "title": {
+    "en": "Mineralogy and mineral identification",
+    "et": "Mineraloogia ja mineraalide määramine",
+    "sourceHash": "8badca9c7e9fa462",
+    "stale": false
+  },
+  "summary": {
+    "en": "A mineral is defined by a specific, orderly internal atomic arrangement -- a crystal structure -- combined with a consistent (though not always perfectly fixed) chemical composition, and that internal structure is what actually determines every physical property a geologist uses to identify a mineral in the field, not the mineral's outward appearance alone, which can vary enormously even within a single mineral species. Hardness, measured on the ten-point Mohs scale by seeing which minerals can scratch which others, reflects how strongly the crystal structure's atomic bonds resist being broken apart -- it is a purely relative, ordinal ranking (mineral 7 scratches mineral 6, and nothing more precise than that), not an absolute measurement of bond strength. Cleavage -- the tendency to break along smooth, flat planes -- exists because a crystal structure has planes of relative weakness running through it in specific directions, so a mineral either has cleavage along particular, predictable planes or it doesn't, and the number and angles of those planes are themselves diagnostic. Streak, the color of a mineral's powder when scraped across an unglazed ceramic plate, is often far more diagnostic than the mineral's surface color, because trace impurities can tint a mineral's outward appearance dramatically while its powdered, freshly-exposed form reveals a more consistent underlying color. Luster -- how a mineral's surface reflects light, described as metallic, glassy, pearly, and so on -- rounds out the standard identification toolkit, and geologists combine several of these properties together rather than relying on any single one, since any individual property can occasionally be shared by multiple different minerals.",
+    "et": "Mineraal on defineeritud spetsiifilise, korrapärase sisemise aatomite paigutuse -- kristallstruktuuri -- kaudu koos järjepideva (kuigi mitte alati täiesti fikseeritud) keemilise koostisega, ning see sisemine struktuur ongi see, mis tegelikult määrab iga füüsikalise omaduse, mida geoloog kasutab mineraali määramiseks looduses, mitte üksnes mineraali välimus, mis võib erineda tohutult isegi ühe mineraaliliigi piires. Kõvadus, mida mõõdetakse kümnepunktilisel Mohsi skaalal, vaadates, millised mineraalid kriimustavad milliseid teisi, peegeldab seda, kui tugevalt kristallstruktuuri aatomsidemed panevad vastu lahtimurdmisele -- see on puhtalt suhteline, järjestikune reastus (mineraal 7 kriimustab mineraali 6, ega midagi täpsemat sellest), mitte sideme tugevuse absoluutne mõõt. Lõhestuvus -- kalduvus murduda sileda, tasapinnalise pinna kaudu -- eksisteerib, sest kristallstruktuuris kulgevad läbi selle kindlas suunas suhtelise nõrkuse tasandid, mistõttu mineraalil kas on lõhestuvus konkreetsete, ennustatavate tasandite kaudu või mitte, ning nende tasandite arv ja nurgad on ise diagnostilised. Kriimujoon, mineraali pulbri värvus, kui seda triibitakse glasuurimata keraamilisel plaadil, on sageli palju diagnostilisem kui mineraali pinnavärvus, kuna jälgmõjuained võivad mineraali välimust dramaatiliselt toonida, samas kui selle pulbristatud, värskelt paljastatud kuju paljastab järjekindlama alusvärvi. Läige -- kuidas mineraali pind valgust peegeldab, kirjeldatuna metalse, klaasja, pärlmutrise ja nii edasi -- täiendab standardset määramistööriistakomplekti, ning geoloogid kombineerivad mitut neist omadustest koos, selle asemel et toetuda ühelegi üksikule, kuna mistahes üksikut omadust võib mõnikord jagada mitu erinevat mineraali.",
+    "sourceHash": "d970d741d0498b01",
+    "stale": false
+  },
+  "prerequisites": [
+    "rock-cycle-and-rock-classification"
+  ]
+}

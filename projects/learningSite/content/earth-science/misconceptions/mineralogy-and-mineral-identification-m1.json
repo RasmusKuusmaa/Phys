@@ -1,0 +1,10 @@
+{
+  "id": "mineralogy-and-mineral-identification-m1",
+  "conceptId": "mineralogy-and-mineral-identification",
+  "text": {
+    "en": "Diamond is simply the single hardest material in existence, and the Mohs scale is an absolute measure of that hardness -- in reality, Mohs hardness is a purely relative, ordinal scratch-test ranking among the ten reference minerals (which mineral can scratch which), not an absolute physical measurement, and materials harder than diamond by other absolute hardness measures do exist; diamond is simply the hardest of the ten specific reference minerals chosen for the scale.",
+    "et": "Teemant on lihtsalt kõige kõvem eksisteeriv materjal ja Mohsi skaala on selle kõvaduse absoluutne mõõt -- tegelikult on Mohsi kõvadus puhtalt suhteline, järjestikune kriimustustesti reastus kümne võrdlusmineraali seas (milline mineraal kriimustab millist), mitte absoluutne füüsikaline mõõt, ning teemandist kõvemad materjalid teiste absoluutsete kõvadusmõõtude järgi tõesti eksisteerivad; teemant on lihtsalt kõige kõvem skaala jaoks valitud kümnest konkreetsest võrdlusmineraalist.",
+    "sourceHash": "b3da3e15ff22ad46",
+    "stale": false
+  }
+}

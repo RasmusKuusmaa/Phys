@@ -1,0 +1,10 @@
+{
+  "id": "mineralogy-and-mineral-identification-m3",
+  "conceptId": "mineralogy-and-mineral-identification",
+  "text": {
+    "en": "Cleavage and fracture are just two words for the same thing -- how a mineral breaks -- so any mineral that breaks into pieces has 'cleavage' -- in reality, cleavage specifically means breaking along smooth, flat, crystallographically predictable planes of weakness inherent to the crystal structure, while fracture describes breaking along irregular, non-planar surfaces (like the curved fracture of quartz); a mineral either has true cleavage planes or it fractures instead, and which one it does is itself a diagnostic property.",
+    "et": "Lõhestuvus ja murd on lihtsalt kaks sõna sama asja kohta -- kuidas mineraal puruneb -- mistõttu igal mineraalil, mis puruneb tükkideks, on 'lõhestuvus' -- tegelikult tähendab lõhestuvus spetsiifiliselt murdumist siledate, tasapinnaliste, kristallograafiliselt ennustatavate nõrkustasandite kaudu, mis on kristallstruktuurile omased, samas kui murd kirjeldab murdumist ebaregulaarsete, mittetasapinnaliste pindade kaudu (nagu kvartsi kõverjoonel murd); mineraalil on kas tõeline lõhestuvus või see hoopis murdub, ning see, kumb neist juhtub, on ise diagnostiline omadus.",
+    "sourceHash": "afee2cc4fa5df0f5",
+    "stale": false
+  }
+}
