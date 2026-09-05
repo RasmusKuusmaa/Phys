@@ -1,0 +1,19 @@
+{
+  "id": "erythropoiesis-and-anemia-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "hematology-and-oncology",
+  "title": {
+    "en": "Erythropoiesis and anemia mechanisms",
+    "et": "Erütropoees ja aneemia mehhanismid",
+    "sourceHash": "83e7e28512734a1e",
+    "stale": false
+  },
+  "summary": {
+    "en": "Red blood cells are continuously produced in the bone marrow through erythropoiesis, a differentiation process driven by erythropoietin (EPO), a hormone released by the kidney in response to low blood oxygen, which stimulates marrow stem cells to mature into oxygen-carrying red cells over about a week; because this production line has several separate steps that can each independently fail, anemia is best understood not as one disease but as a shared downstream symptom (insufficient functional red blood cells) produced by three fundamentally different upstream mechanisms: the marrow simply isn't producing enough red cells (a production problem, from iron/B12/folate deficiency, marrow failure, or insufficient EPO signaling), red cells are being destroyed faster than they can be replaced (hemolysis, from an inherited membrane/enzyme defect, an autoimmune attack, or mechanical trauma), or red cells are being lost outright faster than production can keep up (blood loss, acute or chronic). Distinguishing which of these three mechanisms is driving a given anemia matters enormously, since treating a production problem by, say, giving more iron does nothing for a hemolytic process, and correcting a hemolytic process does nothing for ongoing blood loss.",
+    "et": "Punased verelibled toodetakse pidevalt luuüdis erütropoeesi kaudu, diferentseerumisprotsessi, mida juhib erütropoetiin (EPO), hormoon, mida neer eritab vastusena madalale vere hapnikusisaldusele ning mis stimuleerib luuüdi tüvirakke küpsema hapnikku kandvateks punasteks verelibledeks umbes nädala jooksul; kuna sellel tootmisliinil on mitu eraldi etappi, mis võivad kõik iseseisvalt ebaõnnestuda, on aneemiat kõige parem mõista mitte ühe haigusena, vaid jagatud allavoolu sümptomina (ebapiisav funktsionaalsete punaste vereliblede arv), mida põhjustavad kolm põhimõtteliselt erinevat ülesvoolu mehhanismi: luuüdi lihtsalt ei tooda piisavalt punaseid verelibli (tootmisprobleem, mis tuleneb raua-, B12- või foolhappepuudusest, luuüdi puudulikkusest või ebapiisavast EPO signaalist), punaseid verelibli hävitatakse kiiremini, kui neid suudetakse asendada (hemolüüs, mis tuleneb päritud membraani- või ensüümidefektist, autoimmuunsest rünnakust või mehaanilisest traumast), või punaseid verelibli kaotatakse otseselt kiiremini, kui tootmine suudab sammu pidada (verekaotus, äge või krooniline). Selle kindlaks tegemine, milline neist kolmest mehhanismist konkreetset aneemiat põhjustab, on äärmiselt oluline, sest tootmisprobleemi ravimine näiteks rohkema rauaga ei aita hemolüütilise protsessi korral üldse, ning hemolüütilise protsessi korrigeerimine ei aita jätkuva verekaotuse korral.",
+    "sourceHash": "fc13b96c610d0539",
+    "stale": false
+  },
+  "prerequisites": []
+}

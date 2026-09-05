@@ -1,0 +1,56 @@
+{
+  "id": "erythropoiesis-and-anemia-mechanisms-item1",
+  "conceptId": "erythropoiesis-and-anemia-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient's blood work shows anemia. Why is knowing whether the mechanism is underproduction, hemolysis, or blood loss more clinically important than just detecting that anemia is present at all?",
+    "et": "Patsiendi vereanalüüs näitab aneemiat. Miks on kliiniliselt olulisem teada, kas mehhanism on tootmispuudulikkus, hemolüüs või verekaotus, mitte lihtsalt tuvastada, et aneemia on olemas?",
+    "sourceHash": "5d15944ddf47002f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because each mechanism requires a completely different corrective approach, and a treatment that addresses one (e.g., iron for a production problem) does nothing for the others (e.g., an ongoing hemolytic process or blood loss).",
+        "et": "Sest iga mehhanism vajab täiesti erinevat korrigeerivat lähenemist ning ravi, mis lahendab ühte (nt raud tootmisprobleemi korral), ei aita teiste puhul (nt jätkuv hemolüütiline protsess või verekaotus).",
+        "sourceHash": "8a605d32baf29466",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't especially important, since iron supplementation is the standard first-line treatment that works across all three mechanisms.",
+        "et": "See ei ole eriti oluline, kuna rauapreparaadid on standardne esmavaliku ravi, mis toimib kõigi kolme mehhanismi korral.",
+        "sourceHash": "a174b0c3b5186066",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "erythropoiesis-and-anemia-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It matters only because the bone marrow needs to know internally which of its own production steps to adjust, since erythropoietin is generated within the marrow itself.",
+        "et": "See on oluline ainult seetõttu, et luuüdi peab sisemiselt teadma, millist oma tootmisetappi kohandada, kuna erütropoetiin tekib luuüdis endas.",
+        "sourceHash": "a7d32f209b7c1560",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "erythropoiesis-and-anemia-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It matters only for distinguishing how much blood has physically left the body, since hemolysis and blood loss are just two different rates of the same literal blood-loss process.",
+        "et": "See on oluline ainult selleks, et eristada, kui palju verd on kehast füüsiliselt lahkunud, kuna hemolüüs ja verekaotus on lihtsalt sama otsese verekaotuse protsessi kaks erinevat kiirust.",
+        "sourceHash": "d165ebf979b47ae0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "erythropoiesis-and-anemia-mechanisms-m3"
+    }
+  ]
+}
