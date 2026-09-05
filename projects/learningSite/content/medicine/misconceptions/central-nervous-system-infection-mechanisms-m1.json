@@ -1,0 +1,10 @@
+{
+  "id": "central-nervous-system-infection-mechanisms-m1",
+  "conceptId": "central-nervous-system-infection-mechanisms",
+  "text": {
+    "en": "Meningitis and encephalitis are basically the same infection with different names, both meaning 'brain infection' -- in reality meningitis specifically affects the meninges (the membranes around the brain/spinal cord) and cerebrospinal fluid, not the brain tissue itself, while encephalitis specifically affects the functional brain tissue (parenchyma) itself -- mechanistically distinct compartments, which is why their symptom patterns differ.",
+    "et": "Meningiit ja entsefaliit on sisuliselt sama infektsioon erinevate nimedega, mõlemad tähendavad 'ajuinfektsiooni' -- tegelikult mõjutab meningiit spetsiifiliselt ajukelmeid (aju/seljaaju ümbritsevaid membraane) ja tserebrospinaalvedelikku, mitte ajukude ennast, samal ajal kui entsefaliit mõjutab spetsiifiliselt funktsionaalset ajukude (parenhüümi) ennast -- mehhanistlikult erinevad kambrid, mis ongi põhjus, miks nende sümptomite mustrid erinevad.",
+    "sourceHash": "7ae2c5da9d6f18a6",
+    "stale": false
+  }
+}

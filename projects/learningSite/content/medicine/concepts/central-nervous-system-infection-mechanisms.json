@@ -1,0 +1,22 @@
+{
+  "id": "central-nervous-system-infection-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "infectious-disease",
+  "title": {
+    "en": "Central nervous system infection mechanisms",
+    "et": "Kesknärvisüsteemi infektsioonide mehhanismid",
+    "sourceHash": "c042adaa78a0ebd6",
+    "stale": false
+  },
+  "summary": {
+    "en": "Meningitis and encephalitis both describe infection reaching the central nervous system, but they involve mechanistically distinct tissue compartments with correspondingly different symptom patterns. Meningitis is infection and inflammation of the meninges -- the protective membranes surrounding the brain and spinal cord -- and the cerebrospinal fluid that bathes them, not the brain tissue itself; the resulting symptoms (stiff neck, headache, light sensitivity) come from inflammation and irritation of those membranes and the pressure changes it causes, while the brain's own neurons can remain largely uninvolved, which is why a patient with meningitis can have a pounding headache and stiff neck while still thinking clearly. Encephalitis, in contrast, is infection of the brain parenchyma itself -- the functional neural tissue -- and produces a very different symptom profile because it's the neurons themselves that are being directly damaged or functionally disrupted: altered consciousness, confusion, seizures, and focal neurological deficits reflect actual malfunction of the specific brain circuits the infection has reached, not simply irritation of a surrounding membrane. Both conditions typically require the infecting organism to cross the blood-brain barrier, a physical and biochemical barrier specifically evolved to keep circulating pathogens and toxins out of neural tissue, which is exactly why CNS infections are comparatively rare relative to how often pathogens circulate in the bloodstream, and why the pathogens capable of crossing it (certain bacteria, and viruses like herpes simplex) tend to be a distinctive, limited set rather than whatever happens to be causing a bloodstream infection at the time.",
+    "et": "Meningiit ja entsefaliit kirjeldavad mõlemad infektsiooni jõudmist kesknärvisüsteemi, kuid need hõlmavad mehhanistlikult erinevaid koekambreid, millel on vastavalt erinevad sümptomite mustrid. Meningiit on ajukelmete -- aju ja seljaaju ümbritsevate kaitsvate membraanide -- ja neid ümbritseva tserebrospinaalvedeliku infektsioon ja põletik, mitte ajukoe enda infektsioon; sellest tulenevad sümptomid (kaelakangus, peavalu, valgustundlikkus) tulenevad nende membraanide põletikust ja ärritusest ning sellest tingitud rõhumuutustest, samal ajal kui aju enda neuronid võivad jääda suuresti puutumata, mis ongi põhjus, miks meningiidiga patsiendil võib olla tugev peavalu ja kaelakangus, säilitades samal ajal selge mõtlemise. Entsefaliit seevastu on ajukoe enda -- funktsionaalse närvikoe -- infektsioon ning tekitab väga erineva sümptomiprofiili, sest just neuronid ise saavad otseselt kahjustatud või funktsionaalselt häiritud: teadvuse muutus, segasus, krambid ja fokaalsed neuroloogilised puudujäägid peegeldavad konkreetsete ajuringide tegelikku talitlushäiret, mida infektsioon on tabanud, mitte lihtsalt ümbritseva membraani ärritust. Mõlemad seisundid nõuavad tavaliselt, et nakatav organism läbiks vere-aju barjääri, füüsilise ja biokeemilise barjääri, mis on spetsiaalselt välja arenenud hoidmaks ringlevaid patogeene ja toksiine närvikoest eemal, mis ongi täpselt põhjus, miks kesknärvisüsteemi infektsioonid on suhteliselt haruldased võrreldes sellega, kui sageli patogeenid vereringes ringlevad, ning miks patogeenid, mis suudavad seda ületada (teatud bakterid ja viirused nagu herpes simplex), kalduvad olema eristuv, piiratud hulk, mitte ükskõik mis parasjagu vereringe infektsiooni põhjustab.",
+    "sourceHash": "493ba57bee240a2e",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-central-nervous-system-brain-structure-and-function",
+    "host-pathogen-interactions-and-virulence"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "central-nervous-system-infection-mechanisms-item1",
+  "conceptId": "central-nervous-system-infection-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient has a severe headache, stiff neck, and sensitivity to light, but is fully alert and answers questions clearly. A second patient has confusion, seizures, and altered consciousness. What does this pattern suggest about which CNS compartment is primarily affected in each case?",
+    "et": "Ühel patsiendil on tugev peavalu, kaelakangus ja valgustundlikkus, kuid ta on täiesti erk ja vastab selgelt küsimustele. Teisel patsiendil on segasus, krambid ja muutunud teadvus. Mida see muster viitab selle kohta, milline kesknärvisüsteemi kamber on kummalgi juhul peamiselt mõjutatud?",
+    "sourceHash": "4467fdb0f229f52c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The first pattern suggests meningitis (meninges/CSF inflammation, sparing the neurons' function), while the second suggests encephalitis (the brain parenchyma/neurons themselves directly affected) -- the compartment involved determines the symptom pattern.",
+        "et": "Esimene muster viitab meningiidile (ajukelmete/tserebrospinaalvedeliku põletik, säästes neuronite funktsiooni), samal ajal kui teine viitab entsefaliidile (ajuparenhüüm/neuronid ise on otseselt mõjutatud) -- mõjutatud kamber määrab sümptomite mustri.",
+        "sourceHash": "4d09fdded179aa8a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both patients likely have the same underlying condition, since meningitis and encephalitis are simply two names for the same brain infection process.",
+        "et": "Mõlemal patsiendil on tõenäoliselt sama aluseks olev seisund, kuna meningiit ja entsefaliit on lihtsalt kaks nime samale ajuinfektsiooni protsessile.",
+        "sourceHash": "d63ce53fa6b27238",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "central-nervous-system-infection-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The first patient's clear thinking rules out any CNS infection at all, since any true brain infection should always cause confusion or altered consciousness.",
+        "et": "Esimese patsiendi selge mõtlemine välistab igasuguse kesknärvisüsteemi infektsiooni, kuna iga tõeline ajuinfektsioon peaks alati põhjustama segasust või muutunud teadvust.",
+        "sourceHash": "0002e6a01ca14068",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "central-nervous-system-infection-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since pathogens are frequently present in the bloodstream, both presentations are equally likely regardless of which CNS compartment, if any, is actually involved.",
+        "et": "Kuna patogeenid on vereringes sageli, on mõlemad avaldumisvormid võrdselt tõenäolised, sõltumata sellest, milline kesknärvisüsteemi kamber, kui üldse, on tegelikult mõjutatud.",
+        "sourceHash": "f13a2222dce4c0f3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "central-nervous-system-infection-mechanisms-m3"
+    }
+  ]
+}
