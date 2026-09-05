@@ -1,0 +1,22 @@
+{
+  "id": "osteoporosis-and-bone-remodeling-disorders",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "musculoskeletal-medicine-and-rheumatology",
+  "title": {
+    "en": "Osteoporosis and bone remodeling disorders",
+    "et": "Osteoporoos ja luu remodelleerumise häired",
+    "sourceHash": "e8f80609d297d85f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Bone is continuously remodeled throughout life by a coupled cycle -- osteoclasts resorb old or microdamaged bone, and osteoblasts then rebuild new bone in its place -- and osteoporosis develops specifically when this coupling becomes unbalanced toward net resorption, so that bone mineral density and structural strength decline even though the remodeling machinery itself is functioning, not broken. The most common driver is the loss of estrogen's restraining effect on osteoclast activity after menopause, which is why postmenopausal women are the classic (though not the only) population affected; other genuine drivers include hyperparathyroidism (parathyroid hormone directly stimulates bone resorption to raise blood calcium, at the skeleton's expense if chronically elevated), prolonged glucocorticoid use, and mechanical disuse, since bone density also declines when it is not regularly mechanically loaded. Because the bone that remains is structurally normal but present in reduced quantity and with degraded microarchitecture, osteoporotic bone fractures more easily under loads a healthy skeleton would tolerate without difficulty -- the disease's real danger is this fracture risk, not any pain or symptom the reduced density itself produces before a fracture occurs.",
+    "et": "Luud remodelleeritakse kogu elu jooksul pidevalt seotud tsükli kaudu -- osteoklastid resorbeerivad vana või mikrokahjustunud luu ning osteoblastid ehitavad seejärel selle asemele uue luu --, ning osteoporoos tekib täpselt siis, kui see seotus muutub tasakaalustamatuks netoresorptsiooni suunas, nii et luu mineraaltihedus ja struktuurne tugevus vähenevad, ehkki remodelleerumise masinavärk ise toimib, mitte pole katki. Kõige levinum põhjustaja on östrogeeni pärssiva mõju kadumine osteoklastide aktiivsusele pärast menopausi, mistõttu on postmenopausis naised klassikaline (kuid mitte ainus) mõjutatud rühm; muud tegelikud põhjustajad on hüperparatüreoidism (kõrvalkilpnäärme hormoon stimuleerib otseselt luu resorptsiooni, et tõsta vere kaltsiumitaset, luustiku arvelt, kui see on krooniliselt tõusnud), pikaajaline glükokortikoidide kasutamine ja mehaaniline mittekasutus, kuna luutihedus väheneb ka siis, kui seda regulaarselt mehaaniliselt ei koormata. Kuna allesjäänud luu on struktuurselt normaalne, kuid vähenenud koguses ja halvenenud mikroarhitektuuriga, murdub osteoporootiline luu kergemini koormuste all, mida terve luustik taluks probleemideta -- haiguse tegelik oht on see murdumisrisk, mitte mingi valu või sümptom, mida vähenenud tihedus ise enne murdu põhjustab.",
+    "sourceHash": "97778ab0cc4e1cf9",
+    "stale": false
+  },
+  "prerequisites": [
+    "skeletal-system-anatomy-and-physiology",
+    "thyroid-and-parathyroid-physiology"
+  ]
+}

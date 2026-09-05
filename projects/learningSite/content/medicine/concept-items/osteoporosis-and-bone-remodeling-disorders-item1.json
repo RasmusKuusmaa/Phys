@@ -1,0 +1,56 @@
+{
+  "id": "osteoporosis-and-bone-remodeling-disorders-item1",
+  "conceptId": "osteoporosis-and-bone-remodeling-disorders",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can osteoporotic bone fracture from a fall that wouldn't injure a healthy skeleton, even though the bone tissue that remains is not structurally abnormal at the cellular level?",
+    "et": "Miks võib osteoporootiline luu murduda kukkumisest, mis ei vigastaks tervet luustikku, kuigi allesjäänud luukude ei ole rakulisel tasandil struktuurselt ebanormaalne?",
+    "sourceHash": "d779a8807e18e0a0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the resorption/formation balance has tipped toward net bone loss, leaving reduced bone quantity and degraded microarchitecture that can't bear the same load, even though the remodeling process and the bone tissue itself function normally.",
+        "et": "Sest resorptsiooni/moodustumise tasakaal on kaldunud netoluukao suunas, jättes vähenenud luukoguse ja halvenenud mikroarhitektuuri, mis ei suuda sama koormust taluda, ehkki remodelleerumisprotsess ja luukude ise toimivad normaalselt.",
+        "sourceHash": "96dee35b49964df3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the bone-remodeling process has stopped functioning entirely, leaving old, unrepaired bone in place.",
+        "et": "Sest luu remodelleerumise protsess on täielikult lakanud toimimast, jättes vana, parandamata luu paika.",
+        "sourceHash": "56306bf3bf54c4c4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "osteoporosis-and-bone-remodeling-disorders-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It can't — this pattern only occurs in postmenopausal women, so any other patient's fracture must have a different cause.",
+        "et": "See ei saa nii olla — see muster esineb ainult postmenopausis naistel, seega peab mistahes teise patsiendi murrul olema teine põhjus.",
+        "sourceHash": "9f504a307b44a33a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "osteoporosis-and-bone-remodeling-disorders-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It can't — significant bone density loss would have already caused noticeable bone pain well before a fracture-prone state was reached.",
+        "et": "See ei saa nii olla — märkimisväärne luutiheduse kadu oleks juba põhjustanud märgatavat luuvalu ammu enne murdumisele altiks muutumist.",
+        "sourceHash": "548e81111bfddd8c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "osteoporosis-and-bone-remodeling-disorders-m3"
+    }
+  ]
+}
