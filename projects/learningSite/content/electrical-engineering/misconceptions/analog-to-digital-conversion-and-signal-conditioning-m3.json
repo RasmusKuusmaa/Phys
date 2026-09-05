@@ -1,0 +1,10 @@
+{
+  "id": "analog-to-digital-conversion-and-signal-conditioning-m3",
+  "conceptId": "analog-to-digital-conversion-and-signal-conditioning",
+  "text": {
+    "en": "An ADC/DAC converts perfectly between analog and digital with no loss of information, as long as the sampling rate is high enough -- in reality, even with an ideal sampling rate and perfect anti-aliasing, a real ADC still introduces quantization error -- every analog value gets rounded to the nearest of a finite number of digital levels set by the converter's resolution, an unavoidable, separate source of error from anything related to sampling rate.",
+    "et": "ADC/DAC muundab analoog- ja digitaalvormingu vahel täiuslikult ilma infokaota, kui proovivõtusagedus on piisavalt kõrge -- tegelikult toob isegi ideaalse proovivõtusageduse ja täiusliku antialiseerimise korral reaalne ADC ikkagi kaasa kvantimisvea -- iga analoogväärtus ümardatakse lähima muunduri resolutsiooniga määratud lõpliku digitaalsete tasemete arvu järgi, mis on vältimatu, proovivõtusagedusest eraldiseisev veaallikas.",
+    "sourceHash": "9b8f215cab36b8d3",
+    "stale": false
+  }
+}

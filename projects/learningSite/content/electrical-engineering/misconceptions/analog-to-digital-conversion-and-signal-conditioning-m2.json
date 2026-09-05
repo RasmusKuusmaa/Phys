@@ -1,0 +1,10 @@
+{
+  "id": "analog-to-digital-conversion-and-signal-conditioning-m2",
+  "conceptId": "analog-to-digital-conversion-and-signal-conditioning",
+  "text": {
+    "en": "Once a signal has been digitized with aliasing present, a digital filter applied afterward can remove the aliased frequencies and recover the original signal -- in reality, aliasing destroys information at the moment of sampling -- a high-frequency component that aliases down to a lower frequency becomes genuinely indistinguishable, in the sampled data, from a real signal that was always at that lower frequency, so no filtering applied after sampling can tell them apart or undo the effect.",
+    "et": "Kui signaal on juba digiteeritud aliaseerumisega, saab hiljem rakendatud digitaalfilter aliaseerunud sagedused eemaldada ja algse signaali taastada -- tegelikult hävitab aliaseerumine informatsiooni proovivõtu hetkel -- kõrgsageduslik komponent, mis aliaseerub madalamale sagedusele, muutub proovitud andmetes tõeliselt eristamatuks reaalsest signaalist, mis oli alati sellel madalamal sagedusel, mistõttu ükski pärast proovivõttu rakendatud filter ei suuda neid eristada ega efekti tühistada.",
+    "sourceHash": "3d817779407071e0",
+    "stale": false
+  }
+}

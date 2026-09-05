@@ -1,0 +1,56 @@
+{
+  "id": "analog-to-digital-conversion-and-signal-conditioning-item1",
+  "conceptId": "analog-to-digital-conversion-and-signal-conditioning",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An engineer increases an ADC's sampling rate substantially but doesn't add an anti-aliasing filter. Why might the digitized signal still contain false, aliased frequency content?",
+    "et": "Insener suurendab oluliselt ADC proovivõtusagedust, kuid ei lisa antialiseerimisfiltrit. Miks võib digiteeritud signaal ikkagi sisaldada valet, aliaseerunud sagedussisu?",
+    "sourceHash": "7532b15215e6f604",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because any real signal can contain energy above the new, higher aliasing threshold (from noise or the signal's own high-frequency content), and without an anti-aliasing filter removing that content before sampling, it still folds back into the digitized data as a false lower-frequency signal.",
+        "et": "Sest iga reaalne signaal võib sisaldada energiat uuest, kõrgemast aliaseerumispiirist kõrgemal (mürast või signaali enda kõrgsageduslikust sisust), ning ilma antialiseerimisfiltrita, mis eemaldaks selle sisu enne proovivõttu, murdub see ikkagi tagasi digiteeritud andmetesse vale madalama sagedusega signaalina.",
+        "sourceHash": "9719f05b4c2c4418",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shouldn't -- a sufficiently high sampling rate always eliminates aliasing entirely on its own, regardless of the signal's frequency content or the absence of a filter.",
+        "et": "Ei peaks -- piisavalt kõrge proovivõtusagedus kaotab aliaseerumise alati täielikult iseenesest, sõltumata signaali sagedussisust või filtri puudumisest.",
+        "sourceHash": "fb3f2cb7c90b112d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "analog-to-digital-conversion-and-signal-conditioning-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The aliasing can simply be removed afterward with an appropriate digital filter applied to the sampled data.",
+        "et": "Aliaseerumise saab lihtsalt hiljem eemaldada, rakendades proovitud andmetele sobivat digitaalfiltrit.",
+        "sourceHash": "ad3904d6daff0e07",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "analog-to-digital-conversion-and-signal-conditioning-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the ADC's quantization error, not aliasing, is actually responsible for any false frequency content observed in the digitized signal.",
+        "et": "Sest ADC kvantimisviga, mitte aliaseerumine, vastutab tegelikult digiteeritud signaalis täheldatud vale sagedussisu eest.",
+        "sourceHash": "6cb100b0086227b6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "analog-to-digital-conversion-and-signal-conditioning-m3"
+    }
+  ]
+}

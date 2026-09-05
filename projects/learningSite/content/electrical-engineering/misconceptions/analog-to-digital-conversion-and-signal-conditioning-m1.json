@@ -1,0 +1,10 @@
+{
+  "id": "analog-to-digital-conversion-and-signal-conditioning-m1",
+  "conceptId": "analog-to-digital-conversion-and-signal-conditioning",
+  "text": {
+    "en": "As long as the ADC's sampling rate is high enough, aliasing is automatically avoided without needing any extra filtering -- in reality, a high sampling rate raises the frequency threshold above which aliasing occurs, but it doesn't remove the need for an anti-aliasing filter -- any real-world signal can contain some energy above that threshold, and without an analog low-pass filter removing that content before sampling, it folds back down into the sampled data as an indistinguishable false signal.",
+    "et": "Kui ADC proovivõtusagedus on piisavalt kõrge, väldib see automaatselt aliaseerumist ilma täiendava filtreerimiseta -- tegelikult tõstab kõrge proovivõtusagedus sageduspiiri, millest kõrgemal aliaseerumine tekib, kuid see ei kaota vajadust antialiseerimisfiltri järele -- iga reaalne signaal võib sisaldada energiat sellest piirist kõrgemal, ning ilma analoog-madalpääsfiltrita, mis eemaldaks selle sisu enne proovivõttu, murdub see tagasi proovitud andmetesse eristamatu vale signaalina.",
+    "sourceHash": "8adaa5cc68e4663e",
+    "stale": false
+  }
+}

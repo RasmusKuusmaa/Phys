@@ -1,0 +1,19 @@
+{
+  "id": "analog-to-digital-conversion-and-signal-conditioning",
+  "subject": "electrical-engineering",
+  "level": "L2",
+  "module": "electrical-engineering-fundamentals",
+  "title": {
+    "en": "Analog-to-digital conversion and signal conditioning",
+    "et": "Analoog-digitaalmuundamine ja signaali kohandamine",
+    "sourceHash": "220d1773928516bf",
+    "stale": false
+  },
+  "summary": {
+    "en": "Before a microcontroller or computer can do anything with a real-world analog signal -- a microphone's voltage, a temperature sensor's output -- an analog-to-digital converter (ADC) has to sample that continuously varying voltage at discrete instants and quantize each sample to the nearest of a finite set of digital levels, and getting this right in a real circuit takes more engineering than the sampling theorem alone suggests. Before the signal ever reaches the ADC, an anti-aliasing filter -- an analog low-pass filter placed ahead of the converter -- has to remove any frequency content above half the sampling rate, because once a signal has been sampled, any energy that was present above that limit folds back down and appears as a false, lower-frequency signal that no amount of digital processing afterward can distinguish from a real one or remove; the filtering has to happen in the analog domain, before sampling, precisely because aliasing is created at the moment of sampling itself. On the way back out, a digital-to-analog converter (DAC) reverses the process, producing a staircase-like voltage from a sequence of digital values, and a reconstruction filter smooths that staircase back into a continuous analog waveform. Real ADCs and DACs also introduce quantization error (the gap between an analog value and the nearest digital level it gets rounded to) and are limited by their resolution (how many discrete levels they can distinguish) -- practical, physical constraints on top of the idealized sampling-and-quantizing picture.",
+    "et": "Enne kui mikrokontroller või arvuti saab reaalse maailma analoogsignaaliga -- mikrofoni pinge, temperatuurianduri väljund -- midagi ette võtta, peab analoog-digitaalmuundur (ADC) valima selle pidevalt muutuva pinge diskreetsetel ajahetkedel ning kvantima iga proovi lähima lõpliku digitaalsete tasemete hulga järgi, ning selle õigesti tegemine reaalses skeemis nõuab rohkem inseneritööd, kui proovivõtu teoreem üksi viitab. Enne kui signaal ADC-ni üldse jõuab, peab antialiseerimisfilter -- muunduri ette paigutatud analoog-madalpääsfilter -- eemaldama igasuguse sagedussisu, mis on üle poole proovivõtusagedusest, sest kui signaal on juba proovitud, murdub kogu selle piiri kohal olnud energia tagasi alla ja ilmub valeks, madalama sagedusega signaaliks, mida ükski hilisem digitaalne töötlus ei suuda päris signaalist eristada ega eemaldada; filtreerimine peab toimuma analoogvaldkonnas, enne proovivõttu, just seetõttu, et aliaseerumine tekib proovivõtu enda hetkel. Väljumisteel pöörab digitaal-analoogmuundur (DAC) protsessi ümber, tootes digitaalsete väärtuste jadast treppjas pinge, ning rekonstruktsioonifilter siluvad selle trepi tagasi pidevaks analoogsignaaliks. Reaalsed ADC-d ja DAC-d toovad kaasa ka kvantimisvea (lõhe analoogväärtuse ja lähima digitaalse taseme vahel, milleni see ümardatakse) ning on piiratud oma resolutsiooniga (mitu diskreetset taset need suudavad eristada) -- praktilised, füüsikalised piirangud idealiseeritud proovivõtu-ja-kvantimise pildi peal.",
+    "sourceHash": "73a21ac70a5d6ac0",
+    "stale": false
+  },
+  "prerequisites": []
+}
