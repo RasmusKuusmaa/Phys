@@ -1,0 +1,33 @@
+{
+  "id": "elasticity-and-consumer-behavior-solve-ed",
+  "formulaId": "elasticity-and-consumer-behavior-formula1",
+  "variables": [
+    {
+      "symbol": "dQ",
+      "min": -0.5,
+      "max": -0.05,
+      "unit": "1",
+      "sigFigs": 2
+    },
+    {
+      "symbol": "dP",
+      "min": 0.02,
+      "max": 0.3,
+      "unit": "1",
+      "sigFigs": 2
+    }
+  ],
+  "constraints": [
+    {
+      "op": "lt",
+      "left": "dQ",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "dP",
+      "right": 0
+    }
+  ],
+  "solveFor": "E_d"
+}

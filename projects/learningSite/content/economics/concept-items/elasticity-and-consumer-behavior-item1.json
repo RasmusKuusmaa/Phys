@@ -1,0 +1,56 @@
+{
+  "id": "elasticity-and-consumer-behavior-item1",
+  "conceptId": "elasticity-and-consumer-behavior",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A seller raises the price of a good with many close substitutes by 10%, and quantity sold drops by 25%. What does this imply about total revenue and why?",
+    "et": "Müüja tõstab paljude lähedaste asendajatega kauba hinda 10% võrra ning müügikogus langeb 25%. Mida see tähendab kogutulu kohta ja miks?",
+    "sourceHash": "84c5d72995cc5418",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Total revenue falls, because demand for this good is elastic (many substitutes make buyers highly price-sensitive), so the percentage drop in quantity outweighs the percentage rise in price.",
+        "et": "Kogutulu langeb, sest nõudlus selle kauba järele on elastne (paljud asendajad muudavad ostjad väga hinnatundlikuks), mistõttu koguse protsentuaalne langus kaalub üles hinna protsentuaalse tõusu.",
+        "sourceHash": "0037854ac5aed5c5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Total revenue rises, since all price increases mechanically increase revenue regardless of how much quantity sold changes.",
+        "et": "Kogutulu tõuseb, kuna kõik hinnatõusud suurendavad mehaaniliselt tulu, olenemata sellest, kui palju müügikogus muutub.",
+        "sourceHash": "a6d45887a117e615",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "elasticity-and-consumer-behavior-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This good's elasticity has nothing to do with it having close substitutes; the large drop in quantity just reflects the good being generally expensive.",
+        "et": "Selle kauba elastsusel pole midagi pistmist lähedaste asendajate olemasoluga; suur languse kogus peegeldab lihtsalt seda, et kaup on üldiselt kallis.",
+        "sourceHash": "46e3807532db5319",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "elasticity-and-consumer-behavior-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The consumer response shows buyers ignored their budget constraint entirely and simply stopped valuing the good at all.",
+        "et": "Tarbijate reaktsioon näitab, et ostjad eirasid oma eelarvepiirangut täielikult ja lihtsalt lakkasid kaupa üldse väärtustamast.",
+        "sourceHash": "60b1ae59d80eb5f1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "elasticity-and-consumer-behavior-m3"
+    }
+  ]
+}

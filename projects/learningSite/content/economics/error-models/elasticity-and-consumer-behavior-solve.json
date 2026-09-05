@@ -1,0 +1,37 @@
+{
+  "id": "elasticity-and-consumer-behavior-solve-ed",
+  "formulaId": "elasticity-and-consumer-behavior-formula1",
+  "solveFor": "E_d",
+  "mistakes": [
+    {
+      "id": "inverted-the-ratio",
+      "description": {
+        "en": "Inverted the ratio, computing percentage change in price divided by percentage change in quantity instead of the other way round.",
+        "et": "Pööras suhte ümber, arvutades hinna protsentuaalse muutuse jagatuna koguse protsentuaalse muutusega, selle asemel et teha vastupidi.",
+        "sourceHash": "728c4c94c0c9b709",
+        "stale": false
+      },
+      "expression": "dP/dQ"
+    },
+    {
+      "id": "dropped-the-sign",
+      "description": {
+        "en": "Used the absolute value of the quantity change, dropping the negative sign that reflects demand's downward slope.",
+        "et": "Kasutas koguse muutuse absoluutväärtust, jättes ära miinusmärgi, mis peegeldab nõudluse allapoole kalduvat kõverat.",
+        "sourceHash": "82f1f2bc90ab7650",
+        "stale": false
+      },
+      "expression": "-1*(dQ/dP)"
+    },
+    {
+      "id": "used-quantity-change-alone",
+      "description": {
+        "en": "Used the percentage change in quantity alone as if it were already the elasticity, ignoring the percentage change in price entirely.",
+        "et": "Kasutas koguse protsentuaalset muutust üksi, nagu see oleks juba elastsus, jättes hinna protsentuaalse muutuse täielikult arvestamata.",
+        "sourceHash": "f05b6a70e7f4bca7",
+        "stale": false
+      },
+      "expression": "dQ"
+    }
+  ]
+}

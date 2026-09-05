@@ -1,0 +1,21 @@
+{
+  "id": "elasticity-and-consumer-behavior",
+  "subject": "economics",
+  "level": "L2",
+  "module": "economics-fundamentals",
+  "title": {
+    "en": "Elasticity and consumer behavior",
+    "et": "Elastsus ja tarbijakäitumine",
+    "sourceHash": "46e3dc8dcde5a45c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Price elasticity of demand measures how responsive quantity demanded is to a change in price -- the ratio of the percentage change in quantity demanded to the percentage change in price -- and this responsiveness varies enormously across goods for a genuine economic reason, not an arbitrary one: a good with many close substitutes (a specific brand of butter) has elastic demand, since buyers can easily switch away when its price rises, while a good with few substitutes and low priority in the budget (insulin, salt) has inelastic demand, since buyers keep buying it even as price rises because they have nowhere else to turn or the expense barely registers against their total spending. This single number has an immediate, practical payoff for anyone setting a price: when demand is elastic, raising price reduces total revenue, because the resulting drop in quantity sold outweighs the higher price per unit, while when demand is inelastic, raising price increases total revenue, because quantity sold falls by proportionally less than price rose. Underlying this whole picture is consumer-choice theory: a rational consumer with a fixed budget allocates spending across goods to maximize the total satisfaction (utility) that budget can buy, and price elasticity is, at bottom, a measurable consequence of how substitutable a good is within that broader consumption choice.",
+    "et": "Nõudluse hinnaelastsus mõõdab, kui tundlik on nõutav kogus hinna muutuse suhtes -- nõutava koguse protsentuaalse muutuse ja hinna protsentuaalse muutuse suhe -- ning see tundlikkus varieerub kaupade lõikes tohutult tõelisel majanduslikul põhjusel, mitte suvaliselt: kaubal, millel on palju lähedasi asendajaid (konkreetne võimark), on elastne nõudlus, kuna ostjad saavad hinna tõustes kergesti üle minna, samas kui kaubal, millel on vähe asendajaid ja madal prioriteet eelarves (insuliin, sool), on jäik nõudlus, kuna ostjad jätkavad selle ostmist ka hinna tõustes, sest neil pole kuhugi mujale minna või kulutus lihtsalt ei paista kogukulutuste taustal välja. Sellel ühel arvul on kohene, praktiline väärtus igaühele, kes hinda kehtestab: kui nõudlus on elastne, vähendab hinnatõus kogutulu, kuna müügikoguse langus kaalub üles kõrgema ühikuhinna, samas kui nõudlus on jäik, suurendab hinnatõus kogutulu, kuna müügikogus langeb proportsionaalselt vähem, kui hind tõusis. Selle kogu pildi aluseks on tarbijavaliku teooria: ratsionaalne tarbija fikseeritud eelarvega jaotab kulutusi kaupade vahel nii, et maksimeerida kogurahulolu (kasulikkus), mida see eelarve võimaldab osta, ning hinnaelastsus on põhiolemuselt mõõdetav tagajärg sellest, kui asendatav kaup on selle laiema tarbimisvaliku sees.",
+    "sourceHash": "b8dde7c48d13321e",
+    "stale": false
+  },
+  "prerequisites": [
+    "supply-and-demand-and-market-equilibrium"
+  ]
+}

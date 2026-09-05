@@ -1,0 +1,10 @@
+{
+  "id": "elasticity-and-consumer-behavior-m1",
+  "conceptId": "elasticity-and-consumer-behavior",
+  "text": {
+    "en": "All goods have similarly elastic demand, so a given percentage price increase always reduces total revenue by roughly the same proportion regardless of what's being sold -- in reality, elasticity varies enormously by good (driven mainly by how many close substitutes it has), and whether a price increase raises or lowers total revenue depends entirely on whether demand for that specific good is elastic or inelastic.",
+    "et": "Kõigil kaupadel on sarnaselt elastne nõudlus, mistõttu antud protsentuaalne hinnatõus vähendab alati kogutulu ligikaudu sama proportsiooni võrra, olenemata sellest, mida müüakse -- tegelikult varieerub elastsus kaupade lõikes tohutult (peamiselt mõjutatuna sellest, kui palju lähedasi asendajaid sellel on), ning kas hinnatõus tõstab või langetab kogutulu, sõltub täielikult sellest, kas nõudlus selle konkreetse kauba järele on elastne või jäik.",
+    "sourceHash": "7288de6c7551e793",
+    "stale": false
+  }
+}

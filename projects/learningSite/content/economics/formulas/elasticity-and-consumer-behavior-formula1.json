@@ -1,0 +1,47 @@
+{
+  "id": "elasticity-and-consumer-behavior-formula1",
+  "conceptId": "elasticity-and-consumer-behavior",
+  "latex": "E_d = \\frac{\\%\\Delta Q_d}{\\%\\Delta P}",
+  "symbols": [
+    {
+      "symbol": "E_d",
+      "name": {
+        "en": "price elasticity of demand",
+        "et": "nõudluse hinnaelastsus",
+        "sourceHash": "04174cd0d1f723a0",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "dQ",
+      "name": {
+        "en": "percentage change in quantity demanded",
+        "et": "nõutava koguse protsentuaalne muutus",
+        "sourceHash": "bd005e4b0e1505cc",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "dP",
+      "name": {
+        "en": "percentage change in price",
+        "et": "hinna protsentuaalne muutus",
+        "sourceHash": "89edcad8187076af",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "E_d",
+    "dQ",
+    "dP"
+  ],
+  "expressions": {
+    "E_d": "dQ/dP",
+    "dQ": "E_d*dP",
+    "dP": "dQ/E_d"
+  }
+}
