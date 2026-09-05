@@ -1,0 +1,56 @@
+{
+  "id": "cyclones-anticyclones-and-severe-weather-item1",
+  "conceptId": "cyclones-anticyclones-and-severe-weather",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A tropical cyclone (hurricane) forms over warm ocean water with no weather front involved, while a mid-latitude cyclone forms directly along a front between two air masses. What does this difference reveal about their energy sources?",
+    "et": "Troopiline tsüklon (orkaan) tekib sooja ookeanivee kohal ilma igasuguse ilmarindeta, samas kui keskmise laiuskraadi tsüklon tekib otse kahe õhumassi vahelisel rindel. Mida see erinevus paljastab nende energiaallikate kohta?",
+    "sourceHash": "f62f90483cb3e0af",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A mid-latitude cyclone draws energy from the temperature contrast across a front, while a tropical cyclone draws energy from latent heat released as warm ocean moisture condenses -- fundamentally different energy sources.",
+        "et": "Keskmise laiuskraadi tsüklon ammutab energiat rinde ületavast temperatuurikontrastist, samas kui troopiline tsüklon ammutab energiat varjatud soojusest, mis vabaneb sooja ookeaniniiskuse kondenseerumisel -- põhimõtteliselt erinevad energiaallikad.",
+        "sourceHash": "819d3b5d6435ea9e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both draw energy the same way, from atmospheric pressure differences alone; the front's presence or absence is incidental to the actual energy source.",
+        "et": "Mõlemad ammutavad energiat samamoodi, ainult atmosfäärirõhu erinevustest; rinde olemasolu või puudumine on tegeliku energiaallika suhtes juhuslik.",
+        "sourceHash": "c9224d2169ee6b90",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cyclones-anticyclones-and-severe-weather-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Tropical cyclones don't actually need an ongoing energy source once formed, while mid-latitude cyclones do, which is why hurricanes can persist over land after landfall indefinitely.",
+        "et": "Troopilised tsüklonid ei vaja tegelikult pärast tekkimist jätkuvat energiaallikat, samas kui keskmise laiuskraadi tsüklonid vajavad, mistõttu orkaanid võivad pärast maabumist maismaal lõputult püsida.",
+        "sourceHash": "6a17a535373dc53b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cyclones-anticyclones-and-severe-weather-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The presence or absence of a front is irrelevant to storm mechanics; it only affects which hemisphere the storm can form in.",
+        "et": "Rinde olemasolu või puudumine ei ole tormi mehaanika seisukohalt oluline; see mõjutab ainult seda, millises poolkeras torm saab tekkida.",
+        "sourceHash": "328ac7aa9c8ec1b0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cyclones-anticyclones-and-severe-weather-m3"
+    }
+  ]
+}

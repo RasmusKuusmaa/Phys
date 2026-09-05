@@ -1,0 +1,10 @@
+{
+  "id": "cyclones-anticyclones-and-severe-weather-m3",
+  "conceptId": "cyclones-anticyclones-and-severe-weather",
+  "text": {
+    "en": "An anticyclone (high-pressure system) simply means less intense weather than a cyclone, on the same spectrum -- in reality, an anticyclone is the structurally opposite phenomenon (air sinking and spiraling outward rather than rising and spiraling inward), and because sinking air warms and dries rather than cooling and condensing into cloud, anticyclones characteristically bring clear, calm, settled weather rather than a weaker version of storminess.",
+    "et": "Antitsüklon (kõrgrõhkkond) tähendab lihtsalt vähem intensiivset ilma kui tsüklon, samal spektril -- tegelikult on antitsüklon struktuurselt vastupidine nähtus (õhk vajub ja keerleb väljapoole, mitte ei tõuse ja keerle sissepoole), ning kuna vajuv õhk soojeneb ja kuivab, mitte ei jahtu ja kondenseeru pilveks, toovad antitsüklonid iseloomulikult selge, rahuliku, stabiilse ilma, mitte tormisuse nõrgema versiooni.",
+    "sourceHash": "30286abc459f8909",
+    "stale": false
+  }
+}

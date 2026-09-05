@@ -1,0 +1,10 @@
+{
+  "id": "cyclones-anticyclones-and-severe-weather-m1",
+  "conceptId": "cyclones-anticyclones-and-severe-weather",
+  "text": {
+    "en": "A hurricane/typhoon and a tornado are basically the same rotating-storm phenomenon just at different sizes -- in reality, they form through entirely different mechanisms: a tropical cyclone is a vast, ocean-heat-driven system with no front involved, while a tornado is a localized vortex spun up from wind shear inside an individual supercell thunderstorm, closer in scale to a single cloud than to an entire weather system.",
+    "et": "Orkaan/taifuun ja tornaado on sisuliselt sama pöörleva tormi nähtus, lihtsalt erineva suurusega -- tegelikult tekivad need täiesti erinevate mehhanismide kaudu: troopiline tsüklon on tohutu, ookeanisoojusest juhitud süsteem ilma igasuguse rindeta, samas kui tornaado on lokaalne pööris, mis keerleb üles tuulenihkest üksiku superrakulise äikesetormi sees, mahult lähemal üksikule pilvele kui tervele ilmasüsteemile.",
+    "sourceHash": "c737ebae3ce9f7cf",
+    "stale": false
+  }
+}

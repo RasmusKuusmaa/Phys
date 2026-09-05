@@ -1,0 +1,21 @@
+{
+  "id": "cyclones-anticyclones-and-severe-weather",
+  "subject": "meteorology",
+  "level": "L2",
+  "module": "meteorology-fundamentals",
+  "title": {
+    "en": "Cyclones, anticyclones, and severe weather",
+    "et": "Tsüklonid, antitsüklonid ja tugev ilm",
+    "sourceHash": "79205db711fe321e",
+    "stale": false
+  },
+  "summary": {
+    "en": "A cyclone is any weather system organized around a center of low atmospheric pressure, and the same basic principle -- air spiraling inward and upward toward that low, cooling as it rises and often condensing into cloud and precipitation -- appears at three very different scales with three very different mechanisms. An extratropical (mid-latitude) cyclone forms directly along a boundary between two air masses, drawing its energy from the temperature contrast across that front, and its counterclockwise (Northern Hemisphere) spiral is what actually organizes and drags the fronts across a weather map. A tropical cyclone (hurricane or typhoon) forms over warm ocean water instead, with no front involved at all -- its energy comes from the latent heat released as warm, moist ocean air condenses in towering thunderstorms around a central eye, and that warm core, not a temperature contrast, is what distinguishes it mechanistically from its mid-latitude cousin. A tornado is smaller and far more localized still, typically spinning up inside a supercell thunderstorm when a rotating updraft (a mesocyclone, itself organized by wind shear at different altitudes) stretches and intensifies into a narrow, intense vortex that reaches the ground. An anticyclone is the opposite structure entirely -- air sinking and spiraling outward from a center of high pressure -- and because sinking air warms and dries rather than cooling and condensing, anticyclones are associated with clear, calm, settled weather rather than storms.",
+    "et": "Tsüklon on iga ilmasüsteem, mis on organiseeritud madala atmosfäärirõhu keskme ümber, ning sama põhiprintsiip -- õhk keerleb selle madalrõhu poole sissepoole ja üles, jahtudes tõusmise käigus ja sageli kondenseerudes pilveks ja sademeteks -- esineb kolmel väga erineval skaalal kolme väga erineva mehhanismiga. Ekstratroopiline (keskmise laiuskraadi) tsüklon tekib otse kahe õhumassi vahelisel piiril, ammutades oma energiat selle rinde ületavast temperatuurikontrastist, ning tema vastupäeva (põhjapoolkeral) spiraal ongi see, mis tegelikult organiseerib ja tõmbab rindeid üle ilmakaardi. Troopiline tsüklon (orkaan või taifuun) tekib selle asemel sooja ookeanivee kohal, ilma igasuguse rindeta -- selle energia tuleb varjatud soojusest, mis vabaneb, kui soe, niiske ookeaniõhk kondenseerub kõrgetes äikesepilvedes keskse silma ümber, ning see soe süda, mitte temperatuurikontrast, eristab seda mehaaniliselt oma keskmise laiuskraadi sugulasest. Tornaado on veel väiksem ja palju lokaalsem, tekkides tavaliselt superrakulise äikesetormi sees, kui pöörlev tõusuvool (mesotsüklon, mis ise on organiseeritud erinevatel kõrgustel esineva tuulenihke poolt) veniib ja tugevneb kitsaks, intensiivseks pöörisiks, mis jõuab maapinnani. Antitsüklon on täiesti vastupidine struktuur -- õhk vajub ja keerleb keskme küljest väljapoole kõrgrõhu keskmest -- ning kuna vajuv õhk soojeneb ja kuivab, mitte ei jahtu ja kondenseeru, on antitsüklonid seotud selge, rahuliku, stabiilse ilmaga, mitte tormidega.",
+    "sourceHash": "209c4e776afbb24d",
+    "stale": false
+  },
+  "prerequisites": [
+    "air-masses-and-weather-fronts"
+  ]
+}

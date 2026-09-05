@@ -1,0 +1,10 @@
+{
+  "id": "cyclones-anticyclones-and-severe-weather-m2",
+  "conceptId": "cyclones-anticyclones-and-severe-weather",
+  "text": {
+    "en": "A tropical cyclone forms the same way as a mid-latitude (extratropical) cyclone, just over warmer water -- in reality, an extratropical cyclone draws its energy from the temperature contrast across a front between two air masses, while a tropical cyclone has no front at all and instead draws its energy from latent heat released as warm ocean-sourced moisture condenses -- a fundamentally different energy source, which is exactly why tropical cyclones need warm ocean water to form and intensify while extratropical cyclones do not.",
+    "et": "Troopiline tsüklon tekib samamoodi nagu keskmise laiuskraadi (ekstratroopiline) tsüklon, lihtsalt sooja vee kohal -- tegelikult ammutab ekstratroopiline tsüklon oma energia rinde ületavast temperatuurikontrastist kahe õhumassi vahel, samas kui troopilisel tsüklonil ei ole üldse rinnet ning selle asemel ammutab see energia varjatud soojusest, mis vabaneb, kui sooja ookeanipäritolu niiskus kondenseerub -- põhimõtteliselt erinev energiaallikas, mis ongi täpselt põhjus, miks troopilised tsüklonid vajavad tekkimiseks ja tugevnemiseks sooja ookeanivett, samas kui ekstratroopilised tsüklonid seda ei vaja.",
+    "sourceHash": "b89a34bd84a083d7",
+    "stale": false
+  }
+}
