@@ -1,0 +1,10 @@
+{
+  "id": "population-ecology-and-population-dynamics-m3",
+  "conceptId": "population-ecology-and-population-dynamics",
+  "text": {
+    "en": "Exponential and logistic growth are two completely different, unrelated models that apply to entirely different kinds of populations, so you'd need to know in advance which type a given species is. -- in reality, they describe two regimes of the very same underlying growth process depending on how close a population currently is to its environment's carrying capacity: a population well below carrying capacity grows in a way that closely approximates exponential growth in the short term, and the same population's growth decelerates and becomes visibly logistic only as it approaches carrying capacity -- it's one continuous model, not two separate ones assigned by species.",
+    "et": "Eksponentsiaalne ja logistiline kasv on kaks täiesti erinevat, mitteseotud mudelit, mis kehtivad täiesti erinevat tüüpi populatsioonidele, mistõttu peaks eelnevalt teadma, kumb tüüp antud liik on -- tegelikult kirjeldavad need sama alusliku kasvuprotsessi kahte režiimi, sõltuvalt sellest, kui lähedal on populatsioon praegu oma keskkonna kandevõimele: populatsioon, mis on kandevõimest tunduvalt madalam, kasvab viisil, mis lühiajaliselt lähedaselt lähendab eksponentsiaalset kasvu, ning sama populatsiooni kasv aeglustub ja muutub nähtavalt logistiliseks alles kandevõimele lähenedes -- see on üks pidev mudel, mitte kaks eraldi mudelit, mis liigi järgi määratakse.",
+    "sourceHash": "e5ad6bf39bd85c73",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "population-ecology-and-population-dynamics-m1",
+  "conceptId": "population-ecology-and-population-dynamics",
+  "text": {
+    "en": "A population will keep growing exponentially forever unless some outside catastrophe (a disaster, a disease outbreak, a predator) stops it. -- in reality, every environment has a finite carrying capacity set by its own resources (food, space, water, and more), and even without any external catastrophe, a growing population's own resource consumption will slow its growth rate as it approaches that capacity, producing logistic rather than perpetual exponential growth -- the deceleration is an internal, built-in feature of population dynamics, not something that requires an outside shock.",
+    "et": "Populatsioon jätkab eksponentsiaalset kasvu igavesti, kuni mõni väline katastroof (õnnetus, haiguspuhang, kiskja) selle peatab -- tegelikult on igal keskkonnal piiratud kandevõime, mille määravad selle enda ressursid (toit, ruum, vesi ja muu), ning isegi ilma igasuguse välise katastroofita aeglustab kasvava populatsiooni enda ressursitarbimine selle kasvumäära kandevõimele lähenedes, tekitades igavese eksponentsiaalse kasvu asemel logistilise kasvu -- aeglustumine on populatsioonidünaamika sisemine, sisseehitatud omadus, mitte midagi, mis vajab välist šokki.",
+    "sourceHash": "67cb17d259c5f81a",
+    "stale": false
+  }
+}

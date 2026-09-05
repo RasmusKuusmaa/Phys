@@ -1,0 +1,57 @@
+{
+  "id": "population-ecology-and-population-dynamics-solve-N",
+  "formulaId": "population-ecology-and-population-dynamics-formula1",
+  "variables": [
+    {
+      "symbol": "N0",
+      "min": 20,
+      "max": 500,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "K",
+      "min": 1000,
+      "max": 8000,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "r",
+      "min": 0.0001,
+      "max": 0.01,
+      "unit": "1/s",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "t",
+      "min": 100,
+      "max": 20000,
+      "unit": "s",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "N0",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "K",
+      "right": "N0"
+    },
+    {
+      "op": "gt",
+      "left": "r",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "t",
+      "right": 0
+    }
+  ],
+  "solveFor": "N"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "population-ecology-and-population-dynamics-item1",
+  "conceptId": "population-ecology-and-population-dynamics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A population of deer is introduced to a large island with abundant food and no predators. Early on, the population grows very fast, but growth gradually slows over the following decades even though no disease or disaster occurs, and the population eventually levels off. What best explains this pattern?",
+    "et": "Hirvepopulatsioon tuuakse suurele saarele, kus on rikkalikult toitu ja kiskjaid pole. Alguses kasvab populatsioon väga kiiresti, kuid kasv aeglustub järk-järgult järgnevate aastakümnete jooksul, isegi kui ei toimu haigust ega katastroofi, ning populatsioon lõpuks stabiliseerub. Mis seda mustrit kõige paremini selgitab?",
+    "sourceHash": "26a7a4a787abb6e8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The population is approaching the island's carrying capacity: as deer numbers grow, competition for the now-limiting food and space slows the per-capita growth rate, producing the S-shaped logistic curve's leveling-off phase.",
+        "et": "Populatsioon läheneb saare kandevõimele: hirvede arvu kasvades aeglustab konkurents nüüd piirava toidu ja ruumi pärast pearvestuslikku kasvumäära, tekitades S-kujulise logistilise kõvera stabiliseerumise faasi.",
+        "sourceHash": "9b7f60f74d7e9c87",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Since there's no external catastrophe, disease, or predator involved, the population should keep growing exponentially forever, so this slowdown must indicate a hidden disaster the observers missed.",
+        "et": "Kuna välist katastroofi, haigust ega kiskjat ei ole, peaks populatsioon jätkama eksponentsiaalset kasvu igavesti, mistõttu see aeglustumine peab viitama varjatud katastroofile, mille vaatlejad kahe silma vahele jätsid.",
+        "sourceHash": "04dfb347190c8a88",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "population-ecology-and-population-dynamics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The island's carrying capacity for deer must be a fixed number that was already reached exactly at the population's very first generation, so anything after that point is a modeling anomaly.",
+        "et": "Saare kandevõime hirvedele peab olema fikseeritud arv, mis saavutati juba täpselt populatsiooni esimesel põlvkonnal, mistõttu miski pärast seda hetke on modelleerimisanomaalia.",
+        "sourceHash": "70a7853d482b12f1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "population-ecology-and-population-dynamics-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This deer population must simply be one of the rare species that follows a completely different growth model than exponential growth, unrelated to how exponential growth would have described its earliest years.",
+        "et": "See hirvepopulatsioon peab lihtsalt olema üks haruldastest liikidest, mis järgib täiesti erinevat kasvumudelit kui eksponentsiaalne kasv, mis pole seotud sellega, kuidas eksponentsiaalne kasv oleks kirjeldanud selle kõige varasemaid aastaid.",
+        "sourceHash": "c4e43b6487e356e8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "population-ecology-and-population-dynamics-m3"
+    }
+  ]
+}

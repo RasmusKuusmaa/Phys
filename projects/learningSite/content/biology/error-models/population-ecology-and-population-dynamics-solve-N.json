@@ -1,0 +1,37 @@
+{
+  "id": "population-ecology-and-population-dynamics-solve-N",
+  "formulaId": "population-ecology-and-population-dynamics-formula1",
+  "solveFor": "N",
+  "mistakes": [
+    {
+      "id": "used-plain-exponential-growth",
+      "description": {
+        "en": "Used the plain exponential growth formula (ignoring carrying capacity entirely) instead of the logistic form, letting the population grow without bound.",
+        "et": "Kasutas lihtsat eksponentsiaalse kasvu valemit (jättes kandevõime täielikult arvestamata) logistilise vormi asemel, lastes populatsioonil kasvada piiramatult.",
+        "sourceHash": "1758e1bf9eb45814",
+        "stale": false
+      },
+      "expression": "N0*exp(r*t)"
+    },
+    {
+      "id": "dropped-the-negative-sign",
+      "description": {
+        "en": "Dropped the negative sign in the exponent, using e^(rt) instead of e^(-rt), which makes the population diverge instead of approaching carrying capacity.",
+        "et": "Jättis eksponendis miinusmärgi ära, kasutades e^(rt) e^(-rt) asemel, mis paneb populatsiooni lahknema, selle asemel et läheneda kandevõimele.",
+        "sourceHash": "cdc327a471123458",
+        "stale": false
+      },
+      "expression": "K/(1+((K-N0)/N0)*exp(r*t))"
+    },
+    {
+      "id": "inverted-the-ratio",
+      "description": {
+        "en": "Inverted the (K-N0)/N0 ratio in the denominator, computing N0/(K-N0) instead.",
+        "et": "Pööras nimetajas suhte (K-N0)/N0 ümber, arvutades selle asemel N0/(K-N0).",
+        "sourceHash": "e172b4ef592922a6",
+        "stale": false
+      },
+      "expression": "K/(1+(N0/(K-N0))*exp(-r*t))"
+    }
+  ]
+}

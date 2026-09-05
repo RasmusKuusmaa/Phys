@@ -1,0 +1,10 @@
+{
+  "id": "population-ecology-and-population-dynamics-m2",
+  "conceptId": "population-ecology-and-population-dynamics",
+  "text": {
+    "en": "Carrying capacity is a fixed number that never changes for a given species, so if a population exceeds it even briefly, that must be a modeling error. -- in reality, carrying capacity is a property of a specific environment at a specific time, not a fixed species trait, and it changes as resources, climate, competitors, or habitat change; populations can also genuinely and temporarily overshoot carrying capacity (if there's a time lag between resource depletion and the population's growth response), followed by a decline, which is a real ecological pattern the logistic model itself can be extended to capture, not evidence the model is broken.",
+    "et": "Kandevõime on kindla liigi jaoks fikseeritud arv, mis kunagi ei muutu, mistõttu kui populatsioon seda isegi lühidalt ületab, peab see olema modelleerimisviga -- tegelikult on kandevõime konkreetse keskkonna omadus konkreetsel ajal, mitte fikseeritud liigi tunnus, ning see muutub ressursside, kliima, konkurentide või elupaiga muutudes; populatsioonid võivad ka tõeliselt ja ajutiselt ületada kandevõimet (kui ressursside ammendumise ja populatsiooni kasvuvastuse vahel on ajaline viivitus), millele järgneb langus, mis on tõeline ökoloogiline muster, mida logistiline mudel ise saab laiendada, et seda tabada, mitte tõend, et mudel on katki.",
+    "sourceHash": "c898f53d957d0837",
+    "stale": false
+  }
+}

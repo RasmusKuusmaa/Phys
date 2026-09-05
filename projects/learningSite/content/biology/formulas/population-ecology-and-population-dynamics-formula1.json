@@ -1,0 +1,63 @@
+{
+  "id": "population-ecology-and-population-dynamics-formula1",
+  "conceptId": "population-ecology-and-population-dynamics",
+  "latex": "N = \\frac{K}{1 + \\frac{K-N_0}{N_0} e^{-rt}}",
+  "symbols": [
+    {
+      "symbol": "N",
+      "name": {
+        "en": "population size",
+        "et": "populatsiooni suurus",
+        "sourceHash": "ba9fb57c1450cff6",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "N0",
+      "name": {
+        "en": "population size",
+        "et": "populatsiooni suurus",
+        "sourceHash": "ba9fb57c1450cff6",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "K",
+      "name": {
+        "en": "carrying capacity",
+        "et": "keskkonna kandevõime",
+        "sourceHash": "037a53648aac3c19",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "r",
+      "name": {
+        "en": "growth rate",
+        "et": "kasvukiirus",
+        "sourceHash": "2fad01d42fbcf0d1",
+        "stale": false
+      },
+      "unit": "1/s"
+    },
+    {
+      "symbol": "t",
+      "name": {
+        "en": "time",
+        "et": "aeg",
+        "sourceHash": "336074805fc85398",
+        "stale": false
+      },
+      "unit": "s"
+    }
+  ],
+  "solveFor": [
+    "N"
+  ],
+  "expressions": {
+    "N": "K/(1+((K-N0)/N0)*exp(-r*t))"
+  }
+}
