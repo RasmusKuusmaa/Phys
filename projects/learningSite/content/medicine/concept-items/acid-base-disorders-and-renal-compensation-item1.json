@@ -1,0 +1,56 @@
+{
+  "id": "acid-base-disorders-and-renal-compensation-item1",
+  "conceptId": "acid-base-disorders-and-renal-compensation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient with a primary respiratory acid-base disorder shows full renal compensation, while another patient with the same type of primary disorder shows only partial renal compensation. What does this difference most likely indicate?",
+    "et": "Primaarse respiratoorse happe-aluse häirega patsiendil on täielik neeru kompensatsioon, samas kui teisel samat tüüpi primaarse häirega patsiendil on ainult osaline neeru kompensatsioon. Mida see erinevus kõige tõenäolisemalt näitab?",
+    "sourceHash": "c7a0012bdb6da8d2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The patient with full compensation likely has a chronic, long-standing disorder, since renal compensation takes hours to days to fully develop, while the patient with partial compensation likely has a more acute, recent-onset disorder.",
+        "et": "Täieliku kompensatsiooniga patsiendil on tõenäoliselt krooniline, pikaajaline häire, kuna neeru kompensatsiooni täielik arenemine võtab tunde kuni päevi, samas kui osalise kompensatsiooniga patsiendil on tõenäoliselt ägedam, hiljuti alanud häire.",
+        "sourceHash": "44834f6a7210ab03",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This difference only reflects how severe each patient's disorder is, since renal and respiratory compensation both develop on the same timescale regardless of the disorder's duration.",
+        "et": "See erinevus peegeldab ainult seda, kui raske on kummagi patsiendi häire, kuna neeru ja hingamise kompensatsioon arenevad mõlemad samal ajaskaalal, olenemata häire kestusest.",
+        "sourceHash": "ab1eac5096662d22",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acid-base-disorders-and-renal-compensation-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The two patients must actually have different categories of disorder (one respiratory, one metabolic), since compensation completeness can only differ between categories, not within one.",
+        "et": "Kahel patsiendil peab tegelikult olema erinev häire kategooria (üks respiratoorne, üks metaboolne), kuna kompensatsiooni täielikkus saab erineda ainult kategooriate vahel, mitte ühe sees.",
+        "sourceHash": "89d76f9b2378d433",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acid-base-disorders-and-renal-compensation-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This difference tells us nothing beyond severity, since the degree of compensation development has no diagnostic meaning regarding timing.",
+        "et": "See erinevus ei ütle meile midagi peale raskusastme, kuna kompensatsiooni arenguastmel ei ole diagnostilist tähendust ajastuse osas.",
+        "sourceHash": "a9526e4a1a6f6e07",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "acid-base-disorders-and-renal-compensation-m3"
+    }
+  ]
+}

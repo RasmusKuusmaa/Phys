@@ -1,0 +1,22 @@
+{
+  "id": "acid-base-disorders-and-renal-compensation",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "renal-and-urologic-medicine",
+  "title": {
+    "en": "Acid-base disorders and renal compensation",
+    "et": "Happe-aluse häired ja neeru kompensatsioon",
+    "sourceHash": "4622ac77dc555f31",
+    "stale": false
+  },
+  "summary": {
+    "en": "Blood pH is governed by the balance between carbon dioxide (an acid, regulated by the lungs) and bicarbonate (a base, regulated by the kidneys), and acid-base disorders split into two categories depending on which side of that balance is disrupted first. A respiratory disorder originates with abnormal carbon dioxide levels -- inadequate ventilation raising carbon dioxide and causing respiratory acidosis, or excessive ventilation lowering it and causing respiratory alkalosis, the same ventilation mechanisms already covered in this subject's respiratory-failure concept. A metabolic disorder instead originates with an abnormal bicarbonate level or an abnormal load of non-carbonic acid, arising from causes entirely outside the lungs -- kidney failure, severe diarrhea, or excess acid production, among others. Whichever side of the balance is disrupted first, the other organ system attempts to compensate using the mechanism it actually controls: the kidneys respond to a primary respiratory disorder by adjusting how much bicarbonate they reabsorb or excrete, a compensation that takes hours to days to develop because it depends on gradually changing tubular transport activity, while the lungs respond to a primary metabolic disorder by adjusting the rate and depth of breathing, a compensation that begins within minutes because it only requires a change in an already-continuous process. This difference in compensatory speed is itself diagnostically useful: a compensation that has already fully developed points to a chronic, long-standing primary disorder, while an incompletely developed compensation suggests the primary disorder is still relatively acute.",
+    "et": "Vere pH-d juhib tasakaal süsihappegaasi (hape, mida reguleerivad kopsud) ja bikarbonaadi (alus, mida reguleerivad neerud) vahel, ning happe-aluse häired jagunevad kaheks kategooriaks, sõltuvalt sellest, kumb pool sellest tasakaalust esimesena häiritakse. Respiratoorne häire saab alguse ebanormaalsest süsihappegaasi tasemest -- ebapiisav ventilatsioon tõstab süsihappegaasi ja põhjustab respiratoorset atsidoosi, või liigne ventilatsioon langetab seda ja põhjustab respiratoorset alkaloosi, samad ventilatsioonimehhanismid, mida on selle aine hingamispuudulikkuse mõistes juba käsitletud. Metaboolne häire saab selle asemel alguse ebanormaalsest bikarbonaaditasemest või ebanormaalsest mittesüsihappelise happe koormusest, tulenedes põhjustest, mis on täielikult väljaspool kopse -- neerupuudulikkus, tõsine kõhulahtisus või liigne happe tootmine, teiste hulgas. Ükskõik kumb pool tasakaalust esimesena häiritakse, üritab teine elundisüsteem kompenseerida, kasutades mehhanismi, mida see tegelikult kontrollib: neerud reageerivad primaarsele respiratoorsele häirele, kohandades, kui palju bikarbonaati need reabsorbeerivad või eritavad, kompensatsioon, mille arenemine võtab tunde kuni päevi, kuna see sõltub järk-järgult muutuvast tuubulaarsest transpordiaktiivsusest, samas kui kopsud reageerivad primaarsele metaboolsele häirele, kohandades hingamise kiirust ja sügavust, kompensatsioon, mis algab minutite jooksul, kuna see nõuab ainult muutust juba pidevas protsessis. See kompensatsiooni kiiruse erinevus on ise diagnostiliselt kasulik: juba täielikult arenenud kompensatsioon viitab kroonilisele, pikaajalisele primaarsele häirele, samas kui ebatäielikult arenenud kompensatsioon viitab sellele, et primaarne häire on veel suhteliselt äge.",
+    "sourceHash": "8a0c0a0eed12033a",
+    "stale": false
+  },
+  "prerequisites": [
+    "renal-and-urinary-system-anatomy-and-physiology",
+    "respiratory-failure-and-gas-exchange-abnormalities"
+  ]
+}
