@@ -1,0 +1,10 @@
+{
+  "id": "atmospheric-circulation-and-global-wind-patterns-m1",
+  "conceptId": "atmospheric-circulation-and-global-wind-patterns",
+  "text": {
+    "en": "Global wind patterns would form one single, simple loop of rising air at the equator and sinking air at the poles if not for random, unpredictable weather variation -- in reality, Earth's rotation itself (the Coriolis effect) makes a single equator-to-pole loop dynamically unstable, splitting it into three stacked circulation cells (Hadley, Ferrel, polar) per hemisphere as a direct, predictable consequence of a rotating planet's physics, not an accident of unpredictable weather.",
+    "et": "Globaalsed tuulemustrid moodustaksid ühe lihtsa ahela tõusva õhuga ekvaatoril ja langeva õhuga poolustel, kui poleks juhuslikku, ettearvamatut ilmavariatsiooni -- tegelikult muudab Maa enda pöörlemine (Coriolise efekt) üheainsa ekvaatorist-pooluseni ahela dünaamiliselt ebastabiilseks, jagades selle kolmeks üksteise peale virnastatud tsirkulatsioonirakuks (Hadley, Ferrel, polaarne) kummaski poolkeras otsese, ennustatava tagajärjena pöörlevast planeedist, mitte ettearvamatu ilma juhusest.",
+    "sourceHash": "9953cd79eccf4dbf",
+    "stale": false
+  }
+}

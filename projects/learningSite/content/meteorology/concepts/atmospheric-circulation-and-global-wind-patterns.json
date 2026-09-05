@@ -1,0 +1,19 @@
+{
+  "id": "atmospheric-circulation-and-global-wind-patterns",
+  "subject": "meteorology",
+  "level": "L2",
+  "module": "meteorology-fundamentals",
+  "title": {
+    "en": "Atmospheric circulation and global wind patterns",
+    "et": "Atmosfääri tsirkulatsioon ja globaalsed tuulemustrid",
+    "sourceHash": "307869a5c38057bf",
+    "stale": false
+  },
+  "summary": {
+    "en": "The equator receives far more direct solar heating than the poles, and a planet's atmosphere would, in principle, simply resolve that imbalance with one giant convective loop -- warm air rising at the equator, flowing poleward at altitude, sinking at the poles, and returning along the surface. Earth's actual circulation instead breaks into three stacked cells in each hemisphere -- Hadley, Ferrel, and polar -- because the same rotation that deflects a rising air parcel's path (the Coriolis effect) also destabilizes a single equator-to-pole loop long before it can complete, splitting the flow into these narrower, more stable circulation bands whose boundaries mark Earth's major climate zones: rising air at the equator (the tropical rain belt), sinking air at roughly 30 degrees latitude (the subtropical deserts), rising air again at roughly 60 degrees, and sinking air at the poles. The jet stream is not a separate wind system but the direct signature of this cell structure: it forms exactly where these adjacent circulation cells meet and their surface temperature contrast is sharpest, at the tropopause, and it snakes and shifts as that temperature contrast itself shifts, which is why the jet stream's day-to-day position is one of the single most important things a mid-latitude weather forecast actually tracks.",
+    "et": "Ekvaator saab palju otsesemat päikesesoojust kui poolused, ning planeedi atmosfäär lahendaks selle tasakaalustamatuse põhimõtteliselt ühe hiiglasliku konvektsiooniahelaga -- soe õhk tõuseb ekvaatoril, voolab kõrgusel pooluste poole, vajub poolustel alla ja naaseb mööda pinda. Maa tegelik tsirkulatsioon jaguneb selle asemel kolmeks üksteise peale virnastatud rakuks kummaski poolkeras -- Hadley, Ferreli ja polaarne --, sest sama pöörlemine, mis kallutab tõusva õhuosakese teed (Coriolise efekt), destabiliseerib ka üheainsa ekvaatorist-pooluseni ahela kaua enne, kui see saab lõpule viia, jagades voolu nendeks kitsamateks, stabiilsemateks tsirkulatsiooniribadeks, mille piirid tähistavad Maa peamisi kliimavöötmeid: tõusev õhk ekvaatoril (troopiline vihmavöönd), langev õhk umbes 30. laiuskraadi juures (subtroopilised kõrbed), taas tõusev õhk umbes 60. laiuskraadi juures ning langev õhk poolustel. Reaktiivvool ei ole eraldi tuulesüsteem, vaid selle rakustruktuuri otsene jälg: see moodustub täpselt seal, kus need naaberdavad tsirkulatsioonirakud kohtuvad ja nende pinnalähedane temperatuurikontrast on kõige teravam, troposfäärikõrgusel, ning see looklevat ja nihkub, kui see temperatuurikontrast ise nihkub, mistõttu on reaktiivvoolu igapäevane asukoht üks kõige olulisemaid asju, mida keskmise laiuskraadi ilmaprognoos tegelikult jälgib.",
+    "sourceHash": "4813bb7e240fc898",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "atmospheric-circulation-and-global-wind-patterns-item1",
+  "conceptId": "atmospheric-circulation-and-global-wind-patterns",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does Earth's atmospheric circulation split into three stacked cells (Hadley, Ferrel, polar) per hemisphere instead of forming one simple equator-to-pole convective loop?",
+    "et": "Miks jaguneb Maa atmosfääri tsirkulatsioon kummaski poolkeras kolmeks üksteise peale virnastatud rakuks (Hadley, Ferrel, polaarne), selle asemel et moodustada üks lihtne ekvaatorist-pooluseni konvektsiooniahel?",
+    "sourceHash": "d68c331a1bda4d1d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because Earth's rotation (the Coriolis effect) makes a single equator-to-pole loop dynamically unstable, so the flow breaks into narrower, more stable circulation bands instead.",
+        "et": "Sest Maa pöörlemine (Coriolise efekt) muudab üheainsa ekvaatorist-pooluseni ahela dünaamiliselt ebastabiilseks, mistõttu vool jaguneb selle asemel kitsamateks, stabiilsemateks tsirkulatsiooniribadeks.",
+        "sourceHash": "4abc22e2992a1f8c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because random, unpredictable weather variation disrupts what would otherwise be one simple loop.",
+        "et": "Sest juhuslik, ettearvamatu ilmavariatsioon häirib seda, mis muidu oleks üks lihtne ahel.",
+        "sourceHash": "ea04e3cea797f765",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "atmospheric-circulation-and-global-wind-patterns-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because continents and oceans are unevenly distributed, and a perfectly water-covered planet would show one simple loop instead.",
+        "et": "Sest mandrid ja ookeanid on ebaühtlaselt jaotunud ning täiesti veega kaetud planeet näitaks selle asemel üht lihtsat ahelat.",
+        "sourceHash": "b198665fa167a74d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "atmospheric-circulation-and-global-wind-patterns-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the jet stream actively pushes the circulation into three separate cells as an independent driving force.",
+        "et": "Sest reaktiivvool suunab tsirkulatsiooni aktiivselt kolmeks eraldi rakuks iseseisva liikumapaneva jõuna.",
+        "sourceHash": "1801aa68b8bc0d32",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "atmospheric-circulation-and-global-wind-patterns-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "atmospheric-circulation-and-global-wind-patterns-m3",
+  "conceptId": "atmospheric-circulation-and-global-wind-patterns",
+  "text": {
+    "en": "Subtropical deserts around 30 degrees latitude form mainly because those regions happen to be far from oceans, an accident of geography rather than atmospheric dynamics -- in reality, sinking air is a predictable, direct consequence of the Hadley cell's structure at that latitude band (air that rose at the equator, lost its moisture, and is now descending and warming), and this circulation-driven aridity is why subtropical deserts form at that latitude on every continent, not a coincidence of individual continents' geography.",
+    "et": "Subtroopilised kõrbed umbes 30. laiuskraadi juures tekivad peamiselt seetõttu, et need piirkonnad juhtuvad olema ookeanidest kaugel, geograafia juhus, mitte atmosfääri dünaamika -- tegelikult on langev õhk ennustatav, otsene tagajärg Hadley raku struktuurist sellel laiuskraadivööndil (õhk, mis tõusis ekvaatoril, kaotas oma niiskuse ja langeb nüüd ning soojeneb), ning see tsirkulatsioonist tingitud kuivus ongi põhjus, miks subtroopilised kõrbed tekivad sellel laiuskraadil igal mandril, mitte üksikute mandrite geograafia kokkusattumus.",
+    "sourceHash": "c6499b0a508aef90",
+    "stale": false
+  }
+}
