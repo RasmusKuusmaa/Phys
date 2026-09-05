@@ -1,0 +1,10 @@
+{
+  "id": "psoriasis-and-immune-mediated-skin-disease-m1",
+  "conceptId": "psoriasis-and-immune-mediated-skin-disease",
+  "text": {
+    "en": "I think psoriasis and eczema are the same underlying condition, just with different names depending on where they show up on the body -- in reality, they are mechanistically distinct: psoriasis is immune-driven keratinocyte hyperproliferation (T-cell/IL-23-IL-17 pathway), while eczema is barrier-dysfunction-driven inflammation; they can look superficially similar but arise from different root causes.",
+    "et": "Arvan, et psoriaas ja ekseem on sama alusseisund, millel on lihtsalt erinevad nimed olenevalt kehaosast, kus need ilmnevad -- tegelikult on need mehhanistlikult eristuvad: psoriaas on immuunvahendatud keratinotsüütide hüperproliferatsioon (T-rakkude/IL-23-IL-17 rada), samas kui ekseem on barjääri talitlushäirest põhjustatud põletik; need võivad näida pealiskaudselt sarnased, kuid tulenevad erinevatest algpõhjustest.",
+    "sourceHash": "56ff3808fdfd4101",
+    "stale": false
+  }
+}

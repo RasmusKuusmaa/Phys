@@ -1,0 +1,56 @@
+{
+  "id": "psoriasis-and-immune-mediated-skin-disease-item1",
+  "conceptId": "psoriasis-and-immune-mediated-skin-disease",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "What is the core mechanistic difference between a psoriasis plaque and an eczema patch, even though both can look like red, scaly, irritated skin?",
+    "et": "Milline on põhiline mehhanistlik erinevus psoriaasi naastu ja ekseemilaigu vahel, kuigi mõlemad võivad näida punase, ketendava, ärritunud nahana?",
+    "sourceHash": "0aea82444751d621",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Psoriasis is driven by T-cell/cytokine signaling that makes keratinocytes proliferate far faster than normal, piling up skin cells; eczema is driven by a physical barrier defect that lets irritants and allergens trigger inflammation.",
+        "et": "Psoriaasi põhjustab T-rakkude/tsütokiinide signaal, mis paneb keratinotsüüdid paljunema palju kiiremini kui tavaliselt, kuhjates naharakke; ekseemi põhjustab füüsiline barjääridefekt, mis lubab ärritajatel ja allergeenidel põletikku vallandada.",
+        "sourceHash": "df0e380984730633",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There is no real mechanistic difference — psoriasis and eczema are the same disease process, just conventionally given different names based on where on the body they appear.",
+        "et": "Tegelikku mehhanistlikku erinevust ei ole — psoriaas ja ekseem on sama haigusprotsess, millele on tavapäraselt antud erinevad nimed sõltuvalt kehaosast, kus need ilmnevad.",
+        "sourceHash": "90f05b7f48f6da43",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "psoriasis-and-immune-mediated-skin-disease-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Psoriasis plaques form because keratinocyte turnover slows down and dead cells are shed more slowly than normal, similar to a sluggishly healing wound.",
+        "et": "Psoriaasi naastud tekivad seetõttu, et keratinotsüütide uuenemine aeglustub ja surnud rakud koorivad maha aeglasemalt kui tavaliselt, sarnaselt aeglaselt paraneva haavaga.",
+        "sourceHash": "513854f332524b88",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "psoriasis-and-immune-mediated-skin-disease-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Psoriasis is a purely local, cosmetic skin condition with no connection to any process beyond the visible plaques themselves.",
+        "et": "Psoriaas on puhtalt lokaalne, kosmeetiline nahaseisund, millel puudub seos mistahes protsessiga väljaspool nähtavaid naastusid ennast.",
+        "sourceHash": "0fb4da1c16ea8f7f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "psoriasis-and-immune-mediated-skin-disease-m2"
+    }
+  ]
+}

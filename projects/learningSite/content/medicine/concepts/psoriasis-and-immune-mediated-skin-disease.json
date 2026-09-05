@@ -1,0 +1,22 @@
+{
+  "id": "psoriasis-and-immune-mediated-skin-disease",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "dermatology",
+  "title": {
+    "en": "Psoriasis and immune-mediated skin disease",
+    "et": "Psoriaas ja immuunvahendatud nahahaigus",
+    "sourceHash": "d396000d4fede74b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Psoriasis is driven by a misdirected immune response, not a barrier defect: T cells mistakenly trigger a cascade of inflammatory signaling (centered on the cytokines that drive the IL-23/IL-17 pathway) that tells keratinocytes to proliferate roughly ten times faster than normal, so new skin cells reach the surface in days rather than the usual weeks and pile up faster than they can be shed, producing the thick, scaly, well-demarcated plaques characteristic of the disease; this is a fundamentally different mechanism from eczema's barrier-dysfunction-driven inflammation, even though both conditions can look superficially similar (red, irritated, itchy patches) to an untrained eye.",
+    "et": "Psoriaas on põhjustatud valesuunatud immuunvastusest, mitte barjääridefektist: T-rakud vallandavad ekslikult põletikulise signaalikaskaadi (mille keskmes on tsütokiinid, mis juhivad IL-23/IL-17 rada), mis käseb keratinotsüütidel paljuneda umbes kümme korda kiiremini kui tavaliselt, nii et uued naharakud jõuavad pinnale päevade, mitte tavapäraste nädalatega, ning kuhjuvad kiiremini, kui neid maha koorida jõutakse, tekitades haigusele iseloomulikke paksusid, ketendavaid, selgelt piiritletud naastusid; see on põhimõtteliselt erinev mehhanism ekseemi barjääri talitlushäirest põhjustatud põletikust, kuigi mõlemad seisundid võivad väljaõppimata silmale näida pealiskaudselt sarnased (punased, ärritunud, sügelevad laigud).",
+    "sourceHash": "02258941f264ce8d",
+    "stale": false
+  },
+  "prerequisites": [
+    "integumentary-system-anatomy-and-physiology",
+    "autoimmunity-and-hypersensitivity"
+  ]
+}
