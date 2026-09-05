@@ -1,0 +1,10 @@
+{
+  "id": "systemic-autoimmune-connective-tissue-diseases-m3",
+  "conceptId": "systemic-autoimmune-connective-tissue-diseases",
+  "text": {
+    "en": "Lupus and systemic sclerosis damage tissue through the exact same mechanism, since both are 'systemic autoimmune diseases' -- sharing an autoimmune origin (broken self-tolerance) doesn't mean sharing a downstream mechanism — lupus's damage comes from autoantibody-immune-complex deposition, while systemic sclerosis's comes from chronic vascular injury driving excessive fibrosis, two genuinely different destructive processes that happen to both start from the same category of immune-tolerance failure.",
+    "et": "Luupus ja süsteemne skleroos kahjustavad kude täpselt sama mehhanismi kaudu, kuna mõlemad on 'süsteemsed autoimmuunhaigused' -- autoimmuunse päritolu (katkenud enesetolerantsi) jagamine ei tähenda allavoolu mehhanismi jagamist — luupuse kahjustus tuleneb autoantikeha-immuunkompleksi sadenemisest, samas kui süsteemse skleroosi oma tuleneb kroonilisest veresoonte kahjustusest, mis juhib liigset fibroosi, kaks tõeliselt erinevat hävitavat protsessi, mis mõlemad lihtsalt algavad samast immuuntolerantsi ebaõnnestumise kategooriast.",
+    "sourceHash": "3bc96ed6a8cbbdd2",
+    "stale": false
+  }
+}

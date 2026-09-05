@@ -1,0 +1,56 @@
+{
+  "id": "systemic-autoimmune-connective-tissue-diseases-item1",
+  "conceptId": "systemic-autoimmune-connective-tissue-diseases",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do both lupus and systemic sclerosis typically affect multiple organ systems rather than just one, even though they arise from the same broken self-tolerance mechanism that underlies autoimmune disease generally?",
+    "et": "Miks mõjutavad nii luupus kui süsteemne skleroos tavaliselt mitut organsüsteemi, mitte ainult ühte, ehkki need tekivad samast katkenud enesetolerantsi mehhanismist, mis on aluseks autoimmuunhaigusele üldiselt?",
+    "sourceHash": "52dc13ac8bf38f88",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because each disease's specific immune target — nuclear antigens in lupus, connective tissue and vasculature in systemic sclerosis — is present throughout nearly every organ system, so the resulting damage isn't confined to a single organ.",
+        "et": "Sest iga haiguse konkreetne immuunsihtmärk — tuuma antigeenid luupuse korral, sidekude ja veresoonkond süsteemse skleroosi korral — esineb peaaegu igas organsüsteemis, mistõttu tekkiv kahjustus ei ole piiratud ühe organiga.",
+        "sourceHash": "17f53ef72a9c56ad",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because lupus is fundamentally a skin disease that happens to occasionally spread to other organs in unusual cases.",
+        "et": "Sest luupus on põhimõtteliselt nahahaigus, mis erandjuhtudel juhtumisi levib teistesse organitesse.",
+        "sourceHash": "30abdc20709bde70",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "systemic-autoimmune-connective-tissue-diseases-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "They don't — systemic sclerosis is primarily a cosmetic skin condition, and only lupus meaningfully affects internal organs.",
+        "et": "See ei vasta tõele — süsteemne skleroos on peamiselt kosmeetiline nahaseisund ning ainult luupus mõjutab oluliselt siseorganeid.",
+        "sourceHash": "0b4f15c97794bb70",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "systemic-autoimmune-connective-tissue-diseases-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because both diseases destroy tissue through the identical immune-complex-deposition mechanism, which happens to reach many organs at once.",
+        "et": "Sest mõlemad haigused hävitavad kude identse immuunkompleksi sadenemise mehhanismi kaudu, mis juhtumisi jõuab paljudesse organitesse korraga.",
+        "sourceHash": "ab50b7885dbd4dd7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "systemic-autoimmune-connective-tissue-diseases-m3"
+    }
+  ]
+}

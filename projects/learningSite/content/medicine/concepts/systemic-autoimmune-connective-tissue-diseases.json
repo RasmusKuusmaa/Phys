@@ -1,0 +1,21 @@
+{
+  "id": "systemic-autoimmune-connective-tissue-diseases",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "musculoskeletal-medicine-and-rheumatology",
+  "title": {
+    "en": "Systemic autoimmune connective tissue diseases",
+    "et": "Süsteemsed autoimmuunsed sidekoehaigused",
+    "sourceHash": "a30fb1c6487f938c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Systemic lupus erythematosus and systemic sclerosis both arise from the same broken self-tolerance that defines autoimmune disease generally, but instead of confining their attack to one organ (as in type 1 diabetes's pancreas-specific attack), they target components -- nuclear antigens in lupus, and connective tissue/vasculature in systemic sclerosis -- that are present throughout nearly every organ system, which is why both diseases characteristically produce a multi-organ pattern of damage (skin, joints, kidneys, and more in lupus; skin, lungs, GI tract, and vasculature in systemic sclerosis) rather than a single-organ presentation. In lupus, autoantibodies against nuclear components form immune complexes that deposit in tissue throughout the body (a mechanism related to the Type III hypersensitivity pattern) and trigger inflammation wherever they lodge, which is why lupus's specific manifestations vary considerably between patients depending on where those complexes happen to accumulate. In systemic sclerosis, autoimmune activity drives chronic vascular injury and excessive fibrosis (scar-tissue-like collagen deposition) that progressively stiffens and thickens the skin and internal organs, a fundamentally different downstream mechanism from lupus's immune-complex-deposition pattern even though both begin with the same underlying loss of self-tolerance -- which is exactly why 'autoimmune disease' is a category of shared origin, not a single shared symptom pattern.",
+    "et": "Süsteemne erütematoosne luupus ja süsteemne skleroos tekivad mõlemad samast katkenud enesetolerantsist, mis defineerib autoimmuunhaigust üldiselt, kuid selle asemel, et piirata oma rünnak ühele organile (nagu 1. tüüpi diabeedi kõhunäärmespetsiifilises rünnakus), sihivad need komponente -- tuuma antigeenid luupuse korral ning sidekude/veresoonkond süsteemse skleroosi korral --, mis esinevad peaaegu igas organsüsteemis, mistõttu mõlemad haigused tekitavad iseloomulikult mitme organi kahjustusmustri (nahk, liigesed, neerud ja rohkem luupuse korral; nahk, kopsud, seedetrakt ja veresoonkond süsteemse skleroosi korral), mitte ühe organi avaldumise. Luupuse korral moodustavad tuuma komponentide vastased autoantikehad immuunkomplekse, mis sadenevad kudedesse kogu kehas (mehhanism, mis on seotud III tüüpi ülitundlikkuse mustriga) ning käivitavad põletiku kõikjal, kuhu need settivad, mistõttu luupuse konkreetsed avaldumised varieeruvad patsientide vahel märkimisväärselt sõltuvalt sellest, kuhu need kompleksid juhtuvad kogunema. Süsteemse skleroosi korral juhib autoimmuunne aktiivsus kroonilist veresoonte kahjustust ja liigset fibroosi (armkoetaolist kollageeni sadenemist), mis muudab järk-järgult naha ja siseorganid jäigaks ja paksemaks, põhimõtteliselt erinev allavoolu mehhanism kui luupuse immuunkomplekside sadenemise muster, ehkki mõlemad algavad samast aluseks olevast enesetolerantsi kaotusest -- mis ongi täpselt põhjus, miks 'autoimmuunhaigus' on jagatud päritolu kategooria, mitte ühtne jagatud sümptomite muster.",
+    "sourceHash": "f268bbe5242541fd",
+    "stale": false
+  },
+  "prerequisites": [
+    "autoimmunity-and-hypersensitivity"
+  ]
+}
