@@ -1,0 +1,19 @@
+{
+  "id": "social-psychology-and-group-behavior",
+  "subject": "psychology",
+  "level": "L2",
+  "module": "psychology-fundamentals",
+  "title": {
+    "en": "Social psychology and group behavior",
+    "et": "Sotsiaalpsühholoogia ja grupikäitumine",
+    "sourceHash": "0fad235dc305947d",
+    "stale": false
+  },
+  "summary": {
+    "en": "Solomon Asch's conformity experiments showed that a substantial fraction of people will give an answer to an obviously simple perceptual question (which of three lines matches a reference line) that they privately know is wrong, simply because every other person in the room -- confederates instructed to answer wrongly -- gave that same wrong answer first, demonstrating that social pressure to conform can override even unambiguous sensory evidence. Stanley Milgram's obedience experiments pushed this further, finding that a majority of ordinary participants would administer what they believed were escalating, dangerous electric shocks to another person simply because an authority figure in a lab coat calmly instructed them to continue -- a result better explained by the specific situational pressures of perceived legitimate authority and gradual escalation than by any claim that most people are unusually cruel. Attribution theory addresses a related but distinct question: how people explain others' behavior, and specifically identifies the fundamental attribution error -- the pervasive tendency to over-explain other people's behavior by appeal to their personality or disposition ('she's rude') while under-weighting the specific situation they were in, even as people readily invoke situational explanations for their own identical behavior.",
+    "et": "Solomon Aschi konformsuse eksperimendid näitasid, et märkimisväärne osa inimestest annab vastuse ilmselgelt lihtsale tajuküsimusele (milline kolmest joonest vastab võrdlusjoonele), mille kohta nad eraviisiliselt teavad, et see on vale, lihtsalt seetõttu, et kõik teised ruumis olevad inimesed -- kaasosalised, kes olid juhendatud valesti vastama -- andsid sama vale vastuse enne, tõestades, et sotsiaalne konformsussurve võib üle trumbata isegi üheselt mõistetava sensoorse tõendi. Stanley Milgrami kuuletumiseksperimendid läksid veelgi kaugemale, leides, et enamik tavalisi osalejaid manustaks teisele inimesele seda, mida nad uskusid olevat eskaleeruvad, ohtlikud elektrilöögid, lihtsalt seetõttu, et autoriteetne isik valges kitlis andis rahulikult käsu jätkata -- tulemus, mida seletab paremini tajutud legitiimse autoriteedi ja järkjärgulise eskalatsiooni spetsiifiline situatsiooniline surve kui väide, et enamik inimesi on ebatavaliselt julmad. Omistamisteooria käsitleb seotud, kuid eraldiseisvat küsimust: kuidas inimesed seletavad teiste käitumist, ning tuvastab spetsiifiliselt fundamentaalse omistamisvea -- levinud kalduvuse üleseletada teiste inimeste käitumist nende isiksuse või meelelaadi kaudu ('ta on ebaviisakas'), samal ajal alahinnates konkreetset olukorda, milles nad olid, isegi kui inimesed toovad meelsasti situatsioonilisi seletusi enda identse käitumise kohta.",
+    "sourceHash": "2e9024688b867a07",
+    "stale": false
+  },
+  "prerequisites": []
+}

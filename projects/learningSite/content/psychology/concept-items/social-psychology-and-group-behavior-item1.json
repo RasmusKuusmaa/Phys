@@ -1,0 +1,56 @@
+{
+  "id": "social-psychology-and-group-behavior-item1",
+  "conceptId": "social-psychology-and-group-behavior",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A driver cuts you off in traffic and you think 'what a reckless, inconsiderate person.' Later, you cut someone else off because you were rushing to an emergency, and you think 'I had no choice given the situation.' What does this asymmetry illustrate?",
+    "et": "Juht lõikab sulle liikluses tee ette ja sa mõtled 'milline hoolimatu, mõtlematu inimene.' Hiljem lõikad sa ise kellelegi teisele tee ette, sest kiirustasid hädaolukorda, ja mõtled 'mul polnud olukorda arvestades valikut.' Mida see asümmeetria illustreerib?",
+    "sourceHash": "a4651891d6c22382",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The fundamental attribution error: over-attributing others' behavior to stable disposition/character while readily attributing one's own identical behavior to situational factors.",
+        "et": "Fundamentaalne omistamisviga: teiste käitumise üleomistamine stabiilsele meelelaadile/iseloomule, samal ajal kui enda identset käitumist omistatakse meelsasti situatsioonilistele teguritele.",
+        "sourceHash": "7411c281a1e95428",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Conformity, since you changed your judgment about the other driver's character to match what a group of onlookers would think.",
+        "et": "Konformsus, kuna sa muutsid oma hinnangut teise juhi iseloomu kohta vastavaks sellele, mida grupp pealtvaatajaid arvaks.",
+        "sourceHash": "0ba75deb117c07fd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "social-psychology-and-group-behavior-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Obedience to authority, since traffic laws are a form of authority both drivers were responding to.",
+        "et": "Kuuletumine autoriteedile, kuna liikluseeskirjad on autoriteedi vorm, millele mõlemad juhid reageerisid.",
+        "sourceHash": "fdc0a0ed601133f9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "social-psychology-and-group-behavior-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Attachment style, since how you react to being cut off in traffic reflects your early-childhood bond with your caregivers.",
+        "et": "Kiindumusstiil, kuna see, kuidas sa reageerid liikluses tee ette lõikamisele, peegeldab su varase lapsepõlve sidet hooldajatega.",
+        "sourceHash": "d04118f6d0cf4539",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "social-psychology-and-group-behavior-m3"
+    }
+  ]
+}
