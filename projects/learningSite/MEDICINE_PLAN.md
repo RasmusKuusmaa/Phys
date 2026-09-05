@@ -921,28 +921,42 @@ the organ-system/anatomy/pathology depth on top of it.
 
 ### Module `reproductive-medicine`
 
-- [ ] Reproductive system anatomy and physiology (male and female
+- [x] Reproductive system anatomy and physiology (male and female
       reproductive anatomy, gametogenesis overview — the missing Med1-level
       foundation this module needs; no prerequisites)
-- [ ] Menstrual cycle and ovulation mechanisms (follicular and luteal
+- [x] Menstrual cycle and ovulation mechanisms (follicular and luteal
       phases, the ovulation-trigger mechanism; prerequisites:
       reproductive-system-anatomy-and-physiology, reproductive-
       endocrinology-overview)
-- [ ] Pregnancy physiology and placental function (implantation, placental
+- [x] Pregnancy physiology and placental function (implantation, placental
       hormone production, the major physiologic changes of pregnancy;
       prerequisite: reproductive-system-anatomy-and-physiology)
-- [ ] Infertility mechanisms (ovulatory disorders, structural/tubal
+- [x] Infertility mechanisms (ovulatory disorders, structural/tubal
       factors, male-factor mechanisms — as mechanistic categories;
       prerequisite: menstrual-cycle-and-ovulation-mechanisms)
-- [ ] Sexually transmitted infection mechanisms (a mechanism-focused survey
+- [x] Sexually transmitted infection mechanisms (a mechanism-focused survey
       of major STI pathogen categories, building on microbiology rather
       than restating it; prerequisites: reproductive-system-anatomy-and-
       physiology, host-pathogen-interactions-and-virulence)
-- [ ] Reproductive tract neoplasia mechanisms (cervical/endometrial/
+- [x] Reproductive tract neoplasia mechanisms (cervical/endometrial/
       ovarian/testicular/prostate cancer as HPV-driven vs. hormone-driven
       vs. other mechanism categories, not exhaustive staging; prerequisites:
       neoplasia-and-cancer-biology, reproductive-system-anatomy-and-
       physiology)
+
+Module complete: 6 reproductive-medicine concepts, all kept conceptual —
+each concept's real content is a mechanistic distinction (continuous vs.
+pre-allocated gamete-production timelines, the negative-to-positive
+feedback flip driving the LH surge, hormonal handoff from corpus luteum to
+placenta, ovulatory vs. structural/tubal vs. obstructive infertility
+mechanisms, three STI pathogen categories' distinct infection mechanisms,
+and infectious vs. hormonal vs. cumulative-mutation/hereditary cancer
+drivers), not a single clean numeric relationship. No new glossary terms
+needed. `npm run validate:content` (9 subjects, 630 concepts), `npm run
+lint:terminology` (266 glossary terms), and `npm run typecheck` all pass;
+every resource URL verified live with `curl`. Two Estonian resources are
+honest close matches rather than topic-perfect ones, since Estonian
+Wikipedia does not have an article at some of these exact scopes.
 
 ### Module `dermatology`
 
