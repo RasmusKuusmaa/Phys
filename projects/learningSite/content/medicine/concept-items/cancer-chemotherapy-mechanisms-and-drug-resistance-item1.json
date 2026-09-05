@@ -1,0 +1,56 @@
+{
+  "id": "cancer-chemotherapy-mechanisms-and-drug-resistance-item1",
+  "conceptId": "cancer-chemotherapy-mechanisms-and-drug-resistance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do classic chemotherapy drugs cause hair loss and gastrointestinal symptoms as common side effects, even though the drug is intended to target cancer cells?",
+    "et": "Miks põhjustavad klassikalised keemiaravimid tavaliste kõrvaltoimetena juuste väljalangemist ja seedetrakti sümptomeid, kuigi ravim on mõeldud vähirakkude sihtimiseks?",
+    "sourceHash": "2add1230826e5922",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because most conventional chemotherapy targets rapid cell division generally rather than a cancer-specific feature, and hair follicles and gut lining are among the normal tissues that also divide rapidly.",
+        "et": "Sest enamik tavapärast keemiaravi sihib üldist kiiret rakujagunemist, mitte vähispetsiifilist tunnust, ning juuksefolliikulid ja soole limaskest kuuluvad normaalsete kudede hulka, mis samuti kiiresti jagunevad.",
+        "sourceHash": "1385193c8c60e94c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because chemotherapy is completely cancer-specific, and hair loss/GI symptoms are unrelated side effects caused by a separate mechanism entirely.",
+        "et": "Sest keemiaravi on täiesti vähispetsiifiline ning juuste väljalangemine ja seedetrakti sümptomid on seotud kõrvaltoimed, mis on põhjustatud täiesti eraldiseisvast mehhanismist.",
+        "sourceHash": "d2fb94e050e619df",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cancer-chemotherapy-mechanisms-and-drug-resistance-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because all chemotherapy, including targeted therapy, works by exploiting the exact same molecular abnormality found only in cancer cells.",
+        "et": "Sest kogu keemiaravi, sealhulgas sihtravi, toimib täpselt sama molekulaarse kõrvalekalde ärakasutamise kaudu, mida leidub ainult vähirakkudes.",
+        "sourceHash": "5248f0972f375d13",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cancer-chemotherapy-mechanisms-and-drug-resistance-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the drug itself directly damages hair and gut tissue through a toxic mechanism unrelated to how it affects cancer cells.",
+        "et": "Sest ravim ise kahjustab otseselt juukseid ja soolekude toksilise mehhanismi kaudu, mis ei ole seotud sellega, kuidas see mõjutab vähirakke.",
+        "sourceHash": "70bd07b5364465b9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cancer-chemotherapy-mechanisms-and-drug-resistance-m3"
+    }
+  ]
+}

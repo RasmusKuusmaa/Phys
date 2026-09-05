@@ -1,0 +1,22 @@
+{
+  "id": "cancer-chemotherapy-mechanisms-and-drug-resistance",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "hematology-and-oncology",
+  "title": {
+    "en": "Cancer chemotherapy mechanisms and drug resistance",
+    "et": "Vähi keemiaravi mehhanismid ja ravimresistentsus",
+    "sourceHash": "3f763cb15a222c2b",
+    "stale": false
+  },
+  "summary": {
+    "en": "Chemotherapy exploits the one property that most reliably distinguishes cancer cells from most normal cells: rapid, uncontrolled division, targeting it with cytotoxic drugs that interfere with DNA replication or cell division at different points in the cell cycle -- alkylating agents that directly damage DNA, antimetabolites that mimic and block the building blocks of DNA synthesis, and mitotic inhibitors that arrest cells attempting to divide -- and because a handful of normal tissues also divide rapidly (bone marrow, gut lining, hair follicles), these same drugs' characteristic side effects (immunosuppression, gastrointestinal symptoms, hair loss) are really just this lack of cancer-specificity showing up in the tissues that share the target property. Targeted therapies attempt to improve on this by exploiting a specific molecular abnormality driving a particular cancer (blocking an overactive growth-signaling receptor, for instance) rather than proliferation rate generally, in principle sparing normal cells that lack that specific abnormality. Both approaches face the same underlying problem, though: tumors are genetically heterogeneous populations of cells, and any treatment that kills most of a tumor's cells but not all of them selects for whichever pre-existing or newly-acquired resistant subclones survive, which can then repopulate the tumor -- the same natural-selection logic driving antimicrobial resistance, applied to a patient's own tumor cell population.",
+    "et": "Keemiaravi kasutab ära ühte omadust, mis kõige usaldusväärsemalt eristab vähirakke enamikest normaalsetest rakkudest: kiire, kontrollimatu jagunemine, sihtides seda tsütotoksiliste ravimitega, mis häirivad DNA replikatsiooni või rakujagunemist rakutsükli eri punktides -- alküleerivad ained, mis kahjustavad otse DNA-d, antimetaboliidid, mis jäljendavad ja blokeerivad DNA sünteesi ehituskive, ning mitootilised inhibiitorid, mis peatavad jagunemist üritavad rakud -- ning kuna ka mõned normaalsed koed jagunevad kiiresti (luuüdi, sooletrakti limaskest, juuksefolliikulid), on nende samade ravimite iseloomulikud kõrvaltoimed (immuunosupressioon, seedetrakti sümptomid, juuste väljalangemine) tegelikult lihtsalt see vähispetsiifilisuse puudumine, mis avaldub kudedes, mis jagavad sihtomadust. Sihtravimid üritavad seda parandada, kasutades ära konkreetset molekulaarset kõrvalekallet, mis juhib konkreetset vähki (näiteks blokeerides ülaktiivset kasvusignaali retseptorit), mitte üldist paljunemiskiirust, säästes põhimõtteliselt normaalseid rakke, millel see konkreetne kõrvalekalle puudub. Mõlemad lähenemisviisid seisavad siiski silmitsi sama põhiprobleemiga: kasvajad on geneetiliselt heterogeensed rakupopulatsioonid ning igasugune ravi, mis tapab enamiku, kuid mitte kõiki kasvaja rakke, valib välja need eelnevalt olemasolevad või äsja omandatud resistentsed alakloonid, mis ellu jäävad ja mis võivad seejärel kasvaja uuesti täita -- sama looduslikku valikut käsitlev loogika, mis juhib antimikroobset resistentsust, rakendatuna patsiendi enda kasvajarakkude populatsioonile.",
+    "sourceHash": "b247cbee5e11024a",
+    "stale": false
+  },
+  "prerequisites": [
+    "neoplasia-and-cancer-biology",
+    "pharmacodynamics-and-drug-receptor-interactions"
+  ]
+}
