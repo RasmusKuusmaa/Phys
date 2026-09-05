@@ -70,7 +70,7 @@ Single module for now (`statistics-fundamentals`), same one-module-
 through-later-phases pattern every new subject on this site has started
 with.
 
-- [ ] Hypothesis testing and p-values (null vs. alternative hypotheses,
+- [x] Hypothesis testing and p-values (null vs. alternative hypotheses,
       the p-value, significance level, and Type I/II errors — the
       general statistical-inference framework, distinct from medicine's
       clinical-trial-specific framing of the same machinery; no
