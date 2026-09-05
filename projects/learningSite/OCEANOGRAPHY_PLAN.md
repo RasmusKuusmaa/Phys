@@ -64,28 +64,46 @@ Single module for now (`oceanography-fundamentals`), same one-module-
 through-later-phases pattern every new subject on this site has started
 with.
 
-- [ ] Ocean basin structure and seafloor topography (mid-ocean ridges,
+- [x] Ocean basin structure and seafloor topography (mid-ocean ridges,
       abyssal plains, ocean trenches, the continental shelf/slope/rise —
-      the oceanographic-mapping/features angle; no prerequisites)
-- [ ] Ocean circulation and currents (wind-driven surface gyres, and
+      the oceanographic-mapping/features angle; no prerequisites; kept
+      conceptual)
+- [x] Ocean circulation and currents (wind-driven surface gyres, and
       thermohaline "conveyor belt" deep circulation — the large-scale
       circulation-pattern layer, distinct from physics's existing
-      density-stratification concept; no prerequisites)
-- [ ] Tides and tidal mechanisms (the tide-generating forces from the
+      density-stratification concept; no prerequisites; kept conceptual)
+- [x] Tides and tidal mechanisms (the tide-generating forces from the
       Moon and Sun, spring vs. neap tides, and the different tidal
       patterns coastlines actually show — an entire topic absent from
-      every existing subject; no prerequisites)
-- [ ] Ocean chemistry and seawater composition (salinity, dissolved
+      every existing subject; no prerequisites; kept conceptual)
+- [x] Ocean chemistry and seawater composition (salinity, dissolved
       gases, and the carbonate-buffering system behind ocean
       acidification — the chemistry-mechanism angle, distinct from
       environmental-science's ecological-consequence framing of the same
-      phenomenon; no prerequisites)
-- [ ] Marine ecosystems and biological zonation (pelagic vs. benthic
+      phenomenon; no prerequisites; kept conceptual)
+- [x] Marine ecosystems and biological zonation (pelagic vs. benthic
       zones, the photic/aphotic zone boundary, and marine food-web
       structure — the ocean-specific zonation layer on top of biology's
-      general ecology; no prerequisites)
-- [ ] Waves and coastal processes (wind-wave formation and mechanics, and
-      coastal erosion/deposition processes; no prerequisites)
+      general ecology; no prerequisites; kept conceptual)
+- [x] Waves and coastal processes (wind-wave formation and mechanics, and
+      coastal erosion/deposition processes; no prerequisites; kept
+      conceptual)
+
+Phase Ocean1 complete: 6 oceanography concepts. None needed a formula —
+this phase's content is descriptive/systems-level reasoning throughout
+(seafloor classification, circulation-pattern distinctions, tidal-force
+geometry, carbonate chemistry, zonation, and wave/coastal-transport
+mechanics), same balance several other subjects' first phase has struck.
+`npm run validate:content` (14 subjects, 683 concepts), `npm run
+lint:terminology` (272 glossary terms — no new terms needed), and `npm run
+typecheck` all pass; every resource URL verified live with `curl`. Three
+Estonian resource searches needed a second lookup past an initial guessed
+URL that 404'd: `ocean-basin-structure-and-seafloor-topography` links to
+"Ookeanipõhi" (not a guessed "Merepõhi", which doesn't exist as an
+article), `ocean-chemistry-and-seawater-composition` links to "Ookeanide
+hapestumine" (the exact-topic article, found after "Mere hapestumine"
+404'd), and `marine-ecosystems-and-biological-zonation` links to "Pelagos"
+(not a guessed "Pelaagiline vöönd", which returned no response).
 
 ## Phase Ocean2 — not yet planned
 
