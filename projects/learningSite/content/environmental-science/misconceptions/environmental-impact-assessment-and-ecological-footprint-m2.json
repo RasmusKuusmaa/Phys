@@ -1,0 +1,10 @@
+{
+  "id": "environmental-impact-assessment-and-ecological-footprint-m2",
+  "conceptId": "environmental-impact-assessment-and-ecological-footprint",
+  "text": {
+    "en": "An environmental impact assessment's purpose is to guarantee that a project will be approved only if it causes zero environmental harm -- in reality, an EIA's purpose is to systematically identify, evaluate, and make visible a project's likely environmental effects and tradeoffs compared to a baseline and to alternatives (including not proceeding), so decision-makers can weigh those effects explicitly -- it is a disclosure and comparison process, not a guarantee that only zero-impact projects proceed.",
+    "et": "Keskkonnamõju hindamise eesmärk on tagada, et projekt kiidetakse heaks ainult siis, kui see ei tekita üldse keskkonnakahju -- tegelikult on keskkonnamõju hindamise eesmärk süstemaatiliselt tuvastada, hinnata ja nähtavaks teha projekti tõenäolised keskkonnamõjud ja kompromissid võrreldes algtaseme ja alternatiividega (sealhulgas edasi mitte minemine), nii et otsustajad saaksid neid mõjusid selgesõnaliselt kaaluda -- see on avalikustamis- ja võrdlusprotsess, mitte garantii, et heaks kiidetakse ainult nullmõjuga projektid.",
+    "sourceHash": "766e0bb1521fd54a",
+    "stale": false
+  }
+}

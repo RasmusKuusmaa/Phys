@@ -1,0 +1,56 @@
+{
+  "id": "environmental-impact-assessment-and-ecological-footprint-item1",
+  "conceptId": "environmental-impact-assessment-and-ecological-footprint",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A country's ecological footprint is calculated to be significantly larger than the biocapacity of its own territory, yet the country's economy and consumption continue without an obvious immediate crisis. What does this situation actually represent?",
+    "et": "Riigi ökoloogiline jalajälg on arvutatud oluliselt suuremaks kui tema enda territooriumi biovõimekus, kuid riigi majandus ja tarbimine jätkuvad ilma ilmse vahetu kriisita. Mida see olukord tegelikult tähendab?",
+    "sourceHash": "2601add03e27ebe1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Ecological overshoot: the country is sustaining its consumption by drawing down natural capital (its own or, via trade, other territories'/the atmosphere's) faster than it regenerates, a real physical draw-down rather than a situation with no consequence, even without an immediate visible crisis.",
+        "et": "Ökoloogiline ülekasutus: riik toimib oma tarbimise toetamisel loodusliku kapitali (oma enda või, kaubanduse kaudu, teiste territooriumide/atmosfääri) vähendamise kaudu kiiremini, kui see taastub, tõeline füüsiline vähendamine, mitte olukord ilma tagajärjeta, isegi ilma ilmse nähtava kriisita.",
+        "sourceHash": "266f08894032356a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The footprint calculation must be measuring only the country's carbon emissions, and its actual broader resource footprint is likely much lower and within its biocapacity.",
+        "et": "Jalajälje arvutus peab mõõtma ainult riigi süsinikuheidet, ning selle tegelik laiem ressursijalajälg on tõenäoliselt palju madalam ja jääb tema biovõimekuse piiresse.",
+        "sourceHash": "9d131995d78df818",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "environmental-impact-assessment-and-ecological-footprint-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This must mean the country's environmental impact assessments have been approving projects incorrectly, since EIAs are meant to guarantee that approved projects always fit within available biocapacity.",
+        "et": "See peab tähendama, et riigi keskkonnamõju hindamised on projekte valesti heaks kiitnud, kuna hindamised peavad tagama, et heaks kiidetud projektid mahuvad alati kättesaadava biovõimekuse piiresse.",
+        "sourceHash": "43920aa874aafc7b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "environmental-impact-assessment-and-ecological-footprint-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since no obvious immediate crisis has occurred, exceeding biocapacity must be a harmless accounting quirk without a real underlying physical draw-down of resources.",
+        "et": "Kuna ühtki ilmset vahetut kriisi ei ole toimunud, peab biovõimekuse ületamine olema kahjutu arvestuslik kummalisus ilma tegeliku aluseks oleva füüsilise ressursside vähendamiseta.",
+        "sourceHash": "3d4c66cf748b699c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "environmental-impact-assessment-and-ecological-footprint-m3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "environmental-impact-assessment-and-ecological-footprint-solve-O",
+  "formulaId": "environmental-impact-assessment-and-ecological-footprint-formula1",
+  "solveFor": "O",
+  "mistakes": [
+    {
+      "id": "inverted-the-ratio",
+      "description": {
+        "en": "Inverted the ratio, computing biocapacity divided by footprint instead of the other way round.",
+        "et": "Pööras suhte ümber, arvutades biovõimekuse jagatuna jalajäljega, selle asemel et teha vastupidi.",
+        "sourceHash": "6d2ed33fd7a4875f",
+        "stale": false
+      },
+      "expression": "B/F"
+    },
+    {
+      "id": "subtracted-instead-of-divided",
+      "description": {
+        "en": "Subtracted biocapacity from footprint instead of dividing one by the other.",
+        "et": "Lahutas biovõimekuse jalajäljest, selle asemel et üht teisega jagada.",
+        "sourceHash": "23b2e30f9e94f7d9",
+        "stale": false
+      },
+      "expression": "F-B"
+    },
+    {
+      "id": "used-footprint-alone",
+      "description": {
+        "en": "Used the footprint value alone as if it were already the overshoot ratio, ignoring biocapacity entirely.",
+        "et": "Kasutas jalajälje väärtust üksi, nagu see oleks juba ülekasutuse suhe, jättes biovõimekuse täielikult arvestamata.",
+        "sourceHash": "471335d24a022a47",
+        "stale": false
+      },
+      "expression": "F"
+    }
+  ]
+}

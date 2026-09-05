@@ -1,0 +1,47 @@
+{
+  "id": "environmental-impact-assessment-and-ecological-footprint-formula1",
+  "conceptId": "environmental-impact-assessment-and-ecological-footprint",
+  "latex": "O = \\frac{F}{B}",
+  "symbols": [
+    {
+      "symbol": "O",
+      "name": {
+        "en": "overshoot ratio",
+        "et": "ülekasutuse suhe",
+        "sourceHash": "ecb7f6599254e40c",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "F",
+      "name": {
+        "en": "ecological footprint",
+        "et": "ökoloogiline jalajälg",
+        "sourceHash": "3be7bab559cbf21b",
+        "stale": false
+      },
+      "unit": "m^2"
+    },
+    {
+      "symbol": "B",
+      "name": {
+        "en": "biocapacity",
+        "et": "biovõimekus",
+        "sourceHash": "1e4ce1b9a3150647",
+        "stale": false
+      },
+      "unit": "m^2"
+    }
+  ],
+  "solveFor": [
+    "O",
+    "F",
+    "B"
+  ],
+  "expressions": {
+    "O": "F/B",
+    "F": "O*B",
+    "B": "F/O"
+  }
+}

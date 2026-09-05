@@ -1,0 +1,33 @@
+{
+  "id": "environmental-impact-assessment-and-ecological-footprint-solve-O",
+  "formulaId": "environmental-impact-assessment-and-ecological-footprint-formula1",
+  "variables": [
+    {
+      "symbol": "F",
+      "min": 10000,
+      "max": 60000,
+      "unit": "m^2",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "B",
+      "min": 8000,
+      "max": 40000,
+      "unit": "m^2",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "F",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "B",
+      "right": 0
+    }
+  ],
+  "solveFor": "O"
+}

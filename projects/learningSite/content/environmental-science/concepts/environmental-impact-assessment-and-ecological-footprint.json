@@ -1,0 +1,19 @@
+{
+  "id": "environmental-impact-assessment-and-ecological-footprint",
+  "subject": "environmental-science",
+  "level": "L2",
+  "module": "environmental-science-fundamentals",
+  "title": {
+    "en": "Environmental impact assessment and ecological footprint",
+    "et": "Keskkonnamõju hindamine ja ökoloogiline jalajälg",
+    "sourceHash": "d6dd1e8fe8e4ba1f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Before a major development project (a dam, a mine, a highway) is approved, an environmental impact assessment systematically identifies and evaluates the project's likely effects on air, water, soil, and ecosystems, comparing that predicted impact against a baseline of pre-project conditions and against feasible alternatives, including the option of not proceeding at all -- the goal is to make environmental tradeoffs visible and comparable before a decision is made, not to guarantee a particular outcome. The ecological footprint applies a related but more general logic to any population's overall resource consumption: it converts everything a population consumes and every waste stream it produces into a single common unit, the amount of biologically productive land and water area required to supply those resources and absorb that waste, so that a population's total demand on nature can be compared directly against biocapacity, the amount of biologically productive area actually available to supply it. When a population's ecological footprint exceeds the biocapacity available to it, that population is in ecological overshoot -- sustained only by drawing down natural capital rather than living within the area's actual regenerative capacity, the same overshoot logic this subject's own natural-resource-management concept establishes for a single renewable resource, now applied to an entire population's aggregate demand on nature.",
+    "et": "Enne suure arendusprojekti (tamm, kaevandus, kiirtee) heakskiitmist tuvastab ja hindab keskkonnamõju hindamine süstemaatiliselt projekti tõenäolisi mõjusid õhule, veele, mullale ja ökosüsteemidele, võrreldes seda ennustatud mõju projektieelsete tingimuste algtasemega ja teostatavate alternatiividega, sealhulgas võimalusega üldse mitte edasi minna -- eesmärk on muuta keskkonnaalased kompromissid nähtavaks ja võrreldavaks enne otsuse tegemist, mitte tagada konkreetset tulemust. Ökoloogiline jalajälg rakendab seotud, kuid üldisemat loogikat mistahes populatsiooni üldisele ressursitarbimisele: see teisendab kõik, mida populatsioon tarbib, ja iga jäätmevoo, mida see toodab, üheks ühiseks ühikuks, bioloogiliselt tootliku maa- ja veepindala hulgaks, mis on vajalik nende ressursside varustamiseks ja selle jäätme sidumiseks, nii et populatsiooni kogunõudlust looduse suhtes saab otse võrrelda biovõimekusega, bioloogiliselt tootliku pindala hulgaga, mis on selle varustamiseks tegelikult kättesaadav. Kui populatsiooni ökoloogiline jalajälg ületab talle kättesaadava biovõimekuse, on see populatsioon ökoloogilises ülekasutuses -- toimib ainult loodusliku kapitali vähendamise arvelt, selle asemel et elada pindala tegeliku taastumisvõime piires, sama ülekasutuse loogika, mille selle aine oma loodusvarade-majandamise mõiste kehtestab üksiku taastuva ressursi jaoks, nüüd rakendatuna terve populatsiooni koondnõudlusele looduse suhtes.",
+    "sourceHash": "8d57fdfcb27074f4",
+    "stale": false
+  },
+  "prerequisites": []
+}
