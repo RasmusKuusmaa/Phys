@@ -1,0 +1,56 @@
+{
+  "id": "ocean-circulation-and-currents-item1",
+  "conceptId": "ocean-circulation-and-currents",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does thermohaline circulation take roughly a thousand years to complete one circuit, while a wind-driven surface current can cross an ocean basin in months?",
+    "et": "Miks võtab termohaliinse ringluse ühe ringi läbimine aega umbes tuhat aastat, samas kui tuulest tingitud pinnahoovus võib ületada ookeanibasseini mõne kuuga?",
+    "sourceHash": "755891e262201da3",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the two systems are driven by entirely different mechanisms -- direct wind forcing on the surface (fast) versus slow density-driven sinking, deep spreading, and eventual upwelling (extraordinarily slow) -- not because one is simply a deeper version of the other.",
+        "et": "Sest kaht süsteemi käivitavad täiesti erinevad mehhanismid -- otsene tuulejõud pinnal (kiire) versus aeglane tihedusest tingitud vajumine, sügav levimine ja lõplik üleskerkimine (erakordselt aeglane) -- mitte seetõttu, et üks on lihtsalt teise sügavam versioon.",
+        "sourceHash": "19bd5d1f093b4b2e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because deep water is simply much denser and therefore inherently moves slower through the water in every circulation system, at any depth, by physical necessity.",
+        "et": "Sest sügav vesi on lihtsalt palju tihedam ja seetõttu liigub see olemuslikult vees aeglasemalt igas ringlussüsteemis, mistahes sügavusel, füüsikalisest paratamatusest.",
+        "sourceHash": "63f9098c1d123f3a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ocean-circulation-and-currents-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because surface currents and thermohaline circulation are actually the same current measured at different points, and it simply takes that much longer to reach the deep-ocean measurement point.",
+        "et": "Sest pinnahoovused ja termohaliinne ringlus on tegelikult sama hoovus, mida mõõdetakse erinevates punktides, ning selle sügava ookeani mõõtepunktini jõudmine lihtsalt võtab nii kaua aega.",
+        "sourceHash": "29a5d4fe9d39d8af",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ocean-circulation-and-currents-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because thermohaline circulation happens uniformly across the whole ocean at once, so the sheer volume of water involved slows the whole process down compared to a localized surface current.",
+        "et": "Sest termohaliinne ringlus toimub ühtlaselt üle kogu ookeani korraga, mistõttu asjaomase vee tohutu maht aeglustab kogu protsessi võrreldes lokaalse pinnahoovusega.",
+        "sourceHash": "0da8e79926e2372a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ocean-circulation-and-currents-m3"
+    }
+  ]
+}

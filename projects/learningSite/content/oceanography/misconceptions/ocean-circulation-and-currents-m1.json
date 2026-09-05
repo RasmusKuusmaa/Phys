@@ -1,0 +1,10 @@
+{
+  "id": "ocean-circulation-and-currents-m1",
+  "conceptId": "ocean-circulation-and-currents",
+  "text": {
+    "en": "Ocean surface currents and the deep-ocean 'conveyor belt' circulation are the same phenomenon, just described at different depths -- in reality, they are driven by entirely different mechanisms: surface currents are wind-driven and operate on a timescale of months, while thermohaline circulation is driven by density differences (temperature and salinity) and takes on the order of a thousand years to complete one circuit.",
+    "et": "Ookeani pinnahoovused ja sügava ookeani 'konveierlindi' ringlus on sama nähtus, mida lihtsalt kirjeldatakse erinevatel sügavustel -- tegelikult on need käivitatud täiesti erinevate mehhanismide poolt: pinnahoovused on tuulest tingitud ja toimivad kuude ajaskaalal, samas kui termohaliinset ringlust käivitavad tiheduserinevused (temperatuur ja soolsus) ning selle ühe ringi läbimine võtab aega umbes tuhat aastat.",
+    "sourceHash": "914ecfb3764e12b0",
+    "stale": false
+  }
+}

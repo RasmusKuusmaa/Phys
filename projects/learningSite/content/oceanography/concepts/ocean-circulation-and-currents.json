@@ -1,0 +1,19 @@
+{
+  "id": "ocean-circulation-and-currents",
+  "subject": "oceanography",
+  "level": "L2",
+  "module": "oceanography-fundamentals",
+  "title": {
+    "en": "Ocean circulation and currents",
+    "et": "Ookeani ringlus ja hoovused",
+    "sourceHash": "4477c8ae575e2bee",
+    "stale": false
+  },
+  "summary": {
+    "en": "The ocean's surface and its deep interior are stirred by two almost entirely separate circulation systems, driven by different forces and operating on wildly different timescales. Surface currents are driven directly by wind: persistent wind belts drag the upper few hundred meters of ocean into large, roughly circular current systems called gyres, and the Coriolis effect deflects that wind-driven flow into the clockwise (Northern Hemisphere) or counterclockwise (Southern Hemisphere) rotation each ocean basin's gyre actually shows -- a surface current can move water across an entire ocean basin in a matter of months. Thermohaline circulation, often called the global ocean conveyor belt, works on an entirely different principle and timescale: in a few specific high-latitude regions, surface water becomes cold and salty enough (through cooling and sea-ice formation, which leaves excess salt behind) to become denser than the water beneath it, so it sinks all the way to the deep ocean and then spreads slowly along the seafloor before eventually upwelling again elsewhere, a single circuit of this deep conveyor taking on the order of a thousand years to complete. These two systems are linked -- surface currents feed water into the sinking regions that drive the deep conveyor -- but they are mechanistically distinct: one is wind-driven and fast, the other is density-driven and extraordinarily slow.",
+    "et": "Ookeani pinda ja selle sügavat sisemust segavad kaks peaaegu täiesti eraldiseisvat ringlussüsteemi, mida käivitavad erinevad jõud ja mis toimivad äärmiselt erinevatel ajaskaaladel. Pinnahoovuseid käivitab otseselt tuul: püsivad tuulevööndid tirivad ookeani ülemised paarsada meetrit suurteks, ligikaudu ringikujulisteks hoovusesüsteemideks, mida nimetatakse güürideks, ning Coriolise efekt suunab selle tuulest tingitud voolu päripäeva (põhjapoolkeral) või vastupäeva (lõunapoolkeral) pöörlemisse, mida iga ookeanibasseini güür tegelikult näitab -- pinnahoovus võib liigutada vett üle terve ookeanibasseini mõne kuu jooksul. Termohaliinne ringlus, mida sageli nimetatakse globaalseks ookeani konveierlindiks, toimib täiesti teistsuguse põhimõtte ja ajaskaala järgi: mõnes kindlas kõrgetel laiuskraadidel asuvas piirkonnas muutub pinnavesi jahtumise ja merejää moodustumise tõttu (mis jätab liigse soola maha) piisavalt külmaks ja soolaseks, et muutuda tihedamaks kui allolev vesi, mistõttu see vajub kogu tee sügavasse ookeani ja levib seejärel aeglaselt mööda merepõhja, enne kui lõpuks kusagil mujal jälle üles kerkib, ning selle sügava konveieri ühe ringi läbimine võtab aega umbes tuhat aastat. Need kaks süsteemi on omavahel seotud -- pinnahoovused toidavad vett vajumispiirkondadesse, mis käivitavad sügava konveieri -- kuid need on mehaaniliselt eristuvad: üks on tuulest tingitud ja kiire, teine tihedusest tingitud ja erakordselt aeglane.",
+    "sourceHash": "c8d543a78779386d",
+    "stale": false
+  },
+  "prerequisites": []
+}
