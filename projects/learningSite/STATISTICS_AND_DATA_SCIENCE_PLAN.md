@@ -75,27 +75,51 @@ with.
       general statistical-inference framework, distinct from medicine's
       clinical-trial-specific framing of the same machinery; no
       prerequisites — the unifying framework the rest of this subject
-      builds on)
-- [ ] Confidence intervals and estimation (point vs. interval estimation,
+      builds on; kept conceptual)
+- [x] Confidence intervals and estimation (point vs. interval estimation,
       and what a confidence interval actually means — the correct
-      frequentist interpretation vs. the common misinterpretation; a
-      genuine formula candidate; no prerequisites)
-- [ ] Analysis of variance and experimental design (ANOVA for comparing
+      frequentist interpretation vs. the common misinterpretation; no
+      prerequisites; formalised the margin-of-error relationship,
+      E = z * sigma / sqrt(n), as a formula + problem template + error
+      model, reusing three pre-existing but previously-unused glossary
+      terms — confidence-interval-half-width, standard-deviation,
+      sample-size — plus one new term, critical-value)
+- [x] Analysis of variance and experimental design (ANOVA for comparing
       more than two groups, and general experimental-design principles —
       randomization, replication, blocking; prerequisite: hypothesis-
-      testing-and-p-values)
-- [ ] Regression modeling and statistical inference (regression as a
+      testing-and-p-values; kept conceptual)
+- [x] Regression modeling and statistical inference (regression as a
       predictive/inferential modeling tool — coefficients, the
       coefficient of determination R², residuals, overfitting — distinct
-      from physics's measurement-uncertainty curve-fitting framing; a
-      genuine formula candidate for R²; no prerequisites)
-- [ ] Exploratory data analysis and data visualization (summary
+      from physics's measurement-uncertainty curve-fitting framing; no
+      prerequisites; formalised R^2 = 1 - SS_res/SS_tot as a formula +
+      problem template + error model, three new glossary terms)
+- [x] Exploratory data analysis and data visualization (summary
       statistics, distribution shape, and visualization principles for
-      understanding data before modeling; no prerequisites)
-- [ ] Machine learning foundations: supervised and unsupervised learning
+      understanding data before modeling; no prerequisites; kept
+      conceptual)
+- [x] Machine learning foundations: supervised and unsupervised learning
       (the supervised/unsupervised distinction, training/test splits,
       overfitting/underfitting, the bias-variance tradeoff at a
-      conceptual level; no prerequisites)
+      conceptual level; no prerequisites; kept conceptual)
+
+Phase Stats1 complete: 6 statistics-and-data-science concepts. Two of six
+got a formula (confidence-interval margin of error; R²). Four new glossary
+terms added (`critical-value`, `coefficient-of-determination`,
+`residual-sum-of-squares`, `total-sum-of-squares`); the confidence-interval
+formula also reused three pre-existing, previously-unused glossary entries
+(`confidence-interval-half-width`, `sample-size`, `standard-deviation`) —
+apparently coined for an earlier concept that was never actually built,
+now finally used. `npm run validate:content` (16 subjects, 695 concepts —
+sibling subjects landed concurrently), `npm run lint:terminology` (276
+glossary terms), and `npm run typecheck` all pass; every resource URL
+verified live with `curl`. Three Estonian resources are honest adjacent
+matches rather than exact-topic matches, since Estonian Wikipedia has no
+dedicated article at these exact scopes: `hypothesis-testing-and-p-values`
+links to "Alternatiivne hüpotees" (alternative hypothesis), `confidence-
+intervals-and-estimation` links to the general "Statistika" article, and
+`regression-modeling-and-statistical-inference` links to
+"Regressioonanalüüs" (regression analysis generally, not R² specifically).
 
 ## Phase Stats2 — not yet planned
 
