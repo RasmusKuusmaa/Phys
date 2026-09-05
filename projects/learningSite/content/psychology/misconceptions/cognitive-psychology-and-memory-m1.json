@@ -1,0 +1,10 @@
+{
+  "id": "cognitive-psychology-and-memory-m1",
+  "conceptId": "cognitive-psychology-and-memory",
+  "text": {
+    "en": "Memory works like a video recording that stores an exact, unchanging copy of an experience which can be played back later -- in reality, encoding is selective and lossy from the start, and retrieval itself is a reconstructive process that can be altered by later information, current mood, and suggestion, so a retrieved memory is a rebuilt reconstruction, not a replay of an unaltered original recording.",
+    "et": "Mälu töötab nagu videosalvestis, mis talletab kogemuse täpse, muutumatu koopia, mida saab hiljem taasesitada -- tegelikult on kodeerimine algusest peale valikuline ja kadudega, ning meenutamine ise on taasloov protsess, mida saab muuta hilisem info, hetke meeleolu ja soovitus, mistõttu meenutatud mälestus on ümberehitatud taasloome, mitte muutmata originaalsalvestise taasesitus.",
+    "sourceHash": "3977d03cd5492605",
+    "stale": false
+  }
+}

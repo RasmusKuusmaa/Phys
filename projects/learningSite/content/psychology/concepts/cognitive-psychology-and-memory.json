@@ -1,0 +1,19 @@
+{
+  "id": "cognitive-psychology-and-memory",
+  "subject": "psychology",
+  "level": "L2",
+  "module": "psychology-fundamentals",
+  "title": {
+    "en": "Cognitive psychology and memory",
+    "et": "Kognitiivne psühholoogia ja mälu",
+    "sourceHash": "84540b0eac0b7e7c",
+    "stale": false
+  },
+  "summary": {
+    "en": "The multi-store model splits memory into three genuinely distinct systems rather than one undifferentiated storehouse: sensory memory holds an almost-complete but extremely brief raw copy of incoming sensory information (well under a second for vision), short-term/working memory holds a small number of items for roughly seconds to a couple of minutes unless actively rehearsed, and long-term memory can retain vastly more information for a lifetime once it has been encoded there -- and information has to pass through the earlier, more limited stores to reach the later, more durable one, which is why a brief distraction can wipe out something you were just about to remember. Encoding (getting information into long-term memory in a form that will let it be found again) and retrieval (actually locating and reconstructing it later) are separate processes that can each independently fail, and forgetting itself has at least two genuinely different mechanisms behind it: decay, where a memory trace simply weakens with disuse over time, and interference, where other memories -- especially similar ones learned before or after -- actively compete with and disrupt access to the one you're trying to retrieve, which is why cramming similar material back-to-back often produces worse long-term retention than spacing it out.",
+    "et": "Mitme hoidla mudel jagab mälu kolmeks tõeliselt eristuvaks süsteemiks, mitte üheks eristamatuks laoruumiks: sensoorne mälu hoiab peaaegu täielikku, kuid äärmiselt lühiajalist toorkoopiat sissetulevast sensoorsest infost (nägemise puhul selgelt alla sekundi), lühiajaline/töömälu hoiab väikest arvu üksusi umbes sekunditest paari minutini, kui neid aktiivselt ei korrata, ning pikaajaline mälu suudab säilitada tohutult rohkem infot terve eluaja, kui see on sinna kord kodeeritud -- ning info peab läbima varasemad, piiratumad hoidlad, et jõuda hilisemasse, püsivamasse, mistõttu lühike hajumine võib kustutada midagi, mida sa just meelde jätta üritasid. Kodeerimine (info viimine pikaajalisse mällu vormis, mis lubab selle hiljem uuesti üles leida) ja meenutamine (selle tegelik hilisem leidmine ja taasloomine) on eraldi protsessid, mis võivad kumbki iseseisvalt ebaõnnestuda, ning unustamisel endal on vähemalt kaks tõeliselt erinevat mehhanismi: hääbumine, kus mälujälg lihtsalt nõrgeneb kasutamatuse tõttu aja jooksul, ja häirimine, kus teised mälestused -- eriti sarnased, mis on õpitud enne või pärast -- konkureerivad aktiivselt ja häirivad juurdepääsu sellele, mida sa meenutada üritad, mistõttu sarnase materjali tuupimine üksteise järel toodab sageli halvema pikaajalise säilimise kui selle jaotamine aja peale.",
+    "sourceHash": "ad311adbf322a089",
+    "stale": false
+  },
+  "prerequisites": []
+}

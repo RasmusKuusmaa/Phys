@@ -1,0 +1,10 @@
+{
+  "id": "cognitive-psychology-and-memory-m2",
+  "conceptId": "cognitive-psychology-and-memory",
+  "text": {
+    "en": "Short-term memory and long-term memory are just the same storage system, differing only in how long ago something happened -- in reality, the multi-store model treats them as functionally and capacity-wise distinct systems (short-term/working memory holds a small number of items briefly unless rehearsed; long-term memory has vastly greater capacity and duration once information is encoded there), and information must pass through the more limited store to reach the more durable one.",
+    "et": "Lühiajaline ja pikaajaline mälu on lihtsalt sama hoiustussüsteem, mis erinevad ainult selle poolest, kui kaua aega tagasi miski juhtus -- tegelikult käsitleb mitme hoidla mudel neid funktsionaalselt ja mahult eristuvate süsteemidena (lühiajaline/töömälu hoiab väikest arvu üksusi lühikest aega, kui neid ei korrata; pikaajalisel mälul on tohutult suurem maht ja kestus, kui info on sinna kord kodeeritud), ning info peab läbima piiratuma hoidla, et jõuda püsivamasse.",
+    "sourceHash": "e7e30f5074a54692",
+    "stale": false
+  }
+}

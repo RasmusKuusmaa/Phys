@@ -1,0 +1,56 @@
+{
+  "id": "cognitive-psychology-and-memory-item1",
+  "conceptId": "cognitive-psychology-and-memory",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A student crams for two similar exams (French vocabulary, then Spanish vocabulary) back-to-back the night before, and finds both sets of words much harder to recall a week later than material studied with a few days' gap between similar topics. What best explains this?",
+    "et": "Üliõpilane tuupib kahe sarnase eksami jaoks (prantsuse sõnavara, siis hispaania sõnavara) järjest õhtul enne eksamit ning leiab nädal hiljem mõlemad sõnad palju raskemini meelde tuletatavat kui materjali, mida õpiti sarnaste teemade vahel mõnepäevase vahega. Mis seda kõige paremini seletab?",
+    "sourceHash": "3853b5c81bd4fa71",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Interference between the two similar, closely-timed sets of vocabulary actively disrupts retrieval of each, a distinct mechanism from simple time-based decay.",
+        "et": "Häirimine kahe sarnase, ajaliselt lähedase sõnavarakogumi vahel häirib aktiivselt mõlema meenutamist -- mehhanism, mis erineb lihtsast ajapõhisest hääbumisest.",
+        "sourceHash": "6ecb8f6a9a2f7470",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both sets of words simply decayed at the same natural rate regardless of how they were studied, since decay is the only mechanism behind forgetting.",
+        "et": "Mõlemad sõnakogumid lihtsalt hääbusid sama loomuliku kiirusega, sõltumata sellest, kuidas neid õpiti, kuna hääbumine on ainus unustamise taga olev mehhanism.",
+        "sourceHash": "a434f10c9ed3bbdd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cognitive-psychology-and-memory-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This shows that short-term and long-term memory are really the same single store, since spacing didn't change which store the words ended up in.",
+        "et": "See näitab, et lühi- ja pikaajaline mälu on tegelikult üks ja sama hoidla, kuna vahega õppimine ei muutnud, millisesse hoidlasse sõnad lõpuks sattusid.",
+        "sourceHash": "601d3acd12d07aa7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cognitive-psychology-and-memory-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The exact original recording of each vocabulary list must have been physically overwritten in memory, the way a video file gets overwritten.",
+        "et": "Iga sõnavaraloendi täpne originaalsalvestis pidi mälus füüsiliselt üle kirjutatud saama, nii nagu videofail üle kirjutatakse.",
+        "sourceHash": "d9d73f0bd4dd820d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cognitive-psychology-and-memory-m3"
+    }
+  ]
+}
