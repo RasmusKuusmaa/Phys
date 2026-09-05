@@ -57,30 +57,45 @@ Single module for now (`meteorology-fundamentals`), same one-module-
 through-later-phases pattern every new subject on this site has started
 with.
 
-- [ ] Air masses and weather fronts (air mass classification by source
+- [x] Air masses and weather fronts (air mass classification by source
       region, and the four front types — cold, warm, occluded, stationary —
-      and the weather each produces; no prerequisites)
-- [ ] Atmospheric circulation and global wind patterns (the Hadley/Ferrel/
+      and the weather each produces; no prerequisites; kept conceptual)
+- [x] Atmospheric circulation and global wind patterns (the Hadley/Ferrel/
       polar circulation cells, the jet stream, and the Coriolis effect's
       role in wind direction — the planetary-circulation-pattern angle,
       distinct from physics's existing parcel-level adiabatic-cooling
-      concept; no prerequisites)
-- [ ] Cloud formation and precipitation mechanisms (condensation nuclei,
+      concept; no prerequisites; kept conceptual)
+- [x] Cloud formation and precipitation mechanisms (condensation nuclei,
       the major cloud classification types, and precipitation-formation
       processes — collision-coalescence and the Bergeron process; no
-      prerequisites)
-- [ ] Cyclones, anticyclones, and severe weather (extratropical cyclone
+      prerequisites; kept conceptual)
+- [x] Cyclones, anticyclones, and severe weather (extratropical cyclone
       structure, hurricane/typhoon formation and structure, tornado
-      formation; prerequisite: air-masses-and-weather-fronts)
-- [ ] Weather forecasting and atmospheric predictability (numerical
+      formation; prerequisite: air-masses-and-weather-fronts; kept
+      conceptual)
+- [x] Weather forecasting and atmospheric predictability (numerical
       weather prediction at a conceptual level, synoptic analysis, and
       the chaos-theory-driven limits on forecast predictability; no
-      prerequisites)
-- [ ] Climate classification and regional climate patterns (the Köppen
+      prerequisites; kept conceptual)
+- [x] Climate classification and regional climate patterns (the Köppen
       climate classification system, monsoon systems, and the El Niño-
       Southern Oscillation — natural climate variability, distinct from
       `environmental-science`'s human-driven climate-change concept; no
-      prerequisites)
+      prerequisites; kept conceptual)
+
+Phase Met1 complete: 6 meteorology concepts. None got a formula — this
+phase is systems/classification content throughout, and no clean single
+numeric relationship stood out at this synoptic depth (consistent with the
+plan's own prediction). No new glossary terms needed. All 12 resource URLs
+(6 concepts × EN/ET) individually curl-verified live. One Estonian resource
+is an honest close match rather than an exact-topic match: `air-masses-
+and-weather-fronts` links to the general "Front" (front) article since
+Estonian Wikipedia has no dedicated "weather front" article combining both
+front types and air-mass classification at this concept's exact scope.
+`npm run validate:content` (13 subjects, 671 concepts — includes sibling
+`environmental-science` and other subjects that landed concurrently),
+`npm run lint:terminology` (272 glossary terms), and `npm run typecheck`
+all pass; working tree clean.
 
 ## Phase Met2 — not yet planned
 
