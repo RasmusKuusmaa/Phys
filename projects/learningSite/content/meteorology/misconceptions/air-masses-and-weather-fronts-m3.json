@@ -1,0 +1,10 @@
+{
+  "id": "air-masses-and-weather-fronts-m3",
+  "conceptId": "air-masses-and-weather-fronts",
+  "text": {
+    "en": "A stationary front means the weather at that boundary is calm/unremarkable, since nothing is moving -- in reality, \"stationary\" describes only the front's lack of horizontal advance, not the intensity of the weather at the boundary itself; because neither air mass is retreating, the same lifting and precipitation processes that occur at a moving front can persist at the same location for days, often producing prolonged, sometimes severe, weather rather than calm conditions.",
+    "et": "Statsionaarne rinne tähendab, et ilm sellel piiril on rahulik/tähelepanuta jääv, kuna miski ei liigu -- tegelikult kirjeldab 'statsionaarne' ainult rinde horisontaalse edasiliikumise puudumist, mitte ilma intensiivsust piiril endal; kuna kumbki õhumass ei tagane, võivad samad tõstmis- ja sademeprotsessid, mis toimuvad liikuval rindel, püsida samas kohas päevi, tekitades sageli pikaajalist, mõnikord tugevat, mitte rahulikku ilma.",
+    "sourceHash": "cee6b1eba5d19d4b",
+    "stale": false
+  }
+}

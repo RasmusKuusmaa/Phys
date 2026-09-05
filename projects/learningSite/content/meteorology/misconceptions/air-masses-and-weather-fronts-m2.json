@@ -1,0 +1,10 @@
+{
+  "id": "air-masses-and-weather-fronts-m2",
+  "conceptId": "air-masses-and-weather-fronts",
+  "text": {
+    "en": "An air mass's properties are mainly determined by how far it has traveled, so an air mass changes gradually and continuously the longer its journey -- in reality, an air mass's defining temperature and humidity are set almost entirely by its source region (where it sat long enough to equilibrate with the surface beneath it), and it carries those properties largely unchanged during its actual movement, only modifying gradually at the edges as it travels over different surfaces -- the classification names the source, not the journey.",
+    "et": "Õhumassi omadused määrab peamiselt see, kui kaugele see on rännanud, mistõttu õhumass muutub järk-järgult ja pidevalt, mida pikem on tema teekond -- tegelikult määrab õhumassi iseloomuliku temperatuuri ja niiskuse peaaegu täielikult tema lähtepiirkond (kus see püsis piisavalt kaua, et tasakaalustuda aluspinnaga), ning see kannab neid omadusi tegeliku liikumise ajal suures osas muutumatuna, muutudes ainult järk-järgult servadest, kui see liigub üle erinevate pindade -- klassifikatsioon nimetab lähtekohta, mitte teekonda.",
+    "sourceHash": "6c68794432415315",
+    "stale": false
+  }
+}

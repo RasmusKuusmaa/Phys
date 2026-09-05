@@ -1,0 +1,10 @@
+{
+  "id": "air-masses-and-weather-fronts-m1",
+  "conceptId": "air-masses-and-weather-fronts",
+  "text": {
+    "en": "A cold front and a warm front just describe which direction the temperature is changing, not a specific weather pattern or structure -- in reality, the two front types have genuinely different mechanical structures (a steep, fast-advancing cold wedge vs. a shallow, slowly overriding warm slope), which is why cold fronts produce narrow bands of intense, often violent weather while warm fronts produce wide bands of steadier, longer-lasting precipitation -- the difference is structural, not just thermometric.",
+    "et": "Külmarinne ja soojarinne kirjeldavad lihtsalt seda, millises suunas temperatuur muutub, mitte konkreetset ilmamustrit või struktuuri -- tegelikult on neil kahel rindetüübil tõeliselt erinevad mehaanilised struktuurid (järsk, kiiresti edasiliikuv külm kiil vs. madal, aeglaselt ületav soe kallak), mistõttu tekitavad külmarinded kitsaid ribasid intensiivset, sageli vägivaldset ilma, samas kui soojarinded tekitavad laiu ribasid stabiilsemat, kauem kestvat sadu -- erinevus on struktuurne, mitte ainult termomeetriline.",
+    "sourceHash": "ce481a3abdcc300c",
+    "stale": false
+  }
+}

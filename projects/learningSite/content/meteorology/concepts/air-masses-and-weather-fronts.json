@@ -1,0 +1,19 @@
+{
+  "id": "air-masses-and-weather-fronts",
+  "subject": "meteorology",
+  "level": "L1",
+  "module": "meteorology-fundamentals",
+  "title": {
+    "en": "Air masses and weather fronts",
+    "et": "Õhumassid ja ilmarinded",
+    "sourceHash": "60b3d4aa8a159999",
+    "stale": false
+  },
+  "summary": {
+    "en": "An air mass is a huge volume of air -- often spanning thousands of kilometers -- that sits over a source region (a tropical ocean, a polar ice sheet, a continental interior) long enough to take on that region's characteristic temperature and humidity, and it carries those properties largely unchanged as it moves, which is why a single air mass classification (maritime tropical, continental polar, and so on, combining the source region's latitude and surface type) predicts the weather it brings wherever it travels. Weather actually changes at the boundary between two different air masses -- a front -- and the four front types produce genuinely different weather because of how the air masses interact mechanically, not just because of a temperature difference: a cold front is the leading edge of a dense cold air mass wedging aggressively under a warmer one, lifting it rapidly and producing a narrow band of intense, often violent weather; a warm front is the opposite geometry, a warm air mass gradually overriding a retreating cold one along a shallow slope, producing a much wider band of steadier, longer-lasting precipitation; an occluded front forms when a faster-moving cold front catches up to and lifts an entire warm front off the ground; and a stationary front is simply a boundary where neither air mass is advancing, so its associated weather can persist in one place for days.",
+    "et": "Õhumass on tohutu õhukogus -- sageli ulatudes tuhandete kilomeetriteni --, mis püsib lähtepiirkonna (troopiline ookean, polaarne jäämüts, mandri sisemus) kohal piisavalt kaua, et omandada selle piirkonna iseloomulik temperatuur ja niiskus, ning kannab neid omadusi suures osas muutumatuna liikudes, mistõttu ennustab üksainus õhumassi klassifikatsioon (mereline troopiline, mandriline polaarne jne, mis ühendab lähtepiirkonna laiuskraadi ja pinnatüübi) ilma, mida see toob, kuhu iganes see liigub. Ilm muutub tegelikult kahe erineva õhumassi vahelisel piiril -- rindel --, ning neli rindetüüpi tekitavad tõeliselt erinevat ilma seetõttu, kuidas õhumassid mehaaniliselt vastastikku mõjuvad, mitte lihtsalt temperatuurierinevuse tõttu: külmarinne on tiheda külma õhumassi juhtserv, mis kiilub agressiivselt sooja õhumassi alla, tõstes selle kiiresti üles ja tekitades kitsa riba intensiivset, sageli vägivaldset ilma; soojarinne on vastupidine geomeetria, soe õhumass, mis järk-järgult ületab taganevat külma õhku mööda madalat kallakut, tekitades palju laiema riba stabiilsemat, kauem kestvat sademeid; oklusioonirinne tekib, kui kiiremini liikuv külmarinne jõuab järele soojarindele ja tõstab kogu soojarinde maapinnast lahti; ning statsionaarne rinne on lihtsalt piir, kus kumbki õhumass ei liigu edasi, mistõttu selle ilm võib ühes kohas püsida päevi.",
+    "sourceHash": "7062e65bd3880aa5",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "air-masses-and-weather-fronts-item1",
+  "conceptId": "air-masses-and-weather-fronts",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A cold front and a warm front are approaching a city on the same day. Why should the resident expect genuinely different weather from each, rather than just a difference in how much the temperature drops or rises?",
+    "et": "Külmarinne ja soojarinne lähenevad samal päeval linnale. Miks peaks elanik ootama kummagi puhul tõeliselt erinevat ilma, mitte lihtsalt erinevust selles, kui palju temperatuur langeb või tõuseb?",
+    "sourceHash": "b5db63f15b2b0d62",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the two fronts have different mechanical structures -- a steep, fast-advancing cold wedge produces a narrow band of intense weather, while a shallow, slowly overriding warm front produces a wide band of steadier precipitation.",
+        "et": "Sest kahel rindel on erinevad mehaanilised struktuurid -- järsk, kiiresti edasiliikuv külm kiil tekitab kitsa riba intensiivset ilma, samas kui madal, aeglaselt ületav soojarinne tekitab laia riba stabiilsemat sadu.",
+        "sourceHash": "0e2aecc4516d1abb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the air masses involved have been traveling for different lengths of time, so their properties have gradually diverged more or less from their original state.",
+        "et": "Sest asjaomased õhumassid on rännanud erineva aja jooksul, mistõttu on nende omadused järk-järgult rohkem või vähem oma algolekust lahknenud.",
+        "sourceHash": "3f1539c677a35b9a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "air-masses-and-weather-fronts-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "There isn't really a structural difference -- both fronts produce the same kind of weather, just with the temperature change happening in opposite directions.",
+        "et": "Tegelikult ei ole struktuurset erinevust -- mõlemad rinded tekitavad sama tüüpi ilma, ainult et temperatuurimuutus toimub vastupidises suunas.",
+        "sourceHash": "48e29a4f78c6be63",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "air-masses-and-weather-fronts-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because a cold front is defined as producing violent weather and a warm front is defined as producing calm weather, independent of any physical mechanism.",
+        "et": "Sest külmarinne on definitsiooni järgi selline, mis tekitab vägivaldset ilma, ja soojarinne selline, mis tekitab rahulikku ilma, sõltumata mistahes füüsikalisest mehhanismist.",
+        "sourceHash": "50266710656dcf76",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "air-masses-and-weather-fronts-m3"
+    }
+  ]
+}
