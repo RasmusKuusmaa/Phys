@@ -1,0 +1,10 @@
+{
+  "id": "process-safety-and-hazard-analysis-m2",
+  "conceptId": "process-safety-and-hazard-analysis",
+  "text": {
+    "en": "A HAZOP study relies on the study team's general safety intuition and experience to spot potential problems, without a fixed systematic procedure -- in reality, HAZOP's defining feature is exactly its systematic guide-word method: a fixed set of words (more, less, none, reverse, other than) is applied methodically to every parameter of every process section, specifically to force out deviations a team's unaided intuition might never think to consider, not to replace intuition with a free-form brainstorm.",
+    "et": "HAZOP-uuring tugineb uurimismeeskonna üldisele ohutusintuitsioonile ja kogemusele, et märgata potentsiaalseid probleeme, ilma fikseeritud süstemaatilise protseduurita -- tegelikult on HAZOP-i määratlev omadus täpselt selle süstemaatiline juhtsõnade meetod: fikseeritud sõnade komplekt (rohkem, vähem, mitte üldse, vastupidine, muu kui) rakendatakse metoodiliselt igale iga protsessisektsiooni parameetrile, spetsiifiliselt selleks, et esile tuua kõrvalekaldeid, millele meeskonna abistamata intuitsioon võib kunagi mõeldagi, mitte asendamaks intuitsiooni vabavormilise ajurünnakuga.",
+    "sourceHash": "bcbadac9255e7a1f",
+    "stale": false
+  }
+}

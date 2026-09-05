@@ -1,0 +1,10 @@
+{
+  "id": "process-safety-and-hazard-analysis-m1",
+  "conceptId": "process-safety-and-hazard-analysis",
+  "text": {
+    "en": "Process safety is primarily about worker protective equipment (goggles, gloves, respirators) rather than inherent hazard-reduction in process design -- in reality, protective equipment addresses residual, small-scale personal risk, while process safety as an engineering discipline is centered on designing the process itself (inherent safety, redundant safeguards, automatic shutdowns) so that major hazards like runaway reactions or toxic releases have as few pathways as possible to actually occur, which no amount of personal protective equipment could contain once they do.",
+    "et": "Protsessiohutus on peamiselt tööliste kaitsevahendite (prillid, kindad, respiraatorid) küsimus, mitte protsessi disaini olemuslik ohuvähendamine -- tegelikult käsitlevad kaitsevahendid jääk-, väikesemõõtmelist isiklikku riski, samas kui protsessiohutus insenerivaldkonnana on keskendunud protsessi enda kavandamisele (olemuslik ohutus, üleliigsed kaitsemeetmed, automaatsed seiskamised) nii, et suurtel ohtudel nagu kontrollimatud reaktsioonid või mürgiste ainete vabanemine oleks võimalikult vähe võimalusi tegelikult toimuda, mida ükski kaitsevahend ei suudaks pärast toimumist ohjata.",
+    "sourceHash": "c162f9a41350b281",
+    "stale": false
+  }
+}

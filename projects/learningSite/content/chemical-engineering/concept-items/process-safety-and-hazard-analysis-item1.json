@@ -1,0 +1,56 @@
+{
+  "id": "process-safety-and-hazard-analysis-item1",
+  "conceptId": "process-safety-and-hazard-analysis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does chemical process design build in cooling-capacity margins and automatic shutdown triggers for exothermic reactions, rather than relying on an operator noticing rising temperature and intervening manually?",
+    "et": "Miks ehitab keemilise protsessi disain eksotermiliste reaktsioonide jaoks sisse jahutusvõimsuse varud ja automaatsed seiskamispäästikud, selle asemel et tugineda operaatorile, kes märkab tõusvat temperatuuri ja sekkub käsitsi?",
+    "sourceHash": "3c69f2e3af469adb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because once heat generation exceeds cooling capacity, rising temperature and rising reaction rate reinforce each other in a positive feedback loop that can escalate to an uncontrolled reaction within minutes, faster than manual intervention can reliably respond.",
+        "et": "Sest kui soojuse teke ületab jahutusvõimsuse, tugevdavad tõusev temperatuur ja tõusev reaktsioonikiirus üksteist positiivse tagasiside ahelas, mis võib eskaleeruda kontrollimatuks reaktsiooniks minutite jooksul, kiiremini, kui käsitsi sekkumine suudab usaldusväärselt reageerida.",
+        "sourceHash": "44dfd79e3afeaa52",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because operators are generally considered too unreliable for any safety-critical task, so automation is preferred purely to reduce staffing costs.",
+        "et": "Sest operaatoreid peetakse üldiselt liiga ebausaldusväärseks mistahes ohutuskriitilise ülesande jaoks, mistõttu automatiseerimist eelistatakse puhtalt personalikulude vähendamiseks.",
+        "sourceHash": "44c78002a95938ea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "process-safety-and-hazard-analysis-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because a HAZOP study's guide-word method already automatically prevents any runaway reaction from starting, making shutdown triggers a redundant afterthought.",
+        "et": "Sest HAZOP-uuringu juhtsõnade meetod juba automaatselt takistab mistahes kontrollimatu reaktsiooni algust, muutes seiskamispäästikud üleliigseks järelmõtteks.",
+        "sourceHash": "92b7a7e59576d065",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "process-safety-and-hazard-analysis-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because exothermic reactions simply run hot for a while with no particular escalation risk, and automatic shutdowns are a standard precaution applied uniformly regardless of the specific hazard.",
+        "et": "Sest eksotermilised reaktsioonid lihtsalt kulgevad mõnda aega kuumalt ilma erilise eskaleerumisriskita, ning automaatsed seiskamised on standardne ettevaatusabinõu, mida rakendatakse ühtlaselt sõltumata konkreetsest ohust.",
+        "sourceHash": "83fd7292f097c16e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "process-safety-and-hazard-analysis-m3"
+    }
+  ]
+}

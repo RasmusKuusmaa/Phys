@@ -1,0 +1,10 @@
+{
+  "id": "process-safety-and-hazard-analysis-m3",
+  "conceptId": "process-safety-and-hazard-analysis",
+  "text": {
+    "en": "A runaway exothermic reaction is dangerous mainly because the reaction simply runs hot for a while, similar to any reaction speeding up with temperature -- in reality, the danger is a self-reinforcing positive feedback loop: rising temperature increases reaction rate, which releases heat faster, which raises temperature further, and once heat generation outpaces the cooling system's removal capacity this loop escalates on its own, without any further external input, from a controlled process to a violent, uncontrolled one within minutes.",
+    "et": "Kontrollimatu eksotermiline reaktsioon on ohtlik peamiselt seetõttu, et reaktsioon lihtsalt kulgeb mõnda aega kuumalt, sarnaselt igale reaktsioonile, mis temperatuuriga kiireneb -- tegelikult on oht ise-võimendav positiivse tagasiside ahel: tõusev temperatuur suurendab reaktsioonikiirust, mis vabastab soojust kiiremini, mis tõstab temperatuuri veelgi, ning kui soojuse teke ületab jahutussüsteemi eemaldamisvõimsuse, eskaleerub see ahel iseenesest, ilma täiendava välise sisendita, kontrollitud protsessist vägivaldseks, kontrollimatuks protsessiks minutite jooksul.",
+    "sourceHash": "38efaa6ee3d6bc8d",
+    "stale": false
+  }
+}

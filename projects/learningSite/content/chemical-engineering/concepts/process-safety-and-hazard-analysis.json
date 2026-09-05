@@ -1,0 +1,19 @@
+{
+  "id": "process-safety-and-hazard-analysis",
+  "subject": "chemical-engineering",
+  "level": "L2",
+  "module": "chemical-engineering-fundamentals",
+  "title": {
+    "en": "Process safety and hazard analysis",
+    "et": "Protsessiohutus ja ohuanalüüs",
+    "sourceHash": "a8600df0fa25691c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Process safety in chemical engineering is not primarily about protective equipment or careful individual behavior -- it's about designing the process itself so that a hazard, once created, has as few ways as possible to actually turn into an accident, because a chemical plant's worst accidents (runaway exothermic reactions, toxic gas releases, explosions) unfold on a timescale and at an energy scale no amount of personal caution can reliably stop once they begin. A HAZOP (hazard and operability) study is the field's core systematic method: a team works through a process design section by section, applying a fixed set of guide words (more, less, none, reverse, other than) to every process parameter (flow, temperature, pressure, composition) to force out every plausible deviation from intended operation and its consequences, rather than relying on anyone's intuition about what might go wrong. A runaway exothermic reaction is the paradigm chemical-specific hazard the field is built around: if a reaction generates heat faster than the cooling system can remove it, the resulting temperature rise speeds the reaction up further (since reaction rate rises steeply with temperature), which generates heat even faster still, a positive feedback loop that can escalate from a controlled reaction to a violent, uncontrolled one within minutes once cooling capacity is exceeded -- which is exactly why chemical process design builds in cooling capacity margins and automatic shutdown triggers well before that feedback loop can ever get started, rather than relying on an operator noticing and reacting in time.",
+    "et": "Protsessiohutus keemiatehnikas ei ole peamiselt kaitsevahendite või hoolika individuaalse käitumise küsimus -- see on protsessi enda kavandamine nii, et ohul, kui see on tekkinud, oleks võimalikult vähe võimalusi tegelikult õnnetuseks muutuda, sest keemiatehase halvimad õnnetused (kontrollimatud eksotermilised reaktsioonid, mürgiste gaaside vabanemine, plahvatused) arenevad ajaskaalal ja energiaskaalal, mida ükski isiklik ettevaatus ei suuda usaldusväärselt peatada, kui need on juba alanud. HAZOP (ohu ja käitatavuse) uuring on valdkonna keskne süstemaatiline meetod: meeskond töötab läbi protsessidisaini sektsioon-sektsiooni haaval, rakendades kindlat juhtsõnade komplekti (rohkem, vähem, mitte üldse, vastupidine, muu kui) igale protsessiparameetrile (vool, temperatuur, rõhk, koostis), et esile tuua iga usutav kõrvalekalle kavatsetud töörežiimist ja selle tagajärjed, selle asemel et tugineda kellegi intuitsioonile selle kohta, mis võiks valesti minna. Kontrollimatu eksotermiline reaktsioon on paradigmaatiline keemiaspetsiifiline oht, mille ümber valdkond on üles ehitatud: kui reaktsioon tekitab soojust kiiremini, kui jahutussüsteem seda eemaldada suudab, kiirendab tulenev temperatuuritõus reaktsiooni veelgi (kuna reaktsioonikiirus tõuseb temperatuuriga järsult), mis tekitab soojust veelgi kiiremini, positiivne tagasiside ahel, mis võib eskaleeruda kontrollitud reaktsioonist vägivaldseks, kontrollimatuks reaktsiooniks minutite jooksul, kui jahutusvõimsus on ületatud -- mis ongi täpselt põhjus, miks keemilise protsessi disain ehitab sisse jahutusvõimsuse varud ja automaatsed seiskamispäästikud hästi enne, kui see tagasiside ahel üldse alata saab, selle asemel et tugineda operaatorile, kes märkab ja reageerib õigel ajal.",
+    "sourceHash": "832341ee3573a105",
+    "stale": false
+  },
+  "prerequisites": []
+}
