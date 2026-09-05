@@ -1,0 +1,10 @@
+{
+  "id": "market-structures-and-competition-m2",
+  "conceptId": "market-structures-and-competition",
+  "text": {
+    "en": "A monopoly's higher price and restricted output is purely a transfer of money from buyers to the seller, with total value to society unchanged -- in reality, the output restriction itself is an efficiency cost: some transactions that would have benefited both a willing buyer and the seller (at a price between the monopolist's cost and the competitive price) simply don't happen at all under monopoly, a genuine loss of total value (deadweight loss), not merely a redistribution of an unchanged total.",
+    "et": "Monopoli kõrgem hind ja piiratud tootmine on puhtalt raha ülekanne ostjatelt müüjale, kusjuures ühiskonna kogu väärtus jääb muutumatuks -- tegelikult on tootmise piiramine ise tõhususe kaotus: mõned tehingud, mis oleksid kasuks nii nõusolevale ostjale kui müüjale (hinnaga monopolisti kulu ja konkurentsihinna vahel), lihtsalt ei toimu monopoli tingimustes üldse, tõeline kogu väärtuse kaotus (surnud kaalu kaotus), mitte lihtsalt muutumatu koguse ümberjaotamine.",
+    "sourceHash": "3c40d96589867fa7",
+    "stale": false
+  }
+}

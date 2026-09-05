@@ -1,0 +1,21 @@
+{
+  "id": "market-structures-and-competition",
+  "subject": "economics",
+  "level": "L2",
+  "module": "economics-fundamentals",
+  "title": {
+    "en": "Market structures and competition",
+    "et": "Turustruktuurid ja konkurents",
+    "sourceHash": "629a39e15f6d1944",
+    "stale": false
+  },
+  "summary": {
+    "en": "How a market is structured -- specifically, how many sellers compete and how much power any one of them has over price -- fundamentally changes the pricing and output behavior that emerges, even holding the underlying product and costs fixed. In perfect competition, many small sellers offer an identical product and none can influence the market price at all, so each simply accepts the price the overall market sets and produces up to the point where its own cost of making one more unit equals that price. A monopoly is the opposite extreme: a single seller faces the entire market demand curve directly, so unlike a price-taker it must lower price to sell more, which means it deliberately restricts output below the competitive level to keep price -- and its own profit -- higher, a real efficiency cost to society, not merely a transfer of money from buyers to the seller. Oligopoly sits between these extremes: a small number of sellers are large enough that each one's pricing and output decisions visibly affect the others, so firms must consider how a rival will react to their own move, a strategic interdependence neither perfect competition (too many firms to matter individually) nor monopoly (no rivals at all) ever has to reckon with.",
+    "et": "Turu struktuur -- konkreetselt, kui palju müüjaid konkureerib ja kui palju võimu kellelgi neist hinna üle on -- muudab põhimõtteliselt hinnastamis- ja tootmiskäitumist, mis tekib, isegi kui alusprodukt ja kulud jäävad muutumatuks. Täiuslikus konkurentsis pakuvad paljud väikesed müüjad identset toodet ja ükski neist ei suuda turuhinda üldse mõjutada, mistõttu iga müüja lihtsalt aktsepteerib hinda, mille kogu turg määrab, ja toodab kuni punktini, kus tema enda ühe lisaühiku tootmise kulu võrdub selle hinnaga. Monopol on vastupidine äärmus: üksik müüja seisab otse silmitsi kogu turu nõudluskõveraga, mistõttu erinevalt hinnavõtjast peab ta rohkem müümiseks hinda langetama, mis tähendab, et ta piirab tahtlikult tootmist alla konkurentsitaseme, et hoida hind -- ja oma kasum -- kõrgemal, mis on ühiskonnale reaalne tõhususe kaotus, mitte lihtsalt raha ülekanne ostjatelt müüjale. Oligopol asub nende äärmuste vahel: väike arv müüjaid on piisavalt suured, et iga üksiku hinnastamis- ja tootmisotsus mõjutab nähtavalt teisi, mistõttu peavad ettevõtted arvestama, kuidas konkurent nende enda käigule reageerib -- strateegiline vastastikune sõltuvus, millega ei pea kunagi arvestama ei täiuslik konkurents (liiga palju ettevõtteid, et üksikult tähtsust omada) ega monopol (konkurente üldse pole).",
+    "sourceHash": "05ba2eaf8cefd84b",
+    "stale": false
+  },
+  "prerequisites": [
+    "supply-and-demand-and-market-equilibrium"
+  ]
+}

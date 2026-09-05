@@ -1,0 +1,56 @@
+{
+  "id": "market-structures-and-competition-item1",
+  "conceptId": "market-structures-and-competition",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A single firm is the only seller of a product with no close substitutes, facing the entire market demand curve directly. Compared to a perfectly competitive market for a similar product, what does standard economic theory predict?",
+    "et": "Üksik ettevõte on ainus asendamatu toote müüja, seistes otse silmitsi kogu turu nõudluskõveraga. Mida ennustab standardne majandusteooria võrreldes sarnase toote täiuslikult konkurentse turuga?",
+    "sourceHash": "21d41471d39ff474",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The firm will restrict output below the competitive level and charge a higher price, since it must lower price to sell more and so maximizes profit at a lower quantity than a price-taking market would produce.",
+        "et": "Ettevõte piirab tootmist alla konkurentsitaseme ja küsib kõrgemat hinda, kuna ta peab rohkem müümiseks hinda langetama ning maksimeerib seega kasumit madalama koguse juures, kui hinnavõtjast turg tootnuks.",
+        "sourceHash": "c2f206405689cb2d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The firm's pricing and output decision follows the exact same logic as a price-taking competitive firm, since the only difference between the two market structures is the number of firms.",
+        "et": "Ettevõtte hinnastamis- ja tootmisotsus järgib täpselt sama loogikat kui hinnavõtjast konkurentne ettevõte, kuna nende kahe turustruktuuri ainus erinevus on ettevõtete arv.",
+        "sourceHash": "2f152715209b35b5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "market-structures-and-competition-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The higher price and lower output only redistribute the same total value from buyers to the firm, with no overall loss of value to society.",
+        "et": "Kõrgem hind ja madalam tootmine jaotavad ainult sama koguväärtuse ostjatelt ettevõttele ümber, ilma ühiskonna jaoks üldise väärtuse kaotuseta.",
+        "sourceHash": "261f01b03e05c9a7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "market-structures-and-competition-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The firm must strategically anticipate how rival firms will respond to its pricing decision, the defining feature of this market structure.",
+        "et": "Ettevõte peab strateegiliselt ette nägema, kuidas konkureerivad ettevõtted tema hinnastamisotsusele reageerivad -- selle turustruktuuri määratlev tunnus.",
+        "sourceHash": "fb8a18c97551960f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "market-structures-and-competition-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "market-structures-and-competition-m1",
+  "conceptId": "market-structures-and-competition",
+  "text": {
+    "en": "A monopoly and a perfectly competitive market just differ in how many firms exist, with no genuine difference in the underlying pricing/output-setting logic -- in reality, a price-taking competitive firm accepts the market price as fixed, while a monopolist faces the entire downward-sloping market demand curve directly and must lower price to sell more, which changes its profit-maximizing behavior fundamentally: it deliberately restricts output below the competitive level, a real, distinct decision a price-taker never makes.",
+    "et": "Monopol ja täiuslikult konkurentne turg erinevad ainult selle poolest, mitu ettevõtet eksisteerib, ilma tegeliku erinevuseta alusliku hinnastamis-/tootmisotsustuse loogikas -- tegelikult aktsepteerib hinnavõtjast konkurentne ettevõte turuhinda fikseerituna, samas kui monopolist seisab otse silmitsi kogu allapoole kalduva turu nõudluskõveraga ja peab rohkem müümiseks hinda langetama, mis muudab tema kasumit maksimeerivat käitumist põhimõtteliselt: ta piirab tahtlikult tootmist alla konkurentsitaseme, tegeliku, eristuva otsuse, mida hinnavõtja kunagi ei tee.",
+    "sourceHash": "a28bf0d2ad068fb0",
+    "stale": false
+  }
+}

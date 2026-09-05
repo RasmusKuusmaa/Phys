@@ -1,0 +1,10 @@
+{
+  "id": "market-structures-and-competition-m3",
+  "conceptId": "market-structures-and-competition",
+  "text": {
+    "en": "In an oligopoly, each firm can set its price and output in isolation, the same way a monopolist or a perfectly competitive firm does, without needing to think about how rivals will respond -- in reality, oligopoly's defining feature is exactly the opposite: because so few firms share the market, each firm's decisions visibly affect its rivals' profits, so firms must strategically anticipate how a rival will react to their own pricing/output choice, a genuine strategic interdependence neither of the other two market structures has to deal with.",
+    "et": "Oligopolis saab iga ettevõte kehtestada oma hinna ja tootmise isoleeritult, samamoodi nagu monopolist või täiuslikult konkurentne ettevõte, ilma vajaduseta mõelda, kuidas konkurendid reageerivad -- tegelikult on oligopoli määratlev tunnus täpselt vastupidine: kuna nii vähe ettevõtteid jagab turgu, mõjutavad iga ettevõtte otsused nähtavalt konkurentide kasumeid, mistõttu peavad ettevõtted strateegiliselt ette nägema, kuidas konkurent nende enda hinnastamis-/tootmisvalikule reageerib -- tõeline strateegiline vastastikune sõltuvus, millega kummagi teise turustruktuuriga ei pea tegelema.",
+    "sourceHash": "d0072c45c19abf17",
+    "stale": false
+  }
+}
