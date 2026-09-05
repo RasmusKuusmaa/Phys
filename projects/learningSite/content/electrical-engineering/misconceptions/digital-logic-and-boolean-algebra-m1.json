@@ -1,0 +1,10 @@
+{
+  "id": "digital-logic-and-boolean-algebra-m1",
+  "conceptId": "digital-logic-and-boolean-algebra",
+  "text": {
+    "en": "A NAND gate is just a slower or lower-quality version of an AND gate, used only when a 'real' AND gate isn't available -- in reality, NAND is not an inferior substitute; it is functionally complete on its own, meaning any Boolean function whatsoever, including AND itself, can be built from NAND gates alone, which is exactly why real integrated circuits are manufactured almost entirely from NAND (or NOR) gates rather than needing a mixture of different gate types.",
+    "et": "NAND värav on lihtsalt aeglasem või madalama kvaliteediga versioon JA väravast, mida kasutatakse ainult siis, kui 'päris' JA värav pole saadaval -- tegelikult ei ole NAND alaväärtuslik asendaja; see on iseseisvalt funktsionaalselt täielik, mis tähendab, et mistahes Boole'i funktsiooni, sealhulgas JA-d ennast, saab ehitada ainult NAND väravatest, mis ongi täpselt põhjus, miks reaalsed integraallülitused valmistatakse peaaegu täielikult NAND (või NOR) väravatest, selle asemel et vajada erinevate väravatüüpide segu.",
+    "sourceHash": "66dedbf445578f6e",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "digital-logic-and-boolean-algebra-m2",
+  "conceptId": "digital-logic-and-boolean-algebra",
+  "text": {
+    "en": "A truth table only describes what a gate does for the 'normal' or most common input combination, not every possible one -- in reality, a truth table is by definition exhaustive -- it lists the output for every single possible combination of input values, with no exceptions, which is precisely what makes it a complete and unambiguous specification of a logic function.",
+    "et": "Tõeväärtustabel kirjeldab ainult seda, mida värav teeb 'tavalise' või kõige levinuma sisendite kombinatsiooni korral, mitte iga võimaliku korral -- tegelikult on tõeväärtustabel definitsiooni järgi ammendav -- see loetleb väljundi iga üksiku võimaliku sisendväärtuste kombinatsiooni jaoks, ilma eranditeta, mis ongi täpselt see, mis teeb sellest loogikafunktsiooni täieliku ja ühese kirjelduse.",
+    "sourceHash": "6c12b8c89e9c2cf8",
+    "stale": false
+  }
+}

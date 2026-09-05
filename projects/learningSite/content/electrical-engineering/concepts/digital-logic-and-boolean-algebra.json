@@ -1,0 +1,19 @@
+{
+  "id": "digital-logic-and-boolean-algebra",
+  "subject": "electrical-engineering",
+  "level": "L1",
+  "module": "electrical-engineering-fundamentals",
+  "title": {
+    "en": "Digital logic and Boolean algebra",
+    "et": "Digitaalloogika ja Boole'i algebra",
+    "sourceHash": "dabda83c4d077099",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every digital circuit, from a simple alarm clock to a modern CPU, is built from a small set of logic gates -- AND, OR, NOT, and derived gates like NAND, NOR, and XOR -- each of which implements one operation of Boolean algebra, the algebra of true/false values first formalized by George Boole. A truth table exhaustively lists a gate's or circuit's output for every possible combination of inputs, making it possible to specify any combinational logic function completely and unambiguously before a single wire is drawn, and Boolean algebra's own laws (De Morgan's laws in particular) let an engineer rewrite one logic expression as an equivalent one built from different gates, which matters enormously in practice because a real chip is manufactured cheaper and more reliably from a small number of standardized gate types than from a mixture of many different ones. NAND and NOR gates hold a special status: each one is functionally complete on its own, meaning any Boolean function whatsoever -- AND, OR, NOT, or any circuit built from them -- can be constructed using only NAND gates (or only NOR gates), which is exactly why real integrated circuits are built almost entirely from one of these two gate types rather than needing separate manufacturing processes for every logic function.",
+    "et": "Iga digitaalskeem, alates lihtsast äratuskellast kuni kaasaegse protsessorini, on ehitatud väikesest hulgast loogikaväravatest -- JA, VÕI, EI ning tuletatud väravad nagu NING-EI (NAND), VÕI-EI (NOR) ja XOR --, millest igaüks realiseerib ühe Boole'i algebra tehte, tõene/väär väärtuste algebra, mille formaliseeris esimesena George Boole. Tõeväärtustabel loetleb ammendavalt värava või skeemi väljundi iga võimaliku sisendite kombinatsiooni jaoks, mis võimaldab mistahes kombinatoorse loogikafunktsiooni täielikult ja üheselt kirjeldada enne, kui ükski juhe on joonistatud, ning Boole'i algebra enda seadused (eriti De Morgani seadused) lubavad inseneril kirjutada ühe loogikaavaldise ümber samaväärseks avaldiseks, mis on ehitatud teistsugustest väravatest, mis on praktikas äärmiselt oluline, sest reaalne kiip valmistatakse odavamalt ja usaldusväärsemalt väikesest hulgast standardiseeritud väravatüüpidest kui paljude erinevate seguga. NAND ja NOR väravatel on eriline staatus: kumbki on iseseisvalt funktsionaalselt täielik, mis tähendab, et mistahes Boole'i funktsiooni -- JA, VÕI, EI või mistahes neist ehitatud skeemi -- saab konstrueerida kasutades ainult NAND väravaid (või ainult NOR väravaid), mis ongi täpselt põhjus, miks reaalsed integraallülitused on ehitatud peaaegu täielikult ühest neist kahest väravatüübist, selle asemel et vajada iga loogikafunktsiooni jaoks eraldi tootmisprotsessi.",
+    "sourceHash": "af114d3c1f7faf48",
+    "stale": false
+  },
+  "prerequisites": []
+}

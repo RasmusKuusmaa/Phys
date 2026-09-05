@@ -1,0 +1,10 @@
+{
+  "id": "digital-logic-and-boolean-algebra-m3",
+  "conceptId": "digital-logic-and-boolean-algebra",
+  "text": {
+    "en": "Boolean algebra's laws like De Morgan's laws are just alternate ways of writing the same expression with no practical consequence for how a circuit is actually built -- in reality, rewriting an expression via De Morgan's laws (or other Boolean identities) can convert a circuit designed with one set of gate types into an equivalent circuit built from an entirely different set, which matters enormously in practice since real chips are manufactured far more cheaply and reliably from one standardized gate type than from a mixture.",
+    "et": "Boole'i algebra seadused nagu De Morgani seadused on lihtsalt alternatiivsed viisid sama avaldise kirjutamiseks ilma praktilise tagajärjeta selle kohta, kuidas skeem tegelikult ehitatakse -- tegelikult võib avaldise ümberkirjutamine De Morgani seaduste (või teiste Boole'i identiteetide) abil muuta ühe väravatüüpide komplektiga kavandatud skeemi samaväärseks skeemiks, mis on ehitatud täiesti teistsugusest komplektist, mis on praktikas äärmiselt oluline, kuna reaalsed kiibid valmistatakse palju odavamalt ja usaldusväärsemalt ühest standardiseeritud väravatüübist kui seguga.",
+    "sourceHash": "9d17a157f2e99f5a",
+    "stale": false
+  }
+}

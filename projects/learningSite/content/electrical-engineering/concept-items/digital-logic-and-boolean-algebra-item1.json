@@ -1,0 +1,56 @@
+{
+  "id": "digital-logic-and-boolean-algebra-item1",
+  "conceptId": "digital-logic-and-boolean-algebra",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why are real integrated circuits typically manufactured almost entirely from NAND gates (or entirely from NOR gates), rather than a mixture of AND, OR, and NOT gates?",
+    "et": "Miks valmistatakse reaalsed integraallülitused tavaliselt peaaegu täielikult NAND väravatest (või täielikult NOR väravatest), selle asemel et kasutada JA, VÕI ja EI väravate segu?",
+    "sourceHash": "a47462ff602614eb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because NAND (and separately, NOR) is functionally complete -- any Boolean function, including AND, OR, and NOT themselves, can be built from NAND gates alone, so manufacturing one standardized gate type is cheaper and more reliable than mixing several.",
+        "et": "Sest NAND (ja eraldi ka NOR) on funktsionaalselt täielik -- mistahes Boole'i funktsiooni, sealhulgas JA, VÕI ja EI ennast, saab ehitada ainult NAND väravatest, mistõttu on ühe standardiseeritud väravatüübi tootmine odavam ja usaldusväärsem kui mitme segamine.",
+        "sourceHash": "0923f8764d2198b6",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because NAND gates are simpler and cheaper substitutes for AND gates, used only in budget circuits that don't need full logical functionality.",
+        "et": "Sest NAND väravad on lihtsamad ja odavamad asendajad JA väravatele, mida kasutatakse ainult eelarvelistes skeemides, mis ei vaja täielikku loogilist funktsionaalsust.",
+        "sourceHash": "08f4fe940792bfec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "digital-logic-and-boolean-algebra-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because NAND gates only need to handle the most common input combinations correctly, unlike AND/OR/NOT gates which must handle every possible combination.",
+        "et": "Sest NAND väravad peavad õigesti käsitlema ainult kõige levinumaid sisendite kombinatsioone, erinevalt JA/VÕI/EI väravatest, mis peavad käsitlema iga võimalikku kombinatsiooni.",
+        "sourceHash": "e1af0be2b14307a7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "digital-logic-and-boolean-algebra-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because Boolean algebra's rewriting laws like De Morgan's are purely notational and have no bearing on which gates a real circuit actually needs.",
+        "et": "Sest Boole'i algebra ümberkirjutamisseadused nagu De Morgani seadused on puhtalt tähistuslikud ja ei mõjuta seda, milliseid väravaid reaalne skeem tegelikult vajab.",
+        "sourceHash": "b99cb01d398ba41e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "digital-logic-and-boolean-algebra-m3"
+    }
+  ]
+}
