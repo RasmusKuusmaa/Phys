@@ -1,0 +1,10 @@
+{
+  "id": "monetary-and-fiscal-policy-m2",
+  "conceptId": "monetary-and-fiscal-policy",
+  "text": {
+    "en": "Monetary policy and fiscal policy are basically the same tool with different names, both just 'the government adjusting the economy' -- in reality, they are run by different institutions (an independent central bank vs. elected government branches) through fundamentally different channels (interest rates and money supply vs. direct spending and taxation), and can even work at cross purposes if one is expansionary while the other is contractionary at the same time.",
+    "et": "Rahapoliitika ja eelarvepoliitika on põhimõtteliselt sama tööriist erinevate nimedega, mõlemad lihtsalt 'valitsus kohandab majandust' -- tegelikult juhivad neid erinevad institutsioonid (sõltumatu keskpank vs. valitud valitsusharud) põhimõtteliselt erinevate kanalite kaudu (intressimäärad ja rahapakkumine vs. otsene kulutamine ja maksustamine), ning need võivad isegi töötada vastandlikel eesmärkidel, kui üks on ekspansiivne, samal ajal kui teine on restriktiivne.",
+    "sourceHash": "3ee574c466177c85",
+    "stale": false
+  }
+}

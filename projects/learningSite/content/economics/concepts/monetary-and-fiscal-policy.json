@@ -1,0 +1,21 @@
+{
+  "id": "monetary-and-fiscal-policy",
+  "subject": "economics",
+  "level": "L2",
+  "module": "economics-fundamentals",
+  "title": {
+    "en": "Monetary and fiscal policy",
+    "et": "Rahapoliitika ja eelarvepoliitika",
+    "sourceHash": "34754c323568980d",
+    "stale": false
+  },
+  "summary": {
+    "en": "Governments and central banks have two genuinely distinct sets of tools for steering an economy, run by different institutions on different timescales. Monetary policy is run by a country's central bank, primarily through setting short-term interest rates (and, more directly, buying or selling government bonds in open-market operations to influence the money supply): lowering interest rates makes borrowing cheaper, which tends to encourage spending and investment and so stimulate a sluggish economy, while raising rates makes borrowing more expensive, cooling an overheating economy and reining in inflation. Fiscal policy is run by the government's elected branches through spending and taxation decisions: increased government spending or tax cuts inject money directly into the economy to stimulate it, while spending cuts or tax increases withdraw money to cool it down, working through a fundamentally different channel -- direct government purchasing and household disposable income -- than monetary policy's interest-rate channel. Neither tool is free of tradeoffs: expansionary monetary or fiscal policy that stimulates the economy too aggressively risks fueling inflation, while contractionary policy that cools the economy too aggressively risks tipping it into recession, which is why both kinds of policy involve a genuine balancing act rather than a straightforward dial that can simply be turned up for unambiguous benefit.",
+    "et": "Valitsustel ja keskpankadel on kaks tõeliselt eristuvat tööriistade kogumit majanduse suunamiseks, mida juhivad erinevad institutsioonid erinevatel ajaskaaladel. Rahapoliitikat juhib riigi keskpank, peamiselt lühiajaliste intressimäärade kehtestamise kaudu (ja otsesemalt valitsuse võlakirjade ostmise või müümise kaudu avaturuoperatsioonidel, et mõjutada rahapakkumist): intressimäärade langetamine muudab laenamise odavamaks, mis kaldub soodustama kulutamist ja investeerimist ning seega stimuleerima loiu majandust, samas kui määrade tõstmine muudab laenamise kallimaks, jahutades ülekuumenenud majandust ja ohjeldades inflatsiooni. Eelarvepoliitikat juhivad valitsuse valitud harud kulutamis- ja maksustamisotsuste kaudu: suurenenud valitsuse kulutused või maksukärped süstivad raha otse majandusse selle stimuleerimiseks, samas kui kulutuste kärped või maksude tõstmine tõmbavad raha välja selle jahutamiseks, toimides põhimõtteliselt teistsuguse kanali kaudu -- otsene valitsuse ostmine ja leibkondade käsutatav sissetulek -- kui rahapoliitika intressimäära kanal. Kummagi tööriista puhul pole tegemist vabana valikute vahetamisest: ekspansiivne raha- või eelarvepoliitika, mis stimuleerib majandust liiga agressiivselt, riskib inflatsiooni õhutamisega, samas kui restriktiivne poliitika, mis jahutab majandust liiga agressiivselt, riskib selle langusesse viskamisega, mis ongi põhjus, miks mõlemat liiki poliitika hõlmab tõelist tasakaalustamist, mitte lihtsat regulaatorit, mida saab lihtsalt üles keerata ühemõttelise kasu saamiseks.",
+    "sourceHash": "ce3a42082a314be2",
+    "stale": false
+  },
+  "prerequisites": [
+    "macroeconomic-indicators-and-national-income"
+  ]
+}

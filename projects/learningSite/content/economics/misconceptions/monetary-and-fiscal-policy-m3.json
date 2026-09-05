@@ -1,0 +1,10 @@
+{
+  "id": "monetary-and-fiscal-policy-m3",
+  "conceptId": "monetary-and-fiscal-policy",
+  "text": {
+    "en": "A central bank cutting interest rates works through the same mechanism as a government cutting taxes -- both simply 'give people more money' in an identical way -- in reality, a rate cut works by making borrowing/saving decisions shift (cheaper loans encourage spending and investment) without directly handing anyone money, while a tax cut directly increases households' or firms' disposable income/after-tax profit -- genuinely different mechanisms that can have different timing and different sectors respond first.",
+    "et": "Keskpanga intressimäärade langetamine toimib sama mehhanismi kaudu kui valitsuse maksukärped -- mõlemad lihtsalt 'annavad inimestele rohkem raha' identselt -- tegelikult toimib määra langetamine, muutes laenamis-/säästmisotsuseid (odavamad laenud soodustavad kulutamist ja investeerimist), ilma et keegi otseselt raha kätte saaks, samas kui maksukärped suurendavad otseselt leibkondade või ettevõtete käsutatavat sissetulekut/maksujärgset kasumit -- tõeliselt erinevad mehhanismid, millel võib olla erinev ajastus ja erinevad sektorid, mis esimesena reageerivad.",
+    "sourceHash": "ec78b90e63a71dca",
+    "stale": false
+  }
+}

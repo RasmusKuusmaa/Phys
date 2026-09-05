@@ -1,0 +1,56 @@
+{
+  "id": "monetary-and-fiscal-policy-item1",
+  "conceptId": "monetary-and-fiscal-policy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A central bank lowers interest rates while, at the same time, the government cuts spending and raises taxes. What does this combination represent?",
+    "et": "Keskpank langetab intressimäärasid, samal ajal kui valitsus kärbib kulutusi ja tõstab makse. Mida see kombinatsioon esindab?",
+    "sourceHash": "bd2ca580f4fc8acb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Expansionary monetary policy combined with contractionary fiscal policy, working through genuinely different channels that can partly offset each other rather than being the same tool applied twice.",
+        "et": "Ekspansiivne rahapoliitika koos restriktiivse eelarvepoliitikaga, mis toimivad tõeliselt erinevate kanalite kaudu, mis võivad üksteist osaliselt tasakaalustada, selle asemel et olla sama tööriist kaks korda rakendatuna.",
+        "sourceHash": "f0351f43d49894e2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both policies are stimulating the economy in exactly the same way, since monetary and fiscal policy are fundamentally the same tool with different names.",
+        "et": "Mõlemad poliitikad stimuleerivad majandust täpselt samamoodi, kuna raha- ja eelarvepoliitika on põhimõtteliselt sama tööriist erinevate nimedega.",
+        "sourceHash": "dfa6a8d8cfe203a7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "monetary-and-fiscal-policy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This combination has no real tradeoffs or risks for the economy, since neither lowering rates nor raising taxes carries any downside.",
+        "et": "Sellel kombinatsioonil pole majandusele reaalseid valikuid ega riske, kuna ei määrade langetamine ega maksude tõstmine kanna endas mingit puudust.",
+        "sourceHash": "50913507d30318cc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "monetary-and-fiscal-policy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since a rate cut and a tax increase both just 'change how much money people have' through an identical mechanism, their effects will simply cancel out completely.",
+        "et": "Kuna nii määra langetamine kui maksutõus lihtsalt 'muudavad, kui palju raha inimestel on' identse mehhanismi kaudu, tühistavad nende mõjud üksteist lihtsalt täielikult.",
+        "sourceHash": "84a6c0b3d3c93621",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "monetary-and-fiscal-policy-m3"
+    }
+  ]
+}
