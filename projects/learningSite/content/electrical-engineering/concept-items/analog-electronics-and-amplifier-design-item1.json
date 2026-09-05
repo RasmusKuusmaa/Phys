@@ -1,0 +1,56 @@
+{
+  "id": "analog-electronics-and-amplifier-design-item1",
+  "conceptId": "analog-electronics-and-amplifier-design",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A non-inverting op-amp amplifier is built with a feedback resistor Rf and an input resistor Rin. Under what condition does its actual gain match the ideal formula A = 1 + Rf/Rin?",
+    "et": "Mitteinverteeriv op-amp võimendi on ehitatud tagasisidetakistiga Rf ja sisendtakistiga Rin. Millisel tingimusel vastab selle tegelik võimendustegur ideaalsele valemile A = 1 + Rf/Rin?",
+    "sourceHash": "6fa6184e7f43e120",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "When the op-amp's own open-loop gain is much larger than the requested closed-loop gain and the signal frequency is well within the op-amp's gain-bandwidth product -- outside that range, the finite real open-loop gain makes the ideal formula stop holding.",
+        "et": "Kui op-ampi enda lahtise ahelaga võimendustegur on palju suurem kui taotletud suletud ahela võimendustegur ja signaali sagedus jääb hästi op-ampi võimendus-ribalaiuse korrutise piiresse -- sellest vahemikust väljas ei kehti ideaalne valem enam op-ampi lõpliku tegeliku lahtise ahelaga võimendusteguri tõttu.",
+        "sourceHash": "bb834101fc5a903f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Whenever the feedback resistor network is present, since the resistors are what perform the actual amplification regardless of the op-amp's own characteristics.",
+        "et": "Alati, kui tagasisidetakistite võrk on olemas, kuna takistid on need, mis teostavad tegeliku võimendamise, sõltumata op-ampi enda omadustest.",
+        "sourceHash": "dcb22537c1e9ced3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "analog-electronics-and-amplifier-design-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Always, for any values of Rf and Rin and any signal frequency, since the formula depends only on the resistor ratio.",
+        "et": "Alati, mistahes Rf ja Rin väärtuste ja mistahes signaali sageduse korral, kuna valem sõltub ainult takistite suhtest.",
+        "sourceHash": "f2cb5a2ffec171ad",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "analog-electronics-and-amplifier-design-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only when a lower-open-loop-gain op-amp is deliberately chosen, since a very high open-loop gain would make the resistor-ratio formula inaccurate.",
+        "et": "Ainult siis, kui teadlikult valitakse madalama lahtise ahelaga võimendusteguriga op-amp, kuna väga kõrge lahtise ahelaga võimendustegur muudaks takistisuhte valemi ebatäpseks.",
+        "sourceHash": "c92310319eb0ef7b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "analog-electronics-and-amplifier-design-m3"
+    }
+  ]
+}

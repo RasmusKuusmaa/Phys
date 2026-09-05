@@ -1,0 +1,47 @@
+{
+  "id": "analog-electronics-and-amplifier-design-formula1",
+  "conceptId": "analog-electronics-and-amplifier-design",
+  "latex": "A = 1 + \\frac{R_f}{R_{in}}",
+  "symbols": [
+    {
+      "symbol": "A",
+      "name": {
+        "en": "gain",
+        "et": "võimendus",
+        "sourceHash": "66dd231befc8120d",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "Rf",
+      "name": {
+        "en": "resistance",
+        "et": "takistus",
+        "sourceHash": "be970d090a9b0a23",
+        "stale": false
+      },
+      "unit": "ohm"
+    },
+    {
+      "symbol": "Rin",
+      "name": {
+        "en": "resistance",
+        "et": "takistus",
+        "sourceHash": "be970d090a9b0a23",
+        "stale": false
+      },
+      "unit": "ohm"
+    }
+  ],
+  "solveFor": [
+    "A",
+    "Rf",
+    "Rin"
+  ],
+  "expressions": {
+    "A": "1 + Rf/Rin",
+    "Rf": "(A-1)*Rin",
+    "Rin": "Rf/(A-1)"
+  }
+}

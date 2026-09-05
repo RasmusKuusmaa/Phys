@@ -1,0 +1,10 @@
+{
+  "id": "analog-electronics-and-amplifier-design-m3",
+  "conceptId": "analog-electronics-and-amplifier-design",
+  "text": {
+    "en": "Since an op-amp on its own has an enormous, essentially unusable open-loop gain, engineers avoid using op-amps in gain-critical designs and use simpler, lower-gain amplifier stages instead -- in reality, that huge open-loop gain is precisely what negative feedback exploits -- the larger the op-amp's own raw gain relative to the desired closed-loop gain, the more accurately the closed-loop gain matches the simple resistor-ratio formula, which is exactly why op-amps with very high open-loop gain are preferred for precision analog designs, not avoided.",
+    "et": "Kuna op-ampil endal on tohutu, sisuliselt kasutuskõlbmatu lahtise ahelaga võimendustegur, väldivad insenerid op-ampide kasutamist võimendustegurikriitilistes disainides ja kasutavad selle asemel lihtsamaid, madalama võimendusteguriga võimendusastmeid -- tegelikult ongi see tohutu lahtise ahelaga võimendustegur täpselt see, mida negatiivne tagasiside ära kasutab -- mida suurem on op-ampi enda toores võimendustegur soovitud suletud ahela võimendusteguri suhtes, seda täpsemalt vastab suletud ahela võimendustegur lihtsale takistisuhte valemile, mis ongi täpselt põhjus, miks väga kõrge lahtise ahelaga võimendusteguriga op-ampe eelistatakse täppis-analoogdisainides, mitte ei väldita.",
+    "sourceHash": "f9c7519f38335e6a",
+    "stale": false
+  }
+}

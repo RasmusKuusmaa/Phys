@@ -1,0 +1,21 @@
+{
+  "id": "analog-electronics-and-amplifier-design",
+  "subject": "electrical-engineering",
+  "level": "L2",
+  "module": "electrical-engineering-fundamentals",
+  "title": {
+    "en": "Analog electronics and amplifier design",
+    "et": "Analoogelektroonika ja võimendite disain",
+    "sourceHash": "4eee334bd7479782",
+    "stale": false
+  },
+  "summary": {
+    "en": "An operational amplifier (op-amp) is a very-high-gain differential amplifier that, on its own, is far too sensitive to be directly useful -- its raw open-loop gain is so large that the tiniest input difference drives its output to one supply rail or the other. Real analog circuits tame this by wrapping the op-amp in negative feedback: a resistor network feeds a fraction of the output signal back to the inverting input, and that feedback forces the circuit's overall gain to depend only on the ratio of two external resistors rather than on the op-amp's own imprecise, temperature-sensitive open-loop gain -- for the standard non-inverting configuration, the closed-loop gain is exactly one plus the feedback resistor divided by the input resistor, a relationship set entirely by parts an engineer chooses, not by the amplifier chip's own manufacturing tolerance. This substitution -- trading an amplifier's own huge, unreliable raw gain for a much smaller, but precisely controllable, feedback-set gain -- is the central design principle of analog electronics generally, and it only works within limits: push the desired closed-loop gain too high, or drive an input frequency too fast for the op-amp's bandwidth, and the real device's finite gain-bandwidth product means the ideal formula stops matching reality.",
+    "et": "Operatsioonivõimendi (op-amp) on väga kõrge võimendusteguriga diferentsiaalvõimendi, mis omaette on liiga tundlik, et olla otse kasutatav -- selle toorest lahtise ahelaga võimendustegur on nii suur, et pisimgi sisendite erinevus viib selle väljundi ühe toitesiini äärmusesse. Tegelikud analoogskeemid taltsutavad seda, mähkides op-ampi negatiivsesse tagasisidesse: takistivõrk toidab osa väljundsignaalist tagasi inverteerivasse sisendisse ning see tagasiside sunnib skeemi üldise võimendusteguri sõltuma ainult kahe välise takisti suhtest, mitte op-ampi enda ebatäpsest, temperatuuritundlikust lahtise ahelaga võimendustegurist -- standardse mitteinverteeriva skeemi jaoks on suletud ahela võimendustegur täpselt üks pluss tagasisidetakisti jagatuna sisendtakistiga, suhe, mille määravad täielikult insenri valitud osad, mitte võimendikiibi enda tootmistolerants. See asendus -- võimendi enda tohutu, ebausaldusväärse toore võimendusteguri vahetamine palju väiksema, kuid täpselt kontrollitava, tagasiside poolt määratud võimendusteguri vastu -- ongi analoogelektroonika üldine keskne disainiprintsiip, ning see toimib ainult piirides: nõua liiga kõrget soovitud suletud ahela võimendustegurit või juhi sisendsagedus liiga kiireks op-ampi ribalaiuse jaoks, ning tegeliku seadme lõplik võimendus-ribalaiuse korrutis tähendab, et ideaalne valem lakkab reaalsusega vastavuses olemast.",
+    "sourceHash": "72d8aacda2851d1e",
+    "stale": false
+  },
+  "prerequisites": [
+    "semiconductor-devices-diodes-and-transistors"
+  ]
+}

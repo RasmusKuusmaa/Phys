@@ -1,0 +1,33 @@
+{
+  "id": "analog-electronics-and-amplifier-design-solve-a",
+  "formulaId": "analog-electronics-and-amplifier-design-formula1",
+  "variables": [
+    {
+      "symbol": "Rf",
+      "min": 1000,
+      "max": 100000,
+      "unit": "ohm",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "Rin",
+      "min": 100,
+      "max": 10000,
+      "unit": "ohm",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "Rf",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "Rin",
+      "right": 0
+    }
+  ],
+  "solveFor": "A"
+}

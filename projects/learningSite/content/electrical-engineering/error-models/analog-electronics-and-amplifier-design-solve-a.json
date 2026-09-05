@@ -1,0 +1,37 @@
+{
+  "id": "analog-electronics-and-amplifier-design-solve-a",
+  "formulaId": "analog-electronics-and-amplifier-design-formula1",
+  "solveFor": "A",
+  "mistakes": [
+    {
+      "id": "forgot-the-one",
+      "description": {
+        "en": "Forgot to add 1 to the resistor ratio, computing only Rf/Rin instead of the full non-inverting gain.",
+        "et": "Unustas takistite suhtele 1 liita, arvutades ainult Rf/Rin täieliku mitteinverteeriva võimendusteguri asemel.",
+        "sourceHash": "c371f1e697bf7a18",
+        "stale": false
+      },
+      "expression": "Rf/Rin"
+    },
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Inverted the resistor ratio, computing 1 + Rin/Rf instead of 1 + Rf/Rin.",
+        "et": "Pööras takistite suhte ümber, arvutades 1 + Rin/Rf, selle asemel et arvutada 1 + Rf/Rin.",
+        "sourceHash": "e59d70ee40158e29",
+        "stale": false
+      },
+      "expression": "1 + Rin/Rf"
+    },
+    {
+      "id": "used-rf-alone",
+      "description": {
+        "en": "Used the feedback resistor value alone as if it were already the gain, ignoring the input resistor entirely.",
+        "et": "Kasutas tagasisidetakisti väärtust üksi, nagu see oleks juba võimendustegur, jättes sisendtakisti täielikult arvestamata.",
+        "sourceHash": "5a6cd1627f16728c",
+        "stale": false
+      },
+      "expression": "Rf"
+    }
+  ]
+}

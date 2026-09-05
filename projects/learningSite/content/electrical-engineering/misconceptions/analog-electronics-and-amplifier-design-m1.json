@@ -1,0 +1,10 @@
+{
+  "id": "analog-electronics-and-amplifier-design-m1",
+  "conceptId": "analog-electronics-and-amplifier-design",
+  "text": {
+    "en": "An op-amp's closed-loop gain formula (like 1 + Rf/Rin) works no matter how large a gain you ask for, since it's 'just' set by two resistors -- in reality, the formula assumes the op-amp's own open-loop gain is enormous compared to the requested closed-loop gain; every real op-amp has a finite gain-bandwidth product, so past a certain requested gain (or at high enough signal frequency), the op-amp can no longer supply enough open-loop gain to make the ideal feedback formula hold.",
+    "et": "Op-ampi suletud ahela võimendusteguri valem (nagu 1 + Rf/Rin) toimib olenemata sellest, kui suurt võimendustegurit taotletakse, kuna see on 'lihtsalt' kahe takisti poolt määratud -- tegelikult eeldab valem, et op-ampi enda lahtise ahelaga võimendustegur on taotletud suletud ahela võimendusteguriga võrreldes tohutu; igal reaalsel op-ampil on lõplik võimendus-ribalaiuse korrutis, mistõttu alates teatud taotletud võimendustegurist (või piisavalt kõrgel signaali sagedusel) ei suuda op-amp enam pakkuda piisavalt lahtise ahelaga võimendustegurit, et ideaalne tagasisidevalem kehtiks.",
+    "sourceHash": "d43927596a92813b",
+    "stale": false
+  }
+}

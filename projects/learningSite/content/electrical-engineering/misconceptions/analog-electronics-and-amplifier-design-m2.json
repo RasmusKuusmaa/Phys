@@ -1,0 +1,10 @@
+{
+  "id": "analog-electronics-and-amplifier-design-m2",
+  "conceptId": "analog-electronics-and-amplifier-design",
+  "text": {
+    "en": "The negative feedback resistor network is what actually amplifies the signal; the op-amp itself is just a supporting component -- in reality, the op-amp is what actually supplies the amplification (drawing power from its own supply rails to produce a larger output); the feedback network's role is the opposite of amplifying -- it samples the output and feeds a fraction back to precisely control how much gain the op-amp is allowed to provide.",
+    "et": "Negatiivse tagasiside takistivõrk on see, mis signaali tegelikult võimendab; op-amp ise on lihtsalt tugikomponent -- tegelikult on op-amp see, mis tegelikult võimendust pakub (ammutades energiat oma toitesiinidest, et toota suuremat väljundit); tagasisidevõrgu roll on vastupidine võimendamisele -- see mõõdab väljundit ja toidab osa sellest tagasi, et täpselt kontrollida, kui palju võimendust op-ampil on lubatud pakkuda.",
+    "sourceHash": "442e679865c5d23d",
+    "stale": false
+  }
+}
