@@ -1,0 +1,56 @@
+{
+  "id": "nephrolithiasis-mechanisms-item1",
+  "conceptId": "nephrolithiasis-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why doesn't urine's routine supersaturation with minerals like calcium and oxalate cause kidney stones to form constantly in everyone?",
+    "et": "Miks ei põhjusta uriini regulaarne üleküllastumine mineraalidega nagu kaltsium ja oksalaat neerukivide pidevat teket kõigil?",
+    "sourceHash": "684435a09db50776",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Other urinary constituents act as inhibitors that keep these minerals in solution even at concentrations exceeding their normal solubility, and a stone only forms when this inhibitor system is overwhelmed (by high mineral concentration or reduced inhibitor activity) rather than whenever supersaturation is present.",
+        "et": "Teised uriini koostisosad toimivad inhibiitoritena, mis hoiavad neid mineraale lahuses isegi kontsentratsioonidel, mis ületavad nende normaalset lahustuvust, ning kivi tekib alles siis, kui see inhibiitorisüsteem on ülekoormatud (kõrge mineraalikontsentratsiooni või vähenenud inhibiitori aktiivsuse tõttu), mitte alati, kui üleküllastumine on olemas.",
+        "sourceHash": "62686eafdc0c8e0e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Supersaturation actually should cause constant stone formation, so this scenario suggests supersaturation isn't really occurring in normal urine.",
+        "et": "Üleküllastumine peaks tegelikult põhjustama pidevat kivi teket, mistõttu see stsenaarium viitab sellele, et üleküllastumist tegelikult normaalses uriinis ei toimu.",
+        "sourceHash": "29a9c4cb1d0613a7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nephrolithiasis-mechanisms-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Stones only form when someone consumes excessive dietary calcium, so the mineral concentration in urine is irrelevant to whether a stone actually forms.",
+        "et": "Kivid tekivad ainult siis, kui keegi tarbib liigset toidukaltsiumi, mistõttu mineraalikontsentratsioon uriinis ei ole kivi tegeliku tekke jaoks oluline.",
+        "sourceHash": "755992414fbfa64e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nephrolithiasis-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "All minerals in urine follow the exact same crystallization chemistry, so the answer must be the same regardless of which specific mineral is being discussed.",
+        "et": "Kõik uriini mineraalid järgivad täpselt sama kristalliseerumise keemiat, mistõttu vastus peab olema sama, olenemata sellest, millisest konkreetsest mineraalist räägitakse.",
+        "sourceHash": "f5bd0879b7673fab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nephrolithiasis-mechanisms-m2"
+    }
+  ]
+}

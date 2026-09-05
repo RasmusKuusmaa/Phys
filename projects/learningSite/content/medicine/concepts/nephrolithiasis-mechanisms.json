@@ -1,0 +1,21 @@
+{
+  "id": "nephrolithiasis-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "renal-and-urologic-medicine",
+  "title": {
+    "en": "Nephrolithiasis mechanisms",
+    "et": "Neerukivitõve mehhanismid",
+    "sourceHash": "8a0e7941443f5eb3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Urine is not a simple water solution -- it is routinely supersaturated with dissolved minerals like calcium, oxalate, and uric acid, held in solution only because other urinary constituents act as inhibitors that keep those minerals from crystallizing out even at concentrations that would ordinarily exceed their solubility. A kidney stone forms when this balance tips, whether because a mineral's urinary concentration rises high enough to overwhelm the available inhibitors (from dehydration concentrating the urine, from a diet high in a particular mineral, or from a metabolic condition that excretes more of it than normal) or because inhibitor activity itself is reduced, and once a small crystal nucleus forms, it grows by accumulating more of the same mineral out of the supersaturated urine flowing past it, the same physical process by which a supersaturated solution of any kind will crystallize once nucleation begins. Different stone types reflect different underlying chemistry -- calcium oxalate stones are by far the most common, but uric acid stones form under different urine chemistry (notably a persistently low urine pH) and require different underlying dietary or metabolic contributors -- but the shared mechanism across all types is this same supersaturation-and-crystallization process, not a single universal cause.",
+    "et": "Uriin ei ole lihtne veelahus -- see on regulaarselt üleküllastunud lahustunud mineraalidega nagu kaltsium, oksalaat ja kusihape, mis püsivad lahuses ainult seetõttu, et teised uriini koostisosad toimivad inhibiitoritena, mis takistavad neil mineraalidel kristalliseerumast isegi kontsentratsioonidel, mis tavaliselt ületaksid nende lahustuvuse. Neerukivi tekib, kui see tasakaal kaldub, kas seetõttu, et mineraali uriinikontsentratsioon tõuseb piisavalt kõrgele, et ületada saadaolevad inhibiitorid (dehüdratsioonist, mis kontsentreerib uriini, teatud mineraalirikkast toitumisest või ainevahetusseisundist, mis eritab seda rohkem kui normaalselt), või seetõttu, et inhibiitori aktiivsus ise on vähenenud, ning kord väikese kristalltuuma moodustumisel kasvab see, kogudes rohkem sama mineraali mööduvast üleküllastunud uriinist, sama füüsikaline protsess, mille kaudu mistahes tüüpi üleküllastunud lahus kristalliseerub kord tuumade tekkimise alanud. Erinevad kivitüübid peegeldavad erinevat aluseks olevat keemiat -- kaltsiumoksalaadi kivid on kaugelt kõige levinumad, kuid kusihappe kivid moodustuvad erineva uriinikeemia all (märkimisväärselt püsivalt madal uriini pH) ning nõuavad erinevaid aluseks olevaid toitumis- või ainevahetuslikke panustajaid -- kuid jagatud mehhanism kõigi tüüpide vahel on see sama üleküllastumise-ja-kristalliseerumise protsess, mitte üksik universaalne põhjus.",
+    "sourceHash": "bc67cf56f53fa393",
+    "stale": false
+  },
+  "prerequisites": [
+    "renal-and-urinary-system-anatomy-and-physiology"
+  ]
+}

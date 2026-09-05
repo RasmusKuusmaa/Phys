@@ -1,0 +1,10 @@
+{
+  "id": "nephrolithiasis-mechanisms-m3",
+  "conceptId": "nephrolithiasis-mechanisms",
+  "text": {
+    "en": "Once urine contains a dissolved mineral at any concentration, that mineral will inevitably crystallize into a stone -- in reality, urine is routinely supersaturated with minerals like calcium, oxalate, and uric acid at concentrations that would ordinarily exceed their solubility, held in solution specifically because other urinary constituents act as inhibitors preventing crystallization; a stone only forms when this inhibitor system is overwhelmed or impaired, not simply whenever a mineral is present in solution.",
+    "et": "Kord kui uriin sisaldab lahustunud mineraali mistahes kontsentratsioonil, kristalliseerub see mineraal paratamatult kiviks -- tegelikult on uriin regulaarselt üleküllastunud mineraalidega nagu kaltsium, oksalaat ja kusihape kontsentratsioonidel, mis tavaliselt ületaksid nende lahustuvuse, püsides lahuses spetsiifiliselt seetõttu, et teised uriini koostisosad toimivad kristalliseerumist takistavate inhibiitoritena; kivi tekib alles siis, kui see inhibiitorisüsteem on ülekoormatud või kahjustatud, mitte lihtsalt alati, kui mineraal on lahuses olemas.",
+    "sourceHash": "ac84fc989121236f",
+    "stale": false
+  }
+}

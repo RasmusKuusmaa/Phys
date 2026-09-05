@@ -1,0 +1,10 @@
+{
+  "id": "nephrolithiasis-mechanisms-m1",
+  "conceptId": "nephrolithiasis-mechanisms",
+  "text": {
+    "en": "Kidney stones form simply because someone consumes too much of a mineral like calcium -- in reality, stone formation depends on the balance between a mineral's urinary concentration and the activity of natural inhibitors that normally keep it dissolved even at high concentrations; dehydration (concentrating the urine) and reduced inhibitor activity can both tip this balance even without any dietary excess, and conversely, a high mineral intake does not guarantee stone formation if urine remains adequately dilute and inhibitors remain effective.",
+    "et": "Neerukivid tekivad lihtsalt seetõttu, et keegi tarbib liiga palju mineraali nagu kaltsium -- tegelikult sõltub kivi teke tasakaalust mineraali uriinikontsentratsiooni ja loomulike inhibiitorite aktiivsuse vahel, mis tavaliselt hoiavad selle lahustununa isegi kõrgetel kontsentratsioonidel; dehüdratsioon (mis kontsentreerib uriini) ja vähenenud inhibiitori aktiivsus võivad mõlemad seda tasakaalu kallutada isegi ilma toitumisliku liiaseta, ning vastupidi, kõrge mineraalitarbimine ei taga kivi teket, kui uriin jääb piisavalt lahjaks ja inhibiitorid jäävad tõhusaks.",
+    "sourceHash": "b4af643f55ddc81c",
+    "stale": false
+  }
+}
