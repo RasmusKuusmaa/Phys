@@ -1,0 +1,56 @@
+{
+  "id": "menstrual-cycle-and-ovulation-mechanisms-item1",
+  "conceptId": "menstrual-cycle-and-ovulation-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "In a 28-day menstrual cycle, why does ovulation occur roughly 36 hours after the LH surge begins, rather than at the exact moment the surge begins?",
+    "et": "Miks toimub 28-päevases menstruaaltsüklis ovulatsioon umbes 36 tundi pärast LH tõusu algust, mitte täpselt tõusu alguse hetkel?",
+    "sourceHash": "0b66ef9f8ddc795c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the LH surge is the triggering signal for ovulation, not ovulation itself -- the mature follicle requires a real physiological process (final oocyte maturation and follicle rupture) that takes about 36 hours to complete after the surge begins.",
+        "et": "Sest LH tõus on ovulatsiooni vallandav signaal, mitte ovulatsioon ise -- küps folliikkel vajab tõelist füsioloogilist protsessi (munaraku lõplik küpsemine ja folliikli rebenemine), mille lõpuleviimine võtab pärast tõusu algust aega umbes 36 tundi.",
+        "sourceHash": "cddc6105b93d8bd2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It doesn't -- the LH surge and ovulation are the same event, just described with two different names in different textbooks.",
+        "et": "See ei ole nii -- LH tõus ja ovulatsioon on sama sündmus, mida lihtsalt erinevates õpikutes kahe erineva nimega kirjeldatakse.",
+        "sourceHash": "f68a2fc8ac4a5ecf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "menstrual-cycle-and-ovulation-mechanisms-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because day 14 is a fixed biological schedule built into the reproductive system, and 36 hours is simply how that schedule is defined regardless of individual variation.",
+        "et": "Sest 14. päev on reproduktiivsüsteemi sisse ehitatud fikseeritud bioloogiline ajakava, ning 36 tundi on lihtsalt see, kuidas see ajakava on määratletud, sõltumata individuaalsest varieeruvusest.",
+        "sourceHash": "b76b8c1012e780ef",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "menstrual-cycle-and-ovulation-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because estrogen is continuously suppressing LH throughout the cycle, and the 36-hour delay is simply how long it takes that suppression to fully lift.",
+        "et": "Sest östrogeen pärsib LH-d pidevalt kogu tsükli jooksul, ning 36-tunnine viivitus on lihtsalt aeg, mis kulub selle pärssimise täielikuks kadumiseks.",
+        "sourceHash": "36df1bb227cb456a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "menstrual-cycle-and-ovulation-mechanisms-m3"
+    }
+  ]
+}

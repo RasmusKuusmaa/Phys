@@ -1,0 +1,22 @@
+{
+  "id": "menstrual-cycle-and-ovulation-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "reproductive-medicine",
+  "title": {
+    "en": "Menstrual cycle and ovulation mechanisms",
+    "et": "Menstruaaltsükkel ja ovulatsiooni mehhanismid",
+    "sourceHash": "89f8002306ae239f",
+    "stale": false
+  },
+  "summary": {
+    "en": "The menstrual cycle is really two coordinated cycles running in parallel: an ovarian cycle (follicular phase, ovulation, luteal phase) driving hormone production, and a uterine cycle (menstrual, proliferative, secretory phases) that responds to those hormones by rebuilding and then shedding the endometrium. During the follicular phase, a cohort of ovarian follicles grows under FSH stimulation while producing rising estrogen, and normally only one follicle is selected to fully mature as estrogen climbs; that same rising estrogen, once it crosses a threshold and sustains it for roughly two days, flips the hypothalamic-pituitary feedback from negative to transiently positive, triggering a sharp LH surge that is the actual proximate trigger for ovulation -- release of the mature egg -- roughly 36 hours later. The luteal phase that follows is dominated by the ruptured follicle's transformation into the corpus luteum, which secretes progesterone to maintain a receptive endometrium; if no pregnancy implants, the corpus luteum degrades within about two weeks, progesterone and estrogen fall, and the endometrium is shed as menstruation, restarting the cycle.",
+    "et": "Menstruaaltsükkel on tegelikult kaks koordineeritud paralleelset tsüklit: munasarjatsükkel (follikulaarne faas, ovulatsioon, luteaalne faas), mis juhib hormoonide tootmist, ning emakatsükkel (menstruaal-, proliferatiiv- ja sekretoorne faas), mis reageerib neile hormoonidele, ehitades üles ja seejärel heites ära endomeetriumi. Follikulaarses faasis kasvab grupp munasarja follikuleid FSH stimulatsiooni all, tootes samal ajal tõusvat östrogeeni, ning tavaliselt valitakse ainult üks follikkel täielikult küpsema, kuna östrogeen tõuseb; see sama tõusev östrogeen, kui see ületab läve ja püsib seal ligikaudu kaks päeva, pöörab hüpotalamuse-hüpofüüsi tagasiside negatiivsest ajutiselt positiivseks, vallandades järsu LH tõusu, mis ongi ovulatsiooni -- küpse munaraku vabanemise -- tegelik vahetu vallandaja umbes 36 tundi hiljem. Sellele järgnevat luteaalset faasi domineerib rebenenud follikli muutumine kollaskehaks, mis eritab progesterooni, et hoida endomeetrium vastuvõtlikuna; kui rasedust ei implanteeru, laguneb kollaskeha umbes kahe nädala jooksul, progesterooni ja östrogeeni tase langeb ning endomeetrium heidetakse ära menstruatsioonina, alustades tsüklit uuesti.",
+    "sourceHash": "287020a113d99b59",
+    "stale": false
+  },
+  "prerequisites": [
+    "reproductive-system-anatomy-and-physiology",
+    "reproductive-endocrinology-overview"
+  ]
+}

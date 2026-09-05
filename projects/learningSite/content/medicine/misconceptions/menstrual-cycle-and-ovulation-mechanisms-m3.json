@@ -1,0 +1,10 @@
+{
+  "id": "menstrual-cycle-and-ovulation-mechanisms-m3",
+  "conceptId": "menstrual-cycle-and-ovulation-mechanisms",
+  "text": {
+    "en": "Rising estrogen always suppresses LH/FSH release (negative feedback), the same way it does for most of the cycle -- in reality, late in the follicular phase, a sufficiently high and sustained estrogen level briefly flips that feedback to positive, which is precisely what produces the LH surge -- a genuine, temporary reversal of the usual feedback sign, not a continuation of the same negative-feedback pattern.",
+    "et": "Tõusev östrogeen pärsib alati LH/FSH vabanemist (negatiivne tagasiside), samamoodi nagu see teeb suurema osa tsüklist -- tegelikult, follikulaarse faasi lõpupoole, pöörab piisavalt kõrge ja püsiv östrogeenitase selle tagasiside hetkeks positiivseks, mis ongi täpselt see, mis tekitab LH tõusu -- tõeline, ajutine tavapärase tagasiside märgi ümberpööramine, mitte sama negatiivse tagasiside mustri jätkumine.",
+    "sourceHash": "5a9f7bd2115ca8e8",
+    "stale": false
+  }
+}
