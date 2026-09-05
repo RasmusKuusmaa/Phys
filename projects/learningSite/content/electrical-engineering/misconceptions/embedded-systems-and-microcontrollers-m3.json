@@ -1,0 +1,10 @@
+{
+  "id": "embedded-systems-and-microcontrollers-m3",
+  "conceptId": "embedded-systems-and-microcontrollers",
+  "text": {
+    "en": "Since embedded systems are simpler than desktop computers, adding more processing power and memory to a microcontroller design is always a straightforward improvement with no real downside -- in reality, more processing power and memory in an embedded design costs more silicon area, more power draw, and more heat, all of which are serious constraints for a battery-powered or cost-sensitive device in a way they aren't for a desktop computer plugged into a wall socket.",
+    "et": "Kuna sardsüsteemid on lauaarvutitest lihtsamad, on rohkema arvutusvõimsuse ja mälu lisamine mikrokontrolleri disainile alati lihtne täiustus ilma tegeliku puuduseta -- tegelikult maksab rohkem arvutusvõimsust ja mälu sardsüsteemi disainis rohkem räniala, rohkem energiatarbimist ja rohkem soojust, mis kõik on tõsised piirangud akutoitel töötava või kulutundliku seadme jaoks viisil, mis ei kehti pistikupessa ühendatud lauaarvuti kohta.",
+    "sourceHash": "e416cc32ba7f73b9",
+    "stale": false
+  }
+}

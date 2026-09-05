@@ -1,0 +1,10 @@
+{
+  "id": "embedded-systems-and-microcontrollers-m2",
+  "conceptId": "embedded-systems-and-microcontrollers",
+  "text": {
+    "en": "A microcontroller checks for a button press or sensor event by running a loop that continuously checks the input, and interrupts are just an optional shortcut for this -- in reality, continuous polling and interrupt-driven response are two different mechanisms with a real tradeoff -- an interrupt lets a hardware event suspend the running program immediately and jump to a response routine without the processor having to spend cycles continuously checking, which is what actually makes a bounded, predictable response time possible for real-time embedded applications.",
+    "et": "Mikrokontroller kontrollib nupuvajutust või andurisündmust, käivitades tsükli, mis pidevalt sisendit kontrollib, ning katkestused on selle jaoks lihtsalt valikuline otsetee -- tegelikult on pidev küsitlemine ja katkestuspõhine reageerimine kaks erinevat mehhanismi tõelise kompromissiga -- katkestus lubab riistvarasündmusel jooksva programmi koheselt peatada ja hüpata vastusrutiini juurde ilma, et protsessor peaks kulutama tsükleid pidevaks kontrollimiseks, mis ongi see, mis reaalselt muudab piiratud, ennustatava reageerimisaja võimalikuks reaalaja sardrakenduste jaoks.",
+    "sourceHash": "8d1654a670773d7d",
+    "stale": false
+  }
+}

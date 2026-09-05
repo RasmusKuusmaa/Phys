@@ -1,0 +1,56 @@
+{
+  "id": "embedded-systems-and-microcontrollers-item1",
+  "conceptId": "embedded-systems-and-microcontrollers",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A microcontroller-based device must respond to a button press within a few milliseconds, every time, without fail. Why does the design typically use an interrupt rather than a polling loop to detect the button press?",
+    "et": "Mikrokontrolleril põhinev seade peab reageerima nupuvajutusele mõne millisekundi jooksul, iga kord, tõrgeteta. Miks kasutab disain nupuvajutuse tuvastamiseks tavaliselt katkestust, mitte küsitlustsüklit?",
+    "sourceHash": "1d0476d93a3bfd10",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An interrupt lets the button-press hardware event immediately suspend whatever the processor is doing and jump to a response routine, giving a predictable, bounded response time -- a real-time constraint that continuous polling can't guarantee as reliably, especially if the processor is busy with other tasks.",
+        "et": "Katkestus lubab nupuvajutuse riistvarasündmusel koheselt peatada protsessori jooksva tegevuse ja hüpata vastusrutiini juurde, andes ennustatava, piiratud reageerimisaja -- reaalajanõue, mida pidev küsitlemine ei suuda sama usaldusväärselt tagada, eriti kui protsessor on hõivatud teiste ülesannetega.",
+        "sourceHash": "6c399f2e2be56231",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Polling and interrupts detect the button press through the same underlying mechanism; interrupts are just a shortcut notation programmers prefer for convenience.",
+        "et": "Küsitlemine ja katkestused tuvastavad nupuvajutuse sama alusmehhanismi kaudu; katkestused on lihtsalt otsetee tähistus, mida programmeerijad eelistavad mugavuse pärast.",
+        "sourceHash": "6135c0d1fe25ad33",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "embedded-systems-and-microcontrollers-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because a microcontroller, being a smaller and slower version of a desktop CPU, cannot run a polling loop fast enough to detect the button press at all.",
+        "et": "Sest mikrokontroller, olles väiksem ja aeglasem versioon lauaarvuti protsessorist, ei suuda küsitlustsüklit üldse piisavalt kiiresti käivitada, et nupuvajutust tuvastada.",
+        "sourceHash": "ca86f49d5e4e2403",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "embedded-systems-and-microcontrollers-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because adding an interrupt controller is a straightforward improvement with no cost in silicon area or power draw compared to a polling-based design.",
+        "et": "Sest katkestuskontrolleri lisamine on lihtne täiustus ilma kuluta räniala või energiatarbimise osas võrreldes küsitlusel põhineva disainiga.",
+        "sourceHash": "5b8a0e1aadd84929",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "embedded-systems-and-microcontrollers-m3"
+    }
+  ]
+}

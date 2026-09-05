@@ -1,0 +1,21 @@
+{
+  "id": "embedded-systems-and-microcontrollers",
+  "subject": "electrical-engineering",
+  "level": "L2",
+  "module": "electrical-engineering-fundamentals",
+  "title": {
+    "en": "Embedded systems and microcontrollers",
+    "et": "Sardsüsteemid ja mikrokontrollerid",
+    "sourceHash": "3bbde87f76bf9a31",
+    "stale": false
+  },
+  "summary": {
+    "en": "A microcontroller looks superficially like a tiny, weaker version of a desktop computer's CPU, but it is built around a fundamentally different design goal: instead of maximizing raw computational throughput for general-purpose software, a microcontroller integrates a processor core, memory, and the input/output peripherals a physical device actually needs -- timers, analog-to-digital converters, communication interfaces -- all onto a single chip, so that a single, cheap, low-power component can directly sense and control the physical world without a whole surrounding computer built around it. This integration is what makes a microcontroller suitable for embedded systems, where a program runs dedicated to one specific physical task rather than running arbitrary user-chosen software the way a general-purpose computer does. Interrupts are central to this role: rather than a program having to continuously poll a sensor or input pin to check whether something has happened, an interrupt lets a hardware event immediately suspend whatever the processor is doing and jump to a dedicated response routine, which is what makes it possible for a microcontroller to respond to a real-world event within a predictable, bounded time -- a real-time constraint that most general-purpose desktop software does not have to meet at all. Embedded system design constantly trades off against this same set of constraints: more processing power or memory generally costs more silicon area, more power draw, and more heat, all of which matter enormously in a battery-powered or cost-sensitive device in a way they simply don't for a desktop computer plugged into a wall socket.",
+    "et": "Mikrokontroller näeb pealiskaudselt välja nagu väike, nõrgem versioon lauaarvuti protsessorist, kuid see on ehitatud põhimõtteliselt teistsuguse disainieesmärgi ümber: selle asemel, et maksimeerida toorest arvutuslikku läbilaskevõimet üldotstarbelise tarkvara jaoks, integreerib mikrokontroller protsessortuuma, mälu ning sisend/väljundperifeeria, mida füüsiline seade tegelikult vajab -- taimerid, analoog-digitaalmuundurid, sidesliidesed -- kõik ühele kiibile, nii et üksainus, odav, madala energiatarbega komponent saab otse tajuda ja juhtida füüsilist maailma ilma terve ümbritseva arvutita, mis oleks selle ümber ehitatud. See integreeritus ongi see, mis teeb mikrokontrolleri sobivaks sardsüsteemide jaoks, kus programm töötab pühendunult ühele kindlale füüsilisele ülesandele, selle asemel et käivitada mistahes kasutaja valitud tarkvara nii nagu üldotstarbeline arvuti teeb. Katkestused on selles rollis kesksel kohal: selle asemel, et programm peaks pidevalt küsitlema andurit või sisendviiku, et kontrollida, kas midagi on juhtunud, lubab katkestus riistvarasündmusel koheselt peatada protsessori jooksva tegevuse ja hüpata pühendatud vastusrutiini juurde, mis ongi see, mis muudab võimalikuks mikrokontrolleri reageerimise reaalse maailma sündmusele ennustatava, piiratud aja jooksul -- reaalajanõue, mida enamik üldotstarbelist lauaarvuti tarkvara ei pea üldse täitma. Sardsüsteemide disain kompromissib pidevalt sama piirangute kogumi vastu: rohkem arvutusvõimsust või mälu maksab üldjuhul rohkem räniala, rohkem energiatarbimist ja rohkem soojust, mis kõik on äärmiselt olulised akutoitel töötava või kulutundliku seadme jaoks viisil, mis lihtsalt ei kehti pistikupessa ühendatud lauaarvuti kohta.",
+    "sourceHash": "f8883f2ae398ddb2",
+    "stale": false
+  },
+  "prerequisites": [
+    "digital-logic-and-boolean-algebra"
+  ]
+}

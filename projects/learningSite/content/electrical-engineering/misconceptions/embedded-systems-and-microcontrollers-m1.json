@@ -1,0 +1,10 @@
+{
+  "id": "embedded-systems-and-microcontrollers-m1",
+  "conceptId": "embedded-systems-and-microcontrollers",
+  "text": {
+    "en": "A microcontroller is just a smaller, slower, cheaper version of a desktop CPU, with no architectural differences that actually matter -- in reality, a microcontroller is architecturally different by design, not just scaled down -- it integrates the processor core together with memory and the specific I/O peripherals (timers, ADCs, communication interfaces) a physical device needs onto one chip, optimized for direct sensing/control of the physical world rather than for maximizing general-purpose computational throughput.",
+    "et": "Mikrokontroller on lihtsalt väiksem, aeglasem, odavam versioon lauaarvuti protsessorist, ilma tegelikult oluliste arhitektuuriliste erinevusteta -- tegelikult on mikrokontroller disaini poolest arhitektuuriliselt erinev, mitte lihtsalt vähendatud -- see integreerib protsessortuuma koos mälu ja füüsilise seadme vajatavate spetsiifiliste sisend/väljundperifeeriaga (taimerid, ADC-d, sideliidesed) ühele kiibile, optimeerituna füüsilise maailma otseseks tajumiseks/juhtimiseks, mitte üldotstarbelise arvutusliku läbilaskevõime maksimeerimiseks.",
+    "sourceHash": "41ae069466704221",
+    "stale": false
+  }
+}
