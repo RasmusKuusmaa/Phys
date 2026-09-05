@@ -1,0 +1,56 @@
+{
+  "id": "climate-change-mechanisms-and-ecological-impacts-item1",
+  "conceptId": "climate-change-mechanisms-and-ecological-impacts",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "As Arctic sea ice melts, average Arctic temperatures rise even faster than the initial warming that started the melting would predict. What mechanism best explains this acceleration?",
+    "et": "Kui Arktika merejää sulab, tõuseb Arktika keskmine temperatuur veelgi kiiremini, kui algne soojenemine, mis sulamise käivitas, ennustaks. Milline mehhanism seda kiirenemist kõige paremini selgitab?",
+    "sourceHash": "d744d0b61391af40",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The ice-albedo feedback: melting ice exposes darker ocean water that absorbs far more solar energy than the reflective ice did, adding more warming on top of the original warming rather than the system self-correcting back toward equilibrium.",
+        "et": "Jää-albedo tagasiside: sulav jää paljastab tumedama ookeanivee, mis neelab palju rohkem päikeseenergiat, kui peegeldav jää neelas, lisades rohkem soojenemist algse soojenemise peale, selle asemel et süsteem end tagasi tasakaalu suunas parandaks.",
+        "sourceHash": "4d70da619731a2cd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This shouldn't happen -- climate feedback loops should dampen the initial warming and stabilize the Arctic back toward its original temperature, the way most physical systems self-correct.",
+        "et": "See ei tohiks juhtuda -- kliima tagasisidemehhanismid peaksid algset soojenemist summutama ja stabiliseerima Arktika tagasi selle algtemperatuuri suunas, nii nagu enamik füüsikalisi süsteeme end parandab.",
+        "sourceHash": "9b7990b7d1ca0894",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "climate-change-mechanisms-and-ecological-impacts-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The additional warming must come from thermal expansion of the newly melted water taking up more volume as it warms further, unrelated to any change in how much sunlight the surface absorbs.",
+        "et": "Täiendav soojenemine peab tulenema äsja sulanud vee soojuspaisumisest, mis võtab edasisel soojenemisel rohkem ruumi, mis ei ole seotud ühegi muutusega selles, kui palju päikesevalgust pind neelab.",
+        "sourceHash": "5e1dc1505761e344",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "climate-change-mechanisms-and-ecological-impacts-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Arctic species migrating away from the region must be releasing stored body heat into the local environment as they relocate, compounding the initial warming.",
+        "et": "Arktikast eemale rändavad liigid peavad ümberasumisel vabastama kohalikku keskkonda salvestatud kehasoojust, süvendades algset soojenemist.",
+        "sourceHash": "2dac507e34b148a2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "climate-change-mechanisms-and-ecological-impacts-m3"
+    }
+  ]
+}

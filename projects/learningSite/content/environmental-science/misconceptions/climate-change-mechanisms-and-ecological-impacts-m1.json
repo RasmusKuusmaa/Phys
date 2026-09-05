@@ -1,0 +1,10 @@
+{
+  "id": "climate-change-mechanisms-and-ecological-impacts-m1",
+  "conceptId": "climate-change-mechanisms-and-ecological-impacts",
+  "text": {
+    "en": "Climate feedback loops always work to dampen and stabilize temperature change back toward its original equilibrium, the same way most physical systems self-correct -- in reality, some climate feedback loops are amplifying rather than damping -- the ice-albedo feedback (melting ice exposes darker, more heat-absorbing ocean) and permafrost thaw (releasing previously locked-away methane and CO2) both turn an initial warming into more warming, rather than the system correcting itself back toward its starting temperature.",
+    "et": "Kliima tagasisidemehhanismid töötavad alati temperatuurimuutuse summutamise ja stabiliseerimise suunas tagasi algse tasakaalu poole, samamoodi nagu enamik füüsikalisi süsteeme end parandab -- tegelikult on mõned kliima tagasisidemehhanismid võimendavad, mitte summutavad -- jää-albedo tagasiside (sulav jää paljastab tumedama, rohkem soojust neelava ookeani) ja igikeltsa sulamine (vabastab varem lukustatud metaani ja CO2) muudavad mõlemad algse soojenemise suuremaks soojenemiseks, selle asemel et süsteem end tagasi oma algtemperatuuri suunas parandaks.",
+    "sourceHash": "ad7c45b0b58ca830",
+    "stale": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "climate-change-mechanisms-and-ecological-impacts",
+  "subject": "environmental-science",
+  "level": "L2",
+  "module": "environmental-science-fundamentals",
+  "title": {
+    "en": "Climate change mechanisms and ecological impacts",
+    "et": "Kliimamuutuse mehhanismid ja ökoloogilised mõjud",
+    "sourceHash": "e473dc291e9a2714",
+    "stale": false
+  },
+  "summary": {
+    "en": "Beyond the radiative physics of the greenhouse effect itself, a warming climate propagates through the biosphere via feedback loops and ecological consequences that are this subject's own territory. Some feedback loops amplify warming rather than damping it back toward equilibrium: as Arctic sea ice melts, it exposes darker ocean water that absorbs far more solar energy than reflective ice did (the ice-albedo feedback), and as permafrost thaws, it releases methane and CO2 that had been locked in frozen organic matter for millennia, adding more greenhouse gas that drives further warming -- both mechanisms turn a small initial temperature increase into a larger one, rather than the system self-correcting back to its starting point. These physical changes cascade into ecological ones: sea-level rise (driven by both thermal expansion of ocean water and melting land ice) is eliminating coastal habitat and pushing saltwater into freshwater ecosystems; species are shifting their geographic ranges toward the poles and higher elevations as their historical climate envelope moves, but a species can only track a moving climate as fast as it can physically disperse and establish itself, which is not always fast enough; and the ocean is absorbing a large fraction of humanity's excess atmospheric CO2, which lowers ocean pH (ocean acidification) and directly impairs the ability of corals, shellfish, and many plankton species to build their calcium carbonate shells and skeletons. None of these ecological consequences requires re-deriving the greenhouse effect's radiative-transfer mechanism -- they are what happens next, in the biosphere, once that physical warming is already underway.",
+    "et": "Peale kasvuhooneefekti enda kiirgusfüüsika levib soojenev kliima biosfääri kaudu tagasisidemehhanismide ja ökoloogiliste tagajärgede kaudu, mis on selle aine oma territoorium. Mõned tagasisidemehhanismid võimendavad soojenemist, selle asemel et seda tasakaalu suunas summutada: sulav Arktika merejää paljastab tumedama ookeanivee, mis neelab palju rohkem päikeseenergiat, kui peegeldav jää neelas (jää-albedo tagasiside), ning sulav igikelts vabastab metaani ja CO2, mis oli jäätunud orgaanilises aines aastatuhandeid lukustatud, lisades rohkem kasvuhoonegaasi, mis põhjustab edasist soojenemist -- mõlemad mehhanismid muudavad väikese algse temperatuuritõusu suuremaks, selle asemel et süsteem parandaks end tagasi oma lähtepunkti. Need füüsikalised muutused kanduvad üle ökoloogilisteks: merevee taseme tõus (mille põhjustab nii ookeanivee soojuspaisumine kui ka maismaajää sulamine) hävitab rannikuelupaiku ja lükkab soolvett magevee ökosüsteemidesse; liigid nihutavad oma geograafilisi levilaid poolusete ja kõrgemate kõrguste suunas, kui nende ajalooline kliimavaru liigub, kuid liik suudab liikuvat kliimat jälgida ainult nii kiiresti, kui ta suudab füüsiliselt levida ja asuda, mis ei ole alati piisavalt kiire; ning ookean neelab suure osa inimkonna liigsest atmosfääri CO2-st, mis langetab ookeani pH-d (ookeani hapestumine) ja kahjustab otseselt korallide, karploomade ja paljude planktoniliikide võimet ehitada oma kaltsiumkarbonaadist kestasid ja skelette. Ükski neist ökoloogilistest tagajärgedest ei nõua kasvuhooneefekti kiirgusülekande mehhanismi uuesti tuletamist -- need on see, mis juhtub järgmisena biosfääris, kui see füüsikaline soojenemine on juba käimas.",
+    "sourceHash": "18447017d2a6a3f7",
+    "stale": false
+  },
+  "prerequisites": []
+}
