@@ -1,0 +1,56 @@
+{
+  "id": "infertility-mechanisms-item1",
+  "conceptId": "infertility-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A couple is being evaluated for infertility. Why is it a mistake to assume the underlying cause must be a female-factor issue before evaluating the male partner?",
+    "et": "Paari hinnatakse viljatuse tõttu. Miks on viga eeldada, et alusprobleem peab olema naisfaktoriga seotud, enne kui meespartnerit hinnatakse?",
+    "sourceHash": "fac61d58d5005517",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because infertility causes are distributed roughly equally between male-factor and female-factor mechanisms (with a substantial share of mixed or unexplained cases), so assuming a single partner is responsible without evaluation is not supported by how common each category actually is.",
+        "et": "Sest viljatuse põhjused jagunevad ligikaudu võrdselt meesfaktori ja naisfaktori mehhanismide vahel (märkimisväärse osaga segatud või seletamatuid juhtumeid), mistõttu ei toeta ühe partneri vastutuse eeldamine ilma hindamiseta seda, kui levinud kumbki kategooria tegelikult on.",
+        "sourceHash": "9ebe0a4f9ca63576",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't a mistake in general — but once female-factor causes are ruled out, they should all be treated as a single problem before considering the male side at all.",
+        "et": "See ei ole üldiselt viga -- kuid kui naisfaktori põhjused on välistatud, tuleks neid kõiki käsitleda ühe probleemina, enne kui üldse meessoo poolt kaaluda.",
+        "sourceHash": "23f8b4324c587ade",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "infertility-mechanisms-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because male-factor infertility is impossible if a semen analysis shows a normal sperm count, so there would be nothing further to evaluate on the male side.",
+        "et": "Sest meesfaktori viljatus on võimatu, kui seemneanalüüs näitab normaalset spermide arvu, mistõttu ei oleks meessoo poolel enam midagi hinnata.",
+        "sourceHash": "e871f6aaa94e7859",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "infertility-mechanisms-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because male-factor infertility, while rare, should still be checked only after every possible female-factor cause has been fully ruled out first.",
+        "et": "Sest meesfaktori viljatust, kuigi see on harv, tuleks kontrollida alles siis, kui kõik võimalikud naisfaktori põhjused on esmalt täielikult välistatud.",
+        "sourceHash": "e97cd69ed053977a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "infertility-mechanisms-m1"
+    }
+  ]
+}

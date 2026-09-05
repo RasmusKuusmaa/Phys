@@ -1,0 +1,21 @@
+{
+  "id": "infertility-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "reproductive-medicine",
+  "title": {
+    "en": "Infertility mechanisms",
+    "et": "Viljatuse mehhanismid",
+    "sourceHash": "5caaa11c59ca04fa",
+    "stale": false
+  },
+  "summary": {
+    "en": "Infertility -- the inability to conceive after a year of regular unprotected intercourse -- has causes distributed roughly equally between male and female factors (plus a substantial share of mixed or unexplained cases), and every individual cause traces back to a breakdown at one of a small number of mechanistic steps rather than being one single disease. On the female side, ovulatory disorders (failure to release a mature egg regularly, as in polycystic ovary syndrome) are one major category; structural or tubal factors (blocked or damaged fallopian tubes, often from prior infection or endometriosis, preventing sperm and egg from meeting or a fertilized embryo from reaching the uterus) are another, mechanistically distinct category. On the male side, infertility mechanisms cluster around defects in spermatogenesis itself (low sperm count or poor sperm quality, from hormonal, genetic, or testicular causes) or around structural obstruction (blockage somewhere along the vas deferens or epididymis preventing otherwise normal sperm from being ejaculated) -- again two mechanistically distinct categories rather than one. Recognizing which mechanistic category is actually responsible in a given case is what determines which specific intervention could plausibly address it, since a treatment aimed at one mechanism (say, inducing ovulation) does nothing for a different one (say, a blocked fallopian tube).",
+    "et": "Viljatus -- võimetus rasestuda pärast aastast regulaarset kaitsmata suguühet -- jaguneb põhjuste poolest ligikaudu võrdselt mees- ja naisfaktorite vahel (pluss märkimisväärne osa segapõhjustega või seletamatuid juhtumeid), ning iga üksik põhjus taandub mõne väikese arvu mehhanistliku sammu häirumisele, mitte ei ole üks ainus haigus. Naissoo poolel on üks peamine kategooria ovulatsioonihäired (võimetus regulaarselt vabastada küpset munarakku, nagu polütsüstiliste munasarjade sündroomi puhul); struktuursed või munajuhaga seotud tegurid (ummistunud või kahjustatud munajuhad, sageli varasemast infektsioonist või endometrioosist, mis takistavad spermi ja munaraku kohtumist või viljastunud embrüo jõudmist emakasse) on teine, mehhanistlikult eristuv kategooria. Meessoo poolel koonduvad viljatuse mehhanismid kas spermatogeneesi enda defektide (madal spermide arv või halb spermide kvaliteet, hormonaalsetel, geneetilistel või munandi põhjustel) või struktuurse obstruktsiooni ümber (ummistus kuskil seemnejuha või manusmunandi ulatuses, mis takistab muidu normaalse sperma ejakuleerumist) -- taas kaks mehhanistlikult eristuvat kategooriat, mitte üks. Selle äratundmine, milline mehhanistlik kategooria on konkreetsel juhul tegelikult vastutav, määrab ära, milline konkreetne sekkumine võiks seda usutavalt lahendada, kuna ühele mehhanismile suunatud ravi (näiteks ovulatsiooni esilekutsumine) ei tee midagi teisele (näiteks ummistunud munajuhale).",
+    "sourceHash": "62969ae742ed4a6d",
+    "stale": false
+  },
+  "prerequisites": [
+    "menstrual-cycle-and-ovulation-mechanisms"
+  ]
+}
