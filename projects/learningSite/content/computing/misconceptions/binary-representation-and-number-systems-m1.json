@@ -1,0 +1,10 @@
+{
+  "id": "binary-representation-and-number-systems-m1",
+  "conceptId": "binary-representation-and-number-systems",
+  "text": {
+    "en": "Computers use binary purely as an arbitrary convention that could just as easily have been decimal -- in reality, binary is a direct consequence of hardware reliability: a two-state switch (off/on) is far simpler and more reliable to build and distinguish electrically than a component that must reliably hold and distinguish ten distinct voltage levels.",
+    "et": "Arvutid kasutavad kahendsüsteemi puhtalt suvalise kokkuleppena, mis oleks sama hästi võinud olla kümnendsüsteem -- tegelikult on kahendsüsteem otsene tagajärg riistvara usaldusväärsusest: kaheseisundilist lülitit (väljas/sees) on elektriliselt palju lihtsam ja usaldusväärsem ehitada ja eristada kui komponenti, mis peab usaldusväärselt hoidma ja eristama kümmet erinevat pingetaset.",
+    "sourceHash": "3361d87eafedf111",
+    "stale": false
+  }
+}

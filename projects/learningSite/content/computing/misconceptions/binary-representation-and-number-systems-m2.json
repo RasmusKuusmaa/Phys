@@ -1,0 +1,10 @@
+{
+  "id": "binary-representation-and-number-systems-m2",
+  "conceptId": "binary-representation-and-number-systems",
+  "text": {
+    "en": "Computers represent a negative number by simply flipping a sign bit at the front of an otherwise-normal binary number, the way a plus or minus sign works in ordinary decimal notation -- in reality, standard hardware uses two's complement specifically because it lets the same addition circuitry that handles positive numbers also correctly handle negative ones, with no separate subtraction hardware needed, which a simple sign-bit scheme does not achieve.",
+    "et": "Arvutid esitavad negatiivset arvu, lihtsalt pöörates märgibitti muidu tavalise kahendarvu ees, samamoodi nagu pluss- või miinusmärk töötab tavalises kümnendtähistuses -- tegelikult kasutab standardne riistvara täiendkoodi just seetõttu, et see lubab samal liitmisvooluringil, mis käsitleb positiivseid arve, käsitleda korrektselt ka negatiivseid, ilma et oleks vaja eraldi lahutamisriistvara, mida lihtne märgibiti skeem ei saavuta.",
+    "sourceHash": "67d9f9f9b18ac322",
+    "stale": false
+  }
+}

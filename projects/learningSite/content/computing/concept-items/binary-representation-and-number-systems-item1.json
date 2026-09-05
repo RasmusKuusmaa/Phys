@@ -1,0 +1,56 @@
+{
+  "id": "binary-representation-and-number-systems-item1",
+  "conceptId": "binary-representation-and-number-systems",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A programmer is surprised that adding 0.1 and 0.2 in their code produces 0.30000000000000004 instead of exactly 0.3. What's the best explanation?",
+    "et": "Programmeerija on üllatunud, et 0,1 ja 0,2 liitmine tema koodis annab tulemuseks 0,30000000000000004, mitte täpselt 0,3. Mis on parim selgitus?",
+    "sourceHash": "d1ecdef01643298e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "0.1 and 0.2 have no exact finite representation in binary floating-point, the same way 1/3 has none in decimal, so each is stored as the closest representable value, and the tiny rounding errors show up in the result.",
+        "et": "0,1-l ja 0,2-l puudub täpne lõplik esitus kahendujukomas, samamoodi nagu 1/3-l puudub see kümnendsüsteemis, mistõttu kumbki salvestatakse lähima esitatava väärtusena, ning väikesed ümardusvead ilmnevad tulemuses.",
+        "sourceHash": "fd97e73177320106",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is a bug specific to their programming language's floating-point implementation that a better-designed language would have fixed.",
+        "et": "See on konkreetse programmeerimiskeele ujukoma teostuse viga, mille paremini disainitud keel oleks parandanud.",
+        "sourceHash": "8a9b10437d61183b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "binary-representation-and-number-systems-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This happens because the computer is using a sign-bit representation instead of two's complement for these values.",
+        "et": "See juhtub seetõttu, et arvuti kasutab nende väärtuste jaoks märgibiti esitust täiendkoodi asemel.",
+        "sourceHash": "6156de9aa3d279ab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "binary-representation-and-number-systems-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This indicates a hardware malfunction in the CPU's arithmetic unit, since correct hardware would produce exactly 0.3.",
+        "et": "See viitab riknemisele protsessori aritmeetikaploki riistvaras, kuna korrektne riistvara annaks täpselt 0,3.",
+        "sourceHash": "f94c5d498d86403a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "binary-representation-and-number-systems-m3"
+    }
+  ]
+}

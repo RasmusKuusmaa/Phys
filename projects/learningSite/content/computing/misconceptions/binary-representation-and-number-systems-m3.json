@@ -1,0 +1,10 @@
+{
+  "id": "binary-representation-and-number-systems-m3",
+  "conceptId": "binary-representation-and-number-systems",
+  "text": {
+    "en": "A floating-point rounding error, like 0.1 not being stored exactly, is a bug or flaw in a particular programming language's implementation that better languages have fixed -- in reality, it's an inherent consequence of representing real numbers with a finite number of bits in binary, the same way 1/3 has no exact finite decimal representation; every mainstream programming language using standard floating-point hardware exhibits this same behavior.",
+    "et": "Ujukoma ümardusviga, näiteks see, et 0,1 ei salvestata täpselt, on viga või puudus konkreetse programmeerimiskeele teostuses, mille paremad keeled on parandanud -- tegelikult on see loomulik tagajärg reaalarvude esitamisest lõpliku bittide arvuga kahendsüsteemis, samamoodi nagu 1/3-l puudub täpne lõplik kümnendesitus; iga levinud programmeerimiskeel, mis kasutab standardset ujukomariistvara, näitab sama käitumist.",
+    "sourceHash": "52d22353e02f60c7",
+    "stale": false
+  }
+}
