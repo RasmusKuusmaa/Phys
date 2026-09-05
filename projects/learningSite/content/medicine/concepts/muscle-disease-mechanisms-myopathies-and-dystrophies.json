@@ -1,0 +1,21 @@
+{
+  "id": "muscle-disease-mechanisms-myopathies-and-dystrophies",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "musculoskeletal-medicine-and-rheumatology",
+  "title": {
+    "en": "Muscle disease mechanisms: myopathies and dystrophies",
+    "et": "Lihashaiguste mehhanismid: müopaatiad ja düstroofiad",
+    "sourceHash": "ca39f3766cf34a03",
+    "stale": false
+  },
+  "summary": {
+    "en": "Myopathies are diseases that damage muscle fibers directly rather than the nerves that control them, and they fall into two mechanistically distinct categories: muscular dystrophies are genetic disorders in which a structural protein the muscle fiber depends on is missing or defective -- dystrophin, in Duchenne muscular dystrophy, normally anchors the internal cytoskeleton to the cell membrane during contraction, and without it repeated contractions tear the membrane, progressively destroying fibers over years -- while inflammatory myopathies (such as polymyositis) instead result from the immune system attacking muscle tissue directly, a fundamentally different, immune-driven mechanism rather than a structural-protein deficiency present from birth. Because a dystrophy's damage stems from an inherited absence of a specific protein, the resulting weakness is typically progressive and follows a fairly predictable pattern tied to which muscle groups depend most heavily on that protein, whereas an inflammatory myopathy's course tracks the immune attack's activity and can potentially be modified by suppressing that immune response, a treatment approach that does nothing for a structural protein the muscle fiber was never able to make in the first place.",
+    "et": "Müopaatiad on haigused, mis kahjustavad otse lihaskiude, mitte neid juhtivaid närve, ning need jagunevad kaheks mehhanistlikult erinevaks kategooriaks: lihasdüstroofiad on geneetilised häired, mille korral puudub või on defektne struktuurne valk, millest lihaskiud sõltub -- düstrofiin, Duchenne'i lihasdüstroofia korral, kinnitab tavaliselt sisemise tsütoskeleti rakumembraani külge kokkutõmbumise ajal, ning ilma selleta rebestavad korduvad kokkutõmbed membraani, hävitades järk-järgult kiude aastate jooksul --, samas kui põletikulised müopaatiad (nagu polümüosiit) tulenevad hoopis immuunsüsteemi otsesest rünnakust lihaskoe vastu, põhimõtteliselt erinev, immuunsüsteemist juhitud mehhanism, mitte sünnist saati esinev struktuurse valgu puudulikkus. Kuna düstroofia kahjustus tuleneb päritud konkreetse valgu puudumisest, on tekkiv nõrkus tavaliselt progresseeruv ja järgib üsna prognoositavat mustrit, mis on seotud sellega, millised lihasrühmad sõltuvad sellest valgust kõige rohkem, samas kui põletikulise müopaatia kulg jälgib immuunrünnaku aktiivsust ning seda saab potentsiaalselt muuta selle immuunvastuse allasurumisega -- raviviis, mis ei tee midagi struktuurse valgu jaoks, mida lihaskiud ei suutnud kunagi algusest peale toota.",
+    "sourceHash": "6dadde0079dc466d",
+    "stale": false
+  },
+  "prerequisites": [
+    "muscular-system-anatomy-and-physiology"
+  ]
+}

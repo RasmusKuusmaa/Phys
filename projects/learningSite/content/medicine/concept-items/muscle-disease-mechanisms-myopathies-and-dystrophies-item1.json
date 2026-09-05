@@ -1,0 +1,56 @@
+{
+  "id": "muscle-disease-mechanisms-myopathies-and-dystrophies-item1",
+  "conceptId": "muscle-disease-mechanisms-myopathies-and-dystrophies",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does immunosuppressive treatment help some inflammatory myopathies but not Duchenne muscular dystrophy, even though both diseases cause progressive muscle weakness?",
+    "et": "Miks aitab immunosupressiivne ravi mõne põletikulise müopaatia korral, kuid mitte Duchenne'i lihasdüstroofia korral, ehkki mõlemad haigused põhjustavad progresseeruvat lihasnõrkust?",
+    "sourceHash": "bc3875eab464ca56",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because inflammatory myopathies are driven by the immune system attacking muscle tissue, while Duchenne muscular dystrophy is caused by a missing structural protein the muscle fiber can't make at all — an immune-suppressing treatment has no immune attack to act on in the dystrophy.",
+        "et": "Sest põletikulisi müopaatiaid juhib immuunsüsteemi rünnak lihaskoe vastu, samas kui Duchenne'i lihasdüstroofia on põhjustatud puuduvast struktuursest valgust, mida lihaskiud üldse ei suuda toota — immuunsüsteemi allasuruval ravil pole düstroofia korral immuunrünnakut, millele mõjuda.",
+        "sourceHash": "f3637d6c13737c3c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because Duchenne muscular dystrophy is simply a more severe, advanced stage of the same general muscle-weakening process as inflammatory myopathies.",
+        "et": "Sest Duchenne'i lihasdüstroofia on lihtsalt sama üldise lihasenõrgenemise protsessi raskem, kaugelearenenud staadium mis põletikulistel müopaatiatel.",
+        "sourceHash": "16d8c77b42e391d8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "muscle-disease-mechanisms-myopathies-and-dystrophies-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't — both diseases are caused by immune attacks on the muscle, so immunosuppression should work equally well for both.",
+        "et": "See ei vasta tõele — mõlemad haigused on põhjustatud immuunrünnakust lihase vastu, seega peaks immunosupressioon toimima mõlemal võrdselt hästi.",
+        "sourceHash": "ec938045498954cf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "muscle-disease-mechanisms-myopathies-and-dystrophies-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because Duchenne muscular dystrophy patients are typically younger, and immunosuppression is considered too risky for that age group regardless of mechanism.",
+        "et": "Sest Duchenne'i lihasdüstroofia patsiendid on tavaliselt nooremad ning immunosupressiooni peetakse sellele vanuserühmale liiga riskantseks, sõltumata mehhanismist.",
+        "sourceHash": "59b1704dd3c73434",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "muscle-disease-mechanisms-myopathies-and-dystrophies-m3"
+    }
+  ]
+}

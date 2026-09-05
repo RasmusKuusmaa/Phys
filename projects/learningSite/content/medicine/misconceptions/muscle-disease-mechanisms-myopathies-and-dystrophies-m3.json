@@ -1,0 +1,10 @@
+{
+  "id": "muscle-disease-mechanisms-myopathies-and-dystrophies-m3",
+  "conceptId": "muscle-disease-mechanisms-myopathies-and-dystrophies",
+  "text": {
+    "en": "Since Duchenne muscular dystrophy is caused by a missing protein, suppressing the immune system (as is done for inflammatory myopathies) should help treat it the same way -- immunosuppression targets an immune attack that inflammatory myopathies have and dystrophies don't; a dystrophy's problem is the muscle fiber's inability to make a structural protein at all, which an immune-focused treatment does nothing to address, since there's no immune attack driving the damage in the first place.",
+    "et": "Kuna Duchenne'i lihasdüstroofia on põhjustatud puuduvast valgust, peaks immuunsüsteemi allasurumine (nagu tehakse põletikuliste müopaatiate puhul) aitama seda samamoodi ravida -- immunosupressioon sihib immuunrünnakut, mis on põletikulistel müopaatiatel, kuid mitte düstroofiatel; düstroofia probleem on lihaskiu suutmatus struktuurset valku üldse toota, millega immuunikeskne ravi ei tee midagi, kuna kahjustust juhtivat immuunrünnakut pole algusest peale olemas.",
+    "sourceHash": "ab35fcbbe9cb340a",
+    "stale": false
+  }
+}
