@@ -1,0 +1,10 @@
+{
+  "id": "learning-theory-and-behaviorism-m3",
+  "conceptId": "learning-theory-and-behaviorism",
+  "text": {
+    "en": "More total reinforcement always produces a stronger, more persistent behavior, regardless of the pattern/schedule it's delivered on -- in reality, the specific reinforcement schedule matters independently of the total amount delivered: a variable-ratio schedule (unpredictable number of responses per reward) produces higher response rates and much greater resistance to extinction than a fixed schedule delivering the identical average amount of reinforcement.",
+    "et": "Rohkem koguselist tugevdamist toodab alati tugevama, püsivama käitumise, sõltumata mustrist/graafikust, mille kaudu seda antakse -- tegelikult on konkreetne tugevdamise graafik oluline sõltumatult antud kogumahust: muutliku suhtega graafik (ettearvamatu arv vastuseid tasu kohta) toodab kõrgemaid vastuse määrasid ja palju suuremat vastupanu kustumisele kui fikseeritud graafik, mis annab identse keskmise tugevdamise koguse.",
+    "sourceHash": "988d130f126374d0",
+    "stale": false
+  }
+}

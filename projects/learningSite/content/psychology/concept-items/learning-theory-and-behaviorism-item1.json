@@ -1,0 +1,56 @@
+{
+  "id": "learning-theory-and-behaviorism-item1",
+  "conceptId": "learning-theory-and-behaviorism",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A slot machine pays out after an unpredictable number of pulls rather than a fixed number, and players keep pulling the lever far longer and more persistently than they would if payouts came every, say, exactly 10th pull for the same average payout rate. What best explains this?",
+    "et": "Mänguautomaat maksab välja pärast ettearvamatut arvu tõmbeid, mitte fikseeritud arvu, ning mängijad tõmbavad kangi palju kauem ja püsivamalt, kui nad teeksid, kui väljamaksed tuleksid iga, ütleme, täpselt 10. tõmbe järel sama keskmise väljamaksemäära juures. Mis seda kõige paremini seletab?",
+    "sourceHash": "15c18bf905ed3981",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A variable-ratio reinforcement schedule (unpredictable number of responses per reward) reliably produces higher, more persistent response rates and greater resistance to extinction than a fixed schedule delivering the same average reinforcement amount.",
+        "et": "Muutliku suhtega tugevdamise graafik (ettearvamatu arv vastuseid tasu kohta) toodab usaldusväärselt kõrgemaid, püsivamaid vastuse määrasid ja suuremat vastupanu kustumisele kui fikseeritud graafik, mis annab sama keskmise tugevdamise koguse.",
+        "sourceHash": "c54f960cf002c0f9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The total amount of money paid out over time must be higher on the unpredictable schedule, which is what drives the extra persistence.",
+        "et": "Aja jooksul väljamakstud raha kogusumma peab olema kõrgem ettearvamatu graafiku puhul, mis põhjustabki lisapüsivuse.",
+        "sourceHash": "4b6dc2069d1dd2df",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "learning-theory-and-behaviorism-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This is a form of classical conditioning, since the player's arm movement is an automatic reflex triggered by the sight of the slot machine.",
+        "et": "See on klassikalise tingimise vorm, kuna mängija käeliigutus on automaatne refleks, mille vallandab mänguautomaadi nägemine.",
+        "sourceHash": "b8e321908fee296d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "learning-theory-and-behaviorism-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Players on the unpredictable schedule are experiencing negative reinforcement, since an unpredictable payout is inherently an aversive stimulus being removed.",
+        "et": "Ettearvamatu graafiku mängijad kogevad negatiivset tugevdamist, kuna ettearvamatu väljamakse on olemuselt vastumeelse stiimuli eemaldamine.",
+        "sourceHash": "27be4827653fb255",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "learning-theory-and-behaviorism-m3"
+    }
+  ]
+}

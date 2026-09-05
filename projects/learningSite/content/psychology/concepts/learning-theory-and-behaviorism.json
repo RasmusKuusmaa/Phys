@@ -1,0 +1,19 @@
+{
+  "id": "learning-theory-and-behaviorism",
+  "subject": "psychology",
+  "level": "L1",
+  "module": "psychology-fundamentals",
+  "title": {
+    "en": "Learning theory and behaviorism",
+    "et": "Õpiteooria ja biheiviorism",
+    "sourceHash": "434fe115b8f02f61",
+    "stale": false
+  },
+  "summary": {
+    "en": "Classical conditioning, first demonstrated by Ivan Pavlov, describes learning by association between two stimuli: a neutral stimulus (a bell) that reliably precedes a stimulus that already triggers an automatic response (food triggering salivation) eventually comes to trigger that same response on its own, purely through repeated pairing, with no requirement that the learner do anything active to make the association happen. Operant conditioning, developed principally by B.F. Skinner, describes a genuinely different learning process: behavior itself is shaped by its consequences, with reinforcement (a consequence that increases the future frequency of the behavior it follows, whether by adding something wanted or removing something aversive) and punishment (a consequence that decreases future frequency) operating on voluntary, emitted behavior rather than automatic, elicited reflexes. The specific pattern in which reinforcement is delivered -- a fixed schedule versus a variable, unpredictable one -- has real, measurable effects independent of the total amount of reinforcement given: variable-ratio schedules, where a reward arrives after an unpredictable number of responses, reliably produce the highest, most persistent response rates and the greatest resistance to extinction of any schedule, which is precisely the reinforcement structure behind slot machines and other habit-forming variable-reward systems.",
+    "et": "Klassikaline tingimine, mida esimesena demonstreeris Ivan Pavlov, kirjeldab õppimist seose kaudu kahe stiimuli vahel: neutraalne stiimul (kelluke), mis usaldusväärselt eelneb stiimulile, mis juba vallandab automaatse vastuse (toit vallandab süljeeritust), hakkab lõpuks vallandama sama vastust iseseisvalt, puhtalt korduva paaristamise kaudu, ilma nõudeta, et õppija teeks midagi aktiivset seose tekkimiseks. Operantne tingimine, mille töötas peamiselt välja B.F. Skinner, kirjeldab tõeliselt erinevat õppimisprotsessi: käitumist ennast kujundavad selle tagajärjed, kusjuures tugevdamine (tagajärg, mis suurendab käitumise tulevast sagedust, millele see järgneb, kas soovitu lisamise või vastumeelse eemaldamise kaudu) ja karistamine (tagajärg, mis vähendab tulevast sagedust) toimivad vabatahtlikule, väljendatud käitumisele, mitte automaatsetele, esile kutsutud refleksidele. Konkreetne muster, mille kaudu tugevdamist antakse -- fikseeritud graafik versus muutlik, ettearvamatu -- avaldab reaalset, mõõdetavat mõju sõltumatult antud tugevdamise kogumahust: muutliku suhtega graafikud, kus tasu saabub pärast ettearvamatut arvu vastuseid, toodavad usaldusväärselt kõrgeimad, kõige püsivamad vastuse määrad ja suurima vastupanu kustumisele igast graafikust, mis ongi täpselt tugevdamise struktuur mänguautomaatide ja teiste harjumust tekitavate muutliku tasu süsteemide taga.",
+    "sourceHash": "c2cad8d6f7af09f7",
+    "stale": false
+  },
+  "prerequisites": []
+}
