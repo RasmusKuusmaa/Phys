@@ -1,0 +1,10 @@
+{
+  "id": "ocean-chemistry-and-seawater-composition-m3",
+  "conceptId": "ocean-chemistry-and-seawater-composition",
+  "text": {
+    "en": "Dissolved CO2 in seawater is chemically inert once it dissolves, just sitting there as a gas in solution -- in reality, dissolved CO2 actively reacts with water to form carbonic acid, which dissociates into bicarbonate and carbonate ions, and this reactive carbonate equilibrium is exactly the mechanism behind both the ocean's historical pH buffering and its ongoing acidification.",
+    "et": "Merevees lahustunud CO2 on pärast lahustumist keemiliselt inertne, lihtsalt seisab seal gaasina lahuses -- tegelikult reageerib lahustunud CO2 aktiivselt veega, moodustades süsihapet, mis dissotsieerub bikarbonaadiks ja karbonaadi ioonideks, ning see reaktiivne karbonaadi tasakaal ongi täpselt mehhanism nii ookeani ajaloolise pH puhverduse kui ka selle jätkuva hapestumise taga.",
+    "sourceHash": "a7edac6b96e41a2d",
+    "stale": false
+  }
+}

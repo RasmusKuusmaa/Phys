@@ -1,0 +1,19 @@
+{
+  "id": "ocean-chemistry-and-seawater-composition",
+  "subject": "oceanography",
+  "level": "L2",
+  "module": "oceanography-fundamentals",
+  "title": {
+    "en": "Ocean chemistry and seawater composition",
+    "et": "Ookeanikeemia ja merevee koostis",
+    "sourceHash": "3100659ab6091e3f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Seawater's defining chemical property is its salinity -- dissolved salt content, averaging about 35 grams per kilogram of water, dominated by sodium and chloride ions but including a consistent ratio of other ions everywhere in the open ocean, a regularity that lets oceanographers infer total salinity from measuring just one ion's concentration. Dissolved gases matter just as much as dissolved salts: oxygen from the atmosphere and from photosynthesizing plankton supports nearly all marine life, while dissolved carbon dioxide reacts with seawater to form carbonic acid, which in turn dissociates into bicarbonate and carbonate ions -- an equilibrium called the carbonate buffering system that has historically kept ocean pH remarkably stable despite constant CO2 exchange with the atmosphere. That buffering capacity is being pushed to its limit by the ocean's ongoing absorption of a large share of humanity's excess atmospheric CO2: as more CO2 dissolves, the carbonate equilibrium shifts, consuming carbonate ions and lowering pH -- ocean acidification -- which is a shift toward less basic, not literally acidic, since the open ocean's pH (around 8.1 and falling) remains above neutral, but the shift itself is what disrupts organisms (like corals and shellfish) that depend on a stable supply of carbonate ions to build their calcium carbonate shells and skeletons.",
+    "et": "Merevee määravaim keemiline omadus on selle soolsus -- lahustunud soolasisaldus, keskmiselt umbes 35 grammi kilogrammi vee kohta, mida domineerivad naatrium- ja kloriidioonid, kuid mis sisaldab kõikjal avaookeanis järjepidevat teiste ioonide suhet, mis on nii korrapärane, et võimaldab okeanograafidel tuletada kogusoolsuse ainult ühe iooni kontsentratsiooni mõõtmisest. Lahustunud gaasid on sama olulised kui lahustunud soolad: atmosfäärist ja fotosünteesivast planktonist pärinev hapnik toetab peaaegu kogu merikeskkonna elu, samas kui lahustunud süsihappegaas reageerib merevees, moodustades süsihapet, mis omakorda dissotsieerub bikarbonaadiks ja karbonaadi ioonideks -- tasakaal nimega karbonaadi puhversüsteem, mis on ajalooliselt hoidnud ookeani pH-d märkimisväärselt stabiilsena hoolimata pidevast CO2 vahetusest atmosfääriga. Seda puhverdusvõimet surutakse selle piirini ookeani jätkuva inimtekkelise liigse atmosfääri CO2 suure osa neelamisega: kuna rohkem CO2 lahustub, nihkub karbonaadi tasakaal, tarbides karbonaadi ioone ja langetades pH-d -- ookeani hapestumine --, mis on nihe vähem aluselise, mitte sõna otseses mõttes happelise poole, kuna avaookeani pH (umbes 8,1 ja langemas) jääb ikkagi üle neutraalse, kuid see nihe ise häirib organisme (nagu korallid ja karploomad), kes sõltuvad karbonaadi ioonide stabiilsest varust oma kaltsiumkarbonaadist kestade ja skelettide ehitamiseks.",
+    "sourceHash": "7b6b4aeb35649012",
+    "stale": false
+  },
+  "prerequisites": []
+}

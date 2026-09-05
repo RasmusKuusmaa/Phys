@@ -1,0 +1,56 @@
+{
+  "id": "ocean-chemistry-and-seawater-composition-item1",
+  "conceptId": "ocean-chemistry-and-seawater-composition",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Scientists say the ocean is 'acidifying' even though its average pH (around 8.1) is still well above 7 and remains basic. How can both statements be true?",
+    "et": "Teadlased ütlevad, et ookean 'hapestub', kuigi selle keskmine pH (umbes 8,1) on ikka tunduvalt üle 7 ja jääb aluseliseks. Kuidas saavad mõlemad väited olla tõesed?",
+    "sourceHash": "337f6a81a11d7fb0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because 'acidification' describes the direction of the pH shift (toward less basic, as dissolved CO2 shifts the carbonate equilibrium and consumes carbonate ions) rather than a claim that the ocean has crossed into acidic (pH below 7) territory.",
+        "et": "Sest 'hapestumine' kirjeldab pH nihke suunda (vähem aluselise poole, kuna lahustunud CO2 nihutab karbonaadi tasakaalu ja tarbib karbonaadi ioone), mitte väidet, et ookean on ületanud happelise (pH alla 7) piiri.",
+        "sourceHash": "416c59e5762b8358",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because scientists are using 'acidification' loosely/incorrectly, and the ocean's pH is not actually changing in any measurable way.",
+        "et": "Sest teadlased kasutavad 'hapestumist' lohakalt/valesti ning ookeani pH tegelikult ei muutu mõõdetaval viisil.",
+        "sourceHash": "106f26b380dd78ab",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ocean-chemistry-and-seawater-composition-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because different parts of the ocean have wildly different pH values, some above 7 and some below, and 'acidification' refers only to the below-7 regions.",
+        "et": "Sest ookeani eri osadel on äärmiselt erinevad pH väärtused, mõned üle 7 ja mõned alla, ning 'hapestumine' viitab ainult alla 7 piirkondadele.",
+        "sourceHash": "ed7968009cca96a5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ocean-chemistry-and-seawater-composition-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the ocean's pH scale itself is different from the standard chemistry pH scale, so 8.1 in ocean terms is equivalent to an acidic value on the standard scale.",
+        "et": "Sest ookeani pH skaala ise erineb standardsest keemia pH skaalast, mistõttu 8,1 ookeani mõistes on samaväärne happelise väärtusega standardsel skaalal.",
+        "sourceHash": "e6fdd54fb025f93a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ocean-chemistry-and-seawater-composition-m3"
+    }
+  ]
+}

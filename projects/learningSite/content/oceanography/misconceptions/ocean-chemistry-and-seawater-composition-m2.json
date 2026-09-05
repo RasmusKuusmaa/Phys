@@ -1,0 +1,10 @@
+{
+  "id": "ocean-chemistry-and-seawater-composition-m2",
+  "conceptId": "ocean-chemistry-and-seawater-composition",
+  "text": {
+    "en": "Every ion dissolved in seawater varies independently from place to place, so measuring salinity requires separately measuring every different dissolved substance -- in reality, the ratio of major dissolved ions to each other is remarkably constant throughout the open ocean, which is precisely why oceanographers can infer total salinity from measuring just one ion's concentration (historically chloride, now usually via conductivity).",
+    "et": "Iga merevees lahustunud ioon varieerub kohati sõltumatult, mistõttu soolsuse mõõtmine nõuab iga erineva lahustunud aine eraldi mõõtmist -- tegelikult on peamiste lahustunud ioonide omavaheline suhe kogu avaookeanis märkimisväärselt konstantne, mis ongi täpselt põhjus, miks okeanograafid saavad tuletada kogusoolsuse ainult ühe iooni kontsentratsiooni mõõtmisest (ajalooliselt kloriid, nüüd tavaliselt elektrijuhtivuse kaudu).",
+    "sourceHash": "91dce5f81e8d84da",
+    "stale": false
+  }
+}
