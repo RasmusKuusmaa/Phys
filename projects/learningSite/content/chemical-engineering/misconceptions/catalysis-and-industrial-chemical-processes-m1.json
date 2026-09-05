@@ -1,0 +1,10 @@
+{
+  "id": "catalysis-and-industrial-chemical-processes-m1",
+  "conceptId": "catalysis-and-industrial-chemical-processes",
+  "text": {
+    "en": "A catalyst changes the equilibrium position/yield of a reaction rather than only changing how fast equilibrium is reached -- in reality, a catalyst provides an alternative reaction pathway with lower activation energy for both the forward and reverse reactions equally, speeding up how quickly equilibrium is reached but leaving the equilibrium position (and therefore the maximum achievable yield) completely unchanged -- equilibrium is a thermodynamic property, and catalysts only affect kinetics.",
+    "et": "Katalüsaator muudab reaktsiooni tasakaaluasendit/saagist, selle asemel et muuta ainult seda, kui kiiresti tasakaal saavutatakse -- tegelikult pakub katalüsaator alternatiivset reaktsiooniteed madalama aktivatsioonienergiaga võrdselt nii otse- kui vastupidise reaktsiooni jaoks, kiirendades, kui kiiresti tasakaal saavutatakse, kuid jättes tasakaaluasendi (ja seega maksimaalse saavutatava saagise) täiesti muutumatuks -- tasakaal on termodünaamiline omadus, ning katalüsaatorid mõjutavad ainult kineetikat.",
+    "sourceHash": "023a83749d677f6c",
+    "stale": false
+  }
+}

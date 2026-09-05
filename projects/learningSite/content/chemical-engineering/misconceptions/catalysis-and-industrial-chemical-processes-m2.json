@@ -1,0 +1,10 @@
+{
+  "id": "catalysis-and-industrial-chemical-processes-m2",
+  "conceptId": "catalysis-and-industrial-chemical-processes",
+  "text": {
+    "en": "Homogeneous and heterogeneous catalysts are just two names for the same thing, distinguished only by the specific chemical used -- in reality, the distinction is about phase: a homogeneous catalyst is in the same phase as the reactants (giving thorough contact but a hard separation problem afterward), while a heterogeneous catalyst is in a different phase (reaction confined to its surface, but trivially separable from the product) -- a genuinely different engineering tradeoff, not just a different chemical.",
+    "et": "Homogeensed ja heterogeensed katalüsaatorid on lihtsalt kaks nimetust samale asjale, mida eristab ainult kasutatav konkreetne kemikaal -- tegelikult puudutab eristus faasi: homogeenne katalüsaator on reagentidega samas faasis (andes põhjaliku kontakti, kuid raske eraldusprobleemi pärast reaktsiooni), samas kui heterogeenne katalüsaator on erinevas faasis (reaktsioon on piiratud selle pinnaga, kuid triviaalselt eraldatav tootest) -- tõeliselt erinev inseneri kompromiss, mitte lihtsalt erinev kemikaal.",
+    "sourceHash": "b73b5231d69d0a0f",
+    "stale": false
+  }
+}

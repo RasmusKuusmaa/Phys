@@ -1,0 +1,21 @@
+{
+  "id": "catalysis-and-industrial-chemical-processes",
+  "subject": "chemical-engineering",
+  "level": "L2",
+  "module": "chemical-engineering-fundamentals",
+  "title": {
+    "en": "Catalysis and industrial chemical processes",
+    "et": "Katalüüs ja tööstuslikud keemilised protsessid",
+    "sourceHash": "4d88d217d02c4418",
+    "stale": false
+  },
+  "summary": {
+    "en": "A catalyst speeds up a reaction without being consumed by it, and the mechanism behind that -- providing an alternative reaction pathway with lower activation energy, then being regenerated at the end of each cycle -- is what makes catalysis the single most economically important tool in industrial chemistry, since it lets a reactor run at a fraction of the temperature and pressure (and therefore cost) an uncatalyzed reaction would otherwise need to reach a usable rate. Catalysts come in two broad categories distinguished by phase: a homogeneous catalyst is dissolved in the same phase as the reactants (typically a liquid), giving excellent contact between catalyst and reactant but making the catalyst hard to separate from the product afterward, while a heterogeneous catalyst exists in a different phase (almost always a solid catalyzing a gas- or liquid-phase reaction), sacrificing some of that intimate contact -- the reaction can only happen at the solid's surface, not throughout its volume -- in exchange for a catalyst that's trivially easy to separate from the product stream and reuse. The Haber-Bosch process, which synthesizes ammonia from atmospheric nitrogen and hydrogen over an iron-based heterogeneous catalyst, is the field's landmark illustration of why this matters at civilizational scale: nitrogen's triple bond is so strong that the uncatalyzed reaction is negligibly slow at any economically reasonable temperature, and it was specifically the discovery of a catalyst that made industrial-scale ammonia production -- and therefore the synthetic nitrogen fertilizer that feeds a large fraction of the world's population today -- possible at all.",
+    "et": "Katalüsaator kiirendab reaktsiooni, ilma et see reaktsiooni käigus tarbitaks, ning selle taga olev mehhanism -- pakkudes alternatiivset reaktsiooniteed madalama aktivatsioonienergiaga, seejärel taastudes iga tsükli lõpus -- teebki katalüüsist tööstuskeemia majanduslikult kõige olulisema vahendi, kuna see võimaldab reaktoril töötada murdosa temperatuurist ja rõhust (ja seega kulust), mida katalüsaatorita reaktsioon vajaks kasutatava kiiruseni jõudmiseks. Katalüsaatorid jagunevad kahte laia kategooriasse, mida eristab faas: homogeenne katalüsaator on lahustatud samas faasis reagentidega (tavaliselt vedelikus), andes suurepärase kontakti katalüsaatori ja reagendi vahel, kuid muutes katalüsaatori raskesti eraldatavaks tootest pärast reaktsiooni, samas kui heterogeenne katalüsaator eksisteerib erinevas faasis (peaaegu alati tahke aine, mis katalüüsib gaasi- või vedelikfaasi reaktsiooni), ohverdades osa sellest lähedasest kontaktist -- reaktsioon saab toimuda ainult tahke aine pinnal, mitte kogu selle mahus -- vastutasuks katalüsaatori eest, mida on triviaalselt lihtne tootevoolust eraldada ja taaskasutada. Haberi-Boschi protsess, mis sünteesib ammoniaaki atmosfääri lämmastikust ja vesinikust rauapõhise heterogeense katalüsaatori peal, on valdkonna maamärgiline illustratsioon sellest, miks see loeb tsivilisatsiooni mastaabis: lämmastiku kolmiksideme on nii tugev, et katalüsaatorita reaktsioon on tühiselt aeglane mistahes majanduslikult mõistlikul temperatuuril, ning just katalüsaatori avastamine tegigi tööstusliku mastaabiga ammoniaagi tootmise -- ja seega sünteetilise lämmastikväetise, mis toidab suurt osa maailma tänasest rahvastikust -- üldse võimalikuks.",
+    "sourceHash": "6cc2a19896048040",
+    "stale": false
+  },
+  "prerequisites": [
+    "reactor-design-and-reaction-engineering"
+  ]
+}

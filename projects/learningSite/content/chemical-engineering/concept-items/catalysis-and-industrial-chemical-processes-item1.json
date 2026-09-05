@@ -1,0 +1,56 @@
+{
+  "id": "catalysis-and-industrial-chemical-processes-item1",
+  "conceptId": "catalysis-and-industrial-chemical-processes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Adding a catalyst to a reversible reaction increases how fast it reaches equilibrium. What happens to the equilibrium yield (the maximum amount of product achievable) as a result?",
+    "et": "Katalüsaatori lisamine pöörduvale reaktsioonile suurendab, kui kiiresti see tasakaalu saavutab. Mis juhtub selle tulemusel tasakaalusaagisega (maksimaalne saavutatav tootekogus)?",
+    "sourceHash": "8d7f23f7fac097d8",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It stays exactly the same, since a catalyst speeds up the forward and reverse reactions equally and only changes kinetics, not the thermodynamic equilibrium position.",
+        "et": "See jääb täpselt samaks, kuna katalüsaator kiirendab otse- ja vastupidist reaktsiooni võrdselt ning muudab ainult kineetikat, mitte termodünaamilist tasakaaluasendit.",
+        "sourceHash": "b67426867b49eb21",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It increases, since a faster reaction should also be able to push further toward completion.",
+        "et": "See suureneb, kuna kiirem reaktsioon peaks suutma ka kaugemale lõpuni jõuda.",
+        "sourceHash": "50480618233014ba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "catalysis-and-industrial-chemical-processes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It decreases, since reaching equilibrium faster means the reaction has less time to fully convert reactants to products.",
+        "et": "See väheneb, kuna tasakaalu kiirem saavutamine tähendab, et reaktsioonil on vähem aega reagentide täielikuks toodeteks muutmiseks.",
+        "sourceHash": "7c13c08643687913",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "catalysis-and-industrial-chemical-processes-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It depends entirely on whether the catalyst is homogeneous or heterogeneous, with homogeneous catalysts increasing yield and heterogeneous catalysts decreasing it.",
+        "et": "See sõltub täielikult sellest, kas katalüsaator on homogeenne või heterogeenne, kusjuures homogeensed katalüsaatorid suurendavad saagist ja heterogeensed vähendavad seda.",
+        "sourceHash": "de803fec77810b7a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "catalysis-and-industrial-chemical-processes-m2"
+    }
+  ]
+}

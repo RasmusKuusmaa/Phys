@@ -1,0 +1,10 @@
+{
+  "id": "catalysis-and-industrial-chemical-processes-m3",
+  "conceptId": "catalysis-and-industrial-chemical-processes",
+  "text": {
+    "en": "The Haber-Bosch process matters mainly as a historical curiosity/chemistry-class example with little modern relevance -- in reality, synthetic ammonia produced this way is the feedstock for the nitrogen fertilizer that a large fraction of the world's current population depends on for food production, making the discovery of a catalyst for this specific reaction one of the most consequential findings in industrial chemistry's history, not a minor historical footnote.",
+    "et": "Haberi-Boschi protsess on peamiselt ajalooline kuriositeet/keemiatunni näide vähese kaasaegse tähtsusega -- tegelikult on niiviisi toodetud sünteetiline ammoniaak lämmastikväetise tooraine, millest sõltub suur osa maailma praegusest rahvastikust toidutootmiseks, muutes selle konkreetse reaktsiooni jaoks katalüsaatori avastamise üheks tööstuskeemia ajaloo kõige olulisemaks leiuks, mitte väikeseks ajalooliseks joonealuseks märkuseks.",
+    "sourceHash": "3c7ef44964e13ff4",
+    "stale": false
+  }
+}
