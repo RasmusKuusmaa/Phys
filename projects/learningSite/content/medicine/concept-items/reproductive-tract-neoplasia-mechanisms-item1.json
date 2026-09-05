@@ -1,0 +1,56 @@
+{
+  "id": "reproductive-tract-neoplasia-mechanisms-item1",
+  "conceptId": "reproductive-tract-neoplasia-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does an HPV vaccine meaningfully reduce cervical cancer risk, while there is no equivalent vaccine-based prevention strategy for most other cancer types, including other reproductive-tract cancers?",
+    "et": "Miks vähendab HPV vaktsiin oluliselt emakakaelavähi riski, samas kui enamiku teiste vähitüüpide, sealhulgas teiste reproduktiivtrakti vähkide jaoks ei ole samaväärset vaktsiinipõhist ennetusstrateegiat?",
+    "sourceHash": "b11d11f587076576",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because cervical cancer, unlike most cancers, has an unusually well-established infectious cause -- persistent infection with high-risk HPV strains -- so preventing that infection in the first place removes the primary driver of the disease; most other cancers, including hormone-driven endometrial cancer, don't have an analogous single infectious cause a vaccine could target.",
+        "et": "Sest emakakaelavähil on erinevalt enamikust vähkidest ebatavaliselt hästi tuvastatud nakkuslik põhjus -- kõrge riskiga HPV tüvede püsiv infektsioon -- mistõttu selle infektsiooni ennetamine juba eos eemaldab haiguse peamise põhjustaja; enamikul teistel vähkidel, sealhulgas hormoonipõhisel emakakehavähil, ei ole analoogset ühtset nakkuslikku põhjust, mida vaktsiin võiks sihtida.",
+        "sourceHash": "07c54db33a9d8ddf",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because all reproductive-tract cancers share the same underlying mechanism, and the HPV vaccine happens to work equally well against cervical, endometrial, and ovarian cancer alike.",
+        "et": "Sest kõigil reproduktiivtrakti vähkidel on sama alusmehhanism, ning HPV vaktsiin toimib juhtumisi võrdselt hästi nii emakakaela-, emakakeha- kui munasarjavähi vastu.",
+        "sourceHash": "68d53278281d3bee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reproductive-tract-neoplasia-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't really — cervical cancer's cause is just as unclear and multifactorial as most other cancers, and the vaccine's benefit is coincidental rather than mechanism-targeted.",
+        "et": "See ei ole tegelikult nii — emakakaelavähi põhjus on sama ebaselge ja mitmetahuline kui enamikul teistel vähkidel, ning vaktsiini kasu on juhuslik, mitte mehhanismile suunatud.",
+        "sourceHash": "3226ae0204bb585d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reproductive-tract-neoplasia-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because HPV vaccination lowers a person's overall estrogen exposure, and estrogen is the real underlying driver of cervical cancer risk in the same way it is for endometrial cancer.",
+        "et": "Sest HPV vaktsineerimine vähendab inimese üldist östrogeeni toimet, ning östrogeen ongi emakakaelavähi riski tegelik alusprintsiip samamoodi nagu emakakehavähi puhul.",
+        "sourceHash": "e5eddfdf638f2b50",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reproductive-tract-neoplasia-mechanisms-m3"
+    }
+  ]
+}

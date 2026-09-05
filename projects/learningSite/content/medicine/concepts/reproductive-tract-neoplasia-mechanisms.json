@@ -1,0 +1,22 @@
+{
+  "id": "reproductive-tract-neoplasia-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "reproductive-medicine",
+  "title": {
+    "en": "Reproductive tract neoplasia mechanisms",
+    "et": "Reproduktiivtrakti neoplaasia mehhanismid",
+    "sourceHash": "bd51ed8f2a550321",
+    "stale": false
+  },
+  "summary": {
+    "en": "Cancers of the reproductive tract don't share one cause -- they cluster into mechanistically distinct categories that happen to affect organs in the same system. Cervical cancer is overwhelmingly driven by persistent infection with high-risk strains of human papillomavirus (HPV), which disrupts the normal cell-cycle checkpoints covered elsewhere in this subject, making it one of the few cancers with a clearly identified, and largely preventable, infectious cause. Endometrial cancer, by contrast, is driven mainly by unopposed estrogen exposure -- estrogen stimulating endometrial growth without adequate progesterone to balance it, whether from obesity, anovulatory cycles, or estrogen-only hormone therapy -- a hormone-driven mechanism rather than an infectious one. Ovarian cancer's mechanisms are more heterogeneous and, for the most common epithelial subtype, are linked partly to the number of lifetime ovulations (each ovulation involves a small tissue-repair event at the ovarian surface, repeated ovulation cycles accumulating mutation risk over time) alongside a meaningful hereditary component in a subset of cases (BRCA1/2 mutations). Testicular and prostate cancers arise through yet other mechanisms -- testicular cancer arising from germ cells themselves, often at a younger age than most cancers, and prostate cancer's growth typically (though not always) remaining androgen-dependent, the basis for hormone-based treatment approaches. Recognizing which mechanism actually drives a given reproductive-tract cancer -- infectious, hormonal, or genetic/hereditary -- is what determines which prevention strategy actually addresses the cause rather than treating every reproductive-tract cancer as mechanistically interchangeable.",
+    "et": "Reproduktiivtrakti vähkidel ei ole ühte ühist põhjust -- need koonduvad mehhanistlikult eristuvatesse kategooriatesse, mis juhtuvad mõjutama sama süsteemi elundeid. Emakakaelavähki põhjustab valdavalt kõrge riskiga inimese papilloomiviiruse (HPV) tüvede püsiv infektsioon, mis häirib selle aine mujal käsitletud normaalseid rakutsükli kontrollpunkte, muutes selle üheks vähestest vähkidest, millel on selgelt tuvastatud ja suures osas ennetatav nakkuslik põhjus. Emakakehavähki (endomeetriumi vähki) põhjustab seevastu peamiselt vastandamata östrogeeni toime -- östrogeen stimuleerib endomeetriumi kasvu ilma piisava progesteroonita tasakaalustamiseks, olgu põhjuseks rasvumine, anovulatoorsed tsüklid või ainult östrogeeni sisaldav hormoonravi -- hormoonipõhine, mitte nakkuslik mehhanism. Munasarjavähi mehhanismid on heterogeensemad ning kõige levinuma epiteliaalse alatüübi puhul seotud osaliselt eluaegse ovulatsioonide arvuga (iga ovulatsioon hõlmab väikest koeparandussündmust munasarja pinnal, korduvad ovulatsioonitsüklid koguvad aja jooksul mutatsiooniriski), lisaks tähenduslik pärilik komponent osas juhtumitest (BRCA1/2 mutatsioonid). Munandi- ja eesnäärmevähk tekivad veel teistsuguste mehhanismide kaudu -- munandivähk tekib idurakkudest endist, sageli nooremas eas kui enamik vähke, ning eesnäärmevähi kasv jääb tüüpiliselt (kuigi mitte alati) androgeenisõltuvaks, mis on aluseks hormoonipõhistele ravimeetoditele. Ära tundmine, milline mehhanism konkreetset reproduktiivtrakti vähki tegelikult põhjustab -- nakkuslik, hormonaalne või geneetiline/pärilik -- määrab ära, milline ennetusstrateegia tegelikult käsitleb põhjust, selle asemel et käsitleda iga reproduktiivtrakti vähki mehhanistlikult samaväärsena.",
+    "sourceHash": "5212f4664cf0127b",
+    "stale": false
+  },
+  "prerequisites": [
+    "neoplasia-and-cancer-biology",
+    "reproductive-system-anatomy-and-physiology"
+  ]
+}

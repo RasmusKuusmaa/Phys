@@ -1,0 +1,10 @@
+{
+  "id": "reproductive-tract-neoplasia-mechanisms-m1",
+  "conceptId": "reproductive-tract-neoplasia-mechanisms",
+  "text": {
+    "en": "All reproductive-tract cancers share basically the same cause/mechanism, since they're all cancers of the same organ system -- in reality reproductive-tract cancers cluster into mechanistically distinct categories -- infectious (cervical cancer, driven by persistent high-risk HPV infection), hormonal (endometrial cancer, driven by unopposed estrogen exposure), and genetic/cumulative-mutation-risk (many ovarian cancers) -- sharing an organ system does not mean sharing a cause.",
+    "et": "Kõigil reproduktiivtrakti vähkidel on sisuliselt sama põhjus/mehhanism, kuna need on kõik sama organsüsteemi vähid -- tegelikult koonduvad reproduktiivtrakti vähid mehhanistlikult eristuvatesse kategooriatesse -- nakkuslik (emakakaelavähk, mida põhjustab püsiv kõrge riskiga HPV infektsioon), hormonaalne (emakakehavähk, mida põhjustab vastandamata östrogeeni toime), ja geneetiline/kumulatiivne mutatsioonirisk (paljud munasarjavähid) -- sama organsüsteemi jagamine ei tähenda sama põhjuse jagamist.",
+    "sourceHash": "6898116ef302e60d",
+    "stale": false
+  }
+}

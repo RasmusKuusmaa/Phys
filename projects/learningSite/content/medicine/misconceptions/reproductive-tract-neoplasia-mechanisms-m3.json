@@ -1,0 +1,10 @@
+{
+  "id": "reproductive-tract-neoplasia-mechanisms-m3",
+  "conceptId": "reproductive-tract-neoplasia-mechanisms",
+  "text": {
+    "en": "Hormone-driven cancers like endometrial cancer are caused by having 'too much estrogen' in some absolute sense -- in reality the mechanism is specifically unopposed estrogen -- estrogen stimulation of endometrial growth without adequate progesterone to balance/oppose it -- not simply a high absolute estrogen level; a normal menstrual cycle involves substantial estrogen exposure that isn't linked to elevated endometrial cancer risk precisely because progesterone balances it during the luteal phase.",
+    "et": "Hormoonipõhiseid vähke, nagu emakakehavähk, põhjustab 'liiga palju östrogeeni' mingis absoluutses mõttes -- tegelikult on mehhanism spetsiifiliselt vastandamata östrogeen -- östrogeeni stimulatsioon endomeetriumi kasvule ilma piisava progesteroonita seda tasakaalustamas/vastandamas -- mitte lihtsalt kõrge absoluutne östrogeenitase; normaalne menstruaaltsükkel hõlmab olulist östrogeeni toimet, mis ei ole seotud suurenenud emakakehavähi riskiga just seetõttu, et progesteroon tasakaalustab seda luteaalses faasis.",
+    "sourceHash": "267a247d23735b9b",
+    "stale": false
+  }
+}
