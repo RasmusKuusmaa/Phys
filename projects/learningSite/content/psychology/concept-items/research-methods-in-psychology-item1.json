@@ -1,0 +1,56 @@
+{
+  "id": "research-methods-in-psychology-item1",
+  "conceptId": "research-methods-in-psychology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A study finds that people who drink more coffee report higher anxiety levels. A news headline claims 'coffee causes anxiety.' What is the strongest methodological objection to this causal claim?",
+    "et": "Uuring leiab, et rohkem kohvi joovad inimesed teatavad kõrgemast ärevustasemest. Uudise pealkiri väidab, et 'kohv põhjustab ärevust.' Milline on kõige tugevam metodoloogiline vastuväide sellele põhjuslikule väitele?",
+    "sourceHash": "69f963c7cc57a792",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Without random assignment to a coffee-drinking condition, the study cannot rule out a third variable (e.g. stress) driving both coffee consumption and anxiety, or anxious people choosing to drink more coffee -- correlational data alone cannot establish the direction or presence of causation.",
+        "et": "Ilma juhusliku jaotamiseta kohvijoomise tingimusse ei suuda uuring välistada kolmandat muutujat (nt stress), mis põhjustab nii kohvitarbimist kui ärevust, või seda, et ärevad inimesed valivad rohkem kohvi juua -- pelgalt korrelatsiooniandmed ei suuda tuvastada põhjuslikkuse suunda ega olemasolu.",
+        "sourceHash": "b666ac799d9f952b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The claim is valid as long as the correlation coefficient reported in the study is statistically significant and reasonably large.",
+        "et": "Väide on kehtiv, kuni uuringus toodud korrelatsioonikordaja on statistiliselt oluline ja piisavalt suur.",
+        "sourceHash": "036a4c799b693764",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "research-methods-in-psychology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The problem is that 'anxiety' wasn't operationalized at all in this study, so there's nothing wrong with the causal logic itself, only with the measurement.",
+        "et": "Probleem on selles, et 'ärevust' selles uuringus üldse ei operatsionaliseeritud, seega pole põhjusliku loogikaga endaga midagi valesti, ainult mõõtmisega.",
+        "sourceHash": "efe4293f72850359",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "research-methods-in-psychology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The finding can't generalize to any population at all unless the study specifically sampled a WEIRD population.",
+        "et": "Leid ei saa üldse ühelegi populatsioonile üldistuda, kui uuring ei valinud spetsiifiliselt WEIRD populatsiooni.",
+        "sourceHash": "9669751857b977dc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "research-methods-in-psychology-m3"
+    }
+  ]
+}

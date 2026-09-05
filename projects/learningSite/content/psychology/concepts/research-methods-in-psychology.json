@@ -1,0 +1,19 @@
+{
+  "id": "research-methods-in-psychology",
+  "subject": "psychology",
+  "level": "L1",
+  "module": "psychology-fundamentals",
+  "title": {
+    "en": "Research methods in psychology",
+    "et": "Uurimismeetodid psühholoogias",
+    "sourceHash": "dfe4c6f5ff075a6c",
+    "stale": false
+  },
+  "summary": {
+    "en": "An experiment and a correlational study can both find that two variables are related, but only a properly controlled experiment -- one where the researcher actually manipulates an independent variable and randomly assigns participants to conditions -- can support a causal claim, because random assignment is what rules out the countless other differences between people that a merely observed correlation can never separate from the variable of interest. Before any of that, a psychological construct that isn't directly observable (anxiety, intelligence, aggression) has to be operationalized into something actually measurable -- a specific questionnaire score, a reaction time, a count of specific behaviors -- and how well that operationalization actually captures the underlying construct is a real, separate question from whether the study's statistics are valid. Psychology also runs into methodological problems less central to physical-science experiments: participants who correctly or incorrectly guess a study's hypothesis may change their behavior simply because they know they're being observed and suspect what's being tested (demand characteristics), and a finding from a sample of undergraduate psychology students at a Western university may not generalize to humans broadly, since most published psychological research historically drew on WEIRD (Western, Educated, Industrialized, Rich, Democratic) populations that are demographically unusual on a global scale.",
+    "et": "Nii eksperiment kui korrelatsiooniuuring võivad leida, et kaks muutujat on seotud, kuid ainult korralikult kontrollitud eksperiment -- kus uurija tegelikult manipuleerib sõltumatut muutujat ja jaotab osalejad juhuslikult tingimustesse -- suudab toetada põhjuslikku väidet, sest juhuslik jaotamine on see, mis välistab loendamatud muud erinevused inimeste vahel, mida pelgalt täheldatud korrelatsioon ei suuda kunagi huvipakkuvast muutujast eraldada. Enne kõike seda tuleb psühholoogiline konstrukt, mis pole otseselt vaadeldav (ärevus, intelligentsus, agressiivsus), operatsionaliseerida millekski tegelikult mõõdetavaks -- konkreetne küsimustiku tulemus, reaktsiooniaeg, konkreetsete käitumiste loendus -- ning kui hästi see operatsionaliseerimine tegelikult tabab aluseks olevat konstrukti, on tõeline, eraldiseisev küsimus sellest, kas uuringu statistika on kehtiv. Psühholoogia satub ka metodoloogiliste probleemide otsa, mis on vähem kesksed füüsikaliste teaduste eksperimentides: osalejad, kes õigesti või valesti arvavad ära uuringu hüpoteesi, võivad muuta oma käitumist lihtsalt sellepärast, et teavad, et neid jälgitakse, ja aimavad, mida testitakse (nõudlikkuse tunnused), ning leid Lääne ülikooli psühholoogiaüliõpilaste valimist ei pruugi üldistuda inimestele laiemalt, kuna enamik avaldatud psühholoogia uuringuid on ajalooliselt tuginenud WEIRD (Western, Educated, Industrialized, Rich, Democratic) populatsioonidele, mis on globaalses mastaabis demograafiliselt ebatavalised.",
+    "sourceHash": "409ad6a6ef34288a",
+    "stale": false
+  },
+  "prerequisites": []
+}

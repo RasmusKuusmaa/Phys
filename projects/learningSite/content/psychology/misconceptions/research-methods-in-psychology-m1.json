@@ -1,0 +1,10 @@
+{
+  "id": "research-methods-in-psychology-m1",
+  "conceptId": "research-methods-in-psychology",
+  "text": {
+    "en": "Correlational research can establish causation as long as the correlation is strong enough -- in reality, no correlation, however strong, can rule out a third variable causing both measured variables or the causal arrow running the opposite direction; only random assignment in a controlled experiment can rule out those alternative explanations, since it makes the groups being compared equivalent on average in every other respect.",
+    "et": "Korrelatsiooniuuring saab tuvastada põhjuslikkust, kui korrelatsioon on piisavalt tugev -- tegelikult ei suuda ükski korrelatsioon, ükskõik kui tugev, välistada kolmandat muutujat, mis põhjustab mõlemat mõõdetud muutujat, ega põhjusliku noole vastupidist suunda; ainult juhuslik jaotamine kontrollitud eksperimendis suudab need alternatiivsed seletused välistada, kuna see teeb võrreldavad rühmad keskmiselt igas muus aspektis samaväärseks.",
+    "sourceHash": "7c4fc3dce7d4c8dc",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "research-methods-in-psychology-m2",
+  "conceptId": "research-methods-in-psychology",
+  "text": {
+    "en": "Operationalizing a psychological construct is just a technical formality, since any reasonable-sounding measure obviously captures what it's supposed to measure -- in reality, whether an operationalization (a specific test score, a behavior count) actually captures the underlying construct (validity) is a real, separate empirical question from whether the study design itself is sound, and a poor operationalization can invalidate an otherwise well-designed study's conclusions entirely.",
+    "et": "Psühholoogilise konstrukti operatsionaliseerimine on lihtsalt tehniline formaalsus, kuna iga mõistlikult kõlav mõõdik ilmselgelt tabab seda, mida ta peaks mõõtma -- tegelikult on see, kas operatsionaliseerimine (konkreetne testitulemus, käitumiste loendus) tegelikult tabab aluseks olevat konstrukti (valiidsus), tõeline, eraldiseisev empiiriline küsimus sellest, kas uuringu disain ise on usaldusväärne, ning halb operatsionaliseerimine võib muidu hästi disainitud uuringu järeldused täielikult kehtetuks muuta.",
+    "sourceHash": "bcc6808360bbea77",
+    "stale": false
+  }
+}
