@@ -1,0 +1,47 @@
+{
+  "id": "regression-modeling-and-statistical-inference-formula1",
+  "conceptId": "regression-modeling-and-statistical-inference",
+  "latex": "R^2 = 1 - \\frac{SS_{res}}{SS_{tot}}",
+  "symbols": [
+    {
+      "symbol": "R2",
+      "name": {
+        "en": "coefficient of determination",
+        "et": "determinatsioonikordaja",
+        "sourceHash": "58794c838b84449f",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "SS_res",
+      "name": {
+        "en": "residual sum of squares",
+        "et": "jääkruutude summa",
+        "sourceHash": "5609ad1a1c8c3992",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "SS_tot",
+      "name": {
+        "en": "total sum of squares",
+        "et": "kogu ruutude summa",
+        "sourceHash": "9edf02b2a6e09cfc",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "R2",
+    "SS_res",
+    "SS_tot"
+  ],
+  "expressions": {
+    "R2": "1-SS_res/SS_tot",
+    "SS_res": "SS_tot*(1-R2)",
+    "SS_tot": "SS_res/(1-R2)"
+  }
+}

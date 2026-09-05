@@ -1,0 +1,56 @@
+{
+  "id": "regression-modeling-and-statistical-inference-item1",
+  "conceptId": "regression-modeling-and-statistical-inference",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A data scientist adds fifteen more predictor variables to a regression model, and its R-squared on the training data rises from 0.60 to 0.98. Why is this NOT automatically good news?",
+    "et": "Andmeteadlane lisab regressioonimudelile viisteist täiendavat selgitavat muutujat, ning selle R-ruut koolitusandmetel tõuseb 0,60-lt 0,98-le. Miks ei ole see automaatselt hea uudis?",
+    "sourceHash": "0a52320cadeb4dd9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Adding enough predictors can always push training-data R-squared higher, which risks the model overfitting the specific noise in that dataset rather than capturing a pattern that generalizes to new data.",
+        "et": "Piisava arvu selgitavate muutujate lisamine saab alati tõsta koolitusandmete R-ruutu, mis riskib mudeli ülesobitamisega konkreetse andmestiku müra suhtes, selle asemel et tabada mustrit, mis üldistub uutele andmetele.",
+        "sourceHash": "5a062d98d3b43a08",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is good news -- an R-squared this close to 1 always means the model has found the true causal relationship between every predictor and the outcome.",
+        "et": "See on hea uudis -- R-ruut, mis on nii lähedal 1-le, tähendab alati, et mudel on leidnud tõelise põhjusliku seose iga selgitava muutuja ja tulemuse vahel.",
+        "sourceHash": "00c0e4969995f524",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "regression-modeling-and-statistical-inference-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It isn't good news only because 15 predictors is an unusually large, statistically invalid number to include in any regression model.",
+        "et": "See ei ole hea uudis ainult seetõttu, et 15 selgitavat muutujat on ebatavaliselt suur, statistiliselt kehtetu arv, mida regressioonimudelisse kaasata.",
+        "sourceHash": "a97bcbca0f079b8c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "regression-modeling-and-statistical-inference-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It isn't good news because R-squared can only ever decrease when predictors are added, so a rise to 0.98 must indicate a calculation error.",
+        "et": "See ei ole hea uudis, kuna R-ruut saab selgitavate muutujate lisamisel ainult väheneda, mistõttu tõus 0,98-ni peab viitama arvutusveale.",
+        "sourceHash": "77ab492b0ef3eadd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "regression-modeling-and-statistical-inference-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "regression-modeling-and-statistical-inference-m2",
+  "conceptId": "regression-modeling-and-statistical-inference",
+  "text": {
+    "en": "A regression finding that a predictor is associated with an outcome automatically establishes that the predictor causes the outcome -- in reality, an observed statistical association captured by a regression coefficient does not by itself distinguish causation from confounding (some third factor driving both) or reverse causation; establishing causation needs a study design (like randomization) built specifically to rule those alternatives out.",
+    "et": "Regressiooni leid, et selgitav muutuja on tulemusega seotud, tõestab automaatselt, et selgitav muutuja põhjustab tulemuse -- tegelikult ei erista regressioonikordaja poolt tabatud vaadeldav statistiline seos iseenesest põhjuslikkust segavast tegurist (mõni kolmas tegur, mis mõjutab mõlemat) või vastupidisest põhjuslikkusest; põhjuslikkuse tuvastamine vajab spetsiaalselt selleks üles ehitatud uuringudisaini (nagu randomiseerimine), et need alternatiivid välistada.",
+    "sourceHash": "b959dca61cf1ddef",
+    "stale": false
+  }
+}

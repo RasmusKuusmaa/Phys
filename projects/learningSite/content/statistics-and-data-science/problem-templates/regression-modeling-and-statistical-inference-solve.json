@@ -1,0 +1,38 @@
+{
+  "id": "regression-modeling-and-statistical-inference-solve",
+  "formulaId": "regression-modeling-and-statistical-inference-formula1",
+  "variables": [
+    {
+      "symbol": "SS_res",
+      "min": 5,
+      "max": 40,
+      "unit": "1",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "SS_tot",
+      "min": 50,
+      "max": 500,
+      "unit": "1",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "SS_res",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "SS_tot",
+      "right": 0
+    },
+    {
+      "op": "lt",
+      "left": "SS_res",
+      "right": "SS_tot"
+    }
+  ],
+  "solveFor": "R2"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "regression-modeling-and-statistical-inference-m1",
+  "conceptId": "regression-modeling-and-statistical-inference",
+  "text": {
+    "en": "A higher R-squared always means a strictly better, more trustworthy model, regardless of how many predictors were added to achieve it -- in reality, R-squared can always be pushed higher simply by adding more predictors or flexibility, even meaningless ones, which risks overfitting to the specific training data's noise rather than capturing a real, generalizable pattern -- a model's usefulness is judged by performance on new data, not training-data R-squared alone.",
+    "et": "Kõrgem R-ruut tähendab alati rangelt paremat, usaldusväärsemat mudelit, sõltumata sellest, kui palju selgitavaid muutujaid selle saavutamiseks lisati -- tegelikult saab R-ruutu alati tõsta lihtsalt rohkemate selgitavate muutujate või paindlikkuse lisamisega, isegi mõttetute, mis riskib ülesobitamisega konkreetsete koolitusandmete müra suhtes, mitte tegeliku, üldistatava mustri tabamisega -- mudeli kasulikkust hinnatakse toimimise põhjal uutel andmetel, mitte pelgalt koolitusandmete R-ruudu põhjal.",
+    "sourceHash": "f6d5ee1bf3033148",
+    "stale": false
+  }
+}

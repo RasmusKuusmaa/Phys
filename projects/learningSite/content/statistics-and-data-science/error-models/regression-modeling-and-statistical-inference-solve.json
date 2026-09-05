@@ -1,0 +1,37 @@
+{
+  "id": "regression-modeling-and-statistical-inference-solve",
+  "formulaId": "regression-modeling-and-statistical-inference-formula1",
+  "solveFor": "R2",
+  "mistakes": [
+    {
+      "id": "forgot-one-minus",
+      "description": {
+        "en": "Computed the residual-to-total ratio directly without subtracting it from 1.",
+        "et": "Arvutas jääk-kogusuhte otse, ilma seda 1-st lahutamata.",
+        "sourceHash": "8a818ebaa6ea6842",
+        "stale": false
+      },
+      "expression": "SS_res/SS_tot"
+    },
+    {
+      "id": "inverted-ratio",
+      "description": {
+        "en": "Divided total sum of squares by residual sum of squares instead of the other way round.",
+        "et": "Jagas kogu ruutude summa jääkruutude summaga, selle asemel et teha vastupidi.",
+        "sourceHash": "daf14235b59e7c39",
+        "stale": false
+      },
+      "expression": "1-SS_tot/SS_res"
+    },
+    {
+      "id": "used-ssres-alone",
+      "description": {
+        "en": "Used the residual sum of squares alone as if it were already R-squared.",
+        "et": "Kasutas jääkruutude summat üksi, nagu see oleks juba R-ruut.",
+        "sourceHash": "af1c4127bb42b4d8",
+        "stale": false
+      },
+      "expression": "SS_res"
+    }
+  ]
+}

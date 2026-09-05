@@ -1,0 +1,19 @@
+{
+  "id": "regression-modeling-and-statistical-inference",
+  "subject": "statistics-and-data-science",
+  "level": "L2",
+  "module": "statistics-fundamentals",
+  "title": {
+    "en": "Regression modeling and statistical inference",
+    "et": "Regressioonimudelid ja statistiline järeldamine",
+    "sourceHash": "01dc13ece2ae8758",
+    "stale": false
+  },
+  "summary": {
+    "en": "A regression model fits a line (or a more complex surface) through data not just to describe the data already collected, but to make inferences and predictions -- estimating how much a predictor variable is associated with an outcome, and what outcome to expect for a new observation that wasn't part of the original data. The coefficient of determination, R-squared, summarizes how much of the outcome's total variation the model actually accounts for, ranging from 0 (the model explains none of the variation, no better than just guessing the mean every time) to 1 (the model accounts for all of it, though a perfect real-world fit is itself a red flag) -- but R-squared alone is a genuinely dangerous single number to optimize, since a model can always be made to fit the exact data it was trained on more and more closely simply by adding more predictors or more flexibility, chasing the noise in that specific dataset rather than the real underlying pattern; a model doing this, called overfitting, will show an impressively high R-squared on its own training data while performing far worse on new data it hasn't seen, which is why a model's real value is judged by how well it generalizes, not by how tightly it fits the data used to build it.",
+    "et": "Regressioonimudel sobitab andmetesse joone (või keerukama pinna) mitte ainult juba kogutud andmete kirjeldamiseks, vaid järelduste tegemiseks ja ennustamiseks -- hinnates, kui palju on üks selgitav muutuja seotud tulemusega, ning mida oodata tulemuseks uue vaatluse jaoks, mis polnud algsete andmete osa. Determinatsioonikordaja, R-ruut, võtab kokku, kui palju tulemuse kogu varieeruvusest mudel tegelikult selgitab, ulatudes 0-st (mudel ei selgita midagi, ei parem kui lihtsalt keskmise arvamine iga kord) kuni 1-ni (mudel selgitab kõike, kuigi täiuslik sobivus reaalses maailmas on ise ohumärk) -- kuid pelgalt R-ruut on tõeliselt ohtlik üksik arv, mida optimeerida, kuna mudelit saab alati muuta täpsete koolitusandmetega järjest paremini sobituma, lisades lihtsalt rohkem selgitavaid muutujaid või paindlikkust, jälitades konkreetse andmestiku müra, mitte tegelikku aluseks olevat mustrit; sellist mudelit, mida nimetatakse ülesobitamiseks, iseloomustab muljetavaldavalt kõrge R-ruut oma koolitusandmetel, kuid palju kehvem toimimine uutel andmetel, mida ta pole näinud, mistõttu hinnatakse mudeli tegelikku väärtust selle põhjal, kui hästi see üldistub, mitte selle põhjal, kui täpselt see sobitub andmetega, mille peal see üles ehitati.",
+    "sourceHash": "883794d03e6e154a",
+    "stale": false
+  },
+  "prerequisites": []
+}

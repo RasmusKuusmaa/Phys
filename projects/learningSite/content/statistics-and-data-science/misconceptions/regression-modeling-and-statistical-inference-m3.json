@@ -1,0 +1,10 @@
+{
+  "id": "regression-modeling-and-statistical-inference-m3",
+  "conceptId": "regression-modeling-and-statistical-inference",
+  "text": {
+    "en": "R-squared of exactly 0 means the model is definitely wrong/broken, while R-squared of exactly 1 always means the model is trustworthy and should be used -- in reality, R-squared near 0 can be a genuinely correct result if the predictor truly has no linear relationship with the outcome, and R-squared of 1 (a perfect fit) on real-world data is itself a red flag most often pointing to overfitting or a data leakage problem, not a trustworthy model.",
+    "et": "R-ruut täpselt 0 tähendab, et mudel on kindlasti vale/katki, samas kui R-ruut täpselt 1 tähendab alati, et mudel on usaldusväärne ja tuleks kasutusele võtta -- tegelikult võib R-ruut nulli lähedal olla tõeliselt õige tulemus, kui selgitaval muutujal tõesti puudub lineaarne seos tulemusega, ning R-ruut 1 (täiuslik sobivus) reaalsete andmete peal on iseenesest ohumärk, mis viitab enamasti ülesobitamisele või andmete lekkeprobleemile, mitte usaldusväärsele mudelile.",
+    "sourceHash": "f32c41e228f243c7",
+    "stale": false
+  }
+}
