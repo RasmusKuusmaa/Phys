@@ -1,0 +1,21 @@
+{
+  "id": "sleep-and-circadian-disorders-in-a-clinical-context",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "psychiatry-and-behavioral-medicine",
+  "title": {
+    "en": "Sleep and circadian disorders in a clinical context",
+    "et": "Une- ja tsirkadiaanhäired kliinilises kontekstis",
+    "sourceHash": "4650919f2afbfbf8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Primary insomnia -- difficulty falling or staying asleep that persists independent of any other diagnosed condition -- is increasingly understood not simply as 'not enough sleep drive' but as a state of physiological hyperarousal: elevated cortisol, increased metabolic rate, and heightened cortical activity at exactly the times these should be winding down, meaning the person experiencing insomnia is not merely failing to relax but is actively more activated than a good sleeper at the same clock time. This is mechanistically distinct from a circadian rhythm disorder, where the sleep-wake drive itself is normal but shifted relative to the desired schedule -- delayed sleep phase disorder, for instance, involves a genuinely later-than-typical circadian clock (not a behavioral choice to stay up late), so a person with this disorder placed in a completely schedule-free environment would still fall asleep and wake up hours later than a person with a typical circadian phase, just as consistently. Distinguishing hyperarousal-driven insomnia from a genuine circadian phase-shift matters mechanistically because the two point to different underlying dysregulation -- one in the arousal/stress-response system operating on a normal clock, the other in the clock itself -- even though both can produce the same complaint of 'not sleeping at the right time.'",
+    "et": "Primaarset unetust -- uinumis- või unepüsimisraskust, mis püsib sõltumatult mistahes muust diagnoositud seisundist -- mõistetakse üha enam mitte lihtsalt kui \"ebapiisavat unesurvet\", vaid kui füsioloogilise ülierutuse seisundit: tõusnud kortisool, suurenenud ainevahetuse kiirus ja tõusnud kortikaalne aktiivsus täpselt neil aegadel, mil need peaksid vaibuma, mis tähendab, et unetust kogev inimene ei eba lihtsalt lõõgastuda, vaid on samal kellaajal tegelikult aktiivsem kui hea unega inimene. See erineb mehhanistlikult tsirkadiaanrütmi häirest, kus unesurve ise on normaalne, kuid soovitud graafiku suhtes nihkunud -- näiteks hilinenud unefaasi häire hõlmab tõeliselt tavapärasest hilisemat tsirkadiaanset kella (mitte käitumuslikku valikut hiljem üleval olla), nii et selle häirega inimene, kes on paigutatud täiesti graafikuvabasse keskkonda, jääks endiselt magama ja ärkaks tunde hiljem kui tavapärase tsirkadiaanse faasiga inimene, ja seda sama järjekindlalt. Ülierutusest tingitud unetuse eristamine tõelisest tsirkadiaanfaasi nihkest on mehhanistlikult oluline, sest need kaks viitavad erinevale alusdüsregulatsioonile -- üks erutus-/stressivastussüsteemis, mis töötab normaalse kella peal, teine kellas endas --, isegi kui mõlemad võivad tekitada sama kaebuse \"ei maga õigel ajal\".",
+    "sourceHash": "89d5a26986134bf1",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-central-nervous-system-brain-structure-and-function"
+  ]
+}

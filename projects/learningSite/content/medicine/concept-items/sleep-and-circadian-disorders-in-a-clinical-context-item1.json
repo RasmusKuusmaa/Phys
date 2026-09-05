@@ -1,0 +1,56 @@
+{
+  "id": "sleep-and-circadian-disorders-in-a-clinical-context-item1",
+  "conceptId": "sleep-and-circadian-disorders-in-a-clinical-context",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A person with delayed sleep phase disorder is placed in a completely schedule-free environment (no clocks, no external time cues) for several weeks. What would this experiment most likely reveal, and why?",
+    "et": "Hilinenud unefaasi häirega inimene paigutatakse mitmeks nädalaks täiesti graafikuvabasse keskkonda (ilma kellade ja väliste ajavihjeteta). Mida see katse kõige tõenäolisemalt näitaks ja miks?",
+    "sourceHash": "aa4f0b0d69e8ad91",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "They would still consistently fall asleep and wake up hours later than someone with a typical circadian phase, because the disorder reflects a genuinely shifted internal circadian clock, not a behavioral choice to stay up late.",
+        "et": "Nad jääksid endiselt järjekindlalt magama ja ärkaksid tunde hiljem kui tavapärase tsirkadiaanse faasiga inimene, kuna häire peegeldab tõeliselt nihkunud sisemist tsirkadiaanset kella, mitte käitumuslikku valikut hiljem üleval olla.",
+        "sourceHash": "fb3a8abf667c747d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They would quickly adopt an earlier, more typical sleep schedule once external pressure to stay up late (work, socializing) is removed, showing the late schedule was really just a behavioral habit.",
+        "et": "Nad võtaksid kiiresti omaks varasema, tavapärasema unegraafiku, kui väline surve hiljem üleval olla (töö, suhtlemine) eemaldatakse, näidates, et hiline graafik oli tegelikult lihtsalt käitumuslik harjumus.",
+        "sourceHash": "42bac696bf4ebf29",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sleep-and-circadian-disorders-in-a-clinical-context-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Their sleep timing would become essentially random and unpredictable, since insomnia-like insufficient sleep drive -- not a clock mechanism -- is what actually explains their symptoms.",
+        "et": "Nende une ajastus muutuks sisuliselt juhuslikuks ja ennustamatuks, kuna unetusesarnane ebapiisav unesurve -- mitte kella mehhanism -- seletab tegelikult nende sümptomeid.",
+        "sourceHash": "bfcd3ef94037cb94",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sleep-and-circadian-disorders-in-a-clinical-context-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The result would be identical to what a person with primary insomnia would show, since both conditions reflect the exact same underlying dysregulation.",
+        "et": "Tulemus oleks identne sellega, mida näitaks primaarse unetusega inimene, kuna mõlemad seisundid peegeldavad täpselt sama aluseks olevat düsregulatsiooni.",
+        "sourceHash": "e684526a687c0161",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "sleep-and-circadian-disorders-in-a-clinical-context-m3"
+    }
+  ]
+}
