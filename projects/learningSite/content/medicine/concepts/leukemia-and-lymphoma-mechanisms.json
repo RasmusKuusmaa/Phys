@@ -1,0 +1,22 @@
+{
+  "id": "leukemia-and-lymphoma-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "hematology-and-oncology",
+  "title": {
+    "en": "Leukemia and lymphoma mechanisms",
+    "et": "Leukeemia ja lümfoomi mehhanismid",
+    "sourceHash": "d3995fdd600f0478",
+    "stale": false
+  },
+  "summary": {
+    "en": "Leukemia and lymphoma are both cancers of blood-forming and immune cells, and both arise the same way any cancer does -- a single cell acquires mutations that let it escape normal cell-cycle control and proliferate as a clone -- but they are mechanistically distinguished by where that clonal population predominantly lives and grows. Leukemia originates in the bone marrow itself and typically fills the marrow and spills abnormal cells into the peripheral blood, crowding out normal blood cell production (leading to anemia, infection susceptibility, and bleeding as normal red cells, white cells, and platelets are squeezed out); lymphoma instead originates in and predominantly grows within lymphoid tissue -- lymph nodes, spleen, and other organized lymphoid structures -- forming solid tumor masses rather than circulating primarily as free cells in the blood. This distinction is not absolute (some lymphomas eventually spill into the blood, and some leukemias involve lymph node enlargement), but it reflects a genuine difference in which cell lineage transformed and where that lineage normally resides and matures.",
+    "et": "Leukeemia ja lümfoom on mõlemad vereloome- ja immuunrakkude vähid ning mõlemad tekivad samal viisil nagu iga teine vähk -- üksainus rakk omandab mutatsioonid, mis lasevad tal pääseda normaalsest rakutsükli kontrollist ja paljuneda kloonina --, kuid neid eristab mehhanistiliselt see, kus see klonaalne populatsioon peamiselt elab ja kasvab. Leukeemia saab alguse luuüdis endas ning täidab tavaliselt luuüdi ja lekitab ebanormaalseid rakke perifeersesse verre, tõrjudes välja normaalset vererakkude tootmist (põhjustades aneemiat, infektsiooniohtlikkust ja verejooksu, kuna normaalsed punased verelibled, valged verelibled ja trombotsüüdid surutakse välja); lümfoom seevastu saab alguse ja kasvab peamiselt lümfoidkoes -- lümfisõlmedes, põrnas ja teistes organiseeritud lümfoidstruktuurides --, moodustades tahkeid kasvajamasse, mitte tsirkuleerides peamiselt vaba rakuna veres. See eristus ei ole absoluutne (mõned lümfoomid lõpuks lekivad verre ja mõned leukeemiad hõlmavad lümfisõlmede suurenemist), kuid see peegeldab tõelist erinevust selles, milline rakuliin transformeerus ja kus see rakuliin normaalselt asub ja küpseb.",
+    "sourceHash": "6ce0d4e8e2ec52a3",
+    "stale": false
+  },
+  "prerequisites": [
+    "neoplasia-and-cancer-biology",
+    "the-cell-cycle-and-mitosis"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "leukemia-and-lymphoma-mechanisms-item1",
+  "conceptId": "leukemia-and-lymphoma-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can a hematologist meaningfully distinguish leukemia from lymphoma as cancers of related cell lineages, even though a specific case of either can sometimes involve both bone marrow and lymph nodes?",
+    "et": "Miks saab hematoloog sisuliselt eristada leukeemiat lümfoomist kui seotud rakuliinide vähke, kuigi konkreetne juhtum kummastki võib mõnikord hõlmata nii luuüdi kui lümfisõlmi?",
+    "sourceHash": "b0a8e835a2664d6d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the two are defined by where the clonal population predominantly originates and grows (marrow/blood vs. lymphoid tissue), a real mechanistic distinction, even though advanced or atypical cases can blur that boundary.",
+        "et": "Sest need kaks on defineeritud selle kaudu, kus klonaalne populatsioon peamiselt tekib ja kasvab (luuüdi/veri versus lümfoidkude), tõeline mehhanistiline eristus, kuigi kaugelearenenud või ebatüüpilised juhtumid võivad seda piiri hägustada.",
+        "sourceHash": "5f054c7f4451d11f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The distinction is arbitrary since leukemia and lymphoma are identical diseases that only differ by which doctor happens to diagnose them.",
+        "et": "Eristus on meelevaldne, kuna leukeemia ja lümfoom on identsed haigused, mis erinevad ainult selle poolest, milline arst juhtub neid diagnoosima.",
+        "sourceHash": "b496bae9164178fe",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "leukemia-and-lymphoma-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because leukemia by definition never involves lymph nodes and lymphoma by definition never appears in blood, so any overlap means a misdiagnosis.",
+        "et": "Sest leukeemia ei hõlma definitsiooni järgi kunagi lümfisõlmi ja lümfoom ei ilmu definitsiooni järgi kunagi veres, mistõttu igasugune kattumine tähendab valediagnoosi.",
+        "sourceHash": "e2c580f2cf701655",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "leukemia-and-lymphoma-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because leukemia is simply a matter of the marrow containing too many total cells, unrelated to which specific cell lineage is proliferating.",
+        "et": "Sest leukeemia on lihtsalt küsimus sellest, et luuüdis on liiga palju rakke kokku, sõltumata sellest, milline konkreetne rakuliin paljuneb.",
+        "sourceHash": "f8324bdc9bfa4f9d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "leukemia-and-lymphoma-mechanisms-m3"
+    }
+  ]
+}
