@@ -1,0 +1,56 @@
+{
+  "id": "endocarditis-and-intravascular-infection-mechanisms-item1",
+  "conceptId": "endocarditis-and-intravascular-infection-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is infective endocarditis notably harder to clear with the immune system and antibiotics than an infection of similar size in ordinary, well-vascularized soft tissue?",
+    "et": "Miks on infektsioosset endokardiiti märkimisväärselt raskem immuunsüsteemi ja antibiootikumidega kõrvaldada kui sarnase suurusega infektsiooni tavalises, hästi verevarustatud pehmes koes?",
+    "sourceHash": "5a1a292bda4bb848",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Heart valve tissue is largely avascular, so immune cells, antibodies, and antibiotics -- which reach infected tissue mainly through the blood vessels supplying it -- have much poorer access to bacteria embedded in a valve vegetation than to bacteria in well-perfused soft tissue.",
+        "et": "Südameklapi kude on suuresti avaskulaarne, mistõttu immuunrakkudel, antikehadel ja antibiootikumidel -- mis jõuavad nakatunud koeni peamiselt seda varustavate veresoonte kaudu -- on palju halvem juurdepääs klapi vegetatsiooni kinnitunud bakteritele kui bakteritele hästi verevarustatud pehmes koes.",
+        "sourceHash": "1ea2e42141b404d0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't actually harder to clear -- the immune system reaches heart valve tissue just as effectively as any other tissue, since the heart is constantly bathed in blood.",
+        "et": "See ei ole tegelikult raskem kõrvaldada -- immuunsüsteem jõuab südameklapi koeni sama tõhusalt kui ükskõik millisesse teise koesse, kuna süda on pidevalt verega läbi uhutud.",
+        "sourceHash": "0ca58d940b9d6386",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "endocarditis-and-intravascular-infection-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Any bacteria reaching the bloodstream readily infects the heart valve regardless of the valve's prior condition, so the difficulty is simply due to how much blood constantly passes through the heart.",
+        "et": "Ükskõik millised vereringesse jõudvad bakterid nakatavad hõlpsasti südameklappi, sõltumata klapi eelnevast seisundist, mistõttu raskus tuleneb lihtsalt sellest, kui palju verd südamest pidevalt läbi voolab.",
+        "sourceHash": "c91e216485ad6e22",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "endocarditis-and-intravascular-infection-mechanisms-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It isn't harder to clear in a meaningful sense -- the infection stays localized to the valve itself, so treatment only ever needs to address that one site.",
+        "et": "See ei ole sisuliselt raskem kõrvaldada -- infektsioon jääb lokaliseerituks klapile endale, mistõttu ravi peab käsitlema ainult seda üht kohta.",
+        "sourceHash": "d1029d1036cd021b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "endocarditis-and-intravascular-infection-mechanisms-m2"
+    }
+  ]
+}

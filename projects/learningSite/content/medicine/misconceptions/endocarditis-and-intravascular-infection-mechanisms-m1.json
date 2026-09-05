@@ -1,0 +1,10 @@
+{
+  "id": "endocarditis-and-intravascular-infection-mechanisms-m1",
+  "conceptId": "endocarditis-and-intravascular-infection-mechanisms",
+  "text": {
+    "en": "Once bacteria reach a heart valve, the immune system should clear them about as effectively as it clears bacteria anywhere else in well-perfused tissue -- in reality heart valve tissue is largely avascular, so circulating immune cells and antibodies, which reach tissue mainly via the blood vessels supplying it, have much poorer access to bacteria embedded there than to bacteria in ordinary, well-vascularized soft tissue, which is exactly why endocarditis is so much harder to clear than a typical soft-tissue infection.",
+    "et": "Kui bakterid on kord südameklappi jõudnud, peaks immuunsüsteem need umbes sama tõhusalt kõrvaldama nagu baktereid ükskõik kus mujal hästi verevarustatud koes -- tegelikult on südameklapi kude suuresti avaskulaarne, mistõttu ringlevatel immuunrakkudel ja antikehadel, mis jõuavad koeni peamiselt seda varustavate veresoonte kaudu, on palju halvem juurdepääs sinna kinnitunud bakteritele kui bakteritele tavalises, hästi verevarustatud pehmes koes, mis ongi täpselt põhjus, miks endokardiiti on nii palju raskem kõrvaldada kui tüüpilist pehme koe infektsiooni.",
+    "sourceHash": "249ba5fbdd865efb",
+    "stale": false
+  }
+}

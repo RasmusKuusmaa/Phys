@@ -1,0 +1,10 @@
+{
+  "id": "endocarditis-and-intravascular-infection-mechanisms-m3",
+  "conceptId": "endocarditis-and-intravascular-infection-mechanisms",
+  "text": {
+    "en": "Any bacteria reaching the bloodstream will readily infect a heart valve, since the heart is constantly exposed to all the blood in the body -- in reality successful colonization typically requires a valve surface already primed for bacterial adhesion (usually from pre-existing valve damage or abnormal turbulent flow that has deposited a platelet-fibrin surface), not just bacteria being present in the blood; transient bacteremia from routine activities is common and does not usually result in endocarditis on a healthy, undamaged valve.",
+    "et": "Ükskõik millised vereringesse jõudvad bakterid nakatavad hõlpsasti südameklappi, kuna süda puutub pidevalt kokku kogu kehas oleva verega -- tegelikult nõuab edukas koloniseerimine tavaliselt klapipinda, mis on juba valmis bakterite kinnitumiseks (tavaliselt olemasoleva klapikahjustuse või ebanormaalse turbulentse voolu tõttu, mis on jätnud trombotsüüt-fibriini pinna), mitte lihtsalt bakterite olemasolu veres; mööduv bakteremia igapäevastest tegevustest on tavaline ega too tavaliselt kaasa endokardiiti tervel, kahjustamata klapil.",
+    "sourceHash": "661fd3612b4a97bc",
+    "stale": false
+  }
+}

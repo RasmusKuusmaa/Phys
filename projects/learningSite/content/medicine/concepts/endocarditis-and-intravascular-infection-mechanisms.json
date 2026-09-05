@@ -1,0 +1,21 @@
+{
+  "id": "endocarditis-and-intravascular-infection-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "infectious-disease",
+  "title": {
+    "en": "Endocarditis and intravascular infection mechanisms",
+    "et": "Endokardiit ja intravaskulaarsete infektsioonide mehhanismid",
+    "sourceHash": "8cbcca00e13c516f",
+    "stale": false
+  },
+  "summary": {
+    "en": "Infective endocarditis is a bacterial or fungal infection of the endocardium, most often specifically the heart valves, and the site itself creates a mechanistically unusual situation compared to infection of ordinary soft tissue. Heart valve tissue is largely avascular -- it has little to no direct blood supply of its own -- so once bacteria establish themselves there, circulating immune cells and antibodies, which reach infected tissue primarily by traveling through blood vessels supplying that tissue, have a much harder time reaching the infection site directly; the bacteria instead become enmeshed with platelets and fibrin in a structure called a vegetation, which further shields them from immune clearance and from antibiotics that rely on blood flow to reach their target. This same low-flow, immune-privileged environment that protects the bacteria also creates a mechanical problem: pieces of the vegetation can break off and travel through the bloodstream as septic emboli, seeding infection at distant sites (brain, spleen, kidneys) far from the original heart valve, which is why endocarditis can present with symptoms and complications scattered across seemingly unrelated organs. The initial colonization typically requires two things to coincide: bacteria reaching the bloodstream (bacteremia, from a dental procedure, injection drug use, or another infection site) and a valve surface already primed for bacterial adhesion, usually because of pre-existing valve damage or an abnormal turbulent flow pattern that has already deposited a platelet-fibrin surface for circulating bacteria to attach to.",
+    "et": "Infektsioosne endokardiit on endokardi, kõige sagedamini spetsiifiliselt südameklappide, bakteriaalne või seeninfektsioon, ning see koht ise loob mehhanistlikult ebatavalise olukorra võrreldes tavalise pehme koe infektsiooniga. Südameklapi kude on suuresti avaskulaarne -- sellel on vähe või puudub üldse otsene omaenda verevarustus --, mistõttu kui bakterid sinna kord kinnituvad, on ringlevatel immuunrakkudel ja antikehadel, mis jõuavad nakatunud koeni peamiselt seda kude varustavate veresoonte kaudu liikudes, palju raskem otse infektsioonikohta jõuda; bakterid muutuvad selle asemel põimunuks trombotsüütide ja fibriiniga struktuuris nimega vegetatsioon, mis kaitseb neid veelgi immuunsüsteemi kõrvaldamise ja verevoolule tuginevate antibiootikumide eest. See sama madala verevooluga, immuunprivilegeeritud keskkond, mis kaitseb baktereid, loob ühtlasi mehaanilise probleemi: vegetatsiooni tükid võivad murduda ja liikuda vereringega läbi septiliste embooliatena, külvates infektsiooni kaugetes kohtades (aju, põrn, neerud) esialgsest südameklapist kaugel, mis ongi põhjus, miks endokardiit võib avalduda sümptomite ja tüsistustega, mis on hajutatud üle näiliselt mitteseotud elundite. Esialgne koloniseerimine nõuab tavaliselt kahe asjaolu kokkulangemist: bakterite jõudmist vereringesse (bakteremia, hambaraviprotseduurist, süstitavate uimastite kasutamisest või mõnest muust infektsioonikohast) ja klapipinda, mis on juba valmis bakterite kinnitumiseks, tavaliselt olemasoleva klapikahjustuse või ebanormaalse turbulentse voolumustri tõttu, mis on juba jätnud trombotsüüt-fibriini pinna, kuhu ringlevad bakterid saavad kinnituda.",
+    "sourceHash": "91b002350ecf72c5",
+    "stale": false
+  },
+  "prerequisites": [
+    "cardiovascular-system-anatomy-and-physiology"
+  ]
+}
