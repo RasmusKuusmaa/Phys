@@ -1,0 +1,10 @@
+{
+  "id": "skin-infection-mechanisms-m2",
+  "conceptId": "skin-infection-mechanisms",
+  "text": {
+    "en": "I think fungal skin infections work the same way bacterial ones do, by invading living tissue and causing a systemic-style infection -- in reality, dermatophyte fungi specifically exploit keratin in the skin's outer dead-cell layer as a food source and generally don't need to invade living tissue to establish an infection, a fundamentally different mechanism from bacteria that break down and invade living tissue directly.",
+    "et": "Arvan, et seeninfektsioonid nahal toimivad samamoodi nagu bakteriaalsed, tungides elusasse koesse ja põhjustades süsteemset laadi infektsiooni -- tegelikult kasutavad dermatofüüdid spetsiifiliselt keratiini naha välises surnud rakukihis toiduallikana ning ei vaja üldiselt elusasse koesse tungimist, et infektsiooni luua, mis on põhimõtteliselt erinev mehhanism bakteritest, mis lagundavad ja tungivad otse elusasse koesse.",
+    "sourceHash": "67cf9d5de1f9ad3f",
+    "stale": false
+  }
+}

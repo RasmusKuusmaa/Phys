@@ -1,0 +1,10 @@
+{
+  "id": "skin-infection-mechanisms-m3",
+  "conceptId": "skin-infection-mechanisms",
+  "text": {
+    "en": "I think viral skin lesions like warts or cold sores are caused by the virus 'sitting on top of' the skin rather than actually infecting living cells -- in reality, viruses causing skin lesions actually hijack the internal replication machinery of living keratinocytes to make copies of themselves, which is why these infections can persist and recur rather than simply washing off the surface.",
+    "et": "Arvan, et viiruslikud nahakahjustused nagu tüükad või huuleherpes on põhjustatud sellest, et viirus 'istub naha peal', mitte ei nakata tegelikult elusaid rakke -- tegelikult kaaperdavad nahakahjustusi põhjustavad viirused elusate keratinotsüütide sisemise paljundusmasinavärgi enda koopiate tegemiseks, mistõttu need infektsioonid võivad püsida ja korduda, mitte lihtsalt pinnalt maha pesta.",
+    "sourceHash": "b7da32410ae1a5ad",
+    "stale": false
+  }
+}

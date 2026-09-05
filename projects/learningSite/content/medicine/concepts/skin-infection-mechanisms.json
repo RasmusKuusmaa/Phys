@@ -1,0 +1,22 @@
+{
+  "id": "skin-infection-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "dermatology",
+  "title": {
+    "en": "Skin infection mechanisms",
+    "et": "Nahainfektsioonide mehhanismid",
+    "sourceHash": "b156db17cf2da931",
+    "stale": false
+  },
+  "summary": {
+    "en": "The skin's intact barrier is its main defense against infection, so skin infections generally begin where that barrier is already broken -- a cut, an insect bite, a pre-existing rash -- and the organism responsible determines both the depth and character of the resulting infection: bacterial skin infections (like impetigo or cellulitis) typically spread through superficial or deeper tissue via bacterial toxins and enzymes that break down tissue barriers, fungal skin infections (like dermatophyte ringworm) exploit keratin as a food source and thrive specifically in the outer, non-living keratin layer without needing to breach it, and viral skin infections (like herpes simplex or warts) hijack living keratinocytes' own machinery to replicate, producing lesions with a fundamentally different underlying cause despite sometimes superficially similar appearances.",
+    "et": "Naha terve barjäär on selle peamine kaitse infektsiooni eest, mistõttu nahainfektsioonid algavad üldiselt seal, kus see barjäär on juba katki -- lõikehaav, putukahammustus, olemasolev lööve -- ning vastutav organism määrab nii tekkiva infektsiooni sügavuse kui iseloomu: bakteriaalsed nahainfektsioonid (nagu impetiigo või tselluliit) levivad tüüpiliselt pindmisesse või sügavamasse koesse bakteriaalsete toksiinide ja ensüümide kaudu, mis lagundavad koebarjääre, seeninfektsioonid nahal (nagu dermatofüütidest põhjustatud rõngasuss) kasutavad keratiini toiduallikana ja õitsevad spetsiifiliselt välises, mitteelusas keratiinikihis ilma seda läbimurdmata, ning viiruslikud nahainfektsioonid (nagu herpes simplex või tüükad) kaaperdavad elusate keratinotsüütide enda masinavärgi paljunemiseks, tekitades kahjustusi põhimõtteliselt erineva alusprobleemiga, hoolimata mõnikord pealiskaudselt sarnasest välimusest.",
+    "sourceHash": "fb81717e812dc74e",
+    "stale": false
+  },
+  "prerequisites": [
+    "integumentary-system-anatomy-and-physiology",
+    "fungal-and-parasitic-pathogens"
+  ]
+}

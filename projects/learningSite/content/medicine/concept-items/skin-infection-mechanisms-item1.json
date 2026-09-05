@@ -1,0 +1,56 @@
+{
+  "id": "skin-infection-mechanisms-item1",
+  "conceptId": "skin-infection-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can a dermatophyte fungal skin infection (like ringworm) establish itself without needing to invade living skin cells, unlike a bacterial skin infection?",
+    "et": "Miks saab dermatofüütidest põhjustatud seeninfektsioon nahal (nagu rõngasuss) end kehtestada ilma elusatesse naharakkudesse tungimata, erinevalt bakteriaalsest nahainfektsioonist?",
+    "sourceHash": "d2d22503705e8a7e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because dermatophyte fungi feed on keratin in the skin's outer, already-dead cell layer, so they can thrive without breaching into living tissue, unlike bacteria that break down and invade living tissue directly.",
+        "et": "Sest dermatofüüdid toituvad keratiinist naha välises, juba surnud rakukihis, mistõttu nad saavad õitseda ilma elusasse koesse tungimata, erinevalt bakteritest, mis lagundavad ja tungivad otse elusasse koesse.",
+        "sourceHash": "2b54b4e122fcf58e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Fungal infections actually do invade living tissue the same way bacterial infections do; there's no real mechanistic difference between the two.",
+        "et": "Seeninfektsioonid tungivad tegelikult elusasse koesse samamoodi nagu bakteriaalsed infektsioonid; nende kahe vahel ei ole tegelikku mehhanistlikku erinevust.",
+        "sourceHash": "db0af2854c39ee29",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skin-infection-mechanisms-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because fungal infections are never contagious, unlike bacterial infections, which are always spread by direct contact between people.",
+        "et": "Sest seeninfektsioonid ei ole kunagi nakkavad, erinevalt bakteriaalsetest infektsioonidest, mis levivad alati otsese kontakti kaudu inimeste vahel.",
+        "sourceHash": "b8e183497f98e101",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skin-infection-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the fungus simply sits on top of the skin's surface without infecting any cells at all, similar to dust settling on a surface.",
+        "et": "Sest seen lihtsalt istub naha pinnal ilma ühtki rakku nakatamata, sarnaselt tolmuga, mis pinnale settib.",
+        "sourceHash": "ae91266ad91e0f8d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skin-infection-mechanisms-m3"
+    }
+  ]
+}

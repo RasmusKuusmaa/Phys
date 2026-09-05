@@ -1,0 +1,10 @@
+{
+  "id": "skin-infection-mechanisms-m1",
+  "conceptId": "skin-infection-mechanisms",
+  "text": {
+    "en": "I think all skin infections are contagious in the same way, since they're all caused by microorganisms -- in reality, contagiousness depends on the specific organism and transmission route: a cellulitis caused by a person's own skin flora entering through a cut is generally not contagious the way a dermatophyte fungal infection spread by direct skin contact or a herpes virus spread by direct contact are.",
+    "et": "Arvan, et kõik nahainfektsioonid on ühtviisi nakkavad, kuna neid kõiki põhjustavad mikroorganismid -- tegelikult sõltub nakkavus konkreetsest organismist ja levikuteest: tselluliit, mille põhjustab inimese enda nahafloora sisenemine läbi lõikehaava, ei ole üldiselt nakkav samal viisil, nagu on otsese nahakontakti kaudu leviv dermatofüütide seeninfektsioon või otsese kontakti kaudu leviv herpesviirus.",
+    "sourceHash": "c49ebcefa525131c",
+    "stale": false
+  }
+}
