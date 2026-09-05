@@ -1,0 +1,56 @@
+{
+  "id": "structural-systems-in-bridge-engineering-item1",
+  "conceptId": "structural-systems-in-bridge-engineering",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Historically, arch bridges made of stone (strong in compression, weak in tension) were built successfully long before any material with strong tensile capacity was available, while beam bridges of comparable span were not practical in stone. What explains this difference?",
+    "et": "Ajalooliselt ehitati kivist kaarsildu (tugevad surves, nõrgad tõmbes) edukalt kaua enne, kui ükski tugeva tõmbetugevusega materjal kättesaadavaks sai, samas kui võrreldava ulatusega talasillad ei olnud kivist praktilised. Mis seletab seda erinevust?",
+    "sourceHash": "0b6e4a1ebdc9dcf0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "An arch converts the applied load into pure compression carried along its curve into its supports, which stone can handle well, while a beam bridge resists load through bending, which requires the material to also resist tension -- something stone is nearly worthless at.",
+        "et": "Kaar muudab rakendatud koormuse puhtaks surveks, mida kantakse mööda selle kõverust selle tugedeni, millega kivi hästi toime tuleb, samas kui talasild seisab koormusele vastu paindega, mis nõuab materjalilt ka tõmbele vastupanu -- millega kivi on peaaegu väärtusetu.",
+        "sourceHash": "177f6b6ff0781090",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Arch and beam bridges resist load through the same bending mechanism, so the difference must be due to the arch's curved shape simply distributing weight more evenly by geometry alone.",
+        "et": "Kaar- ja talasillad seisavad koormusele vastu sama paindemehhanismi kaudu, mistõttu erinevus peab tulenema kaare kõverast kujust, mis lihtsalt jaotab kaalu ühtlasemalt puhtalt geomeetria kaudu.",
+        "sourceHash": "5b7b568aeeecf3fc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structural-systems-in-bridge-engineering-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Arches and trusses both rely on cables in tension transferring load to towers, so stone arches must have used some form of tensile cabling not obvious from their appearance.",
+        "et": "Kaared ja sõrestikud toetuvad mõlemad tõmbes olevatele trossidele, mis kannavad koormuse tornidesse, mistõttu pidid kivikaared kasutama mingit tõmbetrossi vormi, mis pole nende välimusest ilmne.",
+        "sourceHash": "00a6fc49555e27a0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structural-systems-in-bridge-engineering-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Stone must simply be a fundamentally stronger material than it's usually given credit for, capable of handling tension and compression equally well.",
+        "et": "Kivi peab olema lihtsalt põhimõtteliselt tugevam materjal, kui tavaliselt arvatakse, olles võrdselt hea nii tõmbes kui ka surves.",
+        "sourceHash": "8529cafdbd2c5ae8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structural-systems-in-bridge-engineering-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "structural-systems-in-bridge-engineering-m3",
+  "conceptId": "structural-systems-in-bridge-engineering",
+  "text": {
+    "en": "The main reason suspension bridges can span such enormous distances is that they're simply built from stronger/more modern materials than other bridge types -- in reality, the real reason is the load-carrying mechanism itself -- steel cable's tensile strength so far exceeds what any practical material achieves in compression at comparable weight that hanging the roadway in tension allows spans no compression-based or bending-based structure built from the same modern materials could match.",
+    "et": "Peamine põhjus, miks rippsillad suudavad ületada nii tohutuid vahemaid, on see, et need on lihtsalt ehitatud tugevamatest/kaasaegsematest materjalidest kui teised sillatüübid -- tegelikult on tõeline põhjus koormuse kandmise mehhanism ise -- terastrossi tõmbetugevus ületab kaugelt selle, mida ükski praktiline materjal saavutab surves võrreldava kaalu juures, nii et sõidutee tõmbes rippuma panemine lubab ulatusi, millega ei suuda võrdsuda ükski surve- või paindepõhine konstruktsioon, mis on ehitatud samadest kaasaegsetest materjalidest.",
+    "sourceHash": "46d94728489dafa2",
+    "stale": false
+  }
+}

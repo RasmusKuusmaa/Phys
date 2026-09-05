@@ -1,0 +1,10 @@
+{
+  "id": "structural-systems-in-bridge-engineering-m1",
+  "conceptId": "structural-systems-in-bridge-engineering",
+  "text": {
+    "en": "A suspension bridge and a truss bridge carry load to their supports through fundamentally the same structural mechanism, just built with different materials/aesthetics -- in reality, a truss bridge carries load through an assembly of members each in pure tension or pure compression, while a suspension bridge carries load through cables in pure tension transferring force up into towers and down into anchorages -- genuinely different load paths.",
+    "et": "Rippsild ja sõrestiksild kannavad koormust oma tugedeni fundamentaalselt sama konstruktsioonimehhanismi kaudu, lihtsalt erinevate materjalide/esteetikaga ehitatuna -- tegelikult kannab sõrestiksild koormust elementide kogumi kaudu, millest igaüks on puhtas tõmbes või puhtas surves, samas kui rippsild kannab koormust puhtas tõmbes olevate trosside kaudu, mis kannavad jõu üles tornidesse ja alla ankurdustesse -- tõeliselt erinevad koormusteed.",
+    "sourceHash": "f0785aa790b5a62e",
+    "stale": false
+  }
+}

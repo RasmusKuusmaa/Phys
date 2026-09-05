@@ -1,0 +1,19 @@
+{
+  "id": "structural-systems-in-bridge-engineering",
+  "subject": "civil-engineering",
+  "level": "L2",
+  "module": "civil-engineering-fundamentals",
+  "title": {
+    "en": "Structural systems in bridge engineering",
+    "et": "Sillaehituse konstruktsioonisüsteemid",
+    "sourceHash": "0e1dd31e445fbd15",
+    "stale": false
+  },
+  "summary": {
+    "en": "A bridge's fundamental engineering problem -- carrying load across a gap to its supports -- can be solved through genuinely different structural mechanisms, and a bridge's type is really a statement about which mechanism it relies on. A truss bridge decomposes the load-carrying problem into an assembly of straight members arranged in triangles, each member loaded purely in tension or pure compression, which lets relatively slender, lightweight members span a considerable distance efficiently. A beam bridge instead relies on a single continuous member spanning between supports and resisting the load through bending -- developing tension on one face and compression on the other -- which limits how far a beam bridge can span economically before the beam itself becomes impractically deep or heavy. An arch bridge converts the load into pure compression carried along the arch's curve down into its supports, which is why arches have historically been built from materials strong in compression but weak in tension long before steel or reinforced concrete were available. A suspension bridge inverts the arch's geometry entirely: the roadway hangs from cables in tension, which transfer that tension up to towers and then down into massive anchorages, letting a suspension bridge span distances no other bridge type can approach, precisely because steel cable's tensile strength so far exceeds what any material achieves in compression at comparable weight.",
+    "et": "Silla fundamentaalne insenertehniline probleem -- koormuse kandmine üle tühimiku selle tugedeni -- võib olla lahendatud tõeliselt erinevate konstruktsioonimehhanismide kaudu, ning silla tüüp on tegelikult väide selle kohta, millisele mehhanismile see toetub. Sõrestiksild jagab koormuse kandmise probleemi sirgete elementide kogumiks, mis on paigutatud kolmnurkadeks, kusjuures iga element on koormatud puhtalt tõmbes või puhtalt surves, mis lubab suhteliselt sihvakatel, kergetel elementidel tõhusalt märkimisväärset vahemaad ületada. Talasild toetub selle asemel ühele pidevale elemendile, mis ulatub tugede vahel ja seisab koormusele vastu paindega -- arendades tõmmet ühel pinnal ja survet teisel --, mis piirab, kui kaugele talasild saab majanduslikult ulatuda, enne kui tala ise muutub ebapraktiliselt kõrgeks või raskeks. Kaarsild muudab koormuse puhtaks surveks, mida kantakse mööda kaare kõverust alla selle tugedeni, mistõttu on kaari ajalooliselt ehitatud materjalidest, mis on tugevad surves, kuid nõrgad tõmbes, kaua enne, kui teras või raudbetoon kättesaadavaks said. Rippsild pöörab kaare geomeetria täielikult ümber: sõidutee ripub tõmbes olevatel trossidel, mis kannavad selle tõmbe üles tornidesse ja seejärel alla massiivsetesse ankurdustesse, lubades rippsillal ületada vahemaid, millele ükski teine sillatüüp ligilähedalegi ei jõua, just seetõttu, et terastrossi tõmbetugevus ületab kaugelt selle, mida ükski materjal saavutab surves võrreldava kaalu juures.",
+    "sourceHash": "06cf5d3f9b15985d",
+    "stale": false
+  },
+  "prerequisites": []
+}

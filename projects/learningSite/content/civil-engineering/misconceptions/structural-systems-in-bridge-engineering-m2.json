@@ -1,0 +1,10 @@
+{
+  "id": "structural-systems-in-bridge-engineering-m2",
+  "conceptId": "structural-systems-in-bridge-engineering",
+  "text": {
+    "en": "An arch bridge and a beam bridge resist load the same way, just with a curved shape instead of a straight one -- in reality, a beam bridge resists load primarily through bending, while a well-designed arch converts load into pure compression carried along the arch's curve, which is precisely why arches could historically be built economically from materials like stone that are strong in compression but nearly worthless in tension.",
+    "et": "Kaarsild ja talasild seisavad koormusele vastu samal viisil, lihtsalt kõverdatud kujuga sirge asemel -- tegelikult seisab talasild koormusele vastu peamiselt paindega, samas kui hästi projekteeritud kaar muudab koormuse puhtaks surveks, mida kantakse mööda kaare kõverust, mistõttu saigi kaari ajalooliselt majanduslikult ehitada materjalidest nagu kivi, mis on tugevad surves, kuid peaaegu väärtusetud tõmbes.",
+    "sourceHash": "d9c8aabcc3f75d9a",
+    "stale": false
+  }
+}
