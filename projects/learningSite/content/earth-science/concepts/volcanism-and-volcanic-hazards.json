@@ -1,0 +1,21 @@
+{
+  "id": "volcanism-and-volcanic-hazards",
+  "subject": "earth-science",
+  "level": "L2",
+  "module": "earth-science-fundamentals",
+  "title": {
+    "en": "Volcanism and volcanic hazards",
+    "et": "Vulkanism ja vulkaaniohud",
+    "sourceHash": "ef701576dc82d147",
+    "stale": false
+  },
+  "summary": {
+    "en": "A volcano's shape and its eruption behavior are both direct consequences of one underlying variable: the silica content of its magma, which controls how viscous (thick and resistant to flow) that magma is. Low-silica, low-viscosity magma flows easily and lets dissolved gas escape gradually, producing gentle, effusive eruptions that build broad, gently-sloped shield volcanoes from repeated thin lava flows (Hawaii's volcanoes are the textbook case). High-silica, high-viscosity magma resists flowing and traps dissolved gas under pressure instead of letting it escape smoothly, so pressure builds until it releases violently and explosively, producing steep-sided composite volcanoes (also called stratovolcanoes) built from alternating layers of lava and explosively ejected ash and rock fragments, and small, short-lived cinder cones built almost entirely from ejected fragments around a single vent. This same silica/viscosity relationship explains why the specific hazards differ dramatically by volcano type: effusive eruptions mainly threaten property in the direct path of slow-moving lava flows, giving people time to evacuate, while explosive eruptions produce pyroclastic flows -- fast-moving, superheated avalanches of gas and volcanic debris that can outrun any attempt to flee -- along with widespread ashfall that can collapse roofs and disable machinery/aircraft engines at great distances, and lahars, fast-moving mudflows created when volcanic ash and debris mix with water (from rain, snowmelt, or crater lakes) and can travel far beyond the volcano itself long after an eruption has ended.",
+    "et": "Vulkaani kuju ja selle purske käitumine on mõlemad ühe alusliku muutuja otsesed tagajärjed: selle magma räniisisaldus, mis kontrollib, kui viskoosne (paks ja voolamisele vastupanuvõimeline) see magma on. Madala räniisaldusega, madala viskoossusega magma voolab kergesti ja laseb lahustunud gaasil järk-järgult vabaneda, tekitades õrnu, efusiivseid purskeid, mis ehitavad korduvatest õhukestest laavavooludest laiu, õrnalt kaldu kilpvulkaane (Hawaii vulkaanid on õpikunäide). Kõrge räniisaldusega, kõrge viskoossusega magma paneb vastu voolamisele ja lõksustab lahustunud gaasi surve all, selle asemel et lasta sellel sujuvalt vabaneda, mistõttu surve kuhjub, kuni see vabaneb vägivaldselt ja plahvatuslikult, tekitades järskude nõlvadega komposiitvulkaane (nimetatakse ka stratovulkaanideks), mis on ehitatud vahelduvatest laava ja plahvatuslikult väljapaisatud tuha ja kivimitükkide kihtidest, ning väikeseid, lühiajalisi räbukoonuseid, mis on peaaegu täielikult ehitatud väljapaisatud fragmentidest ühe kraatri ümber. See sama räniisalduse/viskoossuse seos selgitab, miks konkreetsed ohud erinevad vulkaaniliigiti dramaatiliselt: efusiivsed purked ohustavad peamiselt vara aeglaselt liikuva laavavoolu otseses teel, andes inimestele aega evakueerumiseks, samas kui plahvatuslikud purked tekitavad pürolklastvoolusid -- kiiresti liikuvaid, ülekuumendatud gaasi ja vulkaanilise rusu laviine, mis võivad ületada mistahes põgenemiskatse -- koos ulatusliku tuhasajuga, mis võib kokku varistada katuseid ja rikkuda masinaid/lennukimootoreid suurtel kaugustel, ning lahareid, kiiresti liikuvaid mudavoolusid, mis tekivad, kui vulkaaniline tuhk ja rusu seguneb veega (vihmast, lumesulamisest või kraatrijärvedest) ja võivad liikuda kaugele vulkaanist endast eemale kaua pärast purske lõppemist.",
+    "sourceHash": "c02f79487e4bced9",
+    "stale": false
+  },
+  "prerequisites": [
+    "plate-tectonics-and-continental-drift"
+  ]
+}

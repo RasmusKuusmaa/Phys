@@ -1,0 +1,56 @@
+{
+  "id": "volcanism-and-volcanic-hazards-item1",
+  "conceptId": "volcanism-and-volcanic-hazards",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A volcano is known to erupt gentle, slow-moving lava flows from a broad, gently-sloped structure, rather than violent explosions. What does this indicate about its magma, and what shape of volcano is it most likely to be?",
+    "et": "Teadaolevalt purskab vulkaan õrnu, aeglaselt liikuvaid laavavoolusid laiast, õrnalt kaldu struktuurist, mitte vägivaldseid plahvatusi. Mida see näitab selle magma kohta ja millise kujuga vulkaan see kõige tõenäolisemalt on?",
+    "sourceHash": "19c8c0df281abbeb",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The magma is likely low in silica and low in viscosity, allowing gas to escape gradually and lava to flow easily -- consistent with a broad, gently-sloped shield volcano built from repeated thin lava flows.",
+        "et": "Magma on tõenäoliselt madala räniisaldusega ja madala viskoossusega, mis lubab gaasil järk-järgult vabaneda ja laaval kergesti voolata -- kooskõlas laia, õrnalt kaldu kilpvulkaaniga, mis on ehitatud korduvatest õhukestest laavavooludest.",
+        "sourceHash": "e37717e08bf3ebba",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The magma is likely high in silica and high in viscosity, since only thick magma can flow gently without exploding.",
+        "et": "Magma on tõenäoliselt kõrge räniisaldusega ja kõrge viskoossusega, kuna ainult paks magma saab õrnalt voolata ilma plahvatamata.",
+        "sourceHash": "3857d2937db799b3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "volcanism-and-volcanic-hazards-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Silica content is unrelated to eruption style; the gentle behavior is determined entirely by the volcano's location relative to a plate boundary.",
+        "et": "Räniisaldus ei ole seotud purske stiiliga; õrna käitumise määrab täielikult vulkaani asukoht laamapiiri suhtes.",
+        "sourceHash": "2778fffc1d463d65",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "volcanism-and-volcanic-hazards-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This eruption style indicates the volcano is a composite/stratovolcano, since those are the most common volcano type worldwide.",
+        "et": "See purske stiil näitab, et vulkaan on komposiit-/stratovulkaan, kuna need on maailmas kõige levinum vulkaaniliik.",
+        "sourceHash": "796c06976d3a3e2e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "volcanism-and-volcanic-hazards-m3"
+    }
+  ]
+}
