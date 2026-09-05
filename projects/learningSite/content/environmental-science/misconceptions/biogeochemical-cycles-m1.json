@@ -1,0 +1,10 @@
+{
+  "id": "biogeochemical-cycles-m1",
+  "conceptId": "biogeochemical-cycles",
+  "text": {
+    "en": "Biogeochemical cycles are closed loops that return every atom to exactly where it started, with human activity having no real effect on them -- in reality, cycles are open systems with reservoirs of very different sizes and turnover times, and human activity (fossil fuel combustion, synthetic fertilizer production) has measurably altered flux rates between reservoirs -- moving carbon from the slow geological reservoir into the fast atmospheric one far faster than natural processes remove it, for instance -- a real, human-caused perturbation, not something the cycle simply absorbs back to baseline.",
+    "et": "Biogeokeemilised ringed on suletud ringid, mis toovad iga aatomi tagasi täpselt sinna, kust see alguse sai, ning inimtegevusel ei ole neile tegelikku mõju -- tegelikult on ringed avatud süsteemid väga erineva suuruse ja käibeajaga reservuaaridega, ning inimtegevus (fossiilkütuste põletamine, sünteetilise väetise tootmine) on mõõdetavalt muutnud voogude kiirusi reservuaaride vahel -- liigutades näiteks süsinikku aeglasest geoloogilisest reservuaarist kiiresse atmosfääri reservuaari palju kiiremini, kui loomulikud protsessid seda eemaldavad -- tõeline, inimtekkeline häiring, mitte miski, mida ring lihtsalt algtaseme juurde tagasi neelab.",
+    "sourceHash": "33ce5f1d37d008ba",
+    "stale": false
+  }
+}

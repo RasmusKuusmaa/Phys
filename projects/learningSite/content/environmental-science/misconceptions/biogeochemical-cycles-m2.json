@@ -1,0 +1,10 @@
+{
+  "id": "biogeochemical-cycles-m2",
+  "conceptId": "biogeochemical-cycles",
+  "text": {
+    "en": "Atmospheric nitrogen (N2 gas) is directly usable as a nutrient by plants and animals, the same way atmospheric CO2 is directly usable by plants in photosynthesis -- in reality, atmospheric nitrogen gas's triple bond makes it chemically inert and unusable by almost every organism directly; the nitrogen cycle depends on a small number of specialized nitrogen-fixing bacteria to convert it into a biologically usable form first -- without that specific biological step, the nitrogen cycle simply doesn't function, unlike the carbon cycle where the biologically usable form is already the atmospheric form.",
+    "et": "Atmosfääri lämmastik (N2 gaas) on otse kasutatav toitainena taimedele ja loomadele, samamoodi nagu atmosfääri CO2 on taimedele fotosünteesis otse kasutatav -- tegelikult muudab atmosfääri lämmastikugaasi kolmikside selle keemiliselt inertseks ja kasutuskõlbmatuks peaaegu iga organismi jaoks otse; lämmastikuring sõltub väikesest hulgast spetsialiseerunud lämmastikku siduvatest bakteritest, et see kõigepealt bioloogiliselt kasutatavaks vormiks muuta -- ilma selle konkreetse bioloogilise sammuta lämmastikuring lihtsalt ei toimi, erinevalt süsinikuringest, kus bioloogiliselt kasutatav vorm on juba atmosfääri vorm.",
+    "sourceHash": "6e8db5f8ae572b10",
+    "stale": false
+  }
+}

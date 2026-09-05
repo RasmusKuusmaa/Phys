@@ -1,0 +1,10 @@
+{
+  "id": "biogeochemical-cycles-m3",
+  "conceptId": "biogeochemical-cycles",
+  "text": {
+    "en": "Each biogeochemical cycle (carbon, nitrogen, water, phosphorus) operates independently, so intervening in one has no effect on the others -- in reality, the cycles are coupled through the same organisms and ecosystems: nitrogen and phosphorus availability directly limits how much carbon photosynthetic organisms can fix, and altering one cycle's flux rates (e.g. adding synthetic nitrogen fertilizer) measurably changes outcomes in the others (algal blooms drawing down oxygen) -- a single element's cycle can rarely be managed in isolation from the others.",
+    "et": "Iga biogeokeemiline ring (süsinik, lämmastik, vesi, fosfor) toimib iseseisvalt, mistõttu ühte sekkumisel ei ole mõju teistele -- tegelikult on ringed seotud samade organismide ja ökosüsteemide kaudu: lämmastiku ja fosfori kättesaadavus piirab otseselt, kui palju süsinikku fotosünteesivad organismid siduda suudavad, ning ühe ringi voogude kiiruste muutmine (nt sünteetilise lämmastikväetise lisamine) muudab mõõdetavalt tulemusi teistes (vetikate vohamine, mis vähendab hapnikku) -- üksiku elemendi ringi saab harva majandada teistest eraldiseisvana.",
+    "sourceHash": "836d6dd2eba1fdf5",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "biogeochemical-cycles-item1",
+  "conceptId": "biogeochemical-cycles",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Human fossil fuel combustion releases carbon that was stored in rock for hundreds of millions of years back into the atmosphere within decades. Why does this cause atmospheric CO2 to rise rather than being absorbed back into balance the way the carbon cycle normally operates?",
+    "et": "Inimtekkeline fossiilkütuste põletamine vabastab süsinikku, mis oli kivimis talletatud sadu miljoneid aastaid, tagasi atmosfääri aastakümnetega. Miks põhjustab see atmosfääri CO2 tõusu, selle asemel et see tasakaalu tagasi imenduks, nii nagu süsinikuring tavaliselt toimib?",
+    "sourceHash": "c3a4a4ddd33ac9af",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because this moves carbon from a slow geological reservoir into the fast atmospheric reservoir far faster than the slow natural processes (weathering, sedimentation) that would normally remove it can keep up, unbalancing the cycle's flux rates rather than being instantly reabsorbed.",
+        "et": "Sest see liigutab süsinikku aeglasest geoloogilisest reservuaarist kiiresse atmosfääri reservuaari palju kiiremini, kui aeglased loomulikud protsessid (murenemine, setete teke), mis seda tavaliselt eemaldaksid, suudavad sammu pidada, tasakaalustades ringi vooge selle asemel, et koheselt tagasi imenduda.",
+        "sourceHash": "0bdd4e082c5f759c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shouldn't cause a rise at all -- since biogeochemical cycles are closed loops, any added carbon is automatically returned to exactly where it started within the same cycle's short timescale.",
+        "et": "See ei tohiks üldse tõusu põhjustada -- kuna biogeokeemilised ringed on suletud ringid, tuuakse iga lisatud süsinik automaatselt tagasi täpselt sinna, kust see alguse sai, sama ringi lühikese ajaskaala jooksul.",
+        "sourceHash": "c6ea26c9226a6304",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biogeochemical-cycles-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because atmospheric carbon, unlike atmospheric nitrogen, requires specialized bacteria to become usable, and burning fossil fuels overwhelms the limited supply of those bacteria.",
+        "et": "Sest atmosfääri süsinik, erinevalt atmosfääri lämmastikust, vajab kasutatavaks muutumiseks spetsialiseerunud baktereid, ning fossiilkütuste põletamine ületab nende bakterite piiratud varu.",
+        "sourceHash": "4289e8938ac9323e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biogeochemical-cycles-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the carbon cycle operates completely independently of the nitrogen and phosphorus cycles, so this is purely a carbon-cycle problem unrelated to any other cycle.",
+        "et": "Sest süsinikuring toimib täiesti iseseisvalt lämmastiku- ja fosforiringest, mistõttu on see puhtalt süsinikuringi probleem, mis ei ole seotud ühegi teise ringiga.",
+        "sourceHash": "3f967f9e869586f0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "biogeochemical-cycles-m3"
+    }
+  ]
+}
