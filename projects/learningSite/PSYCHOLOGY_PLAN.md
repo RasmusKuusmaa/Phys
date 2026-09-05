@@ -54,28 +54,46 @@ Single module for now (`psychology-fundamentals`), same one-module-
 through-later-phases pattern every new subject on this site has started
 with.
 
-- [ ] Research methods in psychology (experimental vs. correlational
+- [x] Research methods in psychology (experimental vs. correlational
       research, operationalizing psychological constructs, and the
       specific methodological issues psychology faces — demand
       characteristics, generalizability from unrepresentative samples;
       no prerequisites — the methodological framework the rest of this
-      subject's own findings should be read through)
-- [ ] Cognitive psychology and memory (the sensory/short-term/long-term
+      subject's own findings should be read through; kept conceptual)
+- [x] Cognitive psychology and memory (the sensory/short-term/long-term
       memory model, encoding and retrieval processes, and forgetting
-      mechanisms; no prerequisites)
-- [ ] Developmental psychology and lifespan development (major
+      mechanisms; no prerequisites; kept conceptual)
+- [x] Developmental psychology and lifespan development (major
       developmental-stage theories — e.g. Piaget's cognitive stages —
-      and attachment theory; no prerequisites)
-- [ ] Social psychology and group behavior (conformity, obedience, group
+      and attachment theory; no prerequisites; kept conceptual)
+- [x] Social psychology and group behavior (conformity, obedience, group
       dynamics, and attribution theory — the classic social-psychology
-      phenomena; no prerequisites)
-- [ ] Personality psychology and individual differences (trait theories —
+      phenomena; no prerequisites; kept conceptual)
+- [x] Personality psychology and individual differences (trait theories —
       the Big Five — and the nature-vs-nurture debate in personality; no
-      prerequisites)
-- [ ] Learning theory and behaviorism (classical and operant
+      prerequisites; kept conceptual)
+- [x] Learning theory and behaviorism (classical and operant
       conditioning — distinct from medicine's neurobiological reward-
       circuit framing of substance use, this is the behavioral/learning-
-      theory level; no prerequisites)
+      theory level; no prerequisites; kept conceptual)
+
+Phase Psych1 complete: 6 psychology concepts. None got a formula — this
+phase is conceptual/theory content throughout (research-design reasoning,
+memory-systems distinctions, developmental-stage qualitative differences,
+classic social-psychology phenomena, trait-vs-type personality framing,
+and the classical/operant conditioning distinction), matching the balance
+the plan anticipated. No new glossary terms needed. All 12 resource URLs
+individually curl-verified live; several initial guessed titles 404'd and
+needed a second lookup (final: "Meetod" for research methods, "Atkinson–
+Shiffrin memory model" for the EN memory concept, "Kiindumussuhe" for
+attachment theory, "Isiksus" for the general personality article — none of
+these four topics has a dedicated Estonian/English article at the exact
+guessed title, but each of the four found is a genuine, directly relevant
+match). `npm run validate:content` (20 subjects, 719 concepts — includes a
+sibling `economics` subject landing concurrently, untouched by this
+directive), `npm run lint:terminology` (280 glossary terms), and `npm run
+typecheck` all pass; working tree clean except that sibling subject's own
+in-flight files.
 
 ## Phase Psych2 — not yet planned
 
