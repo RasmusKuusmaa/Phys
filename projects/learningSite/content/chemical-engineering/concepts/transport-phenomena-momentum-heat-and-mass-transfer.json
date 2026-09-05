@@ -1,0 +1,19 @@
+{
+  "id": "transport-phenomena-momentum-heat-and-mass-transfer",
+  "subject": "chemical-engineering",
+  "level": "L2",
+  "module": "chemical-engineering-fundamentals",
+  "title": {
+    "en": "Transport phenomena: momentum, heat, and mass transfer",
+    "et": "Ülekandenähtused: impulsi-, soojus- ja ainülekanne",
+    "sourceHash": "ef49aa215d43eaac",
+    "stale": false
+  },
+  "summary": {
+    "en": "Momentum transfer (viscous friction dragging one fluid layer against another), heat transfer (conduction spreading thermal energy through a material), and mass transfer (diffusion spreading a chemical species through a mixture) look like three unrelated topics from three different courses, but chemical engineers group them together as 'transport phenomena' because all three obey the exact same mathematical structure: a flux (of momentum, heat, or mass) proportional to a gradient (of velocity, temperature, or concentration) through a proportionality constant specific to the transporting material (viscosity, thermal conductivity, or diffusivity). Newton's law of viscosity, Fourier's law of conduction, and Fick's law of diffusion are, mathematically, the same equation written three times with different symbols, and that shared structure is not a coincidence -- all three processes are, at the molecular level, the same underlying phenomenon: random molecular motion carrying a property (momentum, energy, or a chemical species) from a region where it's more concentrated to a region where it's less, until the gradient driving that flow disappears. Recognizing this unifying structure is what lets a chemical engineer solve a heat-transfer problem using mathematical machinery originally developed for viscous flow, or design a mass-transfer separation process using the same boundary-layer concepts that describe drag on an object moving through a fluid -- one theoretical framework serving three superficially different engineering problems.",
+    "et": "Impulsiülekanne (viskoosne hõõrdumine, mis lohistab üht vedelikukihti teise vastu), soojusülekanne (juhtivus, mis levitab soojusenergiat läbi materjali) ja ainülekanne (difusioon, mis levitab keemilist liiki läbi segu) näivad kolme mitteseotud teemana kolmest erinevast kursusest, kuid keemiainsenerid rühmitavad need kokku 'ülekandenähtusteks', sest kõik kolm järgivad täpselt sama matemaatilist struktuuri: voog (impulsi, soojuse või aine) on võrdeline gradiendiga (kiiruse, temperatuuri või kontsentratsiooni), proportsionaalsuskonstandi kaudu, mis on spetsiifiline ülekandvale materjalile (viskoossus, soojusjuhtivus või difusioonikoefitsient). Newtoni viskoossuse seadus, Fourier' juhtivuse seadus ja Ficki difusiooniseadus on matemaatiliselt sama võrrand, kirjutatud kolm korda erinevate sümbolitega, ning see jagatud struktuur ei ole juhus -- kõik kolm protsessi on molekulaarsel tasandil sama alusnähtus: juhuslik molekulaarne liikumine, mis kannab omadust (impulssi, energiat või keemilist liiki) piirkonnast, kus seda on rohkem, piirkonda, kus seda on vähem, kuni seda voolu põhjustav gradient kaob. Selle ühendava struktuuri äratundmine ongi see, mis lubab keemiainseneril lahendada soojusülekande probleemi kasutades matemaatilist aparaati, mis algselt töötati välja viskoosse voolu jaoks, või disainida ainülekande eraldusprotsessi kasutades samu piirkihi mõisteid, mis kirjeldavad takistust objektil, mis liigub läbi vedeliku -- üksainus teoreetiline raamistik, mis teenib kolme pealtnäha erinevat inseneriprobleemi.",
+    "sourceHash": "1f30398453433758",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "transport-phenomena-momentum-heat-and-mass-transfer-m3",
+  "conceptId": "transport-phenomena-momentum-heat-and-mass-transfer",
+  "text": {
+    "en": "Viscosity, thermal conductivity, and diffusivity all measure fundamentally different physical properties with no comparable role across the three transport modes -- in reality, all three play the exact same mathematical role: the proportionality constant connecting a flux to the gradient driving it, which is precisely why they can be compared via dimensionless numbers (like the Prandtl or Schmidt number) that measure how the three transport modes compete with each other in a given material.",
+    "et": "Viskoossus, soojusjuhtivus ja difusioonikoefitsient mõõdavad kõik fundamentaalselt erinevaid füüsikalisi omadusi ilma võrreldava rollita kolme ülekandeliigi vahel -- tegelikult mängivad kõik kolm täpselt sama matemaatilist rolli: proportsionaalsuskonstant, mis ühendab voo seda põhjustava gradiendiga, mis ongi täpselt põhjus, miks neid saab võrrelda dimensioonita arvude kaudu (nagu Prandtli või Schmidti arv), mis mõõdavad, kuidas kolm ülekandeliiki antud materjalis omavahel konkureerivad.",
+    "sourceHash": "3bf69b4af383bbe3",
+    "stale": false
+  }
+}

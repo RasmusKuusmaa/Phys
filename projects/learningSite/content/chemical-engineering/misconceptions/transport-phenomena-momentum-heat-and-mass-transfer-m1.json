@@ -1,0 +1,10 @@
+{
+  "id": "transport-phenomena-momentum-heat-and-mass-transfer-m1",
+  "conceptId": "transport-phenomena-momentum-heat-and-mass-transfer",
+  "text": {
+    "en": "Heat, mass, and momentum transfer are three unrelated engineering topics with no shared mathematical structure -- in reality, Fourier's law of conduction, Fick's law of diffusion, and Newton's law of viscosity are the same flux-proportional-to-gradient equation written three times with different symbols, and chemical engineers deliberately study them together as 'transport phenomena' precisely because of that shared structure, not despite it being three separate things.",
+    "et": "Soojus-, aine- ja impulsiülekanne on kolm mitteseotud inseneriteemat ilma jagatud matemaatilise struktuurita -- tegelikult on Fourier' juhtivuse seadus, Ficki difusiooniseadus ja Newtoni viskoossuse seadus sama voog-on-võrdeline-gradiendiga võrrand, kirjutatud kolm korda erinevate sümbolitega, ning keemiainsenerid uurivad neid tahtlikult koos kui 'ülekandenähtusi' just selle jagatud struktuuri tõttu, mitte hoolimata sellest, et need on kolm eraldi asja.",
+    "sourceHash": "938c7fb183e906ab",
+    "stale": false
+  }
+}

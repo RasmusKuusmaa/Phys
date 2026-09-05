@@ -1,0 +1,10 @@
+{
+  "id": "transport-phenomena-momentum-heat-and-mass-transfer-m2",
+  "conceptId": "transport-phenomena-momentum-heat-and-mass-transfer",
+  "text": {
+    "en": "The analogy between heat, mass, and momentum transfer is just a teaching convenience/simplification with no real physical basis -- in reality, the analogy reflects genuine shared molecular-level physics: all three are the same underlying phenomenon (random molecular motion transporting a property down its gradient), which is why solution methods and boundary-layer concepts developed for one transport mode transfer directly to the other two, not merely as a pedagogical trick.",
+    "et": "Analoogia soojus-, aine- ja impulsiülekande vahel on lihtsalt õpetamismugavus/lihtsustus ilma tõelise füüsikalise aluseta -- tegelikult peegeldab analoogia tõelist jagatud molekulaarse tasandi füüsikat: kõik kolm on sama alusnähtus (juhuslik molekulaarne liikumine, mis transpordib omadust mööda selle gradienti), mis ongi põhjus, miks ühe ülekandeliigi jaoks väljatöötatud lahendusmeetodid ja piirkihi mõisted kanduvad otse üle teistele kahele, mitte lihtsalt pedagoogilise trikina.",
+    "sourceHash": "1167134712933c04",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "transport-phenomena-momentum-heat-and-mass-transfer-item1",
+  "conceptId": "transport-phenomena-momentum-heat-and-mass-transfer",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can a chemical engineer apply the same boundary-layer mathematics used to describe fluid drag on an object to a completely different problem -- how fast a chemical species diffuses away from a dissolving solid surface into a flowing liquid?",
+    "et": "Miks saab keemiainsener rakendada sama piirkihi matemaatikat, mida kasutatakse objekti vedelikutakistuse kirjeldamiseks, täiesti erinevale probleemile -- kui kiiresti difundeerub keemiline liik lahustuvalt tahke pinnalt voolavasse vedelikku?",
+    "sourceHash": "8f2540c84a5d8aed",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because momentum transfer (viscous drag) and mass transfer (diffusion) are governed by mathematically identical flux-proportional-to-gradient equations, so solution methods developed for one transfer directly to the other.",
+        "et": "Sest impulsiülekannet (viskoosne takistus) ja ainülekannet (difusioon) juhivad matemaatiliselt identsed voog-on-võrdeline-gradiendiga võrrandid, mistõttu ühe jaoks väljatöötatud lahendusmeetodid kanduvad otse teisele üle.",
+        "sourceHash": "e4e15f08db550d1c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because both problems happen to use the same units, which is enough on its own to make the same equations applicable to both.",
+        "et": "Sest mõlemad probleemid kasutavad juhtumisi samu ühikuid, mis on iseenesest piisav, et teha samad võrrandid mõlemale rakendatavaks.",
+        "sourceHash": "9e7b8f62e7ea1677",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transport-phenomena-momentum-heat-and-mass-transfer-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because this is only a rough teaching analogy for building intuition, not something an engineer could actually rely on for a real design calculation.",
+        "et": "Sest see on ainult ligikaudne õpetamisanaloogia intuitsiooni ehitamiseks, mitte miski, millele insener saaks tegelikult reaalse disainiarvutuse jaoks tugineda.",
+        "sourceHash": "f834834238327ec4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transport-phenomena-momentum-heat-and-mass-transfer-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because fluid drag and diffusion are actually the same physical phenomenon at the macroscopic level, not merely analogous processes.",
+        "et": "Sest vedelikutakistus ja difusioon on tegelikult sama füüsikaline nähtus makroskoopilisel tasandil, mitte lihtsalt analoogsed protsessid.",
+        "sourceHash": "c91993968aad8843",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transport-phenomena-momentum-heat-and-mass-transfer-m3"
+    }
+  ]
+}
