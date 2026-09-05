@@ -1,0 +1,10 @@
+{
+  "id": "mood-disorder-mechanisms-m2",
+  "conceptId": "mood-disorder-mechanisms",
+  "text": {
+    "en": "If antidepressant medications raise neurotransmitter levels immediately, mood should improve immediately too, so a slow response means the medication isn't working -- the clinical effect of antidepressants depends on slower downstream adaptations (changed receptor sensitivity, neuroplasticity, neurotrophic signaling) that take weeks to develop, not on the acute rise in neurotransmitter levels itself, which is why a multi-week trial period is standard before judging whether a medication is working.",
+    "et": "Kui antidepressandid tõstavad neurotransmitterite taset koheselt, peaks ka meeleolu koheselt paranema, mistõttu aeglane vastus tähendab, et ravim ei toimi -- antidepressantide kliiniline toime sõltub aeglasematest järelkohanemistest (muutunud retseptorite tundlikkus, neuroplastilisus, neurotroofiline signalisatsioon), mille tekkeks kulub nädalaid, mitte neurotransmitterite taseme ägedast tõusust endast, mistõttu on standardiks mitmenädalane katseperiood enne ravimi toime hindamist.",
+    "sourceHash": "3c6672a0812a8001",
+    "stale": false
+  }
+}

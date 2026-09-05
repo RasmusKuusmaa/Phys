@@ -1,0 +1,56 @@
+{
+  "id": "mood-disorder-mechanisms-item1",
+  "conceptId": "mood-disorder-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Antidepressant medications raise synaptic monoamine (serotonin/norepinephrine/dopamine) levels within hours of the first dose, yet patients typically don't notice mood improvement for several weeks. What does this mismatch tell us about the simple 'depression equals low serotonin' model?",
+    "et": "Antidepressandid tõstavad sünaptilist monoamiinide (serotoniin/norepinefriin/dopamiin) taset esimese annuse järel tundidega, kuid patsiendid ei märka meeleolu paranemist tavaliselt enne mitme nädala möödumist. Mida see vastuolu ütleb lihtsa \"depressioon võrdub madal serotoniin\" mudeli kohta?",
+    "sourceHash": "10506973885b38e1",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It shows the model is incomplete -- the clinical effect more likely depends on slower downstream changes (receptor sensitivity, neuroplasticity, circuit-level adaptation) triggered by the acute neurotransmitter change, not the acute change itself.",
+        "et": "See näitab, et mudel on puudulik -- kliiniline toime sõltub tõenäolisemalt aeglasematest järelmõjudest (retseptorite tundlikkus, neuroplastilisus, ahela tasandi kohanemine), mille käivitab äge neurotransmitteri muutus, mitte ägedast muutusest endast.",
+        "sourceHash": "4547429c41a93c43",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shows the medication needs a higher dose, since the neurotransmitter increase clearly wasn't large enough to produce an effect yet.",
+        "et": "See näitab, et ravim vajab suuremat annust, kuna neurotransmitteri tõus polnud selgelt piisavalt suur, et toimet veel esile kutsuda.",
+        "sourceHash": "c3bd46f5c100a936",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mood-disorder-mechanisms-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It's actually consistent with the model -- serotonin just needs a few weeks to physically accumulate to a high enough concentration in the brain.",
+        "et": "See on tegelikult mudeliga kooskõlas -- serotoniinil kulub lihtsalt paar nädalat, et ajus piisavalt kõrge kontsentratsioonini füüsiliselt koguneda.",
+        "sourceHash": "9b424548f28980ed",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mood-disorder-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It shows antidepressants work differently in bipolar disorder than in regular depression, since bipolar disorder is a more severe form of the same low-serotonin problem.",
+        "et": "See näitab, et antidepressandid toimivad bipolaarse häire korral teisiti kui tavalise depressiooni korral, kuna bipolaarne häire on sama madala serotoniini probleemi raskem vorm.",
+        "sourceHash": "f2fe1891adeb534d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mood-disorder-mechanisms-m3"
+    }
+  ]
+}

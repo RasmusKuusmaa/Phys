@@ -1,0 +1,10 @@
+{
+  "id": "mood-disorder-mechanisms-m1",
+  "conceptId": "mood-disorder-mechanisms",
+  "text": {
+    "en": "Depression is simply caused by low serotonin, a settled and complete biochemical explanation that a pill can straightforwardly fix -- decades of research have shown the monoamine hypothesis is an incomplete model; antidepressants raise monoamine levels within hours but take weeks to produce clinical improvement, and directly depleting monoamines doesn't reliably cause depression in healthy people, so current models focus on slower downstream changes (receptor sensitivity, neuroplasticity, circuit function) rather than a simple chemical deficiency.",
+    "et": "Depressioon on põhjustatud lihtsalt madalast serotoniinitasemest, kindel ja täielik biokeemiline seletus, mida tablett saab otse parandada -- aastakümnetepikkused uuringud on näidanud, et monoamiinihüpotees on puudulik mudel; antidepressandid tõstavad monoamiinide taset tundidega, kuid kliinilise paranemise tekkeks kulub nädalaid, ning monoamiinide otsene ammendamine ei põhjusta tervetel inimestel usaldusväärselt depressiooni, mistõttu praegused mudelid keskenduvad lihtsa keemilise puuduse asemel aeglasematele järelmõjudele (retseptorite tundlikkus, neuroplastilisus, ahela talitlus).",
+    "sourceHash": "3f04d8a094ff1847",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mood-disorder-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "psychiatry-and-behavioral-medicine",
+  "title": {
+    "en": "Mood disorder mechanisms",
+    "et": "Meeleoluhäirete mehhanismid",
+    "sourceHash": "06d6f431c7555da0",
+    "stale": false
+  },
+  "summary": {
+    "en": "The monoamine hypothesis -- that depression results from a simple deficiency of serotonin, norepinephrine, or dopamine, correctable by restoring those levels -- is the model most people have heard of, but decades of subsequent research have shown it to be an incomplete and in some ways misleading picture: antidepressants raise synaptic monoamine levels within hours, yet their clinical effect typically takes weeks to emerge, a mismatch the simple deficiency story cannot explain on its own, and directly depleting monoamines in already-healthy volunteers does not reliably produce depression. Current mechanistic models instead emphasize downstream, slower-developing changes -- altered receptor sensitivity, disrupted neuroplasticity and neurotrophic signaling (particularly involving brain-derived neurotrophic factor), and changes in the function of specific circuits connecting the prefrontal cortex, amygdala, and hippocampus -- with the acute monoamine change likely acting as a trigger for these slower adaptations rather than being the disorder itself. Bipolar disorder's manic and depressive phases involve some overlapping circuitry but represent a distinct pattern of mood-regulation instability rather than simply a more severe version of unipolar depression. None of this constitutes a complete, settled mechanistic account -- mood disorders remain an active research area precisely because no single circuit or neurotransmitter model yet explains the full clinical picture.",
+    "et": "Monoamiinihüpotees -- et depressioon tuleneb lihtsast serotoniini, norepinefriini või dopamiini puudusest, mida saab parandada nende taseme taastamisega -- on mudel, millest enamik inimesi on kuulnud, kuid järgnevad aastakümnetepikkused uuringud on näidanud, et see on puudulik ja mõnes mõttes eksitav pilt: antidepressandid tõstavad sünaptilist monoamiinide taset tundidega, kuid nende kliiniline toime avaldub tavaliselt alles nädalatega, vastuolu, mida lihtne puudusteooria üksi seletada ei suuda, ning monoamiinide otsene ammendamine juba tervetel katsealustel ei põhjusta usaldusväärselt depressiooni. Praegused mehhanistlikud mudelid rõhutavad selle asemel aeglasemalt arenevaid järelmõjusid -- muutunud retseptorite tundlikkust, häiritud neuroplastilisust ja neurotroofilist signalisatsiooni (eriti seoses ajust pärineva neurotroofilise faktoriga) ning muutusi konkreetsetes ahelates, mis ühendavad prefrontaalset ajukoort, amügdalat ja hipokampust --, kusjuures äge monoamiinide muutus toimib tõenäoliselt pigem käivitajana neile aeglasematele kohanemistele kui olles ise häire. Bipolaarse häire maania- ja depressioonifaasid hõlmavad osaliselt kattuvat ahelaid, kuid kujutavad endast eraldiseisvat meeleolu reguleerimise ebastabiilsuse mustrit, mitte lihtsalt unipolaarse depressiooni raskemat vormi. Miski sellest ei kujuta endast täielikku, kindlaks tehtud mehhanistlikku käsitlust -- meeleoluhäired jäävad aktiivseks uurimisalaks just seetõttu, et ükski üksik ahel- ega neurotransmittermudel ei seleta veel kogu kliinilist pilti.",
+    "sourceHash": "d6838ac1e489c323",
+    "stale": false
+  },
+  "prerequisites": [
+    "synaptic-transmission-and-neurotransmitters"
+  ]
+}
