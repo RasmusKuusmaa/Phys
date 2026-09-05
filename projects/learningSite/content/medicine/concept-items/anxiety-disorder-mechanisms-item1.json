@@ -1,0 +1,56 @@
+{
+  "id": "anxiety-disorder-mechanisms-item1",
+  "conceptId": "anxiety-disorder-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A person with an anxiety disorder reports a racing heart and rapid breathing during a situation that poses no real danger. What does this indicate about their nervous system?",
+    "et": "Ärevushäirega inimene teatab kiirenenud südametegevusest ja kiirenenud hingamisest olukorras, mis ei kujuta endast tegelikku ohtu. Mida see näitab tema närvisüsteemi kohta?",
+    "sourceHash": "7bf2d512f4fc6155",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Their amygdala-driven threat-detection circuitry is triggering a genuine sympathetic autonomic response to a stimulus that doesn't represent a real threat -- a miscalibration of an otherwise intact and functioning system, not evidence of a psychological choice or a broken system.",
+        "et": "Tema amügdalapõhine ohutuvastusahel käivitab tõelise sümpaatilise autonoomse vastuse stiimulile, mis ei kujuta endast tegelikku ohtu -- muidu terve ja toimiva süsteemi valekalibreerimine, mitte tõend psühholoogilisest valikust või katkisest süsteemist.",
+        "sourceHash": "ae7e9724006c27ab",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Nothing physiological is actually happening -- the symptoms are a subjective overreaction with no real activation of any bodily system, so calming down is simply a matter of willpower.",
+        "et": "Tegelikult ei toimu midagi füsioloogilist -- sümptomid on subjektiivne ülereageerimine ilma ühegi kehasüsteemi tegeliku aktivatsioonita, mistõttu rahunemine on lihtsalt tahtejõu küsimus.",
+        "sourceHash": "d8dc74846ae65f4c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "anxiety-disorder-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Their fear circuitry has stopped functioning entirely, since a properly working threat-detection system would never activate without a real threat present.",
+        "et": "Tema hirmuahel on täielikult lakanud toimimast, kuna korralikult töötav ohutuvastussüsteem ei aktiveeruks kunagi ilma tegeliku ohuta.",
+        "sourceHash": "bca29d045380f71e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "anxiety-disorder-mechanisms-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since they aren't reporting a strong conscious feeling of terror, no meaningful amygdala or autonomic activation can actually be occurring.",
+        "et": "Kuna nad ei teata tugevast teadlikust õuduse tundest, ei saa toimuda mingit olulist amügdala ega autonoomset aktivatsiooni.",
+        "sourceHash": "a4917e7aae66de9c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "anxiety-disorder-mechanisms-m2"
+    }
+  ]
+}

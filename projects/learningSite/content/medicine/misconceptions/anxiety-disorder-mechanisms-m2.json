@@ -1,0 +1,10 @@
+{
+  "id": "anxiety-disorder-mechanisms-m2",
+  "conceptId": "anxiety-disorder-mechanisms",
+  "text": {
+    "en": "The amygdala's fear response and a person's conscious feeling of fear are the same single thing, so if someone reports not feeling consciously afraid, no fear-circuit activation is happening -- the amygdala triggers both a conscious feeling of fear and an independent, parallel autonomic cascade (heart rate, breathing, sweating) via separate downstream projections; the autonomic component can activate to a meaningful degree even when conscious awareness of fear is minimal, which is part of why anxiety can present as physical symptoms without an obviously matching subjective feeling.",
+    "et": "Amügdala hirmuvastus ja inimese teadlik hirmutunne on üks ja sama asi, mistõttu kui keegi ei tunne end teadlikult kartvana, ei toimu mingit hirmuahela aktivatsiooni -- amügdala käivitab nii teadliku hirmutunde kui ka sõltumatu, paralleelse autonoomse kaskaadi (südametegevus, hingamine, higistamine) eraldi allavoolu projektsioonide kaudu; autonoomne komponent võib aktiveeruda olulisel määral isegi siis, kui teadlik hirmutunne on minimaalne, mis on osaliselt põhjus, miks ärevus võib avalduda füüsiliste sümptomitena ilma selgelt vastava subjektiivse tundeta.",
+    "sourceHash": "976334c423c8c8da",
+    "stale": false
+  }
+}

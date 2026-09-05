@@ -1,0 +1,22 @@
+{
+  "id": "anxiety-disorder-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "psychiatry-and-behavioral-medicine",
+  "title": {
+    "en": "Anxiety disorder mechanisms",
+    "et": "Ärevushäirete mehhanismid",
+    "sourceHash": "da0f852c8f612f31",
+    "stale": false
+  },
+  "summary": {
+    "en": "The amygdala sits at the center of the brain's threat-detection circuitry, rapidly evaluating incoming sensory information for danger and, when it detects a threat, triggering both a conscious feeling of fear and an immediate autonomic nervous system response -- increased heart rate, rapid breathing, sweating -- via projections to the hypothalamus and brainstem that activate the sympathetic ('fight or flight') branch of the autonomic nervous system. In anxiety disorders, this circuitry becomes miscalibrated in one of several ways: the amygdala may respond to stimuli that pose no genuine threat, the prefrontal cortex's normal top-down regulatory control over amygdala activity may be weakened, or the threshold for triggering the whole cascade may simply sit lower than typical, so that ordinary situations recruit the full fear response meant for genuine danger. Because the autonomic nervous system's sympathetic activation is a real, measurable physiological event -- not merely a subjective feeling -- anxiety disorders produce genuine bodily symptoms (racing heart, chest tightness, gastrointestinal distress) through the same pathway that mediates any acute stress response, which is exactly why anxiety is not simply a matter of willpower or mindset: the physiology being triggered is the same physiology that would fire appropriately if a real threat were present.",
+    "et": "Amügdala asub aju ohutuvastamise ahela keskmes, hinnates kiiresti sissetulevat sensoorset infot ohu suhtes, ning ohu tuvastamisel käivitab see nii teadliku hirmutunde kui ka kohese autonoomse närvisüsteemi vastuse -- kiirenenud südametegevus, kiirenenud hingamine, higistamine -- projektsioonide kaudu hüpotalamusesse ja ajutüvesse, mis aktiveerivad autonoomse närvisüsteemi sümpaatilise (\"võitle või põgene\") haru. Ärevushäirete korral on see ahel ühel mitmest viisist valesti kalibreeritud: amügdala võib reageerida stiimulitele, mis ei kujuta endast tegelikku ohtu, prefrontaalse ajukoore tavapärane ülalt-alla reguleeriv kontroll amügdala aktiivsuse üle võib olla nõrgenenud, või kogu kaskaadi käivitamise lävi võib lihtsalt olla tavapärasest madalam, nii et tavalised olukorrad käivitavad täieliku hirmuvastuse, mis on mõeldud tegeliku ohu jaoks. Kuna autonoomse närvisüsteemi sümpaatiline aktivatsioon on reaalne, mõõdetav füsioloogiline sündmus -- mitte pelgalt subjektiivne tunne --, tekitavad ärevushäired tõelisi kehalisi sümptomeid (kiirenenud südametegevus, pigistustunne rinnus, seedetrakti häired) sama raja kaudu, mis vahendab mistahes ägedat stressivastust, mis ongi täpselt põhjus, miks ärevus ei ole lihtsalt tahtejõu või meelestatuse küsimus: käivitatav füsioloogia on sama füsioloogia, mis vallanduks asjakohaselt, kui tegelik oht oleks olemas.",
+    "sourceHash": "281fa880f69c251f",
+    "stale": false
+  },
+  "prerequisites": [
+    "the-peripheral-and-autonomic-nervous-systems",
+    "the-central-nervous-system-brain-structure-and-function"
+  ]
+}
