@@ -1,0 +1,37 @@
+{
+  "id": "seismology-and-earthquake-mechanisms-solve-M",
+  "formulaId": "seismology-and-earthquake-mechanisms-formula1",
+  "solveFor": "M",
+  "mistakes": [
+    {
+      "id": "treated-scale-as-linear",
+      "description": {
+        "en": "Treated the magnitude scale as linear, e.g. dividing energy by a constant instead of applying the logarithm.",
+        "et": "Käsitles magnituudiskaalat lineaarsena, nt jagades energiat konstandiga, selle asemel et rakendada logaritmi.",
+        "sourceHash": "667aa6ebc46a05bd",
+        "stale": false
+      },
+      "expression": "E/48000000000"
+    },
+    {
+      "id": "forgot-the-constant-offset",
+      "description": {
+        "en": "Computed the logarithm of the energy but forgot to subtract the 4.8 offset before dividing by 1.5.",
+        "et": "Arvutas energia logaritmi, kuid unustas enne 1.5-ga jagamist lahutada 4.8 nihke.",
+        "sourceHash": "0038038616829db8",
+        "stale": false
+      },
+      "expression": "log10(E)/1.5"
+    },
+    {
+      "id": "used-natural-log-instead-of-log10",
+      "description": {
+        "en": "Used the natural logarithm (ln) instead of the base-10 logarithm the formula requires.",
+        "et": "Kasutas naturaallogaritmi (ln) baas-10 logaritmi asemel, mida valem nõuab.",
+        "sourceHash": "2a0f5817c7046191",
+        "stale": false
+      },
+      "expression": "(ln(E)-4.8)/1.5"
+    }
+  ]
+}

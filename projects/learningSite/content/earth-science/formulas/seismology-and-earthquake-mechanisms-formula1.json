@@ -1,0 +1,35 @@
+{
+  "id": "seismology-and-earthquake-mechanisms-formula1",
+  "conceptId": "seismology-and-earthquake-mechanisms",
+  "latex": "M = \\frac{\\log_{10}(E) - 4.8}{1.5}",
+  "symbols": [
+    {
+      "symbol": "M",
+      "name": {
+        "en": "magnitude",
+        "et": "magnituud",
+        "sourceHash": "cdcb99c2404c0c41",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "E",
+      "name": {
+        "en": "energy",
+        "et": "energia",
+        "sourceHash": "381cfb6e1e428419",
+        "stale": false
+      },
+      "unit": "J"
+    }
+  ],
+  "solveFor": [
+    "M",
+    "E"
+  ],
+  "expressions": {
+    "M": "(log10(E)-4.8)/1.5",
+    "E": "pow(10,4.8+1.5*M)"
+  }
+}

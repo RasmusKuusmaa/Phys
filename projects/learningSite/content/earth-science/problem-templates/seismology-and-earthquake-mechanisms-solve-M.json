@@ -1,0 +1,21 @@
+{
+  "id": "seismology-and-earthquake-mechanisms-solve-M",
+  "formulaId": "seismology-and-earthquake-mechanisms-formula1",
+  "variables": [
+    {
+      "symbol": "E",
+      "min": 10000000000.0,
+      "max": 1e+18,
+      "unit": "J",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "E",
+      "right": 0
+    }
+  ],
+  "solveFor": "M"
+}

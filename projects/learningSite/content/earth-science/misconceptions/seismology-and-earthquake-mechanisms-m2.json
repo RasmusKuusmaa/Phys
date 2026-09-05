@@ -1,0 +1,10 @@
+{
+  "id": "seismology-and-earthquake-mechanisms-m2",
+  "conceptId": "seismology-and-earthquake-mechanisms",
+  "text": {
+    "en": "All three fault types (normal, reverse, strike-slip) are basically the same phenomenon with different names, since they all just mean 'the ground broke along a crack' -- in reality, each fault type reflects a mechanistically distinct kind of tectonic stress (normal faults from extension/pulling apart, reverse faults from compression, strike-slip faults from horizontal shear), and which type is present at a location is direct physical evidence of what kind of tectonic forces are acting there.",
+    "et": "Kõik kolm rikketüüpi (normaal-, ülekaande-, nihkerike) on põhimõtteliselt sama nähtus erinevate nimedega, kuna need kõik tähendavad lihtsalt 'maapind murdus piki pragu' -- tegelikult peegeldab iga rikketüüp mehaaniliselt eristuvat tüüpi tektoonilist pinget (normaalrikked ekstensioonist/lahkutõmbamisest, ülekaanderikked kompressioonist, nihkerikked horisontaalsest nihkest), ning see, milline tüüp on kohapeal olemas, on otsene füüsikaline tõend selle kohta, millist tüüpi tektoonilised jõud seal toimivad.",
+    "sourceHash": "2851d1d990a77205",
+    "stale": false
+  }
+}

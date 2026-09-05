@@ -1,0 +1,56 @@
+{
+  "id": "seismology-and-earthquake-mechanisms-item1",
+  "conceptId": "seismology-and-earthquake-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two earthquakes are measured at magnitude 5 and magnitude 7 respectively, on the same logarithmic magnitude scale. Approximately how much more energy did the magnitude 7 earthquake release compared to the magnitude 5 earthquake?",
+    "et": "Kaks maavärinat mõõdetakse vastavalt magnituudiga 5 ja magnituudiga 7 samal logaritmilisel magnituudiskaalal. Ligikaudu kui palju rohkem energiat vabastas magnituudiga 7 maavärin võrreldes magnituudiga 5 maavärinaga?",
+    "sourceHash": "f99e5ab038145755",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Roughly a thousand times more energy, since each whole-number increase on the logarithmic scale corresponds to about a 32-fold energy increase, and two whole-number steps compound (32 x 32 is approximately 1000).",
+        "et": "Ligikaudu tuhat korda rohkem energiat, kuna iga täisarvuline tõus logaritmilisel skaalal vastab umbes 32-kordsele energiatõusule, ning kaks täisarvulist sammu liituvad (32 x 32 on ligikaudu 1000).",
+        "sourceHash": "8d12e20004b77992",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Exactly 40% more energy, since a magnitude 7 is 2 points higher than magnitude 5 on a scale where each point represents a 20% increase.",
+        "et": "Täpselt 40% rohkem energiat, kuna magnituud 7 on 2 punkti kõrgem kui magnituud 5 skaalal, kus iga punkt esindab 20% tõusu.",
+        "sourceHash": "1e875872bc40a2cb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "seismology-and-earthquake-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Exactly twice as much energy, since magnitude 7 is 2 points higher than magnitude 5 and the scale simply doubles per point.",
+        "et": "Täpselt kaks korda rohkem energiat, kuna magnituud 7 on 2 punkti kõrgem kui magnituud 5 ja skaala lihtsalt kahekordistub punkti kohta.",
+        "sourceHash": "c9619504378f268b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "seismology-and-earthquake-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It's impossible to compare energy release between different magnitudes without knowing the specific fault type involved in each earthquake.",
+        "et": "Erinevate magnituudide vahelist energiavabanemist on võimatu võrrelda, teadmata iga maavärina konkreetset rikketüüpi.",
+        "sourceHash": "41eac82d05855ea5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "seismology-and-earthquake-mechanisms-m3"
+    }
+  ]
+}

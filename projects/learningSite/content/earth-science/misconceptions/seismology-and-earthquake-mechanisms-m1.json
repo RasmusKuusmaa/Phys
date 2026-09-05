@@ -1,0 +1,10 @@
+{
+  "id": "seismology-and-earthquake-mechanisms-m1",
+  "conceptId": "seismology-and-earthquake-mechanisms",
+  "text": {
+    "en": "Earthquake magnitude scales (like the Richter or moment magnitude scale) are linear, so a magnitude 6 earthquake is only 'a bit stronger' than a magnitude 5 -- in reality, these scales are logarithmic, so each whole-number increase corresponds to roughly a 32-fold increase in actual released energy, meaning a magnitude 7 earthquake releases roughly a thousand times more energy than a magnitude 5, an enormous, not incremental, difference.",
+    "et": "Maavärina magnituudiskaalad (nagu Richteri või momentmagnituudi skaala) on lineaarsed, mistõttu magnituudiga 6 maavärin on ainult 'veidi tugevam' kui magnituudiga 5 -- tegelikult on need skaalad logaritmilised, mistõttu iga täisarvuline tõus vastab ligikaudu 32-kordsele tegeliku vabanenud energia tõusule, mis tähendab, et magnituudiga 7 maavärin vabastab ligikaudu tuhat korda rohkem energiat kui magnituudiga 5, tohutu, mitte järkjärguline erinevus.",
+    "sourceHash": "f8aa0a11057f7b64",
+    "stale": false
+  }
+}

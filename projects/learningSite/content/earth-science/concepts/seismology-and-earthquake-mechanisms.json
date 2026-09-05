@@ -1,0 +1,21 @@
+{
+  "id": "seismology-and-earthquake-mechanisms",
+  "subject": "earth-science",
+  "level": "L2",
+  "module": "earth-science-fundamentals",
+  "title": {
+    "en": "Seismology and earthquake mechanisms",
+    "et": "Seismoloogia ja maavärinate mehhanismid",
+    "sourceHash": "82cf0f2d35e1921d",
+    "stale": false
+  },
+  "summary": {
+    "en": "An earthquake happens when stress that has built up gradually along a fault -- a fracture in Earth's crust where rock on either side has moved relative to the other -- is suddenly released as the rock snaps into a new position, radiating the stored energy outward as seismic waves; which of the three basic fault types is involved (normal faults, where rock pulls apart and one block drops relative to the other; reverse faults, where compression pushes one block up and over the other; and strike-slip faults, where blocks slide horizontally past each other) directly reflects the kind of tectonic stress acting at that location. The released energy travels as several physically distinct wave types: P-waves (primary, compressional) travel fastest and arrive first, S-waves (secondary, shear) travel slower and cannot pass through liquid, and surface waves travel slowest of all but typically cause the most destructive shaking, since they are confined to Earth's surface rather than spreading their energy through the entire volume of the planet. Earthquake size is reported on logarithmic magnitude scales specifically because the actual range of energy released by earthquakes spans many orders of magnitude -- a linear scale would be useless for comparing a barely-felt tremor to a catastrophic quake on the same scale -- so each whole-number increase in magnitude corresponds to roughly a 32-fold increase in the actual energy released, meaning a magnitude 7 earthquake releases roughly a thousand times more energy than a magnitude 5, not merely 40% more.",
+    "et": "Maavärin toimub, kui pinge, mis on järk-järgult kogunenud piki riket -- Maa maakoore murdumist, kus kivim mõlemal pool on üksteise suhtes liikunud --, vabaneb äkitselt, kui kivim nõksatab uude asendisse, kiirgades salvestunud energiat väljapoole seismiliste lainetena; milline kolmest põhilisest rikketüübist on kaasatud (normaalrikked, kus kivim tõmbub lahku ja üks plokk vajub teise suhtes; ülekaanderikked, kus kompressioon surub ühe ploki teise peale ja üle; ning nihkerikked, kus plokid libisevad üksteisest horisontaalselt mööda) peegeldab otseselt seda tüüpi tektoonilist pinget, mis sellel kohal toimib. Vabanenud energia liigub mitme füüsikaliselt eristuva lainetüübina: P-lained (esmased, kompressioonilised) liiguvad kiireimini ja jõuavad esimesena, S-lained (teisesed, nihke-) liiguvad aeglasemalt ja ei saa läbida vedelikku, ning pinnalained liiguvad kõige aeglasemalt, kuid põhjustavad tavaliselt kõige hävitavamat vappumist, kuna need on piiratud Maa pinnaga, selle asemel et levitada oma energiat läbi kogu planeedi ruumala. Maavärina suurust teatatakse logaritmilistel magnituudiskaaladel spetsiifiliselt seetõttu, et maavärinate poolt vabanenud tegelik energiavahemik ulatub üle paljude suurusjärkude -- lineaarne skaala oleks kasutu, et võrrelda vaevu tuntavat vappumist katastroofilise värinaga samal skaalal -- mistõttu iga täisarvuline magnituudi tõus vastab ligikaudu 32-kordsele tegeliku vabanenud energia tõusule, mis tähendab, et magnituudiga 7 maavärin vabastab ligikaudu tuhat korda rohkem energiat kui magnituudiga 5, mitte lihtsalt 40% rohkem.",
+    "sourceHash": "77a1be8d2d1b77b4",
+    "stale": false
+  },
+  "prerequisites": [
+    "plate-tectonics-and-continental-drift"
+  ]
+}

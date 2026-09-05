@@ -1,0 +1,10 @@
+{
+  "id": "seismology-and-earthquake-mechanisms-m3",
+  "conceptId": "seismology-and-earthquake-mechanisms",
+  "text": {
+    "en": "The shaking that damages buildings during an earthquake comes primarily from the fastest-arriving P-waves, since they arrive first and hit hardest -- in reality, P-waves typically arrive first but with relatively modest shaking, while the slower surface waves (which arrive last) are usually responsible for the most destructive ground motion, since their energy stays concentrated near Earth's surface rather than spreading through the planet's volume.",
+    "et": "Vappumine, mis kahjustab hooneid maavärina ajal, tuleb peamiselt kiireimini saabuvatest P-lainetest, kuna need jõuavad kohale esimesena ja löövad kõige tugevamalt -- tegelikult saabuvad P-lained tavaliselt esimesena, kuid suhteliselt tagasihoidliku vappumisega, samas kui aeglasemad pinnalained (mis saabuvad viimasena) vastutavad tavaliselt kõige hävitavama maapinna liikumise eest, kuna nende energia jääb koondunuks Maa pinna lähedale, selle asemel et levida läbi planeedi ruumala.",
+    "sourceHash": "56c3df4fa61b5b85",
+    "stale": false
+  }
+}
