@@ -1,0 +1,56 @@
+{
+  "id": "conservation-biology-and-extinction-mechanisms-item1",
+  "conceptId": "conservation-biology-and-extinction-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A population of an endangered species has its habitat fully protected from hunting and further habitat loss, yet continues to decline toward extinction. What does population viability analysis suggest might be happening?",
+    "et": "Ohustatud liigi populatsiooni elupaik on täielikult kaitstud jahipidamise ja edasise elupaiga kadumise eest, kuid populatsioon jätkab siiski kahanemist väljasuremise suunas. Mida populatsiooni elujõulisuse analüüs viitab, et võib toimuda?",
+    "sourceHash": "7d60d729bb56fa97",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Below a certain population size, random chance alone (genetic drift, skewed sex ratios, unlucky reproductive years) can drive further decline even with every external threat removed, which is why maintaining population size above that threshold is itself a conservation goal.",
+        "et": "Allpool teatud populatsiooni suurust võib pelk juhus (geenitriiv, soosuhte kõikumine, ebaõnnestunud paljunemisaastad) põhjustada edasist kahanemist, isegi kui kõik välised ohud on kõrvaldatud, mistõttu populatsiooni suuruse hoidmine üle selle läve on iseenesest looduskaitse eesmärk.",
+        "sourceHash": "86623d3b7f6780a5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There must be one specific external cause not yet identified, since with hunting and habitat loss both addressed, a single remaining sudden cause must be responsible.",
+        "et": "Peab olema üks konkreetne veel tuvastamata väline põhjus, kuna kui jahipidamine ja elupaiga kadumine on mõlemad käsitletud, peab vastutav olema üks järelejäänud äkiline põhjus.",
+        "sourceHash": "4d3a6c496f7d5d99",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-biology-and-extinction-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The remaining habitat, despite being protected, must simply still be too small in total area, since habitat fragmentation's only real effect is on total available area.",
+        "et": "Järelejäänud elupaik, hoolimata kaitstusest, peab olema lihtsalt endiselt liiga väikese kogupindalaga, kuna elupaiga killustumise ainus tegelik mõju on kättesaadaval kogupindalal.",
+        "sourceHash": "aab5d5e461fe2f13",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-biology-and-extinction-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This shouldn't be possible -- once the main external threat is removed, a population is essentially safe from extinction by definition.",
+        "et": "See ei tohiks olla võimalik -- kui peamine väline oht on kõrvaldatud, on populatsioon definitsiooni järgi sisuliselt väljasuremise eest ohutu.",
+        "sourceHash": "c1336bdc17566e5e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "conservation-biology-and-extinction-mechanisms-m3"
+    }
+  ]
+}

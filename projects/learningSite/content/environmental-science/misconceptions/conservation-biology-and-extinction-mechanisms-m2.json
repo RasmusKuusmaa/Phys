@@ -1,0 +1,10 @@
+{
+  "id": "conservation-biology-and-extinction-mechanisms-m2",
+  "conceptId": "conservation-biology-and-extinction-mechanisms",
+  "text": {
+    "en": "Habitat fragmentation is only a problem because it reduces the total amount of habitat area available -- in reality, fragmentation's harm goes beyond raw area lost -- splitting habitat into isolated patches also cuts off gene flow between the resulting sub-populations, making each one smaller, more inbred, and more vulnerable to random bad events than a single connected population of the same total size would be; this is why habitat corridors are a distinct conservation tool from simply protecting more total area.",
+    "et": "Elupaiga killustumine on probleem ainult seetõttu, et see vähendab kättesaadava elupaiga kogupindala -- tegelikult ulatub killustumise kahju kaugemale pelgalt kaotatud pindalast -- elupaiga jagamine isoleeritud lappideks katkestab ka geenivoo tekkinud alampopulatsioonide vahel, muutes igaühe väiksemaks, rohkem lähisugulusaretatuks ja haavatavamaks juhuslike halbade sündmuste suhtes, kui seda oleks sama kogusuurusega ühtne ühendatud populatsioon; see ongi põhjus, miks elupaigakoridorid on eraldiseisev looduskaitsevahend suurema kogupindala kaitsmisest.",
+    "sourceHash": "54d4bda2dd67ea31",
+    "stale": false
+  }
+}

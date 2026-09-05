@@ -1,0 +1,10 @@
+{
+  "id": "conservation-biology-and-extinction-mechanisms-m3",
+  "conceptId": "conservation-biology-and-extinction-mechanisms",
+  "text": {
+    "en": "Once a population is protected from its main external threat (e.g. hunting is banned), it's essentially safe from extinction -- in reality, population viability analysis recognizes that below a certain size, a population can decline toward extinction purely from random chance (genetic drift, skewed sex ratios, unlucky reproductive years) even with every external threat removed, which is why conservation targets aren't just \"remove the threat\" but also maintaining population size above the threshold where randomness alone becomes dangerous.",
+    "et": "Kui populatsioon on kaitstud oma peamise välise ohu eest (nt jahipidamine on keelatud), on ta sisuliselt väljasuremise eest ohutu -- tegelikult tunnistab populatsiooni elujõulisuse analüüs, et allpool teatud suurust võib populatsioon liikuda väljasuremise poole pelgalt juhuse tõttu (geenitriiv, soosuhte kõikumine, ebaõnnestunud paljunemisaastad), isegi kui kõik välised ohud on kõrvaldatud, mistõttu looduskaitse eesmärgid ei ole ainult 'kõrvalda oht', vaid ka populatsiooni suuruse hoidmine üle läve, millest allpool muutub pelk juhus ohtlikuks.",
+    "sourceHash": "83aeca5b70ad55a6",
+    "stale": false
+  }
+}
