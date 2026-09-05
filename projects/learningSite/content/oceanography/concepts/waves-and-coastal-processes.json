@@ -1,0 +1,19 @@
+{
+  "id": "waves-and-coastal-processes",
+  "subject": "oceanography",
+  "level": "L2",
+  "module": "oceanography-fundamentals",
+  "title": {
+    "en": "Waves and coastal processes",
+    "et": "Lained ja rannikuprotsessid",
+    "sourceHash": "0fe913a976137e5d",
+    "stale": false
+  },
+  "summary": {
+    "en": "A wind-driven ocean wave does not transport water horizontally across the sea the way a current does -- as a wave passes, each water particle moves in a roughly circular orbit, returning close to its starting point, and it is only the wave's energy and shape that actually travels forward, which is why a floating object bobs up and down in place rather than being carried along. That circular motion shrinks rapidly with depth and becomes negligible below a depth of about half the wave's wavelength, called the wave base, which is exactly why storms can churn the surface violently while leaving the seafloor beneath undisturbed at sufficient depth. When a wave finally approaches shore and the water shallows below its wave base, the orbital motion is forced to flatten and interact with the bottom, the wave slows and steepens until it becomes unstable and breaks, releasing its energy against the coastline. That released energy, arriving at an angle rather than square-on to most beaches, drives a current running parallel to shore called longshore current, which in turn transports sand along the coast in a process called longshore drift -- the same process responsible for both eroding some stretches of coastline and building up sandbars, spits, and beaches elsewhere, making most coastlines a long-term balance between erosion and deposition rather than a fixed, unchanging boundary.",
+    "et": "Tuulest tingitud ookeanilaine ei transpordi vett horisontaalselt üle mere nii, nagu hoovus seda teeb -- laine möödumisel liigub iga veeosake ligikaudu ringikujulisel orbiidil, naastes oma lähtepunkti lähedale, ning ainult laine energia ja kuju liiguvad tegelikult edasi, mistõttu ujuv objekt õõtsub üles-alla kohapeal, selle asemel et kaasa kanduda. See ringikujuline liikumine kahaneb kiiresti sügavusega ja muutub tähtsusetuks sügavusel, mis on umbes pool laine lainepikkusest, mida nimetatakse lainealuseks, mis ongi täpselt põhjus, miks tormid võivad pinda vägivaldselt segada, jättes samal ajal piisaval sügavusel oleva merepõhja häirimata. Kui laine lõpuks rannikule läheneb ja vesi muutub madalamaks kui selle lainealune, sunnitakse orbiidiline liikumine lamenema ja põhjaga koos toimima, laine aeglustub ja järsustub, kuni muutub ebastabiilseks ja murdub, vabastades oma energia rannajoone vastu. See vabanenud energia, mis saabub enamiku randade suhtes nurga all, mitte otse peale, käivitab rannikuga paralleelselt kulgeva hoovuse nimega ranniku-lähedane hoovus, mis omakorda transpordib liiva mööda rannikut protsessis nimega ranniku-lähedane triiv -- sama protsess, mis vastutab nii mõne rannikulõigu erosiooni kui ka liivamadalike, ninade ja randade ehitamise eest mujal, muutes enamiku rannikuid pigem pikaajaliseks tasakaaluks erosiooni ja setete kuhjumise vahel kui fikseeritud, muutumatuks piiriks.",
+    "sourceHash": "d60d995de3f84e6d",
+    "stale": false
+  },
+  "prerequisites": []
+}

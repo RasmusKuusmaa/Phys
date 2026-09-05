@@ -1,0 +1,56 @@
+{
+  "id": "waves-and-coastal-processes-item1",
+  "conceptId": "waves-and-coastal-processes",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A cork floating on the open ocean bobs up and down as waves pass beneath it but ends up roughly where it started, rather than being carried steadily toward shore. What does this best demonstrate?",
+    "et": "Avaookeanil ujuv kork õõtsub üles-alla, kui lained sellest alt läbi käivad, kuid jõuab lõpuks ligikaudu samasse kohta, kust alustas, selle asemel et kanduda pidevalt ranniku poole. Mida see kõige paremini näitab?",
+    "sourceHash": "6ce10d67cf0d0a71",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Water particles in a passing wave move in a roughly circular orbit and return close to their starting position -- only the wave's energy and shape travel forward, not the water itself.",
+        "et": "Möödaminnva laine veeosakesed liiguvad ligikaudu ringikujulisel orbiidil ja naasevad oma lähtepositsiooni lähedale -- edasi liiguvad ainult laine energia ja kuju, mitte vesi ise.",
+        "sourceHash": "f85764e0f7872149",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The cork is simply too light to be affected by the wave's horizontal water transport, unlike a heavier object which would be carried steadily toward shore.",
+        "et": "Kork on lihtsalt liiga kerge, et laine horisontaalne veetransport seda mõjutaks, erinevalt raskemast objektist, mis kanduks pidevalt ranniku poole.",
+        "sourceHash": "787b583f771e2703",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "waves-and-coastal-processes-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The wave's forward water transport is exactly canceled out each time by an equal backward current, which happens to return the cork to its exact starting point.",
+        "et": "Laine edasine veetransport tühistatakse iga kord täpselt võrdse tagasisuunalise hoovuse poolt, mis juhtumisi tagastab korgi täpselt selle lähtepunkti.",
+        "sourceHash": "d4c05809b2638be6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "waves-and-coastal-processes-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Waves in the open ocean don't actually move at all -- what looks like a traveling wave is really just water rising and falling in place with no horizontal component whatsoever.",
+        "et": "Lained avaookeanil tegelikult üldse ei liigu -- see, mis näeb välja nagu liikuv laine, on tegelikult lihtsalt vesi, mis tõuseb ja langeb kohapeal ilma igasuguse horisontaalse komponendita.",
+        "sourceHash": "fab8ed1ce88d550a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "waves-and-coastal-processes-m3"
+    }
+  ]
+}

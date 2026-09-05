@@ -1,0 +1,10 @@
+{
+  "id": "waves-and-coastal-processes-m2",
+  "conceptId": "waves-and-coastal-processes",
+  "text": {
+    "en": "A storm's wave energy disturbs the entire water column all the way to the seafloor, no matter how deep the water is -- in reality, the circular orbital motion of a wave shrinks rapidly with depth and becomes negligible below the wave base (about half the wavelength), so at sufficient depth the seafloor stays undisturbed even during a violent surface storm.",
+    "et": "Tormi lainet energia häirib kogu veesammast kuni merepõhjani, sõltumata sellest, kui sügav vesi on -- tegelikult kahaneb laine ringikujuline orbiidiline liikumine sügavusega kiiresti ja muutub tähtsusetuks allpool lainealust (umbes pool lainepikkusest), mistõttu piisaval sügavusel jääb merepõhi häirimata isegi vägivaldse pinnatormi ajal.",
+    "sourceHash": "e56046898d2c74f2",
+    "stale": false
+  }
+}
