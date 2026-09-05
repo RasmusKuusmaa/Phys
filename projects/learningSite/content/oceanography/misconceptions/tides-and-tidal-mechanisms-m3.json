@@ -1,0 +1,10 @@
+{
+  "id": "tides-and-tidal-mechanisms-m3",
+  "conceptId": "tides-and-tidal-mechanisms",
+  "text": {
+    "en": "Every coastline on Earth experiences the same tidal pattern (two equal high tides and two equal low tides per day), since tides are a single global phenomenon -- in reality, local geography (coastline shape, water depth, bays and straits) strongly modifies the basic tidal bulge pattern, so actual coastlines show diurnal, semidiurnal, or mixed tidal patterns depending on their specific local conditions.",
+    "et": "Iga rannajoon Maal kogeb sama loodemustrit (kaks võrdset tõusuvett ja kaks võrdset mõõna päevas), kuna looded on üksainus globaalne nähtus -- tegelikult muudab kohalik geograafia (rannajoone kuju, vee sügavus, lahed ja väinad) tugevalt põhilist loodekühmu mustrit, mistõttu tegelikud rannikud näitavad diurnseid, semidiurnseid või segatüüpi loodemustreid sõltuvalt oma konkreetsetest kohalikest tingimustest.",
+    "sourceHash": "ea5cb0aa34f2688d",
+    "stale": false
+  }
+}

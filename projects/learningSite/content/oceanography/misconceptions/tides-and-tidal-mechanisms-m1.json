@@ -1,0 +1,10 @@
+{
+  "id": "tides-and-tidal-mechanisms-m1",
+  "conceptId": "tides-and-tidal-mechanisms",
+  "text": {
+    "en": "Tides are caused only by the Moon's gravitational pull on the near side of Earth, so there should only be one high tide per day -- in reality, the Moon's gravity pulls harder on the near side of Earth than the far side, stretching the ocean into bulges on BOTH sides simultaneously, which is why most coastlines experience two high tides roughly every 24 hours, not one.",
+    "et": "Loodeid põhjustab ainult Kuu gravitatsiooniline tõmme Maa lähipoolel, mistõttu peaks päevas olema ainult üks tõusuvesi -- tegelikult tõmbab Kuu gravitatsioon tugevamalt Maa lähima külje poole kui kaugema poole, venitades ookeani kühmudeks MÕLEMAL küljel korraga, mistõttu enamik rannikuid kogeb iga ligikaudu 24 tunni jooksul kahte tõusuvett, mitte üht.",
+    "sourceHash": "2de76328353a4262",
+    "stale": false
+  }
+}

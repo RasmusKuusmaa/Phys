@@ -1,0 +1,19 @@
+{
+  "id": "tides-and-tidal-mechanisms",
+  "subject": "oceanography",
+  "level": "L1",
+  "module": "oceanography-fundamentals",
+  "title": {
+    "en": "Tides and tidal mechanisms",
+    "et": "Loodete ja looded mehhanismid",
+    "sourceHash": "c6ee2b55f495e12c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Tides are not simply the Moon 'pulling' water toward itself on the near side of Earth -- they arise because the Moon's gravity pulls harder on the side of Earth closest to it than on the side farthest away, stretching the ocean into a bulge on both the near side and the far side simultaneously, so as Earth rotates through these two bulges each day, most coastlines experience two high tides and two low tides roughly every 24 hours, not one. The Sun contributes a smaller version of the same effect, and the two combine: when the Sun and Moon align (at new and full moon), their tidal effects reinforce each other and produce the largest tidal range of the month, called a spring tide, while when the Sun and Moon pull at right angles to each other (at first and last quarter), their effects partially cancel and produce the smallest tidal range, a neap tide. The actual tidal pattern any particular coastline experiences, though, depends heavily on local geography -- the shape of the coastline, the depth of the water, and the presence of bays or straits can amplify, delay, or distort the simple two-bulge picture, which is why some coasts show two nearly equal high tides a day (semidiurnal), some show only one (diurnal), and some show two of noticeably different heights (mixed).",
+    "et": "Looded ei ole lihtsalt Kuu, mis 'tõmbab' vett enda poole Maa lähipoolel -- need tekivad seetõttu, et Kuu gravitatsioon tõmbab tugevamalt Maa lähima külje poole kui kaugeima külje poole, venitades ookeani kühmuks nii lähi- kui ka kaugpoolel korraga, mistõttu Maa pöörlemise ajal läbi nende kahe kühmu kogeb enamik rannikuid iga ligikaudu 24 tunni jooksul kahte tõusuvett ja kahte mõõnat, mitte üht. Päike annab panuse sama efekti väiksema versiooniga ning need kaks kombineeruvad: kui Päike ja Kuu joonduvad (noorkuul ja täiskuul), tugevdavad nende loodemõjud üksteist ja tekitavad kuu suurima loodeamplituudi, mida nimetatakse süzügiaalseks loodeks, samas kui Päike ja Kuu tõmbavad üksteise suhtes täisnurga all (esimeses ja viimases veerandis), tühistavad nende mõjud üksteist osaliselt ja tekitavad väikseima loodeamplituudi, kvadratuurse loode. Konkreetse rannajoone tegelik loodemuster sõltub aga suuresti kohalikust geograafiast -- rannajoone kuju, vee sügavus ning lahtede või väinade olemasolu võivad lihtsat kahekühmulist pilti võimendada, hilistada või moonutada, mistõttu mõned rannikud näitavad kahte peaaegu võrdset tõusuvett päevas (semidiurne), mõned ainult üht (diurnne) ning mõned kahte märgatavalt erineva kõrgusega tõusuvett (segatüüpi).",
+    "sourceHash": "913030a35473a142",
+    "stale": false
+  },
+  "prerequisites": []
+}

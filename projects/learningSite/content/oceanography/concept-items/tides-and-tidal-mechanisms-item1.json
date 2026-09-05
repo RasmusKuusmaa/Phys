@@ -1,0 +1,56 @@
+{
+  "id": "tides-and-tidal-mechanisms-item1",
+  "conceptId": "tides-and-tidal-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Most coastlines experience two high tides per day, not one, even though the Moon is only on one side of Earth at any given moment. Why?",
+    "et": "Enamik rannikuid kogeb päevas kahte tõusuvett, mitte üht, kuigi Kuu asub igal hetkel ainult Maa ühel küljel. Miks?",
+    "sourceHash": "fe53e477636c5b38",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the Moon's gravity pulls harder on the near side of Earth than the far side, stretching the ocean into tidal bulges on both sides simultaneously, and Earth's rotation carries each coastline through both bulges once a day.",
+        "et": "Sest Kuu gravitatsioon tõmbab tugevamalt Maa lähipoole kui kaugpoole, venitades ookeani loodekühmudeks mõlemal küljel korraga, ning Maa pöörlemine viib iga rannajoone läbi mõlema kühmu kord päevas.",
+        "sourceHash": "3140d594b54f6ecb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the Sun and Moon each independently pull the ocean into their own separate single bulge, and the two bulges happen to arrive at any given coastline at different times of day.",
+        "et": "Sest Päike ja Kuu tõmbavad kumbki iseseisvalt ookeani oma eraldi ühte kühmu ning need kaks kühmu juhtuvad jõudma antud rannajooneni erinevatel kellaaegadel.",
+        "sourceHash": "eb9822e0593ad84c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "tides-and-tidal-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because Earth's own rotation alone generates two bulges through centrifugal force, entirely independent of the Moon's position.",
+        "et": "Sest Maa enda pöörlemine üksi tekitab tsentrifugaaljõu kaudu kaks kühmu, täiesti sõltumatult Kuu asukohast.",
+        "sourceHash": "518de6ab22d318d3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "tides-and-tidal-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because ocean water simply sloshes back and forth twice a day as a leftover consequence of Earth's formation, unrelated to any ongoing gravitational effect.",
+        "et": "Sest ookeani vesi lihtsalt loksub edasi-tagasi kaks korda päevas Maa tekke pärandliku tagajärjena, sõltumata mistahes käimasolevast gravitatsioonilisest mõjust.",
+        "sourceHash": "c6ab6a3c3851e963",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "tides-and-tidal-mechanisms-m3"
+    }
+  ]
+}

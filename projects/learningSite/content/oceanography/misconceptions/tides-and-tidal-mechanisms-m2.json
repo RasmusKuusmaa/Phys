@@ -1,0 +1,10 @@
+{
+  "id": "tides-and-tidal-mechanisms-m2",
+  "conceptId": "tides-and-tidal-mechanisms",
+  "text": {
+    "en": "The Sun's gravity is too weak or too far away to have any meaningful effect on tides, which are entirely a lunar phenomenon -- in reality, the Sun produces a real tidal effect of its own (smaller than the Moon's but far from negligible), and the combination of the Sun's and Moon's effects is exactly what produces the spring/neap tide cycle over the course of a month.",
+    "et": "Päikese gravitatsioon on liiga nõrk või liiga kaugel, et loodetele mingit olulist mõju avaldada, mis on täielikult Kuu nähtus -- tegelikult tekitab Päike oma tõelise loodemõju (väiksema kui Kuu oma, kuid kaugeltki mitte tühise), ning Päikese ja Kuu mõjude kombinatsioon ongi täpselt see, mis tekitab kuu jooksul süzügiaalsete ja kvadratuursete loodete tsükli.",
+    "sourceHash": "2def4c4a140cd4b3",
+    "stale": false
+  }
+}
