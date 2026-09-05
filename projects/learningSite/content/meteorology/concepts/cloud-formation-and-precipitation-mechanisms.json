@@ -1,0 +1,19 @@
+{
+  "id": "cloud-formation-and-precipitation-mechanisms",
+  "subject": "meteorology",
+  "level": "L1",
+  "module": "meteorology-fundamentals",
+  "title": {
+    "en": "Cloud formation and precipitation mechanisms",
+    "et": "Pilvede teke ja sademete mehhanismid",
+    "sourceHash": "993dc03703f2a65b",
+    "stale": false
+  },
+  "summary": {
+    "en": "A cloud is not condensed water vapor floating on its own -- water vapor is an invisible gas, and it can only condense into the visible liquid droplets or ice crystals that make up a cloud when it has both cooled below its dew point and found a microscopic surface, a condensation nucleus (dust, sea salt, pollution particles, even bacteria), to condense onto, since pure water vapor resists condensing on nothing at all. Once a cloud's countless tiny droplets or crystals exist, they are still far too small and light to fall as precipitation on their own -- a typical cloud droplet would take the better part of a day to fall a few hundred meters, evaporating long before it reached the ground -- so precipitation requires a second, separate growth mechanism that makes droplets large enough to actually fall. In warm clouds (entirely liquid, no ice), that mechanism is collision-coalescence: droplets of slightly different sizes fall at slightly different speeds, collide, and merge, and this snowballing process eventually produces drops heavy enough to reach the ground as rain. In cold clouds containing both ice crystals and supercooled liquid droplets, a different and often faster mechanism, the Bergeron process, dominates instead: ice crystals have a lower saturation vapor pressure than liquid water at the same subfreezing temperature, so water vapor evaporating off the liquid droplets preferentially deposits onto the ice crystals, growing them rapidly at the liquid droplets' expense until they're heavy enough to fall -- as snow if they stay frozen, or as rain if they melt on the way down.",
+    "et": "Pilv ei ole kondenseerunud veeaur, mis lihtsalt hõljub omaette -- veeaur on nähtamatu gaas ning see saab kondenseeruda nähtavateks vedelateks piiskadeks või jääkristallideks, millest pilv koosneb, alles siis, kui see on jahtunud alla oma kastepunkti ja leidnud mikroskoopilise pinna, kondensatsioonituuma (tolm, mereldsool, saasteosakesed, isegi bakterid), millele kondenseeruda, kuna puhas veeaur ei kondenseeru meelsasti mitte millelegi. Kui pilve lugematud väikesed piisad või kristallid on olemas, on need ikka veel liiga väikesed ja kerged, et sademetena omaette langeda -- tüüpiline pilvepiisk kuluks parema osa päevast, et langeda mõnisada meetrit, aurustudes kaua enne maapinnale jõudmist -- mistõttu vajavad sademed teist, eraldiseisvat kasvumehhanismi, mis muudab piisad piisavalt suureks, et tegelikult langeda. Soojades pilvedes (täiesti vedelad, ilma jääta) on selleks mehhanismiks kokkupõrge-liitumine: veidi erineva suurusega piisad langevad veidi erineva kiirusega, põrkuvad kokku ja ühinevad, ning see lumepalliprotsess tekitab lõpuks piisavalt raskeid tilku, et vihmana maapinnale jõuda. Külmades pilvedes, mis sisaldavad nii jääkristalle kui ka ülejahutatud vedelaid piisku, domineerib selle asemel teine, sageli kiirem mehhanism, Bergeroni protsess: jääkristallidel on samal alla nulli temperatuuril madalam küllastuslik veeauru rõhk kui vedelal veel, mistõttu veeaur, mis aurustub vedelatest piiskadest, ladestub eelistatult jääkristallidele, kasvatades neid kiiresti vedelate piiskade arvelt, kuni need on piisavalt rasked, et langeda -- lumena, kui need jäävad külmunuks, või vihmana, kui need sulavad langemise teel.",
+    "sourceHash": "c67082a344e0335f",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "cloud-formation-and-precipitation-mechanisms-m3",
+  "conceptId": "cloud-formation-and-precipitation-mechanisms",
+  "text": {
+    "en": "Rain and snow form through the same basic droplet-growth process, just differing in the final temperature at which the water falls -- in reality, rain in warm clouds typically grows via collision-coalescence between liquid droplets, while snow and much cold-cloud rain grows via the Bergeron process, a fundamentally different mechanism where ice crystals grow at the direct expense of neighboring supercooled liquid droplets because ice has a lower saturation vapor pressure -- not merely the same liquid process happening at a colder temperature.",
+    "et": "Vihm ja lumi tekivad sama põhilise piisa kasvuprotsessi kaudu, erinedes ainult lõpptemperatuuris, mille juures vesi langeb -- tegelikult kasvab vihm soojades pilvedes tavaliselt kokkupõrke-liitumise kaudu vedelate piiskade vahel, samas kui lumi ja suur osa külma pilve vihmast kasvab Bergeroni protsessi kaudu, põhimõtteliselt erineva mehhanismi kaudu, kus jääkristallid kasvavad otseselt naaberdavate ülejahutatud vedelate piiskade arvel, kuna jääl on madalam küllastuslik veeauru rõhk -- mitte pelgalt sama vedela protsessi toimumine külmemal temperatuuril.",
+    "sourceHash": "b0dbea9ab83cf3de",
+    "stale": false
+  }
+}

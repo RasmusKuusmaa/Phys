@@ -1,0 +1,10 @@
+{
+  "id": "cloud-formation-and-precipitation-mechanisms-m2",
+  "conceptId": "cloud-formation-and-precipitation-mechanisms",
+  "text": {
+    "en": "Any cloud that forms will eventually produce rain simply by its droplets getting heavy enough over time, with no special mechanism needed -- in reality, ordinary cloud droplets are far too small and light to fall as precipitation on their own and would evaporate long before reaching the ground; producing actual precipitation requires a separate growth mechanism (collision-coalescence or the Bergeron process) that grows droplets/crystals to a much larger size, which is why many clouds produce no precipitation at all.",
+    "et": "Iga tekkiv pilv tekitab lõpuks vihma lihtsalt sellepärast, et piisad muutuvad aja jooksul piisavalt raskeks, ilma erilise mehhanismita -- tegelikult on tavalised pilvepiisad liiga väikesed ja kerged, et sademetena omaette langeda, ning need aurustuksid kaua enne maapinnale jõudmist; tegelike sademete tekitamine nõuab eraldi kasvumehhanismi (kokkupõrge-liitumine või Bergeroni protsess), mis kasvatab piisad/kristallid palju suuremaks, mistõttu paljud pilved ei tekita üldse sademeid.",
+    "sourceHash": "9e35fd7eec3b65dd",
+    "stale": false
+  }
+}

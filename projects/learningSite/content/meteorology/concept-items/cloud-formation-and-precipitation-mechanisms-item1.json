@@ -1,0 +1,56 @@
+{
+  "id": "cloud-formation-and-precipitation-mechanisms-item1",
+  "conceptId": "cloud-formation-and-precipitation-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A cloud has existed in the sky for hours without producing any rain, even though its droplets have had plenty of time to \"get heavy.\" What does this best illustrate?",
+    "et": "Pilv on taevas eksisteerinud tunde, ilma et see oleks tekitanud vihma, kuigi tema piiskadel on olnud piisavalt aega 'raskeks muutuda.' Mida see kõige paremini illustreerib?",
+    "sourceHash": "7b26f28485f85c4a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Ordinary cloud droplets are far too small to fall as precipitation on their own; producing actual rain requires a separate growth mechanism (collision-coalescence or the Bergeron process) that many clouds never undergo.",
+        "et": "Tavalised pilvepiisad on liiga väikesed, et sademetena omaette langeda; tegeliku vihma tekitamine nõuab eraldi kasvumehhanismi (kokkupõrge-liitumine või Bergeroni protsess), mida paljud pilved kunagi ei läbi.",
+        "sourceHash": "14ffb9907f35cb44",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The cloud simply hasn't existed long enough yet -- given enough additional time, any cloud's droplets will eventually become heavy enough to fall as rain.",
+        "et": "Pilv ei ole lihtsalt veel piisavalt kaua eksisteerinud -- piisava lisaaja korral muutuvad iga pilve piisad lõpuks piisavalt raskeks, et vihmana langeda.",
+        "sourceHash": "e031be9103450ce7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cloud-formation-and-precipitation-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The cloud must not actually contain condensed water, since a cloud made of true liquid droplets would always eventually rain.",
+        "et": "Pilv ei tohi tegelikult sisaldada kondenseerunud vett, kuna tõelistest vedelatest piiskadest koosnev pilv sajaks alati lõpuks.",
+        "sourceHash": "ed9c4f8dc9bc8f66",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cloud-formation-and-precipitation-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Precipitation only happens when a cloud is cold enough to contain ice, so a warm cloud like this one could never produce rain regardless of droplet size.",
+        "et": "Sademed tekivad ainult siis, kui pilv on piisavalt külm, et sisaldada jääd, mistõttu selline soe pilv ei saaks kunagi vihma tekitada, sõltumata piisa suurusest.",
+        "sourceHash": "aa38aaa6d8d6d7c4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "cloud-formation-and-precipitation-mechanisms-m3"
+    }
+  ]
+}
