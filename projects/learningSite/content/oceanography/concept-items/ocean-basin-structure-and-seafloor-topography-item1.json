@@ -1,0 +1,56 @@
+{
+  "id": "ocean-basin-structure-and-seafloor-topography-item1",
+  "conceptId": "ocean-basin-structure-and-seafloor-topography",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is the Mariana Trench considered a more extreme vertical feature than any mountain on land, even though it is 'just' a depression in the ocean floor?",
+    "et": "Miks peetakse Mariaani kraavi äärmuslikumaks vertikaalseks tunnuseks kui ühtki mägi maismaal, kuigi see on 'lihtsalt' süvend merepõhjas?",
+    "sourceHash": "16e72f65ea406dfe",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because it plunges deeper below sea level than Mount Everest rises above it, making its total vertical relief the most extreme on the planet, a direct consequence of the subduction process that forms trenches.",
+        "et": "Sest see sukeldub meretasemest sügavamale, kui Mount Everest sellest kõrgemale kerkib, muutes selle kogu vertikaalse reljeefi planeedi kõige äärmuslikumaks, mis on otsene tagajärg kraave moodustavast subduktsiooniprotsessist.",
+        "sourceHash": "9ea3ef0a5de99774",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't actually more extreme -- ocean depressions are inherently less significant than mountains since the ocean floor is flat and featureless overall.",
+        "et": "See ei ole tegelikult äärmuslikum -- ookeani süvendid on olemuslikult vähem olulised kui mäed, kuna merepõhi on tervikuna lame ja tunnusteta.",
+        "sourceHash": "354fc0774892801c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ocean-basin-structure-and-seafloor-topography-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because trenches and ridges are unrelated random features, and the Mariana Trench simply happens to be an unusually deep random depression.",
+        "et": "Sest kraavid ja seljandikud on omavahel mitteseotud juhuslikud tunnused ning Mariaani kraav on lihtsalt juhuslikult ebatavaliselt sügav süvend.",
+        "sourceHash": "c72e554b095c0260",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ocean-basin-structure-and-seafloor-topography-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the trench is actually part of the continental shelf, which extends unusually far in that region, making it geologically continuous with continental crust.",
+        "et": "Sest kraav on tegelikult osa mandrilavast, mis ulatub selles piirkonnas ebatavaliselt kaugele, muutes selle geoloogiliselt pidevaks mandrikoorikuga.",
+        "sourceHash": "b07588267bdaa6d5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "ocean-basin-structure-and-seafloor-topography-m3"
+    }
+  ]
+}

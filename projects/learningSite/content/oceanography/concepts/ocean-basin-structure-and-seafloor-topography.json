@@ -1,0 +1,19 @@
+{
+  "id": "ocean-basin-structure-and-seafloor-topography",
+  "subject": "oceanography",
+  "level": "L1",
+  "module": "oceanography-fundamentals",
+  "title": {
+    "en": "Ocean basin structure and seafloor topography",
+    "et": "Ookeanibasseini struktuur ja merepõhja topograafia",
+    "sourceHash": "4730b23054606775",
+    "stale": false
+  },
+  "summary": {
+    "en": "The ocean floor is not a flat, featureless basin but the most dramatic topography on the planet, built by the same plate-tectonic processes that shape the continents. Mid-ocean ridges -- continuous submarine mountain chains tens of thousands of kilometers long -- mark divergent boundaries where new oceanic crust forms and spreads apart, making them the longest mountain range on Earth even though almost no one ever sees them. Where oceanic plates instead converge and one is forced beneath another, deep ocean trenches form -- the Mariana Trench plunges deeper below sea level than Mount Everest rises above it, making it the single most extreme vertical relief anywhere on the planet. Between these active plate-boundary features lie the abyssal plains, vast, remarkably flat expanses of deep seafloor blanketed by fine sediment that has settled out of the water column over millions of years, and along the margins of continents, the shallow, gently sloping continental shelf gives way at the shelf break to the steeper continental slope, which itself flattens into the continental rise before reaching the abyssal plain proper -- a structural sequence that maps directly onto where continental crust ends and true oceanic crust begins.",
+    "et": "Merepõhi ei ole lame, tunnusteta bassein, vaid planeedi kõige dramaatilisem topograafia, mille on kujundanud samad plaattektoonilised protsessid, mis kujundavad mandreid. Keskookeani seljandikud -- pidevad allveelised mäeahelikud, mis on kümneid tuhandeid kilomeetreid pikad -- tähistavad lahknevaid piire, kus tekib uus ookeanikoorik ja lükkub laiali, muutes need Maa pikimaks mäeahelikuks, kuigi peaaegu keegi neid kunagi ei näe. Kus ookeaniplaadid selle asemel põrkuvad kokku ja üks surutakse teise alla, tekivad sügavad ookeanikraavid -- Mariaani kraav sukeldub meretasemest sügavamale, kui Mount Everest sellest kõrgemale kerkib, muutes selle kõige äärmuslikumaks vertikaalseks reljeefiks kogu planeedil. Nende aktiivsete plaadipiiri tunnuste vahel asuvad sügavikutasandikud, tohutud, märkimisväärselt lamedad sügava merepõhja alad, mida katab peen sete, mis on sadestunud veesambast miljonite aastate jooksul, ning mandrite servadel annab madal, õrnalt kalduv mandrilava šelfiservas teed järsemale mandrinõlvale, mis omakorda lameneb mandrijalamiks enne, kui jõuab tõelisele sügavikutasandikule -- struktuurne järjestus, mis kaardistab otseselt selle, kus mandriline koorik lõpeb ja tõeline ookeanikoorik algab.",
+    "sourceHash": "b4b97e0425cea4aa",
+    "stale": false
+  },
+  "prerequisites": []
+}
