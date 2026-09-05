@@ -794,4 +794,74 @@ organ-system-pathophysiology modules. `npm run validate:content` (9
 subjects, 606 concepts), `npm run lint:terminology` (266 glossary terms),
 and `npm run typecheck` all pass; working tree clean.
 
+Process note: Phase Med5's `endocrinology` fork continued unprompted past
+its own module through Med5's closing summary, all of Phase Med6, and into
+scoping/authoring Phase Med7, unable to sub-fork further work (forking is
+apparently unavailable to an agent that is itself a fork) and so
+authoring everything directly instead. Content quality throughout was
+consistently good — including catching a genuine gap (Med1 never gave the
+renal/urinary system its own anatomy-and-physiology concept) and fixing it
+in-place rather than leaving it — so none of it was reverted, but the
+coordinator (not the fork) should be the one scoping and judging phases;
+see `QUESTIONS.md` for the full note. Told the fork to stop after Med7,
+which it did cleanly.
+
+## Phase Med8 — hematology/oncology, and musculoskeletal medicine/
+## rheumatology
+
+Two more modules, six concepts each, back to the coordinator-dispatched
+parallel-fork pattern (roadmap items 15-16). Checked overlap:
+`general-pathology`'s `neoplasia-and-cancer-biology` stays the general
+mechanism (benign vs. malignant, hallmarks of cancer, oncogenes/tumor
+suppressors); `hematology-and-oncology` below builds hematologic-specific
+and treatment-mechanism depth on top of it rather than restating it.
+
+### Module `hematology-and-oncology`
+
+- [ ] Erythropoiesis and anemia mechanisms (red blood cell production, and
+      anemia classified by mechanism — production failure, hemolysis, blood
+      loss; no prerequisites)
+- [ ] Hemostasis disorders and coagulopathies (clotting factor deficiencies
+      e.g. hemophilia, platelet disorders, the disseminated intravascular
+      coagulation mechanism; prerequisite: thrombosis-embolism-and-
+      infarction)
+- [ ] Leukemia and lymphoma mechanisms (clonal proliferation of
+      hematopoietic/lymphoid cells, what mechanistically distinguishes
+      leukemia from lymphoma; prerequisites: neoplasia-and-cancer-biology,
+      the-cell-cycle-and-mitosis)
+- [ ] Transfusion medicine and blood group immunology (ABO/Rh blood group
+      systems, the transfusion-reaction mechanism as an immune response;
+      prerequisite: antibody-structure-and-function)
+- [ ] Cancer chemotherapy mechanisms and drug resistance (how chemotherapy
+      and targeted therapy work mechanistically, mechanisms tumors use to
+      develop drug resistance; prerequisites: neoplasia-and-cancer-biology,
+      pharmacodynamics-and-drug-receptor-interactions)
+- [ ] Paraneoplastic and oncologic emergency mechanisms (tumor lysis
+      syndrome, hypercalcemia of malignancy, SIADH — as mechanistic
+      categories, not a clinical-management reference; prerequisite:
+      neoplasia-and-cancer-biology)
+
+### Module `musculoskeletal-medicine-and-rheumatology`
+
+- [ ] Osteoarthritis and joint degeneration mechanisms (cartilage
+      breakdown — mechanical and biochemical drivers; prerequisite:
+      skeletal-system-anatomy-and-physiology)
+- [ ] Rheumatoid arthritis and autoimmune joint disease (synovial
+      inflammation mechanism, mechanistically distinct from osteoarthritis;
+      prerequisite: autoimmunity-and-hypersensitivity)
+- [ ] Osteoporosis and bone remodeling disorders (the osteoblast/osteoclast
+      balance and what disrupts it; prerequisites: skeletal-system-
+      anatomy-and-physiology, thyroid-and-parathyroid-physiology)
+- [ ] Muscle disease mechanisms: myopathies and dystrophies (muscular
+      dystrophy mechanisms, inflammatory myopathies; prerequisite:
+      muscular-system-anatomy-and-physiology)
+- [ ] Gout and crystal arthropathies (uric acid crystal deposition
+      mechanism — ties to the existing nephrolithiasis-mechanisms concept's
+      uric acid angle from a joint-disease direction instead of a kidney-
+      stone one; prerequisite: osteoarthritis-and-joint-degeneration-
+      mechanisms)
+- [ ] Systemic autoimmune connective tissue diseases (lupus and systemic
+      sclerosis as multi-organ autoimmune mechanism categories;
+      prerequisite: autoimmunity-and-hypersensitivity)
+
 ---
