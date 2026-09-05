@@ -1,0 +1,21 @@
+{
+  "id": "pigmentation-disorders-and-melanocyte-biology",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "dermatology",
+  "title": {
+    "en": "Pigmentation disorders and melanocyte biology",
+    "et": "Pigmentatsioonihäired ja melanotsüütide bioloogia",
+    "sourceHash": "753d81cecc1b28eb",
+    "stale": false
+  },
+  "summary": {
+    "en": "Skin color comes from melanin produced by melanocytes and transferred to surrounding keratinocytes, so pigmentation disorders divide cleanly by which step of that process fails: vitiligo results from the immune system mistakenly destroying melanocytes themselves (an autoimmune mechanism, leaving patches of skin with no pigment-producing cells at all), albinism results from an inherited defect in the enzymes needed to synthesize melanin even though the melanocytes themselves are present and otherwise intact, and hyperpigmentation conditions result from melanocytes producing excess melanin (often triggered by inflammation, hormones, or UV exposure) rather than any deficiency at all -- three mechanistically distinct categories that happen to all be visible as changes in skin color.",
+    "et": "Naha värv tuleb melanotsüütide toodetud melaniinist, mis kantakse üle ümbritsevatele keratinotsüütidele, mistõttu pigmentatsioonihäired jagunevad selgelt selle järgi, milline selle protsessi etapp ebaõnnestub: vitiliigo tuleneb sellest, et immuunsüsteem hävitab ekslikult melanotsüüdid endid (autoimmuunne mehhanism, jättes maha nahalaigud, kus pigmenti tootvad rakud puuduvad täielikult), albinism tuleneb päritud defektist melaniini sünteesiks vajalikes ensüümides, kuigi melanotsüüdid ise on olemas ja muidu terved, ning hüperpigmentatsiooni seisundid tulenevad sellest, et melanotsüüdid toodavad liigset melaniini (sageli põletiku, hormoonide või UV-kiirguse käivitatuna), mitte üldse mingist puudujäägist -- kolm mehhanistlikult eristuvat kategooriat, mis kõik juhtuvad olema nähtavad naha värvi muutustena.",
+    "sourceHash": "2df6457da24dbdcc",
+    "stale": false
+  },
+  "prerequisites": [
+    "integumentary-system-anatomy-and-physiology"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pigmentation-disorders-and-melanocyte-biology-item1",
+  "conceptId": "pigmentation-disorders-and-melanocyte-biology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patch of skin has lost all pigmentation. Why is it important to determine whether this is vitiligo or albinism before assuming they're the same underlying problem?",
+    "et": "Nahalaik on kaotanud kogu pigmentatsiooni. Miks on oluline kindlaks teha, kas tegemist on vitiliigo või albinismiga, enne kui eeldada, et need on sama alusprobleem?",
+    "sourceHash": "21044a6ab5c1a6e5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because they're mechanistically distinct: vitiligo is autoimmune destruction of melanocytes themselves, while albinism is an enzyme defect that leaves intact melanocytes unable to synthesize melanin -- different underlying processes despite a similar visible result.",
+        "et": "Sest need on mehhanistlikult eristuvad: vitiliigo on melanotsüütide autoimmuunne hävitamine, samas kui albinism on ensüümi defekt, mis jätab terved melanotsüüdid võimetuks melaniini sünteesima -- erinevad alusprotsessid, hoolimata sarnasest nähtavast tulemusest.",
+        "sourceHash": "8caf30f02f619d61",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They aren't actually distinct — both vitiligo and albinism mean the person has no melanocytes present in the affected skin at all.",
+        "et": "Need ei ole tegelikult eristuvad — nii vitiliigo kui albinism tähendavad, et mõjutatud nahas puuduvad melanotsüüdid täielikult.",
+        "sourceHash": "7d2cd0ff9eea5f25",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pigmentation-disorders-and-melanocyte-biology-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Vitiligo occurs when melanocytes simply run out of melanin to produce over time, the same gradual depletion process that underlies albinism.",
+        "et": "Vitiliigo tekib siis, kui melanotsüütidel saab aja jooksul lihtsalt melaniin otsa, sama järkjärguline ammendumisprotsess, mis on albinismi aluseks.",
+        "sourceHash": "63d6ebb68e6a776d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pigmentation-disorders-and-melanocyte-biology-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Neither condition involves melanocytes at all — both result from a keratinocyte-level defect unrelated to pigment-producing cells.",
+        "et": "Kumbki seisund ei ole seotud melanotsüütidega üldse — mõlemad tulenevad keratinotsüütide tasandi defektist, mis pole seotud pigmenti tootvate rakkudega.",
+        "sourceHash": "b79cbbba34479b5e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pigmentation-disorders-and-melanocyte-biology-m3"
+    }
+  ]
+}
