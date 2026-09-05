@@ -1,0 +1,10 @@
+{
+  "id": "substance-use-disorder-mechanisms-m2",
+  "conceptId": "substance-use-disorder-mechanisms",
+  "text": {
+    "en": "Different addictive substances (opioids, stimulants, alcohol, nicotine) work through completely unrelated mechanisms with nothing in common -- despite acting on very different initial receptors, virtually all addictive substances converge on increasing dopamine signaling in the same mesolimbic reward pathway (VTA to nucleus accumbens), which is exactly why they share so many features (tolerance, withdrawal, craving) despite their different starting points.",
+    "et": "Erinevad sõltuvust tekitavad ained (opioidid, stimulandid, alkohol, nikotiin) toimivad täiesti mitteseotud mehhanismide kaudu, millel pole midagi ühist -- hoolimata väga erinevatele esialgsetele retseptoritele toimimisest koonduvad peaaegu kõik sõltuvust tekitavad ained dopamiini signalisatsiooni suurendamisele samas mesolimbilises tasurajas (VTA-st nucleus accumbensesse), mis ongi täpselt põhjus, miks need jagavad nii palju ühiseid jooni (tolerantsus, võõrutus, iha) hoolimata erinevatest lähtepunktidest.",
+    "sourceHash": "cffffba38de91209",
+    "stale": false
+  }
+}

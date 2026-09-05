@@ -1,0 +1,21 @@
+{
+  "id": "substance-use-disorder-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "psychiatry-and-behavioral-medicine",
+  "title": {
+    "en": "Substance use disorder mechanisms",
+    "et": "Ainete tarvitamise häire mehhanismid",
+    "sourceHash": "2cedc135b22ac5fd",
+    "stale": false
+  },
+  "summary": {
+    "en": "Virtually every substance capable of producing addiction -- opioids, stimulants, alcohol, nicotine -- converges on a common final pathway despite acting through completely different initial receptors: each ultimately increases dopamine signaling in the mesolimbic reward circuit (particularly the projection from the ventral tegmental area to the nucleus accumbens), the same circuit that normally reinforces evolutionarily useful behaviors like eating and social bonding by making them feel rewarding. Repeated activation of this pathway drives genuine neuroadaptation rather than a purely psychological habit: postsynaptic dopamine receptors downregulate in response to repeated overstimulation, requiring a larger dose of the substance to produce the same subjective effect (tolerance), and once the substance is removed, the now-understimulated reward circuit produces a genuine physiological withdrawal state rather than merely psychological discomfort. This is also why the same reward pathway can be recruited by cues and contexts associated with substance use (a particular location, a particular time of day, a particular emotional state) well after the drug itself is gone, producing craving through learned association -- a mechanism substance use disorder shares with ordinary reward-based learning, just applied to a substance that hijacks the circuit more powerfully than any natural reward can.",
+    "et": "Peaaegu iga sõltuvust tekitav aine -- opioidid, stimulandid, alkohol, nikotiin -- koondub ühisele lõpprajale, hoolimata sellest, et need toimivad täiesti erinevate esialgsete retseptorite kaudu: iga aine lõpuks suurendab dopamiini signalisatsiooni mesolimbilises tasuahelas (eriti projektsioonis ventraalsest tegmentaalsest alast nucleus accumbensesse), samas ahelas, mis tavaliselt tugevdab evolutsiooniliselt kasulikke käitumisviise nagu söömine ja sotsiaalne sidemete loomine, muutes need tasuvaks tundma. Selle raja korduv aktiveerimine käivitab tõelise neurokohanemise, mitte puhtalt psühholoogilise harjumuse: postsünaptilised dopamiini retseptorid alareguleeruvad vastuseks korduvale ülestimulatsioonile, nõudes sama subjektiivse efekti saavutamiseks suuremat aine annust (tolerantsus), ning kui aine eemaldatakse, tekitab nüüd alastimuleeritud tasuahel tõelise füsioloogilise võõrutusseisundi, mitte lihtsalt psühholoogilise ebamugavuse. See on ka põhjus, miks sama tasuraja saavad aktiveerida aine kasutamisega seotud vihjed ja kontekstid (kindel asukoht, kindel kellaaeg, kindel emotsionaalne seisund) kaua pärast aine enda kadumist, tekitades iha õpitud assotsiatsiooni kaudu -- mehhanism, mida ainete tarvitamise häire jagab tavalise tasupõhise õppimisega, ainult rakendatuna ainele, mis kaaperdab ahela võimsamalt kui ükski loomulik tasu suudaks.",
+    "sourceHash": "78a521df97b32b06",
+    "stale": false
+  },
+  "prerequisites": [
+    "synaptic-transmission-and-neurotransmitters"
+  ]
+}

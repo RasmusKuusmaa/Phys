@@ -1,0 +1,56 @@
+{
+  "id": "substance-use-disorder-mechanisms-item1",
+  "conceptId": "substance-use-disorder-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do opioids, stimulants, alcohol, and nicotine -- despite acting on completely different receptors initially -- all produce tolerance and withdrawal with broadly similar features?",
+    "et": "Miks tekitavad opioidid, stimulandid, alkohol ja nikotiin -- hoolimata sellest, et need toimivad esialgu täiesti erinevatele retseptoritele -- kõik tolerantsust ja võõrutust laialdaselt sarnaste tunnustega?",
+    "sourceHash": "9b95f1d5c9cde589",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because each substance ultimately converges on increasing dopamine signaling in the same mesolimbic reward pathway, and repeated overstimulation of that shared pathway drives the same underlying receptor-downregulation (tolerance) and withdrawal mechanism regardless of which receptor first triggered it.",
+        "et": "Sest iga aine koondub lõpuks dopamiini signalisatsiooni suurendamisele samas mesolimbilises tasurajas ning selle jagatud raja korduv ülestimulatsioon käivitab sama aluseks oleva retseptorite alareguleerumise (tolerantsus) ja võõrutusmehhanismi, sõltumata sellest, milline retseptor selle esmalt käivitas.",
+        "sourceHash": "677936af2b364b4f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It's a coincidence -- each substance acts through an entirely separate, unrelated mechanism, and the similar symptoms just happen to look alike without a shared underlying cause.",
+        "et": "See on kokkusattumus -- iga aine toimib täiesti eraldiseisva, mitteseotud mehhanismi kaudu ning sarnased sümptomid lihtsalt näivad sarnased ilma jagatud aluseks oleva põhjuseta.",
+        "sourceHash": "47e9df5f6aea2faf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "substance-use-disorder-mechanisms-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It reflects a shared psychological weakness in people who become addicted, rather than any common physiological pathway across the substances themselves.",
+        "et": "See peegeldab jagatud psühholoogilist nõrkust inimestel, kes muutuvad sõltlaseks, mitte mingit ühist füsioloogilist rada ainete endi vahel.",
+        "sourceHash": "7183c7ca1a8178c3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "substance-use-disorder-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The tolerance and withdrawal must be occurring only while the substance is still chemically present in the bloodstream, since no lasting change to the brain's circuitry would explain effects appearing after the substance clears.",
+        "et": "Tolerantsus ja võõrutus peavad toimuma ainult siis, kui aine on veel keemiliselt vereringes olemas, kuna ükski püsiv muutus aju ahelates ei seletaks toimeid, mis ilmnevad pärast aine eemaldumist.",
+        "sourceHash": "2a19e7c0d7dc2f72",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "substance-use-disorder-mechanisms-m3"
+    }
+  ]
+}

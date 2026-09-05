@@ -1,0 +1,10 @@
+{
+  "id": "substance-use-disorder-mechanisms-m3",
+  "conceptId": "substance-use-disorder-mechanisms",
+  "text": {
+    "en": "Craving only happens while the substance is still physically present in the body, so someone who has fully metabolized/cleared a substance should feel no urge to use it again -- cues and contexts associated with past substance use (a location, time, emotional state) can activate the same reward circuitry through learned association long after the substance itself is gone, producing genuine craving via ordinary reward-learning mechanisms, not because any of the substance remains in the body.",
+    "et": "Iha tekib ainult siis, kui aine on kehas veel füüsiliselt olemas, mistõttu inimene, kes on aine täielikult ainevahetuse kaudu lagundanud/eemaldanud, ei peaks tundma soovi seda uuesti tarvitada -- varasema aine tarvitamisega seotud vihjed ja kontekstid (asukoht, aeg, emotsionaalne seisund) võivad aktiveerida sama tasuahela õpitud assotsiatsiooni kaudu kaua pärast aine enda kadumist, tekitades tõelise iha tavaliste tasupõhise õppimise mehhanismide kaudu, mitte seetõttu, et kehas oleks veel ainet alles.",
+    "sourceHash": "b2db788a3d73c600",
+    "stale": false
+  }
+}
