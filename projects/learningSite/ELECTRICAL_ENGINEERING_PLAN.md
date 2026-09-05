@@ -66,31 +66,44 @@ Single module for now (`electrical-engineering-fundamentals`), same
 one-module-through-later-phases pattern every new subject on this site has
 started with.
 
-- [ ] Digital logic and Boolean algebra (logic gates — AND/OR/NOT/NAND/
+- [x] Digital logic and Boolean algebra (logic gates — AND/OR/NOT/NAND/
       NOR/XOR — Boolean algebra, and truth tables for basic combinational
       logic; no prerequisites — the unifying framework
-      `embedded-systems-and-microcontrollers` builds on)
-- [ ] Semiconductor devices: diodes and transistors (the p-n junction
+      `embedded-systems-and-microcontrollers` builds on; kept conceptual)
+- [x] Semiconductor devices: diodes and transistors (the p-n junction
       diode's rectifying behavior, and the transistor's function as a
       switch/amplifier — the device-engineering layer, distinct from
-      physics's existing doping-mechanism concept; no prerequisites)
-- [ ] Analog electronics and amplifier design (operational amplifiers,
+      physics's existing doping-mechanism concept; no prerequisites;
+      kept conceptual)
+- [x] Analog electronics and amplifier design (operational amplifiers,
       amplifier gain and feedback, basic analog circuit design
       principles; prerequisite: semiconductor-devices-diodes-and-
-      transistors; a genuine gain-formula candidate)
-- [ ] Analog-to-digital conversion and signal conditioning (practical
+      transistors; formalised the non-inverting op-amp gain relationship,
+      A = 1 + Rf/Rin, as a formula + problem template + error model)
+- [x] Analog-to-digital conversion and signal conditioning (practical
       ADC/DAC circuit design, and anti-aliasing filter design — the
       applied engineering layer on top of physics's existing general
-      signal-theory concept; no prerequisites)
-- [ ] Power systems and transformers (AC power transmission, transformer
+      signal-theory concept; no prerequisites; kept conceptual)
+- [x] Power systems and transformers (AC power transmission, transformer
       operation via the turns ratio, and three-phase power at an
-      overview level; no prerequisites; a genuine turns-ratio formula
-      candidate)
-- [ ] Embedded systems and microcontrollers (microcontroller architecture
+      overview level; no prerequisites; formalised the transformer
+      turns-ratio relationship, V1/V2 = N1/N2, as a formula + problem
+      template + error model)
+- [x] Embedded systems and microcontrollers (microcontroller architecture
       basics — distinct from `computing`'s general-purpose von-Neumann-
       model concept, this is embedded-specific: I/O peripherals,
       interrupts, real-time constraints — and embedded system design
-      tradeoffs; prerequisite: digital-logic-and-boolean-algebra)
+      tradeoffs; prerequisite: digital-logic-and-boolean-algebra; kept
+      conceptual)
+
+Phase EE1 complete: 6 electrical-engineering concepts. Authored directly
+by the coordinator (not a fork) after this same directive was handed to a
+worker fork of this session. Two of six got a formula (op-amp gain,
+transformer turns ratio) — both reused existing glossary terms
+(`gain`, `resistance`, `voltage`, `number-of-turns`) with no new terms
+needed. All 12 resource URLs individually curl-verified live. `npm run
+validate:content` (16 subjects, 695 concepts), `npm run lint:terminology`
+(276 glossary terms), and `npm run typecheck` all pass; working tree clean.
 
 ## Phase EE2 — not yet planned
 
