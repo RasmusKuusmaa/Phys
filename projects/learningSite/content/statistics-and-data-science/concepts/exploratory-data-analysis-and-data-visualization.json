@@ -1,0 +1,19 @@
+{
+  "id": "exploratory-data-analysis-and-data-visualization",
+  "subject": "statistics-and-data-science",
+  "level": "L1",
+  "module": "statistics-fundamentals",
+  "title": {
+    "en": "Exploratory data analysis and data visualization",
+    "et": "Andmete uurimuslik analüüs ja visualiseerimine",
+    "sourceHash": "9830dde483bc8074",
+    "stale": false
+  },
+  "summary": {
+    "en": "Before fitting any formal model, a dataset needs to be looked at directly -- exploratory data analysis is the deliberate practice of summarizing and visualizing data first, precisely because summary statistics computed in isolation can be dangerously misleading about what the data actually looks like. The mean, median, and mode can each tell a different story about a dataset's center, and only one of them is robust to outliers (the median, since it depends on rank order rather than the actual magnitude of extreme values, while the mean can be dragged arbitrarily far by a single extreme point); a distribution's shape -- whether it's symmetric, skewed toward high or low values, or has multiple peaks -- changes what 'typical' even means for that dataset, and no single summary number can fully capture it. This is exactly why visualization is not a cosmetic final step but a core analytical tool: a histogram or scatter plot can immediately reveal a skewed distribution, an unexpected cluster, or an outlier that identical-looking summary statistics computed on two very different-looking datasets would never expose on their own.",
+    "et": "Enne mistahes formaalse mudeli sobitamist tuleb andmestikku otse vaadata -- andmete uurimuslik analüüs on tahtlik praktika andmete kokkuvõtmiseks ja visualiseerimiseks kõigepealt, just seetõttu, et isoleeritult arvutatud kokkuvõtvad statistikud võivad olla ohtlikult eksitavad selle kohta, kuidas andmed tegelikult välja näevad. Keskmine, mediaan ja moodus võivad igaüks rääkida erinevat lugu andmestiku keskpunkti kohta, ning ainult üks neist on tugev erindite suhtes (mediaan, kuna see sõltub järjestusest, mitte äärmuslike väärtuste tegelikust suurusest, samas kui keskmist saab ühe äärmusliku punktiga suvaliselt kaugele lohistada); jaotuse kuju -- kas see on sümmeetriline, kaldub kõrgete või madalate väärtuste poole, või on mitme tipuga -- muudab seda, mida 'tüüpiline' selle andmestiku jaoks üldse tähendab, ning ükski üksik kokkuvõttev arv ei suuda seda täielikult tabada. See ongi täpselt põhjus, miks visualiseerimine ei ole kosmeetiline lõppetapp, vaid põhiline analüütiline tööriist: histogramm või hajuvusdiagramm võib koheselt paljastada kaldunud jaotuse, ootamatu klastri või erindi, mida kahel väga erineva välimusega andmestikul identsena näivad kokkuvõtvad statistikud iial iseenesest ei paljasta.",
+    "sourceHash": "ee99c4c034a584f2",
+    "stale": false
+  },
+  "prerequisites": []
+}

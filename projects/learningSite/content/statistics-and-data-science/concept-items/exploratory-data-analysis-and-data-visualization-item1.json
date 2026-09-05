@@ -1,0 +1,56 @@
+{
+  "id": "exploratory-data-analysis-and-data-visualization-item1",
+  "conceptId": "exploratory-data-analysis-and-data-visualization",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two datasets have identical means (50) and identical standard deviations (10). A histogram shows one is symmetric and bell-shaped, while the other is heavily skewed with a long tail and a few extreme outliers. What does this best illustrate?",
+    "et": "Kahel andmestikul on identsed keskmised (50) ja identsed standardhälbed (10). Histogramm näitab, et üks on sümmeetriline ja kellukujuline, samas kui teine on tugevalt kaldunud, pika sabaga ja mõne äärmusliku erindiga. Mida see kõige paremini illustreerib?",
+    "sourceHash": "3186c709a1b57db9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Summary statistics like the mean and standard deviation alone can't distinguish very different distribution shapes, which is exactly why visualization is a core analytical step, not a cosmetic one.",
+        "et": "Kokkuvõtvad statistikud nagu keskmine ja standardhälve üksi ei suuda eristada väga erinevaid jaotuse kujusid, mis ongi täpselt põhjus, miks visualiseerimine on põhiline analüütiline samm, mitte kosmeetiline.",
+        "sourceHash": "8097c3c478ad814f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This must be a calculation error -- two datasets with identical mean and standard deviation are mathematically required to have the same distribution shape.",
+        "et": "See peab olema arvutusviga -- kahel andmestikul identse keskmise ja standardhälbega peab matemaatiliselt olema sama jaotuse kuju.",
+        "sourceHash": "909ceab5e23a72b2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "exploratory-data-analysis-and-data-visualization-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The skewed dataset's mean of 50 must actually be a typo, since a skewed distribution with outliers can't have the same mean as a symmetric one.",
+        "et": "Kaldunud andmestiku keskmine 50 peab olema tegelikult kirjaviga, kuna erinditega kaldunud jaotusel ei saa olla sama keskmine kui sümmeetrilisel.",
+        "sourceHash": "451cae7f0cc5a278",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "exploratory-data-analysis-and-data-visualization-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Visualization only matters for presenting results to others; since the summary statistics already matched, no further analytical steps were actually necessary here.",
+        "et": "Visualiseerimine on oluline ainult tulemuste esitamiseks teistele; kuna kokkuvõtvad statistikud juba ühtisid, ei olnud siin täiendavaid analüütilisi samme tegelikult vaja.",
+        "sourceHash": "bd0530d9b43f57d3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "exploratory-data-analysis-and-data-visualization-m3"
+    }
+  ]
+}

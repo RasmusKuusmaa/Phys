@@ -1,0 +1,10 @@
+{
+  "id": "exploratory-data-analysis-and-data-visualization-m2",
+  "conceptId": "exploratory-data-analysis-and-data-visualization",
+  "text": {
+    "en": "The mean is always the best/most representative measure of a dataset's center, regardless of the data's shape -- in reality, the mean can be dragged arbitrarily far from where most of the data actually sits by even one extreme outlier, while the median (based on rank order, not magnitude) stays robust to such outliers, making it the more representative choice for skewed data.",
+    "et": "Keskmine on alati andmestiku keskpunkti parim/kõige esinduslikum mõõt, sõltumata andmete kujust -- tegelikult saab keskmist ühegi äärmusliku erindi poolt lohistada suvaliselt kaugele sellest, kus enamik andmeid tegelikult asub, samas kui mediaan (mis põhineb järjestusel, mitte suurusel) jääb selliste erindite suhtes tugevaks, muutes selle kaldunud andmete jaoks esinduslikumaks valikuks.",
+    "sourceHash": "662edd61fb041081",
+    "stale": false
+  }
+}

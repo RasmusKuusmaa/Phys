@@ -1,0 +1,10 @@
+{
+  "id": "exploratory-data-analysis-and-data-visualization-m3",
+  "conceptId": "exploratory-data-analysis-and-data-visualization",
+  "text": {
+    "en": "Data visualization is mainly a presentation/communication step for the final report, not something that changes the actual analysis itself -- in reality, exploratory visualization routinely reveals problems (skew, outliers, unexpected clusters, non-linear relationships) that change which statistical method or model is even appropriate to use, making it a core part of the analysis, not just a decorative afterthought.",
+    "et": "Andmete visualiseerimine on peamiselt esitlus-/kommunikatsioonisamm lõpparuande jaoks, mitte miski, mis muudaks tegelikku analüüsi ennast -- tegelikult paljastab uurimuslik visualiseerimine rutiinselt probleeme (kalle, erindid, ootamatud klastrid, mittelineaarsed seosed), mis muudavad seda, milline statistiline meetod või mudel on üldse sobiv kasutada, muutes selle analüüsi põhiosaks, mitte lihtsalt dekoratiivseks järelmõtteks.",
+    "sourceHash": "cc397399a336184f",
+    "stale": false
+  }
+}

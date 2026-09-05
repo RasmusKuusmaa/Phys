@@ -1,0 +1,10 @@
+{
+  "id": "exploratory-data-analysis-and-data-visualization-m1",
+  "conceptId": "exploratory-data-analysis-and-data-visualization",
+  "text": {
+    "en": "Two datasets with the same mean and standard deviation must look basically the same / have the same shape -- in reality, wildly different-looking distributions (skewed vs. symmetric, single-peaked vs. multi-modal, with or without outliers) can share nearly identical summary statistics, which is exactly why a visualization is needed to actually see the shape a handful of numbers can hide.",
+    "et": "Kaks andmestikku sama keskmise ja standardhälbega peavad välja nägema sisuliselt samasugused / sama kujuga -- tegelikult võivad väga erineva välimusega jaotused (kaldunud vs. sümmeetriline, ühetipuline vs. mitmetipuline, erinditega või ilma) jagada peaaegu identseid kokkuvõtvaid statistikuid, mis ongi täpselt põhjus, miks on vaja visualiseerimist, et tegelikult näha kuju, mida käputäis arve võib varjata.",
+    "sourceHash": "158edb15ac55308b",
+    "stale": false
+  }
+}
