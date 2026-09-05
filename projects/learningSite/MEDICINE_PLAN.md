@@ -1051,27 +1051,44 @@ manual (no DSM-style criteria checklists).
 
 ### Module `psychiatry-and-behavioral-medicine`
 
-- [ ] Mood disorder mechanisms (the monoamine and circuit-level hypotheses
+- [x] Mood disorder mechanisms (the monoamine and circuit-level hypotheses
       for depression and bipolar disorder, and their real evidentiary
       limits — not a diagnostic-criteria reference; prerequisite:
-      synaptic-transmission-and-neurotransmitters)
-- [ ] Anxiety disorder mechanisms (amygdala/fear-circuit function, the
+      synaptic-transmission-and-neurotransmitters; kept conceptual)
+- [x] Anxiety disorder mechanisms (amygdala/fear-circuit function, the
       autonomic nervous system's role in the anxiety response;
       prerequisites: the-peripheral-and-autonomic-nervous-systems,
-      the-central-nervous-system-brain-structure-and-function)
-- [ ] Psychotic disorder mechanisms (the dopamine hypothesis of psychosis
+      the-central-nervous-system-brain-structure-and-function; kept
+      conceptual)
+- [x] Psychotic disorder mechanisms (the dopamine hypothesis of psychosis
       and its limits, at a mechanistic level; prerequisite: synaptic-
-      transmission-and-neurotransmitters)
-- [ ] Substance use disorder mechanisms (the reward-circuit/dopamine
+      transmission-and-neurotransmitters; kept conceptual)
+- [x] Substance use disorder mechanisms (the reward-circuit/dopamine
       mechanism common to addictive substances, tolerance and withdrawal
       as neuroadaptation; prerequisite: synaptic-transmission-and-
-      neurotransmitters)
-- [ ] Stress, the HPA axis, and psychosomatic mechanisms (how chronic
+      neurotransmitters; kept conceptual)
+- [x] Stress, the HPA axis, and psychosomatic mechanisms (how chronic
       psychological stress produces measurable physiological effects via
-      the HPA axis; prerequisite: adrenal-gland-physiology)
-- [ ] Sleep and circadian disorders in a clinical context (insomnia and
+      the HPA axis; prerequisite: adrenal-gland-physiology; kept
+      conceptual)
+- [x] Sleep and circadian disorders in a clinical context (insomnia and
       circadian-rhythm-disorder mechanisms at a clinical depth beyond
       biohacking's applied sleep-optimization concept; prerequisite:
-      the-central-nervous-system-brain-structure-and-function)
+      the-central-nervous-system-brain-structure-and-function; kept
+      conceptual)
+
+Module complete: 6 psychiatry-and-behavioral-medicine concepts, all kept
+conceptual — each concept's real content is a mechanistic model and its
+honest evidentiary limits (the monoamine hypothesis's timing mismatch, the
+dopamine hypothesis's positive/negative-symptom split, shared reward-
+pathway convergence across addictive substances, HPA-axis feedback
+disruption, hyperarousal vs. genuine clock-phase shift), not a single clean
+numeric relationship. No new glossary terms needed (no formula symbols
+introduced — this is the first purely neuroscience/psychiatry-domain
+vocabulary in the glossary-adjacent sense, written directly into prose per
+the same unreviewed-new-domain approach every prior new-vocabulary phase
+used). All 12 resource URLs individually curl-verified live. `npm run
+validate:content` (9 subjects, 642 concepts), `npm run lint:terminology`
+(266 glossary terms), and `npm run typecheck` all pass.
 
 ---
