@@ -1,0 +1,10 @@
+{
+  "id": "semiconductor-devices-diodes-and-transistors-m2",
+  "conceptId": "semiconductor-devices-diodes-and-transistors",
+  "text": {
+    "en": "A transistor amplifies a signal by literally making the input signal itself bigger/louder, the way a magnifying glass enlarges an image -- in reality, a transistor doesn't amplify the input signal directly -- a small varying current/voltage at its control terminal instead modulates a much larger current drawn from a separate power supply, so the amplified output's extra power comes from that supply, not from the small input signal itself.",
+    "et": "Transistor võimendab signaali, tehes sõna otseses mõttes sisendsignaali enda suuremaks/valjemaks, nii nagu luup suurendab pilti -- tegelikult ei võimenda transistor sisendsignaali otse -- väike muutuv vool/pinge selle juhtklemmil moduleerib selle asemel palju suuremat voolu, mis tuleb eraldi toiteallikast, mistõttu võimendatud väljundi lisaenergia tuleb sellest toiteallikast, mitte väikesest sisendsignaalist endast.",
+    "sourceHash": "1099b9c25a14df5b",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "semiconductor-devices-diodes-and-transistors-m3",
+  "conceptId": "semiconductor-devices-diodes-and-transistors",
+  "text": {
+    "en": "Because a transistor can act as a switch, and a switch is either fully on or off, a transistor can only ever be used digitally, never in an analog circuit -- in reality, the exact same physical device operates in two different regimes depending on how it's biased -- driven fully into saturation/cutoff, it acts as a binary switch (digital logic); biased into its linear/active region instead, the same transistor's output current varies continuously and proportionally with the input, exactly the regime analog amplifier circuits use.",
+    "et": "Kuna transistor võib toimida lülitina ja lüliti on kas täielikult sees või väljas, saab transistorit kasutada ainult digitaalselt, mitte kunagi analoogskeemis -- tegelikult töötab täpselt sama füüsiline seade kahes erinevas režiimis, sõltuvalt sellest, kuidas seda pingestatakse -- täielikult küllastuse/lõikumise piirkonda viiduna toimib see binaarse lülitina (digitaalloogika); selle asemel lineaarsesse/aktiivsesse piirkonda pingestatuna varieerub sama transistori väljundvool pidevalt ja proportsionaalselt sisendiga, mis ongi täpselt režiim, mida analoogvõimendiskeemid kasutavad.",
+    "sourceHash": "72060e9becc61f3a",
+    "stale": false
+  }
+}

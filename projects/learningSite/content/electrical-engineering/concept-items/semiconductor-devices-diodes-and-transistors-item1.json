@@ -1,0 +1,56 @@
+{
+  "id": "semiconductor-devices-diodes-and-transistors-item1",
+  "conceptId": "semiconductor-devices-diodes-and-transistors",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An AC-to-DC power adapter uses a diode to convert incoming alternating current into a one-directional current. What property of the diode makes this possible?",
+    "et": "Vahelduvvoolu alalisvooluks muutev toiteadapter kasutab sisenevat vahelduvvoolu üheks suunatud vooluks muutmiseks dioodi. Milline dioodi omadus teeb selle võimalikuks?",
+    "sourceHash": "497882fdd1500565",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The diode's p-n junction responds asymmetrically to voltage: forward bias collapses the depletion region and allows current through, while reverse bias widens it and blocks current almost entirely.",
+        "et": "Dioodi p-n siire reageerib pingele asümmeetriliselt: päripinge variseb tühjenduspiirkonna kokku ja lubab voolul läbi minna, samas kui vastupinge laiendab seda ja blokeerib voolu peaaegu täielikult.",
+        "sourceHash": "853fa164b9cea760",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The diode blocks current equally regardless of direction, smoothing out the AC waveform into a steady DC signal.",
+        "et": "Diood blokeerib voolu võrdselt, sõltumata suunast, siludes vahelduvvoolu lainekuju ühtlaseks alalisvoolu signaaliks.",
+        "sourceHash": "b96a8264d5f2e57e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "semiconductor-devices-diodes-and-transistors-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The diode amplifies only the positive half of the AC waveform, making it large enough to appear as a steady DC output.",
+        "et": "Diood võimendab ainult vahelduvvoolu lainekuju positiivset poolt, muutes selle piisavalt suureks, et see näiks ühtlase alalisvoolu väljundina.",
+        "sourceHash": "3acfd247b965f9ee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "semiconductor-devices-diodes-and-transistors-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The diode can only function this way when operated as a digital switch, alternating fully on and off in sync with the AC waveform.",
+        "et": "Diood saab niimoodi toimida ainult siis, kui seda kasutatakse digitaalse lülitina, vaheldudes täielikult sisse ja välja sünkroonis vahelduvvoolu lainekujuga.",
+        "sourceHash": "113b93a5a9624cc6",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "semiconductor-devices-diodes-and-transistors-m3"
+    }
+  ]
+}

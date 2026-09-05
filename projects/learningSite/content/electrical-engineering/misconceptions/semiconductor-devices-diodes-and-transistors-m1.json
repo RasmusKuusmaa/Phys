@@ -1,0 +1,10 @@
+{
+  "id": "semiconductor-devices-diodes-and-transistors-m1",
+  "conceptId": "semiconductor-devices-diodes-and-transistors",
+  "text": {
+    "en": "A diode blocks current equally in both directions, the way an open switch does -- in reality, a diode is asymmetric by design -- forward-biased, its depletion region collapses and current flows easily; reverse-biased, the depletion region widens and current is blocked almost entirely -- this direction-dependent behavior (rectification) is the diode's entire functional purpose, not an incidental property.",
+    "et": "Diood blokeerib voolu mõlemas suunas võrdselt, nii nagu avatud lüliti -- tegelikult on diood disaini poolest asümmeetriline -- päripingestatuna variseb selle tühjenduspiirkond kokku ja vool voolab kergelt; vastupingestatuna laieneb tühjenduspiirkond ja vool blokeeritakse peaaegu täielikult -- see suunast sõltuv käitumine (alaldamine) ongi dioodi kogu funktsionaalne eesmärk, mitte juhuslik omadus.",
+    "sourceHash": "d5a39b21f274de55",
+    "stale": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "semiconductor-devices-diodes-and-transistors",
+  "subject": "electrical-engineering",
+  "level": "L2",
+  "module": "electrical-engineering-fundamentals",
+  "title": {
+    "en": "Semiconductor devices: diodes and transistors",
+    "et": "Pooljuhtseadmed: dioodid ja transistorid",
+    "sourceHash": "5955096cc039cb6c",
+    "stale": false
+  },
+  "summary": {
+    "en": "A diode is built from a single p-n junction -- a boundary between p-type and n-type doped semiconductor material -- and that junction gives the device a strongly asymmetric response to voltage: applied one way (forward bias), the junction's built-in depletion region collapses and current flows easily; applied the other way (reverse bias), the depletion region widens and current is blocked almost entirely, which is exactly the rectifying behavior that lets a diode convert an alternating current into a one-directional current. A transistor extends this same p-n junction physics into a three-terminal device (two junctions back to back, as in an n-p-n or p-n-p bipolar junction transistor) where a small current or voltage applied at one terminal controls a much larger current flowing between the other two, and that control relationship is what lets a transistor function as either an amplifier (a small varying signal at the control terminal produces a much larger varying output) or as a switch (the control terminal simply toggles the larger current fully on or fully off, the basis of every digital logic gate built in silicon). It's worth being precise about what's being engineered here versus what's covered elsewhere: the doping and band-structure physics that make a semiconductor's charge carriers behave this way in the first place is a materials-physics question; how a p-n junction and a transistor behave as circuit elements -- what an engineer actually designs around -- is this concept's own territory.",
+    "et": "Diood on ehitatud ühest p-n siirdest -- p-tüüpi ja n-tüüpi legeeritud pooljuhtmaterjali piirist -- ning see siire annab seadmele tugevalt asümmeetrilise vastuse pingele: ühte pidi rakendatuna (päripinge), siirde sisseehitatud tühjenduspiirkond kokku variseb ja vool voolab kergelt; teistpidi rakendatuna (vastupinge), tühjenduspiirkond laieneb ja vool blokeeritakse peaaegu täielikult, mis ongi täpselt see alaldav käitumine, mis lubab dioodil muuta vahelduvvoolu üheks suunatud vooluks. Transistor laiendab sama p-n siirde füüsikat kolmeklemmiliseks seadmeks (kaks siiret selg selja vastas, nagu n-p-n või p-n-p bipolaarses siirdetransistoris), kus väike vool või pinge, mis rakendatakse ühele klemmile, juhib palju suuremat voolu, mis voolab kahe teise klemmi vahel, ning see juhtimissuhe ongi see, mis lubab transistoril toimida kas võimendina (väike muutuv signaal juhtklemmil tekitab palju suurema muutuva väljundi) või lülitina (juhtklemm lihtsalt lülitab suurema voolu täielikult sisse või välja, mis on aluseks igale ränis ehitatud digitaalsele loogikaväravale). Tasub olla täpne selles, mis siin projekteeritakse, võrreldes sellega, mis on kaetud mujal: legeerimise ja ribastruktuuri füüsika, mis paneb pooljuhi laengukandjad üldse niimoodi käituma, on materjalifüüsika küsimus; kuidas p-n siire ja transistor käituvad skeemielementidena -- see, mille ümber insener tegelikult projekteerib -- ongi selle mõiste enda territoorium.",
+    "sourceHash": "e655274f49b74f47",
+    "stale": false
+  },
+  "prerequisites": []
+}
