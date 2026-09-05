@@ -1,0 +1,10 @@
+{
+  "id": "gout-and-crystal-arthropathies-m1",
+  "conceptId": "gout-and-crystal-arthropathies",
+  "text": {
+    "en": "Gout is caused purely by eating too much red meat or drinking too much alcohol, a simple dietary disease with no underlying metabolic mechanism -- diet can raise urate levels, but most chronic hyperuricemia comes from reduced renal excretion of urate rather than dietary intake alone, and the disease mechanism is crystal precipitation once a solubility threshold is crossed, regardless of what specifically pushed urate concentration past that threshold.",
+    "et": "Podagra on põhjustatud puhtalt liigsest punase liha söömisest või alkoholi joomisest, lihtne toitumishaigus ilma aluseks oleva ainevahetusmehhanismita -- toitumine võib tõsta uraaditaset, kuid enamik kroonilist hüperurikeemiat tuleneb vähenenud uraadi eritumisest neerude kaudu, mitte üksnes toitumisest, ning haiguse mehhanism on kristalli sadenemine kord lahustuvuse läve ületamisel, sõltumata sellest, mis täpselt lükkas uraadikontsentratsiooni üle selle läve.",
+    "sourceHash": "83efdf4b06ec1234",
+    "stale": false
+  }
+}

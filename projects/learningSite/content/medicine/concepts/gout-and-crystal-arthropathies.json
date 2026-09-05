@@ -1,0 +1,21 @@
+{
+  "id": "gout-and-crystal-arthropathies",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "musculoskeletal-medicine-and-rheumatology",
+  "title": {
+    "en": "Gout and crystal arthropathies",
+    "et": "Podagra ja kristallartropaatiad",
+    "sourceHash": "164aee022d1657f2",
+    "stale": false
+  },
+  "summary": {
+    "en": "Gout begins with the same underlying chemistry as uric acid kidney stones -- urate is normally held in solution in body fluids up to a solubility limit, and when blood urate concentration rises chronically above that limit (from overproduction, most often from reduced renal excretion rather than diet alone, or occasionally from purine-rich intake), monosodium urate crystals eventually precipitate out, but in gout this precipitation happens within a joint space rather than in the urinary tract. Once urate crystals form in a joint, resident immune cells recognize them as a danger signal and mount an intense inflammatory response -- an acute gout attack -- that is a direct innate-immune reaction to a physical crystal, not an infection and not an autoimmune process targeting joint tissue itself, which is why a gout attack develops explosively over hours and resolves once the acute inflammatory response subsides, in sharp contrast to the slow, progressive courses of osteoarthritis or rheumatoid arthritis. Long-term management targets the same supersaturation chemistry underlying kidney stones -- lowering blood urate concentration below the point where crystals can form in the first place -- rather than only treating each attack's inflammation after the fact.",
+    "et": "Podagra algab sama aluseks oleva keemiaga, mis kusihappe neerukivid -- uraat püsib normaalselt lahustunud kehavedelikes kuni lahustuvuse piirini, ning kui vere uraadikontsentratsioon tõuseb krooniliselt üle selle piiri (ületootmisest, kõige sagedamini vähenenud neerude erituse, mitte üksnes toitumise tõttu, või mõnikord puriinirikkast toitumisest), sadenevad lõpuks mononaatriumuraadi kristallid välja, kuid podagra korral toimub see sadenemine liigeseõõnes, mitte kuseteedes. Kord liigeses tekkinud uraadikristallid tunnevad kohalikud immuunrakud ära ohusignaalina ning käivitavad intensiivse põletikulise vastuse -- ägeda podagrahoo --, mis on otsene loomuliku immuunsuse reaktsioon füüsilisele kristallile, mitte infektsioon ega autoimmuunprotsess, mis sihib liigesekude ennast, mistõttu podagrahoog areneb plahvatuslikult mõne tunni jooksul ning taandub, kui äge põletikuline vastus vaibub, teravas vastuolus osteoartroosi või reumatoidartriidi aeglase, progresseeruva kuluga. Pikaajaline ravi sihib sama üleküllastumise keemiat, mis on neerukivide aluseks -- vere uraadikontsentratsiooni langetamist alla punkti, kus kristallid saavad üldse tekkida -- selle asemel et ravida ainult iga hoo põletikku pärast toimumist.",
+    "sourceHash": "8a46e7033552744b",
+    "stale": false
+  },
+  "prerequisites": [
+    "osteoarthritis-and-joint-degeneration-mechanisms"
+  ]
+}

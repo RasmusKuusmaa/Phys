@@ -1,0 +1,56 @@
+{
+  "id": "gout-and-crystal-arthropathies-item1",
+  "conceptId": "gout-and-crystal-arthropathies",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does an acute gout attack develop explosively over just a few hours, unlike the slow, gradual progression of osteoarthritis?",
+    "et": "Miks areneb äge podagrahoog plahvatuslikult vaid mõne tunni jooksul, erinevalt osteoartroosi aeglasest, järkjärgulisest progresseerumisest?",
+    "sourceHash": "2a3ebca959763a7e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because a gout attack is an acute innate-immune inflammatory response to newly precipitated urate crystals in the joint, a fast-triggering reaction, whereas osteoarthritis results from a slow mechanical-wear-and-failed-repair process that unfolds over years.",
+        "et": "Sest podagrahoog on äge loomuliku immuunsuse põletikuline vastus liigeses äsja sadenenud uraadikristallidele, kiiresti käivituv reaktsioon, samas kui osteoartroos tuleneb aeglasest mehaanilise kulumise ja ebaõnnestunud parandamise protsessist, mis kulgeb aastate jooksul.",
+        "sourceHash": "b0f43e0ebcae0aab",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because gout is a purely dietary reaction that occurs immediately after eating a trigger food, unlike osteoarthritis's mechanical cause.",
+        "et": "Sest podagra on puhtalt toitumisreaktsioon, mis tekib kohe pärast käivitava toidu söömist, erinevalt osteoartroosi mehaanilisest põhjusest.",
+        "sourceHash": "18ec6adc34548c05",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gout-and-crystal-arthropathies-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because gout is actually an acute joint infection, and infections typically develop faster than mechanical wear processes.",
+        "et": "Sest podagra on tegelikult äge liigese infektsioon ning infektsioonid arenevad tavaliselt kiiremini kui mehaanilised kulumisprotsessid.",
+        "sourceHash": "bbdc1bfe88459da1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gout-and-crystal-arthropathies-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't really differ — gout is simply a faster-progressing, infected form of the same wear-and-tear process as osteoarthritis.",
+        "et": "See ei erinegi tegelikult — podagra on lihtsalt kiiremini progresseeruv, nakatunud vorm samast kulumisprotsessist mis osteoartroos.",
+        "sourceHash": "bb8134176f60a2d3",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "gout-and-crystal-arthropathies-m3"
+    }
+  ]
+}
