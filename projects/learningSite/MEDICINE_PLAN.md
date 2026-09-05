@@ -818,28 +818,43 @@ and treatment-mechanism depth on top of it rather than restating it.
 
 ### Module `hematology-and-oncology`
 
-- [ ] Erythropoiesis and anemia mechanisms (red blood cell production, and
+- [x] Erythropoiesis and anemia mechanisms (red blood cell production, and
       anemia classified by mechanism — production failure, hemolysis, blood
-      loss; no prerequisites)
-- [ ] Hemostasis disorders and coagulopathies (clotting factor deficiencies
+      loss; no prerequisites; kept conceptual)
+- [x] Hemostasis disorders and coagulopathies (clotting factor deficiencies
       e.g. hemophilia, platelet disorders, the disseminated intravascular
       coagulation mechanism; prerequisite: thrombosis-embolism-and-
-      infarction)
-- [ ] Leukemia and lymphoma mechanisms (clonal proliferation of
+      infarction; kept conceptual)
+- [x] Leukemia and lymphoma mechanisms (clonal proliferation of
       hematopoietic/lymphoid cells, what mechanistically distinguishes
       leukemia from lymphoma; prerequisites: neoplasia-and-cancer-biology,
-      the-cell-cycle-and-mitosis)
-- [ ] Transfusion medicine and blood group immunology (ABO/Rh blood group
+      the-cell-cycle-and-mitosis; kept conceptual)
+- [x] Transfusion medicine and blood group immunology (ABO/Rh blood group
       systems, the transfusion-reaction mechanism as an immune response;
-      prerequisite: antibody-structure-and-function)
-- [ ] Cancer chemotherapy mechanisms and drug resistance (how chemotherapy
+      prerequisite: antibody-structure-and-function; kept conceptual)
+- [x] Cancer chemotherapy mechanisms and drug resistance (how chemotherapy
       and targeted therapy work mechanistically, mechanisms tumors use to
       develop drug resistance; prerequisites: neoplasia-and-cancer-biology,
-      pharmacodynamics-and-drug-receptor-interactions)
-- [ ] Paraneoplastic and oncologic emergency mechanisms (tumor lysis
+      pharmacodynamics-and-drug-receptor-interactions; kept conceptual)
+- [x] Paraneoplastic and oncologic emergency mechanisms (tumor lysis
       syndrome, hypercalcemia of malignancy, SIADH — as mechanistic
       categories, not a clinical-management reference; prerequisite:
-      neoplasia-and-cancer-biology)
+      neoplasia-and-cancer-biology; kept conceptual)
+
+Module complete: 6 hematology-and-oncology concepts, all kept conceptual —
+each concept's real content is a mechanistic distinction (three anemia
+mechanisms, factor-deficiency vs. platelet-disorder vs. DIC bleeding
+patterns, marrow vs. lymphoid-tissue origin, ABO natural vs. Rh
+exposure-dependent antibody formation, division-targeting vs.
+target-specific drug mechanisms plus clonal-selection resistance, and three
+distinct paraneoplastic mechanisms), not a single clean numeric
+relationship. `npm run validate:content` (9 subjects, 618 concepts), `npm
+run lint:terminology` (266 glossary terms — no new terms needed), and `npm
+run typecheck` all pass; every resource URL verified live with `curl`. One
+Estonian resource is an honest adjacent match rather than an exact-topic
+match: `hemostasis-disorders-and-coagulopathies` links to "Hemofiilia"
+(hemophilia, the concept's classic factor-deficiency example) since
+Estonian Wikipedia has no dedicated general coagulopathy article.
 
 ### Module `musculoskeletal-medicine-and-rheumatology`
 
