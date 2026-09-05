@@ -1225,6 +1225,20 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/keeluprintsiip/1/est"
   },
   {
+    "id": "percentage-change-in-price",
+    "en": "percentage change in price",
+    "et": "hinna protsentuaalne muutus",
+    "domain": "economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/hind/1/est"
+  },
+  {
+    "id": "percentage-change-in-quantity-demanded",
+    "en": "percentage change in quantity demanded",
+    "et": "nõutava koguse protsentuaalne muutus",
+    "domain": "economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/n%C3%B5udlus/1/est"
+  },
+  {
     "id": "period",
     "en": "period",
     "et": "periood",
@@ -1321,6 +1335,20 @@
     "et": "levimus",
     "domain": "epidemiology",
     "source": "https://sonaveeb.ee/search/unif/est/eki/levimus/1/est"
+  },
+  {
+    "id": "price",
+    "en": "price",
+    "et": "hind",
+    "domain": "economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/hind/1/est"
+  },
+  {
+    "id": "price-elasticity-of-demand",
+    "en": "price elasticity of demand",
+    "et": "nõudluse hinnaelastsus",
+    "domain": "economics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/elastsus/1/est"
   },
   {
     "id": "probability",
