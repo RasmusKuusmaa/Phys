@@ -1,0 +1,56 @@
+{
+  "id": "reproductive-system-anatomy-and-physiology-item1",
+  "conceptId": "reproductive-system-anatomy-and-physiology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can't ovarian tissue simply be described as 'continuously producing new eggs the way testes continuously produce new sperm'?",
+    "et": "Miks ei saa munasarjakude lihtsalt kirjeldada kui 'pidevalt uusi munarakke tootvat, samamoodi nagu munandid pidevalt uusi spermirakke toodavad'?",
+    "sourceHash": "bc998ac017f21a9b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because nearly all oocytes a female will ever have are already formed before birth, each arrested partway through meiosis until it matures and is released at ovulation, whereas spermatogenesis is an ongoing production process that begins at puberty and continues throughout adult life.",
+        "et": "Sest peaaegu kõik munarakud, mis naisel kunagi olema saavad, on juba moodustunud enne sündi, igaüks peatunud osaliselt meioosi käigus, kuni see küpseb ja vabaneb ovulatsiooni ajal, samas kui spermatogenees on käimasolev tootmisprotsess, mis algab puberteedist ja jätkub kogu täiskasvanuea jooksul.",
+        "sourceHash": "a4d50d5aa191d08d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because women simply produce eggs less frequently than men produce sperm, but the underlying production process is the same continuous cycle in both sexes.",
+        "et": "Sest naised toodavad munarakke lihtsalt harvemini kui mehed spermirakke, kuid alusprotsess on mõlemas soos sama pidev tsükkel.",
+        "sourceHash": "0976d76aa9e7c63e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reproductive-system-anatomy-and-physiology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the ovaries' only function is egg production, so comparing them to the testes' broader reproductive role is a category error.",
+        "et": "Sest munasarjade ainus funktsioon on munarakkude tootmine, mistõttu nende võrdlemine munandite laiema reproduktiivrolliga on kategooriaviga.",
+        "sourceHash": "64f343c1a0af22dc",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reproductive-system-anatomy-and-physiology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because sperm require no further maturation once made, so the comparison would need to account for the maturation steps eggs undergo instead.",
+        "et": "Sest kord juba toodetud spermirakud ei vaja edasist küpsemist, mistõttu peaks võrdlus arvestama hoopis munarakkude läbitavate küpsemisetappidega.",
+        "sourceHash": "e49f20c621c9deed",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reproductive-system-anatomy-and-physiology-m3"
+    }
+  ]
+}

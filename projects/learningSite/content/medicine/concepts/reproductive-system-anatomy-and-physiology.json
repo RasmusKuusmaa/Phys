@@ -1,0 +1,19 @@
+{
+  "id": "reproductive-system-anatomy-and-physiology",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "reproductive-medicine",
+  "title": {
+    "en": "Reproductive system anatomy and physiology",
+    "et": "Reproduktiivsüsteemi anatoomia ja füsioloogia",
+    "sourceHash": "935a1a09e66ecf9e",
+    "stale": false
+  },
+  "summary": {
+    "en": "The male reproductive tract is built around continuous gamete production: the testes' seminiferous tubules carry out spermatogenesis from puberty onward, turning diploid germ cells into mature haploid sperm through a pipeline of mitotic division followed by meiosis, with the epididymis, vas deferens, seminal vesicles, and prostate maturing, storing, and nourishing sperm before ejaculation. The female reproductive tract is built around a fundamentally different timeline: oogenesis produces essentially all of a female's oocytes before birth, each arrested partway through meiosis I for years to decades until a single oocyte per cycle resumes division around ovulation, released from the ovary to travel down a fallopian tube toward a uterus whose lining is rebuilt and shed on a roughly monthly cycle in the absence of pregnancy. This structural asymmetry between continuous, on-demand sperm production and a fixed, pre-allocated oocyte supply set at birth is the anatomical fact underlying much of reproductive medicine's approach to fertility and aging in each sex.",
+    "et": "Meessoo reproduktiivtrakt on üles ehitatud pideva sugurakkude tootmise ümber: munandite seemnetorukesed viivad puberteedist alates läbi spermatogeneesi, muutes diploidsed idurakud küpseteks haploidseteks spermirakkudeks mitootilise jagunemise ja sellele järgneva meioosi jada kaudu, kusjuures manusmunand, seemnejuha, seemnepõiekesed ja eesnääre küpsetavad, säilitavad ja toidavad spermat enne ejakulatsiooni. Naissoo reproduktiivtrakt on üles ehitatud põhimõtteliselt teistsuguse ajakava ümber: oogenees toodab sisuliselt kõik naise munarakud juba enne sündi, igaüks neist peatub osaliselt meioos I käigus aastateks kuni aastakümneteks, kuni üks munarakk tsükli kohta jätkab jagunemist ovulatsiooni ajal, vabanedes munasarjast ja liikudes mööda munajuha emakasse, mille limaskest ehitatakse ja heidetakse ära ligikaudu igakuiselt, kui rasedust ei toimu. See struktuurne asümmeetria pideva, vajaduspõhise spermatootluse ja fikseeritud, juba sünnil paika pandud munarakuvaru vahel on anatoomiline fakt, mis on aluseks suurele osale reproduktiivmeditsiini käsitlusest viljakuse ja vananemise kohta kummaski soos.",
+    "sourceHash": "823b5b2cd4f7f6e4",
+    "stale": false
+  },
+  "prerequisites": []
+}
