@@ -1,0 +1,10 @@
+{
+  "id": "separation-processes-and-distillation-m1",
+  "conceptId": "separation-processes-and-distillation",
+  "text": {
+    "en": "Distillation separates substances based on density rather than relative volatility/boiling point differences -- in reality, distillation works entirely through vapor-liquid equilibrium and volatility: the more volatile (lower-boiling) component preferentially enters the vapor phase, which is what enriches it toward the top of a column; density has essentially no direct role in the separation mechanism.",
+    "et": "Destillatsioon eraldab aineid tiheduse, mitte suhtelise lenduvuse/keemistemperatuuride erinevuse alusel -- tegelikult toimib destillatsioon täielikult auru-vedeliku tasakaalu ja lenduvuse kaudu: lenduvam (madalama keemistemperatuuriga) komponent siseneb eelistatult aurufaasi, mis ongi see, mis rikastab selle kolonni tipu poole; tihedusel ei ole eraldusmehhanismis sisuliselt otsest rolli.",
+    "sourceHash": "d7cb921a1c8fd6b0",
+    "stale": false
+  }
+}

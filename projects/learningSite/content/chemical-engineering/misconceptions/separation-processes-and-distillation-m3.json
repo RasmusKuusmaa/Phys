@@ -1,0 +1,10 @@
+{
+  "id": "separation-processes-and-distillation-m3",
+  "conceptId": "separation-processes-and-distillation",
+  "text": {
+    "en": "Extraction and absorption are essentially the same technique with different names, since both just move a component from one phase into another -- in reality, they're distinguished by the phases involved: extraction moves a component between two liquid phases (using an immiscible solvent), while absorption moves a component from a gas phase into a liquid phase, a genuinely different physical situation with different equipment and design equations even though both exploit a solubility difference.",
+    "et": "Ekstraktsioon ja absorptsioon on sisuliselt sama tehnika erinevate nimedega, kuna mõlemad lihtsalt liigutavad komponendi ühest faasist teise -- tegelikult eristatakse neid kaasatud faaside järgi: ekstraktsioon liigutab komponendi kahe vedelikfaasi vahel (kasutades segunematut lahustit), samas kui absorptsioon liigutab komponendi gaasifaasist vedelikfaasi, tõeliselt erinev füüsikaline olukord erinevate seadmete ja disainivõrranditega, kuigi mõlemad kasutavad ära lahustuvuse erinevust.",
+    "sourceHash": "f9b39632b60b6a40",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "separation-processes-and-distillation-m2",
+  "conceptId": "separation-processes-and-distillation",
+  "text": {
+    "en": "A distillation column separates the mixture in a single vaporization step, the same way boiling a pot of water off a stove works -- in reality, a real column repeats the vaporize-condense cycle across many internal stages (trays or packing), and it's specifically that repetition across many stages that achieves a sharp separation; a single vaporization step (a 'simple' or 'flash' distillation) only achieves a modest enrichment, nowhere near the purity a full multi-stage column reaches.",
+    "et": "Destillatsioonikolonn eraldab segu ühe aurustamisetapiga, samamoodi nagu vee keetmine potis pliidil töötab -- tegelikult kordab reaalne kolonn aurustamis-kondenseerimise tsüklit paljude sisemiste astmete (taldrikute või pakendi) ulatuses, ning just see kordamine paljude astmete ulatuses saavutabki terava eralduse; üksik aurustamisetapp (\"lihtne\" ehk \"välkdestillatsioon\") saavutab ainult tagasihoidliku rikastumise, mis on kaugel puhtusest, mille terve mitmeastmeline kolonn saavutab.",
+    "sourceHash": "f75ea4e80da9ee85",
+    "stale": false
+  }
+}

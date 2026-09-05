@@ -1,0 +1,19 @@
+{
+  "id": "separation-processes-and-distillation",
+  "subject": "chemical-engineering",
+  "level": "L2",
+  "module": "chemical-engineering-fundamentals",
+  "title": {
+    "en": "Separation processes and distillation",
+    "et": "Eraldusprotsessid ja destillatsioon",
+    "sourceHash": "00c11cdf2ca716f1",
+    "stale": false
+  },
+  "summary": {
+    "en": "Almost nothing chemical engineers make comes out of a reactor pure -- a reactor's outlet stream is a mixture of unreacted feed, desired product, and byproducts, so turning that mixture into a sellable, pure product is a whole separate engineering problem, solved by exploiting whatever physical or chemical difference actually distinguishes the components. Distillation, the workhorse separation technique, exploits differences in volatility: when a liquid mixture is partially vaporized, the vapor is enriched in whichever component has the lower boiling point (the more volatile one), because that component evaporates preferentially, so repeating the vaporize-and-condense cycle across many stages inside a distillation column progressively concentrates the more volatile component toward the top and the less volatile one toward the bottom. Extraction instead exploits differences in solubility, using a second, immiscible solvent that one component of the original mixture prefers to dissolve into far more than the other does, pulling that component out into a separate phase that can then simply be decanted away. Absorption exploits the same solubility-difference principle but applied to a gas mixture contacting a liquid, deliberately chosen so one gas component dissolves into the liquid much more readily than the rest of the gas stream does. All three techniques share the same underlying logic -- find a genuine physical or chemical asymmetry between the components and design equipment that repeatedly exploits it -- rather than any single universal separation method existing.",
+    "et": "Peaaegu miski, mida keemiainsenerid valmistavad, ei tule reaktorist puhtal kujul välja -- reaktori väljumisvool on segu reageerimata toormest, soovitud tootest ja kõrvalsaadustest, mistõttu selle segu muutmine müügikõlblikuks, puhtaks tooteks on omaette inseneriprobleem, mis lahendatakse ära kasutades mistahes füüsikalist või keemilist erinevust, mis komponente tegelikult eristab. Destillatsioon, eraldustehnika töövahend, kasutab ära lenduvuse erinevusi: kui vedelikusegu osaliselt aurustatakse, on aur rikastatud selle komponendi osas, millel on madalam keemistemperatuur (lenduvam), sest see komponent aurustub eelistatult, mistõttu aurustamis-kondenseerimise tsükli kordamine paljude astmete kaupa destillatsioonikolonni sees kontsentreerib järk-järgult lenduvama komponendi tipu poole ja vähemlenduva põhja poole. Ekstraktsioon kasutab selle asemel ära lahustuvuse erinevusi, kasutades teist, segunematut lahustit, millesse üks algse segu komponentidest lahustub palju paremini kui teine, tõmmates selle komponendi eraldi faasi, mille saab seejärel lihtsalt ära dekanteerida. Absorptsioon kasutab sama lahustuvuse-erinevuse põhimõtet, kuid rakendatuna gaasisegule, mis puutub kokku vedelikuga, mis on tahtlikult valitud nii, et üks gaasikomponent lahustub vedelikku palju kergemini kui ülejäänud gaasivool. Kõik kolm tehnikat jagavad sama alusloogikat -- leida tõeline füüsikaline või keemiline asümmeetria komponentide vahel ja disainida seadmed, mis seda korduvalt ära kasutavad -- selle asemel et eksisteeriks mingi üksik universaalne eraldusmeetod.",
+    "sourceHash": "0903a8e0018716da",
+    "stale": false
+  },
+  "prerequisites": []
+}

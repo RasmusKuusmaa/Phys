@@ -1,0 +1,56 @@
+{
+  "id": "separation-processes-and-distillation-item1",
+  "conceptId": "separation-processes-and-distillation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a real distillation column use many internal stages (trays or packing) instead of just one vaporization step?",
+    "et": "Miks kasutab reaalne destillatsioonikolonn paljusid sisemisi astmeid (taldrikuid või pakendit), mitte lihtsalt üht aurustamisetappi?",
+    "sourceHash": "f9e942c259f1ef53",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because each stage only achieves a modest enrichment in the more volatile component, and repeating that enrichment across many stages is what compounds it into a sharp, high-purity separation.",
+        "et": "Sest iga aste saavutab ainult tagasihoidliku rikastumise lenduvamas komponendis, ning selle rikastumise kordamine paljude astmete ulatuses on see, mis liidab selle teravaks, kõrge puhtusega eralduseks.",
+        "sourceHash": "b87824706f1e37e0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because a single vaporization step would separate the mixture by density instead of volatility, giving the wrong components at the top and bottom.",
+        "et": "Sest üksik aurustamisetapp eraldaks segu tiheduse, mitte lenduvuse järgi, andes vale komponendid tipus ja põhjas.",
+        "sourceHash": "d86d192c47e458b0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "separation-processes-and-distillation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because a single stage can only handle gas mixtures, and multiple stages are required to process a liquid feed at all.",
+        "et": "Sest üksik aste suudab käsitleda ainult gaasisegusid, ning mitu astet on vajalik, et vedelat toorainet üldse töödelda.",
+        "sourceHash": "467aa771270b512f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "separation-processes-and-distillation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because each additional stage performs an entirely different separation mechanism (extraction, then absorption, then distillation), and all three are needed together.",
+        "et": "Sest iga täiendav aste teostab täiesti erinevat eraldusmehhanismi (ekstraktsioon, siis absorptsioon, siis destillatsioon), ning kõiki kolme on vaja koos.",
+        "sourceHash": "af0aa7f08bc4b93b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "separation-processes-and-distillation-m3"
+    }
+  ]
+}
