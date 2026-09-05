@@ -1,0 +1,10 @@
+{
+  "id": "plate-tectonics-and-continental-drift-m2",
+  "conceptId": "plate-tectonics-and-continental-drift",
+  "text": {
+    "en": "A transform boundary (like the San Andreas fault) creates mountains or ocean basins the same way convergent and divergent boundaries do, just with a different name -- in reality, a transform boundary's defining feature is that plates slide past each other laterally with no net creation or destruction of crust at all, which is mechanistically distinct from a divergent boundary's crust creation or a convergent boundary's crust destruction/mountain building -- the earthquakes along a transform fault come from built-up friction being released, not from new crust forming.",
+    "et": "Nihkepiir (nagu San Andreas rike) tekitab mägesid või ookeanibasseine samal viisil kui koonduvad ja lahknevad piirid, lihtsalt teise nimega -- tegelikult on nihkepiiri määratlev tunnus see, et laamad libisevad üksteisest mööda külgsuunas ilma maakoore netoloome või -hävimiseta üldse, mis on mehaaniliselt eristuv lahkneva piiri maakoore loomest või koonduva piiri maakoore hävimisest/mäestiku tekkest -- maavärinad piki nihkerikke tulenevad kogunenud hõõrdumise vabanemisest, mitte uue maakoore moodustumisest.",
+    "sourceHash": "66c919c1478f9ebc",
+    "stale": false
+  }
+}

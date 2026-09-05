@@ -1,0 +1,19 @@
+{
+  "id": "plate-tectonics-and-continental-drift",
+  "subject": "earth-science",
+  "level": "L1",
+  "module": "earth-science-fundamentals",
+  "title": {
+    "en": "Plate tectonics and continental drift",
+    "et": "Laamtektoonika ja mandrite triiv",
+    "sourceHash": "96cccf51e7af6ae8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Earth's rigid outer shell is broken into a dozen or so major plates that move relative to one another at a few centimeters per year, and the geology at a plate's edge depends entirely on what kind of boundary it is: divergent boundaries pull plates apart and let magma rise to form new crust (mid-ocean ridges, and on land, rift valleys), convergent boundaries push plates together and either force one beneath the other at a subduction zone or crumple both into a mountain range when two continental plates collide, and transform boundaries slide plates past one another sideways without creating or destroying crust, producing the grinding, earthquake-prone faults typified by California's San Andreas fault. This entire framework was not obvious or immediately accepted -- it took multiple independent lines of evidence discovered decades apart to convince geologists: the startlingly good fit between the coastlines of South America and Africa, matching fossil species found on continents now separated by an ocean, and, most decisively, a symmetric pattern of alternating magnetic stripes frozen into the rock on either side of the mid-ocean ridges, recording Earth's magnetic field flipping polarity over millions of years as new seafloor crust formed and spread outward from the ridge in both directions.",
+    "et": "Maa jäik välimine kest on murdunud umbes tosinaks suureks laamaks, mis liiguvad üksteise suhtes mõne sentimeetri kaugusele aastas, ning geoloogia laama serval sõltub täielikult sellest, millist tüüpi piir seal on: lahknevad piirid tõmbavad laamu lahku ja lasevad magmal tõusta, moodustades uut maakoort (keskookeaniahelikud ja maismaal riftiorud), koonduvad piirid suruvad laamu kokku ning kas suruvad ühe teise alla subduktsioonitsoonis või kortsutavad mõlemad mäestikuks, kui kaks mandrilist laama põrkuvad, ning nihkepiirid libisevad laamu üksteisest mööda külgsuunas, ilma maakoort loomata või hävitamata, tekitades hõõrduvaid, maavärinaohtlikke rikkeid, mida iseloomustab California San Andrease rike. Kogu see raamistik ei olnud ilmselge ega koheselt aktsepteeritud -- kulus mitu sõltumatut tõendusliini, mis avastati aastakümnete kaupa lahus, et veenda geolooge: hämmastavalt hea sobivus Lõuna-Ameerika ja Aafrika rannajoonte vahel, ühtivad fossiilliigid mandritel, mis on nüüd ookeaniga eraldatud, ning kõige otsustavamalt sümmeetriline vahelduvate magnetiliste triipude muster, mis on jäädvustunud kivimisse mõlemal pool keskookeaniahelikke, salvestades Maa magnetvälja polaarsuse pöördumist miljonite aastate jooksul, kui uus ookeanipõhja maakoor moodustus ja levis ahelikust mõlemas suunas laiali.",
+    "sourceHash": "f177c5a5a3ef27de",
+    "stale": false
+  },
+  "prerequisites": []
+}

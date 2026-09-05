@@ -1,0 +1,56 @@
+{
+  "id": "plate-tectonics-and-continental-drift-item1",
+  "conceptId": "plate-tectonics-and-continental-drift",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Geologists consider the discovery of symmetric magnetic stripe patterns on either side of mid-ocean ridges to be the single most decisive piece of evidence for plate tectonics, more so than the earlier observation that continental coastlines fit together. Why?",
+    "et": "Geoloogid peavad sümmeetriliste magnetiliste triipude mustrite avastamist mõlemal pool keskookeaniaheliku kõige otsustavamaks tõendiks laamtektoonika kohta, rohkem kui varasemat tähelepanekut, et mandrite rannajooned sobivad kokku. Miks?",
+    "sourceHash": "a4bcea3c50b5db3a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the magnetic stripes provide independent, datable, quantitative evidence of new crust actively forming and spreading outward from the ridge over a known timescale, rather than a single suggestive visual coincidence.",
+        "et": "Sest magnetilised triibud pakuvad sõltumatut, dateeritavat, kvantitatiivset tõendust sellest, et uus maakoor aktiivselt moodustub ja levib ahelikust välja tuntud ajaskaalal, mitte üksikut vihjavat visuaalset kokkusattumust.",
+        "sourceHash": "a96ebd27b0f152c7",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because coastline fit is actually irrelevant to plate tectonics and was eventually discarded as evidence entirely once magnetic striping was found.",
+        "et": "Sest rannajoone sobivus on tegelikult laamtektoonika jaoks ebaoluline ja see lükati lõpuks tõendina täielikult kõrvale, kui leiti magnetiline triibustumine.",
+        "sourceHash": "a456e6136c3cbd63",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "plate-tectonics-and-continental-drift-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because magnetic striping proves the Earth is expanding, which coastline fit alone could not demonstrate.",
+        "et": "Sest magnetiline triibustumine tõestab, et Maa laieneb, mida rannajoone sobivus üksi ei suutnud näidata.",
+        "sourceHash": "975ff4b29b6f42a8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "plate-tectonics-and-continental-drift-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because magnetic striping shows that transform boundaries create new crust the same way divergent boundaries do, which strengthens the coastline-fit argument.",
+        "et": "Sest magnetiline triibustumine näitab, et nihkepiirid loovad uut maakoort samamoodi nagu lahknevad piirid, mis tugevdab rannajoone sobivuse argumenti.",
+        "sourceHash": "7a99c6315b188fd7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "plate-tectonics-and-continental-drift-m3"
+    }
+  ]
+}
