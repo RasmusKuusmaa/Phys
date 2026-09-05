@@ -896,4 +896,75 @@ scopes: `osteoarthritis-and-joint-degeneration-mechanisms` links to "Reuma"
 arthropathies` links to "Liigesepõletik" (joint inflammation generally,
 directly relevant to gout's acute presentation).
 
+Phase Med8 complete: 96 medicine concepts total (12 new Phase-Med8 concepts
+on top of the 84-concept Phase Med1-Med7 baseline) — the fifth and sixth
+organ-system-pathophysiology modules. Both forks this round stayed
+strictly within their directive after the reinforced strict-scope-boundary
+prompt (referencing both the biohacking and Med5-Med7 overruns explicitly)
+— no scope overrun this phase. `npm run validate:content` (9 subjects, 618
+concepts), `npm run lint:terminology` (266 glossary terms), and `npm run
+typecheck` all pass; working tree clean.
+
+## Phase Med9 — reproductive medicine, and dermatology
+
+Two more modules, six concepts each, coordinator-dispatched parallel forks
+(roadmap items 17-18). Same gap this plan already flagged when Phase Med7
+added the missing renal/urinary anatomy concept: Phase Med1's
+`human-anatomy-and-physiology` module never covered the reproductive or
+integumentary (skin) systems either. Both modules below add their own
+missing anatomy-and-physiology concept as their foundational first entry,
+same "add the prerequisite just before the module that needs it" approach
+Med7 used, rather than reopening the already-closed-out Med1 phase.
+`endocrinology`'s existing `reproductive-endocrinology-overview` concept
+stays the hormonal-feedback-loop depth; `reproductive-medicine` below adds
+the organ-system/anatomy/pathology depth on top of it.
+
+### Module `reproductive-medicine`
+
+- [ ] Reproductive system anatomy and physiology (male and female
+      reproductive anatomy, gametogenesis overview — the missing Med1-level
+      foundation this module needs; no prerequisites)
+- [ ] Menstrual cycle and ovulation mechanisms (follicular and luteal
+      phases, the ovulation-trigger mechanism; prerequisites:
+      reproductive-system-anatomy-and-physiology, reproductive-
+      endocrinology-overview)
+- [ ] Pregnancy physiology and placental function (implantation, placental
+      hormone production, the major physiologic changes of pregnancy;
+      prerequisite: reproductive-system-anatomy-and-physiology)
+- [ ] Infertility mechanisms (ovulatory disorders, structural/tubal
+      factors, male-factor mechanisms — as mechanistic categories;
+      prerequisite: menstrual-cycle-and-ovulation-mechanisms)
+- [ ] Sexually transmitted infection mechanisms (a mechanism-focused survey
+      of major STI pathogen categories, building on microbiology rather
+      than restating it; prerequisites: reproductive-system-anatomy-and-
+      physiology, host-pathogen-interactions-and-virulence)
+- [ ] Reproductive tract neoplasia mechanisms (cervical/endometrial/
+      ovarian/testicular/prostate cancer as HPV-driven vs. hormone-driven
+      vs. other mechanism categories, not exhaustive staging; prerequisites:
+      neoplasia-and-cancer-biology, reproductive-system-anatomy-and-
+      physiology)
+
+### Module `dermatology`
+
+- [ ] Integumentary system anatomy and physiology (skin layers and
+      appendages, barrier/thermoregulation/sensory functions — the missing
+      Med1-level foundation this module needs; no prerequisites)
+- [ ] Skin barrier dysfunction and eczema mechanisms (barrier-protein
+      dysfunction, the atopic dermatitis mechanism; prerequisite:
+      integumentary-system-anatomy-and-physiology)
+- [ ] Psoriasis and immune-mediated skin disease (keratinocyte
+      hyperproliferation driven by an immune mechanism, distinct from
+      eczema's barrier-dysfunction angle; prerequisites: integumentary-
+      system-anatomy-and-physiology, autoimmunity-and-hypersensitivity)
+- [ ] Skin infection mechanisms (bacterial, fungal, and viral skin
+      infection as mechanistic categories, building on microbiology rather
+      than restating it; prerequisites: integumentary-system-anatomy-and-
+      physiology, fungal-and-parasitic-pathogens)
+- [ ] Skin cancer mechanisms (UV-driven mutagenesis, the melanoma vs.
+      non-melanoma mechanistic distinction; prerequisites: integumentary-
+      system-anatomy-and-physiology, neoplasia-and-cancer-biology)
+- [ ] Pigmentation disorders and melanocyte biology (melanocyte function,
+      the vitiligo and albinism mechanisms, hyperpigmentation; prerequisite:
+      integumentary-system-anatomy-and-physiology)
+
 ---
