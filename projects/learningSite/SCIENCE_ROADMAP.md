@@ -28,88 +28,43 @@ judgment-call reasoning behind this bar, repeated for every subject.
 | Biohacking | 15 | `BIOHACKING_PLAN.md` |
 | Medicine | 125 | `MEDICINE_PLAN.md` |
 
-## Existing but incomplete
+## Phase 1 built, not yet judged comprehensive
 
-- **Computing** (4 concepts: algorithms-and-program-structure, control-flow,
-  data-structures-and-algorithms, numerical-methods-in-computing) — a thin,
-  pre-existing stub from before this content-building effort started,
-  never brought to the same depth bar as everything else. Renamed in scope
-  below to **Computer science** and slotted into the build order — its
-  existing 4 concepts stay as-is and get built around rather than redone.
+All twelve subjects originally listed below under "not yet started" now
+have a foundational first phase built and committed — the initial sweep
+this roadmap set out to do is complete. None of these twelve has had a
+second phase scoped yet, let alone been judged comprehensive; each one's
+own `_PLAN.md` has a "Phase 2 — not yet planned" placeholder (or, for
+`computing`, "Phase CS2") ready for whenever that subject's turn comes
+around again.
 
-## Not yet started — build order
+| Subject | Concepts | Plan file |
+| --- | --- | --- |
+| Biology | 6 | `BIOLOGY_PLAN.md` |
+| Earth science | 6 | `EARTH_SCIENCE_PLAN.md` |
+| Environmental science | 6 | `ENVIRONMENTAL_SCIENCE_PLAN.md` |
+| Meteorology | 6 | `METEOROLOGY_PLAN.md` |
+| Oceanography | 6 | `OCEANOGRAPHY_PLAN.md` |
+| Computer science (subject slug `computing`) | 10 (4 pre-existing + 6 new) | `COMPUTING_PLAN.md` |
+| Statistics and data science | 6 | `STATISTICS_AND_DATA_SCIENCE_PLAN.md` |
+| Electrical engineering | 6 | `ELECTRICAL_ENGINEERING_PLAN.md` |
+| Civil engineering | 6 | `CIVIL_ENGINEERING_PLAN.md` |
+| Chemical engineering | 6 | `CHEMICAL_ENGINEERING_PLAN.md` |
+| Psychology | 6 | `PSYCHOLOGY_PLAN.md` |
+| Economics | 6 | `ECONOMICS_PLAN.md` |
 
-Grouped by the standard science-taxonomy branches, prioritized roughly by
-how foundational/broadly load-bearing each is, and checked against what
-already exists elsewhere on the site to avoid overlap before each one's own
-`_PLAN.md` does the detailed check.
+Cross-subject overlap was checked before each one's Phase 1 was drafted —
+see each subject's own "Scope and framing" section for the specific
+differentiation against whatever existing subject sat closest to it
+(mostly physics, general-engineering, medicine, and each other — e.g.
+earth-science vs. physics's planetary-physics module, meteorology vs.
+earth-science, oceanography vs. both, electrical/civil/chemical
+engineering vs. general-engineering and the relevant science subject).
 
-### Life sciences
-
-1. **Biology** — general/foundational biology: evolution and natural
-   selection, ecology and ecosystems, taxonomy and biodiversity, botany,
-   zoology, population/organismal genetics. Distinct from `medicine`
-   (human-body-specific) and `chemistry`'s `biochemistry` module
-   (molecular structure/kinetics) — this is the field itself, at the scope
-   a bachelor's biology degree covers before specializing into medicine,
-   biochemistry, or ecology as their own careers.
-
-### Earth and environmental sciences
-
-2. **Earth science / geology** — plate tectonics, mineralogy, the rock
-   cycle, geologic time, seismology, volcanology.
-3. **Environmental science and ecology** — ecosystem dynamics, biodiversity
-   and conservation, biogeochemical cycles, environmental impact and
-   sustainability — the applied/systems layer on top of `biology`'s
-   ecology foundations.
-4. **Meteorology and climate science** — atmospheric structure and
-   dynamics, weather systems, climate forcing and feedback mechanisms,
-   distinct from physics's existing thermodynamics/fluid-mechanics content
-   (which stays general-physics, not atmosphere-specific).
-5. **Oceanography** — ocean circulation, marine chemistry, marine
-   ecosystems, tides and waves at an oceanographic (not pure-physics) depth.
-
-### Formal and computational sciences
-
-6. **Computer science** (upgrade of the existing `computing` stub) —
-   algorithms and complexity, data structures, programming-language
-   theory, operating systems, databases, computer architecture, networks,
-   software engineering principles.
-7. **Statistics and data science** — checked overlap first: mathematics
-   already has probability distributions, Bayes' theorem, Markov chain
-   Monte Carlo, and other machinery; this subject is the applied,
-   inference-and-methodology layer built on top of it (hypothesis testing
-   as its own discipline, experimental design, machine learning
-   foundations, data science practice) — the same kind of relationship
-   `general-engineering` has to `physics`.
-
-### Additional engineering disciplines
-
-8. **Electrical engineering** — checked overlap first: physics already
-   covers circuit theory (Kirchhoff's laws, RC/RL/AC circuits,
-   Thevenin/Norton) fairly thoroughly; this subject is the
-   engineering-design layer (digital logic, signal processing,
-   power systems, electronics/semiconductor devices at a design level)
-   rather than re-deriving circuit physics.
-9. **Civil engineering** — structural engineering (building on
-   `general-engineering`'s mechanics-of-materials), geotechnical
-   engineering, transportation engineering, water resources engineering —
-   an entire standard engineering discipline absent from the site.
-10. **Chemical engineering** — process engineering, reaction engineering,
-    separation processes, transport phenomena — checked overlap with
-    `chemistry` and `general-engineering`'s fluid-mechanics/thermodynamics
-    content first in that subject's own plan file.
-
-### Behavioral and social sciences
-
-11. **Psychology** — checked overlap first: `medicine`'s
-    `psychiatry-and-behavioral-medicine` module covers clinical/mechanistic
-    psychiatric conditions; this subject is general psychological science
-    (cognitive psychology, developmental psychology, social psychology,
-    research methodology) rather than clinical mechanism.
-12. **Economics** — microeconomics, macroeconomics, econometrics —
-    checked overlap with mathematics/statistics first in that subject's
-    own plan file.
+Site total as of this milestone: 20 subjects, 719 concepts
+(`npm run validate:content`), 280 glossary terms (`npm run
+lint:terminology`); `npm run typecheck` and the full test suite (150/150)
+both pass.
 
 ## Build discipline
 
@@ -118,5 +73,16 @@ Identical to every subject so far: one `<SUBJECT>_PLAN.md` per subject
 phased module roadmap), one commit per concept, single-line messages, the
 full concept/misconceptions/item/resource/explanation set gated by
 `npm run validate:content && npm run lint:terminology` before every commit.
-Update this file's checklist as each subject lands and gets its own
-comprehensiveness judgment, logged in `QUESTIONS.md` same as always.
+Update this file's table as each subject's later phases land and it
+eventually gets its own comprehensiveness judgment, logged in
+`QUESTIONS.md` same as always.
+
+## Next steps (not yet started)
+
+With every listed area's Phase 1 in place, continuing this effort means
+picking up each subject's own "Phase 2 — not yet planned" section one at a
+time (same content-generation workflow, just scoped fresh per subject
+based on what Phase 1 actually covered) — there is no more top-level
+"first area to pick" decision left to make here; it is now twelve parallel
+"which subject's Phase 2 next" decisions, each one local to that subject's
+own plan file.
