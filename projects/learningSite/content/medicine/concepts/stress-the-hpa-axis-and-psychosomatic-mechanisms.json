@@ -1,0 +1,21 @@
+{
+  "id": "stress-the-hpa-axis-and-psychosomatic-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "psychiatry-and-behavioral-medicine",
+  "title": {
+    "en": "Stress, the HPA axis, and psychosomatic mechanisms",
+    "et": "Stress, HPA-telg ja psühhosomaatilised mehhanismid",
+    "sourceHash": "bcdcc42ed251c994",
+    "stale": false
+  },
+  "summary": {
+    "en": "A perceived psychological stressor activates the hypothalamic-pituitary-adrenal (HPA) axis exactly the way a physical threat would: the hypothalamus releases corticotropin-releasing hormone, triggering the pituitary to release adrenocorticotropic hormone, which drives the adrenal cortex to release cortisol -- and under normal circumstances, rising cortisol feeds back to suppress its own further release, a negative feedback loop that returns the system to baseline once the stressor passes. Chronic psychological stress disrupts this feedback: sustained cortisol elevation can blunt the sensitivity of the very receptors meant to shut the axis down, producing a prolonged, dysregulated cortisol elevation that -- unlike the brief, adaptive version -- produces measurable downstream harm: suppressed immune function (chronically elevated cortisol impairs specific immune cell populations), disrupted metabolic regulation (promoting abdominal fat deposition and insulin resistance), and altered cardiovascular risk (through effects on blood pressure and vascular function). This is the literal mechanism behind 'psychosomatic' illness -- not an imagined or purely mental phenomenon, but a real, traceable biochemical pathway by which a psychological state produces genuine, measurable physiological disease risk in specific organ systems.",
+    "et": "Tajutav psühholoogiline stressor aktiveerib hüpotalamuse-hüpofüüsi-neerupealise (HPA) telje täpselt samamoodi nagu füüsiline oht: hüpotalamus vabastab kortikotropiini vabastavat hormooni, käivitades hüpofüüsi vabastama adrenokortikotropiinset hormooni, mis paneb neerupealise koore vabastama kortisooli -- ning tavatingimustes toimib tõusev kortisool tagasisidena, pärssides oma edasist vabanemist, negatiivne tagasisidesilmus, mis viib süsteemi pärast stressori möödumist tagasi lähtetasemele. Krooniline psühholoogiline stress häirib seda tagasisidet: pikaajaline kortisooli tõus võib nürida just nende retseptorite tundlikkust, mis on mõeldud telge sulgema, tekitades pikaajalise, düsreguleeritud kortisooli tõusu, mis -- erinevalt lühikesest, kohanemuslikust versioonist -- tekitab mõõdetavat allavoolu kahju: pärsitud immuunfunktsioon (krooniliselt tõusnud kortisool kahjustab spetsiifilisi immuunrakkude populatsioone), häiritud ainevahetuse reguleerimine (soodustades kõhupiirkonna rasvaladestust ja insuliiniresistentsust) ning muutunud kardiovaskulaarne risk (vererõhule ja veresoonte talitlusele avalduva mõju kaudu). See ongi \"psühhosomaatilise\" haiguse sõnasõnaline mehhanism -- mitte kujuteldav või puhtalt vaimne nähtus, vaid tõeline, jälgitav biokeemiline rada, mille kaudu psühholoogiline seisund tekitab reaalset, mõõdetavat füsioloogilist haigestumisriski konkreetsetes elundisüsteemides.",
+    "sourceHash": "957f5bf63e2696f9",
+    "stale": false
+  },
+  "prerequisites": [
+    "adrenal-gland-physiology"
+  ]
+}

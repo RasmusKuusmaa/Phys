@@ -1,0 +1,10 @@
+{
+  "id": "stress-the-hpa-axis-and-psychosomatic-mechanisms-m2",
+  "conceptId": "stress-the-hpa-axis-and-psychosomatic-mechanisms",
+  "text": {
+    "en": "Cortisol release in response to stress is inherently harmful, so any cortisol elevation is a bad thing for the body -- acute cortisol elevation in response to a genuine stressor is a normal, adaptive response with a built-in negative feedback loop that returns the system to baseline -- it's specifically the chronic, dysregulated elevation (where feedback sensitivity is blunted and cortisol stays elevated long-term) that produces the harmful downstream effects, not cortisol release itself.",
+    "et": "Kortisooli vabanemine vastuseks stressile on olemuselt kahjulik, mistõttu igasugune kortisooli tõus on kehale halb -- äge kortisooli tõus vastuseks tõelisele stressorile on normaalne, kohanemuslik vastus sisseehitatud negatiivse tagasisidesilmusega, mis viib süsteemi tagasi lähtetasemele -- just krooniline, düsreguleeritud tõus (kus tagasiside tundlikkus on nüristunud ja kortisool püsib pikaajaliselt tõusnud) tekitab kahjulikke allavoolu toimeid, mitte kortisooli vabanemine ise.",
+    "sourceHash": "c9600714424d9bcb",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "stress-the-hpa-axis-and-psychosomatic-mechanisms-item1",
+  "conceptId": "stress-the-hpa-axis-and-psychosomatic-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A person under sustained, chronic work-related psychological stress develops impaired immune function and abdominal weight gain. What is the most likely underlying mechanism?",
+    "et": "Pideva, kroonilise töökohaga seotud psühholoogilise stressi all oleval inimesel tekib häiritud immuunfunktsioon ja kõhupiirkonna kaalutõus. Mis on kõige tõenäolisem aluseks olev mehhanism?",
+    "sourceHash": "70b331fdbdb3ca9a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Chronic stress has disrupted the HPA axis's normal negative feedback, producing sustained cortisol elevation that suppresses specific immune cell populations and promotes abdominal fat deposition and insulin resistance -- real, traceable biochemical effects, not an imagined symptom.",
+        "et": "Krooniline stress on häirinud HPA-telje normaalset negatiivset tagasisidet, tekitades pikaajalise kortisooli tõusu, mis pärsib spetsiifilisi immuunrakkude populatsioone ning soodustab kõhupiirkonna rasvaladestust ja insuliiniresistentsust -- reaalsed, jälgitavad biokeemilised toimed, mitte kujuteldav sümptom.",
+        "sourceHash": "48da958113646d49",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "These are psychosomatic symptoms, meaning they are not really physically occurring and mainly reflect the person's mental state rather than any measurable bodily change.",
+        "et": "Need on psühhosomaatilised sümptomid, mis tähendab, et need tegelikult füüsiliselt ei toimu ning peegeldavad peamiselt inimese vaimset seisundit, mitte mingit mõõdetavat kehalist muutust.",
+        "sourceHash": "59ce5f47fe5004cf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stress-the-hpa-axis-and-psychosomatic-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Any cortisol release from the stress is inherently harmful, so the mechanism is simply that cortisol itself, at any level or duration, damages the immune and metabolic systems.",
+        "et": "Igasugune stressist tingitud kortisooli vabanemine on olemuselt kahjulik, mistõttu mehhanism on lihtsalt see, et kortisool ise, ükskõik millisel tasemel või kestusel, kahjustab immuun- ja ainevahetussüsteemi.",
+        "sourceHash": "22de94290a81257e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stress-the-hpa-axis-and-psychosomatic-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since work stress is psychological rather than a physical threat, the HPA axis shouldn't be involved at all, and some other, unrelated mechanism must explain these symptoms.",
+        "et": "Kuna tööstress on psühholoogiline, mitte füüsiline oht, ei tohiks HPA-telg üldse osaleda ning mingi muu, mitteseotud mehhanism peab neid sümptomeid seletama.",
+        "sourceHash": "d66706c9204145d8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "stress-the-hpa-axis-and-psychosomatic-mechanisms-m3"
+    }
+  ]
+}
