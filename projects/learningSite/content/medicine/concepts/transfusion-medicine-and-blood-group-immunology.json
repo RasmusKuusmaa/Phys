@@ -1,0 +1,21 @@
+{
+  "id": "transfusion-medicine-and-blood-group-immunology",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "hematology-and-oncology",
+  "title": {
+    "en": "Transfusion medicine and blood group immunology",
+    "et": "Transfusioonimeditsiin ja veregrupi immunoloogia",
+    "sourceHash": "b9d1bb2d5ac794e4",
+    "stale": false
+  },
+  "summary": {
+    "en": "Red blood cells carry surface antigens -- most importantly the ABO and Rh (D) systems -- and a transfusion reaction is fundamentally an antibody-antigen immune response, the same basic mechanism this subject's antibody-structure-and-function concept already covers, applied to a specific and highly consequential clinical scenario. The ABO system is unusual among blood group antigens because people naturally carry antibodies against whichever ABO antigens they lack, without ever having been exposed to another person's blood (type O blood has no A or B antigen but carries antibodies against both; type AB has both antigens but neither antibody), which is why an ABO-incompatible transfusion triggers immediate, severe intravascular hemolysis: the recipient's pre-existing antibodies attack the donor's red cells the moment they enter circulation. The Rh (D) antigen works differently -- a person who lacks it does not naturally carry anti-D antibodies, and only develops them after an actual exposure to D-positive blood (through a prior transfusion or, notably, during pregnancy if an Rh-negative mother carries an Rh-positive fetus) -- so an Rh-mismatched first exposure typically causes no immediate reaction, but sensitizes the immune system to react severely against any future D-positive exposure, which is the specific mechanism behind hemolytic disease of the newborn in a subsequent pregnancy.",
+    "et": "Punased verelibled kannavad pinnaantigeene -- eelkõige ABO ja Rh (D) süsteemid -- ning transfusioonireaktsioon on põhimõtteliselt antikeha-antigeeni immuunvastus, sama põhimehhanism, mida see aine antikeha-struktuuri-ja-funktsiooni mõiste juba käsitleb, rakendatuna konkreetsele ja väga tõsiste tagajärgedega kliinilisele stsenaariumile. ABO süsteem on veregrupi antigeenide seas ebatavaline, sest inimesed kannavad loomulikult antikehi nende ABO antigeenide vastu, mis neil puuduvad, ilma et nad oleksid kunagi kokku puutunud teise inimese verega (O-veregrupi veres puudub nii A kui B antigeen, kuid see kannab antikehi mõlema vastu; AB-veregrupil on mõlemad antigeenid, kuid mitte kumbki antikeha), mistõttu ABO-sobimatu vereülekanne vallandab kohese, raske intravaskulaarse hemolüüsi: retsipiendi juba olemasolevad antikehad ründavad doonori punaseid verelibli hetkel, mil need vereringesse jõuavad. Rh (D) antigeen töötab erinevalt -- inimene, kellel see puudub, ei kanna loomulikult anti-D antikehi ning arendab need välja alles pärast tegelikku kokkupuudet D-positiivse verega (varasema vereülekande kaudu või, märkimisväärselt, raseduse ajal, kui Rh-negatiivne ema kannab Rh-positiivset lootet) -- seega ei põhjusta Rh-sobimatu esimene kokkupuude tavaliselt kohest reaktsiooni, kuid tundlikustab immuunsüsteemi reageerima tugevalt mistahes tulevasele D-positiivsele kokkupuutele, mis ongi konkreetne mehhanism vastsündinu hemolüütilise haiguse taga järgnevas raseduses.",
+    "sourceHash": "1e9f686aee769ea4",
+    "stale": false
+  },
+  "prerequisites": [
+    "antibody-structure-and-function"
+  ]
+}

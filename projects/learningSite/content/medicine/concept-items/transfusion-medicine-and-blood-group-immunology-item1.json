@@ -1,0 +1,56 @@
+{
+  "id": "transfusion-medicine-and-blood-group-immunology-item1",
+  "conceptId": "transfusion-medicine-and-blood-group-immunology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a first-time ABO-incompatible transfusion cause an immediate severe reaction, while a first-time Rh(D)-incompatible exposure typically does not?",
+    "et": "Miks põhjustab esmakordne ABO-sobimatu vereülekanne kohese raske reaktsiooni, samas kui esmakordne Rh(D)-sobimatu kokkupuude tavaliselt seda ei tee?",
+    "sourceHash": "6e2e5378c1583442",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because ABO antibodies are present naturally without prior exposure, while anti-D antibodies only develop after an actual exposure to D-positive blood, so a first Rh-mismatched exposure sensitizes rather than immediately reacts.",
+        "et": "Sest ABO antikehad on loomulikult olemas ilma varasema kokkupuuteta, samas kui anti-D antikehad arenevad välja alles pärast tegelikku kokkupuudet D-positiivse verega, mistõttu esimene Rh-sobimatu kokkupuude tundlikustab, mitte ei reageeri kohe.",
+        "sourceHash": "deb12c2309d60431",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because ABO blood is less thoroughly screened for compatibility than Rh blood is in standard transfusion protocols.",
+        "et": "Sest ABO verd sõelutakse standardsetes transfusiooniprotokollides sobivuse suhtes vähem põhjalikult kui Rh verd.",
+        "sourceHash": "cc3da0b6f4ab2080",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transfusion-medicine-and-blood-group-immunology-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because people only develop antibodies against antigens they themselves carry, and ABO antigens are more commonly carried than the D antigen.",
+        "et": "Sest inimesed arendavad antikehi ainult nende antigeenide vastu, mida nad ise kannavad, ning ABO antigeenid on levinumad kui D antigeen.",
+        "sourceHash": "755e98c55e582ea2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transfusion-medicine-and-blood-group-immunology-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because Rh incompatibility is only ever a concern during pregnancy and never applies to blood transfusions between adults.",
+        "et": "Sest Rh-sobimatus on probleemiks ainult raseduse ajal ega kehti kunagi täiskasvanute vaheliste vereülekannete puhul.",
+        "sourceHash": "a40b9e8b42523067",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transfusion-medicine-and-blood-group-immunology-m3"
+    }
+  ]
+}
