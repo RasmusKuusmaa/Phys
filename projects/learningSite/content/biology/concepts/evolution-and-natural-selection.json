@@ -1,0 +1,19 @@
+{
+  "id": "evolution-and-natural-selection",
+  "subject": "biology",
+  "level": "L1",
+  "module": "biology-fundamentals",
+  "title": {
+    "en": "Evolution and natural selection",
+    "et": "Evolutsioon ja looduslik valik",
+    "sourceHash": "7c208426f213e0f0",
+    "stale": false
+  },
+  "summary": {
+    "en": "Evolution is the change in heritable characteristics of populations over successive generations, and natural selection is the single mechanism Darwin and Wallace identified that reliably produces adaptation without requiring any guiding intention: whenever a population contains heritable variation in some trait, and individuals with certain variants consistently survive and reproduce more successfully than others in a given environment, that variant's frequency in the population necessarily increases generation after generation, purely as an automatic statistical consequence of differential survival and reproduction. Four independent lines of evidence converge on evolution having actually occurred: the fossil record shows a temporal succession of forms consistent with common descent, comparative anatomy reveals homologous structures -- the same underlying skeletal plan modified for flying, swimming, or digging across very different species -- that make sense only as inherited modifications of a shared ancestral structure, molecular evidence shows that the degree of genetic similarity between species tracks almost exactly the relationships already inferred from anatomy and fossils, and speciation has been directly observed happening in real time in both laboratory populations and the wild. Crucially, natural selection acts only on variation that already exists in a population -- it does not create new variation to order in response to an organism's needs, and it does not act on or benefit any individual organism during that organism's own lifetime; it is a population-level, multi-generational statistical process, not something that happens to a single organism.",
+    "et": "Evolutsioon on populatsioonide pärilike tunnuste muutumine järjestikuste põlvkondade vältel, ning looduslik valik on ainuke mehhanism, mille Darwin ja Wallace tuvastasid, mis usaldusväärselt tekitab kohastumusi ilma igasuguse suunava kavatsuseta: iga kord, kui populatsioonis esineb pärilikku varieeruvust mõne tunnuse osas ning teatud variantidega isendid ellu jäävad ja paljunevad antud keskkonnas järjekindlalt edukamalt kui teised, suureneb selle variandi sagedus populatsioonis paratamatult põlvkondade kaupa, puhtalt automaatse statistilise tagajärjena erinevast ellujäämisest ja paljunemisest. Neli sõltumatut tõendusliini koonduvad selle juurde, et evolutsioon on tegelikult toimunud: fossiilileiud näitavad vormide ajalist järgnevust, mis on kooskõlas ühise põlvnemisega, võrdlev anatoomia paljastab homoloogseid struktuure -- sama aluseks olev skeleti plaan, mis on modifitseeritud lendamiseks, ujumiseks või kaevamiseks väga erinevate liikide seas -- mis on mõistlikud ainult ühise esivanema struktuuri päritud modifikatsioonidena, molekulaarsed tõendid näitavad, et liikide geneetilise sarnasuse aste järgib peaaegu täpselt suhteid, mis on juba tuletatud anatoomiast ja fossiilidest, ning liigiteket on otseselt jälgitud toimumas reaalajas nii laborpopulatsioonides kui looduses. Kriitiliselt toimib looduslik valik ainult varieeruvusel, mis juba populatsioonis eksisteerib -- see ei tekita uut varieeruvust tellimuse peale vastuseks organismi vajadustele ning see ei mõju ega too kasu ühelegi üksikorganismile selle organismi enda eluea jooksul; see on populatsiooni tasandi, mitme põlvkonna statistiline protsess, mitte midagi, mis juhtub ühe organismiga.",
+    "sourceHash": "837f2d3fa31b2a92",
+    "stale": false
+  },
+  "prerequisites": []
+}

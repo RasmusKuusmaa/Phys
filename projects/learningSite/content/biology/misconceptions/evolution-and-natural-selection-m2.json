@@ -1,0 +1,10 @@
+{
+  "id": "evolution-and-natural-selection-m2",
+  "conceptId": "evolution-and-natural-selection",
+  "text": {
+    "en": "Evolution happens because organisms 'try' to adapt or because they 'need' a trait to survive, and that need itself produces the adaptation -- in reality, natural selection has no forward-looking mechanism to generate a needed trait on demand; it can only act on random heritable variation that already exists in the population for unrelated reasons, and a trait only spreads if it happens to already exist and happens to confer an advantage in the current environment.",
+    "et": "Evolutsioon toimub seetõttu, et organismid 'püüavad' kohastuda või 'vajavad' tunnust ellujäämiseks, ning see vajadus ise tekitab kohastumuse -- tegelikult ei ole loodusliku valiku juures ette vaatavat mehhanismi, mis genereeriks vajaliku tunnuse tellimuse peale; see saab toimida ainult juhusliku pärilikul varieeruvusel, mis populatsioonis juba mitteseotud põhjustel eksisteerib, ning tunnus levib ainult siis, kui see juhtub juba eksisteerima ja juhtub andma eelise praeguses keskkonnas.",
+    "sourceHash": "1bd645ac0252e796",
+    "stale": false
+  }
+}

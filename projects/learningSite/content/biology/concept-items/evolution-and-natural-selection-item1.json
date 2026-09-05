@@ -1,0 +1,56 @@
+{
+  "id": "evolution-and-natural-selection-item1",
+  "conceptId": "evolution-and-natural-selection",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A population of insects is sprayed repeatedly with an insecticide, and after several generations most surviving insects carry a specific gene variant that breaks down the insecticide. What does natural selection actually explain about this outcome?",
+    "et": "Putukapopulatsiooni pihustatakse korduvalt insektitsiidiga, ning pärast mitut põlvkonda kannab enamik ellujäänud putukaid spetsiifilist geenivarianti, mis lagundab insektitsiidi. Mida looduslik valik selle tulemuse kohta tegelikult selgitab?",
+    "sourceHash": "4810a6ef4de347a0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The gene variant for insecticide breakdown already existed in some individuals before spraying began (from random pre-existing variation), and those individuals survived and reproduced disproportionately, increasing the variant's frequency in the population over successive generations.",
+        "et": "Insektitsiidi lagundamise geenivariant eksisteeris juba mõnedel isenditel enne pihustamise algust (juhuslikust olemasolevast varieeruvusest), ning need isendid jäid ellu ja paljunesid ebaproportsionaalselt, suurendades variandi sagedust populatsioonis järjestikuste põlvkondade vältel.",
+        "sourceHash": "b73f99c75f39e5cb",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The insects needed to survive the insecticide, so their bodies generated the resistance gene variant in direct response to that need.",
+        "et": "Putukad vajasid insektitsiidist ellujäämist, mistõttu nende kehad genereerisid resistentsuse geenivariandi otsese vastusena sellele vajadusele.",
+        "sourceHash": "d83d705fffc482d2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "evolution-and-natural-selection-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Individual insects that were repeatedly exposed to the insecticide gradually built up a tolerance during their own lifetimes and passed that acquired tolerance on to their offspring.",
+        "et": "Üksikud putukad, kes korduvalt insektitsiidiga kokku puutusid, arendasid oma eluea jooksul järk-järgult taluvuse ja pärandasid selle omandatud taluvuse oma järglastele.",
+        "sourceHash": "adddd4a67cc652f0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "evolution-and-natural-selection-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The surviving insects are transitioning into an entirely new, more advanced type of insect on their way toward becoming a different, superior species.",
+        "et": "Ellujäänud putukad on üleminekul täiesti uude, arenenumasse putukatüüpi, teel muutumaks teistsuguseks, ülimuslikuks liigiks.",
+        "sourceHash": "70e636baf2aa7f0a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "evolution-and-natural-selection-m3"
+    }
+  ]
+}

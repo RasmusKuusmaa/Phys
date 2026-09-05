@@ -1,0 +1,10 @@
+{
+  "id": "evolution-and-natural-selection-m1",
+  "conceptId": "evolution-and-natural-selection",
+  "text": {
+    "en": "Evolution means an individual organism changes/adapts during its own lifetime in response to its environment (e.g. a giraffe stretching its neck and passing on a longer neck to its offspring) -- in reality, natural selection acts on existing heritable variation between individuals across generations, not on traits an individual organism acquires during its own lifetime; an individual giraffe cannot pass on a neck stretched during its life, only genetic variation for neck length already present at birth can be inherited, and evolution is the shift in that variation's frequency across the whole population over generations.",
+    "et": "Evolutsioon tähendab, et üksikorganism muutub/kohastub oma eluea jooksul vastuseks oma keskkonnale (nt kaelkirjak venitab kaela ja pärandab pikema kaela oma järglastele) -- tegelikult toimib looduslik valik olemasoleval pärilikul varieeruvusel isendite vahel läbi põlvkondade, mitte tunnustel, mida üksikorganism omandab oma eluea jooksul; üksik kaelkirjak ei saa pärandada oma eluea jooksul venitatud kaela, ainult sünnihetkel juba olemasolevat geneetilist varieeruvust kaela pikkuse osas saab pärandada, ning evolutsioon on selle varieeruvuse sageduse nihe kogu populatsioonis põlvkondade jooksul.",
+    "sourceHash": "21e2f98e03f1c2f3",
+    "stale": false
+  }
+}
