@@ -95,8 +95,13 @@ later-phases pattern every new subject on this site has started with.
 
 To be scoped after Bio1 lands. Candidates already surveyed: ecosystem
 ecology and energy flow (trophic levels, food webs, the ten-percent rule),
-animal diversity and body plans, plant diversity and structure, microbial
-diversity and prokaryotic ecology (distinct from medicine's pathogen-
-focused microbiology module), and biodiversity/conservation biology.
+animal diversity and body plans, plant diversity and structure, and
+microbial diversity and prokaryotic ecology (distinct from medicine's
+pathogen-focused microbiology module). Biodiversity/conservation biology
+was considered here but reassigned to `environmental-science`'s own plan
+(a later `SCIENCE_ROADMAP.md` item) instead — it's a more natural fit as
+that subject's applied/policy-facing "biosphere systems" territory than
+this subject's organismal/evolutionary lens, and assigning it once avoids
+the two subjects racing to cover the same concept independently.
 
 ---
