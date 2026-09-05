@@ -1,0 +1,10 @@
+{
+  "id": "computer-architecture-and-the-von-neumann-model-m1",
+  "conceptId": "computer-architecture-and-the-von-neumann-model",
+  "text": {
+    "en": "A modern CPU executes program instructions strictly in the linear order they appear in the compiled code, one fully completed before the next begins, with no reordering or overlap -- in reality, real CPUs use techniques like pipelining and out-of-order execution to work on multiple instructions simultaneously in different stages, as long as the doing so doesn't change the program's final observable result, purely to keep the CPU's hardware busier than strict one-at-a-time execution would.",
+    "et": "Kaasaegne protsessor täidab programmi käske rangelt selles lineaarses järjekorras, milles need kompileeritud koodis esinevad, üks täielikult lõpetatuna enne järgmise algust, ilma ümberjärjestamise või kattumiseta -- tegelikult kasutavad reaalsed protsessorid tehnikaid nagu konveiertöötlus ja järjekorravälist täitmist, et töötada mitme käsuga korraga erinevates etappides, kui see ei muuda programmi lõplikku jälgitavat tulemust, puhtalt selleks, et hoida protsessori riistvara hõivatumana, kui range ühekaupa täitmine võimaldaks.",
+    "sourceHash": "f15ccfa0a2181aba",
+    "stale": false
+  }
+}

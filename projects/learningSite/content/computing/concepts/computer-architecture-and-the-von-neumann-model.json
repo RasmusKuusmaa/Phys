@@ -1,0 +1,21 @@
+{
+  "id": "computer-architecture-and-the-von-neumann-model",
+  "subject": "computing",
+  "level": "L2",
+  "module": "computer-architecture",
+  "title": {
+    "en": "Computer architecture and the von Neumann model",
+    "et": "Arvutiarhitektuur ja von Neumanni mudel",
+    "sourceHash": "fcc1af65f7bf1564",
+    "stale": false
+  },
+  "summary": {
+    "en": "The von Neumann architecture that essentially every general-purpose computer still follows stores program instructions and the data those instructions operate on in the same memory, addressed the same way, which is precisely what lets a computer be reprogrammed by simply loading different instructions into that memory rather than requiring physical rewiring for every new task -- the defining feature that separates a general-purpose computer from a fixed-function calculator. Executing a program is a continuously repeating fetch-decode-execute cycle: the CPU fetches the next instruction from memory at the address its program counter points to, decodes that instruction to determine which operation it specifies, executes that operation (perhaps reading or writing data in memory, or performing an arithmetic operation), and then advances the program counter to fetch the next instruction, repeating this cycle billions of times per second. Because a single monolithic memory fast enough to keep up with the CPU at every step would be prohibitively expensive to build at any useful size, real systems instead organize memory into a hierarchy of several distinct layers -- a handful of registers built directly into the CPU (fastest, smallest, most expensive per byte), a small cache memory just outside it, larger main memory (RAM), and a much larger but far slower disk -- each layer trading capacity for speed, and each layer's contents managed so that the data actually being used right now sits, as often as possible, in the fastest layer available.",
+    "et": "Von Neumanni arhitektuur, mida sisuliselt iga üldotstarbeline arvuti ikka veel järgib, salvestab programmi käsud ja andmed, millega need käsud töötavad, samasse mällu, aadresseerituna samal viisil, mis on täpselt see, mis lubab arvutit ümber programmeerida, lihtsalt laadides sellesse mällu erinevad käsud, selle asemel et nõuda füüsilist ümberjuhtmestamist iga uue ülesande jaoks -- määratlev omadus, mis eristab üldotstarbelist arvutit kindla funktsiooniga kalkulaatorist. Programmi täitmine on pidevalt korduv toomise-dekodeerimise-täitmise tsükkel: protsessor toob järgmise käsu mälust aadressilt, millele osutab selle käsuloendur, dekodeerib selle käsu, et määrata, millist operatsiooni see määrab, täidab selle operatsiooni (võib-olla lugedes või kirjutades andmeid mällu või tehes aritmeetilise operatsiooni), ning seejärel liigutab käsuloendurit järgmise käsu toomiseks, korrates seda tsüklit miljardeid kordi sekundis. Kuna ainuke monoliitne mälu, mis oleks piisavalt kiire, et protsessoriga igal sammul sammu pidada, oleks mistahes kasuliku suuruse juures liiga kallis ehitada, korraldavad reaalsed süsteemid selle asemel mälu mitmest eristuvast kihist koosnevaks hierarhiaks -- käputäis protsessorisse endasse ehitatud registreid (kiireim, väikseim, kallim baidi kohta), väike vahemälu vahetult väljaspool seda, suurem põhimälu (RAM) ja palju suurem, kuid palju aeglasem ketas -- kus iga kiht vahetab mahtu kiiruse vastu, ning iga kihi sisu hallatakse nii, et andmed, mida praegu tegelikult kasutatakse, asuvad võimalikult sageli kiireimas saadaolevas kihis.",
+    "sourceHash": "bfb08630ff7a5897",
+    "stale": false
+  },
+  "prerequisites": [
+    "binary-representation-and-number-systems"
+  ]
+}

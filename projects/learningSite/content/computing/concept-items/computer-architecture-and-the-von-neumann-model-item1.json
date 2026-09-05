@@ -1,0 +1,56 @@
+{
+  "id": "computer-architecture-and-the-von-neumann-model-item1",
+  "conceptId": "computer-architecture-and-the-von-neumann-model",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does a computer store both its currently-running program's instructions and the data that program works on in the same memory, addressed the same way, rather than in two physically separate systems?",
+    "et": "Miks salvestab arvuti nii oma hetkel töötava programmi käsud kui ka andmed, millega see programm töötab, samasse mällu, aadresseerituna samal viisil, mitte kahte füüsiliselt eraldiseisvasse süsteemi?",
+    "sourceHash": "82dc95ef1389b58b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because this is the defining feature of the von Neumann architecture, and it's exactly what allows the computer to be reprogrammed for a new task by simply loading different instructions into memory, rather than requiring physical rewiring.",
+        "et": "Sest see ongi von Neumanni arhitektuuri määratlev omadus, ning see on täpselt see, mis lubab arvutit uue ülesande jaoks ümber programmeerida, lihtsalt laadides mällu erinevad käsud, selle asemel et nõuda füüsilist ümberjuhtmestamist.",
+        "sourceHash": "449c15887500fbf3",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because separating instructions and data into different memory systems was tried historically and found to always be slower, with no architectural benefit ever demonstrated.",
+        "et": "Sest käskude ja andmete eraldamist erinevatesse mälusüsteemidesse prooviti ajalooliselt ja leiti, et see on alati aeglasem, ilma et oleks kunagi demonstreeritud arhitektuurilist kasu.",
+        "sourceHash": "1d8c3525c920548a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computer-architecture-and-the-von-neumann-model-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because instructions and data are physically identical at the hardware level and cannot be distinguished by any addressing scheme regardless of architecture.",
+        "et": "Sest käsud ja andmed on riistvara tasandil füüsiliselt identsed ning neid ei saa mistahes arhitektuuri korral aadresseerimisskeemiga eristada.",
+        "sourceHash": "f2da95285bfb1959",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computer-architecture-and-the-von-neumann-model-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the CPU's registers already keep instructions and data fully separate, making the choice at the main-memory level irrelevant to the computer's actual reprogrammability.",
+        "et": "Sest protsessori registrid hoiavad käske ja andmeid juba täielikult eraldi, muutes valiku põhimälu tasandil arvuti tegeliku ümberprogrammeeritavuse jaoks ebaoluliseks.",
+        "sourceHash": "73e83014d1dc529d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computer-architecture-and-the-von-neumann-model-m3"
+    }
+  ]
+}

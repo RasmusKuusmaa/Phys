@@ -1,0 +1,10 @@
+{
+  "id": "computer-architecture-and-the-von-neumann-model-m3",
+  "conceptId": "computer-architecture-and-the-von-neumann-model",
+  "text": {
+    "en": "Program instructions and the data a program operates on are handled by completely separate, physically distinct systems inside a von Neumann computer, never sharing the same memory or addressing -- in reality, the defining feature of the von Neumann architecture specifically is that instructions and data share the same memory and addressing scheme, which is exactly what lets a computer be reprogrammed just by loading new instructions rather than being rewired.",
+    "et": "Programmi käske ja andmeid, millega programm töötab, käsitlevad von Neumanni arvutis täiesti eraldiseisvad, füüsiliselt erinevad süsteemid, mis kunagi ei jaga sama mälu ega aadresseerimist -- tegelikult on von Neumanni arhitektuuri määratlev omadus spetsiifiliselt see, et käsud ja andmed jagavad sama mälu ja aadresseerimisskeemi, mis ongi täpselt see, mis lubab arvutit ümber programmeerida lihtsalt uute käskude laadimisega, selle asemel et see ümber juhtmestada.",
+    "sourceHash": "7033f2b833526082",
+    "stale": false
+  }
+}

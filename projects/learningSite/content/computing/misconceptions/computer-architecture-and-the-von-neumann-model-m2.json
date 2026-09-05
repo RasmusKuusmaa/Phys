@@ -1,0 +1,10 @@
+{
+  "id": "computer-architecture-and-the-von-neumann-model-m2",
+  "conceptId": "computer-architecture-and-the-von-neumann-model",
+  "text": {
+    "en": "Since main memory (RAM) can already hold everything a running program needs, the extra layers like registers and cache mostly exist for historical/legacy reasons rather than genuine necessity -- in reality, the memory hierarchy exists because a single memory technology that's both large-capacity and fast enough to match the CPU's speed at every access is prohibitively expensive to build; each layer is a deliberate capacity-for-speed trade-off, not a legacy artifact.",
+    "et": "Kuna põhimälu (RAM) suudab juba mahutada kõik, mida töötav programm vajab, eksisteerivad täiendavad kihid nagu registrid ja vahemälu peamiselt ajaloolistel/pärandpõhjustel, mitte tõelisest vajadusest -- tegelikult eksisteerib mälu hierarhia seetõttu, et ühte mälutehnoloogiat, mis on korraga suure mahuga ja piisavalt kiire, et protsessori kiirusega igal ligipääsul sammu pidada, on liiga kallis ehitada; iga kiht on teadlik mahu-kiiruse vahetuskaup, mitte pärandartefakt.",
+    "sourceHash": "e7934be611059840",
+    "stale": false
+  }
+}
