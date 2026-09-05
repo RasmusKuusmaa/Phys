@@ -1,0 +1,56 @@
+{
+  "id": "transportation-engineering-and-highway-design-item1",
+  "conceptId": "transportation-engineering-and-highway-design",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A busy highway experiences a sudden, unexplained slowdown with no accident, construction, or lane closure anywhere nearby. What does this best illustrate about traffic flow?",
+    "et": "Kiirel maanteel toimub äkiline, seletamatu aeglustumine ilma õnnetuse, ehitustööde või sõiduraja sulgemiseta lähikonnas. Mida see kõige paremini illustreerib liiklusvoo kohta?",
+    "sourceHash": "290fab0e415d5483",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Traffic flow rate is a nonlinear function of vehicle density that can decline once density crosses a critical threshold, so a self-sustaining slowdown can emerge purely from the compounding effect of closer following and lower speeds, without any discrete external cause.",
+        "et": "Liiklusvoo hulk on sõidukite tiheduse mittelineaarne funktsioon, mis võib väheneda, kui tihedus ületab kriitilise läve, mistõttu võib iseennast säilitav aeglustumine tekkida puhtalt tihedama järgnemise ja madalamate kiiruste liitmõjust, ilma igasuguse eraldiseisva välise põhjuseta.",
+        "sourceHash": "9cdb8109902e1191",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This must mean a lane was effectively lost somewhere, since adding/losing lane capacity is the only thing that can meaningfully change highway throughput.",
+        "et": "See peab tähendama, et kuskil kaotati efektiivselt üks sõidurada, kuna sõiduraja lisamine/kaotamine on ainus asi, mis saab maantee läbilaskvust oluliselt muuta.",
+        "sourceHash": "d8aef1437db18725",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transportation-engineering-and-highway-design-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "There must be a hidden incident somewhere upstream causing this, since traffic flow itself cannot produce a slowdown without some external triggering event.",
+        "et": "Kuskil ülesvoolu peab olema varjatud intsident, mis seda põhjustab, kuna liiklusvoog ise ei saa tekitada aeglustumist ilma mingi välise vallandava sündmuseta.",
+        "sourceHash": "5f2ece270a1e9a7e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transportation-engineering-and-highway-design-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This is most likely a pavement-surface defect, since the road surface material is the dominant factor in how smoothly high-density traffic can flow.",
+        "et": "See on kõige tõenäolisemalt katendipinna defekt, kuna teepinna materjal on domineeriv tegur selles, kui sujuvalt suure tihedusega liiklus voolata saab.",
+        "sourceHash": "f9855700a67df4b1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transportation-engineering-and-highway-design-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "transportation-engineering-and-highway-design-m3",
+  "conceptId": "transportation-engineering-and-highway-design",
+  "text": {
+    "en": "Pavement design is mainly about the road surface material being hard/tough enough; what's underneath the surface course doesn't matter much -- in reality, pavement is engineered as a layered system specifically to spread a vehicle's concentrated wheel load out over a wide enough area of the underlying soil that it doesn't exceed that soil's bearing capacity.",
+    "et": "Katendi projekteerimine seisneb peamiselt selles, et teepinna materjal oleks piisavalt kõva/vastupidav; mis on pealiskihi all, ei ole eriti oluline -- tegelikult on katend projekteeritud kihilise süsteemina spetsiaalselt selleks, et jaotada sõiduki kontsentreeritud rattakoormus piisavalt laiale aluspinnase alale, et see ei ületaks selle pinnase kandevõimet.",
+    "sourceHash": "64a758c363d4e8a4",
+    "stale": false
+  }
+}

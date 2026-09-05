@@ -1,0 +1,10 @@
+{
+  "id": "transportation-engineering-and-highway-design-m1",
+  "conceptId": "transportation-engineering-and-highway-design",
+  "text": {
+    "en": "Adding more lanes to a highway always increases traffic throughput roughly proportionally, with no diminishing returns -- in reality, traffic flow rate is a nonlinear function of vehicle density that peaks at an intermediate density and falls again at higher density, and added capacity can also induce additional demand -- so more lanes do not guarantee a proportional throughput increase.",
+    "et": "Maanteele rohkema sõiduraja lisamine suurendab liikluse läbilaskvust alati ligikaudu proportsionaalselt, ilma väheneva tuluta -- tegelikult on liiklusvoo hulk sõidukite tiheduse mittelineaarne funktsioon, mis saavutab tipu keskmise tiheduse juures ja langeb kõrgema tiheduse juures uuesti, ning lisatud läbilaskvus võib põhjustada ka täiendavat nõudlust -- seega ei taga rohkem sõidurajad proportsionaalset läbilaskvuse kasvu.",
+    "sourceHash": "caa801c8b8a6ef8b",
+    "stale": false
+  }
+}

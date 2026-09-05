@@ -1,0 +1,19 @@
+{
+  "id": "transportation-engineering-and-highway-design",
+  "subject": "civil-engineering",
+  "level": "L2",
+  "module": "civil-engineering-fundamentals",
+  "title": {
+    "en": "Transportation engineering and highway design",
+    "et": "Transporditehnika ja maanteeprojekteerimine",
+    "sourceHash": "ff085c6fbf4fa656",
+    "stale": false
+  },
+  "summary": {
+    "en": "A highway's capacity is not a simple matter of more lanes producing proportionally more throughput; traffic flow follows its own relationship between vehicle density, flow rate, and speed, and that relationship is fundamentally nonlinear -- flow rate actually peaks at an intermediate density and falls again as density increases further, because vehicles must slow down and leave more following distance as the road gets more crowded, which is exactly why a highway can become slower and lower-throughput, not faster, once traffic density passes a critical point. Pavement design faces its own distinct engineering problem: a road surface must distribute a vehicle's wheel load over a wide enough area of the underlying soil that it doesn't exceed that soil's bearing capacity, which is why pavement structure is built as layers of decreasing stiffness from a strong surface course down to the natural subgrade, spreading concentrated load out before it reaches weaker material below. Geometric design -- how sharply a road can curve, how far ahead a driver must be able to see -- is governed by a driver's physical reaction time and a vehicle's braking capability at the design speed, not by aesthetics or available land alone, which is why a curve radius or sight-distance requirement is a calculated safety limit, not an arbitrary standard.",
+    "et": "Maantee läbilaskevõime pole lihtne küsimus sellest, et rohkem sõidurajad annavad proportsionaalselt rohkem läbilaskvust; liiklusvoog järgib oma seost sõidukite tiheduse, voo kiiruse ja kiiruse vahel, ning see seos on põhimõtteliselt mittelineaarne -- vooluhulk saavutab tegelikult tipu keskmise tiheduse juures ning langeb tiheduse edasisel kasvamisel uuesti, kuna sõidukid peavad tee ummistudes aeglustama ja jätma suurema vahemaa, mistõttu võib maantee muutuda aeglasemaks ja madalama läbilaskvusega, mitte kiiremaks, kui liiklustihedus ületab kriitilise punkti. Katend seisab silmitsi oma eristuva insenerprobleemiga: teepind peab jaotama sõiduki rattakoormuse piisavalt laiale aluspinnase alale, et see ei ületaks selle pinnase kandevõimet, mistõttu ehitatakse katendikonstruktsioon vähenevast jäikusest kihtidena, tugevast pealiskihist kuni looduspinnaseni, jaotades kontsentreeritud koormuse laiali, enne kui see jõuab nõrgema materjalini all. Geomeetriline projekteerimine -- kui järsult tee võib kaarduda, kui kaugele ette peab juht nägema -- lähtub juhi füüsilisest reaktsiooniajast ja sõiduki pidurdusvõimest projekteerimiskiirusel, mitte üksnes esteetikast või olemasolevast maast, mistõttu on kaareraadiuse või nähtavuskauguse nõue arvutuslik ohutuspiirang, mitte suvaline standard.",
+    "sourceHash": "be657df1e8ab7cb6",
+    "stale": false
+  },
+  "prerequisites": []
+}

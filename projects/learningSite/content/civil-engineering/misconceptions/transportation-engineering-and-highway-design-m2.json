@@ -1,0 +1,10 @@
+{
+  "id": "transportation-engineering-and-highway-design-m2",
+  "conceptId": "transportation-engineering-and-highway-design",
+  "text": {
+    "en": "A traffic jam with no visible cause (no accident, no lane closure) must actually have some hidden cause upstream that simply hasn't been found yet -- in reality, traffic flow's own density-flow relationship can produce a self-sustaining slowdown once density crosses a critical threshold, purely from the compounding effect of vehicles needing to slow down and leave more following distance as the road gets more crowded.",
+    "et": "Nähtava põhjuseta liiklusummikul (õnnetuseta, sõiduraja sulgemiseta) peab tegelikult olema mingi varjatud põhjus ülesvoolu, mida lihtsalt pole veel leitud -- tegelikult võib liiklusvoo enda tiheduse-vooluhulga seos tekitada iseennast säilitava aeglustumise, kui tihedus ületab kriitilise läve, puhtalt sõidukite aeglustumise ja suurema järgnemisvahemaa liitmõjust tee ummistudes.",
+    "sourceHash": "5f7b0ba3191b8859",
+    "stale": false
+  }
+}
