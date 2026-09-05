@@ -1,0 +1,56 @@
+{
+  "id": "weather-forecasting-and-atmospheric-predictability-item1",
+  "conceptId": "weather-forecasting-and-atmospheric-predictability",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Even with a perfect atmospheric model and unlimited computing power, why would weather forecasts still become unreliable much beyond about two weeks?",
+    "et": "Miks muutuksid ilmaprognoosid isegi täiusliku atmosfäärimudeli ja piiramatu arvutusvõimsuse korral ikkagi ebausaldusväärseks palju rohkem kui umbes kahe nädala pärast?",
+    "sourceHash": "07be9bd65723ddea",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the atmosphere is a chaotic system whose sensitivity to tiny, unavoidable imprecision in the measured initial state guarantees forecasts diverge from reality given enough time, regardless of model quality.",
+        "et": "Sest atmosfäär on kaootiline süsteem, mille tundlikkus väikese, vältimatu ebatäpsuse suhtes mõõdetud algseisundis tagab, et prognoosid lahknevad tegelikkusest piisava aja jooksul, sõltumata mudeli kvaliteedist.",
+        "sourceHash": "839a09be3589f733",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because current satellites and weather stations simply don't collect enough data points, a limitation that would disappear with a sufficiently large sensor network.",
+        "et": "Sest praegused satelliidid ja ilmajaamad lihtsalt ei kogu piisavalt andmepunkte, piirang, mis kaoks piisavalt suure sensorvõrguga.",
+        "sourceHash": "0ea7c3db41e04eee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "weather-forecasting-and-atmospheric-predictability-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because two weeks is simply the longest period over which historical weather patterns have ever been recorded for comparison.",
+        "et": "Sest kaks nädalat on lihtsalt pikim periood, mille jooksul on ajaloolisi ilmamustreid kunagi võrdlemiseks salvestatud.",
+        "sourceHash": "ea92bd0d7e2b9083",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "weather-forecasting-and-atmospheric-predictability-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because computing power, not model accuracy or initial measurement, is the single limiting factor, and doubling computing power would proportionally extend reliable forecast range indefinitely.",
+        "et": "Sest arvutusvõimsus, mitte mudeli täpsus ega algmõõtmine, on ainus piirav tegur, ning arvutusvõimsuse kahekordistamine pikendaks proportsionaalselt usaldusväärset prognoosivahemikku lõputult.",
+        "sourceHash": "f55753f4c5853b7b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "weather-forecasting-and-atmospheric-predictability-m3"
+    }
+  ]
+}

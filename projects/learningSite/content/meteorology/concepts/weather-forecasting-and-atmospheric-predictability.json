@@ -1,0 +1,19 @@
+{
+  "id": "weather-forecasting-and-atmospheric-predictability",
+  "subject": "meteorology",
+  "level": "L2",
+  "module": "meteorology-fundamentals",
+  "title": {
+    "en": "Weather forecasting and atmospheric predictability",
+    "et": "Ilmaennustus ja atmosfääri ennustatavus",
+    "sourceHash": "ae1f6a5732c04634",
+    "stale": false
+  },
+  "summary": {
+    "en": "A modern weather forecast is not a lookup of historical patterns but the output of a numerical weather prediction model: a snapshot of the atmosphere's current state (temperature, pressure, humidity, and wind measured across a three-dimensional grid by satellites, weather balloons, and surface stations) fed into equations describing how fluids and heat behave, then stepped forward in time on a supercomputer to project what the atmosphere's state will be hours or days later. A forecast's accuracy depends on two entirely separate things, and it's important not to conflate them: how good the physical equations and grid resolution are, and how precisely the atmosphere's current state was actually measured to begin with. This second dependency turns out to impose a hard ceiling on forecasting, not just a practical limitation to be engineered away with more computing power: the atmosphere is a chaotic system, meaning two initial states that differ by an amount too small to ever measure will, given enough time, evolve into completely different weather -- a property sometimes called the butterfly effect. Because no measurement of the atmosphere's starting state can ever be perfectly precise, this sensitivity to initial conditions guarantees that forecast accuracy degrades with lead time even with a perfect model and infinite computing power, which is why weather forecasts reliably work well for a few days but become genuinely unreliable, in principle rather than just in current practice, much beyond about two weeks.",
+    "et": "Kaasaegne ilmaprognoos ei ole ajalooliste mustrite otsing, vaid arvutusliku ilmaennustusmudeli väljund: atmosfääri praeguse seisundi hetktõmmis (temperatuur, rõhk, niiskus ja tuul mõõdetud kolmemõõtmelisel võrgustikul satelliitide, ilmapallide ja pinnajaamade poolt), mis söödetakse võrranditesse, mis kirjeldavad, kuidas vedelikud ja soojus käituvad, ning seejärel edastatakse ajas edasi superarvutis, et prognoosida, milline on atmosfääri seisund tundide või päevade pärast. Prognoosi täpsus sõltub kahest täiesti eraldiseisvast asjast, ning oluline on neid mitte segamini ajada: kui head on füüsikalised võrrandid ja võrgustiku resolutsioon, ning kui täpselt atmosfääri praegune seisund tegelikult algselt mõõdeti. See teine sõltuvus kehtestab ilmaennustusele kõva lae, mitte ainult praktilise piirangu, mida saab suurema arvutusvõimsusega kõrvaldada: atmosfäär on kaootiline süsteem, mis tähendab, et kaks algseisundit, mis erinevad liiga väikese suuruse võrra, et kunagi mõõta, arenevad piisava aja jooksul täiesti erinevaks ilmaks -- omadus, mida mõnikord nimetatakse liblikaefektiks. Kuna ükski atmosfääri algseisundi mõõtmine ei saa kunagi olla täiuslikult täpne, tagab see tundlikkus algtingimuste suhtes, et prognoosi täpsus halveneb ennustusaja pikenedes isegi täiusliku mudeli ja lõpmatu arvutusvõimsuse korral, mistõttu töötavad ilmaprognoosid usaldusväärselt hästi mõne päeva jooksul, kuid muutuvad tõeliselt ebausaldusväärseks, põhimõtteliselt, mitte ainult praeguse praktika tõttu, palju rohkem kui umbes kahe nädala pärast.",
+    "sourceHash": "1a6c98facc9a2dd0",
+    "stale": false
+  },
+  "prerequisites": []
+}

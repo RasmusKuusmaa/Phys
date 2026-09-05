@@ -1,0 +1,10 @@
+{
+  "id": "weather-forecasting-and-atmospheric-predictability-m1",
+  "conceptId": "weather-forecasting-and-atmospheric-predictability",
+  "text": {
+    "en": "Weather forecasts become unreliable past a certain lead time purely because of insufficient data or computing power, a practical limitation that better technology will eventually overcome -- in reality, the atmosphere is a chaotic system with a fundamental, mathematically provable sensitivity to tiny differences in initial conditions, which guarantees forecast accuracy degrades with lead time even given a perfect model and unlimited computing power -- a hard theoretical ceiling, not merely a current engineering shortfall.",
+    "et": "Ilmaprognoosid muutuvad pärast teatud ennustusaega ebausaldusväärseks puhtalt ebapiisavate andmete või arvutusvõimsuse tõttu, praktiline piirang, mida parem tehnoloogia lõpuks ületab -- tegelikult on atmosfäär kaootiline süsteem, millel on fundamentaalne, matemaatiliselt tõestatav tundlikkus väikeste erinevuste suhtes algtingimustes, mis tagab, et prognoosi täpsus halveneb ennustusaja pikenedes isegi täiusliku mudeli ja piiramatu arvutusvõimsuse korral -- kõva teoreetiline lagi, mitte lihtsalt praegune inseneripuudus.",
+    "sourceHash": "e92a6d7f1cbe5a28",
+    "stale": false
+  }
+}

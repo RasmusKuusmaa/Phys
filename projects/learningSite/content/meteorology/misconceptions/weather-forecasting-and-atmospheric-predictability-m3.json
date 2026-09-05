@@ -1,0 +1,10 @@
+{
+  "id": "weather-forecasting-and-atmospheric-predictability-m3",
+  "conceptId": "weather-forecasting-and-atmospheric-predictability",
+  "text": {
+    "en": "Forecast accuracy depends only on how good the model's physics/grid resolution is, so a sufficiently advanced model could forecast arbitrarily far into the future -- in reality, forecast accuracy depends on two separate things (model quality AND the precision of the measured initial state), and because the atmosphere's chaotic sensitivity to initial conditions means no measurement can ever be precise enough to avoid eventual divergence, even a perfect model cannot forecast arbitrarily far ahead.",
+    "et": "Prognoosi täpsus sõltub ainult sellest, kui hea on mudeli füüsika/võrgustiku resolutsioon, mistõttu piisavalt arenenud mudel võiks ennustada suvaliselt kaugele tulevikku -- tegelikult sõltub prognoosi täpsus kahest eraldiseisvast asjast (mudeli kvaliteet JA mõõdetud algseisundi täpsus), ning kuna atmosfääri kaootiline tundlikkus algtingimuste suhtes tähendab, et ükski mõõtmine ei saa kunagi olla piisavalt täpne, et vältida lõplikku lahknemist, ei suuda isegi täiuslik mudel ennustada suvaliselt kaugele ette.",
+    "sourceHash": "0c1883f64df71ce7",
+    "stale": false
+  }
+}
