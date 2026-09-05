@@ -1,0 +1,59 @@
+{
+  "id": "confidence-intervals-and-estimation-formula1",
+  "conceptId": "confidence-intervals-and-estimation",
+  "latex": "E = z \\cdot \\frac{\\sigma}{\\sqrt{n}}",
+  "symbols": [
+    {
+      "symbol": "E",
+      "name": {
+        "en": "confidence interval half-width",
+        "et": "usaldusvahemiku poolpikkus",
+        "sourceHash": "aee0d844422c17b7",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "z",
+      "name": {
+        "en": "critical value",
+        "et": "kriitiline väärtus",
+        "sourceHash": "4a470f11497bfae2",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "sigma",
+      "name": {
+        "en": "standard deviation",
+        "et": "standardhälve",
+        "sourceHash": "366b910bc6d0ee3b",
+        "stale": false
+      },
+      "unit": "1"
+    },
+    {
+      "symbol": "n",
+      "name": {
+        "en": "sample size",
+        "et": "valimi suurus",
+        "sourceHash": "c3fa44a62fc27e93",
+        "stale": false
+      },
+      "unit": "1"
+    }
+  ],
+  "solveFor": [
+    "E",
+    "z",
+    "sigma",
+    "n"
+  ],
+  "expressions": {
+    "E": "z*sigma/sqrt(n)",
+    "z": "E*sqrt(n)/sigma",
+    "sigma": "E*sqrt(n)/z",
+    "n": "(z*sigma/E)^2"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "confidence-intervals-and-estimation-m3",
+  "conceptId": "confidence-intervals-and-estimation",
+  "text": {
+    "en": "A narrower confidence interval is always evidence of a more accurate/better study, regardless of sample size or population variability -- in reality, a narrow interval can just as easily come from a small, non-representative sample that happened to produce low apparent variability, or from a poorly designed study; interval width reflects sampling variability and sample size, not automatically study quality.",
+    "et": "Kitsam usaldusvahemik on alati tõend täpsemast/paremast uuringust, sõltumata valimi suurusest või populatsiooni muutlikkusest -- tegelikult võib kitsas vahemik sama hästi tuleneda väikesest, mitteesindusliku valimist, mis juhtus tootma madalat näilikku muutlikkust, või halvasti disainitud uuringust; vahemiku laius peegeldab valimi kõikumist ja valimi suurust, mitte automaatselt uuringu kvaliteeti.",
+    "sourceHash": "ba083be1a3f03aa2",
+    "stale": false
+  }
+}

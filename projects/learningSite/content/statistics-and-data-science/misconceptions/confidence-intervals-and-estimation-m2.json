@@ -1,0 +1,10 @@
+{
+  "id": "confidence-intervals-and-estimation-m2",
+  "conceptId": "confidence-intervals-and-estimation",
+  "text": {
+    "en": "Doubling the sample size roughly halves the margin of error, so quadrupling it should eliminate the margin of error almost entirely -- in reality, the margin of error shrinks with the SQUARE ROOT of sample size, so quadrupling the sample size only halves the margin of error (since sqrt(4)=2), and eliminating it entirely would require an infinite sample.",
+    "et": "Valimi suuruse kahekordistamine vähendab veapiiri ligikaudu poole võrra, mistõttu selle neljakordistamine peaks veapiiri peaaegu täielikult kõrvaldama -- tegelikult kahaneb veapiir valimi suuruse RUUTJUURE võrra, mistõttu valimi suuruse neljakordistamine vähendab veapiiri vaid poole võrra (kuna sqrt(4)=2), ning selle täielik kõrvaldamine nõuaks lõpmatut valimit.",
+    "sourceHash": "a63f68183486a92e",
+    "stale": false
+  }
+}

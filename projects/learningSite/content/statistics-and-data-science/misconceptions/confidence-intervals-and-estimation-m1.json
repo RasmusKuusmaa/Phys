@@ -1,0 +1,10 @@
+{
+  "id": "confidence-intervals-and-estimation-m1",
+  "conceptId": "confidence-intervals-and-estimation",
+  "text": {
+    "en": "A 95% confidence interval means there's a 95% probability that the true population value falls inside this specific computed interval -- in reality, once an interval is computed from actual data, the true value either is or isn't in it (no probability left); the 95% describes the long-run success rate of the procedure across repeated samples, not a probability statement about this one already-computed interval.",
+    "et": "95% usaldusvahemik tähendab, et on 95% tõenäosus, et tõeline populatsiooni väärtus jääb sellesse konkreetsesse arvutatud vahemikku -- tegelikult, kord tegelike andmete põhjal arvutatuna, tõeline väärtus kas on selles või mitte (tõenäosust ei jää üle); 95% kirjeldab protseduuri pikaajalist õnnestumismäära korduvate valimite lõikes, mitte tõenäosusväidet selle ühe juba arvutatud vahemiku kohta.",
+    "sourceHash": "884856b96da1a4bb",
+    "stale": false
+  }
+}

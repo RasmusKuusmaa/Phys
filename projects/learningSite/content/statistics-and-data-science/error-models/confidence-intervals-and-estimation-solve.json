@@ -1,0 +1,37 @@
+{
+  "id": "confidence-intervals-and-estimation-solve",
+  "formulaId": "confidence-intervals-and-estimation-formula1",
+  "solveFor": "E",
+  "mistakes": [
+    {
+      "id": "forgot-sqrt",
+      "description": {
+        "en": "Divided sigma by n directly instead of by the square root of n.",
+        "et": "Jagas standardhälbe otse valimi suurusega, selle asemel et jagada valimi suuruse ruutjuurega.",
+        "sourceHash": "cc16e76b4829eb6c",
+        "stale": false
+      },
+      "expression": "z*sigma/n"
+    },
+    {
+      "id": "used-sigma-alone",
+      "description": {
+        "en": "Used the standard deviation alone as if it were already the margin of error, ignoring sample size and the critical value entirely.",
+        "et": "Kasutas standardhälvet üksi, nagu see oleks juba veapiir, jättes valimi suuruse ja kriitilise väärtuse täielikult arvestamata.",
+        "sourceHash": "d4b4ede964b526ba",
+        "stale": false
+      },
+      "expression": "sigma"
+    },
+    {
+      "id": "multiplied-by-n",
+      "description": {
+        "en": "Multiplied by the sample size instead of dividing by its square root.",
+        "et": "Korrutas valimi suurusega, selle asemel et jagada selle ruutjuurega.",
+        "sourceHash": "07a02526e2b7ad2e",
+        "stale": false
+      },
+      "expression": "z*sigma*sqrt(n)"
+    }
+  ]
+}

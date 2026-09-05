@@ -1,0 +1,56 @@
+{
+  "id": "confidence-intervals-and-estimation-item1",
+  "conceptId": "confidence-intervals-and-estimation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A poll reports 52% support for a policy, with a 95% confidence interval of 49% to 55%. What is the correct interpretation?",
+    "et": "Küsitlus teatab 52% toetust poliitikale, 95% usaldusvahemikuga 49% kuni 55%. Milline on õige tõlgendus?",
+    "sourceHash": "e96c11bb59a55db5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "If this polling procedure were repeated many times, about 95% of the resulting intervals would contain the true level of support in the population.",
+        "et": "Kui seda küsitlusprotseduuri korrataks palju kordi, sisaldaks umbes 95% tekkivatest vahemikest populatsiooni tõelist toetuse taset.",
+        "sourceHash": "6073682afbfac4ee",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There is a 95% probability that the true level of support is between 49% and 55%.",
+        "et": "On 95% tõenäosus, et tõeline toetuse tase on 49% ja 55% vahel.",
+        "sourceHash": "e7982697a11130a5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "confidence-intervals-and-estimation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "A narrower interval than 49-55% would automatically mean the poll was more accurate, regardless of its sample size.",
+        "et": "Kitsam vahemik kui 49-55% tähendaks automaatselt, et küsitlus oli täpsem, sõltumata selle valimi suurusest.",
+        "sourceHash": "581be76d4839b2d1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "confidence-intervals-and-estimation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Doubling the poll's sample size would eliminate essentially all of the remaining uncertainty in the estimate.",
+        "et": "Küsitluse valimi suuruse kahekordistamine kõrvaldaks sisuliselt kogu hinnangus järelejäänud ebakindluse.",
+        "sourceHash": "b65d561863ee18a4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "confidence-intervals-and-estimation-m3"
+    }
+  ]
+}

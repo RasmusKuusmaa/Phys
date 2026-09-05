@@ -1,0 +1,19 @@
+{
+  "id": "confidence-intervals-and-estimation",
+  "subject": "statistics-and-data-science",
+  "level": "L2",
+  "module": "statistics-fundamentals",
+  "title": {
+    "en": "Confidence intervals and estimation",
+    "et": "Usaldusvahemikud ja hindamine",
+    "sourceHash": "b604f4e46b50a52c",
+    "stale": false
+  },
+  "summary": {
+    "en": "A point estimate -- a single number, like a sample mean -- is honest about what it computed but silent about how much it could plausibly be off by, and a confidence interval fixes exactly that by reporting a range instead, built so that if the same sampling and estimation procedure were repeated many times, a chosen percentage of the resulting intervals (typically 95%) would contain the true population value. The correct interpretation is subtle and about the procedure, not any one interval: a 95% confidence interval does not mean there is a 95% probability the true value lies in this specific computed interval -- once computed, an interval either does or does not contain the true value, full stop, with no probability left to speak of; the 95% describes how often the method succeeds across repeated applications, not a probability statement about this one outcome. A wider interval is generally the honest price of a smaller sample or a more variable population, which is exactly what the margin-of-error formula makes explicit: it grows with the population's standard deviation and shrinks with the square root of the sample size, so quadrupling the sample size only halves the margin of error, not eliminates it.",
+    "et": "Punkthinnang -- üksainus arv, näiteks valimi keskmine -- on aus selle kohta, mida ta arvutas, kuid vaikib selle kohta, kui palju see võiks tõenäoliselt eksida, ning usaldusvahemik parandab täpselt selle, esitades vahemiku, mis on üles ehitatud nii, et kui sama valimi- ja hindamisprotseduuri korrataks palju kordi, sisaldaks valitud protsent tekkivatest vahemikest (tavaliselt 95%) tõelist populatsiooniväärtust. Õige tõlgendus on peen ja käib protseduuri, mitte ühegi üksiku vahemiku kohta: 95% usaldusvahemik ei tähenda, et on 95% tõenäosus, et tõene väärtus asub selles konkreetses arvutatud vahemikus -- kord arvutatuna, vahemik kas sisaldab tõelist väärtust või mitte, punkt, ilma et jääks rääkida mingist tõenäosusest; 95% kirjeldab, kui sageli meetod õnnestub korduvatel rakendamistel, mitte tõenäosusväidet selle ühe tulemuse kohta. Laiem vahemik on üldiselt väiksema valimi või muutlikuma populatsiooni aus hind, mida veapiiri valem täpselt näitab: see kasvab populatsiooni standardhälbega ja kahaneb valimi suuruse ruutjuurega, mistõttu valimi suuruse neljakordistamine vähendab veapiiri vaid poole võrra, mitte ei kõrvalda seda.",
+    "sourceHash": "874c72fb47bfaa46",
+    "stale": false
+  },
+  "prerequisites": []
+}
