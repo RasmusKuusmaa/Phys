@@ -1,0 +1,21 @@
+{
+  "id": "hemostasis-disorders-and-coagulopathies",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "hematology-and-oncology",
+  "title": {
+    "en": "Hemostasis disorders and coagulopathies",
+    "et": "Hemostaasi häired ja koagulopaatiad",
+    "sourceHash": "5c25b301b3e73260",
+    "stale": false
+  },
+  "summary": {
+    "en": "Normal hemostasis balances two systems held in check against each other: the coagulation cascade, a chain of enzymatic clotting-factor activations that converges on forming a stabilizing fibrin mesh, and platelets, which form the initial plug at a site of vessel injury -- and a coagulopathy is what results when either side of that balance is disrupted. A deficiency of a specific clotting factor, as in hemophilia (factor VIII or IX), leaves the cascade unable to complete even though platelets still plug the initial injury, producing a characteristic pattern of delayed, deep bleeding (into joints and muscles) rather than the immediate surface bleeding a platelet problem causes. Platelet disorders -- too few platelets (thrombocytopenia) or platelets that don't function properly -- instead produce immediate, superficial bleeding (petechiae, mucosal bleeding) because the initial plug itself never forms properly. Disseminated intravascular coagulation (DIC) is the most severe and paradoxical coagulopathy of all: a triggering illness (severe infection, trauma, certain cancers) causes small clots to form throughout the microcirculation simultaneously, consuming clotting factors and platelets so fast that the patient simultaneously clots pathologically in small vessels and bleeds catastrophically everywhere else, once the supply of clotting factors and platelets is exhausted.",
+    "et": "Normaalne hemostaas tasakaalustab kaht süsteemi, mis hoiavad teineteist kontrolli all: hüübimiskaskaad, ensümaatiliste hüübimisfaktorite aktiveerumiste ahel, mis koondub stabiliseeriva fibriinvõrgustiku moodustumisse, ning trombotsüüdid, mis moodustavad esialgse pistiku veresoone vigastuskohas -- ning koagulopaatia on tulemus, kui kumbki selle tasakaalu pool on häiritud. Konkreetse hüübimisfaktori puudulikkus, nagu hemofiilias (VIII või IX faktor), jätab kaskaadi lõpuni viimata, kuigi trombotsüüdid ummistavad esialgse vigastuse ikka veel, tekitades iseloomuliku hilinenud, sügava verejooksu mustri (liigestesse ja lihastesse), mitte kohese pindmise verejooksu, mida põhjustab trombotsüütide probleem. Trombotsüütide häired -- liiga vähe trombotsüüte (trombotsütopeenia) või valesti funktsioneerivad trombotsüüdid -- tekitavad selle asemel kohese pindmise verejooksu (petehhiad, limaskesta verejooks), sest esialgne pistik ise ei moodustu kunagi korralikult. Dissemineeritud intravaskulaarne koagulatsioon (DIK) on kõige raskem ja kõige paradoksaalsem koagulopaatia: vallandav haigus (raske infektsioon, trauma, teatud vähid) põhjustab väikeste trombide teket kogu mikrotsirkulatsioonis samaaegselt, tarbides hüübimisfaktoreid ja trombotsüüte nii kiiresti, et patsient hüübib patoloogiliselt väikestes veresoontes ja samal ajal veritseb katastroofiliselt kõikjal mujal, kui hüübimisfaktorite ja trombotsüütide varu on ammendunud.",
+    "sourceHash": "02a227609d506940",
+    "stale": false
+  },
+  "prerequisites": [
+    "thrombosis-embolism-and-infarction"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "hemostasis-disorders-and-coagulopathies-item1",
+  "conceptId": "hemostasis-disorders-and-coagulopathies",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient with a suspected bleeding disorder has immediate, superficial bruising and gum bleeding, while another patient has delayed, deep bleeding into a knee joint after a minor injury. What does this difference in bleeding pattern suggest about the underlying mechanism?",
+    "et": "Kahtlustatava veritsushäirega patsiendil on kohesed pindmised verevalumid ja igemete veritsus, teisel patsiendil aga hilinenud sügav veritsus põlveliigesesse pärast väikest vigastust. Mida see veritsusmustri erinevus viitab põhjusliku mehhanismi kohta?",
+    "sourceHash": "4d49d1851e955673",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The first pattern points to a platelet disorder (the initial plug itself fails to form), while the second points to a clotting-factor deficiency (the initial plug forms but isn't reinforced by a stable fibrin clot).",
+        "et": "Esimene muster viitab trombotsüütide häirele (esialgne pistik ise ei moodustu), teine aga hüübimisfaktori puudulikkusele (esialgne pistik moodustub, kuid seda ei tugevda stabiilne fibriintromb).",
+        "sourceHash": "44b756bd16e9244e",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Both patterns indicate the same type of coagulopathy, since all bleeding disorders eventually produce similar-looking bleeding regardless of mechanism.",
+        "et": "Mõlemad mustrid näitavad sama tüüpi koagulopaatiat, kuna kõik veritsushäired tekitavad lõpuks sarnase väljanägemisega veritsust, olenemata mehhanismist.",
+        "sourceHash": "a71ed1aff61d9969",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hemostasis-disorders-and-coagulopathies-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The second pattern is actually less concerning, since deep bleeding into a joint heals faster than superficial skin bleeding.",
+        "et": "Teine muster on tegelikult vähem murettekitav, kuna sügav veritsus liigesesse paraneb kiiremini kui pindmine nahaveritsus.",
+        "sourceHash": "a04f09440a02710c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hemostasis-disorders-and-coagulopathies-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both patterns are consistent with DIC, which always presents as excessive bleeding alone without any clotting component.",
+        "et": "Mõlemad mustrid on kooskõlas DIK-iga, mis avaldub alati ainult liigse veritsusena ilma igasuguse hüübimiskomponendita.",
+        "sourceHash": "4bfa36ced1294606",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hemostasis-disorders-and-coagulopathies-m2"
+    }
+  ]
+}
