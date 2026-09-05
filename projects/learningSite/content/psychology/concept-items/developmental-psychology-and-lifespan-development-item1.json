@@ -1,0 +1,56 @@
+{
+  "id": "developmental-psychology-and-lifespan-development-item1",
+  "conceptId": "developmental-psychology-and-lifespan-development",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A researcher finds that a 4-year-old struggles to understand that a tall, narrow glass and a short, wide glass can hold the same volume of water (the conservation task), while a 9-year-old solves it easily. According to Piaget's theory, what does this best illustrate?",
+    "et": "Uurija leiab, et 4-aastane laps ei suuda mõista, et kõrge, kitsas klaas ja madal, lai klaas võivad mahutada sama koguse vett (säilivuse ülesanne), samas kui 9-aastane lahendab selle kergesti. Mida see Piaget' teooria järgi kõige paremini illustreerib?",
+    "sourceHash": "d232251c1b8234d9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The two children are reasoning in qualitatively different ways characteristic of different cognitive-developmental stages (preoperational vs. concrete operational), not merely differing in how many facts they've accumulated.",
+        "et": "Kaks last arutlevad kvalitatiivselt erinevalt, mis on iseloomulik eri kognitiivse arengu staadiumitele (eeloperatsiooniline vs. konkreetne operatsiooniline), mitte lihtsalt ei erine selle poolest, kui palju fakte nad on kogunud.",
+        "sourceHash": "301e6659489c551f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The 9-year-old has simply memorized more facts about volume than the 4-year-old, with no qualitative difference in how each child is reasoning.",
+        "et": "9-aastane on lihtsalt meelde jätnud rohkem fakte mahu kohta kui 4-aastane, ilma kvalitatiivse erinevuseta selles, kuidas kumbki laps arutleb.",
+        "sourceHash": "934fbfbb9302acd9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "developmental-psychology-and-lifespan-development-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This shows that attachment style, not cognitive stage, determines performance on logical reasoning tasks like conservation.",
+        "et": "See näitab, et kiindumusstiil, mitte kognitiivne staadium, määrab sooritust loogilise arutlemise ülesannetel nagu säilivus.",
+        "sourceHash": "876ef7f2c41d5f47",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "developmental-psychology-and-lifespan-development-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Both children should perform identically on this task regardless of age, since Piaget's stages proceed at a strictly identical pace for every child.",
+        "et": "Mõlemad lapsed peaksid sellel ülesandel sooritama identselt, sõltumata vanusest, kuna Piaget' staadiumid kulgevad iga lapse jaoks rangelt identses tempos.",
+        "sourceHash": "7288eb7fefd62735",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "developmental-psychology-and-lifespan-development-m3"
+    }
+  ]
+}

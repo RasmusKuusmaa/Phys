@@ -1,0 +1,19 @@
+{
+  "id": "developmental-psychology-and-lifespan-development",
+  "subject": "psychology",
+  "level": "L1",
+  "module": "psychology-fundamentals",
+  "title": {
+    "en": "Developmental psychology and lifespan development",
+    "et": "Arengupsühholoogia ja elukaare areng",
+    "sourceHash": "9e97241838865ac3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Piaget's theory of cognitive development proposes that children don't just accumulate more facts as they grow but pass through qualitatively different stages of reasoning -- from the sensorimotor stage's lack of object permanence in infancy, through the preoperational stage's difficulty with logical operations and perspective-taking, to concrete and eventually formal operational reasoning about abstract possibilities -- each stage representing a genuinely different way of thinking, not just more of the same thinking. Attachment theory addresses a separate developmental question: the quality of an infant's earliest bond with a caregiver, shaped by how consistently and sensitively that caregiver responds to the infant's needs, produces a lasting attachment style (broadly, secure or one of several insecure patterns) that goes on to influence how that person approaches close relationships well into adulthood, though attachment style is a probabilistic tendency shaped by ongoing later relationships too, not a fixed, unchangeable sentence handed down in infancy.",
+    "et": "Piaget' kognitiivse arengu teooria väidab, et lapsed ei kogu kasvades lihtsalt rohkem fakte, vaid läbivad kvalitatiivselt erinevaid mõtlemisetappe -- alates sensomotoorse staadiumi objekti püsivuse puudumisest imikueas, läbi eeloperatsioonilise staadiumi raskuste loogiliste operatsioonide ja perspektiivi võtmisega, kuni konkreetsete ja lõpuks formaalsete operatsioonideni abstraktsete võimaluste üle mõtlemisel -- iga staadium esindab tõeliselt erinevat mõtlemisviisi, mitte lihtsalt sama mõtlemise rohkem. Kiindumusteooria käsitleb eraldi arenguküsimust: imiku varaseima sideme kvaliteet hooldajaga, mida kujundab see, kui järjekindlalt ja tundlikult hooldaja imiku vajadustele reageerib, tekitab püsiva kiindumusstiili (laias laastus turvalise või ühe mitmest ebaturvalisest mustrist), mis mõjutab hiljem, kuidas see inimene läheneb lähisuhetele kaugele täiskasvanuikka, kuigi kiindumusstiil on tõenäosuslik kalduvus, mida kujundavad ka hilisemad suhted, mitte kindel, muutumatu saatus, mis on imikueas määratud.",
+    "sourceHash": "c72a2d790a6367cf",
+    "stale": false
+  },
+  "prerequisites": []
+}
