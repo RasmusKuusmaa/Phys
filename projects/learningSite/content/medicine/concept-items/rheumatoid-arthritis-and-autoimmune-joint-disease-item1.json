@@ -1,0 +1,56 @@
+{
+  "id": "rheumatoid-arthritis-and-autoimmune-joint-disease-item1",
+  "conceptId": "rheumatoid-arthritis-and-autoimmune-joint-disease",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient has joint pain and swelling affecting both wrists symmetrically, along with unexplained fatigue and low-grade fevers. Why does this symmetric, whole-body pattern point toward an autoimmune joint disease rather than osteoarthritis?",
+    "et": "Patsiendil on liigesevalu ja turse, mis mõjutab mõlemat rannet sümmeetriliselt, koos seletamatu väsimuse ja madala astme palavikuga. Miks viitab see sümmeetriline, kogu keha hõlmav muster pigem autoimmuunsele liigesehaigusele kui osteoartroosile?",
+    "sourceHash": "47e7229d19882e2d",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the underlying driver is a systemic immune process attacking the synovium, which affects paired joints similarly and can produce effects outside the joints, unlike osteoarthritis's joint-specific, load-driven mechanism.",
+        "et": "Sest aluseks olev juht on süsteemne immuunprotsess, mis ründab sünooviumi, mõjutades paarisliigeseid sarnaselt ja tekitades mõjusid ka väljaspool liigeseid, erinevalt osteoartroosi liigesepõhisest, koormusest juhitud mehhanismist.",
+        "sourceHash": "c913b2712ce3b2f5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because both wrists simply experienced the same amount of mechanical wear and tear from overuse.",
+        "et": "Sest mõlemad randmed kogesid lihtsalt sama palju mehaanilist kulumist ülekasutamisest.",
+        "sourceHash": "047c53d77fd58c47",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rheumatoid-arthritis-and-autoimmune-joint-disease-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It doesn't — rheumatoid arthritis, like osteoarthritis, only ever affects the joints themselves, so the fatigue and fever must have an unrelated cause.",
+        "et": "See ei viitagi — reumatoidartriit, nagu osteoartroos, mõjutab alati ainult liigeseid endid, seega peab väsimusel ja palavikul olema seosetu põhjus.",
+        "sourceHash": "0bf82683c7e894c0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rheumatoid-arthritis-and-autoimmune-joint-disease-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It's a temporary pattern that will fully reverse and return the joints to their pre-disease structure once inflammation subsides.",
+        "et": "See on ajutine muster, mis pöördub täielikult tagasi ja taastab liigesed haiguseelsesse struktuuri, kui põletik taandub.",
+        "sourceHash": "8ea385f6e923d7a5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rheumatoid-arthritis-and-autoimmune-joint-disease-m3"
+    }
+  ]
+}

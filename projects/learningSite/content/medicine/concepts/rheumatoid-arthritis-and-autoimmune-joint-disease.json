@@ -1,0 +1,21 @@
+{
+  "id": "rheumatoid-arthritis-and-autoimmune-joint-disease",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "musculoskeletal-medicine-and-rheumatology",
+  "title": {
+    "en": "Rheumatoid arthritis and autoimmune joint disease",
+    "et": "Reumatoidartriit ja autoimmuunne liigesehaigus",
+    "sourceHash": "7ff55484f46c1e7d",
+    "stale": false
+  },
+  "summary": {
+    "en": "Rheumatoid arthritis begins when the same loss of self-tolerance that defines autoimmune disease generally targets the synovium -- the thin membrane lining a joint's interior -- causing self-reactive immune cells and antibodies to trigger chronic synovial inflammation; the inflamed synovium thickens into an abnormal tissue called pannus that invades and erodes the adjacent cartilage and bone directly, a destructive mechanism entirely different from osteoarthritis's mechanical-wear-and-failed-local-repair process. Because the underlying driver is a systemic immune process rather than joint-specific mechanical loading, rheumatoid arthritis characteristically affects joints symmetrically (both hands, both wrists) and can also produce inflammation-driven effects outside the joints entirely (fatigue, low-grade fever, effects on other organs), a pattern that osteoarthritis's purely local, load-driven mechanism does not produce. Untreated, the chronic synovial inflammation and pannus formation progressively destroy the joint's structural integrity, which is why controlling the underlying immune process, not simply managing joint symptoms, is central to limiting the disease's mechanistic damage.",
+    "et": "Reumatoidartriit algab siis, kui sama enesetolerantsi kadu, mis defineerib autoimmuunhaigust üldiselt, suunab end sünooviumi vastu -- õhukese membraani vastu, mis vooderdab liigese sisemust --, põhjustades iseennast tundvate immuunrakkude ja antikehade poolt kroonilise sünoviaalse põletiku vallandumise; põletikuline sünoovium pakseneb ebanormaalseks koeks nimega pannus, mis tungib otse kõrvalasuvasse kõhre ja luusse ning söövitab neid, hävitav mehhanism, mis erineb täielikult osteoartroosi mehaanilise kulumise ja ebaõnnestunud kohaliku parandamise protsessist. Kuna aluseks olev juht on süsteemne immuunprotsess, mitte liigesepõhine mehaaniline koormus, mõjutab reumatoidartriit iseloomulikult liigeseid sümmeetriliselt (mõlemad käed, mõlemad randmed) ning võib tekitada põletikust tingitud mõjusid ka väljaspool liigeseid täielikult (väsimus, madala astme palavik, mõjud teistele organitele) -- mustrit, mida osteoartroosi puhtalt kohalik, koormusest juhitud mehhanism ei tekita. Ravimata jäetuna hävitavad krooniline sünoviaalne põletik ja pannuse teke järk-järgult liigese struktuurset terviklikkust, mistõttu aluseks oleva immuunprotsessi kontrollimine, mitte üksnes liigesesümptomite ravi, on haiguse mehhanistliku kahju piiramiseks kesksel kohal.",
+    "sourceHash": "0c015c27ca996609",
+    "stale": false
+  },
+  "prerequisites": [
+    "autoimmunity-and-hypersensitivity"
+  ]
+}
