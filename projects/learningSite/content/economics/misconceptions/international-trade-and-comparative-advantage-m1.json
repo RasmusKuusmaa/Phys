@@ -1,0 +1,10 @@
+{
+  "id": "international-trade-and-comparative-advantage-m1",
+  "conceptId": "international-trade-and-comparative-advantage",
+  "text": {
+    "en": "A country with an absolute advantage in producing everything (more efficient at every single good than its trading partner) gains nothing from trading with a less-efficient country, since it could just produce everything itself -- in reality, gains from trade depend on comparative advantage (relative opportunity cost), not absolute efficiency, and a country with an absolute advantage in everything still has a comparative advantage in only some goods (whatever it is relatively best at), so it still gains by specializing in those and trading for the rest.",
+    "et": "Riik, millel on absoluutne eelis kõige tootmisel (tõhusam igas üksikus kaubas kui tema kaubanduspartner), ei saa vähem tõhusa riigiga kauplemisest mingit kasu, kuna ta võiks kõike ise toota -- tegelikult sõltub kaubandusest saadav kasu suhtelisest eelisest (suhtelisest alternatiivkulust), mitte absoluutsest tõhususest, ning riigil, millel on absoluutne eelis kõiges, on ikkagi suhteline eelis ainult mõnes kaubas (milles ta on suhteliselt kõige parem), mistõttu ta saab ikkagi kasu, spetsialiseerudes neile ja kaubeldes ülejäänu vastu.",
+    "sourceHash": "5d2f95723f65c8af",
+    "stale": false
+  }
+}

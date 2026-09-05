@@ -1,0 +1,56 @@
+{
+  "id": "international-trade-and-comparative-advantage-item1",
+  "conceptId": "international-trade-and-comparative-advantage",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Country A can produce both wheat and cloth more efficiently in absolute terms than Country B can. Standard trade theory predicts that:",
+    "et": "Riik A suudab toota nii nisu kui riiet absoluutses mõttes tõhusamalt kui Riik B. Standardne kaubandusteooria ennustab, et:",
+    "sourceHash": "a641cf412b9647d2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Both countries can still gain from trade if each specializes in the good where it has a comparative (relative opportunity-cost) advantage, even though Country A is absolutely more efficient at both.",
+        "et": "Mõlemad riigid saavad ikkagi kaubandusest kasu, kui kumbki spetsialiseerub kaubale, milles tal on suhteline (suhtelise alternatiivkulu) eelis, isegi kui Riik A on mõlemas absoluutses mõttes tõhusam.",
+        "sourceHash": "066aba580ff55a40",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Country A gains nothing from trading with Country B, since it could simply produce everything itself more efficiently.",
+        "et": "Riik A ei saa Riigiga B kauplemisest mingit kasu, kuna ta võiks lihtsalt kõike ise tõhusamalt toota.",
+        "sourceHash": "52f7468ba47b0e22",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "international-trade-and-comparative-advantage-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Since Country A is absolutely better at everything, comparative advantage doesn't apply and specialization provides no benefit to either country.",
+        "et": "Kuna Riik A on kõiges absoluutselt parem, ei kehti suhteline eelis ja spetsialiseerumine ei anna kummalegi riigile kasu.",
+        "sourceHash": "cc4938b6c7ab6aee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "international-trade-and-comparative-advantage-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Only Country B benefits from trade, while Country A's absolute efficiency means it experiences no gain from any specialization or trade with Country B.",
+        "et": "Kaubandusest saab kasu ainult Riik B, samas kui Riigi A absoluutne tõhusus tähendab, et ta ei koge mingit kasu mistahes spetsialiseerumisest või kaubandusest Riigiga B.",
+        "sourceHash": "aa2bc1d0222e5191",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "international-trade-and-comparative-advantage-m3"
+    }
+  ]
+}

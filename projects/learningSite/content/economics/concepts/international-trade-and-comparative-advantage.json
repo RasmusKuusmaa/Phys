@@ -1,0 +1,19 @@
+{
+  "id": "international-trade-and-comparative-advantage",
+  "subject": "economics",
+  "level": "L2",
+  "module": "economics-fundamentals",
+  "title": {
+    "en": "International trade and comparative advantage",
+    "et": "Rahvusvaheline kaubandus ja suhteline eelis",
+    "sourceHash": "2a35f31cc7537783",
+    "stale": false
+  },
+  "summary": {
+    "en": "Comparative advantage is the genuinely counterintuitive core insight behind why international trade benefits both parties even when one country is more efficient at producing literally everything: what matters for gains from trade is not who is more efficient in absolute terms, but each country's opportunity cost -- how much of one good it must give up to produce another -- and every country, no matter how broadly unproductive, has a lower opportunity cost at producing at least one thing than some other country does, simply because opportunity costs are a comparison across goods within a country, not a comparison of absolute efficiency across countries. A country should specialize in producing whatever it gives up the least to produce (its comparative advantage), trade for everything else, and both trading partners end up able to consume more of both goods than either could have produced alone -- a real, mutual gain, not a zero-sum transfer where one side's win is the other's loss. Exchange rates, the price of one currency in terms of another, determine how much of a foreign good a given amount of domestic currency actually buys, and they shift with changes in relative demand for each currency (driven substantially by trade flows, interest-rate differences, and investor expectations), which is why a country's currency strengthening or weakening changes the terms of that trade without either country's underlying comparative advantage changing at all.",
+    "et": "Suhteline eelis on tõeliselt vastuintuitiivne põhitõde selle taga, miks rahvusvaheline kaubandus toob kasu mõlemale poolele isegi siis, kui üks riik on tõhusam sõna otseses mõttes kõige tootmisel: kaubandusest saadava kasu jaoks pole oluline mitte see, kes on absoluutselt tõhusam, vaid iga riigi alternatiivkulu -- kui palju ühest kaubast tuleb loobuda teise tootmiseks --, ning igal riigil, ükskõik kui üldiselt ebaproduktiivne see ka poleks, on madalam alternatiivkulu vähemalt ühe asja tootmisel kui mõnel teisel riigil, lihtsalt seetõttu, et alternatiivkulud on võrdlus kaupade vahel riigi sees, mitte absoluutse tõhususe võrdlus riikide vahel. Riik peaks spetsialiseeruma sellele, mille tootmisel ta kõige vähem loobub (oma suhteline eelis), kaubeldes kõige muu vastu, ning mõlemad kaubanduspartnerid lõpetavad võimega tarbida rohkem mõlemast kaubast, kui kumbki üksi oleks suutnud toota -- reaalne, vastastikune kasu, mitte nullsummamäng, kus ühe poole võit on teise kaotus. Vahetuskursid, ühe valuuta hind teise valuuta väljendatuna, määravad, kui palju välismaist kaupa antud kogus koduvaluutat tegelikult ostab, ning need muutuvad koos iga valuuta suhtelise nõudluse muutustega (mida mõjutavad oluliselt kaubavood, intressimäärade erinevused ja investorite ootused), mis ongi põhjus, miks riigi valuuta tugevnemine või nõrgenemine muudab selle kaubanduse tingimusi ilma, et kummagi riigi aluseks olev suhteline eelis üldse muutuks.",
+    "sourceHash": "271ad9e1aba7deb8",
+    "stale": false
+  },
+  "prerequisites": []
+}
