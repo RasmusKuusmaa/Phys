@@ -1,0 +1,10 @@
+{
+  "id": "pollution-and-environmental-contamination-m3",
+  "conceptId": "pollution-and-environmental-contamination",
+  "text": {
+    "en": "All pollutants degrade or dilute at roughly similar rates, so 'given enough time, nature cleans everything up' -- in reality, pollutants vary enormously in persistence -- some fat-soluble, slowly-degraded substances (certain pesticides, heavy metals) can persist in soil and tissue for decades and continue bioaccumulating rather than breaking down on any human-relevant timescale, which is why some pollutants banned decades ago are still detectable in ecosystems and human tissue today.",
+    "et": "Kõik saasteained lagunevad või lahjenevad enam-vähem sarnase kiirusega, mistõttu 'piisava ajaga puhastab loodus kõik ise ära' -- tegelikult varieerub saasteainete püsivus tohutult -- mõned rasvlahustuvad, aeglaselt lagunevad ained (teatud pestitsiidid, raskmetallid) võivad püsida mullas ja koes aastakümneid ning jätkata biokontsentreerumist selle asemel, et inimlikult olulisel ajaskaalal laguneda, mistõttu on mõned aastakümneid tagasi keelatud saasteained tänapäevalgi ökosüsteemides ja inimeste koes tuvastatavad.",
+    "sourceHash": "06da5de6b4de0ccc",
+    "stale": false
+  }
+}

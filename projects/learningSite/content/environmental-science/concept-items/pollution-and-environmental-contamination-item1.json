@@ -1,0 +1,56 @@
+{
+  "id": "pollution-and-environmental-contamination-item1",
+  "conceptId": "pollution-and-environmental-contamination",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Mercury concentration in the water of a lake is measured at a level considered negligible for direct human exposure, yet fish at the top of that lake's food chain are found with mercury levels dangerous for human consumption. What explains this?",
+    "et": "Elavhõbeda kontsentratsioon järve vees on mõõdetud tasemel, mida peetakse otsese inimkokkupuute jaoks tähtsusetuks, kuid selle järve toiduahela tipus olevatest kaladest leitakse elavhõbeda tasemeid, mis on inimtoiduks ohtlikud. Mis seda selgitab?",
+    "sourceHash": "8355c4dd91066975",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Biomagnification: each organism up the food chain concentrates the mercury present in all the prey it has consumed, so a top predator's tissue can carry a body burden many thousands of times higher than the water concentration at the base of the food web.",
+        "et": "Biomagnifikatsioon: iga organism toiduahelas ülespoole kontsentreerib elavhõbedat, mis on olemas kõigis tema söödud saakloomades, mistõttu tipp-kiskja koes võib olla koormus, mis on tuhandeid kordi kõrgem kui toiduahela põhjas mõõdetud veekontsentratsioon.",
+        "sourceHash": "08da35c31fd85bd1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The water measurement must be wrong, since a pollutant's danger is determined entirely by its concentration at the point of measurement, and fish tissue should reflect that same concentration.",
+        "et": "Veemõõtmine peab olema vale, kuna saasteaine ohtlikkus määratakse täielikult selle kontsentratsiooniga mõõtmispunktis, ning kalakude peaks kajastama sama kontsentratsiooni.",
+        "sourceHash": "ee35c48faf4d771e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pollution-and-environmental-contamination-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Mercury must actually be a beneficial nutrient at low water concentrations that only becomes dangerous once concentrated by unrelated industrial processes inside the fish.",
+        "et": "Elavhõbe peab tegelikult olema kasulik toitaine madalatel veekontsentratsioonidel, mis muutub ohtlikuks alles siis, kui see kala sees mitteseotud tööstusprotsesside kaudu kontsentreerub.",
+        "sourceHash": "062c59307a913c5c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pollution-and-environmental-contamination-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Mercury must have been recently released at a much higher concentration than currently measured, since all pollutants degrade and dilute at similar rates over time.",
+        "et": "Elavhõbe peab olema hiljuti vabanenud palju kõrgemas kontsentratsioonis kui praegu mõõdetud, kuna kõik saasteained lagunevad ja lahjenevad aja jooksul sarnase kiirusega.",
+        "sourceHash": "489ce0319fb59f6f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pollution-and-environmental-contamination-m3"
+    }
+  ]
+}

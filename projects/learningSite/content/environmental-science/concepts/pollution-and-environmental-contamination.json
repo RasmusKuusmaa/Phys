@@ -1,0 +1,19 @@
+{
+  "id": "pollution-and-environmental-contamination",
+  "subject": "environmental-science",
+  "level": "L2",
+  "module": "environmental-science-fundamentals",
+  "title": {
+    "en": "Pollution and environmental contamination",
+    "et": "Reostus ja keskkonna saastumine",
+    "sourceHash": "5c72a2e956e53ea3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Pollution is the introduction of a substance or energy into air, water, or soil at a rate or concentration that exceeds the environment's capacity to safely absorb, dilute, or break it down, and the specific mechanism by which a pollutant causes harm varies enormously by medium and substance -- an air pollutant like particulate matter or ozone acts directly through respiratory and cardiovascular tissue damage, excess nitrogen/phosphorus runoff into water triggers algal blooms whose decomposition consumes dissolved oxygen and suffocates aquatic life (eutrophication), and a soil contaminant like a heavy metal persists for decades and enters the food web through plant uptake. A particularly important mechanism, bioaccumulation, means some pollutants -- especially fat-soluble, slowly-degraded ones like certain pesticides and heavy metals -- become more concentrated in an organism's tissue than in its surrounding environment simply because the organism absorbs the substance faster than it can excrete or break it down, and biomagnification compounds this up a food chain: each predator concentrates the pollutant present in all the prey it has eaten over its lifetime, so a top predator can carry a body burden many thousands of times higher than the concentration measured at the base of that food web, even when that base-level concentration looks negligible on its own. This is exactly why a pollutant's environmental danger cannot be assessed from its release-point concentration alone -- a substance that looks harmlessly dilute where it enters the environment can still devastate organisms several trophic levels up a food chain that concentrate it.",
+    "et": "Reostus on aine või energia viimine õhku, vette või mulda kiirusega või kontsentratsioonis, mis ületab keskkonna võimet seda ohutult siduda, lahjendada või lagundada, ning konkreetne mehhanism, kuidas saasteaine kahju tekitab, varieerub sõltuvalt keskkonnast ja ainest väga suurel määral -- õhusaasteaine nagu tahked osakesed või osoon toimib otse hingamisteede ja südame-veresoonkonna koekahjustuse kaudu, liigne lämmastiku/fosfori äravool vette käivitab vetikate vohamise, mille lagunemine tarbib lahustunud hapnikku ja lämmatab veeorganisme (eutrofeerumine), ning mullasaasteaine nagu raskmetall püsib aastakümneid ja siseneb toiduahelasse taimede omastamise kaudu. Eriti oluline mehhanism, biokontsentratsioon, tähendab, et mõned saasteained -- eriti rasvlahustuvad, aeglaselt lagunevad ained nagu teatud pestitsiidid ja raskmetallid -- muutuvad organismi koes kontsentreeritumaks kui ümbritsevas keskkonnas lihtsalt seetõttu, et organism omastab ainet kiiremini, kui suudab seda eritada või lagundada, ning biomagnifikatsioon süvendab seda toiduahela kaudu: iga kiskja kontsentreerib saasteainet, mis on olemas kogu tema eluea jooksul söödud saakloomades, mistõttu tipp-kiskja võib kanda organismis koormust, mis on tuhandeid kordi kõrgem kui selle toiduahela põhjas mõõdetud kontsentratsioon, isegi kui see põhjatasandi kontsentratsioon näib iseenesest tähtsusetu. See ongi täpselt põhjus, miks saasteaine keskkonnaohtu ei saa hinnata ainult selle vabanemispunkti kontsentratsiooni järgi -- aine, mis näib keskkonda sisenedes ohutult lahjendatuna, võib siiski hävitada organisme mitu troofilist taset kõrgemal toiduahelas, mis seda kontsentreerivad.",
+    "sourceHash": "3d409b8c3c6a6c79",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pollution-and-environmental-contamination-m1",
+  "conceptId": "pollution-and-environmental-contamination",
+  "text": {
+    "en": "A pollutant's danger depends only on its concentration at the point where it's released into the environment -- in reality, bioaccumulation and biomagnification mean some pollutants become progressively more concentrated as they move up a food chain, so a concentration that looks negligible at the point of release can still reach dangerous levels in a top predator's tissue, many thousands of times higher than the base environmental concentration.",
+    "et": "Saasteaine ohtlikkus sõltub ainult selle kontsentratsioonist kohas, kus see keskkonda vabaneb -- tegelikult tähendavad biokontsentratsioon ja biomagnifikatsioon, et mõned saasteained muutuvad toiduahelas ülespoole liikudes järjest kontsentreeritumaks, mistõttu vabanemispunktis tähtsusetuna näiv kontsentratsioon võib siiski jõuda tipp-kiskja koes ohtlikele tasemetele, mis on tuhandeid kordi kõrgemad kui keskkonna algtasand.",
+    "sourceHash": "76c4d185c32dad80",
+    "stale": false
+  }
+}

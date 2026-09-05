@@ -1,0 +1,10 @@
+{
+  "id": "pollution-and-environmental-contamination-m2",
+  "conceptId": "pollution-and-environmental-contamination",
+  "text": {
+    "en": "Water pollution from excess nutrients (nitrogen/phosphorus runoff) is harmless since nutrients are naturally part of a healthy ecosystem, not a toxin -- in reality, excess nutrient input triggers eutrophication -- an algal bloom whose subsequent decomposition consumes dissolved oxygen faster than it can be replenished, suffocating fish and other aquatic organisms -- so a substance beneficial in normal amounts becomes genuinely destructive in excess, independent of whether it's classified as a \"toxin.\"",
+    "et": "Veereostus liigsetest toitainetest (lämmastiku/fosfori äravool) on kahjutu, kuna toitained on loomulikult osa tervest ökosüsteemist, mitte mürk -- tegelikult käivitab liigne toitainete sissevool eutrofeerumise -- vetikate vohamise, mille järgnev lagunemine tarbib lahustunud hapnikku kiiremini, kui seda taastatakse, lämmatades kalu ja teisi veeorganisme -- seega muutub normaalses koguses kasulik aine liias tõeliselt hävitavaks, sõltumata sellest, kas seda liigitatakse 'mürgiks.'",
+    "sourceHash": "4b73b4680cffd3f7",
+    "stale": false
+  }
+}
