@@ -189,6 +189,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/kapillaarsus/1/est"
   },
   {
+    "id": "carrying-capacity",
+    "en": "carrying capacity",
+    "et": "keskkonna kandevõime",
+    "domain": "ecology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kandev%C3%B5ime/1/est"
+  },
+  {
     "id": "cash-flow",
     "en": "cash flow",
     "et": "rahavoog",
@@ -649,6 +656,13 @@
     "et": "raskusjõud",
     "domain": "mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/raskusjõud/1/est"
+  },
+  {
+    "id": "growth-rate",
+    "en": "growth rate",
+    "et": "kasvukiirus",
+    "domain": "ecology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kasvukiirus/1/est"
   },
   {
     "id": "hadron",
