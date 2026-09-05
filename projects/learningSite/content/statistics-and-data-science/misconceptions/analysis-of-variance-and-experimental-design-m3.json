@@ -1,0 +1,10 @@
+{
+  "id": "analysis-of-variance-and-experimental-design-m3",
+  "conceptId": "analysis-of-variance-and-experimental-design",
+  "text": {
+    "en": "Blocking in experimental design is the same thing as randomization, just a different word for it -- in reality, blocking groups similar experimental units together BEFORE randomizing treatment assignment within each group, which removes a known source of variability from the background noise a test has to see through -- a distinct technique from randomization itself, which the blocked design still uses within each block.",
+    "et": "Plokkimine katse planeerimises on sama asi mis randomiseerimine, lihtsalt teine sõna selle jaoks -- tegelikult rühmitab plokkimine sarnased katseüksused kokku ENNE ravi määramise randomiseerimist igas rühmas, mis eemaldab teadaoleva varieeruvuse allika taustamürast, mida test peab läbi nägema -- eristuv tehnika randomiseerimisest endast, mida plokitud disain siiski igas plokis kasutab.",
+    "sourceHash": "9a3ec7d54cb80e7b",
+    "stale": false
+  }
+}

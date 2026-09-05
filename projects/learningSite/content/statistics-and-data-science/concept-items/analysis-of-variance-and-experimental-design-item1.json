@@ -1,0 +1,56 @@
+{
+  "id": "analysis-of-variance-and-experimental-design-item1",
+  "conceptId": "analysis-of-variance-and-experimental-design",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A researcher wants to compare crop yield across four different fertilizer treatments. Why use one ANOVA rather than six separate pairwise t-tests (comparing every pair of the four treatments)?",
+    "et": "Teadlane soovib võrrelda saagikust nelja erineva väetise puhul. Miks kasutada ühte ANOVA-t, mitte kuut eraldi paarikaupa t-testi (võrreldes kõiki nelja käsitluse paare)?",
+    "sourceHash": "1d61433fd7d17536",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Six separate tests at the usual significance level would inflate the true overall chance of at least one false positive well above the nominal level, while ANOVA tests all four groups together with one controlled error rate.",
+        "et": "Kuus eraldi testi tavapärasel olulisuse nivool paisutaksid tegelikku üldist vähemalt ühe valehäire võimalust tunduvalt üle nimetatud nivoo, samas kui ANOVA testib kõiki nelja rühma korraga ühe kontrollitud veamääraga.",
+        "sourceHash": "f86d58828e0ff65d",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Six separate t-tests and one ANOVA give mathematically identical overall false-positive risk, so the choice is purely a matter of convenience.",
+        "et": "Kuus eraldi t-testi ja üks ANOVA annavad matemaatiliselt identse üldise valehäire riski, mistõttu on valik puhtalt mugavuse küsimus.",
+        "sourceHash": "42312e3859d042b9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "analysis-of-variance-and-experimental-design-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "ANOVA is required because t-tests can only ever be run once per study, regardless of how many groups are involved.",
+        "et": "ANOVA on nõutav, kuna t-teste saab uuringus rakendada ainult üks kord, sõltumata sellest, mitu rühma on kaasatud.",
+        "sourceHash": "8eb771d5f387da84",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "analysis-of-variance-and-experimental-design-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "ANOVA and pairwise t-tests test completely unrelated questions, so the choice has nothing to do with error rates at all.",
+        "et": "ANOVA ja paarikaupa t-testid testivad täiesti mitteseotud küsimusi, mistõttu valikul pole veamääradega üldse pistmist.",
+        "sourceHash": "321c2cee372a2b42",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "analysis-of-variance-and-experimental-design-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "analysis-of-variance-and-experimental-design-m1",
+  "conceptId": "analysis-of-variance-and-experimental-design",
+  "text": {
+    "en": "Comparing three groups by running three separate pairwise t-tests (A vs B, B vs C, A vs C) at the usual 0.05 significance level gives the same overall false-positive risk as a single ANOVA -- in reality, running multiple separate tests inflates the true chance of at least one false positive well above 0.05 (each comparison is another independent chance for a rare fluke), which is exactly the problem ANOVA's single combined test is designed to avoid.",
+    "et": "Kolme rühma võrdlemine kolme eraldi paarikaupa t-testiga (A vs B, B vs C, A vs C) tavapärasel 0,05 olulisuse nivool annab sama üldise valehäire riski kui üksainus ANOVA -- tegelikult paisutab mitme eraldi testi käivitamine tegelikku vähemalt ühe valehäire võimalust tunduvalt üle 0,05 (iga võrdlus on veel üks sõltumatu võimalus haruldaseks juhuseks), mis ongi täpselt probleem, mida ANOVA üksik koondtest väldib.",
+    "sourceHash": "14d9e2b4edc4b61b",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "analysis-of-variance-and-experimental-design-m2",
+  "conceptId": "analysis-of-variance-and-experimental-design",
+  "text": {
+    "en": "Randomization in an experiment is mainly about making the sample size look more impressive/scientific -- in reality, randomization's actual purpose is breaking the link between a subject's own characteristics and which treatment group they end up in, so that any observed difference in outcomes can be attributed to the treatment itself rather than to pre-existing differences between who happened to end up in each group.",
+    "et": "Randomiseerimine katses on peamiselt selleks, et valim näiks muljetavaldavam/teaduslikum -- tegelikult on randomiseerimise tegelik eesmärk katkestada seos uuritava enda tunnuste ja selle vahel, millisesse ravirühma ta lõpuks satub, nii et tulemuste vaadeldavat erinevust saab omistada ravile endale, mitte juba olemasolevatele erinevustele nende vahel, kes igasse rühma sattusid.",
+    "sourceHash": "951b239ff1cef9bd",
+    "stale": false
+  }
+}

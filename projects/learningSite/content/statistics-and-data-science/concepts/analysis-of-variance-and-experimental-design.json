@@ -1,0 +1,21 @@
+{
+  "id": "analysis-of-variance-and-experimental-design",
+  "subject": "statistics-and-data-science",
+  "level": "L2",
+  "module": "statistics-fundamentals",
+  "title": {
+    "en": "Analysis of variance and experimental design",
+    "et": "Dispersioonanalüüs ja katse planeerimine",
+    "sourceHash": "761079c729eb9abe",
+    "stale": false
+  },
+  "summary": {
+    "en": "Comparing exactly two groups is a job for a simple two-sample test, but comparing three or more groups at once with repeated pairwise tests inflates the real chance of a false positive well past the nominal significance level, since each additional comparison is another independent opportunity for a rare event to occur by chance -- analysis of variance (ANOVA) solves this by asking a single, combined question instead: is the variation between the group means larger than the variation expected from random noise within each group, comparing those two sources of variance directly in one test with one overall error rate. Getting a trustworthy answer from any such comparison, though, depends on how the underlying experiment was actually built, not just on which statistical test is applied afterward: randomization (assigning subjects to groups by chance) breaks the link between a subject's own characteristics and which group they end up in, so any difference in outcomes can be attributed to the treatment rather than to who happened to receive it; replication (running the comparison across enough independent units) is what lets random noise average out in the first place; and blocking (grouping similar experimental units together before randomizing within each group) removes a known source of variability from the noise the test has to see through, rather than letting it drown out a real effect.",
+    "et": "Täpselt kahe rühma võrdlemine on lihtsa kahevalimilise testi töö, kuid kolme või enama rühma korraga võrdlemine korduvate paarikaupa testidega paisutab tegelikku valehäire võimalust tunduvalt üle nimetatud olulisuse nivoo, kuna iga täiendav võrdlus on veel üks sõltumatu võimalus haruldase sündmuse juhuslikuks toimumiseks -- dispersioonanalüüs (ANOVA) lahendab selle, esitades hoopis ühe koondküsimuse: kas rühmade keskmiste vaheline varieeruvus on suurem kui iga rühma sees juhuslikust mürast oodatav varieeruvus, võrreldes neid kahte varieeruvuse allikat otse ühes testis ühe koondvea määraga. Usaldusväärse vastuse saamine mistahes sellisest võrdlusest sõltub aga sellest, kuidas alusuuring tegelikult üles ehitati, mitte ainult sellest, millist statistilist testi hiljem rakendatakse: randomiseerimine (uuritavate juhuslik jaotamine rühmadesse) katkestab seose uuritava enda tunnuste ja selle vahel, millisesse rühma ta lõpuks satub, mistõttu tulemuste erinevust saab omistada ravile, mitte sellele, kes juhtus seda saama; kordamine (võrdluse läbiviimine piisava arvu sõltumatute üksuste peal) on see, mis lubab juhuslikul mürral üldse keskmistuda; ning plokkimine (sarnaste katseüksuste rühmitamine enne igas rühmas randomiseerimist) eemaldab teadaoleva varieeruvuse allika mürast, mida test peab läbi nägema, selle asemel et lasta sellel tegelikku efekti uputada.",
+    "sourceHash": "19e06b05949cfba1",
+    "stale": false
+  },
+  "prerequisites": [
+    "hypothesis-testing-and-p-values"
+  ]
+}
