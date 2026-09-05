@@ -1,0 +1,10 @@
+{
+  "id": "psychotic-disorder-mechanisms-m2",
+  "conceptId": "psychotic-disorder-mechanisms",
+  "text": {
+    "en": "Since antipsychotics block dopamine and improve hallucinations/delusions, they should equally improve every symptom of a psychotic disorder, including negative symptoms like social withdrawal and flattened affect -- because negative and cognitive symptoms are linked to reduced (not excess) prefrontal dopamine/glutamate signaling, broadly blocking dopamine receptors -- effective for positive symptoms -- often does little for negative/cognitive symptoms and can sometimes worsen them.",
+    "et": "Kuna antipsühhootikumid blokeerivad dopamiini ja parandavad hallutsinatsioone/luulusid, peaksid need võrdselt parandama iga psühhootilise häire sümptomit, sealhulgas negatiivseid sümptomeid nagu sotsiaalne tagasitõmbumine ja lamestunud afekt -- kuna negatiivsed ja kognitiivsed sümptomid on seotud vähenenud (mitte liigse) prefrontaalse dopamiini/glutamaadi signalisatsiooniga, ei aita dopamiini retseptorite laialdane blokeerimine -- tõhus positiivsete sümptomite korral -- sageli negatiivsete/kognitiivsete sümptomite vastu ja võib neid mõnikord isegi halvendada.",
+    "sourceHash": "05fc46880b314402",
+    "stale": false
+  }
+}

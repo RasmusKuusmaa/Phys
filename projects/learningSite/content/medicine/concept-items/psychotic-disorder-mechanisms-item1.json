@@ -1,0 +1,56 @@
+{
+  "id": "psychotic-disorder-mechanisms-item1",
+  "conceptId": "psychotic-disorder-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An antipsychotic medication substantially reduces a patient's hallucinations but does little to improve their social withdrawal and flattened affect. What does this pattern suggest about the underlying mechanism?",
+    "et": "Antipsühhootikum vähendab oluliselt patsiendi hallutsinatsioone, kuid ei paranda peaaegu üldse tema sotsiaalset tagasitõmbumist ja lamestunud afekti. Mida see muster viitab aluseks olevale mehhanismile?",
+    "sourceHash": "d89b5c2c7f249c54",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Positive symptoms (hallucinations) are linked to excess mesolimbic dopamine signaling that dopamine-blocking drugs address directly, while negative symptoms (social withdrawal, flattened affect) are linked to reduced prefrontal dopamine/glutamate signaling -- a different, opposite-direction problem the same drug doesn't fix.",
+        "et": "Positiivsed sümptomid (hallutsinatsioonid) on seotud liigse mesolimbilise dopamiini signalisatsiooniga, mida dopamiini blokeerivad ravimid otseselt käsitlevad, samas kui negatiivsed sümptomid (sotsiaalne tagasitõmbumine, lamestunud afekt) on seotud vähenenud prefrontaalse dopamiini/glutamaadi signalisatsiooniga -- erineva, vastupidises suunas probleemiga, mida sama ravim ei paranda.",
+        "sourceHash": "c2d68b68492f6745",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The medication dose must be too low, since blocking dopamine uniformly should improve every symptom equally once dopamine levels are sufficiently reduced everywhere.",
+        "et": "Ravimi annus peab olema liiga madal, kuna dopamiini ühtlane blokeerimine peaks parandama iga sümptomit võrdselt, kui dopamiinitase on kõikjal piisavalt vähendatud.",
+        "sourceHash": "1323b7be7aa2a835",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "psychotic-disorder-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This is unexpected and suggests the dopamine hypothesis is entirely wrong, since an effective antipsychotic should address all symptoms of the disorder equally.",
+        "et": "See on ootamatu ja viitab sellele, et dopamiinihüpotees on täiesti vale, kuna tõhus antipsühhootikum peaks käsitlema kõiki häire sümptomeid võrdselt.",
+        "sourceHash": "879679d4662f0511",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "psychotic-disorder-mechanisms-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It shows the dopamine hypothesis fully and completely explains psychosis, since the medication's partial effect exactly matches what the complete model would predict for every symptom domain.",
+        "et": "See näitab, et dopamiinihüpotees seletab psühhoosi täielikult ja lõplikult, kuna ravimi osaline toime vastab täpselt sellele, mida täielik mudel iga sümptomivaldkonna jaoks ennustaks.",
+        "sourceHash": "7b3e2c82a481bef8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "psychotic-disorder-mechanisms-m2"
+    }
+  ]
+}

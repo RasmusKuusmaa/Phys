@@ -1,0 +1,21 @@
+{
+  "id": "psychotic-disorder-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "psychiatry-and-behavioral-medicine",
+  "title": {
+    "en": "Psychotic disorder mechanisms",
+    "et": "Psühhootiliste häirete mehhanismid",
+    "sourceHash": "a9d5e9750a7e2f15",
+    "stale": false
+  },
+  "summary": {
+    "en": "The dopamine hypothesis of psychosis proposes that positive symptoms -- hallucinations and delusions -- arise from excess dopamine signaling in the mesolimbic pathway, a model with real supporting evidence: drugs that increase dopamine activity (amphetamines) can induce psychotic symptoms in people with no prior history of psychosis, and antipsychotic medications share a common mechanism of blocking dopamine D2 receptors, with their clinical potency correlating closely with how strongly they block this receptor. But the model is incomplete in ways that matter: it explains positive symptoms reasonably well but says little about negative symptoms (flattened affect, social withdrawal) or cognitive symptoms, which appear to involve reduced dopamine and glutamate signaling in the prefrontal cortex instead of excess signaling -- essentially the opposite direction of dysregulation in a different pathway and brain region. This regional and directional split (too much mesolimbic dopamine driving positive symptoms, too little prefrontal dopamine/glutamate signaling contributing to negative and cognitive symptoms) is why a treatment that blocks dopamine broadly can improve hallucinations and delusions while doing little for -- or even worsening -- the negative and cognitive symptoms that often affect a person's functioning more in daily life.",
+    "et": "Psühhoosi dopamiinihüpotees väidab, et positiivsed sümptomid -- hallutsinatsioonid ja luulud -- tekivad liigse dopamiini signalisatsiooni tõttu mesolimbilises rajas, mudel, millel on tõesed tõendid: ained, mis suurendavad dopamiini aktiivsust (amfetamiinid), võivad esile kutsuda psühhootilisi sümptomeid inimestel, kellel pole varasemat psühhoosi anamneesi, ning antipsühhootikumidel on ühine mehhanism -- dopamiini D2 retseptorite blokeerimine --, kusjuures nende kliiniline toime korreleerub tihedalt sellega, kui tugevalt need seda retseptorit blokeerivad. Kuid mudel on puudulik viisidel, mis loevad: see seletab positiivseid sümptomeid mõistlikult hästi, kuid ei ütle palju negatiivsete sümptomite (lamestunud afekt, sotsiaalne tagasitõmbumine) või kognitiivsete sümptomite kohta, mis näivad hõlmavat pigem vähenenud dopamiini ja glutamaadi signalisatsiooni prefrontaalses ajukoores -- sisuliselt vastupidises suunas düsregulatsiooni teises rajas ja ajupiirkonnas. See piirkondlik ja suunaline lõhe (liiga palju mesolimbilist dopamiini, mis põhjustab positiivseid sümptomeid, liiga vähe prefrontaalset dopamiini/glutamaadi signalisatsiooni, mis panustab negatiivsetesse ja kognitiivsetesse sümptomitesse) on põhjus, miks ravi, mis blokeerib dopamiini laialdaselt, võib parandada hallutsinatsioone ja luulusid, tehes samal ajal vähe -- või isegi halvendades -- negatiivseid ja kognitiivseid sümptomeid, mis sageli mõjutavad inimese igapäevast toimetulekut rohkem.",
+    "sourceHash": "ad2aaf3fd99a88bf",
+    "stale": false
+  },
+  "prerequisites": [
+    "synaptic-transmission-and-neurotransmitters"
+  ]
+}
