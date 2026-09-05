@@ -1,0 +1,19 @@
+{
+  "id": "personality-psychology-and-individual-differences",
+  "subject": "psychology",
+  "level": "L2",
+  "module": "psychology-fundamentals",
+  "title": {
+    "en": "Personality psychology and individual differences",
+    "et": "Isiksusepsühholoogia ja individuaalsed erinevused",
+    "sourceHash": "a84924f92d244860",
+    "stale": false
+  },
+  "summary": {
+    "en": "The trait approach to personality, most widely represented by the Big Five (openness, conscientiousness, extraversion, agreeableness, and neuroticism), treats personality as a set of relatively stable dimensions along which people differ continuously, rather than as a small number of discrete personality 'types' someone either is or isn't -- decades of factor-analytic work on how personality descriptors cluster together consistently converged on roughly these five broad dimensions across different populations and languages, which is a major part of why trait models displaced most earlier typological systems. Twin and adoption studies, comparing identical twins (who share essentially all their genes) to fraternal twins and adopted siblings (who don't), consistently find substantial heritability for most personality traits -- typically estimated around 40-60% of the variation between people -- but heritability is a population-level statistic about how much of the variation in a trait across a specific studied group is attributable to genetic variation, not a claim that any individual's personality is fixed at birth or immune to environmental shaping, and the remaining variation is generally attributed to each individual's unique, non-shared environment rather than the shared family environment siblings grew up in together.",
+    "et": "Isiksuse tunnusjoonte lähenemine, mida kõige laiemalt esindab Suur Viisik (avatus, meelekindlus, ekstravertsus, sotsiaalsus, neurootilisus), käsitleb isiksust kui suhteliselt stabiilsete mõõtmete kogumit, mille lõikes inimesed erinevad pidevalt, mitte kui väikest arvu diskreetseid isiksuse 'tüüpe', mida keegi on või ei ole -- aastakümnetepikkune faktoranalüütiline töö selle kohta, kuidas isiksuseomaduste kirjeldajad järjekindlalt kokku klastrisid, koondus eri populatsioonides ja keeltes umbes nendeks viieks laiaks mõõtmeks, mis on peamine põhjus, miks tunnusjoonte mudelid tõrjusid välja enamiku varasematest tüpoloogilistest süsteemidest. Kaksikute ja lapsendamisuuringud, mis võrdlevad ühemunakaksikuid (kes jagavad sisuliselt kõiki oma geene) kahemunakaksikute ja lapsendatud õdede-vendadega (kes seda ei jaga), leiavad järjekindlalt suure osa isiksuseomaduste puhul märkimisväärse pärilikkuse -- tavaliselt hinnatud umbes 40-60% inimestevahelisest varieeruvusest --, kuid pärilikkus on populatsiooni tasandi statistik selle kohta, kui palju tunnuse varieeruvusest konkreetses uuritud rühmas on omistatav geneetilisele varieeruvusele, mitte väide, et kellegi individuaalne isiksus on sünnist saati fikseeritud või keskkonna kujundamise eest immuunne, ning ülejäänud varieeruvus on üldiselt omistatud iga inimese unikaalsele, jagamata keskkonnale, mitte jagatud pereümbrusele, milles õed-vennad üheskoos üles kasvasid.",
+    "sourceHash": "e789ac4ef9249e6e",
+    "stale": false
+  },
+  "prerequisites": []
+}

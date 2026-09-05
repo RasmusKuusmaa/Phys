@@ -1,0 +1,56 @@
+{
+  "id": "personality-psychology-and-individual-differences-item1",
+  "conceptId": "personality-psychology-and-individual-differences",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A twin study estimates that 50% of the variation in extraversion across the studied population is attributable to genetic differences. What is the correct interpretation of this finding?",
+    "et": "Kaksikuuuring hindab, et 50% ekstravertsuse varieeruvusest uuritud populatsioonis on omistatav geneetilistele erinevustele. Milline on selle leiu õige tõlgendus?",
+    "sourceHash": "a35114f49e17d258",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "About half of the differences in extraversion between people in that studied population are statistically attributable to genetic variation, a population-level statistic that says nothing about any one individual's fixed genetic-vs-environmental split.",
+        "et": "Umbes pool ekstravertsuse erinevustest inimeste vahel selles uuritud populatsioonis on statistiliselt omistatav geneetilisele varieeruvusele -- populatsiooni tasandi statistik, mis ei ütle midagi ühegi üksikisiku fikseeritud geneetilise-keskkondliku jaotuse kohta.",
+        "sourceHash": "82449c3f28e879a1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Each individual person's extraversion is exactly 50% determined by their genes and 50% by their environment.",
+        "et": "Iga üksikisiku ekstravertsus on täpselt 50% määratud tema geenide ja 50% keskkonna poolt.",
+        "sourceHash": "da8a61a4932cdc29",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "personality-psychology-and-individual-differences-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Extraversion is one of a small number of discrete personality types, and 50% of people in the study were categorized as the 'extravert' type.",
+        "et": "Ekstravertsus on üks väikesest arvust diskreetsetest isiksusetüüpidest, ning 50% uuringu inimestest kategoriseeriti 'ekstravert' tüübiks.",
+        "sourceHash": "f0fffdef811e716b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "personality-psychology-and-individual-differences-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since genetics play a role at all, extraversion must be fixed at birth and cannot be influenced by later environment or experience.",
+        "et": "Kuna geneetika mängib üldse rolli, peab ekstravertsus olema sünnist saati fikseeritud ega saa olla mõjutatud hilisemast keskkonnast ega kogemusest.",
+        "sourceHash": "a00265884d39c9a2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "personality-psychology-and-individual-differences-m3"
+    }
+  ]
+}
