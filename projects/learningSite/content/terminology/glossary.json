@@ -147,6 +147,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/seoseenergia/1/est"
   },
   {
+    "id": "biocapacity",
+    "en": "biocapacity",
+    "et": "biovõimekus",
+    "domain": "environmental-science",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/võimekus/1/est"
+  },
+  {
     "id": "birefringence",
     "en": "birefringence",
     "et": "kaksikmurdumine",
@@ -418,6 +425,13 @@
     "et": "takistusjõud",
     "domain": "fluid-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/takistusjõud/1/est"
+  },
+  {
+    "id": "ecological-footprint",
+    "en": "ecological footprint",
+    "et": "ökoloogiline jalajälg",
+    "domain": "environmental-science",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/jalajälg/1/est"
   },
   {
     "id": "eigenstate",
@@ -1174,6 +1188,13 @@
     "et": "võnkumine",
     "domain": "waves",
     "source": "https://sonaveeb.ee/search/unif/est/eki/võnkumine/1/est"
+  },
+  {
+    "id": "overshoot-ratio",
+    "en": "overshoot ratio",
+    "et": "ülekasutuse suhe",
+    "domain": "environmental-science",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/ülekasutus/1/est"
   },
   {
     "id": "partition-function",
