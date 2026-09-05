@@ -1,0 +1,10 @@
+{
+  "id": "macroeconomic-indicators-and-national-income-m3",
+  "conceptId": "macroeconomic-indicators-and-national-income",
+  "text": {
+    "en": "The official unemployment rate captures the full extent of labor-market weakness in an economy -- in reality, it counts only people actively seeking work but not currently employed, missing 'discouraged workers' who have stopped looking for a job altogether and so drop out of the count entirely, which means the official rate can understate real labor-market weakness during a prolonged downturn.",
+    "et": "Ametlik tööpuuduse määr tabab majanduse tööturu nõrkuse täit ulatust -- tegelikult loeb see ainult inimesi, kes aktiivselt otsivad tööd, kuid ei ole hetkel hõivatud, jättes arvestamata heitunud töötajad, kes on töö otsimise täielikult lõpetanud ja seega langevad loendusest täielikult välja, mis tähendab, et ametlik määr võib pikaajalise languse ajal tegelikku tööturu nõrkust alahinnata.",
+    "sourceHash": "52525a9abfc8c42b",
+    "stale": false
+  }
+}

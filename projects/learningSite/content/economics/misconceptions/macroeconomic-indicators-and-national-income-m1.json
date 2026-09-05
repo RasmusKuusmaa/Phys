@@ -1,0 +1,10 @@
+{
+  "id": "macroeconomic-indicators-and-national-income-m1",
+  "conceptId": "macroeconomic-indicators-and-national-income",
+  "text": {
+    "en": "GDP directly measures a population's overall wellbeing or quality of life, not just market-transacted economic output -- in reality, GDP deliberately only totals market transactions and says nothing directly about how that output is distributed, how much unpaid/informal work occurs outside it, or environmental/resource costs -- a rising GDP can coexist with stagnant or falling wellbeing for most people.",
+    "et": "SKT mõõdab otseselt elanikkonna üldist heaolu või elukvaliteeti, mitte ainult turutehingutega toodetud majandustoodangut -- tegelikult liidab SKT tahtlikult kokku ainult turutehingud ja ei ütle otseselt midagi selle kohta, kuidas see toodang jaotub, kui palju tasustamata/mitteametlikku tööd väljaspool seda toimub, või keskkonna-/ressursikuludest -- tõusev SKT võib eksisteerida koos enamiku inimeste seisva või languseva heaoluga.",
+    "sourceHash": "0e36922e5006605e",
+    "stale": false
+  }
+}

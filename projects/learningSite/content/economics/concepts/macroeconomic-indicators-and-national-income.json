@@ -1,0 +1,19 @@
+{
+  "id": "macroeconomic-indicators-and-national-income",
+  "subject": "economics",
+  "level": "L1",
+  "module": "economics-fundamentals",
+  "title": {
+    "en": "Macroeconomic indicators and national income",
+    "et": "Makromajanduslikud näitajad ja rahvamajanduse tulu",
+    "sourceHash": "415e92ad5b2ea1f8",
+    "stale": false
+  },
+  "summary": {
+    "en": "Gross domestic product totals the market value of every final good and service produced within a country over a given period, and it is deliberately narrower than it sounds: it counts only market transactions (so unpaid household work and informal-economy activity are invisible to it), only final goods (so a car's steel isn't counted separately from the finished car, to avoid double-counting the same value twice), and says nothing directly about how that output is distributed across the population or how sustainably it was produced -- a country's GDP can rise while most residents see no benefit, and GDP has no built-in mechanism for reflecting environmental damage or resource depletion. Inflation, the rate at which the general price level rises, is tracked separately because a rising GDP figure can be pure illusion if prices rose by the same or a greater amount -- comparing this year's GDP to last year's in nominal dollars conflates real output growth with pure price increases, which is exactly why economists track real GDP, adjusted to remove the effect of price changes, as the more meaningful growth measure. Unemployment, the third core indicator, counts only people actively seeking work but not currently employed, which means it can understate real labor-market weakness by missing discouraged workers who have stopped looking altogether, and each of these three indicators captures a genuinely different dimension of an economy's health, none reducible to the others.",
+    "et": "Sisemajanduse koguprodukt liidab kokku iga riigis toodetud lõpliku kauba ja teenuse turuväärtuse antud perioodi jooksul, ning see on tahtlikult kitsam, kui see kõlab: see loeb ainult turutehinguid (mistõttu tasustamata kodutöö ja mitteametliku majanduse tegevus jäävad sellele nähtamatuks), ainult lõplikke kaupu (mistõttu auto terast ei loeta eraldi valmis autost, et vältida sama väärtuse kahekordset arvestamist), ning ei ütle otseselt midagi selle kohta, kuidas see toodang jaotub elanikkonna vahel või kui jätkusuutlikult see toodeti -- riigi SKT võib tõusta, samas kui enamik elanikke ei näe mingit kasu, ning SKT-l pole sisseehitatud mehhanismi keskkonnakahju või ressursside ammendumise peegeldamiseks. Inflatsiooni, määra, millega üldine hinnatase tõuseb, jälgitakse eraldi, kuna tõusev SKT näitaja võib olla puhas illusioon, kui hinnad tõusid sama palju või rohkem -- selle aasta SKT võrdlemine eelmise aastaga nominaalväärtuses segab reaalse toodangu kasvu puhta hinnatõusuga, mis ongi täpselt põhjus, miks majandusteadlased jälgivad reaal-SKT-d, mis on korrigeeritud hinnamuutuste mõju eemaldamiseks, kui tähendusrikkamat kasvunäitajat. Tööpuudus, kolmas põhinäitaja, loeb ainult inimesi, kes aktiivselt otsivad tööd, kuid ei ole hetkel hõivatud, mis tähendab, et see võib alahinnata tegelikku tööturu nõrkust, jättes arvestamata heitunud töötajad, kes on otsimise täielikult lõpetanud, ning igaüks neist kolmest põhinäitajast tabab tõeliselt erinevat majanduse tervise mõõdet, millest ükski pole taandatav teistele.",
+    "sourceHash": "acf2866f3fdfb7c2",
+    "stale": false
+  },
+  "prerequisites": []
+}

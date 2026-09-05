@@ -1,0 +1,56 @@
+{
+  "id": "macroeconomic-indicators-and-national-income-item1",
+  "conceptId": "macroeconomic-indicators-and-national-income",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A country's nominal GDP rose 8% this year, but the general price level (inflation) also rose 8% over the same period. What can be concluded about real economic output?",
+    "et": "Riigi nominaalne SKT tõusis sel aastal 8%, kuid ka üldine hinnatase (inflatsioon) tõusis samal perioodil 8%. Mida saab järeldada reaalse majandustoodangu kohta?",
+    "sourceHash": "120d9f7a2a01dead",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Real output growth was approximately zero, since the entire nominal GDP increase is accounted for by the rise in prices rather than any increase in actual output.",
+        "et": "Reaalse toodangu kasv oli ligikaudu null, kuna kogu nominaalse SKT tõusu selgitab hinnatõus, mitte mingi tegeliku toodangu suurenemine.",
+        "sourceHash": "0d9140d3656c760f",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Real output grew by roughly 8%, since the nominal GDP figure itself already tells you how much real output actually grew.",
+        "et": "Reaalne toodang kasvas ligikaudu 8%, kuna nominaalne SKT näitaja ise juba ütleb, kui palju reaalne toodang tegelikult kasvas.",
+        "sourceHash": "5f080dffcab63ab5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "macroeconomic-indicators-and-national-income-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Real output growth cannot be assessed at all without also knowing the unemployment rate, since GDP alone never reflects real production changes.",
+        "et": "Reaalse toodangu kasvu ei saa üldse hinnata ilma tööpuuduse määra teadmata, kuna SKT üksi ei peegelda kunagi reaalseid tootmismuutusi.",
+        "sourceHash": "962e41cad3ab24cf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "macroeconomic-indicators-and-national-income-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This says nothing about output but directly measures how much the population's overall wellbeing improved this year.",
+        "et": "See ei ütle midagi toodangu kohta, vaid mõõdab otseselt, kui palju elanikkonna üldine heaolu sel aastal paranes.",
+        "sourceHash": "b61c3722b668ad06",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "macroeconomic-indicators-and-national-income-m3"
+    }
+  ]
+}

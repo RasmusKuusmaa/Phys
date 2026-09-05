@@ -1,0 +1,10 @@
+{
+  "id": "macroeconomic-indicators-and-national-income-m2",
+  "conceptId": "macroeconomic-indicators-and-national-income",
+  "text": {
+    "en": "Comparing this year's GDP figure (in current-year dollars) to last year's directly tells you how much real output actually grew -- in reality, that nominal comparison conflates genuine output growth with pure price inflation, which is exactly why economists compute real GDP (adjusted to remove the effect of price changes) as the meaningful growth measure; a nominal GDP increase driven entirely by inflation reflects zero real growth.",
+    "et": "Selle aasta SKT näitaja (jooksva aasta rahas) võrdlemine eelmise aastaga ütleb otse, kui palju reaalne toodang tegelikult kasvas -- tegelikult segab see nominaalne võrdlus tõelise toodangu kasvu puhta hinnainflatsiooniga, mis ongi täpselt põhjus, miks majandusteadlased arvutavad reaal-SKT (korrigeeritud hinnamuutuste mõju eemaldamiseks) kui tähendusrikast kasvunäitajat; täielikult inflatsioonist tingitud nominaalse SKT tõus peegeldab nullilähedast reaalset kasvu.",
+    "sourceHash": "2841c2759a959d26",
+    "stale": false
+  }
+}
