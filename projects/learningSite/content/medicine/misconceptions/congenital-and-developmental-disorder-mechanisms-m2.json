@@ -1,0 +1,10 @@
+{
+  "id": "congenital-and-developmental-disorder-mechanisms-m2",
+  "conceptId": "congenital-and-developmental-disorder-mechanisms",
+  "text": {
+    "en": "A teratogen is dangerous throughout the entire pregnancy, so the timing of exposure during pregnancy doesn't really change the outcome -- in reality, a given teratogen typically only disrupts development during a specific critical window when the affected structure is actively forming (mostly weeks three through eight, the embryonic period); exposure to the same substance before or after that structure's formation window can produce a much milder effect, a completely different defect, or no effect at all.",
+    "et": "Teratogeen on ohtlik kogu raseduse vältel, mistõttu kokkupuute ajastus raseduse jooksul ei muuda tegelikult tulemust -- tegelikult häirib konkreetne teratogeen tavaliselt arengut ainult spetsiifilise kriitilise akna jooksul, mil mõjutatud struktuur aktiivselt moodustub (peamiselt kolmandast kaheksanda nädalani, embrüonaalne periood); sama ainega kokkupuude enne või pärast selle struktuuri moodustumise akent võib tekitada palju kergema mõju, täiesti erineva defekti või üldse mitte mingit mõju.",
+    "sourceHash": "17d5d09f404727a1",
+    "stale": false
+  }
+}

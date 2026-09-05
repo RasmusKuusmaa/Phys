@@ -1,0 +1,10 @@
+{
+  "id": "congenital-and-developmental-disorder-mechanisms-m1",
+  "conceptId": "congenital-and-developmental-disorder-mechanisms",
+  "text": {
+    "en": "A birth defect is always caused by something the mother was exposed to during pregnancy (a teratogen), so a birth defect implies a preventable maternal exposure -- in reality, many birth defects arise from a purely genetic mechanism (a chromosomal abnormality or single-gene mutation) with no environmental teratogen involved at all, and even genuinely multifactorial defects require a genetic susceptibility as one necessary component, not an environmental exposure alone -- attributing every birth defect to something the mother did or was exposed to is both scientifically wrong and unfairly places blame.",
+    "et": "Sünnidefekt on alati põhjustatud millestki, millega ema raseduse ajal kokku puutus (teratogeen), mistõttu sünnidefekt viitab välditavale emapoolsele kokkupuutele -- tegelikult tekivad paljud sünnidefektid puhtalt geneetilisest mehhanismist (kromosomaalne anomaalia või üksiku geeni mutatsioon) ilma igasuguse keskkondliku teratogeenita, ning isegi tõeliselt multifaktoriaalsed defektid vajavad geneetilist vastuvõtlikkust kui üht vajalikku komponenti, mitte üksnes keskkondlikku kokkupuudet -- iga sünnidefekti omistamine millelegi, mida ema tegi või millega kokku puutus, on nii teaduslikult vale kui ka ebaõiglaselt süüdistav.",
+    "sourceHash": "6dc1d508b2ec42ec",
+    "stale": false
+  }
+}

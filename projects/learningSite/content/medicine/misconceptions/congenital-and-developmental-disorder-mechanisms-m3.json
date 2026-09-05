@@ -1,0 +1,10 @@
+{
+  "id": "congenital-and-developmental-disorder-mechanisms-m3",
+  "conceptId": "congenital-and-developmental-disorder-mechanisms",
+  "text": {
+    "en": "If a specific genetic mutation is known to be associated with a birth defect, then everyone who carries that exact mutation will develop the same defect with the same severity -- in reality, many congenital disorders are multifactorial, where a genetic susceptibility only manifests as an actual structural defect given a particular environmental trigger or co-occurring factor -- neither the genetic susceptibility nor the environmental factor alone is sufficient.",
+    "et": "Kui teatud geneetiline mutatsioon on teadaolevalt seotud sünnidefektiga, siis areneb kõigil, kellel on täpselt see mutatsioon, sama defekt sama raskusastmega -- tegelikult on paljud kaasasündinud häired multifaktoriaalsed, kus geneetiline vastuvõtlikkus avaldub tegeliku struktuurse defektina alles konkreetse keskkondliku käivitaja või kaasneva teguri korral -- kumbki, ei geneetiline vastuvõtlikkus ega keskkondlik tegur üksi, ei ole piisav.",
+    "sourceHash": "e9346bc73c48f103",
+    "stale": false
+  }
+}

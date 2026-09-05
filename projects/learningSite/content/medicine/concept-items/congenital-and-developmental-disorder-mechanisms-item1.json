@@ -1,0 +1,56 @@
+{
+  "id": "congenital-and-developmental-disorder-mechanisms-item1",
+  "conceptId": "congenital-and-developmental-disorder-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A particular medication is known to cause a specific birth defect only when taken during weeks 4-6 of pregnancy, with no effect at other times. What does this best illustrate?",
+    "et": "Teadaolevalt põhjustab kindel ravim spetsiifilist sünnidefekti ainult siis, kui seda võetakse raseduse 4.-6. nädalal, mõjuta muudel aegadel. Mida see kõige paremini illustreerib?",
+    "sourceHash": "224b3a14ae697573",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Teratogens typically disrupt development only during a specific critical window when the affected structure is actively forming, so the timing of exposure -- not just its presence -- determines the outcome.",
+        "et": "Teratogeenid häirivad arengut tavaliselt ainult spetsiifilise kriitilise akna jooksul, mil mõjutatud struktuur aktiivselt moodustub, mistõttu kokkupuute ajastus -- mitte ainult selle olemasolu -- määrab tulemuse.",
+        "sourceHash": "c04cfe87c468b283",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This must be an unusual exception -- most teratogens are dangerous throughout the entire pregnancy regardless of timing.",
+        "et": "See peab olema ebatavaline erand -- enamik teratogeene on ohtlikud kogu raseduse vältel, sõltumata ajastusest.",
+        "sourceHash": "907914572ceefd46",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "congenital-and-developmental-disorder-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Since a specific external substance is responsible, this defect cannot have any genetic contribution at all.",
+        "et": "Kuna vastutav on konkreetne väline aine, ei saa sellel defektil olla üldse mingit geneetilist panust.",
+        "sourceHash": "9e12205ce0a11db2",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "congenital-and-developmental-disorder-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Every pregnancy exposed to this medication during weeks 4-6 must develop the identical defect with identical severity, since a known teratogenic mechanism guarantees a uniform outcome.",
+        "et": "Iga rasedus, mis puutub selle ravimiga kokku 4.-6. nädalal, peab arenema identse defektiga identses raskusastmes, kuna teadaolev teratogeenne mehhanism tagab ühtlase tulemuse.",
+        "sourceHash": "61c17044ba5ecb0e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "congenital-and-developmental-disorder-mechanisms-m3"
+    }
+  ]
+}

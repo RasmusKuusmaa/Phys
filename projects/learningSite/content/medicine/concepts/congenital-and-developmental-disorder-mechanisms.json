@@ -1,0 +1,21 @@
+{
+  "id": "congenital-and-developmental-disorder-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "genetics-and-molecular-genetics",
+  "title": {
+    "en": "Congenital and developmental disorder mechanisms",
+    "et": "Kaasasündinud ja arenguhäirete mehhanismid",
+    "sourceHash": "c9a81ee279410df4",
+    "stale": false
+  },
+  "summary": {
+    "en": "A birth defect can arise from any of three fundamentally different mechanistic routes, and telling them apart matters because each implies a different window of vulnerability and a different kind of cause. A purely genetic mechanism -- a chromosomal abnormality or a single-gene mutation, the same categories the existing genetic-disorders concept covers -- disrupts development because the instructions for building a structure are themselves wrong, regardless of the intrauterine environment. A purely environmental mechanism, by contrast, disrupts an intrinsically normal genetic program from the outside: a teratogen (a drug, an infection, radiation, or a toxin) reaching the embryo or fetus at a critical developmental window can derail normal formation of a structure even when every gene involved is entirely normal, and the same teratogen can produce dramatically different effects, or no effect at all, depending on exactly when during development exposure occurs, because different organs are only vulnerable to disruption during their own specific window of active formation. Many congenital disorders are genuinely multifactorial, arising from a genetic susceptibility that only manifests as a defect given a particular environmental trigger, neither factor being sufficient alone -- which is precisely why the same teratogen exposure produces a defect in one pregnancy but not another with a different genetic background. This three-way mechanistic split is also why the riskiest window for many structural birth defects is the embryonic period (roughly weeks three through eight of human development), when the body's major organ systems are being actively formed from scratch, rather than the fetal period that follows, when organs are mostly maturing and growing rather than being newly built.",
+    "et": "Sünnidefekt võib tekkida ühel kolmest põhimõtteliselt erinevast mehaanilisest teest, ning nende eristamine on oluline, kuna igaüks neist tähendab erinevat haavatavuse akent ja erinevat põhjuse liiki. Puhtalt geneetiline mehhanism -- kromosomaalne anomaalia või üksiku geeni mutatsioon, samad kategooriad, mida käsitleb olemasolev pärilike-haiguste-mehhanismide mõiste -- häirib arengut seetõttu, et struktuuri ehitamise juhised on iseenesest valed, sõltumata emakasisesest keskkonnast. Puhtalt keskkondlik mehhanism seevastu häirib olemuslikult normaalset geneetilist programmi väljastpoolt: teratogeen (ravim, infektsioon, kiirgus või toksiin), mis jõuab embrüoni või lootesse kriitilisel arenguaknal, võib rikkuda struktuuri normaalse moodustumise isegi siis, kui kõik asjaomased geenid on täiesti normaalsed, ning sama teratogeen võib tekitada dramaatiliselt erinevaid mõjusid või üldse mitte mingit mõju, sõltuvalt sellest, millal täpselt arengu käigus kokkupuude toimub, sest erinevad elundid on häirimisele haavatavad ainult oma spetsiifilise aktiivse moodustumise akna ajal. Paljud kaasasündinud häired on tõeliselt multifaktoriaalsed, tekkides geneetilisest vastuvõtlikkusest, mis avaldub defektina alles konkreetse keskkondliku käivitaja korral, kusjuures kumbki tegur üksi ei ole piisav -- mis ongi täpselt põhjus, miks sama teratogeeniga kokkupuude tekitab defekti ühes raseduses, kuid mitte teises, erineva geneetilise taustaga rasedusesse. See kolmene mehaaniline jaotus on ka põhjus, miks paljude struktuursete sünnidefektide riskantseim aken on embrüonaalne periood (ligikaudu kolmandast kaheksanda nädalani inimese arengus), mil keha põhilised elundisüsteemid aktiivselt algusest peale moodustuvad, mitte sellele järgnev lootepiirkond, mil elundid peamiselt küpsevad ja kasvavad, mitte ei moodustu uuesti.",
+    "sourceHash": "2dfad2dfa4c6f751",
+    "stale": false
+  },
+  "prerequisites": [
+    "genetic-disorders-and-inheritance-mechanisms"
+  ]
+}
