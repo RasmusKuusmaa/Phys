@@ -1,0 +1,19 @@
+{
+  "id": "rock-cycle-and-rock-classification",
+  "subject": "earth-science",
+  "level": "L1",
+  "module": "earth-science-fundamentals",
+  "title": {
+    "en": "Rock cycle and rock classification",
+    "et": "Kivimitsükkel ja kivimite klassifikatsioon",
+    "sourceHash": "5de5a8d057b27657",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every rock on Earth belongs to one of three classes defined by how it formed, and critically, none of the three is a permanent end state -- any rock can eventually become any other kind of rock given enough time, heat, pressure, or exposure, which is exactly what the rock cycle describes. Igneous rock forms when molten rock (magma below the surface, lava above it) cools and solidifies, crystallizing minerals directly from the melt; slow cooling deep underground produces large, visible crystals (like granite), while rapid cooling at the surface produces fine-grained or even glassy rock (like basalt or obsidian). Sedimentary rock forms at Earth's surface through an entirely different process: existing rock is weathered and eroded into loose sediment, that sediment is transported and deposited in layers, and over time burial and pressure compact and cement those layers into solid rock (sandstone from sand grains, shale from mud, limestone often from accumulated shell/skeletal fragments) -- sedimentary rock is the only class that commonly preserves fossils, since it forms gently at the surface rather than under destructive heat and pressure. Metamorphic rock forms when any existing rock -- igneous, sedimentary, or even another metamorphic rock -- is subjected to enough heat and pressure (without fully melting) that its minerals recrystallize into a new, more stable arrangement, often creating banded or foliated textures (limestone becomes marble, shale becomes slate, granite can become gneiss). Because each class's raw material can be any of the other two, the rock cycle has no fixed starting point or required sequence -- it is a set of possible transformation pathways, not a one-way conveyor belt.",
+    "et": "Iga kivim Maal kuulub ühte kolmest klassist, mis on määratletud selle tekkeviisi järgi, ning kriitiliselt ei ole ükski kolmest püsiv lõppseisund -- iga kivim võib lõpuks muutuda mistahes teiseks kivimiliigiks, kui on piisavalt aega, kuumust, survet või avatust, ning täpselt seda kirjeldabki kivimitsükkel. Tardkivim tekib, kui sulakivim (maapinna all magma, pinnal laava) jahtub ja tahkub, kristalliseerides mineraale otse sulamist; aeglane jahtumine sügaval maa all annab suuri, nähtavaid kristalle (nagu graniit), samas kui kiire jahtumine pinnal annab peenetera- või isegi klaasjase kivimi (nagu basalt või obsidiaan). Settekivim tekib Maa pinnal täiesti erineva protsessi kaudu: olemasolev kivim murendatakse ja erodeeritakse lahtiseks setteks, see sete transporditakse ja ladestatakse kihtidena, ning aja jooksul tihendavad ja tsementeerivad matmine ja surve need kihid tahkeks kivimiks (liivakivi liivateradest, savikivi mudast, lubjakivi sageli kogunenud kesta-/luustikutükkidest) -- settekivim on ainuke klass, mis tavaliselt säilitab fossiile, kuna see moodustub õrnalt pinnal, mitte hävitava kuumuse ja surve all. Moondekivim tekib, kui mistahes olemasolev kivim -- tard-, sette- või isegi teine moondekivim -- allutatakse piisavale kuumusele ja survele (ilma täielikult sulamata), et selle mineraalid rekristalliseeruvad uude, stabiilsemasse paigutusse, luues sageli triibulisi või foliatsiooniga tekstuure (lubjakivist saab marmor, savikivist kildakivi, graniidist võib saada gneiss). Kuna iga klassi tooraineks võib olla mistahes teine kahest, ei ole kivimitsüklil kindlat alguspunkti ega nõutavat järjekorda -- see on võimalike transformatsiooniradade kogum, mitte ühesuunaline konveier.",
+    "sourceHash": "366dbbfd2655c4ba",
+    "stale": false
+  },
+  "prerequisites": []
+}

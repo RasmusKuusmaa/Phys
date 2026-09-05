@@ -1,0 +1,56 @@
+{
+  "id": "rock-cycle-and-rock-classification-item1",
+  "conceptId": "rock-cycle-and-rock-classification",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A geologist finds a rock with visible banded layers of different minerals, clearly derived from an older rock whose original texture is still faintly recognizable, but the rock shows no sign of ever having fully melted. What type of rock is this most likely to be, and why?",
+    "et": "Geoloog leiab kivimi, millel on nähtavad triibulised erinevate mineraalide kihid, mis on selgelt pärit vanemast kivimist, mille algne tekstuur on veel nõrgalt äratuntav, kuid kivimil pole märke sellest, et see oleks kunagi täielikult sulanud. Milline kivimiliik see kõige tõenäolisemalt on ja miks?",
+    "sourceHash": "06847b6ac7efd1b6",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Metamorphic rock, since its minerals recrystallized under heat and pressure without fully melting, which is exactly what preserves a banded texture inherited from the original rock.",
+        "et": "Moondekivim, kuna selle mineraalid rekristalliseerusid kuumuse ja surve all ilma täielikult sulamata, mis ongi täpselt see, mis säilitab algsest kivimist päritud triibulise tekstuuri.",
+        "sourceHash": "6366ad13ff6084a1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Igneous rock, since any rock with a layered mineral appearance must have crystallized directly from cooling magma.",
+        "et": "Tardkivim, kuna iga kihilise mineraalse välimusega kivim peab olema kristalliseerunud otse jahtuvast magmast.",
+        "sourceHash": "dad1c6333d3e61a0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rock-cycle-and-rock-classification-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Sedimentary rock, since layering of any kind is the defining feature of sedimentary rock regardless of mineral content or origin.",
+        "et": "Settekivim, kuna igasugune kihilisus on settekivimi määratlev tunnus sõltumata mineraalsest koostisest või päritolust.",
+        "sourceHash": "52b16b5575195668",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rock-cycle-and-rock-classification-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It cannot be classified without knowing its exact age, since rock type is primarily determined by how old the rock is rather than by its formation process.",
+        "et": "Seda ei saa klassifitseerida ilma täpset vanust teadmata, kuna kivimiliik määratakse peamiselt selle järgi, kui vana kivim on, mitte selle tekkeprotsessi järgi.",
+        "sourceHash": "3fe70d77b0d3db40",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "rock-cycle-and-rock-classification-m3"
+    }
+  ]
+}
