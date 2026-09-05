@@ -63,30 +63,52 @@ Single module for now (`chemical-engineering-fundamentals`), same
 one-module-through-later-phases pattern every new subject on this site has
 started with.
 
-- [ ] Mass and energy balances in process engineering (the conservation-
+- [x] Mass and energy balances in process engineering (the conservation-
       based accounting method every chemical process analysis starts
       from; no prerequisites — the foundational entry point the rest of
-      this subject builds on; a genuine formula candidate)
-- [ ] Reactor design and reaction engineering (batch, CSTR, and PFR
+      this subject builds on; formalised the two-stream mixing balance,
+      C_out = (C1·Q1 + C2·Q2)/(Q1+Q2), as a formula + problem template +
+      error model)
+- [x] Reactor design and reaction engineering (batch, CSTR, and PFR
       reactor types, residence time, and conversion — the process-design
       layer built on top of chemistry's existing kinetics content, not a
       restatement of it; prerequisite: mass-and-energy-balances-in-
-      process-engineering)
-- [ ] Separation processes and distillation (distillation, extraction,
+      process-engineering; kept conceptual)
+- [x] Separation processes and distillation (distillation, extraction,
       and absorption as separation techniques based on phase
-      equilibrium; no prerequisites)
-- [ ] Transport phenomena: momentum, heat, and mass transfer (the unified
+      equilibrium; no prerequisites; kept conceptual)
+- [x] Transport phenomena: momentum, heat, and mass transfer (the unified
       transport-phenomena framework and the analogies between its three
       forms — distinct from general-engineering's more applied-systems-
-      level fluid-mechanics/heat-exchanger concepts; no prerequisites)
-- [ ] Process safety and hazard analysis (HAZOP methodology, and
+      level fluid-mechanics/heat-exchanger concepts; no prerequisites;
+      kept conceptual)
+- [x] Process safety and hazard analysis (HAZOP methodology, and
       chemical-process-specific hazards — runaway reactions, toxic
       release — distinct from general-engineering's general reliability-
-      engineering concept; no prerequisites)
-- [ ] Catalysis and industrial chemical processes (heterogeneous vs.
+      engineering concept; no prerequisites; kept conceptual)
+- [x] Catalysis and industrial chemical processes (heterogeneous vs.
       homogeneous catalysis, and 1-2 landmark industrial processes —
       e.g. the Haber-Bosch process — as concrete illustrations;
-      prerequisite: reactor-design-and-reaction-engineering)
+      prerequisite: reactor-design-and-reaction-engineering; kept
+      conceptual)
+
+Phase ChemE1 complete: 6 chemical-engineering concepts. Authored directly
+(this directive was executed as a worker fork of the coordinating session
+directly, per the fork protocol). Only the mass/energy-balances concept
+got a formula (a two-stream mixing balance); the rest are design-reasoning
+content (reactor-type conversion tradeoffs, separation-mechanism choice,
+the shared transport-phenomena structure, hazard-analysis methodology,
+and the catalysis phase/equilibrium distinction), not single clean numeric
+relationships. No new glossary terms needed (existing `concentration` and
+`flow rate` entries covered the one formula's symbols). All 12 resource
+URLs individually curl-verified live, including two exact-title Estonian
+matches (Destillatsioon, Katalüüs) and honest adjacent matches elsewhere
+(Keemiatehnoloogia for mass/energy balances, "Reaktor (keemia)" for
+reactor design, Difusioon for transport phenomena, Bhopali avarii for
+process safety — none has a dedicated Estonian article at the concept's
+exact scope). `npm run validate:content` (20 subjects, 719 concepts),
+`npm run lint:terminology` (280 glossary terms), and `npm run typecheck`
+all pass; working tree clean.
 
 ## Phase ChemE2 — not yet planned
 
