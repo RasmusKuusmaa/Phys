@@ -1,0 +1,56 @@
+{
+  "id": "supply-and-demand-and-market-equilibrium-item1",
+  "conceptId": "supply-and-demand-and-market-equilibrium",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A government sets a maximum legal price (a price ceiling) for a good, below the market's natural equilibrium price. What is the most likely direct result?",
+    "et": "Valitsus kehtestab kaubale maksimaalse seadusliku hinna (hinnalae), mis on turu loomulikust tasakaaluhinnast madalam. Milline on kõige tõenäolisem otsene tulemus?",
+    "sourceHash": "0fc8e5ea832121a4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "A persistent shortage, since at the artificially low price the quantity buyers demand exceeds the quantity sellers are willing to supply.",
+        "et": "Püsiv puudus, kuna sellel kunstlikult madalal hinnal ületab ostjate nõutav kogus müüjate poolt pakutava koguse.",
+        "sourceHash": "7ad0ea0835c863b2",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The price ceiling simply achieves its goal of making the good affordable, with the quantity supplied and demanded staying at their original equilibrium level.",
+        "et": "Hinnalagi saavutab lihtsalt oma eesmärgi muuta kaup taskukohaseks, kusjuures pakutav ja nõutav kogus jäävad oma algsele tasakaalutasemele.",
+        "sourceHash": "59e9d732222fc9e1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "supply-and-demand-and-market-equilibrium-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The entire demand curve shifts to a new position because the price changed, establishing a new equilibrium exactly at the ceiling price with no shortage.",
+        "et": "Kogu nõudluskõver nihkub hinna muutumise tõttu uude asendisse, kehtestades uue tasakaalu täpselt lae hinna juures, ilma puuduseta.",
+        "sourceHash": "3fd426124de860aa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "supply-and-demand-and-market-equilibrium-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The shortage this creates is a stable, permanent situation with no competitive pressure pushing the market to respond to it further.",
+        "et": "Sellest tekkiv puudus on stabiilne, püsiv olukord, ilma konkurentsisurveta, mis suruks turgu sellele veel reageerima.",
+        "sourceHash": "b8529bd7b11ff82c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "supply-and-demand-and-market-equilibrium-m3"
+    }
+  ]
+}

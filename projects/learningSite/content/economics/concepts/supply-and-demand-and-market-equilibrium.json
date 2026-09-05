@@ -1,0 +1,19 @@
+{
+  "id": "supply-and-demand-and-market-equilibrium",
+  "subject": "economics",
+  "level": "L1",
+  "module": "economics-fundamentals",
+  "title": {
+    "en": "Supply and demand and market equilibrium",
+    "et": "Pakkumine ja nõudlus ning turu tasakaal",
+    "sourceHash": "44ad683ba52e6971",
+    "stale": false
+  },
+  "summary": {
+    "en": "A demand curve shows how much of a good buyers want to purchase at each possible price, sloping downward because a lower price draws in more buyers and lets existing buyers purchase more, while a supply curve shows how much sellers are willing to produce at each price, sloping upward because a higher price makes production more worthwhile; the point where these two curves cross is the market equilibrium, the unique price at which the quantity buyers want to buy exactly equals the quantity sellers want to sell, with no surplus piling up unsold and no shortage of frustrated buyers left empty-handed. Away from this price the market is not stable: at any price above equilibrium, sellers offer more than buyers want, and the resulting unsold surplus pushes the price back down; at any price below equilibrium, buyers want more than sellers offer, and the resulting shortage pushes the price back up, which is exactly why a competitive market tends to settle at its equilibrium price on its own, without anyone deliberately steering it there. A change in some other factor -- income, the price of a related good, a new technology, a change in the number of buyers or sellers -- shifts the entire demand or supply curve to a new position, moving the equilibrium itself to a new price and quantity, which is a genuinely different event from simply moving along a fixed curve because price itself changed.",
+    "et": "Nõudluskõver näitab, kui palju ostjad soovivad kaupa igal võimalikul hinnal osta, kaldudes allapoole, kuna madalam hind meelitab ligi rohkem ostjaid ja lubab olemasolevatel ostjatel rohkem osta, samas kui pakkumiskõver näitab, kui palju müüjad on valmis igal hinnal toota, kaldudes ülespoole, kuna kõrgem hind muudab tootmise tulusamaks; punkt, kus need kaks kõverat ristuvad, on turu tasakaal, ainulaadne hind, mille juures ostjate soovitud kogus võrdub täpselt müüjate soovitud kogusega, ilma müümata jääva ülejäägita ja pettunud tühjade kätega ostjateta puuduseta. Sellest hinnast eemal ei ole turg stabiilne: igal tasakaaluhinnast kõrgemal hinnal pakuvad müüjad rohkem, kui ostjad soovivad, ning tekkiv müümata ülejääk surub hinna tagasi alla; igal tasakaaluhinnast madalamal hinnal soovivad ostjad rohkem, kui müüjad pakuvad, ning tekkiv puudus surub hinna tagasi üles, mis ongi täpselt põhjus, miks konkurentsiturg kaldub iseenesest oma tasakaaluhinnale asetuma, ilma et keegi seda sihilikult sinna suunaks. Mõne muu teguri muutus -- sissetulek, seotud kauba hind, uus tehnoloogia, ostjate või müüjate arvu muutus -- nihutab kogu nõudlus- või pakkumiskõverat uude asendisse, viies tasakaalu ise uude hinda ja kogusesse, mis on tõeliselt erinev sündmus lihtsalt fikseeritud kõveral liikumisest, mis toimuks hinna enda muutumise tõttu.",
+    "sourceHash": "148e959cf9cdf7b3",
+    "stale": false
+  },
+  "prerequisites": []
+}

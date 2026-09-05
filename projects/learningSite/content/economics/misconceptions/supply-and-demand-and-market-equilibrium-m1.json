@@ -1,0 +1,10 @@
+{
+  "id": "supply-and-demand-and-market-equilibrium-m1",
+  "conceptId": "supply-and-demand-and-market-equilibrium",
+  "text": {
+    "en": "A price ceiling or price floor always simply achieves its intended goal (making a good affordable, or guaranteeing sellers a decent price) with no side effects on the quantity actually supplied or demanded -- in reality, a price ceiling set below equilibrium creates a persistent shortage (quantity demanded exceeds quantity supplied at that artificially low price), and a price floor set above equilibrium creates a persistent surplus (quantity supplied exceeds quantity demanded) -- the price control doesn't just redistribute value, it also changes how much actually gets produced and bought.",
+    "et": "Hinnalagi või hinnapõrand saavutab alati lihtsalt oma kavandatud eesmärgi (kauba taskukohaseks muutmine või müüjatele korraliku hinna tagamine), ilma mõjuta tegelikult pakutavale või nõutavale kogusele -- tegelikult loob tasakaalust madalamale seatud hinnalagi püsiva puuduse (nõutav kogus ületab pakutava koguse sellel kunstlikult madalal hinnal) ning tasakaalust kõrgemale seatud hinnapõrand loob püsiva ülejäägi (pakutav kogus ületab nõutava koguse) -- hinnakontroll ei jaota lihtsalt väärtust ümber, vaid muudab ka seda, kui palju tegelikult toodetakse ja ostetakse.",
+    "sourceHash": "951e863758296e70",
+    "stale": false
+  }
+}

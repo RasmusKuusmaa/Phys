@@ -1,0 +1,10 @@
+{
+  "id": "supply-and-demand-and-market-equilibrium-m3",
+  "conceptId": "supply-and-demand-and-market-equilibrium",
+  "text": {
+    "en": "A market away from its equilibrium price (a surplus or shortage) is a stable situation that can persist indefinitely without any tendency to change -- in reality, a surplus creates competitive pressure among sellers (undercutting each other) that pushes price down toward equilibrium, and a shortage creates competitive pressure among buyers (bidding up) that pushes price up toward equilibrium -- disequilibrium is inherently a temporary, self-correcting state in a competitive market, not a stable resting point.",
+    "et": "Turg, mis on tasakaaluhinnast eemal (ülejääk või puudus), on stabiilne olukord, mis võib püsida lõputult ilma mistahes muutumistendentsita -- tegelikult tekitab ülejääk müüjate vahel konkurentsisurve (üksteise hinna alandamine), mis surub hinna tasakaalu poole alla, ning puudus tekitab ostjate vahel konkurentsisurve (hinna üles pakkumine), mis surub hinna tasakaalu poole üles -- tasakaalustamatus on konkurentsiturul olemuslikult ajutine, ise korrigeeruv seisund, mitte stabiilne puhkepunkt.",
+    "sourceHash": "92754767e6035008",
+    "stale": false
+  }
+}
