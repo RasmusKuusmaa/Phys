@@ -1,0 +1,10 @@
+{
+  "id": "toxicology-and-poisoning-mechanisms-m1",
+  "conceptId": "toxicology-and-poisoning-mechanisms",
+  "text": {
+    "en": "All poisons work through the same basic mechanism -- a generic toxic effect that damages the body broadly -- so a single generic 'detox' approach should work for any poisoning -- in reality, different toxins disrupt entirely different, specific biochemical processes (carbon monoxide blocking hemoglobin's oxygen-binding site, cyanide blocking a specific mitochondrial enzyme, a heavy metal disabling enzymes that need a different metal ion), and effective treatment requires targeting that specific mechanism.",
+    "et": "Kõik mürgid toimivad sama põhimehhanismi kaudu -- üldine toksiline mõju, mis kahjustab keha laialdaselt -- mistõttu peaks üksainus üldine 'detox' lähenemine toimima mistahes mürgistuse korral -- tegelikult häirivad erinevad toksiinid täiesti erinevaid, spetsiifilisi biokeemilisi protsesse (vingugaas blokeerib hemoglobiini hapniku sidumiskoha, tsüaniid blokeerib kindla mitokondriaalse ensüümi, raskmetall lülitab välja ensüümid, mis vajavad teistsugust metalliiooni), ning tõhus ravi nõuab selle konkreetse mehhanismi sihtimist.",
+    "sourceHash": "e4e9e980e449d1a6",
+    "stale": false
+  }
+}

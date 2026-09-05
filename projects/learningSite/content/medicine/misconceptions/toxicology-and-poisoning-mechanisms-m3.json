@@ -1,0 +1,10 @@
+{
+  "id": "toxicology-and-poisoning-mechanisms-m3",
+  "conceptId": "toxicology-and-poisoning-mechanisms",
+  "text": {
+    "en": "How dangerous a toxin is depends only on the total dose received, with no other factor mattering -- in reality, a toxin's actual mechanism (which specific process it disrupts) determines both which organs are affected and how quickly and reversibly harm occurs -- the same total dose of two different toxins acting through different mechanisms can produce very different outcomes.",
+    "et": "Kui ohtlik toksiin on, sõltub ainult saadud koguannusest, muud tegurid ei oma tähtsust -- tegelikult määrab toksiini tegelik mehhanism (millist konkreetset protsessi see häirib) nii selle, millised elundid on mõjutatud, kui ka selle, kui kiiresti ja pöörduvalt kahju tekib -- sama koguannus kahest erineva mehhanismiga toimivast toksiinist võib tekitada väga erinevaid tulemusi.",
+    "sourceHash": "40842b3e2da46855",
+    "stale": false
+  }
+}

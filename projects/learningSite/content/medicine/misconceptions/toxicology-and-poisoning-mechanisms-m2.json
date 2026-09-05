@@ -1,0 +1,10 @@
+{
+  "id": "toxicology-and-poisoning-mechanisms-m2",
+  "conceptId": "toxicology-and-poisoning-mechanisms",
+  "text": {
+    "en": "Carbon monoxide and cyanide cause the same kind of poisoning, since both starve tissue of oxygen and produce similar-looking symptoms -- in reality, the mechanisms are opposite -- carbon monoxide prevents oxygen from being carried to tissue in the first place, while cyanide allows oxygen to be delivered perfectly normally but blocks the cell's ability to use that oxygen once it arrives, which is why they require different antidotes.",
+    "et": "Vingugaas ja tsüaniid põhjustavad samasugust mürgistust, kuna mõlemad jätavad koed hapnikuta ja tekitavad sarnase välimusega sümptomeid -- tegelikult on mehhanismid vastupidised -- vingugaas takistab hapnikul üldse kudedesse jõudmast, samas kui tsüaniid lubab hapnikku täiesti normaalselt tarnida, kuid blokeerib raku võime seda kohalejõudnud hapnikku kasutada, mistõttu vajavad need erinevaid antidoote.",
+    "sourceHash": "bebda14e2f6cbdc1",
+    "stale": false
+  }
+}

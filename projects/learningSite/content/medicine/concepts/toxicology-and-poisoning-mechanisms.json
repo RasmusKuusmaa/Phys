@@ -1,0 +1,21 @@
+{
+  "id": "toxicology-and-poisoning-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "pharmacology",
+  "title": {
+    "en": "Toxicology and poisoning mechanisms",
+    "et": "Toksikoloogia ja mürgistuse mehhanismid",
+    "sourceHash": "a54065cd422daba8",
+    "stale": false
+  },
+  "summary": {
+    "en": "A poison rarely damages the body through one single, generic 'toxic' action -- most environmental toxins disrupt one specific biochemical process, and knowing which one explains both the symptoms and why particular antidotes work. Carbon monoxide, for instance, is dangerous not because it is directly corrosive but because it binds hemoglobin far more tightly than oxygen does, occupying the exact binding site oxygen needs and so starving tissues of oxygen despite a person's blood oxygen-carrying capacity being otherwise intact -- a mechanism entirely different from a corrosive acid's direct chemical destruction of tissue on contact, or a heavy metal like lead's disruption of enzymes that depend on binding a different, specific metal ion, which lead can displace and disable. Cyanide poisons by blocking the final enzyme in the mitochondrial electron transport chain, which stops cellular respiration at the last possible step even though oxygen is still being delivered perfectly well to tissues -- a mechanism that looks superficially like carbon monoxide poisoning (both leave tissue oxygen-starved) but is actually the opposite problem, oxygen delivery working fine while oxygen use fails, which is exactly why cyanide poisoning needs a completely different antidote strategy than carbon monoxide poisoning does. This is the general pattern across environmental toxicology: whether a toxin acts by blocking oxygen transport, disabling a specific enzyme, disrupting a receptor, or damaging cell membranes directly, an antidote or treatment strategy only works if it targets that toxin's actual mechanism, which is why generic 'detoxification' claims that treat every poison as the same kind of problem are scientifically incoherent.",
+    "et": "Mürk harva kahjustab keha ühe üheainsa, üldise 'toksilise' toime kaudu -- enamik keskkonnatoksiine häirib üht kindlat biokeemilist protsessi, ning teadmine, millist protsessi, selgitab nii sümptomeid kui ka seda, miks konkreetsed antidoodid toimivad. Vingugaas näiteks on ohtlik mitte seetõttu, et see on otseselt söövitav, vaid seetõttu, et see seondub hemoglobiiniga palju tugevamalt kui hapnik, hõivates täpselt selle sidumiskoha, mida hapnik vajab, ning jättes koed seeläbi hapnikuta, hoolimata sellest, et inimese vere hapnikukandevõime on muidu terve -- mehhanism, mis on täiesti erinev söövitava happe otsesest keemilisest koe hävitamisest kontaktil või rasketmetalli nagu plii häiretest ensüümides, mis sõltuvad teistsuguse, kindla metalliiooni sidumisest, mille plii saab välja tõrjuda ja kasutuks muuta. Tsüaniid mürgitab, blokeerides viimase ensüümi mitokondriaalses elektronide transpordiahelas, mis peatab rakuhingamise viimasel võimalikul sammul, hoolimata sellest, et hapnikku tarnitakse kudedesse endiselt täiesti korralikult -- mehhanism, mis näib pealiskaudselt sarnane vingumürgistusega (mõlemad jätavad koed hapnikuta), kuid on tegelikult vastupidine probleem, hapniku tarnimine toimib hästi, kuid hapniku kasutamine ebaõnnestub, mis ongi täpselt põhjus, miks tsüaniidimürgistus vajab täiesti erinevat antidoodistrateegiat kui vingumürgistus. See on üldine muster kogu keskkonnatoksikoloogias: olgu toksiin toimiv hapnikutranspordi blokeerimise, konkreetse ensüümi väljalülitamise, retseptori häirimise või rakumembraanide otsese kahjustamise kaudu, antidoot või ravistrateegia toimib ainult siis, kui see on suunatud selle toksiini tegelikule mehhanismile, mistõttu on üldised 'detoksikatsiooni' väited, mis käsitlevad iga mürki sama liiki probleemina, teaduslikult ebajärjekindlad.",
+    "sourceHash": "4e7ac4fe93a6f312",
+    "stale": false
+  },
+  "prerequisites": [
+    "adverse-drug-reactions-and-toxicology"
+  ]
+}

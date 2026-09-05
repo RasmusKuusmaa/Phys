@@ -1,0 +1,56 @@
+{
+  "id": "toxicology-and-poisoning-mechanisms-item1",
+  "conceptId": "toxicology-and-poisoning-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Both carbon monoxide poisoning and cyanide poisoning cause tissue oxygen starvation and similar symptoms, yet they require different antidotes. Why?",
+    "et": "Nii vingumürgistus kui tsüaniidimürgistus põhjustavad kudede hapnikunälga ja sarnaseid sümptomeid, kuid need vajavad erinevaid antidoote. Miks?",
+    "sourceHash": "9dff75ca47d468f4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the mechanisms are opposite: carbon monoxide blocks oxygen from binding hemoglobin so it never reaches tissue, while cyanide blocks a mitochondrial enzyme so tissue can't use oxygen that has already been delivered -- an antidote must target the specific blocked step, not just 'oxygen starvation' generally.",
+        "et": "Sest mehhanismid on vastupidised: vingugaas takistab hapnikul hemoglobiiniga seondumast, mistõttu see ei jõua kunagi kudedesse, samas kui tsüaniid blokeerib mitokondriaalse ensüümi, mistõttu koed ei saa kasutada juba kohale toimetatud hapnikku -- antidoot peab olema suunatud konkreetsele blokeeritud sammule, mitte lihtsalt üldisele 'hapnikunäljale.'",
+        "sourceHash": "9cb8c4dfafcfb981",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They don't really need different antidotes -- since both cause the same oxygen-starvation outcome, the same generic antidote should treat both equally well.",
+        "et": "Neil ei ole tegelikult vaja erinevaid antidoote -- kuna mõlemad põhjustavad sama hapnikunälja tulemuse, peaks sama üldine antidoot ravima mõlemat võrdselt hästi.",
+        "sourceHash": "053ad9f8176a390a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "toxicology-and-poisoning-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because all poisons technically work differently at a molecular level, but a single broad-spectrum detoxification treatment should still work equally well against any of them regardless of mechanism.",
+        "et": "Sest kõik mürgid toimivad tehniliselt molekulaarsel tasandil erinevalt, kuid üksainus laia toimespektriga detoksikatsiooniravi peaks siiski toimima võrdselt hästi mistahes neist, sõltumata mehhanismist.",
+        "sourceHash": "abcfec05f0d182df",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "toxicology-and-poisoning-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the total dose of cyanide involved is inherently higher than a comparable carbon monoxide exposure, requiring a stronger antidote rather than a different one.",
+        "et": "Sest asjaomane tsüaniidi koguannus on olemuslikult kõrgem kui võrreldav vingugaasi kokkupuude, nõudes tugevamat, mitte erinevat antidooti.",
+        "sourceHash": "49e1bd73fc36d9c0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "toxicology-and-poisoning-mechanisms-m3"
+    }
+  ]
+}
