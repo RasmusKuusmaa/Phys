@@ -1,0 +1,19 @@
+{
+  "id": "natural-resource-management-and-sustainability",
+  "subject": "environmental-science",
+  "level": "L2",
+  "module": "environmental-science-fundamentals",
+  "title": {
+    "en": "Natural resource management and sustainability",
+    "et": "Loodusvarade majandamine ja säästlikkus",
+    "sourceHash": "ff8f68347338dde0",
+    "stale": false
+  },
+  "summary": {
+    "en": "Natural resources split into two categories with fundamentally different management logic: non-renewable resources (fossil fuels, minerals) exist in a fixed, finite stock that extraction only ever depletes, so the only real management question is how to pace consumption and plan for eventual substitution; renewable resources (fish stocks, forests, groundwater) regenerate over time through a biological or hydrological process, which sounds like it should make depletion impossible, but a renewable resource can absolutely be driven to collapse or extinction if it is harvested faster than its regeneration rate -- overfishing a fish stock past the point its remaining breeding population can replace what's caught is mechanistically identical to depleting a non-renewable one, just reversible in principle if harvest pressure is reduced in time. This is exactly what the concept of sustainable yield formalizes: the maximum harvest rate a renewable resource can sustain indefinitely without its stock declining, set by that resource's own regeneration rate rather than by market demand or extraction capacity, and a management regime that harvests above sustainable yield is borrowing against the resource's future regenerative capacity in exactly the way that deficit spending borrows against future income -- it can continue for a while, but only by shrinking the stock available to sustain the same harvest rate going forward.",
+    "et": "Loodusvarad jagunevad kahte kategooriasse, millel on põhimõtteliselt erinev majandamisloogika: taastumatud ressursid (fossiilkütused, maavarad) eksisteerivad kindlas, piiratud varus, mida kaevandamine ainult ammendab, mistõttu ainus tegelik majandamisküsimus on tarbimise tempo seadmine ja lõpliku asendamise planeerimine; taastuvad ressursid (kalavarud, metsad, põhjavesi) taastuvad aja jooksul bioloogilise või hüdroloogilise protsessi kaudu, mis kõlab, nagu peaks see ammendumise võimatuks tegema, kuid taastuvat ressurssi saab täiesti kokku varisema panna või välja suretada, kui seda varutakse kiiremini kui selle taastumiskiirus -- kalavaru ülepüük punktini, kus alles jäänud sigiv populatsioon ei suuda püütut asendada, on mehhanismilt identne taastumatu ressursi ammendamisega, ainult et see on põhimõtteliselt pöörduv, kui püügisurvet õigel ajal vähendada. See ongi täpselt see, mida säästliku saagikuse mõiste formaliseerib: maksimaalne varumiskiirus, mida taastuv ressurss suudab lõpmatuseni taluda ilma varu vähenemiseta, mille määrab selle ressursi enda taastumiskiirus, mitte turunõudlus või kaevandamisvõimsus, ning majandamiskord, mis varub üle säästliku saagikuse, laenab ressursi tulevase taastumisvõime arvelt täpselt samamoodi, nagu eelarvedefitsiit laenab tulevase sissetuleku arvelt -- see saab jätkuda mõnda aega, kuid ainult vähendades varu, mis on olemas sama varumiskiiruse toetamiseks edaspidi.",
+    "sourceHash": "f5383bf7aeea7592",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "natural-resource-management-and-sustainability-item1",
+  "conceptId": "natural-resource-management-and-sustainability",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A fishery harvests a fish population at a rate higher than the population's natural reproduction can replace. Even though fish are a 'renewable' resource, why can this fishery still collapse the population toward extinction?",
+    "et": "Kalapüügiettevõte varub kalapopulatsiooni kiirusega, mis on kõrgem, kui populatsiooni loomulik taastootmine suudab asendada. Kuigi kalad on 'taastuv' ressurss, miks võib see kalapüük siiski populatsiooni väljasuremise suunas kokku varisema panna?",
+    "sourceHash": "b84fc75b58c1d662",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because 'renewable' only means the resource regenerates through some biological process, not that it regenerates without limit -- harvesting faster than that regeneration rate depletes the stock the same way over-extracting a non-renewable resource would.",
+        "et": "Sest 'taastuv' tähendab ainult seda, et ressurss taastub mingi bioloogilise protsessi kaudu, mitte seda, et see taastub piiramatult -- selle taastumiskiirusest kiirem varumine ammendab varu samamoodi, nagu taastumatu ressursi ülekaevandamine seda teeks.",
+        "sourceHash": "93b9cea0ee42f369",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This shouldn't be possible -- a renewable resource like fish cannot actually be depleted or driven toward extinction by definition, regardless of harvest rate.",
+        "et": "See ei tohiks olla võimalik -- taastuvat ressurssi nagu kala ei saa definitsiooni järgi tegelikult ammendada ega väljasuremiseni ajada, sõltumata varumiskiirusest.",
+        "sourceHash": "19bfb4574b1fc4b5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "natural-resource-management-and-sustainability-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The fishery's harvest rate must be set correctly since it matches market demand and the fleet's extraction capacity, so any decline must be from an unrelated cause.",
+        "et": "Kalapüügi varumiskiirus peab olema õigesti seatud, kuna see vastab turunõudlusele ja laevastiku kaevandamisvõimsusele, mistõttu iga kahanemine peab olema mitteseotud põhjuse tõttu.",
+        "sourceHash": "6c392682a13bab48",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "natural-resource-management-and-sustainability-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since fish are renewable and oil is non-renewable, the two resource types require completely different, unrelated management logic, so this fishery's situation reveals nothing about non-renewable resource management.",
+        "et": "Kuna kala on taastuv ja nafta taastumatu, vajavad need kaks ressursitüüpi täiesti erinevat, mitteseotud majandamisloogikat, mistõttu see kalapüügi olukord ei näita midagi taastumatu ressursi majandamise kohta.",
+        "sourceHash": "51dd8af28f6f4704",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "natural-resource-management-and-sustainability-m3"
+    }
+  ]
+}

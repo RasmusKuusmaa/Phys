@@ -1,0 +1,10 @@
+{
+  "id": "natural-resource-management-and-sustainability-m3",
+  "conceptId": "natural-resource-management-and-sustainability",
+  "text": {
+    "en": "Non-renewable and renewable resources require completely unrelated management approaches with no common logic -- in reality, both ultimately come down to comparing an extraction/harvest rate against a stock (fixed for non-renewable resources, regenerating for renewable ones) -- a renewable resource harvested faster than its regeneration rate is, for practical management purposes, behaving exactly like a non-renewable one being depleted, which is the core insight sustainable-yield management is built on.",
+    "et": "Taastumatud ja taastuvad ressursid vajavad täiesti mitteseotud majandamislähenemisi, millel puudub ühine loogika -- tegelikult taandub mõlemad lõpuks kaevandamis-/varumiskiiruse võrdlemisele varuga (fikseeritud taastumatute ressursside puhul, taastuv taastuvate ressursside puhul) -- taastuv ressurss, mida varutakse kiiremini kui selle taastumiskiirus, käitub praktilise majandamise seisukohalt täpselt nagu taastumatu ressurss, mida ammendatakse, mis on säästliku saagikuse majandamise põhitõdemus.",
+    "sourceHash": "ed58a5e76cfe9051",
+    "stale": false
+  }
+}
