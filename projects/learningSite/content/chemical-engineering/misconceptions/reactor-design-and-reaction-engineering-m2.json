@@ -1,0 +1,10 @@
+{
+  "id": "reactor-design-and-reaction-engineering-m2",
+  "conceptId": "reactor-design-and-reaction-engineering",
+  "text": {
+    "en": "A batch reactor and a continuous reactor (CSTR/PFR) are just two names for the same equipment operated slightly differently, with no fundamental difference in how conversion is calculated -- in reality, a batch reactor's conversion depends on reaction time (how long the fixed charge is left to react), while a continuous reactor's conversion depends on residence time set by the flow rate and reactor volume, a genuinely different variable with a different design tradeoff.",
+    "et": "Perioodiline reaktor ja pidev reaktor (CSTR/PFR) on lihtsalt kaks nimetust samale seadmele, mida käitatakse veidi erinevalt, ilma fundamentaalse erinevuseta konversiooni arvutamises -- tegelikult sõltub perioodilise reaktori konversioon reaktsiooniajast (kui kaua fikseeritud laadimist lastakse reageerida), samas kui pideva reaktori konversioon sõltub viibeajast, mille määravad vooluhulk ja reaktori maht, tõeliselt erinev muutuja teistsuguse disainikompromissiga.",
+    "sourceHash": "82ed08ebf4df599c",
+    "stale": false
+  }
+}

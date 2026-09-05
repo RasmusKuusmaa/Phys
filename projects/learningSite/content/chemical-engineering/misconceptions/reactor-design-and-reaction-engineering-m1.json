@@ -1,0 +1,10 @@
+{
+  "id": "reactor-design-and-reaction-engineering-m1",
+  "conceptId": "reactor-design-and-reaction-engineering",
+  "text": {
+    "en": "A CSTR and a PFR give identical conversion for the same reaction, volume, and flow rate, since they're both just 'a reactor' running the same chemistry -- in reality, for any reaction whose rate depends on concentration, a PFR achieves higher conversion than a CSTR of the same volume and feed rate, because a CSTR instantly dilutes fresh feed down to the low outlet concentration everywhere inside it, while a PFR lets concentration (and thus reaction rate) stay higher through most of its length.",
+    "et": "CSTR ja PFR annavad sama reaktsiooni, mahu ja vooluhulga korral identse konversiooni, kuna mõlemad on lihtsalt 'reaktor', mis käitab sama keemiat -- tegelikult saavutab PFR mistahes reaktsiooni jaoks, mille kiirus sõltub kontsentratsioonist, kõrgema konversiooni kui sama mahu ja sissevoolu kiirusega CSTR, kuna CSTR lahjendab värske toorme koheselt madala väljumiskontsentratsioonini kõikjal enda sees, samas kui PFR laseb kontsentratsioonil (ja seega reaktsioonikiirusel) püsida kõrgemana suurema osa oma pikkusest.",
+    "sourceHash": "c94ca6c74a17eb40",
+    "stale": false
+  }
+}

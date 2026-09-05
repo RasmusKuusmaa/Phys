@@ -1,0 +1,56 @@
+{
+  "id": "reactor-design-and-reaction-engineering-item1",
+  "conceptId": "reactor-design-and-reaction-engineering",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "For a reaction whose rate increases with reactant concentration, why does a plug flow reactor (PFR) achieve higher conversion than a CSTR of the same volume and feed rate?",
+    "et": "Miks saavutab kolbvoolureaktor (PFR) reaktsiooni puhul, mille kiirus suureneb reagendi kontsentratsiooniga, kõrgema konversiooni kui sama mahu ja sissevoolu kiirusega CSTR?",
+    "sourceHash": "f0e22c71ec0f12fe",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because the PFR's concentration falls gradually along its length, so most of its volume operates at higher, less-diluted concentrations, while the CSTR instantly dilutes the entire vessel to the low outlet concentration.",
+        "et": "Sest PFR-i kontsentratsioon langeb järk-järgult piki selle pikkust, mistõttu enamik selle mahust töötab kõrgemal, vähem lahjendatud kontsentratsioonil, samas kui CSTR lahjendab kogu anuma koheselt madala väljumiskontsentratsioonini.",
+        "sourceHash": "92f6c8af145a1f36",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because a PFR and a CSTR actually give identical conversion, but a PFR is simply cheaper to build for the same performance.",
+        "et": "Sest PFR ja CSTR annavad tegelikult identse konversiooni, kuid PFR on lihtsalt odavam ehitada sama jõudluse jaoks.",
+        "sourceHash": "a875674e1c8ec15b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reactor-design-and-reaction-engineering-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because a PFR uses reaction time while a CSTR has no defined time variable at all, making direct comparison meaningless.",
+        "et": "Sest PFR kasutab reaktsiooniaega, samas kui CSTR-il puudub üldse määratletud ajamuutuja, muutes otsese võrdluse mõttetuks.",
+        "sourceHash": "9112ac439e741b82",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reactor-design-and-reaction-engineering-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because better mixing in a CSTR should make it react faster throughout its volume, but manufacturing limitations prevent CSTRs from achieving this in practice.",
+        "et": "Sest parem segunemine CSTR-is peaks panema selle reageerima kiiremini kogu oma mahus, kuid tootmispiirangud takistavad CSTR-idel seda praktikas saavutamast.",
+        "sourceHash": "5a795f007121ce6e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "reactor-design-and-reaction-engineering-m3"
+    }
+  ]
+}

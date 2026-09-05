@@ -1,0 +1,21 @@
+{
+  "id": "reactor-design-and-reaction-engineering",
+  "subject": "chemical-engineering",
+  "level": "L2",
+  "module": "chemical-engineering-fundamentals",
+  "title": {
+    "en": "Reactor design and reaction engineering",
+    "et": "Reaktorite disain ja reaktsioonitehnika",
+    "sourceHash": "584db1f10f88f0e3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Chemistry's rate laws tell you how fast a reaction goes at a given concentration and temperature, but turning that into an industrial process requires deciding what physical vessel to run the reaction in, and that choice changes the actual conversion achieved even for chemically identical feed and reaction conditions. A batch reactor charges all its reactants at once and lets the reaction proceed for a set time with no flow in or out, so every molecule spends exactly the same amount of time reacting -- simple to build and operate, but inherently limited to producing one batch at a time. A continuous stirred-tank reactor (CSTR) instead runs with constant feed in and product out while the contents are mixed so thoroughly that the outlet stream has the same, uniform low concentration as everywhere inside the tank -- which sounds inefficient (the reaction is always happening at the diluted, already-reacted concentration) but makes the reactor easy to control and simple to analyze. A plug flow reactor (PFR), by contrast, pushes reactants through a long tube with no back-mixing, so concentration falls continuously along the tube's length exactly the way it would in a batch reactor over time -- for the same reactor volume and feed rate, a PFR achieves higher conversion than a CSTR for any reaction whose rate increases with concentration, precisely because it spends more of its volume operating at the higher, less-diluted concentrations a CSTR immediately mixes away.",
+    "et": "Keemia kiirusseadused ütlevad, kui kiiresti reaktsioon kulgeb antud kontsentratsiooni ja temperatuuri juures, kuid selle muutmine tööstuslikuks protsessiks nõuab otsustamist, millises füüsilises anumas reaktsiooni läbi viia, ning see valik muudab tegelikult saavutatavat konversiooni isegi keemiliselt identse toorme ja reaktsioonitingimuste korral. Perioodiline reaktor laeb kõik reagendid korraga ja laseb reaktsioonil kulgeda kindla aja jooksul ilma sisse- või väljavooluta, nii et iga molekul veedab täpselt sama palju aega reageerides -- lihtne ehitada ja käitada, kuid olemuslikult piiratud ühe partii tootmisega korraga. Pidevalt segatav paakreaktor (CSTR) töötab selle asemel konstantse sissevoolu ja väljavooluga, samal ajal kui sisu on nii põhjalikult segatud, et väljumisvool omab sama, ühtlast madalat kontsentratsiooni nagu kõikjal paagi sees -- mis kõlab ebaefektiivselt (reaktsioon toimub alati lahjendatud, juba reageerinud kontsentratsioonil), kuid muudab reaktori lihtsaks kontrollida ja analüüsida. Kolbvoolureaktor (PFR) seevastu suunab reagendid läbi pika toru ilma tagasisegunemiseta, nii et kontsentratsioon langeb pidevalt piki toru pikkust täpselt samamoodi, nagu see toimuks perioodilises reaktoris aja jooksul -- sama reaktori mahu ja sissevoolu kiiruse juures saavutab PFR kõrgema konversiooni kui CSTR mistahes reaktsiooni jaoks, mille kiirus suureneb kontsentratsiooniga, just seetõttu, et see veedab suurema osa oma mahust töötades kõrgemal, vähem lahjendatud kontsentratsioonil, mille CSTR koheselt ära segab.",
+    "sourceHash": "d5872225a97a8b4e",
+    "stale": false
+  },
+  "prerequisites": [
+    "mass-and-energy-balances-in-process-engineering"
+  ]
+}

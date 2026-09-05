@@ -1,0 +1,10 @@
+{
+  "id": "reactor-design-and-reaction-engineering-m3",
+  "conceptId": "reactor-design-and-reaction-engineering",
+  "text": {
+    "en": "A CSTR being 'well-mixed' just means the reaction happens faster inside it -- in reality, perfect mixing means the concentration everywhere inside the tank (and therefore in the outlet stream) equals the already-diluted outlet concentration, not the higher feed concentration, which is exactly why a well-mixed CSTR reacts at a slower instantaneous rate throughout its volume than a PFR of the same size does.",
+    "et": "CSTR 'hea segunemine' tähendab lihtsalt, et reaktsioon toimub selle sees kiiremini -- tegelikult tähendab täiuslik segunemine, et kontsentratsioon kõikjal paagi sees (ja seega väljumisvoolus) võrdub juba lahjendatud väljumiskontsentratsiooniga, mitte kõrgema toormekontsentratsiooniga, mis ongi täpselt põhjus, miks hästi segatud CSTR reageerib kogu oma mahus aeglasema hetkelise kiirusega kui sama suurusega PFR.",
+    "sourceHash": "f5a4b81b028c18ae",
+    "stale": false
+  }
+}
