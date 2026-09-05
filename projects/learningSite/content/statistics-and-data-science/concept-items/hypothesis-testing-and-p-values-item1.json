@@ -1,0 +1,56 @@
+{
+  "id": "hypothesis-testing-and-p-values-item1",
+  "conceptId": "hypothesis-testing-and-p-values",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A study reports p = 0.03 for a new drug's effect on blood pressure. What does this p-value actually tell you?",
+    "et": "Uuring teatab p = 0,03 uue ravimi mõju kohta vererõhule. Mida see p-väärtus tegelikult ütleb?",
+    "sourceHash": "c0e3774f31c2fe6a",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Assuming the drug has no real effect (the null hypothesis), there's a 3% chance of observing a result at least this extreme by chance alone.",
+        "et": "Eeldusel, et ravimil ei ole tegelikku mõju (nullhüpotees), on 3% tõenäosus näha vähemalt sama äärmuslikku tulemust ainuüksi juhuse tõttu.",
+        "sourceHash": "e6dfb2c240aa7b31",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "There's a 3% chance the drug has no real effect, given this data.",
+        "et": "On 3% tõenäosus, et ravimil ei ole tegelikku mõju, arvestades neid andmeid.",
+        "sourceHash": "3aa6425e44dc5d23",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypothesis-testing-and-p-values-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Since p is below 0.05, the study has definitively proven the drug has no clinically meaningful effect, only a statistically detectable one.",
+        "et": "Kuna p on alla 0,05, on uuring lõplikult tõestanud, et ravimil ei ole kliiniliselt olulist mõju, vaid ainult statistiliselt tuvastatav mõju.",
+        "sourceHash": "6d78c3849c13ea58",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypothesis-testing-and-p-values-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The drug has a 97% chance of working for any given patient.",
+        "et": "Ravim toimib iga konkreetse patsiendi puhul 97% tõenäosusega.",
+        "sourceHash": "f9174a584df32d7c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "hypothesis-testing-and-p-values-m3"
+    }
+  ]
+}

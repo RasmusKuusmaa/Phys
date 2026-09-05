@@ -1,0 +1,10 @@
+{
+  "id": "hypothesis-testing-and-p-values-m1",
+  "conceptId": "hypothesis-testing-and-p-values",
+  "text": {
+    "en": "A p-value is the probability that the null hypothesis is true, given the observed data -- in reality, a p-value is computed the other way around: it's the probability of the observed data (or something more extreme) assuming the null hypothesis IS true, not the probability of the hypothesis itself given the data; these are genuinely different quantities that only coincide under special assumptions.",
+    "et": "P-väärtus on tõenäosus, et nullhüpotees on tõene, arvestades vaadeldud andmeid -- tegelikult arvutatakse p-väärtus vastupidises suunas: see on vaadeldud andmete (või millegi äärmuslikuma) tõenäosus eeldusel, et nullhüpotees ON tõene, mitte hüpoteesi enda tõenäosus andmete põhjal; need on tõeliselt erinevad suurused, mis langevad kokku ainult erijuhtudel.",
+    "sourceHash": "2b15ca8a0b8fcf27",
+    "stale": false
+  }
+}

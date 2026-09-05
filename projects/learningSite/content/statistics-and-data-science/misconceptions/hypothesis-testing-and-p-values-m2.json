@@ -1,0 +1,10 @@
+{
+  "id": "hypothesis-testing-and-p-values-m2",
+  "conceptId": "hypothesis-testing-and-p-values",
+  "text": {
+    "en": "Failing to reject the null hypothesis (a 'non-significant' result) proves the null hypothesis is true / there really is no effect -- in reality, a non-significant result only means the data didn't provide strong enough evidence against the null hypothesis at the chosen threshold; it could just as easily mean the study had too little statistical power (too small a sample) to detect a real effect that does exist, which is a Type II error risk, not proof of no effect.",
+    "et": "Nullhüpoteesi tagasilükkamata jätmine ('mitteoluline' tulemus) tõestab, et nullhüpotees on tõene / efekti tegelikult ei ole -- tegelikult tähendab mitteoluline tulemus vaid seda, et andmed ei andnud valitud lävendi juures piisavalt tugevat tõendit nullhüpoteesi vastu; sama hästi võib see tähendada, et uuringul oli liiga vähe statistilist võimsust (liiga väike valim), et tuvastada tegelikult olemasolevat efekti, mis on II liiki vea risk, mitte tõend efekti puudumisest.",
+    "sourceHash": "b660ca302d3b983c",
+    "stale": false
+  }
+}

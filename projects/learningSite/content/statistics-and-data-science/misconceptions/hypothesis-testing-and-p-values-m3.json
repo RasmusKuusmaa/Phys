@@ -1,0 +1,10 @@
+{
+  "id": "hypothesis-testing-and-p-values-m3",
+  "conceptId": "hypothesis-testing-and-p-values",
+  "text": {
+    "en": "Type I and Type II errors are essentially the same kind of mistake, just described with different names -- in reality, they are opposite mistakes: a Type I error rejects a null hypothesis that is actually true (a false alarm), while a Type II error fails to reject a null hypothesis that is actually false (a missed detection), and lowering the risk of one, all else equal, raises the risk of the other.",
+    "et": "I ja II liiki vead on sisuliselt samasugused eksimused, lihtsalt erinevate nimedega -- tegelikult on need vastandlikud eksimused: I liiki viga lükkab tagasi tegelikult tõese nullhüpoteesi (valehäire), samas kui II liiki viga jätab tagasi lükkamata tegelikult väära nullhüpoteesi (avastamata jäänud efekt), ning ühe riski vähendamine, muude tingimuste samaks jäädes, suurendab teise riski.",
+    "sourceHash": "c0e51a6e88a29ede",
+    "stale": false
+  }
+}

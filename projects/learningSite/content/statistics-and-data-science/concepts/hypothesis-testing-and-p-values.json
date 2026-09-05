@@ -1,0 +1,19 @@
+{
+  "id": "hypothesis-testing-and-p-values",
+  "subject": "statistics-and-data-science",
+  "level": "L2",
+  "module": "statistics-fundamentals",
+  "title": {
+    "en": "Hypothesis testing and p-values",
+    "et": "Hüpoteeside kontroll ja p-väärtused",
+    "sourceHash": "560b08321c9e645f",
+    "stale": false
+  },
+  "summary": {
+    "en": "A hypothesis test starts by assuming a specific, boring default -- the null hypothesis, typically 'there is no effect/difference' -- is true, then asks how surprising the actually observed data would be if that assumption held; the p-value is exactly that measure of surprise, the probability of seeing data at least as extreme as what was actually observed, computed under the assumption the null hypothesis is true, and nothing more than that. A small p-value means the observed data would be quite surprising under the null hypothesis, which is evidence against it, not proof either way; the significance level (commonly 0.05) is a threshold chosen in advance for how surprising is surprising enough to reject the null hypothesis, and rejecting a true null hypothesis (a Type I error) and failing to reject a false one (a Type II error) are the two distinct ways a hypothesis test can go wrong, trading off against each other as that threshold is adjusted.",
+    "et": "Hüpoteeside kontroll algab konkreetse, igava vaikeväärtuse eeldamisest -- nullhüpotees, tavaliselt 'efekti/erinevust ei ole' -- ning küsib seejärel, kui üllatavad oleksid tegelikult vaadeldud andmed, kui see eeldus kehtiks; p-väärtus ongi täpselt see üllatuse mõõt, tõenäosus näha andmeid, mis on vähemalt sama äärmuslikud kui tegelikult vaadeldud, arvutatuna eeldusel, et nullhüpotees kehtib, ega midagi enamat. Väike p-väärtus tähendab, et vaadeldud andmed oleksid nullhüpoteesi korral üsna üllatavad, mis on tõend selle vastu, mitte tõestus kummagi suunas; olulisuse nivoo (tavaliselt 0,05) on ette valitud lävend selle kohta, kui üllatav on piisavalt üllatav, et nullhüpotees tagasi lükata, ning tõese nullhüpoteesi tagasilükkamine (I liiki viga) ja väära nullhüpoteesi tagasilükkamata jätmine (II liiki viga) on kaks eristuvat viisi, kuidas hüpoteeside kontroll võib vääraks minna, tasakaalustades üksteist selle lävendi kohandamisel.",
+    "sourceHash": "74a4f82adea94ca5",
+    "stale": false
+  },
+  "prerequisites": []
+}
