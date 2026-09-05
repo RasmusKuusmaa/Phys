@@ -1,0 +1,56 @@
+{
+  "id": "automata-and-formal-languages-item1",
+  "conceptId": "automata-and-formal-languages",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can no finite automaton, regardless of how many states it has, correctly recognize the language of 'balanced parentheses nested to any depth'?",
+    "et": "Miks ei suuda ükski lõplik automaat, sõltumata sellest, kui palju olekuid sellel on, korrektselt ära tunda keelt 'suvalise sügavuseni pesastatud tasakaalustatud sulud'?",
+    "sourceHash": "89511c0bdc9ec958",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because correctly recognizing that language requires tracking an unbounded count of currently-unmatched open parentheses, and a finite automaton's only memory is which one of its fixed, finite states it currently occupies -- it has no way to count arbitrarily high.",
+        "et": "Sest selle keele korrektne äratundmine nõuab piiramatu arvu praegu sobimatute avavate sulgude loendamist, ning lõpliku automaadi ainus mälestus on see, millises tema fikseeritud, lõplikest olekutest ta praegu asub -- tal ei ole viisi meelevaldselt kõrgeni loendada.",
+        "sourceHash": "b6706ec758ef1508",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because no one has yet designed a finite automaton with a clever enough state-transition scheme to handle this particular pattern, though one may eventually be found.",
+        "et": "Sest keegi ei ole veel disaininud lõplikku automaati piisavalt nutika olekusiirde skeemiga, et selle konkreetse mustriga toime tulla, ehkki üks võib lõpuks leitud saada.",
+        "sourceHash": "e011539485e674d1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "automata-and-formal-languages-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because balanced parentheses aren't a formal language at all, so the question of automaton recognition doesn't apply to them.",
+        "et": "Sest tasakaalustatud sulud ei ole üldse formaalne keel, mistõttu automaadi äratundmise küsimus nende kohta ei kehti.",
+        "sourceHash": "1753d6f82103e795",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "automata-and-formal-languages-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because this specific problem requires a Turing machine's unlimited tape rather than just a slightly more powerful finite automaton with more states.",
+        "et": "Sest see konkreetne probleem nõuab spetsiifiliselt Turingi masina piiramatut lintit, mitte lihtsalt veidi võimsamat lõplikku automaati rohkemate olekutega.",
+        "sourceHash": "99db429e83cc7348",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "automata-and-formal-languages-m3"
+    }
+  ]
+}

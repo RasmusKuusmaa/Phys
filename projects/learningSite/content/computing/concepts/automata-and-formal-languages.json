@@ -1,0 +1,19 @@
+{
+  "id": "automata-and-formal-languages",
+  "subject": "computing",
+  "level": "L2",
+  "module": "theory-of-computation",
+  "title": {
+    "en": "Automata and formal languages",
+    "et": "Automaadid ja formaalsed keeled",
+    "sourceHash": "e8dfc9d090ef70ba",
+    "stale": false
+  },
+  "summary": {
+    "en": "A finite automaton is one of the simplest possible models of computation: a machine with a fixed, finite number of internal states, that reads an input one symbol at a time and, based on its current state and the symbol just read, moves to a new state, with no memory of anything beyond which state it's currently in -- no scratch paper, no ability to count arbitrarily high, nothing but the state itself. This extreme simplicity is exactly what makes finite automata useful as a dividing line: the set of all input strings a particular finite automaton accepts is called a regular language, and a huge, precisely characterized class of practical pattern-matching problems (validating an email address's basic shape, tokenizing a line of code, matching a search pattern) turn out to be regular languages, solvable by a machine this simple, while other seemingly similar problems (matching balanced parentheses to arbitrary depth, for instance) provably cannot be solved by any finite automaton no matter how many states it's given, because that problem genuinely requires unbounded memory of how many unmatched parentheses have been seen so far. The Chomsky hierarchy organizes formal languages into nested classes of increasing power based on exactly this kind of computational-resource question -- regular languages (recognized by finite automata) sit at the bottom, with context-free, context-sensitive, and unrestricted languages above them requiring progressively more powerful machines to recognize -- giving computer science a precise, formal way to ask and answer 'how much computational power does solving this particular problem actually require?' rather than relying on intuition alone.",
+    "et": "Lõplik automaat on üks lihtsamaid võimalikke arvutusmudeleid: masin fikseeritud, lõpliku arvu sisemiste olekutega, mis loeb sisendit ühe sümboli kaupa ja liigub oma praeguse oleku ning äsja loetud sümboli põhjal uude olekusse, ilma mälestuseta millestki muust peale selle, millises olekus ta praegu on -- ei mustandit, ei võimet lugeda meelevaldselt kõrgeni, mitte midagi peale oleku enda. See äärmine lihtsus ongi täpselt see, mis muudab lõplikud automaadid kasulikuks piirjoonena: hulka kõikidest sisendsõnedest, mida konkreetne lõplik automaat aktsepteerib, nimetatakse regulaarseks keeleks, ning tohutu, täpselt iseloomustatud hulk praktilisi mustrisobitusprobleeme (e-posti aadressi põhikuju kontrollimine, koodirea tokeniseerimine, otsingumustri sobitamine) osutuvad regulaarseteks keelteks, mida saab lahendada nii lihtsa masinaga, samas kui teised näiliselt sarnased probleemid (näiteks tasakaalustatud sulgude sobitamine meelevaldse sügavuseni) ei ole tõestatavalt lahendatavad ühegi lõpliku automaadiga, ükskõik kui palju olekuid sellele anda, kuna see probleem nõuab tõeliselt piiramatut mälu selle kohta, mitu sobimatut sulgu on seni nähtud. Chomsky hierarhia korraldab formaalseid keeli pesastatud, kasvava võimsusega klassidesse täpselt sellise arvutusressursi küsimuse põhjal -- regulaarsed keeled (mida tunnevad ära lõplikud automaadid) asuvad alumises otsas, kontekstivabade, kontekstitundlike ja piiramatute keeltega nende kohal, mis nõuavad äratundmiseks järjest võimsamaid masinaid -- andes arvutiteadusele täpse, formaalse viisi küsida ja vastata 'kui palju arvutusvõimsust konkreetse probleemi lahendamine tegelikult nõuab?', mitte tuginedes ainult intuitsioonile.",
+    "sourceHash": "29ca4fdde4dc2bec",
+    "stale": false
+  },
+  "prerequisites": []
+}

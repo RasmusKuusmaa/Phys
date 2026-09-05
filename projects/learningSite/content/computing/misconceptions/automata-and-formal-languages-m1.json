@@ -1,0 +1,10 @@
+{
+  "id": "automata-and-formal-languages-m1",
+  "conceptId": "automata-and-formal-languages",
+  "text": {
+    "en": "Any pattern-matching problem that looks simple enough (like matching balanced parentheses) can be solved by a sufficiently cleverly designed finite automaton with enough states -- in reality, some problems are provably impossible for ANY finite automaton to solve regardless of how many states it has, because the problem requires unbounded memory (like counting arbitrarily many unmatched parentheses), which no fixed, finite number of states can provide.",
+    "et": "Iga piisavalt lihtsana näiva mustrisobitusprobleemi (nagu tasakaalustatud sulgude sobitamine) saab lahendada piisavalt nutikalt disainitud lõpliku automaadiga, kui sellel on piisavalt olekuid -- tegelikult on mõned probleemid tõestatavalt lahendamatud ÜKSKÕIK millise lõpliku automaadi jaoks, sõltumata sellest, kui palju olekuid sellel on, kuna probleem nõuab piiramatut mälu (nagu meelevaldselt paljude sobimatute sulgude loendamine), mida ükski fikseeritud, lõplik olekute arv anda ei suuda.",
+    "sourceHash": "463526189cbd51e4",
+    "stale": false
+  }
+}

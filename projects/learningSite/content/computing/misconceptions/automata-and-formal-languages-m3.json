@@ -1,0 +1,10 @@
+{
+  "id": "automata-and-formal-languages-m3",
+  "conceptId": "automata-and-formal-languages",
+  "text": {
+    "en": "The Chomsky hierarchy's classes (regular, context-free, context-sensitive, unrestricted) are just an arbitrary historical naming convention with no real computational meaning -- in reality, each level is defined by, and precisely characterizes, exactly how much computational power (what kind of machine/memory model) is needed to recognize languages at that level, giving the hierarchy genuine formal, not just historical, significance.",
+    "et": "Chomsky hierarhia klassid (regulaarne, kontekstivaba, kontekstitundlik, piiramatu) on lihtsalt suvaline ajalooline nimetamiskonventsioon ilma reaalse arvutusliku tähenduseta -- tegelikult on iga tase defineeritud ja täpselt iseloomustatud selle järgi, kui palju arvutusvõimsust (millist tüüpi masinat/mälumudelit) on vaja selle taseme keelte äratundmiseks, andes hierarhiale tõelise formaalse, mitte ainult ajaloolise tähtsuse.",
+    "sourceHash": "ea96c9cd0fd3c348",
+    "stale": false
+  }
+}

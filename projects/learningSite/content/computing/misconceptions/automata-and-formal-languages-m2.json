@@ -1,0 +1,10 @@
+{
+  "id": "automata-and-formal-languages-m2",
+  "conceptId": "automata-and-formal-languages",
+  "text": {
+    "en": "A finite automaton retains some memory of everything it has read so far in the input, not just its current state -- in reality, a finite automaton's only memory of the past is which single state it currently occupies; it has no separate record of the input history beyond what that one current state encodes, which is exactly why some problems requiring unbounded history-tracking are beyond its power.",
+    "et": "Lõplik automaat säilitab mingi mälestuse kõigest, mida ta on seni sisendist lugenud, mitte ainult oma praegusest olekust -- tegelikult on lõpliku automaadi ainus mälestus minevikust see, millises üksikus olekus ta praegu asub; tal ei ole eraldi kirjet sisendi ajaloo kohta peale selle, mida see üks praegune olek kodeerib, mis ongi täpselt põhjus, miks mõned probleemid, mis nõuavad piiramatut ajaloo jälgimist, on tema võimest väljas.",
+    "sourceHash": "6e21e426f9ea267d",
+    "stale": false
+  }
+}
