@@ -1,0 +1,19 @@
+{
+  "id": "climate-classification-and-regional-climate-patterns",
+  "subject": "meteorology",
+  "level": "L2",
+  "module": "meteorology-fundamentals",
+  "title": {
+    "en": "Climate classification and regional climate patterns",
+    "et": "Kliimaklassifikatsioon ja piirkondlikud kliimamustrid",
+    "sourceHash": "1aa17d6e0ed193df",
+    "stale": false
+  },
+  "summary": {
+    "en": "Climate is the long-term statistical pattern of weather at a location, and the most widely used system for organizing that pattern, the Köppen climate classification, deliberately classifies regions by both temperature and precipitation seasonality together rather than by temperature (or average rainfall) alone, because the same average annual temperature or rainfall total can describe places with completely different ecosystems and livability depending on when that rain falls relative to the temperature cycle -- a monsoon climate with a brutal dry season and a torrential wet season is nothing like a place with the same annual total spread evenly across the year. Regional climate is also not static year to year even absent any long-term change: the El Nino-Southern Oscillation (ENSO) is a natural, semi-periodic (roughly two-to-seven-year) flip between two states in the tropical Pacific Ocean's surface temperature and the overlying atmospheric circulation, and because that ocean-atmosphere system is so large, its state reliably shifts rainfall and temperature patterns across much of the globe -- droughts in some regions, floods in others -- entirely independent of any human-driven climate trend. Monsoon systems are a related but distinct phenomenon: a seasonal reversal of prevailing wind direction, driven by the different rate at which land and ocean heat and cool, that turns an entire region's dry season into a wet one (and vice versa) on an annual, rather than multi-year, cycle.",
+    "et": "Kliima on koha ilma pikaajaline statistiline muster, ning kõige laialdasemalt kasutatav süsteem selle mustri korrastamiseks, Köppeni kliimaklassifikatsioon, klassifitseerib piirkondi tahtlikult nii temperatuuri kui sademete hooajalisuse järgi koos, mitte temperatuuri (või keskmise sademete hulga) järgi üksi, kuna sama keskmine aastane temperatuur või sademete kogus võib kirjeldada kohti täiesti erinevate ökosüsteemide ja elatavusega, sõltuvalt sellest, millal see vihm langeb võrreldes temperatuuritsükliga -- mussoonkliima brutaalse kuiva hooaja ja paduvihmalise märja hooajaga ei ole üldse sarnane kohaga, kus sama aastane kogus on ühtlaselt aasta peale jaotatud. Piirkondlik kliima ei ole ka staatiline aastast aastasse isegi ilma igasuguse pikaajalise muutuseta: El Niño-Lõunavõngumine (ENSO) on looduslik, poolperioodiline (ligikaudu kahe kuni seitsme aasta) ümberlülitumine kahe seisundi vahel troopilise Vaikse ookeani pinnatemperatuuris ja selle kohal olevas atmosfääri tsirkulatsioonis, ning kuna see ookeani-atmosfääri süsteem on nii suur, nihutab selle seisund usaldusväärselt sademete ja temperatuuri mustreid suures osas maakerast -- põud mõnedes piirkondades, üleujutused teistes -- täiesti sõltumatult mistahes inimtekkelisest kliimatrendist. Mussoonisüsteemid on seotud, kuid eristuv nähtus: valitseva tuulesuuna hooajaline pöördumine, mida juhib erinev kiirus, millega maismaa ja ookean soojenevad ja jahtuvad, mis muudab terve piirkonna kuiva hooaja märjaks (ja vastupidi) aastasel, mitte mitmeaastasel tsüklil.",
+    "sourceHash": "ff71632793eec359",
+    "stale": false
+  },
+  "prerequisites": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "climate-classification-and-regional-climate-patterns-item1",
+  "conceptId": "climate-classification-and-regional-climate-patterns",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two regions have the identical average annual rainfall total, but one has a monsoon climate (a brutal dry season, a torrential wet season) and the other has the same total spread evenly across the year. Why does the standard climate classification system treat these as different climate types rather than the same one?",
+    "et": "Kahel piirkonnal on identne keskmine aastane sademete kogus, kuid ühel on mussoonkliima (brutaalne kuiv hooaeg, paduvihmaline märg hooaeg) ja teisel on sama kogus ühtlaselt aasta peale jaotatud. Miks käsitleb standardne kliimaklassifikatsioonisüsteem neid erinevate kliimatüüpidena, mitte samana?",
+    "sourceHash": "6aca1bd4c1088b71",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because climate classification is built around temperature and precipitation seasonality together, since the timing of rainfall relative to the temperature cycle produces genuinely different, non-interchangeable ecosystems and livability even at an identical annual total.",
+        "et": "Sest kliimaklassifikatsioon on üles ehitatud temperatuuri ja sademete hooajalisuse ühendusele, kuna sademete ajastus võrreldes temperatuuritsükliga tekitab tõeliselt erinevaid, mitteasendatavaid ökosüsteeme ja elatavust isegi identse aastase kogusega.",
+        "sourceHash": "71fcb1a46fa0b135",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It's actually an inconsistency in the classification system -- both regions should be classified identically since they share the same annual rainfall total.",
+        "et": "See on tegelikult ebakõla klassifikatsioonisüsteemis -- mõlemad piirkonnad peaksid olema klassifitseeritud identselt, kuna neil on sama aastane sademete kogus.",
+        "sourceHash": "69133575b0d4e656",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "climate-classification-and-regional-climate-patterns-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because one of the two regions must actually have a different average temperature, and the classification is purely a temperature distinction mislabeled as a precipitation one.",
+        "et": "Sest ühel kahest piirkonnast peab tegelikult olema erinev keskmine temperatuur, ning klassifikatsioon on puhtalt temperatuurierinevus, mis on valesti sildistatud sademete erinevusena.",
+        "sourceHash": "3aeb8536e53cfe04",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "climate-classification-and-regional-climate-patterns-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because monsoon regions are experiencing human-driven climate change while evenly-distributed-rainfall regions are not, and the classification reflects that difference.",
+        "et": "Sest mussoonipiirkonnad kogevad inimtekkelist kliimamuutust, samas kui ühtlase sademete jaotusega piirkonnad mitte, ning klassifikatsioon peegeldab seda erinevust.",
+        "sourceHash": "31c1df551155c628",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "climate-classification-and-regional-climate-patterns-m3"
+    }
+  ]
+}

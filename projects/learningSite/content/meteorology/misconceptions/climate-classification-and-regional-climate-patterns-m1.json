@@ -1,0 +1,10 @@
+{
+  "id": "climate-classification-and-regional-climate-patterns-m1",
+  "conceptId": "climate-classification-and-regional-climate-patterns",
+  "text": {
+    "en": "A region's climate classification is essentially just its average temperature, with precipitation as a minor secondary detail -- in reality, the Köppen system (the standard climate classification) is built around temperature and precipitation seasonality together, precisely because the same average rainfall total can describe wildly different, non-interchangeable climates depending on when it falls relative to the temperature cycle (a monsoon climate vs. a climate with the same total spread evenly through the year).",
+    "et": "Piirkonna kliimaklassifikatsioon on sisuliselt lihtsalt tema keskmine temperatuur, sademed on väike kõrvaline detail -- tegelikult on Köppeni süsteem (standardne kliimaklassifikatsioon) üles ehitatud temperatuuri ja sademete hooajalisuse ühendusele, just seetõttu, et sama keskmine sademete kogus võib kirjeldada metsikult erinevaid, mitteasendatavaid kliimasid, sõltuvalt sellest, millal see langeb võrreldes temperatuuritsükliga (mussoonkliima vs. kliima, kus sama kogus on ühtlaselt aasta peale jaotatud).",
+    "sourceHash": "cdb840f7bcfacbdc",
+    "stale": false
+  }
+}
