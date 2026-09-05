@@ -843,25 +843,42 @@ and treatment-mechanism depth on top of it rather than restating it.
 
 ### Module `musculoskeletal-medicine-and-rheumatology`
 
-- [ ] Osteoarthritis and joint degeneration mechanisms (cartilage
+- [x] Osteoarthritis and joint degeneration mechanisms (cartilage
       breakdown — mechanical and biochemical drivers; prerequisite:
-      skeletal-system-anatomy-and-physiology)
-- [ ] Rheumatoid arthritis and autoimmune joint disease (synovial
+      skeletal-system-anatomy-and-physiology; kept conceptual)
+- [x] Rheumatoid arthritis and autoimmune joint disease (synovial
       inflammation mechanism, mechanistically distinct from osteoarthritis;
-      prerequisite: autoimmunity-and-hypersensitivity)
-- [ ] Osteoporosis and bone remodeling disorders (the osteoblast/osteoclast
+      prerequisite: autoimmunity-and-hypersensitivity; kept conceptual)
+- [x] Osteoporosis and bone remodeling disorders (the osteoblast/osteoclast
       balance and what disrupts it; prerequisites: skeletal-system-
-      anatomy-and-physiology, thyroid-and-parathyroid-physiology)
-- [ ] Muscle disease mechanisms: myopathies and dystrophies (muscular
+      anatomy-and-physiology, thyroid-and-parathyroid-physiology; kept
+      conceptual)
+- [x] Muscle disease mechanisms: myopathies and dystrophies (muscular
       dystrophy mechanisms, inflammatory myopathies; prerequisite:
-      muscular-system-anatomy-and-physiology)
-- [ ] Gout and crystal arthropathies (uric acid crystal deposition
+      muscular-system-anatomy-and-physiology; kept conceptual)
+- [x] Gout and crystal arthropathies (uric acid crystal deposition
       mechanism — ties to the existing nephrolithiasis-mechanisms concept's
       uric acid angle from a joint-disease direction instead of a kidney-
       stone one; prerequisite: osteoarthritis-and-joint-degeneration-
-      mechanisms)
-- [ ] Systemic autoimmune connective tissue diseases (lupus and systemic
+      mechanisms; kept conceptual)
+- [x] Systemic autoimmune connective tissue diseases (lupus and systemic
       sclerosis as multi-organ autoimmune mechanism categories;
-      prerequisite: autoimmunity-and-hypersensitivity)
+      prerequisite: autoimmunity-and-hypersensitivity; kept conceptual)
+
+Module complete: 6 musculoskeletal-medicine-and-rheumatology concepts, all
+kept conceptual — each concept's real content is a mechanistic distinction
+(mechanical wear vs. autoimmune synovitis, remodeling-balance disruption,
+structural-protein deficiency vs. immune attack, crystal precipitation vs.
+mechanical wear, immune-complex deposition vs. fibrotic vascular injury),
+not a single clean numeric relationship. No new glossary terms needed (no
+formula symbols introduced). `npm run validate:content` (9 subjects, 616
+concepts), `npm run lint:terminology` (266 glossary terms), and `npm run
+typecheck` all pass; every resource URL verified live with `curl`. Two
+Estonian resources are honest adjacent matches rather than exact-topic
+matches, since Estonian Wikipedia has no dedicated article at these exact
+scopes: `osteoarthritis-and-joint-degeneration-mechanisms` links to "Reuma"
+(the general rheumatic-disease article) and `gout-and-crystal-
+arthropathies` links to "Liigesepõletik" (joint inflammation generally,
+directly relevant to gout's acute presentation).
 
 ---
