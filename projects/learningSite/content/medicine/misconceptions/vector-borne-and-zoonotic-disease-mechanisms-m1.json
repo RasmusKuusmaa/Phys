@@ -1,0 +1,10 @@
+{
+  "id": "vector-borne-and-zoonotic-disease-mechanisms-m1",
+  "conceptId": "vector-borne-and-zoonotic-disease-mechanisms",
+  "text": {
+    "en": "All vector-borne diseases are caused by viruses -- in reality vector-borne diseases include viral pathogens (dengue, yellow fever), but also parasitic (malaria, caused by a Plasmodium protozoan) and bacterial (Lyme disease, caused by Borrelia bacteria) pathogens; the vector-borne category is defined by the transmission mechanism, not by what kind of organism the pathogen is.",
+    "et": "Kõik vektorite kaudu levivad haigused on põhjustatud viirustest -- tegelikult hõlmavad vektorite kaudu levivad haigused viiruslikke patogeene (dengue, kollapalavik), kuid ka parasiitseid (malaaria, mille põhjustab Plasmodium algloom) ja bakteriaalseid (Lyme'i tõbi, mille põhjustab Borrelia bakter) patogeene; vektori kaudu leviku kategooria on määratletud ülekandemehhanismi, mitte patogeeni organismi tüübi järgi.",
+    "sourceHash": "ff884cfbdf883416",
+    "stale": false
+  }
+}

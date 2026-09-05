@@ -1,0 +1,56 @@
+{
+  "id": "vector-borne-and-zoonotic-disease-mechanisms-item1",
+  "conceptId": "vector-borne-and-zoonotic-disease-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Malaria requires an Anopheles mosquito to complete part of its life cycle inside the mosquito before it can infect a new human host. What does this reveal about the mosquito's role in malaria transmission?",
+    "et": "Malaaria vajab osa oma elutsüklist läbimiseks Anopheles-sääse sees, enne kui see saab nakatada uut inimperemeest. Mida see näitab sääse rolli kohta malaaria ülekandes?",
+    "sourceHash": "cca24c1efe5664d0",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The mosquito is an active biological vector, not just incidental contact -- the pathogen actually develops inside the vector, so vector biology (lifespan, range, feeding behavior) directly shapes transmission, and eliminating the vector population can interrupt transmission on its own.",
+        "et": "Sääsk on aktiivne bioloogiline vektor, mitte lihtsalt juhuslik kontakt -- patogeen tegelikult areneb vektori sees, mistõttu vektori bioloogia (eluiga, levik, toitumiskäitumine) mõjutab otseselt ülekannet, ning vektori populatsiooni kõrvaldamine võib ülekande iseseisvalt katkestada.",
+        "sourceHash": "d3f9e0965b641f8b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The mosquito's bite is mechanically equivalent to touching a contaminated surface -- the mosquito just happens to be the object the pathogen was on when it entered a new host.",
+        "et": "Sääse hammustus on mehaaniliselt samaväärne saastunud pinna puudutamisega -- sääsk on lihtsalt ese, millel patogeen juhtus olema, kui see uude peremehesse sisenes.",
+        "sourceHash": "f18eca9be9e0109a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-borne-and-zoonotic-disease-mechanisms-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Since malaria is vector-borne, its causative pathogen must be a virus, matching how vector-borne diseases are generally caused.",
+        "et": "Kuna malaaria levib vektori kaudu, peab selle põhjustav patogeen olema viirus, vastavalt sellele, kuidas vektorite kaudu levivad haigused üldiselt tekivad.",
+        "sourceHash": "98da4f904b080505",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-borne-and-zoonotic-disease-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Malaria could be fully eliminated purely by treating every existing human case with antimalarial drugs, since the mosquito is only relevant during active human infections.",
+        "et": "Malaaria saaks täielikult kõrvaldada ainult iga olemasoleva inimjuhtumi ravimisega malaariavastaste ravimitega, kuna sääsk on oluline ainult aktiivsete inimnakkuste ajal.",
+        "sourceHash": "9b35ad31c7c17e08",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "vector-borne-and-zoonotic-disease-mechanisms-m2"
+    }
+  ]
+}

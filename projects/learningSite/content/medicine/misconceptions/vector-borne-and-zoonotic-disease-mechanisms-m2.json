@@ -1,0 +1,10 @@
+{
+  "id": "vector-borne-and-zoonotic-disease-mechanisms-m2",
+  "conceptId": "vector-borne-and-zoonotic-disease-mechanisms",
+  "text": {
+    "en": "A zoonotic disease could in principle be eliminated the same way a purely human-to-human disease can, just by treating every human case -- in reality a zoonotic disease's animal reservoir keeps the pathogen circulating in nature indefinitely regardless of human treatment, so eliminating human cases alone cannot eliminate the disease's source the way it can for a pathogen with no non-human reservoir; spillover into humans can simply recur from the animal population.",
+    "et": "Zoonootilise haiguse saaks põhimõtteliselt kõrvaldada samamoodi nagu puhtalt inimeselt-inimesele leviva haiguse, lihtsalt ravides iga inimjuhtumit -- tegelikult hoiab zoonootilise haiguse loomne reservuaar patogeeni looduses määramatult ringlemas, olenemata inimeste ravist, mistõttu inimjuhtumite kõrvaldamine üksi ei saa kõrvaldada haiguse allikat samamoodi nagu see saaks toimuda patogeeni puhul, millel puudub inimväline reservuaar; ülekanne inimestele võib lihtsalt loomapopulatsioonist uuesti korduda.",
+    "sourceHash": "fbe6218be0c90c51",
+    "stale": false
+  }
+}

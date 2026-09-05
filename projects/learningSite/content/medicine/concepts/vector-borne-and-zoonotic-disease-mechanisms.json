@@ -1,0 +1,19 @@
+{
+  "id": "vector-borne-and-zoonotic-disease-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "infectious-disease",
+  "title": {
+    "en": "Vector-borne and zoonotic disease mechanisms",
+    "et": "Vektorite kaudu levivate ja zoonootiliste haiguste mehhanismid",
+    "sourceHash": "b96d056dead9c838",
+    "stale": false
+  },
+  "summary": {
+    "en": "Many pathogens cannot travel directly from one human to another at all -- their entire transmission strategy depends on a non-human intermediary, and vector-borne and zoonotic disease describe two related but distinct versions of that dependency. A vector-borne pathogen (the parasite causing malaria, arboviruses like dengue) uses a blood-feeding arthropod, typically a mosquito or tick, as an active biological intermediary: the pathogen often replicates or develops inside the vector itself, and the vector's bite is the actual delivery mechanism, not merely incidental contact, meaning controlling the vector population can interrupt transmission even without touching the pathogen or the human host at all. A zoonotic disease, by contrast, is one that normally circulates in an animal reservoir species and only occasionally spills over into humans, sometimes via a vector, sometimes via direct contact, ingestion, or environmental exposure -- the animal reservoir keeps the pathogen circulating in nature indefinitely regardless of what happens in the occasional human case, which is exactly why a zoonotic disease can never be eliminated by treating human cases alone, unlike a purely human-to-human pathogen where interrupting human transmission chains is sufficient. These categories overlap rather than compete: many vector-borne diseases are also zoonotic, with the vector picking the pathogen up from an animal reservoir and only incidentally biting a human along the way, an animal-vector-human chain rather than a single mechanism.",
+    "et": "Paljud patogeenid ei suuda üldse liikuda otse ühelt inimeselt teisele -- nende kogu ülekandestrateegia sõltub inimvälisest vahendajast, ning vektorite kaudu levivad ja zoonootilised haigused kirjeldavad kahte seotud, kuid erinevat versiooni sellest sõltuvusest. Vektori kaudu leviv patogeen (malaariat põhjustav parasiit, arboviirused nagu dengue) kasutab verd imevat lülijalgset, tavaliselt sääske või puuki, aktiivse bioloogilise vahendajana: patogeen sageli paljuneb või areneb vektori sees endas, ning vektori hammustus ongi tegelik edastusmehhanism, mitte lihtsalt juhuslik kontakt, mis tähendab, et vektori populatsiooni kontrollimine võib katkestada ülekande isegi ilma patogeeni või inimperemeest üldse puudutamata. Zoonootiline haigus seevastu on selline, mis tavaliselt ringleb loomsest reservuaarliigist ning kandub inimesele üle vaid aeg-ajalt, mõnikord vektori kaudu, mõnikord otsese kontakti, allaneelamise või keskkonnakontakti kaudu -- loomne reservuaar hoiab patogeeni looduses ringlemas määramatult, olenemata sellest, mis toimub juhuslike inimjuhtumitega, mis ongi täpselt põhjus, miks zoonootilist haigust ei saa kunagi kõrvaldada ainult inimjuhtumite ravimisega, erinevalt puhtalt inimeselt-inimesele levivast patogeenist, kus inimeste vaheliste ülekandeahelate katkestamisest piisab. Need kategooriad kattuvad, mitte ei konkureeri: paljud vektori kaudu levivad haigused on ka zoonootilised, kusjuures vektor võtab patogeeni üle loomselt reservuaarilt ja hammustab inimest vaid juhuslikult, loom-vektor-inimene ahel, mitte üksik mehhanism.",
+    "sourceHash": "4a77c0956dc6aa37",
+    "stale": false
+  },
+  "prerequisites": []
+}

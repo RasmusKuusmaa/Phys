@@ -1,0 +1,10 @@
+{
+  "id": "vector-borne-and-zoonotic-disease-mechanisms-m3",
+  "conceptId": "vector-borne-and-zoonotic-disease-mechanisms",
+  "text": {
+    "en": "Getting bitten by a vector like a mosquito is just incidental exposure to a pathogen, no different mechanistically from touching a contaminated surface -- in reality, for a true vector-borne pathogen the vector is often an active biological participant, not just a mechanical carrier; the pathogen frequently replicates or develops inside the vector itself before the bite can transmit it, which is why the vector's own biology (its lifespan, feeding behavior, geographic range) directly shapes where and how the disease can spread.",
+    "et": "Vektori, näiteks sääse hammustamine on lihtsalt juhuslik kokkupuude patogeeniga, mehhanistlikult mitte erinev saastunud pinna puudutamisest -- tegelikult on tõelise vektori kaudu leviva patogeeni puhul vektor sageli aktiivne bioloogiline osaline, mitte lihtsalt mehaaniline kandja; patogeen sageli paljuneb või areneb vektori sees endas, enne kui hammustus saab seda edasi anda, mis ongi põhjus, miks vektori enda bioloogia (selle eluiga, toitumiskäitumine, geograafiline levik) mõjutab otseselt, kus ja kuidas haigus saab levida.",
+    "sourceHash": "e0b23b53c5cdea84",
+    "stale": false
+  }
+}
