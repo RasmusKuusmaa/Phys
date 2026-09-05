@@ -1,0 +1,10 @@
+{
+  "id": "healthcare-associated-and-opportunistic-infection-mechanisms-m3",
+  "conceptId": "healthcare-associated-and-opportunistic-infection-mechanisms",
+  "text": {
+    "en": "Antibiotic-resistant bacteria and opportunistic infections are two separate, unrelated hospital problems -- in reality they concentrate in the same environment for related reasons: concentrated antibiotic use selects for resistant organisms, and the same vulnerable, device-carrying, immunocompromised patients most susceptible to opportunistic infection are frequently exposed to and colonized by that same resistant population, so the two risks compound in the same patients rather than affecting separate groups.",
+    "et": "Antibiootikumiresistentsed bakterid ja oportunistlikud infektsioonid on kaks eraldi, mitteseotud haiglaprobleemi -- tegelikult koonduvad need samasse keskkonda seotud põhjustel: kontsentreeritud antibiootikumikasutus valib välja resistentsed organismid, ning samad haavatavad, seadet kandvad, immuunpuudulikkusega patsiendid, kes on kõige vastuvõtlikumad oportunistlikule infektsioonile, puutuvad sageli kokku ja koloniseeruvad sama resistentse populatsiooniga, mistõttu need kaks riski süvenevad samadel patsientidel, mitte ei mõjuta eraldi rühmi.",
+    "sourceHash": "ef58f2f8c2f8fda2",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "healthcare-associated-and-opportunistic-infection-mechanisms-item1",
+  "conceptId": "healthcare-associated-and-opportunistic-infection-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A patient with a central venous catheter and a low neutrophil count from chemotherapy develops a bloodstream infection from a bacterium that normally lives harmlessly on skin. Which best explains why this organism -- not typically considered highly virulent -- caused a serious infection?",
+    "et": "Patsiendil, kellel on tsentraalne veenikateeter ja madal neutrofiilide arv keemiaravi tõttu, tekib vereringe infektsioon bakterist, mis tavaliselt elab nahal kahjutult. Mis selgitab kõige paremini, miks see organism -- mida tavaliselt ei peeta kõrgelt virulentseks -- põhjustas tõsise infektsiooni?",
+    "sourceHash": "6cbf0d0c8205d4a4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The catheter breached the skin's physical barrier, giving the organism direct access to the bloodstream, while the low neutrophil count removed a key host defense that would normally control it -- infection resulted from missing host defenses, not unusual pathogen virulence.",
+        "et": "Kateeter läbis naha füüsilise barjääri, andes organismile otsese juurdepääsu vereringesse, samal ajal kui madal neutrofiilide arv eemaldas peremehe olulise kaitse, mis seda tavaliselt kontrolliks -- infektsioon tulenes puuduvast peremehe kaitsest, mitte ebatavalisest patogeeni virulentsusest.",
+        "sourceHash": "99d9e07e696d00c9",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The organism must actually be an unusually virulent strain, since ordinary skin bacteria could not otherwise cause a serious bloodstream infection.",
+        "et": "Organism peab tegelikult olema ebatavaliselt virulentne tüvi, sest tavaline nahabakter ei suudaks muidu põhjustada tõsist vereringe infektsiooni.",
+        "sourceHash": "932db7cd9259070e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "healthcare-associated-and-opportunistic-infection-mechanisms-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This is simply an ordinary infection that happened to occur during a hospital stay, with nothing about the catheter or neutrophil count mechanistically relevant to how it started.",
+        "et": "See on lihtsalt tavaline infektsioon, mis juhtus haiglas viibimise ajal, ilma et kateetril või neutrofiilide arvul oleks mingit mehhanistlikku tähtsust selle tekkimisel.",
+        "sourceHash": "fa205af261d8c1af",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "healthcare-associated-and-opportunistic-infection-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The infection is unrelated to the patient's immunocompromised state and is better explained as an unrelated instance of antibiotic-resistant bacteria circulating in the hospital.",
+        "et": "Infektsioon ei ole seotud patsiendi immuunpuudulikkusega ja on paremini selgitatav kui seosetu juhtum haiglas ringlevate antibiootikumiresistentsete bakteritega.",
+        "sourceHash": "712ab8a343ab3987",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "healthcare-associated-and-opportunistic-infection-mechanisms-m3"
+    }
+  ]
+}

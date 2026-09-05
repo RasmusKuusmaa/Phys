@@ -1,0 +1,10 @@
+{
+  "id": "healthcare-associated-and-opportunistic-infection-mechanisms-m2",
+  "conceptId": "healthcare-associated-and-opportunistic-infection-mechanisms",
+  "text": {
+    "en": "Opportunistic pathogens are inherently more dangerous or virulent organisms than the ones that cause disease in healthy people -- in reality opportunistic pathogens are often less virulent by ordinary standards, many are organisms a healthy immune system handles easily, and the infection results from a missing host defense, not unusual pathogen aggressiveness; a highly virulent pathogen doesn't need an opportunistic gap to cause disease in the first place.",
+    "et": "Oportunistlikud patogeenid on oma olemuselt ohtlikumad või virulentsemad organismid kui need, mis põhjustavad haigust tervetel inimestel -- tegelikult on oportunistlikud patogeenid tavapäraste standardite järgi sageli vähem virulentsed, paljud on organismid, millega terve immuunsüsteem hõlpsasti toime tuleb, ning infektsioon tuleneb puuduvast peremehe kaitsest, mitte patogeeni ebatavalisest agressiivsusest; väga virulentne patogeen ei vaja haiguse põhjustamiseks üldse oportunistlikku lünka.",
+    "sourceHash": "ce5034388f2470a5",
+    "stale": false
+  }
+}

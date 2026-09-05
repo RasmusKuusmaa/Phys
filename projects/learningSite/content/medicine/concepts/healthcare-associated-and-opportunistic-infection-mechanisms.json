@@ -1,0 +1,22 @@
+{
+  "id": "healthcare-associated-and-opportunistic-infection-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "infectious-disease",
+  "title": {
+    "en": "Healthcare-associated and opportunistic infection mechanisms",
+    "et": "Tervishoiuga seotud ja oportunistlike infektsioonide mehhanismid",
+    "sourceHash": "feeaf3bf6d3088c2",
+    "stale": false
+  },
+  "summary": {
+    "en": "An opportunistic infection is caused by a microbe that a healthy immune system routinely controls or excludes entirely, but that establishes infection the moment a specific defense normally standing in its way is missing -- a fungus that an intact immune system's neutrophils would clear becomes a serious lung infection once neutrophil counts crash from chemotherapy, or a normally harmless skin colonizer becomes a bloodstream infection the moment a catheter gives it direct access past the skin's physical barrier entirely. Healthcare settings create an unusually favorable environment for this same logic to play out repeatedly and at scale: medical devices (catheters, ventilator tubing, surgical implants) breach the exact physical barriers -- skin, mucous membranes -- that ordinarily keep colonizing microbes contained to a body surface, giving them direct access to normally sterile tissue or the bloodstream; meanwhile the concentrated antibiotic use a hospital ward requires applies constant selective pressure that favors whichever bacteria already carry, or most quickly acquire, a resistance mechanism, so the bacterial population circulating in that specific environment skews toward organisms that are both device-associated and drug-resistant. Neither factor causes the other directly, but the combination compounds: the same immunocompromised, device-carrying patient most vulnerable to an opportunistic infection in the first place is often the same patient whose infecting organism is more likely to be drug-resistant, because both risks are concentrated in the same hospital environment.",
+    "et": "Oportunistlik infektsioon on põhjustatud mikroobist, mida terve immuunsüsteem tavaliselt kontrollib või täielikult välistab, kuid mis kehtestab infektsiooni hetkel, mil tavaliselt selle teel seisev konkreetne kaitse puudub -- seen, mille terve immuunsüsteemi neutrofiilid kõrvaldaksid, muutub tõsiseks kopsuinfektsiooniks niipea, kui neutrofiilide arv keemiaravi tõttu langeb, või tavaliselt kahjutu nahakoloniseerija muutub vereringe infektsiooniks hetkel, mil kateeter annab talle otsese juurdepääsu, möödudes naha füüsilisest barjäärist täielikult. Tervishoiuasutused loovad ebatavaliselt soodsa keskkonna, kus sama loogika kordub korduvalt ja suures mahus: meditsiiniseadmed (kateetrid, ventilaatori torustik, kirurgilised implantaadid) läbivad täpselt neid füüsilisi barjääre -- nahk, limaskestad --, mis tavaliselt hoiavad koloniseerivaid mikroobe kehapinnale piiratuna, andes neile otsese juurdepääsu tavaliselt steriilsele koele või vereringele; samal ajal loob haiglaosakonna nõutav kontsentreeritud antibiootikumikasutus pideva valikusurve, mis soosib baktereid, kellel juba on või kes kõige kiiremini omandavad resistentsusmehhanismi, mistõttu selles konkreetses keskkonnas ringlev bakterpopulatsioon kaldub organismide poole, mis on ühtaegu seadmega seotud ja ravimresistentsed. Kumbki tegur ei põhjusta teist otseselt, kuid kombinatsioon süveneb: sama immuunpuudulikkusega, seadet kandev patsient, kes on kõige haavatavam oportunistlikule infektsioonile juba iseenesest, on sageli sama patsient, kelle nakatav organism on tõenäolisemalt ravimresistentne, sest mõlemad riskid on koondunud samasse haiglakeskkonda.",
+    "sourceHash": "16fe63bfd85fdce3",
+    "stale": false
+  },
+  "prerequisites": [
+    "immunodeficiency-and-immune-evasion",
+    "antimicrobial-mechanisms-and-resistance"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "healthcare-associated-and-opportunistic-infection-mechanisms-m1",
+  "conceptId": "healthcare-associated-and-opportunistic-infection-mechanisms",
+  "text": {
+    "en": "A hospital-acquired infection is just a regular infection that happens to occur in a hospital, with nothing mechanistically different about it -- in reality many hospital-acquired infections are specifically enabled by the healthcare setting itself, a device breaching a physical barrier, or a degree of immunosuppression from treatment, not merely bad luck about location; the same organism might never have caused infection outside that specific enabling context.",
+    "et": "Haiglanakkus on lihtsalt tavaline infektsioon, mis juhtub haiglas toimuma, ilma et selles oleks midagi mehhanistlikult erinevat -- tegelikult võimaldab paljusid haiglanakkusi just tervishoiukeskkond ise, seade, mis läbib füüsilise barjääri, või ravist tingitud immuunsupressiooni tase, mitte lihtsalt asukohaga seotud õnnetu juhus; sama organism ei oleks pruukinud sellest konkreetsest võimaldavast kontekstist väljaspool kunagi infektsiooni põhjustada.",
+    "sourceHash": "1faed03f0eee5d20",
+    "stale": false
+  }
+}
