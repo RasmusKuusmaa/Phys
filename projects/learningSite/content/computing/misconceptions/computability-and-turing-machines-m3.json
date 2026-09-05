@@ -1,0 +1,10 @@
+{
+  "id": "computability-and-turing-machines-m3",
+  "conceptId": "computability-and-turing-machines",
+  "text": {
+    "en": "Every well-defined, precisely stated mathematical or computational question must be computable/decidable by some algorithm, given enough cleverness -- in reality, Turing's halting-problem proof (and related results) rigorously established that some perfectly well-defined questions are provably undecidable by any algorithm whatsoever, a genuine limit on computation itself, not merely a gap in current mathematical knowledge.",
+    "et": "Iga täpselt sõnastatud, hästi defineeritud matemaatiline või arvutuslik küsimus peab olema mõne algoritmi poolt arvutatav/lahendatav, kui olla piisavalt nutikas -- tegelikult tegi Turingi peatumisprobleemi tõestus (ja seotud tulemused) rangelt kindlaks, et mõned täiesti hästi defineeritud küsimused on tõestatavalt lahendamatud ühegi algoritmi poolt, tõeline piirang arvutusele endale, mitte lihtsalt lünk praeguses matemaatilises teadmises.",
+    "sourceHash": "44d19c47ee53df32",
+    "stale": false
+  }
+}

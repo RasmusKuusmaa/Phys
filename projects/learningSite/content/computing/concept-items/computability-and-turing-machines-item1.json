@@ -1,0 +1,56 @@
+{
+  "id": "computability-and-turing-machines-item1",
+  "conceptId": "computability-and-turing-machines",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A company claims their new static-analysis tool can always correctly determine, for any program written in any language, whether it will eventually halt or run forever. What does computability theory say about this claim?",
+    "et": "Ettevõte väidab, et nende uus staatilise analüüsi tööriist suudab alati korrektselt kindlaks teha, mistahes mistahes keeles kirjutatud programmi jaoks, kas see lõpuks peatub või jookseb igavesti. Mida ütleb arvutatavusteooria selle väite kohta?",
+    "sourceHash": "2b0d1a2348322097",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The claim must be false as stated: Turing proved no algorithm can solve the general halting problem for arbitrary programs, so any real tool must either fail to give an answer on some programs, give a wrong answer on some, or only handle a restricted class of programs.",
+        "et": "Väide peab olema nii, nagu esitatud, väär: Turing tõestas, et ükski algoritm ei suuda lahendada üldist peatumisprobleemi suvaliste programmide jaoks, mistõttu iga reaalne tööriist peab kas jätma mõne programmi puhul vastuse andmata, andma mõne puhul vale vastuse, või käsitlema ainult piiratud programmide klassi.",
+        "sourceHash": "1d0ef20e54bdd232",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The claim is plausible if the company's engineers were clever and resourceful enough, since the halting problem is simply a very hard engineering challenge rather than a proven impossibility.",
+        "et": "Väide on usutav, kui ettevõtte insenerid olid piisavalt nutikad ja leidlikud, kuna peatumisprobleem on lihtsalt väga raske inseneriülesanne, mitte tõestatud võimatus.",
+        "sourceHash": "a8a2735398e8dfd4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computability-and-turing-machines-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The claim is impossible only for Turing machines specifically, but a modern computer with sufficient memory and processing power is a fundamentally more powerful model that can escape this limitation.",
+        "et": "Väide on võimatu ainult spetsiifiliselt Turingi masinate jaoks, kuid kaasaegne arvuti piisava mälu ja töötlemisvõimsusega on põhimõtteliselt võimsam mudel, mis suudab sellest piirangust pääseda.",
+        "sourceHash": "55ee33768240f500",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computability-and-turing-machines-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The claim is true as long as the tool is restricted to analyzing programs written in a single specific programming language rather than many languages at once.",
+        "et": "Väide on tõene, kuni tööriist on piiratud ühes kindlas programmeerimiskeeles kirjutatud programmide analüüsimisega, mitte paljudes keeltes korraga.",
+        "sourceHash": "a0f27c5be6bdf6c4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "computability-and-turing-machines-m3"
+    }
+  ]
+}

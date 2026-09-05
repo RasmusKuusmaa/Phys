@@ -1,0 +1,21 @@
+{
+  "id": "computability-and-turing-machines",
+  "subject": "computing",
+  "level": "L2",
+  "module": "theory-of-computation",
+  "title": {
+    "en": "Computability and Turing machines",
+    "et": "Arvutatavus ja Turingi masinad",
+    "sourceHash": "579bba44c6b7db27",
+    "stale": false
+  },
+  "summary": {
+    "en": "A Turing machine extends a finite automaton with exactly the one thing it was missing: an infinite tape it can both read from and write to, moving one cell left or right at each step, which turns a machine with only finitely many internal configurations into one that can, given enough time and tape, simulate any algorithm anyone has ever devised for any general-purpose computer built since -- this is precisely why the Turing machine is treated as the formal definition of 'computable' itself, rather than just one particular kind of computer among many equally powerful alternatives. Alan Turing used exactly this model to prove something genuinely startling: the halting problem -- deciding, for an arbitrary program and input, whether that program will eventually finish running or loop forever -- has no general algorithmic solution whatsoever, not merely one nobody happens to have found yet, and this was one of the first rigorous proofs that some well-defined, precisely stated computational questions are provably undecidable rather than simply difficult. This distinction between 'undecidable' and 'merely difficult' matters enormously in practice: no debugger, static analyzer, or future programming tool will ever be able to reliably determine, for every possible program, whether it halts, and every real tool that claims to detect infinite loops necessarily either gives up on some inputs, produces wrong answers on some inputs, or restricts itself to a deliberately less powerful class of programs than full general computation, because a tool that solved the general problem correctly and always would contradict Turing's proof.",
+    "et": "Turingi masin laiendab lõplikku automaati täpselt selle ühe asjaga, mis sellel puudus: lõpmatu lint, millest see saab nii lugeda kui ka kuhu kirjutada, liikudes igal sammul ühe lahtri võrra vasakule või paremale, mis muudab masina, millel on ainult lõplikult palju sisemisi konfiguratsioone, üheks, mis suudab, kui anda piisavalt aega ja linti, simuleerida mistahes algoritmi, mille keegi on kunagi väljamõelnud mistahes sellest ajast peale ehitatud üldotstarbelise arvuti jaoks -- see ongi täpselt põhjus, miks Turingi masinat käsitletakse mõiste 'arvutatav' enda formaalse definitsioonina, mitte lihtsalt ühe konkreetse arvutiliigina paljude võrdselt võimsate alternatiivide seas. Alan Turing kasutas täpselt seda mudelit, et tõestada midagi tõeliselt üllatavat: peatumisprobleemil -- otsustamisel, suvalise programmi ja sisendi jaoks, kas see programm lõpuks lõpetab töötamise või jookseb igavesti -- ei ole üldse üldist algoritmilist lahendust, mitte lihtsalt sellist, mida keegi pole veel juhtunud leidma, ning see oli üks esimesi rangeid tõestusi selle kohta, et mõned täpselt sõnastatud, hästi defineeritud arvutuslikud küsimused on tõestatavalt lahendamatud, mitte lihtsalt keerulised. See eristus 'lahendamatu' ja 'lihtsalt keerulise' vahel on praktikas tohutult oluline: ükski silumisprogramm, staatiline analüsaator ega tulevane programmeerimisvahend ei suuda kunagi usaldusväärselt kindlaks teha, iga võimaliku programmi jaoks, kas see peatub, ning iga reaalne tööriist, mis väidab tuvastavat lõpmatuid tsükleid, kas loobub mõne sisendi puhul, annab mõne sisendi puhul vale vastuse, või piirab end teadlikult vähem võimsa programmide klassiga kui täielik üldine arvutus, sest tööriist, mis lahendaks üldise probleemi korrektselt ja alati, oleks vastuolus Turingi tõestusega.",
+    "sourceHash": "7d80a7720326e458",
+    "stale": false
+  },
+  "prerequisites": [
+    "automata-and-formal-languages"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "computability-and-turing-machines-m1",
+  "conceptId": "computability-and-turing-machines",
+  "text": {
+    "en": "The halting problem being undecidable just means it's an extremely hard problem that a sufficiently clever future algorithm or a powerful enough computer might eventually solve -- in reality, Turing rigorously proved no algorithm can ever solve the general halting problem, for any program and input whatsoever, no matter how much time, cleverness, or computing power is thrown at it; this is a proven impossibility, not a matter of current technological limitation.",
+    "et": "Peatumisprobleemi lahendamatus tähendab lihtsalt seda, et see on äärmiselt raske probleem, mille piisavalt nutikas tulevane algoritm või piisavalt võimas arvuti võib lõpuks lahendada -- tegelikult tõestas Turing rangelt, et ükski algoritm ei suuda kunagi lahendada üldist peatumisprobleemi, mistahes programmi ja sisendi jaoks, ükskõik kui palju aega, nutikust või arvutusvõimsust sellele kulutada; see on tõestatud võimatus, mitte praeguse tehnoloogilise piirangu küsimus.",
+    "sourceHash": "db010e3803e58c47",
+    "stale": false
+  }
+}

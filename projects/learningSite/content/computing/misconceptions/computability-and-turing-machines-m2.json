@@ -1,0 +1,10 @@
+{
+  "id": "computability-and-turing-machines-m2",
+  "conceptId": "computability-and-turing-machines",
+  "text": {
+    "en": "A Turing machine is just one specific historical model of computation, less powerful in principle than modern computers with their vastly larger memory and faster processors -- in reality, a Turing machine (given enough time and tape) can simulate any algorithm any modern general-purpose computer can run; it's treated as the formal reference definition of 'computable' precisely because no stronger model of everyday computation has ever been found, not because it's a weaker historical curiosity.",
+    "et": "Turingi masin on lihtsalt üks konkreetne ajalooline arvutusmudel, mis on põhimõtteliselt vähem võimas kui kaasaegsed arvutid oma palju suurema mälu ja kiiremate protsessoritega -- tegelikult suudab Turingi masin (kui anda piisavalt aega ja linti) simuleerida mistahes algoritmi, mida mistahes kaasaegne üldotstarbeline arvuti suudab käivitada; seda käsitletakse mõiste 'arvutatav' formaalse etalondefinitsioonina just seetõttu, et ühtegi tugevamat igapäevase arvutuse mudelit pole kunagi leitud, mitte seetõttu, et see on nõrgem ajalooline kurioosum.",
+    "sourceHash": "ee81e981c045822a",
+    "stale": false
+  }
+}
