@@ -1,0 +1,10 @@
+{
+  "id": "machine-learning-foundations-supervised-and-unsupervised-learning-m2",
+  "conceptId": "machine-learning-foundations-supervised-and-unsupervised-learning",
+  "text": {
+    "en": "More training data always straightforwardly improves a machine learning model, with no risk that the model gets worse in any meaningful sense -- in reality, a model can still overfit even with substantial data if it's flexible enough to memorize noise rather than a real pattern, and evaluating performance only on training data (rather than a held-out test set) can mask this problem entirely regardless of how much training data was used.",
+    "et": "Rohkem koolitusandmeid parandab masinõppe mudelit alati sirgjooneliselt, ilma riskita, et mudel muutub mingis olulises mõttes halvemaks -- tegelikult võib mudel ikkagi ülesobituda isegi märkimisväärse andmehulga korral, kui see on piisavalt paindlik, et jätta müra pähe tegeliku mustri asemel, ning toimimise hindamine ainult koolitusandmetel (mitte eraldatud testandmestikul) võib selle probleemi täielikult varjata, sõltumata koolitusandmete hulgast.",
+    "sourceHash": "81e82598eb69efc2",
+    "stale": false
+  }
+}

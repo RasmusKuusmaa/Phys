@@ -1,0 +1,19 @@
+{
+  "id": "machine-learning-foundations-supervised-and-unsupervised-learning",
+  "subject": "statistics-and-data-science",
+  "level": "L2",
+  "module": "statistics-fundamentals",
+  "title": {
+    "en": "Machine learning foundations: supervised and unsupervised learning",
+    "et": "Masinõppe alused: juhendatud ja juhendamata õpe",
+    "sourceHash": "fd93eab6a999780d",
+    "stale": false
+  },
+  "summary": {
+    "en": "Machine learning splits into two fundamentally different problems depending on what the training data actually contains. Supervised learning trains a model on examples that already come with a known correct answer attached (labeled data) -- an email marked spam or not, a house's known sale price -- so the model learns a mapping from inputs to outputs it can then apply to new, unlabeled examples; unsupervised learning instead works with data that has no correct-answer labels at all, and looks for structure the data has on its own -- grouping similar items together (clustering) or finding a simpler underlying representation of complex data, with no 'right answer' provided to check against. Whichever type is used, a model's real performance can only be judged honestly on data it has never seen: the standard practice is to hold out a test set the model plays no role in fitting, since evaluating a model on the same data it was trained on will always look better than the model's actual predictive performance, sometimes dramatically so. This is the practical face of the bias-variance tradeoff -- a model too simple to capture the real pattern in the data (high bias, underfitting) and a model so flexible it has memorized the training data's noise instead of the pattern (high variance, overfitting) both perform poorly on new data, for opposite reasons, and finding a model complex enough to capture the real signal but not so complex it chases noise is the central practical challenge machine learning is built around.",
+    "et": "Masinõpe jaguneb kaheks põhimõtteliselt erinevaks probleemiks olenevalt sellest, mida koolitusandmed tegelikult sisaldavad. Juhendatud õpe koolitab mudelit näidetel, millel on juba küljes teadaolev õige vastus (märgistatud andmed) -- e-kiri märgitud rämpspostiks või mitte, maja teadaolev müügihind -- nii et mudel õpib kaardistuse sisenditest väljunditesse, mida saab seejärel rakendada uutele, märgistamata näidetele; juhendamata õpe töötab selle asemel andmetega, millel pole üldse õige-vastuse märgiseid, ning otsib struktuuri, mis andmetel iseenesest on -- sarnaste elementide kokku rühmitamine (klasterdamine) või lihtsama alusstruktuuri leidmine keerukatele andmetele, ilma et oleks antud 'õiget vastust', mille vastu kontrollida. Ükskõik millist tüüpi kasutatakse, mudeli tegelikku toimimist saab ausalt hinnata ainult andmete peal, mida see pole kunagi näinud: standardne praktika on eraldada testandmestik, mille sobitamises mudel osa ei mängi, kuna mudeli hindamine samadel andmetel, mille peal seda koolitati, näib alati parem kui mudeli tegelik ennustusvõime, mõnikord dramaatiliselt. See on kalde-dispersiooni kompromissi praktiline pool -- mudel, mis on liiga lihtne, et tabada andmete tegelikku mustrit (kõrge kalle, alasobitamine), ja mudel, mis on nii paindlik, et on jätnud koolitusandmete müra pähe mustri asemel (kõrge dispersioon, ülesobitamine), toimivad mõlemad uutel andmetel halvasti, vastupidistel põhjustel, ning piisavalt keerulise mudeli leidmine, et tabada tegelikku signaali, kuid mitte nii keerulise, et jälitada müra, on masinõppe keskne praktiline väljakutse.",
+    "sourceHash": "3cb2dad8c0af17f8",
+    "stale": false
+  },
+  "prerequisites": []
+}

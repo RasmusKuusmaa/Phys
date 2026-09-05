@@ -1,0 +1,56 @@
+{
+  "id": "machine-learning-foundations-supervised-and-unsupervised-learning-item1",
+  "conceptId": "machine-learning-foundations-supervised-and-unsupervised-learning",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A model achieves 99% accuracy on the data it was trained on, but only 60% accuracy on new data it has never seen. What does this best illustrate?",
+    "et": "Mudel saavutab 99% täpsuse andmetel, mille peal seda koolitati, kuid ainult 60% täpsuse uutel andmetel, mida see pole kunagi näinud. Mida see kõige paremini illustreerib?",
+    "sourceHash": "413aca9c50b70e99",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The model has likely overfit the training data (high variance), memorizing its specific noise rather than learning a pattern that generalizes to new data.",
+        "et": "Mudel on tõenäoliselt ülesobitanud koolitusandmed (kõrge dispersioon), jättes pähe selle spetsiifilise müra, mitte õppinud mustrit, mis üldistub uutele andmetele.",
+        "sourceHash": "c929c4cc41302295",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This is expected and unremarkable -- training-data accuracy and new-data accuracy should always differ this much regardless of model quality.",
+        "et": "See on oodatav ja tähelepanuta jäetav -- koolitusandmete täpsus ja uute andmete täpsus peaksid alati nii palju erinema, sõltumata mudeli kvaliteedist.",
+        "sourceHash": "58651ea9561b7a4a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "machine-learning-foundations-supervised-and-unsupervised-learning-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The new data must be mislabeled, since a model with 99% training accuracy is mathematically guaranteed to perform similarly on any other dataset.",
+        "et": "Uued andmed peavad olema valesti märgistatud, kuna mudel 99% koolitustäpsusega on matemaatiliselt garanteeritud toimima sarnaselt mistahes teisel andmestikul.",
+        "sourceHash": "312318e9f74d29f1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "machine-learning-foundations-supervised-and-unsupervised-learning-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This pattern specifically indicates the model is unsupervised rather than supervised.",
+        "et": "See muster viitab spetsiifiliselt sellele, et mudel on juhendamata, mitte juhendatud.",
+        "sourceHash": "bb1391c261e1ac4f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "machine-learning-foundations-supervised-and-unsupervised-learning-m3"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "machine-learning-foundations-supervised-and-unsupervised-learning-m1",
+  "conceptId": "machine-learning-foundations-supervised-and-unsupervised-learning",
+  "text": {
+    "en": "Unsupervised learning requires labeled training data with known correct answers, just like supervised learning does -- in reality, unsupervised learning works specifically with UNlabeled data that has no correct-answer attached at all, looking for structure the data has on its own (like natural groupings) rather than learning a known input-to-output mapping.",
+    "et": "Juhendamata õpe vajab märgistatud koolitusandmeid teadaolevate õigete vastustega, samamoodi nagu juhendatud õpe -- tegelikult töötab juhendamata õpe spetsiifiliselt MÄRGISTAMATA andmetega, millel pole üldse õige-vastuse märgist küljes, otsides struktuuri, mis andmetel iseenesest on (nagu loomulikud rühmitused), mitte õppides teadaolevat sisend-väljund kaardistust.",
+    "sourceHash": "678c0b78949d325e",
+    "stale": false
+  }
+}

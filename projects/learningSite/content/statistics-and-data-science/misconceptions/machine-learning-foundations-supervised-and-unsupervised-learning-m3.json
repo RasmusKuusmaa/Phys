@@ -1,0 +1,10 @@
+{
+  "id": "machine-learning-foundations-supervised-and-unsupervised-learning-m3",
+  "conceptId": "machine-learning-foundations-supervised-and-unsupervised-learning",
+  "text": {
+    "en": "A model with high accuracy on the training data it was built from is guaranteed to perform just as well on new, unseen data -- in reality, a model that has overfit the training data (high variance) can show excellent training-data accuracy while performing much worse on new data, which is exactly why models must be evaluated on a held-out test set the model played no role in fitting.",
+    "et": "Mudel, millel on kõrge täpsus koolitusandmetel, mille pealt see üles ehitati, toimib garanteeritult sama hästi uutel, nägematutel andmetel -- tegelikult võib mudel, mis on ülesobitanud koolitusandmed (kõrge dispersioon), näidata koolitusandmetel suurepärast täpsust, toimides samal ajal palju halvemini uutel andmetel, mis ongi täpselt põhjus, miks mudeleid tuleb hinnata eraldatud testandmestikul, mille sobitamises mudel osa ei mänginud.",
+    "sourceHash": "f086913d4b1b4a0e",
+    "stale": false
+  }
+}
