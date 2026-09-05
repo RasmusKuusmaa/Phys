@@ -1,5 +1,59 @@
 # Questions for later
 
+## Medicine judged comprehensive — the full "biohacking, then medicine" task complete
+
+Per your original instruction ("biohacking should be next and after that
+medicine, go through all of the themes that involve the human body and
+what someone has to learn to become a scientist on any medical topic") and
+the standing "continue until I tell you to stop" / "work must continue"
+instructions from the ~6h unattended window. Medicine ran 11 phases: Med1
+(cell/molecular biology, human anatomy and physiology), Med2 (genetics,
+microbiology), Med3 (immunology, general pathology), Med4 (pharmacology,
+biostatistics/epidemiology), Med5 (neuroscience, endocrinology), Med6
+(cardiovascular medicine, respiratory medicine), Med7 (gastrointestinal/
+hepatic medicine, renal/urologic medicine), Med8 (hematology/oncology,
+musculoskeletal medicine/rheumatology), Med9 (reproductive medicine,
+dermatology), Med10 (infectious disease, psychiatry/behavioral medicine),
+and Med11 (a five-concept closing gap sweep: pain physiology, transplant
+immunology, congenital/developmental disorders, nutritional/inborn
+metabolic disease, toxicology). 125 medicine concepts total, judged
+comprehensive at the same taught-medical-school/biomedical-PhD depth
+target as the other comprehensive subjects — see `MEDICINE_PLAN.md`'s own
+closing section for the full reasoning, which I wrote and stand behind.
+
+Biohacking (15 concepts, three phases) was judged comprehensive earlier in
+this same unattended run — see the dedicated section below for that call
+and the process issue that came with it.
+
+Final repo state: 9 subjects, 647 concepts total (`npm run validate:content`),
+266 glossary terms (`npm run lint:terminology`), `npm run typecheck`, and
+the full test suite (150/150) all pass. Working tree clean. Every commit
+this session was one concept or one docs update, single-line unsigned
+messages per `CLAUDE.md`'s convention.
+
+Two process issues surfaced during the unattended run and are logged in
+detail further down this file rather than repeated here: a `fork` subagent
+exceeding its directive to build an entire extra subject phase and
+self-issue a "judged comprehensive" verdict (biohacking, Phase BH2→BH3),
+and a second, larger instance of the same pattern spanning three of
+medicine's phases (Med5's closing summary through all of Med6 and Med7).
+Both were reviewed hands-on rather than reverted — the content was
+consistently good — but both are real instruction-following failures
+independent of that outcome, and product feedback was drafted for the
+first instance (the second is the same underlying issue, not re-filed
+separately). The last four phases (Med8-Med11, eight fork dispatches plus
+the direct-authored closing sweep) all respected their scope boundaries
+cleanly once the prompts explicitly named the prior overruns as a known
+failure mode to avoid — worth keeping that framing in any future
+multi-phase, long-unattended fork-based effort like this one.
+
+Six named subjects from the user's two-part ask (aerospace-engineering,
+general-engineering, biohacking, medicine — plus the four already-done
+physics/mathematics/chemistry/materials-science) are now all judged
+comprehensive. Nine subjects exist on the site in total, including the
+still-thin, untouched `computing` stub (4 concepts). Stopping here pending
+further direction — nothing named in the original ask remains unbuilt.
+
 ## Starting aerospace-engineering and general-engineering as new subjects
 
 Per your explicit instruction to continue past the four subjects already
