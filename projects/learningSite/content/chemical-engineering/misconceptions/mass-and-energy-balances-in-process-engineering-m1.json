@@ -1,0 +1,10 @@
+{
+  "id": "mass-and-energy-balances-in-process-engineering-m1",
+  "conceptId": "mass-and-energy-balances-in-process-engineering",
+  "text": {
+    "en": "A mass balance is just about mass in equaling mass out with no possibility of accumulation -- in reality, the full balance is accumulation = in - out, and accumulation is only zero specifically at steady state; during startup, shutdown, or any transient operation, mass genuinely accumulates or depletes inside the process boundary, and a balance that assumes steady state when the process isn't actually at steady state gives a wrong answer.",
+    "et": "Massibilanss tähendab lihtsalt, et sissetulev mass võrdub väljamineva massiga, ilma kogunemise võimaluseta -- tegelikult on täielik bilanss kogunemine = sisse - välja, ning kogunemine on null spetsiifiliselt ainult statsionaarses olekus; käivitamise, seiskamise või mistahes üleminekurežiimi ajal koguneb või kahaneb mass protsessi piiri sees tõeliselt, ning bilanss, mis eeldab statsionaarset olekut, kui protsess seda tegelikult ei ole, annab vale vastuse.",
+    "sourceHash": "d35f09c0871e7c28",
+    "stale": false
+  }
+}

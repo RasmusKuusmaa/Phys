@@ -1,0 +1,57 @@
+{
+  "id": "mass-and-energy-balances-in-process-engineering-solve-cout",
+  "formulaId": "mass-and-energy-balances-in-process-engineering-formula1",
+  "variables": [
+    {
+      "symbol": "C1",
+      "min": 1.0,
+      "max": 5.0,
+      "unit": "mol/L",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "Q1",
+      "min": 5.0,
+      "max": 20.0,
+      "unit": "L/min",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "C2",
+      "min": 0.1,
+      "max": 1.0,
+      "unit": "mol/L",
+      "sigFigs": 3
+    },
+    {
+      "symbol": "Q2",
+      "min": 20.0,
+      "max": 60.0,
+      "unit": "L/min",
+      "sigFigs": 3
+    }
+  ],
+  "constraints": [
+    {
+      "op": "gt",
+      "left": "C1",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "Q1",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "C2",
+      "right": 0
+    },
+    {
+      "op": "gt",
+      "left": "Q2",
+      "right": 0
+    }
+  ],
+  "solveFor": "C_out"
+}

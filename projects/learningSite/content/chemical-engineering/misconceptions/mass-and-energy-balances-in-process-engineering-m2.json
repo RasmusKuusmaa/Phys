@@ -1,0 +1,10 @@
+{
+  "id": "mass-and-energy-balances-in-process-engineering-m2",
+  "conceptId": "mass-and-energy-balances-in-process-engineering",
+  "text": {
+    "en": "A mass balance only needs to track total mass, not the amount of each individual chemical component separately -- in reality, a useful process mass balance is almost always a component balance: total mass is conserved trivially, but the actual engineering question (how much of a specific reactant, product, or contaminant is in a given stream) requires tracking each component's own conservation separately, since components can be produced or consumed by reaction even while total mass stays constant.",
+    "et": "Massibilanss peab jälgima ainult kogumassi, mitte iga üksiku keemilise komponendi kogust eraldi -- tegelikult on kasulik protsessi massibilanss peaaegu alati komponendibilanss: kogumass säilib triviaalselt, kuid tegelik inseneriküsimus (kui palju konkreetset reagenti, toodet või saasteainet on antud voolus) nõuab iga komponendi enda jäävuse eraldi jälgimist, kuna komponendid võivad reaktsiooni tõttu tekkida või kuluda, kuigi kogumass jääb konstantseks.",
+    "sourceHash": "4fda4813218ec111",
+    "stale": false
+  }
+}

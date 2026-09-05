@@ -1,0 +1,10 @@
+{
+  "id": "mass-and-energy-balances-in-process-engineering-m3",
+  "conceptId": "mass-and-energy-balances-in-process-engineering",
+  "text": {
+    "en": "Once you know the total combined flow rate at a mixing point, the resulting concentration must simply be the average of the two inlet concentrations -- in reality, the combined concentration is a flow-weighted average (each inlet's contribution is weighted by its own flow rate, not counted equally), so mixing a small flow of concentrated solution with a much larger flow of dilute solution gives a result much closer to the dilute stream's concentration, not a simple midpoint average.",
+    "et": "Kui teate segamispunktis kogu kombineeritud vooluhulka, peab tekkiv kontsentratsioon olema lihtsalt kahe sisendkontsentratsiooni keskmine -- tegelikult on kombineeritud kontsentratsioon vooluhulgaga kaalutud keskmine (iga sisendi panus on kaalutud tema enda vooluhulgaga, mitte võrdselt arvestatud), mistõttu kontsentreeritud lahuse väikese voolu segamine palju suurema lahjendatud lahuse vooluga annab tulemuse, mis on palju lähemal lahjendatud voolu kontsentratsioonile, mitte lihtne keskpunkti keskmine.",
+    "sourceHash": "77fec52c5256905f",
+    "stale": false
+  }
+}

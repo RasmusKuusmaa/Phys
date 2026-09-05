@@ -1,0 +1,37 @@
+{
+  "id": "mass-and-energy-balances-in-process-engineering-solve-cout",
+  "formulaId": "mass-and-energy-balances-in-process-engineering-formula1",
+  "solveFor": "C_out",
+  "mistakes": [
+    {
+      "id": "unweighted-average",
+      "description": {
+        "en": "Took the simple unweighted average of the two concentrations instead of weighting each by its own flow rate.",
+        "et": "Võttis kahe kontsentratsiooni lihtsa kaalumata keskmise, selle asemel et kaaluda kumbagi oma vooluhulgaga.",
+        "sourceHash": "52b0226c48c99a0c",
+        "stale": false
+      },
+      "expression": "(C1+C2)/2"
+    },
+    {
+      "id": "ignored-second-stream",
+      "description": {
+        "en": "Used only the first stream's concentration, ignoring the second stream's contribution entirely.",
+        "et": "Kasutas ainult esimese voolu kontsentratsiooni, jättes teise voolu panuse täielikult arvestamata.",
+        "sourceHash": "463226795be4d263",
+        "stale": false
+      },
+      "expression": "C1"
+    },
+    {
+      "id": "summed-instead-of-weighted",
+      "description": {
+        "en": "Added the two concentration-flow products but forgot to divide by the combined flow rate.",
+        "et": "Liitis kaks kontsentratsiooni-vooluhulga korrutist, kuid unustas jagada kombineeritud vooluhulgaga.",
+        "sourceHash": "4672d4e4276880d1",
+        "stale": false
+      },
+      "expression": "C1*Q1+C2*Q2"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "mass-and-energy-balances-in-process-engineering-item1",
+  "conceptId": "mass-and-energy-balances-in-process-engineering",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A stream of 2 mol/L solution flowing at 10 L/min is mixed with a stream of 0.5 mol/L solution flowing at 40 L/min. What best describes the resulting concentration in the combined 50 L/min stream?",
+    "et": "2 mol/L lahuse voolu kiirusega 10 L/min segatakse 0,5 mol/L lahuse vooluga kiirusega 40 L/min. Mis kirjeldab kõige paremini tekkivat kontsentratsiooni kombineeritud 50 L/min voolus?",
+    "sourceHash": "87c56d2c3fcdbcb2",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "It is a flow-weighted average, much closer to 0.5 mol/L than to 2 mol/L, since the dilute stream's much larger flow rate dominates the combined result.",
+        "et": "See on vooluhulgaga kaalutud keskmine, palju lähemal 0,5 mol/L-le kui 2 mol/L-le, kuna lahjendatud voolu palju suurem vooluhulk domineerib kombineeritud tulemuses.",
+        "sourceHash": "b542aec1e4574439",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It is simply the average of the two concentrations, 1.25 mol/L, since averaging is how any two mixed values combine.",
+        "et": "See on lihtsalt kahe kontsentratsiooni keskmine, 1,25 mol/L, kuna keskmistamine on see, kuidas kaks segatud väärtust kombineeruvad.",
+        "sourceHash": "5c4c574c5c226462",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mass-and-energy-balances-in-process-engineering-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "It cannot be determined without knowing whether the process is at steady state, since accumulation could make the outlet concentration anything.",
+        "et": "Seda ei saa määrata teadmata, kas protsess on statsionaarses olekus, kuna kogunemine võib teha väljumiskontsentratsiooni mistahes väärtuseks.",
+        "sourceHash": "3a92ef1afd18bfe5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mass-and-energy-balances-in-process-engineering-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It equals the total combined molar amount alone, without needing to divide by the combined flow rate at all.",
+        "et": "See võrdub ainult kombineeritud moolide koguhulgaga, ilma et oleks vaja üldse jagada kombineeritud vooluhulgaga.",
+        "sourceHash": "e7cc87248ee3938a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "mass-and-energy-balances-in-process-engineering-m3"
+    }
+  ]
+}

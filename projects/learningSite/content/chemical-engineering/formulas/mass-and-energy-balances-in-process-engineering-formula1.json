@@ -1,0 +1,63 @@
+{
+  "id": "mass-and-energy-balances-in-process-engineering-formula1",
+  "conceptId": "mass-and-energy-balances-in-process-engineering",
+  "latex": "C_{out} = \\frac{C_1 Q_1 + C_2 Q_2}{Q_1 + Q_2}",
+  "symbols": [
+    {
+      "symbol": "C1",
+      "name": {
+        "en": "concentration",
+        "et": "kontsentratsioon",
+        "sourceHash": "bdc4f42527047f25",
+        "stale": false
+      },
+      "unit": "mol/L"
+    },
+    {
+      "symbol": "Q1",
+      "name": {
+        "en": "flow rate",
+        "et": "vooluhulk",
+        "sourceHash": "8c1791bf2947fbe2",
+        "stale": false
+      },
+      "unit": "L/min"
+    },
+    {
+      "symbol": "C2",
+      "name": {
+        "en": "concentration",
+        "et": "kontsentratsioon",
+        "sourceHash": "bdc4f42527047f25",
+        "stale": false
+      },
+      "unit": "mol/L"
+    },
+    {
+      "symbol": "Q2",
+      "name": {
+        "en": "flow rate",
+        "et": "vooluhulk",
+        "sourceHash": "8c1791bf2947fbe2",
+        "stale": false
+      },
+      "unit": "L/min"
+    },
+    {
+      "symbol": "C_out",
+      "name": {
+        "en": "concentration",
+        "et": "kontsentratsioon",
+        "sourceHash": "bdc4f42527047f25",
+        "stale": false
+      },
+      "unit": "mol/L"
+    }
+  ],
+  "solveFor": [
+    "C_out"
+  ],
+  "expressions": {
+    "C_out": "(C1*Q1+C2*Q2)/(Q1+Q2)"
+  }
+}

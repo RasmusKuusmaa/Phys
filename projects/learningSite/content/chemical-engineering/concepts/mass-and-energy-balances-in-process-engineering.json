@@ -1,0 +1,19 @@
+{
+  "id": "mass-and-energy-balances-in-process-engineering",
+  "subject": "chemical-engineering",
+  "level": "L1",
+  "module": "chemical-engineering-fundamentals",
+  "title": {
+    "en": "Mass and energy balances in process engineering",
+    "et": "Massi- ja energiabilansid protsessitehnikas",
+    "sourceHash": "cb51b65bfea3893c",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every chemical process, no matter how complex, obeys the same accounting rule: whatever mass or energy accumulates inside a defined boundary equals whatever enters minus whatever leaves, and at steady state -- the condition most continuous industrial processes are designed to run at -- accumulation is zero, so everything entering a unit must leave it, in some form. This single conservation principle, applied systematically to a process flow diagram one unit at a time, is the actual starting point of essentially all chemical process design and analysis: before anyone can size a reactor, choose a separation method, or estimate a plant's operating cost, they first have to know exactly how much of each material and how much energy is moving through every stream, which a mass and energy balance answers directly. A balance around a single mixing point -- two streams of different composition combining into one -- already illustrates the core method: the combined stream's flow rate is the sum of the two inlet flow rates, and its composition is fixed by requiring that the total amount of each individual component be conserved across the mixing point, not just the total mass, which is what actually lets an engineer calculate the resulting concentration rather than just knowing it must lie somewhere between the two inlet values.",
+    "et": "Iga keemiline protsess, ükskõik kui keeruline, järgib sama arvestusreeglit: mis iganes mass või energia koguneb määratletud piiri sees, võrdub sellega, mis siseneb, miinus see, mis lahkub, ning statsionaarses olekus -- tingimuses, milles enamik pidevaid tööstuslikke protsesse on kavandatud töötama -- on kogunemine null, mistõttu kõik, mis üksusesse siseneb, peab sealt ka lahkuma, mingil kujul. See üksainus jäävuse printsiip, süstemaatiliselt protsessi vooskeemile üks üksus korraga rakendatuna, ongi tegelik lähtepunkt sisuliselt kogu keemilise protsessi disainile ja analüüsile: enne kui keegi saab mõõdustada reaktorit, valida eraldusmeetodi või hinnata tehase käitamiskulu, peab ta kõigepealt teadma täpselt, kui palju igat materjali ja kui palju energiat igas voolus liigub, millele mass- ja energiabilanss otse vastab. Bilanss ühe segamispunkti ümber -- kaks erineva koostisega voolu ühinevad üheks -- illustreerib juba tuuma-meetodit: kombineeritud voolu vooluhulk on kahe sisendvooluhulga summa, ning selle koostise määrab nõue, et iga üksiku komponendi kogus säiliks üle segamispunkti, mitte ainult kogumass, mis ongi see, mis tegelikult võimaldab insenerile arvutada tekkiva kontsentratsiooni, mitte lihtsalt teada, et see peab jääma kahe sisendväärtuse vahele.",
+    "sourceHash": "6a2a9cc3eb7165af",
+    "stale": false
+  },
+  "prerequisites": []
+}
