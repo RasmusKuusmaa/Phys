@@ -744,25 +744,54 @@ general viral-hepatitis article exists).
 
 ### Module `renal-and-urologic-medicine`
 
-- [ ] Renal and urinary system anatomy and physiology (nephron structure,
+- [x] Renal and urinary system anatomy and physiology (nephron structure,
       filtration/reabsorption/secretion, urine concentration — the missing
-      Med1-level foundation this module needs; no prerequisites)
-- [ ] Acute kidney injury mechanisms (prerenal, intrinsic, and postrenal
+      Med1-level foundation this module needs; no prerequisites; kept
+      conceptual)
+- [x] Acute kidney injury mechanisms (prerenal, intrinsic, and postrenal
       categories as mechanistically distinct causes; prerequisite: renal-
-      and-urinary-system-anatomy-and-physiology)
-- [ ] Chronic kidney disease mechanisms (progressive nephron loss,
+      and-urinary-system-anatomy-and-physiology; kept conceptual)
+- [x] Chronic kidney disease mechanisms (progressive nephron loss,
       compensatory hyperfiltration in remaining nephrons, and why that
       compensation itself accelerates further decline; prerequisite:
-      renal-and-urinary-system-anatomy-and-physiology)
-- [ ] Glomerulonephritis mechanisms (immune-mediated glomerular damage,
+      renal-and-urinary-system-anatomy-and-physiology; kept conceptual)
+- [x] Glomerulonephritis mechanisms (immune-mediated glomerular damage,
       building on this subject's existing autoimmunity-and-hypersensitivity
       concept; prerequisites: renal-and-urinary-system-anatomy-and-
-      physiology, autoimmunity-and-hypersensitivity)
-- [ ] Nephrolithiasis mechanisms (kidney stone formation mechanism;
-      prerequisite: renal-and-urinary-system-anatomy-and-physiology)
-- [ ] Acid-base disorders and renal compensation (metabolic vs.
+      physiology, autoimmunity-and-hypersensitivity; kept conceptual)
+- [x] Nephrolithiasis mechanisms (kidney stone formation mechanism;
+      prerequisite: renal-and-urinary-system-anatomy-and-physiology; kept
+      conceptual)
+- [x] Acid-base disorders and renal compensation (metabolic vs.
       respiratory acidosis/alkalosis, renal and respiratory compensation
       mechanisms; prerequisites: renal-and-urinary-system-anatomy-and-
-      physiology, respiratory-failure-and-gas-exchange-abnormalities)
+      physiology, respiratory-failure-and-gas-exchange-abnormalities; kept
+      conceptual — a Henderson-Hasselbalch-style formula was considered but
+      chemistry has no existing pKa/log-based formula precedent on this
+      site to follow, and the compensation-timing mechanism is this
+      concept's real content anyway)
+
+Module complete: 6 renal-and-urologic-medicine concepts, authored directly
+by the coordinator (forking remained unavailable throughout this phase).
+All kept conceptual: each concept's real content is a mechanistic
+distinction (three-step nephron function, three AKI categories, the
+hyperfiltration self-perpetuation cycle, two glomerulonephritis patterns,
+supersaturation/inhibitor balance, and respiratory-vs-renal compensation
+timing) rather than a single clean numeric relationship. `npm run
+validate:content` (9 subjects, 606 concepts), `npm run lint:terminology`
+(266 glossary terms), and `npm run typecheck` all pass; every resource URL
+verified live with `curl`. Two Estonian resources are honest close/adjacent
+matches rather than exact-topic matches, since Estonian Wikipedia has no
+dedicated article at these exact scopes: `chronic-kidney-disease-
+mechanisms` links to "Nefroloogia" (the general field, no dedicated CKD
+article exists) and `nephrolithiasis-mechanisms` links to "Kusihape" (uric
+acid, one contributing chemistry rather than a dedicated kidney-stone
+article).
+
+Phase Med7 complete: 84 medicine concepts total (12 new Phase-Med7 concepts
+on top of the 72-concept Phase Med1-Med6 baseline) — the third and fourth
+organ-system-pathophysiology modules. `npm run validate:content` (9
+subjects, 606 concepts), `npm run lint:terminology` (266 glossary terms),
+and `npm run typecheck` all pass; working tree clean.
 
 ---
