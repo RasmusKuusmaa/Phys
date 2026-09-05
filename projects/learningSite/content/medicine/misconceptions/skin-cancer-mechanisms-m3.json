@@ -1,0 +1,10 @@
+{
+  "id": "skin-cancer-mechanisms-m3",
+  "conceptId": "skin-cancer-mechanisms",
+  "text": {
+    "en": "I think only fair-skinned or sunburn-prone people can get skin cancer, since melanin protects against all UV-related risk -- in reality, melanin reduces but doesn't eliminate UV-related mutation risk, and skin cancer -- including melanoma -- occurs in people with more melanin/darker skin too, sometimes with worse outcomes because of later diagnosis rather than true immunity to the disease.",
+    "et": "Arvan, et ainult heledanahalised või päikesepõletusele kalduvad inimesed saavad nahavähki, kuna melaniin kaitseb kogu UV-ga seotud riski eest -- tegelikult vähendab melaniin, kuid ei kõrvalda UV-ga seotud mutatsiooniriski, ning nahavähk -- sealhulgas melanoom -- esineb ka rohkema melaniiniga/tumedama nahaga inimestel, mõnikord halvema tulemusega hilisema diagnoosi, mitte tõelise haigusimmuunsuse tõttu.",
+    "sourceHash": "a6b1010384a3d0f6",
+    "stale": false
+  }
+}

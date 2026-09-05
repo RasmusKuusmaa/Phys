@@ -1,0 +1,22 @@
+{
+  "id": "skin-cancer-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "dermatology",
+  "title": {
+    "en": "Skin cancer mechanisms",
+    "et": "Nahavähi mehhanismid",
+    "sourceHash": "ce93eead655781a3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Ultraviolet radiation drives most skin cancer through direct DNA damage -- UV photons are absorbed by DNA and cause characteristic mutations (particularly at adjacent pyrimidine bases), and when those mutations accumulate in genes controlling cell division or DNA repair faster than the cell's repair machinery and immune surveillance can eliminate the damaged cells, uncontrolled proliferation results; which specific skin cell type accumulates the damage determines the cancer's behavior far more than its location does -- basal cell and squamous cell carcinomas arise from keratinocytes and are typically slow-growing and rarely metastasize, while melanoma arises from melanocytes (the pigment-producing cells) and is far more prone to early, aggressive metastasis, making the melanoma/non-melanoma distinction a matter of underlying cell biology, not just severity.",
+    "et": "Ultraviolettkiirgus põhjustab enamikku nahavähist otsese DNA kahjustuse kaudu -- UV footonid neelduvad DNA-sse ja põhjustavad iseloomulikke mutatsioone (eriti kõrvutiasetsevate pürimidiinialuste juures), ning kui need mutatsioonid kuhjuvad rakujagunemist või DNA parandust kontrollivates geenides kiiremini, kui raku parandusmehhanismid ja immuunjärelevalve suudavad kahjustatud rakke kõrvaldada, on tulemuseks kontrollimatu paljunemine; milline konkreetne nahara tüüp kahjustust kuhjab, määrab vähi käitumise palju rohkem kui selle asukoht -- basaalrakuline ja lamerakuline kartsinoom tekivad keratinotsüütidest ning on tüüpiliselt aeglaselt kasvavad ja harva metastaseerivad, samas kui melanoom tekib melanotsüütidest (pigmenti tootvatest rakkudest) ning kaldub palju rohkem varajasele, agressiivsele metastaseerumisele, muutes melanoomi/mitte-melanoomi eristuse aluseks oleva rakubioloogia küsimuseks, mitte lihtsalt raskusastme küsimuseks.",
+    "sourceHash": "6bed6246d3cafec8",
+    "stale": false
+  },
+  "prerequisites": [
+    "integumentary-system-anatomy-and-physiology",
+    "neoplasia-and-cancer-biology"
+  ]
+}

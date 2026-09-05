@@ -1,0 +1,10 @@
+{
+  "id": "skin-cancer-mechanisms-m1",
+  "conceptId": "skin-cancer-mechanisms",
+  "text": {
+    "en": "I think only people with a history of severe sunburns are at real risk of skin cancer, so cumulative low-level sun exposure without ever burning doesn't meaningfully contribute -- in reality, cumulative UV-induced DNA damage over time contributes to skin cancer risk even without a history of severe burns; both cumulative low-level exposure and intense intermittent burning exposure contribute mutational damage, via somewhat different patterns tied to different cancer types.",
+    "et": "Arvan, et ainult inimesed, kellel on esinenud tõsiseid päikesepõletusi, on tegelikus nahavähi riskis, mistõttu kumulatiivne madala tasemega päikese käes viibimine ilma kunagi põlemata ei panusta oluliselt -- tegelikult panustab aja jooksul kuhjuv UV-põhjustatud DNA kahjustus nahavähi riski isegi ilma tõsiste põletuste ajaloota; nii kumulatiivne madala tasemega kokkupuude kui intensiivne vahelduv põletuskokkupuude panustavad mutatsioonilisse kahjustusse, mõnevõrra erinevate mustrite kaudu, mis on seotud erinevate vähitüüpidega.",
+    "sourceHash": "00cd90abca01bb39",
+    "stale": false
+  }
+}

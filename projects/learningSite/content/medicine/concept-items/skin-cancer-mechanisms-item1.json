@@ -1,0 +1,56 @@
+{
+  "id": "skin-cancer-mechanisms-item1",
+  "conceptId": "skin-cancer-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why do basal cell/squamous cell carcinoma and melanoma behave so differently (e.g. melanoma spreading far more readily), even though both can be triggered by UV damage?",
+    "et": "Miks käituvad basaalrakuline/lamerakuline kartsinoom ja melanoom nii erinevalt (nt melanoom levib palju kergemini), kuigi mõlemat võib vallandada UV-kahjustus?",
+    "sourceHash": "4ee287a0bf8303cd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because they arise from different cell types -- basal cell/squamous cell carcinoma from keratinocytes, melanoma from melanocytes -- and that different cell of origin, not just how much UV damage occurred, drives their very different growth and metastatic behavior.",
+        "et": "Sest need tekivad erinevatest rakutüüpidest -- basaalrakuline/lamerakuline kartsinoom keratinotsüütidest, melanoom melanotsüütidest -- ning see erinev rakupäritolu, mitte lihtsalt see, kui palju UV-kahjustust tekkis, juhib nende väga erinevat kasvu- ja metastaseerumiskäitumist.",
+        "sourceHash": "82844c122ea9f8ff",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Melanoma is simply a later, more advanced stage of the same disease process as basal cell or squamous cell carcinoma, having progressed further before diagnosis.",
+        "et": "Melanoom on lihtsalt hilisem, kaugemale arenenud staadium samast haigusprotsessist, mis on enne diagnoosimist rohkem edenenud.",
+        "sourceHash": "dfce8bbcd091d5a1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skin-cancer-mechanisms-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because melanoma only occurs after a history of severe, blistering sunburns, while basal cell/squamous cell carcinoma results from any other UV exposure pattern.",
+        "et": "Sest melanoom tekib ainult pärast tõsiste, villidega päikesepõletuste ajalugu, samas kui basaalrakuline/lamerakuline kartsinoom tuleneb mistahes muust UV kokkupuute mustrist.",
+        "sourceHash": "5d8ba9126169e051",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skin-cancer-mechanisms-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because melanoma only affects fair-skinned people, whose lack of melanin makes their melanocytes uniquely vulnerable in a way keratinocytes never are.",
+        "et": "Sest melanoom mõjutab ainult heledanahalisi inimesi, kelle melaniinipuudus muudab nende melanotsüüdid unikaalselt haavatavaks viisil, mida keratinotsüütidel kunagi ei esine.",
+        "sourceHash": "4092af3b00a3d4dd",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skin-cancer-mechanisms-m3"
+    }
+  ]
+}
