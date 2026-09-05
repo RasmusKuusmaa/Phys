@@ -1,0 +1,10 @@
+{
+  "id": "sexually-transmitted-infection-mechanisms-m3",
+  "conceptId": "sexually-transmitted-infection-mechanisms",
+  "text": {
+    "en": "All viral STIs behave the same way biologically -- they establish an infection and either the immune system clears it or it doesn't -- in reality viral STIs use genuinely different mechanisms: HIV progressively destroys the immune system's own CD4+ cells rather than being cleared or persisting passively, herpes simplex establishes lifelong latency in nerve cells with periodic reactivation rather than being cleared or continuously active, and HPV drives abnormal epithelial cell proliferation that can (for high-risk strains) progress toward cancer -- three mechanistically distinct outcomes, not one shared viral behavior.",
+    "et": "Kõik viiruslikud STLI-d käituvad bioloogiliselt ühtemoodi -- need kehtestavad infektsiooni ning kas immuunsüsteem kõrvaldab selle või mitte -- tegelikult kasutavad viiruslikud STLI-d tõeliselt erinevaid mehhanisme: HIV hävitab järk-järgult immuunsüsteemi enda CD4+ rakke, selle asemel et olla kõrvaldatud või passiivselt püsida, herpes simplex kehtestab eluaegse latentsuse närvirakkudes koos perioodilise taasaktiveerumisega, selle asemel et olla kõrvaldatud või pidevalt aktiivne, ning HPV vallandab ebanormaalset epiteelirakkude paljunemist, mis võib (kõrge riskiga tüvede puhul) progresseeruda vähini -- kolm mehhanistlikult erinevat tulemust, mitte üks jagatud viiruslik käitumine.",
+    "sourceHash": "4ed76a099802c7ff",
+    "stale": false
+  }
+}

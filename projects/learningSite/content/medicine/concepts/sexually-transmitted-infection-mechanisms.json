@@ -1,0 +1,22 @@
+{
+  "id": "sexually-transmitted-infection-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "reproductive-medicine",
+  "title": {
+    "en": "Sexually transmitted infection mechanisms",
+    "et": "Sugulisel teel levivate infektsioonide mehhanismid",
+    "sourceHash": "15293cb633132c12",
+    "stale": false
+  },
+  "summary": {
+    "en": "Sexually transmitted infections (STIs) span all three major pathogen categories covered elsewhere in this subject's microbiology module, each establishing infection in the reproductive tract through a different mechanism: bacterial STIs (like chlamydia and gonorrhea) typically infect the mucosal lining of the urethra, cervix, or rectum, where they can trigger inflammation that, left untreated, ascends to the upper reproductive tract and causes scarring capable of blocking the fallopian tubes; viral STIs (like HIV, herpes simplex, and HPV) each exploit a completely different aspect of host biology -- HIV specifically targets and destroys CD4+ immune cells, herpes establishes lifelong latency in nerve cell bodies with periodic reactivation, and HPV infects epithelial basal cells and can drive abnormal cell proliferation that, for certain high-risk strains, progresses toward cervical or other reproductive-tract cancers; and protozoal STIs (like trichomoniasis) cause direct mucosal irritation and inflammation without the latency or systemic immune involvement the viral examples show. A large fraction of STIs, across all three categories, cause no noticeable symptoms in a substantial proportion of infected people, especially in the earliest stage of infection, which is precisely why an absence of symptoms cannot be used to rule out infection or transmission risk.",
+    "et": "Sugulisel teel levivad infektsioonid (STLI-d) hõlmavad kõiki kolme selle aine mikrobioloogia moodulis mujal käsitletud peamist patogeenide kategooriat, millest igaüks kehtestab infektsiooni reproduktiivtraktis erineva mehhanismi kaudu: bakteriaalsed STLI-d (nagu klamüüdia ja gonorröa) nakatavad tüüpiliselt kusiti, emakakaela või pärasoole limaskesta, kus need võivad vallandada põletiku, mis ravimata jätmisel levib ülemisse reproduktiivtrakti ja põhjustab armistumist, mis võib munajuhad ummistada; viiruslikud STLI-d (nagu HIV, herpes simplex ja HPV) kasutavad igaüks ära täiesti erinevat peremeesorganismi bioloogia aspekti -- HIV sihib ja hävitab spetsiifiliselt CD4+ immuunrakke, herpes kehtestab eluaegse latentsuse närvirakkude kehades koos perioodilise taasaktiveerumisega, ning HPV nakatab epiteeli basaalrakke ning võib teatud kõrge riskiga tüvede puhul vallandada ebanormaalset rakkude paljunemist, mis progresseerub emakakaela- või teiste reproduktiivtrakti vähkideni; ning protosooalsed STLI-d (nagu trihhomoniaas) põhjustavad otsest limaskesta ärritust ja põletikku ilma viiruslike näidete latentsuse või süsteemse immuunosalusteta. Suur osa STLI-dest, kõigis kolmes kategoorias, ei põhjusta märkimisväärses osas nakatunud inimestest mingeid märgatavaid sümptomeid, eriti infektsiooni kõige varasemas staadiumis, mis ongi täpselt põhjus, miks sümptomite puudumist ei saa kasutada infektsiooni või ülekandumisohu välistamiseks.",
+    "sourceHash": "44ccc44b08cc592d",
+    "stale": false
+  },
+  "prerequisites": [
+    "reproductive-system-anatomy-and-physiology",
+    "host-pathogen-interactions-and-virulence"
+  ]
+}
