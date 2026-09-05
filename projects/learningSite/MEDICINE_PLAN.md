@@ -1124,32 +1124,92 @@ comprehensiveness judgment — same "survey before committing" discipline
 Phase GE4 used. Five genuine gaps found, each added to its most relevant
 existing module rather than inventing a new one:
 
-- [ ] Pain physiology and nociception (nociceptor mechanism, the pain
+- [x] Pain physiology and nociception (nociceptor mechanism, the pain
       pathway from peripheral nerve to cortex — an entire standard topic
       no existing neuroscience concept covered; module `neuroscience`;
-      prerequisite: neuron-structure-and-the-action-potential)
-- [ ] Transplant immunology and rejection mechanisms (hyperacute/acute/
+      prerequisite: neuron-structure-and-the-action-potential; kept
+      conceptual)
+- [x] Transplant immunology and rejection mechanisms (hyperacute/acute/
       chronic rejection as distinct immune mechanisms, graft-versus-host
       disease — a standard immunology topic entirely absent; module
       `immunology`; prerequisites: adaptive-immunity-and-lymphocytes,
-      autoimmunity-and-hypersensitivity)
-- [ ] Congenital and developmental disorder mechanisms (teratogenesis,
+      autoimmunity-and-hypersensitivity; kept conceptual)
+- [x] Congenital and developmental disorder mechanisms (teratogenesis,
       birth-defect mechanism categories — genetic, environmental, and
       combined; module `genetics-and-molecular-genetics`; prerequisite:
-      genetic-disorders-and-inheritance-mechanisms)
-- [ ] Nutritional deficiency and inborn metabolic disease mechanisms
+      genetic-disorders-and-inheritance-mechanisms; kept conceptual)
+- [x] Nutritional deficiency and inborn metabolic disease mechanisms
       (vitamin/mineral deficiency mechanisms, inborn errors of metabolism —
       the clinical-mechanism depth version of nutrition, distinct from
       biohacking's applied-optimization angle; module `endocrinology`;
-      no prerequisites)
-- [ ] Toxicology and poisoning mechanisms (environmental/heavy-metal/gas
+      no prerequisites; kept conceptual)
+- [x] Toxicology and poisoning mechanisms (environmental/heavy-metal/gas
       poisoning mechanisms — extending the existing adverse-drug-reactions-
       and-toxicology concept's pharmacologic-toxicology scope to
       non-pharmaceutical toxins; module `pharmacology`; prerequisite:
-      adverse-drug-reactions-and-toxicology)
+      adverse-drug-reactions-and-toxicology; kept conceptual)
 
-Authoring these five directly (not via forks) — small enough batch, and
-lets the coordinator do hands-on quality control immediately before
-judging the subject.
+Authored these five directly (not via forks) — small enough batch, and let
+the coordinator do hands-on quality control immediately before judging the
+subject. All five stayed conceptual — each concept's real content is a
+mechanistic distinction (dual-pathway pain modulation, three rejection
+timescales, three routes to a birth defect, deficiency vs. broken-enzyme
+metabolic disease, mechanism-specific poisoning), not a single clean
+numeric relationship. One terminology fix needed: the pain-physiology
+concept's Estonian summary originally used "kaal" (weight) to mean
+"emotional weight," which trips the banned-variant linter regardless of
+correct usage (the same false-positive class Phase AE4 hit) — rephrased to
+"emotsionaalne tähendus." All 10 resource URLs individually curl-verified
+live; three Estonian resources are honest adjacent matches rather than
+exact-topic matches, since Estonian Wikipedia has no dedicated article at
+these exact scopes: `pain-physiology-and-nociception` links to the general
+"Valu" (pain) article, `transplant-immunology-and-rejection-mechanisms`
+links to "Siirdamine" (transplantation generally), and `congenital-and-
+developmental-disorder-mechanisms` links to "Platsentaarbarjäär" (placental
+barrier, directly relevant to the teratogen-crossing mechanism the concept
+explains). No new glossary terms needed. `npm run validate:content` (9
+subjects, 647 concepts), `npm run lint:terminology` (266 glossary terms),
+`npm run typecheck`, and the full test suite (150/150) all pass; working
+tree clean.
+
+Phase Med11 complete: 125 medicine concepts total (5 new closing-gap
+concepts on top of the 120-concept Phase Med1-Med10 baseline).
+
+## Medicine judged comprehensive
+
+Same reasoning and same depth target as the four already-comprehensive
+subjects (physics, mathematics, chemistry, materials-science) and the two
+newer ones (aerospace-engineering, general-engineering): after eleven
+phases spanning ten foundational biomedical-science modules (cell/
+molecular biology, human anatomy and physiology, genetics, microbiology,
+immunology, general pathology, pharmacology, biostatistics/epidemiology,
+neuroscience, endocrinology) and ten organ-system/specialty modules
+(cardiovascular, respiratory, gastrointestinal/hepatic, renal/urologic,
+hematology/oncology, musculoskeletal/rheumatology, reproductive medicine,
+dermatology, infectious disease, psychiatry/behavioral medicine), plus a
+closing gap sweep (pain physiology, transplant immunology, congenital
+disorders, nutritional/metabolic disease, toxicology), medicine now covers
+every theme in this plan's original "what someone has to learn to become a
+scientist on any medical topic" framing — from the cell up through every
+major organ system — at the same taught-medical-school/biomedical-PhD
+depth target every phase in this file committed to. 125 concepts, the
+second-largest subject on the site after physics, reflecting the genuinely
+large scope the user's own framing called for.
+
+Same standing caveats as every prior comprehensiveness judgment in this
+file: this is not a claim that zero further medical content could ever be
+added (deeper sub-specialty detail within any organ system, a dedicated
+pediatrics/geriatrics lifespan module, deeper surgical/procedural
+mechanism, and more could all still be added later — see `QUESTIONS.md`),
+and the large volume of biology/medical Estonian terminology this entire
+subject introduced (the first biology/medicine domain in this site's
+glossary-adjacent vocabulary) has not been through the glossary's normal
+locked-first native-speaker review process, the same standing flag every
+new-domain phase on this site has carried since the original MSc-physics
+phase. Also flagging again, as its own separate item in `QUESTIONS.md`: two
+forks during this subject's build significantly exceeded their assigned
+scope (see the Phase BH2-BH3 and Med5-Med7 notes) — reviewed and kept
+because the content was good and matched this plan's own intentions, but a
+real process issue independent of that outcome.
 
 ---
