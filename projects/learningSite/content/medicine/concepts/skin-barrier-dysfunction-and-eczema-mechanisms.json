@@ -1,0 +1,21 @@
+{
+  "id": "skin-barrier-dysfunction-and-eczema-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "dermatology",
+  "title": {
+    "en": "Skin barrier dysfunction and eczema mechanisms",
+    "et": "Nahabarjääri talitlushäire ja ekseemi mehhanismid",
+    "sourceHash": "c1fb61c5c844129a",
+    "stale": false
+  },
+  "summary": {
+    "en": "Atopic dermatitis (eczema) begins with a structural problem, not primarily an allergic one: mutations or reduced function in barrier proteins like filaggrin (which normally helps keratinocytes flatten and pack tightly together with a sealing lipid layer) leave the epidermis's outer barrier physically leaky, so water escapes outward and allergens, irritants, and microbes penetrate inward far more easily than through intact skin; that barrier breach is what triggers the immune system's inflammatory response (itching, redness, the urge to scratch) in the first place, and scratching itself further damages the already-compromised barrier, creating a self-sustaining itch-scratch cycle that keeps the underlying structural defect exposed to renewed irritation and infection.",
+    "et": "Atoopiline dermatiit (ekseem) algab struktuurse, mitte esmalt allergilise probleemiga: mutatsioonid või vähenenud talitlus barjäärivalkudes nagu filaggriin (mis tavaliselt aitab keratinotsüütidel lamenduda ja tihedalt kokku pakkida koos sulgeva lipiidikihiga) jätavad epidermise välise barjääri füüsiliselt lekkivaks, mistõttu vesi pääseb välja ning allergeenid, ärritajad ja mikroobid tungivad sisse palju kergemini kui terve naha kaudu; just see barjääri rike vallandab immuunsüsteemi põletikulise vastuse (sügelus, punetus, kriimustamistung), ning kriimustamine ise kahjustab juba niigi kahjustatud barjääri veelgi, luues iseennast toitva sügelemis-kriimustamise tsükli, mis hoiab alusoleva struktuurse defekti pidevalt uue ärrituse ja infektsiooni käes.",
+    "sourceHash": "814af6eb6d10d344",
+    "stale": false
+  },
+  "prerequisites": [
+    "integumentary-system-anatomy-and-physiology"
+  ]
+}

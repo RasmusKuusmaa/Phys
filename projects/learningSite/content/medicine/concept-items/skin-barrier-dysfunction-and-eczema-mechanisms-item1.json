@@ -1,0 +1,56 @@
+{
+  "id": "skin-barrier-dysfunction-and-eczema-mechanisms-item1",
+  "conceptId": "skin-barrier-dysfunction-and-eczema-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why does scratching an itchy eczema patch tend to make the condition worse rather than providing lasting relief?",
+    "et": "Miks kipub sügeleva ekseemilaigu kriimustamine seisundit halvendama, selle asemel et pakkuda püsivat leevendust?",
+    "sourceHash": "bde8268aaaa8587b",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because scratching mechanically damages the already barrier-compromised skin further, feeding a self-sustaining itch-scratch cycle that worsens the structural defect underneath.",
+        "et": "Sest kriimustamine kahjustab mehaaniliselt juba barjääri poolest kahjustatud nahka veelgi, toites iseennast toitvat sügelemis-kriimustamise tsüklit, mis süvendab alusolevat struktuurset defekti.",
+        "sourceHash": "1ca2ad4c151b71c5",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because scratching further activates an immune system that was already the sole cause of the condition, independent of any physical damage to the skin itself.",
+        "et": "Sest kriimustamine aktiveerib veelgi immuunsüsteemi, mis oli juba seisundi ainus põhjus, sõltumata mistahes füüsilisest kahjustusest nahale endale.",
+        "sourceHash": "8974a4274a6fadea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skin-barrier-dysfunction-and-eczema-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because scratching spreads a contagious skin infection to new areas of skin, the same way scratching would spread any other infectious rash.",
+        "et": "Sest kriimustamine levitab nakkavat nahainfektsiooni uutele nahapiirkondadele, samamoodi nagu kriimustamine levitaks mistahes muud nakkavat löövet.",
+        "sourceHash": "585f65fb4e1291c8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skin-barrier-dysfunction-and-eczema-mechanisms-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It doesn't actually make the condition worse -- scratching only relieves the itch temporarily with no lasting effect on the skin's underlying barrier.",
+        "et": "See tegelikult ei halvenda seisundit -- kriimustamine leevendab sügelust vaid ajutiselt, ilma püsiva mõjuta naha alusbarjäärile.",
+        "sourceHash": "3932280e89f30472",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "skin-barrier-dysfunction-and-eczema-mechanisms-m2"
+    }
+  ]
+}
