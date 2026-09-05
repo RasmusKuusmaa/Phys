@@ -1,0 +1,10 @@
+{
+  "id": "antimicrobial-stewardship-and-population-level-resistance-m2",
+  "conceptId": "antimicrobial-stewardship-and-population-level-resistance",
+  "text": {
+    "en": "Using antibiotics more often or more broadly, 'just in case,' doesn't meaningfully change the resistance landscape as long as each individual course is completed properly -- in reality any antibiotic exposure exerts selective pressure on the broader bacterial population present, killing susceptible organisms and disproportionately favoring survival of any that already carry resistance, regardless of whether an individual course is completed correctly; heavier or less targeted use shifts the resistance profile of circulating bacteria at the population level.",
+    "et": "Antibiootikumide sagedasem või laiem kasutamine 'igaks juhuks' ei muuda resistentsuse olukorda oluliselt, kuni iga individuaalne kuur läbitakse korralikult -- tegelikult avaldab iga antibiootikumi kokkupuude valikusurvet laiemale kohalolevale bakteripopulatsioonile, tappes tundlikud organismid ja soosides ebaproportsionaalselt nende ellujäämist, kellel juba on resistentsus, sõltumata sellest, kas individuaalne kuur läbitakse õigesti; intensiivsem või vähem sihitud kasutamine nihutab ringlevate bakterite resistentsusprofiili populatsioonitasandil.",
+    "sourceHash": "64f97abae4738b9d",
+    "stale": false
+  }
+}

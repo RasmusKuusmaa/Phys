@@ -1,0 +1,10 @@
+{
+  "id": "antimicrobial-stewardship-and-population-level-resistance-m3",
+  "conceptId": "antimicrobial-stewardship-and-population-level-resistance",
+  "text": {
+    "en": "A resistance mechanism that evolves in one bacterial species has to independently re-evolve before it could appear in a different species -- in reality because resistance genes are often carried on plasmids capable of horizontal transfer via conjugation, a resistance mechanism that evolved once in one bacterial species can spread directly into an entirely different species without needing to evolve independently there, far faster than waiting for the same mutation to arise again by chance.",
+    "et": "Resistentsusmehhanism, mis areneb ühes bakteriliigis, peab enne teises liigis ilmumist iseseisvalt uuesti arenema -- tegelikult, kuna resistentsusgeenid asuvad sageli plasmiididel, mis on võimelised horisontaalseks ülekandeks konjugatsiooni teel, saab ühes bakteriliigis korra arenenud resistentsusmehhanism levida otse täiesti teise liiki, ilma et see peaks seal iseseisvalt arenema, palju kiiremini, kui oodata, et sama mutatsioon juhuslikult uuesti tekiks.",
+    "sourceHash": "1f8fa1baaff92164",
+    "stale": false
+  }
+}

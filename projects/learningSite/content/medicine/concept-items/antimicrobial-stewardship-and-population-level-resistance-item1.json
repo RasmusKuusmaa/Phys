@@ -1,0 +1,56 @@
+{
+  "id": "antimicrobial-stewardship-and-population-level-resistance-item1",
+  "conceptId": "antimicrobial-stewardship-and-population-level-resistance",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A hospital significantly increases its use of a broad-spectrum antibiotic 'just in case' across many patients, even when a narrower drug would often have worked. Why is this considered a population-level resistance risk, not just a matter of what's best for each individual patient?",
+    "et": "Haigla suurendab oluliselt laia toimespektriga antibiootikumi kasutamist 'igaks juhuks' paljudel patsientidel, isegi kui kitsam ravim oleks sageli töötanud. Miks peetakse seda populatsioonitasandi resistentsuse riskiks, mitte lihtsalt küsimuseks sellest, mis on iga üksiku patsiendi jaoks parim?",
+    "sourceHash": "1dc14e999fdd8167",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Broader antibiotic exposure applies selective pressure across the entire bacterial population circulating in that setting, favoring survival of any organisms that already carry resistance mechanisms -- and because resistance genes can transfer between bacteria (even across species) via plasmids, that shift can spread beyond the originally treated patients.",
+        "et": "Laiem antibiootikumi kokkupuude avaldab valikusurvet kogu selles keskkonnas ringlevale bakteripopulatsioonile, soosides nende organismide ellujäämist, kellel juba on resistentsusmehhanismid -- ning kuna resistentsusgeenid saavad bakterite vahel (isegi eri liikide vahel) plasmiidide kaudu üle kanduda, võib see nihe levida kaugemale algselt ravitud patsientidest.",
+        "sourceHash": "d7e609c75f313c73",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't actually a meaningful risk as long as each patient's antibiotic course is properly dosed and completed in full.",
+        "et": "See ei ole tegelikult oluline risk, kuni iga patsiendi antibiootikumikuur on korralikult doseeritud ja täielikult läbitud.",
+        "sourceHash": "18fd764a840c2e2d",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "antimicrobial-stewardship-and-population-level-resistance-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Any resistance that develops is confined to the specific bacteria causing each patient's own infection and has no way of affecting other patients.",
+        "et": "Igasugune tekkiv resistentsus piirdub konkreetsete bakteritega, mis põhjustavad iga patsiendi enda infektsiooni, ning ei saa kuidagi mõjutada teisi patsiente.",
+        "sourceHash": "a7fed0b73dc6d9da",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "antimicrobial-stewardship-and-population-level-resistance-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "A resistance mechanism arising in one bacterial species would need to independently evolve again from scratch before it could appear in a different bacterial species in the same hospital.",
+        "et": "Ühes bakteriliigis tekkiv resistentsusmehhanism peaks enne teises samas haiglas oleva bakteriliigi juures ilmumist iseseisvalt nullist uuesti arenema.",
+        "sourceHash": "61fb42db6cbf3d03",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "antimicrobial-stewardship-and-population-level-resistance-m3"
+    }
+  ]
+}

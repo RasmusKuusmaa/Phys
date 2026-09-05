@@ -1,0 +1,10 @@
+{
+  "id": "antimicrobial-stewardship-and-population-level-resistance-m1",
+  "conceptId": "antimicrobial-stewardship-and-population-level-resistance",
+  "text": {
+    "en": "Antibiotic resistance in one patient's bacteria is that patient's own problem and can't affect anyone else -- in reality resistance genes are frequently carried on mobile genetic elements (plasmids) that can transfer directly between bacterial cells, even across species, through conjugation, and antibiotic use itself exerts selective pressure on the entire local bacterial population, not just the organism causing one patient's infection; resistance that develops in one setting can spread to bacteria that go on to infect other people.",
+    "et": "Antibiootikumiresistentsus ühe patsiendi bakterites on selle patsiendi enda probleem ega saa kedagi teist mõjutada -- tegelikult asuvad resistentsusgeenid sageli mobiilsetel geneetilistel elementidel (plasmiididel), mis saavad üle kanduda otse bakterirakkude vahel, isegi eri liikide vahel, konjugatsiooni teel, ning antibiootikumide kasutamine ise avaldab valikusurvet kogu kohalikule bakteripopulatsioonile, mitte ainult organismile, mis põhjustab ühe patsiendi infektsiooni; ühes keskkonnas tekkiv resistentsus võib levida bakteritele, kes nakatavad edaspidi teisi inimesi.",
+    "sourceHash": "9814fdfb3394e2c4",
+    "stale": false
+  }
+}
