@@ -1107,4 +1107,49 @@ used). All 12 resource URLs individually curl-verified live. `npm run
 validate:content` (9 subjects, 642 concepts), `npm run lint:terminology`
 (266 glossary terms), and `npm run typecheck` all pass.
 
+Phase Med10 complete: 120 medicine concepts total (12 new Phase-Med10
+concepts on top of the 108-concept Phase Med1-Med9 baseline) — the ninth
+and tenth organ-system/specialty modules, completing roadmap items 1-20 in
+full. Both forks stayed strictly within their directive. `npm run
+validate:content` (9 subjects, 642 concepts), `npm run lint:terminology`
+(266 glossary terms), and `npm run typecheck` all pass; working tree clean.
+
+## Phase Med11 — closing gap sweep
+
+Roadmap item 21. With all 20 named foundational-science and organ-system
+modules now built, surveyed for genuine standard-textbook gaps not
+overlapping any existing concept before considering this subject for a
+comprehensiveness judgment — same "survey before committing" discipline
+`AEROSPACE_ENGINEERING_PLAN.md`'s Phase AE4 and `GENERAL_ENGINEERING_PLAN.md`'s
+Phase GE4 used. Five genuine gaps found, each added to its most relevant
+existing module rather than inventing a new one:
+
+- [ ] Pain physiology and nociception (nociceptor mechanism, the pain
+      pathway from peripheral nerve to cortex — an entire standard topic
+      no existing neuroscience concept covered; module `neuroscience`;
+      prerequisite: neuron-structure-and-the-action-potential)
+- [ ] Transplant immunology and rejection mechanisms (hyperacute/acute/
+      chronic rejection as distinct immune mechanisms, graft-versus-host
+      disease — a standard immunology topic entirely absent; module
+      `immunology`; prerequisites: adaptive-immunity-and-lymphocytes,
+      autoimmunity-and-hypersensitivity)
+- [ ] Congenital and developmental disorder mechanisms (teratogenesis,
+      birth-defect mechanism categories — genetic, environmental, and
+      combined; module `genetics-and-molecular-genetics`; prerequisite:
+      genetic-disorders-and-inheritance-mechanisms)
+- [ ] Nutritional deficiency and inborn metabolic disease mechanisms
+      (vitamin/mineral deficiency mechanisms, inborn errors of metabolism —
+      the clinical-mechanism depth version of nutrition, distinct from
+      biohacking's applied-optimization angle; module `endocrinology`;
+      no prerequisites)
+- [ ] Toxicology and poisoning mechanisms (environmental/heavy-metal/gas
+      poisoning mechanisms — extending the existing adverse-drug-reactions-
+      and-toxicology concept's pharmacologic-toxicology scope to
+      non-pharmaceutical toxins; module `pharmacology`; prerequisite:
+      adverse-drug-reactions-and-toxicology)
+
+Authoring these five directly (not via forks) — small enough batch, and
+lets the coordinator do hands-on quality control immediately before
+judging the subject.
+
 ---
