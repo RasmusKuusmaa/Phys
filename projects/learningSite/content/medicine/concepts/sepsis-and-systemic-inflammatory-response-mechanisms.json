@@ -1,0 +1,22 @@
+{
+  "id": "sepsis-and-systemic-inflammatory-response-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "infectious-disease",
+  "title": {
+    "en": "Sepsis and systemic inflammatory response mechanisms",
+    "et": "Sepsis ja süsteemse põletikulise reaktsiooni mehhanismid",
+    "sourceHash": "54d32a2d8fd16412",
+    "stale": false
+  },
+  "summary": {
+    "en": "A local infection stays a local problem as long as the innate immune response it triggers -- the recruitment of phagocytes, the release of inflammatory signaling molecules, the leaky, dilated blood vessels that let immune cells reach the site -- remains confined to the infected tissue itself; sepsis is what happens when that same inflammatory response escapes containment and becomes systemic, with the signaling molecules that were meant to coordinate a local defense instead circulating throughout the entire bloodstream and triggering the same effects everywhere at once. Widespread vessel dilation and leakiness that would help fight infection in one infected toe becomes catastrophic when it happens throughout the entire vascular system simultaneously, since blood pressure collapses and fluid leaks out of vessels faster than the heart can compensate, starving organs of the blood flow they need regardless of how healthy those organs are; this is why sepsis kills through organ failure in tissue nowhere near the original infection, not through the infection itself spreading everywhere. The immune system's own molecules, not the pathogen directly, do most of the damage in this picture -- sepsis is fundamentally a disorder of a normally protective response overshooting its target, which is exactly why treating the underlying infection alone is not enough once the systemic cascade has already begun; the vascular and organ-perfusion crisis has to be addressed as its own problem.",
+    "et": "Kohalik infektsioon püsib kohaliku probleemina seni, kuni sellest vallandunud kaasasündinud immuunvastus -- fagotsüütide värbamine, põletikuliste signaalmolekulide vabanemine, lekkivad ja laienenud veresooned, mis lasevad immuunrakkudel kohale jõuda -- jääb piirduma nakatunud koega endaga; sepsis on see, mis juhtub, kui sama põletikuline vastus pääseb kontrolli alt välja ja muutub süsteemseks, kusjuures signaalmolekulid, mis pidid koordineerima kohalikku kaitset, ringlevad selle asemel kogu vereringes ja vallandavad samu efekte kõikjal korraga. Ulatuslik veresoonte laienemine ja lekkimine, mis aitaks võidelda infektsiooniga ühes nakatunud varbas, muutub katastroofiliseks, kui see toimub kogu veresoonkonnas samaaegselt, sest vererõhk langeb ja vedelik lekib veresoontest kiiremini, kui süda suudab kompenseerida, jättes elundid ilma verevoolust, mida nad vajavad, olenemata sellest, kui terved need elundid on; see ongi põhjus, miks sepsis tapab elundipuudulikkuse kaudu koes, mis on esialgsest infektsioonikohast kaugel, mitte infektsiooni enda leviku kaudu kõikjale. Immuunsüsteemi enda molekulid, mitte patogeen otseselt, teevad selles pildis enamiku kahjust -- sepsis on põhimõtteliselt normaalselt kaitsva vastuse enda sihtmärgist ülelaskumise häire, mis on täpselt põhjus, miks aluseks oleva infektsiooni ravimisest üksi ei piisa, kui süsteemne kaskaad on juba alanud; veresoonkonna ja elundite perfusiooni kriisi tuleb käsitleda kui iseseisvat probleemi.",
+    "sourceHash": "d750c9e8516a724e",
+    "stale": false
+  },
+  "prerequisites": [
+    "host-pathogen-interactions-and-virulence",
+    "innate-immunity-and-inflammation"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sepsis-and-systemic-inflammatory-response-mechanisms-m2",
+  "conceptId": "sepsis-and-systemic-inflammatory-response-mechanisms",
+  "text": {
+    "en": "The organ damage in sepsis happens because the infection has spread to those organs -- in reality most sepsis cases involve organ failure (kidneys, liver, lungs) in tissue that is not itself infected -- the damage comes from inadequate blood flow and oxygen delivery caused by the systemic vascular effects of the immune response, not from the pathogen directly invading and damaging that tissue.",
+    "et": "Sepsise korral tekkiv elundikahjustus toimub seetõttu, et infektsioon on levinud neisse elunditesse -- tegelikult ei ole enamikul sepsisejuhtudel puudulikkust näitavad elundid (neerud, maks, kopsud) ise nakatunud -- kahjustus tuleneb ebapiisavast verevoolust ja hapnikuvarustusest, mille põhjustavad immuunvastuse süsteemsed veresoonkonna mõjud, mitte patogeeni otsesest tungimisest ja selle koe kahjustamisest.",
+    "sourceHash": "f88098e8dc947ec7",
+    "stale": false
+  }
+}

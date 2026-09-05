@@ -1,0 +1,10 @@
+{
+  "id": "sepsis-and-systemic-inflammatory-response-mechanisms-m1",
+  "conceptId": "sepsis-and-systemic-inflammatory-response-mechanisms",
+  "text": {
+    "en": "Sepsis is just a severe or advanced version of a normal infection response -- the same process, just more of it -- in reality sepsis is a qualitatively different, dysregulated process, not simply 'more' of a working immune response; a normally protective, localized inflammatory response has escaped containment and become a systemic disorder in its own right, with its own distinct pathology (vascular collapse, organ hypoperfusion) that can continue getting worse even as the original infection is being treated.",
+    "et": "Sepsis on lihtsalt normaalse infektsioonivastuse raske või kaugelearenenud versioon -- sama protsess, lihtsalt rohkem seda -- tegelikult on sepsis kvalitatiivselt erinev, düsreguleeritud protsess, mitte lihtsalt 'rohkem' toimivat immuunvastust; normaalselt kaitsev, kohalik põletikuline vastus on pääsenud kontrolli alt välja ja muutunud iseseisvaks süsteemseks häireks, millel on oma eristuv patoloogia (veresoonkonna kollaps, elundite hüpoperfusioon), mis võib jätkuvalt halveneda isegi siis, kui esialgset infektsiooni juba ravitakse.",
+    "sourceHash": "f435b8c2be397ab4",
+    "stale": false
+  }
+}

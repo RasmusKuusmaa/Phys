@@ -1,0 +1,10 @@
+{
+  "id": "sepsis-and-systemic-inflammatory-response-mechanisms-m3",
+  "conceptId": "sepsis-and-systemic-inflammatory-response-mechanisms",
+  "text": {
+    "en": "Once sepsis starts, giving antibiotics to clear the underlying infection is the whole treatment -- fixing the infection fixes the sepsis -- in reality the systemic inflammatory cascade and its vascular/organ-perfusion consequences can continue and even worsen after the triggering pathogen is substantially cleared, because the cascade has become somewhat self-sustaining; the vascular crisis itself has to be managed as a distinct problem alongside treating the infection, not as something that resolves automatically once the infection does.",
+    "et": "Kui sepsis on alanud, on aluseks oleva infektsiooni kõrvaldamiseks antibiootikumide andmine kogu ravi -- infektsiooni parandamine parandab sepsise -- tegelikult võib süsteemne põletikuline kaskaad ja selle veresoonkonna/elundite perfusiooni tagajärjed jätkuda ja isegi süveneda pärast seda, kui vallandav patogeen on suures osas kõrvaldatud, kuna kaskaad on muutunud mõneti iseennast toitvaks; veresoonkonna kriisi tuleb käsitleda iseseisva probleemina koos infektsiooni ravimisega, mitte millegina, mis laheneb automaatselt koos infektsiooniga.",
+    "sourceHash": "641b65a390192b38",
+    "stale": false
+  }
+}
