@@ -1,0 +1,10 @@
+{
+  "id": "speciation-and-phylogenetics-m1",
+  "conceptId": "speciation-and-phylogenetics",
+  "text": {
+    "en": "Two organisms are more closely related if they look more similar to each other, regardless of ancestry -- in reality, phylogenetic relationship is defined strictly by recency of common ancestry, not physical resemblance; two species can look very similar through convergent evolution (independently evolving similar traits for similar environmental pressures) while being only distantly related, and two species can look very different while being close relatives.",
+    "et": "Kaks organismi on lähemalt suguluses, kui nad näevad üksteisega sarnasemad välja, sõltumata põlvnemisest -- tegelikult on fülogeneetiline suhe määratletud rangelt ühise esivanema lähedusega, mitte füüsilise sarnasusega; kaks liiki võivad näha väga sarnased välja konvergentse evolutsiooni tõttu (sarnaste tunnuste iseseisev areng sarnaste keskkonnasurvete tõttu), olles ainult kaugelt suguluses, ning kaks liiki võivad näha väga erinevad välja, olles lähedased sugulased.",
+    "sourceHash": "38eeb55f085c1fed",
+    "stale": false
+  }
+}

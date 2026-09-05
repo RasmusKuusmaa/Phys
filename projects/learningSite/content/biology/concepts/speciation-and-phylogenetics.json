@@ -1,0 +1,21 @@
+{
+  "id": "speciation-and-phylogenetics",
+  "subject": "biology",
+  "level": "L2",
+  "module": "biology-fundamentals",
+  "title": {
+    "en": "Speciation and phylogenetics",
+    "et": "Liigiteke ja fülogeneetika",
+    "sourceHash": "da18586cfd8a2371",
+    "stale": false
+  },
+  "summary": {
+    "en": "A species boundary is not a fixed line drawn once and for all -- it forms gradually as two populations of a single ancestral species accumulate enough genetic divergence that they can no longer interbreed and produce fertile offspring, a process called speciation. Allopatric speciation is the most common route: a geographic barrier (a new mountain range, a river changing course, colonization of an island) physically separates two populations, and because natural selection and genetic drift act independently on each isolated population, they accumulate different mutations and adaptations over generations until they are reproductively isolated even if the barrier later disappears and they come back into contact. Sympatric speciation is rarer but real: reproductive isolation can arise without any geographic separation at all, for instance through a sudden change in chromosome number (polyploidy, common in plants) that instantly prevents successful interbreeding with the parent population, or through strong disruptive selection on a shared habitat that splits a population into non-interbreeding groups. Once speciation events have accumulated across the history of life, phylogenetics is the discipline of reconstructing those branching relationships and representing them as a phylogenetic tree, in which every branch point represents a common ancestor shared by everything descending from it -- so two species that share a more recent common ancestor with each other than either does with a third species are, by definition, more closely related, regardless of how superficially similar or different they happen to look.",
+    "et": "Liigipiir ei ole kord ja lõplikult tõmmatud kindel joon -- see moodustub järk-järgult, kui ühe esivanema liigi kaks populatsiooni kogunevad piisavalt geneetilist lahknevust, et nad ei suuda enam omavahel ristuda ja viljakaid järglasi toota, protsess nimega liigiteke. Allopatriline liigiteke on kõige levinum tee: geograafiline barjäär (uus mäestik, jõe suunamuutus, saare koloniseerimine) eraldab füüsiliselt kaks populatsiooni, ning kuna looduslik valik ja geneetiline triiv mõjuvad iga isoleeritud populatsiooni peal iseseisvalt, kogunevad neile eri mutatsioonid ja kohastumused põlvkondade jooksul, kuni nad on reproduktiivselt isoleeritud isegi siis, kui barjäär hiljem kaob ja nad taas kokku puutuvad. Sümpatriline liigiteke on harvem, kuid tõeline: reproduktiivne isolatsioon võib tekkida ilma igasuguse geograafilise eraldatuseta, näiteks äkilise kromosoomiarvu muutuse kaudu (polüploidsus, levinud taimedel), mis takistab koheselt edukat ristumist vanempopulatsiooniga, või tugeva lõhestava valiku kaudu ühisel elupaigal, mis lõhub populatsiooni omavahel mitteristuvateks rühmadeks. Kui liigiteke sündmused on kogunenud kogu elu ajaloo vältel, on fülogeneetika distsipliin, mis rekonstrueerib need harunevad suhted ja esitab need fülogeneetilise puuna, milles iga hargnemispunkt esindab ühist esivanemat, keda jagab kõik sellest põlvnev -- seega kaks liiki, kellel on omavahel hilisem ühine esivanem kui kummalgi kolmanda liigiga, on definitsiooni järgi lähemalt suguluses, sõltumata sellest, kui pealiskaudselt sarnased või erinevad nad juhtuvad välja nägema.",
+    "sourceHash": "7c5767ecc97be92f",
+    "stale": false
+  },
+  "prerequisites": [
+    "evolution-and-natural-selection"
+  ]
+}

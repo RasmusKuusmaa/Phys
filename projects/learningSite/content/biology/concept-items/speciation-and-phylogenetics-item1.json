@@ -1,0 +1,56 @@
+{
+  "id": "speciation-and-phylogenetics-item1",
+  "conceptId": "speciation-and-phylogenetics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two beetle populations become separated when a new river forms between them. After many generations, individuals from the two populations can no longer produce fertile offspring together, even after the river dries up and they can physically meet again. What does this scenario illustrate?",
+    "et": "Kaks mardikapopulatsiooni eraldatakse, kui nende vahele tekib uus jõgi. Pärast paljusid põlvkondi ei suuda kahe populatsiooni isendid enam koos viljakaid järglasi toota, isegi pärast seda, kui jõgi kuivab ja nad saavad taas füüsiliselt kohtuda. Mida see stsenaarium illustreerib?",
+    "sourceHash": "1956dbc2ee5e70ad",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Allopatric speciation: the geographic barrier let the two isolated populations accumulate independent genetic changes until they became reproductively isolated, a state that persists even after the barrier disappears.",
+        "et": "Allopatriline liigiteke: geograafiline barjäär lubas kahel isoleeritud populatsioonil koguda iseseisvaid geneetilisi muutusi, kuni nad muutusid reproduktiivselt isoleerituks, seisund, mis püsib ka pärast barjääri kadumist.",
+        "sourceHash": "2a2ece6b5248ab14",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This must be sympatric speciation, since the two populations can now occupy the same location again without a barrier between them.",
+        "et": "See peab olema sümpatriline liigiteke, kuna kaks populatsiooni saavad nüüd taas hõivata sama asukoha, ilma nendevahelise barjäärita.",
+        "sourceHash": "8c914853907d8c8c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "speciation-and-phylogenetics-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The two populations must simply look different enough now that they are considered separate species, regardless of whether they can actually interbreed.",
+        "et": "Kaks populatsiooni peavad nüüd lihtsalt piisavalt erinevad välja nägema, et neid peetakse eraldi liikideks, sõltumata sellest, kas nad tegelikult suudavad omavahel ristuda.",
+        "sourceHash": "02aadeebabf6e486",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "speciation-and-phylogenetics-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "One of the two populations must be more evolutionarily advanced than the other, having progressed further up the ladder toward a more complex organism.",
+        "et": "Üks kahest populatsioonist peab olema evolutsiooniliselt arenenum kui teine, olles edenenud kaugemale redelil keerukama organismi suunas.",
+        "sourceHash": "4f3ce374969e67ad",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "speciation-and-phylogenetics-m3"
+    }
+  ]
+}
