@@ -1,0 +1,10 @@
+{
+  "id": "recursion-and-recursive-algorithms-m3",
+  "conceptId": "recursion-and-recursive-algorithms",
+  "text": {
+    "en": "Each recursive call in a chain computes its final answer immediately when it's made, in the order the calls happen -- in reality, a call only computes its final answer after the call it made has itself returned, so the actual order of computation unwinds from the innermost (base-case) call back outward, the reverse of the order the calls were originally made in.",
+    "et": "Iga rekursiivne kutse ahelas arvutab oma lõpliku vastuse koheselt, kui see tehakse, kutsete tegemise järjekorras -- tegelikult arvutab kutse oma lõpliku vastuse alles pärast seda, kui tema tehtud kutse on ise tagastanud, mistõttu tegelik arvutusjärjekord lahtiharutub kõige seesmisemast (baasjuhu) kutsest tagasi väljapoole, vastupidises järjekorras sellele, milles kutsed algselt tehti.",
+    "sourceHash": "f424ca92420bdd10",
+    "stale": false
+  }
+}

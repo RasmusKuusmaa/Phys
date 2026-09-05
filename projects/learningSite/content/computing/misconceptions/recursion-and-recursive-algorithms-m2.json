@@ -1,0 +1,10 @@
+{
+  "id": "recursion-and-recursive-algorithms-m2",
+  "conceptId": "recursion-and-recursive-algorithms",
+  "text": {
+    "en": "A recursive function without a working base case (or with an unreachable one) will simply compute an incorrect answer -- in reality, it keeps calling itself indefinitely, and since every call adds a new entry to the call stack while none of them ever return, the program eventually runs out of stack space and crashes with a stack overflow rather than quietly returning a wrong number.",
+    "et": "Rekursiivne funktsioon ilma toimiva baasjuhuta (või saavutamatu baasjuhuga) arvutab lihtsalt vale vastuse -- tegelikult kutsub see end lõputult edasi, ning kuna iga kutse lisab kutsete pinusse uue kirje, ilma et ükski neist kunagi tagastaks, saab programm lõpuks pinuruumist otsa ja jookseb kokku pinu ületäitumisega, selle asemel et vaikselt vale numbri tagastada.",
+    "sourceHash": "9f7589ff2c27d57a",
+    "stale": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "recursion-and-recursive-algorithms",
+  "subject": "computing",
+  "level": "L1",
+  "module": "programming-fundamentals",
+  "title": {
+    "en": "Recursion and recursive algorithms",
+    "et": "Rekursioon ja rekursiivsed algoritmid",
+    "sourceHash": "7542211cddda5607",
+    "stale": false
+  },
+  "summary": {
+    "en": "A recursive function is one that calls itself, and every correct recursive function needs exactly two parts working together: a base case that stops the recursion by answering the simplest version of the problem directly with no further self-call, and a recursive case that solves a smaller version of the same problem and combines that smaller answer to solve the current one -- factorial's base case is that 0! equals 1, and its recursive case is that n! equals n times (n-1)!, which is itself just a smaller factorial problem the function solves by calling itself. Every recursive call the program makes is tracked on the call stack, a stack of pending, not-yet-finished function calls, each one waiting for the call it made to return before it can compute its own final answer and return in turn -- which is exactly why a recursive function with no reachable base case, or a base case that's never actually reached, doesn't just compute a wrong answer, it keeps calling itself until the call stack runs out of space and the program crashes with a stack overflow. Recursion is not a fundamentally different computational mechanism from iteration -- any recursive function can be rewritten as an equivalent loop using an explicit stack, and any loop can be rewritten recursively -- it is a different way of expressing the same computation, one that often maps more naturally onto problems that are themselves naturally defined in terms of smaller versions of themselves, like traversing a tree or computing values defined by a recurrence relation.",
+    "et": "Rekursiivne funktsioon on selline, mis kutsub iseennast, ning iga korrektne rekursiivne funktsioon vajab täpselt kahte osa koos töötamas: baasjuhtu, mis peatab rekursiooni, vastates ülesande lihtsaimale versioonile otse ilma edasise iseenda kutsumiseta, ja rekursiivset juhtu, mis lahendab sama ülesande väiksema versiooni ja kombineerib selle väiksema vastuse praeguse lahendamiseks -- faktoriaali baasjuht on see, et 0! võrdub 1-ga, ning selle rekursiivne juht on see, et n! võrdub n korda (n-1)!, mis on iseenesest lihtsalt väiksem faktoriaaliülesanne, mille funktsioon lahendab iseennast kutsudes. Iga rekursiivset kutset, mille programm teeb, jälgitakse kutsete pinus, ootel, veel lõpetamata funktsioonikutsete pinus, kusjuures igaüks ootab, et tema tehtud kutse tagastaks, enne kui saab arvutada oma lõpliku vastuse ja omakorda tagastada -- ning just see ongi põhjus, miks rekursiivne funktsioon ilma saavutatava baasjuhuta, või baasjuhuga, mida kunagi tegelikult ei saavutata, ei arvuta lihtsalt vale vastust, vaid kutsub end edasi, kuni kutsete pinu ruum lõpeb ja programm jookseb kokku pinu ületäitumisega. Rekursioon ei ole iteratsioonist põhimõtteliselt erinev arvutusmehhanism -- iga rekursiivse funktsiooni saab ümber kirjutada samaväärse tsüklina, kasutades selgesõnalist pinu, ja iga tsükli saab ümber kirjutada rekursiivselt -- see on lihtsalt teistsugune viis sama arvutuse väljendamiseks, mis sageli sobib loomulikumalt ülesannetega, mis on ise loomulikult defineeritud iseenda väiksemate versioonide kaudu, nagu puu läbimine või rekurrentse seosega defineeritud väärtuste arvutamine.",
+    "sourceHash": "ffad362712ff60ab",
+    "stale": false
+  },
+  "prerequisites": [
+    "control-flow"
+  ]
+}

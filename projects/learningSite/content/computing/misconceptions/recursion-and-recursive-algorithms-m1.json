@@ -1,0 +1,10 @@
+{
+  "id": "recursion-and-recursive-algorithms-m1",
+  "conceptId": "recursion-and-recursive-algorithms",
+  "text": {
+    "en": "Recursion is a fundamentally different computational mechanism from iteration, capable of expressing things a loop simply cannot -- in reality, any recursive function can be rewritten as an equivalent loop using an explicit stack to track pending work, and any loop can be rewritten recursively; they're two different ways of expressing the same underlying computation, not two different classes of computation.",
+    "et": "Rekursioon on iteratsioonist põhimõtteliselt erinev arvutusmehhanism, mis suudab väljendada asju, mida tsükkel lihtsalt ei suuda -- tegelikult saab iga rekursiivse funktsiooni ümber kirjutada samaväärse tsüklina, kasutades selgesõnalist pinu ootel töö jälgimiseks, ning iga tsükli saab ümber kirjutada rekursiivselt; need on kaks erinevat viisi sama aluseks oleva arvutuse väljendamiseks, mitte kaks erinevat arvutusklassi.",
+    "sourceHash": "58354c2d92912e7a",
+    "stale": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "recursion-and-recursive-algorithms-item1",
+  "conceptId": "recursion-and-recursive-algorithms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A recursive factorial function is called with a negative number, and its base case only checks for n equal to 0. What actually happens when the program runs?",
+    "et": "Rekursiivset faktoriaalifunktsiooni kutsutakse negatiivse arvuga ning selle baasjuht kontrollib ainult, kas n võrdub 0-ga. Mis tegelikult juhtub, kui programm käivitub?",
+    "sourceHash": "bd9b404673c2443f",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The function keeps calling itself with smaller and smaller negative numbers, never reaching the base case, until the call stack runs out of space and the program crashes with a stack overflow.",
+        "et": "Funktsioon kutsub end edasi üha väiksemate negatiivsete arvudega, jõudmata kunagi baasjuhuni, kuni kutsete pinu ruum lõpeb ja programm jookseb kokku pinu ületäitumisega.",
+        "sourceHash": "ddeef64630e0275a",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The function computes an incorrect factorial value for the negative input and returns that wrong number normally.",
+        "et": "Funktsioon arvutab negatiivse sisendi jaoks vale faktoriaaliväärtuse ja tagastab selle vale numbri normaalselt.",
+        "sourceHash": "d37a3593009241fa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "recursion-and-recursive-algorithms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The recursive case immediately detects that no base case will ever be reached and returns an error value right away.",
+        "et": "Rekursiivne juht tuvastab kohe, et baasjuhtu ei saavutata kunagi, ja tagastab kohe veaväärtuse.",
+        "sourceHash": "e80a4dba4945b4c7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "recursion-and-recursive-algorithms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since recursion is just a different notation for the same loop-based computation, the program silently converts this into an equivalent finite loop and exits normally.",
+        "et": "Kuna rekursioon on lihtsalt teistsugune tähistus sama tsükli-põhise arvutuse jaoks, teisendab programm selle vaikimisi samaväärseks lõplikuks tsükliks ja lõpetab normaalselt.",
+        "sourceHash": "22bc272f3c41aa57",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "recursion-and-recursive-algorithms-m3"
+    }
+  ]
+}
