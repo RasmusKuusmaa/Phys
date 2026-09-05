@@ -1,0 +1,10 @@
+{
+  "id": "geotechnical-engineering-and-soil-mechanics-m1",
+  "conceptId": "geotechnical-engineering-and-soil-mechanics",
+  "text": {
+    "en": "Soil is soil -- bearing capacity doesn't meaningfully vary enough between soil types (or with moisture content) to change foundation design decisions -- in reality, bearing capacity varies dramatically with soil type and moisture, which is exactly why soil classification and site-specific investigation, not a generic assumption, drives real foundation design.",
+    "et": "Pinnas on pinnas -- kandevõime ei varieeru pinnasetüüpide (ega niiskusesisalduse) vahel piisavalt, et muuta vundamendi projekteerimise otsuseid -- tegelikult varieerub kandevõime pinnasetüübi ja niiskuse järgi dramaatiliselt, mistõttu pinnase klassifitseerimine ja objektipõhine uuring, mitte üldine eeldus, määrab tegeliku vundamendiprojekti.",
+    "sourceHash": "f148bd60944e8d02",
+    "stale": false
+  }
+}

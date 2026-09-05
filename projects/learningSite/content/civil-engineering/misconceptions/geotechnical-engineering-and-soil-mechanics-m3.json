@@ -1,0 +1,10 @@
+{
+  "id": "geotechnical-engineering-and-soil-mechanics-m3",
+  "conceptId": "geotechnical-engineering-and-soil-mechanics",
+  "text": {
+    "en": "Deep foundations (piles/caissons) are chosen mainly because the structure above is unusually heavy, rather than because of the soil conditions beneath it -- in reality, foundation type is fundamentally a soil-driven decision -- a deep foundation is used specifically when near-surface soil has inadequate or too-variable bearing capacity, regardless of whether the structure itself is unusually heavy.",
+    "et": "Sügavvundamendid (vaiad/kessoonid) valitakse peamiselt seetõttu, et ülalasuv konstruktsioon on ebatavaliselt raske, mitte selle all oleva pinnase tingimuste tõttu -- tegelikult on vundamendi tüüp fundamentaalselt pinnasest lähtuv otsus -- sügavvundamenti kasutatakse spetsiaalselt siis, kui lähipinnasel on ebapiisav või liiga muutlik kandevõime, sõltumata sellest, kas konstruktsioon ise on ebatavaliselt raske.",
+    "sourceHash": "bfc38c79a444922f",
+    "stale": false
+  }
+}

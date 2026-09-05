@@ -1,0 +1,19 @@
+{
+  "id": "geotechnical-engineering-and-soil-mechanics",
+  "subject": "civil-engineering",
+  "level": "L2",
+  "module": "civil-engineering-fundamentals",
+  "title": {
+    "en": "Geotechnical engineering and soil mechanics",
+    "et": "Geotehnika ja pinnasemehaanika",
+    "sourceHash": "4121581bf79b003e",
+    "stale": false
+  },
+  "summary": {
+    "en": "Every structure eventually transfers its entire weight into the ground beneath it, and unlike a structural material engineered to a known, tested specification, soil is a highly variable natural material whose ability to carry that load -- its bearing capacity -- depends on its particle size, density, moisture content, and layering, all of which can vary dramatically from one site, or even one depth, to the next. Classifying a soil (coarse-grained sand and gravel vs. fine-grained silt and clay) is the geotechnical engineer's first step precisely because these categories behave completely differently under load: granular soils drain quickly and gain strength almost immediately once compacted, while clay-rich soils can be strong when dry but lose much of their bearing capacity when saturated, and can also continue settling for years after a structure is built as trapped water is slowly squeezed out under sustained load. This is exactly why foundation type is a soil-driven decision, not a structure-driven one: where near-surface soil has adequate bearing capacity, a shallow foundation can transfer load directly into it, but where near-surface soil is too weak or too variable, a deep foundation instead bypasses that weak layer entirely, carrying the structure's load down to a stronger soil or rock layer far below the surface.",
+    "et": "Iga konstruktsioon kannab lõpuks kogu oma kaalu üle aluspinnasesse, ning erinevalt konstruktsioonimaterjalist, mis on projekteeritud teadaoleva, testitud spetsifikatsiooni järgi, on pinnas väga muutlik looduslik materjal, mille kandevõime sõltub selle osakeste suurusest, tihedusest, niiskusesisaldusest ja kihistumisest -- kõik need võivad ühelt objektilt teisele või isegi ühelt sügavuselt teisele dramaatiliselt varieeruda. Pinnase klassifitseerimine (jämedatera liiv ja kruus vs. peenetera muda ja savi) on geotehnilise inseneri esimene samm just seetõttu, et need kategooriad käituvad koormuse all täiesti erinevalt: liivased pinnased kuivendavad kiiresti ja saavutavad tugevuse peaaegu koheselt pärast tihendamist, samas kui savirikkad pinnased võivad olla tugevad kuivana, kuid kaotavad küllastununa suure osa oma kandevõimest, ning võivad jätkata vajumist aastaid pärast konstruktsiooni valmimist, kuna vangistatud vesi pigistatakse pikaajalise koormuse all aeglaselt välja. Just seepärast on vundamendi tüüp pinnasest lähtuv, mitte konstruktsioonist lähtuv otsus: kus lähipinnasel on piisav kandevõime, saab madal vundament kanda koormuse otse sinna, kuid kus lähipinnas on liiga nõrk või liiga muutlik, möödub sügavvundament sellest nõrgast kihist täielikult, kandes konstruktsiooni koormuse alla tugevamasse pinnase- või kaljukihti kaugel pinna all.",
+    "sourceHash": "14a9c9ce2fd69321",
+    "stale": false
+  },
+  "prerequisites": []
+}

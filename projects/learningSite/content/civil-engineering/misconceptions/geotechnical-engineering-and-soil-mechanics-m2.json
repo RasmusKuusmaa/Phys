@@ -1,0 +1,10 @@
+{
+  "id": "geotechnical-engineering-and-soil-mechanics-m2",
+  "conceptId": "geotechnical-engineering-and-soil-mechanics",
+  "text": {
+    "en": "A structure's settling/settlement is something that happens only during and immediately after construction, then stops -- in reality, clay-rich soils in particular can continue settling for years after a structure is completed, as water trapped in the soil's pore spaces is slowly squeezed out under the sustained weight above (consolidation).",
+    "et": "Konstruktsiooni vajumine on midagi, mis toimub ainult ehituse ajal ja vahetult pärast seda ning siis peatub -- tegelikult võivad eriti savirikkad pinnased jätkata vajumist aastaid pärast konstruktsiooni valmimist, kuna pinnase pooriruumidesse vangistatud vesi pigistatakse ülalasuva püsiva kaalu all aeglaselt välja (konsolideerumine).",
+    "sourceHash": "85053cdf987fa869",
+    "stale": false
+  }
+}

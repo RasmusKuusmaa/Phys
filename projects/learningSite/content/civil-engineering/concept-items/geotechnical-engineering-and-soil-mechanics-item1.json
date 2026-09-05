@@ -1,0 +1,56 @@
+{
+  "id": "geotechnical-engineering-and-soil-mechanics-item1",
+  "conceptId": "geotechnical-engineering-and-soil-mechanics",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two identical buildings are designed for two different sites. One site has dense sand near the surface; the other has soft, saturated clay near the surface. Why might the second site require a completely different (deep) foundation even though the buildings themselves are identical?",
+    "et": "Kaks identset hoonet projekteeritakse kahele erinevale ehitusplatsile. Ühel platsil on lähedal pinnale tihe liiv; teisel platsil on lähedal pinnale pehme, küllastunud savi. Miks võib teine plats vajada täiesti erinevat (sügav)vundamenti, kuigi hooned ise on identsed?",
+    "sourceHash": "3fa0a9de1fe9cf55",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because foundation type is driven by the soil's bearing capacity at each specific site, and soft saturated clay may have inadequate near-surface bearing capacity, requiring a deep foundation to bypass it and reach stronger soil/rock below -- a soil-driven decision, not a structure-driven one.",
+        "et": "Sest vundamendi tüüp lähtub pinnase kandevõimest igal konkreetsel platsil, ning pehmel küllastunud savil võib olla ebapiisav lähipinnase kandevõime, mistõttu on vaja sügavvundamenti, et sellest mööduda ja jõuda tugevama pinnase/kaljuni all -- pinnasest lähtuv, mitte konstruktsioonist lähtuv otsus.",
+        "sourceHash": "12a8483fe3c79c9c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shouldn't require a different foundation -- since the buildings are identical, bearing-capacity differences between soil types aren't significant enough to change the design.",
+        "et": "See ei tohiks vajada erinevat vundamenti -- kuna hooned on identsed, ei ole kandevõime erinevused pinnasetüüpide vahel piisavalt olulised, et muuta projekti.",
+        "sourceHash": "1ebae6ef6d64d4b1",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "geotechnical-engineering-and-soil-mechanics-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Deep foundations are chosen based on how heavy the building is, so identical buildings should always receive identical foundation types regardless of the soil beneath each site.",
+        "et": "Sügavvundamendid valitakse selle põhjal, kui raske hoone on, mistõttu identsed hooned peaksid alati saama identsed vundamenditüübid, sõltumata iga platsi all olevast pinnasest.",
+        "sourceHash": "2fabb40fd1997864",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "geotechnical-engineering-and-soil-mechanics-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Once construction is complete, settlement in the clay soil will stop on its own within the first few weeks, so the foundation type doesn't need to account for long-term settlement risk.",
+        "et": "Kui ehitus on valmis, peatub savipinnase vajumine iseenesest esimeste nädalate jooksul, mistõttu vundamendi tüüp ei pea arvestama pikaajalise vajumise riskiga.",
+        "sourceHash": "e3e4a30b0b0ba5ce",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "geotechnical-engineering-and-soil-mechanics-m2"
+    }
+  ]
+}
