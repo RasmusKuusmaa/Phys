@@ -1,0 +1,56 @@
+{
+  "id": "pregnancy-physiology-and-placental-function-item1",
+  "conceptId": "pregnancy-physiology-and-placental-function",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is it inaccurate to say a pregnant person's maternal and fetal blood 'mix together' in the placenta to deliver oxygen and nutrients to the fetus?",
+    "et": "Miks on ebatäpne öelda, et raseda inimese ema ja loote veri 'seguneb' platsentas, et viia lootele hapnikku ja toitaineid?",
+    "sourceHash": "1129238618815c47",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because maternal and fetal blood remain in separate circulations throughout pregnancy; exchange happens across a thin placental membrane separating the two closely apposed but distinct blood supplies, not through direct mixing.",
+        "et": "Sest ema ja loote veri jäävad kogu raseduse ajaks eraldiseisvateks vereringeteks; vahetus toimub üle õhukese platsenta membraani, mis eraldab kahte tihedalt kõrvuti asetsevat, kuid eraldiseisvat verevarustust, mitte otsese segunemise kaudu.",
+        "sourceHash": "1dd7ef148977bb4c",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the placenta is only maternal tissue extending from the uterine lining, so there was never a separate fetal blood supply to keep apart from the mother's in the first place.",
+        "et": "Sest platsenta on ainult emaka limaskestast lähtuv ema kude, mistõttu ei olnudki kunagi eraldi loote verevarustust, mida ema omast lahus hoida.",
+        "sourceHash": "0d57127e1f245efe",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pregnancy-physiology-and-placental-function-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because oxygen and nutrient exchange is handled by the corpus luteum for the entire pregnancy, with the placenta's role limited only to hormone production.",
+        "et": "Sest hapniku ja toitainete vahetust käsitleb kogu raseduse jooksul kollaskeha, ning platsenta roll piirdub ainult hormoonide tootmisega.",
+        "sourceHash": "3e2cab2a88ecc311",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pregnancy-physiology-and-placental-function-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "It isn't inaccurate -- maternal and fetal blood genuinely do mix directly within the placenta's shared vessels.",
+        "et": "See ei ole ebatäpne -- ema ja loote veri tõesti seguneb otseselt platsenta jagatud veresoontes.",
+        "sourceHash": "5e60d5fd0dfebbdf",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pregnancy-physiology-and-placental-function-m2"
+    }
+  ]
+}

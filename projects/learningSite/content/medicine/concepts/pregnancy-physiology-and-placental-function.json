@@ -1,0 +1,21 @@
+{
+  "id": "pregnancy-physiology-and-placental-function",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "reproductive-medicine",
+  "title": {
+    "en": "Pregnancy physiology and placental function",
+    "et": "Raseduse füsioloogia ja platsenta funktsioon",
+    "sourceHash": "550df3abee002b66",
+    "stale": false
+  },
+  "summary": {
+    "en": "Implantation -- the early embryo burrowing into the endometrium about a week after fertilization -- triggers formation of the placenta, a genuinely new organ (not simply borrowed maternal or fetal tissue alone, but a structure built from both) that takes over hormone production the ovary alone can't sustain indefinitely: placental human chorionic gonadotropin (hCG) rescues and maintains the corpus luteum's progesterone output during early pregnancy, and by around the end of the first trimester the placenta itself becomes the dominant source of progesterone and estrogen, hormones essential for maintaining the pregnancy and later supporting labor and lactation. Beyond hormone production, the placenta is the physical interface across which the fetus receives oxygen and nutrients and clears waste and carbon dioxide, all without maternal and fetal blood actually mixing -- exchange happens across a thin membrane separating two closely apposed but distinct circulations. Pregnancy also drives substantial physiologic changes throughout the mother's body well beyond the reproductive organs themselves: blood volume expands by 40-50%, cardiac output rises significantly, and respiratory and metabolic rate both increase, adaptations that support the growing fetus's demands but that also explain why several lab reference ranges and baseline symptoms genuinely differ during pregnancy from a non-pregnant state.",
+    "et": "Implantatsioon -- varajase embrüo süvenemine endomeetriumi umbes nädal pärast viljastumist -- käivitab platsenta moodustumise, tõeliselt uue elundi (mitte lihtsalt laenatud ema- või lootekoe, vaid mõlemast koest üles ehitatud struktuuri), mis võtab üle hormoonide tootmise, mida munasari üksi lõputult jätkata ei suuda: platsenta inimese kooriongonadotropiin (hCG) päästab ja hoiab üleval kollaskeha progesterooni tootmist raseduse alguses, ning ligikaudu esimese trimestri lõpuks saab platsentast ise domineeriv progesterooni ja östrogeeni allikas, hormoonid, mis on olulised raseduse säilitamiseks ning hiljem sünnituse ja imetamise toetamiseks. Lisaks hormoonide tootmisele on platsenta füüsiline liides, mille kaudu loode saab hapnikku ja toitaineid ning eemaldab jäätmeid ja süsihappegaasi, ilma et ema ja loote veri tegelikult seguneksid -- vahetus toimub üle õhukese membraani, mis eraldab kahte tihedalt kõrvuti asetsevat, kuid eraldiseisvat vereringet. Rasedus käivitab ka olulisi füsioloogilisi muutusi kogu ema kehas, mis ulatuvad tunduvalt kaugemale reproduktiivorganitest endist: vere maht suureneb 40-50%, südame minutimaht tõuseb märkimisväärselt ning nii hingamis- kui ainevahetuskiirus suurenevad mõlemad -- kohandumised, mis toetavad kasvava loote vajadusi, kuid mis seletavad ka seda, miks mitmed labori võrdlusvahemikud ja algtaseme sümptomid erinevad raseduse ajal tegelikult mitterasedast seisundist.",
+    "sourceHash": "73213b64567a979b",
+    "stale": false
+  },
+  "prerequisites": [
+    "reproductive-system-anatomy-and-physiology"
+  ]
+}
