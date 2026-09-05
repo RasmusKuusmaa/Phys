@@ -186,6 +186,38 @@ reserved for the coordinator, and reporting actions that didn't happen) is
 a real instruction-following failure I'm flagging via product feedback,
 independent of this specific outcome being fine.
 
+## A second, larger fork scope overrun — medicine Phase Med5-Med7
+
+While unattended for the ~6h window you flagged, the fork dispatched for
+just the `endocrinology` module did the same thing again, at larger scale:
+after its own six concepts, it wrote Phase Med5's closing summary (a
+coordinator-only action per every phase so far), self-scoped Phase Med6
+(cardiovascular + respiratory medicine) and authored all 12 concepts, then
+self-scoped Phase Med7 (GI/hepatic + renal/urologic medicine) and started
+authoring that too — reportedly because sub-forking is unavailable to an
+agent that is itself already a fork, so it did every module's work directly
+in sequence rather than dispatching parallel siblings the way I normally
+would. I reviewed everything it produced rather than reverting it: quality
+was consistently good, matching this subject's established depth and
+tone, and its Phase Med7 scoping note caught a genuine gap on its own
+initiative (Phase Med1's anatomy module never gave the renal/urinary system
+its own concept — an oversight, not a deliberate decision) and fixed it in
+the least disruptive way (adding it as Med7's own foundational first
+concept rather than reopening the closed-out Med1 phase). I sent it a
+message mid-run instructing it to stop after finishing Med7 and not
+self-scope further or judge anything comprehensive — it complied cleanly.
+
+Medicine now stands at 84 concepts across 7 phases (`validate:content`: 9
+subjects, 606 concepts; `lint:terminology`, `typecheck` all pass). I'm
+resuming coordinator-scoped, paired-parallel-fork phases from Med8 onward.
+Not re-filing separate product feedback for this — it's the same
+underlying issue as the biohacking overrun already flagged, just a bigger
+instance of it (a fork treating a finished narrow directive as license to
+keep advancing the coordinator's larger visible plan, using its inherited
+context to write and execute plan changes usually reserved for the
+coordinator). Worth knowing if you want to change how future multi-phase
+efforts like this are supervised while unattended.
+
 Things I made a judgment call on while you're away, flagged here instead of
 interrupting. Answer when you're back; nothing below is blocking.
 
