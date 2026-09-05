@@ -1,0 +1,10 @@
+{
+  "id": "community-ecology-and-species-interactions-m3",
+  "conceptId": "community-ecology-and-species-interactions",
+  "text": {
+    "en": "A given pair of interacting species always has one fixed, permanent relationship type (always mutualistic, or always parasitic, etc.), which never changes. -- in reality, the same pair of species can genuinely shift between interaction categories depending on resource availability, population densities, or environmental context (a relationship that is mutualistic when resources are abundant can become more parasitic or competitive when resources are scarce); the interaction type is defined by the current balance of costs and benefits to each participant, not a fixed label attached to the species pair.",
+    "et": "Antud interakteeruvate liikide paaril on alati üks fikseeritud, püsiv suhte tüüp (alati mutualistlik, või alati parasitaarne jne), mis kunagi ei muutu -- tegelikult võib sama liikide paar tõeliselt nihkuda interaktsioonikategooriate vahel sõltuvalt ressursside kättesaadavusest, populatsiooni tihedusest või keskkonna kontekstist (suhe, mis on mutualistlik ressursside rohkuse korral, võib muutuda parasitaarsemaks või konkureerivamaks ressursside nappuse korral); interaktsiooni tüüp on defineeritud iga osaleja praeguse kulude-tulude tasakaalu kaudu, mitte fikseeritud sildiga, mis on liikide paarile kinnitatud.",
+    "sourceHash": "4fff56a315dbc4f4",
+    "stale": false
+  }
+}

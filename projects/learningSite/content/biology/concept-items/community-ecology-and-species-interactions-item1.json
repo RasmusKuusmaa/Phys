@@ -1,0 +1,56 @@
+{
+  "id": "community-ecology-and-species-interactions-item1",
+  "conceptId": "community-ecology-and-species-interactions",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two species of songbird in the same forest both need the same specific type of tree cavity for nesting, and cavities are in short supply. Neither species eats or is eaten by the other. What category of species interaction does this best illustrate?",
+    "et": "Kaks laululinnuliiki samas metsas vajavad mõlemad sama spetsiifilist tüüpi puuõõnsust pesitsemiseks, ning õõnsusi on vähe. Kumbki liik ei söö ega ole söödud teise poolt. Millist liikidevahelise interaktsiooni kategooriat see kõige paremini illustreerib?",
+    "sourceHash": "bc103fe682583f2c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Interspecific competition: both species need the same limiting resource (nesting cavities), so an individual of one species claiming a cavity directly reduces availability for the other species, a lose/lose-or-neutral relationship over that shared resource.",
+        "et": "Liikidevaheline konkurents: mõlemad liigid vajavad sama piiravat ressurssi (pesaõõnsused), mistõttu ühe liigi isend, kes õõnsuse hõivab, vähendab otseselt selle kättesaadavust teisele liigile, kaotus/kaotus-või-neutraalne suhe selle jagatud ressursi üle.",
+        "sourceHash": "98fdf9c8b74ae226",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Since neither species eats the other, this cannot be a meaningful ecological interaction at all -- only predator-prey relationships count as genuine species interactions.",
+        "et": "Kuna kumbki liik ei söö teist, ei saa see üldse olla tähenduslik ökoloogiline interaktsioon -- ainult kiskja-saaklooma suhted loevad tõeliste liikidevaheliste interaktsioonidena.",
+        "sourceHash": "5b0bcf1d964e62ec",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "community-ecology-and-species-interactions-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This must be mutualism, since both species are simply trying to nest in the same forest and are therefore cooperating with each other by sharing the habitat.",
+        "et": "See peab olema mutualism, kuna mõlemad liigid lihtsalt üritavad pesitseda samas metsas ja teevad seeläbi omavahel koostööd, jagades elupaika.",
+        "sourceHash": "d4cce914bfb966ea",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "community-ecology-and-species-interactions-m3"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since these two species interact this way, their relationship must always be competitive in every context, in every forest, regardless of how abundant nesting cavities happen to be elsewhere.",
+        "et": "Kuna need kaks liiki suhtlevad sel viisil, peab nende suhe olema alati konkureeriv igas kontekstis, igas metsas, sõltumata sellest, kui rikkalikult pesaõõnsusi mujal juhtub olema.",
+        "sourceHash": "1204891798273385",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "community-ecology-and-species-interactions-m2"
+    }
+  ]
+}

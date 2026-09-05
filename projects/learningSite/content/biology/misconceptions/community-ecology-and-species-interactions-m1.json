@@ -1,0 +1,10 @@
+{
+  "id": "community-ecology-and-species-interactions-m1",
+  "conceptId": "community-ecology-and-species-interactions",
+  "text": {
+    "en": "Predation is the only significant way different species interact ecologically, since it's the most visible/dramatic kind of interaction. -- in reality, competition and symbiosis (mutualism, commensalism, parasitism) are equally fundamental categories of species interaction, and in most communities, competition for shared resources and mutualistic relationships (like plant-pollinator interactions) shape community structure at least as much as predation does -- predation is simply the most visually dramatic category, not the only or even necessarily the dominant one.",
+    "et": "Kiskus on ainuke oluline viis, kuidas erinevad liigid ökoloogiliselt suhtlevad, kuna see on kõige nähtavam/dramaatilisem interaktsiooni tüüp -- tegelikult on konkurents ja sümbioos (mutualism, kommensalism, parasitism) võrdselt fundamentaalsed liikidevaheliste interaktsioonide kategooriad, ning enamikes kooslustes kujundavad konkurents jagatud ressursside pärast ja mutualistlikud suhted (nagu taime-tolmeldaja interaktsioonid) koosluse struktuuri vähemalt sama palju kui kiskus -- kiskus on lihtsalt kõige visuaalselt dramaatilisem kategooria, mitte ainuke ega isegi tingimata domineeriv.",
+    "sourceHash": "1eec15ee415b4c68",
+    "stale": false
+  }
+}

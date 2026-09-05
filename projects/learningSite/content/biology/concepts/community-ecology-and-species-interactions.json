@@ -1,0 +1,21 @@
+{
+  "id": "community-ecology-and-species-interactions",
+  "subject": "biology",
+  "level": "L2",
+  "module": "biology-fundamentals",
+  "title": {
+    "en": "Community ecology and species interactions",
+    "et": "Kooslusökoloogia ja liikidevahelised suhted",
+    "sourceHash": "b0ec1110c0079ce9",
+    "stale": false
+  },
+  "summary": {
+    "en": "A biological community is every population of every species sharing one habitat, and the relationships between those populations can be classified by a single question: does each participant's fitness go up, down, or stay unaffected because of the interaction? Competition is a lose/lose-or-neutral relationship in which two organisms need the same limiting resource, and can occur between individuals of different species (interspecific competition, which can be intense enough that one species locally excludes the other from a shared resource entirely) or of the same species (intraspecific competition, often the single strongest force limiting a population's own growth, since same-species individuals need the most similar resources of all). Predation is a clear win/lose relationship in which one organism (the predator) kills and consumes another (the prey), and predator and prey populations frequently show linked, cyclical dynamics over time -- a predator population boom depletes its prey, which then starves the predator population back down, letting prey recover, restarting the cycle. Symbiotic relationships, where two different species live in sustained close association, come in three mechanistically distinct flavors depending on the fitness ledger: mutualism (both species benefit, as in a pollinator and the flowering plant it pollinates), commensalism (one species benefits while the other is genuinely unaffected, as with a bird nesting in a tree without harming or helping it), and parasitism (one species benefits at the other's direct expense, without killing it outright the way a predator does). These are not always neat, permanent categories -- the same pair of species can shift between categories depending on resource availability or context -- but the underlying question (who gains, who loses, who is unaffected) is what defines every one of these relationships.",
+    "et": "Bioloogiline kooslus on iga liigi iga populatsioon, kes jagab üht elupaika, ning nende populatsioonide vahelisi suhteid saab klassifitseerida ühe küsimuse abil: kas iga osaleja kohasus tõuseb, langeb või jääb interaktsiooni tõttu mõjutamata? Konkurents on kaotus/kaotus-või-neutraalne suhe, kus kaks organismi vajavad sama piiravat ressurssi, ning see võib toimuda erinevate liikide isendite vahel (liikidevaheline konkurents, mis võib olla piisavalt intensiivne, et üks liik välistab teise kohapeal jagatud ressursist täielikult) või sama liigi isendite vahel (liigisisene konkurents, sageli üksik tugevaim jõud, mis piirab populatsiooni enda kasvu, kuna sama liigi isendid vajavad kõige sarnasemaid ressursse). Kiskluse on selge võit/kaotus suhe, kus üks organism (kiskja) tapab ja tarbib teist (saakloom), ning kiskja ja saaklooma populatsioonid näitavad sageli seotud, tsüklilist dünaamikat aja jooksul -- kiskja populatsiooni buum ammendab tema saaklooma, mis seejärel näljutab kiskja populatsiooni tagasi alla, lastes saakloomal taastuda, alustades tsüklit uuesti. Sümbiootilised suhted, kus kaks erinevat liiki elavad püsivas tihedas seoses, tulevad kolmes mehaaniliselt eristuvas vormis, sõltuvalt kohasuse bilansist: mutualism (mõlemad liigid saavad kasu, nagu tolmeldaja ja õistaim, mida ta tolmeldab), kommensalism (üks liik saab kasu, samas kui teist see tõeliselt ei mõjuta, nagu lind, kes pesitseb puul seda kahjustamata või aitamata), ning parasitism (üks liik saab kasu teise otsesel kulul, ilma teda otseselt tapmata, nagu kiskja teeks). Need ei ole alati korralikud, püsivad kategooriad -- sama liikide paar võib nihkuda kategooriate vahel sõltuvalt ressursside kättesaadavusest või kontekstist -- kuid alusküsimus (kes võidab, kes kaotab, kes jääb mõjutamata) on see, mis defineerib iga selle suhte.",
+    "sourceHash": "e20127739d7a2217",
+    "stale": false
+  },
+  "prerequisites": [
+    "population-ecology-and-population-dynamics"
+  ]
+}

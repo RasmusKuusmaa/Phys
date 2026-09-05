@@ -1,0 +1,10 @@
+{
+  "id": "community-ecology-and-species-interactions-m2",
+  "conceptId": "community-ecology-and-species-interactions",
+  "text": {
+    "en": "Competition only happens between different species, since individuals of the same species are 'on the same team' and cooperate rather than compete with each other. -- in reality, intraspecific competition (between individuals of the same species) is often the single strongest limiting force on a population, precisely because same-species individuals need the most similar resources of anyone in the community (the same food, the same nesting sites, the same mates), and this within-species competition is a central driver of the population-density-dependent growth slowdown described by the logistic growth model.",
+    "et": "Konkurents toimub ainult erinevate liikide vahel, kuna sama liigi isendid on 'samas meeskonnas' ja teevad omavahel koostööd, mitte ei konkureeri -- tegelikult on liigisisene konkurents (sama liigi isendite vahel) sageli üksik tugevaim populatsiooni piirav jõud, just seetõttu, et sama liigi isendid vajavad kõige sarnasemaid ressursse kõigist kooslus liikmetest (sama toit, samad pesapaigad, samad paarilised), ning see liigisisene konkurents on keskne jõud populatsiooni tiheduse-sõltuva kasvu aeglustumise taga, mida kirjeldab logistilise kasvu mudel.",
+    "sourceHash": "feae2304f87cef3b",
+    "stale": false
+  }
+}
