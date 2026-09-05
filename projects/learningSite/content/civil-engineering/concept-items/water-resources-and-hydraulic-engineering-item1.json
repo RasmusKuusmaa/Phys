@@ -1,0 +1,56 @@
+{
+  "id": "water-resources-and-hydraulic-engineering-item1",
+  "conceptId": "water-resources-and-hydraulic-engineering",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A previously rural watershed is developed with roads, parking lots, and buildings, but average rainfall in the region hasn't changed. Why does downstream flooding become more frequent and severe anyway?",
+    "et": "Varem maapiirkonna valgalale ehitatakse teid, parklaid ja hooneid, kuid keskmine sademete hulk piirkonnas pole muutunud. Miks muutub allavoolu üleujutus siiski sagedasemaks ja tõsisemaks?",
+    "sourceHash": "e0dac375ae904ab9",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because impervious surfaces sharply increase the fraction of rainfall that becomes surface runoff and sharply decrease how long that runoff takes to reach the stream, increasing both flood peak flow and flood frequency even with unchanged rainfall.",
+        "et": "Sest läbimatud pinnad suurendavad järsult sademete osa, mis muutub pinnaäravooluks, ja vähendavad järsult aega, mis kulub sellel äravoolul ojani jõudmiseks, suurendades nii üleujutuse tippvoolu kui ka sagedust, isegi kui sademete hulk ei muutu.",
+        "sourceHash": "f0a159d8c03bcddf",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shouldn't become worse -- since rainfall itself hasn't changed, flood risk downstream should be essentially unaffected by land development upstream.",
+        "et": "See ei tohiks halveneda -- kuna sademete hulk ise pole muutunud, ei tohiks üleujutuse risk allavoolu maa-arendusest ülesvoolu sisuliselt mõjutatud olla.",
+        "sourceHash": "8ddb7aad8d5ef00b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "water-resources-and-hydraulic-engineering-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The development's stormwater system must be routing water away too slowly; making it move water off-site as fast as possible would resolve the flooding.",
+        "et": "Arenduse sademeveesüsteem peab vett liiga aeglaselt ära suunama; vee võimalikult kiire objektilt äraviimine lahendaks üleujutuse.",
+        "sourceHash": "eefa3c57047c9af5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "water-resources-and-hydraulic-engineering-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The culverts and drainage structures must simply be undersized for the road/channel they were built on, unrelated to any change in runoff from the development itself.",
+        "et": "Truubid ja drenaažirajatised peavad olema lihtsalt alamõõdustatud tee/kanali jaoks, millele need ehitati, sõltumata mistahes muutusest arenduse enda äravoolus.",
+        "sourceHash": "3232b35e6c3f678c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "water-resources-and-hydraulic-engineering-m3"
+    }
+  ]
+}

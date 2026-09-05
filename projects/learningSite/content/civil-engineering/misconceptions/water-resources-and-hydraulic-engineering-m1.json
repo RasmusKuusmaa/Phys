@@ -1,0 +1,10 @@
+{
+  "id": "water-resources-and-hydraulic-engineering-m1",
+  "conceptId": "water-resources-and-hydraulic-engineering",
+  "text": {
+    "en": "Stormwater management is mainly about directing rainwater away from a site as fast as possible -- in reality, the actual engineering goal is managing peak flow rate, releasing collected runoff more slowly than it arrived, since simply routing water away quickly just shifts a larger, faster flood peak downstream instead of preventing it.",
+    "et": "Sademeveesüsteem on peamiselt vihmavee objektilt võimalikult kiiresti eemale suunamine -- tegelikult on tegelik insenertehniline eesmärk tippvoolukiiruse haldamine, kogutud äravoolu vabastamine aeglasemalt, kui see saabus, kuna vee lihtne kiire minemasuunamine lihtsalt nihutab suurema, kiirema üleujutustipu allavoolu, selle asemel et seda ennetada.",
+    "sourceHash": "4d8f1946bd20aad5",
+    "stale": false
+  }
+}

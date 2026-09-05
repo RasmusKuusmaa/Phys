@@ -1,0 +1,19 @@
+{
+  "id": "water-resources-and-hydraulic-engineering",
+  "subject": "civil-engineering",
+  "level": "L2",
+  "module": "civil-engineering-fundamentals",
+  "title": {
+    "en": "Water resources and hydraulic engineering",
+    "et": "Veevarude ja hüdrotehnika",
+    "sourceHash": "a8abad49d7d01199",
+    "stale": false
+  },
+  "summary": {
+    "en": "A watershed collects every drop of precipitation that falls within its boundary and routes it, as surface runoff, toward a single common outlet, and a civil engineer's central hydrologic task is estimating how much of that precipitation actually becomes runoff and how quickly it arrives at that outlet, since both quantities determine how large a stormwater or flood-control system actually needs to be. Urbanization changes this calculation dramatically: replacing vegetated, absorbent ground with impervious pavement and roofing sharply increases the fraction of rainfall that becomes runoff and sharply decreases how long that runoff takes to reach a stream or storm drain, which is why urban development without stormwater management reliably increases both flood peak flow and flood frequency downstream, even without any change in rainfall itself. Stormwater management systems exist specifically to counteract this by temporarily storing runoff and releasing it more slowly, managing the peak flow rate rather than simply moving water away as fast as possible, which would only shift the flooding problem downstream rather than solving it. Hydraulic structures like dams and culverts apply the same underlying principle at a larger scale: a dam stores and releases water on a controlled schedule, while a culvert is sized specifically to pass a design flood's peak flow rate under a road without that road overtopping or the upstream channel backing up.",
+    "et": "Valgala kogub kokku iga sademepiisa, mis langeb selle piiridesse, ja suunab selle pinnaäravooluna ühise väljavooluava poole, ning tsiviilinseneri keskne hüdroloogiline ülesanne on hinnata, kui suur osa sellest sademest tegelikult äravooluks muutub ja kui kiiresti see sinna väljavooluavani jõuab, kuna mõlemad suurused määravad, kui suur sademeveesüsteem või üleujutustõrjesüsteem tegelikult peab olema. Linnastumine muudab seda arvutust dramaatiliselt: taimestikuga kaetud, imava pinnase asendamine läbimatu katendi ja katustega suurendab järsult sademete osa, mis muutub äravooluks, ja vähendab järsult aega, mis kulub sellel äravoolul jõudmiseks ojani või sademeveetorustikuni, mistõttu suurendab linnaareng ilma sademeveesüsteemita usaldusväärselt nii üleujutuse tippvoolu kui ka üleujutuse sagedust allavoolu, isegi kui sademete hulk ise ei muutu. Sademeveesüsteemid eksisteerivad spetsiaalselt selle vastu võitlemiseks, ladustades äravoolu ajutiselt ja vabastades seda aeglasemalt, hallates tippvoolukiirust, mitte lihtsalt suunates vett võimalikult kiiresti minema, mis nihutaks üleujutuse probleemi lihtsalt allavoolu, mitte ei lahendaks seda. Hüdrotehnilised rajatised nagu paisud ja truubid rakendavad sama aluspõhimõtet suuremas mastaabis: pais ladustab ja vabastab vett kontrollitud graafiku alusel, samas kui truup on mõõdustatud spetsiaalselt selleks, et läbida projekteeritud üleujutuse tippvoolukiirus tee alt, ilma et tee üle ujutataks või ülesvoolu kanal tagasi paisuks.",
+    "sourceHash": "9e2949c64a991a28",
+    "stale": false
+  },
+  "prerequisites": []
+}

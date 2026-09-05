@@ -1,0 +1,10 @@
+{
+  "id": "water-resources-and-hydraulic-engineering-m2",
+  "conceptId": "water-resources-and-hydraulic-engineering",
+  "text": {
+    "en": "Urbanizing a watershed (adding pavement/roofing) doesn't meaningfully change flood risk unless rainfall itself also increases -- in reality, replacing absorbent vegetated ground with impervious surfaces sharply increases the fraction of rainfall that becomes surface runoff and sharply decreases how long that runoff takes to reach a stream, reliably increasing both flood peak flow and flood frequency downstream even with no change in rainfall at all.",
+    "et": "Valgala linnastumine (katendi/katuste lisamine) ei muuda oluliselt üleujutusriski, kui sademete hulk ise samuti ei suurene -- tegelikult suurendab imava taimestikuga pinnase asendamine läbimatute pindadega järsult sademete osa, mis muutub pinnaäravooluks, ja vähendab järsult aega, mis kulub sellel äravoolul ojani jõudmiseks, suurendades usaldusväärselt nii üleujutuse tippvoolu kui ka sagedust allavoolu, isegi kui sademete hulk üldse ei muutu.",
+    "sourceHash": "8424b39bfe8cdd70",
+    "stale": false
+  }
+}

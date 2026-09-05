@@ -1,0 +1,10 @@
+{
+  "id": "water-resources-and-hydraulic-engineering-m3",
+  "conceptId": "water-resources-and-hydraulic-engineering",
+  "text": {
+    "en": "A culvert or dam's size is chosen mainly based on the size of the road or river it's built on, not on a calculated design flood flow rate -- in reality, hydraulic structures are sized specifically to a calculated design flow, not simply scaled to the road or channel's visual size.",
+    "et": "Truubi või paisu suurus valitakse peamiselt selle tee või jõe suuruse põhjal, millele see ehitatakse, mitte arvutusliku projekteeritud üleujutuse vooluhulga põhjal -- tegelikult mõõdustatakse hüdrotehnilised rajatised spetsiaalselt arvutusliku projekteeritud voolu järgi, mitte lihtsalt tee või kanali visuaalse suuruse järgi.",
+    "sourceHash": "b38309ab982ac031",
+    "stale": false
+  }
+}
