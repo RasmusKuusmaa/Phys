@@ -1,0 +1,10 @@
+{
+  "id": "transplant-immunology-and-rejection-mechanisms-m2",
+  "conceptId": "transplant-immunology-and-rejection-mechanisms",
+  "text": {
+    "en": "As long as a donor and recipient share the same ABO blood type, rejection risk is essentially handled -- in reality, ABO blood-group matching prevents only one specific antibody-mediated rejection risk; the recipient's immune system also recognizes the donor's HLA (MHC) molecules as foreign, and T-cell-mediated acute rejection targeting mismatched HLA is a separate, major rejection pathway that blood-type matching alone does nothing to prevent.",
+    "et": "Kui doonoril ja retsipiendil on sama ABO vererühm, on äratõukerisk sisuliselt lahendatud -- tegelikult väldib ABO vererühma sobitamine ainult üht kindlat antikehavahendatud äratõukeriski; retsipiendi immuunsüsteem tunneb võõraks ka doonori HLA (MHC) molekulid, ning T-rakkude vahendatud äge äratõuge, mis on suunatud sobimatu HLA vastu, on eraldi, oluline äratõukerada, mida pelgalt vererühma sobitamine ei väldi.",
+    "sourceHash": "f1cc5910f686edcd",
+    "stale": false
+  }
+}

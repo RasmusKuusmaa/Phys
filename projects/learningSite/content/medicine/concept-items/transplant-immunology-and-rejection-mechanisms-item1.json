@@ -1,0 +1,56 @@
+{
+  "id": "transplant-immunology-and-rejection-mechanisms-item1",
+  "conceptId": "transplant-immunology-and-rejection-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A kidney transplant recipient develops rejection two years after a successful transplant, despite having had no rejection episodes in the first few months. Why doesn't the immunosuppression regimen that successfully controlled early rejection necessarily prevent this?",
+    "et": "Neerusiirdamise saajal areneb äratõuge kaks aastat pärast edukat siirdamist, hoolimata sellest, et esimestel kuudel äratõukeepisoode ei olnud. Miks ei väldi immunosupressiooni raviskeem, mis edukalt kontrollis varajast äratõuget, tingimata seda?",
+    "sourceHash": "2fa83d2bc8a64a89",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because chronic rejection is a mechanistically distinct process (slow antibody- and cell-mediated vascular injury) from the T-cell-mediated acute rejection the standard immunosuppression regimen is designed to control, so controlling one doesn't guarantee controlling the other.",
+        "et": "Sest krooniline äratõuge on mehaaniliselt eristuv protsess (aeglane antikeha- ja rakuvahendatud vaskulaarne kahjustus) T-rakkude vahendatud ägedast äratõukest, mida standardne immunosupressiooni raviskeem on mõeldud kontrollima, mistõttu ühe kontrollimine ei taga teise kontrollimist.",
+        "sourceHash": "7805007a24bccfc0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shouldn't be different -- rejection two years later must be the same acute T-cell process recurring, meaning the immunosuppression simply failed or wasn't dosed correctly the whole time.",
+        "et": "See ei tohiks erineda -- äratõuge kaks aastat hiljem peab olema sama ägeda T-rakkude protsessi kordumine, mis tähendab, et immunosupressioon lihtsalt ebaõnnestus või seda ei doseeritud kogu aeg õigesti.",
+        "sourceHash": "1c7a11c0936335e0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transplant-immunology-and-rejection-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The blood-type match must have been imperfect after all, since matching ABO blood groups is what prevents rejection long-term.",
+        "et": "Vererühma sobivus pidi olema siiski ebatäiuslik, kuna ABO vererühmade sobitamine on see, mis väldib äratõuget pikaajaliselt.",
+        "sourceHash": "454b9cd7da6ef3fa",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transplant-immunology-and-rejection-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This is likely graft-versus-host disease, where the transplanted kidney's own immune cells are now attacking the recipient's body.",
+        "et": "See on tõenäoliselt siiriku-peremehe-vastane haigus, kus siiratud neeru enda immuunrakud ründavad nüüd retsipiendi keha.",
+        "sourceHash": "272cff1db4fe2d4a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "transplant-immunology-and-rejection-mechanisms-m3"
+    }
+  ]
+}

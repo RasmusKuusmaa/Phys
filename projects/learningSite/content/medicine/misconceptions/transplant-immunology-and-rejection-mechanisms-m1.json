@@ -1,0 +1,10 @@
+{
+  "id": "transplant-immunology-and-rejection-mechanisms-m1",
+  "conceptId": "transplant-immunology-and-rejection-mechanisms",
+  "text": {
+    "en": "Organ rejection is a single process, so an episode of rejection early after transplant and rejection happening years later must have the same underlying mechanism -- in reality, hyperacute, acute, and chronic rejection are three mechanistically distinct processes (pre-existing antibody attack, direct T-cell recognition of foreign MHC, and slow antibody/cell-mediated vascular injury respectively), on three very different timescales, which is why they need different prevention/monitoring strategies and why controlling acute rejection with immunosuppression does not prevent chronic rejection.",
+    "et": "Elundi äratõuge on üksainus protsess, mistõttu peab varajasel äratõukeepisoodil ja aastaid hiljem toimuval äratõukel olema sama alusmehhanism -- tegelikult on hüperäge, äge ja krooniline äratõuge kolm mehaaniliselt eristuvat protsessi (vastavalt olemasolev antikeharünnak, T-rakkude otsene võõra MHC äratundmine ja aeglane antikeha/rakuvahendatud vaskulaarne kahjustus) kolmel väga erineval ajaskaalal, mistõttu vajavad need erinevaid ennetus- ja jälgimisstrateegiaid, ning miks ägeda äratõuke kontrollimine immunosupressiooniga ei väldi kroonilist äratõuget.",
+    "sourceHash": "d5ce03d7f5403ac1",
+    "stale": false
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "transplant-immunology-and-rejection-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "immunology",
+  "title": {
+    "en": "Transplant immunology and rejection mechanisms",
+    "et": "Siirdamisimmunoloogia ja äratõukemehhanismid",
+    "sourceHash": "cb17ce7ffd8c0e09",
+    "stale": false
+  },
+  "summary": {
+    "en": "A transplanted organ presents the recipient's immune system with an entire foreign cell surface -- most critically the donor's own set of MHC (HLA) molecules, which differ from the recipient's own and are recognized as non-self -- and the immune system can reject that graft through three mechanistically distinct pathways operating on three different timescales. Hyperacute rejection strikes within minutes to hours, driven by pre-existing antibodies the recipient already carries against donor blood-group or HLA antigens, which bind the graft's vascular endothelium immediately and trigger clotting that starves the organ of blood before any new immune response can even develop. Acute rejection unfolds over days to weeks and is primarily T-cell-mediated: recipient T cells directly recognize donor MHC molecules on graft cells and mount a cytotoxic attack, which is why acute rejection is the target of the T-cell-suppressing immunosuppressant drugs a transplant recipient takes long-term. Chronic rejection develops over months to years through a slower process of antibody- and cell-mediated vascular injury that gradually narrows the graft's blood vessels, and is a leading cause of eventual graft failure precisely because it resists the same immunosuppression that controls acute rejection. A related but distinct problem, graft-versus-host disease, runs the same logic in reverse: when the transplanted tissue itself contains immune cells, those donor immune cells can recognize the recipient's own body as foreign and attack it.",
+    "et": "Siirdatud elund esitab retsipiendi immuunsüsteemile terve võõra rakupinna -- kõige kriitilisemalt doonori enda MHC (HLA) molekulide komplekti, mis erinevad retsipiendi omadest ja mida tuntakse ära kui mitte-enda -- ning immuunsüsteem võib selle siirdi ära tõugata kolme mehaaniliselt eristuva raja kaudu, mis toimivad kolmel erineval ajaskaalal. Hüperäge äratõuge lööb lahti minutite kuni tundide jooksul, mida põhjustavad retsipiendil juba olemasolevad antikehad doonori vererühma- või HLA-antigeenide vastu, mis seonduvad koheselt siirdi vaskulaarse endoteeliga ja vallandavad hüübimise, mis jätab elundi verest ilma, enne kui ükski uus immuunvastus jõuab üldse areneda. Äge äratõuge kulgeb päevade kuni nädalate jooksul ja on peamiselt T-rakkude vahendatud: retsipiendi T-rakud tunnevad otse ära siirdirakkudel doonori MHC molekule ja käivitavad tsütotoksilise rünnaku, mistõttu on äge äratõuge sihtmärgiks immunosupressantidele, mida siirdi saaja pikaajaliselt võtab, et suruda alla T-rakke. Krooniline äratõuge areneb kuude kuni aastate jooksul aeglasema antikeha- ja rakuvahendatud vaskulaarse kahjustuse protsessi kaudu, mis järk-järgult ahendab siirdi veresooni, ning on juhtiv siirdi lõpliku rikke põhjus just seetõttu, et see seisab vastu samale immunosupressioonile, mis kontrollib ägedat äratõuget. Seotud, kuid eristuv probleem, siiriku-peremehe-vastane haigus, järgib sama loogikat vastupidises suunas: kui siiritud kude ise sisaldab immuunrakke, võivad need doonori immuunrakud tunda retsipiendi keha ise võõraks ja rünnata seda.",
+    "sourceHash": "435d4a9ec7a303ab",
+    "stale": false
+  },
+  "prerequisites": [
+    "adaptive-immunity-and-lymphocytes",
+    "autoimmunity-and-hypersensitivity"
+  ]
+}
