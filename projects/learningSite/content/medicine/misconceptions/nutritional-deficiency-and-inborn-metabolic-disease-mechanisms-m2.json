@@ -1,0 +1,10 @@
+{
+  "id": "nutritional-deficiency-and-inborn-metabolic-disease-mechanisms-m2",
+  "conceptId": "nutritional-deficiency-and-inborn-metabolic-disease-mechanisms",
+  "text": {
+    "en": "Phenylketonuria (PKU) is caused by a diet containing too much phenylalanine, so it's fundamentally a dietary/nutritional disease like scurvy -- in reality, PKU is caused by a genetic mutation disabling the enzyme that metabolizes phenylalanine, not by dietary excess -- a person without the mutation can eat the same phenylalanine-containing diet with no ill effect at all; the disease exists because of a broken processing step.",
+    "et": "Fenüülketonuuria (PKU) on põhjustatud toidust, mis sisaldab liiga palju fenüülalaniini, mistõttu on see põhimõtteliselt toitumishaigus nagu skorbuut -- tegelikult on PKU põhjustatud geneetilisest mutatsioonist, mis lülitab välja fenüülalaniini ainevahetuse ensüümi, mitte toidulisest liiast -- mutatsioonita inimene võib süüa sama fenüülalaniini sisaldavat toitu ilma igasuguse kahjuliku mõjuta; haigus eksisteerib katkise töötlusetapi tõttu.",
+    "sourceHash": "769a1226d6d7d4ea",
+    "stale": false
+  }
+}

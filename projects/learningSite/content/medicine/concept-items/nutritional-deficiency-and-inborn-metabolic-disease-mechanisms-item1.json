@@ -1,0 +1,56 @@
+{
+  "id": "nutritional-deficiency-and-inborn-metabolic-disease-mechanisms-item1",
+  "conceptId": "nutritional-deficiency-and-inborn-metabolic-disease-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A child with phenylketonuria (PKU) develops neurotoxic symptoms unless dietary phenylalanine is strictly limited. Why is 'giving the body more phenylalanine' not the right correction, the way giving more vitamin C corrects scurvy?",
+    "et": "Fenüülketonuuriaga (PKU) lapsel tekivad neurotoksilised sümptomid, kui toidust saadavat fenüülalaniini rangelt ei piirata. Miks ei ole 'kehale rohkem fenüülalaniini andmine' õige korrektsioon, nii nagu rohkema C-vitamiini andmine korrigeerib skorbuuti?",
+    "sourceHash": "c6e6c232029292e4",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because PKU is caused by a broken enzyme that cannot process phenylalanine, not a shortage of it -- the amino acid is already present in normal amounts, and adding more only worsens the toxic buildup caused by the enzyme that can't clear it.",
+        "et": "Sest PKU on põhjustatud katkisest ensüümist, mis ei suuda fenüülalaniini töödelda, mitte selle puudusest -- aminohapet on juba normaalses koguses olemas, ning selle lisamine süvendab ainult toksilist kuhjumist, mille põhjustab ensüüm, mis ei suuda seda eemaldada.",
+        "sourceHash": "1a59c3faa7d0caad",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because PKU, like every metabolic disease, is fundamentally about a missing nutrient, and the treatment is actually to supply an alternate form of phenylalanine the body can use instead.",
+        "et": "Sest PKU, nagu iga ainevahetushaigus, on põhimõtteliselt puuduva toitaine küsimus, ning ravi seisneb tegelikult alternatiivse fenüülalaniini vormi andmises, mida keha saab selle asemel kasutada.",
+        "sourceHash": "e682d52085e7b434",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nutritional-deficiency-and-inborn-metabolic-disease-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because PKU is caused by a diet containing excess phenylalanine to begin with, so any additional phenylalanine simply compounds a pre-existing dietary excess.",
+        "et": "Sest PKU on algusest peale põhjustatud toidust, mis sisaldab liigset fenüülalaniini, mistõttu iga täiendav fenüülalaniin lihtsalt süvendab juba olemasolevat toidulist liia.",
+        "sourceHash": "5946d8f69f2fd02b",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nutritional-deficiency-and-inborn-metabolic-disease-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because the child's diet must be deficient in a different, unrelated nutrient, and correcting that separate deficiency is what actually resolves the phenylalanine buildup.",
+        "et": "Sest lapse toidus peab olema puudu mõni teine, mitteseotud toitaine, ning selle eraldi puuduse korrigeerimine on see, mis tegelikult lahendab fenüülalaniini kuhjumise.",
+        "sourceHash": "af44ba3927e1f996",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "nutritional-deficiency-and-inborn-metabolic-disease-mechanisms-m3"
+    }
+  ]
+}

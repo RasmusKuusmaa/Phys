@@ -1,0 +1,10 @@
+{
+  "id": "nutritional-deficiency-and-inborn-metabolic-disease-mechanisms-m1",
+  "conceptId": "nutritional-deficiency-and-inborn-metabolic-disease-mechanisms",
+  "text": {
+    "en": "Every metabolic/nutritional disease is fundamentally the same kind of problem: the body is missing something it needs, so more of that thing is always the right correction -- in reality, a true nutrient deficiency is corrected by supplying more of the missing nutrient, but an inborn error of metabolism is the opposite kind of problem -- the nutrient is often abundant already, and a broken enzyme fails to process it, so supplying more of it actively worsens the toxic buildup.",
+    "et": "Iga ainevahetus-/toitumishaigus on põhimõtteliselt samasugune probleem: kehal on midagi puudu, mida ta vajab, mistõttu selle asja lisamine on alati õige korrektsioon -- tegelikult korrigeeritakse tõelist toitainepuudust puuduva toitaine lisamisega, kuid kaasasündinud ainevahetushäire on vastupidine probleem -- toitaine on sageli juba piisavalt olemas ning katkine ensüüm ei suuda seda töödelda, mistõttu selle lisamine süvendab aktiivselt toksilist kuhjumist.",
+    "sourceHash": "93605504eb062c46",
+    "stale": false
+  }
+}

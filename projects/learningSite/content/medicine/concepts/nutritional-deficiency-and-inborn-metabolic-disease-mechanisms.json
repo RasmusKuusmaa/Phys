@@ -1,0 +1,19 @@
+{
+  "id": "nutritional-deficiency-and-inborn-metabolic-disease-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "endocrinology",
+  "title": {
+    "en": "Nutritional deficiency and inborn metabolic disease mechanisms",
+    "et": "Toitumisvaeguse ja kaasasündinud ainevahetushaiguste mehhanismid",
+    "sourceHash": "c207389aff487cf7",
+    "stale": false
+  },
+  "summary": {
+    "en": "A nutrient deficiency and an inborn error of metabolism can produce an identical downstream clinical picture through two entirely different routes into the same biochemical bottleneck, and distinguishing them matters for how each is actually addressed. A classic deficiency disease arises when an essential nutrient -- one the body cannot synthesize and must obtain from the diet -- is simply unavailable in sufficient quantity, so a specific biochemical pathway that depends on that nutrient as a cofactor or building block stalls; vitamin C's role as a required cofactor for collagen synthesis, and its absence producing scurvy's connective-tissue breakdown, is the textbook case. An inborn error of metabolism reaches the same kind of pathway failure from the opposite direction: the nutrient itself may be perfectly abundant in the diet, but a genetic mutation disables one specific enzyme needed to process that nutrient, so the pathway backs up at exactly the point that enzyme should act, and the problem is a broken processing step rather than a missing raw material -- phenylketonuria, where a missing enzyme prevents the essential amino acid phenylalanine from being metabolized normally so it accumulates to neurotoxic levels despite completely normal dietary phenylalanine intake, is the classic example. This distinction directly shapes how each is addressed: a true deficiency disease is corrected by simply supplying more of the missing nutrient, while an inborn error of metabolism instead usually requires restricting intake of the substance the body cannot process, because supplying more of it only accelerates the very accumulation that is causing harm.",
+    "et": "Toitainepuudus ja kaasasündinud ainevahetushäire võivad tekitada identse allavoolu kliinilise pildi kahe täiesti erineva tee kaudu samasse biokeemilisse kitsaskohta, ning nende eristamine on oluline selle jaoks, kuidas kumbagi tegelikult käsitletakse. Klassikaline puudushaigus tekib siis, kui essentsiaalne toitaine -- selline, mida keha ei suuda ise sünteesida ja mille peab saama toidust -- ei ole lihtsalt piisavas koguses kättesaadav, mistõttu konkreetne biokeemiline rada, mis sõltub sellest toitainest kofaktori või ehitusmaterjalina, seiskub; C-vitamiini roll kollageeni sünteesi vajaliku kofaktorina ja selle puudumine, mis tekitab skorbuudi sidekoe lagunemise, on õpikunäide. Kaasasündinud ainevahetushäire jõuab sama tüüpi raja rikkeni vastupidisest suunast: toitaine ise võib olla toidus täiesti piisavalt, kuid geneetiline mutatsioon lülitab välja ühe spetsiifilise ensüümi, mida on vaja selle toitaine töötlemiseks, mistõttu rada ummistub täpselt selles punktis, kus see ensüüm peaks toimima, ning probleem on katkine töötlusetapp, mitte puuduv tooraine -- fenüülketonuuria, kus puuduv ensüüm takistab essentsiaalse aminohappe fenüülalaniini normaalset ainevahetust, mistõttu see koguneb neurotoksiliste tasemeteni hoolimata täiesti normaalsest fenüülalaniini tarbimisest toiduga, on klassikaline näide. See eristus kujundab otseselt seda, kuidas kumbagi käsitletakse: tõelist puudushaigust korrigeeritakse lihtsalt puuduva toitaine lisamisega, samas kui kaasasündinud ainevahetushäire vajab tavaliselt hoopis selle aine tarbimise piiramist, mida keha ei suuda töödelda, kuna selle lisamine kiirendab ainult samasugust kahjustavat kuhjumist.",
+    "sourceHash": "284cb65cac7b2f3a",
+    "stale": false
+  },
+  "prerequisites": []
+}
