@@ -71,25 +71,42 @@ git log --oneline | grep '^content: add '   # concepts already landed
 Single module for now (`biology-fundamentals`), same one-module-through-
 later-phases pattern every new subject on this site has started with.
 
-- [ ] Evolution and natural selection (Darwinian selection, adaptation,
+- [x] Evolution and natural selection (Darwinian selection, adaptation,
       the major lines of evidence for evolution; no prerequisites — the
       unifying framework the rest of this subject builds on)
-- [ ] Speciation and phylogenetics (how new species arise — allopatric/
+- [x] Speciation and phylogenetics (how new species arise — allopatric/
       sympatric speciation — and how phylogenetic trees represent
       evolutionary relationships; prerequisite: evolution-and-natural-
       selection)
-- [ ] Taxonomy and biological classification (the three domains, kingdom-
+- [x] Taxonomy and biological classification (the three domains, kingdom-
       level classification, binomial nomenclature; no prerequisites)
-- [ ] Photosynthesis and plant energy metabolism (light-dependent and
+- [x] Photosynthesis and plant energy metabolism (light-dependent and
       light-independent reactions, C3/C4/CAM photosynthesis at an overview
       level — an entire biological process absent from every existing
-      subject; no prerequisites)
-- [ ] Population ecology and population dynamics (carrying capacity,
-      exponential vs. logistic population growth — a genuine formula
-      candidate; no prerequisites)
-- [ ] Community ecology and species interactions (competition, predation,
+      subject; no prerequisites; kept conceptual)
+- [x] Population ecology and population dynamics (carrying capacity,
+      exponential vs. logistic population growth; no prerequisites;
+      formalised the logistic growth equation, N = K/(1+((K-N0)/N0)e^(-rt)),
+      as a formula + problem template + error model — the one clean
+      numeric relationship in this phase's batch)
+- [x] Community ecology and species interactions (competition, predation,
       mutualism, and other symbiotic relationships; prerequisite:
-      population-ecology-and-population-dynamics)
+      population-ecology-and-population-dynamics; kept conceptual)
+
+Phase Bio1 complete: 6 biology concepts. Only `population-ecology-and-
+population-dynamics` got a formula; the rest are conceptual/mechanistic,
+same balance every prior subject's first phase has struck. Two new
+glossary terms added (`carrying-capacity`, `growth-rate`, domain
+`ecology`); all other formula symbols reused existing `population-size`
+and `time` entries. `npm run validate:content` (11 subjects — includes a
+sibling `earth-science` subject that appeared mid-phase, untouched by this
+directive — 659 concepts), `npm run lint:terminology` (269 glossary
+terms), and `npm run typecheck` all pass; every resource URL verified live
+with `curl`. One Estonian resource is an honest close match rather than an
+exact-topic match: `community-ecology-and-species-interactions` links to
+"Bioloogilised interaktsioonid" (biological interactions generally) since
+Estonian Wikipedia has no dedicated "community ecology" article at that
+exact scope.
 
 ## Phase Bio2 — not yet planned
 
