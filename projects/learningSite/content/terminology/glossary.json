@@ -224,6 +224,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/kordaja/1/est"
   },
   {
+    "id": "coefficient-of-determination",
+    "en": "coefficient of determination",
+    "et": "determinatsioonikordaja",
+    "domain": "statistics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/determinatsioonikordaja/1/est"
+  },
+  {
     "id": "compression-ratio",
     "en": "compression ratio",
     "et": "kompressioonaste",
@@ -306,6 +313,13 @@
     "et": "kriitiline temperatuur",
     "domain": "statistical-mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/kriitiline%20temperatuur/1/est"
+  },
+  {
+    "id": "critical-value",
+    "en": "critical value",
+    "et": "kriitiline väärtus",
+    "domain": "statistics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/kriitiline%20v%C3%A4%C3%A4rtus/1/est"
   },
   {
     "id": "crystal-lattice",
@@ -1463,6 +1477,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/t%C3%B6%C3%B6kindlus/1/est"
   },
   {
+    "id": "residual-sum-of-squares",
+    "en": "residual sum of squares",
+    "et": "jääkruutude summa",
+    "domain": "statistics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/j%C3%A4%C3%A4kruutude%20summa/1/est"
+  },
+  {
     "id": "resistance",
     "en": "resistance",
     "et": "takistus",
@@ -1769,6 +1790,13 @@
     "et": "jõumoment",
     "domain": "mechanics",
     "source": "https://sonaveeb.ee/search/unif/est/eki/jõumoment/1/est"
+  },
+  {
+    "id": "total-sum-of-squares",
+    "en": "total sum of squares",
+    "et": "kogu ruutude summa",
+    "domain": "statistics",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/ruutude%20summa/1/est"
   },
   {
     "id": "transmission-coefficient",
