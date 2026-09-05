@@ -1,0 +1,21 @@
+{
+  "id": "algorithmic-complexity-and-big-o-notation",
+  "subject": "computing",
+  "level": "L2",
+  "module": "programming-fundamentals",
+  "title": {
+    "en": "Algorithmic complexity and Big-O notation",
+    "et": "Algoritmi keerukus ja O-tähistus",
+    "sourceHash": "f9a74e172fd2827d",
+    "stale": false
+  },
+  "summary": {
+    "en": "Big-O notation describes how an algorithm's running time (or memory use) grows as the size of its input grows, not how many seconds it actually takes on any particular machine -- an algorithm is O(n) if doubling the input roughly doubles the work, O(n^2) if doubling the input roughly quadruples the work, and so on, and this growth-rate classification deliberately throws away constant factors and lower-order terms because they get overwhelmed by the growth rate itself once the input is large enough, leaving only the term that actually determines how the algorithm scales. This is why an O(n) algorithm with a large constant factor can genuinely run slower than an O(n^2) algorithm on small inputs, yet the O(n) algorithm is still the better long-term choice: at small n the constant factor dominates, but past some crossover point the growth rate takes over completely and no constant-factor advantage can save the faster-growing algorithm. Common complexity classes form a strict hierarchy from best to worst -- constant O(1), logarithmic O(log n), linear O(n), linearithmic O(n log n), quadratic O(n^2), and exponential O(2^n) -- and recognizing which class a piece of code falls into (typically by counting nested loops over the input) is one of the most practically useful skills in software engineering, since it predicts whether an algorithm that works fine on a test dataset will still work at all on a dataset a thousand times larger.",
+    "et": "O-tähistus kirjeldab, kuidas algoritmi täitmisaeg (või mälukasutus) kasvab sisendi suuruse kasvades, mitte seda, mitu sekundit see mingil konkreetsel masinal tegelikult võtab -- algoritm on O(n), kui sisendi kahekordistamine kahekordistab ligikaudu ka töö hulga, O(n^2), kui sisendi kahekordistamine neljakordistab ligikaudu töö hulga, ja nii edasi, ning see kasvukiiruse klassifikatsioon jätab teadlikult kõrvale konstantsed tegurid ja madalamat järku liikmed, kuna need jäävad piisavalt suure sisendi korral kasvukiiruse enda poolt üle kaalutuks, jättes alles ainult liikme, mis tegelikult määrab, kuidas algoritm skaleerub. Sellepärast võib O(n) algoritm suure konstantse teguriga tegelikult töötada aeglasemalt kui O(n^2) algoritm väikeste sisendite korral, kuid O(n) algoritm on siiski parem pikaajaline valik: väikese n korral domineerib konstantne tegur, kuid teatud ristumispunktist alates võtab kasvukiirus täielikult üle ja ükski konstantse teguri eelis ei suuda kiiremini kasvavat algoritmi päästa. Levinud keerukusklassid moodustavad range hierarhia parimast halvimani -- konstantne O(1), logaritmiline O(log n), lineaarne O(n), lineaarlogaritmiline O(n log n), ruutlik O(n^2) ja eksponentsiaalne O(2^n) --, ning ära tundmine, millisesse klassi mingi koodilõik kuulub (tavaliselt sisendi üle pesastatud tsüklite loendamise teel), on üks praktiliselt kasulikumaid oskusi tarkvaraarenduses, kuna see ennustab, kas algoritm, mis töötab hästi testandmestikul, töötab üldse tuhat korda suuremal andmestikul.",
+    "sourceHash": "9bc9feef6690d8d4",
+    "stale": false
+  },
+  "prerequisites": [
+    "data-structures-and-algorithms"
+  ]
+}

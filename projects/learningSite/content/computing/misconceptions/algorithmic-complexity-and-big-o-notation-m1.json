@@ -1,0 +1,10 @@
+{
+  "id": "algorithmic-complexity-and-big-o-notation-m1",
+  "conceptId": "algorithmic-complexity-and-big-o-notation",
+  "text": {
+    "en": "Big-O notation measures actual runtime in seconds, so an algorithm labeled O(n) is inherently faster than one labeled O(n^2) on any given input -- in reality, Big-O describes how runtime scales as input size grows, not the actual runtime for a specific input; an O(n) algorithm with a large constant factor can run slower in absolute seconds than an O(n^2) algorithm on small inputs, even though the O(n) algorithm scales better as input grows.",
+    "et": "O-tähistus mõõdab tegelikku täitmisaega sekundites, mistõttu algoritm, mida tähistatakse O(n), on olemuslikult kiirem kui see, mida tähistatakse O(n^2), mistahes sisendi korral -- tegelikult kirjeldab O-tähistus, kuidas täitmisaeg skaleerub sisendi suuruse kasvades, mitte tegelikku täitmisaega konkreetse sisendi korral; O(n) algoritm suure konstantse teguriga võib töötada absoluutsetes sekundites aeglasemalt kui O(n^2) algoritm väikeste sisendite korral, ehkki O(n) algoritm skaleerub sisendi kasvades paremini.",
+    "sourceHash": "03ee847f300f2eb7",
+    "stale": false
+  }
+}

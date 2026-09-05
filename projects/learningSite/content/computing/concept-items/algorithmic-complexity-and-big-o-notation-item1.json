@@ -1,0 +1,56 @@
+{
+  "id": "algorithmic-complexity-and-big-o-notation-item1",
+  "conceptId": "algorithmic-complexity-and-big-o-notation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "An engineer benchmarks two sorting algorithms: Algorithm A is O(n log n) and Algorithm B is O(n^2). On a test list of 50 items, Algorithm B actually runs faster. Which conclusion is correct?",
+    "et": "Insener võrdleb kahte sorteerimisalgoritmi: algoritm A on O(n log n) ja algoritm B on O(n^2). Testnimekirjal 50 elemendiga töötab algoritm B tegelikult kiiremini. Milline järeldus on õige?",
+    "sourceHash": "7ccbe61044de28b5",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "This is consistent with Big-O describing only asymptotic growth rate -- at small n, Algorithm B's smaller constant factor can outweigh its worse growth rate, but Algorithm A should win once n grows large enough.",
+        "et": "See on kooskõlas sellega, et O-tähistus kirjeldab ainult asümptootilist kasvukiirust -- väikese n korral võib algoritm B väiksem konstantne tegur kaaluda üles selle halvema kasvukiiruse, kuid algoritm A peaks võitma, kui n kasvab piisavalt suureks.",
+        "sourceHash": "919dc185ef62fd83",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This must mean the Big-O classifications were assigned incorrectly, since a true O(n log n) algorithm is always faster in absolute terms than a true O(n^2) algorithm.",
+        "et": "See peab tähendama, et O-klassifikatsioonid on valesti määratud, kuna tõeline O(n log n) algoritm on alati absoluutses mõttes kiirem kui tõeline O(n^2) algoritm.",
+        "sourceHash": "9f1deb165c60ac64",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "algorithmic-complexity-and-big-o-notation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This is only possible if the benchmark dropped constant factors incorrectly, since constant factors don't actually affect real-world runtime once Big-O class is known.",
+        "et": "See on võimalik ainult siis, kui võrdlustestis jäeti konstantsed tegurid valesti arvestamata, kuna konstantsed tegurid ei mõjuta tegelikult reaalset täitmisaega, kui O-klass on teada.",
+        "sourceHash": "2e280a60f2deaf7f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "algorithmic-complexity-and-big-o-notation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Algorithm B must actually have better asymptotic complexity than Algorithm A, since it ran faster on the test, regardless of their labeled Big-O classes.",
+        "et": "Algoritmil B peab tegelikult olema parem asümptootiline keerukus kui algoritmil A, kuna see testis kiiremini töötas, sõltumata nende märgitud O-klassidest.",
+        "sourceHash": "21309232e71ab857",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "algorithmic-complexity-and-big-o-notation-m3"
+    }
+  ]
+}

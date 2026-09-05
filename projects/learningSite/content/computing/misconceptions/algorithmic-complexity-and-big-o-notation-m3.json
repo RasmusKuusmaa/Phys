@@ -1,0 +1,10 @@
+{
+  "id": "algorithmic-complexity-and-big-o-notation-m3",
+  "conceptId": "algorithmic-complexity-and-big-o-notation",
+  "text": {
+    "en": "Constant factors and lower-order terms are dropped from Big-O notation because they genuinely don't matter to a program's real-world performance -- in reality, they're dropped only because Big-O is specifically a tool for describing long-run growth-rate behavior; those dropped factors absolutely matter for real-world performance at practical input sizes, which is why engineers still care about constant-factor optimization even when two algorithms share the same Big-O class.",
+    "et": "Konstantsed tegurid ja madalamat järku liikmed jäetakse O-tähistusest välja, kuna need tõesti ei oma tähtsust programmi reaalse jõudluse jaoks -- tegelikult jäetakse need välja ainult seetõttu, et O-tähistus on spetsiifiliselt tööriist pikaajalise kasvukiiruse käitumise kirjeldamiseks; need väljajäetud tegurid omavad reaalses jõudluses praktiliste sisendisuuruste juures täiesti olulist tähtsust, mistõttu insenerid hoolivad ikkagi konstantse teguri optimeerimisest, isegi kui kaks algoritmi jagavad sama O-klassi.",
+    "sourceHash": "e60fd6ef650b640e",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "algorithmic-complexity-and-big-o-notation-m2",
+  "conceptId": "algorithmic-complexity-and-big-o-notation",
+  "text": {
+    "en": "An algorithm with better Big-O complexity is always faster in absolute terms for every input size, even very small ones -- in reality, Big-O only describes asymptotic behavior as input size grows toward infinity; for small inputs, an algorithm with worse asymptotic complexity but a smaller constant factor or simpler operations can easily run faster, which is why real systems sometimes deliberately use a 'worse' algorithm below some threshold size.",
+    "et": "Algoritm parema O-keerukusega on alati absoluutses mõttes kiirem iga sisendi suuruse korral, isegi väga väikeste puhul -- tegelikult kirjeldab O-tähistus ainult asümptootilist käitumist, kui sisendi suurus kasvab lõpmatuseni; väikeste sisendite korral võib algoritm, millel on halvem asümptootiline keerukus, kuid väiksem konstantne tegur või lihtsamad operatsioonid, kergesti töötada kiiremini, mistõttu kasutavad reaalsed süsteemid mõnikord teadlikult 'halvemat' algoritmi allpool teatud lävendsuurust.",
+    "sourceHash": "889de5d1e0de845c",
+    "stale": false
+  }
+}
