@@ -1,0 +1,19 @@
+{
+  "id": "integumentary-system-anatomy-and-physiology",
+  "subject": "medicine",
+  "level": "L1",
+  "module": "dermatology",
+  "title": {
+    "en": "Integumentary system anatomy and physiology",
+    "et": "Nahakatte anatoomia ja füsioloogia",
+    "sourceHash": "2647f81059b4b4c4",
+    "stale": false
+  },
+  "summary": {
+    "en": "The skin is not simply a passive covering but the body's largest organ, built from three distinct layers -- the epidermis (a self-renewing, waterproof outer barrier built from layered keratinocytes), the dermis (a dense connective-tissue layer housing blood vessels, nerve endings, and the hair follicles and glands that are the skin's appendages), and the hypodermis (a subcutaneous fat layer for insulation and energy storage) -- each contributing to functions far beyond simple protection: the epidermis's tight keratinocyte layering and lipid matrix keep water in and pathogens out, the dermis's dense sensory nerve endings make skin the body's largest sensory organ, and the combination of sweat glands and a controllable blood supply lets skin serve as the primary organ of thermoregulation, dilating vessels and activating sweat glands to shed heat or constricting vessels to conserve it.",
+    "et": "Nahk ei ole lihtsalt passiivne kate, vaid keha suurim organ, mis on üles ehitatud kolmest eristuvast kihist -- epidermisest (iseennast uuendav, veekindel välimine barjäär, mis on üles ehitatud kihiliselt paiknevatest keratinotsüütidest), dermisest (tihe sidekoekiht, mis sisaldab veresooni, närvilõpmeid ning karvafolliikuleid ja näärmeid, mis on naha lisandid) ja hüpodermisest (nahaalune rasvakiht soojusisolatsiooniks ja energia salvestamiseks) --, millest igaüks panustab funktsioonidesse, mis ulatuvad kaugemale lihtsast kaitsest: epidermise tihe keratinotsüütide kihistumine ja lipiidne maatriks hoiavad vett sees ja patogeenid väljas, dermise tihedad sensoorsed närvilõpmed teevad nahast keha suurima meeleorgani, ning higinäärmete ja reguleeritava verevarustuse kombinatsioon lubab nahal toimida peamise termoregulatsiooni organina, laiendades veresooni ja aktiveerides higinäärmeid soojuse eraldamiseks või ahendades veresooni selle säilitamiseks.",
+    "sourceHash": "aa6d2abeb58a05db",
+    "stale": false
+  },
+  "prerequisites": []
+}

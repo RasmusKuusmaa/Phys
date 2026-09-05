@@ -1,0 +1,56 @@
+{
+  "id": "integumentary-system-anatomy-and-physiology-item1",
+  "conceptId": "integumentary-system-anatomy-and-physiology",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Which of the following best explains why the outermost visible surface of skin is made of dead, flattened cells rather than living ones?",
+    "et": "Mis järgnevatest selgitab kõige paremini, miks naha kõige välimine nähtav pind koosneb surnud, lamendunud rakkudest, mitte elusatest?",
+    "sourceHash": "91b8526e6de56f5c",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Keratinocytes are only capable of active division in the epidermis's deepest layer; as they're pushed upward over time they die and flatten into a tough, waterproof outer layer, which is what actually functions as the barrier.",
+        "et": "Keratinotsüüdid suudavad aktiivselt jaguneda ainult epidermise sügavaimas kihis; aja jooksul ülespoole lükatuna surevad need ja lamenevad tugevaks, veekindlaks väliskihiks, mis tegelikult toimibki barjäärina.",
+        "sourceHash": "b1a1152a962e8fec",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "All epidermal cells are actively dividing at all times, including at the surface, and 'dead' skin cells are simply cells that have stopped functioning entirely rather than a deliberate barrier structure.",
+        "et": "Kõik epidermise rakud jagunevad pidevalt, ka pinnal, ning 'surnud' naharakud on lihtsalt rakud, mis on täielikult lakanud toimimast, mitte tahtlik barjäärstruktuur.",
+        "sourceHash": "47a697cfb9d8fcf5",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "integumentary-system-anatomy-and-physiology-m3"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The skin is a single uniform tissue rather than distinct layers, so there's no real difference between its surface and its deeper regions.",
+        "et": "Nahk on ühtne homogeenne kude, mitte eristuvad kihid, mistõttu ei ole selle pinna ja sügavamate piirkondade vahel tegelikku erinevust.",
+        "sourceHash": "581d26632a7f3c60",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "integumentary-system-anatomy-and-physiology-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Sweat glands actively push dead cell material to the surface as a passive byproduct of thermoregulation, unrelated to the epidermis's own cell life cycle.",
+        "et": "Higinäärmed lükkavad aktiivselt surnud rakumaterjali pinnale termoregulatsiooni passiivse kõrvalnähtusena, mis ei ole seotud epidermise enda rakutsükliga.",
+        "sourceHash": "740448936876a328",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "integumentary-system-anatomy-and-physiology-m2"
+    }
+  ]
+}
