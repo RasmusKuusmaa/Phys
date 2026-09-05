@@ -1,0 +1,10 @@
+{
+  "id": "structural-design-and-load-analysis-m1",
+  "conceptId": "structural-design-and-load-analysis",
+  "text": {
+    "en": "A structure only needs to be designed for whichever single load type is largest, since that's the worst case -- in reality, multiple load types can act simultaneously (e.g. full live load plus a windstorm), and building codes specify load combinations precisely because the worst realistic scenario is often several loads acting together at partial magnitude, not the single largest load type acting alone.",
+    "et": "Konstruktsiooni tuleb projekteerida ainult selle jaoks, milline üksik koormustüüp on suurim, kuna see on halvim juht -- tegelikult võivad mitu koormustüüpi mõjuda samaaegselt (nt täis kasuskoormus koos tormiga), ning ehitusnormid määravad koormuskombinatsioonid täpselt seetõttu, et halvim realistlik stsenaarium on sageli mitme koormuse osaline samaaegne mõju, mitte üksiku suurima koormustüübi mõju üksinda.",
+    "sourceHash": "e07bd4b97d46d51b",
+    "stale": false
+  }
+}

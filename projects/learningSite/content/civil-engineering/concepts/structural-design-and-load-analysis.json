@@ -1,0 +1,19 @@
+{
+  "id": "structural-design-and-load-analysis",
+  "subject": "civil-engineering",
+  "level": "L2",
+  "module": "civil-engineering-fundamentals",
+  "title": {
+    "en": "Structural design and load analysis",
+    "et": "Konstruktsioonide projekteerimine ja koormusanalüüs",
+    "sourceHash": "687c25340d9244f6",
+    "stale": false
+  },
+  "summary": {
+    "en": "A building or bridge is never designed against a single worst-case number; it is designed against several genuinely different categories of load that behave differently and can occur in combination. Dead load is the structure's own permanent weight -- unchanging and present for the structure's entire life. Live load is the variable, occupancy-driven weight a structure must carry -- people, furniture, stored goods -- described statistically rather than as one fixed number. Wind load and seismic load are environmental loads driven by external events, and unlike dead and live load they act laterally as often as vertically, which is why a structure that easily carries its own weight can still fail in an earthquake or hurricane if it was never designed to resist horizontal force. Because these load categories can act simultaneously, a structural designer does not check each one in isolation; building codes specify load combinations -- weighted sums of dead, live, wind, and seismic load applied together -- and the structure must survive the worst realistic combination, not just the worst single load type alone, with an additional safety factor built in to cover the inevitable uncertainty in how loads are estimated and how materials actually perform.",
+    "et": "Hoonet või silda ei projekteerita kunagi ühe kõige halvema juhu numbri vastu; seda projekteeritakse mitme tõeliselt erineva koormuskategooria vastu, mis käituvad erinevalt ja võivad esineda kombinatsioonis. Omakaal on konstruktsiooni enda alaline raskus -- muutumatu ja olemas kogu konstruktsiooni eluea vältel. Kasuskoormus on muutuv, kasutusest tulenev raskus, mida konstruktsioon peab kandma -- inimesed, mööbel, ladustatud kaup --, mida kirjeldatakse statistiliselt, mitte ühe fikseeritud numbrina. Tuulekoormus ja seismiline koormus on väliste sündmuste põhjustatud keskkonnakoormused, ning erinevalt omakaalust ja kasuskoormusest mõjuvad need sama sageli horisontaalselt kui vertikaalselt, mistõttu konstruktsioon, mis kannab kergesti oma raskust, võib maavärina või orkaani ajal siiski puruneda, kui seda pole kunagi projekteeritud horisontaalsele jõule vastu pidama. Kuna need koormuskategooriad võivad mõjuda samaaegselt, ei kontrolli konstrukteerija igaüht eraldi; ehitusnormid määravad koormuskombinatsioonid -- omakaalu, kasuskoormuse, tuule- ja seismilise koormuse kaalutud summad, mida rakendatakse koos --, ning konstruktsioon peab vastu pidama halvimale realistlikule kombinatsioonile, mitte ainult halvimale üksikule koormustüübile, koos täiendava varuteguriga, mis katab koormuste hindamise ja materjalide tegeliku käitumise vältimatu ebakindluse.",
+    "sourceHash": "64eb0614049790e4",
+    "stale": false
+  },
+  "prerequisites": []
+}

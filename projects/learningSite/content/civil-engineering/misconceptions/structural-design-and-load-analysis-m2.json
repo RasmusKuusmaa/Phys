@@ -1,0 +1,10 @@
+{
+  "id": "structural-design-and-load-analysis-m2",
+  "conceptId": "structural-design-and-load-analysis",
+  "text": {
+    "en": "Wind and seismic loads matter only for very tall or unusual buildings; ordinary structures only need to resist gravity loads (dead + live) -- in reality, lateral loads act on every structure exposed to wind or in a seismic zone, and a structure that easily carries its own weight vertically can still fail under horizontal load if it was never designed to resist it -- lateral load resistance is a standard part of structural design everywhere, not a special case for skyscrapers only.",
+    "et": "Tuule- ja seismilised koormused on olulised ainult väga kõrgete või ebatavaliste hoonete jaoks; tavalised konstruktsioonid peavad vastu pidama ainult gravitatsioonikoormustele (omakaal + kasuskoormus) -- tegelikult mõjuvad külgkoormused igale konstruktsioonile, mis on tuulele avatud või asub seismilises tsoonis, ning konstruktsioon, mis kannab kergesti oma raskust vertikaalselt, võib siiski horisontaalse koormuse all puruneda, kui seda pole kunagi selleks projekteeritud -- külgkoormuskindlus on tavaline osa konstruktsioonide projekteerimisest kõikjal, mitte pilvelõhkujate erijuht.",
+    "sourceHash": "a19a84cde15bdad6",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "structural-design-and-load-analysis-m3",
+  "conceptId": "structural-design-and-load-analysis",
+  "text": {
+    "en": "A safety factor exists mainly to allow for construction mistakes/poor workmanship, not for genuine uncertainty in the loads and materials themselves -- in reality, the safety factor built into structural design also covers real, irreducible uncertainty in how accurately loads were estimated and in actual material properties varying from their nominal/tested values -- it is not solely a hedge against human error during construction.",
+    "et": "Varutegur eksisteerib peamiselt selleks, et arvestada ehitusvigade või halva töökvaliteediga, mitte tegeliku ebakindlusega koormustes ja materjalides endis -- tegelikult katab konstruktsioonide projekteerimisse sisse ehitatud varutegur ka tõelist, kõrvaldamatut ebakindlust koormuste hindamise täpsuses ja materjali tegelike omaduste varieerumises nominaal-/testitud väärtustest -- see ei ole üksnes kaitse inimliku vea vastu ehituse ajal.",
+    "sourceHash": "e76dcf322fbc4f78",
+    "stale": false
+  }
+}

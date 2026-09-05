@@ -1,0 +1,56 @@
+{
+  "id": "structural-design-and-load-analysis-item1",
+  "conceptId": "structural-design-and-load-analysis",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A warehouse roof is designed to easily support its own weight (dead load) and the maximum expected stored-goods weight (live load) separately. Why might the roof still fail during a severe windstorm even though neither dead nor live load alone exceeds its capacity?",
+    "et": "Laohoone katus on projekteeritud kergesti kandma nii oma raskust (omakaal) kui ka maksimaalset oodatavat ladustatud kauba raskust (kasuskoormus) eraldi. Miks võib katus siiski tugeva tormi ajal puruneda, kuigi ei omakaal ega kasuskoormus üksinda ei ületa selle kandevõimet?",
+    "sourceHash": "2fd4f9fab16449cc",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because wind load acts laterally/can also act as uplift, a fundamentally different load direction than the vertical dead and live loads the roof was checked against individually, and load combinations require checking these loads acting together, not each in isolation.",
+        "et": "Sest tuulekoormus mõjub külgsuunas ja/või ülestõstena, põhimõtteliselt erinevas suunas kui vertikaalsed omakaal ja kasuskoormus, mille vastu katust eraldi kontrolliti, ning koormuskombinatsioonid nõuavad nende koormuste kontrollimist koos, mitte igaüht eraldi.",
+        "sourceHash": "4fb694de914d86a8",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It shouldn't fail -- if a structure safely carries its single largest load type, it is automatically safe against any other load or combination of loads.",
+        "et": "See ei tohiks puruneda -- kui konstruktsioon kannab ohutult oma suurimat üksikut koormustüüpi, on see automaatselt ohutu igasuguse muu koormuse või koormuste kombinatsiooni suhtes.",
+        "sourceHash": "cddade349aaffacb",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structural-design-and-load-analysis-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Wind load only matters for tall buildings, so an ordinary single-story warehouse should never need wind-load design consideration in the first place.",
+        "et": "Tuulekoormus on oluline ainult kõrghoonete jaoks, mistõttu tavaline üksikorruseline laohoone ei peaks üldse vajama tuulekoormuse arvestamist projekteerimisel.",
+        "sourceHash": "7523f2e7eccb3081",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structural-design-and-load-analysis-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This can only be explained by a construction defect or workmanship error, since the design's safety factor should otherwise cover any legitimate load scenario with certainty.",
+        "et": "Seda saab seletada ainult ehitusdefekti või töökvaliteedi veaga, kuna projekti varutegur peaks muidu katma iga õiguspärast koormusstsenaariumi kindlusega.",
+        "sourceHash": "74a5cf8b69d463ba",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "structural-design-and-load-analysis-m3"
+    }
+  ]
+}
