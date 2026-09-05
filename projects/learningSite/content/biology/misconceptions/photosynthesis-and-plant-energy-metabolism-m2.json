@@ -1,0 +1,10 @@
+{
+  "id": "photosynthesis-and-plant-energy-metabolism-m2",
+  "conceptId": "photosynthesis-and-plant-energy-metabolism",
+  "text": {
+    "en": "The 'light-independent reactions' of photosynthesis (the Calvin cycle) only happen at night/in darkness, which is why they're sometimes called the 'dark reactions.' -- in reality, the Calvin cycle doesn't directly require light, but it does require the ATP and NADPH the light-dependent reactions just produced, so in most plants it actually runs during daylight alongside the light-dependent reactions, not at night; the name 'dark reactions' is an outdated, misleading holdover that doesn't mean 'happens in the dark.'",
+    "et": "Fotosünteesi 'valgusest sõltumatud reaktsioonid' (Calvini tsükkel) toimuvad ainult öösel/pimeduses, mistõttu neid mõnikord nimetatakse 'pimereaktsioonideks.' -- tegelikult ei vaja Calvini tsükkel otseselt valgust, kuid see vajab ATP-d ja NADPH-d, mida valgusest sõltuvad reaktsioonid just tootsid, mistõttu enamikel taimedel toimub see tegelikult päevavalguses koos valgusest sõltuvate reaktsioonidega, mitte öösel; nimi 'pimereaktsioonid' on vananenud, eksitav pärand, mis ei tähenda 'toimub pimeduses.'",
+    "sourceHash": "c174430cf48885eb",
+    "stale": false
+  }
+}

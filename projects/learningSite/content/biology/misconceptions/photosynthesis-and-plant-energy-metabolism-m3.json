@@ -1,0 +1,10 @@
+{
+  "id": "photosynthesis-and-plant-energy-metabolism-m3",
+  "conceptId": "photosynthesis-and-plant-energy-metabolism",
+  "text": {
+    "en": "C4 and CAM photosynthesis are simply defective or inferior versions of 'normal' C3 photosynthesis. -- in reality, C4 and CAM are independently evolved adaptations that solve a genuine tradeoff C3 plants face in hot/dry conditions (losing water through open stomata vs. losing CO2-fixation efficiency through closed stomata), and each is more efficient than C3 specifically in the hot, dry, or high-light conditions it evolved for, not a broken or lesser version of the same process.",
+    "et": "C4- ja CAM-fotosüntees on lihtsalt 'normaalse' C3-fotosünteesi defektsed või halvemad versioonid -- tegelikult on C4 ja CAM iseseisvalt arenenud kohastumused, mis lahendavad tõelise kompromissi, millega C3-taimed kuumades/kuivades tingimustes silmitsi seisavad (vee kaotamine läbi avatud õhulõhede vs. CO2-sidumise efektiivsuse kaotamine suletud õhulõhede kaudu), ning kumbki on efektiivsem kui C3 spetsiifiliselt kuumades, kuivades või kõrge valgusega tingimustes, milleks see arenes, mitte katkine või halvem versioon samast protsessist.",
+    "sourceHash": "02f041c00efc05f4",
+    "stale": false
+  }
+}

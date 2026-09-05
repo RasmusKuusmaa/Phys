@@ -1,0 +1,56 @@
+{
+  "id": "photosynthesis-and-plant-energy-metabolism-item1",
+  "conceptId": "photosynthesis-and-plant-energy-metabolism",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A student claims that the Calvin cycle happens 'at night' since it's called the light-independent reaction. Why is this description misleading for most plants?",
+    "et": "Õpilane väidab, et Calvini tsükkel toimub 'öösel,' kuna seda nimetatakse valgusest sõltumatuks reaktsiooniks. Miks on see kirjeldus enamiku taimede jaoks eksitav?",
+    "sourceHash": "915f13b382142284",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The Calvin cycle doesn't directly need light itself, but it depends on ATP and NADPH produced by the light-dependent reactions, so in most plants it runs during daylight alongside those reactions, not separately at night.",
+        "et": "Calvini tsükkel ei vaja otseselt valgust ennast, kuid see sõltub valgusest sõltuvate reaktsioonide toodetud ATP-st ja NADPH-st, mistõttu enamikel taimedel toimub see päevavalguses koos nende reaktsioonidega, mitte eraldi öösel.",
+        "sourceHash": "555a3e219fc6ec29",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "It isn't misleading -- the Calvin cycle genuinely only runs at night in all photosynthetic plants, which is exactly why it's called 'light-independent.'",
+        "et": "See ei ole eksitav -- Calvini tsükkel toimub tõesti kõigis fotosünteesivates taimedes ainult öösel, mis ongi täpselt põhjus, miks seda nimetatakse 'valgusest sõltumatuks.'",
+        "sourceHash": "a44952b8bac50317",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "photosynthesis-and-plant-energy-metabolism-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The Calvin cycle is how plants digest the sunlight they absorbed during the day, so it makes sense that this digestion happens afterward, at night.",
+        "et": "Calvini tsükkel on viis, kuidas taimed seedivad päeva jooksul neeldunud päikesevalgust, mistõttu on loogiline, et see seedimine toimub hiljem, öösel.",
+        "sourceHash": "329eff71374b6156",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "photosynthesis-and-plant-energy-metabolism-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "This description is accurate specifically for C4 and CAM plants, which are defective variants that had to move the Calvin cycle to nighttime to compensate for their impaired photosynthesis.",
+        "et": "See kirjeldus on täpne spetsiifiliselt C4- ja CAM-taimede puhul, mis on defektsed variandid, kes pidid Calvini tsükli üle viima öisele ajale, et kompenseerida oma häiritud fotosünteesi.",
+        "sourceHash": "5a6993ce77814bb7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "photosynthesis-and-plant-energy-metabolism-m3"
+    }
+  ]
+}
