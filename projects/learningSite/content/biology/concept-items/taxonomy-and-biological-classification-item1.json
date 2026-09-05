@@ -1,0 +1,56 @@
+{
+  "id": "taxonomy-and-biological-classification-item1",
+  "conceptId": "taxonomy-and-biological-classification",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two single-celled microorganisms, one classified in domain Bacteria and one in domain Archaea, look almost identical under a light microscope. Why are they nonetheless placed in different domains, one of the most fundamental divisions in all of biological classification?",
+    "et": "Kaks üherakulist mikroorganismi, üks klassifitseeritud domeeni Bakterid ja teine domeeni Arhed, näevad valgusmikroskoobi all peaaegu identsed välja. Miks paigutatakse nad sellegipoolest erinevatesse domeenidesse, ühte kõige fundamentaalsemasse jaotusesse kogu bioloogilises klassifikatsioonis?",
+    "sourceHash": "d3d80e488b52c388",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because domain-level classification is based on deep molecular and cell-structural differences (membrane chemistry, RNA polymerase structure, and other core machinery), not on visual appearance under a microscope, and these two lineages differ fundamentally at that molecular level despite superficial visual similarity.",
+        "et": "Sest domeeni tasandi klassifikatsioon põhineb sügavatel molekulaarsetel ja rakustruktuurilistel erinevustel (membraani keemia, RNA polümeraasi struktuur ja muu tuumikmasinavärk), mitte visuaalsel väljanägemisel mikroskoobi all, ning need kaks suguliini erinevad fundamentaalselt sellel molekulaarsel tasandil, hoolimata pealiskaudsest visuaalsest sarnasusest.",
+        "sourceHash": "d4b144b5a2462e18",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "They aren't really placed in different domains for any deep scientific reason -- Bacteria and Archaea are basically the same kind of organism with different historical names.",
+        "et": "Neid ei ole tegelikult mingil sügaval teaduslikul põhjusel erinevatesse domeenidesse paigutatud -- Bakterid ja Arhed on põhimõtteliselt sama tüüpi organism erinevate ajalooliste nimedega.",
+        "sourceHash": "05a7812035b1f6d8",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "taxonomy-and-biological-classification-m2"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Since they look nearly identical, this must actually be a classification error that should eventually be corrected to place them in the same domain.",
+        "et": "Kuna nad näevad peaaegu identsed välja, peab see tegelikult olema klassifikatsiooniviga, mis tuleks lõpuks parandada, et paigutada nad samasse domeeni.",
+        "sourceHash": "ad16b990b3fa513e",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "taxonomy-and-biological-classification-m1"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The domain assignment is based on tradition and has been taught this way for a long time, independent of what any molecular evidence might show about their actual relationship.",
+        "et": "Domeeni määramine põhineb traditsioonil ja seda on nii kaua õpetatud, sõltumata sellest, mida molekulaarsed tõendid nende tegeliku suhte kohta võiksid näidata.",
+        "sourceHash": "b1cad020dfbe701c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "taxonomy-and-biological-classification-m3"
+    }
+  ]
+}

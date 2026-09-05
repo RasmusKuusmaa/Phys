@@ -1,0 +1,10 @@
+{
+  "id": "taxonomy-and-biological-classification-m1",
+  "conceptId": "taxonomy-and-biological-classification",
+  "text": {
+    "en": "A species is defined mainly by how similar two organisms look to a human observer, so two very similar-looking organisms must be the same species (or very closely related). -- in reality, taxonomic classification is based on evolutionary relationship (and, at the species level, reproductive compatibility), not visual resemblance to a human eye; convergent evolution can make distantly related organisms look very similar, and legitimate close relatives can look quite different.",
+    "et": "Liik on defineeritud peamiselt selle järgi, kui sarnased kaks organismi inimvaatlejale näivad, mistõttu kaks väga sarnase välimusega organismi peavad olema sama liik (või väga lähedalt suguluses) -- tegelikult põhineb taksonoomiline klassifikatsioon evolutsioonilisel sugulusel (ja liigitasandil reproduktiivsel ühilduvusel), mitte visuaalsel sarnasusel inimsilmale; konvergentne evolutsioon võib kaugelt sugulased organismid teha väga sarnaseks, ning legitiimsed lähedased sugulased võivad näha üsna erinevad välja.",
+    "sourceHash": "fbcafa026038080e",
+    "stale": false
+  }
+}

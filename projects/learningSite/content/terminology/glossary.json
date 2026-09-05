@@ -987,6 +987,13 @@
     "source": "https://sonaveeb.ee/search/unif/est/eki/suurendus/1/est"
   },
   {
+    "id": "magnitude",
+    "en": "magnitude",
+    "et": "magnituud",
+    "domain": "seismology",
+    "source": "https://sonaveeb.ee/search/unif/est/eki/magnituud/1/est"
+  },
+  {
     "id": "mass",
     "en": "mass",
     "et": "mass",

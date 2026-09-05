@@ -1,0 +1,10 @@
+{
+  "id": "taxonomy-and-biological-classification-m3",
+  "conceptId": "taxonomy-and-biological-classification",
+  "text": {
+    "en": "A classification group like 'reptiles' is a valid, permanent scientific category simply because it has always been taught that way, regardless of what phylogenetics later reveals about relationships. -- in reality, modern taxonomy requires every named group to be monophyletic (containing a common ancestor and all of its descendants); the traditional 'reptile' grouping, as originally defined, excludes birds even though birds are phylogenetically nested within the same lineage as crocodilians, which is exactly why that traditional grouping has been revised in modern classification.",
+    "et": "Klassifikatsioonirühm nagu 'roomajad' on kehtiv, alaline teaduslik kategooria lihtsalt seetõttu, et seda on alati nii õpetatud, sõltumata sellest, mida fülogeneetika hiljem suhete kohta paljastab -- tegelikult nõuab tänapäevane taksonoomia, et iga nimetatud rühm oleks monofüleetiline (sisaldaks ühist esivanemat ja kõiki tema järglasi); traditsiooniline 'roomajate' rühm, nagu algselt määratletud, välistab linnud, kuigi linnud on fülogeneetiliselt pesastatud samasse suguliini krokodillidega, mis ongi täpselt põhjus, miks seda traditsioonilist rühma on tänapäevases klassifikatsioonis üle vaadatud.",
+    "sourceHash": "908f30f9eca3f0f0",
+    "stale": false
+  }
+}
