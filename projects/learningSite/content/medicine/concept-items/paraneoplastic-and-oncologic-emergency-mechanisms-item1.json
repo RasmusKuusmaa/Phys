@@ -1,0 +1,56 @@
+{
+  "id": "paraneoplastic-and-oncologic-emergency-mechanisms-item1",
+  "conceptId": "paraneoplastic-and-oncologic-emergency-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why is tumor lysis syndrome a particular risk in the days right after starting effective chemotherapy, rather than before treatment begins?",
+    "et": "Miks on kasvaja lüüsi sündroom eriline oht just päevadel kohe pärast tõhusa keemiaravi alustamist, mitte enne ravi algust?",
+    "sourceHash": "be328f0786b8ba1e",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because tumor lysis syndrome results from tumor cells dying and releasing their intracellular contents into the blood, and effective chemotherapy killing a large tumor burden rapidly is exactly what triggers that release.",
+        "et": "Sest kasvaja lüüsi sündroom tekib kasvajarakkude surmast ja nende rakusisese sisu vabanemisest verre, ning tõhus keemiaravi, mis tapab kiiresti suure kasvajakoormuse, ongi täpselt see, mis vallandab selle vabanemise.",
+        "sourceHash": "7ef0eacd445d8ad1",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because the tumor is growing and invading fastest right after chemotherapy starts, and invasion itself is what releases the dangerous substances.",
+        "et": "Sest kasvaja kasvab ja invadeerib kõige kiiremini kohe pärast keemiaravi algust ning invasioon ise on see, mis vabastab ohtlikke aineid.",
+        "sourceHash": "cc81fbb3e9dad767",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "paraneoplastic-and-oncologic-emergency-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because chemotherapy directly destroys bone tissue, releasing calcium and other electrolytes into the bloodstream.",
+        "et": "Sest keemiaravi hävitab otseselt luukude, vabastades kaltsiumi ja teisi elektrolüüte vereringesse.",
+        "sourceHash": "4318f608e251ee80",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "paraneoplastic-and-oncologic-emergency-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because chemotherapy triggers all paraneoplastic syndromes through one shared mechanism, so tumor lysis syndrome is just one lab-value manifestation of that single process.",
+        "et": "Sest keemiaravi vallandab kõik paraneoplastilised sündroomid ühe jagatud mehhanismi kaudu, mistõttu kasvaja lüüsi sündroom on lihtsalt üks selle ühe protsessi laboriväärtuse ilming.",
+        "sourceHash": "d70784bef6485163",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "paraneoplastic-and-oncologic-emergency-mechanisms-m3"
+    }
+  ]
+}

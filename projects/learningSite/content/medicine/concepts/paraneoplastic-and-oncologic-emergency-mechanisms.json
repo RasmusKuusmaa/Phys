@@ -1,0 +1,21 @@
+{
+  "id": "paraneoplastic-and-oncologic-emergency-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "hematology-and-oncology",
+  "title": {
+    "en": "Paraneoplastic and oncologic emergency mechanisms",
+    "et": "Paraneoplastilised ja onkoloogiliste erakorraliste seisundite mehhanismid",
+    "sourceHash": "f333dd0a8cc706b8",
+    "stale": false
+  },
+  "summary": {
+    "en": "A tumor doesn't only cause damage through direct invasion or metastasis -- it can also generate acute, sometimes life-threatening derangements of body chemistry through completely separate mechanisms, each mechanistically distinct rather than one shared process. Tumor lysis syndrome occurs when a large tumor burden dies off rapidly (either spontaneously or, more often, right after starting effective chemotherapy), releasing the intracellular contents of millions of cells -- potassium, phosphate, and nucleic acids that break down into uric acid -- into the bloodstream faster than the kidneys can clear them, producing dangerous electrolyte derangements and kidney injury from uric acid crystal deposition. Hypercalcemia of malignancy arises through an entirely different route: certain tumors secrete a hormone-like protein (PTH-related peptide) that mimics parathyroid hormone's effect on bone, or directly invade and destroy bone tissue, both routes releasing calcium into the blood faster than the kidneys and skeleton can buffer it. Syndrome of inappropriate antidiuretic hormone secretion (SIADH) is a third, again separate mechanism: some tumors (classically small cell lung cancer) directly secrete antidiuretic hormone (or a similar molecule) themselves, causing the kidneys to retain free water independent of the body's actual hydration status, diluting blood sodium. These three syndromes are grouped together as paraneoplastic/oncologic-emergency phenomena not because they share one mechanism, but because they're all systemic derangements a tumor can cause at a distance from wherever it's actually growing.",
+    "et": "Kasvaja ei tekita kahju mitte ainult otsese invasiooni või metastaaside kaudu -- see võib tekitada ka ägedaid, mõnikord eluohtlikke kehakeemia häireid täiesti eraldiseisvate mehhanismide kaudu, millest igaüks on mehhanistiliselt erinev, mitte üks jagatud protsess. Kasvaja lüüsi sündroom tekib, kui suur kasvajakoormus sureb kiiresti (kas spontaanselt või, sagedamini, kohe pärast tõhusa keemiaravi alustamist), vabastades miljonite rakkude rakusisese sisu -- kaalium, fosfaat ja nukleiinhapped, mis lagunevad kusihappeks -- vereringesse kiiremini, kui neerud suudavad neid puhastada, tekitades ohtlikke elektrolüütide häireid ja neerukahjustust kusihappe kristallide ladestumisest. Pahaloomulisuse hüperkaltseemia tekib täiesti erineval teel: teatud kasvajad eritavad hormoonisarnast valku (PTH-ga seotud peptiid), mis jäljendab kõrvalkilpnäärme hormooni mõju luule, või invadeerivad ja hävitavad otseselt luukude, mõlemad teed vabastavad kaltsiumi verre kiiremini, kui neerud ja luustik suudavad seda puhverdada. Ebasobiva antidiureetilise hormooni sekretsiooni sündroom (SIADH) on kolmas, jällegi eraldiseisev mehhanism: mõned kasvajad (klassikaliselt väikerakk-kopsuvähk) eritavad ise otse antidiureetilist hormooni (või sarnast molekuli), põhjustades neerudel vaba vee kinnipidamist sõltumatult keha tegelikust hüdratatsioonistaatusest, lahjendades vere naatriumit. Neid kolme sündroomi rühmitatakse paraneoplastiliste/onkoloogiliste erakorraliste nähtustena mitte seetõttu, et need jagavad üht mehhanismi, vaid seetõttu, et need kõik on süsteemsed häired, mida kasvaja võib põhjustada eemal sellest, kus see tegelikult kasvab.",
+    "sourceHash": "2e145ddf0c5d6e7a",
+    "stale": false
+  },
+  "prerequisites": [
+    "neoplasia-and-cancer-biology"
+  ]
+}
