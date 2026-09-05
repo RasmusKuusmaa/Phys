@@ -946,25 +946,44 @@ the organ-system/anatomy/pathology depth on top of it.
 
 ### Module `dermatology`
 
-- [ ] Integumentary system anatomy and physiology (skin layers and
+- [x] Integumentary system anatomy and physiology (skin layers and
       appendages, barrier/thermoregulation/sensory functions — the missing
       Med1-level foundation this module needs; no prerequisites)
-- [ ] Skin barrier dysfunction and eczema mechanisms (barrier-protein
+- [x] Skin barrier dysfunction and eczema mechanisms (barrier-protein
       dysfunction, the atopic dermatitis mechanism; prerequisite:
       integumentary-system-anatomy-and-physiology)
-- [ ] Psoriasis and immune-mediated skin disease (keratinocyte
+- [x] Psoriasis and immune-mediated skin disease (keratinocyte
       hyperproliferation driven by an immune mechanism, distinct from
       eczema's barrier-dysfunction angle; prerequisites: integumentary-
       system-anatomy-and-physiology, autoimmunity-and-hypersensitivity)
-- [ ] Skin infection mechanisms (bacterial, fungal, and viral skin
+- [x] Skin infection mechanisms (bacterial, fungal, and viral skin
       infection as mechanistic categories, building on microbiology rather
       than restating it; prerequisites: integumentary-system-anatomy-and-
       physiology, fungal-and-parasitic-pathogens)
-- [ ] Skin cancer mechanisms (UV-driven mutagenesis, the melanoma vs.
+- [x] Skin cancer mechanisms (UV-driven mutagenesis, the melanoma vs.
       non-melanoma mechanistic distinction; prerequisites: integumentary-
       system-anatomy-and-physiology, neoplasia-and-cancer-biology)
-- [ ] Pigmentation disorders and melanocyte biology (melanocyte function,
+- [x] Pigmentation disorders and melanocyte biology (melanocyte function,
       the vitiligo and albinism mechanisms, hyperpigmentation; prerequisite:
       integumentary-system-anatomy-and-physiology)
+
+Module complete: 6 dermatology concepts, authored directly by the
+coordinator (both this module and the sibling `reproductive-medicine`
+module were dispatched as forks; this one was completed directly instead
+once it became clear the coordinator's own turn budget could cover it
+faster than waiting). All kept conceptual — each concept's real content is
+a mechanistic distinction (structural barrier vs. immune-driven skin
+disease, three pathogen categories' different relationships to living
+tissue, cell-of-origin as the driver of cancer behavior, three distinct
+pigmentation-pathway failures), not a single clean numeric relationship.
+No new glossary terms needed. `npm run validate:content` (9 subjects, 630
+concepts), `npm run lint:terminology` (266 glossary terms), and `npm run
+typecheck` all pass; every resource URL verified live with `curl`. Two
+Estonian resources are honest adjacent matches rather than exact-topic
+matches, since Estonian Wikipedia has no dedicated article at these exact
+scopes: `skin-barrier-dysfunction-and-eczema-mechanisms` links to the
+general "Allergia" article (no dedicated atopic-dermatitis article exists)
+and `skin-infection-mechanisms` links to "Mükoos" (fungal infection
+generally, one of the three pathogen categories the concept covers).
 
 ---
