@@ -1,0 +1,10 @@
+{
+  "id": "geologic-time-and-stratigraphy-m2",
+  "conceptId": "geologic-time-and-stratigraphy",
+  "text": {
+    "en": "Relative dating (superposition, cross-cutting relationships) and absolute/radiometric dating are basically two versions of the same measurement, just with different precision -- in reality, they are fundamentally different kinds of information: relative dating only ever establishes a before/after sequence between rock layers or features, with no numerical age attached, while absolute dating uses radioactive decay rates to assign an actual age in years; geologists typically need both together, using relative dating to establish sequence and absolute dating to anchor that sequence to real time.",
+    "et": "Suhteline dateerimine (superpositsioon, läbilõikuvad suhted) ja absoluutne/radiomeetriline dateerimine on põhimõtteliselt sama mõõtmise kaks versiooni, lihtsalt erineva täpsusega -- tegelikult on need põhimõtteliselt erinevat liiki info: suhteline dateerimine kehtestab ainult enne/pärast järjestuse kivimikihtide või tunnuste vahel, ilma arvulise vanuseta, samas kui absoluutne dateerimine kasutab radioaktiivse lagunemise kiirusi tegeliku aastates vanuse määramiseks; geoloogid vajavad tavaliselt mõlemat koos, kasutades suhtelist dateerimist järjestuse kehtestamiseks ja absoluutset dateerimist selle järjestuse ankurdamiseks tegelikku aega.",
+    "sourceHash": "b178af6669aaf56e",
+    "stale": false
+  }
+}

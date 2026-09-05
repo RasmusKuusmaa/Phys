@@ -1,0 +1,56 @@
+{
+  "id": "geologic-time-and-stratigraphy-item1",
+  "conceptId": "geologic-time-and-stratigraphy",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A geologist finds an igneous dike (a sheet of intrusive rock) cutting vertically across several horizontal sedimentary layers. What can be concluded about the dike's age relative to the layers, and from which principle?",
+    "et": "Geoloog leiab tardkivimist kaikvarre (intrusiivse kivimi kihi), mis lõikub vertikaalselt läbi mitme horisontaalse settekihi. Mida saab järeldada kaikvarre vanuse kohta kihtide suhtes ja millisest printsiibist?",
+    "sourceHash": "d3c768c09ebd9542",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "The dike must be younger than every sedimentary layer it cuts through, by the principle of cross-cutting relationships, since the layers had to already exist for the dike to cut across them.",
+        "et": "Kaikvars peab olema noorem kui iga settekiht, mida see läbib, läbilõikuvate suhete printsiibi järgi, kuna kihid pidid juba eksisteerima, et kaikvars saaks neist läbi lõikuda.",
+        "sourceHash": "52fd22080ef6230b",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "The dike must be the same age as the layers, since cross-cutting features form simultaneously with the rock they're found within.",
+        "et": "Kaikvars peab olema kihtidega samavanune, kuna läbilõikuvad tunnused moodustuvad samaaegselt kivimiga, milles need leitakse.",
+        "sourceHash": "bcea8adfcd2b922a",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "geologic-time-and-stratigraphy-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "The dike must be older than the layers, by the principle of superposition, since intrusive rock is always older than sedimentary rock.",
+        "et": "Kaikvars peab olema kihtidest vanem, superpositsiooni printsiibi järgi, kuna intrusiivne kivim on alati vanem kui settekivim.",
+        "sourceHash": "2cc9652fc59a58d0",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "geologic-time-and-stratigraphy-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "No age relationship can be determined without radiometric dating, since relative dating principles don't apply when both igneous and sedimentary rock are present.",
+        "et": "Ühtegi vanuselist suhet ei saa määrata ilma radiomeetrilise dateerimiseta, kuna suhtelise dateerimise printsiibid ei kehti, kui on olemas nii tard- kui settekivim.",
+        "sourceHash": "efad11c97cd9833c",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "geologic-time-and-stratigraphy-m3"
+    }
+  ]
+}

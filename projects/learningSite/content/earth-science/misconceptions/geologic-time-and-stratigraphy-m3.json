@@ -1,0 +1,10 @@
+{
+  "id": "geologic-time-and-stratigraphy-m3",
+  "conceptId": "geologic-time-and-stratigraphy",
+  "text": {
+    "en": "A geologic fault or an igneous intrusion cutting through several rock layers must be roughly the same age as those layers, since it's physically part of the same rock formation now -- in reality, the principle of cross-cutting relationships says the opposite: any feature that cuts across existing rock layers must be YOUNGER than every layer it cuts through, since the rock had to already exist, undisturbed, before something could cut across it.",
+    "et": "Geoloogiline rike või tardintrusioon, mis lõikub läbi mitme kivimikihi, peab olema ligikaudu samavanune kui need kihid, kuna see on nüüd füüsiliselt osa samast kivimimoodustisest -- tegelikult ütleb läbilõikuvate suhete printsiip vastupidist: mistahes tunnus, mis lõikub läbi olemasolevate kivimikihtide, peab olema NOOREM kui iga kiht, mida see läbib, kuna kivim pidi juba eksisteerima, häirimatuna, enne kui miski sai sellest läbi lõikuda.",
+    "sourceHash": "fb4d9f94b11159f2",
+    "stale": false
+  }
+}
