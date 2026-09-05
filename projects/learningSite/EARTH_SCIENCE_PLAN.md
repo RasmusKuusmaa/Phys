@@ -59,7 +59,7 @@ Single module for now (`earth-science-fundamentals`), same one-module-
 through-later-phases pattern every new subject on this site has started
 with.
 
-- [ ] Plate tectonics and continental drift (the geological angle: plate
+- [x] Plate tectonics and continental drift (the geological angle: plate
       boundary types — divergent, convergent, transform — their distinct
       surface expressions, and the historical evidence trail that
       established the theory — matching coastlines/fossils, seafloor
@@ -68,21 +68,33 @@ with.
       mantle-convection mechanism, not this evidence/classification angle;
       no prerequisites — the unifying framework the rest of this subject
       builds on)
-- [ ] Rock cycle and rock classification (igneous, sedimentary, and
+- [x] Rock cycle and rock classification (igneous, sedimentary, and
       metamorphic rock formation and how one rock type transforms into
       another; no prerequisites)
-- [ ] Mineralogy and mineral identification (mineral crystal structure and
+- [x] Mineralogy and mineral identification (mineral crystal structure and
       the physical properties — hardness, cleavage, streak, luster — used
       to identify one; prerequisite: rock-cycle-and-rock-classification)
-- [ ] Geologic time and stratigraphy (relative vs. absolute dating, the
+- [x] Geologic time and stratigraphy (relative vs. absolute dating, the
       principle of superposition, the geologic time scale; no
       prerequisites)
-- [ ] Seismology and earthquake mechanisms (fault types, seismic wave
-      types, and earthquake magnitude scales — a genuine formula
-      candidate; prerequisite: plate-tectonics-and-continental-drift)
-- [ ] Volcanism and volcanic hazards (volcano types, how magma composition
+- [x] Seismology and earthquake mechanisms (fault types, seismic wave
+      types, and earthquake magnitude scales — formalised the logarithmic
+      energy-magnitude relation M = (log10(E) - 4.8) / 1.5 as a formula +
+      problem template + error model; prerequisite: plate-tectonics-and-
+      continental-drift)
+- [x] Volcanism and volcanic hazards (volcano types, how magma composition
       controls eruption style, volcanic hazards; prerequisite: plate-
-      tectonics-and-continental-drift)
+      tectonics-and-continental-drift; kept conceptual)
+
+Phase ES1 complete: 6 earth-science concepts. One new glossary term added
+(`magnitude`); all other formula symbols reused the existing `energy`
+entry. `npm run validate:content` (11 subjects, 659 concepts — a sibling
+`biology` subject landed concurrently), `npm run lint:terminology` (269
+glossary terms), and `npm run typecheck` all pass; every resource URL
+verified live with `curl`. One Estonian resource is an honest adjacent
+match rather than an exact-topic match: Estonian Wikipedia has no
+"Kivimitsükkel" (rock cycle) article, so `rock-cycle-and-rock-
+classification` links to the general "Kivim" (rock) article instead.
 
 ## Phase ES2 — not yet planned
 
