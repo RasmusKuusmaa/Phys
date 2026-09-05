@@ -1,0 +1,22 @@
+{
+  "id": "glomerulonephritis-mechanisms",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "renal-and-urologic-medicine",
+  "title": {
+    "en": "Glomerulonephritis mechanisms",
+    "et": "Glomerulonefriidi mehhanismid",
+    "sourceHash": "675e1c5e69786c96",
+    "stale": false
+  },
+  "summary": {
+    "en": "Glomerulonephritis is inflammation of the glomerulus, the capillary tuft that performs the kidney's initial filtration step, and the great majority of cases are immune-mediated -- the same hypersensitivity mechanisms already covered in this subject's autoimmunity-and-hypersensitivity concept, applied specifically to the glomerular filtration barrier. In one common pattern, circulating antigen-antibody complexes, formed elsewhere in the body during an infection or autoimmune process, become physically trapped in the glomerulus simply because that is where the blood is being filtered under high pressure through a very fine barrier; those trapped complexes then trigger local complement activation and an inflammatory response that damages the glomerulus itself, even though the kidney was never the actual target of the original immune reaction. In a mechanistically distinct pattern, antibodies form directly against components of the glomerular filtration barrier itself, making the kidney a direct and specific target of the autoimmune attack rather than an innocent bystander catching immune complexes formed elsewhere. Whichever mechanism is responsible, the shared functional consequence is damage to the filtration barrier's normal size-selectivity, which is why glomerulonephritis characteristically produces blood and excess protein in the urine -- red blood cells and proteins that a healthy, intact glomerular barrier would never have let across in the first place.",
+    "et": "Glomerulonefriit on glomeruluse, kapillaaride kobara, mis teostab neeru esialgse filtratsiooni sammu, põletik, ning valdav enamus juhtudest on immuunvahendatud -- samad ülitundlikkuse mehhanismid, mida on selle aine autoimmuunsuse-ja-ülitundlikkuse mõistes juba käsitletud, rakendatuna spetsiifiliselt glomerulaarsele filtratsioonibarjäärile. Ühes levinud mustris jäävad ringlevad antigeen-antikeha kompleksid, mis moodustuvad kusagil mujal kehas infektsiooni või autoimmuunprotsessi ajal, füüsiliselt lõksu glomerulusesse lihtsalt seetõttu, et seal veri filtreeritakse kõrge rõhu all läbi väga peene barjääri; need lõksu jäänud kompleksid käivitavad seejärel lokaalse komplemendi aktivatsiooni ja põletikulise reaktsiooni, mis kahjustab glomerulust ennast, kuigi neer ei olnud kunagi algse immuunreaktsiooni tegelik sihtmärk. Mehhanistlikult erinevas mustris moodustuvad antikehad otse glomerulaarse filtratsioonibarjääri komponentide vastu, muutes neeru autoimmuunse rünnaku otseseks ja spetsiifiliseks sihtmärgiks, mitte süütuks kõrvalseisjaks, kes püüab kinni kusagil mujal moodustunud immuunkomplekse. Ükskõik milline mehhanism on vastutav, jagatud funktsionaalne tagajärg on kahjustus filtratsioonibarjääri normaalsele suurusselektiivsusele, mis ongi põhjus, miks glomerulonefriit tekitab iseloomulikult verd ja liigset valku uriinis -- punaseid vereliblesid ja valke, mida terve, terviklik glomerulaarne barjäär ei oleks kunagi lasknud läbi.",
+    "sourceHash": "3cc71d6ee7807acb",
+    "stale": false
+  },
+  "prerequisites": [
+    "renal-and-urinary-system-anatomy-and-physiology",
+    "autoimmunity-and-hypersensitivity"
+  ]
+}

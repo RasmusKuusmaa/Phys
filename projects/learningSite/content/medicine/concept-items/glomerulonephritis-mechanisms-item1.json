@@ -1,0 +1,56 @@
+{
+  "id": "glomerulonephritis-mechanisms-item1",
+  "conceptId": "glomerulonephritis-mechanisms",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Why can an infection somewhere else in the body (like the throat or skin) trigger glomerulonephritis, even though the kidney itself was never directly infected?",
+    "et": "Miks võib infektsioon kusagil mujal kehas (nagu kurgus või nahal) käivitada glomerulonefriidi, kuigi neer ise ei olnud kunagi otseselt infitseeritud?",
+    "sourceHash": "c914f37ddd963165",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Antigen-antibody immune complexes formed during the original infection can become physically trapped in the glomerulus, since that's where blood is filtered under high pressure through a very fine barrier, triggering local inflammation even without any direct kidney infection.",
+        "et": "Algse infektsiooni ajal moodustunud antigeen-antikeha immuunkompleksid võivad jääda füüsiliselt lõksu glomerulusesse, kuna seal filtreeritakse verd kõrge rõhu all läbi väga peene barjääri, käivitades lokaalse põletiku ilma otsese neeruinfektsioonita.",
+        "sourceHash": "d09cc4a14f467f12",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "This shouldn't happen — glomerulonephritis requires the kidney itself to be directly infected by the same organism causing the original infection.",
+        "et": "See ei peaks juhtuma -- glomerulonefriit nõuab, et neer ise oleks otseselt infitseeritud sama organismiga, mis põhjustab algset infektsiooni.",
+        "sourceHash": "04b8993c37648ad4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "glomerulonephritis-mechanisms-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "This must work through the same mechanism as antibodies forming directly against the glomerular filtration barrier itself, since all glomerulonephritis cases share one identical mechanism.",
+        "et": "See peab toimima sama mehhanismi kaudu, mis antikehade moodustumine otse glomerulaarse filtratsioonibarjääri vastu, kuna kõik glomerulonefriidi juhtumid jagavad üht identset mehhanismi.",
+        "sourceHash": "7f65461e9f6210c7",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "glomerulonephritis-mechanisms-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "The kidney must be actively producing the abnormal proteins and blood cells found in the urine as a direct response to the distant infection.",
+        "et": "Neer peab aktiivselt tootma uriinis leiduvaid ebanormaalseid valke ja vereliblesid otsese reaktsioonina kaugele infektsioonile.",
+        "sourceHash": "9a01bcb8a8ff936f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "glomerulonephritis-mechanisms-m3"
+    }
+  ]
+}

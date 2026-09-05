@@ -1,0 +1,10 @@
+{
+  "id": "glomerulonephritis-mechanisms-m2",
+  "conceptId": "glomerulonephritis-mechanisms",
+  "text": {
+    "en": "All cases of immune-mediated glomerulonephritis work through the identical mechanism -- in reality, there are at least two mechanistically distinct patterns: circulating immune complexes formed elsewhere becoming trapped in the glomerulus (making the kidney an incidental bystander), versus antibodies forming directly against components of the glomerular filtration barrier itself (making the kidney a direct, specific target); these are genuinely different processes despite both being immune-mediated.",
+    "et": "Kõik immuunvahendatud glomerulonefriidi juhtumid toimivad identse mehhanismi kaudu -- tegelikult on olemas vähemalt kaks mehhanistlikult erinevat mustrit: kusagil mujal moodustunud ringlevad immuunkompleksid, mis jäävad lõksu glomerulusesse (muutes neeru juhusliku kõrvalseisjaks), versus antikehad, mis moodustuvad otse glomerulaarse filtratsioonibarjääri komponentide vastu (muutes neeru otseseks, spetsiifiliseks sihtmärgiks); need on tõeliselt erinevad protsessid, hoolimata sellest, et mõlemad on immuunvahendatud.",
+    "sourceHash": "45d969119d9af3e7",
+    "stale": false
+  }
+}

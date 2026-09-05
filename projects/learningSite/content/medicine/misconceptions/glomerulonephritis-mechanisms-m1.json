@@ -1,0 +1,10 @@
+{
+  "id": "glomerulonephritis-mechanisms-m1",
+  "conceptId": "glomerulonephritis-mechanisms",
+  "text": {
+    "en": "Glomerulonephritis is caused by a direct infection of the kidney itself -- in reality, the great majority of glomerulonephritis is immune-mediated, not a direct infection of kidney tissue; in one common pattern, immune complexes formed elsewhere in the body during an infection or autoimmune process become trapped in the glomerulus and trigger local inflammation, even though the kidney itself was never directly infected.",
+    "et": "Glomerulonefriiti põhjustab otsene infektsioon neerus endas -- tegelikult on valdav enamus glomerulonefriidist immuunvahendatud, mitte otsene infektsioon neerukoes; ühes levinud mustris jäävad kusagil mujal kehas infektsiooni või autoimmuunprotsessi ajal moodustunud immuunkompleksid lõksu glomerulusesse ja käivitavad lokaalse põletiku, kuigi neer ise ei olnud kunagi otseselt infitseeritud.",
+    "sourceHash": "139a31bab019a4e4",
+    "stale": false
+  }
+}
