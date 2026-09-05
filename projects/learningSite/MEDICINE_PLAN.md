@@ -1024,30 +1024,46 @@ manual (no DSM-style criteria checklists).
 
 ### Module `infectious-disease`
 
-- [ ] Sepsis and systemic inflammatory response mechanisms (how a local
+- [x] Sepsis and systemic inflammatory response mechanisms (how a local
       infection becomes a systemic, life-threatening inflammatory cascade;
       prerequisites: host-pathogen-interactions-and-virulence,
-      innate-immunity-and-inflammation)
-- [ ] Healthcare-associated and opportunistic infection mechanisms (why
+      innate-immunity-and-inflammation; kept conceptual)
+- [x] Healthcare-associated and opportunistic infection mechanisms (why
       immunocompromised hosts and healthcare settings favor specific
       pathogens; prerequisites: immunodeficiency-and-immune-evasion,
-      antimicrobial-mechanisms-and-resistance)
-- [ ] Vector-borne and zoonotic disease mechanisms (how pathogens exploit
+      antimicrobial-mechanisms-and-resistance; kept conceptual)
+- [x] Vector-borne and zoonotic disease mechanisms (how pathogens exploit
       an animal/insect vector or reservoir to reach human hosts; no
-      prerequisites)
-- [ ] Central nervous system infection mechanisms (meningitis vs.
+      prerequisites; kept conceptual)
+- [x] Central nervous system infection mechanisms (meningitis vs.
       encephalitis as mechanistically distinct patterns of CNS infection;
       prerequisites: the-central-nervous-system-brain-structure-and-
-      function, host-pathogen-interactions-and-virulence)
-- [ ] Endocarditis and intravascular infection mechanisms (how pathogens
+      function, host-pathogen-interactions-and-virulence; kept conceptual)
+- [x] Endocarditis and intravascular infection mechanisms (how pathogens
       establish infection on a heart valve or vascular surface, and why
       that site is mechanistically unusual for clearance; prerequisite:
-      cardiovascular-system-anatomy-and-physiology)
-- [ ] Antimicrobial stewardship and resistance at the population level
+      cardiovascular-system-anatomy-and-physiology; kept conceptual)
+- [x] Antimicrobial stewardship and resistance at the population level
       (how resistance spreads across a population/healthcare system, not
       just within one bacterium — building on the existing molecular-level
       antimicrobial-mechanisms-and-resistance concept; prerequisite:
-      antimicrobial-mechanisms-and-resistance)
+      antimicrobial-mechanisms-and-resistance; kept conceptual)
+
+Module complete: 6 infectious-disease concepts, all kept conceptual — each
+concept's real content is a mechanistic distinction (systemic vs. local
+inflammatory response, missing-defense vs. pathogen-virulence, vector/
+reservoir dependency, meninges vs. parenchyma, avascular-site immune
+evasion, population- vs. cell-level resistance spread), not a single clean
+numeric relationship. No new glossary terms needed. `npm run
+validate:content` (9 subjects, 642 concepts), `npm run lint:terminology`
+(266 glossary terms), and `npm run typecheck` all pass; every resource URL
+verified live with `curl`. Two Estonian resources are honest close matches
+rather than exact-topic matches, since Estonian Wikipedia has no dedicated
+article at these exact scopes: `healthcare-associated-and-opportunistic-
+infection-mechanisms` links to "Hospitaalinfektsioon" (healthcare-
+associated infection generally) and `endocarditis-and-intravascular-
+infection-mechanisms` links to "Bakteriaalne endokardiit" (bacterial
+endocarditis specifically, not a combined bacterial/fungal article).
 
 ### Module `psychiatry-and-behavioral-medicine`
 
