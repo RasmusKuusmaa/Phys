@@ -1,0 +1,19 @@
+{
+  "id": "marine-ecosystems-and-biological-zonation",
+  "subject": "oceanography",
+  "level": "L2",
+  "module": "oceanography-fundamentals",
+  "title": {
+    "en": "Marine ecosystems and biological zonation",
+    "et": "Mereökosüsteemid ja bioloogiline vöötumine",
+    "sourceHash": "c58e7350c7c75330",
+    "stale": false
+  },
+  "summary": {
+    "en": "Marine life is organized into distinct zones defined primarily by two physical gradients: light availability with depth, and proximity to the seafloor versus the open water column. The photic zone -- the sunlit surface layer, typically only the uppermost couple hundred meters even in the clearest open ocean -- is where photosynthesis can occur at all, making it the foundation of nearly every marine food web despite representing a thin sliver of the ocean's total volume; below it, the aphotic zone extends through the vast, permanently dark majority of the ocean's depth, where life depends entirely on food sinking down from above (or, in rare chemosynthetic ecosystems, on chemical energy rather than sunlight at all). Independent of that light gradient, marine organisms also split into the pelagic zone -- the open water column, home to everything from drifting plankton to fast-swimming fish and whales -- and the benthic zone, the seafloor and the organisms that live on or in it, from shallow coral reefs to the specialized life clustered around deep hydrothermal vents. These two axes combine to define most named marine habitats: a coral reef is photic and benthic, the deep seafloor is aphotic and benthic, and the sunlit open ocean surface is photic and pelagic, each combination supporting a genuinely different community of organisms adapted to that specific combination of light and substrate.",
+    "et": "Merikeskkonna elu on organiseeritud eristuvatesse vöönditesse, mida määravad peamiselt kaks füüsikalist gradienti: valguse kättesaadavus sügavusega ja lähedus merepõhjale versus avale veesambale. Fotiline vöönd -- päikesevalgusega pinnakiht, tavaliselt vaid ülemised paarsada meetrit isegi kõige selgemas avaookeanis -- on koht, kus fotosüntees üldse saab toimuda, muutes selle peaaegu iga mere toiduahela aluseks, hoolimata sellest, et see moodustab vaid õhukese osa ookeani kogumahust; selle all ulatub afotiline vöönd läbi ookeani sügavuse tohutu, alaliselt pimeda enamiku, kus elu sõltub täielikult ülevalt allalangevast toidust (või haruldastes kemosünteetilistes ökosüsteemides keemilisest energiast, mitte üldse päikesevalgusest). Sõltumatult sellest valgusgradiendist jaguneb mereorganism ka pelaagiliseks vööndiks -- avale veesambale, mis on koduks kõigele triivivast planktonist kuni kiiresti ujuvate kalade ja vaaladeni -- ja bentaalseks vööndiks, merepõhjaks ja sellel või selles elavateks organismideks, alates madalatest korallriffidest kuni sügavate hüdrotermiliste allikate ümber koonduva spetsialiseerunud eluni. Need kaks telge kombineeruvad, et määratleda enamik nimetatud merikeskkonna elupaiku: korallriff on fotiline ja bentaalne, sügav merepõhi on afotiline ja bentaalne ning päikesevalgusega avaookeani pind on fotiline ja pelaagiline, kusjuures iga kombinatsioon toetab tõeliselt erinevat kooslust organisme, mis on kohanenud selle konkreetse valguse ja aluspinna kombinatsiooniga.",
+    "sourceHash": "d75b20ee9c4fd65a",
+    "stale": false
+  },
+  "prerequisites": []
+}

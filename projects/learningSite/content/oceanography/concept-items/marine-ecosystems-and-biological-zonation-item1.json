@@ -1,0 +1,56 @@
+{
+  "id": "marine-ecosystems-and-biological-zonation-item1",
+  "conceptId": "marine-ecosystems-and-biological-zonation",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "A coral reef and the deep ocean floor are both classified as 'benthic' habitats, yet they support completely different communities of organisms. What best explains this?",
+    "et": "Korallriff ja sügav ookeanipõhi on mõlemad klassifitseeritud 'bentaalseteks' elupaikadeks, kuid need toetavad täiesti erinevaid organismide kooslusi. Mis seda kõige paremini selgitab?",
+    "sourceHash": "0b26e7280b30c7fd",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Because 'benthic' only describes seafloor association, an axis independent of light availability -- a coral reef is benthic and photic (shallow, sunlit), while the deep ocean floor is benthic and aphotic (dark), and it's this second axis that drives most of the difference in which organisms can live there.",
+        "et": "Sest 'bentaalne' kirjeldab ainult merepõhjaga seotust, telge, mis on sõltumatu valguse kättesaadavusest -- korallriff on bentaalne ja fotiline (madal, päikesevalgusega), samas kui sügav ookeanipõhi on bentaalne ja afotiline (pime), ning just see teine telg tekitab enamiku erinevusest selles, millised organismid seal saavad elada.",
+        "sourceHash": "bcb04881786fc7f0",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "Because coral reefs are actually classified as pelagic, not benthic, despite common usage, which is the real source of the confusion.",
+        "et": "Sest korallriffid on tegelikult klassifitseeritud pelaagilisteks, mitte bentaalseteks, hoolimata tavakasutusest, mis ongi tegelik segaduse allikas.",
+        "sourceHash": "2f9848efbbdfcace",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "marine-ecosystems-and-biological-zonation-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "Because the two habitats are at different depths, and depth alone (independent of any light-related mechanism) directly determines which species can survive there.",
+        "et": "Sest need kaks elupaika on erinevatel sügavustel ning sügavus üksi (sõltumatult mistahes valgusega seotud mehhanismist) määrab otseselt, millised liigid seal ellu jäävad.",
+        "sourceHash": "4950be7eec207fee",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "marine-ecosystems-and-biological-zonation-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Because 'benthic' habitats are actually all identical in principle, and the observed difference between a reef and the deep floor is really just sampling variation between two examples of the same habitat type.",
+        "et": "Sest 'bentaalsed' elupaigad on tegelikult põhimõtteliselt kõik identsed ning täheldatud erinevus riffi ja sügava põhja vahel on tegelikult lihtsalt valimivariatsioon sama elupaigatüübi kahe näite vahel.",
+        "sourceHash": "bfcbcf1bae72389f",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "marine-ecosystems-and-biological-zonation-m3"
+    }
+  ]
+}

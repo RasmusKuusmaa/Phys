@@ -1,0 +1,10 @@
+{
+  "id": "marine-ecosystems-and-biological-zonation-m2",
+  "conceptId": "marine-ecosystems-and-biological-zonation",
+  "text": {
+    "en": "Pelagic and benthic are just two words for the same idea -- open ocean versus deep ocean -- describing depth rather than two independent classifications -- in reality, pelagic (open water column) vs. benthic (seafloor-associated) is an axis independent of the light-based photic/aphotic axis, so marine habitats are actually defined by combining both axes (e.g. a coral reef is photic-benthic, the deep seafloor is aphotic-benthic).",
+    "et": "Pelaagiline ja bentaalne on lihtsalt kaks sõna sama idee jaoks -- avaookean versus sügav ookean --, mis kirjeldavad sügavust, mitte kaht sõltumatut klassifikatsiooni -- tegelikult on pelaagiline (avavesi) vs. bentaalne (merepõhjaga seotud) telg, mis on sõltumatu valguspõhisest fotilisest/afotilisest teljest, mistõttu merikeskkonna elupaigad on tegelikult määratletud mõlema telje kombineerimisega (nt korallriff on fotiline-bentaalne, sügav merepõhi on afotiline-bentaalne).",
+    "sourceHash": "c4ae300f58694456",
+    "stale": false
+  }
+}
