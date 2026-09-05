@@ -1,0 +1,56 @@
+{
+  "id": "pain-physiology-and-nociception-item1",
+  "conceptId": "pain-physiology-and-nociception",
+  "type": "multiple-choice",
+  "stem": {
+    "en": "Two patients receive the identical surgical incision, but one reports much more post-operative pain than the other, with no difference in wound healing. What does this best illustrate about pain physiology?",
+    "et": "Kaks patsienti saavad identse kirurgilise sisselõike, kuid üks teatab operatsioonijärgselt palju rohkem valu kui teine, ilma erinevuseta haava paranemises. Mida see kõige paremini illustreerib valu füsioloogia kohta?",
+    "sourceHash": "62b26011b0acb031",
+    "stale": false
+  },
+  "options": [
+    {
+      "id": "a",
+      "label": {
+        "en": "Pain is actively modulated at multiple points along the nociceptive pathway (peripheral sensitization, spinal gating, descending inhibition), so identical tissue injury does not guarantee identical pain intensity.",
+        "et": "Valu moduleeritakse aktiivselt mitmes notsitseptiivse raja punktis (perifeerne sensiteerumine, seljaaju värav, laskuv inhibeerimine), mistõttu identne koevigastus ei taga identset valu intensiivsust.",
+        "sourceHash": "098207a5358b94fd",
+        "stale": false
+      },
+      "correct": true
+    },
+    {
+      "id": "b",
+      "label": {
+        "en": "One patient's tissue damage must actually be more severe, even though standard wound assessment shows no difference, since pain intensity is a direct, unmodulated readout of injury.",
+        "et": "Ühe patsiendi koekahjustus peab olema tegelikult tõsisem, kuigi standardne haava hindamine erinevust ei näita, kuna valu intensiivsus on otsene, moduleerimata vigastuse näit.",
+        "sourceHash": "40ebb584d25076b4",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pain-physiology-and-nociception-m1"
+    },
+    {
+      "id": "c",
+      "label": {
+        "en": "One patient must have hidden additional damage that hasn't been detected yet, since persistent high pain always indicates ongoing tissue injury.",
+        "et": "Ühel patsiendil peab olema varjatud lisakahjustus, mida pole veel tuvastatud, kuna püsiv kõrge valu näitab alati jätkuvat koekahjustust.",
+        "sourceHash": "124e525811640567",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pain-physiology-and-nociception-m2"
+    },
+    {
+      "id": "d",
+      "label": {
+        "en": "Since nociceptor activation and pain are the same event, this can only mean one patient's nociceptors were physically damaged more by the identical incision.",
+        "et": "Kuna notsiptsiiori aktiveerimine ja valu on üks ja sama sündmus, saab see tähendada ainult seda, et ühe patsiendi notsiptsioorid said identsest sisselõikest füüsiliselt rohkem kahjustada.",
+        "sourceHash": "8cddda548a6c53c9",
+        "stale": false
+      },
+      "correct": false,
+      "misconceptionId": "pain-physiology-and-nociception-m3"
+    }
+  ]
+}

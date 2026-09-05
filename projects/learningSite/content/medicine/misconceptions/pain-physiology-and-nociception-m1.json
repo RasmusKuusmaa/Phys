@@ -1,0 +1,10 @@
+{
+  "id": "pain-physiology-and-nociception-m1",
+  "conceptId": "pain-physiology-and-nociception",
+  "text": {
+    "en": "Pain intensity is a direct, faithful readout of how much tissue damage has occurred, so if two people suffer identical injuries they must feel identical pain -- in reality, pain intensity is actively modulated at multiple points along the nociceptive pathway (peripheral sensitization, spinal gating, descending cortical/brainstem inhibition), so context, attention, prior experience, and psychological state can genuinely change how much pain the same injury produces -- this is a real physiological modulation, not the person being more or less \"tough.\"",
+    "et": "Valu intensiivsus on otsene, ustav näit sellest, kui palju koekahjustust on tekkinud, mistõttu kaks identse vigastusega inimest peavad tundma identset valu -- tegelikult moduleeritakse valu intensiivsust aktiivselt mitmes notsitseptiivse raja punktis (perifeerne sensiteerumine, seljaaju värav, laskuv kortikaalne/ajutüve inhibeerimine), mistõttu kontekst, tähelepanu, varasem kogemus ja psühholoogiline seisund võivad tõeliselt muuta, kui palju valu sama vigastus tekitab -- see on tõeline füsioloogiline moduleerimine, mitte inimese suurem või väiksem 'sitkus.'",
+    "sourceHash": "c1e3343f1864f69c",
+    "stale": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "pain-physiology-and-nociception-m3",
+  "conceptId": "pain-physiology-and-nociception",
+  "text": {
+    "en": "Nociceptors and pain are the same thing -- activating a nociceptor is identical to feeling pain -- in reality, nociceptor activation is only the peripheral first step; the actual conscious experience of pain is constructed centrally, after the signal is relayed through the spinal cord and thalamus to the cortex and modulated at each stage -- nociceptor signals can be strongly gated before ever reaching conscious awareness.",
+    "et": "Notsiptsioorid ja valu on üks ja sama asi -- notsiptsiiori aktiveerimine on identne valu tundmisega -- tegelikult on notsiptsiiori aktiveerimine vaid perifeerne esimene samm; tegelik teadlik valukogemus konstrueeritakse tsentraalselt, pärast seda kui signaal edastatakse läbi seljaaju ja taalamuse ajukoorde ning moduleeritakse igas etapis -- notsiptsiiori signaale saab tugevalt värava taha jätta enne, kui need üldse teadlikkusesse jõuavad.",
+    "sourceHash": "abe87bfc58187dd2",
+    "stale": false
+  }
+}

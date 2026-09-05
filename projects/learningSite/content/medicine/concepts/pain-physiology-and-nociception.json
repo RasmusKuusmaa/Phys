@@ -1,0 +1,21 @@
+{
+  "id": "pain-physiology-and-nociception",
+  "subject": "medicine",
+  "level": "L2",
+  "module": "neuroscience",
+  "title": {
+    "en": "Pain physiology and nociception",
+    "et": "Valu füsioloogia ja notsitseptsioon",
+    "sourceHash": "c2a485c58d9af4b3",
+    "stale": false
+  },
+  "summary": {
+    "en": "Pain is not a passive readout of tissue damage but an actively constructed sensation that begins when specialized peripheral sensory neurons called nociceptors -- tuned to detect mechanical, thermal, or chemical stimuli intense enough to threaten tissue -- convert that stimulus into an electrical signal and relay it through the spinal cord's dorsal horn, up the spinothalamic tract, to the thalamus and finally the cerebral cortex, where the raw signal is interpreted, localized, and given emotional weight; at every one of these relay points the signal can be amplified or dampened by modulating circuits (the dorsal horn's own descending inhibitory pathways being the best-studied example), which is why the same tissue injury can hurt dramatically more or less depending on attention, prior experience, and context, without any change in the injury itself. This modulation is not a psychological add-on to a 'real' physical signal -- it is built into the nociceptive pathway's actual wiring, and chronic pain conditions frequently arise not from ongoing tissue damage but from persistent sensitization of this pathway itself (peripheral nociceptors becoming hyperexcitable, or the dorsal horn amplifying incoming signals), which is exactly why chronic pain can and does outlast the original injury by years.",
+    "et": "Valu ei ole passiivne koekahjustuse näit, vaid aktiivselt konstrueeritud aisting, mis algab, kui spetsialiseerunud perifeersed sensoorsed neuronid, notsiptsioorid -- häälestatud tuvastama mehaanilisi, termilisi või keemilisi stiimuleid, mis on piisavalt tugevad, et ohustada kude -- muudavad selle stiimuli elektriliseks signaaliks ja edastavad seda läbi seljaaju tagumise sarve, üles spinotalaamilise trakti kaudu taalamusesse ja lõpuks ajukooresse, kus toorsignaal tõlgendatakse, lokaliseeritakse ning antakse sellele emotsionaalne tähendus; igas neist edastuspunktidest saab signaali moduleerivate ahelate abil võimendada või summutada (parim uuritud näide on tagumise sarve enda laskuvad inhibeerivad rajad), mistõttu sama koevigastus võib valutada dramaatiliselt rohkem või vähem sõltuvalt tähelepanust, varasemast kogemusest ja kontekstist, ilma et vigastus ise muutuks. See moduleerimine ei ole psühholoogiline lisand 'päris' füüsilisele signaalile -- see on sisse ehitatud notsitseptiivse raja enda ülesehitusse, ning kroonilised valuseisundid tekivad sageli mitte jätkuvast koekahjustusest, vaid selle raja enda püsivast sensiteerumisest (perifeersed notsiptsioorid muutuvad hüpererutuvaks või tagumine sarv võimendab sissetulevaid signaale), mis ongi täpselt põhjus, miks krooniline valu võib ja püsibki aastaid kauem kui algne vigastus.",
+    "sourceHash": "fa0cac28573bfaf8",
+    "stale": false
+  },
+  "prerequisites": [
+    "neuron-structure-and-the-action-potential"
+  ]
+}
